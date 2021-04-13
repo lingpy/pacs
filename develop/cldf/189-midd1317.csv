@@ -1,0 +1,1993 @@
+ID,Language_ID,Feature_ID,Value,Concept
+189-810,midd1317,http://concepticon.clld.org/parameters/965,world,world
+189-549,midd1317,http://concepticon.clld.org/parameters/626,erthe,"earth, land"
+189-1323,midd1317,http://concepticon.clld.org/parameters/626,lond,"earth, land"
+189-549,midd1317,http://concepticon.clld.org/parameters/1228,erthe,"earth=ground, soil"
+189-1684,midd1317,http://concepticon.clld.org/parameters/2,dust,dust
+189-940,midd1317,http://concepticon.clld.org/parameters/640,mud-de,mud
+189-1434,midd1317,http://concepticon.clld.org/parameters/640,fen,mud
+189-931,midd1317,http://concepticon.clld.org/parameters/671,sand,sand
+189-757,midd1317,http://concepticon.clld.org/parameters/2118,mount,"mountain, hill"
+189-1299,midd1317,http://concepticon.clld.org/parameters/2118,mountain-e,"mountain, hill"
+189-5,midd1317,http://concepticon.clld.org/parameters/2118,hil-le,"mountain, hill"
+189-1573,midd1317,http://concepticon.clld.org/parameters/618,clif,"cliff, precipice"
+189-792,midd1317,http://concepticon.clld.org/parameters/652,plain-e,"plain, field"
+189-448,midd1317,http://concepticon.clld.org/parameters/652,feld,"plain, field"
+189-1361,midd1317,http://concepticon.clld.org/parameters/921,dale,valley
+189-1597,midd1317,http://concepticon.clld.org/parameters/921,dene,valley
+189-1104,midd1317,http://concepticon.clld.org/parameters/921,valei-e,valley
+189-951,midd1317,http://concepticon.clld.org/parameters/921,vale,valley
+189-653,midd1317,http://concepticon.clld.org/parameters/622,ilond,island
+189-294,midd1317,http://concepticon.clld.org/parameters/622,ile,island
+189-120,midd1317,http://concepticon.clld.org/parameters/166,main-lond,mainland
+189-790,midd1317,http://concepticon.clld.org/parameters/113,strond-e,shore
+189-1035,midd1317,http://concepticon.clld.org/parameters/113,shore,shore
+189-223,midd1317,http://concepticon.clld.org/parameters/113,bank-e,shore
+189-1115,midd1317,http://concepticon.clld.org/parameters/113,coste,shore
+189-1131,midd1317,http://concepticon.clld.org/parameters/1155,cave,cave
+189-504,midd1317,http://concepticon.clld.org/parameters/948,water,water
+189-571,midd1317,http://concepticon.clld.org/parameters/1474,se,sea
+189-1539,midd1317,http://concepticon.clld.org/parameters/259,rough-e,rough (of sea)
+189-384,midd1317,http://concepticon.clld.org/parameters/1768,fom,foam
+189-30,midd1317,http://concepticon.clld.org/parameters/645,occean,ocean
+189-1208,midd1317,http://concepticon.clld.org/parameters/624,lak-e,lake
+189-427,midd1317,http://concepticon.clld.org/parameters/663,goulf,"gulf, bay"
+189-263,midd1317,http://concepticon.clld.org/parameters/663,bai,"gulf, bay"
+189-1,midd1317,http://concepticon.clld.org/parameters/1662,nes-se,"headland, point"
+189-1733,midd1317,http://concepticon.clld.org/parameters/978,wau-e,wave
+189-1019,midd1317,http://concepticon.clld.org/parameters/891,tid-e,tide
+189-1295,midd1317,http://concepticon.clld.org/parameters/1026,loue ebbe (water),lowtide
+189-880,midd1317,http://concepticon.clld.org/parameters/613,heigh water,hightide
+189-797,midd1317,http://concepticon.clld.org/parameters/666,river-e,"river, stream, brook"
+189-1376,midd1317,http://concepticon.clld.org/parameters/666,strem,"river, stream, brook"
+189-769,midd1317,http://concepticon.clld.org/parameters/666,brok,"river, stream, brook"
+189-642,midd1317,http://concepticon.clld.org/parameters/1982,gurges,whirlpool
+189-1703,midd1317,http://concepticon.clld.org/parameters/1982,wel,whirlpool
+189-214,midd1317,http://concepticon.clld.org/parameters/2144,wel-le,"spring, well"
+189-1290,midd1317,http://concepticon.clld.org/parameters/2144,spring,"spring, well"
+189-772,midd1317,http://concepticon.clld.org/parameters/1145,mareis,swamp
+189-46,midd1317,http://concepticon.clld.org/parameters/943,water-fal,waterfall
+189-60,midd1317,http://concepticon.clld.org/parameters/420,wode,"woods, forest"
+189-1463,midd1317,http://concepticon.clld.org/parameters/420,forest,"woods, forest"
+189-1394,midd1317,http://concepticon.clld.org/parameters/906,tre,tree (cf 08.600)
+189-1394,midd1317,http://concepticon.clld.org/parameters/1803,tre,wood
+189-60,midd1317,http://concepticon.clld.org/parameters/1803,wode,wood
+189-249,midd1317,http://concepticon.clld.org/parameters/2125,ston,"stone, rock"
+189-701,midd1317,http://concepticon.clld.org/parameters/2125,rok-ke,"stone, rock"
+189-1171,midd1317,http://concepticon.clld.org/parameters/6,terre-mote,earthquake
+189-280,midd1317,http://concepticon.clld.org/parameters/1732,heven,sky
+189-644,midd1317,http://concepticon.clld.org/parameters/1732,ski-e,sky
+189-1329,midd1317,http://concepticon.clld.org/parameters/1343,sonne,sun
+189-890,midd1317,http://concepticon.clld.org/parameters/1313,mon-e,moon
+189-1758,midd1317,http://concepticon.clld.org/parameters/1313,luna,moon
+189-177,midd1317,http://concepticon.clld.org/parameters/1430,sterre,star
+189-942,midd1317,http://concepticon.clld.org/parameters/1654,leit,lightning
+189-954,midd1317,http://concepticon.clld.org/parameters/1654,lightninge,lightning
+189-1712,midd1317,http://concepticon.clld.org/parameters/1150,thonder,thunder
+189-1712,midd1317,http://concepticon.clld.org/parameters/2007,thonder,lightning (as striking)
+189-954,midd1317,http://concepticon.clld.org/parameters/2007,lightninge,lightning (as striking)
+189-1135,midd1317,http://concepticon.clld.org/parameters/2007,foudre,lightning (as striking)
+189-1101,midd1317,http://concepticon.clld.org/parameters/858,storm,storm
+189-493,midd1317,http://concepticon.clld.org/parameters/858,tempest,storm
+189-1574,midd1317,http://concepticon.clld.org/parameters/858,torment,storm
+189-1606,midd1317,http://concepticon.clld.org/parameters/1733,reinboue,rainbow
+189-736,midd1317,http://concepticon.clld.org/parameters/1733,boue,rainbow
+189-749,midd1317,http://concepticon.clld.org/parameters/1733,middenyardes boue,rainbow
+189-1477,midd1317,http://concepticon.clld.org/parameters/630,light,light (noun)
+189-937,midd1317,http://concepticon.clld.org/parameters/11,mirk-e,darkness
+189-340,midd1317,http://concepticon.clld.org/parameters/11,derknes-se,darkness
+189-8,midd1317,http://concepticon.clld.org/parameters/11,derk,darkness
+189-1037,midd1317,http://concepticon.clld.org/parameters/1388,shade,"shade, shadow"
+189-881,midd1317,http://concepticon.clld.org/parameters/1388,shadwe,"shade, shadow"
+189-996,midd1317,http://concepticon.clld.org/parameters/1977,deu,dew
+189-313,midd1317,http://concepticon.clld.org/parameters/27,lift,air
+189-319,midd1317,http://concepticon.clld.org/parameters/27,air,air
+189-121,midd1317,http://concepticon.clld.org/parameters/960,wind,wind
+189-644,midd1317,http://concepticon.clld.org/parameters/1489,ski-e,cloud
+189-1431,midd1317,http://concepticon.clld.org/parameters/1489,cloud,cloud
+189-1094,midd1317,http://concepticon.clld.org/parameters/249,mist,fog
+189-1621,midd1317,http://concepticon.clld.org/parameters/658,rein,rain (noun)
+189-216,midd1317,http://concepticon.clld.org/parameters/784,snou,snow (noun)
+189-75,midd1317,http://concepticon.clld.org/parameters/617,is,ice
+189-1217,midd1317,http://concepticon.clld.org/parameters/952,weder,weather
+189-132,midd1317,http://concepticon.clld.org/parameters/221,fir,fire
+189-1266,midd1317,http://concepticon.clld.org/parameters/889,lei-e,flame (noun)
+189-184,midd1317,http://concepticon.clld.org/parameters/889,loue,flame (noun)
+189-921,midd1317,http://concepticon.clld.org/parameters/889,flaume,flame (noun)
+189-373,midd1317,http://concepticon.clld.org/parameters/778,rek-e,smoke (noun)
+189-68,midd1317,http://concepticon.clld.org/parameters/778,smoke,smoke (noun)
+189-458,midd1317,http://concepticon.clld.org/parameters/646,assh-e,ashes
+189-276,midd1317,http://concepticon.clld.org/parameters/67,emeres,embers
+189-274,midd1317,http://concepticon.clld.org/parameters/141,brennen,burn (vb trans)
+189-274,midd1317,http://concepticon.clld.org/parameters/1428,brennen,burn (vb intrans)
+189-556,midd1317,http://concepticon.clld.org/parameters/737,lighten,"light, kindle, ignite"
+189-321,midd1317,http://concepticon.clld.org/parameters/737,kindelen,"light, kindle, ignite"
+189-1550,midd1317,http://concepticon.clld.org/parameters/127,extincten,extinguish
+189-126,midd1317,http://concepticon.clld.org/parameters/127,exteinten,extinguish
+189-132,midd1317,http://concepticon.clld.org/parameters/10,fir,firewood
+189-334,midd1317,http://concepticon.clld.org/parameters/10,fir stok,firewood
+189-584,midd1317,http://concepticon.clld.org/parameters/10,fir stik,firewood
+189-1507,midd1317,http://concepticon.clld.org/parameters/10,fir wode,firewood
+189-416,midd1317,http://concepticon.clld.org/parameters/1188,char-col,charcoal
+189-289,midd1317,http://concepticon.clld.org/parameters/1188,carbon,charcoal
+189-566,midd1317,http://concepticon.clld.org/parameters/683,man,"person, human being"
+189-566,midd1317,http://concepticon.clld.org/parameters/1554,man,man (vs. woman)
+189-1704,midd1317,http://concepticon.clld.org/parameters/1554,wer,man (vs. woman)
+189-1701,midd1317,http://concepticon.clld.org/parameters/962,quē̌ne,woman
+189-1424,midd1317,http://concepticon.clld.org/parameters/962,wif,woman
+189-898,midd1317,http://concepticon.clld.org/parameters/962,womman,woman
+189-1002,midd1317,http://concepticon.clld.org/parameters/2263,male,male
+189-143,midd1317,http://concepticon.clld.org/parameters/2260,femel-e,female
+189-1506,midd1317,http://concepticon.clld.org/parameters/2260,femal-e,female
+189-841,midd1317,http://concepticon.clld.org/parameters/1366,knave,boy
+189-363,midd1317,http://concepticon.clld.org/parameters/1366,ladde,boy
+189-1552,midd1317,http://concepticon.clld.org/parameters/1366,boie,boy
+189-1762,midd1317,http://concepticon.clld.org/parameters/76,adolescent,young man (adolescent)
+189-222,midd1317,http://concepticon.clld.org/parameters/1646,maiden,girl
+189-139,midd1317,http://concepticon.clld.org/parameters/1646,maid-e,girl
+189-1276,midd1317,http://concepticon.clld.org/parameters/1646,girl-e,girl
+189-913,midd1317,http://concepticon.clld.org/parameters/1646,las-se,girl
+189-1730,midd1317,http://concepticon.clld.org/parameters/77,maide-child,young woman (adolescent)
+189-314,midd1317,http://concepticon.clld.org/parameters/1304,child,child
+189-1191,midd1317,http://concepticon.clld.org/parameters/1304,barn,child
+189-315,midd1317,http://concepticon.clld.org/parameters/1289,infaunt-e,"infant, baby"
+189-1441,midd1317,http://concepticon.clld.org/parameters/1289,babe,"infant, baby"
+189-1560,midd1317,http://concepticon.clld.org/parameters/1200,hous-bonde,husband
+189-1424,midd1317,http://concepticon.clld.org/parameters/1199,wif,wife
+189-1143,midd1317,http://concepticon.clld.org/parameters/203,wedden,marry
+189-1772,midd1317,http://concepticon.clld.org/parameters/203,marien,marry
+189-1133,midd1317,http://concepticon.clld.org/parameters/1259,wedding-e,"marriage, wedding"
+189-1722,midd1317,http://concepticon.clld.org/parameters/1259,wedlok,"marriage, wedding"
+189-851,midd1317,http://concepticon.clld.org/parameters/1259,mariage,"marriage, wedding"
+189-1099,midd1317,http://concepticon.clld.org/parameters/1134,divorce,divorce
+189-1336,midd1317,http://concepticon.clld.org/parameters/1217,fader,father
+189-785,midd1317,http://concepticon.clld.org/parameters/1216,moder,mother
+189-1707,midd1317,http://concepticon.clld.org/parameters/505,eldre,parents
+189-1660,midd1317,http://concepticon.clld.org/parameters/505,eldren,parents
+189-719,midd1317,http://concepticon.clld.org/parameters/505,parent,parents
+189-1257,midd1317,http://concepticon.clld.org/parameters/505,parentes,parents
+189-512,midd1317,http://concepticon.clld.org/parameters/424,maried man,married man
+189-923,midd1317,http://concepticon.clld.org/parameters/1620,sone,son
+189-1339,midd1317,http://concepticon.clld.org/parameters/1357,doughter,daughter
+189-1185,midd1317,http://concepticon.clld.org/parameters/1801,ofspring,offspring (son or daughter)
+189-315,midd1317,http://concepticon.clld.org/parameters/1801,infaunt-e,offspring (son or daughter)
+189-1065,midd1317,http://concepticon.clld.org/parameters/1262,brother,brother
+189-1653,midd1317,http://concepticon.clld.org/parameters/1263,suster,sister
+189-71,midd1317,http://concepticon.clld.org/parameters/1758,older suster,older sister
+189-1443,midd1317,http://concepticon.clld.org/parameters/1761,yongere suster,younger sister
+189-740,midd1317,http://concepticon.clld.org/parameters/1005,twin,twins
+189-129,midd1317,http://concepticon.clld.org/parameters/1005,twinnes,twins
+189-565,midd1317,http://concepticon.clld.org/parameters/1005,itwin,twins
+189-1488,midd1317,http://concepticon.clld.org/parameters/1005,itwinnes,twins
+189-645,midd1317,http://concepticon.clld.org/parameters/1005,ǧemelles,twins
+189-1331,midd1317,http://concepticon.clld.org/parameters/1383,graunt-sire,grandfather
+189-947,midd1317,http://concepticon.clld.org/parameters/1383,graunt-fader,grandfather
+189-424,midd1317,http://concepticon.clld.org/parameters/406,olde man,old man
+189-1377,midd1317,http://concepticon.clld.org/parameters/406,old-e,old man
+189-518,midd1317,http://concepticon.clld.org/parameters/1496,graun-dame,grandmother
+189-823,midd1317,http://concepticon.clld.org/parameters/1496,graunt-moder,grandmother
+189-1377,midd1317,http://concepticon.clld.org/parameters/907,old-e,old woman
+189-29,midd1317,http://concepticon.clld.org/parameters/907,olde quene(wif,old woman
+189-872,midd1317,http://concepticon.clld.org/parameters/907,womman),old woman
+189-1685,midd1317,http://concepticon.clld.org/parameters/1618,sones sone,grandson
+189-58,midd1317,http://concepticon.clld.org/parameters/1618,neveu,grandson
+189-567,midd1317,http://concepticon.clld.org/parameters/1619,nece,granddaughter
+189-422,midd1317,http://concepticon.clld.org/parameters/1327,uncle,uncle
+189-600,midd1317,http://concepticon.clld.org/parameters/1327,em,uncle
+189-438,midd1317,http://concepticon.clld.org/parameters/1272,aunte,aunt
+189-372,midd1317,http://concepticon.clld.org/parameters/1063,neve,nephew
+189-58,midd1317,http://concepticon.clld.org/parameters/1063,neveu,nephew
+189-1047,midd1317,http://concepticon.clld.org/parameters/1642,nifte,niece
+189-567,midd1317,http://concepticon.clld.org/parameters/1642,nece,niece
+189-113,midd1317,http://concepticon.clld.org/parameters/1643,cosin-e,cousin
+189-1660,midd1317,http://concepticon.clld.org/parameters/1669,eldren,ancestors
+189-1383,midd1317,http://concepticon.clld.org/parameters/1669,fore-fadres,ancestors
+189-1469,midd1317,http://concepticon.clld.org/parameters/1669,auncestres,ancestors
+189-1185,midd1317,http://concepticon.clld.org/parameters/490,ofspring,descendants
+189-1341,midd1317,http://concepticon.clld.org/parameters/2255,fader in laue,father-in-law (of a man)
+189-1384,midd1317,http://concepticon.clld.org/parameters/2255,fader in lei,father-in-law (of a man)
+189-961,midd1317,http://concepticon.clld.org/parameters/2255,fader-lau,father-in-law (of a man)
+189-1341,midd1317,http://concepticon.clld.org/parameters/2254,fader in laue,father-in-law (of a woman)
+189-291,midd1317,http://concepticon.clld.org/parameters/2256,moder-in-laue,mother-in-law (of a man)
+189-291,midd1317,http://concepticon.clld.org/parameters/2257,moder-in-laue,mother-in-law (of a woman)
+189-141,midd1317,http://concepticon.clld.org/parameters/2267,sone-in-laue,son-in-law (of a man)
+189-141,midd1317,http://concepticon.clld.org/parameters/2266,sone-in-laue,son-in-law (of a woman)
+189-1603,midd1317,http://concepticon.clld.org/parameters/2265,doughter in laue,daughter-in-law (of a man)
+189-814,midd1317,http://concepticon.clld.org/parameters/2265,snore,daughter-in-law (of a man)
+189-1603,midd1317,http://concepticon.clld.org/parameters/2264,doughter in laue,daughter-in-law (of a woman)
+189-814,midd1317,http://concepticon.clld.org/parameters/2264,snore,daughter-in-law (of a woman)
+189-403,midd1317,http://concepticon.clld.org/parameters/237,step-fader,stepfather
+189-557,midd1317,http://concepticon.clld.org/parameters/236,step-moder,stepmother
+189-1335,midd1317,http://concepticon.clld.org/parameters/1059,step-sone,stepson
+189-1082,midd1317,http://concepticon.clld.org/parameters/1058,step-doughter,stepdaughter
+189-1624,midd1317,http://concepticon.clld.org/parameters/1149,orphan,orphan
+189-806,midd1317,http://concepticon.clld.org/parameters/1756,widwe,widow
+189-377,midd1317,http://concepticon.clld.org/parameters/1981,widwer-e,widower
+189-806,midd1317,http://concepticon.clld.org/parameters/1981,widwe,widower
+189-339,midd1317,http://concepticon.clld.org/parameters/1644,kin,"relatives, kinsmen"
+189-950,midd1317,http://concepticon.clld.org/parameters/1644,kinnes-man,"relatives, kinsmen"
+189-824,midd1317,http://concepticon.clld.org/parameters/1644,kinnes-men,"relatives, kinsmen"
+189-1333,midd1317,http://concepticon.clld.org/parameters/194,familie,family
+189-379,midd1317,http://concepticon.clld.org/parameters/1209,ich,I
+189-892,midd1317,http://concepticon.clld.org/parameters/1215,you,you (singular)
+189-842,midd1317,http://concepticon.clld.org/parameters/262,he/ she/ hit,he/she/it
+189-1369,midd1317,http://concepticon.clld.org/parameters/1212,we,we
+189-892,midd1317,http://concepticon.clld.org/parameters/1213,you,you (plural)
+189-144,midd1317,http://concepticon.clld.org/parameters/817,thei,they
+189-994,midd1317,http://concepticon.clld.org/parameters/619,der,animal
+189-1350,midd1317,http://concepticon.clld.org/parameters/619,best-e,animal
+189-1464,midd1317,http://concepticon.clld.org/parameters/619,animal,animal
+189-1770,midd1317,http://concepticon.clld.org/parameters/2261,he,male (adj)
+189-1002,midd1317,http://concepticon.clld.org/parameters/2261,male,male (adj)
+189-143,midd1317,http://concepticon.clld.org/parameters/2262,femel-e,female (adj)
+189-530,midd1317,http://concepticon.clld.org/parameters/2262,-al-e,female (adj)
+189-1024,midd1317,http://concepticon.clld.org/parameters/631,fe,livestock
+189-1363,midd1317,http://concepticon.clld.org/parameters/631,catel,livestock
+189-552,midd1317,http://concepticon.clld.org/parameters/649,leswe,pasture
+189-815,midd1317,http://concepticon.clld.org/parameters/649,pastur-e,pasture
+189-1619,midd1317,http://concepticon.clld.org/parameters/649,gras,pasture
+189-1611,midd1317,http://concepticon.clld.org/parameters/263,herd-e,herdsman
+189-1103,midd1317,http://concepticon.clld.org/parameters/851,stal-le,"stable, stall"
+189-1386,midd1317,http://concepticon.clld.org/parameters/851,stable,"stable, stall"
+189-53,midd1317,http://concepticon.clld.org/parameters/1153,net,cattle (bovine)
+189-1546,midd1317,http://concepticon.clld.org/parameters/1153,rother,cattle (bovine)
+189-1735,midd1317,http://concepticon.clld.org/parameters/1153,rotheren,cattle (bovine)
+189-389,midd1317,http://concepticon.clld.org/parameters/1008,bole,bull
+189-1180,midd1317,http://concepticon.clld.org/parameters/1169,oxe,ox
+189-1496,midd1317,http://concepticon.clld.org/parameters/1169,ster-e,ox
+189-295,midd1317,http://concepticon.clld.org/parameters/1007,cou,cow
+189-76,midd1317,http://concepticon.clld.org/parameters/1989,calf,calf
+189-338,midd1317,http://concepticon.clld.org/parameters/1331,schep,sheep
+189-265,midd1317,http://concepticon.clld.org/parameters/1331,blet,sheep
+189-209,midd1317,http://concepticon.clld.org/parameters/1344,ram,ram
+189-1699,midd1317,http://concepticon.clld.org/parameters/1344,wether,ram
+189-1485,midd1317,http://concepticon.clld.org/parameters/1345,eue,ewe
+189-955,midd1317,http://concepticon.clld.org/parameters/820,lomb,lamb
+189-508,midd1317,http://concepticon.clld.org/parameters/1348,bor,boar
+189-534,midd1317,http://concepticon.clld.org/parameters/1351,soue,sow (2)
+189-256,midd1317,http://concepticon.clld.org/parameters/1337,pigge,pig
+189-173,midd1317,http://concepticon.clld.org/parameters/1502,got,goat
+189-234,midd1317,http://concepticon.clld.org/parameters/264,bukke,he-goat
+189-67,midd1317,http://concepticon.clld.org/parameters/1972,kide,kid
+189-45,midd1317,http://concepticon.clld.org/parameters/615,hors,horse (equine)
+189-1174,midd1317,http://concepticon.clld.org/parameters/936,staloun,stallion
+189-1760,midd1317,http://concepticon.clld.org/parameters/938,mere,mare
+189-1400,midd1317,http://concepticon.clld.org/parameters/1647,fole,"foal, colt"
+189-572,midd1317,http://concepticon.clld.org/parameters/1647,colt,"foal, colt"
+189-876,midd1317,http://concepticon.clld.org/parameters/1862,asse,"ass, donkey"
+189-1382,midd1317,http://concepticon.clld.org/parameters/890,mul-e,mule
+189-6,midd1317,http://concepticon.clld.org/parameters/265,foul,fowl
+189-298,midd1317,http://concepticon.clld.org/parameters/1511,cok,"cock, rooster"
+189-863,midd1317,http://concepticon.clld.org/parameters/1514,hen,hen
+189-1649,midd1317,http://concepticon.clld.org/parameters/1318,chiken,chicken
+189-175,midd1317,http://concepticon.clld.org/parameters/1187,gos,goose
+189-476,midd1317,http://concepticon.clld.org/parameters/1360,doke,duck
+189-1638,midd1317,http://concepticon.clld.org/parameters/1360,ende,duck
+189-780,midd1317,http://concepticon.clld.org/parameters/539,nest,nest
+189-6,midd1317,http://concepticon.clld.org/parameters/937,foul,bird
+189-1045,midd1317,http://concepticon.clld.org/parameters/937,brid,bird
+189-1186,midd1317,http://concepticon.clld.org/parameters/950,gulle,seagull
+189-1026,midd1317,http://concepticon.clld.org/parameters/758,heiroun,heron
+189-1519,midd1317,http://concepticon.clld.org/parameters/1905,egle,eagle
+189-90,midd1317,http://concepticon.clld.org/parameters/1905,ern,eagle
+189-1718,midd1317,http://concepticon.clld.org/parameters/307,hauk,hawk
+189-1405,midd1317,http://concepticon.clld.org/parameters/1185,vultur-e,vulture
+189-1781,midd1317,http://concepticon.clld.org/parameters/1793,bakke,bat
+189-301,midd1317,http://concepticon.clld.org/parameters/1793,calwe mous,bat
+189-564,midd1317,http://concepticon.clld.org/parameters/882,psitak,parrot
+189-597,midd1317,http://concepticon.clld.org/parameters/882,papejai-e,parrot
+189-631,midd1317,http://concepticon.clld.org/parameters/913,croue,crow
+189-700,midd1317,http://concepticon.clld.org/parameters/1853,douve,dove
+189-1417,midd1317,http://concepticon.clld.org/parameters/735,oule,owl
+189-887,midd1317,http://concepticon.clld.org/parameters/2009,hound,dog
+189-825,midd1317,http://concepticon.clld.org/parameters/2009,dogge,dog
+189-1533,midd1317,http://concepticon.clld.org/parameters/1136,rabet,rabbit
+189-250,midd1317,http://concepticon.clld.org/parameters/1208,cat,cat
+189-1390,midd1317,http://concepticon.clld.org/parameters/2139,mous,"mouse, rat"
+189-1063,midd1317,http://concepticon.clld.org/parameters/227,fish,fish
+189-140,midd1317,http://concepticon.clld.org/parameters/213,fin,fin (dorsal)
+189-1297,midd1317,http://concepticon.clld.org/parameters/266,scale,fishscale
+189-333,midd1317,http://concepticon.clld.org/parameters/1916,gil-e,gill
+189-125,midd1317,http://concepticon.clld.org/parameters/598,shel-le,shell
+189-1005,midd1317,http://concepticon.clld.org/parameters/1110,shark,shark
+189-324,midd1317,http://concepticon.clld.org/parameters/1479,porpeis,"porpoise, dolphin"
+189-1789,midd1317,http://concepticon.clld.org/parameters/1479,delfin,"porpoise, dolphin"
+189-946,midd1317,http://concepticon.clld.org/parameters/957,whal,whale
+189-1392,midd1317,http://concepticon.clld.org/parameters/957,baleine,whale
+189-187,midd1317,http://concepticon.clld.org/parameters/1910,reihe,stingray
+189-1172,midd1317,http://concepticon.clld.org/parameters/1013,el-e,freshwater eel
+189-840,midd1317,http://concepticon.clld.org/parameters/522,wolf,wolf
+189-1510,midd1317,http://concepticon.clld.org/parameters/1386,lioun,lion
+189-1165,midd1317,http://concepticon.clld.org/parameters/1820,ber-e,bear
+189-381,midd1317,http://concepticon.clld.org/parameters/1312,fox,fox
+189-63,midd1317,http://concepticon.clld.org/parameters/1936,hert,deer
+189-994,midd1317,http://concepticon.clld.org/parameters/1936,der,deer
+189-1432,midd1317,http://concepticon.clld.org/parameters/1350,ape,monkey
+189-753,midd1317,http://concepticon.clld.org/parameters/1290,olifaunt,elephant
+189-546,midd1317,http://concepticon.clld.org/parameters/1290,elefaunt,elephant
+189-1164,midd1317,http://concepticon.clld.org/parameters/1871,camel,camel
+189-869,midd1317,http://concepticon.clld.org/parameters/620,bugge,insect
+189-883,midd1317,http://concepticon.clld.org/parameters/310,lous-e,louse
+189-528,midd1317,http://concepticon.clld.org/parameters/310,pedicule,louse
+189-171,midd1317,http://concepticon.clld.org/parameters/267,nite,nit (louse egg)
+189-540,midd1317,http://concepticon.clld.org/parameters/232,fle,flea
+189-1074,midd1317,http://concepticon.clld.org/parameters/1538,scorpioun,scorpion
+189-1352,midd1317,http://concepticon.clld.org/parameters/1575,chafer,cockroach
+189-1155,midd1317,http://concepticon.clld.org/parameters/587,ampte,ant
+189-34,midd1317,http://concepticon.clld.org/parameters/587,formice,ant
+189-1347,midd1317,http://concepticon.clld.org/parameters/843,spither,spider
+189-65,midd1317,http://concepticon.clld.org/parameters/1065,spither web,spider web
+189-1304,midd1317,http://concepticon.clld.org/parameters/665,be,bee
+189-1221,midd1317,http://concepticon.clld.org/parameters/1931,wax-e,beeswax
+189-636,midd1317,http://concepticon.clld.org/parameters/88,be (ben) hive,beehive
+189-188,midd1317,http://concepticon.clld.org/parameters/1517,wasp,wasp
+189-1773,midd1317,http://concepticon.clld.org/parameters/1504,flie,fly
+189-38,midd1317,http://concepticon.clld.org/parameters/95,miǧǧe,"sandfly (midge), gnat"
+189-684,midd1317,http://concepticon.clld.org/parameters/95,gnat,"sandfly (midge), gnat"
+189-86,midd1317,http://concepticon.clld.org/parameters/1219,worm,worm
+189-86,midd1317,http://concepticon.clld.org/parameters/730,worm,snake
+189-1498,midd1317,http://concepticon.clld.org/parameters/730,snake,snake
+189-95,midd1317,http://concepticon.clld.org/parameters/730,serpent,snake
+189-148,midd1317,http://concepticon.clld.org/parameters/730,naddre,snake
+189-1168,midd1317,http://concepticon.clld.org/parameters/206,noctiluca,firefly
+189-1670,midd1317,http://concepticon.clld.org/parameters/206,glou-berd,firefly
+189-1291,midd1317,http://concepticon.clld.org/parameters/206,glouere,firefly
+189-1545,midd1317,http://concepticon.clld.org/parameters/206,glou-worm,firefly
+189-933,midd1317,http://concepticon.clld.org/parameters/1791,buter-flie,butterfly
+189-1071,midd1317,http://concepticon.clld.org/parameters/607,gras-hoppe,grasshopper
+189-1254,midd1317,http://concepticon.clld.org/parameters/1543,snail,snail
+189-1230,midd1317,http://concepticon.clld.org/parameters/503,frogge,frog
+189-1719,midd1317,http://concepticon.clld.org/parameters/632,lesarde,lizard
+189-1046,midd1317,http://concepticon.clld.org/parameters/1857,cocodril,"crocodile, alligator"
+189-1250,midd1317,http://concepticon.clld.org/parameters/112,tortu,turtle
+189-1412,midd1317,http://concepticon.clld.org/parameters/1480,bodi,body
+189-395,midd1317,http://concepticon.clld.org/parameters/1480,cors,body
+189-1531,midd1317,http://concepticon.clld.org/parameters/1480,lichame,body
+189-725,midd1317,http://concepticon.clld.org/parameters/763,hid-e,"skin, hide"
+189-462,midd1317,http://concepticon.clld.org/parameters/763,skin,"skin, hide"
+189-1436,midd1317,http://concepticon.clld.org/parameters/763,fel,"skin, hide"
+189-1692,midd1317,http://concepticon.clld.org/parameters/2259,flesh,flesh
+189-857,midd1317,http://concepticon.clld.org/parameters/1040,her,hair (head)
+189-922,midd1317,http://concepticon.clld.org/parameters/1040,fax,hair (head)
+189-420,midd1317,http://concepticon.clld.org/parameters/678,berd,beard
+189-857,midd1317,http://concepticon.clld.org/parameters/189,her,body hair
+189-1672,midd1317,http://concepticon.clld.org/parameters/36,nether-berd,pubic hair
+189-1426,midd1317,http://concepticon.clld.org/parameters/576,scales,dandruff
+189-799,midd1317,http://concepticon.clld.org/parameters/946,blod,blood
+189-752,midd1317,http://concepticon.clld.org/parameters/525,vein-e,"vein, artery"
+189-511,midd1317,http://concepticon.clld.org/parameters/1394,bon,bone
+189-104,midd1317,http://concepticon.clld.org/parameters/801,rib-be,rib
+189-42,midd1317,http://concepticon.clld.org/parameters/1393,horn,horn
+189-916,midd1317,http://concepticon.clld.org/parameters/1220,tail,tail
+189-1538,midd1317,http://concepticon.clld.org/parameters/1291,bak,back
+189-1016,midd1317,http://concepticon.clld.org/parameters/1291,riǧǧe,back
+189-61,midd1317,http://concepticon.clld.org/parameters/805,chine,spine
+189-1600,midd1317,http://concepticon.clld.org/parameters/805,chine of the bakke,spine
+189-1255,midd1317,http://concepticon.clld.org/parameters/805,spin-e,spine
+189-1456,midd1317,http://concepticon.clld.org/parameters/805,spine bon,spine
+189-860,midd1317,http://concepticon.clld.org/parameters/1256,hed,head
+189-1302,midd1317,http://concepticon.clld.org/parameters/1604,temple,"side of head, temple"
+189-543,midd1317,http://concepticon.clld.org/parameters/1605,scul-le,skull
+189-837,midd1317,http://concepticon.clld.org/parameters/1605,panne,skull
+189-573,midd1317,http://concepticon.clld.org/parameters/1583,brain,brain
+189-246,midd1317,http://concepticon.clld.org/parameters/1583,hernes,brain
+189-1595,midd1317,http://concepticon.clld.org/parameters/1560,face,face
+189-1676,midd1317,http://concepticon.clld.org/parameters/123,forhed,forehead
+189-1476,midd1317,http://concepticon.clld.org/parameters/798,jou-e,jaw
+189-1792,midd1317,http://concepticon.clld.org/parameters/798,chavel,jaw
+189-1502,midd1317,http://concepticon.clld.org/parameters/1730,cheke,cheek
+189-1734,midd1317,http://concepticon.clld.org/parameters/1730,wong,cheek
+189-545,midd1317,http://concepticon.clld.org/parameters/1510,chin,chin
+189-760,midd1317,http://concepticon.clld.org/parameters/1248,eie,eye
+189-650,midd1317,http://concepticon.clld.org/parameters/1173,eie-brou,eyebrow
+189-1691,midd1317,http://concepticon.clld.org/parameters/1173,broues,eyebrow
+189-440,midd1317,http://concepticon.clld.org/parameters/17,eie-lid,eyelid
+189-716,midd1317,http://concepticon.clld.org/parameters/1540,her of eie-lid,eyelash
+189-1714,midd1317,http://concepticon.clld.org/parameters/1655,blenchen,blink
+189-87,midd1317,http://concepticon.clld.org/parameters/1247,ere,ear
+189-1639,midd1317,http://concepticon.clld.org/parameters/18,ere lappe,earlobe
+189-678,midd1317,http://concepticon.clld.org/parameters/32,ere sope,earwax
+189-670,midd1317,http://concepticon.clld.org/parameters/32,ere-wax,earwax
+189-817,midd1317,http://concepticon.clld.org/parameters/1221,nose,nose
+189-561,midd1317,http://concepticon.clld.org/parameters/1178,nostrille,nostril
+189-1444,midd1317,http://concepticon.clld.org/parameters/1178,nose-thirl,nostril
+189-1402,midd1317,http://concepticon.clld.org/parameters/1178,nose-hole,nostril
+189-1038,midd1317,http://concepticon.clld.org/parameters/208,snotte,mucus (nasal)
+189-1662,midd1317,http://concepticon.clld.org/parameters/208,snivel,mucus (nasal)
+189-279,midd1317,http://concepticon.clld.org/parameters/208,snivel of the nose,mucus (nasal)
+189-225,midd1317,http://concepticon.clld.org/parameters/674,mouth,mouth
+189-1562,midd1317,http://concepticon.clld.org/parameters/73,bek,beak
+189-682,midd1317,http://concepticon.clld.org/parameters/478,lip-pe,lip
+189-1578,midd1317,http://concepticon.clld.org/parameters/1205,tong-e,tongue
+189-826,midd1317,http://concepticon.clld.org/parameters/1380,toth,tooth
+189-849,midd1317,http://concepticon.clld.org/parameters/139,gomes,gums
+189-91,midd1317,http://concepticon.clld.org/parameters/1049,molares,molartooth
+189-878,midd1317,http://concepticon.clld.org/parameters/1049,axel-toth,molartooth
+189-583,midd1317,http://concepticon.clld.org/parameters/1333,hals,neck
+189-1689,midd1317,http://concepticon.clld.org/parameters/1333,nekke,neck
+189-1357,midd1317,http://concepticon.clld.org/parameters/1333,swire,neck
+189-1220,midd1317,http://concepticon.clld.org/parameters/1347,nape,nape of neck
+189-1437,midd1317,http://concepticon.clld.org/parameters/1346,throte,throat
+189-588,midd1317,http://concepticon.clld.org/parameters/1346,rake,throat
+189-1796,midd1317,http://concepticon.clld.org/parameters/1482,shulder,shoulder
+189-72,midd1317,http://concepticon.clld.org/parameters/172,shulder-blade,shoulderblade
+189-35,midd1317,http://concepticon.clld.org/parameters/1994,furcle,collarbone
+189-1249,midd1317,http://concepticon.clld.org/parameters/1994,furcle bon,collarbone
+189-1109,midd1317,http://concepticon.clld.org/parameters/1994,furcle of the brest,collarbone
+189-827,midd1317,http://concepticon.clld.org/parameters/1994,forke,collarbone
+189-457,midd1317,http://concepticon.clld.org/parameters/1994,forke of the brest (throte),collarbone
+189-1190,midd1317,http://concepticon.clld.org/parameters/1673,arm,arm
+189-318,midd1317,http://concepticon.clld.org/parameters/1886,arme pit,armpit
+189-150,midd1317,http://concepticon.clld.org/parameters/981,elboue,elbow
+189-801,midd1317,http://concepticon.clld.org/parameters/799,wrist-e,wrist
+189-634,midd1317,http://concepticon.clld.org/parameters/799,honde-wrist,wrist
+189-316,midd1317,http://concepticon.clld.org/parameters/1277,hond-e,hand
+189-732,midd1317,http://concepticon.clld.org/parameters/1183,paum-e,palm of hand
+189-165,midd1317,http://concepticon.clld.org/parameters/1183,palme of (the) hande,palm of hand
+189-278,midd1317,http://concepticon.clld.org/parameters/1303,finger,finger
+189-985,midd1317,http://concepticon.clld.org/parameters/1781,thoume,thumb
+189-43,midd1317,http://concepticon.clld.org/parameters/1258,nail,fingernail
+189-532,midd1317,http://concepticon.clld.org/parameters/72,claue,claw
+189-1410,midd1317,http://concepticon.clld.org/parameters/1297,leg,leg
+189-1481,midd1317,http://concepticon.clld.org/parameters/800,thigh,thigh
+189-76,midd1317,http://concepticon.clld.org/parameters/498,calf,calf of leg
+189-1263,midd1317,http://concepticon.clld.org/parameters/1371,kne,knee
+189-378,midd1317,http://concepticon.clld.org/parameters/1301,fot,foot
+189-1586,midd1317,http://concepticon.clld.org/parameters/803,ancle,ankle
+189-1042,midd1317,http://concepticon.clld.org/parameters/980,hele,heel
+189-2,midd1317,http://concepticon.clld.org/parameters/318,fot-step,footprint
+189-915,midd1317,http://concepticon.clld.org/parameters/1389,to,toe
+189-900,midd1317,http://concepticon.clld.org/parameters/1257,wing-e,wing
+189-109,midd1317,http://concepticon.clld.org/parameters/1201,fether,feather
+189-99,midd1317,http://concepticon.clld.org/parameters/1592,brest,chest
+189-99,midd1317,http://concepticon.clld.org/parameters/1402,brest,breast (of woman)
+189-1121,midd1317,http://concepticon.clld.org/parameters/796,tet-e,"nipple, teat"
+189-312,midd1317,http://concepticon.clld.org/parameters/796,mammille,"nipple, teat"
+189-1755,midd1317,http://concepticon.clld.org/parameters/154,udder,udder
+189-710,midd1317,http://concepticon.clld.org/parameters/1838,navel-e,navel
+189-1548,midd1317,http://concepticon.clld.org/parameters/1223,herte,heart
+189-1628,midd1317,http://concepticon.clld.org/parameters/688,longe,lung
+189-293,midd1317,http://concepticon.clld.org/parameters/688,pulmon,lung
+189-1128,midd1317,http://concepticon.clld.org/parameters/1224,livere,liver
+189-1517,midd1317,http://concepticon.clld.org/parameters/489,kide-nere,kidney
+189-879,midd1317,http://concepticon.clld.org/parameters/1744,splen-e,spleen
+189-1149,midd1317,http://concepticon.clld.org/parameters/819,womb-e,stomach
+189-1207,midd1317,http://concepticon.clld.org/parameters/819,beli,stomach
+189-1667,midd1317,http://concepticon.clld.org/parameters/819,maue,stomach
+189-1420,midd1317,http://concepticon.clld.org/parameters/819,stomak,stomach
+189-483,midd1317,http://concepticon.clld.org/parameters/1991,gut,"intestines, guts"
+189-196,midd1317,http://concepticon.clld.org/parameters/1991,intestine,"intestines, guts"
+189-93,midd1317,http://concepticon.clld.org/parameters/1681,wast-e,waist
+189-1145,midd1317,http://concepticon.clld.org/parameters/1745,hipe,hip
+189-163,midd1317,http://concepticon.clld.org/parameters/834,buttokes,buttocks
+189-1149,midd1317,http://concepticon.clld.org/parameters/804,womb-e,womb
+189-1726,midd1317,http://concepticon.clld.org/parameters/797,ballok,testicle
+189-249,midd1317,http://concepticon.clld.org/parameters/797,ston,testicle
+189-1025,midd1317,http://concepticon.clld.org/parameters/1222,pintel,penis
+189-468,midd1317,http://concepticon.clld.org/parameters/1222,yerd,penis
+189-535,midd1317,http://concepticon.clld.org/parameters/1407,brethen,"breathe, breath"
+189-1023,midd1317,http://concepticon.clld.org/parameters/1407,breth,"breathe, breath"
+189-1697,midd1317,http://concepticon.clld.org/parameters/1028,yenen,"yawn, gape"
+189-100,midd1317,http://concepticon.clld.org/parameters/1028,gapen,"yawn, gape"
+189-640,midd1317,http://concepticon.clld.org/parameters/162,yexen,hiccough
+189-1559,midd1317,http://concepticon.clld.org/parameters/879,coughen,cough
+189-161,midd1317,http://concepticon.clld.org/parameters/879,hosten,cough
+189-1765,midd1317,http://concepticon.clld.org/parameters/1621,nesen,sneeze
+189-366,midd1317,http://concepticon.clld.org/parameters/1621,fresen,sneeze
+189-1260,midd1317,http://concepticon.clld.org/parameters/1621,snesen,sneeze
+189-296,midd1317,http://concepticon.clld.org/parameters/126,swoten,perspire
+189-1051,midd1317,http://concepticon.clld.org/parameters/126,sweten,perspire
+189-1118,midd1317,http://concepticon.clld.org/parameters/1440,speten,spit
+189-1567,midd1317,http://concepticon.clld.org/parameters/1440,spitten,spit
+189-756,midd1317,http://concepticon.clld.org/parameters/1440,reching-e,spit
+189-1378,midd1317,http://concepticon.clld.org/parameters/1278,speuen,vomit
+189-1572,midd1317,http://concepticon.clld.org/parameters/1278,vomiten,vomit
+189-533,midd1317,http://concepticon.clld.org/parameters/1403,biten,bite
+189-589,midd1317,http://concepticon.clld.org/parameters/319,likken,lick
+189-1013,midd1317,http://concepticon.clld.org/parameters/268,drevelen,dribble
+189-850,midd1317,http://concepticon.clld.org/parameters/1585,slepen,sleep
+189-302,midd1317,http://concepticon.clld.org/parameters/1983,snoren,snore
+189-606,midd1317,http://concepticon.clld.org/parameters/1920,swevenen,dream
+189-968,midd1317,http://concepticon.clld.org/parameters/1920,dremen,dream
+189-167,midd1317,http://concepticon.clld.org/parameters/1920,meting-e,dream
+189-69,midd1317,http://concepticon.clld.org/parameters/1602,wecchen,wake up
+189-1576,midd1317,http://concepticon.clld.org/parameters/1602,waken,wake up
+189-169,midd1317,http://concepticon.clld.org/parameters/1159,ferten,break wind
+189-1590,midd1317,http://concepticon.clld.org/parameters/1159,fisten,break wind
+189-1200,midd1317,http://concepticon.clld.org/parameters/592,pissen,urinate
+189-1162,midd1317,http://concepticon.clld.org/parameters/676,shiten,defecate
+189-1073,midd1317,http://concepticon.clld.org/parameters/676,driten,defecate
+189-21,midd1317,http://concepticon.clld.org/parameters/1785,swiven,have sexual intercourse
+189-675,midd1317,http://concepticon.clld.org/parameters/52,tremblen,shiver
+189-1030,midd1317,http://concepticon.clld.org/parameters/138,bathen,bathe
+189-1117,midd1317,http://concepticon.clld.org/parameters/1152,biyeten,beget (of father)
+189-1229,midd1317,http://concepticon.clld.org/parameters/1152,geten,beget (of father)
+189-1066,midd1317,http://concepticon.clld.org/parameters/1090,beren,born (to be)
+189-7,midd1317,http://concepticon.clld.org/parameters/1123,with child,pregnant
+189-711,midd1317,http://concepticon.clld.org/parameters/1123,with barn,pregnant
+189-1679,midd1317,http://concepticon.clld.org/parameters/1087,conceiven,conceive
+189-1228,midd1317,http://concepticon.clld.org/parameters/1422,liven,"live, living, life"
+189-1627,midd1317,http://concepticon.clld.org/parameters/1422,living-e,"live, living, life"
+189-485,midd1317,http://concepticon.clld.org/parameters/1422,on lif,"live, living, life"
+189-1658,midd1317,http://concepticon.clld.org/parameters/1422,quik,"live, living, life"
+189-529,midd1317,http://concepticon.clld.org/parameters/1422,livi,"live, living, life"
+189-445,midd1317,http://concepticon.clld.org/parameters/1494,dien,"die, dead"
+189-404,midd1317,http://concepticon.clld.org/parameters/1494,swelten,"die, dead"
+189-180,midd1317,http://concepticon.clld.org/parameters/1494,sterven,"die, dead"
+189-1039,midd1317,http://concepticon.clld.org/parameters/1494,quellen,"die, dead"
+189-1003,midd1317,http://concepticon.clld.org/parameters/1494,ded,"die, dead"
+189-1075,midd1317,http://concepticon.clld.org/parameters/1494,deth,"die, dead"
+189-352,midd1317,http://concepticon.clld.org/parameters/1904,drouned,drowned
+189-155,midd1317,http://concepticon.clld.org/parameters/1417,slen,kill
+189-591,midd1317,http://concepticon.clld.org/parameters/1417,killen,kill
+189-1039,midd1317,http://concepticon.clld.org/parameters/1417,quellen,kill
+189-395,midd1317,http://concepticon.clld.org/parameters/767,cors,corpse
+189-647,midd1317,http://concepticon.clld.org/parameters/767,lich,corpse
+189-1412,midd1317,http://concepticon.clld.org/parameters/767,bodi,corpse
+189-831,midd1317,http://concepticon.clld.org/parameters/1719,birien,bury (the dead)
+189-307,midd1317,http://concepticon.clld.org/parameters/1719,enteren,bury (the dead)
+189-228,midd1317,http://concepticon.clld.org/parameters/1773,grave,"grave, tomb"
+189-713,midd1317,http://concepticon.clld.org/parameters/1773,tomb-e,"grave, tomb"
+189-953,midd1317,http://concepticon.clld.org/parameters/785,strong,"strong, mighty, powerful"
+189-859,midd1317,http://concepticon.clld.org/parameters/785,stark,"strong, mighty, powerful"
+189-409,midd1317,http://concepticon.clld.org/parameters/785,mighti,"strong, mighty, powerful"
+189-1197,midd1317,http://concepticon.clld.org/parameters/1601,wok,weak
+189-1309,midd1317,http://concepticon.clld.org/parameters/1601,weik,weak
+189-1192,midd1317,http://concepticon.clld.org/parameters/1364,hol-e,"well, health"
+189-1465,midd1317,http://concepticon.clld.org/parameters/1364,isound,"well, health"
+189-1272,midd1317,http://concepticon.clld.org/parameters/1364,sound-e,"well, health"
+189-1272,midd1317,http://concepticon.clld.org/parameters/1364,sound-e,"well, health"
+189-1570,midd1317,http://concepticon.clld.org/parameters/1364,isunde,"well, health"
+189-415,midd1317,http://concepticon.clld.org/parameters/1364,helth-e,"well, health"
+189-1497,midd1317,http://concepticon.clld.org/parameters/1847,sik,"sick, sickness"
+189-1150,midd1317,http://concepticon.clld.org/parameters/1847,siknes-se,"sick, sickness"
+189-1594,midd1317,http://concepticon.clld.org/parameters/1847,disease,"sick, sickness"
+189-107,midd1317,http://concepticon.clld.org/parameters/1534,fever,fever
+189-568,midd1317,http://concepticon.clld.org/parameters/1534,febre,fever
+189-581,midd1317,http://concepticon.clld.org/parameters/1957,bocche,goiter
+189-808,midd1317,http://concepticon.clld.org/parameters/102,catarre,cold (catarrh)
+189-987,midd1317,http://concepticon.clld.org/parameters/1109,wound,"wound, sore"
+189-989,midd1317,http://concepticon.clld.org/parameters/1148,brisure,bruise
+189-1087,midd1317,http://concepticon.clld.org/parameters/1148,brisour,bruise
+189-487,midd1317,http://concepticon.clld.org/parameters/1903,boce,swelling
+189-1068,midd1317,http://concepticon.clld.org/parameters/1903,swelling-e,swelling
+189-1277,midd1317,http://concepticon.clld.org/parameters/148,yicche,itch
+189-1077,midd1317,http://concepticon.clld.org/parameters/1584,blister,blister
+189-426,midd1317,http://concepticon.clld.org/parameters/793,bil-e,boil (noun)
+189-1471,midd1317,http://concepticon.clld.org/parameters/793,carbuncle,boil (noun)
+189-1076,midd1317,http://concepticon.clld.org/parameters/1808,pus,pus
+189-1067,midd1317,http://concepticon.clld.org/parameters/1808,quitter-e,pus
+189-1021,midd1317,http://concepticon.clld.org/parameters/497,scar-re,scar
+189-199,midd1317,http://concepticon.clld.org/parameters/499,helen,"cure, heal"
+189-1537,midd1317,http://concepticon.clld.org/parameters/499,curen,"cure, heal"
+189-1201,midd1317,http://concepticon.clld.org/parameters/499,lechnen,"cure, heal"
+189-463,midd1317,http://concepticon.clld.org/parameters/597,leche,physician
+189-905,midd1317,http://concepticon.clld.org/parameters/597,phisicien,physician
+189-1287,midd1317,http://concepticon.clld.org/parameters/1372,medicin-e,"medicine, drug"
+189-672,midd1317,http://concepticon.clld.org/parameters/1372,drogges,"medicine, drug"
+189-741,midd1317,http://concepticon.clld.org/parameters/655,venim,poison
+189-1194,midd1317,http://concepticon.clld.org/parameters/655,poisoun,poison
+189-1782,midd1317,http://concepticon.clld.org/parameters/655,atter,poison
+189-1528,midd1317,http://concepticon.clld.org/parameters/1757,tered-e,"tired, weary"
+189-1479,midd1317,http://concepticon.clld.org/parameters/1757,weri-e,"tired, weary"
+189-1365,midd1317,http://concepticon.clld.org/parameters/168,resten,rest
+189-259,midd1317,http://concepticon.clld.org/parameters/168,reposen,rest
+189-25,midd1317,http://concepticon.clld.org/parameters/1564,slothful,lazy
+189-654,midd1317,http://concepticon.clld.org/parameters/1564,slak,lazy
+189-472,midd1317,http://concepticon.clld.org/parameters/1125,balled,bald
+189-239,midd1317,http://concepticon.clld.org/parameters/1125,calwe,bald
+189-585,midd1317,http://concepticon.clld.org/parameters/320,halt,lame
+189-1459,midd1317,http://concepticon.clld.org/parameters/320,lame,lame
+189-1004,midd1317,http://concepticon.clld.org/parameters/996,def,deaf
+189-722,midd1317,http://concepticon.clld.org/parameters/1666,domb,mute
+189-37,midd1317,http://concepticon.clld.org/parameters/1666,doumb,mute
+189-628,midd1317,http://concepticon.clld.org/parameters/1653,blind,blind
+189-1126,midd1317,http://concepticon.clld.org/parameters/1463,dronken,intoxicated
+189-704,midd1317,http://concepticon.clld.org/parameters/590,naked,"naked, bare"
+189-253,midd1317,http://concepticon.clld.org/parameters/590,bar,"naked, bare"
+189-1583,midd1317,http://concepticon.clld.org/parameters/1336,eten,eat
+189-1513,midd1317,http://concepticon.clld.org/parameters/256,mete,food
+189-383,midd1317,http://concepticon.clld.org/parameters/256,fode,food
+189-761,midd1317,http://concepticon.clld.org/parameters/1959,rau-e,raw
+189-1669,midd1317,http://concepticon.clld.org/parameters/178,ripe,ripe
+189-1246,midd1317,http://concepticon.clld.org/parameters/1958,grene,"green, unripe"
+189-514,midd1317,http://concepticon.clld.org/parameters/1728,roten,rotten
+189-1542,midd1317,http://concepticon.clld.org/parameters/1401,drinken,drink
+189-237,midd1317,http://concepticon.clld.org/parameters/1533,hunger,hunger
+189-329,midd1317,http://concepticon.clld.org/parameters/199,famine,famine
+189-610,midd1317,http://concepticon.clld.org/parameters/848,thirst,thirst
+189-275,midd1317,http://concepticon.clld.org/parameters/1421,souken,suck
+189-1799,midd1317,http://concepticon.clld.org/parameters/321,cheuen,chew
+189-182,midd1317,http://concepticon.clld.org/parameters/897,swolwen,swallow
+189-1743,midd1317,http://concepticon.clld.org/parameters/129,choken,choke
+189-735,midd1317,http://concepticon.clld.org/parameters/1100,coken,cook
+189-1632,midd1317,http://concepticon.clld.org/parameters/792,sethen,boil (vb)
+189-142,midd1317,http://concepticon.clld.org/parameters/792,boillen,boil (vb)
+189-667,midd1317,http://concepticon.clld.org/parameters/2146,rosten,"roast, fry"
+189-714,midd1317,http://concepticon.clld.org/parameters/2146,frien,"roast, fry"
+189-1797,midd1317,http://concepticon.clld.org/parameters/183,baken,bake
+189-128,midd1317,http://concepticon.clld.org/parameters/1143,oven,oven
+189-1571,midd1317,http://concepticon.clld.org/parameters/1462,pot-e,"pot, cooking vessel"
+189-702,midd1317,http://concepticon.clld.org/parameters/854,ketel,kettle
+189-837,midd1317,http://concepticon.clld.org/parameters/31,panne,pan
+189-909,midd1317,http://concepticon.clld.org/parameters/481,dish,dish
+189-909,midd1317,http://concepticon.clld.org/parameters/480,dish,plate
+189-418,midd1317,http://concepticon.clld.org/parameters/480,plat-e,plate
+189-1421,midd1317,http://concepticon.clld.org/parameters/1530,bolle,bowl
+189-1558,midd1317,http://concepticon.clld.org/parameters/270,picher-e,"pitcher, jug"
+189-1385,midd1317,http://concepticon.clld.org/parameters/476,cuppe,"cup, drinking vessel"
+189-547,midd1317,http://concepticon.clld.org/parameters/271,saucer-e,saucer
+189-563,midd1317,http://concepticon.clld.org/parameters/1378,spon,spoon
+189-178,midd1317,http://concepticon.clld.org/parameters/1352,knif,knife (2)
+189-827,midd1317,http://concepticon.clld.org/parameters/1302,forke,fork (2)
+189-1484,midd1317,http://concepticon.clld.org/parameters/272,tonges,tongs
+189-56,midd1317,http://concepticon.clld.org/parameters/1526,mel,meal (a)
+189-429,midd1317,http://concepticon.clld.org/parameters/1526,ferme,meal (a)
+189-49,midd1317,http://concepticon.clld.org/parameters/1322,breke-faste,breakfast
+189-1286,midd1317,http://concepticon.clld.org/parameters/768,non-shench,lunch
+189-399,midd1317,http://concepticon.clld.org/parameters/1833,diner,dinner
+189-663,midd1317,http://concepticon.clld.org/parameters/1833,soper-e,supper
+189-1314,midd1317,http://concepticon.clld.org/parameters/275,pilen,peel
+189-127,midd1317,http://concepticon.clld.org/parameters/86,sive,"sieve, strain"
+189-44,midd1317,http://concepticon.clld.org/parameters/1767,scrapen,scrape
+189-419,midd1317,http://concepticon.clld.org/parameters/2017,stiren,"stir, mix"
+189-1593,midd1317,http://concepticon.clld.org/parameters/1368,bred,bread
+189-1043,midd1317,http://concepticon.clld.org/parameters/273,dough,dough
+189-1747,midd1317,http://concepticon.clld.org/parameters/273,paste,dough
+189-1349,midd1317,http://concepticon.clld.org/parameters/274,kneden,knead
+189-498,midd1317,http://concepticon.clld.org/parameters/1594,mele,"meal, flour"
+189-1493,midd1317,http://concepticon.clld.org/parameters/1594,flour,"meal, flour"
+189-1677,midd1317,http://concepticon.clld.org/parameters/1033,grinden,"crush, grind"
+189-1327,midd1317,http://concepticon.clld.org/parameters/636,milne,mill
+189-738,midd1317,http://concepticon.clld.org/parameters/636,quern-e,mill
+189-1031,midd1317,http://concepticon.clld.org/parameters/224,morter,mortar (2)
+189-774,midd1317,http://concepticon.clld.org/parameters/225,pestel,pestle
+189-1692,midd1317,http://concepticon.clld.org/parameters/634,flesh,meat
+189-1664,midd1317,http://concepticon.clld.org/parameters/1874,sausige,sausage
+189-325,midd1317,http://concepticon.clld.org/parameters/1547,broth,"soup, broth"
+189-1356,midd1317,http://concepticon.clld.org/parameters/924,wortes,vegetables
+189-1343,midd1317,http://concepticon.clld.org/parameters/832,ben-e,bean
+189-1083,midd1317,http://concepticon.clld.org/parameters/1507,fruit,fruit
+189-1439,midd1317,http://concepticon.clld.org/parameters/1966,bonche,bunch
+189-23,midd1317,http://concepticon.clld.org/parameters/322,fige,fig
+189-467,midd1317,http://concepticon.clld.org/parameters/920,grape,grape
+189-659,midd1317,http://concepticon.clld.org/parameters/191,note,nut
+189-531,midd1317,http://concepticon.clld.org/parameters/1154,olive,olive
+189-1433,midd1317,http://concepticon.clld.org/parameters/1484,oile,oil
+189-1397,midd1317,http://concepticon.clld.org/parameters/323,grese,"grease, fat"
+189-1259,midd1317,http://concepticon.clld.org/parameters/323,fatte,"grease, fat"
+189-676,midd1317,http://concepticon.clld.org/parameters/1274,salt,salt
+189-871,midd1317,http://concepticon.clld.org/parameters/1385,peper,pepper
+189-331,midd1317,http://concepticon.clld.org/parameters/942,honi,honey
+189-861,midd1317,http://concepticon.clld.org/parameters/862,sugre,sugar
+189-464,midd1317,http://concepticon.clld.org/parameters/635,milk,milk (noun)
+189-577,midd1317,http://concepticon.clld.org/parameters/93,milken,milk (vb)
+189-213,midd1317,http://concepticon.clld.org/parameters/1569,chese,cheese
+189-1219,midd1317,http://concepticon.clld.org/parameters/1245,buter-e,butter
+189-1372,midd1317,http://concepticon.clld.org/parameters/731,beverage,"beverage, drink"
+189-1262,midd1317,http://concepticon.clld.org/parameters/941,med-e,mead
+189-1359,midd1317,http://concepticon.clld.org/parameters/1524,win-e,wine
+189-1569,midd1317,http://concepticon.clld.org/parameters/1639,ber,beer
+189-906,midd1317,http://concepticon.clld.org/parameters/1639,ale,beer
+189-1262,midd1317,http://concepticon.clld.org/parameters/404,med-e,fermented drink
+189-176,midd1317,http://concepticon.clld.org/parameters/744,eg-ge,egg
+189-601,midd1317,http://concepticon.clld.org/parameters/744,ei,egg
+189-1617,midd1317,http://concepticon.clld.org/parameters/1556,eg-ge yolk,egg yolk
+189-1777,midd1317,http://concepticon.clld.org/parameters/1556,yolk-e,egg yolk
+189-33,midd1317,http://concepticon.clld.org/parameters/158,clothen,put on (clothes)
+189-1785,midd1317,http://concepticon.clld.org/parameters/158,dressen,put on (clothes)
+189-39,midd1317,http://concepticon.clld.org/parameters/1895,clothes,"clothing, clothes"
+189-517,midd1317,http://concepticon.clld.org/parameters/1895,iwede,"clothing, clothes"
+189-147,midd1317,http://concepticon.clld.org/parameters/881,taillour,tailor
+189-1332,midd1317,http://concepticon.clld.org/parameters/1616,cloth,cloth
+189-1195,midd1317,http://concepticon.clld.org/parameters/964,wol,wool
+189-1478,midd1317,http://concepticon.clld.org/parameters/916,linen,"linen, flax"
+189-1130,midd1317,http://concepticon.clld.org/parameters/916,lin,"linen, flax"
+189-1491,midd1317,http://concepticon.clld.org/parameters/916,flex,"linen, flax"
+189-1292,midd1317,http://concepticon.clld.org/parameters/1850,cotoun,cotton
+189-1196,midd1317,http://concepticon.clld.org/parameters/1641,silk-e,silk
+189-443,midd1317,http://concepticon.clld.org/parameters/325,felt,felt
+189-357,midd1317,http://concepticon.clld.org/parameters/580,furre,fur
+189-151,midd1317,http://concepticon.clld.org/parameters/629,lether,leather
+189-1209,midd1317,http://concepticon.clld.org/parameters/121,spinnen,spin
+189-720,midd1317,http://concepticon.clld.org/parameters/277,spindel,spindle
+189-1645,midd1317,http://concepticon.clld.org/parameters/133,weven,weave
+189-957,midd1317,http://concepticon.clld.org/parameters/1787,lome,loom
+189-1157,midd1317,http://concepticon.clld.org/parameters/1457,seuen,sew
+189-1729,midd1317,http://concepticon.clld.org/parameters/1382,nedle,needle
+189-886,midd1317,http://concepticon.clld.org/parameters/278,al,awl
+189-1159,midd1317,http://concepticon.clld.org/parameters/1161,thred-e,thread
+189-944,midd1317,http://concepticon.clld.org/parameters/157,deien,dye
+189-154,midd1317,http://concepticon.clld.org/parameters/326,cloke,cloak
+189-1368,midd1317,http://concepticon.clld.org/parameters/326,mantel,cloak
+189-776,midd1317,http://concepticon.clld.org/parameters/326,pal,cloak
+189-692,midd1317,http://concepticon.clld.org/parameters/474,robe,woman's dress
+189-1173,midd1317,http://concepticon.clld.org/parameters/603,cote,coat
+189-441,midd1317,http://concepticon.clld.org/parameters/1622,shirt-e,shirt
+189-257,midd1317,http://concepticon.clld.org/parameters/2012,coler,collar
+189-268,midd1317,http://concepticon.clld.org/parameters/1600,skirt-e,skirt
+189-1681,midd1317,http://concepticon.clld.org/parameters/809,brech,trousers
+189-1739,midd1317,http://concepticon.clld.org/parameters/329,hose,"stocking, sock"
+189-405,midd1317,http://concepticon.clld.org/parameters/329,sok,"stocking, sock"
+189-1623,midd1317,http://concepticon.clld.org/parameters/1381,sho,shoe
+189-1205,midd1317,http://concepticon.clld.org/parameters/585,bote,boot
+189-503,midd1317,http://concepticon.clld.org/parameters/875,sho-makere,"shoemaker, cobbler"
+189-287,midd1317,http://concepticon.clld.org/parameters/875,cobeler-e,"shoemaker, cobbler"
+189-360,midd1317,http://concepticon.clld.org/parameters/2130,hat,"hat, cap"
+189-1198,midd1317,http://concepticon.clld.org/parameters/2130,cappe,"hat, cap"
+189-1736,midd1317,http://concepticon.clld.org/parameters/772,belt,"belt, girdle"
+189-643,midd1317,http://concepticon.clld.org/parameters/772,girdel,"belt, girdle"
+189-1284,midd1317,http://concepticon.clld.org/parameters/867,glove,glove
+189-342,midd1317,http://concepticon.clld.org/parameters/1151,veile,veil
+189-108,midd1317,http://concepticon.clld.org/parameters/1851,poket,pocket
+189-688,midd1317,http://concepticon.clld.org/parameters/1851,pouche,pocket
+189-724,midd1317,http://concepticon.clld.org/parameters/757,botoun,button
+189-1111,midd1317,http://concepticon.clld.org/parameters/64,prene,pin
+189-1776,midd1317,http://concepticon.clld.org/parameters/64,pin,pin
+189-638,midd1317,http://concepticon.clld.org/parameters/917,ournement,"ornament, adornment"
+189-1048,midd1317,http://concepticon.clld.org/parameters/1029,jeuel,jewel
+189-57,midd1317,http://concepticon.clld.org/parameters/1029,ǧemme,jewel
+189-632,midd1317,http://concepticon.clld.org/parameters/1374,ring,ring (for finger)
+189-1563,midd1317,http://concepticon.clld.org/parameters/1754,bei,bracelet
+189-257,midd1317,http://concepticon.clld.org/parameters/1961,coler,necklace
+189-1213,midd1317,http://concepticon.clld.org/parameters/1860,bed-e,bead
+189-737,midd1317,http://concepticon.clld.org/parameters/770,ere-ring,earring
+189-621,midd1317,http://concepticon.clld.org/parameters/330,coroune,"headband, headdress"
+189-687,midd1317,http://concepticon.clld.org/parameters/68,mark-e,tattoo
+189-356,midd1317,http://concepticon.clld.org/parameters/332,kercher,"handkerchief, rag"
+189-599,midd1317,http://concepticon.clld.org/parameters/1021,touail,towel
+189-726,midd1317,http://concepticon.clld.org/parameters/1475,comb,comb
+189-80,midd1317,http://concepticon.clld.org/parameters/1821,brushe,brush
+189-1708,midd1317,http://concepticon.clld.org/parameters/333,breiden,braid
+189-1015,midd1317,http://concepticon.clld.org/parameters/151,rasour-e,razor
+189-335,midd1317,http://concepticon.clld.org/parameters/1926,oinement,ointment
+189-1268,midd1317,http://concepticon.clld.org/parameters/1926,salve,ointment
+189-1683,midd1317,http://concepticon.clld.org/parameters/788,sope,soap
+189-1139,midd1317,http://concepticon.clld.org/parameters/1171,mirour,mirror
+189-980,midd1317,http://concepticon.clld.org/parameters/1171,glas,mirror
+189-401,midd1317,http://concepticon.clld.org/parameters/1099,wonen,"dwell, live"
+189-1228,midd1317,http://concepticon.clld.org/parameters/1099,liven,"dwell, live"
+189-506,midd1317,http://concepticon.clld.org/parameters/1099,dwellen,"dwell, live"
+189-991,midd1317,http://concepticon.clld.org/parameters/1252,hous,house
+189-839,midd1317,http://concepticon.clld.org/parameters/1678,cot-e,hut
+189-984,midd1317,http://concepticon.clld.org/parameters/1678,hotte,hut
+189-796,midd1317,http://concepticon.clld.org/parameters/403,caban,garden-house
+189-1798,midd1317,http://concepticon.clld.org/parameters/1316,tent-e,tent
+189-74,midd1317,http://concepticon.clld.org/parameters/1316,teld,tent
+189-1440,midd1317,http://concepticon.clld.org/parameters/1316,paviloun,tent
+189-468,midd1317,http://concepticon.clld.org/parameters/736,yerd,"yard, court"
+189-1720,midd1317,http://concepticon.clld.org/parameters/736,haue,"yard, court"
+189-198,midd1317,http://concepticon.clld.org/parameters/334,cokehuse,cookhouse
+189-505,midd1317,http://concepticon.clld.org/parameters/1450,chaumbre,room
+189-1582,midd1317,http://concepticon.clld.org/parameters/1450,roum,room
+189-51,midd1317,http://concepticon.clld.org/parameters/1567,dor-e,"door, gate"
+189-106,midd1317,http://concepticon.clld.org/parameters/1567,gate,"door, gate"
+189-1428,midd1317,http://concepticon.clld.org/parameters/80,jaumb,"doorpost, jamb"
+189-1607,midd1317,http://concepticon.clld.org/parameters/80,dore stoth,"doorpost, jamb"
+189-1430,midd1317,http://concepticon.clld.org/parameters/80,dore tre,"doorpost, jamb"
+189-858,midd1317,http://concepticon.clld.org/parameters/1596,lok,lock (noun)
+189-1338,midd1317,http://concepticon.clld.org/parameters/1012,dore pin,"latch, door-bolt"
+189-232,midd1317,http://concepticon.clld.org/parameters/1012,lacch-e,"latch, door-bolt"
+189-1034,midd1317,http://concepticon.clld.org/parameters/1472,keie,key
+189-541,midd1317,http://concepticon.clld.org/parameters/1375,windou-e,window
+189-473,midd1317,http://concepticon.clld.org/parameters/1375,fenestre,window
+189-1353,midd1317,http://concepticon.clld.org/parameters/1375,fenester,window
+189-1181,midd1317,http://concepticon.clld.org/parameters/1375,ei-e-thirl,window
+189-231,midd1317,http://concepticon.clld.org/parameters/1632,flor,floor
+189-413,midd1317,http://concepticon.clld.org/parameters/933,wal,wall
+189-385,midd1317,http://concepticon.clld.org/parameters/933,wough,wall
+189-864,midd1317,http://concepticon.clld.org/parameters/185,herth,fireplace
+189-332,midd1317,http://concepticon.clld.org/parameters/185,chimenē,fireplace
+189-387,midd1317,http://concepticon.clld.org/parameters/185,chimenei,fireplace
+189-896,midd1317,http://concepticon.clld.org/parameters/185,chimenai,fireplace
+189-128,midd1317,http://concepticon.clld.org/parameters/859,oven,stove
+189-332,midd1317,http://concepticon.clld.org/parameters/1305,chimenē,chimney
+189-387,midd1317,http://concepticon.clld.org/parameters/1305,chimenei,chimney
+189-896,midd1317,http://concepticon.clld.org/parameters/1305,chimenai,chimney
+189-1235,midd1317,http://concepticon.clld.org/parameters/1464,ladder-e,ladder
+189-1566,midd1317,http://concepticon.clld.org/parameters/1663,bed,bed
+189-1289,midd1317,http://concepticon.clld.org/parameters/1044,pilwe,pillow
+189-28,midd1317,http://concepticon.clld.org/parameters/806,blanket,blanket
+189-248,midd1317,http://concepticon.clld.org/parameters/1476,stol,chair
+189-1090,midd1317,http://concepticon.clld.org/parameters/1476,chaier-e,chair
+189-376,midd1317,http://concepticon.clld.org/parameters/1775,bord,table
+189-1648,midd1317,http://concepticon.clld.org/parameters/1775,table,table
+189-425,midd1317,http://concepticon.clld.org/parameters/2131,laumpe,"lamp, torch"
+189-431,midd1317,http://concepticon.clld.org/parameters/1273,candel,candle
+189-66,midd1317,http://concepticon.clld.org/parameters/1273,taper,candle
+189-1540,midd1317,http://concepticon.clld.org/parameters/745,shelf-e,shelf
+189-1391,midd1317,http://concepticon.clld.org/parameters/205,trough,trough
+189-96,midd1317,http://concepticon.clld.org/parameters/205,trug-ge,trough
+189-460,midd1317,http://concepticon.clld.org/parameters/769,rof,roof
+189-1780,midd1317,http://concepticon.clld.org/parameters/279,thach-e,thatch
+189-1564,midd1317,http://concepticon.clld.org/parameters/280,bem,ridgepole
+189-1710,midd1317,http://concepticon.clld.org/parameters/829,rafter,rafter
+189-1564,midd1317,http://concepticon.clld.org/parameters/1132,bem,beam
+189-396,midd1317,http://concepticon.clld.org/parameters/281,post,"post, pole"
+189-376,midd1317,http://concepticon.clld.org/parameters/1227,bord,board
+189-1279,midd1317,http://concepticon.clld.org/parameters/876,arch-e,arch
+189-1274,midd1317,http://concepticon.clld.org/parameters/877,masoun,mason
+189-200,midd1317,http://concepticon.clld.org/parameters/1006,brike,brick
+189-1031,midd1317,http://concepticon.clld.org/parameters/1731,morter,mortar
+189-666,midd1317,http://concepticon.clld.org/parameters/979,hus-bond-man,farmer
+189-414,midd1317,http://concepticon.clld.org/parameters/979,hous-bond-e,farmer
+189-594,midd1317,http://concepticon.clld.org/parameters/979,aker-man,farmer
+189-1610,midd1317,http://concepticon.clld.org/parameters/212,aker,field (for cultivation)
+189-448,midd1317,http://concepticon.clld.org/parameters/212,feld,field (for cultivation)
+189-1665,midd1317,http://concepticon.clld.org/parameters/586,gardin,garden
+189-1032,midd1317,http://concepticon.clld.org/parameters/586,orchard,garden
+189-1767,midd1317,http://concepticon.clld.org/parameters/1541,tillen,"cultivate, till"
+189-690,midd1317,http://concepticon.clld.org/parameters/1690,fens,fence
+189-1113,midd1317,http://concepticon.clld.org/parameters/2002,dich-e,ditch
+189-1152,midd1317,http://concepticon.clld.org/parameters/2002,fosse,ditch
+189-282,midd1317,http://concepticon.clld.org/parameters/1921,eren,plow
+189-917,midd1317,http://concepticon.clld.org/parameters/1921,plouen,plow
+189-1184,midd1317,http://concepticon.clld.org/parameters/1921,plough,plow
+189-1618,midd1317,http://concepticon.clld.org/parameters/1794,forwe,furrow
+189-1387,midd1317,http://concepticon.clld.org/parameters/1418,graven,dig
+189-1659,midd1317,http://concepticon.clld.org/parameters/1418,diggen,dig
+189-183,midd1317,http://concepticon.clld.org/parameters/1418,delven,dig
+189-210,midd1317,http://concepticon.clld.org/parameters/1176,spade,spade
+189-1790,midd1317,http://concepticon.clld.org/parameters/1901,shovel-e,shovel
+189-998,midd1317,http://concepticon.clld.org/parameters/284,houe,hoe
+189-827,midd1317,http://concepticon.clld.org/parameters/337,forke,fork
+189-588,midd1317,http://concepticon.clld.org/parameters/338,rake,rake
+189-1170,midd1317,http://concepticon.clld.org/parameters/748,souen,sow
+189-288,midd1317,http://concepticon.clld.org/parameters/748,seden,sow
+189-1187,midd1317,http://concepticon.clld.org/parameters/714,sed,seed
+189-1641,midd1317,http://concepticon.clld.org/parameters/714,grain,seed
+189-1651,midd1317,http://concepticon.clld.org/parameters/190,mouen,"mow, reap"
+189-1419,midd1317,http://concepticon.clld.org/parameters/190,repen,"mow, reap"
+189-739,midd1317,http://concepticon.clld.org/parameters/2132,sikel,"sickle, scythe"
+189-118,midd1317,http://concepticon.clld.org/parameters/2132,sithe,"sickle, scythe"
+189-494,midd1317,http://concepticon.clld.org/parameters/285,threshen,thresh
+189-417,midd1317,http://concepticon.clld.org/parameters/223,threshing-e flor,threshing-floor
+189-542,midd1317,http://concepticon.clld.org/parameters/611,fruites,"crop, harvest"
+189-1399,midd1317,http://concepticon.clld.org/parameters/611,crop,"crop, harvest"
+189-1669,midd1317,http://concepticon.clld.org/parameters/611,ripe,"crop, harvest"
+189-497,midd1317,http://concepticon.clld.org/parameters/605,corn,"grain (barley, oats etc)"
+189-1641,midd1317,http://concepticon.clld.org/parameters/605,grain,"grain (barley, oats etc)"
+189-454,midd1317,http://concepticon.clld.org/parameters/1077,whete,wheat
+189-1165,midd1317,http://concepticon.clld.org/parameters/932,ber-e,barley
+189-1283,midd1317,http://concepticon.clld.org/parameters/932,barli,barley
+189-1247,midd1317,http://concepticon.clld.org/parameters/23,rie,rye
+189-411,midd1317,http://concepticon.clld.org/parameters/60,otes,oats
+189-1241,midd1317,http://concepticon.clld.org/parameters/926,ris,rice
+189-1619,midd1317,http://concepticon.clld.org/parameters/606,gras,grass
+189-865,midd1317,http://concepticon.clld.org/parameters/342,hei,hay
+189-88,midd1317,http://concepticon.clld.org/parameters/653,wort,plant (noun)
+189-895,midd1317,http://concepticon.clld.org/parameters/653,herbe,plant (noun)
+189-262,midd1317,http://concepticon.clld.org/parameters/1486,plaunten,plant (vb)
+189-1725,midd1317,http://concepticon.clld.org/parameters/670,rote,root
+189-1579,midd1317,http://concepticon.clld.org/parameters/1531,bough,branch
+189-888,midd1317,http://concepticon.clld.org/parameters/1531,braunch,branch
+189-1779,midd1317,http://concepticon.clld.org/parameters/1531,twist,branch
+189-1409,midd1317,http://concepticon.clld.org/parameters/628,lef,leaf
+189-1086,midd1317,http://concepticon.clld.org/parameters/239,blosme,flower
+189-802,midd1317,http://concepticon.clld.org/parameters/239,blom,flower
+189-1493,midd1317,http://concepticon.clld.org/parameters/239,flour,flower
+189-1394,midd1317,http://concepticon.clld.org/parameters/906,tre,tree
+189-1622,midd1317,http://concepticon.clld.org/parameters/644,ok-e,oak
+189-252,midd1317,http://concepticon.clld.org/parameters/1950,beche,beech
+189-1636,midd1317,http://concepticon.clld.org/parameters/1855,birch-e,birch
+189-551,midd1317,http://concepticon.clld.org/parameters/1740,pine,pine
+189-715,midd1317,http://concepticon.clld.org/parameters/1915,firre,fir
+189-914,midd1317,http://concepticon.clld.org/parameters/968,akorn,acorn
+189-1183,midd1317,http://concepticon.clld.org/parameters/343,vine,vine
+189-689,midd1317,http://concepticon.clld.org/parameters/343,vine-tre,vine
+189-1784,midd1317,http://concepticon.clld.org/parameters/241,stumpe,tree stump
+189-952,midd1317,http://concepticon.clld.org/parameters/344,trunk,tree trunk
+189-1189,midd1317,http://concepticon.clld.org/parameters/1204,bark,bark
+189-766,midd1317,http://concepticon.clld.org/parameters/345,sap-e,sap
+189-1151,midd1317,http://concepticon.clld.org/parameters/1181,palm-tre,palm tree
+189-1396,midd1317,http://concepticon.clld.org/parameters/1181,palm-e,palm tree
+189-1307,midd1317,http://concepticon.clld.org/parameters/1181,palmer,palm tree
+189-697,midd1317,http://concepticon.clld.org/parameters/411,gourd-e,gourd
+189-1078,midd1317,http://concepticon.clld.org/parameters/864,peponis,"pumpkin, squash"
+189-323,midd1317,http://concepticon.clld.org/parameters/1927,cane,bamboo
+189-323,midd1317,http://concepticon.clld.org/parameters/146,cane,sugar cane
+189-1231,midd1317,http://concepticon.clld.org/parameters/146,sugre cane,sugar cane
+189-662,midd1317,http://concepticon.clld.org/parameters/33,netle,nettle
+189-1657,midd1317,http://concepticon.clld.org/parameters/641,musheron,mushroom
+189-229,midd1317,http://concepticon.clld.org/parameters/813,don,"do, make"
+189-1415,midd1317,http://concepticon.clld.org/parameters/813,maken,"do, make"
+189-656,midd1317,http://concepticon.clld.org/parameters/813,werken,"do, make"
+189-656,midd1317,http://concepticon.clld.org/parameters/984,werken,work
+189-1503,midd1317,http://concepticon.clld.org/parameters/984,swinken,work
+189-1442,midd1317,http://concepticon.clld.org/parameters/984,labouren,work
+189-14,midd1317,http://concepticon.clld.org/parameters/2004,bouen,bend
+189-524,midd1317,http://concepticon.clld.org/parameters/2004,benden,bend
+189-240,midd1317,http://concepticon.clld.org/parameters/1470,folden,fold
+189-393,midd1317,http://concepticon.clld.org/parameters/1917,binden,"tie, bind"
+189-94,midd1317,http://concepticon.clld.org/parameters/1917,teien,"tie, bind"
+189-1447,midd1317,http://concepticon.clld.org/parameters/352,unteien,untie
+189-1731,midd1317,http://concepticon.clld.org/parameters/1627,chaine,chain
+189-345,midd1317,http://concepticon.clld.org/parameters/1627,raketeie,chain
+189-539,midd1317,http://concepticon.clld.org/parameters/1627,rakent,chain
+189-938,midd1317,http://concepticon.clld.org/parameters/1218,rop,"rope, cord"
+189-745,midd1317,http://concepticon.clld.org/parameters/1218,corde,"rope, cord"
+189-480,midd1317,http://concepticon.clld.org/parameters/1218,streng,"rope, cord"
+189-1334,midd1317,http://concepticon.clld.org/parameters/1218,line,"rope, cord"
+189-1686,midd1317,http://concepticon.clld.org/parameters/760,knotte,knot (noun)
+189-155,midd1317,http://concepticon.clld.org/parameters/2133,slen,"strike (hit, beat)"
+189-130,midd1317,http://concepticon.clld.org/parameters/2133,smiten,"strike (hit, beat)"
+189-868,midd1317,http://concepticon.clld.org/parameters/2133,striken,"strike (hit, beat)"
+189-1774,midd1317,http://concepticon.clld.org/parameters/2133,hitten,"strike (hit, beat)"
+189-1577,midd1317,http://concepticon.clld.org/parameters/2133,beten,"strike (hit, beat)"
+189-919,midd1317,http://concepticon.clld.org/parameters/354,pounen,pound with fist
+189-1744,midd1317,http://concepticon.clld.org/parameters/1432,sheren,cut
+189-1310,midd1317,http://concepticon.clld.org/parameters/1432,kerven,cut
+189-1097,midd1317,http://concepticon.clld.org/parameters/1432,heuen,cut
+189-578,midd1317,http://concepticon.clld.org/parameters/1432,cutten,cut
+189-1129,midd1317,http://concepticon.clld.org/parameters/355,cutten doun,cut down
+189-1050,midd1317,http://concepticon.clld.org/parameters/155,choppen,"chop, hew"
+189-116,midd1317,http://concepticon.clld.org/parameters/1434,stabben,stab
+189-178,midd1317,http://concepticon.clld.org/parameters/1352,knif,knife
+189-1524,midd1317,http://concepticon.clld.org/parameters/356,cisours,"scissors, shears"
+189-1791,midd1317,http://concepticon.clld.org/parameters/356,shere,"scissors, shears"
+189-590,midd1317,http://concepticon.clld.org/parameters/677,ax-e,ax
+189-1049,midd1317,http://concepticon.clld.org/parameters/290,adese,adze
+189-1752,midd1317,http://concepticon.clld.org/parameters/680,breken,break
+189-833,midd1317,http://concepticon.clld.org/parameters/588,broken,broken
+189-1446,midd1317,http://concepticon.clld.org/parameters/1437,cleven,split
+189-1296,midd1317,http://concepticon.clld.org/parameters/1735,teren,tear
+189-191,midd1317,http://concepticon.clld.org/parameters/1735,renden,tear
+189-1175,midd1317,http://concepticon.clld.org/parameters/1735,riven,tear
+189-1499,midd1317,http://concepticon.clld.org/parameters/291,flen,"flay, skin"
+189-1057,midd1317,http://concepticon.clld.org/parameters/1449,gniden,"rub, wipe"
+189-945,midd1317,http://concepticon.clld.org/parameters/1449,gnodden,"rub, wipe"
+189-889,midd1317,http://concepticon.clld.org/parameters/1449,rubben,"rub, wipe"
+189-205,midd1317,http://concepticon.clld.org/parameters/214,strecchen,stretch
+189-1637,midd1317,http://concepticon.clld.org/parameters/1455,drauen,pull
+189-362,midd1317,http://concepticon.clld.org/parameters/38,spreden,spread out
+189-1222,midd1317,http://concepticon.clld.org/parameters/38,streuen,spread out
+189-398,midd1317,http://concepticon.clld.org/parameters/357,hongen up,hang up
+189-1238,midd1317,http://concepticon.clld.org/parameters/1913,pressen,press
+189-971,midd1317,http://concepticon.clld.org/parameters/1414,quisen,"squeeze, wring"
+189-822,midd1317,http://concepticon.clld.org/parameters/1487,yeten,pour
+189-1654,midd1317,http://concepticon.clld.org/parameters/1487,pouren,pour
+189-665,midd1317,http://concepticon.clld.org/parameters/1487,skinken,pour
+189-709,midd1317,http://concepticon.clld.org/parameters/1487,shenchen,pour
+189-166,midd1317,http://concepticon.clld.org/parameters/1453,washen,wash
+189-114,midd1317,http://concepticon.clld.org/parameters/1453,swilen,wash
+189-1282,midd1317,http://concepticon.clld.org/parameters/230,swepen,sweep
+189-499,midd1317,http://concepticon.clld.org/parameters/230,swopen,sweep
+189-1715,midd1317,http://concepticon.clld.org/parameters/245,besm-e,broom
+189-767,midd1317,http://concepticon.clld.org/parameters/245,brom,broom
+189-194,midd1317,http://concepticon.clld.org/parameters/1361,tol,tool
+189-897,midd1317,http://concepticon.clld.org/parameters/1042,carpenter,carpenter
+189-1529,midd1317,http://concepticon.clld.org/parameters/1840,bilden,build
+189-1325,midd1317,http://concepticon.clld.org/parameters/1501,boren,bore
+189-773,midd1317,http://concepticon.clld.org/parameters/46,holwen,hollow out
+189-867,midd1317,http://concepticon.clld.org/parameters/1948,sau-e,saw
+189-624,midd1317,http://concepticon.clld.org/parameters/1481,hamer,hammer
+189-43,midd1317,http://concepticon.clld.org/parameters/502,nail,nail
+189-1490,midd1317,http://concepticon.clld.org/parameters/1069,gleu,glue
+189-1702,midd1317,http://concepticon.clld.org/parameters/1001,smith,"smith, blacksmith"
+189-1215,midd1317,http://concepticon.clld.org/parameters/288,smith-e,forge
+189-809,midd1317,http://concepticon.clld.org/parameters/288,forge,forge
+189-538,midd1317,http://concepticon.clld.org/parameters/1648,anvelt,anvil
+189-762,midd1317,http://concepticon.clld.org/parameters/1648,stithi-e,anvil
+189-822,midd1317,http://concepticon.clld.org/parameters/211,yeten,cast (metals)
+189-124,midd1317,http://concepticon.clld.org/parameters/211,casten,cast (metals)
+189-1153,midd1317,http://concepticon.clld.org/parameters/1369,gold,gold
+189-149,midd1317,http://concepticon.clld.org/parameters/759,silver,silver
+189-1423,midd1317,http://concepticon.clld.org/parameters/1825,coper,"copper, bronze"
+189-292,midd1317,http://concepticon.clld.org/parameters/1825,bras,"copper, bronze"
+189-1473,midd1317,http://concepticon.clld.org/parameters/621,iren,iron
+189-1408,midd1317,http://concepticon.clld.org/parameters/627,led,lead (noun)
+189-439,midd1317,http://concepticon.clld.org/parameters/358,tin,"tin, tinplate"
+189-1462,midd1317,http://concepticon.clld.org/parameters/359,potter-e,potter
+189-750,midd1317,http://concepticon.clld.org/parameters/289,formen,mold (clay etc)
+189-270,midd1317,http://concepticon.clld.org/parameters/1399,clei,clay
+189-980,midd1317,http://concepticon.clld.org/parameters/604,glas,glass
+189-1708,midd1317,http://concepticon.clld.org/parameters/1729,breiden,"weave, plait"
+189-729,midd1317,http://concepticon.clld.org/parameters/1539,windle,basket
+189-570,midd1317,http://concepticon.clld.org/parameters/1539,basket,basket
+189-303,midd1317,http://concepticon.clld.org/parameters/195,matte,mat
+189-712,midd1317,http://concepticon.clld.org/parameters/292,tapet-e,rug
+189-1615,midd1317,http://concepticon.clld.org/parameters/1971,fan-ne,fan (noun)
+189-706,midd1317,http://concepticon.clld.org/parameters/360,fannen,fan (vb)
+189-1310,midd1317,http://concepticon.clld.org/parameters/228,kerven,carve
+189-1387,midd1317,http://concepticon.clld.org/parameters/228,graven,carve
+189-813,midd1317,http://concepticon.clld.org/parameters/914,graver-e,sculptor
+189-747,midd1317,http://concepticon.clld.org/parameters/914,kerver-e,sculptor
+189-1158,midd1317,http://concepticon.clld.org/parameters/1002,liknes-se,statue
+189-783,midd1317,http://concepticon.clld.org/parameters/1002,statue,statue
+189-995,midd1317,http://concepticon.clld.org/parameters/1979,chisel,chisel
+189-1746,midd1317,http://concepticon.clld.org/parameters/647,peinture,paint (noun)
+189-924,midd1317,http://concepticon.clld.org/parameters/2001,peinten,paint (vb)
+189-967,midd1317,http://concepticon.clld.org/parameters/765,meven,move
+189-419,midd1317,http://concepticon.clld.org/parameters/765,stiren,move
+189-649,midd1317,http://concepticon.clld.org/parameters/1588,turnen,turn over
+189-1591,midd1317,http://concepticon.clld.org/parameters/1445,writhen,turn around
+189-41,midd1317,http://concepticon.clld.org/parameters/1113,winden,"wind, wrap"
+189-1551,midd1317,http://concepticon.clld.org/parameters/1113,wrappen,"wind, wrap"
+189-1492,midd1317,http://concepticon.clld.org/parameters/827,walwen,roll
+189-285,midd1317,http://concepticon.clld.org/parameters/827,rollen,roll
+189-1466,midd1317,http://concepticon.clld.org/parameters/808,droppen,drop (vb)
+189-192,midd1317,http://concepticon.clld.org/parameters/430,twisten,twist
+189-1072,midd1317,http://concepticon.clld.org/parameters/568,risen,rise
+189-280,midd1317,http://concepticon.clld.org/parameters/501,heven,"raise, lift"
+189-157,midd1317,http://concepticon.clld.org/parameters/501,liften,"raise, lift"
+189-492,midd1317,http://concepticon.clld.org/parameters/501,reisen,"raise, lift"
+189-156,midd1317,http://concepticon.clld.org/parameters/501,reren,"raise, lift"
+189-1085,midd1317,http://concepticon.clld.org/parameters/1280,fallen,fall
+189-1466,midd1317,http://concepticon.clld.org/parameters/1280,droppen,fall
+189-1466,midd1317,http://concepticon.clld.org/parameters/2253,droppen,drip
+189-1337,midd1317,http://concepticon.clld.org/parameters/1456,throuen,throw
+189-271,midd1317,http://concepticon.clld.org/parameters/702,cacchen,catch (ball)
+189-397,midd1317,http://concepticon.clld.org/parameters/1909,shaken,shake
+189-430,midd1317,http://concepticon.clld.org/parameters/1909,resen,shake
+189-1584,midd1317,http://concepticon.clld.org/parameters/2003,flouen,flow
+189-1500,midd1317,http://concepticon.clld.org/parameters/2003,rennen,flow
+189-821,midd1317,http://concepticon.clld.org/parameters/1088,sinken,sink
+189-1007,midd1317,http://concepticon.clld.org/parameters/1088,senchen,sink
+189-1244,midd1317,http://concepticon.clld.org/parameters/1574,fleten,float
+189-1362,midd1317,http://concepticon.clld.org/parameters/1574,floten,float
+189-1134,midd1317,http://concepticon.clld.org/parameters/1574,flotien,float
+189-1656,midd1317,http://concepticon.clld.org/parameters/1439,swimmen,swim
+189-705,midd1317,http://concepticon.clld.org/parameters/119,diven,dive
+189-1553,midd1317,http://concepticon.clld.org/parameters/365,plash-e,splash
+189-1293,midd1317,http://concepticon.clld.org/parameters/787,seilen,sail (vb)
+189-1214,midd1317,http://concepticon.clld.org/parameters/1441,flien,fly (vb)
+189-1081,midd1317,http://concepticon.clld.org/parameters/175,blouen,blow
+189-1351,midd1317,http://concepticon.clld.org/parameters/96,crepen,"creep, crawl"
+189-746,midd1317,http://concepticon.clld.org/parameters/96,craulen,"creep, crawl"
+189-1416,midd1317,http://concepticon.clld.org/parameters/66,knelen,kneel
+189-834,midd1317,http://concepticon.clld.org/parameters/296,crouchen,crouch
+189-1557,midd1317,http://concepticon.clld.org/parameters/1324,sliden,"slide, slip"
+189-1089,midd1317,http://concepticon.clld.org/parameters/1324,slippen,"slide, slip"
+189-1644,midd1317,http://concepticon.clld.org/parameters/1829,lepen,"jump, leap"
+189-92,midd1317,http://concepticon.clld.org/parameters/1829,springen,"jump, leap"
+189-1182,midd1317,http://concepticon.clld.org/parameters/1135,kiken,kick
+189-1316,midd1317,http://concepticon.clld.org/parameters/1879,dauncen,dance
+189-164,midd1317,http://concepticon.clld.org/parameters/1443,gon,walk
+189-1367,midd1317,http://concepticon.clld.org/parameters/1443,walken,walk
+189-1475,midd1317,http://concepticon.clld.org/parameters/366,halten,limp
+189-1500,midd1317,http://concepticon.clld.org/parameters/1519,rennen,run
+189-164,midd1317,http://concepticon.clld.org/parameters/695,gon,go
+189-402,midd1317,http://concepticon.clld.org/parameters/695,gongen,go
+189-354,midd1317,http://concepticon.clld.org/parameters/695,faren,go
+189-983,midd1317,http://concepticon.clld.org/parameters/705,mounten,go up
+189-64,midd1317,http://concepticon.clld.org/parameters/1102,climben,climb
+189-513,midd1317,http://concepticon.clld.org/parameters/2014,descenden,go down
+189-962,midd1317,http://concepticon.clld.org/parameters/2014,senden,go down
+189-164,midd1317,http://concepticon.clld.org/parameters/1107,gon,go out
+189-728,midd1317,http://concepticon.clld.org/parameters/1446,comen,come
+189-446,midd1317,http://concepticon.clld.org/parameters/581,comen ayen,come back
+189-1204,midd1317,http://concepticon.clld.org/parameters/1752,gon awei,"go away, depart"
+189-349,midd1317,http://concepticon.clld.org/parameters/1752,departen,"go away, depart"
+189-1253,midd1317,http://concepticon.clld.org/parameters/485,disaperen,disappear
+189-1499,midd1317,http://concepticon.clld.org/parameters/956,flen,flee
+189-1053,midd1317,http://concepticon.clld.org/parameters/1085,folwen,follow
+189-1146,midd1317,http://concepticon.clld.org/parameters/1047,purseuen,pursue
+189-1091,midd1317,http://concepticon.clld.org/parameters/1047,chacen,pursue
+189-111,midd1317,http://concepticon.clld.org/parameters/1387,ariven,"reach, arrive"
+189-1625,midd1317,http://concepticon.clld.org/parameters/1387,rechen,"reach, arrive"
+189-1114,midd1317,http://concepticon.clld.org/parameters/1778,ap(p)rochen,approach
+189-1470,midd1317,http://concepticon.clld.org/parameters/749,entren,enter
+189-1066,midd1317,http://concepticon.clld.org/parameters/700,beren,carry (bear)
+189-1154,midd1317,http://concepticon.clld.org/parameters/700,carien,carry (bear)
+189-1154,midd1317,http://concepticon.clld.org/parameters/412,carien,carry-in-hand
+189-1154,midd1317,http://concepticon.clld.org/parameters/413,carien,carry-on-shoulder
+189-1154,midd1317,http://concepticon.clld.org/parameters/414,carien,carry-on-head
+189-1154,midd1317,http://concepticon.clld.org/parameters/415,carien,carry-underarm
+189-686,midd1317,http://concepticon.clld.org/parameters/692,bringen,bring
+189-52,midd1317,http://concepticon.clld.org/parameters/692,fecchen,bring
+189-962,midd1317,http://concepticon.clld.org/parameters/1127,senden,send
+189-1554,midd1317,http://concepticon.clld.org/parameters/43,leden,lead (vb)
+189-781,midd1317,http://concepticon.clld.org/parameters/741,driven,drive
+189-212,midd1317,http://concepticon.clld.org/parameters/367,riden,ride
+189-1788,midd1317,http://concepticon.clld.org/parameters/1452,shouven,"push, shove"
+189-486,midd1317,http://concepticon.clld.org/parameters/1452,thristen,"push, shove"
+189-1011,midd1317,http://concepticon.clld.org/parameters/1452,pushen,"push, shove"
+189-829,midd1317,http://concepticon.clld.org/parameters/1452,putten,"push, shove"
+189-1206,midd1317,http://concepticon.clld.org/parameters/667,wei,road
+189-170,midd1317,http://concepticon.clld.org/parameters/667,strete,road
+189-106,midd1317,http://concepticon.clld.org/parameters/667,gate,road
+189-62,midd1317,http://concepticon.clld.org/parameters/2252,path,path
+189-1647,midd1317,http://concepticon.clld.org/parameters/2252,sti-e,path
+189-1199,midd1317,http://concepticon.clld.org/parameters/1011,briǧǧe,bridge
+189-629,midd1317,http://concepticon.clld.org/parameters/122,carre,"carriage, wagon, cart"
+189-619,midd1317,http://concepticon.clld.org/parameters/122,cart,"carriage, wagon, cart"
+189-500,midd1317,http://concepticon.clld.org/parameters/122,wain,"carriage, wagon, cart"
+189-1530,midd1317,http://concepticon.clld.org/parameters/710,whel-e,wheel
+189-590,midd1317,http://concepticon.clld.org/parameters/1769,ax-e,axle
+189-911,midd1317,http://concepticon.clld.org/parameters/1769,axel-tre,axle
+189-1642,midd1317,http://concepticon.clld.org/parameters/1769,ax-tre,axle
+189-394,midd1317,http://concepticon.clld.org/parameters/14,yoke,yoke
+189-435,midd1317,http://concepticon.clld.org/parameters/740,ship,ship
+189-1212,midd1317,http://concepticon.clld.org/parameters/740,vessel,ship
+189-509,midd1317,http://concepticon.clld.org/parameters/1844,bot,boat
+189-977,midd1317,http://concepticon.clld.org/parameters/1664,raft,raft
+189-224,midd1317,http://concepticon.clld.org/parameters/108,or-e,oar
+189-208,midd1317,http://concepticon.clld.org/parameters/1849,rouen,row (vb)
+189-1496,midd1317,http://concepticon.clld.org/parameters/108,ster-e,rudder
+189-1546,midd1317,http://concepticon.clld.org/parameters/108,rother,rudder
+189-901,midd1317,http://concepticon.clld.org/parameters/184,mast,mast
+189-981,midd1317,http://concepticon.clld.org/parameters/786,seil-e,sail (noun)
+189-673,midd1317,http://concepticon.clld.org/parameters/1870,anker,anchor
+189-1561,midd1317,http://concepticon.clld.org/parameters/610,haven,"harbor, port"
+189-1251,midd1317,http://concepticon.clld.org/parameters/610,port,"harbor, port"
+189-1058,midd1317,http://concepticon.clld.org/parameters/610,herberwe,"harbor, port"
+189-1450,midd1317,http://concepticon.clld.org/parameters/1922,londen,land (vb)
+189-1561,midd1317,http://concepticon.clld.org/parameters/773,haven,have
+189-708,midd1317,http://concepticon.clld.org/parameters/684,ouen,"own, possess"
+189-247,midd1317,http://concepticon.clld.org/parameters/684,ounen,"own, possess"
+189-976,midd1317,http://concepticon.clld.org/parameters/1749,taken,take
+189-1523,midd1317,http://concepticon.clld.org/parameters/1749,nimen,take
+189-976,midd1317,http://concepticon.clld.org/parameters/2021,taken,"seize, grasp"
+189-152,midd1317,http://concepticon.clld.org/parameters/2021,seisen,"seize, grasp"
+189-421,midd1317,http://concepticon.clld.org/parameters/2021,gripen,"seize, grasp"
+189-310,midd1317,http://concepticon.clld.org/parameters/2021,lacchen,"seize, grasp"
+189-637,midd1317,http://concepticon.clld.org/parameters/1448,holden,hold
+189-1229,midd1317,http://concepticon.clld.org/parameters/694,geten,"get, obtain"
+189-1602,midd1317,http://concepticon.clld.org/parameters/694,obteinen,"get, obtain"
+189-637,midd1317,http://concepticon.clld.org/parameters/1477,holden,"keep, retain"
+189-932,midd1317,http://concepticon.clld.org/parameters/1477,kepen,"keep, retain"
+189-623,midd1317,http://concepticon.clld.org/parameters/738,thing,thing
+189-105,midd1317,http://concepticon.clld.org/parameters/1447,yeven,give
+189-470,midd1317,http://concepticon.clld.org/parameters/85,yeven ayen,give back
+189-453,midd1317,http://concepticon.clld.org/parameters/85,restoren,give back
+189-932,midd1317,http://concepticon.clld.org/parameters/1997,kepen,"preserve, look after"
+189-1210,midd1317,http://concepticon.clld.org/parameters/1997,berwen,"preserve, look after"
+189-9,midd1317,http://concepticon.clld.org/parameters/1997,saven,"preserve, look after"
+189-920,midd1317,http://concepticon.clld.org/parameters/1997,preserven,"preserve, look after"
+189-9,midd1317,http://concepticon.clld.org/parameters/2008,saven,"save, rescue"
+189-1787,midd1317,http://concepticon.clld.org/parameters/2008,redden,"save, rescue"
+189-217,midd1317,http://concepticon.clld.org/parameters/2008,rescouen,"save, rescue"
+189-1748,midd1317,http://concepticon.clld.org/parameters/681,spillen,destroy
+189-1536,midd1317,http://concepticon.clld.org/parameters/681,destroien,destroy
+189-1613,midd1317,http://concepticon.clld.org/parameters/44,harmen,"harm, injure, damage"
+189-832,midd1317,http://concepticon.clld.org/parameters/44,scathen,"harm, injure, damage"
+189-1761,midd1317,http://concepticon.clld.org/parameters/44,hurten,"harm, injure, damage"
+189-1741,midd1317,http://concepticon.clld.org/parameters/1468,sechen,"seek, look for"
+189-1270,midd1317,http://concepticon.clld.org/parameters/719,finden,find
+189-516,midd1317,http://concepticon.clld.org/parameters/1660,lesen,lose
+189-1724,midd1317,http://concepticon.clld.org/parameters/1660,losen,lose
+189-1650,midd1317,http://concepticon.clld.org/parameters/1095,leten gon,"release, let go"
+189-1775,midd1317,http://concepticon.clld.org/parameters/1095,relesen,"release, let go"
+189-721,midd1317,http://concepticon.clld.org/parameters/1559,monei-e,money
+189-1024,midd1317,http://concepticon.clld.org/parameters/1559,fe,money
+189-326,midd1317,http://concepticon.clld.org/parameters/1867,mint-e,coin
+189-226,midd1317,http://concepticon.clld.org/parameters/1867,coin,coin
+189-721,midd1317,http://concepticon.clld.org/parameters/1867,monei-e,coin
+189-1668,midd1317,http://concepticon.clld.org/parameters/712,riche,rich
+189-1768,midd1317,http://concepticon.clld.org/parameters/712,welthi,rich
+189-519,midd1317,http://concepticon.clld.org/parameters/1674,povre,poor
+189-1190,midd1317,http://concepticon.clld.org/parameters/1674,arm,poor
+189-1252,midd1317,http://concepticon.clld.org/parameters/1934,begger-e,beggar
+189-1698,midd1317,http://concepticon.clld.org/parameters/1774,averous,"avaricious, stingy"
+189-1403,midd1317,http://concepticon.clld.org/parameters/1774,nigard,"avaricious, stingy"
+189-1580,midd1317,http://concepticon.clld.org/parameters/582,lenen,lend
+189-1754,midd1317,http://concepticon.clld.org/parameters/1823,borwen,borrow
+189-708,midd1317,http://concepticon.clld.org/parameters/369,ouen,owe
+189-641,midd1317,http://concepticon.clld.org/parameters/369,shulen,owe
+189-1588,midd1317,http://concepticon.clld.org/parameters/1914,dette,debt
+189-695,midd1317,http://concepticon.clld.org/parameters/718,paien,pay (vb)
+189-615,midd1317,http://concepticon.clld.org/parameters/718,yelden,pay (vb)
+189-136,midd1317,http://concepticon.clld.org/parameters/1081,account-e,"account, reckoning"
+189-70,midd1317,http://concepticon.clld.org/parameters/1081,counte,"account, reckoning"
+189-1422,midd1317,http://concepticon.clld.org/parameters/1081,rekening-e,"account, reckoning"
+189-1515,midd1317,http://concepticon.clld.org/parameters/873,tax-e,"tax, tribute"
+189-1141,midd1317,http://concepticon.clld.org/parameters/856,hiren,hire
+189-1232,midd1317,http://concepticon.clld.org/parameters/1122,hir-e,wages
+189-1093,midd1317,http://concepticon.clld.org/parameters/1122,wages,wages
+189-523,midd1317,http://concepticon.clld.org/parameters/1122,pai-e,wages
+189-763,midd1317,http://concepticon.clld.org/parameters/733,ernen,earn
+189-277,midd1317,http://concepticon.clld.org/parameters/1869,bien,buy
+189-1301,midd1317,http://concepticon.clld.org/parameters/1571,sellen,sell
+189-1123,midd1317,http://concepticon.clld.org/parameters/2135,mongen,"trade, barter"
+189-975,midd1317,http://concepticon.clld.org/parameters/2135,marchaunden,"trade, barter"
+189-1358,midd1317,http://concepticon.clld.org/parameters/1082,marchaunt,merchant
+189-1448,midd1317,http://concepticon.clld.org/parameters/1082,chap-man,merchant
+189-521,midd1317,http://concepticon.clld.org/parameters/633,market,market (place)
+189-925,midd1317,http://concepticon.clld.org/parameters/752,shop-pe,"store, shop"
+189-238,midd1317,http://concepticon.clld.org/parameters/657,pris,price
+189-19,midd1317,http://concepticon.clld.org/parameters/657,worth,price
+189-11,midd1317,http://concepticon.clld.org/parameters/1426,dere,"dear (costly, expensive)"
+189-1070,midd1317,http://concepticon.clld.org/parameters/1887,god chep-e,cheap
+189-1000,midd1317,http://concepticon.clld.org/parameters/1887,undere,cheap
+189-1744,midd1317,http://concepticon.clld.org/parameters/884,sheren,share (distribute)
+189-1395,midd1317,http://concepticon.clld.org/parameters/1098,weien,weigh
+189-110,midd1317,http://concepticon.clld.org/parameters/1685,after,after
+189-1234,midd1317,http://concepticon.clld.org/parameters/723,behinde-n,behind
+189-1014,midd1317,http://concepticon.clld.org/parameters/1816,biside-s,beside
+189-162,midd1317,http://concepticon.clld.org/parameters/1326,doun,"down, below"
+189-305,midd1317,http://concepticon.clld.org/parameters/1326,bilooghe,"down, below"
+189-1474,midd1317,http://concepticon.clld.org/parameters/1882,bifore-n,before
+189-604,midd1317,http://concepticon.clld.org/parameters/1019,in the frount (of),front
+189-328,midd1317,http://concepticon.clld.org/parameters/1606,in,"inside, in"
+189-1661,midd1317,http://concepticon.clld.org/parameters/762,out-e,outside
+189-17,midd1317,http://concepticon.clld.org/parameters/1485,under,under
+189-219,midd1317,http://concepticon.clld.org/parameters/1591,above-n,"up, above"
+189-1406,midd1317,http://concepticon.clld.org/parameters/723,stede,place
+189-233,midd1317,http://concepticon.clld.org/parameters/723,place,place
+189-1599,midd1317,http://concepticon.clld.org/parameters/998,setten,put
+189-829,midd1317,http://concepticon.clld.org/parameters/998,putten,put
+189-1294,midd1317,http://concepticon.clld.org/parameters/998,leien,put
+189-973,midd1317,http://concepticon.clld.org/parameters/1416,sitten,sit
+189-587,midd1317,http://concepticon.clld.org/parameters/215,lien,lie down
+189-1518,midd1317,http://concepticon.clld.org/parameters/1442,stonden,stand
+189-50,midd1317,http://concepticon.clld.org/parameters/987,abiden,"remain, stay"
+189-433,midd1317,http://concepticon.clld.org/parameters/987,biden,"remain, stay"
+189-651,midd1317,http://concepticon.clld.org/parameters/987,remainen,"remain, stay"
+189-625,midd1317,http://concepticon.clld.org/parameters/987,waiten,"remain, stay"
+189-873,midd1317,http://concepticon.clld.org/parameters/838,leving-e,"remains, left overs"
+189-764,midd1317,http://concepticon.clld.org/parameters/838,remenaunt,"remains, left overs"
+189-1452,midd1317,http://concepticon.clld.org/parameters/7,gaderen,"collect, gather"
+189-1328,midd1317,http://concepticon.clld.org/parameters/7,samnen,"collect, gather"
+189-137,midd1317,http://concepticon.clld.org/parameters/371,piken up,pick up
+189-1314,midd1317,http://concepticon.clld.org/parameters/1576,pilen,pile up
+189-929,midd1317,http://concepticon.clld.org/parameters/1743,joinen,"join, unite"
+189-369,midd1317,http://concepticon.clld.org/parameters/1743,feien,"join, unite"
+189-1460,midd1317,http://concepticon.clld.org/parameters/1743,uniten,"join, unite"
+189-477,midd1317,http://concepticon.clld.org/parameters/1359,sheden,separate
+189-78,midd1317,http://concepticon.clld.org/parameters/1359,separaten,separate
+189-862,midd1317,http://concepticon.clld.org/parameters/1359,shillen,separate
+189-548,midd1317,http://concepticon.clld.org/parameters/1119,dividen,divide
+189-611,midd1317,http://concepticon.clld.org/parameters/1156,openen,open
+189-664,midd1317,http://concepticon.clld.org/parameters/1046,shitten,"shut, close"
+189-1631,midd1317,http://concepticon.clld.org/parameters/1046,closen,"shut, close"
+189-1652,midd1317,http://concepticon.clld.org/parameters/761,coveren,cover
+189-544,midd1317,http://concepticon.clld.org/parameters/602,hiden,"hide, conceal"
+189-199,midd1317,http://concepticon.clld.org/parameters/602,helen,"hide, conceal"
+189-1655,midd1317,http://concepticon.clld.org/parameters/1265,heigh,high
+189-184,midd1317,http://concepticon.clld.org/parameters/721,loue,low
+189-193,midd1317,http://concepticon.clld.org/parameters/1753,top,top
+189-1303,midd1317,http://concepticon.clld.org/parameters/690,botme,bottom
+189-683,midd1317,http://concepticon.clld.org/parameters/690,ground,bottom
+189-1638,midd1317,http://concepticon.clld.org/parameters/742,ende,end
+189-1608,midd1317,http://concepticon.clld.org/parameters/372,pointed,pointed
+189-1489,midd1317,http://concepticon.clld.org/parameters/863,eǧǧe,edge
+189-153,midd1317,http://concepticon.clld.org/parameters/682,side,side
+189-134,midd1317,http://concepticon.clld.org/parameters/1093,middel,"middle, center"
+189-1435,midd1317,http://concepticon.clld.org/parameters/1093,mid,"middle, center"
+189-368,midd1317,http://concepticon.clld.org/parameters/1019,right,right (side)
+189-658,midd1317,http://concepticon.clld.org/parameters/1019,swither-e,right (side)
+189-313,midd1317,http://concepticon.clld.org/parameters/244,lift,left (side)
+189-907,midd1317,http://concepticon.clld.org/parameters/1942,neigh,near (adv)
+189-786,midd1317,http://concepticon.clld.org/parameters/1942,ner-re,near (adv)
+189-1438,midd1317,http://concepticon.clld.org/parameters/1406,fer,far (adv)
+189-1728,midd1317,http://concepticon.clld.org/parameters/1877,est,east
+189-743,midd1317,http://concepticon.clld.org/parameters/1817,west,west
+189-1766,midd1317,http://concepticon.clld.org/parameters/1598,north,north
+189-1541,midd1317,http://concepticon.clld.org/parameters/1595,south,south
+189-978,midd1317,http://concepticon.clld.org/parameters/479,waxen,grow
+189-1148,midd1317,http://concepticon.clld.org/parameters/479,grouen,grow
+189-1482,midd1317,http://concepticon.clld.org/parameters/1506,meten,measure
+189-803,midd1317,http://concepticon.clld.org/parameters/1506,mesuren,measure
+189-391,midd1317,http://concepticon.clld.org/parameters/81,spanne,"span, fathom"
+189-484,midd1317,http://concepticon.clld.org/parameters/1202,muchel,"large, big"
+189-1116,midd1317,http://concepticon.clld.org/parameters/1202,gret,"large, big"
+189-1278,midd1317,http://concepticon.clld.org/parameters/1202,big,"large, big"
+189-926,midd1317,http://concepticon.clld.org/parameters/1246,litel,"small, little"
+189-969,midd1317,http://concepticon.clld.org/parameters/1246,smal,"small, little"
+189-1324,midd1317,http://concepticon.clld.org/parameters/1203,long,long
+189-1455,midd1317,http://concepticon.clld.org/parameters/711,tal,tall
+189-1029,midd1317,http://concepticon.clld.org/parameters/1645,short,short
+189-770,midd1317,http://concepticon.clld.org/parameters/1243,brod,"wide, broad"
+189-380,midd1317,http://concepticon.clld.org/parameters/1243,wid-e,"wide, broad"
+189-1258,midd1317,http://concepticon.clld.org/parameters/1267,narw-e,narrow
+189-1355,midd1317,http://concepticon.clld.org/parameters/1267,streit,narrow
+189-969,midd1317,http://concepticon.clld.org/parameters/1267,smal,narrow
+189-370,midd1317,http://concepticon.clld.org/parameters/1244,thik-ke,thick (in dimension)
+189-12,midd1317,http://concepticon.clld.org/parameters/1400,thin-ne,thin (in dimension)
+189-992,midd1317,http://concepticon.clld.org/parameters/1593,dep,deep
+189-986,midd1317,http://concepticon.clld.org/parameters/193,shold-e,shallow
+189-367,midd1317,http://concepticon.clld.org/parameters/193,shalou-e,shallow
+189-979,midd1317,http://concepticon.clld.org/parameters/1633,flat,flat
+189-792,midd1317,http://concepticon.clld.org/parameters/1633,plain-e,flat
+189-186,midd1317,http://concepticon.clld.org/parameters/1404,streight,straight
+189-368,midd1317,http://concepticon.clld.org/parameters/1404,right,straight
+189-13,midd1317,http://concepticon.clld.org/parameters/297,croked,crooked
+189-385,midd1317,http://concepticon.clld.org/parameters/297,wough,crooked
+189-101,midd1317,http://concepticon.clld.org/parameters/1071,hok,hook
+189-1401,midd1317,http://concepticon.clld.org/parameters/1071,crok,hook
+189-680,midd1317,http://concepticon.clld.org/parameters/192,corner,corner
+189-520,midd1317,http://concepticon.clld.org/parameters/192,hirn-e,corner
+189-1398,midd1317,http://concepticon.clld.org/parameters/1367,cros,cross
+189-1156,midd1317,http://concepticon.clld.org/parameters/1367,crois,cross
+189-778,midd1317,http://concepticon.clld.org/parameters/850,squar-e,square
+189-607,midd1317,http://concepticon.clld.org/parameters/850,four-hirned,square
+189-489,midd1317,http://concepticon.clld.org/parameters/1395,round-e,round
+189-848,midd1317,http://concepticon.clld.org/parameters/1467,cercle,circle
+189-1483,midd1317,http://concepticon.clld.org/parameters/1845,spere,"sphere, ball"
+189-260,midd1317,http://concepticon.clld.org/parameters/1845,bal,"sphere, ball"
+189-344,midd1317,http://concepticon.clld.org/parameters/1845,cleue,"sphere, ball"
+189-1334,midd1317,http://concepticon.clld.org/parameters/1048,line,line
+189-1192,midd1317,http://concepticon.clld.org/parameters/1667,hol-e,hole
+189-119,midd1317,http://concepticon.clld.org/parameters/1667,thirl,hole
+189-1132,midd1317,http://concepticon.clld.org/parameters/1558,lik,"like, similar"
+189-877,midd1317,http://concepticon.clld.org/parameters/1264,chaungen,change
+189-1096,midd1317,http://concepticon.clld.org/parameters/1294,cifre,"zero, nothing"
+189-835,midd1317,http://concepticon.clld.org/parameters/1515,on,one
+189-972,midd1317,http://concepticon.clld.org/parameters/1498,two,two
+189-1321,midd1317,http://concepticon.clld.org/parameters/1498,twein,two
+189-525,midd1317,http://concepticon.clld.org/parameters/492,thre,three
+189-32,midd1317,http://concepticon.clld.org/parameters/1500,four,four
+189-1717,midd1317,http://concepticon.clld.org/parameters/493,five,five
+189-1461,midd1317,http://concepticon.clld.org/parameters/1703,six,six
+189-322,midd1317,http://concepticon.clld.org/parameters/1704,seven,seven
+189-560,midd1317,http://concepticon.clld.org/parameters/1705,eighte,eight
+189-336,midd1317,http://concepticon.clld.org/parameters/1483,nin,nine
+189-935,midd1317,http://concepticon.clld.org/parameters/1515,ten,ten
+189-206,midd1317,http://concepticon.clld.org/parameters/1706,elleven,eleven
+189-820,midd1317,http://concepticon.clld.org/parameters/1707,twelve,twelve
+189-1088,midd1317,http://concepticon.clld.org/parameters/1709,fif-tene,fifteen
+189-1112,midd1317,http://concepticon.clld.org/parameters/1710,twenti,twenty
+189-1105,midd1317,http://concepticon.clld.org/parameters/1634,hundred,hundred
+189-893,midd1317,http://concepticon.clld.org/parameters/1843,thousand,thousand
+189-1480,midd1317,http://concepticon.clld.org/parameters/1420,counten,count
+189-24,midd1317,http://concepticon.clld.org/parameters/98,everi,"every, all"
+189-1522,midd1317,http://concepticon.clld.org/parameters/98,ech,"every, all"
+189-886,midd1317,http://concepticon.clld.org/parameters/98,al,"every, all"
+189-484,midd1317,http://concepticon.clld.org/parameters/1198,muchel,"much, many"
+189-734,midd1317,http://concepticon.clld.org/parameters/1198,mani,"much, many"
+189-447,midd1317,http://concepticon.clld.org/parameters/1198,fele,"much, many"
+189-85,midd1317,http://concepticon.clld.org/parameters/1992,mo,more
+189-1348,midd1317,http://concepticon.clld.org/parameters/1992,mor-e,more
+189-926,midd1317,http://concepticon.clld.org/parameters/1242,litel,"little (quantity), few"
+189-1371,midd1317,http://concepticon.clld.org/parameters/1242,feue,"little (quantity), few"
+189-185,midd1317,http://concepticon.clld.org/parameters/1881,inough,enough
+189-406,midd1317,http://concepticon.clld.org/parameters/1241,som,some
+189-948,midd1317,http://concepticon.clld.org/parameters/2023,multitude,"multitude, crowd"
+189-527,midd1317,http://concepticon.clld.org/parameters/2023,presse,"multitude, crowd"
+189-1750,midd1317,http://concepticon.clld.org/parameters/2023,throng,"multitude, crowd"
+189-1236,midd1317,http://concepticon.clld.org/parameters/1429,ful,full
+189-1218,midd1317,http://concepticon.clld.org/parameters/1624,empti,empty
+189-580,midd1317,http://concepticon.clld.org/parameters/1624,tom-e,empty
+189-1061,midd1317,http://concepticon.clld.org/parameters/1624,idel,empty
+189-309,midd1317,http://concepticon.clld.org/parameters/1624,ler-e,empty
+189-999,midd1317,http://concepticon.clld.org/parameters/779,del,"part, piece"
+189-1110,midd1317,http://concepticon.clld.org/parameters/779,part,"part, piece"
+189-1694,midd1317,http://concepticon.clld.org/parameters/816,half,half
+189-1690,midd1317,http://concepticon.clld.org/parameters/1580,al-on-e,"alone, only"
+189-502,midd1317,http://concepticon.clld.org/parameters/1580,onli,"alone, only"
+189-1769,midd1317,http://concepticon.clld.org/parameters/1580,but,"alone, only"
+189-627,midd1317,http://concepticon.clld.org/parameters/728,first,first
+189-40,midd1317,http://concepticon.clld.org/parameters/1529,last-e,last
+189-204,midd1317,http://concepticon.clld.org/parameters/1384,second,second
+189-1084,midd1317,http://concepticon.clld.org/parameters/1888,paire,pair
+189-507,midd1317,http://concepticon.clld.org/parameters/1546,twies,two times
+189-586,midd1317,http://concepticon.clld.org/parameters/1859,thrid,third
+189-311,midd1317,http://concepticon.clld.org/parameters/417,thrice,three times
+189-699,midd1317,http://concepticon.clld.org/parameters/417,thre sithes,three times
+189-1138,midd1317,http://concepticon.clld.org/parameters/417,thre times,three times
+189-455,midd1317,http://concepticon.clld.org/parameters/892,time,time
+189-1019,midd1317,http://concepticon.clld.org/parameters/892,tid-e,time
+189-1233,midd1317,http://concepticon.clld.org/parameters/892,while,time
+189-698,midd1317,http://concepticon.clld.org/parameters/892,stound-e,time
+189-1370,midd1317,http://concepticon.clld.org/parameters/1789,age,age
+189-1354,midd1317,http://concepticon.clld.org/parameters/1789,elde,age
+189-27,midd1317,http://concepticon.clld.org/parameters/1231,neue,new
+189-1543,midd1317,http://concepticon.clld.org/parameters/1207,yong,young
+189-1377,midd1317,http://concepticon.clld.org/parameters/1229,old-e,old
+189-1786,midd1317,http://concepticon.clld.org/parameters/672,er,early
+189-1445,midd1317,http://concepticon.clld.org/parameters/672,erli,early
+189-791,midd1317,http://concepticon.clld.org/parameters/477,lat-e,late
+189-592,midd1317,http://concepticon.clld.org/parameters/1376,nou,now
+189-923,midd1317,http://concepticon.clld.org/parameters/1963,sone,immediately
+189-146,midd1317,http://concepticon.clld.org/parameters/1631,swift-e,"swift, fast, quick"
+189-1700,midd1317,http://concepticon.clld.org/parameters/1631,rad-e,"swift, fast, quick"
+189-742,midd1317,http://concepticon.clld.org/parameters/1631,snel,"swift, fast, quick"
+189-696,midd1317,http://concepticon.clld.org/parameters/1631,spedi,"swift, fast, quick"
+189-685,midd1317,http://concepticon.clld.org/parameters/701,slou,slow
+189-791,midd1317,http://concepticon.clld.org/parameters/701,lat-e,slow
+189-1753,midd1317,http://concepticon.clld.org/parameters/754,hien,"hasten, hurry"
+189-261,midd1317,http://concepticon.clld.org/parameters/754,hasten,"hasten, hurry"
+189-482,midd1317,http://concepticon.clld.org/parameters/425,tarien,"retard, delay"
+189-603,midd1317,http://concepticon.clld.org/parameters/1806,aginnen,"begin, beginning"
+189-1514,midd1317,http://concepticon.clld.org/parameters/1806,beginnen,"begin, beginning"
+189-461,midd1317,http://concepticon.clld.org/parameters/1806,commencen,"begin, beginning"
+189-870,midd1317,http://concepticon.clld.org/parameters/1806,beginning-e,"begin, beginning"
+189-1801,midd1317,http://concepticon.clld.org/parameters/1806,commencement,"begin, beginning"
+189-1795,midd1317,http://concepticon.clld.org/parameters/1186,lasten,"last, endure"
+189-759,midd1317,http://concepticon.clld.org/parameters/1186,enduren,"last, endure"
+189-1709,midd1317,http://concepticon.clld.org/parameters/1186,duren,"last, endure"
+189-1638,midd1317,http://concepticon.clld.org/parameters/743,ende,end (temporal)
+189-423,midd1317,http://concepticon.clld.org/parameters/1766,ful-enden,finish
+189-575,midd1317,http://concepticon.clld.org/parameters/1766,enden,finish
+189-1663,midd1317,http://concepticon.clld.org/parameters/1766,finishen,finish
+189-317,midd1317,http://concepticon.clld.org/parameters/1766,ful-fremed,finish
+189-751,midd1317,http://concepticon.clld.org/parameters/1928,cesen,"cease, stop"
+189-1429,midd1317,http://concepticon.clld.org/parameters/790,redi,ready
+189-1535,midd1317,http://concepticon.clld.org/parameters/790,yare,ready
+189-54,midd1317,http://concepticon.clld.org/parameters/1676,ever,always
+189-1418,midd1317,http://concepticon.clld.org/parameters/1676,al-wei,always
+189-936,midd1317,http://concepticon.clld.org/parameters/1676,al-wei(e)s,always
+189-1179,midd1317,http://concepticon.clld.org/parameters/1852,oft-e,often
+189-1288,midd1317,http://concepticon.clld.org/parameters/1852,often,often
+189-1233,midd1317,http://concepticon.clld.org/parameters/1544,while,sometimes
+189-923,midd1317,http://concepticon.clld.org/parameters/703,sone,soon
+189-1628,midd1317,http://concepticon.clld.org/parameters/418,longe,long-time (for a)
+189-465,midd1317,http://concepticon.clld.org/parameters/418,long time,long-time (for a)
+189-1682,midd1317,http://concepticon.clld.org/parameters/1656,never,never
+189-1605,midd1317,http://concepticon.clld.org/parameters/204,ayen,again
+189-1494,midd1317,http://concepticon.clld.org/parameters/1260,dai,day
+189-365,midd1317,http://concepticon.clld.org/parameters/1233,night,night
+189-1575,midd1317,http://concepticon.clld.org/parameters/729,dauinge,dawn
+189-138,midd1317,http://concepticon.clld.org/parameters/729,dauninge,dawn
+189-73,midd1317,http://concepticon.clld.org/parameters/729,dai raue,dawn
+189-974,midd1317,http://concepticon.clld.org/parameters/1339,morn,morning
+189-1601,midd1317,http://concepticon.clld.org/parameters/1339,morning-e,morning
+189-98,midd1317,http://concepticon.clld.org/parameters/12,mid-dai,"noon, midday"
+189-990,midd1317,http://concepticon.clld.org/parameters/12,none,"noon, midday"
+189-299,midd1317,http://concepticon.clld.org/parameters/1807,after-non,afternoon
+189-576,midd1317,http://concepticon.clld.org/parameters/1629,eve-n,evening
+189-1052,midd1317,http://concepticon.clld.org/parameters/1629,evening,evening
+189-526,midd1317,http://concepticon.clld.org/parameters/1283,todai,today
+189-959,midd1317,http://concepticon.clld.org/parameters/1329,tomorn,tomorrow
+189-1598,midd1317,http://concepticon.clld.org/parameters/1329,tomorwe,tomorrow
+189-1261,midd1317,http://concepticon.clld.org/parameters/1174,yesterdai,yesterday
+189-949,midd1317,http://concepticon.clld.org/parameters/1353,houre,hour
+189-1019,midd1317,http://concepticon.clld.org/parameters/1353,tid-e,hour
+189-1511,midd1317,http://concepticon.clld.org/parameters/1323,clok-ke,"clock, timepiece"
+189-1756,midd1317,http://concepticon.clld.org/parameters/1323,orloge,"clock, timepiece"
+189-1547,midd1317,http://concepticon.clld.org/parameters/1469,weke,week
+189-491,midd1317,http://concepticon.clld.org/parameters/1699,Son-dai,Sunday
+189-1581,midd1317,http://concepticon.clld.org/parameters/1697,Mone-dai,Monday
+189-189,midd1317,http://concepticon.clld.org/parameters/1695,Tieus-dai,Tuesday
+189-79,midd1317,http://concepticon.clld.org/parameters/1694,Wednes-dai,Wednesday
+189-910,midd1317,http://concepticon.clld.org/parameters/1693,Thures-dai,Thursday
+189-1759,midd1317,http://concepticon.clld.org/parameters/1692,fri-dai,Friday
+189-1203,midd1317,http://concepticon.clld.org/parameters/1700,Sater-dai,Saturday
+189-908,midd1317,http://concepticon.clld.org/parameters/1370,month,month
+189-351,midd1317,http://concepticon.clld.org/parameters/1226,yer,year
+189-550,midd1317,http://concepticon.clld.org/parameters/1471,winter,winter
+189-133,midd1317,http://concepticon.clld.org/parameters/1537,lent-en,spring
+189-1264,midd1317,http://concepticon.clld.org/parameters/1342,somer,summer
+189-479,midd1317,http://concepticon.clld.org/parameters/1276,hervest,autumn
+189-1696,midd1317,http://concepticon.clld.org/parameters/1276,autumpne,autumn
+189-661,midd1317,http://concepticon.clld.org/parameters/691,sesoun,season
+189-286,midd1317,http://concepticon.clld.org/parameters/1587,smellen,smell (vb intrans)
+189-450,midd1317,http://concepticon.clld.org/parameters/375,sniffen,sniff
+189-286,midd1317,http://concepticon.clld.org/parameters/1586,smellen,smell (vb trans)
+189-1092,midd1317,http://concepticon.clld.org/parameters/42,stinkinge,"stinking, bad smelling"
+189-281,midd1317,http://concepticon.clld.org/parameters/21,smaken,taste
+189-652,midd1317,http://concepticon.clld.org/parameters/21,tasten,taste
+189-943,midd1317,http://concepticon.clld.org/parameters/717,swet-e,sweet
+189-838,midd1317,http://concepticon.clld.org/parameters/717,sot-e,sweet
+189-676,midd1317,http://concepticon.clld.org/parameters/1091,salt,salty
+189-195,midd1317,http://concepticon.clld.org/parameters/887,bitter,bitter
+189-537,midd1317,http://concepticon.clld.org/parameters/1906,sour,"acid, sour"
+189-251,midd1317,http://concepticon.clld.org/parameters/1906,egre,"acid, sour"
+189-676,midd1317,http://concepticon.clld.org/parameters/70,salt,brackish
+189-1006,midd1317,http://concepticon.clld.org/parameters/70,salti,brackish
+189-496,midd1317,http://concepticon.clld.org/parameters/1408,heren,hear
+189-1612,midd1317,http://concepticon.clld.org/parameters/1608,listenen,listen
+189-782,midd1317,http://concepticon.clld.org/parameters/1608,herken,listen
+189-536,midd1317,http://concepticon.clld.org/parameters/1811,soun,"sound, noise"
+189-1033,midd1317,http://concepticon.clld.org/parameters/377,loud,loud
+189-1315,midd1317,http://concepticon.clld.org/parameters/1314,silence,"quiet, silence"
+189-1188,midd1317,http://concepticon.clld.org/parameters/1409,sen,see
+189-1800,midd1317,http://concepticon.clld.org/parameters/1819,loken,"look, look at"
+189-442,midd1317,http://concepticon.clld.org/parameters/1039,sheuen,show
+189-432,midd1317,http://concepticon.clld.org/parameters/708,shinen,shine
+189-556,midd1317,http://concepticon.clld.org/parameters/708,lighten,shine
+189-679,midd1317,http://concepticon.clld.org/parameters/679,bright,bright
+189-1477,midd1317,http://concepticon.clld.org/parameters/679,light,bright
+189-1688,midd1317,http://concepticon.clld.org/parameters/1613,colour,color
+189-613,midd1317,http://concepticon.clld.org/parameters/1613,ble,color
+189-855,midd1317,http://concepticon.clld.org/parameters/1613,heu,color
+189-928,midd1317,http://concepticon.clld.org/parameters/250,pal-e,light (in color)
+189-8,midd1317,http://concepticon.clld.org/parameters/706,derk,dark (in color)
+189-1635,midd1317,http://concepticon.clld.org/parameters/706,wan-ne,dark (in color)
+189-1680,midd1317,http://concepticon.clld.org/parameters/706,dusk,dark (in color)
+189-160,midd1317,http://concepticon.clld.org/parameters/1335,whit,white
+189-768,midd1317,http://concepticon.clld.org/parameters/163,blak,black
+189-1098,midd1317,http://concepticon.clld.org/parameters/163,swart,black
+189-1520,midd1317,http://concepticon.clld.org/parameters/156,red,red
+189-264,midd1317,http://concepticon.clld.org/parameters/837,bleu,blue
+189-1246,midd1317,http://concepticon.clld.org/parameters/1425,grene,green
+189-158,midd1317,http://concepticon.clld.org/parameters/1424,yelwe,yellow
+189-244,midd1317,http://concepticon.clld.org/parameters/1892,touchen,touch
+189-20,midd1317,http://concepticon.clld.org/parameters/1892,rinen,touch
+189-1419,midd1317,http://concepticon.clld.org/parameters/1892,repen,touch
+189-392,midd1317,http://concepticon.clld.org/parameters/378,pinchen,pinch
+189-646,midd1317,http://concepticon.clld.org/parameters/1079,felen,feel
+189-652,midd1317,http://concepticon.clld.org/parameters/1079,tasten,feel
+189-1055,midd1317,http://concepticon.clld.org/parameters/1079,gropen,feel
+189-1064,midd1317,http://concepticon.clld.org/parameters/1884,hard,hard
+189-1340,midd1317,http://concepticon.clld.org/parameters/1856,soft-e,soft
+189-97,midd1317,http://concepticon.clld.org/parameters/1856,neshe,soft
+189-1539,midd1317,http://concepticon.clld.org/parameters/1923,rough-e,rough
+189-466,midd1317,http://concepticon.clld.org/parameters/1923,uneven,rough
+189-1319,midd1317,http://concepticon.clld.org/parameters/1234,smothe,smooth
+189-1458,midd1317,http://concepticon.clld.org/parameters/1234,smethe,smooth
+189-1740,midd1317,http://concepticon.clld.org/parameters/1234,slight,smooth
+189-1010,midd1317,http://concepticon.clld.org/parameters/1396,sharp,sharp
+189-1124,midd1317,http://concepticon.clld.org/parameters/379,blont,"blunt, dull"
+189-1216,midd1317,http://concepticon.clld.org/parameters/379,dul,"blunt, dull"
+189-1364,midd1317,http://concepticon.clld.org/parameters/1210,hevi,heavy
+189-1477,midd1317,http://concepticon.clld.org/parameters/1052,light,light (in weight)
+189-1705,midd1317,http://concepticon.clld.org/parameters/1726,wet,"wet, damp"
+189-1732,midd1317,http://concepticon.clld.org/parameters/1726,moist-e,"wet, damp"
+189-343,midd1317,http://concepticon.clld.org/parameters/1398,drie,dry
+189-853,midd1317,http://concepticon.clld.org/parameters/1398,ser-e,dry
+189-102,midd1317,http://concepticon.clld.org/parameters/1286,hot,hot
+189-452,midd1317,http://concepticon.clld.org/parameters/1232,warm,warm
+189-574,midd1317,http://concepticon.clld.org/parameters/1287,cold,cold
+189-789,midd1317,http://concepticon.clld.org/parameters/704,clene,clean
+189-1273,midd1317,http://concepticon.clld.org/parameters/1230,unclene,"dirty, soiled"
+189-6,midd1317,http://concepticon.clld.org/parameters/1230,foul,"dirty, soiled"
+189-555,midd1317,http://concepticon.clld.org/parameters/1230,hori-e,"dirty, soiled"
+189-559,midd1317,http://concepticon.clld.org/parameters/1230,filthi,"dirty, soiled"
+189-1313,midd1317,http://concepticon.clld.org/parameters/380,wrinkled,wrinkled
+189-77,midd1317,http://concepticon.clld.org/parameters/53,soul-e,"soul, spirit"
+189-755,midd1317,http://concepticon.clld.org/parameters/53,spirit,"soul, spirit"
+189-965,midd1317,http://concepticon.clld.org/parameters/53,gost,"soul, spirit"
+189-1342,midd1317,http://concepticon.clld.org/parameters/1572,wondred,"surprised, astonished"
+189-1281,midd1317,http://concepticon.clld.org/parameters/720,fortune,"good fortune, luck"
+189-359,midd1317,http://concepticon.clld.org/parameters/720,hap,"good fortune, luck"
+189-997,midd1317,http://concepticon.clld.org/parameters/56,mishap,"misfortune, bad luck"
+189-4,midd1317,http://concepticon.clld.org/parameters/56,mischaunce,"misfortune, bad luck"
+189-1009,midd1317,http://concepticon.clld.org/parameters/56,infortune,"misfortune, bad luck"
+189-988,midd1317,http://concepticon.clld.org/parameters/1495,glad,"joyful, glad, happy"
+189-273,midd1317,http://concepticon.clld.org/parameters/1495,fain,"joyful, glad, happy"
+189-1389,midd1317,http://concepticon.clld.org/parameters/1495,joiful,"joyful, glad, happy"
+189-221,midd1317,http://concepticon.clld.org/parameters/1355,laughen,laugh
+189-1366,midd1317,http://concepticon.clld.org/parameters/1451,smilen,smile
+189-1119,midd1317,http://concepticon.clld.org/parameters/1413,pleien,play
+189-117,midd1317,http://concepticon.clld.org/parameters/1413,spilen,play
+189-1711,midd1317,http://concepticon.clld.org/parameters/1413,leiken,play
+189-1565,midd1317,http://concepticon.clld.org/parameters/923,loven,love
+189-1666,midd1317,http://concepticon.clld.org/parameters/578,kissen,kiss
+189-1095,midd1317,http://concepticon.clld.org/parameters/928,embracen,embrace
+189-733,midd1317,http://concepticon.clld.org/parameters/1783,sor-e,pain
+189-236,midd1317,http://concepticon.clld.org/parameters/1783,peine,pain
+189-375,midd1317,http://concepticon.clld.org/parameters/1783,suffering-e,pain
+189-1256,midd1317,http://concepticon.clld.org/parameters/1783,smert-e,pain
+189-674,midd1317,http://concepticon.clld.org/parameters/1668,sorwe,"grief, sorrow, sadness"
+189-1122,midd1317,http://concepticon.clld.org/parameters/1668,gref,"grief, sorrow, sadness"
+189-1062,midd1317,http://concepticon.clld.org/parameters/1668,harm,"grief, sorrow, sadness"
+189-733,midd1317,http://concepticon.clld.org/parameters/1668,sor-e,"grief, sorrow, sadness"
+189-674,midd1317,http://concepticon.clld.org/parameters/1000,sorwe,"anxiety, worry"
+189-1245,midd1317,http://concepticon.clld.org/parameters/1875,reuen,"regret, be sorry"
+189-1568,midd1317,http://concepticon.clld.org/parameters/1875,repenten,"regret, be sorry"
+189-1693,midd1317,http://concepticon.clld.org/parameters/1875,ofthinken,"regret, be sorry"
+189-1028,midd1317,http://concepticon.clld.org/parameters/1141,pitẹ̄,pity
+189-788,midd1317,http://concepticon.clld.org/parameters/1141,mild-hertnes-se,pity
+189-1620,midd1317,http://concepticon.clld.org/parameters/1839,wepen,"cry, weep"
+189-1695,midd1317,http://concepticon.clld.org/parameters/1839,crien,"cry, weep"
+189-1285,midd1317,http://concepticon.clld.org/parameters/1839,greten,"cry, weep"
+189-1127,midd1317,http://concepticon.clld.org/parameters/1651,ter-e,tear (noun)
+189-1521,midd1317,http://concepticon.clld.org/parameters/716,gronen,groan
+189-437,midd1317,http://concepticon.clld.org/parameters/1607,hetien,hate
+189-1271,midd1317,http://concepticon.clld.org/parameters/1607,haten,hate
+189-655,midd1317,http://concepticon.clld.org/parameters/82,anger,anger
+189-569,midd1317,http://concepticon.clld.org/parameters/82,wratthe,anger
+189-283,midd1317,http://concepticon.clld.org/parameters/82,ire,anger
+189-804,midd1317,http://concepticon.clld.org/parameters/40,envie,"envy, jealousy"
+189-964,midd1317,http://concepticon.clld.org/parameters/40,jelousi-e,"envy, jealousy"
+189-174,midd1317,http://concepticon.clld.org/parameters/40,nith,"envy, jealousy"
+189-131,midd1317,http://concepticon.clld.org/parameters/40,evest,"envy, jealousy"
+189-428,midd1317,http://concepticon.clld.org/parameters/40,ond-e,"envy, jealousy"
+189-327,midd1317,http://concepticon.clld.org/parameters/1776,shame,shame (noun)
+189-1147,midd1317,http://concepticon.clld.org/parameters/174,over-modi,proud
+189-371,midd1317,http://concepticon.clld.org/parameters/174,overmod,proud
+189-671,midd1317,http://concepticon.clld.org/parameters/174,proud,proud
+189-1674,midd1317,http://concepticon.clld.org/parameters/1779,durren,dare
+189-390,midd1317,http://concepticon.clld.org/parameters/3,bold,brave
+189-609,midd1317,http://concepticon.clld.org/parameters/3,kene,brave
+189-1505,midd1317,http://concepticon.clld.org/parameters/3,modi,brave
+189-22,midd1317,http://concepticon.clld.org/parameters/3,corageous,brave
+189-1438,midd1317,http://concepticon.clld.org/parameters/781,fer,"fear, fright"
+189-760,midd1317,http://concepticon.clld.org/parameters/781,eie,"fear, fright"
+189-884,midd1317,http://concepticon.clld.org/parameters/781,fright,"fear, fright"
+189-203,midd1317,http://concepticon.clld.org/parameters/1810,peril,danger
+189-350,midd1317,http://concepticon.clld.org/parameters/1810,plight,danger
+189-1167,midd1317,http://concepticon.clld.org/parameters/1784,wilnen,"desire, want"
+189-1640,midd1317,http://concepticon.clld.org/parameters/1784,yernen,"desire, want"
+189-1413,midd1317,http://concepticon.clld.org/parameters/1784,desiren,"desire, want"
+189-48,midd1317,http://concepticon.clld.org/parameters/1750,chesen,choose
+189-1609,midd1317,http://concepticon.clld.org/parameters/1092,hope,hope
+189-434,midd1317,http://concepticon.clld.org/parameters/1092,won-e,hope
+189-1267,midd1317,http://concepticon.clld.org/parameters/1092,wen-e,hope
+189-258,midd1317,http://concepticon.clld.org/parameters/100,treu-e,faithful
+189-818,midd1317,http://concepticon.clld.org/parameters/100,feithful,faithful
+189-382,midd1317,http://concepticon.clld.org/parameters/1657,soth,true
+189-258,midd1317,http://concepticon.clld.org/parameters/1657,treu-e,true
+189-587,midd1317,http://concepticon.clld.org/parameters/601,lien,"lie, tell lies"
+189-346,midd1317,http://concepticon.clld.org/parameters/13,deceit-e,deceit
+189-1614,midd1317,http://concepticon.clld.org/parameters/13,swikedom-e,deceit
+189-874,midd1317,http://concepticon.clld.org/parameters/13,swik-e,deceit
+189-1723,midd1317,http://concepticon.clld.org/parameters/1528,foryeven,forgive
+189-168,midd1317,http://concepticon.clld.org/parameters/1035,god,good
+189-758,midd1317,http://concepticon.clld.org/parameters/1292,ivel,bad
+189-227,midd1317,http://concepticon.clld.org/parameters/1292,il-le,bad
+189-894,midd1317,http://concepticon.clld.org/parameters/1292,badde,bad
+189-368,midd1317,http://concepticon.clld.org/parameters/1725,right,"right, correct"
+189-112,midd1317,http://concepticon.clld.org/parameters/1390,wrong,wrong
+189-1308,midd1317,http://concepticon.clld.org/parameters/134,faute,fault
+189-1140,midd1317,http://concepticon.clld.org/parameters/134,gilt,fault
+189-451,midd1317,http://concepticon.clld.org/parameters/1293,errour,"mistake, error"
+189-1526,midd1317,http://concepticon.clld.org/parameters/1293,mistaking-e,"mistake, error"
+189-723,midd1317,http://concepticon.clld.org/parameters/381,blame,blame
+189-1467,midd1317,http://concepticon.clld.org/parameters/1687,preisen,praise
+189-1381,midd1317,http://concepticon.clld.org/parameters/1687,preis-e,praise
+189-1565,midd1317,http://concepticon.clld.org/parameters/1687,loven,praise
+189-856,midd1317,http://concepticon.clld.org/parameters/1687,lof,praise
+189-1487,midd1317,http://concepticon.clld.org/parameters/1687,herling-e,praise
+189-691,midd1317,http://concepticon.clld.org/parameters/1687,lauden,praise
+189-1793,midd1317,http://concepticon.clld.org/parameters/1687,laude,praise
+189-266,midd1317,http://concepticon.clld.org/parameters/1427,fair,beautiful
+189-1305,midd1317,http://concepticon.clld.org/parameters/1427,shene,beautiful
+189-26,midd1317,http://concepticon.clld.org/parameters/1548,ugli,ugly
+189-348,midd1317,http://concepticon.clld.org/parameters/1548,unfair,ugly
+189-6,midd1317,http://concepticon.clld.org/parameters/1548,foul,ugly
+189-1764,midd1317,http://concepticon.clld.org/parameters/2018,gredi,greedy
+189-1036,midd1317,http://concepticon.clld.org/parameters/1310,skilful,clever
+189-1345,midd1317,http://concepticon.clld.org/parameters/1310,queint-e,clever
+189-812,midd1317,http://concepticon.clld.org/parameters/1562,mod,mind
+189-748,midd1317,http://concepticon.clld.org/parameters/1562,mind-e,mind
+189-616,midd1317,http://concepticon.clld.org/parameters/1562,iwit,mind
+189-1427,midd1317,http://concepticon.clld.org/parameters/1562,wit,mind
+189-488,midd1317,http://concepticon.clld.org/parameters/1415,thinken,think (= reflect)
+189-84,midd1317,http://concepticon.clld.org/parameters/1513,wenen,think (= be of the opinion)
+189-488,midd1317,http://concepticon.clld.org/parameters/1513,thinken,think (= be of the opinion)
+189-1525,midd1317,http://concepticon.clld.org/parameters/1513,bileven,think (= be of the opinion)
+189-475,midd1317,http://concepticon.clld.org/parameters/1513,demen,think (= be of the opinion)
+189-1525,midd1317,http://concepticon.clld.org/parameters/1890,bileven,believe
+189-605,midd1317,http://concepticon.clld.org/parameters/1890,ileven,believe
+189-481,midd1317,http://concepticon.clld.org/parameters/1890,leven,believe
+189-1629,midd1317,http://concepticon.clld.org/parameters/1890,trouen,believe
+189-254,midd1317,http://concepticon.clld.org/parameters/1536,understonden,understand
+189-47,midd1317,http://concepticon.clld.org/parameters/1536,onʒiten,understand
+189-754,midd1317,http://concepticon.clld.org/parameters/1410,witen,know
+189-830,midd1317,http://concepticon.clld.org/parameters/1410,iknouen,know
+189-963,midd1317,http://concepticon.clld.org/parameters/1410,knouen,know
+189-135,midd1317,http://concepticon.clld.org/parameters/1410,connen,know
+189-819,midd1317,http://concepticon.clld.org/parameters/1410,kennen,know
+189-602,midd1317,http://concepticon.clld.org/parameters/1932,gessen,guess
+189-490,midd1317,http://concepticon.clld.org/parameters/117,imitacioun,imitate
+189-488,midd1317,http://concepticon.clld.org/parameters/1521,thinken,seem
+189-1516,midd1317,http://concepticon.clld.org/parameters/1521,semen,seem
+189-1059,midd1317,http://concepticon.clld.org/parameters/1609,nocioun,"idea, notion"
+189-1320,midd1317,http://concepticon.clld.org/parameters/698,wis-e,wise
+189-478,midd1317,http://concepticon.clld.org/parameters/1518,fol,"foolish, stupid"
+189-211,midd1317,http://concepticon.clld.org/parameters/1518,folish,"foolish, stupid"
+189-1216,midd1317,http://concepticon.clld.org/parameters/1518,dul,"foolish, stupid"
+189-622,midd1317,http://concepticon.clld.org/parameters/1518,dusi-e,"foolish, stupid"
+189-408,midd1317,http://concepticon.clld.org/parameters/1518,sot,"foolish, stupid"
+189-469,midd1317,http://concepticon.clld.org/parameters/1899,wod-e,"insane, crazy"
+189-562,midd1317,http://concepticon.clld.org/parameters/1899,mad,"insane, crazy"
+189-677,midd1317,http://concepticon.clld.org/parameters/504,lernen,learn
+189-1227,midd1317,http://concepticon.clld.org/parameters/1929,studien,study
+189-800,midd1317,http://concepticon.clld.org/parameters/709,techen,teach
+189-1504,midd1317,http://concepticon.clld.org/parameters/709,leren,teach
+189-677,midd1317,http://concepticon.clld.org/parameters/709,lernen,teach
+189-243,midd1317,http://concepticon.clld.org/parameters/753,scoler-e,pupil
+189-1716,midd1317,http://concepticon.clld.org/parameters/1038,techer-e,teacher
+189-1388,midd1317,http://concepticon.clld.org/parameters/1038,lor-theu,teacher
+189-1137,midd1317,http://concepticon.clld.org/parameters/1038,maister,teacher
+189-16,midd1317,http://concepticon.clld.org/parameters/673,scole,school
+189-794,midd1317,http://concepticon.clld.org/parameters/707,monen,remember
+189-927,midd1317,http://concepticon.clld.org/parameters/707,minden,remember
+189-1120,midd1317,http://concepticon.clld.org/parameters/707,remembren,remember
+189-159,midd1317,http://concepticon.clld.org/parameters/1523,foryeten,forget
+189-267,midd1317,http://concepticon.clld.org/parameters/989,cler,"clear, plain"
+189-630,midd1317,http://concepticon.clld.org/parameters/989,plein-e,"clear, plain"
+189-1193,midd1317,http://concepticon.clld.org/parameters/989,sotil,"clear, plain"
+189-8,midd1317,http://concepticon.clld.org/parameters/1764,derk,obscure
+189-937,midd1317,http://concepticon.clld.org/parameters/1764,mirk-e,obscure
+189-1532,midd1317,http://concepticon.clld.org/parameters/1764,obscure,obscure
+189-1275,midd1317,http://concepticon.clld.org/parameters/1121,secrē,secret
+189-1763,midd1317,http://concepticon.clld.org/parameters/1121,secret,secret
+189-854,midd1317,http://concepticon.clld.org/parameters/1121,derne,secret
+189-284,midd1317,http://concepticon.clld.org/parameters/1121,diʒel,secret
+189-617,midd1317,http://concepticon.clld.org/parameters/509,siker,"sure, certain"
+189-885,midd1317,http://concepticon.clld.org/parameters/509,certain,"sure, certain"
+189-660,midd1317,http://concepticon.clld.org/parameters/1626,recchen,explain
+189-1248,midd1317,http://concepticon.clld.org/parameters/1162,entencioun,"intention, purpose"
+189-1160,midd1317,http://concepticon.clld.org/parameters/1162,purpos,"intention, purpose"
+189-1587,midd1317,http://concepticon.clld.org/parameters/1162,mening-e,"intention, purpose"
+189-904,midd1317,http://concepticon.clld.org/parameters/860,causen,cause
+189-1509,midd1317,http://concepticon.clld.org/parameters/1308,douten,doubt
+189-1163,midd1317,http://concepticon.clld.org/parameters/1841,suspecioun,suspect
+189-495,midd1317,http://concepticon.clld.org/parameters/1841,suspect,suspect
+189-608,midd1317,http://concepticon.clld.org/parameters/1902,bitraien,betray
+189-657,midd1317,http://concepticon.clld.org/parameters/643,ned-e,"need, necessity"
+189-1738,midd1317,http://concepticon.clld.org/parameters/686,esi,easy
+189-1678,midd1317,http://concepticon.clld.org/parameters/584,difficult,difficult
+189-1022,midd1317,http://concepticon.clld.org/parameters/1812,trien,"try, attempt"
+189-1206,midd1317,http://concepticon.clld.org/parameters/488,wei,"way, manner"
+189-300,midd1317,http://concepticon.clld.org/parameters/1577,and,and
+189-787,midd1317,http://concepticon.clld.org/parameters/1157,bi cause,because
+189-1318,midd1317,http://concepticon.clld.org/parameters/1157,because,because
+189-330,midd1317,http://concepticon.clld.org/parameters/1459,if,if
+189-844,midd1317,http://concepticon.clld.org/parameters/1014,or,or
+189-197,midd1317,http://concepticon.clld.org/parameters/1268,yis,"yes, affirmative"
+189-436,midd1317,http://concepticon.clld.org/parameters/1269,no,"no, negative"
+189-103,midd1317,http://concepticon.clld.org/parameters/1239,hou,how?
+189-103,midd1317,http://concepticon.clld.org/parameters/822,hou,how many?
+189-103,midd1317,http://concepticon.clld.org/parameters/531,hou,how much?
+189-941,midd1317,http://concepticon.clld.org/parameters/1236,what,what?
+189-1312,midd1317,http://concepticon.clld.org/parameters/1238,whanne,when?
+189-795,midd1317,http://concepticon.clld.org/parameters/1237,wher,where?
+189-361,midd1317,http://concepticon.clld.org/parameters/727,which,which?
+189-388,midd1317,http://concepticon.clld.org/parameters/1235,who,who?
+189-1589,midd1317,http://concepticon.clld.org/parameters/1270,whi,why?
+189-320,midd1317,http://concepticon.clld.org/parameters/1363,voice,voice
+189-1265,midd1317,http://concepticon.clld.org/parameters/1363,steven-e,voice
+189-235,midd1317,http://concepticon.clld.org/parameters/1261,singen,sing
+189-1451,midd1317,http://concepticon.clld.org/parameters/1261,galen,sing
+189-595,midd1317,http://concepticon.clld.org/parameters/715,shouten,"shout, cry out"
+189-1468,midd1317,http://concepticon.clld.org/parameters/715,clepen,"shout, cry out"
+189-55,midd1317,http://concepticon.clld.org/parameters/715,remen,"shout, cry out"
+189-308,midd1317,http://concepticon.clld.org/parameters/715,ropen,"shout, cry out"
+189-717,midd1317,http://concepticon.clld.org/parameters/55,whisperen,whisper
+189-341,midd1317,http://concepticon.clld.org/parameters/128,momelen,mumble
+189-1751,midd1317,http://concepticon.clld.org/parameters/1025,whistlen,whistle
+189-707,midd1317,http://concepticon.clld.org/parameters/298,shriken,"shriek, screech"
+189-410,midd1317,http://concepticon.clld.org/parameters/526,houlen,howl
+189-337,midd1317,http://concepticon.clld.org/parameters/1623,speken,"speak, talk"
+189-1727,midd1317,http://concepticon.clld.org/parameters/1623,melen,"speak, talk"
+189-1102,midd1317,http://concepticon.clld.org/parameters/1623,talken,"speak, talk"
+189-172,midd1317,http://concepticon.clld.org/parameters/1623,talen,"speak, talk"
+189-982,midd1317,http://concepticon.clld.org/parameters/1866,stutten,"stutter, stammer"
+189-1737,midd1317,http://concepticon.clld.org/parameters/1458,seien,say
+189-1527,midd1317,http://concepticon.clld.org/parameters/1458,quethen,say
+189-1480,midd1317,http://concepticon.clld.org/parameters/1711,counten,tell story
+189-1671,midd1317,http://concepticon.clld.org/parameters/1711,tellen,tell story
+189-1298,midd1317,http://concepticon.clld.org/parameters/1115,pronouncen,speech (make a)
+189-1243,midd1317,http://concepticon.clld.org/parameters/48,swien,silent (be)
+189-1495,midd1317,http://concepticon.clld.org/parameters/1307,spech-e,language
+189-412,midd1317,http://concepticon.clld.org/parameters/1307,langage,language
+189-1578,midd1317,http://concepticon.clld.org/parameters/1307,tong-e,language
+189-83,midd1317,http://concepticon.clld.org/parameters/1599,word,word
+189-593,midd1317,http://concepticon.clld.org/parameters/1405,name,name
+189-297,midd1317,http://concepticon.clld.org/parameters/1309,asken,"ask (question, inquire)"
+189-1136,midd1317,http://concepticon.clld.org/parameters/1309,frainen,"ask (question, inquire)"
+189-474,midd1317,http://concepticon.clld.org/parameters/1275,answeren,answer
+189-1344,midd1317,http://concepticon.clld.org/parameters/1275,answerien,answer
+189-1280,midd1317,http://concepticon.clld.org/parameters/1275,andwurden,answer
+189-1040,midd1317,http://concepticon.clld.org/parameters/1275,replien,answer
+189-648,midd1317,http://concepticon.clld.org/parameters/2022,confessen,"admit, confess"
+189-1326,midd1317,http://concepticon.clld.org/parameters/2022,ben aknoue-n,"admit, confess"
+189-386,midd1317,http://concepticon.clld.org/parameters/755,denien,deny
+189-1322,midd1317,http://concepticon.clld.org/parameters/755,withseien,deny
+189-1585,midd1317,http://concepticon.clld.org/parameters/755,withsaken,deny
+189-201,midd1317,http://concepticon.clld.org/parameters/1828,bidden,"ask, request"
+189-297,midd1317,http://concepticon.clld.org/parameters/1828,asken,"ask, request"
+189-866,midd1317,http://concepticon.clld.org/parameters/1828,demaunden,"ask, request"
+189-1616,midd1317,http://concepticon.clld.org/parameters/1675,bihoten,promise
+189-1107,midd1317,http://concepticon.clld.org/parameters/1675,hoten,promise
+189-1306,midd1317,http://concepticon.clld.org/parameters/49,refusen,refuse
+189-1486,midd1317,http://concepticon.clld.org/parameters/83,forbeden,forbid
+189-1393,midd1317,http://concepticon.clld.org/parameters/299,rebuken,"rebuke, scold"
+189-1468,midd1317,http://concepticon.clld.org/parameters/1084,clepen,call (=summon)
+189-1346,midd1317,http://concepticon.clld.org/parameters/1084,callen,call (=summon)
+189-1107,midd1317,http://concepticon.clld.org/parameters/180,hoten,call (=name)
+189-1468,midd1317,http://concepticon.clld.org/parameters/180,clepen,call (=name)
+189-1453,midd1317,http://concepticon.clld.org/parameters/180,callen bi (to) name,call (=name)
+189-36,midd1317,http://concepticon.clld.org/parameters/9,kithen,announce
+189-1472,midd1317,http://concepticon.clld.org/parameters/9,beden,announce
+189-956,midd1317,http://concepticon.clld.org/parameters/9,boden,announce
+189-805,midd1317,http://concepticon.clld.org/parameters/1192,threten,threaten
+189-744,midd1317,http://concepticon.clld.org/parameters/1192,bosten,threaten
+189-681,midd1317,http://concepticon.clld.org/parameters/1192,manacen,threaten
+189-669,midd1317,http://concepticon.clld.org/parameters/101,yelpen,boast
+189-744,midd1317,http://concepticon.clld.org/parameters/101,bosten,boast
+189-1079,midd1317,http://concepticon.clld.org/parameters/101,braggen,boast
+189-1166,midd1317,http://concepticon.clld.org/parameters/1672,writen,write
+189-1142,midd1317,http://concepticon.clld.org/parameters/724,reden,read
+189-407,midd1317,http://concepticon.clld.org/parameters/648,papir-e,paper
+189-1783,midd1317,http://concepticon.clld.org/parameters/794,penne,pen
+189-510,midd1317,http://concepticon.clld.org/parameters/963,bok,book
+189-1176,midd1317,http://concepticon.clld.org/parameters/1045,poet-e,poet
+189-1225,midd1317,http://concepticon.clld.org/parameters/777,floute,flute
+189-598,midd1317,http://concepticon.clld.org/parameters/908,drom,drum
+189-1687,midd1317,http://concepticon.clld.org/parameters/908,timbre,drum
+189-42,midd1317,http://concepticon.clld.org/parameters/2136,horn,"horn, trumpet"
+189-1742,midd1317,http://concepticon.clld.org/parameters/2136,tromp-e,"horn, trumpet"
+189-993,midd1317,http://concepticon.clld.org/parameters/300,ratele,rattle
+189-1323,midd1317,http://concepticon.clld.org/parameters/1300,lond,country
+189-934,midd1317,http://concepticon.clld.org/parameters/1300,contrē-e,country
+189-934,midd1317,http://concepticon.clld.org/parameters/89,contrē-e,one's native country
+189-181,midd1317,http://concepticon.clld.org/parameters/1391,citē,"city, town"
+189-730,midd1317,http://concepticon.clld.org/parameters/1391,toun,"city, town"
+189-1020,midd1317,http://concepticon.clld.org/parameters/1391,burgh,"city, town"
+189-1211,midd1317,http://concepticon.clld.org/parameters/930,village,village
+189-730,midd1317,http://concepticon.clld.org/parameters/930,toun,village
+189-902,midd1317,http://concepticon.clld.org/parameters/930,thorp,village
+189-1269,midd1317,http://concepticon.clld.org/parameters/930,wik-e,village
+189-1760,midd1317,http://concepticon.clld.org/parameters/1010,mere,boundary
+189-687,midd1317,http://concepticon.clld.org/parameters/1010,mark-e,boundary
+189-703,midd1317,http://concepticon.clld.org/parameters/1010,bound-e,boundary
+189-207,midd1317,http://concepticon.clld.org/parameters/1010,frounter,boundary
+189-579,midd1317,http://concepticon.clld.org/parameters/1010,frountier,boundary
+189-1404,midd1317,http://concepticon.clld.org/parameters/789,folk,people (populace)
+189-1106,midd1317,http://concepticon.clld.org/parameters/789,peple,people (populace)
+189-1633,midd1317,http://concepticon.clld.org/parameters/789,led-e,people (populace)
+189-339,midd1317,http://concepticon.clld.org/parameters/302,kin,"tribe, clan"
+189-1008,midd1317,http://concepticon.clld.org/parameters/302,kinrede,"tribe, clan"
+189-845,midd1317,http://concepticon.clld.org/parameters/302,tribe,"tribe, clan"
+189-202,midd1317,http://concepticon.clld.org/parameters/301,chef,"chief, chieftain"
+189-1749,midd1317,http://concepticon.clld.org/parameters/1296,staf,"staff, walking stick"
+189-515,midd1317,http://concepticon.clld.org/parameters/1296,burdoun,"staff, walking stick"
+189-958,midd1317,http://concepticon.clld.org/parameters/1846,welden,"rule, govern"
+189-1237,midd1317,http://concepticon.clld.org/parameters/1846,reulen,"rule, govern"
+189-449,midd1317,http://concepticon.clld.org/parameters/1846,governen,"rule, govern"
+189-1169,midd1317,http://concepticon.clld.org/parameters/1508,king,"king, ruler"
+189-633,midd1317,http://concepticon.clld.org/parameters/1306,quen-e,queen
+189-777,midd1317,http://concepticon.clld.org/parameters/482,noble,"noble, nobleman"
+189-727,midd1317,http://concepticon.clld.org/parameters/1032,burgeis,"citizen, subject"
+189-1643,midd1317,http://concepticon.clld.org/parameters/1032,citisein,"citizen, subject"
+189-18,midd1317,http://concepticon.clld.org/parameters/383,lord,master
+189-1137,midd1317,http://concepticon.clld.org/parameters/383,maister,master
+189-614,midd1317,http://concepticon.clld.org/parameters/383,Drihten,master
+189-1407,midd1317,http://concepticon.clld.org/parameters/812,sclave,slave
+189-1604,midd1317,http://concepticon.clld.org/parameters/812,thral,slave
+189-918,midd1317,http://concepticon.clld.org/parameters/255,servaunt,servant
+189-1549,midd1317,http://concepticon.clld.org/parameters/255,thein,servant
+189-306,midd1317,http://concepticon.clld.org/parameters/384,fre,freeman
+189-1555,midd1317,http://concepticon.clld.org/parameters/384,fre-man,freeman
+189-290,midd1317,http://concepticon.clld.org/parameters/1128,commaunden,"command, order"
+189-1472,midd1317,http://concepticon.clld.org/parameters/1128,beden,"command, order"
+189-596,midd1317,http://concepticon.clld.org/parameters/1128,charǧen,"command, order"
+189-1107,midd1317,http://concepticon.clld.org/parameters/1128,hoten,"command, order"
+189-1501,midd1317,http://concepticon.clld.org/parameters/1635,obeien,obey
+189-1634,midd1317,http://concepticon.clld.org/parameters/1635,hersumen,obey
+189-481,midd1317,http://concepticon.clld.org/parameters/1003,leven,"let, permit"
+189-1041,midd1317,http://concepticon.clld.org/parameters/1003,leten,"let, permit"
+189-1534,midd1317,http://concepticon.clld.org/parameters/1325,frend,"friend, companion"
+189-1178,midd1317,http://concepticon.clld.org/parameters/1358,enemi,enemy
+189-501,midd1317,http://concepticon.clld.org/parameters/1358,fend,enemy
+189-1027,midd1317,http://concepticon.clld.org/parameters/1358,fo,enemy
+189-1242,midd1317,http://concepticon.clld.org/parameters/1332,neighebor,neighbor
+189-31,midd1317,http://concepticon.clld.org/parameters/791,straunger-e,stranger
+189-1596,midd1317,http://concepticon.clld.org/parameters/791,gest,stranger
+189-1596,midd1317,http://concepticon.clld.org/parameters/1782,gest,guest
+189-241,midd1317,http://concepticon.clld.org/parameters/1545,host-e,host
+189-1673,midd1317,http://concepticon.clld.org/parameters/1897,helpen,"help, aid"
+189-15,midd1317,http://concepticon.clld.org/parameters/1897,soucouren,"help, aid"
+189-1100,midd1317,http://concepticon.clld.org/parameters/1897,aiden,"help, aid"
+189-1017,midd1317,http://concepticon.clld.org/parameters/1550,letten,"hinder, prevent"
+189-1425,midd1317,http://concepticon.clld.org/parameters/1550,hindren,"hinder, prevent"
+189-828,midd1317,http://concepticon.clld.org/parameters/1747,custum-e,custom
+189-1706,midd1317,http://concepticon.clld.org/parameters/1747,usage,custom
+189-793,midd1317,http://concepticon.clld.org/parameters/1747,theu,custom
+189-718,midd1317,http://concepticon.clld.org/parameters/1848,strif-e,"strife, quarrel"
+189-218,midd1317,http://concepticon.clld.org/parameters/1848,chest,"strife, quarrel"
+189-522,midd1317,http://concepticon.clld.org/parameters/1848,sake,"strife, quarrel"
+189-1771,midd1317,http://concepticon.clld.org/parameters/1848,flit,"strife, quarrel"
+189-912,midd1317,http://concepticon.clld.org/parameters/2024,conjuracioun,"conspiracy, plot"
+189-1379,midd1317,http://concepticon.clld.org/parameters/2024,conspiracioun,"conspiracy, plot"
+189-1482,midd1317,http://concepticon.clld.org/parameters/1831,meten,meet
+189-242,midd1317,http://concepticon.clld.org/parameters/1610,hor-e,prostitute
+189-1757,midd1317,http://concepticon.clld.org/parameters/1610,strumpet,prostitute
+189-245,midd1317,http://concepticon.clld.org/parameters/1610,putain,prostitute
+189-1374,midd1317,http://concepticon.clld.org/parameters/1423,fighten,fight (vb)
+189-215,midd1317,http://concepticon.clld.org/parameters/1423,kempen,fight (vb)
+189-891,midd1317,http://concepticon.clld.org/parameters/579,wer-re,"war, battle"
+189-1300,midd1317,http://concepticon.clld.org/parameters/1338,pes,peace
+189-1226,midd1317,http://concepticon.clld.org/parameters/1338,frith,peace
+189-241,midd1317,http://concepticon.clld.org/parameters/1561,host-e,army
+189-59,midd1317,http://concepticon.clld.org/parameters/1561,here,army
+189-1675,midd1317,http://concepticon.clld.org/parameters/1561,ferd-e,army
+189-612,midd1317,http://concepticon.clld.org/parameters/1941,soudiour,soldier
+189-811,midd1317,http://concepticon.clld.org/parameters/1941,kemp-e,soldier
+189-304,midd1317,http://concepticon.clld.org/parameters/951,wepenes,"weapons, arms"
+189-966,midd1317,http://concepticon.clld.org/parameters/951,armes,"weapons, arms"
+189-220,midd1317,http://concepticon.clld.org/parameters/1763,club-be,club
+189-353,midd1317,http://concepticon.clld.org/parameters/1763,cuǧǧel,club
+189-590,midd1317,http://concepticon.clld.org/parameters/386,ax-e,battle-ax
+189-846,midd1317,http://concepticon.clld.org/parameters/386,axe of (for)werre,battle-ax
+189-1544,midd1317,http://concepticon.clld.org/parameters/387,sling-e,sling
+189-736,midd1317,http://concepticon.clld.org/parameters/994,boue,bow
+189-400,midd1317,http://concepticon.clld.org/parameters/977,arwe,arrow
+189-1360,midd1317,http://concepticon.clld.org/parameters/977,flon,arrow
+189-444,midd1317,http://concepticon.clld.org/parameters/977,strel-e,arrow
+189-1483,midd1317,http://concepticon.clld.org/parameters/945,spere,spear
+189-1080,midd1317,http://concepticon.clld.org/parameters/945,launce,spear
+189-553,midd1317,http://concepticon.clld.org/parameters/1535,sword,sword
+189-807,midd1317,http://concepticon.clld.org/parameters/1566,gonne,"gun, cannon"
+189-765,midd1317,http://concepticon.clld.org/parameters/1566,canon,"gun, cannon"
+189-798,midd1317,http://concepticon.clld.org/parameters/1061,armure,armor (defensive)
+189-364,midd1317,http://concepticon.clld.org/parameters/1061,harneis,armor (defensive)
+189-1044,midd1317,http://concepticon.clld.org/parameters/1680,helm,helmet
+189-771,midd1317,http://concepticon.clld.org/parameters/1680,helmet,helmet
+189-1556,midd1317,http://concepticon.clld.org/parameters/1064,sheld,shield
+189-618,midd1317,http://concepticon.clld.org/parameters/1938,forteress-e,fortress
+189-122,midd1317,http://concepticon.clld.org/parameters/1938,castel,fortress
+189-731,midd1317,http://concepticon.clld.org/parameters/1671,tour,tower
+189-190,midd1317,http://concepticon.clld.org/parameters/783,victori-e,victory
+189-960,midd1317,http://concepticon.clld.org/parameters/782,los,defeat
+189-430,midd1317,http://concepticon.clld.org/parameters/722,resen,attack
+189-1745,midd1317,http://concepticon.clld.org/parameters/722,as(s)auten,attack
+189-255,midd1317,http://concepticon.clld.org/parameters/722,saut,attack
+189-816,midd1317,http://concepticon.clld.org/parameters/1330,werren,defend
+189-620,midd1317,http://concepticon.clld.org/parameters/1330,defensen,defend
+189-639,midd1317,http://concepticon.clld.org/parameters/421,flighten,retreat
+189-875,midd1317,http://concepticon.clld.org/parameters/421,retreten,retreat
+189-615,midd1317,http://concepticon.clld.org/parameters/1696,yelden,surrender
+189-1239,midd1317,http://concepticon.clld.org/parameters/1072,captif,"captive, prisoner"
+189-1592,midd1317,http://concepticon.clld.org/parameters/1072,prisoner,"captive, prisoner"
+189-1223,midd1317,http://concepticon.clld.org/parameters/1940,gard-e,"guard, sentinel"
+189-1202,midd1317,http://concepticon.clld.org/parameters/1022,boti,"booty, spoils"
+189-179,midd1317,http://concepticon.clld.org/parameters/1022,spoiles,"booty, spoils"
+189-1330,midd1317,http://concepticon.clld.org/parameters/1022,prei-e,"booty, spoils"
+189-1411,midd1317,http://concepticon.clld.org/parameters/65,embushen,ambush
+189-1449,midd1317,http://concepticon.clld.org/parameters/1858,fisher-e,fisherman
+189-101,midd1317,http://concepticon.clld.org/parameters/1074,hok,fishhook
+189-53,midd1317,http://concepticon.clld.org/parameters/388,net,fishnet
+189-1380,midd1317,http://concepticon.clld.org/parameters/2013,bait,bait
+189-1054,midd1317,http://concepticon.clld.org/parameters/1435,hunten,hunt
+189-1069,midd1317,http://concepticon.clld.org/parameters/161,missen,miss (target)
+189-459,midd1317,http://concepticon.clld.org/parameters/1075,trappe,trap (noun)
+189-1108,midd1317,http://concepticon.clld.org/parameters/1170,trappen,trap (vb)
+189-368,midd1317,http://concepticon.clld.org/parameters/1062,right,law
+189-930,midd1317,http://concepticon.clld.org/parameters/1062,laue,law
+189-1012,midd1317,http://concepticon.clld.org/parameters/1068,court,court
+189-475,midd1317,http://concepticon.clld.org/parameters/1818,demen,judge (vb)
+189-1646,midd1317,http://concepticon.clld.org/parameters/1818,jugen,judge (vb)
+189-230,midd1317,http://concepticon.clld.org/parameters/1067,dom,judgment
+189-554,midd1317,http://concepticon.clld.org/parameters/1067,jugement,judgment
+189-123,midd1317,http://concepticon.clld.org/parameters/861,demere,judge (noun)
+189-635,midd1317,http://concepticon.clld.org/parameters/861,juge,judge (noun)
+189-1778,midd1317,http://concepticon.clld.org/parameters/2020,asker-e,plaintiff
+189-471,midd1317,http://concepticon.clld.org/parameters/2020,pleintif,plaintiff
+189-1626,midd1317,http://concepticon.clld.org/parameters/1034,defendaunt,defendant
+189-1311,midd1317,http://concepticon.clld.org/parameters/1144,witnes-se,witness
+189-970,midd1317,http://concepticon.clld.org/parameters/1939,sweren,swear
+189-882,midd1317,http://concepticon.clld.org/parameters/1712,oth,oath
+189-1375,midd1317,http://concepticon.clld.org/parameters/1814,ac(c)cusen,accuse
+189-10,midd1317,http://concepticon.clld.org/parameters/484,condempnen,condemn
+189-1224,midd1317,http://concepticon.clld.org/parameters/983,convicten,convict (vb)
+189-1144,midd1317,http://concepticon.clld.org/parameters/988,aquiten,acquit
+189-899,midd1317,http://concepticon.clld.org/parameters/988,assoilen,acquit
+189-626,midd1317,http://concepticon.clld.org/parameters/1682,gilti,guilty
+189-358,midd1317,http://concepticon.clld.org/parameters/90,innocent,innocent
+189-1001,midd1317,http://concepticon.clld.org/parameters/390,pein-e,"penalty, punishment"
+189-693,midd1317,http://concepticon.clld.org/parameters/390,punishement,"penalty, punishment"
+189-140,midd1317,http://concepticon.clld.org/parameters/218,fin,fine
+189-939,midd1317,http://concepticon.clld.org/parameters/1281,prisoun,"prison, jail"
+189-694,midd1317,http://concepticon.clld.org/parameters/1281,gaiol-e,"prison, jail"
+189-582,midd1317,http://concepticon.clld.org/parameters/845,morther,murder
+189-1317,midd1317,http://concepticon.clld.org/parameters/902,avoutri-e,adultery
+189-1457,midd1317,http://concepticon.clld.org/parameters/953,rape,rape
+189-82,midd1317,http://concepticon.clld.org/parameters/1889,bernet,arson
+189-1508,midd1317,http://concepticon.clld.org/parameters/1792,beren (speken) fals witnesse,perjury
+189-347,midd1317,http://concepticon.clld.org/parameters/1792,perjuri-e,perjury
+189-272,midd1317,http://concepticon.clld.org/parameters/713,stelen,steal
+189-145,midd1317,http://concepticon.clld.org/parameters/1160,thef,thief
+189-903,midd1317,http://concepticon.clld.org/parameters/661,religioun,religion
+189-1177,midd1317,http://concepticon.clld.org/parameters/661,feith,religion
+189-1125,midd1317,http://concepticon.clld.org/parameters/1944,God,God
+189-168,midd1317,http://concepticon.clld.org/parameters/1944,god,God
+189-1302,midd1317,http://concepticon.clld.org/parameters/911,temple,"temple, church"
+189-836,midd1317,http://concepticon.clld.org/parameters/853,auter,altar
+189-775,midd1317,http://concepticon.clld.org/parameters/853,weved,altar
+189-374,midd1317,http://concepticon.clld.org/parameters/1103,offring-e,"sacrifice, offering"
+189-558,midd1317,http://concepticon.clld.org/parameters/1103,sacrifice,"sacrifice, offering"
+189-1794,midd1317,http://concepticon.clld.org/parameters/257,worshipen,worship
+189-201,midd1317,http://concepticon.clld.org/parameters/24,bidden,pray
+189-1161,midd1317,http://concepticon.clld.org/parameters/24,preien,pray
+189-1721,midd1317,http://concepticon.clld.org/parameters/852,prest,priest
+189-81,midd1317,http://concepticon.clld.org/parameters/1702,holi,"holy, sacred"
+189-1018,midd1317,http://concepticon.clld.org/parameters/1702,sacred,"holy, sacred"
+189-1056,midd1317,http://concepticon.clld.org/parameters/304,prechen,preach
+189-847,midd1317,http://concepticon.clld.org/parameters/391,blessen,bless
+189-852,midd1317,http://concepticon.clld.org/parameters/8,cursen,curse
+189-456,midd1317,http://concepticon.clld.org/parameters/303,fasten,fast (vb)
+189-280,midd1317,http://concepticon.clld.org/parameters/1565,heven,heaven
+189-1373,midd1317,http://concepticon.clld.org/parameters/878,helle,hell
+189-1512,midd1317,http://concepticon.clld.org/parameters/1973,dē̌vel,demon (evil spirit)
+189-1240,midd1317,http://concepticon.clld.org/parameters/1973,demon,demon (evil spirit)
+189-1630,midd1317,http://concepticon.clld.org/parameters/1945,idol-e,idol
+189-115,midd1317,http://concepticon.clld.org/parameters/392,magik-e,"magic, witchcraft, sorcery"
+189-784,midd1317,http://concepticon.clld.org/parameters/392,wicchecraft,"magic, witchcraft, sorcery"
+189-779,midd1317,http://concepticon.clld.org/parameters/392,sorcerie,"magic, witchcraft, sorcery"
+189-843,midd1317,http://concepticon.clld.org/parameters/2137,wicch-e,"sorcerer, witch"
+189-3,midd1317,http://concepticon.clld.org/parameters/2137,hagge,"sorcerer, witch"
+189-1414,midd1317,http://concepticon.clld.org/parameters/2137,sorceresse,"sorcerer, witch"
+189-355,midd1317,http://concepticon.clld.org/parameters/2138,elf,"fairy, elf"
+189-269,midd1317,http://concepticon.clld.org/parameters/2138,faie,"fairy, elf"
+189-89,midd1317,http://concepticon.clld.org/parameters/2138,fairie,"fairy, elf"
+189-965,midd1317,http://concepticon.clld.org/parameters/1175,gost,"ghost, phantom"
+189-668,midd1317,http://concepticon.clld.org/parameters/1175,fantom,"ghost, phantom"
+189-1454,midd1317,http://concepticon.clld.org/parameters/1175,fantum,"ghost, phantom"
+189-1713,midd1317,http://concepticon.clld.org/parameters/1175,fantem,"ghost, phantom"
+189-1060,midd1317,http://concepticon.clld.org/parameters/107,token,"omen, portent"

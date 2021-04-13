@@ -1,0 +1,900 @@
+ID,Language_ID,Feature_ID,Value,Concept
+265-129,trin1274,http://concepticon.clld.org/parameters/965,ʔpoɣʔe,world
+265-129,trin1274,http://concepticon.clld.org/parameters/626,ʔpoɣʔe,"earth, land"
+265-14,trin1274,http://concepticon.clld.org/parameters/1228,'motehi,"earth=ground, soil"
+265-14,trin1274,http://concepticon.clld.org/parameters/2,'motehi,dust
+265-231,trin1274,http://concepticon.clld.org/parameters/640,'tʸurahi,mud
+265-611,trin1274,http://concepticon.clld.org/parameters/671,ta'woparu,sand
+265-345,trin1274,http://concepticon.clld.org/parameters/2118,ʔnuɣʔe mari,"mountain, hill"
+265-760,trin1274,http://concepticon.clld.org/parameters/618,tačusi,"cliff, precipice"
+265-426,trin1274,http://concepticon.clld.org/parameters/652,womʔi,"plain, field"
+265-437,trin1274,http://concepticon.clld.org/parameters/622,tʸuupuʔi,island
+265-193,trin1274,http://concepticon.clld.org/parameters/113,ta'čočoku,shore
+265-464,trin1274,http://concepticon.clld.org/parameters/1155,-peno,cave
+265-506,trin1274,http://concepticon.clld.org/parameters/948,une,water
+265-257,trin1274,http://concepticon.clld.org/parameters/948,-'une-ra,water
+265-629,trin1274,http://concepticon.clld.org/parameters/258,tmotnaʔi,calm (of sea)
+265-824,trin1274,http://concepticon.clld.org/parameters/1768,tarissohi,foam
+265-160,trin1274,http://concepticon.clld.org/parameters/624,koɣure,lake
+265-160,trin1274,http://concepticon.clld.org/parameters/623,koɣure,lagoon
+265-312,trin1274,http://concepticon.clld.org/parameters/978,tapkuuʔo,wave
+265-96,trin1274,http://concepticon.clld.org/parameters/666,khokre,"river, stream, brook"
+265-296,trin1274,http://concepticon.clld.org/parameters/1982,roʔera,whirlpool
+265-832,trin1274,http://concepticon.clld.org/parameters/2144,skoku,"spring, well"
+265-336,trin1274,http://concepticon.clld.org/parameters/1145,y'momohi,swamp
+265-307,trin1274,http://concepticon.clld.org/parameters/420,smeno,"woods, forest"
+265-209,trin1274,http://concepticon.clld.org/parameters/906,wkuɣi,tree (cf 08.600)
+265-278,trin1274,http://concepticon.clld.org/parameters/906,ykuɣi,tree (cf 08.600)
+265-209,trin1274,http://concepticon.clld.org/parameters/1803,wkuɣi,wood
+265-278,trin1274,http://concepticon.clld.org/parameters/1803,ykuɣi,wood
+265-531,trin1274,http://concepticon.clld.org/parameters/2125,mari,"stone, rock"
+265-118,trin1274,http://concepticon.clld.org/parameters/2125,mari-haʔi,"stone, rock"
+265-208,trin1274,http://concepticon.clld.org/parameters/6,-yamriko ʔpoɣʔe,earthquake
+265-698,trin1274,http://concepticon.clld.org/parameters/1732,anumo,sky
+265-722,trin1274,http://concepticon.clld.org/parameters/1343,sače,sun
+265-564,trin1274,http://concepticon.clld.org/parameters/1313,kohe,moon
+265-474,trin1274,http://concepticon.clld.org/parameters/1430,hreeɣi,star
+265-79,trin1274,http://concepticon.clld.org/parameters/1654,emareko,lightning
+265-669,trin1274,http://concepticon.clld.org/parameters/1150,-čunnuko,thunder
+265-749,trin1274,http://concepticon.clld.org/parameters/2007,-ec̷'čarako,lightning (as striking)
+265-501,trin1274,http://concepticon.clld.org/parameters/1733,oʔe,rainbow
+265-385,trin1274,http://concepticon.clld.org/parameters/630,-meča,light (noun)
+265-549,trin1274,http://concepticon.clld.org/parameters/630,-mikʔu,light (noun)
+265-571,trin1274,http://concepticon.clld.org/parameters/11,-mopku,darkness
+265-514,trin1274,http://concepticon.clld.org/parameters/11,ta'mopkuwo,darkness
+265-544,trin1274,http://concepticon.clld.org/parameters/1388,tkawi,"shade, shadow"
+265-342,trin1274,http://concepticon.clld.org/parameters/1977,ʔyoru,dew
+265-188,trin1274,http://concepticon.clld.org/parameters/960,tektikwo,wind
+265-372,trin1274,http://concepticon.clld.org/parameters/1489,'ukohi,cloud
+265-342,trin1274,http://concepticon.clld.org/parameters/249,ʔyoru,fog
+265-486,trin1274,http://concepticon.clld.org/parameters/658,tɣiwo,rain (noun)
+265-778,trin1274,http://concepticon.clld.org/parameters/221,yuku,fire
+265-434,trin1274,http://concepticon.clld.org/parameters/221,-yukne,fire
+265-543,trin1274,http://concepticon.clld.org/parameters/889,-nene-yuku,flame (noun)
+265-113,trin1274,http://concepticon.clld.org/parameters/778,'ɣhorepa,smoke (noun)
+265-495,trin1274,http://concepticon.clld.org/parameters/778,'ɣhore,smoke (noun)
+265-643,trin1274,http://concepticon.clld.org/parameters/646,c̷mapa,ashes
+265-483,trin1274,http://concepticon.clld.org/parameters/67,tamoni,embers
+265-561,trin1274,http://concepticon.clld.org/parameters/141,-niko,burn (vb trans)
+265-627,trin1274,http://concepticon.clld.org/parameters/141,-yustako,burn (vb trans)
+265-23,trin1274,http://concepticon.clld.org/parameters/1428,-riiko,burn (vb intrans)
+265-219,trin1274,http://concepticon.clld.org/parameters/737,-pohko,"light, kindle, ignite"
+265-436,trin1274,http://concepticon.clld.org/parameters/127,emʔo,extinguish
+265-377,trin1274,http://concepticon.clld.org/parameters/127,-kemʔo,extinguish
+265-77,trin1274,http://concepticon.clld.org/parameters/1133,[pahwera],match (noun)
+265-70,trin1274,http://concepticon.clld.org/parameters/10,tohɣeru,firewood
+265-674,trin1274,http://concepticon.clld.org/parameters/1188,monɣi,charcoal
+265-751,trin1274,http://concepticon.clld.org/parameters/683,ʔčane,"person, human being"
+265-673,trin1274,http://concepticon.clld.org/parameters/1554,oʔʸono,man (vs. woman)
+265-692,trin1274,http://concepticon.clld.org/parameters/962,ʔseno,woman
+265-740,trin1274,http://concepticon.clld.org/parameters/2263,ʔhiro,male
+265-66,trin1274,http://concepticon.clld.org/parameters/76,'ʔretona,young man (adolescent)
+265-161,trin1274,http://concepticon.clld.org/parameters/77,ʔčeno,young woman (adolescent)
+265-136,trin1274,http://concepticon.clld.org/parameters/1304,ʔmoyo,child
+265-505,trin1274,http://concepticon.clld.org/parameters/1304,'ʔmoperu,child
+265-136,trin1274,http://concepticon.clld.org/parameters/1289,ʔmoyo,"infant, baby"
+265-52,trin1274,http://concepticon.clld.org/parameters/1200,-ima,husband
+265-265,trin1274,http://concepticon.clld.org/parameters/1199,-yeno,wife
+265-460,trin1274,http://concepticon.clld.org/parameters/203,itučwo,marry
+265-311,trin1274,http://concepticon.clld.org/parameters/1217,tata,father
+265-833,trin1274,http://concepticon.clld.org/parameters/1216,-eno,mother
+265-317,trin1274,http://concepticon.clld.org/parameters/1216,meme,mother
+265-425,trin1274,http://concepticon.clld.org/parameters/1620,-čiča,son
+265-425,trin1274,http://concepticon.clld.org/parameters/1357,-čiča,daughter
+265-667,trin1274,http://concepticon.clld.org/parameters/1262,-ati,brother
+265-662,trin1274,http://concepticon.clld.org/parameters/1759,-'porape,older brother
+265-16,trin1274,http://concepticon.clld.org/parameters/1759,'ečowi,older brother
+265-287,trin1274,http://concepticon.clld.org/parameters/1760,ati,younger brother
+265-667,trin1274,http://concepticon.clld.org/parameters/1263,-ati,sister
+265-662,trin1274,http://concepticon.clld.org/parameters/1758,-'porape,older sister
+265-16,trin1274,http://concepticon.clld.org/parameters/1758,'ečowi,older sister
+265-287,trin1274,http://concepticon.clld.org/parameters/1761,ati,younger sister
+265-128,trin1274,http://concepticon.clld.org/parameters/1005,čoho,twins
+265-462,trin1274,http://concepticon.clld.org/parameters/1383,-očko,grandfather
+265-570,trin1274,http://concepticon.clld.org/parameters/1496,-oc̷e,grandmother
+265-717,trin1274,http://concepticon.clld.org/parameters/1618,-amri,grandson
+265-717,trin1274,http://concepticon.clld.org/parameters/1619,-amri,granddaughter
+265-653,trin1274,http://concepticon.clld.org/parameters/1327,-apʸaru,uncle
+265-123,trin1274,http://concepticon.clld.org/parameters/1272,-apenru,aunt
+265-595,trin1274,http://concepticon.clld.org/parameters/1063,-čera,nephew
+265-351,trin1274,http://concepticon.clld.org/parameters/1642,-čehi,niece
+265-764,trin1274,http://concepticon.clld.org/parameters/2255,imčuko,father-in-law (of a man)
+265-415,trin1274,http://concepticon.clld.org/parameters/2256,imse,mother-in-law (of a man)
+265-731,trin1274,http://concepticon.clld.org/parameters/2267,-čina,son-in-law (of a man)
+265-716,trin1274,http://concepticon.clld.org/parameters/2267,čnare,son-in-law (of a man)
+265-9,trin1274,http://concepticon.clld.org/parameters/2265,-'čineno,daughter-in-law (of a man)
+265-67,trin1274,http://concepticon.clld.org/parameters/237,tata-raʔo,stepfather
+265-235,trin1274,http://concepticon.clld.org/parameters/236,meme-reʔo,stepmother
+265-779,trin1274,http://concepticon.clld.org/parameters/1149,wača,orphan
+265-126,trin1274,http://concepticon.clld.org/parameters/1756,-emuimarahi semuinarahi,widow
+265-755,trin1274,http://concepticon.clld.org/parameters/1981,muemyenorohi,widower
+265-21,trin1274,http://concepticon.clld.org/parameters/1644,-haɲono,"relatives, kinsmen"
+265-21,trin1274,http://concepticon.clld.org/parameters/194,-haɲono,family
+265-829,trin1274,http://concepticon.clld.org/parameters/1209,n-,I
+265-562,trin1274,http://concepticon.clld.org/parameters/1215,p-,you (singular)
+265-153,trin1274,http://concepticon.clld.org/parameters/1215,pʸ-,you (singular)
+265-806,trin1274,http://concepticon.clld.org/parameters/262,ma- ~ mue-,he/she/it
+265-441,trin1274,http://concepticon.clld.org/parameters/262,ema,he/she/it
+265-773,trin1274,http://concepticon.clld.org/parameters/262,enʸi,he/she/it
+265-395,trin1274,http://concepticon.clld.org/parameters/1212,w- ~ wʸ-,we
+265-709,trin1274,http://concepticon.clld.org/parameters/1213,(zero),you (plural)
+265-108,trin1274,http://concepticon.clld.org/parameters/1213,ʔʸ-,you (plural)
+265-831,trin1274,http://concepticon.clld.org/parameters/817,na-,they
+265-813,trin1274,http://concepticon.clld.org/parameters/817,nae-,they
+265-739,trin1274,http://concepticon.clld.org/parameters/619,'sorare,animal
+265-346,trin1274,http://concepticon.clld.org/parameters/1169,[wiye],ox
+265-13,trin1274,http://concepticon.clld.org/parameters/1007,[waka],cow
+265-793,trin1274,http://concepticon.clld.org/parameters/1331,[ʔwesa],sheep
+265-65,trin1274,http://concepticon.clld.org/parameters/1337,smoru,pig
+265-812,trin1274,http://concepticon.clld.org/parameters/615,[kwoyu],horse (equine)
+265-604,trin1274,http://concepticon.clld.org/parameters/1511,ʔhiiʔi,"cock, rooster"
+265-400,trin1274,http://concepticon.clld.org/parameters/1514,wrayu,hen
+265-400,trin1274,http://concepticon.clld.org/parameters/1318,wrayu,chicken
+265-68,trin1274,http://concepticon.clld.org/parameters/1360,ʔpohi,duck
+265-114,trin1274,http://concepticon.clld.org/parameters/539,tamoko,nest
+265-754,trin1274,http://concepticon.clld.org/parameters/539,ta'mokohi,nest
+265-526,trin1274,http://concepticon.clld.org/parameters/937,koyre,bird
+265-450,trin1274,http://concepticon.clld.org/parameters/950,c̷weʔi,seagull
+265-352,trin1274,http://concepticon.clld.org/parameters/758,c̷nʸuuno,heron
+265-315,trin1274,http://concepticon.clld.org/parameters/1905,čopo,eagle
+265-451,trin1274,http://concepticon.clld.org/parameters/1905,pripri,eagle
+265-768,trin1274,http://concepticon.clld.org/parameters/1793,wite,bat
+265-804,trin1274,http://concepticon.clld.org/parameters/882,čora,parrot
+265-139,trin1274,http://concepticon.clld.org/parameters/882,woru,parrot
+265-490,trin1274,http://concepticon.clld.org/parameters/1853,siwi,dove
+265-772,trin1274,http://concepticon.clld.org/parameters/2009,paku,dog
+265-613,trin1274,http://concepticon.clld.org/parameters/1136,myuko,rabbit
+265-765,trin1274,http://concepticon.clld.org/parameters/1208,mic̷i,cat
+265-705,trin1274,http://concepticon.clld.org/parameters/2139,koc̷o,"mouse, rat"
+265-25,trin1274,http://concepticon.clld.org/parameters/2139,ʔc̷aru,"mouse, rat"
+265-86,trin1274,http://concepticon.clld.org/parameters/227,himo,fish
+265-31,trin1274,http://concepticon.clld.org/parameters/1013,'ʔtirepi,freshwater eel
+265-233,trin1274,http://concepticon.clld.org/parameters/1386,tʸore,lion
+265-106,trin1274,http://concepticon.clld.org/parameters/1312,čuye,fox
+265-560,trin1274,http://concepticon.clld.org/parameters/1936,ropo,deer
+265-173,trin1274,http://concepticon.clld.org/parameters/1936,khowo,deer
+265-550,trin1274,http://concepticon.clld.org/parameters/1350,iyo,monkey
+265-834,trin1274,http://concepticon.clld.org/parameters/310,inʸe,louse
+265-401,trin1274,http://concepticon.clld.org/parameters/232,'stukaya,flea
+265-349,trin1274,http://concepticon.clld.org/parameters/1974,'tnʸosopi,centipede
+265-403,trin1274,http://concepticon.clld.org/parameters/1538,sose'čreɣi,scorpion
+265-220,trin1274,http://concepticon.clld.org/parameters/1575,poymo,cockroach
+265-489,trin1274,http://concepticon.clld.org/parameters/587,kčiru,ant
+265-175,trin1274,http://concepticon.clld.org/parameters/843,mtono,spider
+265-54,trin1274,http://concepticon.clld.org/parameters/665,'moposi,bee
+265-201,trin1274,http://concepticon.clld.org/parameters/1931,mophui,beeswax
+265-603,trin1274,http://concepticon.clld.org/parameters/88,hanemoko,beehive
+265-594,trin1274,http://concepticon.clld.org/parameters/1517,hane,wasp
+265-702,trin1274,http://concepticon.clld.org/parameters/1504,ʔčuwe,fly
+265-542,trin1274,http://concepticon.clld.org/parameters/95,'wayosi,"sandfly (midge), gnat"
+265-753,trin1274,http://concepticon.clld.org/parameters/95,pac̷iisi,"sandfly (midge), gnat"
+265-17,trin1274,http://concepticon.clld.org/parameters/1509,ʔnʸiʔu,mosquito
+265-572,trin1274,http://concepticon.clld.org/parameters/1219,ɣ'ɣorepi,worm
+265-580,trin1274,http://concepticon.clld.org/parameters/1219,-kane,worm
+265-736,trin1274,http://concepticon.clld.org/parameters/730,ɣɣore,snake
+265-576,trin1274,http://concepticon.clld.org/parameters/730,činʸompi,snake
+265-661,trin1274,http://concepticon.clld.org/parameters/206,ʔriɣnʸo,firefly
+265-121,trin1274,http://concepticon.clld.org/parameters/503,uupe,frog
+265-41,trin1274,http://concepticon.clld.org/parameters/632,khʸure,lizard
+265-348,trin1274,http://concepticon.clld.org/parameters/1857,me'romero,"crocodile, alligator"
+265-456,trin1274,http://concepticon.clld.org/parameters/112,sipu,turtle
+265-236,trin1274,http://concepticon.clld.org/parameters/112,trakayasi,turtle
+265-162,trin1274,http://concepticon.clld.org/parameters/1480,-oɣʔe,body
+265-339,trin1274,http://concepticon.clld.org/parameters/763,-ummo,"skin, hide"
+265-682,trin1274,http://concepticon.clld.org/parameters/2259,eče,flesh
+265-559,trin1274,http://concepticon.clld.org/parameters/1040,-čutmoko,hair (head)
+265-684,trin1274,http://concepticon.clld.org/parameters/1040,čtimkore,hair (head)
+265-748,trin1274,http://concepticon.clld.org/parameters/678,-hii-mama,beard
+265-675,trin1274,http://concepticon.clld.org/parameters/189,-'hiyoʔo,body hair
+265-281,trin1274,http://concepticon.clld.org/parameters/946,-itne,blood
+265-205,trin1274,http://concepticon.clld.org/parameters/946,iti,blood
+265-718,trin1274,http://concepticon.clld.org/parameters/525,it'nerepi,"vein, artery"
+265-302,trin1274,http://concepticon.clld.org/parameters/1394,'ʔʸopeɣe,bone
+265-99,trin1274,http://concepticon.clld.org/parameters/801,-hii'monepa,rib
+265-799,trin1274,http://concepticon.clld.org/parameters/1393,-hiʔu,horn
+265-284,trin1274,http://concepticon.clld.org/parameters/1220,-ihɣi,tail
+265-537,trin1274,http://concepticon.clld.org/parameters/1291,-muiɣʔe,back
+265-825,trin1274,http://concepticon.clld.org/parameters/1291,-ɣeku,back
+265-435,trin1274,http://concepticon.clld.org/parameters/805,-mic̷ɣiiɣi,spine
+265-559,trin1274,http://concepticon.clld.org/parameters/1256,-čutmoko,head
+265-74,trin1274,http://concepticon.clld.org/parameters/1256,-čuti,head
+265-691,trin1274,http://concepticon.clld.org/parameters/1605,čtire,skull
+265-174,trin1274,http://concepticon.clld.org/parameters/1583,-'kuyahi,brain
+265-581,trin1274,http://concepticon.clld.org/parameters/1583,-kuyarahi,brain
+265-375,trin1274,http://concepticon.clld.org/parameters/1560,-miro,face
+265-170,trin1274,http://concepticon.clld.org/parameters/1560,hmiro,face
+265-816,trin1274,http://concepticon.clld.org/parameters/123,-noʔu,forehead
+265-485,trin1274,http://concepticon.clld.org/parameters/798,-pani,jaw
+265-579,trin1274,http://concepticon.clld.org/parameters/1730,-puku,cheek
+265-221,trin1274,http://concepticon.clld.org/parameters/1510,-mama,chin
+265-143,trin1274,http://concepticon.clld.org/parameters/1248,-uɣʔa,eye
+265-11,trin1274,http://concepticon.clld.org/parameters/1173,-hiičonoʔu,eyebrow
+265-638,trin1274,http://concepticon.clld.org/parameters/17,-uɣmo,eyelid
+265-2,trin1274,http://concepticon.clld.org/parameters/1540,-'moc̷ipa,eyelash
+265-475,trin1274,http://concepticon.clld.org/parameters/1247,-čoka,ear
+265-190,trin1274,http://concepticon.clld.org/parameters/1221,-siri,nose
+265-515,trin1274,http://concepticon.clld.org/parameters/1178,-sii-peno,nostril
+265-567,trin1274,http://concepticon.clld.org/parameters/208,-mučhi,mucus (nasal)
+265-830,trin1274,http://concepticon.clld.org/parameters/674,-haka,mouth
+265-830,trin1274,http://concepticon.clld.org/parameters/73,-haka,beak
+265-624,trin1274,http://concepticon.clld.org/parameters/73,ta-haka,beak
+265-566,trin1274,http://concepticon.clld.org/parameters/478,-čeyo,lip
+265-420,trin1274,http://concepticon.clld.org/parameters/1205,-nene,tongue
+265-501,trin1274,http://concepticon.clld.org/parameters/1380,oʔe,tooth
+265-183,trin1274,http://concepticon.clld.org/parameters/1049,-hakaraɣi,molartooth
+265-53,trin1274,http://concepticon.clld.org/parameters/1333,-'piɣenu,neck
+265-809,trin1274,http://concepticon.clld.org/parameters/1346,'ereno,throat
+265-799,trin1274,http://concepticon.clld.org/parameters/1482,-hiʔu,shoulder
+265-157,trin1274,http://concepticon.clld.org/parameters/1673,-powɣi,arm
+265-790,trin1274,http://concepticon.clld.org/parameters/1886,-'siɣeku,armpit
+265-90,trin1274,http://concepticon.clld.org/parameters/981,-c̷uc̷u,elbow
+265-703,trin1274,http://concepticon.clld.org/parameters/799,-woʔu,wrist
+265-291,trin1274,http://concepticon.clld.org/parameters/1277,-wupe,hand
+265-512,trin1274,http://concepticon.clld.org/parameters/1183,-tupopewʔu,palm of hand
+265-591,trin1274,http://concepticon.clld.org/parameters/1303,-wuɣi,finger
+265-668,trin1274,http://concepticon.clld.org/parameters/1781,ʔčope -wuɣi,thumb
+265-216,trin1274,http://concepticon.clld.org/parameters/1258,-hipnʸo,fingernail
+265-216,trin1274,http://concepticon.clld.org/parameters/72,-hipnʸo,claw
+265-664,trin1274,http://concepticon.clld.org/parameters/1297,-pueɣe,leg
+265-468,trin1274,http://concepticon.clld.org/parameters/800,-paʔe,thigh
+265-164,trin1274,http://concepticon.clld.org/parameters/498,-'hewehi,calf of leg
+265-227,trin1274,http://concepticon.clld.org/parameters/1371,-'puyusi,knee
+265-104,trin1274,http://concepticon.clld.org/parameters/1301,-iype,foot
+265-837,trin1274,http://concepticon.clld.org/parameters/803,-piɣi,ankle
+265-548,trin1274,http://concepticon.clld.org/parameters/980,-čuksipewo,heel
+265-663,trin1274,http://concepticon.clld.org/parameters/318,-iy'pereku,footprint
+265-741,trin1274,http://concepticon.clld.org/parameters/1389,-iwɣi,toe
+265-723,trin1274,http://concepticon.clld.org/parameters/1257,-powo,wing
+265-677,trin1274,http://concepticon.clld.org/parameters/1201,-'hiyoʔi,feather
+265-361,trin1274,http://concepticon.clld.org/parameters/1592,-tupo,chest
+265-615,trin1274,http://concepticon.clld.org/parameters/1402,-čene,breast (of woman)
+265-615,trin1274,http://concepticon.clld.org/parameters/796,-čene,"nipple, teat"
+265-28,trin1274,http://concepticon.clld.org/parameters/1838,-tuyu,navel
+265-222,trin1274,http://concepticon.clld.org/parameters/1838,-tuyrupi,navel
+265-573,trin1274,http://concepticon.clld.org/parameters/1223,-samre,heart
+265-248,trin1274,http://concepticon.clld.org/parameters/688,-'romone,lung
+265-218,trin1274,http://concepticon.clld.org/parameters/1224,-'topono,liver
+265-87,trin1274,http://concepticon.clld.org/parameters/489,-kotru,kidney
+265-519,trin1274,http://concepticon.clld.org/parameters/819,-omi,stomach
+265-119,trin1274,http://concepticon.clld.org/parameters/819,-nʸuri,stomach
+265-826,trin1274,http://concepticon.clld.org/parameters/1991,-yeeruwhuʔe,"intestines, guts"
+265-384,trin1274,http://concepticon.clld.org/parameters/1681,-nʸoʔe,waist
+265-742,trin1274,http://concepticon.clld.org/parameters/1745,-'sokono,hip
+265-213,trin1274,http://concepticon.clld.org/parameters/834,-tete,buttocks
+265-371,trin1274,http://concepticon.clld.org/parameters/804,-čičaraʔi,womb
+265-463,trin1274,http://concepticon.clld.org/parameters/797,-aɣi,testicle
+265-449,trin1274,http://concepticon.clld.org/parameters/1222,e'hirowo,penis
+265-655,trin1274,http://concepticon.clld.org/parameters/1407,-omčo,"breathe, breath"
+265-117,trin1274,http://concepticon.clld.org/parameters/1028,iiyarakwo,"yawn, gape"
+265-623,trin1274,http://concepticon.clld.org/parameters/162,-tuʔkuʔo,hiccough
+265-10,trin1274,http://concepticon.clld.org/parameters/879,-unko -wo,cough
+265-327,trin1274,http://concepticon.clld.org/parameters/1621,-ahc̷iko,sneeze
+265-380,trin1274,http://concepticon.clld.org/parameters/126,epac̷uko,perspire
+265-27,trin1274,http://concepticon.clld.org/parameters/1440,-attiko,spit
+265-261,trin1274,http://concepticon.clld.org/parameters/1278,-oʔko,vomit
+265-561,trin1274,http://concepticon.clld.org/parameters/1403,-niko,bite
+265-421,trin1274,http://concepticon.clld.org/parameters/1403,-nikririko,bite
+265-130,trin1274,http://concepticon.clld.org/parameters/319,eweroko,lick
+265-275,trin1274,http://concepticon.clld.org/parameters/1585,imko,sleep
+265-93,trin1274,http://concepticon.clld.org/parameters/1983,-kočo'ronohi,snore
+265-49,trin1274,http://concepticon.clld.org/parameters/1920,-wop'rereʔi,dream
+265-467,trin1274,http://concepticon.clld.org/parameters/1602,ehamiko,wake up
+265-33,trin1274,http://concepticon.clld.org/parameters/1159,ehwako,break wind
+265-171,trin1274,http://concepticon.clld.org/parameters/592,-hoʔo,urinate
+265-762,trin1274,http://concepticon.clld.org/parameters/676,-soko,defecate
+265-458,trin1274,http://concepticon.clld.org/parameters/1785,-anʸoko,have sexual intercourse
+265-320,trin1274,http://concepticon.clld.org/parameters/1785,-'aneko,have sexual intercourse
+265-194,trin1274,http://concepticon.clld.org/parameters/52,ettotoko,shiver
+265-585,trin1274,http://concepticon.clld.org/parameters/138,ikčo,bathe
+265-649,trin1274,http://concepticon.clld.org/parameters/1152,-kočiča,beget (of father)
+265-494,trin1274,http://concepticon.clld.org/parameters/1090,-učko,born (to be)
+265-636,trin1274,http://concepticon.clld.org/parameters/1123,-'kohari,pregnant
+265-455,trin1274,http://concepticon.clld.org/parameters/1422,itoriko,"live, living, life"
+265-821,trin1274,http://concepticon.clld.org/parameters/1494,-'epeno,"die, dead"
+265-169,trin1274,http://concepticon.clld.org/parameters/1904,eeko,drowned
+265-369,trin1274,http://concepticon.clld.org/parameters/1904,-keeko,drowned
+265-678,trin1274,http://concepticon.clld.org/parameters/1417,-'kopako,kill
+265-245,trin1274,http://concepticon.clld.org/parameters/767,-epeno-ɣne,corpse
+265-608,trin1274,http://concepticon.clld.org/parameters/1719,'ekoro,bury (the dead)
+265-612,trin1274,http://concepticon.clld.org/parameters/1773,'ekori,"grave, tomb"
+265-165,trin1274,http://concepticon.clld.org/parameters/1773,ekorosi,"grave, tomb"
+265-785,trin1274,http://concepticon.clld.org/parameters/785,-ʔtume,"strong, mighty, powerful"
+265-689,trin1274,http://concepticon.clld.org/parameters/1601,wo-ʔtume-na,weak
+265-599,trin1274,http://concepticon.clld.org/parameters/1364,mhumarare,"well, health"
+265-109,trin1274,http://concepticon.clld.org/parameters/1847,-kohma,"sick, sickness"
+265-383,trin1274,http://concepticon.clld.org/parameters/1534,tihre,fever
+265-518,trin1274,http://concepticon.clld.org/parameters/1109,-hora,"wound, sore"
+265-823,trin1274,http://concepticon.clld.org/parameters/1148,-'horomo,bruise
+265-729,trin1274,http://concepticon.clld.org/parameters/1903,-amo,swelling
+265-631,trin1274,http://concepticon.clld.org/parameters/148,-uhaʔo,itch
+265-788,trin1274,http://concepticon.clld.org/parameters/1584,emiu,blister
+265-402,trin1274,http://concepticon.clld.org/parameters/793,-ammoʔo,boil (noun)
+265-545,trin1274,http://concepticon.clld.org/parameters/793,-c̷eɣe,boil (noun)
+265-518,trin1274,http://concepticon.clld.org/parameters/497,-hora,scar
+265-763,trin1274,http://concepticon.clld.org/parameters/497,-horeni,scar
+265-62,trin1274,http://concepticon.clld.org/parameters/499,ipruhčo,"cure, heal"
+265-289,trin1274,http://concepticon.clld.org/parameters/597,ipruhrikraʔi,physician
+265-706,trin1274,http://concepticon.clld.org/parameters/1372,-ipruhi,"medicine, drug"
+265-293,trin1274,http://concepticon.clld.org/parameters/1372,ʔpuuhi,"medicine, drug"
+265-373,trin1274,http://concepticon.clld.org/parameters/655,ʔmoti,poison
+265-639,trin1274,http://concepticon.clld.org/parameters/655,-'moti-wo,poison
+265-363,trin1274,http://concepticon.clld.org/parameters/1757,-wita,"tired, weary"
+265-817,trin1274,http://concepticon.clld.org/parameters/1757,-wta,"tired, weary"
+265-178,trin1274,http://concepticon.clld.org/parameters/168,-'narako,rest
+265-479,trin1274,http://concepticon.clld.org/parameters/1564,-yakhi,lazy
+265-828,trin1274,http://concepticon.clld.org/parameters/320,inʸu,lame
+265-758,trin1274,http://concepticon.clld.org/parameters/996,mɣinʸo,deaf
+265-249,trin1274,http://concepticon.clld.org/parameters/1666,[upa],mute
+265-131,trin1274,http://concepticon.clld.org/parameters/1666,eʔ[upa]čo,mute
+265-279,trin1274,http://concepticon.clld.org/parameters/1653,hmaʔu,blind
+265-61,trin1274,http://concepticon.clld.org/parameters/1653,pučuɣi,blind
+265-206,trin1274,http://concepticon.clld.org/parameters/1463,-kowʔo,intoxicated
+265-583,trin1274,http://concepticon.clld.org/parameters/590,ipc̷ino,"naked, bare"
+265-292,trin1274,http://concepticon.clld.org/parameters/590,ip'c̷inoʔe,"naked, bare"
+265-513,trin1274,http://concepticon.clld.org/parameters/590,ip'c̷inohi,"naked, bare"
+265-561,trin1274,http://concepticon.clld.org/parameters/1336,-niko,eat
+265-241,trin1274,http://concepticon.clld.org/parameters/256,-čeehi,food
+265-584,trin1274,http://concepticon.clld.org/parameters/256,čaruhi,food
+265-255,trin1274,http://concepticon.clld.org/parameters/269,-'imaɣi,cooked
+265-469,trin1274,http://concepticon.clld.org/parameters/178,-yoʔo,ripe
+265-391,trin1274,http://concepticon.clld.org/parameters/1728,-heče,rotten
+265-277,trin1274,http://concepticon.clld.org/parameters/1401,-ero,drink
+265-242,trin1274,http://concepticon.clld.org/parameters/1401,eeriko,drink
+265-410,trin1274,http://concepticon.clld.org/parameters/1533,ekʔo,hunger
+265-39,trin1274,http://concepticon.clld.org/parameters/199,ʔkomʔi,famine
+265-708,trin1274,http://concepticon.clld.org/parameters/848,etarako,thirst
+265-538,trin1274,http://concepticon.clld.org/parameters/1421,-čučko,suck
+265-150,trin1274,http://concepticon.clld.org/parameters/321,-nuʔo,chew
+265-95,trin1274,http://concepticon.clld.org/parameters/897,-hiiko,swallow
+265-424,trin1274,http://concepticon.clld.org/parameters/129,-kohpanko,choke
+265-127,trin1274,http://concepticon.clld.org/parameters/1100,imaɣi-čo,cook
+265-185,trin1274,http://concepticon.clld.org/parameters/792,-riʔčoko,boil (vb)
+265-386,trin1274,http://concepticon.clld.org/parameters/2146,htooko,"roast, fry"
+265-329,trin1274,http://concepticon.clld.org/parameters/2146,-suuko,"roast, fry"
+265-802,trin1274,http://concepticon.clld.org/parameters/183,-kohoono,bake
+265-610,trin1274,http://concepticon.clld.org/parameters/1143,[hoono],oven
+265-343,trin1274,http://concepticon.clld.org/parameters/1462,met-si,"pot, cooking vessel"
+265-343,trin1274,http://concepticon.clld.org/parameters/854,met-si,kettle
+265-134,trin1274,http://concepticon.clld.org/parameters/480,-kuuho,plate
+265-243,trin1274,http://concepticon.clld.org/parameters/480,kruho,plate
+265-769,trin1274,http://concepticon.clld.org/parameters/270,yupi,"pitcher, jug"
+265-444,trin1274,http://concepticon.clld.org/parameters/476,-eerisi / -eeresi,"cup, drinking vessel"
+265-246,trin1274,http://concepticon.clld.org/parameters/1378,-kok'čarahi,spoon
+265-365,trin1274,http://concepticon.clld.org/parameters/1352,-tumra,knife (2)
+265-35,trin1274,http://concepticon.clld.org/parameters/1352,ʔčatrope,knife (2)
+265-241,trin1274,http://concepticon.clld.org/parameters/1526,-čeehi,meal (a)
+265-584,trin1274,http://concepticon.clld.org/parameters/1526,čaruhi,meal (a)
+265-331,trin1274,http://concepticon.clld.org/parameters/768,-niipo,lunch
+265-341,trin1274,http://concepticon.clld.org/parameters/275,-čoʔiko,peel
+265-557,trin1274,http://concepticon.clld.org/parameters/86,-koɣheko,"sieve, strain"
+265-507,trin1274,http://concepticon.clld.org/parameters/2017,-siiɣičo,"stir, mix"
+265-217,trin1274,http://concepticon.clld.org/parameters/1368,ʔsomo,bread
+265-140,trin1274,http://concepticon.clld.org/parameters/634,ʔrak'parahi,meat
+265-146,trin1274,http://concepticon.clld.org/parameters/1547,toči,"soup, broth"
+265-492,trin1274,http://concepticon.clld.org/parameters/832,iko,bean
+265-484,trin1274,http://concepticon.clld.org/parameters/1484,'uhewo,oil
+265-290,trin1274,http://concepticon.clld.org/parameters/323,-sina,"grease, fat"
+265-666,trin1274,http://concepticon.clld.org/parameters/1274,ʔčewe,salt
+265-7,trin1274,http://concepticon.clld.org/parameters/919,ʔčeti,chili pepper
+265-476,trin1274,http://concepticon.clld.org/parameters/942,mopo-mo,honey
+265-399,trin1274,http://concepticon.clld.org/parameters/862,[asuka],sugar
+265-354,trin1274,http://concepticon.clld.org/parameters/635,-čenʸomo,milk (noun)
+265-683,trin1274,http://concepticon.clld.org/parameters/93,-koptiko,milk (vb)
+265-81,trin1274,http://concepticon.clld.org/parameters/731,eesa,"beverage, drink"
+265-1,trin1274,http://concepticon.clld.org/parameters/731,'ʔresare,"beverage, drink"
+265-766,trin1274,http://concepticon.clld.org/parameters/404,-eesa,fermented drink
+265-1,trin1274,http://concepticon.clld.org/parameters/404,'ʔresare,fermented drink
+265-602,trin1274,http://concepticon.clld.org/parameters/744,wrayʔa,egg
+265-335,trin1274,http://concepticon.clld.org/parameters/158,-muiriočo-wo,put on (clothes)
+265-69,trin1274,http://concepticon.clld.org/parameters/1895,-muiiʔo,"clothing, clothes"
+265-226,trin1274,http://concepticon.clld.org/parameters/1895,-yeeruwo,"clothing, clothes"
+265-820,trin1274,http://concepticon.clld.org/parameters/1616,attahi,cloth
+265-46,trin1274,http://concepticon.clld.org/parameters/1616,-attahra,cloth
+265-8,trin1274,http://concepticon.clld.org/parameters/964,-kohyoʔo 'ʔhiyoʔo (?),wool
+265-252,trin1274,http://concepticon.clld.org/parameters/1850,khore,cotton
+265-433,trin1274,http://concepticon.clld.org/parameters/629,prumo,leather
+265-144,trin1274,http://concepticon.clld.org/parameters/277,-ihruupa,spindle
+265-368,trin1274,http://concepticon.clld.org/parameters/277,hʸuurupa,spindle
+265-540,trin1274,http://concepticon.clld.org/parameters/133,ic̷meko,weave
+265-794,trin1274,http://concepticon.clld.org/parameters/1457,-poohiko,sew
+265-789,trin1274,http://concepticon.clld.org/parameters/1382,-pooropa,needle
+265-743,trin1274,http://concepticon.clld.org/parameters/1382,priipa,needle
+265-414,trin1274,http://concepticon.clld.org/parameters/1161,-pooripi,thread
+265-593,trin1274,http://concepticon.clld.org/parameters/1161,ʔc̷epi,thread
+265-640,trin1274,http://concepticon.clld.org/parameters/157,esioko,dye
+265-510,trin1274,http://concepticon.clld.org/parameters/474,'ʔmorohi,woman's dress
+265-32,trin1274,http://concepticon.clld.org/parameters/603,ep'kočepo,coat
+265-822,trin1274,http://concepticon.clld.org/parameters/1622,['kamisa],shirt
+265-468,trin1274,http://concepticon.clld.org/parameters/1600,-paʔe,skirt
+265-697,trin1274,http://concepticon.clld.org/parameters/809,-mu'ipaʔe,trousers
+265-676,trin1274,http://concepticon.clld.org/parameters/2130,-hosi,"hat, cap"
+265-37,trin1274,http://concepticon.clld.org/parameters/2130,hosre,"hat, cap"
+265-263,trin1274,http://concepticon.clld.org/parameters/772,-itʔe,"belt, girdle"
+265-532,trin1274,http://concepticon.clld.org/parameters/772,'teremo,"belt, girdle"
+265-651,trin1274,http://concepticon.clld.org/parameters/917,-uupowo,"ornament, adornment"
+265-138,trin1274,http://concepticon.clld.org/parameters/1374,tiɣwure,ring (for finger)
+265-319,trin1274,http://concepticon.clld.org/parameters/1374,-itɣiwʔu,ring (for finger)
+265-439,trin1274,http://concepticon.clld.org/parameters/1961,tnʸosehi,necklace
+265-820,trin1274,http://concepticon.clld.org/parameters/332,attahi,"handkerchief, rag"
+265-271,trin1274,http://concepticon.clld.org/parameters/1475,-kottasi ~ -k'tatasi,comb
+265-814,trin1274,http://concepticon.clld.org/parameters/333,ic̷mehɣi,braid
+265-323,trin1274,http://concepticon.clld.org/parameters/788,[-hawon]ra,soap
+265-715,trin1274,http://concepticon.clld.org/parameters/788,[hawono],soap
+265-807,trin1274,http://concepticon.clld.org/parameters/1099,-'ko-peno,"dwell, live"
+265-672,trin1274,http://concepticon.clld.org/parameters/1099,-tupko,"dwell, live"
+265-464,trin1274,http://concepticon.clld.org/parameters/1252,-peno,house
+265-470,trin1274,http://concepticon.clld.org/parameters/1252,peti,house
+265-448,trin1274,http://concepticon.clld.org/parameters/1678,'peti-hi,hut
+265-286,trin1274,http://concepticon.clld.org/parameters/1678,-'peno-hi,hut
+265-132,trin1274,http://concepticon.clld.org/parameters/736,-'miroʔu,"yard, court"
+265-212,trin1274,http://concepticon.clld.org/parameters/1450,ptiku,room
+265-838,trin1274,http://concepticon.clld.org/parameters/1567,-pahra,"door, gate"
+265-266,trin1274,http://concepticon.clld.org/parameters/1567,tapaho,"door, gate"
+265-761,trin1274,http://concepticon.clld.org/parameters/1632,saeera,floor
+265-133,trin1274,http://concepticon.clld.org/parameters/933,yučmo,wall
+265-738,trin1274,http://concepticon.clld.org/parameters/185,wkučkoyo,fireplace
+265-381,trin1274,http://concepticon.clld.org/parameters/1044,čnushire,pillow
+265-836,trin1274,http://concepticon.clld.org/parameters/806,-epkoʔu,blanket
+265-453,trin1274,http://concepticon.clld.org/parameters/1273,yukpi,candle
+265-784,trin1274,http://concepticon.clld.org/parameters/769,ktihmo,roof
+265-621,trin1274,http://concepticon.clld.org/parameters/280,ʔkunu,ridgepole
+265-621,trin1274,http://concepticon.clld.org/parameters/1132,ʔkunu,beam
+265-759,trin1274,http://concepticon.clld.org/parameters/1132,'wočuɣi,beam
+265-503,trin1274,http://concepticon.clld.org/parameters/1227,'toračo,board
+265-38,trin1274,http://concepticon.clld.org/parameters/212,-'esane,field (for cultivation)
+265-76,trin1274,http://concepticon.clld.org/parameters/212,ʔsanti,field (for cultivation)
+265-133,trin1274,http://concepticon.clld.org/parameters/1690,yučmo,fence
+265-688,trin1274,http://concepticon.clld.org/parameters/1418,-seko,dig
+265-732,trin1274,http://concepticon.clld.org/parameters/1901,kwiča,shovel
+265-326,trin1274,http://concepticon.clld.org/parameters/284,[-'ʔasaera],hoe
+265-811,trin1274,http://concepticon.clld.org/parameters/748,ewko,sow
+265-172,trin1274,http://concepticon.clld.org/parameters/714,taɣira,seed
+265-473,trin1274,http://concepticon.clld.org/parameters/611,-wʸoʔiko,"crop, harvest"
+265-575,trin1274,http://concepticon.clld.org/parameters/506,sponi,"maize, corn"
+265-569,trin1274,http://concepticon.clld.org/parameters/506,sponɣi,"maize, corn"
+265-646,trin1274,http://concepticon.clld.org/parameters/926,[arusu],rice
+265-152,trin1274,http://concepticon.clld.org/parameters/606,muihi,grass
+265-260,trin1274,http://concepticon.clld.org/parameters/653,-sukre,plant (noun)
+265-298,trin1274,http://concepticon.clld.org/parameters/653,'skureko,plant (noun)
+265-811,trin1274,http://concepticon.clld.org/parameters/1486,ewko,plant (vb)
+265-355,trin1274,http://concepticon.clld.org/parameters/670,-pore,root
+265-247,trin1274,http://concepticon.clld.org/parameters/1531,tatawo,branch
+265-605,trin1274,http://concepticon.clld.org/parameters/1531,-'tawohi,branch
+265-50,trin1274,http://concepticon.clld.org/parameters/628,-'pokohi,leaf
+265-258,trin1274,http://concepticon.clld.org/parameters/239,-ohʔu,flower
+265-209,trin1274,http://concepticon.clld.org/parameters/906,wkuɣi,tree
+265-278,trin1274,http://concepticon.clld.org/parameters/906,ykuɣi,tree
+265-387,trin1274,http://concepticon.clld.org/parameters/343,epre,vine
+265-244,trin1274,http://concepticon.clld.org/parameters/974,saware,tobacco
+265-101,trin1274,http://concepticon.clld.org/parameters/1689,-sapko,smoke (tobacco)
+265-313,trin1274,http://concepticon.clld.org/parameters/344,-čupu,tree trunk
+265-818,trin1274,http://concepticon.clld.org/parameters/1204,'točohi,bark
+265-695,trin1274,http://concepticon.clld.org/parameters/345,totu,sap
+265-305,trin1274,http://concepticon.clld.org/parameters/1126,[rimo],citrus fruit
+265-622,trin1274,http://concepticon.clld.org/parameters/159,kaere,sweet potato
+265-408,trin1274,http://concepticon.clld.org/parameters/925,-'kuhpara,"tapioca, manioc, cassava"
+265-107,trin1274,http://concepticon.clld.org/parameters/925,kuhpa,"tapioca, manioc, cassava"
+265-626,trin1274,http://concepticon.clld.org/parameters/411,c̷nʸowe,gourd
+265-102,trin1274,http://concepticon.clld.org/parameters/411,-eera,gourd
+265-534,trin1274,http://concepticon.clld.org/parameters/864,mkure,"pumpkin, squash"
+265-430,trin1274,http://concepticon.clld.org/parameters/146,ektenrahi,sugar cane
+265-83,trin1274,http://concepticon.clld.org/parameters/146,'ʔkuteno,sugar cane
+265-36,trin1274,http://concepticon.clld.org/parameters/33,-čunʸesi,nettle
+265-398,trin1274,http://concepticon.clld.org/parameters/813,epyako,"do, make"
+265-344,trin1274,http://concepticon.clld.org/parameters/813,-hičo,"do, make"
+265-457,trin1274,http://concepticon.clld.org/parameters/984,-'kwemtone,work
+265-656,trin1274,http://concepticon.clld.org/parameters/2004,-kotʸako,bend
+265-285,trin1274,http://concepticon.clld.org/parameters/1470,-koc̷nʸako,fold
+265-47,trin1274,http://concepticon.clld.org/parameters/1470,-akyoko -wo,fold
+265-477,trin1274,http://concepticon.clld.org/parameters/1917,'tičo,"tie, bind"
+265-268,trin1274,http://concepticon.clld.org/parameters/1917,'itičo,"tie, bind"
+265-530,trin1274,http://concepticon.clld.org/parameters/1218,ikoropi,"rope, cord"
+265-413,trin1274,http://concepticon.clld.org/parameters/760,taeti,knot (noun)
+265-654,trin1274,http://concepticon.clld.org/parameters/2133,eʔo,"strike (hit, beat)"
+265-795,trin1274,http://concepticon.clld.org/parameters/2133,estako,"strike (hit, beat)"
+265-6,trin1274,http://concepticon.clld.org/parameters/1432,ečtiko,cut
+265-388,trin1274,http://concepticon.clld.org/parameters/355,-aɣpueko,cut down
+265-625,trin1274,http://concepticon.clld.org/parameters/155,ečko,"chop, hew"
+265-365,trin1274,http://concepticon.clld.org/parameters/1352,-tumra,knife
+265-35,trin1274,http://concepticon.clld.org/parameters/1352,ʔčatrope,knife
+265-179,trin1274,http://concepticon.clld.org/parameters/356,whisrope,"scissors, shears"
+265-196,trin1274,http://concepticon.clld.org/parameters/356,wihsiipe,"scissors, shears"
+265-693,trin1274,http://concepticon.clld.org/parameters/677,-yowo,ax
+265-440,trin1274,http://concepticon.clld.org/parameters/677,ywoti,ax
+265-614,trin1274,http://concepticon.clld.org/parameters/680,etapoko,break
+265-466,trin1274,http://concepticon.clld.org/parameters/588,ewarako,broken
+265-280,trin1274,http://concepticon.clld.org/parameters/1437,eheko,split
+265-472,trin1274,http://concepticon.clld.org/parameters/1735,-kowčihko,tear
+265-461,trin1274,http://concepticon.clld.org/parameters/291,emakuko,"flay, skin"
+265-274,trin1274,http://concepticon.clld.org/parameters/291,-maʔoko,"flay, skin"
+265-797,trin1274,http://concepticon.clld.org/parameters/1449,-kotruʔoko,"rub, wipe"
+265-195,trin1274,http://concepticon.clld.org/parameters/214,-kotpakrako-wo,stretch
+265-167,trin1274,http://concepticon.clld.org/parameters/1455,-čuuko,pull
+265-200,trin1274,http://concepticon.clld.org/parameters/357,-čumko,hang up
+265-478,trin1274,http://concepticon.clld.org/parameters/1414,-kopčako,"squeeze, wring"
+265-554,trin1274,http://concepticon.clld.org/parameters/1453,-kac̷kuʔo,wash
+265-215,trin1274,http://concepticon.clld.org/parameters/230,-piʔiko,sweep
+265-752,trin1274,http://concepticon.clld.org/parameters/245,-'piroɣi,broom
+265-423,trin1274,http://concepticon.clld.org/parameters/245,proɣi,broom
+265-332,trin1274,http://concepticon.clld.org/parameters/1948,erekuko,saw
+265-256,trin1274,http://concepticon.clld.org/parameters/621,[ɣero],iron
+265-231,trin1274,http://concepticon.clld.org/parameters/1399,'tʸurahi,clay
+265-137,trin1274,http://concepticon.clld.org/parameters/1539,moʔo,basket
+265-665,trin1274,http://concepticon.clld.org/parameters/293,-niipowkure,netbag
+265-239,trin1274,http://concepticon.clld.org/parameters/1971,-'pewera,fan (noun)
+265-574,trin1274,http://concepticon.clld.org/parameters/1971,pewe,fan (noun)
+265-357,trin1274,http://concepticon.clld.org/parameters/360,-peweko,fan (vb)
+265-390,trin1274,http://concepticon.clld.org/parameters/360,ewʔʸučo,fan (vb)
+265-316,trin1274,http://concepticon.clld.org/parameters/765,-yamriko,move
+265-91,trin1274,http://concepticon.clld.org/parameters/1588,epčooko,turn over
+265-607,trin1274,http://concepticon.clld.org/parameters/1588,ewkuuko,turn over
+265-211,trin1274,http://concepticon.clld.org/parameters/1113,-muihko,"wind, wrap"
+265-808,trin1274,http://concepticon.clld.org/parameters/808,-kočmiko,drop (vb)
+265-333,trin1274,http://concepticon.clld.org/parameters/430,-ayiko,twist
+265-276,trin1274,http://concepticon.clld.org/parameters/568,-ečepuko,rise
+265-177,trin1274,http://concepticon.clld.org/parameters/501,-yooko,"raise, lift"
+265-310,trin1274,http://concepticon.clld.org/parameters/501,-ko-čepuko,"raise, lift"
+265-652,trin1274,http://concepticon.clld.org/parameters/1280,-'wenopo,fall
+265-586,trin1274,http://concepticon.clld.org/parameters/1280,-pakareko,fall
+265-445,trin1274,http://concepticon.clld.org/parameters/1456,-waririomčo,throw
+265-648,trin1274,http://concepticon.clld.org/parameters/702,-jačpo,catch (ball)
+265-59,trin1274,http://concepticon.clld.org/parameters/1909,eyhoko,shake
+265-409,trin1274,http://concepticon.clld.org/parameters/1439,-owreko,swim
+265-588,trin1274,http://concepticon.clld.org/parameters/1441,-oro,fly (vb)
+265-390,trin1274,http://concepticon.clld.org/parameters/175,ewʔʸučo,blow
+265-590,trin1274,http://concepticon.clld.org/parameters/96,-mahriko,"creep, crawl"
+265-438,trin1274,http://concepticon.clld.org/parameters/66,epyusiko,kneel
+265-191,trin1274,http://concepticon.clld.org/parameters/296,-osyeko,crouch
+265-141,trin1274,http://concepticon.clld.org/parameters/1324,-okhučiko,"slide, slip"
+265-628,trin1274,http://concepticon.clld.org/parameters/1829,etereko,"jump, leap"
+265-497,trin1274,http://concepticon.clld.org/parameters/1135,-okčuko,kick
+265-48,trin1274,http://concepticon.clld.org/parameters/1879,iimuiko,dance
+265-659,trin1274,http://concepticon.clld.org/parameters/1443,-puiko,walk
+265-523,trin1274,http://concepticon.clld.org/parameters/1443,-puiiriko,walk
+265-641,trin1274,http://concepticon.clld.org/parameters/1519,-'hunopo,run
+265-405,trin1274,http://concepticon.clld.org/parameters/695,-yono,go
+265-250,trin1274,http://concepticon.clld.org/parameters/1102,-opno,climb
+265-819,trin1274,http://concepticon.clld.org/parameters/2014,-kopahko,go down
+265-125,trin1274,http://concepticon.clld.org/parameters/2014,-ukpuiko,go down
+265-556,trin1274,http://concepticon.clld.org/parameters/1107,imoriko,go out
+265-75,trin1274,http://concepticon.clld.org/parameters/1446,-uteko,come
+265-73,trin1274,http://concepticon.clld.org/parameters/581,-čo-wo,come back
+265-362,trin1274,http://concepticon.clld.org/parameters/1752,-kewisʔo,"go away, depart"
+265-494,trin1274,http://concepticon.clld.org/parameters/1752,-učko,"go away, depart"
+265-397,trin1274,http://concepticon.clld.org/parameters/1085,-pono,follow
+265-551,trin1274,http://concepticon.clld.org/parameters/1387,-kopayako,"reach, arrive"
+265-100,trin1274,http://concepticon.clld.org/parameters/1387,itekpo,"reach, arrive"
+265-203,trin1274,http://concepticon.clld.org/parameters/749,-sʸopo,enter
+265-796,trin1274,http://concepticon.clld.org/parameters/700,-'yereko,carry (bear)
+265-520,trin1274,http://concepticon.clld.org/parameters/700,-omo,carry (bear)
+265-520,trin1274,http://concepticon.clld.org/parameters/692,-omo,bring
+265-701,trin1274,http://concepticon.clld.org/parameters/692,-wehno,bring
+265-238,trin1274,http://concepticon.clld.org/parameters/667,ʔčene,road
+265-803,trin1274,http://concepticon.clld.org/parameters/667,-očenekra,road
+265-498,trin1274,http://concepticon.clld.org/parameters/122,['kareta],"carriage, wagon, cart"
+265-367,trin1274,http://concepticon.clld.org/parameters/710,[ka'retačo],wheel
+265-720,trin1274,http://concepticon.clld.org/parameters/1970,-pokre,canoe
+265-353,trin1274,http://concepticon.clld.org/parameters/1970,pkura,canoe
+265-325,trin1274,http://concepticon.clld.org/parameters/234,[noope],paddle (noun)
+265-679,trin1274,http://concepticon.clld.org/parameters/1849,-naʔeko,row (vb)
+265-232,trin1274,http://concepticon.clld.org/parameters/610,-ana'ereku,"harbor, port"
+265-210,trin1274,http://concepticon.clld.org/parameters/773,-koyʔe,have
+265-587,trin1274,http://concepticon.clld.org/parameters/684,-'oɣenu,"own, possess"
+265-520,trin1274,http://concepticon.clld.org/parameters/1749,-omo,take
+265-487,trin1274,http://concepticon.clld.org/parameters/2021,-kootoko,"seize, grasp"
+265-509,trin1274,http://concepticon.clld.org/parameters/1477,-'unako,"keep, retain"
+265-781,trin1274,http://concepticon.clld.org/parameters/1447,ihroko,give
+265-417,trin1274,http://concepticon.clld.org/parameters/44,ehiko,"harm, injure, damage"
+265-43,trin1274,http://concepticon.clld.org/parameters/1468,-tanko ~ -taniko,"seek, look for"
+265-151,trin1274,http://concepticon.clld.org/parameters/719,ičmowo,find
+265-63,trin1274,http://concepticon.clld.org/parameters/719,itkowo,find
+265-529,trin1274,http://concepticon.clld.org/parameters/1660,emtiko,lose
+265-632,trin1274,http://concepticon.clld.org/parameters/1660,-komtiko,lose
+265-359,trin1274,http://concepticon.clld.org/parameters/1559,[prata],money
+265-724,trin1274,http://concepticon.clld.org/parameters/712,-siyerereewo,rich
+265-771,trin1274,http://concepticon.clld.org/parameters/1674,[powre],poor
+265-792,trin1274,http://concepticon.clld.org/parameters/1774,-yowʔi,"avaricious, stingy"
+265-58,trin1274,http://concepticon.clld.org/parameters/369,ntewe,owe
+265-546,trin1274,http://concepticon.clld.org/parameters/718,-waʔčo,pay (vb)
+265-536,trin1274,http://concepticon.clld.org/parameters/1869,-wačriko,buy
+265-734,trin1274,http://concepticon.clld.org/parameters/1571,ihroriko,sell
+265-273,trin1274,http://concepticon.clld.org/parameters/657,tawačo,price
+265-694,trin1274,http://concepticon.clld.org/parameters/1426,-'siwačo,"dear (costly, expensive)"
+265-480,trin1274,http://concepticon.clld.org/parameters/1685,eɣne,after
+265-89,trin1274,http://concepticon.clld.org/parameters/1685,huitne,after
+265-214,trin1274,http://concepticon.clld.org/parameters/723,eɣnehriko,behind
+265-700,trin1274,http://concepticon.clld.org/parameters/723,ihɣiipi,behind
+265-129,trin1274,http://concepticon.clld.org/parameters/1326,ʔpoɣʔe,"down, below"
+265-318,trin1274,http://concepticon.clld.org/parameters/1882,kopeni,before
+265-132,trin1274,http://concepticon.clld.org/parameters/1019,-'miroʔu,front
+265-303,trin1274,http://concepticon.clld.org/parameters/1606,ʔwiʔku,"inside, in"
+265-528,trin1274,http://concepticon.clld.org/parameters/762,ʔneko,outside
+265-633,trin1274,http://concepticon.clld.org/parameters/1485,-'mopeku,under
+265-182,trin1274,http://concepticon.clld.org/parameters/1591,ʔnuɣʔe,"up, above"
+265-600,trin1274,http://concepticon.clld.org/parameters/1591,'inaʔu,"up, above"
+265-537,trin1274,http://concepticon.clld.org/parameters/1591,-muiɣʔe,"up, above"
+265-304,trin1274,http://concepticon.clld.org/parameters/723,topaʔiwo,place
+265-553,trin1274,http://concepticon.clld.org/parameters/998,-noko,put
+265-338,trin1274,http://concepticon.clld.org/parameters/1416,-ehako,sit
+265-254,trin1274,http://concepticon.clld.org/parameters/215,'epahi,lie down
+265-120,trin1274,http://concepticon.clld.org/parameters/215,-pahi,lie down
+265-714,trin1274,http://concepticon.clld.org/parameters/1442,-kotpiʔeko (?),stand
+265-378,trin1274,http://concepticon.clld.org/parameters/987,-'nosi,"remain, stay"
+265-12,trin1274,http://concepticon.clld.org/parameters/1156,ewac̷ako,open
+265-406,trin1274,http://concepticon.clld.org/parameters/1046,-hočo/ hʸočo,"shut, close"
+265-288,trin1274,http://concepticon.clld.org/parameters/761,-yučeɣneʔo,cover
+265-229,trin1274,http://concepticon.clld.org/parameters/602,-yumruko,"hide, conceal"
+265-18,trin1274,http://concepticon.clld.org/parameters/1265,-inɣewo,high
+265-411,trin1274,http://concepticon.clld.org/parameters/372,tapu,pointed
+265-658,trin1274,http://concepticon.clld.org/parameters/372,'tapuɣi,pointed
+265-428,trin1274,http://concepticon.clld.org/parameters/682,-nopo,side
+265-686,trin1274,http://concepticon.clld.org/parameters/1093,ttupreko,"middle, center"
+265-337,trin1274,http://concepticon.clld.org/parameters/1019,wowre,right (side)
+265-51,trin1274,http://concepticon.clld.org/parameters/1019,-nopowowre,right (side)
+265-596,trin1274,http://concepticon.clld.org/parameters/244,sopa,left (side)
+265-733,trin1274,http://concepticon.clld.org/parameters/244,-nopo te sopa,left (side)
+265-687,trin1274,http://concepticon.clld.org/parameters/1942,-čokyo,near (adv)
+265-142,trin1274,http://concepticon.clld.org/parameters/1406,ewire,far (adv)
+265-787,trin1274,http://concepticon.clld.org/parameters/1406,-ʔe'wirečo,far (adv)
+265-660,trin1274,http://concepticon.clld.org/parameters/1598,khoʔo,north
+265-719,trin1274,http://concepticon.clld.org/parameters/1595,wono,south
+265-634,trin1274,http://concepticon.clld.org/parameters/479,-huuko,grow
+265-735,trin1274,http://concepticon.clld.org/parameters/1202,ʔčope-riʔi,"large, big"
+265-713,trin1274,http://concepticon.clld.org/parameters/1246,ʔčiʔču,"small, little"
+265-801,trin1274,http://concepticon.clld.org/parameters/1246,ʔčiʔčoʔo,"small, little"
+265-112,trin1274,http://concepticon.clld.org/parameters/1203,-siku,long
+265-207,trin1274,http://concepticon.clld.org/parameters/711,-una,tall
+265-262,trin1274,http://concepticon.clld.org/parameters/711,tʸuna,tall
+265-3,trin1274,http://concepticon.clld.org/parameters/1243,-'aharu,"wide, broad"
+265-558,trin1274,http://concepticon.clld.org/parameters/1267,ʔc̷enkure,narrow
+265-272,trin1274,http://concepticon.clld.org/parameters/1267,'ʔc̷epa-ku,narrow
+265-180,trin1274,http://concepticon.clld.org/parameters/1244,ʔčope,thick (in dimension)
+265-711,trin1274,http://concepticon.clld.org/parameters/1400,eh'woroʔi,thin (in dimension)
+265-124,trin1274,http://concepticon.clld.org/parameters/1593,-'upeno,deep
+265-309,trin1274,http://concepticon.clld.org/parameters/1404,-'utpiʔo,straight
+265-223,trin1274,http://concepticon.clld.org/parameters/1071,tkohka,hook
+265-110,trin1274,http://concepticon.clld.org/parameters/192,-'ɣinʸoku,corner
+265-757,trin1274,http://concepticon.clld.org/parameters/1395,-čyoro ʔčoyoro,round
+265-360,trin1274,http://concepticon.clld.org/parameters/1467,'ʔčoyoro,circle
+265-745,trin1274,http://concepticon.clld.org/parameters/1667,ʔnuuku,hole
+265-356,trin1274,http://concepticon.clld.org/parameters/1294,tahina,"zero, nothing"
+265-20,trin1274,http://concepticon.clld.org/parameters/1515,'etona,one
+265-199,trin1274,http://concepticon.clld.org/parameters/1498,apina,two
+265-630,trin1274,http://concepticon.clld.org/parameters/492,mopona,three
+265-488,trin1274,http://concepticon.clld.org/parameters/1703,[sesi],six
+265-578,trin1274,http://concepticon.clld.org/parameters/1705,knowɣi,eight
+265-135,trin1274,http://concepticon.clld.org/parameters/1420,-'tupačo,count
+265-407,trin1274,http://concepticon.clld.org/parameters/98,-mutu -mtu,"every, all"
+265-4,trin1274,http://concepticon.clld.org/parameters/98,ʔmu'irihi,"every, all"
+265-374,trin1274,http://concepticon.clld.org/parameters/1198,-komuri,"much, many"
+265-798,trin1274,http://concepticon.clld.org/parameters/1198,mowera,"much, many"
+265-620,trin1274,http://concepticon.clld.org/parameters/1992,ʔpona,more
+265-382,trin1274,http://concepticon.clld.org/parameters/1242,ommuri,"little (quantity), few"
+265-696,trin1274,http://concepticon.clld.org/parameters/1881,-kečemuriono,enough
+265-707,trin1274,http://concepticon.clld.org/parameters/1241,ʔponnahi,some
+265-791,trin1274,http://concepticon.clld.org/parameters/1241,ʔpomriono,some
+265-198,trin1274,http://concepticon.clld.org/parameters/1429,-inko,full
+265-40,trin1274,http://concepticon.clld.org/parameters/1429,inkočo,full
+265-394,trin1274,http://concepticon.clld.org/parameters/1580,-kehwo,"alone, only"
+265-491,trin1274,http://concepticon.clld.org/parameters/1580,-kehoriču,"alone, only"
+265-502,trin1274,http://concepticon.clld.org/parameters/728,-tiwo,first
+265-619,trin1274,http://concepticon.clld.org/parameters/728,-uwo,first
+265-111,trin1274,http://concepticon.clld.org/parameters/1529,-kene,last
+265-700,trin1274,http://concepticon.clld.org/parameters/1529,ihɣiipi,last
+265-642,trin1274,http://concepticon.clld.org/parameters/1384,-nopoko,second
+265-565,trin1274,http://concepticon.clld.org/parameters/1888,etomuri,pair
+265-147,trin1274,http://concepticon.clld.org/parameters/1546,apiʔe,two times
+265-85,trin1274,http://concepticon.clld.org/parameters/417,mopoʔe,three times
+265-728,trin1274,http://concepticon.clld.org/parameters/1231,ʔrahru,new
+265-800,trin1274,http://concepticon.clld.org/parameters/1229,ʔčosi,old
+265-186,trin1274,http://concepticon.clld.org/parameters/477,ečanako,late
+265-26,trin1274,http://concepticon.clld.org/parameters/1376,huiti,now
+265-416,trin1274,http://concepticon.clld.org/parameters/1963,-'totohi,immediately
+265-637,trin1274,http://concepticon.clld.org/parameters/1631,-haahiko,"swift, fast, quick"
+265-780,trin1274,http://concepticon.clld.org/parameters/1631,-roʔo,"swift, fast, quick"
+265-308,trin1274,http://concepticon.clld.org/parameters/701,ep'yarako,slow
+265-647,trin1274,http://concepticon.clld.org/parameters/754,-yoyučo,"hasten, hurry"
+265-328,trin1274,http://concepticon.clld.org/parameters/425,emtoko,"retard, delay"
+265-347,trin1274,http://concepticon.clld.org/parameters/1806,-naekčowo,"begin, beginning"
+265-767,trin1274,http://concepticon.clld.org/parameters/1186,-hikpuiko,"last, endure"
+265-314,trin1274,http://concepticon.clld.org/parameters/1766,'ito-wo,finish
+265-539,trin1274,http://concepticon.clld.org/parameters/1676,enemuiihi,always
+265-189,trin1274,http://concepticon.clld.org/parameters/418,koperipo,long-time (for a)
+265-699,trin1274,http://concepticon.clld.org/parameters/1656,kaeerapukaeni,never
+265-601,trin1274,http://concepticon.clld.org/parameters/204,-apečwo,again
+265-722,trin1274,http://concepticon.clld.org/parameters/1260,sače,day
+265-535,trin1274,http://concepticon.clld.org/parameters/1233,yoti,night
+265-187,trin1274,http://concepticon.clld.org/parameters/729,-urihamisra,dawn
+265-72,trin1274,http://concepticon.clld.org/parameters/1339,tyotko,morning
+265-680,trin1274,http://concepticon.clld.org/parameters/12,tupriɣi,"noon, midday"
+265-370,trin1274,http://concepticon.clld.org/parameters/1807,kopereʔi,afternoon
+265-26,trin1274,http://concepticon.clld.org/parameters/1283,huiti,today
+265-364,trin1274,http://concepticon.clld.org/parameters/1329,ʔčoču,tomorrow
+265-429,trin1274,http://concepticon.clld.org/parameters/1174,kope,yesterday
+265-163,trin1274,http://concepticon.clld.org/parameters/1180,kope ʔpona sače,day-before-yesterday
+265-5,trin1274,http://concepticon.clld.org/parameters/1699,[rominko],Sunday
+265-592,trin1274,http://concepticon.clld.org/parameters/1697,['runesi],Monday
+265-446,trin1274,http://concepticon.clld.org/parameters/1695,[maatesi],Tuesday
+265-156,trin1274,http://concepticon.clld.org/parameters/1694,[mʸee'kuresi],Wednesday
+265-55,trin1274,http://concepticon.clld.org/parameters/1693,[huewesi],Thursday
+265-555,trin1274,http://concepticon.clld.org/parameters/1692,[wʸeenesi],Friday
+265-516,trin1274,http://concepticon.clld.org/parameters/1700,['sawaru],Saturday
+265-322,trin1274,http://concepticon.clld.org/parameters/1370,-'kohe-ra,month
+265-564,trin1274,http://concepticon.clld.org/parameters/1370,kohe,month
+265-431,trin1274,http://concepticon.clld.org/parameters/1226,[anʸu],year
+265-568,trin1274,http://concepticon.clld.org/parameters/1587,ehweko,smell (vb intrans)
+265-547,trin1274,http://concepticon.clld.org/parameters/1586,-huko,smell (vb trans)
+265-827,trin1274,http://concepticon.clld.org/parameters/376,ihʸe,"fragrant, good smelling"
+265-19,trin1274,http://concepticon.clld.org/parameters/717,-itwe,sweet
+265-730,trin1274,http://concepticon.clld.org/parameters/1091,-'ičewe,salty
+265-376,trin1274,http://concepticon.clld.org/parameters/887,sukorohi,bitter
+265-635,trin1274,http://concepticon.clld.org/parameters/887,-'sukore,bitter
+265-15,trin1274,http://concepticon.clld.org/parameters/1906,-kootsi / -kooc̷i (?),"acid, sour"
+265-340,trin1274,http://concepticon.clld.org/parameters/1408,-at-samo,hear
+265-267,trin1274,http://concepticon.clld.org/parameters/1408,-ɣinʸo,hear
+265-389,trin1274,http://concepticon.clld.org/parameters/1608,-uɣnʸo,listen
+265-521,trin1274,http://concepticon.clld.org/parameters/1608,-samrooko,listen
+265-148,trin1274,http://concepticon.clld.org/parameters/1314,-motnaʔi,"quiet, silence"
+265-443,trin1274,http://concepticon.clld.org/parameters/1409,imʔo,see
+265-149,trin1274,http://concepticon.clld.org/parameters/1819,imooroko,"look, look at"
+265-726,trin1274,http://concepticon.clld.org/parameters/1039,imeko,show
+265-264,trin1274,http://concepticon.clld.org/parameters/1039,'imečo,show
+265-770,trin1274,http://concepticon.clld.org/parameters/708,-rappeko,shine
+265-774,trin1274,http://concepticon.clld.org/parameters/708,-motc̷iko,shine
+265-115,trin1274,http://concepticon.clld.org/parameters/1335,-hopu,white
+265-299,trin1274,http://concepticon.clld.org/parameters/163,-siso,black
+265-725,trin1274,http://concepticon.clld.org/parameters/156,-ic̷ʸoro,red
+265-582,trin1274,http://concepticon.clld.org/parameters/156,tic̷i,red
+265-750,trin1274,http://concepticon.clld.org/parameters/837,-ripu,blue
+265-721,trin1274,http://concepticon.clld.org/parameters/1425,heʔču,green
+265-744,trin1274,http://concepticon.clld.org/parameters/1425,anoʔo,green
+265-84,trin1274,http://concepticon.clld.org/parameters/1424,-yokko,yellow
+265-552,trin1274,http://concepticon.clld.org/parameters/1884,'ʔčoɣeru,hard
+265-300,trin1274,http://concepticon.clld.org/parameters/1884,mraka,hard
+265-710,trin1274,http://concepticon.clld.org/parameters/1856,-himʸa,soft
+265-496,trin1274,http://concepticon.clld.org/parameters/1923,-reru,rough
+265-617,trin1274,http://concepticon.clld.org/parameters/1396,-kosri,sharp
+265-783,trin1274,http://concepticon.clld.org/parameters/1396,eksiičo,sharp
+265-237,trin1274,http://concepticon.clld.org/parameters/1210,-hitakore,heavy
+265-181,trin1274,http://concepticon.clld.org/parameters/1726,-nono,"wet, damp"
+265-366,trin1274,http://concepticon.clld.org/parameters/1726,-'patahi,"wet, damp"
+265-500,trin1274,http://concepticon.clld.org/parameters/1398,-oohi,dry
+265-94,trin1274,http://concepticon.clld.org/parameters/1286,ihre,hot
+265-253,trin1274,http://concepticon.clld.org/parameters/1286,ihruʔi,hot
+265-616,trin1274,http://concepticon.clld.org/parameters/1232,ihruromo,warm
+265-598,trin1274,http://concepticon.clld.org/parameters/1232,ihruɣɣomo,warm
+265-427,trin1274,http://concepticon.clld.org/parameters/1287,-tummaʔoko,cold
+265-465,trin1274,http://concepticon.clld.org/parameters/1287,-kosarečo,cold
+265-259,trin1274,http://concepticon.clld.org/parameters/704,tʸuuna,clean
+265-756,trin1274,http://concepticon.clld.org/parameters/704,-uuna,clean
+265-508,trin1274,http://concepticon.clld.org/parameters/1230,-koʔča,"dirty, soiled"
+265-618,trin1274,http://concepticon.clld.org/parameters/380,-'c̷inʸaku,wrinkled
+265-197,trin1274,http://concepticon.clld.org/parameters/53,-kunaraʔi,"soul, spirit"
+265-447,trin1274,http://concepticon.clld.org/parameters/1572,-ooʔoko,"surprised, astonished"
+265-80,trin1274,http://concepticon.clld.org/parameters/1495,-uusamre,"joyful, glad, happy"
+265-240,trin1274,http://concepticon.clld.org/parameters/1495,-wopnoniko,"joyful, glad, happy"
+265-283,trin1274,http://concepticon.clld.org/parameters/1355,ekowo -wriʔi,laugh
+265-412,trin1274,http://concepticon.clld.org/parameters/1451,e'masako,smile
+265-294,trin1274,http://concepticon.clld.org/parameters/1413,-'uc̷aru,play
+265-176,trin1274,http://concepticon.clld.org/parameters/923,-wooʔo,love
+265-737,trin1274,http://concepticon.clld.org/parameters/923,-wroʔo,love
+265-522,trin1274,http://concepticon.clld.org/parameters/578,-c̷uko,kiss
+265-105,trin1274,http://concepticon.clld.org/parameters/1000,ečomhi,"anxiety, worry"
+265-92,trin1274,http://concepticon.clld.org/parameters/1839,'iyoʔo,"cry, weep"
+265-22,trin1274,http://concepticon.clld.org/parameters/1839,iyoʔomro,"cry, weep"
+265-154,trin1274,http://concepticon.clld.org/parameters/1651,-'c̷eramo,tear (noun)
+265-563,trin1274,http://concepticon.clld.org/parameters/1607,-'kotičo,hate
+265-418,trin1274,http://concepticon.clld.org/parameters/82,-semo,anger
+265-782,trin1274,http://concepticon.clld.org/parameters/40,etʸoko,"envy, jealousy"
+265-192,trin1274,http://concepticon.clld.org/parameters/1776,-c̷iiʔo,shame (noun)
+265-44,trin1274,http://concepticon.clld.org/parameters/1776,-c̷riʔo,shame (noun)
+265-815,trin1274,http://concepticon.clld.org/parameters/781,-piko,"fear, fright"
+265-747,trin1274,http://concepticon.clld.org/parameters/1784,-kimuira,"desire, want"
+265-589,trin1274,http://concepticon.clld.org/parameters/1784,-homračo,"desire, want"
+265-650,trin1274,http://concepticon.clld.org/parameters/1750,-nerʸoko,choose
+265-155,trin1274,http://concepticon.clld.org/parameters/1657,yatpi,true
+265-721,trin1274,http://concepticon.clld.org/parameters/1657,heʔču,true
+265-776,trin1274,http://concepticon.clld.org/parameters/601,emc̷ʸoko,"lie, tell lies"
+265-30,trin1274,http://concepticon.clld.org/parameters/601,-onʸučwo,"lie, tell lies"
+265-97,trin1274,http://concepticon.clld.org/parameters/1035,tʸuri,good
+265-533,trin1274,http://concepticon.clld.org/parameters/1035,-uri,good
+265-269,trin1274,http://concepticon.clld.org/parameters/1292,winarahi,bad
+265-24,trin1274,http://concepticon.clld.org/parameters/1292,mueperahi,bad
+265-756,trin1274,http://concepticon.clld.org/parameters/1427,-uuna,beautiful
+265-782,trin1274,http://concepticon.clld.org/parameters/1513,etʸoko,think (= be of the opinion)
+265-690,trin1274,http://concepticon.clld.org/parameters/1513,ihčo,think (= be of the opinion)
+265-525,trin1274,http://concepticon.clld.org/parameters/1890,-ihčo,believe
+265-82,trin1274,http://concepticon.clld.org/parameters/1536,ečemčo,understand
+265-29,trin1274,http://concepticon.clld.org/parameters/1410,imoti,know
+265-517,trin1274,http://concepticon.clld.org/parameters/504,-karawoʔu,learn
+265-517,trin1274,http://concepticon.clld.org/parameters/1929,-karawoʔu,study
+265-204,trin1274,http://concepticon.clld.org/parameters/709,imitko,teach
+265-786,trin1274,http://concepticon.clld.org/parameters/707,ečo,remember
+265-42,trin1274,http://concepticon.clld.org/parameters/1523,emtisko,forget
+265-56,trin1274,http://concepticon.clld.org/parameters/989,emkečorohko,"clear, plain"
+265-34,trin1274,http://concepticon.clld.org/parameters/1121,-yum'rurewo,secret
+265-393,trin1274,http://concepticon.clld.org/parameters/860,im- ~ em-,cause
+265-805,trin1274,http://concepticon.clld.org/parameters/1308,-kikčopuiiwo,doubt
+265-454,trin1274,http://concepticon.clld.org/parameters/643,ta-komnu,"need, necessity"
+265-297,trin1274,http://concepticon.clld.org/parameters/643,-komnu,"need, necessity"
+265-334,trin1274,http://concepticon.clld.org/parameters/686,muehrare,easy
+265-577,trin1274,http://concepticon.clld.org/parameters/584,-kehra,difficult
+265-184,trin1274,http://concepticon.clld.org/parameters/1577,ene,and
+265-45,trin1274,http://concepticon.clld.org/parameters/1157,tahičo,because
+265-432,trin1274,http://concepticon.clld.org/parameters/1268,hooʔo,"yes, affirmative"
+265-116,trin1274,http://concepticon.clld.org/parameters/1269,woʔi,"no, negative"
+265-166,trin1274,http://concepticon.clld.org/parameters/1239,ooyo,how?
+265-609,trin1274,http://concepticon.clld.org/parameters/822,oyna,how many?
+265-609,trin1274,http://concepticon.clld.org/parameters/531,oyna,how much?
+265-396,trin1274,http://concepticon.clld.org/parameters/1236,ta(h)a,what?
+265-657,trin1274,http://concepticon.clld.org/parameters/1238,taha-muʔi,when?
+265-452,trin1274,http://concepticon.clld.org/parameters/1238,kaeera,when?
+265-166,trin1274,http://concepticon.clld.org/parameters/1237,ooyo,where?
+265-396,trin1274,http://concepticon.clld.org/parameters/727,ta(h)a,which?
+265-324,trin1274,http://concepticon.clld.org/parameters/1235,naha,who?
+265-606,trin1274,http://concepticon.clld.org/parameters/1363,oʔu,voice
+265-64,trin1274,http://concepticon.clld.org/parameters/1261,-hiro,sing
+265-295,trin1274,http://concepticon.clld.org/parameters/715,-pʸooko,"shout, cry out"
+265-777,trin1274,http://concepticon.clld.org/parameters/1025,-pipi,whistle
+265-671,trin1274,http://concepticon.clld.org/parameters/1623,ečhiko,"speak, talk"
+265-775,trin1274,http://concepticon.clld.org/parameters/1866,mnessohi,"stutter, stammer"
+265-459,trin1274,http://concepticon.clld.org/parameters/1866,-hriʔi,"stutter, stammer"
+265-78,trin1274,http://concepticon.clld.org/parameters/1458,-koʔe,say
+265-344,trin1274,http://concepticon.clld.org/parameters/1458,-hičo,say
+265-103,trin1274,http://concepticon.clld.org/parameters/48,-motna,silent (be)
+265-270,trin1274,http://concepticon.clld.org/parameters/48,-mtina,silent (be)
+265-422,trin1274,http://concepticon.clld.org/parameters/1307,ečhiriiwo,language
+265-358,trin1274,http://concepticon.clld.org/parameters/1405,-'ihare,name
+265-670,trin1274,http://concepticon.clld.org/parameters/1309,-yserikriʔi,"ask (question, inquire)"
+265-541,trin1274,http://concepticon.clld.org/parameters/1275,-uremraʔi,answer
+265-122,trin1274,http://concepticon.clld.org/parameters/1275,-hikpo,answer
+265-499,trin1274,http://concepticon.clld.org/parameters/1828,-yosʸoko,"ask, request"
+265-527,trin1274,http://concepticon.clld.org/parameters/299,-kohčo,"rebuke, scold"
+265-145,trin1274,http://concepticon.clld.org/parameters/1084,ičʔo,call (=summon)
+265-230,trin1274,http://concepticon.clld.org/parameters/1672,-ahčo,write
+265-404,trin1274,http://concepticon.clld.org/parameters/1672,-'ahriko,write
+265-64,trin1274,http://concepticon.clld.org/parameters/724,-hiro,read
+265-234,trin1274,http://concepticon.clld.org/parameters/648,ʔhʸumeruko,paper
+265-712,trin1274,http://concepticon.clld.org/parameters/777,swiwre,flute
+265-746,trin1274,http://concepticon.clld.org/parameters/300,wriiʔi,rattle
+265-704,trin1274,http://concepticon.clld.org/parameters/1391,'ʔwosare -owsa,"city, town"
+265-810,trin1274,http://concepticon.clld.org/parameters/930,'ʔwosare,village
+265-225,trin1274,http://concepticon.clld.org/parameters/930,-owsa,village
+265-60,trin1274,http://concepticon.clld.org/parameters/301,iyaraʔo,"chief, chieftain"
+265-306,trin1274,http://concepticon.clld.org/parameters/1296,c̷ukrupa,"staff, walking stick"
+265-644,trin1274,http://concepticon.clld.org/parameters/1296,-koc̷krupa,"staff, walking stick"
+265-587,trin1274,http://concepticon.clld.org/parameters/383,-'oɣenu,master
+265-493,trin1274,http://concepticon.clld.org/parameters/812,ahire,slave
+265-482,trin1274,http://concepticon.clld.org/parameters/255,-wonra,servant
+265-301,trin1274,http://concepticon.clld.org/parameters/255,-yorokora,servant
+265-392,trin1274,http://concepticon.clld.org/parameters/1128,-woniko,"command, order"
+265-645,trin1274,http://concepticon.clld.org/parameters/1635,-uremčo,obey
+265-597,trin1274,http://concepticon.clld.org/parameters/1003,isopo,"let, permit"
+265-442,trin1274,http://concepticon.clld.org/parameters/1325,-emnaksare,"friend, companion"
+265-159,trin1274,http://concepticon.clld.org/parameters/1358,-kotičoswo,enemy
+265-251,trin1274,http://concepticon.clld.org/parameters/1358,-okposwo,enemy
+265-158,trin1274,http://concepticon.clld.org/parameters/1332,-čawsaana,neighbor
+265-57,trin1274,http://concepticon.clld.org/parameters/791,ʔpowsaheku,stranger
+265-524,trin1274,http://concepticon.clld.org/parameters/1897,im'katako,"help, aid"
+265-282,trin1274,http://concepticon.clld.org/parameters/1423,eʔroriko,fight (vb)
+265-835,trin1274,http://concepticon.clld.org/parameters/994,aaku,bow
+265-511,trin1274,http://concepticon.clld.org/parameters/994,ec̷pooku,bow
+265-350,trin1274,http://concepticon.clld.org/parameters/977,-taɣriɣi,arrow
+265-202,trin1274,http://concepticon.clld.org/parameters/977,taɣiɣire,arrow
+265-98,trin1274,http://concepticon.clld.org/parameters/1330,-kotʸučo,defend
+265-685,trin1274,http://concepticon.clld.org/parameters/1074,ʔniiwe,fishhook
+265-471,trin1274,http://concepticon.clld.org/parameters/1074,-enrowe,fishhook
+265-88,trin1274,http://concepticon.clld.org/parameters/19,enripi,fishing line
+265-727,trin1274,http://concepticon.clld.org/parameters/388,ytaʔe -'yutaʔe,fishnet
+265-224,trin1274,http://concepticon.clld.org/parameters/2013,enrihi,bait
+265-71,trin1274,http://concepticon.clld.org/parameters/1435,-kaseko,hunt
+265-168,trin1274,http://concepticon.clld.org/parameters/1172,-yuko,shoot
+265-681,trin1274,http://concepticon.clld.org/parameters/1172,-yukriʔi,shoot
+265-321,trin1274,http://concepticon.clld.org/parameters/1062,-woniipi,law
+265-419,trin1274,http://concepticon.clld.org/parameters/713,-'omečo,steal
+265-330,trin1274,http://concepticon.clld.org/parameters/1160,-omeraʔi,thief
+265-504,trin1274,http://concepticon.clld.org/parameters/1944,wiya,God
+265-379,trin1274,http://concepticon.clld.org/parameters/911,[ʔresya],"temple, church"
+265-228,trin1274,http://concepticon.clld.org/parameters/852,[paʔi],priest
+265-481,trin1274,http://concepticon.clld.org/parameters/303,ihmo,fast (vb)
+265-698,trin1274,http://concepticon.clld.org/parameters/1565,anumo,heaven

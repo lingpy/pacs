@@ -1,0 +1,526 @@
+ID,Language_ID,Feature_ID,Value,Concept
+295-413,kara1500,http://concepticon.clld.org/parameters/965,bəde,world
+295-118,kara1500,http://concepticon.clld.org/parameters/626,su,"earth, land"
+295-57,kara1500,http://concepticon.clld.org/parameters/1228,tɨti (?),"earth=ground, soil"
+295-384,kara1500,http://concepticon.clld.org/parameters/2,brɨbɨ-si,dust
+295-171,kara1500,http://concepticon.clld.org/parameters/640,su-bərɔrɔ,mud
+295-77,kara1500,http://concepticon.clld.org/parameters/671,ɨ̃nɨra,sand
+295-68,kara1500,http://concepticon.clld.org/parameters/2118,hãwãlɔ,"mountain, hill"
+295-492,kara1500,http://concepticon.clld.org/parameters/618,iǰoti,"cliff, precipice"
+295-89,kara1500,http://concepticon.clld.org/parameters/652,bədero,"plain, field"
+295-326,kara1500,http://concepticon.clld.org/parameters/113,iǰəti (?),shore
+295-424,kara1500,http://concepticon.clld.org/parameters/948,be,water
+295-463,kara1500,http://concepticon.clld.org/parameters/948,bera,water
+295-447,kara1500,http://concepticon.clld.org/parameters/624,aho,lake
+295-291,kara1500,http://concepticon.clld.org/parameters/624,sɨraru,lake
+295-83,kara1500,http://concepticon.clld.org/parameters/978,əbɔ,wave
+295-100,kara1500,http://concepticon.clld.org/parameters/666,be-ro,"river, stream, brook"
+295-329,kara1500,http://concepticon.clld.org/parameters/666,əsetere,"river, stream, brook"
+295-156,kara1500,http://concepticon.clld.org/parameters/666,teɨ,"river, stream, brook"
+295-6,kara1500,http://concepticon.clld.org/parameters/420,bədiu,"woods, forest"
+295-194,kara1500,http://concepticon.clld.org/parameters/906,ɔwɔru,tree (cf 08.600)
+295-221,kara1500,http://concepticon.clld.org/parameters/2125,mɨna,"stone, rock"
+295-220,kara1500,http://concepticon.clld.org/parameters/1732,biu-wetɔkɨ,sky
+295-295,kara1500,http://concepticon.clld.org/parameters/1343,čuu,sun
+295-371,kara1500,http://concepticon.clld.org/parameters/1430,taina,star
+295-417,kara1500,http://concepticon.clld.org/parameters/11,uru-nɨ,darkness
+295-461,kara1500,http://concepticon.clld.org/parameters/1388,ubərɔrɔ,"shade, shadow"
+295-95,kara1500,http://concepticon.clld.org/parameters/960,ɨhɨ,wind
+295-454,kara1500,http://concepticon.clld.org/parameters/249,nonoe,fog
+295-383,kara1500,http://concepticon.clld.org/parameters/658,biu,rain (noun)
+295-467,kara1500,http://concepticon.clld.org/parameters/658,nanaɨ,rain (noun)
+295-9,kara1500,http://concepticon.clld.org/parameters/221,heɔtɨ,fire
+295-438,kara1500,http://concepticon.clld.org/parameters/778,ɔti,smoke (noun)
+295-307,kara1500,http://concepticon.clld.org/parameters/646,brɨbɨ,ashes
+295-120,kara1500,http://concepticon.clld.org/parameters/141,so,burn (vb trans)
+295-84,kara1500,http://concepticon.clld.org/parameters/737,woro,"light, kindle, ignite"
+295-345,kara1500,http://concepticon.clld.org/parameters/683,inɨ,"person, human being"
+295-498,kara1500,http://concepticon.clld.org/parameters/1554,hãbu,man (vs. woman)
+295-198,kara1500,http://concepticon.clld.org/parameters/962,hãwɨɨ,woman
+295-23,kara1500,http://concepticon.clld.org/parameters/1366,werɨrɨ (?),boy
+295-152,kara1500,http://concepticon.clld.org/parameters/76,werɨrɨ-bɔ,young man (adolescent)
+295-314,kara1500,http://concepticon.clld.org/parameters/1646,hirari,girl
+295-74,kara1500,http://concepticon.clld.org/parameters/1304,uladu,child
+295-250,kara1500,http://concepticon.clld.org/parameters/1289,tohouɨ̃,"infant, baby"
+295-39,kara1500,http://concepticon.clld.org/parameters/203,heri,marry
+295-168,kara1500,http://concepticon.clld.org/parameters/1217,təbɨ,father
+295-379,kara1500,http://concepticon.clld.org/parameters/1217,waha,father
+295-389,kara1500,http://concepticon.clld.org/parameters/1216,adi,mother
+295-449,kara1500,http://concepticon.clld.org/parameters/1216,tadi,mother
+295-183,kara1500,http://concepticon.clld.org/parameters/1216,ise,mother
+295-41,kara1500,http://concepticon.clld.org/parameters/1620,dəə,son
+295-480,kara1500,http://concepticon.clld.org/parameters/1357,deei,daughter
+295-17,kara1500,http://concepticon.clld.org/parameters/1759,dela,older brother
+295-344,kara1500,http://concepticon.clld.org/parameters/1759,umɨ-dela,older brother
+295-7,kara1500,http://concepticon.clld.org/parameters/1760,iheruše,younger brother
+295-196,kara1500,http://concepticon.clld.org/parameters/1263,erɨ̃,sister
+295-477,kara1500,http://concepticon.clld.org/parameters/1383,labie,grandfather
+295-310,kara1500,http://concepticon.clld.org/parameters/406,nɨrɨ̃,old man
+295-335,kara1500,http://concepticon.clld.org/parameters/1496,lahi,grandmother
+295-502,kara1500,http://concepticon.clld.org/parameters/1327,wɨlana,uncle
+295-92,kara1500,http://concepticon.clld.org/parameters/1984,laǰirə,mother's brother
+295-501,kara1500,http://concepticon.clld.org/parameters/1272,lana,aunt
+295-172,kara1500,http://concepticon.clld.org/parameters/1642,ra,niece
+295-144,kara1500,http://concepticon.clld.org/parameters/2267,raləbɨ,son-in-law (of a man)
+295-144,kara1500,http://concepticon.clld.org/parameters/2266,raləbɨ,son-in-law (of a woman)
+295-33,kara1500,http://concepticon.clld.org/parameters/1756,wɨtese,widow
+295-60,kara1500,http://concepticon.clld.org/parameters/194,sɨ̃,family
+295-308,kara1500,http://concepticon.clld.org/parameters/194,lədu (?),family
+295-249,kara1500,http://concepticon.clld.org/parameters/1209,ǰiarɨ̃,I
+295-422,kara1500,http://concepticon.clld.org/parameters/1215,kai,you (singular)
+295-489,kara1500,http://concepticon.clld.org/parameters/262,tii,he/she/it
+295-345,kara1500,http://concepticon.clld.org/parameters/1131,inɨ,we (inclusive)
+295-193,kara1500,http://concepticon.clld.org/parameters/619,irɔdu,animal
+295-104,kara1500,http://concepticon.clld.org/parameters/1007,broreni,cow
+295-111,kara1500,http://concepticon.clld.org/parameters/1331,budɔe-ni,sheep
+295-213,kara1500,http://concepticon.clld.org/parameters/1337,išɨ̃,pig
+295-145,kara1500,http://concepticon.clld.org/parameters/615,[awaru],horse (equine)
+295-356,kara1500,http://concepticon.clld.org/parameters/1511,hãnie-hãbu,"cock, rooster"
+295-323,kara1500,http://concepticon.clld.org/parameters/1514,hãnie,hen
+295-202,kara1500,http://concepticon.clld.org/parameters/937,nawii,bird
+295-466,kara1500,http://concepticon.clld.org/parameters/307,hire,hawk
+295-130,kara1500,http://concepticon.clld.org/parameters/882,dɔre,parrot
+295-313,kara1500,http://concepticon.clld.org/parameters/1853,urasaha (ura-saha ?),dove
+295-226,kara1500,http://concepticon.clld.org/parameters/735,tori-tori,owl
+295-124,kara1500,http://concepticon.clld.org/parameters/2009,iǰɔrɔ-sa,dog
+295-258,kara1500,http://concepticon.clld.org/parameters/1208,hãloeni,cat
+295-3,kara1500,http://concepticon.clld.org/parameters/2139,lawahakɨ̃,"mouse, rat"
+295-368,kara1500,http://concepticon.clld.org/parameters/227,ətora,fish
+295-284,kara1500,http://concepticon.clld.org/parameters/1312,iǰɔrɔ,fox
+295-506,kara1500,http://concepticon.clld.org/parameters/1936,brɔre,deer
+295-333,kara1500,http://concepticon.clld.org/parameters/1350,ərɔbi,monkey
+295-112,kara1500,http://concepticon.clld.org/parameters/310,təburu,louse
+295-491,kara1500,http://concepticon.clld.org/parameters/843,očuruku (?),spider
+295-377,kara1500,http://concepticon.clld.org/parameters/1509,mərõra,mosquito
+295-78,kara1500,http://concepticon.clld.org/parameters/1509,mɨrõra,mosquito
+295-336,kara1500,http://concepticon.clld.org/parameters/1219,woudɔ,worm
+295-131,kara1500,http://concepticon.clld.org/parameters/730,hemɨlala,snake
+295-471,kara1500,http://concepticon.clld.org/parameters/1791,očiša,butterfly
+295-280,kara1500,http://concepticon.clld.org/parameters/1543,brobure,snail
+295-320,kara1500,http://concepticon.clld.org/parameters/503,ərɔ,frog
+295-140,kara1500,http://concepticon.clld.org/parameters/632,iǰare,lizard
+295-452,kara1500,http://concepticon.clld.org/parameters/1857,abɔrɔrɔ,"crocodile, alligator"
+295-141,kara1500,http://concepticon.clld.org/parameters/1857,ɔrera,"crocodile, alligator"
+295-437,kara1500,http://concepticon.clld.org/parameters/112,ɔtu,turtle
+295-190,kara1500,http://concepticon.clld.org/parameters/112,ɔtuni,turtle
+295-294,kara1500,http://concepticon.clld.org/parameters/1480,umɨ,body
+295-325,kara1500,http://concepticon.clld.org/parameters/763,tɨ,"skin, hide"
+295-430,kara1500,http://concepticon.clld.org/parameters/1040,ra-de,hair (head)
+295-459,kara1500,http://concepticon.clld.org/parameters/678,iǰɔsiri (?),beard
+295-181,kara1500,http://concepticon.clld.org/parameters/946,hãləbu,blood
+295-71,kara1500,http://concepticon.clld.org/parameters/1394,ti,bone
+295-352,kara1500,http://concepticon.clld.org/parameters/801,wiči,rib
+295-406,kara1500,http://concepticon.clld.org/parameters/1220,nohewɔru,tail
+295-397,kara1500,http://concepticon.clld.org/parameters/1220,tõhewɔru,tail
+295-155,kara1500,http://concepticon.clld.org/parameters/1291,bərɔ,back
+295-172,kara1500,http://concepticon.clld.org/parameters/1256,ra,head
+295-178,kara1500,http://concepticon.clld.org/parameters/1256,ra-ti,head
+295-388,kara1500,http://concepticon.clld.org/parameters/1560,ɔsana,face
+295-276,kara1500,http://concepticon.clld.org/parameters/123,ɔru,forehead
+295-462,kara1500,http://concepticon.clld.org/parameters/1730,i-ɔde,cheek
+295-5,kara1500,http://concepticon.clld.org/parameters/1730,ɔde,cheek
+295-428,kara1500,http://concepticon.clld.org/parameters/1248,rue,eye
+295-245,kara1500,http://concepticon.clld.org/parameters/1247,nohõti,ear
+295-253,kara1500,http://concepticon.clld.org/parameters/1221,deiãsɨ̃,nose
+295-11,kara1500,http://concepticon.clld.org/parameters/674,irɨ,mouth
+295-38,kara1500,http://concepticon.clld.org/parameters/674,rɨ,mouth
+295-157,kara1500,http://concepticon.clld.org/parameters/478,iǰeti,lip
+295-185,kara1500,http://concepticon.clld.org/parameters/1205,dɔrɔtɔ (?),tongue
+295-21,kara1500,http://concepticon.clld.org/parameters/1380,ǰuu,tooth
+295-295,kara1500,http://concepticon.clld.org/parameters/1380,čuu,tooth
+295-350,kara1500,http://concepticon.clld.org/parameters/1333,lɔti,neck
+295-236,kara1500,http://concepticon.clld.org/parameters/1482,ašiɔ-ti,shoulder
+295-251,kara1500,http://concepticon.clld.org/parameters/1673,ašiɔ,arm
+295-441,kara1500,http://concepticon.clld.org/parameters/1277,debɔ,hand
+295-283,kara1500,http://concepticon.clld.org/parameters/1277,tebɔ,hand
+295-441,kara1500,http://concepticon.clld.org/parameters/1303,debɔ,finger
+295-272,kara1500,http://concepticon.clld.org/parameters/1258,dešiɔ,fingernail
+295-36,kara1500,http://concepticon.clld.org/parameters/1371,(?) (d?i-)ɔho,knee
+295-298,kara1500,http://concepticon.clld.org/parameters/1301,wa,foot
+295-256,kara1500,http://concepticon.clld.org/parameters/1257,deratɨti,wing
+295-396,kara1500,http://concepticon.clld.org/parameters/1592,lɔɨ,chest
+295-26,kara1500,http://concepticon.clld.org/parameters/1402,howɨ̃,breast (of woman)
+295-219,kara1500,http://concepticon.clld.org/parameters/1223,telesõ,heart
+295-105,kara1500,http://concepticon.clld.org/parameters/1224,maa,liver
+295-54,kara1500,http://concepticon.clld.org/parameters/1991,werɨri,"intestines, guts"
+295-297,kara1500,http://concepticon.clld.org/parameters/1681,we,waist
+295-484,kara1500,http://concepticon.clld.org/parameters/1222,no,penis
+295-386,kara1500,http://concepticon.clld.org/parameters/1407,ele,"breathe, breath"
+295-169,kara1500,http://concepticon.clld.org/parameters/1440,rɨ-beši,spit
+295-180,kara1500,http://concepticon.clld.org/parameters/1440,dɔrɔtɔiǰera,spit
+295-134,kara1500,http://concepticon.clld.org/parameters/1278,ahɨlɔi,vomit
+295-427,kara1500,http://concepticon.clld.org/parameters/1403,rua,bite
+295-264,kara1500,http://concepticon.clld.org/parameters/1403,urua,bite
+295-439,kara1500,http://concepticon.clld.org/parameters/1585,õrõ,sleep
+295-1,kara1500,http://concepticon.clld.org/parameters/1585,ron,sleep
+295-150,kara1500,http://concepticon.clld.org/parameters/1585,rõrõ-,sleep
+295-192,kara1500,http://concepticon.clld.org/parameters/1785,rora ['visit' ?],have sexual intercourse
+295-12,kara1500,http://concepticon.clld.org/parameters/138,səbe-nɨ,bathe
+295-289,kara1500,http://concepticon.clld.org/parameters/1422,iru,"live, living, life"
+295-241,kara1500,http://concepticon.clld.org/parameters/1494,uru,"die, dead"
+295-163,kara1500,http://concepticon.clld.org/parameters/1417,rəbu,kill
+295-217,kara1500,http://concepticon.clld.org/parameters/785,orəko,"strong, mighty, powerful"
+295-360,kara1500,http://concepticon.clld.org/parameters/1109,soru-nɨ,"wound, sore"
+295-18,kara1500,http://concepticon.clld.org/parameters/1903,atarinɨ,swelling
+295-208,kara1500,http://concepticon.clld.org/parameters/499,teɨte-nɨ,"cure, heal"
+295-200,kara1500,http://concepticon.clld.org/parameters/597,ɔhotibedu,physician
+295-85,kara1500,http://concepticon.clld.org/parameters/1372,loahi,"medicine, drug"
+295-303,kara1500,http://concepticon.clld.org/parameters/1372,mona,"medicine, drug"
+295-232,kara1500,http://concepticon.clld.org/parameters/1757,ituede,"tired, weary"
+295-429,kara1500,http://concepticon.clld.org/parameters/168,elehɨnɨ,rest
+295-126,kara1500,http://concepticon.clld.org/parameters/1653,tə,blind
+295-398,kara1500,http://concepticon.clld.org/parameters/1336,ɨ,eat
+295-299,kara1500,http://concepticon.clld.org/parameters/1336,iɔwe,eat
+295-34,kara1500,http://concepticon.clld.org/parameters/1336,roši,eat
+295-50,kara1500,http://concepticon.clld.org/parameters/1336,-kɨ-,eat
+295-380,kara1500,http://concepticon.clld.org/parameters/256,bɔre,food
+295-391,kara1500,http://concepticon.clld.org/parameters/256,hetɨ,food
+295-211,kara1500,http://concepticon.clld.org/parameters/178,sɔ-nɨ,ripe
+295-405,kara1500,http://concepticon.clld.org/parameters/1728,irɔ,rotten
+295-63,kara1500,http://concepticon.clld.org/parameters/1401,-õ-,drink
+295-81,kara1500,http://concepticon.clld.org/parameters/1533,rəma,hunger
+295-127,kara1500,http://concepticon.clld.org/parameters/1421,tɔ,suck
+295-42,kara1500,http://concepticon.clld.org/parameters/1100,hera,cook
+295-136,kara1500,http://concepticon.clld.org/parameters/1100,idere,cook
+295-468,kara1500,http://concepticon.clld.org/parameters/1462,buči,"pot, cooking vessel"
+295-177,kara1500,http://concepticon.clld.org/parameters/480,alɔsena,plate
+295-189,kara1500,http://concepticon.clld.org/parameters/1378,ətara,spoon
+295-507,kara1500,http://concepticon.clld.org/parameters/1302,tesewa,fork (2)
+295-497,kara1500,http://concepticon.clld.org/parameters/86,owičə,"sieve, strain"
+295-242,kara1500,http://concepticon.clld.org/parameters/2017,sɨ,"stir, mix"
+295-436,kara1500,http://concepticon.clld.org/parameters/1594,iǰərena,"meal, flour"
+295-443,kara1500,http://concepticon.clld.org/parameters/225,owo,pestle
+295-88,kara1500,http://concepticon.clld.org/parameters/634,dee,meat
+295-22,kara1500,http://concepticon.clld.org/parameters/1547,iweru,"soup, broth"
+295-478,kara1500,http://concepticon.clld.org/parameters/832,ɔmɨta,bean
+295-99,kara1500,http://concepticon.clld.org/parameters/1507,bəderatɨ,fruit
+295-348,kara1500,http://concepticon.clld.org/parameters/1484,ɔlɨ̃re,oil
+295-337,kara1500,http://concepticon.clld.org/parameters/323,deni-deni (?),"grease, fat"
+295-59,kara1500,http://concepticon.clld.org/parameters/1274,ǰuwɨra,salt
+295-90,kara1500,http://concepticon.clld.org/parameters/1274,ǰɨra,salt
+295-286,kara1500,http://concepticon.clld.org/parameters/1385,ašiwera,pepper
+295-411,kara1500,http://concepticon.clld.org/parameters/942,bədi,honey
+295-184,kara1500,http://concepticon.clld.org/parameters/635,howɨ̃-sɨ,milk (noun)
+295-119,kara1500,http://concepticon.clld.org/parameters/744,si,egg
+295-365,kara1500,http://concepticon.clld.org/parameters/158,tɨɨ-nɨ,put on (clothes)
+295-334,kara1500,http://concepticon.clld.org/parameters/1850,esõde,cotton
+295-94,kara1500,http://concepticon.clld.org/parameters/1457,oretɨ,sew
+295-244,kara1500,http://concepticon.clld.org/parameters/1161,esõ,thread
+295-10,kara1500,http://concepticon.clld.org/parameters/1622,dera,shirt
+295-14,kara1500,http://concepticon.clld.org/parameters/1622,nore,shirt
+295-240,kara1500,http://concepticon.clld.org/parameters/1600,ɨɨ,skirt
+295-476,kara1500,http://concepticon.clld.org/parameters/809,ruu (?),trousers
+295-300,kara1500,http://concepticon.clld.org/parameters/772,were-ɨsana,"belt, girdle"
+295-394,kara1500,http://concepticon.clld.org/parameters/917,õhõtisana,"ornament, adornment"
+295-306,kara1500,http://concepticon.clld.org/parameters/1754,deši,bracelet
+295-394,kara1500,http://concepticon.clld.org/parameters/770,õhõtisana,earring
+295-363,kara1500,http://concepticon.clld.org/parameters/68,ɔmarurə,tattoo
+295-229,kara1500,http://concepticon.clld.org/parameters/1475,sihɔ-nɨ,comb
+295-318,kara1500,http://concepticon.clld.org/parameters/1821,irurinɨ,brush
+295-364,kara1500,http://concepticon.clld.org/parameters/1099,isɨ̃,"dwell, live"
+295-270,kara1500,http://concepticon.clld.org/parameters/1252,heto,house
+295-369,kara1500,http://concepticon.clld.org/parameters/408,iǰoi (?),men's house
+295-395,kara1500,http://concepticon.clld.org/parameters/1567,iǰɔtəbɔna,"door, gate"
+295-265,kara1500,http://concepticon.clld.org/parameters/1464,ɔwɔna,ladder
+295-277,kara1500,http://concepticon.clld.org/parameters/1663,heri-na,bed
+295-290,kara1500,http://concepticon.clld.org/parameters/1044,rahɨna,pillow
+295-391,kara1500,http://concepticon.clld.org/parameters/806,hetɨ,blanket
+295-101,kara1500,http://concepticon.clld.org/parameters/1476,rɨnana (?),chair
+295-421,kara1500,http://concepticon.clld.org/parameters/1227,iǰə,board
+295-224,kara1500,http://concepticon.clld.org/parameters/1541,oworu,"cultivate, till"
+295-347,kara1500,http://concepticon.clld.org/parameters/1418,ia,dig
+295-30,kara1500,http://concepticon.clld.org/parameters/284,bərure,hoe
+295-431,kara1500,http://concepticon.clld.org/parameters/714,lɔbərɔna,seed
+295-325,kara1500,http://concepticon.clld.org/parameters/714,tɨ,seed
+295-188,kara1500,http://concepticon.clld.org/parameters/506,mai,"maize, corn"
+295-354,kara1500,http://concepticon.clld.org/parameters/926,maišəmo,rice
+295-176,kara1500,http://concepticon.clld.org/parameters/606,asi,grass
+295-268,kara1500,http://concepticon.clld.org/parameters/653,bɔrɔ,plant (noun)
+295-231,kara1500,http://concepticon.clld.org/parameters/239,noiǰesa,flower
+295-121,kara1500,http://concepticon.clld.org/parameters/1689,wədəsi,smoke (tobacco)
+295-275,kara1500,http://concepticon.clld.org/parameters/344,ɔ,tree trunk
+295-138,kara1500,http://concepticon.clld.org/parameters/345,bru (?),sap
+295-407,kara1500,http://concepticon.clld.org/parameters/159,ɔteroti,sweet potato
+295-191,kara1500,http://concepticon.clld.org/parameters/925,ɨ̃ǰiura,"tapioca, manioc, cassava"
+295-98,kara1500,http://concepticon.clld.org/parameters/411,aǰurɔna,gourd
+295-238,kara1500,http://concepticon.clld.org/parameters/864,tɔera,"pumpkin, squash"
+295-103,kara1500,http://concepticon.clld.org/parameters/146,maiti,sugar cane
+295-361,kara1500,http://concepticon.clld.org/parameters/33,mɨta,nettle
+295-4,kara1500,http://concepticon.clld.org/parameters/813,otəɨnɨ,"do, make"
+295-490,kara1500,http://concepticon.clld.org/parameters/984,aõmɨsɨ̃dəɨ̃,work
+295-296,kara1500,http://concepticon.clld.org/parameters/1917,tɨ̃te-nɨ,"tie, bind"
+295-400,kara1500,http://concepticon.clld.org/parameters/352,əsenɨ,untie
+295-61,kara1500,http://concepticon.clld.org/parameters/1218,reroti,"rope, cord"
+295-455,kara1500,http://concepticon.clld.org/parameters/1218,lɔɨsana (?),"rope, cord"
+295-331,kara1500,http://concepticon.clld.org/parameters/760,ratisa (?),knot (noun)
+295-233,kara1500,http://concepticon.clld.org/parameters/2133,bete,"strike (hit, beat)"
+295-297,kara1500,http://concepticon.clld.org/parameters/2133,we,"strike (hit, beat)"
+295-234,kara1500,http://concepticon.clld.org/parameters/1352,maɨ,knife
+295-445,kara1500,http://concepticon.clld.org/parameters/680,əro,break
+295-97,kara1500,http://concepticon.clld.org/parameters/1437,abɨnɨ,split
+295-288,kara1500,http://concepticon.clld.org/parameters/1437,čua,split
+295-481,kara1500,http://concepticon.clld.org/parameters/1449,ešiɔka (?),"rub, wipe"
+295-255,kara1500,http://concepticon.clld.org/parameters/1455,irurehe,pull
+295-158,kara1500,http://concepticon.clld.org/parameters/1414,irarɨčɨnɨ,"squeeze, wring"
+295-458,kara1500,http://concepticon.clld.org/parameters/1487,ǰušu,pour
+295-46,kara1500,http://concepticon.clld.org/parameters/1501,roro,bore
+295-66,kara1500,http://concepticon.clld.org/parameters/1501,rure,bore
+295-79,kara1500,http://concepticon.clld.org/parameters/1069,išiura,glue
+295-293,kara1500,http://concepticon.clld.org/parameters/1539,behɨra,basket
+295-278,kara1500,http://concepticon.clld.org/parameters/1539,lala,basket
+295-412,kara1500,http://concepticon.clld.org/parameters/195,bɨre,mat
+295-91,kara1500,http://concepticon.clld.org/parameters/647,worəna,paint (noun)
+295-273,kara1500,http://concepticon.clld.org/parameters/1445,abuare,turn around
+295-35,kara1500,http://concepticon.clld.org/parameters/827,iwɨrinɨ,roll
+295-470,kara1500,http://concepticon.clld.org/parameters/501,otəmanɨ,"raise, lift"
+295-201,kara1500,http://concepticon.clld.org/parameters/1456,sihe,throw
+295-16,kara1500,http://concepticon.clld.org/parameters/1456,ta,throw
+295-228,kara1500,http://concepticon.clld.org/parameters/1909,mɨtɨta-mɨtɨta,shake
+295-311,kara1500,http://concepticon.clld.org/parameters/1439,obunɨ,swim
+295-475,kara1500,http://concepticon.clld.org/parameters/1441,ɔhɔ,fly (vb)
+295-20,kara1500,http://concepticon.clld.org/parameters/1441,uwo,fly (vb)
+295-106,kara1500,http://concepticon.clld.org/parameters/175,ibunɨ,blow
+295-387,kara1500,http://concepticon.clld.org/parameters/96,tira-nɨ,"creep, crawl"
+295-263,kara1500,http://concepticon.clld.org/parameters/66,tiowoti-nɨ,kneel
+295-110,kara1500,http://concepticon.clld.org/parameters/1879,iše,dance
+295-123,kara1500,http://concepticon.clld.org/parameters/1879,se,dance
+295-416,kara1500,http://concepticon.clld.org/parameters/1443,rira-nɨ,walk
+295-115,kara1500,http://concepticon.clld.org/parameters/1519,iǰəra,run
+295-488,kara1500,http://concepticon.clld.org/parameters/705,aõwõnɨ,go up
+295-485,kara1500,http://concepticon.clld.org/parameters/1446,na,come
+295-424,kara1500,http://concepticon.clld.org/parameters/581,be,come back
+295-269,kara1500,http://concepticon.clld.org/parameters/581,ibuare,come back
+295-374,kara1500,http://concepticon.clld.org/parameters/581,ɔɔse,come back
+295-339,kara1500,http://concepticon.clld.org/parameters/581,rehenɨ,come back
+295-292,kara1500,http://concepticon.clld.org/parameters/1752,iri,"go away, depart"
+295-409,kara1500,http://concepticon.clld.org/parameters/1752,ɔhɔ-nɨ,"go away, depart"
+295-319,kara1500,http://concepticon.clld.org/parameters/956,henɨ,flee
+295-109,kara1500,http://concepticon.clld.org/parameters/1387,hemɨnɨ,"reach, arrive"
+295-133,kara1500,http://concepticon.clld.org/parameters/749,lo,enter
+295-227,kara1500,http://concepticon.clld.org/parameters/749,rɔte,enter
+295-392,kara1500,http://concepticon.clld.org/parameters/700,dɨ,carry (bear)
+295-146,kara1500,http://concepticon.clld.org/parameters/1127,iteɔ,send
+295-274,kara1500,http://concepticon.clld.org/parameters/741,iretɨ̃hi,drive
+295-499,kara1500,http://concepticon.clld.org/parameters/1452,itorunɨ,"push, shove"
+295-38,kara1500,http://concepticon.clld.org/parameters/667,rɨ,road
+295-38,kara1500,http://concepticon.clld.org/parameters/2252,rɨ,path
+295-285,kara1500,http://concepticon.clld.org/parameters/1970,hãwɔ,canoe
+295-107,kara1500,http://concepticon.clld.org/parameters/1970,lawɔ,canoe
+295-262,kara1500,http://concepticon.clld.org/parameters/234,narihi,paddle (noun)
+295-73,kara1500,http://concepticon.clld.org/parameters/610,beə,"harbor, port"
+295-24,kara1500,http://concepticon.clld.org/parameters/684,hõrõ,"own, possess"
+295-210,kara1500,http://concepticon.clld.org/parameters/694,mɨ,"get, obtain"
+295-453,kara1500,http://concepticon.clld.org/parameters/1477,həkɨ̃na,"keep, retain"
+295-165,kara1500,http://concepticon.clld.org/parameters/738,aõ,thing
+295-341,kara1500,http://concepticon.clld.org/parameters/1447,õ,give
+295-375,kara1500,http://concepticon.clld.org/parameters/1447,wahi,give
+295-450,kara1500,http://concepticon.clld.org/parameters/681,ahu,destroy
+295-500,kara1500,http://concepticon.clld.org/parameters/1468,e,"seek, look for"
+295-349,kara1500,http://concepticon.clld.org/parameters/1468,ie,"seek, look for"
+295-282,kara1500,http://concepticon.clld.org/parameters/1468,iǰe,"seek, look for"
+295-464,kara1500,http://concepticon.clld.org/parameters/719,ha,find
+295-355,kara1500,http://concepticon.clld.org/parameters/1559,nieru,money
+295-230,kara1500,http://concepticon.clld.org/parameters/1674,urimɨnodu,poor
+295-67,kara1500,http://concepticon.clld.org/parameters/582,hoɔte,lend
+295-195,kara1500,http://concepticon.clld.org/parameters/2135,ibɨnɨ,"trade, barter"
+295-446,kara1500,http://concepticon.clld.org/parameters/657,ɔwɨ,price
+295-465,kara1500,http://concepticon.clld.org/parameters/1685,he,after
+295-108,kara1500,http://concepticon.clld.org/parameters/1882,lau,before
+295-239,kara1500,http://concepticon.clld.org/parameters/1019,ko,front
+295-237,kara1500,http://concepticon.clld.org/parameters/1606,ki,"inside, in"
+295-173,kara1500,http://concepticon.clld.org/parameters/1606,ro,"inside, in"
+295-487,kara1500,http://concepticon.clld.org/parameters/762,ahana,outside
+295-143,kara1500,http://concepticon.clld.org/parameters/215,aədɔnɨ,lie down
+295-114,kara1500,http://concepticon.clld.org/parameters/1442,ɨni,stand
+295-87,kara1500,http://concepticon.clld.org/parameters/7,botunɨ,"collect, gather"
+295-343,kara1500,http://concepticon.clld.org/parameters/1119,hɔnɨ,divide
+295-419,kara1500,http://concepticon.clld.org/parameters/1156,iǰɔ,open
+295-473,kara1500,http://concepticon.clld.org/parameters/1046,iɔhɔ,"shut, close"
+295-324,kara1500,http://concepticon.clld.org/parameters/761,hetɨ-nɨ,cover
+295-187,kara1500,http://concepticon.clld.org/parameters/602,wasi,"hide, conceal"
+295-366,kara1500,http://concepticon.clld.org/parameters/742,kie,end
+295-218,kara1500,http://concepticon.clld.org/parameters/682,iɨre,side
+295-247,kara1500,http://concepticon.clld.org/parameters/1093,tɨa,"middle, center"
+295-212,kara1500,http://concepticon.clld.org/parameters/1093,were,"middle, center"
+295-15,kara1500,http://concepticon.clld.org/parameters/1019,ruruna-rəbi,right (side)
+295-27,kara1500,http://concepticon.clld.org/parameters/244,hɨwe-rəbi,left (side)
+295-222,kara1500,http://concepticon.clld.org/parameters/1942,ɔtitɨ,near (adv)
+295-346,kara1500,http://concepticon.clld.org/parameters/1406,irehe,far (adv)
+295-312,kara1500,http://concepticon.clld.org/parameters/1595,bɔɔ,south
+295-70,kara1500,http://concepticon.clld.org/parameters/479,təbie-nɨ,grow
+295-357,kara1500,http://concepticon.clld.org/parameters/1202,təbɨhɨkɨ̃,"large, big"
+295-359,kara1500,http://concepticon.clld.org/parameters/1246,iɨǰa,"small, little"
+295-31,kara1500,http://concepticon.clld.org/parameters/1246,i-ɨla,"small, little"
+295-415,kara1500,http://concepticon.clld.org/parameters/1246,səmo,"small, little"
+295-225,kara1500,http://concepticon.clld.org/parameters/1267,ibuču,narrow
+295-316,kara1500,http://concepticon.clld.org/parameters/1400,deɔ̃dəɨ̃nanɨ,thin (in dimension)
+295-149,kara1500,http://concepticon.clld.org/parameters/1593,weluu,deep
+295-456,kara1500,http://concepticon.clld.org/parameters/1404,ɔbiti-nɨ,straight
+295-414,kara1500,http://concepticon.clld.org/parameters/1404,ɔbiti,straight
+295-404,kara1500,http://concepticon.clld.org/parameters/1071,waši (?),hook
+295-132,kara1500,http://concepticon.clld.org/parameters/1395,i-webəse,round
+295-451,kara1500,http://concepticon.clld.org/parameters/1467,rurawo,circle
+295-154,kara1500,http://concepticon.clld.org/parameters/1667,hãloo,hole
+295-139,kara1500,http://concepticon.clld.org/parameters/1558,wəse,"like, similar"
+295-125,kara1500,http://concepticon.clld.org/parameters/1515,sohoǰi,one
+295-64,kara1500,http://concepticon.clld.org/parameters/1498,inači,two
+295-494,kara1500,http://concepticon.clld.org/parameters/492,inataõ,three
+295-457,kara1500,http://concepticon.clld.org/parameters/1500,inaubiɔwa,four
+295-96,kara1500,http://concepticon.clld.org/parameters/493,iruɨre,five
+295-382,kara1500,http://concepticon.clld.org/parameters/1703,debɔsohoǰi,six
+295-13,kara1500,http://concepticon.clld.org/parameters/1420,aria,count
+295-204,kara1500,http://concepticon.clld.org/parameters/98,butu,"every, all"
+295-151,kara1500,http://concepticon.clld.org/parameters/1198,sõwe,"much, many"
+295-243,kara1500,http://concepticon.clld.org/parameters/1992,wɨna,more
+295-393,kara1500,http://concepticon.clld.org/parameters/1242,ibute,"little (quantity), few"
+295-433,kara1500,http://concepticon.clld.org/parameters/1881,šãwi,enough
+295-44,kara1500,http://concepticon.clld.org/parameters/1429,hɨdɨnɨ,full
+295-142,kara1500,http://concepticon.clld.org/parameters/1429,tɨ̃ši,full
+295-148,kara1500,http://concepticon.clld.org/parameters/779,əre,"part, piece"
+295-469,kara1500,http://concepticon.clld.org/parameters/1580,urile,"alone, only"
+295-483,kara1500,http://concepticon.clld.org/parameters/1529,ikona,last
+295-166,kara1500,http://concepticon.clld.org/parameters/1231,itɨ̃mɨra,new
+295-128,kara1500,http://concepticon.clld.org/parameters/1229,iheči,old
+295-408,kara1500,http://concepticon.clld.org/parameters/1229,matuari,old
+295-161,kara1500,http://concepticon.clld.org/parameters/477,roorehe-nɨ,late
+295-48,kara1500,http://concepticon.clld.org/parameters/1376,wiǰi,now
+295-45,kara1500,http://concepticon.clld.org/parameters/1631,wɨ,"swift, fast, quick"
+295-160,kara1500,http://concepticon.clld.org/parameters/754,eledəɨ̃,"hasten, hurry"
+295-153,kara1500,http://concepticon.clld.org/parameters/1186,tere,"last, endure"
+295-182,kara1500,http://concepticon.clld.org/parameters/1766,mahãdunɨ,finish
+295-137,kara1500,http://concepticon.clld.org/parameters/1766,ɔbɨ,finish
+295-174,kara1500,http://concepticon.clld.org/parameters/1676,urena,always
+295-159,kara1500,http://concepticon.clld.org/parameters/204,išəbɨ,again
+295-62,kara1500,http://concepticon.clld.org/parameters/204,išitɨre,again
+295-295,kara1500,http://concepticon.clld.org/parameters/1260,čuu,day
+295-434,kara1500,http://concepticon.clld.org/parameters/1233,ruu,night
+295-29,kara1500,http://concepticon.clld.org/parameters/1339,biurasɔ,morning
+295-37,kara1500,http://concepticon.clld.org/parameters/1807,čioro (?),afternoon
+295-48,kara1500,http://concepticon.clld.org/parameters/1283,wiǰi,today
+295-444,kara1500,http://concepticon.clld.org/parameters/1174,kau,yesterday
+295-207,kara1500,http://concepticon.clld.org/parameters/1180,kənau (?),day-before-yesterday
+295-75,kara1500,http://concepticon.clld.org/parameters/1370,ahadu,month
+295-175,kara1500,http://concepticon.clld.org/parameters/1226,beɔra,year
+295-301,kara1500,http://concepticon.clld.org/parameters/1342,wɨra,summer
+295-327,kara1500,http://concepticon.clld.org/parameters/1587,uɔ,smell (vb intrans)
+295-129,kara1500,http://concepticon.clld.org/parameters/717,ibəree,sweet
+295-321,kara1500,http://concepticon.clld.org/parameters/1608,hokuǰa,listen
+295-164,kara1500,http://concepticon.clld.org/parameters/1811,wodəɨ̃,"sound, noise"
+295-362,kara1500,http://concepticon.clld.org/parameters/1409,ičere,see
+295-435,kara1500,http://concepticon.clld.org/parameters/1409,obi,see
+295-179,kara1500,http://concepticon.clld.org/parameters/1819,etehe,"look, look at"
+295-82,kara1500,http://concepticon.clld.org/parameters/1039,teɔsi-nɨ,show
+295-235,kara1500,http://concepticon.clld.org/parameters/1335,ura,white
+295-448,kara1500,http://concepticon.clld.org/parameters/163,iləbɨ,black
+295-43,kara1500,http://concepticon.clld.org/parameters/156,isɔ,red
+295-203,kara1500,http://concepticon.clld.org/parameters/837,lɨ̃re,blue
+295-117,kara1500,http://concepticon.clld.org/parameters/837,tɨ̃re,blue
+295-203,kara1500,http://concepticon.clld.org/parameters/1425,lɨ̃re,green
+295-117,kara1500,http://concepticon.clld.org/parameters/1425,tɨ̃re,green
+295-51,kara1500,http://concepticon.clld.org/parameters/1892,eri,touch
+295-53,kara1500,http://concepticon.clld.org/parameters/1856,aašinɨ,soft
+295-496,kara1500,http://concepticon.clld.org/parameters/1234,tɨtɨ,smooth
+295-399,kara1500,http://concepticon.clld.org/parameters/379,buhã,"blunt, dull"
+295-305,kara1500,http://concepticon.clld.org/parameters/1210,iučie,heavy
+295-266,kara1500,http://concepticon.clld.org/parameters/1726,ituu,"wet, damp"
+295-252,kara1500,http://concepticon.clld.org/parameters/1726,təko,"wet, damp"
+295-385,kara1500,http://concepticon.clld.org/parameters/1398,irəbu,dry
+295-426,kara1500,http://concepticon.clld.org/parameters/1286,tɔtee,hot
+295-330,kara1500,http://concepticon.clld.org/parameters/1232,aõbina,warm
+295-259,kara1500,http://concepticon.clld.org/parameters/1287,čutɨtɨ,cold
+295-493,kara1500,http://concepticon.clld.org/parameters/704,brasa,clean
+295-8,kara1500,http://concepticon.clld.org/parameters/1230,isuisu,"dirty, soiled"
+295-267,kara1500,http://concepticon.clld.org/parameters/53,tɨɨtɨbɨ,"soul, spirit"
+295-216,kara1500,http://concepticon.clld.org/parameters/1572,ɔtii,"surprised, astonished"
+295-432,kara1500,http://concepticon.clld.org/parameters/1495,deɨsa,"joyful, glad, happy"
+295-328,kara1500,http://concepticon.clld.org/parameters/1495,teɨsa,"joyful, glad, happy"
+295-358,kara1500,http://concepticon.clld.org/parameters/1451,učue-nɨ,smile
+295-28,kara1500,http://concepticon.clld.org/parameters/1413,ləsi,play
+295-287,kara1500,http://concepticon.clld.org/parameters/923,luu,love
+295-122,kara1500,http://concepticon.clld.org/parameters/1783,sa,pain
+295-281,kara1500,http://concepticon.clld.org/parameters/1668,sɨ̃bina,"grief, sorrow, sadness"
+295-261,kara1500,http://concepticon.clld.org/parameters/1875,wotɔe-nɨ,"regret, be sorry"
+295-342,kara1500,http://concepticon.clld.org/parameters/1839,ahinɨ,"cry, weep"
+295-113,kara1500,http://concepticon.clld.org/parameters/1839,obu,"cry, weep"
+295-474,kara1500,http://concepticon.clld.org/parameters/1651,rube,tear (noun)
+295-10,kara1500,http://concepticon.clld.org/parameters/1607,dera,hate
+295-56,kara1500,http://concepticon.clld.org/parameters/82,sira,anger
+295-186,kara1500,http://concepticon.clld.org/parameters/40,hãru,"envy, jealousy"
+295-25,kara1500,http://concepticon.clld.org/parameters/174,šiwede,proud
+295-390,kara1500,http://concepticon.clld.org/parameters/781,masaǰua,"fear, fright"
+295-505,kara1500,http://concepticon.clld.org/parameters/781,uberu,"fear, fright"
+295-199,kara1500,http://concepticon.clld.org/parameters/1810,ɔhãru,danger
+295-460,kara1500,http://concepticon.clld.org/parameters/1784,kɔte,"desire, want"
+295-304,kara1500,http://concepticon.clld.org/parameters/1092,raɔ (?),hope
+295-403,kara1500,http://concepticon.clld.org/parameters/1657,inatɨhɨ,true
+295-32,kara1500,http://concepticon.clld.org/parameters/601,rui,"lie, tell lies"
+295-420,kara1500,http://concepticon.clld.org/parameters/13,ɔwari,deceit
+295-55,kara1500,http://concepticon.clld.org/parameters/1035,awi,good
+295-116,kara1500,http://concepticon.clld.org/parameters/1292,bina,bad
+295-271,kara1500,http://concepticon.clld.org/parameters/134,ɔraru,fault
+295-351,kara1500,http://concepticon.clld.org/parameters/1293,eɔsa,"mistake, error"
+295-47,kara1500,http://concepticon.clld.org/parameters/1427,ruše,beautiful
+295-167,kara1500,http://concepticon.clld.org/parameters/1415,õhõtinɨ,think (= reflect)
+295-206,kara1500,http://concepticon.clld.org/parameters/1890,itɨhɨ,believe
+295-214,kara1500,http://concepticon.clld.org/parameters/1410,erɨ,know
+295-93,kara1500,http://concepticon.clld.org/parameters/117,sə-nɨ,imitate
+295-413,kara1500,http://concepticon.clld.org/parameters/698,bəde,wise
+295-402,kara1500,http://concepticon.clld.org/parameters/1899,čɨ̃te,"insane, crazy"
+295-418,kara1500,http://concepticon.clld.org/parameters/1038,erɨ-dãɨ̃du,teacher
+295-76,kara1500,http://concepticon.clld.org/parameters/707,išiša,remember
+295-317,kara1500,http://concepticon.clld.org/parameters/1626,tənɨ-nɨ,explain
+295-315,kara1500,http://concepticon.clld.org/parameters/1162,tutɨhɨki,"intention, purpose"
+295-86,kara1500,http://concepticon.clld.org/parameters/1308,kɨ̃na,doubt
+295-40,kara1500,http://concepticon.clld.org/parameters/1308,nɨhe,doubt
+295-72,kara1500,http://concepticon.clld.org/parameters/1308,seõ-nɨ,doubt
+295-425,kara1500,http://concepticon.clld.org/parameters/1841,eɔtanɨ,suspect
+295-215,kara1500,http://concepticon.clld.org/parameters/584,sira-nɨ,difficult
+295-58,kara1500,http://concepticon.clld.org/parameters/1157,šierɨ (?),because
+295-205,kara1500,http://concepticon.clld.org/parameters/1268,hɨ̃de,"yes, affirmative"
+295-338,kara1500,http://concepticon.clld.org/parameters/1268,kohe,"yes, affirmative"
+295-162,kara1500,http://concepticon.clld.org/parameters/1269,aõkõ,"no, negative"
+295-370,kara1500,http://concepticon.clld.org/parameters/1238,tiu,when?
+295-503,kara1500,http://concepticon.clld.org/parameters/1238,u,when?
+295-332,kara1500,http://concepticon.clld.org/parameters/1270,aõherekiwe,why?
+295-302,kara1500,http://concepticon.clld.org/parameters/1261,awinɨ,sing
+295-373,kara1500,http://concepticon.clld.org/parameters/715,raǰua,"shout, cry out"
+295-69,kara1500,http://concepticon.clld.org/parameters/1025,iǰɔsiwi,whistle
+295-372,kara1500,http://concepticon.clld.org/parameters/1623,arɨbe,"speak, talk"
+295-381,kara1500,http://concepticon.clld.org/parameters/1599,rɨ-be,word
+295-482,kara1500,http://concepticon.clld.org/parameters/1405,ni,name
+295-367,kara1500,http://concepticon.clld.org/parameters/1309,tɨ̃-ɨ̃raši-nɨ,"ask (question, inquire)"
+295-223,kara1500,http://concepticon.clld.org/parameters/755,waritidəɨ̃,deny
+295-378,kara1500,http://concepticon.clld.org/parameters/1675,iurarinɨ,promise
+295-254,kara1500,http://concepticon.clld.org/parameters/49,tɔe-nɨ,refuse
+295-442,kara1500,http://concepticon.clld.org/parameters/1084,rəki,call (=summon)
+295-102,kara1500,http://concepticon.clld.org/parameters/9,itobi,announce
+295-147,kara1500,http://concepticon.clld.org/parameters/963,tɨɨrəti,book
+295-257,kara1500,http://concepticon.clld.org/parameters/1391,hãwã-hãkɨ̃,"city, town"
+295-2,kara1500,http://concepticon.clld.org/parameters/930,hãwã,village
+295-248,kara1500,http://concepticon.clld.org/parameters/1846,wɨdɨna,"rule, govern"
+295-479,kara1500,http://concepticon.clld.org/parameters/384,uri,freeman
+295-52,kara1500,http://concepticon.clld.org/parameters/1325,biɔwa,"friend, companion"
+295-486,kara1500,http://concepticon.clld.org/parameters/1325,iɔ,"friend, companion"
+295-353,kara1500,http://concepticon.clld.org/parameters/1358,ɔlədu,enemy
+295-135,kara1500,http://concepticon.clld.org/parameters/791,tori,stranger
+295-19,kara1500,http://concepticon.clld.org/parameters/1550,ikočinɨ,"hinder, prevent"
+295-170,kara1500,http://concepticon.clld.org/parameters/1550,uritere,"hinder, prevent"
+295-410,kara1500,http://concepticon.clld.org/parameters/1423,esu,fight (vb)
+295-80,kara1500,http://concepticon.clld.org/parameters/1423,ɔrenɨ,fight (vb)
+295-209,kara1500,http://concepticon.clld.org/parameters/951,debɔna,"weapons, arms"
+295-49,kara1500,http://concepticon.clld.org/parameters/951,mawa,"weapons, arms"
+295-322,kara1500,http://concepticon.clld.org/parameters/977,wɨhɨ,arrow
+295-197,kara1500,http://concepticon.clld.org/parameters/1072,weču,"captive, prisoner"
+295-472,kara1500,http://concepticon.clld.org/parameters/1858,waši-du,fisherman
+295-504,kara1500,http://concepticon.clld.org/parameters/1074,waši,fishhook
+295-495,kara1500,http://concepticon.clld.org/parameters/388,deɔreru,fishnet
+295-401,kara1500,http://concepticon.clld.org/parameters/2013,dɔ,bait
+295-340,kara1500,http://concepticon.clld.org/parameters/1435,riu,hunt
+295-65,kara1500,http://concepticon.clld.org/parameters/390,rušetɔe-nɨ,"penalty, punishment"
+295-246,kara1500,http://concepticon.clld.org/parameters/713,wasi-nɨ,steal
+295-279,kara1500,http://concepticon.clld.org/parameters/1160,wasi-du,thief
+295-440,kara1500,http://concepticon.clld.org/parameters/1944,[deušu],God
+295-423,kara1500,http://concepticon.clld.org/parameters/1103,šiwe,"sacrifice, offering"
+295-376,kara1500,http://concepticon.clld.org/parameters/392,ɔwɔru (?),"magic, witchcraft, sorcery"
+295-260,kara1500,http://concepticon.clld.org/parameters/2137,həri,"sorcerer, witch"
+295-309,kara1500,http://concepticon.clld.org/parameters/1175,uni,"ghost, phantom"

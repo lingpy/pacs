@@ -1,0 +1,2327 @@
+ID,Language_ID,Feature_ID,Value,Concept
+531-490,bezh1248,http://concepticon.clld.org/parameters/965,дунийал,world
+531-648,bezh1248,http://concepticon.clld.org/parameters/965,дунийал-гІалам,world
+531-235,bezh1248,http://concepticon.clld.org/parameters/626,улка,"earth, land"
+531-484,bezh1248,http://concepticon.clld.org/parameters/626,пачалихъ,"earth, land"
+531-1874,bezh1248,http://concepticon.clld.org/parameters/626,хIукумат,"earth, land"
+531-949,bezh1248,http://concepticon.clld.org/parameters/626,хIуькуьмаьт,"earth, land"
+531-1254,bezh1248,http://concepticon.clld.org/parameters/1228,ракь,"earth=ground, soil"
+531-393,bezh1248,http://concepticon.clld.org/parameters/1228,маче,"earth=ground, soil"
+531-996,bezh1248,http://concepticon.clld.org/parameters/1228,мизо,"earth=ground, soil"
+531-2011,bezh1248,http://concepticon.clld.org/parameters/2,пах,dust
+531-675,bezh1248,http://concepticon.clld.org/parameters/2,готІ,dust
+531-1947,bezh1248,http://concepticon.clld.org/parameters/640,тато,mud
+531-988,bezh1248,http://concepticon.clld.org/parameters/640,хъублъи,mud
+531-58,bezh1248,http://concepticon.clld.org/parameters/640,чоьроьклъи,mud
+531-1484,bezh1248,http://concepticon.clld.org/parameters/671,мисо,sand
+531-1119,bezh1248,http://concepticon.clld.org/parameters/2118,маьроь,"mountain, hill"
+531-192,bezh1248,http://concepticon.clld.org/parameters/2118,бизо,"mountain, hill"
+531-1585,bezh1248,http://concepticon.clld.org/parameters/2118,къоьтийо,"mountain, hill"
+531-556,bezh1248,http://concepticon.clld.org/parameters/2118,гухI,"mountain, hill"
+531-1437,bezh1248,http://concepticon.clld.org/parameters/618,шед,"cliff, precipice"
+531-1864,bezh1248,http://concepticon.clld.org/parameters/618,бач,"cliff, precipice"
+531-902,bezh1248,http://concepticon.clld.org/parameters/618,къе,"cliff, precipice"
+531-1857,bezh1248,http://concepticon.clld.org/parameters/652,гІатІиракь,"plain, field"
+531-920,bezh1248,http://concepticon.clld.org/parameters/652,авлахъ,"plain, field"
+531-573,bezh1248,http://concepticon.clld.org/parameters/921,майдан,valley
+531-1566,bezh1248,http://concepticon.clld.org/parameters/921,ко,valley
+531-1542,bezh1248,http://concepticon.clld.org/parameters/622,чІинкІиллъи,island
+531-1842,bezh1248,http://concepticon.clld.org/parameters/166,кантинент,mainland
+531-884,bezh1248,http://concepticon.clld.org/parameters/113,рагІал,shore
+531-932,bezh1248,http://concepticon.clld.org/parameters/113,цумли,shore
+531-634,bezh1248,http://concepticon.clld.org/parameters/113,цимли,shore
+531-1460,bezh1248,http://concepticon.clld.org/parameters/1155,онох,cave
+531-313,bezh1248,http://concepticon.clld.org/parameters/948,лъи,water
+531-1836,bezh1248,http://concepticon.clld.org/parameters/1474,ралъад,sea
+531-114,bezh1248,http://concepticon.clld.org/parameters/258,паракъатаб,calm (of sea)
+531-1909,bezh1248,http://concepticon.clld.org/parameters/258,гIодобусараб,calm (of sea)
+531-323,bezh1248,http://concepticon.clld.org/parameters/259,гьалагаб,rough (of sea)
+531-1367,bezh1248,http://concepticon.clld.org/parameters/259,багъарзи бахъиро,rough (of sea)
+531-17,bezh1248,http://concepticon.clld.org/parameters/1768,поп,foam
+531-1576,bezh1248,http://concepticon.clld.org/parameters/1768,поьп,foam
+531-1069,bezh1248,http://concepticon.clld.org/parameters/645,акеан,ocean
+531-256,bezh1248,http://concepticon.clld.org/parameters/624,кІара,lake
+531-4,bezh1248,http://concepticon.clld.org/parameters/624,кІаьраь,lake
+531-1963,bezh1248,http://concepticon.clld.org/parameters/663,—,"gulf, bay"
+531-1963,bezh1248,http://concepticon.clld.org/parameters/623,—,lagoon
+531-1710,bezh1248,http://concepticon.clld.org/parameters/660,лъӣъис гикьа гуцIоро шед,reef
+531-394,bezh1248,http://concepticon.clld.org/parameters/660,кьалода,reef
+531-2078,bezh1248,http://concepticon.clld.org/parameters/1662,рагІалликьас ракь,"headland, point"
+531-1051,bezh1248,http://concepticon.clld.org/parameters/1662,ракьлис рагIал,"headland, point"
+531-1214,bezh1248,http://concepticon.clld.org/parameters/978,зартI,wave
+531-1032,bezh1248,http://concepticon.clld.org/parameters/978,сорйа,wave
+531-360,bezh1248,http://concepticon.clld.org/parameters/978,карачел,wave
+531-1765,bezh1248,http://concepticon.clld.org/parameters/891,ралъад кьодо мокъоролъи,tide
+531-1754,bezh1248,http://concepticon.clld.org/parameters/891,дена бочеролъи,tide
+531-1768,bezh1248,http://concepticon.clld.org/parameters/891,ралъад кьодо бокIицIиролъи,tide
+531-166,bezh1248,http://concepticon.clld.org/parameters/891,кьāь бочеролъи,tide
+531-874,bezh1248,http://concepticon.clld.org/parameters/1026,ралъад дена бочеролъи,lowtide
+531-2071,bezh1248,http://concepticon.clld.org/parameters/1026,ралъад кьāь бочеролъи,lowtide
+531-1765,bezh1248,http://concepticon.clld.org/parameters/613,ралъад кьодо мокъоролъи,hightide
+531-1768,bezh1248,http://concepticon.clld.org/parameters/613,ралъад кьодо бокIицIиролъи,hightide
+531-1772,bezh1248,http://concepticon.clld.org/parameters/666,эᴴхо,"river, stream, brook"
+531-1305,bezh1248,http://concepticon.clld.org/parameters/666,куро,"river, stream, brook"
+531-736,bezh1248,http://concepticon.clld.org/parameters/666,ругьи,"river, stream, brook"
+531-824,bezh1248,http://concepticon.clld.org/parameters/666,гӯцас лъи,"river, stream, brook"
+531-205,bezh1248,http://concepticon.clld.org/parameters/1982,эᴴхо кIарлIочаш маче,whirlpool
+531-1804,bezh1248,http://concepticon.clld.org/parameters/1982,(эᴴхекьа) гингола,whirlpool
+531-1903,bezh1248,http://concepticon.clld.org/parameters/2144,лъикьа,"spring, well"
+531-1721,bezh1248,http://concepticon.clld.org/parameters/2144,шидо,"spring, well"
+531-1694,bezh1248,http://concepticon.clld.org/parameters/2144,мокI,"spring, well"
+531-891,bezh1248,http://concepticon.clld.org/parameters/2144,тагьриж,"spring, well"
+531-570,bezh1248,http://concepticon.clld.org/parameters/1145,къица,swamp
+531-1939,bezh1248,http://concepticon.clld.org/parameters/1145,чІикъантІи,swamp
+531-1917,bezh1248,http://concepticon.clld.org/parameters/943,лІисиро,waterfall
+531-506,bezh1248,http://concepticon.clld.org/parameters/420,ван,"woods, forest"
+531-1457,bezh1248,http://concepticon.clld.org/parameters/420,ван-чид,"woods, forest"
+531-1507,bezh1248,http://concepticon.clld.org/parameters/906,xoxo,tree (cf 08.600)
+531-2051,bezh1248,http://concepticon.clld.org/parameters/906,хоьхоь,tree (cf 08.600)
+531-1077,bezh1248,http://concepticon.clld.org/parameters/1803,хохо-чид,wood
+531-1103,bezh1248,http://concepticon.clld.org/parameters/1803,хоьхоь-чид,wood
+531-2036,bezh1248,http://concepticon.clld.org/parameters/1803,гьудо,wood
+531-224,bezh1248,http://concepticon.clld.org/parameters/2125,кьало,"stone, rock"
+531-860,bezh1248,http://concepticon.clld.org/parameters/2125,гаьмаьчІ,"stone, rock"
+531-1125,bezh1248,http://concepticon.clld.org/parameters/6,ракь багъарзибахъиролъи,earthquake
+531-1292,bezh1248,http://concepticon.clld.org/parameters/6,маче лахлІоролъи,earthquake
+531-2013,bezh1248,http://concepticon.clld.org/parameters/6,дунийал лахлIоролъи,earthquake
+531-1843,bezh1248,http://concepticon.clld.org/parameters/1732,гьас,sky
+531-1258,bezh1248,http://concepticon.clld.org/parameters/1343,бохъ,sun
+531-1135,bezh1248,http://concepticon.clld.org/parameters/1313,боцо,moon
+531-92,bezh1248,http://concepticon.clld.org/parameters/1430,ца,star
+531-28,bezh1248,http://concepticon.clld.org/parameters/1654,гьас карлІоролъи,lightning
+531-1824,bezh1248,http://concepticon.clld.org/parameters/1654,пири,lightning
+531-1753,bezh1248,http://concepticon.clld.org/parameters/1654,пил’,lightning
+531-403,bezh1248,http://concepticon.clld.org/parameters/1150,гьас хъаьлІеролъи,thunder
+531-997,bezh1248,http://concepticon.clld.org/parameters/1150,гьас хъаьлІе,thunder
+531-1270,bezh1248,http://concepticon.clld.org/parameters/2007,карлІоро,lightning (as striking)
+531-488,bezh1248,http://concepticon.clld.org/parameters/2007,пири рекиролъи,lightning (as striking)
+531-1753,bezh1248,http://concepticon.clld.org/parameters/2007,пил’,lightning (as striking)
+531-561,bezh1248,http://concepticon.clld.org/parameters/858,рукъо залІо,storm
+531-892,bezh1248,http://concepticon.clld.org/parameters/858,лъикъеро залIо,storm
+531-1527,bezh1248,http://concepticon.clld.org/parameters/858,рилIаро залIо,storm
+531-1248,bezh1248,http://concepticon.clld.org/parameters/1733,машдакъ,rainbow
+531-799,bezh1248,http://concepticon.clld.org/parameters/1733,машитакъи,rainbow
+531-737,bezh1248,http://concepticon.clld.org/parameters/630,канлъи,light (noun)
+531-141,bezh1248,http://concepticon.clld.org/parameters/11,колІо,darkness
+531-181,bezh1248,http://concepticon.clld.org/parameters/1388,гьидолІцо,"shade, shadow"
+531-1193,bezh1248,http://concepticon.clld.org/parameters/1388,гьидолІсо,"shade, shadow"
+531-146,bezh1248,http://concepticon.clld.org/parameters/1977,аᴴзо,dew
+531-618,bezh1248,http://concepticon.clld.org/parameters/1977,хида,dew
+531-1969,bezh1248,http://concepticon.clld.org/parameters/27,гьава,air
+531-206,bezh1248,http://concepticon.clld.org/parameters/27,гьайри,air
+531-1551,bezh1248,http://concepticon.clld.org/parameters/27,хІухьел,air
+531-1300,bezh1248,http://concepticon.clld.org/parameters/960,залІо,wind
+531-1843,bezh1248,http://concepticon.clld.org/parameters/1489,гьас,cloud
+531-1908,bezh1248,http://concepticon.clld.org/parameters/1489,гьас-мус,cloud
+531-1908,bezh1248,http://concepticon.clld.org/parameters/249,гьас-мус,fog
+531-1751,bezh1248,http://concepticon.clld.org/parameters/249,жаьнгъи,fog
+531-773,bezh1248,http://concepticon.clld.org/parameters/658,водо,rain (noun)
+531-1043,bezh1248,http://concepticon.clld.org/parameters/658,водо-мизо,rain (noun)
+531-1666,bezh1248,http://concepticon.clld.org/parameters/784,оᴴз,snow (noun)
+531-898,bezh1248,http://concepticon.clld.org/parameters/617,боло,ice
+531-1563,bezh1248,http://concepticon.clld.org/parameters/617,цIаби,ice
+531-1619,bezh1248,http://concepticon.clld.org/parameters/952,водо-бохъ,weather
+531-1837,bezh1248,http://concepticon.clld.org/parameters/952,гьава-бакъ,weather
+531-309,bezh1248,http://concepticon.clld.org/parameters/221,цІо,fire
+531-1946,bezh1248,http://concepticon.clld.org/parameters/889,цІойис миц,flame (noun)
+531-497,bezh1248,http://concepticon.clld.org/parameters/778,хъо,smoke (noun)
+531-675,bezh1248,http://concepticon.clld.org/parameters/778,готІ,smoke (noun)
+531-164,bezh1248,http://concepticon.clld.org/parameters/646,тит,ashes
+531-345,bezh1248,http://concepticon.clld.org/parameters/646,тит’,ashes
+531-1839,bezh1248,http://concepticon.clld.org/parameters/67,гъадри,embers
+531-1617,bezh1248,http://concepticon.clld.org/parameters/67,хIаьхIаьлоь хIаьмоь,embers
+531-1634,bezh1248,http://concepticon.clld.org/parameters/67,цІойс хІаьмоь,embers
+531-532,bezh1248,http://concepticon.clld.org/parameters/141,рекІелал,burn (vb trans)
+531-806,bezh1248,http://concepticon.clld.org/parameters/141,цІо рейал,burn (vb trans)
+531-89,bezh1248,http://concepticon.clld.org/parameters/141,рекІелаьл’,burn (vb trans)
+531-1281,bezh1248,http://concepticon.clld.org/parameters/1428,рекІал,burn (vb intrans)
+531-278,bezh1248,http://concepticon.clld.org/parameters/1428,рекІаьл’,burn (vb intrans)
+531-969,bezh1248,http://concepticon.clld.org/parameters/737,лъийелал,"light, kindle, ignite"
+531-554,bezh1248,http://concepticon.clld.org/parameters/737,канлъи гухълал,"light, kindle, ignite"
+531-1892,bezh1248,http://concepticon.clld.org/parameters/737,канлъи лъишелаьл,"light, kindle, ignite"
+531-1612,bezh1248,http://concepticon.clld.org/parameters/127,редлаьл,extinguish
+531-679,bezh1248,http://concepticon.clld.org/parameters/127,редлаьл’,extinguish
+531-464,bezh1248,http://concepticon.clld.org/parameters/1133,спичка,match (noun)
+531-1578,bezh1248,http://concepticon.clld.org/parameters/1133,пичкIаь,match (noun)
+531-2036,bezh1248,http://concepticon.clld.org/parameters/10,гьудо,firewood
+531-1247,bezh1248,http://concepticon.clld.org/parameters/10,гьудо-цІо,firewood
+531-1851,bezh1248,http://concepticon.clld.org/parameters/1188,хІаьмоь,charcoal
+531-156,bezh1248,http://concepticon.clld.org/parameters/1188,гьудас хIаьмоь,charcoal
+531-1082,bezh1248,http://concepticon.clld.org/parameters/1188,ванас хIаьмоь,charcoal
+531-53,bezh1248,http://concepticon.clld.org/parameters/683,гІадам,"person, human being"
+531-59,bezh1248,http://concepticon.clld.org/parameters/683,гІаьдаьм,"person, human being"
+531-74,bezh1248,http://concepticon.clld.org/parameters/683,инсан,"person, human being"
+531-1054,bezh1248,http://concepticon.clld.org/parameters/683,сукІо,"person, human being"
+531-790,bezh1248,http://concepticon.clld.org/parameters/1554,або,man (vs. woman)
+531-847,bezh1248,http://concepticon.clld.org/parameters/1554,бикинаьб сукІо,man (vs. woman)
+531-1059,bezh1248,http://concepticon.clld.org/parameters/1554,бихьинчи,man (vs. woman)
+531-212,bezh1248,http://concepticon.clld.org/parameters/1554,бикинчи,man (vs. woman)
+531-1488,bezh1248,http://concepticon.clld.org/parameters/962,ийоь,woman
+531-1629,bezh1248,http://concepticon.clld.org/parameters/962,цIуйаб гIадам,woman
+531-544,bezh1248,http://concepticon.clld.org/parameters/2263,абоддāс,male
+531-1208,bezh1248,http://concepticon.clld.org/parameters/2263,бихьинаьб,male
+531-1829,bezh1248,http://concepticon.clld.org/parameters/2263,бикинаьб,male
+531-348,bezh1248,http://concepticon.clld.org/parameters/2260,ийоьддāс,female
+531-534,bezh1248,http://concepticon.clld.org/parameters/2260,цІуйаб,female
+531-1026,bezh1248,http://concepticon.clld.org/parameters/1366,оже,boy
+531-1041,bezh1248,http://concepticon.clld.org/parameters/1366,оьже,boy
+531-934,bezh1248,http://concepticon.clld.org/parameters/76,буркьав,young man (adolescent)
+531-1235,bezh1248,http://concepticon.clld.org/parameters/76,гІолохъан,young man (adolescent)
+531-1785,bezh1248,http://concepticon.clld.org/parameters/76,гІоьлоьхъаьн,young man (adolescent)
+531-1257,bezh1248,http://concepticon.clld.org/parameters/76,гІолохъанаб оже,young man (adolescent)
+531-1943,bezh1248,http://concepticon.clld.org/parameters/76,гІоьлоьхъаьнаьб оьже,young man (adolescent)
+531-1954,bezh1248,http://concepticon.clld.org/parameters/1646,кид,girl
+531-1954,bezh1248,http://concepticon.clld.org/parameters/77,кид,young woman (adolescent)
+531-670,bezh1248,http://concepticon.clld.org/parameters/1304,къора,child
+531-670,bezh1248,http://concepticon.clld.org/parameters/1289,къора,"infant, baby"
+531-1283,bezh1248,http://concepticon.clld.org/parameters/1289,руьвероь къора,"infant, baby"
+531-207,bezh1248,http://concepticon.clld.org/parameters/1289,гьагъола,"infant, baby"
+531-118,bezh1248,http://concepticon.clld.org/parameters/1200,бетІергьан,husband
+531-1097,bezh1248,http://concepticon.clld.org/parameters/1199,ахъо,wife
+531-325,bezh1248,http://concepticon.clld.org/parameters/1199,хизан,wife
+531-1365,bezh1248,http://concepticon.clld.org/parameters/203,ахъо йоᴴкъал,marry
+531-233,bezh1248,http://concepticon.clld.org/parameters/203,ахъо йеᴴкьаьл,marry
+531-1776,bezh1248,http://concepticon.clld.org/parameters/1259,бертен,"marriage, wedding"
+531-1133,bezh1248,http://concepticon.clld.org/parameters/1259,магьар,"marriage, wedding"
+531-1337,bezh1248,http://concepticon.clld.org/parameters/1259,сухІбат,"marriage, wedding"
+531-93,bezh1248,http://concepticon.clld.org/parameters/1134,батІа бахъиролъи,divorce
+531-290,bezh1248,http://concepticon.clld.org/parameters/1134,болъолдабаролъи,divorce
+531-1151,bezh1248,http://concepticon.clld.org/parameters/1134,атабакиролъи,divorce
+531-2,bezh1248,http://concepticon.clld.org/parameters/1134,магьар моьшероьлъи,divorce
+531-790,bezh1248,http://concepticon.clld.org/parameters/1217,або,father
+531-1875,bezh1248,http://concepticon.clld.org/parameters/1217,къорас або,father
+531-115,bezh1248,http://concepticon.clld.org/parameters/1216,ийо,mother
+531-1488,bezh1248,http://concepticon.clld.org/parameters/1216,ийоь,mother
+531-195,bezh1248,http://concepticon.clld.org/parameters/1216,къорас ийо,mother
+531-982,bezh1248,http://concepticon.clld.org/parameters/505,ийо-або,parents
+531-1983,bezh1248,http://concepticon.clld.org/parameters/505,ийоь-або,parents
+531-209,bezh1248,http://concepticon.clld.org/parameters/424,ахъо йоᴴкъоро,married man
+531-952,bezh1248,http://concepticon.clld.org/parameters/426,ахъо йеᴴкьеро,married woman
+531-1026,bezh1248,http://concepticon.clld.org/parameters/1620,оже,son
+531-1041,bezh1248,http://concepticon.clld.org/parameters/1620,оьже,son
+531-1954,bezh1248,http://concepticon.clld.org/parameters/1357,кид,daughter
+531-1399,bezh1248,http://concepticon.clld.org/parameters/1801,насло,offspring (son or daughter)
+531-1408,bezh1248,http://concepticon.clld.org/parameters/1801,наслу,offspring (son or daughter)
+531-670,bezh1248,http://concepticon.clld.org/parameters/1801,къора,offspring (son or daughter)
+531-1914,bezh1248,http://concepticon.clld.org/parameters/1262,бихьинаьб ис,brother
+531-1976,bezh1248,http://concepticon.clld.org/parameters/1262,бикинаьб ис,brother
+531-404,bezh1248,http://concepticon.clld.org/parameters/1759,укъо (бикинаб) ис,older brother
+531-1789,bezh1248,http://concepticon.clld.org/parameters/1759,укъоь (бикинаьб) ис,older brother
+531-131,bezh1248,http://concepticon.clld.org/parameters/1760,уьверо (бикинаб) ис,younger brother
+531-1870,bezh1248,http://concepticon.clld.org/parameters/1760,уьвероь (бикинаьб) ис,younger brother
+531-704,bezh1248,http://concepticon.clld.org/parameters/1263,цІуйаб ис,sister
+531-1099,bezh1248,http://concepticon.clld.org/parameters/1758,йукъо (цІуйаб) ис,older sister
+531-1847,bezh1248,http://concepticon.clld.org/parameters/1758,йукъоь (цІуйаб) ис,older sister
+531-284,bezh1248,http://concepticon.clld.org/parameters/1761,йуьверо (цІуйаб) ис,younger sister
+531-1621,bezh1248,http://concepticon.clld.org/parameters/1761,йуьвероь (цІуйаб) ис,younger sister
+531-709,bezh1248,http://concepticon.clld.org/parameters/1640,ис,sibling
+531-619,bezh1248,http://concepticon.clld.org/parameters/1005,кIунлІелла,twins
+531-1511,bezh1248,http://concepticon.clld.org/parameters/1383,ичило або,grandfather
+531-1845,bezh1248,http://concepticon.clld.org/parameters/1383,абос або,grandfather
+531-1266,bezh1248,http://concepticon.clld.org/parameters/1383,ийоьш або,grandfather
+531-2001,bezh1248,http://concepticon.clld.org/parameters/1383,ичи,grandfather
+531-935,bezh1248,http://concepticon.clld.org/parameters/406,ичило сукІо,old man
+531-2001,bezh1248,http://concepticon.clld.org/parameters/406,ичи,old man
+531-1259,bezh1248,http://concepticon.clld.org/parameters/406,ичило гІаьдаьм,old man
+531-275,bezh1248,http://concepticon.clld.org/parameters/406,ичупІа,old man
+531-359,bezh1248,http://concepticon.clld.org/parameters/1496,ичило ийоь,grandmother
+531-1170,bezh1248,http://concepticon.clld.org/parameters/1496,абос ийоь,grandmother
+531-1003,bezh1248,http://concepticon.clld.org/parameters/1496,або-ийоь,grandmother
+531-1373,bezh1248,http://concepticon.clld.org/parameters/1496,ийоьш ийо,grandmother
+531-978,bezh1248,http://concepticon.clld.org/parameters/907,ичилоь ийоь,old woman
+531-1659,bezh1248,http://concepticon.clld.org/parameters/907,ичилоь гІаьдаьм,old woman
+531-502,bezh1248,http://concepticon.clld.org/parameters/907,ичипІа,old woman
+531-275,bezh1248,http://concepticon.clld.org/parameters/907,ичупІа,old woman
+531-263,bezh1248,http://concepticon.clld.org/parameters/1618,ождиш оже,grandson
+531-1328,bezh1248,http://concepticon.clld.org/parameters/1618,оьждиш оьже,grandson
+531-458,bezh1248,http://concepticon.clld.org/parameters/1618,киббаш оже,grandson
+531-259,bezh1248,http://concepticon.clld.org/parameters/1618,кидбаш оже,grandson
+531-80,bezh1248,http://concepticon.clld.org/parameters/1618,къорас къора,grandson
+531-1532,bezh1248,http://concepticon.clld.org/parameters/1619,ождиш кид,granddaughter
+531-1618,bezh1248,http://concepticon.clld.org/parameters/1619,оьждиш кид,granddaughter
+531-1707,bezh1248,http://concepticon.clld.org/parameters/1619,киббаш кид,granddaughter
+531-897,bezh1248,http://concepticon.clld.org/parameters/1619,кидбаш кид,granddaughter
+531-80,bezh1248,http://concepticon.clld.org/parameters/1619,къорас къора,granddaughter
+531-1516,bezh1248,http://concepticon.clld.org/parameters/1327,абос (бикинаьб) ис,uncle
+531-1023,bezh1248,http://concepticon.clld.org/parameters/1327,ийош (бикинаб) ис,uncle
+531-635,bezh1248,http://concepticon.clld.org/parameters/1327,ийоьш (бикинаьб) ис,uncle
+531-1023,bezh1248,http://concepticon.clld.org/parameters/1984,ийош (бикинаб) ис,mother's brother
+531-635,bezh1248,http://concepticon.clld.org/parameters/1984,ийоьш (бикинаьб) ис,mother's brother
+531-1470,bezh1248,http://concepticon.clld.org/parameters/1985,абос (бикинаб) ис,father's brother
+531-1516,bezh1248,http://concepticon.clld.org/parameters/1985,абос (бикинаьб) ис,father's brother
+531-1130,bezh1248,http://concepticon.clld.org/parameters/1272,абос (цІуйаб) ис,aunt
+531-1306,bezh1248,http://concepticon.clld.org/parameters/1272,ийош (цІуйаб) ис,aunt
+531-776,bezh1248,http://concepticon.clld.org/parameters/1272,ийоьш (цІуйаб) ис,aunt
+531-1306,bezh1248,http://concepticon.clld.org/parameters/171,ийош (цІуйаб) ис,mother's sister
+531-776,bezh1248,http://concepticon.clld.org/parameters/171,ийоьш (цІуйаб) ис,mother's sister
+531-1130,bezh1248,http://concepticon.clld.org/parameters/170,абос (цІуйаб) ис,father's sister
+531-1574,bezh1248,http://concepticon.clld.org/parameters/1063,истIис оже,nephew
+531-1294,bezh1248,http://concepticon.clld.org/parameters/1063,истIис оьже,nephew
+531-1226,bezh1248,http://concepticon.clld.org/parameters/1063,истІилав,nephew
+531-809,bezh1248,http://concepticon.clld.org/parameters/1642,истIис кид,niece
+531-1188,bezh1248,http://concepticon.clld.org/parameters/1642,истІилай,niece
+531-57,bezh1248,http://concepticon.clld.org/parameters/1643,вацгІал,cousin
+531-1935,bezh1248,http://concepticon.clld.org/parameters/1643,йацгІал,cousin
+531-627,bezh1248,http://concepticon.clld.org/parameters/1669,умумал,ancestors
+531-1399,bezh1248,http://concepticon.clld.org/parameters/490,насло,descendants
+531-1408,bezh1248,http://concepticon.clld.org/parameters/490,наслу,descendants
+531-1486,bezh1248,http://concepticon.clld.org/parameters/2255,укъаабо,father-in-law (of a man)
+531-1965,bezh1248,http://concepticon.clld.org/parameters/2255,уькъаьабо,father-in-law (of a man)
+531-1486,bezh1248,http://concepticon.clld.org/parameters/2254,укъаабо,father-in-law (of a woman)
+531-1965,bezh1248,http://concepticon.clld.org/parameters/2254,уькъаьабо,father-in-law (of a woman)
+531-1333,bezh1248,http://concepticon.clld.org/parameters/2256,йукъаийоь,mother-in-law (of a man)
+531-368,bezh1248,http://concepticon.clld.org/parameters/2256,йуькъаьийоь,mother-in-law (of a man)
+531-1333,bezh1248,http://concepticon.clld.org/parameters/2257,йукъаийоь,mother-in-law (of a woman)
+531-368,bezh1248,http://concepticon.clld.org/parameters/2257,йуькъаьийоь,mother-in-law (of a woman)
+531-1577,bezh1248,http://concepticon.clld.org/parameters/2267,дурса,son-in-law (of a man)
+531-1409,bezh1248,http://concepticon.clld.org/parameters/2267,киббас бетІергьан,son-in-law (of a man)
+531-1787,bezh1248,http://concepticon.clld.org/parameters/2267,кидбас бетІергьан,son-in-law (of a man)
+531-463,bezh1248,http://concepticon.clld.org/parameters/2267,(цІуйаб) истІис бетІергьан,son-in-law (of a man)
+531-1577,bezh1248,http://concepticon.clld.org/parameters/2266,дурса,son-in-law (of a woman)
+531-1409,bezh1248,http://concepticon.clld.org/parameters/2266,киббас бетІергьан,son-in-law (of a woman)
+531-1787,bezh1248,http://concepticon.clld.org/parameters/2266,кидбас бетІергьан,son-in-law (of a woman)
+531-463,bezh1248,http://concepticon.clld.org/parameters/2266,(цІуйаб) истІис бетІергьан,son-in-law (of a woman)
+531-1084,bezh1248,http://concepticon.clld.org/parameters/2265,ождиш ахъо,daughter-in-law (of a man)
+531-1288,bezh1248,http://concepticon.clld.org/parameters/2265,оьждиш ахъо,daughter-in-law (of a man)
+531-478,bezh1248,http://concepticon.clld.org/parameters/2264,(бикинаб) истІис ахъо,daughter-in-law (of a woman)
+531-787,bezh1248,http://concepticon.clld.org/parameters/237,бестІал або,stepfather
+531-656,bezh1248,http://concepticon.clld.org/parameters/237,ийош (ийоьш) бетІергьан,stepfather
+531-715,bezh1248,http://concepticon.clld.org/parameters/236,бестІал ийо (ийоь),stepmother
+531-2053,bezh1248,http://concepticon.clld.org/parameters/236,абос ахъо,stepmother
+531-431,bezh1248,http://concepticon.clld.org/parameters/1059,бестІал оже,stepson
+531-1049,bezh1248,http://concepticon.clld.org/parameters/1059,бестІал оьже,stepson
+531-1014,bezh1248,http://concepticon.clld.org/parameters/1058,бестІал кид,stepdaughter
+531-1502,bezh1248,http://concepticon.clld.org/parameters/1149,бестІал,orphan
+531-2032,bezh1248,http://concepticon.clld.org/parameters/1756,къоролай,widow
+531-1724,bezh1248,http://concepticon.clld.org/parameters/1981,къоролав,widower
+531-203,bezh1248,http://concepticon.clld.org/parameters/1644,гІагарлъи,"relatives, kinsmen"
+531-981,bezh1248,http://concepticon.clld.org/parameters/1644,ислъи,"relatives, kinsmen"
+531-325,bezh1248,http://concepticon.clld.org/parameters/194,хизан,family
+531-1293,bezh1248,http://concepticon.clld.org/parameters/194,кулпат,family
+531-1536,bezh1248,http://concepticon.clld.org/parameters/1209,до,I
+531-363,bezh1248,http://concepticon.clld.org/parameters/1215,ми,you (singular)
+531-2037,bezh1248,http://concepticon.clld.org/parameters/262,гьуди,he/she/it
+531-739,bezh1248,http://concepticon.clld.org/parameters/262,гьуни,he/she/it
+531-876,bezh1248,http://concepticon.clld.org/parameters/262,гьуги,he/she/it
+531-64,bezh1248,http://concepticon.clld.org/parameters/262,гьоно,he/she/it
+531-401,bezh1248,http://concepticon.clld.org/parameters/262,гього,he/she/it
+531-917,bezh1248,http://concepticon.clld.org/parameters/1212,иле,we
+531-1963,bezh1248,http://concepticon.clld.org/parameters/1131,—,we (inclusive)
+531-1963,bezh1248,http://concepticon.clld.org/parameters/1130,—,we (exclusive)
+531-1219,bezh1248,http://concepticon.clld.org/parameters/1213,миже,you (plural)
+531-1174,bezh1248,http://concepticon.clld.org/parameters/817,гьодрол,they
+531-1073,bezh1248,http://concepticon.clld.org/parameters/817,гьонрол,they
+531-1280,bezh1248,http://concepticon.clld.org/parameters/817,гьогрол,they
+531-1380,bezh1248,http://concepticon.clld.org/parameters/619,хІаьймаьн,animal
+531-1250,bezh1248,http://concepticon.clld.org/parameters/619,boc’i-хІаьймаьн,animal
+531-320,bezh1248,http://concepticon.clld.org/parameters/619,рухI-чIаголъи,animal
+531-999,bezh1248,http://concepticon.clld.org/parameters/2261,абодда̄с,male (adj)
+531-1208,bezh1248,http://concepticon.clld.org/parameters/2261,бихьинаьб,male (adj)
+531-1829,bezh1248,http://concepticon.clld.org/parameters/2261,бикинаьб,male (adj)
+531-587,bezh1248,http://concepticon.clld.org/parameters/2262,ийоьдда̄ьш,female (adj)
+531-534,bezh1248,http://concepticon.clld.org/parameters/2262,цІуйаб,female (adj)
+531-804,bezh1248,http://concepticon.clld.org/parameters/631,боцІи-хІайман,livestock
+531-1063,bezh1248,http://concepticon.clld.org/parameters/631,боцІи-хІаьймаьн,livestock
+531-1180,bezh1248,http://concepticon.clld.org/parameters/631,билІос хІаьймаьн,livestock
+531-962,bezh1248,http://concepticon.clld.org/parameters/631,саконели,livestock
+531-1613,bezh1248,http://concepticon.clld.org/parameters/649,гьихо,pasture
+531-2060,bezh1248,http://concepticon.clld.org/parameters/649,рихо,pasture
+531-920,bezh1248,http://concepticon.clld.org/parameters/649,авлахъ,pasture
+531-1140,bezh1248,http://concepticon.clld.org/parameters/263,века,herdsman
+531-714,bezh1248,http://concepticon.clld.org/parameters/263,варагъако,herdsman
+531-2033,bezh1248,http://concepticon.clld.org/parameters/263,боцІилагъако,herdsman
+531-642,bezh1248,http://concepticon.clld.org/parameters/851,шуьгоьлаьраьхъ,"stable, stall"
+531-651,bezh1248,http://concepticon.clld.org/parameters/1153,хІайман,cattle (bovine)
+531-1380,bezh1248,http://concepticon.clld.org/parameters/1153,хІаьймаьн,cattle (bovine)
+531-220,bezh1248,http://concepticon.clld.org/parameters/1008,бугъа,bull
+531-1683,bezh1248,http://concepticon.clld.org/parameters/1008,оᴴс,bull
+531-1683,bezh1248,http://concepticon.clld.org/parameters/1169,оᴴс,ox
+531-1733,bezh1248,http://concepticon.clld.org/parameters/1169,бишелло оᴴс,ox
+531-229,bezh1248,http://concepticon.clld.org/parameters/1007,вара,cow
+531-1436,bezh1248,http://concepticon.clld.org/parameters/1989,бише,calf
+531-1816,bezh1248,http://concepticon.clld.org/parameters/1331,боцІи,sheep
+531-1209,bezh1248,http://concepticon.clld.org/parameters/1331,нуьшшоь боцІи,sheep
+531-1160,bezh1248,http://concepticon.clld.org/parameters/1344,хор,ram
+531-453,bezh1248,http://concepticon.clld.org/parameters/1344,озорди хор,ram
+531-1443,bezh1248,http://concepticon.clld.org/parameters/1345,бикь,ewe
+531-558,bezh1248,http://concepticon.clld.org/parameters/820,лІиле,lamb
+531-1274,bezh1248,http://concepticon.clld.org/parameters/1348,тІаьхе,boar
+531-1278,bezh1248,http://concepticon.clld.org/parameters/1348,тІаьхи,boar
+531-1700,bezh1248,http://concepticon.clld.org/parameters/1348,тІаьхи-булІо,boar
+531-397,bezh1248,http://concepticon.clld.org/parameters/1348,ванаъас булІо,boar
+531-707,bezh1248,http://concepticon.clld.org/parameters/1351,цІуйаб булІо,sow (2)
+531-1771,bezh1248,http://concepticon.clld.org/parameters/1337,булІо,pig
+531-297,bezh1248,http://concepticon.clld.org/parameters/1502,цан,goat
+531-1726,bezh1248,http://concepticon.clld.org/parameters/264,тIига,he-goat
+531-1282,bezh1248,http://concepticon.clld.org/parameters/1972,чикІе,kid
+531-493,bezh1248,http://concepticon.clld.org/parameters/615,шуьгоьсора,horse (equine)
+531-493,bezh1248,http://concepticon.clld.org/parameters/615,шуьгоьсора,horse (equine)
+531-169,bezh1248,http://concepticon.clld.org/parameters/936,сойра,stallion
+531-1534,bezh1248,http://concepticon.clld.org/parameters/936,барти,stallion
+531-419,bezh1248,http://concepticon.clld.org/parameters/938,шуьгоь,mare
+531-249,bezh1248,http://concepticon.clld.org/parameters/938,им-шуьгоь,mare
+531-629,bezh1248,http://concepticon.clld.org/parameters/1647,ичІер,"foal, colt"
+531-145,bezh1248,http://concepticon.clld.org/parameters/1647,гІичІер,"foal, colt"
+531-1465,bezh1248,http://concepticon.clld.org/parameters/1862,ирматІо,"ass, donkey"
+531-1143,bezh1248,http://concepticon.clld.org/parameters/1862,аᴴъуᴴ,"ass, donkey"
+531-1962,bezh1248,http://concepticon.clld.org/parameters/1862,агълач,"ass, donkey"
+531-1514,bezh1248,http://concepticon.clld.org/parameters/890,хорцІол,mule
+531-167,bezh1248,http://concepticon.clld.org/parameters/890,гIурцIен,mule
+531-1284,bezh1248,http://concepticon.clld.org/parameters/265,гуьдаь-гедо,fowl
+531-2017,bezh1248,http://concepticon.clld.org/parameters/1511,мамали,"cock, rooster"
+531-850,bezh1248,http://concepticon.clld.org/parameters/1514,гуьдаь,hen
+531-455,bezh1248,http://concepticon.clld.org/parameters/1318,мӣна,chicken
+531-1740,bezh1248,http://concepticon.clld.org/parameters/1318,гудиш мӣна,chicken
+531-1830,bezh1248,http://concepticon.clld.org/parameters/1187,батІи,goose
+531-1167,bezh1248,http://concepticon.clld.org/parameters/1187,ихи,goose
+531-312,bezh1248,http://concepticon.clld.org/parameters/1360,эхула,duck
+531-1830,bezh1248,http://concepticon.clld.org/parameters/1360,батІи,duck
+531-2012,bezh1248,http://concepticon.clld.org/parameters/539,ши,nest
+531-455,bezh1248,http://concepticon.clld.org/parameters/937,мӣна,bird
+531-2047,bezh1248,http://concepticon.clld.org/parameters/950,чайка,seagull
+531-1255,bezh1248,http://concepticon.clld.org/parameters/950,ралъадбас мӣна,seagull
+531-1641,bezh1248,http://concepticon.clld.org/parameters/758,хIаьжилакълакъ,heron
+531-1600,bezh1248,http://concepticon.clld.org/parameters/1905,гIажабера,eagle
+531-977,bezh1248,http://concepticon.clld.org/parameters/1905,гIаьжаьбера,eagle
+531-681,bezh1248,http://concepticon.clld.org/parameters/307,корзакІо,hawk
+531-208,bezh1248,http://concepticon.clld.org/parameters/307,кордакІо,hawk
+531-1127,bezh1248,http://concepticon.clld.org/parameters/1185,цугьа,vulture
+531-442,bezh1248,http://concepticon.clld.org/parameters/1185,капурабликьако гІажабера,vulture
+531-1213,bezh1248,http://concepticon.clld.org/parameters/1793,пIимпІаьлаьпІаьпIи,bat
+531-1982,bezh1248,http://concepticon.clld.org/parameters/882,папугай,parrot
+531-1705,bezh1248,http://concepticon.clld.org/parameters/882,ваьрлІоьчаьш мӣна,parrot
+531-903,bezh1248,http://concepticon.clld.org/parameters/913,гъаьде,crow
+531-856,bezh1248,http://concepticon.clld.org/parameters/1853,тІимо,dove
+531-831,bezh1248,http://concepticon.clld.org/parameters/1853,ил’баь,dove
+531-1324,bezh1248,http://concepticon.clld.org/parameters/735,руз,owl
+531-1541,bezh1248,http://concepticon.clld.org/parameters/735,гьугьудо,owl
+531-1696,bezh1248,http://concepticon.clld.org/parameters/2009,во,dog
+531-400,bezh1248,http://concepticon.clld.org/parameters/1136,билIос хъийа,rabbit
+531-720,bezh1248,http://concepticon.clld.org/parameters/1136,кролик,rabbit
+531-1952,bezh1248,http://concepticon.clld.org/parameters/1208,гедо,cat
+531-1121,bezh1248,http://concepticon.clld.org/parameters/1208,зардав гедо,cat
+531-915,bezh1248,http://concepticon.clld.org/parameters/1208,пІавле,cat
+531-1963,bezh1248,http://concepticon.clld.org/parameters/309,—,opossum
+531-1809,bezh1248,http://concepticon.clld.org/parameters/2139,аᴴкъо,"mouse, rat"
+531-2069,bezh1248,http://concepticon.clld.org/parameters/2139,лъарагІ-аᴴкъо,"mouse, rat"
+531-381,bezh1248,http://concepticon.clld.org/parameters/2139,чачан-аᴴкъо,"mouse, rat"
+531-1414,bezh1248,http://concepticon.clld.org/parameters/2139,букъо аᴴкъо,"mouse, rat"
+531-1210,bezh1248,http://concepticon.clld.org/parameters/2139,анхра,"mouse, rat"
+531-1686,bezh1248,http://concepticon.clld.org/parameters/227,биса,fish
+531-1748,bezh1248,http://concepticon.clld.org/parameters/213,бисис гьабо,fin (dorsal)
+531-150,bezh1248,http://concepticon.clld.org/parameters/266,бисис беш,fishscale
+531-1719,bezh1248,http://concepticon.clld.org/parameters/266,бисис хъар,fishscale
+531-578,bezh1248,http://concepticon.clld.org/parameters/1916,бисис аьᴴгъаьроь,gill
+531-1166,bezh1248,http://concepticon.clld.org/parameters/1916,бисис хІухьел,gill
+531-260,bezh1248,http://concepticon.clld.org/parameters/598,аьᴴгъаькаь,shell
+531-1797,bezh1248,http://concepticon.clld.org/parameters/598,бисис аьᴴгъаь,shell
+531-536,bezh1248,http://concepticon.clld.org/parameters/1110,акула,shark
+531-1812,bezh1248,http://concepticon.clld.org/parameters/1479,делфин,"porpoise, dolphin"
+531-1921,bezh1248,http://concepticon.clld.org/parameters/957,кит,whale
+531-1493,bezh1248,http://concepticon.clld.org/parameters/1910,ралъадбас во,stingray
+531-240,bezh1248,http://concepticon.clld.org/parameters/1013,лъиъко бекела,freshwater eel
+531-1568,bezh1248,http://concepticon.clld.org/parameters/522,бацІо,wolf
+531-862,bezh1248,http://concepticon.clld.org/parameters/1386,гъалбацІ,lion
+531-443,bezh1248,http://concepticon.clld.org/parameters/1820,сиᴴ,bear
+531-798,bezh1248,http://concepticon.clld.org/parameters/1312,сора,fox
+531-1691,bezh1248,http://concepticon.clld.org/parameters/1936,билъо,deer
+531-569,bezh1248,http://concepticon.clld.org/parameters/1936,аᴴлъо,deer
+531-1120,bezh1248,http://concepticon.clld.org/parameters/1936,лед,deer
+531-698,bezh1248,http://concepticon.clld.org/parameters/1936,бала,deer
+531-134,bezh1248,http://concepticon.clld.org/parameters/1936,гейро,deer
+531-1015,bezh1248,http://concepticon.clld.org/parameters/1936,гъел,deer
+531-546,bezh1248,http://concepticon.clld.org/parameters/1936,шимула,deer
+531-297,bezh1248,http://concepticon.clld.org/parameters/1936,цан,deer
+531-717,bezh1248,http://concepticon.clld.org/parameters/1936,лъигаь,deer
+531-1636,bezh1248,http://concepticon.clld.org/parameters/1350,маймун,monkey
+531-489,bezh1248,http://concepticon.clld.org/parameters/1350,маймалак,monkey
+531-826,bezh1248,http://concepticon.clld.org/parameters/1290,пил,elephant
+531-1753,bezh1248,http://concepticon.clld.org/parameters/1290,пил’,elephant
+531-1727,bezh1248,http://concepticon.clld.org/parameters/1871,варани,camel
+531-2049,bezh1248,http://concepticon.clld.org/parameters/1871,акламо,camel
+531-2075,bezh1248,http://concepticon.clld.org/parameters/1871,акламу,camel
+531-1335,bezh1248,http://concepticon.clld.org/parameters/620,хІутІ-хъумур,insect
+531-1623,bezh1248,http://concepticon.clld.org/parameters/310,нацо,louse
+531-459,bezh1248,http://concepticon.clld.org/parameters/267,чІимаь,nit (louse egg)
+531-70,bezh1248,http://concepticon.clld.org/parameters/267,чIиме,nit (louse egg)
+531-800,bezh1248,http://concepticon.clld.org/parameters/232,чІике,flea
+531-1984,bezh1248,http://concepticon.clld.org/parameters/1974,сорабетІела,centipede
+531-1001,bezh1248,http://concepticon.clld.org/parameters/1974,гьазархаьбаьлаьш,centipede
+531-2008,bezh1248,http://concepticon.clld.org/parameters/1538,акъраб,scorpion
+531-1716,bezh1248,http://concepticon.clld.org/parameters/1575,таракан,cockroach
+531-1979,bezh1248,http://concepticon.clld.org/parameters/587,гьуᴴца,ant
+531-899,bezh1248,http://concepticon.clld.org/parameters/843,къи,spider
+531-1678,bezh1248,http://concepticon.clld.org/parameters/843,калагъас къи,spider
+531-823,bezh1248,http://concepticon.clld.org/parameters/1065,къимакъо,spider web
+531-563,bezh1248,http://concepticon.clld.org/parameters/1065,калагъала къийаш ши,spider web
+531-1518,bezh1248,http://concepticon.clld.org/parameters/665,нуцодахъ тІотІ,bee
+531-926,bezh1248,http://concepticon.clld.org/parameters/1931,цини,beeswax
+531-199,bezh1248,http://concepticon.clld.org/parameters/88,хоьроь,beehive
+531-179,bezh1248,http://concepticon.clld.org/parameters/1517,лIоьдана,wasp
+531-879,bezh1248,http://concepticon.clld.org/parameters/1517,уьжмуьжи,wasp
+531-1473,bezh1248,http://concepticon.clld.org/parameters/1504,тІотІ,fly
+531-1806,bezh1248,http://concepticon.clld.org/parameters/95,келаь,"sandfly (midge), gnat"
+531-306,bezh1248,http://concepticon.clld.org/parameters/1509,цІу,mosquito
+531-475,bezh1248,http://concepticon.clld.org/parameters/1219,бетІелаь,worm
+531-814,bezh1248,http://concepticon.clld.org/parameters/730,бекелаь,snake
+531-65,bezh1248,http://concepticon.clld.org/parameters/206,бицІука,firefly
+531-69,bezh1248,http://concepticon.clld.org/parameters/1791,паьпаьтІоь,butterfly
+531-103,bezh1248,http://concepticon.clld.org/parameters/607,хацІо,grasshopper
+531-260,bezh1248,http://concepticon.clld.org/parameters/1543,аьᴴгъаькаь,snail
+531-1290,bezh1248,http://concepticon.clld.org/parameters/503,гІоьтІе,frog
+531-226,bezh1248,http://concepticon.clld.org/parameters/632,кІемуьшаь,lizard
+531-1649,bezh1248,http://concepticon.clld.org/parameters/1857,кракадил,"crocodile, alligator"
+531-1476,bezh1248,http://concepticon.clld.org/parameters/1857,аждагь,"crocodile, alligator"
+531-1086,bezh1248,http://concepticon.clld.org/parameters/112,кьалис гІоьтІе,turtle
+531-2027,bezh1248,http://concepticon.clld.org/parameters/112,кьалилІко гІоьтІе,turtle
+531-54,bezh1248,http://concepticon.clld.org/parameters/1480,черх,body
+531-632,bezh1248,http://concepticon.clld.org/parameters/1480,къаркъала,body
+531-525,bezh1248,http://concepticon.clld.org/parameters/1480,лага,body
+531-513,bezh1248,http://concepticon.clld.org/parameters/1480,магъо,body
+531-1819,bezh1248,http://concepticon.clld.org/parameters/763,беш,"skin, hide"
+531-247,bezh1248,http://concepticon.clld.org/parameters/763,гъаьше,"skin, hide"
+531-1581,bezh1248,http://concepticon.clld.org/parameters/763,хъаьлІоь,"skin, hide"
+531-161,bezh1248,http://concepticon.clld.org/parameters/2259,хо,flesh
+531-1638,bezh1248,http://concepticon.clld.org/parameters/1040,муьчІ,hair (head)
+531-1961,bezh1248,http://concepticon.clld.org/parameters/1040,кера,hair (head)
+531-296,bezh1248,http://concepticon.clld.org/parameters/678,баб,beard
+531-1961,bezh1248,http://concepticon.clld.org/parameters/189,кера,body hair
+531-430,bezh1248,http://concepticon.clld.org/parameters/36,пехІ,pubic hair
+531-1920,bezh1248,http://concepticon.clld.org/parameters/576,кидер,dandruff
+531-1275,bezh1248,http://concepticon.clld.org/parameters/576,бугъоро беш,dandruff
+531-1149,bezh1248,http://concepticon.clld.org/parameters/946,гьеᴴ,blood
+531-1676,bezh1248,http://concepticon.clld.org/parameters/525,пи,"vein, artery"
+531-586,bezh1248,http://concepticon.clld.org/parameters/1394,лІоьраь,bone
+531-68,bezh1248,http://concepticon.clld.org/parameters/801,шеблоь,rib
+531-1773,bezh1248,http://concepticon.clld.org/parameters/1393,шелоь,horn
+531-447,bezh1248,http://concepticon.clld.org/parameters/1220,мигъ,tail
+531-843,bezh1248,http://concepticon.clld.org/parameters/1291,михъаро,back
+531-726,bezh1248,http://concepticon.clld.org/parameters/805,кІада-михъаро,spine
+531-1651,bezh1248,http://concepticon.clld.org/parameters/1256,къаьм,head
+531-1679,bezh1248,http://concepticon.clld.org/parameters/1604,шуьшшоь къаьм,"side of head, temple"
+531-838,bezh1248,http://concepticon.clld.org/parameters/1605,кІоцо,skull
+531-1900,bezh1248,http://concepticon.clld.org/parameters/1583,гIаьᴴдаь,brain
+531-1791,bezh1248,http://concepticon.clld.org/parameters/1560,мотІо,face
+531-288,bezh1248,http://concepticon.clld.org/parameters/1560,гьумер,face
+531-538,bezh1248,http://concepticon.clld.org/parameters/123,маьтІаь,forehead
+531-1674,bezh1248,http://concepticon.clld.org/parameters/123,натІа,forehead
+531-943,bezh1248,http://concepticon.clld.org/parameters/798,кьахъа,jaw
+531-535,bezh1248,http://concepticon.clld.org/parameters/1730,гугаро,cheek
+531-985,bezh1248,http://concepticon.clld.org/parameters/1510,чІичІина,chin
+531-857,bezh1248,http://concepticon.clld.org/parameters/1248,хIаьре,eye
+531-121,bezh1248,http://concepticon.clld.org/parameters/1173,гьаькъуьваь,eyebrow
+531-38,bezh1248,http://concepticon.clld.org/parameters/17,хIаьш кьаькъе,eyelid
+531-1821,bezh1248,http://concepticon.clld.org/parameters/17,хІаьш кало,eyelid
+531-105,bezh1248,http://concepticon.clld.org/parameters/1540,хIаьш цІицІ,eyelash
+531-1339,bezh1248,http://concepticon.clld.org/parameters/1655,хIаьре тIизокIал,blink
+531-575,bezh1248,http://concepticon.clld.org/parameters/1247,аьᴴгъаь,ear
+531-153,bezh1248,http://concepticon.clld.org/parameters/18,аьᴴгъаьлаьш кик (кики),earlobe
+531-926,bezh1248,http://concepticon.clld.org/parameters/32,цини,earwax
+531-1119,bezh1248,http://concepticon.clld.org/parameters/1221,маьроь,nose
+531-840,bezh1248,http://concepticon.clld.org/parameters/1178,хуцІ-маьроь,nostril
+531-724,bezh1248,http://concepticon.clld.org/parameters/1178,мараьш аьхІ,nostril
+531-618,bezh1248,http://concepticon.clld.org/parameters/208,хида,mucus (nasal)
+531-417,bezh1248,http://concepticon.clld.org/parameters/674,шикІоь,mouth
+531-101,bezh1248,http://concepticon.clld.org/parameters/73,моькьоь,beak
+531-71,bezh1248,http://concepticon.clld.org/parameters/478,поро,lip
+531-1020,bezh1248,http://concepticon.clld.org/parameters/1205,миц,tongue
+531-122,bezh1248,http://concepticon.clld.org/parameters/1380,сила,tooth
+531-1562,bezh1248,http://concepticon.clld.org/parameters/139,чІимаьтІ,gums
+531-2018,bezh1248,http://concepticon.clld.org/parameters/139,тІе,gums
+531-701,bezh1248,http://concepticon.clld.org/parameters/1049,хаг,molartooth
+531-522,bezh1248,http://concepticon.clld.org/parameters/1049,тигъаьдāьш сила,molartooth
+531-165,bezh1248,http://concepticon.clld.org/parameters/1333,болъо,neck
+531-331,bezh1248,http://concepticon.clld.org/parameters/1347,муьгъаьлІдāьш къаьм,nape of neck
+531-2038,bezh1248,http://concepticon.clld.org/parameters/1347,къаьмиш хоькІкІоь,nape of neck
+531-1862,bezh1248,http://concepticon.clld.org/parameters/1346,рис,throat
+531-1375,bezh1248,http://concepticon.clld.org/parameters/1482,къероь,shoulder
+531-432,bezh1248,http://concepticon.clld.org/parameters/172,рикьа,shoulderblade
+531-610,bezh1248,http://concepticon.clld.org/parameters/1994,къераьш тІиро,collarbone
+531-1116,bezh1248,http://concepticon.clld.org/parameters/1673,коро,arm
+531-2093,bezh1248,http://concepticon.clld.org/parameters/1886,нухъулІ,armpit
+531-1708,bezh1248,http://concepticon.clld.org/parameters/981,харо,elbow
+531-2035,bezh1248,http://concepticon.clld.org/parameters/799,коро руькъе-раькъецас маче,wrist
+531-1116,bezh1248,http://concepticon.clld.org/parameters/1277,коро,hand
+531-1522,bezh1248,http://concepticon.clld.org/parameters/1183,къеден,palm of hand
+531-375,bezh1248,http://concepticon.clld.org/parameters/1183,къедо,palm of hand
+531-976,bezh1248,http://concepticon.clld.org/parameters/1183,къида,palm of hand
+531-1569,bezh1248,http://concepticon.clld.org/parameters/1303,зокьо,finger
+531-1993,bezh1248,http://concepticon.clld.org/parameters/1781,буькъоь зокьо,thumb
+531-1186,bezh1248,http://concepticon.clld.org/parameters/1258,милъо,fingernail
+531-1186,bezh1248,http://concepticon.clld.org/parameters/72,милъо,claw
+531-1089,bezh1248,http://concepticon.clld.org/parameters/1297,хаьбаь,leg
+531-311,bezh1248,http://concepticon.clld.org/parameters/800,ригъла,thigh
+531-1957,bezh1248,http://concepticon.clld.org/parameters/498,ким,calf of leg
+531-740,bezh1248,http://concepticon.clld.org/parameters/1371,аᴴга,knee
+531-126,bezh1248,http://concepticon.clld.org/parameters/1301,гьало,foot
+531-895,bezh1248,http://concepticon.clld.org/parameters/803,къаьтаь,ankle
+531-951,bezh1248,http://concepticon.clld.org/parameters/980,тІим,heel
+531-462,bezh1248,http://concepticon.clld.org/parameters/980,кІим,heel
+531-1318,bezh1248,http://concepticon.clld.org/parameters/318,дагъи,footprint
+531-314,bezh1248,http://concepticon.clld.org/parameters/318,лъо,footprint
+531-1569,bezh1248,http://concepticon.clld.org/parameters/1389,зокьо,toe
+531-1526,bezh1248,http://concepticon.clld.org/parameters/1257,гьабо,wing
+531-1092,bezh1248,http://concepticon.clld.org/parameters/1257,пудо,wing
+531-1890,bezh1248,http://concepticon.clld.org/parameters/1201,маьчІаь,feather
+531-1092,bezh1248,http://concepticon.clld.org/parameters/1201,пудо,feather
+531-1808,bezh1248,http://concepticon.clld.org/parameters/1592,гъеро,chest
+531-384,bezh1248,http://concepticon.clld.org/parameters/1592,хомаро,chest
+531-579,bezh1248,http://concepticon.clld.org/parameters/1402,нене,breast (of woman)
+531-1778,bezh1248,http://concepticon.clld.org/parameters/796,гьуᴴкь,"nipple, teat"
+531-1492,bezh1248,http://concepticon.clld.org/parameters/796,кики,"nipple, teat"
+531-579,bezh1248,http://concepticon.clld.org/parameters/154,нене,udder
+531-1919,bezh1248,http://concepticon.clld.org/parameters/1838,цотІаро,navel
+531-1262,bezh1248,http://concepticon.clld.org/parameters/1223,ракІо,heart
+531-1949,bezh1248,http://concepticon.clld.org/parameters/688,пиртІи,lung
+531-194,bezh1248,http://concepticon.clld.org/parameters/1224,шебоь,liver
+531-1497,bezh1248,http://concepticon.clld.org/parameters/489,кома,kidney
+531-1446,bezh1248,http://concepticon.clld.org/parameters/1744,бацIо,spleen
+531-1595,bezh1248,http://concepticon.clld.org/parameters/1744,бацIкил,spleen
+531-1937,bezh1248,http://concepticon.clld.org/parameters/819,аᴴх,stomach
+531-1561,bezh1248,http://concepticon.clld.org/parameters/1991,аᴴх-балІа,"intestines, guts"
+531-1070,bezh1248,http://concepticon.clld.org/parameters/1681,цотІиъис маче,waist
+531-1108,bezh1248,http://concepticon.clld.org/parameters/1681,цотIиъ,waist
+531-252,bezh1248,http://concepticon.clld.org/parameters/1745,чІамал,hip
+531-311,bezh1248,http://concepticon.clld.org/parameters/1745,ригъла,hip
+531-601,bezh1248,http://concepticon.clld.org/parameters/834,котІа,buttocks
+531-2081,bezh1248,http://concepticon.clld.org/parameters/834,гIаьшаьъ,buttocks
+531-1553,bezh1248,http://concepticon.clld.org/parameters/834,гIаьшаь холоъ,buttocks
+531-624,bezh1248,http://concepticon.clld.org/parameters/804,шиᴴ,womb
+531-201,bezh1248,http://concepticon.clld.org/parameters/797,хокI,testicle
+531-1370,bezh1248,http://concepticon.clld.org/parameters/797,хокІаро,testicle
+531-1815,bezh1248,http://concepticon.clld.org/parameters/797,хокIла,testicle
+531-1184,bezh1248,http://concepticon.clld.org/parameters/1222,дакь,penis
+531-2092,bezh1248,http://concepticon.clld.org/parameters/1222,маьжаьр,penis
+531-1329,bezh1248,http://concepticon.clld.org/parameters/1222,мехьер,penis
+531-1579,bezh1248,http://concepticon.clld.org/parameters/1407,муше багъал,"breathe, breath"
+531-472,bezh1248,http://concepticon.clld.org/parameters/1407,муше,"breathe, breath"
+531-846,bezh1248,http://concepticon.clld.org/parameters/1028,гьагьдагьал,"yawn, gape"
+531-1162,bezh1248,http://concepticon.clld.org/parameters/1028,гъозалагьал,"yawn, gape"
+531-1291,bezh1248,http://concepticon.clld.org/parameters/162,гьиᴴкІдаьгьаьл,hiccough
+531-1360,bezh1248,http://concepticon.clld.org/parameters/879,охІдаьгьаьл,cough
+531-531,bezh1248,http://concepticon.clld.org/parameters/1621,хIицдагьал,sneeze
+531-1688,bezh1248,http://concepticon.clld.org/parameters/126,гьаᴴдицІал,perspire
+531-1058,bezh1248,http://concepticon.clld.org/parameters/126,гьаᴴд гувал,perspire
+531-705,bezh1248,http://concepticon.clld.org/parameters/126,гьаᴴд руьᴴхаьл,perspire
+531-1386,bezh1248,http://concepticon.clld.org/parameters/126,гьаᴴдилI иᴴхъал,perspire
+531-1224,bezh1248,http://concepticon.clld.org/parameters/1440,туьлІаьл,spit
+531-1818,bezh1248,http://concepticon.clld.org/parameters/1440,туьраьгьаьл,spit
+531-2023,bezh1248,http://concepticon.clld.org/parameters/1440,туьлІаьл’,spit
+531-1131,bezh1248,http://concepticon.clld.org/parameters/1440,туьраьгьаьл’,spit
+531-1044,bezh1248,http://concepticon.clld.org/parameters/1278,бекрукІдагьал,vomit
+531-369,bezh1248,http://concepticon.clld.org/parameters/1403,сила рагъал,bite
+531-623,bezh1248,http://concepticon.clld.org/parameters/319,маьчаьл,lick
+531-339,bezh1248,http://concepticon.clld.org/parameters/319,маьчаьл’,lick
+531-439,bezh1248,http://concepticon.clld.org/parameters/268,къица гувал,dribble
+531-107,bezh1248,http://concepticon.clld.org/parameters/268,къица руьшаьл,dribble
+531-364,bezh1248,http://concepticon.clld.org/parameters/268,наьчоь гийал,dribble
+531-745,bezh1248,http://concepticon.clld.org/parameters/1585,йучахал,sleep
+531-176,bezh1248,http://concepticon.clld.org/parameters/1585,йутІал,sleep
+531-435,bezh1248,http://concepticon.clld.org/parameters/1585,йуьчаьхаьл’,sleep
+531-555,bezh1248,http://concepticon.clld.org/parameters/1983,хоьлІаьл,snore
+531-1628,bezh1248,http://concepticon.clld.org/parameters/1983,хоьраьгьаьл,snore
+531-562,bezh1248,http://concepticon.clld.org/parameters/1983,хоьлІаьл’,snore
+531-1416,bezh1248,http://concepticon.clld.org/parameters/1983,хоьраьгьаьл’,snore
+531-518,bezh1248,http://concepticon.clld.org/parameters/1920,малІо йегаьгьаьл,dream
+531-379,bezh1248,http://concepticon.clld.org/parameters/1920,милIалъ жо регаьгьаьл,dream
+531-1194,bezh1248,http://concepticon.clld.org/parameters/1602,лъуьълІаьл,wake up
+531-1747,bezh1248,http://concepticon.clld.org/parameters/1602,малIо йуькьаьл,wake up
+531-2072,bezh1248,http://concepticon.clld.org/parameters/1602,лъуьълІаьл’,wake up
+531-1869,bezh1248,http://concepticon.clld.org/parameters/1159,лІерагьал,break wind
+531-1702,bezh1248,http://concepticon.clld.org/parameters/592,цималагьал,urinate
+531-1639,bezh1248,http://concepticon.clld.org/parameters/592,цима рейал,urinate
+531-1588,bezh1248,http://concepticon.clld.org/parameters/592,цима тIикаьл,urinate
+531-305,bezh1248,http://concepticon.clld.org/parameters/676,сарагьал,defecate
+531-1191,bezh1248,http://concepticon.clld.org/parameters/676,сарāл,defecate
+531-1241,bezh1248,http://concepticon.clld.org/parameters/1785,йеᴴкъаьл,have sexual intercourse
+531-1310,bezh1248,http://concepticon.clld.org/parameters/1785,жоь ровал,have sexual intercourse
+531-1321,bezh1248,http://concepticon.clld.org/parameters/52,зизилІал,shiver
+531-84,bezh1248,http://concepticon.clld.org/parameters/52,къикъилIал,shiver
+531-1996,bezh1248,http://concepticon.clld.org/parameters/52,къикъидагьал,shiver
+531-1989,bezh1248,http://concepticon.clld.org/parameters/138,лъикІелагьал,bathe
+531-81,bezh1248,http://concepticon.clld.org/parameters/138,бани бовал,bathe
+531-204,bezh1248,http://concepticon.clld.org/parameters/1152,овал,beget (of father)
+531-1580,bezh1248,http://concepticon.clld.org/parameters/1090,(къора) ахъал,born (to be)
+531-1729,bezh1248,http://concepticon.clld.org/parameters/1123,оᴴх гаьллоь,pregnant
+531-338,bezh1248,http://concepticon.clld.org/parameters/1123,къинай,pregnant
+531-890,bezh1248,http://concepticon.clld.org/parameters/1123,загIипаб,pregnant
+531-718,bezh1248,http://concepticon.clld.org/parameters/1087,оᴴх гаьллоь йахъал,conceive
+531-1878,bezh1248,http://concepticon.clld.org/parameters/1422,гІумру бовал,"live, living, life"
+531-129,bezh1248,http://concepticon.clld.org/parameters/1422,чІагуйаб,"live, living, life"
+531-1855,bezh1248,http://concepticon.clld.org/parameters/1422,гІумру,"live, living, life"
+531-1118,bezh1248,http://concepticon.clld.org/parameters/1494,йугъал,"die, dead"
+531-2044,bezh1248,http://concepticon.clld.org/parameters/1494,йугъоро,"die, dead"
+531-2059,bezh1248,http://concepticon.clld.org/parameters/1494,олъал,"die, dead"
+531-1783,bezh1248,http://concepticon.clld.org/parameters/1494,олъоро,"die, dead"
+531-576,bezh1248,http://concepticon.clld.org/parameters/1904,гъанкъези ахъиро (сукІо),drowned
+531-725,bezh1248,http://concepticon.clld.org/parameters/1417,бикьал,kill
+531-851,bezh1248,http://concepticon.clld.org/parameters/767,жаназа,corpse
+531-792,bezh1248,http://concepticon.clld.org/parameters/767,угъорас къаркъала,corpse
+531-219,bezh1248,http://concepticon.clld.org/parameters/1719,шуьнаьъ иᴴхъолал,bury (the dead)
+531-1650,bezh1248,http://concepticon.clld.org/parameters/1719,лІиро иᴴхъолал,bury (the dead)
+531-1950,bezh1248,http://concepticon.clld.org/parameters/1773,шуьнаь,"grave, tomb"
+531-1156,bezh1248,http://concepticon.clld.org/parameters/1773,лахІто,"grave, tomb"
+531-250,bezh1248,http://concepticon.clld.org/parameters/785,къуватаб,"strong, mighty, powerful"
+531-1440,bezh1248,http://concepticon.clld.org/parameters/785,гучаб,"strong, mighty, powerful"
+531-1285,bezh1248,http://concepticon.clld.org/parameters/1601,загІипаб,weak
+531-530,bezh1248,http://concepticon.clld.org/parameters/1601,къудо гаьччоь,weak
+531-929,bezh1248,http://concepticon.clld.org/parameters/1601,тоьбаьроь,weak
+531-76,bezh1248,http://concepticon.clld.org/parameters/1364,сахлъи,"well, health"
+531-676,bezh1248,http://concepticon.clld.org/parameters/1364,сагъаб,"well, health"
+531-654,bezh1248,http://concepticon.clld.org/parameters/1847,унти,"sick, sickness"
+531-974,bezh1248,http://concepticon.clld.org/parameters/1847,унтараб,"sick, sickness"
+531-1547,bezh1248,http://concepticon.clld.org/parameters/1847,кІокІоро,"sick, sickness"
+531-1717,bezh1248,http://concepticon.clld.org/parameters/1534,цІолъиро экІеро,fever
+531-1640,bezh1248,http://concepticon.clld.org/parameters/1534,йаьчІикІиролъи,fever
+531-875,bezh1248,http://concepticon.clld.org/parameters/1534,йаьчІ-йихкІал,fever
+531-1632,bezh1248,http://concepticon.clld.org/parameters/1957,гъагъ,goiter
+531-1697,bezh1248,http://concepticon.clld.org/parameters/102,гъера-къаьмиш,cold (catarrh)
+531-189,bezh1248,http://concepticon.clld.org/parameters/102,раьчІ-риххас унти,cold (catarrh)
+531-238,bezh1248,http://concepticon.clld.org/parameters/1109,оᴴхо,"wound, sore"
+531-180,bezh1248,http://concepticon.clld.org/parameters/1148,даьжижаь,bruise
+531-927,bezh1248,http://concepticon.clld.org/parameters/1903,раверо жо,swelling
+531-1938,bezh1248,http://concepticon.clld.org/parameters/1903,раьвероьлъи,swelling
+531-227,bezh1248,http://concepticon.clld.org/parameters/148,хосдаро,itch
+531-1038,bezh1248,http://concepticon.clld.org/parameters/148,хосдаролъи,itch
+531-1959,bezh1248,http://concepticon.clld.org/parameters/1584,лъис момола,blister
+531-1885,bezh1248,http://concepticon.clld.org/parameters/793,гьуᴴкІаро,boil (noun)
+531-801,bezh1248,http://concepticon.clld.org/parameters/793,иᴴж гьуᴴкIаро,boil (noun)
+531-1178,bezh1248,http://concepticon.clld.org/parameters/1808,жож,pus
+531-1347,bezh1248,http://concepticon.clld.org/parameters/1808,жоьж’,pus
+531-1945,bezh1248,http://concepticon.clld.org/parameters/497,аьᴴж,scar
+531-215,bezh1248,http://concepticon.clld.org/parameters/499,сагъ овал,"cure, heal"
+531-1435,bezh1248,http://concepticon.clld.org/parameters/499,кIокIоро ахълал,"cure, heal"
+531-956,bezh1248,http://concepticon.clld.org/parameters/499,унти болъолал,"cure, heal"
+531-1155,bezh1248,http://concepticon.clld.org/parameters/597,дохтур,physician
+531-266,bezh1248,http://concepticon.clld.org/parameters/597,варач,physician
+531-487,bezh1248,http://concepticon.clld.org/parameters/1372,дару,"medicine, drug"
+531-1795,bezh1248,http://concepticon.clld.org/parameters/1372,дарман,"medicine, drug"
+531-1863,bezh1248,http://concepticon.clld.org/parameters/1372,сабаб,"medicine, drug"
+531-944,bezh1248,http://concepticon.clld.org/parameters/655,загьру,poison
+531-437,bezh1248,http://concepticon.clld.org/parameters/1757,сакази ахъиро,"tired, weary"
+531-1661,bezh1248,http://concepticon.clld.org/parameters/1757,сакараб,"tired, weary"
+531-1263,bezh1248,http://concepticon.clld.org/parameters/168,рахІат бовал,rest
+531-1348,bezh1248,http://concepticon.clld.org/parameters/168,утІ-агъицIал,rest
+531-428,bezh1248,http://concepticon.clld.org/parameters/1564,кІoхІалаб,lazy
+531-1586,bezh1248,http://concepticon.clld.org/parameters/1564,кІагІаб кІаьхІаьлаьб,lazy
+531-434,bezh1248,http://concepticon.clld.org/parameters/1564,кІаьгІаьб,lazy
+531-1368,bezh1248,http://concepticon.clld.org/parameters/1564,гъугъаб,lazy
+531-33,bezh1248,http://concepticon.clld.org/parameters/1564,хІинцаб,lazy
+531-1330,bezh1248,http://concepticon.clld.org/parameters/1125,пІаьпІаьлоь,bald
+531-810,bezh1248,http://concepticon.clld.org/parameters/1125,кІаькІаьлоь (къаьм),bald
+531-1268,bezh1248,http://concepticon.clld.org/parameters/1125,коса,bald
+531-2082,bezh1248,http://concepticon.clld.org/parameters/320,шардагьаьл,lame
+531-1662,bezh1248,http://concepticon.clld.org/parameters/996,гІинкъаб,deaf
+531-1610,bezh1248,http://concepticon.clld.org/parameters/996,тухъаъцас,deaf
+531-533,bezh1248,http://concepticon.clld.org/parameters/996,аьᴴгъаьлаькьаь илІаро,deaf
+531-753,bezh1248,http://concepticon.clld.org/parameters/1666,раьжегаьччоь,mute
+531-2057,bezh1248,http://concepticon.clld.org/parameters/1653,боцдийо,blind
+531-566,bezh1248,http://concepticon.clld.org/parameters/1653,канлъи гаьччоь,blind
+531-319,bezh1248,http://concepticon.clld.org/parameters/1463,чихиро,intoxicated
+531-1762,bezh1248,http://concepticon.clld.org/parameters/1463,хурāро,intoxicated
+531-450,bezh1248,http://concepticon.clld.org/parameters/590,шаьтІтІоь,"naked, bare"
+531-1995,bezh1248,http://concepticon.clld.org/parameters/1336,бешал,eat
+531-963,bezh1248,http://concepticon.clld.org/parameters/1336,бешаьл’,eat
+531-78,bezh1248,http://concepticon.clld.org/parameters/256,кен,food
+531-35,bezh1248,http://concepticon.clld.org/parameters/256,кен-оᴴх,food
+531-970,bezh1248,http://concepticon.clld.org/parameters/256,руьхъаьго,food
+531-25,bezh1248,http://concepticon.clld.org/parameters/269,гьелеро,cooked
+531-1342,bezh1248,http://concepticon.clld.org/parameters/1959,хIаьтІтІоь,raw
+531-1104,bezh1248,http://concepticon.clld.org/parameters/178,бикъоро,ripe
+531-257,bezh1248,http://concepticon.clld.org/parameters/178,мокъоро,ripe
+531-1124,bezh1248,http://concepticon.clld.org/parameters/1958,бикъеэс,"green, unripe"
+531-1583,bezh1248,http://concepticon.clld.org/parameters/1958,мокъеэс,"green, unripe"
+531-861,bezh1248,http://concepticon.clld.org/parameters/1728,къокъоро,rotten
+531-1091,bezh1248,http://concepticon.clld.org/parameters/1728,цоцило,rotten
+531-1423,bezh1248,http://concepticon.clld.org/parameters/1728,гъаьрроь,rotten
+531-1519,bezh1248,http://concepticon.clld.org/parameters/1401,хулІал,drink
+531-1852,bezh1248,http://concepticon.clld.org/parameters/1533,нуко̄ролъи,hunger
+531-813,bezh1248,http://concepticon.clld.org/parameters/1533,бакъзиахъиролъи,hunger
+531-1777,bezh1248,http://concepticon.clld.org/parameters/199,ракъи,famine
+531-444,bezh1248,http://concepticon.clld.org/parameters/848,къеч,thirst
+531-1594,bezh1248,http://concepticon.clld.org/parameters/848,аᴴхъāролъи,thirst
+531-762,bezh1248,http://concepticon.clld.org/parameters/1421,гьагъал,suck
+531-868,bezh1248,http://concepticon.clld.org/parameters/1421,цоцлІал,suck
+531-986,bezh1248,http://concepticon.clld.org/parameters/321,лъилъал,chew
+531-1598,bezh1248,http://concepticon.clld.org/parameters/321,лъилъаьл’,chew
+531-1915,bezh1248,http://concepticon.clld.org/parameters/897,маьчегичІлал,swallow
+531-886,bezh1248,http://concepticon.clld.org/parameters/897,маьчегичІлаьл’,swallow
+531-222,bezh1248,http://concepticon.clld.org/parameters/129,лІухелал,choke
+531-1425,bezh1248,http://concepticon.clld.org/parameters/129,лІухелаьл’,choke
+531-481,bezh1248,http://concepticon.clld.org/parameters/1100,гьелал,cook
+531-2084,bezh1248,http://concepticon.clld.org/parameters/1100,гьелаьл’,cook
+531-2073,bezh1248,http://concepticon.clld.org/parameters/792,гъарлІолал,boil (vb)
+531-159,bezh1248,http://concepticon.clld.org/parameters/2146,жижагьал,"roast, fry"
+531-281,bezh1248,http://concepticon.clld.org/parameters/2146,жижаьгьаьл’,"roast, fry"
+531-159,bezh1248,http://concepticon.clld.org/parameters/183,жижагьал,bake
+531-281,bezh1248,http://concepticon.clld.org/parameters/183,жижаьгьаьл’,bake
+531-1684,bezh1248,http://concepticon.clld.org/parameters/1143,тандур,oven
+531-110,bezh1248,http://concepticon.clld.org/parameters/1143,кандури,oven
+531-1715,bezh1248,http://concepticon.clld.org/parameters/1462,хъазан,"pot, cooking vessel"
+531-1944,bezh1248,http://concepticon.clld.org/parameters/1462,хъизин,"pot, cooking vessel"
+531-127,bezh1248,http://concepticon.clld.org/parameters/1462,катилук,"pot, cooking vessel"
+531-1602,bezh1248,http://concepticon.clld.org/parameters/854,чайникІ,kettle
+531-1345,bezh1248,http://concepticon.clld.org/parameters/854,чайдан,kettle
+531-639,bezh1248,http://concepticon.clld.org/parameters/31,шаьг,pan
+531-684,bezh1248,http://concepticon.clld.org/parameters/481,хаьтІаь,dish
+531-684,bezh1248,http://concepticon.clld.org/parameters/480,хаьтІаь,plate
+531-1769,bezh1248,http://concepticon.clld.org/parameters/480,жаьми,plate
+531-239,bezh1248,http://concepticon.clld.org/parameters/1530,тІакани,bowl
+531-1755,bezh1248,http://concepticon.clld.org/parameters/1530,тІабакІо,bowl
+531-549,bezh1248,http://concepticon.clld.org/parameters/270,куьдаьри,"pitcher, jug"
+531-2031,bezh1248,http://concepticon.clld.org/parameters/270,мазгар,"pitcher, jug"
+531-295,bezh1248,http://concepticon.clld.org/parameters/476,таси,"cup, drinking vessel"
+531-885,bezh1248,http://concepticon.clld.org/parameters/271,буьвероь хаьтІаь,saucer
+531-1677,bezh1248,http://concepticon.clld.org/parameters/1378,кетІе,spoon
+531-1503,bezh1248,http://concepticon.clld.org/parameters/1378,кІобзи,spoon
+531-1506,bezh1248,http://concepticon.clld.org/parameters/1378,кІобзе,spoon
+531-1494,bezh1248,http://concepticon.clld.org/parameters/1352,чІитІ,knife (2)
+531-921,bezh1248,http://concepticon.clld.org/parameters/1302,сино,fork (2)
+531-1997,bezh1248,http://concepticon.clld.org/parameters/272,калбатун,tongs
+531-103,bezh1248,http://concepticon.clld.org/parameters/272,хацІо,tongs
+531-590,bezh1248,http://concepticon.clld.org/parameters/1526,беширолъи,meal (a)
+531-1725,bezh1248,http://concepticon.clld.org/parameters/1322,хишакьаш беширолъи,breakfast
+531-466,bezh1248,http://concepticon.clld.org/parameters/768,бешкьаш беширолъи,lunch
+531-1774,bezh1248,http://concepticon.clld.org/parameters/1833,лІобакьас беширолъи,dinner
+531-170,bezh1248,http://concepticon.clld.org/parameters/1833,нишеш беширолъи,supper
+531-581,bezh1248,http://concepticon.clld.org/parameters/275,рацолал,peel
+531-622,bezh1248,http://concepticon.clld.org/parameters/275,бацІад ровал,peel
+531-1757,bezh1248,http://concepticon.clld.org/parameters/86,ишиъал,"sieve, strain"
+531-516,bezh1248,http://concepticon.clld.org/parameters/86,ишиъаьл’,"sieve, strain"
+531-1882,bezh1248,http://concepticon.clld.org/parameters/86,тІуцал,"sieve, strain"
+531-67,bezh1248,http://concepticon.clld.org/parameters/1767,хаслІолал,scrape
+531-41,bezh1248,http://concepticon.clld.org/parameters/1767,харлІолал,scrape
+531-1802,bezh1248,http://concepticon.clld.org/parameters/2017,лахлІолал лъичІхочІлал,"stir, mix"
+531-1597,bezh1248,http://concepticon.clld.org/parameters/2017,лъичІхоьчІлаьл’,"stir, mix"
+531-1611,bezh1248,http://concepticon.clld.org/parameters/1368,баба,bread
+531-2058,bezh1248,http://concepticon.clld.org/parameters/1368,баьбаь,bread
+531-66,bezh1248,http://concepticon.clld.org/parameters/273,роьте,dough
+531-1006,bezh1248,http://concepticon.clld.org/parameters/274,роьте ровал,knead
+531-63,bezh1248,http://concepticon.clld.org/parameters/274,роьте гулал,knead
+531-268,bezh1248,http://concepticon.clld.org/parameters/1594,хІаьтIтІоь,"meal, flour"
+531-1034,bezh1248,http://concepticon.clld.org/parameters/1033,нушекІал,"crush, grind"
+531-1083,bezh1248,http://concepticon.clld.org/parameters/636,гьабор,mill
+531-543,bezh1248,http://concepticon.clld.org/parameters/636,керхажо,mill
+531-1840,bezh1248,http://concepticon.clld.org/parameters/224,цобохна,mortar (2)
+531-1183,bezh1248,http://concepticon.clld.org/parameters/225,гердалагІучІ,pestle
+531-161,bezh1248,http://concepticon.clld.org/parameters/634,хо,meat
+531-1615,bezh1248,http://concepticon.clld.org/parameters/1874,балІа,sausage
+531-1220,bezh1248,http://concepticon.clld.org/parameters/1874,боцIилло балIа,sausage
+531-1061,bezh1248,http://concepticon.clld.org/parameters/1547,йакъо,"soup, broth"
+531-1472,bezh1248,http://concepticon.clld.org/parameters/1547,суп,"soup, broth"
+531-1545,bezh1248,http://concepticon.clld.org/parameters/1547,шорпа,"soup, broth"
+531-23,bezh1248,http://concepticon.clld.org/parameters/924,нажи-хагъу,vegetables
+531-87,bezh1248,http://concepticon.clld.org/parameters/924,нижи- хагъо,vegetables
+531-1027,bezh1248,http://concepticon.clld.org/parameters/832,гьоло,bean
+531-849,bezh1248,http://concepticon.clld.org/parameters/832,чІотІи,bean
+531-995,bezh1248,http://concepticon.clld.org/parameters/832,лобийо,bean
+531-1374,bezh1248,http://concepticon.clld.org/parameters/593,кIапу,potato
+531-519,bezh1248,http://concepticon.clld.org/parameters/593,кІату,potato
+531-1766,bezh1248,http://concepticon.clld.org/parameters/593,кІартупили,potato
+531-548,bezh1248,http://concepticon.clld.org/parameters/1507,пихъ,fruit
+531-72,bezh1248,http://concepticon.clld.org/parameters/1507,эᴴш-пихъ,fruit
+531-640,bezh1248,http://concepticon.clld.org/parameters/1966,чІаьпІ,bunch
+531-719,bezh1248,http://concepticon.clld.org/parameters/322,легъи,fig
+531-427,bezh1248,http://concepticon.clld.org/parameters/920,кІодо,grape
+531-1942,bezh1248,http://concepticon.clld.org/parameters/191,гьелІе,nut
+531-973,bezh1248,http://concepticon.clld.org/parameters/191,хили,nut
+531-1951,bezh1248,http://concepticon.clld.org/parameters/1154,зайтун,olive
+531-1970,bezh1248,http://concepticon.clld.org/parameters/1484,зети,oil
+531-652,bezh1248,http://concepticon.clld.org/parameters/323,махІа,"grease, fat"
+531-1714,bezh1248,http://concepticon.clld.org/parameters/323,цоцо,"grease, fat"
+531-92,bezh1248,http://concepticon.clld.org/parameters/1274,ца,salt
+531-5,bezh1248,http://concepticon.clld.org/parameters/1385,пІилпІил,pepper
+531-1455,bezh1248,http://concepticon.clld.org/parameters/919,рекІеро пIилпIил,chili pepper
+531-16,bezh1248,http://concepticon.clld.org/parameters/942,нуцо,honey
+531-1779,bezh1248,http://concepticon.clld.org/parameters/862,чакар,sugar
+531-1760,bezh1248,http://concepticon.clld.org/parameters/635,гьиᴴ,milk (noun)
+531-1159,bezh1248,http://concepticon.clld.org/parameters/93,тІаьлІаьл,milk (vb)
+531-223,bezh1248,http://concepticon.clld.org/parameters/93,тІаьлІаьл’,milk (vb)
+531-785,bezh1248,http://concepticon.clld.org/parameters/1569,кІимаь,cheese
+531-1932,bezh1248,http://concepticon.clld.org/parameters/1569,нисо-кІимаь,cheese
+531-221,bezh1248,http://concepticon.clld.org/parameters/1569,ниъкьас,cheese
+531-1501,bezh1248,http://concepticon.clld.org/parameters/1245,релъ,butter
+531-313,bezh1248,http://concepticon.clld.org/parameters/731,лъи,"beverage, drink"
+531-273,bezh1248,http://concepticon.clld.org/parameters/731,сок,"beverage, drink"
+531-987,bezh1248,http://concepticon.clld.org/parameters/941,суро,mead
+531-796,bezh1248,http://concepticon.clld.org/parameters/1524,гъиноь,wine
+531-730,bezh1248,http://concepticon.clld.org/parameters/1639,пива,beer
+531-1770,bezh1248,http://concepticon.clld.org/parameters/404,чІагІа,fermented drink
+531-703,bezh1248,http://concepticon.clld.org/parameters/744,чІемуьчІ,egg
+531-1022,bezh1248,http://concepticon.clld.org/parameters/1556,цІундийо чІемуьчІ,egg yolk
+531-2034,bezh1248,http://concepticon.clld.org/parameters/1556,чIемучIаьш ракIо,egg yolk
+531-1033,bezh1248,http://concepticon.clld.org/parameters/158,лъичІаьл,put on (clothes)
+531-1735,bezh1248,http://concepticon.clld.org/parameters/158,лъичІаьл’,put on (clothes)
+531-1515,bezh1248,http://concepticon.clld.org/parameters/1895,лъичІоь,"clothing, clothes"
+531-1197,bezh1248,http://concepticon.clld.org/parameters/1895,ретІел,"clothing, clothes"
+531-1332,bezh1248,http://concepticon.clld.org/parameters/881,лъичІоьш устар,tailor
+531-1004,bezh1248,http://concepticon.clld.org/parameters/881,йаьᴴхъелаго,tailor
+531-1215,bezh1248,http://concepticon.clld.org/parameters/1616,гъечІе,cloth
+531-1509,bezh1248,http://concepticon.clld.org/parameters/964,лъуроьш гъечІе,wool
+531-1605,bezh1248,http://concepticon.clld.org/parameters/916,лъелълиш гъечІе,"linen, flax"
+531-1010,bezh1248,http://concepticon.clld.org/parameters/1850,бамбалаш гъечІе,cotton
+531-1407,bezh1248,http://concepticon.clld.org/parameters/1641,даьраьй,silk
+531-1955,bezh1248,http://concepticon.clld.org/parameters/325,киз,felt
+531-247,bezh1248,http://concepticon.clld.org/parameters/580,гъаьше,fur
+531-353,bezh1248,http://concepticon.clld.org/parameters/580,гъаьше-мака,fur
+531-1819,bezh1248,http://concepticon.clld.org/parameters/629,беш,leather
+531-247,bezh1248,http://concepticon.clld.org/parameters/629,гъаьше,leather
+531-1581,bezh1248,http://concepticon.clld.org/parameters/629,хъаьлІоь,leather
+531-2055,bezh1248,http://concepticon.clld.org/parameters/121,роьхоьш ровал,spin
+531-2043,bezh1248,http://concepticon.clld.org/parameters/277,аᴴкь,spindle
+531-191,bezh1248,http://concepticon.clld.org/parameters/133,чижал,weave
+531-524,bezh1248,http://concepticon.clld.org/parameters/1787,сугъур речшаьш макIо,loom
+531-140,bezh1248,http://concepticon.clld.org/parameters/1787,сугъурбарахъ,loom
+531-1230,bezh1248,http://concepticon.clld.org/parameters/1457,раьхъаьл,sew
+531-1856,bezh1248,http://concepticon.clld.org/parameters/1457,раьхъаьл’,sew
+531-992,bezh1248,http://concepticon.clld.org/parameters/1382,номши,needle
+531-241,bezh1248,http://concepticon.clld.org/parameters/1382,нумши,needle
+531-693,bezh1248,http://concepticon.clld.org/parameters/1382,нойши,needle
+531-1392,bezh1248,http://concepticon.clld.org/parameters/278,эᴴмоь,awl
+531-1078,bezh1248,http://concepticon.clld.org/parameters/278,мокъола,awl
+531-1924,bezh1248,http://concepticon.clld.org/parameters/1161,кІирмаьт,thread
+531-788,bezh1248,http://concepticon.clld.org/parameters/157,караска,dye
+531-2025,bezh1248,http://concepticon.clld.org/parameters/326,пIаьлаьш,cloak
+531-1963,bezh1248,http://concepticon.clld.org/parameters/327,—,poncho
+531-1744,bezh1248,http://concepticon.clld.org/parameters/474,кІаба,woman's dress
+531-653,bezh1248,http://concepticon.clld.org/parameters/603,пIалтIо,coat
+531-24,bezh1248,http://concepticon.clld.org/parameters/1622,мухун,shirt
+531-165,bezh1248,http://concepticon.clld.org/parameters/2012,болъо,collar
+531-947,bezh1248,http://concepticon.clld.org/parameters/2012,мухунас болъо,collar
+531-836,bezh1248,http://concepticon.clld.org/parameters/1600,йупка,skirt
+531-1744,bezh1248,http://concepticon.clld.org/parameters/1600,кІаба,skirt
+531-658,bezh1248,http://concepticon.clld.org/parameters/328,лIибаш йупка,grass-skirt
+531-495,bezh1248,http://concepticon.clld.org/parameters/328,лІибаш кІаба,grass-skirt
+531-542,bezh1248,http://concepticon.clld.org/parameters/809,хилІо,trousers
+531-1660,bezh1248,http://concepticon.clld.org/parameters/329,цІинда,"stocking, sock"
+531-327,bezh1248,http://concepticon.clld.org/parameters/1381,гьалъсо,shoe
+531-82,bezh1248,http://concepticon.clld.org/parameters/585,патинкIа,boot
+531-2004,bezh1248,http://concepticon.clld.org/parameters/875,гьалъсолас устар,"shoemaker, cobbler"
+531-858,bezh1248,http://concepticon.clld.org/parameters/2130,ишлйаьпIаь,"hat, cap"
+531-1379,bezh1248,http://concepticon.clld.org/parameters/772,тицІиро,"belt, girdle"
+531-1268,bezh1248,http://concepticon.clld.org/parameters/867,коса,glove
+531-1844,bezh1248,http://concepticon.clld.org/parameters/1151,пардав,veil
+531-1786,bezh1248,http://concepticon.clld.org/parameters/1851,киса,pocket
+531-1712,bezh1248,http://concepticon.clld.org/parameters/757,гежа,button
+531-1799,bezh1248,http://concepticon.clld.org/parameters/64,гъераъкоь нумши,pin
+531-172,bezh1248,http://concepticon.clld.org/parameters/64,гъераъко нойши,pin
+531-55,bezh1248,http://concepticon.clld.org/parameters/917,накъиш,"ornament, adornment"
+531-496,bezh1248,http://concepticon.clld.org/parameters/1029,жавгьар,jewel
+531-119,bezh1248,http://concepticon.clld.org/parameters/1029,йакъут,jewel
+531-1363,bezh1248,http://concepticon.clld.org/parameters/1374,кІойра,ring (for finger)
+531-1231,bezh1248,http://concepticon.clld.org/parameters/1754,аьгаь,bracelet
+531-1421,bezh1248,http://concepticon.clld.org/parameters/1961,салаватан,necklace
+531-1203,bezh1248,http://concepticon.clld.org/parameters/1860,шуьйраь,bead
+531-1601,bezh1248,http://concepticon.clld.org/parameters/770,аьᴴгъаьлаьлъшоь,earring
+531-512,bezh1248,http://concepticon.clld.org/parameters/330,кьакъало,"headband, headdress"
+531-1861,bezh1248,http://concepticon.clld.org/parameters/330,баэ,"headband, headdress"
+531-1036,bezh1248,http://concepticon.clld.org/parameters/330,шапка,"headband, headdress"
+531-1736,bezh1248,http://concepticon.clld.org/parameters/330,чалма,"headband, headdress"
+531-274,bezh1248,http://concepticon.clld.org/parameters/68,магъокьа чІухІи,tattoo
+531-1395,bezh1248,http://concepticon.clld.org/parameters/332,билъасо,"handkerchief, rag"
+531-687,bezh1248,http://concepticon.clld.org/parameters/332,хидаьлІкоь,"handkerchief, rag"
+531-186,bezh1248,http://concepticon.clld.org/parameters/1021,тІило,towel
+531-22,bezh1248,http://concepticon.clld.org/parameters/1021,коро руьваьлълаго,towel
+531-280,bezh1248,http://concepticon.clld.org/parameters/1021,палатенца,towel
+531-298,bezh1248,http://concepticon.clld.org/parameters/1475,гьелІоь,comb
+531-298,bezh1248,http://concepticon.clld.org/parameters/1821,гьелІоь,brush
+531-1175,bezh1248,http://concepticon.clld.org/parameters/333,муьчIаьш мигъ,braid
+531-1781,bezh1248,http://concepticon.clld.org/parameters/151,даьллаьк,razor
+531-1941,bezh1248,http://concepticon.clld.org/parameters/1926,маз,ointment
+531-1228,bezh1248,http://concepticon.clld.org/parameters/788,сапІуни,soap
+531-968,bezh1248,http://concepticon.clld.org/parameters/1171,цІика,mirror
+531-1878,bezh1248,http://concepticon.clld.org/parameters/1099,гІумру бовал,"dwell, live"
+531-1172,bezh1248,http://concepticon.clld.org/parameters/1252,билІо,house
+531-299,bezh1248,http://concepticon.clld.org/parameters/1678,кохи,hut
+531-1172,bezh1248,http://concepticon.clld.org/parameters/403,билІо,garden-house
+531-990,bezh1248,http://concepticon.clld.org/parameters/1316,чадир,tent
+531-160,bezh1248,http://concepticon.clld.org/parameters/736,азбар,"yard, court"
+531-1805,bezh1248,http://concepticon.clld.org/parameters/736,беж-къатI,"yard, court"
+531-1669,bezh1248,http://concepticon.clld.org/parameters/736,маьхIлаь,"yard, court"
+531-2076,bezh1248,http://concepticon.clld.org/parameters/408,аболарас билІо,men's house
+531-1260,bezh1248,http://concepticon.clld.org/parameters/334,кухни,cookhouse
+531-1242,bezh1248,http://concepticon.clld.org/parameters/334,беш-хулІоцас маче,cookhouse
+531-130,bezh1248,http://concepticon.clld.org/parameters/335,кулуб,meeting house
+531-1314,bezh1248,http://concepticon.clld.org/parameters/335,мажлислис билIо,meeting house
+531-2028,bezh1248,http://concepticon.clld.org/parameters/1450,отахи,room
+531-1936,bezh1248,http://concepticon.clld.org/parameters/1567,аᴴц,"door, gate"
+531-1958,bezh1248,http://concepticon.clld.org/parameters/1567,каву,"door, gate"
+531-1718,bezh1248,http://concepticon.clld.org/parameters/80,гъоьше,"doorpost, jamb"
+531-1039,bezh1248,http://concepticon.clld.org/parameters/80,рохо,"doorpost, jamb"
+531-14,bezh1248,http://concepticon.clld.org/parameters/1596,рахІай,lock (noun)
+531-1718,bezh1248,http://concepticon.clld.org/parameters/1012,гъоьше,"latch, door-bolt"
+531-1302,bezh1248,http://concepticon.clld.org/parameters/1472,ригаь,key
+531-30,bezh1248,http://concepticon.clld.org/parameters/1375,кІоьчІоь,window
+531-157,bezh1248,http://concepticon.clld.org/parameters/1632,муьже,floor
+531-15,bezh1248,http://concepticon.clld.org/parameters/1632,пол,floor
+531-983,bezh1248,http://concepticon.clld.org/parameters/933,росо,wall
+531-1087,bezh1248,http://concepticon.clld.org/parameters/185,аᴴхо,fireplace
+531-1128,bezh1248,http://concepticon.clld.org/parameters/185,аᴴхо-цІо,fireplace
+531-721,bezh1248,http://concepticon.clld.org/parameters/859,печ,stove
+531-1627,bezh1248,http://concepticon.clld.org/parameters/1305,бухари,chimney
+531-128,bezh1248,http://concepticon.clld.org/parameters/1464,кІадо,ladder
+531-420,bezh1248,http://concepticon.clld.org/parameters/1663,карават,bed
+531-1237,bezh1248,http://concepticon.clld.org/parameters/1663,аᴴцо,bed
+531-979,bezh1248,http://concepticon.clld.org/parameters/1044,йастукъ,pillow
+531-841,bezh1248,http://concepticon.clld.org/parameters/806,сабани,blanket
+531-1234,bezh1248,http://concepticon.clld.org/parameters/806,адийал,blanket
+531-671,bezh1248,http://concepticon.clld.org/parameters/1476,къоро,chair
+531-449,bezh1248,http://concepticon.clld.org/parameters/1775,истІоли,table
+531-1419,bezh1248,http://concepticon.clld.org/parameters/2131,лампа,"lamp, torch"
+531-213,bezh1248,http://concepticon.clld.org/parameters/2131,чираьх,"lamp, torch"
+531-1732,bezh1248,http://concepticon.clld.org/parameters/1273,сантели,candle
+531-827,bezh1248,http://concepticon.clld.org/parameters/1273,хIедул чираьх,candle
+531-1237,bezh1248,http://concepticon.clld.org/parameters/745,аᴴцо,shelf
+531-258,bezh1248,http://concepticon.clld.org/parameters/745,бокІор,shelf
+531-1668,bezh1248,http://concepticon.clld.org/parameters/745,корогъна,shelf
+531-1721,bezh1248,http://concepticon.clld.org/parameters/205,шидо,trough
+531-784,bezh1248,http://concepticon.clld.org/parameters/205,чухро,trough
+531-329,bezh1248,http://concepticon.clld.org/parameters/769,кьама,roof
+531-1604,bezh1248,http://concepticon.clld.org/parameters/279,нахас кьама,thatch
+531-50,bezh1248,http://concepticon.clld.org/parameters/279,чалалиш кьама,thatch
+531-125,bezh1248,http://concepticon.clld.org/parameters/280,мета,ridgepole
+531-390,bezh1248,http://concepticon.clld.org/parameters/829,михъо,rafter
+531-1154,bezh1248,http://concepticon.clld.org/parameters/829,истарапил,rafter
+531-664,bezh1248,http://concepticon.clld.org/parameters/829,кIави,rafter
+531-1790,bezh1248,http://concepticon.clld.org/parameters/1132,къачІа,beam
+531-572,bezh1248,http://concepticon.clld.org/parameters/281,гьем,"post, pole"
+531-398,bezh1248,http://concepticon.clld.org/parameters/1227,кьешаь,board
+531-945,bezh1248,http://concepticon.clld.org/parameters/876,кІампІур,arch
+531-40,bezh1248,http://concepticon.clld.org/parameters/877,росохъан,mason
+531-421,bezh1248,http://concepticon.clld.org/parameters/877,кьалис устар,mason
+531-503,bezh1248,http://concepticon.clld.org/parameters/1006,агури,brick
+531-1246,bezh1248,http://concepticon.clld.org/parameters/1006,кирпич,brick
+531-2095,bezh1248,http://concepticon.clld.org/parameters/1731,кираьж,mortar
+531-1625,bezh1248,http://concepticon.clld.org/parameters/901,мизас билІо,adobe
+531-1703,bezh1248,http://concepticon.clld.org/parameters/979,пермер,farmer
+531-1504,bezh1248,http://concepticon.clld.org/parameters/212,хур,field (for cultivation)
+531-568,bezh1248,http://concepticon.clld.org/parameters/212,болІоцас маьче,field (for cultivation)
+531-852,bezh1248,http://concepticon.clld.org/parameters/212,бижечаьш ракь,field (for cultivation)
+531-1295,bezh1248,http://concepticon.clld.org/parameters/586,аьхI,garden
+531-1090,bezh1248,http://concepticon.clld.org/parameters/1541,маче болІал,"cultivate, till"
+531-1388,bezh1248,http://concepticon.clld.org/parameters/1541,бизал,"cultivate, till"
+531-1500,bezh1248,http://concepticon.clld.org/parameters/1541,ракь бōдагулал,"cultivate, till"
+531-889,bezh1248,http://concepticon.clld.org/parameters/1690,кало,fence
+531-736,bezh1248,http://concepticon.clld.org/parameters/2002,ругьи,ditch
+531-1102,bezh1248,http://concepticon.clld.org/parameters/2002,канав,ditch
+531-1481,bezh1248,http://concepticon.clld.org/parameters/1921,болІал,plow
+531-1447,bezh1248,http://concepticon.clld.org/parameters/1794,болІоро маче,furrow
+531-1000,bezh1248,http://concepticon.clld.org/parameters/1794,чаьхроь,furrow
+531-789,bezh1248,http://concepticon.clld.org/parameters/1418,гьормо бовал,dig
+531-1792,bezh1248,http://concepticon.clld.org/parameters/1418,баьхаьл,dig
+531-446,bezh1248,http://concepticon.clld.org/parameters/1418,баьхаьл’,dig
+531-1244,bezh1248,http://concepticon.clld.org/parameters/1176,аькоь,spade
+531-1645,bezh1248,http://concepticon.clld.org/parameters/1901,лІуьшчІаьлІаьгоь,shovel
+531-723,bezh1248,http://concepticon.clld.org/parameters/284,боза,hoe
+531-591,bezh1248,http://concepticon.clld.org/parameters/284,тоьхъи,hoe
+531-921,bezh1248,http://concepticon.clld.org/parameters/337,сино,fork
+531-225,bezh1248,http://concepticon.clld.org/parameters/338,лІахдаро,rake
+531-1383,bezh1248,http://concepticon.clld.org/parameters/338,гарабли,rake
+531-830,bezh1248,http://concepticon.clld.org/parameters/748,рижал,sow
+531-1591,bezh1248,http://concepticon.clld.org/parameters/748,рижаьл’,sow
+531-1311,bezh1248,http://concepticon.clld.org/parameters/714,ижоь,seed
+531-655,bezh1248,http://concepticon.clld.org/parameters/190,рагъовагьал,"mow, reap"
+531-1737,bezh1248,http://concepticon.clld.org/parameters/190,руьваьл,"mow, reap"
+531-1535,bezh1248,http://concepticon.clld.org/parameters/2132,роьхричІ,"sickle, scythe"
+531-1068,bezh1248,http://concepticon.clld.org/parameters/2132,чІиникІ,"sickle, scythe"
+531-1750,bezh1248,http://concepticon.clld.org/parameters/285,рал ролал,thresh
+531-733,bezh1248,http://concepticon.clld.org/parameters/285,лолдабагьал,thresh
+531-1936,bezh1248,http://concepticon.clld.org/parameters/223,аᴴц,threshing-floor
+531-511,bezh1248,http://concepticon.clld.org/parameters/611,муькъе-бох,"crop, harvest"
+531-959,bezh1248,http://concepticon.clld.org/parameters/611,бачIин,"crop, harvest"
+531-1539,bezh1248,http://concepticon.clld.org/parameters/605,муькъе,"grain (barley, oats etc)"
+531-347,bezh1248,http://concepticon.clld.org/parameters/1077,хъибо,wheat
+531-491,bezh1248,http://concepticon.clld.org/parameters/932,оᴴгъ,barley
+531-1512,bezh1248,http://concepticon.clld.org/parameters/932,аьгъоь-рахъ,barley
+531-135,bezh1248,http://concepticon.clld.org/parameters/23,гьиз,rye
+531-1398,bezh1248,http://concepticon.clld.org/parameters/23,чІоькъин,rye
+531-859,bezh1248,http://concepticon.clld.org/parameters/60,айуз,oats
+531-1402,bezh1248,http://concepticon.clld.org/parameters/60,сиратIо,oats
+531-1906,bezh1248,http://concepticon.clld.org/parameters/506,симинди,"maize, corn"
+531-133,bezh1248,http://concepticon.clld.org/parameters/506,чIадиларахъ,"maize, corn"
+531-303,bezh1248,http://concepticon.clld.org/parameters/926,биринжи,rice
+531-2060,bezh1248,http://concepticon.clld.org/parameters/606,рихо,grass
+531-764,bezh1248,http://concepticon.clld.org/parameters/606,бох,grass
+531-1024,bezh1248,http://concepticon.clld.org/parameters/342,хъохъоро бох,hay
+531-764,bezh1248,http://concepticon.clld.org/parameters/653,бох,plant (noun)
+531-1975,bezh1248,http://concepticon.clld.org/parameters/653,рихо-бох,plant (noun)
+531-514,bezh1248,http://concepticon.clld.org/parameters/1486,гІези ровал,plant (vb)
+531-399,bezh1248,http://concepticon.clld.org/parameters/1486,рукъкІал,plant (vb)
+531-1531,bezh1248,http://concepticon.clld.org/parameters/1486,руькъкІаьл’,plant (vb)
+531-1879,bezh1248,http://concepticon.clld.org/parameters/670,хемух,root
+531-183,bezh1248,http://concepticon.clld.org/parameters/1531,аьле,branch
+531-1887,bezh1248,http://concepticon.clld.org/parameters/1531,аьне,branch
+531-1742,bezh1248,http://concepticon.clld.org/parameters/628,лІибо,leaf
+531-1734,bezh1248,http://concepticon.clld.org/parameters/239,чІуьхІи,flower
+531-2051,bezh1248,http://concepticon.clld.org/parameters/906,хоьхоь,tree
+531-330,bezh1248,http://concepticon.clld.org/parameters/644,нигъе,oak
+531-1968,bezh1248,http://concepticon.clld.org/parameters/644,нигъеш хоьхоь,oak
+531-1434,bezh1248,http://concepticon.clld.org/parameters/1950,пипе,beech
+531-100,bezh1248,http://concepticon.clld.org/parameters/1950,пипеш хоьхоь,beech
+531-1301,bezh1248,http://concepticon.clld.org/parameters/1855,мийе,birch
+531-1860,bezh1248,http://concepticon.clld.org/parameters/1855,мийеш хоьхоь,birch
+531-1114,bezh1248,http://concepticon.clld.org/parameters/1740,нихъе,pine
+531-1759,bezh1248,http://concepticon.clld.org/parameters/1740,нихъеш хоьхоь,pine
+531-322,bezh1248,http://concepticon.clld.org/parameters/1915,цац,fir
+531-692,bezh1248,http://concepticon.clld.org/parameters/1915,цацлис хоьхоь,fir
+531-1826,bezh1248,http://concepticon.clld.org/parameters/1915,йолка,fir
+531-330,bezh1248,http://concepticon.clld.org/parameters/968,нигъе,acorn
+531-1475,bezh1248,http://concepticon.clld.org/parameters/343,вази,vine
+531-391,bezh1248,http://concepticon.clld.org/parameters/974,тамбако,tobacco
+531-1743,bezh1248,http://concepticon.clld.org/parameters/974,таммако,tobacco
+531-906,bezh1248,http://concepticon.clld.org/parameters/1689,готI,smoke (tobacco)
+531-497,bezh1248,http://concepticon.clld.org/parameters/1689,хъо,smoke (tobacco)
+531-878,bezh1248,http://concepticon.clld.org/parameters/1124,муьштуькІ,pipe
+531-414,bezh1248,http://concepticon.clld.org/parameters/241,зуде,tree stump
+531-2051,bezh1248,http://concepticon.clld.org/parameters/344,хоьхоь,tree trunk
+531-1366,bezh1248,http://concepticon.clld.org/parameters/409,къулІлІо,forked branch
+531-1819,bezh1248,http://concepticon.clld.org/parameters/1204,беш,bark
+531-51,bezh1248,http://concepticon.clld.org/parameters/1204,хъар,bark
+531-43,bezh1248,http://concepticon.clld.org/parameters/345,бохас лъи,sap
+531-155,bezh1248,http://concepticon.clld.org/parameters/1181,палма,palm tree
+531-177,bezh1248,http://concepticon.clld.org/parameters/1181,пальма,palm tree
+531-230,bezh1248,http://concepticon.clld.org/parameters/970,кокос,coconut
+531-755,bezh1248,http://concepticon.clld.org/parameters/1126,цитруслиш пихъ,citrus fruit
+531-1482,bezh1248,http://concepticon.clld.org/parameters/868,бананлиш хоьхоь,banana tree
+531-661,bezh1248,http://concepticon.clld.org/parameters/346,легъилаьш хоьхоь,banyan
+531-1243,bezh1248,http://concepticon.clld.org/parameters/159,батат,sweet potato
+531-1243,bezh1248,http://concepticon.clld.org/parameters/410,батат,yam
+531-1963,bezh1248,http://concepticon.clld.org/parameters/925,—,"tapioca, manioc, cassava"
+531-1913,bezh1248,http://concepticon.clld.org/parameters/411,кІабах,gourd
+531-1913,bezh1248,http://concepticon.clld.org/parameters/864,кІабах,"pumpkin, squash"
+531-1637,bezh1248,http://concepticon.clld.org/parameters/1927,бамбук,bamboo
+531-8,bezh1248,http://concepticon.clld.org/parameters/146,чаькаьрбаьш симинди,sugar cane
+531-1963,bezh1248,http://concepticon.clld.org/parameters/348,—,fish poison (root)
+531-1019,bezh1248,http://concepticon.clld.org/parameters/33,мич,nettle
+531-1794,bezh1248,http://concepticon.clld.org/parameters/641,зокІо,mushroom
+531-1327,bezh1248,http://concepticon.clld.org/parameters/813,ровал,"do, make"
+531-769,bezh1248,http://concepticon.clld.org/parameters/984,хІалтІи,work
+531-1382,bezh1248,http://concepticon.clld.org/parameters/2004,рукъелал,bend
+531-1904,bezh1248,http://concepticon.clld.org/parameters/2004,руькъелаьл’,bend
+531-2056,bezh1248,http://concepticon.clld.org/parameters/1470,къаьт рухeлаьл,fold
+531-1352,bezh1248,http://concepticon.clld.org/parameters/1470,ролІал,fold
+531-271,bezh1248,http://concepticon.clld.org/parameters/1470,росал,fold
+531-1631,bezh1248,http://concepticon.clld.org/parameters/1470,роьлІаьл’,fold
+531-754,bezh1248,http://concepticon.clld.org/parameters/1917,рицал,"tie, bind"
+531-743,bezh1248,http://concepticon.clld.org/parameters/352,ракал,untie
+531-923,bezh1248,http://concepticon.clld.org/parameters/1627,рахас,chain
+531-993,bezh1248,http://concepticon.clld.org/parameters/1218,раьч,"rope, cord"
+531-423,bezh1248,http://concepticon.clld.org/parameters/760,кІич,knot (noun)
+531-592,bezh1248,http://concepticon.clld.org/parameters/2133,акьелал,"strike (hit, beat)"
+531-262,bezh1248,http://concepticon.clld.org/parameters/2133,аькьелаьл’,"strike (hit, beat)"
+531-469,bezh1248,http://concepticon.clld.org/parameters/2133,акогьал,"strike (hit, beat)"
+531-2019,bezh1248,http://concepticon.clld.org/parameters/2133,даплIолал,"strike (hit, beat)"
+531-1056,bezh1248,http://concepticon.clld.org/parameters/2133,зукІал,"strike (hit, beat)"
+531-1711,bezh1248,http://concepticon.clld.org/parameters/354,биза баькьелал,pound with fist
+531-1521,bezh1248,http://concepticon.clld.org/parameters/354,бизалид аькьелал,pound with fist
+531-11,bezh1248,http://concepticon.clld.org/parameters/354,бизис овагьал,pound with fist
+531-1150,bezh1248,http://concepticon.clld.org/parameters/354,биза гукIал,pound with fist
+531-228,bezh1248,http://concepticon.clld.org/parameters/1432,ручІал,cut
+531-1029,bezh1248,http://concepticon.clld.org/parameters/1432,руьчІаьл’,cut
+531-47,bezh1248,http://concepticon.clld.org/parameters/355,раьшекІаьл,cut down
+531-641,bezh1248,http://concepticon.clld.org/parameters/355,раьшекІаьл’,cut down
+531-228,bezh1248,http://concepticon.clld.org/parameters/155,ручІал,"chop, hew"
+531-1139,bezh1248,http://concepticon.clld.org/parameters/155,рагъелал,"chop, hew"
+531-1029,bezh1248,http://concepticon.clld.org/parameters/155,руьчІаьл’,"chop, hew"
+531-1517,bezh1248,http://concepticon.clld.org/parameters/155,раьгъелаьл’,"chop, hew"
+531-2007,bezh1248,http://concepticon.clld.org/parameters/1434,халІал,stab
+531-1007,bezh1248,http://concepticon.clld.org/parameters/1434,хаьлІаьл’,stab
+531-1494,bezh1248,http://concepticon.clld.org/parameters/1352,чІитІ,knife
+531-476,bezh1248,http://concepticon.clld.org/parameters/356,руьчIтIенаь,"scissors, shears"
+531-285,bezh1248,http://concepticon.clld.org/parameters/356,рутIена,"scissors, shears"
+531-132,bezh1248,http://concepticon.clld.org/parameters/356,дукари,"scissors, shears"
+531-1665,bezh1248,http://concepticon.clld.org/parameters/677,оᴴг,ax
+531-1391,bezh1248,http://concepticon.clld.org/parameters/677,къаьжаь,ax
+531-75,bezh1248,http://concepticon.clld.org/parameters/290,уьжуьн,adze
+531-2021,bezh1248,http://concepticon.clld.org/parameters/680,ришелал,break
+531-1269,bezh1248,http://concepticon.clld.org/parameters/680,ришелаьл’,break
+531-722,bezh1248,http://concepticon.clld.org/parameters/588,ришеро,broken
+531-589,bezh1248,http://concepticon.clld.org/parameters/588,раьгъероь,broken
+531-1911,bezh1248,http://concepticon.clld.org/parameters/588,нуьшекIийо,broken
+531-2021,bezh1248,http://concepticon.clld.org/parameters/1437,ришелал,split
+531-1139,bezh1248,http://concepticon.clld.org/parameters/1437,рагъелал,split
+531-1269,bezh1248,http://concepticon.clld.org/parameters/1437,ришелаьл’,split
+531-1517,bezh1248,http://concepticon.clld.org/parameters/1437,раьгъелаьл’,split
+531-910,bezh1248,http://concepticon.clld.org/parameters/1437,нуьшекIаьл,split
+531-1646,bezh1248,http://concepticon.clld.org/parameters/1735,рахелал,tear
+531-1187,bezh1248,http://concepticon.clld.org/parameters/1735,рукьлал,tear
+531-136,bezh1248,http://concepticon.clld.org/parameters/1735,раьхелаьл’,tear
+531-1784,bezh1248,http://concepticon.clld.org/parameters/1735,руькьлаьл,tear
+531-1147,bezh1248,http://concepticon.clld.org/parameters/291,беш багъал,"flay, skin"
+531-593,bezh1248,http://concepticon.clld.org/parameters/291,бичелал,"flay, skin"
+531-1471,bezh1248,http://concepticon.clld.org/parameters/291,бичелаьл’,"flay, skin"
+531-370,bezh1248,http://concepticon.clld.org/parameters/1449,ругъолал,"rub, wipe"
+531-872,bezh1248,http://concepticon.clld.org/parameters/1449,ролъолал,"rub, wipe"
+531-931,bezh1248,http://concepticon.clld.org/parameters/214,кьисагьал,stretch
+531-1122,bezh1248,http://concepticon.clld.org/parameters/214,рихалокIал,stretch
+531-931,bezh1248,http://concepticon.clld.org/parameters/1455,кьисагьал,pull
+531-650,bezh1248,http://concepticon.clld.org/parameters/38,тІибитІизи рахъал,spread out
+531-691,bezh1248,http://concepticon.clld.org/parameters/38,тІибитІизи ровал,spread out
+531-1239,bezh1248,http://concepticon.clld.org/parameters/38,мите мекьаьл,spread out
+531-2087,bezh1248,http://concepticon.clld.org/parameters/38,мите мейал,spread out
+531-1042,bezh1248,http://concepticon.clld.org/parameters/357,рохолал,hang up
+531-742,bezh1248,http://concepticon.clld.org/parameters/1913,къази ровал,press
+531-361,bezh1248,http://concepticon.clld.org/parameters/1913,данди ровал,press
+531-1882,bezh1248,http://concepticon.clld.org/parameters/1414,тІуцал,"squeeze, wring"
+531-185,bezh1248,http://concepticon.clld.org/parameters/1487,лъи рейал,pour
+531-1689,bezh1248,http://concepticon.clld.org/parameters/1487,гичІлал,pour
+531-1286,bezh1248,http://concepticon.clld.org/parameters/1487,гичІлаьл’,pour
+531-1731,bezh1248,http://concepticon.clld.org/parameters/1453,низагьал,wash
+531-821,bezh1248,http://concepticon.clld.org/parameters/1453,лъилъ рехелал,wash
+531-550,bezh1248,http://concepticon.clld.org/parameters/230,лъаьлІаьл,sweep
+531-279,bezh1248,http://concepticon.clld.org/parameters/230,лъаьлІаьл’,sweep
+531-1940,bezh1248,http://concepticon.clld.org/parameters/245,муьш,broom
+531-732,bezh1248,http://concepticon.clld.org/parameters/1361,алат,tool
+531-236,bezh1248,http://concepticon.clld.org/parameters/1042,ванас устар,carpenter
+531-667,bezh1248,http://concepticon.clld.org/parameters/1840,(билІо) ровал,build
+531-802,bezh1248,http://concepticon.clld.org/parameters/1501,аьᴴхI,bore
+531-994,bezh1248,http://concepticon.clld.org/parameters/46,аьᴴхIкІал,hollow out
+531-1190,bezh1248,http://concepticon.clld.org/parameters/46,аьᴴхIкІаьл’,hollow out
+531-1720,bezh1248,http://concepticon.clld.org/parameters/1948,хоргъо,saw
+531-750,bezh1248,http://concepticon.clld.org/parameters/1481,тІоьгІаь,hammer
+531-811,bezh1248,http://concepticon.clld.org/parameters/502,мукъо,nail
+531-768,bezh1248,http://concepticon.clld.org/parameters/502,мокъо,nail
+531-1918,bezh1248,http://concepticon.clld.org/parameters/1069,чол,glue
+531-276,bezh1248,http://concepticon.clld.org/parameters/1069,клей,glue
+531-1062,bezh1248,http://concepticon.clld.org/parameters/1001,къебед,"smith, blacksmith"
+531-577,bezh1248,http://concepticon.clld.org/parameters/288,цІоъас,forge
+531-625,bezh1248,http://concepticon.clld.org/parameters/1648,къебедлиш къоро,anvil
+531-441,bezh1248,http://concepticon.clld.org/parameters/211,куцлиъ гичІлал,cast (metals)
+531-1877,bezh1248,http://concepticon.clld.org/parameters/211,куцлиъ гичІлаьл’,cast (metals)
+531-1253,bezh1248,http://concepticon.clld.org/parameters/1369,месед,gold
+531-2014,bezh1248,http://concepticon.clld.org/parameters/759,оᴴкро,silver
+531-234,bezh1248,http://concepticon.clld.org/parameters/1825,йез,"copper, bronze"
+531-2031,bezh1248,http://concepticon.clld.org/parameters/1825,мазгар,"copper, bronze"
+531-1956,bezh1248,http://concepticon.clld.org/parameters/621,кил,iron
+531-1985,bezh1248,http://concepticon.clld.org/parameters/627,кобо,lead (noun)
+531-60,bezh1248,http://concepticon.clld.org/parameters/358,хІалдийо кил,"tin, tinplate"
+531-2041,bezh1248,http://concepticon.clld.org/parameters/358,хІаьл’дийо кил,"tin, tinplate"
+531-415,bezh1248,http://concepticon.clld.org/parameters/359,шагІихъан,potter
+531-1916,bezh1248,http://concepticon.clld.org/parameters/289,куцлиъ гичІлaл,mold (clay etc)
+531-1560,bezh1248,http://concepticon.clld.org/parameters/289,къалбилаъ гичIлал,mold (clay etc)
+531-497,bezh1248,http://concepticon.clld.org/parameters/1399,хъо,clay
+531-1067,bezh1248,http://concepticon.clld.org/parameters/604,рикIин,glass
+531-1559,bezh1248,http://concepticon.clld.org/parameters/604,цIика,glass
+531-1822,bezh1248,http://concepticon.clld.org/parameters/1729,габа бовал,"weave, plait"
+531-216,bezh1248,http://concepticon.clld.org/parameters/1729,габа бесал,"weave, plait"
+531-456,bezh1248,http://concepticon.clld.org/parameters/1539,кед,basket
+531-958,bezh1248,http://concepticon.clld.org/parameters/1539,кIалата,basket
+531-735,bezh1248,http://concepticon.clld.org/parameters/1539,карзинка,basket
+531-1963,bezh1248,http://concepticon.clld.org/parameters/195,—,mat
+531-708,bezh1248,http://concepticon.clld.org/parameters/292,габа,rug
+531-1775,bezh1248,http://concepticon.clld.org/parameters/293,сумка,netbag
+531-1458,bezh1248,http://concepticon.clld.org/parameters/293,сетка,netbag
+531-1868,bezh1248,http://concepticon.clld.org/parameters/1971,вентилйатур,fan (noun)
+531-367,bezh1248,http://concepticon.clld.org/parameters/1971,залIихъ,fan (noun)
+531-1343,bezh1248,http://concepticon.clld.org/parameters/360,залІо ровал,fan (vb)
+531-1322,bezh1248,http://concepticon.clld.org/parameters/360,гьайри ровал,fan (vb)
+531-515,bezh1248,http://concepticon.clld.org/parameters/360,гьайри рейал,fan (vb)
+531-1622,bezh1248,http://concepticon.clld.org/parameters/228,руьчІал,carve
+531-1029,bezh1248,http://concepticon.clld.org/parameters/228,руьчІаьл’,carve
+531-805,bezh1248,http://concepticon.clld.org/parameters/914,скулптор,sculptor
+531-1548,bezh1248,http://concepticon.clld.org/parameters/1002,сурат,statue
+531-588,bezh1248,http://concepticon.clld.org/parameters/1002,статуйа,statue
+531-1483,bezh1248,http://concepticon.clld.org/parameters/1979,мукъ,chisel
+531-696,bezh1248,http://concepticon.clld.org/parameters/647,лак,paint (noun)
+531-9,bezh1248,http://concepticon.clld.org/parameters/647,краска,paint (noun)
+531-939,bezh1248,http://concepticon.clld.org/parameters/647,чІийа,paint (noun)
+531-918,bezh1248,http://concepticon.clld.org/parameters/2001,лак рехелал,paint (vb)
+531-1236,bezh1248,http://concepticon.clld.org/parameters/2001,краска рехелал,paint (vb)
+531-1530,bezh1248,http://concepticon.clld.org/parameters/2001,туьшелаьл,paint (vb)
+531-109,bezh1248,http://concepticon.clld.org/parameters/2001,туьшелаьл’,paint (vb)
+531-1999,bezh1248,http://concepticon.clld.org/parameters/765,мекьал,move
+531-1626,bezh1248,http://concepticon.clld.org/parameters/765,багъарзи бахъал,move
+531-1988,bezh1248,http://concepticon.clld.org/parameters/1588,кІаьр рухал,turn over
+531-18,bezh1248,http://concepticon.clld.org/parameters/1588,кІаьр руьхелаьл,turn over
+531-1988,bezh1248,http://concepticon.clld.org/parameters/1445,кІаьр рухал,turn around
+531-18,bezh1248,http://concepticon.clld.org/parameters/1445,кІаьр руьхелаьл,turn around
+531-1898,bezh1248,http://concepticon.clld.org/parameters/1113,шошал,"wind, wrap"
+531-86,bezh1248,http://concepticon.clld.org/parameters/1113,шоьшаьл’,"wind, wrap"
+531-688,bezh1248,http://concepticon.clld.org/parameters/827,кІарлІолал,roll
+531-765,bezh1248,http://concepticon.clld.org/parameters/827,кІаьрлІоьлаьл’,roll
+531-1144,bezh1248,http://concepticon.clld.org/parameters/808,кІакІа тІаьлІаьл,drop (vb)
+531-1249,bezh1248,http://concepticon.clld.org/parameters/808,мотIлал,drop (vb)
+531-688,bezh1248,http://concepticon.clld.org/parameters/430,кІарлІолал,twist
+531-765,bezh1248,http://concepticon.clld.org/parameters/430,кІаьрлІоьлаьл’,twist
+531-1261,bezh1248,http://concepticon.clld.org/parameters/568,багъарицIал,rise
+531-600,bezh1248,http://concepticon.clld.org/parameters/568,мехаьл,rise
+531-694,bezh1248,http://concepticon.clld.org/parameters/568,бохъ гикьа гуцIал,rise
+531-1894,bezh1248,http://concepticon.clld.org/parameters/501,гьоъолал,"raise, lift"
+531-1556,bezh1248,http://concepticon.clld.org/parameters/501,рокчал,"raise, lift"
+531-147,bezh1248,http://concepticon.clld.org/parameters/501,роькчаьл’,"raise, lift"
+531-1994,bezh1248,http://concepticon.clld.org/parameters/1280,рекал,fall
+531-73,bezh1248,http://concepticon.clld.org/parameters/1280,рекаьл’,fall
+531-184,bezh1248,http://concepticon.clld.org/parameters/2253,цуцулІал,drip
+531-386,bezh1248,http://concepticon.clld.org/parameters/2253,цуцулIона рейал,drip
+531-528,bezh1248,http://concepticon.clld.org/parameters/1456,тІутІал,throw
+531-1252,bezh1248,http://concepticon.clld.org/parameters/1456,рикьал,throw
+531-1902,bezh1248,http://concepticon.clld.org/parameters/1456,рикьаьл’,throw
+531-90,bezh1248,http://concepticon.clld.org/parameters/702,бохал,catch (ball)
+531-1052,bezh1248,http://concepticon.clld.org/parameters/702,михъолал,catch (ball)
+531-418,bezh1248,http://concepticon.clld.org/parameters/1909,зикълІолал,shake
+531-645,bezh1248,http://concepticon.clld.org/parameters/1909,зизилIолал,shake
+531-1741,bezh1248,http://concepticon.clld.org/parameters/2003,лъи рекьаьл,flow
+531-537,bezh1248,http://concepticon.clld.org/parameters/2003,гитIна гувал,flow
+531-1136,bezh1248,http://concepticon.clld.org/parameters/2003,чархилакьа гувал,flow
+531-1005,bezh1248,http://concepticon.clld.org/parameters/2003,чархун гувал,flow
+531-269,bezh1248,http://concepticon.clld.org/parameters/2003,чархизи рахъал,flow
+531-706,bezh1248,http://concepticon.clld.org/parameters/1088,гъанкъези рахъал,sink
+531-294,bezh1248,http://concepticon.clld.org/parameters/1574,эᴴхо йагъал,float
+531-1060,bezh1248,http://concepticon.clld.org/parameters/1574,гIандал йагъал,float
+531-294,bezh1248,http://concepticon.clld.org/parameters/1439,эᴴхо йагъал,swim
+531-557,bezh1248,http://concepticon.clld.org/parameters/119,эхеъ оъгичІал,dive
+531-1658,bezh1248,http://concepticon.clld.org/parameters/119,эᴴхеъ уᴴцал,dive
+531-1953,bezh1248,http://concepticon.clld.org/parameters/365,кьаьрчи речелаьл,splash
+531-343,bezh1248,http://concepticon.clld.org/parameters/365,кьаьчаьри речелаьл,splash
+531-1810,bezh1248,http://concepticon.clld.org/parameters/365,эᴴхо йаькьелал,splash
+531-1364,bezh1248,http://concepticon.clld.org/parameters/787,парус гаьллаь лодкалакьа эᴴхо йагъал,sail (vb)
+531-1606,bezh1248,http://concepticon.clld.org/parameters/1441,(гьабакьа) бокIицІал,fly (vb)
+531-357,bezh1248,http://concepticon.clld.org/parameters/1441,гьасагъор бокIицIал,fly (vb)
+531-111,bezh1248,http://concepticon.clld.org/parameters/175,пулІал,blow
+531-148,bezh1248,http://concepticon.clld.org/parameters/175,пуьлІаьл’,blow
+531-1106,bezh1248,http://concepticon.clld.org/parameters/96,агъолагьал,"creep, crawl"
+531-1513,bezh1248,http://concepticon.clld.org/parameters/66,мичнаьраькьаь эчаьл,kneel
+531-1813,bezh1248,http://concepticon.clld.org/parameters/296,гъугълукьа эчаьл,crouch
+531-1948,bezh1248,http://concepticon.clld.org/parameters/1324,хих тІотІал,"slide, slip"
+531-1396,bezh1248,http://concepticon.clld.org/parameters/1324,хех тIотIал,"slide, slip"
+531-287,bezh1248,http://concepticon.clld.org/parameters/1829,окIицІал,"jump, leap"
+531-31,bezh1248,http://concepticon.clld.org/parameters/1135,хаьбаь баькьелаьл,kick
+531-1315,bezh1248,http://concepticon.clld.org/parameters/1135,хаьбаь хаьлIаьл,kick
+531-901,bezh1248,http://concepticon.clld.org/parameters/1135,мила раькьелаьл,kick
+531-896,bezh1248,http://concepticon.clld.org/parameters/1135,хаьбаьлаьш овал,kick
+531-317,bezh1248,http://concepticon.clld.org/parameters/1879,лъишо ровал,dance
+531-2030,bezh1248,http://concepticon.clld.org/parameters/1879,лъишокIдагьал,dance
+531-1202,bezh1248,http://concepticon.clld.org/parameters/1443,эᴴкьал,walk
+531-887,bezh1248,http://concepticon.clld.org/parameters/1443,эᴴкье-говал,walk
+531-781,bezh1248,http://concepticon.clld.org/parameters/1443,эᴴкье-оᴴкъал,walk
+531-1459,bezh1248,http://concepticon.clld.org/parameters/366,шаьрдаьгьаьл,limp
+531-991,bezh1248,http://concepticon.clld.org/parameters/1519,лІирахал,run
+531-1999,bezh1248,http://concepticon.clld.org/parameters/695,мекьал,go
+531-967,bezh1248,http://concepticon.clld.org/parameters/705,кьоддā мекьал,go up
+531-1972,bezh1248,http://concepticon.clld.org/parameters/705,багъолабагьал,go up
+531-966,bezh1248,http://concepticon.clld.org/parameters/1102,лІирокьā мекьал,climb
+531-1682,bezh1248,http://concepticon.clld.org/parameters/1102,лIиролабек мекьал,climb
+531-602,bezh1248,http://concepticon.clld.org/parameters/1102,кьоддā агъолагьал,climb
+531-1389,bezh1248,http://concepticon.clld.org/parameters/1102,кьодо мекьал,climb
+531-1445,bezh1248,http://concepticon.clld.org/parameters/2014,лІиродā мекьал,go down
+531-1110,bezh1248,http://concepticon.clld.org/parameters/2014,кьоьллаькьāь мекьал,go down
+531-244,bezh1248,http://concepticon.clld.org/parameters/1107,махIа багъал гишаькаьл,go out
+531-1850,bezh1248,http://concepticon.clld.org/parameters/1107,гишаькаьл’,go out
+531-1538,bezh1248,http://concepticon.clld.org/parameters/1446,оᴴкъал,come
+531-1223,bezh1248,http://concepticon.clld.org/parameters/1446,говал,come
+531-1432,bezh1248,http://concepticon.clld.org/parameters/581,кьāь говал,come back
+531-1555,bezh1248,http://concepticon.clld.org/parameters/581,дена говал,come back
+531-1202,bezh1248,http://concepticon.clld.org/parameters/1752,эᴴкьал,"go away, depart"
+531-1182,bezh1248,http://concepticon.clld.org/parameters/1752,очал,"go away, depart"
+531-1098,bezh1248,http://concepticon.clld.org/parameters/1752,эᴴкьаьл’,"go away, depart"
+531-1496,bezh1248,http://concepticon.clld.org/parameters/1752,оьчаьл’,"go away, depart"
+531-1017,bezh1248,http://concepticon.clld.org/parameters/485,роъал,disappear
+531-1182,bezh1248,http://concepticon.clld.org/parameters/956,очал,flee
+531-1496,bezh1248,http://concepticon.clld.org/parameters/956,оьчаьл’,flee
+531-2009,bezh1248,http://concepticon.clld.org/parameters/956,оьчена хасар (хвасар) ахъал,flee
+531-36,bezh1248,http://concepticon.clld.org/parameters/1085,муьгъаьлІ эᴴкьаьл,follow
+531-253,bezh1248,http://concepticon.clld.org/parameters/1047,муьгъаьлІ эцал,pursue
+531-914,bezh1248,http://concepticon.clld.org/parameters/1047,оцIдагьал,pursue
+531-137,bezh1248,http://concepticon.clld.org/parameters/1387,рокъал,"reach, arrive"
+531-461,bezh1248,http://concepticon.clld.org/parameters/1387,рокъотухъал,"reach, arrive"
+531-154,bezh1248,http://concepticon.clld.org/parameters/1387,иᴴхъолал,"reach, arrive"
+531-925,bezh1248,http://concepticon.clld.org/parameters/1778,гьичаь оᴴкъал,approach
+531-907,bezh1248,http://concepticon.clld.org/parameters/1778,гьичакал,approach
+531-1973,bezh1248,http://concepticon.clld.org/parameters/1778,гьичаькаьл’,approach
+531-318,bezh1248,http://concepticon.clld.org/parameters/749,эᴴдокал,enter
+531-1179,bezh1248,http://concepticon.clld.org/parameters/749,эᴴдо эᴴкьал,enter
+531-1537,bezh1248,http://concepticon.clld.org/parameters/700,йежал,carry (bear)
+531-440,bezh1248,http://concepticon.clld.org/parameters/700,йежаьл’,carry (bear)
+531-582,bezh1248,http://concepticon.clld.org/parameters/412,каъ режаьл,carry-in-hand
+531-2054,bezh1248,http://concepticon.clld.org/parameters/412,какьа режаьл,carry-in-hand
+531-507,bezh1248,http://concepticon.clld.org/parameters/412,роькчаьл,carry-in-hand
+531-855,bezh1248,http://concepticon.clld.org/parameters/413,къераькьаь режаьл,carry-on-shoulder
+531-606,bezh1248,http://concepticon.clld.org/parameters/414,къаьмкьаь режаьл,carry-on-head
+531-501,bezh1248,http://concepticon.clld.org/parameters/415,нухъулІ режаьл,carry-underarm
+531-1387,bezh1248,http://concepticon.clld.org/parameters/692,бакъал,bring
+531-779,bezh1248,http://concepticon.clld.org/parameters/1127,рейал,send
+531-1111,bezh1248,http://concepticon.clld.org/parameters/43,бежаьл,lead (vb)
+531-1552,bezh1248,http://concepticon.clld.org/parameters/43,мокъал,lead (vb)
+531-1895,bezh1248,http://concepticon.clld.org/parameters/741,машинаьлкьаь эᴴкьаьл,drive
+531-356,bezh1248,http://concepticon.clld.org/parameters/367,шуьгоьсоракьа эᴴкьаьл,ride
+531-984,bezh1248,http://concepticon.clld.org/parameters/367,кьаьркъена эᴴкьаьл,ride
+531-332,bezh1248,http://concepticon.clld.org/parameters/1452,къолІал,"push, shove"
+531-1590,bezh1248,http://concepticon.clld.org/parameters/1452,зистухълал,"push, shove"
+531-272,bezh1248,http://concepticon.clld.org/parameters/667,гьино,road
+531-1827,bezh1248,http://concepticon.clld.org/parameters/667,шаьгьраь,road
+531-272,bezh1248,http://concepticon.clld.org/parameters/2252,гьино,path
+531-218,bezh1248,http://concepticon.clld.org/parameters/2252,биликІи,path
+531-112,bezh1248,http://concepticon.clld.org/parameters/1011,тІиро,bridge
+531-1192,bezh1248,http://concepticon.clld.org/parameters/122,уруми,"carriage, wagon, cart"
+531-1267,bezh1248,http://concepticon.clld.org/parameters/122,кІаьчІкІаь,"carriage, wagon, cart"
+531-383,bezh1248,http://concepticon.clld.org/parameters/122,пайтун,"carriage, wagon, cart"
+531-1083,bezh1248,http://concepticon.clld.org/parameters/710,гьабор,wheel
+531-251,bezh1248,http://concepticon.clld.org/parameters/1769,кІобала,axle
+531-517,bezh1248,http://concepticon.clld.org/parameters/14,рукьо,yoke
+531-791,bezh1248,http://concepticon.clld.org/parameters/740,гама,ship
+531-1923,bezh1248,http://concepticon.clld.org/parameters/1844,нави,boat
+531-144,bezh1248,http://concepticon.clld.org/parameters/1844,лодка,boat
+531-1923,bezh1248,http://concepticon.clld.org/parameters/1970,нави,canoe
+531-144,bezh1248,http://concepticon.clld.org/parameters/1970,лодка,canoe
+531-1923,bezh1248,http://concepticon.clld.org/parameters/416,нави,outrigger
+531-144,bezh1248,http://concepticon.clld.org/parameters/416,лодка,outrigger
+531-1788,bezh1248,http://concepticon.clld.org/parameters/1664,плот,raft
+531-1244,bezh1248,http://concepticon.clld.org/parameters/108,аькоь,oar
+531-1244,bezh1248,http://concepticon.clld.org/parameters/234,аькоь,paddle (noun)
+531-294,bezh1248,http://concepticon.clld.org/parameters/1849,эᴴхо йагъал,row (vb)
+531-1319,bezh1248,http://concepticon.clld.org/parameters/108,рул,rudder
+531-1412,bezh1248,http://concepticon.clld.org/parameters/184,мачта,mast
+531-1980,bezh1248,http://concepticon.clld.org/parameters/786,парус,sail (noun)
+531-304,bezh1248,http://concepticon.clld.org/parameters/1870,йакор,anchor
+531-91,bezh1248,http://concepticon.clld.org/parameters/610,порт,"harbor, port"
+531-217,bezh1248,http://concepticon.clld.org/parameters/1922,рагІалликьа бечелал,land (vb)
+531-1355,bezh1248,http://concepticon.clld.org/parameters/1922,къере бечелаьл,land (vb)
+531-1575,bezh1248,http://concepticon.clld.org/parameters/773,рахъал,have
+531-2062,bezh1248,http://concepticon.clld.org/parameters/773,гели,have
+531-1575,bezh1248,http://concepticon.clld.org/parameters/684,рахъал,"own, possess"
+531-777,bezh1248,http://concepticon.clld.org/parameters/684,бетIергьанлъи ровал,"own, possess"
+531-1556,bezh1248,http://concepticon.clld.org/parameters/1749,рокчал,take
+531-147,bezh1248,http://concepticon.clld.org/parameters/1749,роькчаьл’,take
+531-1692,bezh1248,http://concepticon.clld.org/parameters/2021,рохал,"seize, grasp"
+531-2024,bezh1248,http://concepticon.clld.org/parameters/2021,рихъолал,"seize, grasp"
+531-1692,bezh1248,http://concepticon.clld.org/parameters/1448,рохал,hold
+531-1752,bezh1248,http://concepticon.clld.org/parameters/694,рихъал,"get, obtain"
+531-673,bezh1248,http://concepticon.clld.org/parameters/1477,цІуми ровал,"keep, retain"
+531-1163,bezh1248,http://concepticon.clld.org/parameters/738,жоь,thing
+531-113,bezh1248,http://concepticon.clld.org/parameters/1447,нилІал,give
+531-99,bezh1248,http://concepticon.clld.org/parameters/85,кьāь нилІал,give back
+531-541,bezh1248,http://concepticon.clld.org/parameters/85,дена нилIал,give back
+531-673,bezh1248,http://concepticon.clld.org/parameters/1997,цІуми ровал,"preserve, look after"
+531-1891,bezh1248,http://concepticon.clld.org/parameters/2008,хасар бовал,"save, rescue"
+531-370,bezh1248,http://concepticon.clld.org/parameters/681,ругъолал,destroy
+531-1838,bezh1248,http://concepticon.clld.org/parameters/681,къере рокъолал,destroy
+531-699,bezh1248,http://concepticon.clld.org/parameters/681,рошал,destroy
+531-377,bezh1248,http://concepticon.clld.org/parameters/681,роьшаьл’,destroy
+531-1739,bezh1248,http://concepticon.clld.org/parameters/44,зарал бовал,"harm, injure, damage"
+531-1428,bezh1248,http://concepticon.clld.org/parameters/44,зарал нилIал,"harm, injure, damage"
+531-695,bezh1248,http://concepticon.clld.org/parameters/1468,ризал,"seek, look for"
+531-2024,bezh1248,http://concepticon.clld.org/parameters/1468,рихъолал,"seek, look for"
+531-822,bezh1248,http://concepticon.clld.org/parameters/1468,хал бовал,"seek, look for"
+531-1334,bezh1248,http://concepticon.clld.org/parameters/1468,хIаьклаьл,"seek, look for"
+531-677,bezh1248,http://concepticon.clld.org/parameters/1468,хIаьклаьл’,"seek, look for"
+531-2024,bezh1248,http://concepticon.clld.org/parameters/719,рихъолал,find
+531-1017,bezh1248,http://concepticon.clld.org/parameters/1660,роъал,lose
+531-883,bezh1248,http://concepticon.clld.org/parameters/1095,регьцакIал,"release, let go"
+531-2066,bezh1248,http://concepticon.clld.org/parameters/1095,речаькIаьл,"release, let go"
+531-1897,bezh1248,http://concepticon.clld.org/parameters/1095,рейаьл,"release, let go"
+531-13,bezh1248,http://concepticon.clld.org/parameters/1095,рейаьл’,"release, let go"
+531-255,bezh1248,http://concepticon.clld.org/parameters/1559,окро,money
+531-1094,bezh1248,http://concepticon.clld.org/parameters/1867,килоьш окро,coin
+531-940,bezh1248,http://concepticon.clld.org/parameters/1867,нуьшшоь окро,coin
+531-1655,bezh1248,http://concepticon.clld.org/parameters/712,бечедаб,rich
+531-1357,bezh1248,http://concepticon.clld.org/parameters/1674,мискинаб,poor
+531-668,bezh1248,http://concepticon.clld.org/parameters/1674,йазихаб,poor
+531-1358,bezh1248,http://concepticon.clld.org/parameters/1934,гьардухъан,beggar
+531-1021,bezh1248,http://concepticon.clld.org/parameters/1934,окІдаго,beggar
+531-1378,bezh1248,http://concepticon.clld.org/parameters/1774,бахилаб,"avaricious, stingy"
+531-1896,bezh1248,http://concepticon.clld.org/parameters/1774,къарумаб,"avaricious, stingy"
+531-761,bezh1248,http://concepticon.clld.org/parameters/582,роцІол нилІал,lend
+531-547,bezh1248,http://concepticon.clld.org/parameters/582,къарза нилІал,lend
+531-492,bezh1248,http://concepticon.clld.org/parameters/1823,роцІол роькчаьл,borrow
+531-560,bezh1248,http://concepticon.clld.org/parameters/1823,роцIол рокIал,borrow
+531-603,bezh1248,http://concepticon.clld.org/parameters/1823,къарза роькчаьл,borrow
+531-1152,bezh1248,http://concepticon.clld.org/parameters/369,нилІал нуцІоц,owe
+531-961,bezh1248,http://concepticon.clld.org/parameters/369,нагьлъилалI ахъал,owe
+531-1205,bezh1248,http://concepticon.clld.org/parameters/1914,роцІол,debt
+531-833,bezh1248,http://concepticon.clld.org/parameters/1914,къарза,debt
+531-1251,bezh1248,http://concepticon.clld.org/parameters/1914,нагьлъи,debt
+531-1424,bezh1248,http://concepticon.clld.org/parameters/718,окро нилІал,pay (vb)
+531-1981,bezh1248,http://concepticon.clld.org/parameters/718,хIаькъ нилIал,pay (vb)
+531-178,bezh1248,http://concepticon.clld.org/parameters/1081,хІисаб,"account, reckoning"
+531-1886,bezh1248,http://concepticon.clld.org/parameters/1081,чот,"account, reckoning"
+531-1884,bezh1248,http://concepticon.clld.org/parameters/873,налог,"tax, tribute"
+531-302,bezh1248,http://concepticon.clld.org/parameters/873,магъало,"tax, tribute"
+531-1713,bezh1248,http://concepticon.clld.org/parameters/873,мизги,"tax, tribute"
+531-1663,bezh1248,http://concepticon.clld.org/parameters/856,лъолъил роькчаьл,hire
+531-1704,bezh1248,http://concepticon.clld.org/parameters/1122,харж,wages
+531-564,bezh1248,http://concepticon.clld.org/parameters/1122,ужра,wages
+531-680,bezh1248,http://concepticon.clld.org/parameters/733,окро ровал,earn
+531-1468,bezh1248,http://concepticon.clld.org/parameters/733,окро рихъолал,earn
+531-1986,bezh1248,http://concepticon.clld.org/parameters/733,ōдана мухь боькчаьл,earn
+531-1692,bezh1248,http://concepticon.clld.org/parameters/1869,рохал,buy
+531-1633,bezh1248,http://concepticon.clld.org/parameters/1571,рисал,sell
+531-1834,bezh1248,http://concepticon.clld.org/parameters/2135,дарам-базар,"trade, barter"
+531-1411,bezh1248,http://concepticon.clld.org/parameters/2135,рисо-хужеролъи,"trade, barter"
+531-498,bezh1248,http://concepticon.clld.org/parameters/1082,базарган,merchant
+531-1971,bezh1248,http://concepticon.clld.org/parameters/1082,йиᴴсолаго,merchant
+531-828,bezh1248,http://concepticon.clld.org/parameters/633,базар,market (place)
+531-2048,bezh1248,http://concepticon.clld.org/parameters/752,копрат,"store, shop"
+531-1405,bezh1248,http://concepticon.clld.org/parameters/752,магазин,"store, shop"
+531-1849,bezh1248,http://concepticon.clld.org/parameters/657,багьа,price
+531-509,bezh1248,http://concepticon.clld.org/parameters/657,къимат,price
+531-1449,bezh1248,http://concepticon.clld.org/parameters/1426,багьайаб,"dear (costly, expensive)"
+531-326,bezh1248,http://concepticon.clld.org/parameters/1426,къиматаб,"dear (costly, expensive)"
+531-108,bezh1248,http://concepticon.clld.org/parameters/1887,пихІайаб,cheap
+531-894,bezh1248,http://concepticon.clld.org/parameters/1887,уьчуьжаьб,cheap
+531-1833,bezh1248,http://concepticon.clld.org/parameters/884,ритІал,share (distribute)
+531-1406,bezh1248,http://concepticon.clld.org/parameters/884,ритI-релъелал,share (distribute)
+531-95,bezh1248,http://concepticon.clld.org/parameters/1098,расагьал,weigh
+531-774,bezh1248,http://concepticon.clld.org/parameters/1685,бета,after
+531-143,bezh1248,http://concepticon.clld.org/parameters/1685,муьгъаьлI,after
+531-1905,bezh1248,http://concepticon.clld.org/parameters/1685,заман мекьелъ,after
+531-124,bezh1248,http://concepticon.clld.org/parameters/723,муьгъаьлІдāь,behind
+531-596,bezh1248,http://concepticon.clld.org/parameters/1816,шеблаьъ,beside
+531-647,bezh1248,http://concepticon.clld.org/parameters/1326,лІиро,"down, below"
+531-1323,bezh1248,http://concepticon.clld.org/parameters/1326,лIиродā,"down, below"
+531-1489,bezh1248,http://concepticon.clld.org/parameters/1882,арад,before
+531-1095,bezh1248,http://concepticon.clld.org/parameters/1882,мекьера заманлиъ,before
+531-1201,bezh1248,http://concepticon.clld.org/parameters/1019,араддā,front
+531-1227,bezh1248,http://concepticon.clld.org/parameters/1606,эᴴдо,"inside, in"
+531-1401,bezh1248,http://concepticon.clld.org/parameters/1606,эᴴдоь,"inside, in"
+531-480,bezh1248,http://concepticon.clld.org/parameters/762,гишаь,outside
+531-647,bezh1248,http://concepticon.clld.org/parameters/1485,лІиро,under
+531-1546,bezh1248,http://concepticon.clld.org/parameters/1591,кьодо,"up, above"
+531-393,bezh1248,http://concepticon.clld.org/parameters/723,маче,place
+531-1075,bezh1248,http://concepticon.clld.org/parameters/723,макІа,place
+531-1817,bezh1248,http://concepticon.clld.org/parameters/998,гулал,put
+531-1356,bezh1248,http://concepticon.clld.org/parameters/1416,къере эчаьл,sit
+531-176,bezh1248,http://concepticon.clld.org/parameters/215,йутІал,lie down
+531-310,bezh1248,http://concepticon.clld.org/parameters/215,малIо ровал,lie down
+531-1841,bezh1248,http://concepticon.clld.org/parameters/1442,оьчекьаь эчаьл,stand
+531-2085,bezh1248,http://concepticon.clld.org/parameters/1442,aгъицIал,stand
+531-682,bezh1248,http://concepticon.clld.org/parameters/1442,агъицIна эчаьл,stand
+531-2003,bezh1248,http://concepticon.clld.org/parameters/987,эчаьл,"remain, stay"
+531-1479,bezh1248,http://concepticon.clld.org/parameters/987,эче-халIал эчаьл’,"remain, stay"
+531-877,bezh1248,http://concepticon.clld.org/parameters/987,эче-хаьлIаьл’,"remain, stay"
+531-2052,bezh1248,http://concepticon.clld.org/parameters/838,лIиро-кьодо рекиро жо,"remains, left overs"
+531-29,bezh1248,http://concepticon.clld.org/parameters/838,гьиᴴхлъоро жоь,"remains, left overs"
+531-1745,bezh1248,http://concepticon.clld.org/parameters/7,рокІолал,"collect, gather"
+531-1145,bezh1248,http://concepticon.clld.org/parameters/7,къацІокІал,"collect, gather"
+531-1556,bezh1248,http://concepticon.clld.org/parameters/371,рокчал,pick up
+531-19,bezh1248,http://concepticon.clld.org/parameters/371,розал,pick up
+531-1145,bezh1248,http://concepticon.clld.org/parameters/1576,къацІокІал,pile up
+531-271,bezh1248,http://concepticon.clld.org/parameters/1576,росал,pile up
+531-2042,bezh1248,http://concepticon.clld.org/parameters/1576,ижокІал,pile up
+531-316,bezh1248,http://concepticon.clld.org/parameters/1576,из ровал,pile up
+531-1420,bezh1248,http://concepticon.clld.org/parameters/1576,сидкьa гьоᴴс кьодо гулал,pile up
+531-1071,bezh1248,http://concepticon.clld.org/parameters/1576,гухI ровал,pile up
+531-1558,bezh1248,http://concepticon.clld.org/parameters/1743,лъишелал,"join, unite"
+531-1871,bezh1248,http://concepticon.clld.org/parameters/1359,батІа ровал,separate
+531-1161,bezh1248,http://concepticon.clld.org/parameters/1359,батIа руькьлаьл,separate
+531-1833,bezh1248,http://concepticon.clld.org/parameters/1119,ритІал,divide
+531-559,bezh1248,http://concepticon.clld.org/parameters/1156,рагъал,open
+531-1592,bezh1248,http://concepticon.clld.org/parameters/1156,рагьзи ровал,open
+531-1474,bezh1248,http://concepticon.clld.org/parameters/1156,раьᴴхIаьл,open
+531-1510,bezh1248,http://concepticon.clld.org/parameters/1156,раьᴴхIаьл’,open
+531-1752,bezh1248,http://concepticon.clld.org/parameters/1046,рихъал,"shut, close"
+531-1011,bezh1248,http://concepticon.clld.org/parameters/761,кьодо гулал,cover
+531-1176,bezh1248,http://concepticon.clld.org/parameters/761,кьодо мокъолал,cover
+531-1520,bezh1248,http://concepticon.clld.org/parameters/761,лIиро михъолал,cover
+531-358,bezh1248,http://concepticon.clld.org/parameters/602,муцал,"hide, conceal"
+531-832,bezh1248,http://concepticon.clld.org/parameters/602,роьълаьл,"hide, conceal"
+531-738,bezh1248,http://concepticon.clld.org/parameters/1265,гьоъокьа,high
+531-1316,bezh1248,http://concepticon.clld.org/parameters/721,лIирокьа,low
+531-771,bezh1248,http://concepticon.clld.org/parameters/721,лІирогъа,low
+531-838,bezh1248,http://concepticon.clld.org/parameters/1753,кІоцо,top
+531-1119,bezh1248,http://concepticon.clld.org/parameters/1753,маьроь,top
+531-1141,bezh1248,http://concepticon.clld.org/parameters/690,оᴴкьо,bottom
+531-1565,bezh1248,http://concepticon.clld.org/parameters/742,ахир,end
+531-1499,bezh1248,http://concepticon.clld.org/parameters/372,аᴴцІцІо,pointed
+531-1466,bezh1248,http://concepticon.clld.org/parameters/863,раьгІаьл,edge
+531-1199,bezh1248,http://concepticon.clld.org/parameters/682,рахъ,side
+531-1859,bezh1248,http://concepticon.clld.org/parameters/1093,балІос маче,"middle, center"
+531-1177,bezh1248,http://concepticon.clld.org/parameters/1093,балIодāс маче,"middle, center"
+531-94,bezh1248,http://concepticon.clld.org/parameters/1019,кІетІаькьаьш,right (side)
+531-1811,bezh1248,http://concepticon.clld.org/parameters/244,оᴴкьакьас,left (side)
+531-1926,bezh1248,http://concepticon.clld.org/parameters/244,мекъаб,left (side)
+531-596,bezh1248,http://concepticon.clld.org/parameters/1942,шеблаьъ,near (adv)
+531-752,bezh1248,http://concepticon.clld.org/parameters/1942,гьицца,near (adv)
+531-1854,bezh1248,http://concepticon.clld.org/parameters/1406,чІихоь,far (adv)
+531-1008,bezh1248,http://concepticon.clld.org/parameters/1406,атā,far (adv)
+531-510,bezh1248,http://concepticon.clld.org/parameters/1877,бохъ тIувāцIодай,east
+531-759,bezh1248,http://concepticon.clld.org/parameters/1877,бохъ нувāцIодай,east
+531-426,bezh1248,http://concepticon.clld.org/parameters/1877,машрикъ,east
+531-630,bezh1248,http://concepticon.clld.org/parameters/1817,бохъ тIикацодай,west
+531-1403,bezh1248,http://concepticon.clld.org/parameters/1817,бохъ боъāцодай,west
+531-1901,bezh1248,http://concepticon.clld.org/parameters/1817,магъриб,west
+531-1880,bezh1248,http://concepticon.clld.org/parameters/1598,оᴴхъкьас маче,north
+531-1195,bezh1248,http://concepticon.clld.org/parameters/1598,оᴴхъхъас маче,north
+531-1524,bezh1248,http://concepticon.clld.org/parameters/1598,оᴴхъкьадāлаъ,north
+531-2065,bezh1248,http://concepticon.clld.org/parameters/1598,север,north
+531-37,bezh1248,http://concepticon.clld.org/parameters/1595,бихъкьадāлаъ,south
+531-1480,bezh1248,http://concepticon.clld.org/parameters/1595,къилма,south
+531-1240,bezh1248,http://concepticon.clld.org/parameters/479,рукълъал,grow
+531-772,bezh1248,http://concepticon.clld.org/parameters/479,руькълъаьл’,grow
+531-1413,bezh1248,http://concepticon.clld.org/parameters/1506,масагьал,measure
+531-1963,bezh1248,http://concepticon.clld.org/parameters/81,—,"span, fathom"
+531-749,bezh1248,http://concepticon.clld.org/parameters/1202,руькъоь,"large, big"
+531-1960,bezh1248,http://concepticon.clld.org/parameters/1246,руьвероь,"small, little"
+531-422,bezh1248,http://concepticon.clld.org/parameters/1203,бихало,long
+531-422,bezh1248,http://concepticon.clld.org/parameters/711,бихало,tall
+531-657,bezh1248,http://concepticon.clld.org/parameters/711,гьоъокьас,tall
+531-1730,bezh1248,http://concepticon.clld.org/parameters/1645,маьшшоь,short
+531-1728,bezh1248,http://concepticon.clld.org/parameters/1243,къекъкъоь,"wide, broad"
+531-1652,bezh1248,http://concepticon.clld.org/parameters/1267,хъуссо,narrow
+531-1630,bezh1248,http://concepticon.clld.org/parameters/1244,хетІтІо,thick (in dimension)
+531-2068,bezh1248,http://concepticon.clld.org/parameters/1400,лІаьммоь,thin (in dimension)
+531-1265,bezh1248,http://concepticon.clld.org/parameters/1593,гилъилло,deep
+531-819,bezh1248,http://concepticon.clld.org/parameters/1593,эᴴддāьш,deep
+531-685,bezh1248,http://concepticon.clld.org/parameters/193,шуьшшоь,shallow
+531-454,bezh1248,http://concepticon.clld.org/parameters/193,нуьшшоь,shallow
+531-526,bezh1248,http://concepticon.clld.org/parameters/1633,релъеро,flat
+531-457,bezh1248,http://concepticon.clld.org/parameters/1633,битІараб,flat
+531-748,bezh1248,http://concepticon.clld.org/parameters/1633,кьокькьо,flat
+531-457,bezh1248,http://concepticon.clld.org/parameters/1404,битІараб,straight
+531-1072,bezh1248,http://concepticon.clld.org/parameters/1404,ракъогуцІоро,straight
+531-1848,bezh1248,http://concepticon.clld.org/parameters/297,чІекІдийоь,crooked
+531-190,bezh1248,http://concepticon.clld.org/parameters/1071,кІоьхаьде,hook
+531-1207,bezh1248,http://concepticon.clld.org/parameters/192,букьо,corner
+531-1426,bezh1248,http://concepticon.clld.org/parameters/1367,хъанч,cross
+531-46,bezh1248,http://concepticon.clld.org/parameters/1367,хъача,cross
+531-1353,bezh1248,http://concepticon.clld.org/parameters/850,оьᴴкъебукьос,square
+531-214,bezh1248,http://concepticon.clld.org/parameters/850,оьᴴкъобукьо,square
+531-1361,bezh1248,http://concepticon.clld.org/parameters/1395,гердийоь,round
+531-405,bezh1248,http://concepticon.clld.org/parameters/1467,гор,circle
+531-182,bezh1248,http://concepticon.clld.org/parameters/1845,шар,"sphere, ball"
+531-123,bezh1248,http://concepticon.clld.org/parameters/1048,мухъ,line
+531-30,bezh1248,http://concepticon.clld.org/parameters/1667,кІоьчІоь,hole
+531-479,bezh1248,http://concepticon.clld.org/parameters/1667,аᴴхІ,hole
+531-1064,bezh1248,http://concepticon.clld.org/parameters/1667,аᴴхIхIо,hole
+531-350,bezh1248,http://concepticon.clld.org/parameters/1558,реᴴлъеро,"like, similar"
+531-1233,bezh1248,http://concepticon.clld.org/parameters/1558,релъараб,"like, similar"
+531-1350,bezh1248,http://concepticon.clld.org/parameters/1264,хуьжаьл,change
+531-1571,bezh1248,http://concepticon.clld.org/parameters/1264,хуьжаьл’,change
+531-953,bezh1248,http://concepticon.clld.org/parameters/1294,нол,"zero, nothing"
+531-553,bezh1248,http://concepticon.clld.org/parameters/1515,гьоᴴс,one
+531-1587,bezh1248,http://concepticon.clld.org/parameters/1498,къона,two
+531-1927,bezh1248,http://concepticon.clld.org/parameters/492,лъана,three
+531-1035,bezh1248,http://concepticon.clld.org/parameters/1500,оьᴴкъенаь,four
+531-1907,bezh1248,http://concepticon.clld.org/parameters/493,лъина,five
+531-1467,bezh1248,http://concepticon.clld.org/parameters/1703,илъна,six
+531-1173,bezh1248,http://concepticon.clld.org/parameters/1704,алІна,seven
+531-786,bezh1248,http://concepticon.clld.org/parameters/1705,белІна,eight
+531-1142,bezh1248,http://concepticon.clld.org/parameters/1483,аьчІена,nine
+531-56,bezh1248,http://concepticon.clld.org/parameters/1515,ацІона,ten
+531-1146,bezh1248,http://concepticon.clld.org/parameters/1706,ацІона гьоᴴс,eleven
+531-1991,bezh1248,http://concepticon.clld.org/parameters/1707,ацІона къона,twelve
+531-1572,bezh1248,http://concepticon.clld.org/parameters/1709,ацІона лъина,fifteen
+531-2096,bezh1248,http://concepticon.clld.org/parameters/1710,хъона,twenty
+531-1675,bezh1248,http://concepticon.clld.org/parameters/1634,гьоᴴсчІитІ,hundred
+531-1115,bezh1248,http://concepticon.clld.org/parameters/1843,гьазар,thousand
+531-871,bezh1248,http://concepticon.clld.org/parameters/1420,хъовал,count
+531-1596,bezh1248,http://concepticon.clld.org/parameters/1420,бикІзировал,count
+531-727,bezh1248,http://concepticon.clld.org/parameters/1420,рикъелал,count
+531-1814,bezh1248,http://concepticon.clld.org/parameters/98,гаьллаьроь,"every, all"
+531-49,bezh1248,http://concepticon.clld.org/parameters/98,гаьллоь-гаьччоь,"every, all"
+531-175,bezh1248,http://concepticon.clld.org/parameters/98,къацIцIо,"every, all"
+531-763,bezh1248,http://concepticon.clld.org/parameters/1198,гІозийаб,"much, many"
+531-1113,bezh1248,http://concepticon.clld.org/parameters/1198,гIолалдола,"much, many"
+531-1137,bezh1248,http://concepticon.clld.org/parameters/1198,раьтІаь,"much, many"
+531-1126,bezh1248,http://concepticon.clld.org/parameters/1198,саламатца,"much, many"
+531-955,bezh1248,http://concepticon.clld.org/parameters/1198,тели,"much, many"
+531-1137,bezh1248,http://concepticon.clld.org/parameters/1992,раьтІаь,more
+531-1012,bezh1248,http://concepticon.clld.org/parameters/1242,даьгь,"little (quantity), few"
+531-1394,bezh1248,http://concepticon.clld.org/parameters/1242,даьгьаьб,"little (quantity), few"
+531-763,bezh1248,http://concepticon.clld.org/parameters/1881,гІозийаб,enough
+531-1433,bezh1248,http://concepticon.clld.org/parameters/1881,гIоьллоь,enough
+531-2089,bezh1248,http://concepticon.clld.org/parameters/1241,лади,some
+531-1672,bezh1248,http://concepticon.clld.org/parameters/1241,ласоди,some
+531-1137,bezh1248,http://concepticon.clld.org/parameters/2023,раьтІаь,"multitude, crowd"
+531-955,bezh1248,http://concepticon.clld.org/parameters/2023,тели,"multitude, crowd"
+531-1088,bezh1248,http://concepticon.clld.org/parameters/1429,боцІиро,full
+531-957,bezh1248,http://concepticon.clld.org/parameters/1429,рилI гухъиро,full
+531-807,bezh1248,http://concepticon.clld.org/parameters/1624,боьчІчІоь,empty
+531-660,bezh1248,http://concepticon.clld.org/parameters/779,бутІа,"part, piece"
+531-1198,bezh1248,http://concepticon.clld.org/parameters/779,кесек,"part, piece"
+531-760,bezh1248,http://concepticon.clld.org/parameters/816,ралІлІокос,half
+531-553,bezh1248,http://concepticon.clld.org/parameters/1580,гьоᴴс,"alone, only"
+531-599,bezh1248,http://concepticon.clld.org/parameters/1580,гьоᴴс гаьллоь,"alone, only"
+531-1831,bezh1248,http://concepticon.clld.org/parameters/728,араддāс,first
+531-1680,bezh1248,http://concepticon.clld.org/parameters/1529,ахирийаб,last
+531-1608,bezh1248,http://concepticon.clld.org/parameters/1529,муьгъаьлІдāьш,last
+531-1782,bezh1248,http://concepticon.clld.org/parameters/1384,къонас,second
+531-620,bezh1248,http://concepticon.clld.org/parameters/1384,къонаийāлІеро,second
+531-2002,bezh1248,http://concepticon.clld.org/parameters/1888,чут,pair
+531-1469,bezh1248,http://concepticon.clld.org/parameters/1888,къонарукьо,pair
+531-504,bezh1248,http://concepticon.clld.org/parameters/1546,кІахна,two times
+531-734,bezh1248,http://concepticon.clld.org/parameters/1859,лъанас,third
+531-1296,bezh1248,http://concepticon.clld.org/parameters/1859,лъанаийāлІеро,third
+531-880,bezh1248,http://concepticon.clld.org/parameters/417,лъахна,three times
+531-1016,bezh1248,http://concepticon.clld.org/parameters/417,лъарахна,three times
+531-2070,bezh1248,http://concepticon.clld.org/parameters/892,заман,time
+531-1461,bezh1248,http://concepticon.clld.org/parameters/892,мех,time
+531-286,bezh1248,http://concepticon.clld.org/parameters/892,анта,time
+531-1066,bezh1248,http://concepticon.clld.org/parameters/1789,гІасру,age
+531-965,bezh1248,http://concepticon.clld.org/parameters/1789,эпоха,age
+531-900,bezh1248,http://concepticon.clld.org/parameters/1231,ицІцІо,new
+531-869,bezh1248,http://concepticon.clld.org/parameters/1207,гІолохъанаб,young
+531-649,bezh1248,http://concepticon.clld.org/parameters/1207,гІоьлаьб,young
+531-1422,bezh1248,http://concepticon.clld.org/parameters/1229,ичилоь,old
+531-282,bezh1248,http://concepticon.clld.org/parameters/672,анталаъ,early
+531-552,bezh1248,http://concepticon.clld.org/parameters/672,гьех,early
+531-1653,bezh1248,http://concepticon.clld.org/parameters/672,хехса,early
+531-1444,bezh1248,http://concepticon.clld.org/parameters/477,гьакко,late
+531-1603,bezh1248,http://concepticon.clld.org/parameters/477,гьакоуьᴴхена,late
+531-1624,bezh1248,http://concepticon.clld.org/parameters/477,гьаьтекна,late
+531-1400,bezh1248,http://concepticon.clld.org/parameters/477,кацIи ахъна,late
+531-1893,bezh1248,http://concepticon.clld.org/parameters/1376,же,now
+531-246,bezh1248,http://concepticon.clld.org/parameters/1376,гьабсагIат,now
+531-1828,bezh1248,http://concepticon.clld.org/parameters/1963,гьабсагІат,immediately
+531-1653,bezh1248,http://concepticon.clld.org/parameters/1963,хехса,immediately
+531-2050,bezh1248,http://concepticon.clld.org/parameters/1631,хехаб,"swift, fast, quick"
+531-666,bezh1248,http://concepticon.clld.org/parameters/1631,гIедегIараб,"swift, fast, quick"
+531-1444,bezh1248,http://concepticon.clld.org/parameters/701,гьакко,slow
+531-1079,bezh1248,http://concepticon.clld.org/parameters/754,аᴴхсал,"hasten, hurry"
+531-500,bezh1248,http://concepticon.clld.org/parameters/754,гІедегІзиахъал,"hasten, hurry"
+531-1820,bezh1248,http://concepticon.clld.org/parameters/425,гьакокІал,"retard, delay"
+531-1376,bezh1248,http://concepticon.clld.org/parameters/425,охал,"retard, delay"
+531-1385,bezh1248,http://concepticon.clld.org/parameters/425,эче-хаьлIелал,"retard, delay"
+531-628,bezh1248,http://concepticon.clld.org/parameters/1806,байбики,"begin, beginning"
+531-1614,bezh1248,http://concepticon.clld.org/parameters/1806,байбикзи рахъал,"begin, beginning"
+531-2064,bezh1248,http://concepticon.clld.org/parameters/1806,байбикзи ровал,"begin, beginning"
+531-690,bezh1248,http://concepticon.clld.org/parameters/1806,руьхелал,"begin, beginning"
+531-848,bezh1248,http://concepticon.clld.org/parameters/1806,руьхелълал,"begin, beginning"
+531-775,bezh1248,http://concepticon.clld.org/parameters/1186,рихалолъал,"last, endure"
+531-594,bezh1248,http://concepticon.clld.org/parameters/743,лъикъолал,end (temporal)
+531-1025,bezh1248,http://concepticon.clld.org/parameters/743,ахир гулал,end (temporal)
+531-594,bezh1248,http://concepticon.clld.org/parameters/1766,лъикъолал,finish
+531-1025,bezh1248,http://concepticon.clld.org/parameters/1766,ахир гулал,finish
+531-834,bezh1248,http://concepticon.clld.org/parameters/1928,эченоцIал,"cease, stop"
+531-1910,bezh1248,http://concepticon.clld.org/parameters/1928,йеченицІал,"cease, stop"
+531-1273,bezh1248,http://concepticon.clld.org/parameters/1928,бечануцIал,"cease, stop"
+531-378,bezh1248,http://concepticon.clld.org/parameters/1928,лъалхъези бахъал,"cease, stop"
+531-1570,bezh1248,http://concepticon.clld.org/parameters/790,хІадураб,ready
+531-1931,bezh1248,http://concepticon.clld.org/parameters/790,лъикъоро,ready
+531-1967,bezh1248,http://concepticon.clld.org/parameters/1676,нитоназу,always
+531-783,bezh1248,http://concepticon.clld.org/parameters/1852,хē-хехса,often
+531-1397,bezh1248,http://concepticon.clld.org/parameters/1544,зама-замаллиъ,sometimes
+531-198,bezh1248,http://concepticon.clld.org/parameters/1544,сосо-къолиъ,sometimes
+531-1238,bezh1248,http://concepticon.clld.org/parameters/703,гьаколъечІе,soon
+531-1653,bezh1248,http://concepticon.clld.org/parameters/703,хехса,soon
+531-387,bezh1248,http://concepticon.clld.org/parameters/703,хехеб куцлиъ,soon
+531-637,bezh1248,http://concepticon.clld.org/parameters/418,рихало,long-time (for a)
+531-829,bezh1248,http://concepticon.clld.org/parameters/418,бихала замаллис,long-time (for a)
+531-460,bezh1248,http://concepticon.clld.org/parameters/418,рихалагъас,long-time (for a)
+531-1930,bezh1248,http://concepticon.clld.org/parameters/1656,нитона,never
+531-424,bezh1248,http://concepticon.clld.org/parameters/1656,гьоᴴсна,never
+531-774,bezh1248,http://concepticon.clld.org/parameters/204,бета,again
+531-261,bezh1248,http://concepticon.clld.org/parameters/204,бетана,again
+531-1964,bezh1248,http://concepticon.clld.org/parameters/204,ицIцIагъад,again
+531-1065,bezh1248,http://concepticon.clld.org/parameters/204,кьāьнаь,again
+531-2086,bezh1248,http://concepticon.clld.org/parameters/204,кьāь-кьāь,again
+531-613,bezh1248,http://concepticon.clld.org/parameters/204,цIиддаса,again
+531-773,bezh1248,http://concepticon.clld.org/parameters/1260,водо,day
+531-1279,bezh1248,http://concepticon.clld.org/parameters/1260,ралIокъерес мех,day
+531-2090,bezh1248,http://concepticon.clld.org/parameters/1233,нише,night
+531-1297,bezh1248,http://concepticon.clld.org/parameters/1233,нишеш мех,night
+531-499,bezh1248,http://concepticon.clld.org/parameters/729,каьчелъиро мех,dawn
+531-1312,bezh1248,http://concepticon.clld.org/parameters/729,каьчелъчаьш заман,dawn
+531-770,bezh1248,http://concepticon.clld.org/parameters/1339,хишкьаьш мех,morning
+531-505,bezh1248,http://concepticon.clld.org/parameters/1339,хишкьаьш анта,morning
+531-292,bezh1248,http://concepticon.clld.org/parameters/12,лІобакьа,"noon, midday"
+531-1276,bezh1248,http://concepticon.clld.org/parameters/1807,лІобакьа нишдайлил,afternoon
+531-1800,bezh1248,http://concepticon.clld.org/parameters/1629,маьркIоьчІоьлъшоь мех,evening
+531-1189,bezh1248,http://concepticon.clld.org/parameters/1629,маьрчIоькІоьлъшоь мех,evening
+531-1351,bezh1248,http://concepticon.clld.org/parameters/1283,жейса,today
+531-713,bezh1248,http://concepticon.clld.org/parameters/1283,женшаь,today
+531-1117,bezh1248,http://concepticon.clld.org/parameters/1329,хишаь,tomorrow
+531-448,bezh1248,http://concepticon.clld.org/parameters/1179,хишаьлаьлъ,day-after-tomorrow
+531-486,bezh1248,http://concepticon.clld.org/parameters/1179,бетахишаь,day-after-tomorrow
+531-344,bezh1248,http://concepticon.clld.org/parameters/1174,гьуᴴлъ,yesterday
+531-908,bezh1248,http://concepticon.clld.org/parameters/1180,гьуᴴлъбос,day-before-yesterday
+531-1349,bezh1248,http://concepticon.clld.org/parameters/1180,гьуᴴлалъ,day-before-yesterday
+531-1925,bezh1248,http://concepticon.clld.org/parameters/1353,сагІат,hour
+531-1925,bezh1248,http://concepticon.clld.org/parameters/1323,сагІат,"clock, timepiece"
+531-1853,bezh1248,http://concepticon.clld.org/parameters/1469,анкьи,week
+531-1450,bezh1248,http://concepticon.clld.org/parameters/1699,базар-водо,Sunday
+531-1543,bezh1248,http://concepticon.clld.org/parameters/1699,вихадной,Sunday
+531-254,bezh1248,http://concepticon.clld.org/parameters/1697,итни,Monday
+531-1722,bezh1248,http://concepticon.clld.org/parameters/1695,талат,Tuesday
+531-1418,bezh1248,http://concepticon.clld.org/parameters/1694,арбагI,Wednesday
+531-766,bezh1248,http://concepticon.clld.org/parameters/1693,хамиз,Thursday
+531-820,bezh1248,http://concepticon.clld.org/parameters/1692,нужмар,Friday
+531-96,bezh1248,http://concepticon.clld.org/parameters/1700,шамат,Saturday
+531-1135,bezh1248,http://concepticon.clld.org/parameters/1370,боцо,month
+531-817,bezh1248,http://concepticon.clld.org/parameters/1226,лІи,year
+531-409,bezh1248,http://concepticon.clld.org/parameters/1226,лъагІил,year
+531-245,bezh1248,http://concepticon.clld.org/parameters/1471,лІине,winter
+531-1164,bezh1248,http://concepticon.clld.org/parameters/1537,эмедāьш мех,spring
+531-146,bezh1248,http://concepticon.clld.org/parameters/1342,аᴴзо,summer
+531-1415,bezh1248,http://concepticon.clld.org/parameters/1342,аᴴзодос мех,summer
+531-756,bezh1248,http://concepticon.clld.org/parameters/1276,сибора,autumn
+531-1523,bezh1248,http://concepticon.clld.org/parameters/1276,сиборас мех,autumn
+531-1461,bezh1248,http://concepticon.clld.org/parameters/691,мех,season
+531-1216,bezh1248,http://concepticon.clld.org/parameters/691,лъагIеллис заман,season
+531-382,bezh1248,http://concepticon.clld.org/parameters/1587,махІ гел,smell (vb intrans)
+531-197,bezh1248,http://concepticon.clld.org/parameters/1587,махI тIутIал,smell (vb intrans)
+531-1109,bezh1248,http://concepticon.clld.org/parameters/375,хурлІолал,sniff
+531-1564,bezh1248,http://concepticon.clld.org/parameters/1586,махІ бикьелал,smell (vb trans)
+531-32,bezh1248,http://concepticon.clld.org/parameters/1586,махI тIутIлал,smell (vb trans)
+531-162,bezh1248,http://concepticon.clld.org/parameters/376,кІетІо махІ,"fragrant, good smelling"
+531-729,bezh1248,http://concepticon.clld.org/parameters/376,гьуинаб махI,"fragrant, good smelling"
+531-289,bezh1248,http://concepticon.clld.org/parameters/42,къокъоро махІ,"stinking, bad smelling"
+531-243,bezh1248,http://concepticon.clld.org/parameters/21,тІагІам,taste
+531-1372,bezh1248,http://concepticon.clld.org/parameters/21,гемоь,taste
+531-1308,bezh1248,http://concepticon.clld.org/parameters/717,нийаьроь,sweet
+531-174,bezh1248,http://concepticon.clld.org/parameters/1091,чихаьроь,salty
+531-797,bezh1248,http://concepticon.clld.org/parameters/887,никъаьроь,bitter
+531-1384,bezh1248,http://concepticon.clld.org/parameters/1906,чаьчаьлоь,"acid, sour"
+531-611,bezh1248,http://concepticon.clld.org/parameters/70,чихаьрикъероь,brackish
+531-1410,bezh1248,http://concepticon.clld.org/parameters/1408,тухъал,hear
+531-1341,bezh1248,http://concepticon.clld.org/parameters/1608,гІенекзиахъал,listen
+531-411,bezh1248,http://concepticon.clld.org/parameters/1811,хъуй,"sound, noise"
+531-1320,bezh1248,http://concepticon.clld.org/parameters/1811,хъуй-гьай,"sound, noise"
+531-749,bezh1248,http://concepticon.clld.org/parameters/377,руькъоь,loud
+531-1439,bezh1248,http://concepticon.clld.org/parameters/377,буькъоь сас гаьллоь,loud
+531-1764,bezh1248,http://concepticon.clld.org/parameters/377,гьаракь гаьллоь,loud
+531-114,bezh1248,http://concepticon.clld.org/parameters/1314,паракъатаб,"quiet, silence"
+531-1960,bezh1248,http://concepticon.clld.org/parameters/1314,руьвероь,"quiet, silence"
+531-2088,bezh1248,http://concepticon.clld.org/parameters/1314,буверо сас гаьллоь,"quiet, silence"
+531-2061,bezh1248,http://concepticon.clld.org/parameters/1314,хъуй гаьччоь,"quiet, silence"
+531-1909,bezh1248,http://concepticon.clld.org/parameters/1314,гIодобусараб,"quiet, silence"
+531-1681,bezh1248,http://concepticon.clld.org/parameters/1409,регаьгьаьл,see
+531-1229,bezh1248,http://concepticon.clld.org/parameters/1409,хIаре рехелал,see
+531-1648,bezh1248,http://concepticon.clld.org/parameters/1819,говацІал,"look, look at"
+531-77,bezh1248,http://concepticon.clld.org/parameters/1819,гувацIал,"look, look at"
+531-1883,bezh1248,http://concepticon.clld.org/parameters/1819,гийаьчIаьл’,"look, look at"
+531-615,bezh1248,http://concepticon.clld.org/parameters/1039,регалал,show
+531-346,bezh1248,http://concepticon.clld.org/parameters/1039,регаьлаьл’,show
+531-614,bezh1248,http://concepticon.clld.org/parameters/708,канлъи нилIал,shine
+531-1858,bezh1248,http://concepticon.clld.org/parameters/708,бохъ мехал,shine
+531-149,bezh1248,http://concepticon.clld.org/parameters/708,къалъези рахъал,shine
+531-39,bezh1248,http://concepticon.clld.org/parameters/679,рокъоро,bright
+531-697,bezh1248,http://concepticon.clld.org/parameters/679,бабало,bright
+531-728,bezh1248,http://concepticon.clld.org/parameters/1613,кьер,color
+531-438,bezh1248,http://concepticon.clld.org/parameters/250,каьччоь,light (in color)
+531-930,bezh1248,http://concepticon.clld.org/parameters/706,колІлІо,dark (in color)
+531-612,bezh1248,http://concepticon.clld.org/parameters/1335,хІалдийо,white
+531-928,bezh1248,http://concepticon.clld.org/parameters/1335,хІаьл’дийоь,white
+531-1081,bezh1248,http://concepticon.clld.org/parameters/163,цІодоло,black
+531-1582,bezh1248,http://concepticon.clld.org/parameters/156,цІундийо,red
+531-922,bezh1248,http://concepticon.clld.org/parameters/837,гьасагъас,blue
+531-452,bezh1248,http://concepticon.clld.org/parameters/1425,ничдийоь,green
+531-1749,bezh1248,http://concepticon.clld.org/parameters/1424,бохалаукос,yellow
+531-1245,bezh1248,http://concepticon.clld.org/parameters/1892,коро рехелаьл,touch
+531-816,bezh1248,http://concepticon.clld.org/parameters/378,руьтIаьл,pinch
+531-1737,bezh1248,http://concepticon.clld.org/parameters/378,руьваьл,pinch
+531-1784,bezh1248,http://concepticon.clld.org/parameters/378,руькьлаьл,pinch
+531-237,bezh1248,http://concepticon.clld.org/parameters/1079,чІаьлъаьл,feel
+531-267,bezh1248,http://concepticon.clld.org/parameters/1884,хъоьхъилоь,hard
+531-1498,bezh1248,http://concepticon.clld.org/parameters/1884,билIаро,hard
+531-989,bezh1248,http://concepticon.clld.org/parameters/1856,тоьтилоь,soft
+531-912,bezh1248,http://concepticon.clld.org/parameters/1923,хъоьхъило,rough
+531-1452,bezh1248,http://concepticon.clld.org/parameters/1923,хъачIаб,rough
+531-545,bezh1248,http://concepticon.clld.org/parameters/1234,кІакІало,smooth
+531-210,bezh1248,http://concepticon.clld.org/parameters/1234,битIараб,smooth
+531-340,bezh1248,http://concepticon.clld.org/parameters/1396,ацІцІо,sharp
+531-867,bezh1248,http://concepticon.clld.org/parameters/379,боьтІтІоь,"blunt, dull"
+531-1442,bezh1248,http://concepticon.clld.org/parameters/379,моьтIтIоь,"blunt, dull"
+531-1101,bezh1248,http://concepticon.clld.org/parameters/1210,баькъкъоь,heavy
+531-950,bezh1248,http://concepticon.clld.org/parameters/1052,кикко,light (in weight)
+531-1549,bezh1248,http://concepticon.clld.org/parameters/1052,пихІаьйаьб,light (in weight)
+531-1448,bezh1248,http://concepticon.clld.org/parameters/1726,ригIāьроь,"wet, damp"
+531-844,bezh1248,http://concepticon.clld.org/parameters/1398,хъохъоро,dry
+531-1369,bezh1248,http://concepticon.clld.org/parameters/1286,рекІероь,hot
+531-371,bezh1248,http://concepticon.clld.org/parameters/1232,риххо,warm
+531-1642,bezh1248,http://concepticon.clld.org/parameters/1287,раьчІчІоь,cold
+531-567,bezh1248,http://concepticon.clld.org/parameters/704,рацоро,clean
+531-465,bezh1248,http://concepticon.clld.org/parameters/704,бацІадаб,clean
+531-665,bezh1248,http://concepticon.clld.org/parameters/1230,кIохиро,"dirty, soiled"
+531-1381,bezh1248,http://concepticon.clld.org/parameters/1230,чорокаб,"dirty, soiled"
+531-1647,bezh1248,http://concepticon.clld.org/parameters/380,сизкІиро,wrinkled
+531-1643,bezh1248,http://concepticon.clld.org/parameters/380,рикIо-рокIоро,wrinkled
+531-1232,bezh1248,http://concepticon.clld.org/parameters/53,рухІ,"soul, spirit"
+531-1798,bezh1248,http://concepticon.clld.org/parameters/1572,хІайранаб,"surprised, astonished"
+531-1865,bezh1248,http://concepticon.clld.org/parameters/720,бах,"good fortune, luck"
+531-1206,bezh1248,http://concepticon.clld.org/parameters/720,таьлихІ,"good fortune, luck"
+531-2067,bezh1248,http://concepticon.clld.org/parameters/56,талихІкъей,"misfortune, bad luck"
+531-1462,bezh1248,http://concepticon.clld.org/parameters/56,пашманлъи,"misfortune, bad luck"
+531-751,bezh1248,http://concepticon.clld.org/parameters/1495,аваданаб,"joyful, glad, happy"
+531-1165,bezh1248,http://concepticon.clld.org/parameters/1495,разийаб,"joyful, glad, happy"
+531-845,bezh1248,http://concepticon.clld.org/parameters/1495,талихІаьб,"joyful, glad, happy"
+531-158,bezh1248,http://concepticon.clld.org/parameters/1355,лъоᴴвагьал,laugh
+531-1289,bezh1248,http://concepticon.clld.org/parameters/1355,цIилIал,laugh
+531-1336,bezh1248,http://concepticon.clld.org/parameters/1451,лъогьгъаьжелъал,smile
+531-1289,bezh1248,http://concepticon.clld.org/parameters/1451,цIилIал,smile
+531-839,bezh1248,http://concepticon.clld.org/parameters/1413,кІишагьал,play
+531-412,bezh1248,http://concepticon.clld.org/parameters/923,йатІал,love
+531-1929,bezh1248,http://concepticon.clld.org/parameters/578,муъ тІутІал,kiss
+531-597,bezh1248,http://concepticon.clld.org/parameters/928,аᴴлъо йоцІал,embrace
+531-1974,bezh1248,http://concepticon.clld.org/parameters/928,аᴴлъо йеᴴхелал,embrace
+531-654,bezh1248,http://concepticon.clld.org/parameters/1783,унти,pain
+531-1478,bezh1248,http://concepticon.clld.org/parameters/1783,кІокІоролъи,pain
+531-1462,bezh1248,http://concepticon.clld.org/parameters/1668,пашманлъи,"grief, sorrow, sadness"
+531-744,bezh1248,http://concepticon.clld.org/parameters/1668,къарилъи,"grief, sorrow, sadness"
+531-1977,bezh1248,http://concepticon.clld.org/parameters/1000,аьхІи,"anxiety, worry"
+531-1644,bezh1248,http://concepticon.clld.org/parameters/1875,ракІо ругъал,"regret, be sorry"
+531-1132,bezh1248,http://concepticon.clld.org/parameters/1875,пашман йахъал,"regret, be sorry"
+531-1158,bezh1248,http://concepticon.clld.org/parameters/1875,рукIекъ ахъал,"regret, be sorry"
+531-308,bezh1248,http://concepticon.clld.org/parameters/1141,гурхІел,pity
+531-406,bezh1248,http://concepticon.clld.org/parameters/1141,гурхIежи ахъиролъи,pity
+531-1656,bezh1248,http://concepticon.clld.org/parameters/1839,ийагьал,"cry, weep"
+531-1212,bezh1248,http://concepticon.clld.org/parameters/1839,лъепІдагьал,"cry, weep"
+531-1331,bezh1248,http://concepticon.clld.org/parameters/1839,макъо йуьшлаьл,"cry, weep"
+531-683,bezh1248,http://concepticon.clld.org/parameters/1651,макъо,tear (noun)
+531-355,bezh1248,http://concepticon.clld.org/parameters/716,окдагьал,groan
+531-307,bezh1248,http://concepticon.clld.org/parameters/1607,рихзи ахъал,hate
+531-551,bezh1248,http://concepticon.clld.org/parameters/82,симо,anger
+531-1544,bezh1248,http://concepticon.clld.org/parameters/82,симо-шайтIан,anger
+531-152,bezh1248,http://concepticon.clld.org/parameters/40,шак,"envy, jealousy"
+531-1671,bezh1248,http://concepticon.clld.org/parameters/40,йатІеэслъи,"envy, jealousy"
+531-1211,bezh1248,http://concepticon.clld.org/parameters/1776,нич,shame (noun)
+531-815,bezh1248,http://concepticon.clld.org/parameters/174,чІухІараб,proud
+531-1685,bezh1248,http://concepticon.clld.org/parameters/1779,бахІарчи,dare
+531-407,bezh1248,http://concepticon.clld.org/parameters/1779,гьичIаьъчаьш сукІо,dare
+531-818,bezh1248,http://concepticon.clld.org/parameters/3,бахІарчийаб,brave
+531-964,bezh1248,http://concepticon.clld.org/parameters/3,гьичІаьъчаьш,brave
+531-882,bezh1248,http://concepticon.clld.org/parameters/3,лъикъеро,brave
+531-2080,bezh1248,http://concepticon.clld.org/parameters/781,гьичIеролъи,"fear, fright"
+531-778,bezh1248,http://concepticon.clld.org/parameters/1810,хІинкъи,danger
+531-864,bezh1248,http://concepticon.clld.org/parameters/1784,къас,"desire, want"
+531-1876,bezh1248,http://concepticon.clld.org/parameters/1784,хийал,"desire, want"
+531-1463,bezh1248,http://concepticon.clld.org/parameters/1750,гьакІал,choose
+531-1698,bezh1248,http://concepticon.clld.org/parameters/1750,бишши бовал,choose
+531-643,bezh1248,http://concepticon.clld.org/parameters/1092,ракІо рокъал,hope
+531-1346,bezh1248,http://concepticon.clld.org/parameters/100,божараб,faithful
+531-337,bezh1248,http://concepticon.clld.org/parameters/100,ракIо рокъоро,faithful
+531-366,bezh1248,http://concepticon.clld.org/parameters/1657,унго-унгойаб,true
+531-1185,bezh1248,http://concepticon.clld.org/parameters/1657,гьинила мичаьъаьш,true
+531-1584,bezh1248,http://concepticon.clld.org/parameters/601,гьереси мейал,"lie, tell lies"
+531-163,bezh1248,http://concepticon.clld.org/parameters/13,отІолагьал,deceit
+531-835,bezh1248,http://concepticon.clld.org/parameters/1528,кьодос тилІкал,forgive
+531-881,bezh1248,http://concepticon.clld.org/parameters/1528,хIаьлаьллъи нилIал,forgive
+531-853,bezh1248,http://concepticon.clld.org/parameters/1035,кІетІо,good
+531-793,bezh1248,http://concepticon.clld.org/parameters/1035,кьухъиро,good
+531-62,bezh1248,http://concepticon.clld.org/parameters/1292,аьхъхъоь,bad
+531-1491,bezh1248,http://concepticon.clld.org/parameters/1292,ахъеъеш,bad
+531-1002,bezh1248,http://concepticon.clld.org/parameters/1292,кIетIо гаьччоь,bad
+531-882,bezh1248,http://concepticon.clld.org/parameters/1292,лъикъеро,bad
+531-1340,bezh1248,http://concepticon.clld.org/parameters/1292,тухаб,bad
+531-457,bezh1248,http://concepticon.clld.org/parameters/1725,битІараб,"right, correct"
+531-1926,bezh1248,http://concepticon.clld.org/parameters/1390,мекъаб,wrong
+531-1456,bezh1248,http://concepticon.clld.org/parameters/134,мекъаб иш,fault
+531-1046,bezh1248,http://concepticon.clld.org/parameters/134,нахъегIанлъи,fault
+531-117,bezh1248,http://concepticon.clld.org/parameters/1293,гъалатI,"mistake, error"
+531-702,bezh1248,http://concepticon.clld.org/parameters/381,гIайиб бовал,blame
+531-1055,bezh1248,http://concepticon.clld.org/parameters/381,гІайиб гулал,blame
+531-1299,bezh1248,http://concepticon.clld.org/parameters/381,гIайибийав овал,blame
+531-2006,bezh1248,http://concepticon.clld.org/parameters/381,такъсирлиъ кезиовал,blame
+531-1221,bezh1248,http://concepticon.clld.org/parameters/1687,бецци овал,praise
+531-1326,bezh1248,http://concepticon.clld.org/parameters/1687,кьоддā эжаьл,praise
+531-941,bezh1248,http://concepticon.clld.org/parameters/1427,берцинаб,beautiful
+531-793,bezh1248,http://concepticon.clld.org/parameters/1427,кьухъиро,beautiful
+531-853,bezh1248,http://concepticon.clld.org/parameters/1427,кІетІо,beautiful
+531-42,bezh1248,http://concepticon.clld.org/parameters/1427,узданаб,beautiful
+531-842,bezh1248,http://concepticon.clld.org/parameters/1427,чIухIилъиро,beautiful
+531-700,bezh1248,http://concepticon.clld.org/parameters/1548,сурукъаб,ugly
+531-1378,bezh1248,http://concepticon.clld.org/parameters/2018,бахилаб,greedy
+531-1896,bezh1248,http://concepticon.clld.org/parameters/2018,къарумаб,greedy
+531-483,bezh1248,http://concepticon.clld.org/parameters/1310,гІаькъилаьб,clever
+531-1706,bezh1248,http://concepticon.clld.org/parameters/1310,къаьм гаьллоь,clever
+531-283,bezh1248,http://concepticon.clld.org/parameters/1562,гІаькълу,mind
+531-1695,bezh1248,http://concepticon.clld.org/parameters/1415,ургъези ахъал,think (= reflect)
+531-1825,bezh1248,http://concepticon.clld.org/parameters/1415,пикру бовал,think (= reflect)
+531-1825,bezh1248,http://concepticon.clld.org/parameters/1513,пикру бовал,think (= be of the opinion)
+531-1107,bezh1248,http://concepticon.clld.org/parameters/1513,бикІзи ровал,think (= be of the opinion)
+531-1746,bezh1248,http://concepticon.clld.org/parameters/1890,божал,believe
+531-1045,bezh1248,http://concepticon.clld.org/parameters/1890,боьжаьл’,believe
+531-242,bezh1248,http://concepticon.clld.org/parameters/1536,бичIчIи рахъал,understand
+531-1438,bezh1248,http://concepticon.clld.org/parameters/1410,рикъал,know
+531-1667,bezh1248,http://concepticon.clld.org/parameters/1410,рикъаьл’,know
+531-1277,bezh1248,http://concepticon.clld.org/parameters/1932,пикру бахъал,guess
+531-1123,bezh1248,http://concepticon.clld.org/parameters/117,рōваъцор йечаьл,imitate
+531-392,bezh1248,http://concepticon.clld.org/parameters/117,рōролъун ахъал,imitate
+531-395,bezh1248,http://concepticon.clld.org/parameters/117,рōцлас ровал,imitate
+531-1277,bezh1248,http://concepticon.clld.org/parameters/1521,пикру бахъал,seem
+531-1823,bezh1248,http://concepticon.clld.org/parameters/1521,гичІаьл,seem
+531-1377,bezh1248,http://concepticon.clld.org/parameters/1609,пикру,"idea, notion"
+531-483,bezh1248,http://concepticon.clld.org/parameters/698,гІаькъилаьб,wise
+531-436,bezh1248,http://concepticon.clld.org/parameters/698,гIаькъло гаьллоь,wise
+531-61,bezh1248,http://concepticon.clld.org/parameters/1518,гІантаб,"foolish, stupid"
+531-61,bezh1248,http://concepticon.clld.org/parameters/1899,гІантаб,"insane, crazy"
+531-324,bezh1248,http://concepticon.clld.org/parameters/1899,гIаькъло гаьччоь,"insane, crazy"
+531-1438,bezh1248,http://concepticon.clld.org/parameters/504,рикъал,learn
+531-871,bezh1248,http://concepticon.clld.org/parameters/504,хъовал,learn
+531-727,bezh1248,http://concepticon.clld.org/parameters/1929,рикъелал,study
+531-2083,bezh1248,http://concepticon.clld.org/parameters/709,малъзи ровал,teach
+531-803,bezh1248,http://concepticon.clld.org/parameters/709,хъōда голал,teach
+531-1431,bezh1248,http://concepticon.clld.org/parameters/753,цІалдохъан,pupil
+531-2029,bezh1248,http://concepticon.clld.org/parameters/753,мутагІалим,pupil
+531-116,bezh1248,http://concepticon.clld.org/parameters/753,хъо̄даго,pupil
+531-187,bezh1248,http://concepticon.clld.org/parameters/1038,учител,teacher
+531-34,bezh1248,http://concepticon.clld.org/parameters/1038,мугІалим,teacher
+531-45,bezh1248,http://concepticon.clld.org/parameters/673,ишкIола,school
+531-1835,bezh1248,http://concepticon.clld.org/parameters/707,ракІкьа рокъал,remember
+531-445,bezh1248,http://concepticon.clld.org/parameters/707,ракIкьа рокъолал,remember
+531-1304,bezh1248,http://concepticon.clld.org/parameters/707,ракIкьа рохал,remember
+531-854,bezh1248,http://concepticon.clld.org/parameters/1523,шоъал,forget
+531-1080,bezh1248,http://concepticon.clld.org/parameters/1523,шоьъаьл’,forget
+531-120,bezh1248,http://concepticon.clld.org/parameters/989,байанаб,"clear, plain"
+531-2040,bezh1248,http://concepticon.clld.org/parameters/989,бичIчIи рахъиро,"clear, plain"
+531-1217,bezh1248,http://concepticon.clld.org/parameters/989,муьхIкаьнаьб,"clear, plain"
+531-433,bezh1248,http://concepticon.clld.org/parameters/1764,байан гаьччоь,obscure
+531-335,bezh1248,http://concepticon.clld.org/parameters/1764,байанаб гаьччоь,obscure
+531-1287,bezh1248,http://concepticon.clld.org/parameters/1764,бичIчIи рахъаъцас,obscure
+531-1912,bezh1248,http://concepticon.clld.org/parameters/1764,рикъаъцас,obscure
+531-2079,bezh1248,http://concepticon.clld.org/parameters/1121,балъголъи,secret
+531-584,bezh1248,http://concepticon.clld.org/parameters/1121,шуьш бохиролъи,secret
+531-1599,bezh1248,http://concepticon.clld.org/parameters/509,ракІо рокъоро,"sure, certain"
+531-2083,bezh1248,http://concepticon.clld.org/parameters/1626,малъзи ровал,explain
+531-1050,bezh1248,http://concepticon.clld.org/parameters/1162,мурад,"intention, purpose"
+531-1876,bezh1248,http://concepticon.clld.org/parameters/1162,хийал,"intention, purpose"
+531-416,bezh1248,http://concepticon.clld.org/parameters/860,багьана,cause
+531-1863,bezh1248,http://concepticon.clld.org/parameters/860,сабаб,cause
+531-473,bezh1248,http://concepticon.clld.org/parameters/1308,васваси,doubt
+531-152,bezh1248,http://concepticon.clld.org/parameters/1308,шак,doubt
+531-1593,bezh1248,http://concepticon.clld.org/parameters/1841,шак бахъал,suspect
+531-2091,bezh1248,http://concepticon.clld.org/parameters/1841,шак мекьал,suspect
+531-1076,bezh1248,http://concepticon.clld.org/parameters/1902,нисал,betray
+531-113,bezh1248,http://concepticon.clld.org/parameters/1902,нилІал,betray
+531-485,bezh1248,http://concepticon.clld.org/parameters/1902,тIацци ровал,betray
+531-1554,bezh1248,http://concepticon.clld.org/parameters/643,хІаьжаьтлъи,"need, necessity"
+531-924,bezh1248,http://concepticon.clld.org/parameters/686,киккоь,easy
+531-108,bezh1248,http://concepticon.clld.org/parameters/686,пихІайаб,easy
+531-1307,bezh1248,http://concepticon.clld.org/parameters/686,даьгьаьб цIайлис,easy
+531-477,bezh1248,http://concepticon.clld.org/parameters/584,захІматаб,difficult
+531-1454,bezh1248,http://concepticon.clld.org/parameters/1812,хІалбихьи,"try, attempt"
+531-1756,bezh1248,http://concepticon.clld.org/parameters/1812,хIалбики,"try, attempt"
+531-1168,bezh1248,http://concepticon.clld.org/parameters/488,къагІида,"way, manner"
+531-795,bezh1248,http://concepticon.clld.org/parameters/1577,на,and
+531-909,bezh1248,http://concepticon.clld.org/parameters/1157,судлІо нисода,because
+531-385,bezh1248,http://concepticon.clld.org/parameters/1157,нāлицодā,because
+531-905,bezh1248,http://concepticon.clld.org/parameters/1157,суваллā,because
+531-2074,bezh1248,http://concepticon.clld.org/parameters/1157,гурулъи,because
+531-265,bezh1248,http://concepticon.clld.org/parameters/1459,-да,if
+531-173,bezh1248,http://concepticon.clld.org/parameters/1459,нагагь,if
+531-1112,bezh1248,http://concepticon.clld.org/parameters/1014,йа,or
+531-971,bezh1248,http://concepticon.clld.org/parameters/1014,йаги,or
+531-388,bezh1248,http://concepticon.clld.org/parameters/1014,йана,or
+531-1100,bezh1248,http://concepticon.clld.org/parameters/1268,ӣᴴ,"yes, affirmative"
+531-328,bezh1248,http://concepticon.clld.org/parameters/1269,гаьъе,"no, negative"
+531-232,bezh1248,http://concepticon.clld.org/parameters/1269,эᴴэᴴ,"no, negative"
+531-1966,bezh1248,http://concepticon.clld.org/parameters/1239,нигъа,how?
+531-1085,bezh1248,http://concepticon.clld.org/parameters/822,ласо,how many?
+531-1672,bezh1248,http://concepticon.clld.org/parameters/822,ласоди,how many?
+531-2089,bezh1248,http://concepticon.clld.org/parameters/531,лади,how much?
+531-598,bezh1248,http://concepticon.clld.org/parameters/1236,шижоь,what?
+531-1477,bezh1248,http://concepticon.clld.org/parameters/1238,нито,when?
+531-616,bezh1248,http://concepticon.clld.org/parameters/1237,нā,where?
+531-716,bezh1248,http://concepticon.clld.org/parameters/1237,нāй,where?
+531-104,bezh1248,http://concepticon.clld.org/parameters/1237,нāс,where?
+531-6,bezh1248,http://concepticon.clld.org/parameters/1237,нāдайс,where?
+531-972,bezh1248,http://concepticon.clld.org/parameters/1237,нāдайлакьā,where?
+531-333,bezh1248,http://concepticon.clld.org/parameters/727,нӣро,which?
+531-1054,bezh1248,http://concepticon.clld.org/parameters/1235,сукІо,who?
+531-314,bezh1248,http://concepticon.clld.org/parameters/1235,лъо,who?
+531-1430,bezh1248,http://concepticon.clld.org/parameters/1270,сувал,why?
+531-644,bezh1248,http://concepticon.clld.org/parameters/1270,нāли,why?
+531-1181,bezh1248,http://concepticon.clld.org/parameters/1363,гьокІ,voice
+531-873,bezh1248,http://concepticon.clld.org/parameters/1363,сас,voice
+531-334,bezh1248,http://concepticon.clld.org/parameters/1363,гьаракь,voice
+531-411,bezh1248,http://concepticon.clld.org/parameters/1363,хъуй,voice
+531-321,bezh1248,http://concepticon.clld.org/parameters/1261,кечІ илІал,sing
+531-689,bezh1248,http://concepticon.clld.org/parameters/1261,макъан мейал,sing
+531-1105,bezh1248,http://concepticon.clld.org/parameters/715,илІелаьгьаьл,"shout, cry out"
+531-636,bezh1248,http://concepticon.clld.org/parameters/715,илIе-хъаьлIаьл,"shout, cry out"
+531-1464,bezh1248,http://concepticon.clld.org/parameters/715,лаладагьал,"shout, cry out"
+531-711,bezh1248,http://concepticon.clld.org/parameters/715,ахIи бовал,"shout, cry out"
+531-373,bezh1248,http://concepticon.clld.org/parameters/715,хъаьлІаьл,"shout, cry out"
+531-2000,bezh1248,http://concepticon.clld.org/parameters/715,хъаьлІаьл’,"shout, cry out"
+531-1505,bezh1248,http://concepticon.clld.org/parameters/55,шуьш бохал,whisper
+531-1889,bezh1248,http://concepticon.clld.org/parameters/55,шуьшуькIдагьал,whisper
+531-1934,bezh1248,http://concepticon.clld.org/parameters/55,пушукІдагьал,whisper
+531-1796,bezh1248,http://concepticon.clld.org/parameters/128,морлІал,mumble
+531-102,bezh1248,http://concepticon.clld.org/parameters/1025,шаьтIтIаьгьаьл,whistle
+531-595,bezh1248,http://concepticon.clld.org/parameters/1025,шаррагьал,whistle
+531-937,bezh1248,http://concepticon.clld.org/parameters/298,кІаъдагьал,"shriek, screech"
+531-794,bezh1248,http://concepticon.clld.org/parameters/526,корагьал,howl
+531-1990,bezh1248,http://concepticon.clld.org/parameters/1623,йикълаьшаьл,"speak, talk"
+531-293,bezh1248,http://concepticon.clld.org/parameters/1623,шикIоь йаькьелаьл,"speak, talk"
+531-1693,bezh1248,http://concepticon.clld.org/parameters/1623,пIапIадагьал,"speak, talk"
+531-758,bezh1248,http://concepticon.clld.org/parameters/1623,ваьрлIаьл,"speak, talk"
+531-1148,bezh1248,http://concepticon.clld.org/parameters/1623,ваьрлIаьл’,"speak, talk"
+531-1557,bezh1248,http://concepticon.clld.org/parameters/1866,охилдагьал,"stutter, stammer"
+531-1767,bezh1248,http://concepticon.clld.org/parameters/1866,раьже гухъечIе гьихлъал,"stutter, stammer"
+531-1076,bezh1248,http://concepticon.clld.org/parameters/1458,нисал,say
+531-758,bezh1248,http://concepticon.clld.org/parameters/1458,ваьрлIаьл,say
+531-825,bezh1248,http://concepticon.clld.org/parameters/1711,хабар мейал,tell story
+531-3,bezh1248,http://concepticon.clld.org/parameters/1711,рахъиро рекIал,tell story
+531-758,bezh1248,http://concepticon.clld.org/parameters/1115,ваьрлIаьл,speech (make a)
+531-1362,bezh1248,http://concepticon.clld.org/parameters/1115,калам бовал,speech (make a)
+531-106,bezh1248,http://concepticon.clld.org/parameters/1115,раьже нисал,speech (make a)
+531-1990,bezh1248,http://concepticon.clld.org/parameters/1115,йикълаьшаьл,speech (make a)
+531-1030,bezh1248,http://concepticon.clld.org/parameters/48,гьокІ роълал,silent (be)
+531-1992,bezh1248,http://concepticon.clld.org/parameters/48,тІоьннаь йечаьл,silent (be)
+531-451,bezh1248,http://concepticon.clld.org/parameters/48,сихI боъна бечаьл,silent (be)
+531-1020,bezh1248,http://concepticon.clld.org/parameters/1307,миц,language
+531-425,bezh1248,http://concepticon.clld.org/parameters/1599,раьже,word
+531-1,bezh1248,http://concepticon.clld.org/parameters/1599,калам,word
+531-1048,bezh1248,http://concepticon.clld.org/parameters/1405,цāро,name
+531-508,bezh1248,http://concepticon.clld.org/parameters/1309,нисолал,"ask (question, inquire)"
+531-1529,bezh1248,http://concepticon.clld.org/parameters/1309,нисол-илIал,"ask (question, inquire)"
+531-2010,bezh1248,http://concepticon.clld.org/parameters/1275,жаваб нилІал,answer
+531-1664,bezh1248,http://concepticon.clld.org/parameters/1275,ƛ̄’āь раьже нисал,answer
+531-1533,bezh1248,http://concepticon.clld.org/parameters/2022,мукІур ахъал,"admit, confess"
+531-471,bezh1248,http://concepticon.clld.org/parameters/2022,гIайиб кьодо бохал,"admit, confess"
+531-678,bezh1248,http://concepticon.clld.org/parameters/755,инкар бовал,deny
+531-583,bezh1248,http://concepticon.clld.org/parameters/755,цIедел бохал,deny
+531-83,bezh1248,http://concepticon.clld.org/parameters/755,наьгIдаьллаьгь бовал,deny
+531-674,bezh1248,http://concepticon.clld.org/parameters/1828,гьарзировал,"ask, request"
+531-352,bezh1248,http://concepticon.clld.org/parameters/1828,окIдагьал,"ask, request"
+531-646,bezh1248,http://concepticon.clld.org/parameters/1675,кьодо рохал,promise
+531-1309,bezh1248,http://concepticon.clld.org/parameters/1675,раьже нилIал,promise
+531-678,bezh1248,http://concepticon.clld.org/parameters/49,инкар бовал,refuse
+531-607,bezh1248,http://concepticon.clld.org/parameters/49,атказ бовал,refuse
+531-1528,bezh1248,http://concepticon.clld.org/parameters/83,гьукъзировал,forbid
+531-1453,bezh1248,http://concepticon.clld.org/parameters/299,гердагьал,"rebuke, scold"
+531-1028,bezh1248,http://concepticon.clld.org/parameters/299,раьжиш овал,"rebuke, scold"
+531-1129,bezh1248,http://concepticon.clld.org/parameters/299,раьжид экIелаьл,"rebuke, scold"
+531-26,bezh1248,http://concepticon.clld.org/parameters/1084,илІал,call (=summon)
+531-1657,bezh1248,http://concepticon.clld.org/parameters/1084,окIал,call (=summon)
+531-1076,bezh1248,http://concepticon.clld.org/parameters/180,нисал,call (=name)
+531-1169,bezh1248,http://concepticon.clld.org/parameters/180,царо рагъал,call (=name)
+531-139,bezh1248,http://concepticon.clld.org/parameters/9,лъази ровал,announce
+531-1076,bezh1248,http://concepticon.clld.org/parameters/9,нисал,announce
+531-79,bezh1248,http://concepticon.clld.org/parameters/9,чоьхълаьл,announce
+531-349,bezh1248,http://concepticon.clld.org/parameters/1192,хІинкъи нилІал,threaten
+531-2026,bezh1248,http://concepticon.clld.org/parameters/1192,гьичIеголал,threaten
+531-1393,bezh1248,http://concepticon.clld.org/parameters/101,шоьлIаьл,boast
+531-520,bezh1248,http://concepticon.clld.org/parameters/101,цардези ахъал,boast
+531-1687,bezh1248,http://concepticon.clld.org/parameters/101,букъо хабар мейал,boast
+531-540,bezh1248,http://concepticon.clld.org/parameters/101,гьинизу жу бецци овал,boast
+531-1654,bezh1248,http://concepticon.clld.org/parameters/1672,чахал,write
+531-2005,bezh1248,http://concepticon.clld.org/parameters/1672,чаьхаьл,write
+531-871,bezh1248,http://concepticon.clld.org/parameters/724,хъовал,read
+531-1053,bezh1248,http://concepticon.clld.org/parameters/648,лIибо,paper
+531-470,bezh1248,http://concepticon.clld.org/parameters/794,ручка,pen
+531-231,bezh1248,http://concepticon.clld.org/parameters/794,кьалам,pen
+531-12,bezh1248,http://concepticon.clld.org/parameters/963,тІек,book
+531-933,bezh1248,http://concepticon.clld.org/parameters/1045,шагIир,poet
+531-608,bezh1248,http://concepticon.clld.org/parameters/1045,кeчIла чāьхчаьш сукIо,poet
+531-1404,bezh1248,http://concepticon.clld.org/parameters/777,зурма,flute
+531-1987,bezh1248,http://concepticon.clld.org/parameters/777,шаьшаьтIоь,flute
+531-408,bezh1248,http://concepticon.clld.org/parameters/908,голо,drum
+531-686,bezh1248,http://concepticon.clld.org/parameters/908,t’abak’o,drum
+531-1963,bezh1248,http://concepticon.clld.org/parameters/2136,—,"horn, trumpet"
+531-2039,bezh1248,http://concepticon.clld.org/parameters/300,жардами,rattle
+531-468,bezh1248,http://concepticon.clld.org/parameters/300,шалтIами,rattle
+531-731,bezh1248,http://concepticon.clld.org/parameters/300,хъуйлахъ кIишоь,rattle
+531-235,bezh1248,http://concepticon.clld.org/parameters/1300,улка,country
+531-1874,bezh1248,http://concepticon.clld.org/parameters/1300,хIукумат,country
+531-949,bezh1248,http://concepticon.clld.org/parameters/1300,хIуькуьмаьт,country
+531-484,bezh1248,http://concepticon.clld.org/parameters/1300,пачалихъ,country
+531-1670,bezh1248,http://concepticon.clld.org/parameters/89,гІагараб улка,one's native country
+531-837,bezh1248,http://concepticon.clld.org/parameters/89,илоьш хIуькуьмаьт,one's native country
+531-865,bezh1248,http://concepticon.clld.org/parameters/89,ватІан,one's native country
+531-638,bezh1248,http://concepticon.clld.org/parameters/1391,шагьар,"city, town"
+531-171,bezh1248,http://concepticon.clld.org/parameters/930,аьлІ,village
+531-467,bezh1248,http://concepticon.clld.org/parameters/1010,гІорхъи,boundary
+531-712,bezh1248,http://concepticon.clld.org/parameters/789,халкъ,people (populace)
+531-376,bezh1248,http://concepticon.clld.org/parameters/789,жамагIат,people (populace)
+531-1635,bezh1248,http://concepticon.clld.org/parameters/302,къавм,"tribe, clan"
+531-913,bezh1248,http://concepticon.clld.org/parameters/302,агьлу,"tribe, clan"
+531-2016,bezh1248,http://concepticon.clld.org/parameters/302,тухум,"tribe, clan"
+531-863,bezh1248,http://concepticon.clld.org/parameters/301,цевехъан,"chief, chieftain"
+531-1451,bezh1248,http://concepticon.clld.org/parameters/301,укъоь,"chief, chieftain"
+531-251,bezh1248,http://concepticon.clld.org/parameters/1296,кІобала,"staff, walking stick"
+531-1303,bezh1248,http://concepticon.clld.org/parameters/1296,зотIи,"staff, walking stick"
+531-1196,bezh1248,http://concepticon.clld.org/parameters/1846,пачалъи ровал,"rule, govern"
+531-2020,bezh1248,http://concepticon.clld.org/parameters/1846,ханлъи ровал,"rule, govern"
+531-1057,bezh1248,http://concepticon.clld.org/parameters/1508,пача,"king, ruler"
+531-1138,bezh1248,http://concepticon.clld.org/parameters/1508,хан,"king, ruler"
+531-264,bezh1248,http://concepticon.clld.org/parameters/1508,шагь,"king, ruler"
+531-1313,bezh1248,http://concepticon.clld.org/parameters/1306,хан-бика,queen
+531-1153,bezh1248,http://concepticon.clld.org/parameters/1306,ханлис ахъо,queen
+531-380,bezh1248,http://concepticon.clld.org/parameters/482,къадруйаб,"noble, nobleman"
+531-138,bezh1248,http://concepticon.clld.org/parameters/482,гурхIараб,"noble, nobleman"
+531-97,bezh1248,http://concepticon.clld.org/parameters/482,гIадамлъи гаьллоь,"noble, nobleman"
+531-946,bezh1248,http://concepticon.clld.org/parameters/1032,шагьарбаш сукІо,"citizen, subject"
+531-617,bezh1248,http://concepticon.clld.org/parameters/1032,шагьабаъ эчеро сукIо,"citizen, subject"
+531-2015,bezh1248,http://concepticon.clld.org/parameters/383,хазаин,master
+531-118,bezh1248,http://concepticon.clld.org/parameters/383,бетІергьан,master
+531-539,bezh1248,http://concepticon.clld.org/parameters/812,лагъ,slave
+531-1031,bezh1248,http://concepticon.clld.org/parameters/812,охиро сукIо,slave
+531-580,bezh1248,http://concepticon.clld.org/parameters/255,рагьтIател,servant
+531-1709,bezh1248,http://concepticon.clld.org/parameters/255,махIакьако,servant
+531-1495,bezh1248,http://concepticon.clld.org/parameters/255,нукар,servant
+531-782,bezh1248,http://concepticon.clld.org/parameters/384,эркенаб гIадам,freeman
+531-1037,bezh1248,http://concepticon.clld.org/parameters/384,эркенаб сукIо,freeman
+531-1801,bezh1248,http://concepticon.clld.org/parameters/384,лъōкьана бараб гаьччоь сукIо,freeman
+531-1723,bezh1248,http://concepticon.clld.org/parameters/1128,амру бовал,"command, order"
+531-936,bezh1248,http://concepticon.clld.org/parameters/1128,буйурухъ нилIал,"command, order"
+531-1793,bezh1248,http://concepticon.clld.org/parameters/1635,мутІигІ ахъал,obey
+531-1264,bezh1248,http://concepticon.clld.org/parameters/1003,ихтийар нилIал,"let, permit"
+531-1701,bezh1248,http://concepticon.clld.org/parameters/1003,изну нилIал,"let, permit"
+531-565,bezh1248,http://concepticon.clld.org/parameters/1325,гьалмагъ,"friend, companion"
+531-1758,bezh1248,http://concepticon.clld.org/parameters/1325,къайцадахъ,"friend, companion"
+531-1134,bezh1248,http://concepticon.clld.org/parameters/1325,ракIис гьудул,"friend, companion"
+531-1225,bezh1248,http://concepticon.clld.org/parameters/1358,тушман,enemy
+531-202,bezh1248,http://concepticon.clld.org/parameters/1332,мадугьал,neighbor
+531-1525,bezh1248,http://concepticon.clld.org/parameters/791,икъаьъчаьш сукІо,stranger
+531-374,bezh1248,http://concepticon.clld.org/parameters/1782,гьобол,guest
+531-2015,bezh1248,http://concepticon.clld.org/parameters/1545,хазаин,host
+531-118,bezh1248,http://concepticon.clld.org/parameters/1545,бетІергьан,host
+531-1427,bezh1248,http://concepticon.clld.org/parameters/1897,комак,"help, aid"
+531-1429,bezh1248,http://concepticon.clld.org/parameters/1897,комаг,"help, aid"
+531-211,bezh1248,http://concepticon.clld.org/parameters/1550,мишийат бовал,"hinder, prevent"
+531-812,bezh1248,http://concepticon.clld.org/parameters/1550,калкал бовал,"hinder, prevent"
+531-52,bezh1248,http://concepticon.clld.org/parameters/1747,гІадат,custom
+531-1009,bezh1248,http://concepticon.clld.org/parameters/1848,дагІба,"strife, quarrel"
+531-168,bezh1248,http://concepticon.clld.org/parameters/1848,къец,"strife, quarrel"
+531-1888,bezh1248,http://concepticon.clld.org/parameters/1848,кьоцIи,"strife, quarrel"
+531-975,bezh1248,http://concepticon.clld.org/parameters/2024,балъгойаб къотІи,"conspiracy, plot"
+531-942,bezh1248,http://concepticon.clld.org/parameters/1831,кези бахъал,meet
+531-494,bezh1248,http://concepticon.clld.org/parameters/1831,данлъези бахъал,meet
+531-1738,bezh1248,http://concepticon.clld.org/parameters/1831,данди гувагьал,meet
+531-1567,bezh1248,http://concepticon.clld.org/parameters/1610,къаьхІбаь,prostitute
+531-1171,bezh1248,http://concepticon.clld.org/parameters/1610,хъахIба,prostitute
+531-1928,bezh1248,http://concepticon.clld.org/parameters/1610,къутIули,prostitute
+531-1200,bezh1248,http://concepticon.clld.org/parameters/1423,бегъал,fight (vb)
+531-1846,bezh1248,http://concepticon.clld.org/parameters/1423,рагъ бовал,fight (vb)
+531-1272,bezh1248,http://concepticon.clld.org/parameters/1423,кьапIи гулал,fight (vb)
+531-196,bezh1248,http://concepticon.clld.org/parameters/579,рагъ,"war, battle"
+531-659,bezh1248,http://concepticon.clld.org/parameters/579,кьапIи,"war, battle"
+531-341,bezh1248,http://concepticon.clld.org/parameters/1338,рекъел,peace
+531-301,bezh1248,http://concepticon.clld.org/parameters/1561,армийа,army
+531-1204,bezh1248,http://concepticon.clld.org/parameters/1561,аскар,army
+531-604,bezh1248,http://concepticon.clld.org/parameters/1941,салдат,soldier
+531-1690,bezh1248,http://concepticon.clld.org/parameters/1941,армийав,soldier
+531-672,bezh1248,http://concepticon.clld.org/parameters/951,йаьраьгъ,"weapons, arms"
+531-251,bezh1248,http://concepticon.clld.org/parameters/1763,кІобала,club
+531-142,bezh1248,http://concepticon.clld.org/parameters/1763,лъеме,club
+531-1665,bezh1248,http://concepticon.clld.org/parameters/386,оᴴг,battle-ax
+531-1922,bezh1248,http://concepticon.clld.org/parameters/387,кІави,sling
+531-1899,bezh1248,http://concepticon.clld.org/parameters/994,цІаъ,bow
+531-315,bezh1248,http://concepticon.clld.org/parameters/994,цIаъа,bow
+531-1616,bezh1248,http://concepticon.clld.org/parameters/977,цІула,arrow
+531-609,bezh1248,http://concepticon.clld.org/parameters/977,цIулу,arrow
+531-960,bezh1248,http://concepticon.clld.org/parameters/945,хеч,spear
+531-1890,bezh1248,http://concepticon.clld.org/parameters/1535,маьчІаь,sword
+531-2094,bezh1248,http://concepticon.clld.org/parameters/1566,топи,"gun, cannon"
+531-270,bezh1248,http://concepticon.clld.org/parameters/1566,гІаьраьдаь,"gun, cannon"
+531-1589,bezh1248,http://concepticon.clld.org/parameters/1061,йаьраьгъ-маьтаьхІ,armor (defensive)
+531-1933,bezh1248,http://concepticon.clld.org/parameters/1680,килоьш кьакъало,helmet
+531-85,bezh1248,http://concepticon.clld.org/parameters/1064,талкъан,shield
+531-482,bezh1248,http://concepticon.clld.org/parameters/1938,хъала,fortress
+531-482,bezh1248,http://concepticon.clld.org/parameters/1671,хъала,tower
+531-571,bezh1248,http://concepticon.clld.org/parameters/1671,минара,tower
+531-2022,bezh1248,http://concepticon.clld.org/parameters/783,бергьенлъи,victory
+531-1096,bezh1248,http://concepticon.clld.org/parameters/783,бийажеролъи,victory
+531-780,bezh1248,http://concepticon.clld.org/parameters/782,буьваьгьеролъи,defeat
+531-1508,bezh1248,http://concepticon.clld.org/parameters/722,гьуьжуьм бовал,attack
+531-1013,bezh1248,http://concepticon.clld.org/parameters/722,кьодо бокIибацIал,attack
+531-631,bezh1248,http://concepticon.clld.org/parameters/722,кьодо бокIаричIал,attack
+531-1390,bezh1248,http://concepticon.clld.org/parameters/1330,цІуми бахъал,defend
+531-2063,bezh1248,http://concepticon.clld.org/parameters/421,муьгъаьлІ буьваькьаьл,retreat
+531-200,bezh1248,http://concepticon.clld.org/parameters/1696,какьа мекьал,surrender
+531-10,bezh1248,http://concepticon.clld.org/parameters/1696,каъ мекьал,surrender
+531-998,bezh1248,http://concepticon.clld.org/parameters/1696,короъ мекьал,surrender
+531-904,bezh1248,http://concepticon.clld.org/parameters/1072,асир,"captive, prisoner"
+531-1673,bezh1248,http://concepticon.clld.org/parameters/1072,пелен,"captive, prisoner"
+531-741,bezh1248,http://concepticon.clld.org/parameters/1072,тІусагъийав,"captive, prisoner"
+531-916,bezh1248,http://concepticon.clld.org/parameters/1072,эᴴдо голло,"captive, prisoner"
+531-767,bezh1248,http://concepticon.clld.org/parameters/1072,эᴴдо эчеро,"captive, prisoner"
+531-1485,bezh1248,http://concepticon.clld.org/parameters/1072,туснахъ ōро,"captive, prisoner"
+531-1018,bezh1248,http://concepticon.clld.org/parameters/1940,ахран,"guard, sentinel"
+531-1417,bezh1248,http://concepticon.clld.org/parameters/1940,къаравул,"guard, sentinel"
+531-808,bezh1248,http://concepticon.clld.org/parameters/1022,давла,"booty, spoils"
+531-1222,bezh1248,http://concepticon.clld.org/parameters/1022,багъоро боцIи-хIаьймаьн,"booty, spoils"
+531-1832,bezh1248,http://concepticon.clld.org/parameters/65,гъоркьчІел бовал,ambush
+531-1074,bezh1248,http://concepticon.clld.org/parameters/1858,бисарахъ,fisherman
+531-248,bezh1248,http://concepticon.clld.org/parameters/1858,бисаракьако,fisherman
+531-1317,bezh1248,http://concepticon.clld.org/parameters/1074,бицах,fishhook
+531-1271,bezh1248,http://concepticon.clld.org/parameters/1074,бисахъ,fishhook
+531-7,bezh1248,http://concepticon.clld.org/parameters/1074,чангали,fishhook
+531-626,bezh1248,http://concepticon.clld.org/parameters/19,каколъ кIирмат,fishing line
+531-396,bezh1248,http://concepticon.clld.org/parameters/19,лескІа,fishing line
+531-1458,bezh1248,http://concepticon.clld.org/parameters/388,сетка,fishnet
+531-948,bezh1248,http://concepticon.clld.org/parameters/389,биса бохцас къор,fish trap
+531-151,bezh1248,http://concepticon.clld.org/parameters/389,бицахбалъ бетIела,fish trap
+531-151,bezh1248,http://concepticon.clld.org/parameters/2013,бицахбалъ бетIела,bait
+531-362,bezh1248,http://concepticon.clld.org/parameters/1435,билъокьа мекьал,hunt
+531-866,bezh1248,http://concepticon.clld.org/parameters/1435,билъохъанлъи ровал,hunt
+531-888,bezh1248,http://concepticon.clld.org/parameters/1172,топи тІутІал,shoot
+531-1607,bezh1248,http://concepticon.clld.org/parameters/1172,кьагьи бовал,shoot
+531-1371,bezh1248,http://concepticon.clld.org/parameters/161,шеблаъкьā йеᴴкьал,miss (target)
+531-521,bezh1248,http://concepticon.clld.org/parameters/161,тIутIна реᴴхечIе гьиᴴхлъал,miss (target)
+531-1490,bezh1248,http://concepticon.clld.org/parameters/1075,къор,trap (noun)
+531-90,bezh1248,http://concepticon.clld.org/parameters/1170,бохал,trap (vb)
+531-1052,bezh1248,http://concepticon.clld.org/parameters/1170,михъолал,trap (vb)
+531-1761,bezh1248,http://concepticon.clld.org/parameters/1062,закон,law
+531-529,bezh1248,http://concepticon.clld.org/parameters/1062,къанон,law
+531-1803,bezh1248,http://concepticon.clld.org/parameters/1068,диван,court
+531-1344,bezh1248,http://concepticon.clld.org/parameters/1068,суд,court
+531-669,bezh1248,http://concepticon.clld.org/parameters/1818,суд ровал,judge (vb)
+531-919,bezh1248,http://concepticon.clld.org/parameters/1067,судлис хІукму,judgment
+531-1978,bezh1248,http://concepticon.clld.org/parameters/861,диванчи,judge (noun)
+531-88,bezh1248,http://concepticon.clld.org/parameters/861,судйа,judge (noun)
+531-20,bezh1248,http://concepticon.clld.org/parameters/2020,гІарзачи,plaintiff
+531-1359,bezh1248,http://concepticon.clld.org/parameters/1034,жавабчи,defendant
+531-1325,bezh1248,http://concepticon.clld.org/parameters/1144,нугІ,witness
+531-21,bezh1248,http://concepticon.clld.org/parameters/1939,хІаьдаьлаьгьаьл,swear
+531-1218,bezh1248,http://concepticon.clld.org/parameters/1939,гьаᴴ рохал,swear
+531-365,bezh1248,http://concepticon.clld.org/parameters/1939,гьаᴴ нилIал,swear
+531-336,bezh1248,http://concepticon.clld.org/parameters/1712,гьаᴴ,oath
+531-1699,bezh1248,http://concepticon.clld.org/parameters/1712,хIаьдаьлаьроьлъи,oath
+531-1055,bezh1248,http://concepticon.clld.org/parameters/1814,гІайиб гулал,accuse
+531-1807,bezh1248,http://concepticon.clld.org/parameters/1814,гІайиб мокъолал,accuse
+531-300,bezh1248,http://concepticon.clld.org/parameters/1814,гIайиб гIунтIези бовал,accuse
+531-663,bezh1248,http://concepticon.clld.org/parameters/484,какзи ровал,condemn
+531-44,bezh1248,http://concepticon.clld.org/parameters/983,гІайибийаб овал,convict (vb)
+531-980,bezh1248,http://concepticon.clld.org/parameters/988,битІараб овал,acquit
+531-1441,bezh1248,http://concepticon.clld.org/parameters/988,гІайиб болъолал,acquit
+531-410,bezh1248,http://concepticon.clld.org/parameters/1682,гІайибийаб,guilty
+531-1298,bezh1248,http://concepticon.clld.org/parameters/90,гІайиб гаьччоь,innocent
+531-1040,bezh1248,http://concepticon.clld.org/parameters/390,тамбихІ,"penalty, punishment"
+531-1866,bezh1248,http://concepticon.clld.org/parameters/218,окролас гIакIа,fine
+531-429,bezh1248,http://concepticon.clld.org/parameters/218,окролас иштIарап,fine
+531-1157,bezh1248,http://concepticon.clld.org/parameters/1281,туснагъ,"prison, jail"
+531-1867,bezh1248,http://concepticon.clld.org/parameters/1281,тІуснахъ,"prison, jail"
+531-1998,bezh1248,http://concepticon.clld.org/parameters/1281,тIусахи,"prison, jail"
+531-870,bezh1248,http://concepticon.clld.org/parameters/845,икьеролъи,murder
+531-372,bezh1248,http://concepticon.clld.org/parameters/845,чІай-хъай,murder
+531-277,bezh1248,http://concepticon.clld.org/parameters/845,гIумрулаьъаьш маьхIруьм ōролъи,murder
+531-1338,bezh1248,http://concepticon.clld.org/parameters/902,хъаьхІбаьлъи,adultery
+531-1354,bezh1248,http://concepticon.clld.org/parameters/953,зина,rape
+531-938,bezh1248,http://concepticon.clld.org/parameters/953,инжит йōролъи,rape
+531-1047,bezh1248,http://concepticon.clld.org/parameters/1889,цІо рēроьлъи,arson
+531-2045,bezh1248,http://concepticon.clld.org/parameters/1792,гьереси-нугІлъи,perjury
+531-893,bezh1248,http://concepticon.clld.org/parameters/713,гуьйлаьгьаьл,steal
+531-574,bezh1248,http://concepticon.clld.org/parameters/713,цIогьолагьал,steal
+531-474,bezh1248,http://concepticon.clld.org/parameters/1160,гуьймоьр,thief
+531-291,bezh1248,http://concepticon.clld.org/parameters/1160,гуьйлаьгоь,thief
+531-1550,bezh1248,http://concepticon.clld.org/parameters/1160,цIогьор,thief
+531-1487,bezh1248,http://concepticon.clld.org/parameters/661,дин,religion
+531-1093,bezh1248,http://concepticon.clld.org/parameters/1944,Аллагь,God
+531-710,bezh1248,http://concepticon.clld.org/parameters/1944,БетIергьан,God
+531-757,bezh1248,http://concepticon.clld.org/parameters/1944,Бечед,God
+531-2046,bezh1248,http://concepticon.clld.org/parameters/911,Аллагьлис билIо,"temple, church"
+531-1256,bezh1248,http://concepticon.clld.org/parameters/911,сакъдари,"temple, church"
+531-193,bezh1248,http://concepticon.clld.org/parameters/853,михІмар,altar
+531-1780,bezh1248,http://concepticon.clld.org/parameters/1103,къурбан,"sacrifice, offering"
+531-1620,bezh1248,http://concepticon.clld.org/parameters/257,сужда бовал,worship
+531-188,bezh1248,http://concepticon.clld.org/parameters/24,как ровал,pray
+531-98,bezh1248,http://concepticon.clld.org/parameters/24,догІа-гьари бовал,pray
+531-1881,bezh1248,http://concepticon.clld.org/parameters/852,кашиш,priest
+531-527,bezh1248,http://concepticon.clld.org/parameters/852,гъудело,priest
+531-354,bezh1248,http://concepticon.clld.org/parameters/852,дибира,priest
+531-389,bezh1248,http://concepticon.clld.org/parameters/1702,илагьийаб,"holy, sacred"
+531-746,bezh1248,http://concepticon.clld.org/parameters/304,вагІза бовал,preach
+531-954,bezh1248,http://concepticon.clld.org/parameters/304,вагІза-насихІат бовал,preach
+531-523,bezh1248,http://concepticon.clld.org/parameters/391,разилъи нилІал,bless
+531-342,bezh1248,http://concepticon.clld.org/parameters/391,пурман нилIал,bless
+531-27,bezh1248,http://concepticon.clld.org/parameters/391,къабул бахъал,bless
+531-911,bezh1248,http://concepticon.clld.org/parameters/391,куршен нилIал,bless
+531-1540,bezh1248,http://concepticon.clld.org/parameters/8,нагІана бовал,curse
+531-351,bezh1248,http://concepticon.clld.org/parameters/8,нагIана нилIал,curse
+531-48,bezh1248,http://concepticon.clld.org/parameters/303,кІалко рохал,fast (vb)
+531-1872,bezh1248,http://concepticon.clld.org/parameters/1565,алжам,heaven
+531-1573,bezh1248,http://concepticon.clld.org/parameters/1565,гIаьлжаьм,heaven
+531-662,bezh1248,http://concepticon.clld.org/parameters/878,журжахI,hell
+531-633,bezh1248,http://concepticon.clld.org/parameters/878,жуьржаьхІ,hell
+531-605,bezh1248,http://concepticon.clld.org/parameters/1973,илбис,demon (evil spirit)
+531-1873,bezh1248,http://concepticon.clld.org/parameters/1973,шайтІан,demon (evil spirit)
+531-1426,bezh1248,http://concepticon.clld.org/parameters/1945,хъанч,idol
+531-747,bezh1248,http://concepticon.clld.org/parameters/392,сихІру,"magic, witchcraft, sorcery"
+531-402,bezh1248,http://concepticon.clld.org/parameters/392,сихІрулъи,"magic, witchcraft, sorcery"
+531-621,bezh1248,http://concepticon.clld.org/parameters/392,макрулъи,"magic, witchcraft, sorcery"
+531-413,bezh1248,http://concepticon.clld.org/parameters/392,хIиллаь,"magic, witchcraft, sorcery"
+531-1609,bezh1248,http://concepticon.clld.org/parameters/2137,хъартай,"sorcerer, witch"
+531-1763,bezh1248,http://concepticon.clld.org/parameters/2138,хІурулгІен,"fairy, elf"
+531-585,bezh1248,http://concepticon.clld.org/parameters/1175,рухI,"ghost, phantom"
+531-2077,bezh1248,http://concepticon.clld.org/parameters/107,гІаламат,"omen, portent"

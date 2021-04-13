@@ -1,0 +1,1734 @@
+ID,Language_ID,Feature_ID,Value,Concept
+240-741,tong1325,http://concepticon.clld.org/parameters/965,māmani,world
+240-741,tong1325,http://concepticon.clld.org/parameters/626,māmani,"earth, land"
+240-1464,tong1325,http://concepticon.clld.org/parameters/626,fonua,"earth, land"
+240-1189,tong1325,http://concepticon.clld.org/parameters/626,kelekele,"earth, land"
+240-1189,tong1325,http://concepticon.clld.org/parameters/1228,kelekele,"earth=ground, soil"
+240-869,tong1325,http://concepticon.clld.org/parameters/1228,ʔuli,"earth=ground, soil"
+240-917,tong1325,http://concepticon.clld.org/parameters/2,efu,dust
+240-387,tong1325,http://concepticon.clld.org/parameters/640,pelepela,mud
+240-779,tong1325,http://concepticon.clld.org/parameters/671,ʔoneʔone,sand
+240-1245,tong1325,http://concepticon.clld.org/parameters/2118,moʔuŋa,"mountain, hill"
+240-909,tong1325,http://concepticon.clld.org/parameters/2118,ʔotu moʔuŋa,"mountain, hill"
+240-931,tong1325,http://concepticon.clld.org/parameters/2118,tumutumu,"mountain, hill"
+240-406,tong1325,http://concepticon.clld.org/parameters/618,lilifa,"cliff, precipice"
+240-1038,tong1325,http://concepticon.clld.org/parameters/652,malaʔe,"plain, field"
+240-328,tong1325,http://concepticon.clld.org/parameters/652,toafa,"plain, field"
+240-740,tong1325,http://concepticon.clld.org/parameters/921,teleʔa,valley
+240-1013,tong1325,http://concepticon.clld.org/parameters/622,motu,island
+240-1248,tong1325,http://concepticon.clld.org/parameters/166,fonua lahi,mainland
+240-108,tong1325,http://concepticon.clld.org/parameters/166,[konitinēniti],mainland
+240-961,tong1325,http://concepticon.clld.org/parameters/113,veʔe vai-tafe,shore
+240-590,tong1325,http://concepticon.clld.org/parameters/113,matā-tahi,shore
+240-1351,tong1325,http://concepticon.clld.org/parameters/113,matā-fonua,shore
+240-579,tong1325,http://concepticon.clld.org/parameters/1155,ʔana,cave
+240-1494,tong1325,http://concepticon.clld.org/parameters/948,vai,water
+240-1133,tong1325,http://concepticon.clld.org/parameters/948,vai-melie,water
+240-879,tong1325,http://concepticon.clld.org/parameters/1474,tahi,sea
+240-941,tong1325,http://concepticon.clld.org/parameters/1474,tuʔa,sea
+240-344,tong1325,http://concepticon.clld.org/parameters/1474,vaha,sea
+240-559,tong1325,http://concepticon.clld.org/parameters/1474,moana,sea
+240-578,tong1325,http://concepticon.clld.org/parameters/258,malū,calm (of sea)
+240-1077,tong1325,http://concepticon.clld.org/parameters/258,tofu,calm (of sea)
+240-63,tong1325,http://concepticon.clld.org/parameters/259,peaua,rough (of sea)
+240-92,tong1325,http://concepticon.clld.org/parameters/259,hou,rough (of sea)
+240-891,tong1325,http://concepticon.clld.org/parameters/1768,koa,foam
+240-1156,tong1325,http://concepticon.clld.org/parameters/1768,faka-molū,foam
+240-60,tong1325,http://concepticon.clld.org/parameters/1768,lapa pe pelesitiki,foam
+240-317,tong1325,http://concepticon.clld.org/parameters/645,[ʔoseni],ocean
+240-711,tong1325,http://concepticon.clld.org/parameters/624,ano vai,lake
+240-973,tong1325,http://concepticon.clld.org/parameters/663,faŋa,"gulf, bay"
+240-562,tong1325,http://concepticon.clld.org/parameters/663,faŋa fāsiʔi lōloa,"gulf, bay"
+240-287,tong1325,http://concepticon.clld.org/parameters/623,faŋaʔuta,lagoon
+240-711,tong1325,http://concepticon.clld.org/parameters/623,ano vai,lagoon
+240-1414,tong1325,http://concepticon.clld.org/parameters/623,vai kaukauʔaŋa,lagoon
+240-727,tong1325,http://concepticon.clld.org/parameters/660,hakau,reef
+240-300,tong1325,http://concepticon.clld.org/parameters/1662,mui-fonua,"headland, point"
+240-706,tong1325,http://concepticon.clld.org/parameters/978,peau,wave
+240-45,tong1325,http://concepticon.clld.org/parameters/978,ake,wave
+240-879,tong1325,http://concepticon.clld.org/parameters/891,tahi,tide
+240-1484,tong1325,http://concepticon.clld.org/parameters/1026,mamaha e tahi,lowtide
+240-714,tong1325,http://concepticon.clld.org/parameters/613,tau/ huʔa ʔa e tahi,hightide
+240-162,tong1325,http://concepticon.clld.org/parameters/666,kiʔi vai-tafe,"river, stream, brook"
+240-940,tong1325,http://concepticon.clld.org/parameters/666,vai-tafe,"river, stream, brook"
+240-270,tong1325,http://concepticon.clld.org/parameters/2144,maʔuʔaŋa vai,"spring, well"
+240-1318,tong1325,http://concepticon.clld.org/parameters/2144,mata-vai,"spring, well"
+240-511,tong1325,http://concepticon.clld.org/parameters/1145,ano,swamp
+240-1191,tong1325,http://concepticon.clld.org/parameters/943,vai-tō,waterfall
+240-723,tong1325,http://concepticon.clld.org/parameters/420,vaotā,"woods, forest"
+240-235,tong1325,http://concepticon.clld.org/parameters/420,vaotā matolu,"woods, forest"
+240-501,tong1325,http://concepticon.clld.org/parameters/420,vao fihifihi,"woods, forest"
+240-615,tong1325,http://concepticon.clld.org/parameters/906,fuʔu ʔakau,tree (cf 08.600)
+240-361,tong1325,http://concepticon.clld.org/parameters/1803,vaʔakau,wood
+240-953,tong1325,http://concepticon.clld.org/parameters/1803,ʔaka,wood
+240-1122,tong1325,http://concepticon.clld.org/parameters/1803,papa,wood
+240-268,tong1325,http://concepticon.clld.org/parameters/2125,maka,"stone, rock"
+240-939,tong1325,http://concepticon.clld.org/parameters/2125,maka afi,"stone, rock"
+240-801,tong1325,http://concepticon.clld.org/parameters/6,mofuike,earthquake
+240-168,tong1325,http://concepticon.clld.org/parameters/1732,laŋi,sky
+240-585,tong1325,http://concepticon.clld.org/parameters/1343,laʔā,sun
+240-368,tong1325,http://concepticon.clld.org/parameters/1430,fetuʔu,star
+240-954,tong1325,http://concepticon.clld.org/parameters/1654,ʔuhila,lightning
+240-569,tong1325,http://concepticon.clld.org/parameters/1150,mana,thunder
+240-611,tong1325,http://concepticon.clld.org/parameters/1150,ha mana,thunder
+240-1107,tong1325,http://concepticon.clld.org/parameters/858,afā,storm
+240-1495,tong1325,http://concepticon.clld.org/parameters/858,lolotoŋa afā,storm
+240-1477,tong1325,http://concepticon.clld.org/parameters/858,mataŋi afā,storm
+240-580,tong1325,http://concepticon.clld.org/parameters/1733,ʔumata,rainbow
+240-764,tong1325,http://concepticon.clld.org/parameters/630,taimi ʔaho,light (noun)
+240-1234,tong1325,http://concepticon.clld.org/parameters/630,faka-maama,light (noun)
+240-1181,tong1325,http://concepticon.clld.org/parameters/11,kaupoʔuli,darkness
+240-944,tong1325,http://concepticon.clld.org/parameters/11,faka-poʔuli,darkness
+240-946,tong1325,http://concepticon.clld.org/parameters/11,poʔuli,darkness
+240-689,tong1325,http://concepticon.clld.org/parameters/1388,malumalu,"shade, shadow"
+240-1333,tong1325,http://concepticon.clld.org/parameters/1388,ʔata,"shade, shadow"
+240-1165,tong1325,http://concepticon.clld.org/parameters/1388,maluʔaki ʔo e pō,"shade, shadow"
+240-267,tong1325,http://concepticon.clld.org/parameters/1977,hahau,dew
+240-752,tong1325,http://concepticon.clld.org/parameters/27,ʔea,air
+240-1285,tong1325,http://concepticon.clld.org/parameters/960,havilivili,wind
+240-1230,tong1325,http://concepticon.clld.org/parameters/1489,ʔao,cloud
+240-570,tong1325,http://concepticon.clld.org/parameters/1489,ʔaoʔaofia,cloud
+240-606,tong1325,http://concepticon.clld.org/parameters/1489,lokiloki ʔuha,cloud
+240-976,tong1325,http://concepticon.clld.org/parameters/1489,loki ke ʔuha,cloud
+240-111,tong1325,http://concepticon.clld.org/parameters/249,kakapu,fog
+240-334,tong1325,http://concepticon.clld.org/parameters/249,mosimosi,fog
+240-561,tong1325,http://concepticon.clld.org/parameters/249,afuafu,fog
+240-437,tong1325,http://concepticon.clld.org/parameters/658,ʔuha,rain (noun)
+240-334,tong1325,http://concepticon.clld.org/parameters/658,mosimosi,rain (noun)
+240-1075,tong1325,http://concepticon.clld.org/parameters/658,taumosi,rain (noun)
+240-666,tong1325,http://concepticon.clld.org/parameters/617,ʔaisi,ice
+240-997,tong1325,http://concepticon.clld.org/parameters/617,tuku ʔaisi,ice
+240-282,tong1325,http://concepticon.clld.org/parameters/617,hahau kuo ʔaisi,ice
+240-1427,tong1325,http://concepticon.clld.org/parameters/952,ʔalomālie,weather
+240-1223,tong1325,http://concepticon.clld.org/parameters/221,afi,fire
+240-250,tong1325,http://concepticon.clld.org/parameters/221,afi lahi,fire
+240-1162,tong1325,http://concepticon.clld.org/parameters/221,puho,fire
+240-1024,tong1325,http://concepticon.clld.org/parameters/889,ko e ulo ʔa e afi,flame (noun)
+240-1268,tong1325,http://concepticon.clld.org/parameters/778,ʔahu,smoke (noun)
+240-1246,tong1325,http://concepticon.clld.org/parameters/646,efuefu,ashes
+240-1149,tong1325,http://concepticon.clld.org/parameters/141,tutu,burn (vb trans)
+240-1164,tong1325,http://concepticon.clld.org/parameters/141,pe ke malala,burn (vb trans)
+240-1149,tong1325,http://concepticon.clld.org/parameters/737,tutu,"light, kindle, ignite"
+240-853,tong1325,http://concepticon.clld.org/parameters/737,tafu,"light, kindle, ignite"
+240-70,tong1325,http://concepticon.clld.org/parameters/737,hono tutu,"light, kindle, ignite"
+240-1335,tong1325,http://concepticon.clld.org/parameters/127,tamateʔi,extinguish
+240-682,tong1325,http://concepticon.clld.org/parameters/1133,puha masi,match (noun)
+240-1476,tong1325,http://concepticon.clld.org/parameters/10,fefie,firewood
+240-444,tong1325,http://concepticon.clld.org/parameters/10,papa tafu afi,firewood
+240-584,tong1325,http://concepticon.clld.org/parameters/1188,malala,charcoal
+240-124,tong1325,http://concepticon.clld.org/parameters/683,taŋata,"person, human being"
+240-177,tong1325,http://concepticon.clld.org/parameters/683,tokotaha,"person, human being"
+240-1431,tong1325,http://concepticon.clld.org/parameters/1554,taŋata (lahi),man (vs. woman)
+240-567,tong1325,http://concepticon.clld.org/parameters/1554,matāpule,man (vs. woman)
+240-172,tong1325,http://concepticon.clld.org/parameters/962,fefine,woman
+240-1388,tong1325,http://concepticon.clld.org/parameters/2263,kakai taŋata,male
+240-172,tong1325,http://concepticon.clld.org/parameters/2260,fefine,female
+240-85,tong1325,http://concepticon.clld.org/parameters/1366,tamasiʔi,boy
+240-352,tong1325,http://concepticon.clld.org/parameters/76,talavou,young man (adolescent)
+240-725,tong1325,http://concepticon.clld.org/parameters/1646,taʔahine,girl
+240-1397,tong1325,http://concepticon.clld.org/parameters/1646,ʔofaʔaŋa,girl
+240-725,tong1325,http://concepticon.clld.org/parameters/77,taʔahine,young woman (adolescent)
+240-1345,tong1325,http://concepticon.clld.org/parameters/77,fine-mui,young woman (adolescent)
+240-33,tong1325,http://concepticon.clld.org/parameters/1304,tamasiʔi/ taʔahine,child
+240-1182,tong1325,http://concepticon.clld.org/parameters/1289,pēpē,"infant, baby"
+240-791,tong1325,http://concepticon.clld.org/parameters/1289,pēpē valevale,"infant, baby"
+240-393,tong1325,http://concepticon.clld.org/parameters/1200,mali,husband
+240-895,tong1325,http://concepticon.clld.org/parameters/1200,[husepāniti],husband
+240-393,tong1325,http://concepticon.clld.org/parameters/1199,mali,wife
+240-1080,tong1325,http://concepticon.clld.org/parameters/1259,faka-maʔu,"marriage, wedding"
+240-393,tong1325,http://concepticon.clld.org/parameters/1259,mali,"marriage, wedding"
+240-690,tong1325,http://concepticon.clld.org/parameters/1134,vete mali,divorce
+240-1493,tong1325,http://concepticon.clld.org/parameters/1217,tamai,father
+240-106,tong1325,http://concepticon.clld.org/parameters/1217,taŋataʔeiki,father
+240-40,tong1325,http://concepticon.clld.org/parameters/1216,faʔē,mother
+240-191,tong1325,http://concepticon.clld.org/parameters/505,ʔoŋo mātuʔa,parents
+240-1504,tong1325,http://concepticon.clld.org/parameters/424,taŋata mali,married man
+240-1041,tong1325,http://concepticon.clld.org/parameters/426,fefine mali,married woman
+240-81,tong1325,http://concepticon.clld.org/parameters/1620,foha,son
+240-322,tong1325,http://concepticon.clld.org/parameters/1620,tama,son
+240-479,tong1325,http://concepticon.clld.org/parameters/1357,ʔofefine,daughter
+240-322,tong1325,http://concepticon.clld.org/parameters/1357,tama,daughter
+240-1483,tong1325,http://concepticon.clld.org/parameters/1801,fānau,offspring (son or daughter)
+240-907,tong1325,http://concepticon.clld.org/parameters/1262,tokoua,brother
+240-371,tong1325,http://concepticon.clld.org/parameters/1262,tuoŋaʔane,brother
+240-1033,tong1325,http://concepticon.clld.org/parameters/1759,taʔokete,older brother
+240-1451,tong1325,http://concepticon.clld.org/parameters/1759,tokoua lahi,older brother
+240-821,tong1325,http://concepticon.clld.org/parameters/1263,tuofefine,sister
+240-907,tong1325,http://concepticon.clld.org/parameters/1263,tokoua,sister
+240-1033,tong1325,http://concepticon.clld.org/parameters/1758,taʔokete,older sister
+240-1068,tong1325,http://concepticon.clld.org/parameters/1005,māhaŋa,twins
+240-1106,tong1325,http://concepticon.clld.org/parameters/1005,ua,twins
+240-1446,tong1325,http://concepticon.clld.org/parameters/1383,kui taŋata,grandfather
+240-106,tong1325,http://concepticon.clld.org/parameters/406,taŋataʔeiki,old man
+240-1315,tong1325,http://concepticon.clld.org/parameters/406,motuʔa,old man
+240-489,tong1325,http://concepticon.clld.org/parameters/1496,kui fefine,grandmother
+240-422,tong1325,http://concepticon.clld.org/parameters/907,fineʔeiki,old woman
+240-1312,tong1325,http://concepticon.clld.org/parameters/907,finemotuʔa,old woman
+240-1374,tong1325,http://concepticon.clld.org/parameters/1618,mokopuna,grandson
+240-1239,tong1325,http://concepticon.clld.org/parameters/1327,faʔetaŋata,uncle
+240-42,tong1325,http://concepticon.clld.org/parameters/1327,tuʔasina,uncle
+240-1493,tong1325,http://concepticon.clld.org/parameters/1327,tamai,uncle
+240-665,tong1325,http://concepticon.clld.org/parameters/1272,mehikitaŋa,aunt
+240-40,tong1325,http://concepticon.clld.org/parameters/1272,faʔē,aunt
+240-274,tong1325,http://concepticon.clld.org/parameters/1063,ʔilamutu,nephew
+240-194,tong1325,http://concepticon.clld.org/parameters/1063,faka-fotu,nephew
+240-274,tong1325,http://concepticon.clld.org/parameters/1642,ʔilamutu,niece
+240-322,tong1325,http://concepticon.clld.org/parameters/1642,tama,niece
+240-194,tong1325,http://concepticon.clld.org/parameters/1642,faka-fotu,niece
+240-977,tong1325,http://concepticon.clld.org/parameters/1643,tokouaʔaki,cousin
+240-173,tong1325,http://concepticon.clld.org/parameters/1643,kāiŋa,cousin
+240-1326,tong1325,http://concepticon.clld.org/parameters/1669,faŋa kui,ancestors
+240-1251,tong1325,http://concepticon.clld.org/parameters/490,hako,descendants
+240-1493,tong1325,http://concepticon.clld.org/parameters/2255,tamai,father-in-law (of a man)
+240-198,tong1325,http://concepticon.clld.org/parameters/2256,faʔē ʔa hoto mali,mother-in-law (of a man)
+240-223,tong1325,http://concepticon.clld.org/parameters/1149,taha ʔoku mate ʔene tamai mo e faʔē,orphan
+240-173,tong1325,http://concepticon.clld.org/parameters/1644,kāiŋa,"relatives, kinsmen"
+240-1141,tong1325,http://concepticon.clld.org/parameters/194,[fāmili],family
+240-667,tong1325,http://concepticon.clld.org/parameters/1209,ou,I
+240-929,tong1325,http://concepticon.clld.org/parameters/1209,ku,I
+240-716,tong1325,http://concepticon.clld.org/parameters/1209,u,I
+240-923,tong1325,http://concepticon.clld.org/parameters/1209,kau,I
+240-695,tong1325,http://concepticon.clld.org/parameters/1209,au,I
+240-726,tong1325,http://concepticon.clld.org/parameters/1209,ko au,I
+240-892,tong1325,http://concepticon.clld.org/parameters/1215,koe,you (singular)
+240-1407,tong1325,http://concepticon.clld.org/parameters/262,ai,he/she/it
+240-79,tong1325,http://concepticon.clld.org/parameters/262,ia,he/she/it
+240-71,tong1325,http://concepticon.clld.org/parameters/1212,ma,we
+240-1377,tong1325,http://concepticon.clld.org/parameters/1213,kimou-tolu,you (plural)
+240-1114,tong1325,http://concepticon.clld.org/parameters/817,nau,they
+240-947,tong1325,http://concepticon.clld.org/parameters/817,kinautolu,they
+240-566,tong1325,http://concepticon.clld.org/parameters/619,manu,animal
+240-364,tong1325,http://concepticon.clld.org/parameters/2261,manu taŋata,male (adj)
+240-880,tong1325,http://concepticon.clld.org/parameters/2261,faka-ētaŋata,male (adj)
+240-1261,tong1325,http://concepticon.clld.org/parameters/263,tauhi[sipi],herdsman
+240-1243,tong1325,http://concepticon.clld.org/parameters/1153,faŋa pulu,cattle (bovine)
+240-360,tong1325,http://concepticon.clld.org/parameters/1008,pulutau,bull
+240-1147,tong1325,http://concepticon.clld.org/parameters/1169,pulu tau,ox
+240-1045,tong1325,http://concepticon.clld.org/parameters/1007,pulu fefine,cow
+240-480,tong1325,http://concepticon.clld.org/parameters/1989,uhikiʔi pulu,calf
+240-1084,tong1325,http://concepticon.clld.org/parameters/1331,[sipi],sheep
+240-1273,tong1325,http://concepticon.clld.org/parameters/1344,[sipi] taŋata,ram
+240-1019,tong1325,http://concepticon.clld.org/parameters/1345,[sipi] fefine lahi,ewe
+240-192,tong1325,http://concepticon.clld.org/parameters/820,[lami],lamb
+240-103,tong1325,http://concepticon.clld.org/parameters/1348,puaka tau,boar
+240-156,tong1325,http://concepticon.clld.org/parameters/1351,sināmanu,sow (2)
+240-1171,tong1325,http://concepticon.clld.org/parameters/1337,puaka,pig
+240-467,tong1325,http://concepticon.clld.org/parameters/1502,[kosi],goat
+240-630,tong1325,http://concepticon.clld.org/parameters/1972,kiʔi kosi,kid
+240-175,tong1325,http://concepticon.clld.org/parameters/615,[hoosi],horse (equine)
+240-61,tong1325,http://concepticon.clld.org/parameters/936,[hoosi] tau,stallion
+240-956,tong1325,http://concepticon.clld.org/parameters/1862,[ʔasi],"ass, donkey"
+240-634,tong1325,http://concepticon.clld.org/parameters/265,moa,fowl
+240-31,tong1325,http://concepticon.clld.org/parameters/1511,moa taʔane,"cock, rooster"
+240-367,tong1325,http://concepticon.clld.org/parameters/1511,faka-taŋata,"cock, rooster"
+240-1001,tong1325,http://concepticon.clld.org/parameters/1514,moa fefine,hen
+240-930,tong1325,http://concepticon.clld.org/parameters/1514,motuʔamoa,hen
+240-634,tong1325,http://concepticon.clld.org/parameters/1318,moa,chicken
+240-43,tong1325,http://concepticon.clld.org/parameters/1187,faŋa kuusi,goose
+240-958,tong1325,http://concepticon.clld.org/parameters/1360,[pato],duck
+240-1433,tong1325,http://concepticon.clld.org/parameters/539,punuŋa,nest
+240-1203,tong1325,http://concepticon.clld.org/parameters/937,manupuna,bird
+240-659,tong1325,http://concepticon.clld.org/parameters/1905,ʔikale,eagle
+240-451,tong1325,http://concepticon.clld.org/parameters/307,faʔahiŋa manupuna fekai,hawk
+240-1408,tong1325,http://concepticon.clld.org/parameters/1185,manupuna lahi ʔoku ne keina ʔa e kakano,vulture
+240-1211,tong1325,http://concepticon.clld.org/parameters/1793,peka,bat
+240-1515,tong1325,http://concepticon.clld.org/parameters/882,kakā,parrot
+240-1173,tong1325,http://concepticon.clld.org/parameters/913,ʔuʔua,crow
+240-1372,tong1325,http://concepticon.clld.org/parameters/913,manu-puna,crow
+240-221,tong1325,http://concepticon.clld.org/parameters/1853,lupe,dove
+240-998,tong1325,http://concepticon.clld.org/parameters/735,lulu,owl
+240-1172,tong1325,http://concepticon.clld.org/parameters/2009,kulī,dog
+240-138,tong1325,http://concepticon.clld.org/parameters/1136,lāpisi,rabbit
+240-1306,tong1325,http://concepticon.clld.org/parameters/1208,[pusi],cat
+240-1256,tong1325,http://concepticon.clld.org/parameters/1208,kiʔi [pusi],cat
+240-545,tong1325,http://concepticon.clld.org/parameters/2139,kumā,"mouse, rat"
+240-98,tong1325,http://concepticon.clld.org/parameters/2139,faŋa kumā,"mouse, rat"
+240-982,tong1325,http://concepticon.clld.org/parameters/227,ika,fish
+240-1185,tong1325,http://concepticon.clld.org/parameters/213,kapoŋa,fin (dorsal)
+240-637,tong1325,http://concepticon.clld.org/parameters/266,ʔuno,fishscale
+240-426,tong1325,http://concepticon.clld.org/parameters/1916,laumea,gill
+240-1254,tong1325,http://concepticon.clld.org/parameters/598,keleʔa,shell
+240-688,tong1325,http://concepticon.clld.org/parameters/598,pule,shell
+240-919,tong1325,http://concepticon.clld.org/parameters/598,ŋeʔesi,shell
+240-390,tong1325,http://concepticon.clld.org/parameters/1110,ʔaŋa,shark
+240-157,tong1325,http://concepticon.clld.org/parameters/1479,tolofini,"porpoise, dolphin"
+240-13,tong1325,http://concepticon.clld.org/parameters/1910,fai (faʔahiŋa ika),stingray
+240-1266,tong1325,http://concepticon.clld.org/parameters/1013,toke,freshwater eel
+240-1308,tong1325,http://concepticon.clld.org/parameters/522,ulofi,wolf
+240-171,tong1325,http://concepticon.clld.org/parameters/1386,[laione],lion
+240-1063,tong1325,http://concepticon.clld.org/parameters/1820,pea,bear
+240-699,tong1325,http://concepticon.clld.org/parameters/1312,fōkisi,fox
+240-342,tong1325,http://concepticon.clld.org/parameters/1936,tia,deer
+240-115,tong1325,http://concepticon.clld.org/parameters/1350,ŋeli,monkey
+240-442,tong1325,http://concepticon.clld.org/parameters/1290,[ʔelefānite],elephant
+240-743,tong1325,http://concepticon.clld.org/parameters/1871,[kāmeli],camel
+240-376,tong1325,http://concepticon.clld.org/parameters/620,ʔinisēkite,insect
+240-1319,tong1325,http://concepticon.clld.org/parameters/310,kutu,louse
+240-213,tong1325,http://concepticon.clld.org/parameters/267,liha,nit (louse egg)
+240-577,tong1325,http://concepticon.clld.org/parameters/232,kutufisi,flea
+240-701,tong1325,http://concepticon.clld.org/parameters/1974,molokau,centipede
+240-556,tong1325,http://concepticon.clld.org/parameters/1538,[sikopio],scorpion
+240-394,tong1325,http://concepticon.clld.org/parameters/1575,moŋomoŋa,cockroach
+240-539,tong1325,http://concepticon.clld.org/parameters/587,lō,ant
+240-632,tong1325,http://concepticon.clld.org/parameters/843,hina,spider
+240-1215,tong1325,http://concepticon.clld.org/parameters/1065,matakupesi,spider web
+240-515,tong1325,http://concepticon.clld.org/parameters/1065,matamata-kupeŋa,spider web
+240-264,tong1325,http://concepticon.clld.org/parameters/665,hone,bee
+240-1009,tong1325,http://concepticon.clld.org/parameters/88,tauŋa [hone],beehive
+240-1395,tong1325,http://concepticon.clld.org/parameters/1517,pī,wasp
+240-69,tong1325,http://concepticon.clld.org/parameters/1504,faŋa laŋo,fly
+240-169,tong1325,http://concepticon.clld.org/parameters/1504,laŋo,fly
+240-461,tong1325,http://concepticon.clld.org/parameters/95,namu,"sandfly (midge), gnat"
+240-461,tong1325,http://concepticon.clld.org/parameters/1509,namu,mosquito
+240-927,tong1325,http://concepticon.clld.org/parameters/1219,ʔunufe,worm
+240-1006,tong1325,http://concepticon.clld.org/parameters/730,ŋata,snake
+240-199,tong1325,http://concepticon.clld.org/parameters/730,manu totolo,snake
+240-600,tong1325,http://concepticon.clld.org/parameters/1791,pepe,butterfly
+240-17,tong1325,http://concepticon.clld.org/parameters/607,heʔe,grasshopper
+240-482,tong1325,http://concepticon.clld.org/parameters/1543,[sineili],snail
+240-1304,tong1325,http://concepticon.clld.org/parameters/503,poto,frog
+240-129,tong1325,http://concepticon.clld.org/parameters/632,moko,lizard
+240-911,tong1325,http://concepticon.clld.org/parameters/1857,ʔelikeita,"crocodile, alligator"
+240-1046,tong1325,http://concepticon.clld.org/parameters/1857,kalokataile,"crocodile, alligator"
+240-937,tong1325,http://concepticon.clld.org/parameters/112,fonu,turtle
+240-1185,tong1325,http://concepticon.clld.org/parameters/112,kapoŋa,turtle
+240-1183,tong1325,http://concepticon.clld.org/parameters/1480,sino,body
+240-624,tong1325,http://concepticon.clld.org/parameters/763,kili,"skin, hide"
+240-1471,tong1325,http://concepticon.clld.org/parameters/2259,kakano,flesh
+240-1126,tong1325,http://concepticon.clld.org/parameters/1040,louʔulu,hair (head)
+240-450,tong1325,http://concepticon.clld.org/parameters/1040,fulufulu,hair (head)
+240-1415,tong1325,http://concepticon.clld.org/parameters/678,kava,beard
+240-450,tong1325,http://concepticon.clld.org/parameters/189,fulufulu,body hair
+240-767,tong1325,http://concepticon.clld.org/parameters/576,mafunofuna ē,dandruff
+240-1188,tong1325,http://concepticon.clld.org/parameters/576,ŋeʔesi ʔulu,dandruff
+240-652,tong1325,http://concepticon.clld.org/parameters/946,toto,blood
+240-1376,tong1325,http://concepticon.clld.org/parameters/525,kālava tufa toto,"vein, artery"
+240-899,tong1325,http://concepticon.clld.org/parameters/525,kālava fetuku toto,"vein, artery"
+240-350,tong1325,http://concepticon.clld.org/parameters/525,kālava fakafoki,"vein, artery"
+240-256,tong1325,http://concepticon.clld.org/parameters/525,toto ki he mafu,"vein, artery"
+240-500,tong1325,http://concepticon.clld.org/parameters/1394,hui,bone
+240-1323,tong1325,http://concepticon.clld.org/parameters/801,hui vakavaka,rib
+240-650,tong1325,http://concepticon.clld.org/parameters/801,hui palalulu,rib
+240-245,tong1325,http://concepticon.clld.org/parameters/1393,meʔatui,horn
+240-154,tong1325,http://concepticon.clld.org/parameters/1220,hiku,tail
+240-215,tong1325,http://concepticon.clld.org/parameters/1291,mui,back
+240-941,tong1325,http://concepticon.clld.org/parameters/1291,tuʔa,back
+240-1465,tong1325,http://concepticon.clld.org/parameters/805,hui tuʔa,spine
+240-1093,tong1325,http://concepticon.clld.org/parameters/805,foʔi hui he hui tuʔa,spine
+240-874,tong1325,http://concepticon.clld.org/parameters/1256,ʔulu,head
+240-1434,tong1325,http://concepticon.clld.org/parameters/1605,foʔi ʔulupoko,skull
+240-411,tong1325,http://concepticon.clld.org/parameters/1605,ŋaahi hui ʔoe,skull
+240-839,tong1325,http://concepticon.clld.org/parameters/1605,ʔulu (fakakātoa),skull
+240-39,tong1325,http://concepticon.clld.org/parameters/1583,ʔuto,brain
+240-1276,tong1325,http://concepticon.clld.org/parameters/1560,mata,face
+240-623,tong1325,http://concepticon.clld.org/parameters/123,laʔe,forehead
+240-889,tong1325,http://concepticon.clld.org/parameters/798,kauŋao,jaw
+240-645,tong1325,http://concepticon.clld.org/parameters/1730,kouʔahe,cheek
+240-1291,tong1325,http://concepticon.clld.org/parameters/1510,kumukumu,chin
+240-1276,tong1325,http://concepticon.clld.org/parameters/1248,mata,eye
+240-395,tong1325,http://concepticon.clld.org/parameters/1173,kemo,eyebrow
+240-475,tong1325,http://concepticon.clld.org/parameters/1173,oŋo kemo,eyebrow
+240-991,tong1325,http://concepticon.clld.org/parameters/17,lau-mata,eyelid
+240-231,tong1325,http://concepticon.clld.org/parameters/1540,fulufuluʔi-lau-mata,eyelash
+240-395,tong1325,http://concepticon.clld.org/parameters/1655,kemo,blink
+240-96,tong1325,http://concepticon.clld.org/parameters/1247,teliŋa,ear
+240-449,tong1325,http://concepticon.clld.org/parameters/32,teʔetuli,earwax
+240-1298,tong1325,http://concepticon.clld.org/parameters/1221,ihu,nose
+240-76,tong1325,http://concepticon.clld.org/parameters/1178,avaʔi-ihu,nostril
+240-236,tong1325,http://concepticon.clld.org/parameters/208,meʔa ʔoku āāpe,mucus (nasal)
+240-299,tong1325,http://concepticon.clld.org/parameters/208,fiho,mucus (nasal)
+240-906,tong1325,http://concepticon.clld.org/parameters/208,ʔihupeʔe,mucus (nasal)
+240-1187,tong1325,http://concepticon.clld.org/parameters/674,ŋutu,mouth
+240-1187,tong1325,http://concepticon.clld.org/parameters/73,ŋutu,beak
+240-662,tong1325,http://concepticon.clld.org/parameters/478,louŋutu,lip
+240-834,tong1325,http://concepticon.clld.org/parameters/1205,ʔelelo,tongue
+240-142,tong1325,http://concepticon.clld.org/parameters/1380,nifo,tooth
+240-46,tong1325,http://concepticon.clld.org/parameters/139,teʔenifo,gums
+240-405,tong1325,http://concepticon.clld.org/parameters/1049,nifo ŋao,molartooth
+240-276,tong1325,http://concepticon.clld.org/parameters/1333,kia,neck
+240-657,tong1325,http://concepticon.clld.org/parameters/1347,tuʔakia,nape of neck
+240-802,tong1325,http://concepticon.clld.org/parameters/1346,moŋa,throat
+240-276,tong1325,http://concepticon.clld.org/parameters/1346,kia,throat
+240-311,tong1325,http://concepticon.clld.org/parameters/1482,uma,shoulder
+240-563,tong1325,http://concepticon.clld.org/parameters/172,hui fohe,shoulderblade
+240-448,tong1325,http://concepticon.clld.org/parameters/1673,nima,arm
+240-969,tong1325,http://concepticon.clld.org/parameters/1886,faʔefine,armpit
+240-292,tong1325,http://concepticon.clld.org/parameters/1886,faʔifine,armpit
+240-428,tong1325,http://concepticon.clld.org/parameters/981,tuiʔinima,elbow
+240-1518,tong1325,http://concepticon.clld.org/parameters/799,kiaʔinima,wrist
+240-1054,tong1325,http://concepticon.clld.org/parameters/799,fasiʔanima,wrist
+240-448,tong1325,http://concepticon.clld.org/parameters/1277,nima,hand
+240-750,tong1325,http://concepticon.clld.org/parameters/1183,laʔinima,palm of hand
+240-452,tong1325,http://concepticon.clld.org/parameters/1183,ʔaofinima,palm of hand
+240-1049,tong1325,http://concepticon.clld.org/parameters/1303,louhiʔinima,finger
+240-550,tong1325,http://concepticon.clld.org/parameters/1781,motuʔatuhu,thumb
+240-518,tong1325,http://concepticon.clld.org/parameters/1781,motuʔanima,thumb
+240-1118,tong1325,http://concepticon.clld.org/parameters/1258,ŋeʔesi-nima,fingernail
+240-728,tong1325,http://concepticon.clld.org/parameters/72,pesipesi,claw
+240-11,tong1325,http://concepticon.clld.org/parameters/1297,vaʔe,leg
+240-1209,tong1325,http://concepticon.clld.org/parameters/800,alaŋa,thigh
+240-490,tong1325,http://concepticon.clld.org/parameters/800,teŋa,thigh
+240-107,tong1325,http://concepticon.clld.org/parameters/498,ʔateʔivaʔe,calf of leg
+240-560,tong1325,http://concepticon.clld.org/parameters/1371,tui,knee
+240-11,tong1325,http://concepticon.clld.org/parameters/1301,vaʔe,foot
+240-473,tong1325,http://concepticon.clld.org/parameters/1301,lauʔi vaʔe,foot
+240-546,tong1325,http://concepticon.clld.org/parameters/803,tuŋa ʔivaʔe,ankle
+240-421,tong1325,http://concepticon.clld.org/parameters/803,fasiʔavaʔe,ankle
+240-1132,tong1325,http://concepticon.clld.org/parameters/980,mui-vaʔe,heel
+240-1309,tong1325,http://concepticon.clld.org/parameters/318,topu-vaʔe,footprint
+240-1340,tong1325,http://concepticon.clld.org/parameters/1389,louhiʔi-vaʔe,toe
+240-29,tong1325,http://concepticon.clld.org/parameters/1201,fulufuluʔi manu,feather
+240-766,tong1325,http://concepticon.clld.org/parameters/1592,fatafata,chest
+240-925,tong1325,http://concepticon.clld.org/parameters/1592,huhu,chest
+240-766,tong1325,http://concepticon.clld.org/parameters/1402,fatafata,breast (of woman)
+240-1310,tong1325,http://concepticon.clld.org/parameters/1402,foʔi huhu,breast (of woman)
+240-925,tong1325,http://concepticon.clld.org/parameters/1402,huhu,breast (of woman)
+240-847,tong1325,http://concepticon.clld.org/parameters/796,mataʔihuhu,"nipple, teat"
+240-318,tong1325,http://concepticon.clld.org/parameters/154,huhu ʔo ha pulu,udder
+240-230,tong1325,http://concepticon.clld.org/parameters/1838,pito,navel
+240-1252,tong1325,http://concepticon.clld.org/parameters/1223,mafu,heart
+240-1150,tong1325,http://concepticon.clld.org/parameters/688,maʔamaʔa,lung
+240-1330,tong1325,http://concepticon.clld.org/parameters/1224,ʔate,liver
+240-275,tong1325,http://concepticon.clld.org/parameters/489,kofuua,kidney
+240-1284,tong1325,http://concepticon.clld.org/parameters/1744,ʔatepili,spleen
+240-1394,tong1325,http://concepticon.clld.org/parameters/819,kete,stomach
+240-1456,tong1325,http://concepticon.clld.org/parameters/819,fatu,stomach
+240-513,tong1325,http://concepticon.clld.org/parameters/1991,ŋākau,"intestines, guts"
+240-1299,tong1325,http://concepticon.clld.org/parameters/1681,koŋaloto,waist
+240-790,tong1325,http://concepticon.clld.org/parameters/1745,hui ʔoku faka-hoko ki ai ʔa e hui ālaŋa,hip
+240-1283,tong1325,http://concepticon.clld.org/parameters/1745,hui he tefito ʔoe,hip
+240-1209,tong1325,http://concepticon.clld.org/parameters/1745,alaŋa,hip
+240-1375,tong1325,http://concepticon.clld.org/parameters/834,tuŋaiku,buttocks
+240-1012,tong1325,http://concepticon.clld.org/parameters/834,tuʔuŋaiku,buttocks
+240-215,tong1325,http://concepticon.clld.org/parameters/834,mui,buttocks
+240-1083,tong1325,http://concepticon.clld.org/parameters/804,manava,womb
+240-1364,tong1325,http://concepticon.clld.org/parameters/797,teŋaʔimahaki,testicle
+240-261,tong1325,http://concepticon.clld.org/parameters/797,laho,testicle
+240-367,tong1325,http://concepticon.clld.org/parameters/1222,faka-taŋata,penis
+240-320,tong1325,http://concepticon.clld.org/parameters/1222,muʔa,penis
+240-414,tong1325,http://concepticon.clld.org/parameters/1222,ule,penis
+240-566,tong1325,http://concepticon.clld.org/parameters/1222,manu,penis
+240-1216,tong1325,http://concepticon.clld.org/parameters/1407,mānava,"breathe, breath"
+240-37,tong1325,http://concepticon.clld.org/parameters/1028,mamao,"yawn, gape"
+240-1087,tong1325,http://concepticon.clld.org/parameters/162,tokomohū,hiccough
+240-509,tong1325,http://concepticon.clld.org/parameters/162,lonā,hiccough
+240-435,tong1325,http://concepticon.clld.org/parameters/879,tale,cough
+240-402,tong1325,http://concepticon.clld.org/parameters/1621,mafatua,sneeze
+240-100,tong1325,http://concepticon.clld.org/parameters/126,pupuha,perspire
+240-775,tong1325,http://concepticon.clld.org/parameters/126,tautaʔa,perspire
+240-742,tong1325,http://concepticon.clld.org/parameters/1440,ʔaʔanu,spit
+240-776,tong1325,http://concepticon.clld.org/parameters/1440,ʔanuhi,spit
+240-533,tong1325,http://concepticon.clld.org/parameters/1440,fā-vai,spit
+240-1385,tong1325,http://concepticon.clld.org/parameters/1278,lua,vomit
+240-1195,tong1325,http://concepticon.clld.org/parameters/1403,uʔu,bite
+240-319,tong1325,http://concepticon.clld.org/parameters/319,ʔemo,lick
+240-1472,tong1325,http://concepticon.clld.org/parameters/1585,mohe,sleep
+240-531,tong1325,http://concepticon.clld.org/parameters/1585,mohe maʔu,sleep
+240-1257,tong1325,http://concepticon.clld.org/parameters/1585,tulemohe,sleep
+240-1337,tong1325,http://concepticon.clld.org/parameters/1983,tāŋulu,snore
+240-884,tong1325,http://concepticon.clld.org/parameters/1920,misi,dream
+240-127,tong1325,http://concepticon.clld.org/parameters/1602,ʔa,wake up
+240-1437,tong1325,http://concepticon.clld.org/parameters/1602,ofo,wake up
+240-209,tong1325,http://concepticon.clld.org/parameters/1602,faka-ʔa,wake up
+240-1200,tong1325,http://concepticon.clld.org/parameters/1159,teʔepilo,break wind
+240-49,tong1325,http://concepticon.clld.org/parameters/592,mimi,urinate
+240-960,tong1325,http://concepticon.clld.org/parameters/592,tuʔuofi,urinate
+240-1206,tong1325,http://concepticon.clld.org/parameters/676,tuʔumamaʔo,defecate
+240-747,tong1325,http://concepticon.clld.org/parameters/676,taʔe,defecate
+240-805,tong1325,http://concepticon.clld.org/parameters/676,siko,defecate
+240-572,tong1325,http://concepticon.clld.org/parameters/52,tetetete mei he momoko pe ilifia,shiver
+240-818,tong1325,http://concepticon.clld.org/parameters/138,kaukauʔi,bathe
+240-700,tong1325,http://concepticon.clld.org/parameters/138,vai kaukau,bathe
+240-680,tong1325,http://concepticon.clld.org/parameters/1090,fāʔele,born (to be)
+240-200,tong1325,http://concepticon.clld.org/parameters/1123,feitama,pregnant
+240-1294,tong1325,http://concepticon.clld.org/parameters/1422,moʔui,"live, living, life"
+240-746,tong1325,http://concepticon.clld.org/parameters/1494,kau pekia,"die, dead"
+240-1274,tong1325,http://concepticon.clld.org/parameters/1494,mate,"die, dead"
+240-1073,tong1325,http://concepticon.clld.org/parameters/1494,mālōlō,"die, dead"
+240-1277,tong1325,http://concepticon.clld.org/parameters/1904,melemo,drowned
+240-605,tong1325,http://concepticon.clld.org/parameters/1417,tāmateʔi,kill
+240-888,tong1325,http://concepticon.clld.org/parameters/1417,faka-pooŋi,kill
+240-1368,tong1325,http://concepticon.clld.org/parameters/767,sino ʔo e pekia,corpse
+240-259,tong1325,http://concepticon.clld.org/parameters/1719,tanu,bury (the dead)
+240-1517,tong1325,http://concepticon.clld.org/parameters/1773,faʔitoka,"grave, tomb"
+240-1038,tong1325,http://concepticon.clld.org/parameters/1773,malaʔe,"grave, tomb"
+240-522,tong1325,http://concepticon.clld.org/parameters/1773,fonua-loto,"grave, tomb"
+240-1241,tong1325,http://concepticon.clld.org/parameters/785,mālohi,"strong, mighty, powerful"
+240-597,tong1325,http://concepticon.clld.org/parameters/785,ivi,"strong, mighty, powerful"
+240-718,tong1325,http://concepticon.clld.org/parameters/785,mafai,"strong, mighty, powerful"
+240-758,tong1325,http://concepticon.clld.org/parameters/1601,vaivai,weak
+240-601,tong1325,http://concepticon.clld.org/parameters/1364,moʔuilelei,"well, health"
+240-1519,tong1325,http://concepticon.clld.org/parameters/1847,mahaki,"sick, sickness"
+240-788,tong1325,http://concepticon.clld.org/parameters/1847,puke,"sick, sickness"
+240-1237,tong1325,http://concepticon.clld.org/parameters/1847,mahaki faka-ʔauha,"sick, sickness"
+240-1488,tong1325,http://concepticon.clld.org/parameters/1534,mofi,fever
+240-1287,tong1325,http://concepticon.clld.org/parameters/102,fofonu,cold (catarrh)
+240-771,tong1325,http://concepticon.clld.org/parameters/1109,lavea,"wound, sore"
+240-675,tong1325,http://concepticon.clld.org/parameters/1109,lavea pe ko e pala,"wound, sore"
+240-347,tong1325,http://concepticon.clld.org/parameters/1148,takaʔuli,bruise
+240-1205,tong1325,http://concepticon.clld.org/parameters/1903,pupula,swelling
+240-783,tong1325,http://concepticon.clld.org/parameters/1903,fufula,swelling
+240-685,tong1325,http://concepticon.clld.org/parameters/1903,tupu,swelling
+240-1163,tong1325,http://concepticon.clld.org/parameters/148,veli,itch
+240-785,tong1325,http://concepticon.clld.org/parameters/1584,fā pe mamulu,blister
+240-1202,tong1325,http://concepticon.clld.org/parameters/793,haŋatāmaki,boil (noun)
+240-1062,tong1325,http://concepticon.clld.org/parameters/1808,pela,pus
+240-1487,tong1325,http://concepticon.clld.org/parameters/497,piki,scar
+240-846,tong1325,http://concepticon.clld.org/parameters/499,faka-moʔui,"cure, heal"
+240-678,tong1325,http://concepticon.clld.org/parameters/597,toketā,physician
+240-1226,tong1325,http://concepticon.clld.org/parameters/597,taŋata/ fefine faitoʔo,physician
+240-205,tong1325,http://concepticon.clld.org/parameters/597,toketā faitafa,physician
+240-1506,tong1325,http://concepticon.clld.org/parameters/1372,faitoʔo,"medicine, drug"
+240-440,tong1325,http://concepticon.clld.org/parameters/655,kona,poison
+240-1371,tong1325,http://concepticon.clld.org/parameters/655,lava ke,poison
+240-1469,tong1325,http://concepticon.clld.org/parameters/655,hoko ai ʔa e mate,poison
+240-419,tong1325,http://concepticon.clld.org/parameters/655,meʔa faka-konahi,poison
+240-104,tong1325,http://concepticon.clld.org/parameters/1757,fiu,"tired, weary"
+240-167,tong1325,http://concepticon.clld.org/parameters/1757,faka-oŋosia,"tired, weary"
+240-596,tong1325,http://concepticon.clld.org/parameters/1757,fuʔu helaʔia ʔaupito,"tired, weary"
+240-1073,tong1325,http://concepticon.clld.org/parameters/168,mālōlō,rest
+240-48,tong1325,http://concepticon.clld.org/parameters/1564,faka-pikopiko,lazy
+240-445,tong1325,http://concepticon.clld.org/parameters/1125,tula,bald
+240-983,tong1325,http://concepticon.clld.org/parameters/320,heke,lame
+240-190,tong1325,http://concepticon.clld.org/parameters/320,ʔai ke tuʔutāmaki,lame
+240-130,tong1325,http://concepticon.clld.org/parameters/320,taha ʔoku heke,lame
+240-447,tong1325,http://concepticon.clld.org/parameters/996,tuli,deaf
+240-455,tong1325,http://concepticon.clld.org/parameters/1666,noa,mute
+240-30,tong1325,http://concepticon.clld.org/parameters/1653,kui,blind
+240-1152,tong1325,http://concepticon.clld.org/parameters/1463,konā,intoxicated
+240-1507,tong1325,http://concepticon.clld.org/parameters/590,telefua,"naked, bare"
+240-921,tong1325,http://concepticon.clld.org/parameters/1336,kai,eat
+240-243,tong1325,http://concepticon.clld.org/parameters/1336,tina,eat
+240-464,tong1325,http://concepticon.clld.org/parameters/256,meʔakai,food
+240-241,tong1325,http://concepticon.clld.org/parameters/256,meʔatokoni,food
+240-52,tong1325,http://concepticon.clld.org/parameters/256,meʔakai lahi,food
+240-1175,tong1325,http://concepticon.clld.org/parameters/256,hono kai,food
+240-1276,tong1325,http://concepticon.clld.org/parameters/1959,mata,raw
+240-215,tong1325,http://concepticon.clld.org/parameters/1959,mui,raw
+240-887,tong1325,http://concepticon.clld.org/parameters/1959,ʔikai moho,raw
+240-828,tong1325,http://concepticon.clld.org/parameters/178,motuʔa lelei,ripe
+240-215,tong1325,http://concepticon.clld.org/parameters/1958,mui,"green, unripe"
+240-178,tong1325,http://concepticon.clld.org/parameters/1728,popo,rotten
+240-433,tong1325,http://concepticon.clld.org/parameters/1728,ʔelo,rotten
+240-670,tong1325,http://concepticon.clld.org/parameters/1728,masalai,rotten
+240-1410,tong1325,http://concepticon.clld.org/parameters/1401,inu,drink
+240-1331,tong1325,http://concepticon.clld.org/parameters/1533,fiekaia,hunger
+240-64,tong1325,http://concepticon.clld.org/parameters/199,hoŋe,famine
+240-24,tong1325,http://concepticon.clld.org/parameters/848,fie inu,thirst
+240-1145,tong1325,http://concepticon.clld.org/parameters/848,fieinua,thirst
+240-884,tong1325,http://concepticon.clld.org/parameters/1421,misi,suck
+240-925,tong1325,http://concepticon.clld.org/parameters/1421,huhu,suck
+240-1420,tong1325,http://concepticon.clld.org/parameters/1421,faka-huhu,suck
+240-470,tong1325,http://concepticon.clld.org/parameters/321,ŋau,chew
+240-1463,tong1325,http://concepticon.clld.org/parameters/897,maʔaŋa,swallow
+240-799,tong1325,http://concepticon.clld.org/parameters/129,faka-sisina,choke
+240-627,tong1325,http://concepticon.clld.org/parameters/129,loʔoa,choke
+240-271,tong1325,http://concepticon.clld.org/parameters/1100,tunu,cook
+240-1129,tong1325,http://concepticon.clld.org/parameters/1100,velahia,cook
+240-1250,tong1325,http://concepticon.clld.org/parameters/1100,haka,cook
+240-1102,tong1325,http://concepticon.clld.org/parameters/1100,faka-moho,cook
+240-1250,tong1325,http://concepticon.clld.org/parameters/792,haka,boil (vb)
+240-193,tong1325,http://concepticon.clld.org/parameters/2146,faka-paku,"roast, fry"
+240-133,tong1325,http://concepticon.clld.org/parameters/2146,taʔo,"roast, fry"
+240-1424,tong1325,http://concepticon.clld.org/parameters/2146,pulu taʔo,"roast, fry"
+240-133,tong1325,http://concepticon.clld.org/parameters/183,taʔo,bake
+240-512,tong1325,http://concepticon.clld.org/parameters/1143,ŋotoʔumu,oven
+240-1338,tong1325,http://concepticon.clld.org/parameters/1143,[ʔovani],oven
+240-640,tong1325,http://concepticon.clld.org/parameters/1462,kulo,"pot, cooking vessel"
+240-155,tong1325,http://concepticon.clld.org/parameters/1462,kulo maka,"pot, cooking vessel"
+240-491,tong1325,http://concepticon.clld.org/parameters/1462,kulo ukamea,"pot, cooking vessel"
+240-226,tong1325,http://concepticon.clld.org/parameters/854,[tikatele],kettle
+240-193,tong1325,http://concepticon.clld.org/parameters/31,faka-paku,pan
+240-640,tong1325,http://concepticon.clld.org/parameters/31,kulo,pan
+240-1263,tong1325,http://concepticon.clld.org/parameters/481,tisi,dish
+240-84,tong1325,http://concepticon.clld.org/parameters/480,[peleti],plate
+240-787,tong1325,http://concepticon.clld.org/parameters/1530,poulu,bowl
+240-1450,tong1325,http://concepticon.clld.org/parameters/1530,pēsoni,bowl
+240-1144,tong1325,http://concepticon.clld.org/parameters/270,siā,"pitcher, jug"
+240-55,tong1325,http://concepticon.clld.org/parameters/270,sioki,"pitcher, jug"
+240-242,tong1325,http://concepticon.clld.org/parameters/270,siā maka,"pitcher, jug"
+240-400,tong1325,http://concepticon.clld.org/parameters/476,ipu,"cup, drinking vessel"
+240-144,tong1325,http://concepticon.clld.org/parameters/271,[sosa],saucer
+240-5,tong1325,http://concepticon.clld.org/parameters/1378,[sēpuni] ohu,spoon
+240-1413,tong1325,http://concepticon.clld.org/parameters/1378,meʔa-ohu,spoon
+240-825,tong1325,http://concepticon.clld.org/parameters/1352,hele,knife (2)
+240-365,tong1325,http://concepticon.clld.org/parameters/1302,huhu kai,fork (2)
+240-942,tong1325,http://concepticon.clld.org/parameters/1302,foʔi maŋaua,fork (2)
+240-1212,tong1325,http://concepticon.clld.org/parameters/272,meʔa hiko meʔakai,tongs
+240-1116,tong1325,http://concepticon.clld.org/parameters/1526,ko e kai pe maʔu meʔatokoni,meal (a)
+240-517,tong1325,http://concepticon.clld.org/parameters/1322,pelekifasi,breakfast
+240-370,tong1325,http://concepticon.clld.org/parameters/768,kai hoʔatā,lunch
+240-243,tong1325,http://concepticon.clld.org/parameters/1833,tina,dinner
+240-1478,tong1325,http://concepticon.clld.org/parameters/1833,[sapa],supper
+240-255,tong1325,http://concepticon.clld.org/parameters/1833,kai efiafi,supper
+240-78,tong1325,http://concepticon.clld.org/parameters/275,fohi,peel
+240-58,tong1325,http://concepticon.clld.org/parameters/275,tele,peel
+240-624,tong1325,http://concepticon.clld.org/parameters/275,kili,peel
+240-1355,tong1325,http://concepticon.clld.org/parameters/86,[sivi],"sieve, strain"
+240-1321,tong1325,http://concepticon.clld.org/parameters/86,meʔa sivi,"sieve, strain"
+240-1499,tong1325,http://concepticon.clld.org/parameters/1767,vau,scrape
+240-838,tong1325,http://concepticon.clld.org/parameters/1767,meʔa vau faka-hamolemole,scrape
+240-552,tong1325,http://concepticon.clld.org/parameters/1767,faile,scrape
+240-674,tong1325,http://concepticon.clld.org/parameters/2017,heu,"stir, mix"
+240-1229,tong1325,http://concepticon.clld.org/parameters/2017,ʔai ke tuifio,"stir, mix"
+240-122,tong1325,http://concepticon.clld.org/parameters/2017,ŋaueʔi,"stir, mix"
+240-469,tong1325,http://concepticon.clld.org/parameters/1368,mā,bread
+240-324,tong1325,http://concepticon.clld.org/parameters/273,heuŋa mā,dough
+240-1010,tong1325,http://concepticon.clld.org/parameters/273,[tou],dough
+240-1448,tong1325,http://concepticon.clld.org/parameters/274,natu,knead
+240-738,tong1325,http://concepticon.clld.org/parameters/1594,mahoāʔa,"meal, flour"
+240-357,tong1325,http://concepticon.clld.org/parameters/1033,laiki,"crush, grind"
+240-1445,tong1325,http://concepticon.clld.org/parameters/1033,momosi,"crush, grind"
+240-388,tong1325,http://concepticon.clld.org/parameters/1033,tataʔo,"crush, grind"
+240-555,tong1325,http://concepticon.clld.org/parameters/1033,ōʔi,"crush, grind"
+240-329,tong1325,http://concepticon.clld.org/parameters/1033,fahi,"crush, grind"
+240-137,tong1325,http://concepticon.clld.org/parameters/1033,haveki,"crush, grind"
+240-158,tong1325,http://concepticon.clld.org/parameters/224,palasitā,mortar (2)
+240-313,tong1325,http://concepticon.clld.org/parameters/225,meʔa laiki,pestle
+240-691,tong1325,http://concepticon.clld.org/parameters/634,pulu,meat
+240-957,tong1325,http://concepticon.clld.org/parameters/1874,[sōsisi],sausage
+240-1178,tong1325,http://concepticon.clld.org/parameters/1547,[supo],"soup, broth"
+240-794,tong1325,http://concepticon.clld.org/parameters/924,[vesitapolo],vegetables
+240-955,tong1325,http://concepticon.clld.org/parameters/832,piini,bean
+240-504,tong1325,http://concepticon.clld.org/parameters/593,pateta,potato
+240-1392,tong1325,http://concepticon.clld.org/parameters/1507,foʔiʔakau,fruit
+240-525,tong1325,http://concepticon.clld.org/parameters/1966,fuhiŋa,bunch
+240-1021,tong1325,http://concepticon.clld.org/parameters/920,kālepi,grape
+240-262,tong1325,http://concepticon.clld.org/parameters/1154,[ʔolive],olive
+240-27,tong1325,http://concepticon.clld.org/parameters/323,ŋako,"grease, fat"
+240-1183,tong1325,http://concepticon.clld.org/parameters/323,sino,"grease, fat"
+240-1233,tong1325,http://concepticon.clld.org/parameters/323,feti,"grease, fat"
+240-77,tong1325,http://concepticon.clld.org/parameters/1274,māsima,salt
+240-1110,tong1325,http://concepticon.clld.org/parameters/1385,pepa ŋaohi kai,pepper
+240-273,tong1325,http://concepticon.clld.org/parameters/942,[hone],honey
+240-238,tong1325,http://concepticon.clld.org/parameters/862,[suka],sugar
+240-312,tong1325,http://concepticon.clld.org/parameters/635,huʔakau,milk (noun)
+240-886,tong1325,http://concepticon.clld.org/parameters/93,tatau,milk (vb)
+240-1405,tong1325,http://concepticon.clld.org/parameters/1569,siisi,cheese
+240-32,tong1325,http://concepticon.clld.org/parameters/1245,pata,butter
+240-1509,tong1325,http://concepticon.clld.org/parameters/1639,pia,beer
+240-1252,tong1325,http://concepticon.clld.org/parameters/404,mafu,fermented drink
+240-962,tong1325,http://concepticon.clld.org/parameters/404,faka-pala,fermented drink
+240-269,tong1325,http://concepticon.clld.org/parameters/404,faka-mafu,fermented drink
+240-536,tong1325,http://concepticon.clld.org/parameters/744,foʔimoa,egg
+240-430,tong1325,http://concepticon.clld.org/parameters/744,fuaʔimoa,egg
+240-1289,tong1325,http://concepticon.clld.org/parameters/1556,koŋa eŋeeŋa,egg yolk
+240-1378,tong1325,http://concepticon.clld.org/parameters/1556,ʔo e foʔimoa,egg yolk
+240-560,tong1325,http://concepticon.clld.org/parameters/158,tui,put on (clothes)
+240-653,tong1325,http://concepticon.clld.org/parameters/158,faka-valaʔi,put on (clothes)
+240-952,tong1325,http://concepticon.clld.org/parameters/158,faka-teuŋa,put on (clothes)
+240-760,tong1325,http://concepticon.clld.org/parameters/1895,vala,"clothing, clothes"
+240-1282,tong1325,http://concepticon.clld.org/parameters/1895,teuŋa,"clothing, clothes"
+240-770,tong1325,http://concepticon.clld.org/parameters/881,taŋata tuitui vala,tailor
+240-1,tong1325,http://concepticon.clld.org/parameters/1616,tupenu,cloth
+240-184,tong1325,http://concepticon.clld.org/parameters/964,fulufuluʔi [sipi],wool
+240-797,tong1325,http://concepticon.clld.org/parameters/916,tupenu [lineni],"linen, flax"
+240-698,tong1325,http://concepticon.clld.org/parameters/1850,filo,cotton
+240-1490,tong1325,http://concepticon.clld.org/parameters/1641,[silika],silk
+240-450,tong1325,http://concepticon.clld.org/parameters/580,fulufulu,fur
+240-1316,tong1325,http://concepticon.clld.org/parameters/629,[leta],leather
+240-140,tong1325,http://concepticon.clld.org/parameters/121,vilohi,spin
+240-523,tong1325,http://concepticon.clld.org/parameters/121,milohi,spin
+240-1297,tong1325,http://concepticon.clld.org/parameters/133,lālaŋa,weave
+240-203,tong1325,http://concepticon.clld.org/parameters/1457,tuitui,sew
+240-1058,tong1325,http://concepticon.clld.org/parameters/1382,hui tuitui,needle
+240-93,tong1325,http://concepticon.clld.org/parameters/1161,[filo],thread
+240-715,tong1325,http://concepticon.clld.org/parameters/1161,tuaine,thread
+240-616,tong1325,http://concepticon.clld.org/parameters/1161,tui kahoa,thread
+240-384,tong1325,http://concepticon.clld.org/parameters/157,faka-lanu,dye
+240-591,tong1325,http://concepticon.clld.org/parameters/326,pulupulu,cloak
+240-397,tong1325,http://concepticon.clld.org/parameters/326,kofu tōtōlofa,cloak
+240-1398,tong1325,http://concepticon.clld.org/parameters/474,kofu,woman's dress
+240-1282,tong1325,http://concepticon.clld.org/parameters/474,teuŋa,woman's dress
+240-465,tong1325,http://concepticon.clld.org/parameters/603,[kote],coat
+240-306,tong1325,http://concepticon.clld.org/parameters/1622,sote,shirt
+240-648,tong1325,http://concepticon.clld.org/parameters/2012,kola,collar
+240-19,tong1325,http://concepticon.clld.org/parameters/1600,piva,skirt
+240-826,tong1325,http://concepticon.clld.org/parameters/809,[talausese],trousers
+240-401,tong1325,http://concepticon.clld.org/parameters/329,sitōkeni,"stocking, sock"
+240-920,tong1325,http://concepticon.clld.org/parameters/1381,sū,shoe
+240-51,tong1325,http://concepticon.clld.org/parameters/1381,senitolo,shoe
+240-867,tong1325,http://concepticon.clld.org/parameters/585,puti (vaʔe),boot
+240-744,tong1325,http://concepticon.clld.org/parameters/2130,tatā,"hat, cap"
+240-281,tong1325,http://concepticon.clld.org/parameters/2130,kepi,"hat, cap"
+240-629,tong1325,http://concepticon.clld.org/parameters/772,leta,"belt, girdle"
+240-1475,tong1325,http://concepticon.clld.org/parameters/772,noʔo,"belt, girdle"
+240-1329,tong1325,http://concepticon.clld.org/parameters/772,sisi,"belt, girdle"
+240-732,tong1325,http://concepticon.clld.org/parameters/867,kofunima,glove
+240-528,tong1325,http://concepticon.clld.org/parameters/1151,pūlou,veil
+240-792,tong1325,http://concepticon.clld.org/parameters/1851,kato ʔi he sote,pocket
+240-1080,tong1325,http://concepticon.clld.org/parameters/757,faka-maʔu,button
+240-1516,tong1325,http://concepticon.clld.org/parameters/64,[pine],pin
+240-745,tong1325,http://concepticon.clld.org/parameters/917,teuteu,"ornament, adornment"
+240-1417,tong1325,http://concepticon.clld.org/parameters/917,meʔateuteu,"ornament, adornment"
+240-297,tong1325,http://concepticon.clld.org/parameters/1029,siueli,jewel
+240-598,tong1325,http://concepticon.clld.org/parameters/1754,vesa,bracelet
+240-882,tong1325,http://concepticon.clld.org/parameters/1961,kahoa,necklace
+240-1373,tong1325,http://concepticon.clld.org/parameters/1860,foʔi kula,bead
+240-434,tong1325,http://concepticon.clld.org/parameters/1860,kahoa kula,bead
+240-288,tong1325,http://concepticon.clld.org/parameters/770,hau,earring
+240-195,tong1325,http://concepticon.clld.org/parameters/330,maluʔi ʔo e ʔulu,"headband, headdress"
+240-1204,tong1325,http://concepticon.clld.org/parameters/330,teuteu ʔulu,"headband, headdress"
+240-862,tong1325,http://concepticon.clld.org/parameters/68,tātatau,tattoo
+240-999,tong1325,http://concepticon.clld.org/parameters/332,holoholo,"handkerchief, rag"
+240-1342,tong1325,http://concepticon.clld.org/parameters/332,koŋa tupenu,"handkerchief, rag"
+240-424,tong1325,http://concepticon.clld.org/parameters/1021,[taueli],towel
+240-820,tong1325,http://concepticon.clld.org/parameters/1475,helu,comb
+240-58,tong1325,http://concepticon.clld.org/parameters/151,tele,razor
+240-924,tong1325,http://concepticon.clld.org/parameters/1926,kilimi,ointment
+240-372,tong1325,http://concepticon.clld.org/parameters/1926,faitoʔo milimili ki he uoua,ointment
+240-891,tong1325,http://concepticon.clld.org/parameters/788,koa,soap
+240-1208,tong1325,http://concepticon.clld.org/parameters/788,koa fō,soap
+240-484,tong1325,http://concepticon.clld.org/parameters/1171,sioʔatasio,mirror
+240-152,tong1325,http://concepticon.clld.org/parameters/1099,nofo,"dwell, live"
+240-737,tong1325,http://concepticon.clld.org/parameters/1252,fale,house
+240-382,tong1325,http://concepticon.clld.org/parameters/1678,kiʔi fale,hut
+240-161,tong1325,http://concepticon.clld.org/parameters/1678,fale nofoʔaŋa,hut
+240-1210,tong1325,http://concepticon.clld.org/parameters/1316,[tēniti],tent
+240-1224,tong1325,http://concepticon.clld.org/parameters/736,ʔiate,"yard, court"
+240-576,tong1325,http://concepticon.clld.org/parameters/736,lotoʔā,"yard, court"
+240-1356,tong1325,http://concepticon.clld.org/parameters/736,sila ʔo e vakalā,"yard, court"
+240-1313,tong1325,http://concepticon.clld.org/parameters/334,peito,cookhouse
+240-488,tong1325,http://concepticon.clld.org/parameters/334,fale-[kuki],cookhouse
+240-404,tong1325,http://concepticon.clld.org/parameters/335,fale kava,meeting house
+240-1018,tong1325,http://concepticon.clld.org/parameters/335,hōtele,meeting house
+240-1327,tong1325,http://concepticon.clld.org/parameters/1450,kiʔi loki,room
+240-1334,tong1325,http://concepticon.clld.org/parameters/1450,foʔi ʔatā,room
+240-1039,tong1325,http://concepticon.clld.org/parameters/1450,ʔatā,room
+240-968,tong1325,http://concepticon.clld.org/parameters/1567,matapā,"door, gate"
+240-575,tong1325,http://concepticon.clld.org/parameters/1596,[loka],lock (noun)
+240-338,tong1325,http://concepticon.clld.org/parameters/1012,meʔa faka-maʔu,"latch, door-bolt"
+240-1194,tong1325,http://concepticon.clld.org/parameters/1012,polota (matapā),"latch, door-bolt"
+240-386,tong1325,http://concepticon.clld.org/parameters/1472,[kī],key
+240-206,tong1325,http://concepticon.clld.org/parameters/1632,faliki,floor
+240-1305,tong1325,http://concepticon.clld.org/parameters/933,hōlisi,wall
+240-1497,tong1325,http://concepticon.clld.org/parameters/859,sitou,stove
+240-331,tong1325,http://concepticon.clld.org/parameters/1305,pupū,chimney
+240-1219,tong1325,http://concepticon.clld.org/parameters/1305,siminí,chimney
+240-824,tong1325,http://concepticon.clld.org/parameters/1464,tuʔuŋa,ladder
+240-1161,tong1325,http://concepticon.clld.org/parameters/1663,moheŋa,bed
+240-227,tong1325,http://concepticon.clld.org/parameters/1663,moheŋa pēpē,bed
+240-1040,tong1325,http://concepticon.clld.org/parameters/1044,[pilo],pillow
+240-1161,tong1325,http://concepticon.clld.org/parameters/806,moheŋa,blanket
+240-1170,tong1325,http://concepticon.clld.org/parameters/806,kafu,blanket
+240-971,tong1325,http://concepticon.clld.org/parameters/1476,sea,chair
+240-416,tong1325,http://concepticon.clld.org/parameters/1476,nofoʔaŋa,chair
+240-1423,tong1325,http://concepticon.clld.org/parameters/1775,[tēpile],table
+240-23,tong1325,http://concepticon.clld.org/parameters/2131,huelo,"lamp, torch"
+240-263,tong1325,http://concepticon.clld.org/parameters/2131,maama,"lamp, torch"
+240-377,tong1325,http://concepticon.clld.org/parameters/2131,maama-mataŋi,"lamp, torch"
+240-992,tong1325,http://concepticon.clld.org/parameters/1273,teʔelaŋo,candle
+240-113,tong1325,http://concepticon.clld.org/parameters/745,laupapa,shelf
+240-514,tong1325,http://concepticon.clld.org/parameters/205,topu fō,trough
+240-1328,tong1325,http://concepticon.clld.org/parameters/769,ʔato,roof
+240-1328,tong1325,http://concepticon.clld.org/parameters/279,ʔato,thatch
+240-1473,tong1325,http://concepticon.clld.org/parameters/829,kahoki ʔo e fale,rafter
+240-1035,tong1325,http://concepticon.clld.org/parameters/1132,koŋa papa lahi,beam
+240-542,tong1325,http://concepticon.clld.org/parameters/1132,lōloa,beam
+240-1192,tong1325,http://concepticon.clld.org/parameters/281,[pou],"post, pole"
+240-1122,tong1325,http://concepticon.clld.org/parameters/1227,papa,board
+240-310,tong1325,http://concepticon.clld.org/parameters/1227,koŋa papa matolu,board
+240-1454,tong1325,http://concepticon.clld.org/parameters/1227,fālahi,board
+240-542,tong1325,http://concepticon.clld.org/parameters/1227,lōloa,board
+240-1094,tong1325,http://concepticon.clld.org/parameters/876,ʔaleso,arch
+240-1288,tong1325,http://concepticon.clld.org/parameters/876,tā,arch
+240-494,tong1325,http://concepticon.clld.org/parameters/1006,piliki,brick
+240-1217,tong1325,http://concepticon.clld.org/parameters/979,taŋata ŋoue,farmer
+240-204,tong1325,http://concepticon.clld.org/parameters/586,ŋoue,garden
+240-208,tong1325,http://concepticon.clld.org/parameters/1541,ŋoueʔi,"cultivate, till"
+240-127,tong1325,http://concepticon.clld.org/parameters/1690,ʔa,fence
+240-995,tong1325,http://concepticon.clld.org/parameters/1690,pa,fence
+240-301,tong1325,http://concepticon.clld.org/parameters/2002,luo tafeŋavai,ditch
+240-1459,tong1325,http://concepticon.clld.org/parameters/1921,[palau],plow
+240-1196,tong1325,http://concepticon.clld.org/parameters/1794,ʔotu kuo palauʔi,furrow
+240-234,tong1325,http://concepticon.clld.org/parameters/1418,keli,dig
+240-1322,tong1325,http://concepticon.clld.org/parameters/1176,huo sipeiti,spade
+240-676,tong1325,http://concepticon.clld.org/parameters/1901,huo tata,shovel
+240-1293,tong1325,http://concepticon.clld.org/parameters/1901,sāvolo,shovel
+240-499,tong1325,http://concepticon.clld.org/parameters/284,huo,hoe
+240-643,tong1325,http://concepticon.clld.org/parameters/338,meʔaŋāue ko e leiki,rake
+240-89,tong1325,http://concepticon.clld.org/parameters/748,lulu ha teŋaʔiʔakau,sow
+240-87,tong1325,http://concepticon.clld.org/parameters/714,fua ʔo e uite,seed
+240-1140,tong1325,http://concepticon.clld.org/parameters/714,koane,seed
+240-1524,tong1325,http://concepticon.clld.org/parameters/714,teŋaʔi ʔakau,seed
+240-684,tong1325,http://concepticon.clld.org/parameters/190,tā ʔa e ʔakau kuo motuʔa,"mow, reap"
+240-247,tong1325,http://concepticon.clld.org/parameters/611,fua ʔo e ŋoue,"crop, harvest"
+240-212,tong1325,http://concepticon.clld.org/parameters/611,polopolo ha ŋoue,"crop, harvest"
+240-1158,tong1325,http://concepticon.clld.org/parameters/932,paʔale,barley
+240-1027,tong1325,http://concepticon.clld.org/parameters/506,[koane],"maize, corn"
+240-1500,tong1325,http://concepticon.clld.org/parameters/926,[laise],rice
+240-56,tong1325,http://concepticon.clld.org/parameters/606,musie,grass
+240-1108,tong1325,http://concepticon.clld.org/parameters/342,musie mōmoa,hay
+240-1362,tong1325,http://concepticon.clld.org/parameters/653,ʔakau,plant (noun)
+240-16,tong1325,http://concepticon.clld.org/parameters/1486,tō,plant (vb)
+240-44,tong1325,http://concepticon.clld.org/parameters/670,aka,root
+240-101,tong1325,http://concepticon.clld.org/parameters/1531,vaʔa (ʔakau),branch
+240-95,tong1325,http://concepticon.clld.org/parameters/628,lau,leaf
+240-476,tong1325,http://concepticon.clld.org/parameters/628,hulu,leaf
+240-1496,tong1325,http://concepticon.clld.org/parameters/239,matala,flower
+240-246,tong1325,http://concepticon.clld.org/parameters/239,matala-ʔiʔakau,flower
+240-615,tong1325,http://concepticon.clld.org/parameters/906,fuʔu ʔakau,tree
+240-558,tong1325,http://concepticon.clld.org/parameters/644,ʔoke,oak
+240-1042,tong1325,http://concepticon.clld.org/parameters/343,fuʔu kālepi,vine
+240-438,tong1325,http://concepticon.clld.org/parameters/343,ʔakau totolo,vine
+240-830,tong1325,http://concepticon.clld.org/parameters/974,[tapaka],tobacco
+240-631,tong1325,http://concepticon.clld.org/parameters/1689,ifi tapaka,smoke (tobacco)
+240-1268,tong1325,http://concepticon.clld.org/parameters/1689,ʔahu,smoke (tobacco)
+240-1382,tong1325,http://concepticon.clld.org/parameters/1689,ifi paipa,smoke (tobacco)
+240-1052,tong1325,http://concepticon.clld.org/parameters/1124,[paipa],pipe
+240-979,tong1325,http://concepticon.clld.org/parameters/1124,pamu,pipe
+240-812,tong1325,http://concepticon.clld.org/parameters/241,tuŋaʔiʔakau,tree stump
+240-117,tong1325,http://concepticon.clld.org/parameters/344,potuʔi-ʔakau,tree trunk
+240-795,tong1325,http://concepticon.clld.org/parameters/344,sinoʔi ʔakau,tree trunk
+240-1069,tong1325,http://concepticon.clld.org/parameters/1204,kiliʔiʔakau,bark
+240-871,tong1325,http://concepticon.clld.org/parameters/345,toʔi,sap
+240-883,tong1325,http://concepticon.clld.org/parameters/345,toʔo ē ivi,sap
+240-843,tong1325,http://concepticon.clld.org/parameters/1181,[paame],palm tree
+240-139,tong1325,http://concepticon.clld.org/parameters/970,niu,coconut
+240-1096,tong1325,http://concepticon.clld.org/parameters/970,foʔi niu,coconut
+240-622,tong1325,http://concepticon.clld.org/parameters/1126,[lēmani],citrus fruit
+240-335,tong1325,http://concepticon.clld.org/parameters/1126,moli,citrus fruit
+240-549,tong1325,http://concepticon.clld.org/parameters/868,siaine,banana tree
+240-1367,tong1325,http://concepticon.clld.org/parameters/346,ʔōvava,banyan
+240-326,tong1325,http://concepticon.clld.org/parameters/159,kumala,sweet potato
+240-14,tong1325,http://concepticon.clld.org/parameters/410,ʔufi,yam
+240-967,tong1325,http://concepticon.clld.org/parameters/925,manioke,"tapioca, manioc, cassava"
+240-446,tong1325,http://concepticon.clld.org/parameters/411,faŋufaŋu,gourd
+240-632,tong1325,http://concepticon.clld.org/parameters/864,hina,"pumpkin, squash"
+240-357,tong1325,http://concepticon.clld.org/parameters/864,laiki,"pumpkin, squash"
+240-852,tong1325,http://concepticon.clld.org/parameters/864,faʔahiŋa hina ʔoku kai,"pumpkin, squash"
+240-1393,tong1325,http://concepticon.clld.org/parameters/1927,kofe,bamboo
+240-16,tong1325,http://concepticon.clld.org/parameters/146,tō,sugar cane
+240-349,tong1325,http://concepticon.clld.org/parameters/33,faka-ʔitaʔi,nettle
+240-733,tong1325,http://concepticon.clld.org/parameters/813,fai,"do, make"
+240-1409,tong1325,http://concepticon.clld.org/parameters/813,faʔu,"do, make"
+240-15,tong1325,http://concepticon.clld.org/parameters/813,ŋaohi/ ŋaahi,"do, make"
+240-114,tong1325,http://concepticon.clld.org/parameters/984,ŋāue,work
+240-1486,tong1325,http://concepticon.clld.org/parameters/2004,piko,bend
+240-708,tong1325,http://concepticon.clld.org/parameters/1470,pelupelu,fold
+240-189,tong1325,http://concepticon.clld.org/parameters/1917,haʔi,"tie, bind"
+240-1080,tong1325,http://concepticon.clld.org/parameters/1917,faka-maʔu,"tie, bind"
+240-410,tong1325,http://concepticon.clld.org/parameters/352,tukuaŋe,untie
+240-1184,tong1325,http://concepticon.clld.org/parameters/352,faka-homoki,untie
+240-123,tong1325,http://concepticon.clld.org/parameters/352,vete,untie
+240-530,tong1325,http://concepticon.clld.org/parameters/1627,sēini,chain
+240-1238,tong1325,http://concepticon.clld.org/parameters/1218,afo,"rope, cord"
+240-1320,tong1325,http://concepticon.clld.org/parameters/1218,uaea ʔuhila,"rope, cord"
+240-1480,tong1325,http://concepticon.clld.org/parameters/1218,maea [lafo],"rope, cord"
+240-715,tong1325,http://concepticon.clld.org/parameters/1218,tuaine,"rope, cord"
+240-303,tong1325,http://concepticon.clld.org/parameters/760,fihi,knot (noun)
+240-189,tong1325,http://concepticon.clld.org/parameters/760,haʔi,knot (noun)
+240-519,tong1325,http://concepticon.clld.org/parameters/760,noti,knot (noun)
+240-730,tong1325,http://concepticon.clld.org/parameters/2133,ta,"strike (hit, beat)"
+240-1213,tong1325,http://concepticon.clld.org/parameters/2133,tau,"strike (hit, beat)"
+240-1157,tong1325,http://concepticon.clld.org/parameters/2133,taaʔi,"strike (hit, beat)"
+240-1240,tong1325,http://concepticon.clld.org/parameters/2133,tukuŋāue,"strike (hit, beat)"
+240-1411,tong1325,http://concepticon.clld.org/parameters/1432,tuʔusi,cut
+240-1363,tong1325,http://concepticon.clld.org/parameters/1432,hifi,cut
+240-825,tong1325,http://concepticon.clld.org/parameters/1432,hele,cut
+240-771,tong1325,http://concepticon.clld.org/parameters/1432,lavea,cut
+240-1214,tong1325,http://concepticon.clld.org/parameters/1432,kosi,cut
+240-279,tong1325,http://concepticon.clld.org/parameters/1432,motuhi,cut
+240-1411,tong1325,http://concepticon.clld.org/parameters/355,tuʔusi,cut down
+240-1411,tong1325,http://concepticon.clld.org/parameters/155,tuʔusi,"chop, hew"
+240-1403,tong1325,http://concepticon.clld.org/parameters/1434,avaŋi,stab
+240-814,tong1325,http://concepticon.clld.org/parameters/1434,tuiʔi,stab
+240-898,tong1325,http://concepticon.clld.org/parameters/1434,mahuhu,stab
+240-1400,tong1325,http://concepticon.clld.org/parameters/1434,ʔahiʔahi,stab
+240-389,tong1325,http://concepticon.clld.org/parameters/1352,helepelu,knife
+240-673,tong1325,http://concepticon.clld.org/parameters/1352,hele tui,knife
+240-453,tong1325,http://concepticon.clld.org/parameters/1352,hele fufū,knife
+240-823,tong1325,http://concepticon.clld.org/parameters/356,helekosi,"scissors, shears"
+240-1267,tong1325,http://concepticon.clld.org/parameters/677,toki,ax
+240-1411,tong1325,http://concepticon.clld.org/parameters/677,tuʔusi,ax
+240-1267,tong1325,http://concepticon.clld.org/parameters/290,toki,adze
+240-332,tong1325,http://concepticon.clld.org/parameters/290,toki maka,adze
+240-587,tong1325,http://concepticon.clld.org/parameters/680,maumauʔi,break
+240-321,tong1325,http://concepticon.clld.org/parameters/1437,vaeuaʔi,split
+240-607,tong1325,http://concepticon.clld.org/parameters/1437,mafahi,split
+240-1123,tong1325,http://concepticon.clld.org/parameters/1437,fahiua,split
+240-329,tong1325,http://concepticon.clld.org/parameters/1437,fahi,split
+240-284,tong1325,http://concepticon.clld.org/parameters/1735,hae,tear
+240-904,tong1325,http://concepticon.clld.org/parameters/1735,mahae,tear
+240-586,tong1325,http://concepticon.clld.org/parameters/1735,haeʔi,tear
+240-1023,tong1325,http://concepticon.clld.org/parameters/291,fufuuʔi,"flay, skin"
+240-429,tong1325,http://concepticon.clld.org/parameters/1449,milimili,"rub, wipe"
+240-1115,tong1325,http://concepticon.clld.org/parameters/1455,toho,pull
+240-277,tong1325,http://concepticon.clld.org/parameters/1455,fusi,pull
+240-1168,tong1325,http://concepticon.clld.org/parameters/38,mafola,spread out
+240-1167,tong1325,http://concepticon.clld.org/parameters/38,fola,spread out
+240-1218,tong1325,http://concepticon.clld.org/parameters/357,tautau,hang up
+240-768,tong1325,http://concepticon.clld.org/parameters/1913,lomi,press
+240-388,tong1325,http://concepticon.clld.org/parameters/1913,tataʔo,press
+240-863,tong1325,http://concepticon.clld.org/parameters/1913,lolo,press
+240-799,tong1325,http://concepticon.clld.org/parameters/1414,faka-sisina,"squeeze, wring"
+240-232,tong1325,http://concepticon.clld.org/parameters/1414,fotaʔi,"squeeze, wring"
+240-1279,tong1325,http://concepticon.clld.org/parameters/1414,kokoʔi,"squeeze, wring"
+240-886,tong1325,http://concepticon.clld.org/parameters/1414,tatau,"squeeze, wring"
+240-1064,tong1325,http://concepticon.clld.org/parameters/1487,huaʔi,pour
+240-1513,tong1325,http://concepticon.clld.org/parameters/1487,liŋi ʔutu,pour
+240-810,tong1325,http://concepticon.clld.org/parameters/1487,faka-fonu,pour
+240-781,tong1325,http://concepticon.clld.org/parameters/1453,fufulu,wash
+240-859,tong1325,http://concepticon.clld.org/parameters/230,tafi,sweep
+240-18,tong1325,http://concepticon.clld.org/parameters/245,taufale,broom
+240-529,tong1325,http://concepticon.clld.org/parameters/1361,meʔaŋāue,tool
+240-1324,tong1325,http://concepticon.clld.org/parameters/1042,tufuŋa,carpenter
+240-721,tong1325,http://concepticon.clld.org/parameters/1501,vili,bore
+240-508,tong1325,http://concepticon.clld.org/parameters/46,avaŋoŋo,hollow out
+240-143,tong1325,http://concepticon.clld.org/parameters/46,foʔi taluo,hollow out
+240-624,tong1325,http://concepticon.clld.org/parameters/1948,kili,saw
+240-253,tong1325,http://concepticon.clld.org/parameters/1481,[hāmala],hammer
+240-1406,tong1325,http://concepticon.clld.org/parameters/502,faʔo,nail
+240-860,tong1325,http://concepticon.clld.org/parameters/502,foʔi faʔo,nail
+240-337,tong1325,http://concepticon.clld.org/parameters/502,tukifaʔo,nail
+240-409,tong1325,http://concepticon.clld.org/parameters/1069,[kulū],glue
+240-568,tong1325,http://concepticon.clld.org/parameters/1001,tokotaha tukiukamea,"smith, blacksmith"
+240-827,tong1325,http://concepticon.clld.org/parameters/288,tofunaŋa tukiukamea,forge
+240-1300,tong1325,http://concepticon.clld.org/parameters/1369,koula,gold
+240-1025,tong1325,http://concepticon.clld.org/parameters/1369,lanu koula,gold
+240-1353,tong1325,http://concepticon.clld.org/parameters/759,lanu kulokula fakapoʔupoʔuli,silver
+240-633,tong1325,http://concepticon.clld.org/parameters/1825,[kopa],"copper, bronze"
+240-304,tong1325,http://concepticon.clld.org/parameters/621,uokamea/ uakamea,iron
+240-922,tong1325,http://concepticon.clld.org/parameters/621,ʔaione,iron
+240-25,tong1325,http://concepticon.clld.org/parameters/627,[pulu],lead (noun)
+240-671,tong1325,http://concepticon.clld.org/parameters/358,kapa,"tin, tinplate"
+240-1511,tong1325,http://concepticon.clld.org/parameters/1399,ʔumea,clay
+240-705,tong1325,http://concepticon.clld.org/parameters/604,sioʔata,glass
+240-163,tong1325,http://concepticon.clld.org/parameters/604,ipu sioʔata,glass
+240-66,tong1325,http://concepticon.clld.org/parameters/1729,fī,"weave, plait"
+240-1134,tong1325,http://concepticon.clld.org/parameters/1539,kato,basket
+240-735,tong1325,http://concepticon.clld.org/parameters/195,fala,mat
+240-1258,tong1325,http://concepticon.clld.org/parameters/195,fala faliki,mat
+240-1161,tong1325,http://concepticon.clld.org/parameters/195,moheŋa,mat
+240-1122,tong1325,http://concepticon.clld.org/parameters/195,papa,mat
+240-608,tong1325,http://concepticon.clld.org/parameters/292,[kāpeti],rug
+240-298,tong1325,http://concepticon.clld.org/parameters/292,sipi kafu,rug
+240-1461,tong1325,http://concepticon.clld.org/parameters/292,koŋa [kāpeti],rug
+240-257,tong1325,http://concepticon.clld.org/parameters/360,tapilipili,fan (vb)
+240-635,tong1325,http://concepticon.clld.org/parameters/228,tātoŋitoŋi,carve
+240-1030,tong1325,http://concepticon.clld.org/parameters/1002,ʔimisi,statue
+240-1100,tong1325,http://concepticon.clld.org/parameters/1002,maka faka-manatu mo e ʔimisi,statue
+240-340,tong1325,http://concepticon.clld.org/parameters/1979,tutuʔu,chisel
+240-756,tong1325,http://concepticon.clld.org/parameters/647,vali,paint (noun)
+240-1091,tong1325,http://concepticon.clld.org/parameters/765,ŋaue,move
+240-636,tong1325,http://concepticon.clld.org/parameters/765,ʔunu,move
+240-1339,tong1325,http://concepticon.clld.org/parameters/1588,fulihi,turn over
+240-1078,tong1325,http://concepticon.clld.org/parameters/1588,fokihi,turn over
+240-774,tong1325,http://concepticon.clld.org/parameters/1113,kofukofu/ kofu,"wind, wrap"
+240-591,tong1325,http://concepticon.clld.org/parameters/1113,pulupulu,"wind, wrap"
+240-1255,tong1325,http://concepticon.clld.org/parameters/827,takai,roll
+240-816,tong1325,http://concepticon.clld.org/parameters/827,teka,roll
+240-83,tong1325,http://concepticon.clld.org/parameters/808,faka-hifo,drop (vb)
+240-1109,tong1325,http://concepticon.clld.org/parameters/808,faka-tooki,drop (vb)
+240-523,tong1325,http://concepticon.clld.org/parameters/430,milohi,twist
+240-1249,tong1325,http://concepticon.clld.org/parameters/568,hake,rise
+240-1017,tong1325,http://concepticon.clld.org/parameters/568,ʔalu ki ʔoluŋa,rise
+240-149,tong1325,http://concepticon.clld.org/parameters/501,hiki,"raise, lift"
+240-871,tong1325,http://concepticon.clld.org/parameters/2253,toʔi,drip
+240-755,tong1325,http://concepticon.clld.org/parameters/1456,lī,throw
+240-1452,tong1325,http://concepticon.clld.org/parameters/1456,laku,throw
+240-1278,tong1325,http://concepticon.clld.org/parameters/1456,toloŋi,throw
+240-788,tong1325,http://concepticon.clld.org/parameters/702,puke,catch (ball)
+240-1082,tong1325,http://concepticon.clld.org/parameters/702,hapo,catch (ball)
+240-1180,tong1325,http://concepticon.clld.org/parameters/1909,ŋalulu,shake
+240-1128,tong1325,http://concepticon.clld.org/parameters/1909,tete,shake
+240-998,tong1325,http://concepticon.clld.org/parameters/1909,lulu,shake
+240-857,tong1325,http://concepticon.clld.org/parameters/2003,tafe,flow
+240-90,tong1325,http://concepticon.clld.org/parameters/1088,ŋoto,sink
+240-458,tong1325,http://concepticon.clld.org/parameters/1574,faka-tētē,float
+240-1384,tong1325,http://concepticon.clld.org/parameters/1439,kakau,swim
+240-900,tong1325,http://concepticon.clld.org/parameters/119,hopo tūʔulu,dive
+240-493,tong1325,http://concepticon.clld.org/parameters/119,uku,dive
+240-239,tong1325,http://concepticon.clld.org/parameters/365,pihi,splash
+240-68,tong1325,http://concepticon.clld.org/parameters/787,hola,sail (vb)
+240-694,tong1325,http://concepticon.clld.org/parameters/1441,faka-puna,fly (vb)
+240-481,tong1325,http://concepticon.clld.org/parameters/1441,puna,fly (vb)
+240-1159,tong1325,http://concepticon.clld.org/parameters/175,puhi,blow
+240-1432,tong1325,http://concepticon.clld.org/parameters/96,totolo,"creep, crawl"
+240-985,tong1325,http://concepticon.clld.org/parameters/66,tuʔulutui,kneel
+240-984,tong1325,http://concepticon.clld.org/parameters/1324,hekea,"slide, slip"
+240-330,tong1325,http://concepticon.clld.org/parameters/1324,meʔa faka-paheke,"slide, slip"
+240-759,tong1325,http://concepticon.clld.org/parameters/1324,hekeheke,"slide, slip"
+240-481,tong1325,http://concepticon.clld.org/parameters/1829,puna,"jump, leap"
+240-1232,tong1325,http://concepticon.clld.org/parameters/1829,puna faka-laka,"jump, leap"
+240-953,tong1325,http://concepticon.clld.org/parameters/1135,ʔaka,kick
+240-1526,tong1325,http://concepticon.clld.org/parameters/1879,hulohula,dance
+240-1317,tong1325,http://concepticon.clld.org/parameters/1879,faiva,dance
+240-803,tong1325,http://concepticon.clld.org/parameters/1443,ʔalu,walk
+240-1386,tong1325,http://concepticon.clld.org/parameters/1443,lue,walk
+240-1419,tong1325,http://concepticon.clld.org/parameters/1443,maŋa,walk
+240-1447,tong1325,http://concepticon.clld.org/parameters/1443,laka,walk
+240-1360,tong1325,http://concepticon.clld.org/parameters/1519,lele,run
+240-803,tong1325,http://concepticon.clld.org/parameters/695,ʔalu,go
+240-1386,tong1325,http://concepticon.clld.org/parameters/695,lue,go
+240-196,tong1325,http://concepticon.clld.org/parameters/1102,kaka,climb
+240-1365,tong1325,http://concepticon.clld.org/parameters/2014,hifo,go down
+240-656,tong1325,http://concepticon.clld.org/parameters/2014,fāhifo,go down
+240-285,tong1325,http://concepticon.clld.org/parameters/2014,hifo ki lalo,go down
+240-188,tong1325,http://concepticon.clld.org/parameters/1446,haʔu,come
+240-621,tong1325,http://concepticon.clld.org/parameters/581,foki mai,come back
+240-625,tong1325,http://concepticon.clld.org/parameters/1752,mavahe atu,"go away, depart"
+240-1095,tong1325,http://concepticon.clld.org/parameters/1752,tukufolau,"go away, depart"
+240-1441,tong1325,http://concepticon.clld.org/parameters/1752,ʔalu mamaʔo,"go away, depart"
+240-687,tong1325,http://concepticon.clld.org/parameters/485,puli,disappear
+240-283,tong1325,http://concepticon.clld.org/parameters/485,puli vave,disappear
+240-141,tong1325,http://concepticon.clld.org/parameters/485,mole atu,disappear
+240-68,tong1325,http://concepticon.clld.org/parameters/956,hola,flee
+240-1520,tong1325,http://concepticon.clld.org/parameters/1085,muimui,follow
+240-949,tong1325,http://concepticon.clld.org/parameters/1047,tulimui,pursue
+240-1213,tong1325,http://concepticon.clld.org/parameters/1387,tau,"reach, arrive"
+240-1247,tong1325,http://concepticon.clld.org/parameters/1387,aʔu,"reach, arrive"
+240-664,tong1325,http://concepticon.clld.org/parameters/1778,faka-ofiofi,approach
+240-362,tong1325,http://concepticon.clld.org/parameters/749,hū,enter
+240-872,tong1325,http://concepticon.clld.org/parameters/700,toʔo,carry (bear)
+240-149,tong1325,http://concepticon.clld.org/parameters/700,hiki,carry (bear)
+240-1099,tong1325,http://concepticon.clld.org/parameters/700,uta,carry (bear)
+240-1005,tong1325,http://concepticon.clld.org/parameters/700,fua,carry (bear)
+240-1005,tong1325,http://concepticon.clld.org/parameters/412,fua,carry-in-hand
+240-67,tong1325,http://concepticon.clld.org/parameters/413,hole,carry-on-shoulder
+240-1085,tong1325,http://concepticon.clld.org/parameters/415,ʔefi,carry-underarm
+240-3,tong1325,http://concepticon.clld.org/parameters/692,ʔomai ~ mai,bring
+240-1092,tong1325,http://concepticon.clld.org/parameters/1127,ʔave,send
+240-293,tong1325,http://concepticon.clld.org/parameters/43,taki,lead (vb)
+240-457,tong1325,http://concepticon.clld.org/parameters/741,tuli mamaʔo,drive
+240-981,tong1325,http://concepticon.clld.org/parameters/367,heka,ride
+240-815,tong1325,http://concepticon.clld.org/parameters/1452,teke,"push, shove"
+240-618,tong1325,http://concepticon.clld.org/parameters/1452,tekeʔi ki mui,"push, shove"
+240-456,tong1325,http://concepticon.clld.org/parameters/667,hala,road
+240-354,tong1325,http://concepticon.clld.org/parameters/2252,kiʔi hala,path
+240-237,tong1325,http://concepticon.clld.org/parameters/1011,halafakakavakava,bridge
+240-1470,tong1325,http://concepticon.clld.org/parameters/122,sāliote,"carriage, wagon, cart"
+240-1111,tong1325,http://concepticon.clld.org/parameters/122,fale fonoŋa (lēlue),"carriage, wagon, cart"
+240-486,tong1325,http://concepticon.clld.org/parameters/1769,ʔakisela,axle
+240-160,tong1325,http://concepticon.clld.org/parameters/14,haʔamo,yoke
+240-1074,tong1325,http://concepticon.clld.org/parameters/740,sitima,ship
+240-415,tong1325,http://concepticon.clld.org/parameters/740,vaka,ship
+240-415,tong1325,http://concepticon.clld.org/parameters/1844,vaka,boat
+240-1079,tong1325,http://concepticon.clld.org/parameters/1844,vaka ʔaʔalo,boat
+240-571,tong1325,http://concepticon.clld.org/parameters/1970,pōpao,canoe
+240-1379,tong1325,http://concepticon.clld.org/parameters/1664,lafalafa,raft
+240-1228,tong1325,http://concepticon.clld.org/parameters/1664,vakavakaʔāmei,raft
+240-82,tong1325,http://concepticon.clld.org/parameters/108,fohe,oar
+240-82,tong1325,http://concepticon.clld.org/parameters/234,fohe,paddle (noun)
+240-487,tong1325,http://concepticon.clld.org/parameters/1849,ʔaʔalo,row (vb)
+240-463,tong1325,http://concepticon.clld.org/parameters/108,foheʔuli,rudder
+240-613,tong1325,http://concepticon.clld.org/parameters/184,fanā,mast
+240-118,tong1325,http://concepticon.clld.org/parameters/786,lā,sail (noun)
+240-126,tong1325,http://concepticon.clld.org/parameters/1870,taula,anchor
+240-651,tong1325,http://concepticon.clld.org/parameters/610,taulaŋa,"harbor, port"
+240-483,tong1325,http://concepticon.clld.org/parameters/684,meʔa ʔaʔata,"own, possess"
+240-1443,tong1325,http://concepticon.clld.org/parameters/684,maʔu maʔata,"own, possess"
+240-1092,tong1325,http://concepticon.clld.org/parameters/1749,ʔave,take
+240-872,tong1325,http://concepticon.clld.org/parameters/1749,toʔo,take
+240-363,tong1325,http://concepticon.clld.org/parameters/1749,inu pe folo,take
+240-856,tong1325,http://concepticon.clld.org/parameters/2021,puke ʔaki e nima,"seize, grasp"
+240-307,tong1325,http://concepticon.clld.org/parameters/2021,puke faka-mālohi,"seize, grasp"
+240-1422,tong1325,http://concepticon.clld.org/parameters/1448,kuku,hold
+240-228,tong1325,http://concepticon.clld.org/parameters/1448,pukepuke,hold
+240-619,tong1325,http://concepticon.clld.org/parameters/694,maʔu mai,"get, obtain"
+240-516,tong1325,http://concepticon.clld.org/parameters/1477,tauhi,"keep, retain"
+240-551,tong1325,http://concepticon.clld.org/parameters/738,meʔa,thing
+240-932,tong1325,http://concepticon.clld.org/parameters/738,ha meʔa,thing
+240-1151,tong1325,http://concepticon.clld.org/parameters/1447,ʔomai kiate au,give
+240-165,tong1325,http://concepticon.clld.org/parameters/2008,faka-haofi,"save, rescue"
+240-842,tong1325,http://concepticon.clld.org/parameters/681,faka-ʔauha,destroy
+240-587,tong1325,http://concepticon.clld.org/parameters/44,maumauʔi,"harm, injure, damage"
+240-62,tong1325,http://concepticon.clld.org/parameters/44,faka-laveaʔi,"harm, injure, damage"
+240-74,tong1325,http://concepticon.clld.org/parameters/44,faka-mamahiʔi,"harm, injure, damage"
+240-729,tong1325,http://concepticon.clld.org/parameters/1468,kumi,"seek, look for"
+240-729,tong1325,http://concepticon.clld.org/parameters/719,kumi,find
+240-840,tong1325,http://concepticon.clld.org/parameters/719,ʔilo,find
+240-339,tong1325,http://concepticon.clld.org/parameters/1660,mole,lose
+240-289,tong1325,http://concepticon.clld.org/parameters/1660,pulia,lose
+240-128,tong1325,http://concepticon.clld.org/parameters/1559,paʔaŋa,money
+240-462,tong1325,http://concepticon.clld.org/parameters/1867,silini,coin
+240-498,tong1325,http://concepticon.clld.org/parameters/1867,sēniti,coin
+240-994,tong1325,http://concepticon.clld.org/parameters/712,maʔumeʔa,rich
+240-308,tong1325,http://concepticon.clld.org/parameters/1674,kau masiva,poor
+240-121,tong1325,http://concepticon.clld.org/parameters/1934,tokotaha moʔuiʔaki,beggar
+240-543,tong1325,http://concepticon.clld.org/parameters/1934,ʔa e faʔa kole,beggar
+240-180,tong1325,http://concepticon.clld.org/parameters/1774,taha nima-maʔu,"avaricious, stingy"
+240-1044,tong1325,http://concepticon.clld.org/parameters/582,ʔoaŋe ke ŋāueʔaki faka-taimi,lend
+240-1359,tong1325,http://concepticon.clld.org/parameters/1823,kole ke ŋāueʔaki,borrow
+240-1290,tong1325,http://concepticon.clld.org/parameters/369,moʔua,owe
+240-1290,tong1325,http://concepticon.clld.org/parameters/1914,moʔua,debt
+240-197,tong1325,http://concepticon.clld.org/parameters/718,totoŋi,pay (vb)
+240-1290,tong1325,http://concepticon.clld.org/parameters/1081,moʔua,"account, reckoning"
+240-928,tong1325,http://concepticon.clld.org/parameters/1122,totoŋi ŋāue,wages
+240-807,tong1325,http://concepticon.clld.org/parameters/1122,vāheŋa,wages
+240-1391,tong1325,http://concepticon.clld.org/parameters/733,ŋāueʔi,earn
+240-541,tong1325,http://concepticon.clld.org/parameters/1869,faka-tau,buy
+240-132,tong1325,http://concepticon.clld.org/parameters/1571,faka-tau atu,sell
+240-1482,tong1325,http://concepticon.clld.org/parameters/2135,fetoŋi koloa,"trade, barter"
+240-135,tong1325,http://concepticon.clld.org/parameters/1082,tokotaha pisinisi koloa,merchant
+240-582,tong1325,http://concepticon.clld.org/parameters/1082,tauhikoloa,merchant
+240-280,tong1325,http://concepticon.clld.org/parameters/633,[māketi],market (place)
+240-1402,tong1325,http://concepticon.clld.org/parameters/752,fale-koloa,"store, shop"
+240-197,tong1325,http://concepticon.clld.org/parameters/657,totoŋi,price
+240-1269,tong1325,http://concepticon.clld.org/parameters/1426,mamafa,"dear (costly, expensive)"
+240-1150,tong1325,http://concepticon.clld.org/parameters/1887,maʔamaʔa,cheap
+240-1457,tong1325,http://concepticon.clld.org/parameters/1887,maʔamaʔa hono totoŋi,cheap
+240-890,tong1325,http://concepticon.clld.org/parameters/884,tufotufa,share (distribute)
+240-1295,tong1325,http://concepticon.clld.org/parameters/884,vahevahe,share (distribute)
+240-1440,tong1325,http://concepticon.clld.org/parameters/1098,fua ke ʔilo hono mamafa,weigh
+240-864,tong1325,http://concepticon.clld.org/parameters/1685,hili,after
+240-57,tong1325,http://concepticon.clld.org/parameters/1685,ʔosi,after
+240-215,tong1325,http://concepticon.clld.org/parameters/723,mui,behind
+240-497,tong1325,http://concepticon.clld.org/parameters/723,ʔi mui,behind
+240-20,tong1325,http://concepticon.clld.org/parameters/1816,ʔi he veʔe,beside
+240-210,tong1325,http://concepticon.clld.org/parameters/1816,ofi ki,beside
+240-220,tong1325,http://concepticon.clld.org/parameters/1326,ʔi lalo,"down, below"
+240-1131,tong1325,http://concepticon.clld.org/parameters/1326,ki lalo,"down, below"
+240-80,tong1325,http://concepticon.clld.org/parameters/1882,ʔi muʔa,before
+240-26,tong1325,http://concepticon.clld.org/parameters/1882,ki muʔa,before
+240-320,tong1325,http://concepticon.clld.org/parameters/1019,muʔa,front
+240-80,tong1325,http://concepticon.clld.org/parameters/1019,ʔi muʔa,front
+240-125,tong1325,http://concepticon.clld.org/parameters/1606,ʔi,"inside, in"
+240-254,tong1325,http://concepticon.clld.org/parameters/1606,ʔi loto,"inside, in"
+240-686,tong1325,http://concepticon.clld.org/parameters/1606,ko loto,"inside, in"
+240-102,tong1325,http://concepticon.clld.org/parameters/762,ko tuʔa,outside
+240-1481,tong1325,http://concepticon.clld.org/parameters/762,mavahe mei fale,outside
+240-658,tong1325,http://concepticon.clld.org/parameters/762,ko natula,outside
+240-220,tong1325,http://concepticon.clld.org/parameters/1485,ʔi lalo,under
+240-1135,tong1325,http://concepticon.clld.org/parameters/1591,ʔoluŋa,"up, above"
+240-1449,tong1325,http://concepticon.clld.org/parameters/1591,ki ʔoluŋa,"up, above"
+240-824,tong1325,http://concepticon.clld.org/parameters/723,tuʔuŋa,place
+240-974,tong1325,http://concepticon.clld.org/parameters/723,tuʔuʔaŋa,place
+240-908,tong1325,http://concepticon.clld.org/parameters/723,feituʔu,place
+240-1067,tong1325,http://concepticon.clld.org/parameters/723,lakaŋa,place
+240-1022,tong1325,http://concepticon.clld.org/parameters/998,tuku,put
+240-1503,tong1325,http://concepticon.clld.org/parameters/1416,taŋutu,sit
+240-981,tong1325,http://concepticon.clld.org/parameters/1416,heka,sit
+240-996,tong1325,http://concepticon.clld.org/parameters/215,tokoto,lie down
+240-950,tong1325,http://concepticon.clld.org/parameters/215,tokoto ki lalo,lie down
+240-1412,tong1325,http://concepticon.clld.org/parameters/215,tuku ki lalo,lie down
+240-912,tong1325,http://concepticon.clld.org/parameters/215,palāleli,lie down
+240-945,tong1325,http://concepticon.clld.org/parameters/1442,tuʔu,stand
+240-1120,tong1325,http://concepticon.clld.org/parameters/1442,tuʔu hake,stand
+240-423,tong1325,http://concepticon.clld.org/parameters/1442,tuʔu tonu,stand
+240-152,tong1325,http://concepticon.clld.org/parameters/987,nofo,"remain, stay"
+240-1081,tong1325,http://concepticon.clld.org/parameters/838,toeŋa,"remains, left overs"
+240-1112,tong1325,http://concepticon.clld.org/parameters/838,toeŋa meʔakai,"remains, left overs"
+240-373,tong1325,http://concepticon.clld.org/parameters/7,tānaki,"collect, gather"
+240-849,tong1325,http://concepticon.clld.org/parameters/371,toʔo hake,pick up
+240-1048,tong1325,http://concepticon.clld.org/parameters/1576,tānaki ke fokotuʔuna,pile up
+240-923,tong1325,http://concepticon.clld.org/parameters/1743,kau,"join, unite"
+240-588,tong1325,http://concepticon.clld.org/parameters/1743,hoko,"join, unite"
+240-547,tong1325,http://concepticon.clld.org/parameters/1743,faka-taha,"join, unite"
+240-1262,tong1325,http://concepticon.clld.org/parameters/1359,kehekehe,separate
+240-1525,tong1325,http://concepticon.clld.org/parameters/1359,māvae,separate
+240-1430,tong1325,http://concepticon.clld.org/parameters/1359,faka-mavahe,separate
+240-1295,tong1325,http://concepticon.clld.org/parameters/1119,vahevahe,divide
+240-147,tong1325,http://concepticon.clld.org/parameters/1156,faka-ava,open
+240-1325,tong1325,http://concepticon.clld.org/parameters/1046,tāpuni,"shut, close"
+240-1028,tong1325,http://concepticon.clld.org/parameters/761,ʔufiʔufi,cover
+240-1023,tong1325,http://concepticon.clld.org/parameters/602,fufuuʔi,"hide, conceal"
+240-1349,tong1325,http://concepticon.clld.org/parameters/1265,māʔoluŋa,high
+240-468,tong1325,http://concepticon.clld.org/parameters/721,maʔulalo,low
+240-931,tong1325,http://concepticon.clld.org/parameters/1753,tumutumu,top
+240-778,tong1325,http://concepticon.clld.org/parameters/1753,fuŋa,top
+240-1458,tong1325,http://concepticon.clld.org/parameters/742,ŋataʔaŋa,end
+240-215,tong1325,http://concepticon.clld.org/parameters/372,mui,pointed
+240-1070,tong1325,http://concepticon.clld.org/parameters/372,hikuhiku,pointed
+240-1354,tong1325,http://concepticon.clld.org/parameters/863,tapa,edge
+240-858,tong1325,http://concepticon.clld.org/parameters/863,tafa,edge
+240-724,tong1325,http://concepticon.clld.org/parameters/863,mataʔihele,edge
+240-1155,tong1325,http://concepticon.clld.org/parameters/863,matavao,edge
+240-186,tong1325,http://concepticon.clld.org/parameters/863,ŋutuŋutu,edge
+240-661,tong1325,http://concepticon.clld.org/parameters/682,tafaʔaki,side
+240-4,tong1325,http://concepticon.clld.org/parameters/682,faʔahi,side
+240-1474,tong1325,http://concepticon.clld.org/parameters/1093,lotomālie,"middle, center"
+240-837,tong1325,http://concepticon.clld.org/parameters/1093,uho,"middle, center"
+240-1299,tong1325,http://concepticon.clld.org/parameters/1093,koŋaloto,"middle, center"
+240-6,tong1325,http://concepticon.clld.org/parameters/1019,tafaʔaki mataʔu,right (side)
+240-425,tong1325,http://concepticon.clld.org/parameters/244,toʔohema,left (side)
+240-1436,tong1325,http://concepticon.clld.org/parameters/1942,ofi,near (adv)
+240-620,tong1325,http://concepticon.clld.org/parameters/1406,mamaʔo,far (adv)
+240-166,tong1325,http://concepticon.clld.org/parameters/1877,hahake,east
+240-709,tong1325,http://concepticon.clld.org/parameters/1877,[ʔisite],east
+240-47,tong1325,http://concepticon.clld.org/parameters/1817,hihifo,west
+240-492,tong1325,http://concepticon.clld.org/parameters/1817,lulunga,west
+240-1130,tong1325,http://concepticon.clld.org/parameters/1598,tokelau,north
+240-602,tong1325,http://concepticon.clld.org/parameters/1598,noate,north
+240-926,tong1325,http://concepticon.clld.org/parameters/1595,tonga,south
+240-244,tong1325,http://concepticon.clld.org/parameters/1595,saute,south
+240-685,tong1325,http://concepticon.clld.org/parameters/479,tupu,grow
+240-1005,tong1325,http://concepticon.clld.org/parameters/1506,fua,measure
+240-22,tong1325,http://concepticon.clld.org/parameters/1506,meʔafua,measure
+240-408,tong1325,http://concepticon.clld.org/parameters/1506,sikeili,measure
+240-1435,tong1325,http://concepticon.clld.org/parameters/81,ofa,"span, fathom"
+240-669,tong1325,http://concepticon.clld.org/parameters/81,mākupusi,"span, fathom"
+240-258,tong1325,http://concepticon.clld.org/parameters/1202,lahi,"large, big"
+240-564,tong1325,http://concepticon.clld.org/parameters/1202,lahi tōtuʔa,"large, big"
+240-951,tong1325,http://concepticon.clld.org/parameters/1246,siʔisiʔi,"small, little"
+240-466,tong1325,http://concepticon.clld.org/parameters/1246,siʔi,"small, little"
+240-542,tong1325,http://concepticon.clld.org/parameters/1203,lōloa,long
+240-50,tong1325,http://concepticon.clld.org/parameters/1203,fuoloa,long
+240-542,tong1325,http://concepticon.clld.org/parameters/711,lōloa,tall
+240-535,tong1325,http://concepticon.clld.org/parameters/711,maʔoluŋa,tall
+240-1311,tong1325,http://concepticon.clld.org/parameters/1267,fāsiʔi,narrow
+240-374,tong1325,http://concepticon.clld.org/parameters/1244,matolu,thick (in dimension)
+240-948,tong1325,http://concepticon.clld.org/parameters/1400,pahauhau,thin (in dimension)
+240-1466,tong1325,http://concepticon.clld.org/parameters/1400,fōsiʔi,thin (in dimension)
+240-1098,tong1325,http://concepticon.clld.org/parameters/1400,manifi,thin (in dimension)
+240-707,tong1325,http://concepticon.clld.org/parameters/1593,loloto,deep
+240-817,tong1325,http://concepticon.clld.org/parameters/193,mamaha,shallow
+240-1379,tong1325,http://concepticon.clld.org/parameters/1633,lafalafa,flat
+240-987,tong1325,http://concepticon.clld.org/parameters/1404,haŋatonu,straight
+240-1486,tong1325,http://concepticon.clld.org/parameters/297,piko,crooked
+240-780,tong1325,http://concepticon.clld.org/parameters/297,taʔetotonu,crooked
+240-1521,tong1325,http://concepticon.clld.org/parameters/192,tuliki,corner
+240-734,tong1325,http://concepticon.clld.org/parameters/1367,[kolosi],cross
+240-358,tong1325,http://concepticon.clld.org/parameters/1367,[koluse],cross
+240-878,tong1325,http://concepticon.clld.org/parameters/850,tapafā,square
+240-527,tong1325,http://concepticon.clld.org/parameters/1395,fuopotopoto,round
+240-345,tong1325,http://concepticon.clld.org/parameters/1467,siakale,circle
+240-527,tong1325,http://concepticon.clld.org/parameters/1467,fuopotopoto,circle
+240-691,tong1325,http://concepticon.clld.org/parameters/1845,pulu,"sphere, ball"
+240-696,tong1325,http://concepticon.clld.org/parameters/1845,kolope,"sphere, ball"
+240-1055,tong1325,http://concepticon.clld.org/parameters/1845,meʔa fuopotopoto,"sphere, ball"
+240-1097,tong1325,http://concepticon.clld.org/parameters/1048,ʔotu,line
+240-1425,tong1325,http://concepticon.clld.org/parameters/1667,ava,hole
+240-1143,tong1325,http://concepticon.clld.org/parameters/1667,keliʔaŋa,hole
+240-1468,tong1325,http://concepticon.clld.org/parameters/1558,vātatau,"like, similar"
+240-544,tong1325,http://concepticon.clld.org/parameters/1264,liliu,change
+240-455,tong1325,http://concepticon.clld.org/parameters/1294,noa,"zero, nothing"
+240-881,tong1325,http://concepticon.clld.org/parameters/1515,taha,one
+240-1106,tong1325,http://concepticon.clld.org/parameters/1498,ua,two
+240-28,tong1325,http://concepticon.clld.org/parameters/492,tolu,three
+240-894,tong1325,http://concepticon.clld.org/parameters/1500,fā,four
+240-448,tong1325,http://concepticon.clld.org/parameters/493,nima,five
+240-485,tong1325,http://concepticon.clld.org/parameters/1703,ono,six
+240-1242,tong1325,http://concepticon.clld.org/parameters/1704,fitu,seven
+240-765,tong1325,http://concepticon.clld.org/parameters/1705,valu,eight
+240-1154,tong1325,http://concepticon.clld.org/parameters/1483,hiva,nine
+240-1057,tong1325,http://concepticon.clld.org/parameters/1515,hoŋofulu,ten
+240-181,tong1325,http://concepticon.clld.org/parameters/1706,hoŋofulu mā taha,eleven
+240-844,tong1325,http://concepticon.clld.org/parameters/1706,taha taha,eleven
+240-1142,tong1325,http://concepticon.clld.org/parameters/1707,taha ua,twelve
+240-614,tong1325,http://concepticon.clld.org/parameters/1707,hoŋofulu mā ua,twelve
+240-1259,tong1325,http://concepticon.clld.org/parameters/1707,[tōseni],twelve
+240-668,tong1325,http://concepticon.clld.org/parameters/1709,hoŋofulu mā nima,fifteen
+240-272,tong1325,http://concepticon.clld.org/parameters/1709,taha nima,fifteen
+240-454,tong1325,http://concepticon.clld.org/parameters/1710,uofulu,twenty
+240-604,tong1325,http://concepticon.clld.org/parameters/1710,ua noa,twenty
+240-380,tong1325,http://concepticon.clld.org/parameters/1634,teau,hundred
+240-240,tong1325,http://concepticon.clld.org/parameters/1843,taha-afe,thousand
+240-95,tong1325,http://concepticon.clld.org/parameters/1420,lau,count
+240-763,tong1325,http://concepticon.clld.org/parameters/98,kātoa,"every, all"
+240-1358,tong1325,http://concepticon.clld.org/parameters/98,hono kātoa,"every, all"
+240-1043,tong1325,http://concepticon.clld.org/parameters/98,taautaha,"every, all"
+240-589,tong1325,http://concepticon.clld.org/parameters/1198,toko-lahi,"much, many"
+240-323,tong1325,http://concepticon.clld.org/parameters/1198,ʔoku lahi,"much, many"
+240-520,tong1325,http://concepticon.clld.org/parameters/1198,fuʔu lahi,"much, many"
+240-369,tong1325,http://concepticon.clld.org/parameters/1198,tokosiʔi,"much, many"
+240-1160,tong1325,http://concepticon.clld.org/parameters/1992,lahi aŋe,more
+240-369,tong1325,http://concepticon.clld.org/parameters/1242,tokosiʔi,"little (quantity), few"
+240-789,tong1325,http://concepticon.clld.org/parameters/1242,siʔisiʔi aŋe,"little (quantity), few"
+240-505,tong1325,http://concepticon.clld.org/parameters/1881,feʔuŋa,enough
+240-638,tong1325,http://concepticon.clld.org/parameters/1241,niʔihi,some
+240-159,tong1325,http://concepticon.clld.org/parameters/2023,kakai tokolahi,"multitude, crowd"
+240-1137,tong1325,http://concepticon.clld.org/parameters/2023,pupuŋa kakai,"multitude, crowd"
+240-937,tong1325,http://concepticon.clld.org/parameters/1429,fonu,full
+240-378,tong1325,http://concepticon.clld.org/parameters/1624,maha,empty
+240-1272,tong1325,http://concepticon.clld.org/parameters/1624,ʔikai nofoʔi,empty
+240-1139,tong1325,http://concepticon.clld.org/parameters/779,koŋa,"part, piece"
+240-75,tong1325,http://concepticon.clld.org/parameters/816,vaeua,half
+240-1260,tong1325,http://concepticon.clld.org/parameters/1580,toko-taha pē,"alone, only"
+240-1065,tong1325,http://concepticon.clld.org/parameters/728,ʔuluaki...,first
+240-97,tong1325,http://concepticon.clld.org/parameters/1529,faka-muimui,last
+240-1505,tong1325,http://concepticon.clld.org/parameters/1384,ua...,second
+240-1106,tong1325,http://concepticon.clld.org/parameters/1888,ua,pair
+240-86,tong1325,http://concepticon.clld.org/parameters/1888,hoa,pair
+240-990,tong1325,http://concepticon.clld.org/parameters/1888,oŋo meʔa,pair
+240-1036,tong1325,http://concepticon.clld.org/parameters/1888,tauhoa,pair
+240-478,tong1325,http://concepticon.clld.org/parameters/1546,koŋa ua,two times
+240-1485,tong1325,http://concepticon.clld.org/parameters/1546,tuʔo ua,two times
+240-832,tong1325,http://concepticon.clld.org/parameters/1859,tolu...,third
+240-749,tong1325,http://concepticon.clld.org/parameters/1789,taʔu,age
+240-407,tong1325,http://concepticon.clld.org/parameters/1789,kuoŋa,age
+240-793,tong1325,http://concepticon.clld.org/parameters/1231,foʔou,new
+240-215,tong1325,http://concepticon.clld.org/parameters/1207,mui,young
+240-1315,tong1325,http://concepticon.clld.org/parameters/1229,motuʔa,old
+240-327,tong1325,http://concepticon.clld.org/parameters/1229,motuʔa ʔaupito,old
+240-50,tong1325,http://concepticon.clld.org/parameters/1229,fuoloa,old
+240-148,tong1325,http://concepticon.clld.org/parameters/1229,tupuʔa,old
+240-1090,tong1325,http://concepticon.clld.org/parameters/672,poŋipoŋi,early
+240-119,tong1325,http://concepticon.clld.org/parameters/672,vave,early
+240-1176,tong1325,http://concepticon.clld.org/parameters/477,tōmui,late
+240-1462,tong1325,http://concepticon.clld.org/parameters/477,naʔe toki hoko pe toki pekia,late
+240-704,tong1325,http://concepticon.clld.org/parameters/1376,taimi ni,now
+240-1031,tong1325,http://concepticon.clld.org/parameters/1963,taimi ni pē,immediately
+240-432,tong1325,http://concepticon.clld.org/parameters/1963,leva,immediately
+240-119,tong1325,http://concepticon.clld.org/parameters/1631,vave,"swift, fast, quick"
+240-217,tong1325,http://concepticon.clld.org/parameters/1631,oma,"swift, fast, quick"
+240-646,tong1325,http://concepticon.clld.org/parameters/1631,ŋaholo,"swift, fast, quick"
+240-692,tong1325,http://concepticon.clld.org/parameters/1631,makimo,"swift, fast, quick"
+240-1307,tong1325,http://concepticon.clld.org/parameters/1631,ʔaupito,"swift, fast, quick"
+240-798,tong1325,http://concepticon.clld.org/parameters/701,tuai,slow
+240-1076,tong1325,http://concepticon.clld.org/parameters/701,māmālie,slow
+240-9,tong1325,http://concepticon.clld.org/parameters/754,faka-vavevave,"hasten, hurry"
+240-641,tong1325,http://concepticon.clld.org/parameters/425,toloi,"retard, delay"
+240-1350,tong1325,http://concepticon.clld.org/parameters/1806,kamata,"begin, beginning"
+240-1399,tong1325,http://concepticon.clld.org/parameters/1766,faka-ʔosi,finish
+240-1190,tong1325,http://concepticon.clld.org/parameters/1766,faka-ŋata,finish
+240-136,tong1325,http://concepticon.clld.org/parameters/1928,taʔofi,"cease, stop"
+240-784,tong1325,http://concepticon.clld.org/parameters/790,ʔosi maau,ready
+240-710,tong1325,http://concepticon.clld.org/parameters/1676,maʔupē,always
+240-381,tong1325,http://concepticon.clld.org/parameters/1676,taʔeŋata,always
+240-1404,tong1325,http://concepticon.clld.org/parameters/1852,faʔa,often
+240-183,tong1325,http://concepticon.clld.org/parameters/1544,taimi ʔe niʔihi,sometimes
+240-877,tong1325,http://concepticon.clld.org/parameters/703,vave ni,soon
+240-50,tong1325,http://concepticon.clld.org/parameters/418,fuoloa,long-time (for a)
+240-1003,tong1325,http://concepticon.clld.org/parameters/1656,ʔikai ʔaupito,never
+240-861,tong1325,http://concepticon.clld.org/parameters/1656,teʔeki ai,never
+240-905,tong1325,http://concepticon.clld.org/parameters/204,toe,again
+240-1270,tong1325,http://concepticon.clld.org/parameters/1260,ʔaho,day
+240-946,tong1325,http://concepticon.clld.org/parameters/1233,poʔuli,night
+240-639,tong1325,http://concepticon.clld.org/parameters/1233,pō,night
+240-1401,tong1325,http://concepticon.clld.org/parameters/729,mafoaēata,dawn
+240-537,tong1325,http://concepticon.clld.org/parameters/729,heŋiheŋi ʔaho,dawn
+240-1090,tong1325,http://concepticon.clld.org/parameters/1339,poŋipoŋi,morning
+240-959,tong1325,http://concepticon.clld.org/parameters/12,hoʔatā,"noon, midday"
+240-295,tong1325,http://concepticon.clld.org/parameters/1807,efiafi,afternoon
+240-34,tong1325,http://concepticon.clld.org/parameters/1807,houa efiafi,afternoon
+240-809,tong1325,http://concepticon.clld.org/parameters/1629,taimi poʔuli,evening
+240-1501,tong1325,http://concepticon.clld.org/parameters/1629,maluefiafi,evening
+240-176,tong1325,http://concepticon.clld.org/parameters/1283,faka-ʔaho,today
+240-739,tong1325,http://concepticon.clld.org/parameters/1283,ʔaho ni,today
+240-1253,tong1325,http://concepticon.clld.org/parameters/1329,ʔapō,tomorrow
+240-286,tong1325,http://concepticon.clld.org/parameters/1329,ʔapoŋipoŋi,tomorrow
+240-1127,tong1325,http://concepticon.clld.org/parameters/1174,ʔaneafi,yesterday
+240-800,tong1325,http://concepticon.clld.org/parameters/1353,houa,hour
+240-1174,tong1325,http://concepticon.clld.org/parameters/1323,uasi,"clock, timepiece"
+240-526,tong1325,http://concepticon.clld.org/parameters/1469,[uike],week
+240-693,tong1325,http://concepticon.clld.org/parameters/1699,Sāpate,Sunday
+240-315,tong1325,http://concepticon.clld.org/parameters/1694,Pulelulu,Wednesday
+240-218,tong1325,http://concepticon.clld.org/parameters/1693,Tuʔapulelulu,Thursday
+240-1347,tong1325,http://concepticon.clld.org/parameters/1370,māhina,month
+240-749,tong1325,http://concepticon.clld.org/parameters/1226,taʔu,year
+240-88,tong1325,http://concepticon.clld.org/parameters/1342,faʔahitaʔu māfana,summer
+240-573,tong1325,http://concepticon.clld.org/parameters/1276,faʔahitaʔu fakatōlau,autumn
+240-1004,tong1325,http://concepticon.clld.org/parameters/691,faʔahitaʔu,season
+240-934,tong1325,http://concepticon.clld.org/parameters/1587,faka-nanamu,smell (vb intrans)
+240-1489,tong1325,http://concepticon.clld.org/parameters/375,mihi,sniff
+240-934,tong1325,http://concepticon.clld.org/parameters/375,faka-nanamu,sniff
+240-626,tong1325,http://concepticon.clld.org/parameters/42,namuʔelo,"stinking, bad smelling"
+240-610,tong1325,http://concepticon.clld.org/parameters/21,ʔahiʔahiʔi,taste
+240-850,tong1325,http://concepticon.clld.org/parameters/21,ifo,taste
+240-1008,tong1325,http://concepticon.clld.org/parameters/717,melie,sweet
+240-1429,tong1325,http://concepticon.clld.org/parameters/1091,konokona,salty
+240-343,tong1325,http://concepticon.clld.org/parameters/887,tamala,bitter
+240-1037,tong1325,http://concepticon.clld.org/parameters/1906,ʔesiti,"acid, sour"
+240-375,tong1325,http://concepticon.clld.org/parameters/1906,mahi,"acid, sour"
+240-1265,tong1325,http://concepticon.clld.org/parameters/70,taitai,brackish
+240-654,tong1325,http://concepticon.clld.org/parameters/1408,fanoŋo,hear
+240-654,tong1325,http://concepticon.clld.org/parameters/1608,fanoŋo,listen
+240-222,tong1325,http://concepticon.clld.org/parameters/1811,loŋoāʔa,"sound, noise"
+240-554,tong1325,http://concepticon.clld.org/parameters/1811,oŋo,"sound, noise"
+240-356,tong1325,http://concepticon.clld.org/parameters/377,leʔolahi,loud
+240-1026,tong1325,http://concepticon.clld.org/parameters/1314,faka-loŋoloŋo,"quiet, silence"
+240-578,tong1325,http://concepticon.clld.org/parameters/1314,malū,"quiet, silence"
+240-399,tong1325,http://concepticon.clld.org/parameters/1409,vakai,see
+240-553,tong1325,http://concepticon.clld.org/parameters/1409,ʔaʔahi,see
+240-1231,tong1325,http://concepticon.clld.org/parameters/1819,sio,"look, look at"
+240-399,tong1325,http://concepticon.clld.org/parameters/1819,vakai,"look, look at"
+240-59,tong1325,http://concepticon.clld.org/parameters/1039,faka-hā,show
+240-1103,tong1325,http://concepticon.clld.org/parameters/708,ŋiŋila,shine
+240-116,tong1325,http://concepticon.clld.org/parameters/708,fetapaki,shine
+240-225,tong1325,http://concepticon.clld.org/parameters/708,fetapatapaki,shine
+240-413,tong1325,http://concepticon.clld.org/parameters/708,ulo,shine
+240-1125,tong1325,http://concepticon.clld.org/parameters/1613,lanu,color
+240-263,tong1325,http://concepticon.clld.org/parameters/250,maama,light (in color)
+240-1207,tong1325,http://concepticon.clld.org/parameters/250,lanu maama,light (in color)
+240-769,tong1325,http://concepticon.clld.org/parameters/706,faka-poʔupoʔuli,dark (in color)
+240-593,tong1325,http://concepticon.clld.org/parameters/1335,hinehina,white
+240-829,tong1325,http://concepticon.clld.org/parameters/1335,lanu hinehina,white
+240-1523,tong1325,http://concepticon.clld.org/parameters/163,ʔuliʔuli,black
+240-583,tong1325,http://concepticon.clld.org/parameters/163,lanu ʔuliʔuli,black
+240-1053,tong1325,http://concepticon.clld.org/parameters/163,ʔuliʔuli ʔaupito,black
+240-1020,tong1325,http://concepticon.clld.org/parameters/156,kulokula,red
+240-918,tong1325,http://concepticon.clld.org/parameters/156,lana kulokula,red
+240-296,tong1325,http://concepticon.clld.org/parameters/837,pulū,blue
+240-1369,tong1325,http://concepticon.clld.org/parameters/837,lanu moana,blue
+240-291,tong1325,http://concepticon.clld.org/parameters/1425,lanu mata,green
+240-153,tong1325,http://concepticon.clld.org/parameters/1424,eŋeeŋa,yellow
+240-1047,tong1325,http://concepticon.clld.org/parameters/1424,lanu eŋeeŋa,yellow
+240-833,tong1325,http://concepticon.clld.org/parameters/1892,fāfā,touch
+240-722,tong1325,http://concepticon.clld.org/parameters/1892,ala,touch
+240-617,tong1325,http://concepticon.clld.org/parameters/378,laʔu,pinch
+240-355,tong1325,http://concepticon.clld.org/parameters/1079,oŋoʔi,feel
+240-915,tong1325,http://concepticon.clld.org/parameters/1884,fefeka,hard
+240-1301,tong1325,http://concepticon.clld.org/parameters/1856,molū,soft
+240-841,tong1325,http://concepticon.clld.org/parameters/1923,petepete,rough
+240-540,tong1325,http://concepticon.clld.org/parameters/1234,hamolemole,smooth
+240-1502,tong1325,http://concepticon.clld.org/parameters/1234,tokalelei,smooth
+240-1514,tong1325,http://concepticon.clld.org/parameters/1396,māsila,sharp
+240-1072,tong1325,http://concepticon.clld.org/parameters/1396,faka-mata,sharp
+240-1269,tong1325,http://concepticon.clld.org/parameters/1210,mamafa,heavy
+240-1150,tong1325,http://concepticon.clld.org/parameters/1052,maʔamaʔa,light (in weight)
+240-594,tong1325,http://concepticon.clld.org/parameters/1726,hauhau,"wet, damp"
+240-1428,tong1325,http://concepticon.clld.org/parameters/1726,ŋaʔuŋaʔu,"wet, damp"
+240-21,tong1325,http://concepticon.clld.org/parameters/1726,vikuviku,"wet, damp"
+240-644,tong1325,http://concepticon.clld.org/parameters/1398,mōmoa,dry
+240-1138,tong1325,http://concepticon.clld.org/parameters/1398,mātuʔu,dry
+240-1166,tong1325,http://concepticon.clld.org/parameters/1286,vela,hot
+240-1438,tong1325,http://concepticon.clld.org/parameters/1286,vela ʔaupito,hot
+240-146,tong1325,http://concepticon.clld.org/parameters/1232,māfana,warm
+240-986,tong1325,http://concepticon.clld.org/parameters/1287,momoko,cold
+240-1280,tong1325,http://concepticon.clld.org/parameters/1287,mokomoko,cold
+240-1051,tong1325,http://concepticon.clld.org/parameters/704,maʔa,clean
+240-869,tong1325,http://concepticon.clld.org/parameters/1230,ʔuli,"dirty, soiled"
+240-1169,tong1325,http://concepticon.clld.org/parameters/380,miŋimiŋi ʔa e kili,wrinkled
+240-202,tong1325,http://concepticon.clld.org/parameters/53,laumālie,"soul, spirit"
+240-557,tong1325,http://concepticon.clld.org/parameters/1572,ʔohovale,"surprised, astonished"
+240-1179,tong1325,http://concepticon.clld.org/parameters/720,monūʔia,"good fortune, luck"
+240-1197,tong1325,http://concepticon.clld.org/parameters/56,fehālaaki,"misfortune, bad luck"
+240-8,tong1325,http://concepticon.clld.org/parameters/56,malaʔia,"misfortune, bad luck"
+240-73,tong1325,http://concepticon.clld.org/parameters/56,foʔui ne fai,"misfortune, bad luck"
+240-412,tong1325,http://concepticon.clld.org/parameters/56,ʔikai ke faiŋamālie,"misfortune, bad luck"
+240-628,tong1325,http://concepticon.clld.org/parameters/1495,fiemālie,"joyful, glad, happy"
+240-524,tong1325,http://concepticon.clld.org/parameters/1495,loto noŋa,"joyful, glad, happy"
+240-91,tong1325,http://concepticon.clld.org/parameters/1495,fiefia,"joyful, glad, happy"
+240-1136,tong1325,http://concepticon.clld.org/parameters/1355,kata,laugh
+240-1396,tong1325,http://concepticon.clld.org/parameters/1451,malimali,smile
+240-1508,tong1325,http://concepticon.clld.org/parameters/1413,vaʔiŋa,play
+240-1512,tong1325,http://concepticon.clld.org/parameters/923,ʔofa,love
+240-719,tong1325,http://concepticon.clld.org/parameters/578,ʔuma,kiss
+240-506,tong1325,http://concepticon.clld.org/parameters/578,fekita,kiss
+240-870,tong1325,http://concepticon.clld.org/parameters/928,faʔufua,embrace
+240-819,tong1325,http://concepticon.clld.org/parameters/1783,mamahi,pain
+240-681,tong1325,http://concepticon.clld.org/parameters/1783,laŋa manavanava,pain
+240-988,tong1325,http://concepticon.clld.org/parameters/1668,mamahi lahi,"grief, sorrow, sadness"
+240-314,tong1325,http://concepticon.clld.org/parameters/1668,lotomamahi,"grief, sorrow, sadness"
+240-1236,tong1325,http://concepticon.clld.org/parameters/1000,lotomoʔua,"anxiety, worry"
+240-712,tong1325,http://concepticon.clld.org/parameters/1000,faka-hohaʔa,"anxiety, worry"
+240-477,tong1325,http://concepticon.clld.org/parameters/1875,taŋilāulau,"regret, be sorry"
+240-314,tong1325,http://concepticon.clld.org/parameters/1875,lotomamahi,"regret, be sorry"
+240-913,tong1325,http://concepticon.clld.org/parameters/1875,kātaki,"regret, be sorry"
+240-302,tong1325,http://concepticon.clld.org/parameters/1141,lotoʔofa,pity
+240-1071,tong1325,http://concepticon.clld.org/parameters/1141,faka-ʔofaʔia,pity
+240-796,tong1325,http://concepticon.clld.org/parameters/1839,taŋi,"cry, weep"
+240-717,tong1325,http://concepticon.clld.org/parameters/1651,loʔimata,tear (noun)
+240-868,tong1325,http://concepticon.clld.org/parameters/716,toʔe,groan
+240-975,tong1325,http://concepticon.clld.org/parameters/1607,fehiʔa,hate
+240-10,tong1325,http://concepticon.clld.org/parameters/82,ʔita,anger
+240-1366,tong1325,http://concepticon.clld.org/parameters/82,ʔita lahi,anger
+240-1455,tong1325,http://concepticon.clld.org/parameters/82,loto lili,anger
+240-663,tong1325,http://concepticon.clld.org/parameters/40,mānumanu,"envy, jealousy"
+240-469,tong1325,http://concepticon.clld.org/parameters/1776,mā,shame (noun)
+240-836,tong1325,http://concepticon.clld.org/parameters/1776,fakamā,shame (noun)
+240-427,tong1325,http://concepticon.clld.org/parameters/174,ʔulumaʔoluŋa,proud
+240-1201,tong1325,http://concepticon.clld.org/parameters/174,hikisia,proud
+240-1056,tong1325,http://concepticon.clld.org/parameters/1779,poleʔi faka-ʔaiʔai,dare
+240-866,tong1325,http://concepticon.clld.org/parameters/3,toʔa,brave
+240-777,tong1325,http://concepticon.clld.org/parameters/3,lototoʔa,brave
+240-966,tong1325,http://concepticon.clld.org/parameters/781,ilifia,"fear, fright"
+240-855,tong1325,http://concepticon.clld.org/parameters/1810,faka-tuʔutāmaki,danger
+240-943,tong1325,http://concepticon.clld.org/parameters/1784,fiemaʔu,"desire, want"
+240-120,tong1325,http://concepticon.clld.org/parameters/1784,holi kovi,"desire, want"
+240-1275,tong1325,http://concepticon.clld.org/parameters/1784,toloŋa,"desire, want"
+240-697,tong1325,http://concepticon.clld.org/parameters/1750,fili,choose
+240-503,tong1325,http://concepticon.clld.org/parameters/1092,ʔamanaki,hope
+240-179,tong1325,http://concepticon.clld.org/parameters/100,falalaʔaŋa,faithful
+240-110,tong1325,http://concepticon.clld.org/parameters/1657,moʔoni,true
+240-677,tong1325,http://concepticon.clld.org/parameters/601,loi,"lie, tell lies"
+240-655,tong1325,http://concepticon.clld.org/parameters/601,taha loi,"lie, tell lies"
+240-1221,tong1325,http://concepticon.clld.org/parameters/13,kākā,deceit
+240-392,tong1325,http://concepticon.clld.org/parameters/13,kākaaʔi,deceit
+240-510,tong1325,http://concepticon.clld.org/parameters/13,ko ha kākā,deceit
+240-211,tong1325,http://concepticon.clld.org/parameters/1528,faka-molemoleʔi,forgive
+240-1060,tong1325,http://concepticon.clld.org/parameters/1035,lelei,good
+240-35,tong1325,http://concepticon.clld.org/parameters/1292,kovi,bad
+240-1426,tong1325,http://concepticon.clld.org/parameters/1725,faka-tonutonu,"right, correct"
+240-105,tong1325,http://concepticon.clld.org/parameters/1725,totonu,"right, correct"
+240-456,tong1325,http://concepticon.clld.org/parameters/1390,hala,wrong
+240-1222,tong1325,http://concepticon.clld.org/parameters/1390,faihala,wrong
+240-1357,tong1325,http://concepticon.clld.org/parameters/134,ŋāue hala,fault
+240-456,tong1325,http://concepticon.clld.org/parameters/1293,hala,"mistake, error"
+240-761,tong1325,http://concepticon.clld.org/parameters/1293,fai ha fehalaaki,"mistake, error"
+240-316,tong1325,http://concepticon.clld.org/parameters/381,tukuakiʔi,blame
+240-896,tong1325,http://concepticon.clld.org/parameters/1687,faka-fetaʔi,praise
+240-808,tong1325,http://concepticon.clld.org/parameters/1687,vikiviki,praise
+240-1066,tong1325,http://concepticon.clld.org/parameters/1687,faka-hīkihiki,praise
+240-970,tong1325,http://concepticon.clld.org/parameters/1427,fakaʔofoʔofo,beautiful
+240-266,tong1325,http://concepticon.clld.org/parameters/1427,hoihoifua,beautiful
+240-1016,tong1325,http://concepticon.clld.org/parameters/1427,matamatalelei,beautiful
+240-352,tong1325,http://concepticon.clld.org/parameters/1427,talavou,beautiful
+240-806,tong1325,http://concepticon.clld.org/parameters/1548,palakū,ugly
+240-663,tong1325,http://concepticon.clld.org/parameters/2018,mānumanu,greedy
+240-460,tong1325,http://concepticon.clld.org/parameters/2018,ʔuakai,greedy
+240-252,tong1325,http://concepticon.clld.org/parameters/1310,ʔatamaiʔia,clever
+240-1304,tong1325,http://concepticon.clld.org/parameters/1310,poto,clever
+240-109,tong1325,http://concepticon.clld.org/parameters/1415,faka-kaukauʔi,think (= reflect)
+240-1418,tong1325,http://concepticon.clld.org/parameters/1513,pehē,think (= be of the opinion)
+240-95,tong1325,http://concepticon.clld.org/parameters/1513,lau,think (= be of the opinion)
+240-560,tong1325,http://concepticon.clld.org/parameters/1890,tui,believe
+240-1498,tong1325,http://concepticon.clld.org/parameters/1536,ke mahino,understand
+240-840,tong1325,http://concepticon.clld.org/parameters/1536,ʔilo,understand
+240-840,tong1325,http://concepticon.clld.org/parameters/1410,ʔilo,know
+240-353,tong1325,http://concepticon.clld.org/parameters/1932,faka-fuofua,guess
+240-1292,tong1325,http://concepticon.clld.org/parameters/1932,mateʔi,guess
+240-936,tong1325,http://concepticon.clld.org/parameters/117,faʔifaʔitaki,imitate
+240-914,tong1325,http://concepticon.clld.org/parameters/1609,faka-kaukau,"idea, notion"
+240-762,tong1325,http://concepticon.clld.org/parameters/1518,vale,"foolish, stupid"
+240-1146,tong1325,http://concepticon.clld.org/parameters/1518,faka-valevale,"foolish, stupid"
+240-134,tong1325,http://concepticon.clld.org/parameters/1518,taʔefaka-potopoto,"foolish, stupid"
+240-762,tong1325,http://concepticon.clld.org/parameters/1899,vale,"insane, crazy"
+240-187,tong1325,http://concepticon.clld.org/parameters/1899,ʔatamai vaivai,"insane, crazy"
+240-496,tong1325,http://concepticon.clld.org/parameters/1899,ʔatamai kovi ʔaupito,"insane, crazy"
+240-41,tong1325,http://concepticon.clld.org/parameters/504,ako,learn
+240-41,tong1325,http://concepticon.clld.org/parameters/1929,ako,study
+240-935,tong1325,http://concepticon.clld.org/parameters/709,faka-hinohinoʔi,teach
+240-865,tong1325,http://concepticon.clld.org/parameters/709,akoʔi,teach
+240-443,tong1325,http://concepticon.clld.org/parameters/753,tokotaha ako,pupil
+240-383,tong1325,http://concepticon.clld.org/parameters/753,taha ako,pupil
+240-751,tong1325,http://concepticon.clld.org/parameters/1038,faiako,teacher
+240-403,tong1325,http://concepticon.clld.org/parameters/673,ʔapiako,school
+240-534,tong1325,http://concepticon.clld.org/parameters/707,manatuʔi,remember
+240-151,tong1325,http://concepticon.clld.org/parameters/1523,ŋalo,forget
+240-265,tong1325,http://concepticon.clld.org/parameters/989,mahinoŋofua,"clear, plain"
+240-1344,tong1325,http://concepticon.clld.org/parameters/1764,nenefu,obscure
+240-893,tong1325,http://concepticon.clld.org/parameters/1764,taʔemahino,obscure
+240-1000,tong1325,http://concepticon.clld.org/parameters/1764,faka-puliki,obscure
+240-1089,tong1325,http://concepticon.clld.org/parameters/1764,tāpuni vīsone,obscure
+240-1113,tong1325,http://concepticon.clld.org/parameters/1121,meʔa faka-fufū,secret
+240-599,tong1325,http://concepticon.clld.org/parameters/509,pau,"sure, certain"
+240-1101,tong1325,http://concepticon.clld.org/parameters/1626,faka-matala,explain
+240-1479,tong1325,http://concepticon.clld.org/parameters/1308,veiveiua,doubt
+240-1007,tong1325,http://concepticon.clld.org/parameters/1841,mahamahaloʔi,suspect
+240-1522,tong1325,http://concepticon.clld.org/parameters/1902,lavakiʔi,betray
+240-943,tong1325,http://concepticon.clld.org/parameters/643,fiemaʔu,"need, necessity"
+240-1389,tong1325,http://concepticon.clld.org/parameters/643,masiva,"need, necessity"
+240-105,tong1325,http://concepticon.clld.org/parameters/643,totonu,"need, necessity"
+240-599,tong1325,http://concepticon.clld.org/parameters/643,pau,"need, necessity"
+240-1421,tong1325,http://concepticon.clld.org/parameters/643,ʔaoŋa,"need, necessity"
+240-612,tong1325,http://concepticon.clld.org/parameters/686,faiŋofua,easy
+240-170,tong1325,http://concepticon.clld.org/parameters/584,faiŋataʔa,difficult
+240-7,tong1325,http://concepticon.clld.org/parameters/1577,mo e,and
+240-72,tong1325,http://concepticon.clld.org/parameters/1577,mo,and
+240-1063,tong1325,http://concepticon.clld.org/parameters/1577,pea,and
+240-813,tong1325,http://concepticon.clld.org/parameters/1459,kapau naʔa/ naʔe...,if
+240-811,tong1325,http://concepticon.clld.org/parameters/1459,kapau te/ ʔe...,if
+240-348,tong1325,http://concepticon.clld.org/parameters/1268,ʔio,"yes, affirmative"
+240-1439,tong1325,http://concepticon.clld.org/parameters/1269,ʔikai,"no, negative"
+240-379,tong1325,http://concepticon.clld.org/parameters/1269,tali ʔikai,"no, negative"
+240-294,tong1325,http://concepticon.clld.org/parameters/1269,ʔikai ke poupoua,"no, negative"
+240-385,tong1325,http://concepticon.clld.org/parameters/1239,fēfē,how?
+240-305,tong1325,http://concepticon.clld.org/parameters/822,fiha,how many?
+240-683,tong1325,http://concepticon.clld.org/parameters/531,hā hono lahi pe mahuʔiŋa,how much?
+240-441,tong1325,http://concepticon.clld.org/parameters/1363,leʔo,voice
+240-1154,tong1325,http://concepticon.clld.org/parameters/1261,hiva,sing
+240-521,tong1325,http://concepticon.clld.org/parameters/715,kaila,"shout, cry out"
+240-1343,tong1325,http://concepticon.clld.org/parameters/298,kikī,"shriek, screech"
+240-1002,tong1325,http://concepticon.clld.org/parameters/526,kokō,howl
+240-431,tong1325,http://concepticon.clld.org/parameters/1623,talanoa,"speak, talk"
+240-609,tong1325,http://concepticon.clld.org/parameters/1623,pōtalanoa,"speak, talk"
+240-1177,tong1325,http://concepticon.clld.org/parameters/1623,lea,"speak, talk"
+240-290,tong1325,http://concepticon.clld.org/parameters/1866,kokote,"stutter, stammer"
+240-1281,tong1325,http://concepticon.clld.org/parameters/1866,tapepe,"stutter, stammer"
+240-1177,tong1325,http://concepticon.clld.org/parameters/1458,lea,say
+240-1418,tong1325,http://concepticon.clld.org/parameters/1458,pehē,say
+240-431,tong1325,http://concepticon.clld.org/parameters/1711,talanoa,tell story
+240-436,tong1325,http://concepticon.clld.org/parameters/1711,tala,tell story
+240-59,tong1325,http://concepticon.clld.org/parameters/1711,faka-hā,tell story
+240-1177,tong1325,http://concepticon.clld.org/parameters/1115,lea,speech (make a)
+240-1026,tong1325,http://concepticon.clld.org/parameters/48,faka-loŋoloŋo,silent (be)
+240-993,tong1325,http://concepticon.clld.org/parameters/48,sīloŋo,silent (be)
+240-1177,tong1325,http://concepticon.clld.org/parameters/1307,lea,language
+240-786,tong1325,http://concepticon.clld.org/parameters/1307,faʔahiŋa lea,language
+240-2,tong1325,http://concepticon.clld.org/parameters/1307,vaʔa ʔo ha lea ʔiloa,language
+240-249,tong1325,http://concepticon.clld.org/parameters/1599,foʔi lea,word
+240-1227,tong1325,http://concepticon.clld.org/parameters/1405,hiŋoa,name
+240-325,tong1325,http://concepticon.clld.org/parameters/1405,faka-iku,name
+240-647,tong1325,http://concepticon.clld.org/parameters/1309,kole,"ask (question, inquire)"
+240-1014,tong1325,http://concepticon.clld.org/parameters/1309,faka-ʔekeʔeke,"ask (question, inquire)"
+240-1341,tong1325,http://concepticon.clld.org/parameters/1275,tali,answer
+240-436,tong1325,http://concepticon.clld.org/parameters/2022,tala,"admit, confess"
+240-224,tong1325,http://concepticon.clld.org/parameters/2022,faka-hāloto,"admit, confess"
+240-1105,tong1325,http://concepticon.clld.org/parameters/755,faka-ʔikaiʔi,deny
+240-647,tong1325,http://concepticon.clld.org/parameters/1828,kole,"ask, request"
+240-1352,tong1325,http://concepticon.clld.org/parameters/83,tapu,forbid
+240-1348,tong1325,http://concepticon.clld.org/parameters/83,tapui,forbid
+240-603,tong1325,http://concepticon.clld.org/parameters/299,ʔitaŋiʔi,"rebuke, scold"
+240-1104,tong1325,http://concepticon.clld.org/parameters/1084,ui,call (=summon)
+240-845,tong1325,http://concepticon.clld.org/parameters/180,faka-hiŋoa,call (=name)
+240-1104,tong1325,http://concepticon.clld.org/parameters/180,ui,call (=name)
+240-831,tong1325,http://concepticon.clld.org/parameters/9,fakahā,announce
+240-391,tong1325,http://concepticon.clld.org/parameters/101,pose,boast
+240-229,tong1325,http://concepticon.clld.org/parameters/101,lealahi,boast
+240-1117,tong1325,http://concepticon.clld.org/parameters/1672,tohi,write
+240-309,tong1325,http://concepticon.clld.org/parameters/724,lautohi,read
+240-1011,tong1325,http://concepticon.clld.org/parameters/648,[pepa],paper
+240-398,tong1325,http://concepticon.clld.org/parameters/794,[peni],pen
+240-916,tong1325,http://concepticon.clld.org/parameters/794,[peni]vahevahe,pen
+240-1117,tong1325,http://concepticon.clld.org/parameters/963,tohi,book
+240-248,tong1325,http://concepticon.clld.org/parameters/1045,punake,poet
+240-174,tong1325,http://concepticon.clld.org/parameters/1045,tokotaha faʔu maau,poet
+240-875,tong1325,http://concepticon.clld.org/parameters/777,[fuluta],flute
+240-182,tong1325,http://concepticon.clld.org/parameters/908,talamu,drum
+240-851,tong1325,http://concepticon.clld.org/parameters/2136,ifi,"horn, trumpet"
+240-848,tong1325,http://concepticon.clld.org/parameters/2136,[hooni],"horn, trumpet"
+240-1254,tong1325,http://concepticon.clld.org/parameters/2136,keleʔa,"horn, trumpet"
+240-201,tong1325,http://concepticon.clld.org/parameters/300,ŋatata,rattle
+240-978,tong1325,http://concepticon.clld.org/parameters/300,meʔavaʔiŋa ʔoku lulu ke loŋoāʔa,rattle
+240-1464,tong1325,http://concepticon.clld.org/parameters/1300,fonua,country
+240-216,tong1325,http://concepticon.clld.org/parameters/1300,puleʔaŋa,country
+240-649,tong1325,http://concepticon.clld.org/parameters/1391,kolo,"city, town"
+240-532,tong1325,http://concepticon.clld.org/parameters/1391,kolo lahi,"city, town"
+240-772,tong1325,http://concepticon.clld.org/parameters/1391,[siti],"city, town"
+240-1059,tong1325,http://concepticon.clld.org/parameters/930,kakai ʔo e kolo,village
+240-1467,tong1325,http://concepticon.clld.org/parameters/930,kiʔi kolo,village
+240-1458,tong1325,http://concepticon.clld.org/parameters/1010,ŋataʔaŋa,boundary
+240-1383,tong1325,http://concepticon.clld.org/parameters/789,kakai,people (populace)
+240-396,tong1325,http://concepticon.clld.org/parameters/302,matakali,"tribe, clan"
+240-336,tong1325,http://concepticon.clld.org/parameters/302,faʔahiŋa,"tribe, clan"
+240-99,tong1325,http://concepticon.clld.org/parameters/301,tefitoʔi,"chief, chieftain"
+240-293,tong1325,http://concepticon.clld.org/parameters/301,taki,"chief, chieftain"
+240-38,tong1325,http://concepticon.clld.org/parameters/1296,tokotoko,"staff, walking stick"
+240-1492,tong1325,http://concepticon.clld.org/parameters/1846,puleʔi,"rule, govern"
+240-718,tong1325,http://concepticon.clld.org/parameters/1846,mafai,"rule, govern"
+240-938,tong1325,http://concepticon.clld.org/parameters/1508,tuʔi,"king, ruler"
+240-293,tong1325,http://concepticon.clld.org/parameters/1508,taki,"king, ruler"
+240-688,tong1325,http://concepticon.clld.org/parameters/1508,pule,"king, ruler"
+240-288,tong1325,http://concepticon.clld.org/parameters/1508,hau,"king, ruler"
+240-1032,tong1325,http://concepticon.clld.org/parameters/1306,[kuini],queen
+240-965,tong1325,http://concepticon.clld.org/parameters/482,nōpele,"noble, nobleman"
+240-703,tong1325,http://concepticon.clld.org/parameters/1032,taŋataʔifonua,"citizen, subject"
+240-688,tong1325,http://concepticon.clld.org/parameters/383,pule,master
+240-293,tong1325,http://concepticon.clld.org/parameters/383,taki,master
+240-751,tong1325,http://concepticon.clld.org/parameters/383,faiako,master
+240-1088,tong1325,http://concepticon.clld.org/parameters/383,ʔeikivaka,master
+240-902,tong1325,http://concepticon.clld.org/parameters/812,pōpula,slave
+240-1336,tong1325,http://concepticon.clld.org/parameters/255,[sevāniti],servant
+240-679,tong1325,http://concepticon.clld.org/parameters/1128,tuʔutuʔuni,"command, order"
+240-507,tong1325,http://concepticon.clld.org/parameters/1128,fekau,"command, order"
+240-1121,tong1325,http://concepticon.clld.org/parameters/1635,talaŋofua,obey
+240-459,tong1325,http://concepticon.clld.org/parameters/1325,kaumeʔa,"friend, companion"
+240-351,tong1325,http://concepticon.clld.org/parameters/1325,taha ʔoku te,"friend, companion"
+240-1198,tong1325,http://concepticon.clld.org/parameters/1325,feohi mo ia,"friend, companion"
+240-502,tong1325,http://concepticon.clld.org/parameters/1325,kauŋāmeʔa,"friend, companion"
+240-697,tong1325,http://concepticon.clld.org/parameters/1358,fili,enemy
+240-474,tong1325,http://concepticon.clld.org/parameters/1332,kauŋāʔapi,neighbor
+240-901,tong1325,http://concepticon.clld.org/parameters/791,taha foʔou,stranger
+240-757,tong1325,http://concepticon.clld.org/parameters/791,muli,stranger
+240-980,tong1325,http://concepticon.clld.org/parameters/791,sola,stranger
+240-1119,tong1325,http://concepticon.clld.org/parameters/791,vūlaŋi,stranger
+240-1303,tong1325,http://concepticon.clld.org/parameters/791,faka-tuʔapuleʔaŋa,stranger
+240-581,tong1325,http://concepticon.clld.org/parameters/1782,tokotaha ʔaʔahi pe ʔeveʔeve ki ha ʔapi,guest
+240-713,tong1325,http://concepticon.clld.org/parameters/1545,taŋata talitali kita,host
+240-672,tong1325,http://concepticon.clld.org/parameters/1545,fefine tali kakai,host
+240-1286,tong1325,http://concepticon.clld.org/parameters/1897,tokoni,"help, aid"
+240-1387,tong1325,http://concepticon.clld.org/parameters/1550,taʔotaʔofi,"hinder, prevent"
+240-1510,tong1325,http://concepticon.clld.org/parameters/1848,kē,"strife, quarrel"
+240-1442,tong1325,http://concepticon.clld.org/parameters/1831,fetaulaki,meet
+240-1086,tong1325,http://concepticon.clld.org/parameters/1831,feʔiloaki,meet
+240-1314,tong1325,http://concepticon.clld.org/parameters/1610,lalekini,prostitute
+240-1235,tong1325,http://concepticon.clld.org/parameters/1423,fuhu,fight (vb)
+240-1213,tong1325,http://concepticon.clld.org/parameters/1423,tau,fight (vb)
+240-1213,tong1325,http://concepticon.clld.org/parameters/579,tau,"war, battle"
+240-1193,tong1325,http://concepticon.clld.org/parameters/1338,melino,peace
+240-185,tong1325,http://concepticon.clld.org/parameters/1561,[aami],army
+240-1061,tong1325,http://concepticon.clld.org/parameters/1561,koŋatau,army
+240-873,tong1325,http://concepticon.clld.org/parameters/1941,[sōtia],soldier
+240-150,tong1325,http://concepticon.clld.org/parameters/1941,taŋata tau,soldier
+240-866,tong1325,http://concepticon.clld.org/parameters/1941,toʔa,soldier
+240-1361,tong1325,http://concepticon.clld.org/parameters/951,meʔa tau,"weapons, arms"
+240-346,tong1325,http://concepticon.clld.org/parameters/1763,pōvai,club
+240-1278,tong1325,http://concepticon.clld.org/parameters/387,toloŋi,sling
+240-903,tong1325,http://concepticon.clld.org/parameters/387,meʔtautau,sling
+240-439,tong1325,http://concepticon.clld.org/parameters/994,kaufana,bow
+240-260,tong1325,http://concepticon.clld.org/parameters/977,ŋahau,arrow
+240-1220,tong1325,http://concepticon.clld.org/parameters/945,tao,spear
+240-1186,tong1325,http://concepticon.clld.org/parameters/945,tao lōloa,spear
+240-112,tong1325,http://concepticon.clld.org/parameters/1535,heletā,sword
+240-1416,tong1325,http://concepticon.clld.org/parameters/1566,meʔafana,"gun, cannon"
+240-1332,tong1325,http://concepticon.clld.org/parameters/1566,laifolo,"gun, cannon"
+240-1390,tong1325,http://concepticon.clld.org/parameters/1566,meʔafana-fonua,"gun, cannon"
+240-822,tong1325,http://concepticon.clld.org/parameters/1680,helemeti,helmet
+240-1244,tong1325,http://concepticon.clld.org/parameters/1064,sila,shield
+240-660,tong1325,http://concepticon.clld.org/parameters/1064,pā,shield
+240-1029,tong1325,http://concepticon.clld.org/parameters/1064,pāletuʔa,shield
+240-278,tong1325,http://concepticon.clld.org/parameters/1938,kolotau,fortress
+240-649,tong1325,http://concepticon.clld.org/parameters/1938,kolo,fortress
+240-366,tong1325,http://concepticon.clld.org/parameters/1671,taua,tower
+240-333,tong1325,http://concepticon.clld.org/parameters/783,ikuna,victory
+240-642,tong1325,http://concepticon.clld.org/parameters/782,ikuʔi,defeat
+240-1460,tong1325,http://concepticon.clld.org/parameters/1330,maluʔi,defend
+240-736,tong1325,http://concepticon.clld.org/parameters/1696,tukulolo,surrender
+240-902,tong1325,http://concepticon.clld.org/parameters/1072,pōpula,"captive, prisoner"
+240-963,tong1325,http://concepticon.clld.org/parameters/1072,tokotaha nofo pilisone,"captive, prisoner"
+240-359,tong1325,http://concepticon.clld.org/parameters/1940,leʔohi,"guard, sentinel"
+240-441,tong1325,http://concepticon.clld.org/parameters/1940,leʔo,"guard, sentinel"
+240-1271,tong1325,http://concepticon.clld.org/parameters/1858,taŋata toutai,fisherman
+240-219,tong1325,http://concepticon.clld.org/parameters/1074,mātaʔu,fishhook
+240-773,tong1325,http://concepticon.clld.org/parameters/19,afo tau-mātaʔu,fishing line
+240-1302,tong1325,http://concepticon.clld.org/parameters/388,kupeŋa,fishnet
+240-1491,tong1325,http://concepticon.clld.org/parameters/389,finaki,fish trap
+240-592,tong1325,http://concepticon.clld.org/parameters/2013,mounu,bait
+240-989,tong1325,http://concepticon.clld.org/parameters/1435,tulimanu,hunt
+240-972,tong1325,http://concepticon.clld.org/parameters/1172,fana,shoot
+240-885,tong1325,http://concepticon.clld.org/parameters/1172,fanaʔi,shoot
+240-731,tong1325,http://concepticon.clld.org/parameters/1075,tauhele,trap (noun)
+240-164,tong1325,http://concepticon.clld.org/parameters/1075,tauheleʔi,trap (noun)
+240-548,tong1325,http://concepticon.clld.org/parameters/1062,[lao],law
+240-753,tong1325,http://concepticon.clld.org/parameters/1068,faka-maauʔaŋa,court
+240-36,tong1325,http://concepticon.clld.org/parameters/1068,fale-hopo,court
+240-910,tong1325,http://concepticon.clld.org/parameters/1067,faka-maau,judgment
+240-353,tong1325,http://concepticon.clld.org/parameters/1067,faka-fuofua,judgment
+240-702,tong1325,http://concepticon.clld.org/parameters/1034,fakaʔiloa,defendant
+240-1148,tong1325,http://concepticon.clld.org/parameters/1144,faka-moʔoni,witness
+240-804,tong1325,http://concepticon.clld.org/parameters/1939,fuakava,swear
+240-495,tong1325,http://concepticon.clld.org/parameters/1939,faka-fuakavaʔi,swear
+240-316,tong1325,http://concepticon.clld.org/parameters/1814,tukuakiʔi,accuse
+240-720,tong1325,http://concepticon.clld.org/parameters/1814,talatalaakiʔi,accuse
+240-1380,tong1325,http://concepticon.clld.org/parameters/484,tala ʔoku kovi,condemn
+240-1346,tong1325,http://concepticon.clld.org/parameters/484,tauteaʔi,condemn
+240-1199,tong1325,http://concepticon.clld.org/parameters/988,fakatonuhiaʔi,acquit
+240-964,tong1325,http://concepticon.clld.org/parameters/988,fakatauʔatāinaʔi,acquit
+240-417,tong1325,http://concepticon.clld.org/parameters/1682,halaia,guilty
+240-1296,tong1325,http://concepticon.clld.org/parameters/90,tonuhia,innocent
+240-1050,tong1325,http://concepticon.clld.org/parameters/90,taʔeʔilo ha kovi,innocent
+240-754,tong1325,http://concepticon.clld.org/parameters/390,tautea,"penalty, punishment"
+240-1124,tong1325,http://concepticon.clld.org/parameters/1281,pilisone,"prison, jail"
+240-341,tong1325,http://concepticon.clld.org/parameters/845,tāmate,murder
+240-53,tong1325,http://concepticon.clld.org/parameters/845,faka-pō,murder
+240-888,tong1325,http://concepticon.clld.org/parameters/845,faka-pooŋi,murder
+240-233,tong1325,http://concepticon.clld.org/parameters/902,tono,adultery
+240-12,tong1325,http://concepticon.clld.org/parameters/953,tohotoho,rape
+240-94,tong1325,http://concepticon.clld.org/parameters/713,kaihaʔa,steal
+240-418,tong1325,http://concepticon.clld.org/parameters/713,kaihaʔasi,steal
+240-1264,tong1325,http://concepticon.clld.org/parameters/1160,tokotaha kaihaʔa,thief
+240-420,tong1325,http://concepticon.clld.org/parameters/661,faʔahiŋa tui,religion
+240-574,tong1325,http://concepticon.clld.org/parameters/911,fale-lotu,"temple, church"
+240-933,tong1325,http://concepticon.clld.org/parameters/911,fale-lotu siʔi,"temple, church"
+240-131,tong1325,http://concepticon.clld.org/parameters/853,ʔolita,altar
+240-65,tong1325,http://concepticon.clld.org/parameters/853,ʔaletale,altar
+240-54,tong1325,http://concepticon.clld.org/parameters/1103,lī meʔaʔofa,"sacrifice, offering"
+240-207,tong1325,http://concepticon.clld.org/parameters/1103,feilaulau,"sacrifice, offering"
+240-214,tong1325,http://concepticon.clld.org/parameters/257,lotu,worship
+240-214,tong1325,http://concepticon.clld.org/parameters/24,lotu,pray
+240-1225,tong1325,http://concepticon.clld.org/parameters/852,kau faifekau,priest
+240-1453,tong1325,http://concepticon.clld.org/parameters/1702,toputapu,"holy, sacred"
+240-471,tong1325,http://concepticon.clld.org/parameters/1702,faka-tapui ki he ʔotua,"holy, sacred"
+240-595,tong1325,http://concepticon.clld.org/parameters/1702,faka-ʔotua,"holy, sacred"
+240-1370,tong1325,http://concepticon.clld.org/parameters/1702,faka-laumālie,"holy, sacred"
+240-1034,tong1325,http://concepticon.clld.org/parameters/304,malaŋa,preach
+240-897,tong1325,http://concepticon.clld.org/parameters/8,kapekapeʔi,curse
+240-538,tong1325,http://concepticon.clld.org/parameters/8,talatuki,curse
+240-748,tong1325,http://concepticon.clld.org/parameters/8,faka-malaʔia,curse
+240-782,tong1325,http://concepticon.clld.org/parameters/303,ke ʔaukai,fast (vb)
+240-1381,tong1325,http://concepticon.clld.org/parameters/1565,[hēvani],heaven
+240-876,tong1325,http://concepticon.clld.org/parameters/878,hetesi,hell
+240-854,tong1325,http://concepticon.clld.org/parameters/1973,tēvolo,demon (evil spirit)
+240-35,tong1325,http://concepticon.clld.org/parameters/1973,kovi,demon (evil spirit)
+240-472,tong1325,http://concepticon.clld.org/parameters/1973,aŋahala,demon (evil spirit)
+240-835,tong1325,http://concepticon.clld.org/parameters/1945,tamapua,idol
+240-1015,tong1325,http://concepticon.clld.org/parameters/1945,ʔaitoli,idol
+240-565,tong1325,http://concepticon.clld.org/parameters/392,faka-louʔakau,"magic, witchcraft, sorcery"
+240-251,tong1325,http://concepticon.clld.org/parameters/392,mēsiki,"magic, witchcraft, sorcery"
+240-1444,tong1325,http://concepticon.clld.org/parameters/392,manaʔi,"magic, witchcraft, sorcery"
+240-145,tong1325,http://concepticon.clld.org/parameters/2137,taulatēvolo,"sorcerer, witch"
+240-854,tong1325,http://concepticon.clld.org/parameters/1175,tēvolo,"ghost, phantom"
+240-1333,tong1325,http://concepticon.clld.org/parameters/1175,ʔata,"ghost, phantom"
+240-1153,tong1325,http://concepticon.clld.org/parameters/107,faka-ʔiloŋa,"omen, portent"

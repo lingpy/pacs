@@ -1,0 +1,974 @@
+ID,Language_ID,Feature_ID,Value,Concept
+250-513,yuwa1244,http://concepticon.clld.org/parameters/965,ʰkʸo,world
+250-513,yuwa1244,http://concepticon.clld.org/parameters/626,ʰkʸo,"earth, land"
+250-25,yuwa1244,http://concepticon.clld.org/parameters/1228,ʰlẽi,"earth=ground, soil"
+250-25,yuwa1244,http://concepticon.clld.org/parameters/2,ʰlẽi,dust
+250-525,yuwa1244,http://concepticon.clld.org/parameters/640,ʰleʰte,mud
+250-561,yuwa1244,http://concepticon.clld.org/parameters/671,ʰkabaʰyu,sand
+250-372,yuwa1244,http://concepticon.clld.org/parameters/2118,ilẽwã,"mountain, hill"
+250-625,yuwa1244,http://concepticon.clld.org/parameters/652,bẽi,"plain, field"
+250-416,yuwa1244,http://concepticon.clld.org/parameters/921,ilẽwã ʰkɨke,valley
+250-160,yuwa1244,http://concepticon.clld.org/parameters/622,heto ʰwɨ kalatelã,island
+250-692,yuwa1244,http://concepticon.clld.org/parameters/113,heto aʰkulẽ,shore
+250-134,yuwa1244,http://concepticon.clld.org/parameters/1155,ilẽwã ʰlaikɨ,cave
+250-694,yuwa1244,http://concepticon.clld.org/parameters/948,au,water
+250-425,yuwa1244,http://concepticon.clld.org/parameters/259,heto huluwaka,rough (of sea)
+250-83,yuwa1244,http://concepticon.clld.org/parameters/1768,heto ʰkolo,foam
+250-308,yuwa1244,http://concepticon.clld.org/parameters/624,bãbo,lake
+250-308,yuwa1244,http://concepticon.clld.org/parameters/623,bãbo,lagoon
+250-425,yuwa1244,http://concepticon.clld.org/parameters/978,heto huluwaka,wave
+250-377,yuwa1244,http://concepticon.clld.org/parameters/666,heto,"river, stream, brook"
+250-310,yuwa1244,http://concepticon.clld.org/parameters/1982,heto hulaheikɨ,whirlpool
+250-187,yuwa1244,http://concepticon.clld.org/parameters/2144,ʰlẽi-ʰkʷa helou,"spring, well"
+250-177,yuwa1244,http://concepticon.clld.org/parameters/1145,ʰleʰte-ʰta,swamp
+250-21,yuwa1244,http://concepticon.clld.org/parameters/943,heto ʰlaho,waterfall
+250-276,yuwa1244,http://concepticon.clld.org/parameters/420,'yelito,"woods, forest"
+250-591,yuwa1244,http://concepticon.clld.org/parameters/906,ʰtawɨ,tree (cf 08.600)
+250-591,yuwa1244,http://concepticon.clld.org/parameters/1803,ʰtawɨ,wood
+250-335,yuwa1244,http://concepticon.clld.org/parameters/2125,iʰto,"stone, rock"
+250-730,yuwa1244,http://concepticon.clld.org/parameters/6,ʰlẽi ʰkeʰkekɨtehai,earthquake
+250-513,yuwa1244,http://concepticon.clld.org/parameters/1732,ʰkʸo,sky
+250-328,yuwa1244,http://concepticon.clld.org/parameters/1343,ʰtilẽwã,sun
+250-217,yuwa1244,http://concepticon.clld.org/parameters/1313,abĩyẽ,moon
+250-465,yuwa1244,http://concepticon.clld.org/parameters/1430,atetɨhã,star
+250-515,yuwa1244,http://concepticon.clld.org/parameters/1654,ʰkʸo ai bule wetehai,lightning
+250-688,yuwa1244,http://concepticon.clld.org/parameters/1150,ʰkʸo ai hobe tehai,thunder
+250-194,yuwa1244,http://concepticon.clld.org/parameters/2007,ʰkʸo ai ʰkãlĩtiyu,lightning (as striking)
+250-357,yuwa1244,http://concepticon.clld.org/parameters/858,uli oibu'e,storm
+250-431,yuwa1244,http://concepticon.clld.org/parameters/1733,yẽtohã,rainbow
+250-568,yuwa1244,http://concepticon.clld.org/parameters/630,ʰkʸato,light (noun)
+250-272,yuwa1244,http://concepticon.clld.org/parameters/11,ʰtiʰkʷeʰto,darkness
+250-109,yuwa1244,http://concepticon.clld.org/parameters/1388,ʰkʸo ʰkʷoili,"shade, shadow"
+250-654,yuwa1244,http://concepticon.clld.org/parameters/1977,atetɨ tɨli,dew
+250-513,yuwa1244,http://concepticon.clld.org/parameters/27,ʰkʸo,air
+250-513,yuwa1244,http://concepticon.clld.org/parameters/960,ʰkʸo,wind
+250-577,yuwa1244,http://concepticon.clld.org/parameters/1489,bĩʰtu,cloud
+250-577,yuwa1244,http://concepticon.clld.org/parameters/249,bĩʰtu,fog
+250-623,yuwa1244,http://concepticon.clld.org/parameters/658,o,rain (noun)
+250-365,yuwa1244,http://concepticon.clld.org/parameters/617,ikʸeka au,ice
+250-578,yuwa1244,http://concepticon.clld.org/parameters/221,ʰkule,fire
+250-215,yuwa1244,http://concepticon.clld.org/parameters/889,ʰkule heʰla,flame (noun)
+250-571,yuwa1244,http://concepticon.clld.org/parameters/778,ʰkule bĩʰtu,smoke (noun)
+250-175,yuwa1244,http://concepticon.clld.org/parameters/646,ilẽho,ashes
+250-491,yuwa1244,http://concepticon.clld.org/parameters/67,ãhõ,embers
+250-392,yuwa1244,http://concepticon.clld.org/parameters/141,ʰka ʰtɨlɨ,burn (vb trans)
+250-228,yuwa1244,http://concepticon.clld.org/parameters/1428,ʰtɨlɨ,burn (vb intrans)
+250-373,yuwa1244,http://concepticon.clld.org/parameters/737,butitɨ,"light, kindle, ignite"
+250-27,yuwa1244,http://concepticon.clld.org/parameters/127,lõwai'ĩ,extinguish
+250-620,yuwa1244,http://concepticon.clld.org/parameters/1133,ʰkule bo,match (noun)
+250-620,yuwa1244,http://concepticon.clld.org/parameters/10,ʰkule bo,firewood
+250-491,yuwa1244,http://concepticon.clld.org/parameters/1188,ãhõ,charcoal
+250-664,yuwa1244,http://concepticon.clld.org/parameters/683,ho,"person, human being"
+250-342,yuwa1244,http://concepticon.clld.org/parameters/1554,bãli,man (vs. woman)
+250-615,yuwa1244,http://concepticon.clld.org/parameters/962,ãu,woman
+250-342,yuwa1244,http://concepticon.clld.org/parameters/2263,bãli,male
+250-615,yuwa1244,http://concepticon.clld.org/parameters/2260,ãu,female
+250-481,yuwa1244,http://concepticon.clld.org/parameters/1366,hãli hã,boy
+250-524,yuwa1244,http://concepticon.clld.org/parameters/76,bai hã,young man (adolescent)
+250-120,yuwa1244,http://concepticon.clld.org/parameters/1646,hãli hayu,girl
+250-594,yuwa1244,http://concepticon.clld.org/parameters/77,bai hau,young woman (adolescent)
+250-481,yuwa1244,http://concepticon.clld.org/parameters/1304,hãli hã,child
+250-317,yuwa1244,http://concepticon.clld.org/parameters/1289,ʰtiʰtuhã,"infant, baby"
+250-342,yuwa1244,http://concepticon.clld.org/parameters/1200,bãli,husband
+250-202,yuwa1244,http://concepticon.clld.org/parameters/1199,hayu,wife
+250-352,yuwa1244,http://concepticon.clld.org/parameters/1199,ʰlu,wife
+250-407,yuwa1244,http://concepticon.clld.org/parameters/203,hayu-ʰka bai,marry
+250-299,yuwa1244,http://concepticon.clld.org/parameters/1134,haulɨ̃ lɨ̃ye te ka-bai,divorce
+250-271,yuwa1244,http://concepticon.clld.org/parameters/1217,ʰlai,father
+250-687,yuwa1244,http://concepticon.clld.org/parameters/1217,ai,father
+250-490,yuwa1244,http://concepticon.clld.org/parameters/1216,abã,mother
+250-484,yuwa1244,http://concepticon.clld.org/parameters/505,aĩbõ,parents
+250-342,yuwa1244,http://concepticon.clld.org/parameters/424,bãli,married man
+250-64,yuwa1244,http://concepticon.clld.org/parameters/426,ãũ,married woman
+250-244,yuwa1244,http://concepticon.clld.org/parameters/1620,ilĩ,son
+250-202,yuwa1244,http://concepticon.clld.org/parameters/1357,hayu,daughter
+250-486,yuwa1244,http://concepticon.clld.org/parameters/1801,ilĩbõ,offspring (son or daughter)
+250-475,yuwa1244,http://concepticon.clld.org/parameters/1262,abãʰlõ,brother
+250-135,yuwa1244,http://concepticon.clld.org/parameters/1759,ʰlẽ,older brother
+250-38,yuwa1244,http://concepticon.clld.org/parameters/1760,hãyẽ,younger brother
+250-75,yuwa1244,http://concepticon.clld.org/parameters/1263,abalou,sister
+250-352,yuwa1244,http://concepticon.clld.org/parameters/1758,ʰlu,older sister
+250-120,yuwa1244,http://concepticon.clld.org/parameters/1761,hãli hayu,younger sister
+250-475,yuwa1244,http://concepticon.clld.org/parameters/1640,abãʰlõ,sibling
+250-271,yuwa1244,http://concepticon.clld.org/parameters/1383,ʰlai,grandfather
+250-163,yuwa1244,http://concepticon.clld.org/parameters/406,uli ʰtawo,old man
+250-490,yuwa1244,http://concepticon.clld.org/parameters/1496,abã,grandmother
+250-604,yuwa1244,http://concepticon.clld.org/parameters/1496,ʰwoiʰlo,grandmother
+250-604,yuwa1244,http://concepticon.clld.org/parameters/907,ʰwoiʰlo,old woman
+250-31,yuwa1244,http://concepticon.clld.org/parameters/1618,ilĩ ilĩ,grandson
+250-31,yuwa1244,http://concepticon.clld.org/parameters/1619,ilĩ ilĩ,granddaughter
+250-271,yuwa1244,http://concepticon.clld.org/parameters/1327,ʰlai,uncle
+250-271,yuwa1244,http://concepticon.clld.org/parameters/1985,ʰlai,father's brother
+250-490,yuwa1244,http://concepticon.clld.org/parameters/1272,abã,aunt
+250-424,yuwa1244,http://concepticon.clld.org/parameters/1669,ʰye baite hatɨ,ancestors
+250-695,yuwa1244,http://concepticon.clld.org/parameters/1059,lãwɨ̃,stepson
+250-360,yuwa1244,http://concepticon.clld.org/parameters/1149,'aibõ'telãbãhã,orphan
+250-547,yuwa1244,http://concepticon.clld.org/parameters/1756,bãli'te lã bãhau,widow
+250-282,yuwa1244,http://concepticon.clld.org/parameters/1981,hau'telã bãhã,widower
+250-724,yuwa1244,http://concepticon.clld.org/parameters/1644,ʰye hotɨ,"relatives, kinsmen"
+250-724,yuwa1244,http://concepticon.clld.org/parameters/194,ʰye hotɨ,family
+250-102,yuwa1244,http://concepticon.clld.org/parameters/1209,ʰye,I
+250-214,yuwa1244,http://concepticon.clld.org/parameters/1215,ʰke,you (singular)
+250-516,yuwa1244,http://concepticon.clld.org/parameters/262,ʰkʸe,he/she/it
+250-102,yuwa1244,http://concepticon.clld.org/parameters/1212,ʰye,we
+250-174,yuwa1244,http://concepticon.clld.org/parameters/1212,ʰyetɨ,we
+250-102,yuwa1244,http://concepticon.clld.org/parameters/1131,ʰye,we (inclusive)
+250-174,yuwa1244,http://concepticon.clld.org/parameters/1131,ʰyetɨ,we (inclusive)
+250-102,yuwa1244,http://concepticon.clld.org/parameters/1130,ʰye,we (exclusive)
+250-174,yuwa1244,http://concepticon.clld.org/parameters/1130,ʰyetɨ,we (exclusive)
+250-214,yuwa1244,http://concepticon.clld.org/parameters/1213,ʰke,you (plural)
+250-626,yuwa1244,http://concepticon.clld.org/parameters/1213,ʰketɨ,you (plural)
+250-516,yuwa1244,http://concepticon.clld.org/parameters/817,ʰkʸe,they
+250-6,yuwa1244,http://concepticon.clld.org/parameters/817,hati'te,they
+250-479,yuwa1244,http://concepticon.clld.org/parameters/619,hã,animal
+250-479,yuwa1244,http://concepticon.clld.org/parameters/2261,hã,male (adj)
+250-551,yuwa1244,http://concepticon.clld.org/parameters/2262,hau,female (adj)
+250-387,yuwa1244,http://concepticon.clld.org/parameters/1007,[baka],cow
+250-384,yuwa1244,http://concepticon.clld.org/parameters/1348,ʰkaʰwiye,boar
+250-384,yuwa1244,http://concepticon.clld.org/parameters/1351,ʰkaʰwiye,sow (2)
+250-384,yuwa1244,http://concepticon.clld.org/parameters/1337,ʰkaʰwiye,pig
+250-439,yuwa1244,http://concepticon.clld.org/parameters/1502,['ʰkʸibo],goat
+250-129,yuwa1244,http://concepticon.clld.org/parameters/615,[ʰkabayo],horse (equine)
+250-129,yuwa1244,http://concepticon.clld.org/parameters/936,[ʰkabayo],stallion
+250-129,yuwa1244,http://concepticon.clld.org/parameters/938,[ʰkabayo],mare
+250-313,yuwa1244,http://concepticon.clld.org/parameters/1647,[ʰkabayo] ilĩ,"foal, colt"
+250-297,yuwa1244,http://concepticon.clld.org/parameters/1318,[kayilã],chicken
+250-85,yuwa1244,http://concepticon.clld.org/parameters/1360,[bato],duck
+250-710,yuwa1244,http://concepticon.clld.org/parameters/1360,abo tuwẽlõ lãhã,duck
+250-293,yuwa1244,http://concepticon.clld.org/parameters/539,ʰtẽʰtẽ,nest
+250-443,yuwa1244,http://concepticon.clld.org/parameters/937,iʰte,bird
+250-560,yuwa1244,http://concepticon.clld.org/parameters/758,ʰkʷã ʰlebo bãhã,heron
+250-605,yuwa1244,http://concepticon.clld.org/parameters/1905,bole,eagle
+250-605,yuwa1244,http://concepticon.clld.org/parameters/307,bole,hawk
+250-80,yuwa1244,http://concepticon.clld.org/parameters/1185,bũʰwoli,vulture
+250-672,yuwa1244,http://concepticon.clld.org/parameters/1793,ʰkʷayuwã,bat
+250-423,yuwa1244,http://concepticon.clld.org/parameters/882,heba,parrot
+250-116,yuwa1244,http://concepticon.clld.org/parameters/882,ʰkili,parrot
+250-176,yuwa1244,http://concepticon.clld.org/parameters/913,waʰti,crow
+250-341,yuwa1244,http://concepticon.clld.org/parameters/1853,bãlo,dove
+250-99,yuwa1244,http://concepticon.clld.org/parameters/1853,bõʰwoike,dove
+250-92,yuwa1244,http://concepticon.clld.org/parameters/735,bololo,owl
+250-349,yuwa1244,http://concepticon.clld.org/parameters/2009,yewi,dog
+250-451,yuwa1244,http://concepticon.clld.org/parameters/1136,[kolẽho],rabbit
+250-349,yuwa1244,http://concepticon.clld.org/parameters/1208,yewi,cat
+250-240,yuwa1244,http://concepticon.clld.org/parameters/1208,[kato],cat
+250-347,yuwa1244,http://concepticon.clld.org/parameters/309,yowale,opossum
+250-241,yuwa1244,http://concepticon.clld.org/parameters/309,abaʰtuhã,opossum
+250-421,yuwa1244,http://concepticon.clld.org/parameters/2139,wayo,"mouse, rat"
+250-394,yuwa1244,http://concepticon.clld.org/parameters/227,bõʰtõ,fish
+250-353,yuwa1244,http://concepticon.clld.org/parameters/266,iyeba,fishscale
+250-474,yuwa1244,http://concepticon.clld.org/parameters/598,bẽlo,shell
+250-622,yuwa1244,http://concepticon.clld.org/parameters/1910,iʰti,stingray
+250-371,yuwa1244,http://concepticon.clld.org/parameters/522,ʰkʸo yewi,wolf
+250-371,yuwa1244,http://concepticon.clld.org/parameters/1386,ʰkʸo yewi,lion
+250-371,yuwa1244,http://concepticon.clld.org/parameters/1312,ʰkʸo yewi,fox
+250-456,yuwa1244,http://concepticon.clld.org/parameters/1936,ʰkʷãʰtɨbo,deer
+250-229,yuwa1244,http://concepticon.clld.org/parameters/1350,uli ʰkʷayo,monkey
+250-582,yuwa1244,http://concepticon.clld.org/parameters/310,hõhõ,louse
+250-627,yuwa1244,http://concepticon.clld.org/parameters/267,hõhõ ɨke,nit (louse egg)
+250-369,yuwa1244,http://concepticon.clld.org/parameters/232,yewi hõhõ,flea
+250-563,yuwa1244,http://concepticon.clld.org/parameters/1974,iliwe,centipede
+250-622,yuwa1244,http://concepticon.clld.org/parameters/1538,iʰti,scorpion
+250-90,yuwa1244,http://concepticon.clld.org/parameters/1575,oʰkõ,cockroach
+250-284,yuwa1244,http://concepticon.clld.org/parameters/587,ʰyõ,ant
+250-390,yuwa1244,http://concepticon.clld.org/parameters/587,lĩbõ,ant
+250-400,yuwa1244,http://concepticon.clld.org/parameters/843,aʰkuke,spider
+250-245,yuwa1244,http://concepticon.clld.org/parameters/1065,kaliweto,spider web
+250-714,yuwa1244,http://concepticon.clld.org/parameters/665,bãilã ai,bee
+250-18,yuwa1244,http://concepticon.clld.org/parameters/1931,bãilã õ,beeswax
+250-395,yuwa1244,http://concepticon.clld.org/parameters/88,bũʰtu,beehive
+250-669,yuwa1244,http://concepticon.clld.org/parameters/1517,bũhã,wasp
+250-683,yuwa1244,http://concepticon.clld.org/parameters/1504,lɨ̃lɨ̃hã,fly
+250-200,yuwa1244,http://concepticon.clld.org/parameters/95,hitɨhã,"sandfly (midge), gnat"
+250-159,yuwa1244,http://concepticon.clld.org/parameters/1509,ʰtuhelatɨ,mosquito
+250-652,yuwa1244,http://concepticon.clld.org/parameters/1219,ʰlẽi-ʰlõhã,worm
+250-459,yuwa1244,http://concepticon.clld.org/parameters/730,iʰkʷo,snake
+250-576,yuwa1244,http://concepticon.clld.org/parameters/206,ʰtuʰtuyu,firefly
+250-430,yuwa1244,http://concepticon.clld.org/parameters/206,bule ʰyoulabei tekahã,firefly
+250-318,yuwa1244,http://concepticon.clld.org/parameters/1791,waleba,butterfly
+250-15,yuwa1244,http://concepticon.clld.org/parameters/607,ʰkʸowaya,grasshopper
+250-43,yuwa1244,http://concepticon.clld.org/parameters/1543,ʰkalũʰtu,snail
+250-505,yuwa1244,http://concepticon.clld.org/parameters/503,wiwe,frog
+250-302,yuwa1244,http://concepticon.clld.org/parameters/632,ʰtawɨ ʰlawa,lizard
+250-584,yuwa1244,http://concepticon.clld.org/parameters/1857,au ʰlẽ,"crocodile, alligator"
+250-708,yuwa1244,http://concepticon.clld.org/parameters/112,ikʸeka oʰkõ,turtle
+250-664,yuwa1244,http://concepticon.clld.org/parameters/1480,ho,body
+250-20,yuwa1244,http://concepticon.clld.org/parameters/763,he-toto,"skin, hide"
+250-209,yuwa1244,http://concepticon.clld.org/parameters/2259,ilẽhai,flesh
+250-250,yuwa1244,http://concepticon.clld.org/parameters/1040,ɨko,hair (head)
+250-704,yuwa1244,http://concepticon.clld.org/parameters/678,abiye,beard
+250-250,yuwa1244,http://concepticon.clld.org/parameters/189,ɨko,body hair
+250-250,yuwa1244,http://concepticon.clld.org/parameters/36,ɨko,pubic hair
+250-680,yuwa1244,http://concepticon.clld.org/parameters/946,ʰkʷo,blood
+250-50,yuwa1244,http://concepticon.clld.org/parameters/525,ʰkʷo ʰlaʰla,"vein, artery"
+250-267,yuwa1244,http://concepticon.clld.org/parameters/1394,wãwã,bone
+250-607,yuwa1244,http://concepticon.clld.org/parameters/801,uluheʰte,rib
+250-414,yuwa1244,http://concepticon.clld.org/parameters/1393,ʰtu iʰti,horn
+250-657,yuwa1244,http://concepticon.clld.org/parameters/1220,ilẽlã buke,tail
+250-592,yuwa1244,http://concepticon.clld.org/parameters/1291,ʰwɨ,back
+250-292,yuwa1244,http://concepticon.clld.org/parameters/805,ʰwɨ hele,spine
+250-564,yuwa1244,http://concepticon.clld.org/parameters/1256,ʰtu,head
+250-53,yuwa1244,http://concepticon.clld.org/parameters/1604,bule laʰtoka,"side of head, temple"
+250-564,yuwa1244,http://concepticon.clld.org/parameters/1605,ʰtu,skull
+250-35,yuwa1244,http://concepticon.clld.org/parameters/1583,ʰlãʰlã,brain
+250-171,yuwa1244,http://concepticon.clld.org/parameters/1560,a,face
+250-681,yuwa1244,http://concepticon.clld.org/parameters/123,bule bĩlẽ,forehead
+250-91,yuwa1244,http://concepticon.clld.org/parameters/798,aka,jaw
+250-259,yuwa1244,http://concepticon.clld.org/parameters/1730,a beka,cheek
+250-429,yuwa1244,http://concepticon.clld.org/parameters/1510,ãkã,chin
+250-488,yuwa1244,http://concepticon.clld.org/parameters/1248,bule,eye
+250-81,yuwa1244,http://concepticon.clld.org/parameters/1173,bule loʰtoka,eyebrow
+250-36,yuwa1244,http://concepticon.clld.org/parameters/17,bule helõlõ,eyelid
+250-28,yuwa1244,http://concepticon.clld.org/parameters/1540,bule ɨko,eyelash
+250-642,yuwa1244,http://concepticon.clld.org/parameters/1655,bule lawoyẽ,blink
+250-199,yuwa1244,http://concepticon.clld.org/parameters/1247,olẽka,ear
+250-325,yuwa1244,http://concepticon.clld.org/parameters/18,olẽka toto,earlobe
+250-634,yuwa1244,http://concepticon.clld.org/parameters/32,olẽka lãlã,earwax
+250-434,yuwa1244,http://concepticon.clld.org/parameters/1221,ĩyõ,nose
+250-632,yuwa1244,http://concepticon.clld.org/parameters/1178,ĩyõ ʰtaka,nostril
+250-171,yuwa1244,http://concepticon.clld.org/parameters/674,a,mouth
+250-702,yuwa1244,http://concepticon.clld.org/parameters/73,'abo,beak
+250-717,yuwa1244,http://concepticon.clld.org/parameters/478,a hetoto,lip
+250-345,yuwa1244,http://concepticon.clld.org/parameters/1205,alẽlẽ,tongue
+250-208,yuwa1244,http://concepticon.clld.org/parameters/1380,ʰku,tooth
+250-713,yuwa1244,http://concepticon.clld.org/parameters/139,ʰku ikʸu,gums
+250-208,yuwa1244,http://concepticon.clld.org/parameters/1049,ʰku,molartooth
+250-535,yuwa1244,http://concepticon.clld.org/parameters/1333,ʰkʷã ʰwɨ,neck
+250-535,yuwa1244,http://concepticon.clld.org/parameters/1347,ʰkʷã ʰwɨ,nape of neck
+250-193,yuwa1244,http://concepticon.clld.org/parameters/1346,ʰkʷã,throat
+250-264,yuwa1244,http://concepticon.clld.org/parameters/1482,aʰkule ʰtu,shoulder
+250-184,yuwa1244,http://concepticon.clld.org/parameters/172,ʰkewabẽ,shoulderblade
+250-264,yuwa1244,http://concepticon.clld.org/parameters/1994,aʰkule ʰtu,collarbone
+250-301,yuwa1244,http://concepticon.clld.org/parameters/1673,bõ wãwã,arm
+250-350,yuwa1244,http://concepticon.clld.org/parameters/1886,ʰtileʰkɨwe,armpit
+250-458,yuwa1244,http://concepticon.clld.org/parameters/981,bõ ʰkalũke,elbow
+250-446,yuwa1244,http://concepticon.clld.org/parameters/799,bõ ʰkoʰko,wrist
+250-314,yuwa1244,http://concepticon.clld.org/parameters/1277,bõ,hand
+250-237,yuwa1244,http://concepticon.clld.org/parameters/1183,bõ ʰwaʰwa,palm of hand
+250-589,yuwa1244,http://concepticon.clld.org/parameters/1303,bõ ʰteʰla,finger
+250-628,yuwa1244,http://concepticon.clld.org/parameters/1781,uli ʰteʰla,thumb
+250-382,yuwa1244,http://concepticon.clld.org/parameters/1258,ʰteʰla heʰta,fingernail
+250-589,yuwa1244,http://concepticon.clld.org/parameters/72,bõ ʰteʰla,claw
+250-26,yuwa1244,http://concepticon.clld.org/parameters/1297,bẽʰlã,leg
+250-309,yuwa1244,http://concepticon.clld.org/parameters/800,kʸe,thigh
+250-606,yuwa1244,http://concepticon.clld.org/parameters/498,bẽʰlã ʰtulõ,calf of leg
+250-243,yuwa1244,http://concepticon.clld.org/parameters/1371,bẽko,knee
+250-26,yuwa1244,http://concepticon.clld.org/parameters/1301,bẽʰlã,foot
+250-98,yuwa1244,http://concepticon.clld.org/parameters/803,bẽʰlã ʰkoʰko,ankle
+250-306,yuwa1244,http://concepticon.clld.org/parameters/980,bẽʰlã huteko,heel
+250-448,yuwa1244,http://concepticon.clld.org/parameters/318,ɨlẽka,footprint
+250-180,yuwa1244,http://concepticon.clld.org/parameters/1389,bẽʰlã ʰteʰla,toe
+250-169,yuwa1244,http://concepticon.clld.org/parameters/1257,bɨ̃(w)au bɨ̃'eho,wing
+250-250,yuwa1244,http://concepticon.clld.org/parameters/1201,ɨko,feather
+250-659,yuwa1244,http://concepticon.clld.org/parameters/1592,bẽwã,chest
+250-650,yuwa1244,http://concepticon.clld.org/parameters/1402,oteko,breast (of woman)
+250-122,yuwa1244,http://concepticon.clld.org/parameters/796,oteko ʰtu,"nipple, teat"
+250-650,yuwa1244,http://concepticon.clld.org/parameters/154,oteko,udder
+250-728,yuwa1244,http://concepticon.clld.org/parameters/1838,alũwẽ,navel
+250-573,yuwa1244,http://concepticon.clld.org/parameters/1223,ʰkʷo hu,heart
+250-650,yuwa1244,http://concepticon.clld.org/parameters/1224,oteko,liver
+250-393,yuwa1244,http://concepticon.clld.org/parameters/819,ikʸo,stomach
+250-304,yuwa1244,http://concepticon.clld.org/parameters/1991,ikʸo-ʰkʷa,"intestines, guts"
+250-393,yuwa1244,http://concepticon.clld.org/parameters/1681,ikʸo,waist
+250-698,yuwa1244,http://concepticon.clld.org/parameters/1745,ʰtɨtɨke,hip
+250-131,yuwa1244,http://concepticon.clld.org/parameters/834,ikʸu bãbeya,buttocks
+250-304,yuwa1244,http://concepticon.clld.org/parameters/804,ikʸo-ʰkʷa,womb
+250-104,yuwa1244,http://concepticon.clld.org/parameters/797,ilẽlã tale,testicle
+250-657,yuwa1244,http://concepticon.clld.org/parameters/1222,ilẽlã buke,penis
+250-127,yuwa1244,http://concepticon.clld.org/parameters/1407,bẽyabekɨ,"breathe, breath"
+250-334,yuwa1244,http://concepticon.clld.org/parameters/1028,a litoki,"yawn, gape"
+250-359,yuwa1244,http://concepticon.clld.org/parameters/162,ʰkʷã ʰtɨʰkẽbẽ,hiccough
+250-450,yuwa1244,http://concepticon.clld.org/parameters/879,ʰkʷã hulẽbu,cough
+250-257,yuwa1244,http://concepticon.clld.org/parameters/1621,ĩyõ ʰtĩkĩ,sneeze
+250-587,yuwa1244,http://concepticon.clld.org/parameters/126,ʰtuwe laibu,perspire
+250-295,yuwa1244,http://concepticon.clld.org/parameters/1440,hulebe,spit
+250-381,yuwa1244,http://concepticon.clld.org/parameters/1278,'ʰteʰke,vomit
+250-452,yuwa1244,http://concepticon.clld.org/parameters/1403,a yẽɨ,bite
+250-679,yuwa1244,http://concepticon.clld.org/parameters/319,alẽlẽ ʰtowe,lick
+250-249,yuwa1244,http://concepticon.clld.org/parameters/1585,abuwi,sleep
+250-545,yuwa1244,http://concepticon.clld.org/parameters/1983,ʰkʷã ʰtololabe,snore
+250-397,yuwa1244,http://concepticon.clld.org/parameters/1920,abu'ẽ,dream
+250-411,yuwa1244,http://concepticon.clld.org/parameters/1602,'ʰtebĩ,wake up
+250-707,yuwa1244,http://concepticon.clld.org/parameters/592,tɨli biki,urinate
+250-291,yuwa1244,http://concepticon.clld.org/parameters/676,iki laiki,defecate
+250-265,yuwa1244,http://concepticon.clld.org/parameters/1785,hau-ka bai,have sexual intercourse
+250-727,yuwa1244,http://concepticon.clld.org/parameters/52,ʰkʸɨʰtaibu,shiver
+250-339,yuwa1244,http://concepticon.clld.org/parameters/138,au ibu,bathe
+250-33,yuwa1244,http://concepticon.clld.org/parameters/1152,beibei,beget (of father)
+250-33,yuwa1244,http://concepticon.clld.org/parameters/1090,beibei,born (to be)
+250-32,yuwa1244,http://concepticon.clld.org/parameters/1123,ʰtiʰtuhã ikʸouʰkʷa bã,pregnant
+250-278,yuwa1244,http://concepticon.clld.org/parameters/1422,'hoa bẽɨ,"live, living, life"
+250-647,yuwa1244,http://concepticon.clld.org/parameters/1494,bĩyeli,"die, dead"
+250-336,yuwa1244,http://concepticon.clld.org/parameters/1904,ʰka hulẽ,drowned
+250-222,yuwa1244,http://concepticon.clld.org/parameters/1417,ʰkʷã lĩlĩ,kill
+250-8,yuwa1244,http://concepticon.clld.org/parameters/767,bĩyeli-tehã,corpse
+250-351,yuwa1244,http://concepticon.clld.org/parameters/1719,laike-ʰkʷa beibei,bury (the dead)
+250-4,yuwa1244,http://concepticon.clld.org/parameters/1773,laike,"grave, tomb"
+250-668,yuwa1244,http://concepticon.clld.org/parameters/1773,ʰlẽi-ʰkʷa,"grave, tomb"
+250-346,yuwa1244,http://concepticon.clld.org/parameters/785,ikʸeka,"strong, mighty, powerful"
+250-678,yuwa1244,http://concepticon.clld.org/parameters/785,bũʰkete,"strong, mighty, powerful"
+250-706,yuwa1244,http://concepticon.clld.org/parameters/1601,ʰkelõwãlõ,weak
+250-238,yuwa1244,http://concepticon.clld.org/parameters/1364,yã ʰti hã,"well, health"
+250-213,yuwa1244,http://concepticon.clld.org/parameters/1847,yã hã,"sick, sickness"
+250-636,yuwa1244,http://concepticon.clld.org/parameters/1534,ʰtuweʰto,fever
+250-581,yuwa1244,http://concepticon.clld.org/parameters/1957,ʰkʷã ʰlebo,goiter
+250-257,yuwa1244,http://concepticon.clld.org/parameters/102,ĩyõ ʰtĩkĩ,cold (catarrh)
+250-485,yuwa1244,http://concepticon.clld.org/parameters/1109,'yẽtehai,"wound, sore"
+250-485,yuwa1244,http://concepticon.clld.org/parameters/1148,'yẽtehai,bruise
+250-485,yuwa1244,http://concepticon.clld.org/parameters/1903,'yẽtehai,swelling
+250-333,yuwa1244,http://concepticon.clld.org/parameters/148,ʰluwiye,itch
+250-469,yuwa1244,http://concepticon.clld.org/parameters/1584,telõ,blister
+250-485,yuwa1244,http://concepticon.clld.org/parameters/793,'yẽtehai,boil (noun)
+250-454,yuwa1244,http://concepticon.clld.org/parameters/1808,'yẽtehai bãʰyu,pus
+250-449,yuwa1244,http://concepticon.clld.org/parameters/497,ʰyali'ĩtehai,scar
+250-84,yuwa1244,http://concepticon.clld.org/parameters/499,ʰyalo bai,"cure, heal"
+250-56,yuwa1244,http://concepticon.clld.org/parameters/1372,[bẽlãʰtilã],"medicine, drug"
+250-203,yuwa1244,http://concepticon.clld.org/parameters/655,'yẽtohai,poison
+250-124,yuwa1244,http://concepticon.clld.org/parameters/1757,itewɨ,"tired, weary"
+250-148,yuwa1244,http://concepticon.clld.org/parameters/168,ʰkõ,rest
+250-497,yuwa1244,http://concepticon.clld.org/parameters/1564,'aihawalã ʰtowãkĩ tekahã,lazy
+250-319,yuwa1244,http://concepticon.clld.org/parameters/1125,ʰtu ɨko'te,bald
+250-204,yuwa1244,http://concepticon.clld.org/parameters/320,ʰlaʰkãlã ũ,lame
+250-666,yuwa1244,http://concepticon.clld.org/parameters/996,olẽka 'ãku'te,deaf
+250-618,yuwa1244,http://concepticon.clld.org/parameters/1666,ũtɨ'te bãhã,mute
+250-182,yuwa1244,http://concepticon.clld.org/parameters/1653,bule we'te,blind
+250-617,yuwa1244,http://concepticon.clld.org/parameters/590,ʰkʷã ʰtolõta,"naked, bare"
+250-420,yuwa1244,http://concepticon.clld.org/parameters/1336,ʰkʷõ,eat
+250-167,yuwa1244,http://concepticon.clld.org/parameters/256,hawa,food
+250-403,yuwa1244,http://concepticon.clld.org/parameters/269,ʰkabũ,cooked
+250-508,yuwa1244,http://concepticon.clld.org/parameters/1959,itiko,raw
+250-461,yuwa1244,http://concepticon.clld.org/parameters/178,ai bai,ripe
+250-598,yuwa1244,http://concepticon.clld.org/parameters/1958,ʰtiʰto,"green, unripe"
+250-152,yuwa1244,http://concepticon.clld.org/parameters/1728,wali-bu,rotten
+250-398,yuwa1244,http://concepticon.clld.org/parameters/1401,woi,drink
+250-401,yuwa1244,http://concepticon.clld.org/parameters/1533,ʰkʷã bĩyeli,hunger
+250-462,yuwa1244,http://concepticon.clld.org/parameters/848,ʰkʷã ʰkaibu,thirst
+250-89,yuwa1244,http://concepticon.clld.org/parameters/1421,ʰluʰluwe,suck
+250-452,yuwa1244,http://concepticon.clld.org/parameters/321,a yẽɨ,chew
+250-391,yuwa1244,http://concepticon.clld.org/parameters/897,ʰkʷã lou,swallow
+250-336,yuwa1244,http://concepticon.clld.org/parameters/129,ʰka hulẽ,choke
+250-441,yuwa1244,http://concepticon.clld.org/parameters/1100,hɨlẽtɨ,cook
+250-179,yuwa1244,http://concepticon.clld.org/parameters/792,ʰkʷalɨ,boil (vb)
+250-185,yuwa1244,http://concepticon.clld.org/parameters/2146,alɨ,"roast, fry"
+250-711,yuwa1244,http://concepticon.clld.org/parameters/183,balɨ,bake
+250-553,yuwa1244,http://concepticon.clld.org/parameters/1462,ʰto,"pot, cooking vessel"
+250-553,yuwa1244,http://concepticon.clld.org/parameters/854,ʰto,kettle
+250-553,yuwa1244,http://concepticon.clld.org/parameters/31,ʰto,pan
+250-107,yuwa1244,http://concepticon.clld.org/parameters/481,bĩhĩ,dish
+250-107,yuwa1244,http://concepticon.clld.org/parameters/480,bĩhĩ,plate
+250-29,yuwa1244,http://concepticon.clld.org/parameters/1530,wõihta,bowl
+250-107,yuwa1244,http://concepticon.clld.org/parameters/1530,bĩhĩ,bowl
+250-270,yuwa1244,http://concepticon.clld.org/parameters/270,ʰyɨ,"pitcher, jug"
+250-107,yuwa1244,http://concepticon.clld.org/parameters/476,bĩhĩ,"cup, drinking vessel"
+250-270,yuwa1244,http://concepticon.clld.org/parameters/476,ʰyɨ,"cup, drinking vessel"
+250-107,yuwa1244,http://concepticon.clld.org/parameters/271,bĩhĩ,saucer
+250-107,yuwa1244,http://concepticon.clld.org/parameters/1378,bĩhĩ,spoon
+250-294,yuwa1244,http://concepticon.clld.org/parameters/1352,bãye,knife (2)
+250-355,yuwa1244,http://concepticon.clld.org/parameters/1302,toʰkʷe ʰkʷõ tekahĩ,fork (2)
+250-432,yuwa1244,http://concepticon.clld.org/parameters/1526,hawa ʰkʷõ tehawa,meal (a)
+250-593,yuwa1244,http://concepticon.clld.org/parameters/275,ʰkolabe,peel
+250-108,yuwa1244,http://concepticon.clld.org/parameters/86,ʰliye,"sieve, strain"
+250-154,yuwa1244,http://concepticon.clld.org/parameters/1767,ʰkʷeɨ,scrape
+250-121,yuwa1244,http://concepticon.clld.org/parameters/2017,hole,"stir, mix"
+250-221,yuwa1244,http://concepticon.clld.org/parameters/273,ʰtaʰta,dough
+250-689,yuwa1244,http://concepticon.clld.org/parameters/274,laʰlɨ abatɨ,knead
+250-555,yuwa1244,http://concepticon.clld.org/parameters/1594,ʰyowã,"meal, flour"
+250-280,yuwa1244,http://concepticon.clld.org/parameters/1033,tou,"crush, grind"
+250-663,yuwa1244,http://concepticon.clld.org/parameters/224,ʰtota,mortar (2)
+250-677,yuwa1244,http://concepticon.clld.org/parameters/225,ʰtota hele,pestle
+250-209,yuwa1244,http://concepticon.clld.org/parameters/634,ilẽhai,meat
+250-97,yuwa1244,http://concepticon.clld.org/parameters/1547,ʰyu,"soup, broth"
+250-130,yuwa1244,http://concepticon.clld.org/parameters/832,bãlĩ,bean
+250-46,yuwa1244,http://concepticon.clld.org/parameters/593,ʰwalẽ,potato
+250-662,yuwa1244,http://concepticon.clld.org/parameters/1507,hu,fruit
+250-178,yuwa1244,http://concepticon.clld.org/parameters/1507,tale,fruit
+250-73,yuwa1244,http://concepticon.clld.org/parameters/1507,atei,fruit
+250-73,yuwa1244,http://concepticon.clld.org/parameters/1966,atei,bunch
+250-501,yuwa1244,http://concepticon.clld.org/parameters/920,ibu atei,grape
+250-207,yuwa1244,http://concepticon.clld.org/parameters/191,ʰtawɨ tale,nut
+250-526,yuwa1244,http://concepticon.clld.org/parameters/1484,lãlã,oil
+250-275,yuwa1244,http://concepticon.clld.org/parameters/323,ʰkalawa,"grease, fat"
+250-542,yuwa1244,http://concepticon.clld.org/parameters/1274,[ʰta] ʰyowã,salt
+250-562,yuwa1244,http://concepticon.clld.org/parameters/1385,lãʰtẽ,pepper
+250-114,yuwa1244,http://concepticon.clld.org/parameters/919,laʰtẽ,chili pepper
+250-540,yuwa1244,http://concepticon.clld.org/parameters/942,bãilã,honey
+250-616,yuwa1244,http://concepticon.clld.org/parameters/862,ʰkalãlã ʰyowã,sugar
+250-88,yuwa1244,http://concepticon.clld.org/parameters/635,otei ʰyu,milk (noun)
+250-97,yuwa1244,http://concepticon.clld.org/parameters/731,ʰyu,"beverage, drink"
+250-368,yuwa1244,http://concepticon.clld.org/parameters/404,wike ʰyu,fermented drink
+250-254,yuwa1244,http://concepticon.clld.org/parameters/744,ɨke,egg
+250-188,yuwa1244,http://concepticon.clld.org/parameters/1556,ɨke ʰweʰla,egg yolk
+250-191,yuwa1244,http://concepticon.clld.org/parameters/158,ʰka bautɨ (?),put on (clothes)
+250-595,yuwa1244,http://concepticon.clld.org/parameters/1895,toto,"clothing, clothes"
+250-595,yuwa1244,http://concepticon.clld.org/parameters/1616,toto,cloth
+250-701,yuwa1244,http://concepticon.clld.org/parameters/1850,lẽwã,cotton
+250-595,yuwa1244,http://concepticon.clld.org/parameters/580,toto,fur
+250-595,yuwa1244,http://concepticon.clld.org/parameters/629,toto,leather
+250-596,yuwa1244,http://concepticon.clld.org/parameters/121,tiletɨ,spin
+250-366,yuwa1244,http://concepticon.clld.org/parameters/277,lẽwã lã,spindle
+250-118,yuwa1244,http://concepticon.clld.org/parameters/133,walẽ,weave
+250-119,yuwa1244,http://concepticon.clld.org/parameters/133,toto bou,weave
+250-224,yuwa1244,http://concepticon.clld.org/parameters/1457,teɨ,sew
+250-383,yuwa1244,http://concepticon.clld.org/parameters/1382,ʰtibulu,needle
+250-196,yuwa1244,http://concepticon.clld.org/parameters/1161,hoho,thread
+250-231,yuwa1244,http://concepticon.clld.org/parameters/157,ʰkulilu,dye
+250-595,yuwa1244,http://concepticon.clld.org/parameters/474,toto,woman's dress
+250-595,yuwa1244,http://concepticon.clld.org/parameters/1622,toto,shirt
+250-574,yuwa1244,http://concepticon.clld.org/parameters/809,ikʸu toto,trousers
+250-172,yuwa1244,http://concepticon.clld.org/parameters/329,bẽʰlã toto,"stocking, sock"
+250-226,yuwa1244,http://concepticon.clld.org/parameters/1381,bẽʰlã ʰtaʰta,shoe
+250-258,yuwa1244,http://concepticon.clld.org/parameters/2130,ʰtu laho,"hat, cap"
+250-311,yuwa1244,http://concepticon.clld.org/parameters/772,ikʸou lãkaho,"belt, girdle"
+250-399,yuwa1244,http://concepticon.clld.org/parameters/757,toto tale,button
+250-383,yuwa1244,http://concepticon.clld.org/parameters/64,ʰtibulu,pin
+250-493,yuwa1244,http://concepticon.clld.org/parameters/1754,bõ lãkaho,bracelet
+250-321,yuwa1244,http://concepticon.clld.org/parameters/1961,ʰkʷã lãka,necklace
+250-321,yuwa1244,http://concepticon.clld.org/parameters/1860,ʰkʷã lãka,bead
+250-477,yuwa1244,http://concepticon.clld.org/parameters/770,olẽka-heʰle,earring
+250-14,yuwa1244,http://concepticon.clld.org/parameters/330,yewo ʰtu wayaka,"headband, headdress"
+250-595,yuwa1244,http://concepticon.clld.org/parameters/332,toto,"handkerchief, rag"
+250-682,yuwa1244,http://concepticon.clld.org/parameters/1021,au ibu teka to,towel
+250-548,yuwa1244,http://concepticon.clld.org/parameters/1475,ʰtu ʰkʷeɨ tekai,comb
+250-502,yuwa1244,http://concepticon.clld.org/parameters/151,abiye ʰkʷeɨ'e tekai,razor
+250-526,yuwa1244,http://concepticon.clld.org/parameters/1926,lãlã,ointment
+250-419,yuwa1244,http://concepticon.clld.org/parameters/788,au ibu tekai,soap
+250-552,yuwa1244,http://concepticon.clld.org/parameters/1171,ʰkʷa wetekai,mirror
+250-625,yuwa1244,http://concepticon.clld.org/parameters/1099,bẽi,"dwell, live"
+250-62,yuwa1244,http://concepticon.clld.org/parameters/1252,lũwe,house
+250-62,yuwa1244,http://concepticon.clld.org/parameters/1678,lũwe,hut
+250-62,yuwa1244,http://concepticon.clld.org/parameters/403,lũwe,garden-house
+250-136,yuwa1244,http://concepticon.clld.org/parameters/334,ʰkʸɨ lũwe,cookhouse
+250-498,yuwa1244,http://concepticon.clld.org/parameters/1450,laho,room
+250-42,yuwa1244,http://concepticon.clld.org/parameters/1567,ulike,"door, gate"
+250-68,yuwa1244,http://concepticon.clld.org/parameters/80,ulike ʰkãʰkã,"doorpost, jamb"
+250-327,yuwa1244,http://concepticon.clld.org/parameters/1596,ʰka ʰkʷatɨ tekai,lock (noun)
+250-327,yuwa1244,http://concepticon.clld.org/parameters/1012,ʰka ʰkʷatɨ tekai,"latch, door-bolt"
+250-327,yuwa1244,http://concepticon.clld.org/parameters/1472,ʰka ʰkʷatɨ tekai,key
+250-380,yuwa1244,http://concepticon.clld.org/parameters/1375,eʰkebo lãhai,window
+250-25,yuwa1244,http://concepticon.clld.org/parameters/1632,ʰlẽi,floor
+250-69,yuwa1244,http://concepticon.clld.org/parameters/933,lũwe ʰwaʰwa,wall
+250-281,yuwa1244,http://concepticon.clld.org/parameters/859,hɨlẽtɨ tekai,stove
+250-61,yuwa1244,http://concepticon.clld.org/parameters/1464,bõ bai tekai,ladder
+250-117,yuwa1244,http://concepticon.clld.org/parameters/1663,abui tekai,bed
+250-300,yuwa1244,http://concepticon.clld.org/parameters/806,abui teka to,blanket
+250-220,yuwa1244,http://concepticon.clld.org/parameters/1476,towãkĩ tekai,chair
+250-406,yuwa1244,http://concepticon.clld.org/parameters/2131,bõko,"lamp, torch"
+250-406,yuwa1244,http://concepticon.clld.org/parameters/1273,bõko,candle
+250-374,yuwa1244,http://concepticon.clld.org/parameters/769,lũwe bĩlẽ,roof
+250-405,yuwa1244,http://concepticon.clld.org/parameters/279,bãlaya,thatch
+250-316,yuwa1244,http://concepticon.clld.org/parameters/280,bẽbo,ridgepole
+250-316,yuwa1244,http://concepticon.clld.org/parameters/829,bẽbo,rafter
+250-316,yuwa1244,http://concepticon.clld.org/parameters/1132,bẽbo,beam
+250-138,yuwa1244,http://concepticon.clld.org/parameters/281,ʰkãʰkã,"post, pole"
+250-646,yuwa1244,http://concepticon.clld.org/parameters/1227,ʰtawɨ heʰte,board
+250-525,yuwa1244,http://concepticon.clld.org/parameters/901,ʰleʰte,adobe
+250-519,yuwa1244,http://concepticon.clld.org/parameters/212,balo,field (for cultivation)
+250-519,yuwa1244,http://concepticon.clld.org/parameters/586,balo,garden
+250-181,yuwa1244,http://concepticon.clld.org/parameters/1541,balo hu,"cultivate, till"
+250-498,yuwa1244,http://concepticon.clld.org/parameters/1690,laho,fence
+250-4,yuwa1244,http://concepticon.clld.org/parameters/2002,laike,ditch
+250-662,yuwa1244,http://concepticon.clld.org/parameters/1418,hu,dig
+250-216,yuwa1244,http://concepticon.clld.org/parameters/1176,ʰlẽi hu wilabe tekai,spade
+250-216,yuwa1244,http://concepticon.clld.org/parameters/1901,ʰlẽi hu wilabe tekai,shovel
+250-733,yuwa1244,http://concepticon.clld.org/parameters/284,ʰlẽi hu tekai,hoe
+250-507,yuwa1244,http://concepticon.clld.org/parameters/338,ʰlẽi ʰkʷeɨ tekai,rake
+250-55,yuwa1244,http://concepticon.clld.org/parameters/190,lẽɨ,"mow, reap"
+250-528,yuwa1244,http://concepticon.clld.org/parameters/506,ʰtãbu,"maize, corn"
+250-435,yuwa1244,http://concepticon.clld.org/parameters/606,'ʰkʸẽlõ,grass
+250-435,yuwa1244,http://concepticon.clld.org/parameters/342,'ʰkʸẽlõ,hay
+250-518,yuwa1244,http://concepticon.clld.org/parameters/1486,lɨtɨ,plant (vb)
+250-41,yuwa1244,http://concepticon.clld.org/parameters/670,ʰlaʰla,root
+250-267,yuwa1244,http://concepticon.clld.org/parameters/1531,wãwã,branch
+250-100,yuwa1244,http://concepticon.clld.org/parameters/628,ʰya,leaf
+250-611,yuwa1244,http://concepticon.clld.org/parameters/239,bu,flower
+250-591,yuwa1244,http://concepticon.clld.org/parameters/906,ʰtawɨ,tree
+250-427,yuwa1244,http://concepticon.clld.org/parameters/343,ibu hu,vine
+250-141,yuwa1244,http://concepticon.clld.org/parameters/974,ʰkawoi,tobacco
+250-408,yuwa1244,http://concepticon.clld.org/parameters/241,ʰtawɨ ʰkãʰkã,tree stump
+250-537,yuwa1244,http://concepticon.clld.org/parameters/344,ʰtawɨ ʰyeɨ,tree trunk
+250-437,yuwa1244,http://concepticon.clld.org/parameters/409,ãʰwã,forked branch
+250-595,yuwa1244,http://concepticon.clld.org/parameters/1204,toto,bark
+250-526,yuwa1244,http://concepticon.clld.org/parameters/345,lãlã,sap
+250-367,yuwa1244,http://concepticon.clld.org/parameters/1181,ulu hĩ,palm tree
+250-128,yuwa1244,http://concepticon.clld.org/parameters/970,[hkohko],coconut
+250-655,yuwa1244,http://concepticon.clld.org/parameters/868,heʰtala wãwã,banana tree
+250-489,yuwa1244,http://concepticon.clld.org/parameters/159,iye,sweet potato
+250-489,yuwa1244,http://concepticon.clld.org/parameters/410,iye,yam
+250-46,yuwa1244,http://concepticon.clld.org/parameters/410,ʰwalẽ,yam
+250-433,yuwa1244,http://concepticon.clld.org/parameters/925,ale,"tapioca, manioc, cassava"
+250-263,yuwa1244,http://concepticon.clld.org/parameters/411,ʰlabo,gourd
+250-155,yuwa1244,http://concepticon.clld.org/parameters/864,ʰkuʰte hu,"pumpkin, squash"
+250-638,yuwa1244,http://concepticon.clld.org/parameters/1927,ʰtawibo,bamboo
+250-211,yuwa1244,http://concepticon.clld.org/parameters/146,ʰkalãlã,sugar cane
+250-554,yuwa1244,http://concepticon.clld.org/parameters/348,bãʰtulẽ,fish poison (root)
+250-132,yuwa1244,http://concepticon.clld.org/parameters/641,aʰkilõ,mushroom
+250-86,yuwa1244,http://concepticon.clld.org/parameters/813,bou,"do, make"
+250-86,yuwa1244,http://concepticon.clld.org/parameters/984,bou,work
+250-609,yuwa1244,http://concepticon.clld.org/parameters/2004,ihkõ,bend
+250-675,yuwa1244,http://concepticon.clld.org/parameters/1470,boyatai,fold
+250-253,yuwa1244,http://concepticon.clld.org/parameters/1917,alɨ̃tɨ,"tie, bind"
+250-557,yuwa1244,http://concepticon.clld.org/parameters/352,ʰkuluwai,untie
+250-662,yuwa1244,http://concepticon.clld.org/parameters/1218,hu,"rope, cord"
+250-243,yuwa1244,http://concepticon.clld.org/parameters/760,bẽko,knot (noun)
+250-246,yuwa1244,http://concepticon.clld.org/parameters/2133,ʰwau,"strike (hit, beat)"
+250-246,yuwa1244,http://concepticon.clld.org/parameters/354,ʰwau,pound with fist
+250-66,yuwa1244,http://concepticon.clld.org/parameters/1432,ʰkʷai,cut
+250-277,yuwa1244,http://concepticon.clld.org/parameters/355,huleɨ,cut down
+250-145,yuwa1244,http://concepticon.clld.org/parameters/155,ʰkeɨ,"chop, hew"
+250-227,yuwa1244,http://concepticon.clld.org/parameters/1434,to-ʰkʷe,stab
+250-230,yuwa1244,http://concepticon.clld.org/parameters/1352,bãyelɨ̃ toʰkʷe,knife
+250-9,yuwa1244,http://concepticon.clld.org/parameters/356,ikʸu liʰke te-hai,"scissors, shears"
+250-512,yuwa1244,http://concepticon.clld.org/parameters/677,ʰtote,ax
+250-492,yuwa1244,http://concepticon.clld.org/parameters/290,ʰkʷeɨ te-kai (te-ka-hai),adze
+250-670,yuwa1244,http://concepticon.clld.org/parameters/680,lai-ʰwi,break
+250-385,yuwa1244,http://concepticon.clld.org/parameters/588,lai-ʰwi te-hai,broken
+250-145,yuwa1244,http://concepticon.clld.org/parameters/1437,ʰkeɨ,split
+250-288,yuwa1244,http://concepticon.clld.org/parameters/1735,ʰtaʰtei,tear
+250-637,yuwa1244,http://concepticon.clld.org/parameters/291,ʰweiai,"flay, skin"
+250-110,yuwa1244,http://concepticon.clld.org/parameters/1449,ʰweɨ tuwi,"rub, wipe"
+250-428,yuwa1244,http://concepticon.clld.org/parameters/214,taulĩwe,stretch
+250-170,yuwa1244,http://concepticon.clld.org/parameters/1455,ʰtatɨ,pull
+250-343,yuwa1244,http://concepticon.clld.org/parameters/38,ʰka-liʰteiki,spread out
+250-447,yuwa1244,http://concepticon.clld.org/parameters/357,ʰka-akʷatɨ,hang up
+250-234,yuwa1244,http://concepticon.clld.org/parameters/1913,luwetɨ,press
+250-499,yuwa1244,http://concepticon.clld.org/parameters/1414,bãlãtɨ eʰlowabei,"squeeze, wring"
+250-709,yuwa1244,http://concepticon.clld.org/parameters/1487,ʰka-ʰyãi,pour
+250-559,yuwa1244,http://concepticon.clld.org/parameters/1453,au tɨlɨ,wash
+250-24,yuwa1244,http://concepticon.clld.org/parameters/230,ʰwatɨ,sweep
+250-438,yuwa1244,http://concepticon.clld.org/parameters/245,ʰlẽi ʰwatɨ tekai (te-ka-hai),broom
+250-86,yuwa1244,http://concepticon.clld.org/parameters/1840,bou,build
+250-624,yuwa1244,http://concepticon.clld.org/parameters/1501,bule ʰtuwiwai,bore
+250-145,yuwa1244,http://concepticon.clld.org/parameters/46,ʰkeɨ,hollow out
+250-649,yuwa1244,http://concepticon.clld.org/parameters/1948,ʰyatɨ teɨ,saw
+250-54,yuwa1244,http://concepticon.clld.org/parameters/1481,ʰku lãbẽitɨ,hammer
+250-471,yuwa1244,http://concepticon.clld.org/parameters/1481,ʰwɨ̃ lãbẽitɨ,hammer
+250-344,yuwa1244,http://concepticon.clld.org/parameters/502,heʰle,nail
+250-716,yuwa1244,http://concepticon.clld.org/parameters/1069,huteko,glue
+250-671,yuwa1244,http://concepticon.clld.org/parameters/1369,[olo],gold
+250-218,yuwa1244,http://concepticon.clld.org/parameters/289,ʰleʰte luwetɨ,mold (clay etc)
+250-525,yuwa1244,http://concepticon.clld.org/parameters/1399,ʰleʰte,clay
+250-118,yuwa1244,http://concepticon.clld.org/parameters/1729,walẽ,"weave, plait"
+250-195,yuwa1244,http://concepticon.clld.org/parameters/1539,lãla,basket
+250-89,yuwa1244,http://concepticon.clld.org/parameters/195,ʰluʰluwe,mat
+250-89,yuwa1244,http://concepticon.clld.org/parameters/292,ʰluʰluwe,rug
+250-108,yuwa1244,http://concepticon.clld.org/parameters/293,ʰliye,netbag
+250-455,yuwa1244,http://concepticon.clld.org/parameters/1971,ʰkule ʰkaʰwe,fan (noun)
+250-478,yuwa1244,http://concepticon.clld.org/parameters/360,uwete,fan (vb)
+250-145,yuwa1244,http://concepticon.clld.org/parameters/228,ʰkeɨ,carve
+250-526,yuwa1244,http://concepticon.clld.org/parameters/647,lãlã,paint (noun)
+250-95,yuwa1244,http://concepticon.clld.org/parameters/2001,tuwi,paint (vb)
+250-470,yuwa1244,http://concepticon.clld.org/parameters/2001,tuweo,paint (vb)
+250-361,yuwa1244,http://concepticon.clld.org/parameters/765,ũ,move
+250-603,yuwa1244,http://concepticon.clld.org/parameters/1588,bãtɨ balatɨ,turn over
+250-476,yuwa1244,http://concepticon.clld.org/parameters/1445,ʰka-bãlãlĩ,turn around
+250-337,yuwa1244,http://concepticon.clld.org/parameters/1113,ʰweɨ,"wind, wrap"
+250-158,yuwa1244,http://concepticon.clld.org/parameters/827,heleli,roll
+250-495,yuwa1244,http://concepticon.clld.org/parameters/808,ʰyai ʰwi,drop (vb)
+250-95,yuwa1244,http://concepticon.clld.org/parameters/430,tuwi,twist
+250-78,yuwa1244,http://concepticon.clld.org/parameters/568,ʰweili,rise
+250-404,yuwa1244,http://concepticon.clld.org/parameters/501,ʰka-'ʰtebãi,"raise, lift"
+250-412,yuwa1244,http://concepticon.clld.org/parameters/1280,ʰwi,fall
+250-113,yuwa1244,http://concepticon.clld.org/parameters/2253,lõu,drip
+250-583,yuwa1244,http://concepticon.clld.org/parameters/1456,ʰka-lũ,throw
+250-142,yuwa1244,http://concepticon.clld.org/parameters/702,lũwẽte,catch (ball)
+250-705,yuwa1244,http://concepticon.clld.org/parameters/1909,ʰkɨe-bu,shake
+250-151,yuwa1244,http://concepticon.clld.org/parameters/2003,helou,flow
+250-305,yuwa1244,http://concepticon.clld.org/parameters/1088,ʰtai ʰwi,sink
+250-722,yuwa1244,http://concepticon.clld.org/parameters/1574,ʰka-wãlã,float
+250-7,yuwa1244,http://concepticon.clld.org/parameters/1439,ʰkʷei-ai,swim
+250-442,yuwa1244,http://concepticon.clld.org/parameters/119,heto-ʰkʷa ʰwi tali,dive
+250-3,yuwa1244,http://concepticon.clld.org/parameters/365,au abibãyẽbei,splash
+250-697,yuwa1244,http://concepticon.clld.org/parameters/1441,bõwe,fly (vb)
+250-445,yuwa1244,http://concepticon.clld.org/parameters/1441,ʰkeleibilĩ,fly (vb)
+250-662,yuwa1244,http://concepticon.clld.org/parameters/175,hu,blow
+250-315,yuwa1244,http://concepticon.clld.org/parameters/175,ʰkʸo ʰweɨ,blow
+250-44,yuwa1244,http://concepticon.clld.org/parameters/96,ʰlaʰkalã ũ,"creep, crawl"
+250-126,yuwa1244,http://concepticon.clld.org/parameters/66,bẽko ʰtu itewa,kneel
+250-690,yuwa1244,http://concepticon.clld.org/parameters/296,bẽʰlã ʰtu towã,crouch
+250-506,yuwa1244,http://concepticon.clld.org/parameters/1324,ikʸe ʰwi,"slide, slip"
+250-164,yuwa1244,http://concepticon.clld.org/parameters/1829,ʰka-tɨ,"jump, leap"
+250-210,yuwa1244,http://concepticon.clld.org/parameters/1135,ʰkʷei,kick
+250-629,yuwa1244,http://concepticon.clld.org/parameters/1879,bẽʰlã ʰtɨ̃ ʰtɨ̃,dance
+250-522,yuwa1244,http://concepticon.clld.org/parameters/1443,bɨke ũ,walk
+250-205,yuwa1244,http://concepticon.clld.org/parameters/366,ʰlẽɨ,limp
+250-205,yuwa1244,http://concepticon.clld.org/parameters/1519,ʰlẽɨ,run
+250-65,yuwa1244,http://concepticon.clld.org/parameters/695,wõi,go
+250-444,yuwa1244,http://concepticon.clld.org/parameters/705,wõi bi,go up
+250-125,yuwa1244,http://concepticon.clld.org/parameters/1102,bẽbai,climb
+250-643,yuwa1244,http://concepticon.clld.org/parameters/2014,beʰtai,go down
+250-153,yuwa1244,http://concepticon.clld.org/parameters/1107,laibi wõi,go out
+250-352,yuwa1244,http://concepticon.clld.org/parameters/1446,ʰlu,come
+250-550,yuwa1244,http://concepticon.clld.org/parameters/581,luwe ʰlu,come back
+250-65,yuwa1244,http://concepticon.clld.org/parameters/1752,wõi,"go away, depart"
+250-586,yuwa1244,http://concepticon.clld.org/parameters/1752,luwe,"go away, depart"
+250-16,yuwa1244,http://concepticon.clld.org/parameters/485,ʰtoweika beibei,disappear
+250-460,yuwa1244,http://concepticon.clld.org/parameters/956,ʰtoweika ʰlẽɨye,flee
+250-260,yuwa1244,http://concepticon.clld.org/parameters/1085,ʰwɨ̃ yãi,follow
+250-121,yuwa1244,http://concepticon.clld.org/parameters/1047,hole,pursue
+250-352,yuwa1244,http://concepticon.clld.org/parameters/1387,ʰlu,"reach, arrive"
+250-352,yuwa1244,http://concepticon.clld.org/parameters/1778,ʰlu,approach
+250-166,yuwa1244,http://concepticon.clld.org/parameters/749,ʰtali,enter
+250-468,yuwa1244,http://concepticon.clld.org/parameters/700,ʰka-bĩ,carry (bear)
+250-468,yuwa1244,http://concepticon.clld.org/parameters/412,ʰka-bĩ,carry-in-hand
+250-236,yuwa1244,http://concepticon.clld.org/parameters/412,ʰkelei-abei,carry-in-hand
+250-283,yuwa1244,http://concepticon.clld.org/parameters/413,aʰkulelɨ̃ wãlẽlẽ,carry-on-shoulder
+250-556,yuwa1244,http://concepticon.clld.org/parameters/414,hebotai,carry-on-head
+250-261,yuwa1244,http://concepticon.clld.org/parameters/415,ʰtile-ʰkɨwe yãtei,carry-underarm
+250-579,yuwa1244,http://concepticon.clld.org/parameters/692,luwi,bring
+250-413,yuwa1244,http://concepticon.clld.org/parameters/43,ʰtilẽ,lead (vb)
+250-361,yuwa1244,http://concepticon.clld.org/parameters/741,ũ,drive
+250-569,yuwa1244,http://concepticon.clld.org/parameters/367,ũ...,ride
+250-483,yuwa1244,http://concepticon.clld.org/parameters/1452,ʰyatɨ-ũ,"push, shove"
+250-653,yuwa1244,http://concepticon.clld.org/parameters/1452,ʰyatɨ-ʰkʷei,"push, shove"
+250-684,yuwa1244,http://concepticon.clld.org/parameters/667,bãlã,road
+250-684,yuwa1244,http://concepticon.clld.org/parameters/2252,bãlã,path
+250-206,yuwa1244,http://concepticon.clld.org/parameters/1011,hibɨeka,bridge
+250-323,yuwa1244,http://concepticon.clld.org/parameters/122,ʰtatɨ ʰkʷei tekai,"carriage, wagon, cart"
+250-630,yuwa1244,http://concepticon.clld.org/parameters/710,bãlãlĩbu tekai,wheel
+250-344,yuwa1244,http://concepticon.clld.org/parameters/1769,heʰle,axle
+250-266,yuwa1244,http://concepticon.clld.org/parameters/740,uli au ʰtawɨ,ship
+250-590,yuwa1244,http://concepticon.clld.org/parameters/1844,au ʰtawɨ,boat
+250-590,yuwa1244,http://concepticon.clld.org/parameters/1970,au ʰtawɨ,canoe
+250-590,yuwa1244,http://concepticon.clld.org/parameters/1664,au ʰtawɨ,raft
+250-59,yuwa1244,http://concepticon.clld.org/parameters/108,au ʰtawɨ heʰte,oar
+250-59,yuwa1244,http://concepticon.clld.org/parameters/234,au ʰtawɨ heʰte,paddle (noun)
+250-674,yuwa1244,http://concepticon.clld.org/parameters/1849,holebĩ,row (vb)
+250-503,yuwa1244,http://concepticon.clld.org/parameters/610,au ʰtawɨ bãhai,"harbor, port"
+250-529,yuwa1244,http://concepticon.clld.org/parameters/1922,ʰlu ʰwi,land (vb)
+250-621,yuwa1244,http://concepticon.clld.org/parameters/773,bã-,have
+250-621,yuwa1244,http://concepticon.clld.org/parameters/684,bã-,"own, possess"
+250-533,yuwa1244,http://concepticon.clld.org/parameters/1749,bou bẽi,take
+250-307,yuwa1244,http://concepticon.clld.org/parameters/2021,lũwẽtɨ,"seize, grasp"
+250-413,yuwa1244,http://concepticon.clld.org/parameters/1448,ʰtilẽ,hold
+250-34,yuwa1244,http://concepticon.clld.org/parameters/694,ʰka-bɨ̃,"get, obtain"
+250-375,yuwa1244,http://concepticon.clld.org/parameters/1477,ʰka-ʰtɨ'te,"keep, retain"
+250-546,yuwa1244,http://concepticon.clld.org/parameters/738,hai,thing
+250-363,yuwa1244,http://concepticon.clld.org/parameters/738,ha,thing
+250-651,yuwa1244,http://concepticon.clld.org/parameters/738,hĩ,thing
+250-196,yuwa1244,http://concepticon.clld.org/parameters/738,hoho,thing
+250-608,yuwa1244,http://concepticon.clld.org/parameters/738,bo,thing
+250-417,yuwa1244,http://concepticon.clld.org/parameters/1447,ʰka-ʰtɨ,give
+250-613,yuwa1244,http://concepticon.clld.org/parameters/85,ʰleika ʰka-ʰtɨ,give back
+250-58,yuwa1244,http://concepticon.clld.org/parameters/681,ʰka-ʰtowailɨ̃,destroy
+250-378,yuwa1244,http://concepticon.clld.org/parameters/44,ʰka-ʰtowai,"harm, injure, damage"
+250-723,yuwa1244,http://concepticon.clld.org/parameters/1468,welɨ,"seek, look for"
+250-74,yuwa1244,http://concepticon.clld.org/parameters/719,welɨ-lai,find
+250-48,yuwa1244,http://concepticon.clld.org/parameters/1660,ʰtowai,lose
+250-168,yuwa1244,http://concepticon.clld.org/parameters/1095,ʰka-lei,"release, let go"
+250-47,yuwa1244,http://concepticon.clld.org/parameters/1559,[balata],money
+250-729,yuwa1244,http://concepticon.clld.org/parameters/1934,'aiwa abei teka-jã,beggar
+250-726,yuwa1244,http://concepticon.clld.org/parameters/1774,ʰka-ʰtɨ'te bãlɨ̃,"avaricious, stingy"
+250-468,yuwa1244,http://concepticon.clld.org/parameters/582,ʰka-bĩ,lend
+250-468,yuwa1244,http://concepticon.clld.org/parameters/1823,ʰka-bĩ,borrow
+250-214,yuwa1244,http://concepticon.clld.org/parameters/369,ʰke,owe
+250-417,yuwa1244,http://concepticon.clld.org/parameters/718,ʰka-ʰtɨ,pay (vb)
+250-156,yuwa1244,http://concepticon.clld.org/parameters/1869,abei-bɨ̃,buy
+250-417,yuwa1244,http://concepticon.clld.org/parameters/1571,ʰka-ʰtɨ,sell
+250-644,yuwa1244,http://concepticon.clld.org/parameters/2135,abei,"trade, barter"
+250-417,yuwa1244,http://concepticon.clld.org/parameters/884,ʰka-ʰtɨ,share (distribute)
+250-82,yuwa1244,http://concepticon.clld.org/parameters/1685,-tolã,after
+250-105,yuwa1244,http://concepticon.clld.org/parameters/1685,-hailã,after
+250-422,yuwa1244,http://concepticon.clld.org/parameters/723,-ikʸuke,behind
+250-251,yuwa1244,http://concepticon.clld.org/parameters/1816,aʰkulẽ,beside
+250-619,yuwa1244,http://concepticon.clld.org/parameters/1326,ʰkʸaka,"down, below"
+250-521,yuwa1244,http://concepticon.clld.org/parameters/1326,ʰkulẽ,"down, below"
+250-87,yuwa1244,http://concepticon.clld.org/parameters/1882,-ʰkɨwe,before
+250-572,yuwa1244,http://concepticon.clld.org/parameters/1019,-akɨ,front
+250-696,yuwa1244,http://concepticon.clld.org/parameters/1606,-ʰkʷa,"inside, in"
+250-656,yuwa1244,http://concepticon.clld.org/parameters/762,ʰkʸoka,outside
+250-87,yuwa1244,http://concepticon.clld.org/parameters/1485,-ʰkɨwe,under
+250-523,yuwa1244,http://concepticon.clld.org/parameters/1591,bɨ̃ke,"up, above"
+250-354,yuwa1244,http://concepticon.clld.org/parameters/1591,-bĩlẽ,"up, above"
+250-699,yuwa1244,http://concepticon.clld.org/parameters/723,lo,place
+250-162,yuwa1244,http://concepticon.clld.org/parameters/998,ʰka-tɨtɨ,put
+250-544,yuwa1244,http://concepticon.clld.org/parameters/1416,towã,sit
+250-457,yuwa1244,http://concepticon.clld.org/parameters/215,ʰyali,lie down
+250-379,yuwa1244,http://concepticon.clld.org/parameters/1442,wã,stand
+250-511,yuwa1244,http://concepticon.clld.org/parameters/987,bẽɨ,"remain, stay"
+250-137,yuwa1244,http://concepticon.clld.org/parameters/7,bo bɨ̃,"collect, gather"
+250-137,yuwa1244,http://concepticon.clld.org/parameters/371,bo bɨ̃,pick up
+250-597,yuwa1244,http://concepticon.clld.org/parameters/1576,bãi,pile up
+250-426,yuwa1244,http://concepticon.clld.org/parameters/1743,ʰka-labẽi,"join, unite"
+250-557,yuwa1244,http://concepticon.clld.org/parameters/1359,ʰkuluwai,separate
+250-256,yuwa1244,http://concepticon.clld.org/parameters/1156,wai,open
+250-549,yuwa1244,http://concepticon.clld.org/parameters/1046,wei,"shut, close"
+250-23,yuwa1244,http://concepticon.clld.org/parameters/761,ʰka-labẽitɨ,cover
+250-30,yuwa1244,http://concepticon.clld.org/parameters/602,ʰtoweka ʰka-beibei,"hide, conceal"
+250-473,yuwa1244,http://concepticon.clld.org/parameters/1265,ʰtabɨ̃,high
+250-472,yuwa1244,http://concepticon.clld.org/parameters/721,lẽilã,low
+250-564,yuwa1244,http://concepticon.clld.org/parameters/1753,ʰtu,top
+250-389,yuwa1244,http://concepticon.clld.org/parameters/690,ikʸu,bottom
+250-389,yuwa1244,http://concepticon.clld.org/parameters/742,ikʸu,end
+250-273,yuwa1244,http://concepticon.clld.org/parameters/372,alulu,pointed
+250-171,yuwa1244,http://concepticon.clld.org/parameters/863,a,edge
+250-251,yuwa1244,http://concepticon.clld.org/parameters/682,aʰkulẽ,side
+250-467,yuwa1244,http://concepticon.clld.org/parameters/1093,ebõlã,"middle, center"
+250-585,yuwa1244,http://concepticon.clld.org/parameters/1019,baʰkei bõ bã hai-lɨ̃,right (side)
+250-242,yuwa1244,http://concepticon.clld.org/parameters/244,wõiko bõ bã hai-lɨ̃,left (side)
+250-575,yuwa1244,http://concepticon.clld.org/parameters/1942,habẽilã,near (adv)
+250-287,yuwa1244,http://concepticon.clld.org/parameters/1406,yã ʰtoʰto,far (adv)
+250-76,yuwa1244,http://concepticon.clld.org/parameters/479,ʰwoi,grow
+250-402,yuwa1244,http://concepticon.clld.org/parameters/1506,ʰka lãbẽitɨ we,measure
+250-165,yuwa1244,http://concepticon.clld.org/parameters/1202,uli,"large, big"
+250-570,yuwa1244,http://concepticon.clld.org/parameters/1246,halĩ,"small, little"
+250-473,yuwa1244,http://concepticon.clld.org/parameters/1203,ʰtabɨ̃,long
+250-473,yuwa1244,http://concepticon.clld.org/parameters/711,ʰtabɨ̃,tall
+250-161,yuwa1244,http://concepticon.clld.org/parameters/1645,aliʰkʷete,short
+250-298,yuwa1244,http://concepticon.clld.org/parameters/1243,bahtu,"wide, broad"
+250-482,yuwa1244,http://concepticon.clld.org/parameters/1267,lãlẽ,narrow
+250-298,yuwa1244,http://concepticon.clld.org/parameters/1244,bahtu,thick (in dimension)
+250-482,yuwa1244,http://concepticon.clld.org/parameters/1400,lãlẽ,thin (in dimension)
+250-641,yuwa1244,http://concepticon.clld.org/parameters/1593,ʰkʷa lẽi,deep
+250-115,yuwa1244,http://concepticon.clld.org/parameters/193,eleikate,shallow
+250-504,yuwa1244,http://concepticon.clld.org/parameters/1404,ʰtɨboikʸa,straight
+250-496,yuwa1244,http://concepticon.clld.org/parameters/297,wilo,crooked
+250-19,yuwa1244,http://concepticon.clld.org/parameters/1071,akã,hook
+250-356,yuwa1244,http://concepticon.clld.org/parameters/1395,libute,round
+250-356,yuwa1244,http://concepticon.clld.org/parameters/1467,libute,circle
+250-662,yuwa1244,http://concepticon.clld.org/parameters/1845,hu,"sphere, ball"
+250-662,yuwa1244,http://concepticon.clld.org/parameters/1048,hu,line
+250-196,yuwa1244,http://concepticon.clld.org/parameters/1048,hoho,line
+250-4,yuwa1244,http://concepticon.clld.org/parameters/1667,laike,hole
+250-290,yuwa1244,http://concepticon.clld.org/parameters/1558,bo bã,"like, similar"
+250-33,yuwa1244,http://concepticon.clld.org/parameters/1264,beibei,change
+250-543,yuwa1244,http://concepticon.clld.org/parameters/1294,hawa'te,"zero, nothing"
+250-600,yuwa1244,http://concepticon.clld.org/parameters/1515,hoteya,one
+250-364,yuwa1244,http://concepticon.clld.org/parameters/1515,ʰtitekʸa,one
+250-520,yuwa1244,http://concepticon.clld.org/parameters/1515,hãtõhã,one
+250-541,yuwa1244,http://concepticon.clld.org/parameters/1498,ʰwekʸato,two
+250-558,yuwa1244,http://concepticon.clld.org/parameters/1498,ʰwekʸa atei,two
+250-661,yuwa1244,http://concepticon.clld.org/parameters/1498,ʰwekʸatɨ,two
+250-541,yuwa1244,http://concepticon.clld.org/parameters/492,ʰwekʸato,three
+250-558,yuwa1244,http://concepticon.clld.org/parameters/492,ʰwekʸa atei,three
+250-661,yuwa1244,http://concepticon.clld.org/parameters/492,ʰwekʸatɨ,three
+250-37,yuwa1244,http://concepticon.clld.org/parameters/1500,aiwa to,four
+250-610,yuwa1244,http://concepticon.clld.org/parameters/1500,aiwa atei,four
+250-52,yuwa1244,http://concepticon.clld.org/parameters/1500,'aiʰyatɨ,four
+250-37,yuwa1244,http://concepticon.clld.org/parameters/493,aiwa to,five
+250-610,yuwa1244,http://concepticon.clld.org/parameters/493,aiwa atei,five
+250-52,yuwa1244,http://concepticon.clld.org/parameters/493,'aiʰyatɨ,five
+250-37,yuwa1244,http://concepticon.clld.org/parameters/1703,aiwa to,six
+250-610,yuwa1244,http://concepticon.clld.org/parameters/1703,aiwa atei,six
+250-52,yuwa1244,http://concepticon.clld.org/parameters/1703,'aiʰyatɨ,six
+250-49,yuwa1244,http://concepticon.clld.org/parameters/98,bwekʸato,"every, all"
+250-326,yuwa1244,http://concepticon.clld.org/parameters/98,bwekʸa atei,"every, all"
+250-225,yuwa1244,http://concepticon.clld.org/parameters/98,bwekʸatɨ,"every, all"
+250-330,yuwa1244,http://concepticon.clld.org/parameters/1198,yã aiwa to,"much, many"
+250-303,yuwa1244,http://concepticon.clld.org/parameters/1198,yã aiwa atei,"much, many"
+250-703,yuwa1244,http://concepticon.clld.org/parameters/1198,yã 'aiʰyatɨ,"much, many"
+250-541,yuwa1244,http://concepticon.clld.org/parameters/1242,ʰwekʸato,"little (quantity), few"
+250-558,yuwa1244,http://concepticon.clld.org/parameters/1242,ʰwekʸa atei,"little (quantity), few"
+250-661,yuwa1244,http://concepticon.clld.org/parameters/1242,ʰwekʸatɨ,"little (quantity), few"
+250-39,yuwa1244,http://concepticon.clld.org/parameters/1881,ʰta,enough
+250-541,yuwa1244,http://concepticon.clld.org/parameters/1241,ʰwekʸato,some
+250-558,yuwa1244,http://concepticon.clld.org/parameters/1241,ʰwekʸa atei,some
+250-661,yuwa1244,http://concepticon.clld.org/parameters/1241,ʰwekʸatɨ,some
+250-725,yuwa1244,http://concepticon.clld.org/parameters/2023,yã ʰti 'aihatɨ,"multitude, crowd"
+250-376,yuwa1244,http://concepticon.clld.org/parameters/1429,a bĩ,full
+250-71,yuwa1244,http://concepticon.clld.org/parameters/1624,hai'te,empty
+250-11,yuwa1244,http://concepticon.clld.org/parameters/1624,ʰyu'te,empty
+250-600,yuwa1244,http://concepticon.clld.org/parameters/1580,hoteya,"alone, only"
+250-364,yuwa1244,http://concepticon.clld.org/parameters/1580,ʰtitekʸa,"alone, only"
+250-520,yuwa1244,http://concepticon.clld.org/parameters/1580,hãtõhã,"alone, only"
+250-719,yuwa1244,http://concepticon.clld.org/parameters/728,yã akɨ,first
+250-63,yuwa1244,http://concepticon.clld.org/parameters/1529,yã ʰti ikʸuke,last
+250-322,yuwa1244,http://concepticon.clld.org/parameters/1384,ikʸuke,second
+250-40,yuwa1244,http://concepticon.clld.org/parameters/1546,ʰwekʸalã,two times
+250-40,yuwa1244,http://concepticon.clld.org/parameters/417,ʰwekʸalã,three times
+250-524,yuwa1244,http://concepticon.clld.org/parameters/1207,bai hã,young
+250-409,yuwa1244,http://concepticon.clld.org/parameters/1229,ʰtawo,old
+250-665,yuwa1244,http://concepticon.clld.org/parameters/672,yã bɨ̃lẽ,early
+250-645,yuwa1244,http://concepticon.clld.org/parameters/477,ʰtaʰtite,late
+250-60,yuwa1244,http://concepticon.clld.org/parameters/1376,yã bai,now
+250-60,yuwa1244,http://concepticon.clld.org/parameters/1963,yã bai,immediately
+250-480,yuwa1244,http://concepticon.clld.org/parameters/1631,yã itete,"swift, fast, quick"
+250-693,yuwa1244,http://concepticon.clld.org/parameters/701,yã ʰkolã,slow
+250-665,yuwa1244,http://concepticon.clld.org/parameters/754,yã bɨ̃lẽ,"hasten, hurry"
+250-693,yuwa1244,http://concepticon.clld.org/parameters/425,yã ʰkolã,"retard, delay"
+250-338,yuwa1244,http://concepticon.clld.org/parameters/1806,(action) + bai,"begin, beginning"
+250-296,yuwa1244,http://concepticon.clld.org/parameters/743,(action) + -te + bai,end (temporal)
+250-183,yuwa1244,http://concepticon.clld.org/parameters/1766,-lɨ̃-,finish
+250-111,yuwa1244,http://concepticon.clld.org/parameters/1928,bẽtaili,"cease, stop"
+250-39,yuwa1244,http://concepticon.clld.org/parameters/790,ʰta,ready
+250-262,yuwa1244,http://concepticon.clld.org/parameters/703,bai,soon
+250-235,yuwa1244,http://concepticon.clld.org/parameters/703,bɨ̃lẽ,soon
+250-639,yuwa1244,http://concepticon.clld.org/parameters/418,baite baite,long-time (for a)
+250-588,yuwa1244,http://concepticon.clld.org/parameters/204,ʰyuwẽ,again
+250-568,yuwa1244,http://concepticon.clld.org/parameters/1260,ʰkʸato,day
+250-648,yuwa1244,http://concepticon.clld.org/parameters/1233,ʰtiʰkʷeto-ʰkʷa,night
+250-140,yuwa1244,http://concepticon.clld.org/parameters/729,halĩ ʰkʸato bai,dawn
+250-388,yuwa1244,http://concepticon.clld.org/parameters/1339,ʰtɨ ilẽ,morning
+250-197,yuwa1244,http://concepticon.clld.org/parameters/12,ʰtuwe ebõ,"noon, midday"
+250-514,yuwa1244,http://concepticon.clld.org/parameters/1807,ʰtilẽwã ʰkʸaka ikʸu bai-tolã,afternoon
+250-150,yuwa1244,http://concepticon.clld.org/parameters/1629,ʰtaʰti-tolã,evening
+250-255,yuwa1244,http://concepticon.clld.org/parameters/1283,bɨweya ʰkʸato-lɨ̃,today
+250-718,yuwa1244,http://concepticon.clld.org/parameters/1329,ʰyuwẽ ʰkʸato bai-tolã,tomorrow
+250-77,yuwa1244,http://concepticon.clld.org/parameters/1179,abale ʰyuwẽ ʰkʸato bai-tolã,day-after-tomorrow
+250-190,yuwa1244,http://concepticon.clld.org/parameters/1174,bãika ʰkʸato bai-tolã,yesterday
+250-94,yuwa1244,http://concepticon.clld.org/parameters/1180,'bãikabã ʰkʸato bai-tolã,day-before-yesterday
+250-565,yuwa1244,http://concepticon.clld.org/parameters/1537,o bai,spring
+250-22,yuwa1244,http://concepticon.clld.org/parameters/1342,ʰtuwe bai,summer
+250-635,yuwa1244,http://concepticon.clld.org/parameters/1587,bĩwe,smell (vb intrans)
+250-660,yuwa1244,http://concepticon.clld.org/parameters/375,bĩkĩwe,sniff
+250-660,yuwa1244,http://concepticon.clld.org/parameters/1586,bĩkĩwe,smell (vb trans)
+250-448,yuwa1244,http://concepticon.clld.org/parameters/376,ɨlẽka,"fragrant, good smelling"
+250-362,yuwa1244,http://concepticon.clld.org/parameters/42,ʰwaka,"stinking, bad smelling"
+250-286,yuwa1244,http://concepticon.clld.org/parameters/21,hibu,taste
+250-448,yuwa1244,http://concepticon.clld.org/parameters/717,ɨlẽka,sweet
+250-448,yuwa1244,http://concepticon.clld.org/parameters/1091,ɨlẽka,salty
+250-691,yuwa1244,http://concepticon.clld.org/parameters/887,ʰtuʰkewaka,bitter
+250-612,yuwa1244,http://concepticon.clld.org/parameters/1906,wike,"acid, sour"
+250-633,yuwa1244,http://concepticon.clld.org/parameters/70,ɨlẽka 'botebã,brackish
+250-721,yuwa1244,http://concepticon.clld.org/parameters/1408,ãku,hear
+250-721,yuwa1244,http://concepticon.clld.org/parameters/1608,ãku,listen
+250-192,yuwa1244,http://concepticon.clld.org/parameters/1811,hobei,"sound, noise"
+250-509,yuwa1244,http://concepticon.clld.org/parameters/377,yã 'ʰkolãte,loud
+250-79,yuwa1244,http://concepticon.clld.org/parameters/1314,ʰkʸo bẽtai,"quiet, silence"
+250-685,yuwa1244,http://concepticon.clld.org/parameters/1409,we,see
+250-685,yuwa1244,http://concepticon.clld.org/parameters/1819,we,"look, look at"
+250-112,yuwa1244,http://concepticon.clld.org/parameters/1039,ʰke kʷeloba,show
+250-410,yuwa1244,http://concepticon.clld.org/parameters/708,ʰyoli,shine
+250-332,yuwa1244,http://concepticon.clld.org/parameters/679,uli-wa-lã ʰyoli,bright
+250-239,yuwa1244,http://concepticon.clld.org/parameters/250,kʸabo,light (in color)
+250-139,yuwa1244,http://concepticon.clld.org/parameters/706,waleiʰte,dark (in color)
+250-239,yuwa1244,http://concepticon.clld.org/parameters/1335,kʸabo,white
+250-139,yuwa1244,http://concepticon.clld.org/parameters/163,waleiʰte,black
+250-370,yuwa1244,http://concepticon.clld.org/parameters/156,tuwẽlõ,red
+250-440,yuwa1244,http://concepticon.clld.org/parameters/837,lũʰtibo,blue
+250-440,yuwa1244,http://concepticon.clld.org/parameters/1425,lũʰtibo,green
+250-370,yuwa1244,http://concepticon.clld.org/parameters/1424,tuwẽlõ,yellow
+250-239,yuwa1244,http://concepticon.clld.org/parameters/1424,kʸabo,yellow
+250-157,yuwa1244,http://concepticon.clld.org/parameters/1892,hi,touch
+250-307,yuwa1244,http://concepticon.clld.org/parameters/378,lũwẽtɨ,pinch
+250-96,yuwa1244,http://concepticon.clld.org/parameters/1079,bõ-lɨ̃ we,feel
+250-106,yuwa1244,http://concepticon.clld.org/parameters/1884,ikʸaka,hard
+250-530,yuwa1244,http://concepticon.clld.org/parameters/1856,ʰkeilõwãlõ,soft
+250-534,yuwa1244,http://concepticon.clld.org/parameters/1923,huluwaka,rough
+250-5,yuwa1244,http://concepticon.clld.org/parameters/1234,ʰteiʰteiwa,smooth
+250-320,yuwa1244,http://concepticon.clld.org/parameters/1396,aʰkuwe'te,sharp
+250-189,yuwa1244,http://concepticon.clld.org/parameters/379,ʰkuʰtai,"blunt, dull"
+250-715,yuwa1244,http://concepticon.clld.org/parameters/1210,'bẽkito,heavy
+250-233,yuwa1244,http://concepticon.clld.org/parameters/1052,ʰkãhõ,light (in weight)
+250-285,yuwa1244,http://concepticon.clld.org/parameters/1726,ʰkʷata,"wet, damp"
+250-232,yuwa1244,http://concepticon.clld.org/parameters/1398,ʰkai,dry
+250-636,yuwa1244,http://concepticon.clld.org/parameters/1286,ʰtuweʰto,hot
+250-658,yuwa1244,http://concepticon.clld.org/parameters/1232,halĩwalã ʰtuweʰto,warm
+250-601,yuwa1244,http://concepticon.clld.org/parameters/1287,ʰkẽhõ,cold
+250-239,yuwa1244,http://concepticon.clld.org/parameters/704,kʸabo,clean
+250-139,yuwa1244,http://concepticon.clld.org/parameters/1230,waleiʰte,"dirty, soiled"
+250-348,yuwa1244,http://concepticon.clld.org/parameters/53,aweila,"soul, spirit"
+250-331,yuwa1244,http://concepticon.clld.org/parameters/1572,ʰka-itiwɨ,"surprised, astonished"
+250-101,yuwa1244,http://concepticon.clld.org/parameters/1495,awokɨ,"joyful, glad, happy"
+250-101,yuwa1244,http://concepticon.clld.org/parameters/1355,awokɨ,laugh
+250-101,yuwa1244,http://concepticon.clld.org/parameters/1451,awokɨ,smile
+250-340,yuwa1244,http://concepticon.clld.org/parameters/1413,ahweo,play
+250-324,yuwa1244,http://concepticon.clld.org/parameters/578,a-lɨ̃ ʰluʰluwe,kiss
+250-143,yuwa1244,http://concepticon.clld.org/parameters/928,atokẽ,embrace
+250-247,yuwa1244,http://concepticon.clld.org/parameters/1783,hulu,pain
+250-566,yuwa1244,http://concepticon.clld.org/parameters/1668,awokɨ-'te,"grief, sorrow, sadness"
+250-198,yuwa1244,http://concepticon.clld.org/parameters/1839,ʰkelou,"cry, weep"
+250-466,yuwa1244,http://concepticon.clld.org/parameters/1651,ʰtaʰteikɨ tehai,tear (noun)
+250-144,yuwa1244,http://concepticon.clld.org/parameters/716,yã-ʰkolã ʰwai,groan
+250-67,yuwa1244,http://concepticon.clld.org/parameters/1607,we itewe,hate
+250-93,yuwa1244,http://concepticon.clld.org/parameters/82,lowali,anger
+250-12,yuwa1244,http://concepticon.clld.org/parameters/1776,ʰka-ʰtau,shame (noun)
+250-17,yuwa1244,http://concepticon.clld.org/parameters/781,itiwɨ,"fear, fright"
+250-149,yuwa1244,http://concepticon.clld.org/parameters/1784,-toba,"desire, want"
+250-640,yuwa1244,http://concepticon.clld.org/parameters/601,ĩlã ũ,"lie, tell lies"
+250-640,yuwa1244,http://concepticon.clld.org/parameters/13,ĩlã ũ,deceit
+250-678,yuwa1244,http://concepticon.clld.org/parameters/1035,bũʰkete,good
+250-45,yuwa1244,http://concepticon.clld.org/parameters/1292,yã-hai,bad
+250-274,yuwa1244,http://concepticon.clld.org/parameters/1292,yã-hã,bad
+250-531,yuwa1244,http://concepticon.clld.org/parameters/1725,ʰtɨboiʰya,"right, correct"
+250-732,yuwa1244,http://concepticon.clld.org/parameters/1390,yã-hawalã,wrong
+250-580,yuwa1244,http://concepticon.clld.org/parameters/1427,ʰti hai,beautiful
+250-536,yuwa1244,http://concepticon.clld.org/parameters/1427,ʰti hã,beautiful
+250-712,yuwa1244,http://concepticon.clld.org/parameters/1427,ʰti ha,beautiful
+250-274,yuwa1244,http://concepticon.clld.org/parameters/1548,yã-hã,ugly
+250-45,yuwa1244,http://concepticon.clld.org/parameters/1548,yã-hai,ugly
+250-361,yuwa1244,http://concepticon.clld.org/parameters/1415,ũ,think (= reflect)
+250-361,yuwa1244,http://concepticon.clld.org/parameters/1513,ũ,think (= be of the opinion)
+250-721,yuwa1244,http://concepticon.clld.org/parameters/1536,ãku,understand
+250-721,yuwa1244,http://concepticon.clld.org/parameters/1410,ãku,know
+250-361,yuwa1244,http://concepticon.clld.org/parameters/1932,ũ,guess
+250-212,yuwa1244,http://concepticon.clld.org/parameters/117,bau,imitate
+250-361,yuwa1244,http://concepticon.clld.org/parameters/1521,ũ,seem
+250-640,yuwa1244,http://concepticon.clld.org/parameters/1899,ĩlã ũ,"insane, crazy"
+250-700,yuwa1244,http://concepticon.clld.org/parameters/504,ãku bai,learn
+250-700,yuwa1244,http://concepticon.clld.org/parameters/1929,ãku bai,study
+250-436,yuwa1244,http://concepticon.clld.org/parameters/709,ũtɨ ʰtɨ,teach
+250-510,yuwa1244,http://concepticon.clld.org/parameters/707,bɨtekɨ,remember
+250-173,yuwa1244,http://concepticon.clld.org/parameters/1523,bũʰliye,forget
+250-289,yuwa1244,http://concepticon.clld.org/parameters/1121,ʰtoweika ũtɨ te-hai,secret
+250-436,yuwa1244,http://concepticon.clld.org/parameters/1626,ũtɨ ʰtɨ,explain
+250-685,yuwa1244,http://concepticon.clld.org/parameters/1812,we,"try, attempt"
+250-500,yuwa1244,http://concepticon.clld.org/parameters/1157,-ĩbɨ,because
+250-82,yuwa1244,http://concepticon.clld.org/parameters/1459,-tolã,if
+250-479,yuwa1244,http://concepticon.clld.org/parameters/1268,hã,"yes, affirmative"
+250-599,yuwa1244,http://concepticon.clld.org/parameters/1269,ĩte,"no, negative"
+250-123,yuwa1244,http://concepticon.clld.org/parameters/1239,hibɨ,how?
+250-70,yuwa1244,http://concepticon.clld.org/parameters/822,hibɨ aiwa,how many?
+250-70,yuwa1244,http://concepticon.clld.org/parameters/531,hibɨ aiwa,how much?
+250-123,yuwa1244,http://concepticon.clld.org/parameters/1236,hibɨ,what?
+250-82,yuwa1244,http://concepticon.clld.org/parameters/1238,-tolã,when?
+250-386,yuwa1244,http://concepticon.clld.org/parameters/1237,'ʰtebolã,where?
+250-51,yuwa1244,http://concepticon.clld.org/parameters/727,ʰtebo,which?
+250-686,yuwa1244,http://concepticon.clld.org/parameters/1235,ʰwẽya,who?
+250-312,yuwa1244,http://concepticon.clld.org/parameters/1235,ʰwoiyu,who?
+250-614,yuwa1244,http://concepticon.clld.org/parameters/1270,hibɨ̃ ĩbɨ,why?
+250-192,yuwa1244,http://concepticon.clld.org/parameters/1261,hobei,sing
+250-248,yuwa1244,http://concepticon.clld.org/parameters/715,ʰwai,"shout, cry out"
+250-667,yuwa1244,http://concepticon.clld.org/parameters/55,ʰkolã ũtɨ,whisper
+250-567,yuwa1244,http://concepticon.clld.org/parameters/128,yã-hawa-lã ũtɨ,mumble
+250-133,yuwa1244,http://concepticon.clld.org/parameters/1025,bute,whistle
+250-248,yuwa1244,http://concepticon.clld.org/parameters/298,ʰwai,"shriek, screech"
+250-248,yuwa1244,http://concepticon.clld.org/parameters/526,ʰwai,howl
+250-494,yuwa1244,http://concepticon.clld.org/parameters/1623,utɨ,"speak, talk"
+250-72,yuwa1244,http://concepticon.clld.org/parameters/1866,wõiko bõlã ũtɨ,"stutter, stammer"
+250-269,yuwa1244,http://concepticon.clld.org/parameters/1458,ũtɨ,say
+250-436,yuwa1244,http://concepticon.clld.org/parameters/1711,ũtɨ ʰtɨ,tell story
+250-436,yuwa1244,http://concepticon.clld.org/parameters/1115,ũtɨ ʰtɨ,speech (make a)
+250-538,yuwa1244,http://concepticon.clld.org/parameters/48,ũtɨ-tebã,silent (be)
+250-517,yuwa1244,http://concepticon.clld.org/parameters/1307,ũtɨ te-hawa,language
+250-219,yuwa1244,http://concepticon.clld.org/parameters/1599,ũtɨ te-hai,word
+250-329,yuwa1244,http://concepticon.clld.org/parameters/1309,abei ãku,"ask (question, inquire)"
+250-147,yuwa1244,http://concepticon.clld.org/parameters/1275,...ĩlã ãkukʸe,answer
+250-644,yuwa1244,http://concepticon.clld.org/parameters/1828,abei,"ask, request"
+250-720,yuwa1244,http://concepticon.clld.org/parameters/49,ʰkʷoi,refuse
+250-396,yuwa1244,http://concepticon.clld.org/parameters/1084,abei bɨ̃,call (=summon)
+250-731,yuwa1244,http://concepticon.clld.org/parameters/180,hibɨ te-kã ta,call (=name)
+250-269,yuwa1244,http://concepticon.clld.org/parameters/9,ũtɨ,announce
+250-10,yuwa1244,http://concepticon.clld.org/parameters/1672,ʰkalĩtɨ,write
+250-631,yuwa1244,http://concepticon.clld.org/parameters/724,beitei we,read
+250-673,yuwa1244,http://concepticon.clld.org/parameters/648,ʰtuʰku ʰya,paper
+250-223,yuwa1244,http://concepticon.clld.org/parameters/794,ʰkalĩtɨ te-hai,pen
+250-487,yuwa1244,http://concepticon.clld.org/parameters/963,[libalo],book
+250-252,yuwa1244,http://concepticon.clld.org/parameters/777,ʰtaʰwibo,flute
+250-539,yuwa1244,http://concepticon.clld.org/parameters/777,ʰwãbo,flute
+250-252,yuwa1244,http://concepticon.clld.org/parameters/2136,ʰtaʰwibo,"horn, trumpet"
+250-418,yuwa1244,http://concepticon.clld.org/parameters/300,ʰtu iʰta,rattle
+250-519,yuwa1244,http://concepticon.clld.org/parameters/1391,balo,"city, town"
+250-519,yuwa1244,http://concepticon.clld.org/parameters/930,balo,village
+250-2,yuwa1244,http://concepticon.clld.org/parameters/789,ho-tɨ,people (populace)
+250-415,yuwa1244,http://concepticon.clld.org/parameters/1296,ʰtawɨ tou ũ te-ka-hai,"staff, walking stick"
+250-721,yuwa1244,http://concepticon.clld.org/parameters/1635,ãku,obey
+250-602,yuwa1244,http://concepticon.clld.org/parameters/1332,habẽlã bã-hã,neighbor
+250-358,yuwa1244,http://concepticon.clld.org/parameters/791,we-'te bã-hã,stranger
+250-279,yuwa1244,http://concepticon.clld.org/parameters/1848,lowalibu,"strife, quarrel"
+250-685,yuwa1244,http://concepticon.clld.org/parameters/1831,we,meet
+250-463,yuwa1244,http://concepticon.clld.org/parameters/1423,ʰwau-'e,fight (vb)
+250-57,yuwa1244,http://concepticon.clld.org/parameters/994,lĩbẽlã ho,bow
+250-57,yuwa1244,http://concepticon.clld.org/parameters/977,lĩbẽlã ho,arrow
+250-676,yuwa1244,http://concepticon.clld.org/parameters/945,luʰkʷi,spear
+250-532,yuwa1244,http://concepticon.clld.org/parameters/1535,heila,sword
+250-201,yuwa1244,http://concepticon.clld.org/parameters/1566,ʰwãlã,"gun, cannon"
+250-268,yuwa1244,http://concepticon.clld.org/parameters/1858,bõʰtõ-lɨ̃ lei te-kã,fisherman
+250-13,yuwa1244,http://concepticon.clld.org/parameters/1074,ʰkãʰkã ɨlẽhai,fishhook
+250-527,yuwa1244,http://concepticon.clld.org/parameters/19,ʰkãʰkã hu,fishing line
+250-186,yuwa1244,http://concepticon.clld.org/parameters/389,bõʰtõ laho,fish trap
+250-103,yuwa1244,http://concepticon.clld.org/parameters/1435,yewo-lɨ̃ toʰkʷe,hunt
+250-146,yuwa1244,http://concepticon.clld.org/parameters/1435,ʰkʷayolɨ̃ huʰkʷe,hunt
+250-662,yuwa1244,http://concepticon.clld.org/parameters/1172,hu,shoot
+250-464,yuwa1244,http://concepticon.clld.org/parameters/161,hite bẽɨ,miss (target)
+250-1,yuwa1244,http://concepticon.clld.org/parameters/713,bo bẽi,steal
+250-453,yuwa1244,http://concepticon.clld.org/parameters/1160,bo bẽi te-ka-hã,thief

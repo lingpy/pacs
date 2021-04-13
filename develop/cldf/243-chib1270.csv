@@ -1,0 +1,813 @@
+ID,Language_ID,Feature_ID,Value,Concept
+243-287,chib1270,http://concepticon.clld.org/parameters/965,quycagua azonuca,world
+243-14,chib1270,http://concepticon.clld.org/parameters/626,quyca,"earth, land"
+243-481,chib1270,http://concepticon.clld.org/parameters/1228,iegui,"earth=ground, soil"
+243-8,chib1270,http://concepticon.clld.org/parameters/2,fusque,dust
+243-572,chib1270,http://concepticon.clld.org/parameters/640,isua,mud
+243-352,chib1270,http://concepticon.clld.org/parameters/671,guanza,sand
+243-36,chib1270,http://concepticon.clld.org/parameters/2118,gua,"mountain, hill"
+243-541,chib1270,http://concepticon.clld.org/parameters/652,muycuc pquao,"plain, field"
+243-22,chib1270,http://concepticon.clld.org/parameters/1155,ta,cave
+243-165,chib1270,http://concepticon.clld.org/parameters/948,sie,water
+243-292,chib1270,http://concepticon.clld.org/parameters/624,xiua,lake
+243-292,chib1270,http://concepticon.clld.org/parameters/623,xiua,lagoon
+243-637,chib1270,http://concepticon.clld.org/parameters/978,simque,wave
+243-280,chib1270,http://concepticon.clld.org/parameters/666,xie,"river, stream, brook"
+243-235,chib1270,http://concepticon.clld.org/parameters/666,sietoque,"river, stream, brook"
+243-441,chib1270,http://concepticon.clld.org/parameters/2144,hichyquy,"spring, well"
+243-677,chib1270,http://concepticon.clld.org/parameters/420,quye,"woods, forest"
+243-677,chib1270,http://concepticon.clld.org/parameters/906,quye,tree (cf 08.600)
+243-126,chib1270,http://concepticon.clld.org/parameters/2125,hyca,"stone, rock"
+243-640,chib1270,http://concepticon.clld.org/parameters/6,ie zamisqua,earthquake
+243-211,chib1270,http://concepticon.clld.org/parameters/1732,guatquyca,sky
+243-63,chib1270,http://concepticon.clld.org/parameters/1343,sua,sun
+243-156,chib1270,http://concepticon.clld.org/parameters/1313,chie,moon
+243-91,chib1270,http://concepticon.clld.org/parameters/1430,fagua,star
+243-663,chib1270,http://concepticon.clld.org/parameters/1654,hicabimy,lightning
+243-76,chib1270,http://concepticon.clld.org/parameters/1150,quycaz atinansuca,thunder
+243-21,chib1270,http://concepticon.clld.org/parameters/2007,pquahaza,lightning (as striking)
+243-237,chib1270,http://concepticon.clld.org/parameters/1733,chuquy,rainbow
+243-156,chib1270,http://concepticon.clld.org/parameters/630,chie,light (noun)
+243-603,chib1270,http://concepticon.clld.org/parameters/11,umzac aguequa,darkness
+243-497,chib1270,http://concepticon.clld.org/parameters/1388,ij,"shade, shadow"
+243-123,chib1270,http://concepticon.clld.org/parameters/960,fiba,wind
+243-261,chib1270,http://concepticon.clld.org/parameters/1489,faoa,cloud
+243-261,chib1270,http://concepticon.clld.org/parameters/249,faoa,fog
+243-160,chib1270,http://concepticon.clld.org/parameters/658,siu,rain (noun)
+243-566,chib1270,http://concepticon.clld.org/parameters/784,hichu,snow (noun)
+243-167,chib1270,http://concepticon.clld.org/parameters/221,gata,fire
+243-500,chib1270,http://concepticon.clld.org/parameters/778,ie,smoke (noun)
+243-8,chib1270,http://concepticon.clld.org/parameters/646,fusque,ashes
+243-708,chib1270,http://concepticon.clld.org/parameters/646,sucta,ashes
+243-77,chib1270,http://concepticon.clld.org/parameters/67,gatymoque,embers
+243-607,chib1270,http://concepticon.clld.org/parameters/141,bgai pquasuca,burn (vb trans)
+243-203,chib1270,http://concepticon.clld.org/parameters/737,bgynasuca,"light, kindle, ignite"
+243-222,chib1270,http://concepticon.clld.org/parameters/127,yquy zmuyn-suca,extinguish
+243-429,chib1270,http://concepticon.clld.org/parameters/10,ja,firewood
+243-71,chib1270,http://concepticon.clld.org/parameters/1188,gazpqua,charcoal
+243-67,chib1270,http://concepticon.clld.org/parameters/683,muysca,"person, human being"
+243-67,chib1270,http://concepticon.clld.org/parameters/1554,muysca,man (vs. woman)
+243-96,chib1270,http://concepticon.clld.org/parameters/962,muysca fucha,woman
+243-112,chib1270,http://concepticon.clld.org/parameters/2263,cha,male
+243-95,chib1270,http://concepticon.clld.org/parameters/2260,fuhucha,female
+243-311,chib1270,http://concepticon.clld.org/parameters/2260,fucha,female
+243-333,chib1270,http://concepticon.clld.org/parameters/1366,guasgua cha,boy
+243-688,chib1270,http://concepticon.clld.org/parameters/1646,guasgua fucha,girl
+243-333,chib1270,http://concepticon.clld.org/parameters/1304,guasgua cha,child
+243-529,chib1270,http://concepticon.clld.org/parameters/1289,hizyca,"infant, baby"
+243-250,chib1270,http://concepticon.clld.org/parameters/1200,sahaoa,husband
+243-204,chib1270,http://concepticon.clld.org/parameters/1200,saoa,husband
+243-40,chib1270,http://concepticon.clld.org/parameters/1199,gui,wife
+243-205,chib1270,http://concepticon.clld.org/parameters/203,zeguigosqua,marry
+243-650,chib1270,http://concepticon.clld.org/parameters/1217,paba,father
+243-654,chib1270,http://concepticon.clld.org/parameters/1217,pabi,father
+243-705,chib1270,http://concepticon.clld.org/parameters/1216,guaia,mother
+243-666,chib1270,http://concepticon.clld.org/parameters/424,aguigue,married man
+243-416,chib1270,http://concepticon.clld.org/parameters/426,asahaoague,married woman
+243-178,chib1270,http://concepticon.clld.org/parameters/1620,chuta,son
+243-178,chib1270,http://concepticon.clld.org/parameters/1357,chuta,daughter
+243-178,chib1270,http://concepticon.clld.org/parameters/1801,chuta,offspring (son or daughter)
+243-57,chib1270,http://concepticon.clld.org/parameters/1262,nyquy,brother
+243-450,chib1270,http://concepticon.clld.org/parameters/1759,guia,older brother
+243-148,chib1270,http://concepticon.clld.org/parameters/1760,cuhuba,younger brother
+243-101,chib1270,http://concepticon.clld.org/parameters/1263,guahaza,sister
+243-450,chib1270,http://concepticon.clld.org/parameters/1758,guia,older sister
+243-148,chib1270,http://concepticon.clld.org/parameters/1761,cuhuba,younger sister
+243-363,chib1270,http://concepticon.clld.org/parameters/1640,guias cuhubasa,sibling
+243-388,chib1270,http://concepticon.clld.org/parameters/1383,guexica,grandfather
+243-366,chib1270,http://concepticon.clld.org/parameters/406,tybacha,old man
+243-132,chib1270,http://concepticon.clld.org/parameters/1496,caca,grandmother
+243-501,chib1270,http://concepticon.clld.org/parameters/907,chutqua,old woman
+243-229,chib1270,http://concepticon.clld.org/parameters/1618,chune,grandson
+243-229,chib1270,http://concepticon.clld.org/parameters/1619,chune,granddaughter
+243-590,chib1270,http://concepticon.clld.org/parameters/1984,zuecha,mother's brother
+243-277,chib1270,http://concepticon.clld.org/parameters/1985,zepaba,father's brother
+243-188,chib1270,http://concepticon.clld.org/parameters/171,zuaia,mother's sister
+243-161,chib1270,http://concepticon.clld.org/parameters/170,zepaba fucha,father's sister
+243-16,chib1270,http://concepticon.clld.org/parameters/1063,guabxie,nephew
+243-16,chib1270,http://concepticon.clld.org/parameters/1642,guabxie,niece
+243-367,chib1270,http://concepticon.clld.org/parameters/1669,sasbiza,ancestors
+243-581,chib1270,http://concepticon.clld.org/parameters/2255,chica,father-in-law (of a man)
+243-135,chib1270,http://concepticon.clld.org/parameters/2254,guaca,father-in-law (of a woman)
+243-294,chib1270,http://concepticon.clld.org/parameters/2256,gyi,mother-in-law (of a man)
+243-152,chib1270,http://concepticon.clld.org/parameters/2257,chasuaia,mother-in-law (of a woman)
+243-581,chib1270,http://concepticon.clld.org/parameters/2267,chica,son-in-law (of a man)
+243-135,chib1270,http://concepticon.clld.org/parameters/2266,guaca,son-in-law (of a woman)
+243-294,chib1270,http://concepticon.clld.org/parameters/2265,gyi,daughter-in-law (of a man)
+243-461,chib1270,http://concepticon.clld.org/parameters/2264,gyeca,daughter-in-law (of a woman)
+243-179,chib1270,http://concepticon.clld.org/parameters/237,zquyhycpquaia zpaba,stepfather
+243-168,chib1270,http://concepticon.clld.org/parameters/236,zquyhycpquaia zuaia,stepmother
+243-353,chib1270,http://concepticon.clld.org/parameters/1059,zquyhyc pqua ia ichuta,stepson
+243-353,chib1270,http://concepticon.clld.org/parameters/1058,zquyhyc pqua ia ichuta,stepdaughter
+243-702,chib1270,http://concepticon.clld.org/parameters/1756,asahaoa bgye,widow
+243-281,chib1270,http://concepticon.clld.org/parameters/1981,aguy bgye,widower
+243-389,chib1270,http://concepticon.clld.org/parameters/1644,uaque,"relatives, kinsmen"
+243-512,chib1270,http://concepticon.clld.org/parameters/1209,hycha,I
+243-418,chib1270,http://concepticon.clld.org/parameters/1215,mue,you (singular)
+243-254,chib1270,http://concepticon.clld.org/parameters/262,asy,he/she/it
+243-156,chib1270,http://concepticon.clld.org/parameters/1212,chie,we
+243-330,chib1270,http://concepticon.clld.org/parameters/1213,mie,you (plural)
+243-254,chib1270,http://concepticon.clld.org/parameters/817,asy,they
+243-112,chib1270,http://concepticon.clld.org/parameters/2261,cha,male (adj)
+243-95,chib1270,http://concepticon.clld.org/parameters/2262,fuhucha,female (adj)
+243-490,chib1270,http://concepticon.clld.org/parameters/649,muyquy,pasture
+243-78,chib1270,http://concepticon.clld.org/parameters/615,[hycabai],horse (equine)
+243-61,chib1270,http://concepticon.clld.org/parameters/265,sue,fowl
+243-458,chib1270,http://concepticon.clld.org/parameters/1511,supquagui cha,"cock, rooster"
+243-278,chib1270,http://concepticon.clld.org/parameters/1514,supquagui fucha,hen
+243-218,chib1270,http://concepticon.clld.org/parameters/1360,sumne,duck
+243-102,chib1270,http://concepticon.clld.org/parameters/539,uze,nest
+243-61,chib1270,http://concepticon.clld.org/parameters/937,sue,bird
+243-51,chib1270,http://concepticon.clld.org/parameters/758,fuhupqua,heron
+243-413,chib1270,http://concepticon.clld.org/parameters/1905,tygua,eagle
+243-109,chib1270,http://concepticon.clld.org/parameters/307,umpa,hawk
+243-378,chib1270,http://concepticon.clld.org/parameters/1793,supqua,bat
+243-105,chib1270,http://concepticon.clld.org/parameters/1853,sumgui,dove
+243-65,chib1270,http://concepticon.clld.org/parameters/735,simte,owl
+243-18,chib1270,http://concepticon.clld.org/parameters/2009,to,dog
+243-684,chib1270,http://concepticon.clld.org/parameters/1136,chuengui,rabbit
+243-97,chib1270,http://concepticon.clld.org/parameters/2139,chuhuca,"mouse, rat"
+243-36,chib1270,http://concepticon.clld.org/parameters/227,gua,fish
+243-48,chib1270,http://concepticon.clld.org/parameters/266,zingua,fishscale
+243-450,chib1270,http://concepticon.clld.org/parameters/1820,guia,bear
+243-176,chib1270,http://concepticon.clld.org/parameters/1312,fo,fox
+243-491,chib1270,http://concepticon.clld.org/parameters/1936,chihica,deer
+243-45,chib1270,http://concepticon.clld.org/parameters/1350,mizegui,monkey
+243-554,chib1270,http://concepticon.clld.org/parameters/310,cue,louse
+243-11,chib1270,http://concepticon.clld.org/parameters/310,cumne,louse
+243-614,chib1270,http://concepticon.clld.org/parameters/267,cuiga,nit (louse egg)
+243-228,chib1270,http://concepticon.clld.org/parameters/232,muyza,flea
+243-241,chib1270,http://concepticon.clld.org/parameters/1538,quysua,scorpion
+243-671,chib1270,http://concepticon.clld.org/parameters/1575,chutagui,cockroach
+243-238,chib1270,http://concepticon.clld.org/parameters/587,ize,ant
+243-121,chib1270,http://concepticon.clld.org/parameters/843,sospqua,spider
+243-359,chib1270,http://concepticon.clld.org/parameters/1065,sospquazine,spider web
+243-439,chib1270,http://concepticon.clld.org/parameters/665,busuapquame,bee
+243-390,chib1270,http://concepticon.clld.org/parameters/1504,ybsa,fly
+243-460,chib1270,http://concepticon.clld.org/parameters/1509,chue,mosquito
+243-626,chib1270,http://concepticon.clld.org/parameters/1219,sosua,worm
+243-328,chib1270,http://concepticon.clld.org/parameters/1219,ona,worm
+243-302,chib1270,http://concepticon.clld.org/parameters/730,muyso aquyca gue,snake
+243-1,chib1270,http://concepticon.clld.org/parameters/206,chuchygaty,firefly
+243-594,chib1270,http://concepticon.clld.org/parameters/1543,biza,snail
+243-306,chib1270,http://concepticon.clld.org/parameters/503,zihita,frog
+243-619,chib1270,http://concepticon.clld.org/parameters/632,muyhyzyso,lizard
+243-191,chib1270,http://concepticon.clld.org/parameters/112,cuegui,turtle
+243-310,chib1270,http://concepticon.clld.org/parameters/1480,yba,body
+243-240,chib1270,http://concepticon.clld.org/parameters/763,huca,"skin, hide"
+243-630,chib1270,http://concepticon.clld.org/parameters/2259,chimy,flesh
+243-528,chib1270,http://concepticon.clld.org/parameters/1040,zye,hair (head)
+243-515,chib1270,http://concepticon.clld.org/parameters/678,quyhye,beard
+243-390,chib1270,http://concepticon.clld.org/parameters/189,ybsa,body hair
+243-138,chib1270,http://concepticon.clld.org/parameters/576,zinua,dandruff
+243-270,chib1270,http://concepticon.clld.org/parameters/946,hyba,blood
+243-543,chib1270,http://concepticon.clld.org/parameters/525,chihiza,"vein, artery"
+243-520,chib1270,http://concepticon.clld.org/parameters/1394,quyne,bone
+243-214,chib1270,http://concepticon.clld.org/parameters/801,tobiaquyn,rib
+243-515,chib1270,http://concepticon.clld.org/parameters/1393,quyhye,horn
+243-72,chib1270,http://concepticon.clld.org/parameters/1220,suhuca,tail
+243-424,chib1270,http://concepticon.clld.org/parameters/1291,gutaquyn,back
+243-547,chib1270,http://concepticon.clld.org/parameters/805,gepquequyn,spine
+243-526,chib1270,http://concepticon.clld.org/parameters/1256,zysquy,head
+243-28,chib1270,http://concepticon.clld.org/parameters/1604,agua,"side of head, temple"
+243-526,chib1270,http://concepticon.clld.org/parameters/1605,zysquy,skull
+243-586,chib1270,http://concepticon.clld.org/parameters/1583,zote,brain
+243-703,chib1270,http://concepticon.clld.org/parameters/1560,uba,face
+243-685,chib1270,http://concepticon.clld.org/parameters/123,quigua,forehead
+243-4,chib1270,http://concepticon.clld.org/parameters/798,quynhuca,jaw
+243-538,chib1270,http://concepticon.clld.org/parameters/1730,ychua,cheek
+243-553,chib1270,http://concepticon.clld.org/parameters/1510,quynhua,chin
+243-200,chib1270,http://concepticon.clld.org/parameters/1248,upqua,eye
+243-117,chib1270,http://concepticon.clld.org/parameters/1173,ghuiquyn,eyebrow
+243-662,chib1270,http://concepticon.clld.org/parameters/17,ubquyboi,eyelid
+243-159,chib1270,http://concepticon.clld.org/parameters/1540,upquaga,eyelash
+243-698,chib1270,http://concepticon.clld.org/parameters/1247,cuhuca,ear
+243-268,chib1270,http://concepticon.clld.org/parameters/1221,saca,nose
+243-589,chib1270,http://concepticon.clld.org/parameters/208,hotua,mucus (nasal)
+243-560,chib1270,http://concepticon.clld.org/parameters/674,guyhyca,mouth
+243-694,chib1270,http://concepticon.clld.org/parameters/73,sica,beak
+243-358,chib1270,http://concepticon.clld.org/parameters/478,ybza,lip
+243-669,chib1270,http://concepticon.clld.org/parameters/1205,pqua,tongue
+243-694,chib1270,http://concepticon.clld.org/parameters/1380,sica,tooth
+243-129,chib1270,http://concepticon.clld.org/parameters/1049,hyco,molartooth
+243-714,chib1270,http://concepticon.clld.org/parameters/1333,gyquihicha,neck
+243-644,chib1270,http://concepticon.clld.org/parameters/1346,fiza,throat
+243-342,chib1270,http://concepticon.clld.org/parameters/1482,pquáqueüâ,shoulder
+243-402,chib1270,http://concepticon.clld.org/parameters/1673,pquaca,arm
+243-64,chib1270,http://concepticon.clld.org/parameters/1886,gacata,armpit
+243-296,chib1270,http://concepticon.clld.org/parameters/981,chispqua,elbow
+243-368,chib1270,http://concepticon.clld.org/parameters/799,yspqua,wrist
+243-422,chib1270,http://concepticon.clld.org/parameters/1277,yta,hand
+243-550,chib1270,http://concepticon.clld.org/parameters/1183,yta fihista,palm of hand
+243-379,chib1270,http://concepticon.clld.org/parameters/1303,ytyquyn,finger
+243-396,chib1270,http://concepticon.clld.org/parameters/1258,ytyua,fingernail
+243-451,chib1270,http://concepticon.clld.org/parameters/1297,goca,leg
+243-248,chib1270,http://concepticon.clld.org/parameters/800,quhque,thigh
+243-147,chib1270,http://concepticon.clld.org/parameters/498,goque iosua,calf of leg
+243-255,chib1270,http://concepticon.clld.org/parameters/1371,gota,knee
+243-606,chib1270,http://concepticon.clld.org/parameters/1301,quihicha,foot
+243-50,chib1270,http://concepticon.clld.org/parameters/803,iomquyn,ankle
+243-535,chib1270,http://concepticon.clld.org/parameters/980,quichy pquaquyn,heel
+243-347,chib1270,http://concepticon.clld.org/parameters/1389,quihichyba,toe
+243-510,chib1270,http://concepticon.clld.org/parameters/1257,gaca,wing
+243-510,chib1270,http://concepticon.clld.org/parameters/1201,gaca,feather
+243-350,chib1270,http://concepticon.clld.org/parameters/1592,fihista,chest
+243-320,chib1270,http://concepticon.clld.org/parameters/1402,chuhupqua,breast (of woman)
+243-460,chib1270,http://concepticon.clld.org/parameters/796,chue,"nipple, teat"
+243-621,chib1270,http://concepticon.clld.org/parameters/1838,tomsa,navel
+243-418,chib1270,http://concepticon.clld.org/parameters/1838,mue,navel
+243-421,chib1270,http://concepticon.clld.org/parameters/1223,nymsuguy,heart
+243-542,chib1270,http://concepticon.clld.org/parameters/688,fumy,lung
+243-408,chib1270,http://concepticon.clld.org/parameters/1224,tyhyba,liver
+243-385,chib1270,http://concepticon.clld.org/parameters/489,hete,kidney
+243-319,chib1270,http://concepticon.clld.org/parameters/1744,chahasa,spleen
+243-500,chib1270,http://concepticon.clld.org/parameters/819,ie,stomach
+243-233,chib1270,http://concepticon.clld.org/parameters/819,ieta,stomach
+243-634,chib1270,http://concepticon.clld.org/parameters/1991,zimsua,"intestines, guts"
+243-516,chib1270,http://concepticon.clld.org/parameters/1681,zita,waist
+243-313,chib1270,http://concepticon.clld.org/parameters/1745,muyhyzua,hip
+243-376,chib1270,http://concepticon.clld.org/parameters/834,iohoza,buttocks
+243-146,chib1270,http://concepticon.clld.org/parameters/797,niomy,testicle
+243-444,chib1270,http://concepticon.clld.org/parameters/1222,naqua,penis
+243-393,chib1270,http://concepticon.clld.org/parameters/1407,fihizca,"breathe, breath"
+243-562,chib1270,http://concepticon.clld.org/parameters/1028,zequyhyquysuca,"yawn, gape"
+243-66,chib1270,http://concepticon.clld.org/parameters/162,zefihistac anysqua,hiccough
+243-131,chib1270,http://concepticon.clld.org/parameters/1621,azihubgasqua,sneeze
+243-154,chib1270,http://concepticon.clld.org/parameters/126,ixiunsuca,perspire
+243-716,chib1270,http://concepticon.clld.org/parameters/1440,zquyhyzygosqua,spit
+243-641,chib1270,http://concepticon.clld.org/parameters/1278,bcosqua,vomit
+243-196,chib1270,http://concepticon.clld.org/parameters/1403,zemonsuca,bite
+243-549,chib1270,http://concepticon.clld.org/parameters/319,bgamysuca,lick
+243-357,chib1270,http://concepticon.clld.org/parameters/1585,zquybysuca,sleep
+243-231,chib1270,http://concepticon.clld.org/parameters/1983,zefihiscaz ahusqua,snore
+243-212,chib1270,http://concepticon.clld.org/parameters/1920,muysua,dream
+243-483,chib1270,http://concepticon.clld.org/parameters/1602,mebgasqua,wake up
+243-293,chib1270,http://concepticon.clld.org/parameters/592,zihizegosqua,urinate
+243-125,chib1270,http://concepticon.clld.org/parameters/676,iiu,defecate
+243-98,chib1270,http://concepticon.clld.org/parameters/1785,bchisqua,have sexual intercourse
+243-307,chib1270,http://concepticon.clld.org/parameters/52,zusynsuca,shiver
+243-224,chib1270,http://concepticon.clld.org/parameters/138,zemosgua,bathe
+243-575,chib1270,http://concepticon.clld.org/parameters/1152,bxisque,beget (of father)
+243-405,chib1270,http://concepticon.clld.org/parameters/1090,fac izasqua zemuysquyn-suca,born (to be)
+243-627,chib1270,http://concepticon.clld.org/parameters/1123,guasquyn,pregnant
+243-301,chib1270,http://concepticon.clld.org/parameters/1087,muyscaz iec azasqua,conceive
+243-463,chib1270,http://concepticon.clld.org/parameters/1422,zica,"live, living, life"
+243-665,chib1270,http://concepticon.clld.org/parameters/1422,mica,"live, living, life"
+243-635,chib1270,http://concepticon.clld.org/parameters/1494,bgye,"die, dead"
+243-184,chib1270,http://concepticon.clld.org/parameters/1417,bgusqua,kill
+243-322,chib1270,http://concepticon.clld.org/parameters/767,uahaia ~ guahaia,corpse
+243-139,chib1270,http://concepticon.clld.org/parameters/1719,hichac bzasqua,bury (the dead)
+243-234,chib1270,http://concepticon.clld.org/parameters/785,achihizan mague,"strong, mighty, powerful"
+243-682,chib1270,http://concepticon.clld.org/parameters/1601,ichihizanza,weak
+243-195,chib1270,http://concepticon.clld.org/parameters/1364,choc izone,"well, health"
+243-321,chib1270,http://concepticon.clld.org/parameters/1847,iuquyn,"sick, sickness"
+243-489,chib1270,http://concepticon.clld.org/parameters/1534,chigu,fever
+243-661,chib1270,http://concepticon.clld.org/parameters/1109,bty hypquasuca,"wound, sore"
+243-226,chib1270,http://concepticon.clld.org/parameters/1148,zepamzasuca,bruise
+243-381,chib1270,http://concepticon.clld.org/parameters/1903,yc abiasqua,swelling
+243-236,chib1270,http://concepticon.clld.org/parameters/148,abasynsuca,itch
+243-29,chib1270,http://concepticon.clld.org/parameters/1584,sieycagahazua,blister
+243-282,chib1270,http://concepticon.clld.org/parameters/793,amsa,boil (noun)
+243-551,chib1270,http://concepticon.clld.org/parameters/1808,ybachuquy,pus
+243-676,chib1270,http://concepticon.clld.org/parameters/499,ichuensuca,"cure, heal"
+243-187,chib1270,http://concepticon.clld.org/parameters/1372,hizca,"medicine, drug"
+243-24,chib1270,http://concepticon.clld.org/parameters/1757,aquynzac agasqua,"tired, weary"
+243-585,chib1270,http://concepticon.clld.org/parameters/168,zpquyquyz azysqua,rest
+243-164,chib1270,http://concepticon.clld.org/parameters/1564,aiohozan mague,lazy
+243-108,chib1270,http://concepticon.clld.org/parameters/1125,azytapquana,bald
+243-300,chib1270,http://concepticon.clld.org/parameters/320,gocagyu,lame
+243-521,chib1270,http://concepticon.clld.org/parameters/996,cuhupqua,deaf
+243-582,chib1270,http://concepticon.clld.org/parameters/1653,opquaza,blind
+243-52,chib1270,http://concepticon.clld.org/parameters/1463,chienuca,intoxicated
+243-258,chib1270,http://concepticon.clld.org/parameters/590,chuhisc izone,"naked, bare"
+243-247,chib1270,http://concepticon.clld.org/parameters/1336,zequychyquysuca,eat
+243-500,chib1270,http://concepticon.clld.org/parameters/256,ie,food
+243-297,chib1270,http://concepticon.clld.org/parameters/256,quychyquy,food
+243-659,chib1270,http://concepticon.clld.org/parameters/1959,tyhyca,raw
+243-602,chib1270,http://concepticon.clld.org/parameters/178,aiensuca,ripe
+243-84,chib1270,http://concepticon.clld.org/parameters/1958,aienza,"green, unripe"
+243-246,chib1270,http://concepticon.clld.org/parameters/1728,agahachansuca,rotten
+243-3,chib1270,http://concepticon.clld.org/parameters/1401,zebiohotysuca,drink
+243-127,chib1270,http://concepticon.clld.org/parameters/1533,yc chan,hunger
+243-253,chib1270,http://concepticon.clld.org/parameters/1533,yquy chan,hunger
+243-209,chib1270,http://concepticon.clld.org/parameters/848,zepquyhyzynsuca,thirst
+243-114,chib1270,http://concepticon.clld.org/parameters/1421,bchuchysuca,suck
+243-150,chib1270,http://concepticon.clld.org/parameters/321,bgyiasuca,chew
+243-629,chib1270,http://concepticon.clld.org/parameters/897,umys btasqua,swallow
+243-632,chib1270,http://concepticon.clld.org/parameters/1100,zmohoquysuca,cook
+243-415,chib1270,http://concepticon.clld.org/parameters/792,atomansuca,boil (vb)
+243-23,chib1270,http://concepticon.clld.org/parameters/2146,bgazysuca,"roast, fry"
+243-111,chib1270,http://concepticon.clld.org/parameters/1462,zoia,"pot, cooking vessel"
+243-79,chib1270,http://concepticon.clld.org/parameters/1378,chuia,spoon
+243-297,chib1270,http://concepticon.clld.org/parameters/1526,quychyquy,meal (a)
+243-273,chib1270,http://concepticon.clld.org/parameters/768,zquyhyza zamisqua,lunch
+243-242,chib1270,http://concepticon.clld.org/parameters/275,zeguahachysuca,peel
+243-259,chib1270,http://concepticon.clld.org/parameters/86,zebtytysuca,"sieve, strain"
+243-680,chib1270,http://concepticon.clld.org/parameters/1767,zemohosysuca,scrape
+243-431,chib1270,http://concepticon.clld.org/parameters/2017,bsahachysuca,"stir, mix"
+243-487,chib1270,http://concepticon.clld.org/parameters/1368,fun,bread
+243-407,chib1270,http://concepticon.clld.org/parameters/1368,sufun,bread
+243-500,chib1270,http://concepticon.clld.org/parameters/273,ie,dough
+243-500,chib1270,http://concepticon.clld.org/parameters/1594,ie,"meal, flour"
+243-491,chib1270,http://concepticon.clld.org/parameters/634,chihica,meat
+243-155,chib1270,http://concepticon.clld.org/parameters/1547,suque,"soup, broth"
+243-312,chib1270,http://concepticon.clld.org/parameters/832,histe,bean
+243-356,chib1270,http://concepticon.clld.org/parameters/593,iomza,potato
+243-558,chib1270,http://concepticon.clld.org/parameters/1507,quyeuba,fruit
+243-686,chib1270,http://concepticon.clld.org/parameters/1966,chuba,bunch
+243-386,chib1270,http://concepticon.clld.org/parameters/1274,nygua,salt
+243-206,chib1270,http://concepticon.clld.org/parameters/919,quybsa,chili pepper
+243-693,chib1270,http://concepticon.clld.org/parameters/635,chuexiu,milk (noun)
+243-360,chib1270,http://concepticon.clld.org/parameters/93,chue zebiosqua,milk (vb)
+243-579,chib1270,http://concepticon.clld.org/parameters/731,biohoty,"beverage, drink"
+243-462,chib1270,http://concepticon.clld.org/parameters/404,fapqua,fermented drink
+243-87,chib1270,http://concepticon.clld.org/parameters/1850,quyhysa,cotton
+243-240,chib1270,http://concepticon.clld.org/parameters/580,huca,fur
+243-409,chib1270,http://concepticon.clld.org/parameters/629,ioque,leather
+243-323,chib1270,http://concepticon.clld.org/parameters/121,zemusqua,spin
+243-477,chib1270,http://concepticon.clld.org/parameters/277,zaza,spindle
+243-257,chib1270,http://concepticon.clld.org/parameters/133,zepquasqua,weave
+243-290,chib1270,http://concepticon.clld.org/parameters/1787,quyty,loom
+243-7,chib1270,http://concepticon.clld.org/parameters/1457,ixinygosqua,sew
+243-283,chib1270,http://concepticon.clld.org/parameters/1382,chihine,needle
+243-245,chib1270,http://concepticon.clld.org/parameters/1161,zimne,thread
+243-704,chib1270,http://concepticon.clld.org/parameters/157,bchyusuca,dye
+243-272,chib1270,http://concepticon.clld.org/parameters/1600,guan,skirt
+243-533,chib1270,http://concepticon.clld.org/parameters/2130,pquapqua,"hat, cap"
+243-612,chib1270,http://concepticon.clld.org/parameters/1851,pquamne chuta,pocket
+243-283,chib1270,http://concepticon.clld.org/parameters/64,chihine,pin
+243-530,chib1270,http://concepticon.clld.org/parameters/1961,sihibza,necklace
+243-669,chib1270,http://concepticon.clld.org/parameters/1860,pqua,bead
+243-104,chib1270,http://concepticon.clld.org/parameters/1860,cuspqua,bead
+243-39,chib1270,http://concepticon.clld.org/parameters/330,-in,"headband, headdress"
+243-221,chib1270,http://concepticon.clld.org/parameters/1475,cuza,comb
+243-403,chib1270,http://concepticon.clld.org/parameters/333,muyhyca,braid
+243-113,chib1270,http://concepticon.clld.org/parameters/788,foaba,soap
+243-695,chib1270,http://concepticon.clld.org/parameters/788,fiqueene,soap
+243-38,chib1270,http://concepticon.clld.org/parameters/1252,gue,house
+243-38,chib1270,http://concepticon.clld.org/parameters/1678,gue,hut
+243-668,chib1270,http://concepticon.clld.org/parameters/736,ucta,"yard, court"
+243-667,chib1270,http://concepticon.clld.org/parameters/736,uta,"yard, court"
+243-92,chib1270,http://concepticon.clld.org/parameters/1567,gue quyhyca,"door, gate"
+243-492,chib1270,http://concepticon.clld.org/parameters/1375,pihigua,window
+243-90,chib1270,http://concepticon.clld.org/parameters/1632,hischa,floor
+243-481,chib1270,http://concepticon.clld.org/parameters/1632,iegui,floor
+243-329,chib1270,http://concepticon.clld.org/parameters/933,[tapie],wall
+243-130,chib1270,http://concepticon.clld.org/parameters/1305,iie,chimney
+243-382,chib1270,http://concepticon.clld.org/parameters/1663,quypqua,bed
+243-537,chib1270,http://concepticon.clld.org/parameters/1044,ubaca,pillow
+243-93,chib1270,http://concepticon.clld.org/parameters/806,boi,blanket
+243-689,chib1270,http://concepticon.clld.org/parameters/279,fupqua,thatch
+243-44,chib1270,http://concepticon.clld.org/parameters/280,zyta,ridgepole
+243-599,chib1270,http://concepticon.clld.org/parameters/1132,guequyny,beam
+243-677,chib1270,http://concepticon.clld.org/parameters/1227,quye,board
+243-22,chib1270,http://concepticon.clld.org/parameters/212,ta,field (for cultivation)
+243-443,chib1270,http://concepticon.clld.org/parameters/1690,ca,fence
+243-713,chib1270,http://concepticon.clld.org/parameters/2002,mihisque,ditch
+243-715,chib1270,http://concepticon.clld.org/parameters/1418,bquyhyusuca,dig
+243-264,chib1270,http://concepticon.clld.org/parameters/1176,[para],spade
+243-54,chib1270,http://concepticon.clld.org/parameters/1901,hica,shovel
+243-578,chib1270,http://concepticon.clld.org/parameters/748,bxisqua,sow
+243-12,chib1270,http://concepticon.clld.org/parameters/714,sune,seed
+243-628,chib1270,http://concepticon.clld.org/parameters/190,zemascasuca,"mow, reap"
+243-435,chib1270,http://concepticon.clld.org/parameters/285,zebcahachysuca,thresh
+243-703,chib1270,http://concepticon.clld.org/parameters/605,uba,"grain (barley, oats etc)"
+243-60,chib1270,http://concepticon.clld.org/parameters/506,aba,"maize, corn"
+243-335,chib1270,http://concepticon.clld.org/parameters/606,quychquy,grass
+243-348,chib1270,http://concepticon.clld.org/parameters/606,quyhyquy,grass
+243-578,chib1270,http://concepticon.clld.org/parameters/1486,bxisqua,plant (vb)
+243-543,chib1270,http://concepticon.clld.org/parameters/670,chihiza,root
+243-534,chib1270,http://concepticon.clld.org/parameters/1531,quyeca,branch
+243-677,chib1270,http://concepticon.clld.org/parameters/628,quye,leaf
+243-703,chib1270,http://concepticon.clld.org/parameters/239,uba,flower
+243-677,chib1270,http://concepticon.clld.org/parameters/906,quye,tree
+243-620,chib1270,http://concepticon.clld.org/parameters/974,hosca,tobacco
+243-437,chib1270,http://concepticon.clld.org/parameters/344,quyetamuy,tree trunk
+243-432,chib1270,http://concepticon.clld.org/parameters/409,canua,forked branch
+243-240,chib1270,http://concepticon.clld.org/parameters/1204,huca,bark
+243-170,chib1270,http://concepticon.clld.org/parameters/411,zihiba,gourd
+243-580,chib1270,http://concepticon.clld.org/parameters/146,su amne,sugar cane
+243-291,chib1270,http://concepticon.clld.org/parameters/641,hua,mushroom
+243-384,chib1270,http://concepticon.clld.org/parameters/813,bquysqua,"do, make"
+243-399,chib1270,http://concepticon.clld.org/parameters/984,ichosqua,work
+243-466,chib1270,http://concepticon.clld.org/parameters/2004,iosc bzasqua,bend
+243-186,chib1270,http://concepticon.clld.org/parameters/1470,fihiste btasqua,fold
+243-171,chib1270,http://concepticon.clld.org/parameters/1917,bcamysuca,"tie, bind"
+243-502,chib1270,http://concepticon.clld.org/parameters/352,mnyscasuca,untie
+243-540,chib1270,http://concepticon.clld.org/parameters/1218,chihize,"rope, cord"
+243-440,chib1270,http://concepticon.clld.org/parameters/760,ynybgu,knot (noun)
+243-456,chib1270,http://concepticon.clld.org/parameters/2133,ys bgyisuca,"strike (hit, beat)"
+243-456,chib1270,http://concepticon.clld.org/parameters/354,ys bgyisuca,pound with fist
+243-269,chib1270,http://concepticon.clld.org/parameters/1437,sacan btasqua,split
+243-639,chib1270,http://concepticon.clld.org/parameters/1735,btosqua,tear
+243-213,chib1270,http://concepticon.clld.org/parameters/291,bchusqua,"flay, skin"
+243-284,chib1270,http://concepticon.clld.org/parameters/214,yc bsuhusqua,stretch
+243-25,chib1270,http://concepticon.clld.org/parameters/1455,bsuhusqua,pull
+243-404,chib1270,http://concepticon.clld.org/parameters/38,ybcas bquysqua,spread out
+243-199,chib1270,http://concepticon.clld.org/parameters/357,guan bzasqua,hang up
+243-149,chib1270,http://concepticon.clld.org/parameters/1414,zbiosqua,"squeeze, wring"
+243-31,chib1270,http://concepticon.clld.org/parameters/1487,ytuc bzasqua,pour
+243-476,chib1270,http://concepticon.clld.org/parameters/1453,bchuhusqua,wash
+243-17,chib1270,http://concepticon.clld.org/parameters/230,zemahasysuca,sweep
+243-344,chib1270,http://concepticon.clld.org/parameters/211,bxiusuca,cast (metals)
+243-143,chib1270,http://concepticon.clld.org/parameters/1369,nyia,gold
+243-143,chib1270,http://concepticon.clld.org/parameters/759,nyia,silver
+243-317,chib1270,http://concepticon.clld.org/parameters/1825,bahazca,"copper, bronze"
+243-230,chib1270,http://concepticon.clld.org/parameters/1399,tybso,clay
+243-257,chib1270,http://concepticon.clld.org/parameters/1729,zepquasqua,"weave, plait"
+243-648,chib1270,http://concepticon.clld.org/parameters/1539,tobia,basket
+243-470,chib1270,http://concepticon.clld.org/parameters/293,chisua,netbag
+243-426,chib1270,http://concepticon.clld.org/parameters/2001,bchihisqua,paint (vb)
+243-227,chib1270,http://concepticon.clld.org/parameters/1588,ys zeguscasuca,turn over
+243-455,chib1270,http://concepticon.clld.org/parameters/1445,ys zukuscansuca,turn around
+243-711,chib1270,http://concepticon.clld.org/parameters/827,zebenansuca,roll
+243-136,chib1270,http://concepticon.clld.org/parameters/430,zimne zemusuca,twist
+243-318,chib1270,http://concepticon.clld.org/parameters/568,zoszansuca,rise
+243-657,chib1270,http://concepticon.clld.org/parameters/501,guat bquysqua,"raise, lift"
+243-711,chib1270,http://concepticon.clld.org/parameters/1280,zebenansuca,fall
+243-600,chib1270,http://concepticon.clld.org/parameters/2253,bchyhychysuca,drip
+243-239,chib1270,http://concepticon.clld.org/parameters/1456,yc btasqua,throw
+243-271,chib1270,http://concepticon.clld.org/parameters/702,cam bquysqua,catch (ball)
+243-623,chib1270,http://concepticon.clld.org/parameters/1909,btytysuca,shake
+243-400,chib1270,http://concepticon.clld.org/parameters/2003,acosynsuca,flow
+243-559,chib1270,http://concepticon.clld.org/parameters/1088,in btasqua,sink
+243-262,chib1270,http://concepticon.clld.org/parameters/1439,inyhyz agosqua,swim
+243-679,chib1270,http://concepticon.clld.org/parameters/119,in zemisqua,dive
+243-46,chib1270,http://concepticon.clld.org/parameters/365,guate zansuca,splash
+243-173,chib1270,http://concepticon.clld.org/parameters/175,obas bcusqua,blow
+243-631,chib1270,http://concepticon.clld.org/parameters/66,gotam chican bzasqua,kneel
+243-56,chib1270,http://concepticon.clld.org/parameters/66,gotam chican itysqua,kneel
+243-532,chib1270,http://concepticon.clld.org/parameters/1324,zechuguansuca,"slide, slip"
+243-46,chib1270,http://concepticon.clld.org/parameters/1829,guate zansuca,"jump, leap"
+243-217,chib1270,http://concepticon.clld.org/parameters/1879,bzahansuca,dance
+243-387,chib1270,http://concepticon.clld.org/parameters/1443,ies inasqua,walk
+243-658,chib1270,http://concepticon.clld.org/parameters/366,iquy btasqua,limp
+243-474,chib1270,http://concepticon.clld.org/parameters/1519,inyhysysuca,run
+243-414,chib1270,http://concepticon.clld.org/parameters/695,inasqua,go
+243-26,chib1270,http://concepticon.clld.org/parameters/705,zoszan-suca,go up
+243-314,chib1270,http://concepticon.clld.org/parameters/1102,ichiegosqua,climb
+243-375,chib1270,http://concepticon.clld.org/parameters/2014,guas zemisqua,go down
+243-419,chib1270,http://concepticon.clld.org/parameters/1107,fac zansuca,go out
+243-189,chib1270,http://concepticon.clld.org/parameters/1446,zehusqua,come
+243-304,chib1270,http://concepticon.clld.org/parameters/485,aguezac zegasqua,disappear
+243-673,chib1270,http://concepticon.clld.org/parameters/956,zansuca,flee
+243-219,chib1270,http://concepticon.clld.org/parameters/1085,asucas inasqua,follow
+243-712,chib1270,http://concepticon.clld.org/parameters/1387,zpquasqua,"reach, arrive"
+243-134,chib1270,http://concepticon.clld.org/parameters/1778,anguac zpquasqua,approach
+243-445,chib1270,http://concepticon.clld.org/parameters/749,hui zemisqua,enter
+243-499,chib1270,http://concepticon.clld.org/parameters/700,mnysqua,carry (bear)
+243-13,chib1270,http://concepticon.clld.org/parameters/692,zemasqua bsosqua,bring
+243-394,chib1270,http://concepticon.clld.org/parameters/1127,btyusuca,send
+243-500,chib1270,http://concepticon.clld.org/parameters/667,ie,road
+243-5,chib1270,http://concepticon.clld.org/parameters/1664,zine,raft
+243-141,chib1270,http://concepticon.clld.org/parameters/773,aguene,have
+243-274,chib1270,http://concepticon.clld.org/parameters/684,epqua gue,"own, possess"
+243-337,chib1270,http://concepticon.clld.org/parameters/1749,zebgusqua,take
+243-271,chib1270,http://concepticon.clld.org/parameters/1448,cam bquysqua,hold
+243-325,chib1270,http://concepticon.clld.org/parameters/738,ipquabie,thing
+243-638,chib1270,http://concepticon.clld.org/parameters/1447,hoc mnysqua,give
+243-425,chib1270,http://concepticon.clld.org/parameters/2008,zehuizesuca,"save, rescue"
+243-53,chib1270,http://concepticon.clld.org/parameters/44,bguahaiasuca,"harm, injure, damage"
+243-391,chib1270,http://concepticon.clld.org/parameters/1468,zemisqua,"seek, look for"
+243-68,chib1270,http://concepticon.clld.org/parameters/719,zemistysuca,find
+243-649,chib1270,http://concepticon.clld.org/parameters/1660,ai btasqua,lose
+243-454,chib1270,http://concepticon.clld.org/parameters/1095,ubtasqua,"release, let go"
+243-143,chib1270,http://concepticon.clld.org/parameters/1559,nyia,money
+243-428,chib1270,http://concepticon.clld.org/parameters/712,zipquazagasqua,rich
+243-9,chib1270,http://concepticon.clld.org/parameters/1774,ataban mague,"avaricious, stingy"
+243-522,chib1270,http://concepticon.clld.org/parameters/1823,--btyusuca,borrow
+243-286,chib1270,http://concepticon.clld.org/parameters/369,ichubia caguene,owe
+243-298,chib1270,http://concepticon.clld.org/parameters/1914,chubia,debt
+243-303,chib1270,http://concepticon.clld.org/parameters/718,bqusqua,pay (vb)
+243-267,chib1270,http://concepticon.clld.org/parameters/1081,bgytysuca,"account, reckoning"
+243-588,chib1270,http://concepticon.clld.org/parameters/873,tamsa,"tax, tribute"
+243-80,chib1270,http://concepticon.clld.org/parameters/1869,zebcusqua,buy
+243-567,chib1270,http://concepticon.clld.org/parameters/1571,zemutysuca,sell
+243-263,chib1270,http://concepticon.clld.org/parameters/2135,zemimysuca,"trade, barter"
+243-194,chib1270,http://concepticon.clld.org/parameters/633,ipta,market (place)
+243-536,chib1270,http://concepticon.clld.org/parameters/657,cuca,price
+243-207,chib1270,http://concepticon.clld.org/parameters/1426,acuca gue,"dear (costly, expensive)"
+243-374,chib1270,http://concepticon.clld.org/parameters/1887,acucaza,cheap
+243-608,chib1270,http://concepticon.clld.org/parameters/884,bquyquysuca,share (distribute)
+243-675,chib1270,http://concepticon.clld.org/parameters/1098,zeguaesuca,weigh
+243-592,chib1270,http://concepticon.clld.org/parameters/1685,ypqua,after
+243-175,chib1270,http://concepticon.clld.org/parameters/1685,ypquana,after
+243-447,chib1270,http://concepticon.clld.org/parameters/723,-gahas,behind
+243-370,chib1270,http://concepticon.clld.org/parameters/723,-gahan,behind
+243-215,chib1270,http://concepticon.clld.org/parameters/1816,-quihina,beside
+243-100,chib1270,http://concepticon.clld.org/parameters/1816,-quihiquen,beside
+243-275,chib1270,http://concepticon.clld.org/parameters/1326,hicha-,"down, below"
+243-315,chib1270,http://concepticon.clld.org/parameters/1326,fihista-,"down, below"
+243-496,chib1270,http://concepticon.clld.org/parameters/1882,-quyhyna,before
+243-576,chib1270,http://concepticon.clld.org/parameters/1019,-ubana,front
+243-106,chib1270,http://concepticon.clld.org/parameters/1606,huia,"inside, in"
+243-561,chib1270,http://concepticon.clld.org/parameters/1606,huie,"inside, in"
+243-32,chib1270,http://concepticon.clld.org/parameters/762,fac,outside
+243-448,chib1270,http://concepticon.clld.org/parameters/1485,uca,under
+243-115,chib1270,http://concepticon.clld.org/parameters/1485,usa,under
+243-406,chib1270,http://concepticon.clld.org/parameters/1591,chicana,"up, above"
+243-687,chib1270,http://concepticon.clld.org/parameters/1591,chicaca,"up, above"
+243-382,chib1270,http://concepticon.clld.org/parameters/723,quypqua,place
+243-193,chib1270,http://concepticon.clld.org/parameters/998,bzasqua,put
+243-587,chib1270,http://concepticon.clld.org/parameters/1416,hichan izasqua,sit
+243-110,chib1270,http://concepticon.clld.org/parameters/215,ybcac izone,lie down
+243-548,chib1270,http://concepticon.clld.org/parameters/1442,quypquas zpquansuca,stand
+243-37,chib1270,http://concepticon.clld.org/parameters/987,ypquac zemasqua,"remain, stay"
+243-475,chib1270,http://concepticon.clld.org/parameters/838,etago,"remains, left overs"
+243-116,chib1270,http://concepticon.clld.org/parameters/7,bchichysuca,"collect, gather"
+243-423,chib1270,http://concepticon.clld.org/parameters/371,guatbquysqua,pick up
+243-701,chib1270,http://concepticon.clld.org/parameters/1576,asanasan bquysqua,pile up
+243-420,chib1270,http://concepticon.clld.org/parameters/1743,atuca zebquisqua,"join, unite"
+243-309,chib1270,http://concepticon.clld.org/parameters/1359,yban btasqua,separate
+243-308,chib1270,http://concepticon.clld.org/parameters/1119,sacan btascua,divide
+243-508,chib1270,http://concepticon.clld.org/parameters/1156,quyhycas biasqua,open
+243-710,chib1270,http://concepticon.clld.org/parameters/1046,quyhyc btasqua,"shut, close"
+243-201,chib1270,http://concepticon.clld.org/parameters/761,asac zmuysqua,cover
+243-364,chib1270,http://concepticon.clld.org/parameters/602,bchiy-suca,"hide, conceal"
+243-252,chib1270,http://concepticon.clld.org/parameters/1265,guatzona,high
+243-44,chib1270,http://concepticon.clld.org/parameters/1753,zyta,top
+243-249,chib1270,http://concepticon.clld.org/parameters/690,etaca,bottom
+243-181,chib1270,http://concepticon.clld.org/parameters/742,ynbgyusa,end
+243-467,chib1270,http://concepticon.clld.org/parameters/372,obta,pointed
+243-153,chib1270,http://concepticon.clld.org/parameters/863,oba,edge
+243-486,chib1270,http://concepticon.clld.org/parameters/863,coca,edge
+243-369,chib1270,http://concepticon.clld.org/parameters/1093,ganyca,"middle, center"
+243-651,chib1270,http://concepticon.clld.org/parameters/1019,yta cho,right (side)
+243-655,chib1270,http://concepticon.clld.org/parameters/244,zuin apquac ague,left (side)
+243-646,chib1270,http://concepticon.clld.org/parameters/1942,hischcatan,near (adv)
+243-251,chib1270,http://concepticon.clld.org/parameters/1406,ahuen mague,far (adv)
+243-260,chib1270,http://concepticon.clld.org/parameters/1506,zeguaosuca,measure
+243-647,chib1270,http://concepticon.clld.org/parameters/1202,cuhuma,"large, big"
+243-334,chib1270,http://concepticon.clld.org/parameters/1246,inguezunga,"small, little"
+243-137,chib1270,http://concepticon.clld.org/parameters/1203,gahasio,long
+243-166,chib1270,http://concepticon.clld.org/parameters/711,gynapquane,tall
+243-524,chib1270,http://concepticon.clld.org/parameters/1645,asuhucaza,short
+243-355,chib1270,http://concepticon.clld.org/parameters/1243,afihista gue,"wide, broad"
+243-279,chib1270,http://concepticon.clld.org/parameters/1267,afihistaza,narrow
+243-506,chib1270,http://concepticon.clld.org/parameters/1244,achimy gue,thick (in dimension)
+243-569,chib1270,http://concepticon.clld.org/parameters/1400,asiten mague,thin (in dimension)
+243-377,chib1270,http://concepticon.clld.org/parameters/1593,etague etaynpuyca,deep
+243-225,chib1270,http://concepticon.clld.org/parameters/1633,atucac aguecua,flat
+243-449,chib1270,http://concepticon.clld.org/parameters/1404,pquihizuc zona,straight
+243-519,chib1270,http://concepticon.clld.org/parameters/1071,zizua,hook
+243-185,chib1270,http://concepticon.clld.org/parameters/192,achopquana,corner
+243-35,chib1270,http://concepticon.clld.org/parameters/1395,atoboca,round
+243-2,chib1270,http://concepticon.clld.org/parameters/1667,phigua,hole
+243-595,chib1270,http://concepticon.clld.org/parameters/1558,hycha zecuhuc aguecua,"like, similar"
+243-263,chib1270,http://concepticon.clld.org/parameters/1264,zemimysuca,change
+243-169,chib1270,http://concepticon.clld.org/parameters/1294,etaquyn magueza,"zero, nothing"
+243-140,chib1270,http://concepticon.clld.org/parameters/1515,ata,one
+243-34,chib1270,http://concepticon.clld.org/parameters/1498,boza,two
+243-665,chib1270,http://concepticon.clld.org/parameters/492,mica,three
+243-343,chib1270,http://concepticon.clld.org/parameters/1500,mhuyzca,four
+243-652,chib1270,http://concepticon.clld.org/parameters/493,hyzca,five
+243-145,chib1270,http://concepticon.clld.org/parameters/1703,taa,six
+243-493,chib1270,http://concepticon.clld.org/parameters/1704,qhupqua,seven
+243-58,chib1270,http://concepticon.clld.org/parameters/1705,suhuza,eight
+243-617,chib1270,http://concepticon.clld.org/parameters/1483,aca,nine
+243-697,chib1270,http://concepticon.clld.org/parameters/1515,hubchihica,ten
+243-27,chib1270,http://concepticon.clld.org/parameters/1706,quihicha ata,eleven
+243-33,chib1270,http://concepticon.clld.org/parameters/1707,quihicha boza,twelve
+243-190,chib1270,http://concepticon.clld.org/parameters/1709,quihicha hyzca,fifteen
+243-398,chib1270,http://concepticon.clld.org/parameters/1710,quihicha hubchihica,twenty
+243-392,chib1270,http://concepticon.clld.org/parameters/1634,guehyzca,hundred
+243-62,chib1270,http://concepticon.clld.org/parameters/1843,guehyzca hubchihica,thousand
+243-267,chib1270,http://concepticon.clld.org/parameters/1420,bgytysuca,count
+243-507,chib1270,http://concepticon.clld.org/parameters/98,azonuca,"every, all"
+243-465,chib1270,http://concepticon.clld.org/parameters/1198,fie,"much, many"
+243-73,chib1270,http://concepticon.clld.org/parameters/1992,asaqy,more
+243-373,chib1270,http://concepticon.clld.org/parameters/1242,fiquenza,"little (quantity), few"
+243-325,chib1270,http://concepticon.clld.org/parameters/1241,ipquabie,some
+243-20,chib1270,http://concepticon.clld.org/parameters/1429,ies asucune,full
+243-692,chib1270,http://concepticon.clld.org/parameters/1624,ytuc aguene,empty
+243-584,chib1270,http://concepticon.clld.org/parameters/816,chinna,half
+243-75,chib1270,http://concepticon.clld.org/parameters/1580,atuca,"alone, only"
+243-142,chib1270,http://concepticon.clld.org/parameters/1580,atupqua,"alone, only"
+243-289,chib1270,http://concepticon.clld.org/parameters/728,quyhyna,first
+243-223,chib1270,http://concepticon.clld.org/parameters/1529,bgyuc,last
+243-103,chib1270,http://concepticon.clld.org/parameters/1384,amuyca,second
+243-525,chib1270,http://concepticon.clld.org/parameters/1888,tama-,pair
+243-609,chib1270,http://concepticon.clld.org/parameters/1546,ycabozaz,two times
+243-469,chib1270,http://concepticon.clld.org/parameters/1859,micûn,third
+243-354,chib1270,http://concepticon.clld.org/parameters/417,ycamicaz,three times
+243-6,chib1270,http://concepticon.clld.org/parameters/1231,fihiza,new
+243-268,chib1270,http://concepticon.clld.org/parameters/1229,saca,old
+243-482,chib1270,http://concepticon.clld.org/parameters/672,umpquacuca,early
+243-182,chib1270,http://concepticon.clld.org/parameters/477,suamena,late
+243-362,chib1270,http://concepticon.clld.org/parameters/1376,fa,now
+243-157,chib1270,http://concepticon.clld.org/parameters/1376,fahysa,now
+243-618,chib1270,http://concepticon.clld.org/parameters/1631,spquina,"swift, fast, quick"
+243-133,chib1270,http://concepticon.clld.org/parameters/701,hichana,slow
+243-436,chib1270,http://concepticon.clld.org/parameters/754,zihizensuca,"hasten, hurry"
+243-89,chib1270,http://concepticon.clld.org/parameters/1186,izone,"last, endure"
+243-256,chib1270,http://concepticon.clld.org/parameters/1186,isucune,"last, endure"
+243-181,chib1270,http://concepticon.clld.org/parameters/743,ynbgyusa,end (temporal)
+243-511,chib1270,http://concepticon.clld.org/parameters/1766,achahansuca,finish
+243-597,chib1270,http://concepticon.clld.org/parameters/1676,hischan xie,always
+243-74,chib1270,http://concepticon.clld.org/parameters/1852,atezaca atezaca,often
+243-583,chib1270,http://concepticon.clld.org/parameters/1544,insgansa,sometimes
+243-539,chib1270,http://concepticon.clld.org/parameters/1656,hataca,never
+243-339,chib1270,http://concepticon.clld.org/parameters/204,fihistan,again
+243-63,chib1270,http://concepticon.clld.org/parameters/1260,sua,day
+243-295,chib1270,http://concepticon.clld.org/parameters/1233,za,night
+243-288,chib1270,http://concepticon.clld.org/parameters/729,suas agasqua,dawn
+243-345,chib1270,http://concepticon.clld.org/parameters/1339,zacoca,morning
+243-636,chib1270,http://concepticon.clld.org/parameters/12,sua quychyquysa,"noon, midday"
+243-427,chib1270,http://concepticon.clld.org/parameters/1807,sua meca,afternoon
+243-151,chib1270,http://concepticon.clld.org/parameters/1629,azacansuca,evening
+243-362,chib1270,http://concepticon.clld.org/parameters/1283,fa,today
+243-172,chib1270,http://concepticon.clld.org/parameters/1329,aica,tomorrow
+243-643,chib1270,http://concepticon.clld.org/parameters/1179,moza,day-after-tomorrow
+243-468,chib1270,http://concepticon.clld.org/parameters/1174,muyhycasuasa,yesterday
+243-434,chib1270,http://concepticon.clld.org/parameters/1180,mona,day-before-yesterday
+243-156,chib1270,http://concepticon.clld.org/parameters/1370,chie,month
+243-162,chib1270,http://concepticon.clld.org/parameters/1226,zocam,year
+243-417,chib1270,http://concepticon.clld.org/parameters/1342,suaty,summer
+243-15,chib1270,http://concepticon.clld.org/parameters/1586,zmuysquysuca,smell (vb trans)
+243-613,chib1270,http://concepticon.clld.org/parameters/376,acho,"fragrant, good smelling"
+243-395,chib1270,http://concepticon.clld.org/parameters/42,afupquan mague,"stinking, bad smelling"
+243-670,chib1270,http://concepticon.clld.org/parameters/21,a cho,taste
+243-700,chib1270,http://concepticon.clld.org/parameters/717,abasen mague,sweet
+243-459,chib1270,http://concepticon.clld.org/parameters/1091,nyguaz ys biasqua,salty
+243-232,chib1270,http://concepticon.clld.org/parameters/887,aquyhyquyn mague,bitter
+243-208,chib1270,http://concepticon.clld.org/parameters/1906,atyhyzyn mague,"acid, sour"
+243-397,chib1270,http://concepticon.clld.org/parameters/1408,mnyqua-suca,hear
+243-180,chib1270,http://concepticon.clld.org/parameters/1811,izonansuca,"sound, noise"
+243-305,chib1270,http://concepticon.clld.org/parameters/377,ahoahoan mague,loud
+243-68,chib1270,http://concepticon.clld.org/parameters/1409,zemistysuca,see
+243-453,chib1270,http://concepticon.clld.org/parameters/1819,bchibysuca,"look, look at"
+243-156,chib1270,http://concepticon.clld.org/parameters/679,chie,bright
+243-99,chib1270,http://concepticon.clld.org/parameters/1613,bique,color
+243-503,chib1270,http://concepticon.clld.org/parameters/250,muyian pquaoa,light (in color)
+243-380,chib1270,http://concepticon.clld.org/parameters/706,umzac aguecua,dark (in color)
+243-452,chib1270,http://concepticon.clld.org/parameters/1335,pquyhisio,white
+243-517,chib1270,http://concepticon.clld.org/parameters/163,amuyhyzyn mague,black
+243-118,chib1270,http://concepticon.clld.org/parameters/156,heczen mague,red
+243-696,chib1270,http://concepticon.clld.org/parameters/837,achysquyn mague,blue
+243-696,chib1270,http://concepticon.clld.org/parameters/1425,achysquyn mague,green
+243-552,chib1270,http://concepticon.clld.org/parameters/1424,atybansuca,yellow
+243-531,chib1270,http://concepticon.clld.org/parameters/1892,bgetasuca,touch
+243-158,chib1270,http://concepticon.clld.org/parameters/378,bsohoza-suca,pinch
+243-471,chib1270,http://concepticon.clld.org/parameters/1884,acamen mague,hard
+243-568,chib1270,http://concepticon.clld.org/parameters/1856,ahizian mague,soft
+243-324,chib1270,http://concepticon.clld.org/parameters/1923,asiquen mague,rough
+243-478,chib1270,http://concepticon.clld.org/parameters/1234,zmohosysuca,smooth
+243-690,chib1270,http://concepticon.clld.org/parameters/1396,asicaz bquysqua,sharp
+243-473,chib1270,http://concepticon.clld.org/parameters/1210,afihizan mague,heavy
+243-505,chib1270,http://concepticon.clld.org/parameters/1052,afihizanza,light (in weight)
+243-691,chib1270,http://concepticon.clld.org/parameters/1726,iotupqua,"wet, damp"
+243-94,chib1270,http://concepticon.clld.org/parameters/1398,buchua,dry
+243-331,chib1270,http://concepticon.clld.org/parameters/1286,amon mague,hot
+243-591,chib1270,http://concepticon.clld.org/parameters/1232,aguensuca,warm
+243-340,chib1270,http://concepticon.clld.org/parameters/1287,zquyensuca,cold
+243-410,chib1270,http://concepticon.clld.org/parameters/704,apquyhyzyn mague,clean
+243-338,chib1270,http://concepticon.clld.org/parameters/1230,amuyhyzen mague,"dirty, soiled"
+243-611,chib1270,http://concepticon.clld.org/parameters/380,zquyntansuca,wrinkled
+243-393,chib1270,http://concepticon.clld.org/parameters/53,fihizca,"soul, spirit"
+243-383,chib1270,http://concepticon.clld.org/parameters/1495,zpquyquyz achuensuca,"joyful, glad, happy"
+243-518,chib1270,http://concepticon.clld.org/parameters/1355,zegyguasuca,laugh
+243-285,chib1270,http://concepticon.clld.org/parameters/1413,zpquazygosqua,play
+243-545,chib1270,http://concepticon.clld.org/parameters/923,btyzy-suca,love
+243-433,chib1270,http://concepticon.clld.org/parameters/578,zemuysquysuca,kiss
+243-174,chib1270,http://concepticon.clld.org/parameters/928,es ichosqua,embrace
+243-495,chib1270,http://concepticon.clld.org/parameters/1783,iu,pain
+243-598,chib1270,http://concepticon.clld.org/parameters/1668,apquyquyz asucansuca,"grief, sorrow, sadness"
+243-544,chib1270,http://concepticon.clld.org/parameters/1839,zeconsuca,"cry, weep"
+243-674,chib1270,http://concepticon.clld.org/parameters/1651,opquasiu,tear (noun)
+243-412,chib1270,http://concepticon.clld.org/parameters/716,ai bgasqua,groan
+243-276,chib1270,http://concepticon.clld.org/parameters/82,zegensuca,anger
+243-464,chib1270,http://concepticon.clld.org/parameters/40,zemosuasuca,"envy, jealousy"
+243-672,chib1270,http://concepticon.clld.org/parameters/1776,zefansuca,shame (noun)
+243-605,chib1270,http://concepticon.clld.org/parameters/781,bsiesesuca,"fear, fright"
+243-564,chib1270,http://concepticon.clld.org/parameters/1784,-cuhuc aguene,"desire, want"
+243-332,chib1270,http://concepticon.clld.org/parameters/1750,ys btasqua,choose
+243-42,chib1270,http://concepticon.clld.org/parameters/1657,ocasa,true
+243-316,chib1270,http://concepticon.clld.org/parameters/601,yenza,"lie, tell lies"
+243-197,chib1270,http://concepticon.clld.org/parameters/13,agotac mnysqua,deceit
+243-265,chib1270,http://concepticon.clld.org/parameters/1528,apqua zegusquaza,forgive
+243-120,chib1270,http://concepticon.clld.org/parameters/1035,cho,good
+243-41,chib1270,http://concepticon.clld.org/parameters/1292,achuenza,bad
+243-484,chib1270,http://concepticon.clld.org/parameters/134,hychan zepquyquy guê,fault
+243-565,chib1270,http://concepticon.clld.org/parameters/1687,ecaz choc zegusqua,praise
+243-596,chib1270,http://concepticon.clld.org/parameters/1427,mecpquaoa,beautiful
+243-656,chib1270,http://concepticon.clld.org/parameters/1548,mec chyzynga,ugly
+243-163,chib1270,http://concepticon.clld.org/parameters/2018,abas izysqua,greedy
+243-371,chib1270,http://concepticon.clld.org/parameters/1562,pquyquy,mind
+243-122,chib1270,http://concepticon.clld.org/parameters/1415,ybunsuca,think (= reflect)
+243-577,chib1270,http://concepticon.clld.org/parameters/1513,zegusqua,think (= be of the opinion)
+243-593,chib1270,http://concepticon.clld.org/parameters/1890,zepuyquynuc ocas que bgasqua,believe
+243-43,chib1270,http://concepticon.clld.org/parameters/1536,zemnypquasuca,understand
+243-446,chib1270,http://concepticon.clld.org/parameters/1410,zemucansuca,know
+243-513,chib1270,http://concepticon.clld.org/parameters/117,-ipqua bquysqua,imitate
+243-88,chib1270,http://concepticon.clld.org/parameters/1521,hycha zecuhuc aguene,seem
+243-480,chib1270,http://concepticon.clld.org/parameters/1518,pquyta,"foolish, stupid"
+243-616,chib1270,http://concepticon.clld.org/parameters/1899,mahazanuca,"insane, crazy"
+243-546,chib1270,http://concepticon.clld.org/parameters/504,bchichuasuca,learn
+243-69,chib1270,http://concepticon.clld.org/parameters/709,hoc bgasqua,teach
+243-107,chib1270,http://concepticon.clld.org/parameters/707,zepquyn agasqua,remember
+243-563,chib1270,http://concepticon.clld.org/parameters/1523,zemahaquesuca,forget
+243-83,chib1270,http://concepticon.clld.org/parameters/989,muyian pquana,"clear, plain"
+243-573,chib1270,http://concepticon.clld.org/parameters/1841,zepquyquy yquyamisqua,suspect
+243-349,chib1270,http://concepticon.clld.org/parameters/1841,zepquyquy yquy azasqua,suspect
+243-574,chib1270,http://concepticon.clld.org/parameters/1902,aquihysynsuca,betray
+243-615,chib1270,http://concepticon.clld.org/parameters/643,chatyunynga cuhuc aguene,"need, necessity"
+243-645,chib1270,http://concepticon.clld.org/parameters/1812,bquys bchibysuca,"try, attempt"
+243-372,chib1270,http://concepticon.clld.org/parameters/1577,nga,and
+243-706,chib1270,http://concepticon.clld.org/parameters/1157,npquaca,because
+243-610,chib1270,http://concepticon.clld.org/parameters/1014,bi,or
+243-401,chib1270,http://concepticon.clld.org/parameters/1014,ban,or
+243-622,chib1270,http://concepticon.clld.org/parameters/1268,o,"yes, affirmative"
+243-128,chib1270,http://concepticon.clld.org/parameters/1269,-(n)za,"no, negative"
+243-660,chib1270,http://concepticon.clld.org/parameters/1239,ia hacobe,how?
+243-59,chib1270,http://concepticon.clld.org/parameters/1239,ia hacoua,how?
+243-633,chib1270,http://concepticon.clld.org/parameters/822,fiua,how many?
+243-601,chib1270,http://concepticon.clld.org/parameters/531,ficua,how much?
+243-49,chib1270,http://concepticon.clld.org/parameters/1236,ipqua,what?
+243-327,chib1270,http://concepticon.clld.org/parameters/1238,fesua,when?
+243-498,chib1270,http://concepticon.clld.org/parameters/1238,fesnua,when?
+243-570,chib1270,http://concepticon.clld.org/parameters/1237,epquac oa,where?
+243-266,chib1270,http://concepticon.clld.org/parameters/727,besua,which?
+243-485,chib1270,http://concepticon.clld.org/parameters/1235,xieoa,who?
+243-430,chib1270,http://concepticon.clld.org/parameters/1270,ipquan pquaca,why?
+243-683,chib1270,http://concepticon.clld.org/parameters/1363,chyza,voice
+243-488,chib1270,http://concepticon.clld.org/parameters/1261,btysqua,sing
+243-177,chib1270,http://concepticon.clld.org/parameters/715,zquynsuca,"shout, cry out"
+243-664,chib1270,http://concepticon.clld.org/parameters/55,fihizcac zecubunsuca,whisper
+243-198,chib1270,http://concepticon.clld.org/parameters/128,quyhycatac zecubunsuca,mumble
+243-210,chib1270,http://concepticon.clld.org/parameters/1025,zegohozensuca,whistle
+243-557,chib1270,http://concepticon.clld.org/parameters/1623,zcubunsuca,"speak, talk"
+243-70,chib1270,http://concepticon.clld.org/parameters/1866,zepquagansuca,"stutter, stammer"
+243-577,chib1270,http://concepticon.clld.org/parameters/1458,zegusqua,say
+243-577,chib1270,http://concepticon.clld.org/parameters/1711,zegusqua,tell story
+243-10,chib1270,http://concepticon.clld.org/parameters/48,zecubunsucaza,silent (be)
+243-365,chib1270,http://concepticon.clld.org/parameters/1307,cubun,language
+243-365,chib1270,http://concepticon.clld.org/parameters/1599,cubun,word
+243-126,chib1270,http://concepticon.clld.org/parameters/1405,hyca,name
+243-527,chib1270,http://concepticon.clld.org/parameters/1309,bzisqua,"ask (question, inquire)"
+243-412,chib1270,http://concepticon.clld.org/parameters/1275,ai bgasqua,answer
+243-527,chib1270,http://concepticon.clld.org/parameters/1828,bzisqua,"ask, request"
+243-571,chib1270,http://concepticon.clld.org/parameters/83,bcumusuca,forbid
+243-183,chib1270,http://concepticon.clld.org/parameters/299,yc zfihisuagosqua,"rebuke, scold"
+243-85,chib1270,http://concepticon.clld.org/parameters/1084,ahycaz bzisqua,call (=summon)
+243-47,chib1270,http://concepticon.clld.org/parameters/180,ipquauiez ahycac bgasqua,call (=name)
+243-244,chib1270,http://concepticon.clld.org/parameters/1192,apquyquy zebiasqua,threaten
+243-642,chib1270,http://concepticon.clld.org/parameters/1192,achie zbiasqua,threaten
+243-426,chib1270,http://concepticon.clld.org/parameters/1672,bchihisqua,write
+243-457,chib1270,http://concepticon.clld.org/parameters/724,ioquec zecubun-suca,read
+243-409,chib1270,http://concepticon.clld.org/parameters/648,ioque,paper
+243-678,chib1270,http://concepticon.clld.org/parameters/908,cupqua,drum
+243-14,chib1270,http://concepticon.clld.org/parameters/1300,quyca,country
+243-14,chib1270,http://concepticon.clld.org/parameters/930,quyca,village
+243-67,chib1270,http://concepticon.clld.org/parameters/789,muysca,people (populace)
+243-336,chib1270,http://concepticon.clld.org/parameters/301,psihipqua,"chief, chieftain"
+243-229,chib1270,http://concepticon.clld.org/parameters/1296,chune,"staff, walking stick"
+243-678,chib1270,http://concepticon.clld.org/parameters/1032,cupqua,"citizen, subject"
+243-650,chib1270,http://concepticon.clld.org/parameters/383,paba,master
+243-681,chib1270,http://concepticon.clld.org/parameters/255,bosquaca,servant
+243-394,chib1270,http://concepticon.clld.org/parameters/1128,btyusuca,"command, order"
+243-494,chib1270,http://concepticon.clld.org/parameters/1635,choque bquysqua,obey
+243-30,chib1270,http://concepticon.clld.org/parameters/1003,zepquys azasqua,"let, permit"
+243-216,chib1270,http://concepticon.clld.org/parameters/1325,obaz bzis mague,"friend, companion"
+243-144,chib1270,http://concepticon.clld.org/parameters/1358,saba,enemy
+243-124,chib1270,http://concepticon.clld.org/parameters/1332,chiguaque chiyban aguêguê,neighbor
+243-709,chib1270,http://concepticon.clld.org/parameters/791,gueba,stranger
+243-86,chib1270,http://concepticon.clld.org/parameters/1782,nyncha,guest
+243-604,chib1270,http://concepticon.clld.org/parameters/1550,zquyhyc ainsuca,"hinder, prevent"
+243-699,chib1270,http://concepticon.clld.org/parameters/1848,caque,"strife, quarrel"
+243-202,chib1270,http://concepticon.clld.org/parameters/1831,ynchiiansuca,meet
+243-55,chib1270,http://concepticon.clld.org/parameters/1831,ubas chiquynsuca,meet
+243-523,chib1270,http://concepticon.clld.org/parameters/1831,ynaiansuca,meet
+243-504,chib1270,http://concepticon.clld.org/parameters/1610,chihizapquaza,prostitute
+243-653,chib1270,http://concepticon.clld.org/parameters/1423,zecasqua,fight (vb)
+243-144,chib1270,http://concepticon.clld.org/parameters/579,saba,"war, battle"
+243-82,chib1270,http://concepticon.clld.org/parameters/951,quynicaquy,"weapons, arms"
+243-81,chib1270,http://concepticon.clld.org/parameters/1763,tamyxiquy,club
+243-346,chib1270,http://concepticon.clld.org/parameters/994,hacapa,bow
+243-119,chib1270,http://concepticon.clld.org/parameters/977,quyecho,arrow
+243-378,chib1270,http://concepticon.clld.org/parameters/945,supqua,spear
+243-673,chib1270,http://concepticon.clld.org/parameters/421,zansuca,retreat
+243-361,chib1270,http://concepticon.clld.org/parameters/1072,baia,"captive, prisoner"
+243-220,chib1270,http://concepticon.clld.org/parameters/1940,opquabachua,"guard, sentinel"
+243-411,chib1270,http://concepticon.clld.org/parameters/1858,gua magusca,fisherman
+243-472,chib1270,http://concepticon.clld.org/parameters/1074,tyhysua,fishhook
+243-707,chib1270,http://concepticon.clld.org/parameters/388,iaia,fishnet
+243-556,chib1270,http://concepticon.clld.org/parameters/1435,zecugosqua,hunt
+243-341,chib1270,http://concepticon.clld.org/parameters/1172,bgyisuca,shoot
+243-299,chib1270,http://concepticon.clld.org/parameters/1075,cata,trap (noun)
+243-192,chib1270,http://concepticon.clld.org/parameters/1814,zebsipquasuca,accuse
+243-479,chib1270,http://concepticon.clld.org/parameters/1814,zebsipquagosqua,accuse
+243-484,chib1270,http://concepticon.clld.org/parameters/1682,hychan zepquyquy guê,guilty
+243-184,chib1270,http://concepticon.clld.org/parameters/845,bgusqua,murder
+243-98,chib1270,http://concepticon.clld.org/parameters/902,bchisqua,adultery
+243-624,chib1270,http://concepticon.clld.org/parameters/953,achinta bzysqua,rape
+243-442,chib1270,http://concepticon.clld.org/parameters/713,isapqua gosqua,steal
+243-438,chib1270,http://concepticon.clld.org/parameters/1160,ubia,thief
+243-326,chib1270,http://concepticon.clld.org/parameters/257,achie zegusqua,worship
+243-243,chib1270,http://concepticon.clld.org/parameters/257,achie zemnisqua,worship
+243-625,chib1270,http://concepticon.clld.org/parameters/257,achie zebzysqua,worship
+243-509,chib1270,http://concepticon.clld.org/parameters/852,chyquy,priest
+243-555,chib1270,http://concepticon.clld.org/parameters/303,izagosqua,fast (vb)
+243-211,chib1270,http://concepticon.clld.org/parameters/1565,guatquyca,heaven
+243-19,chib1270,http://concepticon.clld.org/parameters/1973,guaha ioque,demon (evil spirit)
+243-351,chib1270,http://concepticon.clld.org/parameters/1945,chunso,idol
+243-514,chib1270,http://concepticon.clld.org/parameters/2137,supquaguyn,"sorcerer, witch"

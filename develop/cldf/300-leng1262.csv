@@ -1,0 +1,1110 @@
+ID,Language_ID,Feature_ID,Value,Concept
+300-33,leng1262,http://concepticon.clld.org/parameters/965,kyi-so-nel-wanmeŋ-kaɬa,world
+300-136,leng1262,http://concepticon.clld.org/parameters/626,ɬapup,"earth, land"
+300-136,leng1262,http://concepticon.clld.org/parameters/1228,ɬapup,"earth=ground, soil"
+300-664,leng1262,http://concepticon.clld.org/parameters/2,ɬapup anik,dust
+300-768,leng1262,http://concepticon.clld.org/parameters/640,yilpa,mud
+300-548,leng1262,http://concepticon.clld.org/parameters/671,yinkamith,sand
+300-595,leng1262,http://concepticon.clld.org/parameters/2118,inkyiɬe,"mountain, hill"
+300-290,leng1262,http://concepticon.clld.org/parameters/652,paihe ɬapup,"plain, field"
+300-756,leng1262,http://concepticon.clld.org/parameters/921,yipwat-iam,valley
+300-241,leng1262,http://concepticon.clld.org/parameters/622,ik-haiam ɬapup,island
+300-490,leng1262,http://concepticon.clld.org/parameters/113,takaɬit yiŋmin,shore
+300-457,leng1262,http://concepticon.clld.org/parameters/948,yiŋmin,water
+300-307,leng1262,http://concepticon.clld.org/parameters/258,-ky-inmant-eyi,calm (of sea)
+300-534,leng1262,http://concepticon.clld.org/parameters/1768,ik-yak-mopaia,foam
+300-463,leng1262,http://concepticon.clld.org/parameters/624,ik-yakyeŋ-waiam,lake
+300-11,leng1262,http://concepticon.clld.org/parameters/623,saŋye,lagoon
+300-87,leng1262,http://concepticon.clld.org/parameters/1662,natakla watsam,"headland, point"
+300-481,leng1262,http://concepticon.clld.org/parameters/978,el-yakya-haiam,wave
+300-597,leng1262,http://concepticon.clld.org/parameters/666,watsam,"river, stream, brook"
+300-279,leng1262,http://concepticon.clld.org/parameters/666,elwata,"river, stream, brook"
+300-314,leng1262,http://concepticon.clld.org/parameters/1982,waiŋkyikmek yiŋmin,whirlpool
+300-211,leng1262,http://concepticon.clld.org/parameters/2144,yamilkyit,"spring, well"
+300-11,leng1262,http://concepticon.clld.org/parameters/1145,saŋye,swamp
+300-538,leng1262,http://concepticon.clld.org/parameters/420,nathma,"woods, forest"
+300-352,leng1262,http://concepticon.clld.org/parameters/906,yamit,tree (cf 08.600)
+300-965,leng1262,http://concepticon.clld.org/parameters/1803,yantesiksik,wood
+300-374,leng1262,http://concepticon.clld.org/parameters/2125,mitaimaŋ,"stone, rock"
+300-42,leng1262,http://concepticon.clld.org/parameters/6,ik-yohe-ka ɬapup,earthquake
+300-359,leng1262,http://concepticon.clld.org/parameters/1732,netin,sky
+300-125,leng1262,http://concepticon.clld.org/parameters/1343,(ik)him,sun
+300-565,leng1262,http://concepticon.clld.org/parameters/1313,piltin,moon
+300-586,leng1262,http://concepticon.clld.org/parameters/1430,ap-yowa,star
+300-317,leng1262,http://concepticon.clld.org/parameters/1654,-ki-lyin-ma,lightning
+300-283,leng1262,http://concepticon.clld.org/parameters/1150,takha,thunder
+300-881,leng1262,http://concepticon.clld.org/parameters/2007,-ki-lyin-mukme,lightning (as striking)
+300-971,leng1262,http://concepticon.clld.org/parameters/858,kaihok anko ithkyiha-iam,storm
+300-750,leng1262,http://concepticon.clld.org/parameters/1733,pimhit,rainbow
+300-967,leng1262,http://concepticon.clld.org/parameters/630,elsiye,light (noun)
+300-86,leng1262,http://concepticon.clld.org/parameters/11,yaktes-ča-mathma,darkness
+300-742,leng1262,http://concepticon.clld.org/parameters/1388,piši-ši,"shade, shadow"
+300-417,leng1262,http://concepticon.clld.org/parameters/1977,yalyi,dew
+300-436,leng1262,http://concepticon.clld.org/parameters/960,ap-yiam,wind
+300-675,leng1262,http://concepticon.clld.org/parameters/960,ithky-aha-iam,wind
+300-489,leng1262,http://concepticon.clld.org/parameters/1489,yiphopaiya,cloud
+300-60,leng1262,http://concepticon.clld.org/parameters/249,tiyam etin,fog
+300-390,leng1262,http://concepticon.clld.org/parameters/658,mameyi,rain (noun)
+300-24,leng1262,http://concepticon.clld.org/parameters/617,yiam apuk,ice
+300-970,leng1262,http://concepticon.clld.org/parameters/221,taɬa,fire
+300-898,leng1262,http://concepticon.clld.org/parameters/889,eya-lew-e,flame (noun)
+300-540,leng1262,http://concepticon.clld.org/parameters/778,etin,smoke (noun)
+300-917,leng1262,http://concepticon.clld.org/parameters/646,tahap,ashes
+300-914,leng1262,http://concepticon.clld.org/parameters/67,atith,embers
+300-760,leng1262,http://concepticon.clld.org/parameters/141,-watn-eyi,burn (vb trans)
+300-275,leng1262,http://concepticon.clld.org/parameters/1428,-mit-kyi,burn (vb intrans)
+300-760,leng1262,http://concepticon.clld.org/parameters/737,-watn-eyi,"light, kindle, ignite"
+300-845,leng1262,http://concepticon.clld.org/parameters/127,-sapon-as-či,extinguish
+300-970,leng1262,http://concepticon.clld.org/parameters/1133,taɬa,match (noun)
+300-432,leng1262,http://concepticon.clld.org/parameters/10,yant-apuk,firewood
+300-914,leng1262,http://concepticon.clld.org/parameters/1188,atith,charcoal
+300-802,leng1262,http://concepticon.clld.org/parameters/683,enɬit,"person, human being"
+300-802,leng1262,http://concepticon.clld.org/parameters/1554,enɬit,man (vs. woman)
+300-47,leng1262,http://concepticon.clld.org/parameters/962,(in)kilana,woman
+300-656,leng1262,http://concepticon.clld.org/parameters/2263,kilnawa,male
+300-866,leng1262,http://concepticon.clld.org/parameters/2260,kilwana,female
+300-277,leng1262,http://concepticon.clld.org/parameters/1366,wukmaak,boy
+300-277,leng1262,http://concepticon.clld.org/parameters/76,wukmaak,young man (adolescent)
+300-687,leng1262,http://concepticon.clld.org/parameters/1646,(in)kilana e-tkuk,girl
+300-687,leng1262,http://concepticon.clld.org/parameters/77,(in)kilana e-tkuk,young woman (adolescent)
+300-712,leng1262,http://concepticon.clld.org/parameters/1304,(in)sakyaa,child
+300-712,leng1262,http://concepticon.clld.org/parameters/1289,(in)sakyaa,"infant, baby"
+300-627,leng1262,http://concepticon.clld.org/parameters/1200,-tawa,husband
+300-627,leng1262,http://concepticon.clld.org/parameters/1199,-tawa,wife
+300-505,leng1262,http://concepticon.clld.org/parameters/203,-ki-lyamhap-kyi,marry
+300-7,leng1262,http://concepticon.clld.org/parameters/1259,se-lyamhap-ma,"marriage, wedding"
+300-692,leng1262,http://concepticon.clld.org/parameters/1134,-yamasma -tawa,divorce
+300-268,leng1262,http://concepticon.clld.org/parameters/1217,-yapam,father
+300-288,leng1262,http://concepticon.clld.org/parameters/1216,inkyin,mother
+300-67,leng1262,http://concepticon.clld.org/parameters/505,-yipmaik,parents
+300-755,leng1262,http://concepticon.clld.org/parameters/424,enɬit ik-ha ap-tawa,married man
+300-684,leng1262,http://concepticon.clld.org/parameters/426,(in)kilana ik-ha a-tawa,married woman
+300-269,leng1262,http://concepticon.clld.org/parameters/1620,apkyi-tkya,son
+300-269,leng1262,http://concepticon.clld.org/parameters/1357,apkyi-tkya,daughter
+300-252,leng1262,http://concepticon.clld.org/parameters/1357,e-tkya,daughter
+300-269,leng1262,http://concepticon.clld.org/parameters/1801,apkyi-tkya,offspring (son or daughter)
+300-602,leng1262,http://concepticon.clld.org/parameters/1759,-yipma,older brother
+300-800,leng1262,http://concepticon.clld.org/parameters/1760,-yaɬiŋ,younger brother
+300-488,leng1262,http://concepticon.clld.org/parameters/1758,-yaɬa,older sister
+300-800,leng1262,http://concepticon.clld.org/parameters/1761,-yaɬiŋ,younger sister
+300-110,leng1262,http://concepticon.clld.org/parameters/1005,-tetekyak,twins
+300-37,leng1262,http://concepticon.clld.org/parameters/1383,-yata,grandfather
+300-113,leng1262,http://concepticon.clld.org/parameters/406,kil-ap-apaiyi,old man
+300-515,leng1262,http://concepticon.clld.org/parameters/1496,-yama,grandmother
+300-45,leng1262,http://concepticon.clld.org/parameters/907,kil-apaiyi,old woman
+300-594,leng1262,http://concepticon.clld.org/parameters/1618,-tawin,grandson
+300-594,leng1262,http://concepticon.clld.org/parameters/1619,-tawin,granddaughter
+300-948,leng1262,http://concepticon.clld.org/parameters/1984,-yapka,mother's brother
+300-773,leng1262,http://concepticon.clld.org/parameters/1985,-yaha,father's brother
+300-545,leng1262,http://concepticon.clld.org/parameters/171,moinkyin,mother's sister
+300-668,leng1262,http://concepticon.clld.org/parameters/170,-kyatim,father's sister
+300-784,leng1262,http://concepticon.clld.org/parameters/1063,-kyitkyi,nephew
+300-800,leng1262,http://concepticon.clld.org/parameters/1643,-yaɬiŋ,cousin
+300-487,leng1262,http://concepticon.clld.org/parameters/1669,-yeheŋkyaa,ancestors
+300-197,leng1262,http://concepticon.clld.org/parameters/490,-towana n-tamin,descendants
+300-831,leng1262,http://concepticon.clld.org/parameters/2255,-ip-yata,father-in-law (of a man)
+300-831,leng1262,http://concepticon.clld.org/parameters/2254,-ip-yata,father-in-law (of a woman)
+300-280,leng1262,http://concepticon.clld.org/parameters/2256,-ip-yamum,mother-in-law (of a man)
+300-280,leng1262,http://concepticon.clld.org/parameters/2257,-ip-yamum,mother-in-law (of a woman)
+300-408,leng1262,http://concepticon.clld.org/parameters/2267,-ip-haiyim,son-in-law (of a man)
+300-408,leng1262,http://concepticon.clld.org/parameters/2266,-ip-haiyim,son-in-law (of a woman)
+300-831,leng1262,http://concepticon.clld.org/parameters/2265,-ip-yata,daughter-in-law (of a man)
+300-280,leng1262,http://concepticon.clld.org/parameters/2264,-ip-yamum,daughter-in-law (of a woman)
+300-872,leng1262,http://concepticon.clld.org/parameters/237,yam-(poss.)-yapam,stepfather
+300-945,leng1262,http://concepticon.clld.org/parameters/236,yam-(poss.)-inkyin,stepmother
+300-619,leng1262,http://concepticon.clld.org/parameters/1059,yam-(poss.)-kyitkyi,stepson
+300-619,leng1262,http://concepticon.clld.org/parameters/1058,yam-(poss.)-kyitkyi,stepdaughter
+300-653,leng1262,http://concepticon.clld.org/parameters/1149,h-(poss.)-kuk,orphan
+300-149,leng1262,http://concepticon.clld.org/parameters/1756,ɬintampe,widow
+300-149,leng1262,http://concepticon.clld.org/parameters/1981,ɬintampe,widower
+300-693,leng1262,http://concepticon.clld.org/parameters/1644,-namokkuk,"relatives, kinsmen"
+300-754,leng1262,http://concepticon.clld.org/parameters/194,aŋ-yithpanma,family
+300-388,leng1262,http://concepticon.clld.org/parameters/1209,koo,I
+300-512,leng1262,http://concepticon.clld.org/parameters/1215,ɬiyi-p,you (singular)
+300-109,leng1262,http://concepticon.clld.org/parameters/1215,ɬiyi,you (singular)
+300-61,leng1262,http://concepticon.clld.org/parameters/1212,(in)niŋ-koo,we
+300-18,leng1262,http://concepticon.clld.org/parameters/1213,kyelɬiŋkyi-p,you (plural)
+300-958,leng1262,http://concepticon.clld.org/parameters/619,aksak nohak,animal
+300-159,leng1262,http://concepticon.clld.org/parameters/2261,kilnowu,male (adj)
+300-866,leng1262,http://concepticon.clld.org/parameters/2262,kilwana,female (adj)
+300-57,leng1262,http://concepticon.clld.org/parameters/631,nin-nak-tošama,livestock
+300-237,leng1262,http://concepticon.clld.org/parameters/649,paat,pasture
+300-839,leng1262,http://concepticon.clld.org/parameters/263,takmil-čis-čama nipkyesik,herdsman
+300-132,leng1262,http://concepticon.clld.org/parameters/851,yatnaɬiŋ-ap-ɬankuk,"stable, stall"
+300-446,leng1262,http://concepticon.clld.org/parameters/1153,[waikyi],cattle (bovine)
+300-201,leng1262,http://concepticon.clld.org/parameters/1008,[waikyi] kilnowu,bull
+300-320,leng1262,http://concepticon.clld.org/parameters/1169,[waikyi] yan-kilwana,ox
+300-446,leng1262,http://concepticon.clld.org/parameters/1007,[waikyi],cow
+300-843,leng1262,http://concepticon.clld.org/parameters/1989,[waikyi] e-tkuk,calf
+300-587,leng1262,http://concepticon.clld.org/parameters/1331,nipkyesik,sheep
+300-52,leng1262,http://concepticon.clld.org/parameters/1344,nipkyesik ap-kilnowu,ram
+300-510,leng1262,http://concepticon.clld.org/parameters/1345,nipkyesik ap-kilwana,ewe
+300-146,leng1262,http://concepticon.clld.org/parameters/820,nipkyesik apkyi-tkuk,lamb
+300-566,leng1262,http://concepticon.clld.org/parameters/1348,yata-pomap ap-kilnowu,boar
+300-185,leng1262,http://concepticon.clld.org/parameters/1351,yata-pomap ap-kilwana,sow (2)
+300-705,leng1262,http://concepticon.clld.org/parameters/1337,yata-pomap,pig
+300-841,leng1262,http://concepticon.clld.org/parameters/1502,yatai,goat
+300-12,leng1262,http://concepticon.clld.org/parameters/264,yatai ap-kilnowu,he-goat
+300-525,leng1262,http://concepticon.clld.org/parameters/1972,yatai ap-kyi-tkuk,kid
+300-350,leng1262,http://concepticon.clld.org/parameters/615,yatnaɬiŋ,horse (equine)
+300-114,leng1262,http://concepticon.clld.org/parameters/936,yatnaɬiŋ-ap-kilnowu,stallion
+300-166,leng1262,http://concepticon.clld.org/parameters/938,yatnaɬiŋ ap-kilwana,mare
+300-888,leng1262,http://concepticon.clld.org/parameters/1647,yatnaɬiŋ ap-kyi-tkuk,"foal, colt"
+300-740,leng1262,http://concepticon.clld.org/parameters/1862,yam-el-yowa-haikuk,"ass, donkey"
+300-141,leng1262,http://concepticon.clld.org/parameters/890,el-yowa-haikuk,mule
+300-381,leng1262,http://concepticon.clld.org/parameters/265,tataa,fowl
+300-472,leng1262,http://concepticon.clld.org/parameters/1511,tataa kilnowu,"cock, rooster"
+300-381,leng1262,http://concepticon.clld.org/parameters/1514,tataa,hen
+300-725,leng1262,http://concepticon.clld.org/parameters/1318,tataa e-tkuk,chicken
+300-74,leng1262,http://concepticon.clld.org/parameters/1187,yam-mittiktiŋ,goose
+300-323,leng1262,http://concepticon.clld.org/parameters/1360,mittiktiŋ,duck
+300-83,leng1262,http://concepticon.clld.org/parameters/539,nata a-ɬankuk,nest
+300-758,leng1262,http://concepticon.clld.org/parameters/937,nata,bird
+300-255,leng1262,http://concepticon.clld.org/parameters/758,pana,heron
+300-638,leng1262,http://concepticon.clld.org/parameters/1905,nata ik-paisiam,eagle
+300-65,leng1262,http://concepticon.clld.org/parameters/307,me'wa,hawk
+300-396,leng1262,http://concepticon.clld.org/parameters/1185,mama,vulture
+300-362,leng1262,http://concepticon.clld.org/parameters/1793,mepop,bat
+300-218,leng1262,http://concepticon.clld.org/parameters/882,taawe,parrot
+300-731,leng1262,http://concepticon.clld.org/parameters/913,kala,crow
+300-384,leng1262,http://concepticon.clld.org/parameters/1853,koniŋmaktik,dove
+300-546,leng1262,http://concepticon.clld.org/parameters/735,sowaiyi,owl
+300-851,leng1262,http://concepticon.clld.org/parameters/2009,simhiŋ,dog
+300-877,leng1262,http://concepticon.clld.org/parameters/1136,tomhaŋ,rabbit
+300-813,leng1262,http://concepticon.clld.org/parameters/1208,kames,cat
+300-157,leng1262,http://concepticon.clld.org/parameters/309,pokwe,opossum
+300-766,leng1262,http://concepticon.clld.org/parameters/2139,pomoo,"mouse, rat"
+300-116,leng1262,http://concepticon.clld.org/parameters/227,kilasma,fish
+300-467,leng1262,http://concepticon.clld.org/parameters/213,awa,fin (dorsal)
+300-370,leng1262,http://concepticon.clld.org/parameters/266,impehik,fishscale
+300-738,leng1262,http://concepticon.clld.org/parameters/598,-ɬankuk,shell
+300-606,leng1262,http://concepticon.clld.org/parameters/1013,lolay,freshwater eel
+300-246,leng1262,http://concepticon.clld.org/parameters/522,wawu,wolf
+300-108,leng1262,http://concepticon.clld.org/parameters/1386,mewa,lion
+300-778,leng1262,http://concepticon.clld.org/parameters/1312,yinmaliŋ,fox
+300-209,leng1262,http://concepticon.clld.org/parameters/1936,popyit,deer
+300-699,leng1262,http://concepticon.clld.org/parameters/1350,kilyiniet,monkey
+300-2,leng1262,http://concepticon.clld.org/parameters/620,askuk,insect
+300-923,leng1262,http://concepticon.clld.org/parameters/310,petim,louse
+300-667,leng1262,http://concepticon.clld.org/parameters/267,petim apuk,nit (louse egg)
+300-360,leng1262,http://concepticon.clld.org/parameters/232,maliŋ askuk,flea
+300-631,leng1262,http://concepticon.clld.org/parameters/1974,ɬamok-mek,centipede
+300-461,leng1262,http://concepticon.clld.org/parameters/1538,yittaha,scorpion
+300-769,leng1262,http://concepticon.clld.org/parameters/1575,pikma,cockroach
+300-859,leng1262,http://concepticon.clld.org/parameters/587,topili,ant
+300-173,leng1262,http://concepticon.clld.org/parameters/843,yowaikyi,spider
+300-762,leng1262,http://concepticon.clld.org/parameters/1065,yowaikyi ɬankuk,spider web
+300-875,leng1262,http://concepticon.clld.org/parameters/665,yohena,bee
+300-954,leng1262,http://concepticon.clld.org/parameters/1931,papa,beeswax
+300-295,leng1262,http://concepticon.clld.org/parameters/88,yam-yohena a-ɬankuk,beehive
+300-266,leng1262,http://concepticon.clld.org/parameters/1517,kinawit,wasp
+300-312,leng1262,http://concepticon.clld.org/parameters/1517,maha,wasp
+300-903,leng1262,http://concepticon.clld.org/parameters/1504,yapa,fly
+300-327,leng1262,http://concepticon.clld.org/parameters/95,yinsinsik,"sandfly (midge), gnat"
+300-366,leng1262,http://concepticon.clld.org/parameters/1509,paiyi,mosquito
+300-406,leng1262,http://concepticon.clld.org/parameters/1219,koniŋmaktik apto,worm
+300-475,leng1262,http://concepticon.clld.org/parameters/730,yewa,snake
+300-151,leng1262,http://concepticon.clld.org/parameters/206,tenakyak,firefly
+300-771,leng1262,http://concepticon.clld.org/parameters/1791,se-lik-lik,butterfly
+300-491,leng1262,http://concepticon.clld.org/parameters/607,sowa,grasshopper
+300-376,leng1262,http://concepticon.clld.org/parameters/1543,akpoŋ,snail
+300-647,leng1262,http://concepticon.clld.org/parameters/503,napniktiŋ,frog
+300-468,leng1262,http://concepticon.clld.org/parameters/632,sittaha,lizard
+300-230,leng1262,http://concepticon.clld.org/parameters/1857,yateyim,"crocodile, alligator"
+300-787,leng1262,http://concepticon.clld.org/parameters/112,yatnata,turtle
+300-690,leng1262,http://concepticon.clld.org/parameters/1480,-yokɬoho,body
+300-650,leng1262,http://concepticon.clld.org/parameters/763,-empehik,"skin, hide"
+300-448,leng1262,http://concepticon.clld.org/parameters/2259,-apitik,flesh
+300-592,leng1262,http://concepticon.clld.org/parameters/1040,-wa,hair (head)
+300-30,leng1262,http://concepticon.clld.org/parameters/678,iŋ-wa iŋ-atoŋ,beard
+300-592,leng1262,http://concepticon.clld.org/parameters/189,-wa,body hair
+300-592,leng1262,http://concepticon.clld.org/parameters/36,-wa,pubic hair
+300-533,leng1262,http://concepticon.clld.org/parameters/576,athčamuk -patik,dandruff
+300-523,leng1262,http://concepticon.clld.org/parameters/946,ema,blood
+300-630,leng1262,http://concepticon.clld.org/parameters/525,-hahak,"vein, artery"
+300-709,leng1262,http://concepticon.clld.org/parameters/1394,-ithčipuk,bone
+300-239,leng1262,http://concepticon.clld.org/parameters/801,-hak,rib
+300-636,leng1262,http://concepticon.clld.org/parameters/1393,-kyipitik,horn
+300-713,leng1262,http://concepticon.clld.org/parameters/1220,epakyik,tail
+300-556,leng1262,http://concepticon.clld.org/parameters/1291,-akpuk,back
+300-422,leng1262,http://concepticon.clld.org/parameters/805,-akpuk ithčipuk,spine
+300-499,leng1262,http://concepticon.clld.org/parameters/1256,-patik,head
+300-651,leng1262,http://concepticon.clld.org/parameters/1605,-patik ithčipuk,skull
+300-814,leng1262,http://concepticon.clld.org/parameters/1583,-apaŋkuk,brain
+300-706,leng1262,http://concepticon.clld.org/parameters/1560,n-(poss.)-at,face
+300-421,leng1262,http://concepticon.clld.org/parameters/123,paih-akɬa n-(poss.)-at,forehead
+300-513,leng1262,http://concepticon.clld.org/parameters/798,maɬimpinik ithčipuk,jaw
+300-229,leng1262,http://concepticon.clld.org/parameters/1730,maɬimpinik,cheek
+300-601,leng1262,http://concepticon.clld.org/parameters/1510,koniŋ -atoŋ,chin
+300-435,leng1262,http://concepticon.clld.org/parameters/1248,-aktik,eye
+300-864,leng1262,http://concepticon.clld.org/parameters/1173,-tik-wa-han,eyebrow
+300-886,leng1262,http://concepticon.clld.org/parameters/17,-aktik impehik,eyelid
+300-235,leng1262,http://concepticon.clld.org/parameters/1540,a-wa -aktik,eyelash
+300-535,leng1262,http://concepticon.clld.org/parameters/1655,-ki-litsapa,blink
+300-695,leng1262,http://concepticon.clld.org/parameters/1247,-haikuk,ear
+300-954,leng1262,http://concepticon.clld.org/parameters/32,papa,earwax
+300-645,leng1262,http://concepticon.clld.org/parameters/1221,-waihik,nose
+300-213,leng1262,http://concepticon.clld.org/parameters/1178,nikha -waihik,nostril
+300-674,leng1262,http://concepticon.clld.org/parameters/208,yithwala,mucus (nasal)
+300-724,leng1262,http://concepticon.clld.org/parameters/674,-atoŋ,mouth
+300-553,leng1262,http://concepticon.clld.org/parameters/73,-maak,beak
+300-163,leng1262,http://concepticon.clld.org/parameters/478,-atoŋ impehik,lip
+300-697,leng1262,http://concepticon.clld.org/parameters/1205,-athkuk,tongue
+300-553,leng1262,http://concepticon.clld.org/parameters/1380,-maak,tooth
+300-549,leng1262,http://concepticon.clld.org/parameters/139,ahok -maak,gums
+300-553,leng1262,http://concepticon.clld.org/parameters/1049,-maak,molartooth
+300-105,leng1262,http://concepticon.clld.org/parameters/1333,-yispuk,neck
+300-478,leng1262,http://concepticon.clld.org/parameters/1347,n-(poss.)-nyetik,nape of neck
+300-957,leng1262,http://concepticon.clld.org/parameters/1346,-naksapmakɬa,throat
+300-196,leng1262,http://concepticon.clld.org/parameters/1482,n-(poss.)-ltana,shoulder
+300-541,leng1262,http://concepticon.clld.org/parameters/172,-pittik,shoulderblade
+300-531,leng1262,http://concepticon.clld.org/parameters/1994,pithpath -ankuk,collarbone
+300-798,leng1262,http://concepticon.clld.org/parameters/1673,-ektoŋ,arm
+300-937,leng1262,http://concepticon.clld.org/parameters/1886,-kanyama,armpit
+300-101,leng1262,http://concepticon.clld.org/parameters/981,-piŋkittik,elbow
+300-966,leng1262,http://concepticon.clld.org/parameters/799,-mik,wrist
+300-966,leng1262,http://concepticon.clld.org/parameters/1277,-mik,hand
+300-284,leng1262,http://concepticon.clld.org/parameters/1183,nokathwa -mik,palm of hand
+300-863,leng1262,http://concepticon.clld.org/parameters/1303,-aphehik,finger
+300-404,leng1262,http://concepticon.clld.org/parameters/1781,yaiikɬa -aphehik,thumb
+300-223,leng1262,http://concepticon.clld.org/parameters/1258,ik-mopaia -aphehik,fingernail
+300-863,leng1262,http://concepticon.clld.org/parameters/72,-aphehik,claw
+300-709,leng1262,http://concepticon.clld.org/parameters/1297,-ithčipuk,leg
+300-147,leng1262,http://concepticon.clld.org/parameters/800,-yowuk,thigh
+300-198,leng1262,http://concepticon.clld.org/parameters/498,-ithčipuk apitik,calf of leg
+300-335,leng1262,http://concepticon.clld.org/parameters/1371,-tapnik,knee
+300-580,leng1262,http://concepticon.clld.org/parameters/1301,-minik,foot
+300-703,leng1262,http://concepticon.clld.org/parameters/803,ik-yitetakla -minik,ankle
+300-162,leng1262,http://concepticon.clld.org/parameters/980,-pahak,heel
+300-786,leng1262,http://concepticon.clld.org/parameters/318,-tamnik,footprint
+300-863,leng1262,http://concepticon.clld.org/parameters/1389,-aphehik,toe
+300-215,leng1262,http://concepticon.clld.org/parameters/1257,ɬimpinik,wing
+300-592,leng1262,http://concepticon.clld.org/parameters/1201,-wa,feather
+300-622,leng1262,http://concepticon.clld.org/parameters/1592,-kyinyik,chest
+300-607,leng1262,http://concepticon.clld.org/parameters/1402,nime,breast (of woman)
+300-607,leng1262,http://concepticon.clld.org/parameters/796,nime,"nipple, teat"
+300-492,leng1262,http://concepticon.clld.org/parameters/154,nam-ankuk,udder
+300-617,leng1262,http://concepticon.clld.org/parameters/1838,-tathna,navel
+300-251,leng1262,http://concepticon.clld.org/parameters/1223,wanneya,heart
+300-560,leng1262,http://concepticon.clld.org/parameters/688,kohoy,lung
+300-676,leng1262,http://concepticon.clld.org/parameters/1224,-hik-hik,liver
+300-518,leng1262,http://concepticon.clld.org/parameters/489,elyakye ankuk,kidney
+300-930,leng1262,http://concepticon.clld.org/parameters/1744,simhiŋ athkuk,spleen
+300-434,leng1262,http://concepticon.clld.org/parameters/819,-wukmo,stomach
+300-431,leng1262,http://concepticon.clld.org/parameters/1991,nokathwa,"intestines, guts"
+300-537,leng1262,http://concepticon.clld.org/parameters/1681,n-(poss.)-ɬit,waist
+300-294,leng1262,http://concepticon.clld.org/parameters/1745,auhak -yo,hip
+300-734,leng1262,http://concepticon.clld.org/parameters/834,-takla,buttocks
+300-853,leng1262,http://concepticon.clld.org/parameters/804,-tathnak,womb
+300-153,leng1262,http://concepticon.clld.org/parameters/797,-pupuk,testicle
+300-799,leng1262,http://concepticon.clld.org/parameters/1222,-tiɬa,penis
+300-392,leng1262,http://concepticon.clld.org/parameters/1407,-ky-inn-ama,"breathe, breath"
+300-815,leng1262,http://concepticon.clld.org/parameters/1028,-maih-eha,"yawn, gape"
+300-816,leng1262,http://concepticon.clld.org/parameters/162,-yap-es-či,hiccough
+300-168,leng1262,http://concepticon.clld.org/parameters/879,-ky-itnakɬ-eyi,cough
+300-707,leng1262,http://concepticon.clld.org/parameters/1621,-ky-itha-iyi,sneeze
+300-273,leng1262,http://concepticon.clld.org/parameters/126,-yimis,perspire
+300-389,leng1262,http://concepticon.clld.org/parameters/1440,-ki-lpats-eyi -yimanaŋ,spit
+300-943,leng1262,http://concepticon.clld.org/parameters/1278,-yikɬ-eyi,vomit
+300-897,leng1262,http://concepticon.clld.org/parameters/1403,-takɬ-eyi,bite
+300-883,leng1262,http://concepticon.clld.org/parameters/319,-ki-l-yakmil-kyi,lick
+300-430,leng1262,http://concepticon.clld.org/parameters/268,tipkyi -yimanaŋ,dribble
+300-476,leng1262,http://concepticon.clld.org/parameters/1585,-tin-kyi,sleep
+300-561,leng1262,http://concepticon.clld.org/parameters/1983,-yithwanka-iyi,snore
+300-662,leng1262,http://concepticon.clld.org/parameters/1920,-witaiyi -wanmaŋ-kama,dream
+300-891,leng1262,http://concepticon.clld.org/parameters/1602,-ɬataka-iyi,wake up
+300-698,leng1262,http://concepticon.clld.org/parameters/1159,-ɬenčik -takla,break wind
+300-4,leng1262,http://concepticon.clld.org/parameters/592,-yisw-eyi,urinate
+300-818,leng1262,http://concepticon.clld.org/parameters/676,-yakn-eyi,defecate
+300-107,leng1262,http://concepticon.clld.org/parameters/1785,-minso-kyi,have sexual intercourse
+300-776,leng1262,http://concepticon.clld.org/parameters/52,-pithyiniŋ-kyi,shiver
+300-240,leng1262,http://concepticon.clld.org/parameters/138,-yakp-as-či yiŋmin,bathe
+300-772,leng1262,http://concepticon.clld.org/parameters/1152,-times-čis-či loso,beget (of father)
+300-641,leng1262,http://concepticon.clld.org/parameters/1090,-tiy-ikme,born (to be)
+300-337,leng1262,http://concepticon.clld.org/parameters/1123,-loso,pregnant
+300-591,leng1262,http://concepticon.clld.org/parameters/1087,-time loso,conceive
+300-767,leng1262,http://concepticon.clld.org/parameters/1422,yinnakte -neŋyak,"live, living, life"
+300-748,leng1262,http://concepticon.clld.org/parameters/1494,-kyitsip-kyi,"die, dead"
+300-840,leng1262,http://concepticon.clld.org/parameters/1904,yiŋmin in-ky-akh-ak,drowned
+300-158,leng1262,http://concepticon.clld.org/parameters/1417,-ky-akha-iyi,kill
+300-928,leng1262,http://concepticon.clld.org/parameters/767,-apak,corpse
+300-265,leng1262,http://concepticon.clld.org/parameters/1719,-ky-e-towan-yi,bury (the dead)
+300-934,leng1262,http://concepticon.clld.org/parameters/1773,takhathpup,"grave, tomb"
+300-453,leng1262,http://concepticon.clld.org/parameters/785,-mehe,"strong, mighty, powerful"
+300-161,leng1262,http://concepticon.clld.org/parameters/1601,meko -yinnakte,weak
+300-946,leng1262,http://concepticon.clld.org/parameters/1364,kaihe -empehik,"well, health"
+300-775,leng1262,http://concepticon.clld.org/parameters/1847,-haɬe-thči,"sick, sickness"
+300-780,leng1262,http://concepticon.clld.org/parameters/1534,atehe -empehik,fever
+300-669,leng1262,http://concepticon.clld.org/parameters/1957,yiphe -yispuk,goiter
+300-600,leng1262,http://concepticon.clld.org/parameters/102,neknak-ɬama,cold (catarrh)
+300-401,leng1262,http://concepticon.clld.org/parameters/1109,-yinse,"wound, sore"
+300-847,leng1262,http://concepticon.clld.org/parameters/1148,yitneyik ema,bruise
+300-844,leng1262,http://concepticon.clld.org/parameters/1903,-yiphe,swelling
+300-794,leng1262,http://concepticon.clld.org/parameters/148,-oseka-iyi,itch
+300-616,leng1262,http://concepticon.clld.org/parameters/1584,kiltapahanaiyi,blister
+300-844,leng1262,http://concepticon.clld.org/parameters/793,-yiphe,boil (noun)
+300-719,leng1262,http://concepticon.clld.org/parameters/1808,kyawin,pus
+300-711,leng1262,http://concepticon.clld.org/parameters/497,nanok -yinse,scar
+300-397,leng1262,http://concepticon.clld.org/parameters/499,-takmil-čis-čikme,"cure, heal"
+300-579,leng1262,http://concepticon.clld.org/parameters/597,panakte iŋ-yapam,physician
+300-459,leng1262,http://concepticon.clld.org/parameters/1372,panakte,"medicine, drug"
+300-470,leng1262,http://concepticon.clld.org/parameters/655,panakte siŋ-waiya,poison
+300-347,leng1262,http://concepticon.clld.org/parameters/1757,-yampa-iyi,"tired, weary"
+300-336,leng1262,http://concepticon.clld.org/parameters/168,-ki-lok-as-či -yampa-ia,rest
+300-160,leng1262,http://concepticon.clld.org/parameters/1125,mekyi -wa,bald
+300-333,leng1262,http://concepticon.clld.org/parameters/320,-yaktiy-aha,lame
+300-170,leng1262,http://concepticon.clld.org/parameters/996,m-(poss.)-lnya-ithma,deaf
+300-963,leng1262,http://concepticon.clld.org/parameters/1666,mekyi -paiwa,mute
+300-849,leng1262,http://concepticon.clld.org/parameters/1653,m-(poss.)-ta-ithma,blind
+300-529,leng1262,http://concepticon.clld.org/parameters/1463,anmin in-ky-akh-ak,intoxicated
+300-100,leng1262,http://concepticon.clld.org/parameters/590,mekyi apawa,"naked, bare"
+300-175,leng1262,http://concepticon.clld.org/parameters/1336,-to-kyi,eat
+300-598,leng1262,http://concepticon.clld.org/parameters/256,nin-to,food
+300-188,leng1262,http://concepticon.clld.org/parameters/269,makhit-čis-či,cooked
+300-326,leng1262,http://concepticon.clld.org/parameters/1959,-witik,raw
+300-744,leng1262,http://concepticon.clld.org/parameters/178,-makhit-kyi,ripe
+300-391,leng1262,http://concepticon.clld.org/parameters/1958,lapam-ko,"green, unripe"
+300-44,leng1262,http://concepticon.clld.org/parameters/1728,-tahap-kyi,rotten
+300-214,leng1262,http://concepticon.clld.org/parameters/1401,-yin-či,drink
+300-274,leng1262,http://concepticon.clld.org/parameters/1533,maik,hunger
+300-379,leng1262,http://concepticon.clld.org/parameters/199,maik e-lnap-ma,famine
+300-238,leng1262,http://concepticon.clld.org/parameters/848,him se-lnap-ma,thirst
+300-441,leng1262,http://concepticon.clld.org/parameters/1421,-petsis-či,suck
+300-285,leng1262,http://concepticon.clld.org/parameters/321,-ky-insakka-iyi,chew
+300-906,leng1262,http://concepticon.clld.org/parameters/897,-naksip-kyi,swallow
+300-763,leng1262,http://concepticon.clld.org/parameters/129,-kyip-wukme,choke
+300-495,leng1262,http://concepticon.clld.org/parameters/1100,-han-či,cook
+300-53,leng1262,http://concepticon.clld.org/parameters/792,-meɬiŋ-kis-či,boil (vb)
+300-889,leng1262,http://concepticon.clld.org/parameters/2146,-yithnyek-me,"roast, fry"
+300-375,leng1262,http://concepticon.clld.org/parameters/183,-timek na-maɬik,bake
+300-181,leng1262,http://concepticon.clld.org/parameters/1143,maɬik,oven
+300-904,leng1262,http://concepticon.clld.org/parameters/1462,soŋwaiŋ-kyi,"pot, cooking vessel"
+300-36,leng1262,http://concepticon.clld.org/parameters/854,meɬiŋ-kis-čama yiŋmin,kettle
+300-904,leng1262,http://concepticon.clld.org/parameters/31,soŋwaiŋ-kyi,pan
+300-590,leng1262,http://concepticon.clld.org/parameters/481,aksak paihe,dish
+300-590,leng1262,http://concepticon.clld.org/parameters/480,aksak paihe,plate
+300-797,leng1262,http://concepticon.clld.org/parameters/1530,hopuku,bowl
+300-806,leng1262,http://concepticon.clld.org/parameters/270,iŋhaikuk,"pitcher, jug"
+300-806,leng1262,http://concepticon.clld.org/parameters/476,iŋhaikuk,"cup, drinking vessel"
+300-918,leng1262,http://concepticon.clld.org/parameters/271,aksak paihe e-tkuk,saucer
+300-516,leng1262,http://concepticon.clld.org/parameters/1378,ikwepto,spoon
+300-485,leng1262,http://concepticon.clld.org/parameters/1352,sowu,knife (2)
+300-126,leng1262,http://concepticon.clld.org/parameters/1302,ki-lyikɬak-ɬama nin-to,fork (2)
+300-962,leng1262,http://concepticon.clld.org/parameters/272,tath-čis-čama,tongs
+300-598,leng1262,http://concepticon.clld.org/parameters/1526,nin-to,meal (a)
+300-678,leng1262,http://concepticon.clld.org/parameters/1322,nin-to athtoo,breakfast
+300-92,leng1262,http://concepticon.clld.org/parameters/768,nin-to iŋ-yitsikso ikhim,lunch
+300-598,leng1262,http://concepticon.clld.org/parameters/1833,nin-to,dinner
+300-195,leng1262,http://concepticon.clld.org/parameters/1833,nin-to tathnam,supper
+300-300,leng1262,http://concepticon.clld.org/parameters/275,-li-kyi impehik,peel
+300-21,leng1262,http://concepticon.clld.org/parameters/86,-ki-liktiŋithn-eyi,"sieve, strain"
+300-387,leng1262,http://concepticon.clld.org/parameters/1767,-ki-lkyit-kas-či,scrape
+300-860,leng1262,http://concepticon.clld.org/parameters/2017,-pathnak-yi,"stir, mix"
+300-969,leng1262,http://concepticon.clld.org/parameters/1368,yam-kyel-pasmaŋ-a,bread
+300-672,leng1262,http://concepticon.clld.org/parameters/273,kyel-pasmaŋ-a ap-witik,dough
+300-613,leng1262,http://concepticon.clld.org/parameters/274,-pasmaŋ-kyi,knead
+300-793,leng1262,http://concepticon.clld.org/parameters/1594,ho-tahap,"meal, flour"
+300-217,leng1262,http://concepticon.clld.org/parameters/1033,-tikɬik-yi,"crush, grind"
+300-219,leng1262,http://concepticon.clld.org/parameters/636,-tikɬik-ɬama,mill
+300-63,leng1262,http://concepticon.clld.org/parameters/224,memoŋ athwa,mortar (2)
+300-219,leng1262,http://concepticon.clld.org/parameters/225,-tikɬik-ɬama,pestle
+300-880,leng1262,http://concepticon.clld.org/parameters/634,apitik,meat
+300-383,leng1262,http://concepticon.clld.org/parameters/1547,iŋminata,"soup, broth"
+300-975,leng1262,http://concepticon.clld.org/parameters/832,kilaikyi,bean
+300-691,leng1262,http://concepticon.clld.org/parameters/593,yam-piheyi,potato
+300-138,leng1262,http://concepticon.clld.org/parameters/1507,ik-yithna,fruit
+300-73,leng1262,http://concepticon.clld.org/parameters/191,mokwa,nut
+300-514,leng1262,http://concepticon.clld.org/parameters/1484,pithmuk iŋminik,oil
+300-221,leng1262,http://concepticon.clld.org/parameters/323,pithmuk,"grease, fat"
+300-714,leng1262,http://concepticon.clld.org/parameters/1274,yasik,salt
+300-462,leng1262,http://concepticon.clld.org/parameters/1385,yam-natikhik,pepper
+300-629,leng1262,http://concepticon.clld.org/parameters/942,yam-yohena,honey
+300-393,leng1262,http://concepticon.clld.org/parameters/862,yam-paat iŋminik,sugar
+300-372,leng1262,http://concepticon.clld.org/parameters/635,[waikyi] namankuk iŋminik,milk (noun)
+300-410,leng1262,http://concepticon.clld.org/parameters/93,-ki-lyakhap-kyi namankuk [waikyi],milk (vb)
+300-329,leng1262,http://concepticon.clld.org/parameters/731,niŋ-ya,"beverage, drink"
+300-270,leng1262,http://concepticon.clld.org/parameters/1524,yam-anmin,wine
+300-270,leng1262,http://concepticon.clld.org/parameters/1639,yam-anmin,beer
+300-39,leng1262,http://concepticon.clld.org/parameters/404,anmin,fermented drink
+300-426,leng1262,http://concepticon.clld.org/parameters/744,-apuk,egg
+300-517,leng1262,http://concepticon.clld.org/parameters/1556,tataa-puk ik-yatiktama,egg yolk
+300-689,leng1262,http://concepticon.clld.org/parameters/158,-tathn-eyi,put on (clothes)
+300-140,leng1262,http://concepticon.clld.org/parameters/1895,apawa,"clothing, clothes"
+300-140,leng1262,http://concepticon.clld.org/parameters/1616,apawa,cloth
+300-420,leng1262,http://concepticon.clld.org/parameters/964,nipkyesik ap-wa,wool
+300-338,leng1262,http://concepticon.clld.org/parameters/1850,yatepepe,cotton
+300-439,leng1262,http://concepticon.clld.org/parameters/580,-a-wa,fur
+300-550,leng1262,http://concepticon.clld.org/parameters/629,akso empehik,leather
+300-885,leng1262,http://concepticon.clld.org/parameters/121,-nithpoŋ-kyi,spin
+300-890,leng1262,http://concepticon.clld.org/parameters/277,nithpoŋ-a,spindle
+300-854,leng1262,http://concepticon.clld.org/parameters/133,-ki-lanaiyi apawa,weave
+300-500,leng1262,http://concepticon.clld.org/parameters/1787,apawa elanaiyi,loom
+300-398,leng1262,http://concepticon.clld.org/parameters/1457,-yitnak-yi,sew
+300-296,leng1262,http://concepticon.clld.org/parameters/1382,sokyi-tama,needle
+300-912,leng1262,http://concepticon.clld.org/parameters/278,yaŋkathkat-ma,awl
+300-865,leng1262,http://concepticon.clld.org/parameters/1161,tama,thread
+300-479,leng1262,http://concepticon.clld.org/parameters/157,-yakmaŋk-as-či iktaɬama,dye
+300-501,leng1262,http://concepticon.clld.org/parameters/326,niŋ-aklama-thči,cloak
+300-501,leng1262,http://concepticon.clld.org/parameters/327,niŋ-aklama-thči,poncho
+300-874,leng1262,http://concepticon.clld.org/parameters/474,inkilana ik-tathnama,woman's dress
+300-919,leng1262,http://concepticon.clld.org/parameters/603,-pehes-čiam netin,coat
+300-373,leng1262,http://concepticon.clld.org/parameters/1622,-tathnama,shirt
+300-299,leng1262,http://concepticon.clld.org/parameters/2012,-tathnama ap-yispuk,collar
+300-783,leng1262,http://concepticon.clld.org/parameters/1600,-yakma,skirt
+300-216,leng1262,http://concepticon.clld.org/parameters/772,nin-tete nin-ɬit,"belt, girdle"
+300-259,leng1262,http://concepticon.clld.org/parameters/1851,nahapa,pocket
+300-637,leng1262,http://concepticon.clld.org/parameters/757,apawa ap-atnyaak,button
+300-568,leng1262,http://concepticon.clld.org/parameters/64,yan-sokyi-tama,pin
+300-563,leng1262,http://concepticon.clld.org/parameters/917,-kyaikmas-čis-či,"ornament, adornment"
+300-683,leng1262,http://concepticon.clld.org/parameters/1754,naktet -mek,bracelet
+300-882,leng1262,http://concepticon.clld.org/parameters/1961,momatik,necklace
+300-941,leng1262,http://concepticon.clld.org/parameters/1860,lamum,bead
+300-823,leng1262,http://concepticon.clld.org/parameters/330,-pitkin-ma n-(poss.)-at,"headband, headdress"
+300-233,leng1262,http://concepticon.clld.org/parameters/68,-taɬa-mo,tattoo
+300-54,leng1262,http://concepticon.clld.org/parameters/332,-tite yispuk ap-kyitkuk,"handkerchief, rag"
+300-115,leng1262,http://concepticon.clld.org/parameters/1475,[waikyi] in-kyetik,comb
+300-455,leng1262,http://concepticon.clld.org/parameters/333,-wankis-či,braid
+300-250,leng1262,http://concepticon.clld.org/parameters/151,-yeses-čama -atoŋ,razor
+300-244,leng1262,http://concepticon.clld.org/parameters/1926,ne-ltith-moma-thči,ointment
+300-554,leng1262,http://concepticon.clld.org/parameters/788,ki-ltithn-aikyak,soap
+300-808,leng1262,http://concepticon.clld.org/parameters/1171,ne-lanyo-ninta-ɬama,mirror
+300-670,leng1262,http://concepticon.clld.org/parameters/1099,-h-eyi,"dwell, live"
+300-738,leng1262,http://concepticon.clld.org/parameters/1252,-ɬankuk,house
+300-364,leng1262,http://concepticon.clld.org/parameters/1678,tiŋma kyi-tkuk,hut
+300-836,leng1262,http://concepticon.clld.org/parameters/1316,apawa kyel-pakɬan-ma,tent
+300-829,leng1262,http://concepticon.clld.org/parameters/334,taɬa ɬankuk,cookhouse
+300-604,leng1262,http://concepticon.clld.org/parameters/335,niŋ-aknaikik-ɬiɬa,meeting house
+300-942,leng1262,http://concepticon.clld.org/parameters/1450,yakyes-čiam tiŋma,room
+300-785,leng1262,http://concepticon.clld.org/parameters/1567,atoŋ,"door, gate"
+300-896,leng1262,http://concepticon.clld.org/parameters/80,atoŋ impehik,"doorpost, jamb"
+300-822,leng1262,http://concepticon.clld.org/parameters/1472,ky-itkis-čama atoŋ,key
+300-905,leng1262,http://concepticon.clld.org/parameters/1375,atoŋ e-tkuk,window
+300-856,leng1262,http://concepticon.clld.org/parameters/1632,tiŋma ap-wathwuk,floor
+300-271,leng1262,http://concepticon.clld.org/parameters/933,napa-kha tiŋma,wall
+300-871,leng1262,http://concepticon.clld.org/parameters/859,sowu-taɬa,stove
+300-519,leng1262,http://concepticon.clld.org/parameters/1305,tiyip-makɬa etin,chimney
+300-56,leng1262,http://concepticon.clld.org/parameters/1464,amai netin,ladder
+300-76,leng1262,http://concepticon.clld.org/parameters/1663,-tahanama,bed
+300-79,leng1262,http://concepticon.clld.org/parameters/1044,-tiyaiam,pillow
+300-48,leng1262,http://concepticon.clld.org/parameters/806,tahanama apawa,blanket
+300-76,leng1262,http://concepticon.clld.org/parameters/1476,-tahanama,chair
+300-452,leng1262,http://concepticon.clld.org/parameters/1775,yant-esiksik,table
+300-721,leng1262,http://concepticon.clld.org/parameters/2131,ky-alewas-čama,"lamp, torch"
+300-90,leng1262,http://concepticon.clld.org/parameters/1273,papa taɬa,candle
+300-385,leng1262,http://concepticon.clld.org/parameters/745,yakhap-makɬa aksak,shelf
+300-494,leng1262,http://concepticon.clld.org/parameters/769,pakɬan-ma,roof
+300-869,leng1262,http://concepticon.clld.org/parameters/279,paat ap-pakɬan-ma,thatch
+300-29,leng1262,http://concepticon.clld.org/parameters/829,tiŋyes-čama,rafter
+300-29,leng1262,http://concepticon.clld.org/parameters/1132,tiŋyes-čama,beam
+300-665,leng1262,http://concepticon.clld.org/parameters/281,kyiniŋ-kis-čama,"post, pole"
+300-452,leng1262,http://concepticon.clld.org/parameters/1227,yant-esiksik,board
+300-909,leng1262,http://concepticon.clld.org/parameters/1006,yat-aphaimakyak,brick
+300-745,leng1262,http://concepticon.clld.org/parameters/212,amyip,field (for cultivation)
+300-399,leng1262,http://concepticon.clld.org/parameters/586,ki-lčik-ha,garden
+300-143,leng1262,http://concepticon.clld.org/parameters/1541,-ki-lčik-yi,"cultivate, till"
+300-224,leng1262,http://concepticon.clld.org/parameters/1690,ap-hathta,fence
+300-526,leng1262,http://concepticon.clld.org/parameters/2002,yiŋmin a-tamnik,ditch
+300-621,leng1262,http://concepticon.clld.org/parameters/1794,el-ipwat-ekyak,furrow
+300-121,leng1262,http://concepticon.clld.org/parameters/1418,-mitm-eyi,dig
+300-959,leng1262,http://concepticon.clld.org/parameters/1176,mit-a ɬapup,spade
+300-258,leng1262,http://concepticon.clld.org/parameters/284,sowathpehik,hoe
+300-688,leng1262,http://concepticon.clld.org/parameters/338,ho-pomoo-ap-aphehik,rake
+300-210,leng1262,http://concepticon.clld.org/parameters/748,-ky-inakɬ-eyi,sow
+300-752,leng1262,http://concepticon.clld.org/parameters/714,aktik,seed
+300-922,leng1262,http://concepticon.clld.org/parameters/190,-yakten-či,"mow, reap"
+300-765,leng1262,http://concepticon.clld.org/parameters/2132,sowu ik-winakte ik-haɬe,"sickle, scythe"
+300-677,leng1262,http://concepticon.clld.org/parameters/285,-makhes-či,thresh
+300-908,leng1262,http://concepticon.clld.org/parameters/223,-makhes-ča-makɬa,threshing-floor
+300-207,leng1262,http://concepticon.clld.org/parameters/611,wathitma,"crop, harvest"
+300-752,leng1262,http://concepticon.clld.org/parameters/605,aktik,"grain (barley, oats etc)"
+300-418,leng1262,http://concepticon.clld.org/parameters/1077,ho-tahap ap-aktik,wheat
+300-571,leng1262,http://concepticon.clld.org/parameters/506,latsehe,"maize, corn"
+300-237,leng1262,http://concepticon.clld.org/parameters/606,paat,grass
+300-459,leng1262,http://concepticon.clld.org/parameters/653,panakte,plant (noun)
+300-35,leng1262,http://concepticon.clld.org/parameters/1486,-kilap-kyi,plant (vb)
+300-58,leng1262,http://concepticon.clld.org/parameters/670,-kyip-minik,root
+300-14,leng1262,http://concepticon.clld.org/parameters/1531,ektoŋ,branch
+300-658,leng1262,http://concepticon.clld.org/parameters/628,a-wa,leaf
+300-318,leng1262,http://concepticon.clld.org/parameters/239,panakte ithnamuk,flower
+300-352,leng1262,http://concepticon.clld.org/parameters/906,yamit,tree
+300-679,leng1262,http://concepticon.clld.org/parameters/343,[uva] yamit,vine
+300-671,leng1262,http://concepticon.clld.org/parameters/974,hena,tobacco
+300-59,leng1262,http://concepticon.clld.org/parameters/1689,-ky-isp-eyi,smoke (tobacco)
+300-136,leng1262,http://concepticon.clld.org/parameters/1124,ɬapup,pipe
+300-242,leng1262,http://concepticon.clld.org/parameters/241,auhak,tree stump
+300-352,leng1262,http://concepticon.clld.org/parameters/344,yamit,tree trunk
+300-382,leng1262,http://concepticon.clld.org/parameters/409,el-naiha,forked branch
+300-178,leng1262,http://concepticon.clld.org/parameters/1204,yamit impehik,bark
+300-929,leng1262,http://concepticon.clld.org/parameters/345,iŋmin-ik,sap
+300-253,leng1262,http://concepticon.clld.org/parameters/1181,aɬa,palm tree
+300-41,leng1262,http://concepticon.clld.org/parameters/970,yam-aɬa aktik,coconut
+300-543,leng1262,http://concepticon.clld.org/parameters/1126,aksak maši,citrus fruit
+300-442,leng1262,http://concepticon.clld.org/parameters/868,yam-kamuk,banana tree
+300-287,leng1262,http://concepticon.clld.org/parameters/159,piheyi,sweet potato
+300-193,leng1262,http://concepticon.clld.org/parameters/925,sappo,"tapioca, manioc, cassava"
+300-353,leng1262,http://concepticon.clld.org/parameters/411,kyaiyi,gourd
+300-236,leng1262,http://concepticon.clld.org/parameters/864,yan-siŋheyi,"pumpkin, squash"
+300-405,leng1262,http://concepticon.clld.org/parameters/864,yakteba,"pumpkin, squash"
+300-9,leng1262,http://concepticon.clld.org/parameters/1927,yamamuk,bamboo
+300-892,leng1262,http://concepticon.clld.org/parameters/146,yam-paat,sugar cane
+300-357,leng1262,http://concepticon.clld.org/parameters/33,piŋkyi,nettle
+300-263,leng1262,http://concepticon.clld.org/parameters/813,-ki-lan-aiyi,"do, make"
+300-286,leng1262,http://concepticon.clld.org/parameters/984,-tamha-ha,work
+300-3,leng1262,http://concepticon.clld.org/parameters/2004,-haɬ-es-či,bend
+300-939,leng1262,http://concepticon.clld.org/parameters/1470,-pathapekɬ-eyi,fold
+300-681,leng1262,http://concepticon.clld.org/parameters/1917,-tit-kyi,"tie, bind"
+300-324,leng1262,http://concepticon.clld.org/parameters/352,-li-kyi,untie
+300-190,leng1262,http://concepticon.clld.org/parameters/1627,ho-topili,chain
+300-865,leng1262,http://concepticon.clld.org/parameters/1218,tama,"rope, cord"
+300-260,leng1262,http://concepticon.clld.org/parameters/760,-tete,knot (noun)
+300-634,leng1262,http://concepticon.clld.org/parameters/2133,-tikpoŋ-kyi,"strike (hit, beat)"
+300-634,leng1262,http://concepticon.clld.org/parameters/354,-tikpoŋ-kyi,pound with fist
+300-922,leng1262,http://concepticon.clld.org/parameters/1432,-yakten-či,cut
+300-202,leng1262,http://concepticon.clld.org/parameters/355,-yakneŋ-kyi,cut down
+300-180,leng1262,http://concepticon.clld.org/parameters/155,-pathkat-kyi,"chop, hew"
+300-482,leng1262,http://concepticon.clld.org/parameters/1434,-ki-lyikɬak-yi,stab
+300-485,leng1262,http://concepticon.clld.org/parameters/1352,sowu,knife
+300-732,leng1262,http://concepticon.clld.org/parameters/356,sowat,"scissors, shears"
+300-414,leng1262,http://concepticon.clld.org/parameters/677,pote,ax
+300-522,leng1262,http://concepticon.clld.org/parameters/680,-ky-int-as-či,break
+300-416,leng1262,http://concepticon.clld.org/parameters/588,pakɬ-eyi,broken
+300-577,leng1262,http://concepticon.clld.org/parameters/1437,-ky-inw-eyi,split
+300-950,leng1262,http://concepticon.clld.org/parameters/1735,-yipt-eyi,tear
+300-876,leng1262,http://concepticon.clld.org/parameters/291,-ki-laŋk-eyi,"flay, skin"
+300-824,leng1262,http://concepticon.clld.org/parameters/1449,-tathnyias-eha,"rub, wipe"
+300-581,leng1262,http://concepticon.clld.org/parameters/214,-ky-ekis-či,stretch
+300-700,leng1262,http://concepticon.clld.org/parameters/1455,-yinnakte-s-či,pull
+300-345,leng1262,http://concepticon.clld.org/parameters/38,-pai-kis-či,spread out
+300-507,leng1262,http://concepticon.clld.org/parameters/357,ky-ithn-eyi,hang up
+300-40,leng1262,http://concepticon.clld.org/parameters/1414,ki-lyitsomaŋ-kyi,"squeeze, wring"
+300-530,leng1262,http://concepticon.clld.org/parameters/1487,-yinkin-kyi,pour
+300-615,leng1262,http://concepticon.clld.org/parameters/1453,-li-kyi yiŋmin,wash
+300-28,leng1262,http://concepticon.clld.org/parameters/230,-ky-athny-as-či,sweep
+300-916,leng1262,http://concepticon.clld.org/parameters/245,ky-athny-as-čama,broom
+300-355,leng1262,http://concepticon.clld.org/parameters/1361,aksak niŋ-ma-ikha,tool
+300-801,leng1262,http://concepticon.clld.org/parameters/1840,-ki-lana tiŋma,build
+300-249,leng1262,http://concepticon.clld.org/parameters/1501,-yaŋkathkatkyi,bore
+300-803,leng1262,http://concepticon.clld.org/parameters/1948,ho-naiyim apakyik,saw
+300-449,leng1262,http://concepticon.clld.org/parameters/1481,[martiyo],hammer
+300-639,leng1262,http://concepticon.clld.org/parameters/502,[lahak],nail
+300-723,leng1262,http://concepticon.clld.org/parameters/1069,yam-papa,glue
+300-704,leng1262,http://concepticon.clld.org/parameters/1369,yan-sowu ik-yatiktama,gold
+300-339,leng1262,http://concepticon.clld.org/parameters/759,yan-sowu ik-mopaiya,silver
+300-78,leng1262,http://concepticon.clld.org/parameters/1825,yan-sowu ik-yithwase,"copper, bronze"
+300-485,leng1262,http://concepticon.clld.org/parameters/621,sowu,iron
+300-66,leng1262,http://concepticon.clld.org/parameters/358,ki-lyin-maŋa,"tin, tinplate"
+300-245,leng1262,http://concepticon.clld.org/parameters/289,-yilpa-ŋ-kas-či,mold (clay etc)
+300-768,leng1262,http://concepticon.clld.org/parameters/1399,yilpa,clay
+300-578,leng1262,http://concepticon.clld.org/parameters/604,aksak pais-iam,glass
+300-660,leng1262,http://concepticon.clld.org/parameters/1729,wan-kis-či,"weave, plait"
+300-447,leng1262,http://concepticon.clld.org/parameters/1539,ho-winak apɬankuk,basket
+300-306,leng1262,http://concepticon.clld.org/parameters/293,aiyin,netbag
+300-150,leng1262,http://concepticon.clld.org/parameters/1971,aɬa-awa,fan (noun)
+300-564,leng1262,http://concepticon.clld.org/parameters/360,makha-iyi,fan (vb)
+300-466,leng1262,http://concepticon.clld.org/parameters/228,-kyaikmas-či yamit,carve
+300-558,leng1262,http://concepticon.clld.org/parameters/1002,kyel-aikmas-čis-čama,statue
+300-620,leng1262,http://concepticon.clld.org/parameters/765,-ɬiŋ-kis-či,move
+300-367,leng1262,http://concepticon.clld.org/parameters/1588,-pankyik-me,turn over
+300-643,leng1262,http://concepticon.clld.org/parameters/1445,-ye-kis-či,turn around
+300-701,leng1262,http://concepticon.clld.org/parameters/1113,-ky-akl-as-či,"wind, wrap"
+300-88,leng1262,http://concepticon.clld.org/parameters/808,-tiŋ-kis-či,drop (vb)
+300-759,leng1262,http://concepticon.clld.org/parameters/430,-pithyanč-ikme,twist
+300-846,leng1262,http://concepticon.clld.org/parameters/568,-ky-inamt-eyi,rise
+300-907,leng1262,http://concepticon.clld.org/parameters/501,-ky-ana-iyi,"raise, lift"
+300-955,leng1262,http://concepticon.clld.org/parameters/1280,-tiŋ-kyi,fall
+300-130,leng1262,http://concepticon.clld.org/parameters/2253,-sipkin-či,drip
+300-635,leng1262,http://concepticon.clld.org/parameters/1456,-yikna-iyi,throw
+300-640,leng1262,http://concepticon.clld.org/parameters/702,-meyi takha,catch (ball)
+300-710,leng1262,http://concepticon.clld.org/parameters/1909,-yohos-eha,shake
+300-26,leng1262,http://concepticon.clld.org/parameters/2003,-ɬiŋ-kyi,flow
+300-901,leng1262,http://concepticon.clld.org/parameters/1088,-waiweŋ-kyi,sink
+300-796,leng1262,http://concepticon.clld.org/parameters/1574,sokyi yiŋmin,float
+300-751,leng1262,http://concepticon.clld.org/parameters/1439,-m-eyi yiŋmin,swim
+300-575,leng1262,http://concepticon.clld.org/parameters/119,-tathnekɬ-eyi,dive
+300-354,leng1262,http://concepticon.clld.org/parameters/365,-ky-ithpakha-iyi,splash
+300-811,leng1262,http://concepticon.clld.org/parameters/1441,-ky-impa-iyi,fly (vb)
+300-795,leng1262,http://concepticon.clld.org/parameters/175,-watikhap-kyi,blow
+300-542,leng1262,http://concepticon.clld.org/parameters/96,-lokha,"creep, crawl"
+300-562,leng1262,http://concepticon.clld.org/parameters/66,-tikɬikyi-(poss.)-tapnak ɬapup,kneel
+300-583,leng1262,http://concepticon.clld.org/parameters/296,-pithy-okme,crouch
+300-739,leng1262,http://concepticon.clld.org/parameters/1324,-tathnyia-iyi,"slide, slip"
+300-400,leng1262,http://concepticon.clld.org/parameters/1829,-nithtiŋ-kyi,"jump, leap"
+300-377,leng1262,http://concepticon.clld.org/parameters/1135,-tikpoŋ-kyi -minik,kick
+300-429,leng1262,http://concepticon.clld.org/parameters/1879,-tai-ha,dance
+300-26,leng1262,http://concepticon.clld.org/parameters/1443,-ɬiŋ-kyi,walk
+300-62,leng1262,http://concepticon.clld.org/parameters/366,-yaktiyikɬa,limp
+300-611,leng1262,http://concepticon.clld.org/parameters/1519,-ky-etkya-ha,run
+300-26,leng1262,http://concepticon.clld.org/parameters/695,-ɬiŋ-kyi,go
+300-220,leng1262,http://concepticon.clld.org/parameters/705,-ɬiŋ-kyi netin,go up
+300-846,leng1262,http://concepticon.clld.org/parameters/1102,-ky-inamt-eyi,climb
+300-901,leng1262,http://concepticon.clld.org/parameters/2014,-waiweŋ-kyi,go down
+300-93,leng1262,http://concepticon.clld.org/parameters/1107,-tip-kyi,go out
+300-80,leng1262,http://concepticon.clld.org/parameters/1446,-ky-ithy-ikme,come
+300-97,leng1262,http://concepticon.clld.org/parameters/581,-w-akteyi,come back
+300-696,leng1262,http://concepticon.clld.org/parameters/1752,-winkyip-kyi,"go away, depart"
+300-696,leng1262,http://concepticon.clld.org/parameters/485,-winkyip-kyi,disappear
+300-99,leng1262,http://concepticon.clld.org/parameters/956,-ky-iny-eyi,flee
+300-938,leng1262,http://concepticon.clld.org/parameters/1085,-yitlo-kyi,follow
+300-585,leng1262,http://concepticon.clld.org/parameters/1047,-minɬin-kyi,pursue
+300-112,leng1262,http://concepticon.clld.org/parameters/1387,-w-ukme,"reach, arrive"
+300-497,leng1262,http://concepticon.clld.org/parameters/1778,-ɬiŋ-akme,approach
+300-689,leng1262,http://concepticon.clld.org/parameters/749,-tathn-eyi,enter
+300-305,leng1262,http://concepticon.clld.org/parameters/700,-so-kyi,carry (bear)
+300-870,leng1262,http://concepticon.clld.org/parameters/413,-pat-meyi,carry-on-shoulder
+300-743,leng1262,http://concepticon.clld.org/parameters/692,-s-ant-eyi,bring
+300-524,leng1262,http://concepticon.clld.org/parameters/1127,-ky-aph-as-či,send
+300-349,leng1262,http://concepticon.clld.org/parameters/43,-nak-lant-eyi,lead (vb)
+300-349,leng1262,http://concepticon.clld.org/parameters/741,-nak-lant-eyi,drive
+300-846,leng1262,http://concepticon.clld.org/parameters/367,-ky-inamt-eyi,ride
+300-573,leng1262,http://concepticon.clld.org/parameters/1452,-yiŋ-kyi,"push, shove"
+300-456,leng1262,http://concepticon.clld.org/parameters/667,amai,road
+300-308,leng1262,http://concepticon.clld.org/parameters/2252,amai e-tkuk,path
+300-56,leng1262,http://concepticon.clld.org/parameters/1011,amai netin,bridge
+300-926,leng1262,http://concepticon.clld.org/parameters/122,[waikyi] takɬith-čipkuk,"carriage, wagon, cart"
+300-966,leng1262,http://concepticon.clld.org/parameters/710,-mik,wheel
+300-199,leng1262,http://concepticon.clld.org/parameters/1844,yant-ak-paihe,boat
+300-728,leng1262,http://concepticon.clld.org/parameters/1970,namuk,canoe
+300-380,leng1262,http://concepticon.clld.org/parameters/1664,aɬa apak,raft
+300-231,leng1262,http://concepticon.clld.org/parameters/108,yikw-emin,oar
+300-727,leng1262,http://concepticon.clld.org/parameters/1849,-yikw-eyi,row (vb)
+300-264,leng1262,http://concepticon.clld.org/parameters/108,kyel-panky-amekyak,rudder
+300-665,leng1262,http://concepticon.clld.org/parameters/184,kyiniŋ-kis-čama,mast
+300-140,leng1262,http://concepticon.clld.org/parameters/786,apawa,sail (noun)
+300-174,leng1262,http://concepticon.clld.org/parameters/1870,-yimyek-inta na-iŋmin,anchor
+300-93,leng1262,http://concepticon.clld.org/parameters/1922,-tip-kyi,land (vb)
+300-386,leng1262,http://concepticon.clld.org/parameters/773,-yitn-eyi,have
+300-716,leng1262,http://concepticon.clld.org/parameters/1749,-m-eyi,take
+300-409,leng1262,http://concepticon.clld.org/parameters/2021,-m-aŋ-kyi,"seize, grasp"
+300-716,leng1262,http://concepticon.clld.org/parameters/1448,-m-eyi,hold
+300-764,leng1262,http://concepticon.clld.org/parameters/1477,-miyo-kyi,"keep, retain"
+300-458,leng1262,http://concepticon.clld.org/parameters/738,aksak,thing
+300-131,leng1262,http://concepticon.clld.org/parameters/1447,-mes-či,give
+300-254,leng1262,http://concepticon.clld.org/parameters/85,-mes-ekɬ-eyi,give back
+300-433,leng1262,http://concepticon.clld.org/parameters/1997,-takmil-čis-či,"preserve, look after"
+300-402,leng1262,http://concepticon.clld.org/parameters/2008,-wam-kas-či-taip,"save, rescue"
+300-356,leng1262,http://concepticon.clld.org/parameters/681,-towas-eha,destroy
+300-356,leng1262,http://concepticon.clld.org/parameters/44,-towas-eha,"harm, injure, damage"
+300-334,leng1262,http://concepticon.clld.org/parameters/1468,-kyitam-kyi,"seek, look for"
+300-38,leng1262,http://concepticon.clld.org/parameters/719,-wita-kɬeyi,find
+300-867,leng1262,http://concepticon.clld.org/parameters/1660,-ɬiŋ-aniŋ-kis-či,lose
+300-834,leng1262,http://concepticon.clld.org/parameters/1095,-yimye-kɬeyi,"release, let go"
+300-289,leng1262,http://concepticon.clld.org/parameters/1559,aks-el-yakye,money
+300-289,leng1262,http://concepticon.clld.org/parameters/1867,aks-el-yakye,coin
+300-205,leng1262,http://concepticon.clld.org/parameters/712,ik-ha ap-kil-nakta,rich
+300-407,leng1262,http://concepticon.clld.org/parameters/1674,mekyi aksak,poor
+300-913,leng1262,http://concepticon.clld.org/parameters/1934,-yikhame-kha,beggar
+300-204,leng1262,http://concepticon.clld.org/parameters/1774,-masma,"avaricious, stingy"
+300-837,leng1262,http://concepticon.clld.org/parameters/582,-mes-či sikɬo,lend
+300-812,leng1262,http://concepticon.clld.org/parameters/1823,-m-eyi sikɬo,borrow
+300-171,leng1262,http://concepticon.clld.org/parameters/369,-time -m-aikyak,owe
+300-145,leng1262,http://concepticon.clld.org/parameters/1914,-m-aikyak,debt
+300-940,leng1262,http://concepticon.clld.org/parameters/718,-yinyo-kyi ik-yanmaŋ-a,pay (vb)
+300-716,leng1262,http://concepticon.clld.org/parameters/1869,-m-eyi,buy
+300-164,leng1262,http://concepticon.clld.org/parameters/1571,-yinyo-kyi,sell
+300-673,leng1262,http://concepticon.clld.org/parameters/2135,-yanmaŋ-kas-či,"trade, barter"
+300-371,leng1262,http://concepticon.clld.org/parameters/752,el-yanmo-mathčiɬa,"store, shop"
+300-873,leng1262,http://concepticon.clld.org/parameters/657,ik-yanmaŋ-a,price
+300-486,leng1262,http://concepticon.clld.org/parameters/1426,in-no-kyi,"dear (costly, expensive)"
+300-821,leng1262,http://concepticon.clld.org/parameters/1887,kyits-i ik-yanmaŋ-a,cheap
+300-779,leng1262,http://concepticon.clld.org/parameters/884,-milas-ikte,share (distribute)
+300-686,leng1262,http://concepticon.clld.org/parameters/1098,-ki-lyitsat-e,weigh
+300-902,leng1262,http://concepticon.clld.org/parameters/1685,natamin,after
+300-649,leng1262,http://concepticon.clld.org/parameters/723,ak-(poss)-puk,behind
+300-124,leng1262,http://concepticon.clld.org/parameters/1816,ni-kha,beside
+300-1,leng1262,http://concepticon.clld.org/parameters/1326,koniŋ,"down, below"
+300-43,leng1262,http://concepticon.clld.org/parameters/1882,mamyi,before
+300-43,leng1262,http://concepticon.clld.org/parameters/1019,mamyi,front
+300-256,leng1262,http://concepticon.clld.org/parameters/1606,kanyi,"inside, in"
+300-792,leng1262,http://concepticon.clld.org/parameters/762,yokɬ-ithma,outside
+300-1,leng1262,http://concepticon.clld.org/parameters/1485,koniŋ,under
+300-359,leng1262,http://concepticon.clld.org/parameters/1591,netin,"up, above"
+300-791,leng1262,http://concepticon.clld.org/parameters/723,-(m)akɬa,place
+300-925,leng1262,http://concepticon.clld.org/parameters/998,-pitkin-kyi,put
+300-670,leng1262,http://concepticon.clld.org/parameters/1416,-h-eyi,sit
+300-386,leng1262,http://concepticon.clld.org/parameters/215,-yitn-eyi,lie down
+300-298,leng1262,http://concepticon.clld.org/parameters/1442,-kyakn-aha,stand
+300-474,leng1262,http://concepticon.clld.org/parameters/987,m-(poss)-wiŋkepuk,"remain, stay"
+300-610,leng1262,http://concepticon.clld.org/parameters/838,aksak el-emo-mathči,"remains, left overs"
+300-183,leng1262,http://concepticon.clld.org/parameters/7,-ma-k-ɬeyi,"collect, gather"
+300-183,leng1262,http://concepticon.clld.org/parameters/371,-ma-k-ɬeyi,pick up
+300-311,leng1262,http://concepticon.clld.org/parameters/1576,-kyik-hes-či,pile up
+300-341,leng1262,http://concepticon.clld.org/parameters/1743,-yibit-čis-či,"join, unite"
+300-832,leng1262,http://concepticon.clld.org/parameters/1359,-ky-ithpan-čis-či,separate
+300-950,leng1262,http://concepticon.clld.org/parameters/1119,-yipt-eyi,divide
+300-324,leng1262,http://concepticon.clld.org/parameters/1156,-li-kyi,open
+300-15,leng1262,http://concepticon.clld.org/parameters/1046,-kyepek-ɬeyi,"shut, close"
+300-102,leng1262,http://concepticon.clld.org/parameters/761,-kyip-kyi,cover
+300-200,leng1262,http://concepticon.clld.org/parameters/602,-pos-či,"hide, conceal"
+300-359,leng1262,http://concepticon.clld.org/parameters/1265,netin,high
+300-1,leng1262,http://concepticon.clld.org/parameters/721,koniŋ,low
+300-359,leng1262,http://concepticon.clld.org/parameters/1753,netin,top
+300-715,leng1262,http://concepticon.clld.org/parameters/690,na-takla,bottom
+300-654,leng1262,http://concepticon.clld.org/parameters/742,nowa,end
+300-599,leng1262,http://concepticon.clld.org/parameters/372,ik-ha nipkyitama,pointed
+300-454,leng1262,http://concepticon.clld.org/parameters/863,n-(poss)-yawa,edge
+300-124,leng1262,http://concepticon.clld.org/parameters/682,ni-kha,side
+300-483,leng1262,http://concepticon.clld.org/parameters/1093,n-(poss)-siksa,"middle, center"
+300-22,leng1262,http://concepticon.clld.org/parameters/1019,-yinnakta-makɬa,right (side)
+300-480,leng1262,http://concepticon.clld.org/parameters/244,-saŋkalwe,left (side)
+300-644,leng1262,http://concepticon.clld.org/parameters/1942,kyito,near (adv)
+300-129,leng1262,http://concepticon.clld.org/parameters/1406,tiyepe,far (adv)
+300-243,leng1262,http://concepticon.clld.org/parameters/1877,tiyip-makɬa ik-him,east
+300-749,leng1262,http://concepticon.clld.org/parameters/1817,tathniŋ-wanɬa ik-him,west
+300-809,leng1262,http://concepticon.clld.org/parameters/1598,ni-thkyiha,north
+300-624,leng1262,http://concepticon.clld.org/parameters/1595,ni-pyiam,south
+300-465,leng1262,http://concepticon.clld.org/parameters/479,-wanem-yi,grow
+300-75,leng1262,http://concepticon.clld.org/parameters/1506,-kilyitsači,measure
+300-608,leng1262,http://concepticon.clld.org/parameters/1202,-yowea,"large, big"
+300-189,leng1262,http://concepticon.clld.org/parameters/1246,-kyitsi,"small, little"
+300-303,leng1262,http://concepticon.clld.org/parameters/1203,-winnakte,long
+300-303,leng1262,http://concepticon.clld.org/parameters/711,-winnakte,tall
+300-722,leng1262,http://concepticon.clld.org/parameters/1645,-yakwate,short
+300-91,leng1262,http://concepticon.clld.org/parameters/1243,paihe,"wide, broad"
+300-666,leng1262,http://concepticon.clld.org/parameters/1267,-tkuk,narrow
+300-935,leng1262,http://concepticon.clld.org/parameters/1244,-yintiɬi,thick (in dimension)
+300-425,leng1262,http://concepticon.clld.org/parameters/1400,-ky-ithyo-kyi,thin (in dimension)
+300-833,leng1262,http://concepticon.clld.org/parameters/1593,-towan-yi,deep
+300-817,leng1262,http://concepticon.clld.org/parameters/193,-takhaiyi,shallow
+300-91,leng1262,http://concepticon.clld.org/parameters/1633,paihe,flat
+300-605,leng1262,http://concepticon.clld.org/parameters/1404,-pew-owu,straight
+300-618,leng1262,http://concepticon.clld.org/parameters/297,-takh-eyi,crooked
+300-893,leng1262,http://concepticon.clld.org/parameters/1071,sowuk-haɬe,hook
+300-342,leng1262,http://concepticon.clld.org/parameters/192,mas-ekyak,corner
+300-539,leng1262,http://concepticon.clld.org/parameters/1367,aksak tiŋy-es-čama,cross
+300-292,leng1262,http://concepticon.clld.org/parameters/1395,-yakye,round
+300-321,leng1262,http://concepticon.clld.org/parameters/1467,wain-kyiam,circle
+300-89,leng1262,http://concepticon.clld.org/parameters/1845,aksak yakye,"sphere, ball"
+300-852,leng1262,http://concepticon.clld.org/parameters/1667,yaŋkaɬe,hole
+300-464,leng1262,http://concepticon.clld.org/parameters/1264,-yakmaŋ-kas-či,change
+300-910,leng1262,http://concepticon.clld.org/parameters/1294,meko aksak,"zero, nothing"
+300-443,leng1262,http://concepticon.clld.org/parameters/1515,ɬama,one
+300-6,leng1262,http://concepticon.clld.org/parameters/1498,-anit,two
+300-826,leng1262,http://concepticon.clld.org/parameters/492,-antan-ɬama,three
+300-272,leng1262,http://concepticon.clld.org/parameters/1500,howuk-n-(poss)-kha,four
+300-34,leng1262,http://concepticon.clld.org/parameters/493,ɬam-e-mik,five
+300-964,leng1262,http://concepticon.clld.org/parameters/1703,wakthlo mok emik thlama,six
+300-10,leng1262,http://concepticon.clld.org/parameters/1704,wakthlo mok emik anit,seven
+300-351,leng1262,http://concepticon.clld.org/parameters/1705,wakthlo mok emik antan-thlama,eight
+300-194,leng1262,http://concepticon.clld.org/parameters/1483,wakthlo mok emik howuk-n-(poss)-kha,nine
+300-804,leng1262,http://concepticon.clld.org/parameters/1515,sohok emek,ten
+300-282,leng1262,http://concepticon.clld.org/parameters/1706,wakthlo e-minik thlama,eleven
+300-726,leng1262,http://concepticon.clld.org/parameters/1709,sohok thlamʔe-minik,fifteen
+300-123,leng1262,http://concepticon.clld.org/parameters/1710,sohok e-mankuk,twenty
+300-805,leng1262,http://concepticon.clld.org/parameters/1420,-ki-lyitsat-či,count
+300-932,leng1262,http://concepticon.clld.org/parameters/98,-ɬamok-ɬoho,"every, all"
+300-788,leng1262,http://concepticon.clld.org/parameters/1198,-ɬamok,"much, many"
+300-77,leng1262,http://concepticon.clld.org/parameters/1992,mok makham,more
+300-17,leng1262,http://concepticon.clld.org/parameters/1242,kyits-o,"little (quantity), few"
+300-790,leng1262,http://concepticon.clld.org/parameters/1881,-howuk,enough
+300-50,leng1262,http://concepticon.clld.org/parameters/1241,n-(poss)-kha,some
+300-328,leng1262,http://concepticon.clld.org/parameters/2023,ap-ɬamok enɬit,"multitude, crowd"
+300-394,leng1262,http://concepticon.clld.org/parameters/1429,-lan-owu,full
+300-551,leng1262,http://concepticon.clld.org/parameters/1624,me-kyi aksak -wathwuk,empty
+300-50,leng1262,http://concepticon.clld.org/parameters/779,n-(poss)-kha,"part, piece"
+300-736,leng1262,http://concepticon.clld.org/parameters/1580,-ɬapko,"alone, only"
+300-717,leng1262,http://concepticon.clld.org/parameters/728,iŋ-mamyi,first
+300-361,leng1262,http://concepticon.clld.org/parameters/1529,eɬaiyi,last
+300-6,leng1262,http://concepticon.clld.org/parameters/1888,-anit,pair
+300-122,leng1262,http://concepticon.clld.org/parameters/1231,-athnankuk,new
+300-648,leng1262,http://concepticon.clld.org/parameters/1207,-kyitkuk,young
+300-933,leng1262,http://concepticon.clld.org/parameters/1229,-wanakmo,old
+300-596,leng1262,http://concepticon.clld.org/parameters/672,athtoo-k anko,early
+300-944,leng1262,http://concepticon.clld.org/parameters/477,tathnam,late
+300-781,leng1262,http://concepticon.clld.org/parameters/1376,kathwowu,now
+300-325,leng1262,http://concepticon.clld.org/parameters/1963,hiŋ-yahamo,immediately
+300-807,leng1262,http://concepticon.clld.org/parameters/1631,-pikh-es-owu,"swift, fast, quick"
+300-655,leng1262,http://concepticon.clld.org/parameters/701,-yihemyi,slow
+300-502,leng1262,http://concepticon.clld.org/parameters/754,-pikh-es-či,"hasten, hurry"
+300-655,leng1262,http://concepticon.clld.org/parameters/425,-yihemyi,"retard, delay"
+300-536,leng1262,http://concepticon.clld.org/parameters/1806,sikɬo,"begin, beginning"
+300-663,leng1262,http://concepticon.clld.org/parameters/743,ineɬa,end (temporal)
+300-81,leng1262,http://concepticon.clld.org/parameters/1766,-pinčis-či,finish
+300-419,leng1262,http://concepticon.clld.org/parameters/1928,-ki-lwat-es-či,"cease, stop"
+300-184,leng1262,http://concepticon.clld.org/parameters/790,wanɬa,ready
+300-789,leng1262,http://concepticon.clld.org/parameters/1676,kyimata,always
+300-789,leng1262,http://concepticon.clld.org/parameters/1852,kyimata,often
+300-51,leng1262,http://concepticon.clld.org/parameters/1544,mok ɬama ikhim,sometimes
+300-625,leng1262,http://concepticon.clld.org/parameters/703,haikyi,soon
+300-117,leng1262,http://concepticon.clld.org/parameters/418,nanok,long-time (for a)
+300-154,leng1262,http://concepticon.clld.org/parameters/204,makham,again
+300-192,leng1262,http://concepticon.clld.org/parameters/1260,ik-him,day
+300-137,leng1262,http://concepticon.clld.org/parameters/1233,athtaa,night
+300-967,leng1262,http://concepticon.clld.org/parameters/729,elsiye,dawn
+300-544,leng1262,http://concepticon.clld.org/parameters/1339,athtoo,morning
+300-301,leng1262,http://concepticon.clld.org/parameters/12,iŋ-yitsikso ik-him,"noon, midday"
+300-944,leng1262,http://concepticon.clld.org/parameters/1807,tathnam,afternoon
+300-363,leng1262,http://concepticon.clld.org/parameters/1629,tathnakmo,evening
+300-612,leng1262,http://concepticon.clld.org/parameters/1283,kyiso ik-him,today
+300-225,leng1262,http://concepticon.clld.org/parameters/1329,el-sakha sata,tomorrow
+300-208,leng1262,http://concepticon.clld.org/parameters/1179,mok him sata,day-after-tomorrow
+300-32,leng1262,http://concepticon.clld.org/parameters/1174,him athta,yesterday
+300-661,leng1262,http://concepticon.clld.org/parameters/1180,mok him athta,day-before-yesterday
+300-226,leng1262,http://concepticon.clld.org/parameters/1323,tik-tik,"clock, timepiece"
+300-565,leng1262,http://concepticon.clld.org/parameters/1370,piltin,month
+300-436,leng1262,http://concepticon.clld.org/parameters/1226,ap-yiam,year
+300-257,leng1262,http://concepticon.clld.org/parameters/1471,(ap)-yiam,winter
+300-949,leng1262,http://concepticon.clld.org/parameters/1537,ki-lyap-wakɬ-eyi,spring
+300-46,leng1262,http://concepticon.clld.org/parameters/1342,maiyahat,summer
+300-69,leng1262,http://concepticon.clld.org/parameters/1276,-tainiŋ,autumn
+300-555,leng1262,http://concepticon.clld.org/parameters/1587,-pakn-akme,smell (vb intrans)
+300-623,leng1262,http://concepticon.clld.org/parameters/375,-ki-lwita-iyi,sniff
+300-310,leng1262,http://concepticon.clld.org/parameters/1586,-liŋa-iyi,smell (vb trans)
+300-152,leng1262,http://concepticon.clld.org/parameters/376,atsik pakn-iam,"fragrant, good smelling"
+300-911,leng1262,http://concepticon.clld.org/parameters/42,yitsi pakn-iam,"stinking, bad smelling"
+300-310,leng1262,http://concepticon.clld.org/parameters/21,-liŋa-iyi,taste
+300-895,leng1262,http://concepticon.clld.org/parameters/717,atsik,sweet
+300-714,leng1262,http://concepticon.clld.org/parameters/1091,yasik,salty
+300-848,leng1262,http://concepticon.clld.org/parameters/887,ik-mamyasa,bitter
+300-633,leng1262,http://concepticon.clld.org/parameters/1906,a-skyihe,"acid, sour"
+300-511,leng1262,http://concepticon.clld.org/parameters/70,yasik yiŋmin,brackish
+300-310,leng1262,http://concepticon.clld.org/parameters/1408,-liŋa-iyi,hear
+300-156,leng1262,http://concepticon.clld.org/parameters/1608,-hathn-owu,listen
+300-947,leng1262,http://concepticon.clld.org/parameters/1811,kyel-paɬama,"sound, noise"
+300-346,leng1262,http://concepticon.clld.org/parameters/377,a-skyihe ik-mek,loud
+300-652,leng1262,http://concepticon.clld.org/parameters/1314,-wan-ma,"quiet, silence"
+300-128,leng1262,http://concepticon.clld.org/parameters/1409,-wita-iyi,see
+300-960,leng1262,http://concepticon.clld.org/parameters/1819,-ki-lan-owu,"look, look at"
+300-508,leng1262,http://concepticon.clld.org/parameters/1039,-ɬikmos-či,show
+300-415,leng1262,http://concepticon.clld.org/parameters/708,-ky-atiŋma-kyi,shine
+300-574,leng1262,http://concepticon.clld.org/parameters/679,-ki-lyinm-eyi,bright
+300-830,leng1262,http://concepticon.clld.org/parameters/250,-mopa-iya,light (in color)
+300-589,leng1262,http://concepticon.clld.org/parameters/706,-pais-iam,dark (in color)
+300-830,leng1262,http://concepticon.clld.org/parameters/1335,-mopa-iya,white
+300-589,leng1262,http://concepticon.clld.org/parameters/163,-pais-iam,black
+300-588,leng1262,http://concepticon.clld.org/parameters/156,-yithwas-e,red
+300-13,leng1262,http://concepticon.clld.org/parameters/837,-yapakmate,blue
+300-741,leng1262,http://concepticon.clld.org/parameters/1425,yapakmate,green
+300-293,leng1262,http://concepticon.clld.org/parameters/1424,-yatiktama,yellow
+300-316,leng1262,http://concepticon.clld.org/parameters/1892,-paknam-owu,touch
+300-142,leng1262,http://concepticon.clld.org/parameters/378,-yinsip-kyi,pinch
+300-310,leng1262,http://concepticon.clld.org/parameters/1079,-liŋa-iyi,feel
+300-95,leng1262,http://concepticon.clld.org/parameters/1884,kai-he,hard
+300-694,leng1262,http://concepticon.clld.org/parameters/1856,-sipyo-kyi,soft
+300-509,leng1262,http://concepticon.clld.org/parameters/1396,-hamtik,sharp
+300-395,leng1262,http://concepticon.clld.org/parameters/379,meko a-hamtik,"blunt, dull"
+300-935,leng1262,http://concepticon.clld.org/parameters/1210,-yintiɬi,heavy
+300-570,leng1262,http://concepticon.clld.org/parameters/1052,-kyithyo-kyi,light (in weight)
+300-828,leng1262,http://concepticon.clld.org/parameters/1726,-yes-owu,"wet, damp"
+300-343,leng1262,http://concepticon.clld.org/parameters/1398,-yimaka-iyi,dry
+300-504,leng1262,http://concepticon.clld.org/parameters/1286,atehe,hot
+300-718,leng1262,http://concepticon.clld.org/parameters/1232,yama miɬan-ma,warm
+300-222,leng1262,http://concepticon.clld.org/parameters/1287,-somaŋyi,cold
+300-757,leng1262,http://concepticon.clld.org/parameters/704,-ky-athny-owu,clean
+300-378,leng1262,http://concepticon.clld.org/parameters/1230,-yitsi,"dirty, soiled"
+300-603,leng1262,http://concepticon.clld.org/parameters/380,-yipwak-kyi,wrinkled
+300-920,leng1262,http://concepticon.clld.org/parameters/53,-haŋak,"soul, spirit"
+300-680,leng1262,http://concepticon.clld.org/parameters/1572,-pilap-kas-či,"surprised, astonished"
+300-915,leng1262,http://concepticon.clld.org/parameters/720,-ki-linya-howu,"good fortune, luck"
+300-657,leng1262,http://concepticon.clld.org/parameters/56,samči tah-akɬa,"misfortune, bad luck"
+300-103,leng1262,http://concepticon.clld.org/parameters/1495,-paihe-kɬeyi-(poss)-wathwuk,"joyful, glad, happy"
+300-956,leng1262,http://concepticon.clld.org/parameters/1355,-ky-iktiŋ-maha,laugh
+300-506,leng1262,http://concepticon.clld.org/parameters/1451,-ky-ismes-či,smile
+300-572,leng1262,http://concepticon.clld.org/parameters/1413,-new-eha,play
+300-304,leng1262,http://concepticon.clld.org/parameters/923,-ky-asikh-eyo,love
+300-423,leng1262,http://concepticon.clld.org/parameters/578,-pets-is-či,kiss
+300-782,leng1262,http://concepticon.clld.org/parameters/928,-pakhit-kyi,embrace
+300-428,leng1262,http://concepticon.clld.org/parameters/1783,-maša,pain
+300-827,leng1262,http://concepticon.clld.org/parameters/1668,-yakhap-owu-(poss)-wathwuk,"grief, sorrow, sadness"
+300-952,leng1262,http://concepticon.clld.org/parameters/1000,-tamha-ikha-(poss)-wathwuk,"anxiety, worry"
+300-437,leng1262,http://concepticon.clld.org/parameters/1875,-liŋaŋ-ko -(poss)-wathwuk,"regret, be sorry"
+300-835,leng1262,http://concepticon.clld.org/parameters/1141,-ky-imlek-me,pity
+300-974,leng1262,http://concepticon.clld.org/parameters/1839,-wun-eyi,"cry, weep"
+300-927,leng1262,http://concepticon.clld.org/parameters/1651,yiŋmin-(poss)-aktik,tear (noun)
+300-857,leng1262,http://concepticon.clld.org/parameters/716,-ky-apiŋtiŋ-kyi,groan
+300-774,leng1262,http://concepticon.clld.org/parameters/1607,-takno-kyi,hate
+300-733,leng1262,http://concepticon.clld.org/parameters/82,-lo-kyi,anger
+300-227,leng1262,http://concepticon.clld.org/parameters/40,-yasip-kis-čama,"envy, jealousy"
+300-702,leng1262,http://concepticon.clld.org/parameters/1776,-minkak-tama,shame (noun)
+300-576,leng1262,http://concepticon.clld.org/parameters/174,-ky-ekpo,proud
+300-82,leng1262,http://concepticon.clld.org/parameters/3,kaihe-(poss)-wathwuk,brave
+300-135,leng1262,http://concepticon.clld.org/parameters/781,-kyika-iyi,"fear, fright"
+300-228,leng1262,http://concepticon.clld.org/parameters/1784,-maihe-yo-(poss)-wathwuk,"desire, want"
+300-182,leng1262,http://concepticon.clld.org/parameters/1750,-ki-lyes-aha,choose
+300-278,leng1262,http://concepticon.clld.org/parameters/1092,-ki-lhathn-eyi-(poss)-wathwuk,hope
+300-484,leng1262,http://concepticon.clld.org/parameters/1657,nakso,true
+300-148,leng1262,http://concepticon.clld.org/parameters/601,-wančik amyaa,"lie, tell lies"
+300-281,leng1262,http://concepticon.clld.org/parameters/13,-ki-lyiɬan-čis-aikha,deceit
+300-878,leng1262,http://concepticon.clld.org/parameters/1528,-mas-čes-čis-či,forgive
+300-469,leng1262,http://concepticon.clld.org/parameters/1035,-tas-ik,good
+300-368,leng1262,http://concepticon.clld.org/parameters/1292,-samčik,bad
+300-605,leng1262,http://concepticon.clld.org/parameters/1725,-pew-owu,"right, correct"
+300-471,leng1262,http://concepticon.clld.org/parameters/1390,ka-pew-owu,wrong
+300-25,leng1262,http://concepticon.clld.org/parameters/134,-sithnin-i-akpe,fault
+300-172,leng1262,http://concepticon.clld.org/parameters/1293,-time-(poss)-ankuk,"mistake, error"
+300-547,leng1262,http://concepticon.clld.org/parameters/381,-sithnin-aik,blame
+300-858,leng1262,http://concepticon.clld.org/parameters/1687,-kyiky-owu,praise
+300-186,leng1262,http://concepticon.clld.org/parameters/1427,-tas-ok,beautiful
+300-167,leng1262,http://concepticon.clld.org/parameters/1548,-samči,ugly
+300-451,leng1262,http://concepticon.clld.org/parameters/2018,m-(poss)-nyekyak-(poss)-to,greedy
+300-177,leng1262,http://concepticon.clld.org/parameters/1310,-yasiŋko-thma,clever
+300-413,leng1262,http://concepticon.clld.org/parameters/1562,-wathwuk,mind
+300-868,leng1262,http://concepticon.clld.org/parameters/1415,-ki-lkyitam-kyi-(poss)-wathwuk,think (= reflect)
+300-322,leng1262,http://concepticon.clld.org/parameters/1513,-ky-inai-kyi,think (= be of the opinion)
+300-302,leng1262,http://concepticon.clld.org/parameters/1890,m-(poss)-yaši-kme,believe
+300-176,leng1262,http://concepticon.clld.org/parameters/1536,-yasekiŋko-thma,understand
+300-358,leng1262,http://concepticon.clld.org/parameters/1410,-yasiŋko,know
+300-155,leng1262,http://concepticon.clld.org/parameters/117,-heas-owu,imitate
+300-119,leng1262,http://concepticon.clld.org/parameters/1609,e-lkyitam-sama-(poss)-wathwuk,"idea, notion"
+300-144,leng1262,http://concepticon.clld.org/parameters/698,-yasiŋk-athma,wise
+300-438,leng1262,http://concepticon.clld.org/parameters/1518,m-(poss)-ysikyak aksak,"foolish, stupid"
+300-23,leng1262,http://concepticon.clld.org/parameters/1899,-yehathma,"insane, crazy"
+300-842,leng1262,http://concepticon.clld.org/parameters/504,-ki-ltamesa-kpe,learn
+300-842,leng1262,http://concepticon.clld.org/parameters/1929,-ki-ltamesa-kpe,study
+300-508,leng1262,http://concepticon.clld.org/parameters/709,-ɬikmos-či,teach
+300-20,leng1262,http://concepticon.clld.org/parameters/753,-ki-ltames-čama,pupil
+300-267,leng1262,http://concepticon.clld.org/parameters/1038,-ki-lɬikmos-čama,teacher
+300-527,leng1262,http://concepticon.clld.org/parameters/673,nim-paiwa e-tkuk,school
+300-894,leng1262,http://concepticon.clld.org/parameters/707,m-(poss)-lwan-akme,remember
+300-444,leng1262,http://concepticon.clld.org/parameters/1523,-ki-lwan-k-akme,forget
+300-757,leng1262,http://concepticon.clld.org/parameters/989,-ky-athny-owu,"clear, plain"
+300-936,leng1262,http://concepticon.clld.org/parameters/1121,-yiɬam-athči,secret
+300-632,leng1262,http://concepticon.clld.org/parameters/509,naksok sat,"sure, certain"
+300-340,leng1262,http://concepticon.clld.org/parameters/1626,-pe-kis-akɬeyi,explain
+300-16,leng1262,http://concepticon.clld.org/parameters/1308,-yaš-ikme,doubt
+300-593,leng1262,http://concepticon.clld.org/parameters/1841,-pehes-čikme,suspect
+300-164,leng1262,http://concepticon.clld.org/parameters/1902,-yinyo-kyi,betray
+300-212,leng1262,http://concepticon.clld.org/parameters/643,-ky-eme-thči,"need, necessity"
+300-425,leng1262,http://concepticon.clld.org/parameters/686,-ky-ithyo-kyi,easy
+300-935,leng1262,http://concepticon.clld.org/parameters/584,-yintiɬi,difficult
+300-133,leng1262,http://concepticon.clld.org/parameters/1812,-yipkain-či,"try, attempt"
+300-559,leng1262,http://concepticon.clld.org/parameters/488,-te-makɬa,"way, manner"
+300-747,leng1262,http://concepticon.clld.org/parameters/1577,kyinhan,and
+300-331,leng1262,http://concepticon.clld.org/parameters/1577,hahan ~ anhan,and
+300-496,leng1262,http://concepticon.clld.org/parameters/1157,hakte,because
+300-961,leng1262,http://concepticon.clld.org/parameters/1459,ankuk,if
+300-94,leng1262,http://concepticon.clld.org/parameters/1014,eši anhan,or
+300-206,leng1262,http://concepticon.clld.org/parameters/1268,ehai,"yes, affirmative"
+300-169,leng1262,http://concepticon.clld.org/parameters/1269,ma,"no, negative"
+300-730,leng1262,http://concepticon.clld.org/parameters/1239,hathko,how?
+300-332,leng1262,http://concepticon.clld.org/parameters/822,hathko-(poss)-wanɬa,how many?
+300-332,leng1262,http://concepticon.clld.org/parameters/531,hathko-(poss)-wanɬa,how much?
+300-493,leng1262,http://concepticon.clld.org/parameters/1236,yaksa(k),what?
+300-730,leng1262,http://concepticon.clld.org/parameters/1237,hathko,where?
+300-493,leng1262,http://concepticon.clld.org/parameters/727,yaksa(k),which?
+300-85,leng1262,http://concepticon.clld.org/parameters/1270,yaksak taha,why?
+300-879,leng1262,http://concepticon.clld.org/parameters/1363,-paiwa,voice
+300-330,leng1262,http://concepticon.clld.org/parameters/1261,-minaikmas-či,sing
+300-276,leng1262,http://concepticon.clld.org/parameters/715,-won-eha,"shout, cry out"
+300-68,leng1262,http://concepticon.clld.org/parameters/55,-maliŋyo-aha,whisper
+300-262,leng1262,http://concepticon.clld.org/parameters/128,-pakmet-eha,mumble
+300-134,leng1262,http://concepticon.clld.org/parameters/1025,-moh-eha,whistle
+300-31,leng1262,http://concepticon.clld.org/parameters/298,-wehes-čis-ha,"shriek, screech"
+300-276,leng1262,http://concepticon.clld.org/parameters/526,-won-eha,howl
+300-931,leng1262,http://concepticon.clld.org/parameters/1623,-pakmit-kyi,"speak, talk"
+300-552,leng1262,http://concepticon.clld.org/parameters/1866,ka-(poss)-wana-(poss)-paiwa,"stutter, stammer"
+300-861,leng1262,http://concepticon.clld.org/parameters/1458,-taha,say
+300-532,leng1262,http://concepticon.clld.org/parameters/1711,-ki-ltinn-aha,tell story
+300-532,leng1262,http://concepticon.clld.org/parameters/1115,-ki-ltinn-aha,speech (make a)
+300-344,leng1262,http://concepticon.clld.org/parameters/48,-wan-ma-kyi,silent (be)
+300-879,leng1262,http://concepticon.clld.org/parameters/1307,-paiwa,language
+300-879,leng1262,http://concepticon.clld.org/parameters/1599,-paiwa,word
+300-460,leng1262,http://concepticon.clld.org/parameters/1405,-wisaia,name
+300-365,leng1262,http://concepticon.clld.org/parameters/1309,-ki-lmathna-kyi,"ask (question, inquire)"
+300-415,leng1262,http://concepticon.clld.org/parameters/1275,-ky-atiŋma-kyi,answer
+300-951,leng1262,http://concepticon.clld.org/parameters/2022,-ki-ltinnas-owu-(poss)-wisaia,"admit, confess"
+300-365,leng1262,http://concepticon.clld.org/parameters/1828,-ki-lmathna-kyi,"ask, request"
+300-528,leng1262,http://concepticon.clld.org/parameters/1675,-pitkin-kyi-(poss)-paiwa,promise
+300-764,leng1262,http://concepticon.clld.org/parameters/49,-miyo-kyi,refuse
+300-498,leng1262,http://concepticon.clld.org/parameters/83,-ki-las-či ithma,forbid
+300-450,leng1262,http://concepticon.clld.org/parameters/299,-ki-lyimatčis-aha,"rebuke, scold"
+300-427,leng1262,http://concepticon.clld.org/parameters/1084,-ky-okha,call (=summon)
+300-777,leng1262,http://concepticon.clld.org/parameters/180,-times-čis-či-(poss)-wisaia,call (=name)
+300-900,leng1262,http://concepticon.clld.org/parameters/101,kyethko-(poss)-paiwa,boast
+300-72,leng1262,http://concepticon.clld.org/parameters/1672,-taɬes-či,write
+300-805,leng1262,http://concepticon.clld.org/parameters/724,-ki-lyitsat-či,read
+300-118,leng1262,http://concepticon.clld.org/parameters/648,waikyahak,paper
+300-111,leng1262,http://concepticon.clld.org/parameters/794,-taɬes-čama,pen
+300-118,leng1262,http://concepticon.clld.org/parameters/963,waikyahak,book
+300-203,leng1262,http://concepticon.clld.org/parameters/908,waiŋ-kyi,drum
+300-319,leng1262,http://concepticon.clld.org/parameters/2136,-kyapkyahas-čama,"horn, trumpet"
+300-353,leng1262,http://concepticon.clld.org/parameters/300,kyaiyi,rattle
+300-792,leng1262,http://concepticon.clld.org/parameters/1300,yokɬ-ithma,country
+300-820,leng1262,http://concepticon.clld.org/parameters/89,-ky-okɬa,one's native country
+300-248,leng1262,http://concepticon.clld.org/parameters/1391,tiŋma wanyam,"city, town"
+300-729,leng1262,http://concepticon.clld.org/parameters/930,tiŋma,village
+300-825,leng1262,http://concepticon.clld.org/parameters/1010,nethla ɬapup,boundary
+300-646,leng1262,http://concepticon.clld.org/parameters/789,enɬit-ak,people (populace)
+300-27,leng1262,http://concepticon.clld.org/parameters/301,wiši,"chief, chieftain"
+300-770,leng1262,http://concepticon.clld.org/parameters/1296,-taskhapa-ikha,"staff, walking stick"
+300-584,leng1262,http://concepticon.clld.org/parameters/1846,-time wiši,"rule, govern"
+300-659,leng1262,http://concepticon.clld.org/parameters/1508,wiši ap-wanyam,"king, ruler"
+300-165,leng1262,http://concepticon.clld.org/parameters/1306,wiši ik-wanyam,queen
+300-27,leng1262,http://concepticon.clld.org/parameters/383,wiši,master
+300-309,leng1262,http://concepticon.clld.org/parameters/255,-ki-lan-ekha,servant
+300-322,leng1262,http://concepticon.clld.org/parameters/1128,-ky-inai-kyi,"command, order"
+300-887,leng1262,http://concepticon.clld.org/parameters/1635,-ki-lyahakɬoho,obey
+300-819,leng1262,http://concepticon.clld.org/parameters/1003,-ky-owu,"let, permit"
+300-120,leng1262,http://concepticon.clld.org/parameters/1325,-ɬiŋ-ithma,"friend, companion"
+300-49,leng1262,http://concepticon.clld.org/parameters/1358,m-(poss)-tnaha iŋ-mowuk,enemy
+300-440,leng1262,http://concepticon.clld.org/parameters/1332,-howuɬama,neighbor
+300-412,leng1262,http://concepticon.clld.org/parameters/791,pok enɬit,stranger
+300-921,leng1262,http://concepticon.clld.org/parameters/1782,maikyaa,guest
+300-737,leng1262,http://concepticon.clld.org/parameters/1545,-kyape-kha,host
+300-968,leng1262,http://concepticon.clld.org/parameters/1897,-pasm-eyi,"help, aid"
+300-106,leng1262,http://concepticon.clld.org/parameters/1550,-ki-lyas-č-ithma,"hinder, prevent"
+300-609,leng1262,http://concepticon.clld.org/parameters/1747,-time,custom
+300-520,leng1262,http://concepticon.clld.org/parameters/1848,ik-lo-paiwa,"strife, quarrel"
+300-313,leng1262,http://concepticon.clld.org/parameters/1831,-tahany-owu,meet
+300-973,leng1262,http://concepticon.clld.org/parameters/1610,kilana miɬanma,prostitute
+300-139,leng1262,http://concepticon.clld.org/parameters/1423,-ky-impakha-iyi,fight (vb)
+300-473,leng1262,http://concepticon.clld.org/parameters/579,ky-impakha-pma,"war, battle"
+300-855,leng1262,http://concepticon.clld.org/parameters/1338,wanmak-ithma,peace
+300-685,leng1262,http://concepticon.clld.org/parameters/1941,sel-pithtet-a-mo,soldier
+300-628,leng1262,http://concepticon.clld.org/parameters/951,kyel-maikha kyimpakhap-ma,"weapons, arms"
+300-899,leng1262,http://concepticon.clld.org/parameters/387,milwaktama,sling
+300-720,leng1262,http://concepticon.clld.org/parameters/994,pithpath,bow
+300-557,leng1262,http://concepticon.clld.org/parameters/977,yanči,arrow
+300-84,leng1262,http://concepticon.clld.org/parameters/945,hewa,spear
+300-761,leng1262,http://concepticon.clld.org/parameters/945,sohewa,spear
+300-179,leng1262,http://concepticon.clld.org/parameters/1535,sowu ik-winakte,sword
+300-735,leng1262,http://concepticon.clld.org/parameters/1566,enmaŋa,"gun, cannon"
+300-614,leng1262,http://concepticon.clld.org/parameters/1061,-ky-ahapkasa-map,armor (defensive)
+300-403,leng1262,http://concepticon.clld.org/parameters/1671,tiŋma netin,tower
+300-5,leng1262,http://concepticon.clld.org/parameters/783,-kilnap-kyi,victory
+300-64,leng1262,http://concepticon.clld.org/parameters/782,se-lnap-ma,defeat
+300-862,leng1262,http://concepticon.clld.org/parameters/722,-tahanyak pok,attack
+300-924,leng1262,http://concepticon.clld.org/parameters/1330,-ki-laith-čis-či,defend
+300-187,leng1262,http://concepticon.clld.org/parameters/421,-yeŋ-kyi,retreat
+300-291,leng1262,http://concepticon.clld.org/parameters/1696,-me-ase-kpo,surrender
+300-55,leng1262,http://concepticon.clld.org/parameters/1072,-kilmoma-p,"captive, prisoner"
+300-127,leng1262,http://concepticon.clld.org/parameters/1858,tiŋye-kilasma,fisherman
+300-893,leng1262,http://concepticon.clld.org/parameters/1074,sowuk-haɬe,fishhook
+300-503,leng1262,http://concepticon.clld.org/parameters/19,kilasma tama,fishing line
+300-445,leng1262,http://concepticon.clld.org/parameters/388,yam-aiyin,fishnet
+300-753,leng1262,http://concepticon.clld.org/parameters/2013,niŋ-egyak-to,bait
+300-315,leng1262,http://concepticon.clld.org/parameters/1435,-mimpak-wukme,hunt
+300-261,leng1262,http://concepticon.clld.org/parameters/1172,-makta-iyi,shoot
+300-8,leng1262,http://concepticon.clld.org/parameters/161,m-(poss)-lins-eyi,miss (target)
+300-850,leng1262,http://concepticon.clld.org/parameters/1075,ki-lhan-ma,trap (noun)
+300-582,leng1262,http://concepticon.clld.org/parameters/1170,ki-lhan-či,trap (vb)
+300-234,leng1262,http://concepticon.clld.org/parameters/1818,-yikpilč-owu,judge (vb)
+300-642,leng1262,http://concepticon.clld.org/parameters/1067,siŋ-yikpilč-emo,judgment
+300-424,leng1262,http://concepticon.clld.org/parameters/861,siŋ-yikpilč-amo,judge (noun)
+300-411,leng1262,http://concepticon.clld.org/parameters/1144,-liŋas-čama,witness
+300-708,leng1262,http://concepticon.clld.org/parameters/1814,-sithninaik,accuse
+300-70,leng1262,http://concepticon.clld.org/parameters/484,-ɬen-čik-(poss)-m-(poss)-so,condemn
+300-19,leng1262,http://concepticon.clld.org/parameters/983,wita-thči-(poss)-m-(poss)-so,convict (vb)
+300-810,leng1262,http://concepticon.clld.org/parameters/1682,-sithnanea-thči,guilty
+300-348,leng1262,http://concepticon.clld.org/parameters/90,m-(poss)-sithnane-kpe,innocent
+300-104,leng1262,http://concepticon.clld.org/parameters/390,-ki-lyikpithčit-ma,"penalty, punishment"
+300-838,leng1262,http://concepticon.clld.org/parameters/1281,sel-pithteta-makɬa,"prison, jail"
+300-746,leng1262,http://concepticon.clld.org/parameters/845,ky-akhe enɬit,murder
+300-191,leng1262,http://concepticon.clld.org/parameters/953,-towas-eha inkilana,rape
+300-247,leng1262,http://concepticon.clld.org/parameters/713,-minyith-či,steal
+300-626,leng1262,http://concepticon.clld.org/parameters/1160,minyith-ma,thief
+300-953,leng1262,http://concepticon.clld.org/parameters/1944,[Dios],God
+300-297,leng1262,http://concepticon.clld.org/parameters/911,nim-paiwa ɬankuk,"temple, church"
+300-884,leng1262,http://concepticon.clld.org/parameters/257,-paikis-čamo,worship
+300-232,leng1262,http://concepticon.clld.org/parameters/24,-kye-lmathna-kyi [Dios],pray
+300-972,leng1262,http://concepticon.clld.org/parameters/852,ho-iŋ-yapam,priest
+300-682,leng1262,http://concepticon.clld.org/parameters/1702,aksak paŋkan-ma,"holy, sacred"
+300-532,leng1262,http://concepticon.clld.org/parameters/304,-ki-ltinn-aha,preach
+300-569,leng1262,http://concepticon.clld.org/parameters/391,-watikhap-kas-či,bless
+300-477,leng1262,http://concepticon.clld.org/parameters/8,maso-(poss)-paiwa,curse
+300-96,leng1262,http://concepticon.clld.org/parameters/303,m-(poss)-maihe-(poss)-to,fast (vb)
+300-359,leng1262,http://concepticon.clld.org/parameters/1565,netin,heaven
+300-369,leng1262,http://concepticon.clld.org/parameters/1973,kilyikhama,demon (evil spirit)
+300-98,leng1262,http://concepticon.clld.org/parameters/1945,aksak kye-laikmas-čis-čama,idol
+300-71,leng1262,http://concepticon.clld.org/parameters/392,yihothma aptamhaikha,"magic, witchcraft, sorcery"
+300-567,leng1262,http://concepticon.clld.org/parameters/2137,yihothma,"sorcerer, witch"
+300-521,leng1262,http://concepticon.clld.org/parameters/1175,haŋak,"ghost, phantom"

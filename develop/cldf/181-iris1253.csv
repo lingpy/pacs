@@ -1,0 +1,2421 @@
+ID,Language_ID,Feature_ID,Value,Concept
+181-1090,iris1253,http://concepticon.clld.org/parameters/965,domhan,world
+181-1225,iris1253,http://concepticon.clld.org/parameters/965,saol,world
+181-928,iris1253,http://concepticon.clld.org/parameters/626,talamh,"earth, land"
+181-170,iris1253,http://concepticon.clld.org/parameters/626,tír,"earth, land"
+181-1640,iris1253,http://concepticon.clld.org/parameters/1228,ithir,"earth=ground, soil"
+181-928,iris1253,http://concepticon.clld.org/parameters/1228,talamh,"earth=ground, soil"
+181-90,iris1253,http://concepticon.clld.org/parameters/1228,cré,"earth=ground, soil"
+181-1293,iris1253,http://concepticon.clld.org/parameters/1228,fód,"earth=ground, soil"
+181-1767,iris1253,http://concepticon.clld.org/parameters/2,deannach,dust
+181-603,iris1253,http://concepticon.clld.org/parameters/2,smúit,dust
+181-90,iris1253,http://concepticon.clld.org/parameters/2,cré,dust
+181-2074,iris1253,http://concepticon.clld.org/parameters/640,puiteach,mud
+181-953,iris1253,http://concepticon.clld.org/parameters/640,láib,mud
+181-1884,iris1253,http://concepticon.clld.org/parameters/640,pluda,mud
+181-597,iris1253,http://concepticon.clld.org/parameters/640,lathach,mud
+181-1438,iris1253,http://concepticon.clld.org/parameters/640,draoib,mud
+181-614,iris1253,http://concepticon.clld.org/parameters/640,clábar,mud
+181-287,iris1253,http://concepticon.clld.org/parameters/640,glár,mud
+181-1760,iris1253,http://concepticon.clld.org/parameters/671,gaineamh,sand
+181-1745,iris1253,http://concepticon.clld.org/parameters/2118,sliabh,"mountain, hill"
+181-587,iris1253,http://concepticon.clld.org/parameters/2118,cnoc,"mountain, hill"
+181-985,iris1253,http://concepticon.clld.org/parameters/2118,tulach,"mountain, hill"
+181-1374,iris1253,http://concepticon.clld.org/parameters/2118,ard,"mountain, hill"
+181-1524,iris1253,http://concepticon.clld.org/parameters/2118,beann,"mountain, hill"
+181-410,iris1253,http://concepticon.clld.org/parameters/652,machaire,"plain, field"
+181-723,iris1253,http://concepticon.clld.org/parameters/652,má,"plain, field"
+181-1546,iris1253,http://concepticon.clld.org/parameters/921,gleann,valley
+181-810,iris1253,http://concepticon.clld.org/parameters/622,oileán,island
+181-1093,iris1253,http://concepticon.clld.org/parameters/622,inis,island
+181-493,iris1253,http://concepticon.clld.org/parameters/166,mórthír,mainland
+181-858,iris1253,http://concepticon.clld.org/parameters/166,míntír,mainland
+181-1105,iris1253,http://concepticon.clld.org/parameters/166,tír mór,mainland
+181-799,iris1253,http://concepticon.clld.org/parameters/166,Mór-roinn,mainland
+181-1676,iris1253,http://concepticon.clld.org/parameters/166,ilchríoch,mainland
+181-1901,iris1253,http://concepticon.clld.org/parameters/113,cósta,shore
+181-1672,iris1253,http://concepticon.clld.org/parameters/113,trá,shore
+181-1754,iris1253,http://concepticon.clld.org/parameters/1155,uaimh,cave
+181-124,iris1253,http://concepticon.clld.org/parameters/948,uisce,water
+181-1160,iris1253,http://concepticon.clld.org/parameters/1474,farraige,sea
+181-1845,iris1253,http://concepticon.clld.org/parameters/1474,muir,sea
+181-15,iris1253,http://concepticon.clld.org/parameters/258,ciúin,calm (of sea)
+181-319,iris1253,http://concepticon.clld.org/parameters/258,socair,calm (of sea)
+181-2122,iris1253,http://concepticon.clld.org/parameters/259,garbh,rough (of sea)
+181-2108,iris1253,http://concepticon.clld.org/parameters/1768,cúr,foam
+181-1858,iris1253,http://concepticon.clld.org/parameters/1768,coipeadh,foam
+181-272,iris1253,http://concepticon.clld.org/parameters/645,Aigéan,ocean
+181-935,iris1253,http://concepticon.clld.org/parameters/645,bóchna,ocean
+181-811,iris1253,http://concepticon.clld.org/parameters/645,farraige mhór,ocean
+181-1705,iris1253,http://concepticon.clld.org/parameters/624,loch,lake
+181-1555,iris1253,http://concepticon.clld.org/parameters/624,linn,lake
+181-1717,iris1253,http://concepticon.clld.org/parameters/663,cuan,"gulf, bay"
+181-471,iris1253,http://concepticon.clld.org/parameters/663,bá,"gulf, bay"
+181-468,iris1253,http://concepticon.clld.org/parameters/663,camas,"gulf, bay"
+181-812,iris1253,http://concepticon.clld.org/parameters/660,sceir,reef
+181-622,iris1253,http://concepticon.clld.org/parameters/660,fochais,reef
+181-765,iris1253,http://concepticon.clld.org/parameters/1662,rinn,"headland, point"
+181-1137,iris1253,http://concepticon.clld.org/parameters/1662,ceann,"headland, point"
+181-344,iris1253,http://concepticon.clld.org/parameters/978,tonn,wave
+181-1018,iris1253,http://concepticon.clld.org/parameters/978,uain,wave
+181-1527,iris1253,http://concepticon.clld.org/parameters/891,taoide,tide
+181-918,iris1253,http://concepticon.clld.org/parameters/1026,lag trá,lowtide
+181-1618,iris1253,http://concepticon.clld.org/parameters/613,lán mara,hightide
+181-1029,iris1253,http://concepticon.clld.org/parameters/666,abhainn,"river, stream, brook"
+181-987,iris1253,http://concepticon.clld.org/parameters/666,sruth,"river, stream, brook"
+181-337,iris1253,http://concepticon.clld.org/parameters/666,sruthán,"river, stream, brook"
+181-1441,iris1253,http://concepticon.clld.org/parameters/1982,coire guairneáin,whirlpool
+181-262,iris1253,http://concepticon.clld.org/parameters/1982,coire guairdill,whirlpool
+181-1173,iris1253,http://concepticon.clld.org/parameters/1982,coire tuathail,whirlpool
+181-971,iris1253,http://concepticon.clld.org/parameters/2144,tobar,"spring, well"
+181-1911,iris1253,http://concepticon.clld.org/parameters/2144,fuarán,"spring, well"
+181-1443,iris1253,http://concepticon.clld.org/parameters/2144,foinse,"spring, well"
+181-1183,iris1253,http://concepticon.clld.org/parameters/1145,corcach,swamp
+181-1518,iris1253,http://concepticon.clld.org/parameters/1145,riasc,swamp
+181-659,iris1253,http://concepticon.clld.org/parameters/1145,bogach,swamp
+181-1291,iris1253,http://concepticon.clld.org/parameters/1145,corrach,swamp
+181-2114,iris1253,http://concepticon.clld.org/parameters/943,eas,waterfall
+181-1937,iris1253,http://concepticon.clld.org/parameters/420,coill,"woods, forest"
+181-217,iris1253,http://concepticon.clld.org/parameters/906,crann,tree (cf 08.600)
+181-1686,iris1253,http://concepticon.clld.org/parameters/1803,adhmad,wood
+181-99,iris1253,http://concepticon.clld.org/parameters/1803,fiodh-,wood
+181-1113,iris1253,http://concepticon.clld.org/parameters/2125,cloch,"stone, rock"
+181-1708,iris1253,http://concepticon.clld.org/parameters/2125,carraig,"stone, rock"
+181-787,iris1253,http://concepticon.clld.org/parameters/2125,craig,"stone, rock"
+181-284,iris1253,http://concepticon.clld.org/parameters/6,crith talún,earthquake
+181-960,iris1253,http://concepticon.clld.org/parameters/1732,spéir,sky
+181-1885,iris1253,http://concepticon.clld.org/parameters/1732,neamh,sky
+181-699,iris1253,http://concepticon.clld.org/parameters/1343,grian,sun
+181-2062,iris1253,http://concepticon.clld.org/parameters/1313,gealach,moon
+181-1811,iris1253,http://concepticon.clld.org/parameters/1313,ré,moon
+181-1878,iris1253,http://concepticon.clld.org/parameters/1313,éasca,moon
+181-1938,iris1253,http://concepticon.clld.org/parameters/1430,réalta,star
+181-133,iris1253,http://concepticon.clld.org/parameters/1654,tintreach,lightning
+181-1058,iris1253,http://concepticon.clld.org/parameters/1654,splanc,lightning
+181-943,iris1253,http://concepticon.clld.org/parameters/1150,tóirneach,thunder
+181-565,iris1253,http://concepticon.clld.org/parameters/2007,caor,lightning (as striking)
+181-1910,iris1253,http://concepticon.clld.org/parameters/858,stoirm,storm
+181-1145,iris1253,http://concepticon.clld.org/parameters/858,doineann,storm
+181-324,iris1253,http://concepticon.clld.org/parameters/858,anfa,storm
+181-136,iris1253,http://concepticon.clld.org/parameters/1733,tuar cheatha,rainbow
+181-311,iris1253,http://concepticon.clld.org/parameters/1733,bogha báistí,rainbow
+181-1351,iris1253,http://concepticon.clld.org/parameters/630,solus,light (noun)
+181-2007,iris1253,http://concepticon.clld.org/parameters/630,soilse,light (noun)
+181-2059,iris1253,http://concepticon.clld.org/parameters/11,dorchadas,darkness
+181-1909,iris1253,http://concepticon.clld.org/parameters/11,dorchacht,darkness
+181-1043,iris1253,http://concepticon.clld.org/parameters/1388,scáth,"shade, shadow"
+181-121,iris1253,http://concepticon.clld.org/parameters/1977,drúcht,dew
+181-1906,iris1253,http://concepticon.clld.org/parameters/27,aer,air
+181-2002,iris1253,http://concepticon.clld.org/parameters/960,gaoth,wind
+181-900,iris1253,http://concepticon.clld.org/parameters/1489,néal,cloud
+181-145,iris1253,http://concepticon.clld.org/parameters/1489,scamall,cloud
+181-1229,iris1253,http://concepticon.clld.org/parameters/249,ceo,fog
+181-1744,iris1253,http://concepticon.clld.org/parameters/658,fearthainn,rain (noun)
+181-1124,iris1253,http://concepticon.clld.org/parameters/658,báisteach,rain (noun)
+181-1488,iris1253,http://concepticon.clld.org/parameters/784,sneachta,snow (noun)
+181-981,iris1253,http://concepticon.clld.org/parameters/617,leac oighir,ice
+181-394,iris1253,http://concepticon.clld.org/parameters/617,oighear,ice
+181-2033,iris1253,http://concepticon.clld.org/parameters/952,aimsir,weather
+181-283,iris1253,http://concepticon.clld.org/parameters/952,síon,weather
+181-1018,iris1253,http://concepticon.clld.org/parameters/952,uain,weather
+181-357,iris1253,http://concepticon.clld.org/parameters/221,tine,fire
+181-1924,iris1253,http://concepticon.clld.org/parameters/889,lasair,flame (noun)
+181-179,iris1253,http://concepticon.clld.org/parameters/889,bladhm,flame (noun)
+181-2091,iris1253,http://concepticon.clld.org/parameters/889,bladhaire,flame (noun)
+181-305,iris1253,http://concepticon.clld.org/parameters/778,deatach,smoke (noun)
+181-1459,iris1253,http://concepticon.clld.org/parameters/778,toit,smoke (noun)
+181-1949,iris1253,http://concepticon.clld.org/parameters/646,luaith,ashes
+181-1817,iris1253,http://concepticon.clld.org/parameters/67,aibhleog,embers
+181-1058,iris1253,http://concepticon.clld.org/parameters/67,splanc,embers
+181-2144,iris1253,http://concepticon.clld.org/parameters/67,gríosach,embers
+181-1765,iris1253,http://concepticon.clld.org/parameters/141,dóim,burn (vb trans)
+181-167,iris1253,http://concepticon.clld.org/parameters/141,loiscim,burn (vb trans)
+181-1919,iris1253,http://concepticon.clld.org/parameters/737,lasaim,"light, kindle, ignite"
+181-445,iris1253,http://concepticon.clld.org/parameters/127,múch,extinguish
+181-28,iris1253,http://concepticon.clld.org/parameters/1133,cipín,match (noun)
+181-1247,iris1253,http://concepticon.clld.org/parameters/1133,lasán,match (noun)
+181-1748,iris1253,http://concepticon.clld.org/parameters/10,brosna,firewood
+181-2005,iris1253,http://concepticon.clld.org/parameters/10,connadh,firewood
+181-36,iris1253,http://concepticon.clld.org/parameters/1188,gualach,charcoal
+181-2003,iris1253,http://concepticon.clld.org/parameters/1188,fioghual,charcoal
+181-1398,iris1253,http://concepticon.clld.org/parameters/683,duine,"person, human being"
+181-1570,iris1253,http://concepticon.clld.org/parameters/683,neach,"person, human being"
+181-1886,iris1253,http://concepticon.clld.org/parameters/1554,fear,man (vs. woman)
+181-1899,iris1253,http://concepticon.clld.org/parameters/962,bean,woman
+181-695,iris1253,http://concepticon.clld.org/parameters/2263,fireann,male
+181-1096,iris1253,http://concepticon.clld.org/parameters/2260,baineann,female
+181-1932,iris1253,http://concepticon.clld.org/parameters/1366,buachaill,boy
+181-1992,iris1253,http://concepticon.clld.org/parameters/1366,gasúr,boy
+181-29,iris1253,http://concepticon.clld.org/parameters/1366,garsún,boy
+181-510,iris1253,http://concepticon.clld.org/parameters/76,ógánach,young man (adolescent)
+181-1114,iris1253,http://concepticon.clld.org/parameters/76,aosánach,young man (adolescent)
+181-2149,iris1253,http://concepticon.clld.org/parameters/76,macaomh,young man (adolescent)
+181-122,iris1253,http://concepticon.clld.org/parameters/76,ógfhear,young man (adolescent)
+181-1995,iris1253,http://concepticon.clld.org/parameters/76,stócach,young man (adolescent)
+181-1663,iris1253,http://concepticon.clld.org/parameters/1646,cailín,girl
+181-1003,iris1253,http://concepticon.clld.org/parameters/1646,caile,girl
+181-257,iris1253,http://concepticon.clld.org/parameters/1646,gearrchaile,girl
+181-295,iris1253,http://concepticon.clld.org/parameters/1646,girseach,girl
+181-2159,iris1253,http://concepticon.clld.org/parameters/77,iníon (nighean),young woman (adolescent)
+181-861,iris1253,http://concepticon.clld.org/parameters/77,ógbhean,young woman (adolescent)
+181-1962,iris1253,http://concepticon.clld.org/parameters/77,maighdean,young woman (adolescent)
+181-1531,iris1253,http://concepticon.clld.org/parameters/77,bruinneall,young woman (adolescent)
+181-1809,iris1253,http://concepticon.clld.org/parameters/1304,leanbh,child
+181-234,iris1253,http://concepticon.clld.org/parameters/1304,páiste,child
+181-762,iris1253,http://concepticon.clld.org/parameters/1304,tachrán,child
+181-282,iris1253,http://concepticon.clld.org/parameters/1289,naí,"infant, baby"
+181-832,iris1253,http://concepticon.clld.org/parameters/1289,naínán,"infant, baby"
+181-1304,iris1253,http://concepticon.clld.org/parameters/1289,leanbán,"infant, baby"
+181-1824,iris1253,http://concepticon.clld.org/parameters/1289,páistín,"infant, baby"
+181-1886,iris1253,http://concepticon.clld.org/parameters/1200,fear,husband
+181-972,iris1253,http://concepticon.clld.org/parameters/1200,fear chéile,husband
+181-61,iris1253,http://concepticon.clld.org/parameters/1200,céile,husband
+181-1899,iris1253,http://concepticon.clld.org/parameters/1199,bean,wife
+181-842,iris1253,http://concepticon.clld.org/parameters/1199,bean chéile,wife
+181-61,iris1253,http://concepticon.clld.org/parameters/1199,céile,wife
+181-135,iris1253,http://concepticon.clld.org/parameters/203,pós,marry
+181-1136,iris1253,http://concepticon.clld.org/parameters/1259,pósadh,"marriage, wedding"
+181-444,iris1253,http://concepticon.clld.org/parameters/1134,colscaradh,divorce
+181-1023,iris1253,http://concepticon.clld.org/parameters/1217,athair,father
+181-712,iris1253,http://concepticon.clld.org/parameters/1216,máthair,mother
+181-951,iris1253,http://concepticon.clld.org/parameters/505,tuismitheoirí,parents
+181-664,iris1253,http://concepticon.clld.org/parameters/1620,mac,son
+181-2159,iris1253,http://concepticon.clld.org/parameters/1357,iníon (nighean),daughter
+181-372,iris1253,http://concepticon.clld.org/parameters/1262,deartháir (dearbhráthair),brother
+181-1367,iris1253,http://concepticon.clld.org/parameters/1263,deirfiúr (deirbhshiúr),sister
+181-131,iris1253,http://concepticon.clld.org/parameters/1005,cúpla,twins
+181-1821,iris1253,http://concepticon.clld.org/parameters/1383,seanathair,grandfather
+181-757,iris1253,http://concepticon.clld.org/parameters/406,seanfhear,old man
+181-1532,iris1253,http://concepticon.clld.org/parameters/1496,seanmháthair,grandmother
+181-403,iris1253,http://concepticon.clld.org/parameters/907,seanbhean,old woman
+181-991,iris1253,http://concepticon.clld.org/parameters/1618,garmhac,grandson
+181-335,iris1253,http://concepticon.clld.org/parameters/1618,ua (ó),grandson
+181-1723,iris1253,http://concepticon.clld.org/parameters/1619,gariníon,granddaughter
+181-909,iris1253,http://concepticon.clld.org/parameters/1327,uncail,uncle
+181-820,iris1253,http://concepticon.clld.org/parameters/1272,aint,aunt
+181-139,iris1253,http://concepticon.clld.org/parameters/1272,aintín,aunt
+181-760,iris1253,http://concepticon.clld.org/parameters/1063,nia,nephew
+181-571,iris1253,http://concepticon.clld.org/parameters/1642,neacht,niece
+181-608,iris1253,http://concepticon.clld.org/parameters/1643,col ceathar,cousin
+181-1428,iris1253,http://concepticon.clld.org/parameters/1669,sinsear,ancestors
+181-1257,iris1253,http://concepticon.clld.org/parameters/490,sliocht,descendants
+181-461,iris1253,http://concepticon.clld.org/parameters/2255,athair céile,father-in-law (of a man)
+181-1724,iris1253,http://concepticon.clld.org/parameters/2256,máthair céile,mother-in-law (of a man)
+181-1508,iris1253,http://concepticon.clld.org/parameters/2267,cliamhain,son-in-law (of a man)
+181-1907,iris1253,http://concepticon.clld.org/parameters/2265,banchliamhain,daughter-in-law (of a man)
+181-412,iris1253,http://concepticon.clld.org/parameters/237,leasathair,stepfather
+181-1792,iris1253,http://concepticon.clld.org/parameters/236,leasmháthair,stepmother
+181-889,iris1253,http://concepticon.clld.org/parameters/1059,leasmhac,stepson
+181-216,iris1253,http://concepticon.clld.org/parameters/1058,leasiníon,stepdaughter
+181-866,iris1253,http://concepticon.clld.org/parameters/1149,dílleachta,orphan
+181-315,iris1253,http://concepticon.clld.org/parameters/1756,baintreach (baintreabhach),widow
+181-387,iris1253,http://concepticon.clld.org/parameters/1981,baintreach fir,widower
+181-1622,iris1253,http://concepticon.clld.org/parameters/1644,gaolta,"relatives, kinsmen"
+181-676,iris1253,http://concepticon.clld.org/parameters/1644,muintear,"relatives, kinsmen"
+181-655,iris1253,http://concepticon.clld.org/parameters/194,clann,family
+181-280,iris1253,http://concepticon.clld.org/parameters/194,teaghlach,family
+181-247,iris1253,http://concepticon.clld.org/parameters/1209,mé,I
+181-1267,iris1253,http://concepticon.clld.org/parameters/1209,mise,I
+181-1061,iris1253,http://concepticon.clld.org/parameters/1215,tú,you (singular)
+181-2086,iris1253,http://concepticon.clld.org/parameters/1215,thú,you (singular)
+181-557,iris1253,http://concepticon.clld.org/parameters/1215,tusa,you (singular)
+181-759,iris1253,http://concepticon.clld.org/parameters/1215,thusa,you (singular)
+181-1601,iris1253,http://concepticon.clld.org/parameters/262,sé,he/she/it
+181-1790,iris1253,http://concepticon.clld.org/parameters/262,sí,he/she/it
+181-1660,iris1253,http://concepticon.clld.org/parameters/1212,sinn,we
+181-1850,iris1253,http://concepticon.clld.org/parameters/1212,muid,we
+181-2016,iris1253,http://concepticon.clld.org/parameters/1213,sibh,you (plural)
+181-1868,iris1253,http://concepticon.clld.org/parameters/817,siad,they
+181-769,iris1253,http://concepticon.clld.org/parameters/817,iad,they
+181-1255,iris1253,http://concepticon.clld.org/parameters/619,ainmhí,animal
+181-1669,iris1253,http://concepticon.clld.org/parameters/619,beithíoch,animal
+181-695,iris1253,http://concepticon.clld.org/parameters/2261,fireann,male (adj)
+181-1096,iris1253,http://concepticon.clld.org/parameters/2262,baineann,female (adj)
+181-304,iris1253,http://concepticon.clld.org/parameters/631,stoc,livestock
+181-2084,iris1253,http://concepticon.clld.org/parameters/631,eallach,livestock
+181-656,iris1253,http://concepticon.clld.org/parameters/631,airnéis,livestock
+181-317,iris1253,http://concepticon.clld.org/parameters/649,innilt,pasture
+181-1381,iris1253,http://concepticon.clld.org/parameters/649,féarach,pasture
+181-1932,iris1253,http://concepticon.clld.org/parameters/263,buachaill,herdsman
+181-924,iris1253,http://concepticon.clld.org/parameters/263,aodhaire,herdsman
+181-1115,iris1253,http://concepticon.clld.org/parameters/851,stábla,"stable, stall"
+181-2084,iris1253,http://concepticon.clld.org/parameters/1153,eallach,cattle (bovine)
+181-2095,iris1253,http://concepticon.clld.org/parameters/1153,bólacht,cattle (bovine)
+181-656,iris1253,http://concepticon.clld.org/parameters/1153,airnéis,cattle (bovine)
+181-2155,iris1253,http://concepticon.clld.org/parameters/1153,buar,cattle (bovine)
+181-611,iris1253,http://concepticon.clld.org/parameters/1008,tarbh,bull
+181-1413,iris1253,http://concepticon.clld.org/parameters/1169,damh,ox
+181-791,iris1253,http://concepticon.clld.org/parameters/1007,bó,cow
+181-905,iris1253,http://concepticon.clld.org/parameters/1007,mart,cow
+181-818,iris1253,http://concepticon.clld.org/parameters/1989,lao (laogh),calf
+181-191,iris1253,http://concepticon.clld.org/parameters/1989,gamhain,calf
+181-801,iris1253,http://concepticon.clld.org/parameters/1331,caora,sheep
+181-1857,iris1253,http://concepticon.clld.org/parameters/1344,reithe,ram
+181-801,iris1253,http://concepticon.clld.org/parameters/1345,caora,ewe
+181-110,iris1253,http://concepticon.clld.org/parameters/820,uan,lamb
+181-2137,iris1253,http://concepticon.clld.org/parameters/1348,collach,boar
+181-685,iris1253,http://concepticon.clld.org/parameters/1348,torc,boar
+181-1794,iris1253,http://concepticon.clld.org/parameters/1351,cráin,sow (2)
+181-327,iris1253,http://concepticon.clld.org/parameters/1337,muc,pig
+181-126,iris1253,http://concepticon.clld.org/parameters/1337,banbh,pig
+181-1086,iris1253,http://concepticon.clld.org/parameters/1502,gabhar,goat
+181-609,iris1253,http://concepticon.clld.org/parameters/264,boc,he-goat
+181-1320,iris1253,http://concepticon.clld.org/parameters/264,pocán,he-goat
+181-254,iris1253,http://concepticon.clld.org/parameters/1972,meannán,kid
+181-634,iris1253,http://concepticon.clld.org/parameters/615,capall,horse (equine)
+181-173,iris1253,http://concepticon.clld.org/parameters/615,each,horse (equine)
+181-829,iris1253,http://concepticon.clld.org/parameters/936,stail,stallion
+181-958,iris1253,http://concepticon.clld.org/parameters/938,láir,mare
+181-1442,iris1253,http://concepticon.clld.org/parameters/1647,searrach,"foal, colt"
+181-1002,iris1253,http://concepticon.clld.org/parameters/1862,asal,"ass, donkey"
+181-646,iris1253,http://concepticon.clld.org/parameters/890,miúil,mule
+181-1509,iris1253,http://concepticon.clld.org/parameters/265,eánlaithe,fowl
+181-2138,iris1253,http://concepticon.clld.org/parameters/1511,coileach,"cock, rooster"
+181-1128,iris1253,http://concepticon.clld.org/parameters/1514,cearc,hen
+181-2024,iris1253,http://concepticon.clld.org/parameters/1318,sicín,chicken
+181-1331,iris1253,http://concepticon.clld.org/parameters/1318,scalltán,chicken
+181-1076,iris1253,http://concepticon.clld.org/parameters/1318,puiléad,chicken
+181-1251,iris1253,http://concepticon.clld.org/parameters/1318,eirog,chicken
+181-1814,iris1253,http://concepticon.clld.org/parameters/1187,gé,goose
+181-773,iris1253,http://concepticon.clld.org/parameters/1360,lacha,duck
+181-369,iris1253,http://concepticon.clld.org/parameters/539,nead,nest
+181-12,iris1253,http://concepticon.clld.org/parameters/937,éan,bird
+181-161,iris1253,http://concepticon.clld.org/parameters/950,faoileán,seagull
+181-1959,iris1253,http://concepticon.clld.org/parameters/950,faoileóg,seagull
+181-2081,iris1253,http://concepticon.clld.org/parameters/758,corr éisc,heron
+181-956,iris1253,http://concepticon.clld.org/parameters/1905,iolar,eagle
+181-843,iris1253,http://concepticon.clld.org/parameters/307,seabhac,hawk
+181-364,iris1253,http://concepticon.clld.org/parameters/1185,badhbh,vulture
+181-1490,iris1253,http://concepticon.clld.org/parameters/882,pearóid,parrot
+181-1373,iris1253,http://concepticon.clld.org/parameters/913,préachán,crow
+181-803,iris1253,http://concepticon.clld.org/parameters/913,feannóg,crow
+181-1877,iris1253,http://concepticon.clld.org/parameters/913,fiach,crow
+181-678,iris1253,http://concepticon.clld.org/parameters/1853,colm,dove
+181-210,iris1253,http://concepticon.clld.org/parameters/735,ulchabhán,owl
+181-1746,iris1253,http://concepticon.clld.org/parameters/2009,madra,dog
+181-1238,iris1253,http://concepticon.clld.org/parameters/2009,madadh,dog
+181-1788,iris1253,http://concepticon.clld.org/parameters/2009,gadhar,dog
+181-1422,iris1253,http://concepticon.clld.org/parameters/2009,cú,dog
+181-1799,iris1253,http://concepticon.clld.org/parameters/1136,coinín,rabbit
+181-638,iris1253,http://concepticon.clld.org/parameters/1208,cat,cat
+181-1902,iris1253,http://concepticon.clld.org/parameters/309,apasam,opossum
+181-175,iris1253,http://concepticon.clld.org/parameters/2139,luch,"mouse, rat"
+181-716,iris1253,http://concepticon.clld.org/parameters/227,iasc,fish
+181-835,iris1253,http://concepticon.clld.org/parameters/213,eite (éisc),fin (dorsal)
+181-1595,iris1253,http://concepticon.clld.org/parameters/266,lann,fishscale
+181-964,iris1253,http://concepticon.clld.org/parameters/266,gainne,fishscale
+181-1755,iris1253,http://concepticon.clld.org/parameters/1916,geolbhach,gill
+181-1620,iris1253,http://concepticon.clld.org/parameters/598,sliogán,shell
+181-1040,iris1253,http://concepticon.clld.org/parameters/598,blaosc,shell
+181-1138,iris1253,http://concepticon.clld.org/parameters/1110,siorc,shark
+181-1634,iris1253,http://concepticon.clld.org/parameters/1479,muc mhara,"porpoise, dolphin"
+181-1489,iris1253,http://concepticon.clld.org/parameters/957,míol mór,whale
+181-668,iris1253,http://concepticon.clld.org/parameters/1013,eascann (abhann),freshwater eel
+181-1139,iris1253,http://concepticon.clld.org/parameters/522,madadh allta,wolf
+181-681,iris1253,http://concepticon.clld.org/parameters/522,cú allta,wolf
+181-942,iris1253,http://concepticon.clld.org/parameters/522,faolchú,wolf
+181-708,iris1253,http://concepticon.clld.org/parameters/522,mactíre,wolf
+181-1323,iris1253,http://concepticon.clld.org/parameters/1386,leon (leomhan),lion
+181-1835,iris1253,http://concepticon.clld.org/parameters/1820,mathúin (mathghamhain),bear
+181-2097,iris1253,http://concepticon.clld.org/parameters/1820,béar,bear
+181-737,iris1253,http://concepticon.clld.org/parameters/1312,sionnach,fox
+181-115,iris1253,http://concepticon.clld.org/parameters/1312,madra rua,fox
+181-553,iris1253,http://concepticon.clld.org/parameters/1312,madadh rua,fox
+181-382,iris1253,http://concepticon.clld.org/parameters/1936,fia (fiadh),deer
+181-952,iris1253,http://concepticon.clld.org/parameters/1350,moncaí,monkey
+181-809,iris1253,http://concepticon.clld.org/parameters/1350,ápa,monkey
+181-1102,iris1253,http://concepticon.clld.org/parameters/1290,eilifint,elephant
+181-447,iris1253,http://concepticon.clld.org/parameters/1871,camall,camel
+181-1833,iris1253,http://concepticon.clld.org/parameters/620,feithid,insect
+181-613,iris1253,http://concepticon.clld.org/parameters/310,míol,louse
+181-1929,iris1253,http://concepticon.clld.org/parameters/267,sniodh,nit (louse egg)
+181-567,iris1253,http://concepticon.clld.org/parameters/1974,céadchosach,centipede
+181-1403,iris1253,http://concepticon.clld.org/parameters/1538,scairp,scorpion
+181-1494,iris1253,http://concepticon.clld.org/parameters/1575,ciaróg,cockroach
+181-913,iris1253,http://concepticon.clld.org/parameters/587,seangán,ant
+181-138,iris1253,http://concepticon.clld.org/parameters/843,damhán alla,spider
+181-1610,iris1253,http://concepticon.clld.org/parameters/1065,líon,spider web
+181-2055,iris1253,http://concepticon.clld.org/parameters/1065,téada damháin alla,spider web
+181-118,iris1253,http://concepticon.clld.org/parameters/665,beach,bee
+181-1178,iris1253,http://concepticon.clld.org/parameters/1931,céir bheach,beeswax
+181-1440,iris1253,http://concepticon.clld.org/parameters/1931,céire urláir,beeswax
+181-1492,iris1253,http://concepticon.clld.org/parameters/88,coirceog,beehive
+181-206,iris1253,http://concepticon.clld.org/parameters/1517,puch,wasp
+181-792,iris1253,http://concepticon.clld.org/parameters/1504,cuil,fly
+181-51,iris1253,http://concepticon.clld.org/parameters/1504,cuileog,fly
+181-776,iris1253,http://concepticon.clld.org/parameters/95,corrmhíoltóg,"sandfly (midge), gnat"
+181-1083,iris1253,http://concepticon.clld.org/parameters/1509,corrmhíol,mosquito
+181-1659,iris1253,http://concepticon.clld.org/parameters/1219,péist,worm
+181-2065,iris1253,http://concepticon.clld.org/parameters/1219,cruimh,worm
+181-934,iris1253,http://concepticon.clld.org/parameters/1219,cnuimh,worm
+181-349,iris1253,http://concepticon.clld.org/parameters/730,nathair,snake
+181-1481,iris1253,http://concepticon.clld.org/parameters/206,lampróg,firefly
+181-40,iris1253,http://concepticon.clld.org/parameters/1791,féileacán,butterfly
+181-1305,iris1253,http://concepticon.clld.org/parameters/1791,péileacán,butterfly
+181-300,iris1253,http://concepticon.clld.org/parameters/607,dreoilín teaspaigh,grasshopper
+181-1664,iris1253,http://concepticon.clld.org/parameters/1543,seilide,snail
+181-1685,iris1253,http://concepticon.clld.org/parameters/503,frog,frog
+181-119,iris1253,http://concepticon.clld.org/parameters/503,loscann (loscán),frog
+181-1990,iris1253,http://concepticon.clld.org/parameters/632,laghairt,lizard
+181-307,iris1253,http://concepticon.clld.org/parameters/632,earc,lizard
+181-154,iris1253,http://concepticon.clld.org/parameters/1857,crogall,"crocodile, alligator"
+181-251,iris1253,http://concepticon.clld.org/parameters/112,turtar,turtle
+181-456,iris1253,http://concepticon.clld.org/parameters/1480,corp,body
+181-946,iris1253,http://concepticon.clld.org/parameters/1480,colainn,body
+181-691,iris1253,http://concepticon.clld.org/parameters/1480,cabhail,body
+181-2153,iris1253,http://concepticon.clld.org/parameters/763,cneas,"skin, hide"
+181-1311,iris1253,http://concepticon.clld.org/parameters/763,craiceann,"skin, hide"
+181-1573,iris1253,http://concepticon.clld.org/parameters/763,seithe,"skin, hide"
+181-1132,iris1253,http://concepticon.clld.org/parameters/2259,feoil,flesh
+181-474,iris1253,http://concepticon.clld.org/parameters/1040,gruaig,hair (head)
+181-1637,iris1253,http://concepticon.clld.org/parameters/1040,folt,hair (head)
+181-46,iris1253,http://concepticon.clld.org/parameters/678,féasóg,beard
+181-1283,iris1253,http://concepticon.clld.org/parameters/189,fionnadh,body hair
+181-4,iris1253,http://concepticon.clld.org/parameters/189,clúmh,body hair
+181-1051,iris1253,http://concepticon.clld.org/parameters/576,sail chnis,dandruff
+181-1540,iris1253,http://concepticon.clld.org/parameters/946,fuil,blood
+181-1880,iris1253,http://concepticon.clld.org/parameters/946,cró,blood
+181-199,iris1253,http://concepticon.clld.org/parameters/946,folracht,blood
+181-589,iris1253,http://concepticon.clld.org/parameters/525,feith,"vein, artery"
+181-1130,iris1253,http://concepticon.clld.org/parameters/525,artaire,"vein, artery"
+181-1206,iris1253,http://concepticon.clld.org/parameters/1394,cnámh,bone
+181-388,iris1253,http://concepticon.clld.org/parameters/801,easna,rib
+181-66,iris1253,http://concepticon.clld.org/parameters/1393,adharc,horn
+181-1524,iris1253,http://concepticon.clld.org/parameters/1393,beann,horn
+181-923,iris1253,http://concepticon.clld.org/parameters/1220,eireaball,tail
+181-1343,iris1253,http://concepticon.clld.org/parameters/1220,eithre,tail
+181-1585,iris1253,http://concepticon.clld.org/parameters/1291,druim,back
+181-1402,iris1253,http://concepticon.clld.org/parameters/805,dromlach,spine
+181-1700,iris1253,http://concepticon.clld.org/parameters/805,cnámh droma,spine
+181-67,iris1253,http://concepticon.clld.org/parameters/805,spíon,spine
+181-1137,iris1253,http://concepticon.clld.org/parameters/1256,ceann,head
+181-1653,iris1253,http://concepticon.clld.org/parameters/1256,cloigeann,head
+181-1372,iris1253,http://concepticon.clld.org/parameters/1604,ara,"side of head, temple"
+181-1915,iris1253,http://concepticon.clld.org/parameters/1604,uisinn,"side of head, temple"
+181-1653,iris1253,http://concepticon.clld.org/parameters/1605,cloigeann,skull
+181-20,iris1253,http://concepticon.clld.org/parameters/1605,blaosc an chinn,skull
+181-1501,iris1253,http://concepticon.clld.org/parameters/1583,inchinn,brain
+181-1285,iris1253,http://concepticon.clld.org/parameters/1560,aghaidh,face
+181-713,iris1253,http://concepticon.clld.org/parameters/1560,éadan,face
+181-1803,iris1253,http://concepticon.clld.org/parameters/1560,gnúis,face
+181-104,iris1253,http://concepticon.clld.org/parameters/123,clár éadain,forehead
+181-713,iris1253,http://concepticon.clld.org/parameters/123,éadan,forehead
+181-2036,iris1253,http://concepticon.clld.org/parameters/123,clár baithise,forehead
+181-1654,iris1253,http://concepticon.clld.org/parameters/798,giall,jaw
+181-1425,iris1253,http://concepticon.clld.org/parameters/798,corrán,jaw
+181-27,iris1253,http://concepticon.clld.org/parameters/798,carball (carbad),jaw
+181-868,iris1253,http://concepticon.clld.org/parameters/1730,grua (gruadh),cheek
+181-1350,iris1253,http://concepticon.clld.org/parameters/1730,leiceann,cheek
+181-1522,iris1253,http://concepticon.clld.org/parameters/1730,pluca,cheek
+181-1654,iris1253,http://concepticon.clld.org/parameters/1730,giall,cheek
+181-2104,iris1253,http://concepticon.clld.org/parameters/1510,smig,chin
+181-702,iris1253,http://concepticon.clld.org/parameters/1248,súil,eye
+181-962,iris1253,http://concepticon.clld.org/parameters/1248,rosc,eye
+181-1169,iris1253,http://concepticon.clld.org/parameters/1173,mala,eyebrow
+181-1918,iris1253,http://concepticon.clld.org/parameters/1173,braoi,eyebrow
+181-1341,iris1253,http://concepticon.clld.org/parameters/17,mogall súile,eyelid
+181-2066,iris1253,http://concepticon.clld.org/parameters/17,caipín súile,eyelid
+181-274,iris1253,http://concepticon.clld.org/parameters/1540,fabhra,eyelash
+181-672,iris1253,http://concepticon.clld.org/parameters/1655,caochadh,blink
+181-26,iris1253,http://concepticon.clld.org/parameters/1655,bobáil (babáil),blink
+181-1950,iris1253,http://concepticon.clld.org/parameters/1655,sméideadh súil,blink
+181-1335,iris1253,http://concepticon.clld.org/parameters/1655,faiteadh súil,blink
+181-938,iris1253,http://concepticon.clld.org/parameters/1247,cluas,ear
+181-891,iris1253,http://concepticon.clld.org/parameters/32,céir chluaise,earwax
+181-2072,iris1253,http://concepticon.clld.org/parameters/1221,srón,nose
+181-1055,iris1253,http://concepticon.clld.org/parameters/1221,gaosán,nose
+181-464,iris1253,http://concepticon.clld.org/parameters/1221,soc,nose
+181-306,iris1253,http://concepticon.clld.org/parameters/1178,poll sróine,nostril
+181-303,iris1253,http://concepticon.clld.org/parameters/1178,polláire,nostril
+181-1912,iris1253,http://concepticon.clld.org/parameters/208,smuga,mucus (nasal)
+181-703,iris1253,http://concepticon.clld.org/parameters/208,ronna (ronn),mucus (nasal)
+181-2139,iris1253,http://concepticon.clld.org/parameters/674,béal,mouth
+181-645,iris1253,http://concepticon.clld.org/parameters/674,cab,mouth
+181-1146,iris1253,http://concepticon.clld.org/parameters/674,pus,mouth
+181-671,iris1253,http://concepticon.clld.org/parameters/674,cár,mouth
+181-940,iris1253,http://concepticon.clld.org/parameters/674,draid,mouth
+181-979,iris1253,http://concepticon.clld.org/parameters/674,clab,mouth
+181-186,iris1253,http://concepticon.clld.org/parameters/73,gob,beak
+181-1711,iris1253,http://concepticon.clld.org/parameters/73,gulba,beak
+181-1079,iris1253,http://concepticon.clld.org/parameters/478,liopa,lip
+181-645,iris1253,http://concepticon.clld.org/parameters/478,cab,lip
+181-566,iris1253,http://concepticon.clld.org/parameters/478,bruas,lip
+181-2139,iris1253,http://concepticon.clld.org/parameters/478,béal,lip
+181-1805,iris1253,http://concepticon.clld.org/parameters/1205,teanga,tongue
+181-536,iris1253,http://concepticon.clld.org/parameters/1380,fiacail,tooth
+181-1856,iris1253,http://concepticon.clld.org/parameters/1380,déad,tooth
+181-1980,iris1253,http://concepticon.clld.org/parameters/139,drandal,gums
+181-640,iris1253,http://concepticon.clld.org/parameters/139,carball,gums
+181-538,iris1253,http://concepticon.clld.org/parameters/1049,cúlfhiacail,molartooth
+181-146,iris1253,http://concepticon.clld.org/parameters/1049,fiacail chúil,molartooth
+181-1205,iris1253,http://concepticon.clld.org/parameters/1333,muinéal,neck
+181-1680,iris1253,http://concepticon.clld.org/parameters/1333,bráid,neck
+181-1227,iris1253,http://concepticon.clld.org/parameters/1333,píobán,neck
+181-885,iris1253,http://concepticon.clld.org/parameters/1333,scrogall,neck
+181-1321,iris1253,http://concepticon.clld.org/parameters/1347,baic an mhuiníl,nape of neck
+181-807,iris1253,http://concepticon.clld.org/parameters/1347,cuing an mhuiníl,nape of neck
+181-1876,iris1253,http://concepticon.clld.org/parameters/1346,scórnach,throat
+181-151,iris1253,http://concepticon.clld.org/parameters/1346,sceadamnán,throat
+181-1680,iris1253,http://concepticon.clld.org/parameters/1346,bráid,throat
+181-947,iris1253,http://concepticon.clld.org/parameters/1482,gualainn,shoulder
+181-906,iris1253,http://concepticon.clld.org/parameters/172,slinneán,shoulderblade
+181-1279,iris1253,http://concepticon.clld.org/parameters/1994,cnámh smiolgadáin,collarbone
+181-901,iris1253,http://concepticon.clld.org/parameters/1994,dealrachán,collarbone
+181-892,iris1253,http://concepticon.clld.org/parameters/1994,branra bráid,collarbone
+181-1537,iris1253,http://concepticon.clld.org/parameters/1673,lámh,arm
+181-414,iris1253,http://concepticon.clld.org/parameters/1673,sciathán,arm
+181-1237,iris1253,http://concepticon.clld.org/parameters/1886,ascaill,armpit
+181-1177,iris1253,http://concepticon.clld.org/parameters/981,uillinn (uille),elbow
+181-1810,iris1253,http://concepticon.clld.org/parameters/799,caol na láimhe,wrist
+181-1190,iris1253,http://concepticon.clld.org/parameters/799,rosta,wrist
+181-2133,iris1253,http://concepticon.clld.org/parameters/799,bunrí,wrist
+181-1537,iris1253,http://concepticon.clld.org/parameters/1277,lámh,hand
+181-604,iris1253,http://concepticon.clld.org/parameters/1183,bos,palm of hand
+181-1786,iris1253,http://concepticon.clld.org/parameters/1183,dearna,palm of hand
+181-343,iris1253,http://concepticon.clld.org/parameters/1303,méar,finger
+181-1296,iris1253,http://concepticon.clld.org/parameters/1781,ordóg,thumb
+181-1771,iris1253,http://concepticon.clld.org/parameters/1258,ionga,fingernail
+181-1928,iris1253,http://concepticon.clld.org/parameters/72,crúb,claw
+181-2134,iris1253,http://concepticon.clld.org/parameters/72,crobh,claw
+181-766,iris1253,http://concepticon.clld.org/parameters/72,leadán,claw
+181-1771,iris1253,http://concepticon.clld.org/parameters/72,ionga,claw
+181-43,iris1253,http://concepticon.clld.org/parameters/72,ladhar,claw
+181-1296,iris1253,http://concepticon.clld.org/parameters/72,ordóg,claw
+181-333,iris1253,http://concepticon.clld.org/parameters/1297,cos,leg
+181-1692,iris1253,http://concepticon.clld.org/parameters/800,ceathrú,thigh
+181-1116,iris1253,http://concepticon.clld.org/parameters/800,leis,thigh
+181-285,iris1253,http://concepticon.clld.org/parameters/800,láirig,thigh
+181-897,iris1253,http://concepticon.clld.org/parameters/800,sliasaid,thigh
+181-269,iris1253,http://concepticon.clld.org/parameters/498,colpa (coise),calf of leg
+181-1415,iris1253,http://concepticon.clld.org/parameters/498,pluc (na coise),calf of leg
+181-911,iris1253,http://concepticon.clld.org/parameters/1371,glún,knee
+181-333,iris1253,http://concepticon.clld.org/parameters/1301,cos,foot
+181-1978,iris1253,http://concepticon.clld.org/parameters/1301,troigh,foot
+181-54,iris1253,http://concepticon.clld.org/parameters/803,caol na coise,ankle
+181-586,iris1253,http://concepticon.clld.org/parameters/803,murnán,ankle
+181-1416,iris1253,http://concepticon.clld.org/parameters/803,rúitín,ankle
+181-1903,iris1253,http://concepticon.clld.org/parameters/980,sáil,heel
+181-1562,iris1253,http://concepticon.clld.org/parameters/318,lorg coise,footprint
+181-782,iris1253,http://concepticon.clld.org/parameters/318,rian coise,footprint
+181-43,iris1253,http://concepticon.clld.org/parameters/1389,ladhar,toe
+181-128,iris1253,http://concepticon.clld.org/parameters/1389,méar coise,toe
+181-936,iris1253,http://concepticon.clld.org/parameters/1257,eite,wing
+181-383,iris1253,http://concepticon.clld.org/parameters/1257,eiteog,wing
+181-414,iris1253,http://concepticon.clld.org/parameters/1257,sciathán,wing
+181-308,iris1253,http://concepticon.clld.org/parameters/1201,cleite,feather
+181-936,iris1253,http://concepticon.clld.org/parameters/1201,eite,feather
+181-332,iris1253,http://concepticon.clld.org/parameters/1592,ucht,chest
+181-313,iris1253,http://concepticon.clld.org/parameters/1592,cliabhrach,chest
+181-1368,iris1253,http://concepticon.clld.org/parameters/1592,cliabh,chest
+181-1888,iris1253,http://concepticon.clld.org/parameters/1592,brollach,chest
+181-1356,iris1253,http://concepticon.clld.org/parameters/1592,broinne,chest
+181-73,iris1253,http://concepticon.clld.org/parameters/1402,cíoch,breast (of woman)
+181-1662,iris1253,http://concepticon.clld.org/parameters/796,sine,"nipple, teat"
+181-704,iris1253,http://concepticon.clld.org/parameters/796,dide,"nipple, teat"
+181-794,iris1253,http://concepticon.clld.org/parameters/796,ballán cíche,"nipple, teat"
+181-462,iris1253,http://concepticon.clld.org/parameters/154,úth,udder
+181-362,iris1253,http://concepticon.clld.org/parameters/1838,imleacán,navel
+181-710,iris1253,http://concepticon.clld.org/parameters/1223,croí (croidhe),heart
+181-1112,iris1253,http://concepticon.clld.org/parameters/688,scamhóg,lung
+181-1045,iris1253,http://concepticon.clld.org/parameters/1224,ae,liver
+181-748,iris1253,http://concepticon.clld.org/parameters/1224,crua-ae,liver
+181-443,iris1253,http://concepticon.clld.org/parameters/489,ára,kidney
+181-1793,iris1253,http://concepticon.clld.org/parameters/489,duán,kidney
+181-514,iris1253,http://concepticon.clld.org/parameters/1744,liathán,spleen
+181-1074,iris1253,http://concepticon.clld.org/parameters/1744,splín,spleen
+181-583,iris1253,http://concepticon.clld.org/parameters/819,bolg,stomach
+181-516,iris1253,http://concepticon.clld.org/parameters/819,goile,stomach
+181-774,iris1253,http://concepticon.clld.org/parameters/1991,inní,"intestines, guts"
+181-1651,iris1253,http://concepticon.clld.org/parameters/1991,putóga,"intestines, guts"
+181-1568,iris1253,http://concepticon.clld.org/parameters/1991,ionathar,"intestines, guts"
+181-1012,iris1253,http://concepticon.clld.org/parameters/1991,drólanna,"intestines, guts"
+181-838,iris1253,http://concepticon.clld.org/parameters/1991,stéigeacha,"intestines, guts"
+181-265,iris1253,http://concepticon.clld.org/parameters/1681,coim,waist
+181-223,iris1253,http://concepticon.clld.org/parameters/1681,básata,waist
+181-1219,iris1253,http://concepticon.clld.org/parameters/1745,cromán,hip
+181-948,iris1253,http://concepticon.clld.org/parameters/1745,corróg,hip
+181-1435,iris1253,http://concepticon.clld.org/parameters/834,tóin,buttocks
+181-1246,iris1253,http://concepticon.clld.org/parameters/834,más,buttocks
+181-1611,iris1253,http://concepticon.clld.org/parameters/834,tiarpa,buttocks
+181-1761,iris1253,http://concepticon.clld.org/parameters/804,broinn,womb
+181-2080,iris1253,http://concepticon.clld.org/parameters/797,magairle,testicle
+181-610,iris1253,http://concepticon.clld.org/parameters/1222,bod,penis
+181-1725,iris1253,http://concepticon.clld.org/parameters/1222,boidín,penis
+181-788,iris1253,http://concepticon.clld.org/parameters/1222,slat,penis
+181-160,iris1253,http://concepticon.clld.org/parameters/1222,péineas,penis
+181-1563,iris1253,http://concepticon.clld.org/parameters/1222,ball fearga,penis
+181-559,iris1253,http://concepticon.clld.org/parameters/1407,tarraing anáil,"breathe, breath"
+181-1001,iris1253,http://concepticon.clld.org/parameters/1407,anáil,"breathe, breath"
+181-813,iris1253,http://concepticon.clld.org/parameters/1028,déan méanfach,"yawn, gape"
+181-221,iris1253,http://concepticon.clld.org/parameters/162,déan snag,hiccough
+181-1822,iris1253,http://concepticon.clld.org/parameters/162,déanaim fail,hiccough
+181-107,iris1253,http://concepticon.clld.org/parameters/879,casacht,cough
+181-1420,iris1253,http://concepticon.clld.org/parameters/879,casachtach,cough
+181-129,iris1253,http://concepticon.clld.org/parameters/1621,déan sraoth,sneeze
+181-781,iris1253,http://concepticon.clld.org/parameters/1621,lig sraoth,sneeze
+181-1150,iris1253,http://concepticon.clld.org/parameters/126,cuirim allas,perspire
+181-1082,iris1253,http://concepticon.clld.org/parameters/1440,caith seile,spit
+181-1162,iris1253,http://concepticon.clld.org/parameters/1278,cuir amach,vomit
+181-1841,iris1253,http://concepticon.clld.org/parameters/1278,táim ag aiseag,vomit
+181-1065,iris1253,http://concepticon.clld.org/parameters/1278,táim ag urlacan,vomit
+181-1511,iris1253,http://concepticon.clld.org/parameters/1278,sceith,vomit
+181-177,iris1253,http://concepticon.clld.org/parameters/1278,brúcht,vomit
+181-1797,iris1253,http://concepticon.clld.org/parameters/1403,greim a bhaint as,bite
+181-1063,iris1253,http://concepticon.clld.org/parameters/319,lím,lick
+181-669,iris1253,http://concepticon.clld.org/parameters/268,silín,dribble
+181-1236,iris1253,http://concepticon.clld.org/parameters/268,priosla,dribble
+181-541,iris1253,http://concepticon.clld.org/parameters/268,prislín,dribble
+181-1325,iris1253,http://concepticon.clld.org/parameters/268,ronna,dribble
+181-1904,iris1253,http://concepticon.clld.org/parameters/1585,codladh,sleep
+181-1306,iris1253,http://concepticon.clld.org/parameters/1585,codail,sleep
+181-1981,iris1253,http://concepticon.clld.org/parameters/1983,srann,snore
+181-1109,iris1253,http://concepticon.clld.org/parameters/1983,srannadh,snore
+181-1510,iris1253,http://concepticon.clld.org/parameters/1920,brionglóid,dream
+181-1757,iris1253,http://concepticon.clld.org/parameters/1920,aisling,dream
+181-1286,iris1253,http://concepticon.clld.org/parameters/1920,taibhreadh,dream
+181-208,iris1253,http://concepticon.clld.org/parameters/1602,dúisigh,wake up
+181-1701,iris1253,http://concepticon.clld.org/parameters/1602,músclaigh,wake up
+181-261,iris1253,http://concepticon.clld.org/parameters/1159,bromaim,break wind
+181-1815,iris1253,http://concepticon.clld.org/parameters/592,mún,urinate
+181-71,iris1253,http://concepticon.clld.org/parameters/592,déan fual,urinate
+181-644,iris1253,http://concepticon.clld.org/parameters/676,cac,defecate
+181-1487,iris1253,http://concepticon.clld.org/parameters/1785,comhriachtain,have sexual intercourse
+181-16,iris1253,http://concepticon.clld.org/parameters/52,crith,shiver
+181-1647,iris1253,http://concepticon.clld.org/parameters/138,folc,bathe
+181-479,iris1253,http://concepticon.clld.org/parameters/1152,gin,beget (of father)
+181-426,iris1253,http://concepticon.clld.org/parameters/1090,beirtear,born (to be)
+181-2041,iris1253,http://concepticon.clld.org/parameters/1123,torrach,pregnant
+181-899,iris1253,http://concepticon.clld.org/parameters/1123,toircheasach,pregnant
+181-1539,iris1253,http://concepticon.clld.org/parameters/1123,bruinneach,pregnant
+181-741,iris1253,http://concepticon.clld.org/parameters/1123,bruinnighe,pregnant
+181-1336,iris1253,http://concepticon.clld.org/parameters/1087,gabh,conceive
+181-687,iris1253,http://concepticon.clld.org/parameters/1087,coimprím,conceive
+181-825,iris1253,http://concepticon.clld.org/parameters/1422,táim beo,"live, living, life"
+181-1575,iris1253,http://concepticon.clld.org/parameters/1422,mairim,"live, living, life"
+181-1407,iris1253,http://concepticon.clld.org/parameters/1494,faighim bás,"die, dead"
+181-366,iris1253,http://concepticon.clld.org/parameters/1494,éagaim,"die, dead"
+181-156,iris1253,http://concepticon.clld.org/parameters/1494,bás,"die, dead"
+181-1307,iris1253,http://concepticon.clld.org/parameters/1494,marbh,"die, dead"
+181-1862,iris1253,http://concepticon.clld.org/parameters/1904,báite,drowned
+181-1265,iris1253,http://concepticon.clld.org/parameters/1417,maraigh,kill
+181-456,iris1253,http://concepticon.clld.org/parameters/767,corp,corpse
+181-1656,iris1253,http://concepticon.clld.org/parameters/767,corpán,corpse
+181-376,iris1253,http://concepticon.clld.org/parameters/767,marbhán,corpse
+181-1728,iris1253,http://concepticon.clld.org/parameters/1719,cuir (i dtalamh),bury (the dead)
+181-1807,iris1253,http://concepticon.clld.org/parameters/1719,adhlaic,bury (the dead)
+181-1120,iris1253,http://concepticon.clld.org/parameters/1773,uaigh,"grave, tomb"
+181-398,iris1253,http://concepticon.clld.org/parameters/1773,reilig,"grave, tomb"
+181-1239,iris1253,http://concepticon.clld.org/parameters/1773,tuama,"grave, tomb"
+181-526,iris1253,http://concepticon.clld.org/parameters/1773,feart,"grave, tomb"
+181-914,iris1253,http://concepticon.clld.org/parameters/785,tréan,"strong, mighty, powerful"
+181-1390,iris1253,http://concepticon.clld.org/parameters/785,láidir,"strong, mighty, powerful"
+181-986,iris1253,http://concepticon.clld.org/parameters/785,neartmhar,"strong, mighty, powerful"
+181-1547,iris1253,http://concepticon.clld.org/parameters/785,cumhachtach,"strong, mighty, powerful"
+181-551,iris1253,http://concepticon.clld.org/parameters/785,mórchumhachtach,"strong, mighty, powerful"
+181-2110,iris1253,http://concepticon.clld.org/parameters/785,cumasach,"strong, mighty, powerful"
+181-2127,iris1253,http://concepticon.clld.org/parameters/785,éachtach,"strong, mighty, powerful"
+181-1940,iris1253,http://concepticon.clld.org/parameters/785,bríomhar,"strong, mighty, powerful"
+181-123,iris1253,http://concepticon.clld.org/parameters/1601,lag,weak
+181-1382,iris1253,http://concepticon.clld.org/parameters/1601,fann,weak
+181-1661,iris1253,http://concepticon.clld.org/parameters/1601,tréith,weak
+181-380,iris1253,http://concepticon.clld.org/parameters/1601,meirbh,weak
+181-560,iris1253,http://concepticon.clld.org/parameters/1601,leochaileach,weak
+181-1507,iris1253,http://concepticon.clld.org/parameters/1601,meathlaithe,weak
+181-1333,iris1253,http://concepticon.clld.org/parameters/1601,lagbhríoch,weak
+181-1068,iris1253,http://concepticon.clld.org/parameters/1364,slán,"well, health"
+181-780,iris1253,http://concepticon.clld.org/parameters/1364,folláin,"well, health"
+181-1282,iris1253,http://concepticon.clld.org/parameters/1364,sláinte,"well, health"
+181-359,iris1253,http://concepticon.clld.org/parameters/1847,tinn,"sick, sickness"
+181-1123,iris1253,http://concepticon.clld.org/parameters/1847,breoite (breoidhte),"sick, sickness"
+181-1779,iris1253,http://concepticon.clld.org/parameters/1847,tinneas,"sick, sickness"
+181-1299,iris1253,http://concepticon.clld.org/parameters/1847,aicíd,"sick, sickness"
+181-1536,iris1253,http://concepticon.clld.org/parameters/1534,fiabhras,fever
+181-912,iris1253,http://concepticon.clld.org/parameters/1957,ainglis,goiter
+181-2006,iris1253,http://concepticon.clld.org/parameters/102,slaghdán,cold (catarrh)
+181-988,iris1253,http://concepticon.clld.org/parameters/1109,goin,"wound, sore"
+181-363,iris1253,http://concepticon.clld.org/parameters/1109,cneá (cneadh),"wound, sore"
+181-847,iris1253,http://concepticon.clld.org/parameters/1109,créacht,"wound, sore"
+181-1404,iris1253,http://concepticon.clld.org/parameters/1109,leon,"wound, sore"
+181-1363,iris1253,http://concepticon.clld.org/parameters/1148,brú,bruise
+181-5,iris1253,http://concepticon.clld.org/parameters/1148,ball gorm,bruise
+181-1468,iris1253,http://concepticon.clld.org/parameters/1148,ballbhrú,bruise
+181-1052,iris1253,http://concepticon.clld.org/parameters/1903,at,swelling
+181-1317,iris1253,http://concepticon.clld.org/parameters/1903,borradh,swelling
+181-1142,iris1253,http://concepticon.clld.org/parameters/1903,boiric,swelling
+181-1583,iris1253,http://concepticon.clld.org/parameters/1903,meall,swelling
+181-1743,iris1253,http://concepticon.clld.org/parameters/1903,forlíonadh,swelling
+181-1684,iris1253,http://concepticon.clld.org/parameters/148,tochas,itch
+181-1818,iris1253,http://concepticon.clld.org/parameters/1584,spuaic,blister
+181-949,iris1253,http://concepticon.clld.org/parameters/1584,clog,blister
+181-865,iris1253,http://concepticon.clld.org/parameters/1584,léas,blister
+181-82,iris1253,http://concepticon.clld.org/parameters/1584,balscóid,blister
+181-1643,iris1253,http://concepticon.clld.org/parameters/793,neascóid,boil (noun)
+181-1552,iris1253,http://concepticon.clld.org/parameters/1808,angadh,pus
+181-1477,iris1253,http://concepticon.clld.org/parameters/1808,brach,pus
+181-1829,iris1253,http://concepticon.clld.org/parameters/1808,brachadh,pus
+181-1917,iris1253,http://concepticon.clld.org/parameters/1808,braon,pus
+181-2077,iris1253,http://concepticon.clld.org/parameters/1808,sileadh,pus
+181-678,iris1253,http://concepticon.clld.org/parameters/497,colm,scar
+181-957,iris1253,http://concepticon.clld.org/parameters/497,méirscre,scar
+181-862,iris1253,http://concepticon.clld.org/parameters/499,leigheasaim,"cure, heal"
+181-767,iris1253,http://concepticon.clld.org/parameters/499,cneasaím,"cure, heal"
+181-427,iris1253,http://concepticon.clld.org/parameters/499,slánaím,"cure, heal"
+181-1710,iris1253,http://concepticon.clld.org/parameters/499,íocaim,"cure, heal"
+181-140,iris1253,http://concepticon.clld.org/parameters/597,dochtúir,physician
+181-1313,iris1253,http://concepticon.clld.org/parameters/597,lia,physician
+181-1019,iris1253,http://concepticon.clld.org/parameters/1372,leigheas,"medicine, drug"
+181-168,iris1253,http://concepticon.clld.org/parameters/1372,míochaine,"medicine, drug"
+181-1639,iris1253,http://concepticon.clld.org/parameters/1372,cógas,"medicine, drug"
+181-1939,iris1253,http://concepticon.clld.org/parameters/655,nimh,poison
+181-929,iris1253,http://concepticon.clld.org/parameters/1757,tuirseach,"tired, weary"
+181-144,iris1253,http://concepticon.clld.org/parameters/1757,cortha,"tired, weary"
+181-469,iris1253,http://concepticon.clld.org/parameters/168,sos,rest
+181-784,iris1253,http://concepticon.clld.org/parameters/168,scíth,rest
+181-1327,iris1253,http://concepticon.clld.org/parameters/168,suaimhneas,rest
+181-1484,iris1253,http://concepticon.clld.org/parameters/1564,leiscúil,lazy
+181-993,iris1253,http://concepticon.clld.org/parameters/1125,maol,bald
+181-1025,iris1253,http://concepticon.clld.org/parameters/1125,lom,bald
+181-1330,iris1253,http://concepticon.clld.org/parameters/1125,plaiteach,bald
+181-1922,iris1253,http://concepticon.clld.org/parameters/320,bacach,lame
+181-1165,iris1253,http://concepticon.clld.org/parameters/996,bodhar,deaf
+181-2014,iris1253,http://concepticon.clld.org/parameters/1666,balbh,mute
+181-1483,iris1253,http://concepticon.clld.org/parameters/1653,caoch,blind
+181-1587,iris1253,http://concepticon.clld.org/parameters/1653,dall,blind
+181-2158,iris1253,http://concepticon.clld.org/parameters/1463,ar meisce,intoxicated
+181-83,iris1253,http://concepticon.clld.org/parameters/1463,ólta,intoxicated
+181-1590,iris1253,http://concepticon.clld.org/parameters/590,nocht,"naked, bare"
+181-1025,iris1253,http://concepticon.clld.org/parameters/590,lom,"naked, bare"
+181-1208,iris1253,http://concepticon.clld.org/parameters/1336,ith,eat
+181-1607,iris1253,http://concepticon.clld.org/parameters/1336,caith,eat
+181-406,iris1253,http://concepticon.clld.org/parameters/256,bia (biadh),food
+181-1380,iris1253,http://concepticon.clld.org/parameters/256,lón,food
+181-1720,iris1253,http://concepticon.clld.org/parameters/256,beatha,food
+181-790,iris1253,http://concepticon.clld.org/parameters/256,cuid,food
+181-968,iris1253,http://concepticon.clld.org/parameters/1959,amh,raw
+181-1248,iris1253,http://concepticon.clld.org/parameters/1959,dearg,raw
+181-1444,iris1253,http://concepticon.clld.org/parameters/178,aibí,ripe
+181-1151,iris1253,http://concepticon.clld.org/parameters/1958,glas,"green, unripe"
+181-47,iris1253,http://concepticon.clld.org/parameters/1958,anabaí,"green, unripe"
+181-2152,iris1253,http://concepticon.clld.org/parameters/1728,lofa,rotten
+181-711,iris1253,http://concepticon.clld.org/parameters/1728,morgtha,rotten
+181-2112,iris1253,http://concepticon.clld.org/parameters/1728,bréan,rotten
+181-907,iris1253,http://concepticon.clld.org/parameters/1401,óla,drink
+181-828,iris1253,http://concepticon.clld.org/parameters/1401,slog,drink
+181-336,iris1253,http://concepticon.clld.org/parameters/1533,ocras,hunger
+181-1989,iris1253,http://concepticon.clld.org/parameters/1533,gorta,hunger
+181-1989,iris1253,http://concepticon.clld.org/parameters/199,gorta,famine
+181-1581,iris1253,http://concepticon.clld.org/parameters/848,tart,thirst
+181-69,iris1253,http://concepticon.clld.org/parameters/848,íota,thirst
+181-371,iris1253,http://concepticon.clld.org/parameters/1421,diúlaim,suck
+181-701,iris1253,http://concepticon.clld.org/parameters/1421,súim,suck
+181-1271,iris1253,http://concepticon.clld.org/parameters/1421,siolpaim,suck
+181-531,iris1253,http://concepticon.clld.org/parameters/1421,súraic,suck
+181-1772,iris1253,http://concepticon.clld.org/parameters/1421,tarraing,suck
+181-404,iris1253,http://concepticon.clld.org/parameters/321,cogain,chew
+181-674,iris1253,http://concepticon.clld.org/parameters/321,mungail,chew
+181-828,iris1253,http://concepticon.clld.org/parameters/897,slog,swallow
+181-1091,iris1253,http://concepticon.clld.org/parameters/897,alp,swallow
+181-675,iris1253,http://concepticon.clld.org/parameters/129,tacht,choke
+181-204,iris1253,http://concepticon.clld.org/parameters/129,plúch,choke
+181-80,iris1253,http://concepticon.clld.org/parameters/129,calc,choke
+181-134,iris1253,http://concepticon.clld.org/parameters/1100,déan cócaireacht ar,cook
+181-1541,iris1253,http://concepticon.clld.org/parameters/1100,fuin,cook
+181-1369,iris1253,http://concepticon.clld.org/parameters/792,beirigh,boil (vb)
+181-434,iris1253,http://concepticon.clld.org/parameters/792,fiuch,boil (vb)
+181-2141,iris1253,http://concepticon.clld.org/parameters/792,bruith,boil (vb)
+181-258,iris1253,http://concepticon.clld.org/parameters/792,coip,boil (vb)
+181-2147,iris1253,http://concepticon.clld.org/parameters/2146,róst,"roast, fry"
+181-2096,iris1253,http://concepticon.clld.org/parameters/2146,fioch,"roast, fry"
+181-2141,iris1253,http://concepticon.clld.org/parameters/183,bruith,bake
+181-1369,iris1253,http://concepticon.clld.org/parameters/183,beirigh,bake
+181-996,iris1253,http://concepticon.clld.org/parameters/183,bácáil,bake
+181-1069,iris1253,http://concepticon.clld.org/parameters/1143,oigheann,oven
+181-1557,iris1253,http://concepticon.clld.org/parameters/1143,bácús,oven
+181-1819,iris1253,http://concepticon.clld.org/parameters/1462,pota,"pot, cooking vessel"
+181-920,iris1253,http://concepticon.clld.org/parameters/1462,corcán,"pot, cooking vessel"
+181-1837,iris1253,http://concepticon.clld.org/parameters/854,citeal,kettle
+181-1914,iris1253,http://concepticon.clld.org/parameters/854,túlán,kettle
+181-169,iris1253,http://concepticon.clld.org/parameters/854,coire,kettle
+181-1007,iris1253,http://concepticon.clld.org/parameters/31,panna,pan
+181-419,iris1253,http://concepticon.clld.org/parameters/31,friochtán,pan
+181-1319,iris1253,http://concepticon.clld.org/parameters/481,mias,dish
+181-580,iris1253,http://concepticon.clld.org/parameters/480,pláta,plate
+181-1387,iris1253,http://concepticon.clld.org/parameters/1530,babhla,bowl
+181-1740,iris1253,http://concepticon.clld.org/parameters/1530,cuach,bowl
+181-1927,iris1253,http://concepticon.clld.org/parameters/1530,scála,bowl
+181-31,iris1253,http://concepticon.clld.org/parameters/270,crúsca,"pitcher, jug"
+181-1211,iris1253,http://concepticon.clld.org/parameters/270,crúiscín,"pitcher, jug"
+181-392,iris1253,http://concepticon.clld.org/parameters/476,cupán,"cup, drinking vessel"
+181-454,iris1253,http://concepticon.clld.org/parameters/476,corn,"cup, drinking vessel"
+181-1461,iris1253,http://concepticon.clld.org/parameters/271,fochupán,saucer
+181-163,iris1253,http://concepticon.clld.org/parameters/271,sásar,saucer
+181-1808,iris1253,http://concepticon.clld.org/parameters/1378,spúnóg,spoon
+181-1474,iris1253,http://concepticon.clld.org/parameters/1378,liach,spoon
+181-22,iris1253,http://concepticon.clld.org/parameters/1378,ladar,spoon
+181-1365,iris1253,http://concepticon.clld.org/parameters/1352,scian,knife (2)
+181-485,iris1253,http://concepticon.clld.org/parameters/1302,forc,fork (2)
+181-1464,iris1253,http://concepticon.clld.org/parameters/1302,gabhlóg,fork (2)
+181-1795,iris1253,http://concepticon.clld.org/parameters/272,tlú,tongs
+181-353,iris1253,http://concepticon.clld.org/parameters/272,maide briste,tongs
+181-1273,iris1253,http://concepticon.clld.org/parameters/272,ursal,tongs
+181-529,iris1253,http://concepticon.clld.org/parameters/1526,béile,meal (a)
+181-1666,iris1253,http://concepticon.clld.org/parameters/1526,tráth bia,meal (a)
+181-849,iris1253,http://concepticon.clld.org/parameters/1526,proinn,meal (a)
+181-742,iris1253,http://concepticon.clld.org/parameters/1526,séire,meal (a)
+181-2019,iris1253,http://concepticon.clld.org/parameters/1322,bricfeasta,breakfast
+181-1380,iris1253,http://concepticon.clld.org/parameters/768,lón,lunch
+181-1463,iris1253,http://concepticon.clld.org/parameters/768,dinnéar,lunch
+181-1463,iris1253,http://concepticon.clld.org/parameters/1833,dinnéar,dinner
+181-849,iris1253,http://concepticon.clld.org/parameters/1833,proinn,dinner
+181-1242,iris1253,http://concepticon.clld.org/parameters/1833,suipéar,supper
+181-742,iris1253,http://concepticon.clld.org/parameters/1833,séire,supper
+181-1395,iris1253,http://concepticon.clld.org/parameters/275,scamh,peel
+181-503,iris1253,http://concepticon.clld.org/parameters/275,bain an craiceann de,peel
+181-1846,iris1253,http://concepticon.clld.org/parameters/86,criathar,"sieve, strain"
+181-954,iris1253,http://concepticon.clld.org/parameters/86,rilleán criathraigh,"sieve, strain"
+181-2018,iris1253,http://concepticon.clld.org/parameters/1767,scríob,scrape
+181-1538,iris1253,http://concepticon.clld.org/parameters/1767,scrabh,scrape
+181-1395,iris1253,http://concepticon.clld.org/parameters/1767,scamh,scrape
+181-738,iris1253,http://concepticon.clld.org/parameters/1767,cart,scrape
+181-1523,iris1253,http://concepticon.clld.org/parameters/1767,gránaigh,scrape
+181-888,iris1253,http://concepticon.clld.org/parameters/2017,measc,"stir, mix"
+181-328,iris1253,http://concepticon.clld.org/parameters/2017,corraigh,"stir, mix"
+181-1925,iris1253,http://concepticon.clld.org/parameters/2017,suaith,"stir, mix"
+181-763,iris1253,http://concepticon.clld.org/parameters/1368,arán,bread
+181-190,iris1253,http://concepticon.clld.org/parameters/273,taos,dough
+181-1541,iris1253,http://concepticon.clld.org/parameters/274,fuin,knead
+181-1925,iris1253,http://concepticon.clld.org/parameters/274,suaith,knead
+181-1854,iris1253,http://concepticon.clld.org/parameters/1594,min,"meal, flour"
+181-1254,iris1253,http://concepticon.clld.org/parameters/1033,basc,"crush, grind"
+181-391,iris1253,http://concepticon.clld.org/parameters/1033,brúigh,"crush, grind"
+181-1712,iris1253,http://concepticon.clld.org/parameters/1033,meil,"crush, grind"
+181-64,iris1253,http://concepticon.clld.org/parameters/636,muileann,mill
+181-633,iris1253,http://concepticon.clld.org/parameters/224,moirtéar,mortar (2)
+181-821,iris1253,http://concepticon.clld.org/parameters/225,tuairgnín,pestle
+181-1405,iris1253,http://concepticon.clld.org/parameters/225,smíste,pestle
+181-1132,iris1253,http://concepticon.clld.org/parameters/634,feoil,meat
+181-1732,iris1253,http://concepticon.clld.org/parameters/1874,ispín,sausage
+181-103,iris1253,http://concepticon.clld.org/parameters/1874,maróg,sausage
+181-1543,iris1253,http://concepticon.clld.org/parameters/1547,anraith (anbhruith),"soup, broth"
+181-1512,iris1253,http://concepticon.clld.org/parameters/1547,brachán,"soup, broth"
+181-2128,iris1253,http://concepticon.clld.org/parameters/924,glasraí,vegetables
+181-2034,iris1253,http://concepticon.clld.org/parameters/832,pónaire,bean
+181-1602,iris1253,http://concepticon.clld.org/parameters/593,práta,potato
+181-1834,iris1253,http://concepticon.clld.org/parameters/1507,toradh,fruit
+181-164,iris1253,http://concepticon.clld.org/parameters/1507,meas,fruit
+181-1209,iris1253,http://concepticon.clld.org/parameters/1966,scoth,bunch
+181-1591,iris1253,http://concepticon.clld.org/parameters/1966,dos,bunch
+181-1965,iris1253,http://concepticon.clld.org/parameters/1966,dornán,bunch
+181-592,iris1253,http://concepticon.clld.org/parameters/1966,triopall,bunch
+181-2136,iris1253,http://concepticon.clld.org/parameters/1966,táth,bunch
+181-1258,iris1253,http://concepticon.clld.org/parameters/1966,coróg,bunch
+181-1157,iris1253,http://concepticon.clld.org/parameters/1966,glac,bunch
+181-1362,iris1253,http://concepticon.clld.org/parameters/1966,cloigín,bunch
+181-19,iris1253,http://concepticon.clld.org/parameters/322,fige,fig
+181-9,iris1253,http://concepticon.clld.org/parameters/920,fíonchaor,grape
+181-1300,iris1253,http://concepticon.clld.org/parameters/920,caor finiúna,grape
+181-1449,iris1253,http://concepticon.clld.org/parameters/191,cnó,nut
+181-1898,iris1253,http://concepticon.clld.org/parameters/1154,ológ,olive
+181-435,iris1253,http://concepticon.clld.org/parameters/1484,ola,oil
+181-1574,iris1253,http://concepticon.clld.org/parameters/323,saill,"grease, fat"
+181-822,iris1253,http://concepticon.clld.org/parameters/323,blonag,"grease, fat"
+181-1041,iris1253,http://concepticon.clld.org/parameters/323,geir,"grease, fat"
+181-1412,iris1253,http://concepticon.clld.org/parameters/323,méathras,"grease, fat"
+181-1633,iris1253,http://concepticon.clld.org/parameters/323,olar,"grease, fat"
+181-1605,iris1253,http://concepticon.clld.org/parameters/1274,salann,salt
+181-1338,iris1253,http://concepticon.clld.org/parameters/1385,píobar,pepper
+181-1852,iris1253,http://concepticon.clld.org/parameters/942,mil,honey
+181-1355,iris1253,http://concepticon.clld.org/parameters/862,siúcra,sugar
+181-1843,iris1253,http://concepticon.clld.org/parameters/635,bainne,milk (noun)
+181-1039,iris1253,http://concepticon.clld.org/parameters/93,crúigh,milk (vb)
+181-1561,iris1253,http://concepticon.clld.org/parameters/93,bligh,milk (vb)
+181-88,iris1253,http://concepticon.clld.org/parameters/1569,cáis,cheese
+181-381,iris1253,http://concepticon.clld.org/parameters/1245,im,butter
+181-1677,iris1253,http://concepticon.clld.org/parameters/731,deoch,"beverage, drink"
+181-409,iris1253,http://concepticon.clld.org/parameters/941,meá (miodh),mead
+181-887,iris1253,http://concepticon.clld.org/parameters/1524,fíon,wine
+181-1349,iris1253,http://concepticon.clld.org/parameters/1639,beoir,beer
+181-97,iris1253,http://concepticon.clld.org/parameters/1639,leann,beer
+181-2148,iris1253,http://concepticon.clld.org/parameters/744,ubh,egg
+181-384,iris1253,http://concepticon.clld.org/parameters/1556,buíocán,egg yolk
+181-1957,iris1253,http://concepticon.clld.org/parameters/158,cur umat,put on (clothes)
+181-1519,iris1253,http://concepticon.clld.org/parameters/158,cur ort,put on (clothes)
+181-342,iris1253,http://concepticon.clld.org/parameters/158,éidigh,put on (clothes)
+181-1345,iris1253,http://concepticon.clld.org/parameters/158,feistigh,put on (clothes)
+181-1318,iris1253,http://concepticon.clld.org/parameters/1895,éadach,"clothing, clothes"
+181-1533,iris1253,http://concepticon.clld.org/parameters/1895,baill éadaigh,"clothing, clothes"
+181-789,iris1253,http://concepticon.clld.org/parameters/1895,feisteas,"clothing, clothes"
+181-270,iris1253,http://concepticon.clld.org/parameters/1895,ceirteacha,"clothing, clothes"
+181-429,iris1253,http://concepticon.clld.org/parameters/1895,balcaisí,"clothing, clothes"
+181-358,iris1253,http://concepticon.clld.org/parameters/1895,culaith,"clothing, clothes"
+181-2047,iris1253,http://concepticon.clld.org/parameters/881,táilliúr,tailor
+181-1318,iris1253,http://concepticon.clld.org/parameters/1616,éadach,cloth
+181-910,iris1253,http://concepticon.clld.org/parameters/1616,bréid,cloth
+181-834,iris1253,http://concepticon.clld.org/parameters/1616,ceirt,cloth
+181-1289,iris1253,http://concepticon.clld.org/parameters/964,olann,wool
+181-1823,iris1253,http://concepticon.clld.org/parameters/964,snáth,wool
+181-1610,iris1253,http://concepticon.clld.org/parameters/916,líon,"linen, flax"
+181-941,iris1253,http://concepticon.clld.org/parameters/916,línéadach,"linen, flax"
+181-1984,iris1253,http://concepticon.clld.org/parameters/1850,cadás,cotton
+181-804,iris1253,http://concepticon.clld.org/parameters/1850,cotún,cotton
+181-241,iris1253,http://concepticon.clld.org/parameters/1850,canach,cotton
+181-519,iris1253,http://concepticon.clld.org/parameters/1641,síoda,silk
+181-1515,iris1253,http://concepticon.clld.org/parameters/325,feilt,felt
+181-1283,iris1253,http://concepticon.clld.org/parameters/580,fionnadh,fur
+181-4,iris1253,http://concepticon.clld.org/parameters/580,clúmh,fur
+181-226,iris1253,http://concepticon.clld.org/parameters/629,leathar,leather
+181-271,iris1253,http://concepticon.clld.org/parameters/121,sníomh,spin
+181-408,iris1253,http://concepticon.clld.org/parameters/277,fearsaid,spindle
+181-534,iris1253,http://concepticon.clld.org/parameters/277,eiteán,spindle
+181-975,iris1253,http://concepticon.clld.org/parameters/277,mol,spindle
+181-2103,iris1253,http://concepticon.clld.org/parameters/277,próiste,spindle
+181-24,iris1253,http://concepticon.clld.org/parameters/133,figh,weave
+181-1802,iris1253,http://concepticon.clld.org/parameters/1787,seol,loom
+181-1228,iris1253,http://concepticon.clld.org/parameters/1457,fuaigh,sew
+181-275,iris1253,http://concepticon.clld.org/parameters/1382,snáthaid,needle
+181-1419,iris1253,http://concepticon.clld.org/parameters/1382,biorán,needle
+181-1816,iris1253,http://concepticon.clld.org/parameters/1382,dealgán,needle
+181-989,iris1253,http://concepticon.clld.org/parameters/278,meana (meanadh),awl
+181-1823,iris1253,http://concepticon.clld.org/parameters/1161,snáth,thread
+181-130,iris1253,http://concepticon.clld.org/parameters/1161,snáithe,thread
+181-1727,iris1253,http://concepticon.clld.org/parameters/1161,ruainne,thread
+181-2109,iris1253,http://concepticon.clld.org/parameters/157,dathaigh,dye
+181-1682,iris1253,http://concepticon.clld.org/parameters/157,ruaimnigh,dye
+181-428,iris1253,http://concepticon.clld.org/parameters/326,clóca,cloak
+181-334,iris1253,http://concepticon.clld.org/parameters/326,brat,cloak
+181-238,iris1253,http://concepticon.clld.org/parameters/326,fallaing,cloak
+181-990,iris1253,http://concepticon.clld.org/parameters/474,gúna,woman's dress
+181-358,iris1253,http://concepticon.clld.org/parameters/474,culaith,woman's dress
+181-1,iris1253,http://concepticon.clld.org/parameters/603,cóta,coat
+181-1758,iris1253,http://concepticon.clld.org/parameters/603,cóta mór,coat
+181-370,iris1253,http://concepticon.clld.org/parameters/603,seaicéad,coat
+181-2106,iris1253,http://concepticon.clld.org/parameters/603,casóg,coat
+181-147,iris1253,http://concepticon.clld.org/parameters/1622,léine,shirt
+181-2088,iris1253,http://concepticon.clld.org/parameters/2012,bóna,collar
+181-1067,iris1253,http://concepticon.clld.org/parameters/2012,coiléar,collar
+181-1175,iris1253,http://concepticon.clld.org/parameters/2012,muince,collar
+181-1513,iris1253,http://concepticon.clld.org/parameters/1600,sciorta,skirt
+181-1176,iris1253,http://concepticon.clld.org/parameters/809,bríste,trousers
+181-966,iris1253,http://concepticon.clld.org/parameters/809,treabhsar,trousers
+181-259,iris1253,http://concepticon.clld.org/parameters/809,triús,trousers
+181-1722,iris1253,http://concepticon.clld.org/parameters/329,stoca gearr,"stocking, sock"
+181-1028,iris1253,http://concepticon.clld.org/parameters/329,giosán,"stocking, sock"
+181-1768,iris1253,http://concepticon.clld.org/parameters/1381,bróg,shoe
+181-189,iris1253,http://concepticon.clld.org/parameters/585,buatais,boot
+181-1768,iris1253,http://concepticon.clld.org/parameters/585,bróg,boot
+181-1652,iris1253,http://concepticon.clld.org/parameters/875,gréasaí (gréasaidhe),"shoemaker, cobbler"
+181-1431,iris1253,http://concepticon.clld.org/parameters/875,caibléir,"shoemaker, cobbler"
+181-8,iris1253,http://concepticon.clld.org/parameters/2130,hata,"hat, cap"
+181-824,iris1253,http://concepticon.clld.org/parameters/2130,caipín,"hat, cap"
+181-2053,iris1253,http://concepticon.clld.org/parameters/2130,bairéad,"hat, cap"
+181-263,iris1253,http://concepticon.clld.org/parameters/772,crios,"belt, girdle"
+181-1675,iris1253,http://concepticon.clld.org/parameters/867,lámhainn,glove
+181-108,iris1253,http://concepticon.clld.org/parameters/867,miotóg,glove
+181-1784,iris1253,http://concepticon.clld.org/parameters/867,mitín,glove
+181-1264,iris1253,http://concepticon.clld.org/parameters/1151,fial,veil
+181-196,iris1253,http://concepticon.clld.org/parameters/1151,caille,veil
+181-1756,iris1253,http://concepticon.clld.org/parameters/1851,póca,pocket
+181-397,iris1253,http://concepticon.clld.org/parameters/757,cnaipe,button
+181-1419,iris1253,http://concepticon.clld.org/parameters/64,biorán,pin
+181-1630,iris1253,http://concepticon.clld.org/parameters/64,dealg,pin
+181-2070,iris1253,http://concepticon.clld.org/parameters/64,pionna,pin
+181-1752,iris1253,http://concepticon.clld.org/parameters/917,maisiú,"ornament, adornment"
+181-714,iris1253,http://concepticon.clld.org/parameters/917,maise,"ornament, adornment"
+181-2001,iris1253,http://concepticon.clld.org/parameters/917,maisiúchán,"ornament, adornment"
+181-1004,iris1253,http://concepticon.clld.org/parameters/917,ornáideacht,"ornament, adornment"
+181-1529,iris1253,http://concepticon.clld.org/parameters/917,ornaíocht,"ornament, adornment"
+181-1447,iris1253,http://concepticon.clld.org/parameters/917,cóiriú,"ornament, adornment"
+181-2052,iris1253,http://concepticon.clld.org/parameters/1029,seoid,jewel
+181-1830,iris1253,http://concepticon.clld.org/parameters/1029,geam,jewel
+181-1733,iris1253,http://concepticon.clld.org/parameters/1029,cloch bhua,jewel
+181-1410,iris1253,http://concepticon.clld.org/parameters/1029,cloch lómhar,jewel
+181-1034,iris1253,http://concepticon.clld.org/parameters/1029,cloch luachmhar,jewel
+181-1776,iris1253,http://concepticon.clld.org/parameters/1029,cloch uasal,jewel
+181-1472,iris1253,http://concepticon.clld.org/parameters/1374,fáinne,ring (for finger)
+181-709,iris1253,http://concepticon.clld.org/parameters/1754,bráisléad,bracelet
+181-1108,iris1253,http://concepticon.clld.org/parameters/1961,muince (brád),necklace
+181-1762,iris1253,http://concepticon.clld.org/parameters/1961,bráisléad brád,necklace
+181-1113,iris1253,http://concepticon.clld.org/parameters/1860,cloch,bead
+181-2142,iris1253,http://concepticon.clld.org/parameters/1860,cloichín,bead
+181-1943,iris1253,http://concepticon.clld.org/parameters/1860,coirnín,bead
+181-1466,iris1253,http://concepticon.clld.org/parameters/770,fáinne cluaise,earring
+181-1875,iris1253,http://concepticon.clld.org/parameters/770,cnaipe cluaise,earring
+181-1475,iris1253,http://concepticon.clld.org/parameters/68,tatú,tattoo
+181-1887,iris1253,http://concepticon.clld.org/parameters/332,ciarsúr,"handkerchief, rag"
+181-42,iris1253,http://concepticon.clld.org/parameters/332,naipcín póca,"handkerchief, rag"
+181-137,iris1253,http://concepticon.clld.org/parameters/1021,tuáille,towel
+181-2013,iris1253,http://concepticon.clld.org/parameters/1475,cíor,comb
+181-1635,iris1253,http://concepticon.clld.org/parameters/1475,raca,comb
+181-1495,iris1253,http://concepticon.clld.org/parameters/1821,bruis,brush
+181-297,iris1253,http://concepticon.clld.org/parameters/1821,scuab,brush
+181-1008,iris1253,http://concepticon.clld.org/parameters/333,trilsigh,braid
+181-1987,iris1253,http://concepticon.clld.org/parameters/333,dual,braid
+181-806,iris1253,http://concepticon.clld.org/parameters/151,rásúr,razor
+181-1505,iris1253,http://concepticon.clld.org/parameters/1926,ungadh,ointment
+181-2069,iris1253,http://concepticon.clld.org/parameters/788,gallúnach,soap
+181-883,iris1253,http://concepticon.clld.org/parameters/1171,scáthán,mirror
+181-2044,iris1253,http://concepticon.clld.org/parameters/1099,cónaigh,"dwell, live"
+181-2098,iris1253,http://concepticon.clld.org/parameters/1099,áitigh,"dwell, live"
+181-851,iris1253,http://concepticon.clld.org/parameters/1252,teach (toigh),house
+181-1426,iris1253,http://concepticon.clld.org/parameters/1252,áras,house
+181-1392,iris1253,http://concepticon.clld.org/parameters/1678,both,hut
+181-1478,iris1253,http://concepticon.clld.org/parameters/1678,bothán,hut
+181-896,iris1253,http://concepticon.clld.org/parameters/1678,púirín,hut
+181-193,iris1253,http://concepticon.clld.org/parameters/1678,bráca,hut
+181-1589,iris1253,http://concepticon.clld.org/parameters/1316,puball,tent
+181-141,iris1253,http://concepticon.clld.org/parameters/736,clós,"yard, court"
+181-898,iris1253,http://concepticon.clld.org/parameters/334,cistin,cookhouse
+181-310,iris1253,http://concepticon.clld.org/parameters/1450,seomra,room
+181-1469,iris1253,http://concepticon.clld.org/parameters/1567,doras,"door, gate"
+181-1201,iris1253,http://concepticon.clld.org/parameters/1567,geata,"door, gate"
+181-1934,iris1253,http://concepticon.clld.org/parameters/80,ursain,"doorpost, jamb"
+181-1151,iris1253,http://concepticon.clld.org/parameters/1596,glas,lock (noun)
+181-1774,iris1253,http://concepticon.clld.org/parameters/1012,laiste,"latch, door-bolt"
+181-743,iris1253,http://concepticon.clld.org/parameters/1012,bolta,"latch, door-bolt"
+181-211,iris1253,http://concepticon.clld.org/parameters/1472,eochair,key
+181-240,iris1253,http://concepticon.clld.org/parameters/1375,fuinneog,window
+181-1827,iris1253,http://concepticon.clld.org/parameters/1632,urlár,floor
+181-1698,iris1253,http://concepticon.clld.org/parameters/933,balla,wall
+181-446,iris1253,http://concepticon.clld.org/parameters/933,múr,wall
+181-2143,iris1253,http://concepticon.clld.org/parameters/185,teallach,fireplace
+181-684,iris1253,http://concepticon.clld.org/parameters/185,iarta,fireplace
+181-1062,iris1253,http://concepticon.clld.org/parameters/859,sornóg,stove
+181-1099,iris1253,http://concepticon.clld.org/parameters/1305,simléar,chimney
+181-1955,iris1253,http://concepticon.clld.org/parameters/1464,dréimire,ladder
+181-1476,iris1253,http://concepticon.clld.org/parameters/1663,leaba (leabaidh),bed
+181-1217,iris1253,http://concepticon.clld.org/parameters/1044,adhairt,pillow
+181-1026,iris1253,http://concepticon.clld.org/parameters/1044,pilliúr,pillow
+181-70,iris1253,http://concepticon.clld.org/parameters/806,blaincéad,blanket
+181-225,iris1253,http://concepticon.clld.org/parameters/806,pluid,blanket
+181-368,iris1253,http://concepticon.clld.org/parameters/806,súsa,blanket
+181-984,iris1253,http://concepticon.clld.org/parameters/1476,cathaoir,chair
+181-2076,iris1253,http://concepticon.clld.org/parameters/1775,bórd,table
+181-2028,iris1253,http://concepticon.clld.org/parameters/1775,tábla,table
+181-1359,iris1253,http://concepticon.clld.org/parameters/2131,lóchrann,"lamp, torch"
+181-453,iris1253,http://concepticon.clld.org/parameters/2131,lampa,"lamp, torch"
+181-491,iris1253,http://concepticon.clld.org/parameters/2131,solas,"lamp, torch"
+181-1944,iris1253,http://concepticon.clld.org/parameters/1273,coinneal,candle
+181-1288,iris1253,http://concepticon.clld.org/parameters/745,seilf,shelf
+181-1050,iris1253,http://concepticon.clld.org/parameters/205,umar,trough
+181-802,iris1253,http://concepticon.clld.org/parameters/205,trach,trough
+181-1615,iris1253,http://concepticon.clld.org/parameters/205,dabhach,trough
+181-2008,iris1253,http://concepticon.clld.org/parameters/769,díon,roof
+181-1137,iris1253,http://concepticon.clld.org/parameters/769,ceann,roof
+181-360,iris1253,http://concepticon.clld.org/parameters/279,ceann tuí,thatch
+181-418,iris1253,http://concepticon.clld.org/parameters/280,maide mullaigh,ridgepole
+181-903,iris1253,http://concepticon.clld.org/parameters/829,rachta,rafter
+181-326,iris1253,http://concepticon.clld.org/parameters/1132,sail,beam
+181-45,iris1253,http://concepticon.clld.org/parameters/1132,bíoma,beam
+181-1243,iris1253,http://concepticon.clld.org/parameters/281,cuaille,"post, pole"
+181-312,iris1253,http://concepticon.clld.org/parameters/281,cleith,"post, pole"
+181-217,iris1253,http://concepticon.clld.org/parameters/281,crann,"post, pole"
+181-944,iris1253,http://concepticon.clld.org/parameters/281,liúr,"post, pole"
+181-2129,iris1253,http://concepticon.clld.org/parameters/1227,clár,board
+181-227,iris1253,http://concepticon.clld.org/parameters/876,áirse,arch
+181-467,iris1253,http://concepticon.clld.org/parameters/877,saor (cloiche),mason
+181-497,iris1253,http://concepticon.clld.org/parameters/1006,bríce,brick
+181-625,iris1253,http://concepticon.clld.org/parameters/1731,moirtéal,mortar
+181-1274,iris1253,http://concepticon.clld.org/parameters/979,feirmeoir,farmer
+181-148,iris1253,http://concepticon.clld.org/parameters/979,talmhaí,farmer
+181-1030,iris1253,http://concepticon.clld.org/parameters/212,gort,field (for cultivation)
+181-1185,iris1253,http://concepticon.clld.org/parameters/212,cuibhreann,field (for cultivation)
+181-755,iris1253,http://concepticon.clld.org/parameters/212,garraí,field (for cultivation)
+181-1031,iris1253,http://concepticon.clld.org/parameters/586,gairdín,garden
+181-867,iris1253,http://concepticon.clld.org/parameters/586,garraí (garrdha),garden
+181-1796,iris1253,http://concepticon.clld.org/parameters/1541,saothraigh,"cultivate, till"
+181-1763,iris1253,http://concepticon.clld.org/parameters/1541,curadóireacht,"cultivate, till"
+181-753,iris1253,http://concepticon.clld.org/parameters/1690,claí,fence
+181-85,iris1253,http://concepticon.clld.org/parameters/1690,fál,fence
+181-573,iris1253,http://concepticon.clld.org/parameters/1690,sconsa,fence
+181-1900,iris1253,http://concepticon.clld.org/parameters/1690,pionsa,fence
+181-2010,iris1253,http://concepticon.clld.org/parameters/2002,díog,ditch
+181-654,iris1253,http://concepticon.clld.org/parameters/2002,clais,ditch
+181-573,iris1253,http://concepticon.clld.org/parameters/2002,sconsa,ditch
+181-753,iris1253,http://concepticon.clld.org/parameters/2002,claí,ditch
+181-1143,iris1253,http://concepticon.clld.org/parameters/1921,céachta,plow
+181-871,iris1253,http://concepticon.clld.org/parameters/1921,seisreach,plow
+181-864,iris1253,http://concepticon.clld.org/parameters/1921,treabh,plow
+181-654,iris1253,http://concepticon.clld.org/parameters/1794,clais,furrow
+181-1679,iris1253,http://concepticon.clld.org/parameters/1794,eitre,furrow
+181-1133,iris1253,http://concepticon.clld.org/parameters/1794,iomaire,furrow
+181-1071,iris1253,http://concepticon.clld.org/parameters/1418,tochail,dig
+181-2119,iris1253,http://concepticon.clld.org/parameters/1418,rómhair,dig
+181-292,iris1253,http://concepticon.clld.org/parameters/1418,bain,dig
+181-916,iris1253,http://concepticon.clld.org/parameters/1176,láí,spade
+181-1366,iris1253,http://concepticon.clld.org/parameters/1176,rámhainn,spade
+181-997,iris1253,http://concepticon.clld.org/parameters/1176,spád,spade
+181-1035,iris1253,http://concepticon.clld.org/parameters/1901,sluasaid,shovel
+181-354,iris1253,http://concepticon.clld.org/parameters/284,grafán,hoe
+181-515,iris1253,http://concepticon.clld.org/parameters/284,grafóg,hoe
+181-79,iris1253,http://concepticon.clld.org/parameters/337,píce,fork
+181-76,iris1253,http://concepticon.clld.org/parameters/337,forc (féir),fork
+181-1635,iris1253,http://concepticon.clld.org/parameters/338,raca,rake
+181-1127,iris1253,http://concepticon.clld.org/parameters/748,cuirim síol,sow
+181-1597,iris1253,http://concepticon.clld.org/parameters/714,síol,seed
+181-292,iris1253,http://concepticon.clld.org/parameters/190,bain,"mow, reap"
+181-688,iris1253,http://concepticon.clld.org/parameters/190,buain,"mow, reap"
+181-1025,iris1253,http://concepticon.clld.org/parameters/190,lom,"mow, reap"
+181-348,iris1253,http://concepticon.clld.org/parameters/190,speal,"mow, reap"
+181-1425,iris1253,http://concepticon.clld.org/parameters/2132,corrán,"sickle, scythe"
+181-348,iris1253,http://concepticon.clld.org/parameters/2132,speal,"sickle, scythe"
+181-882,iris1253,http://concepticon.clld.org/parameters/285,buailim,thresh
+181-2021,iris1253,http://concepticon.clld.org/parameters/285,súisteáil,thresh
+181-347,iris1253,http://concepticon.clld.org/parameters/223,urlár buailte,threshing-floor
+181-1370,iris1253,http://concepticon.clld.org/parameters/611,barr,"crop, harvest"
+181-1834,iris1253,http://concepticon.clld.org/parameters/611,toradh,"crop, harvest"
+181-14,iris1253,http://concepticon.clld.org/parameters/611,fómhar,"crop, harvest"
+181-1312,iris1253,http://concepticon.clld.org/parameters/605,arbhar,"grain (barley, oats etc)"
+181-373,iris1253,http://concepticon.clld.org/parameters/1077,cruithneacht,wheat
+181-2073,iris1253,http://concepticon.clld.org/parameters/932,eorna,barley
+181-1033,iris1253,http://concepticon.clld.org/parameters/23,seagal,rye
+181-1457,iris1253,http://concepticon.clld.org/parameters/60,coirce,oats
+181-298,iris1253,http://concepticon.clld.org/parameters/506,min bhuí,"maize, corn"
+181-1967,iris1253,http://concepticon.clld.org/parameters/506,arbhar Indiach,"maize, corn"
+181-346,iris1253,http://concepticon.clld.org/parameters/926,rís,rice
+181-618,iris1253,http://concepticon.clld.org/parameters/606,féar,grass
+181-618,iris1253,http://concepticon.clld.org/parameters/342,féar,hay
+181-823,iris1253,http://concepticon.clld.org/parameters/342,féar tirim,hay
+181-452,iris1253,http://concepticon.clld.org/parameters/653,plannda,plant (noun)
+181-1401,iris1253,http://concepticon.clld.org/parameters/653,luibh,plant (noun)
+181-1930,iris1253,http://concepticon.clld.org/parameters/653,lus,plant (noun)
+181-785,iris1253,http://concepticon.clld.org/parameters/1486,cuir,plant (vb)
+181-1777,iris1253,http://concepticon.clld.org/parameters/670,fréamh,root
+181-729,iris1253,http://concepticon.clld.org/parameters/670,rúta,root
+181-278,iris1253,http://concepticon.clld.org/parameters/1531,géag,branch
+181-1167,iris1253,http://concepticon.clld.org/parameters/1531,craobh,branch
+181-1326,iris1253,http://concepticon.clld.org/parameters/1531,brainse,branch
+181-260,iris1253,http://concepticon.clld.org/parameters/628,duilleog,leaf
+181-1095,iris1253,http://concepticon.clld.org/parameters/628,bileog,leaf
+181-754,iris1253,http://concepticon.clld.org/parameters/239,bláth,flower
+181-1433,iris1253,http://concepticon.clld.org/parameters/239,plúr,flower
+181-1499,iris1253,http://concepticon.clld.org/parameters/239,pósae,flower
+181-1209,iris1253,http://concepticon.clld.org/parameters/239,scoth,flower
+181-217,iris1253,http://concepticon.clld.org/parameters/906,crann,tree
+181-1427,iris1253,http://concepticon.clld.org/parameters/906,bile,tree
+181-2025,iris1253,http://concepticon.clld.org/parameters/644,dair,oak
+181-2120,iris1253,http://concepticon.clld.org/parameters/1950,feá,beech
+181-215,iris1253,http://concepticon.clld.org/parameters/1950,fáibhile,beech
+181-1847,iris1253,http://concepticon.clld.org/parameters/1855,beith,birch
+181-509,iris1253,http://concepticon.clld.org/parameters/1740,giúis,pine
+181-1486,iris1253,http://concepticon.clld.org/parameters/1740,péine,pine
+181-509,iris1253,http://concepticon.clld.org/parameters/1915,giúis,fir
+181-2050,iris1253,http://concepticon.clld.org/parameters/968,dearcán,acorn
+181-1606,iris1253,http://concepticon.clld.org/parameters/343,fíniúin,vine
+181-530,iris1253,http://concepticon.clld.org/parameters/343,féithleog,vine
+181-974,iris1253,http://concepticon.clld.org/parameters/974,tobac,tobacco
+181-1270,iris1253,http://concepticon.clld.org/parameters/1689,caithim tobac,smoke (tobacco)
+181-826,iris1253,http://concepticon.clld.org/parameters/1689,ólaim tobac,smoke (tobacco)
+181-670,iris1253,http://concepticon.clld.org/parameters/1124,píopa,pipe
+181-677,iris1253,http://concepticon.clld.org/parameters/241,grágán,tree stump
+181-1344,iris1253,http://concepticon.clld.org/parameters/241,stocán,tree stump
+181-2111,iris1253,http://concepticon.clld.org/parameters/241,bun,tree stump
+181-456,iris1253,http://concepticon.clld.org/parameters/344,corp,tree trunk
+181-304,iris1253,http://concepticon.clld.org/parameters/344,stoc,tree trunk
+181-1084,iris1253,http://concepticon.clld.org/parameters/409,gabhal,forked branch
+181-174,iris1253,http://concepticon.clld.org/parameters/1204,coirt,bark
+181-542,iris1253,http://concepticon.clld.org/parameters/1204,rúsc,bark
+181-1324,iris1253,http://concepticon.clld.org/parameters/345,sú,sap
+181-494,iris1253,http://concepticon.clld.org/parameters/345,súlach,sap
+181-1576,iris1253,http://concepticon.clld.org/parameters/1181,pailm,palm tree
+181-345,iris1253,http://concepticon.clld.org/parameters/970,cnó cócó,coconut
+181-1534,iris1253,http://concepticon.clld.org/parameters/1126,ciotras,citrus fruit
+181-378,iris1253,http://concepticon.clld.org/parameters/868,crann bananaí,banana tree
+181-1864,iris1253,http://concepticon.clld.org/parameters/159,práta Spáinneach,sweet potato
+181-605,iris1253,http://concepticon.clld.org/parameters/410,ionam,yam
+181-187,iris1253,http://concepticon.clld.org/parameters/925,taipióca,"tapioca, manioc, cassava"
+181-1718,iris1253,http://concepticon.clld.org/parameters/411,gurd,gourd
+181-1103,iris1253,http://concepticon.clld.org/parameters/864,puimcín,"pumpkin, squash"
+181-786,iris1253,http://concepticon.clld.org/parameters/1927,bambú,bamboo
+181-735,iris1253,http://concepticon.clld.org/parameters/146,cána siúcra,sugar cane
+181-1608,iris1253,http://concepticon.clld.org/parameters/33,neantóg,nettle
+181-1526,iris1253,http://concepticon.clld.org/parameters/641,beacán,mushroom
+181-1968,iris1253,http://concepticon.clld.org/parameters/641,muisiriún,mushroom
+181-1388,iris1253,http://concepticon.clld.org/parameters/813,déan (do-ghní),"do, make"
+181-1890,iris1253,http://concepticon.clld.org/parameters/984,obair,work
+181-1179,iris1253,http://concepticon.clld.org/parameters/984,saothar,work
+181-950,iris1253,http://concepticon.clld.org/parameters/2004,claon,bend
+181-1645,iris1253,http://concepticon.clld.org/parameters/2004,crom,bend
+181-1259,iris1253,http://concepticon.clld.org/parameters/2004,fiar,bend
+181-1056,iris1253,http://concepticon.clld.org/parameters/2004,fill,bend
+181-1569,iris1253,http://concepticon.clld.org/parameters/2004,lúb,bend
+181-643,iris1253,http://concepticon.clld.org/parameters/2004,cam,bend
+181-1882,iris1253,http://concepticon.clld.org/parameters/2004,feac,bend
+181-1056,iris1253,http://concepticon.clld.org/parameters/1470,fill,fold
+181-1613,iris1253,http://concepticon.clld.org/parameters/1917,ceangail,"tie, bind"
+181-1735,iris1253,http://concepticon.clld.org/parameters/1917,naisc,"tie, bind"
+181-430,iris1253,http://concepticon.clld.org/parameters/352,scaoil,untie
+181-1970,iris1253,http://concepticon.clld.org/parameters/1627,slabhra,chain
+181-1384,iris1253,http://concepticon.clld.org/parameters/1218,téad,"rope, cord"
+181-106,iris1253,http://concepticon.clld.org/parameters/1218,rópa,"rope, cord"
+181-902,iris1253,http://concepticon.clld.org/parameters/1218,corda,"rope, cord"
+181-229,iris1253,http://concepticon.clld.org/parameters/760,snaidhm,knot (noun)
+181-466,iris1253,http://concepticon.clld.org/parameters/2133,buail,"strike (hit, beat)"
+181-391,iris1253,http://concepticon.clld.org/parameters/354,brúigh,pound with fist
+181-437,iris1253,http://concepticon.clld.org/parameters/354,tuairteáil,pound with fist
+181-1358,iris1253,http://concepticon.clld.org/parameters/354,tuargain,pound with fist
+181-438,iris1253,http://concepticon.clld.org/parameters/354,smíst,pound with fist
+181-1220,iris1253,http://concepticon.clld.org/parameters/1432,scor,cut
+181-1813,iris1253,http://concepticon.clld.org/parameters/1432,bearr,cut
+181-309,iris1253,http://concepticon.clld.org/parameters/1432,gearr,cut
+181-92,iris1253,http://concepticon.clld.org/parameters/1432,ciorraigh,cut
+181-1631,iris1253,http://concepticon.clld.org/parameters/1432,snoigh,cut
+181-1272,iris1253,http://concepticon.clld.org/parameters/355,gearr anuas,cut down
+181-292,iris1253,http://concepticon.clld.org/parameters/355,bain,cut down
+181-250,iris1253,http://concepticon.clld.org/parameters/355,treascair,cut down
+181-2060,iris1253,http://concepticon.clld.org/parameters/355,leag,cut down
+181-309,iris1253,http://concepticon.clld.org/parameters/155,gearr,"chop, hew"
+181-856,iris1253,http://concepticon.clld.org/parameters/155,mionghearr,"chop, hew"
+181-666,iris1253,http://concepticon.clld.org/parameters/155,smiot,"chop, hew"
+181-778,iris1253,http://concepticon.clld.org/parameters/1434,sáigh,stab
+181-988,iris1253,http://concepticon.clld.org/parameters/1434,goin,stab
+181-543,iris1253,http://concepticon.clld.org/parameters/1434,rop,stab
+181-1365,iris1253,http://concepticon.clld.org/parameters/1352,scian,knife
+181-1196,iris1253,http://concepticon.clld.org/parameters/356,siosúr,"scissors, shears"
+181-728,iris1253,http://concepticon.clld.org/parameters/356,deimheas,"scissors, shears"
+181-879,iris1253,http://concepticon.clld.org/parameters/677,tua,ax
+181-379,iris1253,http://concepticon.clld.org/parameters/677,biail,ax
+181-1736,iris1253,http://concepticon.clld.org/parameters/290,tál,adze
+181-827,iris1253,http://concepticon.clld.org/parameters/680,bris,break
+181-507,iris1253,http://concepticon.clld.org/parameters/588,briste,broken
+181-417,iris1253,http://concepticon.clld.org/parameters/1437,scoilt,split
+181-552,iris1253,http://concepticon.clld.org/parameters/1437,scáin,split
+181-512,iris1253,http://concepticon.clld.org/parameters/1735,réab,tear
+181-1948,iris1253,http://concepticon.clld.org/parameters/1735,rois,tear
+181-499,iris1253,http://concepticon.clld.org/parameters/1735,stróic,tear
+181-330,iris1253,http://concepticon.clld.org/parameters/1735,srac,tear
+181-1667,iris1253,http://concepticon.clld.org/parameters/291,feann,"flay, skin"
+181-1729,iris1253,http://concepticon.clld.org/parameters/291,scean,"flay, skin"
+181-548,iris1253,http://concepticon.clld.org/parameters/291,sclamh,"flay, skin"
+181-1038,iris1253,http://concepticon.clld.org/parameters/1449,cuimil,"rub, wipe"
+181-1801,iris1253,http://concepticon.clld.org/parameters/1449,slíoc,"rub, wipe"
+181-1800,iris1253,http://concepticon.clld.org/parameters/1449,slíob,"rub, wipe"
+181-458,iris1253,http://concepticon.clld.org/parameters/214,sín,stretch
+181-181,iris1253,http://concepticon.clld.org/parameters/214,searr,stretch
+181-1772,iris1253,http://concepticon.clld.org/parameters/214,tarraing,stretch
+181-195,iris1253,http://concepticon.clld.org/parameters/214,righ,stretch
+181-1772,iris1253,http://concepticon.clld.org/parameters/1455,tarraing,pull
+181-330,iris1253,http://concepticon.clld.org/parameters/1455,srac,pull
+181-21,iris1253,http://concepticon.clld.org/parameters/1455,sraon,pull
+181-1872,iris1253,http://concepticon.clld.org/parameters/1455,stoith,pull
+181-890,iris1253,http://concepticon.clld.org/parameters/38,leath,spread out
+181-1172,iris1253,http://concepticon.clld.org/parameters/38,scar,spread out
+181-1117,iris1253,http://concepticon.clld.org/parameters/38,spréigh,spread out
+181-2015,iris1253,http://concepticon.clld.org/parameters/38,scaip,spread out
+181-1564,iris1253,http://concepticon.clld.org/parameters/38,síolaigh,spread out
+181-256,iris1253,http://concepticon.clld.org/parameters/357,croch (suas),hang up
+181-391,iris1253,http://concepticon.clld.org/parameters/1913,brúigh,press
+181-1749,iris1253,http://concepticon.clld.org/parameters/1913,fáisc,press
+181-1417,iris1253,http://concepticon.clld.org/parameters/1913,teann,press
+181-1749,iris1253,http://concepticon.clld.org/parameters/1414,fáisc,"squeeze, wring"
+181-1417,iris1253,http://concepticon.clld.org/parameters/1414,teann,"squeeze, wring"
+181-237,iris1253,http://concepticon.clld.org/parameters/1487,doirt,pour
+181-2000,iris1253,http://concepticon.clld.org/parameters/1487,steall,pour
+181-1408,iris1253,http://concepticon.clld.org/parameters/1487,scaird,pour
+181-39,iris1253,http://concepticon.clld.org/parameters/1453,nigh,wash
+181-1647,iris1253,http://concepticon.clld.org/parameters/1453,folc,wash
+181-992,iris1253,http://concepticon.clld.org/parameters/1453,ionnail,wash
+181-297,iris1253,http://concepticon.clld.org/parameters/230,scuab,sweep
+181-297,iris1253,http://concepticon.clld.org/parameters/245,scuab,broom
+181-502,iris1253,http://concepticon.clld.org/parameters/245,giolcach shléibhe,broom
+181-761,iris1253,http://concepticon.clld.org/parameters/1361,ball acra,tool
+181-965,iris1253,http://concepticon.clld.org/parameters/1361,gléas,tool
+181-1149,iris1253,http://concepticon.clld.org/parameters/1361,uirlis,tool
+181-218,iris1253,http://concepticon.clld.org/parameters/1042,siúinéir,carpenter
+181-1014,iris1253,http://concepticon.clld.org/parameters/1042,saor adhmaid,carpenter
+181-500,iris1253,http://concepticon.clld.org/parameters/1840,tóg,build
+181-1853,iris1253,http://concepticon.clld.org/parameters/1840,déan,build
+181-50,iris1253,http://concepticon.clld.org/parameters/1501,toll,bore
+181-895,iris1253,http://concepticon.clld.org/parameters/1501,poll,bore
+181-1071,iris1253,http://concepticon.clld.org/parameters/46,tochail,hollow out
+181-839,iris1253,http://concepticon.clld.org/parameters/1948,sábh,saw
+181-563,iris1253,http://concepticon.clld.org/parameters/1948,toireasc,saw
+181-1889,iris1253,http://concepticon.clld.org/parameters/1481,casúr,hammer
+181-746,iris1253,http://concepticon.clld.org/parameters/1481,ord,hammer
+181-1057,iris1253,http://concepticon.clld.org/parameters/502,tairne,nail
+181-1859,iris1253,http://concepticon.clld.org/parameters/1069,gliú,glue
+181-1159,iris1253,http://concepticon.clld.org/parameters/1069,glae,glue
+181-1891,iris1253,http://concepticon.clld.org/parameters/1001,gabha,"smith, blacksmith"
+181-547,iris1253,http://concepticon.clld.org/parameters/288,gaibhnigh,forge
+181-845,iris1253,http://concepticon.clld.org/parameters/1648,inneoin,anvil
+181-1194,iris1253,http://concepticon.clld.org/parameters/211,teilg,cast (metals)
+181-264,iris1253,http://concepticon.clld.org/parameters/1369,ór,gold
+181-386,iris1253,http://concepticon.clld.org/parameters/759,airgead,silver
+181-2151,iris1253,http://concepticon.clld.org/parameters/1825,umha,"copper, bronze"
+181-775,iris1253,http://concepticon.clld.org/parameters/1825,copar,"copper, bronze"
+181-266,iris1253,http://concepticon.clld.org/parameters/621,iarann,iron
+181-1125,iris1253,http://concepticon.clld.org/parameters/627,luaidhe,lead (noun)
+181-585,iris1253,http://concepticon.clld.org/parameters/358,stán,"tin, tinplate"
+181-2023,iris1253,http://concepticon.clld.org/parameters/359,potaire,potter
+181-351,iris1253,http://concepticon.clld.org/parameters/359,criadóir,potter
+181-648,iris1253,http://concepticon.clld.org/parameters/289,múnlaigh,mold (clay etc)
+181-1480,iris1253,http://concepticon.clld.org/parameters/289,cum,mold (clay etc)
+181-90,iris1253,http://concepticon.clld.org/parameters/1399,cré,clay
+181-749,iris1253,http://concepticon.clld.org/parameters/1399,marla,clay
+181-983,iris1253,http://concepticon.clld.org/parameters/604,gloine,glass
+181-24,iris1253,http://concepticon.clld.org/parameters/1729,figh,"weave, plait"
+181-1986,iris1253,http://concepticon.clld.org/parameters/1539,ciseán,basket
+181-1368,iris1253,http://concepticon.clld.org/parameters/1539,cliabh,basket
+181-1609,iris1253,http://concepticon.clld.org/parameters/1539,bascaed,basket
+181-197,iris1253,http://concepticon.clld.org/parameters/1539,muirleog,basket
+181-1780,iris1253,http://concepticon.clld.org/parameters/195,mata,mat
+181-904,iris1253,http://concepticon.clld.org/parameters/195,cáiteog,mat
+181-1309,iris1253,http://concepticon.clld.org/parameters/292,ruga,rug
+181-368,iris1253,http://concepticon.clld.org/parameters/292,súsa,rug
+181-1881,iris1253,http://concepticon.clld.org/parameters/1971,fean,fan (noun)
+181-2068,iris1253,http://concepticon.clld.org/parameters/1971,gaothrán,fan (noun)
+181-63,iris1253,http://concepticon.clld.org/parameters/360,gaothraigh,fan (vb)
+181-309,iris1253,http://concepticon.clld.org/parameters/228,gearr,carve
+181-1670,iris1253,http://concepticon.clld.org/parameters/228,grean,carve
+181-1631,iris1253,http://concepticon.clld.org/parameters/228,snoigh,carve
+181-1553,iris1253,http://concepticon.clld.org/parameters/914,dealbhóir,sculptor
+181-1134,iris1253,http://concepticon.clld.org/parameters/914,snoíodóir,sculptor
+181-693,iris1253,http://concepticon.clld.org/parameters/1002,dealbh,statue
+181-894,iris1253,http://concepticon.clld.org/parameters/1002,íomhá,statue
+181-1121,iris1253,http://concepticon.clld.org/parameters/1979,siséal,chisel
+181-1493,iris1253,http://concepticon.clld.org/parameters/647,péint,paint (noun)
+181-665,iris1253,http://concepticon.clld.org/parameters/647,dath,paint (noun)
+181-279,iris1253,http://concepticon.clld.org/parameters/2001,péinteáil,paint (vb)
+181-2109,iris1253,http://concepticon.clld.org/parameters/2001,dathaigh,paint (vb)
+181-328,iris1253,http://concepticon.clld.org/parameters/765,corraigh,move
+181-539,iris1253,http://concepticon.clld.org/parameters/765,bogadh,move
+181-641,iris1253,http://concepticon.clld.org/parameters/1588,iompú,turn over
+181-636,iris1253,http://concepticon.clld.org/parameters/1445,cas,turn around
+181-1010,iris1253,http://concepticon.clld.org/parameters/1445,iompú thart,turn around
+181-599,iris1253,http://concepticon.clld.org/parameters/1445,iompú timpeall,turn around
+181-1056,iris1253,http://concepticon.clld.org/parameters/1113,fill,"wind, wrap"
+181-1839,iris1253,http://concepticon.clld.org/parameters/1113,burláil,"wind, wrap"
+181-1348,iris1253,http://concepticon.clld.org/parameters/1113,cornadh,"wind, wrap"
+181-400,iris1253,http://concepticon.clld.org/parameters/827,rolladh,roll
+181-41,iris1253,http://concepticon.clld.org/parameters/808,titim,drop (vb)
+181-1713,iris1253,http://concepticon.clld.org/parameters/430,casadh,twist
+181-1184,iris1253,http://concepticon.clld.org/parameters/430,cor a chuir i,twist
+181-120,iris1253,http://concepticon.clld.org/parameters/568,éirigh,rise
+181-500,iris1253,http://concepticon.clld.org/parameters/501,tóg,"raise, lift"
+181-41,iris1253,http://concepticon.clld.org/parameters/1280,titim,fall
+181-1917,iris1253,http://concepticon.clld.org/parameters/2253,braon,drip
+181-23,iris1253,http://concepticon.clld.org/parameters/2253,sileán,drip
+181-1607,iris1253,http://concepticon.clld.org/parameters/1456,caith,throw
+181-1194,iris1253,http://concepticon.clld.org/parameters/1456,teilg,throw
+181-1235,iris1253,http://concepticon.clld.org/parameters/702,ceap,catch (ball)
+181-616,iris1253,http://concepticon.clld.org/parameters/702,breith,catch (ball)
+181-730,iris1253,http://concepticon.clld.org/parameters/702,greim,catch (ball)
+181-915,iris1253,http://concepticon.clld.org/parameters/702,gabháil,catch (ball)
+181-1674,iris1253,http://concepticon.clld.org/parameters/1909,croith,shake
+181-1383,iris1253,http://concepticon.clld.org/parameters/2003,rith,flow
+181-779,iris1253,http://concepticon.clld.org/parameters/2003,sní,flow
+181-2077,iris1253,http://concepticon.clld.org/parameters/2003,sileadh,flow
+181-1976,iris1253,http://concepticon.clld.org/parameters/1088,téigh faoi (uisce),sink
+181-1695,iris1253,http://concepticon.clld.org/parameters/1088,báigh,sink
+181-56,iris1253,http://concepticon.clld.org/parameters/1088,cuir go tóin,sink
+181-286,iris1253,http://concepticon.clld.org/parameters/1574,bheith ar snámh,float
+181-963,iris1253,http://concepticon.clld.org/parameters/1574,snámh,float
+181-963,iris1253,http://concepticon.clld.org/parameters/1439,snámh,swim
+181-877,iris1253,http://concepticon.clld.org/parameters/119,tum,dive
+181-2000,iris1253,http://concepticon.clld.org/parameters/365,steall,splash
+181-1423,iris1253,http://concepticon.clld.org/parameters/365,scaird aníos,splash
+181-1802,iris1253,http://concepticon.clld.org/parameters/787,seol,sail (vb)
+181-1479,iris1253,http://concepticon.clld.org/parameters/1441,eitil,fly (vb)
+181-1567,iris1253,http://concepticon.clld.org/parameters/175,séid,blow
+181-963,iris1253,http://concepticon.clld.org/parameters/96,snámh,"creep, crawl"
+181-48,iris1253,http://concepticon.clld.org/parameters/96,téaltaigh,"creep, crawl"
+181-1645,iris1253,http://concepticon.clld.org/parameters/296,crom,crouch
+181-2113,iris1253,http://concepticon.clld.org/parameters/296,cúb,crouch
+181-1985,iris1253,http://concepticon.clld.org/parameters/296,téigh ar do chromada,crouch
+181-244,iris1253,http://concepticon.clld.org/parameters/1324,sleamhnaigh,"slide, slip"
+181-1391,iris1253,http://concepticon.clld.org/parameters/1324,sciorr,"slide, slip"
+181-2051,iris1253,http://concepticon.clld.org/parameters/1829,léim,"jump, leap"
+181-1556,iris1253,http://concepticon.clld.org/parameters/1829,ling,"jump, leap"
+181-1558,iris1253,http://concepticon.clld.org/parameters/1135,cic,kick
+181-1592,iris1253,http://concepticon.clld.org/parameters/1135,speach,kick
+181-201,iris1253,http://concepticon.clld.org/parameters/1879,rinnce,dance
+181-158,iris1253,http://concepticon.clld.org/parameters/1879,damhsa,dance
+181-1161,iris1253,http://concepticon.clld.org/parameters/1443,siúl,walk
+181-2042,iris1253,http://concepticon.clld.org/parameters/366,bacadaíl,limp
+181-758,iris1253,http://concepticon.clld.org/parameters/366,bacadradh,limp
+181-919,iris1253,http://concepticon.clld.org/parameters/366,siúl go bacach,limp
+181-1383,iris1253,http://concepticon.clld.org/parameters/1519,rith,run
+181-1340,iris1253,http://concepticon.clld.org/parameters/695,téigh,go
+181-2026,iris1253,http://concepticon.clld.org/parameters/705,téigh suas,go up
+181-1212,iris1253,http://concepticon.clld.org/parameters/1102,árdaigh,climb
+181-719,iris1253,http://concepticon.clld.org/parameters/2014,téigh síos,go down
+181-876,iris1253,http://concepticon.clld.org/parameters/1107,téigh amach,go out
+181-521,iris1253,http://concepticon.clld.org/parameters/1446,tig,come
+181-1709,iris1253,http://concepticon.clld.org/parameters/1446,tag,come
+181-930,iris1253,http://concepticon.clld.org/parameters/581,tag ar ais,come back
+181-1056,iris1253,http://concepticon.clld.org/parameters/581,fill,come back
+181-967,iris1253,http://concepticon.clld.org/parameters/581,pill,come back
+181-720,iris1253,http://concepticon.clld.org/parameters/1752,imigh,"go away, depart"
+181-720,iris1253,http://concepticon.clld.org/parameters/485,imigh,disappear
+181-1232,iris1253,http://concepticon.clld.org/parameters/485,téigh as radharc,disappear
+181-255,iris1253,http://concepticon.clld.org/parameters/956,teith,flee
+181-2063,iris1253,http://concepticon.clld.org/parameters/1085,lean,follow
+181-1263,iris1253,http://concepticon.clld.org/parameters/1047,dul sa tóir ar,pursue
+181-1088,iris1253,http://concepticon.clld.org/parameters/1047,dul ar thóir,pursue
+181-1614,iris1253,http://concepticon.clld.org/parameters/1387,sroich,"reach, arrive"
+181-495,iris1253,http://concepticon.clld.org/parameters/1778,druid le,approach
+181-1187,iris1253,http://concepticon.clld.org/parameters/1778,tarraing ar,approach
+181-631,iris1253,http://concepticon.clld.org/parameters/749,téigh isteach,enter
+181-970,iris1253,http://concepticon.clld.org/parameters/700,iompair,carry (bear)
+181-973,iris1253,http://concepticon.clld.org/parameters/700,giúlán,carry (bear)
+181-700,iris1253,http://concepticon.clld.org/parameters/692,beir,bring
+181-1126,iris1253,http://concepticon.clld.org/parameters/692,(do-bheir),bring
+181-785,iris1253,http://concepticon.clld.org/parameters/1127,cuir,send
+181-1059,iris1253,http://concepticon.clld.org/parameters/43,giollaigh,lead (vb)
+181-1077,iris1253,http://concepticon.clld.org/parameters/43,treoraigh,lead (vb)
+181-1559,iris1253,http://concepticon.clld.org/parameters/43,stiúir,lead (vb)
+181-1703,iris1253,http://concepticon.clld.org/parameters/741,tiomáin,drive
+181-288,iris1253,http://concepticon.clld.org/parameters/367,marcaíocht,ride
+181-391,iris1253,http://concepticon.clld.org/parameters/1452,brúigh,"push, shove"
+181-778,iris1253,http://concepticon.clld.org/parameters/1452,sáigh,"push, shove"
+181-1549,iris1253,http://concepticon.clld.org/parameters/667,bóthar,road
+181-878,iris1253,http://concepticon.clld.org/parameters/667,bealach (mór),road
+181-1129,iris1253,http://concepticon.clld.org/parameters/667,ród,road
+181-451,iris1253,http://concepticon.clld.org/parameters/2252,cosán,path
+181-2126,iris1253,http://concepticon.clld.org/parameters/1011,droichead,bridge
+181-2045,iris1253,http://concepticon.clld.org/parameters/122,carráiste,"carriage, wagon, cart"
+181-1566,iris1253,http://concepticon.clld.org/parameters/122,carbad,"carriage, wagon, cart"
+181-717,iris1253,http://concepticon.clld.org/parameters/122,cairt,"carriage, wagon, cart"
+181-734,iris1253,http://concepticon.clld.org/parameters/122,carr,"carriage, wagon, cart"
+181-2048,iris1253,http://concepticon.clld.org/parameters/710,roth,wheel
+181-3,iris1253,http://concepticon.clld.org/parameters/1769,acastóir,axle
+181-408,iris1253,http://concepticon.clld.org/parameters/1769,fearsaid,axle
+181-1836,iris1253,http://concepticon.clld.org/parameters/14,cuing,yoke
+181-1551,iris1253,http://concepticon.clld.org/parameters/740,long,ship
+181-1470,iris1253,http://concepticon.clld.org/parameters/740,bárc,ship
+181-162,iris1253,http://concepticon.clld.org/parameters/1844,bád,boat
+181-511,iris1253,http://concepticon.clld.org/parameters/1970,currach,canoe
+181-1770,iris1253,http://concepticon.clld.org/parameters/1970,naomhóg,canoe
+181-6,iris1253,http://concepticon.clld.org/parameters/416,bacán amuigh,outrigger
+181-658,iris1253,http://concepticon.clld.org/parameters/1664,slaod,raft
+181-1923,iris1253,http://concepticon.clld.org/parameters/1664,rafta,raft
+181-752,iris1253,http://concepticon.clld.org/parameters/108,rámha,oar
+181-243,iris1253,http://concepticon.clld.org/parameters/1849,rámhaigh,row (vb)
+181-1559,iris1253,http://concepticon.clld.org/parameters/108,stiúir,rudder
+181-1825,iris1253,http://concepticon.clld.org/parameters/184,crann (seoil),mast
+181-1802,iris1253,http://concepticon.clld.org/parameters/786,seol,sail (noun)
+181-627,iris1253,http://concepticon.clld.org/parameters/1870,ancaire,anchor
+181-581,iris1253,http://concepticon.clld.org/parameters/610,port,"harbor, port"
+181-1717,iris1253,http://concepticon.clld.org/parameters/610,cuan,"harbor, port"
+181-1089,iris1253,http://concepticon.clld.org/parameters/610,caladh,"harbor, port"
+181-33,iris1253,http://concepticon.clld.org/parameters/773,tá X ag Y,have
+181-1100,iris1253,http://concepticon.clld.org/parameters/684,sealbhaigh,"own, possess"
+181-500,iris1253,http://concepticon.clld.org/parameters/1749,tóg,take
+181-1336,iris1253,http://concepticon.clld.org/parameters/1749,gabh,take
+181-1473,iris1253,http://concepticon.clld.org/parameters/2021,beir ar,"seize, grasp"
+181-1157,iris1253,http://concepticon.clld.org/parameters/2021,glac,"seize, grasp"
+181-1235,iris1253,http://concepticon.clld.org/parameters/2021,ceap,"seize, grasp"
+181-1657,iris1253,http://concepticon.clld.org/parameters/1448,coinnigh,hold
+181-1011,iris1253,http://concepticon.clld.org/parameters/1448,coimeád,hold
+181-994,iris1253,http://concepticon.clld.org/parameters/694,fáigh,"get, obtain"
+181-1657,iris1253,http://concepticon.clld.org/parameters/1477,coinnigh,"keep, retain"
+181-1011,iris1253,http://concepticon.clld.org/parameters/1477,coimeád,"keep, retain"
+181-1517,iris1253,http://concepticon.clld.org/parameters/738,rud,thing
+181-448,iris1253,http://concepticon.clld.org/parameters/738,ní,thing
+181-880,iris1253,http://concepticon.clld.org/parameters/1447,tug,give
+181-1337,iris1253,http://concepticon.clld.org/parameters/85,tug ar ais,give back
+181-424,iris1253,http://concepticon.clld.org/parameters/1997,caomhnaigh,"preserve, look after"
+181-628,iris1253,http://concepticon.clld.org/parameters/1997,cúmhdaigh,"preserve, look after"
+181-1011,iris1253,http://concepticon.clld.org/parameters/1997,coimeád,"preserve, look after"
+181-192,iris1253,http://concepticon.clld.org/parameters/2008,sábháil,"save, rescue"
+181-837,iris1253,http://concepticon.clld.org/parameters/2008,fuascail,"save, rescue"
+181-1215,iris1253,http://concepticon.clld.org/parameters/2008,saor,"save, rescue"
+181-1719,iris1253,http://concepticon.clld.org/parameters/681,scrios,destroy
+181-544,iris1253,http://concepticon.clld.org/parameters/681,mill,destroy
+181-465,iris1253,http://concepticon.clld.org/parameters/44,loit,"harm, injure, damage"
+181-184,iris1253,http://concepticon.clld.org/parameters/44,dochar díobháil a dhéanamh do,"harm, injure, damage"
+181-2085,iris1253,http://concepticon.clld.org/parameters/1468,cuardaigh,"seek, look for"
+181-59,iris1253,http://concepticon.clld.org/parameters/1468,dul ar lorg duine,"seek, look for"
+181-994,iris1253,http://concepticon.clld.org/parameters/719,fáigh,find
+181-1000,iris1253,http://concepticon.clld.org/parameters/1660,caill,lose
+181-430,iris1253,http://concepticon.clld.org/parameters/1095,scaoil,"release, let go"
+181-837,iris1253,http://concepticon.clld.org/parameters/1095,fuascail,"release, let go"
+181-386,iris1253,http://concepticon.clld.org/parameters/1559,airgead,money
+181-172,iris1253,http://concepticon.clld.org/parameters/1867,bonn,coin
+181-183,iris1253,http://concepticon.clld.org/parameters/1867,píosa,coin
+181-1550,iris1253,http://concepticon.clld.org/parameters/712,saibhir,rich
+181-1731,iris1253,http://concepticon.clld.org/parameters/1674,bocht,poor
+181-693,iris1253,http://concepticon.clld.org/parameters/1674,dealbh,poor
+181-245,iris1253,http://concepticon.clld.org/parameters/1674,daibhir,poor
+181-1922,iris1253,http://concepticon.clld.org/parameters/1934,bacach,beggar
+181-859,iris1253,http://concepticon.clld.org/parameters/1934,fear déirce,beggar
+181-635,iris1253,http://concepticon.clld.org/parameters/1774,sanntach,"avaricious, stingy"
+181-1314,iris1253,http://concepticon.clld.org/parameters/1774,ceachartha,"avaricious, stingy"
+181-1699,iris1253,http://concepticon.clld.org/parameters/1774,sprionlaithe,"avaricious, stingy"
+181-1716,iris1253,http://concepticon.clld.org/parameters/1774,gortach,"avaricious, stingy"
+181-1216,iris1253,http://concepticon.clld.org/parameters/582,tug ar iasacht,lend
+181-1049,iris1253,http://concepticon.clld.org/parameters/1823,fáigh ar iasacht,borrow
+181-1849,iris1253,http://concepticon.clld.org/parameters/369,tá X agat orm,owe
+181-1234,iris1253,http://concepticon.clld.org/parameters/1914,fiacha,debt
+181-1545,iris1253,http://concepticon.clld.org/parameters/718,íoc,pay (vb)
+181-125,iris1253,http://concepticon.clld.org/parameters/1081,cuntas,"account, reckoning"
+181-831,iris1253,http://concepticon.clld.org/parameters/1081,comhaireamh,"account, reckoning"
+181-2087,iris1253,http://concepticon.clld.org/parameters/1081,áireamh,"account, reckoning"
+181-86,iris1253,http://concepticon.clld.org/parameters/873,cáin,"tax, tribute"
+181-1087,iris1253,http://concepticon.clld.org/parameters/856,fostaigh,hire
+181-442,iris1253,http://concepticon.clld.org/parameters/1122,tuarastal,wages
+181-999,iris1253,http://concepticon.clld.org/parameters/1122,pá,wages
+181-1796,iris1253,http://concepticon.clld.org/parameters/733,saothraigh,earn
+181-977,iris1253,http://concepticon.clld.org/parameters/1869,ceannaigh,buy
+181-2009,iris1253,http://concepticon.clld.org/parameters/1571,díol,sell
+181-1916,iris1253,http://concepticon.clld.org/parameters/1571,reic,sell
+181-1261,iris1253,http://concepticon.clld.org/parameters/2135,babhtáil,"trade, barter"
+181-932,iris1253,http://concepticon.clld.org/parameters/1082,ceannaí,merchant
+181-385,iris1253,http://concepticon.clld.org/parameters/633,margadh,market (place)
+181-850,iris1253,http://concepticon.clld.org/parameters/752,siopa,"store, shop"
+181-1913,iris1253,http://concepticon.clld.org/parameters/657,luach,price
+181-1197,iris1253,http://concepticon.clld.org/parameters/657,praghas,price
+181-1118,iris1253,http://concepticon.clld.org/parameters/1426,daor,"dear (costly, expensive)"
+181-75,iris1253,http://concepticon.clld.org/parameters/1426,costasach,"dear (costly, expensive)"
+181-1215,iris1253,http://concepticon.clld.org/parameters/1887,saor,cheap
+181-1966,iris1253,http://concepticon.clld.org/parameters/1887,neamhchostasach,cheap
+181-60,iris1253,http://concepticon.clld.org/parameters/884,roinn,share (distribute)
+181-1560,iris1253,http://concepticon.clld.org/parameters/1098,meáigh,weigh
+181-390,iris1253,http://concepticon.clld.org/parameters/1685,i ndiaidh,after
+181-1528,iris1253,http://concepticon.clld.org/parameters/1685,tar éis,after
+181-157,iris1253,http://concepticon.clld.org/parameters/723,taobh thiar,behind
+181-1954,iris1253,http://concepticon.clld.org/parameters/723,laistiar,behind
+181-432,iris1253,http://concepticon.clld.org/parameters/1816,in aice,beside
+181-1579,iris1253,http://concepticon.clld.org/parameters/1816,le hais,beside
+181-2100,iris1253,http://concepticon.clld.org/parameters/1816,taobh le,beside
+181-401,iris1253,http://concepticon.clld.org/parameters/1816,in aice le,beside
+181-268,iris1253,http://concepticon.clld.org/parameters/1326,síos,"down, below"
+181-489,iris1253,http://concepticon.clld.org/parameters/1326,thíos,"down, below"
+181-533,iris1253,http://concepticon.clld.org/parameters/1882,roimh,before
+181-395,iris1253,http://concepticon.clld.org/parameters/1019,ar aghaidh,front
+181-1896,iris1253,http://concepticon.clld.org/parameters/1019,os comhair,front
+181-1983,iris1253,http://concepticon.clld.org/parameters/1019,ar bhéal,front
+181-533,iris1253,http://concepticon.clld.org/parameters/1019,roimh,front
+181-1582,iris1253,http://concepticon.clld.org/parameters/1606,isteach,"inside, in"
+181-276,iris1253,http://concepticon.clld.org/parameters/1606,istoigh,"inside, in"
+181-1060,iris1253,http://concepticon.clld.org/parameters/762,amach,outside
+181-1832,iris1253,http://concepticon.clld.org/parameters/762,amuigh,outside
+181-1260,iris1253,http://concepticon.clld.org/parameters/1485,faoi,under
+181-1280,iris1253,http://concepticon.clld.org/parameters/1485,fá,under
+181-1751,iris1253,http://concepticon.clld.org/parameters/1485,fé,under
+181-365,iris1253,http://concepticon.clld.org/parameters/1591,suas,"up, above"
+181-1277,iris1253,http://concepticon.clld.org/parameters/1591,thuas,"up, above"
+181-1870,iris1253,http://concepticon.clld.org/parameters/723,áit,place
+181-601,iris1253,http://concepticon.clld.org/parameters/723,ionad,place
+181-785,iris1253,http://concepticon.clld.org/parameters/998,cuir,put
+181-1357,iris1253,http://concepticon.clld.org/parameters/1416,suí,sit
+181-1855,iris1253,http://concepticon.clld.org/parameters/215,luí,lie down
+181-854,iris1253,http://concepticon.clld.org/parameters/1442,seas,stand
+181-1097,iris1253,http://concepticon.clld.org/parameters/987,fan,"remain, stay"
+181-783,iris1253,http://concepticon.clld.org/parameters/987,fuirigh,"remain, stay"
+181-194,iris1253,http://concepticon.clld.org/parameters/838,fuílleach,"remains, left overs"
+181-768,iris1253,http://concepticon.clld.org/parameters/7,bailigh,"collect, gather"
+181-57,iris1253,http://concepticon.clld.org/parameters/7,cruinnigh,"collect, gather"
+181-500,iris1253,http://concepticon.clld.org/parameters/371,tóg,pick up
+181-1759,iris1253,http://concepticon.clld.org/parameters/1576,carnadh,pile up
+181-1024,iris1253,http://concepticon.clld.org/parameters/1576,cruachadh,pile up
+181-1613,iris1253,http://concepticon.clld.org/parameters/1743,ceangail,"join, unite"
+181-1599,iris1253,http://concepticon.clld.org/parameters/1743,nasc,"join, unite"
+181-2017,iris1253,http://concepticon.clld.org/parameters/1359,scair,separate
+181-60,iris1253,http://concepticon.clld.org/parameters/1119,roinn,divide
+181-517,iris1253,http://concepticon.clld.org/parameters/1156,oscail,open
+181-422,iris1253,http://concepticon.clld.org/parameters/1156,foscail,open
+181-623,iris1253,http://concepticon.clld.org/parameters/1046,dún,"shut, close"
+181-1588,iris1253,http://concepticon.clld.org/parameters/1046,druid,"shut, close"
+181-1290,iris1253,http://concepticon.clld.org/parameters/761,clúdaigh,cover
+181-1632,iris1253,http://concepticon.clld.org/parameters/602,folaigh,"hide, conceal"
+181-1022,iris1253,http://concepticon.clld.org/parameters/602,cur i bhfolach,"hide, conceal"
+181-1374,iris1253,http://concepticon.clld.org/parameters/1265,ard,high
+181-764,iris1253,http://concepticon.clld.org/parameters/721,íseal,low
+181-1370,iris1253,http://concepticon.clld.org/parameters/1753,barr,top
+181-2111,iris1253,http://concepticon.clld.org/parameters/690,bun,bottom
+181-797,iris1253,http://concepticon.clld.org/parameters/742,deireadh,end
+181-1848,iris1253,http://concepticon.clld.org/parameters/372,biorach,pointed
+181-1998,iris1253,http://concepticon.clld.org/parameters/372,gobach,pointed
+181-1926,iris1253,http://concepticon.clld.org/parameters/863,faobhar,edge
+181-2139,iris1253,http://concepticon.clld.org/parameters/863,béal,edge
+181-420,iris1253,http://concepticon.clld.org/parameters/863,bruach,edge
+181-457,iris1253,http://concepticon.clld.org/parameters/863,corr,edge
+181-325,iris1253,http://concepticon.clld.org/parameters/863,cúinne,edge
+181-579,iris1253,http://concepticon.clld.org/parameters/863,droim,edge
+181-74,iris1253,http://concepticon.clld.org/parameters/863,imeall,edge
+181-89,iris1253,http://concepticon.clld.org/parameters/863,ciumhais,edge
+181-211,iris1253,http://concepticon.clld.org/parameters/863,eochair,edge
+181-405,iris1253,http://concepticon.clld.org/parameters/682,taobh,side
+181-651,iris1253,http://concepticon.clld.org/parameters/682,slios,side
+181-890,iris1253,http://concepticon.clld.org/parameters/682,leath,side
+181-1098,iris1253,http://concepticon.clld.org/parameters/1093,meán,"middle, center"
+181-2154,iris1253,http://concepticon.clld.org/parameters/1093,lár,"middle, center"
+181-508,iris1253,http://concepticon.clld.org/parameters/1019,deas,right (side)
+181-537,iris1253,http://concepticon.clld.org/parameters/244,clé,left (side)
+181-436,iris1253,http://concepticon.clld.org/parameters/244,tuath,left (side)
+181-432,iris1253,http://concepticon.clld.org/parameters/1942,in aice,near (adv)
+181-153,iris1253,http://concepticon.clld.org/parameters/1942,cóngarach,near (adv)
+181-116,iris1253,http://concepticon.clld.org/parameters/1942,i ngar,near (adv)
+181-2102,iris1253,http://concepticon.clld.org/parameters/1942,i ndeas,near (adv)
+181-1101,iris1253,http://concepticon.clld.org/parameters/1942,i ngaobhar,near (adv)
+181-1454,iris1253,http://concepticon.clld.org/parameters/1942,fogas do,near (adv)
+181-1687,iris1253,http://concepticon.clld.org/parameters/1942,i bhfogas,near (adv)
+181-290,iris1253,http://concepticon.clld.org/parameters/1406,i bhfad,far (adv)
+181-150,iris1253,http://concepticon.clld.org/parameters/1406,fada,far (adv)
+181-38,iris1253,http://concepticon.clld.org/parameters/1877,oirthear,east
+181-1775,iris1253,http://concepticon.clld.org/parameters/1877,thoir,east
+181-925,iris1253,http://concepticon.clld.org/parameters/1877,soir,east
+181-1974,iris1253,http://concepticon.clld.org/parameters/1877,anoir,east
+181-770,iris1253,http://concepticon.clld.org/parameters/1817,íarthar,west
+181-505,iris1253,http://concepticon.clld.org/parameters/1817,thiar,west
+181-1812,iris1253,http://concepticon.clld.org/parameters/1817,siar,west
+181-2089,iris1253,http://concepticon.clld.org/parameters/1817,aniar,west
+181-650,iris1253,http://concepticon.clld.org/parameters/1598,tuaisceart,north
+181-2029,iris1253,http://concepticon.clld.org/parameters/1598,thuaidh,north
+181-814,iris1253,http://concepticon.clld.org/parameters/1598,ó thuaidh,north
+181-2027,iris1253,http://concepticon.clld.org/parameters/1598,aduaidh,north
+181-1894,iris1253,http://concepticon.clld.org/parameters/1595,deisceart,south
+181-1988,iris1253,http://concepticon.clld.org/parameters/1595,ó dheas,south
+181-1982,iris1253,http://concepticon.clld.org/parameters/1595,aneas,south
+181-588,iris1253,http://concepticon.clld.org/parameters/1595,laisteas,south
+181-1593,iris1253,http://concepticon.clld.org/parameters/479,fás,grow
+181-931,iris1253,http://concepticon.clld.org/parameters/1506,tomhais,measure
+181-2061,iris1253,http://concepticon.clld.org/parameters/81,feáigh,"span, fathom"
+181-931,iris1253,http://concepticon.clld.org/parameters/81,tomhais,"span, fathom"
+181-513,iris1253,http://concepticon.clld.org/parameters/1202,mór,"large, big"
+181-683,iris1253,http://concepticon.clld.org/parameters/1246,beag,"small, little"
+181-150,iris1253,http://concepticon.clld.org/parameters/1203,fada,long
+181-1374,iris1253,http://concepticon.clld.org/parameters/711,ard,tall
+181-309,iris1253,http://concepticon.clld.org/parameters/1645,gearr,short
+181-1636,iris1253,http://concepticon.clld.org/parameters/1645,gairid,short
+181-232,iris1253,http://concepticon.clld.org/parameters/1243,leathan,"wide, broad"
+181-1360,iris1253,http://concepticon.clld.org/parameters/1267,cúng,narrow
+181-564,iris1253,http://concepticon.clld.org/parameters/1267,caol,narrow
+181-2035,iris1253,http://concepticon.clld.org/parameters/1244,tiubh,thick (in dimension)
+181-411,iris1253,http://concepticon.clld.org/parameters/1244,ramhar,thick (in dimension)
+181-220,iris1253,http://concepticon.clld.org/parameters/1400,tanaí,thin (in dimension)
+181-564,iris1253,http://concepticon.clld.org/parameters/1400,caol,thin (in dimension)
+181-1958,iris1253,http://concepticon.clld.org/parameters/1593,domhain,deep
+181-220,iris1253,http://concepticon.clld.org/parameters/193,tanaí,shallow
+181-751,iris1253,http://concepticon.clld.org/parameters/193,éadomhain,shallow
+181-1460,iris1253,http://concepticon.clld.org/parameters/1633,cothrom,flat
+181-1094,iris1253,http://concepticon.clld.org/parameters/1633,réidh,flat
+181-1874,iris1253,http://concepticon.clld.org/parameters/1633,comhréidh,flat
+181-58,iris1253,http://concepticon.clld.org/parameters/1633,leibheálta,flat
+181-1791,iris1253,http://concepticon.clld.org/parameters/1404,díreach,straight
+181-643,iris1253,http://concepticon.clld.org/parameters/297,cam,crooked
+181-1645,iris1253,http://concepticon.clld.org/parameters/297,crom,crooked
+181-1714,iris1253,http://concepticon.clld.org/parameters/297,cuar,crooked
+181-439,iris1253,http://concepticon.clld.org/parameters/1071,crúca,hook
+181-1021,iris1253,http://concepticon.clld.org/parameters/1071,cromóg,hook
+181-325,iris1253,http://concepticon.clld.org/parameters/192,cúinne,corner
+181-1778,iris1253,http://concepticon.clld.org/parameters/192,cearna,corner
+181-1342,iris1253,http://concepticon.clld.org/parameters/1367,crois,cross
+181-166,iris1253,http://concepticon.clld.org/parameters/1367,croch,cross
+181-815,iris1253,http://concepticon.clld.org/parameters/850,cearnach,square
+181-95,iris1253,http://concepticon.clld.org/parameters/850,cearnóg,square
+181-1952,iris1253,http://concepticon.clld.org/parameters/1395,cruinn,round
+181-736,iris1253,http://concepticon.clld.org/parameters/1395,comhchruinn,round
+181-132,iris1253,http://concepticon.clld.org/parameters/1467,ciorcal,circle
+181-852,iris1253,http://concepticon.clld.org/parameters/1845,liathróid,"sphere, ball"
+181-1583,iris1253,http://concepticon.clld.org/parameters/1845,meall,"sphere, ball"
+181-1339,iris1253,http://concepticon.clld.org/parameters/1845,cruinne,"sphere, ball"
+181-1491,iris1253,http://concepticon.clld.org/parameters/1048,líne,line
+181-895,iris1253,http://concepticon.clld.org/parameters/1667,poll,hole
+181-1498,iris1253,http://concepticon.clld.org/parameters/1558,cosúil (cosamhail) le,"like, similar"
+181-219,iris1253,http://concepticon.clld.org/parameters/1264,aistrigh,change
+181-480,iris1253,http://concepticon.clld.org/parameters/1264,athraigh,change
+181-459,iris1253,http://concepticon.clld.org/parameters/1294,náid,"zero, nothing"
+181-416,iris1253,http://concepticon.clld.org/parameters/1294,nialas,"zero, nothing"
+181-1979,iris1253,http://concepticon.clld.org/parameters/1515,a haon,one
+181-522,iris1253,http://concepticon.clld.org/parameters/1498,a dó,two
+181-1148,iris1253,http://concepticon.clld.org/parameters/492,a trí,three
+181-2083,iris1253,http://concepticon.clld.org/parameters/1500,a ceathair,four
+181-496,iris1253,http://concepticon.clld.org/parameters/493,a cúig,five
+181-705,iris1253,http://concepticon.clld.org/parameters/1703,a sé,six
+181-1322,iris1253,http://concepticon.clld.org/parameters/1704,a seacht,seven
+181-969,iris1253,http://concepticon.clld.org/parameters/1705,a hocht,eight
+181-339,iris1253,http://concepticon.clld.org/parameters/1483,a naoí,nine
+181-1502,iris1253,http://concepticon.clld.org/parameters/1515,a deich,ten
+181-1496,iris1253,http://concepticon.clld.org/parameters/1706,a haon d(h)éag,eleven
+181-1013,iris1253,http://concepticon.clld.org/parameters/1707,a dó dhéag,twelve
+181-277,iris1253,http://concepticon.clld.org/parameters/1709,a cúig déag,fifteen
+181-111,iris1253,http://concepticon.clld.org/parameters/1710,fiche,twenty
+181-239,iris1253,http://concepticon.clld.org/parameters/1634,céad,hundred
+181-484,iris1253,http://concepticon.clld.org/parameters/1843,míle,thousand
+181-1297,iris1253,http://concepticon.clld.org/parameters/1420,comhair,count
+181-127,iris1253,http://concepticon.clld.org/parameters/1420,cuntais,count
+181-626,iris1253,http://concepticon.clld.org/parameters/1420,áirigh,count
+181-1451,iris1253,http://concepticon.clld.org/parameters/98,gach,"every, all"
+181-893,iris1253,http://concepticon.clld.org/parameters/98,gach uile,"every, all"
+181-1240,iris1253,http://concepticon.clld.org/parameters/98,go léir,"every, all"
+181-860,iris1253,http://concepticon.clld.org/parameters/1198,mórán,"much, many"
+181-584,iris1253,http://concepticon.clld.org/parameters/1198,a lán,"much, many"
+181-2130,iris1253,http://concepticon.clld.org/parameters/1198,iomaí,"much, many"
+181-1313,iris1253,http://concepticon.clld.org/parameters/1198,lia,"much, many"
+181-1820,iris1253,http://concepticon.clld.org/parameters/1992,tuilleadh,more
+181-252,iris1253,http://concepticon.clld.org/parameters/1242,beagán,"little (quantity), few"
+181-683,iris1253,http://concepticon.clld.org/parameters/1242,beag,"little (quantity), few"
+181-591,iris1253,http://concepticon.clld.org/parameters/1242,tearc,"little (quantity), few"
+181-65,iris1253,http://concepticon.clld.org/parameters/1881,dóthain,enough
+181-620,iris1253,http://concepticon.clld.org/parameters/1881,sáith,enough
+181-1406,iris1253,http://concepticon.clld.org/parameters/1881,leor,enough
+181-1379,iris1253,http://concepticon.clld.org/parameters/1241,éigin,some
+181-296,iris1253,http://concepticon.clld.org/parameters/1241,inteacht,some
+181-2078,iris1253,http://concepticon.clld.org/parameters/2023,slua,"multitude, crowd"
+181-922,iris1253,http://concepticon.clld.org/parameters/2023,iomad,"multitude, crowd"
+181-619,iris1253,http://concepticon.clld.org/parameters/2023,ollslua,"multitude, crowd"
+181-1542,iris1253,http://concepticon.clld.org/parameters/2023,mórchuid,"multitude, crowd"
+181-1070,iris1253,http://concepticon.clld.org/parameters/1429,lán,full
+181-1781,iris1253,http://concepticon.clld.org/parameters/1624,folamh,empty
+181-790,iris1253,http://concepticon.clld.org/parameters/779,cuid,"part, piece"
+181-1467,iris1253,http://concepticon.clld.org/parameters/779,páirt,"part, piece"
+181-890,iris1253,http://concepticon.clld.org/parameters/816,leath,half
+181-939,iris1253,http://concepticon.clld.org/parameters/816,leath-,half
+181-1642,iris1253,http://concepticon.clld.org/parameters/1580,aonar,"alone, only"
+181-661,iris1253,http://concepticon.clld.org/parameters/1580,aon,"alone, only"
+181-1042,iris1253,http://concepticon.clld.org/parameters/1580,amháin,"alone, only"
+181-2105,iris1253,http://concepticon.clld.org/parameters/728,chéad,first
+181-1250,iris1253,http://concepticon.clld.org/parameters/1529,deireannach,last
+181-976,iris1253,http://concepticon.clld.org/parameters/1384,dara,second
+181-62,iris1253,http://concepticon.clld.org/parameters/1888,dís,pair
+181-1244,iris1253,http://concepticon.clld.org/parameters/1546,dhá uair,two times
+181-1804,iris1253,http://concepticon.clld.org/parameters/1546,faoi dhó,two times
+181-1378,iris1253,http://concepticon.clld.org/parameters/1859,tríú,third
+181-455,iris1253,http://concepticon.clld.org/parameters/417,trí h-uaire,three times
+181-114,iris1253,http://concepticon.clld.org/parameters/417,faoi thrí,three times
+181-1048,iris1253,http://concepticon.clld.org/parameters/892,am,time
+181-2033,iris1253,http://concepticon.clld.org/parameters/892,aimsir,time
+181-740,iris1253,http://concepticon.clld.org/parameters/1789,aois,age
+181-321,iris1253,http://concepticon.clld.org/parameters/1231,nua,new
+181-2135,iris1253,http://concepticon.clld.org/parameters/1231,úr,new
+181-1500,iris1253,http://concepticon.clld.org/parameters/1207,óg,young
+181-1181,iris1253,http://concepticon.clld.org/parameters/1229,aosta,old
+181-1960,iris1253,http://concepticon.clld.org/parameters/1229,críonna,old
+181-805,iris1253,http://concepticon.clld.org/parameters/1229,sean-,old
+181-1867,iris1253,http://concepticon.clld.org/parameters/672,go luath,early
+181-1580,iris1253,http://concepticon.clld.org/parameters/672,moch,early
+181-1739,iris1253,http://concepticon.clld.org/parameters/477,déanach,late
+181-998,iris1253,http://concepticon.clld.org/parameters/477,deireanach,late
+181-1166,iris1253,http://concepticon.clld.org/parameters/477,mall,late
+181-1975,iris1253,http://concepticon.clld.org/parameters/1376,anois,now
+181-1565,iris1253,http://concepticon.clld.org/parameters/1963,láithreach,immediately
+181-367,iris1253,http://concepticon.clld.org/parameters/1631,tapaidh,"swift, fast, quick"
+181-165,iris1253,http://concepticon.clld.org/parameters/1631,mear,"swift, fast, quick"
+181-1214,iris1253,http://concepticon.clld.org/parameters/1631,gasta,"swift, fast, quick"
+181-1166,iris1253,http://concepticon.clld.org/parameters/701,mall,slow
+181-1094,iris1253,http://concepticon.clld.org/parameters/701,réidh,slow
+181-1393,iris1253,http://concepticon.clld.org/parameters/701,fadálach,slow
+181-1252,iris1253,http://concepticon.clld.org/parameters/754,brostaigh,"hasten, hurry"
+181-1789,iris1253,http://concepticon.clld.org/parameters/754,déan deifir,"hasten, hurry"
+181-98,iris1253,http://concepticon.clld.org/parameters/425,moilligh,"retard, delay"
+181-1572,iris1253,http://concepticon.clld.org/parameters/1806,tosaigh,"begin, beginning"
+181-578,iris1253,http://concepticon.clld.org/parameters/1806,tosnú,"begin, beginning"
+181-1213,iris1253,http://concepticon.clld.org/parameters/1806,tosach,"begin, beginning"
+181-1193,iris1253,http://concepticon.clld.org/parameters/1806,tús,"begin, beginning"
+181-686,iris1253,http://concepticon.clld.org/parameters/1186,mair,"last, endure"
+181-854,iris1253,http://concepticon.clld.org/parameters/1186,seas,"last, endure"
+181-2063,iris1253,http://concepticon.clld.org/parameters/1186,lean,"last, endure"
+181-797,iris1253,http://concepticon.clld.org/parameters/743,deireadh,end (temporal)
+181-724,iris1253,http://concepticon.clld.org/parameters/743,críoch,end (temporal)
+181-176,iris1253,http://concepticon.clld.org/parameters/1766,críochnaigh,finish
+181-1694,iris1253,http://concepticon.clld.org/parameters/1766,cuir deireadh le,finish
+181-2145,iris1253,http://concepticon.clld.org/parameters/1928,stad,"cease, stop"
+181-301,iris1253,http://concepticon.clld.org/parameters/1928,stop,"cease, stop"
+181-1371,iris1253,http://concepticon.clld.org/parameters/1928,scoir,"cease, stop"
+181-637,iris1253,http://concepticon.clld.org/parameters/790,ullamh,ready
+181-1094,iris1253,http://concepticon.clld.org/parameters/790,réidh,ready
+181-87,iris1253,http://concepticon.clld.org/parameters/1676,i gcónaí,always
+181-393,iris1253,http://concepticon.clld.org/parameters/1676,i dtólamh,always
+181-152,iris1253,http://concepticon.clld.org/parameters/1852,go minic,often
+181-2082,iris1253,http://concepticon.clld.org/parameters/1544,amanna,sometimes
+181-236,iris1253,http://concepticon.clld.org/parameters/1544,uaireanta,sometimes
+181-1863,iris1253,http://concepticon.clld.org/parameters/1544,scaití,sometimes
+181-1867,iris1253,http://concepticon.clld.org/parameters/703,go luath,soon
+181-396,iris1253,http://concepticon.clld.org/parameters/703,go gairid,soon
+181-667,iris1253,http://concepticon.clld.org/parameters/703,gan mhoill,soon
+181-933,iris1253,http://concepticon.clld.org/parameters/418,le fada,long-time (for a)
+181-1073,iris1253,http://concepticon.clld.org/parameters/418,leis na cianta,long-time (for a)
+181-2090,iris1253,http://concepticon.clld.org/parameters/1656,riamh,never
+181-1295,iris1253,http://concepticon.clld.org/parameters/1656,go deo,never
+181-528,iris1253,http://concepticon.clld.org/parameters/1656,go brách,never
+181-632,iris1253,http://concepticon.clld.org/parameters/1656,choíche,never
+181-231,iris1253,http://concepticon.clld.org/parameters/1656,ar chor ar bith,never
+181-927,iris1253,http://concepticon.clld.org/parameters/1656,in aon chor,never
+181-1544,iris1253,http://concepticon.clld.org/parameters/204,arís,again
+181-185,iris1253,http://concepticon.clld.org/parameters/1260,lá,day
+181-1432,iris1253,http://concepticon.clld.org/parameters/1233,oíche,night
+181-1993,iris1253,http://concepticon.clld.org/parameters/729,breacadh lae,dawn
+181-561,iris1253,http://concepticon.clld.org/parameters/729,fáinne an lae,dawn
+181-1997,iris1253,http://concepticon.clld.org/parameters/729,camhaoir,dawn
+181-1787,iris1253,http://concepticon.clld.org/parameters/1339,maidin,morning
+181-721,iris1253,http://concepticon.clld.org/parameters/12,meánlae,"noon, midday"
+181-576,iris1253,http://concepticon.clld.org/parameters/12,nóin,"noon, midday"
+181-1963,iris1253,http://concepticon.clld.org/parameters/12,eadra,"noon, midday"
+181-660,iris1253,http://concepticon.clld.org/parameters/1807,iarnóin,afternoon
+181-926,iris1253,http://concepticon.clld.org/parameters/1807,tráthnóna,afternoon
+181-926,iris1253,http://concepticon.clld.org/parameters/1629,tráthnóna,evening
+181-1432,iris1253,http://concepticon.clld.org/parameters/1629,oíche,evening
+181-558,iris1253,http://concepticon.clld.org/parameters/1283,inniu,today
+181-34,iris1253,http://concepticon.clld.org/parameters/1329,amárach,tomorrow
+181-2132,iris1253,http://concepticon.clld.org/parameters/1179,arú amárach,day-after-tomorrow
+181-1785,iris1253,http://concepticon.clld.org/parameters/1179,anóirthear,day-after-tomorrow
+181-1895,iris1253,http://concepticon.clld.org/parameters/1174,inné,yesterday
+181-1628,iris1253,http://concepticon.clld.org/parameters/1180,arú inné,day-before-yesterday
+181-1017,iris1253,http://concepticon.clld.org/parameters/1353,uair,hour
+181-949,iris1253,http://concepticon.clld.org/parameters/1323,clog,"clock, timepiece"
+181-525,iris1253,http://concepticon.clld.org/parameters/1323,uaireadóir,"clock, timepiece"
+181-1224,iris1253,http://concepticon.clld.org/parameters/1469,seachtain,week
+181-649,iris1253,http://concepticon.clld.org/parameters/1699,(An) Domhnach,Sunday
+181-101,iris1253,http://concepticon.clld.org/parameters/1699,Dé Domhnaigh,Sunday
+181-568,iris1253,http://concepticon.clld.org/parameters/1697,Luan,Monday
+181-423,iris1253,http://concepticon.clld.org/parameters/1697,An Luan,Monday
+181-689,iris1253,http://concepticon.clld.org/parameters/1697,Dé Luain,Monday
+181-230,iris1253,http://concepticon.clld.org/parameters/1695,Máirt,Tuesday
+181-1456,iris1253,http://concepticon.clld.org/parameters/1695,An Mháirt,Tuesday
+181-2020,iris1253,http://concepticon.clld.org/parameters/1695,Dé Máirt,Tuesday
+181-488,iris1253,http://concepticon.clld.org/parameters/1694,Céadaoin,Wednesday
+181-1409,iris1253,http://concepticon.clld.org/parameters/1694,An Chéadaoin,Wednesday
+181-1688,iris1253,http://concepticon.clld.org/parameters/1694,Dé Céadaoin,Wednesday
+181-596,iris1253,http://concepticon.clld.org/parameters/1693,An Déardaoin,Thursday
+181-692,iris1253,http://concepticon.clld.org/parameters/1693,Déardaoin,Thursday
+181-1869,iris1253,http://concepticon.clld.org/parameters/1692,Aoine,Friday
+181-955,iris1253,http://concepticon.clld.org/parameters/1692,An Aoine,Friday
+181-2150,iris1253,http://concepticon.clld.org/parameters/1692,Dé hAoine,Friday
+181-355,iris1253,http://concepticon.clld.org/parameters/1700,Satharn,Saturday
+181-722,iris1253,http://concepticon.clld.org/parameters/1700,An Satharn,Saturday
+181-1397,iris1253,http://concepticon.clld.org/parameters/1700,Dé Sathairn,Saturday
+181-1658,iris1253,http://concepticon.clld.org/parameters/1370,mí,month
+181-1503,iris1253,http://concepticon.clld.org/parameters/1226,bliain,year
+181-1971,iris1253,http://concepticon.clld.org/parameters/1471,geimhreadh,winter
+181-2140,iris1253,http://concepticon.clld.org/parameters/1537,earrach,spring
+181-1119,iris1253,http://concepticon.clld.org/parameters/1342,samhradh,summer
+181-14,iris1253,http://concepticon.clld.org/parameters/1276,fómhar,autumn
+181-545,iris1253,http://concepticon.clld.org/parameters/691,séasúr,season
+181-1624,iris1253,http://concepticon.clld.org/parameters/691,ionú,season
+181-72,iris1253,http://concepticon.clld.org/parameters/1587,boladh,smell (vb intrans)
+181-1626,iris1253,http://concepticon.clld.org/parameters/375,smúr,sniff
+181-1222,iris1253,http://concepticon.clld.org/parameters/375,bolaigh,sniff
+181-1222,iris1253,http://concepticon.clld.org/parameters/1586,bolaigh,smell (vb trans)
+181-1626,iris1253,http://concepticon.clld.org/parameters/1586,smúr,smell (vb trans)
+181-289,iris1253,http://concepticon.clld.org/parameters/1586,boltanaigh,smell (vb trans)
+181-1020,iris1253,http://concepticon.clld.org/parameters/376,cumhra,"fragrant, good smelling"
+181-2112,iris1253,http://concepticon.clld.org/parameters/42,bréan,"stinking, bad smelling"
+181-1453,iris1253,http://concepticon.clld.org/parameters/21,blais,taste
+181-1430,iris1253,http://concepticon.clld.org/parameters/717,milis,sweet
+181-2117,iris1253,http://concepticon.clld.org/parameters/1091,goirt,salty
+181-1844,iris1253,http://concepticon.clld.org/parameters/1091,salainn,salty
+181-1066,iris1253,http://concepticon.clld.org/parameters/887,searbh,bitter
+181-2117,iris1253,http://concepticon.clld.org/parameters/887,goirt,bitter
+181-1016,iris1253,http://concepticon.clld.org/parameters/887,garg,bitter
+181-267,iris1253,http://concepticon.clld.org/parameters/887,géar,bitter
+181-1066,iris1253,http://concepticon.clld.org/parameters/1906,searbh,"acid, sour"
+181-267,iris1253,http://concepticon.clld.org/parameters/1906,géar,"acid, sour"
+181-2117,iris1253,http://concepticon.clld.org/parameters/70,goirt,brackish
+181-1879,iris1253,http://concepticon.clld.org/parameters/1408,cluin,hear
+181-2031,iris1253,http://concepticon.clld.org/parameters/1408,clois,hear
+181-281,iris1253,http://concepticon.clld.org/parameters/1608,éist,listen
+181-450,iris1253,http://concepticon.clld.org/parameters/1811,fuaim,"sound, noise"
+181-477,iris1253,http://concepticon.clld.org/parameters/1811,glór,"sound, noise"
+181-77,iris1253,http://concepticon.clld.org/parameters/1811,foghar,"sound, noise"
+181-1374,iris1253,http://concepticon.clld.org/parameters/377,ard,loud
+181-1991,iris1253,http://concepticon.clld.org/parameters/377,glórach,loud
+181-96,iris1253,http://concepticon.clld.org/parameters/377,gártha,loud
+181-15,iris1253,http://concepticon.clld.org/parameters/1314,ciúin,"quiet, silence"
+181-319,iris1253,http://concepticon.clld.org/parameters/1314,socair,"quiet, silence"
+181-155,iris1253,http://concepticon.clld.org/parameters/1314,ciúnas,"quiet, silence"
+181-506,iris1253,http://concepticon.clld.org/parameters/1314,tost,"quiet, silence"
+181-1445,iris1253,http://concepticon.clld.org/parameters/1409,feic,see
+181-733,iris1253,http://concepticon.clld.org/parameters/1409,chí,see
+181-727,iris1253,http://concepticon.clld.org/parameters/1409,tchí,see
+181-340,iris1253,http://concepticon.clld.org/parameters/1819,féach,"look, look at"
+181-1741,iris1253,http://concepticon.clld.org/parameters/1819,breathnaigh,"look, look at"
+181-615,iris1253,http://concepticon.clld.org/parameters/1039,taispeáin,show
+181-726,iris1253,http://concepticon.clld.org/parameters/708,dealraigh,shine
+181-1131,iris1253,http://concepticon.clld.org/parameters/708,soilsigh,shine
+181-1612,iris1253,http://concepticon.clld.org/parameters/708,lonraigh,shine
+181-1831,iris1253,http://concepticon.clld.org/parameters/679,geal,bright
+181-1619,iris1253,http://concepticon.clld.org/parameters/679,lonrach,bright
+181-756,iris1253,http://concepticon.clld.org/parameters/679,soilseach,bright
+181-399,iris1253,http://concepticon.clld.org/parameters/679,glinniúil,bright
+181-665,iris1253,http://concepticon.clld.org/parameters/1613,dath,color
+181-1122,iris1253,http://concepticon.clld.org/parameters/1613,lí,color
+181-1276,iris1253,http://concepticon.clld.org/parameters/250,éadtrom,light (in color)
+181-1281,iris1253,http://concepticon.clld.org/parameters/706,dorcha,dark (in color)
+181-159,iris1253,http://concepticon.clld.org/parameters/1335,bán,white
+181-1831,iris1253,http://concepticon.clld.org/parameters/1335,geal,white
+181-1310,iris1253,http://concepticon.clld.org/parameters/1335,fionn,white
+181-1866,iris1253,http://concepticon.clld.org/parameters/163,dubh,black
+181-1248,iris1253,http://concepticon.clld.org/parameters/156,dearg,red
+181-1516,iris1253,http://concepticon.clld.org/parameters/156,rua,red
+181-1037,iris1253,http://concepticon.clld.org/parameters/837,gorm,blue
+181-1151,iris1253,http://concepticon.clld.org/parameters/1425,glas,green
+181-94,iris1253,http://concepticon.clld.org/parameters/1425,uaine,green
+181-1262,iris1253,http://concepticon.clld.org/parameters/1424,buí,yellow
+181-1946,iris1253,http://concepticon.clld.org/parameters/1892,teagmhaigh le,touch
+181-1707,iris1253,http://concepticon.clld.org/parameters/1892,bain le,touch
+181-188,iris1253,http://concepticon.clld.org/parameters/1892,tadhaill,touch
+181-1195,iris1253,http://concepticon.clld.org/parameters/378,bain líomóg as,pinch
+181-875,iris1253,http://concepticon.clld.org/parameters/378,bain miotóg as,pinch
+181-302,iris1253,http://concepticon.clld.org/parameters/378,bain scealpóg as,pinch
+181-415,iris1253,http://concepticon.clld.org/parameters/1079,mothaigh,feel
+181-2038,iris1253,http://concepticon.clld.org/parameters/1884,crua,hard
+181-612,iris1253,http://concepticon.clld.org/parameters/1856,bog,soft
+181-2122,iris1253,http://concepticon.clld.org/parameters/1923,garbh,rough
+181-1094,iris1253,http://concepticon.clld.org/parameters/1234,réidh,smooth
+181-1287,iris1253,http://concepticon.clld.org/parameters/1234,mín,smooth
+181-267,iris1253,http://concepticon.clld.org/parameters/1396,géar,sharp
+181-993,iris1253,http://concepticon.clld.org/parameters/379,maol,"blunt, dull"
+181-817,iris1253,http://concepticon.clld.org/parameters/1210,trom,heavy
+181-1276,iris1253,http://concepticon.clld.org/parameters/1052,éadtrom,light (in weight)
+181-777,iris1253,http://concepticon.clld.org/parameters/1726,fliuch,"wet, damp"
+181-1905,iris1253,http://concepticon.clld.org/parameters/1398,tirim,dry
+181-93,iris1253,http://concepticon.clld.org/parameters/1286,te,hot
+181-93,iris1253,http://concepticon.clld.org/parameters/1232,te,warm
+181-1249,iris1253,http://concepticon.clld.org/parameters/1232,brothallach,warm
+181-598,iris1253,http://concepticon.clld.org/parameters/1232,bogthe,warm
+181-1294,iris1253,http://concepticon.clld.org/parameters/1232,alabhog,warm
+181-352,iris1253,http://concepticon.clld.org/parameters/1287,fuar,cold
+181-1153,iris1253,http://concepticon.clld.org/parameters/704,glan,clean
+181-908,iris1253,http://concepticon.clld.org/parameters/1230,salach,"dirty, soiled"
+181-1144,iris1253,http://concepticon.clld.org/parameters/380,rocach,wrinkled
+181-1106,iris1253,http://concepticon.clld.org/parameters/53,anam,"soul, spirit"
+181-1107,iris1253,http://concepticon.clld.org/parameters/53,spiorad,"soul, spirit"
+181-1302,iris1253,http://concepticon.clld.org/parameters/1572,iontas,"surprised, astonished"
+181-2030,iris1253,http://concepticon.clld.org/parameters/720,ádh,"good fortune, luck"
+181-846,iris1253,http://concepticon.clld.org/parameters/720,sonas,"good fortune, luck"
+181-105,iris1253,http://concepticon.clld.org/parameters/56,mí-ádh,"misfortune, bad luck"
+181-224,iris1253,http://concepticon.clld.org/parameters/56,mí-fhortún,"misfortune, bad luck"
+181-1706,iris1253,http://concepticon.clld.org/parameters/56,anachain,"misfortune, bad luck"
+181-421,iris1253,http://concepticon.clld.org/parameters/56,donas,"misfortune, bad luck"
+181-329,iris1253,http://concepticon.clld.org/parameters/1495,lúcháireach,"joyful, glad, happy"
+181-595,iris1253,http://concepticon.clld.org/parameters/1495,áthasach,"joyful, glad, happy"
+181-725,iris1253,http://concepticon.clld.org/parameters/1495,gliondrach,"joyful, glad, happy"
+181-1015,iris1253,http://concepticon.clld.org/parameters/1495,suairc,"joyful, glad, happy"
+181-473,iris1253,http://concepticon.clld.org/parameters/1495,sona sásta,"joyful, glad, happy"
+181-582,iris1253,http://concepticon.clld.org/parameters/1495,ollghairdeach,"joyful, glad, happy"
+181-1972,iris1253,http://concepticon.clld.org/parameters/1495,rí-méadach,"joyful, glad, happy"
+181-413,iris1253,http://concepticon.clld.org/parameters/1355,gáir,laugh
+181-314,iris1253,http://concepticon.clld.org/parameters/1355,gáire a dhéanamh,laugh
+181-690,iris1253,http://concepticon.clld.org/parameters/1451,miongháire a dhéanamh,smile
+181-478,iris1253,http://concepticon.clld.org/parameters/1413,imir,play
+181-1638,iris1253,http://concepticon.clld.org/parameters/1413,súgradh,play
+181-377,iris1253,http://concepticon.clld.org/parameters/1413,spraoi,play
+181-2093,iris1253,http://concepticon.clld.org/parameters/923,grá,love
+181-32,iris1253,http://concepticon.clld.org/parameters/923,cion,love
+181-291,iris1253,http://concepticon.clld.org/parameters/923,gean,love
+181-178,iris1253,http://concepticon.clld.org/parameters/923,searc,love
+181-142,iris1253,http://concepticon.clld.org/parameters/578,póg,kiss
+181-431,iris1253,http://concepticon.clld.org/parameters/928,barróg,embrace
+181-1740,iris1253,http://concepticon.clld.org/parameters/928,cuach,embrace
+181-1434,iris1253,http://concepticon.clld.org/parameters/1783,pian,pain
+181-1766,iris1253,http://concepticon.clld.org/parameters/1668,brón,"grief, sorrow, sadness"
+181-961,iris1253,http://concepticon.clld.org/parameters/1668,cumha,"grief, sorrow, sadness"
+181-869,iris1253,http://concepticon.clld.org/parameters/1668,léan,"grief, sorrow, sadness"
+181-1081,iris1253,http://concepticon.clld.org/parameters/1000,imní,"anxiety, worry"
+181-1964,iris1253,http://concepticon.clld.org/parameters/1000,buaireamh,"anxiety, worry"
+181-630,iris1253,http://concepticon.clld.org/parameters/1875,aiféala,"regret, be sorry"
+181-492,iris1253,http://concepticon.clld.org/parameters/1141,trua,pity
+181-2099,iris1253,http://concepticon.clld.org/parameters/1839,goil,"cry, weep"
+181-1424,iris1253,http://concepticon.clld.org/parameters/1839,caoin,"cry, weep"
+181-1683,iris1253,http://concepticon.clld.org/parameters/1651,deor,tear (noun)
+181-2156,iris1253,http://concepticon.clld.org/parameters/716,cnead,groan
+181-293,iris1253,http://concepticon.clld.org/parameters/716,och,groan
+181-523,iris1253,http://concepticon.clld.org/parameters/1607,fuath,hate
+181-1578,iris1253,http://concepticon.clld.org/parameters/82,fearg,anger
+181-1893,iris1253,http://concepticon.clld.org/parameters/40,tnúth,"envy, jealousy"
+181-402,iris1253,http://concepticon.clld.org/parameters/40,formad,"envy, jealousy"
+181-10,iris1253,http://concepticon.clld.org/parameters/40,éad,"envy, jealousy"
+181-1455,iris1253,http://concepticon.clld.org/parameters/1776,náire,shame (noun)
+181-1969,iris1253,http://concepticon.clld.org/parameters/174,mórchúiseach,proud
+181-1329,iris1253,http://concepticon.clld.org/parameters/174,bródúil,proud
+181-91,iris1253,http://concepticon.clld.org/parameters/174,mórálach,proud
+181-1485,iris1253,http://concepticon.clld.org/parameters/174,uaibhreach,proud
+181-2012,iris1253,http://concepticon.clld.org/parameters/1779,dúshlán,dare
+181-696,iris1253,http://concepticon.clld.org/parameters/3,calma,brave
+181-1506,iris1253,http://concepticon.clld.org/parameters/3,misniúil,brave
+181-1908,iris1253,http://concepticon.clld.org/parameters/3,cróga,brave
+181-520,iris1253,http://concepticon.clld.org/parameters/3,móruchtúil,brave
+181-731,iris1253,http://concepticon.clld.org/parameters/781,eagla,"fear, fright"
+181-2037,iris1253,http://concepticon.clld.org/parameters/781,faitcheas,"fear, fright"
+181-617,iris1253,http://concepticon.clld.org/parameters/781,uamhan,"fear, fright"
+181-1054,iris1253,http://concepticon.clld.org/parameters/781,scanradh,"fear, fright"
+181-2124,iris1253,http://concepticon.clld.org/parameters/1810,baol,danger
+181-1826,iris1253,http://concepticon.clld.org/parameters/1810,dainséar,danger
+181-1936,iris1253,http://concepticon.clld.org/parameters/1810,contúirt,danger
+181-1075,iris1253,http://concepticon.clld.org/parameters/1810,guais,danger
+181-602,iris1253,http://concepticon.clld.org/parameters/1784,santaigh,"desire, want"
+181-1452,iris1253,http://concepticon.clld.org/parameters/1784,mianaigh,"desire, want"
+181-182,iris1253,http://concepticon.clld.org/parameters/1784,tothlaigh,"desire, want"
+181-2,iris1253,http://concepticon.clld.org/parameters/1750,togh,choose
+181-1668,iris1253,http://concepticon.clld.org/parameters/1750,roghnaigh,choose
+181-1448,iris1253,http://concepticon.clld.org/parameters/1092,dóchas,hope
+181-702,iris1253,http://concepticon.clld.org/parameters/1092,súil,hope
+181-235,iris1253,http://concepticon.clld.org/parameters/100,dílis,faithful
+181-816,iris1253,http://concepticon.clld.org/parameters/100,tairiseach,faithful
+181-1671,iris1253,http://concepticon.clld.org/parameters/100,seasmhach,faithful
+181-884,iris1253,http://concepticon.clld.org/parameters/1657,fíor,true
+181-2116,iris1253,http://concepticon.clld.org/parameters/601,bréag,"lie, tell lies"
+181-1665,iris1253,http://concepticon.clld.org/parameters/601,éitheach,"lie, tell lies"
+181-84,iris1253,http://concepticon.clld.org/parameters/13,cealg,deceit
+181-1973,iris1253,http://concepticon.clld.org/parameters/13,calaois,deceit
+181-1278,iris1253,http://concepticon.clld.org/parameters/13,meabhal,deceit
+181-1996,iris1253,http://concepticon.clld.org/parameters/13,camastaíl,deceit
+181-1364,iris1253,http://concepticon.clld.org/parameters/13,feall,deceit
+181-715,iris1253,http://concepticon.clld.org/parameters/1528,maith,forgive
+181-715,iris1253,http://concepticon.clld.org/parameters/1035,maith,good
+181-793,iris1253,http://concepticon.clld.org/parameters/1035,deá-,good
+181-487,iris1253,http://concepticon.clld.org/parameters/1035,so-,good
+181-470,iris1253,http://concepticon.clld.org/parameters/1292,olc,bad
+181-100,iris1253,http://concepticon.clld.org/parameters/1292,droch-,bad
+181-249,iris1253,http://concepticon.clld.org/parameters/1292,do-,bad
+181-323,iris1253,http://concepticon.clld.org/parameters/1725,ceart,"right, correct"
+181-795,iris1253,http://concepticon.clld.org/parameters/1725,cóir,"right, correct"
+181-1892,iris1253,http://concepticon.clld.org/parameters/1390,mícheart,wrong
+181-572,iris1253,http://concepticon.clld.org/parameters/1390,contráilte,wrong
+181-470,iris1253,http://concepticon.clld.org/parameters/1390,olc,wrong
+181-836,iris1253,http://concepticon.clld.org/parameters/134,locht,fault
+181-32,iris1253,http://concepticon.clld.org/parameters/134,cion,fault
+181-1730,iris1253,http://concepticon.clld.org/parameters/1293,dearmad,"mistake, error"
+181-1931,iris1253,http://concepticon.clld.org/parameters/1293,earráid,"mistake, error"
+181-844,iris1253,http://concepticon.clld.org/parameters/1293,meancóg,"mistake, error"
+181-375,iris1253,http://concepticon.clld.org/parameters/1293,botún,"mistake, error"
+181-745,iris1253,http://concepticon.clld.org/parameters/381,milleán,blame
+181-1078,iris1253,http://concepticon.clld.org/parameters/1687,moladh,praise
+181-959,iris1253,http://concepticon.clld.org/parameters/1427,álainn,beautiful
+181-1376,iris1253,http://concepticon.clld.org/parameters/1427,sciamhach,beautiful
+181-1648,iris1253,http://concepticon.clld.org/parameters/1427,spéiriúil,beautiful
+181-1203,iris1253,http://concepticon.clld.org/parameters/1427,dóighiúil,beautiful
+181-917,iris1253,http://concepticon.clld.org/parameters/1548,gránna,ugly
+181-2049,iris1253,http://concepticon.clld.org/parameters/1548,míofar,ugly
+181-600,iris1253,http://concepticon.clld.org/parameters/2018,santach,greedy
+181-200,iris1253,http://concepticon.clld.org/parameters/2018,airceasach,greedy
+181-1738,iris1253,http://concepticon.clld.org/parameters/2018,amplach,greedy
+181-1681,iris1253,http://concepticon.clld.org/parameters/1310,cliste,clever
+181-1399,iris1253,http://concepticon.clld.org/parameters/1310,stuama,clever
+181-833,iris1253,http://concepticon.clld.org/parameters/1310,meabhrach,clever
+181-1828,iris1253,http://concepticon.clld.org/parameters/1310,éirimiúil,clever
+181-2043,iris1253,http://concepticon.clld.org/parameters/1310,ábalta,clever
+181-2011,iris1253,http://concepticon.clld.org/parameters/1562,aigne,mind
+181-1047,iris1253,http://concepticon.clld.org/parameters/1562,intinn,mind
+181-1106,iris1253,http://concepticon.clld.org/parameters/1562,anam,mind
+181-1806,iris1253,http://concepticon.clld.org/parameters/1562,intleacht,mind
+181-1961,iris1253,http://concepticon.clld.org/parameters/1415,smaoinigh,think (= reflect)
+181-840,iris1253,http://concepticon.clld.org/parameters/1415,machtnaigh,think (= reflect)
+181-1110,iris1253,http://concepticon.clld.org/parameters/1415,meabhraigh,think (= reflect)
+181-164,iris1253,http://concepticon.clld.org/parameters/1513,meas,think (= be of the opinion)
+181-460,iris1253,http://concepticon.clld.org/parameters/1513,síl,think (= be of the opinion)
+181-1235,iris1253,http://concepticon.clld.org/parameters/1513,ceap,think (= be of the opinion)
+181-1999,iris1253,http://concepticon.clld.org/parameters/1890,creid,believe
+181-2057,iris1253,http://concepticon.clld.org/parameters/1536,tuig,understand
+181-1230,iris1253,http://concepticon.clld.org/parameters/1410,fios,know
+181-931,iris1253,http://concepticon.clld.org/parameters/1932,tomhais,guess
+181-350,iris1253,http://concepticon.clld.org/parameters/1932,tuairimigh,guess
+181-117,iris1253,http://concepticon.clld.org/parameters/117,aithris,imitate
+181-1956,iris1253,http://concepticon.clld.org/parameters/1521,cumá,seem
+181-1411,iris1253,http://concepticon.clld.org/parameters/1521,dealramh,seem
+181-524,iris1253,http://concepticon.clld.org/parameters/1521,samhlaigh,seem
+181-273,iris1253,http://concepticon.clld.org/parameters/1609,smaoineamh,"idea, notion"
+181-1199,iris1253,http://concepticon.clld.org/parameters/1609,idé,"idea, notion"
+181-796,iris1253,http://concepticon.clld.org/parameters/1609,coincheap,"idea, notion"
+181-222,iris1253,http://concepticon.clld.org/parameters/698,eagnaí,wise
+181-1960,iris1253,http://concepticon.clld.org/parameters/698,críonna,wise
+181-1617,iris1253,http://concepticon.clld.org/parameters/698,gaoismhear,wise
+181-1525,iris1253,http://concepticon.clld.org/parameters/1518,dúr,"foolish, stupid"
+181-1655,iris1253,http://concepticon.clld.org/parameters/1518,dobhránta,"foolish, stupid"
+181-1085,iris1253,http://concepticon.clld.org/parameters/1518,dallintinneach,"foolish, stupid"
+181-1690,iris1253,http://concepticon.clld.org/parameters/1518,bómánta,"foolish, stupid"
+181-44,iris1253,http://concepticon.clld.org/parameters/1518,amaideach,"foolish, stupid"
+181-2071,iris1253,http://concepticon.clld.org/parameters/1899,ar buile,"insane, crazy"
+181-1753,iris1253,http://concepticon.clld.org/parameters/1899,ar mire,"insane, crazy"
+181-149,iris1253,http://concepticon.clld.org/parameters/504,foghlaim,learn
+181-848,iris1253,http://concepticon.clld.org/parameters/1929,staidéar,study
+181-1741,iris1253,http://concepticon.clld.org/parameters/1929,breathnaigh,study
+181-18,iris1253,http://concepticon.clld.org/parameters/1929,scrúdaigh,study
+181-1396,iris1253,http://concepticon.clld.org/parameters/709,múin,teach
+181-1092,iris1253,http://concepticon.clld.org/parameters/709,teagasc,teach
+181-1594,iris1253,http://concepticon.clld.org/parameters/753,dalta,pupil
+181-1164,iris1253,http://concepticon.clld.org/parameters/753,scoláire,pupil
+181-1734,iris1253,http://concepticon.clld.org/parameters/753,mac léinn,pupil
+181-732,iris1253,http://concepticon.clld.org/parameters/753,iníon léinn,pupil
+181-322,iris1253,http://concepticon.clld.org/parameters/1038,múinteoir,teacher
+181-771,iris1253,http://concepticon.clld.org/parameters/1038,oide,teacher
+181-2056,iris1253,http://concepticon.clld.org/parameters/1038,máistir scoile,teacher
+181-1064,iris1253,http://concepticon.clld.org/parameters/1038,máistreás scoile,teacher
+181-1375,iris1253,http://concepticon.clld.org/parameters/673,scoil,school
+181-294,iris1253,http://concepticon.clld.org/parameters/673,bunscoil,school
+181-629,iris1253,http://concepticon.clld.org/parameters/707,cuimhnigh,remember
+181-203,iris1253,http://concepticon.clld.org/parameters/707,cuimhin,remember
+181-1730,iris1253,http://concepticon.clld.org/parameters/1523,dearmad,forget
+181-706,iris1253,http://concepticon.clld.org/parameters/989,soiléar,"clear, plain"
+181-425,iris1253,http://concepticon.clld.org/parameters/989,follasach,"clear, plain"
+181-1831,iris1253,http://concepticon.clld.org/parameters/989,geal,"clear, plain"
+181-1945,iris1253,http://concepticon.clld.org/parameters/989,gléigeal,"clear, plain"
+181-555,iris1253,http://concepticon.clld.org/parameters/1764,doiléir,obscure
+181-1281,iris1253,http://concepticon.clld.org/parameters/1764,dorcha,obscure
+181-143,iris1253,http://concepticon.clld.org/parameters/1764,smúitiúil,obscure
+181-1646,iris1253,http://concepticon.clld.org/parameters/1121,rúnda,secret
+181-1446,iris1253,http://concepticon.clld.org/parameters/1121,rúin,secret
+181-1328,iris1253,http://concepticon.clld.org/parameters/1121,sicréideach,secret
+181-1245,iris1253,http://concepticon.clld.org/parameters/509,cinnte,"sure, certain"
+181-1256,iris1253,http://concepticon.clld.org/parameters/509,deimhin,"sure, certain"
+181-606,iris1253,http://concepticon.clld.org/parameters/509,dearfa,"sure, certain"
+181-1189,iris1253,http://concepticon.clld.org/parameters/509,dearbh,"sure, certain"
+181-2092,iris1253,http://concepticon.clld.org/parameters/1626,mínigh,explain
+181-1842,iris1253,http://concepticon.clld.org/parameters/1626,ciallaigh,explain
+181-1769,iris1253,http://concepticon.clld.org/parameters/1162,rún,"intention, purpose"
+181-1437,iris1253,http://concepticon.clld.org/parameters/1162,aidhm,"intention, purpose"
+181-1773,iris1253,http://concepticon.clld.org/parameters/1162,cuspóir,"intention, purpose"
+181-2157,iris1253,http://concepticon.clld.org/parameters/860,cúis,cause
+181-441,iris1253,http://concepticon.clld.org/parameters/860,ábhar,cause
+181-1005,iris1253,http://concepticon.clld.org/parameters/860,údar,cause
+181-472,iris1253,http://concepticon.clld.org/parameters/1308,dabht,doubt
+181-1226,iris1253,http://concepticon.clld.org/parameters/1308,amhras,doubt
+181-1226,iris1253,http://concepticon.clld.org/parameters/1841,amhras,suspect
+181-1241,iris1253,http://concepticon.clld.org/parameters/1902,braith,betray
+181-1364,iris1253,http://concepticon.clld.org/parameters/1902,feall,betray
+181-2107,iris1253,http://concepticon.clld.org/parameters/1902,tréig,betray
+181-68,iris1253,http://concepticon.clld.org/parameters/643,riachtanas,"need, necessity"
+181-1482,iris1253,http://concepticon.clld.org/parameters/643,gá,"need, necessity"
+181-78,iris1253,http://concepticon.clld.org/parameters/643,call,"need, necessity"
+181-13,iris1253,http://concepticon.clld.org/parameters/686,furasta,easy
+181-570,iris1253,http://concepticon.clld.org/parameters/686,saoráideach,easy
+181-1994,iris1253,http://concepticon.clld.org/parameters/686,fuirist,easy
+181-1284,iris1253,http://concepticon.clld.org/parameters/584,deacair,difficult
+181-1977,iris1253,http://concepticon.clld.org/parameters/584,doiligh,difficult
+181-1182,iris1253,http://concepticon.clld.org/parameters/584,duaisiúil,difficult
+181-1621,iris1253,http://concepticon.clld.org/parameters/1812,iarraigh,"try, attempt"
+181-1347,iris1253,http://concepticon.clld.org/parameters/1812,tástáil,"try, attempt"
+181-1221,iris1253,http://concepticon.clld.org/parameters/1812,promh,"try, attempt"
+181-556,iris1253,http://concepticon.clld.org/parameters/1812,seiceáil,"try, attempt"
+181-639,iris1253,http://concepticon.clld.org/parameters/1812,dearbháil,"try, attempt"
+181-340,iris1253,http://concepticon.clld.org/parameters/1812,féach,"try, attempt"
+181-1354,iris1253,http://concepticon.clld.org/parameters/488,dóigh,"way, manner"
+181-562,iris1253,http://concepticon.clld.org/parameters/488,caoi,"way, manner"
+181-1627,iris1253,http://concepticon.clld.org/parameters/1577,agus,and
+181-1577,iris1253,http://concepticon.clld.org/parameters/1157,de bhrí go,because
+181-1301,iris1253,http://concepticon.clld.org/parameters/1157,cionn is go,because
+181-212,iris1253,http://concepticon.clld.org/parameters/1157,mar gheall ar go,because
+181-109,iris1253,http://concepticon.clld.org/parameters/1157,as siocair go,because
+181-49,iris1253,http://concepticon.clld.org/parameters/1157,toisc go,because
+181-374,iris1253,http://concepticon.clld.org/parameters/1157,ar an ábhar go,because
+181-1625,iris1253,http://concepticon.clld.org/parameters/1157,mar (go),because
+181-621,iris1253,http://concepticon.clld.org/parameters/1157,nó,because
+181-723,iris1253,http://concepticon.clld.org/parameters/1459,má,if
+181-1521,iris1253,http://concepticon.clld.org/parameters/1459,dá,if
+181-621,iris1253,http://concepticon.clld.org/parameters/1014,nó,or
+181-1386,iris1253,http://concepticon.clld.org/parameters/1268,ná,"yes, affirmative"
+181-1386,iris1253,http://concepticon.clld.org/parameters/1269,ná,"no, negative"
+181-2125,iris1253,http://concepticon.clld.org/parameters/1239,conas,how?
+181-2075,iris1253,http://concepticon.clld.org/parameters/1239,cén chaoi,how?
+181-1650,iris1253,http://concepticon.clld.org/parameters/1239,cén dóigh,how?
+181-1678,iris1253,http://concepticon.clld.org/parameters/1239,cad é mar,how?
+181-1603,iris1253,http://concepticon.clld.org/parameters/822,cé mhéad,how many?
+181-1603,iris1253,http://concepticon.clld.org/parameters/531,cé mhéad,how much?
+181-647,iris1253,http://concepticon.clld.org/parameters/1236,cad,what?
+181-540,iris1253,http://concepticon.clld.org/parameters/1236,cad é (caidé),what?
+181-982,iris1253,http://concepticon.clld.org/parameters/1238,cathain,when?
+181-1571,iris1253,http://concepticon.clld.org/parameters/1238,cén uair,when?
+181-1726,iris1253,http://concepticon.clld.org/parameters/1238,cá huair,when?
+181-679,iris1253,http://concepticon.clld.org/parameters/1237,cá,where?
+181-1649,iris1253,http://concepticon.clld.org/parameters/1237,cén áit,where?
+181-1188,iris1253,http://concepticon.clld.org/parameters/727,cé acu (ceann),which?
+181-1140,iris1253,http://concepticon.clld.org/parameters/1235,cé,who?
+181-855,iris1253,http://concepticon.clld.org/parameters/1270,cad chuige,why?
+181-1600,iris1253,http://concepticon.clld.org/parameters/1270,cén fáth,why?
+181-653,iris1253,http://concepticon.clld.org/parameters/1270,cad ina thaobh,why?
+181-2032,iris1253,http://concepticon.clld.org/parameters/1363,guth,voice
+181-477,iris1253,http://concepticon.clld.org/parameters/1363,glór,voice
+181-642,iris1253,http://concepticon.clld.org/parameters/1261,can,sing
+181-2054,iris1253,http://concepticon.clld.org/parameters/55,cogar,whisper
+181-674,iris1253,http://concepticon.clld.org/parameters/128,mungail,mumble
+181-404,iris1253,http://concepticon.clld.org/parameters/128,cogain,mumble
+181-1883,iris1253,http://concepticon.clld.org/parameters/1025,fead,whistle
+181-1951,iris1253,http://concepticon.clld.org/parameters/298,scread,"shriek, screech"
+181-1691,iris1253,http://concepticon.clld.org/parameters/298,scréach,"shriek, screech"
+181-945,iris1253,http://concepticon.clld.org/parameters/298,béic,"shriek, screech"
+181-945,iris1253,http://concepticon.clld.org/parameters/526,béic,howl
+181-577,iris1253,http://concepticon.clld.org/parameters/526,uaill,howl
+181-1156,iris1253,http://concepticon.clld.org/parameters/526,glam,howl
+181-1697,iris1253,http://concepticon.clld.org/parameters/1623,labhair,"speak, talk"
+181-1308,iris1253,http://concepticon.clld.org/parameters/1623,caint a dhéanamh,"speak, talk"
+181-2145,iris1253,http://concepticon.clld.org/parameters/1866,stad,"stutter, stammer"
+181-1861,iris1253,http://concepticon.clld.org/parameters/1458,deir,say
+181-1093,iris1253,http://concepticon.clld.org/parameters/1711,inis,tell story
+181-1861,iris1253,http://concepticon.clld.org/parameters/1711,deir,tell story
+181-663,iris1253,http://concepticon.clld.org/parameters/1115,óráid,speech (make a)
+181-506,iris1253,http://concepticon.clld.org/parameters/48,tost,silent (be)
+181-1805,iris1253,http://concepticon.clld.org/parameters/1307,teanga,language
+181-1303,iris1253,http://concepticon.clld.org/parameters/1307,urlabhra,language
+181-694,iris1253,http://concepticon.clld.org/parameters/1307,caint,language
+181-1458,iris1253,http://concepticon.clld.org/parameters/1599,focal,word
+181-1200,iris1253,http://concepticon.clld.org/parameters/1599,briathar,word
+181-830,iris1253,http://concepticon.clld.org/parameters/1405,ainm,name
+181-863,iris1253,http://concepticon.clld.org/parameters/1309,fiafraigh,"ask (question, inquire)"
+181-2039,iris1253,http://concepticon.clld.org/parameters/1275,freagair,answer
+181-1210,iris1253,http://concepticon.clld.org/parameters/2022,admhaigh,"admit, confess"
+181-1696,iris1253,http://concepticon.clld.org/parameters/755,séan,deny
+181-338,iris1253,http://concepticon.clld.org/parameters/755,bréagnaigh,deny
+181-590,iris1253,http://concepticon.clld.org/parameters/1828,iarr,"ask, request"
+181-518,iris1253,http://concepticon.clld.org/parameters/1675,geall,promise
+181-937,iris1253,http://concepticon.clld.org/parameters/49,diúltaigh,refuse
+181-1897,iris1253,http://concepticon.clld.org/parameters/49,eitigh,refuse
+181-1644,iris1253,http://concepticon.clld.org/parameters/83,cros,forbid
+181-549,iris1253,http://concepticon.clld.org/parameters/83,toirmisc,forbid
+181-2131,iris1253,http://concepticon.clld.org/parameters/83,coisc,forbid
+181-1813,iris1253,http://concepticon.clld.org/parameters/299,bearr,"rebuke, scold"
+181-1667,iris1253,http://concepticon.clld.org/parameters/299,feann,"rebuke, scold"
+181-1715,iris1253,http://concepticon.clld.org/parameters/299,scioll,"rebuke, scold"
+181-1389,iris1253,http://concepticon.clld.org/parameters/299,éiligh ar,"rebuke, scold"
+181-1418,iris1253,http://concepticon.clld.org/parameters/1084,scairt ar,call (=summon)
+181-1641,iris1253,http://concepticon.clld.org/parameters/1084,glaoigh ar,call (=summon)
+181-498,iris1253,http://concepticon.clld.org/parameters/1084,gair ar,call (=summon)
+181-857,iris1253,http://concepticon.clld.org/parameters/180,gair,call (=name)
+181-1840,iris1253,http://concepticon.clld.org/parameters/9,fógair,announce
+181-593,iris1253,http://concepticon.clld.org/parameters/1192,bagair,threaten
+181-202,iris1253,http://concepticon.clld.org/parameters/101,maígh,boast
+181-624,iris1253,http://concepticon.clld.org/parameters/101,gaisce,boast
+181-356,iris1253,http://concepticon.clld.org/parameters/1672,scríobh,write
+181-1233,iris1253,http://concepticon.clld.org/parameters/724,léigh,read
+181-1400,iris1253,http://concepticon.clld.org/parameters/648,páipéar,paper
+181-819,iris1253,http://concepticon.clld.org/parameters/794,peann,pen
+181-171,iris1253,http://concepticon.clld.org/parameters/963,leabhar,book
+181-1053,iris1253,http://concepticon.clld.org/parameters/1045,file,poet
+181-853,iris1253,http://concepticon.clld.org/parameters/777,fliúit,flute
+181-995,iris1253,http://concepticon.clld.org/parameters/908,druma,drum
+181-454,iris1253,http://concepticon.clld.org/parameters/2136,corn,"horn, trumpet"
+181-1947,iris1253,http://concepticon.clld.org/parameters/2136,trumpa,"horn, trumpet"
+181-569,iris1253,http://concepticon.clld.org/parameters/300,crothal,rattle
+181-242,iris1253,http://concepticon.clld.org/parameters/300,gligín,rattle
+181-170,iris1253,http://concepticon.clld.org/parameters/1300,tír,country
+181-436,iris1253,http://concepticon.clld.org/parameters/1300,tuath,country
+181-724,iris1253,http://concepticon.clld.org/parameters/1300,críoch,country
+181-980,iris1253,http://concepticon.clld.org/parameters/89,tír dhúchais,one's native country
+181-978,iris1253,http://concepticon.clld.org/parameters/1391,cathair,"city, town"
+181-1072,iris1253,http://concepticon.clld.org/parameters/1391,baile mór,"city, town"
+181-881,iris1253,http://concepticon.clld.org/parameters/930,baile (beag),village
+181-1334,iris1253,http://concepticon.clld.org/parameters/930,sráidbhaile,village
+181-724,iris1253,http://concepticon.clld.org/parameters/1010,críoch,boundary
+181-1782,iris1253,http://concepticon.clld.org/parameters/1010,teorainn,boundary
+181-652,iris1253,http://concepticon.clld.org/parameters/789,daoine,people (populace)
+181-2094,iris1253,http://concepticon.clld.org/parameters/789,pobal,people (populace)
+181-1871,iris1253,http://concepticon.clld.org/parameters/789,muintir,people (populace)
+181-1186,iris1253,http://concepticon.clld.org/parameters/789,bunadh,people (populace)
+181-1207,iris1253,http://concepticon.clld.org/parameters/789,cine,people (populace)
+181-1135,iris1253,http://concepticon.clld.org/parameters/302,treibh,"tribe, clan"
+181-1346,iris1253,http://concepticon.clld.org/parameters/302,fine,"tribe, clan"
+181-1871,iris1253,http://concepticon.clld.org/parameters/302,muintir,"tribe, clan"
+181-1186,iris1253,http://concepticon.clld.org/parameters/302,bunadh,"tribe, clan"
+181-655,iris1253,http://concepticon.clld.org/parameters/302,clann,"tribe, clan"
+181-921,iris1253,http://concepticon.clld.org/parameters/301,taoiseach,"chief, chieftain"
+181-331,iris1253,http://concepticon.clld.org/parameters/301,ceann fine,"chief, chieftain"
+181-320,iris1253,http://concepticon.clld.org/parameters/301,flaith,"chief, chieftain"
+181-1204,iris1253,http://concepticon.clld.org/parameters/301,triath,"chief, chieftain"
+181-1471,iris1253,http://concepticon.clld.org/parameters/1296,bachall,"staff, walking stick"
+181-217,iris1253,http://concepticon.clld.org/parameters/1296,crann,"staff, walking stick"
+181-1027,iris1253,http://concepticon.clld.org/parameters/1846,rialaigh,"rule, govern"
+181-25,iris1253,http://concepticon.clld.org/parameters/1846,bheith i réim,"rule, govern"
+181-1275,iris1253,http://concepticon.clld.org/parameters/1846,bheith i gceannas,"rule, govern"
+181-1530,iris1253,http://concepticon.clld.org/parameters/1508,rí,"king, ruler"
+181-1170,iris1253,http://concepticon.clld.org/parameters/1306,banríon,queen
+181-872,iris1253,http://concepticon.clld.org/parameters/482,uasal,"noble, nobleman"
+181-535,iris1253,http://concepticon.clld.org/parameters/1032,saoránach,"citizen, subject"
+181-213,iris1253,http://concepticon.clld.org/parameters/1032,cathróir,"citizen, subject"
+181-575,iris1253,http://concepticon.clld.org/parameters/383,máistir,master
+181-1689,iris1253,http://concepticon.clld.org/parameters/812,sclábhaí,slave
+181-1315,iris1253,http://concepticon.clld.org/parameters/255,seirbhíseach,servant
+181-527,iris1253,http://concepticon.clld.org/parameters/255,searbhónta,servant
+181-2121,iris1253,http://concepticon.clld.org/parameters/384,saorfhear,freeman
+181-1721,iris1253,http://concepticon.clld.org/parameters/384,saoirseach,freeman
+181-535,iris1253,http://concepticon.clld.org/parameters/384,saoránach,freeman
+181-1462,iris1253,http://concepticon.clld.org/parameters/1128,órdaigh,"command, order"
+181-1450,iris1253,http://concepticon.clld.org/parameters/1635,géill,obey
+181-1673,iris1253,http://concepticon.clld.org/parameters/1003,lig do,"let, permit"
+181-7,iris1253,http://concepticon.clld.org/parameters/1003,ceadaigh,"let, permit"
+181-747,iris1253,http://concepticon.clld.org/parameters/1325,cara,"friend, companion"
+181-1111,iris1253,http://concepticon.clld.org/parameters/1325,comrádaí,"friend, companion"
+181-1535,iris1253,http://concepticon.clld.org/parameters/1325,compánach,"friend, companion"
+181-11,iris1253,http://concepticon.clld.org/parameters/1358,namhaid,enemy
+181-1586,iris1253,http://concepticon.clld.org/parameters/1332,comharsa,neighbor
+181-1253,iris1253,http://concepticon.clld.org/parameters/791,coimhthíoch,stranger
+181-1693,iris1253,http://concepticon.clld.org/parameters/791,eachtrannach,stranger
+181-1465,iris1253,http://concepticon.clld.org/parameters/791,stráinséir,stranger
+181-662,iris1253,http://concepticon.clld.org/parameters/1782,aoi,guest
+181-1554,iris1253,http://concepticon.clld.org/parameters/1782,cuairteoir,guest
+181-1298,iris1253,http://concepticon.clld.org/parameters/1545,óstach,host
+181-102,iris1253,http://concepticon.clld.org/parameters/1545,tíosach,host
+181-1231,iris1253,http://concepticon.clld.org/parameters/1897,cuidigh le,"help, aid"
+181-440,iris1253,http://concepticon.clld.org/parameters/1897,cabhraigh le,"help, aid"
+181-1616,iris1253,http://concepticon.clld.org/parameters/1897,fóir,"help, aid"
+181-1783,iris1253,http://concepticon.clld.org/parameters/1550,bac,"hinder, prevent"
+181-2131,iris1253,http://concepticon.clld.org/parameters/1550,coisc,"hinder, prevent"
+181-301,iris1253,http://concepticon.clld.org/parameters/1550,stop,"hinder, prevent"
+181-549,iris1253,http://concepticon.clld.org/parameters/1550,toirmisc,"hinder, prevent"
+181-233,iris1253,http://concepticon.clld.org/parameters/1747,nós,custom
+181-1596,iris1253,http://concepticon.clld.org/parameters/1747,béas,custom
+181-299,iris1253,http://concepticon.clld.org/parameters/1747,gnás,custom
+181-594,iris1253,http://concepticon.clld.org/parameters/1747,cleachtadh,custom
+181-2101,iris1253,http://concepticon.clld.org/parameters/1848,cogadh,"strife, quarrel"
+181-1921,iris1253,http://concepticon.clld.org/parameters/1848,imreas,"strife, quarrel"
+181-1269,iris1253,http://concepticon.clld.org/parameters/1848,achrann,"strife, quarrel"
+181-1202,iris1253,http://concepticon.clld.org/parameters/1848,troid,"strife, quarrel"
+181-1080,iris1253,http://concepticon.clld.org/parameters/1848,clampar,"strife, quarrel"
+181-1860,iris1253,http://concepticon.clld.org/parameters/2024,comhchealg,"conspiracy, plot"
+181-1504,iris1253,http://concepticon.clld.org/parameters/2024,uisce faoi thalamh,"conspiracy, plot"
+181-2054,iris1253,http://concepticon.clld.org/parameters/2024,cogar,"conspiracy, plot"
+181-657,iris1253,http://concepticon.clld.org/parameters/1831,cas ar,meet
+181-1704,iris1253,http://concepticon.clld.org/parameters/1831,do,meet
+181-1742,iris1253,http://concepticon.clld.org/parameters/1831,le,meet
+181-2040,iris1253,http://concepticon.clld.org/parameters/1831,buail le,meet
+181-1702,iris1253,http://concepticon.clld.org/parameters/1610,meirdreach,prostitute
+181-1155,iris1253,http://concepticon.clld.org/parameters/1610,striapach,prostitute
+181-1202,iris1253,http://concepticon.clld.org/parameters/1423,troid,fight (vb)
+181-1171,iris1253,http://concepticon.clld.org/parameters/1423,comhraic,fight (vb)
+181-2101,iris1253,http://concepticon.clld.org/parameters/579,cogadh,"war, battle"
+181-1798,iris1253,http://concepticon.clld.org/parameters/579,cath,"war, battle"
+181-1436,iris1253,http://concepticon.clld.org/parameters/1338,síocháin,peace
+181-1377,iris1253,http://concepticon.clld.org/parameters/1561,arm,army
+181-2078,iris1253,http://concepticon.clld.org/parameters/1561,slua,army
+181-504,iris1253,http://concepticon.clld.org/parameters/1941,saighdiúir,soldier
+181-214,iris1253,http://concepticon.clld.org/parameters/951,airm,"weapons, arms"
+181-1629,iris1253,http://concepticon.clld.org/parameters/1763,cleith ailpín,club
+181-1941,iris1253,http://concepticon.clld.org/parameters/1763,smachtín,club
+181-17,iris1253,http://concepticon.clld.org/parameters/1763,lorg,club
+181-433,iris1253,http://concepticon.clld.org/parameters/386,tua chatha,battle-ax
+181-1218,iris1253,http://concepticon.clld.org/parameters/387,cranntabhaill,sling
+181-1316,iris1253,http://concepticon.clld.org/parameters/994,bogha,bow
+181-682,iris1253,http://concepticon.clld.org/parameters/977,saighead,arrow
+181-707,iris1253,http://concepticon.clld.org/parameters/945,sleá,spear
+181-407,iris1253,http://concepticon.clld.org/parameters/1535,claíomh,sword
+181-180,iris1253,http://concepticon.clld.org/parameters/1566,gunna,"gun, cannon"
+181-673,iris1253,http://concepticon.clld.org/parameters/1566,gunna mór,"gun, cannon"
+181-253,iris1253,http://concepticon.clld.org/parameters/1566,canóin,"gun, cannon"
+181-1750,iris1253,http://concepticon.clld.org/parameters/1566,píosa ordánais,"gun, cannon"
+181-607,iris1253,http://concepticon.clld.org/parameters/1061,cathéide,armor (defensive)
+181-2058,iris1253,http://concepticon.clld.org/parameters/1061,culaith chatha,armor (defensive)
+181-1009,iris1253,http://concepticon.clld.org/parameters/1680,clogad,helmet
+181-680,iris1253,http://concepticon.clld.org/parameters/1680,cafarr,helmet
+181-490,iris1253,http://concepticon.clld.org/parameters/1064,sciath,shield
+181-483,iris1253,http://concepticon.clld.org/parameters/1938,daingean,fortress
+181-623,iris1253,http://concepticon.clld.org/parameters/1938,dún,fortress
+181-1192,iris1253,http://concepticon.clld.org/parameters/1671,túr,tower
+181-2115,iris1253,http://concepticon.clld.org/parameters/783,bua,victory
+181-1167,iris1253,http://concepticon.clld.org/parameters/783,craobh,victory
+181-772,iris1253,http://concepticon.clld.org/parameters/783,caithréim,victory
+181-209,iris1253,http://concepticon.clld.org/parameters/782,díomua,defeat
+181-248,iris1253,http://concepticon.clld.org/parameters/782,briseadh,defeat
+181-1920,iris1253,http://concepticon.clld.org/parameters/782,maidhm,defeat
+181-1198,iris1253,http://concepticon.clld.org/parameters/782,turnamh,defeat
+181-1104,iris1253,http://concepticon.clld.org/parameters/722,ionsaí,attack
+181-55,iris1253,http://concepticon.clld.org/parameters/722,fóbair,attack
+181-1429,iris1253,http://concepticon.clld.org/parameters/1330,cosain,defend
+181-2008,iris1253,http://concepticon.clld.org/parameters/1330,díon,defend
+181-1006,iris1253,http://concepticon.clld.org/parameters/421,cúlaigh,retreat
+181-1450,iris1253,http://concepticon.clld.org/parameters/1696,géill,surrender
+181-1764,iris1253,http://concepticon.clld.org/parameters/1072,príosúnach,"captive, prisoner"
+181-750,iris1253,http://concepticon.clld.org/parameters/1072,braighdeanach,"captive, prisoner"
+181-501,iris1253,http://concepticon.clld.org/parameters/1072,geimhleach,"captive, prisoner"
+181-1873,iris1253,http://concepticon.clld.org/parameters/1072,cime,"captive, prisoner"
+181-112,iris1253,http://concepticon.clld.org/parameters/1940,fairtheoir,"guard, sentinel"
+181-873,iris1253,http://concepticon.clld.org/parameters/1940,garda,"guard, sentinel"
+181-1865,iris1253,http://concepticon.clld.org/parameters/1022,creach,"booty, spoils"
+181-1520,iris1253,http://concepticon.clld.org/parameters/1022,éadáil,"booty, spoils"
+181-30,iris1253,http://concepticon.clld.org/parameters/65,luíochán,ambush
+181-1044,iris1253,http://concepticon.clld.org/parameters/65,oirchill,ambush
+181-1747,iris1253,http://concepticon.clld.org/parameters/1858,iascaire,fisherman
+181-1793,iris1253,http://concepticon.clld.org/parameters/1074,duán,fishhook
+181-1623,iris1253,http://concepticon.clld.org/parameters/19,dorú,fishing line
+181-1610,iris1253,http://concepticon.clld.org/parameters/388,líon,fishnet
+181-476,iris1253,http://concepticon.clld.org/parameters/388,eangach,fishnet
+181-1385,iris1253,http://concepticon.clld.org/parameters/2013,baoite,bait
+181-1158,iris1253,http://concepticon.clld.org/parameters/1435,seilg,hunt
+181-1877,iris1253,http://concepticon.clld.org/parameters/1435,fiach,hunt
+181-430,iris1253,http://concepticon.clld.org/parameters/1172,scaoil,shoot
+181-1607,iris1253,http://concepticon.clld.org/parameters/1172,caith,shoot
+181-486,iris1253,http://concepticon.clld.org/parameters/1075,sás,trap (noun)
+181-2004,iris1253,http://concepticon.clld.org/parameters/1075,gaiste,trap (noun)
+181-2118,iris1253,http://concepticon.clld.org/parameters/1075,paintéar,trap (noun)
+181-1473,iris1253,http://concepticon.clld.org/parameters/1170,beir ar,trap (vb)
+181-1235,iris1253,http://concepticon.clld.org/parameters/1170,ceap,trap (vb)
+181-1336,iris1253,http://concepticon.clld.org/parameters/1170,gabh,trap (vb)
+181-1147,iris1253,http://concepticon.clld.org/parameters/1062,dlí,law
+181-2123,iris1253,http://concepticon.clld.org/parameters/1062,reacht,law
+181-1851,iris1253,http://concepticon.clld.org/parameters/1068,cúirt,court
+181-616,iris1253,http://concepticon.clld.org/parameters/1818,breith,judge (vb)
+181-246,iris1253,http://concepticon.clld.org/parameters/1818,breithiúntas a thabhairt,judge (vb)
+181-841,iris1253,http://concepticon.clld.org/parameters/1067,breithiúntas,judgment
+181-616,iris1253,http://concepticon.clld.org/parameters/1067,breith,judgment
+181-1266,iris1253,http://concepticon.clld.org/parameters/861,breitheamh,judge (noun)
+181-1933,iris1253,http://concepticon.clld.org/parameters/2020,éilitheoir,plaintiff
+181-546,iris1253,http://concepticon.clld.org/parameters/2020,gearánaí,plaintiff
+181-1268,iris1253,http://concepticon.clld.org/parameters/2020,agróir,plaintiff
+181-1361,iris1253,http://concepticon.clld.org/parameters/1034,cosantóir,defendant
+181-316,iris1253,http://concepticon.clld.org/parameters/1034,cosnamhaí,defendant
+181-1191,iris1253,http://concepticon.clld.org/parameters/1144,finné,witness
+181-718,iris1253,http://concepticon.clld.org/parameters/1939,mionnaigh,swear
+181-81,iris1253,http://concepticon.clld.org/parameters/1939,móidigh,swear
+181-35,iris1253,http://concepticon.clld.org/parameters/1712,mionn,oath
+181-1935,iris1253,http://concepticon.clld.org/parameters/1814,cúisigh,accuse
+181-1953,iris1253,http://concepticon.clld.org/parameters/484,daoraigh,condemn
+181-1194,iris1253,http://concepticon.clld.org/parameters/484,teilg,condemn
+181-1118,iris1253,http://concepticon.clld.org/parameters/983,daor,convict (vb)
+181-1194,iris1253,http://concepticon.clld.org/parameters/983,teilg,convict (vb)
+181-1215,iris1253,http://concepticon.clld.org/parameters/988,saor,acquit
+181-1497,iris1253,http://concepticon.clld.org/parameters/988,éigiontaigh,acquit
+181-113,iris1253,http://concepticon.clld.org/parameters/1682,ciontach,guilty
+181-37,iris1253,http://concepticon.clld.org/parameters/90,neamhchiontach,innocent
+181-52,iris1253,http://concepticon.clld.org/parameters/390,pionós,"penalty, punishment"
+181-361,iris1253,http://concepticon.clld.org/parameters/390,éiric,"penalty, punishment"
+181-1604,iris1253,http://concepticon.clld.org/parameters/390,smachtbhanna,"penalty, punishment"
+181-1163,iris1253,http://concepticon.clld.org/parameters/218,fíneáil,fine
+181-1332,iris1253,http://concepticon.clld.org/parameters/1281,príosún,"prison, jail"
+181-1421,iris1253,http://concepticon.clld.org/parameters/1281,carcair,"prison, jail"
+181-798,iris1253,http://concepticon.clld.org/parameters/845,dúnmharaigh,murder
+181-1352,iris1253,http://concepticon.clld.org/parameters/902,adhaltranas,adultery
+181-1514,iris1253,http://concepticon.clld.org/parameters/953,éigniú,rape
+181-1292,iris1253,http://concepticon.clld.org/parameters/953,banéigean,rape
+181-53,iris1253,http://concepticon.clld.org/parameters/1889,dó mailíseach,arson
+181-1223,iris1253,http://concepticon.clld.org/parameters/1889,coirloscadh,arson
+181-1665,iris1253,http://concepticon.clld.org/parameters/1792,éitheach,perjury
+181-35,iris1253,http://concepticon.clld.org/parameters/1792,mionn,perjury
+181-1737,iris1253,http://concepticon.clld.org/parameters/1792,leabhar éithigh a thabhairt,perjury
+181-532,iris1253,http://concepticon.clld.org/parameters/1792,fianaise bhréige a thabhairt,perjury
+181-2146,iris1253,http://concepticon.clld.org/parameters/713,goid,steal
+181-449,iris1253,http://concepticon.clld.org/parameters/1160,gadaí,thief
+181-207,iris1253,http://concepticon.clld.org/parameters/1160,bradach,thief
+181-739,iris1253,http://concepticon.clld.org/parameters/661,creideamh,religion
+181-2079,iris1253,http://concepticon.clld.org/parameters/661,iris,religion
+181-482,iris1253,http://concepticon.clld.org/parameters/661,crábhadh,religion
+181-389,iris1253,http://concepticon.clld.org/parameters/1944,Dia,God
+181-698,iris1253,http://concepticon.clld.org/parameters/911,teach pobail,"temple, church"
+181-574,iris1253,http://concepticon.clld.org/parameters/911,séipéal,"temple, church"
+181-2022,iris1253,http://concepticon.clld.org/parameters/911,teampall,"temple, church"
+181-874,iris1253,http://concepticon.clld.org/parameters/911,eaglais,"temple, church"
+181-1439,iris1253,http://concepticon.clld.org/parameters/853,altóir,altar
+181-341,iris1253,http://concepticon.clld.org/parameters/1103,íobairt,"sacrifice, offering"
+181-697,iris1253,http://concepticon.clld.org/parameters/1103,aifreann,"sacrifice, offering"
+181-1414,iris1253,http://concepticon.clld.org/parameters/257,adhair,worship
+181-463,iris1253,http://concepticon.clld.org/parameters/24,guí,pray
+181-1598,iris1253,http://concepticon.clld.org/parameters/852,sagart,priest
+181-1584,iris1253,http://concepticon.clld.org/parameters/1702,naofa,"holy, sacred"
+181-808,iris1253,http://concepticon.clld.org/parameters/1702,ró-naofa,"holy, sacred"
+181-1942,iris1253,http://concepticon.clld.org/parameters/1702,coisricthe,"holy, sacred"
+181-475,iris1253,http://concepticon.clld.org/parameters/1702,beannaithe,"holy, sacred"
+181-1353,iris1253,http://concepticon.clld.org/parameters/304,seanmóir a thabhairt,preach
+181-1036,iris1253,http://concepticon.clld.org/parameters/304,a dhéanamh,preach
+181-1141,iris1253,http://concepticon.clld.org/parameters/391,beannaigh,bless
+181-2067,iris1253,http://concepticon.clld.org/parameters/8,mallaigh,curse
+181-1046,iris1253,http://concepticon.clld.org/parameters/303,troisc,fast (vb)
+181-1885,iris1253,http://concepticon.clld.org/parameters/1565,neamh,heaven
+181-870,iris1253,http://concepticon.clld.org/parameters/1565,na flaithis,heaven
+181-2046,iris1253,http://concepticon.clld.org/parameters/1565,Parthas,heaven
+181-228,iris1253,http://concepticon.clld.org/parameters/878,ifreann,hell
+181-2064,iris1253,http://concepticon.clld.org/parameters/1973,deamhan,demon (evil spirit)
+181-744,iris1253,http://concepticon.clld.org/parameters/1973,diabhal,demon (evil spirit)
+181-198,iris1253,http://concepticon.clld.org/parameters/1973,áibhirseoir,demon (evil spirit)
+181-1548,iris1253,http://concepticon.clld.org/parameters/1945,íol,idol
+181-800,iris1253,http://concepticon.clld.org/parameters/1945,dia bréige,idol
+181-1152,iris1253,http://concepticon.clld.org/parameters/392,draíocht,"magic, witchcraft, sorcery"
+181-205,iris1253,http://concepticon.clld.org/parameters/392,asarlaíocht,"magic, witchcraft, sorcery"
+181-1394,iris1253,http://concepticon.clld.org/parameters/392,geintlíocht,"magic, witchcraft, sorcery"
+181-1032,iris1253,http://concepticon.clld.org/parameters/2137,asarlaí,"sorcerer, witch"
+181-1838,iris1253,http://concepticon.clld.org/parameters/2137,draoi,"sorcerer, witch"
+181-1174,iris1253,http://concepticon.clld.org/parameters/2137,cailleach feasa,"sorcerer, witch"
+181-1180,iris1253,http://concepticon.clld.org/parameters/2137,bandraoi,"sorcerer, witch"
+181-318,iris1253,http://concepticon.clld.org/parameters/2138,sióg,"fairy, elf"
+181-1154,iris1253,http://concepticon.clld.org/parameters/2138,na daoine maithe,"fairy, elf"
+181-481,iris1253,http://concepticon.clld.org/parameters/1175,taibhse,"ghost, phantom"
+181-554,iris1253,http://concepticon.clld.org/parameters/1175,samhail(t),"ghost, phantom"
+181-550,iris1253,http://concepticon.clld.org/parameters/1175,scáil,"ghost, phantom"
+181-1168,iris1253,http://concepticon.clld.org/parameters/107,tuar,"omen, portent"
+181-886,iris1253,http://concepticon.clld.org/parameters/107,mana,"omen, portent"

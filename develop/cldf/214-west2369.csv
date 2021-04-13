@@ -1,0 +1,1520 @@
+ID,Language_ID,Feature_ID,Value,Concept
+214-462,west2369,http://concepticon.clld.org/parameters/965,[donyɑ],world
+214-1308,west2369,http://concepticon.clld.org/parameters/965,ǰæhɑn,world
+214-635,west2369,http://concepticon.clld.org/parameters/626,zæmin,"earth, land"
+214-230,west2369,http://concepticon.clld.org/parameters/1228,xɑk,"earth=ground, soil"
+214-635,west2369,http://concepticon.clld.org/parameters/1228,zæmin,"earth=ground, soil"
+214-909,west2369,http://concepticon.clld.org/parameters/2,gærd,dust
+214-230,west2369,http://concepticon.clld.org/parameters/2,xɑk,dust
+214-563,west2369,http://concepticon.clld.org/parameters/640,gel,mud
+214-972,west2369,http://concepticon.clld.org/parameters/671,rig,sand
+214-281,west2369,http://concepticon.clld.org/parameters/671,šen,sand
+214-33,west2369,http://concepticon.clld.org/parameters/2118,kuh,"mountain, hill"
+214-301,west2369,http://concepticon.clld.org/parameters/2118,teppe,"mountain, hill"
+214-882,west2369,http://concepticon.clld.org/parameters/618,pært-gɑh,"cliff, precipice"
+214-981,west2369,http://concepticon.clld.org/parameters/618,tæxte-sæng,"cliff, precipice"
+214-449,west2369,http://concepticon.clld.org/parameters/652,dæšt,"plain, field"
+214-605,west2369,http://concepticon.clld.org/parameters/921,dærre,valley
+214-1417,west2369,http://concepticon.clld.org/parameters/622,[ǰæzire],island
+214-228,west2369,http://concepticon.clld.org/parameters/166,[qɑre],mainland
+214-628,west2369,http://concepticon.clld.org/parameters/113,kenɑr,shore
+214-542,west2369,http://concepticon.clld.org/parameters/113,kerɑne,shore
+214-1030,west2369,http://concepticon.clld.org/parameters/113,[sahel],shore
+214-71,west2369,http://concepticon.clld.org/parameters/1155,[ḡɑr,cave
+214-890,west2369,http://concepticon.clld.org/parameters/1155,mæḡɑre],cave
+214-450,west2369,http://concepticon.clld.org/parameters/948,ɑb,water
+214-1413,west2369,http://concepticon.clld.org/parameters/1474,dæryɑ,sea
+214-815,west2369,http://concepticon.clld.org/parameters/1474,[bæhr],sea
+214-63,west2369,http://concepticon.clld.org/parameters/258,ɑrɑm,calm (of sea)
+214-1340,west2369,http://concepticon.clld.org/parameters/259,[motælɑtem],rough (of sea)
+214-57,west2369,http://concepticon.clld.org/parameters/1768,kæf,foam
+214-290,west2369,http://concepticon.clld.org/parameters/645,[oqyɑnus],ocean
+214-1294,west2369,http://concepticon.clld.org/parameters/624,dæryɑče,lake
+214-465,west2369,http://concepticon.clld.org/parameters/624,[kul],lake
+214-1140,west2369,http://concepticon.clld.org/parameters/663,[xæliǰ],"gulf, bay"
+214-460,west2369,http://concepticon.clld.org/parameters/1662,dæmɑḡe,"headland, point"
+214-70,west2369,http://concepticon.clld.org/parameters/978,[mowǰ],wave
+214-1073,west2369,http://concepticon.clld.org/parameters/891,[ǰæzr-o-mædd],tide
+214-662,west2369,http://concepticon.clld.org/parameters/1026,[ǰæzr-e kɑmel],lowtide
+214-778,west2369,http://concepticon.clld.org/parameters/613,[mædd-e kɑmel],hightide
+214-1026,west2369,http://concepticon.clld.org/parameters/666,rud,"river, stream, brook"
+214-1408,west2369,http://concepticon.clld.org/parameters/666,rud-xɑne,"river, stream, brook"
+214-1324,west2369,http://concepticon.clld.org/parameters/666,dæryo,"river, stream, brook"
+214-856,west2369,http://concepticon.clld.org/parameters/1982,gerd-ɑb,whirlpool
+214-354,west2369,http://concepticon.clld.org/parameters/2144,češme,"spring, well"
+214-8,west2369,http://concepticon.clld.org/parameters/2144,čɑh,"spring, well"
+214-974,west2369,http://concepticon.clld.org/parameters/1145,mord-ɑb,swamp
+214-254,west2369,http://concepticon.clld.org/parameters/1145,[bɑtlɑq ~ bætlɑq],swamp
+214-779,west2369,http://concepticon.clld.org/parameters/943,ɑb-šɑr,waterfall
+214-614,west2369,http://concepticon.clld.org/parameters/420,ǰængæl,"woods, forest"
+214-400,west2369,http://concepticon.clld.org/parameters/906,deræxt ~ dæræxt,tree (cf 08.600)
+214-916,west2369,http://concepticon.clld.org/parameters/1803,čub,wood
+214-452,west2369,http://concepticon.clld.org/parameters/2125,sæng,"stone, rock"
+214-710,west2369,http://concepticon.clld.org/parameters/6,[zelzele],earthquake
+214-1297,west2369,http://concepticon.clld.org/parameters/1732,ɑsmɑn,sky
+214-896,west2369,http://concepticon.clld.org/parameters/1343,ɑftɑb,sun
+214-582,west2369,http://concepticon.clld.org/parameters/1343,xoršid,sun
+214-545,west2369,http://concepticon.clld.org/parameters/1313,mɑh,moon
+214-885,west2369,http://concepticon.clld.org/parameters/1430,setɑre,star
+214-321,west2369,http://concepticon.clld.org/parameters/1654,[bærq],lightning
+214-1145,west2369,http://concepticon.clld.org/parameters/1150,[ræʔd],thunder
+214-211,west2369,http://concepticon.clld.org/parameters/2007,ɑzæræxš,lightning (as striking)
+214-869,west2369,http://concepticon.clld.org/parameters/2007,[sɑʔeqe],lightning (as striking)
+214-646,west2369,http://concepticon.clld.org/parameters/858,[tufɑn],storm
+214-76,west2369,http://concepticon.clld.org/parameters/1733,rængin-kæmɑn,rainbow
+214-74,west2369,http://concepticon.clld.org/parameters/630,rowšænɑʔi,light (noun)
+214-40,west2369,http://concepticon.clld.org/parameters/630,[nur],light (noun)
+214-1131,west2369,http://concepticon.clld.org/parameters/11,tɑriki,darkness
+214-1148,west2369,http://concepticon.clld.org/parameters/1388,sɑye,"shade, shadow"
+214-1284,west2369,http://concepticon.clld.org/parameters/1977,šæbnæm,dew
+214-660,west2369,http://concepticon.clld.org/parameters/1977,žɑle,dew
+214-929,west2369,http://concepticon.clld.org/parameters/27,[hævɑ],air
+214-488,west2369,http://concepticon.clld.org/parameters/27,bɑd,air
+214-488,west2369,http://concepticon.clld.org/parameters/960,bɑd,wind
+214-760,west2369,http://concepticon.clld.org/parameters/1489,æbr,cloud
+214-35,west2369,http://concepticon.clld.org/parameters/249,meh,fog
+214-1256,west2369,http://concepticon.clld.org/parameters/658,bɑrɑn,rain (noun)
+214-409,west2369,http://concepticon.clld.org/parameters/784,bærf,snow (noun)
+214-268,west2369,http://concepticon.clld.org/parameters/617,yæx,ice
+214-929,west2369,http://concepticon.clld.org/parameters/952,[hævɑ],weather
+214-820,west2369,http://concepticon.clld.org/parameters/952,ɑb-o-hævɑ,weather
+214-425,west2369,http://concepticon.clld.org/parameters/221,ɑteš ~ ɑtæš,fire
+214-1318,west2369,http://concepticon.clld.org/parameters/221,ɑzær,fire
+214-840,west2369,http://concepticon.clld.org/parameters/889,[šoʔle],flame (noun)
+214-957,west2369,http://concepticon.clld.org/parameters/778,dud,smoke (noun)
+214-72,west2369,http://concepticon.clld.org/parameters/646,xɑkestær,ashes
+214-703,west2369,http://concepticon.clld.org/parameters/67,æxgær,embers
+214-306,west2369,http://concepticon.clld.org/parameters/141,suxtæn,burn (vb trans)
+214-782,west2369,http://concepticon.clld.org/parameters/141,suz-,burn (vb trans)
+214-571,west2369,http://concepticon.clld.org/parameters/1428,suzɑn-,burn (vb intrans)
+214-406,west2369,http://concepticon.clld.org/parameters/737,æfruxt-/ æfruz-,"light, kindle, ignite"
+214-828,west2369,http://concepticon.clld.org/parameters/737,rowšæn //kærdæn//,"light, kindle, ignite"
+214-180,west2369,http://concepticon.clld.org/parameters/127,xɑmuš-kærdæn,extinguish
+214-489,west2369,http://concepticon.clld.org/parameters/1133,[kebrit],match (noun)
+214-422,west2369,http://concepticon.clld.org/parameters/10,hizom,firewood
+214-806,west2369,http://concepticon.clld.org/parameters/1188,zoḡɑl-e čub,charcoal
+214-880,west2369,http://concepticon.clld.org/parameters/683,ɑdæm,"person, human being"
+214-55,west2369,http://concepticon.clld.org/parameters/683,kæs,"person, human being"
+214-205,west2369,http://concepticon.clld.org/parameters/1554,mærd,man (vs. woman)
+214-1184,west2369,http://concepticon.clld.org/parameters/962,zæn,woman
+214-1112,west2369,http://concepticon.clld.org/parameters/2263,nær,male
+214-429,west2369,http://concepticon.clld.org/parameters/2260,mɑde,female
+214-900,west2369,http://concepticon.clld.org/parameters/1366,pesær,boy
+214-403,west2369,http://concepticon.clld.org/parameters/1366,bæčče,boy
+214-769,west2369,http://concepticon.clld.org/parameters/76,ǰævɑn,young man (adolescent)
+214-1269,west2369,http://concepticon.clld.org/parameters/1646,doxtær,girl
+214-424,west2369,http://concepticon.clld.org/parameters/77,dušize,young woman (adolescent)
+214-961,west2369,http://concepticon.clld.org/parameters/77,doxtær-zæn,young woman (adolescent)
+214-403,west2369,http://concepticon.clld.org/parameters/1304,bæčče,child
+214-1055,west2369,http://concepticon.clld.org/parameters/1304,færzænd,child
+214-786,west2369,http://concepticon.clld.org/parameters/1304,kudæk,child
+214-786,west2369,http://concepticon.clld.org/parameters/1289,kudæk,"infant, baby"
+214-1143,west2369,http://concepticon.clld.org/parameters/1289,[tefl],"infant, baby"
+214-559,west2369,http://concepticon.clld.org/parameters/1200,šowhær,husband
+214-1184,west2369,http://concepticon.clld.org/parameters/1199,zæn,wife
+214-175,west2369,http://concepticon.clld.org/parameters/1199,hæm-sær,wife
+214-733,west2369,http://concepticon.clld.org/parameters/203,[ezdevɑǰ] kærdæn,marry
+214-73,west2369,http://concepticon.clld.org/parameters/1259,[ezdevɑǰ],"marriage, wedding"
+214-1416,west2369,http://concepticon.clld.org/parameters/1259,ærusi,"marriage, wedding"
+214-1168,west2369,http://concepticon.clld.org/parameters/1134,[tælaq],divorce
+214-1343,west2369,http://concepticon.clld.org/parameters/1217,pedær ~ pædær,father
+214-1161,west2369,http://concepticon.clld.org/parameters/1216,mɑdær,mother
+214-765,west2369,http://concepticon.clld.org/parameters/505,pedær-o-mɑdær,parents
+214-320,west2369,http://concepticon.clld.org/parameters/505,[vɑledeyn],parents
+214-900,west2369,http://concepticon.clld.org/parameters/1620,pesær,son
+214-1269,west2369,http://concepticon.clld.org/parameters/1357,doxtær,daughter
+214-1055,west2369,http://concepticon.clld.org/parameters/1801,færzænd,offspring (son or daughter)
+214-403,west2369,http://concepticon.clld.org/parameters/1801,bæčče,offspring (son or daughter)
+214-742,west2369,http://concepticon.clld.org/parameters/1262,berɑdær/ bærɑdær,brother
+214-691,west2369,http://concepticon.clld.org/parameters/1262,[dɑdɑš],brother
+214-1172,west2369,http://concepticon.clld.org/parameters/1759,kɑkɑ,older brother
+214-181,west2369,http://concepticon.clld.org/parameters/1759,[aka],older brother
+214-1213,west2369,http://concepticon.clld.org/parameters/1760,dɑdær,younger brother
+214-265,west2369,http://concepticon.clld.org/parameters/1760,[uka],younger brother
+214-1025,west2369,http://concepticon.clld.org/parameters/1263,xɑhær,sister
+214-839,west2369,http://concepticon.clld.org/parameters/1263,hæmšire,sister
+214-987,west2369,http://concepticon.clld.org/parameters/1758,[bɑǰi],older sister
+214-1119,west2369,http://concepticon.clld.org/parameters/1761,apa,younger sister
+214-839,west2369,http://concepticon.clld.org/parameters/1640,hæmšire,sibling
+214-914,west2369,http://concepticon.clld.org/parameters/1005,doqolu,twins
+214-1194,west2369,http://concepticon.clld.org/parameters/1005,hæmzɑd,twins
+214-740,west2369,http://concepticon.clld.org/parameters/1005,[towʔæm],twins
+214-241,west2369,http://concepticon.clld.org/parameters/1383,pedær-e-bozorg,grandfather
+214-615,west2369,http://concepticon.clld.org/parameters/1383,[ǰædd],grandfather
+214-326,west2369,http://concepticon.clld.org/parameters/1383,niyɑ,grandfather
+214-1406,west2369,http://concepticon.clld.org/parameters/406,pir,old man
+214-562,west2369,http://concepticon.clld.org/parameters/406,pir-e mærd,old man
+214-609,west2369,http://concepticon.clld.org/parameters/1496,mɑdær-e bozorg,grandmother
+214-1235,west2369,http://concepticon.clld.org/parameters/1496,[ǰædde],grandmother
+214-1104,west2369,http://concepticon.clld.org/parameters/907,pir-e zæn,old woman
+214-517,west2369,http://concepticon.clld.org/parameters/1618,næve,grandson
+214-982,west2369,http://concepticon.clld.org/parameters/1618,pesær-e pesær/ pesær-doxtær,grandson
+214-704,west2369,http://concepticon.clld.org/parameters/1619,doxtær-pesær/ doxtær-e doxtær,granddaughter
+214-659,west2369,http://concepticon.clld.org/parameters/1327,[æmu] dɑi,uncle
+214-174,west2369,http://concepticon.clld.org/parameters/1327,amak/ taḡoi,uncle
+214-1129,west2369,http://concepticon.clld.org/parameters/1984,dɑʔi,mother's brother
+214-82,west2369,http://concepticon.clld.org/parameters/1984,xɑlu,mother's brother
+214-1046,west2369,http://concepticon.clld.org/parameters/1984,[xɑl],mother's brother
+214-699,west2369,http://concepticon.clld.org/parameters/1985,æmu,father's brother
+214-238,west2369,http://concepticon.clld.org/parameters/1985,[æmm],father's brother
+214-42,west2369,http://concepticon.clld.org/parameters/1272,[æmme/ xɑle],aunt
+214-698,west2369,http://concepticon.clld.org/parameters/171,[xɑle],mother's sister
+214-728,west2369,http://concepticon.clld.org/parameters/170,[æmme],father's sister
+214-360,west2369,http://concepticon.clld.org/parameters/1063,pesær-bærɑdær/ pesær-xɑhær,nephew
+214-1088,west2369,http://concepticon.clld.org/parameters/1063,bærɑdær-zɑde/ xɑhær-zɑde,nephew
+214-1341,west2369,http://concepticon.clld.org/parameters/1642,doxtær-bærɑdær/ doxtær-xɑhær,niece
+214-1088,west2369,http://concepticon.clld.org/parameters/1642,bærɑdær-zɑde/ xɑhær-zɑde,niece
+214-988,west2369,http://concepticon.clld.org/parameters/1643,pesær-æmu/ doxtær-æmu,cousin
+214-421,west2369,http://concepticon.clld.org/parameters/1643,pesær-xɑle/ doxtær-xɑle,cousin
+214-88,west2369,http://concepticon.clld.org/parameters/1669,niyɑkɑn ~ niyɑgɑn,ancestors
+214-1029,west2369,http://concepticon.clld.org/parameters/1669,[ɑǰdɑd],ancestors
+214-130,west2369,http://concepticon.clld.org/parameters/490,[næsl],descendants
+214-1335,west2369,http://concepticon.clld.org/parameters/490,zɑdegɑn,descendants
+214-1389,west2369,http://concepticon.clld.org/parameters/490,[owlɑd],descendants
+214-612,west2369,http://concepticon.clld.org/parameters/2255,pedær-šowhær,father-in-law (of a man)
+214-1250,west2369,http://concepticon.clld.org/parameters/2255,pedær-zæn,father-in-law (of a man)
+214-612,west2369,http://concepticon.clld.org/parameters/2254,pedær-šowhær,father-in-law (of a woman)
+214-514,west2369,http://concepticon.clld.org/parameters/2256,mɑdær-šowhær,mother-in-law (of a man)
+214-1103,west2369,http://concepticon.clld.org/parameters/2256,mɑdær-zæn,mother-in-law (of a man)
+214-514,west2369,http://concepticon.clld.org/parameters/2257,mɑdær-šowhær,mother-in-law (of a woman)
+214-705,west2369,http://concepticon.clld.org/parameters/2267,dɑmɑd,son-in-law (of a man)
+214-705,west2369,http://concepticon.clld.org/parameters/2266,dɑmɑd,son-in-law (of a woman)
+214-876,west2369,http://concepticon.clld.org/parameters/2265,[ærus],daughter-in-law (of a man)
+214-870,west2369,http://concepticon.clld.org/parameters/2265,[gælin],daughter-in-law (of a man)
+214-876,west2369,http://concepticon.clld.org/parameters/2264,[ærus],daughter-in-law (of a woman)
+214-870,west2369,http://concepticon.clld.org/parameters/2264,[gælin],daughter-in-law (of a woman)
+214-1367,west2369,http://concepticon.clld.org/parameters/237,nɑ-pedæri,stepfather
+214-137,west2369,http://concepticon.clld.org/parameters/237,pedær-ændær,stepfather
+214-836,west2369,http://concepticon.clld.org/parameters/236,nɑ-mɑdæri,stepmother
+214-1369,west2369,http://concepticon.clld.org/parameters/236,mɑdær-ændær,stepmother
+214-3,west2369,http://concepticon.clld.org/parameters/236,zæn-bɑbɑ,stepmother
+214-1390,west2369,http://concepticon.clld.org/parameters/236,zæn-e pedær,stepmother
+214-1241,west2369,http://concepticon.clld.org/parameters/1059,nɑ-pesæri,stepson
+214-156,west2369,http://concepticon.clld.org/parameters/1058,nɑ-doxtæri,stepdaughter
+214-789,west2369,http://concepticon.clld.org/parameters/1058,doxtær-ændær,stepdaughter
+214-985,west2369,http://concepticon.clld.org/parameters/1149,[yætim],orphan
+214-1418,west2369,http://concepticon.clld.org/parameters/1149,pedær-morde/ mɑdær-morde,orphan
+214-701,west2369,http://concepticon.clld.org/parameters/1756,bive,widow
+214-1392,west2369,http://concepticon.clld.org/parameters/1644,nesbi,"relatives, kinsmen"
+214-522,west2369,http://concepticon.clld.org/parameters/194,xɑnevɑde,family
+214-418,west2369,http://concepticon.clld.org/parameters/194,fɑmil,family
+214-1402,west2369,http://concepticon.clld.org/parameters/1209,mæn,I
+214-726,west2369,http://concepticon.clld.org/parameters/1215,to,you (singular)
+214-716,west2369,http://concepticon.clld.org/parameters/262,u,he/she/it
+214-16,west2369,http://concepticon.clld.org/parameters/262,væy,he/she/it
+214-144,west2369,http://concepticon.clld.org/parameters/1212,mɑ,we
+214-102,west2369,http://concepticon.clld.org/parameters/1213,šomɑ,you (plural)
+214-780,west2369,http://concepticon.clld.org/parameters/817,išɑn,they
+214-1151,west2369,http://concepticon.clld.org/parameters/619,ǰɑnevær,animal
+214-61,west2369,http://concepticon.clld.org/parameters/619,[heyvɑn],animal
+214-1112,west2369,http://concepticon.clld.org/parameters/2261,nær,male (adj)
+214-7,west2369,http://concepticon.clld.org/parameters/2261,[mozækkær],male (adj)
+214-429,west2369,http://concepticon.clld.org/parameters/2262,mɑde,female (adj)
+214-946,west2369,http://concepticon.clld.org/parameters/2262,[moʔænnæs],female (adj)
+214-580,west2369,http://concepticon.clld.org/parameters/631,dɑm,livestock
+214-229,west2369,http://concepticon.clld.org/parameters/631,[mɑl],livestock
+214-1014,west2369,http://concepticon.clld.org/parameters/649,čæridæn,pasture
+214-296,west2369,http://concepticon.clld.org/parameters/649,čerɑgɑh,pasture
+214-944,west2369,http://concepticon.clld.org/parameters/263,čupɑn,herdsman
+214-80,west2369,http://concepticon.clld.org/parameters/851,ɑxor,"stable, stall"
+214-546,west2369,http://concepticon.clld.org/parameters/1153,mɑl,cattle (bovine)
+214-1381,west2369,http://concepticon.clld.org/parameters/1153,gɑv,cattle (bovine)
+214-1101,west2369,http://concepticon.clld.org/parameters/1008,gɑv-e-nær,bull
+214-1381,west2369,http://concepticon.clld.org/parameters/1169,gɑv,ox
+214-654,west2369,http://concepticon.clld.org/parameters/1007,mɑde-gɑv,cow
+214-527,west2369,http://concepticon.clld.org/parameters/1989,gusɑle,calf
+214-280,west2369,http://concepticon.clld.org/parameters/1331,gusfænd,sheep
+214-261,west2369,http://concepticon.clld.org/parameters/1344,quč,ram
+214-732,west2369,http://concepticon.clld.org/parameters/1345,miš,ewe
+214-1245,west2369,http://concepticon.clld.org/parameters/820,bærre,lamb
+214-508,west2369,http://concepticon.clld.org/parameters/1348,gorɑz,boar
+214-803,west2369,http://concepticon.clld.org/parameters/1337,xuk,pig
+214-959,west2369,http://concepticon.clld.org/parameters/1502,boz,goat
+214-1006,west2369,http://concepticon.clld.org/parameters/1972,bozqɑle,kid
+214-566,west2369,http://concepticon.clld.org/parameters/615,æsp,horse (equine)
+214-266,west2369,http://concepticon.clld.org/parameters/615,yɑbu,horse (equine)
+214-750,west2369,http://concepticon.clld.org/parameters/938,mɑdyɑn,mare
+214-817,west2369,http://concepticon.clld.org/parameters/1647,korre,"foal, colt"
+214-95,west2369,http://concepticon.clld.org/parameters/1862,xær,"ass, donkey"
+214-1373,west2369,http://concepticon.clld.org/parameters/1862,olɑq,"ass, donkey"
+214-1350,west2369,http://concepticon.clld.org/parameters/890,qɑter,mule
+214-594,west2369,http://concepticon.clld.org/parameters/1511,xorus,"cock, rooster"
+214-768,west2369,http://concepticon.clld.org/parameters/1514,morq,hen
+214-1218,west2369,http://concepticon.clld.org/parameters/1318,ǰuǰe,chicken
+214-689,west2369,http://concepticon.clld.org/parameters/1187,qɑz,goose
+214-1314,west2369,http://concepticon.clld.org/parameters/1360,ordæk,duck
+214-15,west2369,http://concepticon.clld.org/parameters/1360,morq-ɑbi,duck
+214-242,west2369,http://concepticon.clld.org/parameters/539,ɑšeyɑne,nest
+214-1193,west2369,http://concepticon.clld.org/parameters/937,pærænde,bird
+214-1092,west2369,http://concepticon.clld.org/parameters/1905,oqɑb,eagle
+214-214,west2369,http://concepticon.clld.org/parameters/307,šɑhin,hawk
+214-453,west2369,http://concepticon.clld.org/parameters/1185,kærkæs,vulture
+214-166,west2369,http://concepticon.clld.org/parameters/1185,lɑšxur,vulture
+214-757,west2369,http://concepticon.clld.org/parameters/1793,šæppære,bat
+214-1089,west2369,http://concepticon.clld.org/parameters/882,tuti,parrot
+214-414,west2369,http://concepticon.clld.org/parameters/913,kælɑq,crow
+214-120,west2369,http://concepticon.clld.org/parameters/1853,kæbutær,dove
+214-1394,west2369,http://concepticon.clld.org/parameters/735,buf,owl
+214-1391,west2369,http://concepticon.clld.org/parameters/735,bum,owl
+214-1177,west2369,http://concepticon.clld.org/parameters/2009,sæg,dog
+214-1382,west2369,http://concepticon.clld.org/parameters/1136,xærguš,rabbit
+214-711,west2369,http://concepticon.clld.org/parameters/1208,gorbe,cat
+214-84,west2369,http://concepticon.clld.org/parameters/2139,muš,"mouse, rat"
+214-378,west2369,http://concepticon.clld.org/parameters/227,mahi,fish
+214-1226,west2369,http://concepticon.clld.org/parameters/598,[sædæf],shell
+214-692,west2369,http://concepticon.clld.org/parameters/522,gorg,wolf
+214-1298,west2369,http://concepticon.clld.org/parameters/1386,šir,lion
+214-995,west2369,http://concepticon.clld.org/parameters/1386,šēr,lion
+214-419,west2369,http://concepticon.clld.org/parameters/1820,xers,bear
+214-10,west2369,http://concepticon.clld.org/parameters/1312,robɑh ~ rubah,fox
+214-550,west2369,http://concepticon.clld.org/parameters/1936,gævæzn,deer
+214-56,west2369,http://concepticon.clld.org/parameters/1350,meymun,monkey
+214-1174,west2369,http://concepticon.clld.org/parameters/1290,pil ~ fil,elephant
+214-337,west2369,http://concepticon.clld.org/parameters/1871,šotor,camel
+214-402,west2369,http://concepticon.clld.org/parameters/620,[hæšærɑt],insect
+214-1186,west2369,http://concepticon.clld.org/parameters/310,šepeš,louse
+214-116,west2369,http://concepticon.clld.org/parameters/232,keyk,flea
+214-62,west2369,http://concepticon.clld.org/parameters/232,kæk,flea
+214-697,west2369,http://concepticon.clld.org/parameters/1974,hezɑr-pɑ,centipede
+214-538,west2369,http://concepticon.clld.org/parameters/1538,kæždom,scorpion
+214-210,west2369,http://concepticon.clld.org/parameters/587,mur,ant
+214-948,west2369,http://concepticon.clld.org/parameters/587,murče,ant
+214-344,west2369,http://concepticon.clld.org/parameters/843,kɑrtæng,spider
+214-304,west2369,http://concepticon.clld.org/parameters/843,kɑrtæne,spider
+214-1149,west2369,http://concepticon.clld.org/parameters/843,[ænkæbut],spider
+214-1081,west2369,http://concepticon.clld.org/parameters/843,ǰula,spider
+214-1012,west2369,http://concepticon.clld.org/parameters/1065,tɑr-e ænkæbut,spider web
+214-1331,west2369,http://concepticon.clld.org/parameters/665,zæmbur(-e æsæl),bee
+214-688,west2369,http://concepticon.clld.org/parameters/1517,zæmbur,wasp
+214-216,west2369,http://concepticon.clld.org/parameters/1504,mægæs,fly
+214-1363,west2369,http://concepticon.clld.org/parameters/95,pæše,"sandfly (midge), gnat"
+214-1363,west2369,http://concepticon.clld.org/parameters/1509,pæše,mosquito
+214-479,west2369,http://concepticon.clld.org/parameters/1219,kerm,worm
+214-548,west2369,http://concepticon.clld.org/parameters/730,mɑr,snake
+214-303,west2369,http://concepticon.clld.org/parameters/1791,pærvɑne,butterfly
+214-1054,west2369,http://concepticon.clld.org/parameters/607,[mælæx],grasshopper
+214-164,west2369,http://concepticon.clld.org/parameters/503,qurbɑqe,frog
+214-1288,west2369,http://concepticon.clld.org/parameters/632,bozmæǰe,lizard
+214-941,west2369,http://concepticon.clld.org/parameters/112,lɑk-pošt,turtle
+214-551,west2369,http://concepticon.clld.org/parameters/112,sang-baqa,turtle
+214-930,west2369,http://concepticon.clld.org/parameters/1480,tæn,body
+214-361,west2369,http://concepticon.clld.org/parameters/763,pust,"skin, hide"
+214-553,west2369,http://concepticon.clld.org/parameters/2259,gušt,flesh
+214-49,west2369,http://concepticon.clld.org/parameters/1040,mu,hair (head)
+214-135,west2369,http://concepticon.clld.org/parameters/678,riš,beard
+214-126,west2369,http://concepticon.clld.org/parameters/946,xun,blood
+214-842,west2369,http://concepticon.clld.org/parameters/525,ræg,"vein, artery"
+214-444,west2369,http://concepticon.clld.org/parameters/1394,ostoxɑn,bone
+214-185,west2369,http://concepticon.clld.org/parameters/801,dænde,rib
+214-630,west2369,http://concepticon.clld.org/parameters/1393,šɑx,horn
+214-165,west2369,http://concepticon.clld.org/parameters/1220,dom,tail
+214-277,west2369,http://concepticon.clld.org/parameters/1291,pošt,back
+214-1175,west2369,http://concepticon.clld.org/parameters/1256,sær,head
+214-1403,west2369,http://concepticon.clld.org/parameters/1605,kælle,skull
+214-332,west2369,http://concepticon.clld.org/parameters/1583,mæqz,brain
+214-707,west2369,http://concepticon.clld.org/parameters/1560,ru,face
+214-374,west2369,http://concepticon.clld.org/parameters/123,pišɑni,forehead
+214-136,west2369,http://concepticon.clld.org/parameters/798,ɑrvɑre,jaw
+214-369,west2369,http://concepticon.clld.org/parameters/1730,rox,cheek
+214-1312,west2369,http://concepticon.clld.org/parameters/1510,čɑne,chin
+214-395,west2369,http://concepticon.clld.org/parameters/1248,čæšm,eye
+214-603,west2369,http://concepticon.clld.org/parameters/1173,æbru,eyebrow
+214-1024,west2369,http://concepticon.clld.org/parameters/17,pelk,eyelid
+214-1106,west2369,http://concepticon.clld.org/parameters/1540,može ~ meže,eyelash
+214-773,west2369,http://concepticon.clld.org/parameters/1655,čæšmæk,blink
+214-991,west2369,http://concepticon.clld.org/parameters/1655,-zædæn,blink
+214-1379,west2369,http://concepticon.clld.org/parameters/1247,guš,ear
+214-1155,west2369,http://concepticon.clld.org/parameters/1221,bini,nose
+214-634,west2369,http://concepticon.clld.org/parameters/674,dæhɑn ~ dæhæn,mouth
+214-206,west2369,http://concepticon.clld.org/parameters/73,nuk,beak
+214-1255,west2369,http://concepticon.clld.org/parameters/478,læb,lip
+214-1102,west2369,http://concepticon.clld.org/parameters/1205,zæbɑn,tongue
+214-682,west2369,http://concepticon.clld.org/parameters/1380,dændɑn,tooth
+214-936,west2369,http://concepticon.clld.org/parameters/1333,gærdæn,neck
+214-519,west2369,http://concepticon.clld.org/parameters/1347,[qæfɑ],nape of neck
+214-1311,west2369,http://concepticon.clld.org/parameters/1346,gælu ~ golu,throat
+214-1364,west2369,http://concepticon.clld.org/parameters/1482,duš,shoulder
+214-1156,west2369,http://concepticon.clld.org/parameters/1673,bɑzu,arm
+214-516,west2369,http://concepticon.clld.org/parameters/1886,bæqæl,armpit
+214-927,west2369,http://concepticon.clld.org/parameters/981,ɑrænǰ,elbow
+214-938,west2369,http://concepticon.clld.org/parameters/799,moč,wrist
+214-139,west2369,http://concepticon.clld.org/parameters/1277,dæst,hand
+214-186,west2369,http://concepticon.clld.org/parameters/1277,kæf(-e dæst),hand
+214-57,west2369,http://concepticon.clld.org/parameters/1183,kæf,palm of hand
+214-1320,west2369,http://concepticon.clld.org/parameters/1303,ængošt,finger
+214-1015,west2369,http://concepticon.clld.org/parameters/1781,šæst,thumb
+214-623,west2369,http://concepticon.clld.org/parameters/1258,nɑxon,fingernail
+214-285,west2369,http://concepticon.clld.org/parameters/72,čæng,claw
+214-1035,west2369,http://concepticon.clld.org/parameters/1297,pɑ,leg
+214-772,west2369,http://concepticon.clld.org/parameters/800,rɑn,thigh
+214-131,west2369,http://concepticon.clld.org/parameters/1371,zɑnu,knee
+214-1035,west2369,http://concepticon.clld.org/parameters/1301,pɑ,foot
+214-12,west2369,http://concepticon.clld.org/parameters/803,moč-e-pɑ,ankle
+214-1086,west2369,http://concepticon.clld.org/parameters/980,pɑšæne,heel
+214-1108,west2369,http://concepticon.clld.org/parameters/1389,ængošt-e-pɑ,toe
+214-491,west2369,http://concepticon.clld.org/parameters/1257,bɑl,wing
+214-1196,west2369,http://concepticon.clld.org/parameters/1201,pær,feather
+214-1109,west2369,http://concepticon.clld.org/parameters/1592,sine,chest
+214-807,west2369,http://concepticon.clld.org/parameters/1402,pestɑn,breast (of woman)
+214-308,west2369,http://concepticon.clld.org/parameters/796,sær-pestɑn,"nipple, teat"
+214-807,west2369,http://concepticon.clld.org/parameters/154,pestɑn,udder
+214-629,west2369,http://concepticon.clld.org/parameters/1838,nɑf,navel
+214-783,west2369,http://concepticon.clld.org/parameters/1223,del,heart
+214-641,west2369,http://concepticon.clld.org/parameters/1224,ǰegær,liver
+214-431,west2369,http://concepticon.clld.org/parameters/489,gorde,kidney
+214-1257,west2369,http://concepticon.clld.org/parameters/1744,osporz,spleen
+214-906,west2369,http://concepticon.clld.org/parameters/819,šekæm,stomach
+214-795,west2369,http://concepticon.clld.org/parameters/1991,rude,"intestines, guts"
+214-1011,west2369,http://concepticon.clld.org/parameters/1681,kæmær,waist
+214-431,west2369,http://concepticon.clld.org/parameters/1745,gorde,hip
+214-30,west2369,http://concepticon.clld.org/parameters/834,kun,buttocks
+214-906,west2369,http://concepticon.clld.org/parameters/804,šekæm,womb
+214-1222,west2369,http://concepticon.clld.org/parameters/797,xɑye,testicle
+214-264,west2369,http://concepticon.clld.org/parameters/1222,kir,penis
+214-1217,west2369,http://concepticon.clld.org/parameters/1407,næfæs kæšidæn,"breathe, breath"
+214-950,west2369,http://concepticon.clld.org/parameters/1407,[næfæs] dæm -zædæn,"breathe, breath"
+214-922,west2369,http://concepticon.clld.org/parameters/1407,dæm,"breathe, breath"
+214-1300,west2369,http://concepticon.clld.org/parameters/162,sæksæke,hiccough
+214-499,west2369,http://concepticon.clld.org/parameters/162,hoq hoq -zædæn,hiccough
+214-624,west2369,http://concepticon.clld.org/parameters/879,sorfe,cough
+214-706,west2369,http://concepticon.clld.org/parameters/1621,ætse,sneeze
+214-990,west2369,http://concepticon.clld.org/parameters/126,[æræq],perspire
+214-764,west2369,http://concepticon.clld.org/parameters/126,xu -kærdæn,perspire
+214-1329,west2369,http://concepticon.clld.org/parameters/1440,tof-kærdæn,spit
+214-867,west2369,http://concepticon.clld.org/parameters/1278,[estefrɑq]-kærdæn,vomit
+214-937,west2369,http://concepticon.clld.org/parameters/1403,gæzidæn,bite
+214-66,west2369,http://concepticon.clld.org/parameters/319,lisidæn,lick
+214-1227,west2369,http://concepticon.clld.org/parameters/1585,xɑbidæn,sleep
+214-1231,west2369,http://concepticon.clld.org/parameters/1585,xɑb,sleep
+214-934,west2369,http://concepticon.clld.org/parameters/1983,xor-xor kærdæn,snore
+214-371,west2369,http://concepticon.clld.org/parameters/1920,xab -didæn,dream
+214-915,west2369,http://concepticon.clld.org/parameters/1602,bidɑr-šodæn,wake up
+214-382,west2369,http://concepticon.clld.org/parameters/1159,guz,break wind
+214-346,west2369,http://concepticon.clld.org/parameters/1159,tiz,break wind
+214-157,west2369,http://concepticon.clld.org/parameters/1159,guzidæn,break wind
+214-881,west2369,http://concepticon.clld.org/parameters/592,šɑšidæn,urinate
+214-105,west2369,http://concepticon.clld.org/parameters/676,goh,defecate
+214-1097,west2369,http://concepticon.clld.org/parameters/676,ridæn/ rin-,defecate
+214-1317,west2369,http://concepticon.clld.org/parameters/1785,gɑhidæn,have sexual intercourse
+214-693,west2369,http://concepticon.clld.org/parameters/52,lærzidæn,shiver
+214-911,west2369,http://concepticon.clld.org/parameters/138,šostušu kærdæn,bathe
+214-375,west2369,http://concepticon.clld.org/parameters/1090,zɑʔidæn,born (to be)
+214-720,west2369,http://concepticon.clld.org/parameters/1123,ɑbestæn,pregnant
+214-1359,west2369,http://concepticon.clld.org/parameters/1123,[hɑmele],pregnant
+214-487,west2369,http://concepticon.clld.org/parameters/1422,zende,"live, living, life"
+214-928,west2369,http://concepticon.clld.org/parameters/1422,zendegi,"live, living, life"
+214-20,west2369,http://concepticon.clld.org/parameters/1422,zistæn/ zi-,"live, living, life"
+214-284,west2369,http://concepticon.clld.org/parameters/1494,mordæn,"die, dead"
+214-1002,west2369,http://concepticon.clld.org/parameters/1494,morde,"die, dead"
+214-859,west2369,http://concepticon.clld.org/parameters/1417,koštæn,kill
+214-28,west2369,http://concepticon.clld.org/parameters/767,[ǰæsæd],corpse
+214-736,west2369,http://concepticon.clld.org/parameters/1719,[dæfn]-kærdæn,bury (the dead)
+214-1146,west2369,http://concepticon.clld.org/parameters/1773,[qæbr],"grave, tomb"
+214-381,west2369,http://concepticon.clld.org/parameters/1773,gur,"grave, tomb"
+214-1093,west2369,http://concepticon.clld.org/parameters/785,[qævi],"strong, mighty, powerful"
+214-1142,west2369,http://concepticon.clld.org/parameters/785,zurmænd,"strong, mighty, powerful"
+214-526,west2369,http://concepticon.clld.org/parameters/785,tævɑnɑ,"strong, mighty, powerful"
+214-965,west2369,http://concepticon.clld.org/parameters/1601,[zæʔif],weak
+214-1205,west2369,http://concepticon.clld.org/parameters/1601,sost,weak
+214-397,west2369,http://concepticon.clld.org/parameters/1364,[sɑlem],"well, health"
+214-1345,west2369,http://concepticon.clld.org/parameters/1364,tændorosti,"well, health"
+214-1062,west2369,http://concepticon.clld.org/parameters/1847,bimɑr,"sick, sickness"
+214-393,west2369,http://concepticon.clld.org/parameters/1847,bimɑri,"sick, sickness"
+214-721,west2369,http://concepticon.clld.org/parameters/102,særmɑ,cold (catarrh)
+214-1005,west2369,http://concepticon.clld.org/parameters/102,rizeš,cold (catarrh)
+214-333,west2369,http://concepticon.clld.org/parameters/1109,zæxm,"wound, sore"
+214-655,west2369,http://concepticon.clld.org/parameters/148,xɑreš,itch
+214-850,west2369,http://concepticon.clld.org/parameters/793,ǰuš,boil (noun)
+214-970,west2369,http://concepticon.clld.org/parameters/1808,rim,pus
+214-576,west2369,http://concepticon.clld.org/parameters/497,dɑq,scar
+214-913,west2369,http://concepticon.clld.org/parameters/499,dærmɑn,"cure, heal"
+214-1276,west2369,http://concepticon.clld.org/parameters/597,[tæbib],physician
+214-428,west2369,http://concepticon.clld.org/parameters/597,pezešk,physician
+214-651,west2369,http://concepticon.clld.org/parameters/1372,daru,"medicine, drug"
+214-1339,west2369,http://concepticon.clld.org/parameters/1372,[dævɑ],"medicine, drug"
+214-513,west2369,http://concepticon.clld.org/parameters/655,zæhr,poison
+214-657,west2369,http://concepticon.clld.org/parameters/655,[sæmm],poison
+214-1209,west2369,http://concepticon.clld.org/parameters/1757,xæste,"tired, weary"
+214-528,west2369,http://concepticon.clld.org/parameters/1757,mɑnde,"tired, weary"
+214-973,west2369,http://concepticon.clld.org/parameters/168,ɑsudæn/ ɑsɑ-,rest
+214-1295,west2369,http://concepticon.clld.org/parameters/1564,tæmbæl,lazy
+214-60,west2369,http://concepticon.clld.org/parameters/1125,kæl,bald
+214-299,west2369,http://concepticon.clld.org/parameters/320,læng,lame
+214-117,west2369,http://concepticon.clld.org/parameters/320,šæl,lame
+214-54,west2369,http://concepticon.clld.org/parameters/996,kær,deaf
+214-696,west2369,http://concepticon.clld.org/parameters/1666,gong,mute
+214-29,west2369,http://concepticon.clld.org/parameters/1653,kur,blind
+214-109,west2369,http://concepticon.clld.org/parameters/1463,mæst,intoxicated
+214-1021,west2369,http://concepticon.clld.org/parameters/590,bæræhne,"naked, bare"
+214-1087,west2369,http://concepticon.clld.org/parameters/1336,xordæn,eat
+214-213,west2369,http://concepticon.clld.org/parameters/256,xorɑk,food
+214-464,west2369,http://concepticon.clld.org/parameters/256,[qæzɑ],food
+214-1206,west2369,http://concepticon.clld.org/parameters/269,poxte,cooked
+214-1230,west2369,http://concepticon.clld.org/parameters/1959,xɑm,raw
+214-1206,west2369,http://concepticon.clld.org/parameters/178,poxte,ripe
+214-775,west2369,http://concepticon.clld.org/parameters/178,ræside,ripe
+214-1230,west2369,http://concepticon.clld.org/parameters/1958,xɑm,"green, unripe"
+214-1120,west2369,http://concepticon.clld.org/parameters/1728,puside,rotten
+214-1087,west2369,http://concepticon.clld.org/parameters/1401,xordæn,drink
+214-194,west2369,http://concepticon.clld.org/parameters/1401,nušidæn,drink
+214-81,west2369,http://concepticon.clld.org/parameters/1401,ɑšɑmidæn,drink
+214-1163,west2369,http://concepticon.clld.org/parameters/1533,gorosnegi,hunger
+214-432,west2369,http://concepticon.clld.org/parameters/848,tešnegi,thirst
+214-1138,west2369,http://concepticon.clld.org/parameters/1421,mækidæn,suck
+214-11,west2369,http://concepticon.clld.org/parameters/321,xɑʔidæn,chew
+214-496,west2369,http://concepticon.clld.org/parameters/897,[bɑlʔidæn],swallow
+214-1018,west2369,http://concepticon.clld.org/parameters/129,xæfe-šodæn,choke
+214-317,west2369,http://concepticon.clld.org/parameters/1100,poxtæn,cook
+214-1204,west2369,http://concepticon.clld.org/parameters/792,ǰušidæn,boil (vb)
+214-91,west2369,http://concepticon.clld.org/parameters/2146,sorx-kærdæn,"roast, fry"
+214-32,west2369,http://concepticon.clld.org/parameters/2146,beryɑn-k,"roast, fry"
+214-317,west2369,http://concepticon.clld.org/parameters/183,poxtæn,bake
+214-64,west2369,http://concepticon.clld.org/parameters/1143,tænur,oven
+214-379,west2369,http://concepticon.clld.org/parameters/1462,dig,"pot, cooking vessel"
+214-417,west2369,http://concepticon.clld.org/parameters/854,ketri,kettle
+214-1301,west2369,http://concepticon.clld.org/parameters/481,[zærf],dish
+214-975,west2369,http://concepticon.clld.org/parameters/480,pošqɑb ~ bošqɑb,plate
+214-455,west2369,http://concepticon.clld.org/parameters/1530,kɑse,bowl
+214-1039,west2369,http://concepticon.clld.org/parameters/270,kuze,"pitcher, jug"
+214-168,west2369,http://concepticon.clld.org/parameters/476,fenǰɑn,"cup, drinking vessel"
+214-1396,west2369,http://concepticon.clld.org/parameters/476,piyɑle,"cup, drinking vessel"
+214-189,west2369,http://concepticon.clld.org/parameters/1378,[qɑšoq],spoon
+214-1415,west2369,http://concepticon.clld.org/parameters/1352,kɑrd,knife (2)
+214-984,west2369,http://concepticon.clld.org/parameters/1302,čængɑl,fork (2)
+214-1342,west2369,http://concepticon.clld.org/parameters/272,æmbor,tongs
+214-592,west2369,http://concepticon.clld.org/parameters/1322,[sobh]ɑne,breakfast
+214-297,west2369,http://concepticon.clld.org/parameters/1322,čɑšt,breakfast
+214-1242,west2369,http://concepticon.clld.org/parameters/768,[nɑhɑr],lunch
+214-625,west2369,http://concepticon.clld.org/parameters/1833,šɑm,dinner
+214-1383,west2369,http://concepticon.clld.org/parameters/86,ælæk,"sieve, strain"
+214-587,west2369,http://concepticon.clld.org/parameters/86,bixtæn/ biz-,"sieve, strain"
+214-269,west2369,http://concepticon.clld.org/parameters/1767,tærɑšidæn,scrape
+214-670,west2369,http://concepticon.clld.org/parameters/2017,ɑmixtæn/ ɑmiz-,"stir, mix"
+214-1380,west2369,http://concepticon.clld.org/parameters/2017,ængixtæn/ ængiz-,"stir, mix"
+214-632,west2369,http://concepticon.clld.org/parameters/1368,nɑn,bread
+214-529,west2369,http://concepticon.clld.org/parameters/273,xæmir,dough
+214-712,west2369,http://concepticon.clld.org/parameters/1594,ɑrd,"meal, flour"
+214-1042,west2369,http://concepticon.clld.org/parameters/1033,sɑʔidæn,"crush, grind"
+214-1307,west2369,http://concepticon.clld.org/parameters/636,ɑsiyɑ ~ ɑsiyɑb,mill
+214-1366,west2369,http://concepticon.clld.org/parameters/224,hɑvæn,mortar (2)
+214-553,west2369,http://concepticon.clld.org/parameters/634,gušt,meat
+214-593,west2369,http://concepticon.clld.org/parameters/1547,ɑbgušt,"soup, broth"
+214-101,west2369,http://concepticon.clld.org/parameters/924,næbɑti,vegetables
+214-953,west2369,http://concepticon.clld.org/parameters/832,bɑqelɑ,bean
+214-871,west2369,http://concepticon.clld.org/parameters/832,lubiyɑ,bean
+214-656,west2369,http://concepticon.clld.org/parameters/593,sib-zæmini,potato
+214-1176,west2369,http://concepticon.clld.org/parameters/1507,mive,fruit
+214-342,west2369,http://concepticon.clld.org/parameters/1966,xuše,bunch
+214-677,west2369,http://concepticon.clld.org/parameters/322,ænǰir,fig
+214-770,west2369,http://concepticon.clld.org/parameters/920,ængur,grape
+214-1065,west2369,http://concepticon.clld.org/parameters/191,gerdu,nut
+214-1074,west2369,http://concepticon.clld.org/parameters/191,čɑrmæqz,nut
+214-152,west2369,http://concepticon.clld.org/parameters/1154,zeytun,olive
+214-602,west2369,http://concepticon.clld.org/parameters/1484,rowqæn,oil
+214-525,west2369,http://concepticon.clld.org/parameters/1484,[næft],oil
+214-173,west2369,http://concepticon.clld.org/parameters/1274,næmæk,salt
+214-502,west2369,http://concepticon.clld.org/parameters/1385,felfel,pepper
+214-404,west2369,http://concepticon.clld.org/parameters/942,[æsæl],honey
+214-905,west2369,http://concepticon.clld.org/parameters/862,šekær,sugar
+214-1298,west2369,http://concepticon.clld.org/parameters/635,šir,milk (noun)
+214-653,west2369,http://concepticon.clld.org/parameters/93,dušidæn,milk (vb)
+214-637,west2369,http://concepticon.clld.org/parameters/1569,pænir,cheese
+214-895,west2369,http://concepticon.clld.org/parameters/1245,kære,butter
+214-380,west2369,http://concepticon.clld.org/parameters/731,nušidæni,"beverage, drink"
+214-200,west2369,http://concepticon.clld.org/parameters/1524,šærɑb,wine
+214-48,west2369,http://concepticon.clld.org/parameters/1639,ɑbe-ǰów,beer
+214-357,west2369,http://concepticon.clld.org/parameters/744,toxm-e-morq,egg
+214-1252,west2369,http://concepticon.clld.org/parameters/1556,zærde(-ye-toxme-morq),egg yolk
+214-758,west2369,http://concepticon.clld.org/parameters/158,lebɑs-pušidæn,put on (clothes)
+214-618,west2369,http://concepticon.clld.org/parameters/1895,[lebɑs],"clothing, clothes"
+214-273,west2369,http://concepticon.clld.org/parameters/1895,ǰɑme,"clothing, clothes"
+214-652,west2369,http://concepticon.clld.org/parameters/881,[xæyyɑt],tailor
+214-1404,west2369,http://concepticon.clld.org/parameters/881,dærzi,tailor
+214-1216,west2369,http://concepticon.clld.org/parameters/1616,pɑrče,cloth
+214-1362,west2369,http://concepticon.clld.org/parameters/964,pæšm,wool
+214-1354,west2369,http://concepticon.clld.org/parameters/916,kættɑn,"linen, flax"
+214-1107,west2369,http://concepticon.clld.org/parameters/1850,pæmbe,cotton
+214-177,west2369,http://concepticon.clld.org/parameters/1850,pæxtæ,cotton
+214-459,west2369,http://concepticon.clld.org/parameters/1641,æbrišom,silk
+214-172,west2369,http://concepticon.clld.org/parameters/325,næmæd,felt
+214-93,west2369,http://concepticon.clld.org/parameters/580,xæz,fur
+214-523,west2369,http://concepticon.clld.org/parameters/629,čærm,leather
+214-107,west2369,http://concepticon.clld.org/parameters/121,rištæn,spin
+214-310,west2369,http://concepticon.clld.org/parameters/121,reštæn/ ris-,spin
+214-954,west2369,http://concepticon.clld.org/parameters/277,duk,spindle
+214-1165,west2369,http://concepticon.clld.org/parameters/133,bɑftæn,weave
+214-362,west2369,http://concepticon.clld.org/parameters/1787,dæstgɑhe-næssɑǰi,loom
+214-1031,west2369,http://concepticon.clld.org/parameters/1457,duxtæn/ duz-,sew
+214-341,west2369,http://concepticon.clld.org/parameters/1382,suzæn,needle
+214-1237,west2369,http://concepticon.clld.org/parameters/278,mil,awl
+214-1114,west2369,http://concepticon.clld.org/parameters/1161,næx,thread
+214-456,west2369,http://concepticon.clld.org/parameters/157,ræng-kærdæn,dye
+214-802,west2369,http://concepticon.clld.org/parameters/326,[æbɑ],cloak
+214-618,west2369,http://concepticon.clld.org/parameters/474,[lebɑs],woman's dress
+214-964,west2369,http://concepticon.clld.org/parameters/603,nimtæne,coat
+214-865,west2369,http://concepticon.clld.org/parameters/603,kot,coat
+214-188,west2369,http://concepticon.clld.org/parameters/1622,pirahæn ~ piræhæn,shirt
+214-365,west2369,http://concepticon.clld.org/parameters/2012,[yæxe ~ yæqe],collar
+214-1411,west2369,http://concepticon.clld.org/parameters/1600,dɑmæn,skirt
+214-879,west2369,http://concepticon.clld.org/parameters/809,šælvɑr,trousers
+214-252,west2369,http://concepticon.clld.org/parameters/329,[ǰurɑb],"stocking, sock"
+214-23,west2369,http://concepticon.clld.org/parameters/1381,kæfš,shoe
+214-257,west2369,http://concepticon.clld.org/parameters/585,[čækme],boot
+214-777,west2369,http://concepticon.clld.org/parameters/585,muze,boot
+214-569,west2369,http://concepticon.clld.org/parameters/875,kæffɑš,"shoemaker, cobbler"
+214-931,west2369,http://concepticon.clld.org/parameters/2130,kolɑh,"hat, cap"
+214-420,west2369,http://concepticon.clld.org/parameters/772,kæmær-bænd,"belt, girdle"
+214-919,west2369,http://concepticon.clld.org/parameters/867,dæstkæš,glove
+214-399,west2369,http://concepticon.clld.org/parameters/1151,heǰɑb,veil
+214-589,west2369,http://concepticon.clld.org/parameters/1851,ǰib,pocket
+214-46,west2369,http://concepticon.clld.org/parameters/757,dogme,button
+214-182,west2369,http://concepticon.clld.org/parameters/64,sænǰɑq,pin
+214-1292,west2369,http://concepticon.clld.org/parameters/917,ɑrɑyeš,"ornament, adornment"
+214-1306,west2369,http://concepticon.clld.org/parameters/1029,ǰowhær,jewel
+214-796,west2369,http://concepticon.clld.org/parameters/1374,ængoštær,ring (for finger)
+214-805,west2369,http://concepticon.clld.org/parameters/1754,dæst-bænd,bracelet
+214-1063,west2369,http://concepticon.clld.org/parameters/1961,gærdæn-bænd,necklace
+214-13,west2369,http://concepticon.clld.org/parameters/1860,mohre,bead
+214-65,west2369,http://concepticon.clld.org/parameters/770,gušvɑre,earring
+214-512,west2369,http://concepticon.clld.org/parameters/330,deyhim,"headband, headdress"
+214-751,west2369,http://concepticon.clld.org/parameters/332,dæstmɑl,"handkerchief, rag"
+214-889,west2369,http://concepticon.clld.org/parameters/1021,howle,towel
+214-493,west2369,http://concepticon.clld.org/parameters/1475,šɑne,comb
+214-348,west2369,http://concepticon.clld.org/parameters/151,tiq,razor
+214-663,west2369,http://concepticon.clld.org/parameters/1926,[mærhæm],ointment
+214-158,west2369,http://concepticon.clld.org/parameters/788,sɑbun,soap
+214-202,west2369,http://concepticon.clld.org/parameters/1171,ɑʔine,mirror
+214-535,west2369,http://concepticon.clld.org/parameters/1099,[sokunæt]kærdæn,"dwell, live"
+214-1315,west2369,http://concepticon.clld.org/parameters/1252,xɑne,house
+214-574,west2369,http://concepticon.clld.org/parameters/1252,[mænzel],house
+214-709,west2369,http://concepticon.clld.org/parameters/1678,kolbe,hut
+214-1076,west2369,http://concepticon.clld.org/parameters/1316,čɑdor,tent
+214-1017,west2369,http://concepticon.clld.org/parameters/1316,[xeyme],tent
+214-1166,west2369,http://concepticon.clld.org/parameters/736,[hæyɑt],"yard, court"
+214-1401,west2369,http://concepticon.clld.org/parameters/736,særɑy,"yard, court"
+214-1124,west2369,http://concepticon.clld.org/parameters/334,ɑšpæz-xɑne,cookhouse
+214-376,west2369,http://concepticon.clld.org/parameters/1450,[otɑq],room
+214-921,west2369,http://concepticon.clld.org/parameters/1567,dær,"door, gate"
+214-855,west2369,http://concepticon.clld.org/parameters/1567,dærvɑze,"door, gate"
+214-141,west2369,http://concepticon.clld.org/parameters/1596,[qofl],lock (noun)
+214-24,west2369,http://concepticon.clld.org/parameters/1012,čeft,"latch, door-bolt"
+214-672,west2369,http://concepticon.clld.org/parameters/1472,kelid,key
+214-343,west2369,http://concepticon.clld.org/parameters/1375,pænǰære,window
+214-892,west2369,http://concepticon.clld.org/parameters/1375,rowzæne,window
+214-31,west2369,http://concepticon.clld.org/parameters/1375,tireza,window
+214-635,west2369,http://concepticon.clld.org/parameters/1632,zæmin,floor
+214-994,west2369,http://concepticon.clld.org/parameters/933,divɑr,wall
+214-77,west2369,http://concepticon.clld.org/parameters/185,[oǰɑq],fireplace
+214-1180,west2369,http://concepticon.clld.org/parameters/859,boxɑri,stove
+214-485,west2369,http://concepticon.clld.org/parameters/1305,dudkæš,chimney
+214-1139,west2369,http://concepticon.clld.org/parameters/1464,nærdæbɑn,ladder
+214-998,west2369,http://concepticon.clld.org/parameters/1663,tæxte-xɑb,bed
+214-669,west2369,http://concepticon.clld.org/parameters/806,pætu,blanket
+214-1064,west2369,http://concepticon.clld.org/parameters/1476,sændæli,chair
+214-1239,west2369,http://concepticon.clld.org/parameters/1775,miz,table
+214-253,west2369,http://concepticon.clld.org/parameters/2131,čerɑq,"lamp, torch"
+214-14,west2369,http://concepticon.clld.org/parameters/1273,[šæmʔ],candle
+214-843,west2369,http://concepticon.clld.org/parameters/745,ræf,shelf
+214-492,west2369,http://concepticon.clld.org/parameters/769,bɑm,roof
+214-638,west2369,http://concepticon.clld.org/parameters/1132,tir,beam
+214-1221,west2369,http://concepticon.clld.org/parameters/1132,bɑtɑr,beam
+214-370,west2369,http://concepticon.clld.org/parameters/281,mile,"post, pole"
+214-638,west2369,http://concepticon.clld.org/parameters/281,tir,"post, pole"
+214-106,west2369,http://concepticon.clld.org/parameters/1227,tæxt,board
+214-846,west2369,http://concepticon.clld.org/parameters/876,tɑq,arch
+214-547,west2369,http://concepticon.clld.org/parameters/876,tɑqče eyvɑn,arch
+214-1274,west2369,http://concepticon.clld.org/parameters/877,[bænnɑ],mason
+214-1111,west2369,http://concepticon.clld.org/parameters/1006,xešt,brick
+214-563,west2369,http://concepticon.clld.org/parameters/901,gel,adobe
+214-818,west2369,http://concepticon.clld.org/parameters/979,dehqɑn,farmer
+214-596,west2369,http://concepticon.clld.org/parameters/212,kešt-zɑr,field (for cultivation)
+214-494,west2369,http://concepticon.clld.org/parameters/586,bɑq,garden
+214-549,west2369,http://concepticon.clld.org/parameters/1541,[zerɑʔæt]-kærdæn,"cultivate, till"
+214-1110,west2369,http://concepticon.clld.org/parameters/1541,keštæn/ kɑr-,"cultivate, till"
+214-771,west2369,http://concepticon.clld.org/parameters/2002,gudɑl,ditch
+214-323,west2369,http://concepticon.clld.org/parameters/1921,gɑv-ɑhæn,plow
+214-78,west2369,http://concepticon.clld.org/parameters/1794,šiyɑr,furrow
+214-1171,west2369,http://concepticon.clld.org/parameters/1418,kændæn,dig
+214-1000,west2369,http://concepticon.clld.org/parameters/1176,bil,spade
+214-1000,west2369,http://concepticon.clld.org/parameters/1901,bil,shovel
+214-1303,west2369,http://concepticon.clld.org/parameters/748,keštæn kar-,sow
+214-1082,west2369,http://concepticon.clld.org/parameters/714,dɑne,seed
+214-1238,west2369,http://concepticon.clld.org/parameters/190,derow-kærdæn,"mow, reap"
+214-577,west2369,http://concepticon.clld.org/parameters/2132,dɑs,"sickle, scythe"
+214-469,west2369,http://concepticon.clld.org/parameters/285,kubidæn,thresh
+214-897,west2369,http://concepticon.clld.org/parameters/223,xærmæn-gæli,threshing-floor
+214-1150,west2369,http://concepticon.clld.org/parameters/611,[mæhsul],"crop, harvest"
+214-1022,west2369,http://concepticon.clld.org/parameters/611,xærmæn,"crop, harvest"
+214-129,west2369,http://concepticon.clld.org/parameters/605,qælle,"grain (barley, oats etc)"
+214-1261,west2369,http://concepticon.clld.org/parameters/1077,gændom,wheat
+214-1188,west2369,http://concepticon.clld.org/parameters/932,ǰow,barley
+214-868,west2369,http://concepticon.clld.org/parameters/506,zorræt,"maize, corn"
+214-524,west2369,http://concepticon.clld.org/parameters/506,bælɑl,"maize, corn"
+214-68,west2369,http://concepticon.clld.org/parameters/926,berenǰ,rice
+214-1214,west2369,http://concepticon.clld.org/parameters/606,giyɑh,grass
+214-118,west2369,http://concepticon.clld.org/parameters/342,ælæfe-xošk,hay
+214-58,west2369,http://concepticon.clld.org/parameters/653,næbɑt,plant (noun)
+214-1110,west2369,http://concepticon.clld.org/parameters/1486,keštæn/ kɑr-,plant (vb)
+214-1003,west2369,http://concepticon.clld.org/parameters/670,bix,root
+214-1360,west2369,http://concepticon.clld.org/parameters/670,riše,root
+214-630,west2369,http://concepticon.clld.org/parameters/1531,šɑx,branch
+214-466,west2369,http://concepticon.clld.org/parameters/1531,šɑxe,branch
+214-410,west2369,http://concepticon.clld.org/parameters/628,bærg,leaf
+214-104,west2369,http://concepticon.clld.org/parameters/239,gol,flower
+214-1199,west2369,http://concepticon.clld.org/parameters/906,dæræxt,tree
+214-755,west2369,http://concepticon.clld.org/parameters/644,bælut,oak
+214-386,west2369,http://concepticon.clld.org/parameters/1915,kɑǰ,fir
+214-621,west2369,http://concepticon.clld.org/parameters/1915,senowbær,fir
+214-755,west2369,http://concepticon.clld.org/parameters/968,bælut,acorn
+214-933,west2369,http://concepticon.clld.org/parameters/343,tæk,vine
+214-841,west2369,http://concepticon.clld.org/parameters/343,ræz,vine
+214-650,west2369,http://concepticon.clld.org/parameters/343,mow,vine
+214-272,west2369,http://concepticon.clld.org/parameters/974,tæmbɑku,tobacco
+214-1127,west2369,http://concepticon.clld.org/parameters/974,totun ~ tutun,tobacco
+214-923,west2369,http://concepticon.clld.org/parameters/1689,dud-kæšidæn,smoke (tobacco)
+214-683,west2369,http://concepticon.clld.org/parameters/1124,čopok,pipe
+214-801,west2369,http://concepticon.clld.org/parameters/1124,qælæyɑn,pipe
+214-247,west2369,http://concepticon.clld.org/parameters/241,konde(ye-deræxt),tree stump
+214-642,west2369,http://concepticon.clld.org/parameters/344,tæne,tree trunk
+214-1072,west2369,http://concepticon.clld.org/parameters/409,do-šɑxe,forked branch
+214-170,west2369,http://concepticon.clld.org/parameters/345,šire,sap
+214-1372,west2369,http://concepticon.clld.org/parameters/1181,[næxl],palm tree
+214-762,west2369,http://concepticon.clld.org/parameters/970,[nɑrgil],coconut
+214-1118,west2369,http://concepticon.clld.org/parameters/1126,limu,citrus fruit
+214-482,west2369,http://concepticon.clld.org/parameters/411,kædu,gourd
+214-482,west2369,http://concepticon.clld.org/parameters/864,kædu,"pumpkin, squash"
+214-821,west2369,http://concepticon.clld.org/parameters/1927,xeyzorɑn,bamboo
+214-727,west2369,http://concepticon.clld.org/parameters/146,ney-šækær,sugar cane
+214-259,west2369,http://concepticon.clld.org/parameters/641,qɑrč,mushroom
+214-401,west2369,http://concepticon.clld.org/parameters/813,kærdæn/ kon-,"do, make"
+214-416,west2369,http://concepticon.clld.org/parameters/984,kɑr,work
+214-935,west2369,http://concepticon.clld.org/parameters/984,kɑr-kærdæn,work
+214-684,west2369,http://concepticon.clld.org/parameters/2004,xæm-kærdæn,bend
+214-986,west2369,http://concepticon.clld.org/parameters/1470,tɑ-kærdæn,fold
+214-1141,west2369,http://concepticon.clld.org/parameters/1917,bæstæn/ bænd-,"tie, bind"
+214-1157,west2369,http://concepticon.clld.org/parameters/352,gošudæn/ gošɑ-,untie
+214-1038,west2369,http://concepticon.clld.org/parameters/1627,selsele,chain
+214-463,west2369,http://concepticon.clld.org/parameters/1218,tænɑb,"rope, cord"
+214-43,west2369,http://concepticon.clld.org/parameters/1218,rismɑn,"rope, cord"
+214-622,west2369,http://concepticon.clld.org/parameters/760,gereh,knot (noun)
+214-510,west2369,http://concepticon.clld.org/parameters/2133,zædæn/ zæn-,"strike (hit, beat)"
+214-1080,west2369,http://concepticon.clld.org/parameters/1432,boridæn,cut
+214-1171,west2369,http://concepticon.clld.org/parameters/355,kændæn,cut down
+214-269,west2369,http://concepticon.clld.org/parameters/155,tærɑšidæn,"chop, hew"
+214-1415,west2369,http://concepticon.clld.org/parameters/1352,kɑrd,knife
+214-1036,west2369,http://concepticon.clld.org/parameters/1352,[čɑqu],knife
+214-1323,west2369,http://concepticon.clld.org/parameters/356,[qeyči],"scissors, shears"
+214-50,west2369,http://concepticon.clld.org/parameters/677,tæbær,ax
+214-753,west2369,http://concepticon.clld.org/parameters/290,tiše,adze
+214-1374,west2369,http://concepticon.clld.org/parameters/680,šekæstæn/ šekæn-,break
+214-19,west2369,http://concepticon.clld.org/parameters/588,šekæste,broken
+214-996,west2369,http://concepticon.clld.org/parameters/588,xærɑb,broken
+214-1277,west2369,http://concepticon.clld.org/parameters/1437,šekɑftæn,split
+214-830,west2369,http://concepticon.clld.org/parameters/1735,pare-kærdæn,tear
+214-1330,west2369,http://concepticon.clld.org/parameters/291,pust-kændæn,"flay, skin"
+214-1375,west2369,http://concepticon.clld.org/parameters/1449,mɑlidæn,"rub, wipe"
+214-1060,west2369,http://concepticon.clld.org/parameters/214,kæšidæn,stretch
+214-1060,west2369,http://concepticon.clld.org/parameters/1455,kæšidæn,pull
+214-476,west2369,http://concepticon.clld.org/parameters/38,pæhn-kærdæn,spread out
+214-851,west2369,http://concepticon.clld.org/parameters/357,ɑvixtæn/ ɑviz-,hang up
+214-584,west2369,http://concepticon.clld.org/parameters/357,ɑvizɑndæn,hang up
+214-608,west2369,http://concepticon.clld.org/parameters/1913,fešordæn/ fešɑr-,press
+214-1212,west2369,http://concepticon.clld.org/parameters/1414,fešordæn/ fešar-,"squeeze, wring"
+214-276,west2369,http://concepticon.clld.org/parameters/1487,rixtæn/ riz-,pour
+214-114,west2369,http://concepticon.clld.org/parameters/1453,šostæn/ šu-,wash
+214-599,west2369,http://concepticon.clld.org/parameters/230,roftæn/ rub-,sweep
+214-557,west2369,http://concepticon.clld.org/parameters/245,ǰɑru,broom
+214-1399,west2369,http://concepticon.clld.org/parameters/1361,ɑlæt,tool
+214-313,west2369,http://concepticon.clld.org/parameters/1042,[næǰǰɑr],carpenter
+214-324,west2369,http://concepticon.clld.org/parameters/1840,saxtæn,build
+214-719,west2369,http://concepticon.clld.org/parameters/1840,[bænɑ]-kærdæn,build
+214-570,west2369,http://concepticon.clld.org/parameters/1501,softæn/ somb-,bore
+214-631,west2369,http://concepticon.clld.org/parameters/1948,ærre,saw
+214-148,west2369,http://concepticon.clld.org/parameters/1481,čækoš,hammer
+214-1144,west2369,http://concepticon.clld.org/parameters/502,mix,nail
+214-1130,west2369,http://concepticon.clld.org/parameters/1069,seriš,glue
+214-391,west2369,http://concepticon.clld.org/parameters/1069,čæsb,glue
+214-1095,west2369,http://concepticon.clld.org/parameters/1001,næʔl-bænd,"smith, blacksmith"
+214-849,west2369,http://concepticon.clld.org/parameters/1001,ahængær,"smith, blacksmith"
+214-454,west2369,http://concepticon.clld.org/parameters/288,kure,forge
+214-1069,west2369,http://concepticon.clld.org/parameters/1648,sendɑn,anvil
+214-276,west2369,http://concepticon.clld.org/parameters/211,rixtæn/ riz-,cast (metals)
+214-1181,west2369,http://concepticon.clld.org/parameters/1369,zær,gold
+214-1085,west2369,http://concepticon.clld.org/parameters/1369,[tælɑ],gold
+214-1147,west2369,http://concepticon.clld.org/parameters/759,sim,silver
+214-1200,west2369,http://concepticon.clld.org/parameters/759,[noqre],silver
+214-37,west2369,http://concepticon.clld.org/parameters/1825,mes,"copper, bronze"
+214-533,west2369,http://concepticon.clld.org/parameters/1825,čudæn,"copper, bronze"
+214-1233,west2369,http://concepticon.clld.org/parameters/621,ɑhæn,iron
+214-1133,west2369,http://concepticon.clld.org/parameters/627,sorb,lead (noun)
+214-1271,west2369,http://concepticon.clld.org/parameters/358,[qælʔ],"tin, tinplate"
+214-394,west2369,http://concepticon.clld.org/parameters/359,kuzegær,potter
+214-955,west2369,http://concepticon.clld.org/parameters/289,[qɑleb],mold (clay etc)
+214-563,west2369,http://concepticon.clld.org/parameters/1399,gel,clay
+214-470,west2369,http://concepticon.clld.org/parameters/604,šiše,glass
+214-1165,west2369,http://concepticon.clld.org/parameters/1729,bɑftæn,"weave, plait"
+214-675,west2369,http://concepticon.clld.org/parameters/1539,zæmbil,basket
+214-763,west2369,http://concepticon.clld.org/parameters/1539,sæbæd,basket
+214-532,west2369,http://concepticon.clld.org/parameters/195,zilu,mat
+214-336,west2369,http://concepticon.clld.org/parameters/292,qɑliče,rug
+214-1388,west2369,http://concepticon.clld.org/parameters/1971,bɑd-bezæn,fan (noun)
+214-269,west2369,http://concepticon.clld.org/parameters/228,tærɑšidæn,carve
+214-581,west2369,http://concepticon.clld.org/parameters/914,sæng-tærɑs,sculptor
+214-366,west2369,http://concepticon.clld.org/parameters/1002,[moǰæssæme],statue
+214-506,west2369,http://concepticon.clld.org/parameters/1979,eskenæk ~ eskene,chisel
+214-891,west2369,http://concepticon.clld.org/parameters/647,ræng,paint (noun)
+214-1259,west2369,http://concepticon.clld.org/parameters/2001,ræng-zædæn,paint (vb)
+214-567,west2369,http://concepticon.clld.org/parameters/765,[hærækæt]-kærdæn,move
+214-398,west2369,http://concepticon.clld.org/parameters/765,ǰombidæn,move
+214-565,west2369,http://concepticon.clld.org/parameters/765,tækɑn-xordæn,move
+214-505,west2369,http://concepticon.clld.org/parameters/1588,gærdidæn,turn over
+214-1223,west2369,http://concepticon.clld.org/parameters/1445,bær gæštæn,turn around
+214-133,west2369,http://concepticon.clld.org/parameters/1113,pičidæn,"wind, wrap"
+214-620,west2369,http://concepticon.clld.org/parameters/827,qæltidæn,roll
+214-373,west2369,http://concepticon.clld.org/parameters/808,vel-kærdæn,drop (vb)
+214-133,west2369,http://concepticon.clld.org/parameters/430,pičidæn,twist
+214-1135,west2369,http://concepticon.clld.org/parameters/568,bær-xɑstæn,rise
+214-606,west2369,http://concepticon.clld.org/parameters/501,bær-dɑštæn,"raise, lift"
+214-435,west2369,http://concepticon.clld.org/parameters/1280,oftɑdæn,fall
+214-573,west2369,http://concepticon.clld.org/parameters/2253,čekidæn,drip
+214-1265,west2369,http://concepticon.clld.org/parameters/1456,ændɑxtæn,throw
+214-797,west2369,http://concepticon.clld.org/parameters/1456,pærtɑftæn,throw
+214-949,west2369,http://concepticon.clld.org/parameters/702,gir-kærdæn,catch (ball)
+214-203,west2369,http://concepticon.clld.org/parameters/1909,tækɑn-dɑdæn,shake
+214-1266,west2369,http://concepticon.clld.org/parameters/1909,ǰombɑnidæn,shake
+214-586,west2369,http://concepticon.clld.org/parameters/2003,ǰɑri-šodæn,flow
+214-483,west2369,http://concepticon.clld.org/parameters/1088,foru-ræftæn,sink
+214-350,west2369,http://concepticon.clld.org/parameters/1439,šenɑ-kærdæn,swim
+214-1044,west2369,http://concepticon.clld.org/parameters/1441,pærvɑz-kærdæn,fly (vb)
+214-215,west2369,http://concepticon.clld.org/parameters/175,dæmidæn,blow
+214-585,west2369,http://concepticon.clld.org/parameters/96,xæzidæn,"creep, crawl"
+214-819,west2369,http://concepticon.clld.org/parameters/66,čæhɑr-zanu nešæstæn,kneel
+214-1263,west2369,http://concepticon.clld.org/parameters/296,čombɑtæme-zædæn,crouch
+214-1056,west2369,http://concepticon.clld.org/parameters/1324,sor-xordæn,"slide, slip"
+214-411,west2369,http://concepticon.clld.org/parameters/1324,lis xordæn,"slide, slip"
+214-1397,west2369,http://concepticon.clld.org/parameters/1324,læqzidæn,"slide, slip"
+214-1182,west2369,http://concepticon.clld.org/parameters/1829,ǰæstæn,"jump, leap"
+214-477,west2369,http://concepticon.clld.org/parameters/1829,pæridæn,"jump, leap"
+214-497,west2369,http://concepticon.clld.org/parameters/1135,lægæd-zædæn,kick
+214-1164,west2369,http://concepticon.clld.org/parameters/1879,[ræqs-]kærdæn,dance
+214-1197,west2369,http://concepticon.clld.org/parameters/1443,rɑh-ræftæn,walk
+214-481,west2369,http://concepticon.clld.org/parameters/1519,dævidæn,run
+214-1070,west2369,http://concepticon.clld.org/parameters/695,ræftæn/ ræv-,go
+214-1355,west2369,http://concepticon.clld.org/parameters/705,bɑlɑ ræftæn,go up
+214-246,west2369,http://concepticon.clld.org/parameters/2014,foru ræftæn,go down
+214-1068,west2369,http://concepticon.clld.org/parameters/1107,birun ræftæn,go out
+214-1202,west2369,http://concepticon.clld.org/parameters/1446,ɑmædæn/ ɑ-,come
+214-792,west2369,http://concepticon.clld.org/parameters/581,bær-gæštæn,come back
+214-300,west2369,http://concepticon.clld.org/parameters/485,æz-beyn-ræftæn,disappear
+214-1293,west2369,http://concepticon.clld.org/parameters/956,gorixtæn/ goriz-,flee
+214-678,west2369,http://concepticon.clld.org/parameters/956,færɑr-kærdæn,flee
+214-1183,west2369,http://concepticon.clld.org/parameters/1047,dombɑl-kærdæn,pursue
+214-1240,west2369,http://concepticon.clld.org/parameters/1387,ræsidæn,"reach, arrive"
+214-1387,west2369,http://concepticon.clld.org/parameters/1387,[vɑred]-šodæn,"reach, arrive"
+214-863,west2369,http://concepticon.clld.org/parameters/1778,næzdik-šodæn,approach
+214-372,west2369,http://concepticon.clld.org/parameters/749,vɑred- dɑxel-šodæn,enter
+214-22,west2369,http://concepticon.clld.org/parameters/749,dær-amædæn,enter
+214-47,west2369,http://concepticon.clld.org/parameters/700,bordæn,carry (bear)
+214-978,west2369,http://concepticon.clld.org/parameters/415,bæqæl-kærdæn/ -daštæn,carry-underarm
+214-199,west2369,http://concepticon.clld.org/parameters/692,ɑvordæn/ ɑvær-,bring
+214-103,west2369,http://concepticon.clld.org/parameters/1127,ferestɑdæn,send
+214-539,west2369,http://concepticon.clld.org/parameters/43,[hedɑyæt]-kærdæn,lead (vb)
+214-980,west2369,http://concepticon.clld.org/parameters/43,ræhnæmɑ-kærdæn,lead (vb)
+214-1395,west2369,http://concepticon.clld.org/parameters/741,rɑndæn,drive
+214-1393,west2369,http://concepticon.clld.org/parameters/367,sævɑr-šodæn,ride
+214-813,west2369,http://concepticon.clld.org/parameters/1452,tekɑn-dɑdæn,"push, shove"
+214-774,west2369,http://concepticon.clld.org/parameters/667,rɑh,road
+214-774,west2369,http://concepticon.clld.org/parameters/2252,rɑh,path
+214-591,west2369,http://concepticon.clld.org/parameters/1011,pol,bridge
+214-193,west2369,http://concepticon.clld.org/parameters/122,gɑri,"carriage, wagon, cart"
+214-521,west2369,http://concepticon.clld.org/parameters/710,čærx,wheel
+214-1237,west2369,http://concepticon.clld.org/parameters/1769,mil,axle
+214-370,west2369,http://concepticon.clld.org/parameters/1769,mile,axle
+214-498,west2369,http://concepticon.clld.org/parameters/14,yuq,yoke
+214-588,west2369,http://concepticon.clld.org/parameters/740,kešti,ship
+214-626,west2369,http://concepticon.clld.org/parameters/740,nɑv,ship
+214-687,west2369,http://concepticon.clld.org/parameters/1844,[qayeq],boat
+214-154,west2369,http://concepticon.clld.org/parameters/108,pɑru,oar
+214-154,west2369,http://concepticon.clld.org/parameters/234,pɑru,paddle (noun)
+214-878,west2369,http://concepticon.clld.org/parameters/1849,pɑru-zædæn,row (vb)
+214-1321,west2369,http://concepticon.clld.org/parameters/108,sokkɑn-e-kešti,rudder
+214-1100,west2369,http://concepticon.clld.org/parameters/184,dægæl,mast
+214-128,west2369,http://concepticon.clld.org/parameters/786,bɑdbɑn,sail (noun)
+214-83,west2369,http://concepticon.clld.org/parameters/1870,længær,anchor
+214-478,west2369,http://concepticon.clld.org/parameters/610,bændær,"harbor, port"
+214-1117,west2369,http://concepticon.clld.org/parameters/773,dɑštæn / dɑr-,have
+214-1117,west2369,http://concepticon.clld.org/parameters/684,dɑštæn / dɑr-,"own, possess"
+214-1019,west2369,http://concepticon.clld.org/parameters/1749,gereftæn/gir-,take
+214-606,west2369,http://concepticon.clld.org/parameters/1749,bær-dɑštæn,take
+214-87,west2369,http://concepticon.clld.org/parameters/2021,gereftæn / gir-,"seize, grasp"
+214-1016,west2369,http://concepticon.clld.org/parameters/1448,negɑh-dɑštæn ~ negæh-dɑštæn,hold
+214-1096,west2369,http://concepticon.clld.org/parameters/694,[hɑsel]-kærdæn,"get, obtain"
+214-858,west2369,http://concepticon.clld.org/parameters/694,be-dæst ɑværdæn,"get, obtain"
+214-437,west2369,http://concepticon.clld.org/parameters/1477,negɑh-dɑštæn,"keep, retain"
+214-363,west2369,http://concepticon.clld.org/parameters/738,čiz,thing
+214-176,west2369,http://concepticon.clld.org/parameters/1447,dɑdæn/ deh-,give
+214-649,west2369,http://concepticon.clld.org/parameters/85,pæs-dadæn,give back
+214-437,west2369,http://concepticon.clld.org/parameters/1997,negɑh-dɑštæn,"preserve, look after"
+214-338,west2369,http://concepticon.clld.org/parameters/1997,[hefz]-kærdæn,"preserve, look after"
+214-1094,west2369,http://concepticon.clld.org/parameters/2008,ræhɑʔi-kærdæn,"save, rescue"
+214-1198,west2369,http://concepticon.clld.org/parameters/2008,[neǰɑt]-dɑdæn,"save, rescue"
+214-159,west2369,http://concepticon.clld.org/parameters/681,nist-o-nɑbud-kærdæn,destroy
+214-658,west2369,http://concepticon.clld.org/parameters/44,[zærær]-ræsɑndæn,"harm, injure, damage"
+214-648,west2369,http://concepticon.clld.org/parameters/1468,ǰostoǰu-kærdæn,"seek, look for"
+214-289,west2369,http://concepticon.clld.org/parameters/719,peydɑ-kærdæn,find
+214-495,west2369,http://concepticon.clld.org/parameters/1660,gom-kærdæn,lose
+214-1368,west2369,http://concepticon.clld.org/parameters/1095,[xælɑs]-kærdæn,"release, let go"
+214-1134,west2369,http://concepticon.clld.org/parameters/1095,ræhɑ-dɑdæn,"release, let go"
+214-834,west2369,http://concepticon.clld.org/parameters/1559,pul,money
+214-963,west2369,http://concepticon.clld.org/parameters/1867,[sekke],coin
+214-271,west2369,http://concepticon.clld.org/parameters/712,[servæt]mænd,rich
+214-1190,west2369,http://concepticon.clld.org/parameters/1674,[meskin],poor
+214-192,west2369,http://concepticon.clld.org/parameters/1674,[fæqir],poor
+214-767,west2369,http://concepticon.clld.org/parameters/1674,dærviš,poor
+214-745,west2369,http://concepticon.clld.org/parameters/1674,niyɑzmænd,poor
+214-1410,west2369,http://concepticon.clld.org/parameters/1934,gædɑ,beggar
+214-785,west2369,http://concepticon.clld.org/parameters/1774,[bæxil],"avaricious, stingy"
+214-392,west2369,http://concepticon.clld.org/parameters/582,[qærz]-dɑdæn,lend
+214-1091,west2369,http://concepticon.clld.org/parameters/1823,[qærz]-kærdæn/ -gereftæn,borrow
+214-790,west2369,http://concepticon.clld.org/parameters/1914,vɑm,debt
+214-756,west2369,http://concepticon.clld.org/parameters/1914,qærz,debt
+214-223,west2369,http://concepticon.clld.org/parameters/718,pærdɑxtæn/ pærdɑz-,pay (vb)
+214-1004,west2369,http://concepticon.clld.org/parameters/1081,[hesɑb],"account, reckoning"
+214-52,west2369,http://concepticon.clld.org/parameters/873,bɑǰ,"tax, tribute"
+214-791,west2369,http://concepticon.clld.org/parameters/873,[mɑliyɑt],"tax, tribute"
+214-115,west2369,http://concepticon.clld.org/parameters/856,[kerɑye]-kærdæn,hire
+214-471,west2369,http://concepticon.clld.org/parameters/1122,[hoquq],wages
+214-966,west2369,http://concepticon.clld.org/parameters/733,[kæsb]-kærdæn,earn
+214-809,west2369,http://concepticon.clld.org/parameters/1869,xæridæn,buy
+214-311,west2369,http://concepticon.clld.org/parameters/1571,foruxtæn/ foruš-,sell
+214-1371,west2369,http://concepticon.clld.org/parameters/2135,[teǰɑræt]-kærdæn,"trade, barter"
+214-36,west2369,http://concepticon.clld.org/parameters/1082,[tɑǰer],merchant
+214-536,west2369,http://concepticon.clld.org/parameters/1082,bɑzærgɑn,merchant
+214-1053,west2369,http://concepticon.clld.org/parameters/633,bɑzɑr,market (place)
+214-1013,west2369,http://concepticon.clld.org/parameters/752,dokkɑn,"store, shop"
+214-368,west2369,http://concepticon.clld.org/parameters/752,mæqɑze,"store, shop"
+214-305,west2369,http://concepticon.clld.org/parameters/657,qeymæt,price
+214-993,west2369,http://concepticon.clld.org/parameters/657,bæhɑ,price
+214-248,west2369,http://concepticon.clld.org/parameters/1426,gerɑn,"dear (costly, expensive)"
+214-1079,west2369,http://concepticon.clld.org/parameters/1887,ærzɑn,cheap
+214-434,west2369,http://concepticon.clld.org/parameters/884,[tæqsim]-kærdæn,share (distribute)
+214-208,west2369,http://concepticon.clld.org/parameters/1098,[væzn]-kærdæn,weigh
+214-1195,west2369,http://concepticon.clld.org/parameters/1685,pæs,after
+214-1173,west2369,http://concepticon.clld.org/parameters/1685,[bæʔd],after
+214-1195,west2369,http://concepticon.clld.org/parameters/723,pæs,behind
+214-89,west2369,http://concepticon.clld.org/parameters/723,[æqɑb],behind
+214-943,west2369,http://concepticon.clld.org/parameters/1816,pæhlu,beside
+214-628,west2369,http://concepticon.clld.org/parameters/1816,kenɑr,beside
+214-27,west2369,http://concepticon.clld.org/parameters/1326,paʔin,"down, below"
+214-1075,west2369,http://concepticon.clld.org/parameters/1882,piš,before
+214-1052,west2369,http://concepticon.clld.org/parameters/1882,ǰelow,before
+214-1052,west2369,http://concepticon.clld.org/parameters/1019,ǰelow,front
+214-921,west2369,http://concepticon.clld.org/parameters/1606,dær,"inside, in"
+214-125,west2369,http://concepticon.clld.org/parameters/1606,dærun,"inside, in"
+214-163,west2369,http://concepticon.clld.org/parameters/1606,ændær,"inside, in"
+214-153,west2369,http://concepticon.clld.org/parameters/762,birun,outside
+214-1121,west2369,http://concepticon.clld.org/parameters/1485,zir,under
+214-315,west2369,http://concepticon.clld.org/parameters/1591,bɑlɑ,"up, above"
+214-1229,west2369,http://concepticon.clld.org/parameters/723,ǰɑ,place
+214-190,west2369,http://concepticon.clld.org/parameters/998,gozɑštæn/ gozɑr-,put
+214-640,west2369,http://concepticon.clld.org/parameters/1416,nešæstæn/ nešin,sit
+214-695,west2369,http://concepticon.clld.org/parameters/215,dærɑz-kæšidæn,lie down
+214-1227,west2369,http://concepticon.clld.org/parameters/215,xɑbidæn,lie down
+214-1319,west2369,http://concepticon.clld.org/parameters/1442,istɑdæn,stand
+214-2,west2369,http://concepticon.clld.org/parameters/1442,xɑstæn/ xiz-,stand
+214-679,west2369,http://concepticon.clld.org/parameters/987,mɑndæn,"remain, stay"
+214-225,west2369,http://concepticon.clld.org/parameters/838,bɑz-mɑnde,"remains, left overs"
+214-968,west2369,http://concepticon.clld.org/parameters/838,[bɑqiye],"remains, left overs"
+214-761,west2369,http://concepticon.clld.org/parameters/7,čidænčin-,"collect, gather"
+214-725,west2369,http://concepticon.clld.org/parameters/7,[ǰæmʔ]-kærdæn,"collect, gather"
+214-79,west2369,http://concepticon.clld.org/parameters/371,bær dɑštæn,pick up
+214-258,west2369,http://concepticon.clld.org/parameters/1743,peyvæstæn/ peyvænd-,"join, unite"
+214-1132,west2369,http://concepticon.clld.org/parameters/1359,ǰodɑ-kærdæn,separate
+214-1037,west2369,http://concepticon.clld.org/parameters/1156,bɑz-kærdæn,open
+214-1141,west2369,http://concepticon.clld.org/parameters/1046,bæstæn/ bænd-,"shut, close"
+214-53,west2369,http://concepticon.clld.org/parameters/761,pušidæn,cover
+214-92,west2369,http://concepticon.clld.org/parameters/602,penhɑn-kærdæn,"hide, conceal"
+214-231,west2369,http://concepticon.clld.org/parameters/1265,bolænd,high
+214-312,west2369,http://concepticon.clld.org/parameters/721,pæst,low
+214-1175,west2369,http://concepticon.clld.org/parameters/1753,sær,top
+214-1273,west2369,http://concepticon.clld.org/parameters/690,tæh,bottom
+214-122,west2369,http://concepticon.clld.org/parameters/690,pɑʔin,bottom
+214-597,west2369,http://concepticon.clld.org/parameters/742,pɑyɑn,end
+214-206,west2369,http://concepticon.clld.org/parameters/372,nuk,pointed
+214-1175,west2369,http://concepticon.clld.org/parameters/372,sær,pointed
+214-1305,west2369,http://concepticon.clld.org/parameters/863,læbe,edge
+214-628,west2369,http://concepticon.clld.org/parameters/863,kenɑr,edge
+214-578,west2369,http://concepticon.clld.org/parameters/682,[tæræf],side
+214-628,west2369,http://concepticon.clld.org/parameters/682,kenɑr,side
+214-1219,west2369,http://concepticon.clld.org/parameters/1093,[væsæt],"middle, center"
+214-408,west2369,http://concepticon.clld.org/parameters/1093,miyɑn,"middle, center"
+214-385,west2369,http://concepticon.clld.org/parameters/1019,rɑst,right (side)
+214-700,west2369,http://concepticon.clld.org/parameters/244,čæp,left (side)
+214-877,west2369,http://concepticon.clld.org/parameters/1942,næzdik,near (adv)
+214-958,west2369,http://concepticon.clld.org/parameters/1406,dur,far (adv)
+214-445,west2369,http://concepticon.clld.org/parameters/1877,[mæšreq],east
+214-730,west2369,http://concepticon.clld.org/parameters/1877,xɑvær,east
+214-1327,west2369,http://concepticon.clld.org/parameters/1817,[mæqreb],west
+214-1247,west2369,http://concepticon.clld.org/parameters/1817,bɑxtær,west
+214-358,west2369,http://concepticon.clld.org/parameters/1598,[šomɑl] ~ šæmɑl,north
+214-925,west2369,http://concepticon.clld.org/parameters/1595,[ǰonub],south
+214-112,west2369,http://concepticon.clld.org/parameters/479,rostæn/ ru-,grow
+214-918,west2369,http://concepticon.clld.org/parameters/1506,mizɑn-,measure
+214-486,west2369,http://concepticon.clld.org/parameters/1506,ændɑze-gereftæn,measure
+214-564,west2369,http://concepticon.clld.org/parameters/1202,bozorg,"large, big"
+214-451,west2369,http://concepticon.clld.org/parameters/1246,xord,"small, little"
+214-1370,west2369,http://concepticon.clld.org/parameters/1246,[kučik],"small, little"
+214-636,west2369,http://concepticon.clld.org/parameters/1203,derɑz ~ dærɑz,long
+214-260,west2369,http://concepticon.clld.org/parameters/711,bolænd(qædd),tall
+214-731,west2369,http://concepticon.clld.org/parameters/1645,kutɑh(qædd),short
+214-1023,west2369,http://concepticon.clld.org/parameters/1243,pæhn,"wide, broad"
+214-644,west2369,http://concepticon.clld.org/parameters/1267,tæng,narrow
+214-715,west2369,http://concepticon.clld.org/parameters/1267,bɑrik,narrow
+214-316,west2369,http://concepticon.clld.org/parameters/1244,koloft,thick (in dimension)
+214-776,west2369,http://concepticon.clld.org/parameters/1244,dorošt,thick (in dimension)
+214-9,west2369,http://concepticon.clld.org/parameters/1400,lɑqer,thin (in dimension)
+214-1058,west2369,http://concepticon.clld.org/parameters/1593,žærf,deep
+214-1152,west2369,http://concepticon.clld.org/parameters/1633,hæmvɑr,flat
+214-385,west2369,http://concepticon.clld.org/parameters/1404,rɑst,straight
+214-1,west2369,http://concepticon.clld.org/parameters/297,kæǰ,crooked
+214-149,west2369,http://concepticon.clld.org/parameters/1071,qollɑb,hook
+214-556,west2369,http://concepticon.clld.org/parameters/192,guše,corner
+214-433,west2369,http://concepticon.clld.org/parameters/1367,[sælib],cross
+214-240,west2369,http://concepticon.clld.org/parameters/850,čæhɑr-guše,square
+214-1122,west2369,http://concepticon.clld.org/parameters/1395,gerd,round
+214-436,west2369,http://concepticon.clld.org/parameters/1467,[dɑyere],circle
+214-1278,west2369,http://concepticon.clld.org/parameters/1845,gærdun,"sphere, ball"
+214-552,west2369,http://concepticon.clld.org/parameters/1048,[xætt],line
+214-39,west2369,http://concepticon.clld.org/parameters/1667,surɑx,hole
+214-1333,west2369,http://concepticon.clld.org/parameters/1558,mɑnænd,"like, similar"
+214-270,west2369,http://concepticon.clld.org/parameters/1558,[mesl],"like, similar"
+214-1299,west2369,http://concepticon.clld.org/parameters/1264,degɑrgun-/ [ævæz]-kærdæn,change
+214-686,west2369,http://concepticon.clld.org/parameters/1294,[sefr],"zero, nothing"
+214-886,west2369,http://concepticon.clld.org/parameters/1294,hič,"zero, nothing"
+214-1113,west2369,http://concepticon.clld.org/parameters/1515,yæk ~ yek,one
+214-187,west2369,http://concepticon.clld.org/parameters/1498,do,two
+214-458,west2369,http://concepticon.clld.org/parameters/492,se,three
+214-1285,west2369,http://concepticon.clld.org/parameters/1500,čæhɑr,four
+214-1189,west2369,http://concepticon.clld.org/parameters/493,pænǰ,five
+214-1137,west2369,http://concepticon.clld.org/parameters/1703,šeš ~ šiš,six
+214-759,west2369,http://concepticon.clld.org/parameters/1704,hæft,seven
+214-1262,west2369,http://concepticon.clld.org/parameters/1705,hæšt,eight
+214-472,west2369,http://concepticon.clld.org/parameters/1483,noh,nine
+214-926,west2369,http://concepticon.clld.org/parameters/1515,dæh,ten
+214-1407,west2369,http://concepticon.clld.org/parameters/1706,yɑzdæh,eleven
+214-1272,west2369,http://concepticon.clld.org/parameters/1707,dævɑzdæh,twelve
+214-251,west2369,http://concepticon.clld.org/parameters/1709,pɑnzdæh,fifteen
+214-1034,west2369,http://concepticon.clld.org/parameters/1710,bist,twenty
+214-1178,west2369,http://concepticon.clld.org/parameters/1634,sæd,hundred
+214-138,west2369,http://concepticon.clld.org/parameters/1843,hezɑr,thousand
+214-1316,west2369,http://concepticon.clld.org/parameters/1420,šomordæn/ šomɑr-,count
+214-1249,west2369,http://concepticon.clld.org/parameters/1420,[hesɑb]-kærdæn,count
+214-864,west2369,http://concepticon.clld.org/parameters/98,hær,"every, all"
+214-287,west2369,http://concepticon.clld.org/parameters/98,hæme,"every, all"
+214-309,west2369,http://concepticon.clld.org/parameters/1198,[ziyɑd],"much, many"
+214-367,west2369,http://concepticon.clld.org/parameters/1198,besyɑr,"much, many"
+214-969,west2369,http://concepticon.clld.org/parameters/1992,biš,more
+214-518,west2369,http://concepticon.clld.org/parameters/1992,bištær,more
+214-161,west2369,http://concepticon.clld.org/parameters/1242,ændæk,"little (quantity), few"
+214-439,west2369,http://concepticon.clld.org/parameters/1242,kæm,"little (quantity), few"
+214-829,west2369,http://concepticon.clld.org/parameters/1881,bæs,enough
+214-286,west2369,http://concepticon.clld.org/parameters/1241,čænd,some
+214-1211,west2369,http://concepticon.clld.org/parameters/1241,čændin,some
+214-619,west2369,http://concepticon.clld.org/parameters/2023,[ǰæmʔiyæt],"multitude, crowd"
+214-590,west2369,http://concepticon.clld.org/parameters/1429,por,full
+214-155,west2369,http://concepticon.clld.org/parameters/1624,[xɑli],empty
+214-427,west2369,http://concepticon.clld.org/parameters/779,tekke,"part, piece"
+214-1090,west2369,http://concepticon.clld.org/parameters/779,[qetʔe],"part, piece"
+214-1216,west2369,http://concepticon.clld.org/parameters/779,pɑrče,"part, piece"
+214-1179,west2369,http://concepticon.clld.org/parameters/816,[nesf],half
+214-263,west2369,http://concepticon.clld.org/parameters/816,nim,half
+214-283,west2369,http://concepticon.clld.org/parameters/1580,tænhɑ,"alone, only"
+214-933,west2369,http://concepticon.clld.org/parameters/1580,tæk,"alone, only"
+214-262,west2369,http://concepticon.clld.org/parameters/728,[ævvæl],first
+214-94,west2369,http://concepticon.clld.org/parameters/728,næxost,first
+214-275,west2369,http://concepticon.clld.org/parameters/1529,[ɑxær],last
+214-86,west2369,http://concepticon.clld.org/parameters/1384,dovom ~ duyom,second
+214-583,west2369,http://concepticon.clld.org/parameters/1888,ǰoft,pair
+214-162,west2369,http://concepticon.clld.org/parameters/1546,do-[dæfʔe/ -mærtæbe],two times
+214-1040,west2369,http://concepticon.clld.org/parameters/1859,sevvom,third
+214-389,west2369,http://concepticon.clld.org/parameters/417,se-dæfʔe/ -mærtæbe,three times
+214-335,west2369,http://concepticon.clld.org/parameters/892,væqt],time
+214-604,west2369,http://concepticon.clld.org/parameters/892,zæmɑn,time
+214-1099,west2369,http://concepticon.clld.org/parameters/1789,[senn],age
+214-838,west2369,http://concepticon.clld.org/parameters/1231,[ǰædid],new
+214-474,west2369,http://concepticon.clld.org/parameters/1231,now,new
+214-1203,west2369,http://concepticon.clld.org/parameters/1231,tɑze,new
+214-769,west2369,http://concepticon.clld.org/parameters/1207,ǰævɑn,young
+214-1406,west2369,http://concepticon.clld.org/parameters/1229,pir,old
+214-318,west2369,http://concepticon.clld.org/parameters/672,zud,early
+214-384,west2369,http://concepticon.clld.org/parameters/477,dir,late
+214-674,west2369,http://concepticon.clld.org/parameters/1376,[hɑlɑ],now
+214-814,west2369,http://concepticon.clld.org/parameters/1376,æknun,now
+214-1033,west2369,http://concepticon.clld.org/parameters/1376,konun,now
+214-245,west2369,http://concepticon.clld.org/parameters/1963,[fowræn],immediately
+214-1105,west2369,http://concepticon.clld.org/parameters/1963,dar-raw,immediately
+214-318,west2369,http://concepticon.clld.org/parameters/1631,zud,"swift, fast, quick"
+214-1279,west2369,http://concepticon.clld.org/parameters/1631,[særiʔ],"swift, fast, quick"
+214-226,west2369,http://concepticon.clld.org/parameters/1631,tond,"swift, fast, quick"
+214-124,west2369,http://concepticon.clld.org/parameters/701,[yævɑš ~ yɑvɑš],slow
+214-811,west2369,http://concepticon.clld.org/parameters/701,ɑheste,slow
+214-446,west2369,http://concepticon.clld.org/parameters/754,[æǰæle]-kærdæn,"hasten, hurry"
+214-860,west2369,http://concepticon.clld.org/parameters/754,šetɑbidæn,"hasten, hurry"
+214-788,west2369,http://concepticon.clld.org/parameters/425,[tæʔxir],"retard, delay"
+214-195,west2369,http://concepticon.clld.org/parameters/425,šetɑb,"retard, delay"
+214-680,west2369,http://concepticon.clld.org/parameters/1806,ɑqɑz,"begin, beginning"
+214-249,west2369,http://concepticon.clld.org/parameters/1806,[šoru]-kærdæn,"begin, beginning"
+214-388,west2369,http://concepticon.clld.org/parameters/1186,[dævɑm]-kærdæn,"last, endure"
+214-597,west2369,http://concepticon.clld.org/parameters/743,pɑyɑn,end (temporal)
+214-150,west2369,http://concepticon.clld.org/parameters/1766,[tæmɑm]-kærdæn,finish
+214-873,west2369,http://concepticon.clld.org/parameters/1766,be-pɑyɑn resɑndæn,finish
+214-250,west2369,http://concepticon.clld.org/parameters/790,[hɑzer],ready
+214-169,west2369,http://concepticon.clld.org/parameters/790,ɑmɑde,ready
+214-854,west2369,http://concepticon.clld.org/parameters/790,[tæyyar],ready
+214-108,west2369,http://concepticon.clld.org/parameters/1676,hæmiše,always
+214-872,west2369,http://concepticon.clld.org/parameters/1852,bɑrhɑ,often
+214-295,west2369,http://concepticon.clld.org/parameters/1544,gɑhi,sometimes
+214-442,west2369,http://concepticon.clld.org/parameters/703,be-zudi,soon
+214-339,west2369,http://concepticon.clld.org/parameters/418,der-bɑz,long-time (for a)
+214-111,west2369,http://concepticon.clld.org/parameters/1656,hičvæqt,never
+214-291,west2369,http://concepticon.clld.org/parameters/1656,hærgez,never
+214-942,west2369,http://concepticon.clld.org/parameters/204,dobɑre,again
+214-1027,west2369,http://concepticon.clld.org/parameters/1260,ruz,day
+214-787,west2369,http://concepticon.clld.org/parameters/1233,šæb,night
+214-132,west2369,http://concepticon.clld.org/parameters/729,[toluʔ],dawn
+214-1225,west2369,http://concepticon.clld.org/parameters/1339,[sobh],morning
+214-722,west2369,http://concepticon.clld.org/parameters/12,[zohr],"noon, midday"
+214-355,west2369,http://concepticon.clld.org/parameters/1807,[æsr],afternoon
+214-787,west2369,http://concepticon.clld.org/parameters/1629,šæb,evening
+214-625,west2369,http://concepticon.clld.org/parameters/1629,šɑm,evening
+214-835,west2369,http://concepticon.clld.org/parameters/1283,emruz,today
+214-44,west2369,http://concepticon.clld.org/parameters/1329,færdɑ,tomorrow
+214-784,west2369,http://concepticon.clld.org/parameters/1329,pægɑh,tomorrow
+214-1048,west2369,http://concepticon.clld.org/parameters/1179,pæsfærdɑ,day-after-tomorrow
+214-572,west2369,http://concepticon.clld.org/parameters/1174,diruz,yesterday
+214-798,west2369,http://concepticon.clld.org/parameters/1180,pæriruz,day-before-yesterday
+214-673,west2369,http://concepticon.clld.org/parameters/1353,[sɑʔæt],hour
+214-673,west2369,http://concepticon.clld.org/parameters/1323,[sɑʔæt],"clock, timepiece"
+214-862,west2369,http://concepticon.clld.org/parameters/1469,hæfte,week
+214-1398,west2369,http://concepticon.clld.org/parameters/1699,yek-šæmbe,Sunday
+214-279,west2369,http://concepticon.clld.org/parameters/1697,do-šæmbe,Monday
+214-294,west2369,http://concepticon.clld.org/parameters/1695,se-šæmbe,Tuesday
+214-1332,west2369,http://concepticon.clld.org/parameters/1694,čæhɑr-šæmbe,Wednesday
+214-191,west2369,http://concepticon.clld.org/parameters/1693,pænǰ-šæmbe,Thursday
+214-717,west2369,http://concepticon.clld.org/parameters/1692,[ǰomʔe],Friday
+214-147,west2369,http://concepticon.clld.org/parameters/1692,ɑdine,Friday
+214-1361,west2369,http://concepticon.clld.org/parameters/1700,šæmbe,Saturday
+214-545,west2369,http://concepticon.clld.org/parameters/1370,mɑh,month
+214-235,west2369,http://concepticon.clld.org/parameters/1226,sɑl,year
+214-607,west2369,http://concepticon.clld.org/parameters/1471,zemestɑn,winter
+214-1050,west2369,http://concepticon.clld.org/parameters/1537,bæhɑr,spring
+214-4,west2369,http://concepticon.clld.org/parameters/1342,tɑbestɑn,summer
+214-127,west2369,http://concepticon.clld.org/parameters/1276,pɑʔiz,autumn
+214-766,west2369,http://concepticon.clld.org/parameters/691,[fæsl],season
+214-667,west2369,http://concepticon.clld.org/parameters/1587,bu-dɑdæn,smell (vb intrans)
+214-1116,west2369,http://concepticon.clld.org/parameters/1586,bu-kærdæn,smell (vb trans)
+214-810,west2369,http://concepticon.clld.org/parameters/376,xoš-bu,"fragrant, good smelling"
+214-21,west2369,http://concepticon.clld.org/parameters/42,bæd-bu,"stinking, bad smelling"
+214-504,west2369,http://concepticon.clld.org/parameters/42,gænde,"stinking, bad smelling"
+214-1326,west2369,http://concepticon.clld.org/parameters/21,čæšidæn,taste
+214-1260,west2369,http://concepticon.clld.org/parameters/717,širin,sweet
+214-100,west2369,http://concepticon.clld.org/parameters/1091,šur,salty
+214-833,west2369,http://concepticon.clld.org/parameters/887,tælx,bitter
+214-718,west2369,http://concepticon.clld.org/parameters/1906,torš,"acid, sour"
+214-100,west2369,http://concepticon.clld.org/parameters/70,šur,brackish
+214-910,west2369,http://concepticon.clld.org/parameters/1408,šenidæn/ šenæv-,hear
+214-1248,west2369,http://concepticon.clld.org/parameters/1608,guš-dɑdæn/-kærdæn,listen
+214-989,west2369,http://concepticon.clld.org/parameters/1811,[sædɑ],"sound, noise"
+214-426,west2369,http://concepticon.clld.org/parameters/1811,bɑng,"sound, noise"
+214-231,west2369,http://concepticon.clld.org/parameters/377,bolænd,loud
+214-59,west2369,http://concepticon.clld.org/parameters/1314,[xælvæt],"quiet, silence"
+214-1032,west2369,http://concepticon.clld.org/parameters/1409,didæn/ bin-,see
+214-1378,west2369,http://concepticon.clld.org/parameters/1819,negɑh-kærdæn,"look, look at"
+214-1287,west2369,http://concepticon.clld.org/parameters/1039,nešɑn-dɑdæn,show
+214-1349,west2369,http://concepticon.clld.org/parameters/708,dæræxšidæn,shine
+214-507,west2369,http://concepticon.clld.org/parameters/679,rowšæn,bright
+214-891,west2369,http://concepticon.clld.org/parameters/1613,ræng,color
+214-507,west2369,http://concepticon.clld.org/parameters/250,rowšæn,light (in color)
+214-441,west2369,http://concepticon.clld.org/parameters/706,tɑrik,dark (in color)
+214-714,west2369,http://concepticon.clld.org/parameters/1335,sæfid ~ sefid,white
+214-754,west2369,http://concepticon.clld.org/parameters/163,siyɑh,black
+214-1077,west2369,http://concepticon.clld.org/parameters/156,sorx,red
+214-119,west2369,http://concepticon.clld.org/parameters/156,qermez,red
+214-884,west2369,http://concepticon.clld.org/parameters/837,ɑbi,blue
+214-209,west2369,http://concepticon.clld.org/parameters/1425,sæbz,green
+214-1325,west2369,http://concepticon.clld.org/parameters/1424,zærd,yellow
+214-1008,west2369,http://concepticon.clld.org/parameters/1892,dæst-kærdæn,touch
+214-207,west2369,http://concepticon.clld.org/parameters/1079,[hess]-kærdæn,feel
+214-288,west2369,http://concepticon.clld.org/parameters/1884,seft,hard
+214-888,west2369,http://concepticon.clld.org/parameters/1856,nærm,soft
+214-776,west2369,http://concepticon.clld.org/parameters/1923,dorošt,rough
+214-1152,west2369,http://concepticon.clld.org/parameters/1234,hæmvɑr,smooth
+214-346,west2369,http://concepticon.clld.org/parameters/1396,tiz,sharp
+214-461,west2369,http://concepticon.clld.org/parameters/379,kond,"blunt, dull"
+214-1057,west2369,http://concepticon.clld.org/parameters/1210,sængin,heavy
+214-1377,west2369,http://concepticon.clld.org/parameters/1052,sæbok,light (in weight)
+214-940,west2369,http://concepticon.clld.org/parameters/1726,tær,"wet, damp"
+214-390,west2369,http://concepticon.clld.org/parameters/1398,xošk,dry
+214-576,west2369,http://concepticon.clld.org/parameters/1286,dɑq,hot
+214-912,west2369,http://concepticon.clld.org/parameters/1232,gærm,warm
+214-217,west2369,http://concepticon.clld.org/parameters/1287,særd,cold
+214-329,west2369,http://concepticon.clld.org/parameters/704,pɑk,clean
+214-899,west2369,http://concepticon.clld.org/parameters/704,[tæmiz],clean
+214-1356,west2369,http://concepticon.clld.org/parameters/1230,[kæsif],"dirty, soiled"
+214-558,west2369,http://concepticon.clld.org/parameters/53,[ruh],"soul, spirit"
+214-598,west2369,http://concepticon.clld.org/parameters/53,[næfs],"soul, spirit"
+214-920,west2369,http://concepticon.clld.org/parameters/53,ǰɑn,"soul, spirit"
+214-99,west2369,http://concepticon.clld.org/parameters/1572,[tæʔæǰǰob],"surprised, astonished"
+214-1071,west2369,http://concepticon.clld.org/parameters/1572,xire,"surprised, astonished"
+214-515,west2369,http://concepticon.clld.org/parameters/720,nikbæxti,"good fortune, luck"
+214-1290,west2369,http://concepticon.clld.org/parameters/56,bædbæxti,"misfortune, bad luck"
+214-595,west2369,http://concepticon.clld.org/parameters/1495,šɑdmɑn,"joyful, glad, happy"
+214-255,west2369,http://concepticon.clld.org/parameters/1355,xændidæn,laugh
+214-405,west2369,http://concepticon.clld.org/parameters/1451,[tæbæssom]-kærdæn,smile
+214-447,west2369,http://concepticon.clld.org/parameters/1413,bɑzi-kærdæn,play
+214-1281,west2369,http://concepticon.clld.org/parameters/923,[ešq],love
+214-1047,west2369,http://concepticon.clld.org/parameters/923,dust-dɑštæn,love
+214-143,west2369,http://concepticon.clld.org/parameters/578,busidæn,kiss
+214-1010,west2369,http://concepticon.clld.org/parameters/928,ɑquš,embrace
+214-1400,west2369,http://concepticon.clld.org/parameters/928,dær-ɑquš-gereftæn,embrace
+214-110,west2369,http://concepticon.clld.org/parameters/1783,dærd,pain
+214-1352,west2369,http://concepticon.clld.org/parameters/1668,qæm,"grief, sorrow, sadness"
+214-1244,west2369,http://concepticon.clld.org/parameters/1668,ænduh,"grief, sorrow, sadness"
+214-221,west2369,http://concepticon.clld.org/parameters/1000,negærani,"anxiety, worry"
+214-1244,west2369,http://concepticon.clld.org/parameters/1875,ænduh,"regret, be sorry"
+214-151,west2369,http://concepticon.clld.org/parameters/1875,[tæʔæssof]-xordæn,"regret, be sorry"
+214-708,west2369,http://concepticon.clld.org/parameters/1875,pæšimɑn-šodæn,"regret, be sorry"
+214-804,west2369,http://concepticon.clld.org/parameters/1141,[ræhm],pity
+214-983,west2369,http://concepticon.clld.org/parameters/1839,gerye-kærdæn,"cry, weep"
+214-661,west2369,http://concepticon.clld.org/parameters/1651,æšk,tear (noun)
+214-511,west2369,http://concepticon.clld.org/parameters/716,nɑle-kærdæn,groan
+214-537,west2369,http://concepticon.clld.org/parameters/1607,[tænæffor],hate
+214-1201,west2369,http://concepticon.clld.org/parameters/82,[xæšm],anger
+214-1414,west2369,http://concepticon.clld.org/parameters/40,[hæsæd],"envy, jealousy"
+214-1128,west2369,http://concepticon.clld.org/parameters/1776,šærm,shame (noun)
+214-831,west2369,http://concepticon.clld.org/parameters/174,[mæqrur],proud
+214-340,west2369,http://concepticon.clld.org/parameters/1779,[ǰorʔæt]-dɑštæn,dare
+214-34,west2369,http://concepticon.clld.org/parameters/3,dælir,brave
+214-861,west2369,http://concepticon.clld.org/parameters/781,tærs,"fear, fright"
+214-1001,west2369,http://concepticon.clld.org/parameters/781,bim,"fear, fright"
+214-18,west2369,http://concepticon.clld.org/parameters/1810,[xætær],danger
+214-1313,west2369,http://concepticon.clld.org/parameters/1784,xɑstæn,"desire, want"
+214-664,west2369,http://concepticon.clld.org/parameters/1784,ɑrzu dɑštæn,"desire, want"
+214-25,west2369,http://concepticon.clld.org/parameters/1750,gozidæn/ gozin-,choose
+214-844,west2369,http://concepticon.clld.org/parameters/1092,omid,hope
+214-741,west2369,http://concepticon.clld.org/parameters/100,[væfɑdɑr],faithful
+214-385,west2369,http://concepticon.clld.org/parameters/1657,rɑst,true
+214-947,west2369,http://concepticon.clld.org/parameters/1657,[hæqiqi],true
+214-962,west2369,http://concepticon.clld.org/parameters/601,doruq (-goftæn),"lie, tell lies"
+214-1236,west2369,http://concepticon.clld.org/parameters/13,[tæqællob],deceit
+214-500,west2369,http://concepticon.clld.org/parameters/13,færib,deceit
+214-1310,west2369,http://concepticon.clld.org/parameters/1528,bæxšidæn,forgive
+214-794,west2369,http://concepticon.clld.org/parameters/1035,xub,good
+214-826,west2369,http://concepticon.clld.org/parameters/1292,bæd,bad
+214-681,west2369,http://concepticon.clld.org/parameters/1725,dorost,"right, correct"
+214-1170,west2369,http://concepticon.clld.org/parameters/1390,nɑ-dorost,wrong
+214-140,west2369,http://concepticon.clld.org/parameters/1390,[qælæt],wrong
+214-352,west2369,http://concepticon.clld.org/parameters/134,[eyb],fault
+214-875,west2369,http://concepticon.clld.org/parameters/134,[tæqsir],fault
+214-734,west2369,http://concepticon.clld.org/parameters/1293,[eštebɑh],"mistake, error"
+214-671,west2369,http://concepticon.clld.org/parameters/381,[mælɑmæt],blame
+214-142,west2369,http://concepticon.clld.org/parameters/1687,[mædh],praise
+214-824,west2369,http://concepticon.clld.org/parameters/1427,qæšæng,beautiful
+214-234,west2369,http://concepticon.clld.org/parameters/1427,zibɑ,beautiful
+214-544,west2369,http://concepticon.clld.org/parameters/1548,zešt,ugly
+214-345,west2369,http://concepticon.clld.org/parameters/2018,por-xur,greedy
+214-298,west2369,http://concepticon.clld.org/parameters/1310,zeræng,clever
+214-292,west2369,http://concepticon.clld.org/parameters/1310,ziræk,clever
+214-85,west2369,http://concepticon.clld.org/parameters/1562,[æql],mind
+214-1158,west2369,http://concepticon.clld.org/parameters/1415,segɑlidæn,think (= reflect)
+214-866,west2369,http://concepticon.clld.org/parameters/1513,ændišidæn,think (= be of the opinion)
+214-747,west2369,http://concepticon.clld.org/parameters/1513,pendɑštæn,think (= be of the opinion)
+214-610,west2369,http://concepticon.clld.org/parameters/1890,bɑvær-kærdæn,believe
+214-945,west2369,http://concepticon.clld.org/parameters/1536,[fæhmidæn],understand
+214-848,west2369,http://concepticon.clld.org/parameters/1410,dɑnestæn,know
+214-1267,west2369,http://concepticon.clld.org/parameters/1932,[hæds]-zædæn,guess
+214-1162,west2369,http://concepticon.clld.org/parameters/117,ædɑ-kærdæn,imitate
+214-1246,west2369,http://concepticon.clld.org/parameters/1521,mɑnestæn,seem
+214-1049,west2369,http://concepticon.clld.org/parameters/1521,næmudæn/ næma-,seem
+214-1270,west2369,http://concepticon.clld.org/parameters/1609,[xiɑl],"idea, notion"
+214-237,west2369,http://concepticon.clld.org/parameters/1609,[fekr],"idea, notion"
+214-244,west2369,http://concepticon.clld.org/parameters/698,xerædmænd,wise
+214-1346,west2369,http://concepticon.clld.org/parameters/1518,[æhmæq],"foolish, stupid"
+214-204,west2369,http://concepticon.clld.org/parameters/1899,[mæǰnun],"insane, crazy"
+214-98,west2369,http://concepticon.clld.org/parameters/1899,divɑne,"insane, crazy"
+214-666,west2369,http://concepticon.clld.org/parameters/504,yɑd-gereftæn,learn
+214-243,west2369,http://concepticon.clld.org/parameters/1929,[tæhsil]-kærdæn,study
+214-278,west2369,http://concepticon.clld.org/parameters/709,yɑd-dɑdæn,teach
+214-457,west2369,http://concepticon.clld.org/parameters/753,dɑneš-amuz,pupil
+214-924,west2369,http://concepticon.clld.org/parameters/1038,[moʔællem],teacher
+214-220,west2369,http://concepticon.clld.org/parameters/1038,ostɑd,teacher
+214-883,west2369,http://concepticon.clld.org/parameters/673,[mædræse],school
+214-1365,west2369,http://concepticon.clld.org/parameters/707,yɑd-dɑštæn,remember
+214-331,west2369,http://concepticon.clld.org/parameters/1523,færamuš-kærdæn,forget
+214-314,west2369,http://concepticon.clld.org/parameters/989,[vɑzeh],"clear, plain"
+214-847,west2369,http://concepticon.clld.org/parameters/1764,tɑr,obscure
+214-1169,west2369,http://concepticon.clld.org/parameters/1121,[mæxfi],secret
+214-475,west2369,http://concepticon.clld.org/parameters/1121,[serri],secret
+214-845,west2369,http://concepticon.clld.org/parameters/1121,penhɑn,secret
+214-665,west2369,http://concepticon.clld.org/parameters/509,[yæqin],"sure, certain"
+214-5,west2369,http://concepticon.clld.org/parameters/509,[mosællæm],"sure, certain"
+214-1304,west2369,http://concepticon.clld.org/parameters/1626,[bæyɑn]-kærdæn,explain
+214-1336,west2369,http://concepticon.clld.org/parameters/1162,[mæqsud],"intention, purpose"
+214-898,west2369,http://concepticon.clld.org/parameters/860,[sæbæb],cause
+214-1136,west2369,http://concepticon.clld.org/parameters/860,[ellæt],cause
+214-45,west2369,http://concepticon.clld.org/parameters/1308,[šobhe],doubt
+214-1282,west2369,http://concepticon.clld.org/parameters/1308,[šækk],doubt
+214-1083,west2369,http://concepticon.clld.org/parameters/1841,[sue-zænn] dɑštæn,suspect
+214-430,west2369,http://concepticon.clld.org/parameters/1902,[xiyɑnæt]-kærdæn,betray
+214-1084,west2369,http://concepticon.clld.org/parameters/643,[lozum],"need, necessity"
+214-902,west2369,http://concepticon.clld.org/parameters/643,[hɑǰæt],"need, necessity"
+214-1386,west2369,http://concepticon.clld.org/parameters/643,niyɑz,"need, necessity"
+214-1334,west2369,http://concepticon.clld.org/parameters/643,niyɑzmændi,"need, necessity"
+214-823,west2369,http://concepticon.clld.org/parameters/686,ɑsɑn,easy
+214-480,west2369,http://concepticon.clld.org/parameters/584,sæxt,difficult
+214-51,west2369,http://concepticon.clld.org/parameters/584,[moškel],difficult
+214-307,west2369,http://concepticon.clld.org/parameters/1812,ɑzmudæn,"try, attempt"
+214-96,west2369,http://concepticon.clld.org/parameters/488,[towr],"way, manner"
+214-639,west2369,http://concepticon.clld.org/parameters/488,[tærz],"way, manner"
+214-1291,west2369,http://concepticon.clld.org/parameters/1577,væ,and
+214-723,west2369,http://concepticon.clld.org/parameters/1577,-o,and
+214-1220,west2369,http://concepticon.clld.org/parameters/1157,æz-inke,because
+214-351,west2369,http://concepticon.clld.org/parameters/1157,be[ʔellæt]ike,because
+214-976,west2369,http://concepticon.clld.org/parameters/1459,ægær,if
+214-737,west2369,http://concepticon.clld.org/parameters/1014,yɑ,or
+214-227,west2369,http://concepticon.clld.org/parameters/1014,væyɑ,or
+214-224,west2369,http://concepticon.clld.org/parameters/1268,bɑle,"yes, affirmative"
+214-713,west2369,http://concepticon.clld.org/parameters/1268,ɑre,"yes, affirmative"
+214-1412,west2369,http://concepticon.clld.org/parameters/1268,hæ,"yes, affirmative"
+214-330,west2369,http://concepticon.clld.org/parameters/1269,næ,"no, negative"
+214-999,west2369,http://concepticon.clld.org/parameters/1269,næ[xeyr],"no, negative"
+214-160,west2369,http://concepticon.clld.org/parameters/1269,nē,"no, negative"
+214-939,west2369,http://concepticon.clld.org/parameters/1239,če[towr]? če[ǰur]?,how?
+214-613,west2369,http://concepticon.clld.org/parameters/822,čænd-tɑ?,how many?
+214-853,west2369,http://concepticon.clld.org/parameters/531,čænd? čeqædr?,how much?
+214-356,west2369,http://concepticon.clld.org/parameters/1236,če? či?,what?
+214-233,west2369,http://concepticon.clld.org/parameters/1238,key? če[væqt]?,when?
+214-387,west2369,http://concepticon.clld.org/parameters/1237,koǰɑ?,where?
+214-1258,west2369,http://concepticon.clld.org/parameters/727,kodɑm? kædɑm,which?
+214-956,west2369,http://concepticon.clld.org/parameters/1235,ki? če kæsi?,who?
+214-1302,west2369,http://concepticon.clld.org/parameters/1270,čerɑ? bærɑye-či?,why?
+214-197,west2369,http://concepticon.clld.org/parameters/1363,ɑvɑz,voice
+214-989,west2369,http://concepticon.clld.org/parameters/1363,[sædɑ],voice
+214-907,west2369,http://concepticon.clld.org/parameters/1261,ɑvɑz-xɑndæn,sing
+214-1286,west2369,http://concepticon.clld.org/parameters/715,færyɑd-kæšidæn/ -zædæn,"shout, cry out"
+214-423,west2369,http://concepticon.clld.org/parameters/55,[næǰvɑ]-kærdæn,whisper
+214-484,west2369,http://concepticon.clld.org/parameters/128,qor-qor-kærdæn,mumble
+214-724,west2369,http://concepticon.clld.org/parameters/128,šer-šer-kærdæn,mumble
+214-904,west2369,http://concepticon.clld.org/parameters/1025,sut-zædæn,whistle
+214-1061,west2369,http://concepticon.clld.org/parameters/298,ǰiq-zædæn,"shriek, screech"
+214-267,west2369,http://concepticon.clld.org/parameters/298,færyɑd kæšidæn,"shriek, screech"
+214-212,west2369,http://concepticon.clld.org/parameters/1623,[hærf]-zædæn,"speak, talk"
+214-520,west2369,http://concepticon.clld.org/parameters/1866,loknæt(-dɑštæn),"stutter, stammer"
+214-808,west2369,http://concepticon.clld.org/parameters/1458,goftæn,say
+214-274,west2369,http://concepticon.clld.org/parameters/1711,qesse-goftæn,tell story
+214-1028,west2369,http://concepticon.clld.org/parameters/1115,soxænrɑni-dadæn,speech (make a)
+214-178,west2369,http://concepticon.clld.org/parameters/48,xɑmuš,silent (be)
+214-531,west2369,http://concepticon.clld.org/parameters/48,[sɑket],silent (be)
+214-1102,west2369,http://concepticon.clld.org/parameters/1307,zæbɑn,language
+214-183,west2369,http://concepticon.clld.org/parameters/1599,[kæleme],word
+214-908,west2369,http://concepticon.clld.org/parameters/1599,læfz,word
+214-960,west2369,http://concepticon.clld.org/parameters/1599,vɑže,word
+214-633,west2369,http://concepticon.clld.org/parameters/1405,nɑm,name
+214-412,west2369,http://concepticon.clld.org/parameters/1405,[esm],name
+214-903,west2369,http://concepticon.clld.org/parameters/1309,soʔɑl-kærdæn,"ask (question, inquire)"
+214-1207,west2369,http://concepticon.clld.org/parameters/1309,porsidæn,"ask (question, inquire)"
+214-322,west2369,http://concepticon.clld.org/parameters/1275,[ǰævɑb]-dɑdæn,answer
+214-816,west2369,http://concepticon.clld.org/parameters/1275,pɑsox-dɑdæn,answer
+214-1351,west2369,http://concepticon.clld.org/parameters/2022,[eʔterɑf]-kærdæn,"admit, confess"
+214-702,west2369,http://concepticon.clld.org/parameters/755,[enkɑr]-kærdæn,deny
+214-1280,west2369,http://concepticon.clld.org/parameters/1828,dærxɑst-kærdæn,"ask, request"
+214-38,west2369,http://concepticon.clld.org/parameters/1675,[qowl]-dɑdæn,promise
+214-812,west2369,http://concepticon.clld.org/parameters/1675,[væʔde]-dɑdæn,promise
+214-560,west2369,http://concepticon.clld.org/parameters/49,[rædd]-kærdæn,refuse
+214-1234,west2369,http://concepticon.clld.org/parameters/83,[mænʔ]-kærdæn,forbid
+214-1337,west2369,http://concepticon.clld.org/parameters/299,særzæneš-kærdæn,"rebuke, scold"
+214-1296,west2369,http://concepticon.clld.org/parameters/1084,[sædɑ]-kærdæn,call (=summon)
+214-146,west2369,http://concepticon.clld.org/parameters/1084,xɑndæn,call (=summon)
+214-359,west2369,http://concepticon.clld.org/parameters/180,nɑmidæn,call (=name)
+214-146,west2369,http://concepticon.clld.org/parameters/180,xɑndæn,call (=name)
+214-1268,west2369,http://concepticon.clld.org/parameters/9,[eʔlɑm]-kærdæn,announce
+214-1254,west2369,http://concepticon.clld.org/parameters/1192,[tæhdid]-kærdæn,threaten
+214-837,west2369,http://concepticon.clld.org/parameters/101,lɑf-zædæn,boast
+214-467,west2369,http://concepticon.clld.org/parameters/1672,neveštæn/ nevis-,write
+214-146,west2369,http://concepticon.clld.org/parameters/724,xɑndæn,read
+214-349,west2369,http://concepticon.clld.org/parameters/648,[kɑqæz],paper
+214-282,west2369,http://concepticon.clld.org/parameters/794,[qælæm],pen
+214-643,west2369,http://concepticon.clld.org/parameters/963,[ketɑb],book
+214-1185,west2369,http://concepticon.clld.org/parameters/1045,[šɑʔer],poet
+214-17,west2369,http://concepticon.clld.org/parameters/1045,soxænvær,poet
+214-1007,west2369,http://concepticon.clld.org/parameters/777,nɑy ~ næy,flute
+214-396,west2369,http://concepticon.clld.org/parameters/908,tombæk,drum
+214-540,west2369,http://concepticon.clld.org/parameters/908,dohol,drum
+214-749,west2369,http://concepticon.clld.org/parameters/2136,sur,"horn, trumpet"
+214-302,west2369,http://concepticon.clld.org/parameters/1300,kešvær,country
+214-1348,west2369,http://concepticon.clld.org/parameters/89,[vætæn],one's native country
+214-1376,west2369,http://concepticon.clld.org/parameters/89,mihæn,one's native country
+214-325,west2369,http://concepticon.clld.org/parameters/1391,šæhr,"city, town"
+214-781,west2369,http://concepticon.clld.org/parameters/930,deh,village
+214-67,west2369,http://concepticon.clld.org/parameters/930,dehkæde,village
+214-201,west2369,http://concepticon.clld.org/parameters/1010,mærz,boundary
+214-901,west2369,http://concepticon.clld.org/parameters/789,mærdom,people (populace)
+214-256,west2369,http://concepticon.clld.org/parameters/302,il,"tribe, clan"
+214-468,west2369,http://concepticon.clld.org/parameters/302,[tɑʔefe],"tribe, clan"
+214-932,west2369,http://concepticon.clld.org/parameters/302,[qæbile],"tribe, clan"
+214-827,west2369,http://concepticon.clld.org/parameters/301,[xɑn],"chief, chieftain"
+214-1347,west2369,http://concepticon.clld.org/parameters/301,riš-sefid,"chief, chieftain"
+214-917,west2369,http://concepticon.clld.org/parameters/301,særdɑr,"chief, chieftain"
+214-1232,west2369,http://concepticon.clld.org/parameters/1846,[hokumæt]-kærdæn,"rule, govern"
+214-627,west2369,http://concepticon.clld.org/parameters/1508,šɑh,"king, ruler"
+214-685,west2369,http://concepticon.clld.org/parameters/1508,[mælek],"king, ruler"
+214-1051,west2369,http://concepticon.clld.org/parameters/1508,pɑdšɑh,"king, ruler"
+214-121,west2369,http://concepticon.clld.org/parameters/1306,[mɑleke],queen
+214-543,west2369,http://concepticon.clld.org/parameters/1306,šɑhbɑnu,queen
+214-1309,west2369,http://concepticon.clld.org/parameters/482,[šærif],"noble, nobleman"
+214-739,west2369,http://concepticon.clld.org/parameters/1032,[ræʔiyæt],"citizen, subject"
+214-26,west2369,http://concepticon.clld.org/parameters/383,[ɑqɑ],master
+214-198,west2369,http://concepticon.clld.org/parameters/383,[sɑheb],master
+214-1067,west2369,http://concepticon.clld.org/parameters/383,[ærbɑb],master
+214-1045,west2369,http://concepticon.clld.org/parameters/812,bænde,slave
+214-1215,west2369,http://concepticon.clld.org/parameters/812,bærde,slave
+214-799,west2369,http://concepticon.clld.org/parameters/255,[nowkær],servant
+214-874,west2369,http://concepticon.clld.org/parameters/255,kæniz,servant
+214-1384,west2369,http://concepticon.clld.org/parameters/255,kænizæk,servant
+214-793,west2369,http://concepticon.clld.org/parameters/384,ɑzɑd,freeman
+214-1353,west2369,http://concepticon.clld.org/parameters/1128,[hokm],"command, order"
+214-645,west2369,http://concepticon.clld.org/parameters/1128,færmɑn,"command, order"
+214-668,west2369,http://concepticon.clld.org/parameters/1635,færmɑn-bærdɑri-kærdæn,obey
+214-561,west2369,http://concepticon.clld.org/parameters/1003,[eǰɑze]-dɑdæn,"let, permit"
+214-1322,west2369,http://concepticon.clld.org/parameters/1325,dust,"friend, companion"
+214-1154,west2369,http://concepticon.clld.org/parameters/1325,[ræfiq],"friend, companion"
+214-1059,west2369,http://concepticon.clld.org/parameters/1358,došmæn,enemy
+214-611,west2369,http://concepticon.clld.org/parameters/1332,hæmsɑye,neighbor
+214-171,west2369,http://concepticon.clld.org/parameters/791,[qærib],stranger
+214-647,west2369,http://concepticon.clld.org/parameters/791,bigɑne,stranger
+214-1224,west2369,http://concepticon.clld.org/parameters/1782,mehmɑn,guest
+214-236,west2369,http://concepticon.clld.org/parameters/1545,mizbɑn,host
+214-738,west2369,http://concepticon.clld.org/parameters/1897,[komæk]-kærdæn,"help, aid"
+214-6,west2369,http://concepticon.clld.org/parameters/1897,yɑri dɑdæn,"help, aid"
+214-1234,west2369,http://concepticon.clld.org/parameters/1550,[mænʔ]-kærdæn,"hinder, prevent"
+214-145,west2369,http://concepticon.clld.org/parameters/1550,ǰelowgiri-kærdæn,"hinder, prevent"
+214-503,west2369,http://concepticon.clld.org/parameters/1747,[ræsm],custom
+214-1385,west2369,http://concepticon.clld.org/parameters/1747,[ɑdæt],custom
+214-1228,west2369,http://concepticon.clld.org/parameters/1747,ɑʔin,custom
+214-857,west2369,http://concepticon.clld.org/parameters/1848,[dæʔvɑ],"strife, quarrel"
+214-1041,west2369,http://concepticon.clld.org/parameters/2024,[towteʔe],"conspiracy, plot"
+214-232,west2369,http://concepticon.clld.org/parameters/1831,[molɑqɑt]-kærdæn,meet
+214-852,west2369,http://concepticon.clld.org/parameters/1831,bær-xordæn,meet
+214-694,west2369,http://concepticon.clld.org/parameters/1610,[fɑheše],prostitute
+214-530,west2369,http://concepticon.clld.org/parameters/1610,ǰende,prostitute
+214-1243,west2369,http://concepticon.clld.org/parameters/1423,ǰæng-kærdæn,fight (vb)
+214-1187,west2369,http://concepticon.clld.org/parameters/579,ǰæng,"war, battle"
+214-616,west2369,http://concepticon.clld.org/parameters/1338,[solh],peace
+214-218,west2369,http://concepticon.clld.org/parameters/1338,ɑšti,peace
+214-1409,west2369,http://concepticon.clld.org/parameters/1561,sepɑh,army
+214-1357,west2369,http://concepticon.clld.org/parameters/1561,ærteš,army
+214-1160,west2369,http://concepticon.clld.org/parameters/1941,særbɑz,soldier
+214-1115,west2369,http://concepticon.clld.org/parameters/951,[æslehe],"weapons, arms"
+214-1358,west2369,http://concepticon.clld.org/parameters/951,[yærɑq],"weapons, arms"
+214-1009,west2369,http://concepticon.clld.org/parameters/1763,čomɑq,club
+214-676,west2369,http://concepticon.clld.org/parameters/386,tæbærzin,battle-ax
+214-729,west2369,http://concepticon.clld.org/parameters/387,fælɑxæn,sling
+214-97,west2369,http://concepticon.clld.org/parameters/994,kæmɑn,bow
+214-638,west2369,http://concepticon.clld.org/parameters/977,tir,arrow
+214-541,west2369,http://concepticon.clld.org/parameters/945,neyze,spear
+214-1253,west2369,http://concepticon.clld.org/parameters/1535,šæmšir,sword
+214-534,west2369,http://concepticon.clld.org/parameters/1566,[tup],"gun, cannon"
+214-327,west2369,http://concepticon.clld.org/parameters/1566,[tofæng],"gun, cannon"
+214-744,west2369,http://concepticon.clld.org/parameters/1061,zere,armor (defensive)
+214-123,west2369,http://concepticon.clld.org/parameters/1680,xud,helmet
+214-69,west2369,http://concepticon.clld.org/parameters/1064,sepær,shield
+214-1405,west2369,http://concepticon.clld.org/parameters/1938,[qælʔe],fortress
+214-600,west2369,http://concepticon.clld.org/parameters/1938,dež,fortress
+214-440,west2369,http://concepticon.clld.org/parameters/1938,ærg,fortress
+214-979,west2369,http://concepticon.clld.org/parameters/783,[fæth],victory
+214-222,west2369,http://concepticon.clld.org/parameters/783,piruzi,victory
+214-334,west2369,http://concepticon.clld.org/parameters/782,šekæst,defeat
+214-353,west2369,http://concepticon.clld.org/parameters/782,[hæzimæt],defeat
+214-992,west2369,http://concepticon.clld.org/parameters/722,[hæmle],attack
+214-1098,west2369,http://concepticon.clld.org/parameters/722,tɑxt(-o tɑz) kærdæn,attack
+214-364,west2369,http://concepticon.clld.org/parameters/1330,[defɑ]-kærdæn,defend
+214-887,west2369,http://concepticon.clld.org/parameters/421,[æqæb]nešini,retreat
+214-617,west2369,http://concepticon.clld.org/parameters/1696,[tæslim](-dɑdæn),surrender
+214-1125,west2369,http://concepticon.clld.org/parameters/1072,gereftɑr,"captive, prisoner"
+214-319,west2369,http://concepticon.clld.org/parameters/1072,[æsir],"captive, prisoner"
+214-800,west2369,http://concepticon.clld.org/parameters/1940,[kešik],"guard, sentinel"
+214-1192,west2369,http://concepticon.clld.org/parameters/1940,negæhbɑn,"guard, sentinel"
+214-167,west2369,http://concepticon.clld.org/parameters/1022,[qɑræt],"booty, spoils"
+214-743,west2369,http://concepticon.clld.org/parameters/1022,[qænimæt],"booty, spoils"
+214-746,west2369,http://concepticon.clld.org/parameters/65,kæmin(gɑh),ambush
+214-971,west2369,http://concepticon.clld.org/parameters/1858,mɑhigir,fisherman
+214-1328,west2369,http://concepticon.clld.org/parameters/1858,[sæyyɑd],fisherman
+214-1015,west2369,http://concepticon.clld.org/parameters/1074,šæst,fishhook
+214-580,west2369,http://concepticon.clld.org/parameters/388,dɑm,fishnet
+214-184,west2369,http://concepticon.clld.org/parameters/2013,[tæʔme],bait
+214-1264,west2369,http://concepticon.clld.org/parameters/1435,šekɑr(-kærdæn),hunt
+214-893,west2369,http://concepticon.clld.org/parameters/1172,tir-zædæn,shoot
+214-580,west2369,http://concepticon.clld.org/parameters/1075,dɑm,trap (noun)
+214-690,west2369,http://concepticon.clld.org/parameters/1170,be-dɑm gereftæn,trap (vb)
+214-219,west2369,http://concepticon.clld.org/parameters/1062,[qɑnun],law
+214-473,west2369,http://concepticon.clld.org/parameters/1068,dɑdgɑh,court
+214-415,west2369,http://concepticon.clld.org/parameters/1818,dɑværi-kærdæn,judge (vb)
+214-579,west2369,http://concepticon.clld.org/parameters/1067,dɑd,judgment
+214-997,west2369,http://concepticon.clld.org/parameters/861,[qɑzi],judge (noun)
+214-1289,west2369,http://concepticon.clld.org/parameters/861,dɑdgær,judge (noun)
+214-555,west2369,http://concepticon.clld.org/parameters/861,dɑvær,judge (noun)
+214-952,west2369,http://concepticon.clld.org/parameters/2020,[moddæʔi],plaintiff
+214-951,west2369,http://concepticon.clld.org/parameters/2020,dɑdxɑh,plaintiff
+214-1191,west2369,http://concepticon.clld.org/parameters/1034,[moddæʔɑ-æleyh],defendant
+214-1126,west2369,http://concepticon.clld.org/parameters/1144,[šɑhed],witness
+214-293,west2369,http://concepticon.clld.org/parameters/1144,gævɑh,witness
+214-825,west2369,http://concepticon.clld.org/parameters/1939,sowgænd-xordæn,swear
+214-752,west2369,http://concepticon.clld.org/parameters/1712,sowgænd,oath
+214-328,west2369,http://concepticon.clld.org/parameters/1814,[mottæhæm]-kærdæn,accuse
+214-347,west2369,http://concepticon.clld.org/parameters/484,[mæhkum]-kærdæn,condemn
+214-554,west2369,http://concepticon.clld.org/parameters/988,[tæbreʔe]-kærdæn,acquit
+214-601,west2369,http://concepticon.clld.org/parameters/1682,[moqæsser],guilty
+214-239,west2369,http://concepticon.clld.org/parameters/1682,sæzɑvɑr,guilty
+214-443,west2369,http://concepticon.clld.org/parameters/90,bigonɑh,innocent
+214-1167,west2369,http://concepticon.clld.org/parameters/390,[tæmbih],"penalty, punishment"
+214-575,west2369,http://concepticon.clld.org/parameters/390,sæzɑ,"penalty, punishment"
+214-509,west2369,http://concepticon.clld.org/parameters/218,[ǰærime],fine
+214-735,west2369,http://concepticon.clld.org/parameters/1281,zendɑn,"prison, jail"
+214-967,west2369,http://concepticon.clld.org/parameters/845,[qætl],murder
+214-134,west2369,http://concepticon.clld.org/parameters/902,[zenɑ],adultery
+214-438,west2369,http://concepticon.clld.org/parameters/953,[hætke-nɑmus],rape
+214-1283,west2369,http://concepticon.clld.org/parameters/1792,peymɑn-šekæni,perjury
+214-113,west2369,http://concepticon.clld.org/parameters/1792,gævɑhiye-doruqi,perjury
+214-748,west2369,http://concepticon.clld.org/parameters/713,dozdidæn,steal
+214-1153,west2369,http://concepticon.clld.org/parameters/1160,dozd,thief
+214-377,west2369,http://concepticon.clld.org/parameters/661,din,religion
+214-413,west2369,http://concepticon.clld.org/parameters/661,[mæzhæb],religion
+214-1123,west2369,http://concepticon.clld.org/parameters/661,kiš,religion
+214-75,west2369,http://concepticon.clld.org/parameters/1944,xodɑ,God
+214-1251,west2369,http://concepticon.clld.org/parameters/1944,yæzdɑn,God
+214-448,west2369,http://concepticon.clld.org/parameters/1944,izæd,God
+214-1208,west2369,http://concepticon.clld.org/parameters/911,[mæʔbæd],"temple, church"
+214-894,west2369,http://concepticon.clld.org/parameters/853,qorbɑn-gɑh,altar
+214-1275,west2369,http://concepticon.clld.org/parameters/1103,qorbɑn,"sacrifice, offering"
+214-822,west2369,http://concepticon.clld.org/parameters/257,pæræstidæn,worship
+214-490,west2369,http://concepticon.clld.org/parameters/257,pæræsteš,worship
+214-1043,west2369,http://concepticon.clld.org/parameters/24,næmɑz-xɑndæn,pray
+214-90,west2369,http://concepticon.clld.org/parameters/852,kešiš,priest
+214-1066,west2369,http://concepticon.clld.org/parameters/1702,[moqæddæs],"holy, sacred"
+214-329,west2369,http://concepticon.clld.org/parameters/1702,pɑk,"holy, sacred"
+214-196,west2369,http://concepticon.clld.org/parameters/304,[væʔz]-kærdæn,preach
+214-568,west2369,http://concepticon.clld.org/parameters/391,[bærækæt]-dɑdæn,bless
+214-1338,west2369,http://concepticon.clld.org/parameters/8,[læʔnæt]-kærdæn,curse
+214-832,west2369,http://concepticon.clld.org/parameters/303,ruze-gereftæn,fast (vb)
+214-41,west2369,http://concepticon.clld.org/parameters/1565,behešt,heaven
+214-1078,west2369,http://concepticon.clld.org/parameters/878,duzæx,hell
+214-1210,west2369,http://concepticon.clld.org/parameters/878,[ǰæhænnæm],hell
+214-383,west2369,http://concepticon.clld.org/parameters/1973,div,demon (evil spirit)
+214-1020,west2369,http://concepticon.clld.org/parameters/1973,[ǰenni],demon (evil spirit)
+214-407,west2369,http://concepticon.clld.org/parameters/1945,bot,idol
+214-977,west2369,http://concepticon.clld.org/parameters/392,ǰɑdu,"magic, witchcraft, sorcery"
+214-1344,west2369,http://concepticon.clld.org/parameters/2137,ǰɑdugær,"sorcerer, witch"
+214-179,west2369,http://concepticon.clld.org/parameters/2138,pæri,"fairy, elf"
+214-558,west2369,http://concepticon.clld.org/parameters/1175,[ruh],"ghost, phantom"
+214-501,west2369,http://concepticon.clld.org/parameters/1175,[šæbæh],"ghost, phantom"
+214-1159,west2369,http://concepticon.clld.org/parameters/107,fɑl,"omen, portent"

@@ -1,0 +1,840 @@
+ID,Language_ID,Feature_ID,Value,Concept
+213-686,aves1237,http://concepticon.clld.org/parameters/965,gaēθā-,world
+213-156,aves1237,http://concepticon.clld.org/parameters/965,aŋhu-,world
+213-654,aves1237,http://concepticon.clld.org/parameters/626,zam-,"earth, land"
+213-719,aves1237,http://concepticon.clld.org/parameters/626,būmi,"earth, land"
+213-83,aves1237,http://concepticon.clld.org/parameters/2,pąsnu-,dust
+213-116,aves1237,http://concepticon.clld.org/parameters/2118,gairi-,"mountain, hill"
+213-498,aves1237,http://concepticon.clld.org/parameters/2118,paurvatā,"mountain, hill"
+213-317,aves1237,http://concepticon.clld.org/parameters/2118,bərəzah-,"mountain, hill"
+213-310,aves1237,http://concepticon.clld.org/parameters/921,ǰąfnu-,valley
+213-700,aves1237,http://concepticon.clld.org/parameters/622,dvaēpa-,island
+213-713,aves1237,http://concepticon.clld.org/parameters/166,karšvar-,mainland
+213-482,aves1237,http://concepticon.clld.org/parameters/113,pāra-,shore
+213-46,aves1237,http://concepticon.clld.org/parameters/948,āp-,water
+213-231,aves1237,http://concepticon.clld.org/parameters/1474,zrayah-,sea
+213-517,aves1237,http://concepticon.clld.org/parameters/624,vairi-,lake
+213-92,aves1237,http://concepticon.clld.org/parameters/978,varəmi-,wave
+213-408,aves1237,http://concepticon.clld.org/parameters/666,*θraotah-,"river, stream, brook"
+213-449,aves1237,http://concepticon.clld.org/parameters/666,ravan-,"river, stream, brook"
+213-99,aves1237,http://concepticon.clld.org/parameters/2144,xā-,"spring, well"
+213-367,aves1237,http://concepticon.clld.org/parameters/420,razura-,"woods, forest"
+213-545,aves1237,http://concepticon.clld.org/parameters/906,vanā-,tree (cf 08.600)
+213-526,aves1237,http://concepticon.clld.org/parameters/906,varəša-,tree (cf 08.600)
+213-221,aves1237,http://concepticon.clld.org/parameters/1803,dāuru-,wood
+213-567,aves1237,http://concepticon.clld.org/parameters/2125,asan-,"stone, rock"
+213-164,aves1237,http://concepticon.clld.org/parameters/2125,zarštva-,"stone, rock"
+213-692,aves1237,http://concepticon.clld.org/parameters/1732,asman-,sky
+213-233,aves1237,http://concepticon.clld.org/parameters/1732,nabah-,sky
+213-302,aves1237,http://concepticon.clld.org/parameters/1343,hvarə,sun
+213-646,aves1237,http://concepticon.clld.org/parameters/1343,auruša-,sun
+213-380,aves1237,http://concepticon.clld.org/parameters/1313,māh-,moon
+213-702,aves1237,http://concepticon.clld.org/parameters/1430,star-,star
+213-315,aves1237,http://concepticon.clld.org/parameters/2007,vazra-,lightning (as striking)
+213-725,aves1237,http://concepticon.clld.org/parameters/630,raočah-,light (noun)
+213-370,aves1237,http://concepticon.clld.org/parameters/11,təmah-,darkness
+213-735,aves1237,http://concepticon.clld.org/parameters/11,tąθra-,darkness
+213-292,aves1237,http://concepticon.clld.org/parameters/1388,*saya-,"shade, shadow"
+213-81,aves1237,http://concepticon.clld.org/parameters/27,vayu-,air
+213-139,aves1237,http://concepticon.clld.org/parameters/960,vāta-,wind
+213-107,aves1237,http://concepticon.clld.org/parameters/1489,maēɣa-,cloud
+213-33,aves1237,http://concepticon.clld.org/parameters/1489,awra-,cloud
+213-696,aves1237,http://concepticon.clld.org/parameters/1489,snaoða-,cloud
+213-107,aves1237,http://concepticon.clld.org/parameters/249,maēɣa-,fog
+213-611,aves1237,http://concepticon.clld.org/parameters/249,dunman-,fog
+213-634,aves1237,http://concepticon.clld.org/parameters/658,vāra-,rain (noun)
+213-56,aves1237,http://concepticon.clld.org/parameters/784,vafra-,snow (noun)
+213-569,aves1237,http://concepticon.clld.org/parameters/617,aēxa-,ice
+213-586,aves1237,http://concepticon.clld.org/parameters/617,isu-,ice
+213-624,aves1237,http://concepticon.clld.org/parameters/221,ātar-,fire
+213-298,aves1237,http://concepticon.clld.org/parameters/889,*saočah-,flame (noun)
+213-24,aves1237,http://concepticon.clld.org/parameters/646,ātrya-,ashes
+213-177,aves1237,http://concepticon.clld.org/parameters/141,*dag-,burn (vb trans)
+213-382,aves1237,http://concepticon.clld.org/parameters/10,aēsma-,firewood
+213-183,aves1237,http://concepticon.clld.org/parameters/683,maṣ̌ya-,"person, human being"
+213-663,aves1237,http://concepticon.clld.org/parameters/683,maṣ̌yāka-,"person, human being"
+213-184,aves1237,http://concepticon.clld.org/parameters/1554,nar-,man (vs. woman)
+213-119,aves1237,http://concepticon.clld.org/parameters/1554,vīra-,man (vs. woman)
+213-325,aves1237,http://concepticon.clld.org/parameters/962,ǰani-,woman
+213-291,aves1237,http://concepticon.clld.org/parameters/962,ǰəni-,woman
+213-171,aves1237,http://concepticon.clld.org/parameters/2263,aršan-,male
+213-94,aves1237,http://concepticon.clld.org/parameters/2263,varəšna-,male
+213-623,aves1237,http://concepticon.clld.org/parameters/2263,nairya-,male
+213-252,aves1237,http://concepticon.clld.org/parameters/2260,strī-,female
+213-20,aves1237,http://concepticon.clld.org/parameters/2260,hāirišī-,female
+213-411,aves1237,http://concepticon.clld.org/parameters/2260,xšaθrī-,female
+213-747,aves1237,http://concepticon.clld.org/parameters/1366,puθra-,boy
+213-438,aves1237,http://concepticon.clld.org/parameters/76,maɣava-,young man (adolescent)
+213-84,aves1237,http://concepticon.clld.org/parameters/1646,kainyā-,girl
+213-345,aves1237,http://concepticon.clld.org/parameters/1304,apərənāyuka-,child
+213-275,aves1237,http://concepticon.clld.org/parameters/1200,paiti-,husband
+213-216,aves1237,http://concepticon.clld.org/parameters/1199,nāirī,wife
+213-332,aves1237,http://concepticon.clld.org/parameters/1199,nāirikā-,wife
+213-678,aves1237,http://concepticon.clld.org/parameters/1199,vaðū-,wife
+213-51,aves1237,http://concepticon.clld.org/parameters/203,vaz-,marry
+213-312,aves1237,http://concepticon.clld.org/parameters/203,upa-vad-,marry
+213-460,aves1237,http://concepticon.clld.org/parameters/1259,nāiriθwana-,"marriage, wedding"
+213-589,aves1237,http://concepticon.clld.org/parameters/1217,pitar-,father
+213-265,aves1237,http://concepticon.clld.org/parameters/1216,mātar-,mother
+213-340,aves1237,http://concepticon.clld.org/parameters/505,pitarə (?),parents
+213-747,aves1237,http://concepticon.clld.org/parameters/1620,puθra-,son
+213-276,aves1237,http://concepticon.clld.org/parameters/1620,hunu-,son
+213-71,aves1237,http://concepticon.clld.org/parameters/1357,dugədar-,daughter
+213-232,aves1237,http://concepticon.clld.org/parameters/1357,duɣðar-,daughter
+213-287,aves1237,http://concepticon.clld.org/parameters/1801,frazain̩ti-,offspring (son or daughter)
+213-143,aves1237,http://concepticon.clld.org/parameters/1262,brātar-,brother
+213-669,aves1237,http://concepticon.clld.org/parameters/1263,xʷaŋhar-,sister
+213-457,aves1237,http://concepticon.clld.org/parameters/1383,nyāka-,grandfather
+213-412,aves1237,http://concepticon.clld.org/parameters/1496,nyākā-,grandmother
+213-182,aves1237,http://concepticon.clld.org/parameters/1618,napāt-,grandson
+213-193,aves1237,http://concepticon.clld.org/parameters/1618,naptar-,grandson
+213-577,aves1237,http://concepticon.clld.org/parameters/1619,naptī-,granddaughter
+213-666,aves1237,http://concepticon.clld.org/parameters/1619,naptiya-,granddaughter
+213-133,aves1237,http://concepticon.clld.org/parameters/1327,tūirya-,uncle
+213-166,aves1237,http://concepticon.clld.org/parameters/1272,tūiryā-,aunt
+213-578,aves1237,http://concepticon.clld.org/parameters/1063,brātruya-,nephew
+213-527,aves1237,http://concepticon.clld.org/parameters/1642,brātruyā-,niece
+213-103,aves1237,http://concepticon.clld.org/parameters/1643,tūriyō-puθra-,cousin
+213-628,aves1237,http://concepticon.clld.org/parameters/1643,tūirya-duɣðar-,cousin
+213-287,aves1237,http://concepticon.clld.org/parameters/490,frazain̩ti-,descendants
+213-59,aves1237,http://concepticon.clld.org/parameters/490,naptya,descendants
+213-581,aves1237,http://concepticon.clld.org/parameters/2255,xʷasura-,father-in-law (of a man)
+213-208,aves1237,http://concepticon.clld.org/parameters/2267,zāmātar-,son-in-law (of a man)
+213-455,aves1237,http://concepticon.clld.org/parameters/1149,saē,orphan
+213-469,aves1237,http://concepticon.clld.org/parameters/1756,viðavā-,widow
+213-371,aves1237,http://concepticon.clld.org/parameters/1644,nāfya-,"relatives, kinsmen"
+213-701,aves1237,http://concepticon.clld.org/parameters/194,nāfa-,family
+213-712,aves1237,http://concepticon.clld.org/parameters/619,daitika-,animal
+213-489,aves1237,http://concepticon.clld.org/parameters/619,xrafstra-,animal
+213-171,aves1237,http://concepticon.clld.org/parameters/2261,aršan-,male (adj)
+213-623,aves1237,http://concepticon.clld.org/parameters/2261,nairya-,male (adj)
+213-34,aves1237,http://concepticon.clld.org/parameters/2262,daēnu-,female (adj)
+213-252,aves1237,http://concepticon.clld.org/parameters/2262,strī-,female (adj)
+213-20,aves1237,http://concepticon.clld.org/parameters/2262,hāirišī-,female (adj)
+213-411,aves1237,http://concepticon.clld.org/parameters/2262,xšaθrī-,female (adj)
+213-85,aves1237,http://concepticon.clld.org/parameters/631,pasu-,livestock
+213-687,aves1237,http://concepticon.clld.org/parameters/631,staora-,livestock
+213-563,aves1237,http://concepticon.clld.org/parameters/649,vāstra-,pasture
+213-500,aves1237,http://concepticon.clld.org/parameters/649,gaoyaoti,pasture
+213-608,aves1237,http://concepticon.clld.org/parameters/263,vāstar-,herdsman
+213-540,aves1237,http://concepticon.clld.org/parameters/851,*gaō-stāna-,"stable, stall"
+213-66,aves1237,http://concepticon.clld.org/parameters/851,aspō-stāna-,"stable, stall"
+213-356,aves1237,http://concepticon.clld.org/parameters/1008,uxšan-,bull
+213-246,aves1237,http://concepticon.clld.org/parameters/1169,gao-,ox
+213-246,aves1237,http://concepticon.clld.org/parameters/1007,gao-,cow
+213-181,aves1237,http://concepticon.clld.org/parameters/1331,anumaya-,sheep
+213-358,aves1237,http://concepticon.clld.org/parameters/1344,maēša-,ram
+213-657,aves1237,http://concepticon.clld.org/parameters/1345,maēšī-,ewe
+213-341,aves1237,http://concepticon.clld.org/parameters/1348,varāza-,boar
+213-7,aves1237,http://concepticon.clld.org/parameters/1337,*parəsa-,pig
+213-659,aves1237,http://concepticon.clld.org/parameters/1337,hū-,pig
+213-504,aves1237,http://concepticon.clld.org/parameters/1502,būza-,goat
+213-504,aves1237,http://concepticon.clld.org/parameters/264,būza-,he-goat
+213-296,aves1237,http://concepticon.clld.org/parameters/264,*aza-,he-goat
+213-8,aves1237,http://concepticon.clld.org/parameters/1972,*sačaēnī ~ *sačaini-,kid
+213-244,aves1237,http://concepticon.clld.org/parameters/615,aspa-,horse (equine)
+213-432,aves1237,http://concepticon.clld.org/parameters/938,aspā-,mare
+213-583,aves1237,http://concepticon.clld.org/parameters/1862,xara-,"ass, donkey"
+213-87,aves1237,http://concepticon.clld.org/parameters/1862,kaθwā-,"ass, donkey"
+213-58,aves1237,http://concepticon.clld.org/parameters/1511,parōdarš,"cock, rooster"
+213-23,aves1237,http://concepticon.clld.org/parameters/1511,kahrkatās,"cock, rooster"
+213-14,aves1237,http://concepticon.clld.org/parameters/1511,karətōdąsuš,"cock, rooster"
+213-121,aves1237,http://concepticon.clld.org/parameters/937,vi-,bird
+213-443,aves1237,http://concepticon.clld.org/parameters/937,mərəɣa-,bird
+213-494,aves1237,http://concepticon.clld.org/parameters/2009,span-,dog
+213-734,aves1237,http://concepticon.clld.org/parameters/227,masya-,fish
+213-243,aves1237,http://concepticon.clld.org/parameters/522,vəhrka-,wolf
+213-721,aves1237,http://concepticon.clld.org/parameters/1820,arša-,bear
+213-694,aves1237,http://concepticon.clld.org/parameters/1312,urupa-,fox
+213-162,aves1237,http://concepticon.clld.org/parameters/1312,urupi-,fox
+213-321,aves1237,http://concepticon.clld.org/parameters/1871,uštra-,camel
+213-188,aves1237,http://concepticon.clld.org/parameters/587,maoiri-,ant
+213-308,aves1237,http://concepticon.clld.org/parameters/1504,maxšī-,fly
+213-418,aves1237,http://concepticon.clld.org/parameters/1219,kərəma- (?),worm
+213-202,aves1237,http://concepticon.clld.org/parameters/730,aži-,snake
+213-559,aves1237,http://concepticon.clld.org/parameters/503,vazaɣa-,frog
+213-353,aves1237,http://concepticon.clld.org/parameters/112,kasyapa-,turtle
+213-25,aves1237,http://concepticon.clld.org/parameters/1480,kəhrp-,body
+213-597,aves1237,http://concepticon.clld.org/parameters/1480,tanū-,body
+213-60,aves1237,http://concepticon.clld.org/parameters/763,surī-,"skin, hide"
+213-318,aves1237,http://concepticon.clld.org/parameters/763,čarəman,"skin, hide"
+213-609,aves1237,http://concepticon.clld.org/parameters/2259,gav-,flesh
+213-351,aves1237,http://concepticon.clld.org/parameters/1040,varəsa-,hair (head)
+213-493,aves1237,http://concepticon.clld.org/parameters/189,gaona-,body hair
+213-644,aves1237,http://concepticon.clld.org/parameters/946,vohunī-,blood
+213-131,aves1237,http://concepticon.clld.org/parameters/1394,ast-,bone
+213-427,aves1237,http://concepticon.clld.org/parameters/801,parəsu-,rib
+213-626,aves1237,http://concepticon.clld.org/parameters/1393,srū-,horn
+213-282,aves1237,http://concepticon.clld.org/parameters/1393,srvā-,horn
+213-36,aves1237,http://concepticon.clld.org/parameters/1220,duma-,tail
+213-268,aves1237,http://concepticon.clld.org/parameters/1291,paršta-,back
+213-615,aves1237,http://concepticon.clld.org/parameters/1256,sarah-,head
+213-673,aves1237,http://concepticon.clld.org/parameters/1256,sāra-,head
+213-491,aves1237,http://concepticon.clld.org/parameters/1256,vaɣða-na,head
+213-57,aves1237,http://concepticon.clld.org/parameters/1605,mastrəɣan-,skull
+213-57,aves1237,http://concepticon.clld.org/parameters/1583,mastrəɣan-,brain
+213-364,aves1237,http://concepticon.clld.org/parameters/1560,ainika-,face
+213-347,aves1237,http://concepticon.clld.org/parameters/1560,čiθra-,face
+213-364,aves1237,http://concepticon.clld.org/parameters/123,ainika-,forehead
+213-75,aves1237,http://concepticon.clld.org/parameters/798,zānu-,jaw
+213-655,aves1237,http://concepticon.clld.org/parameters/1248,čašman-,eye
+213-414,aves1237,http://concepticon.clld.org/parameters/1248,dōiθra-,eye
+213-410,aves1237,http://concepticon.clld.org/parameters/1248,aši,eye
+213-727,aves1237,http://concepticon.clld.org/parameters/1173,brvat-,eyebrow
+213-73,aves1237,http://concepticon.clld.org/parameters/1247,gaoša-,ear
+213-237,aves1237,http://concepticon.clld.org/parameters/1247,karəna-,ear
+213-507,aves1237,http://concepticon.clld.org/parameters/1221,nāh-,nose
+213-360,aves1237,http://concepticon.clld.org/parameters/674,āh-,mouth
+213-710,aves1237,http://concepticon.clld.org/parameters/674,zafar-,mouth
+213-417,aves1237,http://concepticon.clld.org/parameters/478,aošta,lip
+213-194,aves1237,http://concepticon.clld.org/parameters/1205,hizvā-,tongue
+213-167,aves1237,http://concepticon.clld.org/parameters/1205,hizū-,tongue
+213-86,aves1237,http://concepticon.clld.org/parameters/1380,dātā-,tooth
+213-641,aves1237,http://concepticon.clld.org/parameters/1380,dantan-,tooth
+213-544,aves1237,http://concepticon.clld.org/parameters/1333,manaoθri-,neck
+213-227,aves1237,http://concepticon.clld.org/parameters/1333,grīvā-,neck
+213-49,aves1237,http://concepticon.clld.org/parameters/1346,garəman-,throat
+213-316,aves1237,http://concepticon.clld.org/parameters/1346,garō,throat
+213-667,aves1237,http://concepticon.clld.org/parameters/1482,supti-,shoulder
+213-245,aves1237,http://concepticon.clld.org/parameters/1482,daoš-,shoulder
+213-672,aves1237,http://concepticon.clld.org/parameters/1673,bāzu-,arm
+213-746,aves1237,http://concepticon.clld.org/parameters/981,arəθna-,elbow
+213-257,aves1237,http://concepticon.clld.org/parameters/1277,zasta-,hand
+213-21,aves1237,http://concepticon.clld.org/parameters/1277,gu-,hand
+213-285,aves1237,http://concepticon.clld.org/parameters/1303,ərəzu-,finger
+213-235,aves1237,http://concepticon.clld.org/parameters/1303,angušta,finger
+213-626,aves1237,http://concepticon.clld.org/parameters/1258,srū-,fingernail
+213-282,aves1237,http://concepticon.clld.org/parameters/1258,srvā-,fingernail
+213-509,aves1237,http://concepticon.clld.org/parameters/1297,paitištāna-,leg
+213-514,aves1237,http://concepticon.clld.org/parameters/1371,žnu-,knee
+213-10,aves1237,http://concepticon.clld.org/parameters/1301,pad-,foot
+213-106,aves1237,http://concepticon.clld.org/parameters/1301,paiðyā,foot
+213-714,aves1237,http://concepticon.clld.org/parameters/1301,zbaraθa-,foot
+213-562,aves1237,http://concepticon.clld.org/parameters/1301,dvariθra-,foot
+213-224,aves1237,http://concepticon.clld.org/parameters/1389,angušta-,toe
+213-547,aves1237,http://concepticon.clld.org/parameters/1257,parəna-,wing
+213-547,aves1237,http://concepticon.clld.org/parameters/1201,parəna-,feather
+213-480,aves1237,http://concepticon.clld.org/parameters/1592,varah-,chest
+213-3,aves1237,http://concepticon.clld.org/parameters/1402,fštāna-,breast (of woman)
+213-701,aves1237,http://concepticon.clld.org/parameters/1838,nāfa-,navel
+213-565,aves1237,http://concepticon.clld.org/parameters/1223,zərəd-,heart
+213-409,aves1237,http://concepticon.clld.org/parameters/1224,yākarə,liver
+213-742,aves1237,http://concepticon.clld.org/parameters/819,udara-,stomach
+213-436,aves1237,http://concepticon.clld.org/parameters/819,maršū-,stomach
+213-397,aves1237,http://concepticon.clld.org/parameters/804,garəwa-,womb
+213-542,aves1237,http://concepticon.clld.org/parameters/804,barəθrī-,womb
+213-396,aves1237,http://concepticon.clld.org/parameters/797,ərəzi,testicle
+213-76,aves1237,http://concepticon.clld.org/parameters/1407,ānti-,"breathe, breath"
+213-464,aves1237,http://concepticon.clld.org/parameters/1407,parānti-,"breathe, breath"
+213-658,aves1237,http://concepticon.clld.org/parameters/126,xʷaēða-,perspire
+213-240,aves1237,http://concepticon.clld.org/parameters/1440,spāma-,spit
+213-593,aves1237,http://concepticon.clld.org/parameters/1278,vam-,vomit
+213-135,aves1237,http://concepticon.clld.org/parameters/1403,dąs-,bite
+213-314,aves1237,http://concepticon.clld.org/parameters/319,raēz-,lick
+213-322,aves1237,http://concepticon.clld.org/parameters/1585,xʷap-,sleep
+213-470,aves1237,http://concepticon.clld.org/parameters/1585,xʷafna-,sleep
+213-688,aves1237,http://concepticon.clld.org/parameters/1602,gar-,wake up
+213-704,aves1237,http://concepticon.clld.org/parameters/1159,pərəd-,break wind
+213-682,aves1237,http://concepticon.clld.org/parameters/592,miz-,urinate
+213-604,aves1237,http://concepticon.clld.org/parameters/592,maēsma-,urinate
+213-533,aves1237,http://concepticon.clld.org/parameters/592,maēsman-,urinate
+213-554,aves1237,http://concepticon.clld.org/parameters/676,ri-,defecate
+213-247,aves1237,http://concepticon.clld.org/parameters/676,mūθra-,defecate
+213-67,aves1237,http://concepticon.clld.org/parameters/676,gūθa-,defecate
+213-191,aves1237,http://concepticon.clld.org/parameters/1785,miθ-,have sexual intercourse
+213-157,aves1237,http://concepticon.clld.org/parameters/1152,us-zan-,beget (of father)
+213-743,aves1237,http://concepticon.clld.org/parameters/1090,zan-,born (to be)
+213-290,aves1237,http://concepticon.clld.org/parameters/1090,hu-,born (to be)
+213-52,aves1237,http://concepticon.clld.org/parameters/1123,puθrā-,pregnant
+213-475,aves1237,http://concepticon.clld.org/parameters/1422,ǰīv-,"live, living, life"
+213-369,aves1237,http://concepticon.clld.org/parameters/1422,ǰīva-,"live, living, life"
+213-165,aves1237,http://concepticon.clld.org/parameters/1422,ǰīvya,"live, living, life"
+213-510,aves1237,http://concepticon.clld.org/parameters/1494,mar-,"die, dead"
+213-454,aves1237,http://concepticon.clld.org/parameters/1494,riθ-,"die, dead"
+213-144,aves1237,http://concepticon.clld.org/parameters/1494,mərəta-,"die, dead"
+213-111,aves1237,http://concepticon.clld.org/parameters/1417,ǰan-,kill
+213-530,aves1237,http://concepticon.clld.org/parameters/1417,fra-kuš-,kill
+213-336,aves1237,http://concepticon.clld.org/parameters/1417,mərəč-,kill
+213-591,aves1237,http://concepticon.clld.org/parameters/767,nasu-,corpse
+213-333,aves1237,http://concepticon.clld.org/parameters/767,kəhrp,corpse
+213-511,aves1237,http://concepticon.clld.org/parameters/1719,nasu-spaya,bury (the dead)
+213-15,aves1237,http://concepticon.clld.org/parameters/1773,uzdāna-,"grave, tomb"
+213-294,aves1237,http://concepticon.clld.org/parameters/785,sūra-,"strong, mighty, powerful"
+213-645,aves1237,http://concepticon.clld.org/parameters/785,aoǰahvant-,"strong, mighty, powerful"
+213-516,aves1237,http://concepticon.clld.org/parameters/785,amavant-,"strong, mighty, powerful"
+213-691,aves1237,http://concepticon.clld.org/parameters/1601,asūra-,weak
+213-386,aves1237,http://concepticon.clld.org/parameters/1364,drva-,"well, health"
+213-335,aves1237,http://concepticon.clld.org/parameters/1364,abanta-,"well, health"
+213-300,aves1237,http://concepticon.clld.org/parameters/1364,drva-tāt-,"well, health"
+213-647,aves1237,http://concepticon.clld.org/parameters/1847,banta-,"sick, sickness"
+213-203,aves1237,http://concepticon.clld.org/parameters/1847,bazda,"sick, sickness"
+213-689,aves1237,http://concepticon.clld.org/parameters/1847,yaska-,"sick, sickness"
+213-185,aves1237,http://concepticon.clld.org/parameters/1109,xʷara-,"wound, sore"
+213-249,aves1237,http://concepticon.clld.org/parameters/499,bišaz-,"cure, heal"
+213-600,aves1237,http://concepticon.clld.org/parameters/597,vīmad-,physician
+213-665,aves1237,http://concepticon.clld.org/parameters/1372,baēšaza-,"medicine, drug"
+213-425,aves1237,http://concepticon.clld.org/parameters/655,viš-,poison
+213-2,aves1237,http://concepticon.clld.org/parameters/655,viša-,poison
+213-118,aves1237,http://concepticon.clld.org/parameters/1564,əvərəzika-,lazy
+213-740,aves1237,http://concepticon.clld.org/parameters/1125,kaurva-,bald
+213-237,aves1237,http://concepticon.clld.org/parameters/996,karəna-,deaf
+213-399,aves1237,http://concepticon.clld.org/parameters/996,asrut-gaoša-,deaf
+213-680,aves1237,http://concepticon.clld.org/parameters/1666,afravaoča-,mute
+213-499,aves1237,http://concepticon.clld.org/parameters/1653,anda-,blind
+213-50,aves1237,http://concepticon.clld.org/parameters/1463,mað-,intoxicated
+213-524,aves1237,http://concepticon.clld.org/parameters/590,maɣna-,"naked, bare"
+213-752,aves1237,http://concepticon.clld.org/parameters/1336,xʷar-,eat
+213-447,aves1237,http://concepticon.clld.org/parameters/1336,gah-,eat
+213-39,aves1237,http://concepticon.clld.org/parameters/256,xʷarəθa-,food
+213-62,aves1237,http://concepticon.clld.org/parameters/256,pitu-,food
+213-752,aves1237,http://concepticon.clld.org/parameters/1401,xʷar-,drink
+213-169,aves1237,http://concepticon.clld.org/parameters/1533,šud-,hunger
+213-656,aves1237,http://concepticon.clld.org/parameters/848,taršna-,thirst
+213-138,aves1237,http://concepticon.clld.org/parameters/1100,pač-,cook
+213-138,aves1237,http://concepticon.clld.org/parameters/792,pač-,boil (vb)
+213-592,aves1237,http://concepticon.clld.org/parameters/792,yah-,boil (vb)
+213-138,aves1237,http://concepticon.clld.org/parameters/2146,pač-,"roast, fry"
+213-138,aves1237,http://concepticon.clld.org/parameters/183,pač-,bake
+213-16,aves1237,http://concepticon.clld.org/parameters/1462,xumba-,"pot, cooking vessel"
+213-543,aves1237,http://concepticon.clld.org/parameters/1462,dišta-,"pot, cooking vessel"
+213-320,aves1237,http://concepticon.clld.org/parameters/476,tašta-,"cup, drinking vessel"
+213-260,aves1237,http://concepticon.clld.org/parameters/1322,sūirya-,breakfast
+213-337,aves1237,http://concepticon.clld.org/parameters/1833,xšafnya-,supper
+213-241,aves1237,http://concepticon.clld.org/parameters/2017,raēθwa-,"stir, mix"
+213-631,aves1237,http://concepticon.clld.org/parameters/273,gunda-,dough
+213-18,aves1237,http://concepticon.clld.org/parameters/1594,pištra-,"meal, flour"
+213-553,aves1237,http://concepticon.clld.org/parameters/636,suduš-,mill
+213-609,aves1237,http://concepticon.clld.org/parameters/634,gav-,meat
+213-487,aves1237,http://concepticon.clld.org/parameters/942,*paēna-,honey
+213-159,aves1237,http://concepticon.clld.org/parameters/635,payah-,milk (noun)
+213-506,aves1237,http://concepticon.clld.org/parameters/635,xšvīd-,milk (noun)
+213-446,aves1237,http://concepticon.clld.org/parameters/1569,fšutā-,cheese
+213-508,aves1237,http://concepticon.clld.org/parameters/1569,tūiri-,cheese
+213-124,aves1237,http://concepticon.clld.org/parameters/1245,raoɣna-,butter
+213-324,aves1237,http://concepticon.clld.org/parameters/1524,maðu-,wine
+213-472,aves1237,http://concepticon.clld.org/parameters/1524,xšudra- (?),wine
+213-134,aves1237,http://concepticon.clld.org/parameters/1639,hurā-,beer
+213-366,aves1237,http://concepticon.clld.org/parameters/744,*āvaya-,egg
+213-715,aves1237,http://concepticon.clld.org/parameters/158,vah-,put on (clothes)
+213-627,aves1237,http://concepticon.clld.org/parameters/1895,vaŋhana-,"clothing, clothes"
+213-642,aves1237,http://concepticon.clld.org/parameters/1895,vastra-,"clothing, clothes"
+213-738,aves1237,http://concepticon.clld.org/parameters/1616,ubdaēna-,cloth
+213-129,aves1237,http://concepticon.clld.org/parameters/964,varənā-,wool
+213-751,aves1237,http://concepticon.clld.org/parameters/629,čarəman-,leather
+213-102,aves1237,http://concepticon.clld.org/parameters/1382,sūkā-,needle
+213-37,aves1237,http://concepticon.clld.org/parameters/1381,aoθra-,shoe
+213-334,aves1237,http://concepticon.clld.org/parameters/2130,xaoða-,"hat, cap"
+213-668,aves1237,http://concepticon.clld.org/parameters/772,yāh-,"belt, girdle"
+213-400,aves1237,http://concepticon.clld.org/parameters/772,kamarā-,"belt, girdle"
+213-452,aves1237,http://concepticon.clld.org/parameters/917,pis-,"ornament, adornment"
+213-444,aves1237,http://concepticon.clld.org/parameters/917,paēsa-,"ornament, adornment"
+213-301,aves1237,http://concepticon.clld.org/parameters/1961,minu-,necklace
+213-512,aves1237,http://concepticon.clld.org/parameters/1099,ši-,"dwell, live"
+213-158,aves1237,http://concepticon.clld.org/parameters/1252,nmāna-,house
+213-607,aves1237,http://concepticon.clld.org/parameters/1450,rawah-,room
+213-339,aves1237,http://concepticon.clld.org/parameters/1567,dvar-,"door, gate"
+213-612,aves1237,http://concepticon.clld.org/parameters/1375,raočana-,window
+213-72,aves1237,http://concepticon.clld.org/parameters/933,uzdaēzi-,wall
+213-531,aves1237,http://concepticon.clld.org/parameters/1663,stairiš-,bed
+213-379,aves1237,http://concepticon.clld.org/parameters/1476,gātu-,chair
+213-186,aves1237,http://concepticon.clld.org/parameters/1132,fra-skəmba-,beam
+213-374,aves1237,http://concepticon.clld.org/parameters/1006,ištya-,brick
+213-462,aves1237,http://concepticon.clld.org/parameters/979,vāstrya-,farmer
+213-327,aves1237,http://concepticon.clld.org/parameters/212,karšū-,field (for cultivation)
+213-638,aves1237,http://concepticon.clld.org/parameters/212,yavan-,field (for cultivation)
+213-4,aves1237,http://concepticon.clld.org/parameters/586,pairidaēza-,garden
+213-442,aves1237,http://concepticon.clld.org/parameters/1541,aiwi-vərəz-,"cultivate, till"
+213-269,aves1237,http://concepticon.clld.org/parameters/1921,karš-,plow
+213-393,aves1237,http://concepticon.clld.org/parameters/1921,aēša-,plow
+213-389,aves1237,http://concepticon.clld.org/parameters/1794,karša-,furrow
+213-266,aves1237,http://concepticon.clld.org/parameters/1418,kan-,dig
+213-11,aves1237,http://concepticon.clld.org/parameters/1176,kąstra-,spade
+213-601,aves1237,http://concepticon.clld.org/parameters/714,taoxman-,seed
+213-347,aves1237,http://concepticon.clld.org/parameters/714,čiθra-,seed
+213-724,aves1237,http://concepticon.clld.org/parameters/285,xʷasta-,thresh
+213-346,aves1237,http://concepticon.clld.org/parameters/605,yava-,"grain (barley, oats etc)"
+213-187,aves1237,http://concepticon.clld.org/parameters/605,dāna-,"grain (barley, oats etc)"
+213-448,aves1237,http://concepticon.clld.org/parameters/605,hahya-,"grain (barley, oats etc)"
+213-123,aves1237,http://concepticon.clld.org/parameters/1077,gantuma-,wheat
+213-563,aves1237,http://concepticon.clld.org/parameters/606,vāstra-,grass
+213-120,aves1237,http://concepticon.clld.org/parameters/653,urvarā-,plant (noun)
+213-323,aves1237,http://concepticon.clld.org/parameters/670,varəšaǰi-,root
+213-732,aves1237,http://concepticon.clld.org/parameters/1531,yaxšti-,branch
+213-733,aves1237,http://concepticon.clld.org/parameters/1531,frasparəɣa-,branch
+213-744,aves1237,http://concepticon.clld.org/parameters/628,varəka-,leaf
+213-545,aves1237,http://concepticon.clld.org/parameters/906,vanā-,tree
+213-385,aves1237,http://concepticon.clld.org/parameters/906,varəša- (?),tree
+213-172,aves1237,http://concepticon.clld.org/parameters/813,kərə-,"do, make"
+213-259,aves1237,http://concepticon.clld.org/parameters/813,varəz-,"do, make"
+213-368,aves1237,http://concepticon.clld.org/parameters/984,vərəzya-,work
+213-253,aves1237,http://concepticon.clld.org/parameters/984,kərəta-,work
+213-210,aves1237,http://concepticon.clld.org/parameters/2004,nam-,bend
+213-576,aves1237,http://concepticon.clld.org/parameters/1917,band-,"tie, bind"
+213-584,aves1237,http://concepticon.clld.org/parameters/1917,hā(y)-,"tie, bind"
+213-481,aves1237,http://concepticon.clld.org/parameters/1917,dərəz-,"tie, bind"
+213-111,aves1237,http://concepticon.clld.org/parameters/2133,ǰan-,"strike (hit, beat)"
+213-652,aves1237,http://concepticon.clld.org/parameters/2133,snaθ-,"strike (hit, beat)"
+213-599,aves1237,http://concepticon.clld.org/parameters/1432,kərət-,cut
+213-579,aves1237,http://concepticon.clld.org/parameters/1432,θwarəs-,cut
+213-140,aves1237,http://concepticon.clld.org/parameters/1432,brī,cut
+213-349,aves1237,http://concepticon.clld.org/parameters/155,taš-,"chop, hew"
+213-262,aves1237,http://concepticon.clld.org/parameters/1352,karəta-,knife
+213-546,aves1237,http://concepticon.clld.org/parameters/677,taša-,ax
+213-574,aves1237,http://concepticon.clld.org/parameters/680,sčand-,break
+213-575,aves1237,http://concepticon.clld.org/parameters/1437,dar-,split
+213-215,aves1237,http://concepticon.clld.org/parameters/1437,sid-,split
+213-388,aves1237,http://concepticon.clld.org/parameters/1735,niš-dar,tear
+213-93,aves1237,http://concepticon.clld.org/parameters/291,vī-naθ-,"flay, skin"
+213-479,aves1237,http://concepticon.clld.org/parameters/214,tan-,stretch
+213-205,aves1237,http://concepticon.clld.org/parameters/1455,θanǰ-,pull
+213-269,aves1237,http://concepticon.clld.org/parameters/1455,karš-,pull
+213-702,aves1237,http://concepticon.clld.org/parameters/38,star-,spread out
+213-381,aves1237,http://concepticon.clld.org/parameters/1487,hič,pour
+213-344,aves1237,http://concepticon.clld.org/parameters/1453,snā-,wash
+213-461,aves1237,http://concepticon.clld.org/parameters/1453,niž-,wash
+213-671,aves1237,http://concepticon.clld.org/parameters/230,mərəz-,sweep
+213-684,aves1237,http://concepticon.clld.org/parameters/1840,kar-,build
+213-474,aves1237,http://concepticon.clld.org/parameters/1481,čakuš-,hammer
+213-274,aves1237,http://concepticon.clld.org/parameters/211,hič-,cast (metals)
+213-256,aves1237,http://concepticon.clld.org/parameters/1369,zaranya-,gold
+213-404,aves1237,http://concepticon.clld.org/parameters/759,ərəzata-,silver
+213-242,aves1237,http://concepticon.clld.org/parameters/1825,ayah-,"copper, bronze"
+213-242,aves1237,http://concepticon.clld.org/parameters/621,ayah-,iron
+213-272,aves1237,http://concepticon.clld.org/parameters/627,srva-,lead (noun)
+213-147,aves1237,http://concepticon.clld.org/parameters/289,mā-,mold (clay etc)
+213-424,aves1237,http://concepticon.clld.org/parameters/604,yama-,glass
+213-343,aves1237,http://concepticon.clld.org/parameters/765,čar-,move
+213-451,aves1237,http://concepticon.clld.org/parameters/765,ar-,move
+213-590,aves1237,http://concepticon.clld.org/parameters/1588,urvis-,turn over
+213-77,aves1237,http://concepticon.clld.org/parameters/568,usstā-,rise
+213-376,aves1237,http://concepticon.clld.org/parameters/568,usar-,rise
+213-309,aves1237,http://concepticon.clld.org/parameters/501,us-grab-,"raise, lift"
+213-350,aves1237,http://concepticon.clld.org/parameters/1280,pat-,fall
+213-613,aves1237,http://concepticon.clld.org/parameters/1456,ah-,throw
+213-328,aves1237,http://concepticon.clld.org/parameters/1456,spā-,throw
+213-213,aves1237,http://concepticon.clld.org/parameters/2003,ɣžar-,flow
+213-148,aves1237,http://concepticon.clld.org/parameters/2003,rud-,flow
+213-401,aves1237,http://concepticon.clld.org/parameters/2003,tač-,flow
+213-405,aves1237,http://concepticon.clld.org/parameters/1441,dvan-,fly (vb)
+213-161,aves1237,http://concepticon.clld.org/parameters/1441,vay-,fly (vb)
+213-350,aves1237,http://concepticon.clld.org/parameters/1441,pat-,fly (vb)
+213-198,aves1237,http://concepticon.clld.org/parameters/175,vā-,blow
+213-431,aves1237,http://concepticon.clld.org/parameters/1443,gam-,walk
+213-401,aves1237,http://concepticon.clld.org/parameters/1519,tač-,run
+213-434,aves1237,http://concepticon.clld.org/parameters/1519,dru-,run
+213-471,aves1237,http://concepticon.clld.org/parameters/695,ǰam-,go
+213-555,aves1237,http://concepticon.clld.org/parameters/695,i-,go
+213-535,aves1237,http://concepticon.clld.org/parameters/695,yā-,go
+213-339,aves1237,http://concepticon.clld.org/parameters/695,dvar-,go
+213-204,aves1237,http://concepticon.clld.org/parameters/1446,(ā-)ǰam-,come
+213-170,aves1237,http://concepticon.clld.org/parameters/1752,apaǰam-,"go away, depart"
+213-275,aves1237,http://concepticon.clld.org/parameters/1752,paiti-,"go away, depart"
+213-375,aves1237,http://concepticon.clld.org/parameters/1752,rič,"go away, depart"
+213-717,aves1237,http://concepticon.clld.org/parameters/956,frā-nam-,flee
+213-326,aves1237,http://concepticon.clld.org/parameters/1085,hač-,follow
+213-585,aves1237,http://concepticon.clld.org/parameters/1047,vayeiti,pursue
+213-471,aves1237,http://concepticon.clld.org/parameters/1387,ǰam-,"reach, arrive"
+213-141,aves1237,http://concepticon.clld.org/parameters/1387,aibī-ǰam-,"reach, arrive"
+213-610,aves1237,http://concepticon.clld.org/parameters/1387,hant-,"reach, arrive"
+213-450,aves1237,http://concepticon.clld.org/parameters/700,bar-,carry (bear)
+213-664,aves1237,http://concepticon.clld.org/parameters/700,nāš-,carry (bear)
+213-450,aves1237,http://concepticon.clld.org/parameters/692,bar-,bring
+213-47,aves1237,http://concepticon.clld.org/parameters/692,ā-yās-,bring
+213-525,aves1237,http://concepticon.clld.org/parameters/1127,maēθ- (?),send
+213-523,aves1237,http://concepticon.clld.org/parameters/43,ni-,lead (vb)
+213-330,aves1237,http://concepticon.clld.org/parameters/43,vāðaya-,lead (vb)
+213-675,aves1237,http://concepticon.clld.org/parameters/741,az-,drive
+213-450,aves1237,http://concepticon.clld.org/parameters/367,bar-,ride
+213-51,aves1237,http://concepticon.clld.org/parameters/367,vaz-,ride
+213-96,aves1237,http://concepticon.clld.org/parameters/667,paθ-,road
+213-681,aves1237,http://concepticon.clld.org/parameters/667,advan-,road
+213-359,aves1237,http://concepticon.clld.org/parameters/667,frayana-,road
+213-96,aves1237,http://concepticon.clld.org/parameters/2252,paθ-,path
+213-681,aves1237,http://concepticon.clld.org/parameters/2252,advan-,path
+213-428,aves1237,http://concepticon.clld.org/parameters/1011,pəšu-,bridge
+213-745,aves1237,http://concepticon.clld.org/parameters/1011,pərətu-,bridge
+213-239,aves1237,http://concepticon.clld.org/parameters/122,vāša-,"carriage, wagon, cart"
+213-5,aves1237,http://concepticon.clld.org/parameters/122,raθa-,"carriage, wagon, cart"
+213-305,aves1237,http://concepticon.clld.org/parameters/710,čaxra-,wheel
+213-643,aves1237,http://concepticon.clld.org/parameters/740,nāvaya-,ship
+213-613,aves1237,http://concepticon.clld.org/parameters/773,ah-,have
+213-456,aves1237,http://concepticon.clld.org/parameters/1749,grab-,take
+213-456,aves1237,http://concepticon.clld.org/parameters/2021,grab-,"seize, grasp"
+213-575,aves1237,http://concepticon.clld.org/parameters/1448,dar-,hold
+213-108,aves1237,http://concepticon.clld.org/parameters/1448,drag-,hold
+213-697,aves1237,http://concepticon.clld.org/parameters/1448,hap-,hold
+213-718,aves1237,http://concepticon.clld.org/parameters/694,fra-ap-,"get, obtain"
+213-575,aves1237,http://concepticon.clld.org/parameters/1477,dar-,"keep, retain"
+213-192,aves1237,http://concepticon.clld.org/parameters/1447,dā-,give
+213-98,aves1237,http://concepticon.clld.org/parameters/1997,θrā-,"preserve, look after"
+213-383,aves1237,http://concepticon.clld.org/parameters/2008,būǰ-,"save, rescue"
+213-98,aves1237,http://concepticon.clld.org/parameters/2008,θrā-,"save, rescue"
+213-117,aves1237,http://concepticon.clld.org/parameters/681,marək-,destroy
+213-648,aves1237,http://concepticon.clld.org/parameters/44,zyā- iriš-,"harm, injure, damage"
+213-150,aves1237,http://concepticon.clld.org/parameters/1468,iš-,"seek, look for"
+213-603,aves1237,http://concepticon.clld.org/parameters/719,vid-,find
+213-277,aves1237,http://concepticon.clld.org/parameters/1095,harəz,"release, let go"
+213-501,aves1237,http://concepticon.clld.org/parameters/1095,zā-,"release, let go"
+213-63,aves1237,http://concepticon.clld.org/parameters/1559,šaēta-,money
+213-503,aves1237,http://concepticon.clld.org/parameters/712,šaētavant-,rich
+213-420,aves1237,http://concepticon.clld.org/parameters/712,īštavant-,rich
+213-80,aves1237,http://concepticon.clld.org/parameters/1674,drigu-,poor
+213-137,aves1237,http://concepticon.clld.org/parameters/1674,ašaēta-,poor
+213-519,aves1237,http://concepticon.clld.org/parameters/1774,arāitivant-,"avaricious, stingy"
+213-495,aves1237,http://concepticon.clld.org/parameters/582,*nəmahya-,lend
+213-730,aves1237,http://concepticon.clld.org/parameters/718,či-,pay (vb)
+213-273,aves1237,http://concepticon.clld.org/parameters/1122,zəmanā-,wages
+213-736,aves1237,http://concepticon.clld.org/parameters/1122,dāθra-,wages
+213-355,aves1237,http://concepticon.clld.org/parameters/657,arəǰah-,price
+213-741,aves1237,http://concepticon.clld.org/parameters/657,pərəskā-,price
+213-379,aves1237,http://concepticon.clld.org/parameters/723,gātu-,place
+213-661,aves1237,http://concepticon.clld.org/parameters/723,asah-,place
+213-41,aves1237,http://concepticon.clld.org/parameters/723,stāna-,place
+213-192,aves1237,http://concepticon.clld.org/parameters/998,dā-,put
+213-360,aves1237,http://concepticon.clld.org/parameters/1416,āh-,sit
+213-415,aves1237,http://concepticon.clld.org/parameters/1416,had-,sit
+213-541,aves1237,http://concepticon.clld.org/parameters/215,saēte,lie down
+213-492,aves1237,http://concepticon.clld.org/parameters/1442,stā-,stand
+213-440,aves1237,http://concepticon.clld.org/parameters/987,man-,"remain, stay"
+213-629,aves1237,http://concepticon.clld.org/parameters/7,han-či-,"collect, gather"
+213-65,aves1237,http://concepticon.clld.org/parameters/1743,yuǰ-,"join, unite"
+213-230,aves1237,http://concepticon.clld.org/parameters/761,var-,cover
+213-363,aves1237,http://concepticon.clld.org/parameters/602,guz-,"hide, conceal"
+213-709,aves1237,http://concepticon.clld.org/parameters/1265,barəz,high
+213-264,aves1237,http://concepticon.clld.org/parameters/1265,bərəzant-,high
+213-100,aves1237,http://concepticon.clld.org/parameters/721,nitəma-,low
+213-299,aves1237,http://concepticon.clld.org/parameters/1753,saēni-,top
+213-251,aves1237,http://concepticon.clld.org/parameters/690,būna-,bottom
+213-146,aves1237,http://concepticon.clld.org/parameters/742,karana-,end
+213-104,aves1237,http://concepticon.clld.org/parameters/863,dārā-,edge
+213-146,aves1237,http://concepticon.clld.org/parameters/863,karana-,edge
+213-619,aves1237,http://concepticon.clld.org/parameters/682,arəða-,side
+213-722,aves1237,http://concepticon.clld.org/parameters/1093,maiðya-,"middle, center"
+213-222,aves1237,http://concepticon.clld.org/parameters/1093,maðəma-,"middle, center"
+213-488,aves1237,http://concepticon.clld.org/parameters/1019,dašina-,right (side)
+213-377,aves1237,http://concepticon.clld.org/parameters/244,haoya-,left (side)
+213-17,aves1237,http://concepticon.clld.org/parameters/244,vairyastāra-,left (side)
+213-421,aves1237,http://concepticon.clld.org/parameters/1942,asne,near (adv)
+213-588,aves1237,http://concepticon.clld.org/parameters/1406,dūraē,far (adv)
+213-12,aves1237,http://concepticon.clld.org/parameters/1877,upaošaŋhva-,east
+213-653,aves1237,http://concepticon.clld.org/parameters/1877,ušastara-,east
+213-206,aves1237,http://concepticon.clld.org/parameters/1817,daošatara-,west
+213-212,aves1237,http://concepticon.clld.org/parameters/1598,apāxtara-,north
+213-45,aves1237,http://concepticon.clld.org/parameters/1595,paurva-,south
+213-279,aves1237,http://concepticon.clld.org/parameters/1595,rapiθwitara-,south
+213-522,aves1237,http://concepticon.clld.org/parameters/479,varəd-,grow
+213-148,aves1237,http://concepticon.clld.org/parameters/479,rud-,grow
+213-281,aves1237,http://concepticon.clld.org/parameters/479,uxš-,grow
+213-147,aves1237,http://concepticon.clld.org/parameters/1506,mā-,measure
+213-739,aves1237,http://concepticon.clld.org/parameters/1202,mazant-,"large, big"
+213-707,aves1237,http://concepticon.clld.org/parameters/1202,maz-,"large, big"
+213-651,aves1237,http://concepticon.clld.org/parameters/1202,masan-,"large, big"
+213-550,aves1237,http://concepticon.clld.org/parameters/1246,kasu-,"small, little"
+213-307,aves1237,http://concepticon.clld.org/parameters/1203,darəga-,long
+213-723,aves1237,http://concepticon.clld.org/parameters/1203,mas-,long
+213-173,aves1237,http://concepticon.clld.org/parameters/1645,mərəzu-,short
+213-606,aves1237,http://concepticon.clld.org/parameters/1243,pərəθu-,"wide, broad"
+213-549,aves1237,http://concepticon.clld.org/parameters/1243,paθana-,"wide, broad"
+213-105,aves1237,http://concepticon.clld.org/parameters/1593,ǰafra-,deep
+213-618,aves1237,http://concepticon.clld.org/parameters/1593,gufra-,deep
+213-285,aves1237,http://concepticon.clld.org/parameters/1404,ərəzu-,straight
+213-534,aves1237,http://concepticon.clld.org/parameters/1071,anku-,hook
+213-288,aves1237,http://concepticon.clld.org/parameters/1071,aka-,hook
+213-670,aves1237,http://concepticon.clld.org/parameters/850,čaθru-karana-,square
+213-32,aves1237,http://concepticon.clld.org/parameters/1395,skarəna-,round
+213-532,aves1237,http://concepticon.clld.org/parameters/1515,aēva-,one
+213-505,aves1237,http://concepticon.clld.org/parameters/492,θrāyō,three
+213-459,aves1237,http://concepticon.clld.org/parameters/98,vispa-,"every, all"
+213-566,aves1237,http://concepticon.clld.org/parameters/1198,paru-,"much, many"
+213-295,aves1237,http://concepticon.clld.org/parameters/1992,frāyah-,more
+213-690,aves1237,http://concepticon.clld.org/parameters/1242,kamna-,"little (quantity), few"
+213-82,aves1237,http://concepticon.clld.org/parameters/2023,frə̄ni-,"multitude, crowd"
+213-478,aves1237,http://concepticon.clld.org/parameters/1429,pərəna-,full
+213-445,aves1237,http://concepticon.clld.org/parameters/779,baga-,"part, piece"
+213-293,aves1237,http://concepticon.clld.org/parameters/779,baɣā-,"part, piece"
+213-110,aves1237,http://concepticon.clld.org/parameters/816,naēma-,half
+213-532,aves1237,http://concepticon.clld.org/parameters/1580,aēva-,"alone, only"
+213-27,aves1237,http://concepticon.clld.org/parameters/728,fratəma-,first
+213-695,aves1237,http://concepticon.clld.org/parameters/1529,ustəma-,last
+213-109,aves1237,http://concepticon.clld.org/parameters/1859,θritya-,third
+213-625,aves1237,http://concepticon.clld.org/parameters/417,θriš,three times
+213-748,aves1237,http://concepticon.clld.org/parameters/417,θrisarəm,three times
+213-571,aves1237,http://concepticon.clld.org/parameters/417,āθritīm,three times
+213-178,aves1237,http://concepticon.clld.org/parameters/892,zrvan-,time
+213-433,aves1237,http://concepticon.clld.org/parameters/1789,āyu-,age
+213-69,aves1237,http://concepticon.clld.org/parameters/1231,nava-,new
+213-483,aves1237,http://concepticon.clld.org/parameters/1207,yuvan-,young
+213-79,aves1237,http://concepticon.clld.org/parameters/1229,hana-,old
+213-621,aves1237,http://concepticon.clld.org/parameters/1376,nū,now
+213-179,aves1237,http://concepticon.clld.org/parameters/1376,nūrəm,now
+213-587,aves1237,http://concepticon.clld.org/parameters/1963,mošu,immediately
+213-699,aves1237,http://concepticon.clld.org/parameters/1631,āsu-,"swift, fast, quick"
+213-750,aves1237,http://concepticon.clld.org/parameters/1631,aurvant-,"swift, fast, quick"
+213-64,aves1237,http://concepticon.clld.org/parameters/1631,θwaša-,"swift, fast, quick"
+213-29,aves1237,http://concepticon.clld.org/parameters/1631,xšviwra-,"swift, fast, quick"
+213-749,aves1237,http://concepticon.clld.org/parameters/754,ǰav-,"hasten, hurry"
+213-53,aves1237,http://concepticon.clld.org/parameters/1806,aiwigarəd-,"begin, beginning"
+213-122,aves1237,http://concepticon.clld.org/parameters/1806,fratauruna-,"begin, beginning"
+213-303,aves1237,http://concepticon.clld.org/parameters/1806,aiwigati-,"begin, beginning"
+213-726,aves1237,http://concepticon.clld.org/parameters/743,θraošti-,end (temporal)
+213-130,aves1237,http://concepticon.clld.org/parameters/743,θwarəsah-,end (temporal)
+213-146,aves1237,http://concepticon.clld.org/parameters/743,karana-,end (temporal)
+213-568,aves1237,http://concepticon.clld.org/parameters/1260,ayan-,day
+213-572,aves1237,http://concepticon.clld.org/parameters/1260,azan-,day
+213-354,aves1237,http://concepticon.clld.org/parameters/1233,xšap-,night
+213-453,aves1237,http://concepticon.clld.org/parameters/729,ušah-,dawn
+213-372,aves1237,http://concepticon.clld.org/parameters/729,asūr-,dawn
+213-220,aves1237,http://concepticon.clld.org/parameters/1339,sūr-,morning
+213-649,aves1237,http://concepticon.clld.org/parameters/12,arəm-piθwā-,"noon, midday"
+213-467,aves1237,http://concepticon.clld.org/parameters/12,rapiθwā-,"noon, midday"
+213-639,aves1237,http://concepticon.clld.org/parameters/1629,arəzah-,evening
+213-380,aves1237,http://concepticon.clld.org/parameters/1370,māh-,month
+213-88,aves1237,http://concepticon.clld.org/parameters/1226,yār-,year
+213-595,aves1237,http://concepticon.clld.org/parameters/1226,sarəd-,year
+213-258,aves1237,http://concepticon.clld.org/parameters/1471,zyam-,winter
+213-1,aves1237,http://concepticon.clld.org/parameters/1471,zaēn-,winter
+213-473,aves1237,http://concepticon.clld.org/parameters/1471,aiwigāma-,winter
+213-238,aves1237,http://concepticon.clld.org/parameters/1537,vaŋhar-,spring
+213-236,aves1237,http://concepticon.clld.org/parameters/1537,zarəmaya-,spring
+213-674,aves1237,http://concepticon.clld.org/parameters/1342,ham-,summer
+213-711,aves1237,http://concepticon.clld.org/parameters/1587,bud-,smell (vb intrans)
+213-538,aves1237,http://concepticon.clld.org/parameters/1586,baoði-,smell (vb trans)
+213-70,aves1237,http://concepticon.clld.org/parameters/1586,ganti-,smell (vb trans)
+213-729,aves1237,http://concepticon.clld.org/parameters/376,hubaoði-,"fragrant, good smelling"
+213-402,aves1237,http://concepticon.clld.org/parameters/42,dužganti-,"stinking, bad smelling"
+213-304,aves1237,http://concepticon.clld.org/parameters/42,paošišta,"stinking, bad smelling"
+213-361,aves1237,http://concepticon.clld.org/parameters/1408,sru-,hear
+213-101,aves1237,http://concepticon.clld.org/parameters/1608,gūš-,listen
+213-264,aves1237,http://concepticon.clld.org/parameters/377,bərəzant-,loud
+213-19,aves1237,http://concepticon.clld.org/parameters/1314,rāman-,"quiet, silence"
+213-43,aves1237,http://concepticon.clld.org/parameters/1409,vaēn-,see
+213-640,aves1237,http://concepticon.clld.org/parameters/1409,dərəs-,see
+213-261,aves1237,http://concepticon.clld.org/parameters/1819,dī-,"look, look at"
+213-40,aves1237,http://concepticon.clld.org/parameters/1039,dis-,show
+213-558,aves1237,http://concepticon.clld.org/parameters/708,ruč-,shine
+213-180,aves1237,http://concepticon.clld.org/parameters/708,brāz-,shine
+213-319,aves1237,http://concepticon.clld.org/parameters/708,bā-,shine
+213-484,aves1237,http://concepticon.clld.org/parameters/679,raoxšna-,bright
+213-270,aves1237,http://concepticon.clld.org/parameters/679,xšaēta-,bright
+213-78,aves1237,http://concepticon.clld.org/parameters/679,bānvant-,bright
+213-493,aves1237,http://concepticon.clld.org/parameters/1613,gaona-,color
+213-26,aves1237,http://concepticon.clld.org/parameters/706,axšaēna-,dark (in color)
+213-176,aves1237,http://concepticon.clld.org/parameters/1335,spaēta-,white
+213-646,aves1237,http://concepticon.clld.org/parameters/1335,auruša-,white
+213-255,aves1237,http://concepticon.clld.org/parameters/163,sāma-,black
+213-97,aves1237,http://concepticon.clld.org/parameters/163,syāva-,black
+213-513,aves1237,http://concepticon.clld.org/parameters/156,raoiðita-,red
+213-439,aves1237,http://concepticon.clld.org/parameters/1424,zari-,yellow
+213-636,aves1237,http://concepticon.clld.org/parameters/1424,zairita-,yellow
+213-620,aves1237,http://concepticon.clld.org/parameters/1884,xraoždwa-,hard
+213-286,aves1237,http://concepticon.clld.org/parameters/1884,xruždra-,hard
+213-520,aves1237,http://concepticon.clld.org/parameters/1856,varədva-,soft
+213-693,aves1237,http://concepticon.clld.org/parameters/1396,taēɣa-,sharp
+213-650,aves1237,http://concepticon.clld.org/parameters/1396,tiži-,sharp
+213-515,aves1237,http://concepticon.clld.org/parameters/1396,tiɣra-,sharp
+213-342,aves1237,http://concepticon.clld.org/parameters/1210,gouru-,heavy
+213-271,aves1237,http://concepticon.clld.org/parameters/1726,napta-,"wet, damp"
+213-430,aves1237,http://concepticon.clld.org/parameters/1398,huška-,dry
+213-441,aves1237,http://concepticon.clld.org/parameters/1398,hiku-,dry
+213-497,aves1237,http://concepticon.clld.org/parameters/1398,hišku-,dry
+213-477,aves1237,http://concepticon.clld.org/parameters/1286,garəma-,hot
+213-95,aves1237,http://concepticon.clld.org/parameters/1232,tapta-,warm
+213-128,aves1237,http://concepticon.clld.org/parameters/1287,aota-,cold
+213-127,aves1237,http://concepticon.clld.org/parameters/1287,sarəta-,cold
+213-662,aves1237,http://concepticon.clld.org/parameters/1230,āhita-,"dirty, soiled"
+213-573,aves1237,http://concepticon.clld.org/parameters/53,urvan-,"soul, spirit"
+213-289,aves1237,http://concepticon.clld.org/parameters/53,mainyu-,"soul, spirit"
+213-151,aves1237,http://concepticon.clld.org/parameters/1495,māyā-,"joyful, glad, happy"
+213-560,aves1237,http://concepticon.clld.org/parameters/1495,šāiti-,"joyful, glad, happy"
+213-633,aves1237,http://concepticon.clld.org/parameters/1495,urvāza-,"joyful, glad, happy"
+213-219,aves1237,http://concepticon.clld.org/parameters/1495,šyāta-,"joyful, glad, happy"
+213-266,aves1237,http://concepticon.clld.org/parameters/923,kan-,love
+213-753,aves1237,http://concepticon.clld.org/parameters/923,zaoš-,love
+213-114,aves1237,http://concepticon.clld.org/parameters/1783,axti-,pain
+213-226,aves1237,http://concepticon.clld.org/parameters/1783,sādra,pain
+213-677,aves1237,http://concepticon.clld.org/parameters/1783,inti-,pain
+213-392,aves1237,http://concepticon.clld.org/parameters/1783,āri-,pain
+213-306,aves1237,http://concepticon.clld.org/parameters/1668,ašāta-,"grief, sorrow, sadness"
+213-278,aves1237,http://concepticon.clld.org/parameters/1141,mərəždika-,pity
+213-148,aves1237,http://concepticon.clld.org/parameters/1839,rud-,"cry, weep"
+213-463,aves1237,http://concepticon.clld.org/parameters/1839,garəz-,"cry, weep"
+213-196,aves1237,http://concepticon.clld.org/parameters/1651,asru-,tear (noun)
+213-311,aves1237,http://concepticon.clld.org/parameters/1607,dvaēsah-,hate
+213-263,aves1237,http://concepticon.clld.org/parameters/82,aēšma-,anger
+213-189,aves1237,http://concepticon.clld.org/parameters/82,granta-,anger
+213-536,aves1237,http://concepticon.clld.org/parameters/40,ərəši-,"envy, jealousy"
+213-197,aves1237,http://concepticon.clld.org/parameters/40,araska-,"envy, jealousy"
+213-154,aves1237,http://concepticon.clld.org/parameters/1776,fšarəma-,shame (noun)
+213-502,aves1237,http://concepticon.clld.org/parameters/3,čirya-,brave
+213-716,aves1237,http://concepticon.clld.org/parameters/3,darši-,brave
+213-594,aves1237,http://concepticon.clld.org/parameters/3,daršyu-,brave
+213-391,aves1237,http://concepticon.clld.org/parameters/781,θwaēšah-,"fear, fright"
+213-416,aves1237,http://concepticon.clld.org/parameters/781,byah-,"fear, fright"
+213-48,aves1237,http://concepticon.clld.org/parameters/781,taršti-,"fear, fright"
+213-635,aves1237,http://concepticon.clld.org/parameters/1810,iθyaǰah-,danger
+213-28,aves1237,http://concepticon.clld.org/parameters/1810,θwayaŋha-,danger
+213-150,aves1237,http://concepticon.clld.org/parameters/1784,iš-,"desire, want"
+213-38,aves1237,http://concepticon.clld.org/parameters/1092,vyaθra-,hope
+213-297,aves1237,http://concepticon.clld.org/parameters/100,arədra-,faithful
+213-22,aves1237,http://concepticon.clld.org/parameters/1657,haiθya-,true
+213-153,aves1237,http://concepticon.clld.org/parameters/601,druǰ-,"lie, tell lies"
+213-153,aves1237,http://concepticon.clld.org/parameters/13,druǰ-,deceit
+213-570,aves1237,http://concepticon.clld.org/parameters/13,diwža-,deceit
+213-528,aves1237,http://concepticon.clld.org/parameters/1528,mərəždā-,forgive
+213-660,aves1237,http://concepticon.clld.org/parameters/1528,apaharəz-,forgive
+213-229,aves1237,http://concepticon.clld.org/parameters/1035,vaŋhu-,good
+213-290,aves1237,http://concepticon.clld.org/parameters/1035,hu-,good
+213-288,aves1237,http://concepticon.clld.org/parameters/1292,aka-,bad
+213-90,aves1237,http://concepticon.clld.org/parameters/1292,aɣa,bad
+213-395,aves1237,http://concepticon.clld.org/parameters/1292,avaŋhu-,bad
+213-429,aves1237,http://concepticon.clld.org/parameters/1292,duš-,bad
+213-91,aves1237,http://concepticon.clld.org/parameters/1725,ərəšva-,"right, correct"
+213-482,aves1237,http://concepticon.clld.org/parameters/134,pāra-,fault
+213-688,aves1237,http://concepticon.clld.org/parameters/1687,gar-,praise
+213-458,aves1237,http://concepticon.clld.org/parameters/1687,garah-,praise
+213-74,aves1237,http://concepticon.clld.org/parameters/1427,srīra-,beautiful
+213-89,aves1237,http://concepticon.clld.org/parameters/1427,huraoða-,beautiful
+213-537,aves1237,http://concepticon.clld.org/parameters/1427,xʷaini-,beautiful
+213-228,aves1237,http://concepticon.clld.org/parameters/1562,manah-,mind
+213-440,aves1237,http://concepticon.clld.org/parameters/1415,man-,think (= reflect)
+213-476,aves1237,http://concepticon.clld.org/parameters/1415,čit-,think (= reflect)
+213-440,aves1237,http://concepticon.clld.org/parameters/1513,man-,think (= be of the opinion)
+213-703,aves1237,http://concepticon.clld.org/parameters/1890,zrazdā-,believe
+213-230,aves1237,http://concepticon.clld.org/parameters/1890,var-,believe
+213-731,aves1237,http://concepticon.clld.org/parameters/1536,aipi-aot-,understand
+213-603,aves1237,http://concepticon.clld.org/parameters/1410,vid-,know
+213-743,aves1237,http://concepticon.clld.org/parameters/1410,zan-,know
+213-419,aves1237,http://concepticon.clld.org/parameters/698,mązdra-,wise
+213-13,aves1237,http://concepticon.clld.org/parameters/698,dāθa-,wise
+213-564,aves1237,http://concepticon.clld.org/parameters/1518,adāθa-,"foolish, stupid"
+213-437,aves1237,http://concepticon.clld.org/parameters/504,sikš-,learn
+213-113,aves1237,http://concepticon.clld.org/parameters/709,daxš-,teach
+213-398,aves1237,http://concepticon.clld.org/parameters/709,sāh-,teach
+213-403,aves1237,http://concepticon.clld.org/parameters/709,čaš-,teach
+213-175,aves1237,http://concepticon.clld.org/parameters/709,xsā-,teach
+213-200,aves1237,http://concepticon.clld.org/parameters/709,sāčaya-,teach
+213-468,aves1237,http://concepticon.clld.org/parameters/753,aēθrya-,pupil
+213-551,aves1237,http://concepticon.clld.org/parameters/1038,aēθrapati-,teacher
+213-373,aves1237,http://concepticon.clld.org/parameters/1038,fradaxštar-,teacher
+213-679,aves1237,http://concepticon.clld.org/parameters/1038,čašan-,teacher
+213-510,aves1237,http://concepticon.clld.org/parameters/707,mar-,remember
+213-136,aves1237,http://concepticon.clld.org/parameters/707,mązdā-,remember
+213-174,aves1237,http://concepticon.clld.org/parameters/707,mand-,remember
+213-347,aves1237,http://concepticon.clld.org/parameters/989,čiθra-,"clear, plain"
+213-529,aves1237,http://concepticon.clld.org/parameters/1121,gūzra-,secret
+213-112,aves1237,http://concepticon.clld.org/parameters/1121,taya-,secret
+213-605,aves1237,http://concepticon.clld.org/parameters/1626,āzan- (?),explain
+213-561,aves1237,http://concepticon.clld.org/parameters/1162,xratu-,"intention, purpose"
+213-331,aves1237,http://concepticon.clld.org/parameters/1162,zaoša-,"intention, purpose"
+213-614,aves1237,http://concepticon.clld.org/parameters/1363,vāč-,voice
+213-426,aves1237,http://concepticon.clld.org/parameters/715,xraos-,"shout, cry out"
+213-329,aves1237,http://concepticon.clld.org/parameters/1623,vač-,"speak, talk"
+213-234,aves1237,http://concepticon.clld.org/parameters/1623,mrū-,"speak, talk"
+213-556,aves1237,http://concepticon.clld.org/parameters/1623,aoǰ-,"speak, talk"
+213-329,aves1237,http://concepticon.clld.org/parameters/1458,vač-,say
+213-234,aves1237,http://concepticon.clld.org/parameters/1458,mrū-,say
+213-556,aves1237,http://concepticon.clld.org/parameters/1458,aoǰ-,say
+213-284,aves1237,http://concepticon.clld.org/parameters/48,tušni-,silent (be)
+213-614,aves1237,http://concepticon.clld.org/parameters/1599,vāč-,word
+213-406,aves1237,http://concepticon.clld.org/parameters/1599,vačah-,word
+213-582,aves1237,http://concepticon.clld.org/parameters/1599,uxða-,word
+213-518,aves1237,http://concepticon.clld.org/parameters/1599,sravah-,word
+213-201,aves1237,http://concepticon.clld.org/parameters/1599,mąθra-,word
+213-152,aves1237,http://concepticon.clld.org/parameters/1405,nāman-,name
+213-637,aves1237,http://concepticon.clld.org/parameters/1405,nąman-,name
+213-126,aves1237,http://concepticon.clld.org/parameters/1309,fras-,"ask (question, inquire)"
+213-30,aves1237,http://concepticon.clld.org/parameters/1275,paiti-mrū-,answer
+213-496,aves1237,http://concepticon.clld.org/parameters/1828,ǰad-,"ask, request"
+213-466,aves1237,http://concepticon.clld.org/parameters/83,antarə-ā-mrū-,forbid
+213-61,aves1237,http://concepticon.clld.org/parameters/1084,zav-,call (=summon)
+213-35,aves1237,http://concepticon.clld.org/parameters/9,sąh-,announce
+213-556,aves1237,http://concepticon.clld.org/parameters/9,aoǰ-,announce
+213-225,aves1237,http://concepticon.clld.org/parameters/1192,avi-spas-,threaten
+213-387,aves1237,http://concepticon.clld.org/parameters/724,aiwi-ah-,read
+213-557,aves1237,http://concepticon.clld.org/parameters/1300,daiŋhu-,country
+213-521,aves1237,http://concepticon.clld.org/parameters/930,vīs-,village
+213-146,aves1237,http://concepticon.clld.org/parameters/1010,karana-,boundary
+213-557,aves1237,http://concepticon.clld.org/parameters/789,daiŋhu-,people (populace)
+213-598,aves1237,http://concepticon.clld.org/parameters/1846,xši-,"rule, govern"
+213-54,aves1237,http://concepticon.clld.org/parameters/1508,xšaya-,"king, ruler"
+213-275,aves1237,http://concepticon.clld.org/parameters/383,paiti-,master
+213-168,aves1237,http://concepticon.clld.org/parameters/255,vaēsa-,servant
+213-223,aves1237,http://concepticon.clld.org/parameters/1128,ništā-,"command, order"
+213-142,aves1237,http://concepticon.clld.org/parameters/1325,urvaθa-,"friend, companion"
+213-357,aves1237,http://concepticon.clld.org/parameters/1325,haxi-,"friend, companion"
+213-490,aves1237,http://concepticon.clld.org/parameters/1325,frya-,"friend, companion"
+213-248,aves1237,http://concepticon.clld.org/parameters/1358,dušmainyu-,enemy
+213-362,aves1237,http://concepticon.clld.org/parameters/1358,hamərəθa-,enemy
+213-552,aves1237,http://concepticon.clld.org/parameters/1897,av-,"help, aid"
+213-148,aves1237,http://concepticon.clld.org/parameters/1550,rud-,"hinder, prevent"
+213-705,aves1237,http://concepticon.clld.org/parameters/1848,mrvī-,"strife, quarrel"
+213-708,aves1237,http://concepticon.clld.org/parameters/1848,stəmba-,"strife, quarrel"
+213-42,aves1237,http://concepticon.clld.org/parameters/1610,ǰahi-,prostitute
+213-539,aves1237,http://concepticon.clld.org/parameters/1610,ǰahikā-,prostitute
+213-365,aves1237,http://concepticon.clld.org/parameters/1610,kūnāiri-,prostitute
+213-602,aves1237,http://concepticon.clld.org/parameters/1423,parət-,fight (vb)
+213-407,aves1237,http://concepticon.clld.org/parameters/1423,yud-,fight (vb)
+213-720,aves1237,http://concepticon.clld.org/parameters/579,pəšana-,"war, battle"
+213-352,aves1237,http://concepticon.clld.org/parameters/579,arəza-,"war, battle"
+213-348,aves1237,http://concepticon.clld.org/parameters/579,rə̄na-,"war, battle"
+213-55,aves1237,http://concepticon.clld.org/parameters/579,hamarəna-,"war, battle"
+213-190,aves1237,http://concepticon.clld.org/parameters/1338,āxšti-,peace
+213-209,aves1237,http://concepticon.clld.org/parameters/1561,haēnā-,army
+213-617,aves1237,http://concepticon.clld.org/parameters/1561,spāda-,army
+213-44,aves1237,http://concepticon.clld.org/parameters/1941,raθaēštar-,soldier
+213-676,aves1237,http://concepticon.clld.org/parameters/951,zaēna-,"weapons, arms"
+213-423,aves1237,http://concepticon.clld.org/parameters/951,zaya-,"weapons, arms"
+213-218,aves1237,http://concepticon.clld.org/parameters/951,snaiθiš-,"weapons, arms"
+213-465,aves1237,http://concepticon.clld.org/parameters/951,sōiðiš-,"weapons, arms"
+213-315,aves1237,http://concepticon.clld.org/parameters/1763,vazra-,club
+213-580,aves1237,http://concepticon.clld.org/parameters/1763,vadar,club
+213-115,aves1237,http://concepticon.clld.org/parameters/1763,gaðā-,club
+213-254,aves1237,http://concepticon.clld.org/parameters/387,fradaxšanā-,sling
+213-596,aves1237,http://concepticon.clld.org/parameters/994,θanvan-,bow
+213-706,aves1237,http://concepticon.clld.org/parameters/977,išu-,arrow
+213-698,aves1237,http://concepticon.clld.org/parameters/977,tiɣri-,arrow
+213-199,aves1237,http://concepticon.clld.org/parameters/977,ašti-,arrow
+213-68,aves1237,http://concepticon.clld.org/parameters/945,aršti-,spear
+213-262,aves1237,http://concepticon.clld.org/parameters/1535,karəta-,sword
+213-145,aves1237,http://concepticon.clld.org/parameters/1061,varəθa-,armor (defensive)
+213-283,aves1237,http://concepticon.clld.org/parameters/1680,xaoda-,helmet
+213-9,aves1237,http://concepticon.clld.org/parameters/1680,sāravāra-,helmet
+213-728,aves1237,http://concepticon.clld.org/parameters/783,vərəθraɣna-,victory
+213-435,aves1237,http://concepticon.clld.org/parameters/783,vanati-,victory
+213-485,aves1237,http://concepticon.clld.org/parameters/783,nivāti-,victory
+213-338,aves1237,http://concepticon.clld.org/parameters/722,draoman-,attack
+213-378,aves1237,http://concepticon.clld.org/parameters/1072,basta-,"captive, prisoner"
+213-390,aves1237,http://concepticon.clld.org/parameters/1062,aša-,law
+213-195,aves1237,http://concepticon.clld.org/parameters/1062,dāta-,law
+213-384,aves1237,http://concepticon.clld.org/parameters/1818,vī-či-,judge (vb)
+213-683,aves1237,http://concepticon.clld.org/parameters/1067,ratu-,judgment
+213-683,aves1237,http://concepticon.clld.org/parameters/861,ratu-,judge (noun)
+213-214,aves1237,http://concepticon.clld.org/parameters/1144,vīkaya-,witness
+213-548,aves1237,http://concepticon.clld.org/parameters/484,par-,condemn
+213-394,aves1237,http://concepticon.clld.org/parameters/390,čiθā-,"penalty, punishment"
+213-267,aves1237,http://concepticon.clld.org/parameters/390,kaēnā-,"penalty, punishment"
+213-394,aves1237,http://concepticon.clld.org/parameters/218,čiθā-,fine
+213-486,aves1237,http://concepticon.clld.org/parameters/1281,grāfa-,"prison, jail"
+213-632,aves1237,http://concepticon.clld.org/parameters/845,ǰə̄nərā-,murder
+213-685,aves1237,http://concepticon.clld.org/parameters/713,tarəp-,steal
+213-250,aves1237,http://concepticon.clld.org/parameters/1160,tāyu-,thief
+213-313,aves1237,http://concepticon.clld.org/parameters/661,daēnā-,religion
+213-413,aves1237,http://concepticon.clld.org/parameters/1944,baɣa-,God
+213-155,aves1237,http://concepticon.clld.org/parameters/1103,yasna-,"sacrifice, offering"
+213-207,aves1237,http://concepticon.clld.org/parameters/1103,zaoθrā-,"sacrifice, offering"
+213-31,aves1237,http://concepticon.clld.org/parameters/257,yaz-,worship
+213-737,aves1237,http://concepticon.clld.org/parameters/24,frī-,pray
+213-630,aves1237,http://concepticon.clld.org/parameters/852,āθravan-,priest
+213-211,aves1237,http://concepticon.clld.org/parameters/852,zaotar-,priest
+213-616,aves1237,http://concepticon.clld.org/parameters/1702,spənta-,"holy, sacred"
+213-6,aves1237,http://concepticon.clld.org/parameters/391,(ā)frī-,bless
+213-61,aves1237,http://concepticon.clld.org/parameters/8,zav-,curse
+213-422,aves1237,http://concepticon.clld.org/parameters/8,āfrī-,curse
+213-280,aves1237,http://concepticon.clld.org/parameters/1565,garō dəmāna-,heaven
+213-149,aves1237,http://concepticon.clld.org/parameters/1565,vaŋheuš dəmāna-,heaven
+213-163,aves1237,http://concepticon.clld.org/parameters/878,drūjō dəmāna-,hell
+213-217,aves1237,http://concepticon.clld.org/parameters/1973,daēva-,demon (evil spirit)
+213-132,aves1237,http://concepticon.clld.org/parameters/392,yātu-,"magic, witchcraft, sorcery"
+213-622,aves1237,http://concepticon.clld.org/parameters/2137,ǰahī- ~ ǰahikā,"sorcerer, witch"
+213-125,aves1237,http://concepticon.clld.org/parameters/2137,yātumaitī-,"sorcerer, witch"
+213-160,aves1237,http://concepticon.clld.org/parameters/2137,pairikā-,"sorcerer, witch"

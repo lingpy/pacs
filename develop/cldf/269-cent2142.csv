@@ -1,0 +1,1027 @@
+ID,Language_ID,Feature_ID,Value,Concept
+269-225,cent2142,http://concepticon.clld.org/parameters/626,uraḳi,"earth, land"
+269-225,cent2142,http://concepticon.clld.org/parameters/1228,uraḳi,"earth=ground, soil"
+269-878,cent2142,http://concepticon.clld.org/parameters/2,laḳˀa,dust
+269-756,cent2142,http://concepticon.clld.org/parameters/640,ɲiḳˀi,mud
+269-322,cent2142,http://concepticon.clld.org/parameters/671,čˀalʸa,sand
+269-162,cent2142,http://concepticon.clld.org/parameters/2118,ḳulʸu,"mountain, hill"
+269-532,cent2142,http://concepticon.clld.org/parameters/652,pampa,"plain, field"
+269-743,cent2142,http://concepticon.clld.org/parameters/921,ḳʰirwa,valley
+269-675,cent2142,http://concepticon.clld.org/parameters/622,[isla],island
+269-220,cent2142,http://concepticon.clld.org/parameters/113,ḳuta laka,shore
+269-767,cent2142,http://concepticon.clld.org/parameters/1155,tixi,cave
+269-747,cent2142,http://concepticon.clld.org/parameters/948,uma,water
+269-76,cent2142,http://concepticon.clld.org/parameters/1474,[lamara],sea
+269-695,cent2142,http://concepticon.clld.org/parameters/1768,xupʰuḳu,foam
+269-635,cent2142,http://concepticon.clld.org/parameters/645,mama-ḳuta,ocean
+269-273,cent2142,http://concepticon.clld.org/parameters/624,ḳuta,lake
+269-729,cent2142,http://concepticon.clld.org/parameters/623,ḳuta-ɲa,lagoon
+269-629,cent2142,http://concepticon.clld.org/parameters/978,uxi,wave
+269-329,cent2142,http://concepticon.clld.org/parameters/666,xawira,"river, stream, brook"
+269-59,cent2142,http://concepticon.clld.org/parameters/2144,pʰučˀu,"spring, well"
+269-795,cent2142,http://concepticon.clld.org/parameters/1145,pʰusu,swamp
+269-778,cent2142,http://concepticon.clld.org/parameters/1145,ḳʰuči,swamp
+269-666,cent2142,http://concepticon.clld.org/parameters/943,pʰaxča,waterfall
+269-383,cent2142,http://concepticon.clld.org/parameters/420,čˀumi,"woods, forest"
+269-674,cent2142,http://concepticon.clld.org/parameters/906,ḳuḳa,tree (cf 08.600)
+269-3,cent2142,http://concepticon.clld.org/parameters/906,ali,tree (cf 08.600)
+269-819,cent2142,http://concepticon.clld.org/parameters/1803,kˀulʸu,wood
+269-566,cent2142,http://concepticon.clld.org/parameters/2125,ḳala,"stone, rock"
+269-403,cent2142,http://concepticon.clld.org/parameters/2125,ḳarḳa,"stone, rock"
+269-437,cent2142,http://concepticon.clld.org/parameters/1732,alax-pača,sky
+269-157,cent2142,http://concepticon.clld.org/parameters/1732,laḳampu,sky
+269-791,cent2142,http://concepticon.clld.org/parameters/1343,inti,sun
+269-458,cent2142,http://concepticon.clld.org/parameters/1343,wilʸka,sun
+269-527,cent2142,http://concepticon.clld.org/parameters/1313,pʰaxsi,moon
+269-905,cent2142,http://concepticon.clld.org/parameters/1430,wara-wara,star
+269-344,cent2142,http://concepticon.clld.org/parameters/1654,ḳˀixu-ḳˀixu,lightning
+269-573,cent2142,http://concepticon.clld.org/parameters/2007,lʸixu-lʸixu,lightning (as striking)
+269-350,cent2142,http://concepticon.clld.org/parameters/858,wayra,storm
+269-851,cent2142,http://concepticon.clld.org/parameters/1733,kuurmi,rainbow
+269-691,cent2142,http://concepticon.clld.org/parameters/630,ḳʰana,light (noun)
+269-702,cent2142,http://concepticon.clld.org/parameters/11,čˀamaka,darkness
+269-455,cent2142,http://concepticon.clld.org/parameters/1388,čˀiwi,"shade, shadow"
+269-415,cent2142,http://concepticon.clld.org/parameters/1977,sulʸa,dew
+269-546,cent2142,http://concepticon.clld.org/parameters/960,tʰaya,wind
+269-130,cent2142,http://concepticon.clld.org/parameters/1489,ḳinaya,cloud
+269-781,cent2142,http://concepticon.clld.org/parameters/249,urpu,fog
+269-741,cent2142,http://concepticon.clld.org/parameters/658,xalʸu,rain (noun)
+269-768,cent2142,http://concepticon.clld.org/parameters/784,kʰunu,snow (noun)
+269-306,cent2142,http://concepticon.clld.org/parameters/617,čʰulʸunkʰiya,ice
+269-166,cent2142,http://concepticon.clld.org/parameters/221,nina,fire
+269-95,cent2142,http://concepticon.clld.org/parameters/889,lapʰaḳi,flame (noun)
+269-347,cent2142,http://concepticon.clld.org/parameters/778,xiḳˀi,smoke (noun)
+269-13,cent2142,http://concepticon.clld.org/parameters/646,ḳʰilʸa,ashes
+269-388,cent2142,http://concepticon.clld.org/parameters/67,sankˀa,embers
+269-689,cent2142,http://concepticon.clld.org/parameters/141,pʰičʰaɲa,burn (vb trans)
+269-521,cent2142,http://concepticon.clld.org/parameters/1428,nakʰaɲa,burn (vb intrans)
+269-744,cent2142,http://concepticon.clld.org/parameters/737,nakta-ɲa,"light, kindle, ignite"
+269-402,cent2142,http://concepticon.clld.org/parameters/127,xiwaḳaya-ɲa,extinguish
+269-900,cent2142,http://concepticon.clld.org/parameters/1133,[pʰuspʰuru],match (noun)
+269-901,cent2142,http://concepticon.clld.org/parameters/10,pʰaya-ɲa-lawa,firewood
+269-126,cent2142,http://concepticon.clld.org/parameters/1188,kˀilʸima,charcoal
+269-530,cent2142,http://concepticon.clld.org/parameters/683,xaḳi,"person, human being"
+269-441,cent2142,http://concepticon.clld.org/parameters/1554,čača,man (vs. woman)
+269-868,cent2142,http://concepticon.clld.org/parameters/962,warmi,woman
+269-113,cent2142,http://concepticon.clld.org/parameters/2263,urḳu,male
+269-650,cent2142,http://concepticon.clld.org/parameters/2260,ḳaču,female
+269-769,cent2142,http://concepticon.clld.org/parameters/1366,maxtˀa,boy
+269-525,cent2142,http://concepticon.clld.org/parameters/1366,yuḳalʸa,boy
+269-479,cent2142,http://concepticon.clld.org/parameters/76,wayna,young man (adolescent)
+269-827,cent2142,http://concepticon.clld.org/parameters/1646,imilʸa,girl
+269-728,cent2142,http://concepticon.clld.org/parameters/77,tawaḳu,young woman (adolescent)
+269-230,cent2142,http://concepticon.clld.org/parameters/1304,wawa,child
+269-230,cent2142,http://concepticon.clld.org/parameters/1289,wawa,"infant, baby"
+269-441,cent2142,http://concepticon.clld.org/parameters/1200,čača,husband
+269-868,cent2142,http://concepticon.clld.org/parameters/1199,warmi,wife
+269-680,cent2142,http://concepticon.clld.org/parameters/203,xaḳi-časi-ɲa,marry
+269-522,cent2142,http://concepticon.clld.org/parameters/1259,xaḳi-časiwi,"marriage, wedding"
+269-231,cent2142,http://concepticon.clld.org/parameters/1134,xarxta-ɲa,divorce
+269-804,cent2142,http://concepticon.clld.org/parameters/1217,awki,father
+269-354,cent2142,http://concepticon.clld.org/parameters/1217,tata,father
+269-835,cent2142,http://concepticon.clld.org/parameters/1216,tayka,mother
+269-376,cent2142,http://concepticon.clld.org/parameters/1216,mama,mother
+269-845,cent2142,http://concepticon.clld.org/parameters/505,awki-naka,parents
+269-226,cent2142,http://concepticon.clld.org/parameters/424,warmina xaḳi,married man
+269-461,cent2142,http://concepticon.clld.org/parameters/426,čačani warmi,married woman
+269-105,cent2142,http://concepticon.clld.org/parameters/1620,yuḳa,son
+269-352,cent2142,http://concepticon.clld.org/parameters/1620,yuḳalʸa wawa,son
+269-870,cent2142,http://concepticon.clld.org/parameters/1357,pʰuča,daughter
+269-356,cent2142,http://concepticon.clld.org/parameters/1357,imilʸa wawa,daughter
+269-353,cent2142,http://concepticon.clld.org/parameters/1262,xila,brother
+269-634,cent2142,http://concepticon.clld.org/parameters/1759,xiliiri xila,older brother
+269-191,cent2142,http://concepticon.clld.org/parameters/1760,sulʸkiri xila,younger brother
+269-632,cent2142,http://concepticon.clld.org/parameters/1263,kulʸaka,sister
+269-110,cent2142,http://concepticon.clld.org/parameters/1758,xiliiri kulʸaka,older sister
+269-345,cent2142,http://concepticon.clld.org/parameters/1761,sulʸkiri kulʸaka,younger sister
+269-353,cent2142,http://concepticon.clld.org/parameters/1640,xila,sibling
+269-632,cent2142,http://concepticon.clld.org/parameters/1640,kulʸaka,sibling
+269-318,cent2142,http://concepticon.clld.org/parameters/1005,ispa,twins
+269-662,cent2142,http://concepticon.clld.org/parameters/1005,ispalʸa,twins
+269-416,cent2142,http://concepticon.clld.org/parameters/1383,ačila,grandfather
+269-636,cent2142,http://concepticon.clld.org/parameters/406,awki-xaḳi,old man
+269-541,cent2142,http://concepticon.clld.org/parameters/406,awkili,old man
+269-677,cent2142,http://concepticon.clld.org/parameters/1496,awiča,grandmother
+269-621,cent2142,http://concepticon.clld.org/parameters/907,tayka warmi,old woman
+269-745,cent2142,http://concepticon.clld.org/parameters/907,taykali,old woman
+269-337,cent2142,http://concepticon.clld.org/parameters/1618,alʸčʰi,grandson
+269-337,cent2142,http://concepticon.clld.org/parameters/1619,alʸčʰi,granddaughter
+269-19,cent2142,http://concepticon.clld.org/parameters/1327,tiwula,uncle
+269-815,cent2142,http://concepticon.clld.org/parameters/1272,ipata,aunt
+269-27,cent2142,http://concepticon.clld.org/parameters/1272,laḳusita,aunt
+269-498,cent2142,http://concepticon.clld.org/parameters/1063,[suwrinu],nephew
+269-498,cent2142,http://concepticon.clld.org/parameters/1642,[suwrinu],niece
+269-299,cent2142,http://concepticon.clld.org/parameters/1643,xilata,cousin
+269-178,cent2142,http://concepticon.clld.org/parameters/1669,ačačila,ancestors
+269-642,cent2142,http://concepticon.clld.org/parameters/2255,awkčˀi,father-in-law (of a man)
+269-187,cent2142,http://concepticon.clld.org/parameters/2256,taykčˀi,mother-in-law (of a man)
+269-672,cent2142,http://concepticon.clld.org/parameters/2267,tulʸḳa,son-in-law (of a man)
+269-28,cent2142,http://concepticon.clld.org/parameters/2265,yuxčˀa,daughter-in-law (of a man)
+269-444,cent2142,http://concepticon.clld.org/parameters/237,ḳʰipa awki,stepfather
+269-332,cent2142,http://concepticon.clld.org/parameters/236,ḳʰipa tayka,stepmother
+269-292,cent2142,http://concepticon.clld.org/parameters/1149,iɲu,orphan
+269-814,cent2142,http://concepticon.clld.org/parameters/1149,waxča,orphan
+269-667,cent2142,http://concepticon.clld.org/parameters/1756,ixma,widow
+269-169,cent2142,http://concepticon.clld.org/parameters/1644,[parinti],"relatives, kinsmen"
+269-832,cent2142,http://concepticon.clld.org/parameters/194,uta,family
+269-593,cent2142,http://concepticon.clld.org/parameters/1209,naya,I
+269-339,cent2142,http://concepticon.clld.org/parameters/1215,xuma,you (singular)
+269-7,cent2142,http://concepticon.clld.org/parameters/262,xupa,he/she/it
+269-265,cent2142,http://concepticon.clld.org/parameters/1212,nanaka,we
+269-418,cent2142,http://concepticon.clld.org/parameters/1131,xiwasa,we (inclusive)
+269-265,cent2142,http://concepticon.clld.org/parameters/1130,nanaka,we (exclusive)
+269-776,cent2142,http://concepticon.clld.org/parameters/1213,xumamaka,you (plural)
+269-523,cent2142,http://concepticon.clld.org/parameters/817,xupanaka,they
+269-774,cent2142,http://concepticon.clld.org/parameters/619,uywa,animal
+269-804,cent2142,http://concepticon.clld.org/parameters/2261,awki,male (adj)
+269-835,cent2142,http://concepticon.clld.org/parameters/2262,tayka,female (adj)
+269-774,cent2142,http://concepticon.clld.org/parameters/631,uywa,livestock
+269-395,cent2142,http://concepticon.clld.org/parameters/263,awatiri,herdsman
+269-427,cent2142,http://concepticon.clld.org/parameters/851,uyu,"stable, stall"
+269-774,cent2142,http://concepticon.clld.org/parameters/1153,uywa,cattle (bovine)
+269-15,cent2142,http://concepticon.clld.org/parameters/1007,[waka],cow
+269-39,cent2142,http://concepticon.clld.org/parameters/1331,[uwixa,sheep
+269-760,cent2142,http://concepticon.clld.org/parameters/1331,iwisa],sheep
+269-72,cent2142,http://concepticon.clld.org/parameters/1345,puytu,ewe
+269-490,cent2142,http://concepticon.clld.org/parameters/1351,kʰuči,sow (2)
+269-490,cent2142,http://concepticon.clld.org/parameters/1337,kʰuči,pig
+269-903,cent2142,http://concepticon.clld.org/parameters/1502,[čiwa],goat
+269-363,cent2142,http://concepticon.clld.org/parameters/615,[kawalʸu],horse (equine)
+269-301,cent2142,http://concepticon.clld.org/parameters/1862,[asnu],"ass, donkey"
+269-182,cent2142,http://concepticon.clld.org/parameters/890,[mula],mule
+269-160,cent2142,http://concepticon.clld.org/parameters/265,xamačˀi,fowl
+269-717,cent2142,http://concepticon.clld.org/parameters/1511,kˀankˀa,"cock, rooster"
+269-196,cent2142,http://concepticon.clld.org/parameters/1514,walʸpa,hen
+269-224,cent2142,http://concepticon.clld.org/parameters/1318,čʰiwčʰi,chicken
+269-694,cent2142,http://concepticon.clld.org/parameters/1360,pili,duck
+269-476,cent2142,http://concepticon.clld.org/parameters/539,tapa,nest
+269-160,cent2142,http://concepticon.clld.org/parameters/937,xamačˀi,bird
+269-823,cent2142,http://concepticon.clld.org/parameters/1905,paka,eagle
+269-602,cent2142,http://concepticon.clld.org/parameters/307,mamani,hawk
+269-121,cent2142,http://concepticon.clld.org/parameters/1185,siwiḳˀara,vulture
+269-202,cent2142,http://concepticon.clld.org/parameters/1793,čiɲi,bat
+269-438,cent2142,http://concepticon.clld.org/parameters/882,kˀalʸa,parrot
+269-61,cent2142,http://concepticon.clld.org/parameters/1853,urpila,dove
+269-203,cent2142,http://concepticon.clld.org/parameters/1853,kʰulʸkutaya,dove
+269-11,cent2142,http://concepticon.clld.org/parameters/735,čˀusiḳa,owl
+269-406,cent2142,http://concepticon.clld.org/parameters/2009,anu,dog
+269-143,cent2142,http://concepticon.clld.org/parameters/1136,wankˀu,rabbit
+269-648,cent2142,http://concepticon.clld.org/parameters/1208,pʰisi,cat
+269-239,cent2142,http://concepticon.clld.org/parameters/1208,misi,cat
+269-184,cent2142,http://concepticon.clld.org/parameters/309,ačupalʸa,opossum
+269-653,cent2142,http://concepticon.clld.org/parameters/2139,ačaku,"mouse, rat"
+269-397,cent2142,http://concepticon.clld.org/parameters/227,čawlʸa,fish
+269-45,cent2142,http://concepticon.clld.org/parameters/266,lʸuχi,fishscale
+269-45,cent2142,http://concepticon.clld.org/parameters/598,lʸuχi,shell
+269-578,cent2142,http://concepticon.clld.org/parameters/1386,liwuna,lion
+269-907,cent2142,http://concepticon.clld.org/parameters/1820,xukumari,bear
+269-55,cent2142,http://concepticon.clld.org/parameters/1312,ḳamaḳi,fox
+269-102,cent2142,http://concepticon.clld.org/parameters/1936,taruka,deer
+269-897,cent2142,http://concepticon.clld.org/parameters/1350,kˀusilʸu,monkey
+269-535,cent2142,http://concepticon.clld.org/parameters/1290,[ilipʰanti],elephant
+269-119,cent2142,http://concepticon.clld.org/parameters/1871,[kamilʸu],camel
+269-887,cent2142,http://concepticon.clld.org/parameters/620,laḳˀu,insect
+269-719,cent2142,http://concepticon.clld.org/parameters/310,lapˀa,louse
+269-478,cent2142,http://concepticon.clld.org/parameters/267,čˀiɲi,nit (louse egg)
+269-809,cent2142,http://concepticon.clld.org/parameters/232,kˀuti,flea
+269-342,cent2142,http://concepticon.clld.org/parameters/1974,warisana,centipede
+269-748,cent2142,http://concepticon.clld.org/parameters/587,kˀusiwalʸu,ant
+269-799,cent2142,http://concepticon.clld.org/parameters/843,kusi-kusi,spider
+269-228,cent2142,http://concepticon.clld.org/parameters/1065,lʸika,spider web
+269-368,cent2142,http://concepticon.clld.org/parameters/665,wayrunḳu,bee
+269-780,cent2142,http://concepticon.clld.org/parameters/1931,mapˀa,beeswax
+269-37,cent2142,http://concepticon.clld.org/parameters/1517,pankataya,wasp
+269-563,cent2142,http://concepticon.clld.org/parameters/1504,čʰičʰilʸankʰa,fly
+269-34,cent2142,http://concepticon.clld.org/parameters/95,čˀuspi,"sandfly (midge), gnat"
+269-426,cent2142,http://concepticon.clld.org/parameters/1219,silʸḳˀu,worm
+269-234,cent2142,http://concepticon.clld.org/parameters/730,asiru,snake
+269-194,cent2142,http://concepticon.clld.org/parameters/1791,pilpintu,butterfly
+269-678,cent2142,http://concepticon.clld.org/parameters/607,tˀixu-tˀixu,grasshopper
+269-333,cent2142,http://concepticon.clld.org/parameters/1543,čˀuru,snail
+269-132,cent2142,http://concepticon.clld.org/parameters/503,kˀayra,frog
+269-456,cent2142,http://concepticon.clld.org/parameters/632,sutuwalʸu xararankʰu,lizard
+269-88,cent2142,http://concepticon.clld.org/parameters/1857,[ḳuḳutrilʸu],"crocodile, alligator"
+269-802,cent2142,http://concepticon.clld.org/parameters/112,[turtuka],turtle
+269-757,cent2142,http://concepticon.clld.org/parameters/1480,xanči,body
+269-423,cent2142,http://concepticon.clld.org/parameters/763,lipˀiči,"skin, hide"
+269-485,cent2142,http://concepticon.clld.org/parameters/2259,ayča,flesh
+269-320,cent2142,http://concepticon.clld.org/parameters/1040,ɲikˀuta,hair (head)
+269-374,cent2142,http://concepticon.clld.org/parameters/678,sunkʰa,beard
+269-54,cent2142,http://concepticon.clld.org/parameters/189,tˀarwa,body hair
+269-242,cent2142,http://concepticon.clld.org/parameters/36,čˀina tˀarwa,pubic hair
+269-249,cent2142,http://concepticon.clld.org/parameters/36,alʸu tˀarwa,pubic hair
+269-613,cent2142,http://concepticon.clld.org/parameters/946,wila,blood
+269-2,cent2142,http://concepticon.clld.org/parameters/525,sirka,"vein, artery"
+269-463,cent2142,http://concepticon.clld.org/parameters/1394,čˀakʰa,bone
+269-733,cent2142,http://concepticon.clld.org/parameters/801,xarapi,rib
+269-520,cent2142,http://concepticon.clld.org/parameters/1393,waχra,horn
+269-445,cent2142,http://concepticon.clld.org/parameters/1220,wičˀinkʰa,tail
+269-325,cent2142,http://concepticon.clld.org/parameters/1291,ati,back
+269-414,cent2142,http://concepticon.clld.org/parameters/805,xikʰani,spine
+269-834,cent2142,http://concepticon.clld.org/parameters/1256,pˀiḳi,head
+269-590,cent2142,http://concepticon.clld.org/parameters/1583,liχwi,brain
+269-309,cent2142,http://concepticon.clld.org/parameters/1560,axanu,face
+269-370,cent2142,http://concepticon.clld.org/parameters/123,para,forehead
+269-366,cent2142,http://concepticon.clld.org/parameters/798,aankʰa,jaw
+269-646,cent2142,http://concepticon.clld.org/parameters/1730,[mixilʸa],cheek
+269-323,cent2142,http://concepticon.clld.org/parameters/1248,nayra,eye
+269-670,cent2142,http://concepticon.clld.org/parameters/1173,nayra pʰičʰu,eyebrow
+269-534,cent2142,http://concepticon.clld.org/parameters/17,nayra lipˀiči,eyelid
+269-328,cent2142,http://concepticon.clld.org/parameters/1540,čˀipʰuḳu,eyelash
+269-517,cent2142,http://concepticon.clld.org/parameters/1655,čˀipʰuḳi-ɲa,blink
+269-886,cent2142,http://concepticon.clld.org/parameters/1247,xinču,ear
+269-904,cent2142,http://concepticon.clld.org/parameters/1221,nasa,nose
+269-300,cent2142,http://concepticon.clld.org/parameters/1178,pˀiya,nostril
+269-831,cent2142,http://concepticon.clld.org/parameters/208,xurma,mucus (nasal)
+269-685,cent2142,http://concepticon.clld.org/parameters/674,laka,mouth
+269-436,cent2142,http://concepticon.clld.org/parameters/73,suru,beak
+269-628,cent2142,http://concepticon.clld.org/parameters/478,ispilʸu,lip
+269-247,cent2142,http://concepticon.clld.org/parameters/1205,laχra,tongue
+269-860,cent2142,http://concepticon.clld.org/parameters/1380,laka čˀakʰa,tooth
+269-847,cent2142,http://concepticon.clld.org/parameters/1049,aḳu,molartooth
+269-254,cent2142,http://concepticon.clld.org/parameters/1333,kunka,neck
+269-325,cent2142,http://concepticon.clld.org/parameters/1347,ati,nape of neck
+269-115,cent2142,http://concepticon.clld.org/parameters/1346,tˀulʸu,throat
+269-789,cent2142,http://concepticon.clld.org/parameters/1482,kalʸači,shoulder
+269-206,cent2142,http://concepticon.clld.org/parameters/1673,ampara,arm
+269-638,cent2142,http://concepticon.clld.org/parameters/1886,čʰiḳʰanḳara,armpit
+269-840,cent2142,http://concepticon.clld.org/parameters/981,muxlʸi,elbow
+269-206,cent2142,http://concepticon.clld.org/parameters/1277,ampara,hand
+269-825,cent2142,http://concepticon.clld.org/parameters/1183,ampara tˀaχlʸi,palm of hand
+269-145,cent2142,http://concepticon.clld.org/parameters/1303,lukˀana,finger
+269-50,cent2142,http://concepticon.clld.org/parameters/1781,tayka lukˀana,thumb
+269-765,cent2142,http://concepticon.clld.org/parameters/1258,silʸu,fingernail
+269-446,cent2142,http://concepticon.clld.org/parameters/1297,čara,leg
+269-446,cent2142,http://concepticon.clld.org/parameters/800,čara,thigh
+269-727,cent2142,http://concepticon.clld.org/parameters/498,tˀusu,calf of leg
+269-548,cent2142,http://concepticon.clld.org/parameters/1371,ḳunḳuri,knee
+269-422,cent2142,http://concepticon.clld.org/parameters/1301,kayu,foot
+269-524,cent2142,http://concepticon.clld.org/parameters/803,kayu muḳu,ankle
+269-75,cent2142,http://concepticon.clld.org/parameters/980,kayu wintu,heel
+269-257,cent2142,http://concepticon.clld.org/parameters/1389,kayu lukˀana,toe
+269-341,cent2142,http://concepticon.clld.org/parameters/1257,čʰiḳʰa,wing
+269-183,cent2142,http://concepticon.clld.org/parameters/1201,pʰuyu,feather
+269-127,cent2142,http://concepticon.clld.org/parameters/1592,ɲuɲu,chest
+269-127,cent2142,http://concepticon.clld.org/parameters/1402,ɲuɲu,breast (of woman)
+269-127,cent2142,http://concepticon.clld.org/parameters/796,ɲuɲu,"nipple, teat"
+269-127,cent2142,http://concepticon.clld.org/parameters/154,ɲuɲu,udder
+269-600,cent2142,http://concepticon.clld.org/parameters/1838,kururu,navel
+269-129,cent2142,http://concepticon.clld.org/parameters/1223,lʸuḳu,heart
+269-784,cent2142,http://concepticon.clld.org/parameters/688,čuyma,lung
+269-430,cent2142,http://concepticon.clld.org/parameters/1224,kˀiwča,liver
+269-639,cent2142,http://concepticon.clld.org/parameters/489,maymuru,kidney
+269-540,cent2142,http://concepticon.clld.org/parameters/1744,xačˀa xankʰara,spleen
+269-69,cent2142,http://concepticon.clld.org/parameters/819,pʰatanka,stomach
+269-375,cent2142,http://concepticon.clld.org/parameters/1991,xipʰilʸa,"intestines, guts"
+269-311,cent2142,http://concepticon.clld.org/parameters/1681,čˀilʸa,waist
+269-97,cent2142,http://concepticon.clld.org/parameters/1745,tʰiχni,hip
+269-384,cent2142,http://concepticon.clld.org/parameters/834,čˀina,buttocks
+269-336,cent2142,http://concepticon.clld.org/parameters/804,xakaɲa,womb
+269-552,cent2142,http://concepticon.clld.org/parameters/797,ḳˀuruta,testicle
+269-884,cent2142,http://concepticon.clld.org/parameters/1222,alʸu,penis
+269-597,cent2142,http://concepticon.clld.org/parameters/1028,aysa-ɲa,"yawn, gape"
+269-380,cent2142,http://concepticon.clld.org/parameters/162,xikˀu,hiccough
+269-830,cent2142,http://concepticon.clld.org/parameters/879,čˀuχu-ɲa,cough
+269-278,cent2142,http://concepticon.clld.org/parameters/1621,xačˀista-ɲa,sneeze
+269-91,cent2142,http://concepticon.clld.org/parameters/126,xumpˀi-ɲa,perspire
+269-140,cent2142,http://concepticon.clld.org/parameters/1440,tʰusa-ɲa,spit
+269-167,cent2142,http://concepticon.clld.org/parameters/1278,waḳˀaḳi-ɲa,vomit
+269-909,cent2142,http://concepticon.clld.org/parameters/1403,ačuḳa-ɲa,bite
+269-698,cent2142,http://concepticon.clld.org/parameters/319,xalʸḳˀa-ɲa,lick
+269-338,cent2142,http://concepticon.clld.org/parameters/268,čˀaḳa-ɲa,dribble
+269-81,cent2142,http://concepticon.clld.org/parameters/1585,iki-ɲa,sleep
+269-22,cent2142,http://concepticon.clld.org/parameters/1983,ḳʰurḳʰu-ɲa,snore
+269-542,cent2142,http://concepticon.clld.org/parameters/1920,iki,dream
+269-107,cent2142,http://concepticon.clld.org/parameters/1602,sartχa-ɲa,wake up
+269-112,cent2142,http://concepticon.clld.org/parameters/1159,sira,break wind
+269-420,cent2142,http://concepticon.clld.org/parameters/592,čʰuχu-ɲa,urinate
+269-390,cent2142,http://concepticon.clld.org/parameters/676,xama-ɲa,defecate
+269-258,cent2142,http://concepticon.clld.org/parameters/676,yaḳˀa-ɲa,defecate
+269-838,cent2142,http://concepticon.clld.org/parameters/1785,aniɲa,have sexual intercourse
+269-891,cent2142,http://concepticon.clld.org/parameters/1785,anisiɲa,have sexual intercourse
+269-148,cent2142,http://concepticon.clld.org/parameters/52,kʰatʰati-ɲa,shiver
+269-185,cent2142,http://concepticon.clld.org/parameters/138,xarisi-ɲa,bathe
+269-204,cent2142,http://concepticon.clld.org/parameters/1152,katu-ɲa,beget (of father)
+269-125,cent2142,http://concepticon.clld.org/parameters/1090,yuri-ɲa,born (to be)
+269-365,cent2142,http://concepticon.clld.org/parameters/1123,walʸḳˀi,pregnant
+269-303,cent2142,http://concepticon.clld.org/parameters/1422,xaka-ɲa,"live, living, life"
+269-217,cent2142,http://concepticon.clld.org/parameters/1494,xiwata,"die, dead"
+269-377,cent2142,http://concepticon.clld.org/parameters/1494,xiwa-ɲa,"die, dead"
+269-83,cent2142,http://concepticon.clld.org/parameters/1417,xiwaya-ɲa,kill
+269-217,cent2142,http://concepticon.clld.org/parameters/767,xiwata,corpse
+269-215,cent2142,http://concepticon.clld.org/parameters/767,amaya,corpse
+269-584,cent2142,http://concepticon.clld.org/parameters/1719,imanta-ɲa,bury (the dead)
+269-215,cent2142,http://concepticon.clld.org/parameters/1773,amaya,"grave, tomb"
+269-272,cent2142,http://concepticon.clld.org/parameters/785,čˀamani,"strong, mighty, powerful"
+269-98,cent2142,http://concepticon.clld.org/parameters/1601,lʸaytʰa,weak
+269-321,cent2142,http://concepticon.clld.org/parameters/1364,kˀumara,"well, health"
+269-537,cent2142,http://concepticon.clld.org/parameters/1847,usuta,"sick, sickness"
+269-136,cent2142,http://concepticon.clld.org/parameters/1847,usu,"sick, sickness"
+269-630,cent2142,http://concepticon.clld.org/parameters/1534,čʰuxčʰu,fever
+269-489,cent2142,http://concepticon.clld.org/parameters/1957,ḳˀutu,goiter
+269-526,cent2142,http://concepticon.clld.org/parameters/1109,usučata,"wound, sore"
+269-274,cent2142,http://concepticon.clld.org/parameters/1903,pˀusu,swelling
+269-120,cent2142,http://concepticon.clld.org/parameters/148,xasi,itch
+269-53,cent2142,http://concepticon.clld.org/parameters/1584,pukulʸu,blister
+269-507,cent2142,http://concepticon.clld.org/parameters/793,xinḳˀi,boil (noun)
+269-238,cent2142,http://concepticon.clld.org/parameters/497,tˀiri,scar
+269-114,cent2142,http://concepticon.clld.org/parameters/499,ḳulʸa-ɲa,"cure, heal"
+269-508,cent2142,http://concepticon.clld.org/parameters/597,ḳulʸiri,physician
+269-326,cent2142,http://concepticon.clld.org/parameters/1372,ḳulʸa,"medicine, drug"
+269-326,cent2142,http://concepticon.clld.org/parameters/655,ḳulʸa,poison
+269-198,cent2142,http://concepticon.clld.org/parameters/1757,ḳarita,"tired, weary"
+269-210,cent2142,http://concepticon.clld.org/parameters/1757,ḳari-ɲa,"tired, weary"
+269-826,cent2142,http://concepticon.clld.org/parameters/168,samara-ɲa,rest
+269-889,cent2142,http://concepticon.clld.org/parameters/1564,xayra,lazy
+269-407,cent2142,http://concepticon.clld.org/parameters/1125,ḳˀara,bald
+269-617,cent2142,http://concepticon.clld.org/parameters/320,wiχču,lame
+269-649,cent2142,http://concepticon.clld.org/parameters/996,uḳara,deaf
+269-704,cent2142,http://concepticon.clld.org/parameters/1666,amutu,mute
+269-276,cent2142,http://concepticon.clld.org/parameters/1653,xuykʰu,blind
+269-518,cent2142,http://concepticon.clld.org/parameters/1463,umata,intoxicated
+269-474,cent2142,http://concepticon.clld.org/parameters/590,ḳˀalanču,"naked, bare"
+269-470,cent2142,http://concepticon.clld.org/parameters/1336,manḳˀa-ɲa,eat
+269-472,cent2142,http://concepticon.clld.org/parameters/256,manḳˀa,food
+269-605,cent2142,http://concepticon.clld.org/parameters/269,pʰayata,cooked
+269-794,cent2142,http://concepticon.clld.org/parameters/1959,čˀuḳi,raw
+269-585,cent2142,http://concepticon.clld.org/parameters/178,puḳuta,ripe
+269-601,cent2142,http://concepticon.clld.org/parameters/1958,čˀuχ-ɲa,"green, unripe"
+269-432,cent2142,http://concepticon.clld.org/parameters/1728,ɲusata,rotten
+269-858,cent2142,http://concepticon.clld.org/parameters/1401,uma-ɲa,drink
+269-424,cent2142,http://concepticon.clld.org/parameters/1533,manḳˀata awtxaɲa,hunger
+269-255,cent2142,http://concepticon.clld.org/parameters/848,umata awtxaaɲa,thirst
+269-158,cent2142,http://concepticon.clld.org/parameters/1421,čˀamu-ɲa,suck
+269-852,cent2142,http://concepticon.clld.org/parameters/321,kʰistʰu-ɲa,chew
+269-82,cent2142,http://concepticon.clld.org/parameters/897,malʸχtaya-ɲa,swallow
+269-726,cent2142,http://concepticon.clld.org/parameters/1100,pʰaya-ɲa,cook
+269-172,cent2142,http://concepticon.clld.org/parameters/792,walʸaḳi-ɲa,boil (vb)
+269-824,cent2142,http://concepticon.clld.org/parameters/2146,kanka-ɲa,"roast, fry"
+269-364,cent2142,http://concepticon.clld.org/parameters/2146,tʰiχi-ɲa,"roast, fry"
+269-4,cent2142,http://concepticon.clld.org/parameters/183,[xurnu]-ɲa,bake
+269-853,cent2142,http://concepticon.clld.org/parameters/1143,[xurnu],oven
+269-673,cent2142,http://concepticon.clld.org/parameters/1462,pʰukʰu,"pot, cooking vessel"
+269-163,cent2142,http://concepticon.clld.org/parameters/854,čatu,kettle
+269-141,cent2142,http://concepticon.clld.org/parameters/31,[kasirula],pan
+269-493,cent2142,http://concepticon.clld.org/parameters/481,čuwa,dish
+269-315,cent2142,http://concepticon.clld.org/parameters/480,[platu],plate
+269-308,cent2142,http://concepticon.clld.org/parameters/270,yuru,"pitcher, jug"
+269-771,cent2142,http://concepticon.clld.org/parameters/476,[tasa],"cup, drinking vessel"
+269-165,cent2142,http://concepticon.clld.org/parameters/1378,wislʸa,spoon
+269-51,cent2142,http://concepticon.clld.org/parameters/1352,tumi,knife (2)
+269-859,cent2142,http://concepticon.clld.org/parameters/272,[tinasa],tongs
+269-472,cent2142,http://concepticon.clld.org/parameters/1526,manḳˀa,meal (a)
+269-472,cent2142,http://concepticon.clld.org/parameters/1322,manḳˀa,breakfast
+269-472,cent2142,http://concepticon.clld.org/parameters/768,manḳˀa,lunch
+269-472,cent2142,http://concepticon.clld.org/parameters/1833,manḳˀa,dinner
+269-472,cent2142,http://concepticon.clld.org/parameters/1833,manḳˀa,supper
+269-735,cent2142,http://concepticon.clld.org/parameters/275,silʸpˀira-ɲa,peel
+269-245,cent2142,http://concepticon.clld.org/parameters/86,susu-ɲa,"sieve, strain"
+269-396,cent2142,http://concepticon.clld.org/parameters/1767,kʰitʰu-ɲa,scrape
+269-821,cent2142,http://concepticon.clld.org/parameters/2017,tʰikʰi-ɲa,"stir, mix"
+269-764,cent2142,http://concepticon.clld.org/parameters/2017,čˀalʸḳʰu-ɲa,"stir, mix"
+269-555,cent2142,http://concepticon.clld.org/parameters/1368,tˀantˀa,bread
+269-737,cent2142,http://concepticon.clld.org/parameters/274,čapu-ɲa,knead
+269-558,cent2142,http://concepticon.clld.org/parameters/1594,xakˀu,"meal, flour"
+269-235,cent2142,http://concepticon.clld.org/parameters/1033,silʸpˀxaɲa,"crush, grind"
+269-620,cent2142,http://concepticon.clld.org/parameters/636,[mulinu],mill
+269-485,cent2142,http://concepticon.clld.org/parameters/634,ayča,meat
+269-571,cent2142,http://concepticon.clld.org/parameters/1874,[salčiča],sausage
+269-676,cent2142,http://concepticon.clld.org/parameters/1547,luχru,"soup, broth"
+269-451,cent2142,http://concepticon.clld.org/parameters/832,čˀiwa,bean
+269-223,cent2142,http://concepticon.clld.org/parameters/593,amḳa,potato
+269-794,cent2142,http://concepticon.clld.org/parameters/593,čˀuḳi,potato
+269-570,cent2142,http://concepticon.clld.org/parameters/1507,muχsaaču,fruit
+269-803,cent2142,http://concepticon.clld.org/parameters/322,iwusa,fig
+269-90,cent2142,http://concepticon.clld.org/parameters/920,uwasa,grape
+269-334,cent2142,http://concepticon.clld.org/parameters/1154,[asiytuna],olive
+269-87,cent2142,http://concepticon.clld.org/parameters/1484,[asiyti],oil
+269-408,cent2142,http://concepticon.clld.org/parameters/1274,xayu,salt
+269-551,cent2142,http://concepticon.clld.org/parameters/919,waykˀa,chili pepper
+269-346,cent2142,http://concepticon.clld.org/parameters/942,miskˀi,honey
+269-808,cent2142,http://concepticon.clld.org/parameters/862,[asukara],sugar
+269-327,cent2142,http://concepticon.clld.org/parameters/635,milʸkˀi,milk (noun)
+269-232,cent2142,http://concepticon.clld.org/parameters/93,čˀawa-ɲa,milk (vb)
+269-93,cent2142,http://concepticon.clld.org/parameters/1569,[kisu],cheese
+269-610,cent2142,http://concepticon.clld.org/parameters/1245,[mantika,butter
+269-386,cent2142,http://concepticon.clld.org/parameters/1245,mantikilʸa],butter
+269-858,cent2142,http://concepticon.clld.org/parameters/731,uma-ɲa,"beverage, drink"
+269-9,cent2142,http://concepticon.clld.org/parameters/1524,[winu],wine
+269-96,cent2142,http://concepticon.clld.org/parameters/1639,[sirwisa],beer
+269-619,cent2142,http://concepticon.clld.org/parameters/404,kˀusa,fermented drink
+269-294,cent2142,http://concepticon.clld.org/parameters/744,kˀawna,egg
+269-567,cent2142,http://concepticon.clld.org/parameters/1556,kˀawna ḳˀilʸu,egg yolk
+269-410,cent2142,http://concepticon.clld.org/parameters/158,isisi-ɲa,put on (clothes)
+269-722,cent2142,http://concepticon.clld.org/parameters/1895,isi,"clothing, clothes"
+269-52,cent2142,http://concepticon.clld.org/parameters/881,čˀukuri,tailor
+269-565,cent2142,http://concepticon.clld.org/parameters/1616,[tila],cloth
+269-54,cent2142,http://concepticon.clld.org/parameters/964,tˀarwa,wool
+269-425,cent2142,http://concepticon.clld.org/parameters/916,[linu],"linen, flax"
+269-711,cent2142,http://concepticon.clld.org/parameters/1850,ḳʰiya,cotton
+269-423,cent2142,http://concepticon.clld.org/parameters/580,lipˀiči,fur
+269-423,cent2142,http://concepticon.clld.org/parameters/629,lipˀiči,leather
+269-26,cent2142,http://concepticon.clld.org/parameters/121,ḳapu-ɲa,spin
+269-44,cent2142,http://concepticon.clld.org/parameters/277,ḳapu,spindle
+269-62,cent2142,http://concepticon.clld.org/parameters/133,sawu-ɲa,weave
+269-62,cent2142,http://concepticon.clld.org/parameters/1787,sawu-ɲa,loom
+269-560,cent2142,http://concepticon.clld.org/parameters/1457,čˀuku-ɲa,sew
+269-351,cent2142,http://concepticon.clld.org/parameters/1382,yawriḳalʸu,needle
+269-654,cent2142,http://concepticon.clld.org/parameters/278,xunu-ɲa,awl
+269-848,cent2142,http://concepticon.clld.org/parameters/1161,čˀankʰa,thread
+269-796,cent2142,http://concepticon.clld.org/parameters/157,samača-ɲa,dye
+269-103,cent2142,http://concepticon.clld.org/parameters/326,yaḳʰulʸa,cloak
+269-721,cent2142,http://concepticon.clld.org/parameters/327,punču,poncho
+269-722,cent2142,http://concepticon.clld.org/parameters/474,isi,woman's dress
+269-722,cent2142,http://concepticon.clld.org/parameters/603,isi,coat
+269-722,cent2142,http://concepticon.clld.org/parameters/1622,isi,shirt
+269-285,cent2142,http://concepticon.clld.org/parameters/2012,kuylʸu,collar
+269-394,cent2142,http://concepticon.clld.org/parameters/1600,[pʰalta],skirt
+269-331,cent2142,http://concepticon.clld.org/parameters/809,[pantaluna],trousers
+269-746,cent2142,http://concepticon.clld.org/parameters/329,[kalsitina],"stocking, sock"
+269-715,cent2142,http://concepticon.clld.org/parameters/1381,pˀulʸḳu,shoe
+269-592,cent2142,http://concepticon.clld.org/parameters/585,[pʰutasa],boot
+269-29,cent2142,http://concepticon.clld.org/parameters/2130,tanka,"hat, cap"
+269-725,cent2142,http://concepticon.clld.org/parameters/772,lʸučˀu,"belt, girdle"
+269-361,cent2142,http://concepticon.clld.org/parameters/867,[wantisa],glove
+269-343,cent2142,http://concepticon.clld.org/parameters/1851,[wulsiku],pocket
+269-108,cent2142,http://concepticon.clld.org/parameters/757,[wutuna],button
+269-109,cent2142,http://concepticon.clld.org/parameters/917,kˀačača,"ornament, adornment"
+269-452,cent2142,http://concepticon.clld.org/parameters/1374,[surtixa],ring (for finger)
+269-440,cent2142,http://concepticon.clld.org/parameters/1754,čipana,bracelet
+269-60,cent2142,http://concepticon.clld.org/parameters/1961,axuɲa,necklace
+269-149,cent2142,http://concepticon.clld.org/parameters/1860,walʸḳa,bead
+269-482,cent2142,http://concepticon.clld.org/parameters/770,[ariti],earring
+269-47,cent2142,http://concepticon.clld.org/parameters/1475,sanu,comb
+269-849,cent2142,http://concepticon.clld.org/parameters/333,kˀana-ɲa,braid
+269-176,cent2142,http://concepticon.clld.org/parameters/1926,ḳaḳunta-ɲa,ointment
+269-627,cent2142,http://concepticon.clld.org/parameters/1171,lirpʰu,mirror
+269-773,cent2142,http://concepticon.clld.org/parameters/1099,utxa-ɲa,"dwell, live"
+269-832,cent2142,http://concepticon.clld.org/parameters/1252,uta,house
+269-16,cent2142,http://concepticon.clld.org/parameters/1678,čʰuxilʸa,hut
+269-146,cent2142,http://concepticon.clld.org/parameters/1678,tampu,hut
+269-289,cent2142,http://concepticon.clld.org/parameters/736,utaanḳa,"yard, court"
+269-307,cent2142,http://concepticon.clld.org/parameters/1567,punku,"door, gate"
+269-317,cent2142,http://concepticon.clld.org/parameters/1375,tˀuχu,window
+269-225,cent2142,http://concepticon.clld.org/parameters/1632,uraḳi,floor
+269-637,cent2142,http://concepticon.clld.org/parameters/933,pirḳa,wall
+269-269,cent2142,http://concepticon.clld.org/parameters/185,ḳʰiri,fireplace
+269-17,cent2142,http://concepticon.clld.org/parameters/1464,patilʸ-patilʸa,ladder
+269-480,cent2142,http://concepticon.clld.org/parameters/1663,ikiɲa,bed
+269-156,cent2142,http://concepticon.clld.org/parameters/1663,pataatˀi,bed
+269-896,cent2142,http://concepticon.clld.org/parameters/1044,čˀixmaɲa,pillow
+269-480,cent2142,http://concepticon.clld.org/parameters/806,ikiɲa,blanket
+269-785,cent2142,http://concepticon.clld.org/parameters/1476,ḳunuɲa,chair
+269-369,cent2142,http://concepticon.clld.org/parameters/205,lamana,trough
+269-705,cent2142,http://concepticon.clld.org/parameters/205,pirki,trough
+269-843,cent2142,http://concepticon.clld.org/parameters/279,wičʰu xičʰu,thatch
+269-447,cent2142,http://concepticon.clld.org/parameters/829,lawa,rafter
+269-464,cent2142,http://concepticon.clld.org/parameters/901,[aruwi],adobe
+269-246,cent2142,http://concepticon.clld.org/parameters/979,yapučiri,farmer
+269-544,cent2142,http://concepticon.clld.org/parameters/212,yapu,field (for cultivation)
+269-515,cent2142,http://concepticon.clld.org/parameters/1541,yapuča-ɲa,"cultivate, till"
+269-427,cent2142,http://concepticon.clld.org/parameters/1690,uyu,fence
+269-253,cent2142,http://concepticon.clld.org/parameters/2002,larḳa,ditch
+269-720,cent2142,http://concepticon.clld.org/parameters/1921,ḳʰulʸi-ɲa,plow
+269-574,cent2142,http://concepticon.clld.org/parameters/1794,[suka],furrow
+269-499,cent2142,http://concepticon.clld.org/parameters/1418,pʰatˀsu-ɲa,dig
+269-279,cent2142,http://concepticon.clld.org/parameters/1176,[lampa],spade
+269-850,cent2142,http://concepticon.clld.org/parameters/748,sata-ɲa,sow
+269-596,cent2142,http://concepticon.clld.org/parameters/714,xatʰa,seed
+269-594,cent2142,http://concepticon.clld.org/parameters/190,yawi-ɲa,"mow, reap"
+269-910,cent2142,http://concepticon.clld.org/parameters/2132,[xusi],"sickle, scythe"
+269-519,cent2142,http://concepticon.clld.org/parameters/285,mučʰa-ɲa,thresh
+269-863,cent2142,http://concepticon.clld.org/parameters/223,pˀiraɲa,threshing-floor
+269-696,cent2142,http://concepticon.clld.org/parameters/611,aptʰapi,"crop, harvest"
+269-153,cent2142,http://concepticon.clld.org/parameters/506,tunḳu,"maize, corn"
+269-665,cent2142,http://concepticon.clld.org/parameters/606,ḳura,grass
+269-3,cent2142,http://concepticon.clld.org/parameters/653,ali,plant (noun)
+269-850,cent2142,http://concepticon.clld.org/parameters/1486,sata-ɲa,plant (vb)
+269-561,cent2142,http://concepticon.clld.org/parameters/670,sapʰi,root
+269-46,cent2142,http://concepticon.clld.org/parameters/1531,laymi,branch
+269-391,cent2142,http://concepticon.clld.org/parameters/628,lapʰi,leaf
+269-777,cent2142,http://concepticon.clld.org/parameters/239,panḳara,flower
+269-674,cent2142,http://concepticon.clld.org/parameters/906,ḳuḳa,tree
+269-111,cent2142,http://concepticon.clld.org/parameters/974,tʰuxsa-tʰuxsa,tobacco
+269-819,cent2142,http://concepticon.clld.org/parameters/344,kˀulʸu,tree trunk
+269-205,cent2142,http://concepticon.clld.org/parameters/409,pˀalʸḳa,forked branch
+269-585,cent2142,http://concepticon.clld.org/parameters/868,puḳuta,banana tree
+269-38,cent2142,http://concepticon.clld.org/parameters/868,[latanu],banana tree
+269-842,cent2142,http://concepticon.clld.org/parameters/925,yuka,"tapioca, manioc, cassava"
+269-877,cent2142,http://concepticon.clld.org/parameters/1927,suḳˀusa,bamboo
+269-443,cent2142,http://concepticon.clld.org/parameters/33,itapalʸu,nettle
+269-800,cent2142,http://concepticon.clld.org/parameters/641,sirkˀi,mushroom
+269-614,cent2142,http://concepticon.clld.org/parameters/813,lura-ɲa,"do, make"
+269-330,cent2142,http://concepticon.clld.org/parameters/2004,ḳˀiwi-ɲa,bend
+269-137,cent2142,http://concepticon.clld.org/parameters/1470,ḳˀiwtˀa-ɲa,fold
+269-412,cent2142,http://concepticon.clld.org/parameters/1917,ɲačˀa-ɲa,"tie, bind"
+269-833,cent2142,http://concepticon.clld.org/parameters/352,xarara-ɲa,untie
+269-122,cent2142,http://concepticon.clld.org/parameters/1218,wiska,"rope, cord"
+269-175,cent2142,http://concepticon.clld.org/parameters/760,muḳu,knot (noun)
+269-192,cent2142,http://concepticon.clld.org/parameters/2133,liḳˀi-ɲa,"strike (hit, beat)"
+269-319,cent2142,http://concepticon.clld.org/parameters/354,čˀaku-ɲa,pound with fist
+269-453,cent2142,http://concepticon.clld.org/parameters/1432,kʰarxa-ɲa,cut
+269-876,cent2142,http://concepticon.clld.org/parameters/1432,kʰučxa-ɲa,cut
+269-80,cent2142,http://concepticon.clld.org/parameters/355,liwnuḳa-ɲa,cut down
+269-624,cent2142,http://concepticon.clld.org/parameters/155,ḳˀalʸu-ɲa,"chop, hew"
+269-51,cent2142,http://concepticon.clld.org/parameters/1352,tumi,knife
+269-1,cent2142,http://concepticon.clld.org/parameters/677,[ača],ax
+269-739,cent2142,http://concepticon.clld.org/parameters/680,pˀaki-ɲa,break
+269-442,cent2142,http://concepticon.clld.org/parameters/588,pˀakita,broken
+269-692,cent2142,http://concepticon.clld.org/parameters/1437,xalxa-ɲa,split
+269-200,cent2142,http://concepticon.clld.org/parameters/1735,čˀiyxa-ɲa,tear
+269-35,cent2142,http://concepticon.clld.org/parameters/291,kʰarsu-ɲa,"flay, skin"
+269-133,cent2142,http://concepticon.clld.org/parameters/291,čˀiysu-ɲa,"flay, skin"
+269-116,cent2142,http://concepticon.clld.org/parameters/1449,ḳaḳu-ɲa,"rub, wipe"
+269-779,cent2142,http://concepticon.clld.org/parameters/214,iḳatata-ɲa,stretch
+269-690,cent2142,http://concepticon.clld.org/parameters/1455,xiya-ɲa,pull
+269-509,cent2142,http://concepticon.clld.org/parameters/38,wilʸitata-ɲa,spread out
+269-643,cent2142,http://concepticon.clld.org/parameters/357,warku-ɲa,hang up
+269-703,cent2142,http://concepticon.clld.org/parameters/1913,ḳˀapʰi-ɲa,press
+269-846,cent2142,http://concepticon.clld.org/parameters/1414,ḳˀaptʰapi-ɲa,"squeeze, wring"
+269-188,cent2142,http://concepticon.clld.org/parameters/1487,ḳˀuptʰapi-ɲa,pour
+269-892,cent2142,http://concepticon.clld.org/parameters/1453,xari-ɲa,wash
+269-483,cent2142,http://concepticon.clld.org/parameters/230,piča-ɲa,sweep
+269-373,cent2142,http://concepticon.clld.org/parameters/245,pičaɲa,broom
+269-762,cent2142,http://concepticon.clld.org/parameters/1840,pirḳa-ɲa,build
+269-218,cent2142,http://concepticon.clld.org/parameters/1501,pˀiyanta-ɲa,bore
+269-32,cent2142,http://concepticon.clld.org/parameters/46,ḳaḳanta-ɲa,hollow out
+269-79,cent2142,http://concepticon.clld.org/parameters/211,ḳʰirḳtʰapiya-ɲa,cast (metals)
+269-128,cent2142,http://concepticon.clld.org/parameters/211,ḳʰirḳʰiɲa,cast (metals)
+269-669,cent2142,http://concepticon.clld.org/parameters/1369,ḳuri,gold
+269-147,cent2142,http://concepticon.clld.org/parameters/1369,čuḳi,gold
+269-686,cent2142,http://concepticon.clld.org/parameters/759,ḳulʸḳi,silver
+269-135,cent2142,http://concepticon.clld.org/parameters/1825,kˀawsi,"copper, bronze"
+269-786,cent2142,http://concepticon.clld.org/parameters/627,malʸa,lead (noun)
+269-89,cent2142,http://concepticon.clld.org/parameters/358,čayanta,"tin, tinplate"
+269-190,cent2142,http://concepticon.clld.org/parameters/1399,ɲiwkˀi,clay
+269-549,cent2142,http://concepticon.clld.org/parameters/1399,lʸinkˀi,clay
+269-469,cent2142,http://concepticon.clld.org/parameters/604,ḳʰispi,glass
+269-792,cent2142,http://concepticon.clld.org/parameters/1729,sawa-ɲa,"weave, plait"
+269-761,cent2142,http://concepticon.clld.org/parameters/1729,pˀita-ɲa,"weave, plait"
+269-561,cent2142,http://concepticon.clld.org/parameters/1539,sapʰi,basket
+269-263,cent2142,http://concepticon.clld.org/parameters/195,siχi,mat
+269-736,cent2142,http://concepticon.clld.org/parameters/292,xantˀaku,rug
+269-228,cent2142,http://concepticon.clld.org/parameters/293,lʸika,netbag
+269-787,cent2142,http://concepticon.clld.org/parameters/293,saḳaɲa,netbag
+269-668,cent2142,http://concepticon.clld.org/parameters/1002,tansa,statue
+269-645,cent2142,http://concepticon.clld.org/parameters/647,samači,paint (noun)
+269-796,cent2142,http://concepticon.clld.org/parameters/2001,samača-ɲa,paint (vb)
+269-201,cent2142,http://concepticon.clld.org/parameters/765,unχta-ɲa,move
+269-879,cent2142,http://concepticon.clld.org/parameters/1588,xaḳukipa-ɲa,turn over
+269-879,cent2142,http://concepticon.clld.org/parameters/1445,xaḳukipa-ɲa,turn around
+269-536,cent2142,http://concepticon.clld.org/parameters/1113,lʸawu-ɲa,"wind, wrap"
+269-481,cent2142,http://concepticon.clld.org/parameters/827,ḳurumi-ɲa,roll
+269-277,cent2142,http://concepticon.clld.org/parameters/430,milʸkˀu-ɲa,twist
+269-31,cent2142,http://concepticon.clld.org/parameters/430,kˀantʰi-ɲa,twist
+269-528,cent2142,http://concepticon.clld.org/parameters/568,makata-ɲa,rise
+269-790,cent2142,http://concepticon.clld.org/parameters/501,apta-ɲa,"raise, lift"
+269-248,cent2142,http://concepticon.clld.org/parameters/1280,tinku-ɲa,fall
+269-338,cent2142,http://concepticon.clld.org/parameters/2253,čˀaḳa-ɲa,drip
+269-855,cent2142,http://concepticon.clld.org/parameters/2253,čˀačˀa-ɲa,drip
+269-869,cent2142,http://concepticon.clld.org/parameters/1456,warta-ɲa,throw
+269-204,cent2142,http://concepticon.clld.org/parameters/702,katu-ɲa,catch (ball)
+269-404,cent2142,http://concepticon.clld.org/parameters/1909,tʰala-ɲa,shake
+269-766,cent2142,http://concepticon.clld.org/parameters/2003,xala-ɲa,flow
+269-214,cent2142,http://concepticon.clld.org/parameters/1088,xununta-ɲa,sink
+269-73,cent2142,http://concepticon.clld.org/parameters/1088,čʰuḳu-ɲa,sink
+269-775,cent2142,http://concepticon.clld.org/parameters/1574,tuyu-ɲa,float
+269-775,cent2142,http://concepticon.clld.org/parameters/1439,tuyu-ɲa,swim
+269-448,cent2142,http://concepticon.clld.org/parameters/365,čˀitiḳkata-ɲa,splash
+269-626,cent2142,http://concepticon.clld.org/parameters/1441,wiru-ɲa,fly (vb)
+269-465,cent2142,http://concepticon.clld.org/parameters/175,pʰusa-ɲa,blow
+269-236,cent2142,http://concepticon.clld.org/parameters/96,kumptaḳa-ɲa,"creep, crawl"
+269-275,cent2142,http://concepticon.clld.org/parameters/66,kilʸtˀasi-ɲa,kneel
+269-611,cent2142,http://concepticon.clld.org/parameters/296,altˀa-ɲa,crouch
+269-359,cent2142,http://concepticon.clld.org/parameters/1324,lʸustˀta-ɲa,"slide, slip"
+269-243,cent2142,http://concepticon.clld.org/parameters/1829,tʰuḳta-ɲa,"jump, leap"
+269-393,cent2142,http://concepticon.clld.org/parameters/1135,taki-ɲa,kick
+269-806,cent2142,http://concepticon.clld.org/parameters/1879,tʰuḳu-ɲa,dance
+269-260,cent2142,http://concepticon.clld.org/parameters/1443,sara-ɲa,walk
+269-439,cent2142,http://concepticon.clld.org/parameters/1443,čilʸḳi-ɲa,walk
+269-433,cent2142,http://concepticon.clld.org/parameters/366,wiχči-ɲa,limp
+269-398,cent2142,http://concepticon.clld.org/parameters/1519,tˀixu-ɲa,run
+269-260,cent2142,http://concepticon.clld.org/parameters/695,sara-ɲa,go
+269-528,cent2142,http://concepticon.clld.org/parameters/705,makata-ɲa,go up
+269-67,cent2142,http://concepticon.clld.org/parameters/1102,warkkatta-ɲa,climb
+269-906,cent2142,http://concepticon.clld.org/parameters/2014,maḳa-ɲa,go down
+269-577,cent2142,http://concepticon.clld.org/parameters/2014,saraḳa-ɲa,go down
+269-462,cent2142,http://concepticon.clld.org/parameters/1107,mistu-ɲa,go out
+269-506,cent2142,http://concepticon.clld.org/parameters/1446,xuta-ɲa,come
+269-829,cent2142,http://concepticon.clld.org/parameters/581,kuti-ɲa,come back
+269-12,cent2142,http://concepticon.clld.org/parameters/1752,sarχa-ɲa,"go away, depart"
+269-529,cent2142,http://concepticon.clld.org/parameters/956,tˀixumuču-ɲa,flee
+269-755,cent2142,http://concepticon.clld.org/parameters/1085,arka-ɲa,follow
+269-582,cent2142,http://concepticon.clld.org/parameters/1047,arknaḳa-ɲa,pursue
+269-616,cent2142,http://concepticon.clld.org/parameters/1387,xikxata-ɲa (?),"reach, arrive"
+269-732,cent2142,http://concepticon.clld.org/parameters/1387,puri-ɲa,"reach, arrive"
+269-240,cent2142,http://concepticon.clld.org/parameters/1778,xakˀača-ɲa,approach
+269-400,cent2142,http://concepticon.clld.org/parameters/749,manta-ɲa,enter
+269-104,cent2142,http://concepticon.clld.org/parameters/700,apa-ɲa,carry (bear)
+269-104,cent2142,http://concepticon.clld.org/parameters/412,apa-ɲa,carry-in-hand
+269-633,cent2142,http://concepticon.clld.org/parameters/413,ḳˀipi-ɲa,carry-on-shoulder
+269-644,cent2142,http://concepticon.clld.org/parameters/692,apa-ni-ɲa,bring
+269-576,cent2142,http://concepticon.clld.org/parameters/1127,apaya-ɲa,send
+269-890,cent2142,http://concepticon.clld.org/parameters/43,irpa-ɲa,lead (vb)
+269-598,cent2142,http://concepticon.clld.org/parameters/741,saraya-ɲa,drive
+269-753,cent2142,http://concepticon.clld.org/parameters/367,latˀa-ɲa,ride
+269-280,cent2142,http://concepticon.clld.org/parameters/1452,nukʰu-ɲa,"push, shove"
+269-286,cent2142,http://concepticon.clld.org/parameters/667,tʰakʰi,road
+269-286,cent2142,http://concepticon.clld.org/parameters/2252,tʰakʰi,path
+269-837,cent2142,http://concepticon.clld.org/parameters/1011,čaka,bridge
+269-874,cent2142,http://concepticon.clld.org/parameters/710,muyu,wheel
+269-718,cent2142,http://concepticon.clld.org/parameters/14,[yuku],yoke
+269-252,cent2142,http://concepticon.clld.org/parameters/1844,wampu,boat
+269-310,cent2142,http://concepticon.clld.org/parameters/1844,yampu,boat
+269-310,cent2142,http://concepticon.clld.org/parameters/1970,yampu,canoe
+269-252,cent2142,http://concepticon.clld.org/parameters/1664,wampu,raft
+269-30,cent2142,http://concepticon.clld.org/parameters/108,ɲuḳiɲa,oar
+269-30,cent2142,http://concepticon.clld.org/parameters/1849,ɲuḳiɲa,row (vb)
+269-514,cent2142,http://concepticon.clld.org/parameters/786,ačiwa,sail (noun)
+269-204,cent2142,http://concepticon.clld.org/parameters/1749,katu-ɲa,take
+269-204,cent2142,http://concepticon.clld.org/parameters/2021,katu-ɲa,"seize, grasp"
+269-652,cent2142,http://concepticon.clld.org/parameters/694,xiki-ɲa,"get, obtain"
+269-298,cent2142,http://concepticon.clld.org/parameters/1477,imaɲa,"keep, retain"
+269-587,cent2142,http://concepticon.clld.org/parameters/738,yaa,thing
+269-259,cent2142,http://concepticon.clld.org/parameters/1447,čura-ɲa,give
+269-688,cent2142,http://concepticon.clld.org/parameters/85,kutiya-ɲa,give back
+269-357,cent2142,http://concepticon.clld.org/parameters/1997,xarkˀa-ɲa,"preserve, look after"
+269-134,cent2142,http://concepticon.clld.org/parameters/2008,ḳʰispiya-ɲa,"save, rescue"
+269-872,cent2142,http://concepticon.clld.org/parameters/681,tukxa-ɲa,destroy
+269-484,cent2142,http://concepticon.clld.org/parameters/681,tˀunxa-ɲa,destroy
+269-664,cent2142,http://concepticon.clld.org/parameters/44,usuča-ɲa,"harm, injure, damage"
+269-24,cent2142,http://concepticon.clld.org/parameters/1468,tʰaḳa-ɲa,"seek, look for"
+269-195,cent2142,http://concepticon.clld.org/parameters/719,xikχata-ɲa,find
+269-379,cent2142,http://concepticon.clld.org/parameters/1660,čʰaḳa-ɲa,lose
+269-36,cent2142,http://concepticon.clld.org/parameters/1095,antuta-ɲa,"release, let go"
+269-686,cent2142,http://concepticon.clld.org/parameters/1559,ḳulʸḳi,money
+269-454,cent2142,http://concepticon.clld.org/parameters/712,ḳamiri,rich
+269-641,cent2142,http://concepticon.clld.org/parameters/1674,tˀaḳʰi,poor
+269-372,cent2142,http://concepticon.clld.org/parameters/1774,mičˀa,"avaricious, stingy"
+269-378,cent2142,http://concepticon.clld.org/parameters/582,maytˀa-ɲa,lend
+269-199,cent2142,http://concepticon.clld.org/parameters/1823,maytˀasi-ɲa,borrow
+269-151,cent2142,http://concepticon.clld.org/parameters/369,manuu-ɲa,owe
+269-545,cent2142,http://concepticon.clld.org/parameters/1914,manu,debt
+269-208,cent2142,http://concepticon.clld.org/parameters/1869,ala-ɲa,buy
+269-538,cent2142,http://concepticon.clld.org/parameters/1571,alxa-ɲa,sell
+269-211,cent2142,http://concepticon.clld.org/parameters/2135,[turka]-ɲa,"trade, barter"
+269-435,cent2142,http://concepticon.clld.org/parameters/1082,alakipa,merchant
+269-48,cent2142,http://concepticon.clld.org/parameters/633,ḳʰatu,market (place)
+269-681,cent2142,http://concepticon.clld.org/parameters/657,čani,price
+269-313,cent2142,http://concepticon.clld.org/parameters/1887,iraḳata,cheap
+269-85,cent2142,http://concepticon.clld.org/parameters/884,lakiɲa,share (distribute)
+269-100,cent2142,http://concepticon.clld.org/parameters/1098,tupu-ɲa,weigh
+269-687,cent2142,http://concepticon.clld.org/parameters/1685,ukata,after
+269-117,cent2142,http://concepticon.clld.org/parameters/723,ḳʰipaaχa,behind
+269-237,cent2142,http://concepticon.clld.org/parameters/1326,aynača,"down, below"
+269-419,cent2142,http://concepticon.clld.org/parameters/1882,nayraḳata,before
+269-154,cent2142,http://concepticon.clld.org/parameters/1606,manḳʰa,"inside, in"
+269-358,cent2142,http://concepticon.clld.org/parameters/762,anḳa,outside
+269-150,cent2142,http://concepticon.clld.org/parameters/1485,manḳʰata,under
+269-221,cent2142,http://concepticon.clld.org/parameters/1591,amta,"up, above"
+269-271,cent2142,http://concepticon.clld.org/parameters/1591,araχa,"up, above"
+269-360,cent2142,http://concepticon.clld.org/parameters/1591,alaya,"up, above"
+269-618,cent2142,http://concepticon.clld.org/parameters/723,čaḳa,place
+269-264,cent2142,http://concepticon.clld.org/parameters/998,uskuɲa,put
+269-302,cent2142,http://concepticon.clld.org/parameters/1416,ḳuntˀa-ɲa,sit
+269-500,cent2142,http://concepticon.clld.org/parameters/1416,ḳunu-ɲa,sit
+269-229,cent2142,http://concepticon.clld.org/parameters/215,ikintχa-ɲa,lie down
+269-227,cent2142,http://concepticon.clld.org/parameters/1442,saytˀa-ɲa,stand
+269-556,cent2142,http://concepticon.clld.org/parameters/987,ḳʰipaḳta-ɲa,"remain, stay"
+269-460,cent2142,http://concepticon.clld.org/parameters/838,xiltˀa,"remains, left overs"
+269-471,cent2142,http://concepticon.clld.org/parameters/7,aptʰapi-ɲa,"collect, gather"
+269-362,cent2142,http://concepticon.clld.org/parameters/1576,ḳulʸučtˀa-,pile up
+269-899,cent2142,http://concepticon.clld.org/parameters/1576,ḳulʸtˀa-,pile up
+269-817,cent2142,http://concepticon.clld.org/parameters/1576,ḳutučtˀa-,pile up
+269-281,cent2142,http://concepticon.clld.org/parameters/1359,apxa-ɲa,separate
+269-692,cent2142,http://concepticon.clld.org/parameters/1119,xalxa-ɲa,divide
+269-712,cent2142,http://concepticon.clld.org/parameters/1119,lakxa-ɲa,divide
+269-866,cent2142,http://concepticon.clld.org/parameters/1156,xistˀxa-ɲa,open
+269-348,cent2142,http://concepticon.clld.org/parameters/1046,xistˀanta-ɲa,"shut, close"
+269-70,cent2142,http://concepticon.clld.org/parameters/761,xanχata-ɲa,cover
+269-584,cent2142,http://concepticon.clld.org/parameters/602,imanta-ɲa,"hide, conceal"
+269-360,cent2142,http://concepticon.clld.org/parameters/1265,alaya,high
+269-504,cent2142,http://concepticon.clld.org/parameters/1753,čˀutu,top
+269-154,cent2142,http://concepticon.clld.org/parameters/690,manḳʰa,bottom
+269-589,cent2142,http://concepticon.clld.org/parameters/742,tukuya,end
+269-512,cent2142,http://concepticon.clld.org/parameters/372,yaarata,pointed
+269-685,cent2142,http://concepticon.clld.org/parameters/863,laka,edge
+269-496,cent2142,http://concepticon.clld.org/parameters/682,tʰiya,side
+269-895,cent2142,http://concepticon.clld.org/parameters/1093,taypi,"middle, center"
+269-604,cent2142,http://concepticon.clld.org/parameters/1019,kupi,right (side)
+269-171,cent2142,http://concepticon.clld.org/parameters/244,čˀiḳa,left (side)
+269-854,cent2142,http://concepticon.clld.org/parameters/1942,xakˀa,near (adv)
+269-401,cent2142,http://concepticon.clld.org/parameters/1406,xaya,far (adv)
+269-295,cent2142,http://concepticon.clld.org/parameters/1877,xalsu,east
+269-405,cent2142,http://concepticon.clld.org/parameters/1817,xalanta,west
+269-797,cent2142,http://concepticon.clld.org/parameters/1598,amsta,north
+269-271,cent2142,http://concepticon.clld.org/parameters/1598,araχa,north
+269-237,cent2142,http://concepticon.clld.org/parameters/1595,aynača,south
+269-707,cent2142,http://concepticon.clld.org/parameters/479,xila-ɲa,grow
+269-100,cent2142,http://concepticon.clld.org/parameters/1506,tupu-ɲa,measure
+269-730,cent2142,http://concepticon.clld.org/parameters/81,luḳa,"span, fathom"
+269-734,cent2142,http://concepticon.clld.org/parameters/1202,xačˀa,"large, big"
+269-450,cent2142,http://concepticon.clld.org/parameters/1246,xiskˀa,"small, little"
+269-881,cent2142,http://concepticon.clld.org/parameters/1203,waru,long
+269-271,cent2142,http://concepticon.clld.org/parameters/711,araχa,tall
+269-181,cent2142,http://concepticon.clld.org/parameters/1267,pˀisi,narrow
+269-647,cent2142,http://concepticon.clld.org/parameters/1244,tʰuru,thick (in dimension)
+269-818,cent2142,http://concepticon.clld.org/parameters/1400,xučˀusa,thin (in dimension)
+269-154,cent2142,http://concepticon.clld.org/parameters/1593,manḳʰa,deep
+269-697,cent2142,http://concepticon.clld.org/parameters/193,pataki,shallow
+269-532,cent2142,http://concepticon.clld.org/parameters/1633,pampa,flat
+269-399,cent2142,http://concepticon.clld.org/parameters/1404,čiḳa,straight
+269-244,cent2142,http://concepticon.clld.org/parameters/1404,čiḳpa,straight
+269-340,cent2142,http://concepticon.clld.org/parameters/297,milʸkˀuta,crooked
+269-43,cent2142,http://concepticon.clld.org/parameters/192,kˀuču,corner
+269-751,cent2142,http://concepticon.clld.org/parameters/1367,čakana,cross
+269-58,cent2142,http://concepticon.clld.org/parameters/1395,muruḳˀu,round
+269-874,cent2142,http://concepticon.clld.org/parameters/1467,muyu,circle
+269-58,cent2142,http://concepticon.clld.org/parameters/1845,muruḳˀu,"sphere, ball"
+269-74,cent2142,http://concepticon.clld.org/parameters/1048,siḳi,line
+269-216,cent2142,http://concepticon.clld.org/parameters/1048,sičˀi,line
+269-300,cent2142,http://concepticon.clld.org/parameters/1667,pˀiya,hole
+269-392,cent2142,http://concepticon.clld.org/parameters/1667,ḳaḳa,hole
+269-168,cent2142,http://concepticon.clld.org/parameters/1558,kikpa,"like, similar"
+269-879,cent2142,http://concepticon.clld.org/parameters/1264,xaḳukipa-ɲa,change
+269-531,cent2142,http://concepticon.clld.org/parameters/1294,čˀusa,"zero, nothing"
+269-700,cent2142,http://concepticon.clld.org/parameters/1515,maya,one
+269-798,cent2142,http://concepticon.clld.org/parameters/1498,paya,two
+269-557,cent2142,http://concepticon.clld.org/parameters/492,kimsa,three
+269-908,cent2142,http://concepticon.clld.org/parameters/1500,pusi,four
+269-867,cent2142,http://concepticon.clld.org/parameters/493,pʰisḳa,five
+269-511,cent2142,http://concepticon.clld.org/parameters/1703,suχta,six
+269-142,cent2142,http://concepticon.clld.org/parameters/1704,paḳalʸḳu,seven
+269-314,cent2142,http://concepticon.clld.org/parameters/1705,kimsa ḳalʸḳu,eight
+269-78,cent2142,http://concepticon.clld.org/parameters/1483,lʸaatunka,nine
+269-486,cent2142,http://concepticon.clld.org/parameters/1515,tunka,ten
+269-603,cent2142,http://concepticon.clld.org/parameters/1706,tunka mayani,eleven
+269-291,cent2142,http://concepticon.clld.org/parameters/1707,tunka payani,twelve
+269-713,cent2142,http://concepticon.clld.org/parameters/1709,tunka pʰisḳani,fifteen
+269-385,cent2142,http://concepticon.clld.org/parameters/1710,paatunka,twenty
+269-159,cent2142,http://concepticon.clld.org/parameters/1634,pataka,hundred
+269-459,cent2142,http://concepticon.clld.org/parameters/1843,waranḳa,thousand
+269-261,cent2142,http://concepticon.clld.org/parameters/1420,xakʰu-ɲa,count
+269-233,cent2142,http://concepticon.clld.org/parameters/1420,wakʰu-ɲa,count
+269-84,cent2142,http://concepticon.clld.org/parameters/98,sapa,"every, all"
+269-759,cent2142,http://concepticon.clld.org/parameters/98,taḳi,"every, all"
+269-212,cent2142,http://concepticon.clld.org/parameters/1198,anča,"much, many"
+269-752,cent2142,http://concepticon.clld.org/parameters/1992,xukˀampi,more
+269-554,cent2142,http://concepticon.clld.org/parameters/1242,xukˀa,"little (quantity), few"
+269-581,cent2142,http://concepticon.clld.org/parameters/1881,walxa,enough
+269-709,cent2142,http://concepticon.clld.org/parameters/1241,walkʰa,some
+269-495,cent2142,http://concepticon.clld.org/parameters/1429,pʰuḳa,full
+269-531,cent2142,http://concepticon.clld.org/parameters/1624,čˀusa,empty
+269-409,cent2142,http://concepticon.clld.org/parameters/816,čikata,half
+269-84,cent2142,http://concepticon.clld.org/parameters/1580,sapa,"alone, only"
+269-738,cent2142,http://concepticon.clld.org/parameters/1580,sapaki,"alone, only"
+269-841,cent2142,http://concepticon.clld.org/parameters/728,nayriiri,first
+269-8,cent2142,http://concepticon.clld.org/parameters/1529,ḳʰipiiri,last
+269-822,cent2142,http://concepticon.clld.org/parameters/1384,payiiri,second
+269-798,cent2142,http://concepticon.clld.org/parameters/1888,paya,pair
+269-71,cent2142,http://concepticon.clld.org/parameters/1546,paakuti,two times
+269-213,cent2142,http://concepticon.clld.org/parameters/1859,kimsiiri,third
+269-894,cent2142,http://concepticon.clld.org/parameters/417,kimsakuti,three times
+269-502,cent2142,http://concepticon.clld.org/parameters/892,-pača,time
+269-288,cent2142,http://concepticon.clld.org/parameters/1789,wiɲa,age
+269-609,cent2142,http://concepticon.clld.org/parameters/1231,mačaḳa,new
+269-657,cent2142,http://concepticon.clld.org/parameters/1207,lʸulʸu,young
+269-25,cent2142,http://concepticon.clld.org/parameters/1229,ačači,old
+269-750,cent2142,http://concepticon.clld.org/parameters/672,arumirxa,early
+269-304,cent2142,http://concepticon.clld.org/parameters/477,xaypˀu,late
+269-873,cent2142,http://concepticon.clld.org/parameters/1376,xičʰa,now
+269-297,cent2142,http://concepticon.clld.org/parameters/1963,ančʰičpača,immediately
+269-547,cent2142,http://concepticon.clld.org/parameters/1631,laḳa,"swift, fast, quick"
+269-488,cent2142,http://concepticon.clld.org/parameters/701,kˀačata,slow
+269-131,cent2142,http://concepticon.clld.org/parameters/754,naakʰi,"hasten, hurry"
+269-723,cent2142,http://concepticon.clld.org/parameters/425,ḳʰipʰara-ɲa,"retard, delay"
+269-882,cent2142,http://concepticon.clld.org/parameters/1806,ḳalʸta-ɲa,"begin, beginning"
+269-222,cent2142,http://concepticon.clld.org/parameters/743,tuku,end (temporal)
+269-572,cent2142,http://concepticon.clld.org/parameters/1766,tuku-ɲa,finish
+269-227,cent2142,http://concepticon.clld.org/parameters/1928,saytˀa-ɲa,"cease, stop"
+269-553,cent2142,http://concepticon.clld.org/parameters/1676,-puni,always
+269-547,cent2142,http://concepticon.clld.org/parameters/703,laḳa,soon
+269-475,cent2142,http://concepticon.clld.org/parameters/418,xayapača,long-time (for a)
+269-431,cent2142,http://concepticon.clld.org/parameters/204,maampi,again
+269-449,cent2142,http://concepticon.clld.org/parameters/1260,uru,day
+269-40,cent2142,http://concepticon.clld.org/parameters/1233,aruma,night
+269-106,cent2142,http://concepticon.clld.org/parameters/729,ḳʰantati,dawn
+269-283,cent2142,http://concepticon.clld.org/parameters/1339,arumantʰi,morning
+269-251,cent2142,http://concepticon.clld.org/parameters/12,čika uru,"noon, midday"
+269-304,cent2142,http://concepticon.clld.org/parameters/1807,xaypˀu,afternoon
+269-816,cent2142,http://concepticon.clld.org/parameters/1283,xičʰuuru,today
+269-750,cent2142,http://concepticon.clld.org/parameters/1329,arumirxa,tomorrow
+269-659,cent2142,http://concepticon.clld.org/parameters/1179,xurpanmantʰi,day-after-tomorrow
+269-92,cent2142,http://concepticon.clld.org/parameters/1174,wasuru,yesterday
+269-640,cent2142,http://concepticon.clld.org/parameters/1180,waluuru,day-before-yesterday
+269-861,cent2142,http://concepticon.clld.org/parameters/1180,waruuru,day-before-yesterday
+269-516,cent2142,http://concepticon.clld.org/parameters/1370,pʰaχsi,month
+269-579,cent2142,http://concepticon.clld.org/parameters/1226,mara,year
+269-270,cent2142,http://concepticon.clld.org/parameters/1471,tʰaapača,winter
+269-586,cent2142,http://concepticon.clld.org/parameters/1537,awti,spring
+269-77,cent2142,http://concepticon.clld.org/parameters/1342,xalʸupača,summer
+269-893,cent2142,http://concepticon.clld.org/parameters/1276,ḳasiwi,autumn
+269-63,cent2142,http://concepticon.clld.org/parameters/1587,mukʰi-ɲa,smell (vb intrans)
+269-608,cent2142,http://concepticon.clld.org/parameters/42,tʰuxsa,"stinking, bad smelling"
+269-161,cent2142,http://concepticon.clld.org/parameters/717,muχsa,sweet
+269-865,cent2142,http://concepticon.clld.org/parameters/1091,xayukˀara,salty
+269-287,cent2142,http://concepticon.clld.org/parameters/887,xaχu,bitter
+269-411,cent2142,http://concepticon.clld.org/parameters/1906,kˀalʸkˀu,"acid, sour"
+269-434,cent2142,http://concepticon.clld.org/parameters/1408,istˀa-ɲa,hear
+269-434,cent2142,http://concepticon.clld.org/parameters/1608,istˀa-ɲa,listen
+269-293,cent2142,http://concepticon.clld.org/parameters/1608,isčˀuki-ɲa,listen
+269-871,cent2142,http://concepticon.clld.org/parameters/377,ḳʰuypʰi,loud
+269-569,cent2142,http://concepticon.clld.org/parameters/1314,čˀuxu,"quiet, silence"
+269-324,cent2142,http://concepticon.clld.org/parameters/1409,uɲxa-ɲa,see
+269-595,cent2142,http://concepticon.clld.org/parameters/1819,uɲta-ɲa,"look, look at"
+269-139,cent2142,http://concepticon.clld.org/parameters/1039,uɲačtˀaya-ɲa,show
+269-883,cent2142,http://concepticon.clld.org/parameters/708,ḳʰana-ɲa,shine
+269-296,cent2142,http://concepticon.clld.org/parameters/679,ḳʰaniri,bright
+269-631,cent2142,http://concepticon.clld.org/parameters/1613,sami,color
+269-691,cent2142,http://concepticon.clld.org/parameters/250,ḳʰana,light (in color)
+269-702,cent2142,http://concepticon.clld.org/parameters/706,čˀamaka,dark (in color)
+269-562,cent2142,http://concepticon.clld.org/parameters/1335,xanḳˀu,white
+269-671,cent2142,http://concepticon.clld.org/parameters/163,čˀiyara,black
+269-118,cent2142,http://concepticon.clld.org/parameters/156,čupika,red
+269-5,cent2142,http://concepticon.clld.org/parameters/837,larama,blue
+269-601,cent2142,http://concepticon.clld.org/parameters/1425,čˀuχ-ɲa,green
+269-413,cent2142,http://concepticon.clld.org/parameters/1424,ḳˀilʸu,yellow
+269-591,cent2142,http://concepticon.clld.org/parameters/1892,lʸamkʰtˀa-ɲa,touch
+269-575,cent2142,http://concepticon.clld.org/parameters/378,kˀiči-ɲa,pinch
+269-701,cent2142,http://concepticon.clld.org/parameters/1884,čˀulʸḳʰi,hard
+269-503,cent2142,http://concepticon.clld.org/parameters/1884,ḳʰulu,hard
+269-124,cent2142,http://concepticon.clld.org/parameters/1856,xasa,soft
+269-477,cent2142,http://concepticon.clld.org/parameters/1923,čʰankʰa,rough
+269-491,cent2142,http://concepticon.clld.org/parameters/1234,ḳuɲa (?),smooth
+269-180,cent2142,http://concepticon.clld.org/parameters/1396,ari,sharp
+269-18,cent2142,http://concepticon.clld.org/parameters/1210,xatʰi,heavy
+269-387,cent2142,http://concepticon.clld.org/parameters/1052,pʰisna,light (in weight)
+269-42,cent2142,http://concepticon.clld.org/parameters/1726,čˀarana,"wet, damp"
+269-382,cent2142,http://concepticon.clld.org/parameters/1398,waɲa,dry
+269-155,cent2142,http://concepticon.clld.org/parameters/1286,xuntˀu,hot
+269-101,cent2142,http://concepticon.clld.org/parameters/1232,ačʰixu,warm
+269-546,cent2142,http://concepticon.clld.org/parameters/1287,tʰaya,cold
+269-580,cent2142,http://concepticon.clld.org/parameters/1287,alala,cold
+269-207,cent2142,http://concepticon.clld.org/parameters/704,ḳˀuma,clean
+269-568,cent2142,http://concepticon.clld.org/parameters/1230,ḳˀaɲu,"dirty, soiled"
+269-623,cent2142,http://concepticon.clld.org/parameters/380,ḳˀuptʰapita,wrinkled
+269-290,cent2142,http://concepticon.clld.org/parameters/53,axayu,"soul, spirit"
+269-389,cent2142,http://concepticon.clld.org/parameters/1495,kusisita,"joyful, glad, happy"
+269-714,cent2142,http://concepticon.clld.org/parameters/1355,laru-ɲa,laugh
+269-714,cent2142,http://concepticon.clld.org/parameters/1451,laru-ɲa,smile
+269-862,cent2142,http://concepticon.clld.org/parameters/1413,anata-ɲa,play
+269-179,cent2142,http://concepticon.clld.org/parameters/923,muna-ɲa,love
+269-267,cent2142,http://concepticon.clld.org/parameters/578,xampˀati-ɲa,kiss
+269-177,cent2142,http://concepticon.clld.org/parameters/928,walʸḳˀipta-ɲa,embrace
+269-885,cent2142,http://concepticon.clld.org/parameters/1668,lʸaki,"grief, sorrow, sadness"
+269-754,cent2142,http://concepticon.clld.org/parameters/1141,kʰuyapaya-ɲa,pity
+269-164,cent2142,http://concepticon.clld.org/parameters/1839,xača-ɲa,"cry, weep"
+269-513,cent2142,http://concepticon.clld.org/parameters/1651,xača,tear (noun)
+269-783,cent2142,http://concepticon.clld.org/parameters/716,kˀaɲa-ɲa,groan
+269-811,cent2142,http://concepticon.clld.org/parameters/1607,uɲisi-ɲa,hate
+269-836,cent2142,http://concepticon.clld.org/parameters/82,xačxa-ɲa,anger
+269-656,cent2142,http://concepticon.clld.org/parameters/1776,pˀinḳa,shame (noun)
+269-740,cent2142,http://concepticon.clld.org/parameters/781,aχsara-ɲa,"fear, fright"
+269-708,cent2142,http://concepticon.clld.org/parameters/1810,čixi,danger
+269-651,cent2142,http://concepticon.clld.org/parameters/1750,axlʸi-ɲa,choose
+269-399,cent2142,http://concepticon.clld.org/parameters/1657,čiḳa,true
+269-250,cent2142,http://concepticon.clld.org/parameters/601,kˀarisi-ɲa,"lie, tell lies"
+269-312,cent2142,http://concepticon.clld.org/parameters/1528,pampača-ɲa,forgive
+269-693,cent2142,http://concepticon.clld.org/parameters/1035,suma,good
+269-421,cent2142,http://concepticon.clld.org/parameters/1292,ḳʰuru,bad
+269-399,cent2142,http://concepticon.clld.org/parameters/1725,čiḳa,"right, correct"
+269-10,cent2142,http://concepticon.clld.org/parameters/134,xuča,fault
+269-758,cent2142,http://concepticon.clld.org/parameters/1293,panta-ɲa,"mistake, error"
+269-10,cent2142,http://concepticon.clld.org/parameters/381,xuča,blame
+269-355,cent2142,http://concepticon.clld.org/parameters/1427,kˀača,beautiful
+269-770,cent2142,http://concepticon.clld.org/parameters/1427,xiwaki,beautiful
+269-197,cent2142,http://concepticon.clld.org/parameters/1548,aχta-ɲa,ugly
+269-170,cent2142,http://concepticon.clld.org/parameters/1310,čˀikʰi,clever
+269-282,cent2142,http://concepticon.clld.org/parameters/1562,amuyu,mind
+269-661,cent2142,http://concepticon.clld.org/parameters/1415,lupˀi-ɲa,think (= reflect)
+269-839,cent2142,http://concepticon.clld.org/parameters/1536,amuya-ɲa,understand
+269-763,cent2142,http://concepticon.clld.org/parameters/1410,yati-ɲa,know
+269-193,cent2142,http://concepticon.clld.org/parameters/1932,xamu-ɲa,guess
+269-189,cent2142,http://concepticon.clld.org/parameters/117,yatχapaya-ɲa,imitate
+269-282,cent2142,http://concepticon.clld.org/parameters/1609,amuyu,"idea, notion"
+269-615,cent2142,http://concepticon.clld.org/parameters/698,amawtˀa,wise
+269-699,cent2142,http://concepticon.clld.org/parameters/1518,ipi,"foolish, stupid"
+269-494,cent2142,http://concepticon.clld.org/parameters/1899,luḳʰi,"insane, crazy"
+269-57,cent2142,http://concepticon.clld.org/parameters/504,yatiḳa-ɲa,learn
+269-68,cent2142,http://concepticon.clld.org/parameters/1929,yatχata-ɲa,study
+269-56,cent2142,http://concepticon.clld.org/parameters/709,yatiča-ɲa,teach
+269-807,cent2142,http://concepticon.clld.org/parameters/753,yatiḳiri,pupil
+269-588,cent2142,http://concepticon.clld.org/parameters/1038,yatičiri,teacher
+269-497,cent2142,http://concepticon.clld.org/parameters/673,yatiɲuta,school
+269-510,cent2142,http://concepticon.clld.org/parameters/707,amta-ɲa,remember
+269-539,cent2142,http://concepticon.clld.org/parameters/1523,arma-ɲa,forget
+269-691,cent2142,http://concepticon.clld.org/parameters/989,ḳʰana,"clear, plain"
+269-702,cent2142,http://concepticon.clld.org/parameters/1764,čˀamaka,obscure
+269-533,cent2142,http://concepticon.clld.org/parameters/1121,imantata,secret
+269-33,cent2142,http://concepticon.clld.org/parameters/1626,yatičtˀa-ɲa,explain
+269-839,cent2142,http://concepticon.clld.org/parameters/1841,amuya-ɲa,suspect
+269-209,cent2142,http://concepticon.clld.org/parameters/1902,salʸḳxa-ɲa,betray
+269-772,cent2142,http://concepticon.clld.org/parameters/584,čˀama,difficult
+269-625,cent2142,http://concepticon.clld.org/parameters/1812,uɲstaya-ɲa,"try, attempt"
+269-371,cent2142,http://concepticon.clld.org/parameters/1577,-mpi,and
+269-844,cent2142,http://concepticon.clld.org/parameters/1014,-ča,or
+269-782,cent2142,http://concepticon.clld.org/parameters/1268,xiisa,"yes, affirmative"
+269-94,cent2142,http://concepticon.clld.org/parameters/1269,xaniwa,"no, negative"
+269-788,cent2142,http://concepticon.clld.org/parameters/1239,kumasa,how?
+269-335,cent2142,http://concepticon.clld.org/parameters/822,ḳawḳʰanaksa,how many?
+269-875,cent2142,http://concepticon.clld.org/parameters/531,ḳawḳʰsa,how much?
+269-49,cent2142,http://concepticon.clld.org/parameters/1236,kunasa,what?
+269-262,cent2142,http://concepticon.clld.org/parameters/1238,kunarsa,when?
+269-864,cent2142,http://concepticon.clld.org/parameters/1237,kawkinsa,where?
+269-684,cent2142,http://concepticon.clld.org/parameters/727,kawkisa,which?
+269-505,cent2142,http://concepticon.clld.org/parameters/1235,kʰitisa,who?
+269-682,cent2142,http://concepticon.clld.org/parameters/1270,kunatsa,why?
+269-349,cent2142,http://concepticon.clld.org/parameters/1363,aru,voice
+269-23,cent2142,http://concepticon.clld.org/parameters/1261,xaylʸi-ɲa,sing
+269-41,cent2142,http://concepticon.clld.org/parameters/715,arnaḳa-ɲa,"shout, cry out"
+269-174,cent2142,http://concepticon.clld.org/parameters/55,xinčuru arχaya-ɲa,whisper
+269-173,cent2142,http://concepticon.clld.org/parameters/1025,kʰuyu-ɲa,whistle
+269-783,cent2142,http://concepticon.clld.org/parameters/298,kˀaɲa-ɲa,"shriek, screech"
+269-266,cent2142,http://concepticon.clld.org/parameters/526,[awulʸi]-ɲa,howl
+269-65,cent2142,http://concepticon.clld.org/parameters/1623,aru-ɲa,"speak, talk"
+269-487,cent2142,http://concepticon.clld.org/parameters/1623,arsu-ɲa,"speak, talk"
+269-305,cent2142,http://concepticon.clld.org/parameters/1866,kʰakʰa-ɲa,"stutter, stammer"
+269-219,cent2142,http://concepticon.clld.org/parameters/1458,sa-ɲa,say
+269-6,cent2142,http://concepticon.clld.org/parameters/1711,xawari-ɲa,tell story
+269-457,cent2142,http://concepticon.clld.org/parameters/1115,arstˀa-ɲa,speech (make a)
+269-284,cent2142,http://concepticon.clld.org/parameters/48,amuktˀa-ɲa,silent (be)
+269-349,cent2142,http://concepticon.clld.org/parameters/1307,aru,language
+269-349,cent2142,http://concepticon.clld.org/parameters/1599,aru,word
+269-724,cent2142,http://concepticon.clld.org/parameters/1405,suti,name
+269-473,cent2142,http://concepticon.clld.org/parameters/1309,xiskʰi-ɲa,"ask (question, inquire)"
+269-186,cent2142,http://concepticon.clld.org/parameters/1275,xaysa-ɲa,answer
+269-99,cent2142,http://concepticon.clld.org/parameters/755,xaniča-ɲa,deny
+269-144,cent2142,http://concepticon.clld.org/parameters/1828,mayi-ɲa,"ask, request"
+269-467,cent2142,http://concepticon.clld.org/parameters/1084,xawsa-ɲa,call (=summon)
+269-20,cent2142,http://concepticon.clld.org/parameters/180,xawsasi-ɲa,call (=name)
+269-381,cent2142,http://concepticon.clld.org/parameters/9,yatiya-ɲa,announce
+269-683,cent2142,http://concepticon.clld.org/parameters/1672,ḳilʸḳa-ɲa,write
+269-716,cent2142,http://concepticon.clld.org/parameters/724,uɲa-ɲa,read
+269-583,cent2142,http://concepticon.clld.org/parameters/963,panka,book
+269-606,cent2142,http://concepticon.clld.org/parameters/1045,yarḳwiku,poet
+269-793,cent2142,http://concepticon.clld.org/parameters/777,ḳina,flute
+269-820,cent2142,http://concepticon.clld.org/parameters/908,wankara,drum
+269-612,cent2142,http://concepticon.clld.org/parameters/1300,marka,country
+269-612,cent2142,http://concepticon.clld.org/parameters/1391,marka,"city, town"
+269-612,cent2142,http://concepticon.clld.org/parameters/930,marka,village
+269-679,cent2142,http://concepticon.clld.org/parameters/1010,ḳurpa,boundary
+269-550,cent2142,http://concepticon.clld.org/parameters/789,marka-čiri,people (populace)
+269-466,cent2142,http://concepticon.clld.org/parameters/301,kuraka,"chief, chieftain"
+269-805,cent2142,http://concepticon.clld.org/parameters/1296,tʰuxru,"staff, walking stick"
+269-655,cent2142,http://concepticon.clld.org/parameters/1306,ḳuya,queen
+269-550,cent2142,http://concepticon.clld.org/parameters/1032,marka-čiri,"citizen, subject"
+269-663,cent2142,http://concepticon.clld.org/parameters/1635,iyawaa-ɲa,obey
+269-492,cent2142,http://concepticon.clld.org/parameters/1003,-ya,"let, permit"
+269-902,cent2142,http://concepticon.clld.org/parameters/1325,masi,"friend, companion"
+269-316,cent2142,http://concepticon.clld.org/parameters/1358,awḳa,enemy
+269-856,cent2142,http://concepticon.clld.org/parameters/1332,xakˀasina,neighbor
+269-14,cent2142,http://concepticon.clld.org/parameters/1782,xawsata,guest
+269-599,cent2142,http://concepticon.clld.org/parameters/1545,ḳurpačuta,host
+269-468,cent2142,http://concepticon.clld.org/parameters/1897,yanapa-ɲa,"help, aid"
+269-417,cent2142,http://concepticon.clld.org/parameters/1848,čˀaχwa,"strife, quarrel"
+269-652,cent2142,http://concepticon.clld.org/parameters/1831,xiki-ɲa,meet
+269-710,cent2142,http://concepticon.clld.org/parameters/1610,pampa warmi,prostitute
+269-268,cent2142,http://concepticon.clld.org/parameters/1423,nuwasi-ɲa,fight (vb)
+269-417,cent2142,http://concepticon.clld.org/parameters/579,čˀaχwa,"war, battle"
+269-660,cent2142,http://concepticon.clld.org/parameters/1941,palʸa-palʸa,soldier
+269-812,cent2142,http://concepticon.clld.org/parameters/387,ḳˀurawa,sling
+269-367,cent2142,http://concepticon.clld.org/parameters/977,mičˀi,arrow
+269-138,cent2142,http://concepticon.clld.org/parameters/1938,pukara,fortress
+269-559,cent2142,http://concepticon.clld.org/parameters/1330,tuwa-ɲa,defend
+269-813,cent2142,http://concepticon.clld.org/parameters/1072,paḳuma,"captive, prisoner"
+269-880,cent2142,http://concepticon.clld.org/parameters/65,ḳʰamiya-ɲa,ambush
+269-622,cent2142,http://concepticon.clld.org/parameters/1858,kuturi,fisherman
+269-787,cent2142,http://concepticon.clld.org/parameters/388,saḳaɲa,fishnet
+269-801,cent2142,http://concepticon.clld.org/parameters/2013,likˀi,bait
+269-204,cent2142,http://concepticon.clld.org/parameters/1435,katu-ɲa,hunt
+269-758,cent2142,http://concepticon.clld.org/parameters/161,panta-ɲa,miss (target)
+269-742,cent2142,http://concepticon.clld.org/parameters/1075,sipita,trap (noun)
+269-706,cent2142,http://concepticon.clld.org/parameters/1170,katxa-ɲa,trap (vb)
+269-86,cent2142,http://concepticon.clld.org/parameters/1062,kamači,law
+269-64,cent2142,http://concepticon.clld.org/parameters/1818,taripa-ɲa,judge (vb)
+269-543,cent2142,http://concepticon.clld.org/parameters/861,taripiri,judge (noun)
+269-898,cent2142,http://concepticon.clld.org/parameters/2020,tumpiri,plaintiff
+269-123,cent2142,http://concepticon.clld.org/parameters/1034,tumpata,defendant
+269-428,cent2142,http://concepticon.clld.org/parameters/1144,uɲxiri,witness
+269-607,cent2142,http://concepticon.clld.org/parameters/1814,čˀata-ɲa,accuse
+269-64,cent2142,http://concepticon.clld.org/parameters/484,taripa-ɲa,condemn
+269-658,cent2142,http://concepticon.clld.org/parameters/983,xuča-ča-ɲa,convict (vb)
+269-888,cent2142,http://concepticon.clld.org/parameters/1682,xučani,guilty
+269-813,cent2142,http://concepticon.clld.org/parameters/1281,paḳuma,"prison, jail"
+269-152,cent2142,http://concepticon.clld.org/parameters/845,xiwaya(...),murder
+269-564,cent2142,http://concepticon.clld.org/parameters/902,wačuḳa,adultery
+269-429,cent2142,http://concepticon.clld.org/parameters/713,luntʰata-ɲa,steal
+269-66,cent2142,http://concepticon.clld.org/parameters/1160,luntʰata,thief
+269-810,cent2142,http://concepticon.clld.org/parameters/1944,pačamama,God
+269-828,cent2142,http://concepticon.clld.org/parameters/1944,wakˀa,God
+269-857,cent2142,http://concepticon.clld.org/parameters/1103,luḳta,"sacrifice, offering"
+269-501,cent2142,http://concepticon.clld.org/parameters/852,tata [kura],priest
+269-256,cent2142,http://concepticon.clld.org/parameters/1702,ḳulʸaana,"holy, sacred"
+269-241,cent2142,http://concepticon.clld.org/parameters/8,nanḳʰa-ɲa,curse
+269-749,cent2142,http://concepticon.clld.org/parameters/1565,alaχpača,heaven
+269-731,cent2142,http://concepticon.clld.org/parameters/1973,supaya,demon (evil spirit)
+269-828,cent2142,http://concepticon.clld.org/parameters/1945,wakˀa,idol
+269-21,cent2142,http://concepticon.clld.org/parameters/2137,layḳa,"sorcerer, witch"

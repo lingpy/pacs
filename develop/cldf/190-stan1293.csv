@@ -1,0 +1,1552 @@
+ID,Language_ID,Feature_ID,Value,Concept
+190-711,stan1293,http://concepticon.clld.org/parameters/965,world,world
+190-1157,stan1293,http://concepticon.clld.org/parameters/626,earth,"earth, land"
+190-1124,stan1293,http://concepticon.clld.org/parameters/626,land,"earth, land"
+190-606,stan1293,http://concepticon.clld.org/parameters/1228,ground,"earth=ground, soil"
+190-667,stan1293,http://concepticon.clld.org/parameters/1228,soil,"earth=ground, soil"
+190-1394,stan1293,http://concepticon.clld.org/parameters/2,dust,dust
+190-235,stan1293,http://concepticon.clld.org/parameters/640,mud,mud
+190-803,stan1293,http://concepticon.clld.org/parameters/671,sand,sand
+190-953,stan1293,http://concepticon.clld.org/parameters/2118,mountain,"mountain, hill"
+190-912,stan1293,http://concepticon.clld.org/parameters/2118,hill,"mountain, hill"
+190-1489,stan1293,http://concepticon.clld.org/parameters/618,cliff,"cliff, precipice"
+190-1307,stan1293,http://concepticon.clld.org/parameters/618,precipice,"cliff, precipice"
+190-1379,stan1293,http://concepticon.clld.org/parameters/652,plain,"plain, field"
+190-777,stan1293,http://concepticon.clld.org/parameters/652,field,"plain, field"
+190-757,stan1293,http://concepticon.clld.org/parameters/921,valley,valley
+190-742,stan1293,http://concepticon.clld.org/parameters/622,island,island
+190-72,stan1293,http://concepticon.clld.org/parameters/166,mainland,mainland
+190-876,stan1293,http://concepticon.clld.org/parameters/113,shore,shore
+190-954,stan1293,http://concepticon.clld.org/parameters/1155,cave,cave
+190-433,stan1293,http://concepticon.clld.org/parameters/948,water,water
+190-998,stan1293,http://concepticon.clld.org/parameters/1474,sea,sea
+190-61,stan1293,http://concepticon.clld.org/parameters/258,calm,calm (of sea)
+190-397,stan1293,http://concepticon.clld.org/parameters/259,rough,rough (of sea)
+190-685,stan1293,http://concepticon.clld.org/parameters/1768,foam,foam
+190-291,stan1293,http://concepticon.clld.org/parameters/645,ocean,ocean
+190-1413,stan1293,http://concepticon.clld.org/parameters/624,lake,lake
+190-610,stan1293,http://concepticon.clld.org/parameters/663,gulf,"gulf, bay"
+190-221,stan1293,http://concepticon.clld.org/parameters/663,bay,"gulf, bay"
+190-487,stan1293,http://concepticon.clld.org/parameters/623,lagoon,lagoon
+190-1102,stan1293,http://concepticon.clld.org/parameters/660,reef,reef
+190-182,stan1293,http://concepticon.clld.org/parameters/1662,headland,"headland, point"
+190-1007,stan1293,http://concepticon.clld.org/parameters/1662,point,"headland, point"
+190-1141,stan1293,http://concepticon.clld.org/parameters/978,wave,wave
+190-1304,stan1293,http://concepticon.clld.org/parameters/891,tide,tide
+190-668,stan1293,http://concepticon.clld.org/parameters/1026,lowtide,lowtide
+190-728,stan1293,http://concepticon.clld.org/parameters/613,hightide,hightide
+190-993,stan1293,http://concepticon.clld.org/parameters/666,river,"river, stream, brook"
+190-464,stan1293,http://concepticon.clld.org/parameters/666,stream,"river, stream, brook"
+190-1243,stan1293,http://concepticon.clld.org/parameters/666,brook,"river, stream, brook"
+190-503,stan1293,http://concepticon.clld.org/parameters/1982,whirlpool,whirlpool
+190-1077,stan1293,http://concepticon.clld.org/parameters/2144,spring,"spring, well"
+190-1400,stan1293,http://concepticon.clld.org/parameters/2144,well,"spring, well"
+190-201,stan1293,http://concepticon.clld.org/parameters/1145,swamp,swamp
+190-285,stan1293,http://concepticon.clld.org/parameters/943,waterfall,waterfall
+190-3,stan1293,http://concepticon.clld.org/parameters/420,woods,"woods, forest"
+190-1220,stan1293,http://concepticon.clld.org/parameters/420,forest,"woods, forest"
+190-172,stan1293,http://concepticon.clld.org/parameters/906,tree,tree (cf 08.600)
+190-614,stan1293,http://concepticon.clld.org/parameters/1803,wood,wood
+190-740,stan1293,http://concepticon.clld.org/parameters/2125,stone,"stone, rock"
+190-515,stan1293,http://concepticon.clld.org/parameters/2125,rock,"stone, rock"
+190-437,stan1293,http://concepticon.clld.org/parameters/6,earthquake,earthquake
+190-446,stan1293,http://concepticon.clld.org/parameters/1732,sky,sky
+190-811,stan1293,http://concepticon.clld.org/parameters/1343,sun,sun
+190-733,stan1293,http://concepticon.clld.org/parameters/1313,moon,moon
+190-1484,stan1293,http://concepticon.clld.org/parameters/1430,star,star
+190-720,stan1293,http://concepticon.clld.org/parameters/1654,lightning,lightning
+190-33,stan1293,http://concepticon.clld.org/parameters/1150,thunder,thunder
+190-720,stan1293,http://concepticon.clld.org/parameters/2007,lightning,lightning (as striking)
+190-936,stan1293,http://concepticon.clld.org/parameters/858,storm,storm
+190-1116,stan1293,http://concepticon.clld.org/parameters/1733,rainbow,rainbow
+190-1230,stan1293,http://concepticon.clld.org/parameters/630,light,light (noun)
+190-809,stan1293,http://concepticon.clld.org/parameters/11,darkness,darkness
+190-877,stan1293,http://concepticon.clld.org/parameters/1388,shade,"shade, shadow"
+190-312,stan1293,http://concepticon.clld.org/parameters/1388,shadow,"shade, shadow"
+190-845,stan1293,http://concepticon.clld.org/parameters/1977,dew,dew
+190-263,stan1293,http://concepticon.clld.org/parameters/27,air,air
+190-110,stan1293,http://concepticon.clld.org/parameters/960,wind,wind
+190-1181,stan1293,http://concepticon.clld.org/parameters/1489,cloud,cloud
+190-338,stan1293,http://concepticon.clld.org/parameters/249,fog,fog
+190-283,stan1293,http://concepticon.clld.org/parameters/658,rain,rain (noun)
+190-191,stan1293,http://concepticon.clld.org/parameters/784,snow,snow (noun)
+190-337,stan1293,http://concepticon.clld.org/parameters/617,ice,ice
+190-1453,stan1293,http://concepticon.clld.org/parameters/952,weather,weather
+190-1023,stan1293,http://concepticon.clld.org/parameters/221,fire,fire
+190-173,stan1293,http://concepticon.clld.org/parameters/889,flame,flame (noun)
+190-48,stan1293,http://concepticon.clld.org/parameters/778,smoke,smoke (noun)
+190-897,stan1293,http://concepticon.clld.org/parameters/646,ashes,ashes
+190-1240,stan1293,http://concepticon.clld.org/parameters/67,embers,embers
+190-344,stan1293,http://concepticon.clld.org/parameters/141,burn,burn (vb trans)
+190-344,stan1293,http://concepticon.clld.org/parameters/1428,burn,burn (vb intrans)
+190-1230,stan1293,http://concepticon.clld.org/parameters/737,light,"light, kindle, ignite"
+190-947,stan1293,http://concepticon.clld.org/parameters/737,kindle,"light, kindle, ignite"
+190-1235,stan1293,http://concepticon.clld.org/parameters/737,ignite,"light, kindle, ignite"
+190-568,stan1293,http://concepticon.clld.org/parameters/127,extinguish,extinguish
+190-1035,stan1293,http://concepticon.clld.org/parameters/1133,match,match (noun)
+190-979,stan1293,http://concepticon.clld.org/parameters/10,firewood,firewood
+190-1188,stan1293,http://concepticon.clld.org/parameters/1188,charcoal,charcoal
+190-1056,stan1293,http://concepticon.clld.org/parameters/683,person,"person, human being"
+190-1223,stan1293,http://concepticon.clld.org/parameters/683,human being,"person, human being"
+190-482,stan1293,http://concepticon.clld.org/parameters/1554,man,man (vs. woman)
+190-795,stan1293,http://concepticon.clld.org/parameters/962,woman,woman
+190-851,stan1293,http://concepticon.clld.org/parameters/2263,male,male
+190-1456,stan1293,http://concepticon.clld.org/parameters/2260,female,female
+190-439,stan1293,http://concepticon.clld.org/parameters/1366,boy,boy
+190-41,stan1293,http://concepticon.clld.org/parameters/76,young man,young man (adolescent)
+190-525,stan1293,http://concepticon.clld.org/parameters/1646,girl,girl
+190-560,stan1293,http://concepticon.clld.org/parameters/77,young woman,young woman (adolescent)
+190-259,stan1293,http://concepticon.clld.org/parameters/1304,child,child
+190-879,stan1293,http://concepticon.clld.org/parameters/1289,infant,"infant, baby"
+190-1129,stan1293,http://concepticon.clld.org/parameters/1289,baby,"infant, baby"
+190-631,stan1293,http://concepticon.clld.org/parameters/1200,husband,husband
+190-783,stan1293,http://concepticon.clld.org/parameters/1199,wife,wife
+190-1149,stan1293,http://concepticon.clld.org/parameters/203,marry,marry
+190-945,stan1293,http://concepticon.clld.org/parameters/1259,marriage,"marriage, wedding"
+190-219,stan1293,http://concepticon.clld.org/parameters/1259,wedding,"marriage, wedding"
+190-925,stan1293,http://concepticon.clld.org/parameters/1134,divorce,divorce
+190-409,stan1293,http://concepticon.clld.org/parameters/1217,father,father
+190-292,stan1293,http://concepticon.clld.org/parameters/1216,mother,mother
+190-1062,stan1293,http://concepticon.clld.org/parameters/505,parents,parents
+190-38,stan1293,http://concepticon.clld.org/parameters/424,married man,married man
+190-825,stan1293,http://concepticon.clld.org/parameters/426,married woman,married woman
+190-354,stan1293,http://concepticon.clld.org/parameters/1620,son,son
+190-45,stan1293,http://concepticon.clld.org/parameters/1357,daughter,daughter
+190-862,stan1293,http://concepticon.clld.org/parameters/1801,offspring,offspring (son or daughter)
+190-416,stan1293,http://concepticon.clld.org/parameters/1262,brother,brother
+190-731,stan1293,http://concepticon.clld.org/parameters/1759,older brother,older brother
+190-296,stan1293,http://concepticon.clld.org/parameters/1760,younger brother,younger brother
+190-1444,stan1293,http://concepticon.clld.org/parameters/1263,sister,sister
+190-1111,stan1293,http://concepticon.clld.org/parameters/1758,older sister,older sister
+190-974,stan1293,http://concepticon.clld.org/parameters/1761,younger sister,younger sister
+190-1475,stan1293,http://concepticon.clld.org/parameters/1640,sibling,sibling
+190-1162,stan1293,http://concepticon.clld.org/parameters/1005,twins,twins
+190-801,stan1293,http://concepticon.clld.org/parameters/1383,grandfather,grandfather
+190-1405,stan1293,http://concepticon.clld.org/parameters/406,old man,old man
+190-234,stan1293,http://concepticon.clld.org/parameters/1496,grandmother,grandmother
+190-106,stan1293,http://concepticon.clld.org/parameters/907,old woman,old woman
+190-484,stan1293,http://concepticon.clld.org/parameters/1618,grandson,grandson
+190-478,stan1293,http://concepticon.clld.org/parameters/1619,granddaughter,granddaughter
+190-597,stan1293,http://concepticon.clld.org/parameters/1327,uncle,uncle
+190-883,stan1293,http://concepticon.clld.org/parameters/1984,mother's brother,mother's brother
+190-297,stan1293,http://concepticon.clld.org/parameters/1985,father's brother,father's brother
+190-202,stan1293,http://concepticon.clld.org/parameters/1272,aunt,aunt
+190-661,stan1293,http://concepticon.clld.org/parameters/171,mother's sister,mother's sister
+190-1072,stan1293,http://concepticon.clld.org/parameters/170,father's sister,father's sister
+190-207,stan1293,http://concepticon.clld.org/parameters/1063,nephew,nephew
+190-193,stan1293,http://concepticon.clld.org/parameters/1642,niece,niece
+190-242,stan1293,http://concepticon.clld.org/parameters/1643,cousin,cousin
+190-1117,stan1293,http://concepticon.clld.org/parameters/1669,ancestors,ancestors
+190-1248,stan1293,http://concepticon.clld.org/parameters/490,descendants,descendants
+190-1476,stan1293,http://concepticon.clld.org/parameters/2255,father-in-law,father-in-law (of a man)
+190-1476,stan1293,http://concepticon.clld.org/parameters/2254,father-in-law,father-in-law (of a woman)
+190-1425,stan1293,http://concepticon.clld.org/parameters/2256,mother-in-law,mother-in-law (of a man)
+190-1425,stan1293,http://concepticon.clld.org/parameters/2257,mother-in-law,mother-in-law (of a woman)
+190-741,stan1293,http://concepticon.clld.org/parameters/2267,son-in-law,son-in-law (of a man)
+190-741,stan1293,http://concepticon.clld.org/parameters/2266,son-in-law,son-in-law (of a woman)
+190-1460,stan1293,http://concepticon.clld.org/parameters/2265,daughter-in-law,daughter-in-law (of a man)
+190-1460,stan1293,http://concepticon.clld.org/parameters/2264,daughter-in-law,daughter-in-law (of a woman)
+190-662,stan1293,http://concepticon.clld.org/parameters/237,stepfather,stepfather
+190-928,stan1293,http://concepticon.clld.org/parameters/236,stepmother,stepmother
+190-633,stan1293,http://concepticon.clld.org/parameters/1059,stepson,stepson
+190-299,stan1293,http://concepticon.clld.org/parameters/1058,stepdaughter,stepdaughter
+190-1350,stan1293,http://concepticon.clld.org/parameters/1149,orphan,orphan
+190-1349,stan1293,http://concepticon.clld.org/parameters/1756,widow,widow
+190-753,stan1293,http://concepticon.clld.org/parameters/1981,widower,widower
+190-1309,stan1293,http://concepticon.clld.org/parameters/1644,relatives,"relatives, kinsmen"
+190-1151,stan1293,http://concepticon.clld.org/parameters/1644,kinsmen,"relatives, kinsmen"
+190-824,stan1293,http://concepticon.clld.org/parameters/194,family,family
+190-683,stan1293,http://concepticon.clld.org/parameters/1209,I,I
+190-778,stan1293,http://concepticon.clld.org/parameters/1215,you,you (singular)
+190-217,stan1293,http://concepticon.clld.org/parameters/262,he/she/it,he/she/it
+190-1351,stan1293,http://concepticon.clld.org/parameters/1212,we,we
+190-1351,stan1293,http://concepticon.clld.org/parameters/1131,we,we (inclusive)
+190-1351,stan1293,http://concepticon.clld.org/parameters/1130,we,we (exclusive)
+190-778,stan1293,http://concepticon.clld.org/parameters/1213,you,you (plural)
+190-124,stan1293,http://concepticon.clld.org/parameters/817,they,they
+190-1221,stan1293,http://concepticon.clld.org/parameters/619,animal,animal
+190-851,stan1293,http://concepticon.clld.org/parameters/2261,male,male (adj)
+190-1456,stan1293,http://concepticon.clld.org/parameters/2262,female,female (adj)
+190-694,stan1293,http://concepticon.clld.org/parameters/631,livestock,livestock
+190-730,stan1293,http://concepticon.clld.org/parameters/649,pasture,pasture
+190-1414,stan1293,http://concepticon.clld.org/parameters/263,herdsman,herdsman
+190-1135,stan1293,http://concepticon.clld.org/parameters/851,stable,"stable, stall"
+190-944,stan1293,http://concepticon.clld.org/parameters/851,stall,"stable, stall"
+190-230,stan1293,http://concepticon.clld.org/parameters/1153,cattle,cattle (bovine)
+190-1378,stan1293,http://concepticon.clld.org/parameters/1008,bull,bull
+190-1224,stan1293,http://concepticon.clld.org/parameters/1169,ox,ox
+190-245,stan1293,http://concepticon.clld.org/parameters/1007,cow,cow
+190-64,stan1293,http://concepticon.clld.org/parameters/1989,calf,calf
+190-551,stan1293,http://concepticon.clld.org/parameters/1331,sheep,sheep
+190-180,stan1293,http://concepticon.clld.org/parameters/1344,ram,ram
+190-1044,stan1293,http://concepticon.clld.org/parameters/1345,ewe,ewe
+190-1213,stan1293,http://concepticon.clld.org/parameters/820,lamb,lamb
+190-650,stan1293,http://concepticon.clld.org/parameters/1348,boar,boar
+190-356,stan1293,http://concepticon.clld.org/parameters/1351,sow,sow (2)
+190-1473,stan1293,http://concepticon.clld.org/parameters/1337,pig,pig
+190-869,stan1293,http://concepticon.clld.org/parameters/1502,goat,goat
+190-1357,stan1293,http://concepticon.clld.org/parameters/264,he-goat,he-goat
+190-288,stan1293,http://concepticon.clld.org/parameters/1972,kid,kid
+190-932,stan1293,http://concepticon.clld.org/parameters/615,horse,horse (equine)
+190-432,stan1293,http://concepticon.clld.org/parameters/936,stallion,stallion
+190-652,stan1293,http://concepticon.clld.org/parameters/938,mare,mare
+190-684,stan1293,http://concepticon.clld.org/parameters/1647,foal,"foal, colt"
+190-492,stan1293,http://concepticon.clld.org/parameters/1647,colt,"foal, colt"
+190-914,stan1293,http://concepticon.clld.org/parameters/1862,ass,"ass, donkey"
+190-177,stan1293,http://concepticon.clld.org/parameters/1862,donkey,"ass, donkey"
+190-818,stan1293,http://concepticon.clld.org/parameters/890,mule,mule
+190-1303,stan1293,http://concepticon.clld.org/parameters/265,fowl,fowl
+190-663,stan1293,http://concepticon.clld.org/parameters/1511,cock,"cock, rooster"
+190-1384,stan1293,http://concepticon.clld.org/parameters/1511,rooster,"cock, rooster"
+190-756,stan1293,http://concepticon.clld.org/parameters/1514,hen,hen
+190-1328,stan1293,http://concepticon.clld.org/parameters/1318,chicken,chicken
+190-522,stan1293,http://concepticon.clld.org/parameters/1187,goose,goose
+190-1180,stan1293,http://concepticon.clld.org/parameters/1360,duck,duck
+190-913,stan1293,http://concepticon.clld.org/parameters/539,nest,nest
+190-1163,stan1293,http://concepticon.clld.org/parameters/937,bird,bird
+190-850,stan1293,http://concepticon.clld.org/parameters/950,seagull,seagull
+190-888,stan1293,http://concepticon.clld.org/parameters/758,heron,heron
+190-530,stan1293,http://concepticon.clld.org/parameters/1905,eagle,eagle
+190-1227,stan1293,http://concepticon.clld.org/parameters/307,hawk,hawk
+190-310,stan1293,http://concepticon.clld.org/parameters/1185,vulture,vulture
+190-1250,stan1293,http://concepticon.clld.org/parameters/1793,bat,bat
+190-21,stan1293,http://concepticon.clld.org/parameters/882,parrot,parrot
+190-1153,stan1293,http://concepticon.clld.org/parameters/913,crow,crow
+190-480,stan1293,http://concepticon.clld.org/parameters/1853,dove,dove
+190-1449,stan1293,http://concepticon.clld.org/parameters/735,owl,owl
+190-199,stan1293,http://concepticon.clld.org/parameters/2009,dog,dog
+190-1193,stan1293,http://concepticon.clld.org/parameters/1136,rabbit,rabbit
+190-458,stan1293,http://concepticon.clld.org/parameters/1208,cat,cat
+190-1282,stan1293,http://concepticon.clld.org/parameters/309,opossum,opossum
+190-274,stan1293,http://concepticon.clld.org/parameters/2139,mouse,"mouse, rat"
+190-183,stan1293,http://concepticon.clld.org/parameters/2139,rat,"mouse, rat"
+190-905,stan1293,http://concepticon.clld.org/parameters/227,fish,fish
+190-122,stan1293,http://concepticon.clld.org/parameters/213,fin,fin (dorsal)
+190-1059,stan1293,http://concepticon.clld.org/parameters/266,fishscale,fishscale
+190-957,stan1293,http://concepticon.clld.org/parameters/1916,gill,gill
+190-1286,stan1293,http://concepticon.clld.org/parameters/598,shell,shell
+190-853,stan1293,http://concepticon.clld.org/parameters/1110,shark,shark
+190-926,stan1293,http://concepticon.clld.org/parameters/1479,porpoise,"porpoise, dolphin"
+190-88,stan1293,http://concepticon.clld.org/parameters/1479,dolphin,"porpoise, dolphin"
+190-1395,stan1293,http://concepticon.clld.org/parameters/957,whale,whale
+190-339,stan1293,http://concepticon.clld.org/parameters/1910,stingray,stingray
+190-762,stan1293,http://concepticon.clld.org/parameters/1013,freshwater eel,freshwater eel
+190-745,stan1293,http://concepticon.clld.org/parameters/522,wolf,wolf
+190-996,stan1293,http://concepticon.clld.org/parameters/1386,lion,lion
+190-1338,stan1293,http://concepticon.clld.org/parameters/1820,bear,bear
+190-335,stan1293,http://concepticon.clld.org/parameters/1312,fox,fox
+190-772,stan1293,http://concepticon.clld.org/parameters/1936,deer,deer
+190-149,stan1293,http://concepticon.clld.org/parameters/1350,monkey,monkey
+190-473,stan1293,http://concepticon.clld.org/parameters/1290,elephant,elephant
+190-431,stan1293,http://concepticon.clld.org/parameters/1871,camel,camel
+190-1123,stan1293,http://concepticon.clld.org/parameters/620,insect,insect
+190-151,stan1293,http://concepticon.clld.org/parameters/310,louse,louse
+190-287,stan1293,http://concepticon.clld.org/parameters/267,nit,nit (louse egg)
+190-1253,stan1293,http://concepticon.clld.org/parameters/232,flea,flea
+190-379,stan1293,http://concepticon.clld.org/parameters/1974,centipede,centipede
+190-1334,stan1293,http://concepticon.clld.org/parameters/1538,scorpion,scorpion
+190-917,stan1293,http://concepticon.clld.org/parameters/1575,cockroach,cockroach
+190-573,stan1293,http://concepticon.clld.org/parameters/587,ant,ant
+190-139,stan1293,http://concepticon.clld.org/parameters/843,spider,spider
+190-1382,stan1293,http://concepticon.clld.org/parameters/1065,spider web,spider web
+190-1298,stan1293,http://concepticon.clld.org/parameters/665,bee,bee
+190-63,stan1293,http://concepticon.clld.org/parameters/1931,beeswax,beeswax
+190-485,stan1293,http://concepticon.clld.org/parameters/88,beehive,beehive
+190-154,stan1293,http://concepticon.clld.org/parameters/1517,wasp,wasp
+190-455,stan1293,http://concepticon.clld.org/parameters/1504,fly,fly
+190-148,stan1293,http://concepticon.clld.org/parameters/95,sandfly,"sandfly (midge), gnat"
+190-315,stan1293,http://concepticon.clld.org/parameters/95,midge,"sandfly (midge), gnat"
+190-607,stan1293,http://concepticon.clld.org/parameters/95,gnat,"sandfly (midge), gnat"
+190-317,stan1293,http://concepticon.clld.org/parameters/1509,mosquito,mosquito
+190-81,stan1293,http://concepticon.clld.org/parameters/1219,worm,worm
+190-1251,stan1293,http://concepticon.clld.org/parameters/730,snake,snake
+190-1312,stan1293,http://concepticon.clld.org/parameters/206,firefly,firefly
+190-586,stan1293,http://concepticon.clld.org/parameters/1791,butterfly,butterfly
+190-806,stan1293,http://concepticon.clld.org/parameters/607,grasshopper,grasshopper
+190-143,stan1293,http://concepticon.clld.org/parameters/1543,snail,snail
+190-1183,stan1293,http://concepticon.clld.org/parameters/503,frog,frog
+190-34,stan1293,http://concepticon.clld.org/parameters/632,lizard,lizard
+190-402,stan1293,http://concepticon.clld.org/parameters/1857,crocodile,"crocodile, alligator"
+190-58,stan1293,http://concepticon.clld.org/parameters/1857,alligator,"crocodile, alligator"
+190-517,stan1293,http://concepticon.clld.org/parameters/112,turtle,turtle
+190-1164,stan1293,http://concepticon.clld.org/parameters/1480,body,body
+190-403,stan1293,http://concepticon.clld.org/parameters/763,skin,"skin, hide"
+190-32,stan1293,http://concepticon.clld.org/parameters/763,hide,"skin, hide"
+190-1403,stan1293,http://concepticon.clld.org/parameters/2259,flesh,flesh
+190-1432,stan1293,http://concepticon.clld.org/parameters/1040,hair,hair (head)
+190-1285,stan1293,http://concepticon.clld.org/parameters/678,beard,beard
+190-414,stan1293,http://concepticon.clld.org/parameters/189,body hair,body hair
+190-24,stan1293,http://concepticon.clld.org/parameters/36,pubic hair,pubic hair
+190-1332,stan1293,http://concepticon.clld.org/parameters/576,dandruff,dandruff
+190-872,stan1293,http://concepticon.clld.org/parameters/946,blood,blood
+190-1488,stan1293,http://concepticon.clld.org/parameters/525,vein,"vein, artery"
+190-1145,stan1293,http://concepticon.clld.org/parameters/525,artery,"vein, artery"
+190-135,stan1293,http://concepticon.clld.org/parameters/1394,bone,bone
+190-1041,stan1293,http://concepticon.clld.org/parameters/801,rib,rib
+190-28,stan1293,http://concepticon.clld.org/parameters/1393,horn,horn
+190-792,stan1293,http://concepticon.clld.org/parameters/1220,tail,tail
+190-1079,stan1293,http://concepticon.clld.org/parameters/1291,back,back
+190-1068,stan1293,http://concepticon.clld.org/parameters/805,spine,spine
+190-367,stan1293,http://concepticon.clld.org/parameters/1256,head,head
+190-1222,stan1293,http://concepticon.clld.org/parameters/1604,side of head,"side of head, temple"
+190-1086,stan1293,http://concepticon.clld.org/parameters/1604,temple,"side of head, temple"
+190-1107,stan1293,http://concepticon.clld.org/parameters/1605,skull,skull
+190-493,stan1293,http://concepticon.clld.org/parameters/1583,brain,brain
+190-1322,stan1293,http://concepticon.clld.org/parameters/1560,face,face
+190-279,stan1293,http://concepticon.clld.org/parameters/123,forehead,forehead
+190-1333,stan1293,http://concepticon.clld.org/parameters/798,jaw,jaw
+190-1054,stan1293,http://concepticon.clld.org/parameters/1730,cheek,cheek
+190-465,stan1293,http://concepticon.clld.org/parameters/1510,chin,chin
+190-827,stan1293,http://concepticon.clld.org/parameters/1248,eye,eye
+190-1345,stan1293,http://concepticon.clld.org/parameters/1173,eyebrow,eyebrow
+190-519,stan1293,http://concepticon.clld.org/parameters/17,eyelid,eyelid
+190-903,stan1293,http://concepticon.clld.org/parameters/1540,eyelash,eyelash
+190-125,stan1293,http://concepticon.clld.org/parameters/1655,blink,blink
+190-1331,stan1293,http://concepticon.clld.org/parameters/1247,ear,ear
+190-1091,stan1293,http://concepticon.clld.org/parameters/18,earlobe,earlobe
+190-843,stan1293,http://concepticon.clld.org/parameters/32,earwax,earwax
+190-721,stan1293,http://concepticon.clld.org/parameters/1221,nose,nose
+190-630,stan1293,http://concepticon.clld.org/parameters/1178,nostril,nostril
+190-666,stan1293,http://concepticon.clld.org/parameters/208,mucus,mucus (nasal)
+190-194,stan1293,http://concepticon.clld.org/parameters/674,mouth,mouth
+190-1341,stan1293,http://concepticon.clld.org/parameters/73,beak,beak
+190-955,stan1293,http://concepticon.clld.org/parameters/478,lip,lip
+190-1228,stan1293,http://concepticon.clld.org/parameters/1205,tongue,tongue
+190-596,stan1293,http://concepticon.clld.org/parameters/1380,tooth,tooth
+190-1214,stan1293,http://concepticon.clld.org/parameters/139,gums,gums
+190-51,stan1293,http://concepticon.clld.org/parameters/1049,molartooth,molartooth
+190-483,stan1293,http://concepticon.clld.org/parameters/1333,neck,neck
+190-1273,stan1293,http://concepticon.clld.org/parameters/1347,nape of neck,nape of neck
+190-272,stan1293,http://concepticon.clld.org/parameters/1346,throat,throat
+190-309,stan1293,http://concepticon.clld.org/parameters/1482,shoulder,shoulder
+190-725,stan1293,http://concepticon.clld.org/parameters/172,shoulderblade,shoulderblade
+190-324,stan1293,http://concepticon.clld.org/parameters/1994,collarbone,collarbone
+190-1001,stan1293,http://concepticon.clld.org/parameters/1673,arm,arm
+190-1174,stan1293,http://concepticon.clld.org/parameters/1886,armpit,armpit
+190-83,stan1293,http://concepticon.clld.org/parameters/981,elbow,elbow
+190-1226,stan1293,http://concepticon.clld.org/parameters/799,wrist,wrist
+190-284,stan1293,http://concepticon.clld.org/parameters/1277,hand,hand
+190-774,stan1293,http://concepticon.clld.org/parameters/1183,palm of hand,palm of hand
+190-236,stan1293,http://concepticon.clld.org/parameters/1303,finger,finger
+190-499,stan1293,http://concepticon.clld.org/parameters/1781,thumb,thumb
+190-423,stan1293,http://concepticon.clld.org/parameters/1258,fingernail,fingernail
+190-723,stan1293,http://concepticon.clld.org/parameters/72,claw,claw
+190-1165,stan1293,http://concepticon.clld.org/parameters/1297,leg,leg
+190-1237,stan1293,http://concepticon.clld.org/parameters/800,thigh,thigh
+190-1067,stan1293,http://concepticon.clld.org/parameters/498,calf of leg,calf of leg
+190-592,stan1293,http://concepticon.clld.org/parameters/1371,knee,knee
+190-893,stan1293,http://concepticon.clld.org/parameters/1301,foot,foot
+190-1283,stan1293,http://concepticon.clld.org/parameters/803,ankle,ankle
+190-1428,stan1293,http://concepticon.clld.org/parameters/980,heel,heel
+190-689,stan1293,http://concepticon.clld.org/parameters/318,footprint,footprint
+190-164,stan1293,http://concepticon.clld.org/parameters/1389,toe,toe
+190-109,stan1293,http://concepticon.clld.org/parameters/1257,wing,wing
+190-1375,stan1293,http://concepticon.clld.org/parameters/1201,feather,feather
+190-192,stan1293,http://concepticon.clld.org/parameters/1592,chest,chest
+190-986,stan1293,http://concepticon.clld.org/parameters/1402,breast,breast (of woman)
+190-1073,stan1293,http://concepticon.clld.org/parameters/796,nipple,"nipple, teat"
+190-417,stan1293,http://concepticon.clld.org/parameters/796,teat,"nipple, teat"
+190-1447,stan1293,http://concepticon.clld.org/parameters/154,udder,udder
+190-395,stan1293,http://concepticon.clld.org/parameters/1838,navel,navel
+190-462,stan1293,http://concepticon.clld.org/parameters/1223,heart,heart
+190-1258,stan1293,http://concepticon.clld.org/parameters/688,lung,lung
+190-1026,stan1293,http://concepticon.clld.org/parameters/1224,liver,liver
+190-1113,stan1293,http://concepticon.clld.org/parameters/489,kidney,kidney
+190-1319,stan1293,http://concepticon.clld.org/parameters/1744,spleen,spleen
+190-1287,stan1293,http://concepticon.clld.org/parameters/819,stomach,stomach
+190-1106,stan1293,http://concepticon.clld.org/parameters/1991,intestines,"intestines, guts"
+190-1006,stan1293,http://concepticon.clld.org/parameters/1991,guts,"intestines, guts"
+190-1293,stan1293,http://concepticon.clld.org/parameters/1681,waist,waist
+190-983,stan1293,http://concepticon.clld.org/parameters/1745,hip,hip
+190-1294,stan1293,http://concepticon.clld.org/parameters/834,buttocks,buttocks
+190-815,stan1293,http://concepticon.clld.org/parameters/804,womb,womb
+190-474,stan1293,http://concepticon.clld.org/parameters/797,testicle,testicle
+190-1194,stan1293,http://concepticon.clld.org/parameters/1222,penis,penis
+190-65,stan1293,http://concepticon.clld.org/parameters/1407,breathe,"breathe, breath"
+190-655,stan1293,http://concepticon.clld.org/parameters/1407,breath,"breathe, breath"
+190-961,stan1293,http://concepticon.clld.org/parameters/1028,yawn,"yawn, gape"
+190-520,stan1293,http://concepticon.clld.org/parameters/1028,gape,"yawn, gape"
+190-511,stan1293,http://concepticon.clld.org/parameters/162,hiccough,hiccough
+190-56,stan1293,http://concepticon.clld.org/parameters/879,cough,cough
+190-782,stan1293,http://concepticon.clld.org/parameters/1621,sneeze,sneeze
+190-1219,stan1293,http://concepticon.clld.org/parameters/126,perspire,perspire
+190-1477,stan1293,http://concepticon.clld.org/parameters/1440,spit,spit
+190-892,stan1293,http://concepticon.clld.org/parameters/1278,vomit,vomit
+190-556,stan1293,http://concepticon.clld.org/parameters/1403,bite,bite
+190-572,stan1293,http://concepticon.clld.org/parameters/319,lick,lick
+190-791,stan1293,http://concepticon.clld.org/parameters/268,dribble,dribble
+190-4,stan1293,http://concepticon.clld.org/parameters/1585,sleep,sleep
+190-1066,stan1293,http://concepticon.clld.org/parameters/1983,snore,snore
+190-878,stan1293,http://concepticon.clld.org/parameters/1920,dream,dream
+190-10,stan1293,http://concepticon.clld.org/parameters/1602,wake up,wake up
+190-119,stan1293,http://concepticon.clld.org/parameters/1159,break wind,break wind
+190-187,stan1293,http://concepticon.clld.org/parameters/592,urinate,urinate
+190-131,stan1293,http://concepticon.clld.org/parameters/676,defecate,defecate
+190-500,stan1293,http://concepticon.clld.org/parameters/1785,have sexual intercourse,have sexual intercourse
+190-557,stan1293,http://concepticon.clld.org/parameters/52,shiver,shiver
+190-664,stan1293,http://concepticon.clld.org/parameters/138,bathe,bathe
+190-340,stan1293,http://concepticon.clld.org/parameters/1152,beget,beget (of father)
+190-327,stan1293,http://concepticon.clld.org/parameters/1090,born,born (to be)
+190-718,stan1293,http://concepticon.clld.org/parameters/1123,pregnant,pregnant
+190-23,stan1293,http://concepticon.clld.org/parameters/1087,conceive,conceive
+190-448,stan1293,http://concepticon.clld.org/parameters/1422,live,"live, living, life"
+190-526,stan1293,http://concepticon.clld.org/parameters/1422,living,"live, living, life"
+190-254,stan1293,http://concepticon.clld.org/parameters/1422,life,"live, living, life"
+190-898,stan1293,http://concepticon.clld.org/parameters/1494,die,"die, dead"
+190-326,stan1293,http://concepticon.clld.org/parameters/1494,dead,"die, dead"
+190-53,stan1293,http://concepticon.clld.org/parameters/1904,drowned,drowned
+190-991,stan1293,http://concepticon.clld.org/parameters/1417,kill,kill
+190-1436,stan1293,http://concepticon.clld.org/parameters/767,corpse,corpse
+190-348,stan1293,http://concepticon.clld.org/parameters/1719,bury,bury (the dead)
+190-196,stan1293,http://concepticon.clld.org/parameters/1773,grave,"grave, tomb"
+190-1448,stan1293,http://concepticon.clld.org/parameters/1773,tomb,"grave, tomb"
+190-819,stan1293,http://concepticon.clld.org/parameters/785,strong,"strong, mighty, powerful"
+190-1080,stan1293,http://concepticon.clld.org/parameters/785,mighty,"strong, mighty, powerful"
+190-1279,stan1293,http://concepticon.clld.org/parameters/785,powerful,"strong, mighty, powerful"
+190-240,stan1293,http://concepticon.clld.org/parameters/1601,weak,weak
+190-1400,stan1293,http://concepticon.clld.org/parameters/1364,well,"well, health"
+190-911,stan1293,http://concepticon.clld.org/parameters/1364,health,"well, health"
+190-1418,stan1293,http://concepticon.clld.org/parameters/1847,sick,"sick, sickness"
+190-682,stan1293,http://concepticon.clld.org/parameters/1847,sickness,"sick, sickness"
+190-97,stan1293,http://concepticon.clld.org/parameters/1534,fever,fever
+190-1288,stan1293,http://concepticon.clld.org/parameters/1957,goiter,goiter
+190-495,stan1293,http://concepticon.clld.org/parameters/102,cold,cold (catarrh)
+190-278,stan1293,http://concepticon.clld.org/parameters/1109,wound,"wound, sore"
+190-1192,stan1293,http://concepticon.clld.org/parameters/1109,sore,"wound, sore"
+190-295,stan1293,http://concepticon.clld.org/parameters/1148,bruise,bruise
+190-973,stan1293,http://concepticon.clld.org/parameters/1903,swelling,swelling
+190-1045,stan1293,http://concepticon.clld.org/parameters/148,itch,itch
+190-923,stan1293,http://concepticon.clld.org/parameters/1584,blister,blister
+190-1284,stan1293,http://concepticon.clld.org/parameters/793,boil,boil (noun)
+190-922,stan1293,http://concepticon.clld.org/parameters/1808,pus,pus
+190-861,stan1293,http://concepticon.clld.org/parameters/497,scar,scar
+190-1112,stan1293,http://concepticon.clld.org/parameters/499,cure,"cure, heal"
+190-370,stan1293,http://concepticon.clld.org/parameters/499,heal,"cure, heal"
+190-261,stan1293,http://concepticon.clld.org/parameters/597,physician,physician
+190-145,stan1293,http://concepticon.clld.org/parameters/1372,medicine,"medicine, drug"
+190-1363,stan1293,http://concepticon.clld.org/parameters/1372,drug,"medicine, drug"
+190-35,stan1293,http://concepticon.clld.org/parameters/655,poison,poison
+190-27,stan1293,http://concepticon.clld.org/parameters/1757,tired,"tired, weary"
+190-241,stan1293,http://concepticon.clld.org/parameters/1757,weary,"tired, weary"
+190-697,stan1293,http://concepticon.clld.org/parameters/168,rest,rest
+190-239,stan1293,http://concepticon.clld.org/parameters/1564,lazy,lazy
+190-1392,stan1293,http://concepticon.clld.org/parameters/1125,bald,bald
+190-1215,stan1293,http://concepticon.clld.org/parameters/320,lame,lame
+190-325,stan1293,http://concepticon.clld.org/parameters/996,deaf,deaf
+190-1238,stan1293,http://concepticon.clld.org/parameters/1666,mute,mute
+190-540,stan1293,http://concepticon.clld.org/parameters/1653,blind,blind
+190-1275,stan1293,http://concepticon.clld.org/parameters/1463,intoxicated,intoxicated
+190-628,stan1293,http://concepticon.clld.org/parameters/590,naked,"naked, bare"
+190-997,stan1293,http://concepticon.clld.org/parameters/590,bare,"naked, bare"
+190-1464,stan1293,http://concepticon.clld.org/parameters/1336,eat,eat
+190-891,stan1293,http://concepticon.clld.org/parameters/256,food,food
+190-1126,stan1293,http://concepticon.clld.org/parameters/269,cooked,cooked
+190-1031,stan1293,http://concepticon.clld.org/parameters/1959,raw,raw
+190-1383,stan1293,http://concepticon.clld.org/parameters/178,ripe,ripe
+190-107,stan1293,http://concepticon.clld.org/parameters/1958,green,"green, unripe"
+190-428,stan1293,http://concepticon.clld.org/parameters/1958,unripe,"green, unripe"
+190-1161,stan1293,http://concepticon.clld.org/parameters/1728,rotten,rotten
+190-915,stan1293,http://concepticon.clld.org/parameters/1401,drink,drink
+190-205,stan1293,http://concepticon.clld.org/parameters/1533,hunger,hunger
+190-632,stan1293,http://concepticon.clld.org/parameters/199,famine,famine
+190-527,stan1293,http://concepticon.clld.org/parameters/848,thirst,thirst
+190-479,stan1293,http://concepticon.clld.org/parameters/1421,suck,suck
+190-26,stan1293,http://concepticon.clld.org/parameters/321,chew,chew
+190-1367,stan1293,http://concepticon.clld.org/parameters/897,swallow,swallow
+190-350,stan1293,http://concepticon.clld.org/parameters/129,choke,choke
+190-411,stan1293,http://concepticon.clld.org/parameters/1100,cook,cook
+190-1284,stan1293,http://concepticon.clld.org/parameters/792,boil,boil (vb)
+190-133,stan1293,http://concepticon.clld.org/parameters/2146,roast,"roast, fry"
+190-252,stan1293,http://concepticon.clld.org/parameters/2146,fry,"roast, fry"
+190-425,stan1293,http://concepticon.clld.org/parameters/183,bake,bake
+190-113,stan1293,http://concepticon.clld.org/parameters/1143,oven,oven
+190-647,stan1293,http://concepticon.clld.org/parameters/1462,pot,"pot, cooking vessel"
+190-1204,stan1293,http://concepticon.clld.org/parameters/1462,cooking vessel,"pot, cooking vessel"
+190-1437,stan1293,http://concepticon.clld.org/parameters/854,kettle,kettle
+190-678,stan1293,http://concepticon.clld.org/parameters/31,pan,pan
+190-789,stan1293,http://concepticon.clld.org/parameters/481,dish,dish
+190-1205,stan1293,http://concepticon.clld.org/parameters/480,plate,plate
+190-676,stan1293,http://concepticon.clld.org/parameters/1530,bowl,bowl
+190-761,stan1293,http://concepticon.clld.org/parameters/270,pitcher,"pitcher, jug"
+190-758,stan1293,http://concepticon.clld.org/parameters/270,jug,"pitcher, jug"
+190-1061,stan1293,http://concepticon.clld.org/parameters/476,cup,"cup, drinking vessel"
+190-714,stan1293,http://concepticon.clld.org/parameters/476,drinking vessel,"cup, drinking vessel"
+190-1083,stan1293,http://concepticon.clld.org/parameters/271,saucer,saucer
+190-1142,stan1293,http://concepticon.clld.org/parameters/1378,spoon,spoon
+190-734,stan1293,http://concepticon.clld.org/parameters/1352,knife,knife (2)
+190-366,stan1293,http://concepticon.clld.org/parameters/1302,fork,fork (2)
+190-969,stan1293,http://concepticon.clld.org/parameters/272,tongs,tongs
+190-743,stan1293,http://concepticon.clld.org/parameters/1526,meal,meal (a)
+190-578,stan1293,http://concepticon.clld.org/parameters/1322,breakfast,breakfast
+190-505,stan1293,http://concepticon.clld.org/parameters/768,lunch,lunch
+190-351,stan1293,http://concepticon.clld.org/parameters/1833,dinner,dinner
+190-286,stan1293,http://concepticon.clld.org/parameters/1833,supper,supper
+190-342,stan1293,http://concepticon.clld.org/parameters/275,peel,peel
+190-436,stan1293,http://concepticon.clld.org/parameters/86,sieve,"sieve, strain"
+190-842,stan1293,http://concepticon.clld.org/parameters/86,strain,"sieve, strain"
+190-1119,stan1293,http://concepticon.clld.org/parameters/1767,scrape,scrape
+190-868,stan1293,http://concepticon.clld.org/parameters/2017,stir,"stir, mix"
+190-1308,stan1293,http://concepticon.clld.org/parameters/2017,mix,"stir, mix"
+190-127,stan1293,http://concepticon.clld.org/parameters/1368,bread,bread
+190-885,stan1293,http://concepticon.clld.org/parameters/273,dough,dough
+190-581,stan1293,http://concepticon.clld.org/parameters/274,knead,knead
+190-743,stan1293,http://concepticon.clld.org/parameters/1594,meal,"meal, flour"
+190-1249,stan1293,http://concepticon.clld.org/parameters/1594,flour,"meal, flour"
+190-812,stan1293,http://concepticon.clld.org/parameters/1033,crush,"crush, grind"
+190-1055,stan1293,http://concepticon.clld.org/parameters/1033,grind,"crush, grind"
+190-405,stan1293,http://concepticon.clld.org/parameters/636,mill,mill
+190-1272,stan1293,http://concepticon.clld.org/parameters/224,mortar,mortar (2)
+190-1393,stan1293,http://concepticon.clld.org/parameters/225,pestle,pestle
+190-130,stan1293,http://concepticon.clld.org/parameters/634,meat,meat
+190-1159,stan1293,http://concepticon.clld.org/parameters/1874,sausage,sausage
+190-459,stan1293,http://concepticon.clld.org/parameters/1547,soup,"soup, broth"
+190-271,stan1293,http://concepticon.clld.org/parameters/1547,broth,"soup, broth"
+190-1458,stan1293,http://concepticon.clld.org/parameters/924,vegetables,vegetables
+190-1340,stan1293,http://concepticon.clld.org/parameters/832,bean,bean
+190-394,stan1293,http://concepticon.clld.org/parameters/593,potato,potato
+190-687,stan1293,http://concepticon.clld.org/parameters/1507,fruit,fruit
+190-1241,stan1293,http://concepticon.clld.org/parameters/1966,bunch,bunch
+190-120,stan1293,http://concepticon.clld.org/parameters/322,fig,fig
+190-408,stan1293,http://concepticon.clld.org/parameters/920,grape,grape
+190-228,stan1293,http://concepticon.clld.org/parameters/191,nut,nut
+190-454,stan1293,http://concepticon.clld.org/parameters/1154,olive,olive
+190-909,stan1293,http://concepticon.clld.org/parameters/1484,oil,oil
+190-146,stan1293,http://concepticon.clld.org/parameters/323,grease,"grease, fat"
+190-797,stan1293,http://concepticon.clld.org/parameters/323,fat,"grease, fat"
+190-598,stan1293,http://concepticon.clld.org/parameters/1274,salt,salt
+190-1440,stan1293,http://concepticon.clld.org/parameters/1385,pepper,pepper
+190-1356,stan1293,http://concepticon.clld.org/parameters/919,chili pepper,chili pepper
+190-89,stan1293,http://concepticon.clld.org/parameters/942,honey,honey
+190-211,stan1293,http://concepticon.clld.org/parameters/862,sugar,sugar
+190-406,stan1293,http://concepticon.clld.org/parameters/635,milk,milk (noun)
+190-406,stan1293,http://concepticon.clld.org/parameters/93,milk,milk (vb)
+190-541,stan1293,http://concepticon.clld.org/parameters/1569,cheese,cheese
+190-165,stan1293,http://concepticon.clld.org/parameters/1245,butter,butter
+190-1128,stan1293,http://concepticon.clld.org/parameters/731,beverage,"beverage, drink"
+190-915,stan1293,http://concepticon.clld.org/parameters/731,drink,"beverage, drink"
+190-132,stan1293,http://concepticon.clld.org/parameters/941,mead,mead
+190-111,stan1293,http://concepticon.clld.org/parameters/1524,wine,wine
+190-250,stan1293,http://concepticon.clld.org/parameters/1639,beer,beer
+190-1280,stan1293,http://concepticon.clld.org/parameters/404,fermented drink,fermented drink
+190-593,stan1293,http://concepticon.clld.org/parameters/744,egg,egg
+190-150,stan1293,http://concepticon.clld.org/parameters/1556,egg yolk,egg yolk
+190-334,stan1293,http://concepticon.clld.org/parameters/158,put on clothes,put on (clothes)
+190-467,stan1293,http://concepticon.clld.org/parameters/1895,clothing,"clothing, clothes"
+190-25,stan1293,http://concepticon.clld.org/parameters/1895,clothes,"clothing, clothes"
+190-621,stan1293,http://concepticon.clld.org/parameters/881,tailor,tailor
+190-1101,stan1293,http://concepticon.clld.org/parameters/1616,cloth,cloth
+190-616,stan1293,http://concepticon.clld.org/parameters/964,wool,wool
+190-1232,stan1293,http://concepticon.clld.org/parameters/916,linen,"linen, flax"
+190-836,stan1293,http://concepticon.clld.org/parameters/916,flax,"linen, flax"
+190-1114,stan1293,http://concepticon.clld.org/parameters/1850,cotton,cotton
+190-987,stan1293,http://concepticon.clld.org/parameters/1641,silk,silk
+190-393,stan1293,http://concepticon.clld.org/parameters/325,felt,felt
+190-18,stan1293,http://concepticon.clld.org/parameters/580,fur,fur
+190-625,stan1293,http://concepticon.clld.org/parameters/629,leather,leather
+190-260,stan1293,http://concepticon.clld.org/parameters/121,spin,spin
+190-152,stan1293,http://concepticon.clld.org/parameters/277,spindle,spindle
+190-691,stan1293,http://concepticon.clld.org/parameters/133,weave,weave
+190-15,stan1293,http://concepticon.clld.org/parameters/1787,loom,loom
+190-994,stan1293,http://concepticon.clld.org/parameters/1457,sew,sew
+190-940,stan1293,http://concepticon.clld.org/parameters/1382,needle,needle
+190-1314,stan1293,http://concepticon.clld.org/parameters/278,awl,awl
+190-924,stan1293,http://concepticon.clld.org/parameters/1161,thread,thread
+190-623,stan1293,http://concepticon.clld.org/parameters/157,dye,dye
+190-612,stan1293,http://concepticon.clld.org/parameters/326,cloak,cloak
+190-141,stan1293,http://concepticon.clld.org/parameters/327,poncho,poncho
+190-1103,stan1293,http://concepticon.clld.org/parameters/474,woman's dress,woman's dress
+190-875,stan1293,http://concepticon.clld.org/parameters/603,coat,coat
+190-1042,stan1293,http://concepticon.clld.org/parameters/1622,shirt,shirt
+190-1397,stan1293,http://concepticon.clld.org/parameters/2012,collar,collar
+190-1216,stan1293,http://concepticon.clld.org/parameters/1600,skirt,skirt
+190-857,stan1293,http://concepticon.clld.org/parameters/328,grass-skirt,grass-skirt
+190-9,stan1293,http://concepticon.clld.org/parameters/809,trousers,trousers
+190-170,stan1293,http://concepticon.clld.org/parameters/329,stocking,"stocking, sock"
+190-1097,stan1293,http://concepticon.clld.org/parameters/329,sock,"stocking, sock"
+190-604,stan1293,http://concepticon.clld.org/parameters/1381,shoe,shoe
+190-1404,stan1293,http://concepticon.clld.org/parameters/585,boot,boot
+190-306,stan1293,http://concepticon.clld.org/parameters/875,shoemaker,"shoemaker, cobbler"
+190-381,stan1293,http://concepticon.clld.org/parameters/875,cobbler,"shoemaker, cobbler"
+190-308,stan1293,http://concepticon.clld.org/parameters/2130,hat,"hat, cap"
+190-456,stan1293,http://concepticon.clld.org/parameters/2130,cap,"hat, cap"
+190-1014,stan1293,http://concepticon.clld.org/parameters/772,belt,"belt, girdle"
+190-1295,stan1293,http://concepticon.clld.org/parameters/772,girdle,"belt, girdle"
+190-1069,stan1293,http://concepticon.clld.org/parameters/867,glove,glove
+190-1487,stan1293,http://concepticon.clld.org/parameters/1151,veil,veil
+190-218,stan1293,http://concepticon.clld.org/parameters/1851,pocket,pocket
+190-900,stan1293,http://concepticon.clld.org/parameters/757,button,button
+190-1470,stan1293,http://concepticon.clld.org/parameters/64,pin,pin
+190-635,stan1293,http://concepticon.clld.org/parameters/917,ornament,"ornament, adornment"
+190-1247,stan1293,http://concepticon.clld.org/parameters/917,adornment,"ornament, adornment"
+190-1491,stan1293,http://concepticon.clld.org/parameters/1029,jewel,jewel
+190-547,stan1293,http://concepticon.clld.org/parameters/1374,ring,ring (for finger)
+190-719,stan1293,http://concepticon.clld.org/parameters/1754,bracelet,bracelet
+190-1234,stan1293,http://concepticon.clld.org/parameters/1961,necklace,necklace
+190-1342,stan1293,http://concepticon.clld.org/parameters/1860,bead,bead
+190-752,stan1293,http://concepticon.clld.org/parameters/770,earring,earring
+190-532,stan1293,http://concepticon.clld.org/parameters/330,headband,"headband, headdress"
+190-103,stan1293,http://concepticon.clld.org/parameters/330,headdress,"headband, headdress"
+190-1386,stan1293,http://concepticon.clld.org/parameters/68,tattoo,tattoo
+190-178,stan1293,http://concepticon.clld.org/parameters/332,handkerchief,"handkerchief, rag"
+190-176,stan1293,http://concepticon.clld.org/parameters/332,rag,"handkerchief, rag"
+190-716,stan1293,http://concepticon.clld.org/parameters/1021,towel,towel
+190-640,stan1293,http://concepticon.clld.org/parameters/1475,comb,comb
+190-1455,stan1293,http://concepticon.clld.org/parameters/1821,brush,brush
+190-496,stan1293,http://concepticon.clld.org/parameters/333,braid,braid
+190-931,stan1293,http://concepticon.clld.org/parameters/151,razor,razor
+190-392,stan1293,http://concepticon.clld.org/parameters/1926,ointment,ointment
+190-1311,stan1293,http://concepticon.clld.org/parameters/788,soap,soap
+190-1081,stan1293,http://concepticon.clld.org/parameters/1171,mirror,mirror
+190-162,stan1293,http://concepticon.clld.org/parameters/1099,dwell,"dwell, live"
+190-448,stan1293,http://concepticon.clld.org/parameters/1099,live,"dwell, live"
+190-904,stan1293,http://concepticon.clld.org/parameters/1252,house,house
+190-562,stan1293,http://concepticon.clld.org/parameters/1678,hut,hut
+190-563,stan1293,http://concepticon.clld.org/parameters/403,garden-house,garden-house
+190-1355,stan1293,http://concepticon.clld.org/parameters/1316,tent,tent
+190-1271,stan1293,http://concepticon.clld.org/parameters/736,yard,"yard, court"
+190-864,stan1293,http://concepticon.clld.org/parameters/736,court,"yard, court"
+190-608,stan1293,http://concepticon.clld.org/parameters/408,men's house,men's house
+190-866,stan1293,http://concepticon.clld.org/parameters/334,cookhouse,cookhouse
+190-1127,stan1293,http://concepticon.clld.org/parameters/335,meeting house,meeting house
+190-77,stan1293,http://concepticon.clld.org/parameters/1450,room,room
+190-834,stan1293,http://concepticon.clld.org/parameters/1567,door,"door, gate"
+190-96,stan1293,http://concepticon.clld.org/parameters/1567,gate,"door, gate"
+190-1300,stan1293,http://concepticon.clld.org/parameters/80,doorpost,"doorpost, jamb"
+190-282,stan1293,http://concepticon.clld.org/parameters/80,jamb,"doorpost, jamb"
+190-1206,stan1293,http://concepticon.clld.org/parameters/1596,lock,lock (noun)
+190-380,stan1293,http://concepticon.clld.org/parameters/1012,latch,"latch, door-bolt"
+190-937,stan1293,http://concepticon.clld.org/parameters/1012,door-bolt,"latch, door-bolt"
+190-1359,stan1293,http://concepticon.clld.org/parameters/1472,key,key
+190-501,stan1293,http://concepticon.clld.org/parameters/1375,window,window
+190-692,stan1293,http://concepticon.clld.org/parameters/1632,floor,floor
+190-1368,stan1293,http://concepticon.clld.org/parameters/933,wall,wall
+190-19,stan1293,http://concepticon.clld.org/parameters/185,fireplace,fireplace
+190-1325,stan1293,http://concepticon.clld.org/parameters/859,stove,stove
+190-988,stan1293,http://concepticon.clld.org/parameters/1305,chimney,chimney
+190-98,stan1293,http://concepticon.clld.org/parameters/1464,ladder,ladder
+190-1297,stan1293,http://concepticon.clld.org/parameters/1663,bed,bed
+190-443,stan1293,http://concepticon.clld.org/parameters/1044,pillow,pillow
+190-13,stan1293,http://concepticon.clld.org/parameters/806,blanket,blanket
+190-808,stan1293,http://concepticon.clld.org/parameters/1476,chair,chair
+190-1371,stan1293,http://concepticon.clld.org/parameters/1775,table,table
+190-1244,stan1293,http://concepticon.clld.org/parameters/2131,lamp,"lamp, torch"
+190-521,stan1293,http://concepticon.clld.org/parameters/2131,torch,"lamp, torch"
+190-1082,stan1293,http://concepticon.clld.org/parameters/1273,candle,candle
+190-1289,stan1293,http://concepticon.clld.org/parameters/745,shelf,shelf
+190-1143,stan1293,http://concepticon.clld.org/parameters/205,trough,trough
+190-82,stan1293,http://concepticon.clld.org/parameters/769,roof,roof
+190-1191,stan1293,http://concepticon.clld.org/parameters/279,thatch,thatch
+190-117,stan1293,http://concepticon.clld.org/parameters/280,ridgepole,ridgepole
+190-1417,stan1293,http://concepticon.clld.org/parameters/829,rafter,rafter
+190-1339,stan1293,http://concepticon.clld.org/parameters/1132,beam,beam
+190-347,stan1293,http://concepticon.clld.org/parameters/281,post,"post, pole"
+190-649,stan1293,http://concepticon.clld.org/parameters/281,pole,"post, pole"
+190-303,stan1293,http://concepticon.clld.org/parameters/1227,board,board
+190-102,stan1293,http://concepticon.clld.org/parameters/876,arch,arch
+190-144,stan1293,http://concepticon.clld.org/parameters/877,mason,mason
+190-1021,stan1293,http://concepticon.clld.org/parameters/1006,brick,brick
+190-1272,stan1293,http://concepticon.clld.org/parameters/1731,mortar,mortar
+190-138,stan1293,http://concepticon.clld.org/parameters/901,adobe,adobe
+190-502,stan1293,http://concepticon.clld.org/parameters/979,farmer,farmer
+190-777,stan1293,http://concepticon.clld.org/parameters/212,field,field (for cultivation)
+190-1137,stan1293,http://concepticon.clld.org/parameters/586,garden,garden
+190-860,stan1293,http://concepticon.clld.org/parameters/1541,cultivate,"cultivate, till"
+190-471,stan1293,http://concepticon.clld.org/parameters/1541,till,"cultivate, till"
+190-805,stan1293,http://concepticon.clld.org/parameters/1690,fence,fence
+190-158,stan1293,http://concepticon.clld.org/parameters/2002,ditch,ditch
+190-55,stan1293,http://concepticon.clld.org/parameters/1921,plow,plow
+190-1027,stan1293,http://concepticon.clld.org/parameters/1794,furrow,furrow
+190-415,stan1293,http://concepticon.clld.org/parameters/1418,dig,dig
+190-189,stan1293,http://concepticon.clld.org/parameters/1176,spade,spade
+190-1176,stan1293,http://concepticon.clld.org/parameters/1901,shovel,shovel
+190-91,stan1293,http://concepticon.clld.org/parameters/284,hoe,hoe
+190-366,stan1293,http://concepticon.clld.org/parameters/337,fork,fork
+190-504,stan1293,http://concepticon.clld.org/parameters/338,rake,rake
+190-356,stan1293,http://concepticon.clld.org/parameters/748,sow,sow
+190-184,stan1293,http://concepticon.clld.org/parameters/714,seed,seed
+190-708,stan1293,http://concepticon.clld.org/parameters/190,mow,"mow, reap"
+190-712,stan1293,http://concepticon.clld.org/parameters/190,reap,"mow, reap"
+190-112,stan1293,http://concepticon.clld.org/parameters/2132,sickle,"sickle, scythe"
+190-1167,stan1293,http://concepticon.clld.org/parameters/2132,scythe,"sickle, scythe"
+190-1291,stan1293,http://concepticon.clld.org/parameters/285,thresh,thresh
+190-1166,stan1293,http://concepticon.clld.org/parameters/223,threshing-floor,threshing-floor
+190-1154,stan1293,http://concepticon.clld.org/parameters/611,crop,"crop, harvest"
+190-1195,stan1293,http://concepticon.clld.org/parameters/611,harvest,"crop, harvest"
+190-1366,stan1293,http://concepticon.clld.org/parameters/605,grain,"grain (barley, oats etc)"
+190-736,stan1293,http://concepticon.clld.org/parameters/1077,wheat,wheat
+190-1265,stan1293,http://concepticon.clld.org/parameters/932,barley,barley
+190-865,stan1293,http://concepticon.clld.org/parameters/23,rye,rye
+190-565,stan1293,http://concepticon.clld.org/parameters/60,oats,oats
+190-1457,stan1293,http://concepticon.clld.org/parameters/506,maize,"maize, corn"
+190-343,stan1293,http://concepticon.clld.org/parameters/506,corn,"maize, corn"
+190-214,stan1293,http://concepticon.clld.org/parameters/926,rice,rice
+190-768,stan1293,http://concepticon.clld.org/parameters/606,grass,grass
+190-301,stan1293,http://concepticon.clld.org/parameters/342,hay,hay
+190-870,stan1293,http://concepticon.clld.org/parameters/653,plant,plant (noun)
+190-870,stan1293,http://concepticon.clld.org/parameters/1486,plant,plant (vb)
+190-84,stan1293,http://concepticon.clld.org/parameters/670,root,root
+190-1482,stan1293,http://concepticon.clld.org/parameters/1531,branch,branch
+190-1433,stan1293,http://concepticon.clld.org/parameters/628,leaf,leaf
+190-910,stan1293,http://concepticon.clld.org/parameters/239,flower,flower
+190-172,stan1293,http://concepticon.clld.org/parameters/906,tree,tree
+190-1479,stan1293,http://concepticon.clld.org/parameters/644,oak,oak
+190-602,stan1293,http://concepticon.clld.org/parameters/1950,beech,beech
+190-1051,stan1293,http://concepticon.clld.org/parameters/1855,birch,birch
+190-469,stan1293,http://concepticon.clld.org/parameters/1740,pine,pine
+190-115,stan1293,http://concepticon.clld.org/parameters/1915,fir,fir
+190-918,stan1293,http://concepticon.clld.org/parameters/968,acorn,acorn
+190-995,stan1293,http://concepticon.clld.org/parameters/343,vine,vine
+190-1344,stan1293,http://concepticon.clld.org/parameters/974,tobacco,tobacco
+190-48,stan1293,http://concepticon.clld.org/parameters/1689,smoke,smoke (tobacco)
+190-1323,stan1293,http://concepticon.clld.org/parameters/1124,pipe,pipe
+190-1365,stan1293,http://concepticon.clld.org/parameters/241,tree stump,tree stump
+190-8,stan1293,http://concepticon.clld.org/parameters/344,tree trunk,tree trunk
+190-1015,stan1293,http://concepticon.clld.org/parameters/409,forked branch,forked branch
+190-1000,stan1293,http://concepticon.clld.org/parameters/1204,bark,bark
+190-579,stan1293,http://concepticon.clld.org/parameters/345,sap,sap
+190-582,stan1293,http://concepticon.clld.org/parameters/1181,palm tree,palm tree
+190-571,stan1293,http://concepticon.clld.org/parameters/970,coconut,coconut
+190-1200,stan1293,http://concepticon.clld.org/parameters/1126,citrus fruit,citrus fruit
+190-659,stan1293,http://concepticon.clld.org/parameters/868,banana tree,banana tree
+190-1236,stan1293,http://concepticon.clld.org/parameters/346,banyan,banyan
+190-1003,stan1293,http://concepticon.clld.org/parameters/159,sweet potato,sweet potato
+190-1373,stan1293,http://concepticon.clld.org/parameters/410,yam,yam
+190-846,stan1293,http://concepticon.clld.org/parameters/925,tapioca,"tapioca, manioc, cassava"
+190-378,stan1293,http://concepticon.clld.org/parameters/925,manioc,"tapioca, manioc, cassava"
+190-550,stan1293,http://concepticon.clld.org/parameters/925,cassava,"tapioca, manioc, cassava"
+190-611,stan1293,http://concepticon.clld.org/parameters/411,gourd,gourd
+190-617,stan1293,http://concepticon.clld.org/parameters/864,pumpkin,"pumpkin, squash"
+190-657,stan1293,http://concepticon.clld.org/parameters/864,squash,"pumpkin, squash"
+190-1074,stan1293,http://concepticon.clld.org/parameters/1927,bamboo,bamboo
+190-1301,stan1293,http://concepticon.clld.org/parameters/146,sugar cane,sugar cane
+190-137,stan1293,http://concepticon.clld.org/parameters/348,fish poison,fish poison (root)
+190-200,stan1293,http://concepticon.clld.org/parameters/33,nettle,nettle
+190-256,stan1293,http://concepticon.clld.org/parameters/641,mushroom,mushroom
+190-215,stan1293,http://concepticon.clld.org/parameters/813,do,"do, make"
+190-277,stan1293,http://concepticon.clld.org/parameters/813,make,"do, make"
+190-80,stan1293,http://concepticon.clld.org/parameters/984,work,work
+190-1209,stan1293,http://concepticon.clld.org/parameters/2004,bend,bend
+190-1156,stan1293,http://concepticon.clld.org/parameters/1470,fold,fold
+190-387,stan1293,http://concepticon.clld.org/parameters/1917,tie,"tie, bind"
+190-1299,stan1293,http://concepticon.clld.org/parameters/1917,bind,"tie, bind"
+190-60,stan1293,http://concepticon.clld.org/parameters/352,untie,untie
+190-400,stan1293,http://concepticon.clld.org/parameters/1627,chain,chain
+190-1033,stan1293,http://concepticon.clld.org/parameters/1218,rope,"rope, cord"
+190-341,stan1293,http://concepticon.clld.org/parameters/1218,cord,"rope, cord"
+190-1421,stan1293,http://concepticon.clld.org/parameters/760,knot,knot (noun)
+190-62,stan1293,http://concepticon.clld.org/parameters/2133,strike,"strike (hit, beat)"
+190-984,stan1293,http://concepticon.clld.org/parameters/2133,hit,"strike (hit, beat)"
+190-1337,stan1293,http://concepticon.clld.org/parameters/2133,beat,"strike (hit, beat)"
+190-129,stan1293,http://concepticon.clld.org/parameters/354,pound with fist,pound with fist
+190-1060,stan1293,http://concepticon.clld.org/parameters/1432,cut,cut
+190-118,stan1293,http://concepticon.clld.org/parameters/355,cut down,cut down
+190-744,stan1293,http://concepticon.clld.org/parameters/155,chop,"chop, hew"
+190-754,stan1293,http://concepticon.clld.org/parameters/155,hew,"chop, hew"
+190-1486,stan1293,http://concepticon.clld.org/parameters/1434,stab,stab
+190-734,stan1293,http://concepticon.clld.org/parameters/1352,knife,knife
+190-156,stan1293,http://concepticon.clld.org/parameters/356,scissors,"scissors, shears"
+190-542,stan1293,http://concepticon.clld.org/parameters/356,shears,"scissors, shears"
+190-775,stan1293,http://concepticon.clld.org/parameters/677,ax,ax
+190-210,stan1293,http://concepticon.clld.org/parameters/290,adze,adze
+190-123,stan1293,http://concepticon.clld.org/parameters/680,break,break
+190-738,stan1293,http://concepticon.clld.org/parameters/588,broken,broken
+190-280,stan1293,http://concepticon.clld.org/parameters/1437,split,split
+190-413,stan1293,http://concepticon.clld.org/parameters/1735,tear,tear
+190-835,stan1293,http://concepticon.clld.org/parameters/291,flay,"flay, skin"
+190-403,stan1293,http://concepticon.clld.org/parameters/291,skin,"flay, skin"
+190-1088,stan1293,http://concepticon.clld.org/parameters/1449,rub,"rub, wipe"
+190-1146,stan1293,http://concepticon.clld.org/parameters/1449,wipe,"rub, wipe"
+190-653,stan1293,http://concepticon.clld.org/parameters/214,stretch,stretch
+190-763,stan1293,http://concepticon.clld.org/parameters/1455,pull,pull
+190-449,stan1293,http://concepticon.clld.org/parameters/38,spread out,spread out
+190-1229,stan1293,http://concepticon.clld.org/parameters/357,hang up,hang up
+190-1422,stan1293,http://concepticon.clld.org/parameters/1913,press,press
+190-1463,stan1293,http://concepticon.clld.org/parameters/1414,squeeze,"squeeze, wring"
+190-1343,stan1293,http://concepticon.clld.org/parameters/1414,wring,"squeeze, wring"
+190-1199,stan1293,http://concepticon.clld.org/parameters/1487,pour,pour
+190-155,stan1293,http://concepticon.clld.org/parameters/1453,wash,wash
+190-1009,stan1293,http://concepticon.clld.org/parameters/230,sweep,sweep
+190-1242,stan1293,http://concepticon.clld.org/parameters/245,broom,broom
+190-167,stan1293,http://concepticon.clld.org/parameters/1361,tool,tool
+190-781,stan1293,http://concepticon.clld.org/parameters/1042,carpenter,carpenter
+190-956,stan1293,http://concepticon.clld.org/parameters/1840,build,build
+190-329,stan1293,http://concepticon.clld.org/parameters/1501,bore,bore
+190-1494,stan1293,http://concepticon.clld.org/parameters/46,hollow out,hollow out
+190-580,stan1293,http://concepticon.clld.org/parameters/1948,saw,saw
+190-231,stan1293,http://concepticon.clld.org/parameters/1481,hammer,hammer
+190-29,stan1293,http://concepticon.clld.org/parameters/502,nail,nail
+190-1409,stan1293,http://concepticon.clld.org/parameters/1069,glue,glue
+190-1412,stan1293,http://concepticon.clld.org/parameters/1001,smith,"smith, blacksmith"
+190-536,stan1293,http://concepticon.clld.org/parameters/1001,blacksmith,"smith, blacksmith"
+190-1120,stan1293,http://concepticon.clld.org/parameters/288,forge,forge
+190-978,stan1293,http://concepticon.clld.org/parameters/1648,anvil,anvil
+190-1348,stan1293,http://concepticon.clld.org/parameters/211,cast metals,cast (metals)
+190-1131,stan1293,http://concepticon.clld.org/parameters/1369,gold,gold
+190-126,stan1293,http://concepticon.clld.org/parameters/759,silver,silver
+190-927,stan1293,http://concepticon.clld.org/parameters/1825,copper,"copper, bronze"
+190-1004,stan1293,http://concepticon.clld.org/parameters/1825,bronze,"copper, bronze"
+190-175,stan1293,http://concepticon.clld.org/parameters/621,iron,iron
+190-1434,stan1293,http://concepticon.clld.org/parameters/627,lead,lead (noun)
+190-386,stan1293,http://concepticon.clld.org/parameters/358,tin,"tin, tinplate"
+190-1316,stan1293,http://concepticon.clld.org/parameters/358,tinplate,"tin, tinplate"
+190-543,stan1293,http://concepticon.clld.org/parameters/359,potter,potter
+190-383,stan1293,http://concepticon.clld.org/parameters/289,mold,mold (clay etc)
+190-722,stan1293,http://concepticon.clld.org/parameters/1399,clay,clay
+190-69,stan1293,http://concepticon.clld.org/parameters/604,glass,glass
+190-691,stan1293,http://concepticon.clld.org/parameters/1729,weave,"weave, plait"
+190-1380,stan1293,http://concepticon.clld.org/parameters/1729,plait,"weave, plait"
+190-488,stan1293,http://concepticon.clld.org/parameters/1539,basket,basket
+190-476,stan1293,http://concepticon.clld.org/parameters/195,mat,mat
+190-1089,stan1293,http://concepticon.clld.org/parameters/292,rug,rug
+190-837,stan1293,http://concepticon.clld.org/parameters/293,netbag,netbag
+190-798,stan1293,http://concepticon.clld.org/parameters/1971,fan,fan (noun)
+190-798,stan1293,http://concepticon.clld.org/parameters/360,fan,fan (vb)
+190-121,stan1293,http://concepticon.clld.org/parameters/228,carve,carve
+190-1196,stan1293,http://concepticon.clld.org/parameters/914,sculptor,sculptor
+190-688,stan1293,http://concepticon.clld.org/parameters/1002,statue,statue
+190-844,stan1293,http://concepticon.clld.org/parameters/1979,chisel,chisel
+190-935,stan1293,http://concepticon.clld.org/parameters/647,paint,paint (noun)
+190-935,stan1293,http://concepticon.clld.org/parameters/2001,paint,paint (vb)
+190-1239,stan1293,http://concepticon.clld.org/parameters/765,move,move
+190-962,stan1293,http://concepticon.clld.org/parameters/1588,turn over,turn over
+190-702,stan1293,http://concepticon.clld.org/parameters/1445,turn around,turn around
+190-110,stan1293,http://concepticon.clld.org/parameters/1113,wind,"wind, wrap"
+190-357,stan1293,http://concepticon.clld.org/parameters/1113,wrap,"wind, wrap"
+190-389,stan1293,http://concepticon.clld.org/parameters/827,roll,roll
+190-513,stan1293,http://concepticon.clld.org/parameters/808,drop,drop (vb)
+190-1474,stan1293,http://concepticon.clld.org/parameters/430,twist,twist
+190-14,stan1293,http://concepticon.clld.org/parameters/568,rise,rise
+190-1016,stan1293,http://concepticon.clld.org/parameters/501,raise,"raise, lift"
+190-258,stan1293,http://concepticon.clld.org/parameters/501,lift,"raise, lift"
+190-799,stan1293,http://concepticon.clld.org/parameters/1280,fall,fall
+190-290,stan1293,http://concepticon.clld.org/parameters/2253,drip,drip
+190-739,stan1293,http://concepticon.clld.org/parameters/1456,throw,throw
+190-946,stan1293,http://concepticon.clld.org/parameters/702,catch ball,catch (ball)
+190-494,stan1293,http://concepticon.clld.org/parameters/1909,shake,shake
+190-198,stan1293,http://concepticon.clld.org/parameters/2003,flow,flow
+190-1169,stan1293,http://concepticon.clld.org/parameters/1088,sink,sink
+190-353,stan1293,http://concepticon.clld.org/parameters/1574,float,float
+190-704,stan1293,http://concepticon.clld.org/parameters/1439,swim,swim
+190-477,stan1293,http://concepticon.clld.org/parameters/119,dive,dive
+190-830,stan1293,http://concepticon.clld.org/parameters/365,splash,splash
+190-233,stan1293,http://concepticon.clld.org/parameters/787,sail,sail (vb)
+190-455,stan1293,http://concepticon.clld.org/parameters/1441,fly,fly (vb)
+190-700,stan1293,http://concepticon.clld.org/parameters/175,blow,blow
+190-331,stan1293,http://concepticon.clld.org/parameters/96,creep,"creep, crawl"
+190-169,stan1293,http://concepticon.clld.org/parameters/96,crawl,"creep, crawl"
+190-1002,stan1293,http://concepticon.clld.org/parameters/66,kneel,kneel
+190-39,stan1293,http://concepticon.clld.org/parameters/296,crouch,crouch
+190-1256,stan1293,http://concepticon.clld.org/parameters/1324,slide,"slide, slip"
+190-1210,stan1293,http://concepticon.clld.org/parameters/1324,slip,"slide, slip"
+190-1155,stan1293,http://concepticon.clld.org/parameters/1829,jump,"jump, leap"
+190-1438,stan1293,http://concepticon.clld.org/parameters/1829,leap,"jump, leap"
+190-1416,stan1293,http://concepticon.clld.org/parameters/1135,kick,kick
+190-401,stan1293,http://concepticon.clld.org/parameters/1879,dance,dance
+190-1369,stan1293,http://concepticon.clld.org/parameters/1443,walk,walk
+190-1179,stan1293,http://concepticon.clld.org/parameters/366,limp,limp
+190-1087,stan1293,http://concepticon.clld.org/parameters/1519,run,run
+190-1130,stan1293,http://concepticon.clld.org/parameters/695,go,go
+190-695,stan1293,http://concepticon.clld.org/parameters/705,go up,go up
+190-1175,stan1293,http://concepticon.clld.org/parameters/1102,climb,climb
+190-498,stan1293,http://concepticon.clld.org/parameters/2014,go down,go down
+190-319,stan1293,http://concepticon.clld.org/parameters/1107,go out,go out
+190-641,stan1293,http://concepticon.clld.org/parameters/1446,come,come
+190-376,stan1293,http://concepticon.clld.org/parameters/581,come back,come back
+190-748,stan1293,http://concepticon.clld.org/parameters/1752,go away,"go away, depart"
+190-823,stan1293,http://concepticon.clld.org/parameters/1752,depart,"go away, depart"
+190-275,stan1293,http://concepticon.clld.org/parameters/485,disappear,disappear
+190-1254,stan1293,http://concepticon.clld.org/parameters/956,flee,flee
+190-790,stan1293,http://concepticon.clld.org/parameters/1085,follow,follow
+190-79,stan1293,http://concepticon.clld.org/parameters/1047,pursue,pursue
+190-960,stan1293,http://concepticon.clld.org/parameters/1387,reach,"reach, arrive"
+190-461,stan1293,http://concepticon.clld.org/parameters/1387,arrive,"reach, arrive"
+190-237,stan1293,http://concepticon.clld.org/parameters/1778,approach,approach
+190-108,stan1293,http://concepticon.clld.org/parameters/749,enter,enter
+190-546,stan1293,http://concepticon.clld.org/parameters/700,carry,carry (bear)
+190-1052,stan1293,http://concepticon.clld.org/parameters/412,carry-in-hand,carry-in-hand
+190-190,stan1293,http://concepticon.clld.org/parameters/413,carry-on-shoulder,carry-on-shoulder
+190-424,stan1293,http://concepticon.clld.org/parameters/414,carry-on-head,carry-on-head
+190-951,stan1293,http://concepticon.clld.org/parameters/415,carry-underarm,carry-underarm
+190-1326,stan1293,http://concepticon.clld.org/parameters/692,bring,bring
+190-1133,stan1293,http://concepticon.clld.org/parameters/1127,send,send
+190-1434,stan1293,http://concepticon.clld.org/parameters/43,lead,lead (vb)
+190-595,stan1293,http://concepticon.clld.org/parameters/741,drive,drive
+190-1198,stan1293,http://concepticon.clld.org/parameters/367,ride,ride
+190-399,stan1293,http://concepticon.clld.org/parameters/1452,push,"push, shove"
+190-440,stan1293,http://concepticon.clld.org/parameters/1452,shove,"push, shove"
+190-750,stan1293,http://concepticon.clld.org/parameters/667,road,road
+190-42,stan1293,http://concepticon.clld.org/parameters/2252,path,path
+190-618,stan1293,http://concepticon.clld.org/parameters/1011,bridge,bridge
+190-1353,stan1293,http://concepticon.clld.org/parameters/122,carriage,"carriage, wagon, cart"
+190-509,stan1293,http://concepticon.clld.org/parameters/122,wagon,"carriage, wagon, cart"
+190-531,stan1293,http://concepticon.clld.org/parameters/122,cart,"carriage, wagon, cart"
+190-281,stan1293,http://concepticon.clld.org/parameters/710,wheel,wheel
+190-1377,stan1293,http://concepticon.clld.org/parameters/1769,axle,axle
+190-346,stan1293,http://concepticon.clld.org/parameters/14,yoke,yoke
+190-382,stan1293,http://concepticon.clld.org/parameters/740,ship,ship
+190-651,stan1293,http://concepticon.clld.org/parameters/1844,boat,boat
+190-665,stan1293,http://concepticon.clld.org/parameters/1970,canoe,canoe
+190-1402,stan1293,http://concepticon.clld.org/parameters/416,outrigger,outrigger
+190-831,stan1293,http://concepticon.clld.org/parameters/1664,raft,raft
+190-1481,stan1293,http://concepticon.clld.org/parameters/108,oar,oar
+190-1160,stan1293,http://concepticon.clld.org/parameters/234,paddle,paddle (noun)
+190-407,stan1293,http://concepticon.clld.org/parameters/1849,row,row (vb)
+190-1134,stan1293,http://concepticon.clld.org/parameters/108,rudder,rudder
+190-784,stan1293,http://concepticon.clld.org/parameters/184,mast,mast
+190-233,stan1293,http://concepticon.clld.org/parameters/786,sail,sail (noun)
+190-47,stan1293,http://concepticon.clld.org/parameters/1870,anchor,anchor
+190-645,stan1293,http://concepticon.clld.org/parameters/610,harbor,"harbor, port"
+190-426,stan1293,http://concepticon.clld.org/parameters/610,port,"harbor, port"
+190-1124,stan1293,http://concepticon.clld.org/parameters/1922,land,land (vb)
+190-1305,stan1293,http://concepticon.clld.org/parameters/773,have,have
+190-1450,stan1293,http://concepticon.clld.org/parameters/684,own,"own, possess"
+190-508,stan1293,http://concepticon.clld.org/parameters/684,possess,"own, possess"
+190-583,stan1293,http://concepticon.clld.org/parameters/1749,take,take
+190-965,stan1293,http://concepticon.clld.org/parameters/2021,seize,"seize, grasp"
+190-767,stan1293,http://concepticon.clld.org/parameters/2021,grasp,"seize, grasp"
+190-74,stan1293,http://concepticon.clld.org/parameters/1448,hold,hold
+190-619,stan1293,http://concepticon.clld.org/parameters/694,get,"get, obtain"
+190-1406,stan1293,http://concepticon.clld.org/parameters/694,obtain,"get, obtain"
+190-1274,stan1293,http://concepticon.clld.org/parameters/1477,keep,"keep, retain"
+190-1276,stan1293,http://concepticon.clld.org/parameters/1477,retain,"keep, retain"
+190-534,stan1293,http://concepticon.clld.org/parameters/738,thing,thing
+190-87,stan1293,http://concepticon.clld.org/parameters/1447,give,give
+190-1100,stan1293,http://concepticon.clld.org/parameters/85,give back,give back
+190-238,stan1293,http://concepticon.clld.org/parameters/1997,preserve,"preserve, look after"
+190-794,stan1293,http://concepticon.clld.org/parameters/1997,look after,"preserve, look after"
+190-262,stan1293,http://concepticon.clld.org/parameters/2008,save,"save, rescue"
+190-12,stan1293,http://concepticon.clld.org/parameters/2008,rescue,"save, rescue"
+190-584,stan1293,http://concepticon.clld.org/parameters/681,destroy,destroy
+190-902,stan1293,http://concepticon.clld.org/parameters/44,harm,"harm, injure, damage"
+190-828,stan1293,http://concepticon.clld.org/parameters/44,injure,"harm, injure, damage"
+190-93,stan1293,http://concepticon.clld.org/parameters/44,damage,"harm, injure, damage"
+190-188,stan1293,http://concepticon.clld.org/parameters/1468,seek,"seek, look for"
+190-345,stan1293,http://concepticon.clld.org/parameters/1468,look for,"seek, look for"
+190-977,stan1293,http://concepticon.clld.org/parameters/719,find,find
+190-1426,stan1293,http://concepticon.clld.org/parameters/1660,lose,lose
+190-223,stan1293,http://concepticon.clld.org/parameters/1095,release,"release, let go"
+190-1347,stan1293,http://concepticon.clld.org/parameters/1095,let go,"release, let go"
+190-696,stan1293,http://concepticon.clld.org/parameters/1559,money,money
+190-195,stan1293,http://concepticon.clld.org/parameters/1867,coin,coin
+190-212,stan1293,http://concepticon.clld.org/parameters/712,rich,rich
+190-779,stan1293,http://concepticon.clld.org/parameters/1674,poor,poor
+190-1302,stan1293,http://concepticon.clld.org/parameters/1934,beggar,beggar
+190-1173,stan1293,http://concepticon.clld.org/parameters/1774,avaricious,"avaricious, stingy"
+190-445,stan1293,http://concepticon.clld.org/parameters/1774,stingy,"avaricious, stingy"
+190-1122,stan1293,http://concepticon.clld.org/parameters/582,lend,lend
+190-626,stan1293,http://concepticon.clld.org/parameters/1823,borrow,borrow
+190-1451,stan1293,http://concepticon.clld.org/parameters/369,owe,owe
+190-243,stan1293,http://concepticon.clld.org/parameters/1914,debt,debt
+190-675,stan1293,http://concepticon.clld.org/parameters/718,pay,pay (vb)
+190-1197,stan1293,http://concepticon.clld.org/parameters/1081,account,"account, reckoning"
+190-507,stan1293,http://concepticon.clld.org/parameters/1081,reckoning,"account, reckoning"
+190-1207,stan1293,http://concepticon.clld.org/parameters/873,tax,"tax, tribute"
+190-813,stan1293,http://concepticon.clld.org/parameters/873,tribute,"tax, tribute"
+190-764,stan1293,http://concepticon.clld.org/parameters/856,hire,hire
+190-930,stan1293,http://concepticon.clld.org/parameters/1122,wages,wages
+190-220,stan1293,http://concepticon.clld.org/parameters/733,earn,earn
+190-1461,stan1293,http://concepticon.clld.org/parameters/1869,buy,buy
+190-952,stan1293,http://concepticon.clld.org/parameters/1571,sell,sell
+190-882,stan1293,http://concepticon.clld.org/parameters/2135,trade,"trade, barter"
+190-972,stan1293,http://concepticon.clld.org/parameters/2135,barter,"trade, barter"
+190-11,stan1293,http://concepticon.clld.org/parameters/1082,merchant,merchant
+190-788,stan1293,http://concepticon.clld.org/parameters/633,market place,market (place)
+190-939,stan1293,http://concepticon.clld.org/parameters/752,store,"store, shop"
+190-599,stan1293,http://concepticon.clld.org/parameters/752,shop,"store, shop"
+190-590,stan1293,http://concepticon.clld.org/parameters/657,price,price
+190-328,stan1293,http://concepticon.clld.org/parameters/1426,dear,"dear (costly, expensive)"
+190-1037,stan1293,http://concepticon.clld.org/parameters/1426,costly,"dear (costly, expensive)"
+190-1013,stan1293,http://concepticon.clld.org/parameters/1426,expensive,"dear (costly, expensive)"
+190-601,stan1293,http://concepticon.clld.org/parameters/1887,cheap,cheap
+190-854,stan1293,http://concepticon.clld.org/parameters/884,share,share (distribute)
+190-294,stan1293,http://concepticon.clld.org/parameters/884,distribute,share (distribute)
+190-971,stan1293,http://concepticon.clld.org/parameters/1098,weigh,weigh
+190-99,stan1293,http://concepticon.clld.org/parameters/1685,after,after
+190-637,stan1293,http://concepticon.clld.org/parameters/723,behind,behind
+190-116,stan1293,http://concepticon.clld.org/parameters/1816,beside,beside
+190-355,stan1293,http://concepticon.clld.org/parameters/1326,down,"down, below"
+190-1468,stan1293,http://concepticon.clld.org/parameters/1326,below,"down, below"
+190-114,stan1293,http://concepticon.clld.org/parameters/1882,before,before
+190-1407,stan1293,http://concepticon.clld.org/parameters/1019,front,front
+190-377,stan1293,http://concepticon.clld.org/parameters/1606,inside,"inside, in"
+190-273,stan1293,http://concepticon.clld.org/parameters/1606,in,"inside, in"
+190-1138,stan1293,http://concepticon.clld.org/parameters/762,outside,outside
+190-67,stan1293,http://concepticon.clld.org/parameters/1485,under,under
+190-1108,stan1293,http://concepticon.clld.org/parameters/1591,up,"up, above"
+190-36,stan1293,http://concepticon.clld.org/parameters/1591,above,"up, above"
+190-535,stan1293,http://concepticon.clld.org/parameters/723,place,place
+190-826,stan1293,http://concepticon.clld.org/parameters/998,put,put
+190-1231,stan1293,http://concepticon.clld.org/parameters/1416,sit,sit
+190-466,stan1293,http://concepticon.clld.org/parameters/215,lie down,lie down
+190-746,stan1293,http://concepticon.clld.org/parameters/1442,stand,stand
+190-847,stan1293,http://concepticon.clld.org/parameters/987,remain,"remain, stay"
+190-1485,stan1293,http://concepticon.clld.org/parameters/987,stay,"remain, stay"
+190-1182,stan1293,http://concepticon.clld.org/parameters/838,remains,"remains, left overs"
+190-1471,stan1293,http://concepticon.clld.org/parameters/838,left overs,"remains, left overs"
+190-1071,stan1293,http://concepticon.clld.org/parameters/7,collect,"collect, gather"
+190-1320,stan1293,http://concepticon.clld.org/parameters/7,gather,"collect, gather"
+190-336,stan1293,http://concepticon.clld.org/parameters/371,pick up,pick up
+190-975,stan1293,http://concepticon.clld.org/parameters/1576,pile up,pile up
+190-76,stan1293,http://concepticon.clld.org/parameters/1743,join,"join, unite"
+190-1388,stan1293,http://concepticon.clld.org/parameters/1743,unite,"join, unite"
+190-780,stan1293,http://concepticon.clld.org/parameters/1359,separate,separate
+190-52,stan1293,http://concepticon.clld.org/parameters/1119,divide,divide
+190-548,stan1293,http://concepticon.clld.org/parameters/1156,open,open
+190-1269,stan1293,http://concepticon.clld.org/parameters/1046,shut,"shut, close"
+190-999,stan1293,http://concepticon.clld.org/parameters/1046,close,"shut, close"
+190-968,stan1293,http://concepticon.clld.org/parameters/761,cover,cover
+190-32,stan1293,http://concepticon.clld.org/parameters/602,hide,"hide, conceal"
+190-349,stan1293,http://concepticon.clld.org/parameters/602,conceal,"hide, conceal"
+190-1208,stan1293,http://concepticon.clld.org/parameters/1265,high,high
+190-755,stan1293,http://concepticon.clld.org/parameters/721,low,low
+190-160,stan1293,http://concepticon.clld.org/parameters/1753,top,top
+190-333,stan1293,http://concepticon.clld.org/parameters/690,bottom,bottom
+190-92,stan1293,http://concepticon.clld.org/parameters/742,end,end
+190-1335,stan1293,http://concepticon.clld.org/parameters/372,pointed,pointed
+190-1057,stan1293,http://concepticon.clld.org/parameters/863,edge,edge
+190-134,stan1293,http://concepticon.clld.org/parameters/682,side,side
+190-669,stan1293,http://concepticon.clld.org/parameters/1093,middle,"middle, center"
+190-1399,stan1293,http://concepticon.clld.org/parameters/1093,center,"middle, center"
+190-320,stan1293,http://concepticon.clld.org/parameters/1019,right,right (side)
+190-293,stan1293,http://concepticon.clld.org/parameters/244,left,left (side)
+190-265,stan1293,http://concepticon.clld.org/parameters/1942,near,near (adv)
+190-796,stan1293,http://concepticon.clld.org/parameters/1406,far,far (adv)
+190-307,stan1293,http://concepticon.clld.org/parameters/1877,east,east
+190-654,stan1293,http://concepticon.clld.org/parameters/1817,west,west
+190-1462,stan1293,http://concepticon.clld.org/parameters/1598,north,north
+190-1277,stan1293,http://concepticon.clld.org/parameters/1595,south,south
+190-481,stan1293,http://concepticon.clld.org/parameters/479,grow,grow
+190-1259,stan1293,http://concepticon.clld.org/parameters/1506,measure,measure
+190-1095,stan1293,http://concepticon.clld.org/parameters/81,span,"span, fathom"
+190-1264,stan1293,http://concepticon.clld.org/parameters/81,fathom,"span, fathom"
+190-802,stan1293,http://concepticon.clld.org/parameters/1202,large,"large, big"
+190-1065,stan1293,http://concepticon.clld.org/parameters/1202,big,"large, big"
+190-804,stan1293,http://concepticon.clld.org/parameters/1246,small,"small, little"
+190-553,stan1293,http://concepticon.clld.org/parameters/1246,little,"small, little"
+190-545,stan1293,http://concepticon.clld.org/parameters/1203,long,long
+190-489,stan1293,http://concepticon.clld.org/parameters/711,tall,tall
+190-874,stan1293,http://concepticon.clld.org/parameters/1645,short,short
+190-564,stan1293,http://concepticon.clld.org/parameters/1243,wide,"wide, broad"
+190-1435,stan1293,http://concepticon.clld.org/parameters/1243,broad,"wide, broad"
+190-822,stan1293,http://concepticon.clld.org/parameters/1267,narrow,narrow
+190-157,stan1293,http://concepticon.clld.org/parameters/1244,thick,thick (in dimension)
+190-1201,stan1293,http://concepticon.clld.org/parameters/1400,thin,thin (in dimension)
+190-1376,stan1293,http://concepticon.clld.org/parameters/1593,deep,deep
+190-1290,stan1293,http://concepticon.clld.org/parameters/193,shallow,shallow
+190-833,stan1293,http://concepticon.clld.org/parameters/1633,flat,flat
+190-1032,stan1293,http://concepticon.clld.org/parameters/1404,straight,straight
+190-634,stan1293,http://concepticon.clld.org/parameters/297,crooked,crooked
+190-894,stan1293,http://concepticon.clld.org/parameters/1071,hook,hook
+190-605,stan1293,http://concepticon.clld.org/parameters/192,corner,corner
+190-1387,stan1293,http://concepticon.clld.org/parameters/1367,cross,cross
+190-518,stan1293,http://concepticon.clld.org/parameters/850,square,square
+190-419,stan1293,http://concepticon.clld.org/parameters/1395,round,round
+190-982,stan1293,http://concepticon.clld.org/parameters/1467,circle,circle
+190-856,stan1293,http://concepticon.clld.org/parameters/1845,sphere,"sphere, ball"
+190-1390,stan1293,http://concepticon.clld.org/parameters/1845,ball,"sphere, ball"
+190-1104,stan1293,http://concepticon.clld.org/parameters/1048,line,line
+190-73,stan1293,http://concepticon.clld.org/parameters/1667,hole,hole
+190-1424,stan1293,http://concepticon.clld.org/parameters/1558,like,"like, similar"
+190-1110,stan1293,http://concepticon.clld.org/parameters/1558,similar,"like, similar"
+190-438,stan1293,http://concepticon.clld.org/parameters/1264,change,change
+190-807,stan1293,http://concepticon.clld.org/parameters/1294,zero,"zero, nothing"
+190-963,stan1293,http://concepticon.clld.org/parameters/1294,nothing,"zero, nothing"
+190-544,stan1293,http://concepticon.clld.org/parameters/1515,one,one
+190-829,stan1293,http://concepticon.clld.org/parameters/1498,two,two
+190-249,stan1293,http://concepticon.clld.org/parameters/492,three,three
+190-2,stan1293,http://concepticon.clld.org/parameters/1500,four,four
+190-1419,stan1293,http://concepticon.clld.org/parameters/493,five,five
+190-1217,stan1293,http://concepticon.clld.org/parameters/1703,six,six
+190-270,stan1293,http://concepticon.clld.org/parameters/1704,seven,seven
+190-1315,stan1293,http://concepticon.clld.org/parameters/1705,eight,eight
+190-848,stan1293,http://concepticon.clld.org/parameters/1483,nine,nine
+190-159,stan1293,http://concepticon.clld.org/parameters/1515,ten,ten
+190-1184,stan1293,http://concepticon.clld.org/parameters/1706,eleven,eleven
+190-726,stan1293,http://concepticon.clld.org/parameters/1707,twelve,twelve
+190-1171,stan1293,http://concepticon.clld.org/parameters/1709,fifteen,fifteen
+190-934,stan1293,http://concepticon.clld.org/parameters/1710,twenty,twenty
+190-938,stan1293,http://concepticon.clld.org/parameters/1634,hundred,hundred
+190-656,stan1293,http://concepticon.clld.org/parameters/1843,thousand,thousand
+190-1465,stan1293,http://concepticon.clld.org/parameters/1420,count,count
+190-16,stan1293,http://concepticon.clld.org/parameters/98,every,"every, all"
+190-785,stan1293,http://concepticon.clld.org/parameters/98,all,"every, all"
+190-251,stan1293,http://concepticon.clld.org/parameters/1198,much,"much, many"
+190-643,stan1293,http://concepticon.clld.org/parameters/1198,many,"much, many"
+190-832,stan1293,http://concepticon.clld.org/parameters/1992,more,more
+190-553,stan1293,http://concepticon.clld.org/parameters/1242,little,"little (quantity), few"
+190-1096,stan1293,http://concepticon.clld.org/parameters/1242,few,"little (quantity), few"
+190-760,stan1293,http://concepticon.clld.org/parameters/1881,enough,enough
+190-1078,stan1293,http://concepticon.clld.org/parameters/1241,some,some
+190-814,stan1293,http://concepticon.clld.org/parameters/2023,multitude,"multitude, crowd"
+190-322,stan1293,http://concepticon.clld.org/parameters/2023,crowd,"multitude, crowd"
+190-817,stan1293,http://concepticon.clld.org/parameters/1429,full,full
+190-1022,stan1293,http://concepticon.clld.org/parameters/1624,empty,empty
+190-941,stan1293,http://concepticon.clld.org/parameters/779,part,"part, piece"
+190-1469,stan1293,http://concepticon.clld.org/parameters/779,piece,"part, piece"
+190-506,stan1293,http://concepticon.clld.org/parameters/816,half,half
+190-435,stan1293,http://concepticon.clld.org/parameters/1580,alone,"alone, only"
+190-613,stan1293,http://concepticon.clld.org/parameters/1580,only,"alone, only"
+190-539,stan1293,http://concepticon.clld.org/parameters/728,first,first
+190-1005,stan1293,http://concepticon.clld.org/parameters/1529,last,last
+190-30,stan1293,http://concepticon.clld.org/parameters/1384,second,second
+190-591,stan1293,http://concepticon.clld.org/parameters/1888,pair,pair
+190-648,stan1293,http://concepticon.clld.org/parameters/1546,two times,two times
+190-105,stan1293,http://concepticon.clld.org/parameters/1859,third,third
+190-524,stan1293,http://concepticon.clld.org/parameters/417,three times,three times
+190-398,stan1293,http://concepticon.clld.org/parameters/892,time,time
+190-1125,stan1293,http://concepticon.clld.org/parameters/1789,age,age
+190-37,stan1293,http://concepticon.clld.org/parameters/1231,new,new
+190-1132,stan1293,http://concepticon.clld.org/parameters/1207,young,young
+190-321,stan1293,http://concepticon.clld.org/parameters/1229,old,old
+190-1053,stan1293,http://concepticon.clld.org/parameters/672,early,early
+190-889,stan1293,http://concepticon.clld.org/parameters/477,late,late
+190-1410,stan1293,http://concepticon.clld.org/parameters/1376,now,now
+190-1423,stan1293,http://concepticon.clld.org/parameters/1963,immediately,immediately
+190-1360,stan1293,http://concepticon.clld.org/parameters/1631,swift,"swift, fast, quick"
+190-1098,stan1293,http://concepticon.clld.org/parameters/1631,fast,"swift, fast, quick"
+190-418,stan1293,http://concepticon.clld.org/parameters/1631,quick,"swift, fast, quick"
+190-609,stan1293,http://concepticon.clld.org/parameters/701,slow,slow
+190-224,stan1293,http://concepticon.clld.org/parameters/754,hasten,"hasten, hurry"
+190-838,stan1293,http://concepticon.clld.org/parameters/754,hurry,"hasten, hurry"
+190-1398,stan1293,http://concepticon.clld.org/parameters/425,retard,"retard, delay"
+190-1218,stan1293,http://concepticon.clld.org/parameters/425,delay,"retard, delay"
+190-587,stan1293,http://concepticon.clld.org/parameters/1806,begin,"begin, beginning"
+190-921,stan1293,http://concepticon.clld.org/parameters/1806,beginning,"begin, beginning"
+190-1005,stan1293,http://concepticon.clld.org/parameters/1186,last,"last, endure"
+190-174,stan1293,http://concepticon.clld.org/parameters/1186,endure,"last, endure"
+190-92,stan1293,http://concepticon.clld.org/parameters/743,end,end (temporal)
+190-681,stan1293,http://concepticon.clld.org/parameters/1766,finish,finish
+190-698,stan1293,http://concepticon.clld.org/parameters/1928,cease,"cease, stop"
+190-216,stan1293,http://concepticon.clld.org/parameters/1928,stop,"cease, stop"
+190-1040,stan1293,http://concepticon.clld.org/parameters/790,ready,ready
+190-895,stan1293,http://concepticon.clld.org/parameters/1676,always,always
+190-1076,stan1293,http://concepticon.clld.org/parameters/1852,often,often
+190-967,stan1293,http://concepticon.clld.org/parameters/1544,sometimes,sometimes
+190-881,stan1293,http://concepticon.clld.org/parameters/703,soon,soon
+190-1483,stan1293,http://concepticon.clld.org/parameters/418,long-time,long-time (for a)
+190-40,stan1293,http://concepticon.clld.org/parameters/1656,never,never
+190-776,stan1293,http://concepticon.clld.org/parameters/204,again,again
+190-1255,stan1293,http://concepticon.clld.org/parameters/1260,day,day
+190-318,stan1293,http://concepticon.clld.org/parameters/1233,night,night
+190-140,stan1293,http://concepticon.clld.org/parameters/729,dawn,dawn
+190-627,stan1293,http://concepticon.clld.org/parameters/1339,morning,morning
+190-732,stan1293,http://concepticon.clld.org/parameters/12,noon,"noon, midday"
+190-1187,stan1293,http://concepticon.clld.org/parameters/12,midday,"noon, midday"
+190-352,stan1293,http://concepticon.clld.org/parameters/1807,afternoon,afternoon
+190-670,stan1293,http://concepticon.clld.org/parameters/1629,evening,evening
+190-450,stan1293,http://concepticon.clld.org/parameters/1283,today,today
+190-549,stan1293,http://concepticon.clld.org/parameters/1329,tomorrow,tomorrow
+190-1478,stan1293,http://concepticon.clld.org/parameters/1179,day-after-tomorrow,day-after-tomorrow
+190-1048,stan1293,http://concepticon.clld.org/parameters/1174,yesterday,yesterday
+190-453,stan1293,http://concepticon.clld.org/parameters/1180,day-before-yesterday,day-before-yesterday
+190-841,stan1293,http://concepticon.clld.org/parameters/1353,hour,hour
+190-810,stan1293,http://concepticon.clld.org/parameters/1323,clock,"clock, timepiece"
+190-624,stan1293,http://concepticon.clld.org/parameters/1323,timepiece,"clock, timepiece"
+190-679,stan1293,http://concepticon.clld.org/parameters/1469,week,week
+190-1408,stan1293,http://concepticon.clld.org/parameters/1699,Sunday,Sunday
+190-555,stan1293,http://concepticon.clld.org/parameters/1697,Monday,Monday
+190-268,stan1293,http://concepticon.clld.org/parameters/1695,Tuesday,Tuesday
+190-1190,stan1293,http://concepticon.clld.org/parameters/1694,Wednesday,Wednesday
+190-773,stan1293,http://concepticon.clld.org/parameters/1693,Thursday,Thursday
+190-1411,stan1293,http://concepticon.clld.org/parameters/1692,Friday,Friday
+190-1324,stan1293,http://concepticon.clld.org/parameters/1700,Saturday,Saturday
+190-787,stan1293,http://concepticon.clld.org/parameters/1370,month,month
+190-523,stan1293,http://concepticon.clld.org/parameters/1226,year,year
+190-468,stan1293,http://concepticon.clld.org/parameters/1471,winter,winter
+190-1077,stan1293,http://concepticon.clld.org/parameters/1537,spring,spring
+190-693,stan1293,http://concepticon.clld.org/parameters/1342,summer,summer
+190-855,stan1293,http://concepticon.clld.org/parameters/1276,autumn,autumn
+190-561,stan1293,http://concepticon.clld.org/parameters/691,season,season
+190-388,stan1293,http://concepticon.clld.org/parameters/1587,smell,smell (vb intrans)
+190-1362,stan1293,http://concepticon.clld.org/parameters/375,sniff,sniff
+190-388,stan1293,http://concepticon.clld.org/parameters/1586,smell,smell (vb trans)
+190-226,stan1293,http://concepticon.clld.org/parameters/376,fragrant,"fragrant, good smelling"
+190-642,stan1293,http://concepticon.clld.org/parameters/376,good smelling,"fragrant, good smelling"
+190-128,stan1293,http://concepticon.clld.org/parameters/42,stinking,"stinking, bad smelling"
+190-1148,stan1293,http://concepticon.clld.org/parameters/42,bad smelling,"stinking, bad smelling"
+190-770,stan1293,http://concepticon.clld.org/parameters/21,taste,taste
+190-1008,stan1293,http://concepticon.clld.org/parameters/717,sweet,sweet
+190-858,stan1293,http://concepticon.clld.org/parameters/1091,salty,salty
+190-163,stan1293,http://concepticon.clld.org/parameters/887,bitter,bitter
+190-1158,stan1293,http://concepticon.clld.org/parameters/1906,acid,"acid, sour"
+190-460,stan1293,http://concepticon.clld.org/parameters/1906,sour,"acid, sour"
+190-6,stan1293,http://concepticon.clld.org/parameters/70,brackish,brackish
+190-371,stan1293,http://concepticon.clld.org/parameters/1408,hear,hear
+190-948,stan1293,http://concepticon.clld.org/parameters/1608,listen,listen
+190-660,stan1293,http://concepticon.clld.org/parameters/1811,sound,"sound, noise"
+190-1441,stan1293,http://concepticon.clld.org/parameters/1811,noise,"sound, noise"
+190-153,stan1293,http://concepticon.clld.org/parameters/377,loud,loud
+190-644,stan1293,http://concepticon.clld.org/parameters/1314,quiet,"quiet, silence"
+190-1094,stan1293,http://concepticon.clld.org/parameters/1314,silence,"quiet, silence"
+190-1296,stan1293,http://concepticon.clld.org/parameters/1409,see,see
+190-1030,stan1293,http://concepticon.clld.org/parameters/1819,look,"look, look at"
+190-1313,stan1293,http://concepticon.clld.org/parameters/1819,look at,"look, look at"
+190-600,stan1293,http://concepticon.clld.org/parameters/1039,show,show
+190-1090,stan1293,http://concepticon.clld.org/parameters/708,shine,shine
+190-603,stan1293,http://concepticon.clld.org/parameters/679,bright,bright
+190-646,stan1293,http://concepticon.clld.org/parameters/1613,color,color
+190-1230,stan1293,http://concepticon.clld.org/parameters/250,light,light (in color)
+190-709,stan1293,http://concepticon.clld.org/parameters/706,dark,dark (in color)
+190-558,stan1293,http://concepticon.clld.org/parameters/1335,white,white
+190-615,stan1293,http://concepticon.clld.org/parameters/163,black,black
+190-1268,stan1293,http://concepticon.clld.org/parameters/156,red,red
+190-31,stan1293,http://concepticon.clld.org/parameters/837,blue,blue
+190-107,stan1293,http://concepticon.clld.org/parameters/1425,green,green
+190-1,stan1293,http://concepticon.clld.org/parameters/1424,yellow,yellow
+190-699,stan1293,http://concepticon.clld.org/parameters/1892,touch,touch
+190-22,stan1293,http://concepticon.clld.org/parameters/378,pinch,pinch
+190-929,stan1293,http://concepticon.clld.org/parameters/1079,feel,feel
+190-906,stan1293,http://concepticon.clld.org/parameters/1884,hard,hard
+190-1427,stan1293,http://concepticon.clld.org/parameters/1856,soft,soft
+190-397,stan1293,http://concepticon.clld.org/parameters/1923,rough,rough
+190-1467,stan1293,http://concepticon.clld.org/parameters/1234,smooth,smooth
+190-859,stan1293,http://concepticon.clld.org/parameters/1396,sharp,sharp
+190-585,stan1293,http://concepticon.clld.org/parameters/379,blunt,"blunt, dull"
+190-1105,stan1293,http://concepticon.clld.org/parameters/379,dull,"blunt, dull"
+190-901,stan1293,http://concepticon.clld.org/parameters/1210,heavy,heavy
+190-257,stan1293,http://concepticon.clld.org/parameters/1052,light-weight,light (in weight)
+190-1415,stan1293,http://concepticon.clld.org/parameters/1726,wet,"wet, damp"
+190-1017,stan1293,http://concepticon.clld.org/parameters/1726,damp,"wet, damp"
+190-44,stan1293,http://concepticon.clld.org/parameters/1398,dry,dry
+190-94,stan1293,http://concepticon.clld.org/parameters/1286,hot,hot
+190-70,stan1293,http://concepticon.clld.org/parameters/1232,warm,warm
+190-495,stan1293,http://concepticon.clld.org/parameters/1287,cold,cold
+190-970,stan1293,http://concepticon.clld.org/parameters/704,clean,clean
+190-766,stan1293,http://concepticon.clld.org/parameters/1230,dirty,"dirty, soiled"
+190-1029,stan1293,http://concepticon.clld.org/parameters/1230,soiled,"dirty, soiled"
+190-1093,stan1293,http://concepticon.clld.org/parameters/380,wrinkled,wrinkled
+190-457,stan1293,http://concepticon.clld.org/parameters/53,soul,"soul, spirit"
+190-658,stan1293,http://concepticon.clld.org/parameters/53,spirit,"soul, spirit"
+190-1063,stan1293,http://concepticon.clld.org/parameters/1572,surprised,"surprised, astonished"
+190-372,stan1293,http://concepticon.clld.org/parameters/1572,astonished,"surprised, astonished"
+190-447,stan1293,http://concepticon.clld.org/parameters/720,good fortune,"good fortune, luck"
+190-136,stan1293,http://concepticon.clld.org/parameters/720,luck,"good fortune, luck"
+190-142,stan1293,http://concepticon.clld.org/parameters/56,misfortune,"misfortune, bad luck"
+190-1034,stan1293,http://concepticon.clld.org/parameters/56,bad luck,"misfortune, bad luck"
+190-703,stan1293,http://concepticon.clld.org/parameters/1495,joyful,"joyful, glad, happy"
+190-839,stan1293,http://concepticon.clld.org/parameters/1495,glad,"joyful, glad, happy"
+190-365,stan1293,http://concepticon.clld.org/parameters/1495,happy,"joyful, glad, happy"
+190-1370,stan1293,http://concepticon.clld.org/parameters/1355,laugh,laugh
+190-793,stan1293,http://concepticon.clld.org/parameters/1451,smile,smile
+190-958,stan1293,http://concepticon.clld.org/parameters/1413,play,play
+190-444,stan1293,http://concepticon.clld.org/parameters/923,love,love
+190-1252,stan1293,http://concepticon.clld.org/parameters/578,kiss,kiss
+190-671,stan1293,http://concepticon.clld.org/parameters/928,embrace,embrace
+190-589,stan1293,http://concepticon.clld.org/parameters/1783,pain,pain
+190-68,stan1293,http://concepticon.clld.org/parameters/1668,grief,"grief, sorrow, sadness"
+190-1358,stan1293,http://concepticon.clld.org/parameters/1668,sorrow,"grief, sorrow, sadness"
+190-765,stan1293,http://concepticon.clld.org/parameters/1668,sadness,"grief, sorrow, sadness"
+190-171,stan1293,http://concepticon.clld.org/parameters/1000,anxiety,"anxiety, worry"
+190-672,stan1293,http://concepticon.clld.org/parameters/1000,worry,"anxiety, worry"
+190-422,stan1293,http://concepticon.clld.org/parameters/1875,regret,"regret, be sorry"
+190-710,stan1293,http://concepticon.clld.org/parameters/1875,be sorry,"regret, be sorry"
+190-244,stan1293,http://concepticon.clld.org/parameters/1141,pity,pity
+190-990,stan1293,http://concepticon.clld.org/parameters/1839,cry,"cry, weep"
+190-690,stan1293,http://concepticon.clld.org/parameters/1839,weep,"cry, weep"
+190-413,stan1293,http://concepticon.clld.org/parameters/1651,tear,tear (noun)
+190-759,stan1293,http://concepticon.clld.org/parameters/716,groan,groan
+190-5,stan1293,http://concepticon.clld.org/parameters/1607,hate,hate
+190-577,stan1293,http://concepticon.clld.org/parameters/82,anger,anger
+190-1330,stan1293,http://concepticon.clld.org/parameters/40,envy,"envy, jealousy"
+190-360,stan1293,http://concepticon.clld.org/parameters/40,jealousy,"envy, jealousy"
+190-78,stan1293,http://concepticon.clld.org/parameters/1776,shame,shame (noun)
+190-594,stan1293,http://concepticon.clld.org/parameters/174,proud,proud
+190-713,stan1293,http://concepticon.clld.org/parameters/1779,dare,dare
+190-421,stan1293,http://concepticon.clld.org/parameters/3,brave,brave
+190-1445,stan1293,http://concepticon.clld.org/parameters/781,fear,"fear, fright"
+190-769,stan1293,http://concepticon.clld.org/parameters/781,fright,"fear, fright"
+190-1177,stan1293,http://concepticon.clld.org/parameters/1810,danger,danger
+190-314,stan1293,http://concepticon.clld.org/parameters/1784,desire,"desire, want"
+190-90,stan1293,http://concepticon.clld.org/parameters/1784,want,"desire, want"
+190-1245,stan1293,http://concepticon.clld.org/parameters/1750,choose,choose
+190-1336,stan1293,http://concepticon.clld.org/parameters/1092,hope,hope
+190-384,stan1293,http://concepticon.clld.org/parameters/100,faithful,faithful
+190-374,stan1293,http://concepticon.clld.org/parameters/1657,true,true
+190-1046,stan1293,http://concepticon.clld.org/parameters/601,lie,"lie, tell lies"
+190-576,stan1293,http://concepticon.clld.org/parameters/601,tell lies,"lie, tell lies"
+190-1010,stan1293,http://concepticon.clld.org/parameters/13,deceit,deceit
+190-916,stan1293,http://concepticon.clld.org/parameters/1528,forgive,forgive
+190-890,stan1293,http://concepticon.clld.org/parameters/1035,good,good
+190-222,stan1293,http://concepticon.clld.org/parameters/1292,bad,bad
+190-320,stan1293,http://concepticon.clld.org/parameters/1725,right,"right, correct"
+190-529,stan1293,http://concepticon.clld.org/parameters/1725,correct,"right, correct"
+190-100,stan1293,http://concepticon.clld.org/parameters/1390,wrong,wrong
+190-1381,stan1293,http://concepticon.clld.org/parameters/134,fault,fault
+190-269,stan1293,http://concepticon.clld.org/parameters/1293,mistake,"mistake, error"
+190-1036,stan1293,http://concepticon.clld.org/parameters/1293,error,"mistake, error"
+190-639,stan1293,http://concepticon.clld.org/parameters/381,blame,blame
+190-1202,stan1293,http://concepticon.clld.org/parameters/1687,praise,praise
+190-852,stan1293,http://concepticon.clld.org/parameters/1427,beautiful,beautiful
+190-264,stan1293,http://concepticon.clld.org/parameters/1548,ugly,ugly
+190-1270,stan1293,http://concepticon.clld.org/parameters/2018,greedy,greedy
+190-1189,stan1293,http://concepticon.clld.org/parameters/1310,clever,clever
+190-181,stan1293,http://concepticon.clld.org/parameters/1562,mind,mind
+190-538,stan1293,http://concepticon.clld.org/parameters/1415,think,think (= reflect)
+190-871,stan1293,http://concepticon.clld.org/parameters/1415,reflect,think (= reflect)
+190-538,stan1293,http://concepticon.clld.org/parameters/1513,think,think (= be of the opinion)
+190-942,stan1293,http://concepticon.clld.org/parameters/1890,believe,believe
+190-1025,stan1293,http://concepticon.clld.org/parameters/1536,understand,understand
+190-1420,stan1293,http://concepticon.clld.org/parameters/1410,know,know
+190-330,stan1293,http://concepticon.clld.org/parameters/1932,guess,guess
+190-227,stan1293,http://concepticon.clld.org/parameters/117,imitate,imitate
+190-186,stan1293,http://concepticon.clld.org/parameters/1521,seem,seem
+190-907,stan1293,http://concepticon.clld.org/parameters/1609,idea,"idea, notion"
+190-203,stan1293,http://concepticon.clld.org/parameters/1609,notion,"idea, notion"
+190-1466,stan1293,http://concepticon.clld.org/parameters/698,wise,wise
+190-1075,stan1293,http://concepticon.clld.org/parameters/1518,foolish,"foolish, stupid"
+190-629,stan1293,http://concepticon.clld.org/parameters/1518,stupid,"foolish, stupid"
+190-1278,stan1293,http://concepticon.clld.org/parameters/1899,insane,"insane, crazy"
+190-463,stan1293,http://concepticon.clld.org/parameters/1899,crazy,"insane, crazy"
+190-849,stan1293,http://concepticon.clld.org/parameters/504,learn,learn
+190-46,stan1293,http://concepticon.clld.org/parameters/1929,study,study
+190-920,stan1293,http://concepticon.clld.org/parameters/709,teach,teach
+190-1495,stan1293,http://concepticon.clld.org/parameters/753,pupil,pupil
+190-1018,stan1293,http://concepticon.clld.org/parameters/1038,teacher,teacher
+190-20,stan1293,http://concepticon.clld.org/parameters/673,school,school
+190-701,stan1293,http://concepticon.clld.org/parameters/707,remember,remember
+190-786,stan1293,http://concepticon.clld.org/parameters/1523,forget,forget
+190-966,stan1293,http://concepticon.clld.org/parameters/989,clear,"clear, plain"
+190-1379,stan1293,http://concepticon.clld.org/parameters/989,plain,"clear, plain"
+190-992,stan1293,http://concepticon.clld.org/parameters/1764,obscure,obscure
+190-1019,stan1293,http://concepticon.clld.org/parameters/1121,secret,secret
+190-588,stan1293,http://concepticon.clld.org/parameters/509,sure,"sure, certain"
+190-771,stan1293,http://concepticon.clld.org/parameters/509,certain,"sure, certain"
+190-209,stan1293,http://concepticon.clld.org/parameters/1626,explain,explain
+190-1459,stan1293,http://concepticon.clld.org/parameters/1162,intention,"intention, purpose"
+190-1049,stan1293,http://concepticon.clld.org/parameters/1162,purpose,"intention, purpose"
+190-1266,stan1293,http://concepticon.clld.org/parameters/860,cause,cause
+190-1185,stan1293,http://concepticon.clld.org/parameters/1308,doubt,doubt
+190-429,stan1293,http://concepticon.clld.org/parameters/1841,suspect,suspect
+190-981,stan1293,http://concepticon.clld.org/parameters/1902,betray,betray
+190-1306,stan1293,http://concepticon.clld.org/parameters/643,need,"need, necessity"
+190-1050,stan1293,http://concepticon.clld.org/parameters/643,necessity,"need, necessity"
+190-304,stan1293,http://concepticon.clld.org/parameters/686,easy,easy
+190-1389,stan1293,http://concepticon.clld.org/parameters/584,difficult,difficult
+190-1150,stan1293,http://concepticon.clld.org/parameters/1812,try,"try, attempt"
+190-104,stan1293,http://concepticon.clld.org/parameters/1812,attempt,"try, attempt"
+190-362,stan1293,http://concepticon.clld.org/parameters/488,way,"way, manner"
+190-185,stan1293,http://concepticon.clld.org/parameters/488,manner,"way, manner"
+190-570,stan1293,http://concepticon.clld.org/parameters/1577,and,and
+190-1429,stan1293,http://concepticon.clld.org/parameters/1157,because,because
+190-276,stan1293,http://concepticon.clld.org/parameters/1459,if,if
+190-749,stan1293,http://concepticon.clld.org/parameters/1014,or,or
+190-298,stan1293,http://concepticon.clld.org/parameters/1268,yes,"yes, affirmative"
+190-950,stan1293,http://concepticon.clld.org/parameters/1268,affirmative,"yes, affirmative"
+190-385,stan1293,http://concepticon.clld.org/parameters/1269,no,"no, negative"
+190-59,stan1293,http://concepticon.clld.org/parameters/1269,negative,"no, negative"
+190-1043,stan1293,http://concepticon.clld.org/parameters/1239,how?,how?
+190-475,stan1293,http://concepticon.clld.org/parameters/822,how many?,how many?
+190-1140,stan1293,http://concepticon.clld.org/parameters/531,how much?,how much?
+190-369,stan1293,http://concepticon.clld.org/parameters/1236,what?,what?
+190-816,stan1293,http://concepticon.clld.org/parameters/1238,when?,when?
+190-1039,stan1293,http://concepticon.clld.org/parameters/1237,where?,where?
+190-289,stan1293,http://concepticon.clld.org/parameters/727,which?,which?
+190-1028,stan1293,http://concepticon.clld.org/parameters/1235,who?,who?
+190-358,stan1293,http://concepticon.clld.org/parameters/1270,why?,why?
+190-267,stan1293,http://concepticon.clld.org/parameters/1363,voice,voice
+190-1170,stan1293,http://concepticon.clld.org/parameters/1261,sing,sing
+190-302,stan1293,http://concepticon.clld.org/parameters/715,shout,"shout, cry out"
+190-1310,stan1293,http://concepticon.clld.org/parameters/715,cry out,"shout, cry out"
+190-1472,stan1293,http://concepticon.clld.org/parameters/55,whisper,whisper
+190-1012,stan1293,http://concepticon.clld.org/parameters/128,mumble,mumble
+190-985,stan1293,http://concepticon.clld.org/parameters/1025,whistle,whistle
+190-43,stan1293,http://concepticon.clld.org/parameters/298,shriek,"shriek, screech"
+190-1172,stan1293,http://concepticon.clld.org/parameters/298,screech,"shriek, screech"
+190-1058,stan1293,http://concepticon.clld.org/parameters/526,howl,howl
+190-248,stan1293,http://concepticon.clld.org/parameters/1623,speak,"speak, talk"
+190-490,stan1293,http://concepticon.clld.org/parameters/1623,talk,"speak, talk"
+190-391,stan1293,http://concepticon.clld.org/parameters/1866,stutter,"stutter, stammer"
+190-566,stan1293,http://concepticon.clld.org/parameters/1866,stammer,"stutter, stammer"
+190-574,stan1293,http://concepticon.clld.org/parameters/1458,say,say
+190-1262,stan1293,http://concepticon.clld.org/parameters/1711,tell story,tell story
+190-677,stan1293,http://concepticon.clld.org/parameters/1115,speech,speech (make a)
+190-554,stan1293,http://concepticon.clld.org/parameters/48,silent,silent (be)
+190-533,stan1293,http://concepticon.clld.org/parameters/1307,language,language
+190-412,stan1293,http://concepticon.clld.org/parameters/1599,word,word
+190-510,stan1293,http://concepticon.clld.org/parameters/1405,name,name
+190-229,stan1293,http://concepticon.clld.org/parameters/1309,ask question,"ask (question, inquire)"
+190-674,stan1293,http://concepticon.clld.org/parameters/1309,inquire,"ask (question, inquire)"
+190-95,stan1293,http://concepticon.clld.org/parameters/1275,answer,answer
+190-1364,stan1293,http://concepticon.clld.org/parameters/2022,admit,"admit, confess"
+190-1263,stan1293,http://concepticon.clld.org/parameters/2022,confess,"admit, confess"
+190-1318,stan1293,http://concepticon.clld.org/parameters/755,deny,deny
+190-919,stan1293,http://concepticon.clld.org/parameters/1828,ask,"ask, request"
+190-1321,stan1293,http://concepticon.clld.org/parameters/1828,request,"ask, request"
+190-1454,stan1293,http://concepticon.clld.org/parameters/1675,promise,promise
+190-873,stan1293,http://concepticon.clld.org/parameters/49,refuse,refuse
+190-1178,stan1293,http://concepticon.clld.org/parameters/83,forbid,forbid
+190-1327,stan1293,http://concepticon.clld.org/parameters/299,rebuke,"rebuke, scold"
+190-7,stan1293,http://concepticon.clld.org/parameters/299,scold,"rebuke, scold"
+190-363,stan1293,http://concepticon.clld.org/parameters/1084,call,call (=summon)
+190-1346,stan1293,http://concepticon.clld.org/parameters/1084,summon,call (=summon)
+190-638,stan1293,http://concepticon.clld.org/parameters/180,call by name,call (=name)
+190-213,stan1293,http://concepticon.clld.org/parameters/9,announce,announce
+190-1020,stan1293,http://concepticon.clld.org/parameters/1192,threaten,threaten
+190-705,stan1293,http://concepticon.clld.org/parameters/101,boast,boast
+190-470,stan1293,http://concepticon.clld.org/parameters/1672,write,write
+190-706,stan1293,http://concepticon.clld.org/parameters/724,read,read
+190-884,stan1293,http://concepticon.clld.org/parameters/648,paper,paper
+190-1085,stan1293,http://concepticon.clld.org/parameters/794,pen,pen
+190-1480,stan1293,http://concepticon.clld.org/parameters/963,book,book
+190-1374,stan1293,http://concepticon.clld.org/parameters/1045,poet,poet
+190-959,stan1293,http://concepticon.clld.org/parameters/777,flute,flute
+190-1361,stan1293,http://concepticon.clld.org/parameters/908,drum,drum
+190-28,stan1293,http://concepticon.clld.org/parameters/2136,horn,"horn, trumpet"
+190-1211,stan1293,http://concepticon.clld.org/parameters/2136,trumpet,"horn, trumpet"
+190-179,stan1293,http://concepticon.clld.org/parameters/300,rattle,rattle
+190-246,stan1293,http://concepticon.clld.org/parameters/1300,country,country
+190-396,stan1293,http://concepticon.clld.org/parameters/89,one's native country,one's native country
+190-552,stan1293,http://concepticon.clld.org/parameters/1391,city,"city, town"
+190-840,stan1293,http://concepticon.clld.org/parameters/1391,town,"city, town"
+190-1011,stan1293,http://concepticon.clld.org/parameters/930,village,village
+190-1354,stan1293,http://concepticon.clld.org/parameters/1010,boundary,boundary
+190-323,stan1293,http://concepticon.clld.org/parameters/789,people,people (populace)
+190-1261,stan1293,http://concepticon.clld.org/parameters/789,populace,people (populace)
+190-751,stan1293,http://concepticon.clld.org/parameters/302,tribe,"tribe, clan"
+190-715,stan1293,http://concepticon.clld.org/parameters/302,clan,"tribe, clan"
+190-1233,stan1293,http://concepticon.clld.org/parameters/301,chief,"chief, chieftain"
+190-821,stan1293,http://concepticon.clld.org/parameters/301,chieftain,"chief, chieftain"
+190-1329,stan1293,http://concepticon.clld.org/parameters/1296,staff,"staff, walking stick"
+190-1292,stan1293,http://concepticon.clld.org/parameters/1296,walking stick,"staff, walking stick"
+190-1492,stan1293,http://concepticon.clld.org/parameters/1846,rule,"rule, govern"
+190-17,stan1293,http://concepticon.clld.org/parameters/1846,govern,"rule, govern"
+190-943,stan1293,http://concepticon.clld.org/parameters/1508,king,"king, ruler"
+190-707,stan1293,http://concepticon.clld.org/parameters/1508,ruler,"king, ruler"
+190-206,stan1293,http://concepticon.clld.org/parameters/1306,queen,queen
+190-680,stan1293,http://concepticon.clld.org/parameters/482,noble,"noble, nobleman"
+190-332,stan1293,http://concepticon.clld.org/parameters/482,nobleman,"noble, nobleman"
+190-1024,stan1293,http://concepticon.clld.org/parameters/1032,citizen,"citizen, subject"
+190-232,stan1293,http://concepticon.clld.org/parameters/1032,subject,"citizen, subject"
+190-161,stan1293,http://concepticon.clld.org/parameters/383,master,master
+190-1391,stan1293,http://concepticon.clld.org/parameters/812,slave,slave
+190-512,stan1293,http://concepticon.clld.org/parameters/255,servant,servant
+190-1246,stan1293,http://concepticon.clld.org/parameters/384,freeman,freeman
+190-1401,stan1293,http://concepticon.clld.org/parameters/1128,command,"command, order"
+190-430,stan1293,http://concepticon.clld.org/parameters/1128,order,"command, order"
+190-1442,stan1293,http://concepticon.clld.org/parameters/1635,obey,obey
+190-1168,stan1293,http://concepticon.clld.org/parameters/1003,let,"let, permit"
+190-49,stan1293,http://concepticon.clld.org/parameters/1003,permit,"let, permit"
+190-559,stan1293,http://concepticon.clld.org/parameters/1325,friend,"friend, companion"
+190-686,stan1293,http://concepticon.clld.org/parameters/1325,companion,"friend, companion"
+190-989,stan1293,http://concepticon.clld.org/parameters/1358,enemy,enemy
+190-747,stan1293,http://concepticon.clld.org/parameters/1332,neighbor,neighbor
+190-717,stan1293,http://concepticon.clld.org/parameters/791,stranger,stranger
+190-933,stan1293,http://concepticon.clld.org/parameters/1782,guest,guest
+190-1443,stan1293,http://concepticon.clld.org/parameters/1545,host,host
+190-880,stan1293,http://concepticon.clld.org/parameters/1897,help,"help, aid"
+190-266,stan1293,http://concepticon.clld.org/parameters/1897,aid,"help, aid"
+190-1439,stan1293,http://concepticon.clld.org/parameters/1550,hinder,"hinder, prevent"
+190-420,stan1293,http://concepticon.clld.org/parameters/1550,prevent,"hinder, prevent"
+190-1099,stan1293,http://concepticon.clld.org/parameters/1747,custom,custom
+190-1070,stan1293,http://concepticon.clld.org/parameters/1848,strife,"strife, quarrel"
+190-86,stan1293,http://concepticon.clld.org/parameters/1848,quarrel,"strife, quarrel"
+190-575,stan1293,http://concepticon.clld.org/parameters/2024,conspiracy,"conspiracy, plot"
+190-54,stan1293,http://concepticon.clld.org/parameters/2024,plot,"conspiracy, plot"
+190-1203,stan1293,http://concepticon.clld.org/parameters/1831,meet,meet
+190-197,stan1293,http://concepticon.clld.org/parameters/1610,prostitute,prostitute
+190-361,stan1293,http://concepticon.clld.org/parameters/1423,fight,fight (vb)
+190-364,stan1293,http://concepticon.clld.org/parameters/579,war,"war, battle"
+190-404,stan1293,http://concepticon.clld.org/parameters/579,battle,"war, battle"
+190-1118,stan1293,http://concepticon.clld.org/parameters/1338,peace,peace
+190-57,stan1293,http://concepticon.clld.org/parameters/1561,army,army
+190-820,stan1293,http://concepticon.clld.org/parameters/1941,soldier,soldier
+190-636,stan1293,http://concepticon.clld.org/parameters/951,weapons,"weapons, arms"
+190-71,stan1293,http://concepticon.clld.org/parameters/951,arms,"weapons, arms"
+190-451,stan1293,http://concepticon.clld.org/parameters/1763,club,club
+190-1136,stan1293,http://concepticon.clld.org/parameters/386,battle-ax,battle-ax
+190-390,stan1293,http://concepticon.clld.org/parameters/387,sling,sling
+190-442,stan1293,http://concepticon.clld.org/parameters/994,bow,bow
+190-737,stan1293,http://concepticon.clld.org/parameters/977,arrow,arrow
+190-247,stan1293,http://concepticon.clld.org/parameters/945,spear,spear
+190-472,stan1293,http://concepticon.clld.org/parameters/1535,sword,sword
+190-908,stan1293,http://concepticon.clld.org/parameters/1566,gun,"gun, cannon"
+190-620,stan1293,http://concepticon.clld.org/parameters/1566,cannon,"gun, cannon"
+190-1493,stan1293,http://concepticon.clld.org/parameters/1061,armor,armor (defensive)
+190-673,stan1293,http://concepticon.clld.org/parameters/1680,helmet,helmet
+190-491,stan1293,http://concepticon.clld.org/parameters/1064,shield,shield
+190-85,stan1293,http://concepticon.clld.org/parameters/1938,fortress,fortress
+190-724,stan1293,http://concepticon.clld.org/parameters/1671,tower,tower
+190-735,stan1293,http://concepticon.clld.org/parameters/783,victory,victory
+190-1047,stan1293,http://concepticon.clld.org/parameters/782,defeat,defeat
+190-1281,stan1293,http://concepticon.clld.org/parameters/722,attack,attack
+190-1496,stan1293,http://concepticon.clld.org/parameters/1330,defend,defend
+190-313,stan1293,http://concepticon.clld.org/parameters/421,retreat,retreat
+190-373,stan1293,http://concepticon.clld.org/parameters/1696,surrender,surrender
+190-375,stan1293,http://concepticon.clld.org/parameters/1072,captive,"captive, prisoner"
+190-1317,stan1293,http://concepticon.clld.org/parameters/1072,prisoner,"captive, prisoner"
+190-1452,stan1293,http://concepticon.clld.org/parameters/1940,guard,"guard, sentinel"
+190-729,stan1293,http://concepticon.clld.org/parameters/1940,sentinel,"guard, sentinel"
+190-1152,stan1293,http://concepticon.clld.org/parameters/1022,booty,"booty, spoils"
+190-567,stan1293,http://concepticon.clld.org/parameters/1022,spoils,"booty, spoils"
+190-1092,stan1293,http://concepticon.clld.org/parameters/65,ambush,ambush
+190-514,stan1293,http://concepticon.clld.org/parameters/1858,fisherman,fisherman
+190-1372,stan1293,http://concepticon.clld.org/parameters/1074,fishhook,fishhook
+190-1186,stan1293,http://concepticon.clld.org/parameters/19,fishing line,fishing line
+190-1139,stan1293,http://concepticon.clld.org/parameters/388,fishnet,fishnet
+190-168,stan1293,http://concepticon.clld.org/parameters/389,fish trap,fish trap
+190-204,stan1293,http://concepticon.clld.org/parameters/2013,bait,bait
+190-316,stan1293,http://concepticon.clld.org/parameters/1435,hunt,hunt
+190-75,stan1293,http://concepticon.clld.org/parameters/1172,shoot,shoot
+190-1064,stan1293,http://concepticon.clld.org/parameters/161,miss target,miss (target)
+190-1257,stan1293,http://concepticon.clld.org/parameters/1075,trap,trap (noun)
+190-1257,stan1293,http://concepticon.clld.org/parameters/1170,trap,trap (vb)
+190-101,stan1293,http://concepticon.clld.org/parameters/1062,law,law
+190-864,stan1293,http://concepticon.clld.org/parameters/1068,court,court
+190-311,stan1293,http://concepticon.clld.org/parameters/1818,judge,judge (vb)
+190-1396,stan1293,http://concepticon.clld.org/parameters/1067,judgment,judgment
+190-311,stan1293,http://concepticon.clld.org/parameters/861,judge,judge (noun)
+190-622,stan1293,http://concepticon.clld.org/parameters/2020,plaintiff,plaintiff
+190-1109,stan1293,http://concepticon.clld.org/parameters/1034,defendant,defendant
+190-1260,stan1293,http://concepticon.clld.org/parameters/1144,witness,witness
+190-1446,stan1293,http://concepticon.clld.org/parameters/1939,swear,swear
+190-569,stan1293,http://concepticon.clld.org/parameters/1712,oath,oath
+190-1144,stan1293,http://concepticon.clld.org/parameters/1814,accuse,accuse
+190-863,stan1293,http://concepticon.clld.org/parameters/484,condemn,condemn
+190-410,stan1293,http://concepticon.clld.org/parameters/983,convict,convict (vb)
+190-208,stan1293,http://concepticon.clld.org/parameters/988,acquit,acquit
+190-441,stan1293,http://concepticon.clld.org/parameters/1682,guilty,guilty
+190-255,stan1293,http://concepticon.clld.org/parameters/90,innocent,innocent
+190-980,stan1293,http://concepticon.clld.org/parameters/390,penalty,"penalty, punishment"
+190-50,stan1293,http://concepticon.clld.org/parameters/390,punishment,"penalty, punishment"
+190-976,stan1293,http://concepticon.clld.org/parameters/218,fine,fine
+190-305,stan1293,http://concepticon.clld.org/parameters/1281,prison,"prison, jail"
+190-486,stan1293,http://concepticon.clld.org/parameters/1281,jail,"prison, jail"
+190-166,stan1293,http://concepticon.clld.org/parameters/845,murder,murder
+190-1385,stan1293,http://concepticon.clld.org/parameters/902,adultery,adultery
+190-1212,stan1293,http://concepticon.clld.org/parameters/953,rape,rape
+190-964,stan1293,http://concepticon.clld.org/parameters/1889,arson,arson
+190-1225,stan1293,http://concepticon.clld.org/parameters/1792,perjury,perjury
+190-225,stan1293,http://concepticon.clld.org/parameters/713,steal,steal
+190-1431,stan1293,http://concepticon.clld.org/parameters/1160,thief,thief
+190-1084,stan1293,http://concepticon.clld.org/parameters/661,religion,religion
+190-949,stan1293,http://concepticon.clld.org/parameters/1944,God,God
+190-1086,stan1293,http://concepticon.clld.org/parameters/911,temple,"temple, church"
+190-1430,stan1293,http://concepticon.clld.org/parameters/911,church,"temple, church"
+190-452,stan1293,http://concepticon.clld.org/parameters/853,altar,altar
+190-1267,stan1293,http://concepticon.clld.org/parameters/1103,sacrifice,"sacrifice, offering"
+190-368,stan1293,http://concepticon.clld.org/parameters/1103,offering,"sacrifice, offering"
+190-497,stan1293,http://concepticon.clld.org/parameters/257,worship,worship
+190-887,stan1293,http://concepticon.clld.org/parameters/24,pray,pray
+190-528,stan1293,http://concepticon.clld.org/parameters/852,priest,priest
+190-66,stan1293,http://concepticon.clld.org/parameters/1702,holy,"holy, sacred"
+190-867,stan1293,http://concepticon.clld.org/parameters/1702,sacred,"holy, sacred"
+190-537,stan1293,http://concepticon.clld.org/parameters/304,preach,preach
+190-896,stan1293,http://concepticon.clld.org/parameters/391,bless,bless
+190-427,stan1293,http://concepticon.clld.org/parameters/8,curse,curse
+190-1098,stan1293,http://concepticon.clld.org/parameters/303,fast,fast (vb)
+190-800,stan1293,http://concepticon.clld.org/parameters/1565,heaven,heaven
+190-886,stan1293,http://concepticon.clld.org/parameters/878,hell,hell
+190-1038,stan1293,http://concepticon.clld.org/parameters/1973,demon,demon (evil spirit)
+190-147,stan1293,http://concepticon.clld.org/parameters/1973,evil spirit,demon (evil spirit)
+190-253,stan1293,http://concepticon.clld.org/parameters/1945,idol,idol
+190-1147,stan1293,http://concepticon.clld.org/parameters/392,magic,"magic, witchcraft, sorcery"
+190-727,stan1293,http://concepticon.clld.org/parameters/392,witchcraft,"magic, witchcraft, sorcery"
+190-516,stan1293,http://concepticon.clld.org/parameters/392,sorcery,"magic, witchcraft, sorcery"
+190-1121,stan1293,http://concepticon.clld.org/parameters/2137,sorcerer,"sorcerer, witch"
+190-434,stan1293,http://concepticon.clld.org/parameters/2137,witch,"sorcerer, witch"
+190-899,stan1293,http://concepticon.clld.org/parameters/2138,fairy,"fairy, elf"
+190-300,stan1293,http://concepticon.clld.org/parameters/2138,elf,"fairy, elf"
+190-1490,stan1293,http://concepticon.clld.org/parameters/1175,ghost,"ghost, phantom"
+190-1115,stan1293,http://concepticon.clld.org/parameters/1175,phantom,"ghost, phantom"
+190-359,stan1293,http://concepticon.clld.org/parameters/107,omen,"omen, portent"
+190-1352,stan1293,http://concepticon.clld.org/parameters/107,portent,"omen, portent"

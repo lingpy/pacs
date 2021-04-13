@@ -1,0 +1,975 @@
+ID,Language_ID,Feature_ID,Value,Concept
+217-791,nege1244,http://concepticon.clld.org/parameters/965,wərən,world
+217-628,nege1244,http://concepticon.clld.org/parameters/626,adu,"earth, land"
+217-200,nege1244,http://concepticon.clld.org/parameters/1228,gron,"earth=ground, soil"
+217-616,nege1244,http://concepticon.clld.org/parameters/640,baba ~ boba ~ buba,mud
+217-379,nege1244,http://concepticon.clld.org/parameters/671,san,sand
+217-580,nege1244,http://concepticon.clld.org/parameters/2118,bɛrgi ~ bergə ~ berge,"mountain, hill"
+217-794,nege1244,http://concepticon.clld.org/parameters/618,grot sten,"cliff, precipice"
+217-256,nege1244,http://concepticon.clld.org/parameters/652,saban,"plain, field"
+217-241,nege1244,http://concepticon.clld.org/parameters/652,gras-pis,"plain, field"
+217-504,nege1244,http://concepticon.clld.org/parameters/921,faləi,valley
+217-414,nege1244,http://concepticon.clld.org/parameters/948,watu,water
+217-472,nege1244,http://concepticon.clld.org/parameters/1474,se ~ ze,sea
+217-477,nege1244,http://concepticon.clld.org/parameters/645,se ~ ze ~ zɛ,ocean
+217-475,nege1244,http://concepticon.clld.org/parameters/663,bai,"gulf, bay"
+217-399,nege1244,http://concepticon.clld.org/parameters/660,klip,reef
+217-254,nege1244,http://concepticon.clld.org/parameters/978,strom,wave
+217-111,nege1244,http://concepticon.clld.org/parameters/666,riva,"river, stream, brook"
+217-370,nege1244,http://concepticon.clld.org/parameters/2144,pit ~ pɛt,"spring, well"
+217-79,nege1244,http://concepticon.clld.org/parameters/1145,swampi,swamp
+217-741,nege1244,http://concepticon.clld.org/parameters/420,bus,"woods, forest"
+217-105,nege1244,http://concepticon.clld.org/parameters/906,bom,tree (cf 08.600)
+217-323,nege1244,http://concepticon.clld.org/parameters/1803,houtu ~ hautu,wood
+217-695,nege1244,http://concepticon.clld.org/parameters/2125,sten,"stone, rock"
+217-712,nege1244,http://concepticon.clld.org/parameters/6,ot-kwek,earthquake
+217-687,nege1244,http://concepticon.clld.org/parameters/1732,hɛwun ~ hewun ~ himul ~ himun ~ hiwun,sky
+217-718,nege1244,http://concepticon.clld.org/parameters/1343,son,sun
+217-211,nege1244,http://concepticon.clld.org/parameters/1313,man,moon
+217-795,nege1244,http://concepticon.clld.org/parameters/1430,stɛre,star
+217-486,nege1244,http://concepticon.clld.org/parameters/1654,wilik ~ wɛrlik,lightning
+217-609,nege1244,http://concepticon.clld.org/parameters/1150,tondu ~ dondu,thunder
+217-486,nege1244,http://concepticon.clld.org/parameters/2007,wilik ~ wɛrlik,lightning (as striking)
+217-13,nege1244,http://concepticon.clld.org/parameters/630,lɛ,light (noun)
+217-662,nege1244,http://concepticon.clld.org/parameters/11,duŋku,darkness
+217-431,nege1244,http://concepticon.clld.org/parameters/1977,dou,dew
+217-543,nege1244,http://concepticon.clld.org/parameters/960,win ~ wɛn,wind
+217-710,nege1244,http://concepticon.clld.org/parameters/1489,wolk,cloud
+217-610,nege1244,http://concepticon.clld.org/parameters/658,rɛgən ~ regon ~ regun,rain (noun)
+217-330,nege1244,http://concepticon.clld.org/parameters/221,fi,fire
+217-330,nege1244,http://concepticon.clld.org/parameters/889,fi,flame (noun)
+217-294,nege1244,http://concepticon.clld.org/parameters/778,smok,smoke (noun)
+217-464,nege1244,http://concepticon.clld.org/parameters/646,(h)ašiši,ashes
+217-607,nege1244,http://concepticon.clld.org/parameters/141,bran,burn (vb trans)
+217-607,nege1244,http://concepticon.clld.org/parameters/1428,bran,burn (vb intrans)
+217-142,nege1244,http://concepticon.clld.org/parameters/127,it,extinguish
+217-284,nege1244,http://concepticon.clld.org/parameters/1133,lusifer,match (noun)
+217-552,nege1244,http://concepticon.clld.org/parameters/10,houtu,firewood
+217-337,nege1244,http://concepticon.clld.org/parameters/1188,kol,charcoal
+217-314,nege1244,http://concepticon.clld.org/parameters/683,folək,"person, human being"
+217-246,nege1244,http://concepticon.clld.org/parameters/1554,nom,man (vs. woman)
+217-211,nege1244,http://concepticon.clld.org/parameters/1554,man,man (vs. woman)
+217-207,nege1244,http://concepticon.clld.org/parameters/962,frau,woman
+217-495,nege1244,http://concepticon.clld.org/parameters/2263,man-,male
+217-166,nege1244,http://concepticon.clld.org/parameters/2260,frou-,female
+217-693,nege1244,http://concepticon.clld.org/parameters/1366,yuŋ-kin,boy
+217-547,nege1244,http://concepticon.clld.org/parameters/76,yuŋ-(man) ~ yoŋ,young man (adolescent)
+217-758,nege1244,http://concepticon.clld.org/parameters/1646,mɛnši,girl
+217-758,nege1244,http://concepticon.clld.org/parameters/77,mɛnši,young woman (adolescent)
+217-595,nege1244,http://concepticon.clld.org/parameters/1304,kin,child
+217-595,nege1244,http://concepticon.clld.org/parameters/1289,kin,"infant, baby"
+217-211,nege1244,http://concepticon.clld.org/parameters/1200,man,husband
+217-514,nege1244,http://concepticon.clld.org/parameters/1200,(hou)-nom,husband
+217-133,nege1244,http://concepticon.clld.org/parameters/1199,frou,wife
+217-109,nege1244,http://concepticon.clld.org/parameters/1199,wif,wife
+217-436,nege1244,http://concepticon.clld.org/parameters/203,trou,marry
+217-436,nege1244,http://concepticon.clld.org/parameters/1259,trou,"marriage, wedding"
+217-5,nege1244,http://concepticon.clld.org/parameters/1217,fadə,father
+217-654,nege1244,http://concepticon.clld.org/parameters/1217,popa ~ pupa,father
+217-71,nege1244,http://concepticon.clld.org/parameters/1217,ta(i) ~ tita,father
+217-643,nege1244,http://concepticon.clld.org/parameters/1216,ma(ma) ~ muma,mother
+217-133,nege1244,http://concepticon.clld.org/parameters/426,frou,married woman
+217-218,nege1244,http://concepticon.clld.org/parameters/1620,so,son
+217-758,nege1244,http://concepticon.clld.org/parameters/1357,mɛnši,daughter
+217-595,nege1244,http://concepticon.clld.org/parameters/1801,kin,offspring (son or daughter)
+217-594,nege1244,http://concepticon.clld.org/parameters/1262,bru ~ buči,brother
+217-242,nege1244,http://concepticon.clld.org/parameters/1263,šiši,sister
+217-162,nege1244,http://concepticon.clld.org/parameters/1383,gro(t)-pupa,grandfather
+217-283,nege1244,http://concepticon.clld.org/parameters/1383,gro-ta,grandfather
+217-583,nege1244,http://concepticon.clld.org/parameters/1496,grani,grandmother
+217-676,nege1244,http://concepticon.clld.org/parameters/1496,grot-muma ~ grot-ma,grandmother
+217-362,nege1244,http://concepticon.clld.org/parameters/1496,gaŋ-gaŋ,grandmother
+217-17,nege1244,http://concepticon.clld.org/parameters/1618,grot-kin,grandson
+217-17,nege1244,http://concepticon.clld.org/parameters/1619,grot-kin,granddaughter
+217-246,nege1244,http://concepticon.clld.org/parameters/1327,nom,uncle
+217-494,nege1244,http://concepticon.clld.org/parameters/1272,mui,aunt
+217-355,nege1244,http://concepticon.clld.org/parameters/1643,gizin ~ kizin ~ kuzin,cousin
+217-503,nege1244,http://concepticon.clld.org/parameters/2255,skon-pupa,father-in-law (of a man)
+217-7,nege1244,http://concepticon.clld.org/parameters/2255,skon-ta,father-in-law (of a man)
+217-503,nege1244,http://concepticon.clld.org/parameters/2254,skon-pupa,father-in-law (of a woman)
+217-7,nege1244,http://concepticon.clld.org/parameters/2254,skon-ta,father-in-law (of a woman)
+217-21,nege1244,http://concepticon.clld.org/parameters/2256,skon-muma ~ skon-ma (?),mother-in-law (of a man)
+217-21,nege1244,http://concepticon.clld.org/parameters/2257,skon-muma ~ skon-ma (?),mother-in-law (of a woman)
+217-716,nege1244,http://concepticon.clld.org/parameters/2267,skon-kin,son-in-law (of a man)
+217-716,nege1244,http://concepticon.clld.org/parameters/2266,skon-kin,son-in-law (of a woman)
+217-144,nege1244,http://concepticon.clld.org/parameters/2265,skon-kin (?),daughter-in-law (of a man)
+217-144,nege1244,http://concepticon.clld.org/parameters/2264,skon-kin (?),daughter-in-law (of a woman)
+217-505,nege1244,http://concepticon.clld.org/parameters/237,dop-ta (?),stepfather
+217-415,nege1244,http://concepticon.clld.org/parameters/236,dop-ma,stepmother
+217-324,nege1244,http://concepticon.clld.org/parameters/1059,dop-kin (?),stepson
+217-324,nege1244,http://concepticon.clld.org/parameters/1058,dop-kin (?),stepdaughter
+217-59,nege1244,http://concepticon.clld.org/parameters/1209,mi,I
+217-260,nege1244,http://concepticon.clld.org/parameters/1215,yu,you (singular)
+217-204,nege1244,http://concepticon.clld.org/parameters/262,(h)am ~ (h)an,he/she/it
+217-452,nege1244,http://concepticon.clld.org/parameters/262,di,he/she/it
+217-331,nege1244,http://concepticon.clld.org/parameters/1212,ons,we
+217-273,nege1244,http://concepticon.clld.org/parameters/1213,yɛn ~ yin(i),you (plural)
+217-380,nege1244,http://concepticon.clld.org/parameters/817,sa ~ sɛ(l) ~ sɛn(d)r ~ si(n) ~ sini ~ sinr ~ sinu ~ zinə,they
+217-619,nege1244,http://concepticon.clld.org/parameters/619,bes,animal
+217-495,nege1244,http://concepticon.clld.org/parameters/2261,man-,male (adj)
+217-166,nege1244,http://concepticon.clld.org/parameters/2262,frou-,female (adj)
+217-724,nege1244,http://concepticon.clld.org/parameters/649,savan,pasture
+217-759,nege1244,http://concepticon.clld.org/parameters/263,wak-man,herdsman
+217-799,nege1244,http://concepticon.clld.org/parameters/851,stal,"stable, stall"
+217-90,nege1244,http://concepticon.clld.org/parameters/1153,hani-bes,cattle (bovine)
+217-748,nege1244,http://concepticon.clld.org/parameters/1008,bul,bull
+217-82,nege1244,http://concepticon.clld.org/parameters/1007,kui,cow
+217-305,nege1244,http://concepticon.clld.org/parameters/1989,ka(l)fi,calf
+217-620,nege1244,http://concepticon.clld.org/parameters/1331,skap,sheep
+217-372,nege1244,http://concepticon.clld.org/parameters/1344,(man-?)skap,ram
+217-668,nege1244,http://concepticon.clld.org/parameters/1345,(frou-?)skap,ewe
+217-766,nege1244,http://concepticon.clld.org/parameters/1348,be-fɛrgi,boar
+217-729,nege1244,http://concepticon.clld.org/parameters/1351,sik-fɛrgi,sow (2)
+217-257,nege1244,http://concepticon.clld.org/parameters/1337,fɛrgi ~ fɛrki,pig
+217-802,nege1244,http://concepticon.clld.org/parameters/1502,kabrita,goat
+217-56,nege1244,http://concepticon.clld.org/parameters/264,kabrita-bok,he-goat
+217-700,nege1244,http://concepticon.clld.org/parameters/615,kabai,horse (equine)
+217-584,nege1244,http://concepticon.clld.org/parameters/936,hɛŋgəs,stallion
+217-108,nege1244,http://concepticon.clld.org/parameters/938,meri,mare
+217-421,nege1244,http://concepticon.clld.org/parameters/1862,aksl,"ass, donkey"
+217-602,nege1244,http://concepticon.clld.org/parameters/1862,noli,"ass, donkey"
+217-666,nege1244,http://concepticon.clld.org/parameters/890,burika ~ buriko,mule
+217-217,nege1244,http://concepticon.clld.org/parameters/265,hondu ~ hundu,fowl
+217-189,nege1244,http://concepticon.clld.org/parameters/1511,hundu-han,"cock, rooster"
+217-217,nege1244,http://concepticon.clld.org/parameters/1514,hondu ~ hundu,hen
+217-92,nege1244,http://concepticon.clld.org/parameters/1318,kikintši,chicken
+217-2,nege1244,http://concepticon.clld.org/parameters/1187,gans,goose
+217-54,nege1244,http://concepticon.clld.org/parameters/1360,patpat ~ pačipači,duck
+217-672,nege1244,http://concepticon.clld.org/parameters/539,nɛs,nest
+217-755,nege1244,http://concepticon.clld.org/parameters/937,fegəl,bird
+217-499,nege1244,http://concepticon.clld.org/parameters/307,kikin-dif,hawk
+217-638,nege1244,http://concepticon.clld.org/parameters/882,parat,parrot
+217-469,nege1244,http://concepticon.clld.org/parameters/882,papəgoi,parrot
+217-523,nege1244,http://concepticon.clld.org/parameters/1853,difi,dove
+217-357,nege1244,http://concepticon.clld.org/parameters/2009,hun,dog
+217-388,nege1244,http://concepticon.clld.org/parameters/1208,puši,cat
+217-515,nege1244,http://concepticon.clld.org/parameters/2139,miši ~ muši,"mouse, rat"
+217-231,nege1244,http://concepticon.clld.org/parameters/2139,roto(n),"mouse, rat"
+217-763,nege1244,http://concepticon.clld.org/parameters/227,fɛs,fish
+217-264,nege1244,http://concepticon.clld.org/parameters/266,(fɛs-)skɛl,fishscale
+217-627,nege1244,http://concepticon.clld.org/parameters/1110,hai,shark
+217-225,nege1244,http://concepticon.clld.org/parameters/522,wuluwulk,wolf
+217-479,nege1244,http://concepticon.clld.org/parameters/1386,lion,lion
+217-770,nege1244,http://concepticon.clld.org/parameters/1350,babun,monkey
+217-788,nege1244,http://concepticon.clld.org/parameters/1350,ǰako,monkey
+217-484,nege1244,http://concepticon.clld.org/parameters/310,lus,louse
+217-520,nege1244,http://concepticon.clld.org/parameters/232,floiu,flea
+217-121,nege1244,http://concepticon.clld.org/parameters/1538,skepiun,scorpion
+217-665,nege1244,http://concepticon.clld.org/parameters/1575,kak(a)laka,cockroach
+217-647,nege1244,http://concepticon.clld.org/parameters/587,brambi,ant
+217-404,nege1244,http://concepticon.clld.org/parameters/1517,masbondo,wasp
+217-366,nege1244,http://concepticon.clld.org/parameters/1504,fligi,fly
+217-790,nege1244,http://concepticon.clld.org/parameters/95,mampi ~ mumpi,"sandfly (midge), gnat"
+217-65,nege1244,http://concepticon.clld.org/parameters/1509,moskit,mosquito
+217-424,nege1244,http://concepticon.clld.org/parameters/1219,wurum,worm
+217-293,nege1244,http://concepticon.clld.org/parameters/730,slaŋ,snake
+217-629,nege1244,http://concepticon.clld.org/parameters/1543,snal,snail
+217-312,nege1244,http://concepticon.clld.org/parameters/632,kakates,lizard
+217-209,nege1244,http://concepticon.clld.org/parameters/1857,kokro,"crocodile, alligator"
+217-51,nege1244,http://concepticon.clld.org/parameters/112,skilpad ~ skelbat ~ skelpan,turtle
+217-508,nege1244,http://concepticon.clld.org/parameters/112,marəkui,turtle
+217-386,nege1244,http://concepticon.clld.org/parameters/1480,lif,body
+217-386,nege1244,http://concepticon.clld.org/parameters/763,lif,"skin, hide"
+217-310,nege1244,http://concepticon.clld.org/parameters/2259,flɛs ~ flɛis,flesh
+217-197,nege1244,http://concepticon.clld.org/parameters/1040,ha(r),hair (head)
+217-143,nege1244,http://concepticon.clld.org/parameters/678,ba(r)d,beard
+217-197,nege1244,http://concepticon.clld.org/parameters/189,ha(r),body hair
+217-197,nege1244,http://concepticon.clld.org/parameters/36,ha(r),pubic hair
+217-77,nege1244,http://concepticon.clld.org/parameters/946,blut,blood
+217-365,nege1244,http://concepticon.clld.org/parameters/1394,ben,bone
+217-182,nege1244,http://concepticon.clld.org/parameters/801,ribi,rib
+217-752,nege1244,http://concepticon.clld.org/parameters/1393,horən,horn
+217-641,nege1244,http://concepticon.clld.org/parameters/1220,stɛt ~ stet,tail
+217-132,nege1244,http://concepticon.clld.org/parameters/1291,rigi ~ rɛgɛ,back
+217-219,nege1244,http://concepticon.clld.org/parameters/805,rigi-ben,spine
+217-346,nege1244,http://concepticon.clld.org/parameters/1256,kop,head
+217-346,nege1244,http://concepticon.clld.org/parameters/1605,kop,skull
+217-524,nege1244,http://concepticon.clld.org/parameters/1560,gɛsɛ(g) ~ gusə,face
+217-346,nege1244,http://concepticon.clld.org/parameters/123,kop,forehead
+217-403,nege1244,http://concepticon.clld.org/parameters/798,kak,jaw
+217-403,nege1244,http://concepticon.clld.org/parameters/1730,kak,cheek
+217-403,nege1244,http://concepticon.clld.org/parameters/1510,kak,chin
+217-117,nege1244,http://concepticon.clld.org/parameters/1248,hogo,eye
+217-326,nege1244,http://concepticon.clld.org/parameters/1173,hogo-brai,eyebrow
+217-747,nege1244,http://concepticon.clld.org/parameters/1247,ho,ear
+217-574,nege1244,http://concepticon.clld.org/parameters/1221,nas ~ nɛs,nose
+217-145,nege1244,http://concepticon.clld.org/parameters/1178,nas-i-gat,nostril
+217-263,nege1244,http://concepticon.clld.org/parameters/208,nas-i-slim,mucus (nasal)
+217-640,nege1244,http://concepticon.clld.org/parameters/674,mon ~ mun,mouth
+217-640,nege1244,http://concepticon.clld.org/parameters/73,mon ~ mun,beak
+217-772,nege1244,http://concepticon.clld.org/parameters/478,mon ~ mun (?),lip
+217-230,nege1244,http://concepticon.clld.org/parameters/1205,toŋ,tongue
+217-177,nege1244,http://concepticon.clld.org/parameters/1380,tan,tooth
+217-738,nege1244,http://concepticon.clld.org/parameters/1049,kau-tat,molartooth
+217-680,nege1244,http://concepticon.clld.org/parameters/1333,nɛk,neck
+217-680,nege1244,http://concepticon.clld.org/parameters/1347,nɛk,nape of neck
+217-798,nege1244,http://concepticon.clld.org/parameters/1346,gorogoro,throat
+217-497,nege1244,http://concepticon.clld.org/parameters/1346,kel,throat
+217-287,nege1244,http://concepticon.clld.org/parameters/1482,skou,shoulder
+217-493,nege1244,http://concepticon.clld.org/parameters/172,skou-ben,shoulderblade
+217-631,nege1244,http://concepticon.clld.org/parameters/1673,han,arm
+217-272,nege1244,http://concepticon.clld.org/parameters/1673,ɛrum,arm
+217-631,nege1244,http://concepticon.clld.org/parameters/981,han,elbow
+217-631,nege1244,http://concepticon.clld.org/parameters/799,han,wrist
+217-631,nege1244,http://concepticon.clld.org/parameters/1277,han,hand
+217-631,nege1244,http://concepticon.clld.org/parameters/1183,han,palm of hand
+217-742,nege1244,http://concepticon.clld.org/parameters/1303,fiŋgu,finger
+217-631,nege1244,http://concepticon.clld.org/parameters/1303,han,finger
+217-501,nege1244,http://concepticon.clld.org/parameters/1781,tum,thumb
+217-210,nege1244,http://concepticon.clld.org/parameters/1258,(fiŋgu-)nagəl,fingernail
+217-168,nege1244,http://concepticon.clld.org/parameters/72,nal (?),claw
+217-467,nege1244,http://concepticon.clld.org/parameters/1297,futu,leg
+217-455,nege1244,http://concepticon.clld.org/parameters/800,bil ~ bɛl,thigh
+217-467,nege1244,http://concepticon.clld.org/parameters/498,futu,calf of leg
+217-369,nege1244,http://concepticon.clld.org/parameters/1371,kini,knee
+217-467,nege1244,http://concepticon.clld.org/parameters/1371,futu,knee
+217-467,nege1244,http://concepticon.clld.org/parameters/1301,futu,foot
+217-467,nege1244,http://concepticon.clld.org/parameters/803,futu,ankle
+217-467,nege1244,http://concepticon.clld.org/parameters/980,futu,heel
+217-460,nege1244,http://concepticon.clld.org/parameters/980,hil,heel
+217-459,nege1244,http://concepticon.clld.org/parameters/1389,tɛtsi ~ təči,toe
+217-645,nege1244,http://concepticon.clld.org/parameters/1257,flɛgn,wing
+217-585,nege1244,http://concepticon.clld.org/parameters/1201,plim,feather
+217-99,nege1244,http://concepticon.clld.org/parameters/1592,bos,chest
+217-99,nege1244,http://concepticon.clld.org/parameters/1402,bos,breast (of woman)
+217-214,nege1244,http://concepticon.clld.org/parameters/796,titi ~ tɛtɛ,"nipple, teat"
+217-214,nege1244,http://concepticon.clld.org/parameters/154,titi ~ tɛtɛ,udder
+217-586,nege1244,http://concepticon.clld.org/parameters/1838,nabl,navel
+217-363,nege1244,http://concepticon.clld.org/parameters/1223,ha(r)t,heart
+217-644,nege1244,http://concepticon.clld.org/parameters/819,bik,stomach
+217-590,nege1244,http://concepticon.clld.org/parameters/1991,darm ~ dɛrəm,"intestines, guts"
+217-529,nege1244,http://concepticon.clld.org/parameters/1681,west,waist
+217-455,nege1244,http://concepticon.clld.org/parameters/834,bil ~ bɛl,buttocks
+217-644,nege1244,http://concepticon.clld.org/parameters/804,bik,womb
+217-567,nege1244,http://concepticon.clld.org/parameters/797,klut (?),testicle
+217-178,nege1244,http://concepticon.clld.org/parameters/797,sten (?),testicle
+217-796,nege1244,http://concepticon.clld.org/parameters/1222,man-ple,penis
+217-448,nege1244,http://concepticon.clld.org/parameters/1407,asɛm(trɛk) ~ azɛm,"breathe, breath"
+217-240,nege1244,http://concepticon.clld.org/parameters/1407,wɛn ~ win,"breathe, breath"
+217-115,nege1244,http://concepticon.clld.org/parameters/1028,win,"yawn, gape"
+217-548,nege1244,http://concepticon.clld.org/parameters/1028,gap,"yawn, gape"
+217-564,nege1244,http://concepticon.clld.org/parameters/879,koho,cough
+217-597,nege1244,http://concepticon.clld.org/parameters/1621,nis,sneeze
+217-134,nege1244,http://concepticon.clld.org/parameters/126,swet,perspire
+217-652,nege1244,http://concepticon.clld.org/parameters/1403,bit,bite
+217-746,nege1244,http://concepticon.clld.org/parameters/319,lik ~ lɛk,lick
+217-382,nege1244,http://concepticon.clld.org/parameters/1585,slap,sleep
+217-269,nege1244,http://concepticon.clld.org/parameters/1920,drom,dream
+217-541,nege1244,http://concepticon.clld.org/parameters/1602,waku,wake up
+217-429,nege1244,http://concepticon.clld.org/parameters/592,pipi,urinate
+217-203,nege1244,http://concepticon.clld.org/parameters/676,kaka ~ koka,defecate
+217-557,nege1244,http://concepticon.clld.org/parameters/1785,kankani,have sexual intercourse
+217-777,nege1244,http://concepticon.clld.org/parameters/1090,gibo ~ gɛborɛn,born (to be)
+217-373,nege1244,http://concepticon.clld.org/parameters/1422,lif ~ lɛf,"live, living, life"
+217-697,nege1244,http://concepticon.clld.org/parameters/1494,dot ~ dod,"die, dead"
+217-418,nege1244,http://concepticon.clld.org/parameters/1904,droŋ,drowned
+217-295,nege1244,http://concepticon.clld.org/parameters/1417,mata,kill
+217-430,nege1244,http://concepticon.clld.org/parameters/767,dot,corpse
+217-474,nege1244,http://concepticon.clld.org/parameters/1719,graf,bury (the dead)
+217-474,nege1244,http://concepticon.clld.org/parameters/1773,graf,"grave, tomb"
+217-317,nege1244,http://concepticon.clld.org/parameters/785,stɛrək,"strong, mighty, powerful"
+217-18,nege1244,http://concepticon.clld.org/parameters/1601,swak,weak
+217-206,nege1244,http://concepticon.clld.org/parameters/1364,frai,"well, health"
+217-195,nege1244,http://concepticon.clld.org/parameters/1847,sik,"sick, sickness"
+217-122,nege1244,http://concepticon.clld.org/parameters/1903,swek,swelling
+217-161,nege1244,http://concepticon.clld.org/parameters/499,mɛn,"cure, heal"
+217-112,nege1244,http://concepticon.clld.org/parameters/597,doktu,physician
+217-226,nege1244,http://concepticon.clld.org/parameters/1372,tisam,"medicine, drug"
+217-722,nege1244,http://concepticon.clld.org/parameters/1372,progaši,"medicine, drug"
+217-155,nege1244,http://concepticon.clld.org/parameters/1757,mu,"tired, weary"
+217-679,nege1244,http://concepticon.clld.org/parameters/168,rɛs,rest
+217-730,nege1244,http://concepticon.clld.org/parameters/1564,loi,lazy
+217-169,nege1244,http://concepticon.clld.org/parameters/1653,blɛn ~ blin ~ blain,blind
+217-33,nege1244,http://concepticon.clld.org/parameters/1463,druŋ ~ druŋk,intoxicated
+217-762,nege1244,http://concepticon.clld.org/parameters/590,nakun,"naked, bare"
+217-343,nege1244,http://concepticon.clld.org/parameters/1336,yit,eat
+217-343,nege1244,http://concepticon.clld.org/parameters/256,yit,food
+217-335,nege1244,http://concepticon.clld.org/parameters/269,kok,cooked
+217-383,nege1244,http://concepticon.clld.org/parameters/1959,rau,raw
+217-565,nege1244,http://concepticon.clld.org/parameters/178,rip,ripe
+217-675,nege1244,http://concepticon.clld.org/parameters/1958,grun,"green, unripe"
+217-754,nege1244,http://concepticon.clld.org/parameters/1728,frot,rotten
+217-396,nege1244,http://concepticon.clld.org/parameters/1401,driŋ ~ driŋg ~ driŋk,drink
+217-224,nege1244,http://concepticon.clld.org/parameters/1533,hungu,hunger
+217-427,nege1244,http://concepticon.clld.org/parameters/848,dos,thirst
+217-163,nege1244,http://concepticon.clld.org/parameters/1421,tɛtɛ,suck
+217-349,nege1244,http://concepticon.clld.org/parameters/321,kou,chew
+217-186,nege1244,http://concepticon.clld.org/parameters/897,sorop,swallow
+217-266,nege1244,http://concepticon.clld.org/parameters/129,čok,choke
+217-335,nege1244,http://concepticon.clld.org/parameters/1100,kok,cook
+217-560,nege1244,http://concepticon.clld.org/parameters/792,brou,boil (vb)
+217-607,nege1244,http://concepticon.clld.org/parameters/2146,bran,"roast, fry"
+217-473,nege1244,http://concepticon.clld.org/parameters/183,bak,bake
+217-61,nege1244,http://concepticon.clld.org/parameters/1143,obən ~ obn ~ ovn ~ ovən,oven
+217-517,nege1244,http://concepticon.clld.org/parameters/1462,pot,"pot, cooking vessel"
+217-364,nege1244,http://concepticon.clld.org/parameters/854,ketəl ~ kitl,kettle
+217-268,nege1244,http://concepticon.clld.org/parameters/31,pan,pan
+217-473,nege1244,http://concepticon.clld.org/parameters/481,bak,dish
+217-473,nege1244,http://concepticon.clld.org/parameters/480,bak,plate
+217-473,nege1244,http://concepticon.clld.org/parameters/1530,bak,bowl
+217-119,nege1244,http://concepticon.clld.org/parameters/1530,komenči,bowl
+217-185,nege1244,http://concepticon.clld.org/parameters/476,kominči ~ kaninči,"cup, drinking vessel"
+217-449,nege1244,http://concepticon.clld.org/parameters/476,kopi,"cup, drinking vessel"
+217-473,nege1244,http://concepticon.clld.org/parameters/271,bak,saucer
+217-544,nege1244,http://concepticon.clld.org/parameters/1378,lepu,spoon
+217-41,nege1244,http://concepticon.clld.org/parameters/1352,mɛs,knife (2)
+217-85,nege1244,http://concepticon.clld.org/parameters/1352,nɛf ~ nef,knife (2)
+217-579,nege1244,http://concepticon.clld.org/parameters/1302,forok,fork (2)
+217-780,nege1244,http://concepticon.clld.org/parameters/1526,frokos(t),meal (a)
+217-780,nege1244,http://concepticon.clld.org/parameters/1322,frokos(t),breakfast
+217-286,nege1244,http://concepticon.clld.org/parameters/1767,krau,scrape
+217-561,nege1244,http://concepticon.clld.org/parameters/1368,brot,bread
+217-551,nege1244,http://concepticon.clld.org/parameters/1594,mil ~ mel,"meal, flour"
+217-566,nege1244,http://concepticon.clld.org/parameters/1594,fanya ~ faria ~ farnya,"meal, flour"
+217-800,nege1244,http://concepticon.clld.org/parameters/1033,stam,"crush, grind"
+217-175,nege1244,http://concepticon.clld.org/parameters/1033,slip,"crush, grind"
+217-87,nege1244,http://concepticon.clld.org/parameters/636,mula,mill
+217-42,nege1244,http://concepticon.clld.org/parameters/224,monti (?),mortar (2)
+217-174,nege1244,http://concepticon.clld.org/parameters/225,monti-stok,pestle
+217-69,nege1244,http://concepticon.clld.org/parameters/634,flɛis ~ fles,meat
+217-344,nege1244,http://concepticon.clld.org/parameters/1547,səp,"soup, broth"
+217-614,nege1244,http://concepticon.clld.org/parameters/832,bonči,bean
+217-126,nege1244,http://concepticon.clld.org/parameters/593,bata(ta) ~ batita,potato
+217-674,nege1244,http://concepticon.clld.org/parameters/1484,oli,oil
+217-764,nege1244,http://concepticon.clld.org/parameters/323,fɛt,"grease, fat"
+217-358,nege1244,http://concepticon.clld.org/parameters/1274,saut(u),salt
+217-671,nege1244,http://concepticon.clld.org/parameters/1385,pɛpu,pepper
+217-488,nege1244,http://concepticon.clld.org/parameters/862,suku ~ suko,sugar
+217-136,nege1244,http://concepticon.clld.org/parameters/635,mɛlək ~ moluk,milk (noun)
+217-689,nege1244,http://concepticon.clld.org/parameters/93,mɛlək,milk (vb)
+217-408,nege1244,http://concepticon.clld.org/parameters/1569,kas,cheese
+217-345,nege1244,http://concepticon.clld.org/parameters/1245,butu ~ botər,butter
+217-502,nege1244,http://concepticon.clld.org/parameters/731,driŋ,"beverage, drink"
+217-115,nege1244,http://concepticon.clld.org/parameters/1524,win,wine
+217-677,nege1244,http://concepticon.clld.org/parameters/1639,biɛr,beer
+217-128,nege1244,http://concepticon.clld.org/parameters/744,eyu,egg
+217-93,nege1244,http://concepticon.clld.org/parameters/158,klet,put on (clothes)
+217-719,nege1244,http://concepticon.clld.org/parameters/1895,duku,"clothing, clothes"
+217-719,nege1244,http://concepticon.clld.org/parameters/1616,duku,cloth
+217-661,nege1244,http://concepticon.clld.org/parameters/916,gaimas,"linen, flax"
+217-443,nege1244,http://concepticon.clld.org/parameters/1850,katun,cotton
+217-338,nege1244,http://concepticon.clld.org/parameters/1641,se (?),silk
+217-749,nege1244,http://concepticon.clld.org/parameters/580,ha,fur
+217-768,nege1244,http://concepticon.clld.org/parameters/629,fɛl,leather
+217-150,nege1244,http://concepticon.clld.org/parameters/133,ma,weave
+217-776,nege1244,http://concepticon.clld.org/parameters/1457,nai,sew
+217-778,nege1244,http://concepticon.clld.org/parameters/1382,nal,needle
+217-532,nege1244,http://concepticon.clld.org/parameters/1161,garən,thread
+217-692,nege1244,http://concepticon.clld.org/parameters/474,kapoto ~ kaputo,woman's dress
+217-350,nege1244,http://concepticon.clld.org/parameters/603,kot,coat
+217-478,nege1244,http://concepticon.clld.org/parameters/1622,hɛmɛtɛ,shirt
+217-64,nege1244,http://concepticon.clld.org/parameters/1600,saya,skirt
+217-733,nege1244,http://concepticon.clld.org/parameters/809,bruk,trousers
+217-328,nege1244,http://concepticon.clld.org/parameters/329,kausn,"stocking, sock"
+217-29,nege1244,http://concepticon.clld.org/parameters/1381,skun ~ skon,shoe
+217-216,nege1244,http://concepticon.clld.org/parameters/875,skun-mɛka,"shoemaker, cobbler"
+217-360,nege1244,http://concepticon.clld.org/parameters/2130,hut,"hat, cap"
+217-325,nege1244,http://concepticon.clld.org/parameters/2130,karpus,"hat, cap"
+217-575,nege1244,http://concepticon.clld.org/parameters/772,bɛlt,"belt, girdle"
+217-491,nege1244,http://concepticon.clld.org/parameters/867,han-sko,glove
+217-24,nege1244,http://concepticon.clld.org/parameters/1851,sak (?),pocket
+217-278,nege1244,http://concepticon.clld.org/parameters/64,spɛl,pin
+217-492,nege1244,http://concepticon.clld.org/parameters/1374,riŋ,ring (for finger)
+217-252,nege1244,http://concepticon.clld.org/parameters/1754,braslɛt,bracelet
+217-101,nege1244,http://concepticon.clld.org/parameters/1860,kalela ~ kalila,bead
+217-223,nege1244,http://concepticon.clld.org/parameters/770,oraŋu ~ raŋgu,earring
+217-581,nege1244,http://concepticon.clld.org/parameters/332,(sak-)nɛstuk ~ nestuk ~ nistuk,"handkerchief, rag"
+217-406,nege1244,http://concepticon.clld.org/parameters/1475,kam,comb
+217-498,nege1244,http://concepticon.clld.org/parameters/1821,bosl,brush
+217-407,nege1244,http://concepticon.clld.org/parameters/333,plat,braid
+217-782,nege1244,http://concepticon.clld.org/parameters/788,sɛp,soap
+217-411,nege1244,http://concepticon.clld.org/parameters/1171,spigəl,mirror
+217-559,nege1244,http://concepticon.clld.org/parameters/1171,skifi,mirror
+217-516,nege1244,http://concepticon.clld.org/parameters/1099,wun ~ won,"dwell, live"
+217-361,nege1244,http://concepticon.clld.org/parameters/1252,hus,house
+217-361,nege1244,http://concepticon.clld.org/parameters/1678,hus,hut
+217-435,nege1244,http://concepticon.clld.org/parameters/334,kambus,cookhouse
+217-611,nege1244,http://concepticon.clld.org/parameters/1450,kambu,room
+217-626,nege1244,http://concepticon.clld.org/parameters/1567,do(r),"door, gate"
+217-608,nege1244,http://concepticon.clld.org/parameters/80,do-pos (?),"doorpost, jamb"
+217-707,nege1244,http://concepticon.clld.org/parameters/1596,slot (?),lock (noun)
+217-531,nege1244,http://concepticon.clld.org/parameters/1375,wɛnstu ~ vɛnstu ~ vɛnstər,window
+217-153,nege1244,http://concepticon.clld.org/parameters/1632,flu,floor
+217-247,nege1244,http://concepticon.clld.org/parameters/185,fi-ple,fireplace
+217-247,nege1244,http://concepticon.clld.org/parameters/859,fi-ple,stove
+217-4,nege1244,http://concepticon.clld.org/parameters/859,kol-pat,stove
+217-690,nege1244,http://concepticon.clld.org/parameters/1464,trap,ladder
+217-463,nege1244,http://concepticon.clld.org/parameters/1663,bɛri,bed
+217-804,nege1244,http://concepticon.clld.org/parameters/1044,kizinči(n),pillow
+217-587,nege1244,http://concepticon.clld.org/parameters/806,duku ~ dugu,blanket
+217-300,nege1244,http://concepticon.clld.org/parameters/1476,stul,chair
+217-774,nege1244,http://concepticon.clld.org/parameters/1775,taful ~ taul ~ tawul ~ tavul,table
+217-28,nege1244,http://concepticon.clld.org/parameters/2131,lamp(ara),"lamp, torch"
+217-127,nege1244,http://concepticon.clld.org/parameters/1273,kes ~ keəs,candle
+217-518,nege1244,http://concepticon.clld.org/parameters/281,pos,"post, pole"
+217-320,nege1244,http://concepticon.clld.org/parameters/1227,plaŋ,board
+217-485,nege1244,http://concepticon.clld.org/parameters/1006,kliŋkə,brick
+217-572,nege1244,http://concepticon.clld.org/parameters/979,fama,farmer
+217-200,nege1244,http://concepticon.clld.org/parameters/212,gron,field (for cultivation)
+217-605,nege1244,http://concepticon.clld.org/parameters/212,kamina,field (for cultivation)
+217-401,nege1244,http://concepticon.clld.org/parameters/586,hofi,garden
+217-196,nege1244,http://concepticon.clld.org/parameters/1541,guri,"cultivate, till"
+217-450,nege1244,http://concepticon.clld.org/parameters/1690,hɛkən,fence
+217-743,nege1244,http://concepticon.clld.org/parameters/2002,dič,ditch
+217-48,nege1244,http://concepticon.clld.org/parameters/1418,tre,dig
+217-769,nege1244,http://concepticon.clld.org/parameters/284,hou ~ hau,hoe
+217-579,nege1244,http://concepticon.clld.org/parameters/337,forok,fork
+217-476,nege1244,http://concepticon.clld.org/parameters/748,plan(t),sow
+217-385,nege1244,http://concepticon.clld.org/parameters/714,sat,seed
+217-237,nege1244,http://concepticon.clld.org/parameters/506,mais,"maize, corn"
+217-639,nege1244,http://concepticon.clld.org/parameters/926,ris,rice
+217-466,nege1244,http://concepticon.clld.org/parameters/606,gras,grass
+217-588,nege1244,http://concepticon.clld.org/parameters/606,bes-yet ~ bešət,grass
+217-334,nege1244,http://concepticon.clld.org/parameters/342,wawara,hay
+217-476,nege1244,http://concepticon.clld.org/parameters/653,plan(t),plant (noun)
+217-476,nege1244,http://concepticon.clld.org/parameters/1486,plan(t),plant (vb)
+217-374,nege1244,http://concepticon.clld.org/parameters/670,woltə,root
+217-180,nege1244,http://concepticon.clld.org/parameters/1531,tak,branch
+217-298,nege1244,http://concepticon.clld.org/parameters/628,bla,leaf
+217-205,nege1244,http://concepticon.clld.org/parameters/239,blomɛnči ~ bluminstyi,flower
+217-105,nege1244,http://concepticon.clld.org/parameters/906,bom,tree
+217-341,nege1244,http://concepticon.clld.org/parameters/343,tou,vine
+217-229,nege1244,http://concepticon.clld.org/parameters/974,tubak,tobacco
+217-294,nege1244,http://concepticon.clld.org/parameters/1689,smok,smoke (tobacco)
+217-425,nege1244,http://concepticon.clld.org/parameters/1124,pipa,pipe
+217-470,nege1244,http://concepticon.clld.org/parameters/241,(s)tum,tree stump
+217-23,nege1244,http://concepticon.clld.org/parameters/1204,lif fa di bom,bark
+217-45,nege1244,http://concepticon.clld.org/parameters/970,kokonət,coconut
+217-262,nege1244,http://concepticon.clld.org/parameters/1126,lamunči,citrus fruit
+217-280,nege1244,http://concepticon.clld.org/parameters/868,bakuba,banana tree
+217-265,nege1244,http://concepticon.clld.org/parameters/868,bakuba-bom,banana tree
+217-55,nege1244,http://concepticon.clld.org/parameters/159,sut-batita,sweet potato
+217-630,nege1244,http://concepticon.clld.org/parameters/410,yamos ~ yamus,yam
+217-160,nege1244,http://concepticon.clld.org/parameters/925,kasau,"tapioca, manioc, cassava"
+217-78,nege1244,http://concepticon.clld.org/parameters/925,tanya,"tapioca, manioc, cassava"
+217-737,nege1244,http://concepticon.clld.org/parameters/411,sot(go),gourd
+217-591,nege1244,http://concepticon.clld.org/parameters/411,gubi,gourd
+217-683,nege1244,http://concepticon.clld.org/parameters/864,pampun,"pumpkin, squash"
+217-390,nege1244,http://concepticon.clld.org/parameters/146,suku(-stok),sugar cane
+217-235,nege1244,http://concepticon.clld.org/parameters/813,du,"do, make"
+217-150,nege1244,http://concepticon.clld.org/parameters/813,ma,"do, make"
+217-288,nege1244,http://concepticon.clld.org/parameters/984,skop,work
+217-103,nege1244,http://concepticon.clld.org/parameters/984,wɛrək ~ wɛruk ~ wark,work
+217-104,nege1244,http://concepticon.clld.org/parameters/2004,bok,bend
+217-35,nege1244,http://concepticon.clld.org/parameters/1470,fau,fold
+217-371,nege1244,http://concepticon.clld.org/parameters/1917,bɛn ~ bin(t),"tie, bind"
+217-348,nege1244,http://concepticon.clld.org/parameters/1917,las,"tie, bind"
+217-732,nege1244,http://concepticon.clld.org/parameters/352,los,untie
+217-332,nege1244,http://concepticon.clld.org/parameters/1627,kɛtiŋ,chain
+217-167,nege1244,http://concepticon.clld.org/parameters/1218,tau,"rope, cord"
+217-713,nege1244,http://concepticon.clld.org/parameters/760,kanop ~ konop ~ konobə,knot (noun)
+217-102,nege1244,http://concepticon.clld.org/parameters/2133,sla,"strike (hit, beat)"
+217-800,nege1244,http://concepticon.clld.org/parameters/2133,stam,"strike (hit, beat)"
+217-800,nege1244,http://concepticon.clld.org/parameters/354,stam,pound with fist
+217-410,nege1244,http://concepticon.clld.org/parameters/1432,kap,cut
+217-102,nege1244,http://concepticon.clld.org/parameters/1432,sla,cut
+217-285,nege1244,http://concepticon.clld.org/parameters/1432,sni ~ šini,cut
+217-577,nege1244,http://concepticon.clld.org/parameters/1432,swoip,cut
+217-139,nege1244,http://concepticon.clld.org/parameters/355,tumbl,cut down
+217-410,nege1244,http://concepticon.clld.org/parameters/155,kap,"chop, hew"
+217-102,nege1244,http://concepticon.clld.org/parameters/155,sla,"chop, hew"
+217-375,nege1244,http://concepticon.clld.org/parameters/1434,stɛk,stab
+217-420,nege1244,http://concepticon.clld.org/parameters/1352,(kap-)mɛs,knife
+217-85,nege1244,http://concepticon.clld.org/parameters/1352,nɛf ~ nef,knife
+217-114,nege1244,http://concepticon.clld.org/parameters/356,skɛk,"scissors, shears"
+217-98,nege1244,http://concepticon.clld.org/parameters/677,aks,ax
+217-336,nege1244,http://concepticon.clld.org/parameters/680,bre(k),break
+217-336,nege1244,http://concepticon.clld.org/parameters/588,bre(k),broken
+217-99,nege1244,http://concepticon.clld.org/parameters/1437,bos,split
+217-685,nege1244,http://concepticon.clld.org/parameters/1735,ske(r) ~ skɛ(r),tear
+217-768,nege1244,http://concepticon.clld.org/parameters/291,fɛl,"flay, skin"
+217-681,nege1244,http://concepticon.clld.org/parameters/1449,frɛf ~ frif,"rub, wipe"
+217-727,nege1244,http://concepticon.clld.org/parameters/1449,fig ~ fik,"rub, wipe"
+217-621,nege1244,http://concepticon.clld.org/parameters/1449,krou,"rub, wipe"
+217-107,nege1244,http://concepticon.clld.org/parameters/1455,dra,pull
+217-714,nege1244,http://concepticon.clld.org/parameters/357,haŋ,hang up
+217-251,nege1244,http://concepticon.clld.org/parameters/1913,strik,press
+217-321,nege1244,http://concepticon.clld.org/parameters/1414,friŋ,"squeeze, wring"
+217-413,nege1244,http://concepticon.clld.org/parameters/1453,was ~ waš,wash
+217-172,nege1244,http://concepticon.clld.org/parameters/230,fik ~ fig,sweep
+217-340,nege1244,http://concepticon.clld.org/parameters/245,bezum,broom
+217-50,nege1244,http://concepticon.clld.org/parameters/1840,bou,build
+217-302,nege1244,http://concepticon.clld.org/parameters/1481,hambu,hammer
+217-339,nege1244,http://concepticon.clld.org/parameters/502,nagəl,nail
+217-315,nege1244,http://concepticon.clld.org/parameters/1369,gau(t),gold
+217-686,nege1244,http://concepticon.clld.org/parameters/759,səlvu ~ zəlva,silver
+217-26,nege1244,http://concepticon.clld.org/parameters/621,izu,iron
+217-735,nege1244,http://concepticon.clld.org/parameters/627,lot,lead (noun)
+217-740,nege1244,http://concepticon.clld.org/parameters/358,dɛn,"tin, tinplate"
+217-616,nege1244,http://concepticon.clld.org/parameters/1399,baba ~ boba ~ buba,clay
+217-784,nege1244,http://concepticon.clld.org/parameters/604,glas,glass
+217-407,nege1244,http://concepticon.clld.org/parameters/1729,plat,"weave, plait"
+217-426,nege1244,http://concepticon.clld.org/parameters/1539,makut(u),basket
+217-201,nege1244,http://concepticon.clld.org/parameters/195,mat,mat
+217-327,nege1244,http://concepticon.clld.org/parameters/1588,drai obu,turn over
+217-801,nege1244,http://concepticon.clld.org/parameters/1445,drai,turn around
+217-348,nege1244,http://concepticon.clld.org/parameters/1113,las,"wind, wrap"
+217-405,nege1244,http://concepticon.clld.org/parameters/1113,wul up,"wind, wrap"
+217-3,nege1244,http://concepticon.clld.org/parameters/827,rol,roll
+217-322,nege1244,http://concepticon.clld.org/parameters/808,drɛp,drop (vb)
+217-445,nege1244,http://concepticon.clld.org/parameters/568,hopo,rise
+217-639,nege1244,http://concepticon.clld.org/parameters/501,ris,"raise, lift"
+217-322,nege1244,http://concepticon.clld.org/parameters/1280,drɛp,fall
+217-39,nege1244,http://concepticon.clld.org/parameters/1280,fal,fall
+217-139,nege1244,http://concepticon.clld.org/parameters/1280,tumbl,fall
+217-447,nege1244,http://concepticon.clld.org/parameters/1456,goi ~ gui,throw
+217-156,nege1244,http://concepticon.clld.org/parameters/702,faŋ,catch (ball)
+217-34,nege1244,http://concepticon.clld.org/parameters/702,fat,catch (ball)
+217-409,nege1244,http://concepticon.clld.org/parameters/1909,šikl,shake
+217-213,nege1244,http://concepticon.clld.org/parameters/2003,kuri,flow
+217-378,nege1244,http://concepticon.clld.org/parameters/1088,sak,sink
+217-509,nege1244,http://concepticon.clld.org/parameters/1439,zwim ~ zwɛm,swim
+217-248,nege1244,http://concepticon.clld.org/parameters/119,dikl,dive
+217-170,nege1244,http://concepticon.clld.org/parameters/787,zɛil(ə) ~ zel,sail (vb)
+217-756,nege1244,http://concepticon.clld.org/parameters/1441,flig,fly (vb)
+217-562,nege1244,http://concepticon.clld.org/parameters/175,blas,blow
+217-728,nege1244,http://concepticon.clld.org/parameters/175,wai,blow
+217-773,nege1244,http://concepticon.clld.org/parameters/96,krub,"creep, crawl"
+217-369,nege1244,http://concepticon.clld.org/parameters/66,kini,kneel
+217-95,nege1244,http://concepticon.clld.org/parameters/1829,ǰum(b) ~ ǰomp,"jump, leap"
+217-660,nege1244,http://concepticon.clld.org/parameters/1829,lɛp,"jump, leap"
+217-288,nege1244,http://concepticon.clld.org/parameters/1135,skop,kick
+217-367,nege1244,http://concepticon.clld.org/parameters/1879,dans,dance
+217-159,nege1244,http://concepticon.clld.org/parameters/1443,wandu,walk
+217-113,nege1244,http://concepticon.clld.org/parameters/1443,rambl,walk
+217-213,nege1244,http://concepticon.clld.org/parameters/1519,kuri,run
+217-238,nege1244,http://concepticon.clld.org/parameters/695,lo,go
+217-603,nege1244,http://concepticon.clld.org/parameters/705,lo abo(bo),go up
+217-387,nege1244,http://concepticon.clld.org/parameters/1102,klim,climb
+217-725,nege1244,http://concepticon.clld.org/parameters/2014,sak ne,go down
+217-593,nege1244,http://concepticon.clld.org/parameters/1107,lo abiti,go out
+217-423,nege1244,http://concepticon.clld.org/parameters/1446,ko,come
+217-793,nege1244,http://concepticon.clld.org/parameters/581,ko weran,come back
+217-16,nege1244,http://concepticon.clld.org/parameters/1752,lo we,"go away, depart"
+217-601,nege1244,http://concepticon.clld.org/parameters/1085,fol(o)k,follow
+217-613,nege1244,http://concepticon.clld.org/parameters/1047,ǰak,pursue
+217-381,nege1244,http://concepticon.clld.org/parameters/1387,rak,"reach, arrive"
+217-157,nege1244,http://concepticon.clld.org/parameters/1778,ko kan,approach
+217-624,nege1244,http://concepticon.clld.org/parameters/749,ko abini,enter
+217-107,nege1244,http://concepticon.clld.org/parameters/700,dra,carry (bear)
+217-107,nege1244,http://concepticon.clld.org/parameters/412,dra,carry-in-hand
+217-107,nege1244,http://concepticon.clld.org/parameters/413,dra,carry-on-shoulder
+217-107,nege1244,http://concepticon.clld.org/parameters/414,dra,carry-on-head
+217-107,nege1244,http://concepticon.clld.org/parameters/415,dra,carry-underarm
+217-342,nege1244,http://concepticon.clld.org/parameters/692,briŋ,bring
+217-368,nege1244,http://concepticon.clld.org/parameters/1127,sti,send
+217-368,nege1244,http://concepticon.clld.org/parameters/741,sti,drive
+217-299,nege1244,http://concepticon.clld.org/parameters/367,ri,ride
+217-522,nege1244,http://concepticon.clld.org/parameters/1452,pok,"push, shove"
+217-646,nege1244,http://concepticon.clld.org/parameters/1452,pus ~ puz,"push, shove"
+217-576,nege1244,http://concepticon.clld.org/parameters/667,pat,road
+217-576,nege1244,http://concepticon.clld.org/parameters/2252,pat,path
+217-318,nege1244,http://concepticon.clld.org/parameters/122,kaloši ~karoši(n),"carriage, wagon, cart"
+217-40,nege1244,http://concepticon.clld.org/parameters/122,petant,"carriage, wagon, cart"
+217-116,nege1244,http://concepticon.clld.org/parameters/710,wil,wheel
+217-118,nege1244,http://concepticon.clld.org/parameters/740,skɛp,ship
+217-100,nege1244,http://concepticon.clld.org/parameters/1844,bot,boat
+217-723,nege1244,http://concepticon.clld.org/parameters/1970,kano ~ kanu,canoe
+217-63,nege1244,http://concepticon.clld.org/parameters/108,rui,oar
+217-568,nege1244,http://concepticon.clld.org/parameters/1849,rim,row (vb)
+217-457,nege1244,http://concepticon.clld.org/parameters/184,stok,mast
+217-89,nege1244,http://concepticon.clld.org/parameters/786,zɛil-duk,sail (noun)
+217-67,nege1244,http://concepticon.clld.org/parameters/1870,hɛŋka ~ həŋku,anchor
+217-751,nege1244,http://concepticon.clld.org/parameters/773,(h)a,have
+217-751,nege1244,http://concepticon.clld.org/parameters/684,(h)a,"own, possess"
+217-395,nege1244,http://concepticon.clld.org/parameters/1749,ne(m) ~ nen,take
+217-31,nege1244,http://concepticon.clld.org/parameters/2021,fas,"seize, grasp"
+217-34,nege1244,http://concepticon.clld.org/parameters/2021,fat,"seize, grasp"
+217-31,nege1244,http://concepticon.clld.org/parameters/1448,fas,hold
+217-353,nege1244,http://concepticon.clld.org/parameters/694,kri(g),"get, obtain"
+217-192,nege1244,http://concepticon.clld.org/parameters/1477,hou,"keep, retain"
+217-308,nege1244,http://concepticon.clld.org/parameters/1477,bwa,"keep, retain"
+217-53,nege1244,http://concepticon.clld.org/parameters/738,gut,thing
+217-14,nege1244,http://concepticon.clld.org/parameters/1447,gi,give
+217-465,nege1244,http://concepticon.clld.org/parameters/85,gi bak,give back
+217-192,nege1244,http://concepticon.clld.org/parameters/1997,hou,"preserve, look after"
+217-60,nege1244,http://concepticon.clld.org/parameters/1997,paso,"preserve, look after"
+217-623,nege1244,http://concepticon.clld.org/parameters/2008,sorək,"save, rescue"
+217-270,nege1244,http://concepticon.clld.org/parameters/681,ru op,destroy
+217-76,nege1244,http://concepticon.clld.org/parameters/1468,suk,"seek, look for"
+217-25,nege1244,http://concepticon.clld.org/parameters/719,fɛn ~ fin,find
+217-68,nege1244,http://concepticon.clld.org/parameters/1660,folo,lose
+217-530,nege1244,http://concepticon.clld.org/parameters/1095,fri,"release, let go"
+217-592,nege1244,http://concepticon.clld.org/parameters/1559,stibo ~ stibu,money
+217-281,nege1244,http://concepticon.clld.org/parameters/1674,pobu ~ pubu,poor
+217-682,nege1244,http://concepticon.clld.org/parameters/1934,bedl-man,beggar
+217-416,nege1244,http://concepticon.clld.org/parameters/1774,glos,"avaricious, stingy"
+217-282,nege1244,http://concepticon.clld.org/parameters/1774,groma,"avaricious, stingy"
+217-158,nege1244,http://concepticon.clld.org/parameters/1774,rebən,"avaricious, stingy"
+217-215,nege1244,http://concepticon.clld.org/parameters/582,len ~ lin,lend
+217-215,nege1244,http://concepticon.clld.org/parameters/1823,len ~ lin,borrow
+217-480,nege1244,http://concepticon.clld.org/parameters/718,bətal ~ bital,pay (vb)
+217-480,nege1244,http://concepticon.clld.org/parameters/1122,bətal ~ bital,wages
+217-346,nege1244,http://concepticon.clld.org/parameters/1869,kop,buy
+217-521,nege1244,http://concepticon.clld.org/parameters/1571,fərko ~ floko ~ froko ~ fruko,sell
+217-771,nege1244,http://concepticon.clld.org/parameters/2135,rɛil,"trade, barter"
+217-434,nege1244,http://concepticon.clld.org/parameters/633,frufruko,market (place)
+217-94,nege1244,http://concepticon.clld.org/parameters/884,pati,share (distribute)
+217-124,nege1244,http://concepticon.clld.org/parameters/1098,met,weigh
+217-306,nege1244,http://concepticon.clld.org/parameters/1685,ast(ə)r ~ (n)astu,after
+217-306,nege1244,http://concepticon.clld.org/parameters/723,ast(ə)r ~ (n)astu,behind
+217-279,nege1244,http://concepticon.clld.org/parameters/1816,təsən,beside
+217-761,nege1244,http://concepticon.clld.org/parameters/1326,af,"down, below"
+217-303,nege1244,http://concepticon.clld.org/parameters/1326,doŋ,"down, below"
+217-554,nege1244,http://concepticon.clld.org/parameters/1326,ne,"down, below"
+217-176,nege1244,http://concepticon.clld.org/parameters/1882,(a-)fo(r) ~ fu ~ na-fo,before
+217-176,nege1244,http://concepticon.clld.org/parameters/1019,(a-)fo(r) ~ fu ~ na-fo,front
+217-659,nege1244,http://concepticon.clld.org/parameters/1606,(na-)biniši,"inside, in"
+217-412,nege1244,http://concepticon.clld.org/parameters/762,a-bidi ~ a-bit(i) ~ (na-)bitiši,outside
+217-142,nege1244,http://concepticon.clld.org/parameters/762,it,outside
+217-533,nege1244,http://concepticon.clld.org/parameters/1485,(a)mole,under
+217-46,nege1244,http://concepticon.clld.org/parameters/1485,(na-)undu ~ ondu,under
+217-651,nege1244,http://concepticon.clld.org/parameters/1591,abo(bo) ~ aobu ~ bo(bo) ~ bono ~ bu ~ (na-)bo(no) ~ obu,"up, above"
+217-220,nege1244,http://concepticon.clld.org/parameters/1591,op,"up, above"
+217-458,nege1244,http://concepticon.clld.org/parameters/723,pla(t)s,place
+217-96,nege1244,http://concepticon.clld.org/parameters/723,plɛ(k),place
+217-235,nege1244,http://concepticon.clld.org/parameters/998,du,put
+217-694,nege1244,http://concepticon.clld.org/parameters/998,lɛi,put
+217-184,nege1244,http://concepticon.clld.org/parameters/998,stik,put
+217-549,nege1244,http://concepticon.clld.org/parameters/1416,sɛt ~ sit,sit
+217-694,nege1244,http://concepticon.clld.org/parameters/215,lɛi,lie down
+217-58,nege1244,http://concepticon.clld.org/parameters/1442,(s)tan,stand
+217-292,nege1244,http://concepticon.clld.org/parameters/987,bli,"remain, stay"
+217-703,nege1244,http://concepticon.clld.org/parameters/987,da ~ lasta(n) ~ (li)sta ~ ta,"remain, stay"
+217-173,nege1244,http://concepticon.clld.org/parameters/7,rapo,"collect, gather"
+217-711,nege1244,http://concepticon.clld.org/parameters/7,pɛk ~ pik,"collect, gather"
+217-173,nege1244,http://concepticon.clld.org/parameters/371,rapo,pick up
+217-94,nege1244,http://concepticon.clld.org/parameters/1119,pati,divide
+217-445,nege1244,http://concepticon.clld.org/parameters/1156,hopo,open
+217-110,nege1244,http://concepticon.clld.org/parameters/1046,tu,"shut, close"
+217-110,nege1244,http://concepticon.clld.org/parameters/761,tu,cover
+217-808,nege1244,http://concepticon.clld.org/parameters/602,stiko(i) ~ stikui ~ stokui,"hide, conceal"
+217-190,nege1244,http://concepticon.clld.org/parameters/1265,hok,high
+217-554,nege1244,http://concepticon.clld.org/parameters/721,ne,low
+217-684,nege1244,http://concepticon.clld.org/parameters/690,batum,bottom
+217-309,nege1244,http://concepticon.clld.org/parameters/690,mole-,bottom
+217-179,nege1244,http://concepticon.clld.org/parameters/742,kaba,end
+217-348,nege1244,http://concepticon.clld.org/parameters/742,las,end
+217-678,nege1244,http://concepticon.clld.org/parameters/682,ši,side
+217-106,nege1244,http://concepticon.clld.org/parameters/1093,mə(d)l ~ midi ~ midl,"middle, center"
+217-704,nege1244,http://concepticon.clld.org/parameters/1019,rɛči,right (side)
+217-80,nege1244,http://concepticon.clld.org/parameters/1019,ret ši,right (side)
+217-36,nege1244,http://concepticon.clld.org/parameters/244,sliŋgu (-ši),left (side)
+217-653,nege1244,http://concepticon.clld.org/parameters/1942,tɛsən,near (adv)
+217-633,nege1244,http://concepticon.clld.org/parameters/1942,(to)mɛs ~ tumɛs,near (adv)
+217-696,nege1244,http://concepticon.clld.org/parameters/1942,kan,near (adv)
+217-468,nege1244,http://concepticon.clld.org/parameters/1406,fɛ(r) ~ fe,far (adv)
+217-6,nege1244,http://concepticon.clld.org/parameters/1877,ost,east
+217-137,nege1244,http://concepticon.clld.org/parameters/1598,not (?),north
+217-84,nege1244,http://concepticon.clld.org/parameters/1595,sɛit,south
+217-196,nege1244,http://concepticon.clld.org/parameters/479,guri,grow
+217-149,nege1244,http://concepticon.clld.org/parameters/1506,mɛt,measure
+217-32,nege1244,http://concepticon.clld.org/parameters/81,fadam,"span, fathom"
+217-243,nege1244,http://concepticon.clld.org/parameters/1202,grot(o),"large, big"
+217-726,nege1244,http://concepticon.clld.org/parameters/1246,klen ~ klɛn ~ klenši,"small, little"
+217-97,nege1244,http://concepticon.clld.org/parameters/1203,laŋ,long
+217-190,nege1244,http://concepticon.clld.org/parameters/711,hok,tall
+217-359,nege1244,http://concepticon.clld.org/parameters/1645,ko(r)t,short
+217-428,nege1244,http://concepticon.clld.org/parameters/1243,bret,"wide, broad"
+217-258,nege1244,http://concepticon.clld.org/parameters/1267,nou,narrow
+217-259,nege1244,http://concepticon.clld.org/parameters/1244,dik,thick (in dimension)
+217-43,nege1244,http://concepticon.clld.org/parameters/1400,din,thin (in dimension)
+217-316,nege1244,http://concepticon.clld.org/parameters/1593,dip,deep
+217-376,nege1244,http://concepticon.clld.org/parameters/1404,tret,straight
+217-615,nege1244,http://concepticon.clld.org/parameters/297,krom,crooked
+217-797,nege1244,http://concepticon.clld.org/parameters/1071,huk (?),hook
+217-234,nege1244,http://concepticon.clld.org/parameters/192,konu,corner
+217-496,nege1244,http://concepticon.clld.org/parameters/850,skwe,square
+217-622,nege1244,http://concepticon.clld.org/parameters/1395,ron(t) ~ run,round
+217-492,nege1244,http://concepticon.clld.org/parameters/1467,riŋ,circle
+217-311,nege1244,http://concepticon.clld.org/parameters/1845,bal,"sphere, ball"
+217-391,nege1244,http://concepticon.clld.org/parameters/1048,lin,line
+217-546,nege1244,http://concepticon.clld.org/parameters/1667,gat,hole
+217-634,nege1244,http://concepticon.clld.org/parameters/1558,glik ~ lɛik(i) ~ lik(i) ~ li,"like, similar"
+217-801,nege1244,http://concepticon.clld.org/parameters/1264,drai,change
+217-720,nege1244,http://concepticon.clld.org/parameters/1294,enten ~ intin ~ ɛntɛn,"zero, nothing"
+217-276,nege1244,http://concepticon.clld.org/parameters/1515,en,one
+217-123,nege1244,http://concepticon.clld.org/parameters/1498,twe,two
+217-507,nege1244,http://concepticon.clld.org/parameters/492,dri ~ tri,three
+217-330,nege1244,http://concepticon.clld.org/parameters/1500,fi,four
+217-8,nege1244,http://concepticon.clld.org/parameters/493,fɛv ~ fɛif,five
+217-15,nege1244,http://concepticon.clld.org/parameters/1703,ses ~ sɛs,six
+217-438,nege1244,http://concepticon.clld.org/parameters/1704,sewn,seven
+217-539,nege1244,http://concepticon.clld.org/parameters/1705,ak,eight
+217-625,nege1244,http://concepticon.clld.org/parameters/1483,negon,nine
+217-781,nege1244,http://concepticon.clld.org/parameters/1515,tin,ten
+217-228,nege1244,http://concepticon.clld.org/parameters/1706,ɛlɛf ~ elef,eleven
+217-147,nege1244,http://concepticon.clld.org/parameters/1707,twalɛf,twelve
+217-333,nege1244,http://concepticon.clld.org/parameters/1709,fitin ~ fetin,fifteen
+217-125,nege1244,http://concepticon.clld.org/parameters/1710,twinti,twenty
+217-702,nege1244,http://concepticon.clld.org/parameters/1634,hunɛrt,hundred
+217-261,nege1244,http://concepticon.clld.org/parameters/1420,tɛl,count
+217-377,nege1244,http://concepticon.clld.org/parameters/98,ekeren ~ ɛkɛrɛn,"every, all"
+217-657,nege1244,http://concepticon.clld.org/parameters/98,al(ga),"every, all"
+217-297,nege1244,http://concepticon.clld.org/parameters/1198,fel,"much, many"
+217-398,nege1244,http://concepticon.clld.org/parameters/1198,muči ~ muši,"much, many"
+217-148,nege1244,http://concepticon.clld.org/parameters/1992,me,more
+217-471,nege1244,http://concepticon.clld.org/parameters/1242,klɛn ~ klen ~ klenči,"little (quantity), few"
+217-789,nege1244,http://concepticon.clld.org/parameters/1881,gənu(g) ~ gono,enough
+217-389,nege1244,http://concepticon.clld.org/parameters/1241,som,some
+217-193,nege1244,http://concepticon.clld.org/parameters/2023,hop,"multitude, crowd"
+217-558,nege1244,http://concepticon.clld.org/parameters/1429,ful,full
+217-384,nege1244,http://concepticon.clld.org/parameters/1624,slak,empty
+217-81,nege1244,http://concepticon.clld.org/parameters/779,stɛk ~ (s)tɛki ~ stik(i),"part, piece"
+217-439,nege1244,http://concepticon.clld.org/parameters/816,haləf,half
+217-456,nege1244,http://concepticon.clld.org/parameters/1580,ale(n),"alone, only"
+217-400,nege1244,http://concepticon.clld.org/parameters/728,ɛ(r)stə ~ ɛstu,first
+217-433,nege1244,http://concepticon.clld.org/parameters/1529,las(t) ~ lastə,last
+217-451,nege1244,http://concepticon.clld.org/parameters/1384,twedɛ,second
+217-534,nege1244,http://concepticon.clld.org/parameters/1888,pa,pair
+217-188,nege1244,http://concepticon.clld.org/parameters/1546,twe-mal,two times
+217-152,nege1244,http://concepticon.clld.org/parameters/1859,dridə,third
+217-642,nege1244,http://concepticon.clld.org/parameters/417,dri-mal,three times
+217-775,nege1244,http://concepticon.clld.org/parameters/892,tit,time
+217-599,nege1244,http://concepticon.clld.org/parameters/1231,niu,new
+217-705,nege1244,http://concepticon.clld.org/parameters/1207,yuŋ,young
+217-192,nege1244,http://concepticon.clld.org/parameters/1229,hou,old
+217-537,nege1244,http://concepticon.clld.org/parameters/672,fru,early
+217-208,nege1244,http://concepticon.clld.org/parameters/477,lat,late
+217-785,nege1244,http://concepticon.clld.org/parameters/1376,nu,now
+217-570,nege1244,http://concepticon.clld.org/parameters/1963,anstons,immediately
+217-556,nege1244,http://concepticon.clld.org/parameters/1631,asɛ,"swift, fast, quick"
+217-545,nege1244,http://concepticon.clld.org/parameters/1631,gau,"swift, fast, quick"
+217-88,nege1244,http://concepticon.clld.org/parameters/1631,pošɛs,"swift, fast, quick"
+217-663,nege1244,http://concepticon.clld.org/parameters/701,sudži ~ sutǰi,slow
+217-397,nege1244,http://concepticon.clld.org/parameters/754,lo gau,"hasten, hurry"
+217-245,nege1244,http://concepticon.clld.org/parameters/425,ma lat,"retard, delay"
+217-717,nege1244,http://concepticon.clld.org/parameters/1806,bigin,"begin, beginning"
+217-179,nege1244,http://concepticon.clld.org/parameters/743,kaba,end (temporal)
+217-179,nege1244,http://concepticon.clld.org/parameters/1766,kaba,finish
+217-709,nege1244,http://concepticon.clld.org/parameters/1928,(s)top,"cease, stop"
+217-151,nege1244,http://concepticon.clld.org/parameters/790,kla,ready
+217-606,nege1244,http://concepticon.clld.org/parameters/1676,al-tit,always
+217-267,nege1244,http://concepticon.clld.org/parameters/1852,dɛlo,often
+217-785,nege1244,http://concepticon.clld.org/parameters/703,nu,soon
+217-805,nege1244,http://concepticon.clld.org/parameters/418,laŋ tit,long-time (for a)
+217-437,nege1244,http://concepticon.clld.org/parameters/1656,noit,never
+217-787,nege1244,http://concepticon.clld.org/parameters/204,wɛran,again
+217-253,nege1244,http://concepticon.clld.org/parameters/1260,dak,day
+217-765,nege1244,http://concepticon.clld.org/parameters/1233,duŋku ~ duŋki,night
+217-442,nege1244,http://concepticon.clld.org/parameters/1339,moruk,morning
+217-12,nege1244,http://concepticon.clld.org/parameters/12,twaləf i,"noon, midday"
+217-655,nege1244,http://concepticon.clld.org/parameters/1807,astumɛnda ~ astumenda,afternoon
+217-753,nege1244,http://concepticon.clld.org/parameters/1629,duŋku ~ dunki,evening
+217-745,nege1244,http://concepticon.clld.org/parameters/1629,distu(it),evening
+217-30,nege1244,http://concepticon.clld.org/parameters/1283,fanda,today
+217-442,nege1244,http://concepticon.clld.org/parameters/1329,moruk,tomorrow
+217-739,nege1244,http://concepticon.clld.org/parameters/1179,dak astu morək,day-after-tomorrow
+217-73,nege1244,http://concepticon.clld.org/parameters/1174,gɛstu ~ gistu,yesterday
+217-277,nege1244,http://concepticon.clld.org/parameters/1180,dak afo gistu,day-before-yesterday
+217-604,nege1244,http://concepticon.clld.org/parameters/1353,i,hour
+217-453,nege1244,http://concepticon.clld.org/parameters/1323,holosi ~ holoči,"clock, timepiece"
+217-313,nege1244,http://concepticon.clld.org/parameters/1469,wek ~ wɛk,week
+217-291,nege1244,http://concepticon.clld.org/parameters/1699,sunda,Sunday
+217-22,nege1244,http://concepticon.clld.org/parameters/1697,manda,Monday
+217-352,nege1244,http://concepticon.clld.org/parameters/1695,disɛnda,Tuesday
+217-527,nege1244,http://concepticon.clld.org/parameters/1694,won(s)da,Wednesday
+217-171,nege1244,http://concepticon.clld.org/parameters/1693,dondada,Thursday
+217-130,nege1244,http://concepticon.clld.org/parameters/1692,frida,Friday
+217-120,nege1244,http://concepticon.clld.org/parameters/1700,satada,Saturday
+217-211,nege1244,http://concepticon.clld.org/parameters/1370,man,month
+217-70,nege1244,http://concepticon.clld.org/parameters/1226,ya(r),year
+217-165,nege1244,http://concepticon.clld.org/parameters/1587,rik,smell (vb intrans)
+217-165,nege1244,http://concepticon.clld.org/parameters/1586,rik,smell (vb trans)
+217-354,nege1244,http://concepticon.clld.org/parameters/376,rik frai,"fragrant, good smelling"
+217-86,nege1244,http://concepticon.clld.org/parameters/42,no rik frai,"stinking, bad smelling"
+217-138,nege1244,http://concepticon.clld.org/parameters/42,rik stin,"stinking, bad smelling"
+217-525,nege1244,http://concepticon.clld.org/parameters/21,pruf,taste
+217-444,nege1244,http://concepticon.clld.org/parameters/717,sut,sweet
+217-358,nege1244,http://concepticon.clld.org/parameters/1091,saut(u),salty
+217-347,nege1244,http://concepticon.clld.org/parameters/887,bitu,bitter
+217-747,nege1244,http://concepticon.clld.org/parameters/1408,ho,hear
+217-356,nege1244,http://concepticon.clld.org/parameters/1608,listu,listen
+217-466,nege1244,http://concepticon.clld.org/parameters/1811,gras,"sound, noise"
+217-635,nege1244,http://concepticon.clld.org/parameters/377,had,loud
+217-183,nege1244,http://concepticon.clld.org/parameters/1314,stil,"quiet, silence"
+217-715,nege1244,http://concepticon.clld.org/parameters/1314,sok,"quiet, silence"
+217-422,nege1244,http://concepticon.clld.org/parameters/1409,ki,see
+217-422,nege1244,http://concepticon.clld.org/parameters/1819,ki,"look, look at"
+217-734,nege1244,http://concepticon.clld.org/parameters/1819,waita,"look, look at"
+217-667,nege1244,http://concepticon.clld.org/parameters/1039,wis,show
+217-807,nege1244,http://concepticon.clld.org/parameters/708,bliŋ,shine
+217-11,nege1244,http://concepticon.clld.org/parameters/708,skin,shine
+217-454,nege1244,http://concepticon.clld.org/parameters/1613,kulɛ,color
+217-290,nege1244,http://concepticon.clld.org/parameters/706,swa(r)t,dark (in color)
+217-664,nege1244,http://concepticon.clld.org/parameters/1335,wit,white
+217-20,nege1244,http://concepticon.clld.org/parameters/163,swat,black
+217-44,nege1244,http://concepticon.clld.org/parameters/156,ro,red
+217-563,nege1244,http://concepticon.clld.org/parameters/837,blau,blue
+217-675,nege1244,http://concepticon.clld.org/parameters/1425,grun,green
+217-462,nege1244,http://concepticon.clld.org/parameters/1424,gel,yellow
+217-548,nege1244,http://concepticon.clld.org/parameters/378,gap,pinch
+217-558,nege1244,http://concepticon.clld.org/parameters/1079,ful,feel
+217-191,nege1244,http://concepticon.clld.org/parameters/1884,tai,hard
+217-663,nege1244,http://concepticon.clld.org/parameters/1856,sudži ~ sutǰi,soft
+217-483,nege1244,http://concepticon.clld.org/parameters/1923,grof (?),rough
+217-227,nege1244,http://concepticon.clld.org/parameters/1396,skɛrp,sharp
+217-528,nege1244,http://concepticon.clld.org/parameters/1210,swa,heavy
+217-13,nege1244,http://concepticon.clld.org/parameters/1052,lɛ,light (in weight)
+217-783,nege1244,http://concepticon.clld.org/parameters/1726,nat,"wet, damp"
+217-487,nege1244,http://concepticon.clld.org/parameters/1398,drok ~ drog,dry
+217-607,nege1244,http://concepticon.clld.org/parameters/1286,bran,hot
+217-636,nege1244,http://concepticon.clld.org/parameters/1286,hɛt ~ het ~ hit,hot
+217-744,nege1244,http://concepticon.clld.org/parameters/1232,wɛr(ə)m ~ wərm,warm
+217-526,nege1244,http://concepticon.clld.org/parameters/1287,kaut(u),cold
+217-350,nege1244,http://concepticon.clld.org/parameters/1287,kot,cold
+217-275,nege1244,http://concepticon.clld.org/parameters/704,skon,clean
+217-538,nege1244,http://concepticon.clld.org/parameters/704,pi,clean
+217-244,nege1244,http://concepticon.clld.org/parameters/1230,fil,"dirty, soiled"
+217-131,nege1244,http://concepticon.clld.org/parameters/53,zil,"soul, spirit"
+217-757,nege1244,http://concepticon.clld.org/parameters/720,frai glik,"good fortune, luck"
+217-612,nege1244,http://concepticon.clld.org/parameters/56,lilək glik,"misfortune, bad luck"
+217-292,nege1244,http://concepticon.clld.org/parameters/1495,bli,"joyful, glad, happy"
+217-202,nege1244,http://concepticon.clld.org/parameters/1355,lak,laugh
+217-249,nege1244,http://concepticon.clld.org/parameters/1413,spel ~ spɛl ~ spil,play
+217-9,nege1244,http://concepticon.clld.org/parameters/923,wɛl,love
+217-589,nege1244,http://concepticon.clld.org/parameters/578,kis,kiss
+217-760,nege1244,http://concepticon.clld.org/parameters/1783,pin,pain
+217-658,nege1244,http://concepticon.clld.org/parameters/1000,haras,"anxiety, worry"
+217-618,nege1244,http://concepticon.clld.org/parameters/1875,mi sari,"regret, be sorry"
+217-74,nege1244,http://concepticon.clld.org/parameters/1839,kris,"cry, weep"
+217-582,nege1244,http://concepticon.clld.org/parameters/82,kwat,anger
+217-506,nege1244,http://concepticon.clld.org/parameters/1779,dɛfo,dare
+217-600,nege1244,http://concepticon.clld.org/parameters/3,kuraši,brave
+217-553,nege1244,http://concepticon.clld.org/parameters/781,baŋ,"fear, fright"
+217-181,nege1244,http://concepticon.clld.org/parameters/1784,maŋke,"desire, want"
+217-803,nege1244,http://concepticon.clld.org/parameters/1750,kais,choose
+217-193,nege1244,http://concepticon.clld.org/parameters/1092,hop,hope
+217-83,nege1244,http://concepticon.clld.org/parameters/1657,wa(wa) ~ walget ~ warget ~ wargəit,true
+217-394,nege1244,http://concepticon.clld.org/parameters/601,lik,"lie, tell lies"
+217-206,nege1244,http://concepticon.clld.org/parameters/1035,frai,good
+217-232,nege1244,http://concepticon.clld.org/parameters/1292,lelik ~ lɛlik ~ likik,bad
+217-440,nege1244,http://concepticon.clld.org/parameters/1725,rɛk(t) ~ rɛt(u),"right, correct"
+217-392,nege1244,http://concepticon.clld.org/parameters/1390,no mi rɛt,wrong
+217-10,nege1244,http://concepticon.clld.org/parameters/134,fout,fault
+217-10,nege1244,http://concepticon.clld.org/parameters/1293,fout,"mistake, error"
+217-140,nege1244,http://concepticon.clld.org/parameters/381,blame,blame
+217-649,nege1244,http://concepticon.clld.org/parameters/1427,moi,beautiful
+217-573,nege1244,http://concepticon.clld.org/parameters/1548,lelik ~ ləlik ~ lilik,ugly
+217-416,nege1244,http://concepticon.clld.org/parameters/2018,glos,greedy
+217-37,nege1244,http://concepticon.clld.org/parameters/1415,dɛŋk ~ diŋ(g),think (= reflect)
+217-37,nege1244,http://concepticon.clld.org/parameters/1513,dɛŋk ~ diŋ(g),think (= be of the opinion)
+217-698,nege1244,http://concepticon.clld.org/parameters/1890,glof,believe
+217-154,nege1244,http://concepticon.clld.org/parameters/1536,fostan ~ fosto,understand
+217-194,nege1244,http://concepticon.clld.org/parameters/1410,wet ~ wɛt,know
+217-419,nege1244,http://concepticon.clld.org/parameters/1518,dom,"foolish, stupid"
+217-500,nege1244,http://concepticon.clld.org/parameters/504,le,learn
+217-500,nege1244,http://concepticon.clld.org/parameters/1929,le,study
+217-500,nege1244,http://concepticon.clld.org/parameters/709,le,teach
+217-535,nege1244,http://concepticon.clld.org/parameters/673,skol,school
+217-699,nege1244,http://concepticon.clld.org/parameters/707,diŋko,remember
+217-329,nege1244,http://concepticon.clld.org/parameters/1523,foget ~ fruget,forget
+217-482,nege1244,http://concepticon.clld.org/parameters/989,kla(r),"clear, plain"
+217-187,nege1244,http://concepticon.clld.org/parameters/509,siki,"sure, certain"
+217-57,nege1244,http://concepticon.clld.org/parameters/860,ma(k),cause
+217-792,nege1244,http://concepticon.clld.org/parameters/643,nodi,"need, necessity"
+217-181,nege1244,http://concepticon.clld.org/parameters/643,maŋke,"need, necessity"
+217-13,nege1244,http://concepticon.clld.org/parameters/686,lɛ,easy
+217-191,nege1244,http://concepticon.clld.org/parameters/584,tai,difficult
+217-513,nege1244,http://concepticon.clld.org/parameters/488,mani,"way, manner"
+217-274,nege1244,http://concepticon.clld.org/parameters/1577,a(n),and
+217-481,nege1244,http://concepticon.clld.org/parameters/1577,ɛn,and
+217-767,nege1244,http://concepticon.clld.org/parameters/1157,as,because
+217-670,nege1244,http://concepticon.clld.org/parameters/1157,fodɛtma ~ fodi(t)ma ~ foma,because
+217-806,nege1244,http://concepticon.clld.org/parameters/1459,a ~ a(l)s ~ az,if
+217-536,nege1244,http://concepticon.clld.org/parameters/1459,ɛf,if
+217-301,nege1244,http://concepticon.clld.org/parameters/1459,lɛik(i) ~ li(k) ~ liki,if
+217-212,nege1244,http://concepticon.clld.org/parameters/1014,a,or
+217-706,nege1244,http://concepticon.clld.org/parameters/1014,o,or
+217-250,nege1244,http://concepticon.clld.org/parameters/1268,ya,"yes, affirmative"
+217-72,nege1244,http://concepticon.clld.org/parameters/1269,nen,"no, negative"
+217-691,nege1244,http://concepticon.clld.org/parameters/1269,na ~ ni ~ no ~ nu,"no, negative"
+217-52,nege1244,http://concepticon.clld.org/parameters/1239,ho(so),how?
+217-164,nege1244,http://concepticon.clld.org/parameters/822,huvel ~ huwe(l),how many?
+217-164,nege1244,http://concepticon.clld.org/parameters/531,huvel ~ huwe(l),how much?
+217-198,nege1244,http://concepticon.clld.org/parameters/1236,(a)wa ~ wat,what?
+217-351,nege1244,http://concepticon.clld.org/parameters/1238,wani ~ wɛn(i) ~ wini,when?
+217-786,nege1244,http://concepticon.clld.org/parameters/1237,abɛ ~ ape ~ (w)api ~ ɛpɛ,where?
+217-75,nege1244,http://concepticon.clld.org/parameters/1237,wapiši ~ wɛpiši,where?
+217-198,nege1244,http://concepticon.clld.org/parameters/727,(a)wa ~ wat,which?
+217-731,nege1244,http://concepticon.clld.org/parameters/1235,awi(di),who?
+217-129,nege1244,http://concepticon.clld.org/parameters/1270,(a)wama,why?
+217-511,nege1244,http://concepticon.clld.org/parameters/1363,stɛm,voice
+217-66,nege1244,http://concepticon.clld.org/parameters/1261,siŋ,sing
+217-540,nege1244,http://concepticon.clld.org/parameters/715,skreyu ~ skreo,"shout, cry out"
+217-540,nege1244,http://concepticon.clld.org/parameters/298,skreyu ~ skreo,"shriek, screech"
+217-562,nege1244,http://concepticon.clld.org/parameters/526,blas,howl
+217-236,nege1244,http://concepticon.clld.org/parameters/1623,prat,"speak, talk"
+217-222,nege1244,http://concepticon.clld.org/parameters/1458,se,say
+217-222,nege1244,http://concepticon.clld.org/parameters/1711,se,tell story
+217-222,nege1244,http://concepticon.clld.org/parameters/1115,se,speech (make a)
+217-542,nege1244,http://concepticon.clld.org/parameters/1599,word ~ wort,word
+217-779,nege1244,http://concepticon.clld.org/parameters/1405,nam,name
+217-750,nege1244,http://concepticon.clld.org/parameters/1309,fra(g),"ask (question, inquire)"
+217-271,nege1244,http://concepticon.clld.org/parameters/1275,antu(u) ~ antwordt,answer
+217-750,nege1244,http://concepticon.clld.org/parameters/1828,fra(g),"ask, request"
+217-637,nege1244,http://concepticon.clld.org/parameters/1675,blof,promise
+217-140,nege1244,http://concepticon.clld.org/parameters/299,blame,"rebuke, scold"
+217-701,nege1244,http://concepticon.clld.org/parameters/1084,rup,call (=summon)
+217-779,nege1244,http://concepticon.clld.org/parameters/180,nam,call (=name)
+217-701,nege1244,http://concepticon.clld.org/parameters/180,rup,call (=name)
+217-222,nege1244,http://concepticon.clld.org/parameters/9,se,announce
+217-38,nege1244,http://concepticon.clld.org/parameters/101,bombaskit,boast
+217-441,nege1244,http://concepticon.clld.org/parameters/1672,skrif,write
+217-512,nege1244,http://concepticon.clld.org/parameters/724,les,read
+217-490,nege1244,http://concepticon.clld.org/parameters/648,pampi,paper
+217-489,nege1244,http://concepticon.clld.org/parameters/963,buk,book
+217-669,nege1244,http://concepticon.clld.org/parameters/777,flut,flute
+217-432,nege1244,http://concepticon.clld.org/parameters/908,gumbe,drum
+217-307,nege1244,http://concepticon.clld.org/parameters/2136,hor(ə)n,"horn, trumpet"
+217-199,nege1244,http://concepticon.clld.org/parameters/1300,lan,country
+217-199,nege1244,http://concepticon.clld.org/parameters/89,lan,one's native country
+217-578,nege1244,http://concepticon.clld.org/parameters/1391,tap-(h)us,"city, town"
+217-632,nege1244,http://concepticon.clld.org/parameters/789,fol(o)k ~ foluk ~ fulok ~ fuluk,people (populace)
+217-457,nege1244,http://concepticon.clld.org/parameters/1296,stok,"staff, walking stick"
+217-598,nege1244,http://concepticon.clld.org/parameters/1508,kiniŋ,"king, ruler"
+217-239,nege1244,http://concepticon.clld.org/parameters/383,mɛstu ~ mestər,master
+217-27,nege1244,http://concepticon.clld.org/parameters/812,slau(v)n,slave
+217-569,nege1244,http://concepticon.clld.org/parameters/255,tɛna,servant
+217-461,nege1244,http://concepticon.clld.org/parameters/1128,ordu,"command, order"
+217-417,nege1244,http://concepticon.clld.org/parameters/1635,du (?),obey
+217-703,nege1244,http://concepticon.clld.org/parameters/1003,da ~ lasta(n) ~ (li)sta ~ ta,"let, permit"
+217-304,nege1244,http://concepticon.clld.org/parameters/1325,mat(a),"friend, companion"
+217-736,nege1244,http://concepticon.clld.org/parameters/1325,kontri,"friend, companion"
+217-91,nege1244,http://concepticon.clld.org/parameters/1325,frən ~ frin,"friend, companion"
+217-255,nege1244,http://concepticon.clld.org/parameters/1325,kabe ~ karaber,"friend, companion"
+217-555,nege1244,http://concepticon.clld.org/parameters/1332,birən,neighbor
+217-708,nege1244,http://concepticon.clld.org/parameters/1782,guest,guest
+217-688,nege1244,http://concepticon.clld.org/parameters/1897,hɛlp,"help, aid"
+217-62,nege1244,http://concepticon.clld.org/parameters/1550,hindu,"hinder, prevent"
+217-648,nege1244,http://concepticon.clld.org/parameters/1848,gɛra,"strife, quarrel"
+217-407,nege1244,http://concepticon.clld.org/parameters/2024,plat,"conspiracy, plot"
+217-510,nege1244,http://concepticon.clld.org/parameters/1831,fin op mi,meet
+217-596,nege1244,http://concepticon.clld.org/parameters/1423,fɛgɛtə ~ figiti ~ fikiti,fight (vb)
+217-319,nege1244,http://concepticon.clld.org/parameters/1941,šolat,soldier
+217-233,nege1244,http://concepticon.clld.org/parameters/1763,baŋg(a)la,club
+217-221,nege1244,http://concepticon.clld.org/parameters/1535,sabəl,sword
+217-289,nege1244,http://concepticon.clld.org/parameters/1566,ru,"gun, cannon"
+217-446,nege1244,http://concepticon.clld.org/parameters/1938,fort,fortress
+217-759,nege1244,http://concepticon.clld.org/parameters/1940,wak-man,"guard, sentinel"
+217-141,nege1244,http://concepticon.clld.org/parameters/1858,fɛs-man,fisherman
+217-146,nege1244,http://concepticon.clld.org/parameters/1074,fɛs-huk,fishhook
+217-391,nege1244,http://concepticon.clld.org/parameters/19,lin,fishing line
+217-393,nege1244,http://concepticon.clld.org/parameters/388,tramil,fishnet
+217-550,nege1244,http://concepticon.clld.org/parameters/389,fik,fish trap
+217-613,nege1244,http://concepticon.clld.org/parameters/1435,ǰak,hunt
+217-19,nege1244,http://concepticon.clld.org/parameters/1172,skit,shoot
+217-550,nege1244,http://concepticon.clld.org/parameters/1075,fik,trap (noun)
+217-156,nege1244,http://concepticon.clld.org/parameters/1170,faŋ,trap (vb)
+217-528,nege1244,http://concepticon.clld.org/parameters/1939,swa,swear
+217-617,nege1244,http://concepticon.clld.org/parameters/1281,plimbo,"prison, jail"
+217-446,nege1244,http://concepticon.clld.org/parameters/1281,fort,"prison, jail"
+217-135,nege1244,http://concepticon.clld.org/parameters/845,mord,murder
+217-394,nege1244,http://concepticon.clld.org/parameters/1792,lik,perjury
+217-47,nege1244,http://concepticon.clld.org/parameters/713,dif,steal
+217-47,nege1244,http://concepticon.clld.org/parameters/1160,dif,thief
+217-296,nege1244,http://concepticon.clld.org/parameters/1944,got,God
+217-721,nege1244,http://concepticon.clld.org/parameters/911,tɛmpəl ~ təmpl,"temple, church"
+217-402,nege1244,http://concepticon.clld.org/parameters/911,kɛr(ə)k,"temple, church"
+217-650,nege1244,http://concepticon.clld.org/parameters/852,domne ~ domni,priest
+217-656,nege1244,http://concepticon.clld.org/parameters/8,fluk,curse
+217-49,nege1244,http://concepticon.clld.org/parameters/1565,hɛmol ~ hɛməl ~ hewun ~ hiwun,heaven
+217-673,nege1244,http://concepticon.clld.org/parameters/878,hɛl,hell
+217-571,nege1244,http://concepticon.clld.org/parameters/2138,fɛri,"fairy, elf"
+217-519,nege1244,http://concepticon.clld.org/parameters/1175,ges ~ gɛs,"ghost, phantom"
+217-1,nege1244,http://concepticon.clld.org/parameters/1175,ǰumbi,"ghost, phantom"

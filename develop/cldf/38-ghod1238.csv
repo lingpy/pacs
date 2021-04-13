@@ -1,0 +1,1540 @@
+ID,Language_ID,Feature_ID,Value,Concept
+38-298,ghod1238,http://concepticon.clld.org/parameters/704,цӀинкӀи,clean
+38-1010,ghod1238,http://concepticon.clld.org/parameters/1230,хъуби,"dirty, soiled"
+38-944,ghod1238,http://concepticon.clld.org/parameters/1287,сайи,cold
+38-512,ghod1238,http://concepticon.clld.org/parameters/1232,ансса,warm
+38-1234,ghod1238,http://concepticon.clld.org/parameters/1286,цӀатабу,hot
+38-1125,ghod1238,http://concepticon.clld.org/parameters/1398,бекъу,dry
+38-45,ghod1238,http://concepticon.clld.org/parameters/1726,биччи,"wet, damp"
+38-1005,ghod1238,http://concepticon.clld.org/parameters/1052,папа,light (in weight)
+38-682,ghod1238,http://concepticon.clld.org/parameters/1210,гьакӀуба,heavy
+38-383,ghod1238,http://concepticon.clld.org/parameters/379,гъвантІи,"blunt, dull"
+38-62,ghod1238,http://concepticon.clld.org/parameters/1396,багьараб,sharp
+38-469,ghod1238,http://concepticon.clld.org/parameters/1234,битІи(ссу),smooth
+38-916,ghod1238,http://concepticon.clld.org/parameters/1923,хъачІаб,rough
+38-963,ghod1238,http://concepticon.clld.org/parameters/1856,лъуна,soft
+38-674,ghod1238,http://concepticon.clld.org/parameters/1884,бещаб,hard
+38-1024,ghod1238,http://concepticon.clld.org/parameters/1079,—,feel
+38-1045,ghod1238,http://concepticon.clld.org/parameters/1892,кӀутӀиᴴ,touch
+38-1020,ghod1238,http://concepticon.clld.org/parameters/378,ццими,pinch
+38-697,ghod1238,http://concepticon.clld.org/parameters/1425,ххайи,green
+38-97,ghod1238,http://concepticon.clld.org/parameters/1424,ччакку,yellow
+38-774,ghod1238,http://concepticon.clld.org/parameters/837,хъайилІа,blue
+38-661,ghod1238,http://concepticon.clld.org/parameters/156,ирхха,red
+38-422,ghod1238,http://concepticon.clld.org/parameters/163,бечӀер,black
+38-1127,ghod1238,http://concepticon.clld.org/parameters/1335,гьацӀа,white
+38-1072,ghod1238,http://concepticon.clld.org/parameters/706,синдил,dark (in color)
+38-1216,ghod1238,http://concepticon.clld.org/parameters/250,квану,light (in color)
+38-979,ghod1238,http://concepticon.clld.org/parameters/1613,кьери,color
+38-1216,ghod1238,http://concepticon.clld.org/parameters/679,квану,bright
+38-566,ghod1238,http://concepticon.clld.org/parameters/708,канлъи,shine
+38-1033,ghod1238,http://concepticon.clld.org/parameters/1039,гьаъали,show
+38-7,ghod1238,http://concepticon.clld.org/parameters/1819,гьалищи,"look, look at"
+38-685,ghod1238,http://concepticon.clld.org/parameters/1409,гьаи,see
+38-1061,ghod1238,http://concepticon.clld.org/parameters/1314,щинтӀибу,"quiet, silence"
+38-360,ghod1238,http://concepticon.clld.org/parameters/1314,аччахъибешттабу,"quiet, silence"
+38-1097,ghod1238,http://concepticon.clld.org/parameters/377,анлъалу,loud
+38-951,ghod1238,http://concepticon.clld.org/parameters/1811,лъаччу,"sound, noise"
+38-24,ghod1238,http://concepticon.clld.org/parameters/1608,гьантӀукӀʼа рикки,listen
+38-508,ghod1238,http://concepticon.clld.org/parameters/1408,анлъи,hear
+38-1038,ghod1238,http://concepticon.clld.org/parameters/70,ццаᴴйихӀалаб,brackish
+38-1235,ghod1238,http://concepticon.clld.org/parameters/1906,цикку,"acid, sour"
+38-967,ghod1238,http://concepticon.clld.org/parameters/887,букьа,bitter
+38-807,ghod1238,http://concepticon.clld.org/parameters/1091,цаᴴйи,salty
+38-851,ghod1238,http://concepticon.clld.org/parameters/717,мицца,sweet
+38-398,ghod1238,http://concepticon.clld.org/parameters/21,миццалъир,taste
+38-645,ghod1238,http://concepticon.clld.org/parameters/21,тІагІам,taste
+38-1023,ghod1238,http://concepticon.clld.org/parameters/42,бакъати,"stinking, bad smelling"
+38-56,ghod1238,http://concepticon.clld.org/parameters/42,хъуби шаᴴйи,"stinking, bad smelling"
+38-720,ghod1238,http://concepticon.clld.org/parameters/376,тӀагӀамаб-чӀиквар шаᴴйи,"fragrant, good smelling"
+38-614,ghod1238,http://concepticon.clld.org/parameters/1586,щунни,smell (vb trans)
+38-1231,ghod1238,http://concepticon.clld.org/parameters/1586,ссунтІиди,smell (vb trans)
+38-652,ghod1238,http://concepticon.clld.org/parameters/375,шунни,sniff
+38-841,ghod1238,http://concepticon.clld.org/parameters/1587,шаᴴйи баи,smell (vb intrans)
+38-788,ghod1238,http://concepticon.clld.org/parameters/691,решилІи заман,season
+38-1186,ghod1238,http://concepticon.clld.org/parameters/1342,къину,summer
+38-102,ghod1238,http://concepticon.clld.org/parameters/1276,барийан,autumn
+38-1226,ghod1238,http://concepticon.clld.org/parameters/1537,реибу,spring
+38-922,ghod1238,http://concepticon.clld.org/parameters/1537,ре̄бу,spring
+38-893,ghod1238,http://concepticon.clld.org/parameters/1471,ццибуру,winter
+38-497,ghod1238,http://concepticon.clld.org/parameters/1226,реши,year
+38-1259,ghod1238,http://concepticon.clld.org/parameters/1370,пурццу,month
+38-908,ghod1238,http://concepticon.clld.org/parameters/1700,шаматзибу,Saturday
+38-122,ghod1238,http://concepticon.clld.org/parameters/1692,рузманзибу,Friday
+38-852,ghod1238,http://concepticon.clld.org/parameters/1693,хамиззибу,Thursday
+38-1027,ghod1238,http://concepticon.clld.org/parameters/1694,гӀарбагӀзибу,Wednesday
+38-836,ghod1238,http://concepticon.clld.org/parameters/1695,талатзибу,Tuesday
+38-997,ghod1238,http://concepticon.clld.org/parameters/1697,итнизибу,Monday
+38-903,ghod1238,http://concepticon.clld.org/parameters/1469,гьакьу,week
+38-847,ghod1238,http://concepticon.clld.org/parameters/1699,базарзибу,Sunday
+38-406,ghod1238,http://concepticon.clld.org/parameters/1323,сагӀати,"clock, timepiece"
+38-406,ghod1238,http://concepticon.clld.org/parameters/1353,сагӀати,hour
+38-103,ghod1238,http://concepticon.clld.org/parameters/1180,сунассуру,day-before-yesterday
+38-1268,ghod1238,http://concepticon.clld.org/parameters/1174,суни,yesterday
+38-1141,ghod1238,http://concepticon.clld.org/parameters/1179,саву,day-after-tomorrow
+38-785,ghod1238,http://concepticon.clld.org/parameters/1329,рахара,tomorrow
+38-692,ghod1238,http://concepticon.clld.org/parameters/1283,гьелъе,today
+38-1053,ghod1238,http://concepticon.clld.org/parameters/1629,маркӀачӀулъи,evening
+38-1057,ghod1238,http://concepticon.clld.org/parameters/1807,милълъарахъи,afternoon
+38-585,ghod1238,http://concepticon.clld.org/parameters/12,лъел,"noon, midday"
+38-690,ghod1238,http://concepticon.clld.org/parameters/12,лъелзаман,"noon, midday"
+38-476,ghod1238,http://concepticon.clld.org/parameters/1339,рахакьи,morning
+38-138,ghod1238,http://concepticon.clld.org/parameters/729,кванлъир,dawn
+38-749,ghod1238,http://concepticon.clld.org/parameters/1260,зибу,day
+38-577,ghod1238,http://concepticon.clld.org/parameters/1233,релъади,night
+38-1142,ghod1238,http://concepticon.clld.org/parameters/1233,релъа,night
+38-973,ghod1238,http://concepticon.clld.org/parameters/204,цӀидасса,again
+38-496,ghod1238,http://concepticon.clld.org/parameters/204,гьерала,again
+38-874,ghod1238,http://concepticon.clld.org/parameters/1656,анщидала,never
+38-498,ghod1238,http://concepticon.clld.org/parameters/418,бегъукъалІи,long-time (for a)
+38-506,ghod1238,http://concepticon.clld.org/parameters/703,бекъада,soon
+38-801,ghod1238,http://concepticon.clld.org/parameters/1544,анщи-анщи,sometimes
+38-756,ghod1238,http://concepticon.clld.org/parameters/1852,бекъа-бекъа,often
+38-317,ghod1238,http://concepticon.clld.org/parameters/1676,индала,always
+38-350,ghod1238,http://concepticon.clld.org/parameters/1676,индадала,always
+38-63,ghod1238,http://concepticon.clld.org/parameters/790,хӀадурав,ready
+38-1136,ghod1238,http://concepticon.clld.org/parameters/1928,бикъвали,"cease, stop"
+38-775,ghod1238,http://concepticon.clld.org/parameters/1928,булІали,"cease, stop"
+38-775,ghod1238,http://concepticon.clld.org/parameters/1766,булІали,finish
+38-620,ghod1238,http://concepticon.clld.org/parameters/743,вулІи,end (temporal)
+38-550,ghod1238,http://concepticon.clld.org/parameters/743,булІи,end (temporal)
+38-210,ghod1238,http://concepticon.clld.org/parameters/743,йулІи,end (temporal)
+38-208,ghod1238,http://concepticon.clld.org/parameters/1186,дагӀинда-дагӀин,"last, endure"
+38-698,ghod1238,http://concepticon.clld.org/parameters/1806,байбихьи иᴴгьи,"begin, beginning"
+38-224,ghod1238,http://concepticon.clld.org/parameters/425,суруса бихани,"retard, delay"
+38-811,ghod1238,http://concepticon.clld.org/parameters/754,гӀедегӀил иᴴгьи,"hasten, hurry"
+38-419,ghod1238,http://concepticon.clld.org/parameters/701,сурисабу,slow
+38-707,ghod1238,http://concepticon.clld.org/parameters/1631,ххеххав,"swift, fast, quick"
+38-400,ghod1238,http://concepticon.clld.org/parameters/1963,ххеххи,immediately
+38-1139,ghod1238,http://concepticon.clld.org/parameters/1963,бекъа,immediately
+38-229,ghod1238,http://concepticon.clld.org/parameters/1376,гьера,now
+38-393,ghod1238,http://concepticon.clld.org/parameters/477,кватӀаᴴ,late
+38-506,ghod1238,http://concepticon.clld.org/parameters/672,бекъада,early
+38-1325,ghod1238,http://concepticon.clld.org/parameters/1229,вахар,old
+38-197,ghod1238,http://concepticon.clld.org/parameters/1207,гӀолохъанав,young
+38-300,ghod1238,http://concepticon.clld.org/parameters/1207,бахІарав,young
+38-242,ghod1238,http://concepticon.clld.org/parameters/1231,цӀиᴴву,new
+38-1165,ghod1238,http://concepticon.clld.org/parameters/1789,гӀʼасру,age
+38-16,ghod1238,http://concepticon.clld.org/parameters/417,лъабцІида,three times
+38-748,ghod1238,http://concepticon.clld.org/parameters/892,замана,time
+38-80,ghod1238,http://concepticon.clld.org/parameters/892,къару,time
+38-376,ghod1238,http://concepticon.clld.org/parameters/1859,лъабулъиссу,third
+38-428,ghod1238,http://concepticon.clld.org/parameters/1546,кІʼанцІида,two times
+38-191,ghod1238,http://concepticon.clld.org/parameters/1546,кІеда микъилІи,two times
+38-466,ghod1238,http://concepticon.clld.org/parameters/1888,кІеда,pair
+38-1314,ghod1238,http://concepticon.clld.org/parameters/1888,садахъе,pair
+38-504,ghod1238,http://concepticon.clld.org/parameters/1384,кІе̄лъиссу,second
+38-220,ghod1238,http://concepticon.clld.org/parameters/1529,гьичІи бехутІуссу,last
+38-112,ghod1238,http://concepticon.clld.org/parameters/1529,гьичІиракъударассу,last
+38-613,ghod1238,http://concepticon.clld.org/parameters/728,гьичІи ссебассу,first
+38-547,ghod1238,http://concepticon.clld.org/parameters/965,дунел,world
+38-1031,ghod1238,http://concepticon.clld.org/parameters/626,улка,"earth, land"
+38-1205,ghod1238,http://concepticon.clld.org/parameters/626,хІукумат,"earth, land"
+38-1166,ghod1238,http://concepticon.clld.org/parameters/1228,ракьи,"earth=ground, soil"
+38-928,ghod1238,http://concepticon.clld.org/parameters/1228,унщи,"earth=ground, soil"
+38-1200,ghod1238,http://concepticon.clld.org/parameters/640,чарта,mud
+38-443,ghod1238,http://concepticon.clld.org/parameters/2,дада,dust
+38-225,ghod1238,http://concepticon.clld.org/parameters/671,сира,sand
+38-729,ghod1238,http://concepticon.clld.org/parameters/2118,бегьил рекъа,"mountain, hill"
+38-616,ghod1238,http://concepticon.clld.org/parameters/2118,бе̄л,"mountain, hill"
+38-1199,ghod1238,http://concepticon.clld.org/parameters/618,кьуду,"cliff, precipice"
+38-389,ghod1238,http://concepticon.clld.org/parameters/652,хури,"plain, field"
+38-536,ghod1238,http://concepticon.clld.org/parameters/921,реккин,valley
+38-1296,ghod1238,http://concepticon.clld.org/parameters/622,чІинкІиллъи,island
+38-1330,ghod1238,http://concepticon.clld.org/parameters/166,бечІуха ракьи,mainland
+38-827,ghod1238,http://concepticon.clld.org/parameters/113,релъалІи бакил,shore
+38-941,ghod1238,http://concepticon.clld.org/parameters/1155,речча,cave
+38-166,ghod1238,http://concepticon.clld.org/parameters/948,лълъени,water
+38-1142,ghod1238,http://concepticon.clld.org/parameters/1474,релъа,sea
+38-375,ghod1238,http://concepticon.clld.org/parameters/258,щинтІибу (релъа),calm (of sea)
+38-286,ghod1238,http://concepticon.clld.org/parameters/259,гьалагʼаб (релъа),rough (of sea)
+38-1163,ghod1238,http://concepticon.clld.org/parameters/1768,пали,foam
+38-609,ghod1238,http://concepticon.clld.org/parameters/645,бечІуха релъа,ocean
+38-451,ghod1238,http://concepticon.clld.org/parameters/624,игьуру,lake
+38-1024,ghod1238,http://concepticon.clld.org/parameters/623,—,lagoon
+38-1024,ghod1238,http://concepticon.clld.org/parameters/663,—,"gulf, bay"
+38-1024,ghod1238,http://concepticon.clld.org/parameters/660,—,reef
+38-1024,ghod1238,http://concepticon.clld.org/parameters/1662,—,"headland, point"
+38-340,ghod1238,http://concepticon.clld.org/parameters/978,к’арачел,wave
+38-70,ghod1238,http://concepticon.clld.org/parameters/891,релъа гьикьи мунир,tide
+38-1073,ghod1238,http://concepticon.clld.org/parameters/891,гьикьи буккуди,tide
+38-1289,ghod1238,http://concepticon.clld.org/parameters/1026,релъа гьикьи буккуди,lowtide
+38-70,ghod1238,http://concepticon.clld.org/parameters/613,релъа гьикьи мунир,hightide
+38-571,ghod1238,http://concepticon.clld.org/parameters/666,инххи лълъинсса,"river, stream, brook"
+38-207,ghod1238,http://concepticon.clld.org/parameters/1982,ххарадатабу лълъени,whirlpool
+38-948,ghod1238,http://concepticon.clld.org/parameters/1145,лълъинццу,swamp
+38-625,ghod1238,http://concepticon.clld.org/parameters/2144,къулгІе,"spring, well"
+38-711,ghod1238,http://concepticon.clld.org/parameters/943,чорча,waterfall
+38-416,ghod1238,http://concepticon.clld.org/parameters/906,руша,tree (cf 08.600)
+38-653,ghod1238,http://concepticon.clld.org/parameters/420,рушлъи,"woods, forest"
+38-416,ghod1238,http://concepticon.clld.org/parameters/420,руша,"woods, forest"
+38-358,ghod1238,http://concepticon.clld.org/parameters/1803,лъуди,wood
+38-189,ghod1238,http://concepticon.clld.org/parameters/2125,анча,"stone, rock"
+38-1199,ghod1238,http://concepticon.clld.org/parameters/2125,кьуду,"stone, rock"
+38-447,ghod1238,http://concepticon.clld.org/parameters/6,муса луллабир,earthquake
+38-731,ghod1238,http://concepticon.clld.org/parameters/1732,решин,sky
+38-1259,ghod1238,http://concepticon.clld.org/parameters/1313,пурццу,moon
+38-417,ghod1238,http://concepticon.clld.org/parameters/1343,милъи,sun
+38-1122,ghod1238,http://concepticon.clld.org/parameters/1430,ццайи,star
+38-66,ghod1238,http://concepticon.clld.org/parameters/1654,пири,lightning
+38-543,ghod1238,http://concepticon.clld.org/parameters/1654,гъугъадир,lightning
+38-216,ghod1238,http://concepticon.clld.org/parameters/1150,решин худи,thunder
+38-66,ghod1238,http://concepticon.clld.org/parameters/2007,пири,lightning (as striking)
+38-296,ghod1238,http://concepticon.clld.org/parameters/858,бечІуха мучу,storm
+38-148,ghod1238,http://concepticon.clld.org/parameters/1733,цІиву-цІаву,rainbow
+38-679,ghod1238,http://concepticon.clld.org/parameters/630,кванулъир,light (noun)
+38-890,ghod1238,http://concepticon.clld.org/parameters/1388,гьанччу,"shade, shadow"
+38-791,ghod1238,http://concepticon.clld.org/parameters/11,синдилъир,darkness
+38-1169,ghod1238,http://concepticon.clld.org/parameters/1977,щибил,dew
+38-826,ghod1238,http://concepticon.clld.org/parameters/1977,щиби,dew
+38-1036,ghod1238,http://concepticon.clld.org/parameters/27,гьава,air
+38-1069,ghod1238,http://concepticon.clld.org/parameters/960,мучу,wind
+38-106,ghod1238,http://concepticon.clld.org/parameters/1489,гьанлу,cloud
+38-992,ghod1238,http://concepticon.clld.org/parameters/249,гьину гьанлу,fog
+38-1122,ghod1238,http://concepticon.clld.org/parameters/658,ццайи,rain (noun)
+38-1078,ghod1238,http://concepticon.clld.org/parameters/784,анзи,snow (noun)
+38-1096,ghod1238,http://concepticon.clld.org/parameters/617,зари,ice
+38-912,ghod1238,http://concepticon.clld.org/parameters/221,цІайи,fire
+38-203,ghod1238,http://concepticon.clld.org/parameters/952,анссакир-зараши,weather
+38-825,ghod1238,http://concepticon.clld.org/parameters/889,цІайилъи мици,flame (noun)
+38-1060,ghod1238,http://concepticon.clld.org/parameters/778,ссури,smoke (noun)
+38-1006,ghod1238,http://concepticon.clld.org/parameters/646,кьейи,ashes
+38-1297,ghod1238,http://concepticon.clld.org/parameters/67,цІатабу анчибе,embers
+38-821,ghod1238,http://concepticon.clld.org/parameters/141,цІайи кІʼанахали,burn (vb trans)
+38-815,ghod1238,http://concepticon.clld.org/parameters/1428,цІати,burn (vb intrans)
+38-1015,ghod1238,http://concepticon.clld.org/parameters/737,цІатали,"light, kindle, ignite"
+38-668,ghod1238,http://concepticon.clld.org/parameters/127,бищани,extinguish
+38-539,ghod1238,http://concepticon.clld.org/parameters/1133,испишкʼа,match (noun)
+38-358,ghod1238,http://concepticon.clld.org/parameters/10,лъуди,firewood
+38-1197,ghod1238,http://concepticon.clld.org/parameters/1188,гьабу,charcoal
+38-773,ghod1238,http://concepticon.clld.org/parameters/683,адами,"person, human being"
+38-471,ghod1238,http://concepticon.clld.org/parameters/1554,гьекІва,man (vs. woman)
+38-371,ghod1238,http://concepticon.clld.org/parameters/962,йаши,woman
+38-667,ghod1238,http://concepticon.clld.org/parameters/2263,кунтІа,male
+38-511,ghod1238,http://concepticon.clld.org/parameters/2260,гьаркк’и,female
+38-942,ghod1238,http://concepticon.clld.org/parameters/1366,ваша,boy
+38-906,ghod1238,http://concepticon.clld.org/parameters/76,гІолохъа гьекІва,young man (adolescent)
+38-371,ghod1238,http://concepticon.clld.org/parameters/1646,йаши,girl
+38-371,ghod1238,http://concepticon.clld.org/parameters/77,йаши,young woman (adolescent)
+38-131,ghod1238,http://concepticon.clld.org/parameters/1304,макІи,child
+38-667,ghod1238,http://concepticon.clld.org/parameters/1200,кунтІа,husband
+38-1178,ghod1238,http://concepticon.clld.org/parameters/1289,микІиси макІи,"infant, baby"
+38-511,ghod1238,http://concepticon.clld.org/parameters/1199,гьаркк’и,wife
+38-412,ghod1238,http://concepticon.clld.org/parameters/203,гьарккʼи йечиᴴ,marry
+38-954,ghod1238,http://concepticon.clld.org/parameters/1259,нусахар,"marriage, wedding"
+38-212,ghod1238,http://concepticon.clld.org/parameters/1134,батІалъи,divorce
+38-855,ghod1238,http://concepticon.clld.org/parameters/1217,им’а,father
+38-1056,ghod1238,http://concepticon.clld.org/parameters/1216,ила,mother
+38-1111,ghod1238,http://concepticon.clld.org/parameters/505,ила-им’а,parents
+38-403,ghod1238,http://concepticon.clld.org/parameters/424,гьарккʼи йечаму,married man
+38-817,ghod1238,http://concepticon.clld.org/parameters/426,кунтІулъи йинабу,married woman
+38-942,ghod1238,http://concepticon.clld.org/parameters/1620,ваша,son
+38-371,ghod1238,http://concepticon.clld.org/parameters/1357,йаши,daughter
+38-505,ghod1238,http://concepticon.clld.org/parameters/1801,балъе,offspring (son or daughter)
+38-1298,ghod1238,http://concepticon.clld.org/parameters/1262,вацци,brother
+38-455,ghod1238,http://concepticon.clld.org/parameters/1759,вечІуха вацци,older brother
+38-509,ghod1238,http://concepticon.clld.org/parameters/1760,микІиси вацци,younger brother
+38-192,ghod1238,http://concepticon.clld.org/parameters/1263,йацци,sister
+38-595,ghod1238,http://concepticon.clld.org/parameters/1758,йечІуха йацци,older sister
+38-1340,ghod1238,http://concepticon.clld.org/parameters/1761,микІиси йацци,younger sister
+38-132,ghod1238,http://concepticon.clld.org/parameters/1640,вацци-йацци,sibling
+38-529,ghod1238,http://concepticon.clld.org/parameters/1005,къетІе,twins
+38-518,ghod1238,http://concepticon.clld.org/parameters/1383,вечІуха им’а,grandfather
+38-1278,ghod1238,http://concepticon.clld.org/parameters/406,вахар адами,old man
+38-843,ghod1238,http://concepticon.clld.org/parameters/1496,йечІуха ила,grandmother
+38-752,ghod1238,http://concepticon.clld.org/parameters/907,йахар адами,old woman
+38-525,ghod1238,http://concepticon.clld.org/parameters/1618,вашулІи макІи,grandson
+38-830,ghod1238,http://concepticon.clld.org/parameters/1618,йашулІи макІи,grandson
+38-1137,ghod1238,http://concepticon.clld.org/parameters/1619,вашулІи йаши,granddaughter
+38-378,ghod1238,http://concepticon.clld.org/parameters/1619,йашулІи йаши,granddaughter
+38-319,ghod1238,http://concepticon.clld.org/parameters/1327,ацци,uncle
+38-319,ghod1238,http://concepticon.clld.org/parameters/1984,ацци,mother's brother
+38-328,ghod1238,http://concepticon.clld.org/parameters/1984,илулІи вацци,mother's brother
+38-319,ghod1238,http://concepticon.clld.org/parameters/1985,ацци,father's brother
+38-125,ghod1238,http://concepticon.clld.org/parameters/1985,имулІи вац̄и,father's brother
+38-140,ghod1238,http://concepticon.clld.org/parameters/1272,атІа,aunt
+38-140,ghod1238,http://concepticon.clld.org/parameters/171,атІа,mother's sister
+38-1343,ghod1238,http://concepticon.clld.org/parameters/171,илулІи йацци,mother's sister
+38-140,ghod1238,http://concepticon.clld.org/parameters/170,атІа,father's sister
+38-1190,ghod1238,http://concepticon.clld.org/parameters/170,имулІи йацци,father's sister
+38-1261,ghod1238,http://concepticon.clld.org/parameters/1063,ваццулІи ваша,nephew
+38-141,ghod1238,http://concepticon.clld.org/parameters/1063,йаццулІи ваша,nephew
+38-1191,ghod1238,http://concepticon.clld.org/parameters/1642,йаццулІи йаши,niece
+38-947,ghod1238,http://concepticon.clld.org/parameters/1642,ваццулІи йаши,niece
+38-955,ghod1238,http://concepticon.clld.org/parameters/1643,йацгІал,cousin
+38-129,ghod1238,http://concepticon.clld.org/parameters/1643,вацгІал,cousin
+38-628,ghod1238,http://concepticon.clld.org/parameters/1669,бечІухабе,ancestors
+38-683,ghod1238,http://concepticon.clld.org/parameters/490,боантабу гІел,descendants
+38-1263,ghod1238,http://concepticon.clld.org/parameters/2255,имакьур,father-in-law (of a man)
+38-83,ghod1238,http://concepticon.clld.org/parameters/2255,кунтІалІи им’а,father-in-law (of a man)
+38-1263,ghod1238,http://concepticon.clld.org/parameters/2254,имакьур,father-in-law (of a woman)
+38-591,ghod1238,http://concepticon.clld.org/parameters/2254,гьаркк’илІи им’а,father-in-law (of a woman)
+38-781,ghod1238,http://concepticon.clld.org/parameters/2256,илакьур,mother-in-law (of a man)
+38-1183,ghod1238,http://concepticon.clld.org/parameters/2256,кунтІалІи ила,mother-in-law (of a man)
+38-781,ghod1238,http://concepticon.clld.org/parameters/2257,илакьур,mother-in-law (of a woman)
+38-596,ghod1238,http://concepticon.clld.org/parameters/2257,гьаркк’илІи ила,mother-in-law (of a woman)
+38-1160,ghod1238,http://concepticon.clld.org/parameters/2267,нуса,son-in-law (of a man)
+38-1160,ghod1238,http://concepticon.clld.org/parameters/2266,нуса,son-in-law (of a woman)
+38-1160,ghod1238,http://concepticon.clld.org/parameters/2265,нуса,daughter-in-law (of a man)
+38-492,ghod1238,http://concepticon.clld.org/parameters/2264,бахІарай,daughter-in-law (of a woman)
+38-457,ghod1238,http://concepticon.clld.org/parameters/237,илъаду им’а,stepfather
+38-753,ghod1238,http://concepticon.clld.org/parameters/236,илъаду ила,stepmother
+38-485,ghod1238,http://concepticon.clld.org/parameters/1059,илъаду ваша,stepson
+38-334,ghod1238,http://concepticon.clld.org/parameters/1058,илъаду йаши,stepdaughter
+38-219,ghod1238,http://concepticon.clld.org/parameters/1149,илъаду макІи,orphan
+38-499,ghod1238,http://concepticon.clld.org/parameters/1756,къороле,widow
+38-454,ghod1238,http://concepticon.clld.org/parameters/1981,къороло,widower
+38-727,ghod1238,http://concepticon.clld.org/parameters/1644,гІагʼарлъи,"relatives, kinsmen"
+38-664,ghod1238,http://concepticon.clld.org/parameters/194,хъизан,family
+38-356,ghod1238,http://concepticon.clld.org/parameters/1209,ден,I
+38-1276,ghod1238,http://concepticon.clld.org/parameters/1215,мин,you (singular)
+38-1068,ghod1238,http://concepticon.clld.org/parameters/262,гьодов,he/she/it
+38-913,ghod1238,http://concepticon.clld.org/parameters/262,гьадов,he/she/it
+38-846,ghod1238,http://concepticon.clld.org/parameters/1212,илІе,we
+38-846,ghod1238,http://concepticon.clld.org/parameters/1131,илІе,we (inclusive)
+38-1152,ghod1238,http://concepticon.clld.org/parameters/1130,ище,we (exclusive)
+38-1196,ghod1238,http://concepticon.clld.org/parameters/1213,битте,you (plural)
+38-517,ghod1238,http://concepticon.clld.org/parameters/817,гьодобе,they
+38-662,ghod1238,http://concepticon.clld.org/parameters/619,хІайпан,animal
+38-1336,ghod1238,http://concepticon.clld.org/parameters/2261,унса гъадачІа,male (adj)
+38-354,ghod1238,http://concepticon.clld.org/parameters/2262,зини чІара,female (adj)
+38-196,ghod1238,http://concepticon.clld.org/parameters/2262,яшикІва,female (adj)
+38-1185,ghod1238,http://concepticon.clld.org/parameters/631,пурцци,livestock
+38-1208,ghod1238,http://concepticon.clld.org/parameters/649,гІалахи,pasture
+38-227,ghod1238,http://concepticon.clld.org/parameters/263,харашу,herdsman
+38-601,ghod1238,http://concepticon.clld.org/parameters/851,бекьи,"stable, stall"
+38-1185,ghod1238,http://concepticon.clld.org/parameters/1153,пурцци,cattle (bovine)
+38-1329,ghod1238,http://concepticon.clld.org/parameters/1008,унса,bull
+38-1329,ghod1238,http://concepticon.clld.org/parameters/1169,унса,ox
+38-838,ghod1238,http://concepticon.clld.org/parameters/1007,зини,cow
+38-734,ghod1238,http://concepticon.clld.org/parameters/1989,гьаниха,calf
+38-1252,ghod1238,http://concepticon.clld.org/parameters/1331,риха,sheep
+38-267,ghod1238,http://concepticon.clld.org/parameters/1344,куᴴйи,ram
+38-1252,ghod1238,http://concepticon.clld.org/parameters/1345,риха,ewe
+38-1195,ghod1238,http://concepticon.clld.org/parameters/820,кьидир,lamb
+38-920,ghod1238,http://concepticon.clld.org/parameters/1348,болъон,boar
+38-920,ghod1238,http://concepticon.clld.org/parameters/1351,болъон,sow (2)
+38-920,ghod1238,http://concepticon.clld.org/parameters/1337,болъон,pig
+38-691,ghod1238,http://concepticon.clld.org/parameters/1502,цциналІу,goat
+38-854,ghod1238,http://concepticon.clld.org/parameters/264,тІукʼа,he-goat
+38-120,ghod1238,http://concepticon.clld.org/parameters/1972,цІекІир,kid
+38-123,ghod1238,http://concepticon.clld.org/parameters/615,хвани,horse (equine)
+38-1274,ghod1238,http://concepticon.clld.org/parameters/936,барти,stallion
+38-1134,ghod1238,http://concepticon.clld.org/parameters/938,ича,mare
+38-502,ghod1238,http://concepticon.clld.org/parameters/1647,тагьи,"foal, colt"
+38-1173,ghod1238,http://concepticon.clld.org/parameters/1862,гьамахи,"ass, donkey"
+38-875,ghod1238,http://concepticon.clld.org/parameters/890,гІорцІин,mule
+38-873,ghod1238,http://concepticon.clld.org/parameters/265,ооча-хІелеку,fowl
+38-615,ghod1238,http://concepticon.clld.org/parameters/1511,хІелеку,"cock, rooster"
+38-1273,ghod1238,http://concepticon.clld.org/parameters/1514,ооча,hen
+38-1059,ghod1238,http://concepticon.clld.org/parameters/1318,оочулІи балъа,chicken
+38-819,ghod1238,http://concepticon.clld.org/parameters/1187,хъази,goose
+38-665,ghod1238,http://concepticon.clld.org/parameters/1360,бади,duck
+38-48,ghod1238,http://concepticon.clld.org/parameters/539,багʼан,nest
+38-1184,ghod1238,http://concepticon.clld.org/parameters/539,баган,nest
+38-374,ghod1238,http://concepticon.clld.org/parameters/937,щиким,bird
+38-321,ghod1238,http://concepticon.clld.org/parameters/950,релъалІи щикин,seagull
+38-1237,ghod1238,http://concepticon.clld.org/parameters/950,чайка,seagull
+38-621,ghod1238,http://concepticon.clld.org/parameters/758,хІажилакълакъ,heron
+38-1275,ghod1238,http://concepticon.clld.org/parameters/1905,ццуᴴйи,eagle
+38-777,ghod1238,http://concepticon.clld.org/parameters/307,хъергъу,hawk
+38-1275,ghod1238,http://concepticon.clld.org/parameters/1185,ццуᴴйи,vulture
+38-10,ghod1238,http://concepticon.clld.org/parameters/1793,захъу гьикква,bat
+38-1102,ghod1238,http://concepticon.clld.org/parameters/882,папугай,parrot
+38-936,ghod1238,http://concepticon.clld.org/parameters/1853,гъугъу,dove
+38-1335,ghod1238,http://concepticon.clld.org/parameters/913,гъанди,crow
+38-1266,ghod1238,http://concepticon.clld.org/parameters/735,бугьу,owl
+38-373,ghod1238,http://concepticon.clld.org/parameters/2009,хвайи,dog
+38-480,ghod1238,http://concepticon.clld.org/parameters/1136,кІʼанкьала,rabbit
+38-940,ghod1238,http://concepticon.clld.org/parameters/1208,геду,cat
+38-1024,ghod1238,http://concepticon.clld.org/parameters/309,—,opossum
+38-1213,ghod1238,http://concepticon.clld.org/parameters/2139,гьикква,"mouse, rat"
+38-1337,ghod1238,http://concepticon.clld.org/parameters/227,ччугІа,fish
+38-1303,ghod1238,http://concepticon.clld.org/parameters/213,ччугІалІи лъеру,fin (dorsal)
+38-75,ghod1238,http://concepticon.clld.org/parameters/266,ччугІалІи хъали,fishscale
+38-1024,ghod1238,http://concepticon.clld.org/parameters/1916,—,gill
+38-534,ghod1238,http://concepticon.clld.org/parameters/598,релъалІи гьантІукІʼа,shell
+38-52,ghod1238,http://concepticon.clld.org/parameters/1110,акула,shark
+38-663,ghod1238,http://concepticon.clld.org/parameters/1479,делфин,"porpoise, dolphin"
+38-793,ghod1238,http://concepticon.clld.org/parameters/957,кити,whale
+38-252,ghod1238,http://concepticon.clld.org/parameters/1910,релъалІи геду,stingray
+38-1024,ghod1238,http://concepticon.clld.org/parameters/1013,—,freshwater eel
+38-14,ghod1238,http://concepticon.clld.org/parameters/522,бацІа,wolf
+38-872,ghod1238,http://concepticon.clld.org/parameters/1386,гъалбацІи,lion
+38-898,ghod1238,http://concepticon.clld.org/parameters/1820,сиᴴгьи,bear
+38-877,ghod1238,http://concepticon.clld.org/parameters/1312,сари,fox
+38-640,ghod1238,http://concepticon.clld.org/parameters/1936,чаᴴйи,deer
+38-79,ghod1238,http://concepticon.clld.org/parameters/1936,ричІа,deer
+38-925,ghod1238,http://concepticon.clld.org/parameters/1350,маймалаки,monkey
+38-789,ghod1238,http://concepticon.clld.org/parameters/1290,пил,elephant
+38-1328,ghod1238,http://concepticon.clld.org/parameters/1871,гъварани,camel
+38-693,ghod1238,http://concepticon.clld.org/parameters/620,хІутІ,insect
+38-33,ghod1238,http://concepticon.clld.org/parameters/267,тІана,nit (louse egg)
+38-1008,ghod1238,http://concepticon.clld.org/parameters/310,нацци,louse
+38-1024,ghod1238,http://concepticon.clld.org/parameters/1974,—,centipede
+38-1092,ghod1238,http://concepticon.clld.org/parameters/232,чІантІи,flea
+38-456,ghod1238,http://concepticon.clld.org/parameters/1538,гІакъира,scorpion
+38-1124,ghod1238,http://concepticon.clld.org/parameters/1575,таракан,cockroach
+38-579,ghod1238,http://concepticon.clld.org/parameters/587,лъабцца,ant
+38-254,ghod1238,http://concepticon.clld.org/parameters/843,хъанхъара,spider
+38-954,ghod1238,http://concepticon.clld.org/parameters/843,нусахар,spider
+38-254,ghod1238,http://concepticon.clld.org/parameters/1065,хъанхъара,spider web
+38-592,ghod1238,http://concepticon.clld.org/parameters/665,пера,bee
+38-634,ghod1238,http://concepticon.clld.org/parameters/1931,щиру,beeswax
+38-631,ghod1238,http://concepticon.clld.org/parameters/88,тІала,beehive
+38-1291,ghod1238,http://concepticon.clld.org/parameters/1517,зинквата,wasp
+38-1148,ghod1238,http://concepticon.clld.org/parameters/1504,тІунтІу,fly
+38-771,ghod1238,http://concepticon.clld.org/parameters/1509,кІкІʼара,mosquito
+38-771,ghod1238,http://concepticon.clld.org/parameters/95,кІкІʼара,"sandfly (midge), gnat"
+38-277,ghod1238,http://concepticon.clld.org/parameters/1219,хІапара,worm
+38-89,ghod1238,http://concepticon.clld.org/parameters/206,букатабучІалха,firefly
+38-1156,ghod1238,http://concepticon.clld.org/parameters/730,беркʼа,snake
+38-1002,ghod1238,http://concepticon.clld.org/parameters/1791,сисикІʼан,butterfly
+38-675,ghod1238,http://concepticon.clld.org/parameters/607,гъанцІа,grasshopper
+38-1319,ghod1238,http://concepticon.clld.org/parameters/1543,цанилли,snail
+38-1088,ghod1238,http://concepticon.clld.org/parameters/1543,беркʼалІи куши,snail
+38-608,ghod1238,http://concepticon.clld.org/parameters/503,къуркъу,frog
+38-370,ghod1238,http://concepticon.clld.org/parameters/632,бачаникІи,lizard
+38-30,ghod1238,http://concepticon.clld.org/parameters/1857,аздагьо,"crocodile, alligator"
+38-946,ghod1238,http://concepticon.clld.org/parameters/112,щурункъверкъ,turtle
+38-538,ghod1238,http://concepticon.clld.org/parameters/1480,лагʼа,body
+38-666,ghod1238,http://concepticon.clld.org/parameters/763,хъали,"skin, hide"
+38-949,ghod1238,http://concepticon.clld.org/parameters/763,буки,"skin, hide"
+38-538,ghod1238,http://concepticon.clld.org/parameters/2259,лагʼа,flesh
+38-881,ghod1238,http://concepticon.clld.org/parameters/1040,микъабаса,hair (head)
+38-281,ghod1238,http://concepticon.clld.org/parameters/678,мигʼажу,beard
+38-1144,ghod1238,http://concepticon.clld.org/parameters/189,баса,body hair
+38-602,ghod1238,http://concepticon.clld.org/parameters/36,щина,pubic hair
+38-545,ghod1238,http://concepticon.clld.org/parameters/576,гъвагъва,dandruff
+38-333,ghod1238,http://concepticon.clld.org/parameters/946,гьири,blood
+38-842,ghod1238,http://concepticon.clld.org/parameters/525,гьирилІи щекІи,"vein, artery"
+38-74,ghod1238,http://concepticon.clld.org/parameters/1394,ракьин,bone
+38-310,ghod1238,http://concepticon.clld.org/parameters/801,исибелІи жала,rib
+38-311,ghod1238,http://concepticon.clld.org/parameters/1393,кІʼами,horn
+38-349,ghod1238,http://concepticon.clld.org/parameters/1220,мигъа,tail
+38-603,ghod1238,http://concepticon.clld.org/parameters/1291,мугъул,back
+38-978,ghod1238,http://concepticon.clld.org/parameters/805,гьоде,spine
+38-848,ghod1238,http://concepticon.clld.org/parameters/1256,вани,head
+38-341,ghod1238,http://concepticon.clld.org/parameters/1604,парччи,"side of head, temple"
+38-405,ghod1238,http://concepticon.clld.org/parameters/1605,гвангвара,skull
+38-388,ghod1238,http://concepticon.clld.org/parameters/1583,ваналІи гьани,brain
+38-330,ghod1238,http://concepticon.clld.org/parameters/1560,гьали,face
+38-136,ghod1238,http://concepticon.clld.org/parameters/1560,ссунтІур,face
+38-135,ghod1238,http://concepticon.clld.org/parameters/123,гьанла,forehead
+38-424,ghod1238,http://concepticon.clld.org/parameters/798,гуцуну,jaw
+38-1001,ghod1238,http://concepticon.clld.org/parameters/1730,кІилу,cheek
+38-424,ghod1238,http://concepticon.clld.org/parameters/1510,гуцуну,chin
+38-837,ghod1238,http://concepticon.clld.org/parameters/1248,гьайи,eye
+38-719,ghod1238,http://concepticon.clld.org/parameters/1173,кьинссир,eyebrow
+38-709,ghod1238,http://concepticon.clld.org/parameters/1540,ниди,eyelash
+38-22,ghod1238,http://concepticon.clld.org/parameters/17,гьабелІи лакьур,eyelid
+38-594,ghod1238,http://concepticon.clld.org/parameters/1655,лабкъида,blink
+38-993,ghod1238,http://concepticon.clld.org/parameters/1247,гьантІукІʼа,ear
+38-993,ghod1238,http://concepticon.clld.org/parameters/18,гьантІукІʼа,earlobe
+38-430,ghod1238,http://concepticon.clld.org/parameters/1221,мигьар,nose
+38-1145,ghod1238,http://concepticon.clld.org/parameters/32,чІабатІи,earwax
+38-200,ghod1238,http://concepticon.clld.org/parameters/1178,мигьаралІи къалибе,nostril
+38-1264,ghod1238,http://concepticon.clld.org/parameters/208,махъа,mucus (nasal)
+38-700,ghod1238,http://concepticon.clld.org/parameters/674,элли,mouth
+38-820,ghod1238,http://concepticon.clld.org/parameters/73,гозо,beak
+38-857,ghod1238,http://concepticon.clld.org/parameters/1205,мицци,tongue
+38-879,ghod1238,http://concepticon.clld.org/parameters/478,гурчи,lip
+38-86,ghod1238,http://concepticon.clld.org/parameters/1380,сукІи,tooth
+38-363,ghod1238,http://concepticon.clld.org/parameters/139,таме,gums
+38-86,ghod1238,http://concepticon.clld.org/parameters/1049,сукІи,molartooth
+38-1230,ghod1238,http://concepticon.clld.org/parameters/1333,гʼару,neck
+38-945,ghod1238,http://concepticon.clld.org/parameters/1347,гъванща,nape of neck
+38-651,ghod1238,http://concepticon.clld.org/parameters/1346,къванкъватІил,throat
+38-832,ghod1238,http://concepticon.clld.org/parameters/1482,гъажи,shoulder
+38-450,ghod1238,http://concepticon.clld.org/parameters/172,реххин,shoulderblade
+38-124,ghod1238,http://concepticon.clld.org/parameters/1673,лела,arm
+38-832,ghod1238,http://concepticon.clld.org/parameters/1673,гъажи,arm
+38-1138,ghod1238,http://concepticon.clld.org/parameters/1994,ссологІучІ,collarbone
+38-810,ghod1238,http://concepticon.clld.org/parameters/1886,къвацІалъису муса,armpit
+38-1040,ghod1238,http://concepticon.clld.org/parameters/1886,гьакье̄лІи,armpit
+38-244,ghod1238,http://concepticon.clld.org/parameters/1886,къвазукьи,armpit
+38-326,ghod1238,http://concepticon.clld.org/parameters/981,цІикван,elbow
+38-799,ghod1238,http://concepticon.clld.org/parameters/799,уркъи,wrist
+38-124,ghod1238,http://concepticon.clld.org/parameters/1277,лела,hand
+38-637,ghod1238,http://concepticon.clld.org/parameters/1183,хъати,palm of hand
+38-831,ghod1238,http://concepticon.clld.org/parameters/1303,сетІилʼ,finger
+38-1126,ghod1238,http://concepticon.clld.org/parameters/1781,им’а сетІил,thumb
+38-956,ghod1238,http://concepticon.clld.org/parameters/1781,бечІуха сетил,thumb
+38-644,ghod1238,http://concepticon.clld.org/parameters/1258,лъумул,fingernail
+38-644,ghod1238,http://concepticon.clld.org/parameters/72,лъумул,claw
+38-523,ghod1238,http://concepticon.clld.org/parameters/1297,регъилʼ,leg
+38-12,ghod1238,http://concepticon.clld.org/parameters/800,ахъу,thigh
+38-1300,ghod1238,http://concepticon.clld.org/parameters/498,бишерегъил,calf of leg
+38-369,ghod1238,http://concepticon.clld.org/parameters/1371,нуку,knee
+38-583,ghod1238,http://concepticon.clld.org/parameters/1301,мижу,foot
+38-583,ghod1238,http://concepticon.clld.org/parameters/980,мижу,heel
+38-632,ghod1238,http://concepticon.clld.org/parameters/803,щиквар,ankle
+38-831,ghod1238,http://concepticon.clld.org/parameters/1389,сетІилʼ,toe
+38-15,ghod1238,http://concepticon.clld.org/parameters/318,лъали,footprint
+38-61,ghod1238,http://concepticon.clld.org/parameters/1257,лъеру,wing
+38-514,ghod1238,http://concepticon.clld.org/parameters/1201,перу,feather
+38-1098,ghod1238,http://concepticon.clld.org/parameters/1592,нихи,chest
+38-657,ghod1238,http://concepticon.clld.org/parameters/1402,кʼакʼа,breast (of woman)
+38-857,ghod1238,http://concepticon.clld.org/parameters/796,мицци,"nipple, teat"
+38-223,ghod1238,http://concepticon.clld.org/parameters/154,кора,udder
+38-1275,ghod1238,http://concepticon.clld.org/parameters/1838,ццуᴴйи,navel
+38-237,ghod1238,http://concepticon.clld.org/parameters/1223,ракІва,heart
+38-669,ghod1238,http://concepticon.clld.org/parameters/688,гьилапана ххунссир,lung
+38-68,ghod1238,http://concepticon.clld.org/parameters/1224,лелилІа,liver
+38-100,ghod1238,http://concepticon.clld.org/parameters/489,ккуᴴйи,kidney
+38-1131,ghod1238,http://concepticon.clld.org/parameters/1744,исибалассу,spleen
+38-186,ghod1238,http://concepticon.clld.org/parameters/819,хвабу,stomach
+38-868,ghod1238,http://concepticon.clld.org/parameters/1991,ччакква,"intestines, guts"
+38-91,ghod1238,http://concepticon.clld.org/parameters/1681,бакьар,waist
+38-12,ghod1238,http://concepticon.clld.org/parameters/1745,ахъу,hip
+38-1146,ghod1238,http://concepticon.clld.org/parameters/1745,регъил,hip
+38-1104,ghod1238,http://concepticon.clld.org/parameters/834,гуги,buttocks
+38-1333,ghod1238,http://concepticon.clld.org/parameters/804,бешен,womb
+38-964,ghod1238,http://concepticon.clld.org/parameters/797,хІундул,testicle
+38-732,ghod1238,http://concepticon.clld.org/parameters/1222,кІукІуци,penis
+38-934,ghod1238,http://concepticon.clld.org/parameters/1407,хІухьел бухи,"breathe, breath"
+38-549,ghod1238,http://concepticon.clld.org/parameters/1028,цІамуцІил гьамгьади,"yawn, gape"
+38-1180,ghod1238,http://concepticon.clld.org/parameters/162,гьэ̄сали,hiccough
+38-814,ghod1238,http://concepticon.clld.org/parameters/879,охІуди,cough
+38-835,ghod1238,http://concepticon.clld.org/parameters/1621,хІинчиди,sneeze
+38-302,ghod1238,http://concepticon.clld.org/parameters/126,гьанла чиби,perspire
+38-962,ghod1238,http://concepticon.clld.org/parameters/1440,ахтата,spit
+38-1044,ghod1238,http://concepticon.clld.org/parameters/1440,тутуди,spit
+38-1021,ghod1238,http://concepticon.clld.org/parameters/1278,кІаркІадалъи,vomit
+38-293,ghod1238,http://concepticon.clld.org/parameters/319,лами,lick
+38-1012,ghod1238,http://concepticon.clld.org/parameters/1403,къами,bite
+38-169,ghod1238,http://concepticon.clld.org/parameters/268,тата бештти,dribble
+38-199,ghod1238,http://concepticon.clld.org/parameters/1585,гъуми,sleep
+38-580,ghod1238,http://concepticon.clld.org/parameters/1983,ххванххвасалІи,snore
+38-751,ghod1238,http://concepticon.clld.org/parameters/1920,макьу гьаи,dream
+38-568,ghod1238,http://concepticon.clld.org/parameters/1602,вулли,wake up
+38-617,ghod1238,http://concepticon.clld.org/parameters/1159,цайи тІами,break wind
+38-195,ghod1238,http://concepticon.clld.org/parameters/592,гьикІущи,urinate
+38-1239,ghod1238,http://concepticon.clld.org/parameters/1785,банди,have sexual intercourse
+38-1188,ghod1238,http://concepticon.clld.org/parameters/676,чаби,defecate
+38-1030,ghod1238,http://concepticon.clld.org/parameters/52,сиридалъи гиргиси,shiver
+38-646,ghod1238,http://concepticon.clld.org/parameters/138,возиᴴ,bathe
+38-87,ghod1238,http://concepticon.clld.org/parameters/1152,ӣгьи,beget (of father)
+38-599,ghod1238,http://concepticon.clld.org/parameters/1090,бахиᴴ,born (to be)
+38-290,ghod1238,http://concepticon.clld.org/parameters/1123,йахиᴴ,pregnant
+38-260,ghod1238,http://concepticon.clld.org/parameters/1087,йахин йилІи,conceive
+38-1221,ghod1238,http://concepticon.clld.org/parameters/1422,гІумру игьи,"live, living, life"
+38-332,ghod1238,http://concepticon.clld.org/parameters/1422,чІагуйаб,"live, living, life"
+38-764,ghod1238,http://concepticon.clld.org/parameters/1422,гІумру,"live, living, life"
+38-88,ghod1238,http://concepticon.clld.org/parameters/1494,бичІи,"die, dead"
+38-139,ghod1238,http://concepticon.clld.org/parameters/1494,бичІабу,"die, dead"
+38-533,ghod1238,http://concepticon.clld.org/parameters/1904,гъанкъибу,drowned
+38-670,ghod1238,http://concepticon.clld.org/parameters/1417,ккванни,kill
+38-1084,ghod1238,http://concepticon.clld.org/parameters/767,бичІабу къаркъала,corpse
+38-1028,ghod1238,http://concepticon.clld.org/parameters/1719,шудалалъи вукІали,bury (the dead)
+38-274,ghod1238,http://concepticon.clld.org/parameters/1773,шубу,"grave, tomb"
+38-35,ghod1238,http://concepticon.clld.org/parameters/785,къубатав,"strong, mighty, powerful"
+38-885,ghod1238,http://concepticon.clld.org/parameters/785,гучав,"strong, mighty, powerful"
+38-477,ghod1238,http://concepticon.clld.org/parameters/785,кутакʼав,"strong, mighty, powerful"
+38-794,ghod1238,http://concepticon.clld.org/parameters/1601,тухав,weak
+38-863,ghod1238,http://concepticon.clld.org/parameters/1601,загІипаб,weak
+38-183,ghod1238,http://concepticon.clld.org/parameters/1364,сахлъи,"well, health"
+38-607,ghod1238,http://concepticon.clld.org/parameters/1364,сахаб,"well, health"
+38-798,ghod1238,http://concepticon.clld.org/parameters/1847,жабир,"sick, sickness"
+38-1206,ghod1238,http://concepticon.clld.org/parameters/1534,ихумакІу балъи,fever
+38-177,ghod1238,http://concepticon.clld.org/parameters/102,вагъашир,cold (catarrh)
+38-610,ghod1238,http://concepticon.clld.org/parameters/1957,кІуру,goiter
+38-2,ghod1238,http://concepticon.clld.org/parameters/1957,гъутІу,goiter
+38-914,ghod1238,http://concepticon.clld.org/parameters/1109,анлълъа,"wound, sore"
+38-774,ghod1238,http://concepticon.clld.org/parameters/1148,хъайилІа,bruise
+38-491,ghod1238,http://concepticon.clld.org/parameters/1903,гьабахир,swelling
+38-411,ghod1238,http://concepticon.clld.org/parameters/148,хъазан,itch
+38-678,ghod1238,http://concepticon.clld.org/parameters/1584,пули,blister
+38-410,ghod1238,http://concepticon.clld.org/parameters/793,къвачІа,boil (noun)
+38-701,ghod1238,http://concepticon.clld.org/parameters/1808,танир,pus
+38-998,ghod1238,http://concepticon.clld.org/parameters/1808,рецца,pus
+38-235,ghod1238,http://concepticon.clld.org/parameters/499,чадали,"cure, heal"
+38-1114,ghod1238,http://concepticon.clld.org/parameters/497,букъибу муса анжи,scar
+38-902,ghod1238,http://concepticon.clld.org/parameters/497,ссал,scar
+38-897,ghod1238,http://concepticon.clld.org/parameters/597,тохтор,physician
+38-704,ghod1238,http://concepticon.clld.org/parameters/597,варач,physician
+38-883,ghod1238,http://concepticon.clld.org/parameters/1372,дару,"medicine, drug"
+38-950,ghod1238,http://concepticon.clld.org/parameters/1372,дарман,"medicine, drug"
+38-780,ghod1238,http://concepticon.clld.org/parameters/1372,сабаб,"medicine, drug"
+38-1101,ghod1238,http://concepticon.clld.org/parameters/655,зайру,poison
+38-339,ghod1238,http://concepticon.clld.org/parameters/655,загьуру,poison
+38-1089,ghod1238,http://concepticon.clld.org/parameters/1757,ссакваму,"tired, weary"
+38-1174,ghod1238,http://concepticon.clld.org/parameters/168,шани,rest
+38-249,ghod1238,http://concepticon.clld.org/parameters/1564,кІвахІала,lazy
+38-932,ghod1238,http://concepticon.clld.org/parameters/1125,кІвартІаси,bald
+38-1322,ghod1238,http://concepticon.clld.org/parameters/1125,ссиннибу,bald
+38-708,ghod1238,http://concepticon.clld.org/parameters/320,рекъвалъи,lame
+38-316,ghod1238,http://concepticon.clld.org/parameters/996,гьаникъул,deaf
+38-1176,ghod1238,http://concepticon.clld.org/parameters/1666,мицци биъичІибу,mute
+38-475,ghod1238,http://concepticon.clld.org/parameters/1653,кванукъу,blind
+38-1071,ghod1238,http://concepticon.clld.org/parameters/1653,захъу,blind
+38-243,ghod1238,http://concepticon.clld.org/parameters/1463,вогулъибу,intoxicated
+38-381,ghod1238,http://concepticon.clld.org/parameters/590,къуликъачицциму,"naked, bare"
+38-279,ghod1238,http://concepticon.clld.org/parameters/1336,икуᴴ,eat
+38-900,ghod1238,http://concepticon.clld.org/parameters/256,амидаан,food
+38-1201,ghod1238,http://concepticon.clld.org/parameters/256,манза,food
+38-420,ghod1238,http://concepticon.clld.org/parameters/269,билъаму,cooked
+38-45,ghod1238,http://concepticon.clld.org/parameters/1959,биччи,raw
+38-59,ghod1238,http://concepticon.clld.org/parameters/178,биабу,ripe
+38-867,ghod1238,http://concepticon.clld.org/parameters/1958,биичІибу,"green, unripe"
+38-467,ghod1238,http://concepticon.clld.org/parameters/1958,жагъаллъи,"green, unripe"
+38-823,ghod1238,http://concepticon.clld.org/parameters/1728,таннибу,rotten
+38-346,ghod1238,http://concepticon.clld.org/parameters/1401,ххуди,drink
+38-808,ghod1238,http://concepticon.clld.org/parameters/1533,маквалъир,hunger
+38-368,ghod1238,http://concepticon.clld.org/parameters/1533,маквассир,hunger
+38-808,ghod1238,http://concepticon.clld.org/parameters/199,маквалъир,famine
+38-368,ghod1238,http://concepticon.clld.org/parameters/199,маквассир,famine
+38-696,ghod1238,http://concepticon.clld.org/parameters/848,гьанкъихир,thirst
+38-209,ghod1238,http://concepticon.clld.org/parameters/848,гьанкъасир,thirst
+38-126,ghod1238,http://concepticon.clld.org/parameters/1421,ццунни,suck
+38-407,ghod1238,http://concepticon.clld.org/parameters/321,чІамчІади,chew
+38-965,ghod1238,http://concepticon.clld.org/parameters/897,букин,swallow
+38-555,ghod1238,http://concepticon.clld.org/parameters/897,буккиᴴ,swallow
+38-251,ghod1238,http://concepticon.clld.org/parameters/129,гъанкъали,choke
+38-1019,ghod1238,http://concepticon.clld.org/parameters/1100,билъиᴴ,cook
+38-1015,ghod1238,http://concepticon.clld.org/parameters/792,цІатали,boil (vb)
+38-1294,ghod1238,http://concepticon.clld.org/parameters/792,аᴴвухали,boil (vb)
+38-1295,ghod1238,http://concepticon.clld.org/parameters/2146,бежи,"roast, fry"
+38-759,ghod1238,http://concepticon.clld.org/parameters/2146,бещи,"roast, fry"
+38-185,ghod1238,http://concepticon.clld.org/parameters/2146,бежиᴴ,"roast, fry"
+38-185,ghod1238,http://concepticon.clld.org/parameters/183,бежиᴴ,bake
+38-952,ghod1238,http://concepticon.clld.org/parameters/1143,печʼ,oven
+38-211,ghod1238,http://concepticon.clld.org/parameters/1462,хъаба,"pot, cooking vessel"
+38-313,ghod1238,http://concepticon.clld.org/parameters/31,чаги,pan
+38-104,ghod1238,http://concepticon.clld.org/parameters/854,чайники,kettle
+38-1115,ghod1238,http://concepticon.clld.org/parameters/854,чаникІи,kettle
+38-726,ghod1238,http://concepticon.clld.org/parameters/481,чини,dish
+38-93,ghod1238,http://concepticon.clld.org/parameters/480,чІи,plate
+38-301,ghod1238,http://concepticon.clld.org/parameters/1530,гярда,bowl
+38-1065,ghod1238,http://concepticon.clld.org/parameters/270,занххи,"pitcher, jug"
+38-1024,ghod1238,http://concepticon.clld.org/parameters/476,—,"cup, drinking vessel"
+38-726,ghod1238,http://concepticon.clld.org/parameters/271,чини,saucer
+38-623,ghod1238,http://concepticon.clld.org/parameters/1378,гъеру,spoon
+38-1217,ghod1238,http://concepticon.clld.org/parameters/1352,бесун,knife (2)
+38-1103,ghod1238,http://concepticon.clld.org/parameters/1302,хвара,fork (2)
+38-115,ghod1238,http://concepticon.clld.org/parameters/272,гъуцІу,tongs
+38-1201,ghod1238,http://concepticon.clld.org/parameters/1526,манза,meal (a)
+38-586,ghod1238,http://concepticon.clld.org/parameters/1322,рахакьиссу манза,breakfast
+38-1024,ghod1238,http://concepticon.clld.org/parameters/768,—,lunch
+38-413,ghod1238,http://concepticon.clld.org/parameters/1833,лъеслссу манза,dinner
+38-121,ghod1238,http://concepticon.clld.org/parameters/1833,бугилъиссу манза,supper
+38-699,ghod1238,http://concepticon.clld.org/parameters/275,гьарчІали,peel
+38-721,ghod1238,http://concepticon.clld.org/parameters/86,сусукІи,"sieve, strain"
+38-241,ghod1238,http://concepticon.clld.org/parameters/1767,лІулІаби,scrape
+38-706,ghod1238,http://concepticon.clld.org/parameters/2017,гьабажали,"stir, mix"
+38-1202,ghod1238,http://concepticon.clld.org/parameters/1368,рецІи,bread
+38-985,ghod1238,http://concepticon.clld.org/parameters/273,гьатІи,dough
+38-671,ghod1238,http://concepticon.clld.org/parameters/274,(гьатІи) бегъали,knead
+38-985,ghod1238,http://concepticon.clld.org/parameters/1594,гьатІи,"meal, flour"
+38-884,ghod1238,http://concepticon.clld.org/parameters/1033,гъурди,"crush, grind"
+38-186,ghod1238,http://concepticon.clld.org/parameters/636,хвабу,mill
+38-766,ghod1238,http://concepticon.clld.org/parameters/224,ражихъан,mortar (2)
+38-766,ghod1238,http://concepticon.clld.org/parameters/225,ражихъан,pestle
+38-1110,ghod1238,http://concepticon.clld.org/parameters/634,рикьи,meat
+38-868,ghod1238,http://concepticon.clld.org/parameters/1874,ччакква,sausage
+38-1182,ghod1238,http://concepticon.clld.org/parameters/1547,чорпа,"soup, broth"
+38-446,ghod1238,http://concepticon.clld.org/parameters/924,пихъ-мичІ,vegetables
+38-330,ghod1238,http://concepticon.clld.org/parameters/832,гьали,bean
+38-521,ghod1238,http://concepticon.clld.org/parameters/832,чІегІергьали,bean
+38-1105,ghod1238,http://concepticon.clld.org/parameters/593,кʼатушкʼа,potato
+38-1342,ghod1238,http://concepticon.clld.org/parameters/1507,перхъи,fruit
+38-750,ghod1238,http://concepticon.clld.org/parameters/1966,квацІир,bunch
+38-931,ghod1238,http://concepticon.clld.org/parameters/322,инжир,fig
+38-5,ghod1238,http://concepticon.clld.org/parameters/920,кІикІи,grape
+38-660,ghod1238,http://concepticon.clld.org/parameters/191,цІулакъа,nut
+38-889,ghod1238,http://concepticon.clld.org/parameters/1484,лъирлълъи,oil
+38-988,ghod1238,http://concepticon.clld.org/parameters/1154,зайтун,olive
+38-490,ghod1238,http://concepticon.clld.org/parameters/1274,ццаᴴйи,salt
+38-519,ghod1238,http://concepticon.clld.org/parameters/323,бегІенлъи,"grease, fat"
+38-803,ghod1238,http://concepticon.clld.org/parameters/323,шаму,"grease, fat"
+38-25,ghod1238,http://concepticon.clld.org/parameters/1385,пурччу,pepper
+38-1099,ghod1238,http://concepticon.clld.org/parameters/1385,пуччу,pepper
+38-461,ghod1238,http://concepticon.clld.org/parameters/919,букьа пурччу,chili pepper
+38-1225,ghod1238,http://concepticon.clld.org/parameters/942,гьунцци,honey
+38-576,ghod1238,http://concepticon.clld.org/parameters/862,чакар,sugar
+38-1164,ghod1238,http://concepticon.clld.org/parameters/635,щиᴴву,milk (noun)
+38-725,ghod1238,http://concepticon.clld.org/parameters/93,ккʼанни,milk (vb)
+38-385,ghod1238,http://concepticon.clld.org/parameters/1569,къвачара,cheese
+38-894,ghod1238,http://concepticon.clld.org/parameters/1245,кІвацІа,butter
+38-1024,ghod1238,http://concepticon.clld.org/parameters/731,—,"beverage, drink"
+38-1175,ghod1238,http://concepticon.clld.org/parameters/941,мед,mead
+38-554,ghod1238,http://concepticon.clld.org/parameters/1639,пиво,beer
+38-986,ghod1238,http://concepticon.clld.org/parameters/1524,чагъир,wine
+38-553,ghod1238,http://concepticon.clld.org/parameters/404,чІагІа,fermented drink
+38-361,ghod1238,http://concepticon.clld.org/parameters/744,гъаргъану,egg
+38-716,ghod1238,http://concepticon.clld.org/parameters/1556,ччакку гъаргъану,egg yolk
+38-167,ghod1238,http://concepticon.clld.org/parameters/158,изу рали,put on (clothes)
+38-305,ghod1238,http://concepticon.clld.org/parameters/1895,изу,"clothing, clothes"
+38-386,ghod1238,http://concepticon.clld.org/parameters/881,изу баккватабу адами,tailor
+38-481,ghod1238,http://concepticon.clld.org/parameters/1616,ххами,cloth
+38-312,ghod1238,http://concepticon.clld.org/parameters/964,муху,wool
+38-1063,ghod1238,http://concepticon.clld.org/parameters/916,хІебети,"linen, flax"
+38-291,ghod1238,http://concepticon.clld.org/parameters/1850,пампа,cotton
+38-462,ghod1238,http://concepticon.clld.org/parameters/1641,дарай,silk
+38-649,ghod1238,http://concepticon.clld.org/parameters/1641,гьатІиласи,silk
+38-845,ghod1238,http://concepticon.clld.org/parameters/1641,чиллей,silk
+38-535,ghod1238,http://concepticon.clld.org/parameters/325,буртина,felt
+38-1144,ghod1238,http://concepticon.clld.org/parameters/580,баса,fur
+38-312,ghod1238,http://concepticon.clld.org/parameters/580,муху,fur
+38-949,ghod1238,http://concepticon.clld.org/parameters/629,буки,leather
+38-666,ghod1238,http://concepticon.clld.org/parameters/629,хъали,leather
+38-1048,ghod1238,http://concepticon.clld.org/parameters/121,ххарди,spin
+38-695,ghod1238,http://concepticon.clld.org/parameters/277,мингва,spindle
+38-146,ghod1238,http://concepticon.clld.org/parameters/133,балІи,weave
+38-895,ghod1238,http://concepticon.clld.org/parameters/133,бессиди,weave
+38-1224,ghod1238,http://concepticon.clld.org/parameters/1787,ххалатІур,loom
+38-1039,ghod1238,http://concepticon.clld.org/parameters/1457,баккуᴴ,sew
+38-1094,ghod1238,http://concepticon.clld.org/parameters/1382,бежун,needle
+38-1100,ghod1238,http://concepticon.clld.org/parameters/278,гьими,awl
+38-834,ghod1238,http://concepticon.clld.org/parameters/1161,рекун,thread
+38-278,ghod1238,http://concepticon.clld.org/parameters/157,нажбар,dye
+38-307,ghod1238,http://concepticon.clld.org/parameters/326,палащ,cloak
+38-1024,ghod1238,http://concepticon.clld.org/parameters/327,—,poncho
+38-1286,ghod1238,http://concepticon.clld.org/parameters/474,йашикІабелІи хелу,woman's dress
+38-160,ghod1238,http://concepticon.clld.org/parameters/603,палту,coat
+38-1129,ghod1238,http://concepticon.clld.org/parameters/1622,хелу,shirt
+38-515,ghod1238,http://concepticon.clld.org/parameters/2012,хелулІи гʼару,collar
+38-976,ghod1238,http://concepticon.clld.org/parameters/1600,йупка,skirt
+38-976,ghod1238,http://concepticon.clld.org/parameters/328,йупка,grass-skirt
+38-1279,ghod1238,http://concepticon.clld.org/parameters/809,барта,trousers
+38-953,ghod1238,http://concepticon.clld.org/parameters/329,таххала,"stocking, sock"
+38-119,ghod1238,http://concepticon.clld.org/parameters/1381,насси,shoe
+38-573,ghod1238,http://concepticon.clld.org/parameters/585,патинкʼа,boot
+38-977,ghod1238,http://concepticon.clld.org/parameters/875,нассӣлІи устар,"shoemaker, cobbler"
+38-1118,ghod1238,http://concepticon.clld.org/parameters/2130,тІатІа,"hat, cap"
+38-1250,ghod1238,http://concepticon.clld.org/parameters/772,къвали,"belt, girdle"
+38-289,ghod1238,http://concepticon.clld.org/parameters/867,квалъала,glove
+38-744,ghod1238,http://concepticon.clld.org/parameters/1151,пардав,veil
+38-1212,ghod1238,http://concepticon.clld.org/parameters/1851,чанта,pocket
+38-578,ghod1238,http://concepticon.clld.org/parameters/757,маргъал,button
+38-927,ghod1238,http://concepticon.clld.org/parameters/64,чачан бежун,pin
+38-769,ghod1238,http://concepticon.clld.org/parameters/917,накъиш,"ornament, adornment"
+38-776,ghod1238,http://concepticon.clld.org/parameters/1029,ххира анча,jewel
+38-1318,ghod1238,http://concepticon.clld.org/parameters/1374,сетІибещи,ring (for finger)
+38-647,ghod1238,http://concepticon.clld.org/parameters/1754,кваркъин,bracelet
+38-380,ghod1238,http://concepticon.clld.org/parameters/1961,миххе,necklace
+38-983,ghod1238,http://concepticon.clld.org/parameters/1860,миххи,bead
+38-306,ghod1238,http://concepticon.clld.org/parameters/770,кІиликІи,earring
+38-155,ghod1238,http://concepticon.clld.org/parameters/330,микъа чІаннатабу даᴴйи,"headband, headdress"
+38-501,ghod1238,http://concepticon.clld.org/parameters/68,накъищи,tattoo
+38-473,ghod1238,http://concepticon.clld.org/parameters/332,махъа гьарчІалатабу гʼалухъу,"handkerchief, rag"
+38-673,ghod1238,http://concepticon.clld.org/parameters/1021,ракьичал,towel
+38-903,ghod1238,http://concepticon.clld.org/parameters/1475,гьакьу,comb
+38-903,ghod1238,http://concepticon.clld.org/parameters/1821,гьакьу,brush
+38-619,ghod1238,http://concepticon.clld.org/parameters/333,бакьи,braid
+38-1025,ghod1238,http://concepticon.clld.org/parameters/151,далак,razor
+38-299,ghod1238,http://concepticon.clld.org/parameters/1926,мази,ointment
+38-779,ghod1238,http://concepticon.clld.org/parameters/788,сапун,soap
+38-1041,ghod1238,http://concepticon.clld.org/parameters/1171,матІу,mirror
+38-90,ghod1238,http://concepticon.clld.org/parameters/1099,гІумру иᴴгьи,"dwell, live"
+38-878,ghod1238,http://concepticon.clld.org/parameters/1252,гьанкъу,house
+38-1095,ghod1238,http://concepticon.clld.org/parameters/1678,къощи,hut
+38-878,ghod1238,http://concepticon.clld.org/parameters/403,гьанкъу,garden-house
+38-990,ghod1238,http://concepticon.clld.org/parameters/1316,чатир,tent
+38-990,ghod1238,http://concepticon.clld.org/parameters/736,чатир,"yard, court"
+38-1220,ghod1238,http://concepticon.clld.org/parameters/408,кунтІукІʼабелІи гьанкъу,men's house
+38-434,ghod1238,http://concepticon.clld.org/parameters/334,манза иᴴгьатабу гьанкъу,cookhouse
+38-345,ghod1238,http://concepticon.clld.org/parameters/335,кулуб,meeting house
+38-878,ghod1238,http://concepticon.clld.org/parameters/1450,гьанкъу,room
+38-31,ghod1238,http://concepticon.clld.org/parameters/1567,гьинццу,"door, gate"
+38-107,ghod1238,http://concepticon.clld.org/parameters/1567,кʼаву,"door, gate"
+38-6,ghod1238,http://concepticon.clld.org/parameters/80,чечи,"doorpost, jamb"
+38-590,ghod1238,http://concepticon.clld.org/parameters/1596,рекІубе,lock (noun)
+38-392,ghod1238,http://concepticon.clld.org/parameters/1596,рекІул,lock (noun)
+38-6,ghod1238,http://concepticon.clld.org/parameters/1012,чечи,"latch, door-bolt"
+38-392,ghod1238,http://concepticon.clld.org/parameters/1472,рекІул,key
+38-171,ghod1238,http://concepticon.clld.org/parameters/1375,гьингур,window
+38-702,ghod1238,http://concepticon.clld.org/parameters/1632,чІабар,floor
+38-111,ghod1238,http://concepticon.clld.org/parameters/933,къуᴴйи,wall
+38-689,ghod1238,http://concepticon.clld.org/parameters/185,тавухан,fireplace
+38-526,ghod1238,http://concepticon.clld.org/parameters/859,печи,stove
+38-327,ghod1238,http://concepticon.clld.org/parameters/1305,мащу,chimney
+38-1077,ghod1238,http://concepticon.clld.org/parameters/1464,милъур(у),ladder
+38-190,ghod1238,http://concepticon.clld.org/parameters/1663,тахи,bed
+38-402,ghod1238,http://concepticon.clld.org/parameters/1663,кʼаравати,bed
+38-230,ghod1238,http://concepticon.clld.org/parameters/1044,таргъва,pillow
+38-926,ghod1238,http://concepticon.clld.org/parameters/806,иргъван,blanket
+38-384,ghod1238,http://concepticon.clld.org/parameters/1476,къоштта,chair
+38-1032,ghod1238,http://concepticon.clld.org/parameters/1775,устур,table
+38-178,ghod1238,http://concepticon.clld.org/parameters/2131,чирахъи,"lamp, torch"
+38-1090,ghod1238,http://concepticon.clld.org/parameters/1273,хІедул чирахъи,candle
+38-712,ghod1238,http://concepticon.clld.org/parameters/1273,щирулІи чирахъи,candle
+38-618,ghod1238,http://concepticon.clld.org/parameters/745,рагьал,shelf
+38-206,ghod1238,http://concepticon.clld.org/parameters/205,чорчо,trough
+38-82,ghod1238,http://concepticon.clld.org/parameters/205,гьиккуба,trough
+38-1004,ghod1238,http://concepticon.clld.org/parameters/769,ламур,roof
+38-1248,ghod1238,http://concepticon.clld.org/parameters/280,ахиму,ridgepole
+38-861,ghod1238,http://concepticon.clld.org/parameters/279,хвахвабалІи ламур,thatch
+38-1248,ghod1238,http://concepticon.clld.org/parameters/1132,ахиму,beam
+38-416,ghod1238,http://concepticon.clld.org/parameters/829,руша,rafter
+38-1194,ghod1238,http://concepticon.clld.org/parameters/281,гьума,"post, pole"
+38-29,ghod1238,http://concepticon.clld.org/parameters/1227,ччейи,board
+38-329,ghod1238,http://concepticon.clld.org/parameters/876,кІʼамур,arch
+38-217,ghod1238,http://concepticon.clld.org/parameters/877,къуᴴйи иᴴгьатабу адами,mason
+38-109,ghod1238,http://concepticon.clld.org/parameters/877,анчилІи устар,mason
+38-460,ghod1238,http://concepticon.clld.org/parameters/1006,кирпичи,brick
+38-1095,ghod1238,http://concepticon.clld.org/parameters/901,къощи,adobe
+38-367,ghod1238,http://concepticon.clld.org/parameters/1731,гачи,mortar
+38-1260,ghod1238,http://concepticon.clld.org/parameters/979,фермер,farmer
+38-389,ghod1238,http://concepticon.clld.org/parameters/212,хури,field (for cultivation)
+38-247,ghod1238,http://concepticon.clld.org/parameters/586,ахи,garden
+38-1272,ghod1238,http://concepticon.clld.org/parameters/1541,хури иᴴгьа бихани,"cultivate, till"
+38-158,ghod1238,http://concepticon.clld.org/parameters/1690,чали,fence
+38-1320,ghod1238,http://concepticon.clld.org/parameters/2002,рехъин,ditch
+38-176,ghod1238,http://concepticon.clld.org/parameters/2002,хандакъи,ditch
+38-1320,ghod1238,http://concepticon.clld.org/parameters/1794,рехъин,furrow
+38-891,ghod1238,http://concepticon.clld.org/parameters/1921,Боъоли,plow
+38-58,ghod1238,http://concepticon.clld.org/parameters/1418,хварди,dig
+38-1214,ghod1238,http://concepticon.clld.org/parameters/1418,тІурди,dig
+38-1130,ghod1238,http://concepticon.clld.org/parameters/1418,тІуртІуди,dig
+38-450,ghod1238,http://concepticon.clld.org/parameters/1176,реххин,spade
+38-1315,ghod1238,http://concepticon.clld.org/parameters/1901,перччун,shovel
+38-1050,ghod1238,http://concepticon.clld.org/parameters/284,гʼаза,hoe
+38-1103,ghod1238,http://concepticon.clld.org/parameters/337,хвара,fork
+38-1198,ghod1238,http://concepticon.clld.org/parameters/337,кІванкьа,fork
+38-325,ghod1238,http://concepticon.clld.org/parameters/338,ххадуру,rake
+38-1242,ghod1238,http://concepticon.clld.org/parameters/748,шанши,sow
+38-601,ghod1238,http://concepticon.clld.org/parameters/748,бекьи,sow
+38-552,ghod1238,http://concepticon.clld.org/parameters/714,шуни,seed
+38-587,ghod1238,http://concepticon.clld.org/parameters/190,хханни,"mow, reap"
+38-714,ghod1238,http://concepticon.clld.org/parameters/285,лали бухи,thresh
+38-510,ghod1238,http://concepticon.clld.org/parameters/2132,хъантІуро,"sickle, scythe"
+38-31,ghod1238,http://concepticon.clld.org/parameters/223,гьинццу,threshing-floor
+38-1000,ghod1238,http://concepticon.clld.org/parameters/611,бачІин,"crop, harvest"
+38-980,ghod1238,http://concepticon.clld.org/parameters/605,миха,"grain (barley, oats etc)"
+38-262,ghod1238,http://concepticon.clld.org/parameters/605,мугьи,"grain (barley, oats etc)"
+38-179,ghod1238,http://concepticon.clld.org/parameters/1077,къеру,wheat
+38-1227,ghod1238,http://concepticon.clld.org/parameters/932,бечІин,barley
+38-1284,ghod1238,http://concepticon.clld.org/parameters/60,ниха,oats
+38-1310,ghod1238,http://concepticon.clld.org/parameters/23,бугІа,rye
+38-261,ghod1238,http://concepticon.clld.org/parameters/23,муа,rye
+38-188,ghod1238,http://concepticon.clld.org/parameters/506,хІежинкІʼа,"maize, corn"
+38-1321,ghod1238,http://concepticon.clld.org/parameters/926,пуло,rice
+38-444,ghod1238,http://concepticon.clld.org/parameters/606,беси,grass
+38-198,ghod1238,http://concepticon.clld.org/parameters/342,гьунчІа,hay
+38-444,ghod1238,http://concepticon.clld.org/parameters/653,беси,plant (noun)
+38-390,ghod1238,http://concepticon.clld.org/parameters/1486,бижани,plant (vb)
+38-42,ghod1238,http://concepticon.clld.org/parameters/670,гьикьим,root
+38-324,ghod1238,http://concepticon.clld.org/parameters/1531,гьала,branch
+38-658,ghod1238,http://concepticon.clld.org/parameters/628,халъаб,leaf
+38-818,ghod1238,http://concepticon.clld.org/parameters/239,гигим,flower
+38-416,ghod1238,http://concepticon.clld.org/parameters/906,руша,tree
+38-742,ghod1238,http://concepticon.clld.org/parameters/644,бечІуха руша,oak
+38-95,ghod1238,http://concepticon.clld.org/parameters/1950,чинари,beech
+38-258,ghod1238,http://concepticon.clld.org/parameters/1855,бехуй,birch
+38-1292,ghod1238,http://concepticon.clld.org/parameters/1740,кваᴴйи,pine
+38-1292,ghod1238,http://concepticon.clld.org/parameters/1915,кваᴴйи,fir
+38-1024,ghod1238,http://concepticon.clld.org/parameters/968,—,acorn
+38-347,ghod1238,http://concepticon.clld.org/parameters/343,чечилʼ,vine
+38-27,ghod1238,http://concepticon.clld.org/parameters/343,гъапу,vine
+38-9,ghod1238,http://concepticon.clld.org/parameters/974,тамаку,tobacco
+38-812,ghod1238,http://concepticon.clld.org/parameters/1689,тамакулІи ссури,smoke (tobacco)
+38-1203,ghod1238,http://concepticon.clld.org/parameters/1124,муштукІу,pipe
+38-561,ghod1238,http://concepticon.clld.org/parameters/241,хІанкІвара,tree stump
+38-85,ghod1238,http://concepticon.clld.org/parameters/344,рушилІи чІума,tree trunk
+38-486,ghod1238,http://concepticon.clld.org/parameters/409,бикьидибу гьала,forked branch
+38-666,ghod1238,http://concepticon.clld.org/parameters/1204,хъали,bark
+38-166,ghod1238,http://concepticon.clld.org/parameters/345,лълъени,sap
+38-1086,ghod1238,http://concepticon.clld.org/parameters/1181,пальма,palm tree
+38-981,ghod1238,http://concepticon.clld.org/parameters/970,кокос,coconut
+38-733,ghod1238,http://concepticon.clld.org/parameters/868,бананилІи руша,banana tree
+38-19,ghod1238,http://concepticon.clld.org/parameters/1126,цитрусилІи перхъи,citrus fruit
+38-92,ghod1238,http://concepticon.clld.org/parameters/346,инжирилІи руша,banyan
+38-559,ghod1238,http://concepticon.clld.org/parameters/159,батат,sweet potato
+38-1024,ghod1238,http://concepticon.clld.org/parameters/925,—,"tapioca, manioc, cassava"
+38-1024,ghod1238,http://concepticon.clld.org/parameters/410,—,yam
+38-737,ghod1238,http://concepticon.clld.org/parameters/411,хъабахъи,gourd
+38-737,ghod1238,http://concepticon.clld.org/parameters/864,хъабахъи,"pumpkin, squash"
+38-202,ghod1238,http://concepticon.clld.org/parameters/1927,бамбук,bamboo
+38-1024,ghod1238,http://concepticon.clld.org/parameters/348,—,fish poison (root)
+38-1024,ghod1238,http://concepticon.clld.org/parameters/146,—,sugar cane
+38-896,ghod1238,http://concepticon.clld.org/parameters/33,белъира,nettle
+38-1121,ghod1238,http://concepticon.clld.org/parameters/641,гІурдахІани,mushroom
+38-182,ghod1238,http://concepticon.clld.org/parameters/641,щайтІунлІи тІатІа,mushroom
+38-1254,ghod1238,http://concepticon.clld.org/parameters/813,иᴴгьи,"do, make"
+38-312,ghod1238,http://concepticon.clld.org/parameters/984,муху,work
+38-503,ghod1238,http://concepticon.clld.org/parameters/2004,кІичІани,bend
+38-494,ghod1238,http://concepticon.clld.org/parameters/1470,балъи,fold
+38-4,ghod1238,http://concepticon.clld.org/parameters/1470,бас̄иᴴ,fold
+38-796,ghod1238,http://concepticon.clld.org/parameters/1470,бакъали,fold
+38-154,ghod1238,http://concepticon.clld.org/parameters/1470,башали,fold
+38-1155,ghod1238,http://concepticon.clld.org/parameters/1917,чІан̄и,"tie, bind"
+38-1287,ghod1238,http://concepticon.clld.org/parameters/352,начи,untie
+38-108,ghod1238,http://concepticon.clld.org/parameters/352,бешттали,untie
+38-84,ghod1238,http://concepticon.clld.org/parameters/352,гьамали,untie
+38-917,ghod1238,http://concepticon.clld.org/parameters/1627,рахасси,chain
+38-537,ghod1238,http://concepticon.clld.org/parameters/1218,чІали,"rope, cord"
+38-937,ghod1238,http://concepticon.clld.org/parameters/760,кІʼарццу,knot (noun)
+38-790,ghod1238,http://concepticon.clld.org/parameters/2133,бугъи,"strike (hit, beat)"
+38-379,ghod1238,http://concepticon.clld.org/parameters/1432,букъи,cut
+38-248,ghod1238,http://concepticon.clld.org/parameters/354,гьункІиди зуриᴴ,pound with fist
+38-840,ghod1238,http://concepticon.clld.org/parameters/355,микІиси иᴴгьи,cut down
+38-379,ghod1238,http://concepticon.clld.org/parameters/155,букъи,"chop, hew"
+38-193,ghod1238,http://concepticon.clld.org/parameters/1434,къиннали,stab
+38-1217,ghod1238,http://concepticon.clld.org/parameters/1352,бесун,knife
+38-1256,ghod1238,http://concepticon.clld.org/parameters/677,куртІа,ax
+38-55,ghod1238,http://concepticon.clld.org/parameters/356,кІванкьибу,"scissors, shears"
+38-531,ghod1238,http://concepticon.clld.org/parameters/290,эжун,adze
+38-142,ghod1238,http://concepticon.clld.org/parameters/680,бахъани,break
+38-1149,ghod1238,http://concepticon.clld.org/parameters/588,бахъаму,broken
+38-802,ghod1238,http://concepticon.clld.org/parameters/1437,кьватІидали,split
+38-362,ghod1238,http://concepticon.clld.org/parameters/1437,хъабали,split
+38-362,ghod1238,http://concepticon.clld.org/parameters/1735,хъабали,tear
+38-81,ghod1238,http://concepticon.clld.org/parameters/291,хъали бухи,"flay, skin"
+38-699,ghod1238,http://concepticon.clld.org/parameters/1449,гьарчІали,"rub, wipe"
+38-181,ghod1238,http://concepticon.clld.org/parameters/214,гʼанни,stretch
+38-181,ghod1238,http://concepticon.clld.org/parameters/1455,гʼанни,pull
+38-404,ghod1238,http://concepticon.clld.org/parameters/38,бецІали,spread out
+38-36,ghod1238,http://concepticon.clld.org/parameters/38,тІибитІали,spread out
+38-1262,ghod1238,http://concepticon.clld.org/parameters/357,ирххи,hang up
+38-605,ghod1238,http://concepticon.clld.org/parameters/1913,чІинтІали,press
+38-127,ghod1238,http://concepticon.clld.org/parameters/1414,ццурди,"squeeze, wring"
+38-1219,ghod1238,http://concepticon.clld.org/parameters/1487,тІинни,pour
+38-984,ghod1238,http://concepticon.clld.org/parameters/230,чанни,sweep
+38-765,ghod1238,http://concepticon.clld.org/parameters/1453,безиᴴ,wash
+38-750,ghod1238,http://concepticon.clld.org/parameters/245,квацІир,broom
+38-287,ghod1238,http://concepticon.clld.org/parameters/1361,къайи,tool
+38-560,ghod1238,http://concepticon.clld.org/parameters/1361,алат,tool
+38-850,ghod1238,http://concepticon.clld.org/parameters/1042,лъудалІи устар,carpenter
+38-740,ghod1238,http://concepticon.clld.org/parameters/1840,билъи,build
+38-1189,ghod1238,http://concepticon.clld.org/parameters/46,гъами,hollow out
+38-48,ghod1238,http://concepticon.clld.org/parameters/1501,багʼан,bore
+38-1281,ghod1238,http://concepticon.clld.org/parameters/1948,хъухъатІур,saw
+38-432,ghod1238,http://concepticon.clld.org/parameters/1481,квартІа,hammer
+38-54,ghod1238,http://concepticon.clld.org/parameters/502,гьанкІва,nail
+38-672,ghod1238,http://concepticon.clld.org/parameters/1001,ихун,"smith, blacksmith"
+38-809,ghod1238,http://concepticon.clld.org/parameters/1069,сину,glue
+38-1017,ghod1238,http://concepticon.clld.org/parameters/288,ихунди,forge
+38-94,ghod1238,http://concepticon.clld.org/parameters/1648,лабчи,anvil
+38-741,ghod1238,http://concepticon.clld.org/parameters/211,куци тІинни,cast (metals)
+38-757,ghod1238,http://concepticon.clld.org/parameters/1369,мисиди,gold
+38-943,ghod1238,http://concepticon.clld.org/parameters/759,арси,silver
+38-426,ghod1238,http://concepticon.clld.org/parameters/1825,пахьи,"copper, bronze"
+38-284,ghod1238,http://concepticon.clld.org/parameters/621,куби,iron
+38-232,ghod1238,http://concepticon.clld.org/parameters/627,тІухьи,lead (noun)
+38-304,ghod1238,http://concepticon.clld.org/parameters/358,гьацІа куби,"tin, tinplate"
+38-377,ghod1238,http://concepticon.clld.org/parameters/359,щагІилІи устар,potter
+38-741,ghod1238,http://concepticon.clld.org/parameters/289,куци тІинни,mold (clay etc)
+38-1200,ghod1238,http://concepticon.clld.org/parameters/1399,чарта,clay
+38-1041,ghod1238,http://concepticon.clld.org/parameters/604,матІу,glass
+38-895,ghod1238,http://concepticon.clld.org/parameters/1729,бессиди,"weave, plait"
+38-829,ghod1238,http://concepticon.clld.org/parameters/1729,гьищи,"weave, plait"
+38-353,ghod1238,http://concepticon.clld.org/parameters/1539,инча,basket
+38-859,ghod1238,http://concepticon.clld.org/parameters/195,сумало,mat
+38-805,ghod1238,http://concepticon.clld.org/parameters/292,тІансса,rug
+38-1215,ghod1238,http://concepticon.clld.org/parameters/293,сумкʼа,netbag
+38-168,ghod1238,http://concepticon.clld.org/parameters/1971,вентилйатор,fan (noun)
+38-516,ghod1238,http://concepticon.clld.org/parameters/360,сайилъали,fan (vb)
+38-379,ghod1238,http://concepticon.clld.org/parameters/228,букъи,carve
+38-1241,ghod1238,http://concepticon.clld.org/parameters/914,скульптор,sculptor
+38-173,ghod1238,http://concepticon.clld.org/parameters/1002,статуйа,statue
+38-1282,ghod1238,http://concepticon.clld.org/parameters/1979,азал,chisel
+38-622,ghod1238,http://concepticon.clld.org/parameters/1979,лІертІа,chisel
+38-278,ghod1238,http://concepticon.clld.org/parameters/647,нажбар,paint (noun)
+38-72,ghod1238,http://concepticon.clld.org/parameters/2001,ссурати бухи,paint (vb)
+38-415,ghod1238,http://concepticon.clld.org/parameters/2001,нажбаради,paint (vb)
+38-32,ghod1238,http://concepticon.clld.org/parameters/765,луллаби,move
+38-268,ghod1238,http://concepticon.clld.org/parameters/1588,ххарадали,turn over
+38-1285,ghod1238,http://concepticon.clld.org/parameters/1445,ххаради,turn around
+38-918,ghod1238,http://concepticon.clld.org/parameters/1113,чІанни,"wind, wrap"
+38-268,ghod1238,http://concepticon.clld.org/parameters/827,ххарадали,roll
+38-144,ghod1238,http://concepticon.clld.org/parameters/808,боали,drop (vb)
+38-58,ghod1238,http://concepticon.clld.org/parameters/808,хварди,drop (vb)
+38-245,ghod1238,http://concepticon.clld.org/parameters/808,тІурби,drop (vb)
+38-297,ghod1238,http://concepticon.clld.org/parameters/430,кьурани,twist
+38-636,ghod1238,http://concepticon.clld.org/parameters/568,бахиди,rise
+38-758,ghod1238,http://concepticon.clld.org/parameters/501,гьицІали,"raise, lift"
+38-961,ghod1238,http://concepticon.clld.org/parameters/1280,букки,fall
+38-1219,ghod1238,http://concepticon.clld.org/parameters/2253,тІинни,drip
+38-46,ghod1238,http://concepticon.clld.org/parameters/1456,лълъехъу,throw
+38-556,ghod1238,http://concepticon.clld.org/parameters/702,къакъура,catch (ball)
+38-1247,ghod1238,http://concepticon.clld.org/parameters/702,бикки,catch (ball)
+38-18,ghod1238,http://concepticon.clld.org/parameters/1909,лъурди,shake
+38-541,ghod1238,http://concepticon.clld.org/parameters/2003,чарчарилъи тІинни,flow
+38-440,ghod1238,http://concepticon.clld.org/parameters/2003,ххварди,flow
+38-542,ghod1238,http://concepticon.clld.org/parameters/1088,гъанкъи,sink
+38-352,ghod1238,http://concepticon.clld.org/parameters/1574,лъеначІу,float
+38-887,ghod1238,http://concepticon.clld.org/parameters/1439,хьварди,swim
+38-887,ghod1238,http://concepticon.clld.org/parameters/119,хьварди,dive
+38-755,ghod1238,http://concepticon.clld.org/parameters/365,чапидали,splash
+38-887,ghod1238,http://concepticon.clld.org/parameters/787,хьварди,sail (vb)
+38-574,ghod1238,http://concepticon.clld.org/parameters/1441,вурди,fly (vb)
+38-989,ghod1238,http://concepticon.clld.org/parameters/1441,бурди,fly (vb)
+38-170,ghod1238,http://concepticon.clld.org/parameters/175,пуди,blow
+38-762,ghod1238,http://concepticon.clld.org/parameters/96,лІурди,"creep, crawl"
+38-303,ghod1238,http://concepticon.clld.org/parameters/66,нукибечІу вукІи,kneel
+38-656,ghod1238,http://concepticon.clld.org/parameters/296,аччахъи вукІи,crouch
+38-1253,ghod1238,http://concepticon.clld.org/parameters/1324,ссурди,"slide, slip"
+38-159,ghod1238,http://concepticon.clld.org/parameters/1829,кІʼанцІи,"jump, leap"
+38-438,ghod1238,http://concepticon.clld.org/parameters/1135,хІунссиди,kick
+38-911,ghod1238,http://concepticon.clld.org/parameters/1879,кьиби,dance
+38-1120,ghod1238,http://concepticon.clld.org/parameters/1443,велълъи,walk
+38-995,ghod1238,http://concepticon.clld.org/parameters/1443,белІи,walk
+38-1236,ghod1238,http://concepticon.clld.org/parameters/1443,хьвади,walk
+38-708,ghod1238,http://concepticon.clld.org/parameters/366,рекъвалъи,limp
+38-933,ghod1238,http://concepticon.clld.org/parameters/1519,тІари,run
+38-57,ghod1238,http://concepticon.clld.org/parameters/695,вуни,go
+38-489,ghod1238,http://concepticon.clld.org/parameters/705,гьилахху вуни,go up
+38-1048,ghod1238,http://concepticon.clld.org/parameters/1102,ххарди,climb
+38-589,ghod1238,http://concepticon.clld.org/parameters/2014,гьикьихху вуни,go down
+38-41,ghod1238,http://concepticon.clld.org/parameters/1107,иссира ваи,go out
+38-1313,ghod1238,http://concepticon.clld.org/parameters/1446,ваи,come
+38-1066,ghod1238,http://concepticon.clld.org/parameters/581,ракъудара ваи,come back
+38-991,ghod1238,http://concepticon.clld.org/parameters/1752,цахава вуни (муни),"go away, depart"
+38-145,ghod1238,http://concepticon.clld.org/parameters/485,тІагІиᴴ,disappear
+38-1192,ghod1238,http://concepticon.clld.org/parameters/956,ччари,flee
+38-524,ghod1238,http://concepticon.clld.org/parameters/1085,вехутІу вулІи,follow
+38-64,ghod1238,http://concepticon.clld.org/parameters/1047,вехутІу мани,pursue
+38-1011,ghod1238,http://concepticon.clld.org/parameters/1047,бехутІу мани,pursue
+38-465,ghod1238,http://concepticon.clld.org/parameters/1387,вехутІу ваи,"reach, arrive"
+38-156,ghod1238,http://concepticon.clld.org/parameters/1778,исибела ваи,approach
+38-26,ghod1238,http://concepticon.clld.org/parameters/749,гьину ваи,enter
+38-1026,ghod1238,http://concepticon.clld.org/parameters/700,баччиди,carry (bear)
+38-391,ghod1238,http://concepticon.clld.org/parameters/412,лелибеди баччиди,carry-in-hand
+38-23,ghod1238,http://concepticon.clld.org/parameters/413,гъажичІула букІалу баччиди,carry-on-shoulder
+38-1311,ghod1238,http://concepticon.clld.org/parameters/414,микъала букІалу баччиди,carry-on-head
+38-1338,ghod1238,http://concepticon.clld.org/parameters/415,къвазукьи баччиди,carry-underarm
+38-449,ghod1238,http://concepticon.clld.org/parameters/692,баъали,bring
+38-487,ghod1238,http://concepticon.clld.org/parameters/1127,бештти,send
+38-449,ghod1238,http://concepticon.clld.org/parameters/43,баъали,lead (vb)
+38-717,ghod1238,http://concepticon.clld.org/parameters/741,машиначІула гьанкІу мани,drive
+38-265,ghod1238,http://concepticon.clld.org/parameters/367,ххваничІула гьанкІу мани,ride
+38-710,ghod1238,http://concepticon.clld.org/parameters/1452,биси,"push, shove"
+38-1179,ghod1238,http://concepticon.clld.org/parameters/1452,тункиди,"push, shove"
+38-724,ghod1238,http://concepticon.clld.org/parameters/667,микъи,road
+38-215,ghod1238,http://concepticon.clld.org/parameters/2252,ччидирмикъи,path
+38-431,ghod1238,http://concepticon.clld.org/parameters/1011,кьиру,bridge
+38-987,ghod1238,http://concepticon.clld.org/parameters/122,гьоко,"carriage, wagon, cart"
+38-684,ghod1238,http://concepticon.clld.org/parameters/710,гургущил,wheel
+38-996,ghod1238,http://concepticon.clld.org/parameters/1769,ссами,axle
+38-1,ghod1238,http://concepticon.clld.org/parameters/14,рукьи,yoke
+38-134,ghod1238,http://concepticon.clld.org/parameters/740,гʼама,ship
+38-401,ghod1238,http://concepticon.clld.org/parameters/1844,лодка,boat
+38-401,ghod1238,http://concepticon.clld.org/parameters/1970,лодка,canoe
+38-401,ghod1238,http://concepticon.clld.org/parameters/416,лодка,outrigger
+38-597,ghod1238,http://concepticon.clld.org/parameters/1664,плот,raft
+38-450,ghod1238,http://concepticon.clld.org/parameters/108,реххин,oar
+38-450,ghod1238,http://concepticon.clld.org/parameters/234,реххин,paddle (noun)
+38-860,ghod1238,http://concepticon.clld.org/parameters/1849,хьарди,row (vb)
+38-746,ghod1238,http://concepticon.clld.org/parameters/108,рул,rudder
+38-1091,ghod1238,http://concepticon.clld.org/parameters/184,мачта,mast
+38-1168,ghod1238,http://concepticon.clld.org/parameters/786,парус,sail (noun)
+38-546,ghod1238,http://concepticon.clld.org/parameters/1870,йакорь,anchor
+38-218,ghod1238,http://concepticon.clld.org/parameters/610,порт,"harbor, port"
+38-1171,ghod1238,http://concepticon.clld.org/parameters/1922,рештІиᴴ,land (vb)
+38-1150,ghod1238,http://concepticon.clld.org/parameters/773,букІи,have
+38-1150,ghod1238,http://concepticon.clld.org/parameters/684,букІи,"own, possess"
+38-1283,ghod1238,http://concepticon.clld.org/parameters/1749,бахи,take
+38-322,ghod1238,http://concepticon.clld.org/parameters/2021,бакки,"seize, grasp"
+38-1247,ghod1238,http://concepticon.clld.org/parameters/2021,бикки,"seize, grasp"
+38-728,ghod1238,http://concepticon.clld.org/parameters/2021,хъапиди,"seize, grasp"
+38-1247,ghod1238,http://concepticon.clld.org/parameters/1448,бикки,hold
+38-105,ghod1238,http://concepticon.clld.org/parameters/694,бацІиᴴ,"get, obtain"
+38-283,ghod1238,http://concepticon.clld.org/parameters/1477,цІинни,"keep, retain"
+38-162,ghod1238,http://concepticon.clld.org/parameters/738,даᴴйи,thing
+38-520,ghod1238,http://concepticon.clld.org/parameters/1447,икки,give
+38-1309,ghod1238,http://concepticon.clld.org/parameters/85,цахаба икки,give back
+38-372,ghod1238,http://concepticon.clld.org/parameters/85,бишали,give back
+38-283,ghod1238,http://concepticon.clld.org/parameters/1997,цІинни,"preserve, look after"
+38-972,ghod1238,http://concepticon.clld.org/parameters/2008,хвассар иᴴгьи,"save, rescue"
+38-575,ghod1238,http://concepticon.clld.org/parameters/681,биххали,destroy
+38-437,ghod1238,http://concepticon.clld.org/parameters/44,зарал иᴴгьи,"harm, injure, damage"
+38-478,ghod1238,http://concepticon.clld.org/parameters/1468,цІеххиᴴ,"seek, look for"
+38-544,ghod1238,http://concepticon.clld.org/parameters/719,бисани,find
+38-468,ghod1238,http://concepticon.clld.org/parameters/1660,битали,lose
+38-487,ghod1238,http://concepticon.clld.org/parameters/1095,бештти,"release, let go"
+38-816,ghod1238,http://concepticon.clld.org/parameters/1095,вештти,"release, let go"
+38-654,ghod1238,http://concepticon.clld.org/parameters/1095,йештти,"release, let go"
+38-943,ghod1238,http://concepticon.clld.org/parameters/1559,арси,money
+38-1119,ghod1238,http://concepticon.clld.org/parameters/1867,кебеки,coin
+38-236,ghod1238,http://concepticon.clld.org/parameters/712,вочедав,rich
+38-143,ghod1238,http://concepticon.clld.org/parameters/712,бечедаб,rich
+38-1147,ghod1238,http://concepticon.clld.org/parameters/1674,мискинав,poor
+38-600,ghod1238,http://concepticon.clld.org/parameters/1934,хахача,beggar
+38-862,ghod1238,http://concepticon.clld.org/parameters/1774,къарумав,"avaricious, stingy"
+38-448,ghod1238,http://concepticon.clld.org/parameters/582,гьила иᴴгьу икки,lend
+38-433,ghod1238,http://concepticon.clld.org/parameters/1823,налъи иᴴгьи,borrow
+38-448,ghod1238,http://concepticon.clld.org/parameters/369,гьила иᴴгьу икки,owe
+38-924,ghod1238,http://concepticon.clld.org/parameters/1914,налъи,debt
+38-240,ghod1238,http://concepticon.clld.org/parameters/1914,парзи,debt
+38-520,ghod1238,http://concepticon.clld.org/parameters/718,икки,pay (vb)
+38-71,ghod1238,http://concepticon.clld.org/parameters/1081,хІисаб,"account, reckoning"
+38-1153,ghod1238,http://concepticon.clld.org/parameters/873,налогу,"tax, tribute"
+38-828,ghod1238,http://concepticon.clld.org/parameters/873,магъалу,"tax, tribute"
+38-1283,ghod1238,http://concepticon.clld.org/parameters/856,бахи,hire
+38-880,ghod1238,http://concepticon.clld.org/parameters/1122,харжи,wages
+38-904,ghod1238,http://concepticon.clld.org/parameters/733,арси иᴴгьи,earn
+38-1283,ghod1238,http://concepticon.clld.org/parameters/1869,бахи,buy
+38-255,ghod1238,http://concepticon.clld.org/parameters/1571,бичиᴴ,sell
+38-718,ghod1238,http://concepticon.clld.org/parameters/2135,хисин,"trade, barter"
+38-1299,ghod1238,http://concepticon.clld.org/parameters/1082,базарган,merchant
+38-792,ghod1238,http://concepticon.clld.org/parameters/633,базар,market (place)
+38-201,ghod1238,http://concepticon.clld.org/parameters/752,тукен,"store, shop"
+38-76,ghod1238,http://concepticon.clld.org/parameters/657,багьа,price
+38-1306,ghod1238,http://concepticon.clld.org/parameters/1426,ххира,"dear (costly, expensive)"
+38-919,ghod1238,http://concepticon.clld.org/parameters/1887,учузу,cheap
+38-1046,ghod1238,http://concepticon.clld.org/parameters/884,бикьиди,share (distribute)
+38-181,ghod1238,http://concepticon.clld.org/parameters/1098,гʼанни,weigh
+38-871,ghod1238,http://concepticon.clld.org/parameters/1685,эхха,after
+38-264,ghod1238,http://concepticon.clld.org/parameters/723,ракъудара,behind
+38-626,ghod1238,http://concepticon.clld.org/parameters/1816,исибала,beside
+38-421,ghod1238,http://concepticon.clld.org/parameters/1326,гьикьи,"down, below"
+38-1109,ghod1238,http://concepticon.clld.org/parameters/1882,ссеба гьолълъичІу,before
+38-655,ghod1238,http://concepticon.clld.org/parameters/1019,ссеба,front
+38-234,ghod1238,http://concepticon.clld.org/parameters/1606,гьину,"inside, in"
+38-960,ghod1238,http://concepticon.clld.org/parameters/762,иссира,outside
+38-421,ghod1238,http://concepticon.clld.org/parameters/1485,гьикьи,under
+38-921,ghod1238,http://concepticon.clld.org/parameters/1591,гьилʼа,"up, above"
+38-436,ghod1238,http://concepticon.clld.org/parameters/723,муса,place
+38-1187,ghod1238,http://concepticon.clld.org/parameters/998,букІали,put
+38-656,ghod1238,http://concepticon.clld.org/parameters/1416,аччахъи вукІи,sit
+38-899,ghod1238,http://concepticon.clld.org/parameters/215,вораххи,lie down
+38-604,ghod1238,http://concepticon.clld.org/parameters/215,йераххи,lie down
+38-231,ghod1238,http://concepticon.clld.org/parameters/1442,гьирччи,stand
+38-453,ghod1238,http://concepticon.clld.org/parameters/1442,гьиччубигъи,stand
+38-1327,ghod1238,http://concepticon.clld.org/parameters/987,вукІи,"remain, stay"
+38-214,ghod1238,http://concepticon.clld.org/parameters/838,гьикьи буххаму даᴴйи,"remains, left overs"
+38-372,ghod1238,http://concepticon.clld.org/parameters/7,бишали,"collect, gather"
+38-372,ghod1238,http://concepticon.clld.org/parameters/371,бишали,pick up
+38-758,ghod1238,http://concepticon.clld.org/parameters/371,гьицІали,pick up
+38-565,ghod1238,http://concepticon.clld.org/parameters/1576,данди иᴴгьи,pile up
+38-246,ghod1238,http://concepticon.clld.org/parameters/1743,сану гьабажали,"join, unite"
+38-892,ghod1238,http://concepticon.clld.org/parameters/1359,батІа иᴴгьи,separate
+38-1046,ghod1238,http://concepticon.clld.org/parameters/1119,бикьиди,divide
+38-1317,ghod1238,http://concepticon.clld.org/parameters/1156,хваби,open
+38-1022,ghod1238,http://concepticon.clld.org/parameters/1046,гьишали,"shut, close"
+38-273,ghod1238,http://concepticon.clld.org/parameters/761,аркъуй,cover
+38-1003,ghod1238,http://concepticon.clld.org/parameters/761,тІами,cover
+38-593,ghod1238,http://concepticon.clld.org/parameters/602,бакъащали,"hide, conceal"
+38-458,ghod1238,http://concepticon.clld.org/parameters/1265,гьицІи,high
+38-1288,ghod1238,http://concepticon.clld.org/parameters/721,чІабтІи,low
+38-1037,ghod1238,http://concepticon.clld.org/parameters/1753,гьицІилъир макІва,top
+38-285,ghod1238,http://concepticon.clld.org/parameters/1753,бакʼа,top
+38-28,ghod1238,http://concepticon.clld.org/parameters/690,гьинлу,bottom
+38-968,ghod1238,http://concepticon.clld.org/parameters/742,ахир,end
+38-569,ghod1238,http://concepticon.clld.org/parameters/742,булІир,end
+38-175,ghod1238,http://concepticon.clld.org/parameters/372,бакʼа багьараб,pointed
+38-285,ghod1238,http://concepticon.clld.org/parameters/863,бакʼа,edge
+38-570,ghod1238,http://concepticon.clld.org/parameters/682,рахъи,side
+38-971,ghod1238,http://concepticon.clld.org/parameters/1093,бакьуссу муса,"middle, center"
+38-427,ghod1238,http://concepticon.clld.org/parameters/1019,икваму рахъи,right (side)
+38-642,ghod1238,http://concepticon.clld.org/parameters/244,квачІикъил рахъи,left (side)
+38-626,ghod1238,http://concepticon.clld.org/parameters/1942,исибала,near (adv)
+38-551,ghod1238,http://concepticon.clld.org/parameters/1406,бекьута,far (adv)
+38-1211,ghod1238,http://concepticon.clld.org/parameters/1877,машрикъ,east
+38-1013,ghod1238,http://concepticon.clld.org/parameters/1817,магъриб,west
+38-1267,ghod1238,http://concepticon.clld.org/parameters/1598,север,north
+38-767,ghod1238,http://concepticon.clld.org/parameters/1595,къирпа,south
+38-739,ghod1238,http://concepticon.clld.org/parameters/479,бижиᴴ,grow
+38-1081,ghod1238,http://concepticon.clld.org/parameters/1506,басиᴴ,measure
+38-1024,ghod1238,http://concepticon.clld.org/parameters/81,—,"span, fathom"
+38-1117,ghod1238,http://concepticon.clld.org/parameters/1202,бечІуха,"large, big"
+38-784,ghod1238,http://concepticon.clld.org/parameters/1246,микІиси,"small, little"
+38-117,ghod1238,http://concepticon.clld.org/parameters/1203,беххила,long
+38-458,ghod1238,http://concepticon.clld.org/parameters/711,гьицІи,tall
+38-1323,ghod1238,http://concepticon.clld.org/parameters/1645,бачикІи,short
+38-743,ghod1238,http://concepticon.clld.org/parameters/1243,леми,"wide, broad"
+38-128,ghod1238,http://concepticon.clld.org/parameters/1267,къвара,narrow
+38-1035,ghod1238,http://concepticon.clld.org/parameters/1244,биши,thick (in dimension)
+38-263,ghod1238,http://concepticon.clld.org/parameters/1400,беллараб,thin (in dimension)
+38-164,ghod1238,http://concepticon.clld.org/parameters/1593,гъаду,deep
+38-784,ghod1238,http://concepticon.clld.org/parameters/193,микІиси,shallow
+38-648,ghod1238,http://concepticon.clld.org/parameters/193,кІʼанци,shallow
+38-969,ghod1238,http://concepticon.clld.org/parameters/1633,цІутІаму,flat
+38-633,ghod1238,http://concepticon.clld.org/parameters/1404,битІиссу,straight
+38-1229,ghod1238,http://concepticon.clld.org/parameters/1404,битІи,straight
+38-1062,ghod1238,http://concepticon.clld.org/parameters/297,кІичІаму,crooked
+38-172,ghod1238,http://concepticon.clld.org/parameters/1071,гваза,hook
+38-366,ghod1238,http://concepticon.clld.org/parameters/192,бикІун,corner
+38-598,ghod1238,http://concepticon.clld.org/parameters/1367,хъанчи,cross
+38-1167,ghod1238,http://concepticon.clld.org/parameters/850,буудабикІуна,square
+38-60,ghod1238,http://concepticon.clld.org/parameters/1395,гиргʼаму,round
+38-439,ghod1238,http://concepticon.clld.org/parameters/1467,бехъутІуссу муса,circle
+38-257,ghod1238,http://concepticon.clld.org/parameters/1467,гору,circle
+38-472,ghod1238,http://concepticon.clld.org/parameters/1845,шари,"sphere, ball"
+38-13,ghod1238,http://concepticon.clld.org/parameters/1048,мухъи,line
+38-40,ghod1238,http://concepticon.clld.org/parameters/1667,дунгʼа,hole
+38-3,ghod1238,http://concepticon.clld.org/parameters/1558,балълъин,"like, similar"
+38-1316,ghod1238,http://concepticon.clld.org/parameters/1264,хисиᴴ,change
+38-1332,ghod1238,http://concepticon.clld.org/parameters/1264,берши,change
+38-250,ghod1238,http://concepticon.clld.org/parameters/1294,нол,"zero, nothing"
+38-1123,ghod1238,http://concepticon.clld.org/parameters/1515,цеб,one
+38-466,ghod1238,http://concepticon.clld.org/parameters/1498,кІеда,two
+38-1233,ghod1238,http://concepticon.clld.org/parameters/492,лъабуда,three
+38-522,ghod1238,http://concepticon.clld.org/parameters/1500,буъуда,four
+38-957,ghod1238,http://concepticon.clld.org/parameters/493,иншттуда,five
+38-1243,ghod1238,http://concepticon.clld.org/parameters/1703,инлъида,six
+38-253,ghod1238,http://concepticon.clld.org/parameters/1704,гьакьуда,seven
+38-1076,ghod1238,http://concepticon.clld.org/parameters/1705,бикьида,eight
+38-643,ghod1238,http://concepticon.clld.org/parameters/1483,гьачІада,nine
+38-935,ghod1238,http://concepticon.clld.org/parameters/1515,гьацІада,ten
+38-1232,ghod1238,http://concepticon.clld.org/parameters/1706,гьачІалъи цеб,eleven
+38-1269,ghod1238,http://concepticon.clld.org/parameters/1707,гьацІалъи кІеда,twelve
+38-474,ghod1238,http://concepticon.clld.org/parameters/1709,гьацІалъи иншттуда,fifteen
+38-343,ghod1238,http://concepticon.clld.org/parameters/1710,кІаъацІада,twenty
+38-930,ghod1238,http://concepticon.clld.org/parameters/1710,кІʼагьацІада,twenty
+38-396,ghod1238,http://concepticon.clld.org/parameters/1634,бешануда,hundred
+38-51,ghod1238,http://concepticon.clld.org/parameters/1843,азаруда,thousand
+38-548,ghod1238,http://concepticon.clld.org/parameters/1420,бицциᴴ,count
+38-1341,ghod1238,http://concepticon.clld.org/parameters/98,тІорда,"every, all"
+38-530,ghod1238,http://concepticon.clld.org/parameters/1198,бегъу,"much, many"
+38-429,ghod1238,http://concepticon.clld.org/parameters/1992,целла,more
+38-204,ghod1238,http://concepticon.clld.org/parameters/1242,котте,"little (quantity), few"
+38-314,ghod1238,http://concepticon.clld.org/parameters/1881,боинццима,enough
+38-866,ghod1238,http://concepticon.clld.org/parameters/1241,чамухубуда,some
+38-1308,ghod1238,http://concepticon.clld.org/parameters/2023,бегъуда,"multitude, crowd"
+38-409,ghod1238,http://concepticon.clld.org/parameters/1429,бецІибу,full
+38-723,ghod1238,http://concepticon.clld.org/parameters/1624,бечІудассу,empty
+38-1135,ghod1238,http://concepticon.clld.org/parameters/779,кесеки,"part, piece"
+38-1346,ghod1238,http://concepticon.clld.org/parameters/779,тІуби,"part, piece"
+38-1157,ghod1238,http://concepticon.clld.org/parameters/816,гІахьʼалъи,half
+38-1113,ghod1238,http://concepticon.clld.org/parameters/1580,цебда-цеб,"alone, only"
+38-184,ghod1238,http://concepticon.clld.org/parameters/380,бишабу,wrinkled
+38-1324,ghod1238,http://concepticon.clld.org/parameters/380,бишашабу,wrinkled
+38-151,ghod1238,http://concepticon.clld.org/parameters/53,рухӀил,"soul, spirit"
+38-338,ghod1238,http://concepticon.clld.org/parameters/1572,гІажаибаб,"surprised, astonished"
+38-318,ghod1238,http://concepticon.clld.org/parameters/1572,тамашайаб,"surprised, astonished"
+38-1326,ghod1238,http://concepticon.clld.org/parameters/1572,хІикматаб,"surprised, astonished"
+38-1058,ghod1238,http://concepticon.clld.org/parameters/720,битІилъи,"good fortune, luck"
+38-1181,ghod1238,http://concepticon.clld.org/parameters/720,икъибар,"good fortune, luck"
+38-294,ghod1238,http://concepticon.clld.org/parameters/720,тавпикъ,"good fortune, luck"
+38-38,ghod1238,http://concepticon.clld.org/parameters/720,талихІи,"good fortune, luck"
+38-78,ghod1238,http://concepticon.clld.org/parameters/56,талихІкъосиᴴ,"misfortune, bad luck"
+38-149,ghod1238,http://concepticon.clld.org/parameters/1495,вуххувукабу,"joyful, glad, happy"
+38-323,ghod1238,http://concepticon.clld.org/parameters/1495,биххибукабу,"joyful, glad, happy"
+38-630,ghod1238,http://concepticon.clld.org/parameters/1355,белъикки,laugh
+38-34,ghod1238,http://concepticon.clld.org/parameters/1355,волъикки,laugh
+38-441,ghod1238,http://concepticon.clld.org/parameters/1451,биххибуки,smile
+38-787,ghod1238,http://concepticon.clld.org/parameters/1413,хӀаᴴйиди,play
+38-1151,ghod1238,http://concepticon.clld.org/parameters/1413,ччаби,play
+38-157,ghod1238,http://concepticon.clld.org/parameters/923,идалъи,love
+38-1075,ghod1238,http://concepticon.clld.org/parameters/578,обади,kiss
+38-387,ghod1238,http://concepticon.clld.org/parameters/928,гьашелъи гьиши,embrace
+38-798,ghod1238,http://concepticon.clld.org/parameters/1783,жабир,pain
+38-1245,ghod1238,http://concepticon.clld.org/parameters/1668,ракӀва къварилъи,"grief, sorrow, sadness"
+38-399,ghod1238,http://concepticon.clld.org/parameters/1668,пашманлъи,"grief, sorrow, sadness"
+38-1009,ghod1238,http://concepticon.clld.org/parameters/1000,ахӀи,"anxiety, worry"
+38-606,ghod1238,http://concepticon.clld.org/parameters/1875,ракӀвабичӀи,"regret, be sorry"
+38-1014,ghod1238,http://concepticon.clld.org/parameters/1875,ракІвакъилъи,"regret, be sorry"
+38-1112,ghod1238,http://concepticon.clld.org/parameters/1141,гурхӀи,pity
+38-282,ghod1238,http://concepticon.clld.org/parameters/1141,цІоб,pity
+38-445,ghod1238,http://concepticon.clld.org/parameters/1839,хъади,"cry, weep"
+38-484,ghod1238,http://concepticon.clld.org/parameters/1651,маъа,tear (noun)
+38-423,ghod1238,http://concepticon.clld.org/parameters/716,угьугьулъи,groan
+38-165,ghod1238,http://concepticon.clld.org/parameters/1607,рихиᴴ,hate
+38-770,ghod1238,http://concepticon.clld.org/parameters/82,ссими,anger
+38-768,ghod1238,http://concepticon.clld.org/parameters/82,тӀуᴴйилъи,anger
+38-676,ghod1238,http://concepticon.clld.org/parameters/40,жахІдалъи,"envy, jealousy"
+38-513,ghod1238,http://concepticon.clld.org/parameters/1776,сули,shame (noun)
+38-1258,ghod1238,http://concepticon.clld.org/parameters/174,чӀухӀаму,proud
+38-336,ghod1238,http://concepticon.clld.org/parameters/1779,кьантӀи,dare
+38-1238,ghod1238,http://concepticon.clld.org/parameters/3,вощав,brave
+38-687,ghod1238,http://concepticon.clld.org/parameters/781,лъибир,"fear, fright"
+38-687,ghod1238,http://concepticon.clld.org/parameters/1810,лъибир,danger
+38-73,ghod1238,http://concepticon.clld.org/parameters/1784,анищ,"desire, want"
+38-118,ghod1238,http://concepticon.clld.org/parameters/1784,гъира,"desire, want"
+38-1280,ghod1238,http://concepticon.clld.org/parameters/1784,муради,"desire, want"
+38-39,ghod1238,http://concepticon.clld.org/parameters/1784,шавукъ,"desire, want"
+38-270,ghod1238,http://concepticon.clld.org/parameters/1750,вачӀи,choose
+38-612,ghod1238,http://concepticon.clld.org/parameters/1750,бачІи,choose
+38-1172,ghod1238,http://concepticon.clld.org/parameters/1750,йачІи,choose
+38-782,ghod1238,http://concepticon.clld.org/parameters/1092,бужи,hope
+38-853,ghod1238,http://concepticon.clld.org/parameters/100,вутӀи,faithful
+38-974,ghod1238,http://concepticon.clld.org/parameters/100,бутІи,faithful
+38-269,ghod1238,http://concepticon.clld.org/parameters/100,йутІи,faithful
+38-17,ghod1238,http://concepticon.clld.org/parameters/1657,уᴴудалассу,true
+38-527,ghod1238,http://concepticon.clld.org/parameters/601,гьебесси басиᴴ,"lie, tell lies"
+38-1007,ghod1238,http://concepticon.clld.org/parameters/13,гурккиᴴ,deceit
+38-738,ghod1238,http://concepticon.clld.org/parameters/1528,гьилару вухи,forgive
+38-839,ghod1238,http://concepticon.clld.org/parameters/1035,шуб,good
+38-47,ghod1238,http://concepticon.clld.org/parameters/1035,цӀакъав,good
+38-1049,ghod1238,http://concepticon.clld.org/parameters/1292,сураму,bad
+38-853,ghod1238,http://concepticon.clld.org/parameters/1725,вутӀи,"right, correct"
+38-974,ghod1238,http://concepticon.clld.org/parameters/1725,бутІи,"right, correct"
+38-269,ghod1238,http://concepticon.clld.org/parameters/1725,йутІи,"right, correct"
+38-778,ghod1238,http://concepticon.clld.org/parameters/1390,микъиссав,wrong
+38-226,ghod1238,http://concepticon.clld.org/parameters/134,мекъаб иᴴгьибу даᴴйи,fault
+38-364,ghod1238,http://concepticon.clld.org/parameters/1293,гъалатӀи,"mistake, error"
+38-1132,ghod1238,http://concepticon.clld.org/parameters/381,гьила бугъи,blame
+38-1228,ghod1238,http://concepticon.clld.org/parameters/1687,воцциди,praise
+38-882,ghod1238,http://concepticon.clld.org/parameters/1427,чӀиквар,beautiful
+38-806,ghod1238,http://concepticon.clld.org/parameters/1548,вакъати,ugly
+38-999,ghod1238,http://concepticon.clld.org/parameters/2018,къиннибу,greedy
+38-238,ghod1238,http://concepticon.clld.org/parameters/2018,къинкъищи,greedy
+38-532,ghod1238,http://concepticon.clld.org/parameters/1310,гӀакъулулІи,clever
+38-500,ghod1238,http://concepticon.clld.org/parameters/1562,гӀакъулу,mind
+38-435,ghod1238,http://concepticon.clld.org/parameters/1415,ургъиᴴ,think (= reflect)
+38-435,ghod1238,http://concepticon.clld.org/parameters/1513,ургъиᴴ,think (= be of the opinion)
+38-174,ghod1238,http://concepticon.clld.org/parameters/1513,риццин,think (= be of the opinion)
+38-1108,ghod1238,http://concepticon.clld.org/parameters/1513,бищиᴴ,think (= be of the opinion)
+38-782,ghod1238,http://concepticon.clld.org/parameters/1890,бужи,believe
+38-1051,ghod1238,http://concepticon.clld.org/parameters/1536,биччиᴴ,understand
+38-331,ghod1238,http://concepticon.clld.org/parameters/1410,биъи,know
+38-958,ghod1238,http://concepticon.clld.org/parameters/1932,рукката,guess
+38-1024,ghod1238,http://concepticon.clld.org/parameters/117,—,imitate
+38-418,ghod1238,http://concepticon.clld.org/parameters/1521,рукки,seem
+38-901,ghod1238,http://concepticon.clld.org/parameters/1609,пикру,"idea, notion"
+38-864,ghod1238,http://concepticon.clld.org/parameters/1609,биччир,"idea, notion"
+38-1251,ghod1238,http://concepticon.clld.org/parameters/698,гӀакълулъиссу,wise
+38-638,ghod1238,http://concepticon.clld.org/parameters/1518,канлъибу,"foolish, stupid"
+38-365,ghod1238,http://concepticon.clld.org/parameters/1518,гІадалаб,"foolish, stupid"
+38-239,ghod1238,http://concepticon.clld.org/parameters/1899,гӀакълу ивучӀибу,"insane, crazy"
+38-929,ghod1238,http://concepticon.clld.org/parameters/504,биали,learn
+38-464,ghod1238,http://concepticon.clld.org/parameters/1929,бали,study
+38-929,ghod1238,http://concepticon.clld.org/parameters/709,биали,teach
+38-886,ghod1238,http://concepticon.clld.org/parameters/709,малълъи,teach
+38-20,ghod1238,http://concepticon.clld.org/parameters/753,мутагӀил,pupil
+38-736,ghod1238,http://concepticon.clld.org/parameters/753,цІалдухъаᴴ,pupil
+38-488,ghod1238,http://concepticon.clld.org/parameters/1038,мугӀалим,teacher
+38-507,ghod1238,http://concepticon.clld.org/parameters/1038,учител,teacher
+38-43,ghod1238,http://concepticon.clld.org/parameters/673,ушкур,school
+38-1277,ghod1238,http://concepticon.clld.org/parameters/707,ракӀвачӀу бигъи,remember
+38-982,ghod1238,http://concepticon.clld.org/parameters/1523,боъочи,forget
+38-309,ghod1238,http://concepticon.clld.org/parameters/989,байанаб,"clear, plain"
+38-1312,ghod1238,http://concepticon.clld.org/parameters/989,цІинкІи,"clear, plain"
+38-772,ghod1238,http://concepticon.clld.org/parameters/1764,тамашабу,obscure
+38-152,ghod1238,http://concepticon.clld.org/parameters/1121,балъголъир,secret
+38-1070,ghod1238,http://concepticon.clld.org/parameters/509,божарав,"sure, certain"
+38-1107,ghod1238,http://concepticon.clld.org/parameters/1626,биччани,explain
+38-1280,ghod1238,http://concepticon.clld.org/parameters/1162,муради,"intention, purpose"
+38-442,ghod1238,http://concepticon.clld.org/parameters/860,гӀилла,cause
+38-745,ghod1238,http://concepticon.clld.org/parameters/1308,шакаргъи,doubt
+38-1218,ghod1238,http://concepticon.clld.org/parameters/1308,васваси,doubt
+38-975,ghod1238,http://concepticon.clld.org/parameters/1841,шакаргъила,suspect
+38-876,ghod1238,http://concepticon.clld.org/parameters/1841,валъи,suspect
+38-1159,ghod1238,http://concepticon.clld.org/parameters/1902,хийаналъи иᴴгьи,betray
+38-1334,ghod1238,http://concepticon.clld.org/parameters/643,чара ивучӀулъир,"need, necessity"
+38-1005,ghod1238,http://concepticon.clld.org/parameters/686,папа,easy
+38-1257,ghod1238,http://concepticon.clld.org/parameters/584,захӀматаб,difficult
+38-266,ghod1238,http://concepticon.clld.org/parameters/1812,хӀал бихьиди,"try, attempt"
+38-1331,ghod1238,http://concepticon.clld.org/parameters/488,реси,"way, manner"
+38-871,ghod1238,http://concepticon.clld.org/parameters/1577,эхха,and
+38-627,ghod1238,http://concepticon.clld.org/parameters/1157,инкьайивучІа,because
+38-351,ghod1238,http://concepticon.clld.org/parameters/1157,инкьайивучІибу,because
+38-686,ghod1238,http://concepticon.clld.org/parameters/1459,нагагь,if
+38-344,ghod1238,http://concepticon.clld.org/parameters/1459,нагʼагьа,if
+38-677,ghod1238,http://concepticon.clld.org/parameters/1014,йа,or
+38-713,ghod1238,http://concepticon.clld.org/parameters/1014,йалъуни,or
+38-730,ghod1238,http://concepticon.clld.org/parameters/1268,у,"yes, affirmative"
+38-348,ghod1238,http://concepticon.clld.org/parameters/1269,ивучи,"no, negative"
+38-1209,ghod1238,http://concepticon.clld.org/parameters/1239,инкьахху,how?
+38-540,ghod1238,http://concepticon.clld.org/parameters/822,чаму,how many?
+38-308,ghod1238,http://concepticon.clld.org/parameters/822,интто̄,how many?
+38-540,ghod1238,http://concepticon.clld.org/parameters/531,чаму,how much?
+38-233,ghod1238,http://concepticon.clld.org/parameters/531,интто̄(ву),how much?
+38-1255,ghod1238,http://concepticon.clld.org/parameters/1236,эби,what?
+38-163,ghod1238,http://concepticon.clld.org/parameters/1236,эбида̄ᴴ,what?
+38-335,ghod1238,http://concepticon.clld.org/parameters/1238,индахъи,when?
+38-382,ghod1238,http://concepticon.clld.org/parameters/1238,индаву,when?
+38-722,ghod1238,http://concepticon.clld.org/parameters/1237,ийахъиру,where?
+38-452,ghod1238,http://concepticon.clld.org/parameters/1237,ийахъи,where?
+38-37,ghod1238,http://concepticon.clld.org/parameters/727,инкьассу,which?
+38-1143,ghod1238,http://concepticon.clld.org/parameters/1235,э̄ву,who?
+38-761,ghod1238,http://concepticon.clld.org/parameters/1270,инкьаву,why?
+38-951,ghod1238,http://concepticon.clld.org/parameters/1363,лъаччу,voice
+38-357,ghod1238,http://concepticon.clld.org/parameters/1261,кечӀи басиᴴ,sing
+38-938,ghod1238,http://concepticon.clld.org/parameters/715,вали,"shout, cry out"
+38-464,ghod1238,http://concepticon.clld.org/parameters/715,бали,"shout, cry out"
+38-1270,ghod1238,http://concepticon.clld.org/parameters/715,ваᴴваᴴди,"shout, cry out"
+38-1029,ghod1238,http://concepticon.clld.org/parameters/55,шушукӀалъи,whisper
+38-966,ghod1238,http://concepticon.clld.org/parameters/128,дундусалъи,mumble
+38-21,ghod1238,http://concepticon.clld.org/parameters/128,бумбуси,mumble
+38-180,ghod1238,http://concepticon.clld.org/parameters/128,нунусалІи,mumble
+38-137,ghod1238,http://concepticon.clld.org/parameters/1025,шанша пуди,whistle
+38-1344,ghod1238,http://concepticon.clld.org/parameters/298,цІирцІиси,"shriek, screech"
+38-395,ghod1238,http://concepticon.clld.org/parameters/526,руруди,howl
+38-53,ghod1238,http://concepticon.clld.org/parameters/1623,гулати,"speak, talk"
+38-1302,ghod1238,http://concepticon.clld.org/parameters/1866,миццибиккибу,"stutter, stammer"
+38-421,ghod1238,http://concepticon.clld.org/parameters/1458,гьикьи,say
+38-624,ghod1238,http://concepticon.clld.org/parameters/1711,букӀабу басиᴴ даᴴйи,tell story
+38-907,ghod1238,http://concepticon.clld.org/parameters/1115,раша,speech (make a)
+38-470,ghod1238,http://concepticon.clld.org/parameters/1115,гулатир,speech (make a)
+38-256,ghod1238,http://concepticon.clld.org/parameters/48,щинтӀи,silent (be)
+38-857,ghod1238,http://concepticon.clld.org/parameters/1307,мицци,language
+38-907,ghod1238,http://concepticon.clld.org/parameters/1599,раша,word
+38-1207,ghod1238,http://concepticon.clld.org/parameters/1599,кʼалам,word
+38-869,ghod1238,http://concepticon.clld.org/parameters/1405,ццери,name
+38-688,ghod1238,http://concepticon.clld.org/parameters/1309,рацциᴴ,"ask (question, inquire)"
+38-397,ghod1238,http://concepticon.clld.org/parameters/1275,жаваб игьи,answer
+38-479,ghod1238,http://concepticon.clld.org/parameters/2022,битӀи басин,"admit, confess"
+38-1042,ghod1238,http://concepticon.clld.org/parameters/2022,мукІурлъи,"admit, confess"
+38-116,ghod1238,http://concepticon.clld.org/parameters/755,нагӀдала бикки,deny
+38-1106,ghod1238,http://concepticon.clld.org/parameters/1828,хади,"ask, request"
+38-564,ghod1238,http://concepticon.clld.org/parameters/1675,раша икки,promise
+38-888,ghod1238,http://concepticon.clld.org/parameters/49,инкʼар иᴴгьи,refuse
+38-1140,ghod1238,http://concepticon.clld.org/parameters/83,гьукъиди,forbid
+38-1290,ghod1238,http://concepticon.clld.org/parameters/299,ххамавалъи,"rebuke, scold"
+38-938,ghod1238,http://concepticon.clld.org/parameters/1084,вали,call (=summon)
+38-464,ghod1238,http://concepticon.clld.org/parameters/1084,бали,call (=summon)
+38-1018,ghod1238,http://concepticon.clld.org/parameters/1084,йали,call (=summon)
+38-421,ghod1238,http://concepticon.clld.org/parameters/180,гьикьи,call (=name)
+38-929,ghod1238,http://concepticon.clld.org/parameters/9,биали,announce
+38-1055,ghod1238,http://concepticon.clld.org/parameters/1192,лъибали,threaten
+38-194,ghod1238,http://concepticon.clld.org/parameters/101,пудавалъи,boast
+38-292,ghod1238,http://concepticon.clld.org/parameters/1672,хъварди,write
+38-464,ghod1238,http://concepticon.clld.org/parameters/724,бали,read
+38-1064,ghod1238,http://concepticon.clld.org/parameters/648,кʼагъати,paper
+38-130,ghod1238,http://concepticon.clld.org/parameters/794,ручка,pen
+38-856,ghod1238,http://concepticon.clld.org/parameters/963,хъуча,book
+38-754,ghod1238,http://concepticon.clld.org/parameters/1045,кечӀе игьатабу адами,poet
+38-562,ghod1238,http://concepticon.clld.org/parameters/1045,кечІехъан,poet
+38-659,ghod1238,http://concepticon.clld.org/parameters/1045,шагІир,poet
+38-213,ghod1238,http://concepticon.clld.org/parameters/777,зурма,flute
+38-1154,ghod1238,http://concepticon.clld.org/parameters/908,дани,drum
+38-1024,ghod1238,http://concepticon.clld.org/parameters/2136,—,"horn, trumpet"
+38-1024,ghod1238,http://concepticon.clld.org/parameters/300,—,rattle
+38-1271,ghod1238,http://concepticon.clld.org/parameters/1300,пачалихъи,country
+38-1031,ghod1238,http://concepticon.clld.org/parameters/1300,улка,country
+38-572,ghod1238,http://concepticon.clld.org/parameters/89,гӀагараб пачалихъи (улка),one's native country
+38-915,ghod1238,http://concepticon.clld.org/parameters/89,ватІан,one's native country
+38-558,ghod1238,http://concepticon.clld.org/parameters/1391,шагьар,"city, town"
+38-1246,ghod1238,http://concepticon.clld.org/parameters/930,гьани,village
+38-557,ghod1238,http://concepticon.clld.org/parameters/1010,гӀурхъи,boundary
+38-910,ghod1238,http://concepticon.clld.org/parameters/789,халкъи,people (populace)
+38-133,ghod1238,http://concepticon.clld.org/parameters/302,тухум,"tribe, clan"
+38-783,ghod1238,http://concepticon.clld.org/parameters/302,агьулу,"tribe, clan"
+38-271,ghod1238,http://concepticon.clld.org/parameters/301,цевехъан,"chief, chieftain"
+38-101,ghod1238,http://concepticon.clld.org/parameters/1296,гӀанса,"staff, walking stick"
+38-147,ghod1238,http://concepticon.clld.org/parameters/1296,цІули,"staff, walking stick"
+38-581,ghod1238,http://concepticon.clld.org/parameters/1846,ханлъи иᴴгьи,"rule, govern"
+38-295,ghod1238,http://concepticon.clld.org/parameters/1508,хан,"king, ruler"
+38-98,ghod1238,http://concepticon.clld.org/parameters/1508,пача,"king, ruler"
+38-1128,ghod1238,http://concepticon.clld.org/parameters/1306,ханашу гьаркки,queen
+38-715,ghod1238,http://concepticon.clld.org/parameters/482,ракІва леми,"noble, nobleman"
+38-994,ghod1238,http://concepticon.clld.org/parameters/1032,шагьарилІи адами,"citizen, subject"
+38-858,ghod1238,http://concepticon.clld.org/parameters/383,ванигьекӀва,master
+38-1043,ghod1238,http://concepticon.clld.org/parameters/812,сева игьаму адами,slave
+38-833,ghod1238,http://concepticon.clld.org/parameters/812,гъарабаши,slave
+38-1222,ghod1238,http://concepticon.clld.org/parameters/812,лагъи,slave
+38-1043,ghod1238,http://concepticon.clld.org/parameters/255,сева игьаму адами,servant
+38-1265,ghod1238,http://concepticon.clld.org/parameters/384,озденав адами,freeman
+38-99,ghod1238,http://concepticon.clld.org/parameters/1128,буйурухъ икки,"command, order"
+38-1042,ghod1238,http://concepticon.clld.org/parameters/1635,мукІурлъи,obey
+38-824,ghod1238,http://concepticon.clld.org/parameters/1003,бешти,"let, permit"
+38-611,ghod1238,http://concepticon.clld.org/parameters/1325,гьалмагъи,"friend, companion"
+38-114,ghod1238,http://concepticon.clld.org/parameters/1325,гьудул,"friend, companion"
+38-77,ghod1238,http://concepticon.clld.org/parameters/1358,тушман,enemy
+38-337,ghod1238,http://concepticon.clld.org/parameters/1332,мадугьал,neighbor
+38-1204,ghod1238,http://concepticon.clld.org/parameters/791,вуичӀибу адами,stranger
+38-272,ghod1238,http://concepticon.clld.org/parameters/1782,ццейи,guest
+38-69,ghod1238,http://concepticon.clld.org/parameters/1545,вана гьекӀо,host
+38-870,ghod1238,http://concepticon.clld.org/parameters/1897,кумаки,"help, aid"
+38-221,ghod1238,http://concepticon.clld.org/parameters/1550,квалквал игьи,"hinder, prevent"
+38-1307,ghod1238,http://concepticon.clld.org/parameters/1747,гӀадати,custom
+38-528,ghod1238,http://concepticon.clld.org/parameters/1848,дагӀба,"strife, quarrel"
+38-1116,ghod1238,http://concepticon.clld.org/parameters/1848,барщин,"strife, quarrel"
+38-1133,ghod1238,http://concepticon.clld.org/parameters/1848,къасан,"strife, quarrel"
+38-1170,ghod1238,http://concepticon.clld.org/parameters/1848,кьал,"strife, quarrel"
+38-857,ghod1238,http://concepticon.clld.org/parameters/2024,мицци,"conspiracy, plot"
+38-763,ghod1238,http://concepticon.clld.org/parameters/1831,дандилъи,meet
+38-483,ghod1238,http://concepticon.clld.org/parameters/1610,хъʼахӀба,prostitute
+38-355,ghod1238,http://concepticon.clld.org/parameters/1423,рехъвалъи,fight (vb)
+38-1293,ghod1238,http://concepticon.clld.org/parameters/579,рагъи,"war, battle"
+38-1210,ghod1238,http://concepticon.clld.org/parameters/1338,рекъел,peace
+38-1244,ghod1238,http://concepticon.clld.org/parameters/1338,ракъир,peace
+38-567,ghod1238,http://concepticon.clld.org/parameters/1561,арми,army
+38-459,ghod1238,http://concepticon.clld.org/parameters/1561,аскар,army
+38-635,ghod1238,http://concepticon.clld.org/parameters/1941,солдати,soldier
+38-153,ghod1238,http://concepticon.clld.org/parameters/1941,рагъухъан,soldier
+38-1083,ghod1238,http://concepticon.clld.org/parameters/951,йарагъи,"weapons, arms"
+38-147,ghod1238,http://concepticon.clld.org/parameters/1763,цІули,club
+38-1082,ghod1238,http://concepticon.clld.org/parameters/386,рехъвабу куртӀа,battle-ax
+38-1024,ghod1238,http://concepticon.clld.org/parameters/387,—,sling
+38-680,ghod1238,http://concepticon.clld.org/parameters/994,чІор,bow
+38-629,ghod1238,http://concepticon.clld.org/parameters/994,гʼазагъу,bow
+38-680,ghod1238,http://concepticon.clld.org/parameters/977,чІор,arrow
+38-970,ghod1238,http://concepticon.clld.org/parameters/945,хеч,spear
+38-280,ghod1238,http://concepticon.clld.org/parameters/1535,ханжар,sword
+38-414,ghod1238,http://concepticon.clld.org/parameters/1566,тумаги,"gun, cannon"
+38-1158,ghod1238,http://concepticon.clld.org/parameters/1566,гӀарада,"gun, cannon"
+38-1052,ghod1238,http://concepticon.clld.org/parameters/1061,йарагъи-матахІи,armor (defensive)
+38-1305,ghod1238,http://concepticon.clld.org/parameters/1680,такъийа,helmet
+38-8,ghod1238,http://concepticon.clld.org/parameters/1064,талкъан,shield
+38-495,ghod1238,http://concepticon.clld.org/parameters/1938,хъала,fortress
+38-1304,ghod1238,http://concepticon.clld.org/parameters/1671,иса,tower
+38-813,ghod1238,http://concepticon.clld.org/parameters/783,бишан,victory
+38-315,ghod1238,http://concepticon.clld.org/parameters/783,ришанлъи,victory
+38-1080,ghod1238,http://concepticon.clld.org/parameters/782,киннир,defeat
+38-822,ghod1238,http://concepticon.clld.org/parameters/722,гьила кӀанцӀир,attack
+38-1085,ghod1238,http://concepticon.clld.org/parameters/1330,данди бигъи,defend
+38-844,ghod1238,http://concepticon.clld.org/parameters/421,чарчади,retreat
+38-110,ghod1238,http://concepticon.clld.org/parameters/1696,кваду мани,surrender
+38-923,ghod1238,http://concepticon.clld.org/parameters/1072,гьину тӀайиму,"captive, prisoner"
+38-1034,ghod1238,http://concepticon.clld.org/parameters/1072,асир,"captive, prisoner"
+38-342,ghod1238,http://concepticon.clld.org/parameters/1940,хъаравулзабе,"guard, sentinel"
+38-228,ghod1238,http://concepticon.clld.org/parameters/1022,шулъибер,"booty, spoils"
+38-795,ghod1238,http://concepticon.clld.org/parameters/1022,давла,"booty, spoils"
+38-1223,ghod1238,http://concepticon.clld.org/parameters/65,гьикьи муса бикки,ambush
+38-1339,ghod1238,http://concepticon.clld.org/parameters/1858,ччугӀа биккатабу адами,fisherman
+38-703,ghod1238,http://concepticon.clld.org/parameters/1858,ччугІихъан,fisherman
+38-797,ghod1238,http://concepticon.clld.org/parameters/1074,ччугӀа биккатабу кӀичӀу,fishhook
+38-959,ghod1238,http://concepticon.clld.org/parameters/19,чІелал,fishing line
+38-1249,ghod1238,http://concepticon.clld.org/parameters/388,ччугӀа биккатабу сетка,fishnet
+38-1024,ghod1238,http://concepticon.clld.org/parameters/389,—,fish trap
+38-1054,ghod1238,http://concepticon.clld.org/parameters/2013,ккуккин,bait
+38-463,ghod1238,http://concepticon.clld.org/parameters/1435,чанахъвалъи,hunt
+38-905,ghod1238,http://concepticon.clld.org/parameters/1172,бахали,shoot
+38-804,ghod1238,http://concepticon.clld.org/parameters/1172,кьогьидали,shoot
+38-1024,ghod1238,http://concepticon.clld.org/parameters/161,—,miss (target)
+38-681,ghod1238,http://concepticon.clld.org/parameters/1075,гьикьи багъир ингьи,trap (noun)
+38-1247,ghod1238,http://concepticon.clld.org/parameters/1170,бикки,trap (vb)
+38-493,ghod1238,http://concepticon.clld.org/parameters/1062,закон,law
+38-588,ghod1238,http://concepticon.clld.org/parameters/1068,суд,court
+38-641,ghod1238,http://concepticon.clld.org/parameters/1068,диван,court
+38-582,ghod1238,http://concepticon.clld.org/parameters/1818,суди иᴴгьи,judge (vb)
+38-705,ghod1238,http://concepticon.clld.org/parameters/1067,судилІи хІукму,judgment
+38-747,ghod1238,http://concepticon.clld.org/parameters/861,ссудийав,judge (noun)
+38-44,ghod1238,http://concepticon.clld.org/parameters/2020,гІарзачи,plaintiff
+38-865,ghod1238,http://concepticon.clld.org/parameters/1034,жавабчи,defendant
+38-563,ghod1238,http://concepticon.clld.org/parameters/1144,нугӀи,witness
+38-425,ghod1238,http://concepticon.clld.org/parameters/1939,нокарухи,swear
+38-187,ghod1238,http://concepticon.clld.org/parameters/1712,наква,oath
+38-205,ghod1238,http://concepticon.clld.org/parameters/1814,гьилабугъи,accuse
+38-849,ghod1238,http://concepticon.clld.org/parameters/484,хабарисалъи,condemn
+38-49,ghod1238,http://concepticon.clld.org/parameters/983,гӀайибийавлъу рицци,convict (vb)
+38-760,ghod1238,http://concepticon.clld.org/parameters/988,вутӀи игьи,acquit
+38-786,ghod1238,http://concepticon.clld.org/parameters/1682,гӀайибав,guilty
+38-1240,ghod1238,http://concepticon.clld.org/parameters/1682,такъсирав,guilty
+38-1079,ghod1238,http://concepticon.clld.org/parameters/90,гӀайибав ивучӀибу,innocent
+38-320,ghod1238,http://concepticon.clld.org/parameters/390,тамихІи,"penalty, punishment"
+38-482,ghod1238,http://concepticon.clld.org/parameters/218,гьила арси букъи (бугъи),fine
+38-1193,ghod1238,http://concepticon.clld.org/parameters/1281,туснахъи,"prison, jail"
+38-161,ghod1238,http://concepticon.clld.org/parameters/845,ккванир,murder
+38-1047,ghod1238,http://concepticon.clld.org/parameters/902,зина,adultery
+38-288,ghod1238,http://concepticon.clld.org/parameters/953,инжити игьи,rape
+38-359,ghod1238,http://concepticon.clld.org/parameters/953,махсаралъи йикки,rape
+38-939,ghod1238,http://concepticon.clld.org/parameters/1889,цӀайирукали,arson
+38-275,ghod1238,http://concepticon.clld.org/parameters/1792,гьебесебелъи нугӀилъир,perjury
+38-1087,ghod1238,http://concepticon.clld.org/parameters/713,бакъащи,steal
+38-96,ghod1238,http://concepticon.clld.org/parameters/713,цІогьорди,steal
+38-65,ghod1238,http://concepticon.clld.org/parameters/1160,цӀогьор,thief
+38-650,ghod1238,http://concepticon.clld.org/parameters/661,дин,religion
+38-1074,ghod1238,http://concepticon.clld.org/parameters/1944,Аллагь,God
+38-694,ghod1238,http://concepticon.clld.org/parameters/911,килиса,"temple, church"
+38-1093,ghod1238,http://concepticon.clld.org/parameters/853,мигьмар,altar
+38-276,ghod1238,http://concepticon.clld.org/parameters/1103,къурбан,"sacrifice, offering"
+38-67,ghod1238,http://concepticon.clld.org/parameters/257,вани бикӀʼани,worship
+38-1301,ghod1238,http://concepticon.clld.org/parameters/24,кубади,pray
+38-394,ghod1238,http://concepticon.clld.org/parameters/852,динийав адами,priest
+38-11,ghod1238,http://concepticon.clld.org/parameters/852,кʼашишав,priest
+38-298,ghod1238,http://concepticon.clld.org/parameters/1702,цӀинкӀи,"holy, sacred"
+38-1016,ghod1238,http://concepticon.clld.org/parameters/304,дин тӀибитӀали,preach
+38-222,ghod1238,http://concepticon.clld.org/parameters/304,вагІза ингьи,preach
+38-1162,ghod1238,http://concepticon.clld.org/parameters/391,разилъи,bless
+38-259,ghod1238,http://concepticon.clld.org/parameters/8,нагӀана икки,curse
+38-50,ghod1238,http://concepticon.clld.org/parameters/8,рогьобилъи,curse
+38-481,ghod1238,http://concepticon.clld.org/parameters/8,ххами,curse
+38-1345,ghod1238,http://concepticon.clld.org/parameters/303,эликки,fast (vb)
+38-800,ghod1238,http://concepticon.clld.org/parameters/1565,алжан,heaven
+38-1177,ghod1238,http://concepticon.clld.org/parameters/878,жужахӀи,hell
+38-1067,ghod1238,http://concepticon.clld.org/parameters/1973,шайтӀан,demon (evil spirit)
+38-1161,ghod1238,http://concepticon.clld.org/parameters/1973,илбис,demon (evil spirit)
+38-909,ghod1238,http://concepticon.clld.org/parameters/1973,гІибрит,demon (evil spirit)
+38-598,ghod1238,http://concepticon.clld.org/parameters/1945,хъанчи,idol
+38-735,ghod1238,http://concepticon.clld.org/parameters/392,сихӀрулъ,"magic, witchcraft, sorcery"
+38-408,ghod1238,http://concepticon.clld.org/parameters/392,макрулъи,"magic, witchcraft, sorcery"
+38-113,ghod1238,http://concepticon.clld.org/parameters/2137,хъартай,"sorcerer, witch"
+38-584,ghod1238,http://concepticon.clld.org/parameters/2137,годалъи йаши,"sorcerer, witch"
+38-639,ghod1238,http://concepticon.clld.org/parameters/2138,хІурулгІиᴴ,"fairy, elf"
+38-151,ghod1238,http://concepticon.clld.org/parameters/1175,рухӀил,"ghost, phantom"
+38-150,ghod1238,http://concepticon.clld.org/parameters/107,акънулъай,"omen, portent"

@@ -1,0 +1,896 @@
+ID,Language_ID,Feature_ID,Value,Concept
+210-704,tokh1243,http://concepticon.clld.org/parameters/965,śaiṣṣe,world
+210-556,tokh1243,http://concepticon.clld.org/parameters/626,keṃ,"earth, land"
+210-556,tokh1243,http://concepticon.clld.org/parameters/1228,keṃ,"earth=ground, soil"
+210-291,tokh1243,http://concepticon.clld.org/parameters/2,tweye,dust
+210-137,tokh1243,http://concepticon.clld.org/parameters/2,taur,dust
+210-255,tokh1243,http://concepticon.clld.org/parameters/671,waraɲce,sand
+210-130,tokh1243,http://concepticon.clld.org/parameters/2118,ṣale,"mountain, hill"
+210-449,tokh1243,http://concepticon.clld.org/parameters/618,yast,"cliff, precipice"
+210-147,tokh1243,http://concepticon.clld.org/parameters/652,[mīṣe],"plain, field"
+210-348,tokh1243,http://concepticon.clld.org/parameters/652,warśo,"plain, field"
+210-185,tokh1243,http://concepticon.clld.org/parameters/921,lenke,valley
+210-567,tokh1243,http://concepticon.clld.org/parameters/622,prenke,island
+210-505,tokh1243,http://concepticon.clld.org/parameters/166,ścomaɲ,mainland
+210-537,tokh1243,http://concepticon.clld.org/parameters/113,manarko,shore
+210-651,tokh1243,http://concepticon.clld.org/parameters/113,totte,shore
+210-328,tokh1243,http://concepticon.clld.org/parameters/948,war,water
+210-598,tokh1243,http://concepticon.clld.org/parameters/948,wranta,water
+210-17,tokh1243,http://concepticon.clld.org/parameters/1474,lyam,sea
+210-726,tokh1243,http://concepticon.clld.org/parameters/645,[samuttär],ocean
+210-729,tokh1243,http://concepticon.clld.org/parameters/666,cake,"river, stream, brook"
+210-609,tokh1243,http://concepticon.clld.org/parameters/2144,ālme,"spring, well"
+210-178,tokh1243,http://concepticon.clld.org/parameters/1145,kärkkālle,swamp
+210-686,tokh1243,http://concepticon.clld.org/parameters/420,karāś,"woods, forest"
+210-759,tokh1243,http://concepticon.clld.org/parameters/906,stām,tree (cf 08.600)
+210-673,tokh1243,http://concepticon.clld.org/parameters/1803,or,wood
+210-638,tokh1243,http://concepticon.clld.org/parameters/2125,kärweɲe,"stone, rock"
+210-344,tokh1243,http://concepticon.clld.org/parameters/1732,eprer ~ iprer,sky
+210-366,tokh1243,http://concepticon.clld.org/parameters/1343,kauṃ,sun
+210-490,tokh1243,http://concepticon.clld.org/parameters/1313,meɲe,moon
+210-639,tokh1243,http://concepticon.clld.org/parameters/1430,ścirye,star
+210-501,tokh1243,http://concepticon.clld.org/parameters/2007,[waśīr],lightning (as striking)
+210-376,tokh1243,http://concepticon.clld.org/parameters/2007,[wājrä],lightning (as striking)
+210-618,tokh1243,http://concepticon.clld.org/parameters/858,praściye,storm
+210-417,tokh1243,http://concepticon.clld.org/parameters/630,lyūke,light (noun)
+210-688,tokh1243,http://concepticon.clld.org/parameters/11,orkamɲe,darkness
+210-133,tokh1243,http://concepticon.clld.org/parameters/1388,skiyo,"shade, shadow"
+210-344,tokh1243,http://concepticon.clld.org/parameters/27,eprer ~ iprer,air
+210-3,tokh1243,http://concepticon.clld.org/parameters/960,yente,wind
+210-472,tokh1243,http://concepticon.clld.org/parameters/1489,tarkär,cloud
+210-714,tokh1243,http://concepticon.clld.org/parameters/658,swese,rain (noun)
+210-607,tokh1243,http://concepticon.clld.org/parameters/784,śiɲcatstse,snow (noun)
+210-54,tokh1243,http://concepticon.clld.org/parameters/221,puwar,fire
+210-593,tokh1243,http://concepticon.clld.org/parameters/889,sleme,flame (noun)
+210-291,tokh1243,http://concepticon.clld.org/parameters/646,tweye,ashes
+210-137,tokh1243,http://concepticon.clld.org/parameters/646,taur,ashes
+210-187,tokh1243,http://concepticon.clld.org/parameters/141,tsäk-,burn (vb trans)
+210-187,tokh1243,http://concepticon.clld.org/parameters/1428,tsäk-,burn (vb intrans)
+210-471,tokh1243,http://concepticon.clld.org/parameters/737,twās-,"light, kindle, ignite"
+210-310,tokh1243,http://concepticon.clld.org/parameters/127,käs-,extinguish
+210-97,tokh1243,http://concepticon.clld.org/parameters/10,ārwa,firewood
+210-452,tokh1243,http://concepticon.clld.org/parameters/683,śaumo,"person, human being"
+210-482,tokh1243,http://concepticon.clld.org/parameters/1554,enkwe,man (vs. woman)
+210-715,tokh1243,http://concepticon.clld.org/parameters/962,śana,woman
+210-689,tokh1243,http://concepticon.clld.org/parameters/962,klīye,woman
+210-654,tokh1243,http://concepticon.clld.org/parameters/2263,enkwaɲɲe,male
+210-446,tokh1243,http://concepticon.clld.org/parameters/2260,klaiɲɲe,female
+210-254,tokh1243,http://concepticon.clld.org/parameters/2260,kùleɲci,female
+210-332,tokh1243,http://concepticon.clld.org/parameters/1366,śamaśke,boy
+210-340,tokh1243,http://concepticon.clld.org/parameters/76,maiwe,young man (adolescent)
+210-208,tokh1243,http://concepticon.clld.org/parameters/1646,śamɲãṃśka,girl
+210-332,tokh1243,http://concepticon.clld.org/parameters/1304,śamaśke,child
+210-672,tokh1243,http://concepticon.clld.org/parameters/1200,petso,husband
+210-715,tokh1243,http://concepticon.clld.org/parameters/1199,śana,wife
+210-469,tokh1243,http://concepticon.clld.org/parameters/1217,pācer,father
+210-504,tokh1243,http://concepticon.clld.org/parameters/1216,mācer,mother
+210-240,tokh1243,http://concepticon.clld.org/parameters/1620,soy,son
+210-338,tokh1243,http://concepticon.clld.org/parameters/1357,tkācer,daughter
+210-309,tokh1243,http://concepticon.clld.org/parameters/1801,säsuwerṣke,offspring (son or daughter)
+210-408,tokh1243,http://concepticon.clld.org/parameters/1262,procer,brother
+210-126,tokh1243,http://concepticon.clld.org/parameters/1263,ṣer,sister
+210-779,tokh1243,http://concepticon.clld.org/parameters/1383,orotstse-pācer,grandfather
+210-342,tokh1243,http://concepticon.clld.org/parameters/406,śrān-,old man
+210-552,tokh1243,http://concepticon.clld.org/parameters/406,moko,old man
+210-486,tokh1243,http://concepticon.clld.org/parameters/1669,āppo,ancestors
+210-252,tokh1243,http://concepticon.clld.org/parameters/1644,ṣɲaṣṣi,"relatives, kinsmen"
+210-311,tokh1243,http://concepticon.clld.org/parameters/194,B[ kottär],family
+210-319,tokh1243,http://concepticon.clld.org/parameters/1209,ɲäś,I
+210-112,tokh1243,http://concepticon.clld.org/parameters/1209,ɲiś,I
+210-585,tokh1243,http://concepticon.clld.org/parameters/1215,tuwe,you (singular)
+210-597,tokh1243,http://concepticon.clld.org/parameters/1212,wes,we
+210-582,tokh1243,http://concepticon.clld.org/parameters/1213,yes,you (plural)
+210-631,tokh1243,http://concepticon.clld.org/parameters/619,luwo,animal
+210-654,tokh1243,http://concepticon.clld.org/parameters/2261,enkwaɲɲe,male (adj)
+210-446,tokh1243,http://concepticon.clld.org/parameters/2262,klaiɲɲe,female (adj)
+210-587,tokh1243,http://concepticon.clld.org/parameters/631,koraiɲ,livestock
+210-210,tokh1243,http://concepticon.clld.org/parameters/1008,kaùrṣe,bull
+210-134,tokh1243,http://concepticon.clld.org/parameters/1169,okso,ox
+210-463,tokh1243,http://concepticon.clld.org/parameters/1007,keu,cow
+210-167,tokh1243,http://concepticon.clld.org/parameters/1331,śaiyye,sheep
+210-108,tokh1243,http://concepticon.clld.org/parameters/1331,eye,sheep
+210-274,tokh1243,http://concepticon.clld.org/parameters/1344,yriye,ram
+210-445,tokh1243,http://concepticon.clld.org/parameters/1337,suwo,pig
+210-46,tokh1243,http://concepticon.clld.org/parameters/1502,aṣiye,goat
+210-143,tokh1243,http://concepticon.clld.org/parameters/615,yakwe,horse (equine)
+210-86,tokh1243,http://concepticon.clld.org/parameters/1862,kercapo,"ass, donkey"
+210-71,tokh1243,http://concepticon.clld.org/parameters/1318,kranko,chicken
+210-170,tokh1243,http://concepticon.clld.org/parameters/1187,yamuttsi (?),goose
+210-170,tokh1243,http://concepticon.clld.org/parameters/1360,yamuttsi (?),duck
+210-325,tokh1243,http://concepticon.clld.org/parameters/539,lesto,nest
+210-116,tokh1243,http://concepticon.clld.org/parameters/937,ṣalamo luwo,bird
+210-88,tokh1243,http://concepticon.clld.org/parameters/1905,[kurār],eagle
+210-315,tokh1243,http://concepticon.clld.org/parameters/1793,arśakärśa,bat
+210-32,tokh1243,http://concepticon.clld.org/parameters/913,wrauɲa,crow
+210-53,tokh1243,http://concepticon.clld.org/parameters/1853,[ekṣinek],dove
+210-496,tokh1243,http://concepticon.clld.org/parameters/735,[uluke],owl
+210-377,tokh1243,http://concepticon.clld.org/parameters/2009,ku,dog
+210-744,tokh1243,http://concepticon.clld.org/parameters/1136,[ṣaṣe],rabbit
+210-144,tokh1243,http://concepticon.clld.org/parameters/1208,[mārjāre],cat
+210-499,tokh1243,http://concepticon.clld.org/parameters/2139,mäścītsi,"mouse, rat"
+210-364,tokh1243,http://concepticon.clld.org/parameters/2139,[ākhu],"mouse, rat"
+210-600,tokh1243,http://concepticon.clld.org/parameters/227,laks,fish
+210-616,tokh1243,http://concepticon.clld.org/parameters/227,läkṣi,fish
+210-680,tokh1243,http://concepticon.clld.org/parameters/1916,läksaɲɲe klautso,gill
+210-380,tokh1243,http://concepticon.clld.org/parameters/598,lyɲā-,shell
+210-12,tokh1243,http://concepticon.clld.org/parameters/522,walkwe,wolf
+210-551,tokh1243,http://concepticon.clld.org/parameters/1386,ṣecake,lion
+210-539,tokh1243,http://concepticon.clld.org/parameters/1936,karse,deer
+210-191,tokh1243,http://concepticon.clld.org/parameters/1350,mokoṃśke,monkey
+210-83,tokh1243,http://concepticon.clld.org/parameters/1290,onkolme,elephant
+210-370,tokh1243,http://concepticon.clld.org/parameters/1871,partāktaɲɲe,camel
+210-372,tokh1243,http://concepticon.clld.org/parameters/620,peṣele (?),insect
+210-412,tokh1243,http://concepticon.clld.org/parameters/310,pärśeri (?),louse
+210-746,tokh1243,http://concepticon.clld.org/parameters/587,warme,ant
+210-526,tokh1243,http://concepticon.clld.org/parameters/843,yape,spider
+210-602,tokh1243,http://concepticon.clld.org/parameters/1065,wpelme,spider web
+210-229,tokh1243,http://concepticon.clld.org/parameters/665,kroṅkśe,bee
+210-183,tokh1243,http://concepticon.clld.org/parameters/665,kroṅśe,bee
+210-13,tokh1243,http://concepticon.clld.org/parameters/1931,śeriye (?),beeswax
+210-228,tokh1243,http://concepticon.clld.org/parameters/1504,tanaulyko,fly
+210-573,tokh1243,http://concepticon.clld.org/parameters/1219,yel,worm
+210-16,tokh1243,http://concepticon.clld.org/parameters/730,auk,snake
+210-711,tokh1243,http://concepticon.clld.org/parameters/730,arṣāklo,snake
+210-141,tokh1243,http://concepticon.clld.org/parameters/607,[śalāp],grasshopper
+210-96,tokh1243,http://concepticon.clld.org/parameters/112,[kaccāp],turtle
+210-709,tokh1243,http://concepticon.clld.org/parameters/1480,kektseɲe,body
+210-513,tokh1243,http://concepticon.clld.org/parameters/763,yetse,"skin, hide"
+210-538,tokh1243,http://concepticon.clld.org/parameters/763,ewe,"skin, hide"
+210-281,tokh1243,http://concepticon.clld.org/parameters/2259,misa,flesh
+210-608,tokh1243,http://concepticon.clld.org/parameters/1040,matsi,hair (head)
+210-407,tokh1243,http://concepticon.clld.org/parameters/678,traksiɲ (?),beard
+210-745,tokh1243,http://concepticon.clld.org/parameters/189,yok,body hair
+210-19,tokh1243,http://concepticon.clld.org/parameters/36,to,pubic hair
+210-278,tokh1243,http://concepticon.clld.org/parameters/946,yasar,blood
+210-580,tokh1243,http://concepticon.clld.org/parameters/525,auloɲ,"vein, artery"
+210-577,tokh1243,http://concepticon.clld.org/parameters/1394,āy,bone
+210-510,tokh1243,http://concepticon.clld.org/parameters/1394,āsta,bone
+210-637,tokh1243,http://concepticon.clld.org/parameters/801,pauṣke,rib
+210-485,tokh1243,http://concepticon.clld.org/parameters/1393,krorīya,horn
+210-283,tokh1243,http://concepticon.clld.org/parameters/1220,päkā-,tail
+210-491,tokh1243,http://concepticon.clld.org/parameters/1291,sark,back
+210-249,tokh1243,http://concepticon.clld.org/parameters/1256,āśce,head
+210-128,tokh1243,http://concepticon.clld.org/parameters/1604,naitwe,"side of head, temple"
+210-697,tokh1243,http://concepticon.clld.org/parameters/1560,särwāna,face
+210-101,tokh1243,http://concepticon.clld.org/parameters/123,ānte,forehead
+210-731,tokh1243,http://concepticon.clld.org/parameters/798,wicūko,jaw
+210-731,tokh1243,http://concepticon.clld.org/parameters/1730,wicūko,cheek
+210-236,tokh1243,http://concepticon.clld.org/parameters/1248,ek,eye
+210-756,tokh1243,http://concepticon.clld.org/parameters/1173,pärwāne,eyebrow
+210-216,tokh1243,http://concepticon.clld.org/parameters/1247,klautso,ear
+210-63,tokh1243,http://concepticon.clld.org/parameters/1221,meli,nose
+210-509,tokh1243,http://concepticon.clld.org/parameters/208,[leśp],mucus (nasal)
+210-394,tokh1243,http://concepticon.clld.org/parameters/674,koyn,mouth
+210-647,tokh1243,http://concepticon.clld.org/parameters/478,lymine,lip
+210-645,tokh1243,http://concepticon.clld.org/parameters/1205,kantwo,tongue
+210-506,tokh1243,http://concepticon.clld.org/parameters/1380,keme,tooth
+210-162,tokh1243,http://concepticon.clld.org/parameters/1347,krāɲi,nape of neck
+210-611,tokh1243,http://concepticon.clld.org/parameters/1346,ṣankw,throat
+210-304,tokh1243,http://concepticon.clld.org/parameters/1346,kor,throat
+210-204,tokh1243,http://concepticon.clld.org/parameters/1482,āntse,shoulder
+210-73,tokh1243,http://concepticon.clld.org/parameters/1673,pokai,arm
+210-395,tokh1243,http://concepticon.clld.org/parameters/799,āto (?),wrist
+210-219,tokh1243,http://concepticon.clld.org/parameters/1277,ṣar,hand
+210-299,tokh1243,http://concepticon.clld.org/parameters/1183,alyiye,palm of hand
+210-136,tokh1243,http://concepticon.clld.org/parameters/1303,prāri,finger
+210-284,tokh1243,http://concepticon.clld.org/parameters/1258,mekwa,fingernail
+210-741,tokh1243,http://concepticon.clld.org/parameters/1297,ckācko,leg
+210-707,tokh1243,http://concepticon.clld.org/parameters/800,märkwace,thigh
+210-359,tokh1243,http://concepticon.clld.org/parameters/800,mlyuwe,thigh
+210-741,tokh1243,http://concepticon.clld.org/parameters/498,ckācko,calf of leg
+210-248,tokh1243,http://concepticon.clld.org/parameters/1371,keni,knee
+210-461,tokh1243,http://concepticon.clld.org/parameters/1301,paiyye,foot
+210-524,tokh1243,http://concepticon.clld.org/parameters/803,porsno (?),ankle
+210-553,tokh1243,http://concepticon.clld.org/parameters/980,kuke (?),heel
+210-433,tokh1243,http://concepticon.clld.org/parameters/318,ṣiko,footprint
+210-640,tokh1243,http://concepticon.clld.org/parameters/1201,parwa,feather
+210-451,tokh1243,http://concepticon.clld.org/parameters/1592,canke,chest
+210-189,tokh1243,http://concepticon.clld.org/parameters/1592,pratsāko,chest
+210-222,tokh1243,http://concepticon.clld.org/parameters/1402,piśpik (?),breast (of woman)
+210-521,tokh1243,http://concepticon.clld.org/parameters/1402,päścane,breast (of woman)
+210-222,tokh1243,http://concepticon.clld.org/parameters/796,piśpik (?),"nipple, teat"
+210-586,tokh1243,http://concepticon.clld.org/parameters/1838,kele,navel
+210-250,tokh1243,http://concepticon.clld.org/parameters/1223,araɲce,heart
+210-421,tokh1243,http://concepticon.clld.org/parameters/1224,wästarye,liver
+210-531,tokh1243,http://concepticon.clld.org/parameters/819,kātso,stomach
+210-223,tokh1243,http://concepticon.clld.org/parameters/834,[śroɲi],buttocks
+210-275,tokh1243,http://concepticon.clld.org/parameters/804,kaläl,womb
+210-154,tokh1243,http://concepticon.clld.org/parameters/797,erkatstse,testicle
+210-195,tokh1243,http://concepticon.clld.org/parameters/1222,tso,penis
+210-50,tokh1243,http://concepticon.clld.org/parameters/1407,anāsk-,"breathe, breath"
+210-664,tokh1243,http://concepticon.clld.org/parameters/1028,kāy-,"yawn, gape"
+210-142,tokh1243,http://concepticon.clld.org/parameters/879,kosi,cough
+210-181,tokh1243,http://concepticon.clld.org/parameters/126,si-,perspire
+210-43,tokh1243,http://concepticon.clld.org/parameters/126,syelme,perspire
+210-2,tokh1243,http://concepticon.clld.org/parameters/1440,pitke,spit
+210-733,tokh1243,http://concepticon.clld.org/parameters/1278,ankaiṃ yām-,vomit
+210-60,tokh1243,http://concepticon.clld.org/parameters/1403,tsāk-,bite
+210-349,tokh1243,http://concepticon.clld.org/parameters/1585,klänts-,sleep
+210-454,tokh1243,http://concepticon.clld.org/parameters/1585,ṣpane,sleep
+210-484,tokh1243,http://concepticon.clld.org/parameters/1602,āks-,wake up
+210-767,tokh1243,http://concepticon.clld.org/parameters/592,miśo,urinate
+210-225,tokh1243,http://concepticon.clld.org/parameters/676,weṃṣiye,defecate
+210-502,tokh1243,http://concepticon.clld.org/parameters/1785,yäs-,have sexual intercourse
+210-354,tokh1243,http://concepticon.clld.org/parameters/138,nāsk-,bathe
+210-37,tokh1243,http://concepticon.clld.org/parameters/1152,täm-,beget (of father)
+210-37,tokh1243,http://concepticon.clld.org/parameters/1090,täm-,born (to be)
+210-115,tokh1243,http://concepticon.clld.org/parameters/1123,prentsa,pregnant
+210-676,tokh1243,http://concepticon.clld.org/parameters/1422,śaul,"live, living, life"
+210-38,tokh1243,http://concepticon.clld.org/parameters/1422,śai-,"live, living, life"
+210-77,tokh1243,http://concepticon.clld.org/parameters/1494,sruk-,"die, dead"
+210-179,tokh1243,http://concepticon.clld.org/parameters/1494,srukau,"die, dead"
+210-242,tokh1243,http://concepticon.clld.org/parameters/1417,kau-,kill
+210-104,tokh1243,http://concepticon.clld.org/parameters/767,śwāl,corpse
+210-7,tokh1243,http://concepticon.clld.org/parameters/1773,erkau,"grave, tomb"
+210-374,tokh1243,http://concepticon.clld.org/parameters/785,maiyyātstse,"strong, mighty, powerful"
+210-213,tokh1243,http://concepticon.clld.org/parameters/1601,ylāre,weak
+210-197,tokh1243,http://concepticon.clld.org/parameters/1364,[kuśal],"well, health"
+210-737,tokh1243,http://concepticon.clld.org/parameters/1847,alāṣmo,"sick, sickness"
+210-217,tokh1243,http://concepticon.clld.org/parameters/1847,tekiɲɲe,"sick, sickness"
+210-474,tokh1243,http://concepticon.clld.org/parameters/1534,sälpalle,fever
+210-98,tokh1243,http://concepticon.clld.org/parameters/1534,tskalɲe,fever
+210-430,tokh1243,http://concepticon.clld.org/parameters/1109,pīle,"wound, sore"
+210-738,tokh1243,http://concepticon.clld.org/parameters/1903,yweru,swelling
+210-335,tokh1243,http://concepticon.clld.org/parameters/148,saiwe,itch
+210-220,tokh1243,http://concepticon.clld.org/parameters/1808,sekwe,pus
+210-85,tokh1243,http://concepticon.clld.org/parameters/499,kartse yām-,"cure, heal"
+210-277,tokh1243,http://concepticon.clld.org/parameters/597,saṃtkīnau,physician
+210-572,tokh1243,http://concepticon.clld.org/parameters/1372,[sāṃtke],"medicine, drug"
+210-289,tokh1243,http://concepticon.clld.org/parameters/655,wase,poison
+210-724,tokh1243,http://concepticon.clld.org/parameters/1757,lāl-,"tired, weary"
+210-346,tokh1243,http://concepticon.clld.org/parameters/168,āɲu,rest
+210-336,tokh1243,http://concepticon.clld.org/parameters/320,[panku],lame
+210-636,tokh1243,http://concepticon.clld.org/parameters/1666,[muka],mute
+210-30,tokh1243,http://concepticon.clld.org/parameters/1653,tärrek,blind
+210-615,tokh1243,http://concepticon.clld.org/parameters/1653,eś-lmau,blind
+210-198,tokh1243,http://concepticon.clld.org/parameters/1463,mālatstse,intoxicated
+210-777,tokh1243,http://concepticon.clld.org/parameters/590,apākśai,"naked, bare"
+210-196,tokh1243,http://concepticon.clld.org/parameters/1336,śu- ~ śuwā-,eat
+210-321,tokh1243,http://concepticon.clld.org/parameters/256,śwātsi,food
+210-65,tokh1243,http://concepticon.clld.org/parameters/269,pepakṣu,cooked
+210-710,tokh1243,http://concepticon.clld.org/parameters/1959,māme,raw
+210-656,tokh1243,http://concepticon.clld.org/parameters/178,mappe,ripe
+210-710,tokh1243,http://concepticon.clld.org/parameters/1958,māme,"green, unripe"
+210-89,tokh1243,http://concepticon.clld.org/parameters/1728,āmpau,rotten
+210-641,tokh1243,http://concepticon.clld.org/parameters/1401,yok-,drink
+210-393,tokh1243,http://concepticon.clld.org/parameters/1533,kest,hunger
+210-131,tokh1243,http://concepticon.clld.org/parameters/848,yokiye,thirst
+210-665,tokh1243,http://concepticon.clld.org/parameters/321,tresk-,chew
+210-397,tokh1243,http://concepticon.clld.org/parameters/321,tsālt-,chew
+210-722,tokh1243,http://concepticon.clld.org/parameters/897,nuk-,swallow
+210-574,tokh1243,http://concepticon.clld.org/parameters/1100,päk-,cook
+210-574,tokh1243,http://concepticon.clld.org/parameters/792,päk-,boil (vb)
+210-529,tokh1243,http://concepticon.clld.org/parameters/792,sränk-,boil (vb)
+210-327,tokh1243,http://concepticon.clld.org/parameters/2146,pärk-,"roast, fry"
+210-423,tokh1243,http://concepticon.clld.org/parameters/1462,lwāke,"pot, cooking vessel"
+210-613,tokh1243,http://concepticon.clld.org/parameters/1530,[pātro],bowl
+210-423,tokh1243,http://concepticon.clld.org/parameters/270,lwāke,"pitcher, jug"
+210-662,tokh1243,http://concepticon.clld.org/parameters/1526,yesti,meal (a)
+210-227,tokh1243,http://concepticon.clld.org/parameters/2017,triw-,"stir, mix"
+210-302,tokh1243,http://concepticon.clld.org/parameters/1368,kanti,bread
+210-367,tokh1243,http://concepticon.clld.org/parameters/1594,yäksiye,"meal, flour"
+210-168,tokh1243,http://concepticon.clld.org/parameters/1594,klese,"meal, flour"
+210-735,tokh1243,http://concepticon.clld.org/parameters/1033,tāks-,"crush, grind"
+210-467,tokh1243,http://concepticon.clld.org/parameters/1033,mäl-,"crush, grind"
+210-146,tokh1243,http://concepticon.clld.org/parameters/1033,mely-,"crush, grind"
+210-339,tokh1243,http://concepticon.clld.org/parameters/1033,wālts-,"crush, grind"
+210-520,tokh1243,http://concepticon.clld.org/parameters/634,mīsa,meat
+210-604,tokh1243,http://concepticon.clld.org/parameters/1547,[yuṣ],"soup, broth"
+210-44,tokh1243,http://concepticon.clld.org/parameters/832,[māśak],bean
+210-599,tokh1243,http://concepticon.clld.org/parameters/1507,oko,fruit
+210-105,tokh1243,http://concepticon.clld.org/parameters/920,[kuɲi],grape
+210-703,tokh1243,http://concepticon.clld.org/parameters/1484,ṣmare,oil
+210-700,tokh1243,http://concepticon.clld.org/parameters/1484,ṣalype,oil
+210-703,tokh1243,http://concepticon.clld.org/parameters/323,ṣmare,"grease, fat"
+210-700,tokh1243,http://concepticon.clld.org/parameters/323,ṣalype,"grease, fat"
+210-778,tokh1243,http://concepticon.clld.org/parameters/1274,salyiye,salt
+210-261,tokh1243,http://concepticon.clld.org/parameters/1385,[pippāl],pepper
+210-357,tokh1243,http://concepticon.clld.org/parameters/942,mit,honey
+210-106,tokh1243,http://concepticon.clld.org/parameters/862,[śakkār],sugar
+210-175,tokh1243,http://concepticon.clld.org/parameters/635,malkwer,milk (noun)
+210-550,tokh1243,http://concepticon.clld.org/parameters/1245,kewiye,butter
+210-69,tokh1243,http://concepticon.clld.org/parameters/731,yoktsi,"beverage, drink"
+210-161,tokh1243,http://concepticon.clld.org/parameters/1524,[kuɲi]-mot,wine
+210-557,tokh1243,http://concepticon.clld.org/parameters/404,mot,fermented drink
+210-432,tokh1243,http://concepticon.clld.org/parameters/404,māla,fermented drink
+210-663,tokh1243,http://concepticon.clld.org/parameters/158,wäs-,put on (clothes)
+210-103,tokh1243,http://concepticon.clld.org/parameters/1895,wastsi,"clothing, clothes"
+210-745,tokh1243,http://concepticon.clld.org/parameters/964,yok,wool
+210-659,tokh1243,http://concepticon.clld.org/parameters/916,kenek,"linen, flax"
+210-448,tokh1243,http://concepticon.clld.org/parameters/1850,[kampās],cotton
+210-483,tokh1243,http://concepticon.clld.org/parameters/1641,tono,silk
+210-745,tokh1243,http://concepticon.clld.org/parameters/580,yok,fur
+210-267,tokh1243,http://concepticon.clld.org/parameters/133,wāp-,weave
+210-87,tokh1243,http://concepticon.clld.org/parameters/1161,ɲare,thread
+210-696,tokh1243,http://concepticon.clld.org/parameters/326,[kampāl],cloak
+210-314,tokh1243,http://concepticon.clld.org/parameters/1381,[pannāk],shoe
+210-324,tokh1243,http://concepticon.clld.org/parameters/917,tsaiɲɲe,"ornament, adornment"
+210-464,tokh1243,http://concepticon.clld.org/parameters/917,ketwe,"ornament, adornment"
+210-464,tokh1243,http://concepticon.clld.org/parameters/1029,ketwe,jewel
+210-617,tokh1243,http://concepticon.clld.org/parameters/1029,naumiye,jewel
+210-442,tokh1243,http://concepticon.clld.org/parameters/1029,wamer,jewel
+210-591,tokh1243,http://concepticon.clld.org/parameters/1029,yetwe,jewel
+210-514,tokh1243,http://concepticon.clld.org/parameters/1374,pekwe,ring (for finger)
+210-145,tokh1243,http://concepticon.clld.org/parameters/770,klautsaiɲe,earring
+210-80,tokh1243,http://concepticon.clld.org/parameters/333,[jaṭ],braid
+210-358,tokh1243,http://concepticon.clld.org/parameters/151,[kṣur],razor
+210-700,tokh1243,http://concepticon.clld.org/parameters/1926,ṣalype,ointment
+210-290,tokh1243,http://concepticon.clld.org/parameters/1171,tapākye,mirror
+210-663,tokh1243,http://concepticon.clld.org/parameters/1099,wäs-,"dwell, live"
+210-6,tokh1243,http://concepticon.clld.org/parameters/1252,ost,house
+210-149,tokh1243,http://concepticon.clld.org/parameters/1678,[koṣkiye],hut
+210-753,tokh1243,http://concepticon.clld.org/parameters/1567,twere,"door, gate"
+210-382,tokh1243,http://concepticon.clld.org/parameters/1567,yenme,"door, gate"
+210-465,tokh1243,http://concepticon.clld.org/parameters/1375,[patstsānk],window
+210-605,tokh1243,http://concepticon.clld.org/parameters/933,poṣiya,wall
+210-234,tokh1243,http://concepticon.clld.org/parameters/185,śoliye,fireplace
+210-668,tokh1243,http://concepticon.clld.org/parameters/1663,leke ~ leki,bed
+210-176,tokh1243,http://concepticon.clld.org/parameters/1663,[maɲcāk],bed
+210-247,tokh1243,http://concepticon.clld.org/parameters/806,[prastrāṃ],blanket
+210-413,tokh1243,http://concepticon.clld.org/parameters/1476,[pir],chair
+210-473,tokh1243,http://concepticon.clld.org/parameters/2131,cok,"lamp, torch"
+210-525,tokh1243,http://concepticon.clld.org/parameters/205,kaice,trough
+210-48,tokh1243,http://concepticon.clld.org/parameters/769,ṣim,roof
+210-396,tokh1243,http://concepticon.clld.org/parameters/281,esale,"post, pole"
+210-24,tokh1243,http://concepticon.clld.org/parameters/1006,iścem,brick
+210-147,tokh1243,http://concepticon.clld.org/parameters/212,[mīṣe],field (for cultivation)
+210-400,tokh1243,http://concepticon.clld.org/parameters/586,werpiśke,garden
+210-11,tokh1243,http://concepticon.clld.org/parameters/586,werwiye,garden
+210-721,tokh1243,http://concepticon.clld.org/parameters/1690,lyake (?),fence
+210-269,tokh1243,http://concepticon.clld.org/parameters/2002,tsrerme,ditch
+210-152,tokh1243,http://concepticon.clld.org/parameters/1921,āre,plow
+210-35,tokh1243,http://concepticon.clld.org/parameters/1418,rāp-,dig
+210-527,tokh1243,http://concepticon.clld.org/parameters/748,kät-,sow
+210-29,tokh1243,http://concepticon.clld.org/parameters/714,śäktālye,seed
+210-259,tokh1243,http://concepticon.clld.org/parameters/714,sārm,seed
+210-763,tokh1243,http://concepticon.clld.org/parameters/714,tāno,seed
+210-658,tokh1243,http://concepticon.clld.org/parameters/611,ɲemek,"crop, harvest"
+210-82,tokh1243,http://concepticon.clld.org/parameters/605,śātre,"grain (barley, oats etc)"
+210-661,tokh1243,http://concepticon.clld.org/parameters/605,ysāre,"grain (barley, oats etc)"
+210-763,tokh1243,http://concepticon.clld.org/parameters/605,tāno,"grain (barley, oats etc)"
+210-661,tokh1243,http://concepticon.clld.org/parameters/1077,ysāre,wheat
+210-494,tokh1243,http://concepticon.clld.org/parameters/932,yap,barley
+210-184,tokh1243,http://concepticon.clld.org/parameters/926,[klu],rice
+210-387,tokh1243,http://concepticon.clld.org/parameters/606,atiyo,grass
+210-522,tokh1243,http://concepticon.clld.org/parameters/1486,sāry-,plant (vb)
+210-507,tokh1243,http://concepticon.clld.org/parameters/670,witsako,root
+210-10,tokh1243,http://concepticon.clld.org/parameters/1531,karāk,branch
+210-457,tokh1243,http://concepticon.clld.org/parameters/628,pilta,leaf
+210-492,tokh1243,http://concepticon.clld.org/parameters/239,pyāpyo,flower
+210-759,tokh1243,http://concepticon.clld.org/parameters/906,stām,tree
+210-776,tokh1243,http://concepticon.clld.org/parameters/343,laitke,vine
+210-554,tokh1243,http://concepticon.clld.org/parameters/1204,enmetre (?),bark
+210-648,tokh1243,http://concepticon.clld.org/parameters/345,śūke,sap
+210-750,tokh1243,http://concepticon.clld.org/parameters/345,yasoɲɲa (?),sap
+210-535,tokh1243,http://concepticon.clld.org/parameters/1181,[tāl],palm tree
+210-28,tokh1243,http://concepticon.clld.org/parameters/813,yām-,"do, make"
+210-426,tokh1243,http://concepticon.clld.org/parameters/984,lāṃs-,work
+210-740,tokh1243,http://concepticon.clld.org/parameters/2004,räm-,bend
+210-437,tokh1243,http://concepticon.clld.org/parameters/1917,ścäm-,"tie, bind"
+210-47,tokh1243,http://concepticon.clld.org/parameters/352,tärk-,untie
+210-226,tokh1243,http://concepticon.clld.org/parameters/1218,śerkw,"rope, cord"
+210-350,tokh1243,http://concepticon.clld.org/parameters/2133,aun-,"strike (hit, beat)"
+210-114,tokh1243,http://concepticon.clld.org/parameters/2133,pyāk-,"strike (hit, beat)"
+210-242,tokh1243,http://concepticon.clld.org/parameters/2133,kau-,"strike (hit, beat)"
+210-135,tokh1243,http://concepticon.clld.org/parameters/2133,tsop-,"strike (hit, beat)"
+210-434,tokh1243,http://concepticon.clld.org/parameters/1432,kärst-,cut
+210-434,tokh1243,http://concepticon.clld.org/parameters/355,kärst-,cut down
+210-735,tokh1243,http://concepticon.clld.org/parameters/155,tāks-,"chop, hew"
+210-99,tokh1243,http://concepticon.clld.org/parameters/155,kaut-,"chop, hew"
+210-135,tokh1243,http://concepticon.clld.org/parameters/1434,tsop-,stab
+210-443,tokh1243,http://concepticon.clld.org/parameters/1352,yepe,knife
+210-748,tokh1243,http://concepticon.clld.org/parameters/677,[peret],ax
+210-99,tokh1243,http://concepticon.clld.org/parameters/680,kaut-,break
+210-627,tokh1243,http://concepticon.clld.org/parameters/680,nitt-,break
+210-671,tokh1243,http://concepticon.clld.org/parameters/1437,wāk-,split
+210-99,tokh1243,http://concepticon.clld.org/parameters/1437,kaut-,split
+210-434,tokh1243,http://concepticon.clld.org/parameters/1735,kärst-,tear
+210-487,tokh1243,http://concepticon.clld.org/parameters/291,pāss-,"flay, skin"
+210-297,tokh1243,http://concepticon.clld.org/parameters/1449,lyu-,"rub, wipe"
+210-570,tokh1243,http://concepticon.clld.org/parameters/1449,kānt-,"rub, wipe"
+210-270,tokh1243,http://concepticon.clld.org/parameters/214,pänn-,stretch
+210-773,tokh1243,http://concepticon.clld.org/parameters/1455,yärtt-,pull
+210-774,tokh1243,http://concepticon.clld.org/parameters/1455,aip-,pull
+210-693,tokh1243,http://concepticon.clld.org/parameters/1455,ru-,pull
+210-296,tokh1243,http://concepticon.clld.org/parameters/38,sätk-,spread out
+210-677,tokh1243,http://concepticon.clld.org/parameters/357,länk-,hang up
+210-751,tokh1243,http://concepticon.clld.org/parameters/1913,närs-,press
+210-575,tokh1243,http://concepticon.clld.org/parameters/1913,wälts-,press
+210-235,tokh1243,http://concepticon.clld.org/parameters/1913,kälts-,press
+210-146,tokh1243,http://concepticon.clld.org/parameters/1414,mely-,"squeeze, wring"
+210-200,tokh1243,http://concepticon.clld.org/parameters/1414,nusk-,"squeeze, wring"
+210-91,tokh1243,http://concepticon.clld.org/parameters/1487,ku-,pour
+210-596,tokh1243,http://concepticon.clld.org/parameters/1453,lik-,wash
+210-125,tokh1243,http://concepticon.clld.org/parameters/1361,[yāntär],tool
+210-666,tokh1243,http://concepticon.clld.org/parameters/1042,tarkātstsa,carpenter
+210-475,tokh1243,http://concepticon.clld.org/parameters/1840,tsik-,build
+210-379,tokh1243,http://concepticon.clld.org/parameters/1501,tsāp-,bore
+210-70,tokh1243,http://concepticon.clld.org/parameters/211,kutk- (?),cast (metals)
+210-440,tokh1243,http://concepticon.clld.org/parameters/1369,yasa,gold
+210-203,tokh1243,http://concepticon.clld.org/parameters/759,ɲkante,silver
+210-612,tokh1243,http://concepticon.clld.org/parameters/1825,pilke,"copper, bronze"
+210-33,tokh1243,http://concepticon.clld.org/parameters/621,eɲcuwo,iron
+210-405,tokh1243,http://concepticon.clld.org/parameters/359,lwaksā-tsaika,potter
+210-475,tokh1243,http://concepticon.clld.org/parameters/289,tsik-,mold (clay etc)
+210-24,tokh1243,http://concepticon.clld.org/parameters/1399,iścem,clay
+210-267,tokh1243,http://concepticon.clld.org/parameters/1729,wāp-,"weave, plait"
+210-603,tokh1243,http://concepticon.clld.org/parameters/195,[niṣīdaṃ],mat
+210-644,tokh1243,http://concepticon.clld.org/parameters/2001,pik-,paint (vb)
+210-518,tokh1243,http://concepticon.clld.org/parameters/765,wäsk-,move
+210-20,tokh1243,http://concepticon.clld.org/parameters/1588,klautk-,turn over
+210-76,tokh1243,http://concepticon.clld.org/parameters/1445,spārtt-,turn around
+210-742,tokh1243,http://concepticon.clld.org/parameters/1113,wänt-,"wind, wrap"
+210-76,tokh1243,http://concepticon.clld.org/parameters/827,spārtt-,roll
+210-312,tokh1243,http://concepticon.clld.org/parameters/808,säl-,drop (vb)
+210-47,tokh1243,http://concepticon.clld.org/parameters/430,tärk-,twist
+210-455,tokh1243,http://concepticon.clld.org/parameters/568,tsänk-,rise
+210-327,tokh1243,http://concepticon.clld.org/parameters/568,pärk-,rise
+210-243,tokh1243,http://concepticon.clld.org/parameters/501,täl-,"raise, lift"
+210-232,tokh1243,http://concepticon.clld.org/parameters/1280,klāy-,fall
+210-416,tokh1243,http://concepticon.clld.org/parameters/2253,pält-,drip
+210-90,tokh1243,http://concepticon.clld.org/parameters/1456,kärsk-,throw
+210-312,tokh1243,http://concepticon.clld.org/parameters/1456,säl-,throw
+210-49,tokh1243,http://concepticon.clld.org/parameters/1909,wip-,shake
+210-414,tokh1243,http://concepticon.clld.org/parameters/1909,miw-,shake
+210-4,tokh1243,http://concepticon.clld.org/parameters/2003,resk-,flow
+210-93,tokh1243,http://concepticon.clld.org/parameters/1574,plus-,float
+210-354,tokh1243,http://concepticon.clld.org/parameters/1439,nāsk-,swim
+210-93,tokh1243,http://concepticon.clld.org/parameters/1441,plus-,fly (vb)
+210-312,tokh1243,http://concepticon.clld.org/parameters/1441,säl-,fly (vb)
+210-172,tokh1243,http://concepticon.clld.org/parameters/175,pin-,blow
+210-623,tokh1243,http://concepticon.clld.org/parameters/1324,släpp- (?),"slide, slip"
+210-743,tokh1243,http://concepticon.clld.org/parameters/1829,pruk-,"jump, leap"
+210-428,tokh1243,http://concepticon.clld.org/parameters/1879,tsip-,dance
+210-272,tokh1243,http://concepticon.clld.org/parameters/1443,i-,walk
+210-562,tokh1243,http://concepticon.clld.org/parameters/1519,mäk-,run
+210-272,tokh1243,http://concepticon.clld.org/parameters/695,i-,go
+210-498,tokh1243,http://concepticon.clld.org/parameters/695,yai,go
+210-288,tokh1243,http://concepticon.clld.org/parameters/705,ränk-,go up
+210-288,tokh1243,http://concepticon.clld.org/parameters/1102,ränk-,climb
+210-139,tokh1243,http://concepticon.clld.org/parameters/1102,pätt-,climb
+210-768,tokh1243,http://concepticon.clld.org/parameters/2014,kārp-,go down
+210-488,tokh1243,http://concepticon.clld.org/parameters/1107,länt-,go out
+210-165,tokh1243,http://concepticon.clld.org/parameters/1446,käm-,come
+210-20,tokh1243,http://concepticon.clld.org/parameters/581,klautk-,come back
+210-512,tokh1243,http://concepticon.clld.org/parameters/1752,lait-,"go away, depart"
+210-683,tokh1243,http://concepticon.clld.org/parameters/485,naut-,disappear
+210-764,tokh1243,http://concepticon.clld.org/parameters/956,mlutk-,flee
+210-177,tokh1243,http://concepticon.clld.org/parameters/1085,kalāk-,follow
+210-57,tokh1243,http://concepticon.clld.org/parameters/1387,yäm-,"reach, arrive"
+210-732,tokh1243,http://concepticon.clld.org/parameters/749,yäp-,enter
+210-384,tokh1243,http://concepticon.clld.org/parameters/700,pär-,carry (bear)
+210-754,tokh1243,http://concepticon.clld.org/parameters/692,ās-,bring
+210-739,tokh1243,http://concepticon.clld.org/parameters/692,käl-,bring
+210-564,tokh1243,http://concepticon.clld.org/parameters/1127,lu-,send
+210-565,tokh1243,http://concepticon.clld.org/parameters/43,āk-,lead (vb)
+210-235,tokh1243,http://concepticon.clld.org/parameters/741,kälts-,drive
+210-565,tokh1243,http://concepticon.clld.org/parameters/741,āk-,drive
+210-158,tokh1243,http://concepticon.clld.org/parameters/367,klānk-,ride
+210-581,tokh1243,http://concepticon.clld.org/parameters/1452,nätk-,"push, shove"
+210-652,tokh1243,http://concepticon.clld.org/parameters/667,nauntai,road
+210-214,tokh1243,http://concepticon.clld.org/parameters/2252,ymīye,path
+210-205,tokh1243,http://concepticon.clld.org/parameters/2252,yoɲiya,path
+210-646,tokh1243,http://concepticon.clld.org/parameters/122,kokale,"carriage, wagon, cart"
+210-723,tokh1243,http://concepticon.clld.org/parameters/710,yerkwantai,wheel
+210-120,tokh1243,http://concepticon.clld.org/parameters/1769,ṣem,axle
+210-218,tokh1243,http://concepticon.clld.org/parameters/14,pyorye,yoke
+210-363,tokh1243,http://concepticon.clld.org/parameters/1844,kolmo,boat
+210-588,tokh1243,http://concepticon.clld.org/parameters/1844,olyi,boat
+210-111,tokh1243,http://concepticon.clld.org/parameters/1664,plewe,raft
+210-730,tokh1243,http://concepticon.clld.org/parameters/1749,enk-,take
+210-730,tokh1243,http://concepticon.clld.org/parameters/2021,enk-,"seize, grasp"
+210-547,tokh1243,http://concepticon.clld.org/parameters/694,kälp-,"get, obtain"
+210-478,tokh1243,http://concepticon.clld.org/parameters/738,wäntare,thing
+210-495,tokh1243,http://concepticon.clld.org/parameters/1447,ai-,give
+210-40,tokh1243,http://concepticon.clld.org/parameters/85,päst ai-,give back
+210-298,tokh1243,http://concepticon.clld.org/parameters/1997,pāsk-,"preserve, look after"
+210-36,tokh1243,http://concepticon.clld.org/parameters/2008,tsälp-,"save, rescue"
+210-503,tokh1243,http://concepticon.clld.org/parameters/681,näk-,destroy
+210-371,tokh1243,http://concepticon.clld.org/parameters/44,mi-,"harm, injure, damage"
+210-406,tokh1243,http://concepticon.clld.org/parameters/1468,ɲäsk-,"seek, look for"
+210-470,tokh1243,http://concepticon.clld.org/parameters/1468,rit-,"seek, look for"
+210-547,tokh1243,http://concepticon.clld.org/parameters/719,kälp-,find
+210-47,tokh1243,http://concepticon.clld.org/parameters/1095,tärk-,"release, let go"
+210-124,tokh1243,http://concepticon.clld.org/parameters/712,śāte,rich
+210-39,tokh1243,http://concepticon.clld.org/parameters/1674,snaitstse,poor
+210-545,tokh1243,http://concepticon.clld.org/parameters/1934,yaṣṣuca,beggar
+210-775,tokh1243,http://concepticon.clld.org/parameters/1774,maune,"avaricious, stingy"
+210-207,tokh1243,http://concepticon.clld.org/parameters/369,peri nes-,owe
+210-110,tokh1243,http://concepticon.clld.org/parameters/1914,peri,debt
+210-403,tokh1243,http://concepticon.clld.org/parameters/1081,[gaṇit],"account, reckoning"
+210-766,tokh1243,http://concepticon.clld.org/parameters/873,neske,"tax, tribute"
+210-31,tokh1243,http://concepticon.clld.org/parameters/873,pautke,"tax, tribute"
+210-369,tokh1243,http://concepticon.clld.org/parameters/1869,käry-,buy
+210-206,tokh1243,http://concepticon.clld.org/parameters/1571,plänk-,sell
+210-369,tokh1243,http://concepticon.clld.org/parameters/2135,käry-,"trade, barter"
+210-708,tokh1243,http://concepticon.clld.org/parameters/1082,käryorttau,merchant
+210-307,tokh1243,http://concepticon.clld.org/parameters/657,pīto,price
+210-450,tokh1243,http://concepticon.clld.org/parameters/1426,lāre,"dear (costly, expensive)"
+210-159,tokh1243,http://concepticon.clld.org/parameters/1426,kwāts,"dear (costly, expensive)"
+210-317,tokh1243,http://concepticon.clld.org/parameters/1887,olank,cheap
+210-34,tokh1243,http://concepticon.clld.org/parameters/884,pāke yām-,share (distribute)
+210-679,tokh1243,http://concepticon.clld.org/parameters/1098,keś tā-,weigh
+210-265,tokh1243,http://concepticon.clld.org/parameters/1685,ompostäṃ,after
+210-265,tokh1243,http://concepticon.clld.org/parameters/723,ompostäṃ,behind
+210-438,tokh1243,http://concepticon.clld.org/parameters/1326,ɲor,"down, below"
+210-543,tokh1243,http://concepticon.clld.org/parameters/1882,enepre,before
+210-702,tokh1243,http://concepticon.clld.org/parameters/1606,eneṃ,"inside, in"
+210-489,tokh1243,http://concepticon.clld.org/parameters/1606,enenka,"inside, in"
+210-706,tokh1243,http://concepticon.clld.org/parameters/762,parna,outside
+210-772,tokh1243,http://concepticon.clld.org/parameters/1485,ettesa,under
+210-438,tokh1243,http://concepticon.clld.org/parameters/1485,ɲor,under
+210-264,tokh1243,http://concepticon.clld.org/parameters/1591,kauc,"up, above"
+210-755,tokh1243,http://concepticon.clld.org/parameters/1591,oṃṣmeṃ,"up, above"
+210-224,tokh1243,http://concepticon.clld.org/parameters/723,īke,place
+210-123,tokh1243,http://concepticon.clld.org/parameters/723,wṣeɲɲa,place
+210-419,tokh1243,http://concepticon.clld.org/parameters/723,ścmoɲɲa,place
+210-351,tokh1243,http://concepticon.clld.org/parameters/998,tā-,put
+210-534,tokh1243,http://concepticon.clld.org/parameters/1416,ṣäm-/ laṃ-,sit
+210-752,tokh1243,http://concepticon.clld.org/parameters/215,lyäk-,lie down
+210-262,tokh1243,http://concepticon.clld.org/parameters/1442,käly-/ stäm-,stand
+210-169,tokh1243,http://concepticon.clld.org/parameters/987,walāk-,"remain, stay"
+210-52,tokh1243,http://concepticon.clld.org/parameters/838,lyipär,"remains, left overs"
+210-698,tokh1243,http://concepticon.clld.org/parameters/7,kraup-,"collect, gather"
+210-698,tokh1243,http://concepticon.clld.org/parameters/1576,kraup-,pile up
+210-575,tokh1243,http://concepticon.clld.org/parameters/1743,wälts-,"join, unite"
+210-365,tokh1243,http://concepticon.clld.org/parameters/1359,wätk-,separate
+210-389,tokh1243,http://concepticon.clld.org/parameters/1359,putk-,separate
+210-389,tokh1243,http://concepticon.clld.org/parameters/1119,putk-,divide
+210-693,tokh1243,http://concepticon.clld.org/parameters/1156,ru-,open
+210-682,tokh1243,http://concepticon.clld.org/parameters/1046,prutk-,"shut, close"
+210-774,tokh1243,http://concepticon.clld.org/parameters/761,aip-,cover
+210-422,tokh1243,http://concepticon.clld.org/parameters/761,räk-,cover
+210-701,tokh1243,http://concepticon.clld.org/parameters/761,wāl-,cover
+210-579,tokh1243,http://concepticon.clld.org/parameters/602,tuk-,"hide, conceal"
+210-409,tokh1243,http://concepticon.clld.org/parameters/1265,tapre,high
+210-429,tokh1243,http://concepticon.clld.org/parameters/721,ɲorīye (?),low
+210-361,tokh1243,http://concepticon.clld.org/parameters/1753,tsankär,top
+210-542,tokh1243,http://concepticon.clld.org/parameters/742,āke,end
+210-692,tokh1243,http://concepticon.clld.org/parameters/372,tsänkarwaṣṣe,pointed
+210-533,tokh1243,http://concepticon.clld.org/parameters/863,[aśakula],edge
+210-605,tokh1243,http://concepticon.clld.org/parameters/682,poṣiya,side
+210-316,tokh1243,http://concepticon.clld.org/parameters/682,sprāne,side
+210-624,tokh1243,http://concepticon.clld.org/parameters/1093,ywārśkāɲɲe,"middle, center"
+210-9,tokh1243,http://concepticon.clld.org/parameters/1019,śwālyai,right (side)
+210-368,tokh1243,http://concepticon.clld.org/parameters/244,saiwai,left (side)
+210-22,tokh1243,http://concepticon.clld.org/parameters/1942,akartte,near (adv)
+210-386,tokh1243,http://concepticon.clld.org/parameters/1406,lauke,far (adv)
+210-675,tokh1243,http://concepticon.clld.org/parameters/1877,kauṃ-pirko,east
+210-375,tokh1243,http://concepticon.clld.org/parameters/1817,kauṃ-kläsko,west
+210-294,tokh1243,http://concepticon.clld.org/parameters/1598,oṣṣale,north
+210-670,tokh1243,http://concepticon.clld.org/parameters/1595,omutruɲɲai,south
+210-713,tokh1243,http://concepticon.clld.org/parameters/479,tsmentär,grow
+210-444,tokh1243,http://concepticon.clld.org/parameters/479,tsäm-,grow
+210-230,tokh1243,http://concepticon.clld.org/parameters/1506,mai-,measure
+210-391,tokh1243,http://concepticon.clld.org/parameters/81,raso,"span, fathom"
+210-516,tokh1243,http://concepticon.clld.org/parameters/1202,orotstse,"large, big"
+210-678,tokh1243,http://concepticon.clld.org/parameters/1246,lykaśke,"small, little"
+210-378,tokh1243,http://concepticon.clld.org/parameters/1203,pärkare,long
+210-727,tokh1243,http://concepticon.clld.org/parameters/1203,walkeɲɲe,long
+210-717,tokh1243,http://concepticon.clld.org/parameters/1645,totka,short
+210-705,tokh1243,http://concepticon.clld.org/parameters/1243,aurtstse,"wide, broad"
+210-118,tokh1243,http://concepticon.clld.org/parameters/1244,ātstse,thick (in dimension)
+210-399,tokh1243,http://concepticon.clld.org/parameters/1593,kätkare,deep
+210-619,tokh1243,http://concepticon.clld.org/parameters/193,tparśke,shallow
+210-260,tokh1243,http://concepticon.clld.org/parameters/1467,serke,circle
+210-626,tokh1243,http://concepticon.clld.org/parameters/1845,krepaste,"sphere, ball"
+210-246,tokh1243,http://concepticon.clld.org/parameters/1048,sälyiye,line
+210-193,tokh1243,http://concepticon.clld.org/parameters/1667,lyauto,hole
+210-390,tokh1243,http://concepticon.clld.org/parameters/1558,somotkäɲɲe (?),"like, similar"
+210-75,tokh1243,http://concepticon.clld.org/parameters/1264,klutk-,change
+210-258,tokh1243,http://concepticon.clld.org/parameters/1515,ṣe,one
+210-563,tokh1243,http://concepticon.clld.org/parameters/1515,ṣana,one
+210-630,tokh1243,http://concepticon.clld.org/parameters/1515,somo,one
+210-458,tokh1243,http://concepticon.clld.org/parameters/1498,wi,two
+210-329,tokh1243,http://concepticon.clld.org/parameters/492,trey,three
+210-74,tokh1243,http://concepticon.clld.org/parameters/492,tarya,three
+210-251,tokh1243,http://concepticon.clld.org/parameters/1500,śtwer,four
+210-323,tokh1243,http://concepticon.clld.org/parameters/1500,śtwāra,four
+210-762,tokh1243,http://concepticon.clld.org/parameters/493,piś,five
+210-305,tokh1243,http://concepticon.clld.org/parameters/1703,ṣkas,six
+210-221,tokh1243,http://concepticon.clld.org/parameters/1704,ṣukt,seven
+210-209,tokh1243,http://concepticon.clld.org/parameters/1705,okt,eight
+210-439,tokh1243,http://concepticon.clld.org/parameters/1483,ɲu,nine
+210-781,tokh1243,http://concepticon.clld.org/parameters/1515,śak,ten
+210-306,tokh1243,http://concepticon.clld.org/parameters/1706,śak-ṣe,eleven
+210-528,tokh1243,http://concepticon.clld.org/parameters/1707,śak-wi,twelve
+210-140,tokh1243,http://concepticon.clld.org/parameters/1709,śak-piś,fifteen
+210-271,tokh1243,http://concepticon.clld.org/parameters/1710,ikäṃ,twenty
+210-303,tokh1243,http://concepticon.clld.org/parameters/1634,kante,hundred
+210-84,tokh1243,http://concepticon.clld.org/parameters/1843,yaltse,thousand
+210-148,tokh1243,http://concepticon.clld.org/parameters/1420,ṣäṃs-,count
+210-679,tokh1243,http://concepticon.clld.org/parameters/1420,keś tā-,count
+210-163,tokh1243,http://concepticon.clld.org/parameters/98,pont-,"every, all"
+210-326,tokh1243,http://concepticon.clld.org/parameters/1198,mākā,"much, many"
+210-532,tokh1243,http://concepticon.clld.org/parameters/1992,olyapo,more
+210-717,tokh1243,http://concepticon.clld.org/parameters/1242,totka,"little (quantity), few"
+210-285,tokh1243,http://concepticon.clld.org/parameters/1881,tot,enough
+210-632,tokh1243,http://concepticon.clld.org/parameters/1241,ṣemi,some
+210-343,tokh1243,http://concepticon.clld.org/parameters/2023,kraupe,"multitude, crowd"
+210-558,tokh1243,http://concepticon.clld.org/parameters/1429,īte,full
+210-334,tokh1243,http://concepticon.clld.org/parameters/1624,aikare,empty
+210-42,tokh1243,http://concepticon.clld.org/parameters/779,pāke,"part, piece"
+210-385,tokh1243,http://concepticon.clld.org/parameters/816,ywārc,half
+210-462,tokh1243,http://concepticon.clld.org/parameters/1580,ṣesketstse,"alone, only"
+210-566,tokh1243,http://concepticon.clld.org/parameters/1580,ṣeske,"alone, only"
+210-571,tokh1243,http://concepticon.clld.org/parameters/728,pärweṣṣe,first
+210-634,tokh1243,http://concepticon.clld.org/parameters/1529,akessu,last
+210-649,tokh1243,http://concepticon.clld.org/parameters/1384,wate,second
+210-418,tokh1243,http://concepticon.clld.org/parameters/1546,wyār,two times
+210-45,tokh1243,http://concepticon.clld.org/parameters/1859,trite,third
+210-64,tokh1243,http://concepticon.clld.org/parameters/417,tarya lykwarwa,three times
+210-410,tokh1243,http://concepticon.clld.org/parameters/892,preśyai,time
+210-233,tokh1243,http://concepticon.clld.org/parameters/1231,ɲuwe,new
+210-202,tokh1243,http://concepticon.clld.org/parameters/1231,ɲwetstse,new
+210-771,tokh1243,http://concepticon.clld.org/parameters/1207,malyakke,young
+210-620,tokh1243,http://concepticon.clld.org/parameters/1229,ktsaitsäɲɲe,old
+210-392,tokh1243,http://concepticon.clld.org/parameters/672,nauṣ,early
+210-266,tokh1243,http://concepticon.clld.org/parameters/477,postaɲɲe,late
+210-404,tokh1243,http://concepticon.clld.org/parameters/1376,ɲake,now
+210-761,tokh1243,http://concepticon.clld.org/parameters/1963,śka,immediately
+210-150,tokh1243,http://concepticon.clld.org/parameters/1963,teteka(k),immediately
+210-27,tokh1243,http://concepticon.clld.org/parameters/1631,ramer,"swift, fast, quick"
+210-479,tokh1243,http://concepticon.clld.org/parameters/701,raiwe (?),slow
+210-614,tokh1243,http://concepticon.clld.org/parameters/425,tänk-,"retard, delay"
+210-350,tokh1243,http://concepticon.clld.org/parameters/1806,aun-,"begin, beginning"
+210-770,tokh1243,http://concepticon.clld.org/parameters/1186,käly-,"last, endure"
+210-542,tokh1243,http://concepticon.clld.org/parameters/743,āke,end (temporal)
+210-694,tokh1243,http://concepticon.clld.org/parameters/1766,ār- (?),finish
+210-76,tokh1243,http://concepticon.clld.org/parameters/1928,spārtt-,"cease, stop"
+210-180,tokh1243,http://concepticon.clld.org/parameters/1928,ār-,"cease, stop"
+210-156,tokh1243,http://concepticon.clld.org/parameters/790,ārwer,ready
+210-138,tokh1243,http://concepticon.clld.org/parameters/790,arwāre,ready
+210-122,tokh1243,http://concepticon.clld.org/parameters/1676,ṣek,always
+210-734,tokh1243,http://concepticon.clld.org/parameters/418,walke,long-time (for a)
+210-657,tokh1243,http://concepticon.clld.org/parameters/1656,manta,never
+210-58,tokh1243,http://concepticon.clld.org/parameters/204,nano,again
+210-366,tokh1243,http://concepticon.clld.org/parameters/1260,kauṃ,day
+210-477,tokh1243,http://concepticon.clld.org/parameters/1233,yṣīye,night
+210-459,tokh1243,http://concepticon.clld.org/parameters/1233,kästwer,night
+210-606,tokh1243,http://concepticon.clld.org/parameters/729,pirko,dawn
+210-747,tokh1243,http://concepticon.clld.org/parameters/729,kauṃ-parki,dawn
+210-628,tokh1243,http://concepticon.clld.org/parameters/1339,tsoṅkaik,morning
+210-157,tokh1243,http://concepticon.clld.org/parameters/1283,ɲerwe,today
+210-720,tokh1243,http://concepticon.clld.org/parameters/1469,ṣuk(t)-kauṃ,week
+210-490,tokh1243,http://concepticon.clld.org/parameters/1370,meɲe,month
+210-424,tokh1243,http://concepticon.clld.org/parameters/1226,pikul,year
+210-253,tokh1243,http://concepticon.clld.org/parameters/1471,śämprāye,winter
+210-757,tokh1243,http://concepticon.clld.org/parameters/1342,ṣmāye,summer
+210-555,tokh1243,http://concepticon.clld.org/parameters/691,preściya,season
+210-541,tokh1243,http://concepticon.clld.org/parameters/1587,wärsk-,smell (vb intrans)
+210-541,tokh1243,http://concepticon.clld.org/parameters/1586,wärsk-,smell (vb trans)
+210-493,tokh1243,http://concepticon.clld.org/parameters/376,kärtse-were,"fragrant, good smelling"
+210-23,tokh1243,http://concepticon.clld.org/parameters/42,yolo-were,"stinking, bad smelling"
+210-648,tokh1243,http://concepticon.clld.org/parameters/21,śūke,taste
+210-164,tokh1243,http://concepticon.clld.org/parameters/717,swāre,sweet
+210-453,tokh1243,http://concepticon.clld.org/parameters/1091,salyitstse,salty
+210-643,tokh1243,http://concepticon.clld.org/parameters/1906,[āmpäl],"acid, sour"
+210-425,tokh1243,http://concepticon.clld.org/parameters/1408,klyaus-,hear
+210-425,tokh1243,http://concepticon.clld.org/parameters/1608,klyaus-,listen
+210-231,tokh1243,http://concepticon.clld.org/parameters/1811,weśeɲɲa,"sound, noise"
+210-517,tokh1243,http://concepticon.clld.org/parameters/377,wektse,loud
+210-583,tokh1243,http://concepticon.clld.org/parameters/1314,ām,"quiet, silence"
+210-780,tokh1243,http://concepticon.clld.org/parameters/1314,stitstse,"quiet, silence"
+210-576,tokh1243,http://concepticon.clld.org/parameters/1314,stināsk-,"quiet, silence"
+210-300,tokh1243,http://concepticon.clld.org/parameters/1409,läk-,see
+210-300,tokh1243,http://concepticon.clld.org/parameters/1819,läk-,"look, look at"
+210-500,tokh1243,http://concepticon.clld.org/parameters/1039,lakäsk-,show
+210-760,tokh1243,http://concepticon.clld.org/parameters/1039,nān-,show
+210-476,tokh1243,http://concepticon.clld.org/parameters/708,pälk-,shine
+210-15,tokh1243,http://concepticon.clld.org/parameters/679,lakùtse,bright
+210-745,tokh1243,http://concepticon.clld.org/parameters/1613,yok,color
+210-153,tokh1243,http://concepticon.clld.org/parameters/706,orkamotstse,dark (in color)
+210-171,tokh1243,http://concepticon.clld.org/parameters/706,orkamo,dark (in color)
+210-758,tokh1243,http://concepticon.clld.org/parameters/1335,ārkwi,white
+210-308,tokh1243,http://concepticon.clld.org/parameters/163,erkent-,black
+210-345,tokh1243,http://concepticon.clld.org/parameters/156,ratre,red
+210-192,tokh1243,http://concepticon.clld.org/parameters/156,rtarya,red
+210-411,tokh1243,http://concepticon.clld.org/parameters/837,tseṃ,blue
+210-684,tokh1243,http://concepticon.clld.org/parameters/1425,motartstse,green
+210-61,tokh1243,http://concepticon.clld.org/parameters/1424,tute,yellow
+210-594,tokh1243,http://concepticon.clld.org/parameters/1892,täk-,touch
+210-594,tokh1243,http://concepticon.clld.org/parameters/1079,täk-,feel
+210-725,tokh1243,http://concepticon.clld.org/parameters/1884,ścīre,hard
+210-341,tokh1243,http://concepticon.clld.org/parameters/1856,wlaṃśke,soft
+210-559,tokh1243,http://concepticon.clld.org/parameters/1923,aśāwe,rough
+210-703,tokh1243,http://concepticon.clld.org/parameters/1234,ṣmare,smooth
+210-238,tokh1243,http://concepticon.clld.org/parameters/1396,akwatse,sharp
+210-330,tokh1243,http://concepticon.clld.org/parameters/379,mālle,"blunt, dull"
+210-68,tokh1243,http://concepticon.clld.org/parameters/1210,kramartstse,heavy
+210-653,tokh1243,http://concepticon.clld.org/parameters/1052,lankùtse,light (in weight)
+210-56,tokh1243,http://concepticon.clld.org/parameters/1726,waiw-,"wet, damp"
+210-669,tokh1243,http://concepticon.clld.org/parameters/1398,asāre,dry
+210-353,tokh1243,http://concepticon.clld.org/parameters/1286,emalye,hot
+210-353,tokh1243,http://concepticon.clld.org/parameters/1232,emalye,warm
+210-241,tokh1243,http://concepticon.clld.org/parameters/1287,krośce,cold
+210-117,tokh1243,http://concepticon.clld.org/parameters/704,astare,clean
+210-685,tokh1243,http://concepticon.clld.org/parameters/1230,kraketstse,"dirty, soiled"
+210-337,tokh1243,http://concepticon.clld.org/parameters/1230,sal,"dirty, soiled"
+210-749,tokh1243,http://concepticon.clld.org/parameters/53,āɲme,"soul, spirit"
+210-625,tokh1243,http://concepticon.clld.org/parameters/720,[sakw],"good fortune, luck"
+210-194,tokh1243,http://concepticon.clld.org/parameters/56,[kaṣṭa],"misfortune, bad luck"
+210-72,tokh1243,http://concepticon.clld.org/parameters/1495,tsārwo,"joyful, glad, happy"
+210-544,tokh1243,http://concepticon.clld.org/parameters/1355,kery-,laugh
+210-728,tokh1243,http://concepticon.clld.org/parameters/1451,smi-,smile
+210-313,tokh1243,http://concepticon.clld.org/parameters/1413,kāɲm-,play
+210-519,tokh1243,http://concepticon.clld.org/parameters/923,tänkw-aɲɲ-,love
+210-286,tokh1243,http://concepticon.clld.org/parameters/578,skāw-,kiss
+210-151,tokh1243,http://concepticon.clld.org/parameters/928,yäks-,embrace
+210-401,tokh1243,http://concepticon.clld.org/parameters/1783,lakle,pain
+210-362,tokh1243,http://concepticon.clld.org/parameters/1668,mentsi,"grief, sorrow, sadness"
+210-67,tokh1243,http://concepticon.clld.org/parameters/1000,īwate,"anxiety, worry"
+210-279,tokh1243,http://concepticon.clld.org/parameters/1875,mänts-,"regret, be sorry"
+210-263,tokh1243,http://concepticon.clld.org/parameters/1141,aɲmālaṣle,pity
+210-132,tokh1243,http://concepticon.clld.org/parameters/1651,akrūna,tear (noun)
+210-578,tokh1243,http://concepticon.clld.org/parameters/1607,wer,hate
+210-14,tokh1243,http://concepticon.clld.org/parameters/1607,rser,hate
+210-212,tokh1243,http://concepticon.clld.org/parameters/82,tremi,anger
+210-292,tokh1243,http://concepticon.clld.org/parameters/40,entse,"envy, jealousy"
+210-435,tokh1243,http://concepticon.clld.org/parameters/1776,kwipe,shame (noun)
+210-719,tokh1243,http://concepticon.clld.org/parameters/174,amāṃ,proud
+210-282,tokh1243,http://concepticon.clld.org/parameters/781,prosko,"fear, fright"
+210-257,tokh1243,http://concepticon.clld.org/parameters/781,proskiye,"fear, fright"
+210-160,tokh1243,http://concepticon.clld.org/parameters/1810,ɲyātse,danger
+210-215,tokh1243,http://concepticon.clld.org/parameters/1810,sanu,danger
+210-560,tokh1243,http://concepticon.clld.org/parameters/1784,kāwo,"desire, want"
+210-131,tokh1243,http://concepticon.clld.org/parameters/1784,yokiye,"desire, want"
+210-81,tokh1243,http://concepticon.clld.org/parameters/1092,pärmank,hope
+210-55,tokh1243,http://concepticon.clld.org/parameters/100,takarṣke,faithful
+210-765,tokh1243,http://concepticon.clld.org/parameters/1657,empreṃ,true
+210-295,tokh1243,http://concepticon.clld.org/parameters/601,waike,"lie, tell lies"
+210-239,tokh1243,http://concepticon.clld.org/parameters/13,tserekwa,deceit
+210-127,tokh1243,http://concepticon.clld.org/parameters/1528,[kṣānti],forgive
+210-388,tokh1243,http://concepticon.clld.org/parameters/1528,[kṣantiɲɲe],forgive
+210-569,tokh1243,http://concepticon.clld.org/parameters/1035,kartse,good
+210-633,tokh1243,http://concepticon.clld.org/parameters/1292,yolo,bad
+210-712,tokh1243,http://concepticon.clld.org/parameters/1390,[appamāt],wrong
+210-655,tokh1243,http://concepticon.clld.org/parameters/134,nāki,fault
+210-79,tokh1243,http://concepticon.clld.org/parameters/1293,triśalɲe,"mistake, error"
+210-655,tokh1243,http://concepticon.clld.org/parameters/381,nāki,blame
+210-78,tokh1243,http://concepticon.clld.org/parameters/1687,päl-,praise
+210-186,tokh1243,http://concepticon.clld.org/parameters/1427,ersnāssu,beautiful
+210-381,tokh1243,http://concepticon.clld.org/parameters/1548,yolai-erepate,ugly
+210-589,tokh1243,http://concepticon.clld.org/parameters/1548,yolo-pilkotstse,ugly
+210-590,tokh1243,http://concepticon.clld.org/parameters/2018,entseṣṣe,greedy
+210-92,tokh1243,http://concepticon.clld.org/parameters/1310,maimantstse,clever
+210-420,tokh1243,http://concepticon.clld.org/parameters/1562,palsko,mind
+210-415,tokh1243,http://concepticon.clld.org/parameters/1415,pälsk-,think (= reflect)
+210-415,tokh1243,http://concepticon.clld.org/parameters/1513,pälsk-,think (= be of the opinion)
+210-601,tokh1243,http://concepticon.clld.org/parameters/1890,takarṣkaɲɲe,believe
+210-188,tokh1243,http://concepticon.clld.org/parameters/1536,kärs-,understand
+210-188,tokh1243,http://concepticon.clld.org/parameters/1410,kärs-,know
+210-41,tokh1243,http://concepticon.clld.org/parameters/1609,palskalɲe,"idea, notion"
+210-347,tokh1243,http://concepticon.clld.org/parameters/1609,pälskālune,"idea, notion"
+210-301,tokh1243,http://concepticon.clld.org/parameters/698,aiśamo,wise
+210-21,tokh1243,http://concepticon.clld.org/parameters/1518,aknātsa,"foolish, stupid"
+210-237,tokh1243,http://concepticon.clld.org/parameters/504,ākl-,learn
+210-237,tokh1243,http://concepticon.clld.org/parameters/1929,ākl-,study
+210-356,tokh1243,http://concepticon.clld.org/parameters/709,ṣärp-,teach
+210-441,tokh1243,http://concepticon.clld.org/parameters/753,akalṣälle,pupil
+210-355,tokh1243,http://concepticon.clld.org/parameters/1038,[käṣṣi],teacher
+210-540,tokh1243,http://concepticon.clld.org/parameters/707,[epiyac] käl-,remember
+210-716,tokh1243,http://concepticon.clld.org/parameters/1523,märs-,forget
+210-117,tokh1243,http://concepticon.clld.org/parameters/989,astare,"clear, plain"
+210-55,tokh1243,http://concepticon.clld.org/parameters/989,takarṣke,"clear, plain"
+210-515,tokh1243,http://concepticon.clld.org/parameters/1121,enestai,secret
+210-356,tokh1243,http://concepticon.clld.org/parameters/1626,ṣärp-,explain
+210-51,tokh1243,http://concepticon.clld.org/parameters/1162,päknālɲe,"intention, purpose"
+210-447,tokh1243,http://concepticon.clld.org/parameters/860,ṣarm,cause
+210-635,tokh1243,http://concepticon.clld.org/parameters/1308,sklok,doubt
+210-667,tokh1243,http://concepticon.clld.org/parameters/1841,ersankäɲɲe,suspect
+210-160,tokh1243,http://concepticon.clld.org/parameters/643,ɲyātse,"need, necessity"
+210-317,tokh1243,http://concepticon.clld.org/parameters/686,olank,easy
+210-182,tokh1243,http://concepticon.clld.org/parameters/584,amāsko,difficult
+210-595,tokh1243,http://concepticon.clld.org/parameters/584,waimene,difficult
+210-481,tokh1243,http://concepticon.clld.org/parameters/1812,skai-,"try, attempt"
+210-497,tokh1243,http://concepticon.clld.org/parameters/488,yakne,"way, manner"
+210-119,tokh1243,http://concepticon.clld.org/parameters/1577,ṣap,and
+210-691,tokh1243,http://concepticon.clld.org/parameters/1577,wai,and
+210-456,tokh1243,http://concepticon.clld.org/parameters/1157,kùce,because
+210-322,tokh1243,http://concepticon.clld.org/parameters/1459,kwri,if
+210-568,tokh1243,http://concepticon.clld.org/parameters/1014,epe,or
+210-199,tokh1243,http://concepticon.clld.org/parameters/1014,wat,or
+210-26,tokh1243,http://concepticon.clld.org/parameters/1269,mā,"no, negative"
+210-466,tokh1243,http://concepticon.clld.org/parameters/1239,mäkte,how?
+210-121,tokh1243,http://concepticon.clld.org/parameters/822,kos,how many?
+210-201,tokh1243,http://concepticon.clld.org/parameters/531,BA kos,how much?
+210-245,tokh1243,http://concepticon.clld.org/parameters/1236,kùse,what?
+210-287,tokh1243,http://concepticon.clld.org/parameters/1238,ente,when?
+210-287,tokh1243,http://concepticon.clld.org/parameters/1237,ente,where?
+210-511,tokh1243,http://concepticon.clld.org/parameters/1237,kùtameṃ,where?
+210-546,tokh1243,http://concepticon.clld.org/parameters/727,intsu,which?
+210-245,tokh1243,http://concepticon.clld.org/parameters/1235,kùse,who?
+210-59,tokh1243,http://concepticon.clld.org/parameters/1270,kā,why?
+210-95,tokh1243,http://concepticon.clld.org/parameters/1270,kāttsi,why?
+210-231,tokh1243,http://concepticon.clld.org/parameters/1363,weśeɲɲa,voice
+210-592,tokh1243,http://concepticon.clld.org/parameters/1363,wek,voice
+210-642,tokh1243,http://concepticon.clld.org/parameters/1261,pi-,sing
+210-460,tokh1243,http://concepticon.clld.org/parameters/715,nu-,"shout, cry out"
+210-548,tokh1243,http://concepticon.clld.org/parameters/715,kuk-,"shout, cry out"
+210-610,tokh1243,http://concepticon.clld.org/parameters/55,pās- (?),whisper
+210-25,tokh1243,http://concepticon.clld.org/parameters/1623,wesk-,"speak, talk"
+210-25,tokh1243,http://concepticon.clld.org/parameters/1458,wesk-,say
+210-25,tokh1243,http://concepticon.clld.org/parameters/1711,wesk-,tell story
+210-576,tokh1243,http://concepticon.clld.org/parameters/48,stināsk-,silent (be)
+210-645,tokh1243,http://concepticon.clld.org/parameters/1307,kantwo,language
+210-622,tokh1243,http://concepticon.clld.org/parameters/1599,reki,word
+210-66,tokh1243,http://concepticon.clld.org/parameters/1405,ɲem,name
+210-327,tokh1243,http://concepticon.clld.org/parameters/1309,pärk-,"ask (question, inquire)"
+210-398,tokh1243,http://concepticon.clld.org/parameters/1275,wrattsai wesk-,answer
+210-113,tokh1243,http://concepticon.clld.org/parameters/2022,[teśit] yām-,"admit, confess"
+210-467,tokh1243,http://concepticon.clld.org/parameters/755,mäl-,deny
+210-327,tokh1243,http://concepticon.clld.org/parameters/1828,pärk-,"ask, request"
+210-629,tokh1243,http://concepticon.clld.org/parameters/299,nāk-,"rebuke, scold"
+210-318,tokh1243,http://concepticon.clld.org/parameters/1084,kwā-/ kāk-,call (=summon)
+210-718,tokh1243,http://concepticon.clld.org/parameters/180,ɲem tā-,call (=name)
+210-436,tokh1243,http://concepticon.clld.org/parameters/9,klāw-,announce
+210-460,tokh1243,http://concepticon.clld.org/parameters/1192,nu-,threaten
+210-62,tokh1243,http://concepticon.clld.org/parameters/1192,skär-,threaten
+210-644,tokh1243,http://concepticon.clld.org/parameters/1672,pik-,write
+210-549,tokh1243,http://concepticon.clld.org/parameters/963,[postak],book
+210-402,tokh1243,http://concepticon.clld.org/parameters/908,kerū,drum
+210-102,tokh1243,http://concepticon.clld.org/parameters/1300,yapoy,country
+210-174,tokh1243,http://concepticon.clld.org/parameters/1391,riye,"city, town"
+210-695,tokh1243,http://concepticon.clld.org/parameters/930,kuṣai,village
+210-100,tokh1243,http://concepticon.clld.org/parameters/1010,totteɲɲe,boundary
+210-704,tokh1243,http://concepticon.clld.org/parameters/789,śaiṣṣe,people (populace)
+210-660,tokh1243,http://concepticon.clld.org/parameters/302,[kottär],"tribe, clan"
+210-508,tokh1243,http://concepticon.clld.org/parameters/301,saswe,"chief, chieftain"
+210-480,tokh1243,http://concepticon.clld.org/parameters/1508,walo,"king, ruler"
+210-256,tokh1243,http://concepticon.clld.org/parameters/1508,lāɲc,"king, ruler"
+210-107,tokh1243,http://concepticon.clld.org/parameters/1306,lāntsa,queen
+210-508,tokh1243,http://concepticon.clld.org/parameters/383,saswe,master
+210-1,tokh1243,http://concepticon.clld.org/parameters/255,[maɲiye],servant
+210-365,tokh1243,http://concepticon.clld.org/parameters/1128,wätk-,"command, order"
+210-276,tokh1243,http://concepticon.clld.org/parameters/1003,kälm-,"let, permit"
+210-273,tokh1243,http://concepticon.clld.org/parameters/1325,waṣamo,"friend, companion"
+210-584,tokh1243,http://concepticon.clld.org/parameters/1358,sāṃ,enemy
+210-320,tokh1243,http://concepticon.clld.org/parameters/791,laukito,stranger
+210-333,tokh1243,http://concepticon.clld.org/parameters/1897,ekito yām-,"help, aid"
+210-155,tokh1243,http://concepticon.clld.org/parameters/1550,krämp-,"hinder, prevent"
+210-614,tokh1243,http://concepticon.clld.org/parameters/1550,tänk-,"hinder, prevent"
+210-497,tokh1243,http://concepticon.clld.org/parameters/1747,yakne,custom
+210-561,tokh1243,http://concepticon.clld.org/parameters/1848,śalna,"strife, quarrel"
+210-674,tokh1243,http://concepticon.clld.org/parameters/1423,wät-,fight (vb)
+210-769,tokh1243,http://concepticon.clld.org/parameters/579,weta,"war, battle"
+210-346,tokh1243,http://concepticon.clld.org/parameters/1338,āɲu,peace
+210-268,tokh1243,http://concepticon.clld.org/parameters/1561,retke,army
+210-427,tokh1243,http://concepticon.clld.org/parameters/1941,wetāu,soldier
+210-443,tokh1243,http://concepticon.clld.org/parameters/951,yepe,"weapons, arms"
+210-5,tokh1243,http://concepticon.clld.org/parameters/1763,śakāto,club
+210-748,tokh1243,http://concepticon.clld.org/parameters/386,[peret],battle-ax
+210-536,tokh1243,http://concepticon.clld.org/parameters/994,wäntalye,bow
+210-8,tokh1243,http://concepticon.clld.org/parameters/977,prere,arrow
+210-782,tokh1243,http://concepticon.clld.org/parameters/977,[tsain],arrow
+210-166,tokh1243,http://concepticon.clld.org/parameters/1535,apsāl,sword
+210-431,tokh1243,http://concepticon.clld.org/parameters/1535,[kertte],sword
+210-244,tokh1243,http://concepticon.clld.org/parameters/1671,[kucatāk],tower
+210-298,tokh1243,http://concepticon.clld.org/parameters/1940,pāsk-,"guard, sentinel"
+210-293,tokh1243,http://concepticon.clld.org/parameters/388,sopi,fishnet
+210-211,tokh1243,http://concepticon.clld.org/parameters/1435,śer-,hunt
+210-90,tokh1243,http://concepticon.clld.org/parameters/1172,kärsk-,shoot
+210-468,tokh1243,http://concepticon.clld.org/parameters/1062,pelaikne,law
+210-129,tokh1243,http://concepticon.clld.org/parameters/861,prekṣenta,judge (noun)
+210-523,tokh1243,http://concepticon.clld.org/parameters/1144,reme,witness
+210-687,tokh1243,http://concepticon.clld.org/parameters/1814,kuts- (?),accuse
+210-629,tokh1243,http://concepticon.clld.org/parameters/484,nāk-,condemn
+210-650,tokh1243,http://concepticon.clld.org/parameters/1281,pele,"prison, jail"
+210-173,tokh1243,http://concepticon.clld.org/parameters/1281,prautke,"prison, jail"
+210-699,tokh1243,http://concepticon.clld.org/parameters/845,kauṣenta,murder
+210-736,tokh1243,http://concepticon.clld.org/parameters/713,kälyp-,steal
+210-352,tokh1243,http://concepticon.clld.org/parameters/713,kärk-,steal
+210-18,tokh1243,http://concepticon.clld.org/parameters/1160,lyak,thief
+210-94,tokh1243,http://concepticon.clld.org/parameters/1944,ɲakte,God
+210-109,tokh1243,http://concepticon.clld.org/parameters/911,[devakul],"temple, church"
+210-383,tokh1243,http://concepticon.clld.org/parameters/1103,telki,"sacrifice, offering"
+210-280,tokh1243,http://concepticon.clld.org/parameters/257,wināsk-,worship
+210-331,tokh1243,http://concepticon.clld.org/parameters/852,[ṣamāne],priest
+210-484,tokh1243,http://concepticon.clld.org/parameters/304,āks-,preach
+210-360,tokh1243,http://concepticon.clld.org/parameters/8,[śāp],curse
+210-690,tokh1243,http://concepticon.clld.org/parameters/303,[anahār],fast (vb)
+210-373,tokh1243,http://concepticon.clld.org/parameters/878,[nrai],hell
+210-633,tokh1243,http://concepticon.clld.org/parameters/1973,yolo,demon (evil spirit)
+210-621,tokh1243,http://concepticon.clld.org/parameters/392,[raddhi],"magic, witchcraft, sorcery"
+210-681,tokh1243,http://concepticon.clld.org/parameters/392,[wic],"magic, witchcraft, sorcery"
+210-190,tokh1243,http://concepticon.clld.org/parameters/1175,[prete],"ghost, phantom"
+210-530,tokh1243,http://concepticon.clld.org/parameters/1175,[yākṣe],"ghost, phantom"

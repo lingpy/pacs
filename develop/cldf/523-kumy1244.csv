@@ -1,0 +1,1644 @@
+ID,Language_ID,Feature_ID,Value,Concept
+523-1229,kumy1244,http://concepticon.clld.org/parameters/965,дюнйа,world
+523-480,kumy1244,http://concepticon.clld.org/parameters/965,алам,world
+523-973,kumy1244,http://concepticon.clld.org/parameters/626,уьлке,"earth, land"
+523-1018,kumy1244,http://concepticon.clld.org/parameters/626,пачалыкъ,"earth, land"
+523-1402,kumy1244,http://concepticon.clld.org/parameters/1228,ер,"earth=ground, soil"
+523-834,kumy1244,http://concepticon.clld.org/parameters/1228,топуракъ,"earth=ground, soil"
+523-1015,kumy1244,http://concepticon.clld.org/parameters/1228,чабар,"earth=ground, soil"
+523-859,kumy1244,http://concepticon.clld.org/parameters/2,чанг,dust
+523-1156,kumy1244,http://concepticon.clld.org/parameters/640,палчыкъ,mud
+523-1307,kumy1244,http://concepticon.clld.org/parameters/671,къайыр,sand
+523-869,kumy1244,http://concepticon.clld.org/parameters/2118,аракъ,"mountain, hill"
+523-753,kumy1244,http://concepticon.clld.org/parameters/2118,тав,"mountain, hill"
+523-328,kumy1244,http://concepticon.clld.org/parameters/2118,тёбе,"mountain, hill"
+523-259,kumy1244,http://concepticon.clld.org/parameters/618,таш яр,"cliff, precipice"
+523-631,kumy1244,http://concepticon.clld.org/parameters/618,тик яр,"cliff, precipice"
+523-568,kumy1244,http://concepticon.clld.org/parameters/618,къая,"cliff, precipice"
+523-1170,kumy1244,http://concepticon.clld.org/parameters/652,тюзлюк,"plain, field"
+523-923,kumy1244,http://concepticon.clld.org/parameters/652,авлакъ,"plain, field"
+523-1042,kumy1244,http://concepticon.clld.org/parameters/921,къол,valley
+523-808,kumy1244,http://concepticon.clld.org/parameters/622,атав,island
+523-1063,kumy1244,http://concepticon.clld.org/parameters/622,къос,island
+523-1317,kumy1244,http://concepticon.clld.org/parameters/166,кантинент,mainland
+523-52,kumy1244,http://concepticon.clld.org/parameters/166,къуруну уллу пайлавларыны бири,mainland
+523-202,kumy1244,http://concepticon.clld.org/parameters/113,ягъа,shore
+523-957,kumy1244,http://concepticon.clld.org/parameters/113,сув ягъа,shore
+523-1314,kumy1244,http://concepticon.clld.org/parameters/1155,анакъ,cave
+523-152,kumy1244,http://concepticon.clld.org/parameters/948,сув,water
+523-673,kumy1244,http://concepticon.clld.org/parameters/1474,денгиз,sea
+523-509,kumy1244,http://concepticon.clld.org/parameters/258,рагьат,calm (of sea)
+523-400,kumy1244,http://concepticon.clld.org/parameters/258,тыныш,calm (of sea)
+523-992,kumy1244,http://concepticon.clld.org/parameters/259,гьалек,rough (of sea)
+523-794,kumy1244,http://concepticon.clld.org/parameters/1768,гёбюк,foam
+523-1430,kumy1244,http://concepticon.clld.org/parameters/645,океан,ocean
+523-130,kumy1244,http://concepticon.clld.org/parameters/624,кёл,lake
+523-997,kumy1244,http://concepticon.clld.org/parameters/663,къолтукъ,"gulf, bay"
+523-369,kumy1244,http://concepticon.clld.org/parameters/623,айман,lagoon
+523-865,kumy1244,http://concepticon.clld.org/parameters/660,сувну тюбюнденги уллу ташлар,reef
+523-456,kumy1244,http://concepticon.clld.org/parameters/1662,бурун,"headland, point"
+523-717,kumy1244,http://concepticon.clld.org/parameters/978,толкъун,wave
+523-206,kumy1244,http://concepticon.clld.org/parameters/891,гётерилив ташыв,tide
+523-147,kumy1244,http://concepticon.clld.org/parameters/891,арыв,tide
+523-843,kumy1244,http://concepticon.clld.org/parameters/1026,чёгюв,lowtide
+523-206,kumy1244,http://concepticon.clld.org/parameters/613,гётерилив ташыв,hightide
+523-876,kumy1244,http://concepticon.clld.org/parameters/613,артыв,hightide
+523-432,kumy1244,http://concepticon.clld.org/parameters/666,оьзен,"river, stream, brook"
+523-152,kumy1244,http://concepticon.clld.org/parameters/666,сув,"river, stream, brook"
+523-336,kumy1244,http://concepticon.clld.org/parameters/666,агъым,"river, stream, brook"
+523-260,kumy1244,http://concepticon.clld.org/parameters/1982,гьайлама,whirlpool
+523-963,kumy1244,http://concepticon.clld.org/parameters/1982,айланма,whirlpool
+523-936,kumy1244,http://concepticon.clld.org/parameters/2144,булакъ,"spring, well"
+523-50,kumy1244,http://concepticon.clld.org/parameters/2144,къую,"spring, well"
+523-1418,kumy1244,http://concepticon.clld.org/parameters/1145,батмакъ,swamp
+523-1111,kumy1244,http://concepticon.clld.org/parameters/1145,батмакълыкъ,swamp
+523-143,kumy1244,http://concepticon.clld.org/parameters/943,шаршар,waterfall
+523-83,kumy1244,http://concepticon.clld.org/parameters/420,агъачлыкъ,"woods, forest"
+523-68,kumy1244,http://concepticon.clld.org/parameters/906,терек,tree (cf 08.600)
+523-178,kumy1244,http://concepticon.clld.org/parameters/1803,агъач,wood
+523-741,kumy1244,http://concepticon.clld.org/parameters/2125,таш,"stone, rock"
+523-1375,kumy1244,http://concepticon.clld.org/parameters/6,ертербенив,earthquake
+523-129,kumy1244,http://concepticon.clld.org/parameters/1732,кёк,sky
+523-398,kumy1244,http://concepticon.clld.org/parameters/1343,гюн,sun
+523-940,kumy1244,http://concepticon.clld.org/parameters/1313,ай,moon
+523-1142,kumy1244,http://concepticon.clld.org/parameters/1430,юлдуз,star
+523-1415,kumy1244,http://concepticon.clld.org/parameters/1654,яшмын,lightning
+523-444,kumy1244,http://concepticon.clld.org/parameters/1150,кёккёкюрев,thunder
+523-212,kumy1244,http://concepticon.clld.org/parameters/2007,кёк урув,lightning (as striking)
+523-543,kumy1244,http://concepticon.clld.org/parameters/858,боран,storm
+523-182,kumy1244,http://concepticon.clld.org/parameters/1733,энеджмая,rainbow
+523-705,kumy1244,http://concepticon.clld.org/parameters/630,ярыкъ,light (noun)
+523-318,kumy1244,http://concepticon.clld.org/parameters/11,къарангы,darkness
+523-516,kumy1244,http://concepticon.clld.org/parameters/1388,гёлентки,"shade, shadow"
+523-1051,kumy1244,http://concepticon.clld.org/parameters/1388,салкъынлыкъ,"shade, shadow"
+523-246,kumy1244,http://concepticon.clld.org/parameters/1977,чыкъ,dew
+523-1405,kumy1244,http://concepticon.clld.org/parameters/27,гьава,air
+523-855,kumy1244,http://concepticon.clld.org/parameters/960,ел,wind
+523-306,kumy1244,http://concepticon.clld.org/parameters/1489,булут,cloud
+523-381,kumy1244,http://concepticon.clld.org/parameters/249,туман,fog
+523-1315,kumy1244,http://concepticon.clld.org/parameters/658,янгур,rain (noun)
+523-563,kumy1244,http://concepticon.clld.org/parameters/784,къар,snow (noun)
+523-1160,kumy1244,http://concepticon.clld.org/parameters/617,буз,ice
+523-1192,kumy1244,http://concepticon.clld.org/parameters/952,чакъ,weather
+523-881,kumy1244,http://concepticon.clld.org/parameters/221,от,fire
+523-1060,kumy1244,http://concepticon.clld.org/parameters/889,ялын,flame (noun)
+523-951,kumy1244,http://concepticon.clld.org/parameters/778,тютюн,smoke (noun)
+523-226,kumy1244,http://concepticon.clld.org/parameters/646,кюл,ashes
+523-1213,kumy1244,http://concepticon.clld.org/parameters/67,джыджым,embers
+523-224,kumy1244,http://concepticon.clld.org/parameters/141,якъмакъ,burn (vb trans)
+523-410,kumy1244,http://concepticon.clld.org/parameters/1428,янмакъ,burn (vb intrans)
+523-224,kumy1244,http://concepticon.clld.org/parameters/737,якъмакъ,"light, kindle, ignite"
+523-716,kumy1244,http://concepticon.clld.org/parameters/127,сёндюрмек,extinguish
+523-534,kumy1244,http://concepticon.clld.org/parameters/1133,сирник,match (noun)
+523-442,kumy1244,http://concepticon.clld.org/parameters/1133,спичка,match (noun)
+523-178,kumy1244,http://concepticon.clld.org/parameters/10,агъач,firewood
+523-621,kumy1244,http://concepticon.clld.org/parameters/1188,кёмюр,charcoal
+523-261,kumy1244,http://concepticon.clld.org/parameters/683,адам,"person, human being"
+523-42,kumy1244,http://concepticon.clld.org/parameters/683,инсан,"person, human being"
+523-416,kumy1244,http://concepticon.clld.org/parameters/683,гиши,"person, human being"
+523-512,kumy1244,http://concepticon.clld.org/parameters/1554,эркек,man (vs. woman)
+523-603,kumy1244,http://concepticon.clld.org/parameters/962,къатын,woman
+523-1454,kumy1244,http://concepticon.clld.org/parameters/2263,эркек (джан,male
+523-1408,kumy1244,http://concepticon.clld.org/parameters/2263,гьайван),male
+523-1421,kumy1244,http://concepticon.clld.org/parameters/2260,тиши (джан,female
+523-1408,kumy1244,http://concepticon.clld.org/parameters/2260,гьайван),female
+523-788,kumy1244,http://concepticon.clld.org/parameters/1366,уланйаш,boy
+523-757,kumy1244,http://concepticon.clld.org/parameters/76,яшёрюм,young man (adolescent)
+523-454,kumy1244,http://concepticon.clld.org/parameters/1646,къызйаш,girl
+523-1053,kumy1244,http://concepticon.clld.org/parameters/77,къыш,young woman (adolescent)
+523-1339,kumy1244,http://concepticon.clld.org/parameters/1304,гиччи яш,child
+523-862,kumy1244,http://concepticon.clld.org/parameters/1304,нарыста,child
+523-114,kumy1244,http://concepticon.clld.org/parameters/1289,сабий,"infant, baby"
+523-862,kumy1244,http://concepticon.clld.org/parameters/1289,нарыста,"infant, baby"
+523-512,kumy1244,http://concepticon.clld.org/parameters/1200,эркек,husband
+523-1410,kumy1244,http://concepticon.clld.org/parameters/1200,эри,husband
+523-494,kumy1244,http://concepticon.clld.org/parameters/1199,къатыны,wife
+523-554,kumy1244,http://concepticon.clld.org/parameters/203,къатын алмакъ,marry
+523-1068,kumy1244,http://concepticon.clld.org/parameters/203,эрге бармакъ,marry
+523-1369,kumy1244,http://concepticon.clld.org/parameters/1259,той,"marriage, wedding"
+523-602,kumy1244,http://concepticon.clld.org/parameters/1259,эркъатын болмакъ,"marriage, wedding"
+523-744,kumy1244,http://concepticon.clld.org/parameters/1134,айрылмакъ,divorce
+523-1459,kumy1244,http://concepticon.clld.org/parameters/1134,гьарам этмек,divorce
+523-850,kumy1244,http://concepticon.clld.org/parameters/1217,ата,father
+523-319,kumy1244,http://concepticon.clld.org/parameters/1216,ана,mother
+523-434,kumy1244,http://concepticon.clld.org/parameters/505,ата-ана,parents
+523-471,kumy1244,http://concepticon.clld.org/parameters/424,уьленген,married man
+523-415,kumy1244,http://concepticon.clld.org/parameters/426,эрге баргъан,married woman
+523-1388,kumy1244,http://concepticon.clld.org/parameters/1620,улан,son
+523-1054,kumy1244,http://concepticon.clld.org/parameters/1357,къыз,daughter
+523-620,kumy1244,http://concepticon.clld.org/parameters/1801,яшлар,offspring (son or daughter)
+523-1320,kumy1244,http://concepticon.clld.org/parameters/1262,уланкъардаш,brother
+523-1372,kumy1244,http://concepticon.clld.org/parameters/1759,агъа,older brother
+523-565,kumy1244,http://concepticon.clld.org/parameters/1759,уллу уланкъардаш,older brother
+523-457,kumy1244,http://concepticon.clld.org/parameters/1760,ини,younger brother
+523-811,kumy1244,http://concepticon.clld.org/parameters/1760,гиччи уланкъардаш,younger brother
+523-1186,kumy1244,http://concepticon.clld.org/parameters/1263,къызардаш,sister
+523-832,kumy1244,http://concepticon.clld.org/parameters/1758,уллу къызардашы,older sister
+523-778,kumy1244,http://concepticon.clld.org/parameters/1761,гиччи къызардашы,younger sister
+523-92,kumy1244,http://concepticon.clld.org/parameters/1640,къызардаш-уланкъардаш,sibling
+523-69,kumy1244,http://concepticon.clld.org/parameters/1005,эгизлер,twins
+523-1166,kumy1244,http://concepticon.clld.org/parameters/1383,уллу ата,grandfather
+523-732,kumy1244,http://concepticon.clld.org/parameters/406,къарт,old man
+523-1072,kumy1244,http://concepticon.clld.org/parameters/1496,уллу ана,grandmother
+523-805,kumy1244,http://concepticon.clld.org/parameters/907,къарт къатын,old woman
+523-137,kumy1244,http://concepticon.clld.org/parameters/1618,баласыны баласы (улан),grandson
+523-773,kumy1244,http://concepticon.clld.org/parameters/1619,баласыны къызы,granddaughter
+523-71,kumy1244,http://concepticon.clld.org/parameters/1327,анасыны уланкъардашы,uncle
+523-531,kumy1244,http://concepticon.clld.org/parameters/1327,атасыны уланкъардашы,uncle
+523-71,kumy1244,http://concepticon.clld.org/parameters/1984,анасыны уланкъардашы,mother's brother
+523-531,kumy1244,http://concepticon.clld.org/parameters/1985,атасыны уланкъардашы,father's brother
+523-142,kumy1244,http://concepticon.clld.org/parameters/1272,атасыны къызардашы,aunt
+523-348,kumy1244,http://concepticon.clld.org/parameters/1272,анасыны къызардашы,aunt
+523-348,kumy1244,http://concepticon.clld.org/parameters/171,анасыны къызардашы,mother's sister
+523-142,kumy1244,http://concepticon.clld.org/parameters/170,атасыны къызардашы,father's sister
+523-286,kumy1244,http://concepticon.clld.org/parameters/1063,яда,nephew
+523-1248,kumy1244,http://concepticon.clld.org/parameters/1063,уланкъардашыны къызы,nephew
+523-35,kumy1244,http://concepticon.clld.org/parameters/1642,къызардашыны яда,niece
+523-170,kumy1244,http://concepticon.clld.org/parameters/1642,уланкъардашыны яшы,niece
+523-488,kumy1244,http://concepticon.clld.org/parameters/1643,агъа-инини,cousin
+523-194,kumy1244,http://concepticon.clld.org/parameters/1643,къызардаш-уланкъардашны уланлары,cousin
+523-966,kumy1244,http://concepticon.clld.org/parameters/1643,къызардаш-уланкъардашны къызлары,cousin
+523-911,kumy1244,http://concepticon.clld.org/parameters/1669,ата-бабалары,ancestors
+523-1014,kumy1244,http://concepticon.clld.org/parameters/490,геледжегибиз,descendants
+523-1074,kumy1244,http://concepticon.clld.org/parameters/2255,эркек ата,father-in-law (of a man)
+523-1433,kumy1244,http://concepticon.clld.org/parameters/2254,къайын ата,father-in-law (of a woman)
+523-135,kumy1244,http://concepticon.clld.org/parameters/2256,эркек ана,mother-in-law (of a man)
+523-389,kumy1244,http://concepticon.clld.org/parameters/2257,къайын ана,mother-in-law (of a woman)
+523-720,kumy1244,http://concepticon.clld.org/parameters/2267,гиев,son-in-law (of a man)
+523-720,kumy1244,http://concepticon.clld.org/parameters/2266,гиев,son-in-law (of a woman)
+523-609,kumy1244,http://concepticon.clld.org/parameters/2265,гелин,daughter-in-law (of a man)
+523-609,kumy1244,http://concepticon.clld.org/parameters/2264,гелин,daughter-in-law (of a woman)
+523-626,kumy1244,http://concepticon.clld.org/parameters/237,оьгей,stepfather
+523-1285,kumy1244,http://concepticon.clld.org/parameters/236,оьгей ана,stepmother
+523-334,kumy1244,http://concepticon.clld.org/parameters/1059,оьгей улан,stepson
+523-230,kumy1244,http://concepticon.clld.org/parameters/1058,оьгей къыз,stepdaughter
+523-204,kumy1244,http://concepticon.clld.org/parameters/1149,оьксюз,orphan
+523-793,kumy1244,http://concepticon.clld.org/parameters/1756,къасыр къатын,widow
+523-291,kumy1244,http://concepticon.clld.org/parameters/1756,тул къатын,widow
+523-540,kumy1244,http://concepticon.clld.org/parameters/1981,тул къалгъан,widower
+523-1470,kumy1244,http://concepticon.clld.org/parameters/1981,тул гиши,widower
+523-520,kumy1244,http://concepticon.clld.org/parameters/1644,къардашлар,"relatives, kinsmen"
+523-1177,kumy1244,http://concepticon.clld.org/parameters/194,уьй агьлю,family
+523-1066,kumy1244,http://concepticon.clld.org/parameters/1209,мен,I
+523-937,kumy1244,http://concepticon.clld.org/parameters/1215,сен,you (singular)
+523-1173,kumy1244,http://concepticon.clld.org/parameters/262,о,he/she/it
+523-860,kumy1244,http://concepticon.clld.org/parameters/262,ол,he/she/it
+523-1260,kumy1244,http://concepticon.clld.org/parameters/1212,биз,we
+523-1400,kumy1244,http://concepticon.clld.org/parameters/1131,—,we (inclusive)
+523-1400,kumy1244,http://concepticon.clld.org/parameters/1130,—,we (exclusive)
+523-1467,kumy1244,http://concepticon.clld.org/parameters/1213,сиз,you (plural)
+523-235,kumy1244,http://concepticon.clld.org/parameters/817,олар,they
+523-1416,kumy1244,http://concepticon.clld.org/parameters/619,гьайван,animal
+523-512,kumy1244,http://concepticon.clld.org/parameters/2261,эркек,male (adj)
+523-1330,kumy1244,http://concepticon.clld.org/parameters/2262,тиши,female (adj)
+523-632,kumy1244,http://concepticon.clld.org/parameters/631,уьй гьайван,livestock
+523-120,kumy1244,http://concepticon.clld.org/parameters/649,отлав,pasture
+523-171,kumy1244,http://concepticon.clld.org/parameters/263,туварчы,herdsman
+523-248,kumy1244,http://concepticon.clld.org/parameters/263,къойчу,herdsman
+523-1065,kumy1244,http://concepticon.clld.org/parameters/851,аран,"stable, stall"
+523-1384,kumy1244,http://concepticon.clld.org/parameters/1153,мал,cattle (bovine)
+523-267,kumy1244,http://concepticon.clld.org/parameters/1153,мююзлю,cattle (bovine)
+523-861,kumy1244,http://concepticon.clld.org/parameters/1008,оьгюз,bull
+523-861,kumy1244,http://concepticon.clld.org/parameters/1169,оьгюз,ox
+523-1131,kumy1244,http://concepticon.clld.org/parameters/1007,сыйыр,cow
+523-300,kumy1244,http://concepticon.clld.org/parameters/1989,бузав,calf
+523-1043,kumy1244,http://concepticon.clld.org/parameters/1331,къой,sheep
+523-505,kumy1244,http://concepticon.clld.org/parameters/1331,къочгъар,sheep
+523-505,kumy1244,http://concepticon.clld.org/parameters/1344,къочгъар,ram
+523-1043,kumy1244,http://concepticon.clld.org/parameters/1345,къой,ewe
+523-58,kumy1244,http://concepticon.clld.org/parameters/820,къозу,lamb
+523-337,kumy1244,http://concepticon.clld.org/parameters/1348,къабан,boar
+523-418,kumy1244,http://concepticon.clld.org/parameters/1351,тиши донгуз,sow (2)
+523-1083,kumy1244,http://concepticon.clld.org/parameters/1337,донгуз,pig
+523-95,kumy1244,http://concepticon.clld.org/parameters/1502,эчки,goat
+523-384,kumy1244,http://concepticon.clld.org/parameters/264,теке,he-goat
+523-1447,kumy1244,http://concepticon.clld.org/parameters/1972,улакъ,kid
+523-950,kumy1244,http://concepticon.clld.org/parameters/615,ат,horse (equine)
+523-547,kumy1244,http://concepticon.clld.org/parameters/936,айгъыр,stallion
+523-1056,kumy1244,http://concepticon.clld.org/parameters/938,байтал,mare
+523-755,kumy1244,http://concepticon.clld.org/parameters/1647,тай,"foal, colt"
+523-1305,kumy1244,http://concepticon.clld.org/parameters/1862,эшек,"ass, donkey"
+523-1000,kumy1244,http://concepticon.clld.org/parameters/890,къачыр,mule
+523-1215,kumy1244,http://concepticon.clld.org/parameters/265,уьй къуш,fowl
+523-1050,kumy1244,http://concepticon.clld.org/parameters/1511,хораз,"cock, rooster"
+523-839,kumy1244,http://concepticon.clld.org/parameters/1514,тавукъ,hen
+523-388,kumy1244,http://concepticon.clld.org/parameters/1318,джиджек,chicken
+523-578,kumy1244,http://concepticon.clld.org/parameters/1187,къаз,goose
+523-627,kumy1244,http://concepticon.clld.org/parameters/1360,бабиш,duck
+523-1365,kumy1244,http://concepticon.clld.org/parameters/539,уя,nest
+523-49,kumy1244,http://concepticon.clld.org/parameters/937,къуш,bird
+523-1052,kumy1244,http://concepticon.clld.org/parameters/950,чабакъ къуш,seagull
+523-847,kumy1244,http://concepticon.clld.org/parameters/950,чабакъчы,seagull
+523-363,kumy1244,http://concepticon.clld.org/parameters/758,чыл,heron
+523-215,kumy1244,http://concepticon.clld.org/parameters/1905,къаракъуш,eagle
+523-656,kumy1244,http://concepticon.clld.org/parameters/307,къыргъый,hawk
+523-786,kumy1244,http://concepticon.clld.org/parameters/1185,уллу йыртгъыч къуш,vulture
+523-594,kumy1244,http://concepticon.clld.org/parameters/1793,варканат,bat
+523-244,kumy1244,http://concepticon.clld.org/parameters/882,папагъан,parrot
+523-1323,kumy1244,http://concepticon.clld.org/parameters/913,къаргъа,crow
+523-1006,kumy1244,http://concepticon.clld.org/parameters/1853,гёгюрчюн,dove
+523-795,kumy1244,http://concepticon.clld.org/parameters/735,ябалакъ,owl
+523-467,kumy1244,http://concepticon.clld.org/parameters/2009,ит,dog
+523-1300,kumy1244,http://concepticon.clld.org/parameters/1136,уьй къоян,rabbit
+523-703,kumy1244,http://concepticon.clld.org/parameters/1208,мишик,cat
+523-1400,kumy1244,http://concepticon.clld.org/parameters/309,—,opossum
+523-1079,kumy1244,http://concepticon.clld.org/parameters/2139,чычкъан,"mouse, rat"
+523-1284,kumy1244,http://concepticon.clld.org/parameters/2139,ло бан,"mouse, rat"
+523-358,kumy1244,http://concepticon.clld.org/parameters/227,балыкъ,fish
+523-1392,kumy1244,http://concepticon.clld.org/parameters/213,къанат,fin (dorsal)
+523-1031,kumy1244,http://concepticon.clld.org/parameters/266,акъча,fishscale
+523-356,kumy1244,http://concepticon.clld.org/parameters/1916,балыкъны тыныш тамагъы,gill
+523-1338,kumy1244,http://concepticon.clld.org/parameters/598,денгиз таш,shell
+523-990,kumy1244,http://concepticon.clld.org/parameters/1110,хортма,shark
+523-350,kumy1244,http://concepticon.clld.org/parameters/1110,акула,shark
+523-53,kumy1244,http://concepticon.clld.org/parameters/1479,балыкъны бир джурасы,"porpoise, dolphin"
+523-1295,kumy1244,http://concepticon.clld.org/parameters/1479,делфин,"porpoise, dolphin"
+523-990,kumy1244,http://concepticon.clld.org/parameters/957,хортма,whale
+523-1377,kumy1244,http://concepticon.clld.org/parameters/957,кит,whale
+523-1400,kumy1244,http://concepticon.clld.org/parameters/1910,—,stingray
+523-1221,kumy1244,http://concepticon.clld.org/parameters/1013,йылан балыкъ,freshwater eel
+523-644,kumy1244,http://concepticon.clld.org/parameters/522,бёрю,wolf
+523-228,kumy1244,http://concepticon.clld.org/parameters/1386,арслан-къаплан,lion
+523-1024,kumy1244,http://concepticon.clld.org/parameters/1820,аюв,bear
+523-330,kumy1244,http://concepticon.clld.org/parameters/1312,тюлкю,fox
+523-41,kumy1244,http://concepticon.clld.org/parameters/1936,гийик,deer
+523-1175,kumy1244,http://concepticon.clld.org/parameters/1350,маймун,monkey
+523-548,kumy1244,http://concepticon.clld.org/parameters/1290,пил,elephant
+523-1127,kumy1244,http://concepticon.clld.org/parameters/1871,тюе,camel
+523-929,kumy1244,http://concepticon.clld.org/parameters/620,увакъ джанджанывар,insect
+523-680,kumy1244,http://concepticon.clld.org/parameters/310,бит,louse
+523-528,kumy1244,http://concepticon.clld.org/parameters/267,сирке,nit (louse egg)
+523-943,kumy1244,http://concepticon.clld.org/parameters/232,бюрче,flea
+523-344,kumy1244,http://concepticon.clld.org/parameters/1974,къыркъаякъ,centipede
+523-310,kumy1244,http://concepticon.clld.org/parameters/1538,арпелек,scorpion
+523-745,kumy1244,http://concepticon.clld.org/parameters/1575,къонгъузакъ,cockroach
+523-756,kumy1244,http://concepticon.clld.org/parameters/587,хомурсгъа,ant
+523-209,kumy1244,http://concepticon.clld.org/parameters/843,миям,spider
+523-938,kumy1244,http://concepticon.clld.org/parameters/1065,ав,spider web
+523-1034,kumy1244,http://concepticon.clld.org/parameters/665,балджибин,bee
+523-747,kumy1244,http://concepticon.clld.org/parameters/1931,палавуз,beeswax
+523-2,kumy1244,http://concepticon.clld.org/parameters/88,балджибин уя,beehive
+523-524,kumy1244,http://concepticon.clld.org/parameters/1517,телджибин,wasp
+523-836,kumy1244,http://concepticon.clld.org/parameters/1504,джибин,fly
+523-1151,kumy1244,http://concepticon.clld.org/parameters/95,сюйрю джибин,"sandfly (midge), gnat"
+523-1151,kumy1244,http://concepticon.clld.org/parameters/1509,сюйрю джибин,mosquito
+523-821,kumy1244,http://concepticon.clld.org/parameters/1219,хурт,worm
+523-117,kumy1244,http://concepticon.clld.org/parameters/730,йылан,snake
+523-821,kumy1244,http://concepticon.clld.org/parameters/206,хурт,firefly
+523-1158,kumy1244,http://concepticon.clld.org/parameters/1791,гюмелек,butterfly
+523-1380,kumy1244,http://concepticon.clld.org/parameters/607,кава,grasshopper
+523-1161,kumy1244,http://concepticon.clld.org/parameters/1543,хуртуя (джанывар),snail
+523-472,kumy1244,http://concepticon.clld.org/parameters/503,бакъа,frog
+523-1194,kumy1244,http://concepticon.clld.org/parameters/632,чындырхав,lizard
+523-346,kumy1244,http://concepticon.clld.org/parameters/1857,крокодил,"crocodile, alligator"
+523-1105,kumy1244,http://concepticon.clld.org/parameters/112,такъталы бакъа,turtle
+523-424,kumy1244,http://concepticon.clld.org/parameters/1480,къаркъара,body
+523-598,kumy1244,http://concepticon.clld.org/parameters/1480,чарх,body
+523-154,kumy1244,http://concepticon.clld.org/parameters/763,тери,"skin, hide"
+523-697,kumy1244,http://concepticon.clld.org/parameters/763,гён,"skin, hide"
+523-760,kumy1244,http://concepticon.clld.org/parameters/2259,эт,flesh
+523-1462,kumy1244,http://concepticon.clld.org/parameters/1040,чач,hair (head)
+523-1193,kumy1244,http://concepticon.clld.org/parameters/678,сакъал,beard
+523-726,kumy1244,http://concepticon.clld.org/parameters/189,тюклер,body hair
+523-726,kumy1244,http://concepticon.clld.org/parameters/36,тюклер,pubic hair
+523-249,kumy1244,http://concepticon.clld.org/parameters/576,къаснакъ,dandruff
+523-581,kumy1244,http://concepticon.clld.org/parameters/946,къан,blood
+523-908,kumy1244,http://concepticon.clld.org/parameters/525,къантамур,"vein, artery"
+523-613,kumy1244,http://concepticon.clld.org/parameters/1394,сюек,bone
+523-814,kumy1244,http://concepticon.clld.org/parameters/801,къабургъа сюек,rib
+523-419,kumy1244,http://concepticon.clld.org/parameters/1393,мююз,horn
+523-99,kumy1244,http://concepticon.clld.org/parameters/1220,къуйрукъ,tail
+523-713,kumy1244,http://concepticon.clld.org/parameters/1291,аркъа,back
+523-1263,kumy1244,http://concepticon.clld.org/parameters/805,аркъа сюек,spine
+523-1326,kumy1244,http://concepticon.clld.org/parameters/1256,баш,head
+523-895,kumy1244,http://concepticon.clld.org/parameters/1604,чеке,"side of head, temple"
+523-1218,kumy1244,http://concepticon.clld.org/parameters/1604,самай,"side of head, temple"
+523-663,kumy1244,http://concepticon.clld.org/parameters/1605,такъа,skull
+523-96,kumy1244,http://concepticon.clld.org/parameters/1583,баш май,brain
+523-1297,kumy1244,http://concepticon.clld.org/parameters/1560,бет,face
+523-317,kumy1244,http://concepticon.clld.org/parameters/1560,юз,face
+523-835,kumy1244,http://concepticon.clld.org/parameters/123,мангалай,forehead
+523-1132,kumy1244,http://concepticon.clld.org/parameters/798,яякъ сюек,jaw
+523-591,kumy1244,http://concepticon.clld.org/parameters/1730,яякъ,cheek
+523-1424,kumy1244,http://concepticon.clld.org/parameters/1510,сакъалтюп,chin
+523-698,kumy1244,http://concepticon.clld.org/parameters/1248,гёз,eye
+523-567,kumy1244,http://concepticon.clld.org/parameters/1173,къаш,eyebrow
+523-699,kumy1244,http://concepticon.clld.org/parameters/17,гёз къапгъач,eyelid
+523-612,kumy1244,http://concepticon.clld.org/parameters/1540,кирпик,eyelash
+523-941,kumy1244,http://concepticon.clld.org/parameters/1655,гёзлерин къысмакъ,blink
+523-255,kumy1244,http://concepticon.clld.org/parameters/1247,къулакъ,ear
+523-559,kumy1244,http://concepticon.clld.org/parameters/18,къулакъны тюп учу,earlobe
+523-422,kumy1244,http://concepticon.clld.org/parameters/32,къулакъны насы,earwax
+523-456,kumy1244,http://concepticon.clld.org/parameters/1221,бурун,nose
+523-1427,kumy1244,http://concepticon.clld.org/parameters/1178,танав,nostril
+523-742,kumy1244,http://concepticon.clld.org/parameters/208,бурунпокъ,mucus (nasal)
+523-1188,kumy1244,http://concepticon.clld.org/parameters/674,авуз,mouth
+523-1432,kumy1244,http://concepticon.clld.org/parameters/73,бурну,beak
+523-1110,kumy1244,http://concepticon.clld.org/parameters/73,къушбурун,beak
+523-521,kumy1244,http://concepticon.clld.org/parameters/478,эрин,lip
+523-116,kumy1244,http://concepticon.clld.org/parameters/1205,тил,tongue
+523-111,kumy1244,http://concepticon.clld.org/parameters/1380,тиш,tooth
+523-30,kumy1244,http://concepticon.clld.org/parameters/139,тиш этлер,gums
+523-1466,kumy1244,http://concepticon.clld.org/parameters/1049,авуз тиш,molartooth
+523-162,kumy1244,http://concepticon.clld.org/parameters/1333,боюн,neck
+523-1395,kumy1244,http://concepticon.clld.org/parameters/1347,елке,nape of neck
+523-1440,kumy1244,http://concepticon.clld.org/parameters/1346,тамакъ,throat
+523-436,kumy1244,http://concepticon.clld.org/parameters/1482,инбаш,shoulder
+523-989,kumy1244,http://concepticon.clld.org/parameters/172,яврункъалакъ,shoulderblade
+523-299,kumy1244,http://concepticon.clld.org/parameters/1994,омурав,collarbone
+523-595,kumy1244,http://concepticon.clld.org/parameters/1994,омурав сюек,collarbone
+523-1042,kumy1244,http://concepticon.clld.org/parameters/1673,къол,arm
+523-997,kumy1244,http://concepticon.clld.org/parameters/1886,къолтукъ,armpit
+523-81,kumy1244,http://concepticon.clld.org/parameters/981,тирсек,elbow
+523-1358,kumy1244,http://concepticon.clld.org/parameters/799,билек,wrist
+523-1042,kumy1244,http://concepticon.clld.org/parameters/1277,къол,hand
+523-1359,kumy1244,http://concepticon.clld.org/parameters/1183,ая,palm of hand
+523-635,kumy1244,http://concepticon.clld.org/parameters/1183,къолну аясы,palm of hand
+523-257,kumy1244,http://concepticon.clld.org/parameters/1303,бармакъ,finger
+523-888,kumy1244,http://concepticon.clld.org/parameters/1781,башбармакъ,thumb
+523-1114,kumy1244,http://concepticon.clld.org/parameters/1258,тырнакъ,fingernail
+523-1114,kumy1244,http://concepticon.clld.org/parameters/72,тырнакъ,claw
+523-532,kumy1244,http://concepticon.clld.org/parameters/1297,аякъ,leg
+523-1181,kumy1244,http://concepticon.clld.org/parameters/800,бут,thigh
+523-822,kumy1244,http://concepticon.clld.org/parameters/498,борбай,calf of leg
+523-1425,kumy1244,http://concepticon.clld.org/parameters/1371,тобукъ,knee
+523-82,kumy1244,http://concepticon.clld.org/parameters/1301,багъынчакъ,foot
+523-82,kumy1244,http://concepticon.clld.org/parameters/803,багъынчакъ,ankle
+523-490,kumy1244,http://concepticon.clld.org/parameters/980,табан,heel
+523-1452,kumy1244,http://concepticon.clld.org/parameters/318,гьыз,footprint
+523-257,kumy1244,http://concepticon.clld.org/parameters/1389,бармакъ,toe
+523-1392,kumy1244,http://concepticon.clld.org/parameters/1257,къанат,wing
+523-1392,kumy1244,http://concepticon.clld.org/parameters/1201,къанат,feather
+523-428,kumy1244,http://concepticon.clld.org/parameters/1592,кёкюрек такъта,chest
+523-572,kumy1244,http://concepticon.clld.org/parameters/1402,кёкюрек,breast (of woman)
+523-441,kumy1244,http://concepticon.clld.org/parameters/796,эмчек,"nipple, teat"
+523-409,kumy1244,http://concepticon.clld.org/parameters/796,эмчекни башы,"nipple, teat"
+523-769,kumy1244,http://concepticon.clld.org/parameters/154,елин,udder
+523-125,kumy1244,http://concepticon.clld.org/parameters/1838,гиндик,navel
+523-1154,kumy1244,http://concepticon.clld.org/parameters/1223,юрек,heart
+523-1129,kumy1244,http://concepticon.clld.org/parameters/688,оьпке,lung
+523-1203,kumy1244,http://concepticon.clld.org/parameters/1224,бавур,liver
+523-1242,kumy1244,http://concepticon.clld.org/parameters/489,бюйрек,kidney
+523-1357,kumy1244,http://concepticon.clld.org/parameters/1744,талакъ,spleen
+523-1262,kumy1244,http://concepticon.clld.org/parameters/819,ашкъазан,stomach
+523-845,kumy1244,http://concepticon.clld.org/parameters/1991,ичеклер,"intestines, guts"
+523-345,kumy1244,http://concepticon.clld.org/parameters/1681,инче бел,waist
+523-1181,kumy1244,http://concepticon.clld.org/parameters/1745,бут,hip
+523-189,kumy1244,http://concepticon.clld.org/parameters/1745,сом,hip
+523-625,kumy1244,http://concepticon.clld.org/parameters/834,олтурагъан сомлары,buttocks
+523-1124,kumy1244,http://concepticon.clld.org/parameters/804,къозулакъ,womb
+523-533,kumy1244,http://concepticon.clld.org/parameters/797,ташакълар,testicle
+523-75,kumy1244,http://concepticon.clld.org/parameters/1222,чюк,penis
+523-1290,kumy1244,http://concepticon.clld.org/parameters/1407,тыныш алмакъ,"breathe, breath"
+523-1178,kumy1244,http://concepticon.clld.org/parameters/1407,тынышы,"breathe, breath"
+523-359,kumy1244,http://concepticon.clld.org/parameters/1028,эснемек,"yawn, gape"
+523-1463,kumy1244,http://concepticon.clld.org/parameters/162,гьыкъ тийген,hiccough
+523-1134,kumy1244,http://concepticon.clld.org/parameters/879,ётгюрмек,cough
+523-15,kumy1244,http://concepticon.clld.org/parameters/1621,шюшгюрмек,sneeze
+523-1279,kumy1244,http://concepticon.clld.org/parameters/126,терлемек,perspire
+523-1319,kumy1244,http://concepticon.clld.org/parameters/1440,тюкюрмек,spit
+523-242,kumy1244,http://concepticon.clld.org/parameters/1440,тюкюрюк,spit
+523-569,kumy1244,http://concepticon.clld.org/parameters/1278,къусмакъ къусукъ,vomit
+523-1163,kumy1244,http://concepticon.clld.org/parameters/1278,аврувгъа тарымакъ,vomit
+523-994,kumy1244,http://concepticon.clld.org/parameters/1403,хапмакъ,bite
+523-293,kumy1244,http://concepticon.clld.org/parameters/319,яламакъ,lick
+523-824,kumy1244,http://concepticon.clld.org/parameters/268,йыламакъ тёкмек,dribble
+523-849,kumy1244,http://concepticon.clld.org/parameters/1585,охламакъ,sleep
+523-5,kumy1244,http://concepticon.clld.org/parameters/1585,юхламакъ,sleep
+523-650,kumy1244,http://concepticon.clld.org/parameters/1983,хырылламакъ,snore
+523-1098,kumy1244,http://concepticon.clld.org/parameters/1920,тюш гёрмек,dream
+523-1064,kumy1244,http://concepticon.clld.org/parameters/1602,уянмакъ,wake up
+523-331,kumy1244,http://concepticon.clld.org/parameters/1159,осурмакъ,break wind
+523-1028,kumy1244,http://concepticon.clld.org/parameters/592,сиймек,urinate
+523-779,kumy1244,http://concepticon.clld.org/parameters/676,чычмакъ,defecate
+523-671,kumy1244,http://concepticon.clld.org/parameters/1785,сигишмек,have sexual intercourse
+523-841,kumy1244,http://concepticon.clld.org/parameters/52,къартылламакъ,shiver
+523-1104,kumy1244,http://concepticon.clld.org/parameters/138,киринмек,bathe
+523-868,kumy1244,http://concepticon.clld.org/parameters/1152,этмек,beget (of father)
+523-1211,kumy1244,http://concepticon.clld.org/parameters/1090,тувмакъ,born (to be)
+523-1259,kumy1244,http://concepticon.clld.org/parameters/1123,айлы,pregnant
+523-149,kumy1244,http://concepticon.clld.org/parameters/1087,айлы болмакъ,conceive
+523-1378,kumy1244,http://concepticon.clld.org/parameters/1422,яшамакъ,"live, living, life"
+523-7,kumy1244,http://concepticon.clld.org/parameters/1422,сав яшав,"live, living, life"
+523-837,kumy1244,http://concepticon.clld.org/parameters/1494,оьлмек,"die, dead"
+523-1273,kumy1244,http://concepticon.clld.org/parameters/1494,оьлю,"die, dead"
+523-292,kumy1244,http://concepticon.clld.org/parameters/1494,оьлген,"die, dead"
+523-1155,kumy1244,http://concepticon.clld.org/parameters/1904,акъгъан сувгъа батып оьлген,drowned
+523-736,kumy1244,http://concepticon.clld.org/parameters/1417,оьлтюрмек,kill
+523-867,kumy1244,http://concepticon.clld.org/parameters/767,сюек оьлю,corpse
+523-46,kumy1244,http://concepticon.clld.org/parameters/1719,гёммек,bury (the dead)
+523-946,kumy1244,http://concepticon.clld.org/parameters/1773,къабур,"grave, tomb"
+523-1461,kumy1244,http://concepticon.clld.org/parameters/785,гючлю,"strong, mighty, powerful"
+523-978,kumy1244,http://concepticon.clld.org/parameters/785,къудратлы,"strong, mighty, powerful"
+523-321,kumy1244,http://concepticon.clld.org/parameters/1601,осал,weak
+523-996,kumy1244,http://concepticon.clld.org/parameters/1601,гьалсыз,weak
+523-606,kumy1244,http://concepticon.clld.org/parameters/1364,сав,"well, health"
+523-500,kumy1244,http://concepticon.clld.org/parameters/1364,савлукъ,"well, health"
+523-975,kumy1244,http://concepticon.clld.org/parameters/1847,аврувлу,"sick, sickness"
+523-237,kumy1244,http://concepticon.clld.org/parameters/1847,аврув,"sick, sickness"
+523-1355,kumy1244,http://concepticon.clld.org/parameters/1534,яллав,fever
+523-311,kumy1244,http://concepticon.clld.org/parameters/1534,къыздырмам бар,fever
+523-1439,kumy1244,http://concepticon.clld.org/parameters/1534,къызывум бар,fever
+523-1216,kumy1244,http://concepticon.clld.org/parameters/1957,хырдан,goiter
+523-1440,kumy1244,http://concepticon.clld.org/parameters/1957,тамакъ,goiter
+523-386,kumy1244,http://concepticon.clld.org/parameters/102,сувукъ тийив,cold (catarrh)
+523-208,kumy1244,http://concepticon.clld.org/parameters/1109,яра,"wound, sore"
+523-109,kumy1244,http://concepticon.clld.org/parameters/1148,майшайып авуртмакъ,bruise
+523-258,kumy1244,http://concepticon.clld.org/parameters/1903,ширик,swelling
+523-866,kumy1244,http://concepticon.clld.org/parameters/148,къычытав,itch
+523-169,kumy1244,http://concepticon.clld.org/parameters/1584,сувана къабарчыкъ,blister
+523-592,kumy1244,http://concepticon.clld.org/parameters/1584,къабаргъан ер,blister
+523-596,kumy1244,http://concepticon.clld.org/parameters/793,шишик,boil (noun)
+523-438,kumy1244,http://concepticon.clld.org/parameters/793,сызлавукъ,boil (noun)
+523-701,kumy1244,http://concepticon.clld.org/parameters/1808,ирин,pus
+523-566,kumy1244,http://concepticon.clld.org/parameters/497,яра гьыз,scar
+523-254,kumy1244,http://concepticon.clld.org/parameters/497,яра дамгъа,scar
+523-858,kumy1244,http://concepticon.clld.org/parameters/499,къолай этмек,"cure, heal"
+523-421,kumy1244,http://concepticon.clld.org/parameters/499,сав этмек,"cure, heal"
+523-126,kumy1244,http://concepticon.clld.org/parameters/597,дохтур,physician
+523-463,kumy1244,http://concepticon.clld.org/parameters/597,врач,physician
+523-1281,kumy1244,http://concepticon.clld.org/parameters/1372,дарман,"medicine, drug"
+523-1362,kumy1244,http://concepticon.clld.org/parameters/655,ув,poison
+523-712,kumy1244,http://concepticon.clld.org/parameters/1757,арыгъан,"tired, weary"
+523-481,kumy1244,http://concepticon.clld.org/parameters/1757,къавшалгъан,"tired, weary"
+523-86,kumy1244,http://concepticon.clld.org/parameters/168,ялалмакъ,rest
+523-493,kumy1244,http://concepticon.clld.org/parameters/1564,эринчек,lazy
+523-727,kumy1244,http://concepticon.clld.org/parameters/1125,аяз,bald
+523-187,kumy1244,http://concepticon.clld.org/parameters/320,акъсакълакъмакъ,lame
+523-223,kumy1244,http://concepticon.clld.org/parameters/996,сангырав,deaf
+523-1409,kumy1244,http://concepticon.clld.org/parameters/1666,тилсиз,mute
+523-863,kumy1244,http://concepticon.clld.org/parameters/1653,сокъур,blind
+523-37,kumy1244,http://concepticon.clld.org/parameters/1463,эсирген,intoxicated
+523-196,kumy1244,http://concepticon.clld.org/parameters/590,ялан,"naked, bare"
+523-191,kumy1244,http://concepticon.clld.org/parameters/590,ялангъан,"naked, bare"
+523-61,kumy1244,http://concepticon.clld.org/parameters/1336,ашамакъ,eat
+523-955,kumy1244,http://concepticon.clld.org/parameters/256,аш,food
+523-1141,kumy1244,http://concepticon.clld.org/parameters/269,къайналгъан,cooked
+523-1205,kumy1244,http://concepticon.clld.org/parameters/1959,чий,raw
+523-819,kumy1244,http://concepticon.clld.org/parameters/178,бишген,ripe
+523-492,kumy1244,http://concepticon.clld.org/parameters/1958,бишмеген,"green, unripe"
+523-221,kumy1244,http://concepticon.clld.org/parameters/1728,чириген,rotten
+523-935,kumy1244,http://concepticon.clld.org/parameters/1401,ичмек,drink
+523-964,kumy1244,http://concepticon.clld.org/parameters/1533,ач болмакъ,hunger
+523-676,kumy1244,http://concepticon.clld.org/parameters/199,ачлыкъ,famine
+523-1033,kumy1244,http://concepticon.clld.org/parameters/848,сувсаплыкъ,thirst
+523-890,kumy1244,http://concepticon.clld.org/parameters/1421,сормакъ,suck
+523-1184,kumy1244,http://concepticon.clld.org/parameters/321,чайнамакъ,chew
+523-840,kumy1244,http://concepticon.clld.org/parameters/897,ютмакъ,swallow
+523-1148,kumy1244,http://concepticon.clld.org/parameters/129,бувмакъ,choke
+523-826,kumy1244,http://concepticon.clld.org/parameters/1100,биширмакъ,cook
+523-1241,kumy1244,http://concepticon.clld.org/parameters/792,къайнатмакъ,boil (vb)
+523-200,kumy1244,http://concepticon.clld.org/parameters/2146,къавурмакъ,"roast, fry"
+523-1197,kumy1244,http://concepticon.clld.org/parameters/183,биширмек,bake
+523-809,kumy1244,http://concepticon.clld.org/parameters/1143,орус печ,oven
+523-519,kumy1244,http://concepticon.clld.org/parameters/1143,кёрюк,oven
+523-461,kumy1244,http://concepticon.clld.org/parameters/1462,горшок,"pot, cooking vessel"
+523-60,kumy1244,http://concepticon.clld.org/parameters/1462,гиччи къазан,"pot, cooking vessel"
+523-1322,kumy1244,http://concepticon.clld.org/parameters/854,чайник,kettle
+523-960,kumy1244,http://concepticon.clld.org/parameters/31,къазан,pan
+523-907,kumy1244,http://concepticon.clld.org/parameters/481,терен бошгъап,dish
+523-1240,kumy1244,http://concepticon.clld.org/parameters/480,бошгъап,plate
+523-1312,kumy1244,http://concepticon.clld.org/parameters/1530,ламбике,bowl
+523-1444,kumy1244,http://concepticon.clld.org/parameters/1530,налбике,bowl
+523-1091,kumy1244,http://concepticon.clld.org/parameters/270,акъчалыкъ,"pitcher, jug"
+523-1312,kumy1244,http://concepticon.clld.org/parameters/476,ламбике,"cup, drinking vessel"
+523-532,kumy1244,http://concepticon.clld.org/parameters/476,аякъ,"cup, drinking vessel"
+523-1312,kumy1244,http://concepticon.clld.org/parameters/271,ламбике,saucer
+523-930,kumy1244,http://concepticon.clld.org/parameters/1378,къашыкъ,spoon
+523-1088,kumy1244,http://concepticon.clld.org/parameters/1352,бичакъ,knife (2)
+523-1185,kumy1244,http://concepticon.clld.org/parameters/1302,чиш,fork (2)
+523-1093,kumy1244,http://concepticon.clld.org/parameters/272,къысгъач,tongs
+523-61,kumy1244,http://concepticon.clld.org/parameters/1526,ашамакъ,meal (a)
+523-183,kumy1244,http://concepticon.clld.org/parameters/1526,ашав,meal (a)
+523-1257,kumy1244,http://concepticon.clld.org/parameters/1322,эртенги аш,breakfast
+523-1128,kumy1244,http://concepticon.clld.org/parameters/768,къушлукъ аш,lunch
+523-1420,kumy1244,http://concepticon.clld.org/parameters/1833,тюш аш,dinner
+523-43,kumy1244,http://concepticon.clld.org/parameters/1833,ахшамгъы аш,supper
+523-844,kumy1244,http://concepticon.clld.org/parameters/275,тазаламакъ,peel
+523-297,kumy1244,http://concepticon.clld.org/parameters/86,элемек,"sieve, strain"
+523-1341,kumy1244,http://concepticon.clld.org/parameters/86,сюзмек,"sieve, strain"
+523-740,kumy1244,http://concepticon.clld.org/parameters/1767,чатамакъ,scrape
+523-157,kumy1244,http://concepticon.clld.org/parameters/1767,ишымакъ,scrape
+523-976,kumy1244,http://concepticon.clld.org/parameters/2017,булгъамакъ,"stir, mix"
+523-352,kumy1244,http://concepticon.clld.org/parameters/1368,экмек,bread
+523-1442,kumy1244,http://concepticon.clld.org/parameters/273,хамур,dough
+523-999,kumy1244,http://concepticon.clld.org/parameters/274,хамур басмакъ,knead
+523-1361,kumy1244,http://concepticon.clld.org/parameters/1594,ун,"meal, flour"
+523-168,kumy1244,http://concepticon.clld.org/parameters/1033,сытмакъ,"crush, grind"
+523-758,kumy1244,http://concepticon.clld.org/parameters/1033,увакъламакъ,"crush, grind"
+523-856,kumy1244,http://concepticon.clld.org/parameters/636,тирмен,mill
+523-347,kumy1244,http://concepticon.clld.org/parameters/224,гьавенк,mortar (2)
+523-314,kumy1244,http://concepticon.clld.org/parameters/225,гьавенкни тохъмагъы,pestle
+523-760,kumy1244,http://concepticon.clld.org/parameters/634,эт,meat
+523-1401,kumy1244,http://concepticon.clld.org/parameters/1874,ичек,sausage
+523-1102,kumy1244,http://concepticon.clld.org/parameters/1547,шорпа,"soup, broth"
+523-887,kumy1244,http://concepticon.clld.org/parameters/924,овошлар,vegetables
+523-1047,kumy1244,http://concepticon.clld.org/parameters/832,бурчакъ,bean
+523-374,kumy1244,http://concepticon.clld.org/parameters/593,картоп,potato
+523-514,kumy1244,http://concepticon.clld.org/parameters/1507,емиш,fruit
+523-402,kumy1244,http://concepticon.clld.org/parameters/1966,салкъын,bunch
+523-368,kumy1244,http://concepticon.clld.org/parameters/1966,байлам,bunch
+523-1474,kumy1244,http://concepticon.clld.org/parameters/1966,къысым,bunch
+523-959,kumy1244,http://concepticon.clld.org/parameters/322,инжир,fig
+523-247,kumy1244,http://concepticon.clld.org/parameters/920,юзюм,grape
+523-1040,kumy1244,http://concepticon.clld.org/parameters/191,къоз,nut
+523-1190,kumy1244,http://concepticon.clld.org/parameters/1154,джыгъана,olive
+523-1391,kumy1244,http://concepticon.clld.org/parameters/1154,зайтун,olive
+523-812,kumy1244,http://concepticon.clld.org/parameters/1484,урлукъ май,oil
+523-1385,kumy1244,http://concepticon.clld.org/parameters/323,май,"grease, fat"
+523-584,kumy1244,http://concepticon.clld.org/parameters/323,ич май,"grease, fat"
+523-1147,kumy1244,http://concepticon.clld.org/parameters/323,къуйрукъ май,"grease, fat"
+523-372,kumy1244,http://concepticon.clld.org/parameters/1274,туз,salt
+523-518,kumy1244,http://concepticon.clld.org/parameters/1385,бурч,pepper
+523-56,kumy1244,http://concepticon.clld.org/parameters/919,аччы бурч,chili pepper
+523-1343,kumy1244,http://concepticon.clld.org/parameters/942,бал,honey
+523-323,kumy1244,http://concepticon.clld.org/parameters/862,шекер,sugar
+523-29,kumy1244,http://concepticon.clld.org/parameters/635,сют,milk (noun)
+523-201,kumy1244,http://concepticon.clld.org/parameters/93,савмакъ,milk (vb)
+523-704,kumy1244,http://concepticon.clld.org/parameters/1569,бишмакъ,cheese
+523-770,kumy1244,http://concepticon.clld.org/parameters/1245,кама,butter
+523-903,kumy1244,http://concepticon.clld.org/parameters/731,ички,"beverage, drink"
+523-1324,kumy1244,http://concepticon.clld.org/parameters/941,балдан этилген боза,mead
+523-1025,kumy1244,http://concepticon.clld.org/parameters/1524,чагъыр,wine
+523-484,kumy1244,http://concepticon.clld.org/parameters/1639,пиво,beer
+523-477,kumy1244,http://concepticon.clld.org/parameters/404,боза,fermented drink
+523-97,kumy1244,http://concepticon.clld.org/parameters/744,йымырткъа,egg
+523-538,kumy1244,http://concepticon.clld.org/parameters/1556,сариси,egg yolk
+523-582,kumy1244,http://concepticon.clld.org/parameters/158,гийиндирмек,put on (clothes)
+523-735,kumy1244,http://concepticon.clld.org/parameters/1895,опуракъ,"clothing, clothes"
+523-1245,kumy1244,http://concepticon.clld.org/parameters/881,опуракъ тигивчю,tailor
+523-186,kumy1244,http://concepticon.clld.org/parameters/1616,къумач,cloth
+523-687,kumy1244,http://concepticon.clld.org/parameters/1616,исхарлы,cloth
+523-324,kumy1244,http://concepticon.clld.org/parameters/964,юн къумач,wool
+523-719,kumy1244,http://concepticon.clld.org/parameters/916,кендир къумач,"linen, flax"
+523-1340,kumy1244,http://concepticon.clld.org/parameters/1850,мамукъ къумач,cotton
+523-22,kumy1244,http://concepticon.clld.org/parameters/1641,чилле,silk
+523-1107,kumy1244,http://concepticon.clld.org/parameters/325,кийиз,felt
+523-544,kumy1244,http://concepticon.clld.org/parameters/580,кёрпе,fur
+523-697,kumy1244,http://concepticon.clld.org/parameters/629,гён,leather
+523-154,kumy1244,http://concepticon.clld.org/parameters/629,тери,leather
+523-158,kumy1244,http://concepticon.clld.org/parameters/121,ийирмек,spin
+523-430,kumy1244,http://concepticon.clld.org/parameters/277,уручукъ,spindle
+523-641,kumy1244,http://concepticon.clld.org/parameters/133,эшмек,weave
+523-967,kumy1244,http://concepticon.clld.org/parameters/1787,согъув станок,loom
+523-679,kumy1244,http://concepticon.clld.org/parameters/1457,тикмек,sew
+523-460,kumy1244,http://concepticon.clld.org/parameters/1382,ине,needle
+523-1260,kumy1244,http://concepticon.clld.org/parameters/278,биз,awl
+523-449,kumy1244,http://concepticon.clld.org/parameters/1161,йип,thread
+523-57,kumy1244,http://concepticon.clld.org/parameters/157,бояв,dye
+523-579,kumy1244,http://concepticon.clld.org/parameters/326,плаш,cloak
+523-1400,kumy1244,http://concepticon.clld.org/parameters/327,—,poncho
+523-360,kumy1244,http://concepticon.clld.org/parameters/474,тиштайпаны гёлеги,woman's dress
+523-390,kumy1244,http://concepticon.clld.org/parameters/603,палто,coat
+523-711,kumy1244,http://concepticon.clld.org/parameters/1622,гёлек,shirt
+523-202,kumy1244,http://concepticon.clld.org/parameters/2012,ягъа,collar
+523-66,kumy1244,http://concepticon.clld.org/parameters/1600,юбке,skirt
+523-1029,kumy1244,http://concepticon.clld.org/parameters/328,япракълардан этилген юбке,grass-skirt
+523-857,kumy1244,http://concepticon.clld.org/parameters/809,иштан,trousers
+523-1450,kumy1244,http://concepticon.clld.org/parameters/329,чорап,"stocking, sock"
+523-1227,kumy1244,http://concepticon.clld.org/parameters/1381,тюфли,shoe
+523-65,kumy1244,http://concepticon.clld.org/parameters/585,ботинка,boot
+523-599,kumy1244,http://concepticon.clld.org/parameters/875,этикчи,"shoemaker, cobbler"
+523-991,kumy1244,http://concepticon.clld.org/parameters/2130,шляпа,"hat, cap"
+523-1325,kumy1244,http://concepticon.clld.org/parameters/772,белбав,"belt, girdle"
+523-986,kumy1244,http://concepticon.clld.org/parameters/867,къолгъап,glove
+523-968,kumy1244,http://concepticon.clld.org/parameters/1151,юкъкъа четир тастар,veil
+523-1271,kumy1244,http://concepticon.clld.org/parameters/1851,кисе,pocket
+523-593,kumy1244,http://concepticon.clld.org/parameters/757,тюйме,button
+523-198,kumy1244,http://concepticon.clld.org/parameters/64,тийревюч,pin
+523-1266,kumy1244,http://concepticon.clld.org/parameters/917,оюв,"ornament, adornment"
+523-124,kumy1244,http://concepticon.clld.org/parameters/917,арив этив,"ornament, adornment"
+523-1233,kumy1244,http://concepticon.clld.org/parameters/1029,багьалы таш алтын,jewel
+523-340,kumy1244,http://concepticon.clld.org/parameters/1029,гюмюш маллар,jewel
+523-160,kumy1244,http://concepticon.clld.org/parameters/1374,мюгьюр,ring (for finger)
+523-217,kumy1244,http://concepticon.clld.org/parameters/1754,билезик,bracelet
+523-910,kumy1244,http://concepticon.clld.org/parameters/1961,йимчакълар,necklace
+523-1435,kumy1244,http://concepticon.clld.org/parameters/1860,йимчакъ бюртюк,bead
+523-1423,kumy1244,http://concepticon.clld.org/parameters/770,гьалкъалар,earring
+523-284,kumy1244,http://concepticon.clld.org/parameters/330,башгийим,"headband, headdress"
+523-367,kumy1244,http://concepticon.clld.org/parameters/330,байлав,"headband, headdress"
+523-175,kumy1244,http://concepticon.clld.org/parameters/68,къаркъарада бояв булан этеген сурат,tattoo
+523-601,kumy1244,http://concepticon.clld.org/parameters/332,къолъявлукъ,"handkerchief, rag"
+523-478,kumy1244,http://concepticon.clld.org/parameters/1021,чюйъявлукъ,towel
+523-1140,kumy1244,http://concepticon.clld.org/parameters/1475,таракъ,comb
+523-1140,kumy1244,http://concepticon.clld.org/parameters/1821,таракъ,brush
+523-1462,kumy1244,http://concepticon.clld.org/parameters/333,чач,braid
+523-417,kumy1244,http://concepticon.clld.org/parameters/151,деллек,razor
+523-1385,kumy1244,http://concepticon.clld.org/parameters/1926,май,ointment
+523-1045,kumy1244,http://concepticon.clld.org/parameters/788,сапын,soap
+523-924,kumy1244,http://concepticon.clld.org/parameters/1171,гюзгю,mirror
+523-1378,kumy1244,http://concepticon.clld.org/parameters/1099,яшамакъ,"dwell, live"
+523-1076,kumy1244,http://concepticon.clld.org/parameters/1252,уьй,house
+523-1076,kumy1244,http://concepticon.clld.org/parameters/1678,уьй,hut
+523-425,kumy1244,http://concepticon.clld.org/parameters/403,язлыкъ уьй,garden-house
+523-453,kumy1244,http://concepticon.clld.org/parameters/1316,чатыр,tent
+523-729,kumy1244,http://concepticon.clld.org/parameters/736,азбар,"yard, court"
+523-750,kumy1244,http://concepticon.clld.org/parameters/408,эркеклер учун уьй,men's house
+523-349,kumy1244,http://concepticon.clld.org/parameters/334,аш уьй,cookhouse
+523-790,kumy1244,http://concepticon.clld.org/parameters/335,джыйын оьтгерилеген уьй,meeting house
+523-1076,kumy1244,http://concepticon.clld.org/parameters/1450,уьй,room
+523-13,kumy1244,http://concepticon.clld.org/parameters/1567,эшик,"door, gate"
+523-1367,kumy1244,http://concepticon.clld.org/parameters/1567,къапу,"door, gate"
+523-285,kumy1244,http://concepticon.clld.org/parameters/80,энеге,"doorpost, jamb"
+523-883,kumy1244,http://concepticon.clld.org/parameters/1596,кирит,lock (noun)
+523-1412,kumy1244,http://concepticon.clld.org/parameters/1012,тогъас,"latch, door-bolt"
+523-590,kumy1244,http://concepticon.clld.org/parameters/1472,ачгъыч,key
+523-1046,kumy1244,http://concepticon.clld.org/parameters/1375,терезе,window
+523-661,kumy1244,http://concepticon.clld.org/parameters/1632,уьйню тюбю,floor
+523-1238,kumy1244,http://concepticon.clld.org/parameters/1632,джабар,floor
+523-759,kumy1244,http://concepticon.clld.org/parameters/933,там,wall
+523-985,kumy1244,http://concepticon.clld.org/parameters/185,отбаш,fireplace
+523-475,kumy1244,http://concepticon.clld.org/parameters/859,печ,stove
+523-519,kumy1244,http://concepticon.clld.org/parameters/859,кёрюк,stove
+523-885,kumy1244,http://concepticon.clld.org/parameters/1305,тюнгюлюк,chimney
+523-1138,kumy1244,http://concepticon.clld.org/parameters/1464,батгъыч,ladder
+523-276,kumy1244,http://concepticon.clld.org/parameters/1663,карават,bed
+523-1370,kumy1244,http://concepticon.clld.org/parameters/1044,бойлукъ,pillow
+523-172,kumy1244,http://concepticon.clld.org/parameters/806,ювургъан,blanket
+523-898,kumy1244,http://concepticon.clld.org/parameters/806,одеял,blanket
+523-529,kumy1244,http://concepticon.clld.org/parameters/1476,шанджал,chair
+523-1027,kumy1244,http://concepticon.clld.org/parameters/1775,стол,table
+523-1013,kumy1244,http://concepticon.clld.org/parameters/2131,лампа,"lamp, torch"
+523-205,kumy1244,http://concepticon.clld.org/parameters/2131,фонар,"lamp, torch"
+523-942,kumy1244,http://concepticon.clld.org/parameters/1273,майчыракъ,candle
+523-1113,kumy1244,http://concepticon.clld.org/parameters/745,хаси,shelf
+523-665,kumy1244,http://concepticon.clld.org/parameters/205,чоргъа,trough
+523-515,kumy1244,http://concepticon.clld.org/parameters/769,къалкъы,roof
+523-833,kumy1244,http://concepticon.clld.org/parameters/279,салам къалкъы,thatch
+523-580,kumy1244,http://concepticon.clld.org/parameters/280,аркъалыкъ,ridgepole
+523-1264,kumy1244,http://concepticon.clld.org/parameters/829,чатал,rafter
+523-580,kumy1244,http://concepticon.clld.org/parameters/829,аркъалыкъ,rafter
+523-580,kumy1244,http://concepticon.clld.org/parameters/1132,аркъалыкъ,beam
+523-993,kumy1244,http://concepticon.clld.org/parameters/281,багъана,"post, pole"
+523-746,kumy1244,http://concepticon.clld.org/parameters/1227,такъта,board
+523-1348,kumy1244,http://concepticon.clld.org/parameters/876,арсава,arch
+523-1152,kumy1244,http://concepticon.clld.org/parameters/877,ташчы,mason
+523-1020,kumy1244,http://concepticon.clld.org/parameters/1006,керпич,brick
+523-1397,kumy1244,http://concepticon.clld.org/parameters/1731,йибилген киреч,mortar
+523-577,kumy1244,http://concepticon.clld.org/parameters/901,саз балчыкъдан этилген къурулуш,adobe
+523-322,kumy1244,http://concepticon.clld.org/parameters/979,фермер,farmer
+523-980,kumy1244,http://concepticon.clld.org/parameters/212,сабанлыкъ,field (for cultivation)
+523-1345,kumy1244,http://concepticon.clld.org/parameters/586,бав,garden
+523-893,kumy1244,http://concepticon.clld.org/parameters/1541,ишлетмек,"cultivate, till"
+523-691,kumy1244,http://concepticon.clld.org/parameters/1690,чал,fence
+523-153,kumy1244,http://concepticon.clld.org/parameters/2002,татавул,ditch
+523-880,kumy1244,http://concepticon.clld.org/parameters/2002,ор,ditch
+523-1039,kumy1244,http://concepticon.clld.org/parameters/2002,чунгур,ditch
+523-574,kumy1244,http://concepticon.clld.org/parameters/1921,сюрмек,plow
+523-980,kumy1244,http://concepticon.clld.org/parameters/1794,сабанлыкъ,furrow
+523-1373,kumy1244,http://concepticon.clld.org/parameters/1794,харш,furrow
+523-1145,kumy1244,http://concepticon.clld.org/parameters/1418,къазмакъ,dig
+523-1275,kumy1244,http://concepticon.clld.org/parameters/1176,бел,spade
+523-1085,kumy1244,http://concepticon.clld.org/parameters/1901,гьакеннез,shovel
+523-1243,kumy1244,http://concepticon.clld.org/parameters/284,матик,hoe
+523-948,kumy1244,http://concepticon.clld.org/parameters/337,сенек,fork
+523-1293,kumy1244,http://concepticon.clld.org/parameters/338,тырнавуч,rake
+523-1106,kumy1244,http://concepticon.clld.org/parameters/748,чачмакъ,sow
+523-892,kumy1244,http://concepticon.clld.org/parameters/714,урлукъ,seed
+523-112,kumy1244,http://concepticon.clld.org/parameters/190,чалмакъ,"mow, reap"
+523-1472,kumy1244,http://concepticon.clld.org/parameters/190,ормакъ,"mow, reap"
+523-88,kumy1244,http://concepticon.clld.org/parameters/2132,оракъ,"sickle, scythe"
+523-18,kumy1244,http://concepticon.clld.org/parameters/2132,чалгъы,"sickle, scythe"
+523-1123,kumy1244,http://concepticon.clld.org/parameters/285,басмакъ,thresh
+523-435,kumy1244,http://concepticon.clld.org/parameters/223,иннир,threshing-floor
+523-792,kumy1244,http://concepticon.clld.org/parameters/611,тюшюм,"crop, harvest"
+523-774,kumy1244,http://concepticon.clld.org/parameters/605,бюртюклю ашлыкъ,"grain (barley, oats etc)"
+523-886,kumy1244,http://concepticon.clld.org/parameters/1077,будай,wheat
+523-738,kumy1244,http://concepticon.clld.org/parameters/932,арпа,barley
+523-184,kumy1244,http://concepticon.clld.org/parameters/23,къарабудай,rye
+523-1270,kumy1244,http://concepticon.clld.org/parameters/60,сулу,oats
+523-782,kumy1244,http://concepticon.clld.org/parameters/506,гьабиджай,"maize, corn"
+523-458,kumy1244,http://concepticon.clld.org/parameters/926,дюгю,rice
+523-881,kumy1244,http://concepticon.clld.org/parameters/606,от,grass
+523-801,kumy1244,http://concepticon.clld.org/parameters/342,бичен,hay
+523-387,kumy1244,http://concepticon.clld.org/parameters/653,оьсюмлюк,plant (noun)
+523-639,kumy1244,http://concepticon.clld.org/parameters/1486,оьсдюрмек,plant (vb)
+523-473,kumy1244,http://concepticon.clld.org/parameters/670,тамур,root
+523-1222,kumy1244,http://concepticon.clld.org/parameters/1531,бутакъ,branch
+523-723,kumy1244,http://concepticon.clld.org/parameters/628,япыракъ,leaf
+523-188,kumy1244,http://concepticon.clld.org/parameters/239,чечек,flower
+523-178,kumy1244,http://concepticon.clld.org/parameters/906,агъач,tree
+523-953,kumy1244,http://concepticon.clld.org/parameters/644,эмен,oak
+523-216,kumy1244,http://concepticon.clld.org/parameters/1950,чинар,beech
+523-1005,kumy1244,http://concepticon.clld.org/parameters/1855,макъар,birch
+523-1023,kumy1244,http://concepticon.clld.org/parameters/1740,нарат,pine
+523-1255,kumy1244,http://concepticon.clld.org/parameters/1915,тели нарат,fir
+523-1032,kumy1244,http://concepticon.clld.org/parameters/968,эмен къоз,acorn
+523-1086,kumy1244,http://concepticon.clld.org/parameters/343,борла,vine
+523-1441,kumy1244,http://concepticon.clld.org/parameters/974,тамакю,tobacco
+523-1265,kumy1244,http://concepticon.clld.org/parameters/1689,тамакю тютюн,smoke (tobacco)
+523-624,kumy1244,http://concepticon.clld.org/parameters/1124,юлле,pipe
+523-556,kumy1244,http://concepticon.clld.org/parameters/241,тюпгюч,tree stump
+523-364,kumy1244,http://concepticon.clld.org/parameters/344,терекни бою,tree trunk
+523-672,kumy1244,http://concepticon.clld.org/parameters/344,чархы,tree trunk
+523-842,kumy1244,http://concepticon.clld.org/parameters/409,айырлы бутакъ,forked branch
+523-899,kumy1244,http://concepticon.clld.org/parameters/1204,къабукъ,bark
+523-1180,kumy1244,http://concepticon.clld.org/parameters/345,оьсюмлюкню суву,sap
+523-106,kumy1244,http://concepticon.clld.org/parameters/1181,палма,palm tree
+523-653,kumy1244,http://concepticon.clld.org/parameters/1181,хурма,palm tree
+523-163,kumy1244,http://concepticon.clld.org/parameters/970,кокос,coconut
+523-541,kumy1244,http://concepticon.clld.org/parameters/1126,цитрус емиш,citrus fruit
+523-366,kumy1244,http://concepticon.clld.org/parameters/868,банан терек,banana tree
+523-19,kumy1244,http://concepticon.clld.org/parameters/346,инжир терек,banyan
+523-874,kumy1244,http://concepticon.clld.org/parameters/159,батат,sweet potato
+523-874,kumy1244,http://concepticon.clld.org/parameters/410,батат,yam
+523-1400,kumy1244,http://concepticon.clld.org/parameters/925,—,"tapioca, manioc, cassava"
+523-913,kumy1244,http://concepticon.clld.org/parameters/411,къаштабакъ,gourd
+523-1258,kumy1244,http://concepticon.clld.org/parameters/864,къабакъ,"pumpkin, squash"
+523-1176,kumy1244,http://concepticon.clld.org/parameters/1927,бамбук,bamboo
+523-280,kumy1244,http://concepticon.clld.org/parameters/146,бал къамыш,sugar cane
+523-1400,kumy1244,http://concepticon.clld.org/parameters/348,—,fish poison (root)
+523-451,kumy1244,http://concepticon.clld.org/parameters/33,къычытгъан,nettle
+523-1321,kumy1244,http://concepticon.clld.org/parameters/641,къолкъотур,mushroom
+523-868,kumy1244,http://concepticon.clld.org/parameters/813,этмек,"do, make"
+523-466,kumy1244,http://concepticon.clld.org/parameters/984,иш,work
+523-1144,kumy1244,http://concepticon.clld.org/parameters/2004,йелтмек,bend
+523-220,kumy1244,http://concepticon.clld.org/parameters/1470,бурмакъ,fold
+523-1239,kumy1244,http://concepticon.clld.org/parameters/1470,бир янгъа япмакъ,fold
+523-1207,kumy1244,http://concepticon.clld.org/parameters/1917,байламакъ,"tie, bind"
+523-560,kumy1244,http://concepticon.clld.org/parameters/352,чечмек,untie
+523-1149,kumy1244,http://concepticon.clld.org/parameters/1627,шынджыр,chain
+523-449,kumy1244,http://concepticon.clld.org/parameters/1218,йип,"rope, cord"
+523-649,kumy1244,http://concepticon.clld.org/parameters/760,тююн,knot (noun)
+523-252,kumy1244,http://concepticon.clld.org/parameters/2133,урмакъ,"strike (hit, beat)"
+523-700,kumy1244,http://concepticon.clld.org/parameters/2133,токъаламакъ,"strike (hit, beat)"
+523-764,kumy1244,http://concepticon.clld.org/parameters/354,токъаламакъ юмурукъ булан,pound with fist
+523-309,kumy1244,http://concepticon.clld.org/parameters/1432,гесмек,cut
+523-239,kumy1244,http://concepticon.clld.org/parameters/355,къысгартмакъ,cut down
+523-87,kumy1244,http://concepticon.clld.org/parameters/355,аз этмек,cut down
+523-309,kumy1244,http://concepticon.clld.org/parameters/155,гесмек,"chop, hew"
+523-1225,kumy1244,http://concepticon.clld.org/parameters/155,агъач ярмакъ,"chop, hew"
+523-1308,kumy1244,http://concepticon.clld.org/parameters/1434,чанчмакъ,stab
+523-611,kumy1244,http://concepticon.clld.org/parameters/1434,чанчып оьлтюрмек,stab
+523-1088,kumy1244,http://concepticon.clld.org/parameters/1352,бичакъ,knife
+523-1162,kumy1244,http://concepticon.clld.org/parameters/356,къайчы,"scissors, shears"
+523-776,kumy1244,http://concepticon.clld.org/parameters/677,балта,ax
+523-776,kumy1244,http://concepticon.clld.org/parameters/290,балта,adze
+523-1226,kumy1244,http://concepticon.clld.org/parameters/680,бузмакъ,break
+523-302,kumy1244,http://concepticon.clld.org/parameters/588,бузулгъан,broken
+523-1097,kumy1244,http://concepticon.clld.org/parameters/588,сындырылгъан,broken
+523-1309,kumy1244,http://concepticon.clld.org/parameters/1437,ярмакъ,split
+523-101,kumy1244,http://concepticon.clld.org/parameters/1735,юлкъмакъ,tear
+523-470,kumy1244,http://concepticon.clld.org/parameters/1735,къусмакъ,tear
+523-558,kumy1244,http://concepticon.clld.org/parameters/291,сыдырмакъ,"flay, skin"
+523-1468,kumy1244,http://concepticon.clld.org/parameters/1449,ишгъып (сибирип) тайдырмакъ,"rub, wipe"
+523-743,kumy1244,http://concepticon.clld.org/parameters/214,созмакъ,stretch
+523-110,kumy1244,http://concepticon.clld.org/parameters/1455,тартмакъ,pull
+523-354,kumy1244,http://concepticon.clld.org/parameters/38,яйылмакъ,spread out
+523-564,kumy1244,http://concepticon.clld.org/parameters/357,илмек,hang up
+523-1123,kumy1244,http://concepticon.clld.org/parameters/1913,басмакъ,press
+523-407,kumy1244,http://concepticon.clld.org/parameters/1913,сыкъмакъ,press
+523-407,kumy1244,http://concepticon.clld.org/parameters/1414,сыкъмакъ,"squeeze, wring"
+523-545,kumy1244,http://concepticon.clld.org/parameters/1487,къуймакъ,pour
+523-399,kumy1244,http://concepticon.clld.org/parameters/1453,джувмакъ,wash
+523-714,kumy1244,http://concepticon.clld.org/parameters/230,сибирмек,sweep
+523-3,kumy1244,http://concepticon.clld.org/parameters/245,сибиртки,broom
+523-486,kumy1244,http://concepticon.clld.org/parameters/1361,алат,tool
+523-1214,kumy1244,http://concepticon.clld.org/parameters/1042,агъач уста,carpenter
+523-1133,kumy1244,http://concepticon.clld.org/parameters/1840,къурмакъ,build
+523-708,kumy1244,http://concepticon.clld.org/parameters/1501,тешик,bore
+523-1332,kumy1244,http://concepticon.clld.org/parameters/46,тешмек,hollow out
+523-1335,kumy1244,http://concepticon.clld.org/parameters/1948,бычгъы,saw
+523-667,kumy1244,http://concepticon.clld.org/parameters/1481,чекюч,hammer
+523-513,kumy1244,http://concepticon.clld.org/parameters/502,мых,nail
+523-193,kumy1244,http://concepticon.clld.org/parameters/1069,клей,glue
+523-207,kumy1244,http://concepticon.clld.org/parameters/1001,темир уста,"smith, blacksmith"
+523-1041,kumy1244,http://concepticon.clld.org/parameters/288,меч,forge
+523-906,kumy1244,http://concepticon.clld.org/parameters/1648,темирчитёш,anvil
+523-707,kumy1244,http://concepticon.clld.org/parameters/211,кепге къуймакъ,cast (metals)
+523-1431,kumy1244,http://concepticon.clld.org/parameters/1369,алтын,gold
+523-1247,kumy1244,http://concepticon.clld.org/parameters/759,гюмюш,silver
+523-772,kumy1244,http://concepticon.clld.org/parameters/1825,багъыр,"copper, bronze"
+523-1414,kumy1244,http://concepticon.clld.org/parameters/1825,ез,"copper, bronze"
+523-748,kumy1244,http://concepticon.clld.org/parameters/621,темир,iron
+523-487,kumy1244,http://concepticon.clld.org/parameters/627,къоргачын,lead (noun)
+523-784,kumy1244,http://concepticon.clld.org/parameters/358,акъ,"tin, tinplate"
+523-476,kumy1244,http://concepticon.clld.org/parameters/358,япыракъ темир,"tin, tinplate"
+523-983,kumy1244,http://concepticon.clld.org/parameters/359,савутчу,potter
+523-707,kumy1244,http://concepticon.clld.org/parameters/289,кепге къуймакъ,mold (clay etc)
+523-1156,kumy1244,http://concepticon.clld.org/parameters/1399,палчыкъ,clay
+523-1146,kumy1244,http://concepticon.clld.org/parameters/604,шиша,glass
+523-522,kumy1244,http://concepticon.clld.org/parameters/1729,сокъмакъ,"weave, plait"
+523-962,kumy1244,http://concepticon.clld.org/parameters/1539,четен,basket
+523-995,kumy1244,http://concepticon.clld.org/parameters/195,чыпта,mat
+523-1055,kumy1244,http://concepticon.clld.org/parameters/292,халча,rug
+523-176,kumy1244,http://concepticon.clld.org/parameters/293,челтирли торба,netbag
+523-1350,kumy1244,http://concepticon.clld.org/parameters/1971,вентилятор,fan (noun)
+523-902,kumy1244,http://concepticon.clld.org/parameters/360,янгыртмакъ,fan (vb)
+523-1311,kumy1244,http://concepticon.clld.org/parameters/360,елпелметмек,fan (vb)
+523-309,kumy1244,http://concepticon.clld.org/parameters/228,гесмек,carve
+523-1453,kumy1244,http://concepticon.clld.org/parameters/228,гесип алмакъ,carve
+523-74,kumy1244,http://concepticon.clld.org/parameters/914,таш суратлар этеген уста,sculptor
+523-1217,kumy1244,http://concepticon.clld.org/parameters/1002,таш сурат,statue
+523-1389,kumy1244,http://concepticon.clld.org/parameters/1979,гесевюч,chisel
+523-1210,kumy1244,http://concepticon.clld.org/parameters/1979,уьтюргю,chisel
+523-1352,kumy1244,http://concepticon.clld.org/parameters/647,сыр,paint (noun)
+523-197,kumy1244,http://concepticon.clld.org/parameters/2001,чырламакъ,paint (vb)
+523-728,kumy1244,http://concepticon.clld.org/parameters/765,юрюмек,move
+523-218,kumy1244,http://concepticon.clld.org/parameters/1588,айланмакъ,turn over
+523-218,kumy1244,http://concepticon.clld.org/parameters/1445,айланмакъ,turn around
+523-283,kumy1244,http://concepticon.clld.org/parameters/1445,бурулмакъ,turn around
+523-1363,kumy1244,http://concepticon.clld.org/parameters/1113,чырмамакъ,"wind, wrap"
+523-483,kumy1244,http://concepticon.clld.org/parameters/827,айландырмакъ,roll
+523-28,kumy1244,http://concepticon.clld.org/parameters/808,тамдырмакъ,drop (vb)
+523-220,kumy1244,http://concepticon.clld.org/parameters/430,бурмакъ,twist
+523-158,kumy1244,http://concepticon.clld.org/parameters/430,ийирмек,twist
+523-641,kumy1244,http://concepticon.clld.org/parameters/430,эшмек,twist
+523-961,kumy1244,http://concepticon.clld.org/parameters/568,гётерилмек,rise
+523-900,kumy1244,http://concepticon.clld.org/parameters/568,минмек,rise
+523-1449,kumy1244,http://concepticon.clld.org/parameters/501,гётермек,"raise, lift"
+523-614,kumy1244,http://concepticon.clld.org/parameters/1280,тюшмек,fall
+523-134,kumy1244,http://concepticon.clld.org/parameters/2253,тамчылап тёкмек,drip
+523-229,kumy1244,http://concepticon.clld.org/parameters/1456,атмакъ,throw
+523-796,kumy1244,http://concepticon.clld.org/parameters/1456,ташламакъ,throw
+523-1003,kumy1244,http://concepticon.clld.org/parameters/1456,къоймакъ,throw
+523-1274,kumy1244,http://concepticon.clld.org/parameters/702,тутмакъ,catch (ball)
+523-395,kumy1244,http://concepticon.clld.org/parameters/1909,чайкъамакъ,shake
+523-721,kumy1244,http://concepticon.clld.org/parameters/2003,агъылмакъ,flow
+523-1418,kumy1244,http://concepticon.clld.org/parameters/1088,батмакъ,sink
+523-333,kumy1244,http://concepticon.clld.org/parameters/1574,юзмек,float
+523-333,kumy1244,http://concepticon.clld.org/parameters/1439,юзмек,swim
+523-1036,kumy1244,http://concepticon.clld.org/parameters/119,чомулмакъ,dive
+523-878,kumy1244,http://concepticon.clld.org/parameters/365,чачыратмакъ,splash
+523-506,kumy1244,http://concepticon.clld.org/parameters/787,елкен тюпде эзмек,sail (vb)
+523-828,kumy1244,http://concepticon.clld.org/parameters/1441,учмакъ,fly (vb)
+523-482,kumy1244,http://concepticon.clld.org/parameters/175,уьфюрмек,blow
+523-1069,kumy1244,http://concepticon.clld.org/parameters/96,сюйрелмек,"creep, crawl"
+523-72,kumy1244,http://concepticon.clld.org/parameters/66,тобукъланмакъ,kneel
+523-831,kumy1244,http://concepticon.clld.org/parameters/296,чонкъаймакъ,crouch
+523-882,kumy1244,http://concepticon.clld.org/parameters/1324,сыргъаламакъ,"slide, slip"
+523-664,kumy1244,http://concepticon.clld.org/parameters/1829,атылмакъ,"jump, leap"
+523-443,kumy1244,http://concepticon.clld.org/parameters/1135,тепмек,kick
+523-802,kumy1244,http://concepticon.clld.org/parameters/1879,бийимек,dance
+523-728,kumy1244,http://concepticon.clld.org/parameters/1443,юрюмек,walk
+523-452,kumy1244,http://concepticon.clld.org/parameters/366,акъсакъламакъ,limp
+523-875,kumy1244,http://concepticon.clld.org/parameters/1519,чапмакъ,run
+523-728,kumy1244,http://concepticon.clld.org/parameters/695,юрюмек,go
+523-961,kumy1244,http://concepticon.clld.org/parameters/705,гётерилмек,go up
+523-1457,kumy1244,http://concepticon.clld.org/parameters/705,оьрге юрюмек,go up
+523-961,kumy1244,http://concepticon.clld.org/parameters/1102,гётерилмек,climb
+523-1457,kumy1244,http://concepticon.clld.org/parameters/1102,оьрге юрюмек,climb
+523-614,kumy1244,http://concepticon.clld.org/parameters/2014,тюшмек,go down
+523-62,kumy1244,http://concepticon.clld.org/parameters/2014,тёбен юрюмек,go down
+523-749,kumy1244,http://concepticon.clld.org/parameters/1107,чыкъмакъ,go out
+523-787,kumy1244,http://concepticon.clld.org/parameters/1446,геле турмакъ,come
+523-115,kumy1244,http://concepticon.clld.org/parameters/581,къайтмакъ,come back
+523-919,kumy1244,http://concepticon.clld.org/parameters/1752,гетмек,"go away, depart"
+523-922,kumy1244,http://concepticon.clld.org/parameters/485,ёкъ болмакъ,disappear
+523-1455,kumy1244,http://concepticon.clld.org/parameters/956,къачмакъ,flee
+523-40,kumy1244,http://concepticon.clld.org/parameters/956,къачып къутулмакъ,flee
+523-781,kumy1244,http://concepticon.clld.org/parameters/1085,арты булан бармакъ,follow
+523-954,kumy1244,http://concepticon.clld.org/parameters/1047,гьизарламакъ,pursue
+523-722,kumy1244,http://concepticon.clld.org/parameters/1387,етишмек,"reach, arrive"
+523-1316,kumy1244,http://concepticon.clld.org/parameters/1387,гелмек,"reach, arrive"
+523-789,kumy1244,http://concepticon.clld.org/parameters/1387,артмакъ,"reach, arrive"
+523-838,kumy1244,http://concepticon.clld.org/parameters/1778,ювукъ гелмек,approach
+523-958,kumy1244,http://concepticon.clld.org/parameters/749,гирмек,enter
+523-1252,kumy1244,http://concepticon.clld.org/parameters/700,элтмек,carry (bear)
+523-807,kumy1244,http://concepticon.clld.org/parameters/412,къолларында элтмек,carry-in-hand
+523-378,kumy1244,http://concepticon.clld.org/parameters/413,инбашларында элтмек,carry-on-shoulder
+523-1390,kumy1244,http://concepticon.clld.org/parameters/414,башында юрютмек,carry-on-head
+523-702,kumy1244,http://concepticon.clld.org/parameters/415,къолтугъунда элтмек,carry-underarm
+523-539,kumy1244,http://concepticon.clld.org/parameters/415,къолтугъунда юрютмек,carry-underarm
+523-1236,kumy1244,http://concepticon.clld.org/parameters/692,гелтирмек,bring
+523-214,kumy1244,http://concepticon.clld.org/parameters/1127,йибермек,send
+523-47,kumy1244,http://concepticon.clld.org/parameters/43,юрютмек,lead (vb)
+523-864,kumy1244,http://concepticon.clld.org/parameters/43,алып бармакъ,lead (vb)
+523-1294,kumy1244,http://concepticon.clld.org/parameters/43,алып элтмек,lead (vb)
+523-1189,kumy1244,http://concepticon.clld.org/parameters/741,машин булан бармакъ,drive
+523-965,kumy1244,http://concepticon.clld.org/parameters/367,ат уьстюнде бармакъ,ride
+523-798,kumy1244,http://concepticon.clld.org/parameters/1452,тебермек,"push, shove"
+523-495,kumy1244,http://concepticon.clld.org/parameters/667,ёл,road
+523-495,kumy1244,http://concepticon.clld.org/parameters/2252,ёл,path
+523-522,kumy1244,http://concepticon.clld.org/parameters/2252,сокъмакъ,path
+523-1253,kumy1244,http://concepticon.clld.org/parameters/1011,кёпюр,bridge
+523-780,kumy1244,http://concepticon.clld.org/parameters/122,арба,"carriage, wagon, cart"
+523-316,kumy1244,http://concepticon.clld.org/parameters/710,дёгерчек,wheel
+523-233,kumy1244,http://concepticon.clld.org/parameters/1769,гёчерагъач,axle
+523-1267,kumy1244,http://concepticon.clld.org/parameters/14,боюнса,yoke
+523-706,kumy1244,http://concepticon.clld.org/parameters/740,геме,ship
+523-706,kumy1244,http://concepticon.clld.org/parameters/1844,геме,boat
+523-557,kumy1244,http://concepticon.clld.org/parameters/1844,къайыкъ,boat
+523-557,kumy1244,http://concepticon.clld.org/parameters/1970,къайыкъ,canoe
+523-557,kumy1244,http://concepticon.clld.org/parameters/416,къайыкъ,outrigger
+523-604,kumy1244,http://concepticon.clld.org/parameters/1664,сал,raft
+523-373,kumy1244,http://concepticon.clld.org/parameters/108,къалакъ,oar
+523-641,kumy1244,http://concepticon.clld.org/parameters/108,эшмек,oar
+523-373,kumy1244,http://concepticon.clld.org/parameters/234,къалакъ,paddle (noun)
+523-641,kumy1244,http://concepticon.clld.org/parameters/234,эшмек,paddle (noun)
+523-641,kumy1244,http://concepticon.clld.org/parameters/1849,эшмек,row (vb)
+523-928,kumy1244,http://concepticon.clld.org/parameters/108,рул,rudder
+523-1004,kumy1244,http://concepticon.clld.org/parameters/184,мачта,mast
+523-63,kumy1244,http://concepticon.clld.org/parameters/786,елкен,sail (noun)
+523-1077,kumy1244,http://concepticon.clld.org/parameters/1870,лабар,anchor
+523-55,kumy1244,http://concepticon.clld.org/parameters/610,порт,"harbor, port"
+523-1316,kumy1244,http://concepticon.clld.org/parameters/1922,гелмек,land (vb)
+523-414,kumy1244,http://concepticon.clld.org/parameters/1922,ерге тюшмек,land (vb)
+523-827,kumy1244,http://concepticon.clld.org/parameters/773,болмакъ,have
+523-1376,kumy1244,http://concepticon.clld.org/parameters/684,ес болмакъ,"own, possess"
+523-1100,kumy1244,http://concepticon.clld.org/parameters/1749,алмакъ,take
+523-1274,kumy1244,http://concepticon.clld.org/parameters/2021,тутмакъ,"seize, grasp"
+523-1274,kumy1244,http://concepticon.clld.org/parameters/1448,тутмакъ,hold
+523-1100,kumy1244,http://concepticon.clld.org/parameters/694,алмакъ,"get, obtain"
+523-932,kumy1244,http://concepticon.clld.org/parameters/1477,сакъламакъ,"keep, retain"
+523-420,kumy1244,http://concepticon.clld.org/parameters/738,зат,thing
+523-192,kumy1244,http://concepticon.clld.org/parameters/738,малматагь,thing
+523-684,kumy1244,http://concepticon.clld.org/parameters/1447,бермек,give
+523-1353,kumy1244,http://concepticon.clld.org/parameters/85,къайтармакъ,give back
+523-932,kumy1244,http://concepticon.clld.org/parameters/1997,сакъламакъ,"preserve, look after"
+523-1327,kumy1244,http://concepticon.clld.org/parameters/2008,къутгъармакъ,"save, rescue"
+523-1226,kumy1244,http://concepticon.clld.org/parameters/681,бузмакъ,destroy
+523-1469,kumy1244,http://concepticon.clld.org/parameters/44,зарал этмек,"harm, injure, damage"
+523-1090,kumy1244,http://concepticon.clld.org/parameters/1468,излемек,"seek, look for"
+523-1169,kumy1244,http://concepticon.clld.org/parameters/719,тапмакъ,find
+523-1249,kumy1244,http://concepticon.clld.org/parameters/1660,тас этмек,lose
+523-214,kumy1244,http://concepticon.clld.org/parameters/1095,йибермек,"release, let go"
+523-1031,kumy1244,http://concepticon.clld.org/parameters/1559,акъча,money
+523-872,kumy1244,http://concepticon.clld.org/parameters/1867,увакъ акъча,coin
+523-1344,kumy1244,http://concepticon.clld.org/parameters/712,бай,rich
+523-791,kumy1244,http://concepticon.clld.org/parameters/1674,ярлы,poor
+523-141,kumy1244,http://concepticon.clld.org/parameters/1934,тиленчи,beggar
+523-877,kumy1244,http://concepticon.clld.org/parameters/1774,къызкъанч,"avaricious, stingy"
+523-341,kumy1244,http://concepticon.clld.org/parameters/582,борчгъа бермек,lend
+523-1465,kumy1244,http://concepticon.clld.org/parameters/1823,борчгъа алмакъ,borrow
+523-351,kumy1244,http://concepticon.clld.org/parameters/369,борчлу,owe
+523-315,kumy1244,http://concepticon.clld.org/parameters/1914,борч,debt
+523-266,kumy1244,http://concepticon.clld.org/parameters/718,тёлемек,pay (vb)
+523-273,kumy1244,http://concepticon.clld.org/parameters/1081,гьисап,"account, reckoning"
+523-133,kumy1244,http://concepticon.clld.org/parameters/873,телев,"tax, tribute"
+523-9,kumy1244,http://concepticon.clld.org/parameters/856,гьакъгъа тутмакъ,hire
+523-1208,kumy1244,http://concepticon.clld.org/parameters/856,киреге алмакъ,hire
+523-783,kumy1244,http://concepticon.clld.org/parameters/1122,иш гьакъ,wages
+523-587,kumy1244,http://concepticon.clld.org/parameters/733,къазанмакъ,earn
+523-709,kumy1244,http://concepticon.clld.org/parameters/1869,сатып алмакъ,buy
+523-1261,kumy1244,http://concepticon.clld.org/parameters/1571,сатмакъ,sell
+523-1383,kumy1244,http://concepticon.clld.org/parameters/2135,сатыв-алыв,"trade, barter"
+523-1187,kumy1244,http://concepticon.clld.org/parameters/2135,алышдырыв,"trade, barter"
+523-1434,kumy1244,http://concepticon.clld.org/parameters/1082,сатывчу,merchant
+523-551,kumy1244,http://concepticon.clld.org/parameters/633,базар,market (place)
+523-376,kumy1244,http://concepticon.clld.org/parameters/752,тюкен,"store, shop"
+523-1436,kumy1244,http://concepticon.clld.org/parameters/657,багьасы,price
+523-17,kumy1244,http://concepticon.clld.org/parameters/1426,багьа,"dear (costly, expensive)"
+523-59,kumy1244,http://concepticon.clld.org/parameters/1887,учуз,cheap
+523-263,kumy1244,http://concepticon.clld.org/parameters/884,пайламакъ,share (distribute)
+523-1272,kumy1244,http://concepticon.clld.org/parameters/884,бёлмек,share (distribute)
+523-1399,kumy1244,http://concepticon.clld.org/parameters/884,ишге йибирмек,share (distribute)
+523-1182,kumy1244,http://concepticon.clld.org/parameters/1098,чекмек,weigh
+523-1143,kumy1244,http://concepticon.clld.org/parameters/1098,оьлчемек,weigh
+523-1084,kumy1244,http://concepticon.clld.org/parameters/1685,сонг,after
+523-918,kumy1244,http://concepticon.clld.org/parameters/723,артындан,behind
+523-190,kumy1244,http://concepticon.clld.org/parameters/1816,къырыйында,beside
+523-445,kumy1244,http://concepticon.clld.org/parameters/1326,тюпде,"down, below"
+523-251,kumy1244,http://concepticon.clld.org/parameters/1882,ерли,before
+523-1310,kumy1244,http://concepticon.clld.org/parameters/1882,алда,before
+523-1313,kumy1244,http://concepticon.clld.org/parameters/1019,алды,front
+523-290,kumy1244,http://concepticon.clld.org/parameters/1019,алдында,front
+523-468,kumy1244,http://concepticon.clld.org/parameters/1606,ич,"inside, in"
+523-1112,kumy1244,http://concepticon.clld.org/parameters/1606,ичинде,"inside, in"
+523-510,kumy1244,http://concepticon.clld.org/parameters/762,къырдан,outside
+523-947,kumy1244,http://concepticon.clld.org/parameters/1485,тюбюнде,under
+523-1087,kumy1244,http://concepticon.clld.org/parameters/1591,уьстюнде,"up, above"
+523-185,kumy1244,http://concepticon.clld.org/parameters/723,ери,place
+523-1419,kumy1244,http://concepticon.clld.org/parameters/998,салмакъ,put
+523-1195,kumy1244,http://concepticon.clld.org/parameters/1416,олтурмакъ,sit
+523-174,kumy1244,http://concepticon.clld.org/parameters/215,ятмакъ,lie down
+523-304,kumy1244,http://concepticon.clld.org/parameters/1442,эретурмакъ,stand
+523-173,kumy1244,http://concepticon.clld.org/parameters/987,къалып турмакъ,"remain, stay"
+523-1296,kumy1244,http://concepticon.clld.org/parameters/838,къалгъан-къулгъан,"remains, left overs"
+523-305,kumy1244,http://concepticon.clld.org/parameters/7,джыймакъ,"collect, gather"
+523-44,kumy1244,http://concepticon.clld.org/parameters/371,чёклеп алмакъ,pick up
+523-1449,kumy1244,http://concepticon.clld.org/parameters/371,гётермек,pick up
+523-674,kumy1244,http://concepticon.clld.org/parameters/1576,тёбе этип салмакъ,pile up
+523-250,kumy1244,http://concepticon.clld.org/parameters/1576,яйып салмакъ,pile up
+523-589,kumy1244,http://concepticon.clld.org/parameters/1743,къошмакъ,"join, unite"
+523-401,kumy1244,http://concepticon.clld.org/parameters/1743,бирикдирмек,"join, unite"
+523-1057,kumy1244,http://concepticon.clld.org/parameters/1359,айырмакъ,separate
+523-1272,kumy1244,http://concepticon.clld.org/parameters/1119,бёлмек,divide
+523-159,kumy1244,http://concepticon.clld.org/parameters/1156,ачмакъ,open
+523-1246,kumy1244,http://concepticon.clld.org/parameters/1046,япмакъ,"shut, close"
+523-1246,kumy1244,http://concepticon.clld.org/parameters/761,япмакъ,cover
+523-77,kumy1244,http://concepticon.clld.org/parameters/761,якъламакъ,cover
+523-1089,kumy1244,http://concepticon.clld.org/parameters/602,яшырмакъ,"hide, conceal"
+523-1382,kumy1244,http://concepticon.clld.org/parameters/1265,оьрде,high
+523-445,kumy1244,http://concepticon.clld.org/parameters/721,тюпде,low
+523-195,kumy1244,http://concepticon.clld.org/parameters/1753,башы,top
+523-307,kumy1244,http://concepticon.clld.org/parameters/1753,оьрю,top
+523-1342,kumy1244,http://concepticon.clld.org/parameters/1753,тёбеси,top
+523-140,kumy1244,http://concepticon.clld.org/parameters/1753,учу,top
+523-32,kumy1244,http://concepticon.clld.org/parameters/690,тюбю,bottom
+523-1122,kumy1244,http://concepticon.clld.org/parameters/690,тюп,bottom
+523-1082,kumy1244,http://concepticon.clld.org/parameters/742,арты,end
+523-281,kumy1244,http://concepticon.clld.org/parameters/742,ахыры,end
+523-1008,kumy1244,http://concepticon.clld.org/parameters/372,идти учлу,pointed
+523-768,kumy1244,http://concepticon.clld.org/parameters/863,къырыйы,edge
+523-202,kumy1244,http://concepticon.clld.org/parameters/863,ягъа,edge
+523-1219,kumy1244,http://concepticon.clld.org/parameters/682,якъ,side
+523-615,kumy1244,http://concepticon.clld.org/parameters/682,ян,side
+523-1280,kumy1244,http://concepticon.clld.org/parameters/1093,ортасы,"middle, center"
+523-439,kumy1244,http://concepticon.clld.org/parameters/1019,онг (яны),right (side)
+523-362,kumy1244,http://concepticon.clld.org/parameters/1019,онг (ягъы),right (side)
+523-437,kumy1244,http://concepticon.clld.org/parameters/244,сол (яны),left (side)
+523-731,kumy1244,http://concepticon.clld.org/parameters/244,сол (ягъы),left (side)
+523-1404,kumy1244,http://concepticon.clld.org/parameters/1942,янында,near (adv)
+523-190,kumy1244,http://concepticon.clld.org/parameters/1942,къырыйында,near (adv)
+523-243,kumy1244,http://concepticon.clld.org/parameters/1406,йыракъ,far (adv)
+523-1318,kumy1244,http://concepticon.clld.org/parameters/1877,гюнтувуш,east
+523-879,kumy1244,http://concepticon.clld.org/parameters/1817,гюнбатыш,west
+523-1058,kumy1244,http://concepticon.clld.org/parameters/1598,темиркъазыкъ,north
+523-1304,kumy1244,http://concepticon.clld.org/parameters/1595,къыбла,south
+523-412,kumy1244,http://concepticon.clld.org/parameters/479,оьсмек,grow
+523-1143,kumy1244,http://concepticon.clld.org/parameters/1506,оьлчемек,measure
+523-1400,kumy1244,http://concepticon.clld.org/parameters/81,—,"span, fathom"
+523-585,kumy1244,http://concepticon.clld.org/parameters/1202,уллу,"large, big"
+523-765,kumy1244,http://concepticon.clld.org/parameters/1246,гиччи,"small, little"
+523-107,kumy1244,http://concepticon.clld.org/parameters/1203,узун,long
+523-1044,kumy1244,http://concepticon.clld.org/parameters/711,бийик,tall
+523-51,kumy1244,http://concepticon.clld.org/parameters/1645,къысгъа,short
+523-429,kumy1244,http://concepticon.clld.org/parameters/1243,генг,"wide, broad"
+523-739,kumy1244,http://concepticon.clld.org/parameters/1267,тар,narrow
+523-303,kumy1244,http://concepticon.clld.org/parameters/1244,базыкъ,thick (in dimension)
+523-1049,kumy1244,http://concepticon.clld.org/parameters/1400,назик,thin (in dimension)
+523-67,kumy1244,http://concepticon.clld.org/parameters/1593,терен,deep
+523-765,kumy1244,http://concepticon.clld.org/parameters/193,гиччи,shallow
+523-605,kumy1244,http://concepticon.clld.org/parameters/193,сай,shallow
+523-1126,kumy1244,http://concepticon.clld.org/parameters/1633,тюз,flat
+523-588,kumy1244,http://concepticon.clld.org/parameters/1404,тувра,straight
+523-1448,kumy1244,http://concepticon.clld.org/parameters/297,къынгыр,crooked
+523-11,kumy1244,http://concepticon.clld.org/parameters/1071,къармакъ,hook
+523-383,kumy1244,http://concepticon.clld.org/parameters/1071,иргакъ,hook
+523-523,kumy1244,http://concepticon.clld.org/parameters/192,мююш,corner
+523-440,kumy1244,http://concepticon.clld.org/parameters/1367,хач,cross
+523-312,kumy1244,http://concepticon.clld.org/parameters/850,квадрат,square
+523-901,kumy1244,http://concepticon.clld.org/parameters/1395,дёгерек,round
+523-901,kumy1244,http://concepticon.clld.org/parameters/1467,дёгерек,circle
+523-1026,kumy1244,http://concepticon.clld.org/parameters/1845,ара,"sphere, ball"
+523-1165,kumy1244,http://concepticon.clld.org/parameters/1845,дазу,"sphere, ball"
+523-123,kumy1244,http://concepticon.clld.org/parameters/1845,шар,"sphere, ball"
+523-1452,kumy1244,http://concepticon.clld.org/parameters/1048,гьыз,line
+523-708,kumy1244,http://concepticon.clld.org/parameters/1667,тешик,hole
+523-917,kumy1244,http://concepticon.clld.org/parameters/1558,ошайгъан,"like, similar"
+523-871,kumy1244,http://concepticon.clld.org/parameters/1558,олайы,"like, similar"
+523-264,kumy1244,http://concepticon.clld.org/parameters/1264,алышдырмакъ,change
+523-657,kumy1244,http://concepticon.clld.org/parameters/1294,нол,"zero, nothing"
+523-1276,kumy1244,http://concepticon.clld.org/parameters/1515,бир,one
+523-1075,kumy1244,http://concepticon.clld.org/parameters/1498,эки,two
+523-1080,kumy1244,http://concepticon.clld.org/parameters/492,уьч,three
+523-1407,kumy1244,http://concepticon.clld.org/parameters/1500,дёрт,four
+523-1299,kumy1244,http://concepticon.clld.org/parameters/493,беш,five
+523-815,kumy1244,http://concepticon.clld.org/parameters/1703,алты,six
+523-1231,kumy1244,http://concepticon.clld.org/parameters/1704,етти,seven
+523-180,kumy1244,http://concepticon.clld.org/parameters/1705,сегиз,eight
+523-553,kumy1244,http://concepticon.clld.org/parameters/1483,тогъуз,nine
+523-820,kumy1244,http://concepticon.clld.org/parameters/1515,он,ten
+523-683,kumy1244,http://concepticon.clld.org/parameters/1706,он бир,eleven
+523-1346,kumy1244,http://concepticon.clld.org/parameters/1707,он эки,twelve
+523-525,kumy1244,http://concepticon.clld.org/parameters/1709,он беш,fifteen
+523-974,kumy1244,http://concepticon.clld.org/parameters/1710,йигирма,twenty
+523-502,kumy1244,http://concepticon.clld.org/parameters/1710,йыйырма,twenty
+523-317,kumy1244,http://concepticon.clld.org/parameters/1634,юз,hundred
+523-692,kumy1244,http://concepticon.clld.org/parameters/1843,мин,thousand
+523-144,kumy1244,http://concepticon.clld.org/parameters/1843,минг,thousand
+523-775,kumy1244,http://concepticon.clld.org/parameters/1420,санамакъ,count
+523-1118,kumy1244,http://concepticon.clld.org/parameters/98,бары да,"every, all"
+523-1403,kumy1244,http://concepticon.clld.org/parameters/98,бари де,"every, all"
+523-127,kumy1244,http://concepticon.clld.org/parameters/1198,кёп,"much, many"
+523-503,kumy1244,http://concepticon.clld.org/parameters/1992,артыкъ,more
+523-939,kumy1244,http://concepticon.clld.org/parameters/1242,аз,"little (quantity), few"
+523-24,kumy1244,http://concepticon.clld.org/parameters/1881,таман,enough
+523-4,kumy1244,http://concepticon.clld.org/parameters/1881,чакъы,enough
+523-600,kumy1244,http://concepticon.clld.org/parameters/1241,бир-нече,some
+523-127,kumy1244,http://concepticon.clld.org/parameters/2023,кёп,"multitude, crowd"
+523-1067,kumy1244,http://concepticon.clld.org/parameters/1429,толу,full
+523-504,kumy1244,http://concepticon.clld.org/parameters/1624,бош,empty
+523-854,kumy1244,http://concepticon.clld.org/parameters/779,бёлюк,"part, piece"
+523-1220,kumy1244,http://concepticon.clld.org/parameters/779,гесек,"part, piece"
+523-479,kumy1244,http://concepticon.clld.org/parameters/816,яртысы,half
+523-1276,kumy1244,http://concepticon.clld.org/parameters/1580,бир,"alone, only"
+523-1286,kumy1244,http://concepticon.clld.org/parameters/1580,биргине-бир,"alone, only"
+523-1422,kumy1244,http://concepticon.clld.org/parameters/728,биринчи,first
+523-78,kumy1244,http://concepticon.clld.org/parameters/1529,ахырынчы,last
+523-278,kumy1244,http://concepticon.clld.org/parameters/1529,артдагъысы,last
+523-269,kumy1244,http://concepticon.clld.org/parameters/1384,экинчи,second
+523-916,kumy1244,http://concepticon.clld.org/parameters/1888,джут,pair
+523-241,kumy1244,http://concepticon.clld.org/parameters/1546,эки керен,two times
+523-1153,kumy1244,http://concepticon.clld.org/parameters/1859,уьчюнчю,third
+523-678,kumy1244,http://concepticon.clld.org/parameters/417,уьч керен,three times
+523-1347,kumy1244,http://concepticon.clld.org/parameters/892,вакъти,time
+523-1464,kumy1244,http://concepticon.clld.org/parameters/892,заман,time
+523-806,kumy1244,http://concepticon.clld.org/parameters/1789,асру,age
+523-825,kumy1244,http://concepticon.clld.org/parameters/1789,девюр,age
+523-181,kumy1244,http://concepticon.clld.org/parameters/1789,чагъы,age
+523-1206,kumy1244,http://concepticon.clld.org/parameters/1789,эпоха,age
+523-517,kumy1244,http://concepticon.clld.org/parameters/1231,янгъы,new
+523-1078,kumy1244,http://concepticon.clld.org/parameters/1207,джагьил,young
+523-636,kumy1244,http://concepticon.clld.org/parameters/1207,яш,young
+523-732,kumy1244,http://concepticon.clld.org/parameters/1229,къарт,old
+523-829,kumy1244,http://concepticon.clld.org/parameters/672,эрте,early
+523-391,kumy1244,http://concepticon.clld.org/parameters/477,геч,late
+523-80,kumy1244,http://concepticon.clld.org/parameters/1376,гьали,now
+523-275,kumy1244,http://concepticon.clld.org/parameters/1376,буссагьат,now
+523-275,kumy1244,http://concepticon.clld.org/parameters/1963,буссагьат,immediately
+523-1473,kumy1244,http://concepticon.clld.org/parameters/1631,чалт,"swift, fast, quick"
+523-971,kumy1244,http://concepticon.clld.org/parameters/701,аста,slow
+523-619,kumy1244,http://concepticon.clld.org/parameters/754,алгъасамакъ,"hasten, hurry"
+523-1354,kumy1244,http://concepticon.clld.org/parameters/425,токътатмакъ,"retard, delay"
+523-1071,kumy1244,http://concepticon.clld.org/parameters/1806,башламакъ,"begin, beginning"
+523-195,kumy1244,http://concepticon.clld.org/parameters/1806,башы,"begin, beginning"
+523-1101,kumy1244,http://concepticon.clld.org/parameters/1186,узаталаджакъ,"last, endure"
+523-100,kumy1244,http://concepticon.clld.org/parameters/743,битмек,end (temporal)
+523-1016,kumy1244,http://concepticon.clld.org/parameters/1766,битдирмек,finish
+523-1354,kumy1244,http://concepticon.clld.org/parameters/1928,токътатмакъ,"cease, stop"
+523-622,kumy1244,http://concepticon.clld.org/parameters/790,гьазир,ready
+523-670,kumy1244,http://concepticon.clld.org/parameters/1676,гьар заманда,always
+523-1159,kumy1244,http://concepticon.clld.org/parameters/1852,тез-тез,often
+523-909,kumy1244,http://concepticon.clld.org/parameters/1544,чакъда бир,sometimes
+523-1017,kumy1244,http://concepticon.clld.org/parameters/703,тезде,soon
+523-497,kumy1244,http://concepticon.clld.org/parameters/703,тез арада,soon
+523-1224,kumy1244,http://concepticon.clld.org/parameters/703,ювукъда,soon
+523-1191,kumy1244,http://concepticon.clld.org/parameters/418,узакъ мезгилли,long-time (for a)
+523-1394,kumy1244,http://concepticon.clld.org/parameters/1656,бир заманнада,never
+523-150,kumy1244,http://concepticon.clld.org/parameters/204,бирдагъы да,again
+523-459,kumy1244,http://concepticon.clld.org/parameters/204,янгыдан,again
+523-398,kumy1244,http://concepticon.clld.org/parameters/1260,гюн,day
+523-295,kumy1244,http://concepticon.clld.org/parameters/1260,гюндюз,day
+523-320,kumy1244,http://concepticon.clld.org/parameters/1233,гече,night
+523-91,kumy1244,http://concepticon.clld.org/parameters/729,тангда,dawn
+523-655,kumy1244,http://concepticon.clld.org/parameters/1339,эртен,morning
+523-1135,kumy1244,http://concepticon.clld.org/parameters/12,тюш,"noon, midday"
+523-608,kumy1244,http://concepticon.clld.org/parameters/1807,тюшден сонг,afternoon
+523-166,kumy1244,http://concepticon.clld.org/parameters/1629,ахшам,evening
+523-927,kumy1244,http://concepticon.clld.org/parameters/1283,бугюн,today
+523-669,kumy1244,http://concepticon.clld.org/parameters/1329,тангала,tomorrow
+523-1021,kumy1244,http://concepticon.clld.org/parameters/1179,тангаладан сонг,day-after-tomorrow
+523-1019,kumy1244,http://concepticon.clld.org/parameters/1174,тюнегюн,yesterday
+523-1130,kumy1244,http://concepticon.clld.org/parameters/1180,бирисигюн,day-before-yesterday
+523-1460,kumy1244,http://concepticon.clld.org/parameters/1353,сагьат,hour
+523-1460,kumy1244,http://concepticon.clld.org/parameters/1323,сагьат,"clock, timepiece"
+523-301,kumy1244,http://concepticon.clld.org/parameters/1469,джума,week
+523-118,kumy1244,http://concepticon.clld.org/parameters/1699,къаттыгюн,Sunday
+523-628,kumy1244,http://concepticon.clld.org/parameters/1697,итнигюн,Monday
+523-1328,kumy1244,http://concepticon.clld.org/parameters/1695,талатгюн,Tuesday
+523-20,kumy1244,http://concepticon.clld.org/parameters/1694,арбагьгюн,Wednesday
+523-1009,kumy1244,http://concepticon.clld.org/parameters/1694,арбагюн,Wednesday
+523-23,kumy1244,http://concepticon.clld.org/parameters/1693,хамисгюн,Thursday
+523-1119,kumy1244,http://concepticon.clld.org/parameters/1692,джумагюн,Friday
+523-571,kumy1244,http://concepticon.clld.org/parameters/1700,сонгугюн,Saturday
+523-940,kumy1244,http://concepticon.clld.org/parameters/1370,ай,month
+523-1456,kumy1244,http://concepticon.clld.org/parameters/1226,йыл,year
+523-1053,kumy1244,http://concepticon.clld.org/parameters/1471,къыш,winter
+523-617,kumy1244,http://concepticon.clld.org/parameters/1537,яз,spring
+523-648,kumy1244,http://concepticon.clld.org/parameters/1537,язбаш,spring
+523-934,kumy1244,http://concepticon.clld.org/parameters/1342,яй,summer
+523-396,kumy1244,http://concepticon.clld.org/parameters/1276,гюз,autumn
+523-1446,kumy1244,http://concepticon.clld.org/parameters/691,йылны заманы,season
+523-1001,kumy1244,http://concepticon.clld.org/parameters/1587,ийис гелмек,smell (vb intrans)
+523-803,kumy1244,http://concepticon.clld.org/parameters/1587,ийис бермек,smell (vb intrans)
+523-448,kumy1244,http://concepticon.clld.org/parameters/1587,ийис болмакъ,smell (vb intrans)
+523-121,kumy1244,http://concepticon.clld.org/parameters/375,пышгъырмакъ,sniff
+523-552,kumy1244,http://concepticon.clld.org/parameters/1586,ийислемек,smell (vb trans)
+523-660,kumy1244,http://concepticon.clld.org/parameters/376,арив ийис,"fragrant, good smelling"
+523-6,kumy1244,http://concepticon.clld.org/parameters/42,яман ийис,"stinking, bad smelling"
+523-1396,kumy1244,http://concepticon.clld.org/parameters/21,татыв,taste
+523-94,kumy1244,http://concepticon.clld.org/parameters/717,татли,sweet
+523-423,kumy1244,http://concepticon.clld.org/parameters/1091,тузлу,salty
+523-852,kumy1244,http://concepticon.clld.org/parameters/887,аччы,bitter
+523-931,kumy1244,http://concepticon.clld.org/parameters/1906,туршлу,"acid, sour"
+523-219,kumy1244,http://concepticon.clld.org/parameters/70,тузлу йимик,brackish
+523-73,kumy1244,http://concepticon.clld.org/parameters/1408,эшитмек,hear
+523-199,kumy1244,http://concepticon.clld.org/parameters/1608,тынгламакъ,listen
+523-1351,kumy1244,http://concepticon.clld.org/parameters/1811,тавуш,"sound, noise"
+523-1337,kumy1244,http://concepticon.clld.org/parameters/1811,къавкъа,"sound, noise"
+523-256,kumy1244,http://concepticon.clld.org/parameters/377,къыччырып,loud
+523-1461,kumy1244,http://concepticon.clld.org/parameters/377,гючлю,loud
+523-1381,kumy1244,http://concepticon.clld.org/parameters/1314,парахат,"quiet, silence"
+523-509,kumy1244,http://concepticon.clld.org/parameters/1314,рагьат,"quiet, silence"
+523-1,kumy1244,http://concepticon.clld.org/parameters/1314,аста рагьат,"quiet, silence"
+523-89,kumy1244,http://concepticon.clld.org/parameters/1314,шып,"quiet, silence"
+523-1429,kumy1244,http://concepticon.clld.org/parameters/1314,чув,"quiet, silence"
+523-102,kumy1244,http://concepticon.clld.org/parameters/1409,гёрмек,see
+523-1360,kumy1244,http://concepticon.clld.org/parameters/1819,къарамакъ,"look, look at"
+523-113,kumy1244,http://concepticon.clld.org/parameters/1039,гёрсетмек,show
+523-371,kumy1244,http://concepticon.clld.org/parameters/708,ярыкъ этмек,shine
+523-870,kumy1244,http://concepticon.clld.org/parameters/708,ярыкъ бермек,shine
+523-823,kumy1244,http://concepticon.clld.org/parameters/679,шавлалы ярыкъ,bright
+523-355,kumy1244,http://concepticon.clld.org/parameters/679,шавлалы ачыкъ,bright
+523-464,kumy1244,http://concepticon.clld.org/parameters/1613,ренк,color
+523-1137,kumy1244,http://concepticon.clld.org/parameters/1613,тюс,color
+523-36,kumy1244,http://concepticon.clld.org/parameters/250,ачыкъ,light (in color)
+523-705,kumy1244,http://concepticon.clld.org/parameters/250,ярыкъ,light (in color)
+523-318,kumy1244,http://concepticon.clld.org/parameters/706,къарангы,dark (in color)
+523-784,kumy1244,http://concepticon.clld.org/parameters/1335,акъ,white
+523-10,kumy1244,http://concepticon.clld.org/parameters/163,къара,black
+523-1059,kumy1244,http://concepticon.clld.org/parameters/156,къызыл,red
+523-695,kumy1244,http://concepticon.clld.org/parameters/837,гёк,blue
+523-485,kumy1244,http://concepticon.clld.org/parameters/1425,яшыл,green
+523-232,kumy1244,http://concepticon.clld.org/parameters/1424,сари,yellow
+523-767,kumy1244,http://concepticon.clld.org/parameters/1892,тиймек,touch
+523-101,kumy1244,http://concepticon.clld.org/parameters/378,юлкъмакъ,pinch
+523-693,kumy1244,http://concepticon.clld.org/parameters/378,къысмакъ,pinch
+523-103,kumy1244,http://concepticon.clld.org/parameters/1079,сезмек,feel
+523-462,kumy1244,http://concepticon.clld.org/parameters/1884,къатты,hard
+523-889,kumy1244,http://concepticon.clld.org/parameters/1856,йымышакъ,soft
+523-642,kumy1244,http://concepticon.clld.org/parameters/1923,тири,rough
+523-161,kumy1244,http://concepticon.clld.org/parameters/1234,тегиш,smooth
+523-1126,kumy1244,http://concepticon.clld.org/parameters/1234,тюз,smooth
+523-240,kumy1244,http://concepticon.clld.org/parameters/1396,идти,sharp
+523-148,kumy1244,http://concepticon.clld.org/parameters/379,топас,"blunt, dull"
+523-1179,kumy1244,http://concepticon.clld.org/parameters/379,оьтмес,"blunt, dull"
+523-1201,kumy1244,http://concepticon.clld.org/parameters/1210,авур,heavy
+523-570,kumy1244,http://concepticon.clld.org/parameters/1052,енгил,light (in weight)
+523-152,kumy1244,http://concepticon.clld.org/parameters/1726,сув,"wet, damp"
+523-271,kumy1244,http://concepticon.clld.org/parameters/1726,сувлу,"wet, damp"
+523-981,kumy1244,http://concepticon.clld.org/parameters/1398,къуру,dry
+523-1150,kumy1244,http://concepticon.clld.org/parameters/1286,исси,hot
+523-645,kumy1244,http://concepticon.clld.org/parameters/1232,йылы,warm
+523-896,kumy1244,http://concepticon.clld.org/parameters/1287,сувукъ,cold
+523-988,kumy1244,http://concepticon.clld.org/parameters/704,таза,clean
+523-27,kumy1244,http://concepticon.clld.org/parameters/1230,нас,"dirty, soiled"
+523-1302,kumy1244,http://concepticon.clld.org/parameters/380,эзилген,wrinkled
+523-335,kumy1244,http://concepticon.clld.org/parameters/380,янчылгъан,wrinkled
+523-1012,kumy1244,http://concepticon.clld.org/parameters/380,бюрюшген,wrinkled
+523-1303,kumy1244,http://concepticon.clld.org/parameters/53,гьал,"soul, spirit"
+523-1081,kumy1244,http://concepticon.clld.org/parameters/53,джан,"soul, spirit"
+523-498,kumy1244,http://concepticon.clld.org/parameters/53,ругь,"soul, spirit"
+523-607,kumy1244,http://concepticon.clld.org/parameters/1572,тамаша болгъан,"surprised, astonished"
+523-763,kumy1244,http://concepticon.clld.org/parameters/720,онгтюшмек,"good fortune, luck"
+523-426,kumy1244,http://concepticon.clld.org/parameters/720,уьст гелмек,"good fortune, luck"
+523-1204,kumy1244,http://concepticon.clld.org/parameters/720,тюзелив,"good fortune, luck"
+523-1035,kumy1244,http://concepticon.clld.org/parameters/56,тюзелмегенлик,"misfortune, bad luck"
+523-583,kumy1244,http://concepticon.clld.org/parameters/56,онгмагъанлыкъ,"misfortune, bad luck"
+523-489,kumy1244,http://concepticon.clld.org/parameters/1495,насипли,"joyful, glad, happy"
+523-122,kumy1244,http://concepticon.clld.org/parameters/1495,шат,"joyful, glad, happy"
+523-1428,kumy1244,http://concepticon.clld.org/parameters/1355,кюлемек,laugh
+523-1157,kumy1244,http://concepticon.clld.org/parameters/1451,ирджаймакъ,smile
+523-253,kumy1244,http://concepticon.clld.org/parameters/1413,ойнамакъ,play
+523-446,kumy1244,http://concepticon.clld.org/parameters/923,сюймек,love
+523-914,kumy1244,http://concepticon.clld.org/parameters/578,оьпмек,kiss
+523-1228,kumy1244,http://concepticon.clld.org/parameters/928,къучакъламакъ,embrace
+523-237,kumy1244,http://concepticon.clld.org/parameters/1783,аврув,pain
+523-1277,kumy1244,http://concepticon.clld.org/parameters/1783,авуртагъаны,pain
+523-689,kumy1244,http://concepticon.clld.org/parameters/1783,дерт,pain
+523-752,kumy1244,http://concepticon.clld.org/parameters/1783,къайгъы,pain
+523-1120,kumy1244,http://concepticon.clld.org/parameters/1668,пашманлыкъ,"grief, sorrow, sadness"
+523-752,kumy1244,http://concepticon.clld.org/parameters/1668,къайгъы,"grief, sorrow, sadness"
+523-1407,kumy1244,http://concepticon.clld.org/parameters/1668,дёрт,"grief, sorrow, sadness"
+523-1283,kumy1244,http://concepticon.clld.org/parameters/1000,талчыкъ,"anxiety, worry"
+523-762,kumy1244,http://concepticon.clld.org/parameters/1000,къавун,"anxiety, worry"
+523-155,kumy1244,http://concepticon.clld.org/parameters/1875,гьёкюнмек,"regret, be sorry"
+523-610,kumy1244,http://concepticon.clld.org/parameters/1141,языкъсыныв,pity
+523-675,kumy1244,http://concepticon.clld.org/parameters/1839,йыламакъ,"cry, weep"
+523-38,kumy1244,http://concepticon.clld.org/parameters/1839,ичинден йыламакъ,"cry, weep"
+523-998,kumy1244,http://concepticon.clld.org/parameters/1651,гёзяш,tear (noun)
+523-1070,kumy1244,http://concepticon.clld.org/parameters/716,агьурмакъ,groan
+523-25,kumy1244,http://concepticon.clld.org/parameters/1607,гёрюп ярамайгъан болмакъ,hate
+523-1282,kumy1244,http://concepticon.clld.org/parameters/82,ачув,anger
+523-1437,kumy1244,http://concepticon.clld.org/parameters/82,оьчлюк,anger
+523-1386,kumy1244,http://concepticon.clld.org/parameters/40,гюнчюлюк,"envy, jealousy"
+523-1387,kumy1244,http://concepticon.clld.org/parameters/40,гюнчюлюп,"envy, jealousy"
+523-1329,kumy1244,http://concepticon.clld.org/parameters/1776,уялыв,shame (noun)
+523-1334,kumy1244,http://concepticon.clld.org/parameters/174,оьктем,proud
+523-658,kumy1244,http://concepticon.clld.org/parameters/1779,игит адам,dare
+523-98,kumy1244,http://concepticon.clld.org/parameters/3,игит,brave
+523-654,kumy1244,http://concepticon.clld.org/parameters/3,къоркъусуз,brave
+523-1269,kumy1244,http://concepticon.clld.org/parameters/781,къоркъув,"fear, fright"
+523-668,kumy1244,http://concepticon.clld.org/parameters/1810,къоркъунчлукъ,danger
+523-1174,kumy1244,http://concepticon.clld.org/parameters/1784,сюеген зат,"desire, want"
+523-561,kumy1244,http://concepticon.clld.org/parameters/1784,кепине лелмек,"desire, want"
+523-715,kumy1244,http://concepticon.clld.org/parameters/1784,мурат,"desire, want"
+523-274,kumy1244,http://concepticon.clld.org/parameters/1750,сайламакъ,choose
+523-465,kumy1244,http://concepticon.clld.org/parameters/1092,инанмакъ,hope
+523-179,kumy1244,http://concepticon.clld.org/parameters/1092,умут этмек,hope
+523-108,kumy1244,http://concepticon.clld.org/parameters/100,инамлы,faithful
+523-754,kumy1244,http://concepticon.clld.org/parameters/100,герти,faithful
+523-754,kumy1244,http://concepticon.clld.org/parameters/1657,герти,true
+523-93,kumy1244,http://concepticon.clld.org/parameters/1657,гьалиги,true
+523-925,kumy1244,http://concepticon.clld.org/parameters/601,ялгъан айтмакъ,"lie, tell lies"
+523-785,kumy1244,http://concepticon.clld.org/parameters/13,алдатмакъ,deceit
+523-681,kumy1244,http://concepticon.clld.org/parameters/1528,гечмек,forgive
+523-926,kumy1244,http://concepticon.clld.org/parameters/1035,яхши,good
+523-1096,kumy1244,http://concepticon.clld.org/parameters/1292,яман,bad
+523-1126,kumy1244,http://concepticon.clld.org/parameters/1725,тюз,"right, correct"
+523-638,kumy1244,http://concepticon.clld.org/parameters/1390,янгылыш,wrong
+523-394,kumy1244,http://concepticon.clld.org/parameters/1390,тюз тюгюл,wrong
+523-1251,kumy1244,http://concepticon.clld.org/parameters/134,бузукъ иш,fault
+523-945,kumy1244,http://concepticon.clld.org/parameters/134,айыплы иш,fault
+523-289,kumy1244,http://concepticon.clld.org/parameters/1293,хата,"mistake, error"
+523-1244,kumy1244,http://concepticon.clld.org/parameters/381,айыпламакъ,blame
+523-1168,kumy1244,http://concepticon.clld.org/parameters/1687,макътамакъ,praise
+523-31,kumy1244,http://concepticon.clld.org/parameters/1427,арив,beautiful
+523-1196,kumy1244,http://concepticon.clld.org/parameters/1548,сакъат,ugly
+523-536,kumy1244,http://concepticon.clld.org/parameters/1548,зайып,ugly
+523-145,kumy1244,http://concepticon.clld.org/parameters/2018,къызгъанч,greedy
+523-685,kumy1244,http://concepticon.clld.org/parameters/1310,гьакъыллы,clever
+523-1209,kumy1244,http://concepticon.clld.org/parameters/1562,гьакъыл,mind
+523-361,kumy1244,http://concepticon.clld.org/parameters/1415,ойламакъ,think (= reflect)
+523-105,kumy1244,http://concepticon.clld.org/parameters/1415,ой къурмакъ,think (= reflect)
+523-361,kumy1244,http://concepticon.clld.org/parameters/1513,ойламакъ,think (= be of the opinion)
+523-775,kumy1244,http://concepticon.clld.org/parameters/1513,санамакъ,think (= be of the opinion)
+523-465,kumy1244,http://concepticon.clld.org/parameters/1890,инанмакъ,believe
+523-455,kumy1244,http://concepticon.clld.org/parameters/1536,англамакъ,understand
+523-537,kumy1244,http://concepticon.clld.org/parameters/1410,билмек,know
+523-104,kumy1244,http://concepticon.clld.org/parameters/1932,йорамакъ,guess
+523-361,kumy1244,http://concepticon.clld.org/parameters/1932,ойламакъ,guess
+523-1202,kumy1244,http://concepticon.clld.org/parameters/117,ошатмакъ,imitate
+523-734,kumy1244,http://concepticon.clld.org/parameters/1521,гёрюнмек,seem
+523-979,kumy1244,http://concepticon.clld.org/parameters/1609,пикру,"idea, notion"
+523-816,kumy1244,http://concepticon.clld.org/parameters/1609,ой,"idea, notion"
+523-210,kumy1244,http://concepticon.clld.org/parameters/1609,англав,"idea, notion"
+523-1411,kumy1244,http://concepticon.clld.org/parameters/698,терен гьакъыллы,wise
+523-891,kumy1244,http://concepticon.clld.org/parameters/698,бек гьакъыллы,wise
+523-799,kumy1244,http://concepticon.clld.org/parameters/1518,гьагев,"foolish, stupid"
+523-313,kumy1244,http://concepticon.clld.org/parameters/1518,авлия,"foolish, stupid"
+523-33,kumy1244,http://concepticon.clld.org/parameters/1899,гьакъылсыз,"insane, crazy"
+523-535,kumy1244,http://concepticon.clld.org/parameters/504,танымакъ,learn
+523-136,kumy1244,http://concepticon.clld.org/parameters/504,охумакъ,learn
+523-245,kumy1244,http://concepticon.clld.org/parameters/1929,охутмакъ,study
+523-586,kumy1244,http://concepticon.clld.org/parameters/1929,уьйретмек,study
+523-659,kumy1244,http://concepticon.clld.org/parameters/1929,уьйренмек,study
+523-245,kumy1244,http://concepticon.clld.org/parameters/709,охутмакъ,teach
+523-1030,kumy1244,http://concepticon.clld.org/parameters/753,охувчу,pupil
+523-1413,kumy1244,http://concepticon.clld.org/parameters/1038,муалим,teacher
+523-131,kumy1244,http://concepticon.clld.org/parameters/1038,учител,teacher
+523-392,kumy1244,http://concepticon.clld.org/parameters/673,мактап,school
+523-1256,kumy1244,http://concepticon.clld.org/parameters/673,школа,school
+523-288,kumy1244,http://concepticon.clld.org/parameters/707,эсде сакъламакъ,remember
+523-167,kumy1244,http://concepticon.clld.org/parameters/1523,унутмакъ,forget
+523-36,kumy1244,http://concepticon.clld.org/parameters/989,ачыкъ,"clear, plain"
+523-406,kumy1244,http://concepticon.clld.org/parameters/1764,англашынмайгъан,obscure
+523-1352,kumy1244,http://concepticon.clld.org/parameters/1121,сыр,secret
+523-108,kumy1244,http://concepticon.clld.org/parameters/509,инамлы,"sure, certain"
+523-1291,kumy1244,http://concepticon.clld.org/parameters/1626,англатмакъ,explain
+523-813,kumy1244,http://concepticon.clld.org/parameters/1162,хыял,"intention, purpose"
+523-715,kumy1244,http://concepticon.clld.org/parameters/1162,мурат,"intention, purpose"
+523-277,kumy1244,http://concepticon.clld.org/parameters/860,себеби,cause
+523-623,kumy1244,http://concepticon.clld.org/parameters/1308,шеклик,doubt
+523-1117,kumy1244,http://concepticon.clld.org/parameters/1841,шекленмек,suspect
+523-213,kumy1244,http://concepticon.clld.org/parameters/1902,сатылмакъ,betray
+523-1048,kumy1244,http://concepticon.clld.org/parameters/643,тарыкълы болмакъ,"need, necessity"
+523-751,kumy1244,http://concepticon.clld.org/parameters/686,тынч,easy
+523-688,kumy1244,http://concepticon.clld.org/parameters/584,къыйын,difficult
+523-433,kumy1244,http://concepticon.clld.org/parameters/1812,урунуп къарамакъ,"try, attempt"
+523-227,kumy1244,http://concepticon.clld.org/parameters/488,кюй,"way, manner"
+523-1393,kumy1244,http://concepticon.clld.org/parameters/488,къайда,"way, manner"
+523-1212,kumy1244,http://concepticon.clld.org/parameters/1577,ва,and
+523-1095,kumy1244,http://concepticon.clld.org/parameters/1577,да,and
+523-1094,kumy1244,http://concepticon.clld.org/parameters/1577,де,and
+523-296,kumy1244,http://concepticon.clld.org/parameters/1157,шо саялы,because
+523-203,kumy1244,http://concepticon.clld.org/parameters/1157,шону учун,because
+523-326,kumy1244,http://concepticon.clld.org/parameters/1459,эгер,if
+523-853,kumy1244,http://concepticon.clld.org/parameters/1014,я,or
+523-286,kumy1244,http://concepticon.clld.org/parameters/1014,яда,or
+523-343,kumy1244,http://concepticon.clld.org/parameters/1268,алай бер,"yes, affirmative"
+523-270,kumy1244,http://concepticon.clld.org/parameters/1268,дюр,"yes, affirmative"
+523-555,kumy1244,http://concepticon.clld.org/parameters/1269,тюгюл,"no, negative"
+523-379,kumy1244,http://concepticon.clld.org/parameters/1239,нечик,how?
+523-1374,kumy1244,http://concepticon.clld.org/parameters/822,нече,how many?
+523-1301,kumy1244,http://concepticon.clld.org/parameters/531,не къадарда,how much?
+523-527,kumy1244,http://concepticon.clld.org/parameters/1236,не,what?
+523-64,kumy1244,http://concepticon.clld.org/parameters/1238,къачан,when?
+523-1393,kumy1244,http://concepticon.clld.org/parameters/1237,къайда,where?
+523-1288,kumy1244,http://concepticon.clld.org/parameters/1237,къайдан,where?
+523-379,kumy1244,http://concepticon.clld.org/parameters/727,нечик,which?
+523-1398,kumy1244,http://concepticon.clld.org/parameters/1235,ким,who?
+523-1333,kumy1244,http://concepticon.clld.org/parameters/1270,не саялы,why?
+523-851,kumy1244,http://concepticon.clld.org/parameters/1270,не учун,why?
+523-1351,kumy1244,http://concepticon.clld.org/parameters/1363,тавуш,voice
+523-573,kumy1244,http://concepticon.clld.org/parameters/1261,йырламакъ,sing
+523-848,kumy1244,http://concepticon.clld.org/parameters/715,къычырмакъ,"shout, cry out"
+523-1183,kumy1244,http://concepticon.clld.org/parameters/715,акъырмакъ,"shout, cry out"
+523-403,kumy1244,http://concepticon.clld.org/parameters/55,шыбышламакъ,whisper
+523-662,kumy1244,http://concepticon.clld.org/parameters/128,мырылламакъ,mumble
+523-576,kumy1244,http://concepticon.clld.org/parameters/1025,сызгъырмакъ,whistle
+523-1103,kumy1244,http://concepticon.clld.org/parameters/298,гьанцылламакъ,"shriek, screech"
+523-1172,kumy1244,http://concepticon.clld.org/parameters/526,улумакъ,howl
+523-177,kumy1244,http://concepticon.clld.org/parameters/1623,сёйлемек,"speak, talk"
+523-873,kumy1244,http://concepticon.clld.org/parameters/1866,тутулуп сёйлемек,"stutter, stammer"
+523-970,kumy1244,http://concepticon.clld.org/parameters/1458,айтмакъ,say
+523-365,kumy1244,http://concepticon.clld.org/parameters/1711,хабар айтмакъ,tell story
+523-450,kumy1244,http://concepticon.clld.org/parameters/1115,сёйлев,speech (make a)
+523-501,kumy1244,http://concepticon.clld.org/parameters/1115,сёз,speech (make a)
+523-375,kumy1244,http://concepticon.clld.org/parameters/48,сёйлемей турмакъ,silent (be)
+523-282,kumy1244,http://concepticon.clld.org/parameters/48,сёйлемей тынмакъ,silent (be)
+523-116,kumy1244,http://concepticon.clld.org/parameters/1307,тил,language
+523-501,kumy1244,http://concepticon.clld.org/parameters/1599,сёз,word
+523-222,kumy1244,http://concepticon.clld.org/parameters/1405,ерни аты,name
+523-325,kumy1244,http://concepticon.clld.org/parameters/1405,адамны аты,name
+523-1167,kumy1244,http://concepticon.clld.org/parameters/1309,сорамакъ,"ask (question, inquire)"
+523-956,kumy1244,http://concepticon.clld.org/parameters/1275,джавап бермек,answer
+523-491,kumy1244,http://concepticon.clld.org/parameters/2022,мюкюр болмакъ,"admit, confess"
+523-1121,kumy1244,http://concepticon.clld.org/parameters/755,гери урмакъ,deny
+523-132,kumy1244,http://concepticon.clld.org/parameters/1828,тилимек,"ask, request"
+523-1234,kumy1244,http://concepticon.clld.org/parameters/1675,сёз бермек,promise
+523-550,kumy1244,http://concepticon.clld.org/parameters/1675,бойнуна алмакъ,promise
+523-1164,kumy1244,http://concepticon.clld.org/parameters/49,инкар этмек,refuse
+523-1121,kumy1244,http://concepticon.clld.org/parameters/49,гери урмакъ,refuse
+523-1121,kumy1244,http://concepticon.clld.org/parameters/83,гери урмакъ,forbid
+523-694,kumy1244,http://concepticon.clld.org/parameters/299,урушмакъ,"rebuke, scold"
+523-1366,kumy1244,http://concepticon.clld.org/parameters/1084,чакъырмакъ,call (=summon)
+523-970,kumy1244,http://concepticon.clld.org/parameters/180,айтмакъ,call (=name)
+523-272,kumy1244,http://concepticon.clld.org/parameters/9,билдирмек,announce
+523-393,kumy1244,http://concepticon.clld.org/parameters/1192,къоркъыв бермек,threaten
+523-546,kumy1244,http://concepticon.clld.org/parameters/101,макътанмакъ,boast
+523-952,kumy1244,http://concepticon.clld.org/parameters/1672,язмакъ,write
+523-136,kumy1244,http://concepticon.clld.org/parameters/724,охумакъ,read
+523-984,kumy1244,http://concepticon.clld.org/parameters/648,кагъыз,paper
+523-724,kumy1244,http://concepticon.clld.org/parameters/648,кахыт,paper
+523-279,kumy1244,http://concepticon.clld.org/parameters/794,ручка,pen
+523-265,kumy1244,http://concepticon.clld.org/parameters/963,китап,book
+523-1379,kumy1244,http://concepticon.clld.org/parameters/1045,поэт,poet
+523-165,kumy1244,http://concepticon.clld.org/parameters/1045,шаир,poet
+523-499,kumy1244,http://concepticon.clld.org/parameters/777,зурнай,flute
+523-431,kumy1244,http://concepticon.clld.org/parameters/908,теп,drum
+523-797,kumy1244,http://concepticon.clld.org/parameters/2136,забызгъы,"horn, trumpet"
+523-647,kumy1244,http://concepticon.clld.org/parameters/300,джыгъырджыгъ,rattle
+523-973,kumy1244,http://concepticon.clld.org/parameters/1300,уьлке,country
+523-1018,kumy1244,http://concepticon.clld.org/parameters/1300,пачалыкъ,country
+523-1115,kumy1244,http://concepticon.clld.org/parameters/89,ватан,one's native country
+523-804,kumy1244,http://concepticon.clld.org/parameters/89,тувма пачалыкъ,one's native country
+523-413,kumy1244,http://concepticon.clld.org/parameters/1391,шагьар,"city, town"
+523-1099,kumy1244,http://concepticon.clld.org/parameters/930,юрт,village
+523-1165,kumy1244,http://concepticon.clld.org/parameters/1010,дазу,boundary
+523-79,kumy1244,http://concepticon.clld.org/parameters/1010,дазув,boundary
+523-70,kumy1244,http://concepticon.clld.org/parameters/789,халкъ,people (populace)
+523-1438,kumy1244,http://concepticon.clld.org/parameters/302,тухум,"tribe, clan"
+523-1125,kumy1244,http://concepticon.clld.org/parameters/302,къавум,"tribe, clan"
+523-526,kumy1244,http://concepticon.clld.org/parameters/301,ёлбашчы,"chief, chieftain"
+523-725,kumy1244,http://concepticon.clld.org/parameters/301,вожд,"chief, chieftain"
+523-21,kumy1244,http://concepticon.clld.org/parameters/1296,асатаякъ,"staff, walking stick"
+523-846,kumy1244,http://concepticon.clld.org/parameters/1846,ёлбашчылыкъ этмек,"rule, govern"
+523-408,kumy1244,http://concepticon.clld.org/parameters/1846,ёлбашчылыкъ юрютмек,"rule, govern"
+523-737,kumy1244,http://concepticon.clld.org/parameters/1508,пача,"king, ruler"
+523-800,kumy1244,http://concepticon.clld.org/parameters/1508,хан,"king, ruler"
+523-404,kumy1244,http://concepticon.clld.org/parameters/1508,гьаким,"king, ruler"
+523-1022,kumy1244,http://concepticon.clld.org/parameters/1306,пачаны къатын,queen
+523-151,kumy1244,http://concepticon.clld.org/parameters/1306,ханны къатын,queen
+523-1458,kumy1244,http://concepticon.clld.org/parameters/482,къылыкълы,"noble, nobleman"
+523-652,kumy1244,http://concepticon.clld.org/parameters/482,намуслу,"noble, nobleman"
+523-633,kumy1244,http://concepticon.clld.org/parameters/482,асил,"noble, nobleman"
+523-1268,kumy1244,http://concepticon.clld.org/parameters/1032,шагьарлы адам,"citizen, subject"
+523-164,kumy1244,http://concepticon.clld.org/parameters/1032,шагьарчу,"citizen, subject"
+523-1372,kumy1244,http://concepticon.clld.org/parameters/383,агъа,master
+523-817,kumy1244,http://concepticon.clld.org/parameters/383,есси,master
+523-45,kumy1244,http://concepticon.clld.org/parameters/812,къул,slave
+523-666,kumy1244,http://concepticon.clld.org/parameters/255,къуллукъчу,servant
+523-616,kumy1244,http://concepticon.clld.org/parameters/384,азат адам,freeman
+523-894,kumy1244,http://concepticon.clld.org/parameters/1128,буюрмакъ,"command, order"
+523-199,kumy1244,http://concepticon.clld.org/parameters/1635,тынгламакъ,obey
+523-1364,kumy1244,http://concepticon.clld.org/parameters/1635,айтгъанны этмек,obey
+523-427,kumy1244,http://concepticon.clld.org/parameters/1003,ихтияр бермек,"let, permit"
+523-1250,kumy1244,http://concepticon.clld.org/parameters/1325,къурдаш,"friend, companion"
+523-234,kumy1244,http://concepticon.clld.org/parameters/1358,душман,enemy
+523-12,kumy1244,http://concepticon.clld.org/parameters/1332,хоншу,neighbor
+523-777,kumy1244,http://concepticon.clld.org/parameters/791,ят адам,stranger
+523-39,kumy1244,http://concepticon.clld.org/parameters/1782,къонакъ,guest
+523-1199,kumy1244,http://concepticon.clld.org/parameters/1545,еси,host
+523-904,kumy1244,http://concepticon.clld.org/parameters/1897,кёмек,"help, aid"
+523-1443,kumy1244,http://concepticon.clld.org/parameters/1550,пуршавлукъ этмек,"hinder, prevent"
+523-542,kumy1244,http://concepticon.clld.org/parameters/1550,четимлик этмек,"hinder, prevent"
+523-508,kumy1244,http://concepticon.clld.org/parameters/1747,адат,custom
+523-830,kumy1244,http://concepticon.clld.org/parameters/1848,эришивлюк,"strife, quarrel"
+523-651,kumy1244,http://concepticon.clld.org/parameters/1848,татывсузлукъ,"strife, quarrel"
+523-156,kumy1244,http://concepticon.clld.org/parameters/1848,урушув,"strife, quarrel"
+523-34,kumy1244,http://concepticon.clld.org/parameters/2024,питне,"conspiracy, plot"
+523-1116,kumy1244,http://concepticon.clld.org/parameters/2024,яман негет,"conspiracy, plot"
+523-16,kumy1244,http://concepticon.clld.org/parameters/2024,тилбирчилик,"conspiracy, plot"
+523-1426,kumy1244,http://concepticon.clld.org/parameters/1831,ёлукъмакъ,meet
+523-640,kumy1244,http://concepticon.clld.org/parameters/1610,къагьба къатын,prostitute
+523-630,kumy1244,http://concepticon.clld.org/parameters/1423,ябушмакъ,fight (vb)
+523-710,kumy1244,http://concepticon.clld.org/parameters/1423,токъалашмакъ,fight (vb)
+523-1451,kumy1244,http://concepticon.clld.org/parameters/1423,дав этмек,fight (vb)
+523-629,kumy1244,http://concepticon.clld.org/parameters/579,дав,"war, battle"
+523-474,kumy1244,http://concepticon.clld.org/parameters/579,ябушув,"war, battle"
+523-818,kumy1244,http://concepticon.clld.org/parameters/1338,парахатлыкъ,peace
+523-370,kumy1244,http://concepticon.clld.org/parameters/1561,армия,army
+523-1306,kumy1244,http://concepticon.clld.org/parameters/1561,асгер,army
+523-987,kumy1244,http://concepticon.clld.org/parameters/1941,солдат,soldier
+523-933,kumy1244,http://concepticon.clld.org/parameters/951,савут,"weapons, arms"
+523-357,kumy1244,http://concepticon.clld.org/parameters/1763,чокъмар,club
+523-977,kumy1244,http://concepticon.clld.org/parameters/1763,тогъанакъ,club
+523-1292,kumy1244,http://concepticon.clld.org/parameters/386,дав балта,battle-ax
+523-682,kumy1244,http://concepticon.clld.org/parameters/386,айбалта,battle-ax
+523-48,kumy1244,http://concepticon.clld.org/parameters/387,сарпан,sling
+523-1073,kumy1244,http://concepticon.clld.org/parameters/994,джая,bow
+523-597,kumy1244,http://concepticon.clld.org/parameters/994,къазаргъы,bow
+523-1368,kumy1244,http://concepticon.clld.org/parameters/977,окъ,arrow
+523-294,kumy1244,http://concepticon.clld.org/parameters/945,сюнгю,spear
+523-982,kumy1244,http://concepticon.clld.org/parameters/1535,къылыч,sword
+523-225,kumy1244,http://concepticon.clld.org/parameters/1566,тюбек,"gun, cannon"
+523-1371,kumy1244,http://concepticon.clld.org/parameters/1566,топ,"gun, cannon"
+523-26,kumy1244,http://concepticon.clld.org/parameters/1061,дав савутлар,armor (defensive)
+523-138,kumy1244,http://concepticon.clld.org/parameters/1061,дав хырс,armor (defensive)
+523-1171,kumy1244,http://concepticon.clld.org/parameters/1680,темир бёрк,helmet
+523-1230,kumy1244,http://concepticon.clld.org/parameters/1064,къалкъан,shield
+523-268,kumy1244,http://concepticon.clld.org/parameters/1938,къала,fortress
+523-332,kumy1244,http://concepticon.clld.org/parameters/1938,беклик,fortress
+523-211,kumy1244,http://concepticon.clld.org/parameters/1671,минира,tower
+523-1406,kumy1244,http://concepticon.clld.org/parameters/783,уьстюнлюк,victory
+523-397,kumy1244,http://concepticon.clld.org/parameters/782,тюпболув,defeat
+523-969,kumy1244,http://concepticon.clld.org/parameters/722,гьуджум этмек,attack
+523-686,kumy1244,http://concepticon.clld.org/parameters/722,чапгъын этмек,attack
+523-677,kumy1244,http://concepticon.clld.org/parameters/1330,сакъланмакъ,defend
+523-1198,kumy1244,http://concepticon.clld.org/parameters/421,артгъа тартылмакъ,retreat
+523-1417,kumy1244,http://concepticon.clld.org/parameters/1696,къолгъа бармакъ,surrender
+523-634,kumy1244,http://concepticon.clld.org/parameters/1072,есир,"captive, prisoner"
+523-308,kumy1244,http://concepticon.clld.org/parameters/1072,тутулгъан адам,"captive, prisoner"
+523-1011,kumy1244,http://concepticon.clld.org/parameters/1940,къаравул,"guard, sentinel"
+523-14,kumy1244,http://concepticon.clld.org/parameters/1940,къорувчу,"guard, sentinel"
+523-1336,kumy1244,http://concepticon.clld.org/parameters/1022,давла,"booty, spoils"
+523-972,kumy1244,http://concepticon.clld.org/parameters/1022,мал-матагь,"booty, spoils"
+523-766,kumy1244,http://concepticon.clld.org/parameters/65,алдын гесив,ambush
+523-1139,kumy1244,http://concepticon.clld.org/parameters/65,пусгъун этмек,ambush
+523-1349,kumy1244,http://concepticon.clld.org/parameters/1858,балыкъчы,fisherman
+523-11,kumy1244,http://concepticon.clld.org/parameters/1074,къармакъ,fishhook
+523-76,kumy1244,http://concepticon.clld.org/parameters/19,къармакъ йип,fishing line
+523-938,kumy1244,http://concepticon.clld.org/parameters/388,ав,fishnet
+523-1356,kumy1244,http://concepticon.clld.org/parameters/388,тор,fishnet
+523-84,kumy1244,http://concepticon.clld.org/parameters/388,учкъат,fishnet
+523-1038,kumy1244,http://concepticon.clld.org/parameters/388,сетка,fishnet
+523-1287,kumy1244,http://concepticon.clld.org/parameters/389,ванда,fish trap
+523-84,kumy1244,http://concepticon.clld.org/parameters/389,учкъат,fish trap
+523-1445,kumy1244,http://concepticon.clld.org/parameters/389,къармакъланы тагъымы,fish trap
+523-1109,kumy1244,http://concepticon.clld.org/parameters/2013,алдатгъыч аш,bait
+523-1471,kumy1244,http://concepticon.clld.org/parameters/1435,гьав этмек,hunt
+523-229,kumy1244,http://concepticon.clld.org/parameters/1172,атмакъ,shoot
+523-252,kumy1244,http://concepticon.clld.org/parameters/1172,урмакъ,shoot
+523-1235,kumy1244,http://concepticon.clld.org/parameters/161,тиймей къалмакъ,miss (target)
+523-1237,kumy1244,http://concepticon.clld.org/parameters/161,янчылмакъ,miss (target)
+523-119,kumy1244,http://concepticon.clld.org/parameters/1075,къапгъын,trap (noun)
+523-530,kumy1244,http://concepticon.clld.org/parameters/1075,тузакъ,trap (noun)
+523-262,kumy1244,http://concepticon.clld.org/parameters/1075,сертме,trap (noun)
+523-1274,kumy1244,http://concepticon.clld.org/parameters/1170,тутмакъ,trap (vb)
+523-128,kumy1244,http://concepticon.clld.org/parameters/1062,закон,law
+523-949,kumy1244,http://concepticon.clld.org/parameters/1068,суд,court
+523-1289,kumy1244,http://concepticon.clld.org/parameters/1068,диван,court
+523-643,kumy1244,http://concepticon.clld.org/parameters/1818,суд этмек,judge (vb)
+523-385,kumy1244,http://concepticon.clld.org/parameters/1067,судну къарары,judgment
+523-54,kumy1244,http://concepticon.clld.org/parameters/861,судйа,judge (noun)
+523-1223,kumy1244,http://concepticon.clld.org/parameters/861,судчу,judge (noun)
+523-8,kumy1244,http://concepticon.clld.org/parameters/2020,давчу,plaintiff
+523-1298,kumy1244,http://concepticon.clld.org/parameters/2020,талап этивчю,plaintiff
+523-405,kumy1244,http://concepticon.clld.org/parameters/1034,джовапчи,defendant
+523-1037,kumy1244,http://concepticon.clld.org/parameters/1034,джовап тартылгъан адам,defendant
+523-411,kumy1244,http://concepticon.clld.org/parameters/1144,шагьат,witness
+523-1254,kumy1244,http://concepticon.clld.org/parameters/1939,ант этмек,swear
+523-298,kumy1244,http://concepticon.clld.org/parameters/1712,ант,oath
+523-1244,kumy1244,http://concepticon.clld.org/parameters/1814,айыпламакъ,accuse
+523-1244,kumy1244,http://concepticon.clld.org/parameters/484,айыпламакъ,condemn
+523-549,kumy1244,http://concepticon.clld.org/parameters/484,гюнагьламакъ,condemn
+523-90,kumy1244,http://concepticon.clld.org/parameters/484,суд гесмек,condemn
+523-646,kumy1244,http://concepticon.clld.org/parameters/983,айыплылагъа билдирмек,convict (vb)
+523-915,kumy1244,http://concepticon.clld.org/parameters/988,айыбиндан тазаламакъ,acquit
+523-637,kumy1244,http://concepticon.clld.org/parameters/1682,айыплы,guilty
+523-810,kumy1244,http://concepticon.clld.org/parameters/1682,гюнагьлы,guilty
+523-562,kumy1244,http://concepticon.clld.org/parameters/90,айыпсыз,innocent
+523-339,kumy1244,http://concepticon.clld.org/parameters/390,такъсырлав,"penalty, punishment"
+523-380,kumy1244,http://concepticon.clld.org/parameters/218,акъча къодусу,fine
+523-85,kumy1244,http://concepticon.clld.org/parameters/1281,туснакъ,"prison, jail"
+523-905,kumy1244,http://concepticon.clld.org/parameters/845,оьлтюрюв,murder
+523-139,kumy1244,http://concepticon.clld.org/parameters/902,къагьпалыкъ,adultery
+523-730,kumy1244,http://concepticon.clld.org/parameters/953,гюч этив,rape
+523-884,kumy1244,http://concepticon.clld.org/parameters/953,гюч булан намусуна тийив (хорлав),rape
+523-575,kumy1244,http://concepticon.clld.org/parameters/1889,от салыв,arson
+523-718,kumy1244,http://concepticon.clld.org/parameters/1889,гюйдюрюв,arson
+523-1010,kumy1244,http://concepticon.clld.org/parameters/1792,ялгъан шагьатлыкъ,perjury
+523-236,kumy1244,http://concepticon.clld.org/parameters/713,урламакъ,steal
+523-1108,kumy1244,http://concepticon.clld.org/parameters/1160,уручу,thief
+523-1062,kumy1244,http://concepticon.clld.org/parameters/661,дин,religion
+523-771,kumy1244,http://concepticon.clld.org/parameters/1944,Аллагь,God
+523-690,kumy1244,http://concepticon.clld.org/parameters/1944,Тенгири,God
+523-618,kumy1244,http://concepticon.clld.org/parameters/1944,Худай,God
+523-912,kumy1244,http://concepticon.clld.org/parameters/911,килиса,"temple, church"
+523-921,kumy1244,http://concepticon.clld.org/parameters/853,мигьраб,altar
+523-733,kumy1244,http://concepticon.clld.org/parameters/1103,къурбанлыкъ,"sacrifice, offering"
+523-1007,kumy1244,http://concepticon.clld.org/parameters/257,сужда этмек,worship
+523-1278,kumy1244,http://concepticon.clld.org/parameters/257,абур этмек,worship
+523-897,kumy1244,http://concepticon.clld.org/parameters/24,къылмакъ,pray
+523-920,kumy1244,http://concepticon.clld.org/parameters/24,намаз этмек,pray
+523-1136,kumy1244,http://concepticon.clld.org/parameters/852,кешиш,priest
+523-696,kumy1244,http://concepticon.clld.org/parameters/1702,сыйлы,"holy, sacred"
+523-447,kumy1244,http://concepticon.clld.org/parameters/1702,шейх,"holy, sacred"
+523-469,kumy1244,http://concepticon.clld.org/parameters/304,динге чакъырмакъ,preach
+523-287,kumy1244,http://concepticon.clld.org/parameters/304,ваъза-насигьат бермек,preach
+523-1092,kumy1244,http://concepticon.clld.org/parameters/391,разилик берив,bless
+523-231,kumy1244,http://concepticon.clld.org/parameters/391,изну берив,bless
+523-1331,kumy1244,http://concepticon.clld.org/parameters/391,ругьландрыв,bless
+523-338,kumy1244,http://concepticon.clld.org/parameters/8,налат бермек,curse
+523-377,kumy1244,http://concepticon.clld.org/parameters/8,къаргъамакъ,curse
+523-382,kumy1244,http://concepticon.clld.org/parameters/303,савболлашмакъ,fast (vb)
+523-329,kumy1244,http://concepticon.clld.org/parameters/1565,дженнет,heaven
+523-342,kumy1244,http://concepticon.clld.org/parameters/878,джагьаннем,hell
+523-1061,kumy1244,http://concepticon.clld.org/parameters/1973,илбис,demon (evil spirit)
+523-238,kumy1244,http://concepticon.clld.org/parameters/1973,джин,demon (evil spirit)
+523-496,kumy1244,http://concepticon.clld.org/parameters/1973,шайтан,demon (evil spirit)
+523-1217,kumy1244,http://concepticon.clld.org/parameters/1945,таш сурат,idol
+523-440,kumy1244,http://concepticon.clld.org/parameters/1945,хач,idol
+523-1232,kumy1244,http://concepticon.clld.org/parameters/392,сигьручулукъ,"magic, witchcraft, sorcery"
+523-1002,kumy1244,http://concepticon.clld.org/parameters/392,джалмасчылыкъ,"magic, witchcraft, sorcery"
+523-507,kumy1244,http://concepticon.clld.org/parameters/2137,сигьручу къатын,"sorcerer, witch"
+523-353,kumy1244,http://concepticon.clld.org/parameters/2137,албаслы къатын,"sorcerer, witch"
+523-327,kumy1244,http://concepticon.clld.org/parameters/2138,гёзбавчу къатын,"fairy, elf"
+523-944,kumy1244,http://concepticon.clld.org/parameters/2138,пери,"fairy, elf"
+523-146,kumy1244,http://concepticon.clld.org/parameters/1175,гёрюнюш,"ghost, phantom"
+523-1200,kumy1244,http://concepticon.clld.org/parameters/1175,гёзге гёрюнеген келпет,"ghost, phantom"
+523-761,kumy1244,http://concepticon.clld.org/parameters/107,боладжакъны белгисы,"omen, portent"
+523-511,kumy1244,http://concepticon.clld.org/parameters/107,аламаты,"omen, portent"

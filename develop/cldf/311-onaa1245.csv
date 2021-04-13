@@ -1,0 +1,865 @@
+ID,Language_ID,Feature_ID,Value,Concept
+311-616,onaa1245,http://concepticon.clld.org/parameters/626,harwn,"earth, land"
+311-616,onaa1245,http://concepticon.clld.org/parameters/1228,harwn,"earth=ground, soil"
+311-27,onaa1245,http://concepticon.clld.org/parameters/2,te,dust
+311-409,onaa1245,http://concepticon.clld.org/parameters/640,tˀàʔ,mud
+311-283,onaa1245,http://concepticon.clld.org/parameters/671,šinn,sand
+311-237,onaa1245,http://concepticon.clld.org/parameters/671,teri,sand
+311-566,onaa1245,http://concepticon.clld.org/parameters/2118,kˀoyin,"mountain, hill"
+311-9,onaa1245,http://concepticon.clld.org/parameters/618,tˀàʔrṣn,"cliff, precipice"
+311-447,onaa1245,http://concepticon.clld.org/parameters/618,ḳˀ-è-atrs,"cliff, precipice"
+311-466,onaa1245,http://concepticon.clld.org/parameters/652,pˀ-è-àri,"plain, field"
+311-137,onaa1245,http://concepticon.clld.org/parameters/921,ḳˀàhr,valley
+311-227,onaa1245,http://concepticon.clld.org/parameters/622,tohrè,island
+311-721,onaa1245,http://concepticon.clld.org/parameters/113,č-è-awr,shore
+311-619,onaa1245,http://concepticon.clld.org/parameters/113,tˀalʔ,shore
+311-628,onaa1245,http://concepticon.clld.org/parameters/1155,yahxi,cave
+311-617,onaa1245,http://concepticon.clld.org/parameters/948,čòhwn,water
+311-548,onaa1245,http://concepticon.clld.org/parameters/1474,kˀohx,sea
+311-473,onaa1245,http://concepticon.clld.org/parameters/1768,wer,foam
+311-548,onaa1245,http://concepticon.clld.org/parameters/645,kˀohx,ocean
+311-617,onaa1245,http://concepticon.clld.org/parameters/624,čòhwn,lake
+311-400,onaa1245,http://concepticon.clld.org/parameters/623,waynx,lagoon
+311-45,onaa1245,http://concepticon.clld.org/parameters/660,hòʔy,reef
+311-45,onaa1245,http://concepticon.clld.org/parameters/1662,hòʔy,"headland, point"
+311-293,onaa1245,http://concepticon.clld.org/parameters/978,weʔy,wave
+311-641,onaa1245,http://concepticon.clld.org/parameters/1026,hàpè,lowtide
+311-569,onaa1245,http://concepticon.clld.org/parameters/613,henwe,hightide
+311-724,onaa1245,http://concepticon.clld.org/parameters/666,šikèʔn,"river, stream, brook"
+311-127,onaa1245,http://concepticon.clld.org/parameters/1982,kˀ-è-očerin,whirlpool
+311-103,onaa1245,http://concepticon.clld.org/parameters/2144,ḳˀà,"spring, well"
+311-708,onaa1245,http://concepticon.clld.org/parameters/1145,ḳˀàtn,swamp
+311-522,onaa1245,http://concepticon.clld.org/parameters/943,k-warn,waterfall
+311-207,onaa1245,http://concepticon.clld.org/parameters/420,hèrṣḳn,"woods, forest"
+311-115,onaa1245,http://concepticon.clld.org/parameters/906,winči,tree (cf 08.600)
+311-115,onaa1245,http://concepticon.clld.org/parameters/1803,winči,wood
+311-136,onaa1245,http://concepticon.clld.org/parameters/2125,yahr,"stone, rock"
+311-3,onaa1245,http://concepticon.clld.org/parameters/1732,šoʔn,sky
+311-732,onaa1245,http://concepticon.clld.org/parameters/1343,k-re-nn,sun
+311-333,onaa1245,http://concepticon.clld.org/parameters/1313,k-re-èn,moon
+311-117,onaa1245,http://concepticon.clld.org/parameters/1430,telu,star
+311-230,onaa1245,http://concepticon.clld.org/parameters/1150,ʔoneri,thunder
+311-268,onaa1245,http://concepticon.clld.org/parameters/2007,axipè-,lightning (as striking)
+311-30,onaa1245,http://concepticon.clld.org/parameters/858,t-è-awn,storm
+311-300,onaa1245,http://concepticon.clld.org/parameters/858,yuneèn,storm
+311-388,onaa1245,http://concepticon.clld.org/parameters/1733,čalpi,rainbow
+311-358,onaa1245,http://concepticon.clld.org/parameters/630,enuḳ,light (noun)
+311-623,onaa1245,http://concepticon.clld.org/parameters/11,tˀèh,darkness
+311-285,onaa1245,http://concepticon.clld.org/parameters/960,šinu,wind
+311-270,onaa1245,http://concepticon.clld.org/parameters/1489,šoʔn ša,cloud
+311-398,onaa1245,http://concepticon.clld.org/parameters/249,pàhl ʔay,fog
+311-315,onaa1245,http://concepticon.clld.org/parameters/658,čalwn,rain (noun)
+311-474,onaa1245,http://concepticon.clld.org/parameters/784,xòhš,snow (noun)
+311-565,onaa1245,http://concepticon.clld.org/parameters/617,ṣètr,ice
+311-116,onaa1245,http://concepticon.clld.org/parameters/952,òlpi,weather
+311-620,onaa1245,http://concepticon.clld.org/parameters/221,xàhwḳˀ-n,fire
+311-600,onaa1245,http://concepticon.clld.org/parameters/889,čalwetn,flame (noun)
+311-492,onaa1245,http://concepticon.clld.org/parameters/778,teʔn,smoke (noun)
+311-160,onaa1245,http://concepticon.clld.org/parameters/646,ʔ-è-apl,ashes
+311-364,onaa1245,http://concepticon.clld.org/parameters/67,kar,embers
+311-666,onaa1245,http://concepticon.clld.org/parameters/141,m-tˀàʔtˀè,burn (vb trans)
+311-139,onaa1245,http://concepticon.clld.org/parameters/1428,yelwetè,burn (vb intrans)
+311-203,onaa1245,http://concepticon.clld.org/parameters/1428,wòmke,burn (vb intrans)
+311-615,onaa1245,http://concepticon.clld.org/parameters/737,ṣ-čèxè,"light, kindle, ignite"
+311-646,onaa1245,http://concepticon.clld.org/parameters/127,m-šoxè,extinguish
+311-726,onaa1245,http://concepticon.clld.org/parameters/10,xàhwḳˀ,firewood
+311-364,onaa1245,http://concepticon.clld.org/parameters/1188,kar,charcoal
+311-603,onaa1245,http://concepticon.clld.org/parameters/683,čonn,"person, human being"
+311-603,onaa1245,http://concepticon.clld.org/parameters/1554,čonn,man (vs. woman)
+311-491,onaa1245,http://concepticon.clld.org/parameters/962,naʔ,woman
+311-31,onaa1245,http://concepticon.clld.org/parameters/2263,hoʔr,male
+311-57,onaa1245,http://concepticon.clld.org/parameters/2260,čèyuwn,female
+311-526,onaa1245,http://concepticon.clld.org/parameters/76,maʔrṣ,young man (adolescent)
+311-119,onaa1245,http://concepticon.clld.org/parameters/77,maʔrṣ-i,young woman (adolescent)
+311-594,onaa1245,http://concepticon.clld.org/parameters/1304,tˀelḳn,child
+311-478,onaa1245,http://concepticon.clld.org/parameters/1289,h-aʔwlčè-n,"infant, baby"
+311-212,onaa1245,http://concepticon.clld.org/parameters/1200,ṣè,husband
+311-491,onaa1245,http://concepticon.clld.org/parameters/1199,naʔ,wife
+311-15,onaa1245,http://concepticon.clld.org/parameters/203,košn,marry
+311-582,onaa1245,http://concepticon.clld.org/parameters/1217,ʔàynn,father
+311-645,onaa1245,http://concepticon.clld.org/parameters/1216,ahm,mother
+311-235,onaa1245,http://concepticon.clld.org/parameters/505,ʔòn ʔàynn,parents
+311-601,onaa1245,http://concepticon.clld.org/parameters/1620,lalʔ,son
+311-247,onaa1245,http://concepticon.clld.org/parameters/1357,tˀamn,daughter
+311-706,onaa1245,http://concepticon.clld.org/parameters/1801,nam,offspring (son or daughter)
+311-630,onaa1245,http://concepticon.clld.org/parameters/1262,ḳayin,brother
+311-174,onaa1245,http://concepticon.clld.org/parameters/1759,ohrek,older brother
+311-140,onaa1245,http://concepticon.clld.org/parameters/1760,aʔč,younger brother
+311-671,onaa1245,http://concepticon.clld.org/parameters/1263,nahḳn,sister
+311-156,onaa1245,http://concepticon.clld.org/parameters/1758,ohrḳan,older sister
+311-407,onaa1245,http://concepticon.clld.org/parameters/1761,aʔn,younger sister
+311-728,onaa1245,http://concepticon.clld.org/parameters/1383,hòu,grandfather
+311-53,onaa1245,http://concepticon.clld.org/parameters/406,tanuʔ,old man
+311-372,onaa1245,http://concepticon.clld.org/parameters/1496,hòn,grandmother
+311-402,onaa1245,http://concepticon.clld.org/parameters/907,tanuʔ apˀn,old woman
+311-648,onaa1245,http://concepticon.clld.org/parameters/1618,arèmḳ-r,grandson
+311-648,onaa1245,http://concepticon.clld.org/parameters/1619,arèmḳ-r,granddaughter
+311-443,onaa1245,http://concepticon.clld.org/parameters/1984,čèʔ,mother's brother
+311-606,onaa1245,http://concepticon.clld.org/parameters/1985,poʔtˀ,father's brother
+311-346,onaa1245,http://concepticon.clld.org/parameters/171,poʔn,mother's sister
+311-313,onaa1245,http://concepticon.clld.org/parameters/170,ḳˀàn,father's sister
+311-644,onaa1245,http://concepticon.clld.org/parameters/1063,ʔanenḳˀ,nephew
+311-87,onaa1245,http://concepticon.clld.org/parameters/1642,ʔanxin,niece
+311-630,onaa1245,http://concepticon.clld.org/parameters/1643,ḳayin,cousin
+311-272,onaa1245,http://concepticon.clld.org/parameters/1669,howenn,ancestors
+311-706,onaa1245,http://concepticon.clld.org/parameters/490,nam,descendants
+311-701,onaa1245,http://concepticon.clld.org/parameters/2255,ḳˀaunkenn,father-in-law (of a man)
+311-701,onaa1245,http://concepticon.clld.org/parameters/2254,ḳˀaunkenn,father-in-law (of a woman)
+311-73,onaa1245,http://concepticon.clld.org/parameters/2256,arèmḳ-ṣ-n,mother-in-law (of a man)
+311-73,onaa1245,http://concepticon.clld.org/parameters/2257,arèmḳ-ṣ-n,mother-in-law (of a woman)
+311-701,onaa1245,http://concepticon.clld.org/parameters/2267,ḳˀaunkenn,son-in-law (of a man)
+311-701,onaa1245,http://concepticon.clld.org/parameters/2266,ḳˀaunkenn,son-in-law (of a woman)
+311-73,onaa1245,http://concepticon.clld.org/parameters/2265,arèmḳ-ṣ-n,daughter-in-law (of a man)
+311-73,onaa1245,http://concepticon.clld.org/parameters/2264,arèmḳ-ṣ-n,daughter-in-law (of a woman)
+311-184,onaa1245,http://concepticon.clld.org/parameters/1149,harne lòʔtˀ,orphan
+311-395,onaa1245,http://concepticon.clld.org/parameters/1756,m-arnuw,widow
+311-395,onaa1245,http://concepticon.clld.org/parameters/1981,m-arnuw,widower
+311-421,onaa1245,http://concepticon.clld.org/parameters/1644,ḳàr-i,"relatives, kinsmen"
+311-421,onaa1245,http://concepticon.clld.org/parameters/194,ḳàr-i,family
+311-634,onaa1245,http://concepticon.clld.org/parameters/1209,y-ah,I
+311-166,onaa1245,http://concepticon.clld.org/parameters/1215,m-ah,you (singular)
+311-106,onaa1245,http://concepticon.clld.org/parameters/1212,y-ko-ah-y,we
+311-49,onaa1245,http://concepticon.clld.org/parameters/1213,m-ah-y,you (plural)
+311-476,onaa1245,http://concepticon.clld.org/parameters/631,šèmi en,livestock
+311-423,onaa1245,http://concepticon.clld.org/parameters/649,tˀohr-n,pasture
+311-375,onaa1245,http://concepticon.clld.org/parameters/265,čači,fowl
+311-306,onaa1245,http://concepticon.clld.org/parameters/1360,ḳàhn,duck
+311-8,onaa1245,http://concepticon.clld.org/parameters/1360,tˀàʔri,duck
+311-406,onaa1245,http://concepticon.clld.org/parameters/1360,haʔtˀu,duck
+311-154,onaa1245,http://concepticon.clld.org/parameters/539,ʔàhwi,nest
+311-375,onaa1245,http://concepticon.clld.org/parameters/937,čači,bird
+311-467,onaa1245,http://concepticon.clld.org/parameters/950,koleʔn,seagull
+311-43,onaa1245,http://concepticon.clld.org/parameters/758,inuḳ ḳˀoḳˀ,heron
+311-218,onaa1245,http://concepticon.clld.org/parameters/1905,ḳehx,eagle
+311-145,onaa1245,http://concepticon.clld.org/parameters/307,č-è-etl,hawk
+311-98,onaa1245,http://concepticon.clld.org/parameters/1185,kˀòyin-ti,vulture
+311-192,onaa1245,http://concepticon.clld.org/parameters/1185,ḳˀèl ḳayin,vulture
+311-515,onaa1245,http://concepticon.clld.org/parameters/1793,oḳˀlštaʔn,bat
+311-280,onaa1245,http://concepticon.clld.org/parameters/882,kˀerpr,parrot
+311-231,onaa1245,http://concepticon.clld.org/parameters/913,kˀeleln,crow
+311-245,onaa1245,http://concepticon.clld.org/parameters/913,k-leʔw,crow
+311-75,onaa1245,http://concepticon.clld.org/parameters/1853,hèu-ṣàʔ-tˀe-n,dove
+311-700,onaa1245,http://concepticon.clld.org/parameters/735,k-sankˀòhn,owl
+311-170,onaa1245,http://concepticon.clld.org/parameters/735,š-è-ètˀ(u),owl
+311-292,onaa1245,http://concepticon.clld.org/parameters/735,k-loṣtmn,owl
+311-513,onaa1245,http://concepticon.clld.org/parameters/2009,wisnʔ,dog
+311-242,onaa1245,http://concepticon.clld.org/parameters/2009,šàhlki,dog
+311-393,onaa1245,http://concepticon.clld.org/parameters/2139,k-yàtin,"mouse, rat"
+311-405,onaa1245,http://concepticon.clld.org/parameters/227,tapl,fish
+311-637,onaa1245,http://concepticon.clld.org/parameters/213,ḳˀeyin,fin (dorsal)
+311-19,onaa1245,http://concepticon.clld.org/parameters/266,kapr-tè,fishscale
+311-81,onaa1245,http://concepticon.clld.org/parameters/598,halpˀ,shell
+311-552,onaa1245,http://concepticon.clld.org/parameters/1110,k-samnḳˀ wisnʔ,shark
+311-312,onaa1245,http://concepticon.clld.org/parameters/957,očn,whale
+311-556,onaa1245,http://concepticon.clld.org/parameters/1013,tˀahpi,freshwater eel
+311-234,onaa1245,http://concepticon.clld.org/parameters/1312,wàhṣ,fox
+311-175,onaa1245,http://concepticon.clld.org/parameters/310,haʔpn,louse
+311-363,onaa1245,http://concepticon.clld.org/parameters/1575,k-horitm,cockroach
+311-96,onaa1245,http://concepticon.clld.org/parameters/843,čin pax-tè-n,spider
+311-584,onaa1245,http://concepticon.clld.org/parameters/1517,pòhsan,wasp
+311-490,onaa1245,http://concepticon.clld.org/parameters/1509,teʔl,mosquito
+311-111,onaa1245,http://concepticon.clld.org/parameters/1219,č-è-apl,worm
+311-365,onaa1245,http://concepticon.clld.org/parameters/1791,k-hòlèlʔ,butterfly
+311-654,onaa1245,http://concepticon.clld.org/parameters/1791,te èṣ,butterfly
+311-435,onaa1245,http://concepticon.clld.org/parameters/1543,č-è-awitṣ,snail
+311-307,onaa1245,http://concepticon.clld.org/parameters/632,ḳˀèlpl,lizard
+311-241,onaa1245,http://concepticon.clld.org/parameters/1480,čou,body
+311-373,onaa1245,http://concepticon.clld.org/parameters/763,hòl,"skin, hide"
+311-351,onaa1245,http://concepticon.clld.org/parameters/2259,yèpr,flesh
+311-201,onaa1245,http://concepticon.clld.org/parameters/1040,ahle,hair (head)
+311-298,onaa1245,http://concepticon.clld.org/parameters/678,ʔahṣ čèx,beard
+311-562,onaa1245,http://concepticon.clld.org/parameters/189,čèx,body hair
+311-397,onaa1245,http://concepticon.clld.org/parameters/946,wàʔr,blood
+311-480,onaa1245,http://concepticon.clld.org/parameters/525,xam,"vein, artery"
+311-2,onaa1245,http://concepticon.clld.org/parameters/1394,ḳˀoʔ,bone
+311-469,onaa1245,http://concepticon.clld.org/parameters/801,parèn,rib
+311-26,onaa1245,http://concepticon.clld.org/parameters/1393,hòʔṣ ḳˀoʔ,horn
+311-321,onaa1245,http://concepticon.clld.org/parameters/1220,ʔoš,tail
+311-437,onaa1245,http://concepticon.clld.org/parameters/1291,hàtèṣḳn,back
+311-310,onaa1245,http://concepticon.clld.org/parameters/805,m-è-ayin,spine
+311-665,onaa1245,http://concepticon.clld.org/parameters/1256,ahle-tˀàʔ,head
+311-544,onaa1245,http://concepticon.clld.org/parameters/1604,ḳˀehl,"side of head, temple"
+311-91,onaa1245,http://concepticon.clld.org/parameters/1605,ahle k-ʔàlpˀ,skull
+311-40,onaa1245,http://concepticon.clld.org/parameters/1583,kˀoyeʔri,brain
+311-499,onaa1245,http://concepticon.clld.org/parameters/1560,kˀoš,face
+311-324,onaa1245,http://concepticon.clld.org/parameters/123,ʔòhsr,forehead
+311-162,onaa1245,http://concepticon.clld.org/parameters/798,ʔahšl,jaw
+311-649,onaa1245,http://concepticon.clld.org/parameters/1730,h-è-onḳˀn,cheek
+311-422,onaa1245,http://concepticon.clld.org/parameters/1510,ṣèḳˀn,chin
+311-493,onaa1245,http://concepticon.clld.org/parameters/1248,otr,eye
+311-709,onaa1245,http://concepticon.clld.org/parameters/1173,hemṣḳʔn,eyebrow
+311-663,onaa1245,http://concepticon.clld.org/parameters/17,hem,eyelid
+311-432,onaa1245,http://concepticon.clld.org/parameters/1540,ʔòyi čèx,eyelash
+311-177,onaa1245,http://concepticon.clld.org/parameters/1247,sin,ear
+311-681,onaa1245,http://concepticon.clld.org/parameters/1221,ul,nose
+311-498,onaa1245,http://concepticon.clld.org/parameters/1178,ul ḳˀèl,nostril
+311-564,onaa1245,http://concepticon.clld.org/parameters/208,ṣètl,mucus (nasal)
+311-563,onaa1245,http://concepticon.clld.org/parameters/674,k-àṣ-ḳn,mouth
+311-680,onaa1245,http://concepticon.clld.org/parameters/73,ur,beak
+311-178,onaa1245,http://concepticon.clld.org/parameters/478,sim,lip
+311-180,onaa1245,http://concepticon.clld.org/parameters/1205,čal,tongue
+311-171,onaa1245,http://concepticon.clld.org/parameters/1380,hor,tooth
+311-206,onaa1245,http://concepticon.clld.org/parameters/139,hòrṣḳn,gums
+311-410,onaa1245,http://concepticon.clld.org/parameters/1333,òhtˀ,neck
+311-463,onaa1245,http://concepticon.clld.org/parameters/1347,kˀotiḳn,nape of neck
+311-530,onaa1245,http://concepticon.clld.org/parameters/1346,ič,throat
+311-487,onaa1245,http://concepticon.clld.org/parameters/1482,kˀòyin,shoulder
+311-304,onaa1245,http://concepticon.clld.org/parameters/172,tˀeuḳˀ-n,shoulderblade
+311-133,onaa1245,http://concepticon.clld.org/parameters/1673,ṣel,arm
+311-371,onaa1245,http://concepticon.clld.org/parameters/1886,ḳˀòlṣḳn,armpit
+311-417,onaa1245,http://concepticon.clld.org/parameters/981,tˀeyštr,elbow
+311-342,onaa1245,http://concepticon.clld.org/parameters/799,čin k-pˀax,wrist
+311-730,onaa1245,http://concepticon.clld.org/parameters/1277,čin,hand
+311-208,onaa1245,http://concepticon.clld.org/parameters/1183,čeyi,palm of hand
+311-457,onaa1245,http://concepticon.clld.org/parameters/1303,tèr,finger
+311-284,onaa1245,http://concepticon.clld.org/parameters/1781,tèr kohrḳa,thumb
+311-717,onaa1245,http://concepticon.clld.org/parameters/1258,kˀaw,fingernail
+311-229,onaa1245,http://concepticon.clld.org/parameters/1297,hali,leg
+311-510,onaa1245,http://concepticon.clld.org/parameters/800,is,thigh
+311-524,onaa1245,http://concepticon.clld.org/parameters/498,tòhḳˀn,calf of leg
+311-320,onaa1245,http://concepticon.clld.org/parameters/1371,ḳˀahči,knee
+311-314,onaa1245,http://concepticon.clld.org/parameters/1301,hal-yeʔn,foot
+311-126,onaa1245,http://concepticon.clld.org/parameters/803,hal-yeʔn k-pˀax,ankle
+311-294,onaa1245,http://concepticon.clld.org/parameters/980,tˀehr,heel
+311-232,onaa1245,http://concepticon.clld.org/parameters/318,yu,footprint
+311-457,onaa1245,http://concepticon.clld.org/parameters/1389,tèr,toe
+311-286,onaa1245,http://concepticon.clld.org/parameters/1257,s-è-ètr ḳˀeyin,wing
+311-121,onaa1245,http://concepticon.clld.org/parameters/1201,s-è-ètr,feather
+311-668,onaa1245,http://concepticon.clld.org/parameters/1592,ḳˀèytˀ,chest
+311-599,onaa1245,http://concepticon.clld.org/parameters/1402,čètˀen,breast (of woman)
+311-261,onaa1245,http://concepticon.clld.org/parameters/796,ṣèʔntm,"nipple, teat"
+311-727,onaa1245,http://concepticon.clld.org/parameters/1838,ḳèl,navel
+311-311,onaa1245,http://concepticon.clld.org/parameters/1223,tol,heart
+311-577,onaa1245,http://concepticon.clld.org/parameters/688,xàmi,lung
+311-618,onaa1245,http://concepticon.clld.org/parameters/1224,ḳàʔyi,liver
+311-496,onaa1245,http://concepticon.clld.org/parameters/489,àʔtˀu,kidney
+311-480,onaa1245,http://concepticon.clld.org/parameters/1744,xam,spleen
+311-503,onaa1245,http://concepticon.clld.org/parameters/819,x-è-ètˀ,stomach
+311-664,onaa1245,http://concepticon.clld.org/parameters/1991,pˀàni,"intestines, guts"
+311-573,onaa1245,http://concepticon.clld.org/parameters/1991,čòʔwl,"intestines, guts"
+311-71,onaa1245,http://concepticon.clld.org/parameters/1681,pˀàtiḳn,waist
+311-494,onaa1245,http://concepticon.clld.org/parameters/1745,kòyn,hip
+311-598,onaa1245,http://concepticon.clld.org/parameters/834,čohntenn,buttocks
+311-540,onaa1245,http://concepticon.clld.org/parameters/834,pˀ-è-àl,buttocks
+311-389,onaa1245,http://concepticon.clld.org/parameters/804,ḳˀòʔy,womb
+311-722,onaa1245,http://concepticon.clld.org/parameters/797,èl,testicle
+311-550,onaa1245,http://concepticon.clld.org/parameters/1222,šèʔ,penis
+311-576,onaa1245,http://concepticon.clld.org/parameters/1407,xòxè,"breathe, breath"
+311-459,onaa1245,http://concepticon.clld.org/parameters/1028,č-è-àsè,"yawn, gape"
+311-627,onaa1245,http://concepticon.clld.org/parameters/162,š-è-àkerte,hiccough
+311-497,onaa1245,http://concepticon.clld.org/parameters/879,tane,cough
+311-604,onaa1245,http://concepticon.clld.org/parameters/1621,čòhw w-ye,sneeze
+311-337,onaa1245,http://concepticon.clld.org/parameters/126,pèotxe,perspire
+311-575,onaa1245,http://concepticon.clld.org/parameters/1440,pèotˀè,spit
+311-36,onaa1245,http://concepticon.clld.org/parameters/1278,kòri-čè,vomit
+311-196,onaa1245,http://concepticon.clld.org/parameters/1403,so,bite
+311-508,onaa1245,http://concepticon.clld.org/parameters/319,ʔàxetˀe,lick
+311-455,onaa1245,http://concepticon.clld.org/parameters/268,welxè,dribble
+311-631,onaa1245,http://concepticon.clld.org/parameters/1585,miṣteʔ,sleep
+311-444,onaa1245,http://concepticon.clld.org/parameters/1983,ul yer,snore
+311-131,onaa1245,http://concepticon.clld.org/parameters/1920,ṣ-kˀohr,dream
+311-538,onaa1245,http://concepticon.clld.org/parameters/1602,kˀohčè,wake up
+311-24,onaa1245,http://concepticon.clld.org/parameters/1159,xòʔ,break wind
+311-413,onaa1245,http://concepticon.clld.org/parameters/592,ašn,urinate
+311-228,onaa1245,http://concepticon.clld.org/parameters/676,ṣàʔ,defecate
+311-15,onaa1245,http://concepticon.clld.org/parameters/1785,košn,have sexual intercourse
+311-547,onaa1245,http://concepticon.clld.org/parameters/52,tˀentèr,shiver
+311-715,onaa1245,http://concepticon.clld.org/parameters/138,ʔòčè,bathe
+311-611,onaa1245,http://concepticon.clld.org/parameters/1090,ṣ-arè,born (to be)
+311-713,onaa1245,http://concepticon.clld.org/parameters/1123,m-hane,pregnant
+311-189,onaa1245,http://concepticon.clld.org/parameters/1123,ʔàyen,pregnant
+311-713,onaa1245,http://concepticon.clld.org/parameters/1087,m-hane,conceive
+311-442,onaa1245,http://concepticon.clld.org/parameters/1422,wa,"live, living, life"
+311-112,onaa1245,http://concepticon.clld.org/parameters/1494,w-ličè,"die, dead"
+311-525,onaa1245,http://concepticon.clld.org/parameters/1494,čeṣke,"die, dead"
+311-176,onaa1245,http://concepticon.clld.org/parameters/1904,čòhwn t-tˀe,drowned
+311-152,onaa1245,http://concepticon.clld.org/parameters/1417,mateʔ,kill
+311-597,onaa1245,http://concepticon.clld.org/parameters/767,w-è-otn,corpse
+311-338,onaa1245,http://concepticon.clld.org/parameters/1719,ax-mètˀel,bury (the dead)
+311-511,onaa1245,http://concepticon.clld.org/parameters/785,sòrè,"strong, mighty, powerful"
+311-643,onaa1245,http://concepticon.clld.org/parameters/1601,čou ʔočè,weak
+311-132,onaa1245,http://concepticon.clld.org/parameters/1364,pˀàʔ,"well, health"
+311-559,onaa1245,http://concepticon.clld.org/parameters/1847,kwaki t-hà,"sick, sickness"
+311-711,onaa1245,http://concepticon.clld.org/parameters/1534,àṣ toxè,fever
+311-353,onaa1245,http://concepticon.clld.org/parameters/1957,ṣèpn kˀatèwr tàhpr,goiter
+311-564,onaa1245,http://concepticon.clld.org/parameters/102,ṣètl,cold (catarrh)
+311-350,onaa1245,http://concepticon.clld.org/parameters/1109,čè,"wound, sore"
+311-509,onaa1245,http://concepticon.clld.org/parameters/1903,ṣen e,swelling
+311-429,onaa1245,http://concepticon.clld.org/parameters/148,ʔòčel,itch
+311-199,onaa1245,http://concepticon.clld.org/parameters/793,tˀòʔ-n,boil (noun)
+311-200,onaa1245,http://concepticon.clld.org/parameters/1808,tˀòʔ-l,pus
+311-289,onaa1245,http://concepticon.clld.org/parameters/497,loyti,scar
+311-65,onaa1245,http://concepticon.clld.org/parameters/499,sòhymxe,"cure, heal"
+311-349,onaa1245,http://concepticon.clld.org/parameters/597,xoʔ-nn,physician
+311-470,onaa1245,http://concepticon.clld.org/parameters/1372,mà-t-šinn,"medicine, drug"
+311-426,onaa1245,http://concepticon.clld.org/parameters/1757,tawxe,"tired, weary"
+311-723,onaa1245,http://concepticon.clld.org/parameters/1757,ʔočke,"tired, weary"
+311-83,onaa1245,http://concepticon.clld.org/parameters/168,meh,rest
+311-214,onaa1245,http://concepticon.clld.org/parameters/1564,ʔoten,lazy
+311-277,onaa1245,http://concepticon.clld.org/parameters/1564,čaʔčè,lazy
+311-168,onaa1245,http://concepticon.clld.org/parameters/1125,ʔarke,bald
+311-94,onaa1245,http://concepticon.clld.org/parameters/320,hè witè,lame
+311-427,onaa1245,http://concepticon.clld.org/parameters/996,hoʔṣ-ṣitèl,deaf
+311-76,onaa1245,http://concepticon.clld.org/parameters/1666,àṣ-ṣitèl,mute
+311-197,onaa1245,http://concepticon.clld.org/parameters/1653,w-ʔàykò,blind
+311-141,onaa1245,http://concepticon.clld.org/parameters/1463,ʔoyiḳe,intoxicated
+311-147,onaa1245,http://concepticon.clld.org/parameters/590,kò-w,"naked, bare"
+311-610,onaa1245,http://concepticon.clld.org/parameters/1336,tˀe,eat
+311-146,onaa1245,http://concepticon.clld.org/parameters/1959,čàhnèke,raw
+311-449,onaa1245,http://concepticon.clld.org/parameters/178,màčè,ripe
+311-328,onaa1245,http://concepticon.clld.org/parameters/1958,čàlxè,"green, unripe"
+311-296,onaa1245,http://concepticon.clld.org/parameters/1728,wàčè,rotten
+311-655,onaa1245,http://concepticon.clld.org/parameters/1728,wal,rotten
+311-79,onaa1245,http://concepticon.clld.org/parameters/1401,čètˀe,drink
+311-47,onaa1245,http://concepticon.clld.org/parameters/1533,ḳàr hayne,hunger
+311-340,onaa1245,http://concepticon.clld.org/parameters/848,čòličè,thirst
+311-696,onaa1245,http://concepticon.clld.org/parameters/1421,čètˀe-r,suck
+311-652,onaa1245,http://concepticon.clld.org/parameters/321,čahmke,chew
+311-378,onaa1245,http://concepticon.clld.org/parameters/897,ʔočè,swallow
+311-705,onaa1245,http://concepticon.clld.org/parameters/1100,m-toxè,cook
+311-688,onaa1245,http://concepticon.clld.org/parameters/792,wereʔ,boil (vb)
+311-80,onaa1245,http://concepticon.clld.org/parameters/481,tˀeuḳˀ,dish
+311-80,onaa1245,http://concepticon.clld.org/parameters/480,tˀeuḳˀ,plate
+311-379,onaa1245,http://concepticon.clld.org/parameters/1530,ʔàhwen,bowl
+311-88,onaa1245,http://concepticon.clld.org/parameters/270,tˀòhḳˀò,"pitcher, jug"
+311-379,onaa1245,http://concepticon.clld.org/parameters/476,ʔàhwen,"cup, drinking vessel"
+311-290,onaa1245,http://concepticon.clld.org/parameters/1352,pˀiyi,knife (2)
+311-608,onaa1245,http://concepticon.clld.org/parameters/272,laʔkel,tongs
+311-687,onaa1245,http://concepticon.clld.org/parameters/1526,xatˀe,meal (a)
+311-592,onaa1245,http://concepticon.clld.org/parameters/275,ahče,peel
+311-216,onaa1245,http://concepticon.clld.org/parameters/86,meʔ,"sieve, strain"
+311-658,onaa1245,http://concepticon.clld.org/parameters/1767,kˀarye,scrape
+311-329,onaa1245,http://concepticon.clld.org/parameters/1767,xàʔm,scrape
+311-495,onaa1245,http://concepticon.clld.org/parameters/1033,xohketˀè,"crush, grind"
+311-308,onaa1245,http://concepticon.clld.org/parameters/224,k-tˀewn,mortar (2)
+311-642,onaa1245,http://concepticon.clld.org/parameters/225,čèʔmiʔn,pestle
+311-351,onaa1245,http://concepticon.clld.org/parameters/634,yèpr,meat
+311-480,onaa1245,http://concepticon.clld.org/parameters/1874,xam,sausage
+311-477,onaa1245,http://concepticon.clld.org/parameters/1484,k-òʔl,oil
+311-385,onaa1245,http://concepticon.clld.org/parameters/323,òʔl-n,"grease, fat"
+311-446,onaa1245,http://concepticon.clld.org/parameters/404,kòšḳr,fermented drink
+311-722,onaa1245,http://concepticon.clld.org/parameters/744,èl,egg
+311-150,onaa1245,http://concepticon.clld.org/parameters/1556,ʔèhn,egg yolk
+311-572,onaa1245,http://concepticon.clld.org/parameters/158,àṣ-ketˀè,put on (clothes)
+311-125,onaa1245,http://concepticon.clld.org/parameters/1895,ʔòli,"clothing, clothes"
+311-523,onaa1245,http://concepticon.clld.org/parameters/964,pax,wool
+311-373,onaa1245,http://concepticon.clld.org/parameters/580,hòl,fur
+311-373,onaa1245,http://concepticon.clld.org/parameters/629,hòl,leather
+311-546,onaa1245,http://concepticon.clld.org/parameters/629,soʔ,leather
+311-274,onaa1245,http://concepticon.clld.org/parameters/1457,ʔo,sew
+311-433,onaa1245,http://concepticon.clld.org/parameters/1382,moʔ,needle
+311-279,onaa1245,http://concepticon.clld.org/parameters/1161,yux,thread
+311-125,onaa1245,http://concepticon.clld.org/parameters/326,ʔòli,cloak
+311-448,onaa1245,http://concepticon.clld.org/parameters/1600,kòy h-atˀn,skirt
+311-243,onaa1245,http://concepticon.clld.org/parameters/1381,xamniʔ,shoe
+311-41,onaa1245,http://concepticon.clld.org/parameters/2130,melàn,"hat, cap"
+311-369,onaa1245,http://concepticon.clld.org/parameters/772,pˀaʔten,"belt, girdle"
+311-489,onaa1245,http://concepticon.clld.org/parameters/772,wahtenn,"belt, girdle"
+311-514,onaa1245,http://concepticon.clld.org/parameters/1754,čehmx,bracelet
+311-325,onaa1245,http://concepticon.clld.org/parameters/1754,čeḳool,bracelet
+311-621,onaa1245,http://concepticon.clld.org/parameters/1961,ḳˀòhtˀ,necklace
+311-361,onaa1245,http://concepticon.clld.org/parameters/330,ḳˀ-è-òčeln,"headband, headdress"
+311-345,onaa1245,http://concepticon.clld.org/parameters/330,poʔr,"headband, headdress"
+311-16,onaa1245,http://concepticon.clld.org/parameters/1475,ʔomčèn,comb
+311-274,onaa1245,http://concepticon.clld.org/parameters/333,ʔo,braid
+311-82,onaa1245,http://concepticon.clld.org/parameters/1926,at-mètˀè,ointment
+311-359,onaa1245,http://concepticon.clld.org/parameters/1099,tˀaspe,"dwell, live"
+311-656,onaa1245,http://concepticon.clld.org/parameters/1252,kawi,house
+311-377,onaa1245,http://concepticon.clld.org/parameters/335,haʔynn,meeting house
+311-343,onaa1245,http://concepticon.clld.org/parameters/1632,wòhwmen,floor
+311-698,onaa1245,http://concepticon.clld.org/parameters/1663,xèn,bed
+311-254,onaa1245,http://concepticon.clld.org/parameters/1044,ḳˀoʔmen en,pillow
+311-125,onaa1245,http://concepticon.clld.org/parameters/806,ʔòli,blanket
+311-360,onaa1245,http://concepticon.clld.org/parameters/2131,šèu-tˀ,"lamp, torch"
+311-673,onaa1245,http://concepticon.clld.org/parameters/769,tˀahy,roof
+311-35,onaa1245,http://concepticon.clld.org/parameters/281,elenn,"post, pole"
+311-124,onaa1245,http://concepticon.clld.org/parameters/1227,x-è-èpˀn,board
+311-48,onaa1245,http://concepticon.clld.org/parameters/2002,yeʔri,ditch
+311-657,onaa1245,http://concepticon.clld.org/parameters/2002,ṣeʔtl,ditch
+311-7,onaa1245,http://concepticon.clld.org/parameters/190,ṣ-ḳˀòhtè,"mow, reap"
+311-262,onaa1245,http://concepticon.clld.org/parameters/605,tàhyuʔ,"grain (barley, oats etc)"
+311-319,onaa1245,http://concepticon.clld.org/parameters/606,xòšl,grass
+311-252,onaa1245,http://concepticon.clld.org/parameters/670,hari,root
+311-472,onaa1245,http://concepticon.clld.org/parameters/1531,ḳˀèl,branch
+311-472,onaa1245,http://concepticon.clld.org/parameters/628,ḳˀèl,leaf
+311-115,onaa1245,http://concepticon.clld.org/parameters/906,winči,tree
+311-61,onaa1245,http://concepticon.clld.org/parameters/1950,kyènyuwn,beech
+311-590,onaa1245,http://concepticon.clld.org/parameters/241,ʔoṣtaʔy,tree stump
+311-533,onaa1245,http://concepticon.clld.org/parameters/344,winči ò,tree trunk
+311-587,onaa1245,http://concepticon.clld.org/parameters/409,ḳʔàṣ,forked branch
+311-360,onaa1245,http://concepticon.clld.org/parameters/1204,šèu-tˀ,bark
+311-446,onaa1245,http://concepticon.clld.org/parameters/345,kòšḳr,sap
+311-28,onaa1245,http://concepticon.clld.org/parameters/641,tehr,mushroom
+311-336,onaa1245,http://concepticon.clld.org/parameters/641,wòh,mushroom
+311-248,onaa1245,http://concepticon.clld.org/parameters/641,pòʔtàn,mushroom
+311-553,onaa1245,http://concepticon.clld.org/parameters/641,k-yohkenn,mushroom
+311-391,onaa1245,http://concepticon.clld.org/parameters/813,èhḳe,"do, make"
+311-624,onaa1245,http://concepticon.clld.org/parameters/813,m-yèl,"do, make"
+311-568,onaa1245,http://concepticon.clld.org/parameters/984,ḳàr èhḳe,work
+311-653,onaa1245,http://concepticon.clld.org/parameters/2004,ʔečer,bend
+311-37,onaa1245,http://concepticon.clld.org/parameters/1470,m-ʔotè,fold
+311-420,onaa1245,http://concepticon.clld.org/parameters/1917,atˀe,"tie, bind"
+311-46,onaa1245,http://concepticon.clld.org/parameters/1218,ḳˀahyi,"rope, cord"
+311-661,onaa1245,http://concepticon.clld.org/parameters/760,tàhpr,knot (noun)
+311-485,onaa1245,http://concepticon.clld.org/parameters/2133,hà,"strike (hit, beat)"
+311-275,onaa1245,http://concepticon.clld.org/parameters/1432,pˀa,cut
+311-731,onaa1245,http://concepticon.clld.org/parameters/355,w-a,cut down
+311-635,onaa1245,http://concepticon.clld.org/parameters/155,tˀeyḳe,"chop, hew"
+311-290,onaa1245,http://concepticon.clld.org/parameters/1352,pˀiyi,knife
+311-733,onaa1245,http://concepticon.clld.org/parameters/677,òčèrèn,ax
+311-706,onaa1245,http://concepticon.clld.org/parameters/680,nam,break
+311-316,onaa1245,http://concepticon.clld.org/parameters/588,ʔor,broken
+311-275,onaa1245,http://concepticon.clld.org/parameters/1437,pˀa,split
+311-592,onaa1245,http://concepticon.clld.org/parameters/1735,ahče,tear
+311-546,onaa1245,http://concepticon.clld.org/parameters/291,soʔ,"flay, skin"
+311-215,onaa1245,http://concepticon.clld.org/parameters/1449,ʔàxè,"rub, wipe"
+311-77,onaa1245,http://concepticon.clld.org/parameters/214,pˀèyè,stretch
+311-693,onaa1245,http://concepticon.clld.org/parameters/38,ay,spread out
+311-14,onaa1245,http://concepticon.clld.org/parameters/357,m-tˀam,hang up
+311-521,onaa1245,http://concepticon.clld.org/parameters/357,m-wexe,hang up
+311-32,onaa1245,http://concepticon.clld.org/parameters/1913,at-nèʔ,press
+311-32,onaa1245,http://concepticon.clld.org/parameters/1414,at-nèʔ,"squeeze, wring"
+311-415,onaa1245,http://concepticon.clld.org/parameters/1487,m-ḳˀà,pour
+311-167,onaa1245,http://concepticon.clld.org/parameters/1487,ay-pèr,pour
+311-267,onaa1245,http://concepticon.clld.org/parameters/1453,ʔòčèʔ,wash
+311-589,onaa1245,http://concepticon.clld.org/parameters/1361,ʔaymn ohn,tool
+311-462,onaa1245,http://concepticon.clld.org/parameters/46,m-tˀòʔ,hollow out
+311-274,onaa1245,http://concepticon.clld.org/parameters/1729,ʔo,"weave, plait"
+311-539,onaa1245,http://concepticon.clld.org/parameters/1539,taʔyyu,basket
+311-651,onaa1245,http://concepticon.clld.org/parameters/293,šèu,netbag
+311-295,onaa1245,http://concepticon.clld.org/parameters/647,k-ʔaytr,paint (noun)
+311-93,onaa1245,http://concepticon.clld.org/parameters/647,kòri,paint (noun)
+311-364,onaa1245,http://concepticon.clld.org/parameters/647,kar,paint (noun)
+311-82,onaa1245,http://concepticon.clld.org/parameters/2001,at-mètˀè,paint (vb)
+311-411,onaa1245,http://concepticon.clld.org/parameters/765,aʔi,move
+311-691,onaa1245,http://concepticon.clld.org/parameters/765,hàʔ,move
+311-181,onaa1245,http://concepticon.clld.org/parameters/1588,m-ʔečeryè,turn over
+311-225,onaa1245,http://concepticon.clld.org/parameters/1445,ʔečeryè,turn around
+311-653,onaa1245,http://concepticon.clld.org/parameters/1113,ʔečer,"wind, wrap"
+311-622,onaa1245,http://concepticon.clld.org/parameters/808,m-yèe,drop (vb)
+311-653,onaa1245,http://concepticon.clld.org/parameters/430,ʔečer,twist
+311-580,onaa1245,http://concepticon.clld.org/parameters/568,ʔay-neʔ,rise
+311-309,onaa1245,http://concepticon.clld.org/parameters/501,àʔwsè,"raise, lift"
+311-434,onaa1245,http://concepticon.clld.org/parameters/1280,w-hene,fall
+311-366,onaa1245,http://concepticon.clld.org/parameters/1280,w-yèe,fall
+311-731,onaa1245,http://concepticon.clld.org/parameters/1280,w-a,fall
+311-629,onaa1245,http://concepticon.clld.org/parameters/2253,tˀeyšn,drip
+311-223,onaa1245,http://concepticon.clld.org/parameters/1456,ye,throw
+311-428,onaa1245,http://concepticon.clld.org/parameters/702,hèčè,catch (ball)
+311-534,onaa1245,http://concepticon.clld.org/parameters/1909,ṣene,shake
+311-60,onaa1245,http://concepticon.clld.org/parameters/1909,šine,shake
+311-103,onaa1245,http://concepticon.clld.org/parameters/2003,ḳˀà,flow
+311-159,onaa1245,http://concepticon.clld.org/parameters/1088,ḳˀomḳeče,sink
+311-609,onaa1245,http://concepticon.clld.org/parameters/1088,ʔàyen-xe,sink
+311-488,onaa1245,http://concepticon.clld.org/parameters/1439,m-yew,swim
+311-186,onaa1245,http://concepticon.clld.org/parameters/119,kˀoxe,dive
+311-109,onaa1245,http://concepticon.clld.org/parameters/119,otxe,dive
+311-436,onaa1245,http://concepticon.clld.org/parameters/365,yàʔwe,splash
+311-265,onaa1245,http://concepticon.clld.org/parameters/1441,re,fly (vb)
+311-92,onaa1245,http://concepticon.clld.org/parameters/175,xòx-ye,blow
+311-501,onaa1245,http://concepticon.clld.org/parameters/175,hayen,blow
+311-143,onaa1245,http://concepticon.clld.org/parameters/96,hehče,"creep, crawl"
+311-157,onaa1245,http://concepticon.clld.org/parameters/296,oruḳn,crouch
+311-450,onaa1245,http://concepticon.clld.org/parameters/1324,ay-tèrè,"slide, slip"
+311-650,onaa1245,http://concepticon.clld.org/parameters/1829,čin-eʔ,"jump, leap"
+311-502,onaa1245,http://concepticon.clld.org/parameters/1829,hali-teʔ,"jump, leap"
+311-430,onaa1245,http://concepticon.clld.org/parameters/1879,wexè,dance
+311-602,onaa1245,http://concepticon.clld.org/parameters/1879,loxe,dance
+311-105,onaa1245,http://concepticon.clld.org/parameters/1443,čee,walk
+311-72,onaa1245,http://concepticon.clld.org/parameters/366,hèwitè,limp
+311-210,onaa1245,http://concepticon.clld.org/parameters/1519,okèʔ,run
+311-297,onaa1245,http://concepticon.clld.org/parameters/695,xe,go
+311-332,onaa1245,http://concepticon.clld.org/parameters/705,ḳˀomeʔ,go up
+311-202,onaa1245,http://concepticon.clld.org/parameters/1102,xohr,climb
+311-593,onaa1245,http://concepticon.clld.org/parameters/2014,ʔèhḳ xe,go down
+311-678,onaa1245,http://concepticon.clld.org/parameters/2014,war-pè,go down
+311-114,onaa1245,http://concepticon.clld.org/parameters/1107,w-enʔ,go out
+311-297,onaa1245,http://concepticon.clld.org/parameters/1446,xe,come
+311-297,onaa1245,http://concepticon.clld.org/parameters/581,xe,come back
+311-114,onaa1245,http://concepticon.clld.org/parameters/1752,w-enʔ,"go away, depart"
+311-97,onaa1245,http://concepticon.clld.org/parameters/1752,yoh-xe,"go away, depart"
+311-394,onaa1245,http://concepticon.clld.org/parameters/485,ʔàmye,disappear
+311-465,onaa1245,http://concepticon.clld.org/parameters/956,wayer,flee
+311-220,onaa1245,http://concepticon.clld.org/parameters/956,wayeʔ,flee
+311-578,onaa1245,http://concepticon.clld.org/parameters/956,čin-ʔ,flee
+311-408,onaa1245,http://concepticon.clld.org/parameters/1085,àyṣ xe,follow
+311-56,onaa1245,http://concepticon.clld.org/parameters/1047,ʔoker,pursue
+311-68,onaa1245,http://concepticon.clld.org/parameters/1387,exè,"reach, arrive"
+311-557,onaa1245,http://concepticon.clld.org/parameters/1778,wèntà,approach
+311-258,onaa1245,http://concepticon.clld.org/parameters/749,àṣ-ḳ-xe,enter
+311-596,onaa1245,http://concepticon.clld.org/parameters/700,ʔor-yè,carry (bear)
+311-305,onaa1245,http://concepticon.clld.org/parameters/700,w-hàʔ,carry (bear)
+311-282,onaa1245,http://concepticon.clld.org/parameters/413,haḳe,carry-on-shoulder
+311-390,onaa1245,http://concepticon.clld.org/parameters/413,ʔàtèn,carry-on-shoulder
+311-211,onaa1245,http://concepticon.clld.org/parameters/413,ḳˀàṣ-m,carry-on-shoulder
+311-403,onaa1245,http://concepticon.clld.org/parameters/692,ṣ-xe,bring
+311-89,onaa1245,http://concepticon.clld.org/parameters/1127,m-ʔol,send
+311-354,onaa1245,http://concepticon.clld.org/parameters/43,haʔymṣ e,lead (vb)
+311-142,onaa1245,http://concepticon.clld.org/parameters/1452,amnʔ,"push, shove"
+311-662,onaa1245,http://concepticon.clld.org/parameters/667,wax,road
+311-13,onaa1245,http://concepticon.clld.org/parameters/1970,yèni,canoe
+311-260,onaa1245,http://concepticon.clld.org/parameters/1970,powetˀn,canoe
+311-404,onaa1245,http://concepticon.clld.org/parameters/1849,m-aykel,row (vb)
+311-144,onaa1245,http://concepticon.clld.org/parameters/684,ma,"own, possess"
+311-440,onaa1245,http://concepticon.clld.org/parameters/684,we,"own, possess"
+311-486,onaa1245,http://concepticon.clld.org/parameters/1749,šè,take
+311-330,onaa1245,http://concepticon.clld.org/parameters/2021,ʔàmče,"seize, grasp"
+311-440,onaa1245,http://concepticon.clld.org/parameters/1448,we,hold
+311-486,onaa1245,http://concepticon.clld.org/parameters/1448,šè,hold
+311-440,onaa1245,http://concepticon.clld.org/parameters/1477,we,"keep, retain"
+311-714,onaa1245,http://concepticon.clld.org/parameters/738,ḳàr,thing
+311-223,onaa1245,http://concepticon.clld.org/parameters/1447,ye,give
+311-416,onaa1245,http://concepticon.clld.org/parameters/85,m-yoh-xe,give back
+311-718,onaa1245,http://concepticon.clld.org/parameters/1997,m-šoʔ,"preserve, look after"
+311-519,onaa1245,http://concepticon.clld.org/parameters/2008,wahn m-ṣe,"save, rescue"
+311-674,onaa1245,http://concepticon.clld.org/parameters/681,tˀàʔsè,destroy
+311-485,onaa1245,http://concepticon.clld.org/parameters/44,hà,"harm, injure, damage"
+311-222,onaa1245,http://concepticon.clld.org/parameters/1468,yo,"seek, look for"
+311-516,onaa1245,http://concepticon.clld.org/parameters/1468,w-hàynʔ,"seek, look for"
+311-104,onaa1245,http://concepticon.clld.org/parameters/719,èwʔ,find
+311-6,onaa1245,http://concepticon.clld.org/parameters/1660,w-àʔytè,lose
+311-102,onaa1245,http://concepticon.clld.org/parameters/1095,àʔytè,"release, let go"
+311-387,onaa1245,http://concepticon.clld.org/parameters/1674,ʔàlòw,poor
+311-517,onaa1245,http://concepticon.clld.org/parameters/1934,w-ʔèyè,beggar
+311-101,onaa1245,http://concepticon.clld.org/parameters/582,ṣ-xáw,lend
+311-482,onaa1245,http://concepticon.clld.org/parameters/884,ḳˀèw,share (distribute)
+311-113,onaa1245,http://concepticon.clld.org/parameters/1685,ʔowr,after
+311-266,onaa1245,http://concepticon.clld.org/parameters/723,ʔàtn,behind
+311-23,onaa1245,http://concepticon.clld.org/parameters/1816,sèx,beside
+311-185,onaa1245,http://concepticon.clld.org/parameters/1816,hòṣ,beside
+311-130,onaa1245,http://concepticon.clld.org/parameters/1816,àʔw,beside
+311-85,onaa1245,http://concepticon.clld.org/parameters/1882,hàw,before
+311-85,onaa1245,http://concepticon.clld.org/parameters/1019,hàw,front
+311-153,onaa1245,http://concepticon.clld.org/parameters/1606,àṣ,"inside, in"
+311-50,onaa1245,http://concepticon.clld.org/parameters/1606,ʔàwuṣ,"inside, in"
+311-613,onaa1245,http://concepticon.clld.org/parameters/762,harnik,outside
+311-67,onaa1245,http://concepticon.clld.org/parameters/1485,àmṣ,under
+311-694,onaa1245,http://concepticon.clld.org/parameters/1591,ax,"up, above"
+311-659,onaa1245,http://concepticon.clld.org/parameters/1591,at,"up, above"
+311-362,onaa1245,http://concepticon.clld.org/parameters/1591,ʔè,"up, above"
+311-531,onaa1245,http://concepticon.clld.org/parameters/998,m-ʔoyʔ,put
+311-414,onaa1245,http://concepticon.clld.org/parameters/998,aʔy,put
+311-532,onaa1245,http://concepticon.clld.org/parameters/998,miʔčè,put
+311-481,onaa1245,http://concepticon.clld.org/parameters/1416,pe,sit
+311-221,onaa1245,http://concepticon.clld.org/parameters/215,xa,lie down
+311-169,onaa1245,http://concepticon.clld.org/parameters/1442,ʔay,stand
+311-317,onaa1245,http://concepticon.clld.org/parameters/987,ʔoyʔ,"remain, stay"
+311-683,onaa1245,http://concepticon.clld.org/parameters/838,w-arnuw,"remains, left overs"
+311-500,onaa1245,http://concepticon.clld.org/parameters/838,kˀòwrḳn,"remains, left overs"
+311-7,onaa1245,http://concepticon.clld.org/parameters/7,ṣ-ḳˀòhtè,"collect, gather"
+311-7,onaa1245,http://concepticon.clld.org/parameters/371,ṣ-ḳˀòhtè,pick up
+311-583,onaa1245,http://concepticon.clld.org/parameters/1743,wiyi wenḳn,"join, unite"
+311-309,onaa1245,http://concepticon.clld.org/parameters/1359,àʔwsè,separate
+311-275,onaa1245,http://concepticon.clld.org/parameters/1119,pˀa,divide
+311-635,onaa1245,http://concepticon.clld.org/parameters/1119,tˀeyḳe,divide
+311-461,onaa1245,http://concepticon.clld.org/parameters/1156,àṣ-yeʔ,open
+311-173,onaa1245,http://concepticon.clld.org/parameters/1046,ʔoxè,"shut, close"
+311-186,onaa1245,http://concepticon.clld.org/parameters/761,kˀoxe,cover
+311-380,onaa1245,http://concepticon.clld.org/parameters/761,axe,cover
+311-357,onaa1245,http://concepticon.clld.org/parameters/602,ṣ-mètˀè,"hide, conceal"
+311-401,onaa1245,http://concepticon.clld.org/parameters/1265,čaʔwen,high
+311-468,onaa1245,http://concepticon.clld.org/parameters/721,tˀeleʔ,low
+311-504,onaa1245,http://concepticon.clld.org/parameters/721,tiše,low
+311-484,onaa1245,http://concepticon.clld.org/parameters/1753,kˀoṣ,top
+311-250,onaa1245,http://concepticon.clld.org/parameters/1753,en,top
+311-512,onaa1245,http://concepticon.clld.org/parameters/690,ḳˀòn,bottom
+311-680,onaa1245,http://concepticon.clld.org/parameters/742,ur,end
+311-399,onaa1245,http://concepticon.clld.org/parameters/372,čàtèr,pointed
+311-204,onaa1245,http://concepticon.clld.org/parameters/863,sim-ḳn,edge
+311-23,onaa1245,http://concepticon.clld.org/parameters/682,sèx,side
+311-185,onaa1245,http://concepticon.clld.org/parameters/682,hòṣ,side
+311-130,onaa1245,http://concepticon.clld.org/parameters/682,àʔw,side
+311-123,onaa1245,http://concepticon.clld.org/parameters/1093,ʔàr,"middle, center"
+311-193,onaa1245,http://concepticon.clld.org/parameters/1093,at-tek,"middle, center"
+311-291,onaa1245,http://concepticon.clld.org/parameters/1019,šòʔw,right (side)
+311-374,onaa1245,http://concepticon.clld.org/parameters/244,ʔanik,left (side)
+311-506,onaa1245,http://concepticon.clld.org/parameters/1942,manek,near (adv)
+311-12,onaa1245,http://concepticon.clld.org/parameters/1406,tohni,far (adv)
+311-33,onaa1245,http://concepticon.clld.org/parameters/1877,m-hòhtè,east
+311-226,onaa1245,http://concepticon.clld.org/parameters/1877,m-ḳˀòn,east
+311-266,onaa1245,http://concepticon.clld.org/parameters/1817,ʔàtn,west
+311-424,onaa1245,http://concepticon.clld.org/parameters/1817,knène-ḳr,west
+311-128,onaa1245,http://concepticon.clld.org/parameters/1598,òḳn,north
+311-187,onaa1245,http://concepticon.clld.org/parameters/1598,wòmṣḳn,north
+311-122,onaa1245,http://concepticon.clld.org/parameters/1595,i ʔàh,south
+311-697,onaa1245,http://concepticon.clld.org/parameters/1595,wòuḳn,south
+311-401,onaa1245,http://concepticon.clld.org/parameters/479,čaʔwen,grow
+311-341,onaa1245,http://concepticon.clld.org/parameters/1202,àṣ-čou,"large, big"
+311-255,onaa1245,http://concepticon.clld.org/parameters/1202,unker,"large, big"
+311-586,onaa1245,http://concepticon.clld.org/parameters/1246,tˀeplwè,"small, little"
+311-719,onaa1245,http://concepticon.clld.org/parameters/1203,w-ʔoy,long
+311-527,onaa1245,http://concepticon.clld.org/parameters/711,t-hòu,tall
+311-20,onaa1245,http://concepticon.clld.org/parameters/1645,tišè,short
+311-392,onaa1245,http://concepticon.clld.org/parameters/1243,aytike,"wide, broad"
+311-194,onaa1245,http://concepticon.clld.org/parameters/1267,àṣ-tèr,narrow
+311-350,onaa1245,http://concepticon.clld.org/parameters/1244,čè,thick (in dimension)
+311-255,onaa1245,http://concepticon.clld.org/parameters/1244,unker,thick (in dimension)
+311-54,onaa1245,http://concepticon.clld.org/parameters/1400,tel,thin (in dimension)
+311-303,onaa1245,http://concepticon.clld.org/parameters/1400,čeʔwel,thin (in dimension)
+311-288,onaa1245,http://concepticon.clld.org/parameters/1593,yuyin,deep
+311-11,onaa1245,http://concepticon.clld.org/parameters/193,hàhyeʔ,shallow
+311-69,onaa1245,http://concepticon.clld.org/parameters/1633,čeeḳe,flat
+311-95,onaa1245,http://concepticon.clld.org/parameters/1404,hòṣketˀè,straight
+311-240,onaa1245,http://concepticon.clld.org/parameters/297,ḳˀ-è-onke,crooked
+311-172,onaa1245,http://concepticon.clld.org/parameters/1071,kˀaw-ḳn,hook
+311-257,onaa1245,http://concepticon.clld.org/parameters/192,ḳˀòlu-ḳn,corner
+311-161,onaa1245,http://concepticon.clld.org/parameters/1395,amitèr,round
+311-331,onaa1245,http://concepticon.clld.org/parameters/1467,amitèr-n,circle
+311-239,onaa1245,http://concepticon.clld.org/parameters/1845,toker,"sphere, ball"
+311-383,onaa1245,http://concepticon.clld.org/parameters/1845,čahto,"sphere, ball"
+311-84,onaa1245,http://concepticon.clld.org/parameters/1048,tˀàʔrin,line
+311-433,onaa1245,http://concepticon.clld.org/parameters/1667,moʔ,hole
+311-690,onaa1245,http://concepticon.clld.org/parameters/1558,wè,"like, similar"
+311-570,onaa1245,http://concepticon.clld.org/parameters/1515,s-è-os,one
+311-58,onaa1245,http://concepticon.clld.org/parameters/1498,s-è-oki,two
+311-458,onaa1245,http://concepticon.clld.org/parameters/492,ṣ-è-àwken,three
+311-251,onaa1245,http://concepticon.clld.org/parameters/1500,kˀòhni sèoki,four
+311-677,onaa1245,http://concepticon.clld.org/parameters/1703,kˀòhni ṣ-è-àwken,six
+311-18,onaa1245,http://concepticon.clld.org/parameters/98,maxeṣ,"every, all"
+311-326,onaa1245,http://concepticon.clld.org/parameters/1198,ḳˀàr,"much, many"
+311-130,onaa1245,http://concepticon.clld.org/parameters/1992,àʔw,more
+311-451,onaa1245,http://concepticon.clld.org/parameters/1242,k-aʔč,"little (quantity), few"
+311-246,onaa1245,http://concepticon.clld.org/parameters/1881,teʔ,enough
+311-335,onaa1245,http://concepticon.clld.org/parameters/1241,ʔèhḳ,some
+311-545,onaa1245,http://concepticon.clld.org/parameters/2023,wàṣkitè,"multitude, crowd"
+311-475,onaa1245,http://concepticon.clld.org/parameters/1429,ṣàrè,full
+311-253,onaa1245,http://concepticon.clld.org/parameters/816,atka,half
+311-219,onaa1245,http://concepticon.clld.org/parameters/1580,miyen,"alone, only"
+311-384,onaa1245,http://concepticon.clld.org/parameters/1580,hòw,"alone, only"
+311-536,onaa1245,http://concepticon.clld.org/parameters/728,kohrk,first
+311-640,onaa1245,http://concepticon.clld.org/parameters/1529,own,last
+311-551,onaa1245,http://concepticon.clld.org/parameters/1384,s-è-oki-s,second
+311-51,onaa1245,http://concepticon.clld.org/parameters/1888,ʔòn,pair
+311-551,onaa1245,http://concepticon.clld.org/parameters/1546,s-è-oki-s,two times
+311-183,onaa1245,http://concepticon.clld.org/parameters/1859,ṣ-è-àwken-is,third
+311-595,onaa1245,http://concepticon.clld.org/parameters/1231,maʔḳà,new
+311-327,onaa1245,http://concepticon.clld.org/parameters/1207,maʔ čaʔwen,young
+311-716,onaa1245,http://concepticon.clld.org/parameters/1229,haʔxe,old
+311-302,onaa1245,http://concepticon.clld.org/parameters/1376,maʔ,now
+311-209,onaa1245,http://concepticon.clld.org/parameters/1963,k-hemten,immediately
+311-163,onaa1245,http://concepticon.clld.org/parameters/1631,čeyeḳˀ,"swift, fast, quick"
+311-636,onaa1245,http://concepticon.clld.org/parameters/701,k-làyu,slow
+311-334,onaa1245,http://concepticon.clld.org/parameters/754,čeyeḳˀ xe,"hasten, hurry"
+311-692,onaa1245,http://concepticon.clld.org/parameters/1806,eče,"begin, beginning"
+311-639,onaa1245,http://concepticon.clld.org/parameters/1806,em,"begin, beginning"
+311-442,onaa1245,http://concepticon.clld.org/parameters/1186,wa,"last, endure"
+311-99,onaa1245,http://concepticon.clld.org/parameters/1766,yèwl,finish
+311-108,onaa1245,http://concepticon.clld.org/parameters/1928,ày ʔoyʔ,"cease, stop"
+311-591,onaa1245,http://concepticon.clld.org/parameters/1676,hànṣ,always
+311-209,onaa1245,http://concepticon.clld.org/parameters/1852,k-hemten,often
+311-244,onaa1245,http://concepticon.clld.org/parameters/1852,k-wèytu,often
+311-62,onaa1245,http://concepticon.clld.org/parameters/1544,sinṣ,sometimes
+311-209,onaa1245,http://concepticon.clld.org/parameters/703,k-hemten,soon
+311-224,onaa1245,http://concepticon.clld.org/parameters/418,la orèk,long-time (for a)
+311-64,onaa1245,http://concepticon.clld.org/parameters/418,nani,long-time (for a)
+311-256,onaa1245,http://concepticon.clld.org/parameters/1656,ninṣ,never
+311-376,onaa1245,http://concepticon.clld.org/parameters/204,kˀòn,again
+311-25,onaa1245,http://concepticon.clld.org/parameters/1233,x-è-ankˀn,night
+311-702,onaa1245,http://concepticon.clld.org/parameters/729,yohrxi,dawn
+311-259,onaa1245,http://concepticon.clld.org/parameters/1339,maʔḳˀòn,morning
+311-471,onaa1245,http://concepticon.clld.org/parameters/1629,ṣ-tˀèʔxe,evening
+311-520,onaa1245,http://concepticon.clld.org/parameters/1283,ana krenn k-amṣ,today
+311-259,onaa1245,http://concepticon.clld.org/parameters/1329,maʔḳˀòn,tomorrow
+311-676,onaa1245,http://concepticon.clld.org/parameters/1179,nòhrè,day-after-tomorrow
+311-179,onaa1245,http://concepticon.clld.org/parameters/1174,akna hàyk k-amṣ,yesterday
+311-703,onaa1245,http://concepticon.clld.org/parameters/1180,nak,day-before-yesterday
+311-42,onaa1245,http://concepticon.clld.org/parameters/1471,x-è-òš-iḳn,winter
+311-249,onaa1245,http://concepticon.clld.org/parameters/1537,yo čòʔwṣḳn,spring
+311-287,onaa1245,http://concepticon.clld.org/parameters/1342,ʔelisḳn,summer
+311-120,onaa1245,http://concepticon.clld.org/parameters/1276,ḳˀ-è-òmn-ken,autumn
+311-542,onaa1245,http://concepticon.clld.org/parameters/691,hày-ḳn,season
+311-579,onaa1245,http://concepticon.clld.org/parameters/1586,ṣ-we,smell (vb trans)
+311-441,onaa1245,http://concepticon.clld.org/parameters/376,sinu,"fragrant, good smelling"
+311-296,onaa1245,http://concepticon.clld.org/parameters/42,wàčè,"stinking, bad smelling"
+311-607,onaa1245,http://concepticon.clld.org/parameters/21,m-xà,taste
+311-449,onaa1245,http://concepticon.clld.org/parameters/717,màčè,sweet
+311-217,onaa1245,http://concepticon.clld.org/parameters/887,čàlxe,bitter
+311-217,onaa1245,http://concepticon.clld.org/parameters/1906,čàlxe,"acid, sour"
+311-222,onaa1245,http://concepticon.clld.org/parameters/1408,yo,hear
+311-222,onaa1245,http://concepticon.clld.org/parameters/1608,yo,listen
+311-322,onaa1245,http://concepticon.clld.org/parameters/377,ʔom,loud
+311-188,onaa1245,http://concepticon.clld.org/parameters/377,ṣòʔ,loud
+311-605,onaa1245,http://concepticon.clld.org/parameters/1314,čou tawe,"quiet, silence"
+311-734,onaa1245,http://concepticon.clld.org/parameters/1409,ahyḳe,see
+311-734,onaa1245,http://concepticon.clld.org/parameters/1819,ahyḳe,"look, look at"
+311-118,onaa1245,http://concepticon.clld.org/parameters/1039,m-yohrxe,show
+311-158,onaa1245,http://concepticon.clld.org/parameters/708,aypˀèl,shine
+311-158,onaa1245,http://concepticon.clld.org/parameters/679,aypˀèl,bright
+311-464,onaa1245,http://concepticon.clld.org/parameters/250,ṣèhkel,light (in color)
+311-356,onaa1245,http://concepticon.clld.org/parameters/706,pˀàr,dark (in color)
+311-614,onaa1245,http://concepticon.clld.org/parameters/1335,ṣòʔl,white
+311-356,onaa1245,http://concepticon.clld.org/parameters/163,pˀàr,black
+311-318,onaa1245,http://concepticon.clld.org/parameters/156,òtè,red
+311-299,onaa1245,http://concepticon.clld.org/parameters/156,pòʔtè,red
+311-59,onaa1245,http://concepticon.clld.org/parameters/1425,tˀoh-r,green
+311-182,onaa1245,http://concepticon.clld.org/parameters/1425,pòʔtè-r,green
+311-348,onaa1245,http://concepticon.clld.org/parameters/1424,tˀoh-l,yellow
+311-281,onaa1245,http://concepticon.clld.org/parameters/1424,pòʔtè-l,yellow
+311-39,onaa1245,http://concepticon.clld.org/parameters/1892,en-ḳ šè,touch
+311-528,onaa1245,http://concepticon.clld.org/parameters/378,ʔateʔ,pinch
+311-554,onaa1245,http://concepticon.clld.org/parameters/1884,ʔoč eče,hard
+311-636,onaa1245,http://concepticon.clld.org/parameters/1856,k-làyu,soft
+311-567,onaa1245,http://concepticon.clld.org/parameters/1923,čou tˀam,rough
+311-158,onaa1245,http://concepticon.clld.org/parameters/1234,aypˀèl,smooth
+311-52,onaa1245,http://concepticon.clld.org/parameters/1234,ax-ketˀè,smooth
+311-344,onaa1245,http://concepticon.clld.org/parameters/1396,wičè,sharp
+311-264,onaa1245,http://concepticon.clld.org/parameters/1210,ʔàyèn,heavy
+311-667,onaa1245,http://concepticon.clld.org/parameters/1726,òʔltxe,"wet, damp"
+311-641,onaa1245,http://concepticon.clld.org/parameters/1398,hàpè,dry
+311-367,onaa1245,http://concepticon.clld.org/parameters/1286,toxè,hot
+311-615,onaa1245,http://concepticon.clld.org/parameters/1286,ṣ-čèxè,hot
+311-537,onaa1245,http://concepticon.clld.org/parameters/1232,kawʔ,warm
+311-682,onaa1245,http://concepticon.clld.org/parameters/1287,čàrxe,cold
+311-276,onaa1245,http://concepticon.clld.org/parameters/704,ʔà,clean
+311-1,onaa1245,http://concepticon.clld.org/parameters/1230,čalki,"dirty, soiled"
+311-129,onaa1245,http://concepticon.clld.org/parameters/380,ʔotè,wrinkled
+311-21,onaa1245,http://concepticon.clld.org/parameters/53,k-àṣ-pin,"soul, spirit"
+311-581,onaa1245,http://concepticon.clld.org/parameters/1572,kˀoši-ḳr,"surprised, astonished"
+311-699,onaa1245,http://concepticon.clld.org/parameters/1572,èwxe,"surprised, astonished"
+311-198,onaa1245,http://concepticon.clld.org/parameters/56,k-hàmki,"misfortune, bad luck"
+311-381,onaa1245,http://concepticon.clld.org/parameters/1495,ʔomlye,"joyful, glad, happy"
+311-445,onaa1245,http://concepticon.clld.org/parameters/1355,wi,laugh
+311-195,onaa1245,http://concepticon.clld.org/parameters/1451,k-max wi,smile
+311-483,onaa1245,http://concepticon.clld.org/parameters/1413,tˀereʔ,play
+311-4,onaa1245,http://concepticon.clld.org/parameters/923,hayne,love
+311-79,onaa1245,http://concepticon.clld.org/parameters/578,čètˀe,kiss
+311-626,onaa1245,http://concepticon.clld.org/parameters/928,ʔàm-če,embrace
+311-685,onaa1245,http://concepticon.clld.org/parameters/1783,čàlxi,pain
+311-549,onaa1245,http://concepticon.clld.org/parameters/1668,pˀàwe-l,"grief, sorrow, sadness"
+311-507,onaa1245,http://concepticon.clld.org/parameters/1000,šoʔwi,"anxiety, worry"
+311-165,onaa1245,http://concepticon.clld.org/parameters/1875,tol yipè,"regret, be sorry"
+311-541,onaa1245,http://concepticon.clld.org/parameters/1141,ahxe,pity
+311-205,onaa1245,http://concepticon.clld.org/parameters/1839,ʔowl-xe,"cry, weep"
+311-588,onaa1245,http://concepticon.clld.org/parameters/1651,ʔowl-kˀaʔ,tear (noun)
+311-505,onaa1245,http://concepticon.clld.org/parameters/716,pˀàwe-ʔ,groan
+311-17,onaa1245,http://concepticon.clld.org/parameters/1607,ṣ-ličè,hate
+311-419,onaa1245,http://concepticon.clld.org/parameters/82,yeteʔ,anger
+311-689,onaa1245,http://concepticon.clld.org/parameters/40,xàw nòrè,"envy, jealousy"
+311-100,onaa1245,http://concepticon.clld.org/parameters/1776,ʔorpe,shame (noun)
+311-460,onaa1245,http://concepticon.clld.org/parameters/174,čiʔ,proud
+311-273,onaa1245,http://concepticon.clld.org/parameters/781,wanyun,"fear, fright"
+311-4,onaa1245,http://concepticon.clld.org/parameters/1784,hayne,"desire, want"
+311-638,onaa1245,http://concepticon.clld.org/parameters/1750,ṣ-hòrṣtè,choose
+311-479,onaa1245,http://concepticon.clld.org/parameters/1092,kˀown,hope
+311-291,onaa1245,http://concepticon.clld.org/parameters/1657,šòʔw,true
+311-518,onaa1245,http://concepticon.clld.org/parameters/601,leḳe,"lie, tell lies"
+311-729,onaa1245,http://concepticon.clld.org/parameters/13,m-ḳˀòʔtè,deceit
+311-541,onaa1245,http://concepticon.clld.org/parameters/1528,ahxe,forgive
+311-535,onaa1245,http://concepticon.clld.org/parameters/1035,hane,good
+311-710,onaa1245,http://concepticon.clld.org/parameters/1035,k-wan oličè,good
+311-571,onaa1245,http://concepticon.clld.org/parameters/1292,ʔaymer,bad
+311-55,onaa1245,http://concepticon.clld.org/parameters/1725,ʔènyè,"right, correct"
+311-132,onaa1245,http://concepticon.clld.org/parameters/1725,pˀàʔ,"right, correct"
+311-74,onaa1245,http://concepticon.clld.org/parameters/1390,àyruḳe,wrong
+311-339,onaa1245,http://concepticon.clld.org/parameters/134,nàuḳ,fault
+311-74,onaa1245,http://concepticon.clld.org/parameters/1293,àyruḳe,"mistake, error"
+311-149,onaa1245,http://concepticon.clld.org/parameters/381,kˀòʔwen,blame
+311-431,onaa1245,http://concepticon.clld.org/parameters/1687,yawen,praise
+311-78,onaa1245,http://concepticon.clld.org/parameters/1427,oličè,beautiful
+311-675,onaa1245,http://concepticon.clld.org/parameters/1548,yipè,ugly
+311-696,onaa1245,http://concepticon.clld.org/parameters/2018,čètˀe-r,greedy
+311-560,onaa1245,http://concepticon.clld.org/parameters/1310,tol yorwe,clever
+311-66,onaa1245,http://concepticon.clld.org/parameters/1415,xowen,think (= reflect)
+311-352,onaa1245,http://concepticon.clld.org/parameters/1513,mè,think (= be of the opinion)
+311-222,onaa1245,http://concepticon.clld.org/parameters/1536,yo,understand
+311-263,onaa1245,http://concepticon.clld.org/parameters/1410,ayker,know
+311-86,onaa1245,http://concepticon.clld.org/parameters/117,m-na,imitate
+311-690,onaa1245,http://concepticon.clld.org/parameters/1521,wè,seem
+311-238,onaa1245,http://concepticon.clld.org/parameters/698,tol yore,wise
+311-190,onaa1245,http://concepticon.clld.org/parameters/1518,tol àʔkè,"foolish, stupid"
+311-453,onaa1245,http://concepticon.clld.org/parameters/1899,ahle yipè,"insane, crazy"
+311-439,onaa1245,http://concepticon.clld.org/parameters/504,ayker-xe,learn
+311-672,onaa1245,http://concepticon.clld.org/parameters/709,ʔayʔoryè,teach
+311-191,onaa1245,http://concepticon.clld.org/parameters/1038,ʔayʔoryè-nn,teacher
+311-574,onaa1245,http://concepticon.clld.org/parameters/707,xomen,remember
+311-10,onaa1245,http://concepticon.clld.org/parameters/1523,ṣ-wàyyuw,forget
+311-34,onaa1245,http://concepticon.clld.org/parameters/1121,sèuḳn,secret
+311-134,onaa1245,http://concepticon.clld.org/parameters/509,ṣek,"sure, certain"
+311-418,onaa1245,http://concepticon.clld.org/parameters/1626,ṣ-yer,explain
+311-5,onaa1245,http://concepticon.clld.org/parameters/860,nàuḳe,cause
+311-632,onaa1245,http://concepticon.clld.org/parameters/860,m-,cause
+311-660,onaa1245,http://concepticon.clld.org/parameters/1902,ʔòše,betray
+311-355,onaa1245,http://concepticon.clld.org/parameters/643,àʔwi,"need, necessity"
+311-692,onaa1245,http://concepticon.clld.org/parameters/1812,eče,"try, attempt"
+311-456,onaa1245,http://concepticon.clld.org/parameters/1577,wày,and
+311-90,onaa1245,http://concepticon.clld.org/parameters/1157,hày,because
+311-90,onaa1245,http://concepticon.clld.org/parameters/1459,hày,if
+311-670,onaa1245,http://concepticon.clld.org/parameters/1268,èeʔ,"yes, affirmative"
+311-155,onaa1245,http://concepticon.clld.org/parameters/1269,taw,"no, negative"
+311-164,onaa1245,http://concepticon.clld.org/parameters/1236,h-uneṣ,what?
+311-561,onaa1245,http://concepticon.clld.org/parameters/1238,kiṣ ḳ haʔyuk,when?
+311-107,onaa1245,http://concepticon.clld.org/parameters/1237,kiṣ,where?
+311-585,onaa1245,http://concepticon.clld.org/parameters/1235,k-uneṣ,who?
+311-236,onaa1245,http://concepticon.clld.org/parameters/1270,w-h-uneṣ wàhy,why?
+311-29,onaa1245,http://concepticon.clld.org/parameters/1363,ṣèpˀn,voice
+311-382,onaa1245,http://concepticon.clld.org/parameters/1261,yewi,sing
+311-725,onaa1245,http://concepticon.clld.org/parameters/715,wà-yer,"shout, cry out"
+311-213,onaa1245,http://concepticon.clld.org/parameters/715,wà-ḳˀe,"shout, cry out"
+311-148,onaa1245,http://concepticon.clld.org/parameters/128,w-tˀe,mumble
+311-669,onaa1245,http://concepticon.clld.org/parameters/1025,koteʔ,whistle
+311-725,onaa1245,http://concepticon.clld.org/parameters/526,wà-yer,howl
+311-454,onaa1245,http://concepticon.clld.org/parameters/1623,yohd̶èʔ,"speak, talk"
+311-558,onaa1245,http://concepticon.clld.org/parameters/1458,yer,say
+311-123,onaa1245,http://concepticon.clld.org/parameters/1458,ʔàr,say
+311-66,onaa1245,http://concepticon.clld.org/parameters/1711,xowen,tell story
+311-695,onaa1245,http://concepticon.clld.org/parameters/48,čahn w pe,silent (be)
+311-347,onaa1245,http://concepticon.clld.org/parameters/48,àʔkè,silent (be)
+311-412,onaa1245,http://concepticon.clld.org/parameters/1307,čahn,language
+311-412,onaa1245,http://concepticon.clld.org/parameters/1599,čahn,word
+311-222,onaa1245,http://concepticon.clld.org/parameters/1405,yo,name
+311-386,onaa1245,http://concepticon.clld.org/parameters/1309,m-yer-ne,"ask (question, inquire)"
+311-679,onaa1245,http://concepticon.clld.org/parameters/1275,ʔoyn yer,answer
+311-425,onaa1245,http://concepticon.clld.org/parameters/755,ṣ-niʔ,deny
+311-396,onaa1245,http://concepticon.clld.org/parameters/1828,w-ʔè,"ask, request"
+311-425,onaa1245,http://concepticon.clld.org/parameters/49,ṣ-niʔ,refuse
+311-391,onaa1245,http://concepticon.clld.org/parameters/299,èhḳe,"rebuke, scold"
+311-396,onaa1245,http://concepticon.clld.org/parameters/1084,w-ʔè,call (=summon)
+311-712,onaa1245,http://concepticon.clld.org/parameters/180,yo yà,call (=name)
+311-612,onaa1245,http://concepticon.clld.org/parameters/9,àṣ yer,announce
+311-323,onaa1245,http://concepticon.clld.org/parameters/101,m-ʔà,boast
+311-543,onaa1245,http://concepticon.clld.org/parameters/789,silḳʔ-nam-n,people (populace)
+311-269,onaa1245,http://concepticon.clld.org/parameters/301,haʔxe-nn,"chief, chieftain"
+311-151,onaa1245,http://concepticon.clld.org/parameters/1296,lèwl,"staff, walking stick"
+311-418,onaa1245,http://concepticon.clld.org/parameters/1128,ṣ-yer,"command, order"
+311-647,onaa1245,http://concepticon.clld.org/parameters/1128,ṣ-ʔàr,"command, order"
+311-704,onaa1245,http://concepticon.clld.org/parameters/1635,wèn,obey
+311-632,onaa1245,http://concepticon.clld.org/parameters/1003,m-,"let, permit"
+311-241,onaa1245,http://concepticon.clld.org/parameters/1325,čou,"friend, companion"
+311-523,onaa1245,http://concepticon.clld.org/parameters/1325,pax,"friend, companion"
+311-138,onaa1245,http://concepticon.clld.org/parameters/1325,wari,"friend, companion"
+311-529,onaa1245,http://concepticon.clld.org/parameters/1332,ʔaṣḳa,neighbor
+311-110,onaa1245,http://concepticon.clld.org/parameters/1897,k-ʔèhḳ iḳ xe,"help, aid"
+311-38,onaa1245,http://concepticon.clld.org/parameters/1550,ḳalm ʔeče,"hinder, prevent"
+311-686,onaa1245,http://concepticon.clld.org/parameters/1550,oxel,"hinder, prevent"
+311-271,onaa1245,http://concepticon.clld.org/parameters/1848,ṣe,"strife, quarrel"
+311-104,onaa1245,http://concepticon.clld.org/parameters/1831,èwʔ,meet
+311-438,onaa1245,http://concepticon.clld.org/parameters/1610,ṣelyuwn,prostitute
+311-271,onaa1245,http://concepticon.clld.org/parameters/1423,ṣe,fight (vb)
+311-278,onaa1245,http://concepticon.clld.org/parameters/951,ʔelʔ,"weapons, arms"
+311-555,onaa1245,http://concepticon.clld.org/parameters/387,šinḳaʔy,sling
+311-691,onaa1245,http://concepticon.clld.org/parameters/994,hàʔ,bow
+311-707,onaa1245,http://concepticon.clld.org/parameters/977,yahn,arrow
+311-485,onaa1245,http://concepticon.clld.org/parameters/722,hà,attack
+311-625,onaa1245,http://concepticon.clld.org/parameters/1330,ʔòx hal m-ʔeče,defend
+311-63,onaa1245,http://concepticon.clld.org/parameters/421,warne,retreat
+311-44,onaa1245,http://concepticon.clld.org/parameters/1072,tˀàsè,"captive, prisoner"
+311-428,onaa1245,http://concepticon.clld.org/parameters/1940,hèčè,"guard, sentinel"
+311-370,onaa1245,http://concepticon.clld.org/parameters/1858,ʔoʔye-nn,fisherman
+311-452,onaa1245,http://concepticon.clld.org/parameters/1858,tˀeʔemke-nn,fisherman
+311-651,onaa1245,http://concepticon.clld.org/parameters/388,šèu,fishnet
+311-301,onaa1245,http://concepticon.clld.org/parameters/1435,hòʔyi-pè,hunt
+311-633,onaa1245,http://concepticon.clld.org/parameters/1172,kˀomčè,shoot
+311-74,onaa1245,http://concepticon.clld.org/parameters/161,àyruḳe,miss (target)
+311-684,onaa1245,http://concepticon.clld.org/parameters/1075,teʔy,trap (noun)
+311-149,onaa1245,http://concepticon.clld.org/parameters/1814,kˀòʔwen,accuse
+311-5,onaa1245,http://concepticon.clld.org/parameters/1682,nàuḳe,guilty
+311-152,onaa1245,http://concepticon.clld.org/parameters/845,mateʔ,murder
+311-720,onaa1245,http://concepticon.clld.org/parameters/953,čin k šèy,rape
+311-203,onaa1245,http://concepticon.clld.org/parameters/1889,wòmke,arson
+311-135,onaa1245,http://concepticon.clld.org/parameters/713,xami,steal
+311-368,onaa1245,http://concepticon.clld.org/parameters/1160,ohrtˀe,thief
+311-377,onaa1245,http://concepticon.clld.org/parameters/911,haʔynn,"temple, church"
+311-70,onaa1245,http://concepticon.clld.org/parameters/392,xo-ʔ,"magic, witchcraft, sorcery"
+311-349,onaa1245,http://concepticon.clld.org/parameters/2137,xoʔ-nn,"sorcerer, witch"
+311-233,onaa1245,http://concepticon.clld.org/parameters/2137,xoʔ-en,"sorcerer, witch"
+311-22,onaa1245,http://concepticon.clld.org/parameters/107,wer-wer-n,"omen, portent"

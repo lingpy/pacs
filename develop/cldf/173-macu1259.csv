@@ -1,0 +1,947 @@
+ID,Language_ID,Feature_ID,Value,Concept
+173-79,macu1259,http://concepticon.clld.org/parameters/626,pata,"earth, land"
+173-226,macu1259,http://concepticon.clld.org/parameters/1228,non,"earth=ground, soil"
+173-456,macu1259,http://concepticon.clld.org/parameters/2,kutuppan,dust
+173-499,macu1259,http://concepticon.clld.org/parameters/640,kuusaʔ,mud
+173-204,macu1259,http://concepticon.clld.org/parameters/671,saka-pan,sand
+173-314,macu1259,http://concepticon.clld.org/parameters/2118,wɨʔ,"mountain, hill"
+173-823,macu1259,http://concepticon.clld.org/parameters/618,tɨkapi,"cliff, precipice"
+173-372,macu1259,http://concepticon.clld.org/parameters/652,etei,"plain, field"
+173-280,macu1259,http://concepticon.clld.org/parameters/921,ramon,valley
+173-804,macu1259,http://concepticon.clld.org/parameters/622,wonoʔ,island
+173-131,macu1259,http://concepticon.clld.org/parameters/113,tuna ena,shore
+173-462,macu1259,http://concepticon.clld.org/parameters/1155,tɨʔ-ta,cave
+173-605,macu1259,http://concepticon.clld.org/parameters/948,tuna,water
+173-316,macu1259,http://concepticon.clld.org/parameters/1474,pɨranna,sea
+173-148,macu1259,http://concepticon.clld.org/parameters/258,tɨʔne,calm (of sea)
+173-565,macu1259,http://concepticon.clld.org/parameters/259,sipa sipa pe a-wanɨ,rough (of sea)
+173-448,macu1259,http://concepticon.clld.org/parameters/1768,tuna rakkon,foam
+173-316,macu1259,http://concepticon.clld.org/parameters/645,pɨranna,ocean
+173-744,macu1259,http://concepticon.clld.org/parameters/624,ikuʔpɨ,lake
+173-153,macu1259,http://concepticon.clld.org/parameters/978,sipa-sipa,wave
+173-613,macu1259,http://concepticon.clld.org/parameters/1026,tuna aapaʔsaʔ man,lowtide
+173-592,macu1259,http://concepticon.clld.org/parameters/613,tuna awannɨ-saʔ man,hightide
+173-471,macu1259,http://concepticon.clld.org/parameters/666,eren,"river, stream, brook"
+173-660,macu1259,http://concepticon.clld.org/parameters/666,iwɨtɨ,"river, stream, brook"
+173-491,macu1259,http://concepticon.clld.org/parameters/1982,tuna taime,whirlpool
+173-395,macu1259,http://concepticon.clld.org/parameters/2144,yani,"spring, well"
+173-824,macu1259,http://concepticon.clld.org/parameters/943,tuna meru,waterfall
+173-5,macu1259,http://concepticon.clld.org/parameters/420,yuʔ,"woods, forest"
+173-31,macu1259,http://concepticon.clld.org/parameters/906,-yeʔ,tree (cf 08.600)
+173-615,macu1259,http://concepticon.clld.org/parameters/1803,yei,wood
+173-105,macu1259,http://concepticon.clld.org/parameters/2125,tɨʔ,"stone, rock"
+173-127,macu1259,http://concepticon.clld.org/parameters/1732,kaʔ,sky
+173-633,macu1259,http://concepticon.clld.org/parameters/1343,wei,sun
+173-463,macu1259,http://concepticon.clld.org/parameters/1313,kapoi,moon
+173-286,macu1259,http://concepticon.clld.org/parameters/1430,kaiwanoʔ,star
+173-586,macu1259,http://concepticon.clld.org/parameters/1654,waraʔnapi esensiʔma,lightning
+173-276,macu1259,http://concepticon.clld.org/parameters/1150,waraʔnapiya taa,thunder
+173-608,macu1259,http://concepticon.clld.org/parameters/1733,meren-mereʔ,rainbow
+173-406,macu1259,http://concepticon.clld.org/parameters/630,aʔka,light (noun)
+173-222,macu1259,http://concepticon.clld.org/parameters/11,ewaron,darkness
+173-752,macu1259,http://concepticon.clld.org/parameters/1388,yekaton,"shade, shadow"
+173-568,macu1259,http://concepticon.clld.org/parameters/1977,iʔnɨ,dew
+173-285,macu1259,http://concepticon.clld.org/parameters/960,aʔsitun,wind
+173-213,macu1259,http://concepticon.clld.org/parameters/1489,kutupuru,cloud
+173-625,macu1259,http://concepticon.clld.org/parameters/658,konoʔ,rain (noun)
+173-568,macu1259,http://concepticon.clld.org/parameters/617,iʔnɨ,ice
+173-655,macu1259,http://concepticon.clld.org/parameters/221,apoʔ,fire
+173-537,macu1259,http://concepticon.clld.org/parameters/778,wɨreʔsin,smoke (noun)
+173-217,macu1259,http://concepticon.clld.org/parameters/646,runuʔpɨ,ashes
+173-622,macu1259,http://concepticon.clld.org/parameters/67,apoʔ yarɨn,embers
+173-396,macu1259,http://concepticon.clld.org/parameters/141,poʔtɨ,burn (vb trans)
+173-591,macu1259,http://concepticon.clld.org/parameters/1428,aramɨ,burn (vb intrans)
+173-348,macu1259,http://concepticon.clld.org/parameters/737,tɨrɨka,"light, kindle, ignite"
+173-725,macu1259,http://concepticon.clld.org/parameters/127,yiʔnɨpɨ,extinguish
+173-650,macu1259,http://concepticon.clld.org/parameters/1133,[pariʔtu],match (noun)
+173-328,macu1259,http://concepticon.clld.org/parameters/10,apoʔ-keme,firewood
+173-733,macu1259,http://concepticon.clld.org/parameters/683,pemonkon,"person, human being"
+173-408,macu1259,http://concepticon.clld.org/parameters/1554,warayoʔ,man (vs. woman)
+173-258,macu1259,http://concepticon.clld.org/parameters/962,wɨriʔ,woman
+173-408,macu1259,http://concepticon.clld.org/parameters/2263,warayoʔ,male
+173-258,macu1259,http://concepticon.clld.org/parameters/2260,wɨriʔ,female
+173-735,macu1259,http://concepticon.clld.org/parameters/77,auronoʔpɨ,young woman (adolescent)
+173-129,macu1259,http://concepticon.clld.org/parameters/1304,more,child
+173-129,macu1259,http://concepticon.clld.org/parameters/1289,more,"infant, baby"
+173-53,macu1259,http://concepticon.clld.org/parameters/1200,i-nyo,husband
+173-321,macu1259,http://concepticon.clld.org/parameters/1199,i-noʔpɨ,wife
+173-639,macu1259,http://concepticon.clld.org/parameters/203,noʔpɨta,marry
+173-87,macu1259,http://concepticon.clld.org/parameters/1259,ee[mari]-ma-n-toʔ,"marriage, wedding"
+173-667,macu1259,http://concepticon.clld.org/parameters/1134,i-rumaka-saʔ,divorce
+173-616,macu1259,http://concepticon.clld.org/parameters/1217,u-yun,father
+173-253,macu1259,http://concepticon.clld.org/parameters/1216,u-san,mother
+173-745,macu1259,http://concepticon.clld.org/parameters/505,u-yun-tonon,parents
+173-259,macu1259,http://concepticon.clld.org/parameters/424,tɨ-noʔpɨ ke-nan,married man
+173-175,macu1259,http://concepticon.clld.org/parameters/426,tɨ-nyo ke-nan,married woman
+173-126,macu1259,http://concepticon.clld.org/parameters/1620,un-mu,son
+173-146,macu1259,http://concepticon.clld.org/parameters/1357,u-yensi,daughter
+173-685,macu1259,http://concepticon.clld.org/parameters/1801,munkɨ,offspring (son or daughter)
+173-34,macu1259,http://concepticon.clld.org/parameters/1262,uwi,brother
+173-731,macu1259,http://concepticon.clld.org/parameters/1759,u-rui,older brother
+173-572,macu1259,http://concepticon.clld.org/parameters/1760,u-yakon,younger brother
+173-768,macu1259,http://concepticon.clld.org/parameters/1758,naʔnaʔ,older sister
+173-334,macu1259,http://concepticon.clld.org/parameters/1761,u-wɨrɨsi,younger sister
+173-774,macu1259,http://concepticon.clld.org/parameters/1005,monoiʔ-yamɨʔ,twins
+173-428,macu1259,http://concepticon.clld.org/parameters/1383,amoko,grandfather
+173-696,macu1259,http://concepticon.clld.org/parameters/406,aʔyeketon,old man
+173-552,macu1259,http://concepticon.clld.org/parameters/1496,koʔkoʔ,grandmother
+173-728,macu1259,http://concepticon.clld.org/parameters/907,noʔsanton,old woman
+173-81,macu1259,http://concepticon.clld.org/parameters/1618,u-pa,grandson
+173-81,macu1259,http://concepticon.clld.org/parameters/1619,u-pa,granddaughter
+173-473,macu1259,http://concepticon.clld.org/parameters/1327,inton,uncle
+173-473,macu1259,http://concepticon.clld.org/parameters/1984,inton,mother's brother
+173-125,macu1259,http://concepticon.clld.org/parameters/1985,papai,father's brother
+173-637,macu1259,http://concepticon.clld.org/parameters/1272,eeru,aunt
+173-82,macu1259,http://concepticon.clld.org/parameters/171,mamai,mother's sister
+173-772,macu1259,http://concepticon.clld.org/parameters/170,waʔnɨ,father's sister
+173-703,macu1259,http://concepticon.clld.org/parameters/1063,poito,nephew
+173-410,macu1259,http://concepticon.clld.org/parameters/1642,passe,niece
+173-203,macu1259,http://concepticon.clld.org/parameters/1642,u-paʔse,niece
+173-34,macu1259,http://concepticon.clld.org/parameters/1643,uwi,cousin
+173-555,macu1259,http://concepticon.clld.org/parameters/1643,moyi,cousin
+173-354,macu1259,http://concepticon.clld.org/parameters/1643,piipi,cousin
+173-689,macu1259,http://concepticon.clld.org/parameters/1669,u-tamo-kon,ancestors
+173-464,macu1259,http://concepticon.clld.org/parameters/490,payan-yamɨʔ,descendants
+173-440,macu1259,http://concepticon.clld.org/parameters/2255,mɨi,father-in-law (of a man)
+173-418,macu1259,http://concepticon.clld.org/parameters/2255,u-yawo,father-in-law (of a man)
+173-97,macu1259,http://concepticon.clld.org/parameters/2254,aawo,father-in-law (of a woman)
+173-95,macu1259,http://concepticon.clld.org/parameters/2254,ako,father-in-law (of a woman)
+173-418,macu1259,http://concepticon.clld.org/parameters/2254,u-yawo,father-in-law (of a woman)
+173-772,macu1259,http://concepticon.clld.org/parameters/2256,waʔnɨ,mother-in-law (of a man)
+173-575,macu1259,http://concepticon.clld.org/parameters/2256,u-yawoʔpɨ,mother-in-law (of a man)
+173-772,macu1259,http://concepticon.clld.org/parameters/2257,waʔnɨ,mother-in-law (of a woman)
+173-575,macu1259,http://concepticon.clld.org/parameters/2257,u-yawoʔpɨ,mother-in-law (of a woman)
+173-703,macu1259,http://concepticon.clld.org/parameters/2267,poito,son-in-law (of a man)
+173-638,macu1259,http://concepticon.clld.org/parameters/2267,u-payun,son-in-law (of a man)
+173-753,macu1259,http://concepticon.clld.org/parameters/2266,mɨine,son-in-law (of a woman)
+173-638,macu1259,http://concepticon.clld.org/parameters/2266,u-payun,son-in-law (of a woman)
+173-410,macu1259,http://concepticon.clld.org/parameters/2265,passe,daughter-in-law (of a man)
+173-203,macu1259,http://concepticon.clld.org/parameters/2265,u-paʔse,daughter-in-law (of a man)
+173-410,macu1259,http://concepticon.clld.org/parameters/2264,passe,daughter-in-law (of a woman)
+173-203,macu1259,http://concepticon.clld.org/parameters/2264,u-paʔse,daughter-in-law (of a woman)
+173-797,macu1259,http://concepticon.clld.org/parameters/1149,i-san ton pɨn,orphan
+173-702,macu1259,http://concepticon.clld.org/parameters/1756,i-nyo saʔmantaʔ-san,widow
+173-432,macu1259,http://concepticon.clld.org/parameters/1981,i-noʔpɨ saʔmantaʔ-san,widower
+173-265,macu1259,http://concepticon.clld.org/parameters/1644,yonpa,"relatives, kinsmen"
+173-301,macu1259,http://concepticon.clld.org/parameters/1209,uurɨ,I
+173-295,macu1259,http://concepticon.clld.org/parameters/1215,amɨrɨ,you (singular)
+173-200,macu1259,http://concepticon.clld.org/parameters/262,mɨɨkɨrɨ,he/she/it
+173-68,macu1259,http://concepticon.clld.org/parameters/1131,uurɨ-ʔnɨkon,we (inclusive)
+173-711,macu1259,http://concepticon.clld.org/parameters/1130,anna,we (exclusive)
+173-413,macu1259,http://concepticon.clld.org/parameters/1213,amɨrɨ-ʔkon,you (plural)
+173-558,macu1259,http://concepticon.clld.org/parameters/817,inkamoro,they
+173-371,macu1259,http://concepticon.clld.org/parameters/817,insemoro,they
+173-189,macu1259,http://concepticon.clld.org/parameters/619,u-yekɨn,animal
+173-401,macu1259,http://concepticon.clld.org/parameters/2262,-pa,female (adj)
+173-684,macu1259,http://concepticon.clld.org/parameters/631,u-yekɨn-an,livestock
+173-538,macu1259,http://concepticon.clld.org/parameters/1153,[paaka] yamɨʔ,cattle (bovine)
+173-760,macu1259,http://concepticon.clld.org/parameters/1008,[paaka] yun,bull
+173-242,macu1259,http://concepticon.clld.org/parameters/1007,[paaka],cow
+173-133,macu1259,http://concepticon.clld.org/parameters/1989,[paaka] more,calf
+173-38,macu1259,http://concepticon.clld.org/parameters/615,[kaware],horse (equine)
+173-251,macu1259,http://concepticon.clld.org/parameters/1647,[kaware] more,"foal, colt"
+173-664,macu1259,http://concepticon.clld.org/parameters/265,toron,fowl
+173-666,macu1259,http://concepticon.clld.org/parameters/1511,kariwana yun-kon,"cock, rooster"
+173-808,macu1259,http://concepticon.clld.org/parameters/1514,kariwana,hen
+173-808,macu1259,http://concepticon.clld.org/parameters/1318,kariwana,chicken
+173-791,macu1259,http://concepticon.clld.org/parameters/1360,maiʔwa,duck
+173-174,macu1259,http://concepticon.clld.org/parameters/539,toron yaponse,nest
+173-664,macu1259,http://concepticon.clld.org/parameters/937,toron,bird
+173-644,macu1259,http://concepticon.clld.org/parameters/1905,kuwano,eagle
+173-564,macu1259,http://concepticon.clld.org/parameters/1185,kaʔsanaʔ,vulture
+173-562,macu1259,http://concepticon.clld.org/parameters/1793,marappa,bat
+173-607,macu1259,http://concepticon.clld.org/parameters/882,woroʔke,parrot
+173-645,macu1259,http://concepticon.clld.org/parameters/1853,wakuʔkaimɨ,dove
+173-389,macu1259,http://concepticon.clld.org/parameters/735,poosiʔkɨ,owl
+173-720,macu1259,http://concepticon.clld.org/parameters/2009,arinmaraka,dog
+173-659,macu1259,http://concepticon.clld.org/parameters/1208,pisana,cat
+173-738,macu1259,http://concepticon.clld.org/parameters/309,waiʔwo,opossum
+173-27,macu1259,http://concepticon.clld.org/parameters/2139,waimu,"mouse, rat"
+173-353,macu1259,http://concepticon.clld.org/parameters/227,moroʔ,fish
+173-267,macu1259,http://concepticon.clld.org/parameters/266,moroʔ piʔpɨ,fishscale
+173-584,macu1259,http://concepticon.clld.org/parameters/1910,supareʔ,stingray
+173-481,macu1259,http://concepticon.clld.org/parameters/1013,arinraʔ,freshwater eel
+173-598,macu1259,http://concepticon.clld.org/parameters/1312,maikan,fox
+173-477,macu1259,http://concepticon.clld.org/parameters/1936,waikin,deer
+173-590,macu1259,http://concepticon.clld.org/parameters/1936,usari,deer
+173-179,macu1259,http://concepticon.clld.org/parameters/1350,iwarɨka,monkey
+173-433,macu1259,http://concepticon.clld.org/parameters/620,oʔma,insect
+173-525,macu1259,http://concepticon.clld.org/parameters/310,ayan,louse
+173-177,macu1259,http://concepticon.clld.org/parameters/310,a-yamɨ,louse
+173-193,macu1259,http://concepticon.clld.org/parameters/267,ayan pɨmoi,nit (louse egg)
+173-362,macu1259,http://concepticon.clld.org/parameters/232,sikɨ,flea
+173-620,macu1259,http://concepticon.clld.org/parameters/1974,konope,centipede
+173-567,macu1259,http://concepticon.clld.org/parameters/1538,mariʔtɨ,scorpion
+173-28,macu1259,http://concepticon.clld.org/parameters/1575,masarɨwa,cockroach
+173-449,macu1259,http://concepticon.clld.org/parameters/587,miʔkɨ,ant
+173-311,macu1259,http://concepticon.clld.org/parameters/843,moyoi,spider
+173-635,macu1259,http://concepticon.clld.org/parameters/1065,moyoi yette,spider web
+173-751,macu1259,http://concepticon.clld.org/parameters/665,wan,bee
+173-376,macu1259,http://concepticon.clld.org/parameters/1931,moronpɨ,beeswax
+173-248,macu1259,http://concepticon.clld.org/parameters/1504,ereuwe,fly
+173-288,macu1259,http://concepticon.clld.org/parameters/95,nunkɨ,"sandfly (midge), gnat"
+173-707,macu1259,http://concepticon.clld.org/parameters/1509,masaʔ,mosquito
+173-467,macu1259,http://concepticon.clld.org/parameters/1219,moʔ,worm
+173-532,macu1259,http://concepticon.clld.org/parameters/730,ɨkɨi,snake
+173-459,macu1259,http://concepticon.clld.org/parameters/206,motowe,firefly
+173-414,macu1259,http://concepticon.clld.org/parameters/1791,peppeʔ,butterfly
+173-364,macu1259,http://concepticon.clld.org/parameters/607,kaira,grasshopper
+173-255,macu1259,http://concepticon.clld.org/parameters/1543,kuimeʔ,snail
+173-15,macu1259,http://concepticon.clld.org/parameters/1543,kiiwa,snail
+173-478,macu1259,http://concepticon.clld.org/parameters/503,pɨrettɨku,frog
+173-748,macu1259,http://concepticon.clld.org/parameters/632,enwaraʔ,lizard
+173-782,macu1259,http://concepticon.clld.org/parameters/632,tɨpukkari,lizard
+173-506,macu1259,http://concepticon.clld.org/parameters/1857,akare,"crocodile, alligator"
+173-442,macu1259,http://concepticon.clld.org/parameters/1857,kuratu,"crocodile, alligator"
+173-595,macu1259,http://concepticon.clld.org/parameters/112,wayanmuri,turtle
+173-604,macu1259,http://concepticon.clld.org/parameters/1480,u-yesaʔ,body
+173-719,macu1259,http://concepticon.clld.org/parameters/763,u-piʔpɨ,"skin, hide"
+173-249,macu1259,http://concepticon.clld.org/parameters/2259,u-pun,flesh
+173-9,macu1259,http://concepticon.clld.org/parameters/1040,u-puʔpai siʔpo,hair (head)
+173-517,macu1259,http://concepticon.clld.org/parameters/678,iteʔpo,beard
+173-52,macu1259,http://concepticon.clld.org/parameters/678,mɨɨkɨrɨ yeʔpo,beard
+173-730,macu1259,http://concepticon.clld.org/parameters/189,itewan siʔposaru,body hair
+173-617,macu1259,http://concepticon.clld.org/parameters/36,-simoi,pubic hair
+173-113,macu1259,http://concepticon.clld.org/parameters/576,uʔpi,dandruff
+173-274,macu1259,http://concepticon.clld.org/parameters/946,u-mɨnɨ,blood
+173-534,macu1259,http://concepticon.clld.org/parameters/525,u-kara,"vein, artery"
+173-757,macu1259,http://concepticon.clld.org/parameters/1394,u-yeʔpɨ,bone
+173-115,macu1259,http://concepticon.clld.org/parameters/801,u-rata yeʔpɨ,rib
+173-755,macu1259,http://concepticon.clld.org/parameters/1393,retɨ,horn
+173-420,macu1259,http://concepticon.clld.org/parameters/1220,i-taukɨ,tail
+173-496,macu1259,http://concepticon.clld.org/parameters/1291,i-npo,back
+173-483,macu1259,http://concepticon.clld.org/parameters/805,u-yeppa yeʔpɨ,spine
+173-614,macu1259,http://concepticon.clld.org/parameters/1256,i-puʔpai,head
+173-209,macu1259,http://concepticon.clld.org/parameters/1604,upana-maka,"side of head, temple"
+173-134,macu1259,http://concepticon.clld.org/parameters/1605,i-puʔpai yeʔpɨ,skull
+173-746,macu1259,http://concepticon.clld.org/parameters/1583,i-kase,brain
+173-520,macu1259,http://concepticon.clld.org/parameters/1560,u-yenpata,face
+173-25,macu1259,http://concepticon.clld.org/parameters/123,u-yepin,forehead
+173-152,macu1259,http://concepticon.clld.org/parameters/798,u-mata,jaw
+173-647,macu1259,http://concepticon.clld.org/parameters/1730,uʔ-pita,cheek
+173-307,macu1259,http://concepticon.clld.org/parameters/1510,u-yetamu,chin
+173-582,macu1259,http://concepticon.clld.org/parameters/1248,u-yenu,eye
+173-626,macu1259,http://concepticon.clld.org/parameters/1173,u-waramaʔpo,eyebrow
+173-145,macu1259,http://concepticon.clld.org/parameters/17,u-yenu piʔpɨ,eyelid
+173-493,macu1259,http://concepticon.clld.org/parameters/1540,u-yenu karamaʔ-siʔpo,eyelash
+173-378,macu1259,http://concepticon.clld.org/parameters/1655,pɨriu-taa,blink
+173-366,macu1259,http://concepticon.clld.org/parameters/1247,u-pana,ear
+173-108,macu1259,http://concepticon.clld.org/parameters/18,u-pana yemu,earlobe
+173-657,macu1259,http://concepticon.clld.org/parameters/32,u-pana yaweʔ,earwax
+173-92,macu1259,http://concepticon.clld.org/parameters/1221,u-yeuna,nose
+173-325,macu1259,http://concepticon.clld.org/parameters/1178,u-yeuna yetta,nostril
+173-766,macu1259,http://concepticon.clld.org/parameters/208,aton,mucus (nasal)
+173-220,macu1259,http://concepticon.clld.org/parameters/674,u-nta,mouth
+173-102,macu1259,http://concepticon.clld.org/parameters/73,toron potɨ,beak
+173-530,macu1259,http://concepticon.clld.org/parameters/478,u-yeʔpi,lip
+173-380,macu1259,http://concepticon.clld.org/parameters/478,u-potɨ,lip
+173-112,macu1259,http://concepticon.clld.org/parameters/1205,u-nu,tongue
+173-554,macu1259,http://concepticon.clld.org/parameters/1380,u-ye,tooth
+173-221,macu1259,http://concepticon.clld.org/parameters/139,u-ye yapon,gums
+173-799,macu1259,http://concepticon.clld.org/parameters/1049,yakui-pona-won,molartooth
+173-587,macu1259,http://concepticon.clld.org/parameters/1333,uʔ-mɨ,neck
+173-795,macu1259,http://concepticon.clld.org/parameters/1347,u-mɨ yeʔpɨ,nape of neck
+173-351,macu1259,http://concepticon.clld.org/parameters/1346,uʔmɨ yetta,throat
+173-513,macu1259,http://concepticon.clld.org/parameters/1482,u-mota,shoulder
+173-279,macu1259,http://concepticon.clld.org/parameters/172,u-mota yeʔpɨ,shoulderblade
+173-393,macu1259,http://concepticon.clld.org/parameters/1994,u-moʔmoʔ yeʔpɨ,collarbone
+173-610,macu1259,http://concepticon.clld.org/parameters/1673,u-yemekon,arm
+173-332,macu1259,http://concepticon.clld.org/parameters/1886,u-yewata,armpit
+173-247,macu1259,http://concepticon.clld.org/parameters/981,u-peresi,elbow
+173-606,macu1259,http://concepticon.clld.org/parameters/799,u-yenya pɨmɨ,wrist
+173-822,macu1259,http://concepticon.clld.org/parameters/1277,u-yenya,hand
+173-822,macu1259,http://concepticon.clld.org/parameters/1183,u-yenya,palm of hand
+173-599,macu1259,http://concepticon.clld.org/parameters/1303,u-yenya eperu,finger
+173-827,macu1259,http://concepticon.clld.org/parameters/1781,u-yenya yun-kon,thumb
+173-603,macu1259,http://concepticon.clld.org/parameters/1258,u-yenya piʔpɨ,fingernail
+173-130,macu1259,http://concepticon.clld.org/parameters/72,i-tenya puʔpɨ,claw
+173-169,macu1259,http://concepticon.clld.org/parameters/1297,i-peʔ,leg
+173-715,macu1259,http://concepticon.clld.org/parameters/800,u-yeʔmata,thigh
+173-831,macu1259,http://concepticon.clld.org/parameters/498,u-si pun,calf of leg
+173-788,macu1259,http://concepticon.clld.org/parameters/1371,u-yeseʔmo,knee
+173-76,macu1259,http://concepticon.clld.org/parameters/1301,uʔ-pu,foot
+173-119,macu1259,http://concepticon.clld.org/parameters/803,u-rupukon,ankle
+173-329,macu1259,http://concepticon.clld.org/parameters/980,u-tana,heel
+173-230,macu1259,http://concepticon.clld.org/parameters/318,i-teʔmaʔpɨ,footprint
+173-542,macu1259,http://concepticon.clld.org/parameters/1389,uʔ-pu-yeperu,toe
+173-246,macu1259,http://concepticon.clld.org/parameters/1257,yapɨri,wing
+173-588,macu1259,http://concepticon.clld.org/parameters/1592,u-ruppota,chest
+173-360,macu1259,http://concepticon.clld.org/parameters/1402,i-manatɨ,breast (of woman)
+173-612,macu1259,http://concepticon.clld.org/parameters/796,i-manatɨ potɨ,"nipple, teat"
+173-343,macu1259,http://concepticon.clld.org/parameters/154,[paaka] manatɨ mun,udder
+173-308,macu1259,http://concepticon.clld.org/parameters/1838,i-poni,navel
+173-511,macu1259,http://concepticon.clld.org/parameters/1223,u-yewan,heart
+173-333,macu1259,http://concepticon.clld.org/parameters/688,u-yarakku,lung
+173-16,macu1259,http://concepticon.clld.org/parameters/1224,yere,liver
+173-531,macu1259,http://concepticon.clld.org/parameters/489,u-kuimari,kidney
+173-74,macu1259,http://concepticon.clld.org/parameters/819,u-yaʔreʔ yense,stomach
+173-260,macu1259,http://concepticon.clld.org/parameters/1991,i-siwisikɨ,"intestines, guts"
+173-163,macu1259,http://concepticon.clld.org/parameters/1681,u-woromɨʔ,waist
+173-679,macu1259,http://concepticon.clld.org/parameters/1745,u-pɨn yeʔpɨ,hip
+173-254,macu1259,http://concepticon.clld.org/parameters/834,i-maiko,buttocks
+173-451,macu1259,http://concepticon.clld.org/parameters/804,i-nre pon,womb
+173-482,macu1259,http://concepticon.clld.org/parameters/797,i-temu,testicle
+173-423,macu1259,http://concepticon.clld.org/parameters/1222,i-mere,penis
+173-706,macu1259,http://concepticon.clld.org/parameters/1407,yetta-pusin,"breathe, breath"
+173-300,macu1259,http://concepticon.clld.org/parameters/1028,entapiʔma,"yawn, gape"
+173-721,macu1259,http://concepticon.clld.org/parameters/162,eʔsɨkeʔma,hiccough
+173-694,macu1259,http://concepticon.clld.org/parameters/879,aheheʔ ta-i-ya,cough
+173-241,macu1259,http://concepticon.clld.org/parameters/1621,a'sikau ta-i-ya,sneeze
+173-298,macu1259,http://concepticon.clld.org/parameters/126,awaisaʔ,perspire
+173-326,macu1259,http://concepticon.clld.org/parameters/1440,u-yetaku yenumɨ-u-ya,spit
+173-304,macu1259,http://concepticon.clld.org/parameters/1278,yarakka,vomit
+173-409,macu1259,http://concepticon.clld.org/parameters/1403,yeʔka,bite
+173-136,macu1259,http://concepticon.clld.org/parameters/319,yemeka,lick
+173-149,macu1259,http://concepticon.clld.org/parameters/268,etiʔkamɨ,dribble
+173-356,macu1259,http://concepticon.clld.org/parameters/1585,wetun,sleep
+173-528,macu1259,http://concepticon.clld.org/parameters/1983,tororɨ yen,snore
+173-269,macu1259,http://concepticon.clld.org/parameters/1920,eʔmoronoʔpe,dream
+173-585,macu1259,http://concepticon.clld.org/parameters/1602,a-apaka,wake up
+173-651,macu1259,http://concepticon.clld.org/parameters/1159,iwiʔkɨ yen pe wai,break wind
+173-402,macu1259,http://concepticon.clld.org/parameters/592,asuʔta,urinate
+173-309,macu1259,http://concepticon.clld.org/parameters/676,weka,defecate
+173-803,macu1259,http://concepticon.clld.org/parameters/1785,toʔ esenpan-saʔ man,have sexual intercourse
+173-69,macu1259,http://concepticon.clld.org/parameters/52,aweʔ-tɨtɨka komiʔ pe,shiver
+173-779,macu1259,http://concepticon.clld.org/parameters/138,eʔpɨ,bathe
+173-640,macu1259,http://concepticon.clld.org/parameters/1090,esenpo,born (to be)
+173-29,macu1259,http://concepticon.clld.org/parameters/1123,more yan-pe,pregnant
+173-543,macu1259,http://concepticon.clld.org/parameters/1087,inre-ʔsaiʔya,conceive
+173-212,macu1259,http://concepticon.clld.org/parameters/1422,enen,"live, living, life"
+173-291,macu1259,http://concepticon.clld.org/parameters/1494,saʔmanta,"die, dead"
+173-358,macu1259,http://concepticon.clld.org/parameters/1904,a-ana-saʔ,drowned
+173-314,macu1259,http://concepticon.clld.org/parameters/1417,wɨʔ,kill
+173-208,macu1259,http://concepticon.clld.org/parameters/767,it-esaʔ-rɨʔpɨ,corpse
+173-600,macu1259,http://concepticon.clld.org/parameters/1719,yuʔnaʔtɨ,bury (the dead)
+173-292,macu1259,http://concepticon.clld.org/parameters/1773,uuruwai,"grave, tomb"
+173-268,macu1259,http://concepticon.clld.org/parameters/785,meruntɨ,"strong, mighty, powerful"
+173-10,macu1259,http://concepticon.clld.org/parameters/1601,aʔtuʔmara,weak
+173-7,macu1259,http://concepticon.clld.org/parameters/1364,priʔya,"well, health"
+173-634,macu1259,http://concepticon.clld.org/parameters/1847,paran,"sick, sickness"
+173-99,macu1259,http://concepticon.clld.org/parameters/1534,ekomiʔma,fever
+173-766,macu1259,http://concepticon.clld.org/parameters/102,aton,cold (catarrh)
+173-646,macu1259,http://concepticon.clld.org/parameters/1109,ereʔ,"wound, sore"
+173-257,macu1259,http://concepticon.clld.org/parameters/1148,e-erekɨʔtɨ-saʔ,bruise
+173-293,macu1259,http://concepticon.clld.org/parameters/1903,awoisaʔ,swelling
+173-338,macu1259,http://concepticon.clld.org/parameters/148,kaʔnare,itch
+173-455,macu1259,http://concepticon.clld.org/parameters/1584,a-asɨkoiwataʔ-saʔ,blister
+173-181,macu1259,http://concepticon.clld.org/parameters/793,a-awoi-saʔ,boil (noun)
+173-223,macu1259,http://concepticon.clld.org/parameters/1808,kunaru,pus
+173-180,macu1259,http://concepticon.clld.org/parameters/497,e-ekaima-saʔ,scar
+173-120,macu1259,http://concepticon.clld.org/parameters/499,yepiʔtɨ,"cure, heal"
+173-500,macu1259,http://concepticon.clld.org/parameters/597,pemonkon yepiʔtɨ-nen,physician
+173-573,macu1259,http://concepticon.clld.org/parameters/1372,epiʔtoʔ,"medicine, drug"
+173-342,macu1259,http://concepticon.clld.org/parameters/655,maiʔpa-i-ya maiʔ ke,poison
+173-345,macu1259,http://concepticon.clld.org/parameters/1757,apɨkasaʔ,"tired, weary"
+173-368,macu1259,http://concepticon.clld.org/parameters/168,erɨkka,rest
+173-699,macu1259,http://concepticon.clld.org/parameters/1564,enyanneʔ,lazy
+173-219,macu1259,http://concepticon.clld.org/parameters/1125,pɨkaiʔpan,bald
+173-487,macu1259,http://concepticon.clld.org/parameters/320,tɨkɨi pe,lame
+173-653,macu1259,http://concepticon.clld.org/parameters/996,panaʔtɨ,deaf
+173-560,macu1259,http://concepticon.clld.org/parameters/1666,i-maimu pɨn,mute
+173-365,macu1259,http://concepticon.clld.org/parameters/1653,enkaruʔne,blind
+173-508,macu1259,http://concepticon.clld.org/parameters/1463,eʔtɨri pe,intoxicated
+173-421,macu1259,http://concepticon.clld.org/parameters/590,i-pon pɨn,"naked, bare"
+173-386,macu1259,http://concepticon.clld.org/parameters/1336,entamoʔka,eat
+173-438,macu1259,http://concepticon.clld.org/parameters/256,yaʔre,food
+173-405,macu1259,http://concepticon.clld.org/parameters/178,emɨsaʔ,ripe
+173-458,macu1259,http://concepticon.clld.org/parameters/1958,yaʔpɨre,"green, unripe"
+173-282,macu1259,http://concepticon.clld.org/parameters/1728,aa-kata-saʔ,rotten
+173-810,macu1259,http://concepticon.clld.org/parameters/1401,enɨrɨ,drink
+173-66,macu1259,http://concepticon.clld.org/parameters/1533,iwan pe,hunger
+173-727,macu1259,http://concepticon.clld.org/parameters/199,iwan,famine
+173-62,macu1259,http://concepticon.clld.org/parameters/848,tuna aninɨpai,thirst
+173-93,macu1259,http://concepticon.clld.org/parameters/1421,yuʔna,suck
+173-773,macu1259,http://concepticon.clld.org/parameters/321,yapo,chew
+173-729,macu1259,http://concepticon.clld.org/parameters/897,yennoʔma,swallow
+173-322,macu1259,http://concepticon.clld.org/parameters/129,a-awoʔtɨ,choke
+173-403,macu1259,http://concepticon.clld.org/parameters/792,rintɨ,boil (vb)
+173-166,macu1259,http://concepticon.clld.org/parameters/2146,puru,"roast, fry"
+173-278,macu1259,http://concepticon.clld.org/parameters/1462,yerin,"pot, cooking vessel"
+173-11,macu1259,http://concepticon.clld.org/parameters/480,[prato],plate
+173-61,macu1259,http://concepticon.clld.org/parameters/1530,pisaʔ,bowl
+173-172,macu1259,http://concepticon.clld.org/parameters/476,[kopo],"cup, drinking vessel"
+173-792,macu1259,http://concepticon.clld.org/parameters/1378,[kolher],spoon
+173-128,macu1259,http://concepticon.clld.org/parameters/1352,taura,knife (2)
+173-512,macu1259,http://concepticon.clld.org/parameters/1526,entamoʔkan-toʔ,meal (a)
+173-277,macu1259,http://concepticon.clld.org/parameters/1322,u-yekkari,breakfast
+173-486,macu1259,http://concepticon.clld.org/parameters/275,piʔka,peel
+173-85,macu1259,http://concepticon.clld.org/parameters/86,yainonka,"sieve, strain"
+173-486,macu1259,http://concepticon.clld.org/parameters/1767,piʔka,scrape
+173-370,macu1259,http://concepticon.clld.org/parameters/2017,yaiʔma,"stir, mix"
+173-556,macu1259,http://concepticon.clld.org/parameters/1368,[trigo] puu-saʔ,bread
+173-559,macu1259,http://concepticon.clld.org/parameters/224,aʔ,mortar (2)
+173-677,macu1259,http://concepticon.clld.org/parameters/225,aʔ yai-non,pestle
+173-107,macu1259,http://concepticon.clld.org/parameters/634,sararu,meat
+173-41,macu1259,http://concepticon.clld.org/parameters/1547,tuma,"soup, broth"
+173-196,macu1259,http://concepticon.clld.org/parameters/832,maʔsari,bean
+173-147,macu1259,http://concepticon.clld.org/parameters/593,saʔ,potato
+173-132,macu1259,http://concepticon.clld.org/parameters/1507,yekkari,fruit
+173-369,macu1259,http://concepticon.clld.org/parameters/323,kaiwan,"grease, fat"
+173-593,macu1259,http://concepticon.clld.org/parameters/1274,pan,salt
+173-450,macu1259,http://concepticon.clld.org/parameters/919,pimi,chili pepper
+173-751,macu1259,http://concepticon.clld.org/parameters/942,wan,honey
+173-264,macu1259,http://concepticon.clld.org/parameters/862,aʔkiʔku,sugar
+173-468,macu1259,http://concepticon.clld.org/parameters/635,[paaka] manatɨ yekku,milk (noun)
+173-648,macu1259,http://concepticon.clld.org/parameters/731,u-wuku,"beverage, drink"
+173-649,macu1259,http://concepticon.clld.org/parameters/731,woʔ,"beverage, drink"
+173-43,macu1259,http://concepticon.clld.org/parameters/404,kasiri,fermented drink
+173-6,macu1259,http://concepticon.clld.org/parameters/744,kariwana pɨmoi,egg
+173-574,macu1259,http://concepticon.clld.org/parameters/158,yakaʔma,put on (clothes)
+173-514,macu1259,http://concepticon.clld.org/parameters/1895,pon,"clothing, clothes"
+173-798,macu1259,http://concepticon.clld.org/parameters/1616,yaʔsan,cloth
+173-306,macu1259,http://concepticon.clld.org/parameters/1850,kotoʔka,cotton
+173-417,macu1259,http://concepticon.clld.org/parameters/629,[paaka] piʔpɨ,leather
+173-214,macu1259,http://concepticon.clld.org/parameters/121,yeʔpɨsɨ,spin
+173-19,macu1259,http://concepticon.clld.org/parameters/277,perepi,spindle
+173-64,macu1259,http://concepticon.clld.org/parameters/133,kaneʔtɨ,weave
+173-476,macu1259,http://concepticon.clld.org/parameters/1457,siʔpɨmɨ,sew
+173-47,macu1259,http://concepticon.clld.org/parameters/1382,[akkusaʔ],needle
+173-431,macu1259,http://concepticon.clld.org/parameters/1161,[katɨn],thread
+173-514,macu1259,http://concepticon.clld.org/parameters/474,pon,woman's dress
+173-571,macu1259,http://concepticon.clld.org/parameters/1622,in-pai pon,shirt
+173-284,macu1259,http://concepticon.clld.org/parameters/2012,u-pon pɨmɨ,collar
+173-632,macu1259,http://concepticon.clld.org/parameters/1600,u-[saya]-ri,skirt
+173-100,macu1259,http://concepticon.clld.org/parameters/809,surura,trousers
+173-382,macu1259,http://concepticon.clld.org/parameters/1381,pisaʔsaʔ,shoe
+173-577,macu1259,http://concepticon.clld.org/parameters/2130,aroʔ,"hat, cap"
+173-539,macu1259,http://concepticon.clld.org/parameters/772,i-woromɨ,"belt, girdle"
+173-807,macu1259,http://concepticon.clld.org/parameters/1851,u-[posa]-nen,pocket
+173-71,macu1259,http://concepticon.clld.org/parameters/917,yariʔku,"ornament, adornment"
+173-806,macu1259,http://concepticon.clld.org/parameters/1961,moʔmoʔ,necklace
+173-339,macu1259,http://concepticon.clld.org/parameters/1860,kaʔsiru,bead
+173-524,macu1259,http://concepticon.clld.org/parameters/1475,sarai-sarai,comb
+173-261,macu1259,http://concepticon.clld.org/parameters/1171,wanamari,mirror
+173-818,macu1259,http://concepticon.clld.org/parameters/1099,koʔmamɨ,"dwell, live"
+173-430,macu1259,http://concepticon.clld.org/parameters/1252,wɨttɨ,house
+173-144,macu1259,http://concepticon.clld.org/parameters/1316,tappɨi,tent
+173-465,macu1259,http://concepticon.clld.org/parameters/736,poro iʔpɨ,"yard, court"
+173-690,macu1259,http://concepticon.clld.org/parameters/1567,manaʔta,"door, gate"
+173-317,macu1259,http://concepticon.clld.org/parameters/1596,[sawi],lock (noun)
+173-392,macu1259,http://concepticon.clld.org/parameters/1472,manaʔta [sawi],key
+173-12,macu1259,http://concepticon.clld.org/parameters/1632,wɨttɨ roʔta,floor
+173-783,macu1259,http://concepticon.clld.org/parameters/1663,atta,bed
+173-630,macu1259,http://concepticon.clld.org/parameters/1663,yetteʔ,bed
+173-794,macu1259,http://concepticon.clld.org/parameters/1476,aponoʔ,chair
+173-498,macu1259,http://concepticon.clld.org/parameters/1775,[mesa],table
+173-44,macu1259,http://concepticon.clld.org/parameters/769,wɨttɨ nekata,roof
+173-550,macu1259,http://concepticon.clld.org/parameters/279,kuwai yare,thatch
+173-813,macu1259,http://concepticon.clld.org/parameters/280,wɨttɨ nekata yawɨ-ron,ridgepole
+173-263,macu1259,http://concepticon.clld.org/parameters/829,wɨttɨ yara,rafter
+173-821,macu1259,http://concepticon.clld.org/parameters/1132,pakɨʔnan,beam
+173-615,macu1259,http://concepticon.clld.org/parameters/281,yei,"post, pole"
+173-509,macu1259,http://concepticon.clld.org/parameters/1006,non kuʔsaʔ,brick
+173-805,macu1259,http://concepticon.clld.org/parameters/901,non kuʔ-saʔ,adobe
+173-669,macu1259,http://concepticon.clld.org/parameters/212,mɨɨ,field (for cultivation)
+173-801,macu1259,http://concepticon.clld.org/parameters/1541,naa,"cultivate, till"
+173-161,macu1259,http://concepticon.clld.org/parameters/1690,i-waʔ-toʔ,fence
+173-709,macu1259,http://concepticon.clld.org/parameters/1418,yaka,dig
+173-828,macu1259,http://concepticon.clld.org/parameters/1176,yaka-toʔ,spade
+173-828,macu1259,http://concepticon.clld.org/parameters/1901,yaka-toʔ,shovel
+173-596,macu1259,http://concepticon.clld.org/parameters/284,sanpa,hoe
+173-484,macu1259,http://concepticon.clld.org/parameters/748,pɨmɨ,sow
+173-361,macu1259,http://concepticon.clld.org/parameters/714,enaʔpɨ,seed
+173-122,macu1259,http://concepticon.clld.org/parameters/506,aʔnai,"maize, corn"
+173-340,macu1259,http://concepticon.clld.org/parameters/926,[arosi],rice
+173-714,macu1259,http://concepticon.clld.org/parameters/606,wanaʔ,grass
+173-636,macu1259,http://concepticon.clld.org/parameters/606,parɨʔ,grass
+173-503,macu1259,http://concepticon.clld.org/parameters/653,yeʔ,plant (noun)
+173-484,macu1259,http://concepticon.clld.org/parameters/1486,pɨmɨ,plant (vb)
+173-357,macu1259,http://concepticon.clld.org/parameters/670,kara,root
+173-466,macu1259,http://concepticon.clld.org/parameters/1531,panta,branch
+173-137,macu1259,http://concepticon.clld.org/parameters/628,yare,leaf
+173-71,macu1259,http://concepticon.clld.org/parameters/239,yariʔku,flower
+173-615,macu1259,http://concepticon.clld.org/parameters/906,yei,tree
+173-397,macu1259,http://concepticon.clld.org/parameters/343,siʔna,vine
+173-447,macu1259,http://concepticon.clld.org/parameters/974,kawai,tobacco
+173-722,macu1259,http://concepticon.clld.org/parameters/1689,kawai wereʔtɨ,smoke (tobacco)
+173-691,macu1259,http://concepticon.clld.org/parameters/1124,[paipa],pipe
+173-658,macu1259,http://concepticon.clld.org/parameters/241,prakon,tree stump
+173-570,macu1259,http://concepticon.clld.org/parameters/344,yei urupukon,tree trunk
+173-186,macu1259,http://concepticon.clld.org/parameters/409,yei panta,forked branch
+173-522,macu1259,http://concepticon.clld.org/parameters/1204,yei piʔpɨ,bark
+173-419,macu1259,http://concepticon.clld.org/parameters/345,yekku,sap
+173-135,macu1259,http://concepticon.clld.org/parameters/868,paruru yeʔ,banana tree
+173-147,macu1259,http://concepticon.clld.org/parameters/159,saʔ,sweet potato
+173-535,macu1259,http://concepticon.clld.org/parameters/925,imu,"tapioca, manioc, cassava"
+173-736,macu1259,http://concepticon.clld.org/parameters/925,kɨse,"tapioca, manioc, cassava"
+173-310,macu1259,http://concepticon.clld.org/parameters/411,maʔ,gourd
+173-411,macu1259,http://concepticon.clld.org/parameters/864,kaiyuma,"pumpkin, squash"
+173-670,macu1259,http://concepticon.clld.org/parameters/146,kaiwaraku,sugar cane
+173-741,macu1259,http://concepticon.clld.org/parameters/348,aya,fish poison (root)
+173-460,macu1259,http://concepticon.clld.org/parameters/641,yei pana,mushroom
+173-723,macu1259,http://concepticon.clld.org/parameters/641,non pana,mushroom
+173-777,macu1259,http://concepticon.clld.org/parameters/813,kupɨ,"do, make"
+173-297,macu1259,http://concepticon.clld.org/parameters/813,koneka,"do, make"
+173-59,macu1259,http://concepticon.clld.org/parameters/984,esenyakaʔma,work
+173-324,macu1259,http://concepticon.clld.org/parameters/2004,yeiʔme,bend
+173-324,macu1259,http://concepticon.clld.org/parameters/1470,yeiʔme,fold
+173-700,macu1259,http://concepticon.clld.org/parameters/1917,yewaʔtɨ,"tie, bind"
+173-252,macu1259,http://concepticon.clld.org/parameters/352,yeuka,untie
+173-453,macu1259,http://concepticon.clld.org/parameters/1218,eʔseusa,"rope, cord"
+173-830,macu1259,http://concepticon.clld.org/parameters/760,yeuronsaʔ,knot (noun)
+173-156,macu1259,http://concepticon.clld.org/parameters/2133,paʔtɨ,"strike (hit, beat)"
+173-516,macu1259,http://concepticon.clld.org/parameters/1432,yaʔtɨ,cut
+173-429,macu1259,http://concepticon.clld.org/parameters/355,yaʔtɨ-u-ya e-esenun-toʔpe,cut down
+173-313,macu1259,http://concepticon.clld.org/parameters/1434,yasoʔka,stab
+173-128,macu1259,http://concepticon.clld.org/parameters/1352,taura,knife
+173-383,macu1259,http://concepticon.clld.org/parameters/356,sakɨi,"scissors, shears"
+173-624,macu1259,http://concepticon.clld.org/parameters/677,waʔka,ax
+173-764,macu1259,http://concepticon.clld.org/parameters/680,yaʔmorikka,break
+173-45,macu1259,http://concepticon.clld.org/parameters/588,yaʔmorikka-saʔ,broken
+173-764,macu1259,http://concepticon.clld.org/parameters/1437,yaʔmorikka,split
+173-416,macu1259,http://concepticon.clld.org/parameters/1735,karaka,tear
+173-486,macu1259,http://concepticon.clld.org/parameters/291,piʔka,"flay, skin"
+173-379,macu1259,http://concepticon.clld.org/parameters/214,kuʔna,stretch
+173-379,macu1259,http://concepticon.clld.org/parameters/1455,kuʔna,pull
+173-789,macu1259,http://concepticon.clld.org/parameters/38,pareppɨka,spread out
+173-676,macu1259,http://concepticon.clld.org/parameters/357,miʔka,hang up
+173-495,macu1259,http://concepticon.clld.org/parameters/1414,suʔka,"squeeze, wring"
+173-178,macu1259,http://concepticon.clld.org/parameters/1487,etiʔkamo,pour
+173-312,macu1259,http://concepticon.clld.org/parameters/1453,rona,wash
+173-445,macu1259,http://concepticon.clld.org/parameters/230,kuima,sweep
+173-206,macu1259,http://concepticon.clld.org/parameters/245,tuʔtɨmai,broom
+173-826,macu1259,http://concepticon.clld.org/parameters/1840,wɨttɨ emɨʔsaʔka-u-ya,build
+173-579,macu1259,http://concepticon.clld.org/parameters/1501,yei yaʔpo,bore
+173-415,macu1259,http://concepticon.clld.org/parameters/46,yei yaka,hollow out
+173-327,macu1259,http://concepticon.clld.org/parameters/1948,yei saraʔma,saw
+173-526,macu1259,http://concepticon.clld.org/parameters/502,yei poka-toʔ,nail
+173-188,macu1259,http://concepticon.clld.org/parameters/1069,kaareta yapiʔ-toʔ,glue
+173-652,macu1259,http://concepticon.clld.org/parameters/1369,[ouro],gold
+173-504,macu1259,http://concepticon.clld.org/parameters/759,[prata] ~ [pɨrata],silver
+173-198,macu1259,http://concepticon.clld.org/parameters/359,ɨinɨ kaʔ-nen,potter
+173-363,macu1259,http://concepticon.clld.org/parameters/289,ɨinɨ yeʔ kapɨ-u-ya,mold (clay etc)
+173-501,macu1259,http://concepticon.clld.org/parameters/604,pattɨre,glass
+173-510,macu1259,http://concepticon.clld.org/parameters/1539,waikaraʔpɨ,basket
+173-820,macu1259,http://concepticon.clld.org/parameters/195,sunpa,mat
+173-46,macu1259,http://concepticon.clld.org/parameters/195,upa,mat
+173-96,macu1259,http://concepticon.clld.org/parameters/1971,wɨriwo,fan (noun)
+173-576,macu1259,http://concepticon.clld.org/parameters/360,yaʔseʔma,fan (vb)
+173-446,macu1259,http://concepticon.clld.org/parameters/228,yei yaraʔka,carve
+173-94,macu1259,http://concepticon.clld.org/parameters/2001,kɨʔpa,paint (vb)
+173-23,macu1259,http://concepticon.clld.org/parameters/765,moʔta,move
+173-218,macu1259,http://concepticon.clld.org/parameters/1588,eraʔtɨ,turn over
+173-168,macu1259,http://concepticon.clld.org/parameters/1445,ennaʔpo,turn around
+173-250,macu1259,http://concepticon.clld.org/parameters/1113,yaʔsantɨ,"wind, wrap"
+173-739,macu1259,http://concepticon.clld.org/parameters/827,perema,roll
+173-184,macu1259,http://concepticon.clld.org/parameters/808,maa,drop (vb)
+173-36,macu1259,http://concepticon.clld.org/parameters/430,seke-seke-ma,twist
+173-833,macu1259,http://concepticon.clld.org/parameters/568,eʔmɨʔsaʔka,rise
+173-197,macu1259,http://concepticon.clld.org/parameters/501,pɨmɨʔsaʔka,"raise, lift"
+173-361,macu1259,http://concepticon.clld.org/parameters/1280,enaʔpɨ,fall
+173-775,macu1259,http://concepticon.clld.org/parameters/2253,aʔtesuʔka,drip
+173-815,macu1259,http://concepticon.clld.org/parameters/1456,yenumɨ,throw
+173-523,macu1259,http://concepticon.clld.org/parameters/702,yapiʔsɨ,catch (ball)
+173-399,macu1259,http://concepticon.clld.org/parameters/1909,tuʔma,shake
+173-143,macu1259,http://concepticon.clld.org/parameters/1088,eseronka,sink
+173-48,macu1259,http://concepticon.clld.org/parameters/1574,merenkatɨ,float
+173-191,macu1259,http://concepticon.clld.org/parameters/1439,u-pɨnɨnu,swim
+173-437,macu1259,http://concepticon.clld.org/parameters/119,arapumɨ tuna ka,dive
+173-678,macu1259,http://concepticon.clld.org/parameters/365,tuna arapumɨ u-pona,splash
+173-210,macu1259,http://concepticon.clld.org/parameters/1441,awainamu,fly (vb)
+173-698,macu1259,http://concepticon.clld.org/parameters/175,pumɨ,blow
+173-207,macu1259,http://concepticon.clld.org/parameters/96,eʔworoʔka,"creep, crawl"
+173-540,macu1259,http://concepticon.clld.org/parameters/66,aweʔsɨkunka,kneel
+173-182,macu1259,http://concepticon.clld.org/parameters/296,eʔtamɨika-saʔ,crouch
+173-695,macu1259,http://concepticon.clld.org/parameters/1324,aweʔ-taraika-saʔ,"slide, slip"
+173-553,macu1259,http://concepticon.clld.org/parameters/1829,arapumɨ,"jump, leap"
+173-344,macu1259,http://concepticon.clld.org/parameters/1135,tukka,kick
+173-192,macu1259,http://concepticon.clld.org/parameters/1879,mananu,dance
+173-492,macu1259,http://concepticon.clld.org/parameters/1443,asarɨ,walk
+173-742,macu1259,http://concepticon.clld.org/parameters/366,tɨkɨi pe attɨ,limp
+173-21,macu1259,http://concepticon.clld.org/parameters/1519,ekaʔtumɨ,run
+173-234,macu1259,http://concepticon.clld.org/parameters/695,wɨtɨ,go
+173-90,macu1259,http://concepticon.clld.org/parameters/705,enuku,go up
+173-90,macu1259,http://concepticon.clld.org/parameters/1102,enuku,climb
+173-32,macu1259,http://concepticon.clld.org/parameters/2014,autɨ,go down
+173-56,macu1259,http://concepticon.clld.org/parameters/1107,epaʔka,go out
+173-319,macu1259,http://concepticon.clld.org/parameters/1446,iipɨ,come
+173-168,macu1259,http://concepticon.clld.org/parameters/581,ennaʔpo,come back
+173-56,macu1259,http://concepticon.clld.org/parameters/1752,epaʔka,"go away, depart"
+173-642,macu1259,http://concepticon.clld.org/parameters/485,e-esenomɨ,disappear
+173-1,macu1259,http://concepticon.clld.org/parameters/956,eepe,flee
+173-387,macu1259,http://concepticon.clld.org/parameters/1085,wenaimɨ,follow
+173-629,macu1259,http://concepticon.clld.org/parameters/1047,yuwa-i attɨ,pursue
+173-296,macu1259,http://concepticon.clld.org/parameters/1387,erepamɨ,"reach, arrive"
+173-546,macu1259,http://concepticon.clld.org/parameters/1778,yeporɨ,approach
+173-557,macu1259,http://concepticon.clld.org/parameters/749,ewomɨ,enter
+173-89,macu1259,http://concepticon.clld.org/parameters/700,yarɨ,carry (bear)
+173-160,macu1259,http://concepticon.clld.org/parameters/412,u-yenya yaʔ yarɨ,carry-in-hand
+173-270,macu1259,http://concepticon.clld.org/parameters/413,u-mota po yarɨ,carry-on-shoulder
+173-75,macu1259,http://concepticon.clld.org/parameters/414,u-puʔpai po yarɨ,carry-on-head
+173-747,macu1259,http://concepticon.clld.org/parameters/415,u-yewaʔtana yarɨ,carry-underarm
+173-566,macu1259,http://concepticon.clld.org/parameters/692,enepɨ,bring
+173-305,macu1259,http://concepticon.clld.org/parameters/1127,yarima,send
+173-201,macu1259,http://concepticon.clld.org/parameters/43,pinunpa,lead (vb)
+173-344,macu1259,http://concepticon.clld.org/parameters/1452,tukka,"push, shove"
+173-244,macu1259,http://concepticon.clld.org/parameters/667,eʔma,road
+173-244,macu1259,http://concepticon.clld.org/parameters/2252,eʔma,path
+173-825,macu1259,http://concepticon.clld.org/parameters/1011,miyeʔ,bridge
+173-373,macu1259,http://concepticon.clld.org/parameters/122,tararan,"carriage, wagon, cart"
+173-8,macu1259,http://concepticon.clld.org/parameters/710,tararan pisaʔsaʔ,wheel
+173-303,macu1259,http://concepticon.clld.org/parameters/740,apoʔ yen,ship
+173-597,macu1259,http://concepticon.clld.org/parameters/1970,kanau,canoe
+173-49,macu1259,http://concepticon.clld.org/parameters/234,naire,paddle (noun)
+173-202,macu1259,http://concepticon.clld.org/parameters/1849,kuru,row (vb)
+173-20,macu1259,http://concepticon.clld.org/parameters/773,moro nai aa-pia,have
+173-671,macu1259,http://concepticon.clld.org/parameters/1749,moʔka,take
+173-523,macu1259,http://concepticon.clld.org/parameters/2021,yapiʔsɨ,"seize, grasp"
+173-4,macu1259,http://concepticon.clld.org/parameters/694,eraʔma,"get, obtain"
+173-818,macu1259,http://concepticon.clld.org/parameters/1477,koʔmamɨ,"keep, retain"
+173-811,macu1259,http://concepticon.clld.org/parameters/738,yemane,thing
+173-117,macu1259,http://concepticon.clld.org/parameters/1447,tɨrɨ,give
+173-802,macu1259,http://concepticon.clld.org/parameters/85,innaʔpo,give back
+173-297,macu1259,http://concepticon.clld.org/parameters/1997,koneka,"preserve, look after"
+173-352,macu1259,http://concepticon.clld.org/parameters/2008,pɨikaʔtɨ,"save, rescue"
+173-72,macu1259,http://concepticon.clld.org/parameters/44,maʔta,"harm, injure, damage"
+173-665,macu1259,http://concepticon.clld.org/parameters/1468,yuwa,"seek, look for"
+173-505,macu1259,http://concepticon.clld.org/parameters/719,eporɨ,find
+173-574,macu1259,http://concepticon.clld.org/parameters/1660,yakaʔma,lose
+173-139,macu1259,http://concepticon.clld.org/parameters/1095,rumaka,"release, let go"
+173-70,macu1259,http://concepticon.clld.org/parameters/712,ipɨkku,rich
+173-367,macu1259,http://concepticon.clld.org/parameters/1674,ɨʔ ton pɨn,poor
+173-693,macu1259,http://concepticon.clld.org/parameters/1774,anne,"avaricious, stingy"
+173-631,macu1259,http://concepticon.clld.org/parameters/369,ipeʔmara,owe
+173-631,macu1259,http://concepticon.clld.org/parameters/1914,ipeʔmara,debt
+173-239,macu1259,http://concepticon.clld.org/parameters/718,yeʔma,pay (vb)
+173-713,macu1259,http://concepticon.clld.org/parameters/1869,yenna,buy
+173-469,macu1259,http://concepticon.clld.org/parameters/1571,siranma,sell
+173-781,macu1259,http://concepticon.clld.org/parameters/2135,puana,"trade, barter"
+173-331,macu1259,http://concepticon.clld.org/parameters/657,itepe,price
+173-237,macu1259,http://concepticon.clld.org/parameters/1426,ipeʔ ke,"dear (costly, expensive)"
+173-631,macu1259,http://concepticon.clld.org/parameters/1887,ipeʔmara,cheap
+173-117,macu1259,http://concepticon.clld.org/parameters/884,tɨrɨ,share (distribute)
+173-114,macu1259,http://concepticon.clld.org/parameters/1098,kuʔneʔtɨ,weigh
+173-701,macu1259,http://concepticon.clld.org/parameters/1685,tɨpo,after
+173-814,macu1259,http://concepticon.clld.org/parameters/723,iteʔmaʔpɨ,behind
+173-109,macu1259,http://concepticon.clld.org/parameters/1816,pia,beside
+173-33,macu1259,http://concepticon.clld.org/parameters/1326,yepoi,"down, below"
+173-22,macu1259,http://concepticon.clld.org/parameters/1882,arape,before
+173-627,macu1259,http://concepticon.clld.org/parameters/1882,i-rawɨrɨ,before
+173-138,macu1259,http://concepticon.clld.org/parameters/1019,wɨttɨ yenpata,front
+173-228,macu1259,http://concepticon.clld.org/parameters/1606,ya,"inside, in"
+173-341,macu1259,http://concepticon.clld.org/parameters/762,poro po,outside
+173-110,macu1259,http://concepticon.clld.org/parameters/1485,yoʔko,under
+173-33,macu1259,http://concepticon.clld.org/parameters/1591,yepoi,"up, above"
+173-98,macu1259,http://concepticon.clld.org/parameters/1591,pairɨ,"up, above"
+173-79,macu1259,http://concepticon.clld.org/parameters/723,pata,place
+173-117,macu1259,http://concepticon.clld.org/parameters/998,tɨrɨ,put
+173-726,macu1259,http://concepticon.clld.org/parameters/1416,ereuta,sit
+173-60,macu1259,http://concepticon.clld.org/parameters/215,aittun,lie down
+173-294,macu1259,http://concepticon.clld.org/parameters/1442,satti pe,stand
+173-818,macu1259,http://concepticon.clld.org/parameters/987,koʔmamɨ,"remain, stay"
+173-485,macu1259,http://concepticon.clld.org/parameters/838,itonparɨʔpɨ,"remains, left overs"
+173-785,macu1259,http://concepticon.clld.org/parameters/7,perepɨ,"collect, gather"
+173-674,macu1259,http://concepticon.clld.org/parameters/371,yanumɨ,pick up
+173-710,macu1259,http://concepticon.clld.org/parameters/1119,pantaka,divide
+173-216,macu1259,http://concepticon.clld.org/parameters/1156,atarakamɨ-ka,open
+173-712,macu1259,http://concepticon.clld.org/parameters/1046,atarakamɨ,"shut, close"
+173-412,macu1259,http://concepticon.clld.org/parameters/761,yettapurɨ,cover
+173-749,macu1259,http://concepticon.clld.org/parameters/602,esonomɨ,"hide, conceal"
+173-236,macu1259,http://concepticon.clld.org/parameters/1265,kawɨne,high
+173-243,macu1259,http://concepticon.clld.org/parameters/721,non poro,low
+173-157,macu1259,http://concepticon.clld.org/parameters/1753,i-pona,top
+173-63,macu1259,http://concepticon.clld.org/parameters/690,panela maikko,bottom
+173-287,macu1259,http://concepticon.clld.org/parameters/742,ikɨnɨʔpɨ,end
+173-164,macu1259,http://concepticon.clld.org/parameters/863,ena,edge
+173-240,macu1259,http://concepticon.clld.org/parameters/682,iratai,side
+173-472,macu1259,http://concepticon.clld.org/parameters/1093,arakkita,"middle, center"
+173-628,macu1259,http://concepticon.clld.org/parameters/1019,mai-winɨkɨi,right (side)
+173-544,macu1259,http://concepticon.clld.org/parameters/244,kai-winɨkɨi,left (side)
+173-784,macu1259,http://concepticon.clld.org/parameters/1942,aminke pra,near (adv)
+173-272,macu1259,http://concepticon.clld.org/parameters/1406,aminke,far (adv)
+173-488,macu1259,http://concepticon.clld.org/parameters/1877,wei epaʔka winɨ,east
+173-67,macu1259,http://concepticon.clld.org/parameters/1817,wei ewomɨ winɨ,west
+173-790,macu1259,http://concepticon.clld.org/parameters/479,akɨpɨ,grow
+173-30,macu1259,http://concepticon.clld.org/parameters/479,arenta,grow
+173-114,macu1259,http://concepticon.clld.org/parameters/1506,kuʔneʔtɨ,measure
+173-256,macu1259,http://concepticon.clld.org/parameters/1202,kureʔne,"large, big"
+173-106,macu1259,http://concepticon.clld.org/parameters/1246,siʔmɨrikkɨ,"small, little"
+173-673,macu1259,http://concepticon.clld.org/parameters/1203,kusan,long
+173-673,macu1259,http://concepticon.clld.org/parameters/711,kusan,tall
+173-211,macu1259,http://concepticon.clld.org/parameters/1645,piaʔmɨtɨ,short
+173-776,macu1259,http://concepticon.clld.org/parameters/1243,iwene,"wide, broad"
+173-765,macu1259,http://concepticon.clld.org/parameters/1267,tuʔnakan,narrow
+173-819,macu1259,http://concepticon.clld.org/parameters/1244,ereʔsin,thick (in dimension)
+173-533,macu1259,http://concepticon.clld.org/parameters/1400,siiriru,thin (in dimension)
+173-536,macu1259,http://concepticon.clld.org/parameters/1593,mairon,deep
+173-668,macu1259,http://concepticon.clld.org/parameters/193,arenpuru,shallow
+173-57,macu1259,http://concepticon.clld.org/parameters/1404,awemɨn,straight
+173-786,macu1259,http://concepticon.clld.org/parameters/1404,toʔsarɨ,straight
+173-302,macu1259,http://concepticon.clld.org/parameters/297,weye-pan,crooked
+173-227,macu1259,http://concepticon.clld.org/parameters/1071,i-teʔna,hook
+173-398,macu1259,http://concepticon.clld.org/parameters/192,akoʔtɨnaʔ,corner
+173-821,macu1259,http://concepticon.clld.org/parameters/1367,pakɨʔnan,cross
+173-142,macu1259,http://concepticon.clld.org/parameters/1395,amokoʔwarɨ,round
+173-142,macu1259,http://concepticon.clld.org/parameters/1467,amokoʔwarɨ,circle
+173-142,macu1259,http://concepticon.clld.org/parameters/1845,amokoʔwarɨ,"sphere, ball"
+173-330,macu1259,http://concepticon.clld.org/parameters/1048,katɨn,line
+173-400,macu1259,http://concepticon.clld.org/parameters/1667,aʔta,hole
+173-65,macu1259,http://concepticon.clld.org/parameters/1558,warantɨ,"like, similar"
+173-692,macu1259,http://concepticon.clld.org/parameters/1264,miaʔka,change
+173-367,macu1259,http://concepticon.clld.org/parameters/1294,ɨʔ ton pɨn,"zero, nothing"
+173-796,macu1259,http://concepticon.clld.org/parameters/1515,tiwin,one
+173-224,macu1259,http://concepticon.clld.org/parameters/1498,asakɨʔne,two
+173-283,macu1259,http://concepticon.clld.org/parameters/492,eseurɨwɨʔne,three
+173-171,macu1259,http://concepticon.clld.org/parameters/1500,saakɨrɨrɨ,four
+173-162,macu1259,http://concepticon.clld.org/parameters/493,miaʔtaikin,five
+173-601,macu1259,http://concepticon.clld.org/parameters/1703,tiwin miaʔ pona tɨɨmoʔtai,six
+173-507,macu1259,http://concepticon.clld.org/parameters/1704,asakɨne miaʔ pona tɨɨmoʔtai,seven
+173-809,macu1259,http://concepticon.clld.org/parameters/1705,eseurɨwɨʔne miaʔ pona tɨɨmoʔtai,eight
+173-681,macu1259,http://concepticon.clld.org/parameters/1483,saakɨrɨrɨ miaʔ pona tɨɨmoʔtai,nine
+173-167,macu1259,http://concepticon.clld.org/parameters/1515,miaʔ tamɨʔnawɨrɨ,ten
+173-424,macu1259,http://concepticon.clld.org/parameters/1706,tiwin puʔ pona tɨɨmoʔtai,eleven
+173-289,macu1259,http://concepticon.clld.org/parameters/1707,asakɨʔne puʔ pona tɨɨmoʔtai,twelve
+173-817,macu1259,http://concepticon.clld.org/parameters/1710,tiwin pemonkon,twenty
+173-114,macu1259,http://concepticon.clld.org/parameters/1420,kuʔneʔtɨ,count
+173-40,macu1259,http://concepticon.clld.org/parameters/98,tamɨʔnawɨrɨ,"every, all"
+173-158,macu1259,http://concepticon.clld.org/parameters/1198,tuʔke,"much, many"
+173-390,macu1259,http://concepticon.clld.org/parameters/1992,inɨʔ,more
+173-190,macu1259,http://concepticon.clld.org/parameters/1242,mararɨ,"little (quantity), few"
+173-121,macu1259,http://concepticon.clld.org/parameters/1881,aasɨrɨ,enough
+173-771,macu1259,http://concepticon.clld.org/parameters/1241,tiaron,some
+173-549,macu1259,http://concepticon.clld.org/parameters/2023,mararonkon pepɨn,"multitude, crowd"
+173-2,macu1259,http://concepticon.clld.org/parameters/1429,intapɨkɨrɨ,full
+173-194,macu1259,http://concepticon.clld.org/parameters/1624,itenpɨ,empty
+173-225,macu1259,http://concepticon.clld.org/parameters/779,itonpa,"part, piece"
+173-829,macu1259,http://concepticon.clld.org/parameters/816,arakkita pairɨ,half
+173-661,macu1259,http://concepticon.clld.org/parameters/1580,tiwinsarɨ,"alone, only"
+173-84,macu1259,http://concepticon.clld.org/parameters/728,eʔmaiʔpe,first
+173-287,macu1259,http://concepticon.clld.org/parameters/1529,ikɨnɨʔpɨ,last
+173-662,macu1259,http://concepticon.clld.org/parameters/1384,itonpa pe,second
+173-443,macu1259,http://concepticon.clld.org/parameters/1888,saʔnɨrɨ,pair
+173-441,macu1259,http://concepticon.clld.org/parameters/1546,saʔteʔka,two times
+173-452,macu1259,http://concepticon.clld.org/parameters/1859,teeseurɨnon,third
+173-39,macu1259,http://concepticon.clld.org/parameters/417,teeseurɨʔne-iteʔka,three times
+173-672,macu1259,http://concepticon.clld.org/parameters/892,pensa,time
+173-24,macu1259,http://concepticon.clld.org/parameters/1789,i-kono po,age
+173-231,macu1259,http://concepticon.clld.org/parameters/1231,amenan,new
+173-436,macu1259,http://concepticon.clld.org/parameters/1207,maasaron,young
+173-457,macu1259,http://concepticon.clld.org/parameters/1229,penaroʔ,old
+173-737,macu1259,http://concepticon.clld.org/parameters/672,penane puʔkuru,early
+173-770,macu1259,http://concepticon.clld.org/parameters/477,tɨɨkoʔman pe,late
+173-519,macu1259,http://concepticon.clld.org/parameters/1376,sɨrɨrɨ,now
+173-290,macu1259,http://concepticon.clld.org/parameters/1963,tiwinarɨ,immediately
+173-118,macu1259,http://concepticon.clld.org/parameters/1631,kaʔneʔpe,"swift, fast, quick"
+173-281,macu1259,http://concepticon.clld.org/parameters/701,tɨnɨn pɨʔ,slow
+173-154,macu1259,http://concepticon.clld.org/parameters/754,teesemiʔtɨpai,"hasten, hurry"
+173-759,macu1259,http://concepticon.clld.org/parameters/425,maasa,"retard, delay"
+173-479,macu1259,http://concepticon.clld.org/parameters/1806,piaʔtɨ,"begin, beginning"
+173-287,macu1259,http://concepticon.clld.org/parameters/743,ikɨnɨʔpɨ,end (temporal)
+173-761,macu1259,http://concepticon.clld.org/parameters/1766,aretɨʔka,finish
+173-780,macu1259,http://concepticon.clld.org/parameters/1928,emɨʔpamɨ,"cease, stop"
+173-121,macu1259,http://concepticon.clld.org/parameters/790,aasɨrɨ,ready
+173-641,macu1259,http://concepticon.clld.org/parameters/1676,tɨwɨrɨ,always
+173-103,macu1259,http://concepticon.clld.org/parameters/1852,ikoʔnoro,often
+173-359,macu1259,http://concepticon.clld.org/parameters/1544,tiaron pensa,sometimes
+173-732,macu1259,http://concepticon.clld.org/parameters/703,o,soon
+173-816,macu1259,http://concepticon.clld.org/parameters/1656,tiwin ken,never
+173-602,macu1259,http://concepticon.clld.org/parameters/204,inɨʔrɨ,again
+173-633,macu1259,http://concepticon.clld.org/parameters/1260,wei,day
+173-222,macu1259,http://concepticon.clld.org/parameters/1233,ewaron,night
+173-717,macu1259,http://concepticon.clld.org/parameters/729,erenmapɨ,dawn
+173-737,macu1259,http://concepticon.clld.org/parameters/1339,penane puʔkuru,morning
+173-51,macu1259,http://concepticon.clld.org/parameters/12,nekata pairɨ wei tɨɨse,"noon, midday"
+173-716,macu1259,http://concepticon.clld.org/parameters/1807,koʔmamɨiya,afternoon
+173-581,macu1259,http://concepticon.clld.org/parameters/1283,sɨrɨrɨpe,today
+173-404,macu1259,http://concepticon.clld.org/parameters/1329,penane,tomorrow
+173-682,macu1259,http://concepticon.clld.org/parameters/1179,penane tɨɨkoʔmanse,day-after-tomorrow
+173-718,macu1259,http://concepticon.clld.org/parameters/1174,koʔmanpra,yesterday
+173-205,macu1259,http://concepticon.clld.org/parameters/1180,mini koʔmanpra,day-before-yesterday
+173-561,macu1259,http://concepticon.clld.org/parameters/1469,tiwin suntaka,week
+173-463,macu1259,http://concepticon.clld.org/parameters/1370,kapoi,month
+173-625,macu1259,http://concepticon.clld.org/parameters/1226,konoʔ,year
+173-663,macu1259,http://concepticon.clld.org/parameters/691,konoʔyai,season
+173-185,macu1259,http://concepticon.clld.org/parameters/691,wei yai,season
+173-470,macu1259,http://concepticon.clld.org/parameters/1587,puʔnɨkɨ,smell (vb intrans)
+173-3,macu1259,http://concepticon.clld.org/parameters/376,aʔposin,"fragrant, good smelling"
+173-724,macu1259,http://concepticon.clld.org/parameters/42,ikɨ,"stinking, bad smelling"
+173-266,macu1259,http://concepticon.clld.org/parameters/21,ipo pe,taste
+173-264,macu1259,http://concepticon.clld.org/parameters/717,aʔkiʔku,sweet
+173-199,macu1259,http://concepticon.clld.org/parameters/1091,inɨʔne,salty
+173-489,macu1259,http://concepticon.clld.org/parameters/887,maiʔ,bitter
+173-545,macu1259,http://concepticon.clld.org/parameters/1906,soʔri,"acid, sour"
+173-494,macu1259,http://concepticon.clld.org/parameters/1408,eta,hear
+173-336,macu1259,http://concepticon.clld.org/parameters/1811,wawa taa toʔ-ya,"sound, noise"
+173-215,macu1259,http://concepticon.clld.org/parameters/377,aronne,loud
+173-656,macu1259,http://concepticon.clld.org/parameters/1314,moo,"quiet, silence"
+173-4,macu1259,http://concepticon.clld.org/parameters/1409,eraʔma,see
+173-618,macu1259,http://concepticon.clld.org/parameters/1819,aʔkɨ,"look, look at"
+173-705,macu1259,http://concepticon.clld.org/parameters/1039,yenpo,show
+173-758,macu1259,http://concepticon.clld.org/parameters/708,weiyuʔma,shine
+173-686,macu1259,http://concepticon.clld.org/parameters/706,suuyu,dark (in color)
+173-683,macu1259,http://concepticon.clld.org/parameters/1335,aimutun,white
+173-688,macu1259,http://concepticon.clld.org/parameters/163,arikkɨtun,black
+173-686,macu1259,http://concepticon.clld.org/parameters/156,suuyu,red
+173-91,macu1259,http://concepticon.clld.org/parameters/837,rora,blue
+173-91,macu1259,http://concepticon.clld.org/parameters/1425,rora,green
+173-611,macu1259,http://concepticon.clld.org/parameters/1424,aʔmutun,yellow
+173-88,macu1259,http://concepticon.clld.org/parameters/1892,yapɨ,touch
+173-623,macu1259,http://concepticon.clld.org/parameters/378,nɨkɨ,pinch
+173-88,macu1259,http://concepticon.clld.org/parameters/1079,yapɨ,feel
+173-195,macu1259,http://concepticon.clld.org/parameters/1884,saʔme,hard
+173-474,macu1259,http://concepticon.clld.org/parameters/1856,we,soft
+173-80,macu1259,http://concepticon.clld.org/parameters/1234,erekkuru,smooth
+173-756,macu1259,http://concepticon.clld.org/parameters/1396,ikeʔ,sharp
+173-521,macu1259,http://concepticon.clld.org/parameters/379,ikeʔ-mara,"blunt, dull"
+173-502,macu1259,http://concepticon.clld.org/parameters/1210,amaiʔne,heavy
+173-347,macu1259,http://concepticon.clld.org/parameters/1052,amaiʔmara,light (in weight)
+173-589,macu1259,http://concepticon.clld.org/parameters/1726,aman-saʔ,"wet, damp"
+173-140,macu1259,http://concepticon.clld.org/parameters/1398,awaʔpiʔta,dry
+173-86,macu1259,http://concepticon.clld.org/parameters/1286,aʔneʔ,hot
+173-150,macu1259,http://concepticon.clld.org/parameters/1287,komiʔ,cold
+173-315,macu1259,http://concepticon.clld.org/parameters/704,morɨ,clean
+173-73,macu1259,http://concepticon.clld.org/parameters/1230,koron,"dirty, soiled"
+173-123,macu1259,http://concepticon.clld.org/parameters/1230,nora,"dirty, soiled"
+173-752,macu1259,http://concepticon.clld.org/parameters/53,yekaton,"soul, spirit"
+173-170,macu1259,http://concepticon.clld.org/parameters/1572,esiʔnɨpɨ,"surprised, astonished"
+173-77,macu1259,http://concepticon.clld.org/parameters/1495,atausinpa,"joyful, glad, happy"
+173-173,macu1259,http://concepticon.clld.org/parameters/1355,sii,laugh
+173-793,macu1259,http://concepticon.clld.org/parameters/1413,suʔmin,play
+173-569,macu1259,http://concepticon.clld.org/parameters/923,saʔnama,love
+173-93,macu1259,http://concepticon.clld.org/parameters/578,yuʔna,kiss
+173-229,macu1259,http://concepticon.clld.org/parameters/1783,neʔneʔ,pain
+173-271,macu1259,http://concepticon.clld.org/parameters/1668,es-ewankonoʔma,"grief, sorrow, sadness"
+173-235,macu1259,http://concepticon.clld.org/parameters/1000,teesenumenkai,"anxiety, worry"
+173-271,macu1259,http://concepticon.clld.org/parameters/1875,es-ewankonoʔma,"regret, be sorry"
+173-569,macu1259,http://concepticon.clld.org/parameters/1141,saʔnama,pity
+173-767,macu1259,http://concepticon.clld.org/parameters/1839,ikarau,"cry, weep"
+173-769,macu1259,http://concepticon.clld.org/parameters/1651,enmusukuru,tear (noun)
+173-355,macu1259,http://concepticon.clld.org/parameters/716,es-ekaʔnunka,groan
+173-548,macu1259,http://concepticon.clld.org/parameters/1607,yewanmɨrɨ,hate
+173-385,macu1259,http://concepticon.clld.org/parameters/82,ekoreʔma-toʔ,anger
+173-787,macu1259,http://concepticon.clld.org/parameters/40,kiimuwa,"envy, jealousy"
+173-578,macu1259,http://concepticon.clld.org/parameters/174,mɨɨ pe,proud
+173-268,macu1259,http://concepticon.clld.org/parameters/3,meruntɨ,brave
+173-170,macu1259,http://concepticon.clld.org/parameters/781,esiʔnɨpɨ,"fear, fright"
+173-349,macu1259,http://concepticon.clld.org/parameters/1810,nariʔ,danger
+173-155,macu1259,http://concepticon.clld.org/parameters/1784,yuʔse,"desire, want"
+173-671,macu1259,http://concepticon.clld.org/parameters/1750,moʔka,choose
+173-165,macu1259,http://concepticon.clld.org/parameters/1657,innarɨ,true
+173-335,macu1259,http://concepticon.clld.org/parameters/601,seruʔ,"lie, tell lies"
+173-377,macu1259,http://concepticon.clld.org/parameters/601,seruʔ-ma,"lie, tell lies"
+173-232,macu1259,http://concepticon.clld.org/parameters/13,yenkuʔtɨ,deceit
+173-318,macu1259,http://concepticon.clld.org/parameters/1528,tɨɨwanmɨra ikupɨ,forgive
+173-315,macu1259,http://concepticon.clld.org/parameters/1035,morɨ,good
+173-407,macu1259,http://concepticon.clld.org/parameters/1292,imakuiʔpɨ,bad
+173-444,macu1259,http://concepticon.clld.org/parameters/1725,yairɨ,"right, correct"
+173-547,macu1259,http://concepticon.clld.org/parameters/1390,yairɨ pra,wrong
+173-551,macu1259,http://concepticon.clld.org/parameters/1293,puremekɨ,"mistake, error"
+173-475,macu1259,http://concepticon.clld.org/parameters/1687,yapurɨ,praise
+173-183,macu1259,http://concepticon.clld.org/parameters/1427,emaʔnon pe,beautiful
+173-123,macu1259,http://concepticon.clld.org/parameters/1548,nora,ugly
+173-697,macu1259,http://concepticon.clld.org/parameters/1310,ariʔku,clever
+173-337,macu1259,http://concepticon.clld.org/parameters/1562,esenumenka-toʔ,mind
+173-621,macu1259,http://concepticon.clld.org/parameters/1415,esenumenka,think (= reflect)
+173-238,macu1259,http://concepticon.clld.org/parameters/1890,innape ikupɨ,believe
+173-273,macu1259,http://concepticon.clld.org/parameters/1536,epuʔtɨ,understand
+173-273,macu1259,http://concepticon.clld.org/parameters/1410,epuʔtɨ,know
+173-708,macu1259,http://concepticon.clld.org/parameters/698,epuʔnen,wise
+173-734,macu1259,http://concepticon.clld.org/parameters/1899,yawɨ pe,"insane, crazy"
+173-350,macu1259,http://concepticon.clld.org/parameters/504,esenupa,learn
+173-350,macu1259,http://concepticon.clld.org/parameters/1929,esenupa,study
+173-101,macu1259,http://concepticon.clld.org/parameters/709,yenupa,teach
+173-388,macu1259,http://concepticon.clld.org/parameters/753,teesenupasen,pupil
+173-346,macu1259,http://concepticon.clld.org/parameters/1038,yenupanen,teacher
+173-426,macu1259,http://concepticon.clld.org/parameters/707,enpenata,remember
+173-778,macu1259,http://concepticon.clld.org/parameters/1523,yewanmɨra,forget
+173-215,macu1259,http://concepticon.clld.org/parameters/989,aronne,"clear, plain"
+173-262,macu1259,http://concepticon.clld.org/parameters/1121,amaʔ pe,secret
+173-444,macu1259,http://concepticon.clld.org/parameters/509,yairɨ,"sure, certain"
+173-50,macu1259,http://concepticon.clld.org/parameters/1626,ekaremekɨ,explain
+173-14,macu1259,http://concepticon.clld.org/parameters/1308,kaʔrɨ,doubt
+173-37,macu1259,http://concepticon.clld.org/parameters/1308,naka,doubt
+173-155,macu1259,http://concepticon.clld.org/parameters/643,yuʔse,"need, necessity"
+173-55,macu1259,http://concepticon.clld.org/parameters/686,saʔme pra,easy
+173-195,macu1259,http://concepticon.clld.org/parameters/584,saʔme,difficult
+173-265,macu1259,http://concepticon.clld.org/parameters/1812,yonpa,"try, attempt"
+173-116,macu1259,http://concepticon.clld.org/parameters/488,yeseru,"way, manner"
+173-427,macu1259,http://concepticon.clld.org/parameters/1577,moropai,and
+173-480,macu1259,http://concepticon.clld.org/parameters/1157,yeʔnen,because
+173-228,macu1259,http://concepticon.clld.org/parameters/1459,ya,if
+173-14,macu1259,http://concepticon.clld.org/parameters/1014,kaʔrɨ,or
+173-454,macu1259,http://concepticon.clld.org/parameters/1268,inna,"yes, affirmative"
+173-176,macu1259,http://concepticon.clld.org/parameters/1269,kaane,"no, negative"
+173-422,macu1259,http://concepticon.clld.org/parameters/1239,oʔnon yeʔka,how?
+173-78,macu1259,http://concepticon.clld.org/parameters/822,ɨʔwarapo,how many?
+173-78,macu1259,http://concepticon.clld.org/parameters/531,ɨʔwarapo,how much?
+173-58,macu1259,http://concepticon.clld.org/parameters/1236,ɨʔ,what?
+173-439,macu1259,http://concepticon.clld.org/parameters/1238,ɨʔ pensa,when?
+173-111,macu1259,http://concepticon.clld.org/parameters/1237,oʔnon pata,where?
+173-490,macu1259,http://concepticon.clld.org/parameters/727,oʔnon,which?
+173-54,macu1259,http://concepticon.clld.org/parameters/1235,anɨʔ,who?
+173-750,macu1259,http://concepticon.clld.org/parameters/1270,ɨʔ ton pe,why?
+173-743,macu1259,http://concepticon.clld.org/parameters/1363,i-maimu,voice
+173-527,macu1259,http://concepticon.clld.org/parameters/1261,eserenka maimu,sing
+173-675,macu1259,http://concepticon.clld.org/parameters/715,entaimepɨtɨ,"shout, cry out"
+173-425,macu1259,http://concepticon.clld.org/parameters/55,amaʔ-pe es-eurɨma,whisper
+173-583,macu1259,http://concepticon.clld.org/parameters/1025,tɨ-pottɨ yeʔnunpa-i-ya,whistle
+173-159,macu1259,http://concepticon.clld.org/parameters/1623,es-eurɨma,"speak, talk"
+173-762,macu1259,http://concepticon.clld.org/parameters/1458,taa,say
+173-50,macu1259,http://concepticon.clld.org/parameters/1711,ekaremekɨ,tell story
+173-656,macu1259,http://concepticon.clld.org/parameters/48,moo,silent (be)
+173-18,macu1259,http://concepticon.clld.org/parameters/1307,maimu,language
+173-187,macu1259,http://concepticon.clld.org/parameters/1599,mai,word
+173-151,macu1259,http://concepticon.clld.org/parameters/1405,yeseʔ,name
+173-497,macu1259,http://concepticon.clld.org/parameters/1309,ekaranmapo,"ask (question, inquire)"
+173-643,macu1259,http://concepticon.clld.org/parameters/1275,yuuku,answer
+173-50,macu1259,http://concepticon.clld.org/parameters/2022,ekaremekɨ,"admit, confess"
+173-104,macu1259,http://concepticon.clld.org/parameters/1828,esatɨ,"ask, request"
+173-320,macu1259,http://concepticon.clld.org/parameters/299,yeurɨma,"rebuke, scold"
+173-594,macu1259,http://concepticon.clld.org/parameters/1084,yeta,call (=summon)
+173-104,macu1259,http://concepticon.clld.org/parameters/180,esatɨ,call (=name)
+173-233,macu1259,http://concepticon.clld.org/parameters/1672,menuka,write
+173-391,macu1259,http://concepticon.clld.org/parameters/724,erenka,read
+173-245,macu1259,http://concepticon.clld.org/parameters/648,[kaareta],paper
+173-245,macu1259,http://concepticon.clld.org/parameters/963,[kaareta],book
+173-79,macu1259,http://concepticon.clld.org/parameters/1300,pata,country
+173-704,macu1259,http://concepticon.clld.org/parameters/789,pemonkon-yamɨʔ,people (populace)
+173-394,macu1259,http://concepticon.clld.org/parameters/1296,meʔsipu,"staff, walking stick"
+173-17,macu1259,http://concepticon.clld.org/parameters/1508,yaipontɨ,"king, ruler"
+173-541,macu1259,http://concepticon.clld.org/parameters/383,yepotorɨ,master
+173-687,macu1259,http://concepticon.clld.org/parameters/812,yepoitorɨ,slave
+173-687,macu1259,http://concepticon.clld.org/parameters/255,yepoitorɨ,servant
+173-17,macu1259,http://concepticon.clld.org/parameters/1128,yaipontɨ,"command, order"
+173-643,macu1259,http://concepticon.clld.org/parameters/1635,yuuku,obey
+173-117,macu1259,http://concepticon.clld.org/parameters/1003,tɨrɨ,"let, permit"
+173-518,macu1259,http://concepticon.clld.org/parameters/1325,iwaniyakon,"friend, companion"
+173-375,macu1259,http://concepticon.clld.org/parameters/1358,yeyaton,enemy
+173-754,macu1259,http://concepticon.clld.org/parameters/791,kaʔran,stranger
+173-352,macu1259,http://concepticon.clld.org/parameters/1897,pɨikaʔtɨ,"help, aid"
+173-299,macu1259,http://concepticon.clld.org/parameters/1550,maʔnapa,"hinder, prevent"
+173-116,macu1259,http://concepticon.clld.org/parameters/1747,yeseru,custom
+173-515,macu1259,http://concepticon.clld.org/parameters/1848,es-iyuʔ-pɨtɨ,"strife, quarrel"
+173-505,macu1259,http://concepticon.clld.org/parameters/1831,eporɨ,meet
+173-740,macu1259,http://concepticon.clld.org/parameters/1610,ese poro wɨriʔ,prostitute
+173-812,macu1259,http://concepticon.clld.org/parameters/1423,ekoreʔma,fight (vb)
+173-323,macu1259,http://concepticon.clld.org/parameters/579,epɨ,"war, battle"
+173-654,macu1259,http://concepticon.clld.org/parameters/1338,tɨɨwanmɨn,peace
+173-529,macu1259,http://concepticon.clld.org/parameters/1941,[surara],soldier
+173-580,macu1259,http://concepticon.clld.org/parameters/994,urapa,bow
+173-275,macu1259,http://concepticon.clld.org/parameters/977,pɨrɨu,arrow
+173-141,macu1259,http://concepticon.clld.org/parameters/1566,arakkapusaʔ,"gun, cannon"
+173-461,macu1259,http://concepticon.clld.org/parameters/1074,konoi,fishhook
+173-26,macu1259,http://concepticon.clld.org/parameters/19,konoi yewa,fishing line
+173-800,macu1259,http://concepticon.clld.org/parameters/388,[tarappa],fishnet
+173-434,macu1259,http://concepticon.clld.org/parameters/389,pentɨ,fish trap
+173-35,macu1259,http://concepticon.clld.org/parameters/2013,musun,bait
+173-763,macu1259,http://concepticon.clld.org/parameters/1435,wonopɨ,hunt
+173-551,macu1259,http://concepticon.clld.org/parameters/161,puremekɨ,miss (target)
+173-124,macu1259,http://concepticon.clld.org/parameters/1075,maare,trap (noun)
+173-381,macu1259,http://concepticon.clld.org/parameters/845,wɨɨ,murder
+173-435,macu1259,http://concepticon.clld.org/parameters/1792,seruʔyeʔ,perjury
+173-83,macu1259,http://concepticon.clld.org/parameters/713,yamaʔronpa,steal
+173-832,macu1259,http://concepticon.clld.org/parameters/1160,amaʔyeʔ,thief
+173-374,macu1259,http://concepticon.clld.org/parameters/1944,paapa,God
+173-563,macu1259,http://concepticon.clld.org/parameters/911,soosi,"temple, church"
+173-475,macu1259,http://concepticon.clld.org/parameters/257,yapurɨ,worship
+173-609,macu1259,http://concepticon.clld.org/parameters/24,epɨrema,pray
+173-619,macu1259,http://concepticon.clld.org/parameters/852,teepɨremasen,priest
+173-315,macu1259,http://concepticon.clld.org/parameters/1702,morɨ,"holy, sacred"
+173-50,macu1259,http://concepticon.clld.org/parameters/304,ekaremekɨ,preach
+173-13,macu1259,http://concepticon.clld.org/parameters/391,pɨrema,bless
+173-42,macu1259,http://concepticon.clld.org/parameters/8,mɨiʔma,curse
+173-127,macu1259,http://concepticon.clld.org/parameters/1565,kaʔ,heaven
+173-655,macu1259,http://concepticon.clld.org/parameters/878,apoʔ,hell
+173-433,macu1259,http://concepticon.clld.org/parameters/1973,oʔma,demon (evil spirit)
+173-680,macu1259,http://concepticon.clld.org/parameters/392,taren,"magic, witchcraft, sorcery"
+173-384,macu1259,http://concepticon.clld.org/parameters/2137,piaʔsan,"sorcerer, witch"

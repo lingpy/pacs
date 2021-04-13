@@ -1,0 +1,1443 @@
+ID,Language_ID,Feature_ID,Value,Concept
+185-1278,oldn1244,http://concepticon.clld.org/parameters/965,heimr,world
+185-49,oldn1244,http://concepticon.clld.org/parameters/965,verold,world
+185-78,oldn1244,http://concepticon.clld.org/parameters/626,jorð,"earth, land"
+185-1304,oldn1244,http://concepticon.clld.org/parameters/626,land,"earth, land"
+185-680,oldn1244,http://concepticon.clld.org/parameters/2,dupt,dust
+185-989,oldn1244,http://concepticon.clld.org/parameters/2,dust,dust
+185-106,oldn1244,http://concepticon.clld.org/parameters/640,leir,mud
+185-444,oldn1244,http://concepticon.clld.org/parameters/671,sandr,sand
+185-508,oldn1244,http://concepticon.clld.org/parameters/2118,fjall,"mountain, hill"
+185-1260,oldn1244,http://concepticon.clld.org/parameters/652,slētta,"plain, field"
+185-1293,oldn1244,http://concepticon.clld.org/parameters/921,dalr,valley
+185-443,oldn1244,http://concepticon.clld.org/parameters/622,ey,island
+185-747,oldn1244,http://concepticon.clld.org/parameters/622,eyland,island
+185-473,oldn1244,http://concepticon.clld.org/parameters/166,meginland,mainland
+185-136,oldn1244,http://concepticon.clld.org/parameters/113,strond,shore
+185-968,oldn1244,http://concepticon.clld.org/parameters/113,bakki,shore
+185-1109,oldn1244,http://concepticon.clld.org/parameters/948,vatn,water
+185-1046,oldn1244,http://concepticon.clld.org/parameters/1474,haf,sea
+185-111,oldn1244,http://concepticon.clld.org/parameters/1474,sœr,sea
+185-883,oldn1244,http://concepticon.clld.org/parameters/1474,marr,sea
+185-1109,oldn1244,http://concepticon.clld.org/parameters/624,vatn,lake
+185-1190,oldn1244,http://concepticon.clld.org/parameters/663,fjorðr,"gulf, bay"
+185-546,oldn1244,http://concepticon.clld.org/parameters/978,bāra,wave
+185-716,oldn1244,http://concepticon.clld.org/parameters/978,alda,wave
+185-598,oldn1244,http://concepticon.clld.org/parameters/978,bylgja,wave
+185-1127,oldn1244,http://concepticon.clld.org/parameters/978,vāgr,wave
+185-829,oldn1244,http://concepticon.clld.org/parameters/666,ā,"river, stream, brook"
+185-1282,oldn1244,http://concepticon.clld.org/parameters/666,lœkr,"river, stream, brook"
+185-303,oldn1244,http://concepticon.clld.org/parameters/666,bekkr,"river, stream, brook"
+185-526,oldn1244,http://concepticon.clld.org/parameters/2144,kelda,"spring, well"
+185-701,oldn1244,http://concepticon.clld.org/parameters/2144,brunnr,"spring, well"
+185-436,oldn1244,http://concepticon.clld.org/parameters/420,viðr,"woods, forest"
+185-1194,oldn1244,http://concepticon.clld.org/parameters/420,mork,"woods, forest"
+185-1061,oldn1244,http://concepticon.clld.org/parameters/420,skōgr,"woods, forest"
+185-9,oldn1244,http://concepticon.clld.org/parameters/906,trē,tree (cf 08.600)
+185-237,oldn1244,http://concepticon.clld.org/parameters/906,baðmr,tree (cf 08.600)
+185-9,oldn1244,http://concepticon.clld.org/parameters/1803,trē,wood
+185-436,oldn1244,http://concepticon.clld.org/parameters/1803,viðr,wood
+185-314,oldn1244,http://concepticon.clld.org/parameters/2125,steinn,"stone, rock"
+185-428,oldn1244,http://concepticon.clld.org/parameters/1732,himinn,sky
+185-493,oldn1244,http://concepticon.clld.org/parameters/1343,sōl,sun
+185-727,oldn1244,http://concepticon.clld.org/parameters/1343,sunna,sun
+185-1302,oldn1244,http://concepticon.clld.org/parameters/1313,tungl,moon
+185-5,oldn1244,http://concepticon.clld.org/parameters/1313,māni,moon
+185-1157,oldn1244,http://concepticon.clld.org/parameters/1430,stjarna,star
+185-484,oldn1244,http://concepticon.clld.org/parameters/1654,elding,lightning
+185-1164,oldn1244,http://concepticon.clld.org/parameters/1150,reiðar,thunder
+185-156,oldn1244,http://concepticon.clld.org/parameters/1150,θruma,thunder
+185-210,oldn1244,http://concepticon.clld.org/parameters/2007,θōrs hamarr,lightning (as striking)
+185-242,oldn1244,http://concepticon.clld.org/parameters/630,ljōs,light (noun)
+185-1007,oldn1244,http://concepticon.clld.org/parameters/11,myrkr,darkness
+185-1025,oldn1244,http://concepticon.clld.org/parameters/1388,skuggi,"shade, shadow"
+185-616,oldn1244,http://concepticon.clld.org/parameters/27,lopt,air
+185-277,oldn1244,http://concepticon.clld.org/parameters/960,vindr,wind
+185-1213,oldn1244,http://concepticon.clld.org/parameters/1489,skȳ,cloud
+185-541,oldn1244,http://concepticon.clld.org/parameters/249,θoka,fog
+185-649,oldn1244,http://concepticon.clld.org/parameters/658,regn,rain (noun)
+185-641,oldn1244,http://concepticon.clld.org/parameters/784,snœ̄r,snow (noun)
+185-35,oldn1244,http://concepticon.clld.org/parameters/784,snjōr,snow (noun)
+185-653,oldn1244,http://concepticon.clld.org/parameters/784,snjār,snow (noun)
+185-1265,oldn1244,http://concepticon.clld.org/parameters/617,īss,ice
+185-904,oldn1244,http://concepticon.clld.org/parameters/952,veðr,weather
+185-1042,oldn1244,http://concepticon.clld.org/parameters/221,eldr,fire
+185-377,oldn1244,http://concepticon.clld.org/parameters/221,fūrr,fire
+185-28,oldn1244,http://concepticon.clld.org/parameters/221,funi,fire
+185-454,oldn1244,http://concepticon.clld.org/parameters/889,logi,flame (noun)
+185-687,oldn1244,http://concepticon.clld.org/parameters/889,leygr,flame (noun)
+185-1185,oldn1244,http://concepticon.clld.org/parameters/778,reykr,smoke (noun)
+185-881,oldn1244,http://concepticon.clld.org/parameters/646,aska,ashes
+185-951,oldn1244,http://concepticon.clld.org/parameters/141,brenna,burn (vb trans)
+185-1009,oldn1244,http://concepticon.clld.org/parameters/1428,brinna,burn (vb intrans)
+185-1132,oldn1244,http://concepticon.clld.org/parameters/737,tendra,"light, kindle, ignite"
+185-86,oldn1244,http://concepticon.clld.org/parameters/737,kynda,"light, kindle, ignite"
+185-33,oldn1244,http://concepticon.clld.org/parameters/683,maðr,"person, human being"
+185-1155,oldn1244,http://concepticon.clld.org/parameters/683,gumi,"person, human being"
+185-33,oldn1244,http://concepticon.clld.org/parameters/1554,maðr,man (vs. woman)
+185-1155,oldn1244,http://concepticon.clld.org/parameters/1554,gumi,man (vs. woman)
+185-343,oldn1244,http://concepticon.clld.org/parameters/962,kona,woman
+185-915,oldn1244,http://concepticon.clld.org/parameters/2263,karl-,male
+185-339,oldn1244,http://concepticon.clld.org/parameters/2263,karl-ligr,male
+185-172,oldn1244,http://concepticon.clld.org/parameters/2260,kvenn-,female
+185-813,oldn1244,http://concepticon.clld.org/parameters/1366,piltr,boy
+185-453,oldn1244,http://concepticon.clld.org/parameters/1646,mœ̄r,girl
+185-805,oldn1244,http://concepticon.clld.org/parameters/1646,stūlka,girl
+185-779,oldn1244,http://concepticon.clld.org/parameters/1304,barn,child
+185-385,oldn1244,http://concepticon.clld.org/parameters/1289,ungbarn,"infant, baby"
+185-48,oldn1244,http://concepticon.clld.org/parameters/1200,verr,husband
+185-33,oldn1244,http://concepticon.clld.org/parameters/1200,maðr,husband
+185-1319,oldn1244,http://concepticon.clld.org/parameters/1200,hūs-bōndi,husband
+185-343,oldn1244,http://concepticon.clld.org/parameters/1199,kona,wife
+185-630,oldn1244,http://concepticon.clld.org/parameters/1199,kvān,wife
+185-765,oldn1244,http://concepticon.clld.org/parameters/203,kvān-gask,marry
+185-37,oldn1244,http://concepticon.clld.org/parameters/203,giptask,marry
+185-917,oldn1244,http://concepticon.clld.org/parameters/1259,giptung,"marriage, wedding"
+185-739,oldn1244,http://concepticon.clld.org/parameters/1259,giptamāl,"marriage, wedding"
+185-792,oldn1244,http://concepticon.clld.org/parameters/1259,brūðkaup,"marriage, wedding"
+185-329,oldn1244,http://concepticon.clld.org/parameters/1259,brullaup,"marriage, wedding"
+185-868,oldn1244,http://concepticon.clld.org/parameters/1217,faðir,father
+185-1070,oldn1244,http://concepticon.clld.org/parameters/1216,mōðir,mother
+185-507,oldn1244,http://concepticon.clld.org/parameters/505,feðgin,parents
+185-34,oldn1244,http://concepticon.clld.org/parameters/1620,sunr,son
+185-58,oldn1244,http://concepticon.clld.org/parameters/1620,sonr,son
+185-823,oldn1244,http://concepticon.clld.org/parameters/1357,dōttir,daughter
+185-4,oldn1244,http://concepticon.clld.org/parameters/1262,brōðir,brother
+185-1038,oldn1244,http://concepticon.clld.org/parameters/1263,systir,sister
+185-143,oldn1244,http://concepticon.clld.org/parameters/1383,foður-faðir,grandfather
+185-1309,oldn1244,http://concepticon.clld.org/parameters/1383,mōður-faðir,grandfather
+185-273,oldn1244,http://concepticon.clld.org/parameters/1383,afi,grandfather
+185-487,oldn1244,http://concepticon.clld.org/parameters/1496,foður-mōðir,grandmother
+185-483,oldn1244,http://concepticon.clld.org/parameters/1496,mōður-mōðir,grandmother
+185-270,oldn1244,http://concepticon.clld.org/parameters/1496,amma,grandmother
+185-383,oldn1244,http://concepticon.clld.org/parameters/1618,sonar-sonr,grandson
+185-953,oldn1244,http://concepticon.clld.org/parameters/1618,dōttur-sonr,grandson
+185-909,oldn1244,http://concepticon.clld.org/parameters/1619,sonar-dōttur,granddaughter
+185-686,oldn1244,http://concepticon.clld.org/parameters/1619,sonar-dōttir,granddaughter
+185-1292,oldn1244,http://concepticon.clld.org/parameters/1984,mōður-brōðir,mother's brother
+185-1117,oldn1244,http://concepticon.clld.org/parameters/1985,foður-brōðir,father's brother
+185-365,oldn1244,http://concepticon.clld.org/parameters/171,mōðir-systir,mother's sister
+185-1115,oldn1244,http://concepticon.clld.org/parameters/170,foður-systir,father's sister
+185-461,oldn1244,http://concepticon.clld.org/parameters/1063,nefi,nephew
+185-286,oldn1244,http://concepticon.clld.org/parameters/1642,nipt,niece
+185-1141,oldn1244,http://concepticon.clld.org/parameters/1643,brœðrungr,cousin
+185-1150,oldn1244,http://concepticon.clld.org/parameters/1643,brœðrunga,cousin
+185-659,oldn1244,http://concepticon.clld.org/parameters/1643,systrungr,cousin
+185-647,oldn1244,http://concepticon.clld.org/parameters/1643,systrunga,cousin
+185-832,oldn1244,http://concepticon.clld.org/parameters/1669,forfeðr,ancestors
+185-539,oldn1244,http://concepticon.clld.org/parameters/490,afspringr,descendants
+185-161,oldn1244,http://concepticon.clld.org/parameters/2255,māgr,father-in-law (of a man)
+185-41,oldn1244,http://concepticon.clld.org/parameters/2254,verfaðir,father-in-law (of a woman)
+185-1266,oldn1244,http://concepticon.clld.org/parameters/2256,svœ̄ra,mother-in-law (of a man)
+185-1108,oldn1244,http://concepticon.clld.org/parameters/2256,māgkona,mother-in-law (of a man)
+185-1089,oldn1244,http://concepticon.clld.org/parameters/2257,vermōðir,mother-in-law (of a woman)
+185-161,oldn1244,http://concepticon.clld.org/parameters/2267,māgr,son-in-law (of a man)
+185-620,oldn1244,http://concepticon.clld.org/parameters/2265,snor,daughter-in-law (of a man)
+185-1108,oldn1244,http://concepticon.clld.org/parameters/2265,māgkona,daughter-in-law (of a man)
+185-983,oldn1244,http://concepticon.clld.org/parameters/237,stjūpfaðir,stepfather
+185-1233,oldn1244,http://concepticon.clld.org/parameters/236,stjūpmōðir,stepmother
+185-887,oldn1244,http://concepticon.clld.org/parameters/1059,stiūpson,stepson
+185-663,oldn1244,http://concepticon.clld.org/parameters/1059,stjūpr,stepson
+185-215,oldn1244,http://concepticon.clld.org/parameters/1058,stjūpdottir,stepdaughter
+185-1247,oldn1244,http://concepticon.clld.org/parameters/1149,foðurlauss,orphan
+185-932,oldn1244,http://concepticon.clld.org/parameters/1149,mōðurlauss,orphan
+185-753,oldn1244,http://concepticon.clld.org/parameters/1756,ekkja,widow
+185-790,oldn1244,http://concepticon.clld.org/parameters/1644,niðjar,"relatives, kinsmen"
+185-644,oldn1244,http://concepticon.clld.org/parameters/194,hjū,family
+185-125,oldn1244,http://concepticon.clld.org/parameters/194,hjūn,family
+185-342,oldn1244,http://concepticon.clld.org/parameters/619,dȳr,animal
+185-915,oldn1244,http://concepticon.clld.org/parameters/2261,karl-,male (adj)
+185-172,oldn1244,http://concepticon.clld.org/parameters/2262,kvenn-,female (adj)
+185-386,oldn1244,http://concepticon.clld.org/parameters/631,fē,livestock
+185-856,oldn1244,http://concepticon.clld.org/parameters/631,kvikfē,livestock
+185-1055,oldn1244,http://concepticon.clld.org/parameters/631,būfē,livestock
+185-607,oldn1244,http://concepticon.clld.org/parameters/649,beita,pasture
+185-896,oldn1244,http://concepticon.clld.org/parameters/649,bīta,pasture
+185-784,oldn1244,http://concepticon.clld.org/parameters/263,hirðir,herdsman
+185-1306,oldn1244,http://concepticon.clld.org/parameters/851,fjōs,"stable, stall"
+185-606,oldn1244,http://concepticon.clld.org/parameters/851,stallr,"stable, stall"
+185-882,oldn1244,http://concepticon.clld.org/parameters/851,stallhūs,"stable, stall"
+185-745,oldn1244,http://concepticon.clld.org/parameters/1153,naut,cattle (bovine)
+185-808,oldn1244,http://concepticon.clld.org/parameters/1153,nautfē,cattle (bovine)
+185-535,oldn1244,http://concepticon.clld.org/parameters/1008,θjōrr,bull
+185-1131,oldn1244,http://concepticon.clld.org/parameters/1008,graðungr,bull
+185-1138,oldn1244,http://concepticon.clld.org/parameters/1008,boli,bull
+185-750,oldn1244,http://concepticon.clld.org/parameters/1169,oxi,ox
+185-947,oldn1244,http://concepticon.clld.org/parameters/1169,uxi,ox
+185-629,oldn1244,http://concepticon.clld.org/parameters/1007,kȳr,cow
+185-656,oldn1244,http://concepticon.clld.org/parameters/1007,kū,cow
+185-895,oldn1244,http://concepticon.clld.org/parameters/1989,kālfr,calf
+185-1020,oldn1244,http://concepticon.clld.org/parameters/1331,sauðr,sheep
+185-771,oldn1244,http://concepticon.clld.org/parameters/1331,fœr,sheep
+185-81,oldn1244,http://concepticon.clld.org/parameters/1331,smali,sheep
+185-50,oldn1244,http://concepticon.clld.org/parameters/1344,hrūtr,ram
+185-904,oldn1244,http://concepticon.clld.org/parameters/1344,veðr,ram
+185-723,oldn1244,http://concepticon.clld.org/parameters/1345,œr,ewe
+185-269,oldn1244,http://concepticon.clld.org/parameters/820,lamb,lamb
+185-799,oldn1244,http://concepticon.clld.org/parameters/1348,goltr,boar
+185-774,oldn1244,http://concepticon.clld.org/parameters/1351,sȳr,sow (2)
+185-358,oldn1244,http://concepticon.clld.org/parameters/1337,grīss,pig
+185-886,oldn1244,http://concepticon.clld.org/parameters/1502,geit,goat
+185-1277,oldn1244,http://concepticon.clld.org/parameters/264,hafr,he-goat
+185-660,oldn1244,http://concepticon.clld.org/parameters/264,bukkr,he-goat
+185-898,oldn1244,http://concepticon.clld.org/parameters/1972,kið,kid
+185-935,oldn1244,http://concepticon.clld.org/parameters/615,hross,horse (equine)
+185-45,oldn1244,http://concepticon.clld.org/parameters/615,hestr,horse (equine)
+185-883,oldn1244,http://concepticon.clld.org/parameters/615,marr,horse (equine)
+185-442,oldn1244,http://concepticon.clld.org/parameters/615,jōr,horse (equine)
+185-993,oldn1244,http://concepticon.clld.org/parameters/936,stōðhestr,stallion
+185-430,oldn1244,http://concepticon.clld.org/parameters/936,stōðhross,stallion
+185-1177,oldn1244,http://concepticon.clld.org/parameters/938,merr,mare
+185-935,oldn1244,http://concepticon.clld.org/parameters/938,hross,mare
+185-98,oldn1244,http://concepticon.clld.org/parameters/1647,foli,"foal, colt"
+185-1064,oldn1244,http://concepticon.clld.org/parameters/1647,fyl,"foal, colt"
+185-752,oldn1244,http://concepticon.clld.org/parameters/1862,asni,"ass, donkey"
+185-188,oldn1244,http://concepticon.clld.org/parameters/890,mūll,mule
+185-973,oldn1244,http://concepticon.clld.org/parameters/1511,hani,"cock, rooster"
+185-1229,oldn1244,http://concepticon.clld.org/parameters/1514,hœna,hen
+185-628,oldn1244,http://concepticon.clld.org/parameters/1318,ungi,chicken
+185-615,oldn1244,http://concepticon.clld.org/parameters/1318,kjūklingr,chicken
+185-621,oldn1244,http://concepticon.clld.org/parameters/1187,gōs,goose
+185-529,oldn1244,http://concepticon.clld.org/parameters/1360,ond,duck
+185-118,oldn1244,http://concepticon.clld.org/parameters/937,fugl,bird
+185-206,oldn1244,http://concepticon.clld.org/parameters/2009,hundr,dog
+185-1188,oldn1244,http://concepticon.clld.org/parameters/1208,kottr,cat
+185-1243,oldn1244,http://concepticon.clld.org/parameters/2139,mūs,"mouse, rat"
+185-770,oldn1244,http://concepticon.clld.org/parameters/227,fiskr,fish
+185-394,oldn1244,http://concepticon.clld.org/parameters/522,ulfr,wolf
+185-1279,oldn1244,http://concepticon.clld.org/parameters/522,vargr,wolf
+185-1074,oldn1244,http://concepticon.clld.org/parameters/1386,leō,lion
+185-565,oldn1244,http://concepticon.clld.org/parameters/1386,leōn,lion
+185-531,oldn1244,http://concepticon.clld.org/parameters/1820,bjorn,bear
+185-938,oldn1244,http://concepticon.clld.org/parameters/1312,refr,fox
+185-734,oldn1244,http://concepticon.clld.org/parameters/1312,fōa,fox
+185-274,oldn1244,http://concepticon.clld.org/parameters/1936,hjortr,deer
+185-1084,oldn1244,http://concepticon.clld.org/parameters/1350,api,monkey
+185-809,oldn1244,http://concepticon.clld.org/parameters/1290,fīll,elephant
+185-970,oldn1244,http://concepticon.clld.org/parameters/1871,ulfaldi,camel
+185-63,oldn1244,http://concepticon.clld.org/parameters/665,bȳfluga,bee
+185-308,oldn1244,http://concepticon.clld.org/parameters/1504,fluga,fly
+185-683,oldn1244,http://concepticon.clld.org/parameters/1219,ormr,worm
+185-958,oldn1244,http://concepticon.clld.org/parameters/1219,maðkr,worm
+185-683,oldn1244,http://concepticon.clld.org/parameters/730,ormr,snake
+185-618,oldn1244,http://concepticon.clld.org/parameters/730,naðr,snake
+185-1275,oldn1244,http://concepticon.clld.org/parameters/730,snākr,snake
+185-227,oldn1244,http://concepticon.clld.org/parameters/1480,līk,body
+185-865,oldn1244,http://concepticon.clld.org/parameters/1480,līkamr,body
+185-850,oldn1244,http://concepticon.clld.org/parameters/1480,līkami,body
+185-1298,oldn1244,http://concepticon.clld.org/parameters/763,hūð,"skin, hide"
+185-441,oldn1244,http://concepticon.clld.org/parameters/763,skinn,"skin, hide"
+185-925,oldn1244,http://concepticon.clld.org/parameters/763,horund,"skin, hide"
+185-219,oldn1244,http://concepticon.clld.org/parameters/2259,hold,flesh
+185-925,oldn1244,http://concepticon.clld.org/parameters/2259,horund,flesh
+185-309,oldn1244,http://concepticon.clld.org/parameters/1040,hār,hair (head)
+185-824,oldn1244,http://concepticon.clld.org/parameters/1040,skopt,hair (head)
+185-571,oldn1244,http://concepticon.clld.org/parameters/678,skegg,beard
+185-553,oldn1244,http://concepticon.clld.org/parameters/946,blōð,blood
+185-393,oldn1244,http://concepticon.clld.org/parameters/1394,bein,bone
+185-943,oldn1244,http://concepticon.clld.org/parameters/801,rif,rib
+185-89,oldn1244,http://concepticon.clld.org/parameters/1393,horn,horn
+185-404,oldn1244,http://concepticon.clld.org/parameters/1220,hali,tail
+185-858,oldn1244,http://concepticon.clld.org/parameters/1220,tagl,tail
+185-1075,oldn1244,http://concepticon.clld.org/parameters/1220,rōfa,tail
+185-755,oldn1244,http://concepticon.clld.org/parameters/1291,bak,back
+185-412,oldn1244,http://concepticon.clld.org/parameters/1256,hofuð,head
+185-261,oldn1244,http://concepticon.clld.org/parameters/1256,haufuð,head
+185-1231,oldn1244,http://concepticon.clld.org/parameters/1605,hauss,skull
+185-133,oldn1244,http://concepticon.clld.org/parameters/1583,hjarni,brain
+185-292,oldn1244,http://concepticon.clld.org/parameters/1560,andlit,face
+185-370,oldn1244,http://concepticon.clld.org/parameters/123,enni,forehead
+185-516,oldn1244,http://concepticon.clld.org/parameters/798,kjoptr,jaw
+185-584,oldn1244,http://concepticon.clld.org/parameters/1730,kinn,cheek
+185-18,oldn1244,http://concepticon.clld.org/parameters/1730,vangi,cheek
+185-340,oldn1244,http://concepticon.clld.org/parameters/1510,haka,chin
+185-645,oldn1244,http://concepticon.clld.org/parameters/1248,auga,eye
+185-467,oldn1244,http://concepticon.clld.org/parameters/1173,brūn,eyebrow
+185-1316,oldn1244,http://concepticon.clld.org/parameters/1247,eyra,ear
+185-764,oldn1244,http://concepticon.clld.org/parameters/1247,hlust,ear
+185-651,oldn1244,http://concepticon.clld.org/parameters/1221,nasar,nose
+185-366,oldn1244,http://concepticon.clld.org/parameters/674,munnr,mouth
+185-502,oldn1244,http://concepticon.clld.org/parameters/674,mūðr,mouth
+185-1248,oldn1244,http://concepticon.clld.org/parameters/478,vorr,lip
+185-1311,oldn1244,http://concepticon.clld.org/parameters/1205,tunga,tongue
+185-967,oldn1244,http://concepticon.clld.org/parameters/1380,tonn,tooth
+185-939,oldn1244,http://concepticon.clld.org/parameters/1333,hals,neck
+185-749,oldn1244,http://concepticon.clld.org/parameters/1333,svīri,neck
+185-801,oldn1244,http://concepticon.clld.org/parameters/1346,kverkr,throat
+185-1240,oldn1244,http://concepticon.clld.org/parameters/1346,strjūpi,throat
+185-1321,oldn1244,http://concepticon.clld.org/parameters/1482,herðr,shoulder
+185-748,oldn1244,http://concepticon.clld.org/parameters/1482,oxl,shoulder
+185-1176,oldn1244,http://concepticon.clld.org/parameters/1673,armr,arm
+185-380,oldn1244,http://concepticon.clld.org/parameters/1673,handleggr,arm
+185-948,oldn1244,http://concepticon.clld.org/parameters/1673,hond,arm
+185-43,oldn1244,http://concepticon.clld.org/parameters/1886,olnbogi,armpit
+185-948,oldn1244,http://concepticon.clld.org/parameters/1277,hond,hand
+185-722,oldn1244,http://concepticon.clld.org/parameters/1277,mund,hand
+185-1129,oldn1244,http://concepticon.clld.org/parameters/1303,fingr,finger
+185-84,oldn1244,http://concepticon.clld.org/parameters/1781,θumalfingr,thumb
+185-695,oldn1244,http://concepticon.clld.org/parameters/1258,nagl,fingernail
+185-379,oldn1244,http://concepticon.clld.org/parameters/1297,leggr,leg
+185-397,oldn1244,http://concepticon.clld.org/parameters/1297,fōtr,leg
+185-88,oldn1244,http://concepticon.clld.org/parameters/1297,fōtleggr,leg
+185-393,oldn1244,http://concepticon.clld.org/parameters/1297,bein,leg
+185-114,oldn1244,http://concepticon.clld.org/parameters/1371,knē,knee
+185-397,oldn1244,http://concepticon.clld.org/parameters/1301,fōtr,foot
+185-512,oldn1244,http://concepticon.clld.org/parameters/1389,tā,toe
+185-1023,oldn1244,http://concepticon.clld.org/parameters/1257,vœ̄ngr,wing
+185-965,oldn1244,http://concepticon.clld.org/parameters/1201,fjoðr,feather
+185-359,oldn1244,http://concepticon.clld.org/parameters/1592,brjōst,chest
+185-359,oldn1244,http://concepticon.clld.org/parameters/1402,brjōst,breast (of woman)
+185-192,oldn1244,http://concepticon.clld.org/parameters/154,jūgr,udder
+185-787,oldn1244,http://concepticon.clld.org/parameters/1838,nafli,navel
+185-449,oldn1244,http://concepticon.clld.org/parameters/1223,hjarta,heart
+185-901,oldn1244,http://concepticon.clld.org/parameters/1224,lifr,liver
+185-806,oldn1244,http://concepticon.clld.org/parameters/819,kviðr,stomach
+185-1238,oldn1244,http://concepticon.clld.org/parameters/819,vomb,stomach
+185-811,oldn1244,http://concepticon.clld.org/parameters/819,magi,stomach
+185-806,oldn1244,http://concepticon.clld.org/parameters/804,kviðr,womb
+185-1058,oldn1244,http://concepticon.clld.org/parameters/797,eista,testicle
+185-153,oldn1244,http://concepticon.clld.org/parameters/797,bollr,testicle
+185-676,oldn1244,http://concepticon.clld.org/parameters/797,hreðjar,testicle
+185-190,oldn1244,http://concepticon.clld.org/parameters/1407,anda,"breathe, breath"
+185-529,oldn1244,http://concepticon.clld.org/parameters/1407,ond,"breathe, breath"
+185-186,oldn1244,http://concepticon.clld.org/parameters/1407,andi,"breathe, breath"
+185-889,oldn1244,http://concepticon.clld.org/parameters/1028,gīna,"yawn, gape"
+185-433,oldn1244,http://concepticon.clld.org/parameters/1028,gapa,"yawn, gape"
+185-1099,oldn1244,http://concepticon.clld.org/parameters/879,hōsta,cough
+185-1163,oldn1244,http://concepticon.clld.org/parameters/1621,hnjōsa-,sneeze
+185-979,oldn1244,http://concepticon.clld.org/parameters/1621,fnȳsa,sneeze
+185-593,oldn1244,http://concepticon.clld.org/parameters/126,sveiti,perspire
+185-855,oldn1244,http://concepticon.clld.org/parameters/1440,hrœkja,spit
+185-193,oldn1244,http://concepticon.clld.org/parameters/1440,spȳta,spit
+185-986,oldn1244,http://concepticon.clld.org/parameters/1278,spȳja,vomit
+185-896,oldn1244,http://concepticon.clld.org/parameters/1403,bīta,bite
+185-1258,oldn1244,http://concepticon.clld.org/parameters/319,sleikja,lick
+185-1078,oldn1244,http://concepticon.clld.org/parameters/1585,sofa,sleep
+185-105,oldn1244,http://concepticon.clld.org/parameters/1585,svefn,sleep
+185-105,oldn1244,http://concepticon.clld.org/parameters/1920,svefn,dream
+185-492,oldn1244,http://concepticon.clld.org/parameters/1920,draumr,dream
+185-92,oldn1244,http://concepticon.clld.org/parameters/1602,vekja,wake up
+185-1166,oldn1244,http://concepticon.clld.org/parameters/1602,vakna,wake up
+185-178,oldn1244,http://concepticon.clld.org/parameters/1602,vaka,wake up
+185-1205,oldn1244,http://concepticon.clld.org/parameters/1159,freta,break wind
+185-758,oldn1244,http://concepticon.clld.org/parameters/1159,fīsa,break wind
+185-250,oldn1244,http://concepticon.clld.org/parameters/592,mīga,urinate
+185-1053,oldn1244,http://concepticon.clld.org/parameters/676,skīta,defecate
+185-1101,oldn1244,http://concepticon.clld.org/parameters/676,drīta,defecate
+185-587,oldn1244,http://concepticon.clld.org/parameters/676,drit (noun),defecate
+185-425,oldn1244,http://concepticon.clld.org/parameters/676,skītr (noun),defecate
+185-1201,oldn1244,http://concepticon.clld.org/parameters/676,myki (noun),defecate
+185-1018,oldn1244,http://concepticon.clld.org/parameters/676,skarn (noun),defecate
+185-536,oldn1244,http://concepticon.clld.org/parameters/1785,liggja,have sexual intercourse
+185-831,oldn1244,http://concepticon.clld.org/parameters/1785,jhā,have sexual intercourse
+185-954,oldn1244,http://concepticon.clld.org/parameters/1152,geta,beget (of father)
+185-10,oldn1244,http://concepticon.clld.org/parameters/1152,ala,beget (of father)
+185-10,oldn1244,http://concepticon.clld.org/parameters/1090,ala,born (to be)
+185-1273,oldn1244,http://concepticon.clld.org/parameters/1090,fœða,born (to be)
+185-1217,oldn1244,http://concepticon.clld.org/parameters/1090,bera,born (to be)
+185-1210,oldn1244,http://concepticon.clld.org/parameters/1123,θunguð,pregnant
+185-1257,oldn1244,http://concepticon.clld.org/parameters/1123,ūlētt,pregnant
+185-1017,oldn1244,http://concepticon.clld.org/parameters/1123,hafandi,pregnant
+185-60,oldn1244,http://concepticon.clld.org/parameters/1123,með,pregnant
+185-519,oldn1244,http://concepticon.clld.org/parameters/1123,barni,pregnant
+185-1272,oldn1244,http://concepticon.clld.org/parameters/1422,lifa,"live, living, life"
+185-1262,oldn1244,http://concepticon.clld.org/parameters/1422,kvikr,"live, living, life"
+185-199,oldn1244,http://concepticon.clld.org/parameters/1422,lifandi,"live, living, life"
+185-1152,oldn1244,http://concepticon.clld.org/parameters/1422,līfs,"live, living, life"
+185-232,oldn1244,http://concepticon.clld.org/parameters/1422,līf,"live, living, life"
+185-523,oldn1244,http://concepticon.clld.org/parameters/1422,fjor,"live, living, life"
+185-846,oldn1244,http://concepticon.clld.org/parameters/1494,deyja,"die, dead"
+185-82,oldn1244,http://concepticon.clld.org/parameters/1494,svelta,"die, dead"
+185-741,oldn1244,http://concepticon.clld.org/parameters/1494,dauðr,"die, dead"
+185-661,oldn1244,http://concepticon.clld.org/parameters/1494,dāinn,"die, dead"
+185-756,oldn1244,http://concepticon.clld.org/parameters/1494,dauði,"die, dead"
+185-503,oldn1244,http://concepticon.clld.org/parameters/1417,deyða,kill
+185-1285,oldn1244,http://concepticon.clld.org/parameters/1417,drepa,kill
+185-163,oldn1244,http://concepticon.clld.org/parameters/1417,slā,kill
+185-238,oldn1244,http://concepticon.clld.org/parameters/1417,vega,kill
+185-227,oldn1244,http://concepticon.clld.org/parameters/767,līk,corpse
+185-331,oldn1244,http://concepticon.clld.org/parameters/767,nār,corpse
+185-859,oldn1244,http://concepticon.clld.org/parameters/1719,jarða,bury (the dead)
+185-1224,oldn1244,http://concepticon.clld.org/parameters/1719,heygja,bury (the dead)
+185-700,oldn1244,http://concepticon.clld.org/parameters/1719,grefta,bury (the dead)
+185-1249,oldn1244,http://concepticon.clld.org/parameters/1719,grafa,bury (the dead)
+185-300,oldn1244,http://concepticon.clld.org/parameters/1773,grof,"grave, tomb"
+185-1045,oldn1244,http://concepticon.clld.org/parameters/1773,groftr,"grave, tomb"
+185-1235,oldn1244,http://concepticon.clld.org/parameters/785,sterkr,"strong, mighty, powerful"
+185-668,oldn1244,http://concepticon.clld.org/parameters/785,styrkr,"strong, mighty, powerful"
+185-906,oldn1244,http://concepticon.clld.org/parameters/785,māttugr,"strong, mighty, powerful"
+185-875,oldn1244,http://concepticon.clld.org/parameters/1601,veikr,weak
+185-1004,oldn1244,http://concepticon.clld.org/parameters/1364,heill,"well, health"
+185-77,oldn1244,http://concepticon.clld.org/parameters/1364,heilsa,"well, health"
+185-1041,oldn1244,http://concepticon.clld.org/parameters/1847,sjūkr,"sick, sickness"
+185-950,oldn1244,http://concepticon.clld.org/parameters/1847,sōtt,"sick, sickness"
+185-459,oldn1244,http://concepticon.clld.org/parameters/1847,sjūkleiki,"sick, sickness"
+185-960,oldn1244,http://concepticon.clld.org/parameters/1109,sār,"wound, sore"
+185-839,oldn1244,http://concepticon.clld.org/parameters/1109,und,"wound, sore"
+185-580,oldn1244,http://concepticon.clld.org/parameters/1109,ben,"wound, sore"
+185-879,oldn1244,http://concepticon.clld.org/parameters/499,lœkna,"cure, heal"
+185-1227,oldn1244,http://concepticon.clld.org/parameters/499,bœta,"cure, heal"
+185-414,oldn1244,http://concepticon.clld.org/parameters/597,lœknir,physician
+185-1255,oldn1244,http://concepticon.clld.org/parameters/1372,lyf,"medicine, drug"
+185-888,oldn1244,http://concepticon.clld.org/parameters/1372,lœkningarlyf,"medicine, drug"
+185-124,oldn1244,http://concepticon.clld.org/parameters/1372,lœknisdōmr,"medicine, drug"
+185-975,oldn1244,http://concepticon.clld.org/parameters/655,eitr,poison
+185-634,oldn1244,http://concepticon.clld.org/parameters/1757,mōðr,"tired, weary"
+185-368,oldn1244,http://concepticon.clld.org/parameters/1564,latr,lazy
+185-1077,oldn1244,http://concepticon.clld.org/parameters/1125,skollōttr,bald
+185-239,oldn1244,http://concepticon.clld.org/parameters/320,haltr,lame
+185-276,oldn1244,http://concepticon.clld.org/parameters/320,lami,lame
+185-203,oldn1244,http://concepticon.clld.org/parameters/996,daufr,deaf
+185-297,oldn1244,http://concepticon.clld.org/parameters/1666,dumbr,mute
+185-713,oldn1244,http://concepticon.clld.org/parameters/1653,blindr,blind
+185-844,oldn1244,http://concepticon.clld.org/parameters/1463,drukkinn,intoxicated
+185-1103,oldn1244,http://concepticon.clld.org/parameters/1463,olr,intoxicated
+185-174,oldn1244,http://concepticon.clld.org/parameters/1463,olvaðr,intoxicated
+185-611,oldn1244,http://concepticon.clld.org/parameters/590,nokviðr,"naked, bare"
+185-399,oldn1244,http://concepticon.clld.org/parameters/590,noktr,"naked, bare"
+185-1212,oldn1244,http://concepticon.clld.org/parameters/590,berr,"naked, bare"
+185-838,oldn1244,http://concepticon.clld.org/parameters/1336,eta,eat
+185-457,oldn1244,http://concepticon.clld.org/parameters/256,matr,food
+185-1273,oldn1244,http://concepticon.clld.org/parameters/256,fœða,food
+185-688,oldn1244,http://concepticon.clld.org/parameters/256,āt,food
+185-642,oldn1244,http://concepticon.clld.org/parameters/256,vist,food
+185-183,oldn1244,http://concepticon.clld.org/parameters/1401,drekka,drink
+185-338,oldn1244,http://concepticon.clld.org/parameters/1533,hungr,hunger
+185-1071,oldn1244,http://concepticon.clld.org/parameters/848,θorsti,thirst
+185-212,oldn1244,http://concepticon.clld.org/parameters/1421,sūga,suck
+185-583,oldn1244,http://concepticon.clld.org/parameters/1100,matbūa,cook
+185-1040,oldn1244,http://concepticon.clld.org/parameters/792,sjōða,boil (vb)
+185-601,oldn1244,http://concepticon.clld.org/parameters/792,vella,boil (vb)
+185-362,oldn1244,http://concepticon.clld.org/parameters/2146,steikja,"roast, fry"
+185-101,oldn1244,http://concepticon.clld.org/parameters/183,baka,bake
+185-1005,oldn1244,http://concepticon.clld.org/parameters/1143,ofn,oven
+185-1203,oldn1244,http://concepticon.clld.org/parameters/1462,grȳta,"pot, cooking vessel"
+185-559,oldn1244,http://concepticon.clld.org/parameters/1462,pottr,"pot, cooking vessel"
+185-525,oldn1244,http://concepticon.clld.org/parameters/854,ketill,kettle
+185-1241,oldn1244,http://concepticon.clld.org/parameters/854,hverr,kettle
+185-1160,oldn1244,http://concepticon.clld.org/parameters/31,panna,pan
+185-1079,oldn1244,http://concepticon.clld.org/parameters/480,diskr,plate
+185-665,oldn1244,http://concepticon.clld.org/parameters/480,skutill,plate
+185-160,oldn1244,http://concepticon.clld.org/parameters/1530,bolli,bowl
+185-344,oldn1244,http://concepticon.clld.org/parameters/1530,skāl,bowl
+185-1184,oldn1244,http://concepticon.clld.org/parameters/270,krukka,"pitcher, jug"
+185-154,oldn1244,http://concepticon.clld.org/parameters/476,koppr,"cup, drinking vessel"
+185-42,oldn1244,http://concepticon.clld.org/parameters/1378,spōnn,spoon
+185-581,oldn1244,http://concepticon.clld.org/parameters/1378,skeið,spoon
+185-1198,oldn1244,http://concepticon.clld.org/parameters/1352,knīfr,knife (2)
+185-1013,oldn1244,http://concepticon.clld.org/parameters/1526,verðr,meal (a)
+185-298,oldn1244,http://concepticon.clld.org/parameters/1526,māl,meal (a)
+185-363,oldn1244,http://concepticon.clld.org/parameters/1526,maltīð,meal (a)
+185-709,oldn1244,http://concepticon.clld.org/parameters/1322,dagverðr,breakfast
+185-1066,oldn1244,http://concepticon.clld.org/parameters/1833,nāttverðr,supper
+185-652,oldn1244,http://concepticon.clld.org/parameters/1368,brauð,bread
+185-791,oldn1244,http://concepticon.clld.org/parameters/273,deig,dough
+185-1076,oldn1244,http://concepticon.clld.org/parameters/274,knoða,knead
+185-1288,oldn1244,http://concepticon.clld.org/parameters/1594,mjol,"meal, flour"
+185-247,oldn1244,http://concepticon.clld.org/parameters/1033,mala,"crush, grind"
+185-1090,oldn1244,http://concepticon.clld.org/parameters/636,kvern,mill
+185-1207,oldn1244,http://concepticon.clld.org/parameters/636,mylna,mill
+185-907,oldn1244,http://concepticon.clld.org/parameters/634,kjot,meat
+185-556,oldn1244,http://concepticon.clld.org/parameters/1874,mor-bjūga,sausage
+185-1065,oldn1244,http://concepticon.clld.org/parameters/1547,broð,"soup, broth"
+185-671,oldn1244,http://concepticon.clld.org/parameters/924,urt,vegetables
+185-897,oldn1244,http://concepticon.clld.org/parameters/832,baun,bean
+185-930,oldn1244,http://concepticon.clld.org/parameters/1507,aldin,fruit
+185-871,oldn1244,http://concepticon.clld.org/parameters/322,fīkja,fig
+185-320,oldn1244,http://concepticon.clld.org/parameters/920,vīnber,grape
+185-924,oldn1244,http://concepticon.clld.org/parameters/191,hnot,nut
+185-220,oldn1244,http://concepticon.clld.org/parameters/1154,oliva,olive
+185-46,oldn1244,http://concepticon.clld.org/parameters/1484,olea,oil
+185-677,oldn1244,http://concepticon.clld.org/parameters/1274,salt,salt
+185-420,oldn1244,http://concepticon.clld.org/parameters/1385,piparr,pepper
+185-144,oldn1244,http://concepticon.clld.org/parameters/942,hunang,honey
+185-690,oldn1244,http://concepticon.clld.org/parameters/635,mjolk,milk (noun)
+185-66,oldn1244,http://concepticon.clld.org/parameters/93,mjolka,milk (vb)
+185-1297,oldn1244,http://concepticon.clld.org/parameters/1569,ostr,cheese
+185-485,oldn1244,http://concepticon.clld.org/parameters/1245,smjor,butter
+185-1276,oldn1244,http://concepticon.clld.org/parameters/941,mjoðr,mead
+185-697,oldn1244,http://concepticon.clld.org/parameters/1524,vīn,wine
+185-67,oldn1244,http://concepticon.clld.org/parameters/1639,bjōrr,beer
+185-214,oldn1244,http://concepticon.clld.org/parameters/1639,ol,beer
+185-95,oldn1244,http://concepticon.clld.org/parameters/158,klœða,put on (clothes)
+185-391,oldn1244,http://concepticon.clld.org/parameters/1895,klœði,"clothing, clothes"
+185-703,oldn1244,http://concepticon.clld.org/parameters/1895,būningr,"clothing, clothes"
+185-1111,oldn1244,http://concepticon.clld.org/parameters/1895,fot,"clothing, clothes"
+185-1301,oldn1244,http://concepticon.clld.org/parameters/881,skraddari,tailor
+185-391,oldn1244,http://concepticon.clld.org/parameters/1616,klœði,cloth
+185-488,oldn1244,http://concepticon.clld.org/parameters/1616,vāð,cloth
+185-995,oldn1244,http://concepticon.clld.org/parameters/1616,dūkr,cloth
+185-241,oldn1244,http://concepticon.clld.org/parameters/964,ull,wool
+185-224,oldn1244,http://concepticon.clld.org/parameters/916,līn,"linen, flax"
+185-1182,oldn1244,http://concepticon.clld.org/parameters/916,lērept,"linen, flax"
+185-731,oldn1244,http://concepticon.clld.org/parameters/916,hōrr,"linen, flax"
+185-464,oldn1244,http://concepticon.clld.org/parameters/1641,silki,silk
+185-259,oldn1244,http://concepticon.clld.org/parameters/325,θōfi,felt
+185-1169,oldn1244,http://concepticon.clld.org/parameters/325,flōki,felt
+185-441,oldn1244,http://concepticon.clld.org/parameters/580,skinn,fur
+185-927,oldn1244,http://concepticon.clld.org/parameters/580,loð-,fur
+185-648,oldn1244,http://concepticon.clld.org/parameters/629,leðr,leather
+185-845,oldn1244,http://concepticon.clld.org/parameters/121,spinna,spin
+185-438,oldn1244,http://concepticon.clld.org/parameters/277,snœlda,spindle
+185-561,oldn1244,http://concepticon.clld.org/parameters/133,vefa,weave
+185-310,oldn1244,http://concepticon.clld.org/parameters/1787,vefstaðr,loom
+185-1189,oldn1244,http://concepticon.clld.org/parameters/1787,vefstōll,loom
+185-335,oldn1244,http://concepticon.clld.org/parameters/1457,sauma,sew
+185-591,oldn1244,http://concepticon.clld.org/parameters/1457,sȳja,sew
+185-318,oldn1244,http://concepticon.clld.org/parameters/1382,nāl,needle
+185-19,oldn1244,http://concepticon.clld.org/parameters/278,alr,awl
+185-236,oldn1244,http://concepticon.clld.org/parameters/1161,θāðr,thread
+185-969,oldn1244,http://concepticon.clld.org/parameters/157,lita,dye
+185-1167,oldn1244,http://concepticon.clld.org/parameters/326,feldr,cloak
+185-401,oldn1244,http://concepticon.clld.org/parameters/326,skikkja,cloak
+185-1122,oldn1244,http://concepticon.clld.org/parameters/326,kāpa,cloak
+185-681,oldn1244,http://concepticon.clld.org/parameters/326,mottull,cloak
+185-426,oldn1244,http://concepticon.clld.org/parameters/603,rokkr,coat
+185-495,oldn1244,http://concepticon.clld.org/parameters/1622,serkr,shirt
+185-382,oldn1244,http://concepticon.clld.org/parameters/1622,skyrta,shirt
+185-373,oldn1244,http://concepticon.clld.org/parameters/2012,late,collar
+185-169,oldn1244,http://concepticon.clld.org/parameters/2012,kragi,collar
+185-866,oldn1244,http://concepticon.clld.org/parameters/809,brœkr,trousers
+185-1137,oldn1244,http://concepticon.clld.org/parameters/329,hosa,"stocking, sock"
+185-1307,oldn1244,http://concepticon.clld.org/parameters/329,sokkr,"stocking, sock"
+185-941,oldn1244,http://concepticon.clld.org/parameters/1381,skōr,shoe
+185-1105,oldn1244,http://concepticon.clld.org/parameters/585,bōti,boot
+185-141,oldn1244,http://concepticon.clld.org/parameters/585,styfill,boot
+185-480,oldn1244,http://concepticon.clld.org/parameters/875,skōari,"shoemaker, cobbler"
+185-202,oldn1244,http://concepticon.clld.org/parameters/2130,hottr,"hat, cap"
+185-568,oldn1244,http://concepticon.clld.org/parameters/2130,hǔfa,"hat, cap"
+185-446,oldn1244,http://concepticon.clld.org/parameters/772,gjorð,"belt, girdle"
+185-1106,oldn1244,http://concepticon.clld.org/parameters/772,gyrðill,"belt, girdle"
+185-1268,oldn1244,http://concepticon.clld.org/parameters/772,lindi,"belt, girdle"
+185-511,oldn1244,http://concepticon.clld.org/parameters/772,belti,"belt, girdle"
+185-1050,oldn1244,http://concepticon.clld.org/parameters/867,glōfi,glove
+185-423,oldn1244,http://concepticon.clld.org/parameters/867,hanzki,glove
+185-622,oldn1244,http://concepticon.clld.org/parameters/1151,lin,veil
+185-349,oldn1244,http://concepticon.clld.org/parameters/64,dālkr,pin
+185-545,oldn1244,http://concepticon.clld.org/parameters/64,nesti,pin
+185-478,oldn1244,http://concepticon.clld.org/parameters/917,skraut,"ornament, adornment"
+185-142,oldn1244,http://concepticon.clld.org/parameters/917,prȳði,"ornament, adornment"
+185-643,oldn1244,http://concepticon.clld.org/parameters/1029,gimsteinn,jewel
+185-355,oldn1244,http://concepticon.clld.org/parameters/1029,gorsemi,jewel
+185-1228,oldn1244,http://concepticon.clld.org/parameters/1374,hringr,ring (for finger)
+185-1303,oldn1244,http://concepticon.clld.org/parameters/1754,baugr,bracelet
+185-306,oldn1244,http://concepticon.clld.org/parameters/1961,men,necklace
+185-25,oldn1244,http://concepticon.clld.org/parameters/1961,hālsgjorð,necklace
+185-994,oldn1244,http://concepticon.clld.org/parameters/1021,handklœði,towel
+185-873,oldn1244,http://concepticon.clld.org/parameters/1021,θurka,towel
+185-650,oldn1244,http://concepticon.clld.org/parameters/1475,kambr,comb
+185-419,oldn1244,http://concepticon.clld.org/parameters/1821,bursti,brush
+185-341,oldn1244,http://concepticon.clld.org/parameters/1926,smyrsl,ointment
+185-894,oldn1244,http://concepticon.clld.org/parameters/788,θvāl,soap
+185-1029,oldn1244,http://concepticon.clld.org/parameters/788,lauðr,soap
+185-913,oldn1244,http://concepticon.clld.org/parameters/1171,skuggsjā,mirror
+185-392,oldn1244,http://concepticon.clld.org/parameters/1171,spegill,mirror
+185-942,oldn1244,http://concepticon.clld.org/parameters/1099,būa,"dwell, live"
+185-1222,oldn1244,http://concepticon.clld.org/parameters/1252,hūs,house
+185-527,oldn1244,http://concepticon.clld.org/parameters/1252,rann,house
+185-725,oldn1244,http://concepticon.clld.org/parameters/1678,kofi,hut
+185-562,oldn1244,http://concepticon.clld.org/parameters/1678,kot,hut
+185-768,oldn1244,http://concepticon.clld.org/parameters/1316,tjald,tent
+185-198,oldn1244,http://concepticon.clld.org/parameters/736,garðr,"yard, court"
+185-166,oldn1244,http://concepticon.clld.org/parameters/1450,stofa,room
+185-1069,oldn1244,http://concepticon.clld.org/parameters/1567,dyrr (plural),"door, gate"
+185-299,oldn1244,http://concepticon.clld.org/parameters/1567,hurð,"door, gate"
+185-1027,oldn1244,http://concepticon.clld.org/parameters/1567,hlið,"door, gate"
+185-1008,oldn1244,http://concepticon.clld.org/parameters/1567,grind,"door, gate"
+185-498,oldn1244,http://concepticon.clld.org/parameters/1596,lāss,lock (noun)
+185-609,oldn1244,http://concepticon.clld.org/parameters/1596,loka,lock (noun)
+185-594,oldn1244,http://concepticon.clld.org/parameters/1472,lykill,key
+185-1062,oldn1244,http://concepticon.clld.org/parameters/1375,vindauga,window
+185-1271,oldn1244,http://concepticon.clld.org/parameters/1375,gluggr,window
+185-682,oldn1244,http://concepticon.clld.org/parameters/1632,golf,floor
+185-1320,oldn1244,http://concepticon.clld.org/parameters/933,mūrr,wall
+185-501,oldn1244,http://concepticon.clld.org/parameters/933,veggr,wall
+185-7,oldn1244,http://concepticon.clld.org/parameters/185,arinn,fireplace
+185-1005,oldn1244,http://concepticon.clld.org/parameters/859,ofn,stove
+185-760,oldn1244,http://concepticon.clld.org/parameters/1305,reykberi,chimney
+185-1123,oldn1244,http://concepticon.clld.org/parameters/1305,reykhāfr,chimney
+185-23,oldn1244,http://concepticon.clld.org/parameters/1305,skorsteinn,chimney
+185-1047,oldn1244,http://concepticon.clld.org/parameters/1663,rekkja,bed
+185-1057,oldn1244,http://concepticon.clld.org/parameters/1663,hvīla,bed
+185-837,oldn1244,http://concepticon.clld.org/parameters/1663,sœ̄ing,bed
+185-735,oldn1244,http://concepticon.clld.org/parameters/1663,beðr,bed
+185-826,oldn1244,http://concepticon.clld.org/parameters/1476,stōll,chair
+185-1030,oldn1244,http://concepticon.clld.org/parameters/1775,borð,table
+185-1187,oldn1244,http://concepticon.clld.org/parameters/1775,bjōð,table
+185-1291,oldn1244,http://concepticon.clld.org/parameters/2131,lampi,"lamp, torch"
+185-982,oldn1244,http://concepticon.clld.org/parameters/2131,ljōsker,"lamp, torch"
+185-242,oldn1244,http://concepticon.clld.org/parameters/1273,ljōs,candle
+185-1114,oldn1244,http://concepticon.clld.org/parameters/1273,kerti,candle
+185-689,oldn1244,http://concepticon.clld.org/parameters/979,bōndi,farmer
+185-1121,oldn1244,http://concepticon.clld.org/parameters/979,akrmaðr,farmer
+185-150,oldn1244,http://concepticon.clld.org/parameters/212,akr,field (for cultivation)
+185-573,oldn1244,http://concepticon.clld.org/parameters/586,-garðr,garden
+185-1015,oldn1244,http://concepticon.clld.org/parameters/1541,yrkja,"cultivate, till"
+185-705,oldn1244,http://concepticon.clld.org/parameters/1541,vinna,"cultivate, till"
+185-985,oldn1244,http://concepticon.clld.org/parameters/1921,erja,plow
+185-158,oldn1244,http://concepticon.clld.org/parameters/1921,plœgja,plow
+185-474,oldn1244,http://concepticon.clld.org/parameters/1921,arðr,plow
+185-244,oldn1244,http://concepticon.clld.org/parameters/1921,plōgr,plow
+185-626,oldn1244,http://concepticon.clld.org/parameters/1794,for,furrow
+185-1249,oldn1244,http://concepticon.clld.org/parameters/1418,grafa,dig
+185-834,oldn1244,http://concepticon.clld.org/parameters/1176,pāll,spade
+185-961,oldn1244,http://concepticon.clld.org/parameters/1176,reka,spade
+185-961,oldn1244,http://concepticon.clld.org/parameters/1901,reka,shovel
+185-1290,oldn1244,http://concepticon.clld.org/parameters/337,kvīsl,fork
+185-505,oldn1244,http://concepticon.clld.org/parameters/337,tjūga,fork
+185-1120,oldn1244,http://concepticon.clld.org/parameters/338,hrifa,rake
+185-155,oldn1244,http://concepticon.clld.org/parameters/748,sā,sow
+185-1010,oldn1244,http://concepticon.clld.org/parameters/748,frjō,sow
+185-163,oldn1244,http://concepticon.clld.org/parameters/190,slā,"mow, reap"
+185-1175,oldn1244,http://concepticon.clld.org/parameters/2132,sigðr,"sickle, scythe"
+185-617,oldn1244,http://concepticon.clld.org/parameters/2132,lē,"sickle, scythe"
+185-1001,oldn1244,http://concepticon.clld.org/parameters/285,θreskja,thresh
+185-307,oldn1244,http://concepticon.clld.org/parameters/223,lāfi,threshing-floor
+185-862,oldn1244,http://concepticon.clld.org/parameters/223,lōfi,threshing-floor
+185-164,oldn1244,http://concepticon.clld.org/parameters/611,lōð,"crop, harvest"
+185-974,oldn1244,http://concepticon.clld.org/parameters/611,āvoxtr,"crop, harvest"
+185-1284,oldn1244,http://concepticon.clld.org/parameters/605,korn,"grain (barley, oats etc)"
+185-1097,oldn1244,http://concepticon.clld.org/parameters/1077,hveiti,wheat
+185-208,oldn1244,http://concepticon.clld.org/parameters/932,bygg,barley
+185-532,oldn1244,http://concepticon.clld.org/parameters/932,barr,barley
+185-610,oldn1244,http://concepticon.clld.org/parameters/23,rugr,rye
+185-1049,oldn1244,http://concepticon.clld.org/parameters/60,hafri,oats
+185-744,oldn1244,http://concepticon.clld.org/parameters/606,gras,grass
+185-1197,oldn1244,http://concepticon.clld.org/parameters/342,hey,hay
+185-671,oldn1244,http://concepticon.clld.org/parameters/653,urt,plant (noun)
+185-769,oldn1244,http://concepticon.clld.org/parameters/670,rōt,root
+185-475,oldn1244,http://concepticon.clld.org/parameters/1531,grein,branch
+185-586,oldn1244,http://concepticon.clld.org/parameters/1531,kvistr,branch
+185-400,oldn1244,http://concepticon.clld.org/parameters/628,laufsblað,leaf
+185-74,oldn1244,http://concepticon.clld.org/parameters/628,lauf,leaf
+185-852,oldn1244,http://concepticon.clld.org/parameters/628,blað,leaf
+185-624,oldn1244,http://concepticon.clld.org/parameters/239,blōm,flower
+185-171,oldn1244,http://concepticon.clld.org/parameters/239,blōmstr,flower
+185-1016,oldn1244,http://concepticon.clld.org/parameters/644,eik,oak
+185-157,oldn1244,http://concepticon.clld.org/parameters/1950,bōk,beech
+185-534,oldn1244,http://concepticon.clld.org/parameters/1855,bjork,birch
+185-1253,oldn1244,http://concepticon.clld.org/parameters/1740,fura,pine
+185-295,oldn1244,http://concepticon.clld.org/parameters/1915,gron,fir
+185-988,oldn1244,http://concepticon.clld.org/parameters/968,akarn,acorn
+185-372,oldn1244,http://concepticon.clld.org/parameters/343,vīntrē,vine
+185-1158,oldn1244,http://concepticon.clld.org/parameters/343,-viðr,vine
+185-56,oldn1244,http://concepticon.clld.org/parameters/813,gør(v)a,"do, make"
+185-64,oldn1244,http://concepticon.clld.org/parameters/984,verk,work
+185-705,oldn1244,http://concepticon.clld.org/parameters/984,vinna,work
+185-890,oldn1244,http://concepticon.clld.org/parameters/984,erfiði,work
+185-64,oldn1244,http://concepticon.clld.org/parameters/984,verk,work
+185-272,oldn1244,http://concepticon.clld.org/parameters/2004,sveigja,bend
+185-1250,oldn1244,http://concepticon.clld.org/parameters/2004,benda,bend
+185-962,oldn1244,http://concepticon.clld.org/parameters/1470,falda,fold
+185-579,oldn1244,http://concepticon.clld.org/parameters/1917,binda,"tie, bind"
+185-204,oldn1244,http://concepticon.clld.org/parameters/1627,rekender,chain
+185-31,oldn1244,http://concepticon.clld.org/parameters/1627,hlekkir,chain
+185-740,oldn1244,http://concepticon.clld.org/parameters/1218,reip,"rope, cord"
+185-226,oldn1244,http://concepticon.clld.org/parameters/1218,taug,"rope, cord"
+185-83,oldn1244,http://concepticon.clld.org/parameters/1218,strengr,"rope, cord"
+185-1242,oldn1244,http://concepticon.clld.org/parameters/1218,seil,"rope, cord"
+185-1036,oldn1244,http://concepticon.clld.org/parameters/1218,simi,"rope, cord"
+185-602,oldn1244,http://concepticon.clld.org/parameters/1218,līna,"rope, cord"
+185-225,oldn1244,http://concepticon.clld.org/parameters/760,knūtr,knot (noun)
+185-163,oldn1244,http://concepticon.clld.org/parameters/2133,slā,"strike (hit, beat)"
+185-337,oldn1244,http://concepticon.clld.org/parameters/2133,ljōsta,"strike (hit, beat)"
+185-466,oldn1244,http://concepticon.clld.org/parameters/2133,berja,"strike (hit, beat)"
+185-1285,oldn1244,http://concepticon.clld.org/parameters/2133,drepa,"strike (hit, beat)"
+185-24,oldn1244,http://concepticon.clld.org/parameters/1432,skera,cut
+185-692,oldn1244,http://concepticon.clld.org/parameters/1432,snīða,cut
+185-691,oldn1244,http://concepticon.clld.org/parameters/1432,telgja,cut
+185-1128,oldn1244,http://concepticon.clld.org/parameters/1432,hoggva,cut
+185-877,oldn1244,http://concepticon.clld.org/parameters/1432,meita,cut
+185-1198,oldn1244,http://concepticon.clld.org/parameters/1352,knīfr,knife
+185-265,oldn1244,http://concepticon.clld.org/parameters/356,skœri,"scissors, shears"
+185-1186,oldn1244,http://concepticon.clld.org/parameters/356,sox,"scissors, shears"
+185-936,oldn1244,http://concepticon.clld.org/parameters/677,øx,ax
+185-1196,oldn1244,http://concepticon.clld.org/parameters/677,barða,ax
+185-1251,oldn1244,http://concepticon.clld.org/parameters/680,brjōta,break
+185-796,oldn1244,http://concepticon.clld.org/parameters/680,rjūfa,break
+185-728,oldn1244,http://concepticon.clld.org/parameters/1437,kljūfa,split
+185-893,oldn1244,http://concepticon.clld.org/parameters/1735,rīfa,tear
+185-38,oldn1244,http://concepticon.clld.org/parameters/1735,slīta,tear
+185-374,oldn1244,http://concepticon.clld.org/parameters/291,flā,"flay, skin"
+185-107,oldn1244,http://concepticon.clld.org/parameters/1449,gnūa,"rub, wipe"
+185-675,oldn1244,http://concepticon.clld.org/parameters/214,θenja,stretch
+185-69,oldn1244,http://concepticon.clld.org/parameters/1455,draga,pull
+185-130,oldn1244,http://concepticon.clld.org/parameters/1455,toga,pull
+185-410,oldn1244,http://concepticon.clld.org/parameters/38,breiða,spread out
+185-429,oldn1244,http://concepticon.clld.org/parameters/38,strā,spread out
+185-715,oldn1244,http://concepticon.clld.org/parameters/1913,θryngva,press
+185-1314,oldn1244,http://concepticon.clld.org/parameters/1487,hella,pour
+185-367,oldn1244,http://concepticon.clld.org/parameters/1487,skenkja,pour
+185-825,oldn1244,http://concepticon.clld.org/parameters/1453,θvā,wash
+185-435,oldn1244,http://concepticon.clld.org/parameters/1453,vaska,wash
+185-782,oldn1244,http://concepticon.clld.org/parameters/230,sōpa,sweep
+185-861,oldn1244,http://concepticon.clld.org/parameters/245,sōfl,broom
+185-384,oldn1244,http://concepticon.clld.org/parameters/1361,tōl,tool
+185-919,oldn1244,http://concepticon.clld.org/parameters/1042,trēsmiðr,carpenter
+185-636,oldn1244,http://concepticon.clld.org/parameters/1840,gørva,build
+185-1006,oldn1244,http://concepticon.clld.org/parameters/1840,timbra,build
+185-1110,oldn1244,http://concepticon.clld.org/parameters/1501,bora,bore
+185-1173,oldn1244,http://concepticon.clld.org/parameters/1948,sog,saw
+185-605,oldn1244,http://concepticon.clld.org/parameters/1481,hamarr,hammer
+185-1280,oldn1244,http://concepticon.clld.org/parameters/502,nagli,nail
+185-1261,oldn1244,http://concepticon.clld.org/parameters/502,saumr,nail
+185-217,oldn1244,http://concepticon.clld.org/parameters/1001,jārn-,"smith, blacksmith"
+185-116,oldn1244,http://concepticon.clld.org/parameters/1001,smiðr,"smith, blacksmith"
+185-181,oldn1244,http://concepticon.clld.org/parameters/288,smiða,forge
+185-835,oldn1244,http://concepticon.clld.org/parameters/1648,steði,anvil
+185-614,oldn1244,http://concepticon.clld.org/parameters/211,steypa,cast (metals)
+185-704,oldn1244,http://concepticon.clld.org/parameters/1369,gull,gold
+185-847,oldn1244,http://concepticon.clld.org/parameters/759,silfr,silver
+185-369,oldn1244,http://concepticon.clld.org/parameters/1825,koparr,"copper, bronze"
+185-912,oldn1244,http://concepticon.clld.org/parameters/1825,eir,"copper, bronze"
+185-1254,oldn1244,http://concepticon.clld.org/parameters/621,īsarn,iron
+185-432,oldn1244,http://concepticon.clld.org/parameters/621,jārn,iron
+185-717,oldn1244,http://concepticon.clld.org/parameters/627,blȳ,lead (noun)
+185-1039,oldn1244,http://concepticon.clld.org/parameters/358,tin,"tin, tinplate"
+185-1143,oldn1244,http://concepticon.clld.org/parameters/359,leirsmiðr,potter
+185-321,oldn1244,http://concepticon.clld.org/parameters/289,mynda,mold (clay etc)
+185-106,oldn1244,http://concepticon.clld.org/parameters/1399,leir,clay
+185-916,oldn1244,http://concepticon.clld.org/parameters/604,gler,glass
+185-780,oldn1244,http://concepticon.clld.org/parameters/1729,flētta,"weave, plait"
+185-767,oldn1244,http://concepticon.clld.org/parameters/1539,laupr,basket
+185-766,oldn1244,http://concepticon.clld.org/parameters/1539,teina,basket
+185-24,oldn1244,http://concepticon.clld.org/parameters/228,skera,carve
+185-1249,oldn1244,http://concepticon.clld.org/parameters/228,grafa,carve
+185-841,oldn1244,http://concepticon.clld.org/parameters/1002,mannlīkan,statue
+185-1092,oldn1244,http://concepticon.clld.org/parameters/1002,līkneski,statue
+185-240,oldn1244,http://concepticon.clld.org/parameters/1979,meitill,chisel
+185-314,oldn1244,http://concepticon.clld.org/parameters/647,steinn,paint (noun)
+185-323,oldn1244,http://concepticon.clld.org/parameters/2001,steina,paint (vb)
+185-1067,oldn1244,http://concepticon.clld.org/parameters/2001,penta,paint (vb)
+185-957,oldn1244,http://concepticon.clld.org/parameters/765,hreyfa,move
+185-537,oldn1244,http://concepticon.clld.org/parameters/765,hrœra,move
+185-1037,oldn1244,http://concepticon.clld.org/parameters/1588,venda,turn over
+185-815,oldn1244,http://concepticon.clld.org/parameters/1588,hverfa,turn over
+185-711,oldn1244,http://concepticon.clld.org/parameters/1588,snūa,turn over
+185-956,oldn1244,http://concepticon.clld.org/parameters/1445,rīða,turn around
+185-290,oldn1244,http://concepticon.clld.org/parameters/1113,vinda,"wind, wrap"
+185-235,oldn1244,http://concepticon.clld.org/parameters/1113,vefja,"wind, wrap"
+185-1318,oldn1244,http://concepticon.clld.org/parameters/827,velta,roll
+185-1080,oldn1244,http://concepticon.clld.org/parameters/568,rīsa,rise
+185-603,oldn1244,http://concepticon.clld.org/parameters/568,stiga upp,rise
+185-530,oldn1244,http://concepticon.clld.org/parameters/501,hefja,"raise, lift"
+185-804,oldn1244,http://concepticon.clld.org/parameters/501,lypta,"raise, lift"
+185-900,oldn1244,http://concepticon.clld.org/parameters/501,reisa,"raise, lift"
+185-658,oldn1244,http://concepticon.clld.org/parameters/1280,falla,fall
+185-223,oldn1244,http://concepticon.clld.org/parameters/2253,dropi,drip
+185-672,oldn1244,http://concepticon.clld.org/parameters/1456,verpa,throw
+185-413,oldn1244,http://concepticon.clld.org/parameters/1456,kasta,throw
+185-1136,oldn1244,http://concepticon.clld.org/parameters/1909,hrista,shake
+185-302,oldn1244,http://concepticon.clld.org/parameters/1909,skaka,shake
+185-524,oldn1244,http://concepticon.clld.org/parameters/2003,renna,flow
+185-798,oldn1244,http://concepticon.clld.org/parameters/2003,fljōta,flow
+185-585,oldn1244,http://concepticon.clld.org/parameters/1088,søkkva,sink
+185-798,oldn1244,http://concepticon.clld.org/parameters/1574,fljōta,float
+185-1202,oldn1244,http://concepticon.clld.org/parameters/1439,svimma,swim
+185-209,oldn1244,http://concepticon.clld.org/parameters/1439,synda,swim
+185-971,oldn1244,http://concepticon.clld.org/parameters/787,sigla,sail (vb)
+185-860,oldn1244,http://concepticon.clld.org/parameters/1441,fljūga,fly (vb)
+185-1081,oldn1244,http://concepticon.clld.org/parameters/175,blāsa,blow
+185-216,oldn1244,http://concepticon.clld.org/parameters/96,skrīða,"creep, crawl"
+185-674,oldn1244,http://concepticon.clld.org/parameters/96,krjūpa,"creep, crawl"
+185-1125,oldn1244,http://concepticon.clld.org/parameters/1324,skreppa,"slide, slip"
+185-1130,oldn1244,http://concepticon.clld.org/parameters/1324,skriðna,"slide, slip"
+185-522,oldn1244,http://concepticon.clld.org/parameters/1829,støkkva,"jump, leap"
+185-757,oldn1244,http://concepticon.clld.org/parameters/1829,hlaupa,"jump, leap"
+185-1044,oldn1244,http://concepticon.clld.org/parameters/1879,hoppa,dance
+185-1161,oldn1244,http://concepticon.clld.org/parameters/1879,dansa,dance
+185-1034,oldn1244,http://concepticon.clld.org/parameters/1443,ganga,walk
+185-524,oldn1244,http://concepticon.clld.org/parameters/1519,renna,run
+185-757,oldn1244,http://concepticon.clld.org/parameters/1519,hlaupa,run
+185-1034,oldn1244,http://concepticon.clld.org/parameters/695,ganga,go
+185-448,oldn1244,http://concepticon.clld.org/parameters/695,fara,go
+185-992,oldn1244,http://concepticon.clld.org/parameters/695,līða,go
+185-211,oldn1244,http://concepticon.clld.org/parameters/1446,koma,come
+185-390,oldn1244,http://concepticon.clld.org/parameters/1752,ganga af,"go away, depart"
+185-1095,oldn1244,http://concepticon.clld.org/parameters/1752,ganga brott,"go away, depart"
+185-388,oldn1244,http://concepticon.clld.org/parameters/956,flȳja,flee
+185-17,oldn1244,http://concepticon.clld.org/parameters/1085,fylgja,follow
+185-1168,oldn1244,http://concepticon.clld.org/parameters/1047,elta,pursue
+185-918,oldn1244,http://concepticon.clld.org/parameters/1387,koma at,"reach, arrive"
+185-803,oldn1244,http://concepticon.clld.org/parameters/1387,nā,"reach, arrive"
+185-563,oldn1244,http://concepticon.clld.org/parameters/1778,ganga nœr,approach
+185-623,oldn1244,http://concepticon.clld.org/parameters/1778,nākvœma,approach
+185-1192,oldn1244,http://concepticon.clld.org/parameters/749,gagga inn,enter
+185-1217,oldn1244,http://concepticon.clld.org/parameters/700,bera,carry (bear)
+185-1096,oldn1244,http://concepticon.clld.org/parameters/692,fœra,bring
+185-211,oldn1244,http://concepticon.clld.org/parameters/692,koma,bring
+185-75,oldn1244,http://concepticon.clld.org/parameters/43,leiða,lead (vb)
+185-961,oldn1244,http://concepticon.clld.org/parameters/741,reka,drive
+185-1135,oldn1244,http://concepticon.clld.org/parameters/741,keyra,drive
+185-956,oldn1244,http://concepticon.clld.org/parameters/367,rīða,ride
+185-405,oldn1244,http://concepticon.clld.org/parameters/367,aka,ride
+185-128,oldn1244,http://concepticon.clld.org/parameters/1452,skȳfa,"push, shove"
+185-222,oldn1244,http://concepticon.clld.org/parameters/667,vegr,road
+185-570,oldn1244,http://concepticon.clld.org/parameters/667,braut,road
+185-288,oldn1244,http://concepticon.clld.org/parameters/667,gata,road
+185-604,oldn1244,http://concepticon.clld.org/parameters/2252,stīgr,path
+185-733,oldn1244,http://concepticon.clld.org/parameters/1011,brū,bridge
+185-828,oldn1244,http://concepticon.clld.org/parameters/122,reið,"carriage, wagon, cart"
+185-910,oldn1244,http://concepticon.clld.org/parameters/122,vagn,"carriage, wagon, cart"
+185-151,oldn1244,http://concepticon.clld.org/parameters/122,karir,"carriage, wagon, cart"
+185-85,oldn1244,http://concepticon.clld.org/parameters/710,hvel,wheel
+185-1021,oldn1244,http://concepticon.clld.org/parameters/710,hjōl,wheel
+185-612,oldn1244,http://concepticon.clld.org/parameters/710,hvēl,wheel
+185-613,oldn1244,http://concepticon.clld.org/parameters/1769,oxull,axle
+185-504,oldn1244,http://concepticon.clld.org/parameters/1769,oxultrē,axle
+185-1153,oldn1244,http://concepticon.clld.org/parameters/14,ok,yoke
+185-6,oldn1244,http://concepticon.clld.org/parameters/740,skip,ship
+185-710,oldn1244,http://concepticon.clld.org/parameters/740,nōr,ship
+185-1219,oldn1244,http://concepticon.clld.org/parameters/740,fley,ship
+185-633,oldn1244,http://concepticon.clld.org/parameters/1844,bāir,boat
+185-582,oldn1244,http://concepticon.clld.org/parameters/1844,nokkvi,boat
+185-940,oldn1244,http://concepticon.clld.org/parameters/1664,floti,raft
+185-694,oldn1244,http://concepticon.clld.org/parameters/108,ār,oar
+185-857,oldn1244,http://concepticon.clld.org/parameters/108,rœði,oar
+185-427,oldn1244,http://concepticon.clld.org/parameters/108,stȳri,rudder
+185-743,oldn1244,http://concepticon.clld.org/parameters/108,rœðri,rudder
+185-971,oldn1244,http://concepticon.clld.org/parameters/184,sigla,mast
+185-409,oldn1244,http://concepticon.clld.org/parameters/184,siglutrē,mast
+185-11,oldn1244,http://concepticon.clld.org/parameters/786,segl,sail (noun)
+185-836,oldn1244,http://concepticon.clld.org/parameters/1870,akkeri,anchor
+185-639,oldn1244,http://concepticon.clld.org/parameters/610,hofn,"harbor, port"
+185-1269,oldn1244,http://concepticon.clld.org/parameters/773,hafa,have
+185-1289,oldn1244,http://concepticon.clld.org/parameters/684,eiga,"own, possess"
+185-252,oldn1244,http://concepticon.clld.org/parameters/1749,nema,take
+185-542,oldn1244,http://concepticon.clld.org/parameters/1749,taka,take
+185-952,oldn1244,http://concepticon.clld.org/parameters/1749,θiggja,take
+185-542,oldn1244,http://concepticon.clld.org/parameters/2021,taka,"seize, grasp"
+185-1118,oldn1244,http://concepticon.clld.org/parameters/2021,grīpa,"seize, grasp"
+185-590,oldn1244,http://concepticon.clld.org/parameters/2021,fā,"seize, grasp"
+185-902,oldn1244,http://concepticon.clld.org/parameters/1448,halda,hold
+185-1269,oldn1244,http://concepticon.clld.org/parameters/1448,hafa,hold
+185-590,oldn1244,http://concepticon.clld.org/parameters/694,fā,"get, obtain"
+185-954,oldn1244,http://concepticon.clld.org/parameters/694,geta,"get, obtain"
+185-902,oldn1244,http://concepticon.clld.org/parameters/1477,halda,"keep, retain"
+185-1154,oldn1244,http://concepticon.clld.org/parameters/1447,gefa,give
+185-1052,oldn1244,http://concepticon.clld.org/parameters/85,gefa aptr,give back
+185-135,oldn1244,http://concepticon.clld.org/parameters/1997,bjarga,"preserve, look after"
+185-187,oldn1244,http://concepticon.clld.org/parameters/2008,hjalpa,"save, rescue"
+185-80,oldn1244,http://concepticon.clld.org/parameters/2008,frjālsa,"save, rescue"
+185-892,oldn1244,http://concepticon.clld.org/parameters/681,spilla,destroy
+185-213,oldn1244,http://concepticon.clld.org/parameters/44,skeða,"harm, injure, damage"
+185-450,oldn1244,http://concepticon.clld.org/parameters/44,skaða,"harm, injure, damage"
+185-99,oldn1244,http://concepticon.clld.org/parameters/1468,leita,"seek, look for"
+185-470,oldn1244,http://concepticon.clld.org/parameters/1468,sœkja,"seek, look for"
+185-712,oldn1244,http://concepticon.clld.org/parameters/719,finna,find
+185-738,oldn1244,http://concepticon.clld.org/parameters/1660,tȳna,lose
+185-707,oldn1244,http://concepticon.clld.org/parameters/1660,tapa,lose
+185-194,oldn1244,http://concepticon.clld.org/parameters/1095,lāta laust,"release, let go"
+185-386,oldn1244,http://concepticon.clld.org/parameters/1559,fē,money
+185-949,oldn1244,http://concepticon.clld.org/parameters/1559,peningar,money
+185-1303,oldn1244,http://concepticon.clld.org/parameters/1559,baugr,money
+185-657,oldn1244,http://concepticon.clld.org/parameters/1867,peningr,coin
+185-646,oldn1244,http://concepticon.clld.org/parameters/1867,mynt,coin
+185-1239,oldn1244,http://concepticon.clld.org/parameters/712,auðigr,rich
+185-1281,oldn1244,http://concepticon.clld.org/parameters/712,rīkr,rich
+185-406,oldn1244,http://concepticon.clld.org/parameters/1674,fātœkr,poor
+185-543,oldn1244,http://concepticon.clld.org/parameters/1674,ūauðigr,poor
+185-1199,oldn1244,http://concepticon.clld.org/parameters/1934,gongumaðr,beggar
+185-1048,oldn1244,http://concepticon.clld.org/parameters/1934,olmusumaðr,beggar
+185-1156,oldn1244,http://concepticon.clld.org/parameters/1774,fē-gjarn,"avaricious, stingy"
+185-1180,oldn1244,http://concepticon.clld.org/parameters/1774,-frekr,"avaricious, stingy"
+185-249,oldn1244,http://concepticon.clld.org/parameters/1774,hnøggr,"avaricious, stingy"
+185-317,oldn1244,http://concepticon.clld.org/parameters/582,ljā,lend
+185-1012,oldn1244,http://concepticon.clld.org/parameters/582,lāna,lend
+185-87,oldn1244,http://concepticon.clld.org/parameters/1823,θiggja at lāni,borrow
+185-271,oldn1244,http://concepticon.clld.org/parameters/369,vera skyldr,owe
+185-1313,oldn1244,http://concepticon.clld.org/parameters/369,skyldugr,owe
+185-1232,oldn1244,http://concepticon.clld.org/parameters/1914,skuld,debt
+185-1216,oldn1244,http://concepticon.clld.org/parameters/718,gjalda,pay (vb)
+185-263,oldn1244,http://concepticon.clld.org/parameters/1081,tal,"account, reckoning"
+185-327,oldn1244,http://concepticon.clld.org/parameters/1081,tala,"account, reckoning"
+185-1043,oldn1244,http://concepticon.clld.org/parameters/1081,reikningr,"account, reckoning"
+185-978,oldn1244,http://concepticon.clld.org/parameters/873,skattr,"tax, tribute"
+185-789,oldn1244,http://concepticon.clld.org/parameters/873,tollr,"tax, tribute"
+185-348,oldn1244,http://concepticon.clld.org/parameters/856,leiga,hire
+185-348,oldn1244,http://concepticon.clld.org/parameters/1122,leiga,wages
+185-481,oldn1244,http://concepticon.clld.org/parameters/1122,kaup,wages
+185-68,oldn1244,http://concepticon.clld.org/parameters/1122,laun,wages
+185-705,oldn1244,http://concepticon.clld.org/parameters/733,vinna,earn
+185-964,oldn1244,http://concepticon.clld.org/parameters/1869,kaupa,buy
+185-1170,oldn1244,http://concepticon.clld.org/parameters/1571,selja,sell
+185-964,oldn1244,http://concepticon.clld.org/parameters/2135,kaupa,"trade, barter"
+185-334,oldn1244,http://concepticon.clld.org/parameters/2135,manga,"trade, barter"
+185-1209,oldn1244,http://concepticon.clld.org/parameters/1082,kaupmaðr,merchant
+185-364,oldn1244,http://concepticon.clld.org/parameters/633,torg,market (place)
+185-112,oldn1244,http://concepticon.clld.org/parameters/633,mark(n)aðr,market (place)
+185-849,oldn1244,http://concepticon.clld.org/parameters/752,būð,"store, shop"
+185-120,oldn1244,http://concepticon.clld.org/parameters/657,verð,price
+185-706,oldn1244,http://concepticon.clld.org/parameters/1426,dȳrr,"dear (costly, expensive)"
+185-816,oldn1244,http://concepticon.clld.org/parameters/1887,ūdḡrr,cheap
+185-872,oldn1244,http://concepticon.clld.org/parameters/723,staðr,place
+185-987,oldn1244,http://concepticon.clld.org/parameters/998,setja,put
+185-1193,oldn1244,http://concepticon.clld.org/parameters/998,leggja,put
+185-1086,oldn1244,http://concepticon.clld.org/parameters/1416,sitja,sit
+185-536,oldn1244,http://concepticon.clld.org/parameters/215,liggja,lie down
+185-113,oldn1244,http://concepticon.clld.org/parameters/1442,standa,stand
+185-47,oldn1244,http://concepticon.clld.org/parameters/987,dveljask,"remain, stay"
+185-479,oldn1244,http://concepticon.clld.org/parameters/987,bīða,"remain, stay"
+185-1272,oldn1244,http://concepticon.clld.org/parameters/838,lifa,"remains, left overs"
+185-1256,oldn1244,http://concepticon.clld.org/parameters/838,lifna,"remains, left overs"
+185-564,oldn1244,http://concepticon.clld.org/parameters/7,samna,"collect, gather"
+185-1032,oldn1244,http://concepticon.clld.org/parameters/7,lesa,"collect, gather"
+185-544,oldn1244,http://concepticon.clld.org/parameters/1743,samtengja,"join, unite"
+185-182,oldn1244,http://concepticon.clld.org/parameters/1743,samlaga,"join, unite"
+185-253,oldn1244,http://concepticon.clld.org/parameters/1359,skilja,separate
+185-551,oldn1244,http://concepticon.clld.org/parameters/1156,opna,open
+185-821,oldn1244,http://concepticon.clld.org/parameters/1156,lūka up,open
+185-234,oldn1244,http://concepticon.clld.org/parameters/1046,lūka,"shut, close"
+185-822,oldn1244,http://concepticon.clld.org/parameters/1046,lykja,"shut, close"
+185-1214,oldn1244,http://concepticon.clld.org/parameters/761,θekja,cover
+185-258,oldn1244,http://concepticon.clld.org/parameters/761,hylja,cover
+185-264,oldn1244,http://concepticon.clld.org/parameters/602,leyna,"hide, conceal"
+185-1299,oldn1244,http://concepticon.clld.org/parameters/602,fela,"hide, conceal"
+185-258,oldn1244,http://concepticon.clld.org/parameters/602,hylja,"hide, conceal"
+185-309,oldn1244,http://concepticon.clld.org/parameters/1265,hār,high
+185-1172,oldn1244,http://concepticon.clld.org/parameters/721,lāgr,low
+185-402,oldn1244,http://concepticon.clld.org/parameters/1753,toppr,top
+185-830,oldn1244,http://concepticon.clld.org/parameters/690,botn,bottom
+185-469,oldn1244,http://concepticon.clld.org/parameters/690,grunnr,bottom
+185-817,oldn1244,http://concepticon.clld.org/parameters/742,endi,end
+185-1310,oldn1244,http://concepticon.clld.org/parameters/372,oddr,pointed
+185-333,oldn1244,http://concepticon.clld.org/parameters/863,egg,edge
+185-552,oldn1244,http://concepticon.clld.org/parameters/863,rond,edge
+185-637,oldn1244,http://concepticon.clld.org/parameters/682,sīða,side
+185-730,oldn1244,http://concepticon.clld.org/parameters/1093,miðr,"middle, center"
+185-684,oldn1244,http://concepticon.clld.org/parameters/1093,mið-,"middle, center"
+185-30,oldn1244,http://concepticon.clld.org/parameters/1019,hœgri,right (side)
+185-3,oldn1244,http://concepticon.clld.org/parameters/244,vinstri,left (side)
+185-977,oldn1244,http://concepticon.clld.org/parameters/1942,nœri,near (adv)
+185-1093,oldn1244,http://concepticon.clld.org/parameters/1406,fjarri,far (adv)
+185-375,oldn1244,http://concepticon.clld.org/parameters/1406,langt,far (adv)
+185-638,oldn1244,http://concepticon.clld.org/parameters/1877,austr,east
+185-1073,oldn1244,http://concepticon.clld.org/parameters/1817,vestr,west
+185-293,oldn1244,http://concepticon.clld.org/parameters/1598,norðr,north
+185-1003,oldn1244,http://concepticon.clld.org/parameters/1595,suðr,south
+185-632,oldn1244,http://concepticon.clld.org/parameters/479,vaxa,grow
+185-149,oldn1244,http://concepticon.clld.org/parameters/1506,mœ̄la,measure
+185-619,oldn1244,http://concepticon.clld.org/parameters/1202,stōrr,"large, big"
+185-595,oldn1244,http://concepticon.clld.org/parameters/1202,mikill,"large, big"
+185-197,oldn1244,http://concepticon.clld.org/parameters/1246,lītill,"small, little"
+185-421,oldn1244,http://concepticon.clld.org/parameters/1246,smār,"small, little"
+185-70,oldn1244,http://concepticon.clld.org/parameters/1246,smalr,"small, little"
+185-139,oldn1244,http://concepticon.clld.org/parameters/1203,langr,long
+185-934,oldn1244,http://concepticon.clld.org/parameters/1645,skammr,short
+185-751,oldn1244,http://concepticon.clld.org/parameters/1243,breiðr,"wide, broad"
+185-596,oldn1244,http://concepticon.clld.org/parameters/1243,vīðr,"wide, broad"
+185-1011,oldn1244,http://concepticon.clld.org/parameters/1267,θrongr,narrow
+185-140,oldn1244,http://concepticon.clld.org/parameters/1267,ongr,narrow
+185-497,oldn1244,http://concepticon.clld.org/parameters/1244,θykkr,thick (in dimension)
+185-398,oldn1244,http://concepticon.clld.org/parameters/1400,θunnr,thin (in dimension)
+185-108,oldn1244,http://concepticon.clld.org/parameters/1593,djūpr,deep
+185-469,oldn1244,http://concepticon.clld.org/parameters/193,grunnr,shallow
+185-810,oldn1244,http://concepticon.clld.org/parameters/1633,flatr,flat
+185-304,oldn1244,http://concepticon.clld.org/parameters/1404,rēttr,straight
+185-1019,oldn1244,http://concepticon.clld.org/parameters/1404,beinn,straight
+185-408,oldn1244,http://concepticon.clld.org/parameters/1404,rakr,straight
+185-294,oldn1244,http://concepticon.clld.org/parameters/297,krōkōttr,crooked
+185-528,oldn1244,http://concepticon.clld.org/parameters/1071,krōkr,hook
+185-89,oldn1244,http://concepticon.clld.org/parameters/192,horn,corner
+185-795,oldn1244,http://concepticon.clld.org/parameters/192,hyrning,corner
+185-2,oldn1244,http://concepticon.clld.org/parameters/1367,kross,cross
+185-177,oldn1244,http://concepticon.clld.org/parameters/850,ferskeyttr,square
+185-557,oldn1244,http://concepticon.clld.org/parameters/850,ferhyrndr,square
+185-458,oldn1244,http://concepticon.clld.org/parameters/1395,sīvalr,round
+185-720,oldn1244,http://concepticon.clld.org/parameters/1395,kringlōttr,round
+185-1228,oldn1244,http://concepticon.clld.org/parameters/1467,hringr,circle
+185-773,oldn1244,http://concepticon.clld.org/parameters/1467,kringla,circle
+185-153,oldn1244,http://concepticon.clld.org/parameters/1845,bollr,"sphere, ball"
+185-354,oldn1244,http://concepticon.clld.org/parameters/1667,rauf,hole
+185-129,oldn1244,http://concepticon.clld.org/parameters/1558,līkr,"like, similar"
+185-267,oldn1244,http://concepticon.clld.org/parameters/1264,skipta,change
+185-196,oldn1244,http://concepticon.clld.org/parameters/1264,byta,change
+185-1241,oldn1244,http://concepticon.clld.org/parameters/98,hverr,"every, all"
+185-378,oldn1244,http://concepticon.clld.org/parameters/98,allr,"every, all"
+185-1218,oldn1244,http://concepticon.clld.org/parameters/98,allir,"every, all"
+185-595,oldn1244,http://concepticon.clld.org/parameters/1198,mikill,"much, many"
+185-189,oldn1244,http://concepticon.clld.org/parameters/1198,margir,"much, many"
+185-854,oldn1244,http://concepticon.clld.org/parameters/1198,mangir,"much, many"
+185-26,oldn1244,http://concepticon.clld.org/parameters/1992,meiri,more
+185-32,oldn1244,http://concepticon.clld.org/parameters/1992,fleiri,more
+185-197,oldn1244,http://concepticon.clld.org/parameters/1242,lītill,"little (quantity), few"
+185-550,oldn1244,http://concepticon.clld.org/parameters/1242,fāir,"little (quantity), few"
+185-662,oldn1244,http://concepticon.clld.org/parameters/1881,gnōgr,enough
+185-1208,oldn1244,http://concepticon.clld.org/parameters/2023,margr,"multitude, crowd"
+185-742,oldn1244,http://concepticon.clld.org/parameters/2023,mengi,"multitude, crowd"
+185-761,oldn1244,http://concepticon.clld.org/parameters/2023,θrong,"multitude, crowd"
+185-1063,oldn1244,http://concepticon.clld.org/parameters/1429,fullr,full
+185-16,oldn1244,http://concepticon.clld.org/parameters/1624,tōmr,empty
+185-476,oldn1244,http://concepticon.clld.org/parameters/1624,lauss,empty
+185-794,oldn1244,http://concepticon.clld.org/parameters/779,hlutr,"part, piece"
+185-127,oldn1244,http://concepticon.clld.org/parameters/779,deild,"part, piece"
+185-490,oldn1244,http://concepticon.clld.org/parameters/816,halfr,half
+185-759,oldn1244,http://concepticon.clld.org/parameters/1580,einn,"alone, only"
+185-827,oldn1244,http://concepticon.clld.org/parameters/1580,einga-,"alone, only"
+185-853,oldn1244,http://concepticon.clld.org/parameters/728,fyrstr,first
+185-1126,oldn1244,http://concepticon.clld.org/parameters/1529,sīðastr,last
+185-555,oldn1244,http://concepticon.clld.org/parameters/892,tīð,time
+185-696,oldn1244,http://concepticon.clld.org/parameters/892,tīmi,time
+185-1060,oldn1244,http://concepticon.clld.org/parameters/892,stund,time
+185-176,oldn1244,http://concepticon.clld.org/parameters/1789,aldr,age
+185-285,oldn1244,http://concepticon.clld.org/parameters/1231,nȳr,new
+185-152,oldn1244,http://concepticon.clld.org/parameters/1207,ungr,young
+185-61,oldn1244,http://concepticon.clld.org/parameters/1229,forn,old
+185-990,oldn1244,http://concepticon.clld.org/parameters/1229,gamall,old
+185-694,oldn1244,http://concepticon.clld.org/parameters/672,ār,early
+185-1200,oldn1244,http://concepticon.clld.org/parameters/672,ārla,early
+185-94,oldn1244,http://concepticon.clld.org/parameters/672,snemma,early
+185-937,oldn1244,http://concepticon.clld.org/parameters/477,sīð,late
+185-1148,oldn1244,http://concepticon.clld.org/parameters/477,seint,late
+185-1102,oldn1244,http://concepticon.clld.org/parameters/1376,nū,now
+185-15,oldn1244,http://concepticon.clld.org/parameters/1963,brātt,immediately
+185-179,oldn1244,http://concepticon.clld.org/parameters/1963,fljōtt,immediately
+185-27,oldn1244,http://concepticon.clld.org/parameters/1631,fljōtr,"swift, fast, quick"
+185-489,oldn1244,http://concepticon.clld.org/parameters/1631,skjōtr,"swift, fast, quick"
+185-577,oldn1244,http://concepticon.clld.org/parameters/1631,hraðr,"swift, fast, quick"
+185-984,oldn1244,http://concepticon.clld.org/parameters/1631,snarr,"swift, fast, quick"
+185-1133,oldn1244,http://concepticon.clld.org/parameters/701,seinn,slow
+185-368,oldn1244,http://concepticon.clld.org/parameters/701,latr,slow
+185-981,oldn1244,http://concepticon.clld.org/parameters/754,skynda sēr,"hasten, hurry"
+185-788,oldn1244,http://concepticon.clld.org/parameters/754,skunda sēr,"hasten, hurry"
+185-282,oldn1244,http://concepticon.clld.org/parameters/425,dwelja,"retard, delay"
+185-1142,oldn1244,http://concepticon.clld.org/parameters/425,seina,"retard, delay"
+185-371,oldn1244,http://concepticon.clld.org/parameters/1806,hefja upp,"begin, beginning"
+185-477,oldn1244,http://concepticon.clld.org/parameters/1806,bryja,"begin, beginning"
+185-305,oldn1244,http://concepticon.clld.org/parameters/1806,upphaf,"begin, beginning"
+185-793,oldn1244,http://concepticon.clld.org/parameters/1186,haldask,"last, endure"
+185-817,oldn1244,http://concepticon.clld.org/parameters/743,endi,end (temporal)
+185-1195,oldn1244,http://concepticon.clld.org/parameters/743,lok,end (temporal)
+185-207,oldn1244,http://concepticon.clld.org/parameters/1766,enda,finish
+185-999,oldn1244,http://concepticon.clld.org/parameters/1766,lūka við,finish
+185-1223,oldn1244,http://concepticon.clld.org/parameters/1928,hœtta,"cease, stop"
+185-800,oldn1244,http://concepticon.clld.org/parameters/1928,lētta,"cease, stop"
+185-1119,oldn1244,http://concepticon.clld.org/parameters/790,būinn,ready
+185-599,oldn1244,http://concepticon.clld.org/parameters/1676,alla tīð,always
+185-283,oldn1244,http://concepticon.clld.org/parameters/1852,opt,often
+185-1107,oldn1244,http://concepticon.clld.org/parameters/1544,stundum,sometimes
+185-946,oldn1244,http://concepticon.clld.org/parameters/1656,aldrigi,never
+185-71,oldn1244,http://concepticon.clld.org/parameters/204,aptr,again
+185-36,oldn1244,http://concepticon.clld.org/parameters/1260,dagr,day
+185-625,oldn1244,http://concepticon.clld.org/parameters/1233,nōtt,night
+185-1059,oldn1244,http://concepticon.clld.org/parameters/729,dagan,dawn
+185-1139,oldn1244,http://concepticon.clld.org/parameters/729,dagsbrūn,dawn
+185-57,oldn1244,http://concepticon.clld.org/parameters/1339,morginn,morning
+185-567,oldn1244,http://concepticon.clld.org/parameters/12,miðr dagr,"noon, midday"
+185-336,oldn1244,http://concepticon.clld.org/parameters/12,mið degi,"noon, midday"
+185-842,oldn1244,http://concepticon.clld.org/parameters/12,hādegi,"noon, midday"
+185-147,oldn1244,http://concepticon.clld.org/parameters/1629,kveld,evening
+185-291,oldn1244,http://concepticon.clld.org/parameters/1629,aptann,evening
+185-685,oldn1244,http://concepticon.clld.org/parameters/1283,ī dag,today
+185-248,oldn1244,http://concepticon.clld.org/parameters/1329,ā morgin,tomorrow
+185-509,oldn1244,http://concepticon.clld.org/parameters/1174,ī gœ̄r,yesterday
+185-555,oldn1244,http://concepticon.clld.org/parameters/1353,tīð,hour
+185-1060,oldn1244,http://concepticon.clld.org/parameters/1353,stund,hour
+185-332,oldn1244,http://concepticon.clld.org/parameters/1469,vika,week
+185-1165,oldn1244,http://concepticon.clld.org/parameters/1699,sunnudagr,Sunday
+185-313,oldn1244,http://concepticon.clld.org/parameters/1699,drōttinsdagr,Sunday
+185-991,oldn1244,http://concepticon.clld.org/parameters/1697,mānudagr,Monday
+185-1308,oldn1244,http://concepticon.clld.org/parameters/1695,tȳsdagr,Tuesday
+185-926,oldn1244,http://concepticon.clld.org/parameters/1694,ōðinsdagr,Wednesday
+185-1236,oldn1244,http://concepticon.clld.org/parameters/1693,θōrsdagr,Thursday
+185-1312,oldn1244,http://concepticon.clld.org/parameters/1692,frjādagr,Friday
+185-640,oldn1244,http://concepticon.clld.org/parameters/1700,laugardagr,Saturday
+185-1204,oldn1244,http://concepticon.clld.org/parameters/1700,θvāttdagr,Saturday
+185-554,oldn1244,http://concepticon.clld.org/parameters/1370,mānaðr,month
+185-694,oldn1244,http://concepticon.clld.org/parameters/1226,ār,year
+185-167,oldn1244,http://concepticon.clld.org/parameters/1471,vetr,winter
+185-93,oldn1244,http://concepticon.clld.org/parameters/1537,vār,spring
+185-1014,oldn1244,http://concepticon.clld.org/parameters/1342,sumar,summer
+185-1230,oldn1244,http://concepticon.clld.org/parameters/1276,haust,autumn
+185-168,oldn1244,http://concepticon.clld.org/parameters/1587,θefja,smell (vb intrans)
+185-1211,oldn1244,http://concepticon.clld.org/parameters/1587,θefa ilma,smell (vb intrans)
+185-416,oldn1244,http://concepticon.clld.org/parameters/1586,θefa,smell (vb trans)
+185-301,oldn1244,http://concepticon.clld.org/parameters/1586,θefja ilma,smell (vb trans)
+185-221,oldn1244,http://concepticon.clld.org/parameters/376,vel θefaðr,"fragrant, good smelling"
+185-1035,oldn1244,http://concepticon.clld.org/parameters/376,vel ilmaðr,"fragrant, good smelling"
+185-431,oldn1244,http://concepticon.clld.org/parameters/376,θefgōðr,"fragrant, good smelling"
+185-521,oldn1244,http://concepticon.clld.org/parameters/42,īlla θefaðr,"stinking, bad smelling"
+185-1178,oldn1244,http://concepticon.clld.org/parameters/42,īlla ilmaðr,"stinking, bad smelling"
+185-1085,oldn1244,http://concepticon.clld.org/parameters/42,fūll,"stinking, bad smelling"
+185-312,oldn1244,http://concepticon.clld.org/parameters/21,bergja,taste
+185-328,oldn1244,http://concepticon.clld.org/parameters/717,sœtr,sweet
+185-268,oldn1244,http://concepticon.clld.org/parameters/1091,saltr,salty
+185-933,oldn1244,http://concepticon.clld.org/parameters/887,beiskr,bitter
+185-1317,oldn1244,http://concepticon.clld.org/parameters/1906,sūrr,"acid, sour"
+185-97,oldn1244,http://concepticon.clld.org/parameters/1408,høyra,hear
+185-1028,oldn1244,http://concepticon.clld.org/parameters/1408,heyra,hear
+185-162,oldn1244,http://concepticon.clld.org/parameters/1608,hlȳða,listen
+185-520,oldn1244,http://concepticon.clld.org/parameters/1811,hljōð,"sound, noise"
+185-309,oldn1244,http://concepticon.clld.org/parameters/377,hār,loud
+185-664,oldn1244,http://concepticon.clld.org/parameters/1409,sjā,see
+185-514,oldn1244,http://concepticon.clld.org/parameters/1819,līta,"look, look at"
+185-878,oldn1244,http://concepticon.clld.org/parameters/1039,vīsa,show
+185-781,oldn1244,http://concepticon.clld.org/parameters/1039,sȳna,show
+185-654,oldn1244,http://concepticon.clld.org/parameters/708,skīna,shine
+185-732,oldn1244,http://concepticon.clld.org/parameters/708,lȳsa,shine
+185-134,oldn1244,http://concepticon.clld.org/parameters/708,glīta,shine
+185-783,oldn1244,http://concepticon.clld.org/parameters/679,ljōss,bright
+185-566,oldn1244,http://concepticon.clld.org/parameters/679,skœ̄rr,bright
+185-588,oldn1244,http://concepticon.clld.org/parameters/679,bjartr,bright
+185-357,oldn1244,http://concepticon.clld.org/parameters/1613,litr,color
+185-1283,oldn1244,http://concepticon.clld.org/parameters/706,døkkr,dark (in color)
+185-55,oldn1244,http://concepticon.clld.org/parameters/1335,hvītr,white
+185-802,oldn1244,http://concepticon.clld.org/parameters/163,svartr,black
+185-468,oldn1244,http://concepticon.clld.org/parameters/156,rauðr,red
+185-1147,oldn1244,http://concepticon.clld.org/parameters/156,rjōðr,red
+185-667,oldn1244,http://concepticon.clld.org/parameters/837,blār,blue
+185-145,oldn1244,http://concepticon.clld.org/parameters/1425,grœnn,green
+185-708,oldn1244,http://concepticon.clld.org/parameters/1424,gulr,yellow
+185-972,oldn1244,http://concepticon.clld.org/parameters/1892,snerta,touch
+185-289,oldn1244,http://concepticon.clld.org/parameters/1892,koma við,touch
+185-929,oldn1244,http://concepticon.clld.org/parameters/1079,θreifa,feel
+185-693,oldn1244,http://concepticon.clld.org/parameters/1884,harðr,hard
+185-315,oldn1244,http://concepticon.clld.org/parameters/1856,mjūkr,soft
+185-627,oldn1244,http://concepticon.clld.org/parameters/1856,blautr,soft
+185-1305,oldn1244,http://concepticon.clld.org/parameters/1923,ūslēttr,rough
+185-109,oldn1244,http://concepticon.clld.org/parameters/1923,hrjūfr,rough
+185-255,oldn1244,http://concepticon.clld.org/parameters/1234,slēttr,smooth
+185-1206,oldn1244,http://concepticon.clld.org/parameters/1396,hvass,sharp
+185-104,oldn1244,http://concepticon.clld.org/parameters/1396,skarpr,sharp
+185-510,oldn1244,http://concepticon.clld.org/parameters/379,sljōr,"blunt, dull"
+185-923,oldn1244,http://concepticon.clld.org/parameters/1210,θungr,heavy
+185-1252,oldn1244,http://concepticon.clld.org/parameters/1210,hofugr,heavy
+185-395,oldn1244,http://concepticon.clld.org/parameters/1210,svārr,heavy
+185-1274,oldn1244,http://concepticon.clld.org/parameters/1052,lēttr,light (in weight)
+185-456,oldn1244,http://concepticon.clld.org/parameters/1726,vātr,"wet, damp"
+185-1215,oldn1244,http://concepticon.clld.org/parameters/1726,vokr,"wet, damp"
+185-180,oldn1244,http://concepticon.clld.org/parameters/1398,θurr,dry
+185-463,oldn1244,http://concepticon.clld.org/parameters/1286,heitr,hot
+185-870,oldn1244,http://concepticon.clld.org/parameters/1232,varmr,warm
+185-254,oldn1244,http://concepticon.clld.org/parameters/1287,kaldr,cold
+185-96,oldn1244,http://concepticon.clld.org/parameters/704,hreinn,clean
+185-231,oldn1244,http://concepticon.clld.org/parameters/1230,saurigr,"dirty, soiled"
+185-376,oldn1244,http://concepticon.clld.org/parameters/1230,ūhreinn,"dirty, soiled"
+185-529,oldn1244,http://concepticon.clld.org/parameters/53,ond,"soul, spirit"
+185-451,oldn1244,http://concepticon.clld.org/parameters/53,sāla,"soul, spirit"
+185-186,oldn1244,http://concepticon.clld.org/parameters/53,andi,"soul, spirit"
+185-445,oldn1244,http://concepticon.clld.org/parameters/1572,undr,"surprised, astonished"
+185-361,oldn1244,http://concepticon.clld.org/parameters/720,happ,"good fortune, luck"
+185-778,oldn1244,http://concepticon.clld.org/parameters/56,ūlykka,"misfortune, bad luck"
+185-777,oldn1244,http://concepticon.clld.org/parameters/1495,glaðr,"joyful, glad, happy"
+185-1112,oldn1244,http://concepticon.clld.org/parameters/1495,feginn,"joyful, glad, happy"
+185-424,oldn1244,http://concepticon.clld.org/parameters/1355,hlœ̄ja,laugh
+185-899,oldn1244,http://concepticon.clld.org/parameters/1355,brosa,laugh
+185-200,oldn1244,http://concepticon.clld.org/parameters/1413,leika,play
+185-284,oldn1244,http://concepticon.clld.org/parameters/923,āst,love
+185-73,oldn1244,http://concepticon.clld.org/parameters/923,elska,love
+185-322,oldn1244,http://concepticon.clld.org/parameters/923,unna,love
+185-945,oldn1244,http://concepticon.clld.org/parameters/923,frjā,love
+185-14,oldn1244,http://concepticon.clld.org/parameters/578,kyssa,kiss
+185-1162,oldn1244,http://concepticon.clld.org/parameters/1783,verkr,pain
+185-246,oldn1244,http://concepticon.clld.org/parameters/1783,sārsauki,pain
+185-914,oldn1244,http://concepticon.clld.org/parameters/1668,harmr,"grief, sorrow, sadness"
+185-600,oldn1244,http://concepticon.clld.org/parameters/1668,hrygð,"grief, sorrow, sadness"
+185-1083,oldn1244,http://concepticon.clld.org/parameters/1668,sorg,"grief, sorrow, sadness"
+185-418,oldn1244,http://concepticon.clld.org/parameters/1668,tregi,"grief, sorrow, sadness"
+185-353,oldn1244,http://concepticon.clld.org/parameters/1000,kvīða,"anxiety, worry"
+185-1116,oldn1244,http://concepticon.clld.org/parameters/1875,iðra,"regret, be sorry"
+185-1322,oldn1244,http://concepticon.clld.org/parameters/1141,miskunn,pity
+185-131,oldn1244,http://concepticon.clld.org/parameters/1839,grāta,"cry, weep"
+185-670,oldn1244,http://concepticon.clld.org/parameters/1651,tār,tear (noun)
+185-737,oldn1244,http://concepticon.clld.org/parameters/716,stynja,groan
+185-1171,oldn1244,http://concepticon.clld.org/parameters/1607,hatr,hate
+185-1140,oldn1244,http://concepticon.clld.org/parameters/82,reiði,anger
+185-1134,oldn1244,http://concepticon.clld.org/parameters/82,gremi,anger
+185-634,oldn1244,http://concepticon.clld.org/parameters/82,mōðr,anger
+185-575,oldn1244,http://concepticon.clld.org/parameters/40,ofund,"envy, jealousy"
+185-90,oldn1244,http://concepticon.clld.org/parameters/40,ofundsȳki,"envy, jealousy"
+185-820,oldn1244,http://concepticon.clld.org/parameters/1776,kinnroði,shame (noun)
+185-655,oldn1244,http://concepticon.clld.org/parameters/174,stōrlātr,proud
+185-874,oldn1244,http://concepticon.clld.org/parameters/174,dramblātr,proud
+185-1181,oldn1244,http://concepticon.clld.org/parameters/1779,θora,dare
+185-102,oldn1244,http://concepticon.clld.org/parameters/1779,dirfask,dare
+185-719,oldn1244,http://concepticon.clld.org/parameters/3,djarfr,brave
+185-245,oldn1244,http://concepticon.clld.org/parameters/3,hraustr,brave
+185-1174,oldn1244,http://concepticon.clld.org/parameters/781,ōtti,"fear, fright"
+185-908,oldn1244,http://concepticon.clld.org/parameters/781,ōgn,"fear, fright"
+185-1145,oldn1244,http://concepticon.clld.org/parameters/781,hrœzla,"fear, fright"
+185-229,oldn1244,http://concepticon.clld.org/parameters/781,skelkr,"fear, fright"
+185-1223,oldn1244,http://concepticon.clld.org/parameters/1810,hœtta,danger
+185-518,oldn1244,http://concepticon.clld.org/parameters/1810,hāski,danger
+185-22,oldn1244,http://concepticon.clld.org/parameters/1784,girna,"desire, want"
+185-20,oldn1244,http://concepticon.clld.org/parameters/1092,vān,hope
+185-726,oldn1244,http://concepticon.clld.org/parameters/100,tryggr,faithful
+185-776,oldn1244,http://concepticon.clld.org/parameters/100,trūr,faithful
+185-1,oldn1244,http://concepticon.clld.org/parameters/1657,sannr,true
+185-496,oldn1244,http://concepticon.clld.org/parameters/601,lygi,"lie, tell lies"
+185-387,oldn1244,http://concepticon.clld.org/parameters/601,lygð,"lie, tell lies"
+185-121,oldn1244,http://concepticon.clld.org/parameters/13,svik,deceit
+185-772,oldn1244,http://concepticon.clld.org/parameters/13,tūl,deceit
+185-21,oldn1244,http://concepticon.clld.org/parameters/1528,fyrirgefa,forgive
+185-558,oldn1244,http://concepticon.clld.org/parameters/1528,miskunna,forgive
+185-1094,oldn1244,http://concepticon.clld.org/parameters/1035,gōðr,good
+185-54,oldn1244,http://concepticon.clld.org/parameters/1292,vāndr,bad
+185-843,oldn1244,http://concepticon.clld.org/parameters/1292,īllr,bad
+185-980,oldn1244,http://concepticon.clld.org/parameters/1292,dāligr,bad
+185-304,oldn1244,http://concepticon.clld.org/parameters/1725,rēttr,"right, correct"
+185-1068,oldn1244,http://concepticon.clld.org/parameters/134,sok,fault
+185-996,oldn1244,http://concepticon.clld.org/parameters/1293,villa,"mistake, error"
+185-53,oldn1244,http://concepticon.clld.org/parameters/381,last,blame
+185-1191,oldn1244,http://concepticon.clld.org/parameters/1687,lof,praise
+185-833,oldn1244,http://concepticon.clld.org/parameters/1427,fagr,beautiful
+185-666,oldn1244,http://concepticon.clld.org/parameters/1548,ljōtr,ugly
+185-230,oldn1244,http://concepticon.clld.org/parameters/1548,ūfagr,ugly
+185-281,oldn1244,http://concepticon.clld.org/parameters/1562,hugr,mind
+185-736,oldn1244,http://concepticon.clld.org/parameters/1562,munr,mind
+185-422,oldn1244,http://concepticon.clld.org/parameters/1415,hugsa,think (= reflect)
+185-51,oldn1244,http://concepticon.clld.org/parameters/1415,hyggja,think (= reflect)
+185-51,oldn1244,http://concepticon.clld.org/parameters/1513,hyggja,think (= be of the opinion)
+185-902,oldn1244,http://concepticon.clld.org/parameters/1513,halda,think (= be of the opinion)
+185-572,oldn1244,http://concepticon.clld.org/parameters/1890,trūa,believe
+185-253,oldn1244,http://concepticon.clld.org/parameters/1536,skilja,understand
+185-356,oldn1244,http://concepticon.clld.org/parameters/1410,vita,know
+185-1100,oldn1244,http://concepticon.clld.org/parameters/1410,kunna,know
+185-266,oldn1244,http://concepticon.clld.org/parameters/1410,kenna,know
+185-1026,oldn1244,http://concepticon.clld.org/parameters/1521,θykkja,seem
+185-52,oldn1244,http://concepticon.clld.org/parameters/1521,sȳnast,seem
+185-494,oldn1244,http://concepticon.clld.org/parameters/698,horskr,wise
+185-173,oldn1244,http://concepticon.clld.org/parameters/698,snotr,wise
+185-1234,oldn1244,http://concepticon.clld.org/parameters/698,vitr,wise
+185-869,oldn1244,http://concepticon.clld.org/parameters/698,vīss,wise
+185-840,oldn1244,http://concepticon.clld.org/parameters/698,frōðr,wise
+185-1159,oldn1244,http://concepticon.clld.org/parameters/1518,heimskr,"foolish, stupid"
+185-1056,oldn1244,http://concepticon.clld.org/parameters/1899,vitlauss,"insane, crazy"
+185-884,oldn1244,http://concepticon.clld.org/parameters/1899,ōðr,"insane, crazy"
+185-252,oldn1244,http://concepticon.clld.org/parameters/504,nema,learn
+185-266,oldn1244,http://concepticon.clld.org/parameters/709,kenna,teach
+185-718,oldn1244,http://concepticon.clld.org/parameters/709,lœra,teach
+185-819,oldn1244,http://concepticon.clld.org/parameters/753,lœrisveinn,pupil
+185-786,oldn1244,http://concepticon.clld.org/parameters/1038,kennimaðr,teacher
+185-389,oldn1244,http://concepticon.clld.org/parameters/1038,kennandi,teacher
+185-122,oldn1244,http://concepticon.clld.org/parameters/1038,kennari,teacher
+185-205,oldn1244,http://concepticon.clld.org/parameters/673,skōli,school
+185-724,oldn1244,http://concepticon.clld.org/parameters/707,muna,remember
+185-1225,oldn1244,http://concepticon.clld.org/parameters/707,minna,remember
+185-1091,oldn1244,http://concepticon.clld.org/parameters/707,minnask,remember
+185-1051,oldn1244,http://concepticon.clld.org/parameters/1523,gleyma,forget
+185-407,oldn1244,http://concepticon.clld.org/parameters/989,skȳrr,"clear, plain"
+185-1007,oldn1244,http://concepticon.clld.org/parameters/1764,myrkr,obscure
+185-138,oldn1244,http://concepticon.clld.org/parameters/1121,leyndr,secret
+185-880,oldn1244,http://concepticon.clld.org/parameters/1121,leyniligr,secret
+185-869,oldn1244,http://concepticon.clld.org/parameters/509,vīss,"sure, certain"
+185-538,oldn1244,http://concepticon.clld.org/parameters/1626,skȳra,explain
+185-797,oldn1244,http://concepticon.clld.org/parameters/1162,œtlan,"intention, purpose"
+185-876,oldn1244,http://concepticon.clld.org/parameters/860,efni,cause
+185-1024,oldn1244,http://concepticon.clld.org/parameters/860,vold,cause
+185-437,oldn1244,http://concepticon.clld.org/parameters/1308,ef,doubt
+185-103,oldn1244,http://concepticon.clld.org/parameters/1308,tȳja,doubt
+185-1088,oldn1244,http://concepticon.clld.org/parameters/1841,grunr,suspect
+185-256,oldn1244,http://concepticon.clld.org/parameters/1363,rodd,voice
+185-592,oldn1244,http://concepticon.clld.org/parameters/1363,raust,voice
+185-260,oldn1244,http://concepticon.clld.org/parameters/1261,syngva,sing
+185-931,oldn1244,http://concepticon.clld.org/parameters/1261,gala,sing
+185-243,oldn1244,http://concepticon.clld.org/parameters/715,œpa,"shout, cry out"
+185-754,oldn1244,http://concepticon.clld.org/parameters/715,kalla,"shout, cry out"
+185-287,oldn1244,http://concepticon.clld.org/parameters/715,hrōpa,"shout, cry out"
+185-814,oldn1244,http://concepticon.clld.org/parameters/1623,mœla,"speak, talk"
+185-863,oldn1244,http://concepticon.clld.org/parameters/1623,rœða,"speak, talk"
+185-327,oldn1244,http://concepticon.clld.org/parameters/1623,tala,"speak, talk"
+185-452,oldn1244,http://concepticon.clld.org/parameters/1458,segja,say
+185-589,oldn1244,http://concepticon.clld.org/parameters/1458,kveða,say
+185-864,oldn1244,http://concepticon.clld.org/parameters/48,θegja,silent (be)
+185-298,oldn1244,http://concepticon.clld.org/parameters/1307,māl,language
+185-1311,oldn1244,http://concepticon.clld.org/parameters/1307,tunga,language
+185-396,oldn1244,http://concepticon.clld.org/parameters/1599,orð,word
+185-1151,oldn1244,http://concepticon.clld.org/parameters/1405,nafn,name
+185-635,oldn1244,http://concepticon.clld.org/parameters/1309,spyrja,"ask (question, inquire)"
+185-311,oldn1244,http://concepticon.clld.org/parameters/1309,fregna,"ask (question, inquire)"
+185-65,oldn1244,http://concepticon.clld.org/parameters/1309,frētta,"ask (question, inquire)"
+185-296,oldn1244,http://concepticon.clld.org/parameters/1275,svara,answer
+185-191,oldn1244,http://concepticon.clld.org/parameters/1275,andsvara,answer
+185-352,oldn1244,http://concepticon.clld.org/parameters/2022,jāta,"admit, confess"
+185-316,oldn1244,http://concepticon.clld.org/parameters/755,synja,deny
+185-955,oldn1244,http://concepticon.clld.org/parameters/755,neita,deny
+185-350,oldn1244,http://concepticon.clld.org/parameters/1828,biðja,"ask, request"
+185-576,oldn1244,http://concepticon.clld.org/parameters/1675,heitan,promise
+185-955,oldn1244,http://concepticon.clld.org/parameters/49,neita,refuse
+185-729,oldn1244,http://concepticon.clld.org/parameters/83,banna,forbid
+185-228,oldn1244,http://concepticon.clld.org/parameters/83,fyrirbjōða,forbid
+185-754,oldn1244,http://concepticon.clld.org/parameters/1084,kalla,call (=summon)
+185-714,oldn1244,http://concepticon.clld.org/parameters/180,heita,call (=name)
+185-754,oldn1244,http://concepticon.clld.org/parameters/180,kalla,call (=name)
+185-415,oldn1244,http://concepticon.clld.org/parameters/9,boða,announce
+185-1098,oldn1244,http://concepticon.clld.org/parameters/9,tjā,announce
+185-1031,oldn1244,http://concepticon.clld.org/parameters/9,kynna,announce
+185-506,oldn1244,http://concepticon.clld.org/parameters/1192,ōgna,threaten
+185-763,oldn1244,http://concepticon.clld.org/parameters/1192,hōta,threaten
+185-762,oldn1244,http://concepticon.clld.org/parameters/101,hrōsa,boast
+185-482,oldn1244,http://concepticon.clld.org/parameters/101,gambra,boast
+185-132,oldn1244,http://concepticon.clld.org/parameters/1672,skrifa,write
+185-966,oldn1244,http://concepticon.clld.org/parameters/1672,rīta,write
+185-411,oldn1244,http://concepticon.clld.org/parameters/724,rāða,read
+185-1032,oldn1244,http://concepticon.clld.org/parameters/724,lesa,read
+185-1263,oldn1244,http://concepticon.clld.org/parameters/794,penni,pen
+185-157,oldn1244,http://concepticon.clld.org/parameters/963,bōk,book
+185-905,oldn1244,http://concepticon.clld.org/parameters/1045,skāld,poet
+185-1304,oldn1244,http://concepticon.clld.org/parameters/1300,land,country
+185-1002,oldn1244,http://concepticon.clld.org/parameters/89,fōstrjorð,one's native country
+185-471,oldn1244,http://concepticon.clld.org/parameters/1391,borg,"city, town"
+185-79,oldn1244,http://concepticon.clld.org/parameters/930,θorp,village
+185-126,oldn1244,http://concepticon.clld.org/parameters/930,bȳr,village
+185-911,oldn1244,http://concepticon.clld.org/parameters/1010,landamœ̄ri,boundary
+185-100,oldn1244,http://concepticon.clld.org/parameters/789,folk,people (populace)
+185-8,oldn1244,http://concepticon.clld.org/parameters/789,lȳðr,people (populace)
+185-578,oldn1244,http://concepticon.clld.org/parameters/302,kind,"tribe, clan"
+185-185,oldn1244,http://concepticon.clld.org/parameters/302,kyn,"tribe, clan"
+185-997,oldn1244,http://concepticon.clld.org/parameters/302,œtt,"tribe, clan"
+185-1000,oldn1244,http://concepticon.clld.org/parameters/1846,stȳra,"rule, govern"
+185-13,oldn1244,http://concepticon.clld.org/parameters/1508,konungr,"king, ruler"
+185-233,oldn1244,http://concepticon.clld.org/parameters/1508,θjōðann,"king, ruler"
+185-699,oldn1244,http://concepticon.clld.org/parameters/1306,drōttning,queen
+185-1267,oldn1244,http://concepticon.clld.org/parameters/482,oðlingr,"noble, nobleman"
+185-517,oldn1244,http://concepticon.clld.org/parameters/1032,borgarmaðr,"citizen, subject"
+185-673,oldn1244,http://concepticon.clld.org/parameters/383,drōttinn,master
+185-447,oldn1244,http://concepticon.clld.org/parameters/812,θrœll,slave
+185-1179,oldn1244,http://concepticon.clld.org/parameters/812,θȳ,slave
+185-146,oldn1244,http://concepticon.clld.org/parameters/255,θjōnn,servant
+185-921,oldn1244,http://concepticon.clld.org/parameters/255,θjōnustumaðr,servant
+185-597,oldn1244,http://concepticon.clld.org/parameters/384,frjāls,freeman
+185-201,oldn1244,http://concepticon.clld.org/parameters/384,frī-hals,freeman
+185-110,oldn1244,http://concepticon.clld.org/parameters/1128,bjōða,"command, order"
+185-162,oldn1244,http://concepticon.clld.org/parameters/1635,hlȳða,obey
+185-486,oldn1244,http://concepticon.clld.org/parameters/1635,hlȳðnask,obey
+185-1226,oldn1244,http://concepticon.clld.org/parameters/1003,lāta,"let, permit"
+185-867,oldn1244,http://concepticon.clld.org/parameters/1003,leyfa,"let, permit"
+185-775,oldn1244,http://concepticon.clld.org/parameters/1325,vinr,"friend, companion"
+185-885,oldn1244,http://concepticon.clld.org/parameters/1358,fjāndi,enemy
+185-1295,oldn1244,http://concepticon.clld.org/parameters/1358,ūvinr,enemy
+185-434,oldn1244,http://concepticon.clld.org/parameters/1332,nābūi,neighbor
+185-1087,oldn1244,http://concepticon.clld.org/parameters/1332,nāgranni,neighbor
+185-891,oldn1244,http://concepticon.clld.org/parameters/791,gestr,stranger
+185-891,oldn1244,http://concepticon.clld.org/parameters/1782,gestr,guest
+185-39,oldn1244,http://concepticon.clld.org/parameters/1545,hūsbōndi,host
+185-698,oldn1244,http://concepticon.clld.org/parameters/1545,gestgjafi,host
+185-499,oldn1244,http://concepticon.clld.org/parameters/1897,duga,"help, aid"
+185-187,oldn1244,http://concepticon.clld.org/parameters/1897,hjalpa,"help, aid"
+185-560,oldn1244,http://concepticon.clld.org/parameters/1550,hindra,"hinder, prevent"
+185-702,oldn1244,http://concepticon.clld.org/parameters/1550,letja,"hinder, prevent"
+185-533,oldn1244,http://concepticon.clld.org/parameters/1747,siðr,custom
+185-903,oldn1244,http://concepticon.clld.org/parameters/1747,vani,custom
+185-944,oldn1244,http://concepticon.clld.org/parameters/1848,strīð,"strife, quarrel"
+185-123,oldn1244,http://concepticon.clld.org/parameters/1848,deila,"strife, quarrel"
+185-807,oldn1244,http://concepticon.clld.org/parameters/1848,θrœta,"strife, quarrel"
+185-998,oldn1244,http://concepticon.clld.org/parameters/2024,samblāstr,"conspiracy, plot"
+185-1072,oldn1244,http://concepticon.clld.org/parameters/2024,samsvarning,"conspiracy, plot"
+185-1237,oldn1244,http://concepticon.clld.org/parameters/1610,hōra,prostitute
+185-959,oldn1244,http://concepticon.clld.org/parameters/1610,pūta,prostitute
+185-159,oldn1244,http://concepticon.clld.org/parameters/1610,skœkja,prostitute
+185-330,oldn1244,http://concepticon.clld.org/parameters/1423,berjask,fight (vb)
+185-238,oldn1244,http://concepticon.clld.org/parameters/1423,vega,fight (vb)
+185-381,oldn1244,http://concepticon.clld.org/parameters/579,styrjold,"war, battle"
+185-1270,oldn1244,http://concepticon.clld.org/parameters/579,gunnr,"war, battle"
+185-944,oldn1244,http://concepticon.clld.org/parameters/579,strīð,"war, battle"
+185-491,oldn1244,http://concepticon.clld.org/parameters/1338,friðr,peace
+185-137,oldn1244,http://concepticon.clld.org/parameters/1561,herr,army
+185-1315,oldn1244,http://concepticon.clld.org/parameters/1941,hermaðr,soldier
+185-462,oldn1244,http://concepticon.clld.org/parameters/951,vāpn,"weapons, arms"
+185-360,oldn1244,http://concepticon.clld.org/parameters/1763,klumba,club
+185-279,oldn1244,http://concepticon.clld.org/parameters/1763,klubba,club
+185-1246,oldn1244,http://concepticon.clld.org/parameters/1763,kylfa,club
+185-746,oldn1244,http://concepticon.clld.org/parameters/1763,rudda,club
+185-818,oldn1244,http://concepticon.clld.org/parameters/387,sløngva,sling
+185-262,oldn1244,http://concepticon.clld.org/parameters/994,bogi,bow
+185-324,oldn1244,http://concepticon.clld.org/parameters/977,or,arrow
+185-574,oldn1244,http://concepticon.clld.org/parameters/977,fleinn,arrow
+185-848,oldn1244,http://concepticon.clld.org/parameters/945,spjōt,spear
+185-1264,oldn1244,http://concepticon.clld.org/parameters/945,geirr,spear
+185-1113,oldn1244,http://concepticon.clld.org/parameters/945,spjor,spear
+185-549,oldn1244,http://concepticon.clld.org/parameters/1535,sverð,sword
+185-280,oldn1244,http://concepticon.clld.org/parameters/1535,mœkir,sword
+185-1146,oldn1244,http://concepticon.clld.org/parameters/1535,hjorr,sword
+185-1220,oldn1244,http://concepticon.clld.org/parameters/1061,herklœði,armor (defensive)
+185-184,oldn1244,http://concepticon.clld.org/parameters/1061,herneskja,armor (defensive)
+185-1149,oldn1244,http://concepticon.clld.org/parameters/1680,hjalmr,helmet
+185-175,oldn1244,http://concepticon.clld.org/parameters/1064,skjoldr,shield
+185-471,oldn1244,http://concepticon.clld.org/parameters/1938,borg,fortress
+185-513,oldn1244,http://concepticon.clld.org/parameters/1671,turn,tower
+185-91,oldn1244,http://concepticon.clld.org/parameters/783,sigr,victory
+185-548,oldn1244,http://concepticon.clld.org/parameters/782,ūsigr,defeat
+185-417,oldn1244,http://concepticon.clld.org/parameters/722,atsōkn,attack
+185-62,oldn1244,http://concepticon.clld.org/parameters/1330,verja,defend
+185-679,oldn1244,http://concepticon.clld.org/parameters/421,flōtti,retreat
+185-278,oldn1244,http://concepticon.clld.org/parameters/1696,gefa upp,surrender
+185-40,oldn1244,http://concepticon.clld.org/parameters/1072,haptr,"captive, prisoner"
+185-976,oldn1244,http://concepticon.clld.org/parameters/1072,fangi,"captive, prisoner"
+185-325,oldn1244,http://concepticon.clld.org/parameters/1022,herfang,"booty, spoils"
+185-1294,oldn1244,http://concepticon.clld.org/parameters/65,launsāt,ambush
+185-304,oldn1244,http://concepticon.clld.org/parameters/1062,rēttr,law
+185-785,oldn1244,http://concepticon.clld.org/parameters/1068,θing,court
+185-119,oldn1244,http://concepticon.clld.org/parameters/1068,dōmr,court
+185-351,oldn1244,http://concepticon.clld.org/parameters/1068,logrētta,court
+185-1104,oldn1244,http://concepticon.clld.org/parameters/1818,dœma,judge (vb)
+185-119,oldn1244,http://concepticon.clld.org/parameters/1067,dōmr,judgment
+185-72,oldn1244,http://concepticon.clld.org/parameters/861,dōmāri,judge (noun)
+185-1124,oldn1244,http://concepticon.clld.org/parameters/861,dōmandi,judge (noun)
+185-547,oldn1244,http://concepticon.clld.org/parameters/2020,sōknari,plaintiff
+185-59,oldn1244,http://concepticon.clld.org/parameters/1034,varnarmaðr,defendant
+185-1296,oldn1244,http://concepticon.clld.org/parameters/1144,vāttr,witness
+185-117,oldn1244,http://concepticon.clld.org/parameters/1144,vitni,witness
+185-500,oldn1244,http://concepticon.clld.org/parameters/1939,sverja,swear
+185-439,oldn1244,http://concepticon.clld.org/parameters/1712,eiðr,oath
+185-29,oldn1244,http://concepticon.clld.org/parameters/1814,kœra,accuse
+185-1104,oldn1244,http://concepticon.clld.org/parameters/484,dœma,condemn
+185-1033,oldn1244,http://concepticon.clld.org/parameters/983,dœma sekan,convict (vb)
+185-218,oldn1244,http://concepticon.clld.org/parameters/988,dœma syknan,acquit
+185-1244,oldn1244,http://concepticon.clld.org/parameters/1682,sekr,guilty
+185-1,oldn1244,http://concepticon.clld.org/parameters/1682,sannr,guilty
+185-326,oldn1244,http://concepticon.clld.org/parameters/90,ūsekr,innocent
+185-460,oldn1244,http://concepticon.clld.org/parameters/90,ūsannr,innocent
+185-928,oldn1244,http://concepticon.clld.org/parameters/90,sykn,innocent
+185-465,oldn1244,http://concepticon.clld.org/parameters/390,refsing,"penalty, punishment"
+185-851,oldn1244,http://concepticon.clld.org/parameters/390,vīti,"penalty, punishment"
+185-851,oldn1244,http://concepticon.clld.org/parameters/218,vīti,fine
+185-12,oldn1244,http://concepticon.clld.org/parameters/218,bōt,fine
+185-319,oldn1244,http://concepticon.clld.org/parameters/1281,myrkvastofa,"prison, jail"
+185-403,oldn1244,http://concepticon.clld.org/parameters/1281,fangelsi,"prison, jail"
+185-275,oldn1244,http://concepticon.clld.org/parameters/845,morð,murder
+185-346,oldn1244,http://concepticon.clld.org/parameters/845,vīg,murder
+185-76,oldn1244,http://concepticon.clld.org/parameters/845,manndrāp,murder
+185-515,oldn1244,http://concepticon.clld.org/parameters/902,hōr,adultery
+185-678,oldn1244,http://concepticon.clld.org/parameters/953,kvennanām,rape
+185-951,oldn1244,http://concepticon.clld.org/parameters/1889,brenna,arson
+185-1054,oldn1244,http://concepticon.clld.org/parameters/1792,meineiðr,perjury
+185-440,oldn1244,http://concepticon.clld.org/parameters/1792,ljūgeiðr,perjury
+185-1286,oldn1244,http://concepticon.clld.org/parameters/1792,ljūgvitni,perjury
+185-572,oldn1244,http://concepticon.clld.org/parameters/661,trūa,religion
+185-920,oldn1244,http://concepticon.clld.org/parameters/1944,goð,God
+185-669,oldn1244,http://concepticon.clld.org/parameters/1944,guð,God
+185-922,oldn1244,http://concepticon.clld.org/parameters/1944,tīvar,God
+185-165,oldn1244,http://concepticon.clld.org/parameters/1944,āss,God
+185-812,oldn1244,http://concepticon.clld.org/parameters/911,hof,"temple, church"
+185-569,oldn1244,http://concepticon.clld.org/parameters/911,vē,"temple, church"
+185-251,oldn1244,http://concepticon.clld.org/parameters/853,altari,altar
+185-606,oldn1244,http://concepticon.clld.org/parameters/853,stallr,altar
+185-631,oldn1244,http://concepticon.clld.org/parameters/1103,blōt,"sacrifice, offering"
+185-1259,oldn1244,http://concepticon.clld.org/parameters/1103,tafn,"sacrifice, offering"
+185-472,oldn1244,http://concepticon.clld.org/parameters/1103,fōrn,"sacrifice, offering"
+185-195,oldn1244,http://concepticon.clld.org/parameters/257,blōta,worship
+185-350,oldn1244,http://concepticon.clld.org/parameters/24,biðja,pray
+185-1287,oldn1244,http://concepticon.clld.org/parameters/852,goði,priest
+185-44,oldn1244,http://concepticon.clld.org/parameters/852,prestr,priest
+185-1300,oldn1244,http://concepticon.clld.org/parameters/1702,heilagr,"holy, sacred"
+185-1245,oldn1244,http://concepticon.clld.org/parameters/304,predika,preach
+185-1022,oldn1244,http://concepticon.clld.org/parameters/391,bleza,bless
+185-1221,oldn1244,http://concepticon.clld.org/parameters/8,bolva,curse
+185-729,oldn1244,http://concepticon.clld.org/parameters/8,banna,curse
+185-608,oldn1244,http://concepticon.clld.org/parameters/303,fasta,fast (vb)
+185-428,oldn1244,http://concepticon.clld.org/parameters/1565,himinn,heaven
+185-257,oldn1244,http://concepticon.clld.org/parameters/878,hel,hell
+185-115,oldn1244,http://concepticon.clld.org/parameters/878,helvīti,hell
+185-963,oldn1244,http://concepticon.clld.org/parameters/1973,djofull,demon (evil spirit)
+185-455,oldn1244,http://concepticon.clld.org/parameters/1973,troll,demon (evil spirit)
+185-148,oldn1244,http://concepticon.clld.org/parameters/1945,skurðgoð,idol
+185-347,oldn1244,http://concepticon.clld.org/parameters/392,seiðr,"magic, witchcraft, sorcery"
+185-345,oldn1244,http://concepticon.clld.org/parameters/392,taufr,"magic, witchcraft, sorcery"
+185-540,oldn1244,http://concepticon.clld.org/parameters/2137,galdrakona,"sorcerer, witch"
+185-1183,oldn1244,http://concepticon.clld.org/parameters/2137,fordœða,"sorcerer, witch"
+185-1082,oldn1244,http://concepticon.clld.org/parameters/2138,ālfr,"fairy, elf"
+185-721,oldn1244,http://concepticon.clld.org/parameters/1175,draugr,"ghost, phantom"
+185-1144,oldn1244,http://concepticon.clld.org/parameters/1175,aptrganga,"ghost, phantom"
+185-1004,oldn1244,http://concepticon.clld.org/parameters/107,heill,"omen, portent"
+185-170,oldn1244,http://concepticon.clld.org/parameters/107,furða,"omen, portent"

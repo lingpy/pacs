@@ -1,0 +1,530 @@
+ID,Language_ID,Feature_ID,Value,Concept
+287-84,mund1330,http://concepticon.clld.org/parameters/965,ibi,world
+287-163,mund1330,http://concepticon.clld.org/parameters/965,i-pi,world
+287-269,mund1330,http://concepticon.clld.org/parameters/626,iʔ-pi,"earth, land"
+287-163,mund1330,http://concepticon.clld.org/parameters/626,i-pi,"earth, land"
+287-269,mund1330,http://concepticon.clld.org/parameters/1228,iʔ-pi,"earth=ground, soil"
+287-391,mund1330,http://concepticon.clld.org/parameters/2,ka-diŋ,dust
+287-403,mund1330,http://concepticon.clld.org/parameters/2,kawi-diŋ,dust
+287-121,mund1330,http://concepticon.clld.org/parameters/640,kaerep,mud
+287-195,mund1330,http://concepticon.clld.org/parameters/671,ka-ʔo-ri-rit,sand
+287-432,mund1330,http://concepticon.clld.org/parameters/2118,čo-ʔa,"mountain, hill"
+287-8,mund1330,http://concepticon.clld.org/parameters/618,aki (?),"cliff, precipice"
+287-210,mund1330,http://concepticon.clld.org/parameters/622,tipʔaweroro,island
+287-195,mund1330,http://concepticon.clld.org/parameters/113,ka-ʔo-ri-rit,shore
+287-160,mund1330,http://concepticon.clld.org/parameters/1155,ipi-kɨ̃y,cave
+287-355,mund1330,http://concepticon.clld.org/parameters/948,i-di-bi,water
+287-68,mund1330,http://concepticon.clld.org/parameters/1474,t-i-boɲ-ati,sea
+287-442,mund1330,http://concepticon.clld.org/parameters/1474,t-i-boŋ-at-ti,sea
+287-109,mund1330,http://concepticon.clld.org/parameters/978,-di-kopek,wave
+287-355,mund1330,http://concepticon.clld.org/parameters/666,i-di-bi,"river, stream, brook"
+287-101,mund1330,http://concepticon.clld.org/parameters/1145,i-o-di,swamp
+287-374,mund1330,http://concepticon.clld.org/parameters/420,kadaidaidaʔibit,"woods, forest"
+287-69,mund1330,http://concepticon.clld.org/parameters/906,-ʔip,tree (cf 08.600)
+287-69,mund1330,http://concepticon.clld.org/parameters/1803,-ʔip,wood
+287-444,mund1330,http://concepticon.clld.org/parameters/2125,wita-ʔa,"stone, rock"
+287-424,mund1330,http://concepticon.clld.org/parameters/1732,kaʔ-bi,sky
+287-102,mund1330,http://concepticon.clld.org/parameters/1732,ka-bi,sky
+287-410,mund1330,http://concepticon.clld.org/parameters/1343,ka-ši,sun
+287-410,mund1330,http://concepticon.clld.org/parameters/1313,ka-ši,moon
+287-170,mund1330,http://concepticon.clld.org/parameters/1313,ka-ši-a-ʔat,moon
+287-425,mund1330,http://concepticon.clld.org/parameters/1430,ka-sop-ta (-da),star
+287-144,mund1330,http://concepticon.clld.org/parameters/1654,ǰe-širirik-šiririŋ,lightning
+287-437,mund1330,http://concepticon.clld.org/parameters/1733,kabikodepɨ,rainbow
+287-11,mund1330,http://concepticon.clld.org/parameters/630,imɨ-kabia-ham,light (noun)
+287-251,mund1330,http://concepticon.clld.org/parameters/630,kabia,light (noun)
+287-497,mund1330,http://concepticon.clld.org/parameters/11,i-ok,darkness
+287-28,mund1330,http://concepticon.clld.org/parameters/1388,kabičɨk,"shade, shadow"
+287-383,mund1330,http://concepticon.clld.org/parameters/960,ka-bi-do,wind
+287-237,mund1330,http://concepticon.clld.org/parameters/1489,ka-bi-kere-reat,cloud
+287-486,mund1330,http://concepticon.clld.org/parameters/249,ka-bi-diŋ,fog
+287-6,mund1330,http://concepticon.clld.org/parameters/658,mɨ-ba-ʔat,rain (noun)
+287-238,mund1330,http://concepticon.clld.org/parameters/617,[želo]-ʔa,ice
+287-58,mund1330,http://concepticon.clld.org/parameters/221,d-aša,fire
+287-388,mund1330,http://concepticon.clld.org/parameters/778,daša-diɲ,smoke (noun)
+287-283,mund1330,http://concepticon.clld.org/parameters/778,-diŋ,smoke (noun)
+287-169,mund1330,http://concepticon.clld.org/parameters/646,ka-ba-ʔo-rit,ashes
+287-349,mund1330,http://concepticon.clld.org/parameters/1428,i-pik,burn (vb intrans)
+287-302,mund1330,http://concepticon.clld.org/parameters/737,isop,"light, kindle, ignite"
+287-58,mund1330,http://concepticon.clld.org/parameters/10,d-aša,firewood
+287-70,mund1330,http://concepticon.clld.org/parameters/683,wɨ̃y-ǰɨ-yɨ̃,"person, human being"
+287-221,mund1330,http://concepticon.clld.org/parameters/1554,a-ɲo-kat-kat,man (vs. woman)
+287-295,mund1330,http://concepticon.clld.org/parameters/962,a-yat-at,woman
+287-216,mund1330,http://concepticon.clld.org/parameters/1366,a-ɲo-kat-kat-ʔit-ʔit,boy
+287-229,mund1330,http://concepticon.clld.org/parameters/76,yaypanʔisɨat,young man (adolescent)
+287-398,mund1330,http://concepticon.clld.org/parameters/1646,a-yat-at-ʔit-ʔit,girl
+287-428,mund1330,http://concepticon.clld.org/parameters/1304,be-kit-at,child
+287-145,mund1330,http://concepticon.clld.org/parameters/1289,ãwã,"infant, baby"
+287-9,mund1330,http://concepticon.clld.org/parameters/1200,-t-op,husband
+287-282,mund1330,http://concepticon.clld.org/parameters/1200,-ktop,husband
+287-31,mund1330,http://concepticon.clld.org/parameters/1199,-t-ay-ši,wife
+287-276,mund1330,http://concepticon.clld.org/parameters/1217,bay,father
+287-494,mund1330,http://concepticon.clld.org/parameters/1216,-ši,mother
+287-487,mund1330,http://concepticon.clld.org/parameters/1620,ʔit,son
+287-476,mund1330,http://concepticon.clld.org/parameters/1262,kipit,brother
+287-280,mund1330,http://concepticon.clld.org/parameters/1761,kibit,younger sister
+287-476,mund1330,http://concepticon.clld.org/parameters/1761,kipit,younger sister
+287-461,mund1330,http://concepticon.clld.org/parameters/1383,aǰoǰot,grandfather
+287-167,mund1330,http://concepticon.clld.org/parameters/1383,aǰotʔa,grandfather
+287-462,mund1330,http://concepticon.clld.org/parameters/406,aypa,old man
+287-344,mund1330,http://concepticon.clld.org/parameters/1496,awawa,grandmother
+287-348,mund1330,http://concepticon.clld.org/parameters/1496,aǰɨ̃ɲ-ǰɨ̃ɲ,grandmother
+287-370,mund1330,http://concepticon.clld.org/parameters/907,yabɨt,old woman
+287-13,mund1330,http://concepticon.clld.org/parameters/1209,õn,I
+287-35,mund1330,http://concepticon.clld.org/parameters/1215,ẽn,you (singular)
+287-165,mund1330,http://concepticon.clld.org/parameters/1215,e-,you (singular)
+287-116,mund1330,http://concepticon.clld.org/parameters/262,iše,he/she/it
+287-123,mund1330,http://concepticon.clld.org/parameters/262,ite,he/she/it
+287-85,mund1330,http://concepticon.clld.org/parameters/262,ibo,he/she/it
+287-279,mund1330,http://concepticon.clld.org/parameters/262,iǰa,he/she/it
+287-333,mund1330,http://concepticon.clld.org/parameters/262,iǰop,he/she/it
+287-162,mund1330,http://concepticon.clld.org/parameters/262,iɲo,he/she/it
+287-207,mund1330,http://concepticon.clld.org/parameters/1131,wɨy-ǰɨ,we (inclusive)
+287-3,mund1330,http://concepticon.clld.org/parameters/1130,oče-ǰɨ,we (exclusive)
+287-203,mund1330,http://concepticon.clld.org/parameters/1213,ey-ǰɨ,you (plural)
+287-94,mund1330,http://concepticon.clld.org/parameters/817,iše-yɨ̃,they
+287-488,mund1330,http://concepticon.clld.org/parameters/817,ite-yɨ̃,they
+287-119,mund1330,http://concepticon.clld.org/parameters/619,tɨ-mɨ̃n,animal
+287-67,mund1330,http://concepticon.clld.org/parameters/1007,biopak ayačat,cow
+287-364,mund1330,http://concepticon.clld.org/parameters/1331,mẽmẽiat,sheep
+287-301,mund1330,http://concepticon.clld.org/parameters/1351,ǰekadai daidadam,sow (2)
+287-450,mund1330,http://concepticon.clld.org/parameters/1337,daǰe,pig
+287-5,mund1330,http://concepticon.clld.org/parameters/1511,sapokay aɲokat-kat,"cock, rooster"
+287-378,mund1330,http://concepticon.clld.org/parameters/1514,sapokay ayačat,hen
+287-88,mund1330,http://concepticon.clld.org/parameters/1318,sapokay yaypapɨ̃ɲat,chicken
+287-458,mund1330,http://concepticon.clld.org/parameters/539,wasɨ̃ -dopi,nest
+287-55,mund1330,http://concepticon.clld.org/parameters/937,wasɨ̃-yɨ̃,bird
+287-303,mund1330,http://concepticon.clld.org/parameters/937,wãsɨ̃,bird
+287-182,mund1330,http://concepticon.clld.org/parameters/307,powat-powat,hawk
+287-467,mund1330,http://concepticon.clld.org/parameters/1185,oropo,vulture
+287-148,mund1330,http://concepticon.clld.org/parameters/1793,mɨreo-dɨp,bat
+287-360,mund1330,http://concepticon.clld.org/parameters/882,korɨ,parrot
+287-286,mund1330,http://concepticon.clld.org/parameters/882,aro,parrot
+287-297,mund1330,http://concepticon.clld.org/parameters/1853,pɨkaso,dove
+287-481,mund1330,http://concepticon.clld.org/parameters/735,tok-tok-ʔa,owl
+287-235,mund1330,http://concepticon.clld.org/parameters/2009,akɨriče,dog
+287-126,mund1330,http://concepticon.clld.org/parameters/2009,akiriče,dog
+287-396,mund1330,http://concepticon.clld.org/parameters/1208,pišaɲa,cat
+287-356,mund1330,http://concepticon.clld.org/parameters/2139,taɲe,"mouse, rat"
+287-328,mund1330,http://concepticon.clld.org/parameters/227,ašima,fish
+287-265,mund1330,http://concepticon.clld.org/parameters/1910,ĩwãp-tɨp (~ -dɨp),stingray
+287-341,mund1330,http://concepticon.clld.org/parameters/1936,dapsem,deer
+287-407,mund1330,http://concepticon.clld.org/parameters/1350,poyʔiayɨ̃,monkey
+287-306,mund1330,http://concepticon.clld.org/parameters/1350,tawe,monkey
+287-362,mund1330,http://concepticon.clld.org/parameters/310,kip,louse
+287-149,mund1330,http://concepticon.clld.org/parameters/587,daʔik,ant
+287-469,mund1330,http://concepticon.clld.org/parameters/843,doa,spider
+287-433,mund1330,http://concepticon.clld.org/parameters/665,iwak,bee
+287-177,mund1330,http://concepticon.clld.org/parameters/88,ato,beehive
+287-27,mund1330,http://concepticon.clld.org/parameters/1517,i-kopi,wasp
+287-369,mund1330,http://concepticon.clld.org/parameters/1219,nasɨ̃ŋ-pɨ,worm
+287-296,mund1330,http://concepticon.clld.org/parameters/730,pɨy-bɨ,snake
+287-271,mund1330,http://concepticon.clld.org/parameters/503,mɨo,frog
+287-257,mund1330,http://concepticon.clld.org/parameters/503,kore-kore,frog
+287-75,mund1330,http://concepticon.clld.org/parameters/1857,apat,"crocodile, alligator"
+287-212,mund1330,http://concepticon.clld.org/parameters/1480,wɨy-ǰebit,body
+287-1,mund1330,http://concepticon.clld.org/parameters/763,-še-ʔe,"skin, hide"
+287-77,mund1330,http://concepticon.clld.org/parameters/1040,ya-d-ap,hair (head)
+287-309,mund1330,http://concepticon.clld.org/parameters/678,ibi-dap,beard
+287-96,mund1330,http://concepticon.clld.org/parameters/946,-d-oy,blood
+287-30,mund1330,http://concepticon.clld.org/parameters/525,čekɨ̃rɨ̃rɨ̃k-pɨ,"vein, artery"
+287-479,mund1330,http://concepticon.clld.org/parameters/1394,-dao,bone
+287-183,mund1330,http://concepticon.clld.org/parameters/801,-k-ša-bi,rib
+287-73,mund1330,http://concepticon.clld.org/parameters/1393,-a-karã-sɨ̃,horn
+287-440,mund1330,http://concepticon.clld.org/parameters/1220,-d-oay-bɨ,tail
+287-95,mund1330,http://concepticon.clld.org/parameters/805,kopi,spine
+287-217,mund1330,http://concepticon.clld.org/parameters/805,wɨy dao,spine
+287-358,mund1330,http://concepticon.clld.org/parameters/1256,yaʔa,head
+287-175,mund1330,http://concepticon.clld.org/parameters/1256,ʔa,head
+287-337,mund1330,http://concepticon.clld.org/parameters/1560,-d-opa,face
+287-450,mund1330,http://concepticon.clld.org/parameters/798,daǰe,jaw
+287-219,mund1330,http://concepticon.clld.org/parameters/1248,i-ta,eye
+287-47,mund1330,http://concepticon.clld.org/parameters/1540,i-ta-ʔẽbi,eyelash
+287-129,mund1330,http://concepticon.clld.org/parameters/1247,-a-ɲɨy-bɨ,ear
+287-300,mund1330,http://concepticon.clld.org/parameters/1221,na-bɨ̃,nose
+287-379,mund1330,http://concepticon.clld.org/parameters/1221,tã-bɨ,nose
+287-140,mund1330,http://concepticon.clld.org/parameters/674,i-bi,mouth
+287-471,mund1330,http://concepticon.clld.org/parameters/1205,-kõ,tongue
+287-484,mund1330,http://concepticon.clld.org/parameters/1380,n-ɨ̃y,tooth
+287-371,mund1330,http://concepticon.clld.org/parameters/1333,-a-ɲo-bɨ,neck
+287-260,mund1330,http://concepticon.clld.org/parameters/1347,-ak-pida,nape of neck
+287-492,mund1330,http://concepticon.clld.org/parameters/1482,yaʔõ-pi-ʔa,shoulder
+287-137,mund1330,http://concepticon.clld.org/parameters/1673,i-ba,arm
+287-373,mund1330,http://concepticon.clld.org/parameters/1277,i-bɨ-nɨ̃ʔa,hand
+287-147,mund1330,http://concepticon.clld.org/parameters/1277,-bɨ̃-rɨ̃-ʔa,hand
+287-14,mund1330,http://concepticon.clld.org/parameters/1303,i-bɨ,finger
+287-318,mund1330,http://concepticon.clld.org/parameters/1258,ibɨ-nɨ̃,fingernail
+287-291,mund1330,http://concepticon.clld.org/parameters/72,-bɨ-nɨ,claw
+287-139,mund1330,http://concepticon.clld.org/parameters/1297,dao,leg
+287-98,mund1330,http://concepticon.clld.org/parameters/1297,tao,leg
+287-248,mund1330,http://concepticon.clld.org/parameters/1371,yɨ̃ɲ-ʔa,knee
+287-304,mund1330,http://concepticon.clld.org/parameters/1371,-ɨ̃ŋ-ʔa,knee
+287-39,mund1330,http://concepticon.clld.org/parameters/1301,sui,foot
+287-420,mund1330,http://concepticon.clld.org/parameters/1301,-i,foot
+287-441,mund1330,http://concepticon.clld.org/parameters/980,ida,heel
+287-226,mund1330,http://concepticon.clld.org/parameters/318,ibɨt,footprint
+287-397,mund1330,http://concepticon.clld.org/parameters/1257,č-eɲe-ba,wing
+287-413,mund1330,http://concepticon.clld.org/parameters/1201,d-ap,feather
+287-91,mund1330,http://concepticon.clld.org/parameters/1201,tap,feather
+287-205,mund1330,http://concepticon.clld.org/parameters/1592,-kɨ̃m-pi,chest
+287-214,mund1330,http://concepticon.clld.org/parameters/1402,-kɨ̃m,breast (of woman)
+287-427,mund1330,http://concepticon.clld.org/parameters/1223,-a-ʔõ-ša-bi-da,heart
+287-211,mund1330,http://concepticon.clld.org/parameters/1224,-i-p-sa,liver
+287-482,mund1330,http://concepticon.clld.org/parameters/1224,-k-sa,liver
+287-351,mund1330,http://concepticon.clld.org/parameters/489,čekɨ̃rɨ̃rɨk-ta,kidney
+287-153,mund1330,http://concepticon.clld.org/parameters/819,i-ʔɨk,stomach
+287-62,mund1330,http://concepticon.clld.org/parameters/1991,-nɨ̃n-pɨ ~ tɨ̃n-pɨ,"intestines, guts"
+287-483,mund1330,http://concepticon.clld.org/parameters/834,oay,buttocks
+287-411,mund1330,http://concepticon.clld.org/parameters/1407,ǰe-pido-wat-wan,"breathe, breath"
+287-156,mund1330,http://concepticon.clld.org/parameters/1440,-bi-di,spit
+287-259,mund1330,http://concepticon.clld.org/parameters/1278,ǰedadadan,vomit
+287-385,mund1330,http://concepticon.clld.org/parameters/1403,iaham,bite
+287-201,mund1330,http://concepticon.clld.org/parameters/1585,šeše-n,sleep
+287-227,mund1330,http://concepticon.clld.org/parameters/1585,i-šet,sleep
+287-57,mund1330,http://concepticon.clld.org/parameters/1585,i-še,sleep
+287-161,mund1330,http://concepticon.clld.org/parameters/1920,ǰešey-šey,dream
+287-262,mund1330,http://concepticon.clld.org/parameters/1602,ǰewɨrɨ̃ɲ,wake up
+287-132,mund1330,http://concepticon.clld.org/parameters/592,iǰok-ǰok-ǰoɲ,urinate
+287-40,mund1330,http://concepticon.clld.org/parameters/676,-nɨ̃n ~ tɨ̃n,defecate
+287-320,mund1330,http://concepticon.clld.org/parameters/138,aǰoɲ,bathe
+287-453,mund1330,http://concepticon.clld.org/parameters/138,aǰok,bathe
+287-242,mund1330,http://concepticon.clld.org/parameters/1090,kam,born (to be)
+287-431,mund1330,http://concepticon.clld.org/parameters/1422,itaʔit,"live, living, life"
+287-294,mund1330,http://concepticon.clld.org/parameters/1494,ǰeʔɨ̃ʔɨ̃m,"die, dead"
+287-277,mund1330,http://concepticon.clld.org/parameters/1494,ʔɨ̃,"die, dead"
+287-146,mund1330,http://concepticon.clld.org/parameters/1417,yaokam,kill
+287-480,mund1330,http://concepticon.clld.org/parameters/1417,yaokakam,kill
+287-387,mund1330,http://concepticon.clld.org/parameters/1773,wɨyǰɨyɨ̃ʔɨ̃mʔɨ̃m etaypi,"grave, tomb"
+287-322,mund1330,http://concepticon.clld.org/parameters/785,ibača,"strong, mighty, powerful"
+287-157,mund1330,http://concepticon.clld.org/parameters/1601,ibača-ʔɨ̃m,weak
+287-220,mund1330,http://concepticon.clld.org/parameters/1601,iča ɲɨ (?),weak
+287-473,mund1330,http://concepticon.clld.org/parameters/1903,ieɨhɨ,swelling
+287-392,mund1330,http://concepticon.clld.org/parameters/1903,ieɨ,swelling
+287-435,mund1330,http://concepticon.clld.org/parameters/499,ohom,"cure, heal"
+287-23,mund1330,http://concepticon.clld.org/parameters/1372,posɨ̃ŋ-ti (~ -di),"medicine, drug"
+287-51,mund1330,http://concepticon.clld.org/parameters/655,ipiat,poison
+287-503,mund1330,http://concepticon.clld.org/parameters/655,tɨ̃ypiat,poison
+287-423,mund1330,http://concepticon.clld.org/parameters/168,ǰebodoy-doy,rest
+287-438,mund1330,http://concepticon.clld.org/parameters/1564,ibɨbɨʔɨʔɨ,lazy
+287-352,mund1330,http://concepticon.clld.org/parameters/320,čekɨkẽrẽat,lame
+287-457,mund1330,http://concepticon.clld.org/parameters/1653,ita-ʔɨ̃m,blind
+287-426,mund1330,http://concepticon.clld.org/parameters/1336,ǰe-kõn,eat
+287-173,mund1330,http://concepticon.clld.org/parameters/1336,iʔom,eat
+287-419,mund1330,http://concepticon.clld.org/parameters/256,išat,food
+287-347,mund1330,http://concepticon.clld.org/parameters/1959,it,raw
+287-180,mund1330,http://concepticon.clld.org/parameters/178,rɨm,ripe
+287-87,mund1330,http://concepticon.clld.org/parameters/1958,-kit,"green, unripe"
+287-340,mund1330,http://concepticon.clld.org/parameters/1728,-kẽrẽ,rotten
+287-173,mund1330,http://concepticon.clld.org/parameters/1401,iʔom,drink
+287-230,mund1330,http://concepticon.clld.org/parameters/1401,tikõn,drink
+287-292,mund1330,http://concepticon.clld.org/parameters/1533,ire,hunger
+287-80,mund1330,http://concepticon.clld.org/parameters/848,ibipɨrɨk,thirst
+287-127,mund1330,http://concepticon.clld.org/parameters/1421,diʔoʔm,suck
+287-359,mund1330,http://concepticon.clld.org/parameters/2146,imɨ-karaw-karaw,"roast, fry"
+287-491,mund1330,http://concepticon.clld.org/parameters/1462,i-tĩŋ-ʔa,"pot, cooking vessel"
+287-115,mund1330,http://concepticon.clld.org/parameters/31,kaǰarãoʔa,pan
+287-155,mund1330,http://concepticon.clld.org/parameters/476,kapedi kõn-kõɲap,"cup, drinking vessel"
+287-134,mund1330,http://concepticon.clld.org/parameters/1352,kise,knife (2)
+287-299,mund1330,http://concepticon.clld.org/parameters/1352,kisẽ,knife (2)
+287-430,mund1330,http://concepticon.clld.org/parameters/1767,ikɨrɨsɨsɨ,scrape
+287-365,mund1330,http://concepticon.clld.org/parameters/1767,ikorerem,scrape
+287-247,mund1330,http://concepticon.clld.org/parameters/273,tõm,dough
+287-436,mund1330,http://concepticon.clld.org/parameters/273,nõm,dough
+287-150,mund1330,http://concepticon.clld.org/parameters/634,-ẽn,meat
+287-16,mund1330,http://concepticon.clld.org/parameters/832,pišãoda,bean
+287-45,mund1330,http://concepticon.clld.org/parameters/832,kaǰɨ̃rɨ̃ba,bean
+287-452,mund1330,http://concepticon.clld.org/parameters/593,wešik-ʔa,potato
+287-204,mund1330,http://concepticon.clld.org/parameters/1507,-ʔa,fruit
+287-174,mund1330,http://concepticon.clld.org/parameters/1507,tɨ-mɨ̃n-ʔa-ʔa,fruit
+287-389,mund1330,http://concepticon.clld.org/parameters/920,[ɨva-]ʔa,grape
+287-185,mund1330,http://concepticon.clld.org/parameters/191,-ĩ,nut
+287-32,mund1330,http://concepticon.clld.org/parameters/323,i-šep,"grease, fat"
+287-232,mund1330,http://concepticon.clld.org/parameters/1274,kawta,salt
+287-110,mund1330,http://concepticon.clld.org/parameters/942,mɨɲẽɲẽm,honey
+287-477,mund1330,http://concepticon.clld.org/parameters/744,-d-op-sa,egg
+287-284,mund1330,http://concepticon.clld.org/parameters/744,t-op-sa,egg
+287-332,mund1330,http://concepticon.clld.org/parameters/1895,doti,"clothing, clothes"
+287-224,mund1330,http://concepticon.clld.org/parameters/1895,say,"clothing, clothes"
+287-136,mund1330,http://concepticon.clld.org/parameters/1616,[paɲo],cloth
+287-151,mund1330,http://concepticon.clld.org/parameters/1850,bõrõ-ʔip,cotton
+287-86,mund1330,http://concepticon.clld.org/parameters/1457,i-inɨ̃m-nɨ̃m,sew
+287-48,mund1330,http://concepticon.clld.org/parameters/1161,bõrõ-bɨ,thread
+287-239,mund1330,http://concepticon.clld.org/parameters/474,wɨye-say,woman's dress
+287-224,mund1330,http://concepticon.clld.org/parameters/1600,say,skirt
+287-421,mund1330,http://concepticon.clld.org/parameters/809,wɨy-doti,trousers
+287-92,mund1330,http://concepticon.clld.org/parameters/1374,pɨmɨ̃n,ring (for finger)
+287-213,mund1330,http://concepticon.clld.org/parameters/770,ɲɨybɨda,earring
+287-334,mund1330,http://concepticon.clld.org/parameters/1099,-wat,"dwell, live"
+287-261,mund1330,http://concepticon.clld.org/parameters/1252,ɨk-ʔa,house
+287-404,mund1330,http://concepticon.clld.org/parameters/1252,-dɨkʔa,house
+287-298,mund1330,http://concepticon.clld.org/parameters/1678,da-at,hut
+287-18,mund1330,http://concepticon.clld.org/parameters/1567,šĩntabi ikoče,"door, gate"
+287-466,mund1330,http://concepticon.clld.org/parameters/1472,tomɨdipʔɨkʔɨkap,key
+287-350,mund1330,http://concepticon.clld.org/parameters/1464,wadaɲɲɨ̃n,ladder
+287-240,mund1330,http://concepticon.clld.org/parameters/1663,šešečap,bed
+287-154,mund1330,http://concepticon.clld.org/parameters/2131,[lamparina],"lamp, torch"
+287-321,mund1330,http://concepticon.clld.org/parameters/1273,[sera]-bɨ,candle
+287-10,mund1330,http://concepticon.clld.org/parameters/212,koɲɨ̃npi,field (for cultivation)
+287-198,mund1330,http://concepticon.clld.org/parameters/586,kadai daidadaap,garden
+287-475,mund1330,http://concepticon.clld.org/parameters/1690,korara,fence
+287-12,mund1330,http://concepticon.clld.org/parameters/1418,i-kɨ̃y-kotkon,dig
+287-319,mund1330,http://concepticon.clld.org/parameters/1901,šit,shovel
+287-228,mund1330,http://concepticon.clld.org/parameters/714,-da ~ ta,seed
+287-258,mund1330,http://concepticon.clld.org/parameters/506,mɨra-da,"maize, corn"
+287-53,mund1330,http://concepticon.clld.org/parameters/606,kapĩ-i-dip,grass
+287-363,mund1330,http://concepticon.clld.org/parameters/670,-na-bɨ,root
+287-71,mund1330,http://concepticon.clld.org/parameters/670,ka-na-bɨ,root
+287-454,mund1330,http://concepticon.clld.org/parameters/1531,takɨ̃,branch
+287-499,mund1330,http://concepticon.clld.org/parameters/1531,taypa,branch
+287-402,mund1330,http://concepticon.clld.org/parameters/628,-d-ɨp,leaf
+287-339,mund1330,http://concepticon.clld.org/parameters/239,-dit ~ tit,flower
+287-495,mund1330,http://concepticon.clld.org/parameters/974,e,tobacco
+287-495,mund1330,http://concepticon.clld.org/parameters/1689,e,smoke (tobacco)
+287-335,mund1330,http://concepticon.clld.org/parameters/1689,ediɲ-ʔoʔom,smoke (tobacco)
+287-135,mund1330,http://concepticon.clld.org/parameters/1204,i-be,bark
+287-181,mund1330,http://concepticon.clld.org/parameters/1204,y-op-šee,bark
+287-399,mund1330,http://concepticon.clld.org/parameters/868,ako-ʔip,banana tree
+287-54,mund1330,http://concepticon.clld.org/parameters/159,wešik,sweet potato
+287-451,mund1330,http://concepticon.clld.org/parameters/925,mɨsɨk-ta,"tapioca, manioc, cassava"
+287-498,mund1330,http://concepticon.clld.org/parameters/411,waʔe,gourd
+287-501,mund1330,http://concepticon.clld.org/parameters/146,[kaɲa],sugar cane
+287-41,mund1330,http://concepticon.clld.org/parameters/1917,imɨkɨŋ-ɨkɨŋ,"tie, bind"
+287-366,mund1330,http://concepticon.clld.org/parameters/352,ǰeperem,untie
+287-250,mund1330,http://concepticon.clld.org/parameters/1218,i-ši-bɨ,"rope, cord"
+287-416,mund1330,http://concepticon.clld.org/parameters/1218,boro-bɨ,"rope, cord"
+287-64,mund1330,http://concepticon.clld.org/parameters/2133,imɨpãm,"strike (hit, beat)"
+287-409,mund1330,http://concepticon.clld.org/parameters/1432,t-akat-kan,cut
+287-470,mund1330,http://concepticon.clld.org/parameters/155,imɨwekakam,"chop, hew"
+287-76,mund1330,http://concepticon.clld.org/parameters/677,o-ʔa,ax
+287-245,mund1330,http://concepticon.clld.org/parameters/680,ka,break
+287-354,mund1330,http://concepticon.clld.org/parameters/588,ibaɲ-baɲ,broken
+287-401,mund1330,http://concepticon.clld.org/parameters/1735,iwek-wek,tear
+287-367,mund1330,http://concepticon.clld.org/parameters/1449,imɨ-wesɨ-wesɨm,"rub, wipe"
+287-188,mund1330,http://concepticon.clld.org/parameters/1455,imɨpɨšik-pɨšiŋ,pull
+287-464,mund1330,http://concepticon.clld.org/parameters/1414,iya-i-him,"squeeze, wring"
+287-166,mund1330,http://concepticon.clld.org/parameters/1453,i-wɨy-wɨy,wash
+287-7,mund1330,http://concepticon.clld.org/parameters/1501,im-ɨtok-ɨtoɲ,bore
+287-459,mund1330,http://concepticon.clld.org/parameters/502,tapoa,nail
+287-293,mund1330,http://concepticon.clld.org/parameters/1069,mɨ̃n,glue
+287-254,mund1330,http://concepticon.clld.org/parameters/647,bara-rak,paint (noun)
+287-244,mund1330,http://concepticon.clld.org/parameters/1588,šĩŋ-šĩŋ ǰepin,turn over
+287-345,mund1330,http://concepticon.clld.org/parameters/1445,yabitoro,turn around
+287-422,mund1330,http://concepticon.clld.org/parameters/430,pen,twist
+287-490,mund1330,http://concepticon.clld.org/parameters/1280,ʔat-ʔan,fall
+287-502,mund1330,http://concepticon.clld.org/parameters/1456,imɨ̃n-mɨ̃n,throw
+287-125,mund1330,http://concepticon.clld.org/parameters/1088,imɨakõm-kõm (?),sink
+287-408,mund1330,http://concepticon.clld.org/parameters/1574,-ǰe-bok-bok,float
+287-289,mund1330,http://concepticon.clld.org/parameters/1439,ǰedoɲ,swim
+287-194,mund1330,http://concepticon.clld.org/parameters/1439,ǰekodododon,swim
+287-267,mund1330,http://concepticon.clld.org/parameters/1441,ǰepɨpɨpɨm,fly (vb)
+287-99,mund1330,http://concepticon.clld.org/parameters/175,imɨpow-ɨpow,blow
+287-46,mund1330,http://concepticon.clld.org/parameters/96,ǰewɨrɨrɨrɨɲ,"creep, crawl"
+287-218,mund1330,http://concepticon.clld.org/parameters/1879,daʔiʔim,dance
+287-231,mund1330,http://concepticon.clld.org/parameters/1443,šĩŋ-šĩŋ,walk
+287-352,mund1330,http://concepticon.clld.org/parameters/366,čekɨkẽrẽat,limp
+287-236,mund1330,http://concepticon.clld.org/parameters/695,čɨm,go
+287-234,mund1330,http://concepticon.clld.org/parameters/695,ǰɨ,go
+287-275,mund1330,http://concepticon.clld.org/parameters/1102,ǰe-ɨ-hɨm,climb
+287-171,mund1330,http://concepticon.clld.org/parameters/1107,ǰẽm,go out
+287-246,mund1330,http://concepticon.clld.org/parameters/1446,don,come
+287-400,mund1330,http://concepticon.clld.org/parameters/1446,dodon,come
+287-82,mund1330,http://concepticon.clld.org/parameters/1446,e-ǰot,come
+287-191,mund1330,http://concepticon.clld.org/parameters/581,ǰepit,come back
+287-290,mund1330,http://concepticon.clld.org/parameters/1752,ǰewemɨwẽnɨwẽn,"go away, depart"
+287-59,mund1330,http://concepticon.clld.org/parameters/1085,nomɨǰɨ,follow
+287-197,mund1330,http://concepticon.clld.org/parameters/1387,aǰẽm,"reach, arrive"
+287-52,mund1330,http://concepticon.clld.org/parameters/749,õmõm,enter
+287-266,mund1330,http://concepticon.clld.org/parameters/700,tɨǰowatwan,carry (bear)
+287-97,mund1330,http://concepticon.clld.org/parameters/692,toǰon,bring
+287-118,mund1330,http://concepticon.clld.org/parameters/1452,imɨwɨn-ɨwɨn,"push, shove"
+287-495,mund1330,http://concepticon.clld.org/parameters/667,e,road
+287-495,mund1330,http://concepticon.clld.org/parameters/2252,e,path
+287-189,mund1330,http://concepticon.clld.org/parameters/1970,kobe,canoe
+287-305,mund1330,http://concepticon.clld.org/parameters/1849,koy-koy,row (vb)
+287-29,mund1330,http://concepticon.clld.org/parameters/610,wɨ̃y,"harbor, port"
+287-375,mund1330,http://concepticon.clld.org/parameters/773,ikɨɲ,have
+287-375,mund1330,http://concepticon.clld.org/parameters/684,ikɨɲ,"own, possess"
+287-329,mund1330,http://concepticon.clld.org/parameters/1749,ɨk,take
+287-193,mund1330,http://concepticon.clld.org/parameters/2021,ǰat,"seize, grasp"
+287-193,mund1330,http://concepticon.clld.org/parameters/1448,ǰat,hold
+287-485,mund1330,http://concepticon.clld.org/parameters/1448,eǰoʔišik,hold
+287-429,mund1330,http://concepticon.clld.org/parameters/1448,čoʔi,hold
+287-372,mund1330,http://concepticon.clld.org/parameters/694,bɨm,"get, obtain"
+287-24,mund1330,http://concepticon.clld.org/parameters/738,tɨmɨ̃n,thing
+287-324,mund1330,http://concepticon.clld.org/parameters/1447,iɨ̃mɨ̃m,give
+287-253,mund1330,http://concepticon.clld.org/parameters/1468,ǰeakaɲ,"seek, look for"
+287-310,mund1330,http://concepticon.clld.org/parameters/1660,opat,lose
+287-460,mund1330,http://concepticon.clld.org/parameters/1559,ibɨbɨtpɨpɨap,money
+287-2,mund1330,http://concepticon.clld.org/parameters/1867,[diɲeiro] isɨrɨ̃ɲat,coin
+287-326,mund1330,http://concepticon.clld.org/parameters/712,ibɨbɨt adeat,rich
+287-468,mund1330,http://concepticon.clld.org/parameters/718,teidam,pay (vb)
+287-25,mund1330,http://concepticon.clld.org/parameters/1869,ibɨm,buy
+287-386,mund1330,http://concepticon.clld.org/parameters/1082,tarek-rek ɨ̃mɨ̃mʔɨkat,merchant
+287-256,mund1330,http://concepticon.clld.org/parameters/752,tarek-rek mɨ̃nʔa,"store, shop"
+287-103,mund1330,http://concepticon.clld.org/parameters/1685,ɲɨyǰom,after
+287-20,mund1330,http://concepticon.clld.org/parameters/1606,-pi,"inside, in"
+287-406,mund1330,http://concepticon.clld.org/parameters/1416,šik-ʔi,sit
+287-325,mund1330,http://concepticon.clld.org/parameters/215,po-ʔi,lie down
+287-414,mund1330,http://concepticon.clld.org/parameters/1442,čɨ̃ŋ-ʔi,stand
+287-120,mund1330,http://concepticon.clld.org/parameters/987,op,"remain, stay"
+287-60,mund1330,http://concepticon.clld.org/parameters/1743,imɨwebotbon,"join, unite"
+287-114,mund1330,http://concepticon.clld.org/parameters/1359,ǰekpiwan ma,separate
+287-382,mund1330,http://concepticon.clld.org/parameters/1156,tomɨdipʔɨkʔɨk,open
+287-405,mund1330,http://concepticon.clld.org/parameters/761,yaǰɨyǰɨy,cover
+287-93,mund1330,http://concepticon.clld.org/parameters/761,aǰɨy,cover
+287-346,mund1330,http://concepticon.clld.org/parameters/1265,tao-beren,high
+287-368,mund1330,http://concepticon.clld.org/parameters/1019,i-baʔat,right (side)
+287-83,mund1330,http://concepticon.clld.org/parameters/1019,wɨybaat,right (side)
+287-353,mund1330,http://concepticon.clld.org/parameters/244,-baʔĩŋ,left (side)
+287-447,mund1330,http://concepticon.clld.org/parameters/244,wɨybaʔɨ̃ɲat,left (side)
+287-66,mund1330,http://concepticon.clld.org/parameters/1942,četẽɲ ma,near (adv)
+287-90,mund1330,http://concepticon.clld.org/parameters/1942,češe,near (adv)
+287-29,mund1330,http://concepticon.clld.org/parameters/1406,wɨ̃y,far (adv)
+287-264,mund1330,http://concepticon.clld.org/parameters/1877,kaši čẽm-čẽmatkadi,east
+287-338,mund1330,http://concepticon.clld.org/parameters/1202,-oboŋ,"large, big"
+287-124,mund1330,http://concepticon.clld.org/parameters/1202,-boŋ,"large, big"
+287-184,mund1330,http://concepticon.clld.org/parameters/1246,-ĩtma,"small, little"
+287-377,mund1330,http://concepticon.clld.org/parameters/1246,-istma,"small, little"
+287-186,mund1330,http://concepticon.clld.org/parameters/1203,-beren,long
+287-186,mund1330,http://concepticon.clld.org/parameters/711,-beren,tall
+287-281,mund1330,http://concepticon.clld.org/parameters/1645,tao-apĩn,short
+287-107,mund1330,http://concepticon.clld.org/parameters/1243,i-erɨnboɲat,"wide, broad"
+287-142,mund1330,http://concepticon.clld.org/parameters/1267,-erɨ̃nĩtma,narrow
+287-376,mund1330,http://concepticon.clld.org/parameters/1244,-adišiŋ,thick (in dimension)
+287-252,mund1330,http://concepticon.clld.org/parameters/1400,-erɨ̃n,thin (in dimension)
+287-74,mund1330,http://concepticon.clld.org/parameters/1404,-čɨ̃ŋ,straight
+287-138,mund1330,http://concepticon.clld.org/parameters/1395,-doy dey,round
+287-449,mund1330,http://concepticon.clld.org/parameters/1467,-ko-ren-ren,circle
+287-208,mund1330,http://concepticon.clld.org/parameters/1667,-kɨ̃y,hole
+287-21,mund1330,http://concepticon.clld.org/parameters/1558,bɨšim,"like, similar"
+287-327,mund1330,http://concepticon.clld.org/parameters/1294,kaʔɨ̃mɲɨ,"zero, nothing"
+287-222,mund1330,http://concepticon.clld.org/parameters/1515,pɨ̃ŋ,one
+287-42,mund1330,http://concepticon.clld.org/parameters/1515,pɨ̃ɲ,one
+287-199,mund1330,http://concepticon.clld.org/parameters/1515,pɨ̃ɲ ma,one
+287-455,mund1330,http://concepticon.clld.org/parameters/1498,šep-šep,two
+287-223,mund1330,http://concepticon.clld.org/parameters/492,e-ba-pɨ̃ŋ,three
+287-274,mund1330,http://concepticon.clld.org/parameters/1500,e-ba-dip-dip,four
+287-472,mund1330,http://concepticon.clld.org/parameters/493,pɨ̃ŋ põŋ-bi,five
+287-415,mund1330,http://concepticon.clld.org/parameters/493,pɨ̃ɲ põɲbi,five
+287-233,mund1330,http://concepticon.clld.org/parameters/98,soat,"every, all"
+287-393,mund1330,http://concepticon.clld.org/parameters/1198,ade,"much, many"
+287-111,mund1330,http://concepticon.clld.org/parameters/1242,ade ɲɨ,"little (quantity), few"
+287-22,mund1330,http://concepticon.clld.org/parameters/1241,pɨ̃ŋ-pɨ̃ŋ,some
+287-43,mund1330,http://concepticon.clld.org/parameters/1429,topapɨ̃n,full
+287-206,mund1330,http://concepticon.clld.org/parameters/1429,yanopapɨ̃n,full
+287-122,mund1330,http://concepticon.clld.org/parameters/1624,yabibɨk,empty
+287-4,mund1330,http://concepticon.clld.org/parameters/1624,yɨkpibɨk,empty
+287-79,mund1330,http://concepticon.clld.org/parameters/1580,ǰaɲepɨ̃ɲ ma,"alone, only"
+287-270,mund1330,http://concepticon.clld.org/parameters/1529,kanomɨ̃m,last
+287-44,mund1330,http://concepticon.clld.org/parameters/1231,i-isɨ,new
+287-38,mund1330,http://concepticon.clld.org/parameters/1229,i-okok,old
+287-315,mund1330,http://concepticon.clld.org/parameters/1229,kɨyat,old
+287-65,mund1330,http://concepticon.clld.org/parameters/1631,daosɨw-sɨw,"swift, fast, quick"
+287-288,mund1330,http://concepticon.clld.org/parameters/1631,dao ma,"swift, fast, quick"
+287-26,mund1330,http://concepticon.clld.org/parameters/425,ibɨn,"retard, delay"
+287-390,mund1330,http://concepticon.clld.org/parameters/1186,ikoro,"last, endure"
+287-78,mund1330,http://concepticon.clld.org/parameters/1676,soat em,always
+287-395,mund1330,http://concepticon.clld.org/parameters/1676,...ʔɨk,always
+287-272,mund1330,http://concepticon.clld.org/parameters/1260,ka-bi-a,day
+287-465,mund1330,http://concepticon.clld.org/parameters/1233,i-ši-ma,night
+287-311,mund1330,http://concepticon.clld.org/parameters/1329,kabia-ʔisɨm,tomorrow
+287-15,mund1330,http://concepticon.clld.org/parameters/1323,kašinɨ̃ɲ,"clock, timepiece"
+287-357,mund1330,http://concepticon.clld.org/parameters/1226,koato,year
+287-187,mund1330,http://concepticon.clld.org/parameters/1471,ihi,winter
+287-357,mund1330,http://concepticon.clld.org/parameters/1342,koato,summer
+287-417,mund1330,http://concepticon.clld.org/parameters/1587,iyõyõn,smell (vb intrans)
+287-330,mund1330,http://concepticon.clld.org/parameters/1587,teʔo,smell (vb intrans)
+287-330,mund1330,http://concepticon.clld.org/parameters/376,teʔo,"fragrant, good smelling"
+287-168,mund1330,http://concepticon.clld.org/parameters/717,ikɨrɨ-kɨrɨ,sweet
+287-361,mund1330,http://concepticon.clld.org/parameters/717,yakɨrɨ-kɨrɨ,sweet
+287-190,mund1330,http://concepticon.clld.org/parameters/1906,yasak,"acid, sour"
+287-255,mund1330,http://concepticon.clld.org/parameters/1906,tisak,"acid, sour"
+287-384,mund1330,http://concepticon.clld.org/parameters/1408,yaʔĩǰoǰom,hear
+287-130,mund1330,http://concepticon.clld.org/parameters/1608,yaʔĩǰom,listen
+287-164,mund1330,http://concepticon.clld.org/parameters/1409,i-ǰo-ǰom,see
+287-152,mund1330,http://concepticon.clld.org/parameters/1409,ǰop,see
+287-253,mund1330,http://concepticon.clld.org/parameters/1819,ǰeakaɲ,"look, look at"
+287-49,mund1330,http://concepticon.clld.org/parameters/1039,imɨbapɨɲ,show
+287-394,mund1330,http://concepticon.clld.org/parameters/708,isopsep,shine
+287-394,mund1330,http://concepticon.clld.org/parameters/679,isopsep,bright
+287-172,mund1330,http://concepticon.clld.org/parameters/1335,i-rɨt,white
+287-497,mund1330,http://concepticon.clld.org/parameters/163,i-ok,black
+287-179,mund1330,http://concepticon.clld.org/parameters/156,i-pak-pɨk,red
+287-493,mund1330,http://concepticon.clld.org/parameters/156,ipekpɨk,red
+287-159,mund1330,http://concepticon.clld.org/parameters/837,i-rem-rɨm,blue
+287-178,mund1330,http://concepticon.clld.org/parameters/1425,-rem-rɨm,green
+287-117,mund1330,http://concepticon.clld.org/parameters/1424,i-pekpɨk,yellow
+287-128,mund1330,http://concepticon.clld.org/parameters/1884,iča,hard
+287-312,mund1330,http://concepticon.clld.org/parameters/1884,yača,hard
+287-446,mund1330,http://concepticon.clld.org/parameters/1234,-korop,smooth
+287-314,mund1330,http://concepticon.clld.org/parameters/1234,-sẽm,smooth
+287-33,mund1330,http://concepticon.clld.org/parameters/1210,i-poši,heavy
+287-285,mund1330,http://concepticon.clld.org/parameters/1210,ta-poši,heavy
+287-448,mund1330,http://concepticon.clld.org/parameters/1052,iyɨ (?),light (in weight)
+287-113,mund1330,http://concepticon.clld.org/parameters/1726,iši,"wet, damp"
+287-56,mund1330,http://concepticon.clld.org/parameters/1726,-direm,"wet, damp"
+287-474,mund1330,http://concepticon.clld.org/parameters/1398,t-iap,dry
+287-439,mund1330,http://concepticon.clld.org/parameters/1286,-d-ašip,hot
+287-131,mund1330,http://concepticon.clld.org/parameters/1232,t-ašip,warm
+287-412,mund1330,http://concepticon.clld.org/parameters/1232,tidašip,warm
+287-445,mund1330,http://concepticon.clld.org/parameters/1232,kašiepi,warm
+287-108,mund1330,http://concepticon.clld.org/parameters/1287,-čɨk,cold
+287-343,mund1330,http://concepticon.clld.org/parameters/704,i-sɨp-sɨm -,clean
+287-196,mund1330,http://concepticon.clld.org/parameters/1230,-okok,"dirty, soiled"
+287-133,mund1330,http://concepticon.clld.org/parameters/1495,i-čok-čok,"joyful, glad, happy"
+287-317,mund1330,http://concepticon.clld.org/parameters/1355,ǰeway-way-way,laugh
+287-342,mund1330,http://concepticon.clld.org/parameters/1451,ibideway,smile
+287-313,mund1330,http://concepticon.clld.org/parameters/1413,kay-pat-pan,play
+287-81,mund1330,http://concepticon.clld.org/parameters/923,ǰɨy,love
+287-106,mund1330,http://concepticon.clld.org/parameters/1668,iɲɨ̃yčɨ̃ɲ,"grief, sorrow, sadness"
+287-287,mund1330,http://concepticon.clld.org/parameters/1839,wa,"cry, weep"
+287-316,mund1330,http://concepticon.clld.org/parameters/1839,šikʔa,"cry, weep"
+287-278,mund1330,http://concepticon.clld.org/parameters/1651,wɨyetadi,tear (noun)
+287-19,mund1330,http://concepticon.clld.org/parameters/1607,tep-tep,hate
+287-381,mund1330,http://concepticon.clld.org/parameters/82,yɨkpičeɲe,anger
+287-434,mund1330,http://concepticon.clld.org/parameters/781,iparara,"fear, fright"
+287-243,mund1330,http://concepticon.clld.org/parameters/1784,kay,"desire, want"
+287-202,mund1330,http://concepticon.clld.org/parameters/1657,ičemãn,true
+287-61,mund1330,http://concepticon.clld.org/parameters/601,napapaʔɨkat,"lie, tell lies"
+287-496,mund1330,http://concepticon.clld.org/parameters/601,dapši,"lie, tell lies"
+287-331,mund1330,http://concepticon.clld.org/parameters/1035,šipat,good
+287-380,mund1330,http://concepticon.clld.org/parameters/1292,šipat ɲɨ,bad
+287-104,mund1330,http://concepticon.clld.org/parameters/1427,idip,beautiful
+287-273,mund1330,http://concepticon.clld.org/parameters/1415,ǰewaɨ̃yɲɨy,think (= reflect)
+287-176,mund1330,http://concepticon.clld.org/parameters/1410,itaybit,know
+287-112,mund1330,http://concepticon.clld.org/parameters/1410,wetaybit,know
+287-225,mund1330,http://concepticon.clld.org/parameters/1521,ǰebapɨk,seem
+287-215,mund1330,http://concepticon.clld.org/parameters/1518,itaybitʔɨ̃m,"foolish, stupid"
+287-105,mund1330,http://concepticon.clld.org/parameters/1523,yaɲɨybaʔɨ̃m,forget
+287-241,mund1330,http://concepticon.clld.org/parameters/1121,yaʔõbidadadam,secret
+287-34,mund1330,http://concepticon.clld.org/parameters/509,čedaɲ ma,"sure, certain"
+287-263,mund1330,http://concepticon.clld.org/parameters/860,mɨ-,cause
+287-143,mund1330,http://concepticon.clld.org/parameters/1269,ka-ʔɨ̃m-ma,"no, negative"
+287-200,mund1330,http://concepticon.clld.org/parameters/1269,ʔɨ̃m,"no, negative"
+287-478,mund1330,http://concepticon.clld.org/parameters/1239,apẽn,how?
+287-336,mund1330,http://concepticon.clld.org/parameters/1238,pɨǰe,when?
+287-158,mund1330,http://concepticon.clld.org/parameters/1235,abɨ,who?
+287-268,mund1330,http://concepticon.clld.org/parameters/1363,yaʔõ,voice
+287-323,mund1330,http://concepticon.clld.org/parameters/1261,ǰebibododon,sing
+287-249,mund1330,http://concepticon.clld.org/parameters/1623,ǰededem,"speak, talk"
+287-308,mund1330,http://concepticon.clld.org/parameters/1623,ǰekawẽn-wẽn,"speak, talk"
+287-72,mund1330,http://concepticon.clld.org/parameters/1458,ʔe,say
+287-89,mund1330,http://concepticon.clld.org/parameters/1711,kawẽn,tell story
+287-268,mund1330,http://concepticon.clld.org/parameters/1307,yaʔõ,language
+287-17,mund1330,http://concepticon.clld.org/parameters/1405,i-bɨ-tet,name
+287-463,mund1330,http://concepticon.clld.org/parameters/724,taperadɨp čočom,read
+287-456,mund1330,http://concepticon.clld.org/parameters/648,[papera]-dɨp,paper
+287-418,mund1330,http://concepticon.clld.org/parameters/794,[rapi]-ʔip,pen
+287-50,mund1330,http://concepticon.clld.org/parameters/2136,i-bɨbɨt-ʔɨk,"horn, trumpet"
+287-63,mund1330,http://concepticon.clld.org/parameters/1300,ipi,country
+287-489,mund1330,http://concepticon.clld.org/parameters/1296,ʔip,"staff, walking stick"
+287-141,mund1330,http://concepticon.clld.org/parameters/1508,iečɨɲap,"king, ruler"
+287-307,mund1330,http://concepticon.clld.org/parameters/1635,kɨ̃yǰobit yaʔõ-kay,obey
+287-209,mund1330,http://concepticon.clld.org/parameters/1423,ǰewešikšiɲ,fight (vb)
+287-36,mund1330,http://concepticon.clld.org/parameters/1941,[sorara],soldier
+287-37,mund1330,http://concepticon.clld.org/parameters/994,darɨk,bow
+287-120,mund1330,http://concepticon.clld.org/parameters/977,op,arrow
+287-443,mund1330,http://concepticon.clld.org/parameters/1435,ǰe-orok-oroŋ,hunt
+287-192,mund1330,http://concepticon.clld.org/parameters/1818,yɨkpiwat tekɨ iʔeʔem,judge (vb)
+287-100,mund1330,http://concepticon.clld.org/parameters/1160,ibɨkɨrɨkat,thief
+287-500,mund1330,http://concepticon.clld.org/parameters/911,Deɨs tɨkʔa,"temple, church"

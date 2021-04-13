@@ -1,0 +1,731 @@
+ID,Language_ID,Feature_ID,Value,Concept
+216-249,elam1244,http://concepticon.clld.org/parameters/1228,muru-: OE mu-ru-it,"earth=ground, soil"
+216-64,elam1244,http://concepticon.clld.org/parameters/1228,ME,"earth=ground, soil"
+216-566,elam1244,http://concepticon.clld.org/parameters/1228,NE,"earth=ground, soil"
+216-91,elam1244,http://concepticon.clld.org/parameters/1228,AchE mu-ru-un,"earth=ground, soil"
+216-550,elam1244,http://concepticon.clld.org/parameters/2,ME su-uk-ma,dust
+216-465,elam1244,http://concepticon.clld.org/parameters/2118,ME am-ni,"mountain, hill"
+216-87,elam1244,http://concepticon.clld.org/parameters/113,AchE šà-ri-ut,shore
+216-114,elam1244,http://concepticon.clld.org/parameters/1155,NE du-ráš,cave
+216-139,elam1244,http://concepticon.clld.org/parameters/948,zul: ME zu-ul,water
+216-458,elam1244,http://concepticon.clld.org/parameters/1474,AchE kam,sea
+216-466,elam1244,http://concepticon.clld.org/parameters/2144,OE zu-ul.la-li,"spring, well"
+216-569,elam1244,http://concepticon.clld.org/parameters/906,husa: NE,tree (cf 08.600)
+216-138,elam1244,http://concepticon.clld.org/parameters/906,AchE hu-sa,tree (cf 08.600)
+216-556,elam1244,http://concepticon.clld.org/parameters/906,ME hu-sa-a,tree (cf 08.600)
+216-210,elam1244,http://concepticon.clld.org/parameters/1803,NE hu-h-qat,wood
+216-248,elam1244,http://concepticon.clld.org/parameters/1803,NE hu-uk,wood
+216-64,elam1244,http://concepticon.clld.org/parameters/1803,ME,wood
+216-566,elam1244,http://concepticon.clld.org/parameters/1803,NE,wood
+216-156,elam1244,http://concepticon.clld.org/parameters/1803,AchE ma-lu,wood
+216-188,elam1244,http://concepticon.clld.org/parameters/2125,AchE har,"stone, rock"
+216-617,elam1244,http://concepticon.clld.org/parameters/2125,NE ú-h-um-ma,"stone, rock"
+216-293,elam1244,http://concepticon.clld.org/parameters/1343,ME na-h-hu-un-te,sun
+216-480,elam1244,http://concepticon.clld.org/parameters/1343,OE nahiti = na-hi-ti,sun
+216-191,elam1244,http://concepticon.clld.org/parameters/1343,OE na-hu-te,sun
+216-587,elam1244,http://concepticon.clld.org/parameters/1313,OE na-ap[-ir(?)],moon
+216-468,elam1244,http://concepticon.clld.org/parameters/1313,NE na-pir,moon
+216-411,elam1244,http://concepticon.clld.org/parameters/1430,NE mar-du(-ú),star
+216-168,elam1244,http://concepticon.clld.org/parameters/1654,luk: OE,lightning
+216-224,elam1244,http://concepticon.clld.org/parameters/1654,ME lu-uk,lightning
+216-508,elam1244,http://concepticon.clld.org/parameters/1733,OE,rainbow
+216-64,elam1244,http://concepticon.clld.org/parameters/1733,ME,rainbow
+216-121,elam1244,http://concepticon.clld.org/parameters/1733,NE ma-an-za-at,rainbow
+216-140,elam1244,http://concepticon.clld.org/parameters/630,hun: OE,light (noun)
+216-585,elam1244,http://concepticon.clld.org/parameters/630,ME hu-un,light (noun)
+216-351,elam1244,http://concepticon.clld.org/parameters/630,ME hu-ni-in,light (noun)
+216-606,elam1244,http://concepticon.clld.org/parameters/1388,NE šad-da-ku,"shade, shadow"
+216-576,elam1244,http://concepticon.clld.org/parameters/27,OE si-me-in,air
+216-220,elam1244,http://concepticon.clld.org/parameters/658,NE te-ip,rain (noun)
+216-254,elam1244,http://concepticon.clld.org/parameters/221,lim: ME li-im,fire
+216-360,elam1244,http://concepticon.clld.org/parameters/1428,lim-/ lum-: ME li-im-ma-áš-pi,burn (vb intrans)
+216-190,elam1244,http://concepticon.clld.org/parameters/1428,li-im-ma-ak,burn (vb intrans)
+216-402,elam1244,http://concepticon.clld.org/parameters/1428,ME lu-mu-un-ra,burn (vb intrans)
+216-486,elam1244,http://concepticon.clld.org/parameters/1554,bali: ME ba-li-be,man (vs. woman)
+216-501,elam1244,http://concepticon.clld.org/parameters/1554,AchE ru-h,man (vs. woman)
+216-325,elam1244,http://concepticon.clld.org/parameters/1554,ru-ú,man (vs. woman)
+216-477,elam1244,http://concepticon.clld.org/parameters/2263,AchE ba-li-na,male
+216-157,elam1244,http://concepticon.clld.org/parameters/2260,ME mu-h-ti-ir-ri,female
+216-58,elam1244,http://concepticon.clld.org/parameters/2260,NE mu-h-ti-be,female
+216-517,elam1244,http://concepticon.clld.org/parameters/2260,AchE mu-tur,female
+216-47,elam1244,http://concepticon.clld.org/parameters/76,AchE pu-hu,young man (adolescent)
+216-26,elam1244,http://concepticon.clld.org/parameters/77,AchE pu-h(u),young woman (adolescent)
+216-300,elam1244,http://concepticon.clld.org/parameters/1304,OE pu-hi-e,child
+216-181,elam1244,http://concepticon.clld.org/parameters/1304,AchE ma-ul(-la)/ -li,child
+216-73,elam1244,http://concepticon.clld.org/parameters/1289,zin: AchE zí-in,"infant, baby"
+216-96,elam1244,http://concepticon.clld.org/parameters/1199,AchE ir-ti-ri,wife
+216-279,elam1244,http://concepticon.clld.org/parameters/1199,ME ri-tu,wife
+216-11,elam1244,http://concepticon.clld.org/parameters/1199,NE ri-ti,wife
+216-330,elam1244,http://concepticon.clld.org/parameters/1199,ME ru-tu,wife
+216-346,elam1244,http://concepticon.clld.org/parameters/1199,NE ru-tú,wife
+216-256,elam1244,http://concepticon.clld.org/parameters/1199,AchE mu-tar,wife
+216-547,elam1244,http://concepticon.clld.org/parameters/1199,mu-ti,wife
+216-544,elam1244,http://concepticon.clld.org/parameters/1217,atta: OE,father
+216-566,elam1244,http://concepticon.clld.org/parameters/1217,NE,father
+216-152,elam1244,http://concepticon.clld.org/parameters/1217,AchE ad-da,father
+216-278,elam1244,http://concepticon.clld.org/parameters/1217,ME at-ta,father
+216-186,elam1244,http://concepticon.clld.org/parameters/1216,amma: OE,mother
+216-64,elam1244,http://concepticon.clld.org/parameters/1216,ME,mother
+216-566,elam1244,http://concepticon.clld.org/parameters/1216,NE,mother
+216-570,elam1244,http://concepticon.clld.org/parameters/1216,AchE am-ma,mother
+216-553,elam1244,http://concepticon.clld.org/parameters/1620,OE pu-hu,son
+216-64,elam1244,http://concepticon.clld.org/parameters/1620,ME,son
+216-42,elam1244,http://concepticon.clld.org/parameters/1620,AchE ru-hu,son
+216-250,elam1244,http://concepticon.clld.org/parameters/1620,šak: ME,son
+216-542,elam1244,http://concepticon.clld.org/parameters/1620,NE ša-ak,son
+216-431,elam1244,http://concepticon.clld.org/parameters/1620,AchE šá-ak,son
+216-314,elam1244,http://concepticon.clld.org/parameters/1620,šá-ag-gi,son
+216-616,elam1244,http://concepticon.clld.org/parameters/1357,pak: ME pa-ak,daughter
+216-206,elam1244,http://concepticon.clld.org/parameters/1801,puhu: ME,offspring (son or daughter)
+216-566,elam1244,http://concepticon.clld.org/parameters/1801,NE,offspring (son or daughter)
+216-47,elam1244,http://concepticon.clld.org/parameters/1801,AchE pu-hu,offspring (son or daughter)
+216-129,elam1244,http://concepticon.clld.org/parameters/1262,ME i-gi,brother
+216-163,elam1244,http://concepticon.clld.org/parameters/1263,šutu: ME,sister
+216-18,elam1244,http://concepticon.clld.org/parameters/1263,NE šu-tú,sister
+216-149,elam1244,http://concepticon.clld.org/parameters/1618,NE ru-hu.šá-ak-ri,grandson
+216-414,elam1244,http://concepticon.clld.org/parameters/1327,eri: OE e-ri-ri,uncle
+216-134,elam1244,http://concepticon.clld.org/parameters/1643,iza: OE i-za,cousin
+216-281,elam1244,http://concepticon.clld.org/parameters/2266,AchE iš-ti-ri,son-in-law (of a woman)
+216-508,elam1244,http://concepticon.clld.org/parameters/1644,OE,"relatives, kinsmen"
+216-485,elam1244,http://concepticon.clld.org/parameters/1644,ME a-a-ni-ip,"relatives, kinsmen"
+216-141,elam1244,http://concepticon.clld.org/parameters/1644,ME a-a-ni-ri,"relatives, kinsmen"
+216-581,elam1244,http://concepticon.clld.org/parameters/1209,OE u,I
+216-508,elam1244,http://concepticon.clld.org/parameters/1209,OE,I
+216-275,elam1244,http://concepticon.clld.org/parameters/1209,ME ù,I
+216-608,elam1244,http://concepticon.clld.org/parameters/1215,ME ni,you (singular)
+216-64,elam1244,http://concepticon.clld.org/parameters/1215,ME,you (singular)
+216-566,elam1244,http://concepticon.clld.org/parameters/1215,NE,you (singular)
+216-401,elam1244,http://concepticon.clld.org/parameters/1215,AchE nu,you (singular)
+216-298,elam1244,http://concepticon.clld.org/parameters/1130,OE ni-ka,we (exclusive)
+216-566,elam1244,http://concepticon.clld.org/parameters/1130,NE,we (exclusive)
+216-327,elam1244,http://concepticon.clld.org/parameters/1130,AchE nu-ku,we (exclusive)
+216-130,elam1244,http://concepticon.clld.org/parameters/1213,AchE nu-mi,you (plural)
+216-568,elam1244,http://concepticon.clld.org/parameters/619,kun: NE ku-un,animal
+216-64,elam1244,http://concepticon.clld.org/parameters/631,ME,livestock
+216-566,elam1244,http://concepticon.clld.org/parameters/631,NE,livestock
+216-454,elam1244,http://concepticon.clld.org/parameters/631,AchE áš,livestock
+216-46,elam1244,http://concepticon.clld.org/parameters/631,AchE ki-ti,livestock
+216-291,elam1244,http://concepticon.clld.org/parameters/649,ahiš: NE a-h-iš,pasture
+216-628,elam1244,http://concepticon.clld.org/parameters/649,AchE ki-bat,pasture
+216-167,elam1244,http://concepticon.clld.org/parameters/263,AchE ba-at (?)-ir,herdsman
+216-288,elam1244,http://concepticon.clld.org/parameters/263,NE ku-dúr,herdsman
+216-36,elam1244,http://concepticon.clld.org/parameters/1153,kutu: NE ku-tu,cattle (bovine)
+216-43,elam1244,http://concepticon.clld.org/parameters/1169,ME pu-up-hi-in,ox
+216-398,elam1244,http://concepticon.clld.org/parameters/1989,tila: AchE ti-la,calf
+216-519,elam1244,http://concepticon.clld.org/parameters/1331,hidu: ME,sheep
+216-90,elam1244,http://concepticon.clld.org/parameters/1331,AchE hi-du,sheep
+216-24,elam1244,http://concepticon.clld.org/parameters/1344,AchE ráp-du,ram
+216-162,elam1244,http://concepticon.clld.org/parameters/1344,ráp-tam,ram
+216-111,elam1244,http://concepticon.clld.org/parameters/820,kari: AchE qa-ri,lamb
+216-6,elam1244,http://concepticon.clld.org/parameters/820,qa-ri-ri,lamb
+216-262,elam1244,http://concepticon.clld.org/parameters/1337,NE pap-pi,pig
+216-513,elam1244,http://concepticon.clld.org/parameters/1502,kipšu/ kupši: AchE ki-ip-ši/-šu,goat
+216-184,elam1244,http://concepticon.clld.org/parameters/1502,ku-ip-šu,goat
+216-125,elam1244,http://concepticon.clld.org/parameters/1502,NE šá-h-ši-ik-me-me,goat
+216-444,elam1244,http://concepticon.clld.org/parameters/264,kumaš: ME,he-goat
+216-583,elam1244,http://concepticon.clld.org/parameters/264,NE ku-maš,he-goat
+216-127,elam1244,http://concepticon.clld.org/parameters/1972,pitu: AchE pi-tú/tu,kid
+216-328,elam1244,http://concepticon.clld.org/parameters/615,lakpilan: NE lak-pi-la-an,horse (equine)
+216-533,elam1244,http://concepticon.clld.org/parameters/1647,dud(d)u: AchE du-du,"foal, colt"
+216-588,elam1244,http://concepticon.clld.org/parameters/1647,du-ud-du,"foal, colt"
+216-593,elam1244,http://concepticon.clld.org/parameters/1862,AchE du-ip,"ass, donkey"
+216-445,elam1244,http://concepticon.clld.org/parameters/1862,(i)tranku: AchE it-ra-an-ku,"ass, donkey"
+216-335,elam1244,http://concepticon.clld.org/parameters/1862,AchE ši-ši,"ass, donkey"
+216-33,elam1244,http://concepticon.clld.org/parameters/890,paha: AchE pa-ha,mule
+216-435,elam1244,http://concepticon.clld.org/parameters/265,zamama: AchE za-ma-ma,fowl
+216-409,elam1244,http://concepticon.clld.org/parameters/1514,rum: ME ru-um,hen
+216-552,elam1244,http://concepticon.clld.org/parameters/1187,AchE hi-pu-ur,goose
+216-412,elam1244,http://concepticon.clld.org/parameters/1187,ip-pu-ur,goose
+216-223,elam1244,http://concepticon.clld.org/parameters/1360,AchE šu-da-ba(-h),duck
+216-425,elam1244,http://concepticon.clld.org/parameters/539,ME hu-pi-e,nest
+216-615,elam1244,http://concepticon.clld.org/parameters/937,AchE ti-ut,bird
+216-86,elam1244,http://concepticon.clld.org/parameters/1905,OE ba-zi-zi,eagle
+216-53,elam1244,http://concepticon.clld.org/parameters/1905,NE ba-iz-zí-zí,eagle
+216-460,elam1244,http://concepticon.clld.org/parameters/882,AchE qa-iš-ba-h,parrot
+216-34,elam1244,http://concepticon.clld.org/parameters/2009,AchE hal-ki-ni,dog
+216-515,elam1244,http://concepticon.clld.org/parameters/522,duma: AchE du-ma,wolf
+216-166,elam1244,http://concepticon.clld.org/parameters/1871,zibbaru: AchE zib-ba-ru,camel
+216-410,elam1244,http://concepticon.clld.org/parameters/1538,lahi: NE la-hi (?),scorpion
+216-426,elam1244,http://concepticon.clld.org/parameters/1219,ME za-na-bu-na,worm
+216-123,elam1244,http://concepticon.clld.org/parameters/730,šin: OE ši-in-pi,snake
+216-605,elam1244,http://concepticon.clld.org/parameters/730,OE šim-bi,snake
+216-539,elam1244,http://concepticon.clld.org/parameters/763,NE ha-te-en,"skin, hide"
+216-354,elam1244,http://concepticon.clld.org/parameters/2259,NE i-iš-ti,flesh
+216-2,elam1244,http://concepticon.clld.org/parameters/1040,*ku-na,hair (head)
+216-404,elam1244,http://concepticon.clld.org/parameters/1040,NE še-e,hair (head)
+216-100,elam1244,http://concepticon.clld.org/parameters/946,san: NE sa-an,blood
+216-32,elam1244,http://concepticon.clld.org/parameters/1393,kassu: ME,horn
+216-302,elam1244,http://concepticon.clld.org/parameters/1393,NE qa-as-su,horn
+216-405,elam1244,http://concepticon.clld.org/parameters/1393,NE kás-su,horn
+216-355,elam1244,http://concepticon.clld.org/parameters/1256,ukku: ME uk-ku,head
+216-566,elam1244,http://concepticon.clld.org/parameters/1256,NE,head
+216-153,elam1244,http://concepticon.clld.org/parameters/1256,AchE uk-gi = ukku.e,head
+216-457,elam1244,http://concepticon.clld.org/parameters/1248,el(t): ME el-ti,eye
+216-566,elam1244,http://concepticon.clld.org/parameters/1248,NE,eye
+216-387,elam1244,http://concepticon.clld.org/parameters/1248,AchE el,eye
+216-68,elam1244,http://concepticon.clld.org/parameters/1247,siri: NE,ear
+216-97,elam1244,http://concepticon.clld.org/parameters/1247,AchE si-ri,ear
+216-494,elam1244,http://concepticon.clld.org/parameters/1221,AchE ši-um-me = šim.e,nose
+216-15,elam1244,http://concepticon.clld.org/parameters/1205,tit(-me): AchE ti-ut(-me),tongue
+216-636,elam1244,http://concepticon.clld.org/parameters/1380,sihha[n]: ME si-h-ha,tooth
+216-491,elam1244,http://concepticon.clld.org/parameters/1333,NE ti-pi (?),neck
+216-273,elam1244,http://concepticon.clld.org/parameters/1277,kir-/ kur-: ME ki-ir-pi,hand
+216-510,elam1244,http://concepticon.clld.org/parameters/1277,AchE kur-pi,hand
+216-352,elam1244,http://concepticon.clld.org/parameters/1258,pur: NE pu-ur,fingernail
+216-395,elam1244,http://concepticon.clld.org/parameters/1301,pat: ME,foot
+216-586,elam1244,http://concepticon.clld.org/parameters/1301,NE ba-at,foot
+216-341,elam1244,http://concepticon.clld.org/parameters/1301,ME pa-at,foot
+216-343,elam1244,http://concepticon.clld.org/parameters/1201,putmaš: NE pu-ut-ma-áš,feather
+216-189,elam1244,http://concepticon.clld.org/parameters/1223,buni: OE (?),heart
+216-145,elam1244,http://concepticon.clld.org/parameters/1223,ME bu-ni,heart
+216-171,elam1244,http://concepticon.clld.org/parameters/1224,NE ru-el-pa-mín,liver
+216-356,elam1244,http://concepticon.clld.org/parameters/797,ruku: NE ru-ku,testicle
+216-219,elam1244,http://concepticon.clld.org/parameters/1090,kuši-: ME ku-ši-in,born (to be)
+216-511,elam1244,http://concepticon.clld.org/parameters/1090,AchE ku-ši-iš,born (to be)
+216-222,elam1244,http://concepticon.clld.org/parameters/1087,du-: OE,conceive
+216-64,elam1244,http://concepticon.clld.org/parameters/1087,ME,conceive
+216-56,elam1244,http://concepticon.clld.org/parameters/1087,NE du-h,conceive
+216-566,elam1244,http://concepticon.clld.org/parameters/1087,NE,conceive
+216-269,elam1244,http://concepticon.clld.org/parameters/1087,AchE du-iš,conceive
+216-599,elam1244,http://concepticon.clld.org/parameters/1087,OE duk,conceive
+216-508,elam1244,http://concepticon.clld.org/parameters/1422,OE,"live, living, life"
+216-584,elam1244,http://concepticon.clld.org/parameters/1422,ME ta-ak-me,"live, living, life"
+216-64,elam1244,http://concepticon.clld.org/parameters/1422,ME,"live, living, life"
+216-481,elam1244,http://concepticon.clld.org/parameters/1422,NE da-ak-ki-me,"live, living, life"
+216-499,elam1244,http://concepticon.clld.org/parameters/1422,ME ta-ak-ki-me,"live, living, life"
+216-164,elam1244,http://concepticon.clld.org/parameters/1494,halpi-: NE,"die, dead"
+216-507,elam1244,http://concepticon.clld.org/parameters/1494,AchE hal-pi-ik,"die, dead"
+216-484,elam1244,http://concepticon.clld.org/parameters/1494,AchE hal-pi-ip,"die, dead"
+216-261,elam1244,http://concepticon.clld.org/parameters/1494,NE la-ha-an,"die, dead"
+216-504,elam1244,http://concepticon.clld.org/parameters/785,AchE ib-ba(?)-ak,"strong, mighty, powerful"
+216-266,elam1244,http://concepticon.clld.org/parameters/785,šilha-: NE šil-ha-h,"strong, mighty, powerful"
+216-338,elam1244,http://concepticon.clld.org/parameters/785,OE ši-il-ha-ak,"strong, mighty, powerful"
+216-370,elam1244,http://concepticon.clld.org/parameters/785,OE ši-il(?)-me,"strong, mighty, powerful"
+216-523,elam1244,http://concepticon.clld.org/parameters/1601,AchE iš-tuk-ra,weak
+216-75,elam1244,http://concepticon.clld.org/parameters/1148,AchE ha-pi,bruise
+216-202,elam1244,http://concepticon.clld.org/parameters/499,ME si-it-ti,"cure, heal"
+216-361,elam1244,http://concepticon.clld.org/parameters/499,si-it-me,"cure, heal"
+216-148,elam1244,http://concepticon.clld.org/parameters/1372,AchE qa(?)-pu(?)-ur,"medicine, drug"
+216-212,elam1244,http://concepticon.clld.org/parameters/256,AchE ab-be-be,food
+216-225,elam1244,http://concepticon.clld.org/parameters/2146,kura-: ME ku-ra-at,"roast, fry"
+216-508,elam1244,http://concepticon.clld.org/parameters/2146,OE,"roast, fry"
+216-246,elam1244,http://concepticon.clld.org/parameters/2146,ME ku-ra-ak,"roast, fry"
+216-107,elam1244,http://concepticon.clld.org/parameters/270,piti: NE pi-ti,"pitcher, jug"
+216-427,elam1244,http://concepticon.clld.org/parameters/1378,NE ki-mal-tam,spoon
+216-379,elam1244,http://concepticon.clld.org/parameters/1352,ME du-šu-um-ya,knife (2)
+216-366,elam1244,http://concepticon.clld.org/parameters/1352,NE du-ši-um,knife (2)
+216-244,elam1244,http://concepticon.clld.org/parameters/1352,du-ši-um-ir-ra,knife (2)
+216-49,elam1244,http://concepticon.clld.org/parameters/1368,ME ši-ip-ru-um,bread
+216-226,elam1244,http://concepticon.clld.org/parameters/1368,AchE ši-ip-ri-um,bread
+216-543,elam1244,http://concepticon.clld.org/parameters/1594,NE e-ul,"meal, flour"
+216-489,elam1244,http://concepticon.clld.org/parameters/1594,AchE u-ma-ma,"meal, flour"
+216-71,elam1244,http://concepticon.clld.org/parameters/1507,hurpi: ME hu-ur-pi,fruit
+216-407,elam1244,http://concepticon.clld.org/parameters/1507,AchE zib-ba,fruit
+216-336,elam1244,http://concepticon.clld.org/parameters/322,AchE pi-ut-(-ti),fig
+216-193,elam1244,http://concepticon.clld.org/parameters/920,AchE šá-ap-pan-na,grape
+216-118,elam1244,http://concepticon.clld.org/parameters/920,šap(-pi),grape
+216-268,elam1244,http://concepticon.clld.org/parameters/1484,appi: AchE ap-pi,oil
+216-419,elam1244,http://concepticon.clld.org/parameters/323,abba: OE ab-ba,"grease, fat"
+216-358,elam1244,http://concepticon.clld.org/parameters/1274,anzi: AchE an-zí,salt
+216-591,elam1244,http://concepticon.clld.org/parameters/942,AchE hal (?)-la (?)-ki,honey
+216-598,elam1244,http://concepticon.clld.org/parameters/635,AchE sir-na,milk (noun)
+216-566,elam1244,http://concepticon.clld.org/parameters/1569,NE,cheese
+216-287,elam1244,http://concepticon.clld.org/parameters/1569,AchE pa,cheese
+216-277,elam1244,http://concepticon.clld.org/parameters/404,AchE an-na-in,fermented drink
+216-83,elam1244,http://concepticon.clld.org/parameters/881,NE šá-h-ši-ik-ra,tailor
+216-548,elam1244,http://concepticon.clld.org/parameters/1616,NE tam-ši-um,cloth
+216-367,elam1244,http://concepticon.clld.org/parameters/1616,AchE ik-tin,cloth
+216-369,elam1244,http://concepticon.clld.org/parameters/964,NE tuk-ki-me,wool
+216-37,elam1244,http://concepticon.clld.org/parameters/964,tuk-na,wool
+216-41,elam1244,http://concepticon.clld.org/parameters/964,NE im-na,wool
+216-253,elam1244,http://concepticon.clld.org/parameters/916,zali: AchE za-li,"linen, flax"
+216-385,elam1244,http://concepticon.clld.org/parameters/1850,NE qa-li-tam,cotton
+216-359,elam1244,http://concepticon.clld.org/parameters/325,NE da-bar-ri-um,felt
+216-506,elam1244,http://concepticon.clld.org/parameters/629,NE šá-ir-šá-at-ti,leather
+216-213,elam1244,http://concepticon.clld.org/parameters/133,kurza-: NE kur-za-iš,weave
+216-137,elam1244,http://concepticon.clld.org/parameters/133,kur-za-qa,weave
+216-209,elam1244,http://concepticon.clld.org/parameters/326,NE uk-ku-(h-)la-ki,cloak
+216-632,elam1244,http://concepticon.clld.org/parameters/603,NE hu-el-ip,coat
+216-561,elam1244,http://concepticon.clld.org/parameters/1381,NE ha-šá-ir,shoe
+216-104,elam1244,http://concepticon.clld.org/parameters/2130,NE uk-ku.ba-ti,"hat, cap"
+216-241,elam1244,http://concepticon.clld.org/parameters/867,NE kur-ip,glove
+216-70,elam1244,http://concepticon.clld.org/parameters/917,ME qa-ar-ra-h,"ornament, adornment"
+216-270,elam1244,http://concepticon.clld.org/parameters/917,qa-ar-ra-ha,"ornament, adornment"
+216-344,elam1244,http://concepticon.clld.org/parameters/1374,NE šà-mi,ring (for finger)
+216-459,elam1244,http://concepticon.clld.org/parameters/1374,ME si-mi-it-tum,ring (for finger)
+216-530,elam1244,http://concepticon.clld.org/parameters/1475,ME ah-hu-um,comb
+216-61,elam1244,http://concepticon.clld.org/parameters/1475,NE a-h-hu-im,comb
+216-386,elam1244,http://concepticon.clld.org/parameters/1926,hasu: NE,ointment
+216-40,elam1244,http://concepticon.clld.org/parameters/1926,AchE ha-su-ip,ointment
+216-211,elam1244,http://concepticon.clld.org/parameters/1926,ME mi-ir-ri-h,ointment
+216-274,elam1244,http://concepticon.clld.org/parameters/1171,ME šu-(ú-)ha,mirror
+216-98,elam1244,http://concepticon.clld.org/parameters/1171,OE šu-ha.zi-la,mirror
+216-199,elam1244,http://concepticon.clld.org/parameters/1252,NE a-a-in,house
+216-567,elam1244,http://concepticon.clld.org/parameters/1252,a-hi-in,house
+216-131,elam1244,http://concepticon.clld.org/parameters/1252,ha-a-in,house
+216-545,elam1244,http://concepticon.clld.org/parameters/1252,ME a-i-in,house
+216-429,elam1244,http://concepticon.clld.org/parameters/1252,a-a-ni,house
+216-516,elam1244,http://concepticon.clld.org/parameters/736,ME tu-uš,"yard, court"
+216-541,elam1244,http://concepticon.clld.org/parameters/736,ulhi: NE ul-hi,"yard, court"
+216-449,elam1244,http://concepticon.clld.org/parameters/736,AchE ul-hi,"yard, court"
+216-64,elam1244,http://concepticon.clld.org/parameters/1567,ME,"door, gate"
+216-566,elam1244,http://concepticon.clld.org/parameters/1567,NE,"door, gate"
+216-174,elam1244,http://concepticon.clld.org/parameters/1567,AchE hu-el,"door, gate"
+216-64,elam1244,http://concepticon.clld.org/parameters/1567,ME,"door, gate"
+216-350,elam1244,http://concepticon.clld.org/parameters/1567,NE hi-el,"door, gate"
+216-375,elam1244,http://concepticon.clld.org/parameters/1567,ME el,"door, gate"
+216-434,elam1244,http://concepticon.clld.org/parameters/1567,AchE e-el,"door, gate"
+216-194,elam1244,http://concepticon.clld.org/parameters/1567,AchE e-ul,"door, gate"
+216-48,elam1244,http://concepticon.clld.org/parameters/1567,NE ú-el,"door, gate"
+216-146,elam1244,http://concepticon.clld.org/parameters/1567,ME lu-gu-ú,"door, gate"
+216-322,elam1244,http://concepticon.clld.org/parameters/80,ME hal-ti,"doorpost, jamb"
+216-436,elam1244,http://concepticon.clld.org/parameters/80,ha-al-te-te,"doorpost, jamb"
+216-297,elam1244,http://concepticon.clld.org/parameters/1375,NE ku-un-nir,window
+216-8,elam1244,http://concepticon.clld.org/parameters/933,ME te-ip-ta,wall
+216-242,elam1244,http://concepticon.clld.org/parameters/933,ME hu-hu-un,wall
+216-326,elam1244,http://concepticon.clld.org/parameters/859,ME ku-ra-am-ma,stove
+216-612,elam1244,http://concepticon.clld.org/parameters/859,ku-ra-na,stove
+216-165,elam1244,http://concepticon.clld.org/parameters/806,NE gi-ut-máš-te,blanket
+216-187,elam1244,http://concepticon.clld.org/parameters/806,gi-ut-máš-ti,blanket
+216-109,elam1244,http://concepticon.clld.org/parameters/2131,hun: ME hu-ni-ir,"lamp, torch"
+216-376,elam1244,http://concepticon.clld.org/parameters/2131,hu-un-pu,"lamp, torch"
+216-124,elam1244,http://concepticon.clld.org/parameters/769,a-ri,roof
+216-64,elam1244,http://concepticon.clld.org/parameters/769,ME,roof
+216-76,elam1244,http://concepticon.clld.org/parameters/769,NE ku-uk,roof
+216-371,elam1244,http://concepticon.clld.org/parameters/769,NE me-nu-me,roof
+216-310,elam1244,http://concepticon.clld.org/parameters/1132,ME te-ti(-in),beam
+216-562,elam1244,http://concepticon.clld.org/parameters/281,šali: OE,"post, pole"
+216-147,elam1244,http://concepticon.clld.org/parameters/281,ME ša-li,"post, pole"
+216-329,elam1244,http://concepticon.clld.org/parameters/1227,NE šil-tur,board
+216-64,elam1244,http://concepticon.clld.org/parameters/1006,ME,brick
+216-69,elam1244,http://concepticon.clld.org/parameters/1006,NE e-ri-en-tum,brick
+216-324,elam1244,http://concepticon.clld.org/parameters/1006,ME ú-ri-en-tu,brick
+216-475,elam1244,http://concepticon.clld.org/parameters/1006,ME hu-us-si-ip,brick
+216-306,elam1244,http://concepticon.clld.org/parameters/1006,ME ú-pa-at,brick
+216-579,elam1244,http://concepticon.clld.org/parameters/212,NE hal-la,field (for cultivation)
+216-267,elam1244,http://concepticon.clld.org/parameters/586,NE ya-ad-da,garden
+216-247,elam1244,http://concepticon.clld.org/parameters/1921,āpi-: OE a-a-pi-h,plow
+216-446,elam1244,http://concepticon.clld.org/parameters/1901,atti: AchE at-ti,shovel
+216-135,elam1244,http://concepticon.clld.org/parameters/1901,šullu: AchE šu-ul-lu,shovel
+216-239,elam1244,http://concepticon.clld.org/parameters/284,AchE at-ti,hoe
+216-205,elam1244,http://concepticon.clld.org/parameters/714,par: ME pa-ar,seed
+216-415,elam1244,http://concepticon.clld.org/parameters/611,NE hal-te-me,"crop, harvest"
+216-563,elam1244,http://concepticon.clld.org/parameters/611,AchE šu-lu-um,"crop, harvest"
+216-227,elam1244,http://concepticon.clld.org/parameters/605,tarmi/u: AchE tar-mi,"grain (barley, oats etc)"
+216-463,elam1244,http://concepticon.clld.org/parameters/605,tar-mu,"grain (barley, oats etc)"
+216-331,elam1244,http://concepticon.clld.org/parameters/605,ME mu-ša-al(?)-lu,"grain (barley, oats etc)"
+216-64,elam1244,http://concepticon.clld.org/parameters/1077,ME,wheat
+216-573,elam1244,http://concepticon.clld.org/parameters/1077,AchE ši-man,wheat
+216-502,elam1244,http://concepticon.clld.org/parameters/932,kur-ru-sa(-am/-an),barley
+216-64,elam1244,http://concepticon.clld.org/parameters/932,ME,barley
+216-604,elam1244,http://concepticon.clld.org/parameters/932,NE nu,barley
+216-509,elam1244,http://concepticon.clld.org/parameters/239,ME mi-ik-ki-ma,flower
+216-72,elam1244,http://concepticon.clld.org/parameters/345,AchE in-na-in,sap
+216-204,elam1244,http://concepticon.clld.org/parameters/345,OE mu-ul-li,sap
+216-128,elam1244,http://concepticon.clld.org/parameters/345,NE mi-el,sap
+216-136,elam1244,http://concepticon.clld.org/parameters/345,AchE mi-ul,sap
+216-31,elam1244,http://concepticon.clld.org/parameters/813,hut(t)a-: AchE hu-ud-da,"do, make"
+216-508,elam1244,http://concepticon.clld.org/parameters/813,OE,"do, make"
+216-374,elam1244,http://concepticon.clld.org/parameters/813,AchE hu-taš,"do, make"
+216-216,elam1244,http://concepticon.clld.org/parameters/813,OE hu-tan(?)-ki,"do, make"
+216-64,elam1244,http://concepticon.clld.org/parameters/813,ME,"do, make"
+216-439,elam1244,http://concepticon.clld.org/parameters/813,NE hu-ut-táh,"do, make"
+216-276,elam1244,http://concepticon.clld.org/parameters/813,OE hu-ut-te-eš,"do, make"
+216-169,elam1244,http://concepticon.clld.org/parameters/1917,rabba-: ME ra-ab-ba-h,"tie, bind"
+216-66,elam1244,http://concepticon.clld.org/parameters/1917,AchE ráb-ba-qa,"tie, bind"
+216-566,elam1244,http://concepticon.clld.org/parameters/1218,NE,"rope, cord"
+216-430,elam1244,http://concepticon.clld.org/parameters/1218,AchE šá-am,"rope, cord"
+216-45,elam1244,http://concepticon.clld.org/parameters/2133,halpi-/u-: ME,"strike (hit, beat)"
+216-540,elam1244,http://concepticon.clld.org/parameters/2133,NE hal-pu-h,"strike (hit, beat)"
+216-182,elam1244,http://concepticon.clld.org/parameters/2133,AchE hal-pi-ya,"strike (hit, beat)"
+216-29,elam1244,http://concepticon.clld.org/parameters/1432,NE máš-áš,cut
+216-582,elam1244,http://concepticon.clld.org/parameters/1432,šahši-: NE šá-h-ši-qa,cut
+216-372,elam1244,http://concepticon.clld.org/parameters/677,(h)ipiš: NE i-pi-iš,ax
+216-200,elam1244,http://concepticon.clld.org/parameters/677,AchE hi-pi-is,ax
+216-400,elam1244,http://concepticon.clld.org/parameters/1455,sa-: ME,pull
+216-382,elam1244,http://concepticon.clld.org/parameters/1455,NE sa-h,pull
+216-422,elam1244,http://concepticon.clld.org/parameters/1042,NE be-la-ti-ra,carpenter
+216-559,elam1244,http://concepticon.clld.org/parameters/1042,NE kiš-ki-ip-man-na,carpenter
+216-424,elam1244,http://concepticon.clld.org/parameters/1840,kuši-: ME ku-ši-ha,build
+216-150,elam1244,http://concepticon.clld.org/parameters/1840,ku-si-iš,build
+216-631,elam1244,http://concepticon.clld.org/parameters/1840,ku-ši-ik,build
+216-27,elam1244,http://concepticon.clld.org/parameters/1501,AchE du-li-ib-be,bore
+216-397,elam1244,http://concepticon.clld.org/parameters/1948,AchE el-pi,saw
+216-630,elam1244,http://concepticon.clld.org/parameters/1481,NE sa-el,hammer
+216-333,elam1244,http://concepticon.clld.org/parameters/502,s/zikti: ME si-ik-ti,nail
+216-555,elam1244,http://concepticon.clld.org/parameters/502,NE zik-ti-ip,nail
+216-447,elam1244,http://concepticon.clld.org/parameters/1001,NE kás-zí-ra,"smith, blacksmith"
+216-173,elam1244,http://concepticon.clld.org/parameters/288,kassa/i-,forge
+216-413,elam1244,http://concepticon.clld.org/parameters/288,kazza/i-: ME qa-as-si-it-ri,forge
+216-110,elam1244,http://concepticon.clld.org/parameters/288,ME qa-az-za-ak,forge
+216-621,elam1244,http://concepticon.clld.org/parameters/211,šari-: ME ša-ri-h,cast (metals)
+216-620,elam1244,http://concepticon.clld.org/parameters/1369,ME la-an-si-ti-e,gold
+216-635,elam1244,http://concepticon.clld.org/parameters/1369,AchE la-áš-da,gold
+216-526,elam1244,http://concepticon.clld.org/parameters/759,lani: OE la(?)-a-ni,silver
+216-388,elam1244,http://concepticon.clld.org/parameters/1825,NE [e-ri-ni],"copper, bronze"
+216-382,elam1244,http://concepticon.clld.org/parameters/1825,NE sa-h,"copper, bronze"
+216-508,elam1244,http://concepticon.clld.org/parameters/1825,OE,"copper, bronze"
+216-13,elam1244,http://concepticon.clld.org/parameters/1825,ME sa-hi-i,"copper, bronze"
+216-283,elam1244,http://concepticon.clld.org/parameters/1825,NE si-hi-kak,"copper, bronze"
+216-557,elam1244,http://concepticon.clld.org/parameters/621,NE har-gi,iron
+216-524,elam1244,http://concepticon.clld.org/parameters/621,har-ki-an-na,iron
+216-578,elam1244,http://concepticon.clld.org/parameters/627,NE ri-kur,lead (noun)
+216-380,elam1244,http://concepticon.clld.org/parameters/358,[a-na-ku],"tin, tinplate"
+216-467,elam1244,http://concepticon.clld.org/parameters/1399,halat: OE,clay
+216-529,elam1244,http://concepticon.clld.org/parameters/1399,AchE ha-la-at,clay
+216-332,elam1244,http://concepticon.clld.org/parameters/1539,ME še-ri-it,basket
+216-259,elam1244,http://concepticon.clld.org/parameters/292,ME za-ba-ar,rug
+216-623,elam1244,http://concepticon.clld.org/parameters/2001,karsu-: AchE kar-su-iš-da,paint (vb)
+216-441,elam1244,http://concepticon.clld.org/parameters/2001,kar-su-qa,paint (vb)
+216-600,elam1244,http://concepticon.clld.org/parameters/702,mari-: NE ma-ri-h,catch (ball)
+216-500,elam1244,http://concepticon.clld.org/parameters/702,ME ma-ri-en-t(a),catch (ball)
+216-228,elam1244,http://concepticon.clld.org/parameters/1443,pari-,walk
+216-214,elam1244,http://concepticon.clld.org/parameters/1443,uzzu-: ME uz-zu-un,walk
+216-217,elam1244,http://concepticon.clld.org/parameters/1443,uz-zu-un-ta,walk
+216-94,elam1244,http://concepticon.clld.org/parameters/1446,izzi-: NE,come
+216-389,elam1244,http://concepticon.clld.org/parameters/1446,AchE iz-zí-iš,come
+216-396,elam1244,http://concepticon.clld.org/parameters/1446,šinni-/ u-: AchE ši-in-nu-ik,come
+216-512,elam1244,http://concepticon.clld.org/parameters/1446,ši-in-nu,come
+216-14,elam1244,http://concepticon.clld.org/parameters/700,kuti-: NE ku-ti-na,carry (bear)
+216-362,elam1244,http://concepticon.clld.org/parameters/700,AchE ku-ti-šá,carry (bear)
+216-284,elam1244,http://concepticon.clld.org/parameters/692,tela-: ME,bring
+216-10,elam1244,http://concepticon.clld.org/parameters/692,NE te-la-ak-ni,bring
+216-175,elam1244,http://concepticon.clld.org/parameters/692,OE te-la-ni-li,bring
+216-122,elam1244,http://concepticon.clld.org/parameters/1127,da-: AchE da-an-da,send
+216-566,elam1244,http://concepticon.clld.org/parameters/1127,NE,send
+216-132,elam1244,http://concepticon.clld.org/parameters/1127,AchE da-h,send
+216-289,elam1244,http://concepticon.clld.org/parameters/367,AchE te-li-nu-ip,ride
+216-514,elam1244,http://concepticon.clld.org/parameters/667,AchE ba[r-d]u,road
+216-158,elam1244,http://concepticon.clld.org/parameters/667,ME hu-te(-e),road
+216-433,elam1244,http://concepticon.clld.org/parameters/14,NE za-ap-pan,yoke
+216-515,elam1244,http://concepticon.clld.org/parameters/1749,duma: AchE du-ma,take
+216-455,elam1244,http://concepticon.clld.org/parameters/1749,du-ma-iš,take
+216-625,elam1244,http://concepticon.clld.org/parameters/1447,duna-/i-: ME,give
+216-394,elam1244,http://concepticon.clld.org/parameters/1447,NE du-ni-h,give
+216-115,elam1244,http://concepticon.clld.org/parameters/1447,ME du-ni-ha,give
+216-313,elam1244,http://concepticon.clld.org/parameters/1447,AchE du-na-áš,give
+216-443,elam1244,http://concepticon.clld.org/parameters/1447,du-na-qa,give
+216-315,elam1244,http://concepticon.clld.org/parameters/1447,li-,give
+216-508,elam1244,http://concepticon.clld.org/parameters/1447,OE,give
+216-64,elam1244,http://concepticon.clld.org/parameters/1447,ME,give
+216-38,elam1244,http://concepticon.clld.org/parameters/1447,NE li-h,give
+216-566,elam1244,http://concepticon.clld.org/parameters/1447,NE,give
+216-292,elam1244,http://concepticon.clld.org/parameters/1447,AchE li-ik,give
+216-365,elam1244,http://concepticon.clld.org/parameters/1997,kutu-: ME,"preserve, look after"
+216-179,elam1244,http://concepticon.clld.org/parameters/1997,NE ku-tu-un,"preserve, look after"
+216-151,elam1244,http://concepticon.clld.org/parameters/1997,OE ku-tu-uš-li,"preserve, look after"
+216-1,elam1244,http://concepticon.clld.org/parameters/681,sari-: ME,destroy
+216-101,elam1244,http://concepticon.clld.org/parameters/681,NE sa-ri-h,destroy
+216-218,elam1244,http://concepticon.clld.org/parameters/681,AchE sa-ri-in-ti,destroy
+216-67,elam1244,http://concepticon.clld.org/parameters/719,bakka-: ME ba-ak-qa-h (?),find
+216-89,elam1244,http://concepticon.clld.org/parameters/712,NE sir,rich
+216-12,elam1244,http://concepticon.clld.org/parameters/1914,NE a-h-da-a,debt
+216-74,elam1244,http://concepticon.clld.org/parameters/718,NE un-sa-ha,pay (vb)
+216-624,elam1244,http://concepticon.clld.org/parameters/718,AchE un-sa-iš,pay (vb)
+216-17,elam1244,http://concepticon.clld.org/parameters/718,AchE za-ag-gi-iš,pay (vb)
+216-9,elam1244,http://concepticon.clld.org/parameters/1122,AchE te-um-be,wages
+216-566,elam1244,http://concepticon.clld.org/parameters/1122,NE,wages
+216-518,elam1244,http://concepticon.clld.org/parameters/1122,AchE ha-nu,wages
+216-3,elam1244,http://concepticon.clld.org/parameters/657,AchE šá-ak-ki-me/-mi,price
+216-318,elam1244,http://concepticon.clld.org/parameters/657,šá-gi-me,price
+216-451,elam1244,http://concepticon.clld.org/parameters/723,AchE ki-ik,behind
+216-566,elam1244,http://concepticon.clld.org/parameters/723,NE,behind
+216-373,elam1244,http://concepticon.clld.org/parameters/723,AchE me-mi,behind
+216-78,elam1244,http://concepticon.clld.org/parameters/723,AchE me-ni,behind
+216-88,elam1244,http://concepticon.clld.org/parameters/1882,tibbe: ME,before
+216-589,elam1244,http://concepticon.clld.org/parameters/1882,NE ti-ib-ba,before
+216-64,elam1244,http://concepticon.clld.org/parameters/1019,ME,front
+216-589,elam1244,http://concepticon.clld.org/parameters/1019,NE ti-ib-ba,front
+216-240,elam1244,http://concepticon.clld.org/parameters/1019,OE si-ma,front
+216-64,elam1244,http://concepticon.clld.org/parameters/1019,ME,front
+216-607,elam1244,http://concepticon.clld.org/parameters/1019,NE si-ma,front
+216-536,elam1244,http://concepticon.clld.org/parameters/1606,OE a-ti-in,"inside, in"
+216-339,elam1244,http://concepticon.clld.org/parameters/1606,ME a-ti-ra,"inside, in"
+216-102,elam1244,http://concepticon.clld.org/parameters/1606,AchE ha-ti,"inside, in"
+216-572,elam1244,http://concepticon.clld.org/parameters/762,ME ki-du-ú-ya,outside
+216-60,elam1244,http://concepticon.clld.org/parameters/762,ki-du-ur,outside
+216-120,elam1244,http://concepticon.clld.org/parameters/762,ki-du-um-ma,outside
+216-384,elam1244,http://concepticon.clld.org/parameters/762,AchE ki-du,outside
+216-566,elam1244,http://concepticon.clld.org/parameters/1485,NE,under
+216-520,elam1244,http://concepticon.clld.org/parameters/1485,AchE šá-ra,under
+216-316,elam1244,http://concepticon.clld.org/parameters/723,kate: ka-te,place
+216-610,elam1244,http://concepticon.clld.org/parameters/723,AchE qa-te,place
+216-233,elam1244,http://concepticon.clld.org/parameters/723,qa-te-ma,place
+216-57,elam1244,http://concepticon.clld.org/parameters/998,b/pela-: AchE be-la,put
+216-456,elam1244,http://concepticon.clld.org/parameters/998,be-ip-la,put
+216-321,elam1244,http://concepticon.clld.org/parameters/998,da-/ta-: ME ta-at,put
+216-390,elam1244,http://concepticon.clld.org/parameters/998,da-h,put
+216-377,elam1244,http://concepticon.clld.org/parameters/1743,OE ta-r[í-ir],"join, unite"
+216-353,elam1244,http://concepticon.clld.org/parameters/1743,ta-ri-ip,"join, unite"
+216-257,elam1244,http://concepticon.clld.org/parameters/1156,ME te-iš,open
+216-64,elam1244,http://concepticon.clld.org/parameters/1156,ME,open
+216-285,elam1244,http://concepticon.clld.org/parameters/1156,NE tu-um-ba-h,open
+216-258,elam1244,http://concepticon.clld.org/parameters/1046,kappa-: NE kap-pa-iš,"shut, close"
+216-470,elam1244,http://concepticon.clld.org/parameters/1406,AchE šá-da-ni-qa,far (adv)
+216-342,elam1244,http://concepticon.clld.org/parameters/1877,NE ha-tin,east
+216-77,elam1244,http://concepticon.clld.org/parameters/1877,ha-te-um-me,east
+216-243,elam1244,http://concepticon.clld.org/parameters/1817,NE šu-tin,west
+216-92,elam1244,http://concepticon.clld.org/parameters/1202,(h)azza-: NE,"large, big"
+216-52,elam1244,http://concepticon.clld.org/parameters/1202,AchE az-za-qa,"large, big"
+216-22,elam1244,http://concepticon.clld.org/parameters/1202,AchE ha-iz-za-ik-qa,"large, big"
+216-79,elam1244,http://concepticon.clld.org/parameters/1202,ha-za-qa,"large, big"
+216-629,elam1244,http://concepticon.clld.org/parameters/1202,rša-: AchE ir-šá-(an-)na,"large, big"
+216-85,elam1244,http://concepticon.clld.org/parameters/1202,ME ri-ša-ar,"large, big"
+216-622,elam1244,http://concepticon.clld.org/parameters/1246,tila: AchE ti-la (?),"small, little"
+216-272,elam1244,http://concepticon.clld.org/parameters/1400,zikki: NE zik-ki,thin (in dimension)
+216-99,elam1244,http://concepticon.clld.org/parameters/1593,AchE du-šá-ra-ma,deep
+216-265,elam1244,http://concepticon.clld.org/parameters/1633,ME ma-šu-um,flat
+216-357,elam1244,http://concepticon.clld.org/parameters/1404,AchE iš-tur-rák-qa,straight
+216-594,elam1244,http://concepticon.clld.org/parameters/1395,irpi: ME ir-pi,round
+216-180,elam1244,http://concepticon.clld.org/parameters/1467,pur: ME pu-ur,circle
+216-347,elam1244,http://concepticon.clld.org/parameters/1845,ME še-be,"sphere, ball"
+216-577,elam1244,http://concepticon.clld.org/parameters/1515,ki: AchE ki-ik(-ki/-qa),one
+216-508,elam1244,http://concepticon.clld.org/parameters/1515,OE,one
+216-453,elam1244,http://concepticon.clld.org/parameters/1515,AchE ki-ir,one
+216-505,elam1244,http://concepticon.clld.org/parameters/1498,mar: NE ma-ir,two
+216-116,elam1244,http://concepticon.clld.org/parameters/1498,mar-ra,two
+216-418,elam1244,http://concepticon.clld.org/parameters/1498,AchE mar,two
+216-296,elam1244,http://concepticon.clld.org/parameters/492,ziti: AchE zí-ti,three
+216-7,elam1244,http://concepticon.clld.org/parameters/493,AchE *tu-ku (?),five
+216-521,elam1244,http://concepticon.clld.org/parameters/98,AchE un-ra,"every, all"
+216-19,elam1244,http://concepticon.clld.org/parameters/1198,AchE ir-še-ik-ki,"much, many"
+216-440,elam1244,http://concepticon.clld.org/parameters/1242,AchE ha-ri-ik-ki,"little (quantity), few"
+216-117,elam1244,http://concepticon.clld.org/parameters/1429,huh: OE hu-úh,full
+216-454,elam1244,http://concepticon.clld.org/parameters/779,AchE áš,"part, piece"
+216-551,elam1244,http://concepticon.clld.org/parameters/816,ME pír-ni,half
+216-177,elam1244,http://concepticon.clld.org/parameters/816,pír-nu-šu,half
+216-196,elam1244,http://concepticon.clld.org/parameters/816,pír-nu-ba,half
+216-364,elam1244,http://concepticon.clld.org/parameters/728,AchE ap-pu-qa-na,first
+216-614,elam1244,http://concepticon.clld.org/parameters/1888,NE tuk,pair
+216-408,elam1244,http://concepticon.clld.org/parameters/892,AchE da-la-ri [= dalar.e],time
+216-238,elam1244,http://concepticon.clld.org/parameters/1207,puhu.na: AchE pu-hu-na,young
+216-172,elam1244,http://concepticon.clld.org/parameters/1207,pu-u-na,young
+216-438,elam1244,http://concepticon.clld.org/parameters/1207,pu-un-na,young
+216-633,elam1244,http://concepticon.clld.org/parameters/1229,kara: AchE qa-ra,old
+216-280,elam1244,http://concepticon.clld.org/parameters/672,irpi/ urpu-: AchE ir-pi,early
+216-634,elam1244,http://concepticon.clld.org/parameters/672,ME ur-pu-ub-ba,early
+216-251,elam1244,http://concepticon.clld.org/parameters/672,AchE ap-pu-qa,early
+216-428,elam1244,http://concepticon.clld.org/parameters/477,AchE maš-šá,late
+216-490,elam1244,http://concepticon.clld.org/parameters/477,me-šá,late
+216-236,elam1244,http://concepticon.clld.org/parameters/1376,ME a-am,now
+216-64,elam1244,http://concepticon.clld.org/parameters/1376,ME,now
+216-566,elam1244,http://concepticon.clld.org/parameters/1376,NE,now
+216-471,elam1244,http://concepticon.clld.org/parameters/1376,AchE am,now
+216-197,elam1244,http://concepticon.clld.org/parameters/743,AchE mur,end (temporal)
+216-497,elam1244,http://concepticon.clld.org/parameters/1766,AchE tar-ma,finish
+216-421,elam1244,http://concepticon.clld.org/parameters/1766,tar-maš,finish
+216-23,elam1244,http://concepticon.clld.org/parameters/1676,OE a-ka-da,always
+216-307,elam1244,http://concepticon.clld.org/parameters/418,AchE me-ul-li(-ik),long-time (for a)
+216-64,elam1244,http://concepticon.clld.org/parameters/204,ME,again
+216-176,elam1244,http://concepticon.clld.org/parameters/204,NE ki-qa,again
+216-479,elam1244,http://concepticon.clld.org/parameters/1260,na[n]: AchE na-an-me,day
+216-498,elam1244,http://concepticon.clld.org/parameters/1260,na-an-na,day
+216-596,elam1244,http://concepticon.clld.org/parameters/1233,AchE ši-ut-ma-na,night
+216-508,elam1244,http://concepticon.clld.org/parameters/1233,OE,night
+216-112,elam1244,http://concepticon.clld.org/parameters/1233,ME šu-ut-me,night
+216-39,elam1244,http://concepticon.clld.org/parameters/1233,ME šu-ut-ti-me,night
+216-340,elam1244,http://concepticon.clld.org/parameters/1629,AchE te-man,evening
+216-532,elam1244,http://concepticon.clld.org/parameters/1629,NE ki-in-na-ra,evening
+216-345,elam1244,http://concepticon.clld.org/parameters/1370,AchE na(?)-na-me-n[a(?)],month
+216-245,elam1244,http://concepticon.clld.org/parameters/1370,ME si-in (?),month
+216-119,elam1244,http://concepticon.clld.org/parameters/1226,ME pi-el,year
+216-469,elam1244,http://concepticon.clld.org/parameters/1226,AchE be-ul,year
+216-603,elam1244,http://concepticon.clld.org/parameters/717,tena: AchE te-na,sweet
+216-554,elam1244,http://concepticon.clld.org/parameters/717,halki: OE,sweet
+216-64,elam1244,http://concepticon.clld.org/parameters/717,ME,sweet
+216-82,elam1244,http://concepticon.clld.org/parameters/717,NE hal-ki,sweet
+216-308,elam1244,http://concepticon.clld.org/parameters/1906,AchE lu-lu-ki/-qa,"acid, sour"
+216-531,elam1244,http://concepticon.clld.org/parameters/1408,hap-: OE,hear
+216-601,elam1244,http://concepticon.clld.org/parameters/1408,ME ha-ap-hu,hear
+216-383,elam1244,http://concepticon.clld.org/parameters/1408,ha-ap-ti,hear
+216-495,elam1244,http://concepticon.clld.org/parameters/1314,NE šà-na,"quiet, silence"
+216-303,elam1244,http://concepticon.clld.org/parameters/1409,s/ziya-: NE si-ya-nu-un,see
+216-448,elam1244,http://concepticon.clld.org/parameters/1409,ME si-ya-h,see
+216-558,elam1244,http://concepticon.clld.org/parameters/1409,si-ya-áš-na,see
+216-28,elam1244,http://concepticon.clld.org/parameters/1409,AchE zí-ya,see
+216-235,elam1244,http://concepticon.clld.org/parameters/1039,šammi-: ME ša-am-me-iš,show
+216-575,elam1244,http://concepticon.clld.org/parameters/1039,ša-am-mi-iš-ta,show
+216-312,elam1244,http://concepticon.clld.org/parameters/1335,AchE ši-mi-ut,white
+216-282,elam1244,http://concepticon.clld.org/parameters/837,NE da-ban-ti-na,blue
+216-170,elam1244,http://concepticon.clld.org/parameters/1425,NE hu-la-ap-na/ hu-ra-ap-na,green
+216-154,elam1244,http://concepticon.clld.org/parameters/1424,NE šu-un-ti-na,yellow
+216-496,elam1244,http://concepticon.clld.org/parameters/1210,AchE ab-ba-ra,heavy
+216-155,elam1244,http://concepticon.clld.org/parameters/1398,AchE zí-ti-qa,dry
+216-142,elam1244,http://concepticon.clld.org/parameters/720,šá-da,"good fortune, luck"
+216-207,elam1244,http://concepticon.clld.org/parameters/720,šá-ud-da,"good fortune, luck"
+216-566,elam1244,http://concepticon.clld.org/parameters/720,NE,"good fortune, luck"
+216-195,elam1244,http://concepticon.clld.org/parameters/720,AchE ši-ri,"good fortune, luck"
+216-133,elam1244,http://concepticon.clld.org/parameters/720,ME šu-ru,"good fortune, luck"
+216-488,elam1244,http://concepticon.clld.org/parameters/720,OE šu-ri-na,"good fortune, luck"
+216-185,elam1244,http://concepticon.clld.org/parameters/1495,NE tan-na-am-me,"joyful, glad, happy"
+216-574,elam1244,http://concepticon.clld.org/parameters/923,hani-: OE ha-ni-eš,love
+216-64,elam1244,http://concepticon.clld.org/parameters/923,ME,love
+216-59,elam1244,http://concepticon.clld.org/parameters/923,NE ha-ni-ik,love
+216-538,elam1244,http://concepticon.clld.org/parameters/923,OE ha-ni-in,love
+216-535,elam1244,http://concepticon.clld.org/parameters/923,OE ha(?)-ni-me,love
+216-113,elam1244,http://concepticon.clld.org/parameters/1779,AchE qa-du-uk-qa,dare
+216-571,elam1244,http://concepticon.clld.org/parameters/781,ipši: AchE ip-ši-ip,"fear, fright"
+216-317,elam1244,http://concepticon.clld.org/parameters/781,ip-ši-iš,"fear, fright"
+216-508,elam1244,http://concepticon.clld.org/parameters/100,OE,faithful
+216-450,elam1244,http://concepticon.clld.org/parameters/100,NE ha-mi-ti,faithful
+216-391,elam1244,http://concepticon.clld.org/parameters/100,ME ha-mi-it,faithful
+216-68,elam1244,http://concepticon.clld.org/parameters/1657,siri: NE,true
+216-437,elam1244,http://concepticon.clld.org/parameters/1657,AchĒ si-ri,true
+216-580,elam1244,http://concepticon.clld.org/parameters/601,tit-: AchE ti-ti-ip,"lie, tell lies"
+216-393,elam1244,http://concepticon.clld.org/parameters/601,ti-ut-ki-um-me,"lie, tell lies"
+216-508,elam1244,http://concepticon.clld.org/parameters/1035,OE,good
+216-63,elam1244,http://concepticon.clld.org/parameters/1035,NE a-a,good
+216-508,elam1244,http://concepticon.clld.org/parameters/1035,OE,good
+216-64,elam1244,http://concepticon.clld.org/parameters/1035,ME,good
+216-252,elam1244,http://concepticon.clld.org/parameters/1035,NE ba-ha,good
+216-478,elam1244,http://concepticon.clld.org/parameters/1292,AchE muš-nu-ik,bad
+216-464,elam1244,http://concepticon.clld.org/parameters/1687,NE hi-šá,praise
+216-35,elam1244,http://concepticon.clld.org/parameters/1427,AchE ši-iš-ni,beautiful
+216-626,elam1244,http://concepticon.clld.org/parameters/1415,lma-: AchE el-ma,think (= reflect)
+216-108,elam1244,http://concepticon.clld.org/parameters/1415,el-man-da/ti,think (= reflect)
+216-392,elam1244,http://concepticon.clld.org/parameters/1415,AchE ul-ma,think (= reflect)
+216-30,elam1244,http://concepticon.clld.org/parameters/1890,uri-: AchE u-ri-iš,believe
+216-198,elam1244,http://concepticon.clld.org/parameters/1410,turna-: NE tur-nah,know
+216-406,elam1244,http://concepticon.clld.org/parameters/1410,AchE tur-na-u-ut,know
+216-508,elam1244,http://concepticon.clld.org/parameters/643,OE,"need, necessity"
+216-64,elam1244,http://concepticon.clld.org/parameters/643,ME,"need, necessity"
+216-527,elam1244,http://concepticon.clld.org/parameters/643,AchE me-en,"need, necessity"
+216-65,elam1244,http://concepticon.clld.org/parameters/1577,ayak: ME,and
+216-566,elam1244,http://concepticon.clld.org/parameters/1577,NE,and
+216-487,elam1244,http://concepticon.clld.org/parameters/1577,AchE a-ak,and
+216-528,elam1244,http://concepticon.clld.org/parameters/1577,ME ya-ak,and
+216-4,elam1244,http://concepticon.clld.org/parameters/1157,appa: AchE ap-pa,because
+216-473,elam1244,http://concepticon.clld.org/parameters/1459,ME an-ka,if
+216-566,elam1244,http://concepticon.clld.org/parameters/1459,NE,if
+216-564,elam1244,http://concepticon.clld.org/parameters/1459,AchE an-qa,if
+216-508,elam1244,http://concepticon.clld.org/parameters/1269,OE,"no, negative"
+216-64,elam1244,http://concepticon.clld.org/parameters/1269,ME,"no, negative"
+216-417,elam1244,http://concepticon.clld.org/parameters/1269,NE in-gi,"no, negative"
+216-566,elam1244,http://concepticon.clld.org/parameters/1269,NE,"no, negative"
+216-231,elam1244,http://concepticon.clld.org/parameters/1269,AchE in-na,"no, negative"
+216-64,elam1244,http://concepticon.clld.org/parameters/1269,ME,"no, negative"
+216-537,elam1244,http://concepticon.clld.org/parameters/1269,NE im-ma,"no, negative"
+216-64,elam1244,http://concepticon.clld.org/parameters/1269,ME,"no, negative"
+216-271,elam1244,http://concepticon.clld.org/parameters/1269,NE in-ni,"no, negative"
+216-432,elam1244,http://concepticon.clld.org/parameters/1239,AchE ap-pa,how?
+216-229,elam1244,http://concepticon.clld.org/parameters/1236,appa: ME,what?
+216-566,elam1244,http://concepticon.clld.org/parameters/1236,NE,what?
+216-432,elam1244,http://concepticon.clld.org/parameters/1236,AchE ap-pa,what?
+216-64,elam1244,http://concepticon.clld.org/parameters/1236,ME,what?
+216-80,elam1244,http://concepticon.clld.org/parameters/1236,AchE,what?
+216-348,elam1244,http://concepticon.clld.org/parameters/1237,mur: ME,where?
+216-25,elam1244,http://concepticon.clld.org/parameters/1237,NE mu-ur,where?
+216-55,elam1244,http://concepticon.clld.org/parameters/727,akka: ME ag-ga,which?
+216-462,elam1244,http://concepticon.clld.org/parameters/727,ak-ka,which?
+216-64,elam1244,http://concepticon.clld.org/parameters/727,ME,which?
+216-566,elam1244,http://concepticon.clld.org/parameters/727,NE,which?
+216-618,elam1244,http://concepticon.clld.org/parameters/727,AchE ak-qa,which?
+216-503,elam1244,http://concepticon.clld.org/parameters/1623,turi/u-: ME tu-ru-nu-un-ki,"speak, talk"
+216-234,elam1244,http://concepticon.clld.org/parameters/1623,NE tu-ru-h,"speak, talk"
+216-290,elam1244,http://concepticon.clld.org/parameters/1623,AchE tur-ri-qa,"speak, talk"
+216-21,elam1244,http://concepticon.clld.org/parameters/1458,tiri-/turu-: ME ti-ri-in-ri,say
+216-474,elam1244,http://concepticon.clld.org/parameters/1458,AchE ti-ri,say
+216-64,elam1244,http://concepticon.clld.org/parameters/1458,ME,say
+216-54,elam1244,http://concepticon.clld.org/parameters/1458,NE tu-ru-uk,say
+216-534,elam1244,http://concepticon.clld.org/parameters/1458,tu-ru-un,say
+216-472,elam1244,http://concepticon.clld.org/parameters/1599,šukkit: NE šu-uk-ki-it,word
+216-565,elam1244,http://concepticon.clld.org/parameters/1405,hiš: ME,name
+216-566,elam1244,http://concepticon.clld.org/parameters/1405,NE,name
+216-442,elam1244,http://concepticon.clld.org/parameters/1405,AchE hi-iš,name
+216-420,elam1244,http://concepticon.clld.org/parameters/1675,kulla-,promise
+216-508,elam1244,http://concepticon.clld.org/parameters/1675,OE,promise
+216-221,elam1244,http://concepticon.clld.org/parameters/1675,ME ku-ul-la-h,promise
+216-201,elam1244,http://concepticon.clld.org/parameters/1084,kulla-: OE,call (=summon)
+216-221,elam1244,http://concepticon.clld.org/parameters/1084,ME ku-ul-la-h,call (=summon)
+216-255,elam1244,http://concepticon.clld.org/parameters/1084,ME ku-ul-la-hu,call (=summon)
+216-560,elam1244,http://concepticon.clld.org/parameters/1672,d/tallu-: ME ta-al-lu-h,write
+216-403,elam1244,http://concepticon.clld.org/parameters/1672,da-al-lu-ha,write
+216-286,elam1244,http://concepticon.clld.org/parameters/1672,ta-al-lu-h-šu,write
+216-237,elam1244,http://concepticon.clld.org/parameters/724,b/pera-: AchE be-ra-an,read
+216-595,elam1244,http://concepticon.clld.org/parameters/724,be-ip-ra-an-ti,read
+216-192,elam1244,http://concepticon.clld.org/parameters/724,be-ip-rák,read
+216-183,elam1244,http://concepticon.clld.org/parameters/1300,hal: OE hal,country
+216-508,elam1244,http://concepticon.clld.org/parameters/1300,OE,country
+216-230,elam1244,http://concepticon.clld.org/parameters/1300,ME ha-al,country
+216-232,elam1244,http://concepticon.clld.org/parameters/1391,[a-al],"city, town"
+216-309,elam1244,http://concepticon.clld.org/parameters/789,ME [ta]š-šu(?)-up,people (populace)
+216-566,elam1244,http://concepticon.clld.org/parameters/789,NE,people (populace)
+216-105,elam1244,http://concepticon.clld.org/parameters/789,AchE taš-šu-íp,people (populace)
+216-508,elam1244,http://concepticon.clld.org/parameters/789,OE,people (populace)
+216-627,elam1244,http://concepticon.clld.org/parameters/789,ME hu-úr-du,people (populace)
+216-597,elam1244,http://concepticon.clld.org/parameters/302,ME ah-pi,"tribe, clan"
+216-103,elam1244,http://concepticon.clld.org/parameters/302,NE a-h-pi,"tribe, clan"
+216-319,elam1244,http://concepticon.clld.org/parameters/1508,s/zunki: ME,"king, ruler"
+216-160,elam1244,http://concepticon.clld.org/parameters/1508,NE su-gìr,"king, ruler"
+216-482,elam1244,http://concepticon.clld.org/parameters/1508,NE su-kip,"king, ruler"
+216-609,elam1244,http://concepticon.clld.org/parameters/1508,ME su-un-gìr,"king, ruler"
+216-304,elam1244,http://concepticon.clld.org/parameters/1508,su-un-ki-ir,"king, ruler"
+216-423,elam1244,http://concepticon.clld.org/parameters/1508,su-un-ki-ip/-kip,"king, ruler"
+216-264,elam1244,http://concepticon.clld.org/parameters/383,[ð]impti: OE si-im-it,master
+216-508,elam1244,http://concepticon.clld.org/parameters/383,OE,master
+216-483,elam1244,http://concepticon.clld.org/parameters/383,ME te-im-ti,master
+216-64,elam1244,http://concepticon.clld.org/parameters/383,ME,master
+216-416,elam1244,http://concepticon.clld.org/parameters/383,NE te-ip-ti,master
+216-452,elam1244,http://concepticon.clld.org/parameters/383,NE mu-uk-ti,master
+216-522,elam1244,http://concepticon.clld.org/parameters/812,AchE li-ba-um-me,slave
+216-20,elam1244,http://concepticon.clld.org/parameters/812,AchE šá-u-lu(-um)-be,slave
+216-399,elam1244,http://concepticon.clld.org/parameters/255,liba-: AchE li-ba-ir,servant
+216-590,elam1244,http://concepticon.clld.org/parameters/384,šalu.r: AchE šá-lu-ur,freeman
+216-16,elam1244,http://concepticon.clld.org/parameters/1128,ME me-el,"command, order"
+216-613,elam1244,http://concepticon.clld.org/parameters/1128,ME gi-il,"command, order"
+216-51,elam1244,http://concepticon.clld.org/parameters/1128,NE šera-,"command, order"
+216-363,elam1244,http://concepticon.clld.org/parameters/1128,NE še-ra-h,"command, order"
+216-301,elam1244,http://concepticon.clld.org/parameters/1128,še-ra-h-ši,"command, order"
+216-126,elam1244,http://concepticon.clld.org/parameters/1325,OE duk-ti-ir,"friend, companion"
+216-320,elam1244,http://concepticon.clld.org/parameters/1325,NE kán-ir-ra,"friend, companion"
+216-602,elam1244,http://concepticon.clld.org/parameters/1358,beti: OE bi-ti-ir,enemy
+216-349,elam1244,http://concepticon.clld.org/parameters/1358,ME pi-ti-ir,enemy
+216-44,elam1244,http://concepticon.clld.org/parameters/1358,NE be-ti,enemy
+216-546,elam1244,http://concepticon.clld.org/parameters/1358,be-it-ra,enemy
+216-492,elam1244,http://concepticon.clld.org/parameters/1897,ta-: OE taš,"help, aid"
+216-295,elam1244,http://concepticon.clld.org/parameters/1897,ME táh-ha-an-ta,"help, aid"
+216-611,elam1244,http://concepticon.clld.org/parameters/1897,táh-ha-an-te,"help, aid"
+216-476,elam1244,http://concepticon.clld.org/parameters/1423,AchE be-ut,fight (vb)
+216-260,elam1244,http://concepticon.clld.org/parameters/1338,gugu: OE gu-gu,peace
+216-508,elam1244,http://concepticon.clld.org/parameters/1561,OE,army
+216-64,elam1244,http://concepticon.clld.org/parameters/1561,ME,army
+216-159,elam1244,http://concepticon.clld.org/parameters/1561,NE hi-it,army
+216-337,elam1244,http://concepticon.clld.org/parameters/951,NE ul-ki-na,"weapons, arms"
+216-311,elam1244,http://concepticon.clld.org/parameters/1763,NE šá-li-mi,club
+216-203,elam1244,http://concepticon.clld.org/parameters/994,NE qa-am-ban,bow
+216-81,elam1244,http://concepticon.clld.org/parameters/977,NE ti-ut-ti-um,arrow
+216-549,elam1244,http://concepticon.clld.org/parameters/977,NE hi-iš-ki,arrow
+216-382,elam1244,http://concepticon.clld.org/parameters/977,NE sa-h,arrow
+216-84,elam1244,http://concepticon.clld.org/parameters/945,[šu-kur-ru-um],spear
+216-93,elam1244,http://concepticon.clld.org/parameters/1680,NE kar-ik,helmet
+216-381,elam1244,http://concepticon.clld.org/parameters/783,OE me-te(-en),victory
+216-525,elam1244,http://concepticon.clld.org/parameters/1022,ME pu-uk-ri-ir,"booty, spoils"
+216-461,elam1244,http://concepticon.clld.org/parameters/1062,ME šu-du-ur,law
+216-50,elam1244,http://concepticon.clld.org/parameters/1062,AchE šu-tur,law
+216-299,elam1244,http://concepticon.clld.org/parameters/1144,gini/u: OE gi-ni-ip,witness
+216-305,elam1244,http://concepticon.clld.org/parameters/1144,NE gi-ni-pi,witness
+216-144,elam1244,http://concepticon.clld.org/parameters/1144,gi-nu-ip,witness
+216-62,elam1244,http://concepticon.clld.org/parameters/1939,OE gi-ri-ip,swear
+216-368,elam1244,http://concepticon.clld.org/parameters/1939,ME gi-ri,swear
+216-592,elam1244,http://concepticon.clld.org/parameters/1160,ME tu-uš-šu(?)-íp,thief
+216-178,elam1244,http://concepticon.clld.org/parameters/1944,nap/b: OE,God
+216-64,elam1244,http://concepticon.clld.org/parameters/1944,ME,God
+216-566,elam1244,http://concepticon.clld.org/parameters/1944,NE,God
+216-378,elam1244,http://concepticon.clld.org/parameters/1944,AchE nap,God
+216-493,elam1244,http://concepticon.clld.org/parameters/1944,AchE na-ap,God
+216-208,elam1244,http://concepticon.clld.org/parameters/1944,na-ab-ba,God
+216-64,elam1244,http://concepticon.clld.org/parameters/1944,ME,God
+216-161,elam1244,http://concepticon.clld.org/parameters/1944,NE na-ap-pi,God
+216-294,elam1244,http://concepticon.clld.org/parameters/1944,OE na-bí-ip,God
+216-334,elam1244,http://concepticon.clld.org/parameters/1103,dala: NE da-la,"sacrifice, offering"
+216-95,elam1244,http://concepticon.clld.org/parameters/852,OE šà-ti,priest
+216-566,elam1244,http://concepticon.clld.org/parameters/852,NE,priest
+216-263,elam1244,http://concepticon.clld.org/parameters/852,AchE šá-tin,priest
+216-323,elam1244,http://concepticon.clld.org/parameters/852,AchE šá-tan,priest
+216-143,elam1244,http://concepticon.clld.org/parameters/1702,ME ak-pi (?)-ip,"holy, sacred"
+216-215,elam1244,http://concepticon.clld.org/parameters/1565,OE kik,heaven
+216-619,elam1244,http://concepticon.clld.org/parameters/1565,OE ki-ki-in,heaven
+216-508,elam1244,http://concepticon.clld.org/parameters/1565,OE,heaven
+216-64,elam1244,http://concepticon.clld.org/parameters/1565,ME,heaven
+216-5,elam1244,http://concepticon.clld.org/parameters/1565,NE ki-ki-ip,heaven
+216-106,elam1244,http://concepticon.clld.org/parameters/1565,ME ki-ik,heaven

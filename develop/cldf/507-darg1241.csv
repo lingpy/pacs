@@ -1,0 +1,1484 @@
+ID,Language_ID,Feature_ID,Value,Concept
+507-281,darg1241,http://concepticon.clld.org/parameters/965,дунийа,world
+507-650,darg1241,http://concepticon.clld.org/parameters/626,пачалихъ,"earth, land"
+507-820,darg1241,http://concepticon.clld.org/parameters/1228,ганза,"earth=ground, soil"
+507-497,darg1241,http://concepticon.clld.org/parameters/1228,гІянжи,"earth=ground, soil"
+507-992,darg1241,http://concepticon.clld.org/parameters/2,чянг,dust
+507-384,darg1241,http://concepticon.clld.org/parameters/2,сехо,dust
+507-1313,darg1241,http://concepticon.clld.org/parameters/640,чят,mud
+507-104,darg1241,http://concepticon.clld.org/parameters/671,гъаирхум,sand
+507-134,darg1241,http://concepticon.clld.org/parameters/2118,дубура,"mountain, hill"
+507-560,darg1241,http://concepticon.clld.org/parameters/618,шури,"cliff, precipice"
+507-966,darg1241,http://concepticon.clld.org/parameters/618,шула бяхІ,"cliff, precipice"
+507-634,darg1241,http://concepticon.clld.org/parameters/618,гІятІбулхъ,"cliff, precipice"
+507-1003,darg1241,http://concepticon.clld.org/parameters/652,дубуртла ургала диркь,"plain, field"
+507-1016,darg1241,http://concepticon.clld.org/parameters/921,барг,valley
+507-179,darg1241,http://concepticon.clld.org/parameters/921,къярд,valley
+507-786,darg1241,http://concepticon.clld.org/parameters/622,остров,island
+507-731,darg1241,http://concepticon.clld.org/parameters/166,кантинент,mainland
+507-981,darg1241,http://concepticon.clld.org/parameters/113,урхьула дуб,shore
+507-723,darg1241,http://concepticon.clld.org/parameters/1155,анакь,cave
+507-103,darg1241,http://concepticon.clld.org/parameters/948,шин,water
+507-42,darg1241,http://concepticon.clld.org/parameters/1474,урхьу,sea
+507-481,darg1241,http://concepticon.clld.org/parameters/258,рахІятил (урхьу),calm (of sea)
+507-965,darg1241,http://concepticon.clld.org/parameters/259,гьалакил (урхьу),rough (of sea)
+507-67,darg1241,http://concepticon.clld.org/parameters/1768,хьулехь,foam
+507-42,darg1241,http://concepticon.clld.org/parameters/645,урхьу,ocean
+507-157,darg1241,http://concepticon.clld.org/parameters/624,кІав,lake
+507-1022,darg1241,http://concepticon.clld.org/parameters/663,—,"gulf, bay"
+507-1022,darg1241,http://concepticon.clld.org/parameters/623,—,lagoon
+507-1022,darg1241,http://concepticon.clld.org/parameters/660,—,reef
+507-1022,darg1241,http://concepticon.clld.org/parameters/1662,—,"headland, point"
+507-310,darg1241,http://concepticon.clld.org/parameters/978,талхъун,wave
+507-308,darg1241,http://concepticon.clld.org/parameters/891,урхьназела шин ахъдугьни,tide
+507-824,darg1241,http://concepticon.clld.org/parameters/891,гІяхьдугьни,tide
+507-279,darg1241,http://concepticon.clld.org/parameters/1026,урхьназела шин гІяхьдугьни,lowtide
+507-308,darg1241,http://concepticon.clld.org/parameters/613,урхьназела шин ахъдугьни,hightide
+507-405,darg1241,http://concepticon.clld.org/parameters/666,хІаркІ,"river, stream, brook"
+507-294,darg1241,http://concepticon.clld.org/parameters/666,гьалакил хІаркІ,"river, stream, brook"
+507-829,darg1241,http://concepticon.clld.org/parameters/1982,шин жирдукІуй мер,whirlpool
+507-914,darg1241,http://concepticon.clld.org/parameters/2144,гІаниз,"spring, well"
+507-858,darg1241,http://concepticon.clld.org/parameters/2144,къуйу,"spring, well"
+507-261,darg1241,http://concepticon.clld.org/parameters/1145,бяту,swamp
+507-566,darg1241,http://concepticon.clld.org/parameters/943,чяхІчяхІ,waterfall
+507-240,darg1241,http://concepticon.clld.org/parameters/420,дуз,"woods, forest"
+507-46,darg1241,http://concepticon.clld.org/parameters/906,гъатІ,tree (cf 08.600)
+507-834,darg1241,http://concepticon.clld.org/parameters/1803,урцули,wood
+507-1316,darg1241,http://concepticon.clld.org/parameters/2125,къархъа,"stone, rock"
+507-1236,darg1241,http://concepticon.clld.org/parameters/6,ганза шикьбукІуле,earthquake
+507-1285,darg1241,http://concepticon.clld.org/parameters/1732,зубре,sky
+507-1100,darg1241,http://concepticon.clld.org/parameters/1343,берхІи,sun
+507-822,darg1241,http://concepticon.clld.org/parameters/1313,баз,moon
+507-510,darg1241,http://concepticon.clld.org/parameters/1430,уръи,star
+507-51,darg1241,http://concepticon.clld.org/parameters/1654,лямцІи,lightning
+507-1198,darg1241,http://concepticon.clld.org/parameters/1150,къукъу,thunder
+507-210,darg1241,http://concepticon.clld.org/parameters/2007,лямцІли бахъиб,lightning (as striking)
+507-1030,darg1241,http://concepticon.clld.org/parameters/858,бурям,storm
+507-1000,darg1241,http://concepticon.clld.org/parameters/858,ваил бурям,storm
+507-681,darg1241,http://concepticon.clld.org/parameters/1733,шулхІи,rainbow
+507-1174,darg1241,http://concepticon.clld.org/parameters/630,ша,light (noun)
+507-1298,darg1241,http://concepticon.clld.org/parameters/11,цІябдеш,darkness
+507-720,darg1241,http://concepticon.clld.org/parameters/1388,тихІяв,"shade, shadow"
+507-115,darg1241,http://concepticon.clld.org/parameters/1977,марка,dew
+507-1033,darg1241,http://concepticon.clld.org/parameters/27,гьава,air
+507-324,darg1241,http://concepticon.clld.org/parameters/960,букІма,wind
+507-260,darg1241,http://concepticon.clld.org/parameters/1489,дирив,cloud
+507-1182,darg1241,http://concepticon.clld.org/parameters/1489,забла дирив,cloud
+507-260,darg1241,http://concepticon.clld.org/parameters/249,дирив,fog
+507-1109,darg1241,http://concepticon.clld.org/parameters/658,заб,rain (noun)
+507-1332,darg1241,http://concepticon.clld.org/parameters/784,дяхІи,snow (noun)
+507-1333,darg1241,http://concepticon.clld.org/parameters/617,миъ,ice
+507-166,darg1241,http://concepticon.clld.org/parameters/952,аргъла гьава,weather
+507-811,darg1241,http://concepticon.clld.org/parameters/221,цІа,fire
+507-818,darg1241,http://concepticon.clld.org/parameters/889,ламъи,flame (noun)
+507-716,darg1241,http://concepticon.clld.org/parameters/778,эръо,smoke (noun)
+507-97,darg1241,http://concepticon.clld.org/parameters/646,палда,ashes
+507-1106,darg1241,http://concepticon.clld.org/parameters/67,демжунил га,embers
+507-450,darg1241,http://concepticon.clld.org/parameters/141,дигос,burn (vb trans)
+507-450,darg1241,http://concepticon.clld.org/parameters/1428,дигос,burn (vb intrans)
+507-1261,darg1241,http://concepticon.clld.org/parameters/737,бикьес,"light, kindle, ignite"
+507-1274,darg1241,http://concepticon.clld.org/parameters/127,бяхІяхъес,extinguish
+507-1042,darg1241,http://concepticon.clld.org/parameters/1133,ишбишка,match (noun)
+507-834,darg1241,http://concepticon.clld.org/parameters/10,урцули,firewood
+507-511,darg1241,http://concepticon.clld.org/parameters/1188,урцува га,charcoal
+507-608,darg1241,http://concepticon.clld.org/parameters/683,адам,"person, human being"
+507-1171,darg1241,http://concepticon.clld.org/parameters/683,инсан,"person, human being"
+507-1132,darg1241,http://concepticon.clld.org/parameters/1554,муръул адам,man (vs. woman)
+507-101,darg1241,http://concepticon.clld.org/parameters/962,хьунул адам,woman
+507-159,darg1241,http://concepticon.clld.org/parameters/2263,марга,male
+507-1152,darg1241,http://concepticon.clld.org/parameters/2260,гажа,female
+507-559,darg1241,http://concepticon.clld.org/parameters/2260,гважа,female
+507-1342,darg1241,http://concepticon.clld.org/parameters/1366,урши дурхІя,boy
+507-919,darg1241,http://concepticon.clld.org/parameters/76,вягъибил урши,young man (adolescent)
+507-220,darg1241,http://concepticon.clld.org/parameters/1646,рурси дурхІя,girl
+507-1113,darg1241,http://concepticon.clld.org/parameters/77,рягъибил рурси,young woman (adolescent)
+507-772,darg1241,http://concepticon.clld.org/parameters/1304,дурхІя,child
+507-344,darg1241,http://concepticon.clld.org/parameters/1289,акІунил дурхІя,"infant, baby"
+507-761,darg1241,http://concepticon.clld.org/parameters/1200,амарса,husband
+507-216,darg1241,http://concepticon.clld.org/parameters/1199,хьунул,wife
+507-228,darg1241,http://concepticon.clld.org/parameters/203,хъаугьес,marry
+507-1035,darg1241,http://concepticon.clld.org/parameters/203,хъаругьес,marry
+507-994,darg1241,http://concepticon.clld.org/parameters/1259,жин,"marriage, wedding"
+507-848,darg1241,http://concepticon.clld.org/parameters/1259,магьари,"marriage, wedding"
+507-272,darg1241,http://concepticon.clld.org/parameters/1134,дикІбикни,divorce
+507-25,darg1241,http://concepticon.clld.org/parameters/1217,дудеш,father
+507-851,darg1241,http://concepticon.clld.org/parameters/1216,неш,mother
+507-520,darg1241,http://concepticon.clld.org/parameters/505,дудеш-неш,parents
+507-669,darg1241,http://concepticon.clld.org/parameters/424,хъаугьубил,married man
+507-669,darg1241,http://concepticon.clld.org/parameters/426,хъаугьубил,married woman
+507-714,darg1241,http://concepticon.clld.org/parameters/426,гьубичула,married woman
+507-1264,darg1241,http://concepticon.clld.org/parameters/1620,урши,son
+507-491,darg1241,http://concepticon.clld.org/parameters/1357,рурси,daughter
+507-33,darg1241,http://concepticon.clld.org/parameters/1801,дурхІне,offspring (son or daughter)
+507-1191,darg1241,http://concepticon.clld.org/parameters/1262,узи,brother
+507-1259,darg1241,http://concepticon.clld.org/parameters/1759,хугил узи,older brother
+507-40,darg1241,http://concepticon.clld.org/parameters/1760,варгил узи,younger brother
+507-805,darg1241,http://concepticon.clld.org/parameters/1263,рузи,sister
+507-1216,darg1241,http://concepticon.clld.org/parameters/1758,хугил рузи,older sister
+507-1318,darg1241,http://concepticon.clld.org/parameters/1761,варгил рузи,younger sister
+507-1191,darg1241,http://concepticon.clld.org/parameters/1640,узи,sibling
+507-805,darg1241,http://concepticon.clld.org/parameters/1640,рузи,sibling
+507-39,darg1241,http://concepticon.clld.org/parameters/1005,кІулизунт,twins
+507-845,darg1241,http://concepticon.clld.org/parameters/1383,хугил дудеш,grandfather
+507-1156,darg1241,http://concepticon.clld.org/parameters/406,ухъна,old man
+507-1253,darg1241,http://concepticon.clld.org/parameters/1496,хугил неш,grandmother
+507-247,darg1241,http://concepticon.clld.org/parameters/907,рухъна,old woman
+507-687,darg1241,http://concepticon.clld.org/parameters/1618,уршила урши,grandson
+507-274,darg1241,http://concepticon.clld.org/parameters/1618,рурсила урши,grandson
+507-1252,darg1241,http://concepticon.clld.org/parameters/1619,уршила рурси,granddaughter
+507-532,darg1241,http://concepticon.clld.org/parameters/1619,рурсила рурси,granddaughter
+507-123,darg1241,http://concepticon.clld.org/parameters/1327,дудешла узи,uncle
+507-741,darg1241,http://concepticon.clld.org/parameters/1327,нешла узи,uncle
+507-741,darg1241,http://concepticon.clld.org/parameters/1984,нешла узи,mother's brother
+507-123,darg1241,http://concepticon.clld.org/parameters/1985,дудешла узи,father's brother
+507-553,darg1241,http://concepticon.clld.org/parameters/1272,нешла рузи,aunt
+507-270,darg1241,http://concepticon.clld.org/parameters/1272,дудешла рузи,aunt
+507-553,darg1241,http://concepticon.clld.org/parameters/171,нешла рузи,mother's sister
+507-270,darg1241,http://concepticon.clld.org/parameters/170,дудешла рузи,father's sister
+507-243,darg1241,http://concepticon.clld.org/parameters/1063,узила урши,nephew
+507-206,darg1241,http://concepticon.clld.org/parameters/1063,рузила урши,nephew
+507-441,darg1241,http://concepticon.clld.org/parameters/1642,узила рурси,niece
+507-896,darg1241,http://concepticon.clld.org/parameters/1642,рузила рурси,niece
+507-1172,darg1241,http://concepticon.clld.org/parameters/1643,узикьари,cousin
+507-866,darg1241,http://concepticon.clld.org/parameters/1643,рузикьари,cousin
+507-1135,darg1241,http://concepticon.clld.org/parameters/1669,бехІте,ancestors
+507-1323,darg1241,http://concepticon.clld.org/parameters/490,аслу,descendants
+507-473,darg1241,http://concepticon.clld.org/parameters/2255,хъубеш дудеш,father-in-law (of a man)
+507-473,darg1241,http://concepticon.clld.org/parameters/2254,хъубеш дудеш,father-in-law (of a woman)
+507-1249,darg1241,http://concepticon.clld.org/parameters/2256,хъубеш неш,mother-in-law (of a man)
+507-1249,darg1241,http://concepticon.clld.org/parameters/2257,хъубеш неш,mother-in-law (of a woman)
+507-208,darg1241,http://concepticon.clld.org/parameters/2267,гияв,son-in-law (of a man)
+507-208,darg1241,http://concepticon.clld.org/parameters/2266,гияв,son-in-law (of a woman)
+507-1169,darg1241,http://concepticon.clld.org/parameters/2265,нуса,daughter-in-law (of a man)
+507-869,darg1241,http://concepticon.clld.org/parameters/2264,генежей,daughter-in-law (of a woman)
+507-721,darg1241,http://concepticon.clld.org/parameters/237,угай дудеш,stepfather
+507-1063,darg1241,http://concepticon.clld.org/parameters/236,угай неш,stepmother
+507-922,darg1241,http://concepticon.clld.org/parameters/1059,угай урши,stepson
+507-773,darg1241,http://concepticon.clld.org/parameters/1058,угай рурси,stepdaughter
+507-840,darg1241,http://concepticon.clld.org/parameters/1149,етим,orphan
+507-956,darg1241,http://concepticon.clld.org/parameters/1756,гамъа хьунул,widow
+507-156,darg1241,http://concepticon.clld.org/parameters/1981,гамъа амарса,widower
+507-1271,darg1241,http://concepticon.clld.org/parameters/1644,кецІте,"relatives, kinsmen"
+507-1177,darg1241,http://concepticon.clld.org/parameters/1644,тухум,"relatives, kinsmen"
+507-962,darg1241,http://concepticon.clld.org/parameters/194,хъалибарг,family
+507-703,darg1241,http://concepticon.clld.org/parameters/1209,ну,I
+507-1277,darg1241,http://concepticon.clld.org/parameters/1215,хІу,you (singular)
+507-538,darg1241,http://concepticon.clld.org/parameters/262,итІ,he/she/it
+507-378,darg1241,http://concepticon.clld.org/parameters/1212,нуша,we
+507-1022,darg1241,http://concepticon.clld.org/parameters/1131,—,we (inclusive)
+507-1022,darg1241,http://concepticon.clld.org/parameters/1130,—,we (exclusive)
+507-955,darg1241,http://concepticon.clld.org/parameters/1213,хІуша,you (plural)
+507-505,darg1241,http://concepticon.clld.org/parameters/817,ити,they
+507-589,darg1241,http://concepticon.clld.org/parameters/619,жан,animal
+507-159,darg1241,http://concepticon.clld.org/parameters/2261,марга,male (adj)
+507-1152,darg1241,http://concepticon.clld.org/parameters/2262,гажа,female (adj)
+507-559,darg1241,http://concepticon.clld.org/parameters/2262,гважа,female (adj)
+507-684,darg1241,http://concepticon.clld.org/parameters/631,хъулила хІяйвант,livestock
+507-85,darg1241,http://concepticon.clld.org/parameters/649,хІяйвант дурагъни,pasture
+507-1146,darg1241,http://concepticon.clld.org/parameters/263,хІанкьула,herdsman
+507-620,darg1241,http://concepticon.clld.org/parameters/851,ябна дерхъ,"stable, stall"
+507-146,darg1241,http://concepticon.clld.org/parameters/851,тІени,"stable, stall"
+507-161,darg1241,http://concepticon.clld.org/parameters/1153,хІяйвант,cattle (bovine)
+507-582,darg1241,http://concepticon.clld.org/parameters/1008,бугъа,bull
+507-144,darg1241,http://concepticon.clld.org/parameters/1169,унц,ox
+507-964,darg1241,http://concepticon.clld.org/parameters/1007,кьял,cow
+507-464,darg1241,http://concepticon.clld.org/parameters/1989,къача,calf
+507-974,darg1241,http://concepticon.clld.org/parameters/1331,мас,sheep
+507-1238,darg1241,http://concepticon.clld.org/parameters/1344,куйъа,ram
+507-302,darg1241,http://concepticon.clld.org/parameters/1345,маза,ewe
+507-1066,darg1241,http://concepticon.clld.org/parameters/820,мукьари,lamb
+507-1139,darg1241,http://concepticon.clld.org/parameters/1348,марга цура,boar
+507-469,darg1241,http://concepticon.clld.org/parameters/1348,дугІла цура,boar
+507-110,darg1241,http://concepticon.clld.org/parameters/1351,гважа цура,sow (2)
+507-1081,darg1241,http://concepticon.clld.org/parameters/1337,цура,pig
+507-1076,darg1241,http://concepticon.clld.org/parameters/1502,гІажа,goat
+507-931,darg1241,http://concepticon.clld.org/parameters/264,кьяца,he-goat
+507-871,darg1241,http://concepticon.clld.org/parameters/1972,кІици,kid
+507-855,darg1241,http://concepticon.clld.org/parameters/615,ябу,horse (equine)
+507-692,darg1241,http://concepticon.clld.org/parameters/936,урчи,stallion
+507-1229,darg1241,http://concepticon.clld.org/parameters/938,газа,mare
+507-396,darg1241,http://concepticon.clld.org/parameters/1647,тяй,"foal, colt"
+507-338,darg1241,http://concepticon.clld.org/parameters/1862,хІамхІа,"ass, donkey"
+507-803,darg1241,http://concepticon.clld.org/parameters/890,гъачир,mule
+507-1049,darg1241,http://concepticon.clld.org/parameters/265,хъулила чикІа,fowl
+507-426,darg1241,http://concepticon.clld.org/parameters/1511,дагъай,"cock, rooster"
+507-770,darg1241,http://concepticon.clld.org/parameters/1514,гІяргІя,hen
+507-648,darg1241,http://concepticon.clld.org/parameters/1318,чикІа,chicken
+507-200,darg1241,http://concepticon.clld.org/parameters/1187,гъаз,goose
+507-744,darg1241,http://concepticon.clld.org/parameters/1360,бятІбятІ,duck
+507-722,darg1241,http://concepticon.clld.org/parameters/539,пукьа,nest
+507-648,darg1241,http://concepticon.clld.org/parameters/937,чикІа,bird
+507-57,darg1241,http://concepticon.clld.org/parameters/950,чІягъа,seagull
+507-1097,darg1241,http://concepticon.clld.org/parameters/758,леглег,heron
+507-215,darg1241,http://concepticon.clld.org/parameters/1905,къуш,eagle
+507-428,darg1241,http://concepticon.clld.org/parameters/307,чикІне дирхъан,hawk
+507-236,darg1241,http://concepticon.clld.org/parameters/307,лачин,hawk
+507-215,darg1241,http://concepticon.clld.org/parameters/1185,къуш,vulture
+507-794,darg1241,http://concepticon.clld.org/parameters/1793,пилпил гІяргІя,bat
+507-1080,darg1241,http://concepticon.clld.org/parameters/882,папугай,parrot
+507-160,darg1241,http://concepticon.clld.org/parameters/913,гъяна,crow
+507-626,darg1241,http://concepticon.clld.org/parameters/1853,лагьиъ,dove
+507-1294,darg1241,http://concepticon.clld.org/parameters/735,гугумяв,owl
+507-882,darg1241,http://concepticon.clld.org/parameters/2009,хва,dog
+507-59,darg1241,http://concepticon.clld.org/parameters/1136,гІяри,rabbit
+507-95,darg1241,http://concepticon.clld.org/parameters/1208,кату,cat
+507-1022,darg1241,http://concepticon.clld.org/parameters/309,—,opossum
+507-881,darg1241,http://concepticon.clld.org/parameters/2139,гаца,"mouse, rat"
+507-10,darg1241,http://concepticon.clld.org/parameters/227,бялихъ,fish
+507-311,darg1241,http://concepticon.clld.org/parameters/213,бялихъла анква,fin (dorsal)
+507-84,darg1241,http://concepticon.clld.org/parameters/266,бялихъла кам,fishscale
+507-561,darg1241,http://concepticon.clld.org/parameters/1916,бялихъла,gill
+507-369,darg1241,http://concepticon.clld.org/parameters/1916,гьигьла биркІант,gill
+507-479,darg1241,http://concepticon.clld.org/parameters/598,хІажигъари,shell
+507-52,darg1241,http://concepticon.clld.org/parameters/1110,акула,shark
+507-649,darg1241,http://concepticon.clld.org/parameters/1479,делфин,"porpoise, dolphin"
+507-923,darg1241,http://concepticon.clld.org/parameters/957,кит,whale
+507-911,darg1241,http://concepticon.clld.org/parameters/1910,урхьула кату,stingray
+507-150,darg1241,http://concepticon.clld.org/parameters/1013,ватахьари,freshwater eel
+507-823,darg1241,http://concepticon.clld.org/parameters/522,бецІ,wolf
+507-1339,darg1241,http://concepticon.clld.org/parameters/1386,арслан-гъаплан,lion
+507-451,darg1241,http://concepticon.clld.org/parameters/1820,синка,bear
+507-408,darg1241,http://concepticon.clld.org/parameters/1312,гурда,fox
+507-890,darg1241,http://concepticon.clld.org/parameters/1936,бартиа,deer
+507-217,darg1241,http://concepticon.clld.org/parameters/1350,маймун,monkey
+507-795,darg1241,http://concepticon.clld.org/parameters/1290,пил,elephant
+507-212,darg1241,http://concepticon.clld.org/parameters/1871,валриъ,camel
+507-513,darg1241,http://concepticon.clld.org/parameters/620,милякь,insect
+507-147,darg1241,http://concepticon.clld.org/parameters/310,неръ,louse
+507-275,darg1241,http://concepticon.clld.org/parameters/267,кьи,nit (louse egg)
+507-309,darg1241,http://concepticon.clld.org/parameters/232,цІива,flea
+507-986,darg1241,http://concepticon.clld.org/parameters/1974,дарш кьяшан,centipede
+507-800,darg1241,http://concepticon.clld.org/parameters/1538,кьякьяраб,scorpion
+507-1327,darg1241,http://concepticon.clld.org/parameters/1575,гъанда,cockroach
+507-1240,darg1241,http://concepticon.clld.org/parameters/587,имиари,ant
+507-202,darg1241,http://concepticon.clld.org/parameters/843,пайлигьан,spider
+507-778,darg1241,http://concepticon.clld.org/parameters/1065,ав,spider web
+507-1111,darg1241,http://concepticon.clld.org/parameters/665,мирхъи,bee
+507-80,darg1241,http://concepticon.clld.org/parameters/1931,мурчІели варъала,beeswax
+507-209,darg1241,http://concepticon.clld.org/parameters/88,мирхъила тІакьа,beehive
+507-490,darg1241,http://concepticon.clld.org/parameters/1517,чІиндир,wasp
+507-1175,darg1241,http://concepticon.clld.org/parameters/1504,тІентІ,fly
+507-1282,darg1241,http://concepticon.clld.org/parameters/95,хІури,"sandfly (midge), gnat"
+507-1282,darg1241,http://concepticon.clld.org/parameters/1509,хІури,mosquito
+507-513,darg1241,http://concepticon.clld.org/parameters/1219,милякь,worm
+507-926,darg1241,http://concepticon.clld.org/parameters/730,мусекабашан,snake
+507-20,darg1241,http://concepticon.clld.org/parameters/206,дугели лупкуй милякь,firefly
+507-700,darg1241,http://concepticon.clld.org/parameters/1791,хаминдари,butterfly
+507-1195,darg1241,http://concepticon.clld.org/parameters/607,цІерцІ,grasshopper
+507-513,darg1241,http://concepticon.clld.org/parameters/1543,милякь,snail
+507-368,darg1241,http://concepticon.clld.org/parameters/503,гІятІа,frog
+507-1338,darg1241,http://concepticon.clld.org/parameters/632,шуршетІи,lizard
+507-13,darg1241,http://concepticon.clld.org/parameters/1857,хІалхъа,"crocodile, alligator"
+507-921,darg1241,http://concepticon.clld.org/parameters/112,вакьла гІятІа,turtle
+507-972,darg1241,http://concepticon.clld.org/parameters/1480,чарх,body
+507-60,darg1241,http://concepticon.clld.org/parameters/1480,кьаркьала,body
+507-1328,darg1241,http://concepticon.clld.org/parameters/763,кам,"skin, hide"
+507-804,darg1241,http://concepticon.clld.org/parameters/763,кабц,"skin, hide"
+507-781,darg1241,http://concepticon.clld.org/parameters/763,гули,"skin, hide"
+507-972,darg1241,http://concepticon.clld.org/parameters/2259,чарх,flesh
+507-801,darg1241,http://concepticon.clld.org/parameters/2259,чархикела диъ,flesh
+507-996,darg1241,http://concepticon.clld.org/parameters/1040,бекІикела гъиз,hair (head)
+507-204,darg1241,http://concepticon.clld.org/parameters/678,муцІур,beard
+507-376,darg1241,http://concepticon.clld.org/parameters/189,чархикела гъиз,body hair
+507-1147,darg1241,http://concepticon.clld.org/parameters/36,урезила гъиз,pubic hair
+507-621,darg1241,http://concepticon.clld.org/parameters/576,камане,dandruff
+507-1324,darg1241,http://concepticon.clld.org/parameters/946,хІи,blood
+507-990,darg1241,http://concepticon.clld.org/parameters/525,тямур,"vein, artery"
+507-628,darg1241,http://concepticon.clld.org/parameters/1394,лига,bone
+507-2,darg1241,http://concepticon.clld.org/parameters/801,бургъун,rib
+507-1002,darg1241,http://concepticon.clld.org/parameters/1393,мукеки,horn
+507-1265,darg1241,http://concepticon.clld.org/parameters/1220,рачІ,tail
+507-636,darg1241,http://concepticon.clld.org/parameters/1291,гъахъ,back
+507-152,darg1241,http://concepticon.clld.org/parameters/805,гъахъла лига,spine
+507-99,darg1241,http://concepticon.clld.org/parameters/1256,бекІ,head
+507-433,darg1241,http://concepticon.clld.org/parameters/1604,бекІла лятІан,"side of head, temple"
+507-600,darg1241,http://concepticon.clld.org/parameters/1605,бекІла тІакьа,skull
+507-6,darg1241,http://concepticon.clld.org/parameters/1583,мехІа,brain
+507-1084,darg1241,http://concepticon.clld.org/parameters/1583,мехІне,brain
+507-1085,darg1241,http://concepticon.clld.org/parameters/1560,бяхІ,face
+507-1201,darg1241,http://concepticon.clld.org/parameters/123,анда,forehead
+507-439,darg1241,http://concepticon.clld.org/parameters/798,хъяйхъяй,jaw
+507-271,darg1241,http://concepticon.clld.org/parameters/1730,ляжи,cheek
+507-572,darg1241,http://concepticon.clld.org/parameters/1510,муцІурла удила,chin
+507-280,darg1241,http://concepticon.clld.org/parameters/1248,хІули,eye
+507-912,darg1241,http://concepticon.clld.org/parameters/1173,нед,eyebrow
+507-399,darg1241,http://concepticon.clld.org/parameters/17,хІули кІапІиран,eyelid
+507-1078,darg1241,http://concepticon.clld.org/parameters/1540,керпик,eyelash
+507-1055,darg1241,http://concepticon.clld.org/parameters/1655,чІивизес,blink
+507-906,darg1241,http://concepticon.clld.org/parameters/1247,лихІи,ear
+507-16,darg1241,http://concepticon.clld.org/parameters/18,лихІила дуб,earlobe
+507-1088,darg1241,http://concepticon.clld.org/parameters/32,лихІбазела нас,earwax
+507-760,darg1241,http://concepticon.clld.org/parameters/1221,гъянгъя,nose
+507-892,darg1241,http://concepticon.clld.org/parameters/1178,тІели,nostril
+507-1234,darg1241,http://concepticon.clld.org/parameters/208,шинкІадеш,mucus (nasal)
+507-191,darg1241,http://concepticon.clld.org/parameters/208,хъутне,mucus (nasal)
+507-256,darg1241,http://concepticon.clld.org/parameters/674,мухIли,mouth
+507-623,darg1241,http://concepticon.clld.org/parameters/73,чикІала мухIли,beak
+507-1051,darg1241,http://concepticon.clld.org/parameters/478,кІантІ,lip
+507-877,darg1241,http://concepticon.clld.org/parameters/1205,лимзи,tongue
+507-1044,darg1241,http://concepticon.clld.org/parameters/1380,цува,tooth
+507-234,darg1241,http://concepticon.clld.org/parameters/139,кукбе,gums
+507-1304,darg1241,http://concepticon.clld.org/parameters/1049,кьаси цува,molartooth
+507-577,darg1241,http://concepticon.clld.org/parameters/1333,хъяб,neck
+507-960,darg1241,http://concepticon.clld.org/parameters/1347,хъянтІа,nape of neck
+507-503,darg1241,http://concepticon.clld.org/parameters/1346,сус,throat
+507-248,darg1241,http://concepticon.clld.org/parameters/1346,кІилрив,throat
+507-320,darg1241,http://concepticon.clld.org/parameters/1482,хъуцІари,shoulder
+507-109,darg1241,http://concepticon.clld.org/parameters/172,кьалхІа лига,shoulderblade
+507-198,darg1241,http://concepticon.clld.org/parameters/1994,хъуцІала лига,collarbone
+507-83,darg1241,http://concepticon.clld.org/parameters/1673,някь,arm
+507-799,darg1241,http://concepticon.clld.org/parameters/1886,шанкІа,armpit
+507-114,darg1241,http://concepticon.clld.org/parameters/981,газа билак,elbow
+507-229,darg1241,http://concepticon.clld.org/parameters/799,някьла хъяб,wrist
+507-934,darg1241,http://concepticon.clld.org/parameters/1277,някьла бекІ,hand
+507-124,darg1241,http://concepticon.clld.org/parameters/1183,хъат,palm of hand
+507-771,darg1241,http://concepticon.clld.org/parameters/1303,някьла тІул,finger
+507-1170,darg1241,http://concepticon.clld.org/parameters/1781,хугил тІул,thumb
+507-1301,darg1241,http://concepticon.clld.org/parameters/1258,нико,fingernail
+507-1301,darg1241,http://concepticon.clld.org/parameters/72,нико,claw
+507-957,darg1241,http://concepticon.clld.org/parameters/1297,кьяш,leg
+507-390,darg1241,http://concepticon.clld.org/parameters/800,дирицІ,thigh
+507-993,darg1241,http://concepticon.clld.org/parameters/800,урдур,thigh
+507-43,darg1241,http://concepticon.clld.org/parameters/498,кьяшла квани,calf of leg
+507-552,darg1241,http://concepticon.clld.org/parameters/1371,кьункьа,knee
+507-584,darg1241,http://concepticon.clld.org/parameters/1301,кьяшла лутІи,foot
+507-857,darg1241,http://concepticon.clld.org/parameters/803,кьякьа,ankle
+507-193,darg1241,http://concepticon.clld.org/parameters/980,кьячІа,heel
+507-1260,darg1241,http://concepticon.clld.org/parameters/318,кьяшла гъял,footprint
+507-586,darg1241,http://concepticon.clld.org/parameters/1257,анка,wing
+507-213,darg1241,http://concepticon.clld.org/parameters/1201,бяхъяри,feather
+507-933,darg1241,http://concepticon.clld.org/parameters/1592,михъир,chest
+507-197,darg1241,http://concepticon.clld.org/parameters/1402,мама,breast (of woman)
+507-647,darg1241,http://concepticon.clld.org/parameters/796,мамала хъар,"nipple, teat"
+507-440,darg1241,http://concepticon.clld.org/parameters/154,бурхІа,udder
+507-454,darg1241,http://concepticon.clld.org/parameters/1838,хъуду,navel
+507-407,darg1241,http://concepticon.clld.org/parameters/1223,уркІи,heart
+507-1306,darg1241,http://concepticon.clld.org/parameters/688,хорегІ,lung
+507-509,darg1241,http://concepticon.clld.org/parameters/1224,дулекІ,liver
+507-1279,darg1241,http://concepticon.clld.org/parameters/489,урцецІ,kidney
+507-14,darg1241,http://concepticon.clld.org/parameters/1744,кІацІ,spleen
+507-1225,darg1241,http://concepticon.clld.org/parameters/819,ашхазан,stomach
+507-53,darg1241,http://concepticon.clld.org/parameters/1991,хугил ичак,"intestines, guts"
+507-815,darg1241,http://concepticon.clld.org/parameters/1681,бай,waist
+507-390,darg1241,http://concepticon.clld.org/parameters/1745,дирицІ,hip
+507-993,darg1241,http://concepticon.clld.org/parameters/1745,урдур,hip
+507-387,darg1241,http://concepticon.clld.org/parameters/834,ирхъме,buttocks
+507-894,darg1241,http://concepticon.clld.org/parameters/804,дурхІнеш,womb
+507-119,darg1241,http://concepticon.clld.org/parameters/797,кьулекьа,testicle
+507-1308,darg1241,http://concepticon.clld.org/parameters/1222,кІими,penis
+507-88,darg1241,http://concepticon.clld.org/parameters/1407,гьигьукІас,"breathe, breath"
+507-1297,darg1241,http://concepticon.clld.org/parameters/1407,гьигь,"breathe, breath"
+507-793,darg1241,http://concepticon.clld.org/parameters/1028,гьагьукІас,"yawn, gape"
+507-529,darg1241,http://concepticon.clld.org/parameters/162,синкьукІас,hiccough
+507-1064,darg1241,http://concepticon.clld.org/parameters/879,хъахІукІас,cough
+507-361,darg1241,http://concepticon.clld.org/parameters/1621,гІанчукІас,sneeze
+507-457,darg1241,http://concepticon.clld.org/parameters/126,майалзеватес,perspire
+507-606,darg1241,http://concepticon.clld.org/parameters/1440,туъукІас,spit
+507-1233,darg1241,http://concepticon.clld.org/parameters/1440,тукне,spit
+507-1272,darg1241,http://concepticon.clld.org/parameters/1278,рабчукІас,vomit
+507-1061,darg1241,http://concepticon.clld.org/parameters/1403,кьацІукІас,bite
+507-849,darg1241,http://concepticon.clld.org/parameters/319,лимукІас,lick
+507-651,darg1241,http://concepticon.clld.org/parameters/268,шаркукІас,dribble
+507-544,darg1241,http://concepticon.clld.org/parameters/1585,усес,sleep
+507-1017,darg1241,http://concepticon.clld.org/parameters/1983,харукІас,snore
+507-935,darg1241,http://concepticon.clld.org/parameters/1920,муэри кебиэс,dream
+507-374,darg1241,http://concepticon.clld.org/parameters/1602,тІатІугьес,wake up
+507-950,darg1241,http://concepticon.clld.org/parameters/1159,пусукІас,break wind
+507-899,darg1241,http://concepticon.clld.org/parameters/592,жехІиэс,urinate
+507-1083,darg1241,http://concepticon.clld.org/parameters/676,пухукІас,defecate
+507-749,darg1241,http://concepticon.clld.org/parameters/1785,ирхІес,have sexual intercourse
+507-139,darg1241,http://concepticon.clld.org/parameters/52,руржес,shiver
+507-564,darg1241,http://concepticon.clld.org/parameters/138,вайахІес,bathe
+507-787,darg1241,http://concepticon.clld.org/parameters/1152,дудешизака акІунил,beget (of father)
+507-1203,darg1241,http://concepticon.clld.org/parameters/1090,акІес,born (to be)
+507-594,darg1241,http://concepticon.clld.org/parameters/1123,кайзелерил,pregnant
+507-231,darg1241,http://concepticon.clld.org/parameters/1087,кIарицІес,conceive
+507-515,darg1241,http://concepticon.clld.org/parameters/1087,кайзеругьес,conceive
+507-875,darg1241,http://concepticon.clld.org/parameters/1422,йашадиукІас,"live, living, life"
+507-1187,darg1241,http://concepticon.clld.org/parameters/1422,арай,"live, living, life"
+507-268,darg1241,http://concepticon.clld.org/parameters/1422,гІямру,"live, living, life"
+507-168,darg1241,http://concepticon.clld.org/parameters/1494,эбкІес,"die, dead"
+507-434,darg1241,http://concepticon.clld.org/parameters/1494,эбкІибил,"die, dead"
+507-352,darg1241,http://concepticon.clld.org/parameters/1904,гІалайкибил,drowned
+507-904,darg1241,http://concepticon.clld.org/parameters/1904,гІяндикибил,drowned
+507-784,darg1241,http://concepticon.clld.org/parameters/1417,кавшес,kill
+507-876,darg1241,http://concepticon.clld.org/parameters/767,жаназа,corpse
+507-663,darg1241,http://concepticon.clld.org/parameters/1719,ихьес,bury (the dead)
+507-1267,darg1241,http://concepticon.clld.org/parameters/1773,хІяб,"grave, tomb"
+507-237,darg1241,http://concepticon.clld.org/parameters/785,гъуватил,"strong, mighty, powerful"
+507-63,darg1241,http://concepticon.clld.org/parameters/785,гучлу,"strong, mighty, powerful"
+507-534,darg1241,http://concepticon.clld.org/parameters/1601,загІипил,weak
+507-776,darg1241,http://concepticon.clld.org/parameters/1601,чІукьай,weak
+507-1187,darg1241,http://concepticon.clld.org/parameters/1364,арай,"well, health"
+507-292,darg1241,http://concepticon.clld.org/parameters/1364,арадеш,"well, health"
+507-865,darg1241,http://concepticon.clld.org/parameters/1847,изуй,"sick, sickness"
+507-288,darg1241,http://concepticon.clld.org/parameters/1847,иза,"sick, sickness"
+507-4,darg1241,http://concepticon.clld.org/parameters/1534,буцІардеш,fever
+507-139,darg1241,http://concepticon.clld.org/parameters/1534,руржес,fever
+507-735,darg1241,http://concepticon.clld.org/parameters/1957,зоб,goiter
+507-1270,darg1241,http://concepticon.clld.org/parameters/102,варгІиъни,cold (catarrh)
+507-422,darg1241,http://concepticon.clld.org/parameters/102,дягІугьубил,cold (catarrh)
+507-695,darg1241,http://concepticon.clld.org/parameters/1109,дяхъи,"wound, sore"
+507-1286,darg1241,http://concepticon.clld.org/parameters/1109,арахІабуруй дяхъи,"wound, sore"
+507-340,darg1241,http://concepticon.clld.org/parameters/1148,изаъагибил мер,bruise
+507-643,darg1241,http://concepticon.clld.org/parameters/1903,бендри,swelling
+507-418,darg1241,http://concepticon.clld.org/parameters/1903,ара хIабуруй дяхъи,swelling
+507-657,darg1241,http://concepticon.clld.org/parameters/148,ихуй,itch
+507-178,darg1241,http://concepticon.clld.org/parameters/1584,шаршараги,blister
+507-1275,darg1241,http://concepticon.clld.org/parameters/793,бакІари бикІан,boil (noun)
+507-477,darg1241,http://concepticon.clld.org/parameters/793,азган,boil (noun)
+507-1009,darg1241,http://concepticon.clld.org/parameters/1808,шаха,pus
+507-905,darg1241,http://concepticon.clld.org/parameters/497,дамгъа,scar
+507-655,darg1241,http://concepticon.clld.org/parameters/497,дяхъила дамгъа,scar
+507-5,darg1241,http://concepticon.clld.org/parameters/499,аравирес,"cure, heal"
+507-880,darg1241,http://concepticon.clld.org/parameters/597,тухтир,physician
+507-598,darg1241,http://concepticon.clld.org/parameters/1372,дарман,"medicine, drug"
+507-870,darg1241,http://concepticon.clld.org/parameters/655,агъу,poison
+507-359,darg1241,http://concepticon.clld.org/parameters/1757,вамсунил,"tired, weary"
+507-1337,darg1241,http://concepticon.clld.org/parameters/1757,вамсува эбкибил,"tired, weary"
+507-176,darg1241,http://concepticon.clld.org/parameters/168,хІалбагьес,rest
+507-266,darg1241,http://concepticon.clld.org/parameters/1564,мухукІуй,lazy
+507-797,darg1241,http://concepticon.clld.org/parameters/1564,мехила,lazy
+507-1230,darg1241,http://concepticon.clld.org/parameters/1125,чІянкІа (бекІ),bald
+507-1040,darg1241,http://concepticon.clld.org/parameters/1125,тІякІо,bald
+507-1193,darg1241,http://concepticon.clld.org/parameters/320,гІяргукІас,lame
+507-1254,darg1241,http://concepticon.clld.org/parameters/996,гІянцІа,deaf
+507-902,darg1241,http://concepticon.clld.org/parameters/1666,мез хІадалан,mute
+507-734,darg1241,http://concepticon.clld.org/parameters/1653,сухъур,blind
+507-838,darg1241,http://concepticon.clld.org/parameters/1463,кепил,intoxicated
+507-36,darg1241,http://concepticon.clld.org/parameters/1463,ужунил,intoxicated
+507-354,darg1241,http://concepticon.clld.org/parameters/590,чІанкIуй,"naked, bare"
+507-540,darg1241,http://concepticon.clld.org/parameters/1336,укас,eat
+507-898,darg1241,http://concepticon.clld.org/parameters/256,беркани,food
+507-748,darg1241,http://concepticon.clld.org/parameters/269,белхьунил,cooked
+507-291,darg1241,http://concepticon.clld.org/parameters/1959,зурхІя,raw
+507-780,darg1241,http://concepticon.clld.org/parameters/178,бикьунил,ripe
+507-1341,darg1241,http://concepticon.clld.org/parameters/178,бяхІунил,ripe
+507-1232,darg1241,http://concepticon.clld.org/parameters/1958,хІябикьунил,"green, unripe"
+507-1037,darg1241,http://concepticon.clld.org/parameters/1958,хІябяхІунил,"green, unripe"
+507-122,darg1241,http://concepticon.clld.org/parameters/1728,берхІибил,rotten
+507-289,darg1241,http://concepticon.clld.org/parameters/1401,ужес,drink
+507-232,darg1241,http://concepticon.clld.org/parameters/1533,гаши,hunger
+507-743,darg1241,http://concepticon.clld.org/parameters/199,гашиила дус,famine
+507-196,darg1241,http://concepticon.clld.org/parameters/848,милидеш,thirst
+507-1246,darg1241,http://concepticon.clld.org/parameters/1421,супІукІас,suck
+507-948,darg1241,http://concepticon.clld.org/parameters/321,чІямукІас,chew
+507-821,darg1241,http://concepticon.clld.org/parameters/897,кьянтІукІас,swallow
+507-1107,darg1241,http://concepticon.clld.org/parameters/129,гІяндушес,choke
+507-151,darg1241,http://concepticon.clld.org/parameters/1100,белхьес,cook
+507-1331,darg1241,http://concepticon.clld.org/parameters/792,руржахъес,boil (vb)
+507-375,darg1241,http://concepticon.clld.org/parameters/2146,берцІес,"roast, fry"
+507-100,darg1241,http://concepticon.clld.org/parameters/183,берцІахъес,bake
+507-913,darg1241,http://concepticon.clld.org/parameters/1143,кари,oven
+507-188,darg1241,http://concepticon.clld.org/parameters/1462,шенг,"pot, cooking vessel"
+507-696,darg1241,http://concepticon.clld.org/parameters/854,чяйник,kettle
+507-188,darg1241,http://concepticon.clld.org/parameters/31,шенг,pan
+507-873,darg1241,http://concepticon.clld.org/parameters/481,сукІра,dish
+507-190,darg1241,http://concepticon.clld.org/parameters/480,бушгъап,plate
+507-963,darg1241,http://concepticon.clld.org/parameters/1530,кьям,bowl
+507-223,darg1241,http://concepticon.clld.org/parameters/270,хъаба,"pitcher, jug"
+507-1126,darg1241,http://concepticon.clld.org/parameters/270,гажин,"pitcher, jug"
+507-93,darg1241,http://concepticon.clld.org/parameters/476,чяшка,"cup, drinking vessel"
+507-604,darg1241,http://concepticon.clld.org/parameters/271,нарбики,saucer
+507-492,darg1241,http://concepticon.clld.org/parameters/1378,кІуцІул,spoon
+507-609,darg1241,http://concepticon.clld.org/parameters/1352,дис,knife (2)
+507-789,darg1241,http://concepticon.clld.org/parameters/1302,бултІани,fork (2)
+507-1091,darg1241,http://concepticon.clld.org/parameters/272,маша,tongs
+507-77,darg1241,http://concepticon.clld.org/parameters/1526,беркайни укас,meal (a)
+507-1262,darg1241,http://concepticon.clld.org/parameters/1322,савлала беркани,breakfast
+507-1022,darg1241,http://concepticon.clld.org/parameters/768,—,lunch
+507-897,darg1241,http://concepticon.clld.org/parameters/1833,хІарийала беркани,dinner
+507-1251,darg1241,http://concepticon.clld.org/parameters/1833,берхІахъла беркани,supper
+507-17,darg1241,http://concepticon.clld.org/parameters/275,тазабарес,peel
+507-30,darg1241,http://concepticon.clld.org/parameters/275,кам арасес,peel
+507-153,darg1241,http://concepticon.clld.org/parameters/86,аргьес,"sieve, strain"
+507-392,darg1241,http://concepticon.clld.org/parameters/86,гІурагъес,"sieve, strain"
+507-1015,darg1241,http://concepticon.clld.org/parameters/1767,хъяшбарес,scrape
+507-239,darg1241,http://concepticon.clld.org/parameters/1767,суркбарес,scrape
+507-336,darg1241,http://concepticon.clld.org/parameters/2017,гъудурукІас,"stir, mix"
+507-499,darg1241,http://concepticon.clld.org/parameters/2017,дархахъес,"stir, mix"
+507-201,darg1241,http://concepticon.clld.org/parameters/1368,азихъ,bread
+507-613,darg1241,http://concepticon.clld.org/parameters/273,хамир,dough
+507-382,darg1241,http://concepticon.clld.org/parameters/274,башес (хамир),knead
+507-507,darg1241,http://concepticon.clld.org/parameters/1594,декь,"meal, flour"
+507-1031,darg1241,http://concepticon.clld.org/parameters/1033,ганзбарес,"crush, grind"
+507-1209,darg1241,http://concepticon.clld.org/parameters/1033,бячес,"crush, grind"
+507-55,darg1241,http://concepticon.clld.org/parameters/636,шинкьа,mill
+507-1007,darg1241,http://concepticon.clld.org/parameters/224,зерхьи итан,mortar (2)
+507-1007,darg1241,http://concepticon.clld.org/parameters/225,зерхьи итан,pestle
+507-984,darg1241,http://concepticon.clld.org/parameters/634,диъ,meat
+507-1334,darg1241,http://concepticon.clld.org/parameters/1874,бицІари,sausage
+507-68,darg1241,http://concepticon.clld.org/parameters/1547,нергъ,"soup, broth"
+507-810,darg1241,http://concepticon.clld.org/parameters/924,овощи,vegetables
+507-437,darg1241,http://concepticon.clld.org/parameters/832,шибшиб хъаргІа,bean
+507-859,darg1241,http://concepticon.clld.org/parameters/593,картушка,potato
+507-9,darg1241,http://concepticon.clld.org/parameters/1507,цІедехь,fruit
+507-8,darg1241,http://concepticon.clld.org/parameters/1966,мухъа,bunch
+507-812,darg1241,http://concepticon.clld.org/parameters/1966,кьукья,bunch
+507-835,darg1241,http://concepticon.clld.org/parameters/322,инжир,fig
+507-49,darg1241,http://concepticon.clld.org/parameters/920,тІутІи,grape
+507-1184,darg1241,http://concepticon.clld.org/parameters/191,хив,nut
+507-987,darg1241,http://concepticon.clld.org/parameters/1154,зайтун,olive
+507-118,darg1241,http://concepticon.clld.org/parameters/1484,шимишкала рахсаг,oil
+507-1122,darg1241,http://concepticon.clld.org/parameters/323,гІявадеш,"grease, fat"
+507-403,darg1241,http://concepticon.clld.org/parameters/323,хІяли,"grease, fat"
+507-1176,darg1241,http://concepticon.clld.org/parameters/1274,зе,salt
+507-1237,darg1241,http://concepticon.clld.org/parameters/1385,жибжи,pepper
+507-739,darg1241,http://concepticon.clld.org/parameters/919,цІякьил жибжи,chili pepper
+507-1123,darg1241,http://concepticon.clld.org/parameters/942,варъа,honey
+507-854,darg1241,http://concepticon.clld.org/parameters/862,шекер,sugar
+507-482,darg1241,http://concepticon.clld.org/parameters/635,ниъ,milk (noun)
+507-254,darg1241,http://concepticon.clld.org/parameters/93,бирзес,milk (vb)
+507-230,darg1241,http://concepticon.clld.org/parameters/1569,нусаъ,cheese
+507-1276,darg1241,http://concepticon.clld.org/parameters/1245,кІама,butter
+507-592,darg1241,http://concepticon.clld.org/parameters/731,бужуй зат,"beverage, drink"
+507-1123,darg1241,http://concepticon.clld.org/parameters/941,варъа,mead
+507-569,darg1241,http://concepticon.clld.org/parameters/1524,чягъир,wine
+507-545,darg1241,http://concepticon.clld.org/parameters/1639,пива,beer
+507-174,darg1241,http://concepticon.clld.org/parameters/404,гьаруш,fermented drink
+507-619,darg1241,http://concepticon.clld.org/parameters/744,гигари,egg
+507-207,darg1241,http://concepticon.clld.org/parameters/1556,гигалла бухъутІа,egg yolk
+507-930,darg1241,http://concepticon.clld.org/parameters/158,дарги икIас,put on (clothes)
+507-258,darg1241,http://concepticon.clld.org/parameters/1895,дарги,"clothing, clothes"
+507-885,darg1241,http://concepticon.clld.org/parameters/881,ибан,tailor
+507-607,darg1241,http://concepticon.clld.org/parameters/1616,халтІи,cloth
+507-646,darg1241,http://concepticon.clld.org/parameters/1616,сухъбан,cloth
+507-1021,darg1241,http://concepticon.clld.org/parameters/964,бала халтІи,wool
+507-400,darg1241,http://concepticon.clld.org/parameters/916,гьинтахъла халтІи,"linen, flax"
+507-901,darg1241,http://concepticon.clld.org/parameters/1850,бамбала халтІи,cotton
+507-463,darg1241,http://concepticon.clld.org/parameters/1641,дарай,silk
+507-624,darg1241,http://concepticon.clld.org/parameters/325,киз,felt
+507-781,darg1241,http://concepticon.clld.org/parameters/580,гули,fur
+507-1328,darg1241,http://concepticon.clld.org/parameters/629,кам,leather
+507-804,darg1241,http://concepticon.clld.org/parameters/629,кабц,leather
+507-640,darg1241,http://concepticon.clld.org/parameters/121,бакІари бирес,spin
+507-117,darg1241,http://concepticon.clld.org/parameters/121,бакІари узес,spin
+507-549,darg1241,http://concepticon.clld.org/parameters/277,дуруг,spindle
+507-65,darg1241,http://concepticon.clld.org/parameters/133,ушес,weave
+507-816,darg1241,http://concepticon.clld.org/parameters/1787,халтила рама,loom
+507-754,darg1241,http://concepticon.clld.org/parameters/1457,ибес,sew
+507-673,darg1241,http://concepticon.clld.org/parameters/1382,буреба,needle
+507-549,darg1241,http://concepticon.clld.org/parameters/278,дуруг,awl
+507-627,darg1241,http://concepticon.clld.org/parameters/1161,бакІари,thread
+507-1110,darg1241,http://concepticon.clld.org/parameters/1161,кІиъ,thread
+507-1290,darg1241,http://concepticon.clld.org/parameters/157,сир,dye
+507-363,darg1241,http://concepticon.clld.org/parameters/157,ранг,dye
+507-646,darg1241,http://concepticon.clld.org/parameters/326,сухъбан,cloak
+507-432,darg1241,http://concepticon.clld.org/parameters/327,ахъубирхъан,poncho
+507-1292,darg1241,http://concepticon.clld.org/parameters/474,курди,woman's dress
+507-674,darg1241,http://concepticon.clld.org/parameters/603,палтІун,coat
+507-927,darg1241,http://concepticon.clld.org/parameters/1622,хІава,shirt
+507-334,darg1241,http://concepticon.clld.org/parameters/2012,хъябцІари,collar
+507-419,darg1241,http://concepticon.clld.org/parameters/1600,юпка,skirt
+507-508,darg1241,http://concepticon.clld.org/parameters/328,кIапІрар юпка,grass-skirt
+507-1057,darg1241,http://concepticon.clld.org/parameters/809,шалбар,trousers
+507-725,darg1241,http://concepticon.clld.org/parameters/329,чурап,"stocking, sock"
+507-602,darg1241,http://concepticon.clld.org/parameters/329,носкІи,"stocking, sock"
+507-1129,darg1241,http://concepticon.clld.org/parameters/1381,кьяшкила,shoe
+507-154,darg1241,http://concepticon.clld.org/parameters/585,бути,boot
+507-747,darg1241,http://concepticon.clld.org/parameters/875,кьяшкилте ибан,"shoemaker, cobbler"
+507-969,darg1241,http://concepticon.clld.org/parameters/2130,кьапIа,"hat, cap"
+507-241,darg1241,http://concepticon.clld.org/parameters/772,иръи,"belt, girdle"
+507-1118,darg1241,http://concepticon.clld.org/parameters/867,гъулгъап,glove
+507-742,darg1241,http://concepticon.clld.org/parameters/1151,пардав,veil
+507-583,darg1241,http://concepticon.clld.org/parameters/1851,киса,pocket
+507-672,darg1241,http://concepticon.clld.org/parameters/757,кІичІ,button
+507-290,darg1241,http://concepticon.clld.org/parameters/64,тирнауч,pin
+507-889,darg1241,http://concepticon.clld.org/parameters/917,някьиш,"ornament, adornment"
+507-568,darg1241,http://concepticon.clld.org/parameters/1029,дурхъасе къархъа,jewel
+507-932,darg1241,http://concepticon.clld.org/parameters/1374,тІулека,ring (for finger)
+507-1125,darg1241,http://concepticon.clld.org/parameters/1754,кулеха,bracelet
+507-1164,darg1241,http://concepticon.clld.org/parameters/1961,ничбе,necklace
+507-506,darg1241,http://concepticon.clld.org/parameters/1860,нича,bead
+507-1322,darg1241,http://concepticon.clld.org/parameters/770,були,earring
+507-395,darg1241,http://concepticon.clld.org/parameters/330,кьапІа,"headband, headdress"
+507-317,darg1241,http://concepticon.clld.org/parameters/330,чялма,"headband, headdress"
+507-1022,darg1241,http://concepticon.clld.org/parameters/68,—,tattoo
+507-605,darg1241,http://concepticon.clld.org/parameters/332,гъул явлухъ,"handkerchief, rag"
+507-883,darg1241,http://concepticon.clld.org/parameters/1021,някьбе хІяшдиран,towel
+507-688,darg1241,http://concepticon.clld.org/parameters/1475,дарага,comb
+507-688,darg1241,http://concepticon.clld.org/parameters/1821,дарага,brush
+507-844,darg1241,http://concepticon.clld.org/parameters/333,чури,braid
+507-19,darg1241,http://concepticon.clld.org/parameters/151,муцІур лугIуй зат,razor
+507-598,darg1241,http://concepticon.clld.org/parameters/1926,дарман,ointment
+507-1122,darg1241,http://concepticon.clld.org/parameters/1926,гІявадеш,ointment
+507-670,darg1241,http://concepticon.clld.org/parameters/788,сапун,soap
+507-429,darg1241,http://concepticon.clld.org/parameters/1171,гузгу,mirror
+507-1310,darg1241,http://concepticon.clld.org/parameters/1099,яшади укIас,"dwell, live"
+507-656,darg1241,http://concepticon.clld.org/parameters/1252,хъали,house
+507-1094,darg1241,http://concepticon.clld.org/parameters/1252,юрт,house
+507-74,darg1241,http://concepticon.clld.org/parameters/1252,ужагъ,house
+507-656,darg1241,http://concepticon.clld.org/parameters/1678,хъали,hut
+507-1212,darg1241,http://concepticon.clld.org/parameters/403,авлахъизела хъали,garden-house
+507-1060,darg1241,http://concepticon.clld.org/parameters/1316,чятир,tent
+507-1072,darg1241,http://concepticon.clld.org/parameters/736,абзар,"yard, court"
+507-177,darg1241,http://concepticon.clld.org/parameters/408,амарсула хъали,men's house
+507-32,darg1241,http://concepticon.clld.org/parameters/334,беркани бируй хъали,cookhouse
+507-321,darg1241,http://concepticon.clld.org/parameters/335,кансара,meeting house
+507-656,darg1241,http://concepticon.clld.org/parameters/1450,хъали,room
+507-1181,darg1241,http://concepticon.clld.org/parameters/1567,унза,"door, gate"
+507-1095,darg1241,http://concepticon.clld.org/parameters/1567,бару,"door, gate"
+507-641,darg1241,http://concepticon.clld.org/parameters/80,энага бусагъа,"doorpost, jamb"
+507-1291,darg1241,http://concepticon.clld.org/parameters/1596,гирит,lock (noun)
+507-1183,darg1241,http://concepticon.clld.org/parameters/1012,тугъанахъ,"latch, door-bolt"
+507-1006,darg1241,http://concepticon.clld.org/parameters/1472,ибхьан,key
+507-300,darg1241,http://concepticon.clld.org/parameters/1375,укьлав,window
+507-394,darg1241,http://concepticon.clld.org/parameters/1632,чІябар,floor
+507-269,darg1241,http://concepticon.clld.org/parameters/933,тям,wall
+507-91,darg1241,http://concepticon.clld.org/parameters/185,гІянгъи,fireplace
+507-517,darg1241,http://concepticon.clld.org/parameters/859,печ,stove
+507-900,darg1241,http://concepticon.clld.org/parameters/1305,кьяпІи,chimney
+507-814,darg1241,http://concepticon.clld.org/parameters/1464,ганзи,ladder
+507-1096,darg1241,http://concepticon.clld.org/parameters/1663,карават,bed
+507-1192,darg1241,http://concepticon.clld.org/parameters/1044,гІяния,pillow
+507-452,darg1241,http://concepticon.clld.org/parameters/806,балтав,blanket
+507-768,darg1241,http://concepticon.clld.org/parameters/1476,ута,chair
+507-44,darg1241,http://concepticon.clld.org/parameters/1775,истул,table
+507-345,darg1241,http://concepticon.clld.org/parameters/2131,чирагъ,"lamp, torch"
+507-1145,darg1241,http://concepticon.clld.org/parameters/2131,панар,"lamp, torch"
+507-345,darg1241,http://concepticon.clld.org/parameters/1273,чирагъ,candle
+507-1074,darg1241,http://concepticon.clld.org/parameters/745,тахча,shelf
+507-366,darg1241,http://concepticon.clld.org/parameters/205,шиндир,trough
+507-326,darg1241,http://concepticon.clld.org/parameters/769,хъялхъи,roof
+507-1217,darg1241,http://concepticon.clld.org/parameters/279,балчала хъялхъи,thatch
+507-98,darg1241,http://concepticon.clld.org/parameters/280,хІанкъа,ridgepole
+507-1307,darg1241,http://concepticon.clld.org/parameters/829,тІехь,rafter
+507-1207,darg1241,http://concepticon.clld.org/parameters/1132,зехни,beam
+507-1307,darg1241,http://concepticon.clld.org/parameters/1132,тІехь,beam
+507-837,darg1241,http://concepticon.clld.org/parameters/281,тІал,"post, pole"
+507-240,darg1241,http://concepticon.clld.org/parameters/1227,дуз,board
+507-728,darg1241,http://concepticon.clld.org/parameters/876,гумез,arch
+507-218,darg1241,http://concepticon.clld.org/parameters/877,къархъала уста,mason
+507-1288,darg1241,http://concepticon.clld.org/parameters/1006,келпич,brick
+507-379,darg1241,http://concepticon.clld.org/parameters/1731,гирач,mortar
+507-263,darg1241,http://concepticon.clld.org/parameters/901,гІянжила хъали,adobe
+507-997,darg1241,http://concepticon.clld.org/parameters/979,ялчи,farmer
+507-1068,darg1241,http://concepticon.clld.org/parameters/212,авлахъ,field (for cultivation)
+507-820,darg1241,http://concepticon.clld.org/parameters/212,ганза,field (for cultivation)
+507-968,darg1241,http://concepticon.clld.org/parameters/586,анхъ,garden
+507-936,darg1241,http://concepticon.clld.org/parameters/1541,ганза гьайбарахъес,"cultivate, till"
+507-398,darg1241,http://concepticon.clld.org/parameters/1690,чяли,fence
+507-826,darg1241,http://concepticon.clld.org/parameters/2002,тятяул,ditch
+507-1127,darg1241,http://concepticon.clld.org/parameters/2002,биркьни,ditch
+507-1244,darg1241,http://concepticon.clld.org/parameters/1921,гьайбирес,plow
+507-1219,darg1241,http://concepticon.clld.org/parameters/1794,хъарш,furrow
+507-111,darg1241,http://concepticon.clld.org/parameters/1418,икьвас,dig
+507-591,darg1241,http://concepticon.clld.org/parameters/1176,бел,spade
+507-1315,darg1241,http://concepticon.clld.org/parameters/1901,кухІяй,shovel
+507-1167,darg1241,http://concepticon.clld.org/parameters/284,гъудгъуд,hoe
+507-455,darg1241,http://concepticon.clld.org/parameters/337,гала,fork
+507-1190,darg1241,http://concepticon.clld.org/parameters/338,гъярда,rake
+507-856,darg1241,http://concepticon.clld.org/parameters/748,душес,sow
+507-442,darg1241,http://concepticon.clld.org/parameters/748,ург’ес,sow
+507-808,darg1241,http://concepticon.clld.org/parameters/714,гье,seed
+507-1329,darg1241,http://concepticon.clld.org/parameters/190,удес,"mow, reap"
+507-335,darg1241,http://concepticon.clld.org/parameters/190,иршес,"mow, reap"
+507-825,darg1241,http://concepticon.clld.org/parameters/2132,мирш,"sickle, scythe"
+507-796,darg1241,http://concepticon.clld.org/parameters/2132,хъяшта,"sickle, scythe"
+507-516,darg1241,http://concepticon.clld.org/parameters/285,анкІи диршес,thresh
+507-1256,darg1241,http://concepticon.clld.org/parameters/223,дургІела,threshing-floor
+507-389,darg1241,http://concepticon.clld.org/parameters/611,ризкьи,"crop, harvest"
+507-158,darg1241,http://concepticon.clld.org/parameters/605,цІули,"grain (barley, oats etc)"
+507-910,darg1241,http://concepticon.clld.org/parameters/1077,анкІи,wheat
+507-78,darg1241,http://concepticon.clld.org/parameters/932,мухъу,barley
+507-351,darg1241,http://concepticon.clld.org/parameters/23,сусул анкІи,rye
+507-235,darg1241,http://concepticon.clld.org/parameters/60,нихъа,oats
+507-189,darg1241,http://concepticon.clld.org/parameters/506,хІажленкІи,"maize, corn"
+507-15,darg1241,http://concepticon.clld.org/parameters/926,дуги,rice
+507-337,darg1241,http://concepticon.clld.org/parameters/606,кьар,grass
+507-863,darg1241,http://concepticon.clld.org/parameters/342,мура,hay
+507-639,darg1241,http://concepticon.clld.org/parameters/653,бухъала кьар,plant (noun)
+507-358,darg1241,http://concepticon.clld.org/parameters/1486,хугидагъакьес,plant (vb)
+507-693,darg1241,http://concepticon.clld.org/parameters/670,мякь,root
+507-920,darg1241,http://concepticon.clld.org/parameters/1531,кьяли,branch
+507-504,darg1241,http://concepticon.clld.org/parameters/628,кІапІи,leaf
+507-576,darg1241,http://concepticon.clld.org/parameters/239,вава,flower
+507-46,darg1241,http://concepticon.clld.org/parameters/906,гъатІ,tree
+507-1273,darg1241,http://concepticon.clld.org/parameters/644,миг,oak
+507-689,darg1241,http://concepticon.clld.org/parameters/1950,пурпа,beech
+507-729,darg1241,http://concepticon.clld.org/parameters/1855,чІякьа,birch
+507-312,darg1241,http://concepticon.clld.org/parameters/1855,махъ,birch
+507-385,darg1241,http://concepticon.clld.org/parameters/1740,хури,pine
+507-679,darg1241,http://concepticon.clld.org/parameters/1915,йолка,fir
+507-1273,darg1241,http://concepticon.clld.org/parameters/968,миг,acorn
+507-187,darg1241,http://concepticon.clld.org/parameters/343,тІутІила мухъа,vine
+507-1199,darg1241,http://concepticon.clld.org/parameters/974,тамаку,tobacco
+507-792,darg1241,http://concepticon.clld.org/parameters/1689,тамакула эръо,smoke (tobacco)
+507-685,darg1241,http://concepticon.clld.org/parameters/1124,муштІункІ,pipe
+507-954,darg1241,http://concepticon.clld.org/parameters/241,хъитІа,tree stump
+507-791,darg1241,http://concepticon.clld.org/parameters/344,гъатІла тІал,tree trunk
+507-630,darg1241,http://concepticon.clld.org/parameters/409,кьукьяракь,forked branch
+507-574,darg1241,http://concepticon.clld.org/parameters/1204,гІянкІа,bark
+507-1328,darg1241,http://concepticon.clld.org/parameters/1204,кам,bark
+507-1234,darg1241,http://concepticon.clld.org/parameters/345,шинкІадеш,sap
+507-1228,darg1241,http://concepticon.clld.org/parameters/1181,палма,palm tree
+507-979,darg1241,http://concepticon.clld.org/parameters/970,кокос,coconut
+507-415,darg1241,http://concepticon.clld.org/parameters/1126,цитрусла цІедехь,citrus fruit
+507-542,darg1241,http://concepticon.clld.org/parameters/868,бананла гъатІ,banana tree
+507-12,darg1241,http://concepticon.clld.org/parameters/346,инжирла гъатІ,banyan
+507-555,darg1241,http://concepticon.clld.org/parameters/159,батат,sweet potato
+507-555,darg1241,http://concepticon.clld.org/parameters/410,батат,yam
+507-1022,darg1241,http://concepticon.clld.org/parameters/925,—,"tapioca, manioc, cassava"
+507-1153,darg1241,http://concepticon.clld.org/parameters/411,аргьай ганзари,gourd
+507-535,darg1241,http://concepticon.clld.org/parameters/864,гаймуш,"pumpkin, squash"
+507-949,darg1241,http://concepticon.clld.org/parameters/864,ганзари,"pumpkin, squash"
+507-219,darg1241,http://concepticon.clld.org/parameters/1927,бамбук,bamboo
+507-333,darg1241,http://concepticon.clld.org/parameters/146,шекерла тростник,sugar cane
+507-1022,darg1241,http://concepticon.clld.org/parameters/348,—,fish poison (root)
+507-1058,darg1241,http://concepticon.clld.org/parameters/33,низбе,nettle
+507-752,darg1241,http://concepticon.clld.org/parameters/641,хъашхъар,mushroom
+507-401,darg1241,http://concepticon.clld.org/parameters/813,бирес,"do, make"
+507-447,darg1241,http://concepticon.clld.org/parameters/813,узес,"do, make"
+507-423,darg1241,http://concepticon.clld.org/parameters/984,хІянки,work
+507-611,darg1241,http://concepticon.clld.org/parameters/2004,гъявбарес,bend
+507-34,darg1241,http://concepticon.clld.org/parameters/1470,гьарсбарес,fold
+507-18,darg1241,http://concepticon.clld.org/parameters/1470,ипкес,fold
+507-293,darg1241,http://concepticon.clld.org/parameters/1917,бигьес,"tie, bind"
+507-116,darg1241,http://concepticon.clld.org/parameters/352,аржес,untie
+507-638,darg1241,http://concepticon.clld.org/parameters/1627,шинжир,chain
+507-977,darg1241,http://concepticon.clld.org/parameters/1218,гьайъа,"rope, cord"
+507-1059,darg1241,http://concepticon.clld.org/parameters/760,гІянд,knot (noun)
+507-1024,darg1241,http://concepticon.clld.org/parameters/2133,пяхъбирес,"strike (hit, beat)"
+507-980,darg1241,http://concepticon.clld.org/parameters/354,пяхъукІас хункІичу,pound with fist
+507-485,darg1241,http://concepticon.clld.org/parameters/1432,балгъес,cut
+507-149,darg1241,http://concepticon.clld.org/parameters/355,гъантІбирес,cut down
+507-364,darg1241,http://concepticon.clld.org/parameters/155,берцес,"chop, hew"
+507-285,darg1241,http://concepticon.clld.org/parameters/1434,атІес,stab
+507-609,darg1241,http://concepticon.clld.org/parameters/1352,дис,knife
+507-128,darg1241,http://concepticon.clld.org/parameters/356,кІуцІмах,"scissors, shears"
+507-1319,darg1241,http://concepticon.clld.org/parameters/677,барда,ax
+507-1319,darg1241,http://concepticon.clld.org/parameters/290,барда,adze
+507-841,darg1241,http://concepticon.clld.org/parameters/680,пашбирес,break
+507-1099,darg1241,http://concepticon.clld.org/parameters/588,пашбугьубил,broken
+507-1242,darg1241,http://concepticon.clld.org/parameters/588,бургІибил,broken
+507-1209,darg1241,http://concepticon.clld.org/parameters/1437,бячес,split
+507-47,darg1241,http://concepticon.clld.org/parameters/1735,бишхъес,tear
+507-733,darg1241,http://concepticon.clld.org/parameters/1735,къярбирес,tear
+507-531,darg1241,http://concepticon.clld.org/parameters/291,кам архъес,"flay, skin"
+507-861,darg1241,http://concepticon.clld.org/parameters/1449,бехъас,"rub, wipe"
+507-539,darg1241,http://concepticon.clld.org/parameters/214,зузбирес,stretch
+507-1150,darg1241,http://concepticon.clld.org/parameters/1455,цІацІбирес,pull
+507-827,darg1241,http://concepticon.clld.org/parameters/38,гІяйбирес,spread out
+507-944,darg1241,http://concepticon.clld.org/parameters/38,гІяйукІас,spread out
+507-1117,darg1241,http://concepticon.clld.org/parameters/357,гІапІиэс,hang up
+507-1213,darg1241,http://concepticon.clld.org/parameters/1913,ганзбирес,press
+507-130,darg1241,http://concepticon.clld.org/parameters/1913,гъунчІбирес,press
+507-172,darg1241,http://concepticon.clld.org/parameters/1414,гъянчІбирес,"squeeze, wring"
+507-332,darg1241,http://concepticon.clld.org/parameters/1487,иртІес,pour
+507-1255,darg1241,http://concepticon.clld.org/parameters/1453,ицес,wash
+507-494,darg1241,http://concepticon.clld.org/parameters/230,ишкас,sweep
+507-96,darg1241,http://concepticon.clld.org/parameters/245,халтІа,broom
+507-449,darg1241,http://concepticon.clld.org/parameters/1361,гІягІнихъурт,tool
+507-828,darg1241,http://concepticon.clld.org/parameters/1042,дузла уста,carpenter
+507-502,darg1241,http://concepticon.clld.org/parameters/1840,(хъали) бирес,build
+507-316,darg1241,http://concepticon.clld.org/parameters/1501,тІярхъи,bore
+507-983,darg1241,http://concepticon.clld.org/parameters/46,пахъукуле пашбирес,hollow out
+507-1248,darg1241,http://concepticon.clld.org/parameters/1948,рас,saw
+507-1309,darg1241,http://concepticon.clld.org/parameters/1481,кьякь,hammer
+507-512,darg1241,http://concepticon.clld.org/parameters/502,гІябули,nail
+507-322,darg1241,http://concepticon.clld.org/parameters/1069,килей,glue
+507-551,darg1241,http://concepticon.clld.org/parameters/1001,мигьла уста,"smith, blacksmith"
+507-404,darg1241,http://concepticon.clld.org/parameters/288,мигькуцІ,forge
+507-813,darg1241,http://concepticon.clld.org/parameters/1648,мигьла ута,anvil
+507-1144,darg1241,http://concepticon.clld.org/parameters/211,формалзе иртІес,cast (metals)
+507-528,darg1241,http://concepticon.clld.org/parameters/1369,мургье,gold
+507-888,darg1241,http://concepticon.clld.org/parameters/759,цІуба арц,silver
+507-1025,darg1241,http://concepticon.clld.org/parameters/1825,яз,"copper, bronze"
+507-137,darg1241,http://concepticon.clld.org/parameters/621,мигь,iron
+507-414,darg1241,http://concepticon.clld.org/parameters/627,гъургъашин,lead (noun)
+507-3,darg1241,http://concepticon.clld.org/parameters/358,ахтемир,"tin, tinplate"
+507-22,darg1241,http://concepticon.clld.org/parameters/359,тІалхІяни,potter
+507-782,darg1241,http://concepticon.clld.org/parameters/289,гепанар бирес,mold (clay etc)
+507-497,darg1241,http://concepticon.clld.org/parameters/1399,гІянжи,clay
+507-92,darg1241,http://concepticon.clld.org/parameters/604,шиша,glass
+507-250,darg1241,http://concepticon.clld.org/parameters/1729,бемхес,"weave, plait"
+507-925,darg1241,http://concepticon.clld.org/parameters/1539,читан,basket
+507-221,darg1241,http://concepticon.clld.org/parameters/195,чипта,mat
+507-738,darg1241,http://concepticon.clld.org/parameters/292,кьалтиян,rug
+507-563,darg1241,http://concepticon.clld.org/parameters/293,сумка,netbag
+507-1101,darg1241,http://concepticon.clld.org/parameters/1971,ченчелек,fan (noun)
+507-939,darg1241,http://concepticon.clld.org/parameters/360,сагабирес,fan (vb)
+507-472,darg1241,http://concepticon.clld.org/parameters/360,хІяртукІас,fan (vb)
+507-155,darg1241,http://concepticon.clld.org/parameters/228,кьицІбирес,carve
+507-346,darg1241,http://concepticon.clld.org/parameters/914,скулптор,sculptor
+507-1047,darg1241,http://concepticon.clld.org/parameters/1002,къанж,statue
+507-1155,darg1241,http://concepticon.clld.org/parameters/1979,уршури,chisel
+507-1290,darg1241,http://concepticon.clld.org/parameters/647,сир,paint (noun)
+507-363,darg1241,http://concepticon.clld.org/parameters/647,ранг,paint (noun)
+507-675,darg1241,http://concepticon.clld.org/parameters/2001,сили бикес,paint (vb)
+507-501,darg1241,http://concepticon.clld.org/parameters/765,вашес,move
+507-252,darg1241,http://concepticon.clld.org/parameters/765,шикьукІас,move
+507-1268,darg1241,http://concepticon.clld.org/parameters/1588,ляпІяхъес,turn over
+507-522,darg1241,http://concepticon.clld.org/parameters/1588,ляпукІас,turn over
+507-500,darg1241,http://concepticon.clld.org/parameters/1445,гьарсбирес,turn around
+507-536,darg1241,http://concepticon.clld.org/parameters/1445,гьарсугьес,turn around
+507-500,darg1241,http://concepticon.clld.org/parameters/1113,гьарсбирес,"wind, wrap"
+507-1149,darg1241,http://concepticon.clld.org/parameters/827,жирбирес,roll
+507-224,darg1241,http://concepticon.clld.org/parameters/808,кІантІукІас,drop (vb)
+507-259,darg1241,http://concepticon.clld.org/parameters/430,силдирес,twist
+507-37,darg1241,http://concepticon.clld.org/parameters/568,лагикес,rise
+507-951,darg1241,http://concepticon.clld.org/parameters/501,ахъбирес,"raise, lift"
+507-1326,darg1241,http://concepticon.clld.org/parameters/1280,кайкес,fall
+507-493,darg1241,http://concepticon.clld.org/parameters/2253,кІантІбукІахъес,drip
+507-1043,darg1241,http://concepticon.clld.org/parameters/1456,лебакІес,throw
+507-847,darg1241,http://concepticon.clld.org/parameters/702,буцес,catch (ball)
+507-644,darg1241,http://concepticon.clld.org/parameters/1909,чанкьбирес,shake
+507-319,darg1241,http://concepticon.clld.org/parameters/2003,чІугъбукІас,flow
+507-1102,darg1241,http://concepticon.clld.org/parameters/2003,чІяхІбукІас,flow
+507-702,darg1241,http://concepticon.clld.org/parameters/1088,гІялаиркес,sink
+507-819,darg1241,http://concepticon.clld.org/parameters/1574,юздуъукІас,float
+507-819,darg1241,http://concepticon.clld.org/parameters/1439,юздуъукІас,swim
+507-170,darg1241,http://concepticon.clld.org/parameters/119,кІунчІукІас,dive
+507-495,darg1241,http://concepticon.clld.org/parameters/365,чІяпхъараукІас,splash
+507-819,darg1241,http://concepticon.clld.org/parameters/787,юздуъукІас,sail (vb)
+507-645,darg1241,http://concepticon.clld.org/parameters/1441,урцес,fly (vb)
+507-56,darg1241,http://concepticon.clld.org/parameters/175,гьупукІас,blow
+507-1173,darg1241,http://concepticon.clld.org/parameters/175,фуфукІас,blow
+507-425,darg1241,http://concepticon.clld.org/parameters/96,хусукІас,"creep, crawl"
+507-667,darg1241,http://concepticon.clld.org/parameters/96,сукьукІас,"creep, crawl"
+507-458,darg1241,http://concepticon.clld.org/parameters/66,кьункьубаке кIайцІес,kneel
+507-323,darg1241,http://concepticon.clld.org/parameters/296,гІахь-ахъуэс,crouch
+507-183,darg1241,http://concepticon.clld.org/parameters/1324,чухІукІас,"slide, slip"
+507-1087,darg1241,http://concepticon.clld.org/parameters/1829,парсукІас,"jump, leap"
+507-830,darg1241,http://concepticon.clld.org/parameters/1135,ларукІас (кьяшичу),kick
+507-81,darg1241,http://concepticon.clld.org/parameters/1879,улхъас,dance
+507-501,darg1241,http://concepticon.clld.org/parameters/1443,вашес,walk
+507-1193,darg1241,http://concepticon.clld.org/parameters/366,гІяргукІас,limp
+507-637,darg1241,http://concepticon.clld.org/parameters/1519,дуцІукІас,run
+507-501,darg1241,http://concepticon.clld.org/parameters/695,вашес,go
+507-37,darg1241,http://concepticon.clld.org/parameters/705,лагикес,go up
+507-610,darg1241,http://concepticon.clld.org/parameters/705,лагвашес,go up
+507-37,darg1241,http://concepticon.clld.org/parameters/1102,лагикес,climb
+507-712,darg1241,http://concepticon.clld.org/parameters/2014,галхІадикес,go down
+507-1140,darg1241,http://concepticon.clld.org/parameters/2014,галхІад вашес,go down
+507-658,darg1241,http://concepticon.clld.org/parameters/1107,дурархас,go out
+507-762,darg1241,http://concepticon.clld.org/parameters/1446,вакІес,come
+507-357,darg1241,http://concepticon.clld.org/parameters/581,чарухъас,come back
+507-1266,darg1241,http://concepticon.clld.org/parameters/1752,арукьес,"go away, depart"
+507-1038,darg1241,http://concepticon.clld.org/parameters/485,агаругьес,disappear
+507-637,darg1241,http://concepticon.clld.org/parameters/956,дуцІукІас,flee
+507-928,darg1241,http://concepticon.clld.org/parameters/956,гьаухъас,flee
+507-764,darg1241,http://concepticon.clld.org/parameters/1085,гъял дуцес,follow
+507-978,darg1241,http://concepticon.clld.org/parameters/1047,арагъака икес,pursue
+507-318,darg1241,http://concepticon.clld.org/parameters/1387,мурадике кецІикес,"reach, arrive"
+507-136,darg1241,http://concepticon.clld.org/parameters/1387,вагъес,"reach, arrive"
+507-1281,darg1241,http://concepticon.clld.org/parameters/1778,кецІикес,approach
+507-273,darg1241,http://concepticon.clld.org/parameters/749,эрхас,enter
+507-872,darg1241,http://concepticon.clld.org/parameters/700,бикес,carry (bear)
+507-727,darg1241,http://concepticon.clld.org/parameters/412,някьбачу бикес,carry-in-hand
+507-21,darg1241,http://concepticon.clld.org/parameters/413,хъуцІурмаке бикес,carry-on-shoulder
+507-180,darg1241,http://concepticon.clld.org/parameters/414,бекІике бикес,carry-on-head
+507-1302,darg1241,http://concepticon.clld.org/parameters/415,шанкІалзе бикес,carry-underarm
+507-410,darg1241,http://concepticon.clld.org/parameters/692,лебкес,bring
+507-864,darg1241,http://concepticon.clld.org/parameters/1127,бяхІбирес,send
+507-1108,darg1241,http://concepticon.clld.org/parameters/43,икес,lead (vb)
+507-853,darg1241,http://concepticon.clld.org/parameters/741,машийчу вашес,drive
+507-70,darg1241,http://concepticon.clld.org/parameters/367,ябуличу вашес,ride
+507-456,darg1241,http://concepticon.clld.org/parameters/367,мурдале вашес,ride
+507-1157,darg1241,http://concepticon.clld.org/parameters/1452,гакукІас,"push, shove"
+507-567,darg1241,http://concepticon.clld.org/parameters/667,гьуни,road
+507-763,darg1241,http://concepticon.clld.org/parameters/2252,кьакьай гьуни,path
+507-756,darg1241,http://concepticon.clld.org/parameters/2252,дякь,path
+507-313,darg1241,http://concepticon.clld.org/parameters/1011,губи,bridge
+507-1116,darg1241,http://concepticon.clld.org/parameters/122,уркура,"carriage, wagon, cart"
+507-297,darg1241,http://concepticon.clld.org/parameters/710,хІува,wheel
+507-1053,darg1241,http://concepticon.clld.org/parameters/1769,арк,axle
+507-615,darg1241,http://concepticon.clld.org/parameters/14,дукI,yoke
+507-1321,darg1241,http://concepticon.clld.org/parameters/740,гема,ship
+507-339,darg1241,http://concepticon.clld.org/parameters/1844,гъаихъ,boat
+507-339,darg1241,http://concepticon.clld.org/parameters/1970,гъаихъ,canoe
+507-339,darg1241,http://concepticon.clld.org/parameters/416,гъаихъ,outrigger
+507-585,darg1241,http://concepticon.clld.org/parameters/1664,плот,raft
+507-612,darg1241,http://concepticon.clld.org/parameters/108,шавхьла,oar
+507-612,darg1241,http://concepticon.clld.org/parameters/234,шавхьла,paddle (noun)
+507-819,darg1241,http://concepticon.clld.org/parameters/1849,юздуъукІас,row (vb)
+507-745,darg1241,http://concepticon.clld.org/parameters/108,рул,rudder
+507-982,darg1241,http://concepticon.clld.org/parameters/184,мачта,mast
+507-1075,darg1241,http://concepticon.clld.org/parameters/786,парус,sail (noun)
+507-798,darg1241,http://concepticon.clld.org/parameters/1870,йакор,anchor
+507-661,darg1241,http://concepticon.clld.org/parameters/610,порт,"harbor, port"
+507-718,darg1241,http://concepticon.clld.org/parameters/1922,хьурабугьес,land (vb)
+507-1034,darg1241,http://concepticon.clld.org/parameters/773,бугьес,have
+507-1093,darg1241,http://concepticon.clld.org/parameters/684,вегІ угьес,"own, possess"
+507-478,darg1241,http://concepticon.clld.org/parameters/1749,арасес,take
+507-94,darg1241,http://concepticon.clld.org/parameters/2021,хъямбарес,"seize, grasp"
+507-847,darg1241,http://concepticon.clld.org/parameters/2021,буцес,"seize, grasp"
+507-847,darg1241,http://concepticon.clld.org/parameters/1448,буцес,hold
+507-1231,darg1241,http://concepticon.clld.org/parameters/694,ирисес,"get, obtain"
+507-446,darg1241,http://concepticon.clld.org/parameters/1477,бихІес,"keep, retain"
+507-1188,darg1241,http://concepticon.clld.org/parameters/738,зат,thing
+507-262,darg1241,http://concepticon.clld.org/parameters/1447,гес,give
+507-496,darg1241,http://concepticon.clld.org/parameters/85,чарбарес,give back
+507-446,darg1241,http://concepticon.clld.org/parameters/1997,бихІес,"preserve, look after"
+507-737,darg1241,http://concepticon.clld.org/parameters/2008,берцахъес,"save, rescue"
+507-861,darg1241,http://concepticon.clld.org/parameters/681,бехъас,destroy
+507-546,darg1241,http://concepticon.clld.org/parameters/44,зарал барес,"harm, injure, damage"
+507-199,darg1241,http://concepticon.clld.org/parameters/1468,умцІес,"seek, look for"
+507-173,darg1241,http://concepticon.clld.org/parameters/719,баргес,find
+507-709,darg1241,http://concepticon.clld.org/parameters/1660,агарбирес,lose
+507-660,darg1241,http://concepticon.clld.org/parameters/1095,батурагъес,"release, let go"
+507-879,darg1241,http://concepticon.clld.org/parameters/1559,арц,money
+507-465,darg1241,http://concepticon.clld.org/parameters/1867,гІяпаси,coin
+507-1128,darg1241,http://concepticon.clld.org/parameters/712,девлекеб,rich
+507-244,darg1241,http://concepticon.clld.org/parameters/1674,ярли,poor
+507-145,darg1241,http://concepticon.clld.org/parameters/1934,садакьачи,beggar
+507-694,darg1241,http://concepticon.clld.org/parameters/1774,кьакьай,"avaricious, stingy"
+507-135,darg1241,http://concepticon.clld.org/parameters/582,кеблалис лугес,lend
+507-1104,darg1241,http://concepticon.clld.org/parameters/1823,кеблалис ирисес,borrow
+507-76,darg1241,http://concepticon.clld.org/parameters/369,кебла угьес,owe
+507-1028,darg1241,http://concepticon.clld.org/parameters/1914,кебла,debt
+507-601,darg1241,http://concepticon.clld.org/parameters/718,арц лугес,pay (vb)
+507-225,darg1241,http://concepticon.clld.org/parameters/1081,санав,"account, reckoning"
+507-498,darg1241,http://concepticon.clld.org/parameters/873,ахъула кебла,"tax, tribute"
+507-287,darg1241,http://concepticon.clld.org/parameters/873,налуг,"tax, tribute"
+507-1104,darg1241,http://concepticon.clld.org/parameters/856,кеблалис ирисес,hire
+507-475,darg1241,http://concepticon.clld.org/parameters/1122,базла арц,wages
+507-377,darg1241,http://concepticon.clld.org/parameters/1122,харж,wages
+507-121,darg1241,http://concepticon.clld.org/parameters/733,арц дирес,earn
+507-1343,darg1241,http://concepticon.clld.org/parameters/1869,арцис ирисес,buy
+507-107,darg1241,http://concepticon.clld.org/parameters/1571,бицес,sell
+507-1289,darg1241,http://concepticon.clld.org/parameters/2135,вачар,"trade, barter"
+507-1226,darg1241,http://concepticon.clld.org/parameters/2135,барсбарни,"trade, barter"
+507-833,darg1241,http://concepticon.clld.org/parameters/1082,вачарукІан,merchant
+507-989,darg1241,http://concepticon.clld.org/parameters/633,базар,market (place)
+507-1194,darg1241,http://concepticon.clld.org/parameters/752,тукен,"store, shop"
+507-453,darg1241,http://concepticon.clld.org/parameters/657,багьа,price
+507-916,darg1241,http://concepticon.clld.org/parameters/1426,багьай,"dear (costly, expensive)"
+507-991,darg1241,http://concepticon.clld.org/parameters/1887,учузил,cheap
+507-614,darg1241,http://concepticon.clld.org/parameters/884,паянар бирес,share (distribute)
+507-1150,darg1241,http://concepticon.clld.org/parameters/1098,цІацІбирес,weigh
+507-343,darg1241,http://concepticon.clld.org/parameters/1685,арагъа,after
+507-343,darg1241,http://concepticon.clld.org/parameters/723,арагъа,behind
+507-1115,darg1241,http://concepticon.clld.org/parameters/723,багьандан,behind
+507-388,darg1241,http://concepticon.clld.org/parameters/1816,мякьла,beside
+507-347,darg1241,http://concepticon.clld.org/parameters/1326,уди,"down, below"
+507-120,darg1241,http://concepticon.clld.org/parameters/1882,гьади,before
+507-484,darg1241,http://concepticon.clld.org/parameters/1882,аргъике,before
+507-120,darg1241,http://concepticon.clld.org/parameters/1019,гьади,front
+507-328,darg1241,http://concepticon.clld.org/parameters/1606,духІна,"inside, in"
+507-106,darg1241,http://concepticon.clld.org/parameters/762,дура,outside
+507-347,darg1241,http://concepticon.clld.org/parameters/1485,уди,under
+507-227,darg1241,http://concepticon.clld.org/parameters/1591,ахъу,"up, above"
+507-1296,darg1241,http://concepticon.clld.org/parameters/723,мер,place
+507-767,darg1241,http://concepticon.clld.org/parameters/998,бихьес,put
+507-525,darg1241,http://concepticon.clld.org/parameters/1416,кайэс,sit
+507-1303,darg1241,http://concepticon.clld.org/parameters/215,кайхьес,lie down
+507-1062,darg1241,http://concepticon.clld.org/parameters/1442,кІайцІес,stand
+507-1178,darg1241,http://concepticon.clld.org/parameters/987,кулэс,"remain, stay"
+507-659,darg1241,http://concepticon.clld.org/parameters/838,имцІадухъунил,"remains, left overs"
+507-165,darg1241,http://concepticon.clld.org/parameters/7,даргъес,"collect, gather"
+507-1008,darg1241,http://concepticon.clld.org/parameters/371,луцІес,pick up
+507-951,darg1241,http://concepticon.clld.org/parameters/371,ахъбирес,pick up
+507-1241,darg1241,http://concepticon.clld.org/parameters/1576,цалике ахъбирес,pile up
+507-192,darg1241,http://concepticon.clld.org/parameters/1743,бабзес,"join, unite"
+507-915,darg1241,http://concepticon.clld.org/parameters/1743,бархбушес,"join, unite"
+507-315,darg1241,http://concepticon.clld.org/parameters/1359,дикІбахъес,separate
+507-1052,darg1241,http://concepticon.clld.org/parameters/1119,бутІес,divide
+507-486,darg1241,http://concepticon.clld.org/parameters/1156,абхьес,open
+507-466,darg1241,http://concepticon.clld.org/parameters/1046,демъабарес,"shut, close"
+507-436,darg1241,http://concepticon.clld.org/parameters/1046,кІапІарес,"shut, close"
+507-1071,darg1241,http://concepticon.clld.org/parameters/761,ахъу бушес,cover
+507-1082,darg1241,http://concepticon.clld.org/parameters/602,дигІямбирес,"hide, conceal"
+507-632,darg1241,http://concepticon.clld.org/parameters/1265,бухъейке,high
+507-1141,darg1241,http://concepticon.clld.org/parameters/721,алашале,low
+507-698,darg1241,http://concepticon.clld.org/parameters/1753,дубула хъар,top
+507-617,darg1241,http://concepticon.clld.org/parameters/1753,бекІла хъар,top
+507-140,darg1241,http://concepticon.clld.org/parameters/690,лутІи,bottom
+507-347,darg1241,http://concepticon.clld.org/parameters/690,уди,bottom
+507-1189,darg1241,http://concepticon.clld.org/parameters/742,бегъуб,end
+507-1186,darg1241,http://concepticon.clld.org/parameters/372,бугай хъар,pointed
+507-1158,darg1241,http://concepticon.clld.org/parameters/863,дуб,edge
+507-413,darg1241,http://concepticon.clld.org/parameters/682,шали,side
+507-255,darg1241,http://concepticon.clld.org/parameters/1093,рай,"middle, center"
+507-66,darg1241,http://concepticon.clld.org/parameters/1093,урга,"middle, center"
+507-1300,darg1241,http://concepticon.clld.org/parameters/1019,балу (шали),right (side)
+507-1311,darg1241,http://concepticon.clld.org/parameters/244,сулагъай (шали),left (side)
+507-388,darg1241,http://concepticon.clld.org/parameters/1942,мякьла,near (adv)
+507-1317,darg1241,http://concepticon.clld.org/parameters/1406,гьахъана,far (adv)
+507-353,darg1241,http://concepticon.clld.org/parameters/1877,берхІи булхъуй шали,east
+507-1098,darg1241,http://concepticon.clld.org/parameters/1877,машрикь,east
+507-878,darg1241,http://concepticon.clld.org/parameters/1817,берхІи гІалабиркуй шали,west
+507-365,darg1241,http://concepticon.clld.org/parameters/1817,магъриб,west
+507-785,darg1241,http://concepticon.clld.org/parameters/1598,дягІил дяхІ,north
+507-653,darg1241,http://concepticon.clld.org/parameters/1595,кьилма,south
+507-1136,darg1241,http://concepticon.clld.org/parameters/479,хугивагъес,grow
+507-753,darg1241,http://concepticon.clld.org/parameters/1506,умцес,measure
+507-1022,darg1241,http://concepticon.clld.org/parameters/81,—,"span, fathom"
+507-1283,darg1241,http://concepticon.clld.org/parameters/1202,хугина,"large, big"
+507-777,darg1241,http://concepticon.clld.org/parameters/1246,варгина,"small, little"
+507-141,darg1241,http://concepticon.clld.org/parameters/1203,аргъай,long
+507-893,darg1241,http://concepticon.clld.org/parameters/711,ухъенил,tall
+507-1069,darg1241,http://concepticon.clld.org/parameters/1645,гъантІил,short
+507-903,darg1241,http://concepticon.clld.org/parameters/1243,бягІуй,"wide, broad"
+507-571,darg1241,http://concepticon.clld.org/parameters/1267,гъярцІил,narrow
+507-1045,darg1241,http://concepticon.clld.org/parameters/1244,бузил,thick (in dimension)
+507-730,darg1241,http://concepticon.clld.org/parameters/1400,букІуй,thin (in dimension)
+507-547,darg1241,http://concepticon.clld.org/parameters/1593,мурхьил,deep
+507-205,darg1241,http://concepticon.clld.org/parameters/193,жимгІягил,shallow
+507-943,darg1241,http://concepticon.clld.org/parameters/1633,чІяпІил,flat
+507-788,darg1241,http://concepticon.clld.org/parameters/1404,бархьил,straight
+507-1112,darg1241,http://concepticon.clld.org/parameters/297,балкІа,crooked
+507-38,darg1241,http://concepticon.clld.org/parameters/1071,къармакъ,hook
+507-325,darg1241,http://concepticon.clld.org/parameters/192,муш,corner
+507-35,darg1241,http://concepticon.clld.org/parameters/1367,къанч,cross
+507-1239,darg1241,http://concepticon.clld.org/parameters/850,ангъдузан,square
+507-1054,darg1241,http://concepticon.clld.org/parameters/1395,журуга,round
+507-421,darg1241,http://concepticon.clld.org/parameters/1467,мява,circle
+507-985,darg1241,http://concepticon.clld.org/parameters/1845,журуга зат,"sphere, ball"
+507-1105,darg1241,http://concepticon.clld.org/parameters/1048,тугъ,line
+507-316,darg1241,http://concepticon.clld.org/parameters/1667,тІярхъи,hole
+507-489,darg1241,http://concepticon.clld.org/parameters/1558,мушуй,"like, similar"
+507-802,darg1241,http://concepticon.clld.org/parameters/1264,барсбирес,change
+507-264,darg1241,http://concepticon.clld.org/parameters/1294,нол,"zero, nothing"
+507-233,darg1241,http://concepticon.clld.org/parameters/1515,ца,one
+507-1180,darg1241,http://concepticon.clld.org/parameters/1498,кІуел,two
+507-633,darg1241,http://concepticon.clld.org/parameters/492,хІябал,three
+507-908,darg1241,http://concepticon.clld.org/parameters/1500,ангъал,four
+507-470,darg1241,http://concepticon.clld.org/parameters/493,шуел,five
+507-570,darg1241,http://concepticon.clld.org/parameters/1703,урегал,six
+507-242,darg1241,http://concepticon.clld.org/parameters/1704,ярхІал,seven
+507-524,darg1241,http://concepticon.clld.org/parameters/1705,гахІал,eight
+507-1041,darg1241,http://concepticon.clld.org/parameters/1483,урчІебал,nine
+507-1210,darg1241,http://concepticon.clld.org/parameters/1515,яцІал,ten
+507-622,darg1241,http://concepticon.clld.org/parameters/1706,яцІнуцара,eleven
+507-682,darg1241,http://concepticon.clld.org/parameters/1707,яцІнукІура,twelve
+507-1330,darg1241,http://concepticon.clld.org/parameters/1709,яцІнушура,fifteen
+507-867,darg1241,http://concepticon.clld.org/parameters/1710,гъаял,twenty
+507-1014,darg1241,http://concepticon.clld.org/parameters/1634,даршал,hundred
+507-947,darg1241,http://concepticon.clld.org/parameters/1843,азир,thousand
+507-753,darg1241,http://concepticon.clld.org/parameters/1420,умцес,count
+507-807,darg1241,http://concepticon.clld.org/parameters/98,лертера,"every, all"
+507-736,darg1241,http://concepticon.clld.org/parameters/1198,дахъал,"much, many"
+507-427,darg1241,http://concepticon.clld.org/parameters/1992,гьатира дахъал,more
+507-945,darg1241,http://concepticon.clld.org/parameters/1242,камил,"little (quantity), few"
+507-1204,darg1241,http://concepticon.clld.org/parameters/1881,дигъур,enough
+507-588,darg1241,http://concepticon.clld.org/parameters/1241,ца-кІуел,some
+507-736,darg1241,http://concepticon.clld.org/parameters/2023,дахъал,"multitude, crowd"
+507-715,darg1241,http://concepticon.clld.org/parameters/1429,бицIибил,full
+507-257,darg1241,http://concepticon.clld.org/parameters/1624,бацІил,empty
+507-1121,darg1241,http://concepticon.clld.org/parameters/779,пай,"part, piece"
+507-386,darg1241,http://concepticon.clld.org/parameters/779,гесек,"part, piece"
+507-1039,darg1241,http://concepticon.clld.org/parameters/816,беркьу,half
+507-233,darg1241,http://concepticon.clld.org/parameters/1580,ца,"alone, only"
+507-691,darg1241,http://concepticon.clld.org/parameters/1580,левил ца,"alone, only"
+507-277,darg1241,http://concepticon.clld.org/parameters/728,цаисил,first
+507-1205,darg1241,http://concepticon.clld.org/parameters/1529,арагъала,last
+507-61,darg1241,http://concepticon.clld.org/parameters/1384,кІуесил,second
+507-1029,darg1241,http://concepticon.clld.org/parameters/1888,жут,pair
+507-24,darg1241,http://concepticon.clld.org/parameters/1546,кIуйналра,two times
+507-1287,darg1241,http://concepticon.clld.org/parameters/1859,хІябасил,third
+507-283,darg1241,http://concepticon.clld.org/parameters/417,хІяйналра,three times
+507-707,darg1241,http://concepticon.clld.org/parameters/892,заман,time
+507-1227,darg1241,http://concepticon.clld.org/parameters/1789,дусме,age
+507-268,darg1241,http://concepticon.clld.org/parameters/1789,гІямру,age
+507-29,darg1241,http://concepticon.clld.org/parameters/1789,ганзил заман,age
+507-557,darg1241,http://concepticon.clld.org/parameters/1231,сагай,new
+507-677,darg1241,http://concepticon.clld.org/parameters/1207,жагьил,young
+507-1156,darg1241,http://concepticon.clld.org/parameters/1229,ухъна,old
+507-430,darg1241,http://concepticon.clld.org/parameters/672,урхьу савла,early
+507-704,darg1241,http://concepticon.clld.org/parameters/477,кьая,late
+507-717,darg1241,http://concepticon.clld.org/parameters/1376,гьине,now
+507-1154,darg1241,http://concepticon.clld.org/parameters/1963,буссагІят,immediately
+507-341,darg1241,http://concepticon.clld.org/parameters/1631,гьалакил,"swift, fast, quick"
+507-1070,darg1241,http://concepticon.clld.org/parameters/701,рахІятил,slow
+507-195,darg1241,http://concepticon.clld.org/parameters/754,гьалакьукІас,"hasten, hurry"
+507-705,darg1241,http://concepticon.clld.org/parameters/425,кьанварес,"retard, delay"
+507-412,darg1241,http://concepticon.clld.org/parameters/1806,бехІбихьес,"begin, beginning"
+507-1243,darg1241,http://concepticon.clld.org/parameters/1806,бехІбихьни,"begin, beginning"
+507-701,darg1241,http://concepticon.clld.org/parameters/1186,аргъабирес,"last, endure"
+507-461,darg1241,http://concepticon.clld.org/parameters/743,бегъас,end (temporal)
+507-998,darg1241,http://concepticon.clld.org/parameters/1766,белгъас,finish
+507-846,darg1241,http://concepticon.clld.org/parameters/1928,кІабилцІес,"cease, stop"
+507-167,darg1241,http://concepticon.clld.org/parameters/790,хІязирил,ready
+507-578,darg1241,http://concepticon.clld.org/parameters/1676,мурталра,always
+507-406,darg1241,http://concepticon.clld.org/parameters/1852,зумале,often
+507-852,darg1241,http://concepticon.clld.org/parameters/1544,заман-замайке,sometimes
+507-1206,darg1241,http://concepticon.clld.org/parameters/703,гьинегина,soon
+507-141,darg1241,http://concepticon.clld.org/parameters/418,аргъай,long-time (for a)
+507-530,darg1241,http://concepticon.clld.org/parameters/1656,мурталра хІина,never
+507-1284,darg1241,http://concepticon.clld.org/parameters/204,гьатира,again
+507-642,darg1241,http://concepticon.clld.org/parameters/204,гьачамтІигес,again
+507-1012,darg1241,http://concepticon.clld.org/parameters/1260,бари,day
+507-15,darg1241,http://concepticon.clld.org/parameters/1233,дуги,night
+507-372,darg1241,http://concepticon.clld.org/parameters/729,хьарзаб,dawn
+507-740,darg1241,http://concepticon.clld.org/parameters/1339,савлал,morning
+507-665,darg1241,http://concepticon.clld.org/parameters/12,хІарияс,"noon, midday"
+507-184,darg1241,http://concepticon.clld.org/parameters/1807,хІарияла арагъа,afternoon
+507-758,darg1241,http://concepticon.clld.org/parameters/1629,берхІахъ,evening
+507-1211,darg1241,http://concepticon.clld.org/parameters/1283,ишбари,today
+507-438,darg1241,http://concepticon.clld.org/parameters/1329,савла,tomorrow
+507-126,darg1241,http://concepticon.clld.org/parameters/1179,церехІали,day-after-tomorrow
+507-766,darg1241,http://concepticon.clld.org/parameters/1174,даг,yesterday
+507-342,darg1241,http://concepticon.clld.org/parameters/1180,гьадилабари,day-before-yesterday
+507-514,darg1241,http://concepticon.clld.org/parameters/1353,сягІят,hour
+507-514,darg1241,http://concepticon.clld.org/parameters/1323,сягІят,"clock, timepiece"
+507-1320,darg1241,http://concepticon.clld.org/parameters/1469,жумягІ,week
+507-298,darg1241,http://concepticon.clld.org/parameters/1699,алхІят бари,Sunday
+507-537,darg1241,http://concepticon.clld.org/parameters/1697,итни бари,Monday
+507-635,darg1241,http://concepticon.clld.org/parameters/1695,тялат бари,Tuesday
+507-488,darg1241,http://concepticon.clld.org/parameters/1694,арбягІ бари,Wednesday
+507-1235,darg1241,http://concepticon.clld.org/parameters/1693,хамис бари,Thursday
+507-424,darg1241,http://concepticon.clld.org/parameters/1692,жумягІ бари,Friday
+507-72,darg1241,http://concepticon.clld.org/parameters/1700,сут бари,Saturday
+507-822,darg1241,http://concepticon.clld.org/parameters/1370,баз,month
+507-1142,darg1241,http://concepticon.clld.org/parameters/1226,дус,year
+507-75,darg1241,http://concepticon.clld.org/parameters/1471,эни,winter
+507-1027,darg1241,http://concepticon.clld.org/parameters/1537,хІуебла ша,spring
+507-28,darg1241,http://concepticon.clld.org/parameters/1342,дуцІурум,summer
+507-556,darg1241,http://concepticon.clld.org/parameters/1276,бехьни,autumn
+507-416,darg1241,http://concepticon.clld.org/parameters/691,дусла заман,season
+507-380,darg1241,http://concepticon.clld.org/parameters/1587,вягІбикес,smell (vb intrans)
+507-550,darg1241,http://concepticon.clld.org/parameters/375,шяшукІас,sniff
+507-1220,darg1241,http://concepticon.clld.org/parameters/1586,сунтІукІас,smell (vb trans)
+507-726,darg1241,http://concepticon.clld.org/parameters/376,жегай вягІ,"fragrant, good smelling"
+507-362,darg1241,http://concepticon.clld.org/parameters/42,ямян вягІ,"stinking, bad smelling"
+507-417,darg1241,http://concepticon.clld.org/parameters/21,тІеми,taste
+507-444,darg1241,http://concepticon.clld.org/parameters/717,миръил,sweet
+507-884,darg1241,http://concepticon.clld.org/parameters/1091,зуил,salty
+507-654,darg1241,http://concepticon.clld.org/parameters/887,кьутІкьуй,bitter
+507-1295,darg1241,http://concepticon.clld.org/parameters/1906,цІякьил,"acid, sour"
+507-48,darg1241,http://concepticon.clld.org/parameters/70,зуилгъуна,brackish
+507-113,darg1241,http://concepticon.clld.org/parameters/1408,бякьес,hear
+507-1312,darg1241,http://concepticon.clld.org/parameters/1608,лихІяхъес,listen
+507-995,darg1241,http://concepticon.clld.org/parameters/1811,тІама,"sound, noise"
+507-89,darg1241,http://concepticon.clld.org/parameters/1811,гъавгъа,"sound, noise"
+507-1020,darg1241,http://concepticon.clld.org/parameters/377,цІакьил,loud
+507-1001,darg1241,http://concepticon.clld.org/parameters/1314,пархатил,"quiet, silence"
+507-1070,darg1241,http://concepticon.clld.org/parameters/1314,рахІятил,"quiet, silence"
+507-1046,darg1241,http://concepticon.clld.org/parameters/1409,кебиэс,see
+507-169,darg1241,http://concepticon.clld.org/parameters/1819,тІарукІас,"look, look at"
+507-836,darg1241,http://concepticon.clld.org/parameters/1039,кебирхъес,show
+507-162,darg1241,http://concepticon.clld.org/parameters/708,ша бирес,shine
+507-50,darg1241,http://concepticon.clld.org/parameters/679,цІакьле шаил,bright
+507-185,darg1241,http://concepticon.clld.org/parameters/1613,тус,color
+507-87,darg1241,http://concepticon.clld.org/parameters/250,шаил,light (in color)
+507-732,darg1241,http://concepticon.clld.org/parameters/706,цябил,dark (in color)
+507-73,darg1241,http://concepticon.clld.org/parameters/1335,цуба,white
+507-163,darg1241,http://concepticon.clld.org/parameters/163,цІудара,black
+507-90,darg1241,http://concepticon.clld.org/parameters/156,хІитІага,red
+507-1336,darg1241,http://concepticon.clld.org/parameters/837,шаил хьанцІа,blue
+507-79,darg1241,http://concepticon.clld.org/parameters/1425,шиниша,green
+507-1159,darg1241,http://concepticon.clld.org/parameters/1424,бухъутІа,yellow
+507-181,darg1241,http://concepticon.clld.org/parameters/1892,тІулагес,touch
+507-82,darg1241,http://concepticon.clld.org/parameters/378,кьицІукІас,pinch
+507-765,darg1241,http://concepticon.clld.org/parameters/378,чІачІабирес,pinch
+507-58,darg1241,http://concepticon.clld.org/parameters/1079,багьес,feel
+507-296,darg1241,http://concepticon.clld.org/parameters/1884,чІичІай,hard
+507-267,darg1241,http://concepticon.clld.org/parameters/1856,кІантІил,soft
+507-668,darg1241,http://concepticon.clld.org/parameters/1923,хъасхъарагил,rough
+507-666,darg1241,http://concepticon.clld.org/parameters/1234,гъалагил,smooth
+507-238,darg1241,http://concepticon.clld.org/parameters/1396,бугай,sharp
+507-1,darg1241,http://concepticon.clld.org/parameters/379,кьутил,"blunt, dull"
+507-558,darg1241,http://concepticon.clld.org/parameters/1210,декІил,heavy
+507-284,darg1241,http://concepticon.clld.org/parameters/1052,камхил,light (in weight)
+507-575,darg1241,http://concepticon.clld.org/parameters/1726,шинил,"wet, damp"
+507-967,darg1241,http://concepticon.clld.org/parameters/1398,бугъуй,dry
+507-194,darg1241,http://concepticon.clld.org/parameters/1286,буцІарил,hot
+507-924,darg1241,http://concepticon.clld.org/parameters/1232,ванай,warm
+507-603,darg1241,http://concepticon.clld.org/parameters/1287,дягІил,cold
+507-839,darg1241,http://concepticon.clld.org/parameters/704,тазай,clean
+507-474,darg1241,http://concepticon.clld.org/parameters/1230,насил,"dirty, soiled"
+507-1056,darg1241,http://concepticon.clld.org/parameters/380,чукурил,wrinkled
+507-462,darg1241,http://concepticon.clld.org/parameters/380,хьарбугьубил,wrinkled
+507-286,darg1241,http://concepticon.clld.org/parameters/53,хІал,"soul, spirit"
+507-523,darg1241,http://concepticon.clld.org/parameters/53,рухІ,"soul, spirit"
+507-349,darg1241,http://concepticon.clld.org/parameters/1572,тамаша угьубил,"surprised, astonished"
+507-1202,darg1241,http://concepticon.clld.org/parameters/720,бархьбизни,"good fortune, luck"
+507-976,darg1241,http://concepticon.clld.org/parameters/56,бархьхІабизни,"misfortune, bad luck"
+507-618,darg1241,http://concepticon.clld.org/parameters/1495,шатил,"joyful, glad, happy"
+507-443,darg1241,http://concepticon.clld.org/parameters/1495,разиъил,"joyful, glad, happy"
+507-331,darg1241,http://concepticon.clld.org/parameters/1355,тукарукІас,laugh
+507-907,darg1241,http://concepticon.clld.org/parameters/1451,жигІукІас,smile
+507-710,darg1241,http://concepticon.clld.org/parameters/1413,умхІес,play
+507-596,darg1241,http://concepticon.clld.org/parameters/923,дигахъес,love
+507-806,darg1241,http://concepticon.clld.org/parameters/578,пІайукІас,kiss
+507-543,darg1241,http://concepticon.clld.org/parameters/928,хъябруцІукІас,embrace
+507-288,darg1241,http://concepticon.clld.org/parameters/1783,иза,pain
+507-1120,darg1241,http://concepticon.clld.org/parameters/1668,пашмандеш,"grief, sorrow, sadness"
+507-411,darg1241,http://concepticon.clld.org/parameters/1000,гъугъум душес,"anxiety, worry"
+507-226,darg1241,http://concepticon.clld.org/parameters/1875,цІахдизес,"regret, be sorry"
+507-751,darg1241,http://concepticon.clld.org/parameters/1141,цІахдеш,pity
+507-953,darg1241,http://concepticon.clld.org/parameters/1839,исес,"cry, weep"
+507-529,darg1241,http://concepticon.clld.org/parameters/1839,синкьукІас,"cry, weep"
+507-68,darg1241,http://concepticon.clld.org/parameters/1651,нергъ,tear (noun)
+507-1073,darg1241,http://concepticon.clld.org/parameters/716,агьукІас,groan
+507-1143,darg1241,http://concepticon.clld.org/parameters/1607,хІайгуй кейэс,hate
+507-1103,darg1241,http://concepticon.clld.org/parameters/82,гьими,anger
+507-832,darg1241,http://concepticon.clld.org/parameters/82,гьимукІар,anger
+507-1092,darg1241,http://concepticon.clld.org/parameters/82,гІясидеш,anger
+507-148,darg1241,http://concepticon.clld.org/parameters/40,бахилвакІни,"envy, jealousy"
+507-305,darg1241,http://concepticon.clld.org/parameters/1776,урези,shame (noun)
+507-1305,darg1241,http://concepticon.clld.org/parameters/174,гъугъай,proud
+507-54,darg1241,http://concepticon.clld.org/parameters/1779,хъярхъ угьубил,dare
+507-1086,darg1241,http://concepticon.clld.org/parameters/3,хъярхъил,brave
+507-431,darg1241,http://concepticon.clld.org/parameters/781,урехи,"fear, fright"
+507-431,darg1241,http://concepticon.clld.org/parameters/1810,урехи,danger
+507-580,darg1241,http://concepticon.clld.org/parameters/1784,шуш,"desire, want"
+507-961,darg1241,http://concepticon.clld.org/parameters/1750,бекІес,choose
+507-1280,darg1241,http://concepticon.clld.org/parameters/1092,умут леб,hope
+507-171,darg1241,http://concepticon.clld.org/parameters/100,марил,faithful
+507-590,darg1241,http://concepticon.clld.org/parameters/100,вархьил,faithful
+507-724,darg1241,http://concepticon.clld.org/parameters/1657,лебилгъуна,true
+507-774,darg1241,http://concepticon.clld.org/parameters/601,гъямбани гъайукІас,"lie, tell lies"
+507-1179,darg1241,http://concepticon.clld.org/parameters/13,иргІяхъес,deceit
+507-314,darg1241,http://concepticon.clld.org/parameters/1528,кеверхас,forgive
+507-790,darg1241,http://concepticon.clld.org/parameters/1035,гІяхІялил,good
+507-1269,darg1241,http://concepticon.clld.org/parameters/1292,ямян,bad
+507-788,darg1241,http://concepticon.clld.org/parameters/1725,бархьил,"right, correct"
+507-1112,darg1241,http://concepticon.clld.org/parameters/1390,балкІа,wrong
+507-970,darg1241,http://concepticon.clld.org/parameters/134,хата,fault
+507-842,darg1241,http://concepticon.clld.org/parameters/1293,дугІил,"mistake, error"
+507-988,darg1241,http://concepticon.clld.org/parameters/381,гІяйипварес,blame
+507-862,darg1241,http://concepticon.clld.org/parameters/1687,гапукІас,praise
+507-214,darg1241,http://concepticon.clld.org/parameters/1427,жегай,beautiful
+507-699,darg1241,http://concepticon.clld.org/parameters/1548,эршил,ugly
+507-694,darg1241,http://concepticon.clld.org/parameters/2018,кьакьай,greedy
+507-278,darg1241,http://concepticon.clld.org/parameters/1310,гІякьлукеб,clever
+507-579,darg1241,http://concepticon.clld.org/parameters/1562,гІякьлу,mind
+507-420,darg1241,http://concepticon.clld.org/parameters/1415,халукІас,think (= reflect)
+507-759,darg1241,http://concepticon.clld.org/parameters/1415,пикриукІас,think (= reflect)
+507-480,darg1241,http://concepticon.clld.org/parameters/1513,халбирес,think (= be of the opinion)
+507-753,darg1241,http://concepticon.clld.org/parameters/1513,умцес,think (= be of the opinion)
+507-1026,darg1241,http://concepticon.clld.org/parameters/1890,маругьес,believe
+507-1124,darg1241,http://concepticon.clld.org/parameters/1536,иргъес,understand
+507-58,darg1241,http://concepticon.clld.org/parameters/1536,багьес,understand
+507-58,darg1241,http://concepticon.clld.org/parameters/1410,багьес,know
+507-850,darg1241,http://concepticon.clld.org/parameters/1932,цабарec,guess
+507-683,darg1241,http://concepticon.clld.org/parameters/117,гІардирес,imitate
+507-41,darg1241,http://concepticon.clld.org/parameters/1521,катес,seem
+507-652,darg1241,http://concepticon.clld.org/parameters/1609,магІна багьни,"idea, notion"
+507-860,darg1241,http://concepticon.clld.org/parameters/1609,пикри,"idea, notion"
+507-1245,darg1241,http://concepticon.clld.org/parameters/1609,кьас,"idea, notion"
+507-831,darg1241,http://concepticon.clld.org/parameters/1609,гьанбикни,"idea, notion"
+507-1010,darg1241,http://concepticon.clld.org/parameters/698,сахаватил,wise
+507-1224,darg1241,http://concepticon.clld.org/parameters/1518,авлия,"foolish, stupid"
+507-573,darg1241,http://concepticon.clld.org/parameters/1899,гІякьлу агарил,"insane, crazy"
+507-58,darg1241,http://concepticon.clld.org/parameters/504,багьес,learn
+507-487,darg1241,http://concepticon.clld.org/parameters/504,учІахъес,learn
+507-1161,darg1241,http://concepticon.clld.org/parameters/504,учІес,learn
+507-1161,darg1241,http://concepticon.clld.org/parameters/1929,учІес,study
+507-58,darg1241,http://concepticon.clld.org/parameters/1929,багьес,study
+507-1221,darg1241,http://concepticon.clld.org/parameters/1929,мяхІна ирисес,study
+507-1161,darg1241,http://concepticon.clld.org/parameters/709,учІес,teach
+507-1208,darg1241,http://concepticon.clld.org/parameters/753,мутагІалим,pupil
+507-459,darg1241,http://concepticon.clld.org/parameters/1038,мугІалим,teacher
+507-874,darg1241,http://concepticon.clld.org/parameters/673,ишкола,school
+507-1119,darg1241,http://concepticon.clld.org/parameters/707,хъумхІартес,remember
+507-938,darg1241,http://concepticon.clld.org/parameters/1523,хъумартес,forget
+507-959,darg1241,http://concepticon.clld.org/parameters/989,ачихъил,"clear, plain"
+507-565,darg1241,http://concepticon.clld.org/parameters/989,балуй,"clear, plain"
+507-1197,darg1241,http://concepticon.clld.org/parameters/1764,хІабалуй,obscure
+507-783,darg1241,http://concepticon.clld.org/parameters/1121,дигІямил,secret
+507-373,darg1241,http://concepticon.clld.org/parameters/509,ирхуй,"sure, certain"
+507-686,darg1241,http://concepticon.clld.org/parameters/1626,мягІна бурес,explain
+507-1245,darg1241,http://concepticon.clld.org/parameters/1162,кьас,"intention, purpose"
+507-809,darg1241,http://concepticon.clld.org/parameters/1162,хІакь,"intention, purpose"
+507-1079,darg1241,http://concepticon.clld.org/parameters/860,багьана,cause
+507-402,darg1241,http://concepticon.clld.org/parameters/1308,шакдеш,doubt
+507-467,darg1241,http://concepticon.clld.org/parameters/1308,цабил хІинил,doubt
+507-975,darg1241,http://concepticon.clld.org/parameters/1841,шакукІас,suspect
+507-1255,darg1241,http://concepticon.clld.org/parameters/1902,ицес,betray
+507-360,darg1241,http://concepticon.clld.org/parameters/643,хІабугьуле хІабуруй,"need, necessity"
+507-284,darg1241,http://concepticon.clld.org/parameters/686,камхил,easy
+507-383,darg1241,http://concepticon.clld.org/parameters/686,гьамадил,easy
+507-1134,darg1241,http://concepticon.clld.org/parameters/584,гІядабил,difficult
+507-746,darg1241,http://concepticon.clld.org/parameters/1812,бугьесара,"try, attempt"
+507-719,darg1241,http://concepticon.clld.org/parameters/488,пурми,"way, manner"
+507-678,darg1241,http://concepticon.clld.org/parameters/1577,гьатІи,and
+507-132,darg1241,http://concepticon.clld.org/parameters/1157,цесра,because
+507-45,darg1241,http://concepticon.clld.org/parameters/1459,гьари,if
+507-706,darg1241,http://concepticon.clld.org/parameters/1014,яра,or
+507-958,darg1241,http://concepticon.clld.org/parameters/1268,цаби,"yes, affirmative"
+507-521,darg1241,http://concepticon.clld.org/parameters/1268,агьа,"yes, affirmative"
+507-164,darg1241,http://concepticon.clld.org/parameters/1268,леб,"yes, affirmative"
+507-1138,darg1241,http://concepticon.clld.org/parameters/1269,хІина,"no, negative"
+507-917,darg1241,http://concepticon.clld.org/parameters/1269,агара,"no, negative"
+507-1148,darg1241,http://concepticon.clld.org/parameters/1239,цен,how?
+507-391,darg1241,http://concepticon.clld.org/parameters/1239,цайри,how?
+507-946,darg1241,http://concepticon.clld.org/parameters/822,чум,how many?
+507-203,darg1241,http://concepticon.clld.org/parameters/531,цаца,how much?
+507-125,darg1241,http://concepticon.clld.org/parameters/1236,це,what?
+507-662,darg1241,http://concepticon.clld.org/parameters/1238,мурт,when?
+507-367,darg1241,http://concepticon.clld.org/parameters/1237,кина,where?
+507-483,darg1241,http://concepticon.clld.org/parameters/1237,кинака,where?
+507-1018,darg1241,http://concepticon.clld.org/parameters/727,цегъуна,which?
+507-330,darg1241,http://concepticon.clld.org/parameters/1235,чин,who?
+507-1293,darg1241,http://concepticon.clld.org/parameters/1270,цес,why?
+507-995,darg1241,http://concepticon.clld.org/parameters/1363,тІама,voice
+507-1166,darg1241,http://concepticon.clld.org/parameters/1261,анайукІас,sing
+507-251,darg1241,http://concepticon.clld.org/parameters/715,гъавгъаукІас,"shout, cry out"
+507-817,darg1241,http://concepticon.clld.org/parameters/55,шукІуруъукІас,whisper
+507-671,darg1241,http://concepticon.clld.org/parameters/128,гъургъуруъукІас,mumble
+507-1278,darg1241,http://concepticon.clld.org/parameters/1025,шятІукІас,whistle
+507-175,darg1241,http://concepticon.clld.org/parameters/298,чІячІукІас,"shriek, screech"
+507-895,darg1241,http://concepticon.clld.org/parameters/526,авукІас,howl
+507-186,darg1241,http://concepticon.clld.org/parameters/1623,гъайукІас,"speak, talk"
+507-999,darg1241,http://concepticon.clld.org/parameters/1866,гъай дачадархес,"stutter, stammer"
+507-246,darg1241,http://concepticon.clld.org/parameters/1458,бурес,say
+507-350,darg1241,http://concepticon.clld.org/parameters/1711,хабар бурес,tell story
+507-409,darg1241,http://concepticon.clld.org/parameters/1115,гъай,speech (make a)
+507-713,darg1241,http://concepticon.clld.org/parameters/48,гъай хІавкІас,silent (be)
+507-306,darg1241,http://concepticon.clld.org/parameters/1307,мез,language
+507-1200,darg1241,http://concepticon.clld.org/parameters/1599,дев,word
+507-625,darg1241,http://concepticon.clld.org/parameters/1405,це букІуй,name
+507-129,darg1241,http://concepticon.clld.org/parameters/1405,у,name
+507-11,darg1241,http://concepticon.clld.org/parameters/1309,хьарбагъес,"ask (question, inquire)"
+507-1162,darg1241,http://concepticon.clld.org/parameters/1275,жаваб гес,answer
+507-593,darg1241,http://concepticon.clld.org/parameters/2022,мукІур вакІес,"admit, confess"
+507-1258,darg1241,http://concepticon.clld.org/parameters/755,мукІур хІакІес,deny
+507-690,darg1241,http://concepticon.clld.org/parameters/1828,гаукІас,"ask, request"
+507-595,darg1241,http://concepticon.clld.org/parameters/1675,барес,promise
+507-1090,darg1241,http://concepticon.clld.org/parameters/49,хІабарес,refuse
+507-779,darg1241,http://concepticon.clld.org/parameters/83,хІабатес,forbid
+507-587,darg1241,http://concepticon.clld.org/parameters/299,гІялавукІас,"rebuke, scold"
+507-664,darg1241,http://concepticon.clld.org/parameters/1084,вяварес,call (=summon)
+507-246,darg1241,http://concepticon.clld.org/parameters/180,бурес,call (=name)
+507-468,darg1241,http://concepticon.clld.org/parameters/9,багьахъес,announce
+507-562,darg1241,http://concepticon.clld.org/parameters/1192,урухварес,threaten
+507-862,darg1241,http://concepticon.clld.org/parameters/101,гапукІас,boast
+507-276,darg1241,http://concepticon.clld.org/parameters/1672,лукІес,write
+507-1161,darg1241,http://concepticon.clld.org/parameters/724,учІес,read
+507-1131,darg1241,http://concepticon.clld.org/parameters/648,кагъат,paper
+507-138,darg1241,http://concepticon.clld.org/parameters/794,ручка,pen
+507-1065,darg1241,http://concepticon.clld.org/parameters/963,жуз,book
+507-371,darg1241,http://concepticon.clld.org/parameters/1045,назму лукІуй адам,poet
+507-868,darg1241,http://concepticon.clld.org/parameters/777,зиндяв,flute
+507-1005,darg1241,http://concepticon.clld.org/parameters/908,накьара,drum
+507-1215,darg1241,http://concepticon.clld.org/parameters/2136,труба,"horn, trumpet"
+507-211,darg1241,http://concepticon.clld.org/parameters/300,зангъарав,rattle
+507-650,darg1241,http://concepticon.clld.org/parameters/1300,пачалихъ,country
+507-909,darg1241,http://concepticon.clld.org/parameters/89,ватІан,one's native country
+507-554,darg1241,http://concepticon.clld.org/parameters/1391,шагьар,"city, town"
+507-1168,darg1241,http://concepticon.clld.org/parameters/930,ши,village
+507-1137,darg1241,http://concepticon.clld.org/parameters/1010,дазу,boundary
+507-282,darg1241,http://concepticon.clld.org/parameters/789,халкь,people (populace)
+507-476,darg1241,http://concepticon.clld.org/parameters/302,кьаум,"tribe, clan"
+507-99,darg1241,http://concepticon.clld.org/parameters/301,бекІ,"chief, chieftain"
+507-64,darg1241,http://concepticon.clld.org/parameters/1296,гІяса,"staff, walking stick"
+507-1032,darg1241,http://concepticon.clld.org/parameters/1846,бекІдеш дирес,"rule, govern"
+507-581,darg1241,http://concepticon.clld.org/parameters/1508,пача,"king, ruler"
+507-1340,darg1241,http://concepticon.clld.org/parameters/1508,бекІ хІяким,"king, ruler"
+507-616,darg1241,http://concepticon.clld.org/parameters/1306,изтІаги,queen
+507-71,darg1241,http://concepticon.clld.org/parameters/482,малхІамил,"noble, nobleman"
+507-1325,darg1241,http://concepticon.clld.org/parameters/1032,шагьарла адам,"citizen, subject"
+507-307,darg1241,http://concepticon.clld.org/parameters/383,вегІ,master
+507-697,darg1241,http://concepticon.clld.org/parameters/812,лагъ,slave
+507-23,darg1241,http://concepticon.clld.org/parameters/255,гъазахъ,servant
+507-843,darg1241,http://concepticon.clld.org/parameters/384,узден,freeman
+507-1165,darg1241,http://concepticon.clld.org/parameters/1128,буйурдуъукІас,"command, order"
+507-755,darg1241,http://concepticon.clld.org/parameters/1635,ибил вирес,obey
+507-631,darg1241,http://concepticon.clld.org/parameters/1003,ихтияр гес,"let, permit"
+507-222,darg1241,http://concepticon.clld.org/parameters/1003,ихтияр барес,"let, permit"
+507-676,darg1241,http://concepticon.clld.org/parameters/1003,ихтияр батес,"let, permit"
+507-131,darg1241,http://concepticon.clld.org/parameters/1325,гьалмагъ,"friend, companion"
+507-891,darg1241,http://concepticon.clld.org/parameters/1358,душман,enemy
+507-301,darg1241,http://concepticon.clld.org/parameters/1332,унра,neighbor
+507-182,darg1241,http://concepticon.clld.org/parameters/791,хІалуй адам,stranger
+507-941,darg1241,http://concepticon.clld.org/parameters/1782,ахІал,guest
+507-307,darg1241,http://concepticon.clld.org/parameters/1545,вегІ,host
+507-1004,darg1241,http://concepticon.clld.org/parameters/1897,кумек,"help, aid"
+507-26,darg1241,http://concepticon.clld.org/parameters/1550,бачавархес,"hinder, prevent"
+507-327,darg1241,http://concepticon.clld.org/parameters/1550,буршавъугьес,"hinder, prevent"
+507-127,darg1241,http://concepticon.clld.org/parameters/1747,гІадат,custom
+507-348,darg1241,http://concepticon.clld.org/parameters/1848,гъалмагъар,"strife, quarrel"
+507-918,darg1241,http://concepticon.clld.org/parameters/2024,питна,"conspiracy, plot"
+507-355,darg1241,http://concepticon.clld.org/parameters/1831,гъаршибикес,meet
+507-143,darg1241,http://concepticon.clld.org/parameters/1610,гъахІба,prostitute
+507-541,darg1241,http://concepticon.clld.org/parameters/1423,ускес,fight (vb)
+507-69,darg1241,http://concepticon.clld.org/parameters/1423,ургъес,fight (vb)
+507-1013,darg1241,http://concepticon.clld.org/parameters/579,дяв,"war, battle"
+507-1314,darg1241,http://concepticon.clld.org/parameters/1338,баршудеш,peace
+507-680,darg1241,http://concepticon.clld.org/parameters/1561,асгер,army
+507-27,darg1241,http://concepticon.clld.org/parameters/1941,солдат,soldier
+507-599,darg1241,http://concepticon.clld.org/parameters/951,халчуг,"weapons, arms"
+507-64,darg1241,http://concepticon.clld.org/parameters/1763,гІяса,club
+507-1319,darg1241,http://concepticon.clld.org/parameters/386,барда,battle-ax
+507-1022,darg1241,http://concepticon.clld.org/parameters/387,—,sling
+507-133,darg1241,http://concepticon.clld.org/parameters/994,дурга,bow
+507-1050,darg1241,http://concepticon.clld.org/parameters/977,урги,arrow
+507-1247,darg1241,http://concepticon.clld.org/parameters/945,гъуц,spear
+507-548,darg1241,http://concepticon.clld.org/parameters/1535,шушке,sword
+507-105,darg1241,http://concepticon.clld.org/parameters/1566,тупанг,"gun, cannon"
+507-245,darg1241,http://concepticon.clld.org/parameters/1061,мигь хІава,armor (defensive)
+507-317,darg1241,http://concepticon.clld.org/parameters/1680,чялма,helmet
+507-629,darg1241,http://concepticon.clld.org/parameters/1064,калхан,shield
+507-750,darg1241,http://concepticon.clld.org/parameters/1938,гъала,fortress
+507-1160,darg1241,http://concepticon.clld.org/parameters/1671,мимара,tower
+507-775,darg1241,http://concepticon.clld.org/parameters/783,акъудеш,victory
+507-329,darg1241,http://concepticon.clld.org/parameters/782,удидеш,defeat
+507-265,darg1241,http://concepticon.clld.org/parameters/722,чапхъиндеш,attack
+507-471,darg1241,http://concepticon.clld.org/parameters/1330,къаршили ургъес,defend
+507-942,darg1241,http://concepticon.clld.org/parameters/421,арагътІале арукьес,retreat
+507-597,darg1241,http://concepticon.clld.org/parameters/1696,мукІур угьес,surrender
+507-62,darg1241,http://concepticon.clld.org/parameters/1072,туснахъ варибил,"captive, prisoner"
+507-526,darg1241,http://concepticon.clld.org/parameters/1940,гъараул,"guard, sentinel"
+507-1196,darg1241,http://concepticon.clld.org/parameters/1022,бигІунил мас,"booty, spoils"
+507-1022,darg1241,http://concepticon.clld.org/parameters/65,—,ambush
+507-448,darg1241,http://concepticon.clld.org/parameters/1858,бялихъме дурцан,fisherman
+507-1299,darg1241,http://concepticon.clld.org/parameters/1074,гъармахъ,fishhook
+507-397,darg1241,http://concepticon.clld.org/parameters/19,леска,fishing line
+507-940,darg1241,http://concepticon.clld.org/parameters/388,сетка,fishnet
+507-435,darg1241,http://concepticon.clld.org/parameters/389,дам,fish trap
+507-1022,darg1241,http://concepticon.clld.org/parameters/2013,—,bait
+507-1036,darg1241,http://concepticon.clld.org/parameters/1435,гІяйрикьанec,hunt
+507-31,darg1241,http://concepticon.clld.org/parameters/1172,пяхъукІас,shoot
+507-769,darg1241,http://concepticon.clld.org/parameters/161,агхІагахъес,miss (target)
+507-952,darg1241,http://concepticon.clld.org/parameters/161,хІабуршес,miss (target)
+507-435,darg1241,http://concepticon.clld.org/parameters/1075,дам,trap (noun)
+507-1185,darg1241,http://concepticon.clld.org/parameters/1170,буцес (дамизе),trap (vb)
+507-757,darg1241,http://concepticon.clld.org/parameters/1062,шариат,law
+507-527,darg1241,http://concepticon.clld.org/parameters/1062,закон,law
+507-370,darg1241,http://concepticon.clld.org/parameters/1068,суд,court
+507-1011,darg1241,http://concepticon.clld.org/parameters/1818,суд бирес,judge (vb)
+507-937,darg1241,http://concepticon.clld.org/parameters/1067,судла хІукму,judgment
+507-304,darg1241,http://concepticon.clld.org/parameters/861,кьади,judge (noun)
+507-253,darg1241,http://concepticon.clld.org/parameters/861,судья,judge (noun)
+507-533,darg1241,http://concepticon.clld.org/parameters/2020,арзачи,plaintiff
+507-519,darg1241,http://concepticon.clld.org/parameters/1034,жавабкар,defendant
+507-1163,darg1241,http://concepticon.clld.org/parameters/1144,бикьри,witness
+507-887,darg1241,http://concepticon.clld.org/parameters/1939,хъя бирес,swear
+507-1114,darg1241,http://concepticon.clld.org/parameters/1712,хъя,oath
+507-988,darg1241,http://concepticon.clld.org/parameters/1814,гІяйипварес,accuse
+507-1151,darg1241,http://concepticon.clld.org/parameters/484,адамике гъайукІас,condemn
+507-1067,darg1241,http://concepticon.clld.org/parameters/983,гІяйипла варес,convict (vb)
+507-1263,darg1241,http://concepticon.clld.org/parameters/988,марварни бирес,acquit
+507-1048,darg1241,http://concepticon.clld.org/parameters/1682,гІяйипли,guilty
+507-518,darg1241,http://concepticon.clld.org/parameters/90,гІяйип агарил,innocent
+507-971,darg1241,http://concepticon.clld.org/parameters/390,жаза,"penalty, punishment"
+507-1222,darg1241,http://concepticon.clld.org/parameters/218,арцла штрап,fine
+507-86,darg1241,http://concepticon.clld.org/parameters/1281,туснахъ,"prison, jail"
+507-1218,darg1241,http://concepticon.clld.org/parameters/845,кавшни,murder
+507-142,darg1241,http://concepticon.clld.org/parameters/902,зинадеш,adultery
+507-1089,darg1241,http://concepticon.clld.org/parameters/953,гужбаркьни,rape
+507-445,darg1241,http://concepticon.clld.org/parameters/1889,цІа бушни,arson
+507-299,darg1241,http://concepticon.clld.org/parameters/1792,гъямбар бикьри,perjury
+507-886,darg1241,http://concepticon.clld.org/parameters/713,бигІес,steal
+507-1223,darg1241,http://concepticon.clld.org/parameters/1160,хъулхъу,thief
+507-356,darg1241,http://concepticon.clld.org/parameters/661,дин,religion
+507-1077,darg1241,http://concepticon.clld.org/parameters/1944,Аллагь,God
+507-303,darg1241,http://concepticon.clld.org/parameters/911,киласа,"temple, church"
+507-1257,darg1241,http://concepticon.clld.org/parameters/911,урусуна мигжит,"temple, church"
+507-1023,darg1241,http://concepticon.clld.org/parameters/853,михІрам,altar
+507-249,darg1241,http://concepticon.clld.org/parameters/1103,кьурбан,"sacrifice, offering"
+507-1214,darg1241,http://concepticon.clld.org/parameters/257,шузда бирес,worship
+507-690,darg1241,http://concepticon.clld.org/parameters/24,гаукІас,pray
+507-393,darg1241,http://concepticon.clld.org/parameters/24,дехІибгъа дирес,pray
+507-1133,darg1241,http://concepticon.clld.org/parameters/852,имам,priest
+507-102,darg1241,http://concepticon.clld.org/parameters/1702,дурхъасе,"holy, sacred"
+507-7,darg1241,http://concepticon.clld.org/parameters/304,вягІза-насигIат бирес,preach
+507-460,darg1241,http://concepticon.clld.org/parameters/304,вягІза-насигIат узес,preach
+507-1130,darg1241,http://concepticon.clld.org/parameters/391,гІяхбулжес,bless
+507-295,darg1241,http://concepticon.clld.org/parameters/8,иргес,curse
+507-973,darg1241,http://concepticon.clld.org/parameters/303,дубуцес,fast (vb)
+507-711,darg1241,http://concepticon.clld.org/parameters/1565,алжана,heaven
+507-112,darg1241,http://concepticon.clld.org/parameters/878,джагьнам,hell
+507-708,darg1241,http://concepticon.clld.org/parameters/1973,шайтІан,demon (evil spirit)
+507-35,darg1241,http://concepticon.clld.org/parameters/1945,къанч,idol
+507-1250,darg1241,http://concepticon.clld.org/parameters/392,сихІру,"magic, witchcraft, sorcery"
+507-1019,darg1241,http://concepticon.clld.org/parameters/392,палчи,"magic, witchcraft, sorcery"
+507-108,darg1241,http://concepticon.clld.org/parameters/2137,сихІрукар,"sorcerer, witch"
+507-1019,darg1241,http://concepticon.clld.org/parameters/2137,палчи,"sorcerer, witch"
+507-381,darg1241,http://concepticon.clld.org/parameters/2138,гьурулгІян,"fairy, elf"
+507-523,darg1241,http://concepticon.clld.org/parameters/1175,рухІ,"ghost, phantom"
+507-929,darg1241,http://concepticon.clld.org/parameters/1175,къаралди,"ghost, phantom"
+507-1335,darg1241,http://concepticon.clld.org/parameters/107,гІаламат,"omen, portent"

@@ -1,0 +1,2041 @@
+ID,Language_ID,Feature_ID,Value,Concept
+203-1662,poli1260,http://concepticon.clld.org/parameters/965,świat,world
+203-1460,poli1260,http://concepticon.clld.org/parameters/626,ziemia,"earth, land"
+203-1408,poli1260,http://concepticon.clld.org/parameters/626,ląd,"earth, land"
+203-1460,poli1260,http://concepticon.clld.org/parameters/1228,ziemia,"earth=ground, soil"
+203-1371,poli1260,http://concepticon.clld.org/parameters/1228,teren,"earth=ground, soil"
+203-482,poli1260,http://concepticon.clld.org/parameters/1228,gleba,"earth=ground, soil"
+203-151,poli1260,http://concepticon.clld.org/parameters/2,proch,dust
+203-720,poli1260,http://concepticon.clld.org/parameters/2,kurz,dust
+203-844,poli1260,http://concepticon.clld.org/parameters/640,błoto,mud
+203-1196,poli1260,http://concepticon.clld.org/parameters/671,piasek,sand
+203-1667,poli1260,http://concepticon.clld.org/parameters/2118,góra,"mountain, hill"
+203-460,poli1260,http://concepticon.clld.org/parameters/2118,pagórek,"mountain, hill"
+203-490,poli1260,http://concepticon.clld.org/parameters/2118,wzgórek,"mountain, hill"
+203-1475,poli1260,http://concepticon.clld.org/parameters/618,urwisko,"cliff, precipice"
+203-406,poli1260,http://concepticon.clld.org/parameters/652,równina,"plain, field"
+203-794,poli1260,http://concepticon.clld.org/parameters/652,pole,"plain, field"
+203-444,poli1260,http://concepticon.clld.org/parameters/652,płaszczyzna,"plain, field"
+203-188,poli1260,http://concepticon.clld.org/parameters/921,dolina,valley
+203-1593,poli1260,http://concepticon.clld.org/parameters/921,padół,valley
+203-864,poli1260,http://concepticon.clld.org/parameters/622,wyspa,island
+203-762,poli1260,http://concepticon.clld.org/parameters/166,stały ląd,mainland
+203-1848,poli1260,http://concepticon.clld.org/parameters/113,brzeg,shore
+203-1595,poli1260,http://concepticon.clld.org/parameters/113,wybrzeże,shore
+203-599,poli1260,http://concepticon.clld.org/parameters/1155,jaskinia,cave
+203-506,poli1260,http://concepticon.clld.org/parameters/1155,grota,cave
+203-50,poli1260,http://concepticon.clld.org/parameters/948,woda,water
+203-238,poli1260,http://concepticon.clld.org/parameters/1474,morze,sea
+203-407,poli1260,http://concepticon.clld.org/parameters/258,spokój,calm (of sea)
+203-1602,poli1260,http://concepticon.clld.org/parameters/258,cisza,calm (of sea)
+203-44,poli1260,http://concepticon.clld.org/parameters/259,burzliwy,rough (of sea)
+203-1330,poli1260,http://concepticon.clld.org/parameters/259,wzburzony,rough (of sea)
+203-1698,poli1260,http://concepticon.clld.org/parameters/1768,piana,foam
+203-347,poli1260,http://concepticon.clld.org/parameters/645,ocean,ocean
+203-1057,poli1260,http://concepticon.clld.org/parameters/624,jezioro,lake
+203-640,poli1260,http://concepticon.clld.org/parameters/663,zatoka,"gulf, bay"
+203-753,poli1260,http://concepticon.clld.org/parameters/623,laguna,lagoon
+203-1048,poli1260,http://concepticon.clld.org/parameters/660,rafa,reef
+203-376,poli1260,http://concepticon.clld.org/parameters/1662,przylądek,"headland, point"
+203-1001,poli1260,http://concepticon.clld.org/parameters/978,fala,wave
+203-1802,poli1260,http://concepticon.clld.org/parameters/978,wał,wave
+203-393,poli1260,http://concepticon.clld.org/parameters/891,przypływ,tide
+203-1711,poli1260,http://concepticon.clld.org/parameters/891,odpływ,tide
+203-1711,poli1260,http://concepticon.clld.org/parameters/1026,odpływ,lowtide
+203-393,poli1260,http://concepticon.clld.org/parameters/613,przypływ,hightide
+203-387,poli1260,http://concepticon.clld.org/parameters/666,rzeka,"river, stream, brook"
+203-416,poli1260,http://concepticon.clld.org/parameters/666,potok,"river, stream, brook"
+203-665,poli1260,http://concepticon.clld.org/parameters/666,strumyk,"river, stream, brook"
+203-886,poli1260,http://concepticon.clld.org/parameters/666,ruczaj,"river, stream, brook"
+203-1521,poli1260,http://concepticon.clld.org/parameters/1982,wir,whirlpool
+203-1187,poli1260,http://concepticon.clld.org/parameters/2144,studnia,"spring, well"
+203-1329,poli1260,http://concepticon.clld.org/parameters/2144,źródło,"spring, well"
+203-639,poli1260,http://concepticon.clld.org/parameters/2144,zdrój,"spring, well"
+203-433,poli1260,http://concepticon.clld.org/parameters/1145,bagno,swamp
+203-251,poli1260,http://concepticon.clld.org/parameters/1145,moczary,swamp
+203-526,poli1260,http://concepticon.clld.org/parameters/943,wodospad,waterfall
+203-127,poli1260,http://concepticon.clld.org/parameters/420,las,"woods, forest"
+203-1758,poli1260,http://concepticon.clld.org/parameters/420,bór,"woods, forest"
+203-964,poli1260,http://concepticon.clld.org/parameters/420,puszcza,"woods, forest"
+203-321,poli1260,http://concepticon.clld.org/parameters/420,knieja,"woods, forest"
+203-1068,poli1260,http://concepticon.clld.org/parameters/906,drzewo,tree (cf 08.600)
+203-1068,poli1260,http://concepticon.clld.org/parameters/1803,drzewo,wood
+203-689,poli1260,http://concepticon.clld.org/parameters/1803,drewno,wood
+203-227,poli1260,http://concepticon.clld.org/parameters/2125,kamień,"stone, rock"
+203-965,poli1260,http://concepticon.clld.org/parameters/2125,skała,"stone, rock"
+203-632,poli1260,http://concepticon.clld.org/parameters/2125,opoka,"stone, rock"
+203-814,poli1260,http://concepticon.clld.org/parameters/6,trzęsienie ziemi,earthquake
+203-135,poli1260,http://concepticon.clld.org/parameters/1732,niebo,sky
+203-1725,poli1260,http://concepticon.clld.org/parameters/1732,nieboskłon,sky
+203-1122,poli1260,http://concepticon.clld.org/parameters/1732,firmament,sky
+203-765,poli1260,http://concepticon.clld.org/parameters/1343,słońce,sun
+203-667,poli1260,http://concepticon.clld.org/parameters/1313,księżyc,moon
+203-1599,poli1260,http://concepticon.clld.org/parameters/1430,gwiazda,star
+203-1575,poli1260,http://concepticon.clld.org/parameters/1654,błyskawica,lightning
+203-861,poli1260,http://concepticon.clld.org/parameters/1150,grzmot,thunder
+203-581,poli1260,http://concepticon.clld.org/parameters/1150,grom,thunder
+203-1600,poli1260,http://concepticon.clld.org/parameters/1150,piorun,thunder
+203-581,poli1260,http://concepticon.clld.org/parameters/2007,grom,lightning (as striking)
+203-1600,poli1260,http://concepticon.clld.org/parameters/2007,piorun,lightning (as striking)
+203-81,poli1260,http://concepticon.clld.org/parameters/858,burza,storm
+203-556,poli1260,http://concepticon.clld.org/parameters/858,sztorm,storm
+203-605,poli1260,http://concepticon.clld.org/parameters/1733,tęcza,rainbow
+203-1204,poli1260,http://concepticon.clld.org/parameters/630,światło,light (noun)
+203-91,poli1260,http://concepticon.clld.org/parameters/11,ciemność,darkness
+203-1200,poli1260,http://concepticon.clld.org/parameters/11,ciemnia,darkness
+203-1817,poli1260,http://concepticon.clld.org/parameters/1388,cień,"shade, shadow"
+203-1080,poli1260,http://concepticon.clld.org/parameters/1388,odcień,"shade, shadow"
+203-992,poli1260,http://concepticon.clld.org/parameters/1388,zasłona,"shade, shadow"
+203-865,poli1260,http://concepticon.clld.org/parameters/1977,rosa,dew
+203-1089,poli1260,http://concepticon.clld.org/parameters/27,powietrze,air
+203-603,poli1260,http://concepticon.clld.org/parameters/960,wiatr,wind
+203-1623,poli1260,http://concepticon.clld.org/parameters/1489,chmura,cloud
+203-987,poli1260,http://concepticon.clld.org/parameters/1489,obłok,cloud
+203-1266,poli1260,http://concepticon.clld.org/parameters/249,mgła,fog
+203-52,poli1260,http://concepticon.clld.org/parameters/658,deszcz,rain (noun)
+203-1903,poli1260,http://concepticon.clld.org/parameters/658,ulewa,rain (noun)
+203-199,poli1260,http://concepticon.clld.org/parameters/784,śnieg,snow (noun)
+203-1260,poli1260,http://concepticon.clld.org/parameters/617,lód,ice
+203-1621,poli1260,http://concepticon.clld.org/parameters/952,czas,weather
+203-1188,poli1260,http://concepticon.clld.org/parameters/952,pogoda,weather
+203-1584,poli1260,http://concepticon.clld.org/parameters/221,ogień,fire
+203-484,poli1260,http://concepticon.clld.org/parameters/889,płomień,flame (noun)
+203-747,poli1260,http://concepticon.clld.org/parameters/778,dym,smoke (noun)
+203-1541,poli1260,http://concepticon.clld.org/parameters/646,popiół,ashes
+203-244,poli1260,http://concepticon.clld.org/parameters/67,węgle,embers
+203-1532,poli1260,http://concepticon.clld.org/parameters/67,żar,embers
+203-685,poli1260,http://concepticon.clld.org/parameters/141,palić,burn (vb trans)
+203-685,poli1260,http://concepticon.clld.org/parameters/1428,palić,burn (vb intrans)
+203-298,poli1260,http://concepticon.clld.org/parameters/1428,spalać,burn (vb intrans)
+203-1263,poli1260,http://concepticon.clld.org/parameters/737,zapalić,"light, kindle, ignite"
+203-335,poli1260,http://concepticon.clld.org/parameters/737,podpalić,"light, kindle, ignite"
+203-532,poli1260,http://concepticon.clld.org/parameters/737,podłożyć ogień,"light, kindle, ignite"
+203-1412,poli1260,http://concepticon.clld.org/parameters/127,gasić,extinguish
+203-1381,poli1260,http://concepticon.clld.org/parameters/127,zgasić,extinguish
+203-1334,poli1260,http://concepticon.clld.org/parameters/127,zagasić,extinguish
+203-1657,poli1260,http://concepticon.clld.org/parameters/1133,zapałka,match (noun)
+203-1766,poli1260,http://concepticon.clld.org/parameters/10,drewno na opał,firewood
+203-1251,poli1260,http://concepticon.clld.org/parameters/1188,węgiel drzewny,charcoal
+203-1091,poli1260,http://concepticon.clld.org/parameters/683,człowiek,"person, human being"
+203-1394,poli1260,http://concepticon.clld.org/parameters/683,osoba,"person, human being"
+203-892,poli1260,http://concepticon.clld.org/parameters/683,istota ludzka,"person, human being"
+203-38,poli1260,http://concepticon.clld.org/parameters/1554,mąż,man (vs. woman)
+203-427,poli1260,http://concepticon.clld.org/parameters/1554,mężczyzna,man (vs. woman)
+203-339,poli1260,http://concepticon.clld.org/parameters/962,kobieta,woman
+203-1746,poli1260,http://concepticon.clld.org/parameters/2263,męski,male
+203-590,poli1260,http://concepticon.clld.org/parameters/2260,żeński,female
+203-498,poli1260,http://concepticon.clld.org/parameters/1366,chłopiec,boy
+203-553,poli1260,http://concepticon.clld.org/parameters/1366,chłopak,boy
+203-668,poli1260,http://concepticon.clld.org/parameters/1366,chłopię,boy
+203-1210,poli1260,http://concepticon.clld.org/parameters/76,młodzieniec,young man (adolescent)
+203-271,poli1260,http://concepticon.clld.org/parameters/76,młodzian,young man (adolescent)
+203-95,poli1260,http://concepticon.clld.org/parameters/1646,dziewczyna,girl
+203-1704,poli1260,http://concepticon.clld.org/parameters/1646,dziewczynka,girl
+203-903,poli1260,http://concepticon.clld.org/parameters/77,panna,young woman (adolescent)
+203-1386,poli1260,http://concepticon.clld.org/parameters/77,panienka,young woman (adolescent)
+203-1537,poli1260,http://concepticon.clld.org/parameters/1304,dziecko,child
+203-1466,poli1260,http://concepticon.clld.org/parameters/1304,dziecię,child
+203-1287,poli1260,http://concepticon.clld.org/parameters/1304,dzieciątko,child
+203-1287,poli1260,http://concepticon.clld.org/parameters/1289,dzieciątko,"infant, baby"
+203-678,poli1260,http://concepticon.clld.org/parameters/1289,niemowlę,"infant, baby"
+203-38,poli1260,http://concepticon.clld.org/parameters/1200,mąż,husband
+203-1640,poli1260,http://concepticon.clld.org/parameters/1200,małżonek,husband
+203-1659,poli1260,http://concepticon.clld.org/parameters/1199,żona,wife
+203-1074,poli1260,http://concepticon.clld.org/parameters/1199,małżonka,wife
+203-1184,poli1260,http://concepticon.clld.org/parameters/203,(o)żenić się,marry
+203-956,poli1260,http://concepticon.clld.org/parameters/203,wyjść za mąż,marry
+203-988,poli1260,http://concepticon.clld.org/parameters/1259,małżeństwo,"marriage, wedding"
+203-819,poli1260,http://concepticon.clld.org/parameters/1259,ślub,"marriage, wedding"
+203-1143,poli1260,http://concepticon.clld.org/parameters/1259,wesele,"marriage, wedding"
+203-843,poli1260,http://concepticon.clld.org/parameters/1134,rozwód,divorce
+203-825,poli1260,http://concepticon.clld.org/parameters/1217,ojciec,father
+203-1714,poli1260,http://concepticon.clld.org/parameters/1216,matka (mać),mother
+203-1282,poli1260,http://concepticon.clld.org/parameters/505,rodzice,parents
+203-1207,poli1260,http://concepticon.clld.org/parameters/505,rodziciele,parents
+203-1888,poli1260,http://concepticon.clld.org/parameters/424,żonaty mężczyzna,married man
+203-1748,poli1260,http://concepticon.clld.org/parameters/424,żonkoś,married man
+203-96,poli1260,http://concepticon.clld.org/parameters/426,mężatka,married woman
+203-813,poli1260,http://concepticon.clld.org/parameters/426,kobieta zamężna,married woman
+203-1324,poli1260,http://concepticon.clld.org/parameters/1620,syn,son
+203-568,poli1260,http://concepticon.clld.org/parameters/1357,córka,daughter
+203-1150,poli1260,http://concepticon.clld.org/parameters/1801,potomstwo,offspring (son or daughter)
+203-291,poli1260,http://concepticon.clld.org/parameters/1262,brat,brother
+203-119,poli1260,http://concepticon.clld.org/parameters/1759,starszy brat,older brother
+203-1799,poli1260,http://concepticon.clld.org/parameters/1760,młodszy brat,younger brother
+203-598,poli1260,http://concepticon.clld.org/parameters/1263,siostra,sister
+203-811,poli1260,http://concepticon.clld.org/parameters/1758,starsza siostra,older sister
+203-259,poli1260,http://concepticon.clld.org/parameters/1761,młodsza siostra,younger sister
+203-219,poli1260,http://concepticon.clld.org/parameters/1640,rodzeństwo,sibling
+203-307,poli1260,http://concepticon.clld.org/parameters/1005,bliźnięta,twins
+203-410,poli1260,http://concepticon.clld.org/parameters/1383,dziadek,grandfather
+203-1323,poli1260,http://concepticon.clld.org/parameters/1383,dziadzio,grandfather
+203-1284,poli1260,http://concepticon.clld.org/parameters/1383,dziadunio,grandfather
+203-1755,poli1260,http://concepticon.clld.org/parameters/406,stary mężczyzna,old man
+203-820,poli1260,http://concepticon.clld.org/parameters/406,stary człowiek,old man
+203-1637,poli1260,http://concepticon.clld.org/parameters/1496,babka,grandmother
+203-7,poli1260,http://concepticon.clld.org/parameters/1496,babcia,grandmother
+203-1533,poli1260,http://concepticon.clld.org/parameters/1496,babunia,grandmother
+203-785,poli1260,http://concepticon.clld.org/parameters/907,stara kobieta,old woman
+203-1257,poli1260,http://concepticon.clld.org/parameters/907,staruszka,old woman
+203-164,poli1260,http://concepticon.clld.org/parameters/1618,wnuk,grandson
+203-1225,poli1260,http://concepticon.clld.org/parameters/1618,wnuczę,grandson
+203-732,poli1260,http://concepticon.clld.org/parameters/1618,wnuczek,grandson
+203-1377,poli1260,http://concepticon.clld.org/parameters/1619,wnuczka,granddaughter
+203-260,poli1260,http://concepticon.clld.org/parameters/1619,wnusia,granddaughter
+203-687,poli1260,http://concepticon.clld.org/parameters/1327,stryj,uncle
+203-144,poli1260,http://concepticon.clld.org/parameters/1327,wuj,uncle
+203-144,poli1260,http://concepticon.clld.org/parameters/1984,wuj,mother's brother
+203-170,poli1260,http://concepticon.clld.org/parameters/1984,wujek,mother's brother
+203-687,poli1260,http://concepticon.clld.org/parameters/1985,stryj,father's brother
+203-300,poli1260,http://concepticon.clld.org/parameters/1272,ciotka,aunt
+203-1503,poli1260,http://concepticon.clld.org/parameters/1272,ciocia,aunt
+203-300,poli1260,http://concepticon.clld.org/parameters/171,ciotka,mother's sister
+203-1503,poli1260,http://concepticon.clld.org/parameters/171,ciocia,mother's sister
+203-300,poli1260,http://concepticon.clld.org/parameters/170,ciotka,father's sister
+203-1503,poli1260,http://concepticon.clld.org/parameters/170,ciocia,father's sister
+203-1201,poli1260,http://concepticon.clld.org/parameters/1063,synowiec,nephew
+203-991,poli1260,http://concepticon.clld.org/parameters/1063,bratanek,nephew
+203-371,poli1260,http://concepticon.clld.org/parameters/1642,synowica,niece
+203-1063,poli1260,http://concepticon.clld.org/parameters/1642,siostrzenica,niece
+203-1776,poli1260,http://concepticon.clld.org/parameters/1643,kuzyn,cousin
+203-1680,poli1260,http://concepticon.clld.org/parameters/1643,kuzynka,cousin
+203-1017,poli1260,http://concepticon.clld.org/parameters/1669,przodkowie,ancestors
+203-626,poli1260,http://concepticon.clld.org/parameters/490,potomkowie,descendants
+203-225,poli1260,http://concepticon.clld.org/parameters/2255,świekier,father-in-law (of a man)
+203-221,poli1260,http://concepticon.clld.org/parameters/2255,teść,father-in-law (of a man)
+203-221,poli1260,http://concepticon.clld.org/parameters/2254,teść,father-in-law (of a woman)
+203-442,poli1260,http://concepticon.clld.org/parameters/2256,świekra,mother-in-law (of a man)
+203-1005,poli1260,http://concepticon.clld.org/parameters/2256,teściowa,mother-in-law (of a man)
+203-1005,poli1260,http://concepticon.clld.org/parameters/2257,teściowa,mother-in-law (of a woman)
+203-1837,poli1260,http://concepticon.clld.org/parameters/2267,zięć,son-in-law (of a man)
+203-1837,poli1260,http://concepticon.clld.org/parameters/2266,zięć,son-in-law (of a woman)
+203-1236,poli1260,http://concepticon.clld.org/parameters/2265,synowa,daughter-in-law (of a man)
+203-1236,poli1260,http://concepticon.clld.org/parameters/2264,synowa,daughter-in-law (of a woman)
+203-750,poli1260,http://concepticon.clld.org/parameters/237,ojczym,stepfather
+203-1195,poli1260,http://concepticon.clld.org/parameters/236,macocha,stepmother
+203-1474,poli1260,http://concepticon.clld.org/parameters/1059,pasierb,stepson
+203-909,poli1260,http://concepticon.clld.org/parameters/1058,pasierbica,stepdaughter
+203-402,poli1260,http://concepticon.clld.org/parameters/1149,sierota,orphan
+203-1194,poli1260,http://concepticon.clld.org/parameters/1756,wdowa,widow
+203-1796,poli1260,http://concepticon.clld.org/parameters/1981,wdowiec,widower
+203-1646,poli1260,http://concepticon.clld.org/parameters/1644,krewni,"relatives, kinsmen"
+203-1604,poli1260,http://concepticon.clld.org/parameters/194,rodzina,family
+203-777,poli1260,http://concepticon.clld.org/parameters/1209,ja,I
+203-986,poli1260,http://concepticon.clld.org/parameters/1215,ty,you (singular)
+203-286,poli1260,http://concepticon.clld.org/parameters/262,on/ona/ono,he/she/it
+203-539,poli1260,http://concepticon.clld.org/parameters/1212,my,we
+203-1233,poli1260,http://concepticon.clld.org/parameters/1131,nam,we (inclusive)
+203-1439,poli1260,http://concepticon.clld.org/parameters/1130,nas,we (exclusive)
+203-288,poli1260,http://concepticon.clld.org/parameters/1213,wy,you (plural)
+203-663,poli1260,http://concepticon.clld.org/parameters/817,oni,they
+203-669,poli1260,http://concepticon.clld.org/parameters/817,one,they
+203-1064,poli1260,http://concepticon.clld.org/parameters/619,zwierzę,animal
+203-878,poli1260,http://concepticon.clld.org/parameters/2261,samiec,male (adj)
+203-35,poli1260,http://concepticon.clld.org/parameters/2261,samczy,male (adj)
+203-6,poli1260,http://concepticon.clld.org/parameters/2262,samica,female (adj)
+203-37,poli1260,http://concepticon.clld.org/parameters/2262,samcza,female (adj)
+203-683,poli1260,http://concepticon.clld.org/parameters/631,bydło,livestock
+203-1865,poli1260,http://concepticon.clld.org/parameters/649,pastwisko,pasture
+203-216,poli1260,http://concepticon.clld.org/parameters/649,paść,pasture
+203-1059,poli1260,http://concepticon.clld.org/parameters/649,paść się,pasture
+203-1011,poli1260,http://concepticon.clld.org/parameters/263,pastuch,herdsman
+203-857,poli1260,http://concepticon.clld.org/parameters/263,pasterz,herdsman
+203-1132,poli1260,http://concepticon.clld.org/parameters/851,stajnia,"stable, stall"
+203-1517,poli1260,http://concepticon.clld.org/parameters/851,chlew,"stable, stall"
+203-1015,poli1260,http://concepticon.clld.org/parameters/851,obora,"stable, stall"
+203-683,poli1260,http://concepticon.clld.org/parameters/1153,bydło,cattle (bovine)
+203-1586,poli1260,http://concepticon.clld.org/parameters/1008,byk,bull
+203-1689,poli1260,http://concepticon.clld.org/parameters/1169,wół,ox
+203-76,poli1260,http://concepticon.clld.org/parameters/1007,krowa,cow
+203-677,poli1260,http://concepticon.clld.org/parameters/1989,cielę,calf
+203-1571,poli1260,http://concepticon.clld.org/parameters/1331,owca,sheep
+203-653,poli1260,http://concepticon.clld.org/parameters/1344,baran,ram
+203-1571,poli1260,http://concepticon.clld.org/parameters/1345,owca,ewe
+203-528,poli1260,http://concepticon.clld.org/parameters/820,jagnię,lamb
+203-1220,poli1260,http://concepticon.clld.org/parameters/820,baranek,lamb
+203-15,poli1260,http://concepticon.clld.org/parameters/1348,kiernoz,boar
+203-852,poli1260,http://concepticon.clld.org/parameters/1351,świnia,sow (2)
+203-881,poli1260,http://concepticon.clld.org/parameters/1337,prosię,pig
+203-256,poli1260,http://concepticon.clld.org/parameters/1337,prosiak,pig
+203-350,poli1260,http://concepticon.clld.org/parameters/1502,koza,goat
+203-1831,poli1260,http://concepticon.clld.org/parameters/264,kozioł,he-goat
+203-340,poli1260,http://concepticon.clld.org/parameters/1972,koźlę,kid
+203-564,poli1260,http://concepticon.clld.org/parameters/615,koń,horse (equine)
+203-518,poli1260,http://concepticon.clld.org/parameters/936,ogier,stallion
+203-345,poli1260,http://concepticon.clld.org/parameters/936,drygant,stallion
+203-638,poli1260,http://concepticon.clld.org/parameters/936,stadnik,stallion
+203-226,poli1260,http://concepticon.clld.org/parameters/938,klacz,mare
+203-984,poli1260,http://concepticon.clld.org/parameters/938,kobyła,mare
+203-1844,poli1260,http://concepticon.clld.org/parameters/1647,źrebię,"foal, colt"
+203-1462,poli1260,http://concepticon.clld.org/parameters/1862,osioł,"ass, donkey"
+203-329,poli1260,http://concepticon.clld.org/parameters/890,muł,mule
+203-1842,poli1260,http://concepticon.clld.org/parameters/265,drób,fowl
+203-779,poli1260,http://concepticon.clld.org/parameters/1511,kogut,"cock, rooster"
+203-731,poli1260,http://concepticon.clld.org/parameters/1511,pietuch,"cock, rooster"
+203-588,poli1260,http://concepticon.clld.org/parameters/1514,kura,hen
+203-1365,poli1260,http://concepticon.clld.org/parameters/1514,kokosz,hen
+203-1110,poli1260,http://concepticon.clld.org/parameters/1318,kurczę,chicken
+203-822,poli1260,http://concepticon.clld.org/parameters/1187,gęś,goose
+203-950,poli1260,http://concepticon.clld.org/parameters/1360,kaczka,duck
+203-1829,poli1260,http://concepticon.clld.org/parameters/539,gniazdo,nest
+203-790,poli1260,http://concepticon.clld.org/parameters/937,ptak,bird
+203-1506,poli1260,http://concepticon.clld.org/parameters/950,mewa,seagull
+203-223,poli1260,http://concepticon.clld.org/parameters/758,czapla,heron
+203-1687,poli1260,http://concepticon.clld.org/parameters/1905,orzeł,eagle
+203-1690,poli1260,http://concepticon.clld.org/parameters/307,jastrząb,hawk
+203-1387,poli1260,http://concepticon.clld.org/parameters/1185,sęp,vulture
+203-1671,poli1260,http://concepticon.clld.org/parameters/1793,nietoperz,bat
+203-474,poli1260,http://concepticon.clld.org/parameters/882,papuga,parrot
+203-948,poli1260,http://concepticon.clld.org/parameters/913,kruk,crow
+203-123,poli1260,http://concepticon.clld.org/parameters/913,wrona,crow
+203-408,poli1260,http://concepticon.clld.org/parameters/1853,gołąb,dove
+203-976,poli1260,http://concepticon.clld.org/parameters/1853,gołąbek,dove
+203-240,poli1260,http://concepticon.clld.org/parameters/735,sowa,owl
+203-1822,poli1260,http://concepticon.clld.org/parameters/2009,pies,dog
+203-1892,poli1260,http://concepticon.clld.org/parameters/2009,szczenię,dog
+203-1524,poli1260,http://concepticon.clld.org/parameters/1136,królik,rabbit
+203-1164,poli1260,http://concepticon.clld.org/parameters/1208,kot,cat
+203-1544,poli1260,http://concepticon.clld.org/parameters/309,opos,opossum
+203-1131,poli1260,http://concepticon.clld.org/parameters/2139,mysz,"mouse, rat"
+203-834,poli1260,http://concepticon.clld.org/parameters/2139,szczur,"mouse, rat"
+203-1839,poli1260,http://concepticon.clld.org/parameters/227,ryba,fish
+203-1141,poli1260,http://concepticon.clld.org/parameters/213,płetwa ogonowa,fin (dorsal)
+203-889,poli1260,http://concepticon.clld.org/parameters/266,łuska,fishscale
+203-1435,poli1260,http://concepticon.clld.org/parameters/1916,skrzele,gill
+203-1757,poli1260,http://concepticon.clld.org/parameters/598,muszla,shell
+203-1245,poli1260,http://concepticon.clld.org/parameters/598,skorupa,shell
+203-54,poli1260,http://concepticon.clld.org/parameters/1110,rekin,shark
+203-807,poli1260,http://concepticon.clld.org/parameters/1479,morświn,"porpoise, dolphin"
+203-1856,poli1260,http://concepticon.clld.org/parameters/957,wieloryb,whale
+203-1738,poli1260,http://concepticon.clld.org/parameters/1910,płaszczka,stingray
+203-1326,poli1260,http://concepticon.clld.org/parameters/1013,węgorz,freshwater eel
+203-1769,poli1260,http://concepticon.clld.org/parameters/522,wilk,wolf
+203-1507,poli1260,http://concepticon.clld.org/parameters/1386,lew,lion
+203-1744,poli1260,http://concepticon.clld.org/parameters/1820,niedźwiedź,bear
+203-1192,poli1260,http://concepticon.clld.org/parameters/1312,lis,fox
+203-1218,poli1260,http://concepticon.clld.org/parameters/1936,jeleń,deer
+203-697,poli1260,http://concepticon.clld.org/parameters/1350,małpa,monkey
+203-234,poli1260,http://concepticon.clld.org/parameters/1290,słoń,elephant
+203-285,poli1260,http://concepticon.clld.org/parameters/1871,wielbłąd,camel
+203-1413,poli1260,http://concepticon.clld.org/parameters/620,owad,insect
+203-801,poli1260,http://concepticon.clld.org/parameters/310,wesz,louse
+203-1294,poli1260,http://concepticon.clld.org/parameters/267,gnida,nit (louse egg)
+203-448,poli1260,http://concepticon.clld.org/parameters/232,pchła,flea
+203-1877,poli1260,http://concepticon.clld.org/parameters/1974,stonoga,centipede
+203-1660,poli1260,http://concepticon.clld.org/parameters/1538,skorpion,scorpion
+203-31,poli1260,http://concepticon.clld.org/parameters/1575,karaluch,cockroach
+203-1300,poli1260,http://concepticon.clld.org/parameters/587,mrówka,ant
+203-1086,poli1260,http://concepticon.clld.org/parameters/843,pająk,spider
+203-1259,poli1260,http://concepticon.clld.org/parameters/1065,pajęczyna,spider web
+203-1770,poli1260,http://concepticon.clld.org/parameters/665,pszczoła,bee
+203-192,poli1260,http://concepticon.clld.org/parameters/1931,wosk,beeswax
+203-1426,poli1260,http://concepticon.clld.org/parameters/88,ul,beehive
+203-480,poli1260,http://concepticon.clld.org/parameters/1517,osa,wasp
+203-662,poli1260,http://concepticon.clld.org/parameters/1504,mucha,fly
+203-702,poli1260,http://concepticon.clld.org/parameters/95,mustyk,"sandfly (midge), gnat"
+203-1012,poli1260,http://concepticon.clld.org/parameters/1509,komar,mosquito
+203-431,poli1260,http://concepticon.clld.org/parameters/1219,robak,worm
+203-940,poli1260,http://concepticon.clld.org/parameters/730,wąż,snake
+203-1227,poli1260,http://concepticon.clld.org/parameters/730,żmija,snake
+203-1809,poli1260,http://concepticon.clld.org/parameters/206,świetlik,firefly
+203-160,poli1260,http://concepticon.clld.org/parameters/1791,motyl,butterfly
+203-1295,poli1260,http://concepticon.clld.org/parameters/607,konik polny,grasshopper
+203-1021,poli1260,http://concepticon.clld.org/parameters/1543,ślimak,snail
+203-901,poli1260,http://concepticon.clld.org/parameters/503,żaba,frog
+203-475,poli1260,http://concepticon.clld.org/parameters/632,jaszczurka,lizard
+203-1370,poli1260,http://concepticon.clld.org/parameters/1857,krokodyl,"crocodile, alligator"
+203-1780,poli1260,http://concepticon.clld.org/parameters/112,żółw,turtle
+203-838,poli1260,http://concepticon.clld.org/parameters/1480,ciało,body
+203-1895,poli1260,http://concepticon.clld.org/parameters/763,skóra,"skin, hide"
+203-401,poli1260,http://concepticon.clld.org/parameters/2259,mięso,flesh
+203-338,poli1260,http://concepticon.clld.org/parameters/1040,włos,hair (head)
+203-623,poli1260,http://concepticon.clld.org/parameters/678,broda,beard
+203-1417,poli1260,http://concepticon.clld.org/parameters/189,zarost,body hair
+203-1253,poli1260,http://concepticon.clld.org/parameters/36,włosy łonowe,pubic hair
+203-957,poli1260,http://concepticon.clld.org/parameters/576,łupież,dandruff
+203-1180,poli1260,http://concepticon.clld.org/parameters/946,krew,blood
+203-1901,poli1260,http://concepticon.clld.org/parameters/525,żyła,"vein, artery"
+203-746,poli1260,http://concepticon.clld.org/parameters/1394,kość,bone
+203-1540,poli1260,http://concepticon.clld.org/parameters/801,żebro,rib
+203-1031,poli1260,http://concepticon.clld.org/parameters/1393,róg,horn
+203-501,poli1260,http://concepticon.clld.org/parameters/1220,ogon,tail
+203-21,poli1260,http://concepticon.clld.org/parameters/1220,chwost,tail
+203-1457,poli1260,http://concepticon.clld.org/parameters/1291,grzbiet,back
+203-1216,poli1260,http://concepticon.clld.org/parameters/1291,plecy,back
+203-724,poli1260,http://concepticon.clld.org/parameters/805,kręgosłup,spine
+203-313,poli1260,http://concepticon.clld.org/parameters/805,krzyż,spine
+203-946,poli1260,http://concepticon.clld.org/parameters/1256,głowa,head
+203-828,poli1260,http://concepticon.clld.org/parameters/1604,skroń,"side of head, temple"
+203-1515,poli1260,http://concepticon.clld.org/parameters/1605,czaszka,skull
+203-1715,poli1260,http://concepticon.clld.org/parameters/1583,mózg,brain
+203-1559,poli1260,http://concepticon.clld.org/parameters/1560,twarz,face
+203-32,poli1260,http://concepticon.clld.org/parameters/123,czoło,forehead
+203-547,poli1260,http://concepticon.clld.org/parameters/798,szczęka,jaw
+203-699,poli1260,http://concepticon.clld.org/parameters/1730,lico,cheek
+203-1883,poli1260,http://concepticon.clld.org/parameters/1730,policzek,cheek
+203-1773,poli1260,http://concepticon.clld.org/parameters/1510,podbródek,chin
+203-1111,poli1260,http://concepticon.clld.org/parameters/1248,oko,eye
+203-1681,poli1260,http://concepticon.clld.org/parameters/1173,brew,eyebrow
+203-1658,poli1260,http://concepticon.clld.org/parameters/1173,brwi,eyebrow
+203-243,poli1260,http://concepticon.clld.org/parameters/17,powieka,eyelid
+203-763,poli1260,http://concepticon.clld.org/parameters/1540,rzęsa,eyelash
+203-1401,poli1260,http://concepticon.clld.org/parameters/1655,mrugać,blink
+203-1845,poli1260,http://concepticon.clld.org/parameters/1655,mrugnięcie,blink
+203-1354,poli1260,http://concepticon.clld.org/parameters/1247,ucho,ear
+203-1055,poli1260,http://concepticon.clld.org/parameters/18,płatek uszny,earlobe
+203-192,poli1260,http://concepticon.clld.org/parameters/32,wosk,earwax
+203-619,poli1260,http://concepticon.clld.org/parameters/1221,nos,nose
+203-752,poli1260,http://concepticon.clld.org/parameters/1178,nozdrze,nostril
+203-821,poli1260,http://concepticon.clld.org/parameters/208,śluz,mucus (nasal)
+203-1458,poli1260,http://concepticon.clld.org/parameters/674,usta,mouth
+203-450,poli1260,http://concepticon.clld.org/parameters/674,gęba,mouth
+203-1907,poli1260,http://concepticon.clld.org/parameters/73,dziób,beak
+203-1291,poli1260,http://concepticon.clld.org/parameters/478,warga,lip
+203-1553,poli1260,http://concepticon.clld.org/parameters/1205,język,tongue
+203-1240,poli1260,http://concepticon.clld.org/parameters/1380,ząb,tooth
+203-379,poli1260,http://concepticon.clld.org/parameters/139,dziąsła,gums
+203-625,poli1260,http://concepticon.clld.org/parameters/1049,ząb trzonowy,molartooth
+203-1206,poli1260,http://concepticon.clld.org/parameters/1333,szyja,neck
+203-1185,poli1260,http://concepticon.clld.org/parameters/1333,kark,neck
+203-1185,poli1260,http://concepticon.clld.org/parameters/1347,kark,nape of neck
+203-1198,poli1260,http://concepticon.clld.org/parameters/1346,gardło,throat
+203-49,poli1260,http://concepticon.clld.org/parameters/1482,ramię,shoulder
+203-1216,poli1260,http://concepticon.clld.org/parameters/1482,plecy,shoulder
+203-497,poli1260,http://concepticon.clld.org/parameters/172,łopatka,shoulderblade
+203-592,poli1260,http://concepticon.clld.org/parameters/1994,obojczyk,collarbone
+203-49,poli1260,http://concepticon.clld.org/parameters/1673,ramię,arm
+203-1152,poli1260,http://concepticon.clld.org/parameters/1673,ręka,arm
+203-854,poli1260,http://concepticon.clld.org/parameters/1886,pacha,armpit
+203-1135,poli1260,http://concepticon.clld.org/parameters/981,łokieć,elbow
+203-997,poli1260,http://concepticon.clld.org/parameters/799,przegub,wrist
+203-1152,poli1260,http://concepticon.clld.org/parameters/1277,ręka,hand
+203-1096,poli1260,http://concepticon.clld.org/parameters/1183,dłoń,palm of hand
+203-1552,poli1260,http://concepticon.clld.org/parameters/1303,palec,finger
+203-955,poli1260,http://concepticon.clld.org/parameters/1781,wielki palec,thumb
+203-1390,poli1260,http://concepticon.clld.org/parameters/1781,kciuk,thumb
+203-760,poli1260,http://concepticon.clld.org/parameters/1258,paznokieć,fingernail
+203-1868,poli1260,http://concepticon.clld.org/parameters/72,pazur,claw
+203-46,poli1260,http://concepticon.clld.org/parameters/1297,noga,leg
+203-1648,poli1260,http://concepticon.clld.org/parameters/800,udo,thigh
+203-1557,poli1260,http://concepticon.clld.org/parameters/498,łydka,calf of leg
+203-1361,poli1260,http://concepticon.clld.org/parameters/1371,kolano,knee
+203-896,poli1260,http://concepticon.clld.org/parameters/1301,stopa,foot
+203-138,poli1260,http://concepticon.clld.org/parameters/803,kostka,ankle
+203-1230,poli1260,http://concepticon.clld.org/parameters/980,pięta,heel
+203-346,poli1260,http://concepticon.clld.org/parameters/318,odcisk stopy,footprint
+203-574,poli1260,http://concepticon.clld.org/parameters/318,ślad stopy,footprint
+203-468,poli1260,http://concepticon.clld.org/parameters/1389,palec u nogi,toe
+203-1574,poli1260,http://concepticon.clld.org/parameters/1257,skrzydło,wing
+203-887,poli1260,http://concepticon.clld.org/parameters/1201,pióro,feather
+203-1505,poli1260,http://concepticon.clld.org/parameters/1201,piórko,feather
+203-1587,poli1260,http://concepticon.clld.org/parameters/1592,pierś,chest
+203-1655,poli1260,http://concepticon.clld.org/parameters/1592,klatka piersiowa,chest
+203-1587,poli1260,http://concepticon.clld.org/parameters/1402,pierś,breast (of woman)
+203-386,poli1260,http://concepticon.clld.org/parameters/796,brodawka piersiowa,"nipple, teat"
+203-1000,poli1260,http://concepticon.clld.org/parameters/796,sutka,"nipple, teat"
+203-664,poli1260,http://concepticon.clld.org/parameters/154,wymię,udder
+203-314,poli1260,http://concepticon.clld.org/parameters/1838,pępek,navel
+203-64,poli1260,http://concepticon.clld.org/parameters/1223,serce,heart
+203-1853,poli1260,http://concepticon.clld.org/parameters/688,płuco,lung
+203-682,poli1260,http://concepticon.clld.org/parameters/1224,wątroba,liver
+203-10,poli1260,http://concepticon.clld.org/parameters/489,nerka,kidney
+203-1686,poli1260,http://concepticon.clld.org/parameters/1744,śledziona,spleen
+203-1902,poli1260,http://concepticon.clld.org/parameters/819,brzuch,stomach
+203-1070,poli1260,http://concepticon.clld.org/parameters/819,żywot,stomach
+203-104,poli1260,http://concepticon.clld.org/parameters/819,żołądek,stomach
+203-566,poli1260,http://concepticon.clld.org/parameters/1991,jelita,"intestines, guts"
+203-1321,poli1260,http://concepticon.clld.org/parameters/1991,kiszki,"intestines, guts"
+203-250,poli1260,http://concepticon.clld.org/parameters/1681,kibić,waist
+203-826,poli1260,http://concepticon.clld.org/parameters/1681,pas,waist
+203-1910,poli1260,http://concepticon.clld.org/parameters/1681,stan,waist
+203-701,poli1260,http://concepticon.clld.org/parameters/1681,talia,waist
+203-124,poli1260,http://concepticon.clld.org/parameters/1745,biodro,hip
+203-749,poli1260,http://concepticon.clld.org/parameters/834,pośladek,buttocks
+203-1030,poli1260,http://concepticon.clld.org/parameters/834,pośladki,buttocks
+203-1070,poli1260,http://concepticon.clld.org/parameters/804,żywot,womb
+203-1277,poli1260,http://concepticon.clld.org/parameters/804,łono,womb
+203-688,poli1260,http://concepticon.clld.org/parameters/797,jądro,testicle
+203-690,poli1260,http://concepticon.clld.org/parameters/797,jądra,testicle
+203-1536,poli1260,http://concepticon.clld.org/parameters/1222,penis,penis
+203-88,poli1260,http://concepticon.clld.org/parameters/1222,członek,penis
+203-206,poli1260,http://concepticon.clld.org/parameters/1407,dychać,"breathe, breath"
+203-137,poli1260,http://concepticon.clld.org/parameters/1407,dech,"breathe, breath"
+203-806,poli1260,http://concepticon.clld.org/parameters/1407,oddychać,"breathe, breath"
+203-1043,poli1260,http://concepticon.clld.org/parameters/1407,oddech,"breathe, breath"
+203-467,poli1260,http://concepticon.clld.org/parameters/1028,ziewać,"yawn, gape"
+203-1298,poli1260,http://concepticon.clld.org/parameters/162,czkawka,hiccough
+203-1081,poli1260,http://concepticon.clld.org/parameters/879,kaszleć,cough
+203-1808,poli1260,http://concepticon.clld.org/parameters/1621,kichać,sneeze
+203-791,poli1260,http://concepticon.clld.org/parameters/126,pot,perspire
+203-1832,poli1260,http://concepticon.clld.org/parameters/126,pocić się,perspire
+203-947,poli1260,http://concepticon.clld.org/parameters/1440,pluć,spit
+203-804,poli1260,http://concepticon.clld.org/parameters/1278,womitować,vomit
+203-147,poli1260,http://concepticon.clld.org/parameters/1278,zwracać,vomit
+203-1351,poli1260,http://concepticon.clld.org/parameters/1278,rzygać,vomit
+203-5,poli1260,http://concepticon.clld.org/parameters/1403,kąsać,bite
+203-231,poli1260,http://concepticon.clld.org/parameters/1403,gryźć,bite
+203-9,poli1260,http://concepticon.clld.org/parameters/319,lizać,lick
+203-607,poli1260,http://concepticon.clld.org/parameters/268,ślinić się,dribble
+203-580,poli1260,http://concepticon.clld.org/parameters/1585,spać,sleep
+203-1256,poli1260,http://concepticon.clld.org/parameters/1585,sen,sleep
+203-1641,poli1260,http://concepticon.clld.org/parameters/1585,spanie,sleep
+203-1337,poli1260,http://concepticon.clld.org/parameters/1983,chrapać,snore
+203-1256,poli1260,http://concepticon.clld.org/parameters/1920,sen,dream
+203-1788,poli1260,http://concepticon.clld.org/parameters/1920,śnić,dream
+203-1511,poli1260,http://concepticon.clld.org/parameters/1602,obudzić,wake up
+203-733,poli1260,http://concepticon.clld.org/parameters/1602,czuwać,wake up
+203-773,poli1260,http://concepticon.clld.org/parameters/1602,obudzić się,wake up
+203-1719,poli1260,http://concepticon.clld.org/parameters/1159,pierdzieć,break wind
+203-1465,poli1260,http://concepticon.clld.org/parameters/1159,bździeć,break wind
+203-1107,poli1260,http://concepticon.clld.org/parameters/592,szczać,urinate
+203-706,poli1260,http://concepticon.clld.org/parameters/592,moczyć,urinate
+203-860,poli1260,http://concepticon.clld.org/parameters/592,mocz,urinate
+203-1592,poli1260,http://concepticon.clld.org/parameters/592,uryna,urinate
+203-368,poli1260,http://concepticon.clld.org/parameters/592,sikać,urinate
+203-358,poli1260,http://concepticon.clld.org/parameters/676,srać,defecate
+203-648,poli1260,http://concepticon.clld.org/parameters/676,gówno,defecate
+203-456,poli1260,http://concepticon.clld.org/parameters/676,łajno,defecate
+203-961,poli1260,http://concepticon.clld.org/parameters/676,gnój,defecate
+203-1155,poli1260,http://concepticon.clld.org/parameters/676,odchody,defecate
+203-1101,poli1260,http://concepticon.clld.org/parameters/1785,jebać,have sexual intercourse
+203-1349,poli1260,http://concepticon.clld.org/parameters/1785,mieć stosunek,have sexual intercourse
+203-1214,poli1260,http://concepticon.clld.org/parameters/52,drżeć,shiver
+203-1632,poli1260,http://concepticon.clld.org/parameters/52,mieć dreszcze,shiver
+203-1283,poli1260,http://concepticon.clld.org/parameters/138,kąpać się,bathe
+203-975,poli1260,http://concepticon.clld.org/parameters/1152,spłodzić,beget (of father)
+203-1666,poli1260,http://concepticon.clld.org/parameters/1090,rodzić,born (to be)
+203-377,poli1260,http://concepticon.clld.org/parameters/1090,rodzić się,born (to be)
+203-544,poli1260,http://concepticon.clld.org/parameters/1123,brzemienna,pregnant
+203-1171,poli1260,http://concepticon.clld.org/parameters/1123,ciężarna,pregnant
+203-208,poli1260,http://concepticon.clld.org/parameters/1123,w ciąży,pregnant
+203-489,poli1260,http://concepticon.clld.org/parameters/1087,począć,conceive
+203-880,poli1260,http://concepticon.clld.org/parameters/1422,żyć,"live, living, life"
+203-541,poli1260,http://concepticon.clld.org/parameters/1422,żywy,"live, living, life"
+203-1820,poli1260,http://concepticon.clld.org/parameters/1422,żyjący,"live, living, life"
+203-816,poli1260,http://concepticon.clld.org/parameters/1494,umierać,"die, dead"
+203-161,poli1260,http://concepticon.clld.org/parameters/1494,umrzeć,"die, dead"
+203-816,poli1260,http://concepticon.clld.org/parameters/1494,umierać,"die, dead"
+203-1258,poli1260,http://concepticon.clld.org/parameters/1904,topić się,drowned
+203-349,poli1260,http://concepticon.clld.org/parameters/1904,utopiony,drowned
+203-942,poli1260,http://concepticon.clld.org/parameters/1417,zabić,kill
+203-1745,poli1260,http://concepticon.clld.org/parameters/1417,uśmiercić,kill
+203-435,poli1260,http://concepticon.clld.org/parameters/767,trup,corpse
+203-838,poli1260,http://concepticon.clld.org/parameters/767,ciało,corpse
+203-1094,poli1260,http://concepticon.clld.org/parameters/1719,pochować,bury (the dead)
+203-1495,poli1260,http://concepticon.clld.org/parameters/1719,pogrzebać,bury (the dead)
+203-575,poli1260,http://concepticon.clld.org/parameters/1773,grób,"grave, tomb"
+203-1395,poli1260,http://concepticon.clld.org/parameters/1773,mogiła,"grave, tomb"
+203-1582,poli1260,http://concepticon.clld.org/parameters/1773,grobowiec,"grave, tomb"
+203-470,poli1260,http://concepticon.clld.org/parameters/785,silny,"strong, mighty, powerful"
+203-1250,poli1260,http://concepticon.clld.org/parameters/785,mocny,"strong, mighty, powerful"
+203-1806,poli1260,http://concepticon.clld.org/parameters/785,potężny,"strong, mighty, powerful"
+203-365,poli1260,http://concepticon.clld.org/parameters/1601,słaby,weak
+203-1061,poli1260,http://concepticon.clld.org/parameters/1364,zdrowy,"well, health"
+203-1727,poli1260,http://concepticon.clld.org/parameters/1364,zdrowie,"well, health"
+203-1344,poli1260,http://concepticon.clld.org/parameters/1847,chory,"sick, sickness"
+203-487,poli1260,http://concepticon.clld.org/parameters/1847,choroba,"sick, sickness"
+203-1875,poli1260,http://concepticon.clld.org/parameters/1534,gorączka,fever
+203-921,poli1260,http://concepticon.clld.org/parameters/1957,wól,goiter
+203-906,poli1260,http://concepticon.clld.org/parameters/1957,wole,goiter
+203-1668,poli1260,http://concepticon.clld.org/parameters/102,przeziębienie,cold (catarrh)
+203-587,poli1260,http://concepticon.clld.org/parameters/102,katar,cold (catarrh)
+203-183,poli1260,http://concepticon.clld.org/parameters/1109,rana,"wound, sore"
+203-390,poli1260,http://concepticon.clld.org/parameters/1148,stłuczenie,bruise
+203-1359,poli1260,http://concepticon.clld.org/parameters/1148,siniak,bruise
+203-1607,poli1260,http://concepticon.clld.org/parameters/1903,spuchlizna,swelling
+203-1789,poli1260,http://concepticon.clld.org/parameters/148,swędzenie,itch
+203-859,poli1260,http://concepticon.clld.org/parameters/148,świerzb,itch
+203-174,poli1260,http://concepticon.clld.org/parameters/1584,pęcherz,blister
+203-1581,poli1260,http://concepticon.clld.org/parameters/1584,bąbel,blister
+203-968,poli1260,http://concepticon.clld.org/parameters/793,wrzenie,boil (noun)
+203-1025,poli1260,http://concepticon.clld.org/parameters/793,kipiel,boil (noun)
+203-1306,poli1260,http://concepticon.clld.org/parameters/1808,ropa,pus
+203-853,poli1260,http://concepticon.clld.org/parameters/497,blizna,scar
+203-103,poli1260,http://concepticon.clld.org/parameters/499,leczyć się,"cure, heal"
+203-1785,poli1260,http://concepticon.clld.org/parameters/499,goić się,"cure, heal"
+203-385,poli1260,http://concepticon.clld.org/parameters/597,lekarz,physician
+203-722,poli1260,http://concepticon.clld.org/parameters/597,doktor,physician
+203-1076,poli1260,http://concepticon.clld.org/parameters/597,medyk,physician
+203-1297,poli1260,http://concepticon.clld.org/parameters/1372,lekarstwo,"medicine, drug"
+203-1501,poli1260,http://concepticon.clld.org/parameters/1372,lek,"medicine, drug"
+203-1134,poli1260,http://concepticon.clld.org/parameters/655,trucizna,poison
+203-1701,poli1260,http://concepticon.clld.org/parameters/655,jad,poison
+203-276,poli1260,http://concepticon.clld.org/parameters/1757,zmęczony,"tired, weary"
+203-1314,poli1260,http://concepticon.clld.org/parameters/1757,strudzony,"tired, weary"
+203-203,poli1260,http://concepticon.clld.org/parameters/1757,sfatygowany,"tired, weary"
+203-1469,poli1260,http://concepticon.clld.org/parameters/168,odpoczynek,rest
+203-172,poli1260,http://concepticon.clld.org/parameters/168,odpoczywać,rest
+203-316,poli1260,http://concepticon.clld.org/parameters/1564,leniwy,lazy
+203-1733,poli1260,http://concepticon.clld.org/parameters/1125,łysy,bald
+203-304,poli1260,http://concepticon.clld.org/parameters/320,chromy,lame
+203-1852,poli1260,http://concepticon.clld.org/parameters/320,kulawy,lame
+203-649,poli1260,http://concepticon.clld.org/parameters/996,głuchy,deaf
+203-486,poli1260,http://concepticon.clld.org/parameters/1666,niemy,mute
+203-1620,poli1260,http://concepticon.clld.org/parameters/1653,ślepy,blind
+203-1708,poli1260,http://concepticon.clld.org/parameters/1463,pijany,intoxicated
+203-247,poli1260,http://concepticon.clld.org/parameters/1463,spity,intoxicated
+203-1691,poli1260,http://concepticon.clld.org/parameters/590,nagi,"naked, bare"
+203-344,poli1260,http://concepticon.clld.org/parameters/590,goły,"naked, bare"
+203-1215,poli1260,http://concepticon.clld.org/parameters/590,goli,"naked, bare"
+203-403,poli1260,http://concepticon.clld.org/parameters/1336,jeść,eat
+203-1762,poli1260,http://concepticon.clld.org/parameters/256,jadło,food
+203-1410,poli1260,http://concepticon.clld.org/parameters/256,pokarm,food
+203-840,poli1260,http://concepticon.clld.org/parameters/256,potrawa,food
+203-596,poli1260,http://concepticon.clld.org/parameters/269,(u)gotowany,cooked
+203-359,poli1260,http://concepticon.clld.org/parameters/1959,surowy,raw
+203-549,poli1260,http://concepticon.clld.org/parameters/178,dojrzały,ripe
+203-529,poli1260,http://concepticon.clld.org/parameters/1958,zielony,"green, unripe"
+203-1054,poli1260,http://concepticon.clld.org/parameters/1958,niedojrzały,"green, unripe"
+203-973,poli1260,http://concepticon.clld.org/parameters/1728,zepsuty,rotten
+203-1596,poli1260,http://concepticon.clld.org/parameters/1728,zgniły,rotten
+203-1186,poli1260,http://concepticon.clld.org/parameters/1401,pić,drink
+203-1915,poli1260,http://concepticon.clld.org/parameters/1533,głód,hunger
+203-1915,poli1260,http://concepticon.clld.org/parameters/199,głód,famine
+203-143,poli1260,http://concepticon.clld.org/parameters/848,pragnienie,thirst
+203-1500,poli1260,http://concepticon.clld.org/parameters/1421,ssać,suck
+203-691,poli1260,http://concepticon.clld.org/parameters/321,(prze)żuć,chew
+203-382,poli1260,http://concepticon.clld.org/parameters/897,połknąć,swallow
+203-748,poli1260,http://concepticon.clld.org/parameters/897,połykać,swallow
+203-1069,poli1260,http://concepticon.clld.org/parameters/129,dławić się,choke
+203-1827,poli1260,http://concepticon.clld.org/parameters/129,dusić się,choke
+203-8,poli1260,http://concepticon.clld.org/parameters/1100,warzyć,cook
+203-8,poli1260,http://concepticon.clld.org/parameters/792,warzyć,boil (vb)
+203-1819,poli1260,http://concepticon.clld.org/parameters/2146,piec,"roast, fry"
+203-1612,poli1260,http://concepticon.clld.org/parameters/2146,smażyć,"roast, fry"
+203-1546,poli1260,http://concepticon.clld.org/parameters/2146,prażyć,"roast, fry"
+203-1819,poli1260,http://concepticon.clld.org/parameters/183,piec,bake
+203-1819,poli1260,http://concepticon.clld.org/parameters/1143,piec,oven
+203-911,poli1260,http://concepticon.clld.org/parameters/1462,garnek,"pot, cooking vessel"
+203-254,poli1260,http://concepticon.clld.org/parameters/854,kocioł,kettle
+203-1353,poli1260,http://concepticon.clld.org/parameters/854,kocieł,kettle
+203-1846,poli1260,http://concepticon.clld.org/parameters/31,panew,pan
+203-1148,poli1260,http://concepticon.clld.org/parameters/31,patelnia,pan
+203-1153,poli1260,http://concepticon.clld.org/parameters/481,misa,dish
+203-481,poli1260,http://concepticon.clld.org/parameters/481,naczynie,dish
+203-969,poli1260,http://concepticon.clld.org/parameters/480,talerz,plate
+203-1153,poli1260,http://concepticon.clld.org/parameters/1530,misa,bowl
+203-62,poli1260,http://concepticon.clld.org/parameters/270,dzban,"pitcher, jug"
+203-1247,poli1260,http://concepticon.clld.org/parameters/476,filiżanka,"cup, drinking vessel"
+203-1205,poli1260,http://concepticon.clld.org/parameters/476,czarka,"cup, drinking vessel"
+203-99,poli1260,http://concepticon.clld.org/parameters/271,spodek,saucer
+203-1486,poli1260,http://concepticon.clld.org/parameters/1378,łyżka,spoon
+203-310,poli1260,http://concepticon.clld.org/parameters/1352,nóż,knife (2)
+203-258,poli1260,http://concepticon.clld.org/parameters/1302,widelec,fork (2)
+203-977,poli1260,http://concepticon.clld.org/parameters/272,szczypce,tongs
+203-1761,poli1260,http://concepticon.clld.org/parameters/1526,jedzenie,meal (a)
+203-1762,poli1260,http://concepticon.clld.org/parameters/1526,jadło,meal (a)
+203-1252,poli1260,http://concepticon.clld.org/parameters/1322,śniadanie,breakfast
+203-898,poli1260,http://concepticon.clld.org/parameters/768,obiad,lunch
+203-898,poli1260,http://concepticon.clld.org/parameters/1833,obiad,dinner
+203-391,poli1260,http://concepticon.clld.org/parameters/1833,kolacja,dinner
+203-391,poli1260,http://concepticon.clld.org/parameters/1833,kolacja,supper
+203-1787,poli1260,http://concepticon.clld.org/parameters/275,obierać,peel
+203-1775,poli1260,http://concepticon.clld.org/parameters/86,sito,"sieve, strain"
+203-1138,poli1260,http://concepticon.clld.org/parameters/86,przesiewać,"sieve, strain"
+203-1053,poli1260,http://concepticon.clld.org/parameters/1767,skrobać,scrape
+203-874,poli1260,http://concepticon.clld.org/parameters/2017,mieszać,"stir, mix"
+203-1525,poli1260,http://concepticon.clld.org/parameters/1368,chleb,bread
+203-331,poli1260,http://concepticon.clld.org/parameters/273,ciasto,dough
+203-1854,poli1260,http://concepticon.clld.org/parameters/274,wyrabiać,knead
+203-514,poli1260,http://concepticon.clld.org/parameters/274,miesić,knead
+203-122,poli1260,http://concepticon.clld.org/parameters/1594,mąka,"meal, flour"
+203-1123,poli1260,http://concepticon.clld.org/parameters/1033,miażdżyć,"crush, grind"
+203-1179,poli1260,http://concepticon.clld.org/parameters/636,młyn (żarna),mill
+203-1270,poli1260,http://concepticon.clld.org/parameters/224,moździerz,mortar (2)
+203-196,poli1260,http://concepticon.clld.org/parameters/225,tłuczek,pestle
+203-401,poli1260,http://concepticon.clld.org/parameters/634,mięso,meat
+203-220,poli1260,http://concepticon.clld.org/parameters/1874,kiełbasa,sausage
+203-885,poli1260,http://concepticon.clld.org/parameters/1547,zupa,"soup, broth"
+203-1566,poli1260,http://concepticon.clld.org/parameters/1547,rosół,"soup, broth"
+203-1516,poli1260,http://concepticon.clld.org/parameters/1547,polewka,"soup, broth"
+203-370,poli1260,http://concepticon.clld.org/parameters/924,jarzyna,vegetables
+203-994,poli1260,http://concepticon.clld.org/parameters/924,warzywo,vegetables
+203-1752,poli1260,http://concepticon.clld.org/parameters/832,bób,bean
+203-519,poli1260,http://concepticon.clld.org/parameters/832,fasola,bean
+203-82,poli1260,http://concepticon.clld.org/parameters/593,ziemniak,potato
+203-13,poli1260,http://concepticon.clld.org/parameters/593,kartofel,potato
+203-1871,poli1260,http://concepticon.clld.org/parameters/1507,owoc,fruit
+203-839,poli1260,http://concepticon.clld.org/parameters/1966,pęk,bunch
+203-1731,poli1260,http://concepticon.clld.org/parameters/1966,kiść,bunch
+203-19,poli1260,http://concepticon.clld.org/parameters/322,figa,fig
+203-1694,poli1260,http://concepticon.clld.org/parameters/920,winogrono,grape
+203-609,poli1260,http://concepticon.clld.org/parameters/191,orzech,nut
+203-312,poli1260,http://concepticon.clld.org/parameters/1154,oliwka,olive
+203-105,poli1260,http://concepticon.clld.org/parameters/1484,olej,oil
+203-673,poli1260,http://concepticon.clld.org/parameters/1484,oliwa,oil
+203-355,poli1260,http://concepticon.clld.org/parameters/323,smar,"grease, fat"
+203-1535,poli1260,http://concepticon.clld.org/parameters/323,tłuszcz,"grease, fat"
+203-294,poli1260,http://concepticon.clld.org/parameters/1274,sól,salt
+203-1159,poli1260,http://concepticon.clld.org/parameters/1385,pieprz,pepper
+203-1570,poli1260,http://concepticon.clld.org/parameters/919,ostra papryka,chili pepper
+203-1423,poli1260,http://concepticon.clld.org/parameters/942,miód,honey
+203-16,poli1260,http://concepticon.clld.org/parameters/862,cukier,sugar
+203-235,poli1260,http://concepticon.clld.org/parameters/635,mleko,milk (noun)
+203-71,poli1260,http://concepticon.clld.org/parameters/93,doić,milk (vb)
+203-1265,poli1260,http://concepticon.clld.org/parameters/1569,ser (twaróg),cheese
+203-1857,poli1260,http://concepticon.clld.org/parameters/1245,masło,butter
+203-492,poli1260,http://concepticon.clld.org/parameters/731,napój,"beverage, drink"
+203-473,poli1260,http://concepticon.clld.org/parameters/941,miód pitny,mead
+203-133,poli1260,http://concepticon.clld.org/parameters/1524,wino,wine
+203-1784,poli1260,http://concepticon.clld.org/parameters/1639,piwo,beer
+203-232,poli1260,http://concepticon.clld.org/parameters/404,napój sfermentowany,fermented drink
+203-979,poli1260,http://concepticon.clld.org/parameters/744,jajo,egg
+203-953,poli1260,http://concepticon.clld.org/parameters/744,jajko,egg
+203-670,poli1260,http://concepticon.clld.org/parameters/1556,żółtko,egg yolk
+203-1443,poli1260,http://concepticon.clld.org/parameters/158,ubrać,put on (clothes)
+203-1278,poli1260,http://concepticon.clld.org/parameters/158,odziać,put on (clothes)
+203-1542,poli1260,http://concepticon.clld.org/parameters/158,oblec,put on (clothes)
+203-1288,poli1260,http://concepticon.clld.org/parameters/1895,suknia,"clothing, clothes"
+203-1039,poli1260,http://concepticon.clld.org/parameters/1895,odzież,"clothing, clothes"
+203-1885,poli1260,http://concepticon.clld.org/parameters/1895,odzienie,"clothing, clothes"
+203-239,poli1260,http://concepticon.clld.org/parameters/881,krawiec,tailor
+203-120,poli1260,http://concepticon.clld.org/parameters/1616,sukno,cloth
+203-1145,poli1260,http://concepticon.clld.org/parameters/1616,chusta,cloth
+203-1456,poli1260,http://concepticon.clld.org/parameters/1616,tkanina,cloth
+203-809,poli1260,http://concepticon.clld.org/parameters/1616,płat,cloth
+203-1872,poli1260,http://concepticon.clld.org/parameters/964,wełna,wool
+203-207,poli1260,http://concepticon.clld.org/parameters/916,płótno,"linen, flax"
+203-1740,poli1260,http://concepticon.clld.org/parameters/916,len,"linen, flax"
+203-744,poli1260,http://concepticon.clld.org/parameters/1850,bawełna,cotton
+203-268,poli1260,http://concepticon.clld.org/parameters/1641,jedwab,silk
+203-1610,poli1260,http://concepticon.clld.org/parameters/325,pilśń,felt
+203-943,poli1260,http://concepticon.clld.org/parameters/325,filc,felt
+203-1223,poli1260,http://concepticon.clld.org/parameters/580,futro,fur
+203-1895,poli1260,http://concepticon.clld.org/parameters/629,skóra,leather
+203-1147,poli1260,http://concepticon.clld.org/parameters/121,prząść,spin
+203-1304,poli1260,http://concepticon.clld.org/parameters/277,wrzeciono,spindle
+203-68,poli1260,http://concepticon.clld.org/parameters/133,tkać,weave
+203-589,poli1260,http://concepticon.clld.org/parameters/1787,krosna,loom
+203-560,poli1260,http://concepticon.clld.org/parameters/1787,warsztat,loom
+203-263,poli1260,http://concepticon.clld.org/parameters/1457,szyć,sew
+203-1751,poli1260,http://concepticon.clld.org/parameters/1382,igła,needle
+203-1562,poli1260,http://concepticon.clld.org/parameters/278,szydło,awl
+203-1272,poli1260,http://concepticon.clld.org/parameters/1161,nić,thread
+203-927,poli1260,http://concepticon.clld.org/parameters/1161,nitka,thread
+203-1642,poli1260,http://concepticon.clld.org/parameters/157,farbować (barwić),dye
+203-1430,poli1260,http://concepticon.clld.org/parameters/326,płaszcz,cloak
+203-242,poli1260,http://concepticon.clld.org/parameters/326,peleryna,cloak
+203-266,poli1260,http://concepticon.clld.org/parameters/327,[ponczo],poncho
+203-1653,poli1260,http://concepticon.clld.org/parameters/474,ubiór kobiecy,woman's dress
+203-1430,poli1260,http://concepticon.clld.org/parameters/603,płaszcz,coat
+203-1558,poli1260,http://concepticon.clld.org/parameters/603,surdut,coat
+203-704,poli1260,http://concepticon.clld.org/parameters/1622,koszula,shirt
+203-1431,poli1260,http://concepticon.clld.org/parameters/2012,kołnierz,collar
+203-1735,poli1260,http://concepticon.clld.org/parameters/1600,spódnica,skirt
+203-1735,poli1260,http://concepticon.clld.org/parameters/328,spódnica,grass-skirt
+203-43,poli1260,http://concepticon.clld.org/parameters/809,spodnie,trousers
+203-926,poli1260,http://concepticon.clld.org/parameters/809,portki,trousers
+203-29,poli1260,http://concepticon.clld.org/parameters/329,pończocha,"stocking, sock"
+203-897,poli1260,http://concepticon.clld.org/parameters/1381,obuwie,shoe
+203-1673,poli1260,http://concepticon.clld.org/parameters/1381,but,shoe
+203-890,poli1260,http://concepticon.clld.org/parameters/1381,trzewik,shoe
+203-849,poli1260,http://concepticon.clld.org/parameters/585,kozaczek,boot
+203-537,poli1260,http://concepticon.clld.org/parameters/875,szewc,"shoemaker, cobbler"
+203-493,poli1260,http://concepticon.clld.org/parameters/2130,kapelusz,"hat, cap"
+203-130,poli1260,http://concepticon.clld.org/parameters/2130,czapka,"hat, cap"
+203-826,poli1260,http://concepticon.clld.org/parameters/772,pas,"belt, girdle"
+203-330,poli1260,http://concepticon.clld.org/parameters/772,gorset,"belt, girdle"
+203-249,poli1260,http://concepticon.clld.org/parameters/867,rękawica,glove
+203-949,poli1260,http://concepticon.clld.org/parameters/1151,woalka,veil
+203-654,poli1260,http://concepticon.clld.org/parameters/1151,welon,veil
+203-1879,poli1260,http://concepticon.clld.org/parameters/1151,záwoj,veil
+203-713,poli1260,http://concepticon.clld.org/parameters/1851,kieszeń,pocket
+203-1105,poli1260,http://concepticon.clld.org/parameters/757,guzik,button
+203-457,poli1260,http://concepticon.clld.org/parameters/64,szpilka,pin
+203-1098,poli1260,http://concepticon.clld.org/parameters/917,ozdoba,"ornament, adornment"
+203-767,poli1260,http://concepticon.clld.org/parameters/917,ornament,"ornament, adornment"
+203-888,poli1260,http://concepticon.clld.org/parameters/917,okrasa,"ornament, adornment"
+203-502,poli1260,http://concepticon.clld.org/parameters/1029,klejnot,jewel
+203-714,poli1260,http://concepticon.clld.org/parameters/1374,pierścień,ring (for finger)
+203-1407,poli1260,http://concepticon.clld.org/parameters/1374,pierścionek,ring (for finger)
+203-423,poli1260,http://concepticon.clld.org/parameters/1754,naramiennik,bracelet
+203-586,poli1260,http://concepticon.clld.org/parameters/1754,bransoletka,bracelet
+203-1734,poli1260,http://concepticon.clld.org/parameters/1961,naszyjnik,necklace
+203-1783,poli1260,http://concepticon.clld.org/parameters/1860,paciorek,bead
+203-1572,poli1260,http://concepticon.clld.org/parameters/1860,koralik,bead
+203-357,poli1260,http://concepticon.clld.org/parameters/770,kolczyk,earring
+203-982,poli1260,http://concepticon.clld.org/parameters/330,przepaska,"headband, headdress"
+203-218,poli1260,http://concepticon.clld.org/parameters/68,tatuaż,tattoo
+203-1224,poli1260,http://concepticon.clld.org/parameters/332,chustka,"handkerchief, rag"
+203-478,poli1260,http://concepticon.clld.org/parameters/332,chusteczka,"handkerchief, rag"
+203-169,poli1260,http://concepticon.clld.org/parameters/1021,ręcznik,towel
+203-684,poli1260,http://concepticon.clld.org/parameters/1475,grzebień,comb
+203-1682,poli1260,http://concepticon.clld.org/parameters/1821,szczotka,brush
+203-438,poli1260,http://concepticon.clld.org/parameters/333,warkocz,braid
+203-257,poli1260,http://concepticon.clld.org/parameters/151,brzytwa,razor
+203-98,poli1260,http://concepticon.clld.org/parameters/1926,maść,ointment
+203-1870,poli1260,http://concepticon.clld.org/parameters/788,mydło,soap
+203-34,poli1260,http://concepticon.clld.org/parameters/1171,lustro,mirror
+203-443,poli1260,http://concepticon.clld.org/parameters/1171,lusterko,mirror
+203-116,poli1260,http://concepticon.clld.org/parameters/1171,zwierciadło,mirror
+203-1786,poli1260,http://concepticon.clld.org/parameters/1099,mieszkać,"dwell, live"
+203-228,poli1260,http://concepticon.clld.org/parameters/1252,dom,house
+203-1824,poli1260,http://concepticon.clld.org/parameters/1252,mieszkanie,house
+203-1482,poli1260,http://concepticon.clld.org/parameters/1678,chałupa,hut
+203-929,poli1260,http://concepticon.clld.org/parameters/1678,chata,hut
+203-917,poli1260,http://concepticon.clld.org/parameters/1678,buda,hut
+203-150,poli1260,http://concepticon.clld.org/parameters/403,szopa,garden-house
+203-945,poli1260,http://concepticon.clld.org/parameters/403,altana,garden-house
+203-531,poli1260,http://concepticon.clld.org/parameters/1316,namiot,tent
+203-1018,poli1260,http://concepticon.clld.org/parameters/736,dziedziniec,"yard, court"
+203-562,poli1260,http://concepticon.clld.org/parameters/736,podwórze,"yard, court"
+203-426,poli1260,http://concepticon.clld.org/parameters/736,podwórko,"yard, court"
+203-194,poli1260,http://concepticon.clld.org/parameters/408,dom mężczyzn,men's house
+203-1348,poli1260,http://concepticon.clld.org/parameters/334,kuchnia,cookhouse
+203-930,poli1260,http://concepticon.clld.org/parameters/335,dom schadzek,meeting house
+203-149,poli1260,http://concepticon.clld.org/parameters/1450,pokój,room
+203-1849,poli1260,http://concepticon.clld.org/parameters/1450,izba (komnata),room
+203-1228,poli1260,http://concepticon.clld.org/parameters/1567,drzwi,"door, gate"
+203-69,poli1260,http://concepticon.clld.org/parameters/1567,brama,"door, gate"
+203-1246,poli1260,http://concepticon.clld.org/parameters/1567,wrota,"door, gate"
+203-356,poli1260,http://concepticon.clld.org/parameters/80,framuga,"doorpost, jamb"
+203-1416,poli1260,http://concepticon.clld.org/parameters/1596,zamek,lock (noun)
+203-582,poli1260,http://concepticon.clld.org/parameters/1012,zasuwa,"latch, door-bolt"
+203-914,poli1260,http://concepticon.clld.org/parameters/1012,zatrzask,"latch, door-bolt"
+203-1285,poli1260,http://concepticon.clld.org/parameters/1472,klucz,key
+203-388,poli1260,http://concepticon.clld.org/parameters/1375,okno,window
+203-1661,poli1260,http://concepticon.clld.org/parameters/1632,podłoga,floor
+203-272,poli1260,http://concepticon.clld.org/parameters/933,mur,wall
+203-3,poli1260,http://concepticon.clld.org/parameters/933,ściana,wall
+203-270,poli1260,http://concepticon.clld.org/parameters/185,ognisko,fireplace
+203-855,poli1260,http://concepticon.clld.org/parameters/185,kominek,fireplace
+203-1819,poli1260,http://concepticon.clld.org/parameters/859,piec,stove
+203-213,poli1260,http://concepticon.clld.org/parameters/1305,komin,chimney
+203-1163,poli1260,http://concepticon.clld.org/parameters/1464,drabina,ladder
+203-469,poli1260,http://concepticon.clld.org/parameters/1663,łóżko,bed
+203-916,poli1260,http://concepticon.clld.org/parameters/1044,poduszka,pillow
+203-1158,poli1260,http://concepticon.clld.org/parameters/806,koc,blanket
+203-739,poli1260,http://concepticon.clld.org/parameters/1476,krzesło,chair
+203-1262,poli1260,http://concepticon.clld.org/parameters/1775,stół,table
+203-404,poli1260,http://concepticon.clld.org/parameters/2131,lampa,"lamp, torch"
+203-1077,poli1260,http://concepticon.clld.org/parameters/1273,świeca,candle
+203-883,poli1260,http://concepticon.clld.org/parameters/745,półka,shelf
+203-1543,poli1260,http://concepticon.clld.org/parameters/205,koryto,trough
+203-451,poli1260,http://concepticon.clld.org/parameters/769,dach,roof
+203-1350,poli1260,http://concepticon.clld.org/parameters/279,strzecha,thatch
+203-933,poli1260,http://concepticon.clld.org/parameters/280,belka poprzeczna,ridgepole
+203-818,poli1260,http://concepticon.clld.org/parameters/829,krokiew,rafter
+203-505,poli1260,http://concepticon.clld.org/parameters/1132,belka,beam
+203-831,poli1260,http://concepticon.clld.org/parameters/281,pal,"post, pole"
+203-361,poli1260,http://concepticon.clld.org/parameters/281,słup,"post, pole"
+203-1328,poli1260,http://concepticon.clld.org/parameters/1227,deska,board
+203-742,poli1260,http://concepticon.clld.org/parameters/876,sklepienie,arch
+203-1652,poli1260,http://concepticon.clld.org/parameters/876,przęsło,arch
+203-1490,poli1260,http://concepticon.clld.org/parameters/877,murarz,mason
+203-923,poli1260,http://concepticon.clld.org/parameters/1006,cegła,brick
+203-1471,poli1260,http://concepticon.clld.org/parameters/1731,zaprawa,mortar
+203-1060,poli1260,http://concepticon.clld.org/parameters/901,cegła niewypalona,adobe
+203-912,poli1260,http://concepticon.clld.org/parameters/901,adobe,adobe
+203-522,poli1260,http://concepticon.clld.org/parameters/979,rolnik,farmer
+203-131,poli1260,http://concepticon.clld.org/parameters/979,chłop,farmer
+203-455,poli1260,http://concepticon.clld.org/parameters/212,rola,field (for cultivation)
+203-686,poli1260,http://concepticon.clld.org/parameters/212,grunt,field (for cultivation)
+203-794,poli1260,http://concepticon.clld.org/parameters/212,pole,field (for cultivation)
+203-18,poli1260,http://concepticon.clld.org/parameters/586,ogród,garden
+203-1539,poli1260,http://concepticon.clld.org/parameters/1541,uprawić,"cultivate, till"
+203-217,poli1260,http://concepticon.clld.org/parameters/1541,uprawiać,"cultivate, till"
+203-503,poli1260,http://concepticon.clld.org/parameters/1690,płot,fence
+203-535,poli1260,http://concepticon.clld.org/parameters/1690,ogrodzenie,fence
+203-1026,poli1260,http://concepticon.clld.org/parameters/2002,rów,ditch
+203-1496,poli1260,http://concepticon.clld.org/parameters/1921,orać,plow
+203-317,poli1260,http://concepticon.clld.org/parameters/1921,pług,plow
+203-936,poli1260,http://concepticon.clld.org/parameters/1794,bruzda,furrow
+203-63,poli1260,http://concepticon.clld.org/parameters/1418,kopać,dig
+203-1764,poli1260,http://concepticon.clld.org/parameters/1418,ryć,dig
+203-569,poli1260,http://concepticon.clld.org/parameters/1176,łopata,spade
+203-471,poli1260,http://concepticon.clld.org/parameters/1176,rydel,spade
+203-569,poli1260,http://concepticon.clld.org/parameters/1901,łopata,shovel
+203-1072,poli1260,http://concepticon.clld.org/parameters/1901,szufla,shovel
+203-1804,poli1260,http://concepticon.clld.org/parameters/284,motyka,hoe
+203-1162,poli1260,http://concepticon.clld.org/parameters/337,widły,fork
+203-258,poli1260,http://concepticon.clld.org/parameters/337,widelec,fork
+203-1688,poli1260,http://concepticon.clld.org/parameters/338,grabie,rake
+203-837,poli1260,http://concepticon.clld.org/parameters/338,grabić,rake
+203-1428,poli1260,http://concepticon.clld.org/parameters/748,siać,sow
+203-604,poli1260,http://concepticon.clld.org/parameters/748,siemię,sow
+203-1264,poli1260,http://concepticon.clld.org/parameters/748,nasienie,sow
+203-1130,poli1260,http://concepticon.clld.org/parameters/714,nasiono,seed
+203-1863,poli1260,http://concepticon.clld.org/parameters/714,ziarno,seed
+203-1440,poli1260,http://concepticon.clld.org/parameters/190,żąć,"mow, reap"
+203-246,poli1260,http://concepticon.clld.org/parameters/190,siec,"mow, reap"
+203-1239,poli1260,http://concepticon.clld.org/parameters/190,kosić,"mow, reap"
+203-606,poli1260,http://concepticon.clld.org/parameters/2132,sierp,"sickle, scythe"
+203-1547,poli1260,http://concepticon.clld.org/parameters/2132,kosa,"sickle, scythe"
+203-1545,poli1260,http://concepticon.clld.org/parameters/285,młócić,thresh
+203-725,poli1260,http://concepticon.clld.org/parameters/223,klepisko,threshing-floor
+203-337,poli1260,http://concepticon.clld.org/parameters/611,żniwo,"crop, harvest"
+203-1406,poli1260,http://concepticon.clld.org/parameters/611,urodzaj,"crop, harvest"
+203-84,poli1260,http://concepticon.clld.org/parameters/611,plon,"crop, harvest"
+203-1419,poli1260,http://concepticon.clld.org/parameters/605,zboże,"grain (barley, oats etc)"
+203-341,poli1260,http://concepticon.clld.org/parameters/1077,pszenica,wheat
+203-646,poli1260,http://concepticon.clld.org/parameters/932,jęczmień,barley
+203-645,poli1260,http://concepticon.clld.org/parameters/23,żyto,rye
+203-1113,poli1260,http://concepticon.clld.org/parameters/60,owies,oats
+203-182,poli1260,http://concepticon.clld.org/parameters/506,kukurydza,"maize, corn"
+203-1420,poli1260,http://concepticon.clld.org/parameters/926,ryż,rice
+203-1491,poli1260,http://concepticon.clld.org/parameters/606,trawa,grass
+203-1608,poli1260,http://concepticon.clld.org/parameters/342,siano,hay
+203-1119,poli1260,http://concepticon.clld.org/parameters/653,roślina,plant (noun)
+203-1834,poli1260,http://concepticon.clld.org/parameters/653,ziele,plant (noun)
+203-1453,poli1260,http://concepticon.clld.org/parameters/1486,sadzić,plant (vb)
+203-723,poli1260,http://concepticon.clld.org/parameters/670,korzeń,root
+203-1598,poli1260,http://concepticon.clld.org/parameters/1531,gałąź,branch
+203-1385,poli1260,http://concepticon.clld.org/parameters/628,liść,leaf
+203-1393,poli1260,http://concepticon.clld.org/parameters/239,kwiat,flower
+203-1068,poli1260,http://concepticon.clld.org/parameters/906,drzewo,tree
+203-761,poli1260,http://concepticon.clld.org/parameters/644,dąb,oak
+203-1881,poli1260,http://concepticon.clld.org/parameters/1950,buk,beech
+203-823,poli1260,http://concepticon.clld.org/parameters/1855,brzoza,birch
+203-1146,poli1260,http://concepticon.clld.org/parameters/1740,sosna,pine
+203-41,poli1260,http://concepticon.clld.org/parameters/1915,jodła,fir
+203-4,poli1260,http://concepticon.clld.org/parameters/968,żołądź,acorn
+203-11,poli1260,http://concepticon.clld.org/parameters/343,winorośl,vine
+203-1633,poli1260,http://concepticon.clld.org/parameters/974,tytoń,tobacco
+203-685,poli1260,http://concepticon.clld.org/parameters/1689,palić,smoke (tobacco)
+203-72,poli1260,http://concepticon.clld.org/parameters/1689,kurzyć,smoke (tobacco)
+203-318,poli1260,http://concepticon.clld.org/parameters/1124,fajka,pipe
+203-1911,poli1260,http://concepticon.clld.org/parameters/241,pień drzewa,tree stump
+203-944,poli1260,http://concepticon.clld.org/parameters/241,kikut,tree stump
+203-1911,poli1260,http://concepticon.clld.org/parameters/344,pień drzewa,tree trunk
+203-107,poli1260,http://concepticon.clld.org/parameters/409,rozwidlona gałąź,forked branch
+203-1444,poli1260,http://concepticon.clld.org/parameters/1204,kora,bark
+203-1622,poli1260,http://concepticon.clld.org/parameters/345,sok z drzewa,sap
+203-465,poli1260,http://concepticon.clld.org/parameters/1181,palma,palm tree
+203-1340,poli1260,http://concepticon.clld.org/parameters/970,kokos,coconut
+203-1301,poli1260,http://concepticon.clld.org/parameters/1126,cytrus,citrus fruit
+203-1231,poli1260,http://concepticon.clld.org/parameters/868,drzewo bananowe,banana tree
+203-524,poli1260,http://concepticon.clld.org/parameters/346,fikus,banyan
+203-1569,poli1260,http://concepticon.clld.org/parameters/159,batat,sweet potato
+203-495,poli1260,http://concepticon.clld.org/parameters/159,słodki ziemniak,sweet potato
+203-495,poli1260,http://concepticon.clld.org/parameters/410,słodki ziemniak,yam
+203-204,poli1260,http://concepticon.clld.org/parameters/925,tapioka,"tapioca, manioc, cassava"
+203-1044,poli1260,http://concepticon.clld.org/parameters/411,tykwa,gourd
+203-1739,poli1260,http://concepticon.clld.org/parameters/864,dynia,"pumpkin, squash"
+203-543,poli1260,http://concepticon.clld.org/parameters/1927,bambus,bamboo
+203-1093,poli1260,http://concepticon.clld.org/parameters/146,trzcina cukrowa,sugar cane
+203-1134,poli1260,http://concepticon.clld.org/parameters/348,trucizna,fish poison (root)
+203-1732,poli1260,http://concepticon.clld.org/parameters/33,pokrzywa,nettle
+203-446,poli1260,http://concepticon.clld.org/parameters/641,grzyb,mushroom
+203-1464,poli1260,http://concepticon.clld.org/parameters/813,czynić,"do, make"
+203-267,poli1260,http://concepticon.clld.org/parameters/813,robić,"do, make"
+203-1004,poli1260,http://concepticon.clld.org/parameters/813,działać,"do, make"
+203-1451,poli1260,http://concepticon.clld.org/parameters/984,robota,work
+203-996,poli1260,http://concepticon.clld.org/parameters/984,praca,work
+203-674,poli1260,http://concepticon.clld.org/parameters/984,dzieło,work
+203-1396,poli1260,http://concepticon.clld.org/parameters/2004,giąć,bend
+203-483,poli1260,http://concepticon.clld.org/parameters/2004,nagiąć,bend
+203-1696,poli1260,http://concepticon.clld.org/parameters/2004,naginać,bend
+203-1722,poli1260,http://concepticon.clld.org/parameters/1470,fałdować,fold
+203-836,poli1260,http://concepticon.clld.org/parameters/1470,zaginać,fold
+203-634,poli1260,http://concepticon.clld.org/parameters/1917,wiązać,"tie, bind"
+203-512,poli1260,http://concepticon.clld.org/parameters/1917,krawat,"tie, bind"
+203-1484,poli1260,http://concepticon.clld.org/parameters/352,rozwiązać,untie
+203-1038,poli1260,http://concepticon.clld.org/parameters/352,rozwiązywać,untie
+203-1767,poli1260,http://concepticon.clld.org/parameters/1627,łańcuch,chain
+203-86,poli1260,http://concepticon.clld.org/parameters/1218,powróz,"rope, cord"
+203-1127,poli1260,http://concepticon.clld.org/parameters/1218,sznur,"rope, cord"
+203-1418,poli1260,http://concepticon.clld.org/parameters/1218,lina,"rope, cord"
+203-100,poli1260,http://concepticon.clld.org/parameters/760,węzeł,knot (noun)
+203-1869,poli1260,http://concepticon.clld.org/parameters/2133,uderzyć,"strike (hit, beat)"
+203-1065,poli1260,http://concepticon.clld.org/parameters/2133,bić,"strike (hit, beat)"
+203-1459,poli1260,http://concepticon.clld.org/parameters/2133,razić,"strike (hit, beat)"
+203-1149,poli1260,http://concepticon.clld.org/parameters/354,walić pięścią,pound with fist
+203-743,poli1260,http://concepticon.clld.org/parameters/1432,krajać,cut
+203-1126,poli1260,http://concepticon.clld.org/parameters/1432,rżnąć,cut
+203-954,poli1260,http://concepticon.clld.org/parameters/1432,ciąć,cut
+203-458,poli1260,http://concepticon.clld.org/parameters/1432,rąbać,cut
+203-246,poli1260,http://concepticon.clld.org/parameters/1432,siec,cut
+203-616,poli1260,http://concepticon.clld.org/parameters/355,ścinać,cut down
+203-141,poli1260,http://concepticon.clld.org/parameters/355,ściąć,cut down
+203-458,poli1260,http://concepticon.clld.org/parameters/155,rąbać,"chop, hew"
+203-94,poli1260,http://concepticon.clld.org/parameters/1434,pchnąć,stab
+203-102,poli1260,http://concepticon.clld.org/parameters/1434,dźgnąć (nożem),stab
+203-310,poli1260,http://concepticon.clld.org/parameters/1352,nóż,knife
+203-158,poli1260,http://concepticon.clld.org/parameters/356,nożyce,"scissors, shears"
+203-1023,poli1260,http://concepticon.clld.org/parameters/677,siekiera (topór),ax
+203-922,poli1260,http://concepticon.clld.org/parameters/290,toporek,adze
+203-745,poli1260,http://concepticon.clld.org/parameters/680,łamać,break
+203-1654,poli1260,http://concepticon.clld.org/parameters/588,złamany,broken
+203-808,poli1260,http://concepticon.clld.org/parameters/1437,łupać,split
+203-1706,poli1260,http://concepticon.clld.org/parameters/1437,rozszczepiać,split
+203-1322,poli1260,http://concepticon.clld.org/parameters/1735,drzeć,tear
+203-1436,poli1260,http://concepticon.clld.org/parameters/1735,rwać,tear
+203-1181,poli1260,http://concepticon.clld.org/parameters/291,zdzierać,"flay, skin"
+203-351,poli1260,http://concepticon.clld.org/parameters/291,łupić,"flay, skin"
+203-1472,poli1260,http://concepticon.clld.org/parameters/1449,trzeć,"rub, wipe"
+203-1896,poli1260,http://concepticon.clld.org/parameters/1449,wcierać,"rub, wipe"
+203-1384,poli1260,http://concepticon.clld.org/parameters/214,rozciągnąć,stretch
+203-1254,poli1260,http://concepticon.clld.org/parameters/214,rozciągać,stretch
+203-1375,poli1260,http://concepticon.clld.org/parameters/1455,ciągnąć,pull
+203-94,poli1260,http://concepticon.clld.org/parameters/1455,pchnąć,pull
+203-425,poli1260,http://concepticon.clld.org/parameters/1455,pchać,pull
+203-705,poli1260,http://concepticon.clld.org/parameters/38,słać,spread out
+203-90,poli1260,http://concepticon.clld.org/parameters/38,sypać,spread out
+203-1347,poli1260,http://concepticon.clld.org/parameters/38,rozchodzić się,spread out
+203-899,poli1260,http://concepticon.clld.org/parameters/357,odkładać,hang up
+203-643,poli1260,http://concepticon.clld.org/parameters/357,wieszać,hang up
+203-1693,poli1260,http://concepticon.clld.org/parameters/1913,cisnąć,press
+203-296,poli1260,http://concepticon.clld.org/parameters/1913,ścisnąć,press
+203-515,poli1260,http://concepticon.clld.org/parameters/1913,naciskać,press
+203-1514,poli1260,http://concepticon.clld.org/parameters/1913,nacisnąć,press
+203-1638,poli1260,http://concepticon.clld.org/parameters/1414,ściskać,"squeeze, wring"
+203-296,poli1260,http://concepticon.clld.org/parameters/1414,ścisnąć,"squeeze, wring"
+203-1170,poli1260,http://concepticon.clld.org/parameters/1487,lać,pour
+203-938,poli1260,http://concepticon.clld.org/parameters/1487,wylewać,pour
+203-1217,poli1260,http://concepticon.clld.org/parameters/1453,myć,wash
+203-1156,poli1260,http://concepticon.clld.org/parameters/1453,prać,wash
+203-1765,poli1260,http://concepticon.clld.org/parameters/230,zamiatać,sweep
+203-362,poli1260,http://concepticon.clld.org/parameters/245,miotła,broom
+203-830,poli1260,http://concepticon.clld.org/parameters/1361,narzędzie,tool
+203-1736,poli1260,http://concepticon.clld.org/parameters/1042,cieśla,carpenter
+203-1151,poli1260,http://concepticon.clld.org/parameters/1840,budować (wystawić),build
+203-1631,poli1260,http://concepticon.clld.org/parameters/1501,świdrować,bore
+203-928,poli1260,http://concepticon.clld.org/parameters/1501,wiercić,bore
+203-39,poli1260,http://concepticon.clld.org/parameters/1501,borować,bore
+203-565,poli1260,http://concepticon.clld.org/parameters/46,wydrążać,hollow out
+203-1102,poli1260,http://concepticon.clld.org/parameters/1948,piła,saw
+203-812,poli1260,http://concepticon.clld.org/parameters/1481,młot,hammer
+203-381,poli1260,http://concepticon.clld.org/parameters/1481,młotek,hammer
+203-1492,poli1260,http://concepticon.clld.org/parameters/502,gwóźdź,nail
+203-593,poli1260,http://concepticon.clld.org/parameters/1069,klej,glue
+203-1889,poli1260,http://concepticon.clld.org/parameters/1069,kleić,glue
+203-1529,poli1260,http://concepticon.clld.org/parameters/1001,kowal,"smith, blacksmith"
+203-784,poli1260,http://concepticon.clld.org/parameters/288,kuć,forge
+203-212,poli1260,http://concepticon.clld.org/parameters/288,wykuwać,forge
+203-1066,poli1260,http://concepticon.clld.org/parameters/1648,kowadło,anvil
+203-1170,poli1260,http://concepticon.clld.org/parameters/211,lać,cast (metals)
+203-1389,poli1260,http://concepticon.clld.org/parameters/211,odlewać,cast (metals)
+203-904,poli1260,http://concepticon.clld.org/parameters/1369,złoto,gold
+203-1900,poli1260,http://concepticon.clld.org/parameters/759,srebro,silver
+203-595,poli1260,http://concepticon.clld.org/parameters/1825,miedź,"copper, bronze"
+203-1743,poli1260,http://concepticon.clld.org/parameters/1825,bronz,"copper, bronze"
+203-1568,poli1260,http://concepticon.clld.org/parameters/1825,spiż,"copper, bronze"
+203-265,poli1260,http://concepticon.clld.org/parameters/1825,brąz,"copper, bronze"
+203-110,poli1260,http://concepticon.clld.org/parameters/621,żelazo,iron
+203-1088,poli1260,http://concepticon.clld.org/parameters/627,ołów,lead (noun)
+203-353,poli1260,http://concepticon.clld.org/parameters/358,cyna,"tin, tinplate"
+203-1305,poli1260,http://concepticon.clld.org/parameters/358,blacha,"tin, tinplate"
+203-1644,poli1260,http://concepticon.clld.org/parameters/359,garncarz,potter
+203-1115,poli1260,http://concepticon.clld.org/parameters/359,zdun,potter
+203-1580,poli1260,http://concepticon.clld.org/parameters/289,ulepić,mold (clay etc)
+203-1366,poli1260,http://concepticon.clld.org/parameters/289,lepić,mold (clay etc)
+203-1905,poli1260,http://concepticon.clld.org/parameters/1399,glina,clay
+203-364,poli1260,http://concepticon.clld.org/parameters/604,szkło,glass
+203-1807,poli1260,http://concepticon.clld.org/parameters/1729,pleść,"weave, plait"
+203-68,poli1260,http://concepticon.clld.org/parameters/1729,tkać,"weave, plait"
+203-1548,poli1260,http://concepticon.clld.org/parameters/1539,kosz,basket
+203-28,poli1260,http://concepticon.clld.org/parameters/195,wycieraczka,mat
+203-635,poli1260,http://concepticon.clld.org/parameters/195,dywanik,mat
+203-1618,poli1260,http://concepticon.clld.org/parameters/195,mata,mat
+203-635,poli1260,http://concepticon.clld.org/parameters/292,dywanik,rug
+203-971,poli1260,http://concepticon.clld.org/parameters/293,siatka,netbag
+203-891,poli1260,http://concepticon.clld.org/parameters/1971,wentylator,fan (noun)
+203-1530,poli1260,http://concepticon.clld.org/parameters/1971,wachlarz,fan (noun)
+203-262,poli1260,http://concepticon.clld.org/parameters/360,wachlować się,fan (vb)
+203-159,poli1260,http://concepticon.clld.org/parameters/228,wyciosać,carve
+203-651,poli1260,http://concepticon.clld.org/parameters/228,rzeźbić,carve
+203-871,poli1260,http://concepticon.clld.org/parameters/914,rzeźbiarz,sculptor
+203-842,poli1260,http://concepticon.clld.org/parameters/1002,statua,statue
+203-869,poli1260,http://concepticon.clld.org/parameters/1002,posąg,statue
+203-115,poli1260,http://concepticon.clld.org/parameters/1979,dłuto,chisel
+203-261,poli1260,http://concepticon.clld.org/parameters/647,farba,paint (noun)
+203-157,poli1260,http://concepticon.clld.org/parameters/647,barwa,paint (noun)
+203-1793,poli1260,http://concepticon.clld.org/parameters/2001,malować,paint (vb)
+203-1112,poli1260,http://concepticon.clld.org/parameters/765,ruszyć,move
+203-1441,poli1260,http://concepticon.clld.org/parameters/765,ruszać,move
+203-421,poli1260,http://concepticon.clld.org/parameters/1588,obrócić (się),turn over
+203-1488,poli1260,http://concepticon.clld.org/parameters/1445,kręcić się,turn around
+203-1117,poli1260,http://concepticon.clld.org/parameters/1445,obracać się,turn around
+203-1561,poli1260,http://concepticon.clld.org/parameters/1113,wić,"wind, wrap"
+203-1728,poli1260,http://concepticon.clld.org/parameters/1113,obwinąć,"wind, wrap"
+203-1040,poli1260,http://concepticon.clld.org/parameters/827,toczyć,roll
+203-1510,poli1260,http://concepticon.clld.org/parameters/808,spuścić,drop (vb)
+203-146,poli1260,http://concepticon.clld.org/parameters/808,opuścić,drop (vb)
+203-1372,poli1260,http://concepticon.clld.org/parameters/430,skręcać,twist
+203-1528,poli1260,http://concepticon.clld.org/parameters/430,skręcić,twist
+203-717,poli1260,http://concepticon.clld.org/parameters/430,owijać,twist
+203-284,poli1260,http://concepticon.clld.org/parameters/430,owinąć,twist
+203-59,poli1260,http://concepticon.clld.org/parameters/568,(pow)stać,rise
+203-642,poli1260,http://concepticon.clld.org/parameters/568,wznieść się,rise
+203-65,poli1260,http://concepticon.clld.org/parameters/501,podnieść,"raise, lift"
+203-281,poli1260,http://concepticon.clld.org/parameters/501,(po)dźwignąć,"raise, lift"
+203-216,poli1260,http://concepticon.clld.org/parameters/1280,paść,fall
+203-1051,poli1260,http://concepticon.clld.org/parameters/1280,padać,fall
+203-1062,poli1260,http://concepticon.clld.org/parameters/1280,upadać,fall
+203-726,poli1260,http://concepticon.clld.org/parameters/2253,kapanie,drip
+203-1812,poli1260,http://concepticon.clld.org/parameters/2253,kapać,drip
+203-1841,poli1260,http://concepticon.clld.org/parameters/1456,rzucić,throw
+203-572,poli1260,http://concepticon.clld.org/parameters/1456,rzucać,throw
+203-74,poli1260,http://concepticon.clld.org/parameters/1456,ciskać,throw
+203-1693,poli1260,http://concepticon.clld.org/parameters/1456,cisnąć,throw
+203-1882,poli1260,http://concepticon.clld.org/parameters/702,(z)łapać,catch (ball)
+203-1810,poli1260,http://concepticon.clld.org/parameters/1909,trząść (się),shake
+203-1368,poli1260,http://concepticon.clld.org/parameters/1909,wstrząsać,shake
+203-805,poli1260,http://concepticon.clld.org/parameters/2003,płynąć,flow
+203-1108,poli1260,http://concepticon.clld.org/parameters/2003,pływać,flow
+203-770,poli1260,http://concepticon.clld.org/parameters/1088,(za)topić,sink
+203-1591,poli1260,http://concepticon.clld.org/parameters/1088,zatonąć,sink
+203-1108,poli1260,http://concepticon.clld.org/parameters/1574,pływać,float
+203-805,poli1260,http://concepticon.clld.org/parameters/1574,płynąć,float
+203-1108,poli1260,http://concepticon.clld.org/parameters/1439,pływać,swim
+203-805,poli1260,http://concepticon.clld.org/parameters/1439,płynąć,swim
+203-1083,poli1260,http://concepticon.clld.org/parameters/119,nurkować,dive
+203-1022,poli1260,http://concepticon.clld.org/parameters/365,plusk,splash
+203-1050,poli1260,http://concepticon.clld.org/parameters/365,pluskać,splash
+203-1046,poli1260,http://concepticon.clld.org/parameters/787,żeglować,sail (vb)
+203-895,poli1260,http://concepticon.clld.org/parameters/1441,lecieć,fly (vb)
+203-521,poli1260,http://concepticon.clld.org/parameters/1441,latać,fly (vb)
+203-389,poli1260,http://concepticon.clld.org/parameters/175,wiać,blow
+203-295,poli1260,http://concepticon.clld.org/parameters/175,dąć,blow
+203-1815,poli1260,http://concepticon.clld.org/parameters/175,dmuchać,blow
+203-868,poli1260,http://concepticon.clld.org/parameters/96,pełzać,"creep, crawl"
+203-709,poli1260,http://concepticon.clld.org/parameters/96,czołgać się,"creep, crawl"
+203-1830,poli1260,http://concepticon.clld.org/parameters/66,klękać,kneel
+203-373,poli1260,http://concepticon.clld.org/parameters/66,klęknąć,kneel
+203-372,poli1260,http://concepticon.clld.org/parameters/296,(przy)kucać,crouch
+203-1811,poli1260,http://concepticon.clld.org/parameters/1324,poślizgnąć się,"slide, slip"
+203-171,poli1260,http://concepticon.clld.org/parameters/1829,skoczyć,"jump, leap"
+203-1703,poli1260,http://concepticon.clld.org/parameters/1829,skakać,"jump, leap"
+203-63,poli1260,http://concepticon.clld.org/parameters/1135,kopać,kick
+203-142,poli1260,http://concepticon.clld.org/parameters/1135,kopnąć,kick
+203-602,poli1260,http://concepticon.clld.org/parameters/1879,tańczyć,dance
+203-366,poli1260,http://concepticon.clld.org/parameters/1879,tańcować,dance
+203-85,poli1260,http://concepticon.clld.org/parameters/1443,iść,walk
+203-925,poli1260,http://concepticon.clld.org/parameters/1443,chodzić,walk
+203-783,poli1260,http://concepticon.clld.org/parameters/366,kuleć,limp
+203-165,poli1260,http://concepticon.clld.org/parameters/366,utykać,limp
+203-280,poli1260,http://concepticon.clld.org/parameters/1519,biec,run
+203-1203,poli1260,http://concepticon.clld.org/parameters/1519,biegać,run
+203-85,poli1260,http://concepticon.clld.org/parameters/695,iść,go
+203-925,poli1260,http://concepticon.clld.org/parameters/695,chodzić,go
+203-937,poli1260,http://concepticon.clld.org/parameters/705,wchodzić (na górę),go up
+203-1139,poli1260,http://concepticon.clld.org/parameters/1102,wspinać się,climb
+203-764,poli1260,http://concepticon.clld.org/parameters/2014,schodzić (w dół),go down
+203-594,poli1260,http://concepticon.clld.org/parameters/1107,wyjść,go out
+203-591,poli1260,http://concepticon.clld.org/parameters/1107,wychodzić,go out
+203-546,poli1260,http://concepticon.clld.org/parameters/1446,przyjść,come
+203-422,poli1260,http://concepticon.clld.org/parameters/1446,przychodzić,come
+203-1489,poli1260,http://concepticon.clld.org/parameters/581,(po)wracać,come back
+203-1421,poli1260,http://concepticon.clld.org/parameters/581,(po)wrócić,come back
+203-775,poli1260,http://concepticon.clld.org/parameters/1752,odejść,"go away, depart"
+203-1771,poli1260,http://concepticon.clld.org/parameters/1752,odchodzić,"go away, depart"
+203-1768,poli1260,http://concepticon.clld.org/parameters/485,znikać,disappear
+203-275,poli1260,http://concepticon.clld.org/parameters/485,zniknąć,disappear
+203-679,poli1260,http://concepticon.clld.org/parameters/956,uciec,flee
+203-1840,poli1260,http://concepticon.clld.org/parameters/956,uciekać,flee
+203-1874,poli1260,http://concepticon.clld.org/parameters/1085,iść za (kimś/ czymś),follow
+203-631,poli1260,http://concepticon.clld.org/parameters/1047,ścigać,pursue
+203-1867,poli1260,http://concepticon.clld.org/parameters/1047,gonić,pursue
+203-210,poli1260,http://concepticon.clld.org/parameters/1387,przybyć,"reach, arrive"
+203-795,poli1260,http://concepticon.clld.org/parameters/1387,osiągnąć (coś),"reach, arrive"
+203-695,poli1260,http://concepticon.clld.org/parameters/1778,zbliżyć się,approach
+203-1310,poli1260,http://concepticon.clld.org/parameters/1778,zbliżać się,approach
+203-1876,poli1260,http://concepticon.clld.org/parameters/749,wejść,enter
+203-447,poli1260,http://concepticon.clld.org/parameters/749,wchodzić,enter
+203-1573,poli1260,http://concepticon.clld.org/parameters/700,nieść,carry (bear)
+203-510,poli1260,http://concepticon.clld.org/parameters/700,nosić,carry (bear)
+203-129,poli1260,http://concepticon.clld.org/parameters/412,nieść w ręce,carry-in-hand
+203-209,poli1260,http://concepticon.clld.org/parameters/413,nieść na plecach,carry-on-shoulder
+203-776,poli1260,http://concepticon.clld.org/parameters/414,nieść na głowie,carry-on-head
+203-875,poli1260,http://concepticon.clld.org/parameters/415,nieść pod pachą,carry-underarm
+203-1890,poli1260,http://concepticon.clld.org/parameters/692,przynieść,bring
+203-108,poli1260,http://concepticon.clld.org/parameters/692,przynosić,bring
+203-1756,poli1260,http://concepticon.clld.org/parameters/1127,(wy)słać,send
+203-1790,poli1260,http://concepticon.clld.org/parameters/1127,(wy)syłać,send
+203-622,poli1260,http://concepticon.clld.org/parameters/43,prowadzić,lead (vb)
+203-1237,poli1260,http://concepticon.clld.org/parameters/741,gnać,drive
+203-1867,poli1260,http://concepticon.clld.org/parameters/741,gonić,drive
+203-1318,poli1260,http://concepticon.clld.org/parameters/741,pędzić,drive
+203-622,poli1260,http://concepticon.clld.org/parameters/741,prowadzić,drive
+203-255,poli1260,http://concepticon.clld.org/parameters/367,jechać,ride
+203-94,poli1260,http://concepticon.clld.org/parameters/1452,pchnąć,"push, shove"
+203-491,poli1260,http://concepticon.clld.org/parameters/1452,sunąć,"push, shove"
+203-793,poli1260,http://concepticon.clld.org/parameters/667,droga,road
+203-1275,poli1260,http://concepticon.clld.org/parameters/2252,ścieżka,path
+203-1391,poli1260,http://concepticon.clld.org/parameters/1011,most,bridge
+203-1749,poli1260,http://concepticon.clld.org/parameters/122,wóz,"carriage, wagon, cart"
+203-1619,poli1260,http://concepticon.clld.org/parameters/122,powóz,"carriage, wagon, cart"
+203-509,poli1260,http://concepticon.clld.org/parameters/710,koło,wheel
+203-693,poli1260,http://concepticon.clld.org/parameters/1769,oś,axle
+203-1243,poli1260,http://concepticon.clld.org/parameters/14,jarzmo,yoke
+203-1663,poli1260,http://concepticon.clld.org/parameters/740,okręt,ship
+203-1071,poli1260,http://concepticon.clld.org/parameters/740,statek,ship
+203-918,poli1260,http://concepticon.clld.org/parameters/1844,łódka,boat
+203-719,poli1260,http://concepticon.clld.org/parameters/1844,łódź,boat
+203-1125,poli1260,http://concepticon.clld.org/parameters/1970,kajak,canoe
+203-633,poli1260,http://concepticon.clld.org/parameters/1970,kanu,canoe
+203-1847,poli1260,http://concepticon.clld.org/parameters/1970,piroga,canoe
+203-1551,poli1260,http://concepticon.clld.org/parameters/416,wysięgnik,outrigger
+203-900,poli1260,http://concepticon.clld.org/parameters/1664,tratwa,raft
+203-1699,poli1260,http://concepticon.clld.org/parameters/108,wiosło,oar
+203-1699,poli1260,http://concepticon.clld.org/parameters/234,wiosło,paddle (noun)
+203-1665,poli1260,http://concepticon.clld.org/parameters/1849,wiosłować,row (vb)
+203-1382,poli1260,http://concepticon.clld.org/parameters/108,ster,rudder
+203-27,poli1260,http://concepticon.clld.org/parameters/184,maszt,mast
+203-1519,poli1260,http://concepticon.clld.org/parameters/786,żagiel,sail (noun)
+203-559,poli1260,http://concepticon.clld.org/parameters/1870,kotwica,anchor
+203-334,poli1260,http://concepticon.clld.org/parameters/1870,kotew,anchor
+203-520,poli1260,http://concepticon.clld.org/parameters/610,port,"harbor, port"
+203-191,poli1260,http://concepticon.clld.org/parameters/610,przystań,"harbor, port"
+203-1121,poli1260,http://concepticon.clld.org/parameters/1922,(wy)lądować,land (vb)
+203-1833,poli1260,http://concepticon.clld.org/parameters/773,mieć,have
+203-418,poli1260,http://concepticon.clld.org/parameters/773,posiadać,have
+203-418,poli1260,http://concepticon.clld.org/parameters/684,posiadać,"own, possess"
+203-932,poli1260,http://concepticon.clld.org/parameters/684,dzierżyć,"own, possess"
+203-1833,poli1260,http://concepticon.clld.org/parameters/684,mieć,"own, possess"
+203-1677,poli1260,http://concepticon.clld.org/parameters/1749,wziąć,take
+203-1029,poli1260,http://concepticon.clld.org/parameters/1749,brać,take
+203-1190,poli1260,http://concepticon.clld.org/parameters/2021,uchwycić,"seize, grasp"
+203-1332,poli1260,http://concepticon.clld.org/parameters/2021,pochwycić,"seize, grasp"
+203-75,poli1260,http://concepticon.clld.org/parameters/1448,trzymać,hold
+203-1777,poli1260,http://concepticon.clld.org/parameters/694,dostać,"get, obtain"
+203-879,poli1260,http://concepticon.clld.org/parameters/694,dostawać,"get, obtain"
+203-772,poli1260,http://concepticon.clld.org/parameters/694,otrzymać,"get, obtain"
+203-1878,poli1260,http://concepticon.clld.org/parameters/694,otrzymywać,"get, obtain"
+203-61,poli1260,http://concepticon.clld.org/parameters/1477,(za)trzymać,"keep, retain"
+203-1362,poli1260,http://concepticon.clld.org/parameters/1477,(za)trzymywać,"keep, retain"
+203-1248,poli1260,http://concepticon.clld.org/parameters/738,rzecz,thing
+203-1724,poli1260,http://concepticon.clld.org/parameters/1447,dać,give
+203-951,poli1260,http://concepticon.clld.org/parameters/1447,dawać,give
+203-1678,poli1260,http://concepticon.clld.org/parameters/85,zwrócić,give back
+203-1636,poli1260,http://concepticon.clld.org/parameters/85,oddać,give back
+203-1343,poli1260,http://concepticon.clld.org/parameters/85,oddawać,give back
+203-147,poli1260,http://concepticon.clld.org/parameters/85,zwracać,give back
+203-1114,poli1260,http://concepticon.clld.org/parameters/1997,chować,"preserve, look after"
+203-910,poli1260,http://concepticon.clld.org/parameters/1997,zachować,"preserve, look after"
+203-802,poli1260,http://concepticon.clld.org/parameters/1997,zatrzymać,"preserve, look after"
+203-1120,poli1260,http://concepticon.clld.org/parameters/2008,ratować,"save, rescue"
+203-1707,poli1260,http://concepticon.clld.org/parameters/2008,ocalić,"save, rescue"
+203-858,poli1260,http://concepticon.clld.org/parameters/681,(z)niszczyć,destroy
+203-1209,poli1260,http://concepticon.clld.org/parameters/681,(z)burzyć,destroy
+203-967,poli1260,http://concepticon.clld.org/parameters/44,(u)szkodzić,"harm, injure, damage"
+203-1774,poli1260,http://concepticon.clld.org/parameters/44,(za)szkodzić,"harm, injure, damage"
+203-671,poli1260,http://concepticon.clld.org/parameters/44,(s)krzywdzić,"harm, injure, damage"
+203-1649,poli1260,http://concepticon.clld.org/parameters/1468,szukać,"seek, look for"
+203-1033,poli1260,http://concepticon.clld.org/parameters/1468,poszukiwać,"seek, look for"
+203-237,poli1260,http://concepticon.clld.org/parameters/719,znaleźć,find
+203-908,poli1260,http://concepticon.clld.org/parameters/1660,stracić,lose
+203-567,poli1260,http://concepticon.clld.org/parameters/1660,zgubić,lose
+203-430,poli1260,http://concepticon.clld.org/parameters/1095,puścić,"release, let go"
+203-279,poli1260,http://concepticon.clld.org/parameters/1559,pieniądze,money
+203-730,poli1260,http://concepticon.clld.org/parameters/1867,moneta,coin
+203-189,poli1260,http://concepticon.clld.org/parameters/712,bogaty,rich
+203-716,poli1260,http://concepticon.clld.org/parameters/1674,ubogi,poor
+203-658,poli1260,http://concepticon.clld.org/parameters/1674,biedny,poor
+203-380,poli1260,http://concepticon.clld.org/parameters/1934,żebrak,beggar
+203-661,poli1260,http://concepticon.clld.org/parameters/1774,chciwy,"avaricious, stingy"
+203-396,poli1260,http://concepticon.clld.org/parameters/1774,łakomy,"avaricious, stingy"
+203-707,poli1260,http://concepticon.clld.org/parameters/1774,skąpy,"avaricious, stingy"
+203-1016,poli1260,http://concepticon.clld.org/parameters/582,pożyczyć,lend
+203-738,poli1260,http://concepticon.clld.org/parameters/582,pożyczać,lend
+203-1016,poli1260,http://concepticon.clld.org/parameters/1823,pożyczyć,borrow
+203-738,poli1260,http://concepticon.clld.org/parameters/1823,pożyczać,borrow
+203-1085,poli1260,http://concepticon.clld.org/parameters/369,być komuś coś winnym,owe
+203-269,poli1260,http://concepticon.clld.org/parameters/1914,dług,debt
+203-1345,poli1260,http://concepticon.clld.org/parameters/718,(za)płacić,pay (vb)
+203-966,poli1260,http://concepticon.clld.org/parameters/1081,rachunek,"account, reckoning"
+203-1226,poli1260,http://concepticon.clld.org/parameters/1081,konto,"account, reckoning"
+203-1467,poli1260,http://concepticon.clld.org/parameters/873,podatek,"tax, tribute"
+203-428,poli1260,http://concepticon.clld.org/parameters/873,pobór,"tax, tribute"
+203-1625,poli1260,http://concepticon.clld.org/parameters/873,taksa,"tax, tribute"
+203-1212,poli1260,http://concepticon.clld.org/parameters/856,najmować,hire
+203-1308,poli1260,http://concepticon.clld.org/parameters/856,nająć,hire
+203-703,poli1260,http://concepticon.clld.org/parameters/1122,płaca,wages
+203-1427,poli1260,http://concepticon.clld.org/parameters/1122,wynagrodzenie,wages
+203-461,poli1260,http://concepticon.clld.org/parameters/733,zapracować,earn
+203-1095,poli1260,http://concepticon.clld.org/parameters/733,zarobić,earn
+203-1816,poli1260,http://concepticon.clld.org/parameters/733,zarabiać,earn
+203-1079,poli1260,http://concepticon.clld.org/parameters/1869,kupić,buy
+203-545,poli1260,http://concepticon.clld.org/parameters/1869,kupować,buy
+203-305,poli1260,http://concepticon.clld.org/parameters/1571,sprzedać,sell
+203-58,poli1260,http://concepticon.clld.org/parameters/1571,sprzedawać,sell
+203-972,poli1260,http://concepticon.clld.org/parameters/2135,handlować,"trade, barter"
+203-409,poli1260,http://concepticon.clld.org/parameters/2135,kupczyć,"trade, barter"
+203-872,poli1260,http://concepticon.clld.org/parameters/1082,kupiec,merchant
+203-1437,poli1260,http://concepticon.clld.org/parameters/633,targ,market (place)
+203-1338,poli1260,http://concepticon.clld.org/parameters/633,rynek,market (place)
+203-53,poli1260,http://concepticon.clld.org/parameters/752,sklep,"store, shop"
+203-1759,poli1260,http://concepticon.clld.org/parameters/657,cena,price
+203-787,poli1260,http://concepticon.clld.org/parameters/1426,drogi,"dear (costly, expensive)"
+203-315,poli1260,http://concepticon.clld.org/parameters/1887,tani,cheap
+203-1894,poli1260,http://concepticon.clld.org/parameters/884,dzielić,share (distribute)
+203-1700,poli1260,http://concepticon.clld.org/parameters/884,mieć udział,share (distribute)
+203-1438,poli1260,http://concepticon.clld.org/parameters/884,udział,share (distribute)
+203-1232,poli1260,http://concepticon.clld.org/parameters/884,akcja,share (distribute)
+203-1303,poli1260,http://concepticon.clld.org/parameters/1098,ważyć,weigh
+203-1292,poli1260,http://concepticon.clld.org/parameters/1685,po,after
+203-1493,poli1260,http://concepticon.clld.org/parameters/1685,za,after
+203-1493,poli1260,http://concepticon.clld.org/parameters/723,za,behind
+203-757,poli1260,http://concepticon.clld.org/parameters/723,z tyłu,behind
+203-112,poli1260,http://concepticon.clld.org/parameters/1816,przy,beside
+203-1056,poli1260,http://concepticon.clld.org/parameters/1816,obok,beside
+203-1864,poli1260,http://concepticon.clld.org/parameters/1326,na dół,"down, below"
+203-1100,poli1260,http://concepticon.clld.org/parameters/1326,na dole,"down, below"
+203-1142,poli1260,http://concepticon.clld.org/parameters/1326,poniżej,"down, below"
+203-1160,poli1260,http://concepticon.clld.org/parameters/1882,przed,before
+203-1193,poli1260,http://concepticon.clld.org/parameters/1882,z przodu,before
+203-1720,poli1260,http://concepticon.clld.org/parameters/1019,przód,front
+203-935,poli1260,http://concepticon.clld.org/parameters/1606,wewnątrz,"inside, in"
+203-907,poli1260,http://concepticon.clld.org/parameters/1606,w środku,"inside, in"
+203-354,poli1260,http://concepticon.clld.org/parameters/762,na zewnątrz,outside
+203-1835,poli1260,http://concepticon.clld.org/parameters/762,poza (czymś),outside
+203-797,poli1260,http://concepticon.clld.org/parameters/1485,pod,under
+203-211,poli1260,http://concepticon.clld.org/parameters/1591,w górze,"up, above"
+203-610,poli1260,http://concepticon.clld.org/parameters/1591,w górę,"up, above"
+203-636,poli1260,http://concepticon.clld.org/parameters/1591,ponad,"up, above"
+203-148,poli1260,http://concepticon.clld.org/parameters/723,miejsce,place
+203-1726,poli1260,http://concepticon.clld.org/parameters/998,postawić,put
+203-735,poli1260,http://concepticon.clld.org/parameters/998,położyć,put
+203-375,poli1260,http://concepticon.clld.org/parameters/998,kłaść,put
+203-417,poli1260,http://concepticon.clld.org/parameters/1416,siedzieć,sit
+203-477,poli1260,http://concepticon.clld.org/parameters/1416,siadać,sit
+203-817,poli1260,http://concepticon.clld.org/parameters/215,leżeć,lie down
+203-1374,poli1260,http://concepticon.clld.org/parameters/1442,stać,stand
+203-583,poli1260,http://concepticon.clld.org/parameters/987,zostać,"remain, stay"
+203-1388,poli1260,http://concepticon.clld.org/parameters/987,czekać,"remain, stay"
+203-694,poli1260,http://concepticon.clld.org/parameters/987,pozostać,"remain, stay"
+203-617,poli1260,http://concepticon.clld.org/parameters/838,pozostałość,"remains, left overs"
+203-1838,poli1260,http://concepticon.clld.org/parameters/838,resztki,"remains, left overs"
+203-1843,poli1260,http://concepticon.clld.org/parameters/7,zbierać,"collect, gather"
+203-462,poli1260,http://concepticon.clld.org/parameters/7,zgromadzić,"collect, gather"
+203-1271,poli1260,http://concepticon.clld.org/parameters/7,gromadzić,"collect, gather"
+203-829,poli1260,http://concepticon.clld.org/parameters/7,kolekcjonować,"collect, gather"
+203-845,poli1260,http://concepticon.clld.org/parameters/371,polepszać się,pick up
+203-1352,poli1260,http://concepticon.clld.org/parameters/371,łapać,pick up
+203-1378,poli1260,http://concepticon.clld.org/parameters/371,podrywać,pick up
+203-1271,poli1260,http://concepticon.clld.org/parameters/1576,gromadzić,pile up
+203-1222,poli1260,http://concepticon.clld.org/parameters/1743,złączyć,"join, unite"
+203-392,poli1260,http://concepticon.clld.org/parameters/1743,spoić,"join, unite"
+203-766,poli1260,http://concepticon.clld.org/parameters/1743,kojarzyć,"join, unite"
+203-672,poli1260,http://concepticon.clld.org/parameters/1359,rozłączyć,separate
+203-1513,poli1260,http://concepticon.clld.org/parameters/1359,rozdzielić,separate
+203-1894,poli1260,http://concepticon.clld.org/parameters/1119,dzielić,divide
+203-1862,poli1260,http://concepticon.clld.org/parameters/1156,otworzyć,open
+203-145,poli1260,http://concepticon.clld.org/parameters/1156,otwierać,open
+203-1814,poli1260,http://concepticon.clld.org/parameters/1046,zamknąć,"shut, close"
+203-117,poli1260,http://concepticon.clld.org/parameters/1046,zatrzasnąć,"shut, close"
+203-1047,poli1260,http://concepticon.clld.org/parameters/1046,zawrzeć,"shut, close"
+203-22,poli1260,http://concepticon.clld.org/parameters/761,pokryć,cover
+203-1167,poli1260,http://concepticon.clld.org/parameters/761,pokrywać,cover
+203-1583,poli1260,http://concepticon.clld.org/parameters/602,(s)kryć,"hide, conceal"
+203-405,poli1260,http://concepticon.clld.org/parameters/602,schować,"hide, conceal"
+203-573,poli1260,http://concepticon.clld.org/parameters/602,(u)kryć,"hide, conceal"
+203-1118,poli1260,http://concepticon.clld.org/parameters/602,ukrywać,"hide, conceal"
+203-740,poli1260,http://concepticon.clld.org/parameters/1265,wysoki,high
+203-1461,poli1260,http://concepticon.clld.org/parameters/721,niski,low
+203-1825,poli1260,http://concepticon.clld.org/parameters/1753,wierzch,top
+203-1667,poli1260,http://concepticon.clld.org/parameters/1753,góra,top
+203-79,poli1260,http://concepticon.clld.org/parameters/690,dno,bottom
+203-1549,poli1260,http://concepticon.clld.org/parameters/742,koniec,end
+203-1425,poli1260,http://concepticon.clld.org/parameters/372,spiczasty,pointed
+203-1281,poli1260,http://concepticon.clld.org/parameters/372,zaostrzony,pointed
+203-608,poli1260,http://concepticon.clld.org/parameters/863,ostrze,edge
+203-1848,poli1260,http://concepticon.clld.org/parameters/863,brzeg,edge
+203-1560,poli1260,http://concepticon.clld.org/parameters/863,krawędź,edge
+203-303,poli1260,http://concepticon.clld.org/parameters/682,strona,side
+203-542,poli1260,http://concepticon.clld.org/parameters/682,bok,side
+203-186,poli1260,http://concepticon.clld.org/parameters/1093,średni,"middle, center"
+203-440,poli1260,http://concepticon.clld.org/parameters/1093,środek,"middle, center"
+203-166,poli1260,http://concepticon.clld.org/parameters/1019,prawy,right (side)
+203-419,poli1260,http://concepticon.clld.org/parameters/244,lewy,left (side)
+203-534,poli1260,http://concepticon.clld.org/parameters/1942,blisko,near (adv)
+203-1483,poli1260,http://concepticon.clld.org/parameters/1406,daleko,far (adv)
+203-862,poli1260,http://concepticon.clld.org/parameters/1877,wschód,east
+203-1028,poli1260,http://concepticon.clld.org/parameters/1817,zachȯd,west
+203-1336,poli1260,http://concepticon.clld.org/parameters/1598,północ,north
+203-1447,poli1260,http://concepticon.clld.org/parameters/1595,południe,south
+203-1036,poli1260,http://concepticon.clld.org/parameters/479,rosnąć,grow
+203-1828,poli1260,http://concepticon.clld.org/parameters/1506,mierzyć,measure
+203-832,poli1260,http://concepticon.clld.org/parameters/1506,miara,measure
+203-439,poli1260,http://concepticon.clld.org/parameters/81,okres,"span, fathom"
+203-1379,poli1260,http://concepticon.clld.org/parameters/81,objętość,"span, fathom"
+203-1189,poli1260,http://concepticon.clld.org/parameters/1202,wielki,"large, big"
+203-1317,poli1260,http://concepticon.clld.org/parameters/1202,olbrzymi,"large, big"
+203-1373,poli1260,http://concepticon.clld.org/parameters/1246,mały,"small, little"
+203-1805,poli1260,http://concepticon.clld.org/parameters/1246,niewielki,"small, little"
+203-485,poli1260,http://concepticon.clld.org/parameters/1203,długi,long
+203-740,poli1260,http://concepticon.clld.org/parameters/711,wysoki,tall
+203-1866,poli1260,http://concepticon.clld.org/parameters/1645,krótki,short
+203-1461,poli1260,http://concepticon.clld.org/parameters/1645,niski,short
+203-193,poli1260,http://concepticon.clld.org/parameters/1243,szeroki,"wide, broad"
+203-1669,poli1260,http://concepticon.clld.org/parameters/1267,wąski,narrow
+203-60,poli1260,http://concepticon.clld.org/parameters/1267,ciasny,narrow
+203-1009,poli1260,http://concepticon.clld.org/parameters/1244,gruby,thick (in dimension)
+203-1045,poli1260,http://concepticon.clld.org/parameters/1400,cienki,thin (in dimension)
+203-278,poli1260,http://concepticon.clld.org/parameters/1593,głęboki,deep
+203-187,poli1260,http://concepticon.clld.org/parameters/193,płytki,shallow
+203-429,poli1260,http://concepticon.clld.org/parameters/193,miałki,shallow
+203-45,poli1260,http://concepticon.clld.org/parameters/1633,płaski,flat
+203-1202,poli1260,http://concepticon.clld.org/parameters/1404,prosty,straight
+203-1913,poli1260,http://concepticon.clld.org/parameters/297,krzywy,crooked
+203-1615,poli1260,http://concepticon.clld.org/parameters/297,skrzywiony,crooked
+203-363,poli1260,http://concepticon.clld.org/parameters/1071,hak,hook
+203-1031,poli1260,http://concepticon.clld.org/parameters/192,róg,corner
+203-229,poli1260,http://concepticon.clld.org/parameters/192,kąt,corner
+203-1208,poli1260,http://concepticon.clld.org/parameters/192,węgieł,corner
+203-313,poli1260,http://concepticon.clld.org/parameters/1367,krzyż,cross
+203-781,poli1260,http://concepticon.clld.org/parameters/850,czworokąt,square
+203-1479,poli1260,http://concepticon.clld.org/parameters/850,czworobok,square
+203-530,poli1260,http://concepticon.clld.org/parameters/850,kwadrat,square
+203-696,poli1260,http://concepticon.clld.org/parameters/1395,okrągły,round
+203-509,poli1260,http://concepticon.clld.org/parameters/1467,koło,circle
+203-799,poli1260,http://concepticon.clld.org/parameters/1467,krąg,circle
+203-882,poli1260,http://concepticon.clld.org/parameters/1845,kula,"sphere, ball"
+203-1803,poli1260,http://concepticon.clld.org/parameters/1048,linia,line
+203-230,poli1260,http://concepticon.clld.org/parameters/1667,dziura,hole
+203-1794,poli1260,http://concepticon.clld.org/parameters/1558,podobny,"like, similar"
+203-1116,poli1260,http://concepticon.clld.org/parameters/1558,taki sam,"like, similar"
+203-741,poli1260,http://concepticon.clld.org/parameters/1264,odmienić,change
+203-1772,poli1260,http://concepticon.clld.org/parameters/1264,zmienić,change
+203-500,poli1260,http://concepticon.clld.org/parameters/1264,zmieniać,change
+203-1013,poli1260,http://concepticon.clld.org/parameters/1294,zero,"zero, nothing"
+203-1267,poli1260,http://concepticon.clld.org/parameters/1515,jeden,one
+203-222,poli1260,http://concepticon.clld.org/parameters/1515,raz,one
+203-1585,poli1260,http://concepticon.clld.org/parameters/1498,dwa,two
+203-302,poli1260,http://concepticon.clld.org/parameters/492,trzy,three
+203-77,poli1260,http://concepticon.clld.org/parameters/1500,cztery,four
+203-1331,poli1260,http://concepticon.clld.org/parameters/493,pięć,five
+203-1818,poli1260,http://concepticon.clld.org/parameters/1703,sześć,six
+203-25,poli1260,http://concepticon.clld.org/parameters/1704,siedem,seven
+203-400,poli1260,http://concepticon.clld.org/parameters/1705,osiem,eight
+203-1836,poli1260,http://concepticon.clld.org/parameters/1483,dziewięć,nine
+203-1364,poli1260,http://concepticon.clld.org/parameters/1515,dziesięć,ten
+203-1800,poli1260,http://concepticon.clld.org/parameters/1706,jedenaście,eleven
+203-657,poli1260,http://concepticon.clld.org/parameters/1707,dwanaście,twelve
+203-1037,poli1260,http://concepticon.clld.org/parameters/1709,piętnaście,fifteen
+203-1109,poli1260,http://concepticon.clld.org/parameters/1710,dwadzieścia,twenty
+203-1176,poli1260,http://concepticon.clld.org/parameters/1634,sto,hundred
+203-552,poli1260,http://concepticon.clld.org/parameters/1843,tysiąc,thousand
+203-527,poli1260,http://concepticon.clld.org/parameters/1420,liczyć,count
+203-1397,poli1260,http://concepticon.clld.org/parameters/98,każdy,"every, all"
+203-1606,poli1260,http://concepticon.clld.org/parameters/98,wszyscy,"every, all"
+203-1290,poli1260,http://concepticon.clld.org/parameters/98,wszystek,"every, all"
+203-1049,poli1260,http://concepticon.clld.org/parameters/1198,wiele,"much, many"
+203-551,poli1260,http://concepticon.clld.org/parameters/1198,dużo,"much, many"
+203-755,poli1260,http://concepticon.clld.org/parameters/1992,więcej,more
+203-1376,poli1260,http://concepticon.clld.org/parameters/1242,mało,"little (quantity), few"
+203-1415,poli1260,http://concepticon.clld.org/parameters/1242,niewiele,"little (quantity), few"
+203-1512,poli1260,http://concepticon.clld.org/parameters/1242,trochę,"little (quantity), few"
+203-1136,poli1260,http://concepticon.clld.org/parameters/1881,dość,enough
+203-1191,poli1260,http://concepticon.clld.org/parameters/1881,dosyć,enough
+203-367,poli1260,http://concepticon.clld.org/parameters/1241,niektóre,some
+203-1823,poli1260,http://concepticon.clld.org/parameters/1241,kilka,some
+203-1512,poli1260,http://concepticon.clld.org/parameters/1241,trochę,some
+203-1415,poli1260,http://concepticon.clld.org/parameters/1241,niewiele,some
+203-181,poli1260,http://concepticon.clld.org/parameters/2023,mnóstwo,"multitude, crowd"
+203-827,poli1260,http://concepticon.clld.org/parameters/2023,tłum,"multitude, crowd"
+203-1424,poli1260,http://concepticon.clld.org/parameters/2023,ciżba,"multitude, crowd"
+203-1213,poli1260,http://concepticon.clld.org/parameters/2023,mrowie,"multitude, crowd"
+203-585,poli1260,http://concepticon.clld.org/parameters/1429,pełny,full
+203-1106,poli1260,http://concepticon.clld.org/parameters/1429,całkowity,full
+203-449,poli1260,http://concepticon.clld.org/parameters/1624,próżny,empty
+203-960,poli1260,http://concepticon.clld.org/parameters/1624,pusty,empty
+203-1369,poli1260,http://concepticon.clld.org/parameters/779,część,"part, piece"
+203-1034,poli1260,http://concepticon.clld.org/parameters/779,dział,"part, piece"
+203-499,poli1260,http://concepticon.clld.org/parameters/816,połowiczny,half
+203-195,poli1260,http://concepticon.clld.org/parameters/816,pół,half
+203-902,poli1260,http://concepticon.clld.org/parameters/816,połowa,half
+203-698,poli1260,http://concepticon.clld.org/parameters/1580,sam,"alone, only"
+203-1229,poli1260,http://concepticon.clld.org/parameters/1580,jedyny,"alone, only"
+203-1380,poli1260,http://concepticon.clld.org/parameters/1580,tylko,"alone, only"
+203-424,poli1260,http://concepticon.clld.org/parameters/1580,jeno,"alone, only"
+203-369,poli1260,http://concepticon.clld.org/parameters/728,pierwszy,first
+203-441,poli1260,http://concepticon.clld.org/parameters/1529,ostatni,last
+203-1914,poli1260,http://concepticon.clld.org/parameters/1384,drugi,second
+203-1166,poli1260,http://concepticon.clld.org/parameters/1888,para,pair
+203-67,poli1260,http://concepticon.clld.org/parameters/1546,dwa razy,two times
+203-1647,poli1260,http://concepticon.clld.org/parameters/1859,trzeci,third
+203-125,poli1260,http://concepticon.clld.org/parameters/417,trzy razy,three times
+203-1082,poli1260,http://concepticon.clld.org/parameters/417,trzykroć,three times
+203-571,poli1260,http://concepticon.clld.org/parameters/417,trzykrotnie,three times
+203-789,poli1260,http://concepticon.clld.org/parameters/892,czas (doba),time
+203-803,poli1260,http://concepticon.clld.org/parameters/1789,wiek,age
+203-1099,poli1260,http://concepticon.clld.org/parameters/1789,stulecie,age
+203-322,poli1260,http://concepticon.clld.org/parameters/1231,nowy,new
+203-40,poli1260,http://concepticon.clld.org/parameters/1207,młody,young
+203-920,poli1260,http://concepticon.clld.org/parameters/1229,stary,old
+203-184,poli1260,http://concepticon.clld.org/parameters/672,rano,early
+203-728,poli1260,http://concepticon.clld.org/parameters/672,wcześnie,early
+203-453,poli1260,http://concepticon.clld.org/parameters/477,późno,late
+203-866,poli1260,http://concepticon.clld.org/parameters/477,późny,late
+203-856,poli1260,http://concepticon.clld.org/parameters/1376,teraz,now
+203-1477,poli1260,http://concepticon.clld.org/parameters/1963,rychło,immediately
+203-792,poli1260,http://concepticon.clld.org/parameters/1963,zaraz,immediately
+203-751,poli1260,http://concepticon.clld.org/parameters/1963,natychmiast,immediately
+203-1672,poli1260,http://concepticon.clld.org/parameters/1631,prędki,"swift, fast, quick"
+203-292,poli1260,http://concepticon.clld.org/parameters/1631,szybki,"swift, fast, quick"
+203-847,poli1260,http://concepticon.clld.org/parameters/1631,bystry,"swift, fast, quick"
+203-1024,poli1260,http://concepticon.clld.org/parameters/701,powolny,slow
+203-1450,poli1260,http://concepticon.clld.org/parameters/754,spieszyć,"hasten, hurry"
+203-252,poli1260,http://concepticon.clld.org/parameters/754,kwapić się,"hasten, hurry"
+203-1463,poli1260,http://concepticon.clld.org/parameters/425,ociągać się,"retard, delay"
+203-899,poli1260,http://concepticon.clld.org/parameters/425,odkładać,"retard, delay"
+203-1446,poli1260,http://concepticon.clld.org/parameters/425,opóźniać,"retard, delay"
+203-1899,poli1260,http://concepticon.clld.org/parameters/1806,zacząć,"begin, beginning"
+203-1174,poli1260,http://concepticon.clld.org/parameters/1806,wszcząć,"begin, beginning"
+203-1313,poli1260,http://concepticon.clld.org/parameters/1806,początek,"begin, beginning"
+203-1597,poli1260,http://concepticon.clld.org/parameters/1186,trwać,"last, endure"
+203-1549,poli1260,http://concepticon.clld.org/parameters/743,koniec,end (temporal)
+203-26,poli1260,http://concepticon.clld.org/parameters/1766,(do-,finish
+203-577,poli1260,http://concepticon.clld.org/parameters/1766,s-,finish
+203-156,poli1260,http://concepticon.clld.org/parameters/1766,wy-) kończyć,finish
+203-1073,poli1260,http://concepticon.clld.org/parameters/1928,(za)przestać,"cease, stop"
+203-802,poli1260,http://concepticon.clld.org/parameters/1928,zatrzymać,"cease, stop"
+203-1779,poli1260,http://concepticon.clld.org/parameters/790,gotowy,ready
+203-1041,poli1260,http://concepticon.clld.org/parameters/1676,zawsze,always
+203-1850,poli1260,http://concepticon.clld.org/parameters/1852,często,often
+203-70,poli1260,http://concepticon.clld.org/parameters/1544,czasem,sometimes
+203-178,poli1260,http://concepticon.clld.org/parameters/1544,niekiedy,sometimes
+203-1782,poli1260,http://concepticon.clld.org/parameters/703,wkrótce,soon
+203-1470,poli1260,http://concepticon.clld.org/parameters/703,niedługo,soon
+203-981,poli1260,http://concepticon.clld.org/parameters/418,przez długi czas,long-time (for a)
+203-92,poli1260,http://concepticon.clld.org/parameters/1656,nigdy,never
+203-1578,poli1260,http://concepticon.clld.org/parameters/204,znowu,again
+203-248,poli1260,http://concepticon.clld.org/parameters/204,ponownie,again
+203-656,poli1260,http://concepticon.clld.org/parameters/204,jeszcze raz,again
+203-459,poli1260,http://concepticon.clld.org/parameters/1260,dzień,day
+203-615,poli1260,http://concepticon.clld.org/parameters/1233,noc,night
+203-1502,poli1260,http://concepticon.clld.org/parameters/729,świt,dawn
+203-999,poli1260,http://concepticon.clld.org/parameters/729,brzask,dawn
+203-962,poli1260,http://concepticon.clld.org/parameters/729,zorza,dawn
+203-184,poli1260,http://concepticon.clld.org/parameters/1339,rano,morning
+203-1487,poli1260,http://concepticon.clld.org/parameters/1339,(po)ranek,morning
+203-1447,poli1260,http://concepticon.clld.org/parameters/12,południe,"noon, midday"
+203-1235,poli1260,http://concepticon.clld.org/parameters/1807,popołudnie,afternoon
+203-202,poli1260,http://concepticon.clld.org/parameters/1807,po południu,afternoon
+203-1129,poli1260,http://concepticon.clld.org/parameters/1629,wieczór,evening
+203-1534,poli1260,http://concepticon.clld.org/parameters/1283,dziś,today
+203-1161,poli1260,http://concepticon.clld.org/parameters/1283,dzisiaj,today
+203-1296,poli1260,http://concepticon.clld.org/parameters/1329,jutro,tomorrow
+203-328,poli1260,http://concepticon.clld.org/parameters/1179,pojutrze,day-after-tomorrow
+203-1346,poli1260,http://concepticon.clld.org/parameters/1174,wczoraj,yesterday
+203-1140,poli1260,http://concepticon.clld.org/parameters/1180,przedwczoraj,day-before-yesterday
+203-78,poli1260,http://concepticon.clld.org/parameters/1353,godzina,hour
+203-1858,poli1260,http://concepticon.clld.org/parameters/1323,zegar,"clock, timepiece"
+203-73,poli1260,http://concepticon.clld.org/parameters/1469,tydzień,week
+203-333,poli1260,http://concepticon.clld.org/parameters/1699,niedziela,Sunday
+203-729,poli1260,http://concepticon.clld.org/parameters/1697,poniedziałek,Monday
+203-111,poli1260,http://concepticon.clld.org/parameters/1695,wtorek,Tuesday
+203-384,poli1260,http://concepticon.clld.org/parameters/1694,środa,Wednesday
+203-1639,poli1260,http://concepticon.clld.org/parameters/1693,czwartek,Thursday
+203-727,poli1260,http://concepticon.clld.org/parameters/1692,piątek,Friday
+203-1909,poli1260,http://concepticon.clld.org/parameters/1700,sobota,Saturday
+203-1476,poli1260,http://concepticon.clld.org/parameters/1370,miesiąc,month
+203-980,poli1260,http://concepticon.clld.org/parameters/1226,rok,year
+203-584,poli1260,http://concepticon.clld.org/parameters/1471,zima,winter
+203-30,poli1260,http://concepticon.clld.org/parameters/1537,wiosna,spring
+203-1104,poli1260,http://concepticon.clld.org/parameters/1342,lato,summer
+203-128,poli1260,http://concepticon.clld.org/parameters/1276,jesień,autumn
+203-612,poli1260,http://concepticon.clld.org/parameters/691,pora roku,season
+203-1172,poli1260,http://concepticon.clld.org/parameters/691,sezon,season
+203-42,poli1260,http://concepticon.clld.org/parameters/1587,wąchać,smell (vb intrans)
+203-1629,poli1260,http://concepticon.clld.org/parameters/375,pociągnąć nosem,sniff
+203-42,poli1260,http://concepticon.clld.org/parameters/375,wąchać,sniff
+203-1685,poli1260,http://concepticon.clld.org/parameters/1586,pachnieć,smell (vb trans)
+203-42,poli1260,http://concepticon.clld.org/parameters/1586,wąchać,smell (vb trans)
+203-1601,poli1260,http://concepticon.clld.org/parameters/376,wonny,"fragrant, good smelling"
+203-846,poli1260,http://concepticon.clld.org/parameters/376,pachnący,"fragrant, good smelling"
+203-1481,poli1260,http://concepticon.clld.org/parameters/42,śmierdzący,"stinking, bad smelling"
+203-332,poli1260,http://concepticon.clld.org/parameters/42,smrodliwy,"stinking, bad smelling"
+203-1859,poli1260,http://concepticon.clld.org/parameters/21,(s)kosztować,taste
+203-504,poli1260,http://concepticon.clld.org/parameters/21,smakować,taste
+203-990,poli1260,http://concepticon.clld.org/parameters/21,próbować,taste
+203-412,poli1260,http://concepticon.clld.org/parameters/717,słodki,sweet
+203-33,poli1260,http://concepticon.clld.org/parameters/1091,słony,salty
+203-1399,poli1260,http://concepticon.clld.org/parameters/887,gorzki,bitter
+203-1087,poli1260,http://concepticon.clld.org/parameters/1906,kwaśny,"acid, sour"
+203-1320,poli1260,http://concepticon.clld.org/parameters/1906,kwas,"acid, sour"
+203-155,poli1260,http://concepticon.clld.org/parameters/70,słonawy,brackish
+203-1630,poli1260,http://concepticon.clld.org/parameters/1408,słyszeć,hear
+203-1333,poli1260,http://concepticon.clld.org/parameters/1408,słuchać,hear
+203-1523,poli1260,http://concepticon.clld.org/parameters/1608,(wy)słuchać,listen
+203-561,poli1260,http://concepticon.clld.org/parameters/1811,dźwięk,"sound, noise"
+203-1821,poli1260,http://concepticon.clld.org/parameters/1811,hałas,"sound, noise"
+203-1177,poli1260,http://concepticon.clld.org/parameters/1811,szum,"sound, noise"
+203-630,poli1260,http://concepticon.clld.org/parameters/377,głośny,loud
+203-1564,poli1260,http://concepticon.clld.org/parameters/377,donośny,loud
+203-952,poli1260,http://concepticon.clld.org/parameters/1314,cichy,"quiet, silence"
+203-1602,poli1260,http://concepticon.clld.org/parameters/1314,cisza,"quiet, silence"
+203-1778,poli1260,http://concepticon.clld.org/parameters/1409,widzieć,see
+203-1002,poli1260,http://concepticon.clld.org/parameters/1409,zobaczyć,see
+203-1579,poli1260,http://concepticon.clld.org/parameters/1819,(po)patrzeć,"look, look at"
+203-618,poli1260,http://concepticon.clld.org/parameters/1819,spojrzeć,"look, look at"
+203-835,poli1260,http://concepticon.clld.org/parameters/1819,spoglądać,"look, look at"
+203-1565,poli1260,http://concepticon.clld.org/parameters/1039,okazać,show
+203-1398,poli1260,http://concepticon.clld.org/parameters/1039,pokazać,show
+203-1020,poli1260,http://concepticon.clld.org/parameters/708,świecić,shine
+203-301,poli1260,http://concepticon.clld.org/parameters/708,błyszczeć,shine
+203-1634,poli1260,http://concepticon.clld.org/parameters/679,świetny,bright
+203-1357,poli1260,http://concepticon.clld.org/parameters/679,jasny,bright
+203-261,poli1260,http://concepticon.clld.org/parameters/1613,farba,color
+203-815,poli1260,http://concepticon.clld.org/parameters/1613,kolor,color
+203-157,poli1260,http://concepticon.clld.org/parameters/1613,barwa,color
+203-1357,poli1260,http://concepticon.clld.org/parameters/250,jasny,light (in color)
+203-1613,poli1260,http://concepticon.clld.org/parameters/706,ciemny,dark (in color)
+203-154,poli1260,http://concepticon.clld.org/parameters/1335,biały,white
+203-1067,poli1260,http://concepticon.clld.org/parameters/163,czarny,black
+203-1626,poli1260,http://concepticon.clld.org/parameters/156,czerwony,red
+203-768,poli1260,http://concepticon.clld.org/parameters/837,niebieski,blue
+203-529,poli1260,http://concepticon.clld.org/parameters/1425,zielony,green
+203-1556,poli1260,http://concepticon.clld.org/parameters/1424,żółty,yellow
+203-1643,poli1260,http://concepticon.clld.org/parameters/1892,dotknąć,touch
+203-282,poli1260,http://concepticon.clld.org/parameters/1892,dotykać,touch
+203-555,poli1260,http://concepticon.clld.org/parameters/378,szczypta,pinch
+203-434,poli1260,http://concepticon.clld.org/parameters/378,uszczypnąć,pinch
+203-659,poli1260,http://concepticon.clld.org/parameters/1079,macać,feel
+203-1684,poli1260,http://concepticon.clld.org/parameters/1079,czuć,feel
+203-1405,poli1260,http://concepticon.clld.org/parameters/1079,wyczuwać,feel
+203-327,poli1260,http://concepticon.clld.org/parameters/1884,twardy,hard
+203-1577,poli1260,http://concepticon.clld.org/parameters/1856,miękki,soft
+203-570,poli1260,http://concepticon.clld.org/parameters/1923,szorstki,rough
+203-1855,poli1260,http://concepticon.clld.org/parameters/1923,chropawy,rough
+203-652,poli1260,http://concepticon.clld.org/parameters/1234,gładki,smooth
+203-850,poli1260,http://concepticon.clld.org/parameters/1396,ostry,sharp
+203-466,poli1260,http://concepticon.clld.org/parameters/379,tępy,"blunt, dull"
+203-1211,poli1260,http://concepticon.clld.org/parameters/1210,ciężki,heavy
+203-681,poli1260,http://concepticon.clld.org/parameters/1052,lekki,light (in weight)
+203-1594,poli1260,http://concepticon.clld.org/parameters/1726,mokry,"wet, damp"
+203-712,poli1260,http://concepticon.clld.org/parameters/1726,wilgotny,"wet, damp"
+203-894,poli1260,http://concepticon.clld.org/parameters/1398,suchy,dry
+203-51,poli1260,http://concepticon.clld.org/parameters/1286,gorący,hot
+203-463,poli1260,http://concepticon.clld.org/parameters/1232,ciepły,warm
+203-1614,poli1260,http://concepticon.clld.org/parameters/1287,zimny,cold
+203-287,poli1260,http://concepticon.clld.org/parameters/704,czysty,clean
+203-215,poli1260,http://concepticon.clld.org/parameters/1230,brudny,"dirty, soiled"
+203-264,poli1260,http://concepticon.clld.org/parameters/380,(po)marszczony (z),wrinkled
+203-1075,poli1260,http://concepticon.clld.org/parameters/53,dusza,"soul, spirit"
+203-1520,poli1260,http://concepticon.clld.org/parameters/53,duch,"soul, spirit"
+203-525,poli1260,http://concepticon.clld.org/parameters/1572,zadziwienie,"surprised, astonished"
+203-205,poli1260,http://concepticon.clld.org/parameters/1572,zdziwiony,"surprised, astonished"
+203-893,poli1260,http://concepticon.clld.org/parameters/1572,zadziwiony,"surprised, astonished"
+203-721,poli1260,http://concepticon.clld.org/parameters/1572,zaskoczony,"surprised, astonished"
+203-970,poli1260,http://concepticon.clld.org/parameters/720,szczęście,"good fortune, luck"
+203-277,poli1260,http://concepticon.clld.org/parameters/56,nieszczęście,"misfortune, bad luck"
+203-680,poli1260,http://concepticon.clld.org/parameters/1495,radosny,"joyful, glad, happy"
+203-1538,poli1260,http://concepticon.clld.org/parameters/1495,wesoły,"joyful, glad, happy"
+203-666,poli1260,http://concepticon.clld.org/parameters/1355,śmiać się,laugh
+203-978,poli1260,http://concepticon.clld.org/parameters/1451,uśmiechać się,smile
+203-993,poli1260,http://concepticon.clld.org/parameters/1413,grać,play
+203-323,poli1260,http://concepticon.clld.org/parameters/923,miłość,love
+203-1,poli1260,http://concepticon.clld.org/parameters/923,kochać,love
+203-1341,poli1260,http://concepticon.clld.org/parameters/578,całować,kiss
+203-14,poli1260,http://concepticon.clld.org/parameters/928,obejmować (się),embrace
+203-1750,poli1260,http://concepticon.clld.org/parameters/1783,ból,pain
+203-2,poli1260,http://concepticon.clld.org/parameters/1783,boleść,pain
+203-336,poli1260,http://concepticon.clld.org/parameters/1783,cierpienie,pain
+203-2,poli1260,http://concepticon.clld.org/parameters/1668,boleść,"grief, sorrow, sadness"
+203-1527,poli1260,http://concepticon.clld.org/parameters/1668,żal,"grief, sorrow, sadness"
+203-1449,poli1260,http://concepticon.clld.org/parameters/1668,żałość,"grief, sorrow, sadness"
+203-1293,poli1260,http://concepticon.clld.org/parameters/1668,smutek,"grief, sorrow, sadness"
+203-579,poli1260,http://concepticon.clld.org/parameters/1000,obawa,"anxiety, worry"
+203-1404,poli1260,http://concepticon.clld.org/parameters/1000,troska,"anxiety, worry"
+203-1335,poli1260,http://concepticon.clld.org/parameters/1000,niepokój,"anxiety, worry"
+203-511,poli1260,http://concepticon.clld.org/parameters/1875,żałować,"regret, be sorry"
+203-360,poli1260,http://concepticon.clld.org/parameters/1141,litość,pity
+203-1242,poli1260,http://concepticon.clld.org/parameters/1141,miłosierdzie,pity
+203-167,poli1260,http://concepticon.clld.org/parameters/1839,płakać,"cry, weep"
+203-1280,poli1260,http://concepticon.clld.org/parameters/1651,łza,tear (noun)
+203-1742,poli1260,http://concepticon.clld.org/parameters/716,jęczeć,groan
+203-1713,poli1260,http://concepticon.clld.org/parameters/716,stękać,groan
+203-867,poli1260,http://concepticon.clld.org/parameters/1607,nienawiść,hate
+203-1716,poli1260,http://concepticon.clld.org/parameters/1607,nienawidzieć,hate
+203-1402,poli1260,http://concepticon.clld.org/parameters/82,gniew,anger
+203-1319,poli1260,http://concepticon.clld.org/parameters/82,złość,anger
+203-1617,poli1260,http://concepticon.clld.org/parameters/40,zazdrość,"envy, jealousy"
+203-1289,poli1260,http://concepticon.clld.org/parameters/40,zawiść,"envy, jealousy"
+203-782,poli1260,http://concepticon.clld.org/parameters/1776,wstyd,shame (noun)
+203-1518,poli1260,http://concepticon.clld.org/parameters/1776,wstydliwość,shame (noun)
+203-1274,poli1260,http://concepticon.clld.org/parameters/174,pyszny,proud
+203-1718,poli1260,http://concepticon.clld.org/parameters/174,dumny,proud
+203-1103,poli1260,http://concepticon.clld.org/parameters/1779,(od)ważyć się,dare
+203-517,poli1260,http://concepticon.clld.org/parameters/1779,śmieć,dare
+203-824,poli1260,http://concepticon.clld.org/parameters/3,odważny,brave
+203-1478,poli1260,http://concepticon.clld.org/parameters/3,waleczny,brave
+203-877,poli1260,http://concepticon.clld.org/parameters/3,mężny,brave
+203-397,poli1260,http://concepticon.clld.org/parameters/781,bojaźń,"fear, fright"
+203-1676,poli1260,http://concepticon.clld.org/parameters/781,strach,"fear, fright"
+203-413,poli1260,http://concepticon.clld.org/parameters/781,trwoga,"fear, fright"
+203-80,poli1260,http://concepticon.clld.org/parameters/1810,niebezpieczeństwo,danger
+203-1342,poli1260,http://concepticon.clld.org/parameters/1784,żądać,"desire, want"
+203-66,poli1260,http://concepticon.clld.org/parameters/1784,pożądać,"desire, want"
+203-1650,poli1260,http://concepticon.clld.org/parameters/1784,pragnąć,"desire, want"
+203-851,poli1260,http://concepticon.clld.org/parameters/1750,wybrać,choose
+203-411,poli1260,http://concepticon.clld.org/parameters/1750,wybierać,choose
+203-1006,poli1260,http://concepticon.clld.org/parameters/1092,nadzieja,hope
+203-597,poli1260,http://concepticon.clld.org/parameters/100,wierny,faithful
+203-754,poli1260,http://concepticon.clld.org/parameters/1657,prawda,true
+203-1627,poli1260,http://concepticon.clld.org/parameters/1657,prawdziwy,true
+203-121,poli1260,http://concepticon.clld.org/parameters/601,kłamstwo,"lie, tell lies"
+203-1897,poli1260,http://concepticon.clld.org/parameters/13,oszustwo,deceit
+203-1367,poli1260,http://concepticon.clld.org/parameters/13,szalbierstwo,deceit
+203-676,poli1260,http://concepticon.clld.org/parameters/1528,przebaczyć,forgive
+203-1567,poli1260,http://concepticon.clld.org/parameters/1035,dobry,good
+203-1010,poli1260,http://concepticon.clld.org/parameters/1292,zły,bad
+203-1860,poli1260,http://concepticon.clld.org/parameters/1292,okropny,bad
+203-166,poli1260,http://concepticon.clld.org/parameters/1725,prawy,"right, correct"
+203-536,poli1260,http://concepticon.clld.org/parameters/1725,właściwy,"right, correct"
+203-1010,poli1260,http://concepticon.clld.org/parameters/1390,zły,wrong
+203-20,poli1260,http://concepticon.clld.org/parameters/1390,niewłaściwy,wrong
+203-1741,poli1260,http://concepticon.clld.org/parameters/1390,błędny,wrong
+203-136,poli1260,http://concepticon.clld.org/parameters/134,wina,fault
+203-1589,poli1260,http://concepticon.clld.org/parameters/1293,błąd,"mistake, error"
+203-1709,poli1260,http://concepticon.clld.org/parameters/1293,omyłka,"mistake, error"
+203-139,poli1260,http://concepticon.clld.org/parameters/1293,pomyłka,"mistake, error"
+203-963,poli1260,http://concepticon.clld.org/parameters/381,nagana,blame
+203-136,poli1260,http://concepticon.clld.org/parameters/381,wina,blame
+203-1611,poli1260,http://concepticon.clld.org/parameters/1687,pochwała,praise
+203-476,poli1260,http://concepticon.clld.org/parameters/1427,piękny,beautiful
+203-1269,poli1260,http://concepticon.clld.org/parameters/1427,śliczny,beautiful
+203-488,poli1260,http://concepticon.clld.org/parameters/1427,ładny,beautiful
+203-941,poli1260,http://concepticon.clld.org/parameters/1548,szpetny,ugly
+203-1273,poli1260,http://concepticon.clld.org/parameters/1548,brzydki,ugly
+203-661,poli1260,http://concepticon.clld.org/parameters/2018,chciwy,greedy
+203-905,poli1260,http://concepticon.clld.org/parameters/1310,sprytny,clever
+203-847,poli1260,http://concepticon.clld.org/parameters/1310,bystry,clever
+203-1234,poli1260,http://concepticon.clld.org/parameters/1310,zdolny,clever
+203-352,poli1260,http://concepticon.clld.org/parameters/1562,umysł,mind
+203-876,poli1260,http://concepticon.clld.org/parameters/1415,myśleć,think (= reflect)
+203-876,poli1260,http://concepticon.clld.org/parameters/1513,myśleć,think (= be of the opinion)
+203-1480,poli1260,http://concepticon.clld.org/parameters/1513,mniemać,think (= be of the opinion)
+203-1261,poli1260,http://concepticon.clld.org/parameters/1890,wierzyć,believe
+203-613,poli1260,http://concepticon.clld.org/parameters/1536,(z)rozumieć,understand
+203-576,poli1260,http://concepticon.clld.org/parameters/1410,wiedziéć,know
+203-324,poli1260,http://concepticon.clld.org/parameters/1410,znać,know
+203-870,poli1260,http://concepticon.clld.org/parameters/1932,zgadnąć,guess
+203-140,poli1260,http://concepticon.clld.org/parameters/1932,zgadywać,guess
+203-913,poli1260,http://concepticon.clld.org/parameters/117,naśladować,imitate
+203-1168,poli1260,http://concepticon.clld.org/parameters/117,imitować,imitate
+203-1403,poli1260,http://concepticon.clld.org/parameters/1521,zdać się,seem
+203-736,poli1260,http://concepticon.clld.org/parameters/1521,zdawać się,seem
+203-1710,poli1260,http://concepticon.clld.org/parameters/1609,pomysł,"idea, notion"
+203-1729,poli1260,http://concepticon.clld.org/parameters/1609,koncept,"idea, notion"
+203-1124,poli1260,http://concepticon.clld.org/parameters/1609,idea,"idea, notion"
+203-57,poli1260,http://concepticon.clld.org/parameters/698,mądry,wise
+203-1526,poli1260,http://concepticon.clld.org/parameters/1518,nierozsądny,"foolish, stupid"
+203-1664,poli1260,http://concepticon.clld.org/parameters/1518,głupi,"foolish, stupid"
+203-798,poli1260,http://concepticon.clld.org/parameters/1899,szalony,"insane, crazy"
+203-756,poli1260,http://concepticon.clld.org/parameters/504,uczyć się,learn
+203-12,poli1260,http://concepticon.clld.org/parameters/504,dowiadywać się,learn
+203-756,poli1260,http://concepticon.clld.org/parameters/1929,uczyć się,study
+203-810,poli1260,http://concepticon.clld.org/parameters/1929,studiować,study
+203-55,poli1260,http://concepticon.clld.org/parameters/1929,badać,study
+203-700,poli1260,http://concepticon.clld.org/parameters/709,uczyć,teach
+203-578,poli1260,http://concepticon.clld.org/parameters/709,nauczać,teach
+203-1603,poli1260,http://concepticon.clld.org/parameters/753,uczeń,pupil
+203-1307,poli1260,http://concepticon.clld.org/parameters/1038,nauczyciel,teacher
+203-614,poli1260,http://concepticon.clld.org/parameters/673,szkoła,school
+203-253,poli1260,http://concepticon.clld.org/parameters/707,pamiętać,remember
+203-708,poli1260,http://concepticon.clld.org/parameters/1523,zapomnieć,forget
+203-200,poli1260,http://concepticon.clld.org/parameters/1523,zapominać,forget
+203-1357,poli1260,http://concepticon.clld.org/parameters/989,jasny,"clear, plain"
+203-306,poli1260,http://concepticon.clld.org/parameters/1764,niejasny,obscure
+203-1674,poli1260,http://concepticon.clld.org/parameters/1121,tajny,secret
+203-1737,poli1260,http://concepticon.clld.org/parameters/1121,tajemny,secret
+203-611,poli1260,http://concepticon.clld.org/parameters/509,pewny,"sure, certain"
+203-1327,poli1260,http://concepticon.clld.org/parameters/1626,objaśnić,explain
+203-786,poli1260,http://concepticon.clld.org/parameters/1626,wyjaśnić,explain
+203-185,poli1260,http://concepticon.clld.org/parameters/1626,wytłumaczyć,explain
+203-644,poli1260,http://concepticon.clld.org/parameters/1162,zamiar,"intention, purpose"
+203-342,poli1260,http://concepticon.clld.org/parameters/1162,zamysł,"intention, purpose"
+203-1656,poli1260,http://concepticon.clld.org/parameters/1162,intencja,"intention, purpose"
+203-472,poli1260,http://concepticon.clld.org/parameters/860,przyczyna,cause
+203-1563,poli1260,http://concepticon.clld.org/parameters/860,powód,cause
+203-715,poli1260,http://concepticon.clld.org/parameters/1308,zwątpienie,doubt
+203-97,poli1260,http://concepticon.clld.org/parameters/1308,watpliwość,doubt
+203-538,poli1260,http://concepticon.clld.org/parameters/1841,podejrzenie,suspect
+203-1325,poli1260,http://concepticon.clld.org/parameters/1841,podejrzany,suspect
+203-479,poli1260,http://concepticon.clld.org/parameters/1902,zdradzać,betray
+203-134,poli1260,http://concepticon.clld.org/parameters/1902,zdradzić,betray
+203-939,poli1260,http://concepticon.clld.org/parameters/643,konieczność,"need, necessity"
+203-1898,poli1260,http://concepticon.clld.org/parameters/643,potrzeba,"need, necessity"
+203-983,poli1260,http://concepticon.clld.org/parameters/686,łatwy,easy
+203-841,poli1260,http://concepticon.clld.org/parameters/584,trudny,difficult
+203-990,poli1260,http://concepticon.clld.org/parameters/1812,próbować,"try, attempt"
+203-1433,poli1260,http://concepticon.clld.org/parameters/488,sposób,"way, manner"
+203-1175,poli1260,http://concepticon.clld.org/parameters/488,metoda,"way, manner"
+203-1241,poli1260,http://concepticon.clld.org/parameters/488,maniera,"way, manner"
+203-1792,poli1260,http://concepticon.clld.org/parameters/1577,i,and
+203-1797,poli1260,http://concepticon.clld.org/parameters/1157,ponieważ,because
+203-778,poli1260,http://concepticon.clld.org/parameters/1459,jeśli,if
+203-1531,poli1260,http://concepticon.clld.org/parameters/1459,jeżeli,if
+203-734,poli1260,http://concepticon.clld.org/parameters/1014,lub,or
+203-1411,poli1260,http://concepticon.clld.org/parameters/1014,albo,or
+203-1670,poli1260,http://concepticon.clld.org/parameters/1014,bądź,or
+203-1550,poli1260,http://concepticon.clld.org/parameters/1268,tak,"yes, affirmative"
+203-343,poli1260,http://concepticon.clld.org/parameters/1269,nie,"no, negative"
+203-1255,poli1260,http://concepticon.clld.org/parameters/1239,jak?,how?
+203-290,poli1260,http://concepticon.clld.org/parameters/822,ile,how many?
+203-655,poli1260,http://concepticon.clld.org/parameters/822,ilu?,how many?
+203-452,poli1260,http://concepticon.clld.org/parameters/531,ile?,how much?
+203-273,poli1260,http://concepticon.clld.org/parameters/1236,co?,what?
+203-1448,poli1260,http://concepticon.clld.org/parameters/1238,kiedy?,when?
+203-297,poli1260,http://concepticon.clld.org/parameters/1237,gdzie?,where?
+203-175,poli1260,http://concepticon.clld.org/parameters/727,który?,which?
+203-383,poli1260,http://concepticon.clld.org/parameters/1235,kto?,who?
+203-173,poli1260,http://concepticon.clld.org/parameters/1270,dlaczego?,why?
+203-718,poli1260,http://concepticon.clld.org/parameters/1363,głos,voice
+203-989,poli1260,http://concepticon.clld.org/parameters/1261,śpiewać,sing
+203-995,poli1260,http://concepticon.clld.org/parameters/715,krzyczeć,"shout, cry out"
+203-627,poli1260,http://concepticon.clld.org/parameters/715,wykrzykiwać,"shout, cry out"
+203-1880,poli1260,http://concepticon.clld.org/parameters/55,szept,whisper
+203-1445,poli1260,http://concepticon.clld.org/parameters/55,szeptać,whisper
+203-1429,poli1260,http://concepticon.clld.org/parameters/128,mamrotać,mumble
+203-236,poli1260,http://concepticon.clld.org/parameters/1025,gwizdać,whistle
+203-1197,poli1260,http://concepticon.clld.org/parameters/1025,gwizdnąć,whistle
+203-1717,poli1260,http://concepticon.clld.org/parameters/298,(za)piszczeć,"shriek, screech"
+203-394,poli1260,http://concepticon.clld.org/parameters/526,wyć,howl
+203-299,poli1260,http://concepticon.clld.org/parameters/526,zawodzić,howl
+203-494,poli1260,http://concepticon.clld.org/parameters/1623,mówić,"speak, talk"
+203-998,poli1260,http://concepticon.clld.org/parameters/1623,gadać,"speak, talk"
+203-1645,poli1260,http://concepticon.clld.org/parameters/1623,przemawiać,"speak, talk"
+203-1173,poli1260,http://concepticon.clld.org/parameters/1866,jąkać się,"stutter, stammer"
+203-1683,poli1260,http://concepticon.clld.org/parameters/1458,rzec,say
+203-563,poli1260,http://concepticon.clld.org/parameters/1458,powiedzieć,say
+203-494,poli1260,http://concepticon.clld.org/parameters/1458,mówić,say
+203-1312,poli1260,http://concepticon.clld.org/parameters/1711,opowiadać (historię),tell story
+203-1058,poli1260,http://concepticon.clld.org/parameters/1115,przemówić,speech (make a)
+203-1645,poli1260,http://concepticon.clld.org/parameters/1115,przemawiać,speech (make a)
+203-496,poli1260,http://concepticon.clld.org/parameters/48,milczeć,silent (be)
+203-1553,poli1260,http://concepticon.clld.org/parameters/1307,język,language
+203-464,poli1260,http://concepticon.clld.org/parameters/1599,słowo,word
+203-309,poli1260,http://concepticon.clld.org/parameters/1405,imię,name
+203-1007,poli1260,http://concepticon.clld.org/parameters/1405,nazwa,name
+203-1609,poli1260,http://concepticon.clld.org/parameters/1405,nazwisko,name
+203-1705,poli1260,http://concepticon.clld.org/parameters/1309,pytać,"ask (question, inquire)"
+203-1199,poli1260,http://concepticon.clld.org/parameters/1309,zapytywać,"ask (question, inquire)"
+203-540,poli1260,http://concepticon.clld.org/parameters/1275,odpowiedzieć,answer
+203-289,poli1260,http://concepticon.clld.org/parameters/2022,przyznać,"admit, confess"
+203-36,poli1260,http://concepticon.clld.org/parameters/2022,przyznawać,"admit, confess"
+203-934,poli1260,http://concepticon.clld.org/parameters/755,przeczyć,deny
+203-711,poli1260,http://concepticon.clld.org/parameters/755,zaprzeć się,deny
+203-180,poli1260,http://concepticon.clld.org/parameters/755,zaprzeczać,deny
+203-1723,poli1260,http://concepticon.clld.org/parameters/1828,prosić,"ask, request"
+203-1342,poli1260,http://concepticon.clld.org/parameters/1828,żądać,"ask, request"
+203-1286,poli1260,http://concepticon.clld.org/parameters/1675,obiecać,promise
+203-198,poli1260,http://concepticon.clld.org/parameters/1675,przyrzec,promise
+203-1157,poli1260,http://concepticon.clld.org/parameters/1675,obiecywać,promise
+203-800,poli1260,http://concepticon.clld.org/parameters/49,odmówić,refuse
+203-1003,poli1260,http://concepticon.clld.org/parameters/49,odmawiać,refuse
+203-558,poli1260,http://concepticon.clld.org/parameters/83,zakazać,forbid
+203-1078,poli1260,http://concepticon.clld.org/parameters/83,zabronić,forbid
+203-1434,poli1260,http://concepticon.clld.org/parameters/299,karcić,"rebuke, scold"
+203-399,poli1260,http://concepticon.clld.org/parameters/299,upominać,"rebuke, scold"
+203-1249,poli1260,http://concepticon.clld.org/parameters/299,upomnieć,"rebuke, scold"
+203-1133,poli1260,http://concepticon.clld.org/parameters/1084,(za)wołać,call (=summon)
+203-780,poli1260,http://concepticon.clld.org/parameters/180,nazwać,call (=name)
+203-1360,poli1260,http://concepticon.clld.org/parameters/180,nazywać,call (=name)
+203-24,poli1260,http://concepticon.clld.org/parameters/9,ogłosić,announce
+203-1753,poli1260,http://concepticon.clld.org/parameters/9,obwieścić,announce
+203-1697,poli1260,http://concepticon.clld.org/parameters/9,oznajmić,announce
+203-1299,poli1260,http://concepticon.clld.org/parameters/1192,grozić,threaten
+203-1473,poli1260,http://concepticon.clld.org/parameters/101,chwalić się,boast
+203-1499,poli1260,http://concepticon.clld.org/parameters/101,chełpić się,boast
+203-1339,poli1260,http://concepticon.clld.org/parameters/1672,pisać,write
+203-1588,poli1260,http://concepticon.clld.org/parameters/724,czytać,read
+203-1508,poli1260,http://concepticon.clld.org/parameters/648,papier,paper
+203-887,poli1260,http://concepticon.clld.org/parameters/794,pióro,pen
+203-374,poli1260,http://concepticon.clld.org/parameters/963,ksiażka,book
+203-179,poli1260,http://concepticon.clld.org/parameters/963,księga,book
+203-414,poli1260,http://concepticon.clld.org/parameters/963,książka,book
+203-1851,poli1260,http://concepticon.clld.org/parameters/1045,poeta,poet
+203-1590,poli1260,http://concepticon.clld.org/parameters/777,flet,flute
+203-378,poli1260,http://concepticon.clld.org/parameters/908,bęben,drum
+203-348,poli1260,http://concepticon.clld.org/parameters/908,bębenek,drum
+203-1031,poli1260,http://concepticon.clld.org/parameters/2136,róg,"horn, trumpet"
+203-1801,poli1260,http://concepticon.clld.org/parameters/2136,trąba,"horn, trumpet"
+203-1302,poli1260,http://concepticon.clld.org/parameters/300,turkot,rattle
+203-1912,poli1260,http://concepticon.clld.org/parameters/300,brzęk,rattle
+203-83,poli1260,http://concepticon.clld.org/parameters/300,stukot,rattle
+203-629,poli1260,http://concepticon.clld.org/parameters/1300,kraj,country
+203-1042,poli1260,http://concepticon.clld.org/parameters/1300,państwo,country
+203-1460,poli1260,http://concepticon.clld.org/parameters/1300,ziemia,country
+203-233,poli1260,http://concepticon.clld.org/parameters/89,ojczyzna,one's native country
+203-23,poli1260,http://concepticon.clld.org/parameters/1391,miasto,"city, town"
+203-650,poli1260,http://concepticon.clld.org/parameters/1391,miasteczko,"city, town"
+203-1014,poli1260,http://concepticon.clld.org/parameters/930,wieś,village
+203-190,poli1260,http://concepticon.clld.org/parameters/930,wioska,village
+203-1651,poli1260,http://concepticon.clld.org/parameters/1010,granica,boundary
+203-1721,poli1260,http://concepticon.clld.org/parameters/789,lud,people (populace)
+203-1908,poli1260,http://concepticon.clld.org/parameters/789,naród,people (populace)
+203-241,poli1260,http://concepticon.clld.org/parameters/302,plemię,"tribe, clan"
+203-1032,poli1260,http://concepticon.clld.org/parameters/302,ród,"tribe, clan"
+203-1432,poli1260,http://concepticon.clld.org/parameters/301,wódz,"chief, chieftain"
+203-924,poli1260,http://concepticon.clld.org/parameters/301,szef,"chief, chieftain"
+203-1165,poli1260,http://concepticon.clld.org/parameters/301,kacyk,"chief, chieftain"
+203-796,poli1260,http://concepticon.clld.org/parameters/1296,laska,"staff, walking stick"
+203-1498,poli1260,http://concepticon.clld.org/parameters/1846,rządzić,"rule, govern"
+203-436,poli1260,http://concepticon.clld.org/parameters/1846,władać,"rule, govern"
+203-884,poli1260,http://concepticon.clld.org/parameters/1508,król,"king, ruler"
+203-1884,poli1260,http://concepticon.clld.org/parameters/1508,władca,"king, ruler"
+203-1392,poli1260,http://concepticon.clld.org/parameters/1306,królowa,queen
+203-771,poli1260,http://concepticon.clld.org/parameters/1306,władczyni,queen
+203-1813,poli1260,http://concepticon.clld.org/parameters/482,szlachcic,"noble, nobleman"
+203-274,poli1260,http://concepticon.clld.org/parameters/1032,obywatel,"citizen, subject"
+203-833,poli1260,http://concepticon.clld.org/parameters/383,pan,master
+203-1494,poli1260,http://concepticon.clld.org/parameters/812,niewolnik,slave
+203-628,poli1260,http://concepticon.clld.org/parameters/255,sługa,servant
+203-1695,poli1260,http://concepticon.clld.org/parameters/384,wolny człowiek,freeman
+203-621,poli1260,http://concepticon.clld.org/parameters/1128,rozkazać,"command, order"
+203-931,poli1260,http://concepticon.clld.org/parameters/1128,rozkazywać,"command, order"
+203-56,poli1260,http://concepticon.clld.org/parameters/1128,dowodzić,"command, order"
+203-1333,poli1260,http://concepticon.clld.org/parameters/1635,słuchać,obey
+203-1182,poli1260,http://concepticon.clld.org/parameters/1635,być posłusznym,obey
+203-1904,poli1260,http://concepticon.clld.org/parameters/1003,pozwolić,"let, permit"
+203-395,poli1260,http://concepticon.clld.org/parameters/1325,przyjaciel,"friend, companion"
+203-1363,poli1260,http://concepticon.clld.org/parameters/1358,nieprzyjaciel,enemy
+203-1826,poli1260,http://concepticon.clld.org/parameters/1332,sąsiad,neighbor
+203-974,poli1260,http://concepticon.clld.org/parameters/791,cudzoziemiec,stranger
+203-737,poli1260,http://concepticon.clld.org/parameters/791,obcy,stranger
+203-48,poli1260,http://concepticon.clld.org/parameters/1782,gość,guest
+203-118,poli1260,http://concepticon.clld.org/parameters/1545,gospodarz,host
+203-848,poli1260,http://concepticon.clld.org/parameters/1897,pomóc,"help, aid"
+203-1442,poli1260,http://concepticon.clld.org/parameters/1897,pomoc,"help, aid"
+203-1454,poli1260,http://concepticon.clld.org/parameters/1550,przeszkodzić,"hinder, prevent"
+203-113,poli1260,http://concepticon.clld.org/parameters/1550,zapobiec,"hinder, prevent"
+203-1144,poli1260,http://concepticon.clld.org/parameters/1747,obyczaj,custom
+203-513,poli1260,http://concepticon.clld.org/parameters/1747,zwyczaj,custom
+203-1128,poli1260,http://concepticon.clld.org/parameters/1848,sprzeczka,"strife, quarrel"
+203-548,poli1260,http://concepticon.clld.org/parameters/1848,spór,"strife, quarrel"
+203-1555,poli1260,http://concepticon.clld.org/parameters/1848,kłótnia,"strife, quarrel"
+203-1027,poli1260,http://concepticon.clld.org/parameters/2024,spisek,"conspiracy, plot"
+203-415,poli1260,http://concepticon.clld.org/parameters/2024,knowanie,"conspiracy, plot"
+203-1219,poli1260,http://concepticon.clld.org/parameters/2024,intryga,"conspiracy, plot"
+203-1154,poli1260,http://concepticon.clld.org/parameters/1831,(s)potkać,meet
+203-224,poli1260,http://concepticon.clld.org/parameters/1831,spotkać się,meet
+203-1414,poli1260,http://concepticon.clld.org/parameters/1610,kurwa,prostitute
+203-1452,poli1260,http://concepticon.clld.org/parameters/1610,nierządnica,prostitute
+203-1781,poli1260,http://concepticon.clld.org/parameters/1610,wszetecznica,prostitute
+203-1760,poli1260,http://concepticon.clld.org/parameters/1610,dziwka,prostitute
+203-308,poli1260,http://concepticon.clld.org/parameters/1423,walczyć,fight (vb)
+203-507,poli1260,http://concepticon.clld.org/parameters/1423,bić się,fight (vb)
+203-1616,poli1260,http://concepticon.clld.org/parameters/579,wojna,"war, battle"
+203-533,poli1260,http://concepticon.clld.org/parameters/579,bitwa,"war, battle"
+203-149,poli1260,http://concepticon.clld.org/parameters/1338,pokój,peace
+203-177,poli1260,http://concepticon.clld.org/parameters/1561,wojsko,army
+203-319,poli1260,http://concepticon.clld.org/parameters/1561,armia,army
+203-1311,poli1260,http://concepticon.clld.org/parameters/1941,żołnierz,soldier
+203-554,poli1260,http://concepticon.clld.org/parameters/951,broń,"weapons, arms"
+203-437,poli1260,http://concepticon.clld.org/parameters/951,oręż,"weapons, arms"
+203-1497,poli1260,http://concepticon.clld.org/parameters/1763,pałka,club
+203-325,poli1260,http://concepticon.clld.org/parameters/1763,pała,club
+203-1692,poli1260,http://concepticon.clld.org/parameters/386,topór wojenny,battle-ax
+203-152,poli1260,http://concepticon.clld.org/parameters/387,proca,sling
+203-245,poli1260,http://concepticon.clld.org/parameters/994,łuk,bow
+203-1169,poli1260,http://concepticon.clld.org/parameters/977,strzała,arrow
+203-1679,poli1260,http://concepticon.clld.org/parameters/945,włócznia,spear
+203-1276,poli1260,http://concepticon.clld.org/parameters/945,kopia,spear
+203-1795,poli1260,http://concepticon.clld.org/parameters/1535,miecz,sword
+203-624,poli1260,http://concepticon.clld.org/parameters/1566,strzelba,"gun, cannon"
+203-1675,poli1260,http://concepticon.clld.org/parameters/1566,działo,"gun, cannon"
+203-1035,poli1260,http://concepticon.clld.org/parameters/1566,armata,"gun, cannon"
+203-620,poli1260,http://concepticon.clld.org/parameters/1061,zbroja,armor (defensive)
+203-1522,poli1260,http://concepticon.clld.org/parameters/1680,hełm,helmet
+203-17,poli1260,http://concepticon.clld.org/parameters/1064,tarcza,shield
+203-1008,poli1260,http://concepticon.clld.org/parameters/1938,twierdza,fortress
+203-1358,poli1260,http://concepticon.clld.org/parameters/1938,forteca,fortress
+203-109,poli1260,http://concepticon.clld.org/parameters/1671,wieża,tower
+203-758,poli1260,http://concepticon.clld.org/parameters/783,zwycięstwo,victory
+203-1316,poli1260,http://concepticon.clld.org/parameters/782,porażka,defeat
+203-1605,poli1260,http://concepticon.clld.org/parameters/722,atak,attack
+203-454,poli1260,http://concepticon.clld.org/parameters/1330,obrona,defend
+203-1468,poli1260,http://concepticon.clld.org/parameters/1330,(o)bronić,defend
+203-769,poli1260,http://concepticon.clld.org/parameters/421,rejterada,retreat
+203-1355,poli1260,http://concepticon.clld.org/parameters/421,odwrót,retreat
+203-1763,poli1260,http://concepticon.clld.org/parameters/1696,poddać (się),surrender
+203-915,poli1260,http://concepticon.clld.org/parameters/1072,jeniec,"captive, prisoner"
+203-1019,poli1260,http://concepticon.clld.org/parameters/1940,strażnik,"guard, sentinel"
+203-774,poli1260,http://concepticon.clld.org/parameters/1940,garda,"guard, sentinel"
+203-523,poli1260,http://concepticon.clld.org/parameters/1022,łup (zdobycz),"booty, spoils"
+203-759,poli1260,http://concepticon.clld.org/parameters/65,zasadzka,ambush
+203-1887,poli1260,http://concepticon.clld.org/parameters/1858,rybak,fisherman
+203-1504,poli1260,http://concepticon.clld.org/parameters/1074,haczyk,fishhook
+203-1383,poli1260,http://concepticon.clld.org/parameters/19,żyłka,fishing line
+203-1092,poli1260,http://concepticon.clld.org/parameters/388,sieć na ryby,fishnet
+203-959,poli1260,http://concepticon.clld.org/parameters/2013,przynęta,bait
+203-106,poli1260,http://concepticon.clld.org/parameters/1435,(po)łów,hunt
+203-1400,poli1260,http://concepticon.clld.org/parameters/1435,łowić,hunt
+203-132,poli1260,http://concepticon.clld.org/parameters/1172,strzelać,shoot
+203-1090,poli1260,http://concepticon.clld.org/parameters/1172,strzelić,shoot
+203-516,poli1260,http://concepticon.clld.org/parameters/161,(s)pudłować,miss (target)
+203-710,poli1260,http://concepticon.clld.org/parameters/161,nie trafiać,miss (target)
+203-601,poli1260,http://concepticon.clld.org/parameters/1075,pułapka,trap (noun)
+203-1798,poli1260,http://concepticon.clld.org/parameters/1075,sidła,trap (noun)
+203-214,poli1260,http://concepticon.clld.org/parameters/1075,wnyki,trap (noun)
+203-637,poli1260,http://concepticon.clld.org/parameters/1170,zastawi(a)ć pułapkę,trap (vb)
+203-163,poli1260,http://concepticon.clld.org/parameters/1062,prawo,law
+203-600,poli1260,http://concepticon.clld.org/parameters/1068,sąd,court
+203-101,poli1260,http://concepticon.clld.org/parameters/1818,sądzić,judge (vb)
+203-919,poli1260,http://concepticon.clld.org/parameters/1067,wyrok,judgment
+203-1238,poli1260,http://concepticon.clld.org/parameters/861,sędzia,judge (noun)
+203-445,poli1260,http://concepticon.clld.org/parameters/2020,skarżący,plaintiff
+203-1563,poli1260,http://concepticon.clld.org/parameters/2020,powód,plaintiff
+203-1178,poli1260,http://concepticon.clld.org/parameters/1034,oskarżony,defendant
+203-1097,poli1260,http://concepticon.clld.org/parameters/1144,świadek,witness
+203-87,poli1260,http://concepticon.clld.org/parameters/1939,przysięgać,swear
+203-692,poli1260,http://concepticon.clld.org/parameters/1939,kląć się,swear
+203-326,poli1260,http://concepticon.clld.org/parameters/1712,przysięga,oath
+203-1886,poli1260,http://concepticon.clld.org/parameters/1814,oskarżyć,accuse
+203-647,poli1260,http://concepticon.clld.org/parameters/1814,obwinić,accuse
+203-1509,poli1260,http://concepticon.clld.org/parameters/1814,oskarżać,accuse
+203-1279,poli1260,http://concepticon.clld.org/parameters/1814,obwiniać,accuse
+203-420,poli1260,http://concepticon.clld.org/parameters/484,skazać,condemn
+203-1315,poli1260,http://concepticon.clld.org/parameters/484,osadzić,condemn
+203-1309,poli1260,http://concepticon.clld.org/parameters/484,potępi(a)ć,condemn
+203-508,poli1260,http://concepticon.clld.org/parameters/983,przekonać,convict (vb)
+203-1747,poli1260,http://concepticon.clld.org/parameters/988,uznać niewinnyn,acquit
+203-114,poli1260,http://concepticon.clld.org/parameters/1682,winny,guilty
+203-1873,poli1260,http://concepticon.clld.org/parameters/90,niewinny,innocent
+203-1183,poli1260,http://concepticon.clld.org/parameters/390,kara,"penalty, punishment"
+203-201,poli1260,http://concepticon.clld.org/parameters/218,kara pieniężna,fine
+203-283,poli1260,http://concepticon.clld.org/parameters/218,mandat,fine
+203-93,poli1260,http://concepticon.clld.org/parameters/1281,więzienie,"prison, jail"
+203-1356,poli1260,http://concepticon.clld.org/parameters/845,zabójstwo,murder
+203-1052,poli1260,http://concepticon.clld.org/parameters/845,mord,murder
+203-1244,poli1260,http://concepticon.clld.org/parameters/845,morderstwo,murder
+203-1221,poli1260,http://concepticon.clld.org/parameters/902,cudzołóstwo,adultery
+203-1624,poli1260,http://concepticon.clld.org/parameters/953,zgwałcenie,rape
+203-550,poli1260,http://concepticon.clld.org/parameters/953,gwałt,rape
+203-293,poli1260,http://concepticon.clld.org/parameters/953,gwałcić,rape
+203-1554,poli1260,http://concepticon.clld.org/parameters/1889,podpalenie,arson
+203-557,poli1260,http://concepticon.clld.org/parameters/1792,krzywoprzysięstwo,perjury
+203-641,poli1260,http://concepticon.clld.org/parameters/713,(u)kraść,steal
+203-126,poli1260,http://concepticon.clld.org/parameters/1160,złodziej,thief
+203-660,poli1260,http://concepticon.clld.org/parameters/661,religia,religion
+203-1754,poli1260,http://concepticon.clld.org/parameters/1944,bóg,God
+203-1409,poli1260,http://concepticon.clld.org/parameters/911,świątynia,"temple, church"
+203-320,poli1260,http://concepticon.clld.org/parameters/911,kościół,"temple, church"
+203-176,poli1260,http://concepticon.clld.org/parameters/853,ołtarz,altar
+203-1635,poli1260,http://concepticon.clld.org/parameters/1103,ofiara,"sacrifice, offering"
+203-162,poli1260,http://concepticon.clld.org/parameters/257,czcić,worship
+203-1628,poli1260,http://concepticon.clld.org/parameters/257,wielbić,worship
+203-985,poli1260,http://concepticon.clld.org/parameters/257,adorować,worship
+203-197,poli1260,http://concepticon.clld.org/parameters/24,modlić się,pray
+203-153,poli1260,http://concepticon.clld.org/parameters/852,ksiądz,priest
+203-1791,poli1260,http://concepticon.clld.org/parameters/1702,święty,"holy, sacred"
+203-1730,poli1260,http://concepticon.clld.org/parameters/304,kazać,preach
+203-1084,poli1260,http://concepticon.clld.org/parameters/304,prawić kazanie,preach
+203-168,poli1260,http://concepticon.clld.org/parameters/391,błogosławić,bless
+203-89,poli1260,http://concepticon.clld.org/parameters/391,błogosławieństwo,bless
+203-432,poli1260,http://concepticon.clld.org/parameters/8,przekląć,curse
+203-788,poli1260,http://concepticon.clld.org/parameters/8,przeklinać,curse
+203-863,poli1260,http://concepticon.clld.org/parameters/303,pościć,fast (vb)
+203-135,poli1260,http://concepticon.clld.org/parameters/1565,niebo,heaven
+203-1422,poli1260,http://concepticon.clld.org/parameters/878,piekło,hell
+203-47,poli1260,http://concepticon.clld.org/parameters/1973,zły duch,demon (evil spirit)
+203-1576,poli1260,http://concepticon.clld.org/parameters/1973,demon,demon (evil spirit)
+203-311,poli1260,http://concepticon.clld.org/parameters/1973,diabeł,demon (evil spirit)
+203-958,poli1260,http://concepticon.clld.org/parameters/1945,bałwan,idol
+203-1861,poli1260,http://concepticon.clld.org/parameters/1945,bożek,idol
+203-1893,poli1260,http://concepticon.clld.org/parameters/1945,idol,idol
+203-1485,poli1260,http://concepticon.clld.org/parameters/392,magia,"magic, witchcraft, sorcery"
+203-1137,poli1260,http://concepticon.clld.org/parameters/392,czary,"magic, witchcraft, sorcery"
+203-1906,poli1260,http://concepticon.clld.org/parameters/392,czarodziejstwo,"magic, witchcraft, sorcery"
+203-1702,poli1260,http://concepticon.clld.org/parameters/392,gusła,"magic, witchcraft, sorcery"
+203-1891,poli1260,http://concepticon.clld.org/parameters/2137,czarownica,"sorcerer, witch"
+203-1268,poli1260,http://concepticon.clld.org/parameters/2137,strzyga,"sorcerer, witch"
+203-675,poli1260,http://concepticon.clld.org/parameters/2138,boginka,"fairy, elf"
+203-398,poli1260,http://concepticon.clld.org/parameters/2138,rusałka,"fairy, elf"
+203-1455,poli1260,http://concepticon.clld.org/parameters/1175,widmo,"ghost, phantom"
+203-1676,poli1260,http://concepticon.clld.org/parameters/1175,strach,"ghost, phantom"
+203-873,poli1260,http://concepticon.clld.org/parameters/107,wróżba,"omen, portent"
+203-1712,poli1260,http://concepticon.clld.org/parameters/107,zły znak,"omen, portent"

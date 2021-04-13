@@ -1,0 +1,1424 @@
+ID,Language_ID,Feature_ID,Value,Concept
+317-515,chec1245,http://concepticon.clld.org/parameters/965,дуьне,world
+317-993,chec1245,http://concepticon.clld.org/parameters/965,машар,world
+317-515,chec1245,http://concepticon.clld.org/parameters/626,дуьне,"earth, land"
+317-505,chec1245,http://concepticon.clld.org/parameters/626,лятта,"earth, land"
+317-450,chec1245,http://concepticon.clld.org/parameters/626,мохк,"earth, land"
+317-505,chec1245,http://concepticon.clld.org/parameters/1228,лятта,"earth=ground, soil"
+317-460,chec1245,http://concepticon.clld.org/parameters/2,чанг,dust
+317-589,chec1245,http://concepticon.clld.org/parameters/640,мода,mud
+317-41,chec1245,http://concepticon.clld.org/parameters/640,хотт,mud
+317-607,chec1245,http://concepticon.clld.org/parameters/671,гІум,sand
+317-421,chec1245,http://concepticon.clld.org/parameters/2118,лам,"mountain, hill"
+317-68,chec1245,http://concepticon.clld.org/parameters/618,берд,"cliff, precipice"
+317-341,chec1245,http://concepticon.clld.org/parameters/618,тарх,"cliff, precipice"
+317-1084,chec1245,http://concepticon.clld.org/parameters/652,а̄ре,"plain, field"
+317-317,chec1245,http://concepticon.clld.org/parameters/921,а̄тагІа,valley
+317-373,chec1245,http://concepticon.clld.org/parameters/622,гІайре,island
+317-663,chec1245,http://concepticon.clld.org/parameters/166,континент,mainland
+317-409,chec1245,http://concepticon.clld.org/parameters/113,хи йист,shore
+317-780,chec1245,http://concepticon.clld.org/parameters/1155,хьех,cave
+317-416,chec1245,http://concepticon.clld.org/parameters/948,хи,water
+317-321,chec1245,http://concepticon.clld.org/parameters/1474,хІорд,sea
+317-427,chec1245,http://concepticon.clld.org/parameters/258,тин,calm (of sea)
+317-1019,chec1245,http://concepticon.clld.org/parameters/259,карзахдаьлла,rough (of sea)
+317-1239,chec1245,http://concepticon.clld.org/parameters/1768,чопа,foam
+317-321,chec1245,http://concepticon.clld.org/parameters/645,хІорд,ocean
+317-371,chec1245,http://concepticon.clld.org/parameters/624,Іам,lake
+317-944,chec1245,http://concepticon.clld.org/parameters/663,айма,"gulf, bay"
+317-976,chec1245,http://concepticon.clld.org/parameters/623,—,lagoon
+317-134,chec1245,http://concepticon.clld.org/parameters/660,хи бухари тархыш,reef
+317-399,chec1245,http://concepticon.clld.org/parameters/1662,хьорд йуккхер а̄ре,"headland, point"
+317-1089,chec1245,http://concepticon.clld.org/parameters/978,тулгІе,wave
+317-917,chec1245,http://concepticon.clld.org/parameters/891,хІорд тІеххетар а,tide
+317-844,chec1245,http://concepticon.clld.org/parameters/891,чубожар а,tide
+317-423,chec1245,http://concepticon.clld.org/parameters/1026,чудожыр,lowtide
+317-330,chec1245,http://concepticon.clld.org/parameters/613,хи да̄р,hightide
+317-928,chec1245,http://concepticon.clld.org/parameters/666,та̄тол,"river, stream, brook"
+317-416,chec1245,http://concepticon.clld.org/parameters/666,хи,"river, stream, brook"
+317-19,chec1245,http://concepticon.clld.org/parameters/1982,кІуркІмани,whirlpool
+317-494,chec1245,http://concepticon.clld.org/parameters/2144,хьаст,"spring, well"
+317-757,chec1245,http://concepticon.clld.org/parameters/2144,гІӯ,"spring, well"
+317-580,chec1245,http://concepticon.clld.org/parameters/1145,ишыл,swamp
+317-1196,chec1245,http://concepticon.clld.org/parameters/943,чухчари,waterfall
+317-504,chec1245,http://concepticon.clld.org/parameters/420,хьу,"woods, forest"
+317-929,chec1245,http://concepticon.clld.org/parameters/906,ма̄ргІал,tree (cf 08.600)
+317-218,chec1245,http://concepticon.clld.org/parameters/1803,дечк,wood
+317-836,chec1245,http://concepticon.clld.org/parameters/2125,къераг,"stone, rock"
+317-341,chec1245,http://concepticon.clld.org/parameters/2125,тарх,"stone, rock"
+317-348,chec1245,http://concepticon.clld.org/parameters/6,мокк бе̄гор,earthquake
+317-1268,chec1245,http://concepticon.clld.org/parameters/1732,сигл,sky
+317-113,chec1245,http://concepticon.clld.org/parameters/1343,малх,sun
+317-98,chec1245,http://concepticon.clld.org/parameters/1313,бутт,moon
+317-531,chec1245,http://concepticon.clld.org/parameters/1430,седа,star
+317-719,chec1245,http://concepticon.clld.org/parameters/1654,дзІай,lightning
+317-590,chec1245,http://concepticon.clld.org/parameters/1150,де къехьин,thunder
+317-168,chec1245,http://concepticon.clld.org/parameters/2007,ткъев седа,lightning (as striking)
+317-1200,chec1245,http://concepticon.clld.org/parameters/858,дарц,storm
+317-1154,chec1245,http://concepticon.clld.org/parameters/1733,стелаІад,rainbow
+317-411,chec1245,http://concepticon.clld.org/parameters/630,серло,light (noun)
+317-554,chec1245,http://concepticon.clld.org/parameters/11,Іаьржо,darkness
+317-529,chec1245,http://concepticon.clld.org/parameters/1388,ІиндагІ,"shade, shadow"
+317-292,chec1245,http://concepticon.clld.org/parameters/1977,тхен,dew
+317-1072,chec1245,http://concepticon.clld.org/parameters/27,хІаваъ,air
+317-488,chec1245,http://concepticon.clld.org/parameters/960,мог,wind
+317-658,chec1245,http://concepticon.clld.org/parameters/1489,маркаш,cloud
+317-18,chec1245,http://concepticon.clld.org/parameters/249,дохк,fog
+317-1142,chec1245,http://concepticon.clld.org/parameters/658,догІа,rain (noun)
+317-336,chec1245,http://concepticon.clld.org/parameters/784,лов,snow (noun)
+317-1106,chec1245,http://concepticon.clld.org/parameters/617,ша,ice
+317-1072,chec1245,http://concepticon.clld.org/parameters/952,хІаваъ,weather
+317-189,chec1245,http://concepticon.clld.org/parameters/221,цΙе,fire
+317-388,chec1245,http://concepticon.clld.org/parameters/889,алу,flame (noun)
+317-825,chec1245,http://concepticon.clld.org/parameters/778,кΙур,smoke (noun)
+317-133,chec1245,http://concepticon.clld.org/parameters/646,чилг,ashes
+317-89,chec1245,http://concepticon.clld.org/parameters/67,кІора,embers
+317-103,chec1245,http://concepticon.clld.org/parameters/141,да̄го Іийжо,burn (vb trans)
+317-394,chec1245,http://concepticon.clld.org/parameters/1428,йа̄га,burn (vb intrans)
+317-1074,chec1245,http://concepticon.clld.org/parameters/737,лато,"light, kindle, ignite"
+317-250,chec1245,http://concepticon.clld.org/parameters/127,бавув,extinguish
+317-1021,chec1245,http://concepticon.clld.org/parameters/1133,синк,match (noun)
+317-218,chec1245,http://concepticon.clld.org/parameters/10,дечк,firewood
+317-971,chec1245,http://concepticon.clld.org/parameters/1188,дечк кІор,charcoal
+317-1100,chec1245,http://concepticon.clld.org/parameters/683,адам,"person, human being"
+317-950,chec1245,http://concepticon.clld.org/parameters/683,саг,"person, human being"
+317-950,chec1245,http://concepticon.clld.org/parameters/1554,саг,man (vs. woman)
+317-227,chec1245,http://concepticon.clld.org/parameters/962,сеск,woman
+317-778,chec1245,http://concepticon.clld.org/parameters/2263,борш хІам,male
+317-135,chec1245,http://concepticon.clld.org/parameters/2260,сев хІам,female
+317-1104,chec1245,http://concepticon.clld.org/parameters/1366,кІетаг,boy
+317-269,chec1245,http://concepticon.clld.org/parameters/76,кІант,young man (adolescent)
+317-146,chec1245,http://concepticon.clld.org/parameters/1646,йоІыг,girl
+317-1031,chec1245,http://concepticon.clld.org/parameters/77,йоІаг,young woman (adolescent)
+317-361,chec1245,http://concepticon.clld.org/parameters/1304,бера,child
+317-619,chec1245,http://concepticon.clld.org/parameters/1289,бер,"infant, baby"
+317-940,chec1245,http://concepticon.clld.org/parameters/1200,ма̄р,husband
+317-362,chec1245,http://concepticon.clld.org/parameters/1199,се̄саг,wife
+317-1027,chec1245,http://concepticon.clld.org/parameters/203,ма̄ре йаха,marry
+317-1010,chec1245,http://concepticon.clld.org/parameters/203,да̄ло,marry
+317-839,chec1245,http://concepticon.clld.org/parameters/1259,той,"marriage, wedding"
+317-232,chec1245,http://concepticon.clld.org/parameters/1134,цІа йара,divorce
+317-174,chec1245,http://concepticon.clld.org/parameters/1217,да̄,father
+317-1237,chec1245,http://concepticon.clld.org/parameters/1216,нана,mother
+317-291,chec1245,http://concepticon.clld.org/parameters/505,да̄-на̄на,parents
+317-555,chec1245,http://concepticon.clld.org/parameters/424,сеск йа̄мийна,married man
+317-565,chec1245,http://concepticon.clld.org/parameters/426,ма̄рехь йон сеск,married woman
+317-269,chec1245,http://concepticon.clld.org/parameters/1620,кІант,son
+317-146,chec1245,http://concepticon.clld.org/parameters/1357,йоІыг,daughter
+317-254,chec1245,http://concepticon.clld.org/parameters/1801,бе̄раш,offspring (son or daughter)
+317-894,chec1245,http://concepticon.clld.org/parameters/1262,ваша,brother
+317-1192,chec1245,http://concepticon.clld.org/parameters/1759,воккха ваша,older brother
+317-543,chec1245,http://concepticon.clld.org/parameters/1760,зимиг ваш,younger brother
+317-484,chec1245,http://concepticon.clld.org/parameters/1263,йиша,sister
+317-446,chec1245,http://concepticon.clld.org/parameters/1758,йоккха йиша,older sister
+317-141,chec1245,http://concepticon.clld.org/parameters/1761,зимиг йиша,younger sister
+317-894,chec1245,http://concepticon.clld.org/parameters/1640,ваша,sibling
+317-484,chec1245,http://concepticon.clld.org/parameters/1640,йиша,sibling
+317-1017,chec1245,http://concepticon.clld.org/parameters/1005,шала бинарш,twins
+317-700,chec1245,http://concepticon.clld.org/parameters/1383,де̄-да̄,grandfather
+317-665,chec1245,http://concepticon.clld.org/parameters/1383,не̄н-да̄,grandfather
+317-443,chec1245,http://concepticon.clld.org/parameters/406,боккх саг,old man
+317-800,chec1245,http://concepticon.clld.org/parameters/1496,ба̄ба,grandmother
+317-200,chec1245,http://concepticon.clld.org/parameters/907,локкха саг,old woman
+317-396,chec1245,http://concepticon.clld.org/parameters/1618,кІант кІант,grandson
+317-857,chec1245,http://concepticon.clld.org/parameters/1618,йоІ кІант,grandson
+317-706,chec1245,http://concepticon.clld.org/parameters/1619,кІант йоІ,granddaughter
+317-1147,chec1245,http://concepticon.clld.org/parameters/1619,йоІ,granddaughter
+317-889,chec1245,http://concepticon.clld.org/parameters/1327,ваши,uncle
+317-869,chec1245,http://concepticon.clld.org/parameters/1984,не̄на ваша,mother's brother
+317-852,chec1245,http://concepticon.clld.org/parameters/1985,дяци ваш,father's brother
+317-489,chec1245,http://concepticon.clld.org/parameters/1272,йиши,aunt
+317-489,chec1245,http://concepticon.clld.org/parameters/171,йиши,mother's sister
+317-1037,chec1245,http://concepticon.clld.org/parameters/171,нēна йиша,mother's sister
+317-787,chec1245,http://concepticon.clld.org/parameters/170,дяци,father's sister
+317-154,chec1245,http://concepticon.clld.org/parameters/170,де̄ йиша,father's sister
+317-567,chec1245,http://concepticon.clld.org/parameters/1063,веши кІетыг,nephew
+317-130,chec1245,http://concepticon.clld.org/parameters/1063,йиши кІетыг,nephew
+317-935,chec1245,http://concepticon.clld.org/parameters/1642,веши йоІ,niece
+317-646,chec1245,http://concepticon.clld.org/parameters/1642,йиши йоІ,niece
+317-1005,chec1245,http://concepticon.clld.org/parameters/1643,шича,cousin
+317-1003,chec1245,http://concepticon.clld.org/parameters/1669,дай,ancestors
+317-751,chec1245,http://concepticon.clld.org/parameters/490,тІаьхье,descendants
+317-1260,chec1245,http://concepticon.clld.org/parameters/2255,ма̄р да̄,father-in-law (of a man)
+317-1260,chec1245,http://concepticon.clld.org/parameters/2254,ма̄р да̄,father-in-law (of a woman)
+317-1267,chec1245,http://concepticon.clld.org/parameters/2256,ма̄р на̄на,mother-in-law (of a man)
+317-165,chec1245,http://concepticon.clld.org/parameters/2257,стун на̄на,mother-in-law (of a woman)
+317-472,chec1245,http://concepticon.clld.org/parameters/2267,нуц,son-in-law (of a man)
+317-472,chec1245,http://concepticon.clld.org/parameters/2266,нуц,son-in-law (of a woman)
+317-942,chec1245,http://concepticon.clld.org/parameters/2265,нус,daughter-in-law (of a man)
+317-942,chec1245,http://concepticon.clld.org/parameters/2264,нус,daughter-in-law (of a woman)
+317-211,chec1245,http://concepticon.clld.org/parameters/237,няна ма̄р,stepfather
+317-1093,chec1245,http://concepticon.clld.org/parameters/236,де сеск,stepmother
+317-258,chec1245,http://concepticon.clld.org/parameters/1059,мер кІетыг,stepson
+317-984,chec1245,http://concepticon.clld.org/parameters/1058,ме̄ра йоІ,stepdaughter
+317-70,chec1245,http://concepticon.clld.org/parameters/1149,да̄на̄н воцуре,orphan
+317-656,chec1245,http://concepticon.clld.org/parameters/1149,беди,orphan
+317-777,chec1245,http://concepticon.clld.org/parameters/1756,же̄ро,widow
+317-74,chec1245,http://concepticon.clld.org/parameters/1756,иисна сеса,widow
+317-1171,chec1245,http://concepticon.clld.org/parameters/1981,сеск елнарг,widower
+317-1187,chec1245,http://concepticon.clld.org/parameters/1644,пергал на̄к,"relatives, kinsmen"
+317-788,chec1245,http://concepticon.clld.org/parameters/194,дезал,family
+317-1043,chec1245,http://concepticon.clld.org/parameters/1209,со,I
+317-491,chec1245,http://concepticon.clld.org/parameters/1215,хьо,you (singular)
+317-273,chec1245,http://concepticon.clld.org/parameters/262,иза,he/she/it
+317-1235,chec1245,http://concepticon.clld.org/parameters/1212,вай,we
+317-1235,chec1245,http://concepticon.clld.org/parameters/1131,вай,we (inclusive)
+317-779,chec1245,http://concepticon.clld.org/parameters/1130,тхо,we (exclusive)
+317-55,chec1245,http://concepticon.clld.org/parameters/1213,жу,you (plural)
+317-1059,chec1245,http://concepticon.clld.org/parameters/1213,шу,you (plural)
+317-444,chec1245,http://concepticon.clld.org/parameters/817,иш,they
+317-811,chec1245,http://concepticon.clld.org/parameters/619,хьайба,animal
+317-923,chec1245,http://concepticon.clld.org/parameters/2261,божри,male (adj)
+317-390,chec1245,http://concepticon.clld.org/parameters/2262,сески,female (adj)
+317-1228,chec1245,http://concepticon.clld.org/parameters/631,даьхни,livestock
+317-80,chec1245,http://concepticon.clld.org/parameters/631,хьайбанш,livestock
+317-1058,chec1245,http://concepticon.clld.org/parameters/649,бежынш дажо меттиг,pasture
+317-296,chec1245,http://concepticon.clld.org/parameters/649,бежни аре,pasture
+317-143,chec1245,http://concepticon.clld.org/parameters/263,Іу,herdsman
+317-244,chec1245,http://concepticon.clld.org/parameters/851,божыл,"stable, stall"
+317-236,chec1245,http://concepticon.clld.org/parameters/851,ога,"stable, stall"
+317-1228,chec1245,http://concepticon.clld.org/parameters/1153,даьхни,cattle (bovine)
+317-922,chec1245,http://concepticon.clld.org/parameters/1008,сту,bull
+317-922,chec1245,http://concepticon.clld.org/parameters/1169,сту,ox
+317-357,chec1245,http://concepticon.clld.org/parameters/1007,ешт,cow
+317-957,chec1245,http://concepticon.clld.org/parameters/1989,Іес,calf
+317-1126,chec1245,http://concepticon.clld.org/parameters/1331,устх,sheep
+317-1126,chec1245,http://concepticon.clld.org/parameters/1344,устх,ram
+317-1126,chec1245,http://concepticon.clld.org/parameters/1345,устх,ewe
+317-17,chec1245,http://concepticon.clld.org/parameters/820,чухылг,lamb
+317-620,chec1245,http://concepticon.clld.org/parameters/1348,хьакх,boar
+317-620,chec1245,http://concepticon.clld.org/parameters/1351,хьакх,sow (2)
+317-620,chec1245,http://concepticon.clld.org/parameters/1337,хьакх,pig
+317-546,chec1245,http://concepticon.clld.org/parameters/1502,га̄з,goat
+317-572,chec1245,http://concepticon.clld.org/parameters/264,бож,he-goat
+317-191,chec1245,http://concepticon.clld.org/parameters/1972,буьхьиг,kid
+317-1088,chec1245,http://concepticon.clld.org/parameters/615,говр,horse (equine)
+317-123,chec1245,http://concepticon.clld.org/parameters/936,айгІыр,stallion
+317-1045,chec1245,http://concepticon.clld.org/parameters/938,кхела,mare
+317-1082,chec1245,http://concepticon.clld.org/parameters/1647,бекъа,"foal, colt"
+317-360,chec1245,http://concepticon.clld.org/parameters/1862,вир,"ass, donkey"
+317-741,chec1245,http://concepticon.clld.org/parameters/890,бІарз,mule
+317-865,chec1245,http://concepticon.clld.org/parameters/265,зІакардаьхни,fowl
+317-169,chec1245,http://concepticon.clld.org/parameters/1511,боргІал,"cock, rooster"
+317-1083,chec1245,http://concepticon.clld.org/parameters/1514,ко̄там,hen
+317-97,chec1245,http://concepticon.clld.org/parameters/1318,кІо̄рни,chicken
+317-1188,chec1245,http://concepticon.clld.org/parameters/1187,гІа̄з,goose
+317-824,chec1245,http://concepticon.clld.org/parameters/1360,бад,duck
+317-793,chec1245,http://concepticon.clld.org/parameters/539,бІе,nest
+317-832,chec1245,http://concepticon.clld.org/parameters/937,хІазылдыг,bird
+317-506,chec1245,http://concepticon.clld.org/parameters/950,хин олхзыр,seagull
+317-1178,chec1245,http://concepticon.clld.org/parameters/758,олхзыр,heron
+317-534,chec1245,http://concepticon.clld.org/parameters/1905,кёр,eagle
+317-849,chec1245,http://concepticon.clld.org/parameters/307,кюр,hawk
+317-849,chec1245,http://concepticon.clld.org/parameters/1185,кюр,vulture
+317-827,chec1245,http://concepticon.clld.org/parameters/1793,бирдалг,bat
+317-283,chec1245,http://concepticon.clld.org/parameters/882,тоти,parrot
+317-465,chec1245,http://concepticon.clld.org/parameters/913,къиг,crow
+317-1269,chec1245,http://concepticon.clld.org/parameters/1853,кхокка,dove
+317-1207,chec1245,http://concepticon.clld.org/parameters/735,бухІ,owl
+317-1038,chec1245,http://concepticon.clld.org/parameters/2009,жІали,dog
+317-1180,chec1245,http://concepticon.clld.org/parameters/1136,ихьагал,rabbit
+317-1060,chec1245,http://concepticon.clld.org/parameters/1208,цицыг,cat
+317-976,chec1245,http://concepticon.clld.org/parameters/309,—,opossum
+317-1249,chec1245,http://concepticon.clld.org/parameters/2139,дахка,"mouse, rat"
+317-990,chec1245,http://concepticon.clld.org/parameters/227,чапка,fish
+317-761,chec1245,http://concepticon.clld.org/parameters/213,пелг,fin (dorsal)
+317-137,chec1245,http://concepticon.clld.org/parameters/266,чІери пелагаш,fishscale
+317-758,chec1245,http://concepticon.clld.org/parameters/1916,жІарыи,gill
+317-967,chec1245,http://concepticon.clld.org/parameters/598,лахьорч,shell
+317-851,chec1245,http://concepticon.clld.org/parameters/1110,бокх чІа̄р,shark
+317-53,chec1245,http://concepticon.clld.org/parameters/1110,акула,shark
+317-1251,chec1245,http://concepticon.clld.org/parameters/1479,хІорд дийнт,"porpoise, dolphin"
+317-612,chec1245,http://concepticon.clld.org/parameters/1479,делфин,"porpoise, dolphin"
+317-877,chec1245,http://concepticon.clld.org/parameters/957,кит,whale
+317-295,chec1245,http://concepticon.clld.org/parameters/1910,хІорда чІа̄р,stingray
+317-434,chec1245,http://concepticon.clld.org/parameters/1013,жІаьле чІа̄р,freshwater eel
+317-1134,chec1245,http://concepticon.clld.org/parameters/522,борз,wolf
+317-421,chec1245,http://concepticon.clld.org/parameters/1386,лам,lion
+317-30,chec1245,http://concepticon.clld.org/parameters/1820,ча,bear
+317-726,chec1245,http://concepticon.clld.org/parameters/1312,цхьогыл,fox
+317-131,chec1245,http://concepticon.clld.org/parameters/1936,шоьккари,deer
+317-1167,chec1245,http://concepticon.clld.org/parameters/1350,маймыл,monkey
+317-736,chec1245,http://concepticon.clld.org/parameters/1290,пил,elephant
+317-25,chec1245,http://concepticon.clld.org/parameters/1871,эмкыл,camel
+317-695,chec1245,http://concepticon.clld.org/parameters/620,са дол хІам,insect
+317-949,chec1245,http://concepticon.clld.org/parameters/310,меза,louse
+317-278,chec1245,http://concepticon.clld.org/parameters/267,хинж,nit (louse egg)
+317-111,chec1245,http://concepticon.clld.org/parameters/232,сагыл,flea
+317-1097,chec1245,http://concepticon.clld.org/parameters/1974,шаролг,centipede
+317-1170,chec1245,http://concepticon.clld.org/parameters/1538,сту лоцу гезг,scorpion
+317-965,chec1245,http://concepticon.clld.org/parameters/1575,чхьавырг,cockroach
+317-1230,chec1245,http://concepticon.clld.org/parameters/587,зункт,ant
+317-733,chec1245,http://concepticon.clld.org/parameters/843,гезг,spider
+317-272,chec1245,http://concepticon.clld.org/parameters/1065,гезгмаш,spider web
+317-125,chec1245,http://concepticon.clld.org/parameters/665,накхармоз,bee
+317-346,chec1245,http://concepticon.clld.org/parameters/1931,ба̄лоз,beeswax
+317-1198,chec1245,http://concepticon.clld.org/parameters/88,накх,beehive
+317-689,chec1245,http://concepticon.clld.org/parameters/1517,зІӯга,wasp
+317-486,chec1245,http://concepticon.clld.org/parameters/1504,моз,fly
+317-73,chec1245,http://concepticon.clld.org/parameters/95,чирк,"sandfly (midge), gnat"
+317-73,chec1245,http://concepticon.clld.org/parameters/1509,чирк,mosquito
+317-207,chec1245,http://concepticon.clld.org/parameters/1219,нІана,worm
+317-855,chec1245,http://concepticon.clld.org/parameters/730,лаьхьа,snake
+317-1210,chec1245,http://concepticon.clld.org/parameters/730,бхІекхІам,snake
+317-1145,chec1245,http://concepticon.clld.org/parameters/206,бумбари,firefly
+317-815,chec1245,http://concepticon.clld.org/parameters/1791,полл,butterfly
+317-463,chec1245,http://concepticon.clld.org/parameters/607,цапцылг,grasshopper
+317-20,chec1245,http://concepticon.clld.org/parameters/1543,итмаьІиг,snail
+317-327,chec1245,http://concepticon.clld.org/parameters/503,пхьид,frog
+317-126,chec1245,http://concepticon.clld.org/parameters/632,мелкъ,lizard
+317-1086,chec1245,http://concepticon.clld.org/parameters/1857,саьрмик,"crocodile, alligator"
+317-145,chec1245,http://concepticon.clld.org/parameters/112,уьнтІапххьид,turtle
+317-474,chec1245,http://concepticon.clld.org/parameters/1480,дегІ,body
+317-959,chec1245,http://concepticon.clld.org/parameters/763,цІо̄к,"skin, hide"
+317-474,chec1245,http://concepticon.clld.org/parameters/2259,дегІ,flesh
+317-32,chec1245,http://concepticon.clld.org/parameters/1040,чо,hair (head)
+317-916,chec1245,http://concepticon.clld.org/parameters/678,маж,beard
+317-32,chec1245,http://concepticon.clld.org/parameters/189,чо,body hair
+317-924,chec1245,http://concepticon.clld.org/parameters/36,маш,pubic hair
+317-251,chec1245,http://concepticon.clld.org/parameters/576,чич,dandruff
+317-746,chec1245,http://concepticon.clld.org/parameters/946,цІи,blood
+317-1130,chec1245,http://concepticon.clld.org/parameters/525,пха,"vein, artery"
+317-132,chec1245,http://concepticon.clld.org/parameters/1394,даьІак,bone
+317-690,chec1245,http://concepticon.clld.org/parameters/801,пІенд,rib
+317-882,chec1245,http://concepticon.clld.org/parameters/1393,маІ,horn
+317-1109,chec1245,http://concepticon.clld.org/parameters/1220,цІог,tail
+317-932,chec1245,http://concepticon.clld.org/parameters/1291,букъ,back
+317-734,chec1245,http://concepticon.clld.org/parameters/805,букъан арц,spine
+317-188,chec1245,http://concepticon.clld.org/parameters/1256,корт,head
+317-963,chec1245,http://concepticon.clld.org/parameters/1604,лергадогІа,"side of head, temple"
+317-1215,chec1245,http://concepticon.clld.org/parameters/1604,лергайух,"side of head, temple"
+317-1227,chec1245,http://concepticon.clld.org/parameters/1605,тюте,skull
+317-497,chec1245,http://concepticon.clld.org/parameters/1583,хье,brain
+317-1137,chec1245,http://concepticon.clld.org/parameters/1560,йохмырш,face
+317-937,chec1245,http://concepticon.clld.org/parameters/123,хьаж,forehead
+317-83,chec1245,http://concepticon.clld.org/parameters/798,салоз,jaw
+317-1174,chec1245,http://concepticon.clld.org/parameters/1730,мохчыл,cheek
+317-601,chec1245,http://concepticon.clld.org/parameters/1510,чΙенг,chin
+317-1247,chec1245,http://concepticon.clld.org/parameters/1248,бІаьрг,eye
+317-433,chec1245,http://concepticon.clld.org/parameters/1173,цІацкъам,eyebrow
+317-1222,chec1245,http://concepticon.clld.org/parameters/17,оІаьрг негІырш,eyelid
+317-955,chec1245,http://concepticon.clld.org/parameters/1540,оІаьрг чаьш,eyelash
+317-762,chec1245,http://concepticon.clld.org/parameters/1655,бІаргаш хьебо,blink
+317-331,chec1245,http://concepticon.clld.org/parameters/1247,лерг,ear
+317-417,chec1245,http://concepticon.clld.org/parameters/18,лерган дума,earlobe
+317-1209,chec1245,http://concepticon.clld.org/parameters/32,до,earwax
+317-931,chec1245,http://concepticon.clld.org/parameters/1221,мар,nose
+317-308,chec1245,http://concepticon.clld.org/parameters/1178,мер Іуьрг,nostril
+317-968,chec1245,http://concepticon.clld.org/parameters/208,мерш,mucus (nasal)
+317-1182,chec1245,http://concepticon.clld.org/parameters/674,баге̄,mouth
+317-1184,chec1245,http://concepticon.clld.org/parameters/73,зІак,beak
+317-429,chec1245,http://concepticon.clld.org/parameters/478,балд,lip
+317-1258,chec1245,http://concepticon.clld.org/parameters/1205,мотт,tongue
+317-377,chec1245,http://concepticon.clld.org/parameters/1380,церг,tooth
+317-385,chec1245,http://concepticon.clld.org/parameters/139,до̄лаш,gums
+317-1069,chec1245,http://concepticon.clld.org/parameters/1049,кхе̄ла,molartooth
+317-1044,chec1245,http://concepticon.clld.org/parameters/1333,барт,neck
+317-752,chec1245,http://concepticon.clld.org/parameters/1347,кІесар кІог,nape of neck
+317-293,chec1245,http://concepticon.clld.org/parameters/1346,къамкъорг,throat
+317-398,chec1245,http://concepticon.clld.org/parameters/1482,белш,shoulder
+317-436,chec1245,http://concepticon.clld.org/parameters/172,иханыр,shoulderblade
+317-691,chec1245,http://concepticon.clld.org/parameters/1994,динбухк,collarbone
+317-958,chec1245,http://concepticon.clld.org/parameters/1673,куьлг,arm
+317-90,chec1245,http://concepticon.clld.org/parameters/1886,пхьаьрс кІе̄ло,armpit
+317-426,chec1245,http://concepticon.clld.org/parameters/981,гал,elbow
+317-659,chec1245,http://concepticon.clld.org/parameters/799,куьйг хьакхолг,wrist
+317-21,chec1245,http://concepticon.clld.org/parameters/1277,ка,hand
+317-65,chec1245,http://concepticon.clld.org/parameters/1183,карюкъ,palm of hand
+317-320,chec1245,http://concepticon.clld.org/parameters/1303,пІам,finger
+317-881,chec1245,http://concepticon.clld.org/parameters/1781,на̄на-пІелг,thumb
+317-351,chec1245,http://concepticon.clld.org/parameters/1258,мІар,fingernail
+317-351,chec1245,http://concepticon.clld.org/parameters/72,мІар,claw
+317-1,chec1245,http://concepticon.clld.org/parameters/1297,ког,leg
+317-563,chec1245,http://concepticon.clld.org/parameters/800,варе,thigh
+317-327,chec1245,http://concepticon.clld.org/parameters/498,пхьид,calf of leg
+317-1012,chec1245,http://concepticon.clld.org/parameters/1371,гол,knee
+317-846,chec1245,http://concepticon.clld.org/parameters/1301,ког кІел,foot
+317-729,chec1245,http://concepticon.clld.org/parameters/803,хьакхалг,ankle
+317-408,chec1245,http://concepticon.clld.org/parameters/980,кІа̄ж,heel
+317-88,chec1245,http://concepticon.clld.org/parameters/318,лар,footprint
+317-294,chec1245,http://concepticon.clld.org/parameters/1389,пІелг,toe
+317-320,chec1245,http://concepticon.clld.org/parameters/1257,пІам,wing
+317-1014,chec1245,http://concepticon.clld.org/parameters/1201,пелыг,feather
+317-818,chec1245,http://concepticon.clld.org/parameters/1592,некх ваз,chest
+317-1198,chec1245,http://concepticon.clld.org/parameters/1402,накх,breast (of woman)
+317-664,chec1245,http://concepticon.clld.org/parameters/796,тІа̄р,"nipple, teat"
+317-109,chec1245,http://concepticon.clld.org/parameters/154,шим,udder
+317-703,chec1245,http://concepticon.clld.org/parameters/1838,цІанг,navel
+317-1165,chec1245,http://concepticon.clld.org/parameters/1223,дог,heart
+317-1099,chec1245,http://concepticon.clld.org/parameters/688,пах,lung
+317-1062,chec1245,http://concepticon.clld.org/parameters/1224,доІах,liver
+317-954,chec1245,http://concepticon.clld.org/parameters/489,жим,kidney
+317-100,chec1245,http://concepticon.clld.org/parameters/1744,Іонжыр,spleen
+317-775,chec1245,http://concepticon.clld.org/parameters/819,хьер,stomach
+317-994,chec1245,http://concepticon.clld.org/parameters/819,зорх,stomach
+317-618,chec1245,http://concepticon.clld.org/parameters/1991,чуьйрыш,"intestines, guts"
+317-121,chec1245,http://concepticon.clld.org/parameters/1681,гІадюкъ,waist
+317-566,chec1245,http://concepticon.clld.org/parameters/1745,варо,hip
+317-973,chec1245,http://concepticon.clld.org/parameters/1745,гІогІ,hip
+317-975,chec1245,http://concepticon.clld.org/parameters/834,хенан маьІгаш,buttocks
+317-369,chec1245,http://concepticon.clld.org/parameters/804,беран цІа,womb
+317-671,chec1245,http://concepticon.clld.org/parameters/797,тІол,testicle
+317-256,chec1245,http://concepticon.clld.org/parameters/1222,муз,penis
+317-1098,chec1245,http://concepticon.clld.org/parameters/1407,садаІа,"breathe, breath"
+317-1042,chec1245,http://concepticon.clld.org/parameters/1028,баге̄ гІатто,"yawn, gape"
+317-1040,chec1245,http://concepticon.clld.org/parameters/162,хьинкІыш кхетыр,hiccough
+317-915,chec1245,http://concepticon.clld.org/parameters/879,йовхырш ет,cough
+317-1071,chec1245,http://concepticon.clld.org/parameters/1621,йовхыр ет,sneeze
+317-964,chec1245,http://concepticon.clld.org/parameters/126,хьоцар да̄л,perspire
+317-455,chec1245,http://concepticon.clld.org/parameters/1440,шат,spit
+317-221,chec1245,http://concepticon.clld.org/parameters/1278,Іетто,vomit
+317-430,chec1245,http://concepticon.clld.org/parameters/1403,цергыш ихка,bite
+317-579,chec1245,http://concepticon.clld.org/parameters/319,матт хьекх,lick
+317-885,chec1245,http://concepticon.clld.org/parameters/268,туйныш эхийта,dribble
+317-519,chec1245,http://concepticon.clld.org/parameters/1585,наб йа,sleep
+317-1125,chec1245,http://concepticon.clld.org/parameters/1983,хар ба̄х,snore
+317-280,chec1245,http://concepticon.clld.org/parameters/1920,гІан га,dream
+317-477,chec1245,http://concepticon.clld.org/parameters/1602,сем йа̄л (ва̄л,wake up
+317-992,chec1245,http://concepticon.clld.org/parameters/1602,да̄л),wake up
+317-1181,chec1245,http://concepticon.clld.org/parameters/1159,тІардыш тох,break wind
+317-1131,chec1245,http://concepticon.clld.org/parameters/592,чиш дет,urinate
+317-802,chec1245,http://concepticon.clld.org/parameters/676,бид бетт,defecate
+317-614,chec1245,http://concepticon.clld.org/parameters/1785,кІиг да,have sexual intercourse
+317-1123,chec1245,http://concepticon.clld.org/parameters/52,эго,shiver
+317-829,chec1245,http://concepticon.clld.org/parameters/138,лӣча,bathe
+317-996,chec1245,http://concepticon.clld.org/parameters/1152,бер да,beget (of father)
+317-705,chec1245,http://concepticon.clld.org/parameters/1090,хелну,born (to be)
+317-790,chec1245,http://concepticon.clld.org/parameters/1090,хелн йа,born (to be)
+317-914,chec1245,http://concepticon.clld.org/parameters/1123,берых йа,pregnant
+317-22,chec1245,http://concepticon.clld.org/parameters/1087,берых хал,conceive
+317-241,chec1245,http://concepticon.clld.org/parameters/1422,дуьнетах гІар,"live, living, life"
+317-316,chec1245,http://concepticon.clld.org/parameters/1494,йелн йа,"die, dead"
+317-1102,chec1245,http://concepticon.clld.org/parameters/1494,велн ва,"die, dead"
+317-624,chec1245,http://concepticon.clld.org/parameters/1904,хино ваьхьнырг,drowned
+317-545,chec1245,http://concepticon.clld.org/parameters/1417,вивар,kill
+317-1173,chec1245,http://concepticon.clld.org/parameters/767,дакъа,corpse
+317-920,chec1245,http://concepticon.clld.org/parameters/1719,дІавалл,bury (the dead)
+317-407,chec1245,http://concepticon.clld.org/parameters/1719,дІайолл,bury (the dead)
+317-1203,chec1245,http://concepticon.clld.org/parameters/1773,каш,"grave, tomb"
+317-161,chec1245,http://concepticon.clld.org/parameters/785,ни цкъал,"strong, mighty, powerful"
+317-71,chec1245,http://concepticon.clld.org/parameters/1601,гІийл,weak
+317-977,chec1245,http://concepticon.clld.org/parameters/1364,мугыш,"well, health"
+317-876,chec1245,http://concepticon.clld.org/parameters/1364,мугшыл,"well, health"
+317-905,chec1245,http://concepticon.clld.org/parameters/1847,цумгыш ва (йа,"sick, sickness"
+317-345,chec1245,http://concepticon.clld.org/parameters/1847,да),"sick, sickness"
+317-735,chec1245,http://concepticon.clld.org/parameters/1847,цумгул,"sick, sickness"
+317-363,chec1245,http://concepticon.clld.org/parameters/1534,дагыр,fever
+317-323,chec1245,http://concepticon.clld.org/parameters/1957,екхахІоъ йаяр,goiter
+317-212,chec1245,http://concepticon.clld.org/parameters/102,шелвалар,cold (catarrh)
+317-860,chec1245,http://concepticon.clld.org/parameters/1109,чов,"wound, sore"
+317-242,chec1245,http://concepticon.clld.org/parameters/1148,лазин меттыг,bruise
+317-392,chec1245,http://concepticon.clld.org/parameters/1903,йестыр,swelling
+317-190,chec1245,http://concepticon.clld.org/parameters/148,кІомдар,itch
+317-591,chec1245,http://concepticon.clld.org/parameters/1584,ахкар,blister
+317-831,chec1245,http://concepticon.clld.org/parameters/793,ІаьржбІаьрг,boil (noun)
+317-639,chec1245,http://concepticon.clld.org/parameters/1808,наткъа,pus
+317-643,chec1245,http://concepticon.clld.org/parameters/497,мо̄,scar
+317-1006,chec1245,http://concepticon.clld.org/parameters/499,товвалыр,"cure, heal"
+317-801,chec1245,http://concepticon.clld.org/parameters/597,дохтыр,physician
+317-380,chec1245,http://concepticon.clld.org/parameters/1372,дарым,"medicine, drug"
+317-799,chec1245,http://concepticon.clld.org/parameters/655,дІавш,poison
+317-209,chec1245,http://concepticon.clld.org/parameters/1757,кІадвелнув,"tired, weary"
+317-335,chec1245,http://concepticon.clld.org/parameters/1757,гІелвелнув,"tired, weary"
+317-287,chec1245,http://concepticon.clld.org/parameters/168,са даІ,rest
+317-1117,chec1245,http://concepticon.clld.org/parameters/1564,мел,lazy
+317-871,chec1245,http://concepticon.clld.org/parameters/1125,кІунзыл,bald
+317-562,chec1245,http://concepticon.clld.org/parameters/320,астагІ лела,lame
+317-1110,chec1245,http://concepticon.clld.org/parameters/996,къор,deaf
+317-1224,chec1245,http://concepticon.clld.org/parameters/1666,маттцв хе,mute
+317-359,chec1245,http://concepticon.clld.org/parameters/1653,бІар са доц саг,blind
+317-158,chec1245,http://concepticon.clld.org/parameters/1463,мелн,intoxicated
+317-1091,chec1245,http://concepticon.clld.org/parameters/1463,вехын,intoxicated
+317-167,chec1245,http://concepticon.clld.org/parameters/590,верзын,"naked, bare"
+317-763,chec1245,http://concepticon.clld.org/parameters/1336,йаа,eat
+317-998,chec1245,http://concepticon.clld.org/parameters/1336,даа,eat
+317-1103,chec1245,http://concepticon.clld.org/parameters/256,йуург,food
+317-598,chec1245,http://concepticon.clld.org/parameters/256,даар,food
+317-747,chec1245,http://concepticon.clld.org/parameters/269,кхахкин,cooked
+317-245,chec1245,http://concepticon.clld.org/parameters/1959,тІуьн,raw
+317-228,chec1245,http://concepticon.clld.org/parameters/178,хелн даж,ripe
+317-104,chec1245,http://concepticon.clld.org/parameters/1958,аьрга,"green, unripe"
+317-724,chec1245,http://concepticon.clld.org/parameters/1728,йахкйелн дахкделн,rotten
+317-911,chec1245,http://concepticon.clld.org/parameters/1401,мал,drink
+317-921,chec1245,http://concepticon.clld.org/parameters/1533,мацыл,hunger
+317-120,chec1245,http://concepticon.clld.org/parameters/199,мацалл,famine
+317-828,chec1245,http://concepticon.clld.org/parameters/848,хьагыл,thirst
+317-1113,chec1245,http://concepticon.clld.org/parameters/1421,цІупдар,suck
+317-983,chec1245,http://concepticon.clld.org/parameters/321,Іавш,chew
+317-720,chec1245,http://concepticon.clld.org/parameters/897,къурдаш ба,swallow
+317-501,chec1245,http://concepticon.clld.org/parameters/129,са дукъа,choke
+317-679,chec1245,http://concepticon.clld.org/parameters/1100,кхахко,cook
+317-679,chec1245,http://concepticon.clld.org/parameters/792,кхахко,boil (vb)
+317-63,chec1245,http://concepticon.clld.org/parameters/2146,кхарза,"roast, fry"
+317-391,chec1245,http://concepticon.clld.org/parameters/183,етта,bake
+317-475,chec1245,http://concepticon.clld.org/parameters/1143,печ,oven
+317-1029,chec1245,http://concepticon.clld.org/parameters/1462,ей,"pot, cooking vessel"
+317-1121,chec1245,http://concepticon.clld.org/parameters/854,чайнк,kettle
+317-770,chec1245,http://concepticon.clld.org/parameters/31,йай,pan
+317-354,chec1245,http://concepticon.clld.org/parameters/481,хядыр,dish
+317-354,chec1245,http://concepticon.clld.org/parameters/480,хядыр,plate
+317-1201,chec1245,http://concepticon.clld.org/parameters/1530,кад,bowl
+317-509,chec1245,http://concepticon.clld.org/parameters/270,гІумгІа,"pitcher, jug"
+317-1201,chec1245,http://concepticon.clld.org/parameters/476,кад,"cup, drinking vessel"
+317-728,chec1245,http://concepticon.clld.org/parameters/271,бошхІап,saucer
+317-1186,chec1245,http://concepticon.clld.org/parameters/1378,Іайг,spoon
+317-1116,chec1245,http://concepticon.clld.org/parameters/1352,ирс,knife (2)
+317-895,chec1245,http://concepticon.clld.org/parameters/1302,хІастым,fork (2)
+317-1244,chec1245,http://concepticon.clld.org/parameters/272,марзх,tongs
+317-1225,chec1245,http://concepticon.clld.org/parameters/1526,яа хІам,meal (a)
+317-637,chec1245,http://concepticon.clld.org/parameters/1322,йа хІам,breakfast
+317-976,chec1245,http://concepticon.clld.org/parameters/768,—,lunch
+317-29,chec1245,http://concepticon.clld.org/parameters/1833,делкъ йахІам,dinner
+317-637,chec1245,http://concepticon.clld.org/parameters/1833,йа хІам,supper
+317-274,chec1245,http://concepticon.clld.org/parameters/275,цІамдал,peel
+317-1183,chec1245,http://concepticon.clld.org/parameters/86,цацех якх,"sieve, strain"
+317-587,chec1245,http://concepticon.clld.org/parameters/1767,хье̄кхо,scrape
+317-210,chec1245,http://concepticon.clld.org/parameters/2017,ке̄го,"stir, mix"
+317-229,chec1245,http://concepticon.clld.org/parameters/1368,мякха,bread
+317-570,chec1245,http://concepticon.clld.org/parameters/273,бод,dough
+317-933,chec1245,http://concepticon.clld.org/parameters/274,бод ба,knead
+317-196,chec1245,http://concepticon.clld.org/parameters/1594,хьор,"meal, flour"
+317-514,chec1245,http://concepticon.clld.org/parameters/1033,Іата,"crush, grind"
+317-910,chec1245,http://concepticon.clld.org/parameters/636,хьайр,mill
+317-608,chec1245,http://concepticon.clld.org/parameters/224,моск,mortar (2)
+317-740,chec1245,http://concepticon.clld.org/parameters/225,охьлу,pestle
+317-604,chec1245,http://concepticon.clld.org/parameters/634,жижг,meat
+317-471,chec1245,http://concepticon.clld.org/parameters/1874,лехъ,sausage
+317-31,chec1245,http://concepticon.clld.org/parameters/1874,марш,sausage
+317-866,chec1245,http://concepticon.clld.org/parameters/1547,чорп,"soup, broth"
+317-1262,chec1245,http://concepticon.clld.org/parameters/924,хасстоьмаш,vegetables
+317-1001,chec1245,http://concepticon.clld.org/parameters/832,кхо,bean
+317-119,chec1245,http://concepticon.clld.org/parameters/593,каршк,potato
+317-1013,chec1245,http://concepticon.clld.org/parameters/1507,стом,fruit
+317-1252,chec1245,http://concepticon.clld.org/parameters/1966,кан,bunch
+317-771,chec1245,http://concepticon.clld.org/parameters/322,инжир,fig
+317-431,chec1245,http://concepticon.clld.org/parameters/920,кенш,grape
+317-622,chec1245,http://concepticon.clld.org/parameters/191,бІар,nut
+317-945,chec1245,http://concepticon.clld.org/parameters/1154,зайтун,olive
+317-1127,chec1245,http://concepticon.clld.org/parameters/1484,даьтта,oil
+317-400,chec1245,http://concepticon.clld.org/parameters/323,мохь,"grease, fat"
+317-711,chec1245,http://concepticon.clld.org/parameters/1274,тук,salt
+317-78,chec1245,http://concepticon.clld.org/parameters/1385,бурч,pepper
+317-13,chec1245,http://concepticon.clld.org/parameters/919,кІам бурч,chili pepper
+317-486,chec1245,http://concepticon.clld.org/parameters/942,моз,honey
+317-382,chec1245,http://concepticon.clld.org/parameters/862,шекыр,sugar
+317-754,chec1245,http://concepticon.clld.org/parameters/635,шур,milk (noun)
+317-840,chec1245,http://concepticon.clld.org/parameters/93,о̄за,milk (vb)
+317-349,chec1245,http://concepticon.clld.org/parameters/1569,нахч,cheese
+317-621,chec1245,http://concepticon.clld.org/parameters/1245,нарх,butter
+317-960,chec1245,http://concepticon.clld.org/parameters/731,малар,"beverage, drink"
+317-486,chec1245,http://concepticon.clld.org/parameters/941,моз,mead
+317-347,chec1245,http://concepticon.clld.org/parameters/1524,чагІыр,wine
+317-389,chec1245,http://concepticon.clld.org/parameters/1639,йий,beer
+317-1052,chec1245,http://concepticon.clld.org/parameters/404,ниха,fermented drink
+317-1206,chec1245,http://concepticon.clld.org/parameters/744,хІу,egg
+317-1090,chec1245,http://concepticon.clld.org/parameters/1556,бюр,egg yolk
+317-1139,chec1245,http://concepticon.clld.org/parameters/158,юх,put on (clothes)
+317-1242,chec1245,http://concepticon.clld.org/parameters/158,тІеюха,put on (clothes)
+317-181,chec1245,http://concepticon.clld.org/parameters/1895,бедыр,"clothing, clothes"
+317-151,chec1245,http://concepticon.clld.org/parameters/881,те̄гархо,tailor
+317-603,chec1245,http://concepticon.clld.org/parameters/1616,кІа̄ди,cloth
+317-387,chec1245,http://concepticon.clld.org/parameters/964,шал,wool
+317-319,chec1245,http://concepticon.clld.org/parameters/916,ве̄та,"linen, flax"
+317-755,chec1245,http://concepticon.clld.org/parameters/1850,бам,cotton
+317-314,chec1245,http://concepticon.clld.org/parameters/1641,да̄ре,silk
+317-675,chec1245,http://concepticon.clld.org/parameters/325,бегІиг,felt
+317-32,chec1245,http://concepticon.clld.org/parameters/580,чо,fur
+317-1115,chec1245,http://concepticon.clld.org/parameters/629,цІок,leather
+317-597,chec1245,http://concepticon.clld.org/parameters/121,хьавз,spin
+317-50,chec1245,http://concepticon.clld.org/parameters/277,урчыкк,spindle
+317-364,chec1245,http://concepticon.clld.org/parameters/133,дага,weave
+317-1214,chec1245,http://concepticon.clld.org/parameters/133,да,weave
+317-907,chec1245,http://concepticon.clld.org/parameters/1787,кІади де̄ чарх,loom
+317-438,chec1245,http://concepticon.clld.org/parameters/1457,те̄га,sew
+317-898,chec1245,http://concepticon.clld.org/parameters/1382,ма̄х,needle
+317-202,chec1245,http://concepticon.clld.org/parameters/278,йу,awl
+317-913,chec1245,http://concepticon.clld.org/parameters/1161,май,thread
+317-264,chec1245,http://concepticon.clld.org/parameters/157,басыр,dye
+317-304,chec1245,http://concepticon.clld.org/parameters/326,палаш,cloak
+317-976,chec1245,http://concepticon.clld.org/parameters/327,—,poncho
+317-79,chec1245,http://concepticon.clld.org/parameters/474,коч,woman's dress
+317-483,chec1245,http://concepticon.clld.org/parameters/603,пальто,coat
+317-79,chec1245,http://concepticon.clld.org/parameters/1622,коч,shirt
+317-1208,chec1245,http://concepticon.clld.org/parameters/2012,кач,collar
+317-1213,chec1245,http://concepticon.clld.org/parameters/1600,йупк,skirt
+317-1213,chec1245,http://concepticon.clld.org/parameters/328,йупк,grass-skirt
+317-548,chec1245,http://concepticon.clld.org/parameters/809,хачи,trousers
+317-810,chec1245,http://concepticon.clld.org/parameters/329,чорып,"stocking, sock"
+317-526,chec1245,http://concepticon.clld.org/parameters/329,наски,"stocking, sock"
+317-995,chec1245,http://concepticon.clld.org/parameters/1381,туфли,shoe
+317-784,chec1245,http://concepticon.clld.org/parameters/585,батинк,boot
+317-301,chec1245,http://concepticon.clld.org/parameters/875,итки пхар,"shoemaker, cobbler"
+317-698,chec1245,http://concepticon.clld.org/parameters/2130,кюрт тюл хІам,"hat, cap"
+317-988,chec1245,http://concepticon.clld.org/parameters/772,доьхк,"belt, girdle"
+317-918,chec1245,http://concepticon.clld.org/parameters/867,ка̄ра,glove
+317-893,chec1245,http://concepticon.clld.org/parameters/1151,тастыр,veil
+317-874,chec1245,http://concepticon.clld.org/parameters/1851,кис,pocket
+317-49,chec1245,http://concepticon.clld.org/parameters/757,лёда,button
+317-300,chec1245,http://concepticon.clld.org/parameters/64,хьалхьа буллу мах,pin
+317-163,chec1245,http://concepticon.clld.org/parameters/917,бустым,"ornament, adornment"
+317-496,chec1245,http://concepticon.clld.org/parameters/1029,без кхярыг,jewel
+317-75,chec1245,http://concepticon.clld.org/parameters/1374,мёхІыр,ring (for finger)
+317-1095,chec1245,http://concepticon.clld.org/parameters/1754,хІоз,bracelet
+317-122,chec1245,http://concepticon.clld.org/parameters/1961,туьтеш,necklace
+317-845,chec1245,http://concepticon.clld.org/parameters/1860,туьти,bead
+317-980,chec1245,http://concepticon.clld.org/parameters/770,хьалкханш,earring
+317-632,chec1245,http://concepticon.clld.org/parameters/330,корт бихк,"headband, headdress"
+317-682,chec1245,http://concepticon.clld.org/parameters/68,гІор дагор,tattoo
+317-1254,chec1245,http://concepticon.clld.org/parameters/332,мерх хьокх йовлыкх,"handkerchief, rag"
+317-260,chec1245,http://concepticon.clld.org/parameters/1021,йохмрех хьокхырг,towel
+317-1191,chec1245,http://concepticon.clld.org/parameters/1475,ехк,comb
+317-1191,chec1245,http://concepticon.clld.org/parameters/1821,ехк,brush
+317-249,chec1245,http://concepticon.clld.org/parameters/333,кІа̄жыр,braid
+317-231,chec1245,http://concepticon.clld.org/parameters/151,маж йош урс,razor
+317-37,chec1245,http://concepticon.clld.org/parameters/1926,хьанхыр,ointment
+317-674,chec1245,http://concepticon.clld.org/parameters/788,соп,soap
+317-1141,chec1245,http://concepticon.clld.org/parameters/1171,кюзг,mirror
+317-1049,chec1245,http://concepticon.clld.org/parameters/1099,йаха,"dwell, live"
+317-1158,chec1245,http://concepticon.clld.org/parameters/1099,даха,"dwell, live"
+317-837,chec1245,http://concepticon.clld.org/parameters/1252,цІено,house
+317-774,chec1245,http://concepticon.clld.org/parameters/1678,цІялиг,hut
+317-813,chec1245,http://concepticon.clld.org/parameters/403,эвеыр цІалиг,garden-house
+317-404,chec1245,http://concepticon.clld.org/parameters/1316,чатыр,tent
+317-558,chec1245,http://concepticon.clld.org/parameters/736,уьтІие,"yard, court"
+317-638,chec1245,http://concepticon.clld.org/parameters/408,божри цІа,men's house
+317-544,chec1245,http://concepticon.clld.org/parameters/334,кухни,cookhouse
+317-858,chec1245,http://concepticon.clld.org/parameters/335,цІа,meeting house
+317-858,chec1245,http://concepticon.clld.org/parameters/1450,цІа,room
+317-817,chec1245,http://concepticon.clld.org/parameters/1567,наІ,"door, gate"
+317-10,chec1245,http://concepticon.clld.org/parameters/80,гур,"doorpost, jamb"
+317-1142,chec1245,http://concepticon.clld.org/parameters/1596,догІа,lock (noun)
+317-403,chec1245,http://concepticon.clld.org/parameters/1596,замо̄к,lock (noun)
+317-1179,chec1245,http://concepticon.clld.org/parameters/1012,гІуй,"latch, door-bolt"
+317-645,chec1245,http://concepticon.clld.org/parameters/1472,до̄гІа,key
+317-415,chec1245,http://concepticon.clld.org/parameters/1375,кор,window
+317-530,chec1245,http://concepticon.clld.org/parameters/1632,цІин,floor
+317-9,chec1245,http://concepticon.clld.org/parameters/933,бо̄с,wall
+317-186,chec1245,http://concepticon.clld.org/parameters/185,товха,fireplace
+317-470,chec1245,http://concepticon.clld.org/parameters/859,пеш,stove
+317-370,chec1245,http://concepticon.clld.org/parameters/1305,тункым,chimney
+317-421,chec1245,http://concepticon.clld.org/parameters/1464,лам,ladder
+317-820,chec1245,http://concepticon.clld.org/parameters/1663,менга,bed
+317-538,chec1245,http://concepticon.clld.org/parameters/1044,гІайм,pillow
+317-173,chec1245,http://concepticon.clld.org/parameters/806,юргІа,blanket
+317-447,chec1245,http://concepticon.clld.org/parameters/1476,гІант,chair
+317-15,chec1245,http://concepticon.clld.org/parameters/1775,истол,table
+317-1160,chec1245,http://concepticon.clld.org/parameters/2131,чиркх,"lamp, torch"
+317-384,chec1245,http://concepticon.clld.org/parameters/1273,чІурым,candle
+317-721,chec1245,http://concepticon.clld.org/parameters/745,терхе,shelf
+317-482,chec1245,http://concepticon.clld.org/parameters/205,хи эхит кІог,trough
+317-476,chec1245,http://concepticon.clld.org/parameters/769,тхав,roof
+317-47,chec1245,http://concepticon.clld.org/parameters/279,чанех бина тхав,thatch
+317-224,chec1245,http://concepticon.clld.org/parameters/280,йатыр,ridgepole
+317-101,chec1245,http://concepticon.clld.org/parameters/829,гІортол,rafter
+317-772,chec1245,http://concepticon.clld.org/parameters/1132,тІай,beam
+317-282,chec1245,http://concepticon.clld.org/parameters/281,богІым,"post, pole"
+317-716,chec1245,http://concepticon.clld.org/parameters/1227,у,board
+317-159,chec1245,http://concepticon.clld.org/parameters/876,нартал,arch
+317-1185,chec1245,http://concepticon.clld.org/parameters/877,ккерг буттыр,mason
+317-532,chec1245,http://concepticon.clld.org/parameters/1006,кирич,brick
+317-875,chec1245,http://concepticon.clld.org/parameters/1731,кир,mortar
+317-669,chec1245,http://concepticon.clld.org/parameters/901,топпыр Іишло,adobe
+317-972,chec1245,http://concepticon.clld.org/parameters/979,гІулкх лелорг,farmer
+317-1084,chec1245,http://concepticon.clld.org/parameters/212,а̄ре,field (for cultivation)
+317-623,chec1245,http://concepticon.clld.org/parameters/586,беш,garden
+317-1250,chec1245,http://concepticon.clld.org/parameters/1541,лят йалор,"cultivate, till"
+317-792,chec1245,http://concepticon.clld.org/parameters/1690,карт,fence
+317-464,chec1245,http://concepticon.clld.org/parameters/2002,саьнгар,ditch
+317-24,chec1245,http://concepticon.clld.org/parameters/1921,а̄ха,plow
+317-27,chec1245,http://concepticon.clld.org/parameters/1794,охне меттиг,furrow
+317-414,chec1245,http://concepticon.clld.org/parameters/1418,дарм дошт,dig
+317-542,chec1245,http://concepticon.clld.org/parameters/1176,бел,spade
+317-542,chec1245,http://concepticon.clld.org/parameters/1901,бел,shovel
+317-1226,chec1245,http://concepticon.clld.org/parameters/1901,аьшкыл,shovel
+317-1048,chec1245,http://concepticon.clld.org/parameters/284,метиг,hoe
+317-1238,chec1245,http://concepticon.clld.org/parameters/284,цел,hoe
+317-393,chec1245,http://concepticon.clld.org/parameters/337,шад,fork
+317-268,chec1245,http://concepticon.clld.org/parameters/338,грабли,rake
+317-701,chec1245,http://concepticon.clld.org/parameters/748,дюв и,sow
+317-1206,chec1245,http://concepticon.clld.org/parameters/714,хІу,seed
+317-225,chec1245,http://concepticon.clld.org/parameters/190,хьакха,"mow, reap"
+317-26,chec1245,http://concepticon.clld.org/parameters/2132,марс,"sickle, scythe"
+317-457,chec1245,http://concepticon.clld.org/parameters/285,Іатт,thresh
+317-329,chec1245,http://concepticon.clld.org/parameters/223,хьат,threshing-floor
+317-1152,chec1245,http://concepticon.clld.org/parameters/611,йалта,"crop, harvest"
+317-1011,chec1245,http://concepticon.clld.org/parameters/605,кІа,"grain (barley, oats etc)"
+317-1011,chec1245,http://concepticon.clld.org/parameters/1077,кІа,wheat
+317-201,chec1245,http://concepticon.clld.org/parameters/932,мукх,barley
+317-441,chec1245,http://concepticon.clld.org/parameters/23,Іаьржа кІа,rye
+317-753,chec1245,http://concepticon.clld.org/parameters/60,сул,oats
+317-95,chec1245,http://concepticon.clld.org/parameters/506,хІайк,"maize, corn"
+317-1271,chec1245,http://concepticon.clld.org/parameters/926,дуга,rice
+317-243,chec1245,http://concepticon.clld.org/parameters/606,буц,grass
+317-343,chec1245,http://concepticon.clld.org/parameters/342,йол,hay
+317-575,chec1245,http://concepticon.clld.org/parameters/653,арым,plant (noun)
+317-248,chec1245,http://concepticon.clld.org/parameters/1486,кхио,plant (vb)
+317-575,chec1245,http://concepticon.clld.org/parameters/670,арым,root
+317-162,chec1245,http://concepticon.clld.org/parameters/1531,га,branch
+317-697,chec1245,http://concepticon.clld.org/parameters/628,гІа,leaf
+317-235,chec1245,http://concepticon.clld.org/parameters/239,зе̄заг,flower
+317-440,chec1245,http://concepticon.clld.org/parameters/906,маргІыл,tree
+317-110,chec1245,http://concepticon.clld.org/parameters/644,наж,oak
+317-213,chec1245,http://concepticon.clld.org/parameters/1950,поп,beech
+317-1101,chec1245,http://concepticon.clld.org/parameters/1855,дакх,birch
+317-499,chec1245,http://concepticon.clld.org/parameters/1740,зез,pine
+317-737,chec1245,http://concepticon.clld.org/parameters/1915,баІа,fir
+317-1223,chec1245,http://concepticon.clld.org/parameters/968,нажын бІар,acorn
+317-57,chec1245,http://concepticon.clld.org/parameters/343,хутыл,vine
+317-324,chec1245,http://concepticon.clld.org/parameters/974,тонк,tobacco
+317-651,chec1245,http://concepticon.clld.org/parameters/1689,тонки юІур,smoke (tobacco)
+317-262,chec1245,http://concepticon.clld.org/parameters/1124,луьлла,pipe
+317-1205,chec1245,http://concepticon.clld.org/parameters/241,гуьйриг,tree stump
+317-1169,chec1245,http://concepticon.clld.org/parameters/344,маргІыл гІад,tree trunk
+317-162,chec1245,http://concepticon.clld.org/parameters/409,га,forked branch
+317-997,chec1245,http://concepticon.clld.org/parameters/1204,кевстиг,bark
+317-508,chec1245,http://concepticon.clld.org/parameters/345,мутта,sap
+317-448,chec1245,http://concepticon.clld.org/parameters/1181,пальма,palm tree
+317-560,chec1245,http://concepticon.clld.org/parameters/970,кокос,coconut
+317-742,chec1245,http://concepticon.clld.org/parameters/1126,дитти стом,citrus fruit
+317-901,chec1245,http://concepticon.clld.org/parameters/868,банан маргІыл,banana tree
+317-424,chec1245,http://concepticon.clld.org/parameters/346,инжир маргІыл,banyan
+317-512,chec1245,http://concepticon.clld.org/parameters/159,батат,sweet potato
+317-976,chec1245,http://concepticon.clld.org/parameters/410,—,yam
+317-976,chec1245,http://concepticon.clld.org/parameters/925,—,"tapioca, manioc, cassava"
+317-1217,chec1245,http://concepticon.clld.org/parameters/411,тюти,gourd
+317-1217,chec1245,http://concepticon.clld.org/parameters/864,тюти,"pumpkin, squash"
+317-859,chec1245,http://concepticon.clld.org/parameters/1927,буту эрз,bamboo
+317-459,chec1245,http://concepticon.clld.org/parameters/146,шекыр эрз,sugar cane
+317-599,chec1245,http://concepticon.clld.org/parameters/33,нитташ,nettle
+317-267,chec1245,http://concepticon.clld.org/parameters/641,жΙаьле нускал,mushroom
+317-1214,chec1245,http://concepticon.clld.org/parameters/813,да,"do, make"
+317-1164,chec1245,http://concepticon.clld.org/parameters/984,борх,work
+317-629,chec1245,http://concepticon.clld.org/parameters/2004,сатто,bend
+317-342,chec1245,http://concepticon.clld.org/parameters/1470,хьарчо,fold
+317-1077,chec1245,http://concepticon.clld.org/parameters/1917,йихк,"tie, bind"
+317-956,chec1245,http://concepticon.clld.org/parameters/352,йаст,untie
+317-1065,chec1245,http://concepticon.clld.org/parameters/352,даст,untie
+317-1204,chec1245,http://concepticon.clld.org/parameters/1627,дзΙай,chain
+317-312,chec1245,http://concepticon.clld.org/parameters/1218,муш,"rope, cord"
+317-393,chec1245,http://concepticon.clld.org/parameters/760,шад,knot (noun)
+317-391,chec1245,http://concepticon.clld.org/parameters/2133,етта,"strike (hit, beat)"
+317-11,chec1245,http://concepticon.clld.org/parameters/354,бю бетт,pound with fist
+317-67,chec1245,http://concepticon.clld.org/parameters/1432,хе̄до,cut
+317-1232,chec1245,http://concepticon.clld.org/parameters/355,лацда,cut down
+317-179,chec1245,http://concepticon.clld.org/parameters/155,хьа̄кха,"chop, hew"
+317-1253,chec1245,http://concepticon.clld.org/parameters/1434,бюв,stab
+317-586,chec1245,http://concepticon.clld.org/parameters/1434,дюв,stab
+317-61,chec1245,http://concepticon.clld.org/parameters/1352,урс,knife
+317-713,chec1245,http://concepticon.clld.org/parameters/356,тукар,"scissors, shears"
+317-1136,chec1245,http://concepticon.clld.org/parameters/677,диг,ax
+317-1136,chec1245,http://concepticon.clld.org/parameters/290,диг,adze
+317-1218,chec1245,http://concepticon.clld.org/parameters/680,кагйа,break
+317-521,chec1245,http://concepticon.clld.org/parameters/588,дёхан,broken
+317-1053,chec1245,http://concepticon.clld.org/parameters/1437,кагда,split
+317-148,chec1245,http://concepticon.clld.org/parameters/1735,этΙо,tear
+317-334,chec1245,http://concepticon.clld.org/parameters/291,цΙок да̄кх,"flay, skin"
+317-405,chec1245,http://concepticon.clld.org/parameters/1449,дΙадакха,"rub, wipe"
+317-1172,chec1245,http://concepticon.clld.org/parameters/214,ӣзо,stretch
+317-1172,chec1245,http://concepticon.clld.org/parameters/1455,ӣзо,pull
+317-368,chec1245,http://concepticon.clld.org/parameters/38,да̄ржо,spread out
+317-138,chec1245,http://concepticon.clld.org/parameters/357,ирхалл,hang up
+317-76,chec1245,http://concepticon.clld.org/parameters/1913,тΙетаΙо,press
+317-208,chec1245,http://concepticon.clld.org/parameters/1414,Ιавд,"squeeze, wring"
+317-783,chec1245,http://concepticon.clld.org/parameters/1487,дотт,pour
+317-40,chec1245,http://concepticon.clld.org/parameters/1453,йила,wash
+317-819,chec1245,http://concepticon.clld.org/parameters/230,нюв хьакх,sweep
+317-149,chec1245,http://concepticon.clld.org/parameters/245,нюв,broom
+317-739,chec1245,http://concepticon.clld.org/parameters/1361,гΙирс,tool
+317-902,chec1245,http://concepticon.clld.org/parameters/1042,дечк пхьар,carpenter
+317-1214,chec1245,http://concepticon.clld.org/parameters/1840,да,build
+317-214,chec1245,http://concepticon.clld.org/parameters/1501,Ιуьрг,bore
+317-873,chec1245,http://concepticon.clld.org/parameters/46,да̄ккх,hollow out
+317-1036,chec1245,http://concepticon.clld.org/parameters/1948,хирх,saw
+317-667,chec1245,http://concepticon.clld.org/parameters/1481,жΙав,hammer
+317-91,chec1245,http://concepticon.clld.org/parameters/502,хьастым,nail
+317-366,chec1245,http://concepticon.clld.org/parameters/1069,клей,glue
+317-795,chec1245,http://concepticon.clld.org/parameters/1001,эчык пхьар,"smith, blacksmith"
+317-1175,chec1245,http://concepticon.clld.org/parameters/288,пхьалгΙа,forge
+317-652,chec1245,http://concepticon.clld.org/parameters/1648,нуьйж,anvil
+317-1177,chec1245,http://concepticon.clld.org/parameters/211,кеп тоха,cast (metals)
+317-1163,chec1245,http://concepticon.clld.org/parameters/1369,да̄шо,gold
+317-500,chec1245,http://concepticon.clld.org/parameters/759,дато̄,silver
+317-451,chec1245,http://concepticon.clld.org/parameters/1825,цΙест,"copper, bronze"
+317-1033,chec1245,http://concepticon.clld.org/parameters/1825,ез,"copper, bronze"
+317-492,chec1245,http://concepticon.clld.org/parameters/621,эчык,iron
+317-939,chec1245,http://concepticon.clld.org/parameters/627,даш,lead (noun)
+317-1176,chec1245,http://concepticon.clld.org/parameters/358,эчк,"tin, tinplate"
+317-1114,chec1245,http://concepticon.clld.org/parameters/359,куьпчи,potter
+317-1025,chec1245,http://concepticon.clld.org/parameters/289,кепа тох,mold (clay etc)
+317-906,chec1245,http://concepticon.clld.org/parameters/1399,лятт,clay
+317-641,chec1245,http://concepticon.clld.org/parameters/604,шиш,glass
+317-1255,chec1245,http://concepticon.clld.org/parameters/1729,кΙади да,"weave, plait"
+317-781,chec1245,http://concepticon.clld.org/parameters/1539,тускыр,basket
+317-156,chec1245,http://concepticon.clld.org/parameters/195,черт,mat
+317-1076,chec1245,http://concepticon.clld.org/parameters/292,хелч,rug
+317-402,chec1245,http://concepticon.clld.org/parameters/293,сетк,netbag
+317-315,chec1245,http://concepticon.clld.org/parameters/1971,мохтухург,fan (noun)
+317-198,chec1245,http://concepticon.clld.org/parameters/360,мох тох,fan (vb)
+317-812,chec1245,http://concepticon.clld.org/parameters/228,ха̄до,carve
+317-1122,chec1245,http://concepticon.clld.org/parameters/914,скульптор,sculptor
+317-616,chec1245,http://concepticon.clld.org/parameters/1002,хΙоттин сурт,statue
+317-1144,chec1245,http://concepticon.clld.org/parameters/1979,урз,chisel
+317-991,chec1245,http://concepticon.clld.org/parameters/647,сир,paint (noun)
+317-264,chec1245,http://concepticon.clld.org/parameters/647,басыр,paint (noun)
+317-412,chec1245,http://concepticon.clld.org/parameters/2001,басар хьикх,paint (vb)
+317-226,chec1245,http://concepticon.clld.org/parameters/765,во̄ла вала,move
+317-462,chec1245,http://concepticon.clld.org/parameters/1588,харцо̄,turn over
+317-1138,chec1245,http://concepticon.clld.org/parameters/1445,дІадаржа,turn around
+317-974,chec1245,http://concepticon.clld.org/parameters/1445,схьадаржо,turn around
+317-342,chec1245,http://concepticon.clld.org/parameters/1113,хьарчо,"wind, wrap"
+317-1259,chec1245,http://concepticon.clld.org/parameters/827,хьӣзо,roll
+317-783,chec1245,http://concepticon.clld.org/parameters/808,дотт,drop (vb)
+317-602,chec1245,http://concepticon.clld.org/parameters/430,хьавд,twist
+317-925,chec1245,http://concepticon.clld.org/parameters/568,хьалдал,rise
+317-850,chec1245,http://concepticon.clld.org/parameters/501,схьаэцо,"raise, lift"
+317-908,chec1245,http://concepticon.clld.org/parameters/501,ирахІотто,"raise, lift"
+317-374,chec1245,http://concepticon.clld.org/parameters/1280,охьа йоха,fall
+317-783,chec1245,http://concepticon.clld.org/parameters/2253,дотт,drip
+317-1068,chec1245,http://concepticon.clld.org/parameters/1456,кхис,throw
+317-653,chec1245,http://concepticon.clld.org/parameters/702,схва ла̄ц,catch (ball)
+317-948,chec1245,http://concepticon.clld.org/parameters/1909,де̄го,shake
+317-386,chec1245,http://concepticon.clld.org/parameters/2003,эха,flow
+317-677,chec1245,http://concepticon.clld.org/parameters/1088,хи чу ваха,sink
+317-503,chec1245,http://concepticon.clld.org/parameters/1574,хи чохь няка да,float
+317-222,chec1245,http://concepticon.clld.org/parameters/1439,няка да,swim
+317-714,chec1245,http://concepticon.clld.org/parameters/119,хи чу экх,dive
+317-222,chec1245,http://concepticon.clld.org/parameters/365,няка да,splash
+317-1220,chec1245,http://concepticon.clld.org/parameters/787,хин кемиц вах,sail (vb)
+317-337,chec1245,http://concepticon.clld.org/parameters/1441,кем хахк,fly (vb)
+317-568,chec1245,http://concepticon.clld.org/parameters/175,дис,blow
+317-527,chec1245,http://concepticon.clld.org/parameters/96,текха,"creep, crawl"
+317-789,chec1245,http://concepticon.clld.org/parameters/66,гор хΙотт,kneel
+317-513,chec1245,http://concepticon.clld.org/parameters/296,охьлахдал,crouch
+317-310,chec1245,http://concepticon.clld.org/parameters/1324,шершо,"slide, slip"
+317-1231,chec1245,http://concepticon.clld.org/parameters/1829,ирх мерх,"jump, leap"
+317-356,chec1245,http://concepticon.clld.org/parameters/1135,ког бетт,kick
+317-951,chec1245,http://concepticon.clld.org/parameters/1879,хьарк вал,dance
+317-395,chec1245,http://concepticon.clld.org/parameters/1443,ле̄ла,walk
+317-219,chec1245,http://concepticon.clld.org/parameters/366,астых ле̄ла,limp
+317-157,chec1245,http://concepticon.clld.org/parameters/1519,вада,run
+317-1245,chec1245,http://concepticon.clld.org/parameters/1519,дада,run
+317-480,chec1245,http://concepticon.clld.org/parameters/1519,йада,run
+317-277,chec1245,http://concepticon.clld.org/parameters/695,ваха,go
+317-1158,chec1245,http://concepticon.clld.org/parameters/695,даха,go
+317-1007,chec1245,http://concepticon.clld.org/parameters/695,яха,go
+317-693,chec1245,http://concepticon.clld.org/parameters/705,хьала да̄ла,go up
+317-693,chec1245,http://concepticon.clld.org/parameters/1102,хьала да̄ла,climb
+317-437,chec1245,http://concepticon.clld.org/parameters/2014,охΙ вах,go down
+317-823,chec1245,http://concepticon.clld.org/parameters/1107,ара дал,go out
+317-174,chec1245,http://concepticon.clld.org/parameters/1446,да̄,come
+317-1140,chec1245,http://concepticon.clld.org/parameters/581,йуха ва,come back
+317-1214,chec1245,http://concepticon.clld.org/parameters/581,да,come back
+317-1055,chec1245,http://concepticon.clld.org/parameters/1752,дΙавах,"go away, depart"
+317-1054,chec1245,http://concepticon.clld.org/parameters/485,вав,disappear
+317-981,chec1245,http://concepticon.clld.org/parameters/485,яв,disappear
+317-157,chec1245,http://concepticon.clld.org/parameters/956,вада,flee
+317-1245,chec1245,http://concepticon.clld.org/parameters/956,дада,flee
+317-625,chec1245,http://concepticon.clld.org/parameters/1085,тΙаьхьадах,follow
+317-85,chec1245,http://concepticon.clld.org/parameters/1047,тΙаькъвала,pursue
+317-338,chec1245,http://concepticon.clld.org/parameters/1387,кха̄ча,"reach, arrive"
+317-54,chec1245,http://concepticon.clld.org/parameters/1778,йукхе ва,approach
+317-307,chec1245,http://concepticon.clld.org/parameters/749,чувала,enter
+317-23,chec1245,http://concepticon.clld.org/parameters/749,чуйала,enter
+317-1214,chec1245,http://concepticon.clld.org/parameters/700,да,carry (bear)
+317-684,chec1245,http://concepticon.clld.org/parameters/412,карахь йа,carry-in-hand
+317-355,chec1245,http://concepticon.clld.org/parameters/413,белш тΙех лело,carry-on-shoulder
+317-1108,chec1245,http://concepticon.clld.org/parameters/414,кюрт тΙех мло,carry-on-head
+317-856,chec1245,http://concepticon.clld.org/parameters/415,пхьарс кΙелах да,carry-underarm
+317-627,chec1245,http://concepticon.clld.org/parameters/692,йа,bring
+317-626,chec1245,http://concepticon.clld.org/parameters/1127,яхьита,send
+317-668,chec1245,http://concepticon.clld.org/parameters/1127,дахьита,send
+317-854,chec1245,http://concepticon.clld.org/parameters/43,дига,lead (vb)
+317-694,chec1245,http://concepticon.clld.org/parameters/741,машен тΙех ваха,drive
+317-397,chec1245,http://concepticon.clld.org/parameters/367,говр тΙех ваха,ride
+317-888,chec1245,http://concepticon.clld.org/parameters/1452,тΙатта,"push, shove"
+317-495,chec1245,http://concepticon.clld.org/parameters/667,некъ,road
+317-495,chec1245,http://concepticon.clld.org/parameters/2252,некъ,path
+317-1024,chec1245,http://concepticon.clld.org/parameters/1011,тΙай,bridge
+317-7,chec1245,http://concepticon.clld.org/parameters/122,ворд,"carriage, wagon, cart"
+317-748,chec1245,http://concepticon.clld.org/parameters/710,чΙюрг,wheel
+317-633,chec1245,http://concepticon.clld.org/parameters/1769,йукъ,axle
+317-1028,chec1245,http://concepticon.clld.org/parameters/14,дукъ,yoke
+317-517,chec1245,http://concepticon.clld.org/parameters/740,хикема,ship
+317-767,chec1245,http://concepticon.clld.org/parameters/1844,кема,boat
+317-709,chec1245,http://concepticon.clld.org/parameters/1970,хи кем,canoe
+317-185,chec1245,http://concepticon.clld.org/parameters/416,хи чохь мла кема,outrigger
+317-814,chec1245,http://concepticon.clld.org/parameters/1664,бурым,raft
+317-791,chec1245,http://concepticon.clld.org/parameters/108,пийсиг,oar
+317-791,chec1245,http://concepticon.clld.org/parameters/234,пийсиг,paddle (noun)
+317-647,chec1245,http://concepticon.clld.org/parameters/1849,лело,row (vb)
+317-1136,chec1245,http://concepticon.clld.org/parameters/1849,диг,row (vb)
+317-237,chec1245,http://concepticon.clld.org/parameters/108,тΙам,rudder
+317-1034,chec1245,http://concepticon.clld.org/parameters/184,мачт,mast
+317-419,chec1245,http://concepticon.clld.org/parameters/786,гат,sail (noun)
+317-170,chec1245,http://concepticon.clld.org/parameters/1870,якарь,anchor
+317-230,chec1245,http://concepticon.clld.org/parameters/610,порт,"harbor, port"
+317-1118,chec1245,http://concepticon.clld.org/parameters/1922,охьадос,land (vb)
+317-1041,chec1245,http://concepticon.clld.org/parameters/773,ха̄л,have
+317-1015,chec1245,http://concepticon.clld.org/parameters/684,хаыр,"own, possess"
+317-577,chec1245,http://concepticon.clld.org/parameters/1749,э̄ца,take
+317-630,chec1245,http://concepticon.clld.org/parameters/2021,катоха,"seize, grasp"
+317-551,chec1245,http://concepticon.clld.org/parameters/1448,ла̄ц,hold
+317-744,chec1245,http://concepticon.clld.org/parameters/694,схьа э̄ца,"get, obtain"
+317-539,chec1245,http://concepticon.clld.org/parameters/1477,Ιалышда,"keep, retain"
+317-715,chec1245,http://concepticon.clld.org/parameters/738,хΙама,thing
+317-769,chec1245,http://concepticon.clld.org/parameters/1447,йал,give
+317-286,chec1245,http://concepticon.clld.org/parameters/85,юх дал,give back
+317-1081,chec1245,http://concepticon.clld.org/parameters/1997,ларда,"preserve, look after"
+317-72,chec1245,http://concepticon.clld.org/parameters/2008,кΙелкъырдаккх,"save, rescue"
+317-311,chec1245,http://concepticon.clld.org/parameters/681,до̄хо,destroy
+317-785,chec1245,http://concepticon.clld.org/parameters/44,зен да,"harm, injure, damage"
+317-722,chec1245,http://concepticon.clld.org/parameters/1468,леха,"seek, look for"
+317-862,chec1245,http://concepticon.clld.org/parameters/719,каро,find
+317-1211,chec1245,http://concepticon.clld.org/parameters/1660,мавво,lose
+317-605,chec1245,http://concepticon.clld.org/parameters/1095,дΙавахит,"release, let go"
+317-655,chec1245,http://concepticon.clld.org/parameters/1559,ахча,money
+317-870,chec1245,http://concepticon.clld.org/parameters/1867,ахч,coin
+317-1264,chec1245,http://concepticon.clld.org/parameters/712,хьалдал саг,rich
+317-979,chec1245,http://concepticon.clld.org/parameters/1674,къе,poor
+317-1078,chec1245,http://concepticon.clld.org/parameters/1934,сагΙадоьхырг,beggar
+317-194,chec1245,http://concepticon.clld.org/parameters/1774,къарым,"avaricious, stingy"
+317-776,chec1245,http://concepticon.clld.org/parameters/582,йухлург да̄л,lend
+317-1236,chec1245,http://concepticon.clld.org/parameters/1823,йухлург эце,borrow
+317-340,chec1245,http://concepticon.clld.org/parameters/369,де̄кхар халыр,owe
+317-712,chec1245,http://concepticon.clld.org/parameters/1914,де̄кхар,debt
+317-150,chec1245,http://concepticon.clld.org/parameters/718,ахча дал,pay (vb)
+317-786,chec1245,http://concepticon.clld.org/parameters/1081,чот,"account, reckoning"
+317-376,chec1245,http://concepticon.clld.org/parameters/873,далыр,"tax, tribute"
+317-115,chec1245,http://concepticon.clld.org/parameters/856,мло э̄ц,hire
+317-313,chec1245,http://concepticon.clld.org/parameters/1122,алп,wages
+317-246,chec1245,http://concepticon.clld.org/parameters/733,ахчо да̄ккх,earn
+317-577,chec1245,http://concepticon.clld.org/parameters/1869,э̄ца,buy
+317-18,chec1245,http://concepticon.clld.org/parameters/1571,дохк,sell
+317-768,chec1245,http://concepticon.clld.org/parameters/2135,махле̄ло,"trade, barter"
+317-773,chec1245,http://concepticon.clld.org/parameters/1082,махберг,merchant
+317-52,chec1245,http://concepticon.clld.org/parameters/1082,йохкархо,merchant
+317-864,chec1245,http://concepticon.clld.org/parameters/633,базыр,market (place)
+317-118,chec1245,http://concepticon.clld.org/parameters/752,туька,"store, shop"
+317-927,chec1245,http://concepticon.clld.org/parameters/657,мах,price
+317-372,chec1245,http://concepticon.clld.org/parameters/1426,дез,"dear (costly, expensive)"
+317-1033,chec1245,http://concepticon.clld.org/parameters/1426,ез,"dear (costly, expensive)"
+317-193,chec1245,http://concepticon.clld.org/parameters/1426,вез,"dear (costly, expensive)"
+317-890,chec1245,http://concepticon.clld.org/parameters/1887,йоврех,cheap
+317-1119,chec1245,http://concepticon.clld.org/parameters/884,дΙасдекъа,share (distribute)
+317-367,chec1245,http://concepticon.clld.org/parameters/1098,оза,weigh
+317-184,chec1245,http://concepticon.clld.org/parameters/1685,тΙахьа,after
+317-487,chec1245,http://concepticon.clld.org/parameters/723,наΙ тъихахь,behind
+317-571,chec1245,http://concepticon.clld.org/parameters/1816,йуххахьхь,beside
+317-843,chec1245,http://concepticon.clld.org/parameters/1326,лохах,"down, below"
+317-204,chec1245,http://concepticon.clld.org/parameters/1882,хьалх,before
+317-204,chec1245,http://concepticon.clld.org/parameters/1019,хьалх,front
+317-247,chec1245,http://concepticon.clld.org/parameters/1606,чокь,"inside, in"
+317-281,chec1245,http://concepticon.clld.org/parameters/762,архал,outside
+317-678,chec1245,http://concepticon.clld.org/parameters/1485,кΙел,under
+317-406,chec1245,http://concepticon.clld.org/parameters/1485,бух,under
+317-502,chec1245,http://concepticon.clld.org/parameters/1591,тΙехул,"up, above"
+317-322,chec1245,http://concepticon.clld.org/parameters/723,метк,place
+317-533,chec1245,http://concepticon.clld.org/parameters/998,дилл,put
+317-59,chec1245,http://concepticon.clld.org/parameters/1416,Ιа,sit
+317-660,chec1245,http://concepticon.clld.org/parameters/215,дΙадиш,lie down
+317-129,chec1245,http://concepticon.clld.org/parameters/1442,хьоттын гΙа,stand
+317-568,chec1245,http://concepticon.clld.org/parameters/987,дис,"remain, stay"
+317-59,chec1245,http://concepticon.clld.org/parameters/987,Ιа,"remain, stay"
+317-670,chec1245,http://concepticon.clld.org/parameters/838,бухадиснарш,"remains, left overs"
+317-1243,chec1245,http://concepticon.clld.org/parameters/7,лехъо,"collect, gather"
+317-452,chec1245,http://concepticon.clld.org/parameters/7,гулда,"collect, gather"
+317-1162,chec1245,http://concepticon.clld.org/parameters/371,айΙа,pick up
+317-452,chec1245,http://concepticon.clld.org/parameters/1576,гулда,pile up
+317-205,chec1245,http://concepticon.clld.org/parameters/1743,вовшехкхет,"join, unite"
+317-672,chec1245,http://concepticon.clld.org/parameters/1359,дΙакъасто,separate
+317-467,chec1245,http://concepticon.clld.org/parameters/1119,декъ,divide
+317-192,chec1245,http://concepticon.clld.org/parameters/1156,йелл,open
+317-428,chec1245,http://concepticon.clld.org/parameters/1046,дΙаккхац,"shut, close"
+317-657,chec1245,http://concepticon.clld.org/parameters/761,тΙетас,cover
+317-6,chec1245,http://concepticon.clld.org/parameters/602,лачкΙо,"hide, conceal"
+317-172,chec1245,http://concepticon.clld.org/parameters/1265,лакх,high
+317-379,chec1245,http://concepticon.clld.org/parameters/721,лох,low
+317-904,chec1245,http://concepticon.clld.org/parameters/1753,бехь,top
+317-406,chec1245,http://concepticon.clld.org/parameters/690,бух,bottom
+317-265,chec1245,http://concepticon.clld.org/parameters/690,кΙело,bottom
+317-606,chec1245,http://concepticon.clld.org/parameters/742,чанкхе,end
+317-782,chec1245,http://concepticon.clld.org/parameters/372,ир йуьхиг,pointed
+317-413,chec1245,http://concepticon.clld.org/parameters/863,йист,edge
+317-903,chec1245,http://concepticon.clld.org/parameters/682,агΙо,side
+317-633,chec1245,http://concepticon.clld.org/parameters/1093,йукъ,"middle, center"
+317-805,chec1245,http://concepticon.clld.org/parameters/1019,бакххьар агΙо,right (side)
+317-94,chec1245,http://concepticon.clld.org/parameters/244,харцахь агΙо,left (side)
+317-847,chec1245,http://concepticon.clld.org/parameters/1942,йуххякъ,near (adv)
+317-808,chec1245,http://concepticon.clld.org/parameters/1406,ген,far (adv)
+317-454,chec1245,http://concepticon.clld.org/parameters/1877,малхбале,east
+317-1156,chec1245,http://concepticon.clld.org/parameters/1817,малхбузе,west
+317-946,chec1245,http://concepticon.clld.org/parameters/1598,къилбасед,north
+317-557,chec1245,http://concepticon.clld.org/parameters/1595,къилбе,south
+317-114,chec1245,http://concepticon.clld.org/parameters/479,кхиΙ,grow
+317-1266,chec1245,http://concepticon.clld.org/parameters/1506,дуста,measure
+317-164,chec1245,http://concepticon.clld.org/parameters/81,ге,"span, fathom"
+317-1106,chec1245,http://concepticon.clld.org/parameters/81,ша,"span, fathom"
+317-1157,chec1245,http://concepticon.clld.org/parameters/1202,доккх,"large, big"
+317-177,chec1245,http://concepticon.clld.org/parameters/1246,зимиг,"small, little"
+317-804,chec1245,http://concepticon.clld.org/parameters/1203,дхьах,long
+317-172,chec1245,http://concepticon.clld.org/parameters/711,лакх,tall
+317-887,chec1245,http://concepticon.clld.org/parameters/1645,лац,short
+317-461,chec1245,http://concepticon.clld.org/parameters/1243,гиюр,"wide, broad"
+317-1161,chec1245,http://concepticon.clld.org/parameters/1267,гот,narrow
+317-147,chec1245,http://concepticon.clld.org/parameters/1244,верстын,thick (in dimension)
+317-919,chec1245,http://concepticon.clld.org/parameters/1400,дюткъ,thin (in dimension)
+317-216,chec1245,http://concepticon.clld.org/parameters/1593,кΙорг,deep
+317-1155,chec1245,http://concepticon.clld.org/parameters/193,киги,shallow
+317-142,chec1245,http://concepticon.clld.org/parameters/1633,тΙоп,flat
+317-263,chec1245,http://concepticon.clld.org/parameters/1404,нис,straight
+317-306,chec1245,http://concepticon.clld.org/parameters/297,гом,crooked
+317-1094,chec1245,http://concepticon.clld.org/parameters/1071,мΙара,hook
+317-1216,chec1245,http://concepticon.clld.org/parameters/192,са,corner
+317-136,chec1245,http://concepticon.clld.org/parameters/1367,жΙар,cross
+317-1149,chec1245,http://concepticon.clld.org/parameters/850,квадрат,square
+317-453,chec1245,http://concepticon.clld.org/parameters/1395,гёрг,round
+317-848,chec1245,http://concepticon.clld.org/parameters/1467,го,circle
+317-223,chec1245,http://concepticon.clld.org/parameters/1845,горгалла,"sphere, ball"
+317-456,chec1245,http://concepticon.clld.org/parameters/1845,шар,"sphere, ball"
+317-1233,chec1245,http://concepticon.clld.org/parameters/1048,сиз,line
+317-214,chec1245,http://concepticon.clld.org/parameters/1667,Ιуьрг,hole
+317-535,chec1245,http://concepticon.clld.org/parameters/1558,тера,"like, similar"
+317-1107,chec1245,http://concepticon.clld.org/parameters/1264,хец,change
+317-485,chec1245,http://concepticon.clld.org/parameters/1294,ноль,"zero, nothing"
+317-468,chec1245,http://concepticon.clld.org/parameters/1515,цхьаъ,one
+317-420,chec1245,http://concepticon.clld.org/parameters/1498,гииъ,two
+317-661,chec1245,http://concepticon.clld.org/parameters/492,кхоъ,three
+317-561,chec1245,http://concepticon.clld.org/parameters/1500,диъ,four
+317-872,chec1245,http://concepticon.clld.org/parameters/493,пхиъ,five
+317-1194,chec1245,http://concepticon.clld.org/parameters/1703,ялх,six
+317-987,chec1245,http://concepticon.clld.org/parameters/1704,вар,seven
+317-730,chec1245,http://concepticon.clld.org/parameters/1705,бар,eight
+317-683,chec1245,http://concepticon.clld.org/parameters/1483,исс,nine
+317-498,chec1245,http://concepticon.clld.org/parameters/1515,итт,ten
+317-943,chec1245,http://concepticon.clld.org/parameters/1706,цкъайт,eleven
+317-518,chec1245,http://concepticon.clld.org/parameters/1707,шитт,twelve
+317-352,chec1245,http://concepticon.clld.org/parameters/1709,ихитт,fifteen
+317-328,chec1245,http://concepticon.clld.org/parameters/1710,ткъа,twenty
+317-886,chec1245,http://concepticon.clld.org/parameters/1634,бΙа,hundred
+317-155,chec1245,http://concepticon.clld.org/parameters/1843,эзыр,thousand
+317-524,chec1245,http://concepticon.clld.org/parameters/1420,дагарда,count
+317-325,chec1245,http://concepticon.clld.org/parameters/98,массо,"every, all"
+317-1112,chec1245,http://concepticon.clld.org/parameters/98,дерриг,"every, all"
+317-1219,chec1245,http://concepticon.clld.org/parameters/1198,дукх,"much, many"
+317-1219,chec1245,http://concepticon.clld.org/parameters/1992,дукх,more
+317-339,chec1245,http://concepticon.clld.org/parameters/1242,кΙизиг,"little (quantity), few"
+317-830,chec1245,http://concepticon.clld.org/parameters/1881,тоъал,enough
+317-699,chec1245,http://concepticon.clld.org/parameters/1241,масех,some
+317-1133,chec1245,http://concepticon.clld.org/parameters/2023,дукха,"multitude, crowd"
+317-215,chec1245,http://concepticon.clld.org/parameters/1429,вюззын,full
+317-853,chec1245,http://concepticon.clld.org/parameters/1624,даьсса,empty
+317-600,chec1245,http://concepticon.clld.org/parameters/779,юьхк,"part, piece"
+317-756,chec1245,http://concepticon.clld.org/parameters/816,ах,half
+317-468,chec1245,http://concepticon.clld.org/parameters/1580,цхьаъ,"alone, only"
+317-124,chec1245,http://concepticon.clld.org/parameters/728,хъалхор,first
+317-1022,chec1245,http://concepticon.clld.org/parameters/1529,пΙаьххыр,last
+317-704,chec1245,http://concepticon.clld.org/parameters/1384,шолгΙа,second
+317-420,chec1245,http://concepticon.clld.org/parameters/1888,гииъ,pair
+317-969,chec1245,http://concepticon.clld.org/parameters/1546,шоз,two times
+317-934,chec1245,http://concepticon.clld.org/parameters/1859,кхоргΙ,third
+317-178,chec1245,http://concepticon.clld.org/parameters/417,кхузз,three times
+317-284,chec1245,http://concepticon.clld.org/parameters/892,хан,time
+317-284,chec1245,http://concepticon.clld.org/parameters/1789,хан,age
+317-1120,chec1245,http://concepticon.clld.org/parameters/1789,зам,age
+317-195,chec1245,http://concepticon.clld.org/parameters/1789,оьмыр,age
+317-35,chec1245,http://concepticon.clld.org/parameters/1231,керла,new
+317-383,chec1245,http://concepticon.clld.org/parameters/1231,цΙена,new
+317-177,chec1245,http://concepticon.clld.org/parameters/1207,зимиг,young
+317-1070,chec1245,http://concepticon.clld.org/parameters/1229,къен,old
+317-692,chec1245,http://concepticon.clld.org/parameters/672,хΙархе,early
+317-255,chec1245,http://concepticon.clld.org/parameters/477,тΙаьхьа,late
+317-588,chec1245,http://concepticon.clld.org/parameters/1376,хΙинц,now
+317-765,chec1245,http://concepticon.clld.org/parameters/1963,сех,immediately
+317-1248,chec1245,http://concepticon.clld.org/parameters/1963,ца гавош,immediately
+317-765,chec1245,http://concepticon.clld.org/parameters/1631,сех,"swift, fast, quick"
+317-941,chec1245,http://concepticon.clld.org/parameters/1631,ма̄с,"swift, fast, quick"
+317-798,chec1245,http://concepticon.clld.org/parameters/701,меллыш,slow
+317-764,chec1245,http://concepticon.clld.org/parameters/754,сех хал,"hasten, hurry"
+317-759,chec1245,http://concepticon.clld.org/parameters/425,сацдал,"retard, delay"
+317-271,chec1245,http://concepticon.clld.org/parameters/1806,дало,"begin, beginning"
+317-1195,chec1245,http://concepticon.clld.org/parameters/1806,юьхь,"begin, beginning"
+317-182,chec1245,http://concepticon.clld.org/parameters/1186,дΙаэх,"last, endure"
+317-909,chec1245,http://concepticon.clld.org/parameters/743,чекхдаккх,end (temporal)
+317-909,chec1245,http://concepticon.clld.org/parameters/1766,чекхдаккх,finish
+317-270,chec1245,http://concepticon.clld.org/parameters/1928,сац,"cease, stop"
+317-879,chec1245,http://concepticon.clld.org/parameters/790,кич,ready
+317-884,chec1245,http://concepticon.clld.org/parameters/1676,даим,always
+317-176,chec1245,http://concepticon.clld.org/parameters/1676,готтыр,always
+317-613,chec1245,http://concepticon.clld.org/parameters/1852,кест-кест,often
+317-892,chec1245,http://concepticon.clld.org/parameters/1544,наггакъ,sometimes
+317-574,chec1245,http://concepticon.clld.org/parameters/703,кест,soon
+317-794,chec1245,http://concepticon.clld.org/parameters/418,дукх заман,long-time (for a)
+317-681,chec1245,http://concepticon.clld.org/parameters/1656,цхьа а,never
+317-257,chec1245,http://concepticon.clld.org/parameters/204,юха,again
+317-966,chec1245,http://concepticon.clld.org/parameters/1260,де,day
+317-702,chec1245,http://concepticon.clld.org/parameters/1233,буьйса,night
+317-982,chec1245,http://concepticon.clld.org/parameters/729,сатасар,dawn
+317-302,chec1245,http://concepticon.clld.org/parameters/1339,Ιуьйре,morning
+317-128,chec1245,http://concepticon.clld.org/parameters/12,делкъе,"noon, midday"
+317-43,chec1245,http://concepticon.clld.org/parameters/1807,делкъал тΙаьхье,afternoon
+317-611,chec1245,http://concepticon.clld.org/parameters/1629,суьйре,evening
+317-12,chec1245,http://concepticon.clld.org/parameters/1283,такан,today
+317-738,chec1245,http://concepticon.clld.org/parameters/1329,кхана,tomorrow
+317-696,chec1245,http://concepticon.clld.org/parameters/1179,лом,day-after-tomorrow
+317-636,chec1245,http://concepticon.clld.org/parameters/1174,сехын,yesterday
+317-642,chec1245,http://concepticon.clld.org/parameters/1180,самар,day-before-yesterday
+317-717,chec1245,http://concepticon.clld.org/parameters/1353,сахьт,hour
+317-717,chec1245,http://concepticon.clld.org/parameters/1323,сахьт,"clock, timepiece"
+317-750,chec1245,http://concepticon.clld.org/parameters/1469,кΙире,week
+317-44,chec1245,http://concepticon.clld.org/parameters/1699,кΙирен де,Sunday
+317-297,chec1245,http://concepticon.clld.org/parameters/1697,оршот де,Monday
+317-952,chec1245,http://concepticon.clld.org/parameters/1695,шинри де,Tuesday
+317-688,chec1245,http://concepticon.clld.org/parameters/1694,кхари де,Wednesday
+317-516,chec1245,http://concepticon.clld.org/parameters/1693,еари де,Thursday
+317-350,chec1245,http://concepticon.clld.org/parameters/1692,пΙераскын де,Friday
+317-1256,chec1245,http://concepticon.clld.org/parameters/1700,шот де,Saturday
+317-1197,chec1245,http://concepticon.clld.org/parameters/1370,бути,month
+317-912,chec1245,http://concepticon.clld.org/parameters/1226,шо,year
+317-59,chec1245,http://concepticon.clld.org/parameters/1471,Ιа,winter
+317-3,chec1245,http://concepticon.clld.org/parameters/1537,бΙаьсте,spring
+317-540,chec1245,http://concepticon.clld.org/parameters/1342,аьхке,summer
+317-46,chec1245,http://concepticon.clld.org/parameters/1276,гуьйре,autumn
+317-1241,chec1245,http://concepticon.clld.org/parameters/691,шер ха,season
+317-615,chec1245,http://concepticon.clld.org/parameters/1587,хьаж кхет,smell (vb intrans)
+317-276,chec1245,http://concepticon.clld.org/parameters/375,мар иза,sniff
+317-573,chec1245,http://concepticon.clld.org/parameters/375,хьаж йа̄х,sniff
+317-160,chec1245,http://concepticon.clld.org/parameters/1586,хьаж ях,smell (vb trans)
+317-937,chec1245,http://concepticon.clld.org/parameters/376,хьаж,"fragrant, good smelling"
+317-203,chec1245,http://concepticon.clld.org/parameters/376,каза хьаж,"fragrant, good smelling"
+317-685,chec1245,http://concepticon.clld.org/parameters/42,вон хьаж,"stinking, bad smelling"
+317-1202,chec1245,http://concepticon.clld.org/parameters/21,чам,taste
+317-1096,chec1245,http://concepticon.clld.org/parameters/717,мерз,sweet
+317-826,chec1245,http://concepticon.clld.org/parameters/1091,дуьр,salty
+317-947,chec1245,http://concepticon.clld.org/parameters/887,къаьхьа,bitter
+317-1257,chec1245,http://concepticon.clld.org/parameters/1906,муьст,"acid, sour"
+317-826,chec1245,http://concepticon.clld.org/parameters/70,дуьр,brackish
+317-288,chec1245,http://concepticon.clld.org/parameters/1408,хаз,hear
+317-999,chec1245,http://concepticon.clld.org/parameters/1608,ладогΙ,listen
+317-541,chec1245,http://concepticon.clld.org/parameters/1811,а̄з,"sound, noise"
+317-891,chec1245,http://concepticon.clld.org/parameters/1811,гΙар,"sound, noise"
+317-654,chec1245,http://concepticon.clld.org/parameters/377,чΙогΙ,loud
+317-410,chec1245,http://concepticon.clld.org/parameters/1314,тийна,"quiet, silence"
+317-162,chec1245,http://concepticon.clld.org/parameters/1409,га,see
+317-937,chec1245,http://concepticon.clld.org/parameters/1819,хьаж,"look, look at"
+317-87,chec1245,http://concepticon.clld.org/parameters/1039,гайт,show
+317-45,chec1245,http://concepticon.clld.org/parameters/708,серло етт,shine
+317-1129,chec1245,http://concepticon.clld.org/parameters/679,серл,bright
+317-584,chec1245,http://concepticon.clld.org/parameters/1613,бос,color
+317-1129,chec1245,http://concepticon.clld.org/parameters/250,серл,light (in color)
+317-217,chec1245,http://concepticon.clld.org/parameters/706,бодане,dark (in color)
+317-1193,chec1245,http://concepticon.clld.org/parameters/1335,кΙай,white
+317-4,chec1245,http://concepticon.clld.org/parameters/163,Ιаьрж,black
+317-189,chec1245,http://concepticon.clld.org/parameters/156,цΙе,red
+317-1240,chec1245,http://concepticon.clld.org/parameters/837,син,blue
+317-1240,chec1245,http://concepticon.clld.org/parameters/1425,син,green
+317-989,chec1245,http://concepticon.clld.org/parameters/1424,мож,yellow
+317-1166,chec1245,http://concepticon.clld.org/parameters/1892,кΙулг Ιитт (тох),touch
+317-620,chec1245,http://concepticon.clld.org/parameters/378,хьакх,pinch
+317-445,chec1245,http://concepticon.clld.org/parameters/1079,хаадал,feel
+317-26,chec1245,http://concepticon.clld.org/parameters/1884,марс,hard
+317-318,chec1245,http://concepticon.clld.org/parameters/1856,кΙеда,soft
+317-1212,chec1245,http://concepticon.clld.org/parameters/1923,шо̄га,rough
+317-585,chec1245,http://concepticon.clld.org/parameters/1234,шяр,smooth
+317-1051,chec1245,http://concepticon.clld.org/parameters/1396,ира,sharp
+317-1000,chec1245,http://concepticon.clld.org/parameters/379,аьрт,"blunt, dull"
+317-1033,chec1245,http://concepticon.clld.org/parameters/1210,ез,heavy
+317-372,chec1245,http://concepticon.clld.org/parameters/1210,дез,heavy
+317-1003,chec1245,http://concepticon.clld.org/parameters/1052,дай,light (in weight)
+317-39,chec1245,http://concepticon.clld.org/parameters/1726,тΙед,"wet, damp"
+317-467,chec1245,http://concepticon.clld.org/parameters/1398,декъ,dry
+317-803,chec1245,http://concepticon.clld.org/parameters/1286,девх,hot
+317-986,chec1245,http://concepticon.clld.org/parameters/1286,йовх,hot
+317-1117,chec1245,http://concepticon.clld.org/parameters/1232,мел,warm
+317-803,chec1245,http://concepticon.clld.org/parameters/1232,девх,warm
+317-525,chec1245,http://concepticon.clld.org/parameters/1287,гиил,cold
+317-631,chec1245,http://concepticon.clld.org/parameters/704,цΙен,clean
+317-1046,chec1245,http://concepticon.clld.org/parameters/1230,бΙех,"dirty, soiled"
+317-305,chec1245,http://concepticon.clld.org/parameters/380,мяда,wrinkled
+317-140,chec1245,http://concepticon.clld.org/parameters/380,хьекхийн,wrinkled
+317-1216,chec1245,http://concepticon.clld.org/parameters/53,са,"soul, spirit"
+317-253,chec1245,http://concepticon.clld.org/parameters/1572,цецвялн,"surprised, astonished"
+317-961,chec1245,http://concepticon.clld.org/parameters/720,аьтто,"good fortune, luck"
+317-650,chec1245,http://concepticon.clld.org/parameters/56,бо̄хам,"misfortune, bad luck"
+317-1047,chec1245,http://concepticon.clld.org/parameters/1495,ири,"joyful, glad, happy"
+317-127,chec1245,http://concepticon.clld.org/parameters/1495,самукъне,"joyful, glad, happy"
+317-1030,chec1245,http://concepticon.clld.org/parameters/1355,ел,laugh
+317-183,chec1245,http://concepticon.clld.org/parameters/1355,вел,laugh
+317-183,chec1245,http://concepticon.clld.org/parameters/1451,вел,smile
+317-1030,chec1245,http://concepticon.clld.org/parameters/1451,ел,smile
+317-36,chec1245,http://concepticon.clld.org/parameters/1413,ловз,play
+317-880,chec1245,http://concepticon.clld.org/parameters/923,йез,love
+317-193,chec1245,http://concepticon.clld.org/parameters/923,вез,love
+317-1159,chec1245,http://concepticon.clld.org/parameters/578,барш бакх,kiss
+317-593,chec1245,http://concepticon.clld.org/parameters/928,мар эккыр,embrace
+317-536,chec1245,http://concepticon.clld.org/parameters/1783,лазыр,pain
+317-731,chec1245,http://concepticon.clld.org/parameters/1668,гΙайгΙ,"grief, sorrow, sadness"
+317-34,chec1245,http://concepticon.clld.org/parameters/1668,ба̄ла,"grief, sorrow, sadness"
+317-1263,chec1245,http://concepticon.clld.org/parameters/1000,сагатдар,"anxiety, worry"
+317-1168,chec1245,http://concepticon.clld.org/parameters/1875,халахета,"regret, be sorry"
+317-289,chec1245,http://concepticon.clld.org/parameters/1141,къинхетам,pity
+317-1148,chec1245,http://concepticon.clld.org/parameters/1839,ерха,"cry, weep"
+317-493,chec1245,http://concepticon.clld.org/parameters/1839,верка,"cry, weep"
+317-28,chec1245,http://concepticon.clld.org/parameters/1651,бΙаьр хи,tear (noun)
+317-64,chec1245,http://concepticon.clld.org/parameters/716,тиж,groan
+317-490,chec1245,http://concepticon.clld.org/parameters/1607,ца везар,hate
+317-936,chec1245,http://concepticon.clld.org/parameters/82,аьгΙазло,anger
+317-401,chec1245,http://concepticon.clld.org/parameters/40,хьегыр,"envy, jealousy"
+317-522,chec1245,http://concepticon.clld.org/parameters/1776,эхь,shame (noun)
+317-105,chec1245,http://concepticon.clld.org/parameters/174,кур,proud
+317-1150,chec1245,http://concepticon.clld.org/parameters/1779,майра саг,dare
+317-644,chec1245,http://concepticon.clld.org/parameters/3,майр,brave
+317-583,chec1245,http://concepticon.clld.org/parameters/781,кхе̄рам,"fear, fright"
+317-8,chec1245,http://concepticon.clld.org/parameters/1810,кхерым,danger
+317-1026,chec1245,http://concepticon.clld.org/parameters/1784,лаым,"desire, want"
+317-358,chec1245,http://concepticon.clld.org/parameters/1750,харж,choose
+317-117,chec1245,http://concepticon.clld.org/parameters/1092,дог да̄ха,hope
+317-1124,chec1245,http://concepticon.clld.org/parameters/100,тешаме,faithful
+317-807,chec1245,http://concepticon.clld.org/parameters/1657,хΙинцляр,true
+317-1057,chec1245,http://concepticon.clld.org/parameters/1657,бакх ерг,true
+317-1199,chec1245,http://concepticon.clld.org/parameters/601,харц люв,"lie, tell lies"
+317-528,chec1245,http://concepticon.clld.org/parameters/13,гΙеко,deceit
+317-559,chec1245,http://concepticon.clld.org/parameters/1528,геч да,forgive
+317-595,chec1245,http://concepticon.clld.org/parameters/1035,дик,good
+317-240,chec1245,http://concepticon.clld.org/parameters/1292,во,bad
+317-263,chec1245,http://concepticon.clld.org/parameters/1725,нис,"right, correct"
+317-197,chec1245,http://concepticon.clld.org/parameters/1390,нис доц,wrong
+317-640,chec1245,http://concepticon.clld.org/parameters/134,даьлнырг,fault
+317-1085,chec1245,http://concepticon.clld.org/parameters/1293,гΙалт,"mistake, error"
+317-550,chec1245,http://concepticon.clld.org/parameters/381,бехке ва,blame
+317-710,chec1245,http://concepticon.clld.org/parameters/1687,хесто,praise
+317-288,chec1245,http://concepticon.clld.org/parameters/1427,хаз,beautiful
+317-1111,chec1245,http://concepticon.clld.org/parameters/1548,ирш,ugly
+317-749,chec1245,http://concepticon.clld.org/parameters/2018,пис,greedy
+317-326,chec1245,http://concepticon.clld.org/parameters/1310,хье̄къале,clever
+317-1002,chec1245,http://concepticon.clld.org/parameters/1562,хьекъыл,mind
+317-938,chec1245,http://concepticon.clld.org/parameters/1415,ойла йа,think (= reflect)
+317-938,chec1245,http://concepticon.clld.org/parameters/1513,ойла йа,think (= be of the opinion)
+317-1050,chec1245,http://concepticon.clld.org/parameters/1513,дагырда,think (= be of the opinion)
+317-365,chec1245,http://concepticon.clld.org/parameters/1890,теш,believe
+317-743,chec1245,http://concepticon.clld.org/parameters/1536,кхеш,understand
+317-449,chec1245,http://concepticon.clld.org/parameters/1410,хха,know
+317-732,chec1245,http://concepticon.clld.org/parameters/1932,матт,guess
+317-549,chec1245,http://concepticon.clld.org/parameters/117,тарда,imitate
+317-1016,chec1245,http://concepticon.clld.org/parameters/1521,хеш,seem
+317-634,chec1245,http://concepticon.clld.org/parameters/1609,кхетым,"idea, notion"
+317-326,chec1245,http://concepticon.clld.org/parameters/698,хье̄къале,wise
+317-299,chec1245,http://concepticon.clld.org/parameters/1518,Ιавдыл,"foolish, stupid"
+317-1128,chec1245,http://concepticon.clld.org/parameters/1518,сонт,"foolish, stupid"
+317-16,chec1245,http://concepticon.clld.org/parameters/1899,хырвялн,"insane, crazy"
+317-422,chec1245,http://concepticon.clld.org/parameters/504,ха,learn
+317-48,chec1245,http://concepticon.clld.org/parameters/504,деш,learn
+317-718,chec1245,http://concepticon.clld.org/parameters/1929,дамо,study
+317-718,chec1245,http://concepticon.clld.org/parameters/709,дамо,teach
+317-610,chec1245,http://concepticon.clld.org/parameters/753,дешархо,pupil
+317-381,chec1245,http://concepticon.clld.org/parameters/1038,хьехарко,teacher
+317-102,chec1245,http://concepticon.clld.org/parameters/673,ишкол,school
+317-861,chec1245,http://concepticon.clld.org/parameters/707,дагахь латто,remember
+317-435,chec1245,http://concepticon.clld.org/parameters/1523,дицда,forget
+317-1129,chec1245,http://concepticon.clld.org/parameters/989,серл,"clear, plain"
+317-686,chec1245,http://concepticon.clld.org/parameters/1764,кхеташ доци,obscure
+317-5,chec1245,http://concepticon.clld.org/parameters/1121,къайле,secret
+317-552,chec1245,http://concepticon.clld.org/parameters/509,тешым болш,"sure, certain"
+317-478,chec1245,http://concepticon.clld.org/parameters/1626,кхето,explain
+317-1229,chec1245,http://concepticon.clld.org/parameters/1162,хилар,"intention, purpose"
+317-556,chec1245,http://concepticon.clld.org/parameters/1162,ойла,"intention, purpose"
+317-1153,chec1245,http://concepticon.clld.org/parameters/860,бахьын,cause
+317-1087,chec1245,http://concepticon.clld.org/parameters/1308,шеко,doubt
+317-1073,chec1245,http://concepticon.clld.org/parameters/1841,дегбабым хал,suspect
+317-834,chec1245,http://concepticon.clld.org/parameters/1902,йамырт хал,betray
+317-662,chec1245,http://concepticon.clld.org/parameters/643,хьашт хал,"need, necessity"
+317-1003,chec1245,http://concepticon.clld.org/parameters/686,дай,easy
+317-285,chec1245,http://concepticon.clld.org/parameters/584,хал,difficult
+317-112,chec1245,http://concepticon.clld.org/parameters/1812,гΙортар,"try, attempt"
+317-1018,chec1245,http://concepticon.clld.org/parameters/488,кеп,"way, manner"
+317-199,chec1245,http://concepticon.clld.org/parameters/1577,а,and
+317-266,chec1245,http://concepticon.clld.org/parameters/1157,цундел,because
+317-375,chec1245,http://concepticon.clld.org/parameters/1459,нагахь,if
+317-627,chec1245,http://concepticon.clld.org/parameters/1014,йа,or
+317-473,chec1245,http://concepticon.clld.org/parameters/1268,хΙаъ,"yes, affirmative"
+317-442,chec1245,http://concepticon.clld.org/parameters/1269,дац,"no, negative"
+317-627,chec1245,http://concepticon.clld.org/parameters/1269,йа,"no, negative"
+317-520,chec1245,http://concepticon.clld.org/parameters/1269,вац,"no, negative"
+317-511,chec1245,http://concepticon.clld.org/parameters/1239,мух,how?
+317-930,chec1245,http://concepticon.clld.org/parameters/822,мас,how many?
+317-1117,chec1245,http://concepticon.clld.org/parameters/822,мел,how many?
+317-930,chec1245,http://concepticon.clld.org/parameters/531,мас,how much?
+317-1117,chec1245,http://concepticon.clld.org/parameters/531,мел,how much?
+317-707,chec1245,http://concepticon.clld.org/parameters/1236,хΙу,what?
+317-926,chec1245,http://concepticon.clld.org/parameters/1238,мац,when?
+317-425,chec1245,http://concepticon.clld.org/parameters/1237,мичар,where?
+317-2,chec1245,http://concepticon.clld.org/parameters/727,мих,which?
+317-113,chec1245,http://concepticon.clld.org/parameters/727,малх,which?
+317-911,chec1245,http://concepticon.clld.org/parameters/1235,мал,who?
+317-766,chec1245,http://concepticon.clld.org/parameters/1270,хΙунда,why?
+317-541,chec1245,http://concepticon.clld.org/parameters/1363,а̄з,voice
+317-172,chec1245,http://concepticon.clld.org/parameters/1261,лакх,sing
+317-891,chec1245,http://concepticon.clld.org/parameters/715,гΙар,"shout, cry out"
+317-238,chec1245,http://concepticon.clld.org/parameters/715,хьекх,"shout, cry out"
+317-797,chec1245,http://concepticon.clld.org/parameters/55,лере диц,whisper
+317-77,chec1245,http://concepticon.clld.org/parameters/128,мер кΙел век,mumble
+317-760,chec1245,http://concepticon.clld.org/parameters/1025,шок етт,whistle
+317-1221,chec1245,http://concepticon.clld.org/parameters/298,цΙиз,"shriek, screech"
+317-275,chec1245,http://concepticon.clld.org/parameters/526,угΙ,howl
+317-564,chec1245,http://concepticon.clld.org/parameters/1623,диц,"speak, talk"
+317-51,chec1245,http://concepticon.clld.org/parameters/1623,къамял да,"speak, talk"
+317-86,chec1245,http://concepticon.clld.org/parameters/1866,толкх лювыр,"stutter, stammer"
+317-144,chec1245,http://concepticon.clld.org/parameters/1458,ал,say
+317-1061,chec1245,http://concepticon.clld.org/parameters/1711,истори йиц,tell story
+317-153,chec1245,http://concepticon.clld.org/parameters/1115,къамял,speech (make a)
+317-38,chec1245,http://concepticon.clld.org/parameters/48,иист ца хал,silent (be)
+317-1261,chec1245,http://concepticon.clld.org/parameters/48,къамял ца да,silent (be)
+317-1258,chec1245,http://concepticon.clld.org/parameters/1307,мотт,language
+317-469,chec1245,http://concepticon.clld.org/parameters/1599,дош,word
+317-189,chec1245,http://concepticon.clld.org/parameters/1405,цΙе,name
+317-1075,chec1245,http://concepticon.clld.org/parameters/1309,хатт,"ask (question, inquire)"
+317-82,chec1245,http://concepticon.clld.org/parameters/1275,жоп дала,answer
+317-261,chec1245,http://concepticon.clld.org/parameters/2022,къардал,"admit, confess"
+317-687,chec1245,http://concepticon.clld.org/parameters/755,дац а̄л,deny
+317-1189,chec1245,http://concepticon.clld.org/parameters/1828,дех,"ask, request"
+317-723,chec1245,http://concepticon.clld.org/parameters/1675,тешитыл,promise
+317-171,chec1245,http://concepticon.clld.org/parameters/49,ца дал,refuse
+317-479,chec1245,http://concepticon.clld.org/parameters/83,ца маго,forbid
+317-1092,chec1245,http://concepticon.clld.org/parameters/299,дов да,"rebuke, scold"
+317-673,chec1245,http://concepticon.clld.org/parameters/1084,кхекх,call (=summon)
+317-1008,chec1245,http://concepticon.clld.org/parameters/180,а̄ла,call (=name)
+317-985,chec1245,http://concepticon.clld.org/parameters/9,хант,announce
+317-725,chec1245,http://concepticon.clld.org/parameters/1192,кхе̄ро,threaten
+317-553,chec1245,http://concepticon.clld.org/parameters/101,дазыл да,boast
+317-309,chec1245,http://concepticon.clld.org/parameters/1672,йазда,write
+317-48,chec1245,http://concepticon.clld.org/parameters/724,деш,read
+317-897,chec1245,http://concepticon.clld.org/parameters/648,кяст,paper
+317-867,chec1245,http://concepticon.clld.org/parameters/794,ручк,pen
+317-1190,chec1245,http://concepticon.clld.org/parameters/963,книжка,book
+317-439,chec1245,http://concepticon.clld.org/parameters/1045,иллынч,poet
+317-676,chec1245,http://concepticon.clld.org/parameters/777,шедаг,flute
+317-900,chec1245,http://concepticon.clld.org/parameters/908,вот,drum
+317-466,chec1245,http://concepticon.clld.org/parameters/2136,биргΙ,"horn, trumpet"
+317-1265,chec1245,http://concepticon.clld.org/parameters/300,йекырг,rattle
+317-450,chec1245,http://concepticon.clld.org/parameters/1300,мохк,country
+317-1132,chec1245,http://concepticon.clld.org/parameters/89,вин мохк,one's native country
+317-953,chec1245,http://concepticon.clld.org/parameters/1391,гΙал,"city, town"
+317-1135,chec1245,http://concepticon.clld.org/parameters/930,эвл,village
+317-234,chec1245,http://concepticon.clld.org/parameters/1010,дазо,boundary
+317-290,chec1245,http://concepticon.clld.org/parameters/789,халкъ,people (populace)
+317-806,chec1245,http://concepticon.clld.org/parameters/302,тухым,"tribe, clan"
+317-187,chec1245,http://concepticon.clld.org/parameters/301,паччахь,"chief, chieftain"
+317-809,chec1245,http://concepticon.clld.org/parameters/1296,Ιанс,"staff, walking stick"
+317-1066,chec1245,http://concepticon.clld.org/parameters/1846,саг-муисч,"rule, govern"
+317-187,chec1245,http://concepticon.clld.org/parameters/1508,паччахь,"king, ruler"
+317-1032,chec1245,http://concepticon.clld.org/parameters/1306,паччахь сеск,queen
+317-595,chec1245,http://concepticon.clld.org/parameters/482,дик,"noble, nobleman"
+317-1234,chec1245,http://concepticon.clld.org/parameters/1032,гІала саг,"citizen, subject"
+317-108,chec1245,http://concepticon.clld.org/parameters/383,эл,master
+317-418,chec1245,http://concepticon.clld.org/parameters/812,лай,slave
+317-628,chec1245,http://concepticon.clld.org/parameters/255,qfлхо,servant
+317-56,chec1245,http://concepticon.clld.org/parameters/384,мукъ саг,freeman
+317-1039,chec1245,http://concepticon.clld.org/parameters/1128,хΙех,"command, order"
+317-93,chec1245,http://concepticon.clld.org/parameters/1635,муьтΙах хил,obey
+317-99,chec1245,http://concepticon.clld.org/parameters/1003,магита,"let, permit"
+317-239,chec1245,http://concepticon.clld.org/parameters/1003,маго,"let, permit"
+317-344,chec1245,http://concepticon.clld.org/parameters/1325,дотх,"friend, companion"
+317-220,chec1245,http://concepticon.clld.org/parameters/1358,мостыгΙ,enemy
+317-821,chec1245,http://concepticon.clld.org/parameters/1332,ловлхо,neighbor
+317-576,chec1245,http://concepticon.clld.org/parameters/791,вевзыш воцург,stranger
+317-1080,chec1245,http://concepticon.clld.org/parameters/1782,хьа̄ш,guest
+317-1214,chec1245,http://concepticon.clld.org/parameters/1545,да,host
+317-1143,chec1245,http://concepticon.clld.org/parameters/1897,гΙо,"help, aid"
+317-978,chec1245,http://concepticon.clld.org/parameters/1550,невкъырло йа,"hinder, prevent"
+317-680,chec1245,http://concepticon.clld.org/parameters/1747,Ιедыл,custom
+317-635,chec1245,http://concepticon.clld.org/parameters/1848,дов,"strife, quarrel"
+317-259,chec1245,http://concepticon.clld.org/parameters/2024,кьайлых барт,"conspiracy, plot"
+317-1105,chec1245,http://concepticon.clld.org/parameters/1831,дёхыр кхет,meet
+317-569,chec1245,http://concepticon.clld.org/parameters/1610,кхахьб,prostitute
+317-96,chec1245,http://concepticon.clld.org/parameters/1423,лат,fight (vb)
+317-609,chec1245,http://concepticon.clld.org/parameters/579,тΙом,"war, battle"
+317-233,chec1245,http://concepticon.clld.org/parameters/1338,машыр,peace
+317-962,chec1245,http://concepticon.clld.org/parameters/1561,эскыр,army
+317-69,chec1245,http://concepticon.clld.org/parameters/1941,салти,soldier
+317-863,chec1245,http://concepticon.clld.org/parameters/951,герз,"weapons, arms"
+317-896,chec1245,http://concepticon.clld.org/parameters/1763,хьокх,club
+317-899,chec1245,http://concepticon.clld.org/parameters/386,жамболт,battle-ax
+317-84,chec1245,http://concepticon.clld.org/parameters/387,ширдалаг,sling
+317-745,chec1245,http://concepticon.clld.org/parameters/994,Ιад,bow
+317-1130,chec1245,http://concepticon.clld.org/parameters/977,пха,arrow
+317-206,chec1245,http://concepticon.clld.org/parameters/945,гоьмукъ,spear
+317-822,chec1245,http://concepticon.clld.org/parameters/1535,гΙа̄лакх,sword
+317-841,chec1245,http://concepticon.clld.org/parameters/1566,топ,"gun, cannon"
+317-175,chec1245,http://concepticon.clld.org/parameters/1566,йоккх топ,"gun, cannon"
+317-842,chec1245,http://concepticon.clld.org/parameters/1061,гΙагΙ,armor (defensive)
+317-578,chec1245,http://concepticon.clld.org/parameters/1680,гΙем,helmet
+317-116,chec1245,http://concepticon.clld.org/parameters/1064,турс,shield
+317-953,chec1245,http://concepticon.clld.org/parameters/1938,гΙал,fortress
+317-953,chec1245,http://concepticon.clld.org/parameters/1671,гΙал,tower
+317-106,chec1245,http://concepticon.clld.org/parameters/783,толым,victory
+317-878,chec1245,http://concepticon.clld.org/parameters/782,эшыр,defeat
+317-458,chec1245,http://concepticon.clld.org/parameters/722,тΙе лат,attack
+317-1063,chec1245,http://concepticon.clld.org/parameters/1330,дёхьарло йа,defend
+317-596,chec1245,http://concepticon.clld.org/parameters/421,йухдал,retreat
+317-107,chec1245,http://concepticon.clld.org/parameters/1696,кар вах,surrender
+317-708,chec1245,http://concepticon.clld.org/parameters/1072,ляцын саг,"captive, prisoner"
+317-617,chec1245,http://concepticon.clld.org/parameters/1940,гΙаралыш,"guard, sentinel"
+317-58,chec1245,http://concepticon.clld.org/parameters/1022,лагΙаΙин хам,"booty, spoils"
+317-510,chec1245,http://concepticon.clld.org/parameters/65,кΙело йа,ambush
+317-33,chec1245,http://concepticon.clld.org/parameters/1858,гΙери люцырг,fisherman
+317-81,chec1245,http://concepticon.clld.org/parameters/1074,магΙр,fishhook
+317-504,chec1245,http://concepticon.clld.org/parameters/19,хьу,fishing line
+317-353,chec1245,http://concepticon.clld.org/parameters/388,ов,fishnet
+317-10,chec1245,http://concepticon.clld.org/parameters/389,гур,fish trap
+317-139,chec1245,http://concepticon.clld.org/parameters/2013,тосург,bait
+317-1146,chec1245,http://concepticon.clld.org/parameters/1435,талла эх,hunt
+317-835,chec1245,http://concepticon.clld.org/parameters/1172,топ тох,shoot
+317-378,chec1245,http://concepticon.clld.org/parameters/161,дΙа ца кхет,miss (target)
+317-10,chec1245,http://concepticon.clld.org/parameters/1075,гур,trap (noun)
+317-887,chec1245,http://concepticon.clld.org/parameters/1170,лац,trap (vb)
+317-1004,chec1245,http://concepticon.clld.org/parameters/1062,закон,law
+317-60,chec1245,http://concepticon.clld.org/parameters/1068,сюд,court
+317-152,chec1245,http://concepticon.clld.org/parameters/1818,сюд йа,judge (vb)
+317-648,chec1245,http://concepticon.clld.org/parameters/1067,сюд сацым,judgment
+317-547,chec1245,http://concepticon.clld.org/parameters/861,сюдхо,judge (noun)
+317-838,chec1245,http://concepticon.clld.org/parameters/2020,дёв да,plaintiff
+317-180,chec1245,http://concepticon.clld.org/parameters/1034,жоп леш верг,defendant
+317-365,chec1245,http://concepticon.clld.org/parameters/1144,теш,witness
+317-62,chec1245,http://concepticon.clld.org/parameters/1939,дюв баыр,swear
+317-166,chec1245,http://concepticon.clld.org/parameters/1712,дю баыр,oath
+317-507,chec1245,http://concepticon.clld.org/parameters/1814,бехк бил,accuse
+317-550,chec1245,http://concepticon.clld.org/parameters/484,бехке ва,condemn
+317-550,chec1245,http://concepticon.clld.org/parameters/983,бехке ва,convict (vb)
+317-649,chec1245,http://concepticon.clld.org/parameters/988,бехке вакх,acquit
+317-883,chec1245,http://concepticon.clld.org/parameters/1682,бехке верг,guilty
+317-332,chec1245,http://concepticon.clld.org/parameters/90,бехке вац,innocent
+317-796,chec1245,http://concepticon.clld.org/parameters/390,таΙзыр,"penalty, punishment"
+317-537,chec1245,http://concepticon.clld.org/parameters/218,гΙуда,fine
+317-92,chec1245,http://concepticon.clld.org/parameters/1281,тюрьме,"prison, jail"
+317-816,chec1245,http://concepticon.clld.org/parameters/845,саг вивар,murder
+317-1079,chec1245,http://concepticon.clld.org/parameters/902,нахц лел,adultery
+317-1009,chec1245,http://concepticon.clld.org/parameters/953,лелор,rape
+317-582,chec1245,http://concepticon.clld.org/parameters/1889,цΙе латор,arson
+317-14,chec1245,http://concepticon.clld.org/parameters/1792,харц тешыл да,perjury
+317-1270,chec1245,http://concepticon.clld.org/parameters/713,легъчъо,steal
+317-1035,chec1245,http://concepticon.clld.org/parameters/1160,къу,thief
+317-592,chec1245,http://concepticon.clld.org/parameters/661,дин,religion
+317-666,chec1245,http://concepticon.clld.org/parameters/1944,дял,God
+317-1056,chec1245,http://concepticon.clld.org/parameters/911,килс,"temple, church"
+317-970,chec1245,http://concepticon.clld.org/parameters/853,михІраб,altar
+317-868,chec1245,http://concepticon.clld.org/parameters/1103,сагΙа,"sacrifice, offering"
+317-1246,chec1245,http://concepticon.clld.org/parameters/257,корта текъа таΙо,worship
+317-727,chec1245,http://concepticon.clld.org/parameters/24,ламыз да,pray
+317-42,chec1245,http://concepticon.clld.org/parameters/852,мозгΙыр,priest
+317-66,chec1245,http://concepticon.clld.org/parameters/1702,силахь дез,"holy, sacred"
+317-833,chec1245,http://concepticon.clld.org/parameters/304,дин кхекко,preach
+317-481,chec1245,http://concepticon.clld.org/parameters/391,декъылдар,bless
+317-1020,chec1245,http://concepticon.clld.org/parameters/8,сардым бол,curse
+317-594,chec1245,http://concepticon.clld.org/parameters/8,наΙылт кхекхо (ала),curse
+317-581,chec1245,http://concepticon.clld.org/parameters/303,леарх кхаб,fast (vb)
+317-303,chec1245,http://concepticon.clld.org/parameters/1565,стигами,heaven
+317-1023,chec1245,http://concepticon.clld.org/parameters/1565,ялсаме,heaven
+317-1064,chec1245,http://concepticon.clld.org/parameters/878,жожштх,hell
+317-298,chec1245,http://concepticon.clld.org/parameters/1973,лилбыз,demon (evil spirit)
+317-1067,chec1245,http://concepticon.clld.org/parameters/1945,цΙо,idol
+317-279,chec1245,http://concepticon.clld.org/parameters/392,холмачалла,"magic, witchcraft, sorcery"
+317-432,chec1245,http://concepticon.clld.org/parameters/2137,халмачхо,"sorcerer, witch"
+317-523,chec1245,http://concepticon.clld.org/parameters/2137,алмаз,"sorcerer, witch"
+317-333,chec1245,http://concepticon.clld.org/parameters/2138,маьлхазни,"fairy, elf"
+317-1151,chec1245,http://concepticon.clld.org/parameters/1175,бΙарлагΙ,"ghost, phantom"
+317-252,chec1245,http://concepticon.clld.org/parameters/107,хаъам,"omen, portent"

@@ -1,0 +1,1567 @@
+ID,Language_ID,Feature_ID,Value,Concept
+526-79,lakk1252,http://concepticon.clld.org/parameters/965,дуниял,world
+526-246,lakk1252,http://concepticon.clld.org/parameters/626,билаят,"earth, land"
+526-1375,lakk1252,http://concepticon.clld.org/parameters/626,улча,"earth, land"
+526-659,lakk1252,http://concepticon.clld.org/parameters/1228,аьрщи,"earth=ground, soil"
+526-466,lakk1252,http://concepticon.clld.org/parameters/2,лах,dust
+526-105,lakk1252,http://concepticon.clld.org/parameters/2,ххит,dust
+526-728,lakk1252,http://concepticon.clld.org/parameters/640,кьяркьи,mud
+526-53,lakk1252,http://concepticon.clld.org/parameters/671,къун,sand
+526-800,lakk1252,http://concepticon.clld.org/parameters/2118,зунтту,"mountain, hill"
+526-407,lakk1252,http://concepticon.clld.org/parameters/2118,бакІу,"mountain, hill"
+526-155,lakk1252,http://concepticon.clld.org/parameters/618,ххяли,"cliff, precipice"
+526-1122,lakk1252,http://concepticon.clld.org/parameters/618,кьаракру,"cliff, precipice"
+526-904,lakk1252,http://concepticon.clld.org/parameters/652,ар,"plain, field"
+526-391,lakk1252,http://concepticon.clld.org/parameters/652,майдан,"plain, field"
+526-391,lakk1252,http://concepticon.clld.org/parameters/921,майдан,valley
+526-907,lakk1252,http://concepticon.clld.org/parameters/622,жазира,island
+526-1255,lakk1252,http://concepticon.clld.org/parameters/166,кантинент,mainland
+526-711,lakk1252,http://concepticon.clld.org/parameters/113,зума,shore
+526-738,lakk1252,http://concepticon.clld.org/parameters/113,къирагъ,shore
+526-833,lakk1252,http://concepticon.clld.org/parameters/1155,нух,cave
+526-1218,lakk1252,http://concepticon.clld.org/parameters/948,щин,water
+526-566,lakk1252,http://concepticon.clld.org/parameters/1474,хьхьири,sea
+526-495,lakk1252,http://concepticon.clld.org/parameters/258,паракьатсса,calm (of sea)
+526-284,lakk1252,http://concepticon.clld.org/parameters/259,гьалаксса,rough (of sea)
+526-61,lakk1252,http://concepticon.clld.org/parameters/1768,хьама,foam
+526-566,lakk1252,http://concepticon.clld.org/parameters/645,хьхьири,ocean
+526-125,lakk1252,http://concepticon.clld.org/parameters/645,акеан,ocean
+526-1240,lakk1252,http://concepticon.clld.org/parameters/624,бяр,lake
+526-1334,lakk1252,http://concepticon.clld.org/parameters/663,—,"gulf, bay"
+526-1415,lakk1252,http://concepticon.clld.org/parameters/623,валт,lagoon
+526-1334,lakk1252,http://concepticon.clld.org/parameters/660,—,reef
+526-533,lakk1252,http://concepticon.clld.org/parameters/1662,мицI,"headland, point"
+526-1305,lakk1252,http://concepticon.clld.org/parameters/978,щатІи,wave
+526-1334,lakk1252,http://concepticon.clld.org/parameters/891,—,tide
+526-1334,lakk1252,http://concepticon.clld.org/parameters/1026,—,lowtide
+526-1334,lakk1252,http://concepticon.clld.org/parameters/613,—,hightide
+526-1285,lakk1252,http://concepticon.clld.org/parameters/666,нех,"river, stream, brook"
+526-443,lakk1252,http://concepticon.clld.org/parameters/666,кьурукьа,"river, stream, brook"
+526-856,lakk1252,http://concepticon.clld.org/parameters/666,журужани,"river, stream, brook"
+526-1045,lakk1252,http://concepticon.clld.org/parameters/1982,кІурглу,whirlpool
+526-818,lakk1252,http://concepticon.clld.org/parameters/1982,гьанагьи шин,whirlpool
+526-493,lakk1252,http://concepticon.clld.org/parameters/2144,щаращи,"spring, well"
+526-51,lakk1252,http://concepticon.clld.org/parameters/2144,къуй,"spring, well"
+526-675,lakk1252,http://concepticon.clld.org/parameters/1145,кунцІа,swamp
+526-143,lakk1252,http://concepticon.clld.org/parameters/1145,хьунцІа,swamp
+526-1362,lakk1252,http://concepticon.clld.org/parameters/943,щиндагьу,waterfall
+526-1004,lakk1252,http://concepticon.clld.org/parameters/420,вацІа,"woods, forest"
+526-213,lakk1252,http://concepticon.clld.org/parameters/420,хІалу,"woods, forest"
+526-1061,lakk1252,http://concepticon.clld.org/parameters/906,мурхь,tree (cf 08.600)
+526-607,lakk1252,http://concepticon.clld.org/parameters/906,хІаби,tree (cf 08.600)
+526-852,lakk1252,http://concepticon.clld.org/parameters/1803,тІама,wood
+526-593,lakk1252,http://concepticon.clld.org/parameters/2125,чару,"stone, rock"
+526-145,lakk1252,http://concepticon.clld.org/parameters/2125,ххялу,"stone, rock"
+526-909,lakk1252,http://concepticon.clld.org/parameters/6,зарзала,earthquake
+526-1303,lakk1252,http://concepticon.clld.org/parameters/1732,ссав,sky
+526-709,lakk1252,http://concepticon.clld.org/parameters/1343,баргъ,sun
+526-965,lakk1252,http://concepticon.clld.org/parameters/1313,барз,moon
+526-188,lakk1252,http://concepticon.clld.org/parameters/1430,цІуртти,star
+526-1234,lakk1252,http://concepticon.clld.org/parameters/1654,паранну,lightning
+526-19,lakk1252,http://concepticon.clld.org/parameters/1150,къу-аьс,thunder
+526-1273,lakk1252,http://concepticon.clld.org/parameters/2007,паранну дагьан,lightning (as striking)
+526-1092,lakk1252,http://concepticon.clld.org/parameters/858,буран,storm
+526-1247,lakk1252,http://concepticon.clld.org/parameters/1733,ссурул ккуртта,rainbow
+526-828,lakk1252,http://concepticon.clld.org/parameters/630,чани,light (noun)
+526-700,lakk1252,http://concepticon.clld.org/parameters/11,цІан,darkness
+526-350,lakk1252,http://concepticon.clld.org/parameters/1388,ххют,"shade, shadow"
+526-23,lakk1252,http://concepticon.clld.org/parameters/1977,хьхьем,dew
+526-1337,lakk1252,http://concepticon.clld.org/parameters/27,гьава,air
+526-5,lakk1252,http://concepticon.clld.org/parameters/960,марч,wind
+526-134,lakk1252,http://concepticon.clld.org/parameters/1489,ттурлу,cloud
+526-1140,lakk1252,http://concepticon.clld.org/parameters/1489,ттуруллул къуркъ,cloud
+526-82,lakk1252,http://concepticon.clld.org/parameters/249,шархьттурлу,fog
+526-1279,lakk1252,http://concepticon.clld.org/parameters/658,гъарал,rain (noun)
+526-933,lakk1252,http://concepticon.clld.org/parameters/784,марххала,snow (noun)
+526-980,lakk1252,http://concepticon.clld.org/parameters/617,микІ,ice
+526-986,lakk1252,http://concepticon.clld.org/parameters/617,ччех дикІру,ice
+526-219,lakk1252,http://concepticon.clld.org/parameters/952,гьавалул тагьар,weather
+526-207,lakk1252,http://concepticon.clld.org/parameters/221,цІу,fire
+526-428,lakk1252,http://concepticon.clld.org/parameters/889,лама,flame (noun)
+526-747,lakk1252,http://concepticon.clld.org/parameters/778,пуркІу,smoke (noun)
+526-466,lakk1252,http://concepticon.clld.org/parameters/646,лах,ashes
+526-698,lakk1252,http://concepticon.clld.org/parameters/67,йатІул ларгсса кІалаш,embers
+526-1326,lakk1252,http://concepticon.clld.org/parameters/141,ччучин,burn (vb trans)
+526-602,lakk1252,http://concepticon.clld.org/parameters/1428,ччучлан,burn (vb intrans)
+526-602,lakk1252,http://concepticon.clld.org/parameters/737,ччучлан,"light, kindle, ignite"
+526-752,lakk1252,http://concepticon.clld.org/parameters/737,цІулахъан дан,"light, kindle, ignite"
+526-395,lakk1252,http://concepticon.clld.org/parameters/127,лещан,extinguish
+526-945,lakk1252,http://concepticon.clld.org/parameters/1133,пилта,match (noun)
+526-852,lakk1252,http://concepticon.clld.org/parameters/10,тІама,firewood
+526-1233,lakk1252,http://concepticon.clld.org/parameters/1188,тІаннул кІалаш,charcoal
+526-49,lakk1252,http://concepticon.clld.org/parameters/683,инсан,"person, human being"
+526-1077,lakk1252,http://concepticon.clld.org/parameters/1554,адимина,man (vs. woman)
+526-723,lakk1252,http://concepticon.clld.org/parameters/962,щарсса,woman
+526-640,lakk1252,http://concepticon.clld.org/parameters/2263,бурхьнимур,male
+526-928,lakk1252,http://concepticon.clld.org/parameters/2260,ццумур,female
+526-1221,lakk1252,http://concepticon.clld.org/parameters/1366,оьрчІ,boy
+526-494,lakk1252,http://concepticon.clld.org/parameters/76,чІава жагьил,young man (adolescent)
+526-1091,lakk1252,http://concepticon.clld.org/parameters/1646,душ,girl
+526-1091,lakk1252,http://concepticon.clld.org/parameters/77,душ,young woman (adolescent)
+526-39,lakk1252,http://concepticon.clld.org/parameters/77,балугъравун бувхсса,young woman (adolescent)
+526-1066,lakk1252,http://concepticon.clld.org/parameters/1304,нанна,child
+526-1041,lakk1252,http://concepticon.clld.org/parameters/1304,чIивитIу,child
+526-187,lakk1252,http://concepticon.clld.org/parameters/1289,чІивитІу,"infant, baby"
+526-465,lakk1252,http://concepticon.clld.org/parameters/1200,лас,husband
+526-723,lakk1252,http://concepticon.clld.org/parameters/1199,щарсса,wife
+526-865,lakk1252,http://concepticon.clld.org/parameters/1199,кулпат,wife
+526-489,lakk1252,http://concepticon.clld.org/parameters/203,щар дуцин,marry
+526-48,lakk1252,http://concepticon.clld.org/parameters/203,щар хьун,marry
+526-1267,lakk1252,http://concepticon.clld.org/parameters/1259,хъатІи,"marriage, wedding"
+526-876,lakk1252,http://concepticon.clld.org/parameters/1259,ташу,"marriage, wedding"
+526-203,lakk1252,http://concepticon.clld.org/parameters/1134,личІи шаву,divorce
+526-237,lakk1252,http://concepticon.clld.org/parameters/1217,ппу,father
+526-1419,lakk1252,http://concepticon.clld.org/parameters/1216,нину,mother
+526-674,lakk1252,http://concepticon.clld.org/parameters/505,нину-ппу,parents
+526-173,lakk1252,http://concepticon.clld.org/parameters/424,щар дурцусса,married man
+526-817,lakk1252,http://concepticon.clld.org/parameters/426,щар хьусса,married woman
+526-972,lakk1252,http://concepticon.clld.org/parameters/1620,арс,son
+526-1091,lakk1252,http://concepticon.clld.org/parameters/1357,душ,daughter
+526-230,lakk1252,http://concepticon.clld.org/parameters/1801,оьрчІру,offspring (son or daughter)
+526-952,lakk1252,http://concepticon.clld.org/parameters/1801,наслу,offspring (son or daughter)
+526-932,lakk1252,http://concepticon.clld.org/parameters/1262,уссу,brother
+526-606,lakk1252,http://concepticon.clld.org/parameters/1759,хъунама уссу,older brother
+526-1418,lakk1252,http://concepticon.clld.org/parameters/1760,чІивима уссу,younger brother
+526-672,lakk1252,http://concepticon.clld.org/parameters/1263,ссу,sister
+526-348,lakk1252,http://concepticon.clld.org/parameters/1758,хъунмур ссу,older sister
+526-1190,lakk1252,http://concepticon.clld.org/parameters/1761,чІивимур ссу,younger sister
+526-932,lakk1252,http://concepticon.clld.org/parameters/1640,уссу,sibling
+526-672,lakk1252,http://concepticon.clld.org/parameters/1640,ссу,sibling
+526-1231,lakk1252,http://concepticon.clld.org/parameters/1005,кІинничалт,twins
+526-530,lakk1252,http://concepticon.clld.org/parameters/1383,ттатта,grandfather
+526-527,lakk1252,http://concepticon.clld.org/parameters/406,къужа,old man
+526-815,lakk1252,http://concepticon.clld.org/parameters/1496,хъунна аму,grandmother
+526-345,lakk1252,http://concepticon.clld.org/parameters/1496,мяммал дада,grandmother
+526-694,lakk1252,http://concepticon.clld.org/parameters/907,къари,old woman
+526-323,lakk1252,http://concepticon.clld.org/parameters/1618,арснал арс,grandson
+526-1086,lakk1252,http://concepticon.clld.org/parameters/1618,душнил арс,grandson
+526-874,lakk1252,http://concepticon.clld.org/parameters/1619,арснал душ,granddaughter
+526-682,lakk1252,http://concepticon.clld.org/parameters/1619,душнил душ,granddaughter
+526-1173,lakk1252,http://concepticon.clld.org/parameters/1327,буттауссу,uncle
+526-31,lakk1252,http://concepticon.clld.org/parameters/1327,ниттиуссу,uncle
+526-31,lakk1252,http://concepticon.clld.org/parameters/1984,ниттиуссу,mother's brother
+526-1173,lakk1252,http://concepticon.clld.org/parameters/1985,буттауссу,father's brother
+526-518,lakk1252,http://concepticon.clld.org/parameters/1272,басси,aunt
+526-433,lakk1252,http://concepticon.clld.org/parameters/1272,ттиссу,aunt
+526-99,lakk1252,http://concepticon.clld.org/parameters/171,ниттил ссу,mother's sister
+526-433,lakk1252,http://concepticon.clld.org/parameters/171,ттиссу,mother's sister
+526-1406,lakk1252,http://concepticon.clld.org/parameters/170,буттал ссу,father's sister
+526-518,lakk1252,http://concepticon.clld.org/parameters/170,басси,father's sister
+526-273,lakk1252,http://concepticon.clld.org/parameters/1063,ссил арс,nephew
+526-837,lakk1252,http://concepticon.clld.org/parameters/1063,уссил арс,nephew
+526-925,lakk1252,http://concepticon.clld.org/parameters/1642,ссил душ,niece
+526-651,lakk1252,http://concepticon.clld.org/parameters/1642,уссил душ,niece
+526-71,lakk1252,http://concepticon.clld.org/parameters/1643,ссурахъу,cousin
+526-825,lakk1252,http://concepticon.clld.org/parameters/1643,ссурахъулссу,cousin
+526-814,lakk1252,http://concepticon.clld.org/parameters/1669,буттал буттахъул,ancestors
+526-903,lakk1252,http://concepticon.clld.org/parameters/490,авлад,descendants
+526-22,lakk1252,http://concepticon.clld.org/parameters/2255,ласнал ппу,father-in-law (of a man)
+526-617,lakk1252,http://concepticon.clld.org/parameters/2254,щарнил ппу,father-in-law (of a woman)
+526-509,lakk1252,http://concepticon.clld.org/parameters/2256,ласнал нину,mother-in-law (of a man)
+526-50,lakk1252,http://concepticon.clld.org/parameters/2257,щарнил нину,mother-in-law (of a woman)
+526-746,lakk1252,http://concepticon.clld.org/parameters/2267,куйав,son-in-law (of a man)
+526-746,lakk1252,http://concepticon.clld.org/parameters/2266,куйав,son-in-law (of a woman)
+526-968,lakk1252,http://concepticon.clld.org/parameters/2265,арснал щар,daughter-in-law (of a man)
+526-968,lakk1252,http://concepticon.clld.org/parameters/2264,арснал щар,daughter-in-law (of a woman)
+526-1223,lakk1252,http://concepticon.clld.org/parameters/2264,уссил щар,daughter-in-law (of a woman)
+526-1307,lakk1252,http://concepticon.clld.org/parameters/2264,жалин,daughter-in-law (of a woman)
+526-887,lakk1252,http://concepticon.clld.org/parameters/237,аьвкъун ппу,stepfather
+526-551,lakk1252,http://concepticon.clld.org/parameters/236,буттал щар,stepmother
+526-165,lakk1252,http://concepticon.clld.org/parameters/1059,лу арс,stepson
+526-258,lakk1252,http://concepticon.clld.org/parameters/1058,лу душ,stepdaughter
+526-148,lakk1252,http://concepticon.clld.org/parameters/1149,йатин,orphan
+526-1119,lakk1252,http://concepticon.clld.org/parameters/1756,щащар,widow
+526-25,lakk1252,http://concepticon.clld.org/parameters/1756,щахъали,widow
+526-369,lakk1252,http://concepticon.clld.org/parameters/1981,курчІучув,widower
+526-1395,lakk1252,http://concepticon.clld.org/parameters/1644,маччахъул,"relatives, kinsmen"
+526-865,lakk1252,http://concepticon.clld.org/parameters/194,кулпат,family
+526-528,lakk1252,http://concepticon.clld.org/parameters/1209,на,I
+526-467,lakk1252,http://concepticon.clld.org/parameters/1215,ина,you (singular)
+526-392,lakk1252,http://concepticon.clld.org/parameters/262,га,he/she/it
+526-394,lakk1252,http://concepticon.clld.org/parameters/262,ге,he/she/it
+526-623,lakk1252,http://concepticon.clld.org/parameters/262,та,he/she/it
+526-1306,lakk1252,http://concepticon.clld.org/parameters/1212,жу,we
+526-1334,lakk1252,http://concepticon.clld.org/parameters/1131,—,we (inclusive)
+526-1334,lakk1252,http://concepticon.clld.org/parameters/1130,—,we (exclusive)
+526-1222,lakk1252,http://concepticon.clld.org/parameters/1213,зу,you (plural)
+526-121,lakk1252,http://concepticon.clld.org/parameters/817,гай,they
+526-879,lakk1252,http://concepticon.clld.org/parameters/619,хІайван,animal
+526-511,lakk1252,http://concepticon.clld.org/parameters/2261,арантурал,male (adj)
+526-664,lakk1252,http://concepticon.clld.org/parameters/2262,хъаннил,female (adj)
+526-1225,lakk1252,http://concepticon.clld.org/parameters/631,шаппасса гъаттара,livestock
+526-616,lakk1252,http://concepticon.clld.org/parameters/649,авлахъ,pasture
+526-1162,lakk1252,http://concepticon.clld.org/parameters/263,хІухчу,herdsman
+526-54,lakk1252,http://concepticon.clld.org/parameters/851,дучра ппал,"stable, stall"
+526-1261,lakk1252,http://concepticon.clld.org/parameters/1153,хъуни гъаттара,cattle (bovine)
+526-161,lakk1252,http://concepticon.clld.org/parameters/1008,бугъа,bull
+526-822,lakk1252,http://concepticon.clld.org/parameters/1169,ниц,ox
+526-343,lakk1252,http://concepticon.clld.org/parameters/1007,оьл,cow
+526-38,lakk1252,http://concepticon.clld.org/parameters/1989,бярч,calf
+526-1296,lakk1252,http://concepticon.clld.org/parameters/1331,йатту,sheep
+526-1072,lakk1252,http://concepticon.clld.org/parameters/1344,ку,ram
+526-1018,lakk1252,http://concepticon.clld.org/parameters/1345,тта,ewe
+526-293,lakk1252,http://concepticon.clld.org/parameters/820,чІи,lamb
+526-627,lakk1252,http://concepticon.clld.org/parameters/1348,дунгъуз,boar
+526-864,lakk1252,http://concepticon.clld.org/parameters/1348,буркI,boar
+526-321,lakk1252,http://concepticon.clld.org/parameters/1351,карчІру дай дунгъуз,sow (2)
+526-627,lakk1252,http://concepticon.clld.org/parameters/1337,дунгъуз,pig
+526-611,lakk1252,http://concepticon.clld.org/parameters/1502,кьяца,goat
+526-1205,lakk1252,http://concepticon.clld.org/parameters/264,цІуку,he-goat
+526-1335,lakk1252,http://concepticon.clld.org/parameters/1972,гада,kid
+526-366,lakk1252,http://concepticon.clld.org/parameters/615,чу,horse (equine)
+526-811,lakk1252,http://concepticon.clld.org/parameters/936,айгъур,stallion
+526-849,lakk1252,http://concepticon.clld.org/parameters/938,ккацца,mare
+526-1152,lakk1252,http://concepticon.clld.org/parameters/1647,тяй,"foal, colt"
+526-425,lakk1252,http://concepticon.clld.org/parameters/1862,ттукку,"ass, donkey"
+526-355,lakk1252,http://concepticon.clld.org/parameters/890,вилцІун,mule
+526-669,lakk1252,http://concepticon.clld.org/parameters/265,ичІаллил лелуххив,fowl
+526-1129,lakk1252,http://concepticon.clld.org/parameters/1511,аьжари,"cock, rooster"
+526-215,lakk1252,http://concepticon.clld.org/parameters/1514,аьнакІи,hen
+526-383,lakk1252,http://concepticon.clld.org/parameters/1318,аьнакІул оьрчІ,chicken
+526-574,lakk1252,http://concepticon.clld.org/parameters/1187,къаз,goose
+526-855,lakk1252,http://concepticon.clld.org/parameters/1360,урдак,duck
+526-532,lakk1252,http://concepticon.clld.org/parameters/539,кюру,nest
+526-67,lakk1252,http://concepticon.clld.org/parameters/937,чІелму,bird
+526-1392,lakk1252,http://concepticon.clld.org/parameters/950,чайка,seagull
+526-608,lakk1252,http://concepticon.clld.org/parameters/758,хІажилалаг,heron
+526-1064,lakk1252,http://concepticon.clld.org/parameters/1905,барзу,eagle
+526-1104,lakk1252,http://concepticon.clld.org/parameters/307,лачин,hawk
+526-517,lakk1252,http://concepticon.clld.org/parameters/307,къарчигъай,hawk
+526-1064,lakk1252,http://concepticon.clld.org/parameters/1185,барзу,vulture
+526-436,lakk1252,http://concepticon.clld.org/parameters/1793,ххячара чІелму,bat
+526-1325,lakk1252,http://concepticon.clld.org/parameters/882,тутукъуш,parrot
+526-1158,lakk1252,http://concepticon.clld.org/parameters/913,лухІи хъатІу,crow
+526-633,lakk1252,http://concepticon.clld.org/parameters/1853,хьхьи,dove
+526-386,lakk1252,http://concepticon.clld.org/parameters/735,ису,owl
+526-1352,lakk1252,http://concepticon.clld.org/parameters/735,ччиккумяв,owl
+526-726,lakk1252,http://concepticon.clld.org/parameters/2009,ккаччи,dog
+526-181,lakk1252,http://concepticon.clld.org/parameters/1136,бюрх,rabbit
+526-1390,lakk1252,http://concepticon.clld.org/parameters/1208,ччиту,cat
+526-1334,lakk1252,http://concepticon.clld.org/parameters/309,—,opossum
+526-185,lakk1252,http://concepticon.clld.org/parameters/2139,кІулу,"mouse, rat"
+526-893,lakk1252,http://concepticon.clld.org/parameters/2139,къурчча кIулу,"mouse, rat"
+526-397,lakk1252,http://concepticon.clld.org/parameters/227,балугъ,fish
+526-1180,lakk1252,http://concepticon.clld.org/parameters/227,хІабри,fish
+526-1246,lakk1252,http://concepticon.clld.org/parameters/213,балугърал хъа,fin (dorsal)
+526-251,lakk1252,http://concepticon.clld.org/parameters/266,балугърал булчу,fishscale
+526-1334,lakk1252,http://concepticon.clld.org/parameters/1916,—,gill
+526-1149,lakk1252,http://concepticon.clld.org/parameters/598,балугърал вичІи,shell
+526-364,lakk1252,http://concepticon.clld.org/parameters/1110,акула,shark
+526-244,lakk1252,http://concepticon.clld.org/parameters/1479,дельфин,"porpoise, dolphin"
+526-1311,lakk1252,http://concepticon.clld.org/parameters/957,кит,whale
+526-895,lakk1252,http://concepticon.clld.org/parameters/957,къуртма,whale
+526-1334,lakk1252,http://concepticon.clld.org/parameters/1910,—,stingray
+526-1334,lakk1252,http://concepticon.clld.org/parameters/1013,—,freshwater eel
+526-1083,lakk1252,http://concepticon.clld.org/parameters/522,барцІ,wolf
+526-902,lakk1252,http://concepticon.clld.org/parameters/1386,аслан,lion
+526-361,lakk1252,http://concepticon.clld.org/parameters/1820,цуша,bear
+526-1082,lakk1252,http://concepticon.clld.org/parameters/1312,цулчІа,fox
+526-1391,lakk1252,http://concepticon.clld.org/parameters/1936,бюрни,deer
+526-482,lakk1252,http://concepticon.clld.org/parameters/1936,гьинта,deer
+526-1097,lakk1252,http://concepticon.clld.org/parameters/1350,маймун,monkey
+526-545,lakk1252,http://concepticon.clld.org/parameters/1290,пил,elephant
+526-1169,lakk1252,http://concepticon.clld.org/parameters/1871,варани,camel
+526-1044,lakk1252,http://concepticon.clld.org/parameters/620,ущу-щулгъи,insect
+526-1096,lakk1252,http://concepticon.clld.org/parameters/310,нацІ,louse
+526-214,lakk1252,http://concepticon.clld.org/parameters/310,йан,louse
+526-1349,lakk1252,http://concepticon.clld.org/parameters/267,тІу,nit (louse egg)
+526-184,lakk1252,http://concepticon.clld.org/parameters/232,чІака,flea
+526-349,lakk1252,http://concepticon.clld.org/parameters/1974,вичІилувун духху,centipede
+526-634,lakk1252,http://concepticon.clld.org/parameters/1538,аькьрав,scorpion
+526-1051,lakk1252,http://concepticon.clld.org/parameters/1575,гъангъаратІи,cockroach
+526-1161,lakk1252,http://concepticon.clld.org/parameters/1575,таракан,cockroach
+526-1386,lakk1252,http://concepticon.clld.org/parameters/587,битІикьукьу,ant
+526-480,lakk1252,http://concepticon.clld.org/parameters/843,ххарша ххялцу,spider
+526-797,lakk1252,http://concepticon.clld.org/parameters/1065,ххялцул чухъа,spider web
+526-27,lakk1252,http://concepticon.clld.org/parameters/665,най,bee
+526-29,lakk1252,http://concepticon.clld.org/parameters/1931,хъан,beeswax
+526-732,lakk1252,http://concepticon.clld.org/parameters/88,найлул хъатта,beehive
+526-1412,lakk1252,http://concepticon.clld.org/parameters/1517,щахха най,wasp
+526-153,lakk1252,http://concepticon.clld.org/parameters/1504,зимиз,fly
+526-209,lakk1252,http://concepticon.clld.org/parameters/95,мичІак,"sandfly (midge), gnat"
+526-209,lakk1252,http://concepticon.clld.org/parameters/1509,мичІак,mosquito
+526-523,lakk1252,http://concepticon.clld.org/parameters/1219,кьюнукьи шатта,worm
+526-205,lakk1252,http://concepticon.clld.org/parameters/730,шатта,snake
+526-455,lakk1252,http://concepticon.clld.org/parameters/206,чирахъ-шатта,firefly
+526-943,lakk1252,http://concepticon.clld.org/parameters/1791,гьалей,butterfly
+526-440,lakk1252,http://concepticon.clld.org/parameters/1791,чІимучІали,butterfly
+526-670,lakk1252,http://concepticon.clld.org/parameters/607,хъацІ,grasshopper
+526-1002,lakk1252,http://concepticon.clld.org/parameters/1543,бажана ттукку,snail
+526-1126,lakk1252,http://concepticon.clld.org/parameters/503,оьрватІи,frog
+526-516,lakk1252,http://concepticon.clld.org/parameters/632,кьюрщала,lizard
+526-358,lakk1252,http://concepticon.clld.org/parameters/1857,крокодил,"crocodile, alligator"
+526-414,lakk1252,http://concepticon.clld.org/parameters/112,макьара оьрватІи,turtle
+526-894,lakk1252,http://concepticon.clld.org/parameters/1480,чурх,body
+526-1252,lakk1252,http://concepticon.clld.org/parameters/763,бурчу,"skin, hide"
+526-107,lakk1252,http://concepticon.clld.org/parameters/763,ххячара,"skin, hide"
+526-1068,lakk1252,http://concepticon.clld.org/parameters/2259,кьаркьала,flesh
+526-296,lakk1252,http://concepticon.clld.org/parameters/1040,кІиз,hair (head)
+526-1199,lakk1252,http://concepticon.clld.org/parameters/678,чІири,beard
+526-314,lakk1252,http://concepticon.clld.org/parameters/189,чІара,body hair
+526-314,lakk1252,http://concepticon.clld.org/parameters/36,чІара,pubic hair
+526-587,lakk1252,http://concepticon.clld.org/parameters/576,чІачаран,dandruff
+526-845,lakk1252,http://concepticon.clld.org/parameters/946,оь,blood
+526-337,lakk1252,http://concepticon.clld.org/parameters/525,тунну,"vein, artery"
+526-1294,lakk1252,http://concepticon.clld.org/parameters/1394,ттаркІ,bone
+526-1124,lakk1252,http://concepticon.clld.org/parameters/801,нивс,rib
+526-328,lakk1252,http://concepticon.clld.org/parameters/1393,хъи,horn
+526-120,lakk1252,http://concepticon.clld.org/parameters/1220,магъ,tail
+526-1188,lakk1252,http://concepticon.clld.org/parameters/1291,бархІ,back
+526-183,lakk1252,http://concepticon.clld.org/parameters/805,бархІал ттаркІ,spine
+526-924,lakk1252,http://concepticon.clld.org/parameters/1256,бакІ,head
+526-626,lakk1252,http://concepticon.clld.org/parameters/1604,чІантІи,"side of head, temple"
+526-946,lakk1252,http://concepticon.clld.org/parameters/1605,няракъатта,skull
+526-524,lakk1252,http://concepticon.clld.org/parameters/1583,ня,brain
+526-247,lakk1252,http://concepticon.clld.org/parameters/1560,лажин,face
+526-1117,lakk1252,http://concepticon.clld.org/parameters/123,ненттабакІ,forehead
+526-565,lakk1252,http://concepticon.clld.org/parameters/798,ххинчу,jaw
+526-1271,lakk1252,http://concepticon.clld.org/parameters/1730,чІав,cheek
+526-241,lakk1252,http://concepticon.clld.org/parameters/1510,лунттубакІ,chin
+526-756,lakk1252,http://concepticon.clld.org/parameters/1248,йа,eye
+526-1010,lakk1252,http://concepticon.clld.org/parameters/1173,иттацІани,eyebrow
+526-1256,lakk1252,http://concepticon.clld.org/parameters/17,иттархъенну,eyelid
+526-1256,lakk1252,http://concepticon.clld.org/parameters/1540,иттархъенну,eyelash
+526-1195,lakk1252,http://concepticon.clld.org/parameters/1655,мюрш бикІан,blink
+526-632,lakk1252,http://concepticon.clld.org/parameters/1247,вичІи,ear
+526-872,lakk1252,http://concepticon.clld.org/parameters/18,вичІилул уттулу,earlobe
+526-552,lakk1252,http://concepticon.clld.org/parameters/32,вичІилул чІаматІу,earwax
+526-1317,lakk1252,http://concepticon.clld.org/parameters/1221,май,nose
+526-393,lakk1252,http://concepticon.clld.org/parameters/1178,кьункьу ккутІру,nostril
+526-526,lakk1252,http://concepticon.clld.org/parameters/208,оьнцІу,mucus (nasal)
+526-725,lakk1252,http://concepticon.clld.org/parameters/208,мяцІ,mucus (nasal)
+526-848,lakk1252,http://concepticon.clld.org/parameters/208,ччюри,mucus (nasal)
+526-98,lakk1252,http://concepticon.clld.org/parameters/674,кьацІ,mouth
+526-787,lakk1252,http://concepticon.clld.org/parameters/73,къеппа,beak
+526-547,lakk1252,http://concepticon.clld.org/parameters/478,мурччи,lip
+526-1318,lakk1252,http://concepticon.clld.org/parameters/1205,маз,tongue
+526-371,lakk1252,http://concepticon.clld.org/parameters/1380,ккарччи,tooth
+526-1206,lakk1252,http://concepticon.clld.org/parameters/139,синтту,gums
+526-371,lakk1252,http://concepticon.clld.org/parameters/1049,ккарччи,molartooth
+526-138,lakk1252,http://concepticon.clld.org/parameters/1049,ххутІи,molartooth
+526-1200,lakk1252,http://concepticon.clld.org/parameters/1333,ссурссу,neck
+526-1025,lakk1252,http://concepticon.clld.org/parameters/1347,къинтта,nape of neck
+526-594,lakk1252,http://concepticon.clld.org/parameters/1346,кьакьари,throat
+526-1207,lakk1252,http://concepticon.clld.org/parameters/1346,кьюлтІуну,throat
+526-26,lakk1252,http://concepticon.clld.org/parameters/1482,хъачІ,shoulder
+526-558,lakk1252,http://concepticon.clld.org/parameters/172,къуса личча,shoulderblade
+526-1251,lakk1252,http://concepticon.clld.org/parameters/1994,хъаралу-ккуртта,collarbone
+526-1057,lakk1252,http://concepticon.clld.org/parameters/1673,ка,arm
+526-451,lakk1252,http://concepticon.clld.org/parameters/1886,хъаралу ккутІ,armpit
+526-1110,lakk1252,http://concepticon.clld.org/parameters/981,ссюлхъ,elbow
+526-1057,lakk1252,http://concepticon.clld.org/parameters/799,ка,wrist
+526-1057,lakk1252,http://concepticon.clld.org/parameters/1277,ка,hand
+526-839,lakk1252,http://concepticon.clld.org/parameters/1183,витІянхъ,palm of hand
+526-1293,lakk1252,http://concepticon.clld.org/parameters/1303,кІисса,finger
+526-772,lakk1252,http://concepticon.clld.org/parameters/1781,хъун кІисса,thumb
+526-588,lakk1252,http://concepticon.clld.org/parameters/1258,михь,fingernail
+526-271,lakk1252,http://concepticon.clld.org/parameters/72,хьхьиличІ,claw
+526-1106,lakk1252,http://concepticon.clld.org/parameters/1297,ччан,leg
+526-502,lakk1252,http://concepticon.clld.org/parameters/800,бухчІинсса,thigh
+526-1268,lakk1252,http://concepticon.clld.org/parameters/498,бювчІун бихьулт,calf of leg
+526-808,lakk1252,http://concepticon.clld.org/parameters/1371,ник,knee
+526-1167,lakk1252,http://concepticon.clld.org/parameters/1301,чІан ччан,foot
+526-839,lakk1252,http://concepticon.clld.org/parameters/803,витІянхъ,ankle
+526-220,lakk1252,http://concepticon.clld.org/parameters/980,никъа,heel
+526-1366,lakk1252,http://concepticon.clld.org/parameters/318,ша,footprint
+526-735,lakk1252,http://concepticon.clld.org/parameters/1389,кІисса (ччаннал),toe
+526-331,lakk1252,http://concepticon.clld.org/parameters/1257,хъа,wing
+526-721,lakk1252,http://concepticon.clld.org/parameters/1201,ппиргъу,feather
+526-1116,lakk1252,http://concepticon.clld.org/parameters/1592,хъазамрал ула,chest
+526-1159,lakk1252,http://concepticon.clld.org/parameters/1402,хъазам,breast (of woman)
+526-982,lakk1252,http://concepticon.clld.org/parameters/796,ккуккулул бакІ,"nipple, teat"
+526-1052,lakk1252,http://concepticon.clld.org/parameters/154,къал,udder
+526-1411,lakk1252,http://concepticon.clld.org/parameters/1838,цІун,navel
+526-792,lakk1252,http://concepticon.clld.org/parameters/1223,дакІ,heart
+526-596,lakk1252,http://concepticon.clld.org/parameters/1223,къюкІ,heart
+526-421,lakk1252,http://concepticon.clld.org/parameters/688,гьутлу,lung
+526-553,lakk1252,http://concepticon.clld.org/parameters/1224,ттиликІ,liver
+526-324,lakk1252,http://concepticon.clld.org/parameters/489,ччарлу,kidney
+526-282,lakk1252,http://concepticon.clld.org/parameters/1744,сситту-кьучІ,spleen
+526-951,lakk1252,http://concepticon.clld.org/parameters/819,цІуму,stomach
+526-679,lakk1252,http://concepticon.clld.org/parameters/1991,ганз ххютту,"intestines, guts"
+526-1105,lakk1252,http://concepticon.clld.org/parameters/1681,ляличІу,waist
+526-179,lakk1252,http://concepticon.clld.org/parameters/1745,бухчІинсса жира,hip
+526-236,lakk1252,http://concepticon.clld.org/parameters/834,ккутІнил чІапІив,buttocks
+526-1136,lakk1252,http://concepticon.clld.org/parameters/804,оьрчІа-къатта,womb
+526-376,lakk1252,http://concepticon.clld.org/parameters/797,ккумуллив,testicle
+526-1327,lakk1252,http://concepticon.clld.org/parameters/1222,матІа,penis
+526-719,lakk1252,http://concepticon.clld.org/parameters/1407,ссихІ бигьин,"breathe, breath"
+526-448,lakk1252,http://concepticon.clld.org/parameters/1407,ссихІирал ххуллу,"breathe, breath"
+526-385,lakk1252,http://concepticon.clld.org/parameters/1028,гьагьру биллан,"yawn, gape"
+526-948,lakk1252,http://concepticon.clld.org/parameters/162,гьукІ биллан,hiccough
+526-1073,lakk1252,http://concepticon.clld.org/parameters/879,хІугьу тІун,cough
+526-1332,lakk1252,http://concepticon.clld.org/parameters/1621,аьнча тІун,sneeze
+526-652,lakk1252,http://concepticon.clld.org/parameters/126,гьухъа итан,perspire
+526-701,lakk1252,http://concepticon.clld.org/parameters/1440,пув тІун,spit
+526-1266,lakk1252,http://concepticon.clld.org/parameters/1440,пув,spit
+526-918,lakk1252,http://concepticon.clld.org/parameters/1278,кІарчІ биллан,vomit
+526-927,lakk1252,http://concepticon.clld.org/parameters/1403,кьацІ учин,bite
+526-257,lakk1252,http://concepticon.clld.org/parameters/319,ланцІ учин,lick
+526-919,lakk1252,http://concepticon.clld.org/parameters/268,хьурхьул нан,dribble
+526-304,lakk1252,http://concepticon.clld.org/parameters/1585,шанан,sleep
+526-377,lakk1252,http://concepticon.clld.org/parameters/1983,ххюнхху тІун,snore
+526-713,lakk1252,http://concepticon.clld.org/parameters/1920,макІ ккаккан,dream
+526-224,lakk1252,http://concepticon.clld.org/parameters/1602,чантІ учин,wake up
+526-778,lakk1252,http://concepticon.clld.org/parameters/1159,гьава буккан,break wind
+526-419,lakk1252,http://concepticon.clld.org/parameters/1159,чІекь битан,break wind
+526-561,lakk1252,http://concepticon.clld.org/parameters/592,кІущин бан,urinate
+526-548,lakk1252,http://concepticon.clld.org/parameters/676,кьатІув уккан,defecate
+526-922,lakk1252,http://concepticon.clld.org/parameters/1785,цачІун хъанан,have sexual intercourse
+526-824,lakk1252,http://concepticon.clld.org/parameters/52,зурзу тІун,shiver
+526-819,lakk1252,http://concepticon.clld.org/parameters/138,щинавун бучІан,bathe
+526-554,lakk1252,http://concepticon.clld.org/parameters/1152,оьрчІ бан,beget (of father)
+526-1224,lakk1252,http://concepticon.clld.org/parameters/1152,наслу бан,beget (of father)
+526-554,lakk1252,http://concepticon.clld.org/parameters/1090,оьрчІ бан,born (to be)
+526-174,lakk1252,http://concepticon.clld.org/parameters/1123,лякьлуву хьусса,pregnant
+526-458,lakk1252,http://concepticon.clld.org/parameters/1087,оьрчІан хьун,conceive
+526-1340,lakk1252,http://concepticon.clld.org/parameters/1087,лякьлул хьун,conceive
+526-1330,lakk1252,http://concepticon.clld.org/parameters/1422,йа хьун,"live, living, life"
+526-157,lakk1252,http://concepticon.clld.org/parameters/1422,оьрму бутлан,"live, living, life"
+526-225,lakk1252,http://concepticon.clld.org/parameters/1422,сагъсса,"live, living, life"
+526-208,lakk1252,http://concepticon.clld.org/parameters/1422,оьрму,"live, living, life"
+526-30,lakk1252,http://concepticon.clld.org/parameters/1494,ивчІан,"die, dead"
+526-1059,lakk1252,http://concepticon.clld.org/parameters/1494,ивкІусса,"die, dead"
+526-641,lakk1252,http://concepticon.clld.org/parameters/1494,къуртал хьун,"die, dead"
+526-454,lakk1252,http://concepticon.clld.org/parameters/1494,накьлу хьун,"die, dead"
+526-1090,lakk1252,http://concepticon.clld.org/parameters/1904,оьвкьума,drowned
+526-233,lakk1252,http://concepticon.clld.org/parameters/1904,оьвкьусса,drowned
+526-116,lakk1252,http://concepticon.clld.org/parameters/1417,литІун,kill
+526-564,lakk1252,http://concepticon.clld.org/parameters/767,жаназа,corpse
+526-1068,lakk1252,http://concepticon.clld.org/parameters/767,кьаркьала,corpse
+526-16,lakk1252,http://concepticon.clld.org/parameters/1719,буччин,bury (the dead)
+526-1243,lakk1252,http://concepticon.clld.org/parameters/1773,гьав,"grave, tomb"
+526-884,lakk1252,http://concepticon.clld.org/parameters/785,гужсса,"strong, mighty, powerful"
+526-1384,lakk1252,http://concepticon.clld.org/parameters/785,гуж бусса,"strong, mighty, powerful"
+526-100,lakk1252,http://concepticon.clld.org/parameters/1601,хІал бакъасса,weak
+526-1189,lakk1252,http://concepticon.clld.org/parameters/1601,илтІасса,weak
+526-794,lakk1252,http://concepticon.clld.org/parameters/1601,кьадарсса,weak
+526-1355,lakk1252,http://concepticon.clld.org/parameters/1364,загълунсса,"well, health"
+526-384,lakk1252,http://concepticon.clld.org/parameters/1364,цІуллушиву,"well, health"
+526-479,lakk1252,http://concepticon.clld.org/parameters/1847,къашавайсса,"sick, sickness"
+526-1214,lakk1252,http://concepticon.clld.org/parameters/1847,азар,"sick, sickness"
+526-76,lakk1252,http://concepticon.clld.org/parameters/1534,кІиришиву,fever
+526-439,lakk1252,http://concepticon.clld.org/parameters/1534,зурзу буллан,fever
+526-1372,lakk1252,http://concepticon.clld.org/parameters/1957,оьнкьучІи,goiter
+526-1034,lakk1252,http://concepticon.clld.org/parameters/102,аьвкъу-гъели щаву,cold (catarrh)
+526-33,lakk1252,http://concepticon.clld.org/parameters/1109,щаву,"wound, sore"
+526-398,lakk1252,http://concepticon.clld.org/parameters/1109,кьурчІу,"wound, sore"
+526-1239,lakk1252,http://concepticon.clld.org/parameters/1148,цІуншаву,bruise
+526-406,lakk1252,http://concepticon.clld.org/parameters/1903,дурухлу,swelling
+526-1150,lakk1252,http://concepticon.clld.org/parameters/148,ччуччи,itch
+526-1371,lakk1252,http://concepticon.clld.org/parameters/1584,щинатІари,blister
+526-413,lakk1252,http://concepticon.clld.org/parameters/793,пицІу,boil (noun)
+526-462,lakk1252,http://concepticon.clld.org/parameters/1808,лал,pus
+526-33,lakk1252,http://concepticon.clld.org/parameters/497,щаву,scar
+526-24,lakk1252,http://concepticon.clld.org/parameters/497,щаву кьянкьа,scar
+526-1393,lakk1252,http://concepticon.clld.org/parameters/499,хъин ан,"cure, heal"
+526-315,lakk1252,http://concepticon.clld.org/parameters/499,дару буллан,"cure, heal"
+526-1269,lakk1252,http://concepticon.clld.org/parameters/597,хІакин,physician
+526-1331,lakk1252,http://concepticon.clld.org/parameters/597,тухтур,physician
+526-1219,lakk1252,http://concepticon.clld.org/parameters/1372,дарман,"medicine, drug"
+526-320,lakk1252,http://concepticon.clld.org/parameters/1372,дару,"medicine, drug"
+526-637,lakk1252,http://concepticon.clld.org/parameters/655,загьру,poison
+526-1204,lakk1252,http://concepticon.clld.org/parameters/1757,увхусса,"tired, weary"
+526-844,lakk1252,http://concepticon.clld.org/parameters/1757,авкІусса,"tired, weary"
+526-370,lakk1252,http://concepticon.clld.org/parameters/168,бигьа лаган,rest
+526-1368,lakk1252,http://concepticon.clld.org/parameters/1564,курчІилсса,lazy
+526-491,lakk1252,http://concepticon.clld.org/parameters/1125,чІянчІасса,bald
+526-745,lakk1252,http://concepticon.clld.org/parameters/320,аьрчча тІун,lame
+526-645,lakk1252,http://concepticon.clld.org/parameters/996,къюкІсса,deaf
+526-298,lakk1252,http://concepticon.clld.org/parameters/1666,чІу къабайайсса,mute
+526-583,lakk1252,http://concepticon.clld.org/parameters/1653,мурчІисса,blind
+526-70,lakk1252,http://concepticon.clld.org/parameters/1463,увччу хьусса,intoxicated
+526-1302,lakk1252,http://concepticon.clld.org/parameters/590,кІячІасса,"naked, bare"
+526-749,lakk1252,http://concepticon.clld.org/parameters/1336,канан,eat
+526-290,lakk1252,http://concepticon.clld.org/parameters/1336,дукан,eat
+526-1155,lakk1252,http://concepticon.clld.org/parameters/256,дукра,food
+526-835,lakk1252,http://concepticon.clld.org/parameters/269,шавхьсса,cooked
+526-1249,lakk1252,http://concepticon.clld.org/parameters/1959,хъавтусса,raw
+526-1048,lakk1252,http://concepticon.clld.org/parameters/178,бивсса,ripe
+526-93,lakk1252,http://concepticon.clld.org/parameters/1958,къабивсса,"green, unripe"
+526-580,lakk1252,http://concepticon.clld.org/parameters/1728,аьвсса,rotten
+526-1047,lakk1252,http://concepticon.clld.org/parameters/1401,хІачІан,drink
+526-983,lakk1252,http://concepticon.clld.org/parameters/1533,ккаши,hunger
+526-983,lakk1252,http://concepticon.clld.org/parameters/199,ккаши,famine
+526-189,lakk1252,http://concepticon.clld.org/parameters/848,мякь,thirst
+526-1166,lakk1252,http://concepticon.clld.org/parameters/1421,цІупІа тІун,suck
+526-14,lakk1252,http://concepticon.clld.org/parameters/321,ккюхІлан,chew
+526-1022,lakk1252,http://concepticon.clld.org/parameters/897,кьюлтІ учин,swallow
+526-249,lakk1252,http://concepticon.clld.org/parameters/129,бугъ уллан,choke
+526-106,lakk1252,http://concepticon.clld.org/parameters/1100,шахьан,cook
+526-158,lakk1252,http://concepticon.clld.org/parameters/792,щара лахълан,boil (vb)
+526-692,lakk1252,http://concepticon.clld.org/parameters/2146,цІарайх дуллан,"roast, fry"
+526-550,lakk1252,http://concepticon.clld.org/parameters/183,дагъ дан,bake
+526-549,lakk1252,http://concepticon.clld.org/parameters/1143,пич,oven
+526-678,lakk1252,http://concepticon.clld.org/parameters/1462,чаг,"pot, cooking vessel"
+526-1006,lakk1252,http://concepticon.clld.org/parameters/854,чяйникІ,kettle
+526-150,lakk1252,http://concepticon.clld.org/parameters/31,кІункІур,pan
+526-1026,lakk1252,http://concepticon.clld.org/parameters/481,куртІусса кІичІу,dish
+526-1084,lakk1252,http://concepticon.clld.org/parameters/481,куртІусса кІанцІ,dish
+526-915,lakk1252,http://concepticon.clld.org/parameters/480,кІичІу,plate
+526-1394,lakk1252,http://concepticon.clld.org/parameters/480,кІанцІ,plate
+526-915,lakk1252,http://concepticon.clld.org/parameters/1530,кІичІу,bowl
+526-10,lakk1252,http://concepticon.clld.org/parameters/270,парш,"pitcher, jug"
+526-1376,lakk1252,http://concepticon.clld.org/parameters/270,къукъу,"pitcher, jug"
+526-144,lakk1252,http://concepticon.clld.org/parameters/270,хава,"pitcher, jug"
+526-154,lakk1252,http://concepticon.clld.org/parameters/476,нярачи,"cup, drinking vessel"
+526-359,lakk1252,http://concepticon.clld.org/parameters/271,бушкъап,saucer
+526-469,lakk1252,http://concepticon.clld.org/parameters/1378,къуса,spoon
+526-88,lakk1252,http://concepticon.clld.org/parameters/1352,чІила,knife (2)
+526-218,lakk1252,http://concepticon.clld.org/parameters/1302,гьиссилу,fork (2)
+526-400,lakk1252,http://concepticon.clld.org/parameters/272,къяцІа,tongs
+526-103,lakk1252,http://concepticon.clld.org/parameters/1526,дукра дукаву,meal (a)
+526-973,lakk1252,http://concepticon.clld.org/parameters/1322,кІюрххилсса,breakfast
+526-445,lakk1252,http://concepticon.clld.org/parameters/768,кьацI-мацI учин,lunch
+526-43,lakk1252,http://concepticon.clld.org/parameters/1833,ахттайнсса,dinner
+526-866,lakk1252,http://concepticon.clld.org/parameters/1833,гьанттайнсса,supper
+526-130,lakk1252,http://concepticon.clld.org/parameters/275,марцІ бан,peel
+526-382,lakk1252,http://concepticon.clld.org/parameters/86,дигьин,"sieve, strain"
+526-1038,lakk1252,http://concepticon.clld.org/parameters/86,кІучІин,"sieve, strain"
+526-13,lakk1252,http://concepticon.clld.org/parameters/1767,ссуку буллан,scrape
+526-7,lakk1252,http://concepticon.clld.org/parameters/2017,хІала буллан,"stir, mix"
+526-488,lakk1252,http://concepticon.clld.org/parameters/1368,ччатІ,bread
+526-697,lakk1252,http://concepticon.clld.org/parameters/273,иникІма,dough
+526-206,lakk1252,http://concepticon.clld.org/parameters/274,иникІма даргъин,knead
+526-211,lakk1252,http://concepticon.clld.org/parameters/1594,иникьали,"meal, flour"
+526-1172,lakk1252,http://concepticon.clld.org/parameters/1033,хьхьачин,"crush, grind"
+526-579,lakk1252,http://concepticon.clld.org/parameters/636,гьарахъалу,mill
+526-64,lakk1252,http://concepticon.clld.org/parameters/224,лаччибуту,mortar (2)
+526-788,lakk1252,http://concepticon.clld.org/parameters/224,гьаманг,mortar (2)
+526-311,lakk1252,http://concepticon.clld.org/parameters/225,йалунбищу,pestle
+526-1088,lakk1252,http://concepticon.clld.org/parameters/634,дикІ,meat
+526-437,lakk1252,http://concepticon.clld.org/parameters/1874,ккурккумай,sausage
+526-671,lakk1252,http://concepticon.clld.org/parameters/1547,накь,"soup, broth"
+526-109,lakk1252,http://concepticon.clld.org/parameters/924,ахънилсри,vegetables
+526-196,lakk1252,http://concepticon.clld.org/parameters/832,хъюру,bean
+526-306,lakk1252,http://concepticon.clld.org/parameters/593,нувщи,potato
+526-984,lakk1252,http://concepticon.clld.org/parameters/1507,ахъулссри,fruit
+526-147,lakk1252,http://concepticon.clld.org/parameters/1966,мяра,bunch
+526-429,lakk1252,http://concepticon.clld.org/parameters/1966,кацІ,bunch
+526-911,lakk1252,http://concepticon.clld.org/parameters/322,инжир,fig
+526-1186,lakk1252,http://concepticon.clld.org/parameters/920,къюмай тІутІи,grape
+526-654,lakk1252,http://concepticon.clld.org/parameters/191,гьивхь,nut
+526-515,lakk1252,http://concepticon.clld.org/parameters/191,пуннукь,nut
+526-1323,lakk1252,http://concepticon.clld.org/parameters/1154,зайтун,olive
+526-1053,lakk1252,http://concepticon.clld.org/parameters/1484,урттул аьгъушиву,oil
+526-957,lakk1252,http://concepticon.clld.org/parameters/323,аьгъушиву,"grease, fat"
+526-741,lakk1252,http://concepticon.clld.org/parameters/323,аьгъ,"grease, fat"
+526-207,lakk1252,http://concepticon.clld.org/parameters/1274,цІу,salt
+526-559,lakk1252,http://concepticon.clld.org/parameters/1385,иссийавт,pepper
+526-658,lakk1252,http://concepticon.clld.org/parameters/919,мамаш,chili pepper
+526-1014,lakk1252,http://concepticon.clld.org/parameters/919,аьнтсса иссийавт,chili pepper
+526-581,lakk1252,http://concepticon.clld.org/parameters/942,ницІ,honey
+526-715,lakk1252,http://concepticon.clld.org/parameters/862,качар,sugar
+526-688,lakk1252,http://concepticon.clld.org/parameters/635,накІ,milk (noun)
+526-1380,lakk1252,http://concepticon.clld.org/parameters/93,ттизин,milk (vb)
+526-823,lakk1252,http://concepticon.clld.org/parameters/1569,нис,cheese
+526-52,lakk1252,http://concepticon.clld.org/parameters/1245,лагаву,butter
+526-1292,lakk1252,http://concepticon.clld.org/parameters/731,хІачІийа,"beverage, drink"
+526-1265,lakk1252,http://concepticon.clld.org/parameters/941,мачча,mead
+526-1378,lakk1252,http://concepticon.clld.org/parameters/1524,чахир,wine
+526-899,lakk1252,http://concepticon.clld.org/parameters/1524,хІан,wine
+526-492,lakk1252,http://concepticon.clld.org/parameters/1639,пиво,beer
+526-1359,lakk1252,http://concepticon.clld.org/parameters/404,дукьра-хІан,fermented drink
+526-590,lakk1252,http://concepticon.clld.org/parameters/744,ккунук,egg
+526-704,lakk1252,http://concepticon.clld.org/parameters/1556,ккунукрал хъахъу,egg yolk
+526-59,lakk1252,http://concepticon.clld.org/parameters/158,лаххан,put on (clothes)
+526-261,lakk1252,http://concepticon.clld.org/parameters/1895,йанна,"clothing, clothes"
+526-360,lakk1252,http://concepticon.clld.org/parameters/881,йанна дурухху,tailor
+526-261,lakk1252,http://concepticon.clld.org/parameters/1616,йанна,cloth
+526-748,lakk1252,http://concepticon.clld.org/parameters/1616,гапзсса йанна,cloth
+526-703,lakk1252,http://concepticon.clld.org/parameters/964,ппалул йанна,wool
+526-1208,lakk1252,http://concepticon.clld.org/parameters/916,чатан,"linen, flax"
+526-262,lakk1252,http://concepticon.clld.org/parameters/916,мачІ,"linen, flax"
+526-1397,lakk1252,http://concepticon.clld.org/parameters/1850,памма,cotton
+526-253,lakk1252,http://concepticon.clld.org/parameters/1641,сунттул,silk
+526-499,lakk1252,http://concepticon.clld.org/parameters/325,варси,felt
+526-777,lakk1252,http://concepticon.clld.org/parameters/580,хаз,fur
+526-1252,lakk1252,http://concepticon.clld.org/parameters/629,бурчу,leather
+526-330,lakk1252,http://concepticon.clld.org/parameters/121,дуллан,spin
+526-759,lakk1252,http://concepticon.clld.org/parameters/121,шашлан,spin
+526-277,lakk1252,http://concepticon.clld.org/parameters/277,зукка,spindle
+526-329,lakk1252,http://concepticon.clld.org/parameters/133,щашан,weave
+526-775,lakk1252,http://concepticon.clld.org/parameters/1787,хах,loom
+526-896,lakk1252,http://concepticon.clld.org/parameters/1457,дуруххан,sew
+526-177,lakk1252,http://concepticon.clld.org/parameters/1382,ххалаххи,needle
+526-252,lakk1252,http://concepticon.clld.org/parameters/278,ппа,awl
+526-1260,lakk1252,http://concepticon.clld.org/parameters/1161,ххал,thread
+526-127,lakk1252,http://concepticon.clld.org/parameters/157,рангру,dye
+526-576,lakk1252,http://concepticon.clld.org/parameters/326,плащ,cloak
+526-1334,lakk1252,http://concepticon.clld.org/parameters/327,—,poncho
+526-40,lakk1252,http://concepticon.clld.org/parameters/474,гьухъа,woman's dress
+526-264,lakk1252,http://concepticon.clld.org/parameters/603,пІалтІу,coat
+526-40,lakk1252,http://concepticon.clld.org/parameters/1622,гьухъа,shirt
+526-356,lakk1252,http://concepticon.clld.org/parameters/2012,дарвач,collar
+526-987,lakk1252,http://concepticon.clld.org/parameters/1600,йупкка,skirt
+526-987,lakk1252,http://concepticon.clld.org/parameters/328,йупкка,grass-skirt
+526-1263,lakk1252,http://concepticon.clld.org/parameters/809,хІажак,trousers
+526-80,lakk1252,http://concepticon.clld.org/parameters/329,жулар,"stocking, sock"
+526-496,lakk1252,http://concepticon.clld.org/parameters/329,наски,"stocking, sock"
+526-981,lakk1252,http://concepticon.clld.org/parameters/1381,ттупли,shoe
+526-34,lakk1252,http://concepticon.clld.org/parameters/585,батинка,boot
+526-285,lakk1252,http://concepticon.clld.org/parameters/875,чакмачи,"shoemaker, cobbler"
+526-942,lakk1252,http://concepticon.clld.org/parameters/2130,шляпа,"hat, cap"
+526-643,lakk1252,http://concepticon.clld.org/parameters/772,мюхІлу,"belt, girdle"
+526-955,lakk1252,http://concepticon.clld.org/parameters/867,катІа,glove
+526-1182,lakk1252,http://concepticon.clld.org/parameters/1151,иттахсса,veil
+526-960,lakk1252,http://concepticon.clld.org/parameters/1851,жип,pocket
+526-312,lakk1252,http://concepticon.clld.org/parameters/757,кІичІ,button
+526-418,lakk1252,http://concepticon.clld.org/parameters/64,къуппа-ххалаххи,pin
+526-1050,lakk1252,http://concepticon.clld.org/parameters/917,накьич,"ornament, adornment"
+526-831,lakk1252,http://concepticon.clld.org/parameters/1029,ляълулул чару,jewel
+526-647,lakk1252,http://concepticon.clld.org/parameters/1374,каний кІисса,ring (for finger)
+526-156,lakk1252,http://concepticon.clld.org/parameters/1754,каниш,bracelet
+526-322,lakk1252,http://concepticon.clld.org/parameters/1961,чарсса,necklace
+526-997,lakk1252,http://concepticon.clld.org/parameters/1961,вичІил усру,necklace
+526-540,lakk1252,http://concepticon.clld.org/parameters/1860,кюрщан,bead
+526-805,lakk1252,http://concepticon.clld.org/parameters/770,вичІил ус,earring
+526-1347,lakk1252,http://concepticon.clld.org/parameters/330,кьяпа,"headband, headdress"
+526-92,lakk1252,http://concepticon.clld.org/parameters/330,бакIбахIу,"headband, headdress"
+526-1334,lakk1252,http://concepticon.clld.org/parameters/68,—,tattoo
+526-9,lakk1252,http://concepticon.clld.org/parameters/332,мерал карщи,"handkerchief, rag"
+526-705,lakk1252,http://concepticon.clld.org/parameters/1021,лажинлихьу,towel
+526-136,lakk1252,http://concepticon.clld.org/parameters/1475,ттарал,comb
+526-870,lakk1252,http://concepticon.clld.org/parameters/1821,зеххаву,brush
+526-114,lakk1252,http://concepticon.clld.org/parameters/333,хІяллу,braid
+526-415,lakk1252,http://concepticon.clld.org/parameters/151,бритва,razor
+526-1318,lakk1252,http://concepticon.clld.org/parameters/1926,маз,ointment
+526-957,lakk1252,http://concepticon.clld.org/parameters/1926,аьгъушиву,ointment
+526-1187,lakk1252,http://concepticon.clld.org/parameters/788,ссяхІван,soap
+526-522,lakk1252,http://concepticon.clld.org/parameters/1171,дагьани,mirror
+526-630,lakk1252,http://concepticon.clld.org/parameters/1099,йалапар хъанан,"dwell, live"
+526-773,lakk1252,http://concepticon.clld.org/parameters/1252,къатта,house
+526-197,lakk1252,http://concepticon.clld.org/parameters/1678,пукьа,hut
+526-773,lakk1252,http://concepticon.clld.org/parameters/403,къатта,garden-house
+526-269,lakk1252,http://concepticon.clld.org/parameters/1316,чятир,tent
+526-1135,lakk1252,http://concepticon.clld.org/parameters/736,хІайат,"yard, court"
+526-773,lakk1252,http://concepticon.clld.org/parameters/408,къатта,men's house
+526-108,lakk1252,http://concepticon.clld.org/parameters/334,мурцІу къатта,cookhouse
+526-85,lakk1252,http://concepticon.clld.org/parameters/335,кулуб,meeting house
+526-773,lakk1252,http://concepticon.clld.org/parameters/1450,къатта,room
+526-1315,lakk1252,http://concepticon.clld.org/parameters/1567,нуз,"door, gate"
+526-56,lakk1252,http://concepticon.clld.org/parameters/1567,дарваза,"door, gate"
+526-478,lakk1252,http://concepticon.clld.org/parameters/80,къича,"doorpost, jamb"
+526-758,lakk1252,http://concepticon.clld.org/parameters/1596,кьункьула,lock (noun)
+526-478,lakk1252,http://concepticon.clld.org/parameters/1012,къича,"latch, door-bolt"
+526-1282,lakk1252,http://concepticon.clld.org/parameters/1472,кІюла,key
+526-1399,lakk1252,http://concepticon.clld.org/parameters/1375,чІавахьулу,window
+526-405,lakk1252,http://concepticon.clld.org/parameters/1632,чІанкъатта,floor
+526-1202,lakk1252,http://concepticon.clld.org/parameters/933,чІира,wall
+526-734,lakk1252,http://concepticon.clld.org/parameters/185,тав,fireplace
+526-1365,lakk1252,http://concepticon.clld.org/parameters/859,пач,stove
+526-1056,lakk1252,http://concepticon.clld.org/parameters/1305,вярчІу,chimney
+526-853,lakk1252,http://concepticon.clld.org/parameters/1464,чуртту,ladder
+526-724,lakk1252,http://concepticon.clld.org/parameters/1663,тах,bed
+526-1341,lakk1252,http://concepticon.clld.org/parameters/1663,кравать,bed
+526-731,lakk1252,http://concepticon.clld.org/parameters/1044,кІараллу,pillow
+526-333,lakk1252,http://concepticon.clld.org/parameters/806,виргъан,blanket
+526-770,lakk1252,http://concepticon.clld.org/parameters/1476,кІану,chair
+526-730,lakk1252,http://concepticon.clld.org/parameters/1775,усттул,table
+526-1100,lakk1252,http://concepticon.clld.org/parameters/1775,ххунча,table
+526-170,lakk1252,http://concepticon.clld.org/parameters/2131,лампа,"lamp, torch"
+526-995,lakk1252,http://concepticon.clld.org/parameters/2131,панар,"lamp, torch"
+526-1405,lakk1252,http://concepticon.clld.org/parameters/1273,майлул чирахъ,candle
+526-586,lakk1252,http://concepticon.clld.org/parameters/745,къапязийа,shelf
+526-1035,lakk1252,http://concepticon.clld.org/parameters/205,бяшкІана,trough
+526-342,lakk1252,http://concepticon.clld.org/parameters/769,магъи,roof
+526-94,lakk1252,http://concepticon.clld.org/parameters/279,сумал магъи,thatch
+526-124,lakk1252,http://concepticon.clld.org/parameters/280,чІула,ridgepole
+526-477,lakk1252,http://concepticon.clld.org/parameters/829,уттусса,rafter
+526-124,lakk1252,http://concepticon.clld.org/parameters/829,чІула,rafter
+526-124,lakk1252,http://concepticon.clld.org/parameters/1132,чІула,beam
+526-411,lakk1252,http://concepticon.clld.org/parameters/281,ттарцІ,"post, pole"
+526-762,lakk1252,http://concepticon.clld.org/parameters/1227,тахта,board
+526-521,lakk1252,http://concepticon.clld.org/parameters/1227,ула,board
+526-456,lakk1252,http://concepticon.clld.org/parameters/876,кІалан,arch
+526-231,lakk1252,http://concepticon.clld.org/parameters/876,чІалан,arch
+526-712,lakk1252,http://concepticon.clld.org/parameters/877,чарил усттар,mason
+526-1333,lakk1252,http://concepticon.clld.org/parameters/1006,калпуш,brick
+526-126,lakk1252,http://concepticon.clld.org/parameters/1731,киражрал щин,mortar
+526-1369,lakk1252,http://concepticon.clld.org/parameters/901,сина аьрщарал къатта,adobe
+526-318,lakk1252,http://concepticon.clld.org/parameters/979,фермер,farmer
+526-340,lakk1252,http://concepticon.clld.org/parameters/212,хъу,field (for cultivation)
+526-227,lakk1252,http://concepticon.clld.org/parameters/586,багъ,garden
+526-774,lakk1252,http://concepticon.clld.org/parameters/1541,хъу лачал дан,"cultivate, till"
+526-336,lakk1252,http://concepticon.clld.org/parameters/1690,чапар,fence
+526-974,lakk1252,http://concepticon.clld.org/parameters/2002,арх,ditch
+526-1122,lakk1252,http://concepticon.clld.org/parameters/2002,кьаракру,ditch
+526-892,lakk1252,http://concepticon.clld.org/parameters/1921,гъайтІун,plow
+526-1236,lakk1252,http://concepticon.clld.org/parameters/1794,хъазасрал ща,furrow
+526-900,lakk1252,http://concepticon.clld.org/parameters/1418,биххан,dig
+526-1416,lakk1252,http://concepticon.clld.org/parameters/1418,диххан,dig
+526-1112,lakk1252,http://concepticon.clld.org/parameters/1176,чІатІа,spade
+526-755,lakk1252,http://concepticon.clld.org/parameters/1901,ххаканназ,shovel
+526-1074,lakk1252,http://concepticon.clld.org/parameters/284,кулунг,hoe
+526-112,lakk1252,http://concepticon.clld.org/parameters/337,хьулли,fork
+526-416,lakk1252,http://concepticon.clld.org/parameters/338,ххялаххи,rake
+526-390,lakk1252,http://concepticon.clld.org/parameters/748,дугьан,sow
+526-934,lakk1252,http://concepticon.clld.org/parameters/714,гьанна,seed
+526-453,lakk1252,http://concepticon.clld.org/parameters/190,дуцан,"mow, reap"
+526-542,lakk1252,http://concepticon.clld.org/parameters/190,ттихІин,"mow, reap"
+526-638,lakk1252,http://concepticon.clld.org/parameters/2132,мирхь,"sickle, scythe"
+526-727,lakk1252,http://concepticon.clld.org/parameters/2132,чІиникІ,"sickle, scythe"
+526-1078,lakk1252,http://concepticon.clld.org/parameters/285,ччар дуллан,thresh
+526-449,lakk1252,http://concepticon.clld.org/parameters/223,ттарацІалу,threshing-floor
+526-886,lakk1252,http://concepticon.clld.org/parameters/611,бакІлахъийа,"crop, harvest"
+526-966,lakk1252,http://concepticon.clld.org/parameters/605,къама,"grain (barley, oats etc)"
+526-1156,lakk1252,http://concepticon.clld.org/parameters/1077,лачІа,wheat
+526-331,lakk1252,http://concepticon.clld.org/parameters/932,хъа,barley
+526-139,lakk1252,http://concepticon.clld.org/parameters/23,сус,rye
+526-365,lakk1252,http://concepticon.clld.org/parameters/60,нихъа,oats
+526-507,lakk1252,http://concepticon.clld.org/parameters/506,шагьнал лачІа,"maize, corn"
+526-941,lakk1252,http://concepticon.clld.org/parameters/926,ппиринж,rice
+526-1012,lakk1252,http://concepticon.clld.org/parameters/606,уртту,grass
+526-4,lakk1252,http://concepticon.clld.org/parameters/342,ххулув,hay
+526-780,lakk1252,http://concepticon.clld.org/parameters/653,ххяххийа,plant (noun)
+526-221,lakk1252,http://concepticon.clld.org/parameters/1486,ххяххан дуван,plant (vb)
+526-964,lakk1252,http://concepticon.clld.org/parameters/670,мархха,root
+526-1179,lakk1252,http://concepticon.clld.org/parameters/1531,къяртта,branch
+526-826,lakk1252,http://concepticon.clld.org/parameters/628,чІапІи,leaf
+526-707,lakk1252,http://concepticon.clld.org/parameters/239,тІутІи,flower
+526-1061,lakk1252,http://concepticon.clld.org/parameters/906,мурхь,tree
+526-663,lakk1252,http://concepticon.clld.org/parameters/644,пялут,oak
+526-1297,lakk1252,http://concepticon.clld.org/parameters/1950,чинар,beech
+526-86,lakk1252,http://concepticon.clld.org/parameters/1855,кІялахІи,birch
+526-771,lakk1252,http://concepticon.clld.org/parameters/1740,ттарил мурхь,pine
+526-1069,lakk1252,http://concepticon.clld.org/parameters/1915,ель,fir
+526-1385,lakk1252,http://concepticon.clld.org/parameters/968,пялутрал гьивхь,acorn
+526-288,lakk1252,http://concepticon.clld.org/parameters/343,тІутІул къяртта,vine
+526-1174,lakk1252,http://concepticon.clld.org/parameters/974,таммаку,tobacco
+526-829,lakk1252,http://concepticon.clld.org/parameters/1689,таммакулул пуркІу,smoke (tobacco)
+526-69,lakk1252,http://concepticon.clld.org/parameters/1124,къалийан,pipe
+526-1336,lakk1252,http://concepticon.clld.org/parameters/241,кутух,tree stump
+526-535,lakk1252,http://concepticon.clld.org/parameters/344,мурхьирал ух,tree trunk
+526-1179,lakk1252,http://concepticon.clld.org/parameters/409,къяртта,forked branch
+526-1046,lakk1252,http://concepticon.clld.org/parameters/1204,ккири,bark
+526-858,lakk1252,http://concepticon.clld.org/parameters/345,ххяххиялул щин,sap
+526-131,lakk1252,http://concepticon.clld.org/parameters/1181,пальма,palm tree
+526-164,lakk1252,http://concepticon.clld.org/parameters/970,кокос,coconut
+526-259,lakk1252,http://concepticon.clld.org/parameters/1126,пуртухелла,citrus fruit
+526-1295,lakk1252,http://concepticon.clld.org/parameters/868,банандалул мурхь,banana tree
+526-1413,lakk1252,http://concepticon.clld.org/parameters/346,инжирданул мурхь,banyan
+526-841,lakk1252,http://concepticon.clld.org/parameters/159,батат,sweet potato
+526-841,lakk1252,http://concepticon.clld.org/parameters/410,батат,yam
+526-1334,lakk1252,http://concepticon.clld.org/parameters/925,—,"tapioca, manioc, cassava"
+526-123,lakk1252,http://concepticon.clld.org/parameters/411,къавахъ,gourd
+526-123,lakk1252,http://concepticon.clld.org/parameters/864,къавахъ,"pumpkin, squash"
+526-1098,lakk1252,http://concepticon.clld.org/parameters/1927,бамбук,bamboo
+526-1334,lakk1252,http://concepticon.clld.org/parameters/146,—,sugar cane
+526-1334,lakk1252,http://concepticon.clld.org/parameters/348,—,fish poison (root)
+526-378,lakk1252,http://concepticon.clld.org/parameters/33,мечІ,nettle
+526-786,lakk1252,http://concepticon.clld.org/parameters/641,туккул нис,mushroom
+526-609,lakk1252,http://concepticon.clld.org/parameters/813,дан,"do, make"
+526-17,lakk1252,http://concepticon.clld.org/parameters/984,даву,work
+526-687,lakk1252,http://concepticon.clld.org/parameters/2004,лахІин,bend
+526-1291,lakk1252,http://concepticon.clld.org/parameters/1470,какай бан,fold
+526-677,lakk1252,http://concepticon.clld.org/parameters/1917,бяхІин,"tie, bind"
+526-1381,lakk1252,http://concepticon.clld.org/parameters/352,ттирихІин,untie
+526-784,lakk1252,http://concepticon.clld.org/parameters/1627,щинзир,chain
+526-441,lakk1252,http://concepticon.clld.org/parameters/1218,бутІа,"rope, cord"
+526-1039,lakk1252,http://concepticon.clld.org/parameters/1218,хІинча,"rope, cord"
+526-1339,lakk1252,http://concepticon.clld.org/parameters/760,къурхъ,knot (noun)
+526-46,lakk1252,http://concepticon.clld.org/parameters/2133,рищун,"strike (hit, beat)"
+526-873,lakk1252,http://concepticon.clld.org/parameters/354,заккана бищун,pound with fist
+526-869,lakk1252,http://concepticon.clld.org/parameters/1432,кьукьин,cut
+526-970,lakk1252,http://concepticon.clld.org/parameters/355,кутІа бан,cut down
+526-869,lakk1252,http://concepticon.clld.org/parameters/155,кьукьин,"chop, hew"
+526-931,lakk1252,http://concepticon.clld.org/parameters/1434,кьутІин,stab
+526-88,lakk1252,http://concepticon.clld.org/parameters/1352,чІила,knife
+526-572,lakk1252,http://concepticon.clld.org/parameters/356,гьисилу,"scissors, shears"
+526-474,lakk1252,http://concepticon.clld.org/parameters/677,рикІ,ax
+526-474,lakk1252,http://concepticon.clld.org/parameters/290,рикІ,adze
+526-1121,lakk1252,http://concepticon.clld.org/parameters/680,гъагъан,break
+526-1250,lakk1252,http://concepticon.clld.org/parameters/588,гъюжу-гъарж дурксса,broken
+526-696,lakk1252,http://concepticon.clld.org/parameters/588,гъаргъусса,broken
+526-287,lakk1252,http://concepticon.clld.org/parameters/1437,хъя учин,split
+526-453,lakk1252,http://concepticon.clld.org/parameters/1735,дуцан,tear
+526-182,lakk1252,http://concepticon.clld.org/parameters/291,бурчу ликкан,"flay, skin"
+526-1211,lakk1252,http://concepticon.clld.org/parameters/1449,лихан бан,"rub, wipe"
+526-513,lakk1252,http://concepticon.clld.org/parameters/214,лахъи дан,stretch
+526-1160,lakk1252,http://concepticon.clld.org/parameters/1455,кІункІу банд,pull
+526-850,lakk1252,http://concepticon.clld.org/parameters/38,ппив буллан,spread out
+526-301,lakk1252,http://concepticon.clld.org/parameters/357,аьс хьун,hang up
+526-166,lakk1252,http://concepticon.clld.org/parameters/357,аьс бан,hang up
+526-1417,lakk1252,http://concepticon.clld.org/parameters/1913,кьючин,press
+526-162,lakk1252,http://concepticon.clld.org/parameters/1913,хьачин,press
+526-639,lakk1252,http://concepticon.clld.org/parameters/1414,хьхьицІин,"squeeze, wring"
+526-519,lakk1252,http://concepticon.clld.org/parameters/1487,рутІин,pour
+526-795,lakk1252,http://concepticon.clld.org/parameters/1453,шюшин,wash
+526-1183,lakk1252,http://concepticon.clld.org/parameters/230,цIуши буккан,sweep
+526-953,lakk1252,http://concepticon.clld.org/parameters/245,чІятлу,broom
+526-799,lakk1252,http://concepticon.clld.org/parameters/245,цІуши,broom
+526-935,lakk1252,http://concepticon.clld.org/parameters/1361,йарагъ,tool
+526-235,lakk1252,http://concepticon.clld.org/parameters/1042,тІаннул усттар,carpenter
+526-75,lakk1252,http://concepticon.clld.org/parameters/1840,къатта бан,build
+526-226,lakk1252,http://concepticon.clld.org/parameters/1501,ккутІ,bore
+526-459,lakk1252,http://concepticon.clld.org/parameters/46,ккутІ дуллан,hollow out
+526-1227,lakk1252,http://concepticon.clld.org/parameters/46,гива личин дан,hollow out
+526-302,lakk1252,http://concepticon.clld.org/parameters/1948,ххарачани,saw
+526-91,lakk1252,http://concepticon.clld.org/parameters/1481,кьютІилу,hammer
+526-135,lakk1252,http://concepticon.clld.org/parameters/502,мяр,nail
+526-614,lakk1252,http://concepticon.clld.org/parameters/1069,сина,glue
+526-1165,lakk1252,http://concepticon.clld.org/parameters/1001,муххал усттар,"smith, blacksmith"
+526-501,lakk1252,http://concepticon.clld.org/parameters/288,дуссукъатта,forge
+526-1009,lakk1252,http://concepticon.clld.org/parameters/1648,лурзимах,anvil
+526-1109,lakk1252,http://concepticon.clld.org/parameters/211,куццувуп дутІин,cast (metals)
+526-375,lakk1252,http://concepticon.clld.org/parameters/1369,мусий,gold
+526-1070,lakk1252,http://concepticon.clld.org/parameters/759,арцу,silver
+526-676,lakk1252,http://concepticon.clld.org/parameters/1825,дусси,"copper, bronze"
+526-1040,lakk1252,http://concepticon.clld.org/parameters/1825,чарвит,"copper, bronze"
+526-1319,lakk1252,http://concepticon.clld.org/parameters/621,мах,iron
+526-352,lakk1252,http://concepticon.clld.org/parameters/627,чІутІи,lead (noun)
+526-695,lakk1252,http://concepticon.clld.org/parameters/358,кІяла мах,"tin, tinplate"
+526-97,lakk1252,http://concepticon.clld.org/parameters/359,тІахІни дуву,potter
+526-897,lakk1252,http://concepticon.clld.org/parameters/289,куц бутІин,mold (clay etc)
+526-434,lakk1252,http://concepticon.clld.org/parameters/1399,сина аьрщи,clay
+526-308,lakk1252,http://concepticon.clld.org/parameters/604,пюрун,glass
+526-1120,lakk1252,http://concepticon.clld.org/parameters/1729,щащан,"weave, plait"
+526-129,lakk1252,http://concepticon.clld.org/parameters/1539,чІапа,basket
+526-331,lakk1252,http://concepticon.clld.org/parameters/195,хъа,mat
+526-812,lakk1252,http://concepticon.clld.org/parameters/292,халича,rug
+526-175,lakk1252,http://concepticon.clld.org/parameters/292,бартбису,rug
+526-1209,lakk1252,http://concepticon.clld.org/parameters/293,сумка,netbag
+526-1286,lakk1252,http://concepticon.clld.org/parameters/1971,вентилятор,fan (noun)
+526-1037,lakk1252,http://concepticon.clld.org/parameters/360,марч дан,fan (vb)
+526-869,lakk1252,http://concepticon.clld.org/parameters/228,кьукьин,carve
+526-807,lakk1252,http://concepticon.clld.org/parameters/914,скульптор,sculptor
+526-401,lakk1252,http://concepticon.clld.org/parameters/1002,статуйа,statue
+526-1213,lakk1252,http://concepticon.clld.org/parameters/1979,щина,chisel
+526-319,lakk1252,http://concepticon.clld.org/parameters/1979,хьхьини,chisel
+526-1144,lakk1252,http://concepticon.clld.org/parameters/647,ранг,paint (noun)
+526-1029,lakk1252,http://concepticon.clld.org/parameters/2001,ранг щилан,paint (vb)
+526-1171,lakk1252,http://concepticon.clld.org/parameters/765,хъит учин,move
+526-1118,lakk1252,http://concepticon.clld.org/parameters/1588,чул бан,turn over
+526-483,lakk1252,http://concepticon.clld.org/parameters/1588,луйалу хьун,turn over
+526-1348,lakk1252,http://concepticon.clld.org/parameters/1445,кІура баен,turn around
+526-403,lakk1252,http://concepticon.clld.org/parameters/1113,кай-кай бан,"wind, wrap"
+526-702,lakk1252,http://concepticon.clld.org/parameters/827,гьанан,roll
+526-1133,lakk1252,http://concepticon.clld.org/parameters/808,кІунтІа тІун,drop (vb)
+526-1396,lakk1252,http://concepticon.clld.org/parameters/430,кай-кай дан,twist
+526-785,lakk1252,http://concepticon.clld.org/parameters/568,гьаз хьун,rise
+526-250,lakk1252,http://concepticon.clld.org/parameters/568,лахъ хьун,rise
+526-910,lakk1252,http://concepticon.clld.org/parameters/501,гьаз дан,"raise, lift"
+526-646,lakk1252,http://concepticon.clld.org/parameters/1280,багьан,fall
+526-1133,lakk1252,http://concepticon.clld.org/parameters/2253,кІунтІа тІун,drip
+526-868,lakk1252,http://concepticon.clld.org/parameters/1456,дичин,throw
+526-803,lakk1252,http://concepticon.clld.org/parameters/702,бугьан (ттуп),catch (ball)
+526-283,lakk1252,http://concepticon.clld.org/parameters/1909,кІутІу буллан,shake
+526-575,lakk1252,http://concepticon.clld.org/parameters/2003,экьи нан,flow
+526-706,lakk1252,http://concepticon.clld.org/parameters/1088,оькьлан,sink
+526-146,lakk1252,http://concepticon.clld.org/parameters/1574,гьузун,float
+526-146,lakk1252,http://concepticon.clld.org/parameters/1439,гьузун,swim
+526-256,lakk1252,http://concepticon.clld.org/parameters/119,щинавун ххяххян,dive
+526-1093,lakk1252,http://concepticon.clld.org/parameters/365,чавхь тІун,splash
+526-146,lakk1252,http://concepticon.clld.org/parameters/787,гьузун,sail (vb)
+526-783,lakk1252,http://concepticon.clld.org/parameters/1441,лехлан,fly (vb)
+526-242,lakk1252,http://concepticon.clld.org/parameters/175,уф тІун,blow
+526-408,lakk1252,http://concepticon.clld.org/parameters/96,ххярка тІун,"creep, crawl"
+526-525,lakk1252,http://concepticon.clld.org/parameters/66,никирайн агьан,kneel
+526-47,lakk1252,http://concepticon.clld.org/parameters/296,чансса щябикІан,crouch
+526-753,lakk1252,http://concepticon.clld.org/parameters/1324,ччех бикІлан,"slide, slip"
+526-1019,lakk1252,http://concepticon.clld.org/parameters/1829,тІанкІ тІун,"jump, leap"
+526-635,lakk1252,http://concepticon.clld.org/parameters/1135,щилан,kick
+526-816,lakk1252,http://concepticon.clld.org/parameters/1879,къавтІун бизан,dance
+526-1139,lakk1252,http://concepticon.clld.org/parameters/1443,занан,walk
+526-745,lakk1252,http://concepticon.clld.org/parameters/366,аьрчча тІун,limp
+526-878,lakk1252,http://concepticon.clld.org/parameters/1519,личин,run
+526-842,lakk1252,http://concepticon.clld.org/parameters/695,ачин,go
+526-191,lakk1252,http://concepticon.clld.org/parameters/705,лавай ачин,go up
+526-294,lakk1252,http://concepticon.clld.org/parameters/1102,лахъан,climb
+526-827,lakk1252,http://concepticon.clld.org/parameters/1102,лахълан,climb
+526-245,lakk1252,http://concepticon.clld.org/parameters/2014,йалавай ачин,go down
+526-78,lakk1252,http://concepticon.clld.org/parameters/2014,бакIялавай ачин,go down
+526-961,lakk1252,http://concepticon.clld.org/parameters/1107,уккан,go out
+526-936,lakk1252,http://concepticon.clld.org/parameters/1446,учІан,come
+526-468,lakk1252,http://concepticon.clld.org/parameters/581,зана хьун,come back
+526-1238,lakk1252,http://concepticon.clld.org/parameters/1752,гьан,"go away, depart"
+526-1192,lakk1252,http://concepticon.clld.org/parameters/485,акъа хъанан,disappear
+526-476,lakk1252,http://concepticon.clld.org/parameters/956,ххассал хьун,flee
+526-1262,lakk1252,http://concepticon.clld.org/parameters/956,лихъан,flee
+526-796,lakk1252,http://concepticon.clld.org/parameters/1085,хъирив ацІан,follow
+526-1245,lakk1252,http://concepticon.clld.org/parameters/1085,хъирив хьун,follow
+526-1379,lakk1252,http://concepticon.clld.org/parameters/1047,хъирив ацІлан,pursue
+526-423,lakk1252,http://concepticon.clld.org/parameters/1387,бучІан,"reach, arrive"
+526-1143,lakk1252,http://concepticon.clld.org/parameters/1387,бийан,"reach, arrive"
+526-36,lakk1252,http://concepticon.clld.org/parameters/1778,гъан хъанан,approach
+526-432,lakk1252,http://concepticon.clld.org/parameters/749,буххан,enter
+526-888,lakk1252,http://concepticon.clld.org/parameters/700,ларсун бачин,carry (bear)
+526-598,lakk1252,http://concepticon.clld.org/parameters/412,канил дургьун ачин,carry-in-hand
+526-1338,lakk1252,http://concepticon.clld.org/parameters/413,хъа чІунттай ласун,carry-on-shoulder
+526-1032,lakk1252,http://concepticon.clld.org/parameters/414,бакІ рай дирхьун ачин,carry-on-head
+526-767,lakk1252,http://concepticon.clld.org/parameters/415,хьуву дирхьун ачин,carry-underarm
+526-905,lakk1252,http://concepticon.clld.org/parameters/692,ларсун учІан,bring
+526-1142,lakk1252,http://concepticon.clld.org/parameters/1127,гьан бан,send
+526-192,lakk1252,http://concepticon.clld.org/parameters/43,буцин,lead (vb)
+526-1127,lakk1252,http://concepticon.clld.org/parameters/741,машиналий бачин,drive
+526-228,lakk1252,http://concepticon.clld.org/parameters/367,чай бачин,ride
+526-635,lakk1252,http://concepticon.clld.org/parameters/1452,щилан,"push, shove"
+526-947,lakk1252,http://concepticon.clld.org/parameters/667,ххуллу,road
+526-656,lakk1252,http://concepticon.clld.org/parameters/2252,жегъил ххуллу,path
+526-426,lakk1252,http://concepticon.clld.org/parameters/1011,ламу,bridge
+526-891,lakk1252,http://concepticon.clld.org/parameters/122,аьрова,"carriage, wagon, cart"
+526-1382,lakk1252,http://concepticon.clld.org/parameters/710,нигь,wheel
+526-176,lakk1252,http://concepticon.clld.org/parameters/1769,кучалагъач,axle
+526-186,lakk1252,http://concepticon.clld.org/parameters/14,рукІ,yoke
+526-560,lakk1252,http://concepticon.clld.org/parameters/740,жами,ship
+526-422,lakk1252,http://concepticon.clld.org/parameters/1844,къайахъ,boat
+526-422,lakk1252,http://concepticon.clld.org/parameters/1970,къайахъ,canoe
+526-422,lakk1252,http://concepticon.clld.org/parameters/416,къайахъ,outrigger
+526-1212,lakk1252,http://concepticon.clld.org/parameters/1664,плот,raft
+526-1112,lakk1252,http://concepticon.clld.org/parameters/108,чІатІа,oar
+526-1112,lakk1252,http://concepticon.clld.org/parameters/234,чІатІа,paddle (noun)
+526-718,lakk1252,http://concepticon.clld.org/parameters/1849,бяхлан,row (vb)
+526-1114,lakk1252,http://concepticon.clld.org/parameters/108,руль,rudder
+526-954,lakk1252,http://concepticon.clld.org/parameters/184,мачта,mast
+526-1346,lakk1252,http://concepticon.clld.org/parameters/786,парус,sail (noun)
+526-838,lakk1252,http://concepticon.clld.org/parameters/1870,йакорь,anchor
+526-57,lakk1252,http://concepticon.clld.org/parameters/610,порт,"harbor, port"
+526-1334,lakk1252,http://concepticon.clld.org/parameters/1922,—,land (vb)
+526-568,lakk1252,http://concepticon.clld.org/parameters/773,дуну икІан,have
+526-1414,lakk1252,http://concepticon.clld.org/parameters/773,дуну дикІан,have
+526-568,lakk1252,http://concepticon.clld.org/parameters/684,дуну икІан,"own, possess"
+526-569,lakk1252,http://concepticon.clld.org/parameters/684,заллушиву дан,"own, possess"
+526-1087,lakk1252,http://concepticon.clld.org/parameters/1749,ласун,take
+526-450,lakk1252,http://concepticon.clld.org/parameters/2021,хъапчин,"seize, grasp"
+526-374,lakk1252,http://concepticon.clld.org/parameters/2021,угьан,"seize, grasp"
+526-420,lakk1252,http://concepticon.clld.org/parameters/1448,бугьан,hold
+526-1087,lakk1252,http://concepticon.clld.org/parameters/694,ласун,"get, obtain"
+526-624,lakk1252,http://concepticon.clld.org/parameters/1477,йадан,"keep, retain"
+526-600,lakk1252,http://concepticon.clld.org/parameters/738,мятахІ,thing
+526-190,lakk1252,http://concepticon.clld.org/parameters/1447,дулун,give
+526-505,lakk1252,http://concepticon.clld.org/parameters/85,зана дан,give back
+526-624,lakk1252,http://concepticon.clld.org/parameters/1997,йадан,"preserve, look after"
+526-1164,lakk1252,http://concepticon.clld.org/parameters/2008,ххассал бан,"save, rescue"
+526-1121,lakk1252,http://concepticon.clld.org/parameters/681,гъагъан,destroy
+526-152,lakk1252,http://concepticon.clld.org/parameters/681,лекьан дан,destroy
+526-1028,lakk1252,http://concepticon.clld.org/parameters/44,зарал бан,"harm, injure, damage"
+526-1194,lakk1252,http://concepticon.clld.org/parameters/1468,луглан,"seek, look for"
+526-604,lakk1252,http://concepticon.clld.org/parameters/719,лякъин,find
+526-90,lakk1252,http://concepticon.clld.org/parameters/1660,дакъа дан,lose
+526-303,lakk1252,http://concepticon.clld.org/parameters/1095,ита бакьин,"release, let go"
+526-1070,lakk1252,http://concepticon.clld.org/parameters/1559,арцу,money
+526-309,lakk1252,http://concepticon.clld.org/parameters/1867,къарапул,coin
+526-1242,lakk1252,http://concepticon.clld.org/parameters/712,авадансса,rich
+526-396,lakk1252,http://concepticon.clld.org/parameters/1674,мискинсса,poor
+526-1145,lakk1252,http://concepticon.clld.org/parameters/1934,шярайх укку,beggar
+526-111,lakk1252,http://concepticon.clld.org/parameters/1774,мяшсса,"avaricious, stingy"
+526-613,lakk1252,http://concepticon.clld.org/parameters/1774,чІипІир,"avaricious, stingy"
+526-1049,lakk1252,http://concepticon.clld.org/parameters/582,буржирай дулун,lend
+526-21,lakk1252,http://concepticon.clld.org/parameters/1823,буржирай ласун,borrow
+526-585,lakk1252,http://concepticon.clld.org/parameters/369,буржирай икІан,owe
+526-531,lakk1252,http://concepticon.clld.org/parameters/1914,бурж,debt
+526-740,lakk1252,http://concepticon.clld.org/parameters/718,арцу дуллан,pay (vb)
+526-132,lakk1252,http://concepticon.clld.org/parameters/1081,хІисав,"account, reckoning"
+526-1328,lakk1252,http://concepticon.clld.org/parameters/873,дишала,"tax, tribute"
+526-420,lakk1252,http://concepticon.clld.org/parameters/856,бугьан,hire
+526-18,lakk1252,http://concepticon.clld.org/parameters/856,чирилун бугьан,hire
+526-789,lakk1252,http://concepticon.clld.org/parameters/1122,захІматрал хІакь,wages
+526-1147,lakk1252,http://concepticon.clld.org/parameters/1122,харж,wages
+526-604,lakk1252,http://concepticon.clld.org/parameters/733,лякъин,earn
+526-595,lakk1252,http://concepticon.clld.org/parameters/1869,машан ласун,buy
+526-1103,lakk1252,http://concepticon.clld.org/parameters/1571,баххан,sell
+526-1017,lakk1252,http://concepticon.clld.org/parameters/2135,даххана даву,"trade, barter"
+526-1210,lakk1252,http://concepticon.clld.org/parameters/2135,дахху-ласу,"trade, barter"
+526-417,lakk1252,http://concepticon.clld.org/parameters/1082,машачи,merchant
+526-546,lakk1252,http://concepticon.clld.org/parameters/633,базар,market (place)
+526-584,lakk1252,http://concepticon.clld.org/parameters/752,ттучан,"store, shop"
+526-20,lakk1252,http://concepticon.clld.org/parameters/657,багьа,price
+526-1060,lakk1252,http://concepticon.clld.org/parameters/1426,ххирасса,"dear (costly, expensive)"
+526-1272,lakk1252,http://concepticon.clld.org/parameters/1887,кьюкьусса,cheap
+526-255,lakk1252,http://concepticon.clld.org/parameters/884,дачІин,share (distribute)
+526-201,lakk1252,http://concepticon.clld.org/parameters/1098,дуцин,weigh
+526-1089,lakk1252,http://concepticon.clld.org/parameters/1685,йала,after
+526-1123,lakk1252,http://concepticon.clld.org/parameters/723,махъ,behind
+526-883,lakk1252,http://concepticon.clld.org/parameters/1816,чІарав,beside
+526-216,lakk1252,http://concepticon.clld.org/parameters/1326,лагьну,"down, below"
+526-860,lakk1252,http://concepticon.clld.org/parameters/1882,хьхьичІва,before
+526-1080,lakk1252,http://concepticon.clld.org/parameters/1882,хьхьичI,before
+526-1278,lakk1252,http://concepticon.clld.org/parameters/1019,хьхьичІ,front
+526-1154,lakk1252,http://concepticon.clld.org/parameters/1019,хьхьичІалу,front
+526-793,lakk1252,http://concepticon.clld.org/parameters/1606,вив,"inside, in"
+526-431,lakk1252,http://concepticon.clld.org/parameters/762,кьатІух,outside
+526-863,lakk1252,http://concepticon.clld.org/parameters/1485,лув,under
+526-63,lakk1252,http://concepticon.clld.org/parameters/1591,йалув,"up, above"
+526-770,lakk1252,http://concepticon.clld.org/parameters/723,кІану,place
+526-920,lakk1252,http://concepticon.clld.org/parameters/998,бишин,put
+526-113,lakk1252,http://concepticon.clld.org/parameters/1416,щяппикІан,sit
+526-1118,lakk1252,http://concepticon.clld.org/parameters/215,чул бан,lie down
+526-1343,lakk1252,http://concepticon.clld.org/parameters/215,утту бихьан,lie down
+526-1351,lakk1252,http://concepticon.clld.org/parameters/1442,ацІан,stand
+526-999,lakk1252,http://concepticon.clld.org/parameters/987,аглан хьун,"remain, stay"
+526-908,lakk1252,http://concepticon.clld.org/parameters/838,ххиличІлурду,"remains, left overs"
+526-996,lakk1252,http://concepticon.clld.org/parameters/7,датІин,"collect, gather"
+526-1322,lakk1252,http://concepticon.clld.org/parameters/371,личІи дан,pick up
+526-910,lakk1252,http://concepticon.clld.org/parameters/371,гьаз дан,pick up
+526-1062,lakk1252,http://concepticon.clld.org/parameters/1576,дайгьузанну дан,pile up
+526-1404,lakk1252,http://concepticon.clld.org/parameters/1743,цІачІун,"join, unite"
+526-1132,lakk1252,http://concepticon.clld.org/parameters/1743,буллан,"join, unite"
+526-1163,lakk1252,http://concepticon.clld.org/parameters/1359,личІи бан,separate
+526-991,lakk1252,http://concepticon.clld.org/parameters/1119,дачІлан,divide
+526-686,lakk1252,http://concepticon.clld.org/parameters/1156,тІитІин,open
+526-1099,lakk1252,http://concepticon.clld.org/parameters/1046,лакьин,"shut, close"
+526-351,lakk1252,http://concepticon.clld.org/parameters/761,йалун дичин,cover
+526-344,lakk1252,http://concepticon.clld.org/parameters/602,ла дитан,"hide, conceal"
+526-1065,lakk1252,http://concepticon.clld.org/parameters/1265,лахъну,high
+526-840,lakk1252,http://concepticon.clld.org/parameters/1265,бюхттулну,high
+526-216,lakk1252,http://concepticon.clld.org/parameters/721,лагьну,low
+526-924,lakk1252,http://concepticon.clld.org/parameters/1753,бакІ,top
+526-536,lakk1252,http://concepticon.clld.org/parameters/690,лувалу,bottom
+526-1270,lakk1252,http://concepticon.clld.org/parameters/690,чІан,bottom
+526-1054,lakk1252,http://concepticon.clld.org/parameters/742,ахир,end
+526-642,lakk1252,http://concepticon.clld.org/parameters/742,дайлитІу,end
+526-402,lakk1252,http://concepticon.clld.org/parameters/372,мицІ байлсса,pointed
+526-711,lakk1252,http://concepticon.clld.org/parameters/863,зума,edge
+526-738,lakk1252,http://concepticon.clld.org/parameters/863,къирагъ,edge
+526-1360,lakk1252,http://concepticon.clld.org/parameters/682,чул,side
+526-1043,lakk1252,http://concepticon.clld.org/parameters/1093,дя,"middle, center"
+526-313,lakk1252,http://concepticon.clld.org/parameters/1019,урчІа (чул),right (side)
+526-1373,lakk1252,http://concepticon.clld.org/parameters/244,куйа (чул),left (side)
+526-314,lakk1252,http://concepticon.clld.org/parameters/1942,чІара,near (adv)
+526-798,lakk1252,http://concepticon.clld.org/parameters/1406,архну,far (adv)
+526-305,lakk1252,http://concepticon.clld.org/parameters/1877,баргъ буккавал чул,east
+526-280,lakk1252,http://concepticon.clld.org/parameters/1877,машрикь,east
+526-435,lakk1252,http://concepticon.clld.org/parameters/1817,баргъ лагавал чул,west
+526-1146,lakk1252,http://concepticon.clld.org/parameters/1817,магъриб,west
+526-15,lakk1252,http://concepticon.clld.org/parameters/1598,ухссав,north
+526-1289,lakk1252,http://concepticon.clld.org/parameters/1595,кьибла,south
+526-877,lakk1252,http://concepticon.clld.org/parameters/479,ххеххан,grow
+526-229,lakk1252,http://concepticon.clld.org/parameters/1506,дуцин дан,measure
+526-1334,lakk1252,http://concepticon.clld.org/parameters/81,—,"span, fathom"
+526-650,lakk1252,http://concepticon.clld.org/parameters/1202,хъунмасса,"large, big"
+526-691,lakk1252,http://concepticon.clld.org/parameters/1246,чІивисса,"small, little"
+526-169,lakk1252,http://concepticon.clld.org/parameters/1203,лахъисса,long
+526-62,lakk1252,http://concepticon.clld.org/parameters/711,лахъсса,tall
+526-760,lakk1252,http://concepticon.clld.org/parameters/1645,кутІасса,short
+526-446,lakk1252,http://concepticon.clld.org/parameters/1243,уттасса,"wide, broad"
+526-128,lakk1252,http://concepticon.clld.org/parameters/1267,къумасса,narrow
+526-87,lakk1252,http://concepticon.clld.org/parameters/1244,ганзсса,thick (in dimension)
+526-299,lakk1252,http://concepticon.clld.org/parameters/1400,кІюласса,thin (in dimension)
+526-1095,lakk1252,http://concepticon.clld.org/parameters/1593,куртІсса,deep
+526-720,lakk1252,http://concepticon.clld.org/parameters/193,мюршсса,shallow
+526-1408,lakk1252,http://concepticon.clld.org/parameters/1633,кьасса,flat
+526-875,lakk1252,http://concepticon.clld.org/parameters/1404,тІайласса,straight
+526-424,lakk1252,http://concepticon.clld.org/parameters/297,бавккусса,crooked
+526-1339,lakk1252,http://concepticon.clld.org/parameters/1071,къурхъ,hook
+526-327,lakk1252,http://concepticon.clld.org/parameters/192,мурцІу,corner
+526-1235,lakk1252,http://concepticon.clld.org/parameters/1367,ххач,cross
+526-1277,lakk1252,http://concepticon.clld.org/parameters/850,мукьмурцІу,square
+526-764,lakk1252,http://concepticon.clld.org/parameters/1395,ккурккисса,round
+526-118,lakk1252,http://concepticon.clld.org/parameters/1467,ккурнутІай,circle
+526-939,lakk1252,http://concepticon.clld.org/parameters/1845,ттуп,"sphere, ball"
+526-137,lakk1252,http://concepticon.clld.org/parameters/1845,шар,"sphere, ball"
+526-472,lakk1252,http://concepticon.clld.org/parameters/1048,хха,line
+526-226,lakk1252,http://concepticon.clld.org/parameters/1667,ккутІ,hole
+526-750,lakk1252,http://concepticon.clld.org/parameters/1558,лавхьхьусса,"like, similar"
+526-1287,lakk1252,http://concepticon.clld.org/parameters/1264,аххана хьун,change
+526-916,lakk1252,http://concepticon.clld.org/parameters/1294,нуль,"zero, nothing"
+526-1350,lakk1252,http://concepticon.clld.org/parameters/1515,цава,one
+526-757,lakk1252,http://concepticon.clld.org/parameters/1498,кІива,two
+526-168,lakk1252,http://concepticon.clld.org/parameters/492,шанма,three
+526-1128,lakk1252,http://concepticon.clld.org/parameters/1500,мукьва,four
+526-1388,lakk1252,http://concepticon.clld.org/parameters/493,ххюва,five
+526-889,lakk1252,http://concepticon.clld.org/parameters/1703,ряхва,six
+526-628,lakk1252,http://concepticon.clld.org/parameters/1704,арулва,seven
+526-857,lakk1252,http://concepticon.clld.org/parameters/1705,мяйва,eight
+526-994,lakk1252,http://concepticon.clld.org/parameters/1483,урчІва,nine
+526-1191,lakk1252,http://concepticon.clld.org/parameters/1515,ацІва,ten
+526-475,lakk1252,http://concepticon.clld.org/parameters/1706,ацІнийа цава,eleven
+526-1370,lakk1252,http://concepticon.clld.org/parameters/1707,ацІнийа кІива,twelve
+526-1320,lakk1252,http://concepticon.clld.org/parameters/1709,ацІнийа ххюва,fifteen
+526-861,lakk1252,http://concepticon.clld.org/parameters/1710,кьува,twenty
+526-119,lakk1252,http://concepticon.clld.org/parameters/1634,ттуршва,hundred
+526-710,lakk1252,http://concepticon.clld.org/parameters/1843,азара,thousand
+526-442,lakk1252,http://concepticon.clld.org/parameters/1420,буккин,count
+526-851,lakk1252,http://concepticon.clld.org/parameters/98,циняв,"every, all"
+526-503,lakk1252,http://concepticon.clld.org/parameters/1198,чІявусса,"much, many"
+526-926,lakk1252,http://concepticon.clld.org/parameters/1992,ххисса,more
+526-944,lakk1252,http://concepticon.clld.org/parameters/1242,чанну,"little (quantity), few"
+526-769,lakk1252,http://concepticon.clld.org/parameters/1881,бийалну,enough
+526-693,lakk1252,http://concepticon.clld.org/parameters/1241,цаппара,some
+526-222,lakk1252,http://concepticon.clld.org/parameters/2023,гьарзасса,"multitude, crowd"
+526-648,lakk1252,http://concepticon.clld.org/parameters/1429,дурцІусса,full
+526-1342,lakk1252,http://concepticon.clld.org/parameters/1429,щаллусса,full
+526-316,lakk1252,http://concepticon.clld.org/parameters/1624,бачІвасса,empty
+526-441,lakk1252,http://concepticon.clld.org/parameters/779,бутІа,"part, piece"
+526-163,lakk1252,http://concepticon.clld.org/parameters/816,бачІи,half
+526-58,lakk1252,http://concepticon.clld.org/parameters/1580,ца,"alone, only"
+526-1363,lakk1252,http://concepticon.clld.org/parameters/1580,цуппалусса,"alone, only"
+526-452,lakk1252,http://concepticon.clld.org/parameters/728,цалчинсса,first
+526-967,lakk1252,http://concepticon.clld.org/parameters/1529,махъва-махъсса,last
+526-1364,lakk1252,http://concepticon.clld.org/parameters/1384,кІилчинсса,second
+526-1361,lakk1252,http://concepticon.clld.org/parameters/1888,чут,pair
+526-1196,lakk1252,http://concepticon.clld.org/parameters/1546,кІилла,two times
+526-985,lakk1252,http://concepticon.clld.org/parameters/1859,шамилчин,third
+526-631,lakk1252,http://concepticon.clld.org/parameters/417,шамилла,three times
+526-286,lakk1252,http://concepticon.clld.org/parameters/892,ссят,time
+526-810,lakk1252,http://concepticon.clld.org/parameters/892,чІун,time
+526-890,lakk1252,http://concepticon.clld.org/parameters/892,замана,time
+526-890,lakk1252,http://concepticon.clld.org/parameters/1789,замана,age
+526-208,lakk1252,http://concepticon.clld.org/parameters/1789,оьрму,age
+526-1288,lakk1252,http://concepticon.clld.org/parameters/1789,аьсир,age
+526-457,lakk1252,http://concepticon.clld.org/parameters/1231,цІусса,new
+526-510,lakk1252,http://concepticon.clld.org/parameters/1207,жагьилсса,young
+526-1008,lakk1252,http://concepticon.clld.org/parameters/1229,хъунав,old
+526-950,lakk1252,http://concepticon.clld.org/parameters/1229,хъухсса,old
+526-1108,lakk1252,http://concepticon.clld.org/parameters/1229,хъусса,old
+526-751,lakk1252,http://concepticon.clld.org/parameters/672,ччяни,early
+526-1168,lakk1252,http://concepticon.clld.org/parameters/477,чІалну,late
+526-199,lakk1252,http://concepticon.clld.org/parameters/1376,цІана,now
+526-1356,lakk1252,http://concepticon.clld.org/parameters/1963,чара бакъа,immediately
+526-680,lakk1252,http://concepticon.clld.org/parameters/1963,анаварну,immediately
+526-110,lakk1252,http://concepticon.clld.org/parameters/1631,анаварсса,"swift, fast, quick"
+526-806,lakk1252,http://concepticon.clld.org/parameters/701,хІаллихсса,slow
+526-537,lakk1252,http://concepticon.clld.org/parameters/754,анавар хьун,"hasten, hurry"
+526-41,lakk1252,http://concepticon.clld.org/parameters/754,дири буккан,"hasten, hurry"
+526-497,lakk1252,http://concepticon.clld.org/parameters/425,чІал дан,"retard, delay"
+526-42,lakk1252,http://concepticon.clld.org/parameters/1806,байбишин,"begin, beginning"
+526-1085,lakk1252,http://concepticon.clld.org/parameters/1806,дайдихьу,"begin, beginning"
+526-1134,lakk1252,http://concepticon.clld.org/parameters/1186,лахъи лаган,"last, endure"
+526-367,lakk1252,http://concepticon.clld.org/parameters/743,дух лаган,end (temporal)
+526-1383,lakk1252,http://concepticon.clld.org/parameters/1766,къуртал дан,finish
+526-334,lakk1252,http://concepticon.clld.org/parameters/1928,бацІан бан,"cease, stop"
+526-1081,lakk1252,http://concepticon.clld.org/parameters/1928,кьабитан ацIан,"cease, stop"
+526-570,lakk1252,http://concepticon.clld.org/parameters/790,хІадурсса,ready
+526-1387,lakk1252,http://concepticon.clld.org/parameters/1676,мудан,always
+526-1257,lakk1252,http://concepticon.clld.org/parameters/1852,ччя-ччяни,often
+526-180,lakk1252,http://concepticon.clld.org/parameters/1544,ца-ца чІумал,sometimes
+526-1033,lakk1252,http://concepticon.clld.org/parameters/703,чІал къавхьуну,soon
+526-1003,lakk1252,http://concepticon.clld.org/parameters/418,лахъисса хІаллай,long-time (for a)
+526-665,lakk1252,http://concepticon.clld.org/parameters/1656,тачІав,never
+526-12,lakk1252,http://concepticon.clld.org/parameters/204,йалагу,again
+526-83,lakk1252,http://concepticon.clld.org/parameters/204,цІунилма,again
+526-388,lakk1252,http://concepticon.clld.org/parameters/1260,кьини,day
+526-332,lakk1252,http://concepticon.clld.org/parameters/1233,хьхьу,night
+526-571,lakk1252,http://concepticon.clld.org/parameters/729,зунзул чаннахь,dawn
+526-781,lakk1252,http://concepticon.clld.org/parameters/1339,кІюрх,morning
+526-958,lakk1252,http://concepticon.clld.org/parameters/12,ахттайн,"noon, midday"
+526-969,lakk1252,http://concepticon.clld.org/parameters/1807,ахттакьун,afternoon
+526-673,lakk1252,http://concepticon.clld.org/parameters/1629,гьантайан,evening
+526-914,lakk1252,http://concepticon.clld.org/parameters/1283,хІакьину,today
+526-1115,lakk1252,http://concepticon.clld.org/parameters/1329,гьунтти,tomorrow
+526-1407,lakk1252,http://concepticon.clld.org/parameters/1179,сарану,day-after-tomorrow
+526-578,lakk1252,http://concepticon.clld.org/parameters/1174,лахьхьу,yesterday
+526-813,lakk1252,http://concepticon.clld.org/parameters/1180,цархьхьу,day-before-yesterday
+526-286,lakk1252,http://concepticon.clld.org/parameters/1353,ссят,hour
+526-286,lakk1252,http://concepticon.clld.org/parameters/1323,ссят,"clock, timepiece"
+526-3,lakk1252,http://concepticon.clld.org/parameters/1469,нюжмар,week
+526-195,lakk1252,http://concepticon.clld.org/parameters/1699,алхІат,Sunday
+526-178,lakk1252,http://concepticon.clld.org/parameters/1697,итни,Monday
+526-481,lakk1252,http://concepticon.clld.org/parameters/1695,тталат,Tuesday
+526-460,lakk1252,http://concepticon.clld.org/parameters/1694,арвахІ,Wednesday
+526-506,lakk1252,http://concepticon.clld.org/parameters/1693,хамис,Thursday
+526-3,lakk1252,http://concepticon.clld.org/parameters/1692,нюжмар,Friday
+526-95,lakk1252,http://concepticon.clld.org/parameters/1700,ххуллун,Saturday
+526-965,lakk1252,http://concepticon.clld.org/parameters/1370,барз,month
+526-722,lakk1252,http://concepticon.clld.org/parameters/1226,шин,year
+526-266,lakk1252,http://concepticon.clld.org/parameters/1471,кІи,winter
+526-464,lakk1252,http://concepticon.clld.org/parameters/1537,инт,spring
+526-11,lakk1252,http://concepticon.clld.org/parameters/1342,гъи,summer
+526-1312,lakk1252,http://concepticon.clld.org/parameters/1276,ссут,autumn
+526-1011,lakk1252,http://concepticon.clld.org/parameters/691,шинал чІун,season
+526-1258,lakk1252,http://concepticon.clld.org/parameters/1587,кьанкь дуссан,smell (vb intrans)
+526-1281,lakk1252,http://concepticon.clld.org/parameters/375,оьнцІул нан,sniff
+526-557,lakk1252,http://concepticon.clld.org/parameters/1586,ссунтІ учин,smell (vb trans)
+526-736,lakk1252,http://concepticon.clld.org/parameters/376,тІааьнсса кьанкь,"fragrant, good smelling"
+526-1113,lakk1252,http://concepticon.clld.org/parameters/42,махІ,"stinking, bad smelling"
+526-644,lakk1252,http://concepticon.clld.org/parameters/21,тІин,taste
+526-620,lakk1252,http://concepticon.clld.org/parameters/717,нацІусса,sweet
+526-1264,lakk1252,http://concepticon.clld.org/parameters/1091,цІу чІявусса,salty
+526-657,lakk1252,http://concepticon.clld.org/parameters/887,кьурчІисса,bitter
+526-212,lakk1252,http://concepticon.clld.org/parameters/1906,туршисса,"acid, sour"
+526-504,lakk1252,http://concepticon.clld.org/parameters/70,цІил хьусса,brackish
+526-901,lakk1252,http://concepticon.clld.org/parameters/1408,баллан,hear
+526-438,lakk1252,http://concepticon.clld.org/parameters/1608,вичІи дишан,listen
+526-291,lakk1252,http://concepticon.clld.org/parameters/1811,чІу,"sound, noise"
+526-923,lakk1252,http://concepticon.clld.org/parameters/1811,аьлагъужа,"sound, noise"
+526-62,lakk1252,http://concepticon.clld.org/parameters/377,лахъсса,loud
+526-538,lakk1252,http://concepticon.clld.org/parameters/1314,иминсса,"quiet, silence"
+526-495,lakk1252,http://concepticon.clld.org/parameters/1314,паракьатсса,"quiet, silence"
+526-278,lakk1252,http://concepticon.clld.org/parameters/1409,ккаккан,see
+526-737,lakk1252,http://concepticon.clld.org/parameters/1819,урган,"look, look at"
+526-485,lakk1252,http://concepticon.clld.org/parameters/1039,ккаккан бан,show
+526-341,lakk1252,http://concepticon.clld.org/parameters/708,чани бан,shine
+526-243,lakk1252,http://concepticon.clld.org/parameters/679,йаргсса,bright
+526-1144,lakk1252,http://concepticon.clld.org/parameters/1613,ранг,color
+526-1063,lakk1252,http://concepticon.clld.org/parameters/250,чаннасса,light (in color)
+526-621,lakk1252,http://concepticon.clld.org/parameters/706,цІансса,dark (in color)
+526-1027,lakk1252,http://concepticon.clld.org/parameters/1335,кІяласса,white
+526-373,lakk1252,http://concepticon.clld.org/parameters/163,лухІисса,black
+526-1157,lakk1252,http://concepticon.clld.org/parameters/156,йатІулсса,red
+526-898,lakk1252,http://concepticon.clld.org/parameters/837,хьхьинякІсса,blue
+526-1232,lakk1252,http://concepticon.clld.org/parameters/1425,щюллисса,green
+526-172,lakk1252,http://concepticon.clld.org/parameters/1424,хъахъисса,yellow
+526-555,lakk1252,http://concepticon.clld.org/parameters/1892,ка щун,touch
+526-1244,lakk1252,http://concepticon.clld.org/parameters/378,раттун,pinch
+526-1345,lakk1252,http://concepticon.clld.org/parameters/378,дуцан мюхІирах,pinch
+526-649,lakk1252,http://concepticon.clld.org/parameters/1079,кІул хьун,feel
+526-618,lakk1252,http://concepticon.clld.org/parameters/1884,кьянкьасса,hard
+526-836,lakk1252,http://concepticon.clld.org/parameters/1856,кІукІлусса,soft
+526-618,lakk1252,http://concepticon.clld.org/parameters/1923,кьянкьасса,rough
+526-1374,lakk1252,http://concepticon.clld.org/parameters/1234,бювчІусса,smooth
+526-1216,lakk1252,http://concepticon.clld.org/parameters/1396,дайелсса,sharp
+526-782,lakk1252,http://concepticon.clld.org/parameters/379,къуркъасса,"blunt, dull"
+526-1400,lakk1252,http://concepticon.clld.org/parameters/1210,кІусса,heavy
+526-1015,lakk1252,http://concepticon.clld.org/parameters/1052,куклусса,light (in weight)
+526-761,lakk1252,http://concepticon.clld.org/parameters/1726,хъартусса,"wet, damp"
+526-790,lakk1252,http://concepticon.clld.org/parameters/1726,атилсса,"wet, damp"
+526-913,lakk1252,http://concepticon.clld.org/parameters/1398,кьавкьсса,dry
+526-1193,lakk1252,http://concepticon.clld.org/parameters/1286,кІирисса,hot
+526-539,lakk1252,http://concepticon.clld.org/parameters/1232,гъелисса,warm
+526-362,lakk1252,http://concepticon.clld.org/parameters/1287,дяркъусса,cold
+526-1067,lakk1252,http://concepticon.clld.org/parameters/704,марцІсса,clean
+526-1,lakk1252,http://concepticon.clld.org/parameters/1230,чапалсса,"dirty, soiled"
+526-399,lakk1252,http://concepticon.clld.org/parameters/380,ккуччу хьусса,wrinkled
+526-699,lakk1252,http://concepticon.clld.org/parameters/380,жиг рартIсса,wrinkled
+526-792,lakk1252,http://concepticon.clld.org/parameters/53,дакІ,"soul, spirit"
+526-834,lakk1252,http://concepticon.clld.org/parameters/53,рухІ,"soul, spirit"
+526-1005,lakk1252,http://concepticon.clld.org/parameters/1572,махІатталсса,"surprised, astonished"
+526-171,lakk1252,http://concepticon.clld.org/parameters/720,тІайлабацІу,"good fortune, luck"
+526-1181,lakk1252,http://concepticon.clld.org/parameters/56,къатІайлабацІу,"misfortune, bad luck"
+526-248,lakk1252,http://concepticon.clld.org/parameters/1495,талихІ бусса,"joyful, glad, happy"
+526-534,lakk1252,http://concepticon.clld.org/parameters/1495,ххарисса,"joyful, glad, happy"
+526-160,lakk1252,http://concepticon.clld.org/parameters/1355,хъян,laugh
+526-541,lakk1252,http://concepticon.clld.org/parameters/1451,пиш тІун,smile
+526-1300,lakk1252,http://concepticon.clld.org/parameters/1413,тІуркІу тІун,play
+526-1177,lakk1252,http://concepticon.clld.org/parameters/923,ххира хьун,love
+526-1125,lakk1252,http://concepticon.clld.org/parameters/578,ппай тІун,kiss
+526-84,lakk1252,http://concepticon.clld.org/parameters/928,хъямала багьлан,embrace
+526-295,lakk1252,http://concepticon.clld.org/parameters/1783,цІуцІайа,pain
+526-1021,lakk1252,http://concepticon.clld.org/parameters/1668,пашманшиву,"grief, sorrow, sadness"
+526-354,lakk1252,http://concepticon.clld.org/parameters/1668,дард,"grief, sorrow, sadness"
+526-133,lakk1252,http://concepticon.clld.org/parameters/1668,кьурчІишиву,"grief, sorrow, sadness"
+526-909,lakk1252,http://concepticon.clld.org/parameters/1000,зарзала,"anxiety, worry"
+526-272,lakk1252,http://concepticon.clld.org/parameters/1000,леххаву,"anxiety, worry"
+526-1201,lakk1252,http://concepticon.clld.org/parameters/1875,хІайп тІун,"regret, be sorry"
+526-629,lakk1252,http://concepticon.clld.org/parameters/1141,цІими,pity
+526-1055,lakk1252,http://concepticon.clld.org/parameters/1141,хІайп,pity
+526-380,lakk1252,http://concepticon.clld.org/parameters/1839,аьтІун,"cry, weep"
+526-204,lakk1252,http://concepticon.clld.org/parameters/1839,ссинкьа тІун,"cry, weep"
+526-1001,lakk1252,http://concepticon.clld.org/parameters/1651,макь,tear (noun)
+526-625,lakk1252,http://concepticon.clld.org/parameters/716,угь-къак тІун,groan
+526-685,lakk1252,http://concepticon.clld.org/parameters/1607,ххалхьуну къаччан,hate
+526-1042,lakk1252,http://concepticon.clld.org/parameters/82,аьратталшиву,anger
+526-1185,lakk1252,http://concepticon.clld.org/parameters/82,ссибизаву,anger
+526-543,lakk1252,http://concepticon.clld.org/parameters/40,къащи,"envy, jealousy"
+526-32,lakk1252,http://concepticon.clld.org/parameters/1776,нач,shame (noun)
+526-1058,lakk1252,http://concepticon.clld.org/parameters/1776,хІайа,shame (noun)
+526-929,lakk1252,http://concepticon.clld.org/parameters/174,ххаллилсса,proud
+526-55,lakk1252,http://concepticon.clld.org/parameters/174,пахьу бусса,proud
+526-820,lakk1252,http://concepticon.clld.org/parameters/1779,кьянкьуш,dare
+526-683,lakk1252,http://concepticon.clld.org/parameters/3,кьянкьясса,brave
+526-1382,lakk1252,http://concepticon.clld.org/parameters/781,нигь,"fear, fright"
+526-843,lakk1252,http://concepticon.clld.org/parameters/781,ццах,"fear, fright"
+526-37,lakk1252,http://concepticon.clld.org/parameters/1810,нигьачІаву,danger
+526-714,lakk1252,http://concepticon.clld.org/parameters/1784,мурад,"desire, want"
+526-921,lakk1252,http://concepticon.clld.org/parameters/1784,пикри,"desire, want"
+526-768,lakk1252,http://concepticon.clld.org/parameters/1784,тамахІ,"desire, want"
+526-743,lakk1252,http://concepticon.clld.org/parameters/1750,йази бугьан,choose
+526-307,lakk1252,http://concepticon.clld.org/parameters/1092,вихшала дишин,hope
+526-68,lakk1252,http://concepticon.clld.org/parameters/1092,умуд бихьлан,hope
+526-335,lakk1252,http://concepticon.clld.org/parameters/100,дакІ тІайласса,faithful
+526-862,lakk1252,http://concepticon.clld.org/parameters/1657,цІанасса,true
+526-666,lakk1252,http://concepticon.clld.org/parameters/601,щялмахъ бусан,"lie, tell lies"
+526-275,lakk1252,http://concepticon.clld.org/parameters/13,хъяврин бан,deceit
+526-471,lakk1252,http://concepticon.clld.org/parameters/1528,багъишла битан,forgive
+526-381,lakk1252,http://concepticon.clld.org/parameters/1035,ххуйсса,good
+526-563,lakk1252,http://concepticon.clld.org/parameters/1035,хъинсса,good
+526-279,lakk1252,http://concepticon.clld.org/parameters/1292,оьккинсса,bad
+526-875,lakk1252,http://concepticon.clld.org/parameters/1725,тІайласса,"right, correct"
+526-81,lakk1252,http://concepticon.clld.org/parameters/1390,къатІайласса,wrong
+526-582,lakk1252,http://concepticon.clld.org/parameters/134,хатІа,fault
+526-289,lakk1252,http://concepticon.clld.org/parameters/134,къел,fault
+526-239,lakk1252,http://concepticon.clld.org/parameters/1293,гъалатІ,"mistake, error"
+526-104,lakk1252,http://concepticon.clld.org/parameters/381,дашуй бишин,blame
+526-520,lakk1252,http://concepticon.clld.org/parameters/1687,пахру-ххара бан,praise
+526-754,lakk1252,http://concepticon.clld.org/parameters/1427,ккаккан ххуйсса,beautiful
+526-96,lakk1252,http://concepticon.clld.org/parameters/1548,ккаккан ххуй бакъасса,ugly
+526-111,lakk1252,http://concepticon.clld.org/parameters/2018,мяшсса,greedy
+526-470,lakk1252,http://concepticon.clld.org/parameters/1310,аькьлу бусса,clever
+526-1131,lakk1252,http://concepticon.clld.org/parameters/1562,кІулши,mind
+526-1228,lakk1252,http://concepticon.clld.org/parameters/1562,аькьлу,mind
+526-1344,lakk1252,http://concepticon.clld.org/parameters/1415,пикри бан,think (= reflect)
+526-1259,lakk1252,http://concepticon.clld.org/parameters/1513,ххан,think (= be of the opinion)
+526-1299,lakk1252,http://concepticon.clld.org/parameters/1890,вих хьун,believe
+526-1220,lakk1252,http://concepticon.clld.org/parameters/1536,бувчІин,understand
+526-649,lakk1252,http://concepticon.clld.org/parameters/1410,кІул хьун,know
+526-1259,lakk1252,http://concepticon.clld.org/parameters/1932,ххан,guess
+526-463,lakk1252,http://concepticon.clld.org/parameters/117,лащан дуллан,imitate
+526-1076,lakk1252,http://concepticon.clld.org/parameters/1521,ххан бикІан,seem
+526-338,lakk1252,http://concepticon.clld.org/parameters/1609,хІучча,"idea, notion"
+526-714,lakk1252,http://concepticon.clld.org/parameters/1609,мурад,"idea, notion"
+526-708,lakk1252,http://concepticon.clld.org/parameters/698,аькьлу кІулсса,wise
+526-198,lakk1252,http://concepticon.clld.org/parameters/1518,аьмясса,"foolish, stupid"
+526-202,lakk1252,http://concepticon.clld.org/parameters/1518,акьлу бакъасса,"foolish, stupid"
+526-930,lakk1252,http://concepticon.clld.org/parameters/1899,аькьлу бакъасса,"insane, crazy"
+526-1071,lakk1252,http://concepticon.clld.org/parameters/1899,пикри къобайсса,"insane, crazy"
+526-404,lakk1252,http://concepticon.clld.org/parameters/504,кІул буллан,learn
+526-141,lakk1252,http://concepticon.clld.org/parameters/504,лахьлан,learn
+526-1230,lakk1252,http://concepticon.clld.org/parameters/1929,лахьхьин,study
+526-141,lakk1252,http://concepticon.clld.org/parameters/1929,лахьлан,study
+526-1230,lakk1252,http://concepticon.clld.org/parameters/709,лахьхьин,teach
+526-1016,lakk1252,http://concepticon.clld.org/parameters/753,дуклаки оьрчІ,pupil
+526-956,lakk1252,http://concepticon.clld.org/parameters/1038,муаьлим,teacher
+526-567,lakk1252,http://concepticon.clld.org/parameters/1038,учитель,teacher
+526-1197,lakk1252,http://concepticon.clld.org/parameters/673,школа,school
+526-149,lakk1252,http://concepticon.clld.org/parameters/707,дакІний битан,remember
+526-72,lakk1252,http://concepticon.clld.org/parameters/1523,хъама битан,forget
+526-1063,lakk1252,http://concepticon.clld.org/parameters/989,чаннасса,"clear, plain"
+526-763,lakk1252,http://concepticon.clld.org/parameters/1764,букъавчІайсса,obscure
+526-1298,lakk1252,http://concepticon.clld.org/parameters/1121,кьюлтІмур,secret
+526-353,lakk1252,http://concepticon.clld.org/parameters/509,вихсса,"sure, certain"
+526-326,lakk1252,http://concepticon.clld.org/parameters/1626,бувчІин буллан,explain
+526-1079,lakk1252,http://concepticon.clld.org/parameters/1162,кьаст,"intention, purpose"
+526-804,lakk1252,http://concepticon.clld.org/parameters/1162,дакІниймур,"intention, purpose"
+526-619,lakk1252,http://concepticon.clld.org/parameters/860,савав,cause
+526-274,lakk1252,http://concepticon.clld.org/parameters/860,багьана,cause
+526-962,lakk1252,http://concepticon.clld.org/parameters/1308,щак,doubt
+526-1402,lakk1252,http://concepticon.clld.org/parameters/1308,кІихІалшиву,doubt
+526-490,lakk1252,http://concepticon.clld.org/parameters/1841,щак тІун,suspect
+526-1103,lakk1252,http://concepticon.clld.org/parameters/1902,баххан,betray
+526-1310,lakk1252,http://concepticon.clld.org/parameters/643,чарабакъашиву,"need, necessity"
+526-1015,lakk1252,http://concepticon.clld.org/parameters/686,куклусса,easy
+526-254,lakk1252,http://concepticon.clld.org/parameters/584,захІматсса,difficult
+526-1079,lakk1252,http://concepticon.clld.org/parameters/1812,кьаст,"try, attempt"
+526-317,lakk1252,http://concepticon.clld.org/parameters/488,кьайда,"way, manner"
+526-1176,lakk1252,http://concepticon.clld.org/parameters/488,куц,"way, manner"
+526-1141,lakk1252,http://concepticon.clld.org/parameters/1577,ва,and
+526-260,lakk1252,http://concepticon.clld.org/parameters/1577,-гу,and
+526-12,lakk1252,http://concepticon.clld.org/parameters/1577,йалагу,and
+526-801,lakk1252,http://concepticon.clld.org/parameters/1157,мунихтуну,because
+526-977,lakk1252,http://concepticon.clld.org/parameters/1459,агар,if
+526-756,lakk1252,http://concepticon.clld.org/parameters/1014,йа,or
+526-667,lakk1252,http://concepticon.clld.org/parameters/1014,йагу,or
+526-1030,lakk1252,http://concepticon.clld.org/parameters/1268,ди,"yes, affirmative"
+526-880,lakk1252,http://concepticon.clld.org/parameters/1269,акъар,"no, negative"
+526-963,lakk1252,http://concepticon.clld.org/parameters/1269,бакъар,"no, negative"
+526-1153,lakk1252,http://concepticon.clld.org/parameters/1269,дакъар,"no, negative"
+526-1198,lakk1252,http://concepticon.clld.org/parameters/1239,цукун,how?
+526-938,lakk1252,http://concepticon.clld.org/parameters/822,цинсса,how many?
+526-938,lakk1252,http://concepticon.clld.org/parameters/531,цинсса,how much?
+526-60,lakk1252,http://concepticon.clld.org/parameters/1236,ци,what?
+526-623,lakk1252,http://concepticon.clld.org/parameters/1238,та,when?
+526-1358,lakk1252,http://concepticon.clld.org/parameters/1237,чув,where?
+526-357,lakk1252,http://concepticon.clld.org/parameters/1237,ча,where?
+526-6,lakk1252,http://concepticon.clld.org/parameters/727,цукунсса,which?
+526-45,lakk1252,http://concepticon.clld.org/parameters/1235,цу,who?
+526-832,lakk1252,http://concepticon.clld.org/parameters/1270,циван,why?
+526-291,lakk1252,http://concepticon.clld.org/parameters/1363,чІу,voice
+526-115,lakk1252,http://concepticon.clld.org/parameters/1261,балай учин,sing
+526-1013,lakk1252,http://concepticon.clld.org/parameters/715,вев тІун,"shout, cry out"
+526-339,lakk1252,http://concepticon.clld.org/parameters/55,щурщу тІун,whisper
+526-1274,lakk1252,http://concepticon.clld.org/parameters/128,гъургъу тІун,mumble
+526-655,lakk1252,http://concepticon.clld.org/parameters/1025,щютІа тІун,whistle
+526-776,lakk1252,http://concepticon.clld.org/parameters/298,чІурду буллан,"shriek, screech"
+526-1013,lakk1252,http://concepticon.clld.org/parameters/526,вев тІун,howl
+526-1111,lakk1252,http://concepticon.clld.org/parameters/1623,гъалгъа тІун,"speak, talk"
+526-717,lakk1252,http://concepticon.clld.org/parameters/1866,баъ-баъ тІун,"stutter, stammer"
+526-689,lakk1252,http://concepticon.clld.org/parameters/1866,маз бахчилан,"stutter, stammer"
+526-268,lakk1252,http://concepticon.clld.org/parameters/1458,учин,say
+526-636,lakk1252,http://concepticon.clld.org/parameters/1711,хавар буслан,tell story
+526-589,lakk1252,http://concepticon.clld.org/parameters/1115,гъалгъа,speech (make a)
+526-975,lakk1252,http://concepticon.clld.org/parameters/1115,ихтилат,speech (make a)
+526-412,lakk1252,http://concepticon.clld.org/parameters/48,кьа багьан,silent (be)
+526-1318,lakk1252,http://concepticon.clld.org/parameters/1307,маз,language
+526-1123,lakk1252,http://concepticon.clld.org/parameters/1599,махъ,word
+526-210,lakk1252,http://concepticon.clld.org/parameters/1405,цІа,name
+526-102,lakk1252,http://concepticon.clld.org/parameters/1405,учайсса цІа,name
+526-1178,lakk1252,http://concepticon.clld.org/parameters/1309,цІуххин,"ask (question, inquire)"
+526-882,lakk1252,http://concepticon.clld.org/parameters/1275,буслан,answer
+526-1024,lakk1252,http://concepticon.clld.org/parameters/1275,жаваб дулун,answer
+526-649,lakk1252,http://concepticon.clld.org/parameters/2022,кІул хьун,"admit, confess"
+526-372,lakk1252,http://concepticon.clld.org/parameters/2022,мукІру хьун,"admit, confess"
+526-599,lakk1252,http://concepticon.clld.org/parameters/2022,бувчІлан,"admit, confess"
+526-1151,lakk1252,http://concepticon.clld.org/parameters/755,инкар къабулун,deny
+526-615,lakk1252,http://concepticon.clld.org/parameters/1828,чІа учин,"ask, request"
+526-1403,lakk1252,http://concepticon.clld.org/parameters/1675,махъал хьун,promise
+526-300,lakk1252,http://concepticon.clld.org/parameters/49,рязи къахьун,refuse
+526-389,lakk1252,http://concepticon.clld.org/parameters/83,къадагъа дан,forbid
+526-809,lakk1252,http://concepticon.clld.org/parameters/83,ихтийар къадулун,forbid
+526-988,lakk1252,http://concepticon.clld.org/parameters/299,ссугру дуллан,"rebuke, scold"
+526-1309,lakk1252,http://concepticon.clld.org/parameters/1084,оьвчин,call (=summon)
+526-35,lakk1252,http://concepticon.clld.org/parameters/180,цІа учин,call (=name)
+526-1409,lakk1252,http://concepticon.clld.org/parameters/9,байан буллан,announce
+526-1138,lakk1252,http://concepticon.clld.org/parameters/1192,нигь дуцлан,threaten
+526-44,lakk1252,http://concepticon.clld.org/parameters/1192,нигьал уллан,threaten
+526-223,lakk1252,http://concepticon.clld.org/parameters/101,пахру буллан,boast
+526-1237,lakk1252,http://concepticon.clld.org/parameters/1672,чичин,write
+526-442,lakk1252,http://concepticon.clld.org/parameters/724,буккин,read
+526-1420,lakk1252,http://concepticon.clld.org/parameters/648,чагъар,paper
+526-281,lakk1252,http://concepticon.clld.org/parameters/794,ручка,pen
+526-167,lakk1252,http://concepticon.clld.org/parameters/794,кьалам,pen
+526-979,lakk1252,http://concepticon.clld.org/parameters/963,жуж,book
+526-1357,lakk1252,http://concepticon.clld.org/parameters/963,лу,book
+526-1313,lakk1252,http://concepticon.clld.org/parameters/1045,поэт,poet
+526-387,lakk1252,http://concepticon.clld.org/parameters/1045,чичу,poet
+526-885,lakk1252,http://concepticon.clld.org/parameters/1045,шаэр,poet
+526-716,lakk1252,http://concepticon.clld.org/parameters/777,зурна,flute
+526-971,lakk1252,http://concepticon.clld.org/parameters/908,дачІу,drum
+526-1329,lakk1252,http://concepticon.clld.org/parameters/908,накьара,drum
+526-240,lakk1252,http://concepticon.clld.org/parameters/2136,турба,"horn, trumpet"
+526-597,lakk1252,http://concepticon.clld.org/parameters/2136,горн,"horn, trumpet"
+526-1031,lakk1252,http://concepticon.clld.org/parameters/300,гъяр-гъяртІала,rattle
+526-246,lakk1252,http://concepticon.clld.org/parameters/1300,билаят,country
+526-263,lakk1252,http://concepticon.clld.org/parameters/89,лакку билаят (улча),one's native country
+526-577,lakk1252,http://concepticon.clld.org/parameters/89,ватІан,one's native country
+526-867,lakk1252,http://concepticon.clld.org/parameters/1391,шагьру,"city, town"
+526-622,lakk1252,http://concepticon.clld.org/parameters/930,щеравалу,village
+526-151,lakk1252,http://concepticon.clld.org/parameters/930,шяравалу,village
+526-1094,lakk1252,http://concepticon.clld.org/parameters/1010,дазу,boundary
+526-473,lakk1252,http://concepticon.clld.org/parameters/789,халкь,people (populace)
+526-592,lakk1252,http://concepticon.clld.org/parameters/789,махлукьат,people (populace)
+526-601,lakk1252,http://concepticon.clld.org/parameters/302,тайпа,"tribe, clan"
+526-1367,lakk1252,http://concepticon.clld.org/parameters/302,тухум,"tribe, clan"
+526-1137,lakk1252,http://concepticon.clld.org/parameters/301,бакІчи,"chief, chieftain"
+526-661,lakk1252,http://concepticon.clld.org/parameters/1296,ттархь,"staff, walking stick"
+526-978,lakk1252,http://concepticon.clld.org/parameters/1846,каялувшиву дуллан,"rule, govern"
+526-1102,lakk1252,http://concepticon.clld.org/parameters/1508,паччахІ,"king, ruler"
+526-1304,lakk1252,http://concepticon.clld.org/parameters/1508,агъа,"king, ruler"
+526-74,lakk1252,http://concepticon.clld.org/parameters/1306,паччахІ-щар,queen
+526-89,lakk1252,http://concepticon.clld.org/parameters/482,уздансса,"noble, nobleman"
+526-381,lakk1252,http://concepticon.clld.org/parameters/482,ххуйсса,"noble, nobleman"
+526-529,lakk1252,http://concepticon.clld.org/parameters/1032,шагьрулул инсан,"citizen, subject"
+526-1304,lakk1252,http://concepticon.clld.org/parameters/383,агъа,master
+526-766,lakk1252,http://concepticon.clld.org/parameters/383,заллу,master
+526-368,lakk1252,http://concepticon.clld.org/parameters/812,лагъ,slave
+526-1101,lakk1252,http://concepticon.clld.org/parameters/812,къазакъ,slave
+526-486,lakk1252,http://concepticon.clld.org/parameters/255,ссумурухьхьу,servant
+526-1007,lakk1252,http://concepticon.clld.org/parameters/255,нукар,servant
+526-668,lakk1252,http://concepticon.clld.org/parameters/384,тархъансса инсан,freeman
+526-573,lakk1252,http://concepticon.clld.org/parameters/1128,амру бан,"command, order"
+526-267,lakk1252,http://concepticon.clld.org/parameters/1128,буйур бан,"command, order"
+526-1170,lakk1252,http://concepticon.clld.org/parameters/1635,мютІий хьун,obey
+526-1314,lakk1252,http://concepticon.clld.org/parameters/1003,рухсат булун,"let, permit"
+526-779,lakk1252,http://concepticon.clld.org/parameters/1003,ихтийар дулун,"let, permit"
+526-347,lakk1252,http://concepticon.clld.org/parameters/1325,гьалмагъчу,"friend, companion"
+526-232,lakk1252,http://concepticon.clld.org/parameters/1358,душман,enemy
+526-662,lakk1252,http://concepticon.clld.org/parameters/1332,чІаххучув,neighbor
+526-603,lakk1252,http://concepticon.clld.org/parameters/791,кІулакъу,stranger
+526-1023,lakk1252,http://concepticon.clld.org/parameters/1782,хъамаличу,guest
+526-766,lakk1252,http://concepticon.clld.org/parameters/1545,заллу,host
+526-28,lakk1252,http://concepticon.clld.org/parameters/1897,кумаг,"help, aid"
+526-73,lakk1252,http://concepticon.clld.org/parameters/1550,ахчилан,"hinder, prevent"
+526-101,lakk1252,http://concepticon.clld.org/parameters/1550,дайгьузанну дуллан,"hinder, prevent"
+526-791,lakk1252,http://concepticon.clld.org/parameters/1747,аьдат,custom
+526-234,lakk1252,http://concepticon.clld.org/parameters/1848,питна,"strife, quarrel"
+526-1377,lakk1252,http://concepticon.clld.org/parameters/1848,къалмакъал,"strife, quarrel"
+526-8,lakk1252,http://concepticon.clld.org/parameters/2024,луркІан дуккаву,"conspiracy, plot"
+526-409,lakk1252,http://concepticon.clld.org/parameters/1831,хьуна бакьин,meet
+526-830,lakk1252,http://concepticon.clld.org/parameters/1610,къахІва-щар,prostitute
+526-1217,lakk1252,http://concepticon.clld.org/parameters/1423,биллан,fight (vb)
+526-940,lakk1252,http://concepticon.clld.org/parameters/1423,талан,fight (vb)
+526-846,lakk1252,http://concepticon.clld.org/parameters/579,дяъви,"war, battle"
+526-234,lakk1252,http://concepticon.clld.org/parameters/579,питна,"war, battle"
+526-217,lakk1252,http://concepticon.clld.org/parameters/1338,дакьаву,peace
+526-77,lakk1252,http://concepticon.clld.org/parameters/1561,аьрал,army
+526-514,lakk1252,http://concepticon.clld.org/parameters/1941,салдатІ,soldier
+526-1324,lakk1252,http://concepticon.clld.org/parameters/1941,аьскар,soldier
+526-935,lakk1252,http://concepticon.clld.org/parameters/951,йарагъ,"weapons, arms"
+526-802,lakk1252,http://concepticon.clld.org/parameters/1763,кьав,club
+526-474,lakk1252,http://concepticon.clld.org/parameters/386,рикІ,battle-ax
+526-487,lakk1252,http://concepticon.clld.org/parameters/387,урун,sling
+526-1241,lakk1252,http://concepticon.clld.org/parameters/994,чІатІаракІ,bow
+526-1215,lakk1252,http://concepticon.clld.org/parameters/977,чІатІаракІрал тІиму,arrow
+526-1253,lakk1252,http://concepticon.clld.org/parameters/945,ччала,spear
+526-742,lakk1252,http://concepticon.clld.org/parameters/1535,тур,sword
+526-1130,lakk1252,http://concepticon.clld.org/parameters/1566,ттупанг,"gun, cannon"
+526-939,lakk1252,http://concepticon.clld.org/parameters/1566,ттуп,"gun, cannon"
+526-605,lakk1252,http://concepticon.clld.org/parameters/1061,хІурни,armor (defensive)
+526-461,lakk1252,http://concepticon.clld.org/parameters/1061,хІурни-такьия,armor (defensive)
+526-142,lakk1252,http://concepticon.clld.org/parameters/1680,такьия,helmet
+526-1075,lakk1252,http://concepticon.clld.org/parameters/1064,къалхан,shield
+526-265,lakk1252,http://concepticon.clld.org/parameters/1938,къала,fortress
+526-1301,lakk1252,http://concepticon.clld.org/parameters/1938,къапу,fortress
+526-512,lakk1252,http://concepticon.clld.org/parameters/1671,чІюй,tower
+526-591,lakk1252,http://concepticon.clld.org/parameters/783,ххувшаву,victory
+526-847,lakk1252,http://concepticon.clld.org/parameters/782,ух-бух шаву,defeat
+526-410,lakk1252,http://concepticon.clld.org/parameters/722,гьужум бан,attack
+526-140,lakk1252,http://concepticon.clld.org/parameters/722,нигьал бан,attack
+526-681,lakk1252,http://concepticon.clld.org/parameters/1330,хьхьичІа лакьин,defend
+526-854,lakk1252,http://concepticon.clld.org/parameters/421,бухьхьун,retreat
+526-498,lakk1252,http://concepticon.clld.org/parameters/421,махъунмай хьун,retreat
+526-1248,lakk1252,http://concepticon.clld.org/parameters/1696,канин гьан,surrender
+526-993,lakk1252,http://concepticon.clld.org/parameters/1696,диндир хьун,surrender
+526-998,lakk1252,http://concepticon.clld.org/parameters/1072,йасир,"captive, prisoner"
+526-1226,lakk1252,http://concepticon.clld.org/parameters/1072,канин лавгма,"captive, prisoner"
+526-912,lakk1252,http://concepticon.clld.org/parameters/1072,дуснакь уьма,"captive, prisoner"
+526-653,lakk1252,http://concepticon.clld.org/parameters/1940,къарал,"guard, sentinel"
+526-484,lakk1252,http://concepticon.clld.org/parameters/1022,дарцусса хъус,"booty, spoils"
+526-1275,lakk1252,http://concepticon.clld.org/parameters/1022,давла,"booty, spoils"
+526-881,lakk1252,http://concepticon.clld.org/parameters/65,луркІан дан,ambush
+526-1321,lakk1252,http://concepticon.clld.org/parameters/1858,балугъ бугьу,fisherman
+526-660,lakk1252,http://concepticon.clld.org/parameters/1074,балугъ бугьай къалмах,fishhook
+526-444,lakk1252,http://concepticon.clld.org/parameters/19,леска,fishing line
+526-65,lakk1252,http://concepticon.clld.org/parameters/388,балугъ бугьай къери,fishnet
+526-990,lakk1252,http://concepticon.clld.org/parameters/389,къери,fish trap
+526-523,lakk1252,http://concepticon.clld.org/parameters/2013,кьюнукьи шатта,bait
+526-976,lakk1252,http://concepticon.clld.org/parameters/1435,авли уклан,hunt
+526-270,lakk1252,http://concepticon.clld.org/parameters/1172,битан,shoot
+526-310,lakk1252,http://concepticon.clld.org/parameters/161,къащун,miss (target)
+526-500,lakk1252,http://concepticon.clld.org/parameters/1075,къатІа,trap (noun)
+526-325,lakk1252,http://concepticon.clld.org/parameters/1170,къатІух угьан,trap (vb)
+526-508,lakk1252,http://concepticon.clld.org/parameters/1062,кьанум,law
+526-1354,lakk1252,http://concepticon.clld.org/parameters/1062,закум,law
+526-1229,lakk1252,http://concepticon.clld.org/parameters/1068,диван,court
+526-159,lakk1252,http://concepticon.clld.org/parameters/1068,суд,court
+526-610,lakk1252,http://concepticon.clld.org/parameters/1818,диван бан,judge (vb)
+526-1203,lakk1252,http://concepticon.clld.org/parameters/1818,суд бан,judge (vb)
+526-556,lakk1252,http://concepticon.clld.org/parameters/1067,диван баву,judgment
+526-346,lakk1252,http://concepticon.clld.org/parameters/1067,суд баву,judgment
+526-2,lakk1252,http://concepticon.clld.org/parameters/861,ссудийа,judge (noun)
+526-122,lakk1252,http://concepticon.clld.org/parameters/2020,тІалав дуву,plaintiff
+526-193,lakk1252,http://concepticon.clld.org/parameters/1034,жаваб дулу,defendant
+526-1148,lakk1252,http://concepticon.clld.org/parameters/1144,ккавкма,witness
+526-1410,lakk1252,http://concepticon.clld.org/parameters/1939,хъа бан,swear
+526-331,lakk1252,http://concepticon.clld.org/parameters/1712,хъа,oath
+526-821,lakk1252,http://concepticon.clld.org/parameters/1814,аьй дан,accuse
+526-821,lakk1252,http://concepticon.clld.org/parameters/484,аьй дан,condemn
+526-66,lakk1252,http://concepticon.clld.org/parameters/983,тахсирлу бан,convict (vb)
+526-363,lakk1252,http://concepticon.clld.org/parameters/988,хІайла ан,acquit
+526-1107,lakk1252,http://concepticon.clld.org/parameters/1682,тахсир бума,guilty
+526-1398,lakk1252,http://concepticon.clld.org/parameters/90,тахсир бакъасса,innocent
+526-238,lakk1252,http://concepticon.clld.org/parameters/390,таммихІ,"penalty, punishment"
+526-739,lakk1252,http://concepticon.clld.org/parameters/390,жаза,"penalty, punishment"
+526-765,lakk1252,http://concepticon.clld.org/parameters/218,арцуйнусса аьчІа,fine
+526-906,lakk1252,http://concepticon.clld.org/parameters/1281,дуснакь,"prison, jail"
+526-1175,lakk1252,http://concepticon.clld.org/parameters/845,ивчІаву,murder
+526-1283,lakk1252,http://concepticon.clld.org/parameters/902,зунарай заназаву,adultery
+526-992,lakk1252,http://concepticon.clld.org/parameters/953,гуж баву,rape
+526-1184,lakk1252,http://concepticon.clld.org/parameters/1889,цІу щаву,arson
+526-194,lakk1252,http://concepticon.clld.org/parameters/1792,щялмахъсса кІулчу,perjury
+526-562,lakk1252,http://concepticon.clld.org/parameters/713,цурк буллан,steal
+526-427,lakk1252,http://concepticon.clld.org/parameters/713,дацин,steal
+526-1316,lakk1252,http://concepticon.clld.org/parameters/1160,цурку,thief
+526-859,lakk1252,http://concepticon.clld.org/parameters/661,дин,religion
+526-744,lakk1252,http://concepticon.clld.org/parameters/1944,Аллагь,God
+526-612,lakk1252,http://concepticon.clld.org/parameters/911,мизит,"temple, church"
+526-871,lakk1252,http://concepticon.clld.org/parameters/911,килиса,"temple, church"
+526-917,lakk1252,http://concepticon.clld.org/parameters/853,михІрав,altar
+526-430,lakk1252,http://concepticon.clld.org/parameters/1103,кьурван,"sacrifice, offering"
+526-729,lakk1252,http://concepticon.clld.org/parameters/257,икрам бан,worship
+526-1308,lakk1252,http://concepticon.clld.org/parameters/24,чак бан,pray
+526-1401,lakk1252,http://concepticon.clld.org/parameters/24,дуаь дуллан,pray
+526-733,lakk1252,http://concepticon.clld.org/parameters/852,мала,priest
+526-1280,lakk1252,http://concepticon.clld.org/parameters/852,кашиш,priest
+526-937,lakk1252,http://concepticon.clld.org/parameters/1702,караматсса,"holy, sacred"
+526-690,lakk1252,http://concepticon.clld.org/parameters/1702,мубараксса,"holy, sacred"
+526-292,lakk1252,http://concepticon.clld.org/parameters/304,ваъза бан,preach
+526-1353,lakk1252,http://concepticon.clld.org/parameters/304,ваъза-насигьат бан,preach
+526-684,lakk1252,http://concepticon.clld.org/parameters/391,хъанмурчІа учин,bless
+526-1389,lakk1252,http://concepticon.clld.org/parameters/8,наъаьна дан,curse
+526-117,lakk1252,http://concepticon.clld.org/parameters/8,зай учин,curse
+526-200,lakk1252,http://concepticon.clld.org/parameters/303,зума дугьан,fast (vb)
+526-1276,lakk1252,http://concepticon.clld.org/parameters/1565,алжан,heaven
+526-989,lakk1252,http://concepticon.clld.org/parameters/878,дуржагь,hell
+526-276,lakk1252,http://concepticon.clld.org/parameters/878,дужжагь,hell
+526-959,lakk1252,http://concepticon.clld.org/parameters/1973,жин,demon (evil spirit)
+526-1000,lakk1252,http://concepticon.clld.org/parameters/1973,илбис,demon (evil spirit)
+526-544,lakk1252,http://concepticon.clld.org/parameters/1973,шайтІан,demon (evil spirit)
+526-1284,lakk1252,http://concepticon.clld.org/parameters/1945,пут,idol
+526-1036,lakk1252,http://concepticon.clld.org/parameters/1945,буркІ,idol
+526-1290,lakk1252,http://concepticon.clld.org/parameters/392,ссихІир,"magic, witchcraft, sorcery"
+526-379,lakk1252,http://concepticon.clld.org/parameters/392,тІилисин,"magic, witchcraft, sorcery"
+526-1020,lakk1252,http://concepticon.clld.org/parameters/2137,ссихІирщар,"sorcerer, witch"
+526-447,lakk1252,http://concepticon.clld.org/parameters/2137,тІилисинщар,"sorcerer, witch"
+526-949,lakk1252,http://concepticon.clld.org/parameters/2138,хIурулЪин,"fairy, elf"
+526-350,lakk1252,http://concepticon.clld.org/parameters/1175,ххют,"ghost, phantom"
+526-1254,lakk1252,http://concepticon.clld.org/parameters/1175,лишан,"ghost, phantom"
+526-297,lakk1252,http://concepticon.clld.org/parameters/107,аьламат,"omen, portent"

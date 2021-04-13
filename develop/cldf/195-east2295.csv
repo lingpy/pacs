@@ -1,0 +1,1781 @@
+ID,Language_ID,Feature_ID,Value,Concept
+195-1321,east2295,http://concepticon.clld.org/parameters/965,velt,world
+195-471,east2295,http://concepticon.clld.org/parameters/626,erd,"earth, land"
+195-623,east2295,http://concepticon.clld.org/parameters/1228,grunt,"earth=ground, soil"
+195-1036,east2295,http://concepticon.clld.org/parameters/2,štojb,dust
+195-653,east2295,http://concepticon.clld.org/parameters/2,porex,dust
+195-107,east2295,http://concepticon.clld.org/parameters/640,blote,mud
+195-67,east2295,http://concepticon.clld.org/parameters/671,zamd,sand
+195-1127,east2295,http://concepticon.clld.org/parameters/2118,barg,"mountain, hill"
+195-852,east2295,http://concepticon.clld.org/parameters/2118,bergl,"mountain, hill"
+195-723,east2295,http://concepticon.clld.org/parameters/618,feldz,"cliff, precipice"
+195-470,east2295,http://concepticon.clld.org/parameters/652,plejn,"plain, field"
+195-421,east2295,http://concepticon.clld.org/parameters/652,feld,"plain, field"
+195-159,east2295,http://concepticon.clld.org/parameters/921,tol,valley
+195-258,east2295,http://concepticon.clld.org/parameters/622,indzl,island
+195-1111,east2295,http://concepticon.clld.org/parameters/166,jaboše,mainland
+195-1487,east2295,http://concepticon.clld.org/parameters/113,breg,shore
+195-1237,east2295,http://concepticon.clld.org/parameters/1155,hejl,cave
+195-536,east2295,http://concepticon.clld.org/parameters/948,vaser,water
+195-503,east2295,http://concepticon.clld.org/parameters/1474,jam,sea
+195-1113,east2295,http://concepticon.clld.org/parameters/258,ruik,calm (of sea)
+195-870,east2295,http://concepticon.clld.org/parameters/259,umruik,rough (of sea)
+195-836,east2295,http://concepticon.clld.org/parameters/1768,šam,foam
+195-805,east2295,http://concepticon.clld.org/parameters/645,o'kean,ocean
+195-334,east2295,http://concepticon.clld.org/parameters/624,'ozere,lake
+195-1052,east2295,http://concepticon.clld.org/parameters/663,ajngos,"gulf, bay"
+195-560,east2295,http://concepticon.clld.org/parameters/623,la'gun,lagoon
+195-1187,east2295,http://concepticon.clld.org/parameters/660,rif,reef
+195-916,east2295,http://concepticon.clld.org/parameters/1662,jaboše-cung,"headland, point"
+195-1086,east2295,http://concepticon.clld.org/parameters/1662,kap,"headland, point"
+195-1522,east2295,http://concepticon.clld.org/parameters/978,xvalʸe,wave
+195-260,east2295,http://concepticon.clld.org/parameters/891,jam-flejc,tide
+195-668,east2295,http://concepticon.clld.org/parameters/1026,onflejc,lowtide
+195-780,east2295,http://concepticon.clld.org/parameters/613,opflejc,hightide
+195-798,east2295,http://concepticon.clld.org/parameters/666,tajx,"river, stream, brook"
+195-485,east2295,http://concepticon.clld.org/parameters/666,box,"river, stream, brook"
+195-1065,east2295,http://concepticon.clld.org/parameters/666,ričke,"river, stream, brook"
+195-698,east2295,http://concepticon.clld.org/parameters/1982,keslgrub,whirlpool
+195-884,east2295,http://concepticon.clld.org/parameters/2144,kval,"spring, well"
+195-215,east2295,http://concepticon.clld.org/parameters/2144,brune(m),"spring, well"
+195-429,east2295,http://concepticon.clld.org/parameters/2144,'krenice,"spring, well"
+195-265,east2295,http://concepticon.clld.org/parameters/1145,zump,swamp
+195-314,east2295,http://concepticon.clld.org/parameters/943,'vaserfal,waterfall
+195-932,east2295,http://concepticon.clld.org/parameters/420,vald,"woods, forest"
+195-1368,east2295,http://concepticon.clld.org/parameters/906,bojm,tree (cf 08.600)
+195-65,east2295,http://concepticon.clld.org/parameters/1803,holc,wood
+195-306,east2295,http://concepticon.clld.org/parameters/2125,štejn,"stone, rock"
+195-1323,east2295,http://concepticon.clld.org/parameters/6,'erd-citerniš,earthquake
+195-941,east2295,http://concepticon.clld.org/parameters/1732,himl,sky
+195-370,east2295,http://concepticon.clld.org/parameters/1343,zun,sun
+195-1243,east2295,http://concepticon.clld.org/parameters/1313,levone,moon
+195-1469,east2295,http://concepticon.clld.org/parameters/1430,štern,star
+195-1464,east2295,http://concepticon.clld.org/parameters/1654,blic,lightning
+195-1627,east2295,http://concepticon.clld.org/parameters/1150,duner,thunder
+195-1464,east2295,http://concepticon.clld.org/parameters/2007,blic,lightning (as striking)
+195-649,east2295,http://concepticon.clld.org/parameters/858,šturem,storm
+195-626,east2295,http://concepticon.clld.org/parameters/1733,regn-bojgn,rainbow
+195-467,east2295,http://concepticon.clld.org/parameters/630,lixt,light (noun)
+195-628,east2295,http://concepticon.clld.org/parameters/11,'fincterniš,darkness
+195-440,east2295,http://concepticon.clld.org/parameters/1388,šotn,"shade, shadow"
+195-348,east2295,http://concepticon.clld.org/parameters/1388,sotn,"shade, shadow"
+195-782,east2295,http://concepticon.clld.org/parameters/1977,rose,dew
+195-156,east2295,http://concepticon.clld.org/parameters/1977,toj,dew
+195-1095,east2295,http://concepticon.clld.org/parameters/27,luft,air
+195-1128,east2295,http://concepticon.clld.org/parameters/960,vint,wind
+195-89,east2295,http://concepticon.clld.org/parameters/1489,volkn,cloud
+195-1033,east2295,http://concepticon.clld.org/parameters/1489,xmare,cloud
+195-611,east2295,http://concepticon.clld.org/parameters/249,nepl,fog
+195-47,east2295,http://concepticon.clld.org/parameters/249,tu'man,fog
+195-1481,east2295,http://concepticon.clld.org/parameters/658,regn,rain (noun)
+195-326,east2295,http://concepticon.clld.org/parameters/784,šnej,snow (noun)
+195-125,east2295,http://concepticon.clld.org/parameters/617,ajz,ice
+195-86,east2295,http://concepticon.clld.org/parameters/952,veter,weather
+195-1026,east2295,http://concepticon.clld.org/parameters/221,fajer,fire
+195-958,east2295,http://concepticon.clld.org/parameters/889,flam,flame (noun)
+195-1402,east2295,http://concepticon.clld.org/parameters/778,rojx,smoke (noun)
+195-973,east2295,http://concepticon.clld.org/parameters/646,aš,ashes
+195-71,east2295,http://concepticon.clld.org/parameters/67,holeveškes,embers
+195-938,east2295,http://concepticon.clld.org/parameters/67,žar,embers
+195-1145,east2295,http://concepticon.clld.org/parameters/141,farbrenen,burn (vb trans)
+195-1414,east2295,http://concepticon.clld.org/parameters/1428,brenen,burn (vb intrans)
+195-557,east2295,http://concepticon.clld.org/parameters/737,(on)cindn,"light, kindle, ignite"
+195-395,east2295,http://concepticon.clld.org/parameters/127,(far)'lešn,extinguish
+195-205,east2295,http://concepticon.clld.org/parameters/1133,'švebele,match (noun)
+195-233,east2295,http://concepticon.clld.org/parameters/1133,zaplke,match (noun)
+195-501,east2295,http://concepticon.clld.org/parameters/10,brenholc,firewood
+195-690,east2295,http://concepticon.clld.org/parameters/1188,holckojln,charcoal
+195-1001,east2295,http://concepticon.clld.org/parameters/683,menč,"person, human being"
+195-4,east2295,http://concepticon.clld.org/parameters/1554,mancbil,man (vs. woman)
+195-1056,east2295,http://concepticon.clld.org/parameters/1554,'mansparšojn,man (vs. woman)
+195-679,east2295,http://concepticon.clld.org/parameters/962,vajb,woman
+195-1347,east2295,http://concepticon.clld.org/parameters/962,froj,woman
+195-193,east2295,http://concepticon.clld.org/parameters/2263,zoxer,male
+195-448,east2295,http://concepticon.clld.org/parameters/2260,nekejve,female
+195-1008,east2295,http://concepticon.clld.org/parameters/1366,jingl,boy
+195-744,east2295,http://concepticon.clld.org/parameters/1366,'jingele,boy
+195-332,east2295,http://concepticon.clld.org/parameters/76,boxer,young man (adolescent)
+195-757,east2295,http://concepticon.clld.org/parameters/1646,'mejdele,girl
+195-394,east2295,http://concepticon.clld.org/parameters/1646,mejdl,girl
+195-394,east2295,http://concepticon.clld.org/parameters/77,mejdl,young woman (adolescent)
+195-1053,east2295,http://concepticon.clld.org/parameters/1304,kind,child
+195-621,east2295,http://concepticon.clld.org/parameters/1289,'ejfele,"infant, baby"
+195-539,east2295,http://concepticon.clld.org/parameters/1200,man,husband
+195-679,east2295,http://concepticon.clld.org/parameters/1199,vajb,wife
+195-614,east2295,http://concepticon.clld.org/parameters/203,'xasene hobn,marry
+195-1250,east2295,http://concepticon.clld.org/parameters/1259,'xasene,"marriage, wedding"
+195-676,east2295,http://concepticon.clld.org/parameters/1134,get,divorce
+195-1027,east2295,http://concepticon.clld.org/parameters/1217,tate,father
+195-1034,east2295,http://concepticon.clld.org/parameters/1217,foter,father
+195-1046,east2295,http://concepticon.clld.org/parameters/1216,mame,mother
+195-1138,east2295,http://concepticon.clld.org/parameters/1216,muter,mother
+195-229,east2295,http://concepticon.clld.org/parameters/505,tate-mame,parents
+195-164,east2295,http://concepticon.clld.org/parameters/424,'xasene-gehater,married man
+195-1381,east2295,http://concepticon.clld.org/parameters/424,bavajbter,married man
+195-362,east2295,http://concepticon.clld.org/parameters/426,'xasene-gehate,married woman
+195-1129,east2295,http://concepticon.clld.org/parameters/426,bamante,married woman
+195-370,east2295,http://concepticon.clld.org/parameters/1620,zun,son
+195-268,east2295,http://concepticon.clld.org/parameters/1357,toxter,daughter
+195-1053,east2295,http://concepticon.clld.org/parameters/1801,kind,offspring (son or daughter)
+195-839,east2295,http://concepticon.clld.org/parameters/1262,bruder,brother
+195-1030,east2295,http://concepticon.clld.org/parameters/1759,'elterer bruder,older brother
+195-1342,east2295,http://concepticon.clld.org/parameters/1760,'yingerer bruder,younger brother
+195-250,east2295,http://concepticon.clld.org/parameters/1263,švester,sister
+195-1306,east2295,http://concepticon.clld.org/parameters/1758,'eltere švester,older sister
+195-700,east2295,http://concepticon.clld.org/parameters/1761,'yingere švester,younger sister
+195-839,east2295,http://concepticon.clld.org/parameters/1640,bruder,sibling
+195-250,east2295,http://concepticon.clld.org/parameters/1640,švester,sibling
+195-105,east2295,http://concepticon.clld.org/parameters/1640,mitkind,sibling
+195-906,east2295,http://concepticon.clld.org/parameters/1005,cviling,twins
+195-351,east2295,http://concepticon.clld.org/parameters/1383,zejde,grandfather
+195-991,east2295,http://concepticon.clld.org/parameters/406,alter,old man
+195-1515,east2295,http://concepticon.clld.org/parameters/406,zokn,old man
+195-617,east2295,http://concepticon.clld.org/parameters/1496,bobe,grandmother
+195-487,east2295,http://concepticon.clld.org/parameters/907,alte,old woman
+195-551,east2295,http://concepticon.clld.org/parameters/907,skejne,old woman
+195-1275,east2295,http://concepticon.clld.org/parameters/1618,'ejnikl,grandson
+195-1275,east2295,http://concepticon.clld.org/parameters/1619,'ejnikl,granddaughter
+195-358,east2295,http://concepticon.clld.org/parameters/1327,feter,uncle
+195-1609,east2295,http://concepticon.clld.org/parameters/1984,(der) mames bruder,mother's brother
+195-1153,east2295,http://concepticon.clld.org/parameters/1985,(dem) tatns bruder,father's brother
+195-1005,east2295,http://concepticon.clld.org/parameters/1272,mume,aunt
+195-369,east2295,http://concepticon.clld.org/parameters/171,(der) mames švester,mother's sister
+195-240,east2295,http://concepticon.clld.org/parameters/170,(dem) tatns švester,father's sister
+195-1160,east2295,http://concepticon.clld.org/parameters/1063,plimenik,nephew
+195-974,east2295,http://concepticon.clld.org/parameters/1063,'brudern-zun,nephew
+195-518,east2295,http://concepticon.clld.org/parameters/1063,'švestern-zun,nephew
+195-425,east2295,http://concepticon.clld.org/parameters/1642,pli'menice,niece
+195-1376,east2295,http://concepticon.clld.org/parameters/1642,'brudern-toxter,niece
+195-204,east2295,http://concepticon.clld.org/parameters/1642,'švestern-toxter,niece
+195-1659,east2295,http://concepticon.clld.org/parameters/1643,(ge) švester'kind,cousin
+195-1380,east2295,http://concepticon.clld.org/parameters/1669,oves (-avojsejnu),ancestors
+195-618,east2295,http://concepticon.clld.org/parameters/490,'kindskinder,descendants
+195-1223,east2295,http://concepticon.clld.org/parameters/2255,(a mans) šver,father-in-law (of a man)
+195-166,east2295,http://concepticon.clld.org/parameters/2254,(a frojs) šver,father-in-law (of a woman)
+195-1193,east2295,http://concepticon.clld.org/parameters/2256,(a mans) šviger,mother-in-law (of a man)
+195-728,east2295,http://concepticon.clld.org/parameters/2257,(a frojs) šviger,mother-in-law (of a woman)
+195-169,east2295,http://concepticon.clld.org/parameters/2267,(a mans) ejdem,son-in-law (of a man)
+195-40,east2295,http://concepticon.clld.org/parameters/2266,(a frojs) ejdem,son-in-law (of a woman)
+195-256,east2295,http://concepticon.clld.org/parameters/2265,(a mans) šnur,daughter-in-law (of a man)
+195-996,east2295,http://concepticon.clld.org/parameters/2264,(a frojs) šnur,daughter-in-law (of a woman)
+195-1413,east2295,http://concepticon.clld.org/parameters/237,'štiftate,stepfather
+195-771,east2295,http://concepticon.clld.org/parameters/237,'štiffoter,stepfather
+195-1432,east2295,http://concepticon.clld.org/parameters/236,'štifmame,stepmother
+195-555,east2295,http://concepticon.clld.org/parameters/236,'štifmuter,stepmother
+195-1055,east2295,http://concepticon.clld.org/parameters/1059,štifzun,stepson
+195-1341,east2295,http://concepticon.clld.org/parameters/1058,'štiftoxter,stepdaughter
+195-303,east2295,http://concepticon.clld.org/parameters/1149,josem,orphan
+195-340,east2295,http://concepticon.clld.org/parameters/1149,jesoyme,orphan
+195-16,east2295,http://concepticon.clld.org/parameters/1756,almone,widow
+195-1099,east2295,http://concepticon.clld.org/parameters/1981,almen,widower
+195-1529,east2295,http://concepticon.clld.org/parameters/1644,krojvim,"relatives, kinsmen"
+195-112,east2295,http://concepticon.clld.org/parameters/1644,frajnt (lex),"relatives, kinsmen"
+195-346,east2295,http://concepticon.clld.org/parameters/194,mišpoxe,family
+195-287,east2295,http://concepticon.clld.org/parameters/1209,ix,I
+195-227,east2295,http://concepticon.clld.org/parameters/1215,du,you (singular)
+195-540,east2295,http://concepticon.clld.org/parameters/262,er/zi/es,he/she/it
+195-1478,east2295,http://concepticon.clld.org/parameters/1212,mir,we
+195-1478,east2295,http://concepticon.clld.org/parameters/1131,mir,we (inclusive)
+195-1478,east2295,http://concepticon.clld.org/parameters/1130,mir,we (exclusive)
+195-290,east2295,http://concepticon.clld.org/parameters/1213,ir,you (plural)
+195-93,east2295,http://concepticon.clld.org/parameters/817,zej,they
+195-756,east2295,http://concepticon.clld.org/parameters/619,xaje,animal
+195-1218,east2295,http://concepticon.clld.org/parameters/2261,menlex,male (adj)
+195-1329,east2295,http://concepticon.clld.org/parameters/2262,vajblex,female (adj)
+195-98,east2295,http://concepticon.clld.org/parameters/631,fix,livestock
+195-804,east2295,http://concepticon.clld.org/parameters/649,paše,pasture
+195-797,east2295,http://concepticon.clld.org/parameters/263,pastex,herdsman
+195-689,east2295,http://concepticon.clld.org/parameters/851,štal,"stable, stall"
+195-98,east2295,http://concepticon.clld.org/parameters/1153,fix,cattle (bovine)
+195-1644,east2295,http://concepticon.clld.org/parameters/1153,behejmes,cattle (bovine)
+195-1215,east2295,http://concepticon.clld.org/parameters/1008,bik,bull
+195-1154,east2295,http://concepticon.clld.org/parameters/1008,buhaj,bull
+195-993,east2295,http://concepticon.clld.org/parameters/1169,oks,ox
+195-1096,east2295,http://concepticon.clld.org/parameters/1007,ku,cow
+195-316,east2295,http://concepticon.clld.org/parameters/1989,kalb,calf
+195-873,east2295,http://concepticon.clld.org/parameters/1331,šof,sheep
+195-1607,east2295,http://concepticon.clld.org/parameters/1331,šeps,sheep
+195-594,east2295,http://concepticon.clld.org/parameters/1344,baran,ram
+195-873,east2295,http://concepticon.clld.org/parameters/1345,šof,ewe
+195-81,east2295,http://concepticon.clld.org/parameters/820,lam,lamb
+195-695,east2295,http://concepticon.clld.org/parameters/1348,'vald-xazer,boar
+195-1269,east2295,http://concepticon.clld.org/parameters/1348,ka'ban,boar
+195-1315,east2295,http://concepticon.clld.org/parameters/1351,'xazerte,sow (2)
+195-966,east2295,http://concepticon.clld.org/parameters/1351,lʸoxe,sow (2)
+195-1420,east2295,http://concepticon.clld.org/parameters/1337,xazer,pig
+195-1228,east2295,http://concepticon.clld.org/parameters/1502,cig,goat
+195-312,east2295,http://concepticon.clld.org/parameters/1502,koze,goat
+195-489,east2295,http://concepticon.clld.org/parameters/264,bok,he-goat
+195-516,east2295,http://concepticon.clld.org/parameters/264,cap,he-goat
+195-697,east2295,http://concepticon.clld.org/parameters/1972,'cikele,kid
+195-373,east2295,http://concepticon.clld.org/parameters/615,ferd,horse (equine)
+195-1294,east2295,http://concepticon.clld.org/parameters/936,oger,stallion
+195-593,east2295,http://concepticon.clld.org/parameters/938,škape,mare
+195-20,east2295,http://concepticon.clld.org/parameters/938,klʸače,mare
+195-714,east2295,http://concepticon.clld.org/parameters/1647,lošik,"foal, colt"
+195-1262,east2295,http://concepticon.clld.org/parameters/1862,ejzl,"ass, donkey"
+195-1586,east2295,http://concepticon.clld.org/parameters/890,'mojlejzl,mule
+195-1367,east2295,http://concepticon.clld.org/parameters/265,of,fowl
+195-77,east2295,http://concepticon.clld.org/parameters/1511,hon,"cock, rooster"
+195-188,east2295,http://concepticon.clld.org/parameters/1514,hun,hen
+195-1555,east2295,http://concepticon.clld.org/parameters/1318,hindl,chicken
+195-931,east2295,http://concepticon.clld.org/parameters/1187,gandz,goose
+195-607,east2295,http://concepticon.clld.org/parameters/1360,kačke,duck
+195-761,east2295,http://concepticon.clld.org/parameters/539,nest,nest
+195-1451,east2295,http://concepticon.clld.org/parameters/937,fojgl,bird
+195-1204,east2295,http://concepticon.clld.org/parameters/950,meve,seagull
+195-25,east2295,http://concepticon.clld.org/parameters/758,caplʸe,heron
+195-978,east2295,http://concepticon.clld.org/parameters/1905,odler,eagle
+195-895,east2295,http://concepticon.clld.org/parameters/307,falk,hawk
+195-1202,east2295,http://concepticon.clld.org/parameters/1185,grif,vulture
+195-719,east2295,http://concepticon.clld.org/parameters/1793,'fledermojz,bat
+195-1498,east2295,http://concepticon.clld.org/parameters/882,papu'gaj,parrot
+195-1641,east2295,http://concepticon.clld.org/parameters/913,kro,crow
+195-691,east2295,http://concepticon.clld.org/parameters/913,vorone,crow
+195-1500,east2295,http://concepticon.clld.org/parameters/1853,tojb,dove
+195-110,east2295,http://concepticon.clld.org/parameters/735,sove,owl
+195-335,east2295,http://concepticon.clld.org/parameters/2009,hunt,dog
+195-420,east2295,http://concepticon.clld.org/parameters/1136,kinigl,rabbit
+195-83,east2295,http://concepticon.clld.org/parameters/1136,krolikl,rabbit
+195-1080,east2295,http://concepticon.clld.org/parameters/1208,kac,cat
+195-1149,east2295,http://concepticon.clld.org/parameters/309,o'pos,opossum
+195-147,east2295,http://concepticon.clld.org/parameters/2139,mojz,"mouse, rat"
+195-276,east2295,http://concepticon.clld.org/parameters/2139,ščur,"mouse, rat"
+195-981,east2295,http://concepticon.clld.org/parameters/227,fiš,fish
+195-45,east2295,http://concepticon.clld.org/parameters/213,'flusfeder,fin (dorsal)
+195-115,east2295,http://concepticon.clld.org/parameters/266,šup,fishscale
+195-7,east2295,http://concepticon.clld.org/parameters/1916,žabre,gill
+195-565,east2295,http://concepticon.clld.org/parameters/598,'mejer-kepl,shell
+195-436,east2295,http://concepticon.clld.org/parameters/598,'jam-multerl,shell
+195-1557,east2295,http://concepticon.clld.org/parameters/598,'žabe-šisele,shell
+195-375,east2295,http://concepticon.clld.org/parameters/1110,hajfiš,shark
+195-1410,east2295,http://concepticon.clld.org/parameters/1479,'jam-xazer,"porpoise, dolphin"
+195-1466,east2295,http://concepticon.clld.org/parameters/1479,delʸ'fin,"porpoise, dolphin"
+195-74,east2295,http://concepticon.clld.org/parameters/957,valfiš,whale
+195-181,east2295,http://concepticon.clld.org/parameters/1910,'fišštexler,stingray
+195-1267,east2295,http://concepticon.clld.org/parameters/1013,'zisvaser-venger,freshwater eel
+195-1340,east2295,http://concepticon.clld.org/parameters/522,volf,wolf
+195-824,east2295,http://concepticon.clld.org/parameters/1386,lejb,lion
+195-1461,east2295,http://concepticon.clld.org/parameters/1820,ber,bear
+195-1468,east2295,http://concepticon.clld.org/parameters/1312,fuks,fox
+195-1302,east2295,http://concepticon.clld.org/parameters/1936,hirš,deer
+195-138,east2295,http://concepticon.clld.org/parameters/1350,malpe,monkey
+195-1639,east2295,http://concepticon.clld.org/parameters/1290,helfand,elephant
+195-1162,east2295,http://concepticon.clld.org/parameters/1290,helfant,elephant
+195-488,east2295,http://concepticon.clld.org/parameters/1871,keml,camel
+195-397,east2295,http://concepticon.clld.org/parameters/620,in'sekt,insect
+195-788,east2295,http://concepticon.clld.org/parameters/310,lojz,louse
+195-573,east2295,http://concepticon.clld.org/parameters/267,nisl,nit (louse egg)
+195-202,east2295,http://concepticon.clld.org/parameters/232,floj,flea
+195-1232,east2295,http://concepticon.clld.org/parameters/1974,'sax-fisler,centipede
+195-1109,east2295,http://concepticon.clld.org/parameters/1538,egdiš,scorpion
+195-1390,east2295,http://concepticon.clld.org/parameters/1538,skorp'jon,scorpion
+195-402,east2295,http://concepticon.clld.org/parameters/1575,tara'kan,cockroach
+195-1565,east2295,http://concepticon.clld.org/parameters/587,muraške,ant
+195-1543,east2295,http://concepticon.clld.org/parameters/587,'mereške,ant
+195-903,east2295,http://concepticon.clld.org/parameters/843,špin,spider
+195-1094,east2295,http://concepticon.clld.org/parameters/1065,špinvebs,spider web
+195-1074,east2295,http://concepticon.clld.org/parameters/1065,povitiɲe,spider web
+195-1214,east2295,http://concepticon.clld.org/parameters/665,bin,bee
+195-285,east2295,http://concepticon.clld.org/parameters/1931,'binenvaks,beeswax
+195-1611,east2295,http://concepticon.clld.org/parameters/88,binštok,beehive
+195-743,east2295,http://concepticon.clld.org/parameters/1517,vesp,wasp
+195-1667,east2295,http://concepticon.clld.org/parameters/1504,flig,fly
+195-249,east2295,http://concepticon.clld.org/parameters/95,muk,"sandfly (midge), gnat"
+195-919,east2295,http://concepticon.clld.org/parameters/1509,ko'mar,mosquito
+195-497,east2295,http://concepticon.clld.org/parameters/1219,vorem,worm
+195-1578,east2295,http://concepticon.clld.org/parameters/730,šlang,snake
+195-1562,east2295,http://concepticon.clld.org/parameters/206,'glivorem,firefly
+195-54,east2295,http://concepticon.clld.org/parameters/1791,flaterl,butterfly
+195-693,east2295,http://concepticon.clld.org/parameters/1791,'zumer-fejgele,butterfly
+195-56,east2295,http://concepticon.clld.org/parameters/607,špringer,grasshopper
+195-325,east2295,http://concepticon.clld.org/parameters/1543,šnek,snail
+195-271,east2295,http://concepticon.clld.org/parameters/1543,pojle-rojle,snail
+195-1633,east2295,http://concepticon.clld.org/parameters/503,žabe,frog
+195-1115,east2295,http://concepticon.clld.org/parameters/503,froš,frog
+195-292,east2295,http://concepticon.clld.org/parameters/632,'jaščerke,lizard
+195-1211,east2295,http://concepticon.clld.org/parameters/1857,kroko'dil,"crocodile, alligator"
+195-1031,east2295,http://concepticon.clld.org/parameters/1857,aligator,"crocodile, alligator"
+195-904,east2295,http://concepticon.clld.org/parameters/112,čerepaxe,turtle
+195-453,east2295,http://concepticon.clld.org/parameters/1480,guf,body
+195-1210,east2295,http://concepticon.clld.org/parameters/1480,kerper,body
+195-811,east2295,http://concepticon.clld.org/parameters/763,hojt,"skin, hide"
+195-1013,east2295,http://concepticon.clld.org/parameters/2259,flejš,flesh
+195-80,east2295,http://concepticon.clld.org/parameters/1040,hor,hair (head)
+195-343,east2295,http://concepticon.clld.org/parameters/678,bord,beard
+195-80,east2295,http://concepticon.clld.org/parameters/189,hor,body hair
+195-975,east2295,http://concepticon.clld.org/parameters/36,'erve-hor,pubic hair
+195-1624,east2295,http://concepticon.clld.org/parameters/576,šupn,dandruff
+195-27,east2295,http://concepticon.clld.org/parameters/946,blut,blood
+195-725,east2295,http://concepticon.clld.org/parameters/525,oder,"vein, artery"
+195-1546,east2295,http://concepticon.clld.org/parameters/525,vene,"vein, artery"
+195-1060,east2295,http://concepticon.clld.org/parameters/525,arterje,"vein, artery"
+195-911,east2295,http://concepticon.clld.org/parameters/1394,bejn,bone
+195-1184,east2295,http://concepticon.clld.org/parameters/801,rip,rib
+195-18,east2295,http://concepticon.clld.org/parameters/1393,horn,horn
+195-580,east2295,http://concepticon.clld.org/parameters/1220,ek,tail
+195-598,east2295,http://concepticon.clld.org/parameters/1220,vejdl,tail
+195-1158,east2295,http://concepticon.clld.org/parameters/1220,švanc,tail
+195-1327,east2295,http://concepticon.clld.org/parameters/1291,rukn,back
+195-1067,east2295,http://concepticon.clld.org/parameters/1291,plejce,back
+195-945,east2295,http://concepticon.clld.org/parameters/805,ruknbejn,spine
+195-1045,east2295,http://concepticon.clld.org/parameters/1256,kop,head
+195-846,east2295,http://concepticon.clld.org/parameters/1604,šlejf,"side of head, temple"
+195-864,east2295,http://concepticon.clld.org/parameters/1605,šarbn,skull
+195-1058,east2295,http://concepticon.clld.org/parameters/1583,mojex,brain
+195-1078,east2295,http://concepticon.clld.org/parameters/1560,ponem,face
+195-1469,east2295,http://concepticon.clld.org/parameters/123,štern,forehead
+195-524,east2295,http://concepticon.clld.org/parameters/798,kajer,jaw
+195-1403,east2295,http://concepticon.clld.org/parameters/798,bordbejn,jaw
+195-237,east2295,http://concepticon.clld.org/parameters/1730,bak,cheek
+195-343,east2295,http://concepticon.clld.org/parameters/1510,bord,chin
+195-731,east2295,http://concepticon.clld.org/parameters/1510,gombe,chin
+195-1217,east2295,http://concepticon.clld.org/parameters/1510,morde,chin
+195-1102,east2295,http://concepticon.clld.org/parameters/1248,ojg,eye
+195-1485,east2295,http://concepticon.clld.org/parameters/1173,brem,eyebrow
+195-1521,east2295,http://concepticon.clld.org/parameters/17,oygn-lepl,eyelid
+195-572,east2295,http://concepticon.clld.org/parameters/17,oygn-ledl,eyelid
+195-631,east2295,http://concepticon.clld.org/parameters/1540,vije,eyelash
+195-1079,east2295,http://concepticon.clld.org/parameters/1655,pintlen,blink
+195-9,east2295,http://concepticon.clld.org/parameters/1247,ojer,ear
+195-280,east2295,http://concepticon.clld.org/parameters/18,lepl,earlobe
+195-959,east2295,http://concepticon.clld.org/parameters/32,'ojern-vaks,earwax
+195-569,east2295,http://concepticon.clld.org/parameters/1221,noz,nose
+195-174,east2295,http://concepticon.clld.org/parameters/1178,nozlox,nostril
+195-1126,east2295,http://concepticon.clld.org/parameters/208,šlajm,mucus (nasal)
+195-152,east2295,http://concepticon.clld.org/parameters/674,mojl,mouth
+195-1141,east2295,http://concepticon.clld.org/parameters/73,šnobl,beak
+195-1075,east2295,http://concepticon.clld.org/parameters/478,lip,lip
+195-279,east2295,http://concepticon.clld.org/parameters/1205,cung,tongue
+195-264,east2295,http://concepticon.clld.org/parameters/1380,con,tooth
+195-1114,east2295,http://concepticon.clld.org/parameters/139,jasles,gums
+195-1308,east2295,http://concepticon.clld.org/parameters/1049,bakcon,molartooth
+195-1618,east2295,http://concepticon.clld.org/parameters/1333,nakn,neck
+195-1066,east2295,http://concepticon.clld.org/parameters/1333,kark,neck
+195-1164,east2295,http://concepticon.clld.org/parameters/1347,pa'tilʸnice,nape of neck
+195-1169,east2295,http://concepticon.clld.org/parameters/1346,haldz,throat
+195-481,east2295,http://concepticon.clld.org/parameters/1346,gorgl,throat
+195-1093,east2295,http://concepticon.clld.org/parameters/1482,aksl,shoulder
+195-657,east2295,http://concepticon.clld.org/parameters/172,'lopetke,shoulderblade
+195-1106,east2295,http://concepticon.clld.org/parameters/1994,šlislbejn,collarbone
+195-360,east2295,http://concepticon.clld.org/parameters/1673,orem,arm
+195-308,east2295,http://concepticon.clld.org/parameters/1673,hant,arm
+195-1317,east2295,http://concepticon.clld.org/parameters/1886,paxve,armpit
+195-589,east2295,http://concepticon.clld.org/parameters/981,elnbojgn,elbow
+195-513,east2295,http://concepticon.clld.org/parameters/799,'hantgelenk,wrist
+195-308,east2295,http://concepticon.clld.org/parameters/1277,hant,hand
+195-344,east2295,http://concepticon.clld.org/parameters/1183,dloɲe,palm of hand
+195-248,east2295,http://concepticon.clld.org/parameters/1303,finger,finger
+195-1124,east2295,http://concepticon.clld.org/parameters/1781,grober finger,thumb
+195-26,east2295,http://concepticon.clld.org/parameters/1258,nogl,fingernail
+195-1068,east2295,http://concepticon.clld.org/parameters/72,krel,claw
+195-1174,east2295,http://concepticon.clld.org/parameters/1297,fus,leg
+195-840,east2295,http://concepticon.clld.org/parameters/800,polʸke,thigh
+195-1391,east2295,http://concepticon.clld.org/parameters/498,litke,calf of leg
+195-1197,east2295,http://concepticon.clld.org/parameters/1371,kni,knee
+195-1174,east2295,http://concepticon.clld.org/parameters/1301,fus,foot
+195-1040,east2295,http://concepticon.clld.org/parameters/803,knexl,ankle
+195-1014,east2295,http://concepticon.clld.org/parameters/980,pjate,heel
+195-1558,east2295,http://concepticon.clld.org/parameters/318,špur,footprint
+195-1190,east2295,http://concepticon.clld.org/parameters/318,fusdruk,footprint
+195-575,east2295,http://concepticon.clld.org/parameters/1389,finger (fun fus),toe
+195-1374,east2295,http://concepticon.clld.org/parameters/1257,fligl,wing
+195-1625,east2295,http://concepticon.clld.org/parameters/1201,feder,feather
+195-1475,east2295,http://concepticon.clld.org/parameters/1592,brust (kastn),chest
+195-1645,east2295,http://concepticon.clld.org/parameters/1402,brust,breast (of woman)
+195-419,east2295,http://concepticon.clld.org/parameters/796,(n) opl,"nipple, teat"
+195-801,east2295,http://concepticon.clld.org/parameters/154,ajter,udder
+195-1136,east2295,http://concepticon.clld.org/parameters/1838,nopl,navel
+195-1687,east2295,http://concepticon.clld.org/parameters/1838,pupik,navel
+195-1003,east2295,http://concepticon.clld.org/parameters/1223,harc,heart
+195-1415,east2295,http://concepticon.clld.org/parameters/688,lung,lung
+195-1502,east2295,http://concepticon.clld.org/parameters/1224,leber,liver
+195-305,east2295,http://concepticon.clld.org/parameters/489,nir,kidney
+195-435,east2295,http://concepticon.clld.org/parameters/1744,milc,spleen
+195-29,east2295,http://concepticon.clld.org/parameters/819,mogn,stomach
+195-522,east2295,http://concepticon.clld.org/parameters/1991,gederem,"intestines, guts"
+195-1397,east2295,http://concepticon.clld.org/parameters/1991,kiškes,"intestines, guts"
+195-1590,east2295,http://concepticon.clld.org/parameters/1681,talʸe,waist
+195-1506,east2295,http://concepticon.clld.org/parameters/1745,hift,hip
+195-1285,east2295,http://concepticon.clld.org/parameters/1745,lend,hip
+195-1132,east2295,http://concepticon.clld.org/parameters/1745,klub,hip
+195-1513,east2295,http://concepticon.clld.org/parameters/834,ge'zes,buttocks
+195-1051,east2295,http://concepticon.clld.org/parameters/834,grob(e) flejš,buttocks
+195-1088,east2295,http://concepticon.clld.org/parameters/834,toxes,buttocks
+195-1684,east2295,http://concepticon.clld.org/parameters/804,traxt,womb
+195-1244,east2295,http://concepticon.clld.org/parameters/797,bejc(e),testicle
+195-581,east2295,http://concepticon.clld.org/parameters/797,ej,testicle
+195-1357,east2295,http://concepticon.clld.org/parameters/1222,penis,penis
+195-707,east2295,http://concepticon.clld.org/parameters/1222,'menlexer ejver,penis
+195-961,east2295,http://concepticon.clld.org/parameters/1407,'otemen,"breathe, breath"
+195-372,east2295,http://concepticon.clld.org/parameters/1407,otem,"breathe, breath"
+195-1389,east2295,http://concepticon.clld.org/parameters/1028,'genecn,"yawn, gape"
+195-599,east2295,http://concepticon.clld.org/parameters/1028,gafn,"yawn, gape"
+195-1560,east2295,http://concepticon.clld.org/parameters/1028,glocn,"yawn, gape"
+195-1553,east2295,http://concepticon.clld.org/parameters/162,'šluk(er)cn,hiccough
+195-299,east2295,http://concepticon.clld.org/parameters/879,hus(t)n,cough
+195-1507,east2295,http://concepticon.clld.org/parameters/1621,nisn,sneeze
+195-1274,east2295,http://concepticon.clld.org/parameters/126,švicn,perspire
+195-176,east2295,http://concepticon.clld.org/parameters/1440,špajen,spit
+195-1254,east2295,http://concepticon.clld.org/parameters/1278,brexn,vomit
+195-1156,east2295,http://concepticon.clld.org/parameters/1278,'mejkenen,vomit
+195-943,east2295,http://concepticon.clld.org/parameters/1403,bajsn,bite
+195-670,east2295,http://concepticon.clld.org/parameters/319,lekn,lick
+195-638,east2295,http://concepticon.clld.org/parameters/268,gavern,dribble
+195-633,east2295,http://concepticon.clld.org/parameters/1585,šlofn,sleep
+195-427,east2295,http://concepticon.clld.org/parameters/1983,xropen,snore
+195-160,east2295,http://concepticon.clld.org/parameters/1920,'xolemen (zix),dream
+195-989,east2295,http://concepticon.clld.org/parameters/1602,ufxapn zix,wake up
+195-1572,east2295,http://concepticon.clld.org/parameters/1602,ufvekn zix,wake up
+195-78,east2295,http://concepticon.clld.org/parameters/1159,farcn,break wind
+195-129,east2295,http://concepticon.clld.org/parameters/592,uri'nirn,urinate
+195-963,east2295,http://concepticon.clld.org/parameters/592,maštn zajn,urinate
+195-1092,east2295,http://concepticon.clld.org/parameters/676,ojsmaxn zix,defecate
+195-1205,east2295,http://concepticon.clld.org/parameters/676,hobn dem mogn,defecate
+195-603,east2295,http://concepticon.clld.org/parameters/1785,šlofn (mit),have sexual intercourse
+195-1282,east2295,http://concepticon.clld.org/parameters/1785,hobn tašmeš-hamite,have sexual intercourse
+195-1568,east2295,http://concepticon.clld.org/parameters/52,citern,shiver
+195-333,east2295,http://concepticon.clld.org/parameters/138,bodn (zix),bathe
+195-123,east2295,http://concepticon.clld.org/parameters/1152,gebojrn,beget (of father)
+195-1598,east2295,http://concepticon.clld.org/parameters/1090,gebojrn vern,born (to be)
+195-737,east2295,http://concepticon.clld.org/parameters/1123,trogedik,pregnant
+195-1133,east2295,http://concepticon.clld.org/parameters/1087,far'gejn in trogn,conceive
+195-1537,east2295,http://concepticon.clld.org/parameters/1422,lebn,"live, living, life"
+195-1665,east2295,http://concepticon.clld.org/parameters/1422,'lebedik,"live, living, life"
+195-1537,east2295,http://concepticon.clld.org/parameters/1422,lebn,"live, living, life"
+195-338,east2295,http://concepticon.clld.org/parameters/1494,štarbn,"die, dead"
+195-1496,east2295,http://concepticon.clld.org/parameters/1494,tojt,"die, dead"
+195-1526,east2295,http://concepticon.clld.org/parameters/1904,dertrunken,drowned
+195-438,east2295,http://concepticon.clld.org/parameters/1904,dertronken,drowned
+195-21,east2295,http://concepticon.clld.org/parameters/1417,(der)'hargenen,kill
+195-37,east2295,http://concepticon.clld.org/parameters/767,mes,corpse
+195-498,east2295,http://concepticon.clld.org/parameters/767,'barmenen,corpse
+195-1399,east2295,http://concepticon.clld.org/parameters/1719,bagrobn,bury (the dead)
+195-134,east2295,http://concepticon.clld.org/parameters/1719,mekaber zajn,bury (the dead)
+195-79,east2295,http://concepticon.clld.org/parameters/1719,brengen cu kvure,bury (the dead)
+195-1241,east2295,http://concepticon.clld.org/parameters/1773,kejver,"grave, tomb"
+195-300,east2295,http://concepticon.clld.org/parameters/785,štark,"strong, mighty, powerful"
+195-1632,east2295,http://concepticon.clld.org/parameters/785,mextik,"strong, mighty, powerful"
+195-848,east2295,http://concepticon.clld.org/parameters/785,maxtik,"strong, mighty, powerful"
+195-85,east2295,http://concepticon.clld.org/parameters/1601,švax,weak
+195-35,east2295,http://concepticon.clld.org/parameters/1364,ge'zunt,"well, health"
+195-740,east2295,http://concepticon.clld.org/parameters/1847,krank,"sick, sickness"
+195-1155,east2295,http://concepticon.clld.org/parameters/1847,krenk,"sick, sickness"
+195-1119,east2295,http://concepticon.clld.org/parameters/1534,hic,fever
+195-1022,east2295,http://concepticon.clld.org/parameters/1534,fiber,fever
+195-317,east2295,http://concepticon.clld.org/parameters/1957,volʸe,goiter
+195-760,east2295,http://concepticon.clld.org/parameters/102,farkilung,cold (catarrh)
+195-49,east2295,http://concepticon.clld.org/parameters/102,kater,cold (catarrh)
+195-1291,east2295,http://concepticon.clld.org/parameters/1109,vund,"wound, sore"
+195-1486,east2295,http://concepticon.clld.org/parameters/1148,nerek,bruise
+195-1384,east2295,http://concepticon.clld.org/parameters/1148,klap,bruise
+195-447,east2295,http://concepticon.clld.org/parameters/1903,gešvilexc,swelling
+195-622,east2295,http://concepticon.clld.org/parameters/1903,bajl,swelling
+195-1474,east2295,http://concepticon.clld.org/parameters/148,'bajseniš,itch
+195-1650,east2295,http://concepticon.clld.org/parameters/1584,bloter,blister
+195-157,east2295,http://concepticon.clld.org/parameters/793,geš'vir,boil (noun)
+195-1424,east2295,http://concepticon.clld.org/parameters/1808,ejter,pus
+195-400,east2295,http://concepticon.clld.org/parameters/497,šram,scar
+195-1559,east2295,http://concepticon.clld.org/parameters/497,šnar,scar
+195-48,east2295,http://concepticon.clld.org/parameters/499,hejln,"cure, heal"
+195-1576,east2295,http://concepticon.clld.org/parameters/597,dokter,physician
+195-602,east2295,http://concepticon.clld.org/parameters/1372,refue,"medicine, drug"
+195-634,east2295,http://concepticon.clld.org/parameters/655,sam,poison
+195-1476,east2295,http://concepticon.clld.org/parameters/1757,mid,"tired, weary"
+195-269,east2295,http://concepticon.clld.org/parameters/1757,farmatert,"tired, weary"
+195-1672,east2295,http://concepticon.clld.org/parameters/1757,'ojsgematert,"tired, weary"
+195-769,east2295,http://concepticon.clld.org/parameters/168,('op)ruen (zix),rest
+195-1551,east2295,http://concepticon.clld.org/parameters/1564,fojl,lazy
+195-909,east2295,http://concepticon.clld.org/parameters/1125,lise,bald
+195-835,east2295,http://concepticon.clld.org/parameters/320,lom,lame
+195-619,east2295,http://concepticon.clld.org/parameters/320,'hinkedik,lame
+195-1500,east2295,http://concepticon.clld.org/parameters/996,tojb,deaf
+195-1355,east2295,http://concepticon.clld.org/parameters/1666,štum,mute
+195-604,east2295,http://concepticon.clld.org/parameters/1653,blind,blind
+195-849,east2295,http://concepticon.clld.org/parameters/1463,šiker,intoxicated
+195-685,east2295,http://concepticon.clld.org/parameters/590,naket,"naked, bare"
+195-1682,east2295,http://concepticon.clld.org/parameters/590,hojl,"naked, bare"
+195-1631,east2295,http://concepticon.clld.org/parameters/1336,esn,eat
+195-1110,east2295,http://concepticon.clld.org/parameters/256,esn(varg),food
+195-186,east2295,http://concepticon.clld.org/parameters/269,ge'koxt,cooked
+195-881,east2295,http://concepticon.clld.org/parameters/1959,roj,raw
+195-401,east2295,http://concepticon.clld.org/parameters/178,cajtik,ripe
+195-796,east2295,http://concepticon.clld.org/parameters/1958,grin,"green, unripe"
+195-11,east2295,http://concepticon.clld.org/parameters/1958,'umcajtik,"green, unripe"
+195-1278,east2295,http://concepticon.clld.org/parameters/1728,far'fojlt,rotten
+195-923,east2295,http://concepticon.clld.org/parameters/1401,trinken,drink
+195-210,east2295,http://concepticon.clld.org/parameters/1533,hunger,hunger
+195-210,east2295,http://concepticon.clld.org/parameters/199,hunger,famine
+195-773,east2295,http://concepticon.clld.org/parameters/848,doršt,thirst
+195-742,east2295,http://concepticon.clld.org/parameters/1421,zojgn,suck
+195-526,east2295,http://concepticon.clld.org/parameters/321,kajen,chew
+195-149,east2295,http://concepticon.clld.org/parameters/897,šlingen,swallow
+195-1523,east2295,http://concepticon.clld.org/parameters/129,vargn zix,choke
+195-34,east2295,http://concepticon.clld.org/parameters/129,štikn zix,choke
+195-301,east2295,http://concepticon.clld.org/parameters/129,krekn zix,choke
+195-579,east2295,http://concepticon.clld.org/parameters/1100,koxn,cook
+195-579,east2295,http://concepticon.clld.org/parameters/792,koxn,boil (vb)
+195-61,east2295,http://concepticon.clld.org/parameters/2146,brotn,"roast, fry"
+195-1043,east2295,http://concepticon.clld.org/parameters/2146,preglen,"roast, fry"
+195-468,east2295,http://concepticon.clld.org/parameters/183,bakn,bake
+195-126,east2295,http://concepticon.clld.org/parameters/1143,ojvn,oven
+195-155,east2295,http://concepticon.clld.org/parameters/1462,top,"pot, cooking vessel"
+195-671,east2295,http://concepticon.clld.org/parameters/854,kesl,kettle
+195-898,east2295,http://concepticon.clld.org/parameters/31,fan,pan
+195-230,east2295,http://concepticon.clld.org/parameters/31,s'kovrede,pan
+195-877,east2295,http://concepticon.clld.org/parameters/481,teler,dish
+195-415,east2295,http://concepticon.clld.org/parameters/481,majxl,dish
+195-1626,east2295,http://concepticon.clld.org/parameters/481,ge'rixt,dish
+195-877,east2295,http://concepticon.clld.org/parameters/480,teler,plate
+195-1690,east2295,http://concepticon.clld.org/parameters/1530,šisl,bowl
+195-865,east2295,http://concepticon.clld.org/parameters/270,krug,"pitcher, jug"
+195-291,east2295,http://concepticon.clld.org/parameters/270,krigl,"pitcher, jug"
+195-196,east2295,http://concepticon.clld.org/parameters/476,gloz,"cup, drinking vessel"
+195-1430,east2295,http://concepticon.clld.org/parameters/476,glezl,"cup, drinking vessel"
+195-823,east2295,http://concepticon.clld.org/parameters/476,tepl,"cup, drinking vessel"
+195-201,east2295,http://concepticon.clld.org/parameters/271,tecl,saucer
+195-309,east2295,http://concepticon.clld.org/parameters/1378,lefl,spoon
+195-908,east2295,http://concepticon.clld.org/parameters/1352,meser,knife (2)
+195-1085,east2295,http://concepticon.clld.org/parameters/1302,gopl,fork (2)
+195-410,east2295,http://concepticon.clld.org/parameters/272,cvang,tongs
+195-666,east2295,http://concepticon.clld.org/parameters/1526,molcajt,meal (a)
+195-1002,east2295,http://concepticon.clld.org/parameters/1322,'iberbajsn,breakfast
+195-68,east2295,http://concepticon.clld.org/parameters/1322,frištik,breakfast
+195-733,east2295,http://concepticon.clld.org/parameters/768,onbajsn,lunch
+195-1483,east2295,http://concepticon.clld.org/parameters/1833,mitog,dinner
+195-1581,east2295,http://concepticon.clld.org/parameters/1833,varmes,dinner
+195-170,east2295,http://concepticon.clld.org/parameters/1833,večere,supper
+195-514,east2295,http://concepticon.clld.org/parameters/275,šejln,peel
+195-1619,east2295,http://concepticon.clld.org/parameters/86,zajen,"sieve, strain"
+195-406,east2295,http://concepticon.clld.org/parameters/1767,šobn,scrape
+195-289,east2295,http://concepticon.clld.org/parameters/1767,rajbn,scrape
+195-1322,east2295,http://concepticon.clld.org/parameters/2017,mišn,"stir, mix"
+195-988,east2295,http://concepticon.clld.org/parameters/1368,brojt,bread
+195-1069,east2295,http://concepticon.clld.org/parameters/273,tejg,dough
+195-775,east2295,http://concepticon.clld.org/parameters/274,knetn,knead
+195-33,east2295,http://concepticon.clld.org/parameters/1594,mel,"meal, flour"
+195-446,east2295,http://concepticon.clld.org/parameters/1033,(ce)š'tojsn,"crush, grind"
+195-997,east2295,http://concepticon.clld.org/parameters/1033,(ce)'rajbn,"crush, grind"
+195-1465,east2295,http://concepticon.clld.org/parameters/1033,(ce)'moln,"crush, grind"
+195-1472,east2295,http://concepticon.clld.org/parameters/636,mil,mill
+195-200,east2295,http://concepticon.clld.org/parameters/224,štejsl,mortar (2)
+195-281,east2295,http://concepticon.clld.org/parameters/225,'ejberšte fun štejsl,pestle
+195-1013,east2295,http://concepticon.clld.org/parameters/634,flejš,meat
+195-595,east2295,http://concepticon.clld.org/parameters/1874,vuršt,sausage
+195-361,east2295,http://concepticon.clld.org/parameters/1547,zup,"soup, broth"
+195-1630,east2295,http://concepticon.clld.org/parameters/1547,jojx,"soup, broth"
+195-222,east2295,http://concepticon.clld.org/parameters/924,grinsn,vegetables
+195-225,east2295,http://concepticon.clld.org/parameters/924,grinvarg,vegetables
+195-854,east2295,http://concepticon.clld.org/parameters/924,gortnvarg,vegetables
+195-492,east2295,http://concepticon.clld.org/parameters/832,bob,bean
+195-171,east2295,http://concepticon.clld.org/parameters/832,bebl,bean
+195-1411,east2295,http://concepticon.clld.org/parameters/832,fasolʸe,bean
+195-548,east2295,http://concepticon.clld.org/parameters/593,kar'tofl,potato
+195-217,east2295,http://concepticon.clld.org/parameters/593,bulʸbe,potato
+195-385,east2295,http://concepticon.clld.org/parameters/1507,ojps,fruit
+195-642,east2295,http://concepticon.clld.org/parameters/1507,fruxt,fruit
+195-194,east2295,http://concepticon.clld.org/parameters/1966,hengl,bunch
+195-650,east2295,http://concepticon.clld.org/parameters/322,fajg,fig
+195-251,east2295,http://concepticon.clld.org/parameters/920,vajntrojb,grape
+195-1448,east2295,http://concepticon.clld.org/parameters/191,nus,nut
+195-148,east2295,http://concepticon.clld.org/parameters/1154,ejlbirt,olive
+195-917,east2295,http://concepticon.clld.org/parameters/1154,masline,olive
+195-586,east2295,http://concepticon.clld.org/parameters/1484,ejl,oil
+195-404,east2295,http://concepticon.clld.org/parameters/1484,bojml,oil
+195-1378,east2295,http://concepticon.clld.org/parameters/323,fets,"grease, fat"
+195-153,east2295,http://concepticon.clld.org/parameters/1274,zalc,salt
+195-1597,east2295,http://concepticon.clld.org/parameters/1385,fefer,pepper
+195-1605,east2295,http://concepticon.clld.org/parameters/919,feferl,chili pepper
+195-584,east2295,http://concepticon.clld.org/parameters/942,honik,honey
+195-328,east2295,http://concepticon.clld.org/parameters/862,cuker,sugar
+195-433,east2295,http://concepticon.clld.org/parameters/635,milx,milk (noun)
+195-948,east2295,http://concepticon.clld.org/parameters/93,melkn,milk (vb)
+195-1531,east2295,http://concepticon.clld.org/parameters/1569,kez,cheese
+195-259,east2295,http://concepticon.clld.org/parameters/1245,puter,butter
+195-1220,east2295,http://concepticon.clld.org/parameters/731,ge'trank,"beverage, drink"
+195-30,east2295,http://concepticon.clld.org/parameters/941,med,mead
+195-675,east2295,http://concepticon.clld.org/parameters/1524,vajn,wine
+195-1221,east2295,http://concepticon.clld.org/parameters/1639,bir,beer
+195-141,east2295,http://concepticon.clld.org/parameters/404,maške,fermented drink
+195-581,east2295,http://concepticon.clld.org/parameters/744,ej,egg
+195-888,east2295,http://concepticon.clld.org/parameters/1556,gelxl,egg yolk
+195-1230,east2295,http://concepticon.clld.org/parameters/158,onton,put on (clothes)
+195-494,east2295,http://concepticon.clld.org/parameters/1895,klejder,"clothing, clothes"
+195-189,east2295,http://concepticon.clld.org/parameters/1895,malbušim,"clothing, clothes"
+195-1678,east2295,http://concepticon.clld.org/parameters/1895,bgodim,"clothing, clothes"
+195-753,east2295,http://concepticon.clld.org/parameters/881,šnajder,tailor
+195-1072,east2295,http://concepticon.clld.org/parameters/1616,sxojre,cloth
+195-1524,east2295,http://concepticon.clld.org/parameters/1616,cajg,cloth
+195-644,east2295,http://concepticon.clld.org/parameters/1616,štof,cloth
+195-1181,east2295,http://concepticon.clld.org/parameters/964,vol,wool
+195-1179,east2295,http://concepticon.clld.org/parameters/916,lajvnt,"linen, flax"
+195-1642,east2295,http://concepticon.clld.org/parameters/916,flaks,"linen, flax"
+195-632,east2295,http://concepticon.clld.org/parameters/1850,bavl,cotton
+195-924,east2295,http://concepticon.clld.org/parameters/1641,zajd,silk
+195-102,east2295,http://concepticon.clld.org/parameters/325,pojšt,felt
+195-858,east2295,http://concepticon.clld.org/parameters/325,filc,felt
+195-459,east2295,http://concepticon.clld.org/parameters/580,pelc,fur
+195-393,east2295,http://concepticon.clld.org/parameters/580,futer,fur
+195-294,east2295,http://concepticon.clld.org/parameters/580,rojxvarg,fur
+195-1441,east2295,http://concepticon.clld.org/parameters/629,leder,leather
+195-12,east2295,http://concepticon.clld.org/parameters/121,špinen,spin
+195-1583,east2295,http://concepticon.clld.org/parameters/277,špindl,spindle
+195-1101,east2295,http://concepticon.clld.org/parameters/133,vebn,weave
+195-491,east2295,http://concepticon.clld.org/parameters/1787,vebštul,loom
+195-57,east2295,http://concepticon.clld.org/parameters/1457,nejen,sew
+195-417,east2295,http://concepticon.clld.org/parameters/1382,nodl,needle
+195-252,east2295,http://concepticon.clld.org/parameters/278,(n)ol,awl
+195-1452,east2295,http://concepticon.clld.org/parameters/1161,fodem,thread
+195-1385,east2295,http://concepticon.clld.org/parameters/157,farb,dye
+195-1634,east2295,http://concepticon.clld.org/parameters/326,mantl,cloak
+195-1123,east2295,http://concepticon.clld.org/parameters/326,cudek,cloak
+195-1350,east2295,http://concepticon.clld.org/parameters/327,pončo,poncho
+195-62,east2295,http://concepticon.clld.org/parameters/474,(vajberš) klejd,woman's dress
+195-1634,east2295,http://concepticon.clld.org/parameters/603,mantl,coat
+195-894,east2295,http://concepticon.clld.org/parameters/1622,hemd,shirt
+195-781,east2295,http://concepticon.clld.org/parameters/2012,kolner,collar
+195-1338,east2295,http://concepticon.clld.org/parameters/1600,(halb) klejdl,skirt
+195-50,east2295,http://concepticon.clld.org/parameters/1600,rekl,skirt
+195-660,east2295,http://concepticon.clld.org/parameters/328,grozn klejdl,grass-skirt
+195-403,east2295,http://concepticon.clld.org/parameters/809,hojzn,trousers
+195-639,east2295,http://concepticon.clld.org/parameters/329,zok,"stocking, sock"
+195-113,east2295,http://concepticon.clld.org/parameters/1381,šux,shoe
+195-1009,east2295,http://concepticon.clld.org/parameters/585,štivl,boot
+195-238,east2295,http://concepticon.clld.org/parameters/875,šuster,"shoemaker, cobbler"
+195-1542,east2295,http://concepticon.clld.org/parameters/2130,hitl,"hat, cap"
+195-620,east2295,http://concepticon.clld.org/parameters/2130,hut,"hat, cap"
+195-825,east2295,http://concepticon.clld.org/parameters/2130,'kapeluš,"hat, cap"
+195-1538,east2295,http://concepticon.clld.org/parameters/2130,'kapelič,"hat, cap"
+195-1596,east2295,http://concepticon.clld.org/parameters/772,pas(ik),"belt, girdle"
+195-922,east2295,http://concepticon.clld.org/parameters/772,gartl,"belt, girdle"
+195-391,east2295,http://concepticon.clld.org/parameters/772,gor'sedl,"belt, girdle"
+195-364,east2295,http://concepticon.clld.org/parameters/867,henčke,glove
+195-183,east2295,http://concepticon.clld.org/parameters/1151,šlejer,veil
+195-558,east2295,http://concepticon.clld.org/parameters/1851,'kešene,pocket
+195-1231,east2295,http://concepticon.clld.org/parameters/1851,taš,pocket
+195-273,east2295,http://concepticon.clld.org/parameters/757,knepl,button
+195-1332,east2295,http://concepticon.clld.org/parameters/64,špilʸke,pin
+195-1272,east2295,http://concepticon.clld.org/parameters/917,cir,"ornament, adornment"
+195-458,east2295,http://concepticon.clld.org/parameters/1029,cirung,jewel
+195-28,east2295,http://concepticon.clld.org/parameters/1374,fingerl,ring (for finger)
+195-1249,east2295,http://concepticon.clld.org/parameters/1754,bras'lʸet,bracelet
+195-630,east2295,http://concepticon.clld.org/parameters/1961,haldzband,necklace
+195-955,east2295,http://concepticon.clld.org/parameters/1961,haldzšnur,necklace
+195-1068,east2295,http://concepticon.clld.org/parameters/1860,krel,bead
+195-527,east2295,http://concepticon.clld.org/parameters/1860,'pačerke,bead
+195-525,east2295,http://concepticon.clld.org/parameters/770,ojringl,earring
+195-388,east2295,http://concepticon.clld.org/parameters/330,kopband,"headband, headdress"
+195-855,east2295,http://concepticon.clld.org/parameters/330,'kop(ba)puc,"headband, headdress"
+195-692,east2295,http://concepticon.clld.org/parameters/68,ta'tu,tattoo
+195-817,east2295,http://concepticon.clld.org/parameters/332,tixl,"handkerchief, rag"
+195-889,east2295,http://concepticon.clld.org/parameters/332,šmate,"handkerchief, rag"
+195-875,east2295,http://concepticon.clld.org/parameters/1021,hantex,towel
+195-1083,east2295,http://concepticon.clld.org/parameters/1475,kam,comb
+195-488,east2295,http://concepticon.clld.org/parameters/1475,keml,comb
+195-1473,east2295,http://concepticon.clld.org/parameters/1821,baršt,brush
+195-242,east2295,http://concepticon.clld.org/parameters/1821,berštl,brush
+195-255,east2295,http://concepticon.clld.org/parameters/333,cop,braid
+195-199,east2295,http://concepticon.clld.org/parameters/151,'golmeser,razor
+195-154,east2295,http://concepticon.clld.org/parameters/1926,zalb,ointment
+195-1621,east2295,http://concepticon.clld.org/parameters/788,zejf,soap
+195-116,east2295,http://concepticon.clld.org/parameters/1171,špigl,mirror
+195-977,east2295,http://concepticon.clld.org/parameters/1099,vojnen,"dwell, live"
+195-809,east2295,http://concepticon.clld.org/parameters/1252,hojz,house
+195-1358,east2295,http://concepticon.clld.org/parameters/1252,štub,house
+195-500,east2295,http://concepticon.clld.org/parameters/1678,xate,hut
+195-175,east2295,http://concepticon.clld.org/parameters/1678,hajzke,hut
+195-863,east2295,http://concepticon.clld.org/parameters/1678,xalupe,hut
+195-544,east2295,http://concepticon.clld.org/parameters/403,alʸtane,garden-house
+195-709,east2295,http://concepticon.clld.org/parameters/1316,ge'celt,tent
+195-807,east2295,http://concepticon.clld.org/parameters/736,hojf,"yard, court"
+195-13,east2295,http://concepticon.clld.org/parameters/334,gorkix,cookhouse
+195-844,east2295,http://concepticon.clld.org/parameters/335,bes-medreš,meeting house
+195-1358,east2295,http://concepticon.clld.org/parameters/1450,štub,room
+195-896,east2295,http://concepticon.clld.org/parameters/1450,cimer,room
+195-412,east2295,http://concepticon.clld.org/parameters/1567,tir,"door, gate"
+195-1480,east2295,http://concepticon.clld.org/parameters/1567,tojer,"door, gate"
+195-14,east2295,http://concepticon.clld.org/parameters/80,'bajštidl,"doorpost, jamb"
+195-1212,east2295,http://concepticon.clld.org/parameters/1596,šlos,lock (noun)
+195-1454,east2295,http://concepticon.clld.org/parameters/1596,šlesl,lock (noun)
+195-867,east2295,http://concepticon.clld.org/parameters/1012,(far)ruker,"latch, door-bolt"
+195-541,east2295,http://concepticon.clld.org/parameters/1472,šlisl,key
+195-533,east2295,http://concepticon.clld.org/parameters/1375,fencter,window
+195-224,east2295,http://concepticon.clld.org/parameters/1632,padloge,floor
+195-982,east2295,http://concepticon.clld.org/parameters/1632,'podleke,floor
+195-451,east2295,http://concepticon.clld.org/parameters/1632,dil,floor
+195-1168,east2295,http://concepticon.clld.org/parameters/933,vant,wall
+195-1180,east2295,http://concepticon.clld.org/parameters/185,ka'min,fireplace
+195-126,east2295,http://concepticon.clld.org/parameters/859,ojvn,stove
+195-261,east2295,http://concepticon.clld.org/parameters/1305,kojmen,chimney
+195-1636,east2295,http://concepticon.clld.org/parameters/1464,lejter,ladder
+195-1463,east2295,http://concepticon.clld.org/parameters/1663,bet,bed
+195-920,east2295,http://concepticon.clld.org/parameters/1044,kišn,pillow
+195-203,east2295,http://concepticon.clld.org/parameters/806,koldre,blanket
+195-1041,east2295,http://concepticon.clld.org/parameters/806,koc,blanket
+195-1356,east2295,http://concepticon.clld.org/parameters/1476,štul,chair
+195-890,east2295,http://concepticon.clld.org/parameters/1476,benkl,chair
+195-1343,east2295,http://concepticon.clld.org/parameters/1775,tiš,table
+195-940,east2295,http://concepticon.clld.org/parameters/2131,lomp,"lamp, torch"
+195-467,east2295,http://concepticon.clld.org/parameters/1273,lixt,candle
+195-1117,east2295,http://concepticon.clld.org/parameters/745,polece,shelf
+195-1130,east2295,http://concepticon.clld.org/parameters/205,žoleb,trough
+195-1516,east2295,http://concepticon.clld.org/parameters/205,'korete,trough
+195-519,east2295,http://concepticon.clld.org/parameters/205,multer,trough
+195-191,east2295,http://concepticon.clld.org/parameters/205,dejže,trough
+195-1407,east2295,http://concepticon.clld.org/parameters/769,dax,roof
+195-1532,east2295,http://concepticon.clld.org/parameters/279,'štrojener dax,thatch
+195-511,east2295,http://concepticon.clld.org/parameters/280,balknslup,ridgepole
+195-1279,east2295,http://concepticon.clld.org/parameters/829,krokve,rafter
+195-499,east2295,http://concepticon.clld.org/parameters/829,balkn,rafter
+195-499,east2295,http://concepticon.clld.org/parameters/1132,balkn,beam
+195-1635,east2295,http://concepticon.clld.org/parameters/281,slup,"post, pole"
+195-1490,east2295,http://concepticon.clld.org/parameters/1227,bret,board
+195-949,east2295,http://concepticon.clld.org/parameters/876,bojgn,arch
+195-812,east2295,http://concepticon.clld.org/parameters/877,mulʸer,mason
+195-751,east2295,http://concepticon.clld.org/parameters/1006,cigl,brick
+195-184,east2295,http://concepticon.clld.org/parameters/1731,vapne,mortar
+195-830,east2295,http://concepticon.clld.org/parameters/901,adobe,adobe
+195-570,east2295,http://concepticon.clld.org/parameters/979,pojer,farmer
+195-1226,east2295,http://concepticon.clld.org/parameters/979,'erdarbeter,farmer
+195-562,east2295,http://concepticon.clld.org/parameters/979,farmer,farmer
+195-421,east2295,http://concepticon.clld.org/parameters/212,feld,field (for cultivation)
+195-1582,east2295,http://concepticon.clld.org/parameters/586,gortn,garden
+195-995,east2295,http://concepticon.clld.org/parameters/1541,baarbetn,"cultivate, till"
+195-428,east2295,http://concepticon.clld.org/parameters/1690,plojt,fence
+195-582,east2295,http://concepticon.clld.org/parameters/1690,park(a)n,fence
+195-799,east2295,http://concepticon.clld.org/parameters/2002,grub,ditch
+195-902,east2295,http://concepticon.clld.org/parameters/1921,akern,plow
+195-828,east2295,http://concepticon.clld.org/parameters/1794,gare,furrow
+195-1011,east2295,http://concepticon.clld.org/parameters/1794,brozde,furrow
+195-434,east2295,http://concepticon.clld.org/parameters/1418,grobn,dig
+195-1564,east2295,http://concepticon.clld.org/parameters/1176,'lopete,spade
+195-1361,east2295,http://concepticon.clld.org/parameters/1176,ridl,spade
+195-10,east2295,http://concepticon.clld.org/parameters/1176,špodl,spade
+195-1564,east2295,http://concepticon.clld.org/parameters/1901,'lopete,shovel
+195-1361,east2295,http://concepticon.clld.org/parameters/1901,ridl,shovel
+195-1150,east2295,http://concepticon.clld.org/parameters/1901,šufl,shovel
+195-1325,east2295,http://concepticon.clld.org/parameters/284,sape,hoe
+195-508,east2295,http://concepticon.clld.org/parameters/337,vidle,fork
+195-1301,east2295,http://concepticon.clld.org/parameters/338,grablʸe,rake
+195-257,east2295,http://concepticon.clld.org/parameters/748,zejen,sow
+195-380,east2295,http://concepticon.clld.org/parameters/714,zojmen,seed
+195-681,east2295,http://concepticon.clld.org/parameters/190,košen,"mow, reap"
+195-990,east2295,http://concepticon.clld.org/parameters/190,šnajdn,"mow, reap"
+195-625,east2295,http://concepticon.clld.org/parameters/2132,serp,"sickle, scythe"
+195-1370,east2295,http://concepticon.clld.org/parameters/2132,kose,"sickle, scythe"
+195-1610,east2295,http://concepticon.clld.org/parameters/285,drešn,thresh
+195-1499,east2295,http://concepticon.clld.org/parameters/223,tojk,threshing-floor
+195-1491,east2295,http://concepticon.clld.org/parameters/611,ge'reteniš,"crop, harvest"
+195-842,east2295,http://concepticon.clld.org/parameters/611,šnit,"crop, harvest"
+195-207,east2295,http://concepticon.clld.org/parameters/605,tvue,"grain (barley, oats etc)"
+195-323,east2295,http://concepticon.clld.org/parameters/1077,vejc,wheat
+195-793,east2295,http://concepticon.clld.org/parameters/932,gerštn,barley
+195-1284,east2295,http://concepticon.clld.org/parameters/23,korn,rye
+195-552,east2295,http://concepticon.clld.org/parameters/60,hober,oats
+195-355,east2295,http://concepticon.clld.org/parameters/506,kukuruze,"maize, corn"
+195-791,east2295,http://concepticon.clld.org/parameters/506,pap'šoj,"maize, corn"
+195-662,east2295,http://concepticon.clld.org/parameters/926,rajz,rice
+195-535,east2295,http://concepticon.clld.org/parameters/606,groz,grass
+195-841,east2295,http://concepticon.clld.org/parameters/342,hej,hay
+195-430,east2295,http://concepticon.clld.org/parameters/653,ge'viks,plant (noun)
+195-531,east2295,http://concepticon.clld.org/parameters/653,flanc,plant (noun)
+195-720,east2295,http://concepticon.clld.org/parameters/1486,far'zecn,plant (vb)
+195-778,east2295,http://concepticon.clld.org/parameters/1486,far'flancn,plant (vb)
+195-759,east2295,http://concepticon.clld.org/parameters/670,vorcl,root
+195-926,east2295,http://concepticon.clld.org/parameters/1531,cvajg,branch
+195-954,east2295,http://concepticon.clld.org/parameters/628,blat,leaf
+195-22,east2295,http://concepticon.clld.org/parameters/239,blum,flower
+195-1061,east2295,http://concepticon.clld.org/parameters/239,kvejt,flower
+195-1368,east2295,http://concepticon.clld.org/parameters/906,bojm,tree
+195-1574,east2295,http://concepticon.clld.org/parameters/644,demb,oak
+195-1658,east2295,http://concepticon.clld.org/parameters/1950,buk,beech
+195-283,east2295,http://concepticon.clld.org/parameters/1855,bereze,birch
+195-1029,east2295,http://concepticon.clld.org/parameters/1740,sosne,pine
+195-596,east2295,http://concepticon.clld.org/parameters/1915,jodle,fir
+195-687,east2295,http://concepticon.clld.org/parameters/968,'xazer-nisl,acorn
+195-1112,east2295,http://concepticon.clld.org/parameters/343,vajnštok,vine
+195-219,east2295,http://concepticon.clld.org/parameters/974,tabik,tobacco
+195-1354,east2295,http://concepticon.clld.org/parameters/974,ti'tun,tobacco
+195-211,east2295,http://concepticon.clld.org/parameters/1689,rejxern,smoke (tobacco)
+195-1245,east2295,http://concepticon.clld.org/parameters/1124,lʸulʸke,pipe
+195-320,east2295,http://concepticon.clld.org/parameters/1124,pipke,pipe
+195-221,east2295,http://concepticon.clld.org/parameters/241,pɲak,tree stump
+195-1039,east2295,http://concepticon.clld.org/parameters/241,korč,tree stump
+195-934,east2295,http://concepticon.clld.org/parameters/241,stočik,tree stump
+195-688,east2295,http://concepticon.clld.org/parameters/344,štam,tree trunk
+195-794,east2295,http://concepticon.clld.org/parameters/409,cegoplte(r) cvajg,forked branch
+195-1286,east2295,http://concepticon.clld.org/parameters/1204,kore,bark
+195-376,east2295,http://concepticon.clld.org/parameters/345,sok,sap
+195-1372,east2295,http://concepticon.clld.org/parameters/345,zaft,sap
+195-302,east2295,http://concepticon.clld.org/parameters/1181,palʸme,palm tree
+195-1166,east2295,http://concepticon.clld.org/parameters/970,'kokusnus,coconut
+195-1320,east2295,http://concepticon.clld.org/parameters/1126,'citrusfruxt,citrus fruit
+195-60,east2295,http://concepticon.clld.org/parameters/868,ba'nane-bojm,banana tree
+195-399,east2295,http://concepticon.clld.org/parameters/346,banjan,banyan
+195-785,east2295,http://concepticon.clld.org/parameters/159,batate,sweet potato
+195-503,east2295,http://concepticon.clld.org/parameters/410,jam,yam
+195-1638,east2295,http://concepticon.clld.org/parameters/925,man'jok,"tapioca, manioc, cassava"
+195-213,east2295,http://concepticon.clld.org/parameters/411,kerbes,gourd
+195-1334,east2295,http://concepticon.clld.org/parameters/864,diɲe,"pumpkin, squash"
+195-1143,east2295,http://concepticon.clld.org/parameters/864,ka'bak(l),"pumpkin, squash"
+195-1566,east2295,http://concepticon.clld.org/parameters/1927,bam'bu,bamboo
+195-282,east2295,http://concepticon.clld.org/parameters/146,'cukerror,sugar cane
+195-512,east2295,http://concepticon.clld.org/parameters/33,'kropeve,nettle
+195-220,east2295,http://concepticon.clld.org/parameters/641,šveml,mushroom
+195-341,east2295,http://concepticon.clld.org/parameters/641,švojm,mushroom
+195-158,east2295,http://concepticon.clld.org/parameters/813,ton,"do, make"
+195-185,east2295,http://concepticon.clld.org/parameters/813,maxn,"do, make"
+195-1189,east2295,http://concepticon.clld.org/parameters/984,arbetn,work
+195-951,east2295,http://concepticon.clld.org/parameters/2004,bejgn,bend
+195-1554,east2295,http://concepticon.clld.org/parameters/1470,cu'nojfknejčn,fold
+195-486,east2295,http://concepticon.clld.org/parameters/1470,cu'nojflejgn,fold
+195-1333,east2295,http://concepticon.clld.org/parameters/1917,(far)'bindn,"tie, bind"
+195-15,east2295,http://concepticon.clld.org/parameters/352,opbindn,untie
+195-1063,east2295,http://concepticon.clld.org/parameters/352,ce'bindn,untie
+195-1070,east2295,http://concepticon.clld.org/parameters/1627,kejt,chain
+195-423,east2295,http://concepticon.clld.org/parameters/1218,štrik,"rope, cord"
+195-114,east2295,http://concepticon.clld.org/parameters/1218,šnur,"rope, cord"
+195-861,east2295,http://concepticon.clld.org/parameters/760,knup,knot (noun)
+195-1298,east2295,http://concepticon.clld.org/parameters/760,knipl,knot (noun)
+195-790,east2295,http://concepticon.clld.org/parameters/2133,šlogn,"strike (hit, beat)"
+195-722,east2295,http://concepticon.clld.org/parameters/354,derlangen mit der fojst/mitn kulik,pound with fist
+195-990,east2295,http://concepticon.clld.org/parameters/1432,šnajdn,cut
+195-1303,east2295,http://concepticon.clld.org/parameters/355,arophakn,cut down
+195-1394,east2295,http://concepticon.clld.org/parameters/155,hakn,"chop, hew"
+195-274,east2295,http://concepticon.clld.org/parameters/1434,štexn,stab
+195-908,east2295,http://concepticon.clld.org/parameters/1352,meser,knife
+195-52,east2295,http://concepticon.clld.org/parameters/356,šer(l),"scissors, shears"
+195-324,east2295,http://concepticon.clld.org/parameters/677,hak,ax
+195-538,east2295,http://concepticon.clld.org/parameters/290,'bonderhak,adze
+195-313,east2295,http://concepticon.clld.org/parameters/680,(ce)'brexn,break
+195-232,east2295,http://concepticon.clld.org/parameters/588,ce'broxn,broken
+195-1382,east2295,http://concepticon.clld.org/parameters/1437,(ce)'špaltn,split
+195-656,east2295,http://concepticon.clld.org/parameters/1735,(ce)'rajsn,tear
+195-479,east2295,http://concepticon.clld.org/parameters/291,šindn,"flay, skin"
+195-490,east2295,http://concepticon.clld.org/parameters/291,'paseven,"flay, skin"
+195-289,east2295,http://concepticon.clld.org/parameters/1449,rajbn,"rub, wipe"
+195-708,east2295,http://concepticon.clld.org/parameters/1449,višn,"rub, wipe"
+195-901,east2295,http://concepticon.clld.org/parameters/214,(ojs)štrekn,stretch
+195-1175,east2295,http://concepticon.clld.org/parameters/214,('ojs)cijen,stretch
+195-613,east2295,http://concepticon.clld.org/parameters/1455,cijen,pull
+195-390,east2295,http://concepticon.clld.org/parameters/38,('ojs)šprejtn,spread out
+195-277,east2295,http://concepticon.clld.org/parameters/38,(ojs)lejgn,spread out
+195-1010,east2295,http://concepticon.clld.org/parameters/357,('uf)hengen,hang up
+195-1606,east2295,http://concepticon.clld.org/parameters/1913,presn,press
+195-478,east2295,http://concepticon.clld.org/parameters/1913,kvečn,press
+195-736,east2295,http://concepticon.clld.org/parameters/1913,drikn,press
+195-610,east2295,http://concepticon.clld.org/parameters/1414,(ojs)kvečn,"squeeze, wring"
+195-1371,east2295,http://concepticon.clld.org/parameters/1414,('ojs)dringen,"squeeze, wring"
+195-1012,east2295,http://concepticon.clld.org/parameters/1414,('ojs)drejen,"squeeze, wring"
+195-735,east2295,http://concepticon.clld.org/parameters/1487,gisn,pour
+195-952,east2295,http://concepticon.clld.org/parameters/1487,šitn,pour
+195-1183,east2295,http://concepticon.clld.org/parameters/1453,vašn,wash
+195-1032,east2295,http://concepticon.clld.org/parameters/230,(ojs)kern,sweep
+195-1261,east2295,http://concepticon.clld.org/parameters/245,bezem,broom
+195-59,east2295,http://concepticon.clld.org/parameters/1361,maxšer,tool
+195-678,east2295,http://concepticon.clld.org/parameters/1042,stolʸer,carpenter
+195-1182,east2295,http://concepticon.clld.org/parameters/1840,bojen,build
+195-247,east2295,http://concepticon.clld.org/parameters/1501,'egbern,bore
+195-254,east2295,http://concepticon.clld.org/parameters/1501,bojern,bore
+195-987,east2295,http://concepticon.clld.org/parameters/46,(ojs)hojln,hollow out
+195-92,east2295,http://concepticon.clld.org/parameters/1948,zeg,saw
+195-601,east2295,http://concepticon.clld.org/parameters/1481,hamer,hammer
+195-1383,east2295,http://concepticon.clld.org/parameters/502,čvok,nail
+195-26,east2295,http://concepticon.clld.org/parameters/502,nogl,nail
+195-930,east2295,http://concepticon.clld.org/parameters/1069,klej,glue
+195-1019,east2295,http://concepticon.clld.org/parameters/1001,šmid,"smith, blacksmith"
+195-121,east2295,http://concepticon.clld.org/parameters/1001,kovalʸ,"smith, blacksmith"
+195-1300,east2295,http://concepticon.clld.org/parameters/288,šmidn,forge
+195-1335,east2295,http://concepticon.clld.org/parameters/288,koven,forge
+195-1674,east2295,http://concepticon.clld.org/parameters/1648,kovadle,anvil
+195-624,east2295,http://concepticon.clld.org/parameters/211,(op)gisn,cast (metals)
+195-1100,east2295,http://concepticon.clld.org/parameters/1369,gold,gold
+195-871,east2295,http://concepticon.clld.org/parameters/759,zilber,silver
+195-554,east2295,http://concepticon.clld.org/parameters/1825,kuper,"copper, bronze"
+195-915,east2295,http://concepticon.clld.org/parameters/1825,brondz,"copper, bronze"
+195-994,east2295,http://concepticon.clld.org/parameters/621,ajzn,iron
+195-748,east2295,http://concepticon.clld.org/parameters/627,blaj,lead (noun)
+195-1270,east2295,http://concepticon.clld.org/parameters/358,cin,"tin, tinplate"
+195-239,east2295,http://concepticon.clld.org/parameters/358,blex,"tin, tinplate"
+195-969,east2295,http://concepticon.clld.org/parameters/359,teper,potter
+195-1195,east2295,http://concepticon.clld.org/parameters/289,'furemen,mold (clay etc)
+195-821,east2295,http://concepticon.clld.org/parameters/1399,lejm,clay
+195-196,east2295,http://concepticon.clld.org/parameters/604,gloz,glass
+195-1101,east2295,http://concepticon.clld.org/parameters/1729,vebn,"weave, plait"
+195-1120,east2295,http://concepticon.clld.org/parameters/1729,flextn,"weave, plait"
+195-820,east2295,http://concepticon.clld.org/parameters/1539,kojš,basket
+195-985,east2295,http://concepticon.clld.org/parameters/1539,kojber,basket
+195-1288,east2295,http://concepticon.clld.org/parameters/1539,korb,basket
+195-386,east2295,http://concepticon.clld.org/parameters/1539,košik,basket
+195-1116,east2295,http://concepticon.clld.org/parameters/195,rogože,mat
+195-967,east2295,http://concepticon.clld.org/parameters/292,tepex,rug
+195-1041,east2295,http://concepticon.clld.org/parameters/292,koc,rug
+195-1446,east2295,http://concepticon.clld.org/parameters/293,neczak,netbag
+195-1004,east2295,http://concepticon.clld.org/parameters/1971,foxer,fan (noun)
+195-2,east2295,http://concepticon.clld.org/parameters/360,fox(e)n,fan (vb)
+195-1016,east2295,http://concepticon.clld.org/parameters/228,šnicn,carve
+195-976,east2295,http://concepticon.clld.org/parameters/914,skulʸptor,sculptor
+195-764,east2295,http://concepticon.clld.org/parameters/1002,statue,statue
+195-1680,east2295,http://concepticon.clld.org/parameters/1979,dlot,chisel
+195-1600,east2295,http://concepticon.clld.org/parameters/1979,'dolete,chisel
+195-405,east2295,http://concepticon.clld.org/parameters/647,moln,paint (noun)
+195-1385,east2295,http://concepticon.clld.org/parameters/2001,farb,paint (vb)
+195-606,east2295,http://concepticon.clld.org/parameters/765,rirn zix,move
+195-484,east2295,http://concepticon.clld.org/parameters/1588,'iberdrejen (zix),turn over
+195-717,east2295,http://concepticon.clld.org/parameters/1588,'iberkern (zix),turn over
+195-73,east2295,http://concepticon.clld.org/parameters/1445,'ojsdrejen (zix),turn around
+195-454,east2295,http://concepticon.clld.org/parameters/1445,a'rumdrejen (zix),turn around
+195-727,east2295,http://concepticon.clld.org/parameters/1113,viklen,"wind, wrap"
+195-1326,east2295,http://concepticon.clld.org/parameters/827,kačen (zix),roll
+195-82,east2295,http://concepticon.clld.org/parameters/827,kajklen (zix),roll
+195-850,east2295,http://concepticon.clld.org/parameters/808,lozn faln,drop (vb)
+195-886,east2295,http://concepticon.clld.org/parameters/808,oplozn,drop (vb)
+195-900,east2295,http://concepticon.clld.org/parameters/430,korčen,twist
+195-585,east2295,http://concepticon.clld.org/parameters/568,(uf)hejbn zix,rise
+195-1589,east2295,http://concepticon.clld.org/parameters/501,(uf)hejbn,"raise, lift"
+195-899,east2295,http://concepticon.clld.org/parameters/1280,faln,fall
+195-1494,east2295,http://concepticon.clld.org/parameters/2253,kapen,drip
+195-1412,east2295,http://concepticon.clld.org/parameters/1456,varfn,throw
+195-8,east2295,http://concepticon.clld.org/parameters/702,xapn,catch (ball)
+195-66,east2295,http://concepticon.clld.org/parameters/1909,šoklen,shake
+195-766,east2295,http://concepticon.clld.org/parameters/1909,trejslen,shake
+195-1139,east2295,http://concepticon.clld.org/parameters/2003,gisn zix,flow
+195-713,east2295,http://concepticon.clld.org/parameters/2003,flisn,flow
+195-23,east2295,http://concepticon.clld.org/parameters/1088,zinken,sink
+195-1419,east2295,http://concepticon.clld.org/parameters/1088,'untergejn,sink
+195-608,east2295,http://concepticon.clld.org/parameters/1574,švimen,float
+195-608,east2295,http://concepticon.clld.org/parameters/1439,švimen,swim
+195-1082,east2295,http://concepticon.clld.org/parameters/119,'untertunken zix,dive
+195-1203,east2295,http://concepticon.clld.org/parameters/119,'untertukn zix,dive
+195-1151,east2295,http://concepticon.clld.org/parameters/365,špricn,splash
+195-1339,east2295,http://concepticon.clld.org/parameters/365,plʸušken,splash
+195-749,east2295,http://concepticon.clld.org/parameters/787,forn mit a šif,sail (vb)
+195-627,east2295,http://concepticon.clld.org/parameters/787,zeglen,sail (vb)
+195-1436,east2295,http://concepticon.clld.org/parameters/1441,flijen,fly (vb)
+195-357,east2295,http://concepticon.clld.org/parameters/175,blozn,blow
+195-179,east2295,http://concepticon.clld.org/parameters/96,krixn,"creep, crawl"
+195-696,east2295,http://concepticon.clld.org/parameters/66,knijen,kneel
+195-1024,east2295,http://concepticon.clld.org/parameters/296,ajnbejgn zix,crouch
+195-90,east2295,http://concepticon.clld.org/parameters/1324,gličn zix,"slide, slip"
+195-51,east2295,http://concepticon.clld.org/parameters/1829,špringen,"jump, leap"
+195-986,east2295,http://concepticon.clld.org/parameters/1135,briken,kick
+195-738,east2295,http://concepticon.clld.org/parameters/1135,drigen,kick
+195-1587,east2295,http://concepticon.clld.org/parameters/1135,kopen,kick
+195-1405,east2295,http://concepticon.clld.org/parameters/1879,tancn,dance
+195-1311,east2295,http://concepticon.clld.org/parameters/1443,gejn (cu fus),walk
+195-651,east2295,http://concepticon.clld.org/parameters/366,hinken,limp
+195-111,east2295,http://concepticon.clld.org/parameters/1519,lojfn,run
+195-876,east2295,http://concepticon.clld.org/parameters/695,gejn,go
+195-389,east2295,http://concepticon.clld.org/parameters/695,forn,go
+195-1091,east2295,http://concepticon.clld.org/parameters/705,arufgejn,go up
+195-942,east2295,http://concepticon.clld.org/parameters/705,arufforn,go up
+195-507,east2295,http://concepticon.clld.org/parameters/1102,(aruf)krixn,climb
+195-763,east2295,http://concepticon.clld.org/parameters/2014,aropgejn,go down
+195-1059,east2295,http://concepticon.clld.org/parameters/2014,aropforn,go down
+195-172,east2295,http://concepticon.clld.org/parameters/1107,arojsgejn,go out
+195-1277,east2295,http://concepticon.clld.org/parameters/1107,arojsforn,go out
+195-566,east2295,http://concepticon.clld.org/parameters/1446,kumen,come
+195-729,east2295,http://concepticon.clld.org/parameters/581,cu'rikkumen,come back
+195-266,east2295,http://concepticon.clld.org/parameters/581,umkern zix,come back
+195-337,east2295,http://concepticon.clld.org/parameters/1752,avekgejn,"go away, depart"
+195-1337,east2295,http://concepticon.clld.org/parameters/1752,avekforn,"go away, depart"
+195-474,east2295,http://concepticon.clld.org/parameters/485,farš'vundn vern,disappear
+195-1418,east2295,http://concepticon.clld.org/parameters/485,nelem vern,disappear
+195-724,east2295,http://concepticon.clld.org/parameters/956,ant'lojfn,flee
+195-1246,east2295,http://concepticon.clld.org/parameters/1085,noxgejn,follow
+195-694,east2295,http://concepticon.clld.org/parameters/1085,noxforn,follow
+195-1246,east2295,http://concepticon.clld.org/parameters/1047,noxgejn,pursue
+195-1433,east2295,http://concepticon.clld.org/parameters/1047,noxlojfn,pursue
+195-145,east2295,http://concepticon.clld.org/parameters/1387,dergejn,"reach, arrive"
+195-1295,east2295,http://concepticon.clld.org/parameters/1387,der'forn,"reach, arrive"
+195-1518,east2295,http://concepticon.clld.org/parameters/1387,'onkumen,"reach, arrive"
+195-457,east2295,http://concepticon.clld.org/parameters/1778,cugejn,approach
+195-705,east2295,http://concepticon.clld.org/parameters/1778,'cukumen,approach
+195-1549,east2295,http://concepticon.clld.org/parameters/749,arajngejn,enter
+195-1603,east2295,http://concepticon.clld.org/parameters/749,arajnforn,enter
+195-1227,east2295,http://concepticon.clld.org/parameters/700,trogn,carry (bear)
+195-461,east2295,http://concepticon.clld.org/parameters/412,trogn (in der hant),carry-in-hand
+195-270,east2295,http://concepticon.clld.org/parameters/413,trogn (afn aksl),carry-on-shoulder
+195-1393,east2295,http://concepticon.clld.org/parameters/414,trogn (afn kop),carry-on-head
+195-168,east2295,http://concepticon.clld.org/parameters/415,trogn (untern orem),carry-underarm
+195-1453,east2295,http://concepticon.clld.org/parameters/692,brengen,bring
+195-1253,east2295,http://concepticon.clld.org/parameters/1127,šikn,send
+195-1167,east2295,http://concepticon.clld.org/parameters/43,firn,lead (vb)
+195-1668,east2295,http://concepticon.clld.org/parameters/741,trajbn,drive
+195-1167,east2295,http://concepticon.clld.org/parameters/741,firn,drive
+195-216,east2295,http://concepticon.clld.org/parameters/741,šo'firn,drive
+195-1535,east2295,http://concepticon.clld.org/parameters/367,rajtn,ride
+195-389,east2295,http://concepticon.clld.org/parameters/367,forn,ride
+195-1235,east2295,http://concepticon.clld.org/parameters/1452,štupn,"push, shove"
+195-669,east2295,http://concepticon.clld.org/parameters/1452,štojsn,"push, shove"
+195-441,east2295,http://concepticon.clld.org/parameters/667,veg,road
+195-1176,east2295,http://concepticon.clld.org/parameters/2252,šteg,path
+195-822,east2295,http://concepticon.clld.org/parameters/2252,steške,path
+195-984,east2295,http://concepticon.clld.org/parameters/1011,brik,bridge
+195-659,east2295,http://concepticon.clld.org/parameters/122,karete,"carriage, wagon, cart"
+195-1366,east2295,http://concepticon.clld.org/parameters/122,bojd,"carriage, wagon, cart"
+195-44,east2295,http://concepticon.clld.org/parameters/122,vogn,"carriage, wagon, cart"
+195-1173,east2295,http://concepticon.clld.org/parameters/122,fur,"carriage, wagon, cart"
+195-432,east2295,http://concepticon.clld.org/parameters/710,rod,wheel
+195-43,east2295,http://concepticon.clld.org/parameters/1769,aks,axle
+195-1530,east2295,http://concepticon.clld.org/parameters/14,jox,yoke
+195-1552,east2295,http://concepticon.clld.org/parameters/740,šif,ship
+195-883,east2295,http://concepticon.clld.org/parameters/1844,šifl,boat
+195-1147,east2295,http://concepticon.clld.org/parameters/1844,lotke,boat
+195-144,east2295,http://concepticon.clld.org/parameters/1970,ka'nu,canoe
+195-295,east2295,http://concepticon.clld.org/parameters/1664,plit,raft
+195-913,east2295,http://concepticon.clld.org/parameters/1664,tratve,raft
+195-672,east2295,http://concepticon.clld.org/parameters/108,vesle,oar
+195-529,east2295,http://concepticon.clld.org/parameters/234,ruder,paddle (noun)
+195-1564,east2295,http://concepticon.clld.org/parameters/234,'lopete,paddle (noun)
+195-1000,east2295,http://concepticon.clld.org/parameters/1849,rudern,row (vb)
+195-615,east2295,http://concepticon.clld.org/parameters/108,kerme,rudder
+195-819,east2295,http://concepticon.clld.org/parameters/184,mastbojm,mast
+195-1097,east2295,http://concepticon.clld.org/parameters/786,zegl,sail (noun)
+195-655,east2295,http://concepticon.clld.org/parameters/1870,anker,anchor
+195-469,east2295,http://concepticon.clld.org/parameters/610,port,"harbor, port"
+195-1471,east2295,http://concepticon.clld.org/parameters/610,havn,"harbor, port"
+195-1615,east2295,http://concepticon.clld.org/parameters/1922,aroplozn zix,land (vb)
+195-833,east2295,http://concepticon.clld.org/parameters/1922,landn,land (vb)
+195-1534,east2295,http://concepticon.clld.org/parameters/773,hobn,have
+195-851,east2295,http://concepticon.clld.org/parameters/684,farmogn,"own, possess"
+195-408,east2295,http://concepticon.clld.org/parameters/1749,nemen,take
+195-1661,east2295,http://concepticon.clld.org/parameters/2021,(far)'xapn,"seize, grasp"
+195-960,east2295,http://concepticon.clld.org/parameters/1448,haltn,hold
+195-63,east2295,http://concepticon.clld.org/parameters/694,krign,"get, obtain"
+195-1258,east2295,http://concepticon.clld.org/parameters/694,bakumen,"get, obtain"
+195-408,east2295,http://concepticon.clld.org/parameters/694,nemen,"get, obtain"
+195-140,east2295,http://concepticon.clld.org/parameters/694,ajnšafn zix,"get, obtain"
+195-1365,east2295,http://concepticon.clld.org/parameters/1477,(ba)'haltn,"keep, retain"
+195-1142,east2295,http://concepticon.clld.org/parameters/1477,lozn ba zix,"keep, retain"
+195-505,east2295,http://concepticon.clld.org/parameters/1477,blajbn ba,"keep, retain"
+195-609,east2295,http://concepticon.clld.org/parameters/738,zax,thing
+195-1550,east2295,http://concepticon.clld.org/parameters/1447,gebn,give
+195-517,east2295,http://concepticon.clld.org/parameters/85,curikgebn,give back
+195-1305,east2295,http://concepticon.clld.org/parameters/85,umkern,give back
+195-1643,east2295,http://concepticon.clld.org/parameters/1997,(uf)hitn,"preserve, look after"
+195-284,east2295,http://concepticon.clld.org/parameters/2008,'rateven,"save, rescue"
+195-1257,east2295,http://concepticon.clld.org/parameters/2008,matsl zajn,"save, rescue"
+195-1336,east2295,http://concepticon.clld.org/parameters/681,xorev maxn,destroy
+195-1161,east2295,http://concepticon.clld.org/parameters/681,ceš'tern,destroy
+195-1238,east2295,http://concepticon.clld.org/parameters/681,fartilikn,destroy
+195-1172,east2295,http://concepticon.clld.org/parameters/44,šatn,"harm, injure, damage"
+195-1251,east2295,http://concepticon.clld.org/parameters/44,bejzs/šlexts ton,"harm, injure, damage"
+195-19,east2295,http://concepticon.clld.org/parameters/1468,zuxn,"seek, look for"
+195-762,east2295,http://concepticon.clld.org/parameters/719,gefinen,find
+195-590,east2295,http://concepticon.clld.org/parameters/719,opzuxn,find
+195-1233,east2295,http://concepticon.clld.org/parameters/1660,far'lirn,lose
+195-347,east2295,http://concepticon.clld.org/parameters/1660,onvern,lose
+195-944,east2295,http://concepticon.clld.org/parameters/1095,bafrajen,"release, let go"
+195-886,east2295,http://concepticon.clld.org/parameters/1095,oplozn,"release, let go"
+195-1121,east2295,http://concepticon.clld.org/parameters/1559,gelt,money
+195-1620,east2295,http://concepticon.clld.org/parameters/1867,matbeje,coin
+195-661,east2295,http://concepticon.clld.org/parameters/712,rajx,rich
+195-360,east2295,http://concepticon.clld.org/parameters/1674,orem,poor
+195-1239,east2295,http://concepticon.clld.org/parameters/1674,bedales,poor
+195-310,east2295,http://concepticon.clld.org/parameters/1934,betler,beggar
+195-1177,east2295,http://concepticon.clld.org/parameters/1774,gajcik,"avaricious, stingy"
+195-1105,east2295,http://concepticon.clld.org/parameters/1774,žedne,"avaricious, stingy"
+195-1064,east2295,http://concepticon.clld.org/parameters/1774,karg,"avaricious, stingy"
+195-957,east2295,http://concepticon.clld.org/parameters/582,lajen,lend
+195-1021,east2295,http://concepticon.clld.org/parameters/582,borgn,lend
+195-741,east2295,http://concepticon.clld.org/parameters/1823,lajen (ba),borrow
+195-964,east2295,http://concepticon.clld.org/parameters/1823,borgn (ba),borrow
+195-1602,east2295,http://concepticon.clld.org/parameters/369,zajn šuldik,owe
+195-566,east2295,http://concepticon.clld.org/parameters/369,kumen,owe
+195-1671,east2295,http://concepticon.clld.org/parameters/1914,xojv,debt
+195-553,east2295,http://concepticon.clld.org/parameters/718,coln,pay (vb)
+195-1296,east2295,http://concepticon.clld.org/parameters/1081,xežbm,"account, reckoning"
+195-530,east2295,http://concepticon.clld.org/parameters/1081,'rexenung,"account, reckoning"
+195-439,east2295,http://concepticon.clld.org/parameters/873,štajer,"tax, tribute"
+195-46,east2295,http://concepticon.clld.org/parameters/873,cindz,"tax, tribute"
+195-286,east2295,http://concepticon.clld.org/parameters/856,onšteln,hire
+195-648,east2295,http://concepticon.clld.org/parameters/1122,sxires,wages
+195-1573,east2295,http://concepticon.clld.org/parameters/1122,ge'colt,wages
+195-878,east2295,http://concepticon.clld.org/parameters/733,fardinen,earn
+195-1312,east2295,http://concepticon.clld.org/parameters/1869,(ajn)kojfn,buy
+195-1497,east2295,http://concepticon.clld.org/parameters/1869,('ajn)handlen,buy
+195-307,east2295,http://concepticon.clld.org/parameters/1571,far'kojfn,sell
+195-1657,east2295,http://concepticon.clld.org/parameters/1571,farhandlen,sell
+195-1431,east2295,http://concepticon.clld.org/parameters/2135,ojsbajtn,"trade, barter"
+195-772,east2295,http://concepticon.clld.org/parameters/2135,(far)'štexeven,"trade, barter"
+195-339,east2295,http://concepticon.clld.org/parameters/1082,sojxer,merchant
+195-726,east2295,http://concepticon.clld.org/parameters/633,mark,market (place)
+195-319,east2295,http://concepticon.clld.org/parameters/752,krom,"store, shop"
+195-1548,east2295,http://concepticon.clld.org/parameters/752,klejt,"store, shop"
+195-559,east2295,http://concepticon.clld.org/parameters/752,ge'velb,"store, shop"
+195-208,east2295,http://concepticon.clld.org/parameters/657,prajz,price
+195-187,east2295,http://concepticon.clld.org/parameters/657,mekex,price
+195-891,east2295,http://concepticon.clld.org/parameters/1426,tajer,"dear (costly, expensive)"
+195-1584,east2295,http://concepticon.clld.org/parameters/1426,kostik,"dear (costly, expensive)"
+195-1664,east2295,http://concepticon.clld.org/parameters/1887,volvl,cheap
+195-814,east2295,http://concepticon.clld.org/parameters/1887,bilik,cheap
+195-245,east2295,http://concepticon.clld.org/parameters/884,tejln,share (distribute)
+195-520,east2295,http://concepticon.clld.org/parameters/1098,vegn,weigh
+195-568,east2295,http://concepticon.clld.org/parameters/1685,nox,after
+195-1236,east2295,http://concepticon.clld.org/parameters/723,hinter,behind
+195-1537,east2295,http://concepticon.clld.org/parameters/1816,lebn,beside
+195-677,east2295,http://concepticon.clld.org/parameters/1326,a'rop,"down, below"
+195-1207,east2295,http://concepticon.clld.org/parameters/1326,untn,"down, below"
+195-893,east2295,http://concepticon.clld.org/parameters/1882,far,before
+195-1015,east2295,http://concepticon.clld.org/parameters/1019,fornt,front
+195-947,east2295,http://concepticon.clld.org/parameters/1606,'ineveynik,"inside, in"
+195-293,east2295,http://concepticon.clld.org/parameters/1606,in,"inside, in"
+195-927,east2295,http://concepticon.clld.org/parameters/762,mi'xuc,outside
+195-190,east2295,http://concepticon.clld.org/parameters/762,in drojsn,outside
+195-330,east2295,http://concepticon.clld.org/parameters/1485,unter,under
+195-853,east2295,http://concepticon.clld.org/parameters/1591,af,"up, above"
+195-1637,east2295,http://concepticon.clld.org/parameters/1591,a'ruf,"up, above"
+195-124,east2295,http://concepticon.clld.org/parameters/1591,ojbn,"up, above"
+195-591,east2295,http://concepticon.clld.org/parameters/723,ort,place
+195-182,east2295,http://concepticon.clld.org/parameters/998,lejgn,put
+195-1309,east2295,http://concepticon.clld.org/parameters/998,šteln,put
+195-600,east2295,http://concepticon.clld.org/parameters/998,zecn,put
+195-278,east2295,http://concepticon.clld.org/parameters/1416,zicn,sit
+195-1427,east2295,http://concepticon.clld.org/parameters/215,lejgn zix,lie down
+195-275,east2295,http://concepticon.clld.org/parameters/1442,šteln zix,stand
+195-1601,east2295,http://concepticon.clld.org/parameters/987,blajbn,"remain, stay"
+195-55,east2295,http://concepticon.clld.org/parameters/838,'iberblajbs,"remains, left overs"
+195-1595,east2295,http://concepticon.clld.org/parameters/7,klajbn,"collect, gather"
+195-450,east2295,http://concepticon.clld.org/parameters/371,uflkajbn,pick up
+195-88,east2295,http://concepticon.clld.org/parameters/371,ufhejbn,pick up
+195-784,east2295,http://concepticon.clld.org/parameters/1576,onklajbn,pile up
+195-1556,east2295,http://concepticon.clld.org/parameters/1743,farejnikn,"join, unite"
+195-1050,east2295,http://concepticon.clld.org/parameters/1359,optejln,separate
+195-1460,east2295,http://concepticon.clld.org/parameters/1119,(op)tejln,divide
+195-547,east2295,http://concepticon.clld.org/parameters/1156,'efenen,open
+195-1346,east2295,http://concepticon.clld.org/parameters/1046,far'maxn,"shut, close"
+195-39,east2295,http://concepticon.clld.org/parameters/1046,cumaxn,"shut, close"
+195-1268,east2295,http://concepticon.clld.org/parameters/761,far'dekn,cover
+195-100,east2295,http://concepticon.clld.org/parameters/761,cudekn,cover
+195-1504,east2295,http://concepticon.clld.org/parameters/602,(far)ba'haltn,"hide, conceal"
+195-808,east2295,http://concepticon.clld.org/parameters/1265,hojx,high
+195-534,east2295,http://concepticon.clld.org/parameters/721,'niderik,low
+195-1377,east2295,http://concepticon.clld.org/parameters/1753,'ejberšte,top
+195-905,east2295,http://concepticon.clld.org/parameters/1753,špic,top
+195-1545,east2295,http://concepticon.clld.org/parameters/690,'unteršte,bottom
+195-58,east2295,http://concepticon.clld.org/parameters/690,dno,bottom
+195-374,east2295,http://concepticon.clld.org/parameters/742,sof,end
+195-163,east2295,http://concepticon.clld.org/parameters/372,špicik,pointed
+195-1487,east2295,http://concepticon.clld.org/parameters/863,breg,edge
+195-580,east2295,http://concepticon.clld.org/parameters/863,ek,edge
+195-918,east2295,http://concepticon.clld.org/parameters/682,zajt,side
+195-1038,east2295,http://concepticon.clld.org/parameters/1093,mit(n),"middle, center"
+195-1591,east2295,http://concepticon.clld.org/parameters/1093,center,"middle, center"
+195-1017,east2295,http://concepticon.clld.org/parameters/1019,rexts,right (side)
+195-1369,east2295,http://concepticon.clld.org/parameters/244,links,left (side)
+195-1484,east2295,http://concepticon.clld.org/parameters/1942,noent,near (adv)
+195-682,east2295,http://concepticon.clld.org/parameters/1406,vajt,far (adv)
+195-398,east2295,http://concepticon.clld.org/parameters/1877,mizrex,east
+195-1006,east2295,http://concepticon.clld.org/parameters/1817,majrev,west
+195-1077,east2295,http://concepticon.clld.org/parameters/1598,cofn,north
+195-1649,east2295,http://concepticon.clld.org/parameters/1595,dorem,south
+195-637,east2295,http://concepticon.clld.org/parameters/479,vaksn,grow
+195-792,east2295,http://concepticon.clld.org/parameters/1506,mestn,measure
+195-17,east2295,http://concepticon.clld.org/parameters/81,klafter,"span, fathom"
+195-1213,east2295,http://concepticon.clld.org/parameters/1202,grojs,"large, big"
+195-795,east2295,http://concepticon.clld.org/parameters/1246,klejn,"small, little"
+195-1290,east2295,http://concepticon.clld.org/parameters/1203,lang,long
+195-808,east2295,http://concepticon.clld.org/parameters/711,hojx,tall
+195-545,east2295,http://concepticon.clld.org/parameters/1645,kurc,short
+195-747,east2295,http://concepticon.clld.org/parameters/1243,brejt,"wide, broad"
+195-76,east2295,http://concepticon.clld.org/parameters/1267,eng,narrow
+195-532,east2295,http://concepticon.clld.org/parameters/1244,grob,thick (in dimension)
+195-452,east2295,http://concepticon.clld.org/parameters/1400,din,thin (in dimension)
+195-416,east2295,http://concepticon.clld.org/parameters/1593,tif,deep
+195-106,east2295,http://concepticon.clld.org/parameters/193,plačik,shallow
+195-1071,east2295,http://concepticon.clld.org/parameters/193,plitke,shallow
+195-953,east2295,http://concepticon.clld.org/parameters/1633,flax,flat
+195-106,east2295,http://concepticon.clld.org/parameters/1633,plačik,flat
+195-910,east2295,http://concepticon.clld.org/parameters/1404,glajx,straight
+195-866,east2295,http://concepticon.clld.org/parameters/297,krum,crooked
+195-442,east2295,http://concepticon.clld.org/parameters/1071,hok(n),hook
+195-629,east2295,http://concepticon.clld.org/parameters/192,vinkl,corner
+195-645,east2295,http://concepticon.clld.org/parameters/1367,cejlem,cross
+195-495,east2295,http://concepticon.clld.org/parameters/850,kva'drat,square
+195-1042,east2295,http://concepticon.clld.org/parameters/1395,'kajlex(d)ik,round
+195-432,east2295,http://concepticon.clld.org/parameters/1467,rod,circle
+195-1426,east2295,http://concepticon.clld.org/parameters/1467,krajz,circle
+195-465,east2295,http://concepticon.clld.org/parameters/1467,kajlexl,circle
+195-1569,east2295,http://concepticon.clld.org/parameters/1845,kajlex,"sphere, ball"
+195-462,east2295,http://concepticon.clld.org/parameters/1845,balem,"sphere, ball"
+195-673,east2295,http://concepticon.clld.org/parameters/1048,liɲe,line
+195-838,east2295,http://concepticon.clld.org/parameters/1667,lox,hole
+195-1575,east2295,http://concepticon.clld.org/parameters/1558,vi,"like, similar"
+195-910,east2295,http://concepticon.clld.org/parameters/1558,glajx,"like, similar"
+195-288,east2295,http://concepticon.clld.org/parameters/1558,enlex,"like, similar"
+195-336,east2295,http://concepticon.clld.org/parameters/1264,bajtn,change
+195-296,east2295,http://concepticon.clld.org/parameters/1294,(n)ulʸ,"zero, nothing"
+195-1252,east2295,http://concepticon.clld.org/parameters/1294,gorni(š)t,"zero, nothing"
+195-1594,east2295,http://concepticon.clld.org/parameters/1515,ejns,one
+195-318,east2295,http://concepticon.clld.org/parameters/1498,cvej,two
+195-1289,east2295,http://concepticon.clld.org/parameters/492,draj,three
+195-97,east2295,http://concepticon.clld.org/parameters/1500,fir,four
+195-1248,east2295,http://concepticon.clld.org/parameters/493,fin(e)f,five
+195-739,east2295,http://concepticon.clld.org/parameters/1703,zeks,six
+195-377,east2295,http://concepticon.clld.org/parameters/1704,zibn,seven
+195-654,east2295,http://concepticon.clld.org/parameters/1705,axt,eight
+195-409,east2295,http://concepticon.clld.org/parameters/1483,najn,nine
+195-758,east2295,http://concepticon.clld.org/parameters/1515,cen,ten
+195-122,east2295,http://concepticon.clld.org/parameters/1706,el(e)f,eleven
+195-868,east2295,http://concepticon.clld.org/parameters/1707,cvel(e)f,twelve
+195-1514,east2295,http://concepticon.clld.org/parameters/1709,fufcn,fifteen
+195-1508,east2295,http://concepticon.clld.org/parameters/1710,cvancik,twenty
+195-384,east2295,http://concepticon.clld.org/parameters/1710,cvoncik,twenty
+195-72,east2295,http://concepticon.clld.org/parameters/1634,hundert,hundred
+195-543,east2295,http://concepticon.clld.org/parameters/1843,tojznt,thousand
+195-1689,east2295,http://concepticon.clld.org/parameters/1420,cejln,count
+195-1144,east2295,http://concepticon.clld.org/parameters/98,jeder,"every, all"
+195-880,east2295,http://concepticon.clld.org/parameters/98,ale,"every, all"
+195-686,east2295,http://concepticon.clld.org/parameters/1198,a sax,"much, many"
+195-38,east2295,http://concepticon.clld.org/parameters/1992,mer,more
+195-568,east2295,http://concepticon.clld.org/parameters/1992,nox,more
+195-1387,east2295,http://concepticon.clld.org/parameters/1242,vejnik,"little (quantity), few"
+195-818,east2295,http://concepticon.clld.org/parameters/1242,vincik,"little (quantity), few"
+195-262,east2295,http://concepticon.clld.org/parameters/1881,genug,enough
+195-813,east2295,http://concepticon.clld.org/parameters/1241,a bisl,some
+195-892,east2295,http://concepticon.clld.org/parameters/1241,'etlexe,some
+195-1676,east2295,http://concepticon.clld.org/parameters/1241,epes,some
+195-1209,east2295,http://concepticon.clld.org/parameters/2023,ojlem,"multitude, crowd"
+195-703,east2295,http://concepticon.clld.org/parameters/2023,ha'mojn,"multitude, crowd"
+195-1178,east2295,http://concepticon.clld.org/parameters/1429,ful,full
+195-1547,east2295,http://concepticon.clld.org/parameters/1624,lejdik,empty
+195-1201,east2295,http://concepticon.clld.org/parameters/779,tejl,"part, piece"
+195-422,east2295,http://concepticon.clld.org/parameters/779,štik(l),"part, piece"
+195-567,east2295,http://concepticon.clld.org/parameters/816,halb,half
+195-577,east2295,http://concepticon.clld.org/parameters/816,helft,half
+195-1140,east2295,http://concepticon.clld.org/parameters/1580,a'lejn,"alone, only"
+195-571,east2295,http://concepticon.clld.org/parameters/1580,nor,"alone, only"
+195-583,east2295,http://concepticon.clld.org/parameters/1580,blojz,"alone, only"
+195-1509,east2295,http://concepticon.clld.org/parameters/728,eršt,first
+195-1400,east2295,http://concepticon.clld.org/parameters/1529,lect,last
+195-1256,east2295,http://concepticon.clld.org/parameters/1384,cvejt,second
+195-721,east2295,http://concepticon.clld.org/parameters/1888,por,pair
+195-1134,east2295,http://concepticon.clld.org/parameters/1546,cvej mol,two times
+195-311,east2295,http://concepticon.clld.org/parameters/1859,drit,third
+195-1495,east2295,http://concepticon.clld.org/parameters/417,draj mol,three times
+195-1171,east2295,http://concepticon.clld.org/parameters/892,cajt,time
+195-1447,east2295,http://concepticon.clld.org/parameters/1789,elter,age
+195-1281,east2295,http://concepticon.clld.org/parameters/1231,naj,new
+195-1681,east2295,http://concepticon.clld.org/parameters/1207,jung,young
+195-882,east2295,http://concepticon.clld.org/parameters/1229,alt,old
+195-272,east2295,http://concepticon.clld.org/parameters/672,fri,early
+195-1362,east2295,http://concepticon.clld.org/parameters/477,špet,late
+195-354,east2295,http://concepticon.clld.org/parameters/1376,ict,now
+195-542,east2295,http://concepticon.clld.org/parameters/1376,a'cind,now
+195-910,east2295,http://concepticon.clld.org/parameters/1963,glajx,immediately
+195-1666,east2295,http://concepticon.clld.org/parameters/1963,tejkef,immediately
+195-382,east2295,http://concepticon.clld.org/parameters/1631,gix,"swift, fast, quick"
+195-64,east2295,http://concepticon.clld.org/parameters/1631,geš'vind,"swift, fast, quick"
+195-1445,east2295,http://concepticon.clld.org/parameters/701,pamelex,slow
+195-108,east2295,http://concepticon.clld.org/parameters/701,pavolʸe,slow
+195-856,east2295,http://concepticon.clld.org/parameters/754,(h)ajln zix,"hasten, hurry"
+195-1299,east2295,http://concepticon.clld.org/parameters/425,far'haltn,"retard, delay"
+195-1206,east2295,http://concepticon.clld.org/parameters/425,ophaltn,"retard, delay"
+195-970,east2295,http://concepticon.clld.org/parameters/1806,onhejb,"begin, beginning"
+195-236,east2295,http://concepticon.clld.org/parameters/1186,gedojern,"last, endure"
+195-374,east2295,http://concepticon.clld.org/parameters/743,sof,end (temporal)
+195-1422,east2295,http://concepticon.clld.org/parameters/1766,endikn (zix),finish
+195-509,east2295,http://concepticon.clld.org/parameters/1928,ufhern,"cease, stop"
+195-701,east2295,http://concepticon.clld.org/parameters/790,grejt,ready
+195-456,east2295,http://concepticon.clld.org/parameters/790,fartik,ready
+195-1191,east2295,http://concepticon.clld.org/parameters/1676,ale mol,always
+195-732,east2295,http://concepticon.clld.org/parameters/1676,tomed,always
+195-1593,east2295,http://concepticon.clld.org/parameters/1852,oft,often
+195-1219,east2295,http://concepticon.clld.org/parameters/1852,a sax mol,often
+195-1090,east2295,http://concepticon.clld.org/parameters/1544,a mol,sometimes
+195-537,east2295,http://concepticon.clld.org/parameters/1544,tejl mol,sometimes
+195-1588,east2295,http://concepticon.clld.org/parameters/703,bald,soon
+195-576,east2295,http://concepticon.clld.org/parameters/703,in gixn,soon
+195-473,east2295,http://concepticon.clld.org/parameters/418,(šojn) lang,long-time (for a)
+195-831,east2295,http://concepticon.clld.org/parameters/418,a lange cajt,long-time (for a)
+195-1541,east2295,http://concepticon.clld.org/parameters/1656,kejn mol ni(š)t,never
+195-1259,east2295,http://concepticon.clld.org/parameters/204,nox a mol,again
+195-1062,east2295,http://concepticon.clld.org/parameters/204,vider a mol,again
+195-162,east2295,http://concepticon.clld.org/parameters/1260,tog,day
+195-379,east2295,http://concepticon.clld.org/parameters/1233,naxt,night
+195-506,east2295,http://concepticon.clld.org/parameters/729,baginen,dawn
+195-1025,east2295,http://concepticon.clld.org/parameters/729,kajor,dawn
+195-1396,east2295,http://concepticon.clld.org/parameters/729,fartog,dawn
+195-36,east2295,http://concepticon.clld.org/parameters/1339,inder'fri,morning
+195-1483,east2295,http://concepticon.clld.org/parameters/12,mitog,"noon, midday"
+195-711,east2295,http://concepticon.clld.org/parameters/1807,'noxmitog,afternoon
+195-143,east2295,http://concepticon.clld.org/parameters/1807,ba'tog,afternoon
+195-1444,east2295,http://concepticon.clld.org/parameters/1629,ovnt,evening
+195-177,east2295,http://concepticon.clld.org/parameters/1629,afder'naxt,evening
+195-197,east2295,http://concepticon.clld.org/parameters/1283,hajnt,today
+195-1057,east2295,http://concepticon.clld.org/parameters/1329,morgn,tomorrow
+195-1652,east2295,http://concepticon.clld.org/parameters/1179,iber morgn,day-after-tomorrow
+195-667,east2295,http://concepticon.clld.org/parameters/1174,nextn,yesterday
+195-297,east2295,http://concepticon.clld.org/parameters/1180,'ejernextn,day-before-yesterday
+195-802,east2295,http://concepticon.clld.org/parameters/1353,šo,hour
+195-1208,east2295,http://concepticon.clld.org/parameters/1323,zejger(l),"clock, timepiece"
+195-1188,east2295,http://concepticon.clld.org/parameters/1469,vox,week
+195-1263,east2295,http://concepticon.clld.org/parameters/1699,zuntik,Sunday
+195-466,east2295,http://concepticon.clld.org/parameters/1697,montik,Monday
+195-1673,east2295,http://concepticon.clld.org/parameters/1695,dinstik,Tuesday
+195-752,east2295,http://concepticon.clld.org/parameters/1694,mitvox,Wednesday
+195-1349,east2295,http://concepticon.clld.org/parameters/1693,'donerštik,Thursday
+195-928,east2295,http://concepticon.clld.org/parameters/1692,frajtik,Friday
+195-933,east2295,http://concepticon.clld.org/parameters/1700,šabes,Saturday
+195-1409,east2295,http://concepticon.clld.org/parameters/1370,xojdeš,month
+195-1528,east2295,http://concepticon.clld.org/parameters/1226,jor,year
+195-1423,east2295,http://concepticon.clld.org/parameters/1471,vinter,winter
+195-1359,east2295,http://concepticon.clld.org/parameters/1537,friling,spring
+195-413,east2295,http://concepticon.clld.org/parameters/1537,vesne,spring
+195-463,east2295,http://concepticon.clld.org/parameters/1342,zumer,summer
+195-1450,east2295,http://concepticon.clld.org/parameters/1276,harpst,autumn
+195-1571,east2295,http://concepticon.clld.org/parameters/1276,osʸen,autumn
+195-1264,east2295,http://concepticon.clld.org/parameters/691,cajt fun jor,season
+195-1675,east2295,http://concepticon.clld.org/parameters/1587,šmekn,smell (vb intrans)
+195-118,east2295,http://concepticon.clld.org/parameters/375,ɲuxen,sniff
+195-120,east2295,http://concepticon.clld.org/parameters/375,smoren,sniff
+195-1165,east2295,http://concepticon.clld.org/parameters/375,šnapn,sniff
+195-1675,east2295,http://concepticon.clld.org/parameters/1586,šmekn,smell (vb trans)
+195-1512,east2295,http://concepticon.clld.org/parameters/376,'šmekedik,"fragrant, good smelling"
+195-1073,east2295,http://concepticon.clld.org/parameters/42,farštunken,"stinking, bad smelling"
+195-1375,east2295,http://concepticon.clld.org/parameters/21,tam,taste
+195-1348,east2295,http://concepticon.clld.org/parameters/717,zis,sweet
+195-834,east2295,http://concepticon.clld.org/parameters/1091,ge'zalcn,salty
+195-521,east2295,http://concepticon.clld.org/parameters/887,biter,bitter
+195-980,east2295,http://concepticon.clld.org/parameters/1906,zojer,"acid, sour"
+195-1563,east2295,http://concepticon.clld.org/parameters/70,halb ge'zalcn,brackish
+195-32,east2295,http://concepticon.clld.org/parameters/1408,hern,hear
+195-787,east2295,http://concepticon.clld.org/parameters/1608,cuhern zix,listen
+195-847,east2295,http://concepticon.clld.org/parameters/1608,ajnhern zix,listen
+195-1539,east2295,http://concepticon.clld.org/parameters/1811,klang,"sound, noise"
+195-455,east2295,http://concepticon.clld.org/parameters/1811,tuml,"sound, noise"
+195-808,east2295,http://concepticon.clld.org/parameters/377,hojx,loud
+195-783,east2295,http://concepticon.clld.org/parameters/377,šrajik,loud
+195-1614,east2295,http://concepticon.clld.org/parameters/1314,štil,"quiet, silence"
+195-641,east2295,http://concepticon.clld.org/parameters/1314,štilkejt,"quiet, silence"
+195-95,east2295,http://concepticon.clld.org/parameters/1409,zen,see
+195-1577,east2295,http://concepticon.clld.org/parameters/1819,kukn,"look, look at"
+195-1683,east2295,http://concepticon.clld.org/parameters/1039,vajzn,show
+195-69,east2295,http://concepticon.clld.org/parameters/708,šajnen,shine
+195-1392,east2295,http://concepticon.clld.org/parameters/679,lixtik,bright
+195-392,east2295,http://concepticon.clld.org/parameters/679,glancik,bright
+195-710,east2295,http://concepticon.clld.org/parameters/1613,ko'lir,color
+195-837,east2295,http://concepticon.clld.org/parameters/250,hel,light (in color)
+195-776,east2295,http://concepticon.clld.org/parameters/706,tunkl,dark (in color)
+195-683,east2295,http://concepticon.clld.org/parameters/1335,vajs,white
+195-1148,east2295,http://concepticon.clld.org/parameters/163,švarc,black
+195-1401,east2295,http://concepticon.clld.org/parameters/156,rojt,red
+195-767,east2295,http://concepticon.clld.org/parameters/837,blo(j),blue
+195-796,east2295,http://concepticon.clld.org/parameters/1425,grin,green
+195-684,east2295,http://concepticon.clld.org/parameters/1424,gel,yellow
+195-956,east2295,http://concepticon.clld.org/parameters/1892,(on) rirn,touch
+195-209,east2295,http://concepticon.clld.org/parameters/378,knajpn,pinch
+195-862,east2295,http://concepticon.clld.org/parameters/1079,filn,feel
+195-477,east2295,http://concepticon.clld.org/parameters/1884,hart,hard
+195-315,east2295,http://concepticon.clld.org/parameters/1856,vejx,soft
+195-832,east2295,http://concepticon.clld.org/parameters/1923,šorstik,rough
+195-1527,east2295,http://concepticon.clld.org/parameters/1234,glat(ik),smooth
+195-588,east2295,http://concepticon.clld.org/parameters/1396,šarf,sharp
+195-1662,east2295,http://concepticon.clld.org/parameters/379,temp,"blunt, dull"
+195-592,east2295,http://concepticon.clld.org/parameters/1210,šver,heavy
+195-815,east2295,http://concepticon.clld.org/parameters/1052,lajxt,light (in weight)
+195-1198,east2295,http://concepticon.clld.org/parameters/1052,gring,light (in weight)
+195-1125,east2295,http://concepticon.clld.org/parameters/1726,nas,"wet, damp"
+195-1199,east2295,http://concepticon.clld.org/parameters/1726,fajxt,"wet, damp"
+195-1293,east2295,http://concepticon.clld.org/parameters/1398,trukn,dry
+195-1229,east2295,http://concepticon.clld.org/parameters/1286,hejs,hot
+195-1048,east2295,http://concepticon.clld.org/parameters/1232,varem,warm
+195-322,east2295,http://concepticon.clld.org/parameters/1287,kalt,cold
+195-130,east2295,http://concepticon.clld.org/parameters/704,rejn,clean
+195-1416,east2295,http://concepticon.clld.org/parameters/704,zojber,clean
+195-897,east2295,http://concepticon.clld.org/parameters/1230,kojtik,"dirty, soiled"
+195-128,east2295,http://concepticon.clld.org/parameters/1230,šmucik,"dirty, soiled"
+195-1023,east2295,http://concepticon.clld.org/parameters/1230,'ajngerixt,"dirty, soiled"
+195-53,east2295,http://concepticon.clld.org/parameters/380,fark'nejčt,wrinkled
+195-510,east2295,http://concepticon.clld.org/parameters/380,cek'nejčt,wrinkled
+195-132,east2295,http://concepticon.clld.org/parameters/53,nešome,"soul, spirit"
+195-231,east2295,http://concepticon.clld.org/parameters/53,gajst,"soul, spirit"
+195-1679,east2295,http://concepticon.clld.org/parameters/1572,farxidešt,"surprised, astonished"
+195-214,east2295,http://concepticon.clld.org/parameters/1572,farvundert,"surprised, astonished"
+195-1653,east2295,http://concepticon.clld.org/parameters/720,mazl,"good fortune, luck"
+195-810,east2295,http://concepticon.clld.org/parameters/56,šli'mazl,"misfortune, bad luck"
+195-1304,east2295,http://concepticon.clld.org/parameters/1495,frejlex,"joyful, glad, happy"
+195-1351,east2295,http://concepticon.clld.org/parameters/1495,gliklex,"joyful, glad, happy"
+195-1131,east2295,http://concepticon.clld.org/parameters/1495,mole-simxe,"joyful, glad, happy"
+195-502,east2295,http://concepticon.clld.org/parameters/1355,laxn,laugh
+195-1567,east2295,http://concepticon.clld.org/parameters/1451,šmejxlen,smile
+195-1255,east2295,http://concepticon.clld.org/parameters/1413,špiln (zix),play
+195-1222,east2295,http://concepticon.clld.org/parameters/923,lib hobn,love
+195-716,east2295,http://concepticon.clld.org/parameters/578,kušn,kiss
+195-234,east2295,http://concepticon.clld.org/parameters/928,haldzn,embrace
+195-1612,east2295,http://concepticon.clld.org/parameters/928,a'rumnemen,embrace
+195-827,east2295,http://concepticon.clld.org/parameters/1783,veytik,pain
+195-636,east2295,http://concepticon.clld.org/parameters/1668,trojer,"grief, sorrow, sadness"
+195-349,east2295,http://concepticon.clld.org/parameters/1668,umet,"grief, sorrow, sadness"
+195-515,east2295,http://concepticon.clld.org/parameters/1668,car,"grief, sorrow, sadness"
+195-244,east2295,http://concepticon.clld.org/parameters/1000,dajge,"anxiety, worry"
+195-946,east2295,http://concepticon.clld.org/parameters/1000,zorg,"anxiety, worry"
+195-243,east2295,http://concepticon.clld.org/parameters/1000,umru,"anxiety, worry"
+195-1328,east2295,http://concepticon.clld.org/parameters/1875,bang ton,"regret, be sorry"
+195-1488,east2295,http://concepticon.clld.org/parameters/1875,xarote hobn,"regret, be sorry"
+195-528,east2295,http://concepticon.clld.org/parameters/1141,raxmones,pity
+195-1137,east2295,http://concepticon.clld.org/parameters/1839,vejnen,"cry, weep"
+195-173,east2295,http://concepticon.clld.org/parameters/1651,trer,tear (noun)
+195-70,east2295,http://concepticon.clld.org/parameters/716,krexcn,groan
+195-1520,east2295,http://concepticon.clld.org/parameters/1607,fajnt hobn,hate
+195-1084,east2295,http://concepticon.clld.org/parameters/82,kas,anger
+195-1163,east2295,http://concepticon.clld.org/parameters/82,brojges,anger
+195-1054,east2295,http://concepticon.clld.org/parameters/40,kine,"envy, jealousy"
+195-1118,east2295,http://concepticon.clld.org/parameters/40,'ejferzuxt,"envy, jealousy"
+195-777,east2295,http://concepticon.clld.org/parameters/1776,buše,shame (noun)
+195-1501,east2295,http://concepticon.clld.org/parameters/1776,xarpe,shame (noun)
+195-223,east2295,http://concepticon.clld.org/parameters/174,štolc,proud
+195-563,east2295,http://concepticon.clld.org/parameters/1779,dervegn zix,dare
+195-887,east2295,http://concepticon.clld.org/parameters/3,baharct,brave
+195-998,east2295,http://concepticon.clld.org/parameters/781,mojre,"fear, fright"
+195-745,east2295,http://concepticon.clld.org/parameters/781,paxed,"fear, fright"
+195-925,east2295,http://concepticon.clld.org/parameters/1810,sakone,danger
+195-1316,east2295,http://concepticon.clld.org/parameters/1784,veln,"desire, want"
+195-826,east2295,http://concepticon.clld.org/parameters/1784,garn,"desire, want"
+195-885,east2295,http://concepticon.clld.org/parameters/1750,ojsklajbn,choose
+195-1081,east2295,http://concepticon.clld.org/parameters/1092,hofn,hope
+195-1363,east2295,http://concepticon.clld.org/parameters/100,ge'traj,faithful
+195-24,east2295,http://concepticon.clld.org/parameters/1657,'emes(dik),true
+195-712,east2295,http://concepticon.clld.org/parameters/601,lajgn,"lie, tell lies"
+195-411,east2295,http://concepticon.clld.org/parameters/601,lign zogn,"lie, tell lies"
+195-768,east2295,http://concepticon.clld.org/parameters/13,opnar(n),deceit
+195-806,east2295,http://concepticon.clld.org/parameters/1528,mojxl zajn,forgive
+195-460,east2295,http://concepticon.clld.org/parameters/1035,gut,good
+195-367,east2295,http://concepticon.clld.org/parameters/1292,šlext,bad
+195-702,east2295,http://concepticon.clld.org/parameters/1725,rixtik,"right, correct"
+195-1592,east2295,http://concepticon.clld.org/parameters/1725,rext,"right, correct"
+195-1510,east2295,http://concepticon.clld.org/parameters/1725,ko'rekt,"right, correct"
+195-353,east2295,http://concepticon.clld.org/parameters/1390,'umrixtik,wrong
+195-1089,east2295,http://concepticon.clld.org/parameters/1390,umrext,wrong
+195-1455,east2295,http://concepticon.clld.org/parameters/1390,'umkorekt,wrong
+195-414,east2295,http://concepticon.clld.org/parameters/134,šuld,fault
+195-929,east2295,http://concepticon.clld.org/parameters/1293,toes,"mistake, error"
+195-1623,east2295,http://concepticon.clld.org/parameters/1293,grajz,"mistake, error"
+195-414,east2295,http://concepticon.clld.org/parameters/381,šuld,blame
+195-1353,east2295,http://concepticon.clld.org/parameters/1687,lojbn,praise
+195-146,east2295,http://concepticon.clld.org/parameters/1427,šejn,beautiful
+195-1525,east2295,http://concepticon.clld.org/parameters/1548,mies,ugly
+195-1105,east2295,http://concepticon.clld.org/parameters/2018,žedne,greedy
+195-1177,east2295,http://concepticon.clld.org/parameters/2018,gajcik,greedy
+195-41,east2295,http://concepticon.clld.org/parameters/1310,klug,clever
+195-1058,east2295,http://concepticon.clld.org/parameters/1562,mojex,mind
+195-496,east2295,http://concepticon.clld.org/parameters/1562,zinen,mind
+195-1087,east2295,http://concepticon.clld.org/parameters/1562,ge'dank,mind
+195-1428,east2295,http://concepticon.clld.org/parameters/1562,mejnung,mind
+195-1655,east2295,http://concepticon.clld.org/parameters/1415,traxtn,think (= reflect)
+195-816,east2295,http://concepticon.clld.org/parameters/1513,mejnen,think (= be of the opinion)
+195-365,east2295,http://concepticon.clld.org/parameters/1890,glejbn,believe
+195-939,east2295,http://concepticon.clld.org/parameters/1536,far'štejn,understand
+195-1482,east2295,http://concepticon.clld.org/parameters/1410,visn,know
+195-1456,east2295,http://concepticon.clld.org/parameters/1932,trefn,guess
+195-1616,east2295,http://concepticon.clld.org/parameters/1932,rotn,guess
+195-1458,east2295,http://concepticon.clld.org/parameters/117,noxmaxn,imitate
+195-161,east2295,http://concepticon.clld.org/parameters/117,'noxkrimen,imitate
+195-1324,east2295,http://concepticon.clld.org/parameters/1521,daxtn zix,seem
+195-1087,east2295,http://concepticon.clld.org/parameters/1609,ge'dank,"idea, notion"
+195-352,east2295,http://concepticon.clld.org/parameters/1609,rajen,"idea, notion"
+195-41,east2295,http://concepticon.clld.org/parameters/698,klug,wise
+195-965,east2295,http://concepticon.clld.org/parameters/698,xoxem,wise
+195-1449,east2295,http://concepticon.clld.org/parameters/1518,nariš,"foolish, stupid"
+195-1319,east2295,http://concepticon.clld.org/parameters/1899,mešuge,"insane, crazy"
+195-658,east2295,http://concepticon.clld.org/parameters/1899,meturef,"insane, crazy"
+195-746,east2295,http://concepticon.clld.org/parameters/504,('ojs)lernen (zix),learn
+195-1648,east2295,http://concepticon.clld.org/parameters/1929,lernen (zix),study
+195-449,east2295,http://concepticon.clld.org/parameters/1929,štu'dirn,study
+195-426,east2295,http://concepticon.clld.org/parameters/709,lernen,teach
+195-504,east2295,http://concepticon.clld.org/parameters/709,lerern,teach
+195-178,east2295,http://concepticon.clld.org/parameters/753,talmed,pupil
+195-235,east2295,http://concepticon.clld.org/parameters/1038,lerer,teacher
+195-874,east2295,http://concepticon.clld.org/parameters/1038,melamed,teacher
+195-117,east2295,http://concepticon.clld.org/parameters/673,šul,school
+195-345,east2295,http://concepticon.clld.org/parameters/673,xejder,school
+195-1437,east2295,http://concepticon.clld.org/parameters/707,gedenken,remember
+195-1429,east2295,http://concepticon.clld.org/parameters/707,dermonen zix,remember
+195-366,east2295,http://concepticon.clld.org/parameters/1523,far'gesn,forget
+195-1608,east2295,http://concepticon.clld.org/parameters/989,klor,"clear, plain"
+195-1049,east2295,http://concepticon.clld.org/parameters/1764,umklor,obscure
+195-983,east2295,http://concepticon.clld.org/parameters/1764,nepldik,obscure
+195-1425,east2295,http://concepticon.clld.org/parameters/1121,sod,secret
+195-206,east2295,http://concepticon.clld.org/parameters/1121,besodik,secret
+195-1599,east2295,http://concepticon.clld.org/parameters/509,zixer,"sure, certain"
+195-605,east2295,http://concepticon.clld.org/parameters/509,gevis,"sure, certain"
+195-1234,east2295,http://concepticon.clld.org/parameters/1626,gebn cu far'štejn,explain
+195-475,east2295,http://concepticon.clld.org/parameters/1626,der'klern,explain
+195-94,east2295,http://concepticon.clld.org/parameters/1162,kivn,"intention, purpose"
+195-1271,east2295,http://concepticon.clld.org/parameters/1162,cil,"intention, purpose"
+195-1152,east2295,http://concepticon.clld.org/parameters/860,gojrem,cause
+195-378,east2295,http://concepticon.clld.org/parameters/1308,sofek,doubt
+195-1660,east2295,http://concepticon.clld.org/parameters/1841,xojšed zajn,suspect
+195-476,east2295,http://concepticon.clld.org/parameters/1902,bojged zajn,betray
+195-1544,east2295,http://concepticon.clld.org/parameters/1902,far'ratn,betray
+195-1417,east2295,http://concepticon.clld.org/parameters/643,nojt,"need, necessity"
+195-1107,east2295,http://concepticon.clld.org/parameters/643,'nejtikajt,"need, necessity"
+195-1276,east2295,http://concepticon.clld.org/parameters/643,ba'derfeniš,"need, necessity"
+195-1198,east2295,http://concepticon.clld.org/parameters/686,gring,easy
+195-815,east2295,http://concepticon.clld.org/parameters/686,lajxt,easy
+195-592,east2295,http://concepticon.clld.org/parameters/584,šver,difficult
+195-464,east2295,http://concepticon.clld.org/parameters/1812,pruvn,"try, attempt"
+195-101,east2295,http://concepticon.clld.org/parameters/1812,pru'birn,"try, attempt"
+195-342,east2295,http://concepticon.clld.org/parameters/488,ojfn,"way, manner"
+195-1273,east2295,http://concepticon.clld.org/parameters/1577,un,and
+195-674,east2295,http://concepticon.clld.org/parameters/1157,vajl,because
+195-497,east2295,http://concepticon.clld.org/parameters/1157,vorem,because
+195-859,east2295,http://concepticon.clld.org/parameters/1157,vorn,because
+195-1103,east2295,http://concepticon.clld.org/parameters/1459,ojb,if
+195-860,east2295,http://concepticon.clld.org/parameters/1459,az,if
+195-725,east2295,http://concepticon.clld.org/parameters/1014,oder,or
+195-718,east2295,http://concepticon.clld.org/parameters/1268,jo,"yes, affirmative"
+195-139,east2295,http://concepticon.clld.org/parameters/1268,afirma'tiv,"yes, affirmative"
+195-1388,east2295,http://concepticon.clld.org/parameters/1269,nejn,"no, negative"
+195-431,east2295,http://concepticon.clld.org/parameters/1269,nega'tiv,"no, negative"
+195-786,east2295,http://concepticon.clld.org/parameters/1239,vi (azoj),how?
+195-133,east2295,http://concepticon.clld.org/parameters/822,vifl,how many?
+195-133,east2295,http://concepticon.clld.org/parameters/531,vifl,how much?
+195-1186,east2295,http://concepticon.clld.org/parameters/1236,vos,what?
+195-443,east2295,http://concepticon.clld.org/parameters/1238,ven,when?
+195-1579,east2295,http://concepticon.clld.org/parameters/1237,vu,where?
+195-971,east2295,http://concepticon.clld.org/parameters/727,voser,which?
+195-1439,east2295,http://concepticon.clld.org/parameters/727,velxer,which?
+195-935,east2295,http://concepticon.clld.org/parameters/1235,ver,who?
+195-1196,east2295,http://concepticon.clld.org/parameters/1270,far vos,why?
+195-1037,east2295,http://concepticon.clld.org/parameters/1363,kol,voice
+195-1613,east2295,http://concepticon.clld.org/parameters/1363,štim,voice
+195-1533,east2295,http://concepticon.clld.org/parameters/1261,zingen,sing
+195-493,east2295,http://concepticon.clld.org/parameters/715,šrajen,"shout, cry out"
+195-587,east2295,http://concepticon.clld.org/parameters/715,ojsrufn,"shout, cry out"
+195-483,east2295,http://concepticon.clld.org/parameters/55,šušken,whisper
+195-1629,east2295,http://concepticon.clld.org/parameters/55,šepčen,whisper
+195-616,east2295,http://concepticon.clld.org/parameters/128,beben,mumble
+195-1352,east2295,http://concepticon.clld.org/parameters/1025,fajfn,whistle
+195-765,east2295,http://concepticon.clld.org/parameters/298,kvičen,"shriek, screech"
+195-1570,east2295,http://concepticon.clld.org/parameters/526,vojen,howl
+195-396,east2295,http://concepticon.clld.org/parameters/526,reven,howl
+195-1345,east2295,http://concepticon.clld.org/parameters/1623,redn,"speak, talk"
+195-356,east2295,http://concepticon.clld.org/parameters/1866,štamlen,"stutter, stammer"
+195-1686,east2295,http://concepticon.clld.org/parameters/1866,hiken,"stutter, stammer"
+195-226,east2295,http://concepticon.clld.org/parameters/1458,zogn,say
+195-418,east2295,http://concepticon.clld.org/parameters/1711,der'cejln,tell story
+195-387,east2295,http://concepticon.clld.org/parameters/1711,far'cejln,tell story
+195-87,east2295,http://concepticon.clld.org/parameters/1115,rede (haltn a),speech (make a)
+195-1614,east2295,http://concepticon.clld.org/parameters/48,štil,silent (be)
+195-1442,east2295,http://concepticon.clld.org/parameters/48,švajgn,silent (be)
+195-968,east2295,http://concepticon.clld.org/parameters/1307,lošn,language
+195-1646,east2295,http://concepticon.clld.org/parameters/1307,šprax,language
+195-857,east2295,http://concepticon.clld.org/parameters/1599,vort,word
+195-444,east2295,http://concepticon.clld.org/parameters/1405,nomen,name
+195-561,east2295,http://concepticon.clld.org/parameters/1309,fregn,"ask (question, inquire)"
+195-635,east2295,http://concepticon.clld.org/parameters/1275,en(t)fer,answer
+195-1503,east2295,http://concepticon.clld.org/parameters/1275,čuve,answer
+195-734,east2295,http://concepticon.clld.org/parameters/2022,mojde zajn,"admit, confess"
+195-1224,east2295,http://concepticon.clld.org/parameters/2022,cugebn,"admit, confess"
+195-350,east2295,http://concepticon.clld.org/parameters/755,'lejkenen,deny
+195-652,east2295,http://concepticon.clld.org/parameters/1828,betn,"ask, request"
+195-1314,east2295,http://concepticon.clld.org/parameters/1675,cuzogn,promise
+195-1185,east2295,http://concepticon.clld.org/parameters/49,opzogn,refuse
+195-664,east2295,http://concepticon.clld.org/parameters/83,far'vern,forbid
+195-150,east2295,http://concepticon.clld.org/parameters/299,firhaltn,"rebuke, scold"
+195-1628,east2295,http://concepticon.clld.org/parameters/299,ojsvarfn,"rebuke, scold"
+195-424,east2295,http://concepticon.clld.org/parameters/299,ojsredn,"rebuke, scold"
+195-1297,east2295,http://concepticon.clld.org/parameters/299,firvarfn,"rebuke, scold"
+195-1216,east2295,http://concepticon.clld.org/parameters/1084,rufn,call (=summon)
+195-999,east2295,http://concepticon.clld.org/parameters/180,(on)rufn,call (=name)
+195-869,east2295,http://concepticon.clld.org/parameters/9,onzogn,announce
+195-198,east2295,http://concepticon.clld.org/parameters/9,mojdije zajn,announce
+195-879,east2295,http://concepticon.clld.org/parameters/1192,strašen,threaten
+195-843,east2295,http://concepticon.clld.org/parameters/1192,šteln in sakone,threaten
+195-1020,east2295,http://concepticon.clld.org/parameters/101,barimen zix,boast
+195-142,east2295,http://concepticon.clld.org/parameters/1672,šrajbn,write
+195-715,east2295,http://concepticon.clld.org/parameters/724,'lej(e)nen,read
+195-1283,east2295,http://concepticon.clld.org/parameters/648,pa'pir,paper
+195-1242,east2295,http://concepticon.clld.org/parameters/794,pen,pen
+195-1625,east2295,http://concepticon.clld.org/parameters/794,feder,pen
+195-109,east2295,http://concepticon.clld.org/parameters/963,bixl,book
+195-1656,east2295,http://concepticon.clld.org/parameters/963,bux,book
+195-1247,east2295,http://concepticon.clld.org/parameters/963,sejfer,book
+195-546,east2295,http://concepticon.clld.org/parameters/1045,po'et,poet
+195-1018,east2295,http://concepticon.clld.org/parameters/777,flejt,flute
+195-1404,east2295,http://concepticon.clld.org/parameters/908,pojk,drum
+195-18,east2295,http://concepticon.clld.org/parameters/2136,horn,"horn, trumpet"
+195-1617,east2295,http://concepticon.clld.org/parameters/2136,tru'mejt,"horn, trumpet"
+195-1651,east2295,http://concepticon.clld.org/parameters/300,kalekotke,rattle
+195-1467,east2295,http://concepticon.clld.org/parameters/300,grager,rattle
+195-1292,east2295,http://concepticon.clld.org/parameters/1300,land,country
+195-779,east2295,http://concepticon.clld.org/parameters/89,hejmland,one's native country
+195-381,east2295,http://concepticon.clld.org/parameters/1391,štot,"city, town"
+195-770,east2295,http://concepticon.clld.org/parameters/1391,štetl,"city, town"
+195-263,east2295,http://concepticon.clld.org/parameters/930,dorf,village
+195-368,east2295,http://concepticon.clld.org/parameters/1010,grenec,boundary
+195-1076,east2295,http://concepticon.clld.org/parameters/789,folk,people (populace)
+195-937,east2295,http://concepticon.clld.org/parameters/789,menčn,people (populace)
+195-640,east2295,http://concepticon.clld.org/parameters/302,šejvet,"tribe, clan"
+195-1386,east2295,http://concepticon.clld.org/parameters/302,klan,"tribe, clan"
+195-730,east2295,http://concepticon.clld.org/parameters/301,roš,"chief, chieftain"
+195-267,east2295,http://concepticon.clld.org/parameters/301,šef,"chief, chieftain"
+195-754,east2295,http://concepticon.clld.org/parameters/1296,štekn,"staff, walking stick"
+195-1364,east2295,http://concepticon.clld.org/parameters/1846,re'girn,"rule, govern"
+195-1421,east2295,http://concepticon.clld.org/parameters/1846,geveltikn,"rule, govern"
+195-304,east2295,http://concepticon.clld.org/parameters/1508,mejlex,"king, ruler"
+195-1536,east2295,http://concepticon.clld.org/parameters/1508,mojšl,"king, ruler"
+195-1028,east2295,http://concepticon.clld.org/parameters/1306,malke,queen
+195-1459,east2295,http://concepticon.clld.org/parameters/482,adlman,"noble, nobleman"
+195-612,east2295,http://concepticon.clld.org/parameters/482,porec,"noble, nobleman"
+195-845,east2295,http://concepticon.clld.org/parameters/1032,birger,"citizen, subject"
+195-574,east2295,http://concepticon.clld.org/parameters/1032,'untertaner,"citizen, subject"
+195-936,east2295,http://concepticon.clld.org/parameters/383,bale'bos,master
+195-3,east2295,http://concepticon.clld.org/parameters/812,šklaf,slave
+195-1044,east2295,http://concepticon.clld.org/parameters/812,knext,slave
+195-91,east2295,http://concepticon.clld.org/parameters/255,mešores,servant
+195-556,east2295,http://concepticon.clld.org/parameters/255,badiner,servant
+195-1360,east2295,http://concepticon.clld.org/parameters/384,frajer (menč),freeman
+195-1688,east2295,http://concepticon.clld.org/parameters/384,frajer birger,freeman
+195-755,east2295,http://concepticon.clld.org/parameters/1128,ba'feln,"command, order"
+195-329,east2295,http://concepticon.clld.org/parameters/1128,koman'dirn,"command, order"
+195-1443,east2295,http://concepticon.clld.org/parameters/1635,folgn,obey
+195-1489,east2295,http://concepticon.clld.org/parameters/1003,(der)'lozn,"let, permit"
+195-1561,east2295,http://concepticon.clld.org/parameters/1003,gebn re'šus,"let, permit"
+195-253,east2295,http://concepticon.clld.org/parameters/1325,xaver,"friend, companion"
+195-1395,east2295,http://concepticon.clld.org/parameters/1325,(guter-)'frajnd,"friend, companion"
+195-1669,east2295,http://concepticon.clld.org/parameters/1358,sojne,enemy
+195-383,east2295,http://concepticon.clld.org/parameters/1332,šoxn,neighbor
+195-706,east2295,http://concepticon.clld.org/parameters/791,fremder,stranger
+195-979,east2295,http://concepticon.clld.org/parameters/1782,gast,guest
+195-31,east2295,http://concepticon.clld.org/parameters/1545,'gastgeber,host
+195-1670,east2295,http://concepticon.clld.org/parameters/1545,maxnes-ojrex,host
+195-1622,east2295,http://concepticon.clld.org/parameters/1897,helfn,"help, aid"
+195-1469,east2295,http://concepticon.clld.org/parameters/1550,štern,"hinder, prevent"
+195-1310,east2295,http://concepticon.clld.org/parameters/1747,mineg,custom
+195-1104,east2295,http://concepticon.clld.org/parameters/1848,krig (e'raj),"strife, quarrel"
+195-137,east2295,http://concepticon.clld.org/parameters/2024,faršverung,"conspiracy, plot"
+195-1331,east2295,http://concepticon.clld.org/parameters/2024,kom'plot,"conspiracy, plot"
+195-1194,east2295,http://concepticon.clld.org/parameters/1831,ba'gegenen,meet
+195-1307,east2295,http://concepticon.clld.org/parameters/1610,prostitutke,prostitute
+195-774,east2295,http://concepticon.clld.org/parameters/1423,šlogn zix,fight (vb)
+195-1580,east2295,http://concepticon.clld.org/parameters/579,milxome,"war, battle"
+195-1146,east2295,http://concepticon.clld.org/parameters/579,šlaxt,"war, battle"
+195-5,east2295,http://concepticon.clld.org/parameters/1338,šolem,peace
+195-1265,east2295,http://concepticon.clld.org/parameters/1338,fridn,peace
+195-1240,east2295,http://concepticon.clld.org/parameters/1561,ar'mej,army
+195-167,east2295,http://concepticon.clld.org/parameters/1941,zelner,soldier
+195-1492,east2295,http://concepticon.clld.org/parameters/1941,sol'dat,soldier
+195-96,east2295,http://concepticon.clld.org/parameters/951,gever,"weapons, arms"
+195-549,east2295,http://concepticon.clld.org/parameters/1763,flokn,club
+195-754,east2295,http://concepticon.clld.org/parameters/1763,štekn,club
+195-1098,east2295,http://concepticon.clld.org/parameters/386,krigshak,battle-ax
+195-1170,east2295,http://concepticon.clld.org/parameters/387,varflke,sling
+195-212,east2295,http://concepticon.clld.org/parameters/387,kacepulʸke,sling
+195-949,east2295,http://concepticon.clld.org/parameters/994,bojgn,bow
+195-646,east2295,http://concepticon.clld.org/parameters/977,fajl,arrow
+195-907,east2295,http://concepticon.clld.org/parameters/945,špiz,spear
+195-103,east2295,http://concepticon.clld.org/parameters/1535,šverd,sword
+195-6,east2295,http://concepticon.clld.org/parameters/1566,biks,"gun, cannon"
+195-1408,east2295,http://concepticon.clld.org/parameters/1566,har'mat,"gun, cannon"
+195-992,east2295,http://concepticon.clld.org/parameters/1061,pancer,armor (defensive)
+195-1435,east2295,http://concepticon.clld.org/parameters/1680,kaske,helmet
+195-151,east2295,http://concepticon.clld.org/parameters/1680,kiver,helmet
+195-1663,east2295,http://concepticon.clld.org/parameters/1064,šild,shield
+195-789,east2295,http://concepticon.clld.org/parameters/1938,festung,fortress
+195-1480,east2295,http://concepticon.clld.org/parameters/1671,tojer,tower
+195-1,east2295,http://concepticon.clld.org/parameters/783,ni'coxn,victory
+195-1280,east2295,http://concepticon.clld.org/parameters/782,mapole,defeat
+195-1519,east2295,http://concepticon.clld.org/parameters/722,a'tak(e),attack
+195-135,east2295,http://concepticon.clld.org/parameters/722,onfal,attack
+195-1287,east2295,http://concepticon.clld.org/parameters/1330,fartejdikn,defend
+195-962,east2295,http://concepticon.clld.org/parameters/421,optretn,retreat
+195-1477,east2295,http://concepticon.clld.org/parameters/421,cu'rikcijen zix,retreat
+195-241,east2295,http://concepticon.clld.org/parameters/1696,'untergebn zix,surrender
+195-218,east2295,http://concepticon.clld.org/parameters/1072,plʸenik,"captive, prisoner"
+195-643,east2295,http://concepticon.clld.org/parameters/1072,ge'fangener,"captive, prisoner"
+195-195,east2295,http://concepticon.clld.org/parameters/1940,šojmer,"guard, sentinel"
+195-564,east2295,http://concepticon.clld.org/parameters/1940,vexter,"guard, sentinel"
+195-1398,east2295,http://concepticon.clld.org/parameters/1022,rojb,"booty, spoils"
+195-1685,east2295,http://concepticon.clld.org/parameters/65,loker,ambush
+195-1434,east2295,http://concepticon.clld.org/parameters/65,ambuskade,ambush
+195-800,east2295,http://concepticon.clld.org/parameters/65,'iberfal,ambush
+195-1379,east2295,http://concepticon.clld.org/parameters/1858,fišer,fisherman
+195-921,east2295,http://concepticon.clld.org/parameters/1074,hačik,fishhook
+195-1260,east2295,http://concepticon.clld.org/parameters/19,ventke,fishing line
+195-914,east2295,http://concepticon.clld.org/parameters/388,fišnec,fishnet
+195-1517,east2295,http://concepticon.clld.org/parameters/389,'fišpastke,fish trap
+195-750,east2295,http://concepticon.clld.org/parameters/2013,cišpajz,bait
+195-359,east2295,http://concepticon.clld.org/parameters/1435,gejn af ge'jeg,hunt
+195-298,east2295,http://concepticon.clld.org/parameters/1172,šisn,shoot
+195-1585,east2295,http://concepticon.clld.org/parameters/161,far'šisn,miss (target)
+195-42,east2295,http://concepticon.clld.org/parameters/1075,pastke,trap (noun)
+195-407,east2295,http://concepticon.clld.org/parameters/1170,xapn/ pakn,trap (vb)
+195-1511,east2295,http://concepticon.clld.org/parameters/1062,ge'zec,law
+195-452,east2295,http://concepticon.clld.org/parameters/1062,din,law
+195-480,east2295,http://concepticon.clld.org/parameters/1062,ju'ri,law
+195-1626,east2295,http://concepticon.clld.org/parameters/1068,ge'rixt,court
+195-1344,east2295,http://concepticon.clld.org/parameters/1068,bez(d)n,court
+195-84,east2295,http://concepticon.clld.org/parameters/1818,mišpetn,judge (vb)
+195-1493,east2295,http://concepticon.clld.org/parameters/1067,mišpet,judgment
+195-704,east2295,http://concepticon.clld.org/parameters/1067,psak,judgment
+195-192,east2295,http://concepticon.clld.org/parameters/861,rixter,judge (noun)
+195-1470,east2295,http://concepticon.clld.org/parameters/861,dajen,judge (noun)
+195-1540,east2295,http://concepticon.clld.org/parameters/2020,tojveje,plaintiff
+195-1654,east2295,http://concepticon.clld.org/parameters/2020,'onkloger,plaintiff
+195-1035,east2295,http://concepticon.clld.org/parameters/1034,ba'suldikter,defendant
+195-1677,east2295,http://concepticon.clld.org/parameters/1034,('ajn)geklogter,defendant
+195-1462,east2295,http://concepticon.clld.org/parameters/1034,nitbe,defendant
+195-1007,east2295,http://concepticon.clld.org/parameters/1144,ejdes,witness
+195-99,east2295,http://concepticon.clld.org/parameters/1939,švern,swear
+195-363,east2295,http://concepticon.clld.org/parameters/1712,švue,oath
+195-699,east2295,http://concepticon.clld.org/parameters/1814,bašuldikn,accuse
+195-647,east2295,http://concepticon.clld.org/parameters/484,farmišpetn,condemn
+195-647,east2295,http://concepticon.clld.org/parameters/983,farmišpetn,convict (vb)
+195-321,east2295,http://concepticon.clld.org/parameters/983,gefinen šuldik,convict (vb)
+195-1122,east2295,http://concepticon.clld.org/parameters/988,frajzogn,acquit
+195-872,east2295,http://concepticon.clld.org/parameters/988,rejnvašn,acquit
+195-1192,east2295,http://concepticon.clld.org/parameters/1682,šuldik,guilty
+195-1505,east2295,http://concepticon.clld.org/parameters/90,'umšuldik,innocent
+195-1157,east2295,http://concepticon.clld.org/parameters/390,štrof,"penalty, punishment"
+195-445,east2295,http://concepticon.clld.org/parameters/218,geltštrof,fine
+195-1135,east2295,http://concepticon.clld.org/parameters/218,knas,fine
+195-1047,east2295,http://concepticon.clld.org/parameters/1281,tfise,"prison, jail"
+195-550,east2295,http://concepticon.clld.org/parameters/1281,turme,"prison, jail"
+195-950,east2295,http://concepticon.clld.org/parameters/845,mord,murder
+195-1640,east2295,http://concepticon.clld.org/parameters/845,recixe,murder
+195-665,east2295,http://concepticon.clld.org/parameters/902,nijef,adultery
+195-136,east2295,http://concepticon.clld.org/parameters/953,farg'valdikung,rape
+195-1457,east2295,http://concepticon.clld.org/parameters/953,meanes zajn,rape
+195-1200,east2295,http://concepticon.clld.org/parameters/1889,'untercindung,arson
+195-1318,east2295,http://concepticon.clld.org/parameters/1792,falše švue,perjury
+195-1313,east2295,http://concepticon.clld.org/parameters/713,'ganvenen,steal
+195-472,east2295,http://concepticon.clld.org/parameters/1160,ganef,thief
+195-1647,east2295,http://concepticon.clld.org/parameters/661,religje,religion
+195-1406,east2295,http://concepticon.clld.org/parameters/661,das,religion
+195-131,east2295,http://concepticon.clld.org/parameters/1944,got,God
+195-663,east2295,http://concepticon.clld.org/parameters/1944,hašem-jisborex,God
+195-75,east2295,http://concepticon.clld.org/parameters/911,klojster,"temple, church"
+195-104,east2295,http://concepticon.clld.org/parameters/911,šul/šil,"temple, church"
+195-1266,east2295,http://concepticon.clld.org/parameters/853,alʸ'tar,altar
+195-165,east2295,http://concepticon.clld.org/parameters/853,mizbejex,altar
+195-246,east2295,http://concepticon.clld.org/parameters/1103,korbn,"sacrifice, offering"
+195-1225,east2295,http://concepticon.clld.org/parameters/257,dinen,worship
+195-972,east2295,http://concepticon.clld.org/parameters/257,far'getern,worship
+195-331,east2295,http://concepticon.clld.org/parameters/24,mispalel zajn,pray
+195-803,east2295,http://concepticon.clld.org/parameters/24,tfile ton,pray
+195-523,east2295,http://concepticon.clld.org/parameters/852,galex,priest
+195-437,east2295,http://concepticon.clld.org/parameters/852,rov,priest
+195-912,east2295,http://concepticon.clld.org/parameters/1702,hejlik,"holy, sacred"
+195-127,east2295,http://concepticon.clld.org/parameters/304,'daršenen,preach
+195-1604,east2295,http://concepticon.clld.org/parameters/304,prejdikn,preach
+195-371,east2295,http://concepticon.clld.org/parameters/391,benčn,bless
+195-228,east2295,http://concepticon.clld.org/parameters/8,šeltn,curse
+195-1373,east2295,http://concepticon.clld.org/parameters/8,šiltn,curse
+195-180,east2295,http://concepticon.clld.org/parameters/303,fastn,fast (vb)
+195-941,east2295,http://concepticon.clld.org/parameters/1565,himl,heaven
+195-482,east2295,http://concepticon.clld.org/parameters/878,genem,hell
+195-327,east2295,http://concepticon.clld.org/parameters/1973,šed,demon (evil spirit)
+195-680,east2295,http://concepticon.clld.org/parameters/1945,gec,idol
+195-1108,east2295,http://concepticon.clld.org/parameters/392,kišef,"magic, witchcraft, sorcery"
+195-119,east2295,http://concepticon.clld.org/parameters/2137,'kišef-maxer,"sorcerer, witch"
+195-578,east2295,http://concepticon.clld.org/parameters/2137,'kišef-maxern,"sorcerer, witch"
+195-1159,east2295,http://concepticon.clld.org/parameters/2138,feje,"fairy, elf"
+195-1479,east2295,http://concepticon.clld.org/parameters/2138,šretl,"fairy, elf"
+195-829,east2295,http://concepticon.clld.org/parameters/1175,ruex,"ghost, phantom"
+195-1440,east2295,http://concepticon.clld.org/parameters/1175,opduxt,"ghost, phantom"
+195-1330,east2295,http://concepticon.clld.org/parameters/107,onzog,"omen, portent"
+195-1438,east2295,http://concepticon.clld.org/parameters/107,vorcejxn,"omen, portent"
+195-597,east2295,http://concepticon.clld.org/parameters/107,simen,"omen, portent"

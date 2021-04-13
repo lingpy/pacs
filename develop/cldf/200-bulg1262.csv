@@ -1,0 +1,2024 @@
+ID,Language_ID,Feature_ID,Value,Concept
+200-1601,bulg1262,http://concepticon.clld.org/parameters/965,svját,world
+200-1108,bulg1262,http://concepticon.clld.org/parameters/626,zemjá,"earth, land"
+200-1108,bulg1262,http://concepticon.clld.org/parameters/1228,zemjá,"earth=ground, soil"
+200-149,bulg1262,http://concepticon.clld.org/parameters/1228,póčva,"earth=ground, soil"
+200-1068,bulg1262,http://concepticon.clld.org/parameters/2,prax,dust
+200-1167,bulg1262,http://concepticon.clld.org/parameters/640,kal,mud
+200-1833,bulg1262,http://concepticon.clld.org/parameters/671,pjásək,sand
+200-1708,bulg1262,http://concepticon.clld.org/parameters/2118,planiná,"mountain, hill"
+200-619,bulg1262,http://concepticon.clld.org/parameters/2118,xəlm,"mountain, hill"
+200-66,bulg1262,http://concepticon.clld.org/parameters/618,strə́mna skalá,"cliff, precipice"
+200-556,bulg1262,http://concepticon.clld.org/parameters/618,úrva,"cliff, precipice"
+200-1496,bulg1262,http://concepticon.clld.org/parameters/618,própast,"cliff, precipice"
+200-1412,bulg1262,http://concepticon.clld.org/parameters/618,[kanará],"cliff, precipice"
+200-1272,bulg1262,http://concepticon.clld.org/parameters/652,ravniná,"plain, field"
+200-1640,bulg1262,http://concepticon.clld.org/parameters/652,polé,"plain, field"
+200-1623,bulg1262,http://concepticon.clld.org/parameters/921,doliná,valley
+200-148,bulg1262,http://concepticon.clld.org/parameters/622,óstrov,island
+200-1108,bulg1262,http://concepticon.clld.org/parameters/166,zemjá,mainland
+200-1446,bulg1262,http://concepticon.clld.org/parameters/166,súša,mainland
+200-1713,bulg1262,http://concepticon.clld.org/parameters/166,[kontinént],mainland
+200-745,bulg1262,http://concepticon.clld.org/parameters/113,brjag,shore
+200-1297,bulg1262,http://concepticon.clld.org/parameters/1155,pešterá,cave
+200-787,bulg1262,http://concepticon.clld.org/parameters/948,vodá,water
+200-1621,bulg1262,http://concepticon.clld.org/parameters/1474,moré,sea
+200-1310,bulg1262,http://concepticon.clld.org/parameters/258,spokójstvie,calm (of sea)
+200-224,bulg1262,http://concepticon.clld.org/parameters/258,zatíšie,calm (of sea)
+200-136,bulg1262,http://concepticon.clld.org/parameters/259,razvəlnúvan,rough (of sea)
+200-1052,bulg1262,http://concepticon.clld.org/parameters/1768,pjána,foam
+200-346,bulg1262,http://concepticon.clld.org/parameters/645,[okeán],ocean
+200-906,bulg1262,http://concepticon.clld.org/parameters/624,ézero,lake
+200-2,bulg1262,http://concepticon.clld.org/parameters/663,záliv,"gulf, bay"
+200-188,bulg1262,http://concepticon.clld.org/parameters/623,[lagúna],lagoon
+200-650,bulg1262,http://concepticon.clld.org/parameters/660,[rif],reef
+200-1779,bulg1262,http://concepticon.clld.org/parameters/1662,nos,"headland, point"
+200-293,bulg1262,http://concepticon.clld.org/parameters/978,vəlná,wave
+200-302,bulg1262,http://concepticon.clld.org/parameters/891,príliv,tide
+200-1737,bulg1262,http://concepticon.clld.org/parameters/891,ótliv,tide
+200-29,bulg1262,http://concepticon.clld.org/parameters/1026,náj-nískata tóčka na ótliva,lowtide
+200-897,bulg1262,http://concepticon.clld.org/parameters/613,náj-visókata tóčka na príliva,hightide
+200-795,bulg1262,http://concepticon.clld.org/parameters/666,reká,"river, stream, brook"
+200-863,bulg1262,http://concepticon.clld.org/parameters/666,potók,"river, stream, brook"
+200-1042,bulg1262,http://concepticon.clld.org/parameters/666,rúčej,"river, stream, brook"
+200-1082,bulg1262,http://concepticon.clld.org/parameters/1982,vodo-vərtéž,whirlpool
+200-1821,bulg1262,http://concepticon.clld.org/parameters/1982,vərtóp,whirlpool
+200-1278,bulg1262,http://concepticon.clld.org/parameters/2144,ízvor,"spring, well"
+200-470,bulg1262,http://concepticon.clld.org/parameters/2144,kládenec̷,"spring, well"
+200-637,bulg1262,http://concepticon.clld.org/parameters/1145,bláto,swamp
+200-1078,bulg1262,http://concepticon.clld.org/parameters/1145,tresávište,swamp
+200-735,bulg1262,http://concepticon.clld.org/parameters/943,vodopád,waterfall
+200-833,bulg1262,http://concepticon.clld.org/parameters/420,gorá,"woods, forest"
+200-927,bulg1262,http://concepticon.clld.org/parameters/906,dərvó,tree (cf 08.600)
+200-927,bulg1262,http://concepticon.clld.org/parameters/1803,dərvó,wood
+200-314,bulg1262,http://concepticon.clld.org/parameters/2125,kámək,"stone, rock"
+200-301,bulg1262,http://concepticon.clld.org/parameters/2125,skalá,"stone, rock"
+200-1412,bulg1262,http://concepticon.clld.org/parameters/2125,[kanará],"stone, rock"
+200-1557,bulg1262,http://concepticon.clld.org/parameters/6,zeme-tresénie,earthquake
+200-1881,bulg1262,http://concepticon.clld.org/parameters/1732,nebé,sky
+200-1464,bulg1262,http://concepticon.clld.org/parameters/1343,slə́nc̷e,sun
+200-805,bulg1262,http://concepticon.clld.org/parameters/1313,luná,moon
+200-1524,bulg1262,http://concepticon.clld.org/parameters/1430,zvezdá,star
+200-1755,bulg1262,http://concepticon.clld.org/parameters/1654,mə́lnija,lightning
+200-1812,bulg1262,http://concepticon.clld.org/parameters/1654,svet-kávic̷a,lightning
+200-1643,bulg1262,http://concepticon.clld.org/parameters/1150,grəm,thunder
+200-954,bulg1262,http://concepticon.clld.org/parameters/1150,grəmotévic̷a,thunder
+200-1643,bulg1262,http://concepticon.clld.org/parameters/2007,grəm,lightning (as striking)
+200-657,bulg1262,http://concepticon.clld.org/parameters/858,búrja,storm
+200-747,bulg1262,http://concepticon.clld.org/parameters/1733,dəgá,rainbow
+200-959,bulg1262,http://concepticon.clld.org/parameters/630,svetliná,light (noun)
+200-1407,bulg1262,http://concepticon.clld.org/parameters/11,təmniná,darkness
+200-1832,bulg1262,http://concepticon.clld.org/parameters/11,mrak,darkness
+200-1759,bulg1262,http://concepticon.clld.org/parameters/1388,sjánka,"shade, shadow"
+200-341,bulg1262,http://concepticon.clld.org/parameters/1977,rosá,dew
+200-1799,bulg1262,http://concepticon.clld.org/parameters/27,və́zdux,air
+200-166,bulg1262,http://concepticon.clld.org/parameters/960,vjátər,wind
+200-1780,bulg1262,http://concepticon.clld.org/parameters/1489,óblak,cloud
+200-179,bulg1262,http://concepticon.clld.org/parameters/249,məglá,fog
+200-1002,bulg1262,http://concepticon.clld.org/parameters/658,dəžd,rain (noun)
+200-1439,bulg1262,http://concepticon.clld.org/parameters/784,snjag,snow (noun)
+200-1456,bulg1262,http://concepticon.clld.org/parameters/617,led,ice
+200-1124,bulg1262,http://concepticon.clld.org/parameters/952,vréme,weather
+200-1218,bulg1262,http://concepticon.clld.org/parameters/221,ógən,fire
+200-1668,bulg1262,http://concepticon.clld.org/parameters/889,plámək,flame (noun)
+200-488,bulg1262,http://concepticon.clld.org/parameters/778,dim,smoke (noun)
+200-1374,bulg1262,http://concepticon.clld.org/parameters/646,pépel,ashes
+200-995,bulg1262,http://concepticon.clld.org/parameters/67,žar,embers
+200-1331,bulg1262,http://concepticon.clld.org/parameters/67,žaráva,embers
+200-828,bulg1262,http://concepticon.clld.org/parameters/141,izgárjam/ izgorjá,burn (vb trans)
+200-1518,bulg1262,http://concepticon.clld.org/parameters/1428,gorjá,burn (vb intrans)
+200-537,bulg1262,http://concepticon.clld.org/parameters/737,pálja,"light, kindle, ignite"
+200-1410,bulg1262,http://concepticon.clld.org/parameters/737,zapálvam/ zapálja,"light, kindle, ignite"
+200-1094,bulg1262,http://concepticon.clld.org/parameters/1133,[kibrít],match (noun)
+200-1060,bulg1262,http://concepticon.clld.org/parameters/1133,kléčka [kibrít],match (noun)
+200-1174,bulg1262,http://concepticon.clld.org/parameters/10,dərvá za goréne,firewood
+200-21,bulg1262,http://concepticon.clld.org/parameters/1188,də́rveni və́glišta,charcoal
+200-673,bulg1262,http://concepticon.clld.org/parameters/683,čovék,"person, human being"
+200-1441,bulg1262,http://concepticon.clld.org/parameters/1554,mə́ž,man (vs. woman)
+200-550,bulg1262,http://concepticon.clld.org/parameters/962,žená,woman
+200-857,bulg1262,http://concepticon.clld.org/parameters/2263,mə́žki,male
+200-1486,bulg1262,http://concepticon.clld.org/parameters/2260,žénski,female
+200-1873,bulg1262,http://concepticon.clld.org/parameters/1366,momčé,boy
+200-501,bulg1262,http://concepticon.clld.org/parameters/76,júnoša,young man (adolescent)
+200-1491,bulg1262,http://concepticon.clld.org/parameters/1646,momíče,girl
+200-1772,bulg1262,http://concepticon.clld.org/parameters/77,devójka,young woman (adolescent)
+200-1311,bulg1262,http://concepticon.clld.org/parameters/1304,deté,child
+200-1566,bulg1262,http://concepticon.clld.org/parameters/1289,[bébe],"infant, baby"
+200-865,bulg1262,http://concepticon.clld.org/parameters/1289,pelenáče,"infant, baby"
+200-1217,bulg1262,http://concepticon.clld.org/parameters/1289,mladenéc̷,"infant, baby"
+200-420,bulg1262,http://concepticon.clld.org/parameters/1289,kərmáče,"infant, baby"
+200-1072,bulg1262,http://concepticon.clld.org/parameters/1200,səprúg,husband
+200-1441,bulg1262,http://concepticon.clld.org/parameters/1200,mə́ž,husband
+200-518,bulg1262,http://concepticon.clld.org/parameters/1199,səprúga,wife
+200-550,bulg1262,http://concepticon.clld.org/parameters/1199,žená,wife
+200-1263,bulg1262,http://concepticon.clld.org/parameters/203,ožénvam se,marry
+200-894,bulg1262,http://concepticon.clld.org/parameters/203,omə́žvam se,marry
+200-476,bulg1262,http://concepticon.clld.org/parameters/1259,brák,"marriage, wedding"
+200-1499,bulg1262,http://concepticon.clld.org/parameters/1259,ženítba,"marriage, wedding"
+200-1488,bulg1262,http://concepticon.clld.org/parameters/1259,brakosəčetánie,"marriage, wedding"
+200-609,bulg1262,http://concepticon.clld.org/parameters/1259,svátba,"marriage, wedding"
+200-778,bulg1262,http://concepticon.clld.org/parameters/1259,venčávane,"marriage, wedding"
+200-1091,bulg1262,http://concepticon.clld.org/parameters/1259,venčávka,"marriage, wedding"
+200-583,bulg1262,http://concepticon.clld.org/parameters/1134,razvód,divorce
+200-841,bulg1262,http://concepticon.clld.org/parameters/1217,baštá,father
+200-997,bulg1262,http://concepticon.clld.org/parameters/1216,májka,mother
+200-459,bulg1262,http://concepticon.clld.org/parameters/505,rodíteli,parents
+200-490,bulg1262,http://concepticon.clld.org/parameters/424,ožénen mə́ž,married man
+200-181,bulg1262,http://concepticon.clld.org/parameters/426,omə́žena žená,married woman
+200-406,bulg1262,http://concepticon.clld.org/parameters/1620,sín,son
+200-737,bulg1262,http://concepticon.clld.org/parameters/1357,dəšterjá,daughter
+200-1311,bulg1262,http://concepticon.clld.org/parameters/1801,deté,offspring (son or daughter)
+200-1110,bulg1262,http://concepticon.clld.org/parameters/1801,potómstvo,offspring (son or daughter)
+200-1359,bulg1262,http://concepticon.clld.org/parameters/1801,dec̷á,offspring (son or daughter)
+200-1797,bulg1262,http://concepticon.clld.org/parameters/1801,potómək,offspring (son or daughter)
+200-452,bulg1262,http://concepticon.clld.org/parameters/1801,potómka,offspring (son or daughter)
+200-478,bulg1262,http://concepticon.clld.org/parameters/1262,brát,brother
+200-515,bulg1262,http://concepticon.clld.org/parameters/1759,báte,older brother
+200-640,bulg1262,http://concepticon.clld.org/parameters/1759,bátjo,older brother
+200-702,bulg1262,http://concepticon.clld.org/parameters/1759,bátko,older brother
+200-645,bulg1262,http://concepticon.clld.org/parameters/1759,baj-,older brother
+200-1792,bulg1262,http://concepticon.clld.org/parameters/1760,pó-málək brát,younger brother
+200-1470,bulg1262,http://concepticon.clld.org/parameters/1263,sestrá,sister
+200-1337,bulg1262,http://concepticon.clld.org/parameters/1758,káka,older sister
+200-112,bulg1262,http://concepticon.clld.org/parameters/1758,pó-goljáma sestrá,older sister
+200-758,bulg1262,http://concepticon.clld.org/parameters/1761,pó-málka sestrá,younger sister
+200-1364,bulg1262,http://concepticon.clld.org/parameters/1640,róden brát/ ródna sestrá,sibling
+200-165,bulg1262,http://concepticon.clld.org/parameters/1005,bliznác̷i,twins
+200-651,bulg1262,http://concepticon.clld.org/parameters/1383,djádo,grandfather
+200-17,bulg1262,http://concepticon.clld.org/parameters/406,stárec̷,old man
+200-651,bulg1262,http://concepticon.clld.org/parameters/406,djádo,old man
+200-1589,bulg1262,http://concepticon.clld.org/parameters/1496,bába,grandmother
+200-462,bulg1262,http://concepticon.clld.org/parameters/907,staríc̷a,old woman
+200-1589,bulg1262,http://concepticon.clld.org/parameters/907,bába,old woman
+200-532,bulg1262,http://concepticon.clld.org/parameters/1618,vnúk,grandson
+200-1027,bulg1262,http://concepticon.clld.org/parameters/1619,vnúčka,granddaughter
+200-1515,bulg1262,http://concepticon.clld.org/parameters/1327,číčo,uncle
+200-308,bulg1262,http://concepticon.clld.org/parameters/1984,vújčo,mother's brother
+200-1515,bulg1262,http://concepticon.clld.org/parameters/1985,číčo,father's brother
+200-43,bulg1262,http://concepticon.clld.org/parameters/1272,lélja,aunt
+200-1376,bulg1262,http://concepticon.clld.org/parameters/171,vújna,mother's sister
+200-397,bulg1262,http://concepticon.clld.org/parameters/170,tétka,father's sister
+200-43,bulg1262,http://concepticon.clld.org/parameters/170,lélja,father's sister
+200-1854,bulg1262,http://concepticon.clld.org/parameters/1063,plémennik,nephew
+200-1819,bulg1262,http://concepticon.clld.org/parameters/1642,plémennica,niece
+200-90,bulg1262,http://concepticon.clld.org/parameters/1643,bratovčéd/ bratovčédka,cousin
+200-910,bulg1262,http://concepticon.clld.org/parameters/1669,prároditeli,ancestors
+200-109,bulg1262,http://concepticon.clld.org/parameters/1669,práotc̷i,ancestors
+200-248,bulg1262,http://concepticon.clld.org/parameters/490,potómc̷i,descendants
+200-1587,bulg1262,http://concepticon.clld.org/parameters/2255,tə́st,father-in-law (of a man)
+200-433,bulg1262,http://concepticon.clld.org/parameters/2254,svékər,father-in-law (of a woman)
+200-1808,bulg1262,http://concepticon.clld.org/parameters/2256,tə́šta,mother-in-law (of a man)
+200-241,bulg1262,http://concepticon.clld.org/parameters/2257,svekə́rva,mother-in-law (of a woman)
+200-1674,bulg1262,http://concepticon.clld.org/parameters/2267,zét,son-in-law (of a man)
+200-1674,bulg1262,http://concepticon.clld.org/parameters/2266,zét,son-in-law (of a woman)
+200-116,bulg1262,http://concepticon.clld.org/parameters/2265,snaxá,daughter-in-law (of a man)
+200-116,bulg1262,http://concepticon.clld.org/parameters/2264,snaxá,daughter-in-law (of a woman)
+200-1148,bulg1262,http://concepticon.clld.org/parameters/237,vtóri baštá,stepfather
+200-12,bulg1262,http://concepticon.clld.org/parameters/236,máštexa,stepmother
+200-1450,bulg1262,http://concepticon.clld.org/parameters/1059,dovéden/ zaváren sín,stepson
+200-1843,bulg1262,http://concepticon.clld.org/parameters/1058,dovédena/ zavárena dəsterjá,stepdaughter
+200-591,bulg1262,http://concepticon.clld.org/parameters/1149,sirák,orphan
+200-1600,bulg1262,http://concepticon.clld.org/parameters/1149,siráče,orphan
+200-1208,bulg1262,http://concepticon.clld.org/parameters/1756,vdovíc̷a,widow
+200-249,bulg1262,http://concepticon.clld.org/parameters/1981,vdovéc̷,widower
+200-3,bulg1262,http://concepticon.clld.org/parameters/1644,rodníni,"relatives, kinsmen"
+200-1874,bulg1262,http://concepticon.clld.org/parameters/1644,ródstvenic̷i,"relatives, kinsmen"
+200-117,bulg1262,http://concepticon.clld.org/parameters/194,seméjstvo,family
+200-1136,bulg1262,http://concepticon.clld.org/parameters/194,[famílija],family
+200-204,bulg1262,http://concepticon.clld.org/parameters/1209,áz,I
+200-1720,bulg1262,http://concepticon.clld.org/parameters/1215,tí,you (singular)
+200-884,bulg1262,http://concepticon.clld.org/parameters/1215,víe,you (singular)
+200-767,bulg1262,http://concepticon.clld.org/parameters/262,tój/ tjá/ tó,he/she/it
+200-791,bulg1262,http://concepticon.clld.org/parameters/1212,níe,we
+200-791,bulg1262,http://concepticon.clld.org/parameters/1131,níe,we (inclusive)
+200-791,bulg1262,http://concepticon.clld.org/parameters/1130,níe,we (exclusive)
+200-884,bulg1262,http://concepticon.clld.org/parameters/1213,víe,you (plural)
+200-1173,bulg1262,http://concepticon.clld.org/parameters/817,té,they
+200-979,bulg1262,http://concepticon.clld.org/parameters/619,živótno,animal
+200-1732,bulg1262,http://concepticon.clld.org/parameters/619,dobíče,animal
+200-857,bulg1262,http://concepticon.clld.org/parameters/2261,mə́žki,male (adj)
+200-775,bulg1262,http://concepticon.clld.org/parameters/2261,mə́žkár,male (adj)
+200-450,bulg1262,http://concepticon.clld.org/parameters/2261,[saméc̷],male (adj)
+200-1495,bulg1262,http://concepticon.clld.org/parameters/2262,ženská,female (adj)
+200-1022,bulg1262,http://concepticon.clld.org/parameters/2262,ženski,female (adj)
+200-1435,bulg1262,http://concepticon.clld.org/parameters/2262,[sámka],female (adj)
+200-512,bulg1262,http://concepticon.clld.org/parameters/631,dobítək,livestock
+200-611,bulg1262,http://concepticon.clld.org/parameters/649,páša,pasture
+200-638,bulg1262,http://concepticon.clld.org/parameters/649,pásbište,pasture
+200-1691,bulg1262,http://concepticon.clld.org/parameters/649,pásište,pasture
+200-1286,bulg1262,http://concepticon.clld.org/parameters/263,pastír,herdsman
+200-1409,bulg1262,http://concepticon.clld.org/parameters/263,govedár,herdsman
+200-866,bulg1262,http://concepticon.clld.org/parameters/851,konjúšna,"stable, stall"
+200-835,bulg1262,http://concepticon.clld.org/parameters/851,obór,"stable, stall"
+200-1083,bulg1262,http://concepticon.clld.org/parameters/851,kravárnik,"stable, stall"
+200-762,bulg1262,http://concepticon.clld.org/parameters/1153,govéda,cattle (bovine)
+200-280,bulg1262,http://concepticon.clld.org/parameters/1153,édər dobítək,cattle (bovine)
+200-170,bulg1262,http://concepticon.clld.org/parameters/1008,bík,bull
+200-606,bulg1262,http://concepticon.clld.org/parameters/1169,vól,ox
+200-1474,bulg1262,http://concepticon.clld.org/parameters/1007,kráva,cow
+200-731,bulg1262,http://concepticon.clld.org/parameters/1989,telé,calf
+200-593,bulg1262,http://concepticon.clld.org/parameters/1331,ovc̷á,sheep
+200-1760,bulg1262,http://concepticon.clld.org/parameters/1344,ovén,ram
+200-1841,bulg1262,http://concepticon.clld.org/parameters/1344,[kóč],ram
+200-593,bulg1262,http://concepticon.clld.org/parameters/1345,ovc̷á,ewe
+200-636,bulg1262,http://concepticon.clld.org/parameters/820,ágne,lamb
+200-1102,bulg1262,http://concepticon.clld.org/parameters/1348,nérez,boar
+200-1544,bulg1262,http://concepticon.clld.org/parameters/1348,šopár,boar
+200-234,bulg1262,http://concepticon.clld.org/parameters/1348,gligán,boar
+200-1081,bulg1262,http://concepticon.clld.org/parameters/1351,svinjá,sow (2)
+200-1428,bulg1262,http://concepticon.clld.org/parameters/1351,svinjá-májka,sow (2)
+200-63,bulg1262,http://concepticon.clld.org/parameters/1337,prasé,pig
+200-1117,bulg1262,http://concepticon.clld.org/parameters/1502,kozá,goat
+200-1040,bulg1262,http://concepticon.clld.org/parameters/264,kozél,he-goat
+200-1704,bulg1262,http://concepticon.clld.org/parameters/1972,kozlé,kid
+200-807,bulg1262,http://concepticon.clld.org/parameters/1972,járe,kid
+200-1523,bulg1262,http://concepticon.clld.org/parameters/615,kón,horse (equine)
+200-765,bulg1262,http://concepticon.clld.org/parameters/936,žrebéc̷,stallion
+200-226,bulg1262,http://concepticon.clld.org/parameters/938,kobíla,mare
+200-985,bulg1262,http://concepticon.clld.org/parameters/1647,kónče,"foal, colt"
+200-1246,bulg1262,http://concepticon.clld.org/parameters/1647,žrebčé,"foal, colt"
+200-502,bulg1262,http://concepticon.clld.org/parameters/1862,[magáre],"ass, donkey"
+200-1312,bulg1262,http://concepticon.clld.org/parameters/1862,osél,"ass, donkey"
+200-93,bulg1262,http://concepticon.clld.org/parameters/890,[katər],mule
+200-1591,bulg1262,http://concepticon.clld.org/parameters/890,[múle],mule
+200-1013,bulg1262,http://concepticon.clld.org/parameters/265,ptíc̷a,fowl
+200-1685,bulg1262,http://concepticon.clld.org/parameters/1511,petél,"cock, rooster"
+200-1380,bulg1262,http://concepticon.clld.org/parameters/1514,kokóška,hen
+200-472,bulg1262,http://concepticon.clld.org/parameters/1318,píle,chicken
+200-222,bulg1262,http://concepticon.clld.org/parameters/1187,gə́ska,goose
+200-1204,bulg1262,http://concepticon.clld.org/parameters/1360,pátic̷a,duck
+200-1045,bulg1262,http://concepticon.clld.org/parameters/539,gnezdó,nest
+200-712,bulg1262,http://concepticon.clld.org/parameters/539,pólog,nest
+200-1013,bulg1262,http://concepticon.clld.org/parameters/937,ptíc̷a,bird
+200-748,bulg1262,http://concepticon.clld.org/parameters/937,ptíčka,bird
+200-1303,bulg1262,http://concepticon.clld.org/parameters/950,čájka,seagull
+200-827,bulg1262,http://concepticon.clld.org/parameters/758,čápla,heron
+200-283,bulg1262,http://concepticon.clld.org/parameters/1905,orél,eagle
+200-1553,bulg1262,http://concepticon.clld.org/parameters/307,jástreb,hawk
+200-1571,bulg1262,http://concepticon.clld.org/parameters/1185,lešojád,vulture
+200-53,bulg1262,http://concepticon.clld.org/parameters/1793,prílep,bat
+200-1757,bulg1262,http://concepticon.clld.org/parameters/882,[papagál],parrot
+200-789,bulg1262,http://concepticon.clld.org/parameters/913,vrána,crow
+200-624,bulg1262,http://concepticon.clld.org/parameters/913,[gárga],crow
+200-1575,bulg1262,http://concepticon.clld.org/parameters/1853,gə́ləb,dove
+200-592,bulg1262,http://concepticon.clld.org/parameters/735,búxal,owl
+200-407,bulg1262,http://concepticon.clld.org/parameters/735,kukumjávka,owl
+200-533,bulg1262,http://concepticon.clld.org/parameters/735,sóva,owl
+200-1675,bulg1262,http://concepticon.clld.org/parameters/2009,kúče,dog
+200-858,bulg1262,http://concepticon.clld.org/parameters/1136,záek,rabbit
+200-180,bulg1262,http://concepticon.clld.org/parameters/1208,kótka,cat
+200-839,bulg1262,http://concepticon.clld.org/parameters/309,[opósum],opossum
+200-1804,bulg1262,http://concepticon.clld.org/parameters/2139,míška,"mouse, rat"
+200-172,bulg1262,http://concepticon.clld.org/parameters/2139,plə́x,"mouse, rat"
+200-256,bulg1262,http://concepticon.clld.org/parameters/227,ríba,fish
+200-1526,bulg1262,http://concepticon.clld.org/parameters/213,pérka,fin (dorsal)
+200-1550,bulg1262,http://concepticon.clld.org/parameters/266,ljúspa,fishscale
+200-143,bulg1262,http://concepticon.clld.org/parameters/1916,xrilé,gill
+200-885,bulg1262,http://concepticon.clld.org/parameters/598,čerúpka,shell
+200-1730,bulg1262,http://concepticon.clld.org/parameters/598,rákovina,shell
+200-714,bulg1262,http://concepticon.clld.org/parameters/598,rakovína,shell
+200-1480,bulg1262,http://concepticon.clld.org/parameters/1110,[akúla],shark
+200-1261,bulg1262,http://concepticon.clld.org/parameters/1479,[delfín],"porpoise, dolphin"
+200-1001,bulg1262,http://concepticon.clld.org/parameters/957,[kít],whale
+200-173,bulg1262,http://concepticon.clld.org/parameters/1013,zmiórka,freshwater eel
+200-202,bulg1262,http://concepticon.clld.org/parameters/522,və́lk,wolf
+200-1017,bulg1262,http://concepticon.clld.org/parameters/1386,lə́v,lion
+200-169,bulg1262,http://concepticon.clld.org/parameters/1820,méčka,bear
+200-1234,bulg1262,http://concepticon.clld.org/parameters/1312,lisíc̷a,fox
+200-851,bulg1262,http://concepticon.clld.org/parameters/1936,elén,deer
+200-1429,bulg1262,http://concepticon.clld.org/parameters/1936,sərná,deer
+200-1197,bulg1262,http://concepticon.clld.org/parameters/1350,[majmúna],monkey
+200-265,bulg1262,http://concepticon.clld.org/parameters/1290,slón,elephant
+200-295,bulg1262,http://concepticon.clld.org/parameters/1871,[kamíla],camel
+200-1029,bulg1262,http://concepticon.clld.org/parameters/620,[nasekómo],insect
+200-580,bulg1262,http://concepticon.clld.org/parameters/310,və́ška,louse
+200-1085,bulg1262,http://concepticon.clld.org/parameters/267,gnída,nit (louse egg)
+200-1809,bulg1262,http://concepticon.clld.org/parameters/232,bəlxá,flea
+200-1408,bulg1262,http://concepticon.clld.org/parameters/1974,sto-nóžka,centipede
+200-1568,bulg1262,http://concepticon.clld.org/parameters/1538,[skorpión],scorpion
+200-1262,bulg1262,http://concepticon.clld.org/parameters/1575,xlebárka,cockroach
+200-1411,bulg1262,http://concepticon.clld.org/parameters/587,mrávka,ant
+200-1722,bulg1262,http://concepticon.clld.org/parameters/843,pájak,spider
+200-82,bulg1262,http://concepticon.clld.org/parameters/1065,pájažina,spider web
+200-146,bulg1262,http://concepticon.clld.org/parameters/665,pčelá,bee
+200-1267,bulg1262,http://concepticon.clld.org/parameters/1931,pčélen vósək,beeswax
+200-1325,bulg1262,http://concepticon.clld.org/parameters/88,(pčélen) kóšer,beehive
+200-1302,bulg1262,http://concepticon.clld.org/parameters/1517,osá,wasp
+200-1033,bulg1262,http://concepticon.clld.org/parameters/1504,muxá,fly
+200-1468,bulg1262,http://concepticon.clld.org/parameters/95,mušíc̷a,"sandfly (midge), gnat"
+200-1144,bulg1262,http://concepticon.clld.org/parameters/95,mušíčka,"sandfly (midge), gnat"
+200-1225,bulg1262,http://concepticon.clld.org/parameters/95,komárče,"sandfly (midge), gnat"
+200-1249,bulg1262,http://concepticon.clld.org/parameters/1509,komár,mosquito
+200-6,bulg1262,http://concepticon.clld.org/parameters/1219,čérvej,worm
+200-1420,bulg1262,http://concepticon.clld.org/parameters/730,zmíja,snake
+200-1529,bulg1262,http://concepticon.clld.org/parameters/206,svetúlka,firefly
+200-554,bulg1262,http://concepticon.clld.org/parameters/1791,peperúda,butterfly
+200-1497,bulg1262,http://concepticon.clld.org/parameters/607,skakaléc̷,grasshopper
+200-1567,bulg1262,http://concepticon.clld.org/parameters/1543,óxljuv,snail
+200-668,bulg1262,http://concepticon.clld.org/parameters/503,žába,frog
+200-1517,bulg1262,http://concepticon.clld.org/parameters/632,gúšter,lizard
+200-696,bulg1262,http://concepticon.clld.org/parameters/1857,[krokodíl],"crocodile, alligator"
+200-1300,bulg1262,http://concepticon.clld.org/parameters/1857,[aligátor],"crocodile, alligator"
+200-413,bulg1262,http://concepticon.clld.org/parameters/112,mórska kostenúrka,turtle
+200-395,bulg1262,http://concepticon.clld.org/parameters/1480,tjálo,body
+200-1721,bulg1262,http://concepticon.clld.org/parameters/763,kóža,"skin, hide"
+200-1023,bulg1262,http://concepticon.clld.org/parameters/2259,plə́t,flesh
+200-5,bulg1262,http://concepticon.clld.org/parameters/1040,kosá,hair (head)
+200-58,bulg1262,http://concepticon.clld.org/parameters/678,bradá,beard
+200-817,bulg1262,http://concepticon.clld.org/parameters/189,kósmi,body hair
+200-1290,bulg1262,http://concepticon.clld.org/parameters/36,okosménie na pólovite órgani,pubic hair
+200-199,bulg1262,http://concepticon.clld.org/parameters/576,pə́rxot,dandruff
+200-134,bulg1262,http://concepticon.clld.org/parameters/946,krə́v,blood
+200-425,bulg1262,http://concepticon.clld.org/parameters/525,[vena],"vein, artery"
+200-1143,bulg1262,http://concepticon.clld.org/parameters/525,[artérija],"vein, artery"
+200-330,bulg1262,http://concepticon.clld.org/parameters/1394,kóst,bone
+200-1043,bulg1262,http://concepticon.clld.org/parameters/801,rebró,rib
+200-992,bulg1262,http://concepticon.clld.org/parameters/1393,róg,horn
+200-1155,bulg1262,http://concepticon.clld.org/parameters/1220,opáška,tail
+200-1727,bulg1262,http://concepticon.clld.org/parameters/1291,grə́b,back
+200-266,bulg1262,http://concepticon.clld.org/parameters/805,grəbnák,spine
+200-845,bulg1262,http://concepticon.clld.org/parameters/1256,glavá,head
+200-539,bulg1262,http://concepticon.clld.org/parameters/1604,sljápo okó,"side of head, temple"
+200-1452,bulg1262,http://concepticon.clld.org/parameters/1604,slepoóčie,"side of head, temple"
+200-49,bulg1262,http://concepticon.clld.org/parameters/1605,čérep,skull
+200-1679,bulg1262,http://concepticon.clld.org/parameters/1583,mózək,brain
+200-573,bulg1262,http://concepticon.clld.org/parameters/1560,lic̷é,face
+200-88,bulg1262,http://concepticon.clld.org/parameters/123,čélo,forehead
+200-1584,bulg1262,http://concepticon.clld.org/parameters/123,čeló,forehead
+200-177,bulg1262,http://concepticon.clld.org/parameters/798,čéljust,jaw
+200-963,bulg1262,http://concepticon.clld.org/parameters/1730,búza,cheek
+200-78,bulg1262,http://concepticon.clld.org/parameters/1730,straná,cheek
+200-58,bulg1262,http://concepticon.clld.org/parameters/1510,bradá,chin
+200-565,bulg1262,http://concepticon.clld.org/parameters/1510,bradíčka,chin
+200-660,bulg1262,http://concepticon.clld.org/parameters/1248,okó,eye
+200-991,bulg1262,http://concepticon.clld.org/parameters/1173,véžda,eyebrow
+200-484,bulg1262,http://concepticon.clld.org/parameters/17,klepáč,eyelid
+200-1026,bulg1262,http://concepticon.clld.org/parameters/1540,mígla,eyelash
+200-1485,bulg1262,http://concepticon.clld.org/parameters/1540,resníc̷a,eyelash
+200-1695,bulg1262,http://concepticon.clld.org/parameters/1540,klépka,eyelash
+200-1417,bulg1262,http://concepticon.clld.org/parameters/1655,mígam,blink
+200-909,bulg1262,http://concepticon.clld.org/parameters/1655,mígvam/ mígna,blink
+200-441,bulg1262,http://concepticon.clld.org/parameters/1655,premígvam/ premígna,blink
+200-16,bulg1262,http://concepticon.clld.org/parameters/1247,uxó,ear
+200-1482,bulg1262,http://concepticon.clld.org/parameters/32,úšna kál,earwax
+200-212,bulg1262,http://concepticon.clld.org/parameters/1221,nós,nose
+200-881,bulg1262,http://concepticon.clld.org/parameters/1178,nózdra,nostril
+200-855,bulg1262,http://concepticon.clld.org/parameters/208,sopól,mucus (nasal)
+200-309,bulg1262,http://concepticon.clld.org/parameters/674,ustá,mouth
+200-1636,bulg1262,http://concepticon.clld.org/parameters/73,kljún,beak
+200-1032,bulg1262,http://concepticon.clld.org/parameters/73,čóvka,beak
+200-133,bulg1262,http://concepticon.clld.org/parameters/478,ústna,lip
+200-664,bulg1262,http://concepticon.clld.org/parameters/1205,ezík,tongue
+200-1641,bulg1262,http://concepticon.clld.org/parameters/1380,zə́b,tooth
+200-316,bulg1262,http://concepticon.clld.org/parameters/139,venéc̷,gums
+200-1193,bulg1262,http://concepticon.clld.org/parameters/1049,kə́tnik,molartooth
+200-423,bulg1262,http://concepticon.clld.org/parameters/1049,kə́ten zə́b,molartooth
+200-1848,bulg1262,http://concepticon.clld.org/parameters/1333,vrát,neck
+200-1185,bulg1262,http://concepticon.clld.org/parameters/1333,šíja,neck
+200-135,bulg1262,http://concepticon.clld.org/parameters/1347,tíl,nape of neck
+200-957,bulg1262,http://concepticon.clld.org/parameters/1346,gə́rlo,throat
+200-1763,bulg1262,http://concepticon.clld.org/parameters/1482,rámo,shoulder
+200-872,bulg1262,http://concepticon.clld.org/parameters/172,lopátka,shoulderblade
+200-867,bulg1262,http://concepticon.clld.org/parameters/172,pléška,shoulderblade
+200-1131,bulg1262,http://concepticon.clld.org/parameters/1994,kljúčic̷a,collarbone
+200-278,bulg1262,http://concepticon.clld.org/parameters/1673,rəká,arm
+200-808,bulg1262,http://concepticon.clld.org/parameters/1886,míšnic̷a,armpit
+200-1883,bulg1262,http://concepticon.clld.org/parameters/1886,podmíšnic̷a,armpit
+200-157,bulg1262,http://concepticon.clld.org/parameters/1886,podmíšnična jámka,armpit
+200-347,bulg1262,http://concepticon.clld.org/parameters/981,lákət,elbow
+200-958,bulg1262,http://concepticon.clld.org/parameters/799,kítka,wrist
+200-278,bulg1262,http://concepticon.clld.org/parameters/1277,rəká,hand
+200-1269,bulg1262,http://concepticon.clld.org/parameters/1183,dlán,palm of hand
+200-764,bulg1262,http://concepticon.clld.org/parameters/1303,prə́st,finger
+200-1228,bulg1262,http://concepticon.clld.org/parameters/1781,pálec̷,thumb
+200-1253,bulg1262,http://concepticon.clld.org/parameters/1258,nókət,fingernail
+200-1253,bulg1262,http://concepticon.clld.org/parameters/72,nókət,claw
+200-571,bulg1262,http://concepticon.clld.org/parameters/1297,krák,leg
+200-86,bulg1262,http://concepticon.clld.org/parameters/1297,nogá,leg
+200-597,bulg1262,http://concepticon.clld.org/parameters/800,bedró,thigh
+200-1224,bulg1262,http://concepticon.clld.org/parameters/498,praséc̷,calf of leg
+200-677,bulg1262,http://concepticon.clld.org/parameters/1371,koljáno,knee
+200-571,bulg1262,http://concepticon.clld.org/parameters/1301,krák,foot
+200-86,bulg1262,http://concepticon.clld.org/parameters/1301,nogá,foot
+200-384,bulg1262,http://concepticon.clld.org/parameters/1301,stəpálo,foot
+200-523,bulg1262,http://concepticon.clld.org/parameters/1301,xodílo,foot
+200-1351,bulg1262,http://concepticon.clld.org/parameters/803,glézen,ankle
+200-1345,bulg1262,http://concepticon.clld.org/parameters/980,petá,heel
+200-1552,bulg1262,http://concepticon.clld.org/parameters/318,sledá,footprint
+200-1542,bulg1262,http://concepticon.clld.org/parameters/318,otpečátək ot stə́pka,footprint
+200-30,bulg1262,http://concepticon.clld.org/parameters/1389,prə́st na krák,toe
+200-232,bulg1262,http://concepticon.clld.org/parameters/1257,kriló,wing
+200-1326,bulg1262,http://concepticon.clld.org/parameters/1201,peró,feather
+200-361,bulg1262,http://concepticon.clld.org/parameters/1201,perc̷é,feather
+200-551,bulg1262,http://concepticon.clld.org/parameters/1592,grə́den kóš,chest
+200-1335,bulg1262,http://concepticon.clld.org/parameters/1592,gərdí,chest
+200-35,bulg1262,http://concepticon.clld.org/parameters/1402,gərdá,breast (of woman)
+200-1729,bulg1262,http://concepticon.clld.org/parameters/1402,grə́d,breast (of woman)
+200-1555,bulg1262,http://concepticon.clld.org/parameters/796,zərnó,"nipple, teat"
+200-1613,bulg1262,http://concepticon.clld.org/parameters/154,víme,udder
+200-1534,bulg1262,http://concepticon.clld.org/parameters/1838,pə́p,navel
+200-717,bulg1262,http://concepticon.clld.org/parameters/1223,sərc̷é,heart
+200-1839,bulg1262,http://concepticon.clld.org/parameters/688,bjál drób,lung
+200-440,bulg1262,http://concepticon.clld.org/parameters/1224,čéren drób,liver
+200-428,bulg1262,http://concepticon.clld.org/parameters/489,bə́brek,kidney
+200-23,bulg1262,http://concepticon.clld.org/parameters/1744,[dalák],spleen
+200-560,bulg1262,http://concepticon.clld.org/parameters/819,[stomáx],stomach
+200-1661,bulg1262,http://concepticon.clld.org/parameters/819,korém,stomach
+200-1244,bulg1262,http://concepticon.clld.org/parameters/1991,červó,"intestines, guts"
+200-183,bulg1262,http://concepticon.clld.org/parameters/1681,krə́st,waist
+200-1863,bulg1262,http://concepticon.clld.org/parameters/1681,[tálija],waist
+200-1418,bulg1262,http://concepticon.clld.org/parameters/1745,[xánš],hip
+200-57,bulg1262,http://concepticon.clld.org/parameters/1745,xə́lbok,hip
+200-597,bulg1262,http://concepticon.clld.org/parameters/1745,bedró,hip
+200-1021,bulg1262,http://concepticon.clld.org/parameters/834,sedálište,buttocks
+200-79,bulg1262,http://concepticon.clld.org/parameters/834,zádna část,buttocks
+200-129,bulg1262,http://concepticon.clld.org/parameters/834,zádnik,buttocks
+200-1289,bulg1262,http://concepticon.clld.org/parameters/834,zádnica,buttocks
+200-1034,bulg1262,http://concepticon.clld.org/parameters/804,utróba,womb
+200-1582,bulg1262,http://concepticon.clld.org/parameters/804,mátka,womb
+200-76,bulg1262,http://concepticon.clld.org/parameters/797,[testíkul],testicle
+200-1875,bulg1262,http://concepticon.clld.org/parameters/797,[téstis],testicle
+200-1791,bulg1262,http://concepticon.clld.org/parameters/1222,[pénis],penis
+200-325,bulg1262,http://concepticon.clld.org/parameters/1222,člen,penis
+200-1723,bulg1262,http://concepticon.clld.org/parameters/1407,díšam,"breathe, breath"
+200-938,bulg1262,http://concepticon.clld.org/parameters/1407,də́x,"breathe, breath"
+200-1493,bulg1262,http://concepticon.clld.org/parameters/1028,prozjávam se/ prozéja se,"yawn, gape"
+200-955,bulg1262,http://concepticon.clld.org/parameters/1028,prozína se,"yawn, gape"
+200-1847,bulg1262,http://concepticon.clld.org/parameters/1028,prozjávka,"yawn, gape"
+200-706,bulg1262,http://concepticon.clld.org/parameters/162,xə́lc̷am,hiccough
+200-1231,bulg1262,http://concepticon.clld.org/parameters/162,xəlc̷úkam,hiccough
+200-392,bulg1262,http://concepticon.clld.org/parameters/879,kášljam,cough
+200-577,bulg1262,http://concepticon.clld.org/parameters/1621,kíxam,sneeze
+200-1590,bulg1262,http://concepticon.clld.org/parameters/1621,kíxvam/ kíxna,sneeze
+200-333,bulg1262,http://concepticon.clld.org/parameters/126,potjá se,perspire
+200-1006,bulg1262,http://concepticon.clld.org/parameters/1440,pljúja,spit
+200-874,bulg1262,http://concepticon.clld.org/parameters/1440,pljúvam/ pljúna,spit
+200-1222,bulg1262,http://concepticon.clld.org/parameters/1440,xráča,spit
+200-892,bulg1262,http://concepticon.clld.org/parameters/1278,povrə́štam/ povə́rna,vomit
+200-1137,bulg1262,http://concepticon.clld.org/parameters/1403,xápja,bite
+200-746,bulg1262,http://concepticon.clld.org/parameters/1403,uxápvam/ uxápja,bite
+200-516,bulg1262,http://concepticon.clld.org/parameters/319,líža,lick
+200-1160,bulg1262,http://concepticon.clld.org/parameters/319,lízvam/ lízna,lick
+200-788,bulg1262,http://concepticon.clld.org/parameters/319,blízvam/ blízna,lick
+200-1318,bulg1262,http://concepticon.clld.org/parameters/268,ligávja (se),dribble
+200-1125,bulg1262,http://concepticon.clld.org/parameters/1585,spjá,sleep
+200-777,bulg1262,http://concepticon.clld.org/parameters/1983,xə́rkam,snore
+200-1287,bulg1262,http://concepticon.clld.org/parameters/1920,sənúvam,dream
+200-816,bulg1262,http://concepticon.clld.org/parameters/1602,búdja se,wake up
+200-481,bulg1262,http://concepticon.clld.org/parameters/1602,səbúždam/ səbúdja se,wake up
+200-350,bulg1262,http://concepticon.clld.org/parameters/1159,pərdjá/ izpərdjá,break wind
+200-414,bulg1262,http://concepticon.clld.org/parameters/592,[uriníram],urinate
+200-989,bulg1262,http://concepticon.clld.org/parameters/592,pikája/ izpikája,urinate
+200-364,bulg1262,http://concepticon.clld.org/parameters/676,izxvə́rljam/ izxvə́rlja izpražnénija,defecate
+200-1676,bulg1262,http://concepticon.clld.org/parameters/1785,ímam pólovi snošénija,have sexual intercourse
+200-1547,bulg1262,http://concepticon.clld.org/parameters/52,trepérja,shiver
+200-896,bulg1262,http://concepticon.clld.org/parameters/138,kə́pja (se),bathe
+200-870,bulg1262,http://concepticon.clld.org/parameters/1152,səzdávam/ səzdám,beget (of father)
+200-525,bulg1262,http://concepticon.clld.org/parameters/1090,ráždam se/ rodjá se,born (to be)
+200-1626,bulg1262,http://concepticon.clld.org/parameters/1123,brémenna,pregnant
+200-770,bulg1262,http://concepticon.clld.org/parameters/1087,začévam/ začéna,conceive
+200-1127,bulg1262,http://concepticon.clld.org/parameters/1422,ževéja,"live, living, life"
+200-498,bulg1262,http://concepticon.clld.org/parameters/1422,žív,"live, living, life"
+200-821,bulg1262,http://concepticon.clld.org/parameters/1422,živót,"live, living, life"
+200-1413,bulg1262,http://concepticon.clld.org/parameters/1494,umíram/ umrá,"die, dead"
+200-337,bulg1262,http://concepticon.clld.org/parameters/1494,mə́rtəv,"die, dead"
+200-987,bulg1262,http://concepticon.clld.org/parameters/1494,umrjál,"die, dead"
+200-813,bulg1262,http://concepticon.clld.org/parameters/1904,udáven,drowned
+200-1084,bulg1262,http://concepticon.clld.org/parameters/1417,ubívam/ ubíja,kill
+200-1164,bulg1262,http://concepticon.clld.org/parameters/767,trúp,corpse
+200-511,bulg1262,http://concepticon.clld.org/parameters/1719,pogrébvam/ pogrebá,bury (the dead)
+200-1537,bulg1262,http://concepticon.clld.org/parameters/1773,grób,"grave, tomb"
+200-1692,bulg1262,http://concepticon.clld.org/parameters/785,sílen,"strong, mighty, powerful"
+200-616,bulg1262,http://concepticon.clld.org/parameters/785,móšten,"strong, mighty, powerful"
+200-387,bulg1262,http://concepticon.clld.org/parameters/1601,sláb,weak
+200-815,bulg1262,http://concepticon.clld.org/parameters/1364,zdráv,"well, health"
+200-33,bulg1262,http://concepticon.clld.org/parameters/1364,zdráve,"well, health"
+200-1012,bulg1262,http://concepticon.clld.org/parameters/1847,bólen,"sick, sickness"
+200-1319,bulg1262,http://concepticon.clld.org/parameters/1847,bólest,"sick, sickness"
+200-1328,bulg1262,http://concepticon.clld.org/parameters/1534,[temperatúra],fever
+200-529,bulg1262,http://concepticon.clld.org/parameters/1534,tréska,fever
+200-1062,bulg1262,http://concepticon.clld.org/parameters/1957,[gúša],goiter
+200-1612,bulg1262,http://concepticon.clld.org/parameters/102,prostúda,cold (catarrh)
+200-744,bulg1262,http://concepticon.clld.org/parameters/102,[xréma],cold (catarrh)
+200-631,bulg1262,http://concepticon.clld.org/parameters/102,nastínka,cold (catarrh)
+200-1865,bulg1262,http://concepticon.clld.org/parameters/1109,rána,"wound, sore"
+200-371,bulg1262,http://concepticon.clld.org/parameters/1109,jázva,"wound, sore"
+200-1487,bulg1262,http://concepticon.clld.org/parameters/1148,natə́rtvane,bruise
+200-495,bulg1262,http://concepticon.clld.org/parameters/1148,natə́rteno mjásto,bruise
+200-526,bulg1262,http://concepticon.clld.org/parameters/1148,[kontúzija],bruise
+200-1669,bulg1262,http://concepticon.clld.org/parameters/1903,podutiná,swelling
+200-981,bulg1262,http://concepticon.clld.org/parameters/148,sərbéž,itch
+200-1845,bulg1262,http://concepticon.clld.org/parameters/1584,príška,blister
+200-1252,bulg1262,http://concepticon.clld.org/parameters/1584,mexúr,blister
+200-1166,bulg1262,http://concepticon.clld.org/parameters/793,círej,boil (noun)
+200-921,bulg1262,http://concepticon.clld.org/parameters/1808,gnój,pus
+200-1684,bulg1262,http://concepticon.clld.org/parameters/497,béleg,scar
+200-566,bulg1262,http://concepticon.clld.org/parameters/499,lekúvam/ izlekúvam,"cure, heal"
+200-1648,bulg1262,http://concepticon.clld.org/parameters/597,lékar,physician
+200-1327,bulg1262,http://concepticon.clld.org/parameters/597,[dóktor],physician
+200-1113,bulg1262,http://concepticon.clld.org/parameters/1372,lekárstvo,"medicine, drug"
+200-1827,bulg1262,http://concepticon.clld.org/parameters/1372,lék,"medicine, drug"
+200-327,bulg1262,http://concepticon.clld.org/parameters/655,otróva,poison
+200-520,bulg1262,http://concepticon.clld.org/parameters/1757,umorén,"tired, weary"
+200-184,bulg1262,http://concepticon.clld.org/parameters/1757,izmorén,"tired, weary"
+200-1489,bulg1262,http://concepticon.clld.org/parameters/168,počívam (si)/ počína (si),rest
+200-1554,bulg1262,http://concepticon.clld.org/parameters/168,otpočivam si/ otpočina (si),rest
+200-1414,bulg1262,http://concepticon.clld.org/parameters/1564,mərzelív,lazy
+200-196,bulg1262,http://concepticon.clld.org/parameters/1125,plešív,bald
+200-281,bulg1262,http://concepticon.clld.org/parameters/320,[kúc̷],lame
+200-383,bulg1262,http://concepticon.clld.org/parameters/320,xróm,lame
+200-868,bulg1262,http://concepticon.clld.org/parameters/320,okuc̷jál,lame
+200-80,bulg1262,http://concepticon.clld.org/parameters/320,[sakát],lame
+200-1256,bulg1262,http://concepticon.clld.org/parameters/320,osakatjal,lame
+200-774,bulg1262,http://concepticon.clld.org/parameters/996,glúx,deaf
+200-973,bulg1262,http://concepticon.clld.org/parameters/1666,njám,mute
+200-1315,bulg1262,http://concepticon.clld.org/parameters/1653,sljáp,blind
+200-818,bulg1262,http://concepticon.clld.org/parameters/1463,opijanén,intoxicated
+200-907,bulg1262,http://concepticon.clld.org/parameters/1463,piján,intoxicated
+200-1366,bulg1262,http://concepticon.clld.org/parameters/590,gól,"naked, bare"
+200-785,bulg1262,http://concepticon.clld.org/parameters/1336,jám,eat
+200-402,bulg1262,http://concepticon.clld.org/parameters/1336,xránja se,eat
+200-1141,bulg1262,http://concepticon.clld.org/parameters/256,xraná,food
+200-1295,bulg1262,http://concepticon.clld.org/parameters/269,sgótven,cooked
+200-932,bulg1262,http://concepticon.clld.org/parameters/1959,suróv,raw
+200-674,bulg1262,http://concepticon.clld.org/parameters/178,zrjál,ripe
+200-1611,bulg1262,http://concepticon.clld.org/parameters/1958,zelén,"green, unripe"
+200-1811,bulg1262,http://concepticon.clld.org/parameters/1958,neuzrjál,"green, unripe"
+200-250,bulg1262,http://concepticon.clld.org/parameters/1728,gníl,rotten
+200-732,bulg1262,http://concepticon.clld.org/parameters/1401,píja,drink
+200-252,bulg1262,http://concepticon.clld.org/parameters/1533,glád,hunger
+200-252,bulg1262,http://concepticon.clld.org/parameters/199,glád,famine
+200-790,bulg1262,http://concepticon.clld.org/parameters/848,žážda,thirst
+200-13,bulg1262,http://concepticon.clld.org/parameters/1421,súča,suck
+200-8,bulg1262,http://concepticon.clld.org/parameters/1421,smúča,suck
+200-883,bulg1262,http://concepticon.clld.org/parameters/1421,smúkvam/ smúkna,suck
+200-1047,bulg1262,http://concepticon.clld.org/parameters/321,də́vča,chew
+200-142,bulg1262,http://concepticon.clld.org/parameters/321,sdə́vkvam/ sdə́vča,chew
+200-1577,bulg1262,http://concepticon.clld.org/parameters/897,gə́ltam,swallow
+200-1774,bulg1262,http://concepticon.clld.org/parameters/897,glə́tvam/ glə́tna,swallow
+200-599,bulg1262,http://concepticon.clld.org/parameters/129,dušá (se),choke
+200-74,bulg1262,http://concepticon.clld.org/parameters/129,zadušávam,choke
+200-1771,bulg1262,http://concepticon.clld.org/parameters/129,zadušá (se),choke
+200-1766,bulg1262,http://concepticon.clld.org/parameters/129,zadávjam/ zadávja (se),choke
+200-1330,bulg1262,http://concepticon.clld.org/parameters/129,dávja (se),choke
+200-1678,bulg1262,http://concepticon.clld.org/parameters/1100,gótvja,cook
+200-214,bulg1262,http://concepticon.clld.org/parameters/1100,sgótvjam/ sgótvja,cook
+200-1138,bulg1262,http://concepticon.clld.org/parameters/792,várja,boil (vb)
+200-1836,bulg1262,http://concepticon.clld.org/parameters/792,svarjávam/ svárja,boil (vb)
+200-393,bulg1262,http://concepticon.clld.org/parameters/2146,peká,"roast, fry"
+200-329,bulg1262,http://concepticon.clld.org/parameters/2146,izpíčam/ izpeká,"roast, fry"
+200-1862,bulg1262,http://concepticon.clld.org/parameters/2146,pə́rža,"roast, fry"
+200-393,bulg1262,http://concepticon.clld.org/parameters/183,peká,bake
+200-108,bulg1262,http://concepticon.clld.org/parameters/1143,[fúrna],oven
+200-952,bulg1262,http://concepticon.clld.org/parameters/1462,[téndžera],"pot, cooking vessel"
+200-1549,bulg1262,http://concepticon.clld.org/parameters/854,[bakə́r],kettle
+200-244,bulg1262,http://concepticon.clld.org/parameters/854,kotél,kettle
+200-1271,bulg1262,http://concepticon.clld.org/parameters/854,čájnik,kettle
+200-119,bulg1262,http://concepticon.clld.org/parameters/31,[tigán],pan
+200-914,bulg1262,http://concepticon.clld.org/parameters/31,[tavá],pan
+200-1814,bulg1262,http://concepticon.clld.org/parameters/31,tavíčka,pan
+200-1742,bulg1262,http://concepticon.clld.org/parameters/31,[gjuvéč],pan
+200-494,bulg1262,http://concepticon.clld.org/parameters/481,paníca,dish
+200-663,bulg1262,http://concepticon.clld.org/parameters/481,činíja,dish
+200-7,bulg1262,http://concepticon.clld.org/parameters/480,[činíja],plate
+200-836,bulg1262,http://concepticon.clld.org/parameters/480,plítka činíja,plate
+200-1436,bulg1262,http://concepticon.clld.org/parameters/480,bljúdo,plate
+200-806,bulg1262,http://concepticon.clld.org/parameters/1530,kúpa,bowl
+200-494,bulg1262,http://concepticon.clld.org/parameters/1530,paníca,bowl
+200-1236,bulg1262,http://concepticon.clld.org/parameters/270,[kána],"pitcher, jug"
+200-486,bulg1262,http://concepticon.clld.org/parameters/270,[stómna],"pitcher, jug"
+200-1837,bulg1262,http://concepticon.clld.org/parameters/476,čáša,"cup, drinking vessel"
+200-980,bulg1262,http://concepticon.clld.org/parameters/476,čáška,"cup, drinking vessel"
+200-934,bulg1262,http://concepticon.clld.org/parameters/271,činíjka,saucer
+200-1386,bulg1262,http://concepticon.clld.org/parameters/271,podlóžka,saucer
+200-446,bulg1262,http://concepticon.clld.org/parameters/1378,ləžíc̷a,spoon
+200-319,bulg1262,http://concepticon.clld.org/parameters/1352,nóž,knife (2)
+200-1702,bulg1262,http://concepticon.clld.org/parameters/1302,vílica,fork (2)
+200-1122,bulg1262,http://concepticon.clld.org/parameters/272,mašá,tongs
+200-386,bulg1262,http://concepticon.clld.org/parameters/272,štípci,tongs
+200-1358,bulg1262,http://concepticon.clld.org/parameters/1526,jádene,meal (a)
+200-1329,bulg1262,http://concepticon.clld.org/parameters/1322,zakúska,breakfast
+200-685,bulg1262,http://concepticon.clld.org/parameters/768,óbed/ objád,lunch
+200-1477,bulg1262,http://concepticon.clld.org/parameters/1833,obéd,dinner
+200-1579,bulg1262,http://concepticon.clld.org/parameters/1833,večérja,dinner
+200-1579,bulg1262,http://concepticon.clld.org/parameters/1833,večérja,supper
+200-1781,bulg1262,http://concepticon.clld.org/parameters/275,obélvam,peel
+200-1741,bulg1262,http://concepticon.clld.org/parameters/275,obélja,peel
+200-644,bulg1262,http://concepticon.clld.org/parameters/275,bélja (se),peel
+200-1066,bulg1262,http://concepticon.clld.org/parameters/86,presjávam/ preséja,"sieve, strain"
+200-1835,bulg1262,http://concepticon.clld.org/parameters/86,cedjá,"sieve, strain"
+200-1324,bulg1262,http://concepticon.clld.org/parameters/1767,stə́rža,scrape
+200-629,bulg1262,http://concepticon.clld.org/parameters/1767,ostə́rgvam/ ostə́rža,scrape
+200-497,bulg1262,http://concepticon.clld.org/parameters/2017,bə́rkam,"stir, mix"
+200-1635,bulg1262,http://concepticon.clld.org/parameters/2017,smésvam/ smésja,"stir, mix"
+200-1696,bulg1262,http://concepticon.clld.org/parameters/1368,xljáb,bread
+200-291,bulg1262,http://concepticon.clld.org/parameters/273,testó,dough
+200-1645,bulg1262,http://concepticon.clld.org/parameters/274,mésja,knead
+200-1574,bulg1262,http://concepticon.clld.org/parameters/274,zamésvam/ zamésjam/ zamésja,knead
+200-352,bulg1262,http://concepticon.clld.org/parameters/274,máčkam,knead
+200-1353,bulg1262,http://concepticon.clld.org/parameters/1594,brašnó,"meal, flour"
+200-240,bulg1262,http://concepticon.clld.org/parameters/1033,smáčkvam/ smáčkam,"crush, grind"
+200-1671,bulg1262,http://concepticon.clld.org/parameters/1033,mélja,"crush, grind"
+200-1283,bulg1262,http://concepticon.clld.org/parameters/636,mélnica,mill
+200-1442,bulg1262,http://concepticon.clld.org/parameters/636,vódenica,mill
+200-289,bulg1262,http://concepticon.clld.org/parameters/224,[xaván(če)],mortar (2)
+200-95,bulg1262,http://concepticon.clld.org/parameters/225,čúkalo,pestle
+200-1569,bulg1262,http://concepticon.clld.org/parameters/634,mesó,meat
+200-1650,bulg1262,http://concepticon.clld.org/parameters/1874,nádenica,sausage
+200-1655,bulg1262,http://concepticon.clld.org/parameters/1874,[sudžúk],sausage
+200-1339,bulg1262,http://concepticon.clld.org/parameters/1874,[lukánka],sausage
+200-1298,bulg1262,http://concepticon.clld.org/parameters/1874,[salám],sausage
+200-585,bulg1262,http://concepticon.clld.org/parameters/1547,[súpa],"soup, broth"
+200-1796,bulg1262,http://concepticon.clld.org/parameters/1547,[buljón],"soup, broth"
+200-1659,bulg1262,http://concepticon.clld.org/parameters/924,zelenčúk,vegetables
+200-336,bulg1262,http://concepticon.clld.org/parameters/924,zelenčúci,vegetables
+200-1718,bulg1262,http://concepticon.clld.org/parameters/832,bób,bean
+200-923,bulg1262,http://concepticon.clld.org/parameters/832,[fasúl],bean
+200-55,bulg1262,http://concepticon.clld.org/parameters/593,[kartóf],potato
+200-1573,bulg1262,http://concepticon.clld.org/parameters/1507,plód,fruit
+200-958,bulg1262,http://concepticon.clld.org/parameters/1966,kítka,bunch
+200-1037,bulg1262,http://concepticon.clld.org/parameters/1966,vrə́zka,bunch
+200-1663,bulg1262,http://concepticon.clld.org/parameters/1966,čépka,bunch
+200-1440,bulg1262,http://concepticon.clld.org/parameters/1966,grózd,bunch
+200-400,bulg1262,http://concepticon.clld.org/parameters/322,smokínja,fig
+200-676,bulg1262,http://concepticon.clld.org/parameters/920,grózde,grape
+200-903,bulg1262,http://concepticon.clld.org/parameters/191,órex,nut
+200-1341,bulg1262,http://concepticon.clld.org/parameters/1154,maslína,olive
+200-634,bulg1262,http://concepticon.clld.org/parameters/1484,máslo,oil
+200-727,bulg1262,http://concepticon.clld.org/parameters/1484,ólio/ olívija,oil
+200-1097,bulg1262,http://concepticon.clld.org/parameters/323,más,"grease, fat"
+200-409,bulg1262,http://concepticon.clld.org/parameters/323,mazniná,"grease, fat"
+200-669,bulg1262,http://concepticon.clld.org/parameters/1274,sól,salt
+200-1371,bulg1262,http://concepticon.clld.org/parameters/1385,[pipér],pepper
+200-208,bulg1262,http://concepticon.clld.org/parameters/1385,čér piper,pepper
+200-1048,bulg1262,http://concepticon.clld.org/parameters/1385,čúška,pepper
+200-1690,bulg1262,http://concepticon.clld.org/parameters/1385,pipérka,pepper
+200-1308,bulg1262,http://concepticon.clld.org/parameters/919,ljúta čúška,chili pepper
+200-24,bulg1262,http://concepticon.clld.org/parameters/919,ljúta pipérka,chili pepper
+200-1140,bulg1262,http://concepticon.clld.org/parameters/919,ljút červén pipér,chili pepper
+200-163,bulg1262,http://concepticon.clld.org/parameters/942,méd,honey
+200-158,bulg1262,http://concepticon.clld.org/parameters/862,záxar,sugar
+200-1356,bulg1262,http://concepticon.clld.org/parameters/635,mljáko,milk (noun)
+200-1119,bulg1262,http://concepticon.clld.org/parameters/93,dojá,milk (vb)
+200-1793,bulg1262,http://concepticon.clld.org/parameters/1569,sírene,cheese
+200-1401,bulg1262,http://concepticon.clld.org/parameters/1569,[kaškavál],cheese
+200-634,bulg1262,http://concepticon.clld.org/parameters/1245,máslo,butter
+200-1434,bulg1262,http://concepticon.clld.org/parameters/731,pitié,"beverage, drink"
+200-1347,bulg1262,http://concepticon.clld.org/parameters/731,napítka,"beverage, drink"
+200-1080,bulg1262,http://concepticon.clld.org/parameters/941,medovína,mead
+200-1705,bulg1262,http://concepticon.clld.org/parameters/1524,víno,wine
+200-1128,bulg1262,http://concepticon.clld.org/parameters/1639,[bíra],beer
+200-514,bulg1262,http://concepticon.clld.org/parameters/404,[bozá],fermented drink
+200-632,bulg1262,http://concepticon.clld.org/parameters/404,[fermentírala] napítka,fermented drink
+200-389,bulg1262,http://concepticon.clld.org/parameters/744,jajcé,egg
+200-820,bulg1262,http://concepticon.clld.org/parameters/1556,žəltə́k,egg yolk
+200-724,bulg1262,http://concepticon.clld.org/parameters/158,oblíčam/ obleká (se),put on (clothes)
+200-1346,bulg1262,http://concepticon.clld.org/parameters/1895,oblekló,"clothing, clothes"
+200-91,bulg1262,http://concepticon.clld.org/parameters/1895,dréxi,"clothing, clothes"
+200-1826,bulg1262,http://concepticon.clld.org/parameters/881,šiváč,tailor
+200-730,bulg1262,http://concepticon.clld.org/parameters/881,krojáč,tailor
+200-1753,bulg1262,http://concepticon.clld.org/parameters/1616,plát,cloth
+200-1163,bulg1262,http://concepticon.clld.org/parameters/1616,platnó,cloth
+200-1445,bulg1262,http://concepticon.clld.org/parameters/1616,tə́kan,cloth
+200-340,bulg1262,http://concepticon.clld.org/parameters/1616,súkno,cloth
+200-519,bulg1262,http://concepticon.clld.org/parameters/1616,kə́rpa,cloth
+200-1232,bulg1262,http://concepticon.clld.org/parameters/964,və́lna,wool
+200-1829,bulg1262,http://concepticon.clld.org/parameters/916,lén,"linen, flax"
+200-1864,bulg1262,http://concepticon.clld.org/parameters/1850,[pamúk],cotton
+200-643,bulg1262,http://concepticon.clld.org/parameters/1641,koprína,silk
+200-297,bulg1262,http://concepticon.clld.org/parameters/325,[fílc],felt
+200-1505,bulg1262,http://concepticon.clld.org/parameters/325,[fjótər],felt
+200-145,bulg1262,http://concepticon.clld.org/parameters/325,plə́st,felt
+200-902,bulg1262,http://concepticon.clld.org/parameters/325,[kečé],felt
+200-1627,bulg1262,http://concepticon.clld.org/parameters/580,kóža (s kózina),fur
+200-286,bulg1262,http://concepticon.clld.org/parameters/629,obrabótena kóža,leather
+200-1209,bulg1262,http://concepticon.clld.org/parameters/121,predá,spin
+200-111,bulg1262,http://concepticon.clld.org/parameters/121,izprídam/ izpredá,spin
+200-467,bulg1262,http://concepticon.clld.org/parameters/277,vreténo,spindle
+200-1563,bulg1262,http://concepticon.clld.org/parameters/133,təká,weave
+200-1181,bulg1262,http://concepticon.clld.org/parameters/1787,(təkáčen) stán,loom
+200-1185,bulg1262,http://concepticon.clld.org/parameters/1457,šíja,sew
+200-878,bulg1262,http://concepticon.clld.org/parameters/1382,iglá,needle
+200-1123,bulg1262,http://concepticon.clld.org/parameters/278,šílo,awl
+200-1820,bulg1262,http://concepticon.clld.org/parameters/1161,konéc,thread
+200-1816,bulg1262,http://concepticon.clld.org/parameters/157,[bojadísvam],dye
+200-635,bulg1262,http://concepticon.clld.org/parameters/157,[bojá],dye
+200-929,bulg1262,http://concepticon.clld.org/parameters/326,plášt,cloak
+200-536,bulg1262,http://concepticon.clld.org/parameters/326,[mántija],cloak
+200-422,bulg1262,http://concepticon.clld.org/parameters/326,[pelerína],cloak
+200-1211,bulg1262,http://concepticon.clld.org/parameters/326,namétka,cloak
+200-798,bulg1262,http://concepticon.clld.org/parameters/326,nametálo,cloak
+200-1116,bulg1262,http://concepticon.clld.org/parameters/327,[pónčo],poncho
+200-798,bulg1262,http://concepticon.clld.org/parameters/327,nametálo,poncho
+200-11,bulg1262,http://concepticon.clld.org/parameters/474,[róklja],woman's dress
+200-1761,bulg1262,http://concepticon.clld.org/parameters/603,[paltó],coat
+200-1074,bulg1262,http://concepticon.clld.org/parameters/1622,ríza,shirt
+200-1187,bulg1262,http://concepticon.clld.org/parameters/2012,[jaká,collar
+200-25,bulg1262,http://concepticon.clld.org/parameters/2012,jakíčka],collar
+200-736,bulg1262,http://concepticon.clld.org/parameters/1600,polá,skirt
+200-359,bulg1262,http://concepticon.clld.org/parameters/809,[pantalóni],trousers
+200-298,bulg1262,http://concepticon.clld.org/parameters/329,(də́ləg,"stocking, sock"
+200-31,bulg1262,http://concepticon.clld.org/parameters/329,kə́s) [čoráp],"stocking, sock"
+200-916,bulg1262,http://concepticon.clld.org/parameters/1381,obúvka,shoe
+200-1095,bulg1262,http://concepticon.clld.org/parameters/585,[botúš],boot
+200-1619,bulg1262,http://concepticon.clld.org/parameters/875,obuštár,"shoemaker, cobbler"
+200-463,bulg1262,http://concepticon.clld.org/parameters/875,kərpáč,"shoemaker, cobbler"
+200-194,bulg1262,http://concepticon.clld.org/parameters/875,kə́rpja,"shoemaker, cobbler"
+200-1871,bulg1262,http://concepticon.clld.org/parameters/2130,šápka,"hat, cap"
+200-1783,bulg1262,http://concepticon.clld.org/parameters/2130,[kaskét],"hat, cap"
+200-465,bulg1262,http://concepticon.clld.org/parameters/2130,[képe],"hat, cap"
+200-118,bulg1262,http://concepticon.clld.org/parameters/772,[kolán],"belt, girdle"
+200-89,bulg1262,http://concepticon.clld.org/parameters/772,pójas,"belt, girdle"
+200-176,bulg1262,http://concepticon.clld.org/parameters/867,rəkavíca,glove
+200-1000,bulg1262,http://concepticon.clld.org/parameters/1151,[voál],veil
+200-215,bulg1262,http://concepticon.clld.org/parameters/1151,[búlo],veil
+200-354,bulg1262,http://concepticon.clld.org/parameters/1851,[džób],pocket
+200-1114,bulg1262,http://concepticon.clld.org/parameters/757,[kópče],button
+200-1120,bulg1262,http://concepticon.clld.org/parameters/64,[toplíjka],pin
+200-1299,bulg1262,http://concepticon.clld.org/parameters/64,[karfíca],pin
+200-1751,bulg1262,http://concepticon.clld.org/parameters/917,ukrašénie,"ornament, adornment"
+200-1348,bulg1262,http://concepticon.clld.org/parameters/917,[ornamént],"ornament, adornment"
+200-1562,bulg1262,http://concepticon.clld.org/parameters/1029,skəpocénnost,jewel
+200-1292,bulg1262,http://concepticon.clld.org/parameters/1029,[bižú],jewel
+200-1098,bulg1262,http://concepticon.clld.org/parameters/1374,prə́sten,ring (for finger)
+200-487,bulg1262,http://concepticon.clld.org/parameters/1754,grívna,bracelet
+200-72,bulg1262,http://concepticon.clld.org/parameters/1961,[gerdán],necklace
+200-451,bulg1262,http://concepticon.clld.org/parameters/1961,[kolié],necklace
+200-228,bulg1262,http://concepticon.clld.org/parameters/1961,ogərlíca,necklace
+200-1004,bulg1262,http://concepticon.clld.org/parameters/1860,mənísto,bead
+200-464,bulg1262,http://concepticon.clld.org/parameters/770,obicá,earring
+200-262,bulg1262,http://concepticon.clld.org/parameters/770,óbica,earring
+200-618,bulg1262,http://concepticon.clld.org/parameters/330,[pándelka] za glavá,"headband, headdress"
+200-307,bulg1262,http://concepticon.clld.org/parameters/330,[kordéla],"headband, headdress"
+200-563,bulg1262,http://concepticon.clld.org/parameters/330,nákit/ ukrašénie za glavá,"headband, headdress"
+200-68,bulg1262,http://concepticon.clld.org/parameters/330,lénta,"headband, headdress"
+200-558,bulg1262,http://concepticon.clld.org/parameters/68,[tatuiróvka],tattoo
+200-1610,bulg1262,http://concepticon.clld.org/parameters/332,(nósna) kə́rpa,"handkerchief, rag"
+200-1444,bulg1262,http://concepticon.clld.org/parameters/332,parcál,"handkerchief, rag"
+200-519,bulg1262,http://concepticon.clld.org/parameters/1021,kə́rpa,towel
+200-780,bulg1262,http://concepticon.clld.org/parameters/1475,[grében],comb
+200-1274,bulg1262,http://concepticon.clld.org/parameters/1821,čétka,brush
+200-1604,bulg1262,http://concepticon.clld.org/parameters/333,zaplítam/ zapletá,braid
+200-320,bulg1262,http://concepticon.clld.org/parameters/333,pletá,braid
+200-1519,bulg1262,http://concepticon.clld.org/parameters/333,plítka,braid
+200-1281,bulg1262,http://concepticon.clld.org/parameters/151,brəsnáč,razor
+200-1748,bulg1262,http://concepticon.clld.org/parameters/1926,[mexlém],ointment
+200-1067,bulg1262,http://concepticon.clld.org/parameters/1926,mazílo,ointment
+200-1121,bulg1262,http://concepticon.clld.org/parameters/1926,[krem],ointment
+200-701,bulg1262,http://concepticon.clld.org/parameters/788,[sapún],soap
+200-365,bulg1262,http://concepticon.clld.org/parameters/1171,ogledálo,mirror
+200-1106,bulg1262,http://concepticon.clld.org/parameters/1099,živéja,"dwell, live"
+200-1646,bulg1262,http://concepticon.clld.org/parameters/1099,obitávam,"dwell, live"
+200-574,bulg1262,http://concepticon.clld.org/parameters/1252,kə́šta,house
+200-1176,bulg1262,http://concepticon.clld.org/parameters/1252,dóm,house
+200-189,bulg1262,http://concepticon.clld.org/parameters/1678,[kolíba],hut
+200-889,bulg1262,http://concepticon.clld.org/parameters/1678,xíža,hut
+200-1712,bulg1262,http://concepticon.clld.org/parameters/403,[oranžeríja],garden-house
+200-1284,bulg1262,http://concepticon.clld.org/parameters/403,párnik,garden-house
+200-707,bulg1262,http://concepticon.clld.org/parameters/1316,palátka,tent
+200-1880,bulg1262,http://concepticon.clld.org/parameters/736,dvór,"yard, court"
+200-757,bulg1262,http://concepticon.clld.org/parameters/334,ljátna kúxnja,cookhouse
+200-740,bulg1262,http://concepticon.clld.org/parameters/1450,stája,room
+200-255,bulg1262,http://concepticon.clld.org/parameters/1567,vratá,"door, gate"
+200-197,bulg1262,http://concepticon.clld.org/parameters/1567,[pórta],"door, gate"
+200-1235,bulg1262,http://concepticon.clld.org/parameters/1567,vrátnja,"door, gate"
+200-760,bulg1262,http://concepticon.clld.org/parameters/1567,vrátnik,"door, gate"
+200-275,bulg1262,http://concepticon.clld.org/parameters/80,okačálnik,"doorpost, jamb"
+200-273,bulg1262,http://concepticon.clld.org/parameters/80,straná na kása na vratá,"doorpost, jamb"
+200-1156,bulg1262,http://concepticon.clld.org/parameters/1596,[bráva],lock (noun)
+200-1454,bulg1262,http://concepticon.clld.org/parameters/1596,ključálka,lock (noun)
+200-1858,bulg1262,http://concepticon.clld.org/parameters/1596,[kofár],lock (noun)
+200-313,bulg1262,http://concepticon.clld.org/parameters/1012,[rezé],"latch, door-bolt"
+200-292,bulg1262,http://concepticon.clld.org/parameters/1472,kljúč,key
+200-581,bulg1262,http://concepticon.clld.org/parameters/1375,prozórec,window
+200-110,bulg1262,http://concepticon.clld.org/parameters/1632,pód,floor
+200-1057,bulg1262,http://concepticon.clld.org/parameters/933,stená,wall
+200-589,bulg1262,http://concepticon.clld.org/parameters/185,[kamína],fireplace
+200-449,bulg1262,http://concepticon.clld.org/parameters/185,ogníšte,fireplace
+200-721,bulg1262,http://concepticon.clld.org/parameters/859,péčka,stove
+200-699,bulg1262,http://concepticon.clld.org/parameters/1305,[komín],chimney
+200-838,bulg1262,http://concepticon.clld.org/parameters/1464,stə́lba,ladder
+200-1395,bulg1262,http://concepticon.clld.org/parameters/1663,legló,bed
+200-1719,bulg1262,http://concepticon.clld.org/parameters/1044,vəzglávnic̷a,pillow
+200-377,bulg1262,http://concepticon.clld.org/parameters/806,odejálo,blanket
+200-1265,bulg1262,http://concepticon.clld.org/parameters/1476,stól,chair
+200-831,bulg1262,http://concepticon.clld.org/parameters/1775,[mása],table
+200-1134,bulg1262,http://concepticon.clld.org/parameters/2131,[lámpa],"lamp, torch"
+200-318,bulg1262,http://concepticon.clld.org/parameters/2131,[fákel],"lamp, torch"
+200-977,bulg1262,http://concepticon.clld.org/parameters/1273,svéšt,candle
+200-60,bulg1262,http://concepticon.clld.org/parameters/745,[ráft],shelf
+200-552,bulg1262,http://concepticon.clld.org/parameters/745,políc̷a,shelf
+200-270,bulg1262,http://concepticon.clld.org/parameters/745,lávic̷a,shelf
+200-1749,bulg1262,http://concepticon.clld.org/parameters/205,koríto,trough
+200-1053,bulg1262,http://concepticon.clld.org/parameters/205,xranílka,trough
+200-1846,bulg1262,http://concepticon.clld.org/parameters/769,pókriv,roof
+200-946,bulg1262,http://concepticon.clld.org/parameters/279,sláma/ trəstíka za pókriv,thatch
+200-1146,bulg1262,http://concepticon.clld.org/parameters/829,[merték],rafter
+200-349,bulg1262,http://concepticon.clld.org/parameters/1132,gredá,beam
+200-1559,bulg1262,http://concepticon.clld.org/parameters/281,stə́lb,"post, pole"
+200-1213,bulg1262,http://concepticon.clld.org/parameters/281,prə́t,"post, pole"
+200-106,bulg1262,http://concepticon.clld.org/parameters/1227,dəská,board
+200-317,bulg1262,http://concepticon.clld.org/parameters/876,[árka],arch
+200-776,bulg1262,http://concepticon.clld.org/parameters/876,svód,arch
+200-926,bulg1262,http://concepticon.clld.org/parameters/877,zidár,mason
+200-1403,bulg1262,http://concepticon.clld.org/parameters/877,[djulgér(in)],mason
+200-1473,bulg1262,http://concepticon.clld.org/parameters/877,kamenodélec̷,mason
+200-646,bulg1262,http://concepticon.clld.org/parameters/1006,[túxla],brick
+200-1618,bulg1262,http://concepticon.clld.org/parameters/1731,[xorosán],mortar
+200-588,bulg1262,http://concepticon.clld.org/parameters/901,[kirpíč],adobe
+200-937,bulg1262,http://concepticon.clld.org/parameters/979,zemedélec,farmer
+200-1389,bulg1262,http://concepticon.clld.org/parameters/979,zemedélski stópanin,farmer
+200-1118,bulg1262,http://concepticon.clld.org/parameters/979,[férmer],farmer
+200-482,bulg1262,http://concepticon.clld.org/parameters/212,níva,field (for cultivation)
+200-65,bulg1262,http://concepticon.clld.org/parameters/586,gradína,garden
+200-681,bulg1262,http://concepticon.clld.org/parameters/1541,obrabótvam/ obrabótja,"cultivate, till"
+200-1182,bulg1262,http://concepticon.clld.org/parameters/1541,[kultivíram],"cultivate, till"
+200-729,bulg1262,http://concepticon.clld.org/parameters/1541,orá,"cultivate, till"
+200-888,bulg1262,http://concepticon.clld.org/parameters/1690,ográda,fence
+200-983,bulg1262,http://concepticon.clld.org/parameters/2002,róv,ditch
+200-1194,bulg1262,http://concepticon.clld.org/parameters/2002,ízkop,ditch
+200-846,bulg1262,http://concepticon.clld.org/parameters/2002,kanávka,ditch
+200-967,bulg1262,http://concepticon.clld.org/parameters/1921,izorávam/ izorá,plow
+200-729,bulg1262,http://concepticon.clld.org/parameters/1921,orá,plow
+200-1257,bulg1262,http://concepticon.clld.org/parameters/1921,plúg,plow
+200-1603,bulg1262,http://concepticon.clld.org/parameters/1921,rálo,plow
+200-1383,bulg1262,http://concepticon.clld.org/parameters/1794,brazdá,furrow
+200-1221,bulg1262,http://concepticon.clld.org/parameters/1418,kopája,dig
+200-627,bulg1262,http://concepticon.clld.org/parameters/1176,[lizgár],spade
+200-1540,bulg1262,http://concepticon.clld.org/parameters/1176,[bél],spade
+200-26,bulg1262,http://concepticon.clld.org/parameters/1176,lopáta,spade
+200-26,bulg1262,http://concepticon.clld.org/parameters/1901,lopáta,shovel
+200-882,bulg1262,http://concepticon.clld.org/parameters/284,motíka,hoe
+200-209,bulg1262,http://concepticon.clld.org/parameters/337,víla (za seno),fork
+200-568,bulg1262,http://concepticon.clld.org/parameters/338,grebló,rake
+200-1065,bulg1262,http://concepticon.clld.org/parameters/338,[tərmə́k],rake
+200-1296,bulg1262,http://concepticon.clld.org/parameters/748,séja,sow
+200-856,bulg1262,http://concepticon.clld.org/parameters/714,séme,seed
+200-1555,bulg1262,http://concepticon.clld.org/parameters/714,zərnó,seed
+200-1617,bulg1262,http://concepticon.clld.org/parameters/190,kosjá,"mow, reap"
+200-492,bulg1262,http://concepticon.clld.org/parameters/190,žə́na,"mow, reap"
+200-527,bulg1262,http://concepticon.clld.org/parameters/2132,sə́rp,"sickle, scythe"
+200-5,bulg1262,http://concepticon.clld.org/parameters/2132,kosá,"sickle, scythe"
+200-61,bulg1262,http://concepticon.clld.org/parameters/285,vəršéja/ vəršá,thresh
+200-1250,bulg1262,http://concepticon.clld.org/parameters/223,gúmno,threshing-floor
+200-1333,bulg1262,http://concepticon.clld.org/parameters/223,[xarmán],threshing-floor
+200-509,bulg1262,http://concepticon.clld.org/parameters/611,[rekólta],"crop, harvest"
+200-1555,bulg1262,http://concepticon.clld.org/parameters/605,zərnó,"grain (barley, oats etc)"
+200-1179,bulg1262,http://concepticon.clld.org/parameters/1077,pšeníca,wheat
+200-1248,bulg1262,http://concepticon.clld.org/parameters/1077,žíto,wheat
+200-575,bulg1262,http://concepticon.clld.org/parameters/932,ečemík,barley
+200-348,bulg1262,http://concepticon.clld.org/parameters/932,ečmík,barley
+200-652,bulg1262,http://concepticon.clld.org/parameters/23,rə́ž,rye
+200-1750,bulg1262,http://concepticon.clld.org/parameters/60,ovés,oats
+200-1288,bulg1262,http://concepticon.clld.org/parameters/506,cárevica,"maize, corn"
+200-138,bulg1262,http://concepticon.clld.org/parameters/926,[oríz],rice
+200-1109,bulg1262,http://concepticon.clld.org/parameters/606,trevá,grass
+200-1038,bulg1262,http://concepticon.clld.org/parameters/342,senó,hay
+200-410,bulg1262,http://concepticon.clld.org/parameters/653,rasténie,plant (noun)
+200-1028,bulg1262,http://concepticon.clld.org/parameters/1486,sadjá,plant (vb)
+200-500,bulg1262,http://concepticon.clld.org/parameters/670,kóren,root
+200-1379,bulg1262,http://concepticon.clld.org/parameters/1531,klón,branch
+200-1494,bulg1262,http://concepticon.clld.org/parameters/628,líst,leaf
+200-1338,bulg1262,http://concepticon.clld.org/parameters/628,listó,leaf
+200-483,bulg1262,http://concepticon.clld.org/parameters/239,c̷véte,flower
+200-927,bulg1262,http://concepticon.clld.org/parameters/906,dərvó,tree
+200-942,bulg1262,http://concepticon.clld.org/parameters/644,də́b,oak
+200-1101,bulg1262,http://concepticon.clld.org/parameters/1950,búk,beech
+200-895,bulg1262,http://concepticon.clld.org/parameters/1950,búka,beech
+200-1226,bulg1262,http://concepticon.clld.org/parameters/1855,brezá,birch
+200-1725,bulg1262,http://concepticon.clld.org/parameters/1740,bór,pine
+200-898,bulg1262,http://concepticon.clld.org/parameters/1915,elá,fir
+200-1806,bulg1262,http://concepticon.clld.org/parameters/968,žéləd,acorn
+200-47,bulg1262,http://concepticon.clld.org/parameters/343,lóza,vine
+200-1014,bulg1262,http://concepticon.clld.org/parameters/974,[tjutjún],tobacco
+200-263,bulg1262,http://concepticon.clld.org/parameters/1689,púša,smoke (tobacco)
+200-123,bulg1262,http://concepticon.clld.org/parameters/1124,[lulá],pipe
+200-1527,bulg1262,http://concepticon.clld.org/parameters/241,pə́n,tree stump
+200-126,bulg1262,http://concepticon.clld.org/parameters/241,də́ner,tree stump
+200-956,bulg1262,http://concepticon.clld.org/parameters/344,stvól,tree trunk
+200-126,bulg1262,http://concepticon.clld.org/parameters/344,də́ner,tree trunk
+200-1130,bulg1262,http://concepticon.clld.org/parameters/409,[čatálest] klón,forked branch
+200-508,bulg1262,http://concepticon.clld.org/parameters/1204,korá,bark
+200-373,bulg1262,http://concepticon.clld.org/parameters/345,məzgá,sap
+200-670,bulg1262,http://concepticon.clld.org/parameters/345,sók,sap
+200-961,bulg1262,http://concepticon.clld.org/parameters/1181,[pálma],palm tree
+200-1369,bulg1262,http://concepticon.clld.org/parameters/970,[kokósov] órex,coconut
+200-1884,bulg1262,http://concepticon.clld.org/parameters/1126,[c̷ítrusov] plód,citrus fruit
+200-1856,bulg1262,http://concepticon.clld.org/parameters/868,[banánovo] dərvó,banana tree
+200-1769,bulg1262,http://concepticon.clld.org/parameters/346,indíjska [smokínja],banyan
+200-1107,bulg1262,http://concepticon.clld.org/parameters/159,[batát],sweet potato
+200-686,bulg1262,http://concepticon.clld.org/parameters/159,sládək [kartóf],sweet potato
+200-1512,bulg1262,http://concepticon.clld.org/parameters/410,sládək [tropíčen] [kartóf],yam
+200-160,bulg1262,http://concepticon.clld.org/parameters/925,[tapióka],"tapioca, manioc, cassava"
+200-1381,bulg1262,http://concepticon.clld.org/parameters/925,[manióka],"tapioca, manioc, cassava"
+200-521,bulg1262,http://concepticon.clld.org/parameters/411,[kratúna],gourd
+200-1606,bulg1262,http://concepticon.clld.org/parameters/864,tíkva,"pumpkin, squash"
+200-1254,bulg1262,http://concepticon.clld.org/parameters/1927,[bambúk],bamboo
+200-403,bulg1262,http://concepticon.clld.org/parameters/146,záxarna trəstíka,sugar cane
+200-1710,bulg1262,http://concepticon.clld.org/parameters/33,kopríva,nettle
+200-761,bulg1262,http://concepticon.clld.org/parameters/641,gə́ba,mushroom
+200-1778,bulg1262,http://concepticon.clld.org/parameters/813,právja,"do, make"
+200-1715,bulg1262,http://concepticon.clld.org/parameters/813,naprávja,"do, make"
+200-221,bulg1262,http://concepticon.clld.org/parameters/984,rabótja,work
+200-1539,bulg1262,http://concepticon.clld.org/parameters/2004,izvívam/ izvíja (se),bend
+200-834,bulg1262,http://concepticon.clld.org/parameters/2004,svívam/ svíja (se),bend
+200-1501,bulg1262,http://concepticon.clld.org/parameters/2004,nagə́rbvam/nagə́rbjam/ nagə́rna se,bend
+200-1698,bulg1262,http://concepticon.clld.org/parameters/1470,sgə́vam/ sgə́na (se),fold
+200-1630,bulg1262,http://concepticon.clld.org/parameters/1470,nagə́vam/ nagə́na,fold
+200-344,bulg1262,http://concepticon.clld.org/parameters/1470,svívam/ svíja,fold
+200-276,bulg1262,http://concepticon.clld.org/parameters/1917,vrə́zvam/ və́rža,"tie, bind"
+200-1657,bulg1262,http://concepticon.clld.org/parameters/352,razvə́rzvam/ razvə́rža,untie
+200-1776,bulg1262,http://concepticon.clld.org/parameters/1627,veríga,chain
+200-115,bulg1262,http://concepticon.clld.org/parameters/1218,vəžé,"rope, cord"
+200-1423,bulg1262,http://concepticon.clld.org/parameters/1218,vəžénc̷e,"rope, cord"
+200-1305,bulg1262,http://concepticon.clld.org/parameters/1218,vrə́v,"rope, cord"
+200-667,bulg1262,http://concepticon.clld.org/parameters/760,və́zel,knot (noun)
+200-1834,bulg1262,http://concepticon.clld.org/parameters/2133,údrjam/ udárja,"strike (hit, beat)"
+200-10,bulg1262,http://concepticon.clld.org/parameters/2133,bíja,"strike (hit, beat)"
+200-192,bulg1262,http://concepticon.clld.org/parameters/354,údrjam s [jumrúk],pound with fist
+200-528,bulg1262,http://concepticon.clld.org/parameters/1432,réža,cut
+200-303,bulg1262,http://concepticon.clld.org/parameters/355,otsíčam/ otseká,cut down
+200-103,bulg1262,http://concepticon.clld.org/parameters/155,seká,"chop, hew"
+200-947,bulg1262,http://concepticon.clld.org/parameters/1434,promúšvam/ promúša,stab
+200-1724,bulg1262,http://concepticon.clld.org/parameters/1352,nož,knife
+200-251,bulg1262,http://concepticon.clld.org/parameters/356,nóžica,"scissors, shears"
+200-253,bulg1262,http://concepticon.clld.org/parameters/356,nóžici,"scissors, shears"
+200-1056,bulg1262,http://concepticon.clld.org/parameters/677,brádva,ax
+200-993,bulg1262,http://concepticon.clld.org/parameters/290,teslá,adze
+200-1777,bulg1262,http://concepticon.clld.org/parameters/680,čúpja (se),break
+200-380,bulg1262,http://concepticon.clld.org/parameters/680,sčupvam/ sčúpja (se),break
+200-378,bulg1262,http://concepticon.clld.org/parameters/680,razbívam/ razbíja (se),break
+200-1079,bulg1262,http://concepticon.clld.org/parameters/588,sčúpen,broken
+200-1807,bulg1262,http://concepticon.clld.org/parameters/588,razbít,broken
+200-1372,bulg1262,http://concepticon.clld.org/parameters/1437,c̷épja (se),split
+200-1396,bulg1262,http://concepticon.clld.org/parameters/1437,razc̷épvam/ razc̷épja (se),split
+200-801,bulg1262,http://concepticon.clld.org/parameters/1735,kə́sam (se),tear
+200-661,bulg1262,http://concepticon.clld.org/parameters/1735,skə́svam/ skə́sam (se),tear
+200-1788,bulg1262,http://concepticon.clld.org/parameters/291,odíram/ oderá,"flay, skin"
+200-893,bulg1262,http://concepticon.clld.org/parameters/1449,tríja,"rub, wipe"
+200-1332,bulg1262,http://concepticon.clld.org/parameters/1449,bə́rša,"rub, wipe"
+200-887,bulg1262,http://concepticon.clld.org/parameters/214,raztjágam/ raztégna (se),stretch
+200-219,bulg1262,http://concepticon.clld.org/parameters/214,prostíram/ prostrá (se),stretch
+200-1466,bulg1262,http://concepticon.clld.org/parameters/1455,[də́rpam/ drə́pvam/ drə́pna],pull
+200-219,bulg1262,http://concepticon.clld.org/parameters/38,prostíram/ prostrá (se),spread out
+200-1798,bulg1262,http://concepticon.clld.org/parameters/357,zakáčam/ zakačá,hang up
+200-217,bulg1262,http://concepticon.clld.org/parameters/1913,natískam/ natísvam/ natísna,press
+200-1392,bulg1262,http://concepticon.clld.org/parameters/1913,stískam/ stísna,press
+200-665,bulg1262,http://concepticon.clld.org/parameters/1414,izstískvam/ izstískam,"squeeze, wring"
+200-873,bulg1262,http://concepticon.clld.org/parameters/1414,izc̷eždam/ izc̷edjá,"squeeze, wring"
+200-1392,bulg1262,http://concepticon.clld.org/parameters/1414,stískam/ stísna,"squeeze, wring"
+200-1421,bulg1262,http://concepticon.clld.org/parameters/1487,léja,pour
+200-1426,bulg1262,http://concepticon.clld.org/parameters/1487,nalívam/ naléja,pour
+200-1239,bulg1262,http://concepticon.clld.org/parameters/1453,míja (se),wash
+200-1178,bulg1262,http://concepticon.clld.org/parameters/1453,perá,wash
+200-27,bulg1262,http://concepticon.clld.org/parameters/230,metá,sweep
+200-656,bulg1262,http://concepticon.clld.org/parameters/245,metlá,broom
+200-491,bulg1262,http://concepticon.clld.org/parameters/1361,sečivó [instrumént],tool
+200-1794,bulg1262,http://concepticon.clld.org/parameters/1042,dərvodélec̷,carpenter
+200-879,bulg1262,http://concepticon.clld.org/parameters/1042,[dogramadžíja],carpenter
+200-596,bulg1262,http://concepticon.clld.org/parameters/1840,strojá,build
+200-854,bulg1262,http://concepticon.clld.org/parameters/1840,gradjá,build
+200-604,bulg1262,http://concepticon.clld.org/parameters/1501,provərtjávam/ provə́rtam/ provərtjá,bore
+200-922,bulg1262,http://concepticon.clld.org/parameters/1501,probívam/ probíja,bore
+200-1726,bulg1262,http://concepticon.clld.org/parameters/46,dəlbája,hollow out
+200-1667,bulg1262,http://concepticon.clld.org/parameters/46,izdəlbávam/ izdəlbája,hollow out
+200-830,bulg1262,http://concepticon.clld.org/parameters/1948,[trión],saw
+200-1492,bulg1262,http://concepticon.clld.org/parameters/1481,čúk,hammer
+200-322,bulg1262,http://concepticon.clld.org/parameters/502,gvózdej,nail
+200-793,bulg1262,http://concepticon.clld.org/parameters/502,[pirón],nail
+200-124,bulg1262,http://concepticon.clld.org/parameters/1069,lepílo,glue
+200-46,bulg1262,http://concepticon.clld.org/parameters/1001,kováč,"smith, blacksmith"
+200-155,bulg1262,http://concepticon.clld.org/parameters/288,ková,forge
+200-1556,bulg1262,http://concepticon.clld.org/parameters/288,kováčnic̷a,forge
+200-1551,bulg1262,http://concepticon.clld.org/parameters/1648,nakoválnja,anvil
+200-1421,bulg1262,http://concepticon.clld.org/parameters/211,léja,cast (metals)
+200-499,bulg1262,http://concepticon.clld.org/parameters/211,otlívam/ otléja,cast (metals)
+200-569,bulg1262,http://concepticon.clld.org/parameters/1369,zláto,gold
+200-1282,bulg1262,http://concepticon.clld.org/parameters/759,srebró,silver
+200-163,bulg1262,http://concepticon.clld.org/parameters/1825,méd,"copper, bronze"
+200-1549,bulg1262,http://concepticon.clld.org/parameters/1825,[bakə́r],"copper, bronze"
+200-1169,bulg1262,http://concepticon.clld.org/parameters/1825,[bronz],"copper, bronze"
+200-1851,bulg1262,http://concepticon.clld.org/parameters/621,željázo,iron
+200-1716,bulg1262,http://concepticon.clld.org/parameters/627,olóvo,lead (noun)
+200-1215,bulg1262,http://concepticon.clld.org/parameters/358,[kaláj],"tin, tinplate"
+200-1764,bulg1262,http://concepticon.clld.org/parameters/358,[teneké],"tin, tinplate"
+200-1825,bulg1262,http://concepticon.clld.org/parameters/358,[tenekíja],"tin, tinplate"
+200-1030,bulg1262,http://concepticon.clld.org/parameters/359,grənčár,potter
+200-345,bulg1262,http://concepticon.clld.org/parameters/289,[fórma],mold (clay etc)
+200-824,bulg1262,http://concepticon.clld.org/parameters/289,kalə́p,mold (clay etc)
+200-1677,bulg1262,http://concepticon.clld.org/parameters/1399,gliná,clay
+200-1213,bulg1262,http://concepticon.clld.org/parameters/1399,prə́t,clay
+200-1850,bulg1262,http://concepticon.clld.org/parameters/604,stəkló,glass
+200-320,bulg1262,http://concepticon.clld.org/parameters/1729,pletá,"weave, plait"
+200-1545,bulg1262,http://concepticon.clld.org/parameters/1539,kóšnica,basket
+200-1165,bulg1262,http://concepticon.clld.org/parameters/195,rogózka,mat
+200-802,bulg1262,http://concepticon.clld.org/parameters/292,[kilím],rug
+200-1706,bulg1262,http://concepticon.clld.org/parameters/292,[čérga],rug
+200-294,bulg1262,http://concepticon.clld.org/parameters/293,mréža,netbag
+200-1861,bulg1262,http://concepticon.clld.org/parameters/1971,vetriló,fan (noun)
+200-562,bulg1262,http://concepticon.clld.org/parameters/360,véja (si),fan (vb)
+200-1726,bulg1262,http://concepticon.clld.org/parameters/228,dəlbája,carve
+200-1481,bulg1262,http://concepticon.clld.org/parameters/228,izrjázvam,carve
+200-1746,bulg1262,http://concepticon.clld.org/parameters/228,izvájvam/ izvája,carve
+200-1398,bulg1262,http://concepticon.clld.org/parameters/914,[skúlptor],sculptor
+200-339,bulg1262,http://concepticon.clld.org/parameters/914,vajátel,sculptor
+200-620,bulg1262,http://concepticon.clld.org/parameters/1002,[státuja],statue
+200-408,bulg1262,http://concepticon.clld.org/parameters/1002,izvajánie,statue
+200-398,bulg1262,http://concepticon.clld.org/parameters/1979,dletó,chisel
+200-635,bulg1262,http://concepticon.clld.org/parameters/647,[bojá],paint (noun)
+200-812,bulg1262,http://concepticon.clld.org/parameters/2001,risúvam,paint (vb)
+200-1816,bulg1262,http://concepticon.clld.org/parameters/2001,[bojadísvam],paint (vb)
+200-1089,bulg1262,http://concepticon.clld.org/parameters/765,dvíža (se),move
+200-1393,bulg1262,http://concepticon.clld.org/parameters/765,méstja (se),move
+200-1139,bulg1262,http://concepticon.clld.org/parameters/1588,obrə́štam/ obrə́na (se),turn over
+200-1220,bulg1262,http://concepticon.clld.org/parameters/1588,preobrə́štam/ preobrə́na (se),turn over
+200-826,bulg1262,http://concepticon.clld.org/parameters/1588,prekatúrvam/ prekatúrja (se),turn over
+200-1115,bulg1262,http://concepticon.clld.org/parameters/1445,obrə́štam/ obrə́na (se) (krəgóm),turn around
+200-1509,bulg1262,http://concepticon.clld.org/parameters/1113,zavívam/ zavíja (se),"wind, wrap"
+200-167,bulg1262,http://concepticon.clld.org/parameters/1113,uvívam/ uvíja,"wind, wrap"
+200-1458,bulg1262,http://concepticon.clld.org/parameters/1113,víja (se),"wind, wrap"
+200-1293,bulg1262,http://concepticon.clld.org/parameters/1113,omotávam/ omotája,"wind, wrap"
+200-1390,bulg1262,http://concepticon.clld.org/parameters/827,tərkáljam/ tərkoljá (se),roll
+200-1476,bulg1262,http://concepticon.clld.org/parameters/827,váljam (se),roll
+200-401,bulg1262,http://concepticon.clld.org/parameters/808,púskam/ púštam/ púsna,drop (vb)
+200-513,bulg1262,http://concepticon.clld.org/parameters/808,izpúskam/ izpúštam/ izpúsna,drop (vb)
+200-284,bulg1262,http://concepticon.clld.org/parameters/430,usúkvam/ usúča (se),twist
+200-538,bulg1262,http://concepticon.clld.org/parameters/430,izvívam/ izvíja,twist
+200-1817,bulg1262,http://concepticon.clld.org/parameters/430,zasúkvam/ zasúča,twist
+200-13,bulg1262,http://concepticon.clld.org/parameters/430,súča,twist
+200-912,bulg1262,http://concepticon.clld.org/parameters/568,izdígam/ izdígna se,rise
+200-98,bulg1262,http://concepticon.clld.org/parameters/568,vdígam/ vdígna se,rise
+200-328,bulg1262,http://concepticon.clld.org/parameters/568,stávam/ stána,rise
+200-334,bulg1262,http://concepticon.clld.org/parameters/501,vdígam/ vdígna,"raise, lift"
+200-811,bulg1262,http://concepticon.clld.org/parameters/501,dígam/ dígna,"raise, lift"
+200-716,bulg1262,http://concepticon.clld.org/parameters/501,povdígam/ povdígna,"raise, lift"
+200-22,bulg1262,http://concepticon.clld.org/parameters/501,izdígam/ izdígna,"raise, lift"
+200-935,bulg1262,http://concepticon.clld.org/parameters/501,izprávjam/ izprávja,"raise, lift"
+200-1840,bulg1262,http://concepticon.clld.org/parameters/1280,pádam/ pádna,fall
+200-608,bulg1262,http://concepticon.clld.org/parameters/2253,kápja,drip
+200-1135,bulg1262,http://concepticon.clld.org/parameters/1456,xvə́rljam/ xvə́rlja,throw
+200-823,bulg1262,http://concepticon.clld.org/parameters/702,xváštam/ xvána,catch (ball)
+200-182,bulg1262,http://concepticon.clld.org/parameters/1909,klatja (se),shake
+200-1433,bulg1262,http://concepticon.clld.org/parameters/1909,pokláštam/ poklátja (se),shake
+200-239,bulg1262,http://concepticon.clld.org/parameters/1909,razkláštam/ razklátja,shake
+200-605,bulg1262,http://concepticon.clld.org/parameters/1909,raztə́rsvam/ raztə́rsja (se),shake
+200-1275,bulg1262,http://concepticon.clld.org/parameters/1909,tresá (se),shake
+200-751,bulg1262,http://concepticon.clld.org/parameters/2003,teká,flow
+200-734,bulg1262,http://concepticon.clld.org/parameters/2003,vlívam/ vléja se,flow
+200-290,bulg1262,http://concepticon.clld.org/parameters/1088,potə́vam/ potə́na,sink
+200-1357,bulg1262,http://concepticon.clld.org/parameters/1574,plávam,float
+200-154,bulg1262,http://concepticon.clld.org/parameters/1574,plúvam,float
+200-154,bulg1262,http://concepticon.clld.org/parameters/1439,plúvam,swim
+200-1357,bulg1262,http://concepticon.clld.org/parameters/1439,plávam,swim
+200-1285,bulg1262,http://concepticon.clld.org/parameters/119,gmúrkam/ gmúrvam/ gmúrna se,dive
+200-285,bulg1262,http://concepticon.clld.org/parameters/365,c̷ópvam/ c̷ópna,splash
+200-394,bulg1262,http://concepticon.clld.org/parameters/365,prə́skam,splash
+200-803,bulg1262,http://concepticon.clld.org/parameters/365,naprə́skvam/ naprə́skam,splash
+200-666,bulg1262,http://concepticon.clld.org/parameters/787,plávam s platná,sail (vb)
+200-1357,bulg1262,http://concepticon.clld.org/parameters/787,plávam,sail (vb)
+200-154,bulg1262,http://concepticon.clld.org/parameters/787,plúvam,sail (vb)
+200-1683,bulg1262,http://concepticon.clld.org/parameters/1441,letjá,fly (vb)
+200-1658,bulg1262,http://concepticon.clld.org/parameters/175,dúxam,blow
+200-1360,bulg1262,http://concepticon.clld.org/parameters/175,dúxvam/ dúxna,blow
+200-763,bulg1262,http://concepticon.clld.org/parameters/175,véja,blow
+200-982,bulg1262,http://concepticon.clld.org/parameters/96,pəlzjá,"creep, crawl"
+200-343,bulg1262,http://concepticon.clld.org/parameters/96,lázja,"creep, crawl"
+200-1024,bulg1262,http://concepticon.clld.org/parameters/66,koleníča,kneel
+200-675,bulg1262,http://concepticon.clld.org/parameters/296,svívam se,crouch
+200-1099,bulg1262,http://concepticon.clld.org/parameters/296,gótvja se da skóča,crouch
+200-436,bulg1262,http://concepticon.clld.org/parameters/1324,xlə́zgam/ xlə́zvam/ xlə́zna (se),"slide, slip"
+200-796,bulg1262,http://concepticon.clld.org/parameters/1324,plə́zgam/ plə́zna (s)e,"slide, slip"
+200-45,bulg1262,http://concepticon.clld.org/parameters/1829,skáčam/ skóča,"jump, leap"
+200-1088,bulg1262,http://concepticon.clld.org/parameters/1135,rítam,kick
+200-964,bulg1262,http://concepticon.clld.org/parameters/1135,rítvam/ rítna,kick
+200-1142,bulg1262,http://concepticon.clld.org/parameters/1879,igrája,dance
+200-1430,bulg1262,http://concepticon.clld.org/parameters/1879,tancúvam,dance
+200-258,bulg1262,http://concepticon.clld.org/parameters/1443,vərvjá,walk
+200-381,bulg1262,http://concepticon.clld.org/parameters/1443,xódja,walk
+200-754,bulg1262,http://concepticon.clld.org/parameters/366,[kúc̷am/,limp
+200-1416,bulg1262,http://concepticon.clld.org/parameters/366,kúc̷(nu)vam,limp
+200-162,bulg1262,http://concepticon.clld.org/parameters/366,kúc̷na],limp
+200-391,bulg1262,http://concepticon.clld.org/parameters/366,[nakúc̷vam],limp
+200-814,bulg1262,http://concepticon.clld.org/parameters/1519,bjágam,run
+200-1773,bulg1262,http://concepticon.clld.org/parameters/1519,tíčam,run
+200-122,bulg1262,http://concepticon.clld.org/parameters/695,otívam/ otída,go
+200-381,bulg1262,http://concepticon.clld.org/parameters/695,xódja,go
+200-1241,bulg1262,http://concepticon.clld.org/parameters/705,káčvam/ káča se,go up
+200-1528,bulg1262,http://concepticon.clld.org/parameters/1102,izkáčvam/ izkačá (se),climb
+200-1242,bulg1262,http://concepticon.clld.org/parameters/1102,katérja se,climb
+200-1241,bulg1262,http://concepticon.clld.org/parameters/1102,káčvam/ káča se,climb
+200-41,bulg1262,http://concepticon.clld.org/parameters/2014,slízam/ sljáza,go down
+200-1828,bulg1262,http://concepticon.clld.org/parameters/2014,spúskam/ spúštam/ spúsna se,go down
+200-951,bulg1262,http://concepticon.clld.org/parameters/1107,izlízam/ izljáza,go out
+200-672,bulg1262,http://concepticon.clld.org/parameters/1446,ídvam/ dójda,come
+200-708,bulg1262,http://concepticon.clld.org/parameters/581,vrə́štam/ və́rna se,come back
+200-1533,bulg1262,http://concepticon.clld.org/parameters/1752,otívam/ otída si,"go away, depart"
+200-1203,bulg1262,http://concepticon.clld.org/parameters/1752,zaminávam/ zamína,"go away, depart"
+200-847,bulg1262,http://concepticon.clld.org/parameters/485,izčézvam/ izčézna,disappear
+200-814,bulg1262,http://concepticon.clld.org/parameters/956,bjágam,flee
+200-1510,bulg1262,http://concepticon.clld.org/parameters/956,pobjágvam/ pobjágna,flee
+200-719,bulg1262,http://concepticon.clld.org/parameters/1085,slédvam,follow
+200-1490,bulg1262,http://concepticon.clld.org/parameters/1047,preslédvam,pursue
+200-1514,bulg1262,http://concepticon.clld.org/parameters/1387,pristígam/ pristígna,"reach, arrive"
+200-242,bulg1262,http://concepticon.clld.org/parameters/1387,stígam/ stígna,"reach, arrive"
+200-235,bulg1262,http://concepticon.clld.org/parameters/1387,dostígam/ dostígna,"reach, arrive"
+200-1294,bulg1262,http://concepticon.clld.org/parameters/1778,dobližávam/ dobližá,approach
+200-853,bulg1262,http://concepticon.clld.org/parameters/749,vlízam/ vljáza,enter
+200-1025,bulg1262,http://concepticon.clld.org/parameters/700,nósja,carry (bear)
+200-1159,bulg1262,http://concepticon.clld.org/parameters/412,nósja (na rəká),carry-in-hand
+200-382,bulg1262,http://concepticon.clld.org/parameters/413,nósja (na rámo),carry-on-shoulder
+200-435,bulg1262,http://concepticon.clld.org/parameters/414,nósja (na glavá),carry-on-head
+200-682,bulg1262,http://concepticon.clld.org/parameters/415,nósja (pod rəká),carry-underarm
+200-1007,bulg1262,http://concepticon.clld.org/parameters/692,donásjam/ donesá,bring
+200-1025,bulg1262,http://concepticon.clld.org/parameters/692,nósja,bring
+200-36,bulg1262,http://concepticon.clld.org/parameters/1127,izpráštam/ izprátja,send
+200-769,bulg1262,http://concepticon.clld.org/parameters/43,vódja,lead (vb)
+200-1126,bulg1262,http://concepticon.clld.org/parameters/741,[káram],drive
+200-742,bulg1262,http://concepticon.clld.org/parameters/367,jázdja,ride
+200-1689,bulg1262,http://concepticon.clld.org/parameters/367,jáxam,ride
+200-370,bulg1262,http://concepticon.clld.org/parameters/1452,bútam/ bútvam/ bútna (se),"push, shove"
+200-1538,bulg1262,http://concepticon.clld.org/parameters/667,pə́t,road
+200-880,bulg1262,http://concepticon.clld.org/parameters/2252,pətéka,path
+200-1822,bulg1262,http://concepticon.clld.org/parameters/2252,pətéčka,path
+200-738,bulg1262,http://concepticon.clld.org/parameters/1011,móst,bridge
+200-1264,bulg1262,http://concepticon.clld.org/parameters/122,kolá,"carriage, wagon, cart"
+200-1576,bulg1262,http://concepticon.clld.org/parameters/122,[karúca],"carriage, wagon, cart"
+200-1069,bulg1262,http://concepticon.clld.org/parameters/122,[karéta],"carriage, wagon, cart"
+200-739,bulg1262,http://concepticon.clld.org/parameters/710,koleló,wheel
+200-231,bulg1262,http://concepticon.clld.org/parameters/1769,ós,axle
+200-545,bulg1262,http://concepticon.clld.org/parameters/14,ígo,yoke
+200-766,bulg1262,http://concepticon.clld.org/parameters/14,járem,yoke
+200-860,bulg1262,http://concepticon.clld.org/parameters/14,xomót,yoke
+200-1849,bulg1262,http://concepticon.clld.org/parameters/740,kórab,ship
+200-1607,bulg1262,http://concepticon.clld.org/parameters/1844,lódka,boat
+200-1100,bulg1262,http://concepticon.clld.org/parameters/1970,[kanú],canoe
+200-203,bulg1262,http://concepticon.clld.org/parameters/1970,[rusálka],canoe
+200-147,bulg1262,http://concepticon.clld.org/parameters/416,straníčni poplávəci,outrigger
+200-690,bulg1262,http://concepticon.clld.org/parameters/1664,[sál],raft
+200-568,bulg1262,http://concepticon.clld.org/parameters/108,grebló,oar
+200-1462,bulg1262,http://concepticon.clld.org/parameters/108,vesló,oar
+200-568,bulg1262,http://concepticon.clld.org/parameters/234,grebló,paddle (noun)
+200-1462,bulg1262,http://concepticon.clld.org/parameters/234,vesló,paddle (noun)
+200-1472,bulg1262,http://concepticon.clld.org/parameters/1849,grebá/ grébvam/ grébna,row (vb)
+200-1670,bulg1262,http://concepticon.clld.org/parameters/108,[kormílo],rudder
+200-849,bulg1262,http://concepticon.clld.org/parameters/108,[rúl],rudder
+200-230,bulg1262,http://concepticon.clld.org/parameters/184,[máčta],mast
+200-1184,bulg1262,http://concepticon.clld.org/parameters/786,kórabno platnó,sail (noun)
+200-639,bulg1262,http://concepticon.clld.org/parameters/1870,kótva,anchor
+200-223,bulg1262,http://concepticon.clld.org/parameters/610,pristánište,"harbor, port"
+200-368,bulg1262,http://concepticon.clld.org/parameters/1922,slízam/ sváljam na súša,land (vb)
+200-121,bulg1262,http://concepticon.clld.org/parameters/1922,[debarkíram],land (vb)
+200-728,bulg1262,http://concepticon.clld.org/parameters/773,ímam,have
+200-1368,bulg1262,http://concepticon.clld.org/parameters/684,pritežávam,"own, possess"
+200-728,bulg1262,http://concepticon.clld.org/parameters/684,ímam,"own, possess"
+200-1597,bulg1262,http://concepticon.clld.org/parameters/1749,vzémam/ vzímam/ vzéma,take
+200-823,bulg1262,http://concepticon.clld.org/parameters/2021,xváštam/ xvána,"seize, grasp"
+200-104,bulg1262,http://concepticon.clld.org/parameters/2021,ulávjam,"seize, grasp"
+200-1768,bulg1262,http://concepticon.clld.org/parameters/2021,sgrábčvam/ sgrábča,"seize, grasp"
+200-1622,bulg1262,http://concepticon.clld.org/parameters/1448,də́rža,hold
+200-1507,bulg1262,http://concepticon.clld.org/parameters/694,dobívam/ dobíja,"get, obtain"
+200-1758,bulg1262,http://concepticon.clld.org/parameters/1477,zapázvam/ zapázja,"keep, retain"
+200-1622,bulg1262,http://concepticon.clld.org/parameters/1477,də́rža,"keep, retain"
+200-185,bulg1262,http://concepticon.clld.org/parameters/738,néšto,thing
+200-1240,bulg1262,http://concepticon.clld.org/parameters/738,véšt,thing
+200-1786,bulg1262,http://concepticon.clld.org/parameters/738,predmét,thing
+200-1842,bulg1262,http://concepticon.clld.org/parameters/1447,dávam/ dám,give
+200-600,bulg1262,http://concepticon.clld.org/parameters/85,vrə́štam/ və́rna,give back
+200-1758,bulg1262,http://concepticon.clld.org/parameters/1997,zapázvam/ zapázja,"preserve, look after"
+200-1622,bulg1262,http://concepticon.clld.org/parameters/1997,də́rža,"preserve, look after"
+200-369,bulg1262,http://concepticon.clld.org/parameters/1997,gríža se za,"preserve, look after"
+200-901,bulg1262,http://concepticon.clld.org/parameters/2008,spasjávam/ spasjá,"save, rescue"
+200-1400,bulg1262,http://concepticon.clld.org/parameters/681,razrušávam/ ruzrušá,destroy
+200-99,bulg1262,http://concepticon.clld.org/parameters/44,vredjá na,"harm, injure, damage"
+200-1662,bulg1262,http://concepticon.clld.org/parameters/44,povréždam/ povredjá,"harm, injure, damage"
+200-272,bulg1262,http://concepticon.clld.org/parameters/1468,tə́rsja,"seek, look for"
+200-1151,bulg1262,http://concepticon.clld.org/parameters/1468,potə́rsvam/ potə́rsja,"seek, look for"
+200-919,bulg1262,http://concepticon.clld.org/parameters/719,namíram/ namérja,find
+200-1887,bulg1262,http://concepticon.clld.org/parameters/1660,gúbja,lose
+200-1599,bulg1262,http://concepticon.clld.org/parameters/1660,zagúbvam/ zagúbja,lose
+200-401,bulg1262,http://concepticon.clld.org/parameters/1095,púskam/ púštam/ púsna,"release, let go"
+200-1629,bulg1262,http://concepticon.clld.org/parameters/1559,[parí,money
+200-460,bulg1262,http://concepticon.clld.org/parameters/1559,pará],money
+200-1543,bulg1262,http://concepticon.clld.org/parameters/1867,[monéta],coin
+200-1770,bulg1262,http://concepticon.clld.org/parameters/712,bogát,rich
+200-968,bulg1262,http://concepticon.clld.org/parameters/1674,béden,poor
+200-426,bulg1262,http://concepticon.clld.org/parameters/1934,prosják,beggar
+200-1277,bulg1262,http://concepticon.clld.org/parameters/1774,svidlív,"avaricious, stingy"
+200-190,bulg1262,http://concepticon.clld.org/parameters/1774,srebroljubív,"avaricious, stingy"
+200-825,bulg1262,http://concepticon.clld.org/parameters/1774,álčen,"avaricious, stingy"
+200-439,bulg1262,http://concepticon.clld.org/parameters/1774,skəperníčeski,"avaricious, stingy"
+200-396,bulg1262,http://concepticon.clld.org/parameters/1774,stístnat,"avaricious, stingy"
+200-1171,bulg1262,http://concepticon.clld.org/parameters/582,davám/ dám nazáem,lend
+200-1200,bulg1262,http://concepticon.clld.org/parameters/1823,vzémam nazáem,borrow
+200-911,bulg1262,http://concepticon.clld.org/parameters/369,dəlžá,owe
+200-601,bulg1262,http://concepticon.clld.org/parameters/1914,də́lg,debt
+200-680,bulg1262,http://concepticon.clld.org/parameters/718,pláštam,pay (vb)
+200-81,bulg1262,http://concepticon.clld.org/parameters/718,zapláštam/ zaplatjá,pay (vb)
+200-73,bulg1262,http://concepticon.clld.org/parameters/1081,smétka,"account, reckoning"
+200-1349,bulg1262,http://concepticon.clld.org/parameters/1081,smjátane,"account, reckoning"
+200-274,bulg1262,http://concepticon.clld.org/parameters/873,dánək,"tax, tribute"
+200-522,bulg1262,http://concepticon.clld.org/parameters/873,nalóg,"tax, tribute"
+200-1877,bulg1262,http://concepticon.clld.org/parameters/856,naémam/ naéma,hire
+200-1019,bulg1262,http://concepticon.clld.org/parameters/1122,nádnic̷a,wages
+200-310,bulg1262,http://concepticon.clld.org/parameters/1122,zapláta,wages
+200-720,bulg1262,http://concepticon.clld.org/parameters/733,pečélja,earn
+200-1633,bulg1262,http://concepticon.clld.org/parameters/1869,kupúvam/ kúpja,buy
+200-71,bulg1262,http://concepticon.clld.org/parameters/1571,prodávam/ prodám,sell
+200-1588,bulg1262,http://concepticon.clld.org/parameters/2135,tərgúvam,"trade, barter"
+200-886,bulg1262,http://concepticon.clld.org/parameters/1082,tərgóvec̷,merchant
+200-1154,bulg1262,http://concepticon.clld.org/parameters/633,[pazár],market (place)
+200-773,bulg1262,http://concepticon.clld.org/parameters/633,təržíšte,market (place)
+200-1397,bulg1262,http://concepticon.clld.org/parameters/752,[magazín],"store, shop"
+200-1592,bulg1262,http://concepticon.clld.org/parameters/657,c̷ená,price
+200-1385,bulg1262,http://concepticon.clld.org/parameters/1426,skə́p,"dear (costly, expensive)"
+200-338,bulg1262,http://concepticon.clld.org/parameters/1887,[évtin],cheap
+200-20,bulg1262,http://concepticon.clld.org/parameters/884,deljá,share (distribute)
+200-1227,bulg1262,http://concepticon.clld.org/parameters/884,razdéljam,share (distribute)
+200-842,bulg1262,http://concepticon.clld.org/parameters/1098,téglja (se),weigh
+200-1316,bulg1262,http://concepticon.clld.org/parameters/1098,pretégljam/ pretéglja,weigh
+200-1463,bulg1262,http://concepticon.clld.org/parameters/1098,mérja se,weigh
+200-891,bulg1262,http://concepticon.clld.org/parameters/1685,sled,after
+200-366,bulg1262,http://concepticon.clld.org/parameters/1685,pósle,after
+200-641,bulg1262,http://concepticon.clld.org/parameters/723,zad,behind
+200-261,bulg1262,http://concepticon.clld.org/parameters/1816,do,beside
+200-671,bulg1262,http://concepticon.clld.org/parameters/1816,pri,beside
+200-950,bulg1262,http://concepticon.clld.org/parameters/1816,pokráj,beside
+200-541,bulg1262,http://concepticon.clld.org/parameters/1326,(na)dólu,"down, below"
+200-42,bulg1262,http://concepticon.clld.org/parameters/1882,préd,before
+200-590,bulg1262,http://concepticon.clld.org/parameters/1882,otpréd,before
+200-269,bulg1262,http://concepticon.clld.org/parameters/1019,prédna část,front
+200-850,bulg1262,http://concepticon.clld.org/parameters/1019,líceva straná/ část,front
+200-535,bulg1262,http://concepticon.clld.org/parameters/1019,[fasáda],front
+200-549,bulg1262,http://concepticon.clld.org/parameters/1606,və́tre,"inside, in"
+200-1161,bulg1262,http://concepticon.clld.org/parameters/1606,otvə́tre,"inside, in"
+200-1756,bulg1262,http://concepticon.clld.org/parameters/762,və́n ot,outside
+200-679,bulg1262,http://concepticon.clld.org/parameters/762,otvə́n,outside
+200-759,bulg1262,http://concepticon.clld.org/parameters/1485,pod,under
+200-598,bulg1262,http://concepticon.clld.org/parameters/1591,góre (na),"up, above"
+200-1384,bulg1262,http://concepticon.clld.org/parameters/1591,nad,"up, above"
+200-1831,bulg1262,http://concepticon.clld.org/parameters/1591,otgóre,"up, above"
+200-784,bulg1262,http://concepticon.clld.org/parameters/723,mjásto,place
+200-254,bulg1262,http://concepticon.clld.org/parameters/723,slágam/ slóža,place
+200-1784,bulg1262,http://concepticon.clld.org/parameters/723,postávjam/ postávja,place
+200-254,bulg1262,http://concepticon.clld.org/parameters/998,slágam/ slóža,put
+200-1784,bulg1262,http://concepticon.clld.org/parameters/998,postávjam/ postávja,put
+200-468,bulg1262,http://concepticon.clld.org/parameters/1416,sedjá,sit
+200-1044,bulg1262,http://concepticon.clld.org/parameters/215,ljágam/ légna si,lie down
+200-363,bulg1262,http://concepticon.clld.org/parameters/215,ležá,lie down
+200-328,bulg1262,http://concepticon.clld.org/parameters/1442,stávam/ stána,stand
+200-1,bulg1262,http://concepticon.clld.org/parameters/1442,stojá,stand
+200-1394,bulg1262,http://concepticon.clld.org/parameters/987,ostávam/ ostána,"remain, stay"
+200-1581,bulg1262,http://concepticon.clld.org/parameters/838,ostánki,"remains, left overs"
+200-1810,bulg1262,http://concepticon.clld.org/parameters/7,səbíram/ səberá (se),"collect, gather"
+200-871,bulg1262,http://concepticon.clld.org/parameters/7,pribíram/ priberá,"collect, gather"
+200-1572,bulg1262,http://concepticon.clld.org/parameters/371,vzémam/ vzéma,pick up
+200-334,bulg1262,http://concepticon.clld.org/parameters/371,vdígam/ vdígna,pick up
+200-716,bulg1262,http://concepticon.clld.org/parameters/371,povdígam/ povdígna,pick up
+200-1419,bulg1262,http://concepticon.clld.org/parameters/1576,trúpam (se),pile up
+200-869,bulg1262,http://concepticon.clld.org/parameters/1576,natrúpvam (se),pile up
+200-994,bulg1262,http://concepticon.clld.org/parameters/1743,svə́rzvam/ svə́rža,"join, unite"
+200-1070,bulg1262,http://concepticon.clld.org/parameters/1743,səedinjávam (se),"join, unite"
+200-1149,bulg1262,http://concepticon.clld.org/parameters/1359,otdéljam/ otdeljá,separate
+200-1614,bulg1262,http://concepticon.clld.org/parameters/1359,razdéljam/ razdeljá,separate
+200-530,bulg1262,http://concepticon.clld.org/parameters/1119,délja (se),divide
+200-1073,bulg1262,http://concepticon.clld.org/parameters/1119,razdéljam (se)/ razdeljá (se),divide
+200-1058,bulg1262,http://concepticon.clld.org/parameters/1156,otvárjam/ otvórja (se),open
+200-931,bulg1262,http://concepticon.clld.org/parameters/1046,zatvárjam/ zatvórja (se),"shut, close"
+200-704,bulg1262,http://concepticon.clld.org/parameters/761,pokrívam/ pokríja,cover
+200-260,bulg1262,http://concepticon.clld.org/parameters/602,kríja (se),"hide, conceal"
+200-1438,bulg1262,http://concepticon.clld.org/parameters/602,skrívam/ skríja (se),"hide, conceal"
+200-456,bulg1262,http://concepticon.clld.org/parameters/602,ukrívam/ ukríva (se),"hide, conceal"
+200-200,bulg1262,http://concepticon.clld.org/parameters/602,prikrívam/ prikríja (se),"hide, conceal"
+200-703,bulg1262,http://concepticon.clld.org/parameters/602,zakrívam/ zakríja,"hide, conceal"
+200-704,bulg1262,http://concepticon.clld.org/parameters/602,pokrívam/ pokríja,"hide, conceal"
+200-974,bulg1262,http://concepticon.clld.org/parameters/1265,visók,high
+200-547,bulg1262,http://concepticon.clld.org/parameters/1265,visóko,high
+200-779,bulg1262,http://concepticon.clld.org/parameters/1265,navisóko,high
+200-458,bulg1262,http://concepticon.clld.org/parameters/721,nísək,low
+200-1532,bulg1262,http://concepticon.clld.org/parameters/721,nísko,low
+200-1301,bulg1262,http://concepticon.clld.org/parameters/1753,vrə́x,top
+200-351,bulg1262,http://concepticon.clld.org/parameters/690,də́no,bottom
+200-570,bulg1262,http://concepticon.clld.org/parameters/742,kráj,end
+200-206,bulg1262,http://concepticon.clld.org/parameters/372,óstər,pointed
+200-1503,bulg1262,http://concepticon.clld.org/parameters/372,izóstren,pointed
+200-1432,bulg1262,http://concepticon.clld.org/parameters/372,zaóstren,pointed
+200-1594,bulg1262,http://concepticon.clld.org/parameters/863,ostrié,edge
+200-1190,bulg1262,http://concepticon.clld.org/parameters/863,rə́b,edge
+200-570,bulg1262,http://concepticon.clld.org/parameters/863,kráj,edge
+200-78,bulg1262,http://concepticon.clld.org/parameters/682,straná,side
+200-171,bulg1262,http://concepticon.clld.org/parameters/1093,sredá,"middle, center"
+200-1740,bulg1262,http://concepticon.clld.org/parameters/1093,[c̷éntər],"middle, center"
+200-1608,bulg1262,http://concepticon.clld.org/parameters/1019,désen,right (side)
+200-1745,bulg1262,http://concepticon.clld.org/parameters/1019,djásno,right (side)
+200-1642,bulg1262,http://concepticon.clld.org/parameters/1019,djásnata strána,right (side)
+200-326,bulg1262,http://concepticon.clld.org/parameters/244,ljáv,left (side)
+200-1508,bulg1262,http://concepticon.clld.org/parameters/244,ljávo,left (side)
+200-578,bulg1262,http://concepticon.clld.org/parameters/244,ljávata straná,left (side)
+200-324,bulg1262,http://concepticon.clld.org/parameters/1942,blízo,near (adv)
+200-1844,bulg1262,http://concepticon.clld.org/parameters/1942,nablízo,near (adv)
+200-603,bulg1262,http://concepticon.clld.org/parameters/1406,daléko/ daléč/ daléče,far (adv)
+200-257,bulg1262,http://concepticon.clld.org/parameters/1406,nadaléko/ nadaléč/ nadaléče,far (adv)
+200-1268,bulg1262,http://concepticon.clld.org/parameters/1877,íztok,east
+200-694,bulg1262,http://concepticon.clld.org/parameters/1817,západ,west
+200-1039,bulg1262,http://concepticon.clld.org/parameters/1598,séver,north
+200-695,bulg1262,http://concepticon.clld.org/parameters/1595,júg,south
+200-144,bulg1262,http://concepticon.clld.org/parameters/479,rastá,grow
+200-315,bulg1262,http://concepticon.clld.org/parameters/479,porástvam/ porásna,grow
+200-1207,bulg1262,http://concepticon.clld.org/parameters/479,izrástvam/ izrásna,grow
+200-1320,bulg1262,http://concepticon.clld.org/parameters/479,narástvam/ narásna,grow
+200-693,bulg1262,http://concepticon.clld.org/parameters/479,otgléždam/ otglédam,grow
+200-1182,bulg1262,http://concepticon.clld.org/parameters/479,[kultivíram],grow
+200-1373,bulg1262,http://concepticon.clld.org/parameters/1506,mérja,measure
+200-1243,bulg1262,http://concepticon.clld.org/parameters/1506,izmérvam/ izmérja,measure
+200-1688,bulg1262,http://concepticon.clld.org/parameters/1506,mjárka,measure
+200-595,bulg1262,http://concepticon.clld.org/parameters/1506,mjára,measure
+200-1342,bulg1262,http://concepticon.clld.org/parameters/81,pédja,"span, fathom"
+200-1688,bulg1262,http://concepticon.clld.org/parameters/81,mjárka,"span, fathom"
+200-342,bulg1262,http://concepticon.clld.org/parameters/1202,goljám,"large, big"
+200-1767,bulg1262,http://concepticon.clld.org/parameters/1246,málək,"small, little"
+200-837,bulg1262,http://concepticon.clld.org/parameters/1203,də́ləg,long
+200-974,bulg1262,http://concepticon.clld.org/parameters/711,visók,tall
+200-458,bulg1262,http://concepticon.clld.org/parameters/1645,nísək,short
+200-1744,bulg1262,http://concepticon.clld.org/parameters/1645,kə́s,short
+200-437,bulg1262,http://concepticon.clld.org/parameters/1243,širók,"wide, broad"
+200-1355,bulg1262,http://concepticon.clld.org/parameters/1267,tésen,narrow
+200-810,bulg1262,http://concepticon.clld.org/parameters/1244,debél,thick (in dimension)
+200-1615,bulg1262,http://concepticon.clld.org/parameters/1400,tə́nək,thin (in dimension)
+200-722,bulg1262,http://concepticon.clld.org/parameters/1593,dəlbók,deep
+200-965,bulg1262,http://concepticon.clld.org/parameters/193,plítək,shallow
+200-18,bulg1262,http://concepticon.clld.org/parameters/1633,plósək,flat
+200-962,bulg1262,http://concepticon.clld.org/parameters/1404,práv,straight
+200-582,bulg1262,http://concepticon.clld.org/parameters/297,krív,crooked
+200-510,bulg1262,http://concepticon.clld.org/parameters/297,izkríven,crooked
+200-1616,bulg1262,http://concepticon.clld.org/parameters/297,izvít,crooked
+200-1731,bulg1262,http://concepticon.clld.org/parameters/1071,kúka,hook
+200-480,bulg1262,http://concepticon.clld.org/parameters/1071,[čengél],hook
+200-786,bulg1262,http://concepticon.clld.org/parameters/192,ə́gəl,corner
+200-183,bulg1262,http://concepticon.clld.org/parameters/1367,krə́st,cross
+200-1258,bulg1262,http://concepticon.clld.org/parameters/850,[kvadráten],square
+200-1206,bulg1262,http://concepticon.clld.org/parameters/850,[kvadrát],square
+200-412,bulg1262,http://concepticon.clld.org/parameters/1395,krə́gəl,round
+200-128,bulg1262,http://concepticon.clld.org/parameters/1467,krə́g,circle
+200-984,bulg1262,http://concepticon.clld.org/parameters/1845,[sféra],"sphere, ball"
+200-282,bulg1262,http://concepticon.clld.org/parameters/1845,kəlbó,"sphere, ball"
+200-913,bulg1262,http://concepticon.clld.org/parameters/1048,[línija],line
+200-1273,bulg1262,http://concepticon.clld.org/parameters/1048,čertá,line
+200-245,bulg1262,http://concepticon.clld.org/parameters/1667,dúpka,hole
+200-1041,bulg1262,http://concepticon.clld.org/parameters/1558,podóben,"like, similar"
+200-543,bulg1262,http://concepticon.clld.org/parameters/1558,sxóden,"like, similar"
+200-1475,bulg1262,http://concepticon.clld.org/parameters/1264,menjá (se),change
+200-1711,bulg1262,http://concepticon.clld.org/parameters/1264,izménjam/ izmenjá (se),change
+200-1055,bulg1262,http://concepticon.clld.org/parameters/1264,proménjam/ promenjávam/ promenjá (se),change
+200-332,bulg1262,http://concepticon.clld.org/parameters/1264,sménjam/ smenjá,change
+200-662,bulg1262,http://concepticon.clld.org/parameters/1294,[núla],"zero, nothing"
+200-1531,bulg1262,http://concepticon.clld.org/parameters/1294,níšto,"zero, nothing"
+200-237,bulg1262,http://concepticon.clld.org/parameters/1515,edín,one
+200-105,bulg1262,http://concepticon.clld.org/parameters/1515,ednó,one
+200-448,bulg1262,http://concepticon.clld.org/parameters/1498,dvá/ dvé,two
+200-1625,bulg1262,http://concepticon.clld.org/parameters/1498,dvé,two
+200-299,bulg1262,http://concepticon.clld.org/parameters/492,trí,three
+200-1280,bulg1262,http://concepticon.clld.org/parameters/1500,čétiri,four
+200-1259,bulg1262,http://concepticon.clld.org/parameters/493,pét,five
+200-1500,bulg1262,http://concepticon.clld.org/parameters/1703,šést,six
+200-447,bulg1262,http://concepticon.clld.org/parameters/1704,sédem,seven
+200-1237,bulg1262,http://concepticon.clld.org/parameters/1705,ósem,eight
+200-1787,bulg1262,http://concepticon.clld.org/parameters/1483,dévet,nine
+200-1522,bulg1262,http://concepticon.clld.org/parameters/1515,déset,ten
+200-1075,bulg1262,http://concepticon.clld.org/parameters/1706,edinádeset,eleven
+200-127,bulg1262,http://concepticon.clld.org/parameters/1706,edinájset,eleven
+200-1516,bulg1262,http://concepticon.clld.org/parameters/1707,dvanádeset,twelve
+200-96,bulg1262,http://concepticon.clld.org/parameters/1707,dvanájset,twelve
+200-1596,bulg1262,http://concepticon.clld.org/parameters/1709,petnádeset,fifteen
+200-85,bulg1262,http://concepticon.clld.org/parameters/1709,petnájset,fifteen
+200-442,bulg1262,http://concepticon.clld.org/parameters/1710,dvádeset,twenty
+200-432,bulg1262,http://concepticon.clld.org/parameters/1634,stó,hundred
+200-1520,bulg1262,http://concepticon.clld.org/parameters/1843,[xiljáda],thousand
+200-711,bulg1262,http://concepticon.clld.org/parameters/1420,brojá,count
+200-120,bulg1262,http://concepticon.clld.org/parameters/98,vséki,"every, all"
+200-9,bulg1262,http://concepticon.clld.org/parameters/98,vsíčki,"every, all"
+200-861,bulg1262,http://concepticon.clld.org/parameters/1198,mnógo,"much, many"
+200-1560,bulg1262,http://concepticon.clld.org/parameters/1992,póveče,more
+200-175,bulg1262,http://concepticon.clld.org/parameters/1242,málko,"little (quantity), few"
+200-150,bulg1262,http://concepticon.clld.org/parameters/1242,njákolko,"little (quantity), few"
+200-1063,bulg1262,http://concepticon.clld.org/parameters/1881,dostátəčno,enough
+200-175,bulg1262,http://concepticon.clld.org/parameters/1241,málko,some
+200-150,bulg1262,http://concepticon.clld.org/parameters/1241,njákolko,some
+200-1639,bulg1262,http://concepticon.clld.org/parameters/2023,mnóžestvo,"multitude, crowd"
+200-1471,bulg1262,http://concepticon.clld.org/parameters/2023,təlpá,"multitude, crowd"
+200-1291,bulg1262,http://concepticon.clld.org/parameters/1429,pə́len,full
+200-1752,bulg1262,http://concepticon.clld.org/parameters/1624,prázen,empty
+200-168,bulg1262,http://concepticon.clld.org/parameters/779,část,"part, piece"
+200-14,bulg1262,http://concepticon.clld.org/parameters/779,parčé,"part, piece"
+200-505,bulg1262,http://concepticon.clld.org/parameters/816,polovína,half
+200-385,bulg1262,http://concepticon.clld.org/parameters/1580,sám,"alone, only"
+200-948,bulg1262,http://concepticon.clld.org/parameters/1580,edínstven,"alone, only"
+200-312,bulg1262,http://concepticon.clld.org/parameters/1580,sámo,"alone, only"
+200-1214,bulg1262,http://concepticon.clld.org/parameters/728,prə́v,first
+200-1035,bulg1262,http://concepticon.clld.org/parameters/1529,posléden,last
+200-438,bulg1262,http://concepticon.clld.org/parameters/1384,vtóri,second
+200-1010,bulg1262,http://concepticon.clld.org/parameters/1888,[číft],pair
+200-1005,bulg1262,http://concepticon.clld.org/parameters/1888,dvójka,pair
+200-1090,bulg1262,http://concepticon.clld.org/parameters/1546,dvá pə́ti,two times
+200-1830,bulg1262,http://concepticon.clld.org/parameters/1546,dváž,two times
+200-335,bulg1262,http://concepticon.clld.org/parameters/1859,tréti,third
+200-594,bulg1262,http://concepticon.clld.org/parameters/417,trí pə́ti,three times
+200-1754,bulg1262,http://concepticon.clld.org/parameters/417,tríž,three times
+200-1124,bulg1262,http://concepticon.clld.org/parameters/892,vréme,time
+200-1707,bulg1262,http://concepticon.clld.org/parameters/1789,və́zrast,age
+200-211,bulg1262,http://concepticon.clld.org/parameters/1231,nóv,new
+200-1638,bulg1262,http://concepticon.clld.org/parameters/1207,mlád,young
+200-1186,bulg1262,http://concepticon.clld.org/parameters/1229,stár,old
+200-804,bulg1262,http://concepticon.clld.org/parameters/672,ránen,early
+200-1867,bulg1262,http://concepticon.clld.org/parameters/672,ráno,early
+200-1504,bulg1262,http://concepticon.clld.org/parameters/477,kə́sen,late
+200-544,bulg1262,http://concepticon.clld.org/parameters/477,kə́sno,late
+200-917,bulg1262,http://concepticon.clld.org/parameters/1376,segá,now
+200-390,bulg1262,http://concepticon.clld.org/parameters/1963,vednága,immediately
+200-416,bulg1262,http://concepticon.clld.org/parameters/1963,nezabávno,immediately
+200-941,bulg1262,http://concepticon.clld.org/parameters/1631,bə́rz,"swift, fast, quick"
+200-700,bulg1262,http://concepticon.clld.org/parameters/701,báven,slow
+200-1343,bulg1262,http://concepticon.clld.org/parameters/754,bə́rzam,"hasten, hurry"
+200-904,bulg1262,http://concepticon.clld.org/parameters/425,bávja (se),"retard, delay"
+200-430,bulg1262,http://concepticon.clld.org/parameters/425,zabávjam/ zabávja,"retard, delay"
+200-752,bulg1262,http://concepticon.clld.org/parameters/1806,póčvam/ póčna,"begin, beginning"
+200-642,bulg1262,http://concepticon.clld.org/parameters/1806,zapóčvam/ zapóčna (se),"begin, beginning"
+200-305,bulg1262,http://concepticon.clld.org/parameters/1806,načálo,"begin, beginning"
+200-990,bulg1262,http://concepticon.clld.org/parameters/1186,trája,"last, endure"
+200-570,bulg1262,http://concepticon.clld.org/parameters/743,kráj,end (temporal)
+200-132,bulg1262,http://concepticon.clld.org/parameters/1766,svə́ršvam/ svə́rša,finish
+200-62,bulg1262,http://concepticon.clld.org/parameters/1928,prestávam/ prestána,"cease, stop"
+200-379,bulg1262,http://concepticon.clld.org/parameters/1928,spíram/ sprá,"cease, stop"
+200-1502,bulg1262,http://concepticon.clld.org/parameters/790,gotóv,ready
+200-1681,bulg1262,http://concepticon.clld.org/parameters/1676,vínagi,always
+200-1558,bulg1262,http://concepticon.clld.org/parameters/1852,čésto,often
+200-38,bulg1262,http://concepticon.clld.org/parameters/1544,ponjákoga,sometimes
+200-1859,bulg1262,http://concepticon.clld.org/parameters/703,skóro,soon
+200-1565,bulg1262,http://concepticon.clld.org/parameters/418,də́lgo,long-time (for a)
+200-1112,bulg1262,http://concepticon.clld.org/parameters/418,za də́lgo vréme,long-time (for a)
+200-1133,bulg1262,http://concepticon.clld.org/parameters/1656,níkoga,never
+200-1628,bulg1262,http://concepticon.clld.org/parameters/204,pák,again
+200-1461,bulg1262,http://concepticon.clld.org/parameters/204,otnóvo,again
+200-969,bulg1262,http://concepticon.clld.org/parameters/1260,dén,day
+200-287,bulg1262,http://concepticon.clld.org/parameters/1233,nóšt,night
+200-421,bulg1262,http://concepticon.clld.org/parameters/729,zorá,dawn
+200-1870,bulg1262,http://concepticon.clld.org/parameters/1339,sútrin,morning
+200-140,bulg1262,http://concepticon.clld.org/parameters/1339,útre,morning
+200-771,bulg1262,http://concepticon.clld.org/parameters/12,pládne,"noon, midday"
+200-1266,bulg1262,http://concepticon.clld.org/parameters/12,óbed,"noon, midday"
+200-1431,bulg1262,http://concepticon.clld.org/parameters/1807,sledóbed,afternoon
+200-1728,bulg1262,http://concepticon.clld.org/parameters/1629,véčer,evening
+200-756,bulg1262,http://concepticon.clld.org/parameters/1283,dnés,today
+200-140,bulg1262,http://concepticon.clld.org/parameters/1329,útre,tomorrow
+200-52,bulg1262,http://concepticon.clld.org/parameters/1179,vdrúgiden,day-after-tomorrow
+200-1656,bulg1262,http://concepticon.clld.org/parameters/1174,včéra,yesterday
+200-621,bulg1262,http://concepticon.clld.org/parameters/1180,závčera,day-before-yesterday
+200-975,bulg1262,http://concepticon.clld.org/parameters/1353,čás,hour
+200-1535,bulg1262,http://concepticon.clld.org/parameters/1323,časóvnik,"clock, timepiece"
+200-1212,bulg1262,http://concepticon.clld.org/parameters/1469,sédmica,week
+200-1129,bulg1262,http://concepticon.clld.org/parameters/1699,nedélja,Sunday
+200-843,bulg1262,http://concepticon.clld.org/parameters/1697,ponedélnik,Monday
+200-996,bulg1262,http://concepticon.clld.org/parameters/1695,vtórnik,Tuesday
+200-411,bulg1262,http://concepticon.clld.org/parameters/1694,srjáda,Wednesday
+200-698,bulg1262,http://concepticon.clld.org/parameters/1693,četvə́rtək,Thursday
+200-137,bulg1262,http://concepticon.clld.org/parameters/1692,pétək,Friday
+200-572,bulg1262,http://concepticon.clld.org/parameters/1700,sə́bota,Saturday
+200-723,bulg1262,http://concepticon.clld.org/parameters/1370,mésec,month
+200-139,bulg1262,http://concepticon.clld.org/parameters/1226,godína,year
+200-506,bulg1262,http://concepticon.clld.org/parameters/1471,zíma,winter
+200-1680,bulg1262,http://concepticon.clld.org/parameters/1537,prólet,spring
+200-1247,bulg1262,http://concepticon.clld.org/parameters/1342,ljáto,summer
+200-1782,bulg1262,http://concepticon.clld.org/parameters/1276,ésen,autumn
+200-844,bulg1262,http://concepticon.clld.org/parameters/691,godíšno vréme,season
+200-628,bulg1262,http://concepticon.clld.org/parameters/691,[sezón],season
+200-859,bulg1262,http://concepticon.clld.org/parameters/1587,[miríša],smell (vb intrans)
+200-1201,bulg1262,http://concepticon.clld.org/parameters/375,dúša,sniff
+200-1583,bulg1262,http://concepticon.clld.org/parameters/375,[pomirísvam/ pomiríša],sniff
+200-859,bulg1262,http://concepticon.clld.org/parameters/375,[miríša],sniff
+200-1605,bulg1262,http://concepticon.clld.org/parameters/375,podsmə́rčam/ podsmə́rkvam/ podsmə́rkna,sniff
+200-1583,bulg1262,http://concepticon.clld.org/parameters/1586,[pomirísvam/ pomiríša],smell (vb trans)
+200-859,bulg1262,http://concepticon.clld.org/parameters/1586,[miríša],smell (vb trans)
+200-174,bulg1262,http://concepticon.clld.org/parameters/376,blagouxánen,"fragrant, good smelling"
+200-186,bulg1262,http://concepticon.clld.org/parameters/376,[aromáten],"fragrant, good smelling"
+200-1011,bulg1262,http://concepticon.clld.org/parameters/376,[aromatíčen],"fragrant, good smelling"
+200-429,bulg1262,http://concepticon.clld.org/parameters/42,vonjášt,"stinking, bad smelling"
+200-1437,bulg1262,http://concepticon.clld.org/parameters/42,zlovónen,"stinking, bad smelling"
+200-1525,bulg1262,http://concepticon.clld.org/parameters/21,vkúsvam/ vkúsja,taste
+200-715,bulg1262,http://concepticon.clld.org/parameters/717,sládək,sweet
+200-1703,bulg1262,http://concepticon.clld.org/parameters/1091,solén,salty
+200-268,bulg1262,http://concepticon.clld.org/parameters/887,gorčív,bitter
+200-356,bulg1262,http://concepticon.clld.org/parameters/1906,kísel,"acid, sour"
+200-1738,bulg1262,http://concepticon.clld.org/parameters/70,və́zsolen,brackish
+200-94,bulg1262,http://concepticon.clld.org/parameters/1408,čuvam/ čuja,hear
+200-1598,bulg1262,http://concepticon.clld.org/parameters/1608,slúšam,listen
+200-288,bulg1262,http://concepticon.clld.org/parameters/1811,zvúk,"sound, noise"
+200-564,bulg1262,http://concepticon.clld.org/parameters/1811,šúm,"sound, noise"
+200-1692,bulg1262,http://concepticon.clld.org/parameters/377,sílen,loud
+200-1869,bulg1262,http://concepticon.clld.org/parameters/377,šúmen,loud
+200-1857,bulg1262,http://concepticon.clld.org/parameters/1314,tišiná,"quiet, silence"
+200-32,bulg1262,http://concepticon.clld.org/parameters/1314,məlčánie,"quiet, silence"
+200-1158,bulg1262,http://concepticon.clld.org/parameters/1409,viždam/ vídja,see
+200-311,bulg1262,http://concepticon.clld.org/parameters/1819,glédam,"look, look at"
+200-443,bulg1262,http://concepticon.clld.org/parameters/1039,pokázvam/ pokáža,show
+200-1365,bulg1262,http://concepticon.clld.org/parameters/708,svétja,shine
+200-546,bulg1262,http://concepticon.clld.org/parameters/708,blestjá,shine
+200-56,bulg1262,http://concepticon.clld.org/parameters/679,járək,bright
+200-1743,bulg1262,http://concepticon.clld.org/parameters/679,svétəl,bright
+200-1177,bulg1262,http://concepticon.clld.org/parameters/1613,c̷vját,color
+200-1743,bulg1262,http://concepticon.clld.org/parameters/250,svétəl,light (in color)
+200-87,bulg1262,http://concepticon.clld.org/parameters/706,tə́men,dark (in color)
+200-358,bulg1262,http://concepticon.clld.org/parameters/1335,bjál,white
+200-50,bulg1262,http://concepticon.clld.org/parameters/163,čéren,black
+200-1449,bulg1262,http://concepticon.clld.org/parameters/156,červén,red
+200-406,bulg1262,http://concepticon.clld.org/parameters/837,sín,blue
+200-1611,bulg1262,http://concepticon.clld.org/parameters/1425,zelén,green
+200-243,bulg1262,http://concepticon.clld.org/parameters/1424,žə́lt,yellow
+200-233,bulg1262,http://concepticon.clld.org/parameters/1892,dokósvam/ dokósna (se do),touch
+200-473,bulg1262,http://concepticon.clld.org/parameters/1892,pípam/ pípna,touch
+200-1609,bulg1262,http://concepticon.clld.org/parameters/378,štípja,pinch
+200-445,bulg1262,http://concepticon.clld.org/parameters/378,oštípvam/ oštípja,pinch
+200-557,bulg1262,http://concepticon.clld.org/parameters/1079,opípvam/ opípam,feel
+200-970,bulg1262,http://concepticon.clld.org/parameters/1079,uséštam/ usétja,feel
+200-453,bulg1262,http://concepticon.clld.org/parameters/1079,čúvstvuvam (se),feel
+200-678,bulg1262,http://concepticon.clld.org/parameters/1884,tvə́rd,hard
+200-164,bulg1262,http://concepticon.clld.org/parameters/1856,mék,soft
+200-713,bulg1262,http://concepticon.clld.org/parameters/1923,[grápav],rough
+200-213,bulg1262,http://concepticon.clld.org/parameters/1923,grúb,rough
+200-733,bulg1262,http://concepticon.clld.org/parameters/1234,gládək,smooth
+200-206,bulg1262,http://concepticon.clld.org/parameters/1396,óstər,sharp
+200-1306,bulg1262,http://concepticon.clld.org/parameters/379,tə́p,"blunt, dull"
+200-966,bulg1262,http://concepticon.clld.org/parameters/379,iztə́pen,"blunt, dull"
+200-1701,bulg1262,http://concepticon.clld.org/parameters/1210,téžək,heavy
+200-1827,bulg1262,http://concepticon.clld.org/parameters/1052,lék,light (in weight)
+200-399,bulg1262,http://concepticon.clld.org/parameters/1726,mókər,"wet, damp"
+200-1425,bulg1262,http://concepticon.clld.org/parameters/1726,vlážen,"wet, damp"
+200-1350,bulg1262,http://concepticon.clld.org/parameters/1398,súx,dry
+200-1800,bulg1262,http://concepticon.clld.org/parameters/1286,goréšt,hot
+200-264,bulg1262,http://concepticon.clld.org/parameters/1232,tópəl,warm
+200-576,bulg1262,http://concepticon.clld.org/parameters/1287,studén,cold
+200-623,bulg1262,http://concepticon.clld.org/parameters/704,číst,clean
+200-114,bulg1262,http://concepticon.clld.org/parameters/1230,mrə́sen,"dirty, soiled"
+200-1838,bulg1262,http://concepticon.clld.org/parameters/1230,izc̷ápan,"dirty, soiled"
+200-1323,bulg1262,http://concepticon.clld.org/parameters/380,sbrə́čkan,wrinkled
+200-102,bulg1262,http://concepticon.clld.org/parameters/53,dušá,"soul, spirit"
+200-542,bulg1262,http://concepticon.clld.org/parameters/53,dúx,"soul, spirit"
+200-999,bulg1262,http://concepticon.clld.org/parameters/1572,iznenádan,"surprised, astonished"
+200-296,bulg1262,http://concepticon.clld.org/parameters/1572,učúden,"surprised, astonished"
+200-976,bulg1262,http://concepticon.clld.org/parameters/1572,udivén,"surprised, astonished"
+200-1202,bulg1262,http://concepticon.clld.org/parameters/720,[kəsmét],"good fortune, luck"
+200-890,bulg1262,http://concepticon.clld.org/parameters/720,štástie,"good fortune, luck"
+200-800,bulg1262,http://concepticon.clld.org/parameters/56,lóš [kəsmét],"misfortune, bad luck"
+200-1170,bulg1262,http://concepticon.clld.org/parameters/56,neštastie,"misfortune, bad luck"
+200-1734,bulg1262,http://concepticon.clld.org/parameters/1495,rádosten,"joyful, glad, happy"
+200-113,bulg1262,http://concepticon.clld.org/parameters/1495,štastlív,"joyful, glad, happy"
+200-477,bulg1262,http://concepticon.clld.org/parameters/1355,sméja se,laugh
+200-933,bulg1262,http://concepticon.clld.org/parameters/1451,usmíxvam/ usmíxna se,smile
+200-1142,bulg1262,http://concepticon.clld.org/parameters/1413,igrája,play
+200-367,bulg1262,http://concepticon.clld.org/parameters/1413,svírja,play
+200-323,bulg1262,http://concepticon.clld.org/parameters/923,obíčam,love
+200-431,bulg1262,http://concepticon.clld.org/parameters/923,óbič,love
+200-928,bulg1262,http://concepticon.clld.org/parameters/923,ljubóv,love
+200-504,bulg1262,http://concepticon.clld.org/parameters/578,c̷elúvam/ c̷elúna,kiss
+200-658,bulg1262,http://concepticon.clld.org/parameters/928,pregrə́štam/ pregə́rna,embrace
+200-444,bulg1262,http://concepticon.clld.org/parameters/1783,bólka,pain
+200-37,bulg1262,http://concepticon.clld.org/parameters/1668,górest,"grief, sorrow, sadness"
+200-567,bulg1262,http://concepticon.clld.org/parameters/1668,skrə́b,"grief, sorrow, sadness"
+200-1270,bulg1262,http://concepticon.clld.org/parameters/1668,žalost,"grief, sorrow, sadness"
+200-1717,bulg1262,http://concepticon.clld.org/parameters/1668,pečál,"grief, sorrow, sadness"
+200-461,bulg1262,http://concepticon.clld.org/parameters/1668,žál,"grief, sorrow, sadness"
+200-1195,bulg1262,http://concepticon.clld.org/parameters/1000,bezpokójstvie/ bezpokójstvo,"anxiety, worry"
+200-1180,bulg1262,http://concepticon.clld.org/parameters/1000,zagríženost,"anxiety, worry"
+200-469,bulg1262,http://concepticon.clld.org/parameters/1000,trevóga,"anxiety, worry"
+200-1251,bulg1262,http://concepticon.clld.org/parameters/1000,ugríženost,"anxiety, worry"
+200-1189,bulg1262,http://concepticon.clld.org/parameters/1875,səžaljávam/ səžaljá,"regret, be sorry"
+200-461,bulg1262,http://concepticon.clld.org/parameters/1141,žál,pity
+200-357,bulg1262,http://concepticon.clld.org/parameters/1141,səstradánie,pity
+200-455,bulg1262,http://concepticon.clld.org/parameters/1141,mílost,pity
+200-1061,bulg1262,http://concepticon.clld.org/parameters/1141,səžalénie,pity
+200-1270,bulg1262,http://concepticon.clld.org/parameters/1141,žalost,pity
+200-496,bulg1262,http://concepticon.clld.org/parameters/1839,pláča,"cry, weep"
+200-936,bulg1262,http://concepticon.clld.org/parameters/1651,səlzá,tear (noun)
+200-1096,bulg1262,http://concepticon.clld.org/parameters/716,pə́škam,groan
+200-1361,bulg1262,http://concepticon.clld.org/parameters/716,sténa,groan
+200-1654,bulg1262,http://concepticon.clld.org/parameters/716,óxkam,groan
+200-15,bulg1262,http://concepticon.clld.org/parameters/1607,mrázja,hate
+200-1391,bulg1262,http://concepticon.clld.org/parameters/1607,nenavíždam/ nenavídja,hate
+200-783,bulg1262,http://concepticon.clld.org/parameters/82,jád,anger
+200-83,bulg1262,http://concepticon.clld.org/parameters/82,gnjáv,anger
+200-1687,bulg1262,http://concepticon.clld.org/parameters/40,závist,"envy, jealousy"
+200-1632,bulg1262,http://concepticon.clld.org/parameters/40,révnost,"envy, jealousy"
+200-77,bulg1262,http://concepticon.clld.org/parameters/1776,srám,shame (noun)
+200-1637,bulg1262,http://concepticon.clld.org/parameters/174,górd,proud
+200-877,bulg1262,http://concepticon.clld.org/parameters/1779,sméja,dare
+200-960,bulg1262,http://concepticon.clld.org/parameters/1779,osmeljávam/ osmeljá se,dare
+200-372,bulg1262,http://concepticon.clld.org/parameters/3,xrábər,brave
+200-988,bulg1262,http://concepticon.clld.org/parameters/3,smél,brave
+200-1673,bulg1262,http://concepticon.clld.org/parameters/781,stráx,"fear, fright"
+200-4,bulg1262,http://concepticon.clld.org/parameters/781,bojázən,"fear, fright"
+200-1802,bulg1262,http://concepticon.clld.org/parameters/781,upláxa,"fear, fright"
+200-743,bulg1262,http://concepticon.clld.org/parameters/1810,opásnost,danger
+200-939,bulg1262,http://concepticon.clld.org/parameters/1784,želája,"desire, want"
+200-92,bulg1262,http://concepticon.clld.org/parameters/1784,ískam,"desire, want"
+200-1255,bulg1262,http://concepticon.clld.org/parameters/1750,izbíram/ izberá,choose
+200-39,bulg1262,http://concepticon.clld.org/parameters/1092,nadjávam se,hope
+200-1506,bulg1262,http://concepticon.clld.org/parameters/1092,nadéžda,hope
+200-225,bulg1262,http://concepticon.clld.org/parameters/100,véren,faithful
+200-225,bulg1262,http://concepticon.clld.org/parameters/1657,véren,true
+200-1132,bulg1262,http://concepticon.clld.org/parameters/601,lə́ža,"lie, tell lies"
+200-375,bulg1262,http://concepticon.clld.org/parameters/13,izmáma,deceit
+200-925,bulg1262,http://concepticon.clld.org/parameters/1528,proštávam/ prostjá (na),forgive
+200-1188,bulg1262,http://concepticon.clld.org/parameters/1035,dobə́r,good
+200-1168,bulg1262,http://concepticon.clld.org/parameters/1292,lóš,bad
+200-225,bulg1262,http://concepticon.clld.org/parameters/1725,véren,"right, correct"
+200-1447,bulg1262,http://concepticon.clld.org/parameters/1725,právilen,"right, correct"
+200-1157,bulg1262,http://concepticon.clld.org/parameters/1390,nevéren,wrong
+200-972,bulg1262,http://concepticon.clld.org/parameters/1390,neprávilen,wrong
+200-741,bulg1262,http://concepticon.clld.org/parameters/134,gréška,fault
+200-1631,bulg1262,http://concepticon.clld.org/parameters/134,viná,fault
+200-741,bulg1262,http://concepticon.clld.org/parameters/1293,gréška,"mistake, error"
+200-1334,bulg1262,http://concepticon.clld.org/parameters/1293,pogréška,"mistake, error"
+200-1631,bulg1262,http://concepticon.clld.org/parameters/381,viná,blame
+200-1111,bulg1262,http://concepticon.clld.org/parameters/1687,poxvála,praise
+200-216,bulg1262,http://concepticon.clld.org/parameters/1427,krasív,beautiful
+200-908,bulg1262,http://concepticon.clld.org/parameters/1427,[xúbav],beautiful
+200-586,bulg1262,http://concepticon.clld.org/parameters/1548,grózen,ugly
+200-1388,bulg1262,http://concepticon.clld.org/parameters/2018,lákom,greedy
+200-825,bulg1262,http://concepticon.clld.org/parameters/2018,álčen,greedy
+200-1855,bulg1262,http://concepticon.clld.org/parameters/1310,úmen,clever
+200-587,bulg1262,http://concepticon.clld.org/parameters/1310,inteligénten,clever
+200-524,bulg1262,http://concepticon.clld.org/parameters/1310,xítər,clever
+200-1868,bulg1262,http://concepticon.clld.org/parameters/1562,úm,mind
+200-1578,bulg1262,http://concepticon.clld.org/parameters/1562,rázum,mind
+200-141,bulg1262,http://concepticon.clld.org/parameters/1415,míslja,think (= reflect)
+200-1340,bulg1262,http://concepticon.clld.org/parameters/1513,smjátam,think (= be of the opinion)
+200-141,bulg1262,http://concepticon.clld.org/parameters/1513,míslja,think (= be of the opinion)
+200-1647,bulg1262,http://concepticon.clld.org/parameters/1890,vjárvam,believe
+200-781,bulg1262,http://concepticon.clld.org/parameters/1536,razbíram/ razberá,understand
+200-1071,bulg1262,http://concepticon.clld.org/parameters/1410,znája,know
+200-1882,bulg1262,http://concepticon.clld.org/parameters/1932,gadája,guess
+200-517,bulg1262,http://concepticon.clld.org/parameters/1932,nalúčvam/ nalúčkvam/ nalúčam/nalúčkam,guess
+200-876,bulg1262,http://concepticon.clld.org/parameters/1932,predpolágam/ predpolóža,guess
+200-1309,bulg1262,http://concepticon.clld.org/parameters/117,podražávam,imitate
+200-415,bulg1262,http://concepticon.clld.org/parameters/117,[imitíram],imitate
+200-692,bulg1262,http://concepticon.clld.org/parameters/1521,izgléždam,seem
+200-943,bulg1262,http://concepticon.clld.org/parameters/1609,ponjátie,"idea, notion"
+200-1479,bulg1262,http://concepticon.clld.org/parameters/1609,predstáva,"idea, notion"
+200-1453,bulg1262,http://concepticon.clld.org/parameters/1609,[idéja],"idea, notion"
+200-1548,bulg1262,http://concepticon.clld.org/parameters/1609,mísəl,"idea, notion"
+200-829,bulg1262,http://concepticon.clld.org/parameters/698,mə́dər,wise
+200-688,bulg1262,http://concepticon.clld.org/parameters/1518,glúpav,"foolish, stupid"
+200-1306,bulg1262,http://concepticon.clld.org/parameters/1518,tə́p,"foolish, stupid"
+200-1382,bulg1262,http://concepticon.clld.org/parameters/1899,lúd,"insane, crazy"
+200-561,bulg1262,http://concepticon.clld.org/parameters/1899,(umo)pobə́rkan,"insane, crazy"
+200-1686,bulg1262,http://concepticon.clld.org/parameters/504,úča,learn
+200-689,bulg1262,http://concepticon.clld.org/parameters/504,úča se,learn
+200-1700,bulg1262,http://concepticon.clld.org/parameters/504,naučávam/ naúčvam/ naúča,learn
+200-1593,bulg1262,http://concepticon.clld.org/parameters/504,izúčvam/ izúča,learn
+200-689,bulg1262,http://concepticon.clld.org/parameters/1929,úča se,study
+200-1686,bulg1262,http://concepticon.clld.org/parameters/1929,úča,study
+200-1087,bulg1262,http://concepticon.clld.org/parameters/1929,izučávam/ izúča,study
+200-1513,bulg1262,http://concepticon.clld.org/parameters/1929,proúčvam/ proúča,study
+200-719,bulg1262,http://concepticon.clld.org/parameters/1929,slédvam,study
+200-1686,bulg1262,http://concepticon.clld.org/parameters/709,úča,teach
+200-864,bulg1262,http://concepticon.clld.org/parameters/709,obučávam,teach
+200-1700,bulg1262,http://concepticon.clld.org/parameters/709,naučávam/ naúčvam/ naúča,teach
+200-1009,bulg1262,http://concepticon.clld.org/parameters/709,prepodávam,teach
+200-376,bulg1262,http://concepticon.clld.org/parameters/753,učeník,pupil
+200-1795,bulg1262,http://concepticon.clld.org/parameters/1038,učítel,teacher
+200-1036,bulg1262,http://concepticon.clld.org/parameters/1038,prepodavátel,teacher
+200-630,bulg1262,http://concepticon.clld.org/parameters/673,učílište,school
+200-1313,bulg1262,http://concepticon.clld.org/parameters/673,[škóla],school
+200-579,bulg1262,http://concepticon.clld.org/parameters/707,pómnja,remember
+200-1564,bulg1262,http://concepticon.clld.org/parameters/707,zapómnjam/ zapómnja,remember
+200-1378,bulg1262,http://concepticon.clld.org/parameters/707,spómnjam/ spómnja si,remember
+200-321,bulg1262,http://concepticon.clld.org/parameters/707,pripómnjam/ pripómnja si,remember
+200-1378,bulg1262,http://concepticon.clld.org/parameters/707,spómnjam/ spómnja si,remember
+200-1276,bulg1262,http://concepticon.clld.org/parameters/1523,zabrávjam/ zabrávja,forget
+200-1105,bulg1262,http://concepticon.clld.org/parameters/989,jásen,"clear, plain"
+200-633,bulg1262,http://concepticon.clld.org/parameters/1764,nejásen,obscure
+200-87,bulg1262,http://concepticon.clld.org/parameters/1764,tə́men,obscure
+200-615,bulg1262,http://concepticon.clld.org/parameters/1121,tájna,secret
+200-1008,bulg1262,http://concepticon.clld.org/parameters/509,[síguren],"sure, certain"
+200-1739,bulg1262,http://concepticon.clld.org/parameters/509,uvéren,"sure, certain"
+200-1443,bulg1262,http://concepticon.clld.org/parameters/1626,objasnjávam/ objasnjá,explain
+200-1336,bulg1262,http://concepticon.clld.org/parameters/1162,namerénie,"intention, purpose"
+200-267,bulg1262,http://concepticon.clld.org/parameters/1162,c̷él,"intention, purpose"
+200-1059,bulg1262,http://concepticon.clld.org/parameters/860,pričína,cause
+200-300,bulg1262,http://concepticon.clld.org/parameters/1308,səmnjávam se,doubt
+200-1733,bulg1262,http://concepticon.clld.org/parameters/1841,podozíram/ podozrá,suspect
+200-1498,bulg1262,http://concepticon.clld.org/parameters/1902,izdávam/ izdám,betray
+200-471,bulg1262,http://concepticon.clld.org/parameters/1902,predávam/ predám,betray
+200-655,bulg1262,http://concepticon.clld.org/parameters/1902,izménjam/ izmenjávam/ izmenjá,betray
+200-1546,bulg1262,http://concepticon.clld.org/parameters/643,núžda,"need, necessity"
+200-475,bulg1262,http://concepticon.clld.org/parameters/643,neobxodímost,"need, necessity"
+200-1803,bulg1262,http://concepticon.clld.org/parameters/686,lésen,easy
+200-1660,bulg1262,http://concepticon.clld.org/parameters/584,trúden,difficult
+200-1701,bulg1262,http://concepticon.clld.org/parameters/584,téžək,difficult
+200-1245,bulg1262,http://concepticon.clld.org/parameters/1812,opítvam/ opítam (se),"try, attempt"
+200-1697,bulg1262,http://concepticon.clld.org/parameters/1812,[próbvam],"try, attempt"
+200-953,bulg1262,http://concepticon.clld.org/parameters/488,náčin,"way, manner"
+200-84,bulg1262,http://concepticon.clld.org/parameters/488,spósob,"way, manner"
+200-1762,bulg1262,http://concepticon.clld.org/parameters/1577,i,and
+200-1054,bulg1262,http://concepticon.clld.org/parameters/1577,a,and
+200-259,bulg1262,http://concepticon.clld.org/parameters/1157,zaštóto,because
+200-794,bulg1262,http://concepticon.clld.org/parameters/1459,akó,if
+200-607,bulg1262,http://concepticon.clld.org/parameters/1459,dalí,if
+200-1530,bulg1262,http://concepticon.clld.org/parameters/1014,íli,or
+200-1483,bulg1262,http://concepticon.clld.org/parameters/1268,dá,"yes, affirmative"
+200-1370,bulg1262,http://concepticon.clld.org/parameters/1268,utvərdítelen,"yes, affirmative"
+200-454,bulg1262,http://concepticon.clld.org/parameters/1269,ne,"no, negative"
+200-749,bulg1262,http://concepticon.clld.org/parameters/1269,otric̷átelen,"no, negative"
+200-1344,bulg1262,http://concepticon.clld.org/parameters/1239,kák?,how?
+200-584,bulg1262,http://concepticon.clld.org/parameters/822,kólko?,how many?
+200-584,bulg1262,http://concepticon.clld.org/parameters/531,kólko?,how much?
+200-1405,bulg1262,http://concepticon.clld.org/parameters/1236,kakvó?,what?
+200-1586,bulg1262,http://concepticon.clld.org/parameters/1236,štó?,what?
+200-1693,bulg1262,http://concepticon.clld.org/parameters/1238,kogá?,when?
+200-236,bulg1262,http://concepticon.clld.org/parameters/1237,kədé?,where?
+200-1304,bulg1262,http://concepticon.clld.org/parameters/727,kój?,which?
+200-1304,bulg1262,http://concepticon.clld.org/parameters/1235,kój?,who?
+200-107,bulg1262,http://concepticon.clld.org/parameters/1270,zaštó?,why?
+200-247,bulg1262,http://concepticon.clld.org/parameters/1363,glás,voice
+200-1666,bulg1262,http://concepticon.clld.org/parameters/1261,péja,sing
+200-1192,bulg1262,http://concepticon.clld.org/parameters/715,víkam,"shout, cry out"
+200-1238,bulg1262,http://concepticon.clld.org/parameters/55,šépna/ šeptjá,whisper
+200-1152,bulg1262,http://concepticon.clld.org/parameters/128,mə́nkam,mumble
+200-1620,bulg1262,http://concepticon.clld.org/parameters/128,smə́nkvam/ smə́nkam,mumble
+200-404,bulg1262,http://concepticon.clld.org/parameters/1025,svírkam,whistle
+200-367,bulg1262,http://concepticon.clld.org/parameters/1025,svírja,whistle
+200-1665,bulg1262,http://concepticon.clld.org/parameters/298,píštjá,"shriek, screech"
+200-647,bulg1262,http://concepticon.clld.org/parameters/298,kreštjá,"shriek, screech"
+200-1199,bulg1262,http://concepticon.clld.org/parameters/526,víja,howl
+200-75,bulg1262,http://concepticon.clld.org/parameters/1623,govórja,"speak, talk"
+200-1230,bulg1262,http://concepticon.clld.org/parameters/1623,prikázvam,"speak, talk"
+200-1585,bulg1262,http://concepticon.clld.org/parameters/1866,zaékvam/ zaékna,"stutter, stammer"
+200-875,bulg1262,http://concepticon.clld.org/parameters/1866,ečá,"stutter, stammer"
+200-195,bulg1262,http://concepticon.clld.org/parameters/1866,[peltéča],"stutter, stammer"
+200-191,bulg1262,http://concepticon.clld.org/parameters/1458,kázvam/ káža,say
+200-1415,bulg1262,http://concepticon.clld.org/parameters/1711,razkázvam/ razkáža,tell story
+200-1664,bulg1262,http://concepticon.clld.org/parameters/1711,razprávjam/ razprávja,tell story
+200-548,bulg1262,http://concepticon.clld.org/parameters/1115,(proiznásjam/ proiznesá) réč,speech (make a)
+200-489,bulg1262,http://concepticon.clld.org/parameters/48,məlčá,silent (be)
+200-664,bulg1262,http://concepticon.clld.org/parameters/1307,ezík,language
+200-1260,bulg1262,http://concepticon.clld.org/parameters/1599,dúma,word
+200-1634,bulg1262,http://concepticon.clld.org/parameters/1405,íme,name
+200-28,bulg1262,http://concepticon.clld.org/parameters/1309,pítam,"ask (question, inquire)"
+200-44,bulg1262,http://concepticon.clld.org/parameters/1309,popítvam/ popítam,"ask (question, inquire)"
+200-1064,bulg1262,http://concepticon.clld.org/parameters/1309,zadávam vəprós,"ask (question, inquire)"
+200-1853,bulg1262,http://concepticon.clld.org/parameters/1275,otgovárjam/ otgovórja,answer
+200-1484,bulg1262,http://concepticon.clld.org/parameters/2022,priznávam/ priznája,"admit, confess"
+200-1406,bulg1262,http://concepticon.clld.org/parameters/755,otríčam/ otreká,deny
+200-920,bulg1262,http://concepticon.clld.org/parameters/755,otxvə́rljam/ otxvə́rlja,deny
+200-1049,bulg1262,http://concepticon.clld.org/parameters/755,oprovergávam/ oprovergája,deny
+200-34,bulg1262,http://concepticon.clld.org/parameters/1828,mólja,"ask, request"
+200-915,bulg1262,http://concepticon.clld.org/parameters/1828,pomólvam/ pomólja,"ask, request"
+200-246,bulg1262,http://concepticon.clld.org/parameters/1675,obeštávam/ obeštája,promise
+200-626,bulg1262,http://concepticon.clld.org/parameters/49,otkázvam/ otkáža (na),refuse
+200-753,bulg1262,http://concepticon.clld.org/parameters/83,zabranjávam/ zabranjá (na),forbid
+200-1362,bulg1262,http://concepticon.clld.org/parameters/299,ukorjávam/ ukorjá,"rebuke, scold"
+200-531,bulg1262,http://concepticon.clld.org/parameters/299,uprékvam/ uprékna,"rebuke, scold"
+200-304,bulg1262,http://concepticon.clld.org/parameters/299,mə́mrja,"rebuke, scold"
+200-1354,bulg1262,http://concepticon.clld.org/parameters/299,xókam,"rebuke, scold"
+200-848,bulg1262,http://concepticon.clld.org/parameters/1084,povíkvam/ povíkam,call (=summon)
+200-1422,bulg1262,http://concepticon.clld.org/parameters/1084,prizovjávam/ prizovjá,call (=summon)
+200-1198,bulg1262,http://concepticon.clld.org/parameters/1084,izvíkvam/ izvíkam,call (=summon)
+200-900,bulg1262,http://concepticon.clld.org/parameters/180,naríčam/ nareká,call (=name)
+200-725,bulg1262,http://concepticon.clld.org/parameters/9,objávjávam/ objávja,announce
+200-852,bulg1262,http://concepticon.clld.org/parameters/9,razglasjávam/ razglasjá,announce
+200-331,bulg1262,http://concepticon.clld.org/parameters/1192,zaplášvam/ zapláša,threaten
+200-940,bulg1262,http://concepticon.clld.org/parameters/1192,zastrašávam/ zastrašá,threaten
+200-1765,bulg1262,http://concepticon.clld.org/parameters/101,xválja se,boast
+200-1602,bulg1262,http://concepticon.clld.org/parameters/1672,píša,write
+200-1153,bulg1262,http://concepticon.clld.org/parameters/1672,napísvam/ napíša,write
+200-1580,bulg1262,http://concepticon.clld.org/parameters/724,četá,read
+200-198,bulg1262,http://concepticon.clld.org/parameters/648,[xartíja],paper
+200-153,bulg1262,http://concepticon.clld.org/parameters/794,pisálka,pen
+200-1326,bulg1262,http://concepticon.clld.org/parameters/794,peró,pen
+200-1521,bulg1262,http://concepticon.clld.org/parameters/794,[ximikálka],pen
+200-355,bulg1262,http://concepticon.clld.org/parameters/963,kníga,book
+200-227,bulg1262,http://concepticon.clld.org/parameters/1045,[poét],poet
+200-1815,bulg1262,http://concepticon.clld.org/parameters/1045,stixotvórec̷,poet
+200-1652,bulg1262,http://concepticon.clld.org/parameters/777,[fléjta],flute
+200-1694,bulg1262,http://concepticon.clld.org/parameters/777,[kavál],flute
+200-768,bulg1262,http://concepticon.clld.org/parameters/908,[barabán],drum
+200-1866,bulg1262,http://concepticon.clld.org/parameters/908,tə́pan,drum
+200-466,bulg1262,http://concepticon.clld.org/parameters/2136,[kórna],"horn, trumpet"
+200-1775,bulg1262,http://concepticon.clld.org/parameters/2136,[trompét],"horn, trumpet"
+200-610,bulg1262,http://concepticon.clld.org/parameters/2136,[kornét],"horn, trumpet"
+200-479,bulg1262,http://concepticon.clld.org/parameters/300,drənkálka,rattle
+200-78,bulg1262,http://concepticon.clld.org/parameters/1300,straná,country
+200-1653,bulg1262,http://concepticon.clld.org/parameters/89,ródina,one's native country
+200-1879,bulg1262,http://concepticon.clld.org/parameters/89,otéčestvo,one's native country
+200-1823,bulg1262,http://concepticon.clld.org/parameters/1391,grád,"city, town"
+200-1031,bulg1262,http://concepticon.clld.org/parameters/930,sélo,village
+200-220,bulg1262,http://concepticon.clld.org/parameters/1010,gránic̷a,boundary
+200-1876,bulg1262,http://concepticon.clld.org/parameters/789,naród,people (populace)
+200-1813,bulg1262,http://concepticon.clld.org/parameters/302,pléme,"tribe, clan"
+200-1229,bulg1262,http://concepticon.clld.org/parameters/302,[klán],"tribe, clan"
+200-474,bulg1262,http://concepticon.clld.org/parameters/301,vóžd,"chief, chieftain"
+200-1465,bulg1262,http://concepticon.clld.org/parameters/301,glavatár,"chief, chieftain"
+200-1570,bulg1262,http://concepticon.clld.org/parameters/1296,tojága,"staff, walking stick"
+200-424,bulg1262,http://concepticon.clld.org/parameters/1296,[bastún],"staff, walking stick"
+200-1213,bulg1262,http://concepticon.clld.org/parameters/1296,prə́t,"staff, walking stick"
+200-1093,bulg1262,http://concepticon.clld.org/parameters/1846,[upravljávam],"rule, govern"
+200-40,bulg1262,http://concepticon.clld.org/parameters/1508,[c̷ár],"king, ruler"
+200-1210,bulg1262,http://concepticon.clld.org/parameters/1508,[král],"king, ruler"
+200-1279,bulg1262,http://concepticon.clld.org/parameters/1306,caríca,queen
+200-1460,bulg1262,http://concepticon.clld.org/parameters/1306,kralíca,queen
+200-1448,bulg1262,http://concepticon.clld.org/parameters/482,blagoródnik,"noble, nobleman"
+200-100,bulg1262,http://concepticon.clld.org/parameters/482,[aristokrát],"noble, nobleman"
+200-1885,bulg1262,http://concepticon.clld.org/parameters/1032,graždanín,"citizen, subject"
+200-697,bulg1262,http://concepticon.clld.org/parameters/1032,[pódanik],"citizen, subject"
+200-1860,bulg1262,http://concepticon.clld.org/parameters/383,gospodár,master
+200-306,bulg1262,http://concepticon.clld.org/parameters/812,rób,slave
+200-1233,bulg1262,http://concepticon.clld.org/parameters/255,slúga,servant
+200-1478,bulg1262,http://concepticon.clld.org/parameters/384,svobóden čovék,freeman
+200-130,bulg1262,http://concepticon.clld.org/parameters/384,počéten čovék,freeman
+200-945,bulg1262,http://concepticon.clld.org/parameters/1128,zapovjádvam/ zapovjádam,"command, order"
+200-1051,bulg1262,http://concepticon.clld.org/parameters/1128,[kománduvam],"command, order"
+200-101,bulg1262,http://concepticon.clld.org/parameters/1635,podčinjávam/ podčinjá se,obey
+200-388,bulg1262,http://concepticon.clld.org/parameters/1635,pokorjávam/ pokorjá se,obey
+200-719,bulg1262,http://concepticon.clld.org/parameters/1635,slédvam,obey
+200-1598,bulg1262,http://concepticon.clld.org/parameters/1635,slúšam,obey
+200-1736,bulg1262,http://concepticon.clld.org/parameters/1003,pozvoljávam/ pozvoljá,"let, permit"
+200-809,bulg1262,http://concepticon.clld.org/parameters/1003,razrešávam/ razrešá,"let, permit"
+200-401,bulg1262,http://concepticon.clld.org/parameters/1003,púskam/ púštam/ púsna,"let, permit"
+200-944,bulg1262,http://concepticon.clld.org/parameters/1325,prijátel,"friend, companion"
+200-238,bulg1262,http://concepticon.clld.org/parameters/1325,drugár,"friend, companion"
+200-1886,bulg1262,http://concepticon.clld.org/parameters/1358,vrág,enemy
+200-750,bulg1262,http://concepticon.clld.org/parameters/1358,neprijátel,enemy
+200-1020,bulg1262,http://concepticon.clld.org/parameters/1332,səséd,neighbor
+200-1399,bulg1262,http://concepticon.clld.org/parameters/791,nepoznát,stranger
+200-457,bulg1262,http://concepticon.clld.org/parameters/791,čuždenéc,stranger
+200-1624,bulg1262,http://concepticon.clld.org/parameters/1782,góst,guest
+200-1018,bulg1262,http://concepticon.clld.org/parameters/1545,[domakín],host
+200-862,bulg1262,http://concepticon.clld.org/parameters/1897,pomágam/ pomógna,"help, aid"
+200-178,bulg1262,http://concepticon.clld.org/parameters/1550,vəzprepjátstvuvam,"hinder, prevent"
+200-659,bulg1262,http://concepticon.clld.org/parameters/1550,préča,"hinder, prevent"
+200-1377,bulg1262,http://concepticon.clld.org/parameters/1747,običáj,custom
+200-151,bulg1262,http://concepticon.clld.org/parameters/1848,[konflíkt],"strife, quarrel"
+200-1459,bulg1262,http://concepticon.clld.org/parameters/1848,[kavgá],"strife, quarrel"
+200-1191,bulg1262,http://concepticon.clld.org/parameters/1848,káranica,"strife, quarrel"
+200-617,bulg1262,http://concepticon.clld.org/parameters/1848,rázpra,"strife, quarrel"
+200-534,bulg1262,http://concepticon.clld.org/parameters/1848,spór,"strife, quarrel"
+200-684,bulg1262,http://concepticon.clld.org/parameters/2024,zágovor,"conspiracy, plot"
+200-540,bulg1262,http://concepticon.clld.org/parameters/2024,[konspirácija],"conspiracy, plot"
+200-360,bulg1262,http://concepticon.clld.org/parameters/1831,sréštam/ sréštna (se s),meet
+200-1790,bulg1262,http://concepticon.clld.org/parameters/1610,[prostitútka],prostitute
+200-1077,bulg1262,http://concepticon.clld.org/parameters/1610,[publíčna] žená,prostitute
+200-978,bulg1262,http://concepticon.clld.org/parameters/1423,sražávam se,fight (vb)
+200-493,bulg1262,http://concepticon.clld.org/parameters/1423,bórja se,fight (vb)
+200-1789,bulg1262,http://concepticon.clld.org/parameters/1423,bíja se,fight (vb)
+200-822,bulg1262,http://concepticon.clld.org/parameters/1423,vojúvam,fight (vb)
+200-427,bulg1262,http://concepticon.clld.org/parameters/579,vojná,"war, battle"
+200-1469,bulg1262,http://concepticon.clld.org/parameters/579,sražénie,"war, battle"
+200-1714,bulg1262,http://concepticon.clld.org/parameters/579,bój,"war, battle"
+200-1183,bulg1262,http://concepticon.clld.org/parameters/1338,mír,peace
+200-1162,bulg1262,http://concepticon.clld.org/parameters/1561,[ármija],army
+200-1145,bulg1262,http://concepticon.clld.org/parameters/1561,vojská,army
+200-1735,bulg1262,http://concepticon.clld.org/parameters/1941,vojník,soldier
+200-1682,bulg1262,http://concepticon.clld.org/parameters/1941,[voénen],soldier
+200-374,bulg1262,http://concepticon.clld.org/parameters/1941,vóin,soldier
+200-918,bulg1262,http://concepticon.clld.org/parameters/951,orə́žija,"weapons, arms"
+200-1570,bulg1262,http://concepticon.clld.org/parameters/1763,tojága,club
+200-1213,bulg1262,http://concepticon.clld.org/parameters/1763,prə́t,club
+200-48,bulg1262,http://concepticon.clld.org/parameters/1763,[sópa],club
+200-710,bulg1262,http://concepticon.clld.org/parameters/386,bójna [brádva],battle-ax
+200-97,bulg1262,http://concepticon.clld.org/parameters/386,topór,battle-ax
+200-1147,bulg1262,http://concepticon.clld.org/parameters/387,práška,sling
+200-1015,bulg1262,http://concepticon.clld.org/parameters/994,lə́k,bow
+200-782,bulg1262,http://concepticon.clld.org/parameters/977,strelá,arrow
+200-1322,bulg1262,http://concepticon.clld.org/parameters/945,kópie,spear
+200-1314,bulg1262,http://concepticon.clld.org/parameters/1535,méč,sword
+200-279,bulg1262,http://concepticon.clld.org/parameters/1566,orə́die,"gun, cannon"
+200-59,bulg1262,http://concepticon.clld.org/parameters/1566,púška,"gun, cannon"
+200-1196,bulg1262,http://concepticon.clld.org/parameters/1566,[tóp],"gun, cannon"
+200-1367,bulg1262,http://concepticon.clld.org/parameters/1061,[brónja],armor (defensive)
+200-625,bulg1262,http://concepticon.clld.org/parameters/1061,[dospéxi],armor (defensive)
+200-1172,bulg1262,http://concepticon.clld.org/parameters/1061,ríznic̷a,armor (defensive)
+200-353,bulg1262,http://concepticon.clld.org/parameters/1680,šlém,helmet
+200-799,bulg1262,http://concepticon.clld.org/parameters/1680,[káska],helmet
+200-930,bulg1262,http://concepticon.clld.org/parameters/1064,štít,shield
+200-1872,bulg1262,http://concepticon.clld.org/parameters/1938,[krépost],fortress
+200-726,bulg1262,http://concepticon.clld.org/parameters/1671,[kúla],tower
+200-614,bulg1262,http://concepticon.clld.org/parameters/783,pobéda,victory
+200-218,bulg1262,http://concepticon.clld.org/parameters/782,poražénie,defeat
+200-614,bulg1262,http://concepticon.clld.org/parameters/782,pobéda,defeat
+200-832,bulg1262,http://concepticon.clld.org/parameters/722,napádam/ napádna,attack
+200-362,bulg1262,http://concepticon.clld.org/parameters/1330,zaštišávam/ zaštitávam/ zaštitjá,defend
+200-434,bulg1262,http://concepticon.clld.org/parameters/421,otstə́pvam/ otstə́pja,retreat
+200-507,bulg1262,http://concepticon.clld.org/parameters/421,ottégljam/ ottéglja se,retreat
+200-1307,bulg1262,http://concepticon.clld.org/parameters/421,[otdrə́pvam/ otdrə́pna se],retreat
+200-1321,bulg1262,http://concepticon.clld.org/parameters/1696,predávam/ predám se,surrender
+200-986,bulg1262,http://concepticon.clld.org/parameters/1696,[kapitulíram],surrender
+200-1076,bulg1262,http://concepticon.clld.org/parameters/1072,plénnik,"captive, prisoner"
+200-840,bulg1262,http://concepticon.clld.org/parameters/1072,zatvórnik,"captive, prisoner"
+200-1150,bulg1262,http://concepticon.clld.org/parameters/1940,[karaúl],"guard, sentinel"
+200-69,bulg1262,http://concepticon.clld.org/parameters/1940,stráža,"guard, sentinel"
+200-19,bulg1262,http://concepticon.clld.org/parameters/1940,[časoví,"guard, sentinel"
+200-1451,bulg1262,http://concepticon.clld.org/parameters/1940,časovój],"guard, sentinel"
+200-1541,bulg1262,http://concepticon.clld.org/parameters/1940,oxrána,"guard, sentinel"
+200-1352,bulg1262,http://concepticon.clld.org/parameters/1022,pljáčka,"booty, spoils"
+200-648,bulg1262,http://concepticon.clld.org/parameters/1022,voénni [troféi],"booty, spoils"
+200-613,bulg1262,http://concepticon.clld.org/parameters/65,zasáda,ambush
+200-924,bulg1262,http://concepticon.clld.org/parameters/65,klópka,ambush
+200-1363,bulg1262,http://concepticon.clld.org/parameters/65,[kapán],ambush
+200-131,bulg1262,http://concepticon.clld.org/parameters/1858,ribár,fisherman
+200-1205,bulg1262,http://concepticon.clld.org/parameters/1074,və́dic̷a,fishhook
+200-1050,bulg1262,http://concepticon.clld.org/parameters/19,[kórda],fishing line
+200-1305,bulg1262,http://concepticon.clld.org/parameters/19,vrə́v,fishing line
+200-1801,bulg1262,http://concepticon.clld.org/parameters/19,[šnúr],fishing line
+200-210,bulg1262,http://concepticon.clld.org/parameters/388,ribárska mréža,fishnet
+200-1785,bulg1262,http://concepticon.clld.org/parameters/2013,strə́v,bait
+200-553,bulg1262,http://concepticon.clld.org/parameters/1435,lóvja,hunt
+200-1175,bulg1262,http://concepticon.clld.org/parameters/1435,xódja na lóv,hunt
+200-64,bulg1262,http://concepticon.clld.org/parameters/1435,lovúvam,hunt
+200-1317,bulg1262,http://concepticon.clld.org/parameters/1172,stréljam,shoot
+200-683,bulg1262,http://concepticon.clld.org/parameters/1172,zastrélvam/ zastréljam,shoot
+200-1402,bulg1262,http://concepticon.clld.org/parameters/1172,razstrélvam,shoot
+200-54,bulg1262,http://concepticon.clld.org/parameters/161,ne ulúčvam/ ulúča,miss (target)
+200-1363,bulg1262,http://concepticon.clld.org/parameters/1075,[kapán],trap (noun)
+200-924,bulg1262,http://concepticon.clld.org/parameters/1075,klópka,trap (noun)
+200-1595,bulg1262,http://concepticon.clld.org/parameters/1075,prímka,trap (noun)
+200-1086,bulg1262,http://concepticon.clld.org/parameters/1170,xváštam/ xvána v [kapán],trap (vb)
+200-1536,bulg1262,http://concepticon.clld.org/parameters/1170,vprímčvam/ vprímča,trap (vb)
+200-1103,bulg1262,http://concepticon.clld.org/parameters/1062,právo,law
+200-1709,bulg1262,http://concepticon.clld.org/parameters/1062,[jurisprudénc̷ija],law
+200-555,bulg1262,http://concepticon.clld.org/parameters/1062,zakón,law
+200-205,bulg1262,http://concepticon.clld.org/parameters/1068,sə́d,court
+200-649,bulg1262,http://concepticon.clld.org/parameters/1818,sə́dja,judge (vb)
+200-156,bulg1262,http://concepticon.clld.org/parameters/1067,rešénie,judgment
+200-1092,bulg1262,http://concepticon.clld.org/parameters/1067,prisəda,judgment
+200-1467,bulg1262,http://concepticon.clld.org/parameters/861,sədijá,judge (noun)
+200-691,bulg1262,http://concepticon.clld.org/parameters/2020,[ištéc],plaintiff
+200-1457,bulg1262,http://concepticon.clld.org/parameters/1034,podsədím,defendant
+200-1561,bulg1262,http://concepticon.clld.org/parameters/1034,[otvétnik],defendant
+200-161,bulg1262,http://concepticon.clld.org/parameters/1144,svidétel,witness
+200-1003,bulg1262,http://concepticon.clld.org/parameters/1939,zaklé̈vam/ zakəlná se,swear
+200-612,bulg1262,http://concepticon.clld.org/parameters/1939,kəlná se,swear
+200-1104,bulg1262,http://concepticon.clld.org/parameters/1712,klétva,oath
+200-125,bulg1262,http://concepticon.clld.org/parameters/1814,obvinjávam/ obvinjá,accuse
+200-485,bulg1262,http://concepticon.clld.org/parameters/484,osə́ždam/ osə́dja,condemn
+200-899,bulg1262,http://concepticon.clld.org/parameters/983,namíram/ namérja za vinóven,convict (vb)
+200-485,bulg1262,http://concepticon.clld.org/parameters/983,osə́ždam/ osə́dja,convict (vb)
+200-905,bulg1262,http://concepticon.clld.org/parameters/988,opravdávam/ opravdája,acquit
+200-1824,bulg1262,http://concepticon.clld.org/parameters/1682,vinóven,guilty
+200-70,bulg1262,http://concepticon.clld.org/parameters/90,nevínen,innocent
+200-602,bulg1262,http://concepticon.clld.org/parameters/390,nakazánie,"penalty, punishment"
+200-1223,bulg1262,http://concepticon.clld.org/parameters/218,glóba,fine
+200-1016,bulg1262,http://concepticon.clld.org/parameters/1281,zatvór,"prison, jail"
+200-687,bulg1262,http://concepticon.clld.org/parameters/1281,təmníca,"prison, jail"
+200-1084,bulg1262,http://concepticon.clld.org/parameters/845,ubívam/ ubíja,murder
+200-51,bulg1262,http://concepticon.clld.org/parameters/902,preljubodejánie/ preljubodéjstvie,adultery
+200-1878,bulg1262,http://concepticon.clld.org/parameters/902,preljubodéjstvo,adultery
+200-772,bulg1262,http://concepticon.clld.org/parameters/953,iznasílvane,rape
+200-1649,bulg1262,http://concepticon.clld.org/parameters/1889,paléž,arson
+200-755,bulg1262,http://concepticon.clld.org/parameters/1792,ləžesvidételstvuvane,perjury
+200-503,bulg1262,http://concepticon.clld.org/parameters/713,kradá,steal
+200-792,bulg1262,http://concepticon.clld.org/parameters/713,otkrádvam/ otkrádna,steal
+200-1651,bulg1262,http://concepticon.clld.org/parameters/1160,kradéc̷,thief
+200-1375,bulg1262,http://concepticon.clld.org/parameters/661,[relígija],religion
+200-1455,bulg1262,http://concepticon.clld.org/parameters/661,vjára,religion
+200-229,bulg1262,http://concepticon.clld.org/parameters/1944,Bóg,God
+200-1672,bulg1262,http://concepticon.clld.org/parameters/911,xrám,"temple, church"
+200-67,bulg1262,http://concepticon.clld.org/parameters/911,[c̷ə́rkva],"temple, church"
+200-797,bulg1262,http://concepticon.clld.org/parameters/911,čérkva,"temple, church"
+200-1805,bulg1262,http://concepticon.clld.org/parameters/853,[oltár],altar
+200-1387,bulg1262,http://concepticon.clld.org/parameters/1103,[žértva],"sacrifice, offering"
+200-1427,bulg1262,http://concepticon.clld.org/parameters/1103,žertvoprinošénie],"sacrifice, offering"
+200-709,bulg1262,http://concepticon.clld.org/parameters/257,preklánjam/ preklonjá se pred,worship
+200-1511,bulg1262,http://concepticon.clld.org/parameters/257,obožávam,worship
+200-159,bulg1262,http://concepticon.clld.org/parameters/24,mólja se,pray
+200-1424,bulg1262,http://concepticon.clld.org/parameters/852,svešténik,priest
+200-193,bulg1262,http://concepticon.clld.org/parameters/852,[póp],priest
+200-1601,bulg1262,http://concepticon.clld.org/parameters/1702,svját,"holy, sacred"
+200-1747,bulg1262,http://concepticon.clld.org/parameters/1702,sveštén,"holy, sacred"
+200-559,bulg1262,http://concepticon.clld.org/parameters/304,[propovjádvam],preach
+200-819,bulg1262,http://concepticon.clld.org/parameters/391,[blagoslávjam],bless
+200-949,bulg1262,http://concepticon.clld.org/parameters/8,proklínam/ prokəlná,curse
+200-705,bulg1262,http://concepticon.clld.org/parameters/8,kəlná,curse
+200-1818,bulg1262,http://concepticon.clld.org/parameters/303,[póstja],fast (vb)
+200-1881,bulg1262,http://concepticon.clld.org/parameters/1565,nebé,heaven
+200-1852,bulg1262,http://concepticon.clld.org/parameters/1565,[ráj],heaven
+200-1699,bulg1262,http://concepticon.clld.org/parameters/878,[ád],hell
+200-1046,bulg1262,http://concepticon.clld.org/parameters/878,pə́kəl,hell
+200-277,bulg1262,http://concepticon.clld.org/parameters/1973,[démon],demon (evil spirit)
+200-207,bulg1262,http://concepticon.clld.org/parameters/1973,[djávol],demon (evil spirit)
+200-653,bulg1262,http://concepticon.clld.org/parameters/1945,[ídol],idol
+200-622,bulg1262,http://concepticon.clld.org/parameters/392,[magíja],"magic, witchcraft, sorcery"
+200-271,bulg1262,http://concepticon.clld.org/parameters/392,mag'ósničestvo,"magic, witchcraft, sorcery"
+200-654,bulg1262,http://concepticon.clld.org/parameters/392,[vəlšébstvo],"magic, witchcraft, sorcery"
+200-718,bulg1262,http://concepticon.clld.org/parameters/2137,[magjósnik],"sorcerer, witch"
+200-152,bulg1262,http://concepticon.clld.org/parameters/2137,[vəlšébnik],"sorcerer, witch"
+200-419,bulg1262,http://concepticon.clld.org/parameters/2137,čarodéec̷,"sorcerer, witch"
+200-998,bulg1262,http://concepticon.clld.org/parameters/2137,[mag'ósnic̷a],"sorcerer, witch"
+200-405,bulg1262,http://concepticon.clld.org/parameters/2137,[véštic̷a],"sorcerer, witch"
+200-417,bulg1262,http://concepticon.clld.org/parameters/2137,[vəlšébnic̷a],"sorcerer, witch"
+200-1216,bulg1262,http://concepticon.clld.org/parameters/2137,čarodéjka,"sorcerer, witch"
+200-201,bulg1262,http://concepticon.clld.org/parameters/2138,[féja],"fairy, elf"
+200-1219,bulg1262,http://concepticon.clld.org/parameters/2138,[élf],"fairy, elf"
+200-1644,bulg1262,http://concepticon.clld.org/parameters/2138,górski dúx,"fairy, elf"
+200-187,bulg1262,http://concepticon.clld.org/parameters/2138,samodíva,"fairy, elf"
+200-542,bulg1262,http://concepticon.clld.org/parameters/1175,dúx,"ghost, phantom"
+200-418,bulg1262,http://concepticon.clld.org/parameters/1175,prízrak,"ghost, phantom"
+200-971,bulg1262,http://concepticon.clld.org/parameters/107,predznamenovánie,"omen, portent"
+200-1404,bulg1262,http://concepticon.clld.org/parameters/107,známenie,"omen, portent"

@@ -1,0 +1,999 @@
+ID,Language_ID,Feature_ID,Value,Concept
+252-38,nina1238,http://concepticon.clld.org/parameters/626,ilihi,"earth, land"
+252-425,nina1238,http://concepticon.clld.org/parameters/626,mašithak,"earth, land"
+252-425,nina1238,http://concepticon.clld.org/parameters/1228,mašithak,"earth=ground, soil"
+252-215,nina1238,http://concepticon.clld.org/parameters/2,popoši,dust
+252-367,nina1238,http://concepticon.clld.org/parameters/640,mašithak ãhi,mud
+252-19,nina1238,http://concepticon.clld.org/parameters/671,lãkak,sand
+252-330,nina1238,http://concepticon.clld.org/parameters/2118,olina,"mountain, hill"
+252-270,nina1238,http://concepticon.clld.org/parameters/652,ilihi hõši,"plain, field"
+252-236,nina1238,http://concepticon.clld.org/parameters/622,ilihi makoko,island
+252-752,nina1238,http://concepticon.clld.org/parameters/113,palahi,shore
+252-661,nina1238,http://concepticon.clld.org/parameters/113,kasi,shore
+252-398,nina1238,http://concepticon.clld.org/parameters/1155,maamak paka,cave
+252-554,nina1238,http://concepticon.clld.org/parameters/948,maup,water
+252-149,nina1238,http://concepticon.clld.org/parameters/258,si-utiti,calm (of sea)
+252-599,nina1238,http://concepticon.clld.org/parameters/259,payik-payik-mo,rough (of sea)
+252-215,nina1238,http://concepticon.clld.org/parameters/1768,popoši,foam
+252-48,nina1238,http://concepticon.clld.org/parameters/624,yokoto,lake
+252-677,nina1238,http://concepticon.clld.org/parameters/978,pola,wave
+252-811,nina1238,http://concepticon.clld.org/parameters/666,u,"river, stream, brook"
+252-785,nina1238,http://concepticon.clld.org/parameters/666,ma u,"river, stream, brook"
+252-619,nina1238,http://concepticon.clld.org/parameters/1982,šĩmoli-a wei,whirlpool
+252-419,nina1238,http://concepticon.clld.org/parameters/2144,maup paka,"spring, well"
+252-48,nina1238,http://concepticon.clld.org/parameters/1145,yokoto,swamp
+252-38,nina1238,http://concepticon.clld.org/parameters/420,ilihi,"woods, forest"
+252-200,nina1238,http://concepticon.clld.org/parameters/906,wiitihi,tree (cf 08.600)
+252-200,nina1238,http://concepticon.clld.org/parameters/1803,wiitihi,wood
+252-158,nina1238,http://concepticon.clld.org/parameters/2125,maama,"stone, rock"
+252-592,nina1238,http://concepticon.clld.org/parameters/1732,yãn-paluk,sky
+252-447,nina1238,http://concepticon.clld.org/parameters/1343,mothok,sun
+252-309,nina1238,http://concepticon.clld.org/parameters/1313,wilipo,moon
+252-684,nina1238,http://concepticon.clld.org/parameters/1430,põlemahuk,star
+252-796,nina1238,http://concepticon.clld.org/parameters/1654,wake yãli mu wei,lightning
+252-416,nina1238,http://concepticon.clld.org/parameters/1150,šiukawe,thunder
+252-283,nina1238,http://concepticon.clld.org/parameters/858,watoli,storm
+252-343,nina1238,http://concepticon.clld.org/parameters/1733,yãnomano,rainbow
+252-472,nina1238,http://concepticon.clld.org/parameters/630,wakala ma wei,light (noun)
+252-9,nina1238,http://concepticon.clld.org/parameters/11,tutu thehe,darkness
+252-300,nina1238,http://concepticon.clld.org/parameters/1388,lõlap,"shade, shadow"
+252-214,nina1238,http://concepticon.clld.org/parameters/27,hušiampək,air
+252-283,nina1238,http://concepticon.clld.org/parameters/960,watoli,wind
+252-546,nina1238,http://concepticon.clld.org/parameters/1489,wakiši,cloud
+252-546,nina1238,http://concepticon.clld.org/parameters/249,wakiši,fog
+252-136,nina1238,http://concepticon.clld.org/parameters/658,ma,rain (noun)
+252-551,nina1238,http://concepticon.clld.org/parameters/221,wake,fire
+252-551,nina1238,http://concepticon.clld.org/parameters/889,wake,flame (noun)
+252-546,nina1238,http://concepticon.clld.org/parameters/778,wakiši,smoke (noun)
+252-434,nina1238,http://concepticon.clld.org/parameters/646,yupušupu,ashes
+252-531,nina1238,http://concepticon.clld.org/parameters/67,ãnahu,embers
+252-659,nina1238,http://concepticon.clld.org/parameters/141,ĩšia ma,burn (vb trans)
+252-775,nina1238,http://concepticon.clld.org/parameters/1428,ĩšia,burn (vb intrans)
+252-437,nina1238,http://concepticon.clld.org/parameters/737,wake hola,"light, kindle, ignite"
+252-596,nina1238,http://concepticon.clld.org/parameters/127,lã la ma,extinguish
+252-361,nina1238,http://concepticon.clld.org/parameters/1133,pole-wake,match (noun)
+252-724,nina1238,http://concepticon.clld.org/parameters/10,thalukuk,firewood
+252-736,nina1238,http://concepticon.clld.org/parameters/683,ninam,"person, human being"
+252-708,nina1238,http://concepticon.clld.org/parameters/1554,wãlo,man (vs. woman)
+252-396,nina1238,http://concepticon.clld.org/parameters/962,thuwe,woman
+252-708,nina1238,http://concepticon.clld.org/parameters/2263,wãlo,male
+252-396,nina1238,http://concepticon.clld.org/parameters/2260,thuwe,female
+252-654,nina1238,http://concepticon.clld.org/parameters/1366,wãlo oše,boy
+252-624,nina1238,http://concepticon.clld.org/parameters/76,huya,young man (adolescent)
+252-321,nina1238,http://concepticon.clld.org/parameters/1646,thuwe oše,girl
+252-188,nina1238,http://concepticon.clld.org/parameters/77,moko,young woman (adolescent)
+252-141,nina1238,http://concepticon.clld.org/parameters/1304,ulu,child
+252-246,nina1238,http://concepticon.clld.org/parameters/1289,ulu thai,"infant, baby"
+252-85,nina1238,http://concepticon.clld.org/parameters/1200,pĩyalop-e,husband
+252-469,nina1238,http://concepticon.clld.org/parameters/1199,pithiop-e,wife
+252-198,nina1238,http://concepticon.clld.org/parameters/203,thuwe yia,marry
+252-273,nina1238,http://concepticon.clld.org/parameters/1134,thuwe šiye,divorce
+252-90,nina1238,http://concepticon.clld.org/parameters/1217,popa-ye,father
+252-148,nina1238,http://concepticon.clld.org/parameters/1216,naa-ye,mother
+252-311,nina1238,http://concepticon.clld.org/parameters/424,thuwe hipo wei,married man
+252-500,nina1238,http://concepticon.clld.org/parameters/426,wãlo hipo wei,married woman
+252-296,nina1238,http://concepticon.clld.org/parameters/1620,ulu-ye,son
+252-384,nina1238,http://concepticon.clld.org/parameters/1357,thee-ye,daughter
+252-484,nina1238,http://concepticon.clld.org/parameters/1759,awe-ye,older brother
+252-17,nina1238,http://concepticon.clld.org/parameters/1760,šĩa-ye,younger brother
+252-778,nina1238,http://concepticon.clld.org/parameters/1758,ami-ye,older sister
+252-17,nina1238,http://concepticon.clld.org/parameters/1761,šĩa-ye,younger sister
+252-768,nina1238,http://concepticon.clld.org/parameters/1005,thala hoolo wei kup,twins
+252-337,nina1238,http://concepticon.clld.org/parameters/1383,šoa-ye,grandfather
+252-138,nina1238,http://concepticon.clld.org/parameters/406,wãlo pata,old man
+252-692,nina1238,http://concepticon.clld.org/parameters/1496,yaa-ye,grandmother
+252-516,nina1238,http://concepticon.clld.org/parameters/907,thuwe lepi,old woman
+252-439,nina1238,http://concepticon.clld.org/parameters/1618,thãlesi-ye,grandson
+252-242,nina1238,http://concepticon.clld.org/parameters/1619,yiha-ye,granddaughter
+252-337,nina1238,http://concepticon.clld.org/parameters/1984,šoa-ye,mother's brother
+252-90,nina1238,http://concepticon.clld.org/parameters/1985,popa-ye,father's brother
+252-148,nina1238,http://concepticon.clld.org/parameters/171,naa-ye,mother's sister
+252-692,nina1238,http://concepticon.clld.org/parameters/170,yaa-ye,father's sister
+252-439,nina1238,http://concepticon.clld.org/parameters/1063,thãlesi-ye,nephew
+252-242,nina1238,http://concepticon.clld.org/parameters/1642,yiha-ye,niece
+252-166,nina1238,http://concepticon.clld.org/parameters/1643,heli-ye,cousin
+252-209,nina1238,http://concepticon.clld.org/parameters/1669,pata pək,ancestors
+252-68,nina1238,http://concepticon.clld.org/parameters/490,pulup-e pək ehetole,descendants
+252-337,nina1238,http://concepticon.clld.org/parameters/2255,šoa-ye,father-in-law (of a man)
+252-337,nina1238,http://concepticon.clld.org/parameters/2254,šoa-ye,father-in-law (of a woman)
+252-692,nina1238,http://concepticon.clld.org/parameters/2256,yaa-ye,mother-in-law (of a man)
+252-692,nina1238,http://concepticon.clld.org/parameters/2257,yaa-ye,mother-in-law (of a woman)
+252-439,nina1238,http://concepticon.clld.org/parameters/2267,thãlesi-ye,son-in-law (of a man)
+252-439,nina1238,http://concepticon.clld.org/parameters/2266,thãlesi-ye,son-in-law (of a woman)
+252-242,nina1238,http://concepticon.clld.org/parameters/2265,yiha-ye,daughter-in-law (of a man)
+252-242,nina1238,http://concepticon.clld.org/parameters/2264,yiha-ye,daughter-in-law (of a woman)
+252-121,nina1238,http://concepticon.clld.org/parameters/1149,ulu watili,orphan
+252-151,nina1238,http://concepticon.clld.org/parameters/1756,thuwe watili,widow
+252-429,nina1238,http://concepticon.clld.org/parameters/1644,ipa pək,"relatives, kinsmen"
+252-429,nina1238,http://concepticon.clld.org/parameters/194,ipa pək,family
+252-789,nina1238,http://concepticon.clld.org/parameters/1209,kami-ye,I
+252-238,nina1238,http://concepticon.clld.org/parameters/1209,ya,I
+252-189,nina1238,http://concepticon.clld.org/parameters/1215,kahowa,you (singular)
+252-475,nina1238,http://concepticon.clld.org/parameters/1215,wa,you (singular)
+252-73,nina1238,http://concepticon.clld.org/parameters/262,kama,he/she/it
+252-702,nina1238,http://concepticon.clld.org/parameters/262,(zero),he/she/it
+252-807,nina1238,http://concepticon.clld.org/parameters/1131,kahowamak,we (inclusive)
+252-386,nina1238,http://concepticon.clld.org/parameters/1131,wamak,we (inclusive)
+252-567,nina1238,http://concepticon.clld.org/parameters/1130,kamiyamak,we (exclusive)
+252-487,nina1238,http://concepticon.clld.org/parameters/1130,yamak,we (exclusive)
+252-807,nina1238,http://concepticon.clld.org/parameters/1213,kahowamak,you (plural)
+252-386,nina1238,http://concepticon.clld.org/parameters/1213,wamak,you (plural)
+252-115,nina1238,http://concepticon.clld.org/parameters/817,pək,they
+252-44,nina1238,http://concepticon.clld.org/parameters/619,yalo,animal
+252-708,nina1238,http://concepticon.clld.org/parameters/2261,wãlo,male (adj)
+252-396,nina1238,http://concepticon.clld.org/parameters/2262,thuwe,female (adj)
+252-18,nina1238,http://concepticon.clld.org/parameters/631,hipo wei yalo,livestock
+252-703,nina1238,http://concepticon.clld.org/parameters/263,thẽlema wei,herdsman
+252-584,nina1238,http://concepticon.clld.org/parameters/1153,[paka],cattle (bovine)
+252-118,nina1238,http://concepticon.clld.org/parameters/1008,[paka] wãlo,bull
+252-584,nina1238,http://concepticon.clld.org/parameters/1007,[paka],cow
+252-643,nina1238,http://concepticon.clld.org/parameters/1989,[paka] ulup,calf
+252-272,nina1238,http://concepticon.clld.org/parameters/1331,[kahneilu],sheep
+252-224,nina1238,http://concepticon.clld.org/parameters/1344,[kahneilu] wãlo,ram
+252-642,nina1238,http://concepticon.clld.org/parameters/1345,[kahneilu] thuwe,ewe
+252-572,nina1238,http://concepticon.clld.org/parameters/820,[kahneilu] ulup,lamb
+252-162,nina1238,http://concepticon.clld.org/parameters/1348,koš wãlo,boar
+252-52,nina1238,http://concepticon.clld.org/parameters/1351,koš thuwe,sow (2)
+252-294,nina1238,http://concepticon.clld.org/parameters/1337,koš,pig
+252-87,nina1238,http://concepticon.clld.org/parameters/1502,[kapla],goat
+252-77,nina1238,http://concepticon.clld.org/parameters/615,[kapalu],horse (equine)
+252-675,nina1238,http://concepticon.clld.org/parameters/936,[kapalu] wãlo,stallion
+252-391,nina1238,http://concepticon.clld.org/parameters/938,[kapalu] thuwe,mare
+252-265,nina1238,http://concepticon.clld.org/parameters/1647,[kapalu] ulup,"foal, colt"
+252-39,nina1238,http://concepticon.clld.org/parameters/1511,kalaka wãlo,"cock, rooster"
+252-598,nina1238,http://concepticon.clld.org/parameters/1514,kalaka thuwe,hen
+252-5,nina1238,http://concepticon.clld.org/parameters/1318,kalaka,chicken
+252-745,nina1238,http://concepticon.clld.org/parameters/1360,[patlu],duck
+252-289,nina1238,http://concepticon.clld.org/parameters/539,yapək,nest
+252-440,nina1238,http://concepticon.clld.org/parameters/1905,pohomo,eagle
+252-467,nina1238,http://concepticon.clld.org/parameters/307,kõkoyom,hawk
+252-302,nina1238,http://concepticon.clld.org/parameters/1185,watupa,vulture
+252-606,nina1238,http://concepticon.clld.org/parameters/1793,hewesi,bat
+252-615,nina1238,http://concepticon.clld.org/parameters/882,wilikok,parrot
+252-449,nina1238,http://concepticon.clld.org/parameters/1853,hoya,dove
+252-362,nina1238,http://concepticon.clld.org/parameters/735,kuluku,owl
+252-526,nina1238,http://concepticon.clld.org/parameters/2009,okolo,dog
+252-400,nina1238,http://concepticon.clld.org/parameters/1136,hõha,rabbit
+252-573,nina1238,http://concepticon.clld.org/parameters/1208,[kitikiti],cat
+252-632,nina1238,http://concepticon.clld.org/parameters/309,nãlo,opossum
+252-731,nina1238,http://concepticon.clld.org/parameters/2139,tholop,"mouse, rat"
+252-728,nina1238,http://concepticon.clld.org/parameters/227,yalaka,fish
+252-438,nina1238,http://concepticon.clld.org/parameters/213,yuupusi,fin (dorsal)
+252-72,nina1238,http://concepticon.clld.org/parameters/266,miosip,fishscale
+252-2,nina1238,http://concepticon.clld.org/parameters/1916,akthak,gill
+252-625,nina1238,http://concepticon.clld.org/parameters/598,hesi,shell
+252-413,nina1238,http://concepticon.clld.org/parameters/1479,alašali,"porpoise, dolphin"
+252-175,nina1238,http://concepticon.clld.org/parameters/1910,šotali,stingray
+252-505,nina1238,http://concepticon.clld.org/parameters/1013,mõlothotho,freshwater eel
+252-356,nina1238,http://concepticon.clld.org/parameters/1936,haya,deer
+252-322,nina1238,http://concepticon.clld.org/parameters/310,noma,louse
+252-104,nina1238,http://concepticon.clld.org/parameters/267,noma thethepək,nit (louse egg)
+252-322,nina1238,http://concepticon.clld.org/parameters/232,noma,flea
+252-665,nina1238,http://concepticon.clld.org/parameters/232,hĩho,flea
+252-565,nina1238,http://concepticon.clld.org/parameters/1538,thohi,scorpion
+252-131,nina1238,http://concepticon.clld.org/parameters/1575,oposi,cockroach
+252-524,nina1238,http://concepticon.clld.org/parameters/843,waleyehek,spider
+252-81,nina1238,http://concepticon.clld.org/parameters/1065,waleyehe-šik,spider web
+252-82,nina1238,http://concepticon.clld.org/parameters/665,oinak,bee
+252-142,nina1238,http://concepticon.clld.org/parameters/1931,kosis,beeswax
+252-405,nina1238,http://concepticon.clld.org/parameters/1517,kopina,wasp
+252-155,nina1238,http://concepticon.clld.org/parameters/1517,kopesinak,wasp
+252-442,nina1238,http://concepticon.clld.org/parameters/1504,lõ,fly
+252-628,nina1238,http://concepticon.clld.org/parameters/95,moštolo,"sandfly (midge), gnat"
+252-357,nina1238,http://concepticon.clld.org/parameters/1509,potoma,mosquito
+252-609,nina1238,http://concepticon.clld.org/parameters/1219,ikolomaš,worm
+252-715,nina1238,http://concepticon.clld.org/parameters/730,oliki,snake
+252-47,nina1238,http://concepticon.clld.org/parameters/730,walok,snake
+252-566,nina1238,http://concepticon.clld.org/parameters/206,põlemahu,firefly
+252-684,nina1238,http://concepticon.clld.org/parameters/206,põlemahuk,firefly
+252-208,nina1238,http://concepticon.clld.org/parameters/1791,alasi,butterfly
+252-574,nina1238,http://concepticon.clld.org/parameters/607,hiskima,grasshopper
+252-689,nina1238,http://concepticon.clld.org/parameters/607,pašo,grasshopper
+252-614,nina1238,http://concepticon.clld.org/parameters/503,poplam,frog
+252-581,nina1238,http://concepticon.clld.org/parameters/632,mãiato,lizard
+252-613,nina1238,http://concepticon.clld.org/parameters/1857,weli,"crocodile, alligator"
+252-310,nina1238,http://concepticon.clld.org/parameters/1857,aluweli,"crocodile, alligator"
+252-548,nina1238,http://concepticon.clld.org/parameters/112,yãpolihip,turtle
+252-299,nina1238,http://concepticon.clld.org/parameters/112,taalehip,turtle
+252-231,nina1238,http://concepticon.clld.org/parameters/1480,pili yai,body
+252-741,nina1238,http://concepticon.clld.org/parameters/763,pili si,"skin, hide"
+252-459,nina1238,http://concepticon.clld.org/parameters/2259,pili yãhi,flesh
+252-364,nina1238,http://concepticon.clld.org/parameters/1040,šinak,hair (head)
+252-249,nina1238,http://concepticon.clld.org/parameters/678,kauik,beard
+252-66,nina1238,http://concepticon.clld.org/parameters/189,kõik,body hair
+252-157,nina1238,http://concepticon.clld.org/parameters/36,pili wešik,pubic hair
+252-468,nina1238,http://concepticon.clld.org/parameters/946,ĩep,blood
+252-561,nina1238,http://concepticon.clld.org/parameters/525,ĩthetholip,"vein, artery"
+252-411,nina1238,http://concepticon.clld.org/parameters/1394,pili thũ,bone
+252-13,nina1238,http://concepticon.clld.org/parameters/801,pili lemnahi,rib
+252-700,nina1238,http://concepticon.clld.org/parameters/1393,yõlak,horn
+252-460,nina1238,http://concepticon.clld.org/parameters/1220,pili šina,tail
+252-317,nina1238,http://concepticon.clld.org/parameters/1291,yaip,back
+252-421,nina1238,http://concepticon.clld.org/parameters/805,pili hulumoto,spine
+252-146,nina1238,http://concepticon.clld.org/parameters/1256,pelehe,head
+252-260,nina1238,http://concepticon.clld.org/parameters/1605,pilehe,skull
+252-570,nina1238,http://concepticon.clld.org/parameters/1583,ĩošip,brain
+252-63,nina1238,http://concepticon.clld.org/parameters/1560,pili muk,face
+252-569,nina1238,http://concepticon.clld.org/parameters/123,pili hũko,forehead
+252-192,nina1238,http://concepticon.clld.org/parameters/798,pili nakihik,jaw
+252-14,nina1238,http://concepticon.clld.org/parameters/1730,nakthək,cheek
+252-83,nina1238,http://concepticon.clld.org/parameters/1510,pili nãalu,chin
+252-813,nina1238,http://concepticon.clld.org/parameters/1248,pili mamo,eye
+252-441,nina1238,http://concepticon.clld.org/parameters/1173,pili miyok,eyebrow
+252-534,nina1238,http://concepticon.clld.org/parameters/17,pili mamo kasi,eyelid
+252-519,nina1238,http://concepticon.clld.org/parameters/1540,pili mamo-šik,eyelash
+252-547,nina1238,http://concepticon.clld.org/parameters/1655,misi wãhi-wahi-mo-wei,blink
+252-147,nina1238,http://concepticon.clld.org/parameters/1247,yũmuk,ear
+252-69,nina1238,http://concepticon.clld.org/parameters/32,ãhik,earwax
+252-582,nina1238,http://concepticon.clld.org/parameters/32,yũmuk ãhi,earwax
+252-560,nina1238,http://concepticon.clld.org/parameters/1221,hũkak,nose
+252-633,nina1238,http://concepticon.clld.org/parameters/1178,hũkak paka,nostril
+252-737,nina1238,http://concepticon.clld.org/parameters/208,thoko,mucus (nasal)
+252-594,nina1238,http://concepticon.clld.org/parameters/674,kahik,mouth
+252-670,nina1238,http://concepticon.clld.org/parameters/73,hũsehi,beak
+252-254,nina1238,http://concepticon.clld.org/parameters/478,pili kasi,lip
+252-342,nina1238,http://concepticon.clld.org/parameters/1205,pili aka,tongue
+252-498,nina1238,http://concepticon.clld.org/parameters/1380,pili nak,tooth
+252-520,nina1238,http://concepticon.clld.org/parameters/139,pili nakhik,gums
+252-733,nina1238,http://concepticon.clld.org/parameters/1333,pili olahi,neck
+252-129,nina1238,http://concepticon.clld.org/parameters/1347,olamii,nape of neck
+252-639,nina1238,http://concepticon.clld.org/parameters/1346,olamusi,throat
+252-202,nina1238,http://concepticon.clld.org/parameters/1482,hakalak,shoulder
+252-530,nina1238,http://concepticon.clld.org/parameters/172,halasipə,shoulderblade
+252-372,nina1238,http://concepticon.clld.org/parameters/1994,paləhiki,collarbone
+252-318,nina1238,http://concepticon.clld.org/parameters/1994,paleyihik,collarbone
+252-59,nina1238,http://concepticon.clld.org/parameters/1673,poko,arm
+252-170,nina1238,http://concepticon.clld.org/parameters/1886,hakamsik,armpit
+252-739,nina1238,http://concepticon.clld.org/parameters/981,ũmolok,elbow
+252-41,nina1238,http://concepticon.clld.org/parameters/799,ẽheko,wrist
+252-765,nina1238,http://concepticon.clld.org/parameters/1277,ũtha-k,hand
+252-340,nina1238,http://concepticon.clld.org/parameters/1183,ũtha-k paluk,palm of hand
+252-46,nina1238,http://concepticon.clld.org/parameters/1303,pili ũtha,finger
+252-190,nina1238,http://concepticon.clld.org/parameters/1781,pata ũtha,thumb
+252-636,nina1238,http://concepticon.clld.org/parameters/1258,namhesi,fingernail
+252-636,nina1238,http://concepticon.clld.org/parameters/72,namhesi,claw
+252-397,nina1238,http://concepticon.clld.org/parameters/1297,pili kolona,leg
+252-456,nina1238,http://concepticon.clld.org/parameters/800,pili waku,thigh
+252-651,nina1238,http://concepticon.clld.org/parameters/498,kolona šĩhilip,calf of leg
+252-804,nina1238,http://concepticon.clld.org/parameters/1371,mahekok,knee
+252-667,nina1238,http://concepticon.clld.org/parameters/1301,mãhuk,foot
+252-177,nina1238,http://concepticon.clld.org/parameters/803,pili mãiamop,ankle
+252-255,nina1238,http://concepticon.clld.org/parameters/980,mahenausi,heel
+252-533,nina1238,http://concepticon.clld.org/parameters/318,pili mãhuk mayo,footprint
+252-380,nina1238,http://concepticon.clld.org/parameters/1389,mãhehe,toe
+252-59,nina1238,http://concepticon.clld.org/parameters/1257,poko,wing
+252-783,nina1238,http://concepticon.clld.org/parameters/1201,ãhuk,feather
+252-688,nina1238,http://concepticon.clld.org/parameters/1201,šĩoik,feather
+252-168,nina1238,http://concepticon.clld.org/parameters/1201,yõik,feather
+252-620,nina1238,http://concepticon.clld.org/parameters/1592,paluk,chest
+252-794,nina1238,http://concepticon.clld.org/parameters/1402,thupək,breast (of woman)
+252-355,nina1238,http://concepticon.clld.org/parameters/796,thupək akaši,"nipple, teat"
+252-671,nina1238,http://concepticon.clld.org/parameters/1838,pili minaši,navel
+252-91,nina1238,http://concepticon.clld.org/parameters/1223,mašiap,heart
+252-780,nina1238,http://concepticon.clld.org/parameters/688,šelenak,lung
+252-666,nina1238,http://concepticon.clld.org/parameters/1224,amok,liver
+252-761,nina1238,http://concepticon.clld.org/parameters/1744,pili hulap,spleen
+252-499,nina1238,http://concepticon.clld.org/parameters/819,pili simosi,stomach
+252-279,nina1238,http://concepticon.clld.org/parameters/1991,pili šik,"intestines, guts"
+252-36,nina1238,http://concepticon.clld.org/parameters/1745,pili waku mošolip,hip
+252-710,nina1238,http://concepticon.clld.org/parameters/834,pili komo-k,buttocks
+252-49,nina1238,http://concepticon.clld.org/parameters/804,šitham,womb
+252-354,nina1238,http://concepticon.clld.org/parameters/1222,pili moš,penis
+252-709,nina1238,http://concepticon.clld.org/parameters/1407,hẽle-helek-mo,"breathe, breath"
+252-345,nina1238,http://concepticon.clld.org/parameters/1028,ak-lete mo,"yawn, gape"
+252-432,nina1238,http://concepticon.clld.org/parameters/162,šokolo-mo,hiccough
+252-163,nina1238,http://concepticon.clld.org/parameters/879,thoko-mo,cough
+252-773,nina1238,http://concepticon.clld.org/parameters/1621,aka-si namo,sneeze
+252-680,nina1238,http://concepticon.clld.org/parameters/126,yoli,perspire
+252-132,nina1238,http://concepticon.clld.org/parameters/1440,hola,spit
+252-497,nina1238,http://concepticon.clld.org/parameters/1278,thula,vomit
+252-721,nina1238,http://concepticon.clld.org/parameters/1403,soa,bite
+252-601,nina1238,http://concepticon.clld.org/parameters/319,nokoa,lick
+252-814,nina1238,http://concepticon.clld.org/parameters/1585,mališi,sleep
+252-139,nina1238,http://concepticon.clld.org/parameters/1585,mi,sleep
+252-662,nina1238,http://concepticon.clld.org/parameters/1983,hə̃lia-mo,snore
+252-261,nina1238,http://concepticon.clld.org/parameters/1983,hũkak wãha,snore
+252-20,nina1238,http://concepticon.clld.org/parameters/1920,mãli taa,dream
+252-525,nina1238,http://concepticon.clld.org/parameters/1602,lã yo,wake up
+252-555,nina1238,http://concepticon.clld.org/parameters/1159,šĩe,break wind
+252-324,nina1238,http://concepticon.clld.org/parameters/592,nasi kiye,urinate
+252-219,nina1238,http://concepticon.clld.org/parameters/676,ši kiye,defecate
+252-758,nina1238,http://concepticon.clld.org/parameters/1785,šowa,have sexual intercourse
+252-563,nina1238,http://concepticon.clld.org/parameters/52,yatito,shiver
+252-287,nina1238,http://concepticon.clld.org/parameters/138,yalu-mo,bathe
+252-782,nina1238,http://concepticon.clld.org/parameters/1152,tha ki,beget (of father)
+252-159,nina1238,http://concepticon.clld.org/parameters/1090,tha la li,born (to be)
+252-76,nina1238,http://concepticon.clld.org/parameters/1123,šipana,pregnant
+252-645,nina1238,http://concepticon.clld.org/parameters/1087,šipana yo,conceive
+252-766,nina1238,http://concepticon.clld.org/parameters/1422,temi,"live, living, life"
+252-221,nina1238,http://concepticon.clld.org/parameters/1494,hušmi,"die, dead"
+252-165,nina1238,http://concepticon.clld.org/parameters/1494,huštu,"die, dead"
+252-696,nina1238,http://concepticon.clld.org/parameters/1904,huštu pe,drowned
+252-331,nina1238,http://concepticon.clld.org/parameters/1417,šela,kill
+252-580,nina1238,http://concepticon.clld.org/parameters/767,pili hušmili,corpse
+252-385,nina1238,http://concepticon.clld.org/parameters/1719,pathu,bury (the dead)
+252-454,nina1238,http://concepticon.clld.org/parameters/785,lothotho,"strong, mighty, powerful"
+252-368,nina1238,http://concepticon.clld.org/parameters/1601,utiti,weak
+252-766,nina1238,http://concepticon.clld.org/parameters/1364,temi,"well, health"
+252-532,nina1238,http://concepticon.clld.org/parameters/1847,lãa-mo,"sick, sickness"
+252-193,nina1238,http://concepticon.clld.org/parameters/1534,wati-le-mo,fever
+252-686,nina1238,http://concepticon.clld.org/parameters/102,thoko-p,cold (catarrh)
+252-817,nina1238,http://concepticon.clld.org/parameters/1109,walasi,"wound, sore"
+252-553,nina1238,http://concepticon.clld.org/parameters/1148,kolethopi,bruise
+252-678,nina1238,http://concepticon.clld.org/parameters/1903,šu,swelling
+252-603,nina1238,http://concepticon.clld.org/parameters/148,šuti,itch
+252-305,nina1238,http://concepticon.clld.org/parameters/1584,thoolop,blister
+252-244,nina1238,http://concepticon.clld.org/parameters/793,yu,boil (noun)
+252-116,nina1238,http://concepticon.clld.org/parameters/1808,niip,pus
+252-23,nina1238,http://concepticon.clld.org/parameters/497,tusi,scar
+252-245,nina1238,http://concepticon.clld.org/parameters/499,halo,"cure, heal"
+252-698,nina1238,http://concepticon.clld.org/parameters/597,[toto],physician
+252-26,nina1238,http://concepticon.clld.org/parameters/1372,[hemeyu],"medicine, drug"
+252-322,nina1238,http://concepticon.clld.org/parameters/655,noma,poison
+252-515,nina1238,http://concepticon.clld.org/parameters/1757,hašimi,"tired, weary"
+252-226,nina1238,http://concepticon.clld.org/parameters/168,hašim watu,rest
+252-476,nina1238,http://concepticon.clld.org/parameters/1564,mõšeahi,lazy
+252-363,nina1238,http://concepticon.clld.org/parameters/1125,pelehe ~ plehe hõši,bald
+252-748,nina1238,http://concepticon.clld.org/parameters/320,šaklapi,lame
+252-112,nina1238,http://concepticon.clld.org/parameters/996,yũmuk usi,deaf
+252-89,nina1238,http://concepticon.clld.org/parameters/996,yũmuk koma,deaf
+252-120,nina1238,http://concepticon.clld.org/parameters/1666,ak mutu,mute
+252-489,nina1238,http://concepticon.clld.org/parameters/1653,mamo-k usi,blind
+252-322,nina1238,http://concepticon.clld.org/parameters/1463,noma,intoxicated
+252-10,nina1238,http://concepticon.clld.org/parameters/590,mãlo,"naked, bare"
+252-575,nina1238,http://concepticon.clld.org/parameters/1336,ia,eat
+252-475,nina1238,http://concepticon.clld.org/parameters/1336,wa,eat
+252-627,nina1238,http://concepticon.clld.org/parameters/256,amokaik,food
+252-494,nina1238,http://concepticon.clld.org/parameters/269,lupu,cooked
+252-382,nina1238,http://concepticon.clld.org/parameters/1959,lie,raw
+252-777,nina1238,http://concepticon.clld.org/parameters/178,hamo,ripe
+252-378,nina1238,http://concepticon.clld.org/parameters/178,wakei,ripe
+252-211,nina1238,http://concepticon.clld.org/parameters/1958,ãktale,"green, unripe"
+252-206,nina1238,http://concepticon.clld.org/parameters/1728,tale,rotten
+252-325,nina1238,http://concepticon.clld.org/parameters/1401,koa,drink
+252-770,nina1238,http://concepticon.clld.org/parameters/1533,ohi,hunger
+252-699,nina1238,http://concepticon.clld.org/parameters/848,amiši,thirst
+252-672,nina1238,http://concepticon.clld.org/parameters/1421,ukuka,suck
+252-285,nina1238,http://concepticon.clld.org/parameters/321,wãšika,chew
+252-271,nina1238,http://concepticon.clld.org/parameters/897,thuha,swallow
+252-423,nina1238,http://concepticon.clld.org/parameters/129,olamusi šia,choke
+252-207,nina1238,http://concepticon.clld.org/parameters/1100,lupu ma,cook
+252-680,nina1238,http://concepticon.clld.org/parameters/792,yoli,boil (vb)
+252-243,nina1238,http://concepticon.clld.org/parameters/183,hali,bake
+252-22,nina1238,http://concepticon.clld.org/parameters/1462,hapoka,"pot, cooking vessel"
+252-22,nina1238,http://concepticon.clld.org/parameters/854,hapoka,kettle
+252-705,nina1238,http://concepticon.clld.org/parameters/31,tho-šina,pan
+252-514,nina1238,http://concepticon.clld.org/parameters/481,[plato],dish
+252-514,nina1238,http://concepticon.clld.org/parameters/480,[plato],plate
+252-625,nina1238,http://concepticon.clld.org/parameters/476,hesi,"cup, drinking vessel"
+252-776,nina1238,http://concepticon.clld.org/parameters/1378,[kolher],spoon
+252-756,nina1238,http://concepticon.clld.org/parameters/1352,thomu-na,knife (2)
+252-588,nina1238,http://concepticon.clld.org/parameters/275,hõši ma,peel
+252-578,nina1238,http://concepticon.clld.org/parameters/86,hušu,"sieve, strain"
+252-171,nina1238,http://concepticon.clld.org/parameters/1767,hoa,scrape
+252-277,nina1238,http://concepticon.clld.org/parameters/1767,hũluka,scrape
+252-235,nina1238,http://concepticon.clld.org/parameters/2017,tihili,"stir, mix"
+252-635,nina1238,http://concepticon.clld.org/parameters/1368,simo,bread
+252-319,nina1238,http://concepticon.clld.org/parameters/1594,naškohi,"meal, flour"
+252-358,nina1238,http://concepticon.clld.org/parameters/1033,hutika,"crush, grind"
+252-284,nina1238,http://concepticon.clld.org/parameters/224,tokoli paka,mortar (2)
+252-96,nina1238,http://concepticon.clld.org/parameters/225,tiša wei,pestle
+252-218,nina1238,http://concepticon.clld.org/parameters/634,yãhi,meat
+252-381,nina1238,http://concepticon.clld.org/parameters/1547,yalo pəi,"soup, broth"
+252-676,nina1238,http://concepticon.clld.org/parameters/832,[pišamək],bean
+252-509,nina1238,http://concepticon.clld.org/parameters/1507,wiitihi himo,fruit
+252-612,nina1238,http://concepticon.clld.org/parameters/191,howali mok,nut
+252-320,nina1238,http://concepticon.clld.org/parameters/1484,['oleo] pəi,oil
+252-99,nina1238,http://concepticon.clld.org/parameters/323,ũta,"grease, fat"
+252-153,nina1238,http://concepticon.clld.org/parameters/1274,waihok,salt
+252-436,nina1238,http://concepticon.clld.org/parameters/1385,halamik,pepper
+252-707,nina1238,http://concepticon.clld.org/parameters/942,oi,honey
+252-427,nina1238,http://concepticon.clld.org/parameters/862,[asuka],sugar
+252-634,nina1238,http://concepticon.clld.org/parameters/635,[paka] up,milk (noun)
+252-589,nina1238,http://concepticon.clld.org/parameters/1245,[manteika],butter
+252-486,nina1238,http://concepticon.clld.org/parameters/731,uk,"beverage, drink"
+252-28,nina1238,http://concepticon.clld.org/parameters/404,ãlihiuk,fermented drink
+252-137,nina1238,http://concepticon.clld.org/parameters/404,hakala uk,fermented drink
+252-65,nina1238,http://concepticon.clld.org/parameters/744,kalaka thethepək,egg
+252-122,nina1238,http://concepticon.clld.org/parameters/1556,thethepək amo,egg yolk
+252-623,nina1238,http://concepticon.clld.org/parameters/158,tha,put on (clothes)
+252-478,nina1238,http://concepticon.clld.org/parameters/1895,kamiša-k,"clothing, clothes"
+252-176,nina1238,http://concepticon.clld.org/parameters/1616,kamiša,cloth
+252-45,nina1238,http://concepticon.clld.org/parameters/1850,mašuušuk,cotton
+252-741,nina1238,http://concepticon.clld.org/parameters/629,pili si,leather
+252-344,nina1238,http://concepticon.clld.org/parameters/121,huluka,spin
+252-184,nina1238,http://concepticon.clld.org/parameters/277,hesi komo,spindle
+252-791,nina1238,http://concepticon.clld.org/parameters/133,tie,weave
+252-191,nina1238,http://concepticon.clld.org/parameters/1457,hẽha,sew
+252-227,nina1238,http://concepticon.clld.org/parameters/1382,misi,needle
+252-646,nina1238,http://concepticon.clld.org/parameters/1161,mãšithu,thread
+252-176,nina1238,http://concepticon.clld.org/parameters/474,kamiša,woman's dress
+252-126,nina1238,http://concepticon.clld.org/parameters/1622,yai pesi,shirt
+252-295,nina1238,http://concepticon.clld.org/parameters/1600,[saia],skirt
+252-366,nina1238,http://concepticon.clld.org/parameters/809,[kausa] lapai,trousers
+252-169,nina1238,http://concepticon.clld.org/parameters/329,mãhuk pesi,"stocking, sock"
+252-169,nina1238,http://concepticon.clld.org/parameters/1381,mãhuk pesi,shoe
+252-466,nina1238,http://concepticon.clld.org/parameters/2130,yohopo wei,"hat, cap"
+252-84,nina1238,http://concepticon.clld.org/parameters/772,[sitlão],"belt, girdle"
+252-540,nina1238,http://concepticon.clld.org/parameters/867,ũtha-k pesi,glove
+252-377,nina1238,http://concepticon.clld.org/parameters/757,kamiša mamo,button
+252-227,nina1238,http://concepticon.clld.org/parameters/64,misi,pin
+252-669,nina1238,http://concepticon.clld.org/parameters/1374,[aneu],ring (for finger)
+252-687,nina1238,http://concepticon.clld.org/parameters/1961,yale-po wei,necklace
+252-458,nina1238,http://concepticon.clld.org/parameters/1860,šĩtha-,bead
+252-473,nina1238,http://concepticon.clld.org/parameters/770,[plĩko],earring
+252-630,nina1238,http://concepticon.clld.org/parameters/332,kamiša thahu,"handkerchief, rag"
+252-54,nina1238,http://concepticon.clld.org/parameters/1021,[toalha],towel
+252-182,nina1238,http://concepticon.clld.org/parameters/1475,limasik,comb
+252-732,nina1238,http://concepticon.clld.org/parameters/151,[šileši],razor
+252-493,nina1238,http://concepticon.clld.org/parameters/788,wape,soap
+252-600,nina1238,http://concepticon.clld.org/parameters/1171,kalawe,mirror
+252-647,nina1238,http://concepticon.clld.org/parameters/1099,yã,"dwell, live"
+252-463,nina1238,http://concepticon.clld.org/parameters/1252,yãno,house
+252-774,nina1238,http://concepticon.clld.org/parameters/1678,henahi,hut
+252-55,nina1238,http://concepticon.clld.org/parameters/1316,[lona],tent
+252-94,nina1238,http://concepticon.clld.org/parameters/736,yasipo həm,"yard, court"
+252-359,nina1238,http://concepticon.clld.org/parameters/335,poolo wei yãno,meeting house
+252-463,nina1238,http://concepticon.clld.org/parameters/1450,yãno,room
+252-610,nina1238,http://concepticon.clld.org/parameters/1567,yasik,"door, gate"
+252-247,nina1238,http://concepticon.clld.org/parameters/1596,[kayiato],lock (noun)
+252-31,nina1238,http://concepticon.clld.org/parameters/1472,[šapi],key
+252-747,nina1238,http://concepticon.clld.org/parameters/1375,paka,window
+252-252,nina1238,http://concepticon.clld.org/parameters/1464,ĩlak,ladder
+252-351,nina1238,http://concepticon.clld.org/parameters/1663,[kama],bed
+252-113,nina1238,http://concepticon.clld.org/parameters/1044,nakthək make wei,pillow
+252-172,nina1238,http://concepticon.clld.org/parameters/806,[kopeto],blanket
+252-577,nina1238,http://concepticon.clld.org/parameters/1476,tikele wei tihik,chair
+252-123,nina1238,http://concepticon.clld.org/parameters/1775,ala wei tihik,table
+252-216,nina1238,http://concepticon.clld.org/parameters/1273,[pela],candle
+252-140,nina1238,http://concepticon.clld.org/parameters/745,ala wei,shelf
+252-93,nina1238,http://concepticon.clld.org/parameters/205,ako,trough
+252-463,nina1238,http://concepticon.clld.org/parameters/769,yãno,roof
+252-743,nina1238,http://concepticon.clld.org/parameters/279,yaa-hena-k,thatch
+252-56,nina1238,http://concepticon.clld.org/parameters/280,yãno hik,ridgepole
+252-200,nina1238,http://concepticon.clld.org/parameters/281,wiitihi,"post, pole"
+252-586,nina1238,http://concepticon.clld.org/parameters/1227,wiitihi lasi,board
+252-488,nina1238,http://concepticon.clld.org/parameters/212,hutu,field (for cultivation)
+252-488,nina1238,http://concepticon.clld.org/parameters/586,hutu,garden
+252-308,nina1238,http://concepticon.clld.org/parameters/1541,õtamo,"cultivate, till"
+252-58,nina1238,http://concepticon.clld.org/parameters/1541,kẽa,"cultivate, till"
+252-445,nina1238,http://concepticon.clld.org/parameters/1690,šokia wei,fence
+252-394,nina1238,http://concepticon.clld.org/parameters/1901,oko hesi,shovel
+252-682,nina1238,http://concepticon.clld.org/parameters/284,palo,hoe
+252-103,nina1238,http://concepticon.clld.org/parameters/337,šumu namhesi,fork
+252-133,nina1238,http://concepticon.clld.org/parameters/338,hõkeka,rake
+252-663,nina1238,http://concepticon.clld.org/parameters/748,mok tha,sow
+252-304,nina1238,http://concepticon.clld.org/parameters/714,pili mok,seed
+252-658,nina1238,http://concepticon.clld.org/parameters/605,mok,"grain (barley, oats etc)"
+252-62,nina1238,http://concepticon.clld.org/parameters/1077,[tliko],wheat
+252-805,nina1238,http://concepticon.clld.org/parameters/60,[apeia],oats
+252-348,nina1238,http://concepticon.clld.org/parameters/506,lulumok,"maize, corn"
+252-125,nina1238,http://concepticon.clld.org/parameters/926,[ahois],rice
+252-152,nina1238,http://concepticon.clld.org/parameters/606,kaplišak,grass
+252-179,nina1238,http://concepticon.clld.org/parameters/653,sik,plant (noun)
+252-623,nina1238,http://concepticon.clld.org/parameters/1486,tha,plant (vb)
+252-656,nina1238,http://concepticon.clld.org/parameters/670,nasilik,root
+252-59,nina1238,http://concepticon.clld.org/parameters/1531,poko,branch
+252-128,nina1238,http://concepticon.clld.org/parameters/628,hena,leaf
+252-292,nina1238,http://concepticon.clld.org/parameters/239,nãkši,flower
+252-200,nina1238,http://concepticon.clld.org/parameters/906,wiitihi,tree
+252-335,nina1238,http://concepticon.clld.org/parameters/974,pinahi,tobacco
+252-539,nina1238,http://concepticon.clld.org/parameters/241,wiitihi mana,tree stump
+252-392,nina1238,http://concepticon.clld.org/parameters/344,wiitihi yai,tree trunk
+252-59,nina1238,http://concepticon.clld.org/parameters/409,poko,forked branch
+252-741,nina1238,http://concepticon.clld.org/parameters/1204,pili si,bark
+252-485,nina1238,http://concepticon.clld.org/parameters/345,huthu,sap
+252-253,nina1238,http://concepticon.clld.org/parameters/970,[koku],coconut
+252-281,nina1238,http://concepticon.clld.org/parameters/868,kalatha sik,banana tree
+252-240,nina1238,http://concepticon.clld.org/parameters/159,hikomik,sweet potato
+252-353,nina1238,http://concepticon.clld.org/parameters/410,wãahek,yam
+252-655,nina1238,http://concepticon.clld.org/parameters/410,mõkoi,yam
+252-326,nina1238,http://concepticon.clld.org/parameters/925,naškok,"tapioca, manioc, cassava"
+252-444,nina1238,http://concepticon.clld.org/parameters/925,hakalakok,"tapioca, manioc, cassava"
+252-625,nina1238,http://concepticon.clld.org/parameters/411,hesi,gourd
+252-97,nina1238,http://concepticon.clld.org/parameters/411,mãlakaaš,gourd
+252-513,nina1238,http://concepticon.clld.org/parameters/864,[šelimuk],"pumpkin, squash"
+252-722,nina1238,http://concepticon.clld.org/parameters/1927,lahok,bamboo
+252-637,nina1238,http://concepticon.clld.org/parameters/146,yalekoi,sugar cane
+252-227,nina1238,http://concepticon.clld.org/parameters/33,misi,nettle
+252-623,nina1238,http://concepticon.clld.org/parameters/813,tha,"do, make"
+252-58,nina1238,http://concepticon.clld.org/parameters/984,kẽa,work
+252-124,nina1238,http://concepticon.clld.org/parameters/2004,tišoko ma,bend
+252-134,nina1238,http://concepticon.clld.org/parameters/2004,toloko ma,bend
+252-679,nina1238,http://concepticon.clld.org/parameters/1470,yapa ma,fold
+252-346,nina1238,http://concepticon.clld.org/parameters/1917,õka,"tie, bind"
+252-67,nina1238,http://concepticon.clld.org/parameters/352,uše,untie
+252-145,nina1238,http://concepticon.clld.org/parameters/1627,mãliaši-k šĩko,chain
+252-729,nina1238,http://concepticon.clld.org/parameters/1218,thãtha,"rope, cord"
+252-683,nina1238,http://concepticon.clld.org/parameters/2133,še,"strike (hit, beat)"
+252-286,nina1238,http://concepticon.clld.org/parameters/2133,tihik,"strike (hit, beat)"
+252-683,nina1238,http://concepticon.clld.org/parameters/354,še,pound with fist
+252-608,nina1238,http://concepticon.clld.org/parameters/1432,hanu,cut
+252-772,nina1238,http://concepticon.clld.org/parameters/1432,pia,cut
+252-568,nina1238,http://concepticon.clld.org/parameters/355,pahathala,cut down
+252-527,nina1238,http://concepticon.clld.org/parameters/155,poa,"chop, hew"
+252-262,nina1238,http://concepticon.clld.org/parameters/1434,tiho,stab
+252-756,nina1238,http://concepticon.clld.org/parameters/1352,thomu-na,knife
+252-512,nina1238,http://concepticon.clld.org/parameters/356,alašak,"scissors, shears"
+252-185,nina1238,http://concepticon.clld.org/parameters/677,patapoo,ax
+252-40,nina1238,http://concepticon.clld.org/parameters/290,kanawe tiša wei,adze
+252-412,nina1238,http://concepticon.clld.org/parameters/680,ke,break
+252-388,nina1238,http://concepticon.clld.org/parameters/680,kaye,break
+252-379,nina1238,http://concepticon.clld.org/parameters/680,yahathala,break
+252-681,nina1238,http://concepticon.clld.org/parameters/1437,homo,split
+252-12,nina1238,http://concepticon.clld.org/parameters/1735,ẽkeke,tear
+252-161,nina1238,http://concepticon.clld.org/parameters/1449,humuka,"rub, wipe"
+252-653,nina1238,http://concepticon.clld.org/parameters/214,ikoko,stretch
+252-734,nina1238,http://concepticon.clld.org/parameters/1455,šai,pull
+252-183,nina1238,http://concepticon.clld.org/parameters/38,hetehe,spread out
+252-78,nina1238,http://concepticon.clld.org/parameters/357,yau ma,hang up
+252-173,nina1238,http://concepticon.clld.org/parameters/1913,hoo,press
+252-350,nina1238,http://concepticon.clld.org/parameters/1414,pateta,"squeeze, wring"
+252-60,nina1238,http://concepticon.clld.org/parameters/1414,ãhuha,"squeeze, wring"
+252-234,nina1238,http://concepticon.clld.org/parameters/1487,lu,pour
+252-408,nina1238,http://concepticon.clld.org/parameters/1453,ĩš yalu,wash
+252-213,nina1238,http://concepticon.clld.org/parameters/230,hãši,sweep
+252-34,nina1238,http://concepticon.clld.org/parameters/245,hašia wei,broom
+252-623,nina1238,http://concepticon.clld.org/parameters/1840,tha,build
+252-452,nina1238,http://concepticon.clld.org/parameters/1501,paka tha,bore
+252-779,nina1238,http://concepticon.clld.org/parameters/1948,[seha],saw
+252-541,nina1238,http://concepticon.clld.org/parameters/1481,[matelo],hammer
+252-719,nina1238,http://concepticon.clld.org/parameters/502,[pleku],nail
+252-485,nina1238,http://concepticon.clld.org/parameters/1069,huthu,glue
+252-542,nina1238,http://concepticon.clld.org/parameters/1369,[oulu],gold
+252-623,nina1238,http://concepticon.clld.org/parameters/289,tha,mold (clay etc)
+252-369,nina1238,http://concepticon.clld.org/parameters/1399,hapokaši,clay
+252-600,nina1238,http://concepticon.clld.org/parameters/604,kalawe,glass
+252-791,nina1238,http://concepticon.clld.org/parameters/1729,tie,"weave, plait"
+252-420,nina1238,http://concepticon.clld.org/parameters/1539,thalosi,basket
+252-24,nina1238,http://concepticon.clld.org/parameters/1971,šahema,fan (noun)
+252-435,nina1238,http://concepticon.clld.org/parameters/360,yahuha,fan (vb)
+252-300,nina1238,http://concepticon.clld.org/parameters/1002,lõlap,statue
+252-303,nina1238,http://concepticon.clld.org/parameters/1002,utup,statue
+252-477,nina1238,http://concepticon.clld.org/parameters/647,[šĩta],paint (noun)
+252-58,nina1238,http://concepticon.clld.org/parameters/765,kẽa,move
+252-11,nina1238,http://concepticon.clld.org/parameters/1588,hata,turn over
+252-11,nina1238,http://concepticon.clld.org/parameters/1445,hata,turn around
+252-346,nina1238,http://concepticon.clld.org/parameters/1113,õka,"wind, wrap"
+252-803,nina1238,http://concepticon.clld.org/parameters/827,lulia,roll
+252-720,nina1238,http://concepticon.clld.org/parameters/808,ke ma,drop (vb)
+252-393,nina1238,http://concepticon.clld.org/parameters/430,yapleta,twist
+252-229,nina1238,http://concepticon.clld.org/parameters/568,tele,rise
+252-403,nina1238,http://concepticon.clld.org/parameters/501,tele ma,"raise, lift"
+252-412,nina1238,http://concepticon.clld.org/parameters/1280,ke,fall
+252-798,nina1238,http://concepticon.clld.org/parameters/2253,piyi-piyi,drip
+252-428,nina1238,http://concepticon.clld.org/parameters/1456,šiye,throw
+252-753,nina1238,http://concepticon.clld.org/parameters/702,yãmu,catch (ball)
+252-563,nina1238,http://concepticon.clld.org/parameters/1909,yatito,shake
+252-626,nina1238,http://concepticon.clld.org/parameters/2003,kale,flow
+252-180,nina1238,http://concepticon.clld.org/parameters/1088,ke-pe,sink
+252-626,nina1238,http://concepticon.clld.org/parameters/1574,kale,float
+252-217,nina1238,http://concepticon.clld.org/parameters/1439,hele,swim
+252-174,nina1238,http://concepticon.clld.org/parameters/119,ehela pe,dive
+252-697,nina1238,http://concepticon.clld.org/parameters/365,amiša,splash
+252-626,nina1238,http://concepticon.clld.org/parameters/787,kale,sail (vb)
+252-611,nina1238,http://concepticon.clld.org/parameters/787,wele,sail (vb)
+252-508,nina1238,http://concepticon.clld.org/parameters/787,lõloho,sail (vb)
+252-259,nina1238,http://concepticon.clld.org/parameters/1441,yiyo,fly (vb)
+252-244,nina1238,http://concepticon.clld.org/parameters/1441,yu,fly (vb)
+252-132,nina1238,http://concepticon.clld.org/parameters/175,hola,blow
+252-816,nina1238,http://concepticon.clld.org/parameters/96,holea,"creep, crawl"
+252-212,nina1238,http://concepticon.clld.org/parameters/66,yiyeli,kneel
+252-810,nina1238,http://concepticon.clld.org/parameters/296,yele,crouch
+252-347,nina1238,http://concepticon.clld.org/parameters/1324,yõla,"slide, slip"
+252-25,nina1238,http://concepticon.clld.org/parameters/1829,yutu,"jump, leap"
+252-594,nina1238,http://concepticon.clld.org/parameters/1135,kahik,kick
+252-222,nina1238,http://concepticon.clld.org/parameters/1879,heli,dance
+252-407,nina1238,http://concepticon.clld.org/parameters/1443,hu,walk
+252-474,nina1238,http://concepticon.clld.org/parameters/366,kayi-kayi mo,limp
+252-695,nina1238,http://concepticon.clld.org/parameters/1519,lelea,run
+252-407,nina1238,http://concepticon.clld.org/parameters/695,hu,go
+252-27,nina1238,http://concepticon.clld.org/parameters/705,hemo,go up
+252-98,nina1238,http://concepticon.clld.org/parameters/1102,tu,climb
+252-111,nina1238,http://concepticon.clld.org/parameters/2014,itho,go down
+252-269,nina1238,http://concepticon.clld.org/parameters/1107,ha,go out
+252-109,nina1238,http://concepticon.clld.org/parameters/1107,ayo,go out
+252-545,nina1238,http://concepticon.clld.org/parameters/1446,hu-ima,come
+252-433,nina1238,http://concepticon.clld.org/parameters/581,hu kõ ima,come back
+252-194,nina1238,http://concepticon.clld.org/parameters/1752,ayo heli,"go away, depart"
+252-723,nina1238,http://concepticon.clld.org/parameters/485,lã layo,disappear
+252-248,nina1238,http://concepticon.clld.org/parameters/956,toku,flee
+252-621,nina1238,http://concepticon.clld.org/parameters/1085,noka,follow
+252-713,nina1238,http://concepticon.clld.org/parameters/1085,noha,follow
+252-7,nina1238,http://concepticon.clld.org/parameters/1047,not hipo,pursue
+252-528,nina1238,http://concepticon.clld.org/parameters/1047,not yia,pursue
+252-518,nina1238,http://concepticon.clld.org/parameters/1387,walo,"reach, arrive"
+252-704,nina1238,http://concepticon.clld.org/parameters/1778,ahathia,approach
+252-269,nina1238,http://concepticon.clld.org/parameters/749,ha,enter
+252-409,nina1238,http://concepticon.clld.org/parameters/412,hipo,carry-in-hand
+252-370,nina1238,http://concepticon.clld.org/parameters/413,yalukpo,carry-on-shoulder
+252-767,nina1238,http://concepticon.clld.org/parameters/414,yohopo,carry-on-head
+252-815,nina1238,http://concepticon.clld.org/parameters/692,hipo ima,bring
+252-712,nina1238,http://concepticon.clld.org/parameters/1127,šuma,send
+252-504,nina1238,http://concepticon.clld.org/parameters/43,utupo,lead (vb)
+252-4,nina1238,http://concepticon.clld.org/parameters/43,tutupo,lead (vb)
+252-390,nina1238,http://concepticon.clld.org/parameters/43,noka ma,lead (vb)
+252-695,nina1238,http://concepticon.clld.org/parameters/367,lelea,ride
+252-306,nina1238,http://concepticon.clld.org/parameters/1452,hĩili,"push, shove"
+252-523,nina1238,http://concepticon.clld.org/parameters/1452,yaale,"push, shove"
+252-604,nina1238,http://concepticon.clld.org/parameters/1452,yahuhupo,"push, shove"
+252-70,nina1238,http://concepticon.clld.org/parameters/667,pili-yo,road
+252-70,nina1238,http://concepticon.clld.org/parameters/2252,pili-yo,path
+252-252,nina1238,http://concepticon.clld.org/parameters/1011,ĩlak,bridge
+252-201,nina1238,http://concepticon.clld.org/parameters/122,[kahu],"carriage, wagon, cart"
+252-667,nina1238,http://concepticon.clld.org/parameters/710,mãhuk,wheel
+252-167,nina1238,http://concepticon.clld.org/parameters/1970,kanawe,canoe
+252-186,nina1238,http://concepticon.clld.org/parameters/1664,['pausa],raft
+252-35,nina1238,http://concepticon.clld.org/parameters/234,kanakoli,paddle (noun)
+252-181,nina1238,http://concepticon.clld.org/parameters/1849,tikolema,row (vb)
+252-481,nina1238,http://concepticon.clld.org/parameters/108,mana hãtha-la ma wei,rudder
+252-752,nina1238,http://concepticon.clld.org/parameters/1922,palahi,land (vb)
+252-409,nina1238,http://concepticon.clld.org/parameters/773,hipo,have
+252-409,nina1238,http://concepticon.clld.org/parameters/684,hipo,"own, possess"
+252-323,nina1238,http://concepticon.clld.org/parameters/1749,yia,take
+252-135,nina1238,http://concepticon.clld.org/parameters/1749,te,take
+252-407,nina1238,http://concepticon.clld.org/parameters/2021,hu,"seize, grasp"
+252-409,nina1238,http://concepticon.clld.org/parameters/1448,hipo,hold
+252-323,nina1238,http://concepticon.clld.org/parameters/694,yia,"get, obtain"
+252-135,nina1238,http://concepticon.clld.org/parameters/694,te,"get, obtain"
+252-795,nina1238,http://concepticon.clld.org/parameters/738,thə,thing
+252-410,nina1238,http://concepticon.clld.org/parameters/1447,hipi,give
+252-668,nina1238,http://concepticon.clld.org/parameters/85,hipi yapa,give back
+252-30,nina1238,http://concepticon.clld.org/parameters/85,kõ,give back
+252-471,nina1238,http://concepticon.clld.org/parameters/1997,thẽlema,"preserve, look after"
+252-312,nina1238,http://concepticon.clld.org/parameters/2008,huka,"save, rescue"
+252-596,nina1238,http://concepticon.clld.org/parameters/681,lã la ma,destroy
+252-160,nina1238,http://concepticon.clld.org/parameters/44,nini ma,"harm, injure, damage"
+252-446,nina1238,http://concepticon.clld.org/parameters/1468,hete,"seek, look for"
+252-691,nina1238,http://concepticon.clld.org/parameters/1468,peli,"seek, look for"
+252-479,nina1238,http://concepticon.clld.org/parameters/719,taa,find
+252-197,nina1238,http://concepticon.clld.org/parameters/1660,numuti yo,lose
+252-15,nina1238,http://concepticon.clld.org/parameters/1095,ha ma,"release, let go"
+252-75,nina1238,http://concepticon.clld.org/parameters/1559,[yineilu],money
+252-383,nina1238,http://concepticon.clld.org/parameters/1867,[pilata],coin
+252-53,nina1238,http://concepticon.clld.org/parameters/1674,mĩholi,poor
+252-482,nina1238,http://concepticon.clld.org/parameters/1774,šuulamo,"avaricious, stingy"
+252-595,nina1238,http://concepticon.clld.org/parameters/582,no lãi hipi,lend
+252-298,nina1238,http://concepticon.clld.org/parameters/718,no hipi,pay (vb)
+252-799,nina1238,http://concepticon.clld.org/parameters/718,no kõa ma,pay (vb)
+252-496,nina1238,http://concepticon.clld.org/parameters/856,kẽa ma,hire
+252-239,nina1238,http://concepticon.clld.org/parameters/1122,noa,wages
+252-685,nina1238,http://concepticon.clld.org/parameters/1869,naka,buy
+252-507,nina1238,http://concepticon.clld.org/parameters/1571,wiye,sell
+252-360,nina1238,http://concepticon.clld.org/parameters/1082,matohip wiye wei,merchant
+252-490,nina1238,http://concepticon.clld.org/parameters/752,matohip yãno,"store, shop"
+252-239,nina1238,http://concepticon.clld.org/parameters/657,noa,price
+252-154,nina1238,http://concepticon.clld.org/parameters/1426,no lothotho,"dear (costly, expensive)"
+252-587,nina1238,http://concepticon.clld.org/parameters/1887,no utiti,cheap
+252-507,nina1238,http://concepticon.clld.org/parameters/884,wiye,share (distribute)
+252-291,nina1238,http://concepticon.clld.org/parameters/1098,hule taa,weigh
+252-673,nina1238,http://concepticon.clld.org/parameters/1685,yaip həm,after
+252-673,nina1238,http://concepticon.clld.org/parameters/723,yaip həm,behind
+252-195,nina1238,http://concepticon.clld.org/parameters/1816,hoolo,beside
+252-293,nina1238,http://concepticon.clld.org/parameters/1326,pepi-hə,"down, below"
+252-404,nina1238,http://concepticon.clld.org/parameters/1882,paluk həm,before
+252-404,nina1238,http://concepticon.clld.org/parameters/1019,paluk həm,front
+252-786,nina1238,http://concepticon.clld.org/parameters/1606,titi,"inside, in"
+252-102,nina1238,http://concepticon.clld.org/parameters/1606,õši həm,"inside, in"
+252-648,nina1238,http://concepticon.clld.org/parameters/762,yasipo-hə,outside
+252-329,nina1238,http://concepticon.clld.org/parameters/1485,pepi,under
+252-263,nina1238,http://concepticon.clld.org/parameters/1485,pepi həm,under
+252-480,nina1238,http://concepticon.clld.org/parameters/1591,tele həm,"up, above"
+252-537,nina1238,http://concepticon.clld.org/parameters/998,pa,put
+252-338,nina1238,http://concepticon.clld.org/parameters/998,ĩtha,put
+252-74,nina1238,http://concepticon.clld.org/parameters/1416,tikele,sit
+252-230,nina1238,http://concepticon.clld.org/parameters/1416,lo,sit
+252-585,nina1238,http://concepticon.clld.org/parameters/215,make,lie down
+252-501,nina1238,http://concepticon.clld.org/parameters/215,la,lie down
+252-762,nina1238,http://concepticon.clld.org/parameters/215,pulu,lie down
+252-557,nina1238,http://concepticon.clld.org/parameters/1442,ila,stand
+252-465,nina1238,http://concepticon.clld.org/parameters/987,yãšimo,"remain, stay"
+252-683,nina1238,http://concepticon.clld.org/parameters/838,še,"remains, left overs"
+252-275,nina1238,http://concepticon.clld.org/parameters/7,hila,"collect, gather"
+252-591,nina1238,http://concepticon.clld.org/parameters/7,poola ma,"collect, gather"
+252-267,nina1238,http://concepticon.clld.org/parameters/1576,poolo ma,pile up
+252-275,nina1238,http://concepticon.clld.org/parameters/1576,hila,pile up
+252-51,nina1238,http://concepticon.clld.org/parameters/1743,yete,"join, unite"
+252-258,nina1238,http://concepticon.clld.org/parameters/1359,šeleke,separate
+252-258,nina1238,http://concepticon.clld.org/parameters/1119,šeleke,divide
+252-629,nina1238,http://concepticon.clld.org/parameters/1156,kalo,open
+252-336,nina1238,http://concepticon.clld.org/parameters/1046,nahu,"shut, close"
+252-336,nina1238,http://concepticon.clld.org/parameters/761,nahu,cover
+252-650,nina1238,http://concepticon.clld.org/parameters/602,šãho,"hide, conceal"
+252-229,nina1238,http://concepticon.clld.org/parameters/1265,tele,high
+252-333,nina1238,http://concepticon.clld.org/parameters/721,yatoto,low
+252-674,nina1238,http://concepticon.clld.org/parameters/1753,ola,top
+252-583,nina1238,http://concepticon.clld.org/parameters/690,mana,bottom
+252-660,nina1238,http://concepticon.clld.org/parameters/372,akaši,pointed
+252-661,nina1238,http://concepticon.clld.org/parameters/863,kasi,edge
+252-461,nina1238,http://concepticon.clld.org/parameters/682,leposi,side
+252-749,nina1238,http://concepticon.clld.org/parameters/1093,puupu-hə,"middle, center"
+252-711,nina1238,http://concepticon.clld.org/parameters/1019,poko yai,right (side)
+252-806,nina1238,http://concepticon.clld.org/parameters/244,poko hai,left (side)
+252-506,nina1238,http://concepticon.clld.org/parameters/1942,ahathi,near (adv)
+252-726,nina1238,http://concepticon.clld.org/parameters/1942,ahi,near (adv)
+252-593,nina1238,http://concepticon.clld.org/parameters/1406,lahami,far (adv)
+252-616,nina1238,http://concepticon.clld.org/parameters/479,pata yo,grow
+252-349,nina1238,http://concepticon.clld.org/parameters/1506,pata taa,measure
+252-256,nina1238,http://concepticon.clld.org/parameters/1506,lapa taa,measure
+252-79,nina1238,http://concepticon.clld.org/parameters/1202,pata,"large, big"
+252-225,nina1238,http://concepticon.clld.org/parameters/1202,le,"large, big"
+252-1,nina1238,http://concepticon.clld.org/parameters/1246,sĩilip,"small, little"
+252-365,nina1238,http://concepticon.clld.org/parameters/1246,oše,"small, little"
+252-332,nina1238,http://concepticon.clld.org/parameters/1203,lapa,long
+252-417,nina1238,http://concepticon.clld.org/parameters/711,yalehe,tall
+252-233,nina1238,http://concepticon.clld.org/parameters/1645,hototi,short
+252-225,nina1238,http://concepticon.clld.org/parameters/1243,le,"wide, broad"
+252-376,nina1238,http://concepticon.clld.org/parameters/1267,miši,narrow
+252-809,nina1238,http://concepticon.clld.org/parameters/1267,masi,narrow
+252-579,nina1238,http://concepticon.clld.org/parameters/1244,yikahi,thick (in dimension)
+252-607,nina1238,http://concepticon.clld.org/parameters/1400,sitetehe,thin (in dimension)
+252-352,nina1238,http://concepticon.clld.org/parameters/1593,õki,deep
+252-755,nina1238,http://concepticon.clld.org/parameters/193,talomi,shallow
+252-605,nina1238,http://concepticon.clld.org/parameters/1633,lasi,flat
+252-797,nina1238,http://concepticon.clld.org/parameters/1404,šaali,straight
+252-33,nina1238,http://concepticon.clld.org/parameters/297,toloko,crooked
+252-426,nina1238,http://concepticon.clld.org/parameters/297,tišoko,crooked
+252-462,nina1238,http://concepticon.clld.org/parameters/1367,alaha,cross
+252-747,nina1238,http://concepticon.clld.org/parameters/1667,paka,hole
+252-130,nina1238,http://concepticon.clld.org/parameters/1558,meheti,"like, similar"
+252-751,nina1238,http://concepticon.clld.org/parameters/1558,pə ku-le naha,"like, similar"
+252-510,nina1238,http://concepticon.clld.org/parameters/1294,pemi,"zero, nothing"
+252-622,nina1238,http://concepticon.clld.org/parameters/1515,mõli,one
+252-61,nina1238,http://concepticon.clld.org/parameters/1498,kup,two
+252-558,nina1238,http://concepticon.clld.org/parameters/1498,yalukup,two
+252-115,nina1238,http://concepticon.clld.org/parameters/492,pək,three
+252-717,nina1238,http://concepticon.clld.org/parameters/1420,utuha,count
+252-590,nina1238,http://concepticon.clld.org/parameters/1420,yalami taa,count
+252-521,nina1238,http://concepticon.clld.org/parameters/98,kõmoli,"every, all"
+252-178,nina1238,http://concepticon.clld.org/parameters/1198,yalami,"much, many"
+252-228,nina1238,http://concepticon.clld.org/parameters/1992,ai həm,more
+252-740,nina1238,http://concepticon.clld.org/parameters/1242,yãmi,"little (quantity), few"
+252-759,nina1238,http://concepticon.clld.org/parameters/1881,inaha,enough
+252-771,nina1238,http://concepticon.clld.org/parameters/1241,ai,some
+252-395,nina1238,http://concepticon.clld.org/parameters/2023,pək yalami,"multitude, crowd"
+252-536,nina1238,http://concepticon.clld.org/parameters/1429,ehethe,full
+252-375,nina1238,http://concepticon.clld.org/parameters/1624,loko,empty
+252-787,nina1238,http://concepticon.clld.org/parameters/779,thahu,"part, piece"
+252-683,nina1238,http://concepticon.clld.org/parameters/779,še,"part, piece"
+252-266,nina1238,http://concepticon.clld.org/parameters/816,pupu-hə,half
+252-740,nina1238,http://concepticon.clld.org/parameters/1580,yãmi,"alone, only"
+252-744,nina1238,http://concepticon.clld.org/parameters/728,palu,first
+252-644,nina1238,http://concepticon.clld.org/parameters/1529,hilolo,last
+252-297,nina1238,http://concepticon.clld.org/parameters/892,thəm,time
+252-784,nina1238,http://concepticon.clld.org/parameters/1231,tito,new
+252-365,nina1238,http://concepticon.clld.org/parameters/1207,oše,young
+252-313,nina1238,http://concepticon.clld.org/parameters/1229,lepi,old
+252-150,nina1238,http://concepticon.clld.org/parameters/477,thəm tete,late
+252-50,nina1238,http://concepticon.clld.org/parameters/1376,hoi-thehe,now
+252-50,nina1238,http://concepticon.clld.org/parameters/1963,hoi-thehe,immediately
+252-422,nina1238,http://concepticon.clld.org/parameters/1631,lopai,"swift, fast, quick"
+252-664,nina1238,http://concepticon.clld.org/parameters/701,opi,slow
+252-649,nina1238,http://concepticon.clld.org/parameters/701,õli,slow
+252-657,nina1238,http://concepticon.clld.org/parameters/754,ši-hali-mo,"hasten, hurry"
+252-664,nina1238,http://concepticon.clld.org/parameters/425,opi,"retard, delay"
+252-476,nina1238,http://concepticon.clld.org/parameters/425,mõšeahi,"retard, delay"
+252-414,nina1238,http://concepticon.clld.org/parameters/1806,šoniki,"begin, beginning"
+252-223,nina1238,http://concepticon.clld.org/parameters/1186,mašulu,"last, endure"
+252-301,nina1238,http://concepticon.clld.org/parameters/743,inaha ku-op,end (temporal)
+252-644,nina1238,http://concepticon.clld.org/parameters/1766,hilolo,finish
+252-644,nina1238,http://concepticon.clld.org/parameters/1928,hilolo,"cease, stop"
+252-223,nina1238,http://concepticon.clld.org/parameters/1676,mašulu,always
+252-199,nina1238,http://concepticon.clld.org/parameters/1852,kõthetho,often
+252-638,nina1238,http://concepticon.clld.org/parameters/703,hai,soon
+252-105,nina1238,http://concepticon.clld.org/parameters/418,yutuha,long-time (for a)
+252-30,nina1238,http://concepticon.clld.org/parameters/204,kõ,again
+252-297,nina1238,http://concepticon.clld.org/parameters/1260,thəm,day
+252-220,nina1238,http://concepticon.clld.org/parameters/1233,thəm tutu thehe,night
+252-415,nina1238,http://concepticon.clld.org/parameters/729,mothok ha thehe,dawn
+252-232,nina1238,http://concepticon.clld.org/parameters/1339,hena thehe,morning
+252-339,nina1238,http://concepticon.clld.org/parameters/12,šĩ lõloho thehe,"noon, midday"
+252-812,nina1238,http://concepticon.clld.org/parameters/1807,huya thehe,afternoon
+252-50,nina1238,http://concepticon.clld.org/parameters/1283,hoi-thehe,today
+252-232,nina1238,http://concepticon.clld.org/parameters/1329,hena thehe,tomorrow
+252-693,nina1238,http://concepticon.clld.org/parameters/1179,ai thəmu-hə,day-after-tomorrow
+252-693,nina1238,http://concepticon.clld.org/parameters/1174,ai thəmu-hə,yesterday
+252-693,nina1238,http://concepticon.clld.org/parameters/1180,ai thəmu-hə,day-before-yesterday
+252-297,nina1238,http://concepticon.clld.org/parameters/1353,thəm,hour
+252-549,nina1238,http://concepticon.clld.org/parameters/1323,[helošu],"clock, timepiece"
+252-309,nina1238,http://concepticon.clld.org/parameters/1370,wilipo,month
+252-371,nina1238,http://concepticon.clld.org/parameters/1226,thəm wehe,year
+252-297,nina1238,http://concepticon.clld.org/parameters/691,thəm,season
+252-672,nina1238,http://concepticon.clld.org/parameters/375,ukuka,sniff
+252-714,nina1238,http://concepticon.clld.org/parameters/376,tãmili,"fragrant, good smelling"
+252-781,nina1238,http://concepticon.clld.org/parameters/376,tãmšili,"fragrant, good smelling"
+252-314,nina1238,http://concepticon.clld.org/parameters/42,hũthali,"stinking, bad smelling"
+252-42,nina1238,http://concepticon.clld.org/parameters/717,keteti,sweet
+252-119,nina1238,http://concepticon.clld.org/parameters/1091,waihopi,salty
+252-450,nina1238,http://concepticon.clld.org/parameters/887,koami,bitter
+252-801,nina1238,http://concepticon.clld.org/parameters/1906,nãši,"acid, sour"
+252-470,nina1238,http://concepticon.clld.org/parameters/1408,hĩli,hear
+252-470,nina1238,http://concepticon.clld.org/parameters/1608,hĩli,listen
+252-808,nina1238,http://concepticon.clld.org/parameters/1811,wãha,"sound, noise"
+252-127,nina1238,http://concepticon.clld.org/parameters/377,ĩkali,loud
+252-738,nina1238,http://concepticon.clld.org/parameters/1314,waiti,"quiet, silence"
+252-479,nina1238,http://concepticon.clld.org/parameters/1409,taa,see
+252-479,nina1238,http://concepticon.clld.org/parameters/1819,taa,"look, look at"
+252-448,nina1238,http://concepticon.clld.org/parameters/1039,hiima,show
+252-556,nina1238,http://concepticon.clld.org/parameters/1039,waato ma,show
+252-559,nina1238,http://concepticon.clld.org/parameters/708,šĩi,shine
+252-64,nina1238,http://concepticon.clld.org/parameters/706,uši,dark (in color)
+252-555,nina1238,http://concepticon.clld.org/parameters/1335,šĩe,white
+252-64,nina1238,http://concepticon.clld.org/parameters/163,uši,black
+252-750,nina1238,http://concepticon.clld.org/parameters/156,ĩe,red
+252-551,nina1238,http://concepticon.clld.org/parameters/156,wake,red
+252-752,nina1238,http://concepticon.clld.org/parameters/837,palahi,blue
+252-64,nina1238,http://concepticon.clld.org/parameters/837,uši,blue
+252-752,nina1238,http://concepticon.clld.org/parameters/1425,palahi,green
+252-204,nina1238,http://concepticon.clld.org/parameters/1424,walapasipi,yellow
+252-92,nina1238,http://concepticon.clld.org/parameters/1892,hupa,touch
+252-454,nina1238,http://concepticon.clld.org/parameters/1884,lothotho,hard
+252-86,nina1238,http://concepticon.clld.org/parameters/1884,kohipi,hard
+252-114,nina1238,http://concepticon.clld.org/parameters/1856,usi,soft
+252-788,nina1238,http://concepticon.clld.org/parameters/1234,si-ãhi,smooth
+252-250,nina1238,http://concepticon.clld.org/parameters/1396,namo,sharp
+252-802,nina1238,http://concepticon.clld.org/parameters/379,pusi,"blunt, dull"
+252-280,nina1238,http://concepticon.clld.org/parameters/1210,hule,heavy
+252-71,nina1238,http://concepticon.clld.org/parameters/1052,hẽtehe,light (in weight)
+252-217,nina1238,http://concepticon.clld.org/parameters/1726,hele,"wet, damp"
+252-430,nina1238,http://concepticon.clld.org/parameters/1398,wehe,dry
+252-327,nina1238,http://concepticon.clld.org/parameters/1286,wathotho,hot
+252-341,nina1238,http://concepticon.clld.org/parameters/1286,hĩoši,hot
+252-694,nina1238,http://concepticon.clld.org/parameters/1287,wati,cold
+252-495,nina1238,http://concepticon.clld.org/parameters/1287,watutu,cold
+252-156,nina1238,http://concepticon.clld.org/parameters/704,lišiši,clean
+252-43,nina1238,http://concepticon.clld.org/parameters/1230,ĩši,"dirty, soiled"
+252-101,nina1238,http://concepticon.clld.org/parameters/1230,šami,"dirty, soiled"
+252-529,nina1238,http://concepticon.clld.org/parameters/53,pihi,"soul, spirit"
+252-303,nina1238,http://concepticon.clld.org/parameters/53,utup,"soul, spirit"
+252-517,nina1238,http://concepticon.clld.org/parameters/1495,šiho,"joyful, glad, happy"
+252-543,nina1238,http://concepticon.clld.org/parameters/1355,kahik ĩka,laugh
+252-746,nina1238,http://concepticon.clld.org/parameters/1413,inimo,play
+252-457,nina1238,http://concepticon.clld.org/parameters/923,pihi yete,love
+252-387,nina1238,http://concepticon.clld.org/parameters/923,pihi šati,love
+252-334,nina1238,http://concepticon.clld.org/parameters/578,nakthək ukuka,kiss
+252-80,nina1238,http://concepticon.clld.org/parameters/1783,nini,pain
+252-727,nina1238,http://concepticon.clld.org/parameters/1668,ũku,"grief, sorrow, sadness"
+252-742,nina1238,http://concepticon.clld.org/parameters/1668,pihi wãli,"grief, sorrow, sadness"
+252-730,nina1238,http://concepticon.clld.org/parameters/1000,pihi hete,"anxiety, worry"
+252-727,nina1238,http://concepticon.clld.org/parameters/1839,ũku,"cry, weep"
+252-483,nina1238,http://concepticon.clld.org/parameters/1651,muapək,tear (noun)
+252-117,nina1238,http://concepticon.clld.org/parameters/716,pelimo,groan
+252-597,nina1238,http://concepticon.clld.org/parameters/1607,nihi wãlipo,hate
+252-406,nina1238,http://concepticon.clld.org/parameters/82,waaye,anger
+252-455,nina1238,http://concepticon.clld.org/parameters/1776,kili,shame (noun)
+252-706,nina1238,http://concepticon.clld.org/parameters/3,waithili,brave
+252-455,nina1238,http://concepticon.clld.org/parameters/781,kili,"fear, fright"
+252-108,nina1238,http://concepticon.clld.org/parameters/1784,pešima,"desire, want"
+252-538,nina1238,http://concepticon.clld.org/parameters/1750,yai,choose
+252-690,nina1238,http://concepticon.clld.org/parameters/1657,thã šaali,true
+252-401,nina1238,http://concepticon.clld.org/parameters/601,holemo,"lie, tell lies"
+252-264,nina1238,http://concepticon.clld.org/parameters/13,thã hole,deceit
+252-725,nina1238,http://concepticon.clld.org/parameters/1528,waaye wei šiye wei,forgive
+252-29,nina1238,http://concepticon.clld.org/parameters/1035,totihi,good
+252-502,nina1238,http://concepticon.clld.org/parameters/1292,wãlihiki,bad
+252-29,nina1238,http://concepticon.clld.org/parameters/1725,totihi,"right, correct"
+252-451,nina1238,http://concepticon.clld.org/parameters/1427,taam totihi,beautiful
+252-6,nina1238,http://concepticon.clld.org/parameters/1548,taam wãlihiki,ugly
+252-482,nina1238,http://concepticon.clld.org/parameters/2018,šuulamo,greedy
+252-491,nina1238,http://concepticon.clld.org/parameters/1310,moyawe,clever
+252-529,nina1238,http://concepticon.clld.org/parameters/1562,pihi,mind
+252-529,nina1238,http://concepticon.clld.org/parameters/1415,pihi,think (= reflect)
+252-576,nina1238,http://concepticon.clld.org/parameters/1513,pihi ku,think (= be of the opinion)
+252-769,nina1238,http://concepticon.clld.org/parameters/1890,thã hupo,believe
+252-511,nina1238,http://concepticon.clld.org/parameters/1536,hĩli-po,understand
+252-144,nina1238,http://concepticon.clld.org/parameters/1410,tapo,know
+252-205,nina1238,http://concepticon.clld.org/parameters/1932,pihi ku pə pə-le,guess
+252-764,nina1238,http://concepticon.clld.org/parameters/117,ua,imitate
+252-491,nina1238,http://concepticon.clld.org/parameters/698,moyawe,wise
+252-618,nina1238,http://concepticon.clld.org/parameters/1518,ut-muti,"foolish, stupid"
+252-288,nina1238,http://concepticon.clld.org/parameters/1899,pihi šõwali,"insane, crazy"
+252-37,nina1238,http://concepticon.clld.org/parameters/504,thã hu,learn
+252-453,nina1238,http://concepticon.clld.org/parameters/504,thã ua,learn
+252-764,nina1238,http://concepticon.clld.org/parameters/1929,ua,study
+252-550,nina1238,http://concepticon.clld.org/parameters/709,ua ma,teach
+252-237,nina1238,http://concepticon.clld.org/parameters/673,[liplu] ua wei yãno,school
+252-529,nina1238,http://concepticon.clld.org/parameters/707,pihi,remember
+252-107,nina1238,http://concepticon.clld.org/parameters/1523,utmuti layo,forget
+252-274,nina1238,http://concepticon.clld.org/parameters/989,waato,"clear, plain"
+252-268,nina1238,http://concepticon.clld.org/parameters/1626,thã waato ma,explain
+252-136,nina1238,http://concepticon.clld.org/parameters/860,ma,cause
+252-564,nina1238,http://concepticon.clld.org/parameters/643,miholimo,"need, necessity"
+252-701,nina1238,http://concepticon.clld.org/parameters/584,nuhmuti,difficult
+252-760,nina1238,http://concepticon.clld.org/parameters/1577,šo,and
+252-187,nina1238,http://concepticon.clld.org/parameters/1157,keteen,because
+252-44,nina1238,http://concepticon.clld.org/parameters/1157,yalo,because
+252-110,nina1238,http://concepticon.clld.org/parameters/1459,ihə,if
+252-196,nina1238,http://concepticon.clld.org/parameters/1459,hakunoha,if
+252-402,nina1238,http://concepticon.clld.org/parameters/1268,ẽe,"yes, affirmative"
+252-763,nina1238,http://concepticon.clld.org/parameters/1269,pem,"no, negative"
+252-276,nina1238,http://concepticon.clld.org/parameters/1239,hapenaha,how?
+252-276,nina1238,http://concepticon.clld.org/parameters/822,hapenaha,how many?
+252-276,nina1238,http://concepticon.clld.org/parameters/531,hapenaha,how much?
+252-626,nina1238,http://concepticon.clld.org/parameters/1236,kale,what?
+252-617,nina1238,http://concepticon.clld.org/parameters/1238,hapeli wilipo kua thehe,when?
+252-792,nina1238,http://concepticon.clld.org/parameters/1237,hapeli,where?
+252-8,nina1238,http://concepticon.clld.org/parameters/1235,hati,who?
+252-276,nina1238,http://concepticon.clld.org/parameters/1270,hapenaha,why?
+252-631,nina1238,http://concepticon.clld.org/parameters/1270,kale thə-hə,why?
+252-808,nina1238,http://concepticon.clld.org/parameters/1363,wãha,voice
+252-374,nina1238,http://concepticon.clld.org/parameters/715,komo,"shout, cry out"
+252-257,nina1238,http://concepticon.clld.org/parameters/1623,wãha ha,"speak, talk"
+252-373,nina1238,http://concepticon.clld.org/parameters/1623,thã tha,"speak, talk"
+252-602,nina1238,http://concepticon.clld.org/parameters/1866,ak polepi,"stutter, stammer"
+252-562,nina1238,http://concepticon.clld.org/parameters/1458,ku,say
+252-373,nina1238,http://concepticon.clld.org/parameters/1711,thã tha,tell story
+252-373,nina1238,http://concepticon.clld.org/parameters/1115,thã tha,speech (make a)
+252-738,nina1238,http://concepticon.clld.org/parameters/48,waiti,silent (be)
+252-21,nina1238,http://concepticon.clld.org/parameters/1307,thã,language
+252-21,nina1238,http://concepticon.clld.org/parameters/1599,thã,word
+252-808,nina1238,http://concepticon.clld.org/parameters/1405,wãha,name
+252-164,nina1238,http://concepticon.clld.org/parameters/1309,wãli,"ask (question, inquire)"
+252-685,nina1238,http://concepticon.clld.org/parameters/1828,naka,"ask, request"
+252-316,nina1238,http://concepticon.clld.org/parameters/83,wasi,forbid
+252-315,nina1238,http://concepticon.clld.org/parameters/299,notha,"rebuke, scold"
+252-685,nina1238,http://concepticon.clld.org/parameters/1084,naka,call (=summon)
+252-32,nina1238,http://concepticon.clld.org/parameters/180,wãha hila,call (=name)
+252-716,nina1238,http://concepticon.clld.org/parameters/1672,thã tũlu ma,write
+252-106,nina1238,http://concepticon.clld.org/parameters/648,[liplo]-si,paper
+252-652,nina1238,http://concepticon.clld.org/parameters/794,[kaneta],pen
+252-100,nina1238,http://concepticon.clld.org/parameters/963,[liplu],book
+252-3,nina1238,http://concepticon.clld.org/parameters/777,thõlema,flute
+252-38,nina1238,http://concepticon.clld.org/parameters/1300,ilihi,country
+252-38,nina1238,http://concepticon.clld.org/parameters/89,ilihi,one's native country
+252-251,nina1238,http://concepticon.clld.org/parameters/1391,pək yãno-p,"city, town"
+252-251,nina1238,http://concepticon.clld.org/parameters/930,pək yãno-p,village
+252-641,nina1238,http://concepticon.clld.org/parameters/1010,ilihi kasi,boundary
+252-115,nina1238,http://concepticon.clld.org/parameters/789,pək,people (populace)
+252-718,nina1238,http://concepticon.clld.org/parameters/789,theli,people (populace)
+252-115,nina1238,http://concepticon.clld.org/parameters/302,pək,"tribe, clan"
+252-718,nina1238,http://concepticon.clld.org/parameters/302,theli,"tribe, clan"
+252-79,nina1238,http://concepticon.clld.org/parameters/301,pata,"chief, chieftain"
+252-464,nina1238,http://concepticon.clld.org/parameters/1846,nosiama,"rule, govern"
+252-640,nina1238,http://concepticon.clld.org/parameters/383,kẽa ma wei,master
+252-544,nina1238,http://concepticon.clld.org/parameters/255,kẽa wei,servant
+252-464,nina1238,http://concepticon.clld.org/parameters/1128,nosiama,"command, order"
+252-769,nina1238,http://concepticon.clld.org/parameters/1635,thã hupo,obey
+252-307,nina1238,http://concepticon.clld.org/parameters/1635,wãha hu,obey
+252-793,nina1238,http://concepticon.clld.org/parameters/1003,-p,"let, permit"
+252-754,nina1238,http://concepticon.clld.org/parameters/1003,wasi lã,"let, permit"
+252-703,nina1238,http://concepticon.clld.org/parameters/1325,thẽlema wei,"friend, companion"
+252-241,nina1238,http://concepticon.clld.org/parameters/1358,nihi wãlipo wei,enemy
+252-443,nina1238,http://concepticon.clld.org/parameters/1782,aheo wei,guest
+252-471,nina1238,http://concepticon.clld.org/parameters/1897,thẽlema,"help, aid"
+252-735,nina1238,http://concepticon.clld.org/parameters/1897,payilima,"help, aid"
+252-316,nina1238,http://concepticon.clld.org/parameters/1550,wasi,"hinder, prevent"
+252-431,nina1238,http://concepticon.clld.org/parameters/1848,šiyo,"strife, quarrel"
+252-282,nina1238,http://concepticon.clld.org/parameters/1831,mipa,meet
+252-431,nina1238,http://concepticon.clld.org/parameters/1423,šiyo,fight (vb)
+252-95,nina1238,http://concepticon.clld.org/parameters/1941,[sotatu],soldier
+252-278,nina1238,http://concepticon.clld.org/parameters/994,šaknahi,bow
+252-399,nina1238,http://concepticon.clld.org/parameters/977,šikawe,arrow
+252-424,nina1238,http://concepticon.clld.org/parameters/1566,[ẽspikata],"gun, cannon"
+252-757,nina1238,http://concepticon.clld.org/parameters/421,yapa,retreat
+252-248,nina1238,http://concepticon.clld.org/parameters/421,toku,retreat
+252-418,nina1238,http://concepticon.clld.org/parameters/1858,yalaka ləka wei,fisherman
+252-143,nina1238,http://concepticon.clld.org/parameters/1074,yalak nak,fishhook
+252-16,nina1238,http://concepticon.clld.org/parameters/1074,paa nak,fishhook
+252-492,nina1238,http://concepticon.clld.org/parameters/19,mãliaši thãthə,fishing line
+252-290,nina1238,http://concepticon.clld.org/parameters/2013,ia wei,bait
+252-446,nina1238,http://concepticon.clld.org/parameters/1435,hete,hunt
+252-691,nina1238,http://concepticon.clld.org/parameters/1435,peli,hunt
+252-800,nina1238,http://concepticon.clld.org/parameters/1435,šoa,hunt
+252-647,nina1238,http://concepticon.clld.org/parameters/1172,yã,shoot
+252-88,nina1238,http://concepticon.clld.org/parameters/1814,wãlihik taa,accuse
+252-562,nina1238,http://concepticon.clld.org/parameters/484,ku,condemn
+252-239,nina1238,http://concepticon.clld.org/parameters/390,noa,"penalty, punishment"
+252-328,nina1238,http://concepticon.clld.org/parameters/845,niman šela,murder
+252-389,nina1238,http://concepticon.clld.org/parameters/713,thomu,steal
+252-535,nina1238,http://concepticon.clld.org/parameters/1160,thomu wei,thief
+252-503,nina1238,http://concepticon.clld.org/parameters/1944,[Teus],God
+252-552,nina1238,http://concepticon.clld.org/parameters/911,ai-amo wei yãno,"temple, church"
+252-571,nina1238,http://concepticon.clld.org/parameters/24,pahaluma,pray
+252-373,nina1238,http://concepticon.clld.org/parameters/304,thã tha,preach
+252-592,nina1238,http://concepticon.clld.org/parameters/1565,yãn-paluk,heaven
+252-203,nina1238,http://concepticon.clld.org/parameters/1973,hikalapək,demon (evil spirit)
+252-57,nina1238,http://concepticon.clld.org/parameters/392,šapoli mo wei,"magic, witchcraft, sorcery"
+252-790,nina1238,http://concepticon.clld.org/parameters/2137,šapoli,"sorcerer, witch"
+252-522,nina1238,http://concepticon.clld.org/parameters/1175,pole,"ghost, phantom"
+252-210,nina1238,http://concepticon.clld.org/parameters/107,hẽa,"omen, portent"

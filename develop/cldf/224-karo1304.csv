@@ -1,0 +1,846 @@
+ID,Language_ID,Feature_ID,Value,Concept
+224-751,karo1304,http://concepticon.clld.org/parameters/965,ʔiθíβθānēn,world
+224-751,karo1304,http://concepticon.clld.org/parameters/626,ʔiθíβθānēn,"earth, land"
+224-751,karo1304,http://concepticon.clld.org/parameters/1228,ʔiθíβθānēn,"earth=ground, soil"
+224-242,karo1304,http://concepticon.clld.org/parameters/2,ʔámtāp,dust
+224-47,karo1304,http://concepticon.clld.org/parameters/640,ʔaratβáraf,mud
+224-290,karo1304,http://concepticon.clld.org/parameters/640,ʔáβax,mud
+224-620,karo1304,http://concepticon.clld.org/parameters/671,yú̄x,sand
+224-100,karo1304,http://concepticon.clld.org/parameters/2118,tú̄yšip,"mountain, hill"
+224-250,karo1304,http://concepticon.clld.org/parameters/618,ʔápak,"cliff, precipice"
+224-415,karo1304,http://concepticon.clld.org/parameters/652,tišrām,"plain, field"
+224-415,karo1304,http://concepticon.clld.org/parameters/921,tišrām,valley
+224-61,karo1304,http://concepticon.clld.org/parameters/622,čī́nkir,island
+224-696,karo1304,http://concepticon.clld.org/parameters/113,ʔastīp,shore
+224-252,karo1304,http://concepticon.clld.org/parameters/1155,ʔá̄siβ,cave
+224-86,karo1304,http://concepticon.clld.org/parameters/948,ʔá̄s,water
+224-682,karo1304,http://concepticon.clld.org/parameters/948,ʔíšaha,water
+224-611,karo1304,http://concepticon.clld.org/parameters/1474,yúras,sea
+224-475,karo1304,http://concepticon.clld.org/parameters/1768,čánčāf,foam
+224-611,karo1304,http://concepticon.clld.org/parameters/645,yúras,ocean
+224-201,karo1304,http://concepticon.clld.org/parameters/624,ʔúkrām,lake
+224-64,karo1304,http://concepticon.clld.org/parameters/666,ʔiškê̄š,"river, stream, brook"
+224-320,karo1304,http://concepticon.clld.org/parameters/666,sāmβárō,"river, stream, brook"
+224-753,karo1304,http://concepticon.clld.org/parameters/2144,ʔišrām,"spring, well"
+224-255,karo1304,http://concepticon.clld.org/parameters/420,ʔipahárīk,"woods, forest"
+224-58,karo1304,http://concepticon.clld.org/parameters/906,ʔípaha,tree (cf 08.600)
+224-230,karo1304,http://concepticon.clld.org/parameters/1803,ʔáhup,wood
+224-156,karo1304,http://concepticon.clld.org/parameters/2125,ʔas,"stone, rock"
+224-385,karo1304,http://concepticon.clld.org/parameters/6,ʔiθíβθānēn tōké̄n,earthquake
+224-146,karo1304,http://concepticon.clld.org/parameters/1732,páy nanuʔáβahkam,sky
+224-284,karo1304,http://concepticon.clld.org/parameters/1343,kú̄sra,sun
+224-265,karo1304,http://concepticon.clld.org/parameters/1313,ʔikxarám-kú̄sra,moon
+224-602,karo1304,http://concepticon.clld.org/parameters/1430,ʔatáyrām,star
+224-549,karo1304,http://concepticon.clld.org/parameters/1654,ʔimaxáynūmβa,lightning
+224-279,karo1304,http://concepticon.clld.org/parameters/1150,ʔišnur,thunder
+224-451,karo1304,http://concepticon.clld.org/parameters/1733,ʔé̄xrih,rainbow
+224-205,karo1304,http://concepticon.clld.org/parameters/630,ʔimkatáxrah,light (noun)
+224-688,karo1304,http://concepticon.clld.org/parameters/1388,pikšip,"shade, shadow"
+224-389,karo1304,http://concepticon.clld.org/parameters/960,ʔikré̄myah,wind
+224-371,karo1304,http://concepticon.clld.org/parameters/1489,pikxárampa,cloud
+224-600,karo1304,http://concepticon.clld.org/parameters/249,pú̄k,fog
+224-497,karo1304,http://concepticon.clld.org/parameters/658,paθrih,rain (noun)
+224-176,karo1304,http://concepticon.clld.org/parameters/784,tá̄h,snow (noun)
+224-79,karo1304,http://concepticon.clld.org/parameters/784,ikyútunih,snow (noun)
+224-24,karo1304,http://concepticon.clld.org/parameters/617,ʔikákrih,ice
+224-99,karo1304,http://concepticon.clld.org/parameters/221,ʔá̄h,fire
+224-13,karo1304,http://concepticon.clld.org/parameters/778,ʔámkūf,smoke (noun)
+224-242,karo1304,http://concepticon.clld.org/parameters/646,ʔámtāp,ashes
+224-229,karo1304,http://concepticon.clld.org/parameters/67,ʔimnak,embers
+224-93,karo1304,http://concepticon.clld.org/parameters/141,-ʔá̄hka,burn (vb trans)
+224-710,karo1304,http://concepticon.clld.org/parameters/1428,-ʔī́nka,burn (vb intrans)
+224-93,karo1304,http://concepticon.clld.org/parameters/737,-ʔá̄hka,"light, kindle, ignite"
+224-245,karo1304,http://concepticon.clld.org/parameters/127,-ʔíšip,extinguish
+224-272,karo1304,http://concepticon.clld.org/parameters/1133,θimyúriš,match (noun)
+224-230,karo1304,http://concepticon.clld.org/parameters/10,ʔáhup,firewood
+224-229,karo1304,http://concepticon.clld.org/parameters/1188,ʔimnak,charcoal
+224-212,karo1304,http://concepticon.clld.org/parameters/683,ʔárār,"person, human being"
+224-735,karo1304,http://concepticon.clld.org/parameters/1554,ʔáβansa,man (vs. woman)
+224-417,karo1304,http://concepticon.clld.org/parameters/962,ʔasiktáβān,woman
+224-735,karo1304,http://concepticon.clld.org/parameters/2263,ʔáβansa,male
+224-429,karo1304,http://concepticon.clld.org/parameters/2260,ʔasiktávān,female
+224-398,karo1304,http://concepticon.clld.org/parameters/1366,ʔaβansáxītič,boy
+224-120,karo1304,http://concepticon.clld.org/parameters/76,ʔafišríhan,young man (adolescent)
+224-393,karo1304,http://concepticon.clld.org/parameters/1646,yēripáxvuh,girl
+224-71,karo1304,http://concepticon.clld.org/parameters/77,ʔifápīt,young woman (adolescent)
+224-128,karo1304,http://concepticon.clld.org/parameters/1304,ʔaxīč,child
+224-153,karo1304,http://concepticon.clld.org/parameters/1289,yupsítanač,"infant, baby"
+224-296,karo1304,http://concepticon.clld.org/parameters/1200,ʔáβan,husband
+224-106,karo1304,http://concepticon.clld.org/parameters/1199,ʔihrô̄ha,wife
+224-227,karo1304,http://concepticon.clld.org/parameters/203,ʔihrô̄haha,marry
+224-454,karo1304,http://concepticon.clld.org/parameters/203,ʔáβanha,marry
+224-307,karo1304,http://concepticon.clld.org/parameters/1217,ʔáka,father
+224-168,karo1304,http://concepticon.clld.org/parameters/1216,tá̄t,mother
+224-166,karo1304,http://concepticon.clld.org/parameters/424,ʔifmá̄r,married man
+224-612,karo1304,http://concepticon.clld.org/parameters/426,yárar,married woman
+224-101,karo1304,http://concepticon.clld.org/parameters/1620,kač,son
+224-332,karo1304,http://concepticon.clld.org/parameters/1357,yāčkan,daughter
+224-687,karo1304,http://concepticon.clld.org/parameters/1262,típah,brother
+224-144,karo1304,http://concepticon.clld.org/parameters/1759,ʔárih,older brother
+224-664,karo1304,http://concepticon.clld.org/parameters/1760,čá̄s,younger brother
+224-408,karo1304,http://concepticon.clld.org/parameters/1263,kústān,sister
+224-637,karo1304,http://concepticon.clld.org/parameters/1758,nánač,older sister
+224-512,karo1304,http://concepticon.clld.org/parameters/1761,čī́š,younger sister
+224-4,karo1304,http://concepticon.clld.org/parameters/1005,ʔaxakʔiβráβapuh,twins
+224-221,karo1304,http://concepticon.clld.org/parameters/1383,kú̄t,grandfather
+224-745,karo1304,http://concepticon.clld.org/parameters/1383,átiš,grandfather
+224-583,karo1304,http://concepticon.clld.org/parameters/406,pihnī́č,old man
+224-740,karo1304,http://concepticon.clld.org/parameters/1496,kī́t,grandmother
+224-745,karo1304,http://concepticon.clld.org/parameters/1496,átiš,grandmother
+224-215,karo1304,http://concepticon.clld.org/parameters/907,ké̄vrīk,old woman
+224-221,karo1304,http://concepticon.clld.org/parameters/1618,kú̄t,grandson
+224-745,karo1304,http://concepticon.clld.org/parameters/1618,átiš,grandson
+224-740,karo1304,http://concepticon.clld.org/parameters/1619,kī́t,granddaughter
+224-745,karo1304,http://concepticon.clld.org/parameters/1619,átiš,granddaughter
+224-708,karo1304,http://concepticon.clld.org/parameters/1984,xúkam,mother's brother
+224-235,karo1304,http://concepticon.clld.org/parameters/1985,párah,father's brother
+224-329,karo1304,http://concepticon.clld.org/parameters/171,θúxaθ,mother's sister
+224-216,karo1304,http://concepticon.clld.org/parameters/170,mī́θ,father's sister
+224-89,karo1304,http://concepticon.clld.org/parameters/1063,axiič,nephew
+224-651,karo1304,http://concepticon.clld.org/parameters/1063,ʔúfiθ,nephew
+224-89,karo1304,http://concepticon.clld.org/parameters/1642,axiič,niece
+224-616,karo1304,http://concepticon.clld.org/parameters/1642,fúriθ,niece
+224-365,karo1304,http://concepticon.clld.org/parameters/2255,fíkβān,father-in-law (of a man)
+224-365,karo1304,http://concepticon.clld.org/parameters/2254,fíkβān,father-in-law (of a woman)
+224-707,karo1304,http://concepticon.clld.org/parameters/2256,faratípiš,mother-in-law (of a man)
+224-707,karo1304,http://concepticon.clld.org/parameters/2257,faratípiš,mother-in-law (of a woman)
+224-361,karo1304,http://concepticon.clld.org/parameters/2267,ʔíkam,son-in-law (of a man)
+224-361,karo1304,http://concepticon.clld.org/parameters/2266,ʔíkam,son-in-law (of a woman)
+224-529,karo1304,http://concepticon.clld.org/parameters/2265,ʔíram,daughter-in-law (of a man)
+224-529,karo1304,http://concepticon.clld.org/parameters/2264,ʔíram,daughter-in-law (of a woman)
+224-143,karo1304,http://concepticon.clld.org/parameters/237,ʔakáhyān,stepfather
+224-405,karo1304,http://concepticon.clld.org/parameters/236,?iptatpíyān,stepmother
+224-133,karo1304,http://concepticon.clld.org/parameters/1149,ʔipšāmkírapuh,orphan
+224-617,karo1304,http://concepticon.clld.org/parameters/1756,ké̄čxaβ,widow
+224-641,karo1304,http://concepticon.clld.org/parameters/1981,píhrīβ,widower
+224-718,karo1304,http://concepticon.clld.org/parameters/1644,ʔárāras,"relatives, kinsmen"
+224-499,karo1304,http://concepticon.clld.org/parameters/1209,ná̄,I
+224-226,karo1304,http://concepticon.clld.org/parameters/1215,ʔī́m,you (singular)
+224-494,karo1304,http://concepticon.clld.org/parameters/262,ʔú̄m,he/she/it
+224-572,karo1304,http://concepticon.clld.org/parameters/1212,nú̄,we
+224-660,karo1304,http://concepticon.clld.org/parameters/1213,ʔīmkun,you (plural)
+224-765,karo1304,http://concepticon.clld.org/parameters/817,?ūmkun,they
+224-281,karo1304,http://concepticon.clld.org/parameters/1153,[músmus],cattle (bovine)
+224-722,karo1304,http://concepticon.clld.org/parameters/1331,ʔapxantī́čpūfič,sheep
+224-169,karo1304,http://concepticon.clld.org/parameters/1337,nákišnakiš,pig
+224-676,karo1304,http://concepticon.clld.org/parameters/1502,ʔapxartī́čpūfič,goat
+224-152,karo1304,http://concepticon.clld.org/parameters/615,čišīh,horse (equine)
+224-629,karo1304,http://concepticon.clld.org/parameters/615,yurasčíšīh,horse (equine)
+224-54,karo1304,http://concepticon.clld.org/parameters/890,tiβxarahar,mule
+224-223,karo1304,http://concepticon.clld.org/parameters/1318,[číkin],chicken
+224-486,karo1304,http://concepticon.clld.org/parameters/1187,ʔaháknah,goose
+224-673,karo1304,http://concepticon.clld.org/parameters/1360,ʔastāh,duck
+224-500,karo1304,http://concepticon.clld.org/parameters/539,ká̄s,nest
+224-325,karo1304,http://concepticon.clld.org/parameters/937,ʔačβīβ,bird
+224-261,karo1304,http://concepticon.clld.org/parameters/950,yuraskanʔáčβīβ,seagull
+224-177,karo1304,http://concepticon.clld.org/parameters/758,ʔáxβāy,heron
+224-372,karo1304,http://concepticon.clld.org/parameters/1905,βákār,eagle
+224-157,karo1304,http://concepticon.clld.org/parameters/307,ʔikčáxβān,hawk
+224-348,karo1304,http://concepticon.clld.org/parameters/1185,ʔatipimá̄mβān,vulture
+224-247,karo1304,http://concepticon.clld.org/parameters/1793,timšúkrīh,bat
+224-511,karo1304,http://concepticon.clld.org/parameters/913,ʔánāč,crow
+224-704,karo1304,http://concepticon.clld.org/parameters/1853,pimnanihtanákānič,dove
+224-694,karo1304,http://concepticon.clld.org/parameters/735,θufkírik,owl
+224-152,karo1304,http://concepticon.clld.org/parameters/2009,čišīh,dog
+224-766,karo1304,http://concepticon.clld.org/parameters/1136,sahíšyūxač,rabbit
+224-180,karo1304,http://concepticon.clld.org/parameters/1208,[púsihič],cat
+224-463,karo1304,http://concepticon.clld.org/parameters/2139,sī́t,"mouse, rat"
+224-606,karo1304,http://concepticon.clld.org/parameters/2139,ačnāt,"mouse, rat"
+224-578,karo1304,http://concepticon.clld.org/parameters/227,á̄ma,fish
+224-300,karo1304,http://concepticon.clld.org/parameters/213,tī́t,fin (dorsal)
+224-122,karo1304,http://concepticon.clld.org/parameters/1916,ʔáθan,gill
+224-51,karo1304,http://concepticon.clld.org/parameters/957,ʔípar,whale
+224-25,karo1304,http://concepticon.clld.org/parameters/1013,ʔakrāh,freshwater eel
+224-172,karo1304,http://concepticon.clld.org/parameters/522,ʔikxâ̄βnamič,wolf
+224-354,karo1304,http://concepticon.clld.org/parameters/1386,yupθúkirar,lion
+224-174,karo1304,http://concepticon.clld.org/parameters/1820,βírusur,bear
+224-570,karo1304,http://concepticon.clld.org/parameters/1312,aprāx,fox
+224-686,karo1304,http://concepticon.clld.org/parameters/1936,pú̄fič,deer
+224-763,karo1304,http://concepticon.clld.org/parameters/310,ʔačīč,louse
+224-632,karo1304,http://concepticon.clld.org/parameters/232,ʔú̄t,flea
+224-43,karo1304,http://concepticon.clld.org/parameters/1538,mahxánθūn,scorpion
+224-107,karo1304,http://concepticon.clld.org/parameters/587,asvūt,ant
+224-490,karo1304,http://concepticon.clld.org/parameters/843,xah,spider
+224-187,karo1304,http://concepticon.clld.org/parameters/1065,xaháβik,spider web
+224-167,karo1304,http://concepticon.clld.org/parameters/665,pišpíših,bee
+224-383,karo1304,http://concepticon.clld.org/parameters/1517,pišpišihxára,wasp
+224-147,karo1304,http://concepticon.clld.org/parameters/1504,čufnî̄mkač,fly
+224-546,karo1304,http://concepticon.clld.org/parameters/1509,čaná̄kat,mosquito
+224-761,karo1304,http://concepticon.clld.org/parameters/1219,βákay,worm
+224-81,karo1304,http://concepticon.clld.org/parameters/730,ápsūn,snake
+224-251,karo1304,http://concepticon.clld.org/parameters/1791,xatímnīm,butterfly
+224-155,karo1304,http://concepticon.clld.org/parameters/607,xá̄θ,grasshopper
+224-28,karo1304,http://concepticon.clld.org/parameters/1543,ʔasipánaxič,snail
+224-349,karo1304,http://concepticon.clld.org/parameters/503,xančī́fič,frog
+224-175,karo1304,http://concepticon.clld.org/parameters/632,čīmú̄č,lizard
+224-492,karo1304,http://concepticon.clld.org/parameters/112,ʔasáxβuh,turtle
+224-62,karo1304,http://concepticon.clld.org/parameters/1480,ʔī́š,body
+224-643,karo1304,http://concepticon.clld.org/parameters/763,má̄n,"skin, hide"
+224-423,karo1304,http://concepticon.clld.org/parameters/2259,ʔı́s,flesh
+224-624,karo1304,http://concepticon.clld.org/parameters/1040,ʔífuni,hair (head)
+224-534,karo1304,http://concepticon.clld.org/parameters/678,ʔapmaráxvuh,beard
+224-10,karo1304,http://concepticon.clld.org/parameters/189,ʔimyāt,body hair
+224-91,karo1304,http://concepticon.clld.org/parameters/946,ʔá̄x,blood
+224-400,karo1304,http://concepticon.clld.org/parameters/525,ʔaxímpāh,"vein, artery"
+224-626,karo1304,http://concepticon.clld.org/parameters/1394,ʔípih,bone
+224-738,karo1304,http://concepticon.clld.org/parameters/801,ʔátpīh,rib
+224-256,karo1304,http://concepticon.clld.org/parameters/1393,vê̄šur,horn
+224-282,karo1304,http://concepticon.clld.org/parameters/1220,ʔápβūy,tail
+224-729,karo1304,http://concepticon.clld.org/parameters/1291,vásih,back
+224-309,karo1304,http://concepticon.clld.org/parameters/805,sūf,spine
+224-125,karo1304,http://concepticon.clld.org/parameters/1256,ʔaxβá̄h,head
+224-734,karo1304,http://concepticon.clld.org/parameters/1583,ʔāsráβar,brain
+224-311,karo1304,http://concepticon.clld.org/parameters/1560,ʔá̄β,face
+224-524,karo1304,http://concepticon.clld.org/parameters/123,yúpin,forehead
+224-571,karo1304,http://concepticon.clld.org/parameters/1730,ʔáβʔīš,cheek
+224-531,karo1304,http://concepticon.clld.org/parameters/1510,ʔišβāk,chin
+224-625,karo1304,http://concepticon.clld.org/parameters/1248,yú̄p,eye
+224-163,karo1304,http://concepticon.clld.org/parameters/1173,yupípih,eyebrow
+224-297,karo1304,http://concepticon.clld.org/parameters/1540,yupátrih,eyelash
+224-699,karo1304,http://concepticon.clld.org/parameters/1247,tī́β,ear
+224-378,karo1304,http://concepticon.clld.org/parameters/1221,yúfiβ,nose
+224-124,karo1304,http://concepticon.clld.org/parameters/208,yufíβrāt,mucus (nasal)
+224-381,karo1304,http://concepticon.clld.org/parameters/674,ʔapmān,mouth
+224-381,karo1304,http://concepticon.clld.org/parameters/73,ʔapmān,beak
+224-495,karo1304,http://concepticon.clld.org/parameters/478,ʔapmántīm,lip
+224-119,karo1304,http://concepticon.clld.org/parameters/1205,ʔáprīh,tongue
+224-667,karo1304,http://concepticon.clld.org/parameters/1380,βuh,tooth
+224-376,karo1304,http://concepticon.clld.org/parameters/1333,βú̄p,neck
+224-148,karo1304,http://concepticon.clld.org/parameters/1346,áθkūn,throat
+224-440,karo1304,http://concepticon.clld.org/parameters/1482,takrāβ,shoulder
+224-657,karo1304,http://concepticon.clld.org/parameters/172,tasβānʔípih,shoulderblade
+224-557,karo1304,http://concepticon.clld.org/parameters/1994,ʔátβāx,collarbone
+224-151,karo1304,http://concepticon.clld.org/parameters/1673,ʔátrāx,arm
+224-358,karo1304,http://concepticon.clld.org/parameters/1886,né̄β,armpit
+224-164,karo1304,http://concepticon.clld.org/parameters/981,ʔišβírik,elbow
+224-447,karo1304,http://concepticon.clld.org/parameters/1277,tī́k,hand
+224-678,karo1304,http://concepticon.clld.org/parameters/1183,ʔátrūp,palm of hand
+224-447,karo1304,http://concepticon.clld.org/parameters/1303,tī́k,finger
+224-441,karo1304,http://concepticon.clld.org/parameters/1781,tikánkām,thumb
+224-268,karo1304,http://concepticon.clld.org/parameters/1258,ʔaxpih,fingernail
+224-268,karo1304,http://concepticon.clld.org/parameters/72,ʔaxpih,claw
+224-760,karo1304,http://concepticon.clld.org/parameters/1297,ʔápsīh,leg
+224-182,karo1304,http://concepticon.clld.org/parameters/800,ʔapkúruh,thigh
+224-727,karo1304,http://concepticon.clld.org/parameters/1371,páθak,knee
+224-217,karo1304,http://concepticon.clld.org/parameters/1301,fíθih,foot
+224-552,karo1304,http://concepticon.clld.org/parameters/803,násak,ankle
+224-623,karo1304,http://concepticon.clld.org/parameters/980,ʔípik,heel
+224-584,karo1304,http://concepticon.clld.org/parameters/318,ʔaxrān,footprint
+224-217,karo1304,http://concepticon.clld.org/parameters/1389,fíθih,toe
+224-465,karo1304,http://concepticon.clld.org/parameters/1257,kitáxrih,wing
+224-655,karo1304,http://concepticon.clld.org/parameters/1201,ʔī́θka,feather
+224-705,karo1304,http://concepticon.clld.org/parameters/1592,ʔiθβāy,chest
+224-48,karo1304,http://concepticon.clld.org/parameters/1402,ʔú̄čič,breast (of woman)
+224-466,karo1304,http://concepticon.clld.org/parameters/1838,ʔárup,navel
+224-327,karo1304,http://concepticon.clld.org/parameters/1223,ʔimyah,heart
+224-526,karo1304,http://concepticon.clld.org/parameters/688,ʔuθpiβáxrah,lung
+224-532,karo1304,http://concepticon.clld.org/parameters/1224,βáfiš,liver
+224-316,karo1304,http://concepticon.clld.org/parameters/489,ʔúnuhič,kidney
+224-394,karo1304,http://concepticon.clld.org/parameters/819,θafrām,stomach
+224-135,karo1304,http://concepticon.clld.org/parameters/1991,fá̄n,"intestines, guts"
+224-1,karo1304,http://concepticon.clld.org/parameters/1681,ʔišxíčak,waist
+224-491,karo1304,http://concepticon.clld.org/parameters/1745,ʔáfnūn,hip
+224-117,karo1304,http://concepticon.clld.org/parameters/834,ʔáfup,buttocks
+224-551,karo1304,http://concepticon.clld.org/parameters/804,ʔaxičēkríβrām,womb
+224-471,karo1304,http://concepticon.clld.org/parameters/797,θirixó̄n,testicle
+224-424,karo1304,http://concepticon.clld.org/parameters/1222,sī́š,penis
+224-178,karo1304,http://concepticon.clld.org/parameters/1407,-imyah,"breathe, breath"
+224-634,karo1304,http://concepticon.clld.org/parameters/1028,-tamsá̄kaθβa,"yawn, gape"
+224-434,karo1304,http://concepticon.clld.org/parameters/162,-čančakvárā,hiccough
+224-607,karo1304,http://concepticon.clld.org/parameters/879,-ʔáxu,cough
+224-737,karo1304,http://concepticon.clld.org/parameters/1621,-pá̄θβa,sneeze
+224-225,karo1304,http://concepticon.clld.org/parameters/126,-astú̄kha,perspire
+224-647,karo1304,http://concepticon.clld.org/parameters/1440,-yuh,spit
+224-577,karo1304,http://concepticon.clld.org/parameters/1278,-yú̄hva,vomit
+224-41,karo1304,http://concepticon.clld.org/parameters/1403,-ʔax,bite
+224-525,karo1304,http://concepticon.clld.org/parameters/1403,-par,bite
+224-679,karo1304,http://concepticon.clld.org/parameters/319,-βírax,lick
+224-275,karo1304,http://concepticon.clld.org/parameters/1585,-ʔásiβ,sleep
+224-40,karo1304,http://concepticon.clld.org/parameters/1602,-ʔitxâ̄rihβa,wake up
+224-698,karo1304,http://concepticon.clld.org/parameters/1159,-pif,break wind
+224-69,karo1304,http://concepticon.clld.org/parameters/592,-θúriβ,urinate
+224-455,karo1304,http://concepticon.clld.org/parameters/676,-ʔičnah,defecate
+224-160,karo1304,http://concepticon.clld.org/parameters/1785,-kuθ,have sexual intercourse
+224-105,karo1304,http://concepticon.clld.org/parameters/52,-kê̄n,shiver
+224-220,karo1304,http://concepticon.clld.org/parameters/138,-pá̄tβa,bathe
+224-95,karo1304,http://concepticon.clld.org/parameters/1123,ʔimú̄tar,pregnant
+224-489,karo1304,http://concepticon.clld.org/parameters/1422,ʔimyá̄htih,"live, living, life"
+224-601,karo1304,http://concepticon.clld.org/parameters/1494,-ʔiβ,"die, dead"
+224-288,karo1304,http://concepticon.clld.org/parameters/1494,ʔárīm,"die, dead"
+224-564,karo1304,http://concepticon.clld.org/parameters/1417,-ʔiykat,kill
+224-746,karo1304,http://concepticon.clld.org/parameters/767,puyâ̄hara,corpse
+224-310,karo1304,http://concepticon.clld.org/parameters/1719,-ʔíšunβa,bury (the dead)
+224-712,karo1304,http://concepticon.clld.org/parameters/1773,ʔaxβiθínih,"grave, tomb"
+224-314,karo1304,http://concepticon.clld.org/parameters/785,ʔikpíhan,"strong, mighty, powerful"
+224-603,karo1304,http://concepticon.clld.org/parameters/1364,-ʔarárīhkanha,"well, health"
+224-720,karo1304,http://concepticon.clld.org/parameters/1847,-kúha,"sick, sickness"
+224-112,karo1304,http://concepticon.clld.org/parameters/1847,-yíkiha,"sick, sickness"
+224-204,karo1304,http://concepticon.clld.org/parameters/1903,-ʔimxup,swelling
+224-472,karo1304,http://concepticon.clld.org/parameters/148,-kunukúnuha,itch
+224-66,karo1304,http://concepticon.clld.org/parameters/793,ʔimxup,boil (noun)
+224-20,karo1304,http://concepticon.clld.org/parameters/1808,yūs,pus
+224-567,karo1304,http://concepticon.clld.org/parameters/497,piftus,scar
+224-7,karo1304,http://concepticon.clld.org/parameters/499,-ʔararī́hkanhiβaθ,"cure, heal"
+224-391,karo1304,http://concepticon.clld.org/parameters/597,ʔê̄m,physician
+224-202,karo1304,http://concepticon.clld.org/parameters/1372,ʔánaβ,"medicine, drug"
+224-703,karo1304,http://concepticon.clld.org/parameters/655,kê̄miš,poison
+224-236,karo1304,http://concepticon.clld.org/parameters/1757,-ʔû̄rih,"tired, weary"
+224-419,karo1304,http://concepticon.clld.org/parameters/168,-ʔípunβa,rest
+224-236,karo1304,http://concepticon.clld.org/parameters/1564,-ʔû̄rih,lazy
+224-80,karo1304,http://concepticon.clld.org/parameters/1125,-fī́nha,bald
+224-154,karo1304,http://concepticon.clld.org/parameters/320,-ʔišné̄kβa,lame
+224-315,karo1304,http://concepticon.clld.org/parameters/996,tiβʔárusar,deaf
+224-179,karo1304,http://concepticon.clld.org/parameters/1653,yupsírihar,blind
+224-70,karo1304,http://concepticon.clld.org/parameters/1463,-pahvákir,intoxicated
+224-693,karo1304,http://concepticon.clld.org/parameters/590,ʔī́škar,"naked, bare"
+224-373,karo1304,http://concepticon.clld.org/parameters/1336,-ʔaβ,eat
+224-558,karo1304,http://concepticon.clld.org/parameters/256,ʔáβaha,food
+224-555,karo1304,http://concepticon.clld.org/parameters/269,-ʔimtup,cooked
+224-555,karo1304,http://concepticon.clld.org/parameters/178,-ʔimtup,ripe
+224-752,karo1304,http://concepticon.clld.org/parameters/1958,xī́t,"green, unripe"
+224-239,karo1304,http://concepticon.clld.org/parameters/1728,xá̄t,rotten
+224-420,karo1304,http://concepticon.clld.org/parameters/1401,-ʔiš,drink
+224-131,karo1304,http://concepticon.clld.org/parameters/1533,-xúriha,hunger
+224-451,karo1304,http://concepticon.clld.org/parameters/199,ʔé̄xrih,famine
+224-116,karo1304,http://concepticon.clld.org/parameters/848,-ixrah,thirst
+224-357,karo1304,http://concepticon.clld.org/parameters/1421,-βir,suck
+224-388,karo1304,http://concepticon.clld.org/parameters/321,-pápuθ,chew
+224-452,karo1304,http://concepticon.clld.org/parameters/897,-sī́nkar,swallow
+224-129,karo1304,http://concepticon.clld.org/parameters/1100,-ʔimniš,cook
+224-299,karo1304,http://concepticon.clld.org/parameters/792,-ʔī́βrip,boil (vb)
+224-739,karo1304,http://concepticon.clld.org/parameters/792,-páramβa,boil (vb)
+224-68,karo1304,http://concepticon.clld.org/parameters/2146,-ʔikī́kβa,"roast, fry"
+224-407,karo1304,http://concepticon.clld.org/parameters/1462,ʔásip,"pot, cooking vessel"
+224-407,karo1304,http://concepticon.clld.org/parameters/481,ʔásip,dish
+224-683,karo1304,http://concepticon.clld.org/parameters/480,ʔimβáram,plate
+224-407,karo1304,http://concepticon.clld.org/parameters/1530,ʔásip,bowl
+224-502,karo1304,http://concepticon.clld.org/parameters/476,ʔī́šram,"cup, drinking vessel"
+224-662,karo1304,http://concepticon.clld.org/parameters/1352,símsīm,knife (2)
+224-401,karo1304,http://concepticon.clld.org/parameters/1302,ʔikrupká̄nβar,fork (2)
+224-692,karo1304,http://concepticon.clld.org/parameters/275,-ʔikruh,peel
+224-186,karo1304,http://concepticon.clld.org/parameters/86,θantápar,"sieve, strain"
+224-274,karo1304,http://concepticon.clld.org/parameters/1767,-taxviš,scrape
+224-2,karo1304,http://concepticon.clld.org/parameters/2017,-taxβaβ,"stir, mix"
+224-744,karo1304,http://concepticon.clld.org/parameters/1368,sára,bread
+224-568,karo1304,http://concepticon.clld.org/parameters/273,yāf,dough
+224-510,karo1304,http://concepticon.clld.org/parameters/274,-ʔiytup,knead
+224-439,karo1304,http://concepticon.clld.org/parameters/1594,ʔimpur,"meal, flour"
+224-159,karo1304,http://concepticon.clld.org/parameters/1033,-ʔikraβ,"crush, grind"
+224-127,karo1304,http://concepticon.clld.org/parameters/224,ʔikrá̄mnam,mortar (2)
+224-84,karo1304,http://concepticon.clld.org/parameters/225,ʔikrávar,pestle
+224-649,karo1304,http://concepticon.clld.org/parameters/634,ʔiθβar,meat
+224-540,karo1304,http://concepticon.clld.org/parameters/1547,parámβās,"soup, broth"
+224-377,karo1304,http://concepticon.clld.org/parameters/832,[pī́ršur],bean
+224-435,karo1304,http://concepticon.clld.org/parameters/593,[putíruh],potato
+224-324,karo1304,http://concepticon.clld.org/parameters/920,ʔāy,grape
+224-234,karo1304,http://concepticon.clld.org/parameters/191,xuntápan,nut
+224-425,karo1304,http://concepticon.clld.org/parameters/323,ʔaθkúmt,"grease, fat"
+224-670,karo1304,http://concepticon.clld.org/parameters/1274,yúfiš,salt
+224-537,karo1304,http://concepticon.clld.org/parameters/1385,[pápah],pepper
+224-167,karo1304,http://concepticon.clld.org/parameters/942,pišpíših,honey
+224-758,karo1304,http://concepticon.clld.org/parameters/862,ʔasúxīm,sugar
+224-749,karo1304,http://concepticon.clld.org/parameters/635,ʔúčiš,milk (noun)
+224-468,karo1304,http://concepticon.clld.org/parameters/1569,[čī́š],cheese
+224-731,karo1304,http://concepticon.clld.org/parameters/1245,sarataxunkó̄r,butter
+224-306,karo1304,http://concepticon.clld.org/parameters/404,ʔúxʔās,fermented drink
+224-149,karo1304,http://concepticon.clld.org/parameters/744,ʔúruh,egg
+224-16,karo1304,http://concepticon.clld.org/parameters/158,-pásas,put on (clothes)
+224-476,karo1304,http://concepticon.clld.org/parameters/1895,sá̄nβa,"clothing, clothes"
+224-49,karo1304,http://concepticon.clld.org/parameters/1616,makáyβās,cloth
+224-697,karo1304,http://concepticon.clld.org/parameters/1641,[sírik],silk
+224-10,karo1304,http://concepticon.clld.org/parameters/580,ʔimyāt,fur
+224-719,karo1304,http://concepticon.clld.org/parameters/629,βastáran,leather
+224-352,karo1304,http://concepticon.clld.org/parameters/133,-βik,weave
+224-681,karo1304,http://concepticon.clld.org/parameters/1457,-ʔikrup,sew
+224-756,karo1304,http://concepticon.clld.org/parameters/1382,ʔičyununuprī́hβanač,needle
+224-467,karo1304,http://concepticon.clld.org/parameters/278,sī́h,awl
+224-96,karo1304,http://concepticon.clld.org/parameters/1161,ʔá̄n,thread
+224-83,karo1304,http://concepticon.clld.org/parameters/326,βá̄s,cloak
+224-474,karo1304,http://concepticon.clld.org/parameters/474,yáfus,woman's dress
+224-260,karo1304,http://concepticon.clld.org/parameters/603,kútrahar,coat
+224-614,karo1304,http://concepticon.clld.org/parameters/1622,βōnβánāč,shirt
+224-437,karo1304,http://concepticon.clld.org/parameters/1600,sárukhar,skirt
+224-18,karo1304,http://concepticon.clld.org/parameters/809,pó̄r,trousers
+224-301,karo1304,http://concepticon.clld.org/parameters/1381,yukúkuh,shoe
+224-635,karo1304,http://concepticon.clld.org/parameters/2130,ʔápxān,"hat, cap"
+224-554,karo1304,http://concepticon.clld.org/parameters/772,síčakβutβar,"belt, girdle"
+224-762,karo1304,http://concepticon.clld.org/parameters/867,tikakβárār,glove
+224-674,karo1304,http://concepticon.clld.org/parameters/64,[pī́n],pin
+224-428,karo1304,http://concepticon.clld.org/parameters/1374,tikakβánāč,ring (for finger)
+224-118,karo1304,http://concepticon.clld.org/parameters/1754,paθput,bracelet
+224-139,karo1304,http://concepticon.clld.org/parameters/1961,ʔī́kiβ,necklace
+224-587,karo1304,http://concepticon.clld.org/parameters/1860,ʔúruhsas,bead
+224-5,karo1304,http://concepticon.clld.org/parameters/770,tê̄nβa,earring
+224-728,karo1304,http://concepticon.clld.org/parameters/330,ʔiyruh,"headband, headdress"
+224-222,karo1304,http://concepticon.clld.org/parameters/68,θúkinha,tattoo
+224-326,karo1304,http://concepticon.clld.org/parameters/332,ʔipčimákakananač,"handkerchief, rag"
+224-402,karo1304,http://concepticon.clld.org/parameters/1475,ʔiptaxatíhar,comb
+224-335,karo1304,http://concepticon.clld.org/parameters/333,ʔiptaxap,braid
+224-331,karo1304,http://concepticon.clld.org/parameters/788,piθxáhar,soap
+224-138,karo1304,http://concepticon.clld.org/parameters/1171,pimustihβá̄nar,mirror
+224-369,karo1304,http://concepticon.clld.org/parameters/1099,-ʔikriβ,"dwell, live"
+224-418,karo1304,http://concepticon.clld.org/parameters/1252,ʔiiβ-,house
+224-574,karo1304,http://concepticon.clld.org/parameters/1252,ʔikríβrām,house
+224-27,karo1304,http://concepticon.clld.org/parameters/1316,makayβasēkríβrām,tent
+224-750,karo1304,http://concepticon.clld.org/parameters/408,ʔikmaháčrām,men's house
+224-11,karo1304,http://concepticon.clld.org/parameters/1567,čiβčaksurúrām,"door, gate"
+224-492,karo1304,http://concepticon.clld.org/parameters/1596,ʔasáxβuh,lock (noun)
+224-32,karo1304,http://concepticon.clld.org/parameters/1472,[kî̄har],key
+224-138,karo1304,http://concepticon.clld.org/parameters/1375,pimustihβá̄nar,window
+224-563,karo1304,http://concepticon.clld.org/parameters/1632,ʔî̄riš,floor
+224-60,karo1304,http://concepticon.clld.org/parameters/185,ʔahíram,fireplace
+224-263,karo1304,http://concepticon.clld.org/parameters/859,pimkúhar,stove
+224-569,karo1304,http://concepticon.clld.org/parameters/1305,ʔahikyá̄rām,chimney
+224-613,karo1304,http://concepticon.clld.org/parameters/1464,βurá̄kir,ladder
+224-345,karo1304,http://concepticon.clld.org/parameters/1663,ʔasimβáram,bed
+224-487,karo1304,http://concepticon.clld.org/parameters/1044,patúmkir,pillow
+224-83,karo1304,http://concepticon.clld.org/parameters/806,βá̄s,blanket
+224-72,karo1304,http://concepticon.clld.org/parameters/1476,ʔikríβkir,chair
+224-542,karo1304,http://concepticon.clld.org/parameters/1775,ʔamkir,table
+224-99,karo1304,http://concepticon.clld.org/parameters/2131,ʔá̄h,"lamp, torch"
+224-426,karo1304,http://concepticon.clld.org/parameters/1273,ʔaxβâ̄har,candle
+224-645,karo1304,http://concepticon.clld.org/parameters/769,ʔiβʔáβahkam,roof
+224-576,karo1304,http://concepticon.clld.org/parameters/280,ʔēnákir,ridgepole
+224-628,karo1304,http://concepticon.clld.org/parameters/1132,kuríhkir,beam
+224-547,karo1304,http://concepticon.clld.org/parameters/281,tá̄skar,"post, pole"
+224-338,karo1304,http://concepticon.clld.org/parameters/1227,ʔé̄n,board
+224-545,karo1304,http://concepticon.clld.org/parameters/586,ʔuhθām,garden
+224-505,karo1304,http://concepticon.clld.org/parameters/1541,-ʔuhθá̄mha,"cultivate, till"
+224-145,karo1304,http://concepticon.clld.org/parameters/1690,tas,fence
+224-533,karo1304,http://concepticon.clld.org/parameters/1921,ikyútrih,plow
+224-289,karo1304,http://concepticon.clld.org/parameters/1418,-ʔírip,dig
+224-538,karo1304,http://concepticon.clld.org/parameters/1901,tanukyá̄nar,shovel
+224-505,karo1304,http://concepticon.clld.org/parameters/748,-ʔuhθá̄mha,sow
+224-211,karo1304,http://concepticon.clld.org/parameters/714,ʔúhiš,seed
+224-653,karo1304,http://concepticon.clld.org/parameters/605,ʔikráβapuh,"grain (barley, oats etc)"
+224-430,karo1304,http://concepticon.clld.org/parameters/506,[kó̄n],"maize, corn"
+224-276,karo1304,http://concepticon.clld.org/parameters/926,βakaytunβê̄čas,rice
+224-224,karo1304,http://concepticon.clld.org/parameters/606,píriš,grass
+224-505,karo1304,http://concepticon.clld.org/parameters/670,-ʔuhθá̄mha,root
+224-150,karo1304,http://concepticon.clld.org/parameters/1531,ʔáptīk,branch
+224-755,karo1304,http://concepticon.clld.org/parameters/628,sá̄n,leaf
+224-351,karo1304,http://concepticon.clld.org/parameters/239,ʔiθríha,flower
+224-140,karo1304,http://concepticon.clld.org/parameters/906,-ʔiip,tree
+224-58,karo1304,http://concepticon.clld.org/parameters/906,ʔípaha,tree
+224-165,karo1304,http://concepticon.clld.org/parameters/644,xunyé̄p,oak
+224-171,karo1304,http://concepticon.clld.org/parameters/1740,ʔišβírip,pine
+224-36,karo1304,http://concepticon.clld.org/parameters/1915,ʔiθárip,fir
+224-234,karo1304,http://concepticon.clld.org/parameters/968,xuntápan,acorn
+224-493,karo1304,http://concepticon.clld.org/parameters/974,ʔú̄h,tobacco
+224-305,karo1304,http://concepticon.clld.org/parameters/974,ʔihê̄raha,tobacco
+224-360,karo1304,http://concepticon.clld.org/parameters/1689,-ʔihê̄r,smoke (tobacco)
+224-723,karo1304,http://concepticon.clld.org/parameters/1124,ʔuhrām,pipe
+224-643,karo1304,http://concepticon.clld.org/parameters/1204,má̄n,bark
+224-269,karo1304,http://concepticon.clld.org/parameters/33,ʔakβīn,nettle
+224-462,karo1304,http://concepticon.clld.org/parameters/641,xayβīš,mushroom
+224-46,karo1304,http://concepticon.clld.org/parameters/813,-ʔikyaβ,"do, make"
+224-193,karo1304,http://concepticon.clld.org/parameters/984,-ʔikyáβīčβa,work
+224-561,karo1304,http://concepticon.clld.org/parameters/2004,-kifnuk,bend
+224-214,karo1304,http://concepticon.clld.org/parameters/1917,-ʔinhíka,"tie, bind"
+224-96,karo1304,http://concepticon.clld.org/parameters/1218,ʔá̄n,"rope, cord"
+224-566,karo1304,http://concepticon.clld.org/parameters/2133,-ʔiykar,"strike (hit, beat)"
+224-367,karo1304,http://concepticon.clld.org/parameters/1432,-ʔikβit,cut
+224-67,karo1304,http://concepticon.clld.org/parameters/155,-ʔá̄k,"chop, hew"
+224-662,karo1304,http://concepticon.clld.org/parameters/1352,símsīm,knife
+224-321,karo1304,http://concepticon.clld.org/parameters/356,táčakar,"scissors, shears"
+224-313,karo1304,http://concepticon.clld.org/parameters/677,ʔakó̄r,ax
+224-717,karo1304,http://concepticon.clld.org/parameters/680,-ʔikpat,break
+224-513,karo1304,http://concepticon.clld.org/parameters/588,-ʔišpat,broken
+224-241,karo1304,http://concepticon.clld.org/parameters/1437,-ʔikrak,split
+224-759,karo1304,http://concepticon.clld.org/parameters/1735,-pititítit,tear
+224-248,karo1304,http://concepticon.clld.org/parameters/291,-išfir,"flay, skin"
+224-111,karo1304,http://concepticon.clld.org/parameters/1449,-iyβúruk,"rub, wipe"
+224-293,karo1304,http://concepticon.clld.org/parameters/1455,-ʔiθyur,pull
+224-333,karo1304,http://concepticon.clld.org/parameters/357,-tákararih,hang up
+224-421,karo1304,http://concepticon.clld.org/parameters/1487,-ʔiyβê̄š,pour
+224-666,karo1304,http://concepticon.clld.org/parameters/1453,-piθxah,wash
+224-94,karo1304,http://concepticon.clld.org/parameters/230,-tátuy,sweep
+224-436,karo1304,http://concepticon.clld.org/parameters/245,tátuyšurar,broom
+224-277,karo1304,http://concepticon.clld.org/parameters/1948,βúčixar,saw
+224-726,karo1304,http://concepticon.clld.org/parameters/1481,[háma],hammer
+224-467,karo1304,http://concepticon.clld.org/parameters/502,sī́h,nail
+224-604,karo1304,http://concepticon.clld.org/parameters/1069,ʔapunáxβuh,glue
+224-109,karo1304,http://concepticon.clld.org/parameters/1369,ʔišpuk,gold
+224-662,karo1304,http://concepticon.clld.org/parameters/621,símsīm,iron
+224-449,karo1304,http://concepticon.clld.org/parameters/1399,ʔamtūp,clay
+224-138,karo1304,http://concepticon.clld.org/parameters/604,pimustihβá̄nar,glass
+224-50,karo1304,http://concepticon.clld.org/parameters/1729,-vik,"weave, plait"
+224-407,karo1304,http://concepticon.clld.org/parameters/1539,ʔásip,basket
+224-685,karo1304,http://concepticon.clld.org/parameters/195,ʔiθvar,mat
+224-725,karo1304,http://concepticon.clld.org/parameters/293,θuxriβ,netbag
+224-732,karo1304,http://concepticon.clld.org/parameters/1113,-ʔiyxô̄rariβ,"wind, wrap"
+224-409,karo1304,http://concepticon.clld.org/parameters/827,-ʔiyruh,roll
+224-26,karo1304,http://concepticon.clld.org/parameters/430,ʔátat,twist
+224-442,karo1304,http://concepticon.clld.org/parameters/568,-ʔuh,rise
+224-189,karo1304,http://concepticon.clld.org/parameters/501,-ʔê̄čip,"raise, lift"
+224-195,karo1304,http://concepticon.clld.org/parameters/1280,-ʔikyiβ,fall
+224-292,karo1304,http://concepticon.clld.org/parameters/2253,-ʔírih,drip
+224-639,karo1304,http://concepticon.clld.org/parameters/1456,-paθ,throw
+224-518,karo1304,http://concepticon.clld.org/parameters/702,-pax,catch (ball)
+224-78,karo1304,http://concepticon.clld.org/parameters/2003,-βur,flow
+224-328,karo1304,http://concepticon.clld.org/parameters/1088,-ʔarankúrih,sink
+224-56,karo1304,http://concepticon.clld.org/parameters/1574,-θiβruh,float
+224-414,karo1304,http://concepticon.clld.org/parameters/1439,-ʔikpuh,swim
+224-460,karo1304,http://concepticon.clld.org/parameters/119,-ʔīpkúrih,dive
+224-31,karo1304,http://concepticon.clld.org/parameters/365,-ʔikčusúčus,splash
+224-355,karo1304,http://concepticon.clld.org/parameters/787,-βit,sail (vb)
+224-724,karo1304,http://concepticon.clld.org/parameters/1441,-ʔikxip,fly (vb)
+224-543,karo1304,http://concepticon.clld.org/parameters/175,-fumpuh,blow
+224-262,karo1304,http://concepticon.clld.org/parameters/96,-βô̄r,"creep, crawl"
+224-270,karo1304,http://concepticon.clld.org/parameters/66,-páθakha,kneel
+224-34,karo1304,http://concepticon.clld.org/parameters/1324,-tápič,"slide, slip"
+224-422,karo1304,http://concepticon.clld.org/parameters/1829,-ʔiškak,"jump, leap"
+224-539,karo1304,http://concepticon.clld.org/parameters/1879,-ʔih,dance
+224-308,karo1304,http://concepticon.clld.org/parameters/1443,-ʔáhō,walk
+224-370,karo1304,http://concepticon.clld.org/parameters/1519,-ʔikβip,run
+224-308,karo1304,http://concepticon.clld.org/parameters/695,-ʔáhō,go
+224-754,karo1304,http://concepticon.clld.org/parameters/705,-βurā,go up
+224-483,karo1304,http://concepticon.clld.org/parameters/1102,-ʔikfuk,climb
+224-374,karo1304,http://concepticon.clld.org/parameters/2014,-βī́š,go down
+224-507,karo1304,http://concepticon.clld.org/parameters/1107,-βárip,go out
+224-308,karo1304,http://concepticon.clld.org/parameters/1446,-ʔáhō,come
+224-390,karo1304,http://concepticon.clld.org/parameters/581,-ʔípak,come back
+224-237,karo1304,http://concepticon.clld.org/parameters/1752,-βâ̄ram,"go away, depart"
+224-134,karo1304,http://concepticon.clld.org/parameters/485,-sir,disappear
+224-610,karo1304,http://concepticon.clld.org/parameters/1085,-ʔáharam,follow
+224-610,karo1304,http://concepticon.clld.org/parameters/1047,-ʔáharam,pursue
+224-640,karo1304,http://concepticon.clld.org/parameters/1387,-ʔūm,"reach, arrive"
+224-399,karo1304,http://concepticon.clld.org/parameters/749,-βô̄nfuruk,enter
+224-38,karo1304,http://concepticon.clld.org/parameters/700,-ʔê̄θ,carry (bear)
+224-523,karo1304,http://concepticon.clld.org/parameters/412,-mû̄t,carry-in-hand
+224-742,karo1304,http://concepticon.clld.org/parameters/412,-ʔiktaβ,carry-in-hand
+224-544,karo1304,http://concepticon.clld.org/parameters/413,-ʔikβat,carry-on-shoulder
+224-38,karo1304,http://concepticon.clld.org/parameters/692,-ʔê̄θ,bring
+224-560,karo1304,http://concepticon.clld.org/parameters/43,-ʔišrá̄t,lead (vb)
+224-302,karo1304,http://concepticon.clld.org/parameters/741,-ʔáha-,drive
+224-77,karo1304,http://concepticon.clld.org/parameters/367,-kû̄ntakō,ride
+224-194,karo1304,http://concepticon.clld.org/parameters/1452,-taxya-,"push, shove"
+224-294,karo1304,http://concepticon.clld.org/parameters/667,ʔimpāh,road
+224-294,karo1304,http://concepticon.clld.org/parameters/2252,ʔimpāh,path
+224-207,karo1304,http://concepticon.clld.org/parameters/1011,ʔahyūm,bridge
+224-496,karo1304,http://concepticon.clld.org/parameters/122,[βê̄kin],"carriage, wagon, cart"
+224-517,karo1304,http://concepticon.clld.org/parameters/710,takníhar,wheel
+224-396,karo1304,http://concepticon.clld.org/parameters/1844,pá̄h,boat
+224-396,karo1304,http://concepticon.clld.org/parameters/1970,pá̄h,canoe
+224-444,karo1304,http://concepticon.clld.org/parameters/108,pahβítar,oar
+224-37,karo1304,http://concepticon.clld.org/parameters/234,pahβítur,paddle (noun)
+224-654,karo1304,http://concepticon.clld.org/parameters/1849,-vit,row (vb)
+224-403,karo1304,http://concepticon.clld.org/parameters/773,-θīn,have
+224-403,karo1304,http://concepticon.clld.org/parameters/684,-θīn,"own, possess"
+224-353,karo1304,http://concepticon.clld.org/parameters/1749,-ʔé̄θ,take
+224-448,karo1304,http://concepticon.clld.org/parameters/2021,-ʔáxay,"seize, grasp"
+224-403,karo1304,http://concepticon.clld.org/parameters/1448,-θīn,hold
+224-715,karo1304,http://concepticon.clld.org/parameters/1448,-ʔištak,hold
+224-690,karo1304,http://concepticon.clld.org/parameters/1477,-xá̄yha,"keep, retain"
+224-35,karo1304,http://concepticon.clld.org/parameters/1447,-ʔé̄h,give
+224-53,karo1304,http://concepticon.clld.org/parameters/1997,xú̄s + ʔé̄θ,"preserve, look after"
+224-244,karo1304,http://concepticon.clld.org/parameters/2008,-xāyha,"save, rescue"
+224-278,karo1304,http://concepticon.clld.org/parameters/1468,-ʔápiβ,"seek, look for"
+224-185,karo1304,http://concepticon.clld.org/parameters/719,-mah,find
+224-344,karo1304,http://concepticon.clld.org/parameters/1660,-pá̄čur,lose
+224-109,karo1304,http://concepticon.clld.org/parameters/1559,ʔišpuk,money
+224-142,karo1304,http://concepticon.clld.org/parameters/712,yāsʔára,rich
+224-12,karo1304,http://concepticon.clld.org/parameters/1674,kâ̄rim,poor
+224-115,karo1304,http://concepticon.clld.org/parameters/1934,ʔimūmáhān,beggar
+224-592,karo1304,http://concepticon.clld.org/parameters/1774,ʔamíhyaβ,"avaricious, stingy"
+224-480,karo1304,http://concepticon.clld.org/parameters/718,-ʔiyúriš,pay (vb)
+224-286,karo1304,http://concepticon.clld.org/parameters/856,-ʔihruβ,hire
+224-677,karo1304,http://concepticon.clld.org/parameters/1869,-ʔikβáriš,buy
+224-473,karo1304,http://concepticon.clld.org/parameters/1571,-ʔiyé̄šrīhβa,sell
+224-714,karo1304,http://concepticon.clld.org/parameters/2135,-pê̄βapiθβa,"trade, barter"
+224-668,karo1304,http://concepticon.clld.org/parameters/752,pēβapiθβāram,"store, shop"
+224-663,karo1304,http://concepticon.clld.org/parameters/1098,-má̄θha,weigh
+224-334,karo1304,http://concepticon.clld.org/parameters/723,ʔífuθ,behind
+224-593,karo1304,http://concepticon.clld.org/parameters/1816,ʔápapkam,beside
+224-684,karo1304,http://concepticon.clld.org/parameters/1326,súruk,"down, below"
+224-330,karo1304,http://concepticon.clld.org/parameters/1019,ʔá̄vkam,front
+224-684,karo1304,http://concepticon.clld.org/parameters/1606,súruk,"inside, in"
+224-520,karo1304,http://concepticon.clld.org/parameters/1606,ʔīná̄k,"inside, in"
+224-55,karo1304,http://concepticon.clld.org/parameters/762,ʔî̄kam,outside
+224-684,karo1304,http://concepticon.clld.org/parameters/1485,súruk,under
+224-322,karo1304,http://concepticon.clld.org/parameters/1591,ʔaʔ,"up, above"
+224-406,karo1304,http://concepticon.clld.org/parameters/998,-ʔūβ,put
+224-369,karo1304,http://concepticon.clld.org/parameters/1416,-ʔikriβ,sit
+224-461,karo1304,http://concepticon.clld.org/parameters/1416,-kû̄riš,sit
+224-553,karo1304,http://concepticon.clld.org/parameters/215,-ʔá̄siš,lie down
+224-249,karo1304,http://concepticon.clld.org/parameters/1442,-ʔihyárih,stand
+224-317,karo1304,http://concepticon.clld.org/parameters/987,-sām,"remain, stay"
+224-228,karo1304,http://concepticon.clld.org/parameters/7,-ʔífik,"collect, gather"
+224-189,karo1304,http://concepticon.clld.org/parameters/371,-ʔê̄čip,pick up
+224-319,karo1304,http://concepticon.clld.org/parameters/1576,-ʔikyut-,pile up
+224-432,karo1304,http://concepticon.clld.org/parameters/1359,-iktak,separate
+224-336,karo1304,http://concepticon.clld.org/parameters/1156,-čiβčá̄ksur,open
+224-287,karo1304,http://concepticon.clld.org/parameters/1046,-čiβčak,"shut, close"
+224-366,karo1304,http://concepticon.clld.org/parameters/761,-ʔiθxup,cover
+224-310,karo1304,http://concepticon.clld.org/parameters/602,-ʔíšunβa,"hide, conceal"
+224-123,karo1304,http://concepticon.clld.org/parameters/1265,ʔaʔvárih,high
+224-57,karo1304,http://concepticon.clld.org/parameters/1753,ʔípan,top
+224-608,karo1304,http://concepticon.clld.org/parameters/690,ʔáfiβ,bottom
+224-57,karo1304,http://concepticon.clld.org/parameters/742,ʔípan,end
+224-648,karo1304,http://concepticon.clld.org/parameters/372,yáθah,pointed
+224-445,karo1304,http://concepticon.clld.org/parameters/863,tī́m,edge
+224-254,karo1304,http://concepticon.clld.org/parameters/682,ʔápap,side
+224-206,karo1304,http://concepticon.clld.org/parameters/1093,ʔá̄čip,"middle, center"
+224-75,karo1304,http://concepticon.clld.org/parameters/1019,yá̄stīkam,right (side)
+224-291,karo1304,http://concepticon.clld.org/parameters/244,kútutukam,left (side)
+224-114,karo1304,http://concepticon.clld.org/parameters/1942,ʔû̄mukič,near (adv)
+224-659,karo1304,http://concepticon.clld.org/parameters/1406,yīβ,far (adv)
+224-536,karo1304,http://concepticon.clld.org/parameters/479,-ʔif,grow
+224-470,karo1304,http://concepticon.clld.org/parameters/1506,-suprih,measure
+224-642,karo1304,http://concepticon.clld.org/parameters/1506,-suprav,measure
+224-98,karo1304,http://concepticon.clld.org/parameters/1202,ké̄č ~ -kām,"large, big"
+224-59,karo1304,http://concepticon.clld.org/parameters/1246,nî̄namič ~ -ʔanamahač,"small, little"
+224-253,karo1304,http://concepticon.clld.org/parameters/1203,vâ̄ram ~ -xárah,long
+224-253,karo1304,http://concepticon.clld.org/parameters/711,vâ̄ram ~ -xárah,tall
+224-200,karo1304,http://concepticon.clld.org/parameters/1645,ʔipšû̄nkinač,short
+224-231,karo1304,http://concepticon.clld.org/parameters/1243,tírih,"wide, broad"
+224-650,karo1304,http://concepticon.clld.org/parameters/1267,čû̄yič,narrow
+224-295,karo1304,http://concepticon.clld.org/parameters/1244,ʔítpūm,thick (in dimension)
+224-633,karo1304,http://concepticon.clld.org/parameters/1400,xútnahič,thin (in dimension)
+224-446,karo1304,http://concepticon.clld.org/parameters/1593,núkah,deep
+224-618,karo1304,http://concepticon.clld.org/parameters/1593,ʔé̄nīk,deep
+224-63,karo1304,http://concepticon.clld.org/parameters/193,ʔasáxnahič,shallow
+224-672,karo1304,http://concepticon.clld.org/parameters/1633,tínihič,flat
+224-481,karo1304,http://concepticon.clld.org/parameters/1404,fīpáyaβ,straight
+224-713,karo1304,http://concepticon.clld.org/parameters/297,-kūn,crooked
+224-559,karo1304,http://concepticon.clld.org/parameters/1071,taxβúkar,hook
+224-149,karo1304,http://concepticon.clld.org/parameters/1395,ʔúruh,round
+224-675,karo1304,http://concepticon.clld.org/parameters/1558,kúniš,"like, similar"
+224-213,karo1304,http://concepticon.clld.org/parameters/1294,púfāt,"zero, nothing"
+224-706,karo1304,http://concepticon.clld.org/parameters/1515,yīθa ~ ʔiθa-,one
+224-395,karo1304,http://concepticon.clld.org/parameters/1498,ʔáxak,two
+224-733,karo1304,http://concepticon.clld.org/parameters/492,kuyrāk,three
+224-312,karo1304,http://concepticon.clld.org/parameters/1500,pīθ,four
+224-85,karo1304,http://concepticon.clld.org/parameters/493,ʔitró̄p,five
+224-514,karo1304,http://concepticon.clld.org/parameters/1703,ʔikrívkih,six
+224-627,karo1304,http://concepticon.clld.org/parameters/1704,ʔaxakinívkih,seven
+224-638,karo1304,http://concepticon.clld.org/parameters/1705,kuyrakinívkih,eight
+224-375,karo1304,http://concepticon.clld.org/parameters/1483,ʔitrōpatíšāmnih,nine
+224-556,karo1304,http://concepticon.clld.org/parameters/1515,ʔitrahyar ~ ʔitahara-,ten
+224-503,karo1304,http://concepticon.clld.org/parameters/1706,ʔitráhyar káru yíθa,eleven
+224-589,karo1304,http://concepticon.clld.org/parameters/1707,ʔitráhyar káru ʔáxak,twelve
+224-356,karo1304,http://concepticon.clld.org/parameters/1709,ʔitráhyar káru ʔitró̄p,fifteen
+224-161,karo1304,http://concepticon.clld.org/parameters/1710,xakitráhyar,twenty
+224-397,karo1304,http://concepticon.clld.org/parameters/1634,ʔiθa-páčiš,hundred
+224-285,karo1304,http://concepticon.clld.org/parameters/1843,ʔitahara-páčiš,thousand
+224-162,karo1304,http://concepticon.clld.org/parameters/1420,-tó̄r,count
+224-631,karo1304,http://concepticon.clld.org/parameters/98,kōβúra,"every, all"
+224-384,karo1304,http://concepticon.clld.org/parameters/1198,tāy,"much, many"
+224-141,karo1304,http://concepticon.clld.org/parameters/1992,kumatê̄šič,more
+224-130,karo1304,http://concepticon.clld.org/parameters/1242,čî̄mič,"little (quantity), few"
+224-379,karo1304,http://concepticon.clld.org/parameters/1881,kó̄nik,enough
+224-341,karo1304,http://concepticon.clld.org/parameters/1241,ká̄kum,some
+224-550,karo1304,http://concepticon.clld.org/parameters/1429,ʔaxyar,full
+224-736,karo1304,http://concepticon.clld.org/parameters/1624,ʔárūn,empty
+224-456,karo1304,http://concepticon.clld.org/parameters/779,ʔišvit,"part, piece"
+224-456,karo1304,http://concepticon.clld.org/parameters/816,ʔišvit,half
+224-479,karo1304,http://concepticon.clld.org/parameters/1580,páθa,"alone, only"
+224-6,karo1304,http://concepticon.clld.org/parameters/728,píšīp,first
+224-689,karo1304,http://concepticon.clld.org/parameters/1529,ʔifučtî̄mič,last
+224-527,karo1304,http://concepticon.clld.org/parameters/1546,ʔaxákyān,two times
+224-721,karo1304,http://concepticon.clld.org/parameters/417,kuyrákyān,three times
+224-298,karo1304,http://concepticon.clld.org/parameters/1231,pī́t,new
+224-562,karo1304,http://concepticon.clld.org/parameters/1229,ké̄βrīkha,old
+224-431,karo1304,http://concepticon.clld.org/parameters/477,nô̄tah,late
+224-188,karo1304,http://concepticon.clld.org/parameters/1376,payé̄m,now
+224-504,karo1304,http://concepticon.clld.org/parameters/1631,čé̄myāč,"swift, fast, quick"
+224-342,karo1304,http://concepticon.clld.org/parameters/701,čakaʔî̄mič,slow
+224-44,karo1304,http://concepticon.clld.org/parameters/701,kačaʔî̄mič,slow
+224-433,karo1304,http://concepticon.clld.org/parameters/754,yá̄βha,"hasten, hurry"
+224-450,karo1304,http://concepticon.clld.org/parameters/1806,-ikyâ̄sip,"begin, beginning"
+224-506,karo1304,http://concepticon.clld.org/parameters/1766,-pikyār,finish
+224-17,karo1304,http://concepticon.clld.org/parameters/1928,-ʔiškáxiš,"cease, stop"
+224-88,karo1304,http://concepticon.clld.org/parameters/790,-káriha,ready
+224-413,karo1304,http://concepticon.clld.org/parameters/1676,ʔatahári,always
+224-599,karo1304,http://concepticon.clld.org/parameters/1544,hâ̄rih,sometimes
+224-339,karo1304,http://concepticon.clld.org/parameters/418,xárah,long-time (for a)
+224-621,karo1304,http://concepticon.clld.org/parameters/1656,haríxay,never
+224-273,karo1304,http://concepticon.clld.org/parameters/204,kúkūm,again
+224-656,karo1304,http://concepticon.clld.org/parameters/1260,súpāh,day
+224-709,karo1304,http://concepticon.clld.org/parameters/1233,ʔikxáram,night
+224-590,karo1304,http://concepticon.clld.org/parameters/729,mahʔî̄tnihač,dawn
+224-19,karo1304,http://concepticon.clld.org/parameters/1339,máhʔīt,morning
+224-246,karo1304,http://concepticon.clld.org/parameters/12,supáhʔāčip,"noon, midday"
+224-615,karo1304,http://concepticon.clld.org/parameters/1629,ʔikxúrar,evening
+224-113,karo1304,http://concepticon.clld.org/parameters/1283,payê̄m kumasúpāh,today
+224-636,karo1304,http://concepticon.clld.org/parameters/1329,ʔimān,tomorrow
+224-412,karo1304,http://concepticon.clld.org/parameters/1179,ʔimá̄n múmānkam,day-after-tomorrow
+224-459,karo1304,http://concepticon.clld.org/parameters/1174,ʔipit,yesterday
+224-271,karo1304,http://concepticon.clld.org/parameters/1180,ʔipít múpitkam,day-before-yesterday
+224-515,karo1304,http://concepticon.clld.org/parameters/1323,kusnáhʔaramahač,"clock, timepiece"
+224-90,karo1304,http://concepticon.clld.org/parameters/1697,yíθa tōpsúpāhpa,Monday
+224-477,karo1304,http://concepticon.clld.org/parameters/1695,ʔáxak tōpsúpāhpa,Tuesday
+224-280,karo1304,http://concepticon.clld.org/parameters/1694,kuyrāk tōpsúpāhpa,Wednesday
+224-199,karo1304,http://concepticon.clld.org/parameters/1693,pīθ tōpsúpāhpa,Thursday
+224-170,karo1304,http://concepticon.clld.org/parameters/1692,ʔitrô̄p tōpsúpāhpa,Friday
+224-259,karo1304,http://concepticon.clld.org/parameters/1700,[sárarih],Saturday
+224-508,karo1304,http://concepticon.clld.org/parameters/1370,kú̄srah,month
+224-74,karo1304,http://concepticon.clld.org/parameters/1226,hárinay,year
+224-595,karo1304,http://concepticon.clld.org/parameters/1471,ʔíšyāβ,winter
+224-501,karo1304,http://concepticon.clld.org/parameters/1537,pimnanihî̄šrih,spring
+224-591,karo1304,http://concepticon.clld.org/parameters/1342,pimná̄nih,summer
+224-102,karo1304,http://concepticon.clld.org/parameters/1276,pišyaβpî̄šrih,autumn
+224-565,karo1304,http://concepticon.clld.org/parameters/1587,-ʔimxaθ,smell (vb intrans)
+224-478,karo1304,http://concepticon.clld.org/parameters/1586,-ʔimšákar,smell (vb trans)
+224-596,karo1304,http://concepticon.clld.org/parameters/376,ʔimxaθáyaβ,"fragrant, good smelling"
+224-585,karo1304,http://concepticon.clld.org/parameters/42,ʔimxaθaké̄m,"stinking, bad smelling"
+224-232,karo1304,http://concepticon.clld.org/parameters/21,-ʔákat,taste
+224-521,karo1304,http://concepticon.clld.org/parameters/717,ʔuxrāh,sweet
+224-605,karo1304,http://concepticon.clld.org/parameters/1091,yúfišar,salty
+224-485,karo1304,http://concepticon.clld.org/parameters/887,ʔú̄x,bitter
+224-743,karo1304,http://concepticon.clld.org/parameters/1906,ʔuxrháθkāy,"acid, sour"
+224-619,karo1304,http://concepticon.clld.org/parameters/1408,-θítiβ,hear
+224-701,karo1304,http://concepticon.clld.org/parameters/1314,-iškax,"quiet, silence"
+224-185,karo1304,http://concepticon.clld.org/parameters/1409,-mah,see
+224-380,karo1304,http://concepticon.clld.org/parameters/1819,-ʔimus,"look, look at"
+224-103,karo1304,http://concepticon.clld.org/parameters/1039,-ʔikšup,show
+224-522,karo1304,http://concepticon.clld.org/parameters/708,-ʔimšírih,shine
+224-203,karo1304,http://concepticon.clld.org/parameters/679,-ʔimkatáxrah,bright
+224-458,karo1304,http://concepticon.clld.org/parameters/1335,-tāhkō ~ čánčāfkuniš,white
+224-362,karo1304,http://concepticon.clld.org/parameters/163,ʔikxáramkuniš,black
+224-671,karo1304,http://concepticon.clld.org/parameters/156,ʔá̄xkuniš,red
+224-575,karo1304,http://concepticon.clld.org/parameters/837,θúkinkuniš,blue
+224-575,karo1304,http://concepticon.clld.org/parameters/1425,θúkinkuniš,green
+224-575,karo1304,http://concepticon.clld.org/parameters/1424,θúkinkuniš,yellow
+224-266,karo1304,http://concepticon.clld.org/parameters/1892,-ʔáfiš,touch
+224-528,karo1304,http://concepticon.clld.org/parameters/378,-βimčuk,pinch
+224-350,karo1304,http://concepticon.clld.org/parameters/1079,-ʔafíšēn,feel
+224-14,karo1304,http://concepticon.clld.org/parameters/1884,sákrīβ,hard
+224-196,karo1304,http://concepticon.clld.org/parameters/1856,xé̄čič,soft
+224-238,karo1304,http://concepticon.clld.org/parameters/1923,kúkuh,rough
+224-15,karo1304,http://concepticon.clld.org/parameters/1234,xūs,smooth
+224-648,karo1304,http://concepticon.clld.org/parameters/1396,yáθah,sharp
+224-580,karo1304,http://concepticon.clld.org/parameters/379,múmuh,"blunt, dull"
+224-45,karo1304,http://concepticon.clld.org/parameters/1210,má̄θ,heavy
+224-29,karo1304,http://concepticon.clld.org/parameters/1052,ʔišná̄nič,light (in weight)
+224-535,karo1304,http://concepticon.clld.org/parameters/1726,ʔāskípač,"wet, damp"
+224-573,karo1304,http://concepticon.clld.org/parameters/1398,ʔiβáxrah,dry
+224-443,karo1304,http://concepticon.clld.org/parameters/1286,-ʔimfir,hot
+224-716,karo1304,http://concepticon.clld.org/parameters/1286,-ʔimčax,hot
+224-387,karo1304,http://concepticon.clld.org/parameters/1232,-ʔimpuk,warm
+224-457,karo1304,http://concepticon.clld.org/parameters/1287,ʔáθīk,cold
+224-516,karo1304,http://concepticon.clld.org/parameters/1230,ʔaxβíθin,"dirty, soiled"
+224-688,karo1304,http://concepticon.clld.org/parameters/53,pikšip,"soul, spirit"
+224-519,karo1304,http://concepticon.clld.org/parameters/720,ʔískīt,"good fortune, luck"
+224-644,karo1304,http://concepticon.clld.org/parameters/56,ʔāksâ̄nβa,"misfortune, bad luck"
+224-3,karo1304,http://concepticon.clld.org/parameters/1495,-ʔāčíčha,"joyful, glad, happy"
+224-665,karo1304,http://concepticon.clld.org/parameters/1355,-ʔikšah,laugh
+224-92,karo1304,http://concepticon.clld.org/parameters/1413,-ʔixtī́βha,play
+224-173,karo1304,http://concepticon.clld.org/parameters/923,-ʔī́mnih,love
+224-488,karo1304,http://concepticon.clld.org/parameters/578,-páčup,kiss
+224-359,karo1304,http://concepticon.clld.org/parameters/1783,kúha,pain
+224-579,karo1304,http://concepticon.clld.org/parameters/1668,-tárak,"grief, sorrow, sadness"
+224-110,karo1304,http://concepticon.clld.org/parameters/1875,-ʔiθvuyxâ̄ha,"regret, be sorry"
+224-283,karo1304,http://concepticon.clld.org/parameters/1141,-kōhímačkō,pity
+224-364,karo1304,http://concepticon.clld.org/parameters/1839,-ʔixrar,"cry, weep"
+224-126,karo1304,http://concepticon.clld.org/parameters/1651,yupastáram,tear (noun)
+224-181,karo1304,http://concepticon.clld.org/parameters/1607,-βî̄ha,hate
+224-646,karo1304,http://concepticon.clld.org/parameters/82,-ʔixvī́pha,anger
+224-82,karo1304,http://concepticon.clld.org/parameters/40,-ʔafitú̄nβa,"envy, jealousy"
+224-132,karo1304,http://concepticon.clld.org/parameters/1776,ʔahárām,shame (noun)
+224-438,karo1304,http://concepticon.clld.org/parameters/3,ʔišímfir,brave
+224-42,karo1304,http://concepticon.clld.org/parameters/781,-ʔay,"fear, fright"
+224-469,karo1304,http://concepticon.clld.org/parameters/1784,-βíštar,"desire, want"
+224-218,karo1304,http://concepticon.clld.org/parameters/1750,-tayaβ,choose
+224-757,karo1304,http://concepticon.clld.org/parameters/1657,ʔif,true
+224-652,karo1304,http://concepticon.clld.org/parameters/601,-pikšá̄yβa,"lie, tell lies"
+224-658,karo1304,http://concepticon.clld.org/parameters/1035,yaβ,good
+224-702,karo1304,http://concepticon.clld.org/parameters/1292,-ké̄m,bad
+224-210,karo1304,http://concepticon.clld.org/parameters/1427,yâ̄mač,beautiful
+224-197,karo1304,http://concepticon.clld.org/parameters/1427,ʔimusá-yaβ,beautiful
+224-258,karo1304,http://concepticon.clld.org/parameters/1548,ʔimusaké̄m,ugly
+224-257,karo1304,http://concepticon.clld.org/parameters/1415,-xus,think (= reflect)
+224-257,karo1304,http://concepticon.clld.org/parameters/1513,-xus,think (= be of the opinion)
+224-209,karo1304,http://concepticon.clld.org/parameters/1890,-fuhiš,believe
+224-416,karo1304,http://concepticon.clld.org/parameters/1410,-ʔá̄punma,know
+224-594,karo1304,http://concepticon.clld.org/parameters/1521,-ʔimúsaha,seem
+224-622,karo1304,http://concepticon.clld.org/parameters/1899,-yunyú̄nha,"insane, crazy"
+224-8,karo1304,http://concepticon.clld.org/parameters/504,-ʔāpúnmīk,learn
+224-39,karo1304,http://concepticon.clld.org/parameters/709,-ʔikšúpih,teach
+224-240,karo1304,http://concepticon.clld.org/parameters/1038,ʔikšúpíhān,teacher
+224-482,karo1304,http://concepticon.clld.org/parameters/673,ʔikšupíhrām,school
+224-410,karo1304,http://concepticon.clld.org/parameters/707,-pikró̄k,remember
+224-541,karo1304,http://concepticon.clld.org/parameters/1523,-ʔipšinβárih,forget
+224-121,karo1304,http://concepticon.clld.org/parameters/1841,-θaxústay,suspect
+224-346,karo1304,http://concepticon.clld.org/parameters/686,yâ̄mahukač,easy
+224-233,karo1304,http://concepticon.clld.org/parameters/584,ikyá̄kām,difficult
+224-22,karo1304,http://concepticon.clld.org/parameters/1812,ikyāvárihβa,"try, attempt"
+224-323,karo1304,http://concepticon.clld.org/parameters/1577,káru,and
+224-464,karo1304,http://concepticon.clld.org/parameters/1157,ʔayuʔá̄č,because
+224-183,karo1304,http://concepticon.clld.org/parameters/1014,hum,or
+224-509,karo1304,http://concepticon.clld.org/parameters/1268,há̄,"yes, affirmative"
+224-498,karo1304,http://concepticon.clld.org/parameters/1269,pû̄hara,"no, negative"
+224-582,karo1304,http://concepticon.clld.org/parameters/1239,hú̄t,how?
+224-184,karo1304,http://concepticon.clld.org/parameters/822,ʔifyá̄,how many?
+224-65,karo1304,http://concepticon.clld.org/parameters/531,ʔifyā,how much?
+224-137,karo1304,http://concepticon.clld.org/parameters/1236,fá̄t,what?
+224-318,karo1304,http://concepticon.clld.org/parameters/1238,háriβari,when?
+224-382,karo1304,http://concepticon.clld.org/parameters/1237,hó̄y,where?
+224-219,karo1304,http://concepticon.clld.org/parameters/1235,ʔaká̄y,who?
+224-23,karo1304,http://concepticon.clld.org/parameters/1270,fá̄t kumáʔī,why?
+224-609,karo1304,http://concepticon.clld.org/parameters/1261,-pákurih,sing
+224-453,karo1304,http://concepticon.clld.org/parameters/715,-ʔihyiβ,"shout, cry out"
+224-581,karo1304,http://concepticon.clld.org/parameters/1025,-ʔikfuy,whistle
+224-695,karo1304,http://concepticon.clld.org/parameters/526,-ʔikβú̄hβa,howl
+224-691,karo1304,http://concepticon.clld.org/parameters/1623,-ʔúhyan,"speak, talk"
+224-304,karo1304,http://concepticon.clld.org/parameters/1866,-yāyá̄ha,"stutter, stammer"
+224-404,karo1304,http://concepticon.clld.org/parameters/1458,-pīp,say
+224-586,karo1304,http://concepticon.clld.org/parameters/1711,-pikβah,tell story
+224-243,karo1304,http://concepticon.clld.org/parameters/48,ʔastárīš,silent (be)
+224-427,karo1304,http://concepticon.clld.org/parameters/1307,hih,language
+224-386,karo1304,http://concepticon.clld.org/parameters/1599,ʔuhyan,word
+224-192,karo1304,http://concepticon.clld.org/parameters/1405,ʔiθβuy,name
+224-198,karo1304,http://concepticon.clld.org/parameters/1309,-patánβiš,"ask (question, inquire)"
+224-33,karo1304,http://concepticon.clld.org/parameters/1275,-ʔíhiβrik,answer
+224-208,karo1304,http://concepticon.clld.org/parameters/1828,-pátanβa,"ask, request"
+224-108,karo1304,http://concepticon.clld.org/parameters/299,-ʔasúβīš,"rebuke, scold"
+224-392,karo1304,http://concepticon.clld.org/parameters/180,-ʔiθβuyâ̄naha,call (=name)
+224-411,karo1304,http://concepticon.clld.org/parameters/101,-pičakúβān,boast
+224-764,karo1304,http://concepticon.clld.org/parameters/1672,-ʔikxúrik,write
+224-347,karo1304,http://concepticon.clld.org/parameters/724,ʔikxúrik + -ʔimus,read
+224-30,karo1304,http://concepticon.clld.org/parameters/648,ʔikxúrik,paper
+224-548,karo1304,http://concepticon.clld.org/parameters/794,ʔikxúrikar,pen
+224-30,karo1304,http://concepticon.clld.org/parameters/963,ʔikxúrik,book
+224-530,karo1304,http://concepticon.clld.org/parameters/777,ʔikrēmyahβárār,flute
+224-484,karo1304,http://concepticon.clld.org/parameters/908,ʔimθanuβnó̄r,drum
+224-530,karo1304,http://concepticon.clld.org/parameters/2136,ʔikrēmyahβárār,"horn, trumpet"
+224-751,karo1304,http://concepticon.clld.org/parameters/1300,ʔiθíβθānēn,country
+224-741,karo1304,http://concepticon.clld.org/parameters/1391,ʔarárīk,"city, town"
+224-741,karo1304,http://concepticon.clld.org/parameters/930,ʔarárīk,village
+224-700,karo1304,http://concepticon.clld.org/parameters/1296,ʔiktīn,"staff, walking stick"
+224-588,karo1304,http://concepticon.clld.org/parameters/812,ʔihrūθ,slave
+224-343,karo1304,http://concepticon.clld.org/parameters/1635,fuhiš,obey
+224-76,karo1304,http://concepticon.clld.org/parameters/1325,ʔafyīβ,"friend, companion"
+224-158,karo1304,http://concepticon.clld.org/parameters/1358,βá̄san,enemy
+224-368,karo1304,http://concepticon.clld.org/parameters/791,ʔiθʔárān,stranger
+224-669,karo1304,http://concepticon.clld.org/parameters/1897,-ʔipšáraβrik,"help, aid"
+224-680,karo1304,http://concepticon.clld.org/parameters/1550,-ʔiškáxišrih-maθ,"hinder, prevent"
+224-97,karo1304,http://concepticon.clld.org/parameters/1747,kú̄pha,custom
+224-52,karo1304,http://concepticon.clld.org/parameters/1831,-ʔikmar,meet
+224-104,karo1304,http://concepticon.clld.org/parameters/1423,-βaθiβ,fight (vb)
+224-136,karo1304,http://concepticon.clld.org/parameters/579,-ʔākram,"war, battle"
+224-337,karo1304,http://concepticon.clld.org/parameters/994,xuskāmhar,bow
+224-87,karo1304,http://concepticon.clld.org/parameters/977,kuníhar,arrow
+224-730,karo1304,http://concepticon.clld.org/parameters/945,itká̄nβar,spear
+224-21,karo1304,http://concepticon.clld.org/parameters/1566,xuská̄mhar,"gun, cannon"
+224-340,karo1304,http://concepticon.clld.org/parameters/1061,pâ̄saha,armor (defensive)
+224-597,karo1304,http://concepticon.clld.org/parameters/782,-čífič,defeat
+224-559,karo1304,http://concepticon.clld.org/parameters/1074,taxβúkar,fishhook
+224-96,karo1304,http://concepticon.clld.org/parameters/19,ʔá̄n,fishing line
+224-363,karo1304,http://concepticon.clld.org/parameters/388,ʔurípih,fishnet
+224-264,karo1304,http://concepticon.clld.org/parameters/389,ʔikríhar,fish trap
+224-191,karo1304,http://concepticon.clld.org/parameters/1435,-ʔákunβa,hunt
+224-9,karo1304,http://concepticon.clld.org/parameters/1172,-kunih,shoot
+224-190,karo1304,http://concepticon.clld.org/parameters/161,-ʔikfíripriβ,miss (target)
+224-747,karo1304,http://concepticon.clld.org/parameters/1075,tátapβa,trap (noun)
+224-598,karo1304,http://concepticon.clld.org/parameters/1170,-tátapβa,trap (vb)
+224-711,karo1304,http://concepticon.clld.org/parameters/713,sı́tβa,steal
+224-463,karo1304,http://concepticon.clld.org/parameters/1160,sī́t,thief
+224-73,karo1304,http://concepticon.clld.org/parameters/24,-βé̄n,pray
+224-748,karo1304,http://concepticon.clld.org/parameters/852,fataβé̄nān,priest
+224-267,karo1304,http://concepticon.clld.org/parameters/8,-fumyih,curse
+224-661,karo1304,http://concepticon.clld.org/parameters/303,ʔasú̄xar,fast (vb)
+224-146,karo1304,http://concepticon.clld.org/parameters/1565,páy nanuʔáβahkam,heaven
+224-630,karo1304,http://concepticon.clld.org/parameters/878,yumārárīk,hell
+224-303,karo1304,http://concepticon.clld.org/parameters/2137,ʔapurúβān,"sorcerer, witch"
+224-688,karo1304,http://concepticon.clld.org/parameters/1175,pikšip,"ghost, phantom"

@@ -1,0 +1,1231 @@
+ID,Language_ID,Feature_ID,Value,Concept
+255-850,waor1240,http://concepticon.clld.org/parameters/965,ĩ-gipo,world
+255-284,waor1240,http://concepticon.clld.org/parameters/626,õ-bæ,"earth, land"
+255-922,waor1240,http://concepticon.clld.org/parameters/1228,õ-gipo,"earth=ground, soil"
+255-632,waor1240,http://concepticon.clld.org/parameters/2,gidĩ-bõ,dust
+255-434,waor1240,http://concepticon.clld.org/parameters/640,akĩ-bæ̃,mud
+255-501,waor1240,http://concepticon.clld.org/parameters/671,ẽbõdai,sand
+255-914,waor1240,http://concepticon.clld.org/parameters/2118,ãdã-kidi,"mountain, hill"
+255-486,waor1240,http://concepticon.clld.org/parameters/618,õta-dã-a,"cliff, precipice"
+255-557,waor1240,http://concepticon.clld.org/parameters/652,biyõdæ,"plain, field"
+255-299,waor1240,http://concepticon.clld.org/parameters/921,wĩyãbẽka,valley
+255-978,waor1240,http://concepticon.clld.org/parameters/622,waãtĩĩ-wæ̃dẽ,island
+255-515,waor1240,http://concepticon.clld.org/parameters/166,õbæ-koo,mainland
+255-347,waor1240,http://concepticon.clld.org/parameters/113,æ-pæ̃ wedeka,shore
+255-619,waor1240,http://concepticon.clld.org/parameters/1155,õta-to,cave
+255-1003,waor1240,http://concepticon.clld.org/parameters/948,æ-pæ̃,water
+255-276,waor1240,http://concepticon.clld.org/parameters/1474,gãwa-pæ̃ yæ̃dæ̃,sea
+255-217,waor1240,http://concepticon.clld.org/parameters/258,dæ̃æ̃ gõgæ̃,calm (of sea)
+255-138,waor1240,http://concepticon.clld.org/parameters/259,bæ̃æ̃-gõta bæ̃æ̃-gõta ã,rough (of sea)
+255-795,waor1240,http://concepticon.clld.org/parameters/1768,bãwãta,foam
+255-424,waor1240,http://concepticon.clld.org/parameters/645,gãwa-pæ̃ yæ̃dæ̃-gade põdĩ,ocean
+255-483,waor1240,http://concepticon.clld.org/parameters/624,gãwa-pæ̃,lake
+255-483,waor1240,http://concepticon.clld.org/parameters/623,gãwa-pæ̃,lagoon
+255-491,waor1240,http://concepticon.clld.org/parameters/660,pĩ pĩ kæ-wa-te,reef
+255-368,waor1240,http://concepticon.clld.org/parameters/1026,(æ-pæ̃) gædæ go-pæ̃,lowtide
+255-887,waor1240,http://concepticon.clld.org/parameters/613,(æ-pæ̃) gædæ põ-bæ̃,hightide
+255-763,waor1240,http://concepticon.clld.org/parameters/666,õ-dõ,"river, stream, brook"
+255-431,waor1240,http://concepticon.clld.org/parameters/2144,æ-pæ̃ ta-yõbõ,"spring, well"
+255-678,waor1240,http://concepticon.clld.org/parameters/1145,akĩ-bæ̃ ĩ-yõbõ,swamp
+255-641,waor1240,http://concepticon.clld.org/parameters/943,tĩyataa,waterfall
+255-161,waor1240,http://concepticon.clld.org/parameters/420,a-wæ̃-dẽ,"woods, forest"
+255-429,waor1240,http://concepticon.clld.org/parameters/906,a-wæ̃,tree (cf 08.600)
+255-429,waor1240,http://concepticon.clld.org/parameters/1803,a-wæ̃,wood
+255-351,waor1240,http://concepticon.clld.org/parameters/2125,di-ka,"stone, rock"
+255-554,waor1240,http://concepticon.clld.org/parameters/6,goĩke,earthquake
+255-916,waor1240,http://concepticon.clld.org/parameters/1732,õ-õdæ,sky
+255-188,waor1240,http://concepticon.clld.org/parameters/1343,dæ̃ke,sun
+255-65,waor1240,http://concepticon.clld.org/parameters/1313,apãi-kã,moon
+255-294,waor1240,http://concepticon.clld.org/parameters/1430,dẽ-bõ,star
+255-672,waor1240,http://concepticon.clld.org/parameters/1654,dãĩ-pa,lightning
+255-394,waor1240,http://concepticon.clld.org/parameters/1150,detæ-bo,thunder
+255-672,waor1240,http://concepticon.clld.org/parameters/2007,dãĩ-pa,lightning (as striking)
+255-401,waor1240,http://concepticon.clld.org/parameters/858,wĩdi kæ-ĩ,storm
+255-713,waor1240,http://concepticon.clld.org/parameters/1733,dai-bẽ,rainbow
+255-291,waor1240,http://concepticon.clld.org/parameters/630,yãõ,light (noun)
+255-7,waor1240,http://concepticon.clld.org/parameters/11,wẽ-bõ,darkness
+255-37,waor1240,http://concepticon.clld.org/parameters/1388,gãdẽ ĩ-yõbõ,"shade, shadow"
+255-700,waor1240,http://concepticon.clld.org/parameters/1977,owæ̃-bæ̃,dew
+255-437,waor1240,http://concepticon.clld.org/parameters/27,woboyæ̃ bãbo-ke,air
+255-540,waor1240,http://concepticon.clld.org/parameters/960,woboyæ̃,wind
+255-646,waor1240,http://concepticon.clld.org/parameters/1489,bogĩbã,cloud
+255-646,waor1240,http://concepticon.clld.org/parameters/249,bogĩbã,fog
+255-732,waor1240,http://concepticon.clld.org/parameters/658,ko-õdæ,rain (noun)
+255-924,waor1240,http://concepticon.clld.org/parameters/784,yogi-bõ,snow (noun)
+255-318,waor1240,http://concepticon.clld.org/parameters/617,yogi-ĩ-ka,ice
+255-24,waor1240,http://concepticon.clld.org/parameters/952,bogĩbã dã-dõ ẽ-bõ,weather
+255-917,waor1240,http://concepticon.clld.org/parameters/221,gõ-ga,fire
+255-992,waor1240,http://concepticon.clld.org/parameters/889,õ-gẽdẽ õ-gẽdẽ bæko,flame (noun)
+255-566,waor1240,http://concepticon.clld.org/parameters/778,tẽbãa,smoke (noun)
+255-512,waor1240,http://concepticon.clld.org/parameters/646,gõ-dãi,ashes
+255-868,waor1240,http://concepticon.clld.org/parameters/67,gõ-ga-ye-bo,embers
+255-411,waor1240,http://concepticon.clld.org/parameters/141,tã,burn (vb trans)
+255-254,waor1240,http://concepticon.clld.org/parameters/1428,gõ,burn (vb intrans)
+255-90,waor1240,http://concepticon.clld.org/parameters/1428,bæko,burn (vb intrans)
+255-724,waor1240,http://concepticon.clld.org/parameters/737,tã-dõ,"light, kindle, ignite"
+255-623,waor1240,http://concepticon.clld.org/parameters/127,bõdæ ẽbõdẽ,extinguish
+255-60,waor1240,http://concepticon.clld.org/parameters/1133,gõ-ga-ta,match (noun)
+255-49,waor1240,http://concepticon.clld.org/parameters/10,tẽdẽ-wæ̃,firewood
+255-868,waor1240,http://concepticon.clld.org/parameters/1188,gõ-ga-ye-bo,charcoal
+255-97,waor1240,http://concepticon.clld.org/parameters/683,wao-kã,"person, human being"
+255-23,waor1240,http://concepticon.clld.org/parameters/1554,õgĩyæ̃-gã,man (vs. woman)
+255-636,waor1240,http://concepticon.clld.org/parameters/962,õkiyæ̃-gã,woman
+255-835,waor1240,http://concepticon.clld.org/parameters/2263,õgĩyæ̃,male
+255-81,waor1240,http://concepticon.clld.org/parameters/2260,õkiyæ̃,female
+255-205,waor1240,http://concepticon.clld.org/parameters/1366,wẽ-yæ̃-gã õgĩyæ̃-gã,boy
+255-980,waor1240,http://concepticon.clld.org/parameters/76,edẽdĩ-gã,young man (adolescent)
+255-109,waor1240,http://concepticon.clld.org/parameters/1646,wẽyæ̃-gã õkiyæ̃-gã,girl
+255-413,waor1240,http://concepticon.clld.org/parameters/77,bake-kã,young woman (adolescent)
+255-467,waor1240,http://concepticon.clld.org/parameters/1304,wẽyæ̃-gã,child
+255-680,waor1240,http://concepticon.clld.org/parameters/1289,tækæ ẽ-ya-dĩ-gã,"infant, baby"
+255-733,waor1240,http://concepticon.clld.org/parameters/1200,dã-dõ-ogæ̃-gã,husband
+255-733,waor1240,http://concepticon.clld.org/parameters/1199,dã-dõ-ogæ̃-gã,wife
+255-502,waor1240,http://concepticon.clld.org/parameters/203,bõ,marry
+255-1086,waor1240,http://concepticon.clld.org/parameters/1134,pãbæ̃,divorce
+255-770,waor1240,http://concepticon.clld.org/parameters/1217,bæ̃po,father
+255-990,waor1240,http://concepticon.clld.org/parameters/1216,badã,mother
+255-8,waor1240,http://concepticon.clld.org/parameters/505,bæ̃po-idi,parents
+255-584,waor1240,http://concepticon.clld.org/parameters/424,õgĩyæ̃-gã do bõ-ĩ-gã,married man
+255-915,waor1240,http://concepticon.clld.org/parameters/426,õkiyæ̃-gã do bõ-ĩ-gã,married woman
+255-412,waor1240,http://concepticon.clld.org/parameters/1620,wẽ-gã õgĩyæ̃-gã,son
+255-32,waor1240,http://concepticon.clld.org/parameters/1357,wẽ-gã õkiyæ̃-gã,daughter
+255-467,waor1240,http://concepticon.clld.org/parameters/1801,wẽyæ̃-gã,offspring (son or daughter)
+255-982,waor1240,http://concepticon.clld.org/parameters/1262,tõdĩya-kã,brother
+255-625,waor1240,http://concepticon.clld.org/parameters/1759,bẽbõ,older brother
+255-339,waor1240,http://concepticon.clld.org/parameters/1760,biwĩ,younger brother
+255-772,waor1240,http://concepticon.clld.org/parameters/1758,bæ̃gã,older sister
+255-316,waor1240,http://concepticon.clld.org/parameters/1761,biwĩ-ke,younger sister
+255-982,waor1240,http://concepticon.clld.org/parameters/1640,tõdĩya-kã,sibling
+255-482,waor1240,http://concepticon.clld.org/parameters/1005,ãã-kadẽ-da-ke,twins
+255-1008,waor1240,http://concepticon.clld.org/parameters/1383,bæ̃bæ̃,grandfather
+255-84,waor1240,http://concepticon.clld.org/parameters/406,õgĩyæ̃-gã pikæ̃-gã,old man
+255-1024,waor1240,http://concepticon.clld.org/parameters/1496,yæ̃yæ̃,grandmother
+255-1031,waor1240,http://concepticon.clld.org/parameters/907,õkiyæ̃-gã pikæ̃-gã,old woman
+255-233,waor1240,http://concepticon.clld.org/parameters/1619,dã-dõ-bo-kã õkiyæ̃-gã,granddaughter
+255-848,waor1240,http://concepticon.clld.org/parameters/1984,bæ,mother's brother
+255-86,waor1240,http://concepticon.clld.org/parameters/1985,bãapo,father's brother
+255-986,waor1240,http://concepticon.clld.org/parameters/171,ba-dã,mother's sister
+255-927,waor1240,http://concepticon.clld.org/parameters/170,bæ̃te,father's sister
+255-557,waor1240,http://concepticon.clld.org/parameters/1063,biyõdæ,nephew
+255-1039,waor1240,http://concepticon.clld.org/parameters/1642,biyõgã,niece
+255-247,waor1240,http://concepticon.clld.org/parameters/1643,bæ̃ke,cousin
+255-1043,waor1240,http://concepticon.clld.org/parameters/1643,bæ̃gĩ,cousin
+255-1032,waor1240,http://concepticon.clld.org/parameters/1669,bæ̃bæ̃-idi,ancestors
+255-568,waor1240,http://concepticon.clld.org/parameters/490,dã-dõ pæ̃ĩ-dã-di,descendants
+255-848,waor1240,http://concepticon.clld.org/parameters/2255,bæ,father-in-law (of a man)
+255-848,waor1240,http://concepticon.clld.org/parameters/2254,bæ,father-in-law (of a woman)
+255-927,waor1240,http://concepticon.clld.org/parameters/2256,bæ̃te,mother-in-law (of a man)
+255-927,waor1240,http://concepticon.clld.org/parameters/2257,bæ̃te,mother-in-law (of a woman)
+255-557,waor1240,http://concepticon.clld.org/parameters/2267,biyõdæ,son-in-law (of a man)
+255-557,waor1240,http://concepticon.clld.org/parameters/2266,biyõdæ,son-in-law (of a woman)
+255-1039,waor1240,http://concepticon.clld.org/parameters/2265,biyõgã,daughter-in-law (of a man)
+255-1039,waor1240,http://concepticon.clld.org/parameters/2264,biyõgã,daughter-in-law (of a woman)
+255-971,waor1240,http://concepticon.clld.org/parameters/237,(bæ̃po) dẽ pæpoga-kã,stepfather
+255-947,waor1240,http://concepticon.clld.org/parameters/236,(ba-dã) dẽ pæpoga-dã,stepmother
+255-142,waor1240,http://concepticon.clld.org/parameters/1059,wẽ-gã,stepson
+255-360,waor1240,http://concepticon.clld.org/parameters/1059,wẽ-yæ̃-gã,stepson
+255-211,waor1240,http://concepticon.clld.org/parameters/1149,dõwa-kã,orphan
+255-976,waor1240,http://concepticon.clld.org/parameters/1756,owæ̃po-ĩ-gã,widow
+255-976,waor1240,http://concepticon.clld.org/parameters/1981,owæ̃po-ĩ-gã,widower
+255-687,waor1240,http://concepticon.clld.org/parameters/1644,giidĩ-dã-di,"relatives, kinsmen"
+255-525,waor1240,http://concepticon.clld.org/parameters/194,dã-di wẽ-kabo,family
+255-877,waor1240,http://concepticon.clld.org/parameters/1209,bo-tõ,I
+255-604,waor1240,http://concepticon.clld.org/parameters/1215,bi-tõ,you (singular)
+255-583,waor1240,http://concepticon.clld.org/parameters/262,tõbẽ-gã,he/she/it
+255-238,waor1240,http://concepticon.clld.org/parameters/1131,bõ-dõ,we (inclusive)
+255-878,waor1240,http://concepticon.clld.org/parameters/1130,bõ-di-tõ,we (exclusive)
+255-1080,waor1240,http://concepticon.clld.org/parameters/1213,bĩ-di-tõ,you (plural)
+255-642,waor1240,http://concepticon.clld.org/parameters/817,tõbẽ-dã-di,they
+255-556,waor1240,http://concepticon.clld.org/parameters/619,kæ̃-dĩ-gã,animal
+255-292,waor1240,http://concepticon.clld.org/parameters/619,babæ-kã,animal
+255-835,waor1240,http://concepticon.clld.org/parameters/2261,õgĩyæ̃,male (adj)
+255-81,waor1240,http://concepticon.clld.org/parameters/2262,õkiyæ̃,female (adj)
+255-1083,waor1240,http://concepticon.clld.org/parameters/631,kæ̃-dĩ-dã-di,livestock
+255-118,waor1240,http://concepticon.clld.org/parameters/649,bãkadẽ,pasture
+255-955,waor1240,http://concepticon.clld.org/parameters/263,dẽ aa-kã,herdsman
+255-662,waor1240,http://concepticon.clld.org/parameters/1153,[wagada]-idi,cattle (bovine)
+255-782,waor1240,http://concepticon.clld.org/parameters/1008,[wagada] õgĩyæ̃,bull
+255-782,waor1240,http://concepticon.clld.org/parameters/1169,[wagada] õgĩyæ̃,ox
+255-814,waor1240,http://concepticon.clld.org/parameters/1007,[wagada],cow
+255-464,waor1240,http://concepticon.clld.org/parameters/1989,[wagada] wẽ,calf
+255-445,waor1240,http://concepticon.clld.org/parameters/1331,kipi,sheep
+255-616,waor1240,http://concepticon.clld.org/parameters/1344,kipi õgĩyæ̃,ram
+255-744,waor1240,http://concepticon.clld.org/parameters/1345,kipi õkiyæ̃,ewe
+255-179,waor1240,http://concepticon.clld.org/parameters/820,kipi wẽ,lamb
+255-302,waor1240,http://concepticon.clld.org/parameters/1348,odæ̃ wæ̃gãdã õgĩyæ̃,boar
+255-290,waor1240,http://concepticon.clld.org/parameters/1351,odæ̃ wæ̃gãdã õkiyæ̃,sow (2)
+255-202,waor1240,http://concepticon.clld.org/parameters/1337,odæ̃ wæ̃gãdã wẽ,pig
+255-130,waor1240,http://concepticon.clld.org/parameters/1502,bedego (õkiyæ̃),goat
+255-1018,waor1240,http://concepticon.clld.org/parameters/264,bedego õgĩyæ̃,he-goat
+255-10,waor1240,http://concepticon.clld.org/parameters/1972,bedego wẽ,kid
+255-174,waor1240,http://concepticon.clld.org/parameters/615,[kabayo],horse (equine)
+255-603,waor1240,http://concepticon.clld.org/parameters/936,[kabayo] wæ̃po-gade,stallion
+255-92,waor1240,http://concepticon.clld.org/parameters/938,[kabayo] õkiyæ̃,mare
+255-1089,waor1240,http://concepticon.clld.org/parameters/1647,[kabayo] wẽ,"foal, colt"
+255-762,waor1240,http://concepticon.clld.org/parameters/1647,[bodo] wẽ,"foal, colt"
+255-760,waor1240,http://concepticon.clld.org/parameters/1862,[bodo],"ass, donkey"
+255-975,waor1240,http://concepticon.clld.org/parameters/890,[bõoda],mule
+255-204,waor1240,http://concepticon.clld.org/parameters/265,õõbã ẽa-dã-di,fowl
+255-754,waor1240,http://concepticon.clld.org/parameters/1511,[tawadiya] wæ̃po-gade,"cock, rooster"
+255-1059,waor1240,http://concepticon.clld.org/parameters/1514,[tawadiya] wæ̃bõ-(dã),hen
+255-472,waor1240,http://concepticon.clld.org/parameters/1318,[tawadiya],chicken
+255-1074,waor1240,http://concepticon.clld.org/parameters/1187,[ganto],goose
+255-386,waor1240,http://concepticon.clld.org/parameters/1360,abadæka,duck
+255-6,waor1240,http://concepticon.clld.org/parameters/539,õoyæ̃,nest
+255-671,waor1240,http://concepticon.clld.org/parameters/937,ayabõ,bird
+255-454,waor1240,http://concepticon.clld.org/parameters/758,dãwæ̃ĩya,heron
+255-416,waor1240,http://concepticon.clld.org/parameters/307,kæ̃-gĩ-wæ̃,hawk
+255-264,waor1240,http://concepticon.clld.org/parameters/1185,gapatai,vulture
+255-134,waor1240,http://concepticon.clld.org/parameters/1793,toõdæ,bat
+255-266,waor1240,http://concepticon.clld.org/parameters/882,kawĩya,parrot
+255-944,waor1240,http://concepticon.clld.org/parameters/1853,ekebõ,dove
+255-426,waor1240,http://concepticon.clld.org/parameters/735,pawæ̃ka,owl
+255-29,waor1240,http://concepticon.clld.org/parameters/2009,gĩta,dog
+255-342,waor1240,http://concepticon.clld.org/parameters/1136,toke,rabbit
+255-31,waor1240,http://concepticon.clld.org/parameters/1208,kede,cat
+255-565,waor1240,http://concepticon.clld.org/parameters/309,kõgãye,opossum
+255-367,waor1240,http://concepticon.clld.org/parameters/2139,wegowæ̃,"mouse, rat"
+255-670,waor1240,http://concepticon.clld.org/parameters/227,gæyæ,fish
+255-225,waor1240,http://concepticon.clld.org/parameters/213,õdõ-dĩbõ,fin (dorsal)
+255-147,waor1240,http://concepticon.clld.org/parameters/266,tõbẽ-tagæ̃,fishscale
+255-156,waor1240,http://concepticon.clld.org/parameters/598,tiwæ̃-kade,shell
+255-168,waor1240,http://concepticon.clld.org/parameters/1479,gæyæ-keo,"porpoise, dolphin"
+255-969,waor1240,http://concepticon.clld.org/parameters/1910,boyotai,stingray
+255-244,waor1240,http://concepticon.clld.org/parameters/1013,pogõ,freshwater eel
+255-1069,waor1240,http://concepticon.clld.org/parameters/522,babæ gĩta,wolf
+255-908,waor1240,http://concepticon.clld.org/parameters/1386,[deõdõ],lion
+255-571,waor1240,http://concepticon.clld.org/parameters/1820,[oto],bear
+255-882,waor1240,http://concepticon.clld.org/parameters/1936,kowãye,deer
+255-867,waor1240,http://concepticon.clld.org/parameters/1350,gatã,monkey
+255-555,waor1240,http://concepticon.clld.org/parameters/1290,[edepãte],elephant
+255-158,waor1240,http://concepticon.clld.org/parameters/1871,[cãbeyo],camel
+255-857,waor1240,http://concepticon.clld.org/parameters/310,kæ̃pæ,louse
+255-902,waor1240,http://concepticon.clld.org/parameters/267,kæ̃pæ ĩkĩbo,nit (louse egg)
+255-968,waor1240,http://concepticon.clld.org/parameters/232,gĩta kæ̃pæ,flea
+255-293,waor1240,http://concepticon.clld.org/parameters/1974,kebata,centipede
+255-595,waor1240,http://concepticon.clld.org/parameters/1538,ebẽye,scorpion
+255-122,waor1240,http://concepticon.clld.org/parameters/1575,yæ̃kata,cockroach
+255-52,waor1240,http://concepticon.clld.org/parameters/587,bodæ,ant
+255-627,waor1240,http://concepticon.clld.org/parameters/843,bokaya,spider
+255-498,waor1240,http://concepticon.clld.org/parameters/1065,bokaya-bẽ,spider web
+255-212,waor1240,http://concepticon.clld.org/parameters/665,gẽyĩ dẽ bã-dã-di,bee
+255-19,waor1240,http://concepticon.clld.org/parameters/1931,gẽyĩ-ka,beeswax
+255-570,waor1240,http://concepticon.clld.org/parameters/88,gẽyĩ dã-di bã-ĩ-kõ,beehive
+255-668,waor1240,http://concepticon.clld.org/parameters/1517,bĩkaye,wasp
+255-813,waor1240,http://concepticon.clld.org/parameters/1504,gobõbõ,fly
+255-719,waor1240,http://concepticon.clld.org/parameters/95,awæ̃kagõ,"sandfly (midge), gnat"
+255-369,waor1240,http://concepticon.clld.org/parameters/1509,giye,mosquito
+255-796,waor1240,http://concepticon.clld.org/parameters/1219,ayagõ,worm
+255-1053,waor1240,http://concepticon.clld.org/parameters/730,tæ̃tæ,snake
+255-117,waor1240,http://concepticon.clld.org/parameters/206,dãwãdæ̃,firefly
+255-289,waor1240,http://concepticon.clld.org/parameters/1791,tegãtai,butterfly
+255-395,waor1240,http://concepticon.clld.org/parameters/607,gotoke,grasshopper
+255-156,waor1240,http://concepticon.clld.org/parameters/1543,tiwæ̃-kade,snail
+255-826,waor1240,http://concepticon.clld.org/parameters/503,tagada,frog
+255-1075,waor1240,http://concepticon.clld.org/parameters/632,ibake,lizard
+255-9,waor1240,http://concepticon.clld.org/parameters/1857,dõba,"crocodile, alligator"
+255-1063,waor1240,http://concepticon.clld.org/parameters/112,pakæ,turtle
+255-673,waor1240,http://concepticon.clld.org/parameters/1480,baõ,body
+255-686,waor1240,http://concepticon.clld.org/parameters/763,æ̃bõ-tai,"skin, hide"
+255-673,waor1240,http://concepticon.clld.org/parameters/2259,baõ,flesh
+255-531,waor1240,http://concepticon.clld.org/parameters/1040,o-ka-gĩ,hair (head)
+255-531,waor1240,http://concepticon.clld.org/parameters/189,o-ka-gĩ,body hair
+255-531,waor1240,http://concepticon.clld.org/parameters/36,o-ka-gĩ,pubic hair
+255-44,waor1240,http://concepticon.clld.org/parameters/576,bĩgĩ,dandruff
+255-356,waor1240,http://concepticon.clld.org/parameters/946,we-pæ̃,blood
+255-312,waor1240,http://concepticon.clld.org/parameters/525,we-pæ̃-bẽ,"vein, artery"
+255-103,waor1240,http://concepticon.clld.org/parameters/1394,babẽ,bone
+255-1025,waor1240,http://concepticon.clld.org/parameters/801,iya-pa,rib
+255-645,waor1240,http://concepticon.clld.org/parameters/1393,õdõ-bõka-wæ̃,horn
+255-759,waor1240,http://concepticon.clld.org/parameters/1220,õdõ-kai-bĩyæ̃,tail
+255-994,waor1240,http://concepticon.clld.org/parameters/1291,tækæ-yabæ,back
+255-885,waor1240,http://concepticon.clld.org/parameters/805,bayetoka,spine
+255-714,waor1240,http://concepticon.clld.org/parameters/1256,o-ka-bo,head
+255-529,waor1240,http://concepticon.clld.org/parameters/1604,biya-bõka,"side of head, temple"
+255-649,waor1240,http://concepticon.clld.org/parameters/1605,o-ka-ta,skull
+255-89,waor1240,http://concepticon.clld.org/parameters/1583,o-ka-i,brain
+255-381,waor1240,http://concepticon.clld.org/parameters/1560,awĩka,face
+255-828,waor1240,http://concepticon.clld.org/parameters/123,õdõ-ta-ka-debõ,forehead
+255-962,waor1240,http://concepticon.clld.org/parameters/798,õdõ-gadæ̃-pa (?),jaw
+255-183,waor1240,http://concepticon.clld.org/parameters/1730,õdõ-paka,cheek
+255-798,waor1240,http://concepticon.clld.org/parameters/1510,õdõ-gade (?),chin
+255-381,waor1240,http://concepticon.clld.org/parameters/1248,awĩka,eye
+255-1052,waor1240,http://concepticon.clld.org/parameters/1173,õdõ-ta-ka-debõ-gĩ,eyebrow
+255-229,waor1240,http://concepticon.clld.org/parameters/17,õdõ-ta-debõ,eyelid
+255-43,waor1240,http://concepticon.clld.org/parameters/1540,awĩka-gĩ,eyelash
+255-250,waor1240,http://concepticon.clld.org/parameters/1655,bobõ kæ,blink
+255-591,waor1240,http://concepticon.clld.org/parameters/1247,õdõ-bõka,ear
+255-271,waor1240,http://concepticon.clld.org/parameters/18,õdõ-bõka-tai,earlobe
+255-447,waor1240,http://concepticon.clld.org/parameters/32,õdõ-bõka-i,earwax
+255-949,waor1240,http://concepticon.clld.org/parameters/1221,õdõ-kado,nose
+255-849,waor1240,http://concepticon.clld.org/parameters/1178,gẽbã-yõbõ,nostril
+255-588,waor1240,http://concepticon.clld.org/parameters/208,koyo,mucus (nasal)
+255-777,waor1240,http://concepticon.clld.org/parameters/674,õdõ-de,mouth
+255-319,waor1240,http://concepticon.clld.org/parameters/73,ba-ga,beak
+255-1011,waor1240,http://concepticon.clld.org/parameters/478,õdõ-de-tai,lip
+255-684,waor1240,http://concepticon.clld.org/parameters/1205,õdõ-gẽdẽwa,tongue
+255-319,waor1240,http://concepticon.clld.org/parameters/1380,ba-ga,tooth
+255-716,waor1240,http://concepticon.clld.org/parameters/139,ba-ga toka-ya,gums
+255-587,waor1240,http://concepticon.clld.org/parameters/1049,ẽkĩ-bo-ga (?),molartooth
+255-859,waor1240,http://concepticon.clld.org/parameters/1333,õdõ-bẽka,neck
+255-859,waor1240,http://concepticon.clld.org/parameters/1347,õdõ-bẽka,nape of neck
+255-307,waor1240,http://concepticon.clld.org/parameters/1346,õdõ-gadæ̃,throat
+255-778,waor1240,http://concepticon.clld.org/parameters/1482,õdõ-dãkapæ̃,shoulder
+255-398,waor1240,http://concepticon.clld.org/parameters/172,æ̃we-pa,shoulderblade
+255-4,waor1240,http://concepticon.clld.org/parameters/1994,õdõ-tika-pa,collarbone
+255-638,waor1240,http://concepticon.clld.org/parameters/1673,õdõ-bæ̃,arm
+255-697,waor1240,http://concepticon.clld.org/parameters/1886,õdõ-ĩdẽ-bæ̃,armpit
+255-74,waor1240,http://concepticon.clld.org/parameters/981,õdõ-kayæ̃-bæ̃,elbow
+255-285,waor1240,http://concepticon.clld.org/parameters/799,õdõ-kai-po,wrist
+255-127,waor1240,http://concepticon.clld.org/parameters/1277,õdõ-po,hand
+255-784,waor1240,http://concepticon.clld.org/parameters/1183,õdõ-dẽ-po,palm of hand
+255-682,waor1240,http://concepticon.clld.org/parameters/1303,õdõ-gõ-po,finger
+255-435,waor1240,http://concepticon.clld.org/parameters/1781,awæ̃payebo,thumb
+255-681,waor1240,http://concepticon.clld.org/parameters/1258,õta,fingernail
+255-681,waor1240,http://concepticon.clld.org/parameters/72,õta,claw
+255-270,waor1240,http://concepticon.clld.org/parameters/1297,õdõ-ti,leg
+255-270,waor1240,http://concepticon.clld.org/parameters/800,õdõ-ti,thigh
+255-62,waor1240,http://concepticon.clld.org/parameters/498,õdõ-bẽde,calf of leg
+255-321,waor1240,http://concepticon.clld.org/parameters/1371,õdõ-kapo,knee
+255-373,waor1240,http://concepticon.clld.org/parameters/1301,õdõ-wa,foot
+255-494,waor1240,http://concepticon.clld.org/parameters/803,õdõ-ka-wa,ankle
+255-1061,waor1240,http://concepticon.clld.org/parameters/980,õdõ-ka-yæ̃-wa,heel
+255-373,waor1240,http://concepticon.clld.org/parameters/318,õdõ-wa,footprint
+255-123,waor1240,http://concepticon.clld.org/parameters/1389,õdõ-gõ-wa,toe
+255-638,waor1240,http://concepticon.clld.org/parameters/1257,õdõ-bæ̃,wing
+255-963,waor1240,http://concepticon.clld.org/parameters/1201,õõ-bã,feather
+255-846,waor1240,http://concepticon.clld.org/parameters/1592,õdõ-tawẽ,chest
+255-407,waor1240,http://concepticon.clld.org/parameters/1402,goõ-bæ̃,breast (of woman)
+255-407,waor1240,http://concepticon.clld.org/parameters/796,goõ-bæ̃,"nipple, teat"
+255-407,waor1240,http://concepticon.clld.org/parameters/154,goõ-bæ̃,udder
+255-1057,waor1240,http://concepticon.clld.org/parameters/1223,bĩbõ,heart
+255-98,waor1240,http://concepticon.clld.org/parameters/688,wĩdõta,lung
+255-388,waor1240,http://concepticon.clld.org/parameters/1224,batæ̃,liver
+255-450,waor1240,http://concepticon.clld.org/parameters/489,wĩdõ-kabõ,kidney
+255-674,waor1240,http://concepticon.clld.org/parameters/1744,gĩdæ̃-bæ̃,spleen
+255-593,waor1240,http://concepticon.clld.org/parameters/819,yãdeka,stomach
+255-667,waor1240,http://concepticon.clld.org/parameters/1991,tækæ-bẽ-gõ,"intestines, guts"
+255-13,waor1240,http://concepticon.clld.org/parameters/1681,õdõ-kade-yæ̃,waist
+255-979,waor1240,http://concepticon.clld.org/parameters/1745,õdõ-kabõ,hip
+255-823,waor1240,http://concepticon.clld.org/parameters/834,õdõ-bodẽ,buttocks
+255-420,waor1240,http://concepticon.clld.org/parameters/804,wẽ-yæ̃-gã-koo,womb
+255-836,waor1240,http://concepticon.clld.org/parameters/797,õ-gæ̃-ka,testicle
+255-189,waor1240,http://concepticon.clld.org/parameters/1222,õ-gæ̃,penis
+255-28,waor1240,http://concepticon.clld.org/parameters/1407,gẽbã,"breathe, breath"
+255-47,waor1240,http://concepticon.clld.org/parameters/1028,æ̃ æ̃-de,"yawn, gape"
+255-945,waor1240,http://concepticon.clld.org/parameters/162,ogæ̃ka,hiccough
+255-153,waor1240,http://concepticon.clld.org/parameters/879,tõ tõ ã,cough
+255-601,waor1240,http://concepticon.clld.org/parameters/1621,gĩ,sneeze
+255-505,waor1240,http://concepticon.clld.org/parameters/126,owæ̃,perspire
+255-833,waor1240,http://concepticon.clld.org/parameters/1440,towæ tãdõ,spit
+255-2,waor1240,http://concepticon.clld.org/parameters/1278,awæ̃ wẽ,vomit
+255-333,waor1240,http://concepticon.clld.org/parameters/1403,pokæ̃,bite
+255-77,waor1240,http://concepticon.clld.org/parameters/319,gædæ be,lick
+255-912,waor1240,http://concepticon.clld.org/parameters/268,pe tæ̃ pe tæ̃ wææ̃,dribble
+255-502,waor1240,http://concepticon.clld.org/parameters/1585,bõ,sleep
+255-1020,waor1240,http://concepticon.clld.org/parameters/1983,ãkado,snore
+255-129,waor1240,http://concepticon.clld.org/parameters/1920,wĩĩ-bõ,dream
+255-384,waor1240,http://concepticon.clld.org/parameters/1602,yãdi õbæ̃-bõ,wake up
+255-578,waor1240,http://concepticon.clld.org/parameters/592,æ-pæ̃ õ,urinate
+255-693,waor1240,http://concepticon.clld.org/parameters/676,goĩ bẽ,defecate
+255-1066,waor1240,http://concepticon.clld.org/parameters/1785,ado-dẽ bõ,have sexual intercourse
+255-397,waor1240,http://concepticon.clld.org/parameters/52,do do wãa,shiver
+255-984,waor1240,http://concepticon.clld.org/parameters/138,æ-pæ̃ ãa,bathe
+255-861,waor1240,http://concepticon.clld.org/parameters/1152,tapæ̃i,beget (of father)
+255-54,waor1240,http://concepticon.clld.org/parameters/1090,ẽ-ya,born (to be)
+255-553,waor1240,http://concepticon.clld.org/parameters/1123,gædẽ-ba-dã,pregnant
+255-586,waor1240,http://concepticon.clld.org/parameters/1087,ẽ-dẽ-te ba,conceive
+255-577,waor1240,http://concepticon.clld.org/parameters/1422,kẽwẽ,"live, living, life"
+255-611,waor1240,http://concepticon.clld.org/parameters/1494,æ̃bæ̃-wo wæ̃,"die, dead"
+255-354,waor1240,http://concepticon.clld.org/parameters/1904,be-kado-te wæ̃,drowned
+255-920,waor1240,http://concepticon.clld.org/parameters/1417,wæ̃-dõ,kill
+255-176,waor1240,http://concepticon.clld.org/parameters/767,baõ ĩ-dĩ wĩtæ yõbæ̃,corpse
+255-422,waor1240,http://concepticon.clld.org/parameters/1719,da-ga wẽ,bury (the dead)
+255-145,waor1240,http://concepticon.clld.org/parameters/1773,wodi-do,"grave, tomb"
+255-46,waor1240,http://concepticon.clld.org/parameters/785,tæ̃ĩ pĩgæ̃-te,"strong, mighty, powerful"
+255-66,waor1240,http://concepticon.clld.org/parameters/1601,akĩ-ĩ,weak
+255-524,waor1240,http://concepticon.clld.org/parameters/1364,wa ĩ,"well, health"
+255-221,waor1240,http://concepticon.clld.org/parameters/1847,wẽdæ wẽdæ ĩ,"sick, sickness"
+255-430,waor1240,http://concepticon.clld.org/parameters/1534,daeka-wo,fever
+255-959,waor1240,http://concepticon.clld.org/parameters/1957,wæ̃kã-bõ yæ̃dæ̃-gade yadĩ-bõ,goiter
+255-588,waor1240,http://concepticon.clld.org/parameters/102,koyo,cold (catarrh)
+255-543,waor1240,http://concepticon.clld.org/parameters/1109,ẽõ kæ̃-ĩ-yõbõ,"wound, sore"
+255-683,waor1240,http://concepticon.clld.org/parameters/1148,wẽkata baĩ,bruise
+255-609,waor1240,http://concepticon.clld.org/parameters/1903,pæ̃kæ bẽ,swelling
+255-701,waor1240,http://concepticon.clld.org/parameters/148,õõ-ga-te,itch
+255-951,waor1240,http://concepticon.clld.org/parameters/1584,gidæ̃ æ̃-yõbõ,blister
+255-1036,waor1240,http://concepticon.clld.org/parameters/793,dã-tai,boil (noun)
+255-503,waor1240,http://concepticon.clld.org/parameters/1808,ãĩ,pus
+255-559,waor1240,http://concepticon.clld.org/parameters/497,wẽ-yæ̃-tai,scar
+255-336,waor1240,http://concepticon.clld.org/parameters/597,[dotodo],physician
+255-634,waor1240,http://concepticon.clld.org/parameters/1372,be-ĩ-bõ,"medicine, drug"
+255-335,waor1240,http://concepticon.clld.org/parameters/655,õõ-bæ̃,poison
+255-28,waor1240,http://concepticon.clld.org/parameters/168,gẽbã,rest
+255-203,waor1240,http://concepticon.clld.org/parameters/1564,wæ̃tæ-ye,lazy
+255-235,waor1240,http://concepticon.clld.org/parameters/1125,oka-gĩ õbæ-ka-kã,bald
+255-993,waor1240,http://concepticon.clld.org/parameters/320,tĩgõdõ tĩgõdõ go-kã,lame
+255-790,waor1240,http://concepticon.clld.org/parameters/996,babeta-bõka,deaf
+255-624,waor1240,http://concepticon.clld.org/parameters/1666,babeta-de,mute
+255-745,waor1240,http://concepticon.clld.org/parameters/1653,babeta-bõ,blind
+255-842,waor1240,http://concepticon.clld.org/parameters/590,õba-a,"naked, bare"
+255-410,waor1240,http://concepticon.clld.org/parameters/1336,kæ̃,eat
+255-935,waor1240,http://concepticon.clld.org/parameters/256,kæ̃-gĩ,food
+255-296,waor1240,http://concepticon.clld.org/parameters/269,æ̃dõ-ĩ,cooked
+255-702,waor1240,http://concepticon.clld.org/parameters/1959,bĩ,raw
+255-489,waor1240,http://concepticon.clld.org/parameters/178,i-te,ripe
+255-725,waor1240,http://concepticon.clld.org/parameters/1958,wẽ-yæ̃,"green, unripe"
+255-325,waor1240,http://concepticon.clld.org/parameters/1728,yõbæ̃-ĩ,rotten
+255-911,waor1240,http://concepticon.clld.org/parameters/1401,be,drink
+255-477,waor1240,http://concepticon.clld.org/parameters/1533,dã-di ge æ̃-dẽ-dõ,hunger
+255-1026,waor1240,http://concepticon.clld.org/parameters/199,dã-di ge æ̃-dẽ-bãbo,famine
+255-343,waor1240,http://concepticon.clld.org/parameters/848,dã-di gæ̃wæ̃-dõ,thirst
+255-1045,waor1240,http://concepticon.clld.org/parameters/1421,wi õ,suck
+255-269,waor1240,http://concepticon.clld.org/parameters/321,kapo kapo kæ̃,chew
+255-180,waor1240,http://concepticon.clld.org/parameters/897,yoo bõgæ̃,swallow
+255-462,waor1240,http://concepticon.clld.org/parameters/129,goto gõgæ̃-bẽka,choke
+255-820,waor1240,http://concepticon.clld.org/parameters/1100,æ̃dõ,cook
+255-661,waor1240,http://concepticon.clld.org/parameters/792,(bãdã bãdã) ka,boil (vb)
+255-380,waor1240,http://concepticon.clld.org/parameters/2146,awẽdẽ,"roast, fry"
+255-966,waor1240,http://concepticon.clld.org/parameters/183,awẽdẽ-te,bake
+255-1056,waor1240,http://concepticon.clld.org/parameters/1143,awẽdẽ-ka,oven
+255-286,waor1240,http://concepticon.clld.org/parameters/1462,kæ̃-gæ̃,"pot, cooking vessel"
+255-286,waor1240,http://concepticon.clld.org/parameters/854,kæ̃-gæ̃,kettle
+255-286,waor1240,http://concepticon.clld.org/parameters/31,kæ̃-gæ̃,pan
+255-743,waor1240,http://concepticon.clld.org/parameters/481,[podato],dish
+255-149,waor1240,http://concepticon.clld.org/parameters/480,kæ̃-gĩ-ta,plate
+255-579,waor1240,http://concepticon.clld.org/parameters/1530,owæ-ta,bowl
+255-615,waor1240,http://concepticon.clld.org/parameters/270,kada-bo,"pitcher, jug"
+255-579,waor1240,http://concepticon.clld.org/parameters/476,owæ-ta,"cup, drinking vessel"
+255-213,waor1240,http://concepticon.clld.org/parameters/271,giyã-ta,saucer
+255-598,waor1240,http://concepticon.clld.org/parameters/1378,wiga-ta,spoon
+255-452,waor1240,http://concepticon.clld.org/parameters/1352,bæ̃yetæ̃,knife (2)
+255-952,waor1240,http://concepticon.clld.org/parameters/1302,tĩ-po-dæ̃,fork (2)
+255-655,waor1240,http://concepticon.clld.org/parameters/272,tæ̃ĩ õgõ-te æ̃æ̃-gĩ-gõ,tongs
+255-935,waor1240,http://concepticon.clld.org/parameters/1526,kæ̃-gĩ,meal (a)
+255-856,waor1240,http://concepticon.clld.org/parameters/1322,tãdo dã-di ba-õdæ be-kĩ,breakfast
+255-1000,waor1240,http://concepticon.clld.org/parameters/768,tækæ-bækã kæ̃-gĩ,lunch
+255-935,waor1240,http://concepticon.clld.org/parameters/1833,kæ̃-gĩ,dinner
+255-208,waor1240,http://concepticon.clld.org/parameters/1833,gãwadekæ̃ kæ̃-gĩ,supper
+255-1058,waor1240,http://concepticon.clld.org/parameters/275,æ̃æ̃ yaa,peel
+255-567,waor1240,http://concepticon.clld.org/parameters/86,ipagæ kæ,"sieve, strain"
+255-910,waor1240,http://concepticon.clld.org/parameters/1767,wĩya,scrape
+255-126,waor1240,http://concepticon.clld.org/parameters/2017,wiya kæ,"stir, mix"
+255-301,waor1240,http://concepticon.clld.org/parameters/2017,wẽpo kæ,"stir, mix"
+255-942,waor1240,http://concepticon.clld.org/parameters/1368,[pãõ],bread
+255-535,waor1240,http://concepticon.clld.org/parameters/273,dogo-bæ̃,dough
+255-730,waor1240,http://concepticon.clld.org/parameters/274,da-po da-po kæ,knead
+255-215,waor1240,http://concepticon.clld.org/parameters/1594,[adĩda],"meal, flour"
+255-417,waor1240,http://concepticon.clld.org/parameters/1033,ao bæ̃,"crush, grind"
+255-234,waor1240,http://concepticon.clld.org/parameters/636,ao bæ̃-ĩ-ka,mill
+255-231,waor1240,http://concepticon.clld.org/parameters/224,ẽbõ-ka,mortar (2)
+255-234,waor1240,http://concepticon.clld.org/parameters/225,ao bæ̃-ĩ-ka,pestle
+255-673,waor1240,http://concepticon.clld.org/parameters/634,baõ,meat
+255-941,waor1240,http://concepticon.clld.org/parameters/1547,tõbẽ-bæ̃,"soup, broth"
+255-361,waor1240,http://concepticon.clld.org/parameters/832,[podoto],bean
+255-721,waor1240,http://concepticon.clld.org/parameters/593,[papa],potato
+255-620,waor1240,http://concepticon.clld.org/parameters/1507,tõbẽ-ka,fruit
+255-1054,waor1240,http://concepticon.clld.org/parameters/1966,ado-gõ-ka-ke,bunch
+255-991,waor1240,http://concepticon.clld.org/parameters/322,[iigo],fig
+255-620,waor1240,http://concepticon.clld.org/parameters/191,tõbẽ-ka,nut
+255-712,waor1240,http://concepticon.clld.org/parameters/1154,[odibo],olive
+255-1071,waor1240,http://concepticon.clld.org/parameters/1484,ogĩ-ye-pæ̃,oil
+255-585,waor1240,http://concepticon.clld.org/parameters/323,ogĩ-ye,"grease, fat"
+255-847,waor1240,http://concepticon.clld.org/parameters/1274,[kati],salt
+255-421,waor1240,http://concepticon.clld.org/parameters/919,gĩbõ,chili pepper
+255-998,waor1240,http://concepticon.clld.org/parameters/942,gẽyĩ,honey
+255-57,waor1240,http://concepticon.clld.org/parameters/862,owãdoka,sugar
+255-407,waor1240,http://concepticon.clld.org/parameters/635,goõ-bæ̃,milk (noun)
+255-1016,waor1240,http://concepticon.clld.org/parameters/93,goõ-bæ̃ ã-te wæ̃æ̃ yo-pæ̃,milk (vb)
+255-305,waor1240,http://concepticon.clld.org/parameters/1569,[keto],cheese
+255-756,waor1240,http://concepticon.clld.org/parameters/1245,ogĩye,butter
+255-443,waor1240,http://concepticon.clld.org/parameters/731,be-kĩ,"beverage, drink"
+255-654,waor1240,http://concepticon.clld.org/parameters/1524,yowe-pæ̃,wine
+255-954,waor1240,http://concepticon.clld.org/parameters/1639,tĩ dã-bæ̃,beer
+255-954,waor1240,http://concepticon.clld.org/parameters/404,tĩ dã-bæ̃,fermented drink
+255-476,waor1240,http://concepticon.clld.org/parameters/744,ĩkĩ-bo,egg
+255-281,waor1240,http://concepticon.clld.org/parameters/1556,ãgaka,egg yolk
+255-626,waor1240,http://concepticon.clld.org/parameters/158,wẽ-ya,put on (clothes)
+255-409,waor1240,http://concepticon.clld.org/parameters/1895,ba-dõ-ĩ-koo,"clothing, clothes"
+255-219,waor1240,http://concepticon.clld.org/parameters/881,weo-koo dẽ ba-dõ-gã,tailor
+255-146,waor1240,http://concepticon.clld.org/parameters/1616,weo-koo,cloth
+255-864,waor1240,http://concepticon.clld.org/parameters/964,kipi oka-gĩ,wool
+255-748,waor1240,http://concepticon.clld.org/parameters/1850,dayõ,cotton
+255-686,waor1240,http://concepticon.clld.org/parameters/580,æ̃bõ-tai,fur
+255-686,waor1240,http://concepticon.clld.org/parameters/629,æ̃bõ-tai,leather
+255-599,waor1240,http://concepticon.clld.org/parameters/121,da,spin
+255-1042,waor1240,http://concepticon.clld.org/parameters/277,da-kĩ-ka,spindle
+255-709,waor1240,http://concepticon.clld.org/parameters/133,tĩ,weave
+255-635,waor1240,http://concepticon.clld.org/parameters/1787,tĩ-gĩ-wæ̃,loom
+255-757,waor1240,http://concepticon.clld.org/parameters/1457,bẽ tadõbõ,sew
+255-548,waor1240,http://concepticon.clld.org/parameters/1382,daa-gõ,needle
+255-801,waor1240,http://concepticon.clld.org/parameters/278,tika bãdõ-ĩ-ka,awl
+255-71,waor1240,http://concepticon.clld.org/parameters/1161,kõ-bẽ-ka-gĩ,thread
+255-937,waor1240,http://concepticon.clld.org/parameters/157,gi-pæ̃-dẽ,dye
+255-272,waor1240,http://concepticon.clld.org/parameters/326,ya-a-koo,cloak
+255-272,waor1240,http://concepticon.clld.org/parameters/327,ya-a-koo,poncho
+255-17,waor1240,http://concepticon.clld.org/parameters/474,doyæ̃-koo,woman's dress
+255-272,waor1240,http://concepticon.clld.org/parameters/603,ya-a-koo,coat
+255-735,waor1240,http://concepticon.clld.org/parameters/1622,õdõ-dãkapæ̃-koo,shirt
+255-640,waor1240,http://concepticon.clld.org/parameters/1600,õdõ-kadiyæ̃-koo,skirt
+255-547,waor1240,http://concepticon.clld.org/parameters/809,õdõ-ti-koo,trousers
+255-932,waor1240,http://concepticon.clld.org/parameters/329,awæ̃ka-ta,"stocking, sock"
+255-932,waor1240,http://concepticon.clld.org/parameters/1381,awæ̃ka-ta,shoe
+255-932,waor1240,http://concepticon.clld.org/parameters/585,awæ̃ka-ta,boot
+255-499,waor1240,http://concepticon.clld.org/parameters/875,awæ̃ka-ta ã-te dẽ ba-dõ-gã,"shoemaker, cobbler"
+255-1027,waor1240,http://concepticon.clld.org/parameters/2130,o-ka-bo-ga-ta,"hat, cap"
+255-773,waor1240,http://concepticon.clld.org/parameters/772,pa-kadeyæ̃-ta,"belt, girdle"
+255-232,waor1240,http://concepticon.clld.org/parameters/1851,wẽtæ æ̃æ̃-ĩ-kade,pocket
+255-470,waor1240,http://concepticon.clld.org/parameters/757,tape-bõ,button
+255-926,waor1240,http://concepticon.clld.org/parameters/64,da ta-dõ-wa-ĩ,pin
+255-349,waor1240,http://concepticon.clld.org/parameters/917,wa-bõ,"ornament, adornment"
+255-459,waor1240,http://concepticon.clld.org/parameters/1374,õdõ-po tĩ-po-ĩ,ring (for finger)
+255-829,waor1240,http://concepticon.clld.org/parameters/1754,õdõ-kapo-bẽ,bracelet
+255-349,waor1240,http://concepticon.clld.org/parameters/1961,wa-bõ,necklace
+255-349,waor1240,http://concepticon.clld.org/parameters/1860,wa-bõ,bead
+255-1060,waor1240,http://concepticon.clld.org/parameters/770,dika-gõ,earring
+255-144,waor1240,http://concepticon.clld.org/parameters/330,pogã-ta,"headband, headdress"
+255-371,waor1240,http://concepticon.clld.org/parameters/1021,dæ dæ ka-a-kĩ,towel
+255-821,waor1240,http://concepticon.clld.org/parameters/1475,kæ̃wi-gade,comb
+255-896,waor1240,http://concepticon.clld.org/parameters/333,ke ke kæ,braid
+255-128,waor1240,http://concepticon.clld.org/parameters/151,oka-gĩ to-de-kĩ,razor
+255-148,waor1240,http://concepticon.clld.org/parameters/1926,õdi-pæ-kĩ-bæ̃,ointment
+255-648,waor1240,http://concepticon.clld.org/parameters/788,[aabõõ] weo-koo yabõ-gĩ,soap
+255-206,waor1240,http://concepticon.clld.org/parameters/1171,kowæ-ka,mirror
+255-577,waor1240,http://concepticon.clld.org/parameters/1099,kẽwẽ,"dwell, live"
+255-605,waor1240,http://concepticon.clld.org/parameters/1252,õ-kõ,house
+255-135,waor1240,http://concepticon.clld.org/parameters/1678,õ-kõ-tai,hut
+255-135,waor1240,http://concepticon.clld.org/parameters/403,õ-kõ-tai,garden-house
+255-845,waor1240,http://concepticon.clld.org/parameters/1316,[kadopa],tent
+255-408,waor1240,http://concepticon.clld.org/parameters/736,õ-kõ boyæ̃,"yard, court"
+255-1070,waor1240,http://concepticon.clld.org/parameters/334,kæ̃-gĩ õ-kõ,cookhouse
+255-259,waor1240,http://concepticon.clld.org/parameters/335,apæ̃-de-ĩ-kõ,meeting house
+255-3,waor1240,http://concepticon.clld.org/parameters/1450,gii-kõ,room
+255-581,waor1240,http://concepticon.clld.org/parameters/1567,o-debõ,"door, gate"
+255-209,waor1240,http://concepticon.clld.org/parameters/80,o-debõ wo kæ-de-kĩ,"doorpost, jamb"
+255-558,waor1240,http://concepticon.clld.org/parameters/1596,[yabe],lock (noun)
+255-214,waor1240,http://concepticon.clld.org/parameters/1596,[kãtado],lock (noun)
+255-136,waor1240,http://concepticon.clld.org/parameters/1012,o-debõ wo-dõ-gĩ,"latch, door-bolt"
+255-558,waor1240,http://concepticon.clld.org/parameters/1472,[yabe],key
+255-79,waor1240,http://concepticon.clld.org/parameters/1375,a-kĩ-piti,window
+255-551,waor1240,http://concepticon.clld.org/parameters/1632,tepa-ta,floor
+255-201,waor1240,http://concepticon.clld.org/parameters/933,wææ kæ-ĩ,wall
+255-475,waor1240,http://concepticon.clld.org/parameters/185,gõ-ga-pãbo,fireplace
+255-917,waor1240,http://concepticon.clld.org/parameters/859,gõ-ga,stove
+255-226,waor1240,http://concepticon.clld.org/parameters/1305,tẽbã go-kĩ-piti,chimney
+255-419,waor1240,http://concepticon.clld.org/parameters/1464,kõ kæ-wa-kĩ,ladder
+255-218,waor1240,http://concepticon.clld.org/parameters/1663,bõ-ĩ-bo,bed
+255-1014,waor1240,http://concepticon.clld.org/parameters/1044,o-ka-bo be podõ-ĩ,pillow
+255-815,waor1240,http://concepticon.clld.org/parameters/806,bõ-ĩ-koo,blanket
+255-1088,waor1240,http://concepticon.clld.org/parameters/1476,tæ̃æ̃ kõta-ĩ,chair
+255-520,waor1240,http://concepticon.clld.org/parameters/1775,kæ̃-ĩ-pa,table
+255-1023,waor1240,http://concepticon.clld.org/parameters/2131,tĩ wo-dõ-do-ĩ-kade,"lamp, torch"
+255-659,waor1240,http://concepticon.clld.org/parameters/1273,[etopedẽbã],candle
+255-855,waor1240,http://concepticon.clld.org/parameters/745,a-wæ̃-pa wæ̃æ̃-dõ-bẽ-dæka-pa,shelf
+255-650,waor1240,http://concepticon.clld.org/parameters/205,æ-pæ̃ go-kĩ-pa,trough
+255-605,waor1240,http://concepticon.clld.org/parameters/769,õ-kõ,roof
+255-87,waor1240,http://concepticon.clld.org/parameters/279,õõ-ba-kõ,thatch
+255-492,waor1240,http://concepticon.clld.org/parameters/280,õ-kõ-bãka,ridgepole
+255-131,waor1240,http://concepticon.clld.org/parameters/829,õ-to-wæ̃,rafter
+255-26,waor1240,http://concepticon.clld.org/parameters/1132,õ-gõ-wæ̃,beam
+255-429,waor1240,http://concepticon.clld.org/parameters/281,a-wæ̃,"post, pole"
+255-755,waor1240,http://concepticon.clld.org/parameters/1227,a-wæ̃-pa,board
+255-1001,waor1240,http://concepticon.clld.org/parameters/877,dika-ka dẽ bæ̃-dõ-gã,mason
+255-441,waor1240,http://concepticon.clld.org/parameters/1006,dika-bõta,brick
+255-740,waor1240,http://concepticon.clld.org/parameters/1731,[tẽbẽto],mortar
+255-432,waor1240,http://concepticon.clld.org/parameters/901,dai-ke dã-di bæ̃-dõ-dĩ,adobe
+255-899,waor1240,http://concepticon.clld.org/parameters/979,gõdẽa dẽ kæ-kã,farmer
+255-240,waor1240,http://concepticon.clld.org/parameters/212,gõdẽa,field (for cultivation)
+255-379,waor1240,http://concepticon.clld.org/parameters/586,kẽwẽ-koo-dẽ,garden
+255-56,waor1240,http://concepticon.clld.org/parameters/1541,bãgæ̃-kæ bãgæ̃-kæ go,"cultivate, till"
+255-201,waor1240,http://concepticon.clld.org/parameters/1690,wææ kæ-ĩ,fence
+255-511,waor1240,http://concepticon.clld.org/parameters/2002,æ-pæ̃ go-kĩ,ditch
+255-56,waor1240,http://concepticon.clld.org/parameters/1921,bãgæ̃-kæ bãgæ̃-kæ go,plow
+255-366,waor1240,http://concepticon.clld.org/parameters/1794,bãgæ̃-kæ dã-di go-dõ,furrow
+255-866,waor1240,http://concepticon.clld.org/parameters/1418,æ̃æ̃ wo,dig
+255-167,waor1240,http://concepticon.clld.org/parameters/1176,õ-gipo-i wo-kĩ,spade
+255-167,waor1240,http://concepticon.clld.org/parameters/1901,õ-gipo-i wo-kĩ,shovel
+255-1004,waor1240,http://concepticon.clld.org/parameters/337,tĩpodæ̃,fork
+255-107,waor1240,http://concepticon.clld.org/parameters/338,epæ̃-gĩ,rake
+255-695,waor1240,http://concepticon.clld.org/parameters/748,kiya,sow
+255-439,waor1240,http://concepticon.clld.org/parameters/714,tõbẽ-bõ,seed
+255-75,waor1240,http://concepticon.clld.org/parameters/190,gæ,"mow, reap"
+255-506,waor1240,http://concepticon.clld.org/parameters/285,ye-ya,thresh
+255-58,waor1240,http://concepticon.clld.org/parameters/223,ye-ya kæ-yõbõ,threshing-floor
+255-685,waor1240,http://concepticon.clld.org/parameters/611,dã-di tĩ gæ-dĩ-koo,"crop, harvest"
+255-439,waor1240,http://concepticon.clld.org/parameters/605,tõbẽ-bõ,"grain (barley, oats etc)"
+255-364,waor1240,http://concepticon.clld.org/parameters/1077,todigo,wheat
+255-718,waor1240,http://concepticon.clld.org/parameters/60,[abẽdã],oats
+255-346,waor1240,http://concepticon.clld.org/parameters/506,kagĩ-gõ,"maize, corn"
+255-157,waor1240,http://concepticon.clld.org/parameters/926,[adoto],rice
+255-753,waor1240,http://concepticon.clld.org/parameters/606,gagĩbæ̃,grass
+255-182,waor1240,http://concepticon.clld.org/parameters/342,gagĩbæ̃ abĩbõ ĩ,hay
+255-1021,waor1240,http://concepticon.clld.org/parameters/653,awæ̃,plant (noun)
+255-925,waor1240,http://concepticon.clld.org/parameters/1486,bẽ,plant (vb)
+255-776,waor1240,http://concepticon.clld.org/parameters/670,gæyæ̃-bẽ,root
+255-224,waor1240,http://concepticon.clld.org/parameters/1531,a-wæ̃-dẽbæ̃,branch
+255-287,waor1240,http://concepticon.clld.org/parameters/628,õyabo,leaf
+255-871,waor1240,http://concepticon.clld.org/parameters/239,õgaĩ,flower
+255-429,waor1240,http://concepticon.clld.org/parameters/906,a-wæ̃,tree
+255-618,waor1240,http://concepticon.clld.org/parameters/343,õ-bẽ,vine
+255-1073,waor1240,http://concepticon.clld.org/parameters/974,okæ̃-ĩ,tobacco
+255-628,waor1240,http://concepticon.clld.org/parameters/1689,okæ̃-ĩ okæ̃,smoke (tobacco)
+255-837,waor1240,http://concepticon.clld.org/parameters/241,õdãka-do,tree stump
+255-528,waor1240,http://concepticon.clld.org/parameters/344,tõbẽ-wæ̃,tree trunk
+255-705,waor1240,http://concepticon.clld.org/parameters/409,yæ̃ke,forked branch
+255-487,waor1240,http://concepticon.clld.org/parameters/1204,õtapo,bark
+255-274,waor1240,http://concepticon.clld.org/parameters/345,a-wæ̃ tõbẽ-bæ̃,sap
+255-860,waor1240,http://concepticon.clld.org/parameters/1181,õõbã,palm tree
+255-82,waor1240,http://concepticon.clld.org/parameters/970,[koko],coconut
+255-1046,waor1240,http://concepticon.clld.org/parameters/1126,[dibõõ],citrus fruit
+255-664,waor1240,http://concepticon.clld.org/parameters/868,pæ̃æ̃dæ̃,banana tree
+255-694,waor1240,http://concepticon.clld.org/parameters/159,akagæ̃,sweet potato
+255-644,waor1240,http://concepticon.clld.org/parameters/410,kawãgõ,yam
+255-1048,waor1240,http://concepticon.clld.org/parameters/925,kæ̃-dæ̃,"tapioca, manioc, cassava"
+255-579,waor1240,http://concepticon.clld.org/parameters/411,owæ-ta,gourd
+255-185,waor1240,http://concepticon.clld.org/parameters/864,[tapayo],"pumpkin, squash"
+255-25,waor1240,http://concepticon.clld.org/parameters/1927,yõdæ̃,bamboo
+255-57,waor1240,http://concepticon.clld.org/parameters/146,owãdoka,sugar cane
+255-330,waor1240,http://concepticon.clld.org/parameters/348,kõpagõ,fish poison (root)
+255-607,waor1240,http://concepticon.clld.org/parameters/33,wæ̃to,nettle
+255-184,waor1240,http://concepticon.clld.org/parameters/641,dæ̃dæ̃tapæ̃,mushroom
+255-471,waor1240,http://concepticon.clld.org/parameters/813,kæ,"do, make"
+255-415,waor1240,http://concepticon.clld.org/parameters/984,[tadabako] kæ,work
+255-767,waor1240,http://concepticon.clld.org/parameters/2004,idæ̃bæ̃ kæ,bend
+255-806,waor1240,http://concepticon.clld.org/parameters/1470,dĩ kapo,fold
+255-493,waor1240,http://concepticon.clld.org/parameters/1917,yã kæ,"tie, bind"
+255-989,waor1240,http://concepticon.clld.org/parameters/352,yẽ kæ,untie
+255-406,waor1240,http://concepticon.clld.org/parameters/1627,yaẽbẽ-gõ,chain
+255-563,waor1240,http://concepticon.clld.org/parameters/1218,gægĩka-bẽ,"rope, cord"
+255-514,waor1240,http://concepticon.clld.org/parameters/760,õkabæ,knot (noun)
+255-96,waor1240,http://concepticon.clld.org/parameters/2133,tei tei pã,"strike (hit, beat)"
+255-643,waor1240,http://concepticon.clld.org/parameters/354,te te ã-po,pound with fist
+255-977,waor1240,http://concepticon.clld.org/parameters/1432,ẽõ to,cut
+255-897,waor1240,http://concepticon.clld.org/parameters/355,bæ̃ yi,cut down
+255-317,waor1240,http://concepticon.clld.org/parameters/155,yi,"chop, hew"
+255-852,waor1240,http://concepticon.clld.org/parameters/1434,yaẽbẽ ko,stab
+255-452,waor1240,http://concepticon.clld.org/parameters/1352,bæ̃yetæ̃,knife
+255-236,waor1240,http://concepticon.clld.org/parameters/356,wiga,"scissors, shears"
+255-228,waor1240,http://concepticon.clld.org/parameters/677,a-wæ̃-ka,ax
+255-242,waor1240,http://concepticon.clld.org/parameters/290,toka yika,adze
+255-731,waor1240,http://concepticon.clld.org/parameters/680,to-bæ̃,break
+255-275,waor1240,http://concepticon.clld.org/parameters/588,to-bæ̃-ĩ,broken
+255-193,waor1240,http://concepticon.clld.org/parameters/1437,ti-yæ̃-gõ,split
+255-692,waor1240,http://concepticon.clld.org/parameters/1735,wãdã yæ̃,tear
+255-460,waor1240,http://concepticon.clld.org/parameters/291,æ̃æ̃ ya,"flay, skin"
+255-874,waor1240,http://concepticon.clld.org/parameters/1449,wẽã go-dõ wẽã go-dõ kæ,"rub, wipe"
+255-192,waor1240,http://concepticon.clld.org/parameters/214,wẽã go-dõ,stretch
+255-923,waor1240,http://concepticon.clld.org/parameters/1455,wẽã põ-dõ,pull
+255-115,waor1240,http://concepticon.clld.org/parameters/38,gedæ̃ kæ,spread out
+255-348,waor1240,http://concepticon.clld.org/parameters/357,wo-kæ̃,hang up
+255-606,waor1240,http://concepticon.clld.org/parameters/1913,goto õgõ-te bõõ kæ,press
+255-839,waor1240,http://concepticon.clld.org/parameters/1414,bã-po-ga,"squeeze, wring"
+255-261,waor1240,http://concepticon.clld.org/parameters/1414,wæ yo-pæ̃,"squeeze, wring"
+255-314,waor1240,http://concepticon.clld.org/parameters/1487,pe yĩyæ̃,pour
+255-327,waor1240,http://concepticon.clld.org/parameters/1453,yabõ,wash
+255-696,waor1240,http://concepticon.clld.org/parameters/230,wadæ yẽbæ̃,sweep
+255-905,waor1240,http://concepticon.clld.org/parameters/245,õbæpo yẽbæ̃-ĩ,broom
+255-173,waor1240,http://concepticon.clld.org/parameters/1361,ba-dõ-gĩ,tool
+255-469,waor1240,http://concepticon.clld.org/parameters/1042,dẽ a-wæ̃ gĩ-yæ̃-gã,carpenter
+255-279,waor1240,http://concepticon.clld.org/parameters/1840,bæ̃-dõ,build
+255-1038,waor1240,http://concepticon.clld.org/parameters/1501,tika bãdõ,bore
+255-508,waor1240,http://concepticon.clld.org/parameters/46,to-dẽ,hollow out
+255-303,waor1240,http://concepticon.clld.org/parameters/1948,ẽõ pæ̃-ĩ,saw
+255-246,waor1240,http://concepticon.clld.org/parameters/1481,tĩ-ka-ĩ,hammer
+255-548,waor1240,http://concepticon.clld.org/parameters/502,daa-gõ,nail
+255-390,waor1240,http://concepticon.clld.org/parameters/1069,tee bæ-kĩ-bæ̃,glue
+255-1077,waor1240,http://concepticon.clld.org/parameters/1369,[oodo],gold
+255-484,waor1240,http://concepticon.clld.org/parameters/759,[podata],silver
+255-928,waor1240,http://concepticon.clld.org/parameters/621,yæẽbẽ-wæ̃,iron
+255-166,waor1240,http://concepticon.clld.org/parameters/359,dai dẽ bæ-kã,potter
+255-848,waor1240,http://concepticon.clld.org/parameters/289,bæ,mold (clay etc)
+255-322,waor1240,http://concepticon.clld.org/parameters/1399,dai,clay
+255-241,waor1240,http://concepticon.clld.org/parameters/604,a-woka-wæ̃-ta,glass
+255-110,waor1240,http://concepticon.clld.org/parameters/1729,ke o,"weave, plait"
+255-596,waor1240,http://concepticon.clld.org/parameters/1539,oto,basket
+255-1029,waor1240,http://concepticon.clld.org/parameters/293,digĩ-tai,netbag
+255-963,waor1240,http://concepticon.clld.org/parameters/1971,õõ-bã,fan (noun)
+255-237,waor1240,http://concepticon.clld.org/parameters/360,bæ bæ õbõ,fan (vb)
+255-805,waor1240,http://concepticon.clld.org/parameters/228,yewæ̃bõ,carve
+255-967,waor1240,http://concepticon.clld.org/parameters/914,dẽ dai bæ-kã,sculptor
+255-383,waor1240,http://concepticon.clld.org/parameters/1979,tæ̃ wĩ kæ-ĩ-ka,chisel
+255-965,waor1240,http://concepticon.clld.org/parameters/647,õdi pa-a-kĩ-bæ̃,paint (noun)
+255-822,waor1240,http://concepticon.clld.org/parameters/2001,õdi pa-a,paint (vb)
+255-12,waor1240,http://concepticon.clld.org/parameters/765,go,move
+255-900,waor1240,http://concepticon.clld.org/parameters/1588,dadi wẽdẽ,turn over
+255-766,waor1240,http://concepticon.clld.org/parameters/1445,dadi ẽbæ̃,turn around
+255-36,waor1240,http://concepticon.clld.org/parameters/1113,bõ pa,"wind, wrap"
+255-865,waor1240,http://concepticon.clld.org/parameters/827,pæ̃tæ pæ̃tæ go,roll
+255-843,waor1240,http://concepticon.clld.org/parameters/808,wæ̃æ̃-to-dõ,drop (vb)
+255-106,waor1240,http://concepticon.clld.org/parameters/430,daki daki õ,twist
+255-169,waor1240,http://concepticon.clld.org/parameters/568,æ̃,rise
+255-11,waor1240,http://concepticon.clld.org/parameters/568,æ̃-i,rise
+255-172,waor1240,http://concepticon.clld.org/parameters/501,æ̃-gõ kæ,"raise, lift"
+255-1082,waor1240,http://concepticon.clld.org/parameters/1280,tæ̃ wæ̃æ̃,fall
+255-340,waor1240,http://concepticon.clld.org/parameters/2253,dadi õpoi dadi õpoi wæ̃æ̃,drip
+255-350,waor1240,http://concepticon.clld.org/parameters/1456,wo æ̃-to-dõ,throw
+255-248,waor1240,http://concepticon.clld.org/parameters/702,bæi õkõ,catch (ball)
+255-617,waor1240,http://concepticon.clld.org/parameters/1909,wã-kæ wã-kæ kæ,shake
+255-956,waor1240,http://concepticon.clld.org/parameters/2003,go-pæ̃,flow
+255-819,waor1240,http://concepticon.clld.org/parameters/1088,goyæ gii,sink
+255-38,waor1240,http://concepticon.clld.org/parameters/1574,wo-ga-a go,float
+255-198,waor1240,http://concepticon.clld.org/parameters/1439,pãta,swim
+255-382,waor1240,http://concepticon.clld.org/parameters/119,ẽbã gii,dive
+255-541,waor1240,http://concepticon.clld.org/parameters/365,æ̃i-dãbæ̃ wæ̃æ̃,splash
+255-38,waor1240,http://concepticon.clld.org/parameters/787,wo-ga-a go,sail (vb)
+255-39,waor1240,http://concepticon.clld.org/parameters/1441,kæ-wo,fly (vb)
+255-67,waor1240,http://concepticon.clld.org/parameters/175,wo õõ,blow
+255-438,waor1240,http://concepticon.clld.org/parameters/96,ta-po ta-po go,"creep, crawl"
+255-320,waor1240,http://concepticon.clld.org/parameters/66,daa gi-kapo,kneel
+255-891,waor1240,http://concepticon.clld.org/parameters/296,bokæ wæ̃æ̃,crouch
+255-20,waor1240,http://concepticon.clld.org/parameters/1324,wẽã go wæ̃æ̃,"slide, slip"
+255-710,waor1240,http://concepticon.clld.org/parameters/1829,too go,"jump, leap"
+255-59,waor1240,http://concepticon.clld.org/parameters/1135,te tõ-wa,kick
+255-779,waor1240,http://concepticon.clld.org/parameters/1879,ã-wa,dance
+255-288,waor1240,http://concepticon.clld.org/parameters/1443,dao dao go,walk
+255-461,waor1240,http://concepticon.clld.org/parameters/366,tĩgõdõ go,limp
+255-140,waor1240,http://concepticon.clld.org/parameters/1519,pogodo go,run
+255-12,waor1240,http://concepticon.clld.org/parameters/695,go,go
+255-11,waor1240,http://concepticon.clld.org/parameters/705,æ̃-i,go up
+255-169,waor1240,http://concepticon.clld.org/parameters/1102,æ̃,climb
+255-11,waor1240,http://concepticon.clld.org/parameters/1102,æ̃-i,climb
+255-199,waor1240,http://concepticon.clld.org/parameters/2014,wæ̃æ̃-i,go down
+255-300,waor1240,http://concepticon.clld.org/parameters/1107,ta-o go,go out
+255-875,waor1240,http://concepticon.clld.org/parameters/1446,põ,come
+255-943,waor1240,http://concepticon.clld.org/parameters/581,okæ ẽbæ̃-te põ,come back
+255-95,waor1240,http://concepticon.clld.org/parameters/1752,wadæ go,"go away, depart"
+255-534,waor1240,http://concepticon.clld.org/parameters/485,dææ go,disappear
+255-957,waor1240,http://concepticon.clld.org/parameters/956,wodii wĩdõ,flee
+255-665,waor1240,http://concepticon.clld.org/parameters/1085,te ẽpo go,follow
+255-497,waor1240,http://concepticon.clld.org/parameters/1047,togæ̃,pursue
+255-1007,waor1240,http://concepticon.clld.org/parameters/1387,(eye-pæ̃) põ,"reach, arrive"
+255-154,waor1240,http://concepticon.clld.org/parameters/1778,obo põ,approach
+255-481,waor1240,http://concepticon.clld.org/parameters/749,gii,enter
+255-178,waor1240,http://concepticon.clld.org/parameters/700,bõgæ̃,carry (bear)
+255-780,waor1240,http://concepticon.clld.org/parameters/412,dæ̃æ̃,carry-in-hand
+255-1076,waor1240,http://concepticon.clld.org/parameters/413,õdõ-dãka-pæ̃ dæ̃æ̃,carry-on-shoulder
+255-160,waor1240,http://concepticon.clld.org/parameters/414,æ̃-gõ kæ-ka-te dæ̃æ̃,carry-on-head
+255-141,waor1240,http://concepticon.clld.org/parameters/415,bĩde tĩ-dẽbæ̃-te go,carry-underarm
+255-403,waor1240,http://concepticon.clld.org/parameters/692,æ̃æ̃-te põ,bring
+255-622,waor1240,http://concepticon.clld.org/parameters/1127,da go-dõ,send
+255-76,waor1240,http://concepticon.clld.org/parameters/43,ẽ-bĩyæ̃-te go,lead (vb)
+255-427,waor1240,http://concepticon.clld.org/parameters/741,ã-gã go,drive
+255-561,waor1240,http://concepticon.clld.org/parameters/367,bõgæ̃-te go,ride
+255-253,waor1240,http://concepticon.clld.org/parameters/1452,da godõ,"push, shove"
+255-313,waor1240,http://concepticon.clld.org/parameters/667,taa-dõ,road
+255-313,waor1240,http://concepticon.clld.org/parameters/2252,taa-dõ,path
+255-436,waor1240,http://concepticon.clld.org/parameters/1011,bæ̃ yido-te,bridge
+255-260,waor1240,http://concepticon.clld.org/parameters/122,[awoto],"carriage, wagon, cart"
+255-560,waor1240,http://concepticon.clld.org/parameters/710,yato(bo),wheel
+255-787,waor1240,http://concepticon.clld.org/parameters/14,goti wi-bõka-ĩ-pa,yoke
+255-372,waor1240,http://concepticon.clld.org/parameters/740,wi-po yæ̃dæ̃-po,ship
+255-334,waor1240,http://concepticon.clld.org/parameters/1844,wi-po,boat
+255-334,waor1240,http://concepticon.clld.org/parameters/1970,wi-po,canoe
+255-311,waor1240,http://concepticon.clld.org/parameters/1664,gãbẽ-wæ̃,raft
+255-755,waor1240,http://concepticon.clld.org/parameters/108,a-wæ̃-pa,oar
+255-755,waor1240,http://concepticon.clld.org/parameters/234,a-wæ̃-pa,paddle (noun)
+255-126,waor1240,http://concepticon.clld.org/parameters/1849,wiya kæ,row (vb)
+255-738,waor1240,http://concepticon.clld.org/parameters/610,wẽbõka-yõbõ,"harbor, port"
+255-711,waor1240,http://concepticon.clld.org/parameters/1922,ti wæ̃æ̃,land (vb)
+255-378,waor1240,http://concepticon.clld.org/parameters/773,bã,have
+255-88,waor1240,http://concepticon.clld.org/parameters/684,ẽa,"own, possess"
+255-393,waor1240,http://concepticon.clld.org/parameters/1749,æ̃æ̃,take
+255-200,waor1240,http://concepticon.clld.org/parameters/2021,bæi õgõ,"seize, grasp"
+255-414,waor1240,http://concepticon.clld.org/parameters/1448,pææ bã,hold
+255-393,waor1240,http://concepticon.clld.org/parameters/694,æ̃æ̃,"get, obtain"
+255-378,waor1240,http://concepticon.clld.org/parameters/1477,bã,"keep, retain"
+255-1049,waor1240,http://concepticon.clld.org/parameters/738,kĩ-kobẽ-ke,thing
+255-53,waor1240,http://concepticon.clld.org/parameters/1447,põ-dõ,give
+255-374,waor1240,http://concepticon.clld.org/parameters/85,go-dõ,give back
+255-803,waor1240,http://concepticon.clld.org/parameters/1997,wææ aa,"preserve, look after"
+255-404,waor1240,http://concepticon.clld.org/parameters/681,wo ẽwẽ,destroy
+255-1065,waor1240,http://concepticon.clld.org/parameters/44,wẽdæ wẽdæ kæ,"harm, injure, damage"
+255-657,waor1240,http://concepticon.clld.org/parameters/1468,diki diki bĩ,"seek, look for"
+255-73,waor1240,http://concepticon.clld.org/parameters/719,diki bĩ-te a,find
+255-1005,waor1240,http://concepticon.clld.org/parameters/1660,wẽ wodõ,lose
+255-1047,waor1240,http://concepticon.clld.org/parameters/1095,yẽ-po kæ,"release, let go"
+255-150,waor1240,http://concepticon.clld.org/parameters/1559,[tokode]-ta,money
+255-21,waor1240,http://concepticon.clld.org/parameters/1867,tigi-ta-bõ,coin
+255-137,waor1240,http://concepticon.clld.org/parameters/712,tækæ wodẽ,rich
+255-792,waor1240,http://concepticon.clld.org/parameters/1674,dẽ õba-a-kã wæwẽ-gã,poor
+255-18,waor1240,http://concepticon.clld.org/parameters/1774,pææ gõ-po-kã,"avaricious, stingy"
+255-175,waor1240,http://concepticon.clld.org/parameters/582,wæætẽ æ̃æ̃-gĩ-ke go-dõ-gĩ,lend
+255-402,waor1240,http://concepticon.clld.org/parameters/369,[debe] ĩ,owe
+255-139,waor1240,http://concepticon.clld.org/parameters/1914,dã-dõ [debe] ĩ-dõ,debt
+255-507,waor1240,http://concepticon.clld.org/parameters/718,[pagã] kæ,pay (vb)
+255-1030,waor1240,http://concepticon.clld.org/parameters/1081,æ-po-dõ [debe] ĩ,"account, reckoning"
+255-572,waor1240,http://concepticon.clld.org/parameters/1081,ã-te,"account, reckoning"
+255-387,waor1240,http://concepticon.clld.org/parameters/873,awẽdẽ dã-dõ ã-ĩ-ta,"tax, tribute"
+255-533,waor1240,http://concepticon.clld.org/parameters/1122,dã-di kæ-te æ̃æ̃-ĩ-ta,wages
+255-309,waor1240,http://concepticon.clld.org/parameters/733,dãgĩ kæ-te æ̃æ̃,earn
+255-921,waor1240,http://concepticon.clld.org/parameters/1869,go-dõ-te æ̃æ̃,buy
+255-921,waor1240,http://concepticon.clld.org/parameters/1571,go-dõ-te æ̃æ̃,sell
+255-921,waor1240,http://concepticon.clld.org/parameters/2135,go-dõ-te æ̃æ̃,"trade, barter"
+255-660,waor1240,http://concepticon.clld.org/parameters/1082,dẽ go-dõ-te æ̃æ̃-gã,merchant
+255-791,waor1240,http://concepticon.clld.org/parameters/633,dã-di go-dõ-te æ̃æ̃-ĩ-yõbõ,market (place)
+255-152,waor1240,http://concepticon.clld.org/parameters/752,go--dõ-te æ̃æ̃-ĩ-kõ,"store, shop"
+255-143,waor1240,http://concepticon.clld.org/parameters/657,'æ-po-dõ ã-gã,price
+255-825,waor1240,http://concepticon.clld.org/parameters/657,' ã-te,price
+255-876,waor1240,http://concepticon.clld.org/parameters/1426,dãgĩ go-dõ-te æ̃æ̃-gĩ,"dear (costly, expensive)"
+255-448,waor1240,http://concepticon.clld.org/parameters/1887,wædæ̃-ke,cheap
+255-456,waor1240,http://concepticon.clld.org/parameters/884,æ̃-batæ̃ æ̃-batæ̃ godõ,share (distribute)
+255-357,waor1240,http://concepticon.clld.org/parameters/1685,ĩĩkayæ̃,after
+255-804,waor1240,http://concepticon.clld.org/parameters/723,ayæ̃,behind
+255-191,waor1240,http://concepticon.clld.org/parameters/1816,gããdẽ,beside
+255-124,waor1240,http://concepticon.clld.org/parameters/1326,gæ-epo-dẽ,"down, below"
+255-983,waor1240,http://concepticon.clld.org/parameters/1882,tãdo,before
+255-341,waor1240,http://concepticon.clld.org/parameters/1019,kæ̃-ka-dẽ ĩdõ,front
+255-466,waor1240,http://concepticon.clld.org/parameters/1606,gi-bõga kæ̃-ka-dẽ,"inside, in"
+255-749,waor1240,http://concepticon.clld.org/parameters/762,yaabæ-ke,outside
+255-392,waor1240,http://concepticon.clld.org/parameters/1485,õdõyæ̃-dõ,under
+255-315,waor1240,http://concepticon.clld.org/parameters/1591,æ̃-i-bæ,"up, above"
+255-310,waor1240,http://concepticon.clld.org/parameters/723,bãdĩ-yõbõ,place
+255-679,waor1240,http://concepticon.clld.org/parameters/998,kõõ kæ,put
+255-510,waor1240,http://concepticon.clld.org/parameters/1416,tæ̃æ̃ kõta,sit
+255-479,waor1240,http://concepticon.clld.org/parameters/215,dãyi yõ-gæ̃,lie down
+255-353,waor1240,http://concepticon.clld.org/parameters/1442,gõõ kæ,stand
+255-70,waor1240,http://concepticon.clld.org/parameters/987,ee õgõ,"remain, stay"
+255-656,waor1240,http://concepticon.clld.org/parameters/838,ayæ̃ õgõ-koo,"remains, left overs"
+255-112,waor1240,http://concepticon.clld.org/parameters/7,tĩ gæ,"collect, gather"
+255-907,waor1240,http://concepticon.clld.org/parameters/371,wæ̃æ̃-po-te æ̃æ̃,pick up
+255-362,waor1240,http://concepticon.clld.org/parameters/1576,ka-bo tĩ gæ,pile up
+255-691,waor1240,http://concepticon.clld.org/parameters/1359,dãdẽdẽ dãdẽdẽ kõõ kæ,separate
+255-338,waor1240,http://concepticon.clld.org/parameters/1119,pã kæ,divide
+255-119,waor1240,http://concepticon.clld.org/parameters/1156,wi æ̃de,open
+255-675,waor1240,http://concepticon.clld.org/parameters/1046,tee bõ-de,"shut, close"
+255-337,waor1240,http://concepticon.clld.org/parameters/761,be o-ka,cover
+255-69,waor1240,http://concepticon.clld.org/parameters/602,wẽ wo-dõ,"hide, conceal"
+255-1035,waor1240,http://concepticon.clld.org/parameters/1265,æ̃i-bæ,high
+255-263,waor1240,http://concepticon.clld.org/parameters/721,okaa,low
+255-1034,waor1240,http://concepticon.clld.org/parameters/1753,wæ̃æ̃-dõ-bẽ-dæka,top
+255-442,waor1240,http://concepticon.clld.org/parameters/690,kæ̃-ka-dẽ,bottom
+255-550,waor1240,http://concepticon.clld.org/parameters/742,tõbãã (?),end
+255-783,waor1240,http://concepticon.clld.org/parameters/372,wa-ẽ-ga,pointed
+255-120,waor1240,http://concepticon.clld.org/parameters/863,gæ-wedeka,edge
+255-376,waor1240,http://concepticon.clld.org/parameters/682,æ̃bæ,side
+255-1051,waor1240,http://concepticon.clld.org/parameters/1093,tækæ gidẽ,"middle, center"
+255-988,waor1240,http://concepticon.clld.org/parameters/1019,tõbẽ-bæ̃-ĩ-dõ,right (side)
+255-516,waor1240,http://concepticon.clld.org/parameters/244,dipæ̃-bæ̃-ĩ-dõ,left (side)
+255-996,waor1240,http://concepticon.clld.org/parameters/1942,eye-ke-ĩ,near (adv)
+255-764,waor1240,http://concepticon.clld.org/parameters/1406,goo-bæ,far (adv)
+255-496,waor1240,http://concepticon.clld.org/parameters/1877,dæ̃ke ta-bõ-dõ,east
+255-1062,waor1240,http://concepticon.clld.org/parameters/1817,dæ̃ke gii-dõ,west
+255-904,waor1240,http://concepticon.clld.org/parameters/1598,be-ta-bõka,north
+255-904,waor1240,http://concepticon.clld.org/parameters/1595,be-ta-bõka,south
+255-765,waor1240,http://concepticon.clld.org/parameters/479,pæ,grow
+255-1078,waor1240,http://concepticon.clld.org/parameters/1506,tee bã,measure
+255-799,waor1240,http://concepticon.clld.org/parameters/81,tipæ̃-bæ̃ gãka,"span, fathom"
+255-277,waor1240,http://concepticon.clld.org/parameters/1202,yæ̃dæ̃,"large, big"
+255-509,waor1240,http://concepticon.clld.org/parameters/1246,giyæ̃,"small, little"
+255-230,waor1240,http://concepticon.clld.org/parameters/1203,doyæ̃,long
+255-230,waor1240,http://concepticon.clld.org/parameters/711,doyæ̃,tall
+255-263,waor1240,http://concepticon.clld.org/parameters/1645,okaa,short
+255-277,waor1240,http://concepticon.clld.org/parameters/1243,yæ̃dæ̃,"wide, broad"
+255-509,waor1240,http://concepticon.clld.org/parameters/1267,giyæ̃,narrow
+255-277,waor1240,http://concepticon.clld.org/parameters/1244,yæ̃dæ̃,thick (in dimension)
+255-727,waor1240,http://concepticon.clld.org/parameters/1400,giiyæ̃,thin (in dimension)
+255-720,waor1240,http://concepticon.clld.org/parameters/1593,wãkabõ,deep
+255-974,waor1240,http://concepticon.clld.org/parameters/193,õdæ-tabõ,shallow
+255-425,waor1240,http://concepticon.clld.org/parameters/1633,bibitapæ̃,flat
+255-48,waor1240,http://concepticon.clld.org/parameters/1404,tõ,straight
+255-104,waor1240,http://concepticon.clld.org/parameters/297,edekibæ̃,crooked
+255-187,waor1240,http://concepticon.clld.org/parameters/192,õtebobõ,corner
+255-706,waor1240,http://concepticon.clld.org/parameters/1367,yæ̃ke-dẽbæ̃,cross
+255-91,waor1240,http://concepticon.clld.org/parameters/850,pæ̃do-ĩ,square
+255-950,waor1240,http://concepticon.clld.org/parameters/1395,dadi õpo-ĩ,round
+255-946,waor1240,http://concepticon.clld.org/parameters/1467,pæ̃i-bo baĩ,circle
+255-858,waor1240,http://concepticon.clld.org/parameters/1845,pæ̃i-bo,"sphere, ball"
+255-563,waor1240,http://concepticon.clld.org/parameters/1048,gægĩka-bẽ,line
+255-938,waor1240,http://concepticon.clld.org/parameters/1667,õtato,hole
+255-807,waor1240,http://concepticon.clld.org/parameters/1558,baĩ ĩ-te,"like, similar"
+255-870,waor1240,http://concepticon.clld.org/parameters/1264,wa-dõ kæ,change
+255-196,waor1240,http://concepticon.clld.org/parameters/1294,dææ,"zero, nothing"
+255-652,waor1240,http://concepticon.clld.org/parameters/1515,ado-ke,one
+255-365,waor1240,http://concepticon.clld.org/parameters/1498,bẽ-a,two
+255-913,waor1240,http://concepticon.clld.org/parameters/492,bẽ-a go ado-ke,three
+255-854,waor1240,http://concepticon.clld.org/parameters/1500,bẽ-a go bẽ-a,four
+255-872,waor1240,http://concepticon.clld.org/parameters/493,õdõ-po æ̃bæ̃-po-ke,five
+255-995,waor1240,http://concepticon.clld.org/parameters/1703,õdõ-po æ̃bæ̃-po-ke go ado-ke,six
+255-41,waor1240,http://concepticon.clld.org/parameters/1704,õdõ-po æ̃bæ̃-po-ke go bẽ-a,seven
+255-919,waor1240,http://concepticon.clld.org/parameters/1705,õdõ-po æ̃bæ̃-po-ke go bẽ-a go ado-ke,eight
+255-490,waor1240,http://concepticon.clld.org/parameters/1483,õdõ-po æ̃bæ̃-po-ke go bẽ-a go bẽ-a,nine
+255-580,waor1240,http://concepticon.clld.org/parameters/1515,õdõ-po tipæ̃-po-ga,ten
+255-100,waor1240,http://concepticon.clld.org/parameters/1706,õdõ-po tipæ̃-po-ga go ado-ke,eleven
+255-781,waor1240,http://concepticon.clld.org/parameters/1707,õdõ-po tipæ̃-po-ga go bẽ-a,twelve
+255-985,waor1240,http://concepticon.clld.org/parameters/1709,õdõ-po tipæ̃-po-ga go õdõ-po æ̃bæ̃-po-ke,fifteen
+255-329,waor1240,http://concepticon.clld.org/parameters/1710,õdõ-po tipæ̃-po-ga õdõ-wa tipæ̃-wa-a,twenty
+255-326,waor1240,http://concepticon.clld.org/parameters/1634,[tiyæ̃to],hundred
+255-306,waor1240,http://concepticon.clld.org/parameters/1843,[bĩido],thousand
+255-440,waor1240,http://concepticon.clld.org/parameters/1420,'æ-po-dõ ĩ,count
+255-676,waor1240,http://concepticon.clld.org/parameters/1420,' ã-te tee bã-po,count
+255-324,waor1240,http://concepticon.clld.org/parameters/98,tõbã-dã-di,"every, all"
+255-629,waor1240,http://concepticon.clld.org/parameters/1198,dãgĩ,"much, many"
+255-521,waor1240,http://concepticon.clld.org/parameters/1992,go-dõ-bẽ-ke,more
+255-448,waor1240,http://concepticon.clld.org/parameters/1242,wædæ̃-ke,"little (quantity), few"
+255-884,waor1240,http://concepticon.clld.org/parameters/1881,eye-pæ̃,enough
+255-552,waor1240,http://concepticon.clld.org/parameters/1241,pãka-a,some
+255-834,waor1240,http://concepticon.clld.org/parameters/2023,dãgĩ ĩ-dã-di,"multitude, crowd"
+255-1081,waor1240,http://concepticon.clld.org/parameters/1429,eye-dẽ,full
+255-523,waor1240,http://concepticon.clld.org/parameters/1624,õbæ-ga,empty
+255-552,waor1240,http://concepticon.clld.org/parameters/779,pãka-a,"part, piece"
+255-27,waor1240,http://concepticon.clld.org/parameters/816,tækæ,half
+255-890,waor1240,http://concepticon.clld.org/parameters/1580,ado-kã-ke,"alone, only"
+255-983,waor1240,http://concepticon.clld.org/parameters/728,tãdo,first
+255-267,waor1240,http://concepticon.clld.org/parameters/1529,tõbãã,last
+255-804,waor1240,http://concepticon.clld.org/parameters/1384,ayæ̃,second
+255-633,waor1240,http://concepticon.clld.org/parameters/1888,dã-da ka-ya,pair
+255-569,waor1240,http://concepticon.clld.org/parameters/1546,bẽ-po-ga,two times
+255-658,waor1240,http://concepticon.clld.org/parameters/1859,tækæ gidẽ õgõ,third
+255-488,waor1240,http://concepticon.clld.org/parameters/417,bẽ-po-ga go ado-po-ke,three times
+255-739,waor1240,http://concepticon.clld.org/parameters/892,'æ-yedẽ-dõ ĩ,time
+255-825,waor1240,http://concepticon.clld.org/parameters/892,' ã-te,time
+255-55,waor1240,http://concepticon.clld.org/parameters/1789,dã-dõ ẽ-ya-ga-ĩ,age
+255-1085,waor1240,http://concepticon.clld.org/parameters/1231,bĩĩ,new
+255-725,waor1240,http://concepticon.clld.org/parameters/1207,wẽ-yæ̃,young
+255-518,waor1240,http://concepticon.clld.org/parameters/1229,pikæ̃,old
+255-666,waor1240,http://concepticon.clld.org/parameters/672,tãdo (kæ-te),early
+255-1,waor1240,http://concepticon.clld.org/parameters/477,wĩĩ eye-pæ̃ (kæ-te),late
+255-545,waor1240,http://concepticon.clld.org/parameters/1376,yõwo,now
+255-546,waor1240,http://concepticon.clld.org/parameters/1963,doo,immediately
+255-737,waor1240,http://concepticon.clld.org/parameters/1631,kĩgæ̃,"swift, fast, quick"
+255-99,waor1240,http://concepticon.clld.org/parameters/701,wææ̃yeĩ,slow
+255-610,waor1240,http://concepticon.clld.org/parameters/754,kĩgæ̃ kæ,"hasten, hurry"
+255-964,waor1240,http://concepticon.clld.org/parameters/425,wĩĩ kĩgæ̃ kæ,"retard, delay"
+255-458,waor1240,http://concepticon.clld.org/parameters/1806,tækæ kæ,"begin, beginning"
+255-812,waor1240,http://concepticon.clld.org/parameters/1186,wãtæ-piyæ̃ õgõ,"last, endure"
+255-1040,waor1240,http://concepticon.clld.org/parameters/743,ĩĩ-ke,end (temporal)
+255-1009,waor1240,http://concepticon.clld.org/parameters/743,idæwaa,end (temporal)
+255-216,waor1240,http://concepticon.clld.org/parameters/1766,ĩĩ-ke kæ,finish
+255-151,waor1240,http://concepticon.clld.org/parameters/1928,dæ̃æ̃ gõ-gæ̃,"cease, stop"
+255-61,waor1240,http://concepticon.clld.org/parameters/790,do kæte õgõ-te,ready
+255-444,waor1240,http://concepticon.clld.org/parameters/1676,kõwẽ,always
+255-262,waor1240,http://concepticon.clld.org/parameters/1852,wãtæ wãtæ-ĩ-yõ,often
+255-909,waor1240,http://concepticon.clld.org/parameters/1544,pãka-yedẽ-a,sometimes
+255-546,waor1240,http://concepticon.clld.org/parameters/703,doo,soon
+255-473,waor1240,http://concepticon.clld.org/parameters/418,wãtæ-piyæ̃,long-time (for a)
+255-108,waor1240,http://concepticon.clld.org/parameters/1656,kõwẽ (kæ)-dãbaĩ,never
+255-197,waor1240,http://concepticon.clld.org/parameters/204,wæætẽ,again
+255-785,waor1240,http://concepticon.clld.org/parameters/1260,itædẽ,day
+255-999,waor1240,http://concepticon.clld.org/parameters/1233,woyowotæ̃,night
+255-345,waor1240,http://concepticon.clld.org/parameters/729,yãõ ba-yõ,dawn
+255-747,waor1240,http://concepticon.clld.org/parameters/1339,baãdæ,morning
+255-758,waor1240,http://concepticon.clld.org/parameters/12,tækæ-bæ-kã,"noon, midday"
+255-121,waor1240,http://concepticon.clld.org/parameters/1807,ædæ wæ̃æ̃-i-kã,afternoon
+255-258,waor1240,http://concepticon.clld.org/parameters/1629,gãwadekæ̃,evening
+255-939,waor1240,http://concepticon.clld.org/parameters/1283,yõwo-õdæ,today
+255-1015,waor1240,http://concepticon.clld.org/parameters/1329,ĩĩbõ a-te,tomorrow
+255-223,waor1240,http://concepticon.clld.org/parameters/1179,wa-õdæ a-te,day-after-tomorrow
+255-396,waor1240,http://concepticon.clld.org/parameters/1174,ĩĩbõ,yesterday
+255-1068,waor1240,http://concepticon.clld.org/parameters/1180,wa-õdæ,day-before-yesterday
+255-42,waor1240,http://concepticon.clld.org/parameters/1353,[ooda],hour
+255-323,waor1240,http://concepticon.clld.org/parameters/1323,dæ̃ke kĩ-ka,"clock, timepiece"
+255-536,waor1240,http://concepticon.clld.org/parameters/1469,ado-ke Wæ̃gõgĩ itædẽ,week
+255-562,waor1240,http://concepticon.clld.org/parameters/1699,Wæ̃gõgĩ itædẽ,Sunday
+255-1022,waor1240,http://concepticon.clld.org/parameters/1697,[dõde],Monday
+255-808,waor1240,http://concepticon.clld.org/parameters/1695,[bãadote],Tuesday
+255-647,waor1240,http://concepticon.clld.org/parameters/1694,[bĩyedokode],Wednesday
+255-703,waor1240,http://concepticon.clld.org/parameters/1693,[ooebe],Thursday
+255-164,waor1240,http://concepticon.clld.org/parameters/1692,[biyẽde],Friday
+255-222,waor1240,http://concepticon.clld.org/parameters/1700,[tabado],Saturday
+255-65,waor1240,http://concepticon.clld.org/parameters/1370,apãi-kã,month
+255-851,waor1240,http://concepticon.clld.org/parameters/1226,wa-depo,year
+255-892,waor1240,http://concepticon.clld.org/parameters/1471,yogi-depo,winter
+255-453,waor1240,http://concepticon.clld.org/parameters/1342,dãwã-depo,summer
+255-428,waor1240,http://concepticon.clld.org/parameters/691,tedæ̃,season
+255-451,waor1240,http://concepticon.clld.org/parameters/1587,wa,smell (vb intrans)
+255-972,waor1240,http://concepticon.clld.org/parameters/375,we õgõ,sniff
+255-972,waor1240,http://concepticon.clld.org/parameters/1586,we õgõ,smell (vb trans)
+255-653,waor1240,http://concepticon.clld.org/parameters/376,ogĩ wa,"fragrant, good smelling"
+255-83,waor1240,http://concepticon.clld.org/parameters/42,õ wa,"stinking, bad smelling"
+255-77,waor1240,http://concepticon.clld.org/parameters/21,gædæ be,taste
+255-768,waor1240,http://concepticon.clld.org/parameters/717,wa-ẽbẽ,sweet
+255-847,waor1240,http://concepticon.clld.org/parameters/1091,[kati],salty
+255-811,waor1240,http://concepticon.clld.org/parameters/887,tĩ dã,bitter
+255-811,waor1240,http://concepticon.clld.org/parameters/1906,tĩ dã,"acid, sour"
+255-729,waor1240,http://concepticon.clld.org/parameters/70,wẽ-ta-bõ-bæ̃,brackish
+255-375,waor1240,http://concepticon.clld.org/parameters/1408,ẽyẽ,hear
+255-375,waor1240,http://concepticon.clld.org/parameters/1608,ẽyẽ,listen
+255-255,waor1240,http://concepticon.clld.org/parameters/1811,dã-di tẽ-ĩ-dõ,"sound, noise"
+255-15,waor1240,http://concepticon.clld.org/parameters/377,dãgĩ ã,loud
+255-802,waor1240,http://concepticon.clld.org/parameters/1314,dõwæ̃ ĩ,"quiet, silence"
+255-265,waor1240,http://concepticon.clld.org/parameters/1409,a,see
+255-297,waor1240,http://concepticon.clld.org/parameters/1819,kõwã a,"look, look at"
+255-1084,waor1240,http://concepticon.clld.org/parameters/1039,odõbõ,show
+255-715,waor1240,http://concepticon.clld.org/parameters/708,gĩdæ̃ apãi,shine
+255-817,waor1240,http://concepticon.clld.org/parameters/679,gĩdæ̃ ta-bõ,bright
+255-631,waor1240,http://concepticon.clld.org/parameters/1613,ẽ-bõ-dõ,color
+255-573,waor1240,http://concepticon.clld.org/parameters/250,dãbæ̃-ta,light (in color)
+255-1002,waor1240,http://concepticon.clld.org/parameters/706,wẽ-ta-bõ,dark (in color)
+255-573,waor1240,http://concepticon.clld.org/parameters/1335,dãbæ̃-ta,white
+255-1002,waor1240,http://concepticon.clld.org/parameters/163,wẽ-ta-bõ,black
+255-948,waor1240,http://concepticon.clld.org/parameters/156,opatawæ̃,red
+255-332,waor1240,http://concepticon.clld.org/parameters/837,wĩyadæ̃,blue
+255-332,waor1240,http://concepticon.clld.org/parameters/1425,wĩyadæ̃,green
+255-332,waor1240,http://concepticon.clld.org/parameters/1424,wĩyadæ̃,yellow
+255-789,waor1240,http://concepticon.clld.org/parameters/1892,gã-po,touch
+255-163,waor1240,http://concepticon.clld.org/parameters/378,bã-po ya,pinch
+255-474,waor1240,http://concepticon.clld.org/parameters/1079,gã-po kæ,feel
+255-480,waor1240,http://concepticon.clld.org/parameters/1884,tæ̃ẽbõ,hard
+255-66,waor1240,http://concepticon.clld.org/parameters/1856,akĩ-ĩ,soft
+255-405,waor1240,http://concepticon.clld.org/parameters/1923,yãbæ̃,rough
+255-669,waor1240,http://concepticon.clld.org/parameters/1234,ayade kæ,smooth
+255-783,waor1240,http://concepticon.clld.org/parameters/1396,wa-ẽ-ga,sharp
+255-102,waor1240,http://concepticon.clld.org/parameters/379,babe-doka,"blunt, dull"
+255-794,waor1240,http://concepticon.clld.org/parameters/1210,te ẽbẽ,heavy
+255-810,waor1240,http://concepticon.clld.org/parameters/1052,wodæ̃ĩ,light (in weight)
+255-539,waor1240,http://concepticon.clld.org/parameters/1726,a be-ĩ,"wet, damp"
+255-576,waor1240,http://concepticon.clld.org/parameters/1726,kõye,"wet, damp"
+255-1010,waor1240,http://concepticon.clld.org/parameters/1398,abĩbõ,dry
+255-746,waor1240,http://concepticon.clld.org/parameters/1286,okoi ã,hot
+255-251,waor1240,http://concepticon.clld.org/parameters/1232,ãgõ ã,warm
+255-898,waor1240,http://concepticon.clld.org/parameters/1287,yogi,cold
+255-933,waor1240,http://concepticon.clld.org/parameters/704,wa-ẽ-bõ,clean
+255-1002,waor1240,http://concepticon.clld.org/parameters/1230,wẽ-ta-bõ,"dirty, soiled"
+255-889,waor1240,http://concepticon.clld.org/parameters/380,topo topo ĩ,wrinkled
+255-741,waor1240,http://concepticon.clld.org/parameters/53,õdõ-woka,"soul, spirit"
+255-895,waor1240,http://concepticon.clld.org/parameters/1572,gĩyẽ-te,"surprised, astonished"
+255-537,waor1240,http://concepticon.clld.org/parameters/1495,watapæ̃ to-te,"joyful, glad, happy"
+255-863,waor1240,http://concepticon.clld.org/parameters/1355,ka ka to,laugh
+255-159,waor1240,http://concepticon.clld.org/parameters/1451,to,smile
+255-80,waor1240,http://concepticon.clld.org/parameters/1413,owẽ-po,play
+255-564,waor1240,http://concepticon.clld.org/parameters/923,waade-te põdẽ,love
+255-45,waor1240,http://concepticon.clld.org/parameters/578,kẽ be-bõ,kiss
+255-414,waor1240,http://concepticon.clld.org/parameters/928,pææ bã,embrace
+255-761,waor1240,http://concepticon.clld.org/parameters/1783,dãta-te dãdõ wæ-dõ,pain
+255-775,waor1240,http://concepticon.clld.org/parameters/1668,dã-dõ wæ-wẽ-dõ,"grief, sorrow, sadness"
+255-726,waor1240,http://concepticon.clld.org/parameters/1000,dã-dõ wæ-dõ,"anxiety, worry"
+255-457,waor1240,http://concepticon.clld.org/parameters/1875,'wẽdæ wẽdæ kæ-te awædõ,"regret, be sorry"
+255-997,waor1240,http://concepticon.clld.org/parameters/1875,' ã,"regret, be sorry"
+255-114,waor1240,http://concepticon.clld.org/parameters/1141,waade-te a,pity
+255-771,waor1240,http://concepticon.clld.org/parameters/1839,ka ka wæ,"cry, weep"
+255-1064,waor1240,http://concepticon.clld.org/parameters/1651,õ-bæ̃,tear (noun)
+255-1041,waor1240,http://concepticon.clld.org/parameters/716,õõ õõ ã,groan
+255-519,waor1240,http://concepticon.clld.org/parameters/1607,pĩĩ,hate
+255-940,waor1240,http://concepticon.clld.org/parameters/82,dãdõ [ẽdoga]-dõ,anger
+255-1028,waor1240,http://concepticon.clld.org/parameters/40,dãdõ pĩĩ-te a-dõ,"envy, jealousy"
+255-677,waor1240,http://concepticon.clld.org/parameters/1776,dã-dõ gĩgo i-bõ-bãbo,shame (noun)
+255-455,waor1240,http://concepticon.clld.org/parameters/174,dã-bã waa a-kã,proud
+255-245,waor1240,http://concepticon.clld.org/parameters/3,gĩyẽ-dãbaĩ,brave
+255-85,waor1240,http://concepticon.clld.org/parameters/781,dã-dõ gĩyẽ-dõ,"fear, fright"
+255-1044,waor1240,http://concepticon.clld.org/parameters/1810,dã-dõ wæ-kĩ-bãbo-ke,danger
+255-268,waor1240,http://concepticon.clld.org/parameters/1784,æ̃æ̃-ĩdẽ,"desire, want"
+255-651,waor1240,http://concepticon.clld.org/parameters/1750,apæ̃-te æ̃æ̃,choose
+255-358,waor1240,http://concepticon.clld.org/parameters/1092,'ba-kæ̃ĩ-pa,hope
+255-734,waor1240,http://concepticon.clld.org/parameters/1092,' æ̃-te dã-dõ põdẽ-dõ,hope
+255-582,waor1240,http://concepticon.clld.org/parameters/100,dẽ põdẽ-te kæ-kã,faithful
+255-751,waor1240,http://concepticon.clld.org/parameters/1657,dãwã,true
+255-594,waor1240,http://concepticon.clld.org/parameters/601,babæ ã,"lie, tell lies"
+255-162,waor1240,http://concepticon.clld.org/parameters/13,babæ apæ̃-de-te dã-dõ kæ-dõ,deceit
+255-1033,waor1240,http://concepticon.clld.org/parameters/1528,piyæ̃-dẽ kæ-te yẽ-po kæ,forgive
+255-451,waor1240,http://concepticon.clld.org/parameters/1035,wa,good
+255-690,waor1240,http://concepticon.clld.org/parameters/1292,wẽdæ wẽdæ,bad
+255-728,waor1240,http://concepticon.clld.org/parameters/1725,dõ ĩte,"right, correct"
+255-1072,waor1240,http://concepticon.clld.org/parameters/1390,oda kæ-te,wrong
+255-597,waor1240,http://concepticon.clld.org/parameters/134,dã-dõ wẽdæ wẽdæ kæ-dõ beyæ̃ ĩ,fault
+255-210,waor1240,http://concepticon.clld.org/parameters/1293,oda dã-dõ kæ-ĩ-dõ,"mistake, error"
+255-352,waor1240,http://concepticon.clld.org/parameters/381,'wẽdæ wẽdæ kæbi,blame
+255-997,waor1240,http://concepticon.clld.org/parameters/381,' ã,blame
+255-933,waor1240,http://concepticon.clld.org/parameters/1427,wa-ẽ-bõ,beautiful
+255-355,waor1240,http://concepticon.clld.org/parameters/1548,wĩĩ wa-ẽ-bõ,ugly
+255-612,waor1240,http://concepticon.clld.org/parameters/2018,kæ̃-owæ̃o,greedy
+255-532,waor1240,http://concepticon.clld.org/parameters/1310,dẽ ẽyẽ-te kæ-ĩ-gã,clever
+255-1012,waor1240,http://concepticon.clld.org/parameters/1562,o-ka-i-dẽ dã-dõ põdẽ-dõ,mind
+255-809,waor1240,http://concepticon.clld.org/parameters/1415,o-ka-i-dẽ põdẽ,think (= reflect)
+255-63,waor1240,http://concepticon.clld.org/parameters/1513,põdẽ,think (= be of the opinion)
+255-602,waor1240,http://concepticon.clld.org/parameters/1890,(wede) põdẽ,believe
+255-375,waor1240,http://concepticon.clld.org/parameters/1536,ẽyẽ,understand
+255-375,waor1240,http://concepticon.clld.org/parameters/1410,ẽyẽ,know
+255-981,waor1240,http://concepticon.clld.org/parameters/1932,'wabãdõ ĩ,guess
+255-997,waor1240,http://concepticon.clld.org/parameters/1932,' ã,guess
+255-495,waor1240,http://concepticon.clld.org/parameters/117,(wa-kã kæ-kã) baĩ ado-baĩ kæ,imitate
+255-769,waor1240,http://concepticon.clld.org/parameters/1521,ẽ-bõ,seem
+255-295,waor1240,http://concepticon.clld.org/parameters/1609,dã-bã dã-dõ põdẽ-dõ,"idea, notion"
+255-177,waor1240,http://concepticon.clld.org/parameters/698,o-ka-i dẽ ẽyẽ-gã,wise
+255-78,waor1240,http://concepticon.clld.org/parameters/1518,dẽ o-ka-i ẽyẽ-dãbaĩ ĩ-gã,"foolish, stupid"
+255-375,waor1240,http://concepticon.clld.org/parameters/504,ẽyẽ,learn
+255-906,waor1240,http://concepticon.clld.org/parameters/1929,[ekoeda] a,study
+255-961,waor1240,http://concepticon.clld.org/parameters/709,odõbõ-te apæ̃-de,teach
+255-736,waor1240,http://concepticon.clld.org/parameters/753,dẽ a-kã,pupil
+255-243,waor1240,http://concepticon.clld.org/parameters/1038,dẽ odõbõ-gã,teacher
+255-958,waor1240,http://concepticon.clld.org/parameters/673,[ekoeda],school
+255-987,waor1240,http://concepticon.clld.org/parameters/707,wæætẽ põdẽ,remember
+255-750,waor1240,http://concepticon.clld.org/parameters/1523,wĩĩ põdẽ,forget
+255-465,waor1240,http://concepticon.clld.org/parameters/989,edõ-ke,"clear, plain"
+255-953,waor1240,http://concepticon.clld.org/parameters/1764,wĩĩ edõ-ke,obscure
+255-377,waor1240,http://concepticon.clld.org/parameters/1121,a-wẽ-bõ,secret
+255-614,waor1240,http://concepticon.clld.org/parameters/509,dãwã-gã,"sure, certain"
+255-105,waor1240,http://concepticon.clld.org/parameters/1626,'æ-bã-dõ ĩ,explain
+255-929,waor1240,http://concepticon.clld.org/parameters/1626,' ã-te apæ̃-de,explain
+255-722,waor1240,http://concepticon.clld.org/parameters/1162,'kæ-kæ̃ĩ̂-pa,"intention, purpose"
+255-903,waor1240,http://concepticon.clld.org/parameters/1162,' ã-te dã-dõ ã-dõ,"intention, purpose"
+255-894,waor1240,http://concepticon.clld.org/parameters/860,beyæ̃,cause
+255-195,waor1240,http://concepticon.clld.org/parameters/1308,dã-dõ wĩĩ põdẽ-dõ,doubt
+255-170,waor1240,http://concepticon.clld.org/parameters/1841,'bãdõ-baĩ ĩ-baĩ-pa,suspect
+255-132,waor1240,http://concepticon.clld.org/parameters/1841,' ã-te põdẽ,suspect
+255-883,waor1240,http://concepticon.clld.org/parameters/1902,babæ kæ,betray
+255-1013,waor1240,http://concepticon.clld.org/parameters/643,dãd-õ æ̃æ̃-gẽdẽ-dõ,"need, necessity"
+255-526,waor1240,http://concepticon.clld.org/parameters/686,doo kæ-kĩ,easy
+255-35,waor1240,http://concepticon.clld.org/parameters/584,dãgĩ kæ-te kæ-kĩ,difficult
+255-698,waor1240,http://concepticon.clld.org/parameters/1812,kæ-kæ-te ã-te kæ,"try, attempt"
+255-116,waor1240,http://concepticon.clld.org/parameters/488,bãdõ-baĩ,"way, manner"
+255-804,waor1240,http://concepticon.clld.org/parameters/1577,ayæ̃,and
+255-894,waor1240,http://concepticon.clld.org/parameters/1157,beyæ̃,because
+255-873,waor1240,http://concepticon.clld.org/parameters/1459,ĩ-te baĩ,if
+255-869,waor1240,http://concepticon.clld.org/parameters/1014,wĩĩ bãdĩ-ĩ ĩ-te wæætẽ,or
+255-934,waor1240,http://concepticon.clld.org/parameters/1268,oo,"yes, affirmative"
+255-544,waor1240,http://concepticon.clld.org/parameters/1268,ao,"yes, affirmative"
+255-613,waor1240,http://concepticon.clld.org/parameters/1269,baa,"no, negative"
+255-256,waor1240,http://concepticon.clld.org/parameters/1269,wĩĩ,"no, negative"
+255-280,waor1240,http://concepticon.clld.org/parameters/1239,æ-bã-dõ kæ-te,how?
+255-370,waor1240,http://concepticon.clld.org/parameters/822,æ-po-dõ,how many?
+255-370,waor1240,http://concepticon.clld.org/parameters/531,æ-po-dõ,how much?
+255-68,waor1240,http://concepticon.clld.org/parameters/1236,kĩ-dõ,what?
+255-575,waor1240,http://concepticon.clld.org/parameters/1238,æ-yedẽ-dõ,when?
+255-194,waor1240,http://concepticon.clld.org/parameters/1237,æ-yõbõ-dõ,where?
+255-853,waor1240,http://concepticon.clld.org/parameters/727,æ-dõ,which?
+255-1087,waor1240,http://concepticon.clld.org/parameters/1235,æ-kã-dõ,who?
+255-328,waor1240,http://concepticon.clld.org/parameters/1270,kĩdãte,why?
+255-463,waor1240,http://concepticon.clld.org/parameters/1363,dã-dõ te-de-pãbo,voice
+255-838,waor1240,http://concepticon.clld.org/parameters/1261,ãbotabĩdi ã,sing
+255-527,waor1240,http://concepticon.clld.org/parameters/715,a pe,"shout, cry out"
+255-94,waor1240,http://concepticon.clld.org/parameters/55,(go-dõ) wæ̃tæ apæ̃-de,whisper
+255-522,waor1240,http://concepticon.clld.org/parameters/128,yãdeĩ te-de,mumble
+255-418,waor1240,http://concepticon.clld.org/parameters/1025,ba-de,whistle
+255-888,waor1240,http://concepticon.clld.org/parameters/298,yæ ã,"shriek, screech"
+255-308,waor1240,http://concepticon.clld.org/parameters/526,awoo awoo ã,howl
+255-101,waor1240,http://concepticon.clld.org/parameters/1623,te-de,"speak, talk"
+255-485,waor1240,http://concepticon.clld.org/parameters/1866,tapoyõgæ̃ te-de,"stutter, stammer"
+255-717,waor1240,http://concepticon.clld.org/parameters/1458,ã,say
+255-40,waor1240,http://concepticon.clld.org/parameters/1711,'æ-bã-dõ kæ-tĩ-pa,tell story
+255-929,waor1240,http://concepticon.clld.org/parameters/1711,' ã-te apæ̃-de,tell story
+255-797,waor1240,http://concepticon.clld.org/parameters/1115,apæ̃-de,speech (make a)
+255-190,waor1240,http://concepticon.clld.org/parameters/48,pææ wẽ-ẽ-de,silent (be)
+255-1006,waor1240,http://concepticon.clld.org/parameters/1307,dã-di te-de-dõ,language
+255-840,waor1240,http://concepticon.clld.org/parameters/1599,ado-de-ke,word
+255-786,waor1240,http://concepticon.clld.org/parameters/1405,ẽ-bõ-wo,name
+255-637,waor1240,http://concepticon.clld.org/parameters/1309,ẽyẽ-kæ-te ã-te ã,"ask (question, inquire)"
+255-391,waor1240,http://concepticon.clld.org/parameters/1275,wæætẽ apæ̃-de,answer
+255-816,waor1240,http://concepticon.clld.org/parameters/2022,'bãdõbaĩ kæ-ta-bo-pa,"admit, confess"
+255-997,waor1240,http://concepticon.clld.org/parameters/2022,' ã,"admit, confess"
+255-931,waor1240,http://concepticon.clld.org/parameters/755,baa ã,deny
+255-34,waor1240,http://concepticon.clld.org/parameters/1828,æ̃æ̃-kæ-te ã-te ã,"ask, request"
+255-1079,waor1240,http://concepticon.clld.org/parameters/1675,'kõwẽ kæ-kæ̃ĩ-pa,promise
+255-399,waor1240,http://concepticon.clld.org/parameters/1675,' ãte dãdõ ã-dõ,promise
+255-931,waor1240,http://concepticon.clld.org/parameters/49,baa ã,refuse
+255-207,waor1240,http://concepticon.clld.org/parameters/83,wææ ã,forbid
+255-527,waor1240,http://concepticon.clld.org/parameters/1084,a pe,call (=summon)
+255-363,waor1240,http://concepticon.clld.org/parameters/180,pe-bõ,call (=name)
+255-105,waor1240,http://concepticon.clld.org/parameters/9,'æ-bã-dõ ĩ,announce
+255-929,waor1240,http://concepticon.clld.org/parameters/9,' ã-te apæ̃-de,announce
+255-278,waor1240,http://concepticon.clld.org/parameters/1192,pãã kæ-po,threaten
+255-1067,waor1240,http://concepticon.clld.org/parameters/101,dã-bã æ̃-gõ-kæ-te ã,boast
+255-805,waor1240,http://concepticon.clld.org/parameters/1672,yewæ̃bõ,write
+255-265,waor1240,http://concepticon.clld.org/parameters/724,a,read
+255-252,waor1240,http://concepticon.clld.org/parameters/648,bĩkayõ-ta,paper
+255-688,waor1240,http://concepticon.clld.org/parameters/794,[etopedo],pen
+255-304,waor1240,http://concepticon.clld.org/parameters/963,[dibodo],book
+255-936,waor1240,http://concepticon.clld.org/parameters/777,õõya baĩ,flute
+255-111,waor1240,http://concepticon.clld.org/parameters/908,ã-po-ĩ-kade,drum
+255-936,waor1240,http://concepticon.clld.org/parameters/2136,õõya baĩ,"horn, trumpet"
+255-880,waor1240,http://concepticon.clld.org/parameters/300,kada kada wæ-ka-ĩ-kade,rattle
+255-284,waor1240,http://concepticon.clld.org/parameters/1300,õ-bæ,country
+255-257,waor1240,http://concepticon.clld.org/parameters/89,dã-di pæ-ga-ĩ-bæ,one's native country
+255-832,waor1240,http://concepticon.clld.org/parameters/1391,dãgĩ dã-di kẽwẽ-yõbõ,"city, town"
+255-918,waor1240,http://concepticon.clld.org/parameters/930,dã-di kẽwẽ-yõbõ,village
+255-120,waor1240,http://concepticon.clld.org/parameters/1010,gæ-wedeka,boundary
+255-973,waor1240,http://concepticon.clld.org/parameters/789,wao-dã-di,people (populace)
+255-165,waor1240,http://concepticon.clld.org/parameters/302,dã-di kabo,"tribe, clan"
+255-380,waor1240,http://concepticon.clld.org/parameters/301,awẽdẽ,"chief, chieftain"
+255-608,waor1240,http://concepticon.clld.org/parameters/1296,õgõ-to,"staff, walking stick"
+255-742,waor1240,http://concepticon.clld.org/parameters/1846,aa,"rule, govern"
+255-1037,waor1240,http://concepticon.clld.org/parameters/1032,iyo-bæ-kã,"citizen, subject"
+255-385,waor1240,http://concepticon.clld.org/parameters/383,dẽ ẽa-kã,master
+255-960,waor1240,http://concepticon.clld.org/parameters/1128,'kæ-e,"command, order"
+255-997,waor1240,http://concepticon.clld.org/parameters/1128,' ã,"command, order"
+255-155,waor1240,http://concepticon.clld.org/parameters/1635,dã-dõ ã-dõ ã-te ẽyẽ-te kæ,obey
+255-5,waor1240,http://concepticon.clld.org/parameters/1003,ao ã,"let, permit"
+255-818,waor1240,http://concepticon.clld.org/parameters/1325,[æ̃bigo],"friend, companion"
+255-844,waor1240,http://concepticon.clld.org/parameters/1358,dẽ pĩĩ-te kæ-kã,enemy
+255-113,waor1240,http://concepticon.clld.org/parameters/1332,dẽ godõgãbæ̃ kẽwẽ-gã,neighbor
+255-574,waor1240,http://concepticon.clld.org/parameters/791,kowodẽ,stranger
+255-468,waor1240,http://concepticon.clld.org/parameters/1782,dẽ ẽ-ya-kã,guest
+255-1055,waor1240,http://concepticon.clld.org/parameters/1545,dẽ õ-kõ-ĩ-gã,host
+255-1017,waor1240,http://concepticon.clld.org/parameters/1897,godõgãbæ̃ kæ,"help, aid"
+255-125,waor1240,http://concepticon.clld.org/parameters/1550,wææ kæ,"hinder, prevent"
+255-500,waor1240,http://concepticon.clld.org/parameters/1747,do-dã-di dã-di kæ-ga-ĩ,custom
+255-621,waor1240,http://concepticon.clld.org/parameters/1848,wæætedõ wæætẽ dã-da pĩĩ-dõ,"strife, quarrel"
+255-1019,waor1240,http://concepticon.clld.org/parameters/1831,bee tẽ,meet
+255-504,waor1240,http://concepticon.clld.org/parameters/1610,æ̃æ̃-kæ-te ã-te dẽ to-wẽ-gã,prostitute
+255-824,waor1240,http://concepticon.clld.org/parameters/1423,gẽadõ gẽã kæ,fight (vb)
+255-800,waor1240,http://concepticon.clld.org/parameters/579,tiyæ̃dõ tiyæ̃ dã-di kæ-pãbo,"war, battle"
+255-901,waor1240,http://concepticon.clld.org/parameters/1338,piyæ̃-dẽ dã-di kæ-pãbo,peace
+255-30,waor1240,http://concepticon.clld.org/parameters/1561,[tõtado]-idi,army
+255-282,waor1240,http://concepticon.clld.org/parameters/1941,[tõtado],soldier
+255-639,waor1240,http://concepticon.clld.org/parameters/951,wæ̃-dõ-gĩ-koo,"weapons, arms"
+255-517,waor1240,http://concepticon.clld.org/parameters/1763,kãta,club
+255-699,waor1240,http://concepticon.clld.org/parameters/386,dika-bæ,battle-ax
+255-22,waor1240,http://concepticon.clld.org/parameters/387,dika-bõ wido piyæ̃ka-kĩ,sling
+255-879,waor1240,http://concepticon.clld.org/parameters/994,too piyæ̃ka-ĩ-wæ̃,bow
+255-592,waor1240,http://concepticon.clld.org/parameters/977,too piyæ̃ka-ĩ,arrow
+255-881,waor1240,http://concepticon.clld.org/parameters/945,tapa,spear
+255-433,waor1240,http://concepticon.clld.org/parameters/1535,yaẽ-bẽ,sword
+255-530,waor1240,http://concepticon.clld.org/parameters/1566,tẽyabõ,"gun, cannon"
+255-704,waor1240,http://concepticon.clld.org/parameters/1061,wææ kæ-ĩ-ta,armor (defensive)
+255-478,waor1240,http://concepticon.clld.org/parameters/1680,tæ̃ĩ-ta ẽ-ka-ĩ-ka,helmet
+255-704,waor1240,http://concepticon.clld.org/parameters/1064,wææ kæ-ĩ-ta,shield
+255-14,waor1240,http://concepticon.clld.org/parameters/1938,tæ̃ĩ wææ kæ-ĩ-kõ,fortress
+255-298,waor1240,http://concepticon.clld.org/parameters/1671,go-bõ a-ĩ-kõ,tower
+255-249,waor1240,http://concepticon.clld.org/parameters/783,dã-di [gãdã] kæ-dõ,victory
+255-220,waor1240,http://concepticon.clld.org/parameters/782,dã-di wido kæ-pãbo,defeat
+255-600,waor1240,http://concepticon.clld.org/parameters/722,pĩĩ-te kæ,attack
+255-389,waor1240,http://concepticon.clld.org/parameters/1330,tiyæ̃dõ tiyæ̃ kæ,defend
+255-95,waor1240,http://concepticon.clld.org/parameters/421,wadæ go,retreat
+255-689,waor1240,http://concepticon.clld.org/parameters/1696,piyæ̃-dẽ kæ-te dã-bã go-dõ,surrender
+255-590,waor1240,http://concepticon.clld.org/parameters/1072,tee bõ-de-te õgõ-gã,"captive, prisoner"
+255-723,waor1240,http://concepticon.clld.org/parameters/1940,dẽ wææ wãdõ-gã,"guard, sentinel"
+255-331,waor1240,http://concepticon.clld.org/parameters/1022,dã-di õõ æ̃æ̃-dõ,"booty, spoils"
+255-181,waor1240,http://concepticon.clld.org/parameters/65,a-wẽ-bõ wãdõ kõ,ambush
+255-831,waor1240,http://concepticon.clld.org/parameters/1858,gæyæ dẽ dadõ-gã,fisherman
+255-93,waor1240,http://concepticon.clld.org/parameters/1074,bogæ̃,fishhook
+255-239,waor1240,http://concepticon.clld.org/parameters/19,bogæ̃-bẽ,fishing line
+255-1029,waor1240,http://concepticon.clld.org/parameters/388,digĩ-tai,fishnet
+255-970,waor1240,http://concepticon.clld.org/parameters/389,gæyæ wẽ-te æ̃æ̃-ĩ-kade,fish trap
+255-344,waor1240,http://concepticon.clld.org/parameters/1435,õõ-ĩ-gã æ̃æ̃-gĩ go,hunt
+255-793,waor1240,http://concepticon.clld.org/parameters/1172,ã-po,shoot
+255-708,waor1240,http://concepticon.clld.org/parameters/161,gããdẽ piyæ̃ kæ,miss (target)
+255-774,waor1240,http://concepticon.clld.org/parameters/1062,dã-di wææ ã-dõ,law
+255-542,waor1240,http://concepticon.clld.org/parameters/1068,owẽ-po-kĩ -bãka-dẽ,court
+255-930,waor1240,http://concepticon.clld.org/parameters/1818,apæ̃-te ã,judge (vb)
+255-64,waor1240,http://concepticon.clld.org/parameters/1067,apæ̃-te dã-dõ ã-dõ,judgment
+255-133,waor1240,http://concepticon.clld.org/parameters/861,dẽ apæ̃-te ã-gã,judge (noun)
+255-446,waor1240,http://concepticon.clld.org/parameters/1034,dẽ wææ ã-gã,defendant
+255-1050,waor1240,http://concepticon.clld.org/parameters/1144,dẽ a-dĩ-gã ĩ-te dẽ apæ̃de-kã,witness
+255-862,waor1240,http://concepticon.clld.org/parameters/1939,'dãwãgã ã-bo-pa,swear
+255-997,waor1240,http://concepticon.clld.org/parameters/1939,' ã,swear
+255-273,waor1240,http://concepticon.clld.org/parameters/988,yẽpo kæ,acquit
+255-186,waor1240,http://concepticon.clld.org/parameters/1682,dẽ wẽdæ wẽdæ kæ-dĩ-gã,guilty
+255-171,waor1240,http://concepticon.clld.org/parameters/90,wĩ-wa kæ-dãbaĩ ĩ-dĩ-gã,innocent
+255-538,waor1240,http://concepticon.clld.org/parameters/390,dã-di pã-dõ,"penalty, punishment"
+255-283,waor1240,http://concepticon.clld.org/parameters/1281,tee bõ-de-ĩ-kõ,"prison, jail"
+255-50,waor1240,http://concepticon.clld.org/parameters/845,dã-dõ wæ̃-dõ-dõ,murder
+255-827,waor1240,http://concepticon.clld.org/parameters/902,dã-dõ to-wẽ-dõ,adultery
+255-830,waor1240,http://concepticon.clld.org/parameters/953,wĩ-wa dã-dõ bãa-dõ,rape
+255-359,waor1240,http://concepticon.clld.org/parameters/1889,'bæko æ̃i-kĩ,arson
+255-841,waor1240,http://concepticon.clld.org/parameters/1889,' ã-te dãdõ tãdõ-dõ,arson
+255-589,waor1240,http://concepticon.clld.org/parameters/713,a-wẽ-bõ æ̃æ̃,steal
+255-227,waor1240,http://concepticon.clld.org/parameters/1160,dẽ a-wẽ-bõ æ̃æ̃-gã,thief
+255-72,waor1240,http://concepticon.clld.org/parameters/661,dã-dõ põdẽ-te kẽwẽ-dõ,religion
+255-423,waor1240,http://concepticon.clld.org/parameters/1944,Wæ̃gõgĩ,God
+255-893,waor1240,http://concepticon.clld.org/parameters/911,Wæ̃gõgĩ ĩ-gã-te dã-di apæ̃-de-ĩ-kõ,"temple, church"
+255-549,waor1240,http://concepticon.clld.org/parameters/853,dã-di iya tã-ĩ-paa,altar
+255-886,waor1240,http://concepticon.clld.org/parameters/24,Wæ̃gõgĩ ĩ-gã-te apæ̃-de,pray
+255-51,waor1240,http://concepticon.clld.org/parameters/852,[pagode],priest
+255-449,waor1240,http://concepticon.clld.org/parameters/1702,tæiyæ̃ wa-ẽ-bõ,"holy, sacred"
+255-663,waor1240,http://concepticon.clld.org/parameters/304,Wæ̃gõgĩ beyæ̃ apæ̃-de,preach
+255-630,waor1240,http://concepticon.clld.org/parameters/8,yiwæ̃-te wĩ-wa ã,curse
+255-707,waor1240,http://concepticon.clld.org/parameters/303,ee a-te kæ̃-dãbaĩ,fast (vb)
+255-16,waor1240,http://concepticon.clld.org/parameters/1565,õõdæ,heaven
+255-400,waor1240,http://concepticon.clld.org/parameters/1973,wẽdæ,demon (evil spirit)
+255-513,waor1240,http://concepticon.clld.org/parameters/392,idõ dã-dõ yewæ̃-te kæ-ĩ,"magic, witchcraft, sorcery"
+255-788,waor1240,http://concepticon.clld.org/parameters/2137,idõ,"sorcerer, witch"
+255-33,waor1240,http://concepticon.clld.org/parameters/1175,wao badĩ,"ghost, phantom"
+255-752,waor1240,http://concepticon.clld.org/parameters/107,kæwẽdẽ-te dãdõ ã-dõ,"omen, portent"

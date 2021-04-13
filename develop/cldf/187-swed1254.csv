@@ -1,0 +1,2098 @@
+ID,Language_ID,Feature_ID,Value,Concept
+187-1531,swed1254,http://concepticon.clld.org/parameters/965,verld,world
+187-1769,swed1254,http://concepticon.clld.org/parameters/965,värld,world
+187-544,swed1254,http://concepticon.clld.org/parameters/626,jord,"earth, land"
+187-1456,swed1254,http://concepticon.clld.org/parameters/626,land,"earth, land"
+187-702,swed1254,http://concepticon.clld.org/parameters/1228,grund,"earth=ground, soil"
+187-1456,swed1254,http://concepticon.clld.org/parameters/1228,land,"earth=ground, soil"
+187-918,swed1254,http://concepticon.clld.org/parameters/1228,mark,"earth=ground, soil"
+187-544,swed1254,http://concepticon.clld.org/parameters/1228,jord,"earth=ground, soil"
+187-1285,swed1254,http://concepticon.clld.org/parameters/2,damm,dust
+187-54,swed1254,http://concepticon.clld.org/parameters/2,stoft,dust
+187-703,swed1254,http://concepticon.clld.org/parameters/640,gyttja,mud
+187-253,swed1254,http://concepticon.clld.org/parameters/640,dy,mud
+187-632,swed1254,http://concepticon.clld.org/parameters/640,mudder,mud
+187-34,swed1254,http://concepticon.clld.org/parameters/640,gäggamoja,mud
+187-46,swed1254,http://concepticon.clld.org/parameters/640,lera,mud
+187-1004,swed1254,http://concepticon.clld.org/parameters/671,sand,sand
+187-436,swed1254,http://concepticon.clld.org/parameters/2118,berg,"mountain, hill"
+187-122,swed1254,http://concepticon.clld.org/parameters/2118,kulle,"mountain, hill"
+187-1301,swed1254,http://concepticon.clld.org/parameters/2118,fjäll,"mountain, hill"
+187-887,swed1254,http://concepticon.clld.org/parameters/2118,backe,"mountain, hill"
+187-331,swed1254,http://concepticon.clld.org/parameters/618,klippa,"cliff, precipice"
+187-1614,swed1254,http://concepticon.clld.org/parameters/618,stup,"cliff, precipice"
+187-1060,swed1254,http://concepticon.clld.org/parameters/652,slätt,"plain, field"
+187-1661,swed1254,http://concepticon.clld.org/parameters/652,fält,"plain, field"
+187-1596,swed1254,http://concepticon.clld.org/parameters/921,dal,valley
+187-831,swed1254,http://concepticon.clld.org/parameters/622,ö,island
+187-1561,swed1254,http://concepticon.clld.org/parameters/166,fastland,mainland
+187-1000,swed1254,http://concepticon.clld.org/parameters/113,strand,shore
+187-723,swed1254,http://concepticon.clld.org/parameters/113,kust,shore
+187-82,swed1254,http://concepticon.clld.org/parameters/1155,håla,cave
+187-313,swed1254,http://concepticon.clld.org/parameters/1155,grotta,cave
+187-1094,swed1254,http://concepticon.clld.org/parameters/948,vatten,water
+187-375,swed1254,http://concepticon.clld.org/parameters/1474,hav,sea
+187-942,swed1254,http://concepticon.clld.org/parameters/1474,sjö,sea
+187-102,swed1254,http://concepticon.clld.org/parameters/258,stilla,calm (of sea)
+187-1021,swed1254,http://concepticon.clld.org/parameters/259,stormig,rough (of sea)
+187-563,swed1254,http://concepticon.clld.org/parameters/1768,skum,foam
+187-375,swed1254,http://concepticon.clld.org/parameters/645,hav,ocean
+187-206,swed1254,http://concepticon.clld.org/parameters/645,ocean,ocean
+187-942,swed1254,http://concepticon.clld.org/parameters/624,sjö,lake
+187-728,swed1254,http://concepticon.clld.org/parameters/624,in-sjö,lake
+187-1028,swed1254,http://concepticon.clld.org/parameters/663,vik,"gulf, bay"
+187-1340,swed1254,http://concepticon.clld.org/parameters/663,bukt,"gulf, bay"
+187-2,swed1254,http://concepticon.clld.org/parameters/623,lagun,lagoon
+187-1617,swed1254,http://concepticon.clld.org/parameters/660,rev,reef
+187-1051,swed1254,http://concepticon.clld.org/parameters/1662,udde,"headland, point"
+187-388,swed1254,http://concepticon.clld.org/parameters/1662,land-tunga,"headland, point"
+187-1458,swed1254,http://concepticon.clld.org/parameters/1662,tunga,"headland, point"
+187-737,swed1254,http://concepticon.clld.org/parameters/978,våg,wave
+187-1036,swed1254,http://concepticon.clld.org/parameters/978,bölja,wave
+187-676,swed1254,http://concepticon.clld.org/parameters/891,tid-vatten,tide
+187-261,swed1254,http://concepticon.clld.org/parameters/891,ebb och flod,tide
+187-1052,swed1254,http://concepticon.clld.org/parameters/1026,låg-vatten,lowtide
+187-1740,swed1254,http://concepticon.clld.org/parameters/1026,ebb,lowtide
+187-648,swed1254,http://concepticon.clld.org/parameters/613,hög-vatten,hightide
+187-1465,swed1254,http://concepticon.clld.org/parameters/613,flod,hightide
+187-1465,swed1254,http://concepticon.clld.org/parameters/666,flod,"river, stream, brook"
+187-1799,swed1254,http://concepticon.clld.org/parameters/666,älv,"river, stream, brook"
+187-798,swed1254,http://concepticon.clld.org/parameters/666,å,"river, stream, brook"
+187-904,swed1254,http://concepticon.clld.org/parameters/666,ström,"river, stream, brook"
+187-594,swed1254,http://concepticon.clld.org/parameters/666,bäck,"river, stream, brook"
+187-17,swed1254,http://concepticon.clld.org/parameters/1982,virvel,whirlpool
+187-1329,swed1254,http://concepticon.clld.org/parameters/1982,ström-virvel,whirlpool
+187-182,swed1254,http://concepticon.clld.org/parameters/2144,källa,"spring, well"
+187-1753,swed1254,http://concepticon.clld.org/parameters/2144,brunn,"spring, well"
+187-1543,swed1254,http://concepticon.clld.org/parameters/1145,kärr,swamp
+187-1791,swed1254,http://concepticon.clld.org/parameters/1145,myr,swamp
+187-1401,swed1254,http://concepticon.clld.org/parameters/1145,träsk,swamp
+187-698,swed1254,http://concepticon.clld.org/parameters/1145,sump-mark,swamp
+187-1200,swed1254,http://concepticon.clld.org/parameters/943,vatten-fall,waterfall
+187-438,swed1254,http://concepticon.clld.org/parameters/943,fors,waterfall
+187-1610,swed1254,http://concepticon.clld.org/parameters/420,skog,"woods, forest"
+187-1896,swed1254,http://concepticon.clld.org/parameters/906,träd,tree (cf 08.600)
+187-1523,swed1254,http://concepticon.clld.org/parameters/1803,trä,wood
+187-1385,swed1254,http://concepticon.clld.org/parameters/2125,sten,"stone, rock"
+187-331,swed1254,http://concepticon.clld.org/parameters/2125,klippa,"stone, rock"
+187-569,swed1254,http://concepticon.clld.org/parameters/6,jord-bävning,earthquake
+187-755,swed1254,http://concepticon.clld.org/parameters/1732,himmel,sky
+187-1843,swed1254,http://concepticon.clld.org/parameters/1732,sky,sky
+187-417,swed1254,http://concepticon.clld.org/parameters/1343,sol,sun
+187-1477,swed1254,http://concepticon.clld.org/parameters/1313,måne,moon
+187-1009,swed1254,http://concepticon.clld.org/parameters/1430,stjärna,star
+187-1231,swed1254,http://concepticon.clld.org/parameters/1654,blixt,lightning
+187-60,swed1254,http://concepticon.clld.org/parameters/1150,åska,thunder
+187-1252,swed1254,http://concepticon.clld.org/parameters/1150,tordön,thunder
+187-1231,swed1254,http://concepticon.clld.org/parameters/2007,blixt,lightning (as striking)
+187-1333,swed1254,http://concepticon.clld.org/parameters/2007,åsk-slag,lightning (as striking)
+187-1124,swed1254,http://concepticon.clld.org/parameters/2007,åsk-vigg,lightning (as striking)
+187-1166,swed1254,http://concepticon.clld.org/parameters/858,storm,storm
+187-810,swed1254,http://concepticon.clld.org/parameters/858,o-väder,storm
+187-32,swed1254,http://concepticon.clld.org/parameters/1733,regn-båge,rainbow
+187-75,swed1254,http://concepticon.clld.org/parameters/630,ljus,light (noun)
+187-697,swed1254,http://concepticon.clld.org/parameters/11,mörker,darkness
+187-1833,swed1254,http://concepticon.clld.org/parameters/1388,skugga,"shade, shadow"
+187-1862,swed1254,http://concepticon.clld.org/parameters/1977,dagg,dew
+187-812,swed1254,http://concepticon.clld.org/parameters/27,luft,air
+187-1241,swed1254,http://concepticon.clld.org/parameters/960,vind,wind
+187-458,swed1254,http://concepticon.clld.org/parameters/1489,moln,cloud
+187-1843,swed1254,http://concepticon.clld.org/parameters/1489,sky,cloud
+187-1812,swed1254,http://concepticon.clld.org/parameters/249,dimma,fog
+187-158,swed1254,http://concepticon.clld.org/parameters/249,töcken,fog
+187-1696,swed1254,http://concepticon.clld.org/parameters/658,regn,rain (noun)
+187-44,swed1254,http://concepticon.clld.org/parameters/784,snö,snow (noun)
+187-334,swed1254,http://concepticon.clld.org/parameters/617,is,ice
+187-1758,swed1254,http://concepticon.clld.org/parameters/952,väder,weather
+187-370,swed1254,http://concepticon.clld.org/parameters/221,eld,fire
+187-1205,swed1254,http://concepticon.clld.org/parameters/889,låga,flame (noun)
+187-1629,swed1254,http://concepticon.clld.org/parameters/889,flamma,flame (noun)
+187-26,swed1254,http://concepticon.clld.org/parameters/778,rök,smoke (noun)
+187-311,swed1254,http://concepticon.clld.org/parameters/646,aska,ashes
+187-1127,swed1254,http://concepticon.clld.org/parameters/67,glöd,embers
+187-1559,swed1254,http://concepticon.clld.org/parameters/67,glödande kol,embers
+187-1566,swed1254,http://concepticon.clld.org/parameters/141,bränna,burn (vb trans)
+187-1336,swed1254,http://concepticon.clld.org/parameters/1428,brinna,burn (vb intrans)
+187-430,swed1254,http://concepticon.clld.org/parameters/737,tända,"light, kindle, ignite"
+187-1767,swed1254,http://concepticon.clld.org/parameters/127,släcka,extinguish
+187-332,swed1254,http://concepticon.clld.org/parameters/1133,tänd-sticka,match (noun)
+187-499,swed1254,http://concepticon.clld.org/parameters/10,ved,firewood
+187-1164,swed1254,http://concepticon.clld.org/parameters/1188,kol,charcoal
+187-268,swed1254,http://concepticon.clld.org/parameters/683,menniska,"person, human being"
+187-901,swed1254,http://concepticon.clld.org/parameters/683,människa,"person, human being"
+187-609,swed1254,http://concepticon.clld.org/parameters/1554,man,man (vs. woman)
+187-1137,swed1254,http://concepticon.clld.org/parameters/962,kvinna,woman
+187-1922,swed1254,http://concepticon.clld.org/parameters/2263,manlig,male
+187-926,swed1254,http://concepticon.clld.org/parameters/2260,kvinnlig,female
+187-1735,swed1254,http://concepticon.clld.org/parameters/1366,gosse,boy
+187-593,swed1254,http://concepticon.clld.org/parameters/1366,pojke,boy
+187-1939,swed1254,http://concepticon.clld.org/parameters/76,ung man,young man (adolescent)
+187-1478,swed1254,http://concepticon.clld.org/parameters/76,ung-dom,young man (adolescent)
+187-1748,swed1254,http://concepticon.clld.org/parameters/1646,flicka,girl
+187-709,swed1254,http://concepticon.clld.org/parameters/1646,(tjej),girl
+187-1226,swed1254,http://concepticon.clld.org/parameters/77,ung flicka,young woman (adolescent)
+187-1478,swed1254,http://concepticon.clld.org/parameters/77,ung-dom,young woman (adolescent)
+187-1598,swed1254,http://concepticon.clld.org/parameters/1304,barn,child
+187-1092,swed1254,http://concepticon.clld.org/parameters/1289,späd-barn,"infant, baby"
+187-1468,swed1254,http://concepticon.clld.org/parameters/1289,baby,"infant, baby"
+187-609,swed1254,http://concepticon.clld.org/parameters/1200,man,husband
+187-1015,swed1254,http://concepticon.clld.org/parameters/1200,äkta man,husband
+187-341,swed1254,http://concepticon.clld.org/parameters/1200,make,husband
+187-1487,swed1254,http://concepticon.clld.org/parameters/1199,hustru,wife
+187-276,swed1254,http://concepticon.clld.org/parameters/1199,maka,wife
+187-312,swed1254,http://concepticon.clld.org/parameters/1199,fru,wife
+187-614,swed1254,http://concepticon.clld.org/parameters/203,gifta sig,marry
+187-561,swed1254,http://concepticon.clld.org/parameters/203,äkta,marry
+187-1541,swed1254,http://concepticon.clld.org/parameters/1259,gifter-mål,"marriage, wedding"
+187-554,swed1254,http://concepticon.clld.org/parameters/1259,äkten-skap,"marriage, wedding"
+187-1297,swed1254,http://concepticon.clld.org/parameters/1259,bröllop,"marriage, wedding"
+187-154,swed1254,http://concepticon.clld.org/parameters/1134,skils-mässa,divorce
+187-1420,swed1254,http://concepticon.clld.org/parameters/1217,fader,father
+187-993,swed1254,http://concepticon.clld.org/parameters/1217,far,father
+187-857,swed1254,http://concepticon.clld.org/parameters/1216,moder,mother
+187-879,swed1254,http://concepticon.clld.org/parameters/1216,mor,mother
+187-1901,swed1254,http://concepticon.clld.org/parameters/505,för-äldrar,parents
+187-578,swed1254,http://concepticon.clld.org/parameters/424,gift man,married man
+187-1017,swed1254,http://concepticon.clld.org/parameters/426,gift kvinna,married woman
+187-419,swed1254,http://concepticon.clld.org/parameters/1620,son,son
+187-465,swed1254,http://concepticon.clld.org/parameters/1357,dotter,daughter
+187-389,swed1254,http://concepticon.clld.org/parameters/1801,av-komma,offspring (son or daughter)
+187-623,swed1254,http://concepticon.clld.org/parameters/1801,ättling,offspring (son or daughter)
+187-1826,swed1254,http://concepticon.clld.org/parameters/1262,broder,brother
+187-834,swed1254,http://concepticon.clld.org/parameters/1262,bror,brother
+187-597,swed1254,http://concepticon.clld.org/parameters/1759,äldre bror,older brother
+187-1722,swed1254,http://concepticon.clld.org/parameters/1760,yngre bror,younger brother
+187-1653,swed1254,http://concepticon.clld.org/parameters/1263,syster,sister
+187-386,swed1254,http://concepticon.clld.org/parameters/1758,äldre syster,older sister
+187-1569,swed1254,http://concepticon.clld.org/parameters/1761,yngre syster,younger sister
+187-1945,swed1254,http://concepticon.clld.org/parameters/1640,syskon,sibling
+187-376,swed1254,http://concepticon.clld.org/parameters/1005,tvillingar,twins
+187-1623,swed1254,http://concepticon.clld.org/parameters/1383,far-far,grandfather
+187-1733,swed1254,http://concepticon.clld.org/parameters/1383,mor-far,grandfather
+187-626,swed1254,http://concepticon.clld.org/parameters/406,åldring,old man
+187-1505,swed1254,http://concepticon.clld.org/parameters/1496,far-mor,grandmother
+187-1224,swed1254,http://concepticon.clld.org/parameters/1496,mor-mor,grandmother
+187-626,swed1254,http://concepticon.clld.org/parameters/907,åldring,old woman
+187-383,swed1254,http://concepticon.clld.org/parameters/1618,son-son,grandson
+187-815,swed1254,http://concepticon.clld.org/parameters/1618,dotter-son,grandson
+187-1212,swed1254,http://concepticon.clld.org/parameters/1619,son-dotter,granddaughter
+187-562,swed1254,http://concepticon.clld.org/parameters/1619,dotter-dotter,granddaughter
+187-1102,swed1254,http://concepticon.clld.org/parameters/1327,far-bror,uncle
+187-12,swed1254,http://concepticon.clld.org/parameters/1327,mor-bror,uncle
+187-978,swed1254,http://concepticon.clld.org/parameters/1327,onkel,uncle
+187-12,swed1254,http://concepticon.clld.org/parameters/1984,mor-bror,mother's brother
+187-1102,swed1254,http://concepticon.clld.org/parameters/1985,far-bror,father's brother
+187-1677,swed1254,http://concepticon.clld.org/parameters/1272,moster,aunt
+187-476,swed1254,http://concepticon.clld.org/parameters/1272,faster,aunt
+187-330,swed1254,http://concepticon.clld.org/parameters/1272,tant,aunt
+187-1677,swed1254,http://concepticon.clld.org/parameters/171,moster,mother's sister
+187-476,swed1254,http://concepticon.clld.org/parameters/170,faster,father's sister
+187-883,swed1254,http://concepticon.clld.org/parameters/1063,bror-son,nephew
+187-714,swed1254,http://concepticon.clld.org/parameters/1063,syster-son,nephew
+187-1230,swed1254,http://concepticon.clld.org/parameters/1063,nevö,nephew
+187-399,swed1254,http://concepticon.clld.org/parameters/1642,brors-dotter,niece
+187-418,swed1254,http://concepticon.clld.org/parameters/1642,syster-dotter,niece
+187-33,swed1254,http://concepticon.clld.org/parameters/1643,syskon-barn,cousin
+187-1187,swed1254,http://concepticon.clld.org/parameters/1643,kusin,cousin
+187-1246,swed1254,http://concepticon.clld.org/parameters/1669,för-fäder,ancestors
+187-537,swed1254,http://concepticon.clld.org/parameters/490,av-komlingar,descendants
+187-227,swed1254,http://concepticon.clld.org/parameters/490,ättlingar,descendants
+187-1040,swed1254,http://concepticon.clld.org/parameters/2255,svär-far,father-in-law (of a man)
+187-1040,swed1254,http://concepticon.clld.org/parameters/2254,svär-far,father-in-law (of a woman)
+187-78,swed1254,http://concepticon.clld.org/parameters/2256,svär-mor,mother-in-law (of a man)
+187-78,swed1254,http://concepticon.clld.org/parameters/2257,svär-mor,mother-in-law (of a woman)
+187-492,swed1254,http://concepticon.clld.org/parameters/2267,svär-son,son-in-law (of a man)
+187-492,swed1254,http://concepticon.clld.org/parameters/2266,svär-son,son-in-law (of a woman)
+187-1377,swed1254,http://concepticon.clld.org/parameters/2265,svär-dotter,daughter-in-law (of a man)
+187-1377,swed1254,http://concepticon.clld.org/parameters/2264,svär-dotter,daughter-in-law (of a woman)
+187-1473,swed1254,http://concepticon.clld.org/parameters/237,styf-far,stepfather
+187-532,swed1254,http://concepticon.clld.org/parameters/237,styv-far,stepfather
+187-1270,swed1254,http://concepticon.clld.org/parameters/236,styf-moder,stepmother
+187-315,swed1254,http://concepticon.clld.org/parameters/236,styv-moder,stepmother
+187-836,swed1254,http://concepticon.clld.org/parameters/1059,styf-son,stepson
+187-1770,swed1254,http://concepticon.clld.org/parameters/1059,styv-son,stepson
+187-685,swed1254,http://concepticon.clld.org/parameters/1058,styf-dotter,stepdaughter
+187-1170,swed1254,http://concepticon.clld.org/parameters/1058,styv-dotter,stepdaughter
+187-1438,swed1254,http://concepticon.clld.org/parameters/1149,för-äldra-löst barn,orphan
+187-704,swed1254,http://concepticon.clld.org/parameters/1756,änka,widow
+187-1627,swed1254,http://concepticon.clld.org/parameters/1981,änkling,widower
+187-1076,swed1254,http://concepticon.clld.org/parameters/1644,släktingar,"relatives, kinsmen"
+187-1034,swed1254,http://concepticon.clld.org/parameters/194,familj,family
+187-1720,swed1254,http://concepticon.clld.org/parameters/1209,jag,I
+187-254,swed1254,http://concepticon.clld.org/parameters/1215,du,you (singular)
+187-1703,swed1254,http://concepticon.clld.org/parameters/262,han/hon/den/det,he/she/it
+187-1804,swed1254,http://concepticon.clld.org/parameters/1212,vi,we
+187-1804,swed1254,http://concepticon.clld.org/parameters/1131,vi,we (inclusive)
+187-1804,swed1254,http://concepticon.clld.org/parameters/1130,vi,we (exclusive)
+187-463,swed1254,http://concepticon.clld.org/parameters/1213,ni,you (plural)
+187-248,swed1254,http://concepticon.clld.org/parameters/817,de,they
+187-1358,swed1254,http://concepticon.clld.org/parameters/619,djur,animal
+187-333,swed1254,http://concepticon.clld.org/parameters/2261,han-,male (adj)
+187-220,swed1254,http://concepticon.clld.org/parameters/2261,hanne,male (adj)
+187-356,swed1254,http://concepticon.clld.org/parameters/2262,hon-,female (adj)
+187-764,swed1254,http://concepticon.clld.org/parameters/631,kreatur,livestock
+187-1918,swed1254,http://concepticon.clld.org/parameters/631,bo-skap,livestock
+187-731,swed1254,http://concepticon.clld.org/parameters/649,bete,pasture
+187-729,swed1254,http://concepticon.clld.org/parameters/649,beta,pasture
+187-656,swed1254,http://concepticon.clld.org/parameters/649,betes-mark,pasture
+187-701,swed1254,http://concepticon.clld.org/parameters/263,herde,herdsman
+187-1179,swed1254,http://concepticon.clld.org/parameters/851,stall,"stable, stall"
+187-143,swed1254,http://concepticon.clld.org/parameters/1153,boskap,cattle (bovine)
+187-157,swed1254,http://concepticon.clld.org/parameters/1008,tjur,bull
+187-1236,swed1254,http://concepticon.clld.org/parameters/1169,oxe,ox
+187-1214,swed1254,http://concepticon.clld.org/parameters/1007,ko,cow
+187-366,swed1254,http://concepticon.clld.org/parameters/1989,kalv,calf
+187-756,swed1254,http://concepticon.clld.org/parameters/1331,får,sheep
+187-1409,swed1254,http://concepticon.clld.org/parameters/1344,bagge,ram
+187-1518,swed1254,http://concepticon.clld.org/parameters/1344,vädur,ram
+187-1080,swed1254,http://concepticon.clld.org/parameters/1344,gumse,ram
+187-1039,swed1254,http://concepticon.clld.org/parameters/1345,tacka,ewe
+187-1562,swed1254,http://concepticon.clld.org/parameters/820,lamm,lamb
+187-1184,swed1254,http://concepticon.clld.org/parameters/1348,galt,boar
+187-922,swed1254,http://concepticon.clld.org/parameters/1348,fargalt,boar
+187-1064,swed1254,http://concepticon.clld.org/parameters/1351,sugga,sow (2)
+187-617,swed1254,http://concepticon.clld.org/parameters/1351,so,sow (2)
+187-1311,swed1254,http://concepticon.clld.org/parameters/1337,gris,pig
+187-763,swed1254,http://concepticon.clld.org/parameters/1502,get,goat
+187-520,swed1254,http://concepticon.clld.org/parameters/264,bock,he-goat
+187-355,swed1254,http://concepticon.clld.org/parameters/1972,kid,kid
+187-425,swed1254,http://concepticon.clld.org/parameters/615,häst,horse (equine)
+187-184,swed1254,http://concepticon.clld.org/parameters/936,hingst,stallion
+187-1177,swed1254,http://concepticon.clld.org/parameters/938,sto,mare
+187-935,swed1254,http://concepticon.clld.org/parameters/938,märr,mare
+187-431,swed1254,http://concepticon.clld.org/parameters/1647,föl,"foal, colt"
+187-1691,swed1254,http://concepticon.clld.org/parameters/1647,fåle,"foal, colt"
+187-416,swed1254,http://concepticon.clld.org/parameters/1862,åsna,"ass, donkey"
+187-1366,swed1254,http://concepticon.clld.org/parameters/890,mul-åsna,mule
+187-398,swed1254,http://concepticon.clld.org/parameters/265,fågel,fowl
+187-936,swed1254,http://concepticon.clld.org/parameters/1511,tupp,"cock, rooster"
+187-348,swed1254,http://concepticon.clld.org/parameters/1511,hane,"cock, rooster"
+187-361,swed1254,http://concepticon.clld.org/parameters/1514,höna,hen
+187-357,swed1254,http://concepticon.clld.org/parameters/1318,höns,chicken
+187-390,swed1254,http://concepticon.clld.org/parameters/1318,kyckling,chicken
+187-1730,swed1254,http://concepticon.clld.org/parameters/1187,gås,goose
+187-710,swed1254,http://concepticon.clld.org/parameters/1360,and,duck
+187-1384,swed1254,http://concepticon.clld.org/parameters/539,bo,nest
+187-180,swed1254,http://concepticon.clld.org/parameters/539,näste,nest
+187-1524,swed1254,http://concepticon.clld.org/parameters/539,rede,nest
+187-398,swed1254,http://concepticon.clld.org/parameters/937,fågel,bird
+187-1315,swed1254,http://concepticon.clld.org/parameters/950,fisk-mås,seagull
+187-1852,swed1254,http://concepticon.clld.org/parameters/950,mås,seagull
+187-873,swed1254,http://concepticon.clld.org/parameters/758,häger,heron
+187-240,swed1254,http://concepticon.clld.org/parameters/1905,örn,eagle
+187-1325,swed1254,http://concepticon.clld.org/parameters/307,hök,hawk
+187-1291,swed1254,http://concepticon.clld.org/parameters/1185,gam,vulture
+187-439,swed1254,http://concepticon.clld.org/parameters/1793,fladder-mus,bat
+187-1404,swed1254,http://concepticon.clld.org/parameters/882,papegoja,parrot
+187-444,swed1254,http://concepticon.clld.org/parameters/913,kråka,crow
+187-523,swed1254,http://concepticon.clld.org/parameters/1853,duva,dove
+187-1946,swed1254,http://concepticon.clld.org/parameters/735,uggla,owl
+187-385,swed1254,http://concepticon.clld.org/parameters/2009,hund,dog
+187-287,swed1254,http://concepticon.clld.org/parameters/1136,kanin,rabbit
+187-1126,swed1254,http://concepticon.clld.org/parameters/1136,hare,rabbit
+187-1467,swed1254,http://concepticon.clld.org/parameters/1208,katt,cat
+187-1654,swed1254,http://concepticon.clld.org/parameters/309,opossum,opossum
+187-278,swed1254,http://concepticon.clld.org/parameters/2139,mus,"mouse, rat"
+187-722,swed1254,http://concepticon.clld.org/parameters/2139,råtta,"mouse, rat"
+187-1125,swed1254,http://concepticon.clld.org/parameters/227,fisk,fish
+187-542,swed1254,http://concepticon.clld.org/parameters/213,fena,fin (dorsal)
+187-1301,swed1254,http://concepticon.clld.org/parameters/266,fjäll,fishscale
+187-1461,swed1254,http://concepticon.clld.org/parameters/1916,gäl,gill
+187-982,swed1254,http://concepticon.clld.org/parameters/598,snäcka,shell
+187-824,swed1254,http://concepticon.clld.org/parameters/598,snäck-skal,shell
+187-368,swed1254,http://concepticon.clld.org/parameters/1110,haj,shark
+187-673,swed1254,http://concepticon.clld.org/parameters/1479,tumlare,"porpoise, dolphin"
+187-1932,swed1254,http://concepticon.clld.org/parameters/1479,delfin,"porpoise, dolphin"
+187-1888,swed1254,http://concepticon.clld.org/parameters/957,val,whale
+187-820,swed1254,http://concepticon.clld.org/parameters/957,val-fisk,whale
+187-142,swed1254,http://concepticon.clld.org/parameters/1910,rocka,stingray
+187-1130,swed1254,http://concepticon.clld.org/parameters/1013,ål,freshwater eel
+187-120,swed1254,http://concepticon.clld.org/parameters/522,varg,wolf
+187-575,swed1254,http://concepticon.clld.org/parameters/522,ulv,wolf
+187-1079,swed1254,http://concepticon.clld.org/parameters/1386,lejon,lion
+187-1320,swed1254,http://concepticon.clld.org/parameters/1820,björn,bear
+187-1496,swed1254,http://concepticon.clld.org/parameters/1312,räv,fox
+187-79,swed1254,http://concepticon.clld.org/parameters/1936,hjort,deer
+187-1527,swed1254,http://concepticon.clld.org/parameters/1350,apa,monkey
+187-345,swed1254,http://concepticon.clld.org/parameters/1290,elefant,elephant
+187-895,swed1254,http://concepticon.clld.org/parameters/1871,kamel,camel
+187-602,swed1254,http://concepticon.clld.org/parameters/620,insekt,insect
+187-1746,swed1254,http://concepticon.clld.org/parameters/310,lus,louse
+187-110,swed1254,http://concepticon.clld.org/parameters/232,loppa,flea
+187-1493,swed1254,http://concepticon.clld.org/parameters/1974,tusen-foting,centipede
+187-1683,swed1254,http://concepticon.clld.org/parameters/1538,skorpion,scorpion
+187-694,swed1254,http://concepticon.clld.org/parameters/1575,kacker-lacka,cockroach
+187-1024,swed1254,http://concepticon.clld.org/parameters/587,myra,ant
+187-786,swed1254,http://concepticon.clld.org/parameters/843,spindel,spider
+187-1575,swed1254,http://concepticon.clld.org/parameters/1065,spindel-nät,spider web
+187-1605,swed1254,http://concepticon.clld.org/parameters/1065,spindel-väv,spider web
+187-1386,swed1254,http://concepticon.clld.org/parameters/665,bi,bee
+187-1479,swed1254,http://concepticon.clld.org/parameters/1931,bi-vax,beeswax
+187-855,swed1254,http://concepticon.clld.org/parameters/88,bi-kupa,beehive
+187-1421,swed1254,http://concepticon.clld.org/parameters/1517,geting,wasp
+187-1090,swed1254,http://concepticon.clld.org/parameters/1504,fluga,fly
+187-1785,swed1254,http://concepticon.clld.org/parameters/1509,mygga,mosquito
+187-974,swed1254,http://concepticon.clld.org/parameters/1219,mask,worm
+187-211,swed1254,http://concepticon.clld.org/parameters/730,snok,snake
+187-678,swed1254,http://concepticon.clld.org/parameters/730,orm,snake
+187-321,swed1254,http://concepticon.clld.org/parameters/206,lys-mask,firefly
+187-404,swed1254,http://concepticon.clld.org/parameters/1791,fjäril,butterfly
+187-719,swed1254,http://concepticon.clld.org/parameters/607,gräs-hoppa,grasshopper
+187-1912,swed1254,http://concepticon.clld.org/parameters/1543,snigel,snail
+187-213,swed1254,http://concepticon.clld.org/parameters/503,groda,frog
+187-1471,swed1254,http://concepticon.clld.org/parameters/632,ödla,lizard
+187-1134,swed1254,http://concepticon.clld.org/parameters/1857,krokodil,"crocodile, alligator"
+187-1323,swed1254,http://concepticon.clld.org/parameters/112,sköld-padda,turtle
+187-1624,swed1254,http://concepticon.clld.org/parameters/1480,kropp,body
+187-700,swed1254,http://concepticon.clld.org/parameters/763,hud,"skin, hide"
+187-1256,swed1254,http://concepticon.clld.org/parameters/763,hudar,"skin, hide"
+187-146,swed1254,http://concepticon.clld.org/parameters/763,skinn,"skin, hide"
+187-16,swed1254,http://concepticon.clld.org/parameters/2259,kött,flesh
+187-140,swed1254,http://concepticon.clld.org/parameters/1040,hår,hair (head)
+187-1565,swed1254,http://concepticon.clld.org/parameters/678,skägg,beard
+187-1915,swed1254,http://concepticon.clld.org/parameters/189,kropps-hår,body hair
+187-699,swed1254,http://concepticon.clld.org/parameters/36,köns-hår,pubic hair
+187-870,swed1254,http://concepticon.clld.org/parameters/576,mjäll,dandruff
+187-872,swed1254,http://concepticon.clld.org/parameters/946,blod,blood
+187-502,swed1254,http://concepticon.clld.org/parameters/525,ven,"vein, artery"
+187-726,swed1254,http://concepticon.clld.org/parameters/525,artär,"vein, artery"
+187-1796,swed1254,http://concepticon.clld.org/parameters/525,blod-åder,"vein, artery"
+187-850,swed1254,http://concepticon.clld.org/parameters/525,puls-åder,"vein, artery"
+187-1671,swed1254,http://concepticon.clld.org/parameters/1394,ben,bone
+187-1808,swed1254,http://concepticon.clld.org/parameters/801,revben,rib
+187-28,swed1254,http://concepticon.clld.org/parameters/1393,horn,horn
+187-863,swed1254,http://concepticon.clld.org/parameters/1220,svans,tail
+187-1161,swed1254,http://concepticon.clld.org/parameters/1291,rygg,back
+187-1275,swed1254,http://concepticon.clld.org/parameters/805,rygg-rad,spine
+187-371,swed1254,http://concepticon.clld.org/parameters/1256,huvud,head
+187-1776,swed1254,http://concepticon.clld.org/parameters/1604,tinning,"side of head, temple"
+187-1835,swed1254,http://concepticon.clld.org/parameters/1605,skalle,skull
+187-917,swed1254,http://concepticon.clld.org/parameters/1583,hjärna,brain
+187-829,swed1254,http://concepticon.clld.org/parameters/1560,ansikte,face
+187-1779,swed1254,http://concepticon.clld.org/parameters/1560,anlete,face
+187-906,swed1254,http://concepticon.clld.org/parameters/123,panna,forehead
+187-807,swed1254,http://concepticon.clld.org/parameters/798,käke,jaw
+187-1171,swed1254,http://concepticon.clld.org/parameters/1730,kind,cheek
+187-1580,swed1254,http://concepticon.clld.org/parameters/1510,haka,chin
+187-1688,swed1254,http://concepticon.clld.org/parameters/1248,öga,eye
+187-1551,swed1254,http://concepticon.clld.org/parameters/1173,ögon-bryn,eyebrow
+187-1158,swed1254,http://concepticon.clld.org/parameters/17,ögon-lock,eyelid
+187-767,swed1254,http://concepticon.clld.org/parameters/1540,ögon-hår,eyelash
+187-1463,swed1254,http://concepticon.clld.org/parameters/1655,blinka,blink
+187-235,swed1254,http://concepticon.clld.org/parameters/1247,öra,ear
+187-1637,swed1254,http://concepticon.clld.org/parameters/18,ör-snibb,earlobe
+187-1711,swed1254,http://concepticon.clld.org/parameters/32,öron-vax,earwax
+187-1144,swed1254,http://concepticon.clld.org/parameters/1221,näsa,nose
+187-1293,swed1254,http://concepticon.clld.org/parameters/1178,näs-borre,nostril
+187-145,swed1254,http://concepticon.clld.org/parameters/208,slem,mucus (nasal)
+187-282,swed1254,http://concepticon.clld.org/parameters/674,mun,mouth
+187-1536,swed1254,http://concepticon.clld.org/parameters/73,näbb,beak
+187-1642,swed1254,http://concepticon.clld.org/parameters/478,läpp,lip
+187-1458,swed1254,http://concepticon.clld.org/parameters/1205,tunga,tongue
+187-328,swed1254,http://concepticon.clld.org/parameters/1380,tand,tooth
+187-640,swed1254,http://concepticon.clld.org/parameters/139,tand-kött,gums
+187-365,swed1254,http://concepticon.clld.org/parameters/1049,kind-tand,molartooth
+187-1157,swed1254,http://concepticon.clld.org/parameters/1049,oxel-tand,molartooth
+187-636,swed1254,http://concepticon.clld.org/parameters/1333,hals,neck
+187-1341,swed1254,http://concepticon.clld.org/parameters/1347,nacke,nape of neck
+187-750,swed1254,http://concepticon.clld.org/parameters/1346,strupe,throat
+187-531,swed1254,http://concepticon.clld.org/parameters/1482,axel,shoulder
+187-1520,swed1254,http://concepticon.clld.org/parameters/1482,skuldra,shoulder
+187-1548,swed1254,http://concepticon.clld.org/parameters/172,skulder-blad,shoulderblade
+187-766,swed1254,http://concepticon.clld.org/parameters/1994,nyckel-ben,collarbone
+187-1249,swed1254,http://concepticon.clld.org/parameters/1673,arm,arm
+187-637,swed1254,http://concepticon.clld.org/parameters/1886,arm-håla,armpit
+187-231,swed1254,http://concepticon.clld.org/parameters/981,arm-båge,elbow
+187-125,swed1254,http://concepticon.clld.org/parameters/799,hand-led,wrist
+187-1248,swed1254,http://concepticon.clld.org/parameters/799,hand-lov,wrist
+187-491,swed1254,http://concepticon.clld.org/parameters/799,hand-love,wrist
+187-171,swed1254,http://concepticon.clld.org/parameters/1277,hand,hand
+187-92,swed1254,http://concepticon.clld.org/parameters/1183,hand-flata,palm of hand
+187-281,swed1254,http://concepticon.clld.org/parameters/1303,finger,finger
+187-1178,swed1254,http://concepticon.clld.org/parameters/1781,tumme,thumb
+187-512,swed1254,http://concepticon.clld.org/parameters/1258,nagel,fingernail
+187-1055,swed1254,http://concepticon.clld.org/parameters/72,klo,claw
+187-625,swed1254,http://concepticon.clld.org/parameters/72,klösa,claw
+187-1521,swed1254,http://concepticon.clld.org/parameters/72,riva,claw
+187-1671,swed1254,http://concepticon.clld.org/parameters/1297,ben,leg
+187-1667,swed1254,http://concepticon.clld.org/parameters/800,lår,thigh
+187-1891,swed1254,http://concepticon.clld.org/parameters/498,vad,calf of leg
+187-1446,swed1254,http://concepticon.clld.org/parameters/1371,knä,knee
+187-394,swed1254,http://concepticon.clld.org/parameters/1301,fot,foot
+187-1702,swed1254,http://concepticon.clld.org/parameters/803,fot-led,ankle
+187-448,swed1254,http://concepticon.clld.org/parameters/803,ankel,ankle
+187-408,swed1254,http://concepticon.clld.org/parameters/980,häl,heel
+187-360,swed1254,http://concepticon.clld.org/parameters/318,fot-spår,footprint
+187-549,swed1254,http://concepticon.clld.org/parameters/318,fot-av-tryck,footprint
+187-1643,swed1254,http://concepticon.clld.org/parameters/1389,tå,toe
+187-1238,swed1254,http://concepticon.clld.org/parameters/1257,vinge,wing
+187-862,swed1254,http://concepticon.clld.org/parameters/1201,fjäder,feather
+187-1600,swed1254,http://concepticon.clld.org/parameters/1592,bröst,chest
+187-1600,swed1254,http://concepticon.clld.org/parameters/1402,bröst,breast (of woman)
+187-994,swed1254,http://concepticon.clld.org/parameters/796,bröst-vårta,"nipple, teat"
+187-1338,swed1254,http://concepticon.clld.org/parameters/796,spene,"nipple, teat"
+187-1744,swed1254,http://concepticon.clld.org/parameters/154,juver,udder
+187-478,swed1254,http://concepticon.clld.org/parameters/1838,navel,navel
+187-90,swed1254,http://concepticon.clld.org/parameters/1223,hjärta,heart
+187-77,swed1254,http://concepticon.clld.org/parameters/688,lunga,lung
+187-516,swed1254,http://concepticon.clld.org/parameters/1224,lever,liver
+187-1741,swed1254,http://concepticon.clld.org/parameters/489,njure,kidney
+187-951,swed1254,http://concepticon.clld.org/parameters/1744,splena,spleen
+187-1903,swed1254,http://concepticon.clld.org/parameters/819,buk,stomach
+187-1768,swed1254,http://concepticon.clld.org/parameters/819,mage,stomach
+187-882,swed1254,http://concepticon.clld.org/parameters/1991,darm,"intestines, guts"
+187-535,swed1254,http://concepticon.clld.org/parameters/1681,midja,waist
+187-1216,swed1254,http://concepticon.clld.org/parameters/1745,höft,hip
+187-1880,swed1254,http://concepticon.clld.org/parameters/1745,höft-led,hip
+187-1676,swed1254,http://concepticon.clld.org/parameters/1745,bäcken,hip
+187-721,swed1254,http://concepticon.clld.org/parameters/834,bak-del,buttocks
+187-1069,swed1254,http://concepticon.clld.org/parameters/834,ända,buttocks
+187-373,swed1254,http://concepticon.clld.org/parameters/834,skinka/-or,buttocks
+187-822,swed1254,http://concepticon.clld.org/parameters/804,moder-lif,womb
+187-817,swed1254,http://concepticon.clld.org/parameters/804,moder-liv,womb
+187-1570,swed1254,http://concepticon.clld.org/parameters/797,testikel,testicle
+187-132,swed1254,http://concepticon.clld.org/parameters/797,(sten),testicle
+187-1540,swed1254,http://concepticon.clld.org/parameters/1222,penis,penis
+187-1274,swed1254,http://concepticon.clld.org/parameters/1407,andas,"breathe, breath"
+187-1142,swed1254,http://concepticon.clld.org/parameters/1407,ande-dräkt,"breathe, breath"
+187-662,swed1254,http://concepticon.clld.org/parameters/1028,gapa,"yawn, gape"
+187-1902,swed1254,http://concepticon.clld.org/parameters/1028,gäspa,"yawn, gape"
+187-1564,swed1254,http://concepticon.clld.org/parameters/162,hicka,hiccough
+187-1940,swed1254,http://concepticon.clld.org/parameters/162,hickning,hiccough
+187-1365,swed1254,http://concepticon.clld.org/parameters/879,hosta,cough
+187-1648,swed1254,http://concepticon.clld.org/parameters/1621,nysa,sneeze
+187-5,swed1254,http://concepticon.clld.org/parameters/126,svett,perspire
+187-52,swed1254,http://concepticon.clld.org/parameters/1440,spotta,spit
+187-897,swed1254,http://concepticon.clld.org/parameters/1278,kräkas,vomit
+187-1522,swed1254,http://concepticon.clld.org/parameters/1278,spy,vomit
+187-696,swed1254,http://concepticon.clld.org/parameters/1403,bita,bite
+187-338,swed1254,http://concepticon.clld.org/parameters/319,slicka,lick
+187-350,swed1254,http://concepticon.clld.org/parameters/268,droppa,dribble
+187-1704,swed1254,http://concepticon.clld.org/parameters/268,drypa,dribble
+187-283,swed1254,http://concepticon.clld.org/parameters/268,dregla,dribble
+187-134,swed1254,http://concepticon.clld.org/parameters/1585,sova,sleep
+187-1335,swed1254,http://concepticon.clld.org/parameters/1585,sömn,sleep
+187-483,swed1254,http://concepticon.clld.org/parameters/1983,snarka,snore
+187-1859,swed1254,http://concepticon.clld.org/parameters/1983,snarkning,snore
+187-941,swed1254,http://concepticon.clld.org/parameters/1920,dröm,dream
+187-1207,swed1254,http://concepticon.clld.org/parameters/1602,väcka,wake up
+187-909,swed1254,http://concepticon.clld.org/parameters/1602,vakna,wake up
+187-586,swed1254,http://concepticon.clld.org/parameters/1602,vaka,wake up
+187-876,swed1254,http://concepticon.clld.org/parameters/1159,släppa sig,break wind
+187-1123,swed1254,http://concepticon.clld.org/parameters/1159,fisa,break wind
+187-266,swed1254,http://concepticon.clld.org/parameters/1159,fjärta,break wind
+187-1634,swed1254,http://concepticon.clld.org/parameters/592,urinera,urinate
+187-422,swed1254,http://concepticon.clld.org/parameters/592,kissa,urinate
+187-832,swed1254,http://concepticon.clld.org/parameters/592,pinka,urinate
+187-149,swed1254,http://concepticon.clld.org/parameters/592,pissa,urinate
+187-70,swed1254,http://concepticon.clld.org/parameters/676,gå på toa,defecate
+187-1030,swed1254,http://concepticon.clld.org/parameters/676,bajsa,defecate
+187-761,swed1254,http://concepticon.clld.org/parameters/676,skita,defecate
+187-1403,swed1254,http://concepticon.clld.org/parameters/1785,ha samlag,have sexual intercourse
+187-1686,swed1254,http://concepticon.clld.org/parameters/1785,ha sex,have sexual intercourse
+187-1115,swed1254,http://concepticon.clld.org/parameters/1785,ligga med,have sexual intercourse
+187-1931,swed1254,http://concepticon.clld.org/parameters/1785,knulla,have sexual intercourse
+187-1484,swed1254,http://concepticon.clld.org/parameters/52,darra,shiver
+187-284,swed1254,http://concepticon.clld.org/parameters/52,skälva,shiver
+187-679,swed1254,http://concepticon.clld.org/parameters/52,huttra,shiver
+187-50,swed1254,http://concepticon.clld.org/parameters/52,rysa,shiver
+187-741,swed1254,http://concepticon.clld.org/parameters/138,bada,bathe
+187-185,swed1254,http://concepticon.clld.org/parameters/1152,avla,beget (of father)
+187-1423,swed1254,http://concepticon.clld.org/parameters/1090,födas,born (to be)
+187-1638,swed1254,http://concepticon.clld.org/parameters/1123,gravid,pregnant
+187-473,swed1254,http://concepticon.clld.org/parameters/1123,havande,pregnant
+187-1201,swed1254,http://concepticon.clld.org/parameters/1123,dräktig,pregnant
+187-1302,swed1254,http://concepticon.clld.org/parameters/1087,bli havande,conceive
+187-185,swed1254,http://concepticon.clld.org/parameters/1087,avla,conceive
+187-607,swed1254,http://concepticon.clld.org/parameters/1422,leva,"live, living, life"
+187-1620,swed1254,http://concepticon.clld.org/parameters/1422,levande,"live, living, life"
+187-1202,swed1254,http://concepticon.clld.org/parameters/1422,liv,"live, living, life"
+187-23,swed1254,http://concepticon.clld.org/parameters/1494,dö,"die, dead"
+187-209,swed1254,http://concepticon.clld.org/parameters/1494,död,"die, dead"
+187-8,swed1254,http://concepticon.clld.org/parameters/1904,dränkt,drowned
+187-168,swed1254,http://concepticon.clld.org/parameters/1417,döda,kill
+187-1427,swed1254,http://concepticon.clld.org/parameters/1417,dräpa,kill
+187-1346,swed1254,http://concepticon.clld.org/parameters/767,lik,corpse
+187-1515,swed1254,http://concepticon.clld.org/parameters/1719,begrava,bury (the dead)
+187-1737,swed1254,http://concepticon.clld.org/parameters/1773,grav,"grave, tomb"
+187-924,swed1254,http://concepticon.clld.org/parameters/785,stark,"strong, mighty, powerful"
+187-1519,swed1254,http://concepticon.clld.org/parameters/785,kraftig,"strong, mighty, powerful"
+187-1739,swed1254,http://concepticon.clld.org/parameters/785,mäktig,"strong, mighty, powerful"
+187-1615,swed1254,http://concepticon.clld.org/parameters/1601,svag,weak
+187-1898,swed1254,http://concepticon.clld.org/parameters/1364,frisk,"well, health"
+187-344,swed1254,http://concepticon.clld.org/parameters/1364,hälsa,"well, health"
+187-1180,swed1254,http://concepticon.clld.org/parameters/1364,sundhet,"well, health"
+187-985,swed1254,http://concepticon.clld.org/parameters/1364,sund,"well, health"
+187-1319,swed1254,http://concepticon.clld.org/parameters/1847,sjuk,"sick, sickness"
+187-587,swed1254,http://concepticon.clld.org/parameters/1847,sjukdom,"sick, sickness"
+187-1803,swed1254,http://concepticon.clld.org/parameters/1534,feber,fever
+187-1453,swed1254,http://concepticon.clld.org/parameters/1957,struma,goiter
+187-106,swed1254,http://concepticon.clld.org/parameters/102,för-kylning,cold (catarrh)
+187-1416,swed1254,http://concepticon.clld.org/parameters/1109,sår,"wound, sore"
+187-1440,swed1254,http://concepticon.clld.org/parameters/1148,blå-märke,bruise
+187-1364,swed1254,http://concepticon.clld.org/parameters/1903,svällande,swelling
+187-624,swed1254,http://concepticon.clld.org/parameters/1903,svullnad,swelling
+187-1136,swed1254,http://concepticon.clld.org/parameters/1903,svullnande,swelling
+187-1794,swed1254,http://concepticon.clld.org/parameters/1903,bula,swelling
+187-1865,swed1254,http://concepticon.clld.org/parameters/148,kläda,itch
+187-768,swed1254,http://concepticon.clld.org/parameters/1584,blåsa,blister
+187-364,swed1254,http://concepticon.clld.org/parameters/1584,blemma,blister
+187-1347,swed1254,http://concepticon.clld.org/parameters/793,böld,boil (noun)
+187-1550,swed1254,http://concepticon.clld.org/parameters/793,var-böld,boil (noun)
+187-1894,swed1254,http://concepticon.clld.org/parameters/1808,var,pus
+187-684,swed1254,http://concepticon.clld.org/parameters/497,ärr,scar
+187-1258,swed1254,http://concepticon.clld.org/parameters/499,bota,"cure, heal"
+187-773,swed1254,http://concepticon.clld.org/parameters/499,hela,"cure, heal"
+187-1183,swed1254,http://concepticon.clld.org/parameters/499,läka,"cure, heal"
+187-292,swed1254,http://concepticon.clld.org/parameters/597,läkare,physician
+187-746,swed1254,http://concepticon.clld.org/parameters/597,doktor,physician
+187-1025,swed1254,http://concepticon.clld.org/parameters/1372,medicin,"medicine, drug"
+187-162,swed1254,http://concepticon.clld.org/parameters/1372,läke-medel,"medicine, drug"
+187-659,swed1254,http://concepticon.clld.org/parameters/1372,drog,"medicine, drug"
+187-382,swed1254,http://concepticon.clld.org/parameters/655,gift,poison
+187-156,swed1254,http://concepticon.clld.org/parameters/1757,trött,"tired, weary"
+187-979,swed1254,http://concepticon.clld.org/parameters/168,vila,rest
+187-947,swed1254,http://concepticon.clld.org/parameters/168,vila sig,rest
+187-112,swed1254,http://concepticon.clld.org/parameters/1564,lat,lazy
+187-1287,swed1254,http://concepticon.clld.org/parameters/1125,skallig,bald
+187-1388,swed1254,http://concepticon.clld.org/parameters/1125,kal,bald
+187-638,swed1254,http://concepticon.clld.org/parameters/320,halt,lame
+187-105,swed1254,http://concepticon.clld.org/parameters/320,lam,lame
+187-1944,swed1254,http://concepticon.clld.org/parameters/996,döv,deaf
+187-1622,swed1254,http://concepticon.clld.org/parameters/1666,stum,mute
+187-687,swed1254,http://concepticon.clld.org/parameters/1653,blind,blind
+187-720,swed1254,http://concepticon.clld.org/parameters/1463,berusad,intoxicated
+187-1690,swed1254,http://concepticon.clld.org/parameters/1463,drucken,intoxicated
+187-1014,swed1254,http://concepticon.clld.org/parameters/1463,full,intoxicated
+187-1190,swed1254,http://concepticon.clld.org/parameters/1463,packad,intoxicated
+187-774,swed1254,http://concepticon.clld.org/parameters/590,naken,"naked, bare"
+187-259,swed1254,http://concepticon.clld.org/parameters/590,bar,"naked, bare"
+187-945,swed1254,http://concepticon.clld.org/parameters/1336,äta,eat
+187-598,swed1254,http://concepticon.clld.org/parameters/256,mat,food
+187-1309,swed1254,http://concepticon.clld.org/parameters/256,föda,food
+187-316,swed1254,http://concepticon.clld.org/parameters/256,spis,food
+187-981,swed1254,http://concepticon.clld.org/parameters/269,till-lagad,cooked
+187-219,swed1254,http://concepticon.clld.org/parameters/269,kokt,cooked
+187-55,swed1254,http://concepticon.clld.org/parameters/1959,rå,raw
+187-1773,swed1254,http://concepticon.clld.org/parameters/1959,o-kokt,raw
+187-11,swed1254,http://concepticon.clld.org/parameters/178,mogen,ripe
+187-1279,swed1254,http://concepticon.clld.org/parameters/1958,grön,"green, unripe"
+187-51,swed1254,http://concepticon.clld.org/parameters/1958,o-mogen,"green, unripe"
+187-1582,swed1254,http://concepticon.clld.org/parameters/1728,rutten,rotten
+187-861,swed1254,http://concepticon.clld.org/parameters/1728,murken,rotten
+187-1116,swed1254,http://concepticon.clld.org/parameters/1728,skämɑ,rotten
+187-1406,swed1254,http://concepticon.clld.org/parameters/1401,dricka,drink
+187-1474,swed1254,http://concepticon.clld.org/parameters/1533,hunger,hunger
+187-1679,swed1254,http://concepticon.clld.org/parameters/199,hungers-nöd,famine
+187-1602,swed1254,http://concepticon.clld.org/parameters/199,svält,famine
+187-1474,swed1254,http://concepticon.clld.org/parameters/199,hunger,famine
+187-304,swed1254,http://concepticon.clld.org/parameters/848,törst,thirst
+187-286,swed1254,http://concepticon.clld.org/parameters/1421,suga,suck
+187-513,swed1254,http://concepticon.clld.org/parameters/1421,dia,suck
+187-297,swed1254,http://concepticon.clld.org/parameters/321,tugga,chew
+187-962,swed1254,http://concepticon.clld.org/parameters/897,svälja,swallow
+187-1348,swed1254,http://concepticon.clld.org/parameters/129,strypa,choke
+187-39,swed1254,http://concepticon.clld.org/parameters/129,kväva,choke
+187-1352,swed1254,http://concepticon.clld.org/parameters/1100,till-laga,cook
+187-216,swed1254,http://concepticon.clld.org/parameters/1100,koka,cook
+187-216,swed1254,http://concepticon.clld.org/parameters/792,koka,boil (vb)
+187-1083,swed1254,http://concepticon.clld.org/parameters/2146,steka,"roast, fry"
+187-526,swed1254,http://concepticon.clld.org/parameters/183,baka,bake
+187-43,swed1254,http://concepticon.clld.org/parameters/1143,bak-ugn,oven
+187-1937,swed1254,http://concepticon.clld.org/parameters/1143,stek-ugn,oven
+187-1655,swed1254,http://concepticon.clld.org/parameters/1462,gryta,"pot, cooking vessel"
+187-1373,swed1254,http://concepticon.clld.org/parameters/1462,kok-kärl,"pot, cooking vessel"
+187-507,swed1254,http://concepticon.clld.org/parameters/854,kittel,kettle
+187-906,swed1254,http://concepticon.clld.org/parameters/31,panna,pan
+187-1655,swed1254,http://concepticon.clld.org/parameters/31,gryta,pan
+187-996,swed1254,http://concepticon.clld.org/parameters/481,fat,dish
+187-608,swed1254,http://concepticon.clld.org/parameters/480,tallrik,plate
+187-996,swed1254,http://concepticon.clld.org/parameters/480,fat,plate
+187-1601,swed1254,http://concepticon.clld.org/parameters/1530,skål,bowl
+187-1675,swed1254,http://concepticon.clld.org/parameters/1530,bål,bowl
+187-1217,swed1254,http://concepticon.clld.org/parameters/270,kruka,"pitcher, jug"
+187-545,swed1254,http://concepticon.clld.org/parameters/270,kanna,"pitcher, jug"
+187-114,swed1254,http://concepticon.clld.org/parameters/270,till-bringare,"pitcher, jug"
+187-1732,swed1254,http://concepticon.clld.org/parameters/476,kopp,"cup, drinking vessel"
+187-996,swed1254,http://concepticon.clld.org/parameters/271,fat,saucer
+187-814,swed1254,http://concepticon.clld.org/parameters/1378,sked,spoon
+187-1016,swed1254,http://concepticon.clld.org/parameters/1352,knif,knife (2)
+187-173,swed1254,http://concepticon.clld.org/parameters/1352,kniv,knife (2)
+187-1081,swed1254,http://concepticon.clld.org/parameters/1302,gaffel,fork (2)
+187-428,swed1254,http://concepticon.clld.org/parameters/272,tång,tongs
+187-1847,swed1254,http://concepticon.clld.org/parameters/1526,mål,meal (a)
+187-1073,swed1254,http://concepticon.clld.org/parameters/1526,mål-tid,meal (a)
+187-788,swed1254,http://concepticon.clld.org/parameters/1322,frukost,breakfast
+187-644,swed1254,http://concepticon.clld.org/parameters/768,lunch,lunch
+187-1528,swed1254,http://concepticon.clld.org/parameters/768,middag,lunch
+187-93,swed1254,http://concepticon.clld.org/parameters/1833,mid-dag,dinner
+187-1927,swed1254,http://concepticon.clld.org/parameters/1833,kvällsmat,supper
+187-1591,swed1254,http://concepticon.clld.org/parameters/1833,afton-mål-tid,supper
+187-865,swed1254,http://concepticon.clld.org/parameters/1833,kvälls-vard,supper
+187-1356,swed1254,http://concepticon.clld.org/parameters/275,skala,peel
+187-1344,swed1254,http://concepticon.clld.org/parameters/275,skal,peel
+187-1298,swed1254,http://concepticon.clld.org/parameters/86,sålla,"sieve, strain"
+187-1923,swed1254,http://concepticon.clld.org/parameters/86,sikta,"sieve, strain"
+187-759,swed1254,http://concepticon.clld.org/parameters/86,såll,"sieve, strain"
+187-886,swed1254,http://concepticon.clld.org/parameters/1767,skrapa,scrape
+187-329,swed1254,http://concepticon.clld.org/parameters/1767,raspa,scrape
+187-1521,swed1254,http://concepticon.clld.org/parameters/1767,riva,scrape
+187-1875,swed1254,http://concepticon.clld.org/parameters/2017,röra,"stir, mix"
+187-1013,swed1254,http://concepticon.clld.org/parameters/2017,vispa,"stir, mix"
+187-1640,swed1254,http://concepticon.clld.org/parameters/2017,blanda,"stir, mix"
+187-707,swed1254,http://concepticon.clld.org/parameters/1368,bröd,bread
+187-550,swed1254,http://concepticon.clld.org/parameters/273,deg,dough
+187-193,swed1254,http://concepticon.clld.org/parameters/274,knåda,knead
+187-657,swed1254,http://concepticon.clld.org/parameters/1594,mjöl,"meal, flour"
+187-579,swed1254,http://concepticon.clld.org/parameters/1033,mala,"crush, grind"
+187-613,swed1254,http://concepticon.clld.org/parameters/636,kvarn,mill
+187-1098,swed1254,http://concepticon.clld.org/parameters/224,mortel,mortar (2)
+187-1065,swed1254,http://concepticon.clld.org/parameters/225,mortel-stöt,pestle
+187-16,swed1254,http://concepticon.clld.org/parameters/634,kött,meat
+187-1452,swed1254,http://concepticon.clld.org/parameters/1874,korv,sausage
+187-1380,swed1254,http://concepticon.clld.org/parameters/1547,soppa,"soup, broth"
+187-107,swed1254,http://concepticon.clld.org/parameters/924,grön-saker,vegetables
+187-1670,swed1254,http://concepticon.clld.org/parameters/832,böna,bean
+187-1879,swed1254,http://concepticon.clld.org/parameters/593,potatis,potato
+187-576,swed1254,http://concepticon.clld.org/parameters/1507,frukt,fruit
+187-536,swed1254,http://concepticon.clld.org/parameters/1966,knippa,bunch
+187-100,swed1254,http://concepticon.clld.org/parameters/1966,bunt,bunch
+187-506,swed1254,http://concepticon.clld.org/parameters/1966,blase,bunch
+187-888,swed1254,http://concepticon.clld.org/parameters/322,fikon,fig
+187-730,swed1254,http://concepticon.clld.org/parameters/920,druva,grape
+187-1167,swed1254,http://concepticon.clld.org/parameters/191,nöt,nut
+187-651,swed1254,http://concepticon.clld.org/parameters/1154,oliv,olive
+187-471,swed1254,http://concepticon.clld.org/parameters/1484,olja,oil
+187-1044,swed1254,http://concepticon.clld.org/parameters/323,(djur)-fett,"grease, fat"
+187-1793,swed1254,http://concepticon.clld.org/parameters/323,ister,"grease, fat"
+187-616,swed1254,http://concepticon.clld.org/parameters/323,talg,"grease, fat"
+187-1798,swed1254,http://concepticon.clld.org/parameters/323,smörj-fett,"grease, fat"
+187-337,swed1254,http://concepticon.clld.org/parameters/323,smörja,"grease, fat"
+187-744,swed1254,http://concepticon.clld.org/parameters/1274,salt,salt
+187-468,swed1254,http://concepticon.clld.org/parameters/1385,peppar,pepper
+187-263,swed1254,http://concepticon.clld.org/parameters/919,chili-peppar,chili pepper
+187-1204,swed1254,http://concepticon.clld.org/parameters/942,honung,honey
+187-1872,swed1254,http://concepticon.clld.org/parameters/862,socker,sugar
+187-1345,swed1254,http://concepticon.clld.org/parameters/635,mjölk,milk (noun)
+187-517,swed1254,http://concepticon.clld.org/parameters/93,mjölka,milk (vb)
+187-488,swed1254,http://concepticon.clld.org/parameters/1569,ost,cheese
+187-215,swed1254,http://concepticon.clld.org/parameters/1245,smör,butter
+187-1576,swed1254,http://concepticon.clld.org/parameters/731,dryck,"beverage, drink"
+187-1406,swed1254,http://concepticon.clld.org/parameters/731,dricka,"beverage, drink"
+187-655,swed1254,http://concepticon.clld.org/parameters/941,mjöd,mead
+187-1029,swed1254,http://concepticon.clld.org/parameters/1524,vin,wine
+187-1194,swed1254,http://concepticon.clld.org/parameters/1639,öl,beer
+187-293,swed1254,http://concepticon.clld.org/parameters/404,jäst dryck,fermented drink
+187-818,swed1254,http://concepticon.clld.org/parameters/744,ägg,egg
+187-1086,swed1254,http://concepticon.clld.org/parameters/1556,ägg-gula,egg yolk
+187-1865,swed1254,http://concepticon.clld.org/parameters/158,kläda,put on (clothes)
+187-1621,swed1254,http://concepticon.clld.org/parameters/158,klä,put on (clothes)
+187-1475,swed1254,http://concepticon.clld.org/parameters/158,klä på sig,put on (clothes)
+187-25,swed1254,http://concepticon.clld.org/parameters/1895,kläder,"clothing, clothes"
+187-1777,swed1254,http://concepticon.clld.org/parameters/881,skräddare,tailor
+187-217,swed1254,http://concepticon.clld.org/parameters/1616,tyg,cloth
+187-580,swed1254,http://concepticon.clld.org/parameters/964,ull,wool
+187-83,swed1254,http://concepticon.clld.org/parameters/916,lärft,"linen, flax"
+187-325,swed1254,http://concepticon.clld.org/parameters/916,linne,"linen, flax"
+187-1199,swed1254,http://concepticon.clld.org/parameters/916,lin,"linen, flax"
+187-805,swed1254,http://concepticon.clld.org/parameters/1850,bomull,cotton
+187-1138,swed1254,http://concepticon.clld.org/parameters/1641,silke,silk
+187-1442,swed1254,http://concepticon.clld.org/parameters/1641,siden,silk
+187-949,swed1254,http://concepticon.clld.org/parameters/325,filt,felt
+187-1239,swed1254,http://concepticon.clld.org/parameters/580,päls,fur
+187-197,swed1254,http://concepticon.clld.org/parameters/629,läder,leather
+187-540,swed1254,http://concepticon.clld.org/parameters/121,spinna,spin
+187-786,swed1254,http://concepticon.clld.org/parameters/277,spindel,spindle
+187-1832,swed1254,http://concepticon.clld.org/parameters/133,väva,weave
+187-1470,swed1254,http://concepticon.clld.org/parameters/1787,väv-stol,loom
+187-610,swed1254,http://concepticon.clld.org/parameters/1457,sy,sew
+187-461,swed1254,http://concepticon.clld.org/parameters/1457,sömma,sew
+187-433,swed1254,http://concepticon.clld.org/parameters/1382,nål,needle
+187-1326,swed1254,http://concepticon.clld.org/parameters/278,syl,awl
+187-199,swed1254,http://concepticon.clld.org/parameters/1161,tråd,thread
+187-1750,swed1254,http://concepticon.clld.org/parameters/157,färga,dye
+187-826,swed1254,http://concepticon.clld.org/parameters/326,kappa,cloak
+187-1459,swed1254,http://concepticon.clld.org/parameters/326,släng-kappa,cloak
+187-1457,swed1254,http://concepticon.clld.org/parameters/326,mantel,cloak
+187-777,swed1254,http://concepticon.clld.org/parameters/327,[poncho],poncho
+187-874,swed1254,http://concepticon.clld.org/parameters/474,klänning,woman's dress
+187-1867,swed1254,http://concepticon.clld.org/parameters/603,rock,coat
+187-1371,swed1254,http://concepticon.clld.org/parameters/603,kavaj,coat
+187-71,swed1254,http://concepticon.clld.org/parameters/1622,skjorta,shirt
+187-63,swed1254,http://concepticon.clld.org/parameters/2012,krage,collar
+187-1840,swed1254,http://concepticon.clld.org/parameters/1600,kjol,skirt
+187-1145,swed1254,http://concepticon.clld.org/parameters/328,bastkjol,grass-skirt
+187-1900,swed1254,http://concepticon.clld.org/parameters/809,byxor,trousers
+187-745,swed1254,http://concepticon.clld.org/parameters/329,strumpa,"stocking, sock"
+187-1884,swed1254,http://concepticon.clld.org/parameters/329,socka,"stocking, sock"
+187-1846,swed1254,http://concepticon.clld.org/parameters/1381,sko,shoe
+187-342,swed1254,http://concepticon.clld.org/parameters/585,stövel,boot
+187-967,swed1254,http://concepticon.clld.org/parameters/585,känga,boot
+187-1378,swed1254,http://concepticon.clld.org/parameters/585,pjäxa,boot
+187-1223,swed1254,http://concepticon.clld.org/parameters/875,sko-makare,"shoemaker, cobbler"
+187-3,swed1254,http://concepticon.clld.org/parameters/2130,hatt,"hat, cap"
+187-530,swed1254,http://concepticon.clld.org/parameters/2130,mössa,"hat, cap"
+187-546,swed1254,http://concepticon.clld.org/parameters/772,bälte,"belt, girdle"
+187-1189,swed1254,http://concepticon.clld.org/parameters/772,gördel,"belt, girdle"
+187-1393,swed1254,http://concepticon.clld.org/parameters/867,handske,glove
+187-223,swed1254,http://concepticon.clld.org/parameters/1151,flor,veil
+187-1609,swed1254,http://concepticon.clld.org/parameters/1151,slöja,veil
+187-1936,swed1254,http://concepticon.clld.org/parameters/1851,ficka,pocket
+187-1175,swed1254,http://concepticon.clld.org/parameters/757,knapp,button
+187-433,swed1254,http://concepticon.clld.org/parameters/64,nål,pin
+187-960,swed1254,http://concepticon.clld.org/parameters/917,prydnad,"ornament, adornment"
+187-1399,swed1254,http://concepticon.clld.org/parameters/917,smycke,"ornament, adornment"
+187-1742,swed1254,http://concepticon.clld.org/parameters/1029,juvel,jewel
+187-1399,swed1254,http://concepticon.clld.org/parameters/1029,smycke,jewel
+187-692,swed1254,http://concepticon.clld.org/parameters/1374,ring,ring (for finger)
+187-1464,swed1254,http://concepticon.clld.org/parameters/1754,arm-band,bracelet
+187-856,swed1254,http://concepticon.clld.org/parameters/1961,hals-band,necklace
+187-650,swed1254,http://concepticon.clld.org/parameters/1860,pärla,bead
+187-734,swed1254,http://concepticon.clld.org/parameters/770,ör-hänge,earring
+187-1374,swed1254,http://concepticon.clld.org/parameters/330,hår-band,"headband, headdress"
+187-207,swed1254,http://concepticon.clld.org/parameters/68,tatuering,tattoo
+187-1210,swed1254,http://concepticon.clld.org/parameters/332,näs-duk,"handkerchief, rag"
+187-1590,swed1254,http://concepticon.clld.org/parameters/1021,hand-duk,towel
+187-1209,swed1254,http://concepticon.clld.org/parameters/1475,kam,comb
+187-1701,swed1254,http://concepticon.clld.org/parameters/1821,borste,brush
+187-620,swed1254,http://concepticon.clld.org/parameters/333,fläta,braid
+187-4,swed1254,http://concepticon.clld.org/parameters/151,rak-knif,razor
+187-1,swed1254,http://concepticon.clld.org/parameters/151,rak-kniv,razor
+187-1059,swed1254,http://concepticon.clld.org/parameters/151,rak-hyvel,razor
+187-908,swed1254,http://concepticon.clld.org/parameters/151,el-hyvel,razor
+187-847,swed1254,http://concepticon.clld.org/parameters/151,rak-apparat,razor
+187-1342,swed1254,http://concepticon.clld.org/parameters/1926,salva,ointment
+187-477,swed1254,http://concepticon.clld.org/parameters/788,såpa,soap
+187-738,swed1254,http://concepticon.clld.org/parameters/788,tvål,soap
+187-323,swed1254,http://concepticon.clld.org/parameters/1171,spegel,mirror
+187-1384,swed1254,http://concepticon.clld.org/parameters/1099,bo,"dwell, live"
+187-705,swed1254,http://concepticon.clld.org/parameters/1252,hus,house
+187-1805,swed1254,http://concepticon.clld.org/parameters/1678,hydda,hut
+187-61,swed1254,http://concepticon.clld.org/parameters/1678,koja,hut
+187-1350,swed1254,http://concepticon.clld.org/parameters/1678,barack,hut
+187-1809,swed1254,http://concepticon.clld.org/parameters/403,gårdshus,garden-house
+187-49,swed1254,http://concepticon.clld.org/parameters/403,kolonistuga,garden-house
+187-163,swed1254,http://concepticon.clld.org/parameters/1316,tält,tent
+187-522,swed1254,http://concepticon.clld.org/parameters/736,gård,"yard, court"
+187-246,swed1254,http://concepticon.clld.org/parameters/408,mans-hus,men's house
+187-307,swed1254,http://concepticon.clld.org/parameters/334,kök,cookhouse
+187-1685,swed1254,http://concepticon.clld.org/parameters/335,möteslokal,meeting house
+187-1215,swed1254,http://concepticon.clld.org/parameters/335,kommunhus,meeting house
+187-1383,swed1254,http://concepticon.clld.org/parameters/1450,rum,room
+187-1530,swed1254,http://concepticon.clld.org/parameters/1567,dörr,"door, gate"
+187-525,swed1254,http://concepticon.clld.org/parameters/1567,port,"door, gate"
+187-1762,swed1254,http://concepticon.clld.org/parameters/80,dörr-post,"doorpost, jamb"
+187-1666,swed1254,http://concepticon.clld.org/parameters/1596,lås,lock (noun)
+187-560,swed1254,http://concepticon.clld.org/parameters/1012,regel,"latch, door-bolt"
+187-1895,swed1254,http://concepticon.clld.org/parameters/1012,(dörr)-klinka,"latch, door-bolt"
+187-1296,swed1254,http://concepticon.clld.org/parameters/1012,regla,"latch, door-bolt"
+187-1905,swed1254,http://concepticon.clld.org/parameters/1472,nyckel,key
+187-1577,swed1254,http://concepticon.clld.org/parameters/1375,fönster,window
+187-1220,swed1254,http://concepticon.clld.org/parameters/1632,golv,floor
+187-279,swed1254,http://concepticon.clld.org/parameters/933,mur,wall
+187-1415,swed1254,http://concepticon.clld.org/parameters/933,vägg,wall
+187-611,swed1254,http://concepticon.clld.org/parameters/185,eld-stad,fireplace
+187-426,swed1254,http://concepticon.clld.org/parameters/185,öppen spis,fireplace
+187-316,swed1254,http://concepticon.clld.org/parameters/859,spis,stove
+187-1218,swed1254,http://concepticon.clld.org/parameters/859,ugn,stove
+187-585,swed1254,http://concepticon.clld.org/parameters/859,kamin,stove
+187-275,swed1254,http://concepticon.clld.org/parameters/859,kakel-ugn,stove
+187-672,swed1254,http://concepticon.clld.org/parameters/1305,skorsten,chimney
+187-1390,swed1254,http://concepticon.clld.org/parameters/1464,stege,ladder
+187-482,swed1254,http://concepticon.clld.org/parameters/1663,bädd,bed
+187-452,swed1254,http://concepticon.clld.org/parameters/1663,säng,bed
+187-711,swed1254,http://concepticon.clld.org/parameters/1044,kudde,pillow
+187-1665,swed1254,http://concepticon.clld.org/parameters/1044,dyna,pillow
+187-949,swed1254,http://concepticon.clld.org/parameters/806,filt,blanket
+187-1948,swed1254,http://concepticon.clld.org/parameters/806,täcke,blanket
+187-252,swed1254,http://concepticon.clld.org/parameters/1476,stol,chair
+187-391,swed1254,http://concepticon.clld.org/parameters/1775,bord,table
+187-402,swed1254,http://concepticon.clld.org/parameters/2131,lampa,"lamp, torch"
+187-75,swed1254,http://concepticon.clld.org/parameters/1273,ljus,candle
+187-421,swed1254,http://concepticon.clld.org/parameters/1273,stearin-ljus,candle
+187-840,swed1254,http://concepticon.clld.org/parameters/1273,vax-ljus,candle
+187-1710,swed1254,http://concepticon.clld.org/parameters/745,hylla,shelf
+187-1906,swed1254,http://concepticon.clld.org/parameters/205,ho,trough
+187-201,swed1254,http://concepticon.clld.org/parameters/205,tråg,trough
+187-1211,swed1254,http://concepticon.clld.org/parameters/205,kar,trough
+187-866,swed1254,http://concepticon.clld.org/parameters/205,ränna,trough
+187-1556,swed1254,http://concepticon.clld.org/parameters/769,tak,roof
+187-1716,swed1254,http://concepticon.clld.org/parameters/279,halm,thatch
+187-15,swed1254,http://concepticon.clld.org/parameters/279,vass,thatch
+187-683,swed1254,http://concepticon.clld.org/parameters/280,ryggås,ridgepole
+187-784,swed1254,http://concepticon.clld.org/parameters/829,sparr,rafter
+187-153,swed1254,http://concepticon.clld.org/parameters/1132,bjälke,beam
+187-1821,swed1254,http://concepticon.clld.org/parameters/1132,balk,beam
+187-116,swed1254,http://concepticon.clld.org/parameters/281,stöd,"post, pole"
+187-1445,swed1254,http://concepticon.clld.org/parameters/281,stolpe,"post, pole"
+187-1639,swed1254,http://concepticon.clld.org/parameters/281,stötta,"post, pole"
+187-1328,swed1254,http://concepticon.clld.org/parameters/281,påle,"post, pole"
+187-434,swed1254,http://concepticon.clld.org/parameters/1227,bräda,board
+187-1018,swed1254,http://concepticon.clld.org/parameters/876,valv,arch
+187-1858,swed1254,http://concepticon.clld.org/parameters/876,valv-båge,arch
+187-1555,swed1254,http://concepticon.clld.org/parameters/877,sten-huggare,mason
+187-1502,swed1254,http://concepticon.clld.org/parameters/877,murare,mason
+187-1516,swed1254,http://concepticon.clld.org/parameters/1006,tegel,brick
+187-1871,swed1254,http://concepticon.clld.org/parameters/1006,tegel-sten,brick
+187-1098,swed1254,http://concepticon.clld.org/parameters/1731,mortel,mortar
+187-144,swed1254,http://concepticon.clld.org/parameters/901,adobe,adobe
+187-940,swed1254,http://concepticon.clld.org/parameters/901,lertegel,adobe
+187-117,swed1254,http://concepticon.clld.org/parameters/979,jord-brukare,farmer
+187-1728,swed1254,http://concepticon.clld.org/parameters/979,bonde,farmer
+187-1583,swed1254,http://concepticon.clld.org/parameters/979,åker-man,farmer
+187-1140,swed1254,http://concepticon.clld.org/parameters/212,åker,field (for cultivation)
+187-918,swed1254,http://concepticon.clld.org/parameters/212,mark,field (for cultivation)
+187-84,swed1254,http://concepticon.clld.org/parameters/586,träd-gård,garden
+187-1097,swed1254,http://concepticon.clld.org/parameters/1541,bruka,"cultivate, till"
+187-1828,swed1254,http://concepticon.clld.org/parameters/1541,odla,"cultivate, till"
+187-1444,swed1254,http://concepticon.clld.org/parameters/1541,plöja,"cultivate, till"
+187-747,swed1254,http://concepticon.clld.org/parameters/1690,stängsel,fence
+187-1877,swed1254,http://concepticon.clld.org/parameters/1690,staket,fence
+187-169,swed1254,http://concepticon.clld.org/parameters/1690,in-hägnad,fence
+187-1599,swed1254,http://concepticon.clld.org/parameters/2002,dike,ditch
+187-1737,swed1254,http://concepticon.clld.org/parameters/2002,grav,ditch
+187-1444,swed1254,http://concepticon.clld.org/parameters/1921,plöja,plow
+187-72,swed1254,http://concepticon.clld.org/parameters/1921,plog,plow
+187-306,swed1254,http://concepticon.clld.org/parameters/1794,fåra,furrow
+187-314,swed1254,http://concepticon.clld.org/parameters/1418,gräva,dig
+187-1321,swed1254,http://concepticon.clld.org/parameters/1176,spade,spade
+187-1253,swed1254,http://concepticon.clld.org/parameters/1901,skovel,shovel
+187-1067,swed1254,http://concepticon.clld.org/parameters/1901,skyffel,shovel
+187-892,swed1254,http://concepticon.clld.org/parameters/284,hacka,hoe
+187-1917,swed1254,http://concepticon.clld.org/parameters/337,hö-gaffel,fork
+187-1109,swed1254,http://concepticon.clld.org/parameters/337,grepe,fork
+187-1172,swed1254,http://concepticon.clld.org/parameters/337,grep,fork
+187-819,swed1254,http://concepticon.clld.org/parameters/338,räfsa,rake
+187-543,swed1254,http://concepticon.clld.org/parameters/748,så,sow
+187-1592,swed1254,http://concepticon.clld.org/parameters/714,frö,seed
+187-548,swed1254,http://concepticon.clld.org/parameters/190,slå,"mow, reap"
+187-802,swed1254,http://concepticon.clld.org/parameters/190,meja,"mow, reap"
+187-581,swed1254,http://concepticon.clld.org/parameters/2132,skära,"sickle, scythe"
+187-1195,swed1254,http://concepticon.clld.org/parameters/2132,lie,"sickle, scythe"
+187-1694,swed1254,http://concepticon.clld.org/parameters/285,tröska,thresh
+187-147,swed1254,http://concepticon.clld.org/parameters/223,loge,threshing-floor
+187-1011,swed1254,http://concepticon.clld.org/parameters/611,gröda,"crop, harvest"
+187-85,swed1254,http://concepticon.clld.org/parameters/611,skörd,"crop, harvest"
+187-618,swed1254,http://concepticon.clld.org/parameters/611,skörde-tid,"crop, harvest"
+187-1139,swed1254,http://concepticon.clld.org/parameters/605,säd,"grain (barley, oats etc)"
+187-1443,swed1254,http://concepticon.clld.org/parameters/605,korn,"grain (barley, oats etc)"
+187-1117,swed1254,http://concepticon.clld.org/parameters/1077,hvete,wheat
+187-1010,swed1254,http://concepticon.clld.org/parameters/1077,vete,wheat
+187-379,swed1254,http://concepticon.clld.org/parameters/932,bjugg,barley
+187-1443,swed1254,http://concepticon.clld.org/parameters/932,korn,barley
+187-1772,swed1254,http://concepticon.clld.org/parameters/23,råg,rye
+187-1816,swed1254,http://concepticon.clld.org/parameters/60,havre,oats
+187-229,swed1254,http://concepticon.clld.org/parameters/506,majs,"maize, corn"
+187-1308,swed1254,http://concepticon.clld.org/parameters/926,ris,rice
+187-641,swed1254,http://concepticon.clld.org/parameters/606,gräs,grass
+187-166,swed1254,http://concepticon.clld.org/parameters/342,hö,hay
+187-1299,swed1254,http://concepticon.clld.org/parameters/653,planta,plant (noun)
+187-234,swed1254,http://concepticon.clld.org/parameters/653,ört,plant (noun)
+187-200,swed1254,http://concepticon.clld.org/parameters/653,växt,plant (noun)
+187-194,swed1254,http://concepticon.clld.org/parameters/1486,plantera,plant (vb)
+187-1062,swed1254,http://concepticon.clld.org/parameters/1486,sätta,plant (vb)
+187-543,swed1254,http://concepticon.clld.org/parameters/1486,så,plant (vb)
+187-493,swed1254,http://concepticon.clld.org/parameters/670,rot,root
+187-1182,swed1254,http://concepticon.clld.org/parameters/1531,gren,branch
+187-1604,swed1254,http://concepticon.clld.org/parameters/1531,kvist,branch
+187-582,swed1254,http://concepticon.clld.org/parameters/628,löf,leaf
+187-574,swed1254,http://concepticon.clld.org/parameters/628,löv,leaf
+187-841,swed1254,http://concepticon.clld.org/parameters/628,blad,leaf
+187-396,swed1254,http://concepticon.clld.org/parameters/239,blomma,flower
+187-1660,swed1254,http://concepticon.clld.org/parameters/239,blomster,flower
+187-1896,swed1254,http://concepticon.clld.org/parameters/906,träd,tree
+187-664,swed1254,http://concepticon.clld.org/parameters/644,ek,oak
+187-547,swed1254,http://concepticon.clld.org/parameters/1950,bok,beech
+187-1322,swed1254,http://concepticon.clld.org/parameters/1855,björk,birch
+187-619,swed1254,http://concepticon.clld.org/parameters/1740,tall,pine
+187-457,swed1254,http://concepticon.clld.org/parameters/1740,fura,pine
+187-1738,swed1254,http://concepticon.clld.org/parameters/1915,gran,fir
+187-103,swed1254,http://concepticon.clld.org/parameters/968,ek-ollon,acorn
+187-1078,swed1254,http://concepticon.clld.org/parameters/343,vin-ranka,vine
+187-740,swed1254,http://concepticon.clld.org/parameters/343,vin-stock,vine
+187-885,swed1254,http://concepticon.clld.org/parameters/974,tobak,tobacco
+187-380,swed1254,http://concepticon.clld.org/parameters/1689,röka,smoke (tobacco)
+187-1705,swed1254,http://concepticon.clld.org/parameters/1124,pipa,pipe
+187-717,swed1254,http://concepticon.clld.org/parameters/241,stubbe,tree stump
+187-808,swed1254,http://concepticon.clld.org/parameters/344,träd-stam,tree trunk
+187-1941,swed1254,http://concepticon.clld.org/parameters/344,stam,tree trunk
+187-1245,swed1254,http://concepticon.clld.org/parameters/409,klyka,forked branch
+187-1247,swed1254,http://concepticon.clld.org/parameters/1204,bark,bark
+187-718,swed1254,http://concepticon.clld.org/parameters/345,sav,sap
+187-1447,swed1254,http://concepticon.clld.org/parameters/345,växt-saft,sap
+187-1376,swed1254,http://concepticon.clld.org/parameters/1181,palm,palm tree
+187-1087,swed1254,http://concepticon.clld.org/parameters/970,kokos-nöt,coconut
+187-1861,swed1254,http://concepticon.clld.org/parameters/1126,citrus-frukt,citrus fruit
+187-1332,swed1254,http://concepticon.clld.org/parameters/868,banan-träd,banana tree
+187-584,swed1254,http://concepticon.clld.org/parameters/346,[banyan],banyan
+187-1668,swed1254,http://concepticon.clld.org/parameters/159,[batat],sweet potato
+187-53,swed1254,http://concepticon.clld.org/parameters/410,jams,yam
+187-1031,swed1254,http://concepticon.clld.org/parameters/925,[maniok,"tapioca, manioc, cassava"
+187-1630,swed1254,http://concepticon.clld.org/parameters/925,kassava],"tapioca, manioc, cassava"
+187-1227,swed1254,http://concepticon.clld.org/parameters/411,flask-kurbits,gourd
+187-1041,swed1254,http://concepticon.clld.org/parameters/411,kalebass,gourd
+187-191,swed1254,http://concepticon.clld.org/parameters/411,kalabass,gourd
+187-1930,swed1254,http://concepticon.clld.org/parameters/864,pumpa,"pumpkin, squash"
+187-572,swed1254,http://concepticon.clld.org/parameters/864,kurbits,"pumpkin, squash"
+187-479,swed1254,http://concepticon.clld.org/parameters/1927,bambu,bamboo
+187-177,swed1254,http://concepticon.clld.org/parameters/1927,bambu-rör,bamboo
+187-688,swed1254,http://concepticon.clld.org/parameters/146,socker-rör,sugar cane
+187-127,swed1254,http://concepticon.clld.org/parameters/348,växt-gift,fish poison (root)
+187-1047,swed1254,http://concepticon.clld.org/parameters/33,nässla,nettle
+187-174,swed1254,http://concepticon.clld.org/parameters/33,bränn-nässla,nettle
+187-606,swed1254,http://concepticon.clld.org/parameters/641,svamp,mushroom
+187-948,swed1254,http://concepticon.clld.org/parameters/813,göra,"do, make"
+187-875,swed1254,http://concepticon.clld.org/parameters/984,arbete,work
+187-998,swed1254,http://concepticon.clld.org/parameters/984,verk,work
+187-792,swed1254,http://concepticon.clld.org/parameters/984,jobb,work
+187-1068,swed1254,http://concepticon.clld.org/parameters/2004,böja,bend
+187-1699,swed1254,http://concepticon.clld.org/parameters/2004,kröka,bend
+187-621,swed1254,http://concepticon.clld.org/parameters/1470,vika,fold
+187-195,swed1254,http://concepticon.clld.org/parameters/1917,binda,"tie, bind"
+187-1510,swed1254,http://concepticon.clld.org/parameters/352,knyta upp,untie
+187-1500,swed1254,http://concepticon.clld.org/parameters/352,knyta loss,untie
+187-1836,swed1254,http://concepticon.clld.org/parameters/352,lossa,untie
+187-1424,swed1254,http://concepticon.clld.org/parameters/352,släppa loss,untie
+187-706,swed1254,http://concepticon.clld.org/parameters/352,släppa lös,untie
+187-1546,swed1254,http://concepticon.clld.org/parameters/1627,kedja,chain
+187-1616,swed1254,http://concepticon.clld.org/parameters/1218,rep,"rope, cord"
+187-645,swed1254,http://concepticon.clld.org/parameters/1218,tåg,"rope, cord"
+187-1419,swed1254,http://concepticon.clld.org/parameters/1218,lina,"rope, cord"
+187-559,swed1254,http://concepticon.clld.org/parameters/1218,snöre,"rope, cord"
+187-955,swed1254,http://concepticon.clld.org/parameters/760,knut,knot (noun)
+187-548,swed1254,http://concepticon.clld.org/parameters/2133,slå,"strike (hit, beat)"
+187-1410,swed1254,http://concepticon.clld.org/parameters/354,slå mot,pound with fist
+187-1042,swed1254,http://concepticon.clld.org/parameters/354,dunka,pound with fist
+187-1093,swed1254,http://concepticon.clld.org/parameters/354,banka,pound with fist
+187-40,swed1254,http://concepticon.clld.org/parameters/354,bulta,pound with fist
+187-1391,swed1254,http://concepticon.clld.org/parameters/354,hamra,pound with fist
+187-581,swed1254,http://concepticon.clld.org/parameters/1432,skära,cut
+187-331,swed1254,http://concepticon.clld.org/parameters/1432,klippa,cut
+187-791,swed1254,http://concepticon.clld.org/parameters/1432,hugga,cut
+187-1056,swed1254,http://concepticon.clld.org/parameters/355,skära av,cut down
+187-898,swed1254,http://concepticon.clld.org/parameters/355,klippa av,cut down
+187-1222,swed1254,http://concepticon.clld.org/parameters/355,hugga ner,cut down
+187-1681,swed1254,http://concepticon.clld.org/parameters/355,hacka ner,cut down
+187-791,swed1254,http://concepticon.clld.org/parameters/155,hugga,"chop, hew"
+187-892,swed1254,http://concepticon.clld.org/parameters/155,hacka,"chop, hew"
+187-459,swed1254,http://concepticon.clld.org/parameters/1434,sticka,stab
+187-403,swed1254,http://concepticon.clld.org/parameters/1434,stöta,stab
+187-1016,swed1254,http://concepticon.clld.org/parameters/1352,knif,knife
+187-173,swed1254,http://concepticon.clld.org/parameters/1352,kniv,knife
+187-715,swed1254,http://concepticon.clld.org/parameters/356,sax,"scissors, shears"
+187-1091,swed1254,http://concepticon.clld.org/parameters/677,yxa,ax
+187-224,swed1254,http://concepticon.clld.org/parameters/290,skarv-yxa,adze
+187-401,swed1254,http://concepticon.clld.org/parameters/290,däxel,adze
+187-1607,swed1254,http://concepticon.clld.org/parameters/680,bryta,break
+187-1712,swed1254,http://concepticon.clld.org/parameters/680,bräcka,break
+187-928,swed1254,http://concepticon.clld.org/parameters/588,sönder,broken
+187-1002,swed1254,http://concepticon.clld.org/parameters/588,sönder-slagen,broken
+187-420,swed1254,http://concepticon.clld.org/parameters/588,bruten,broken
+187-1950,swed1254,http://concepticon.clld.org/parameters/1437,splittra,split
+187-596,swed1254,http://concepticon.clld.org/parameters/1437,klyva,split
+187-1521,swed1254,http://concepticon.clld.org/parameters/1735,riva,tear
+187-1841,swed1254,http://concepticon.clld.org/parameters/1735,slita,tear
+187-1108,swed1254,http://concepticon.clld.org/parameters/291,flå,"flay, skin"
+187-1286,swed1254,http://concepticon.clld.org/parameters/1449,gnida,"rub, wipe"
+187-1952,swed1254,http://concepticon.clld.org/parameters/214,sträcka,stretch
+187-769,swed1254,http://concepticon.clld.org/parameters/214,spänna,stretch
+187-1019,swed1254,http://concepticon.clld.org/parameters/214,tänja,stretch
+187-573,swed1254,http://concepticon.clld.org/parameters/1455,draga,pull
+187-59,swed1254,http://concepticon.clld.org/parameters/1455,dra,pull
+187-963,swed1254,http://concepticon.clld.org/parameters/38,breda ut,spread out
+187-172,swed1254,http://concepticon.clld.org/parameters/38,strö,spread out
+187-1764,swed1254,http://concepticon.clld.org/parameters/357,hänga,hang up
+187-1820,swed1254,http://concepticon.clld.org/parameters/357,hänga upp,hang up
+187-615,swed1254,http://concepticon.clld.org/parameters/1913,trycka,press
+187-1886,swed1254,http://concepticon.clld.org/parameters/1913,trycka på,press
+187-757,swed1254,http://concepticon.clld.org/parameters/1913,pressa,press
+187-615,swed1254,http://concepticon.clld.org/parameters/1414,trycka,"squeeze, wring"
+187-931,swed1254,http://concepticon.clld.org/parameters/1414,klämma,"squeeze, wring"
+187-671,swed1254,http://concepticon.clld.org/parameters/1414,krama,"squeeze, wring"
+187-757,swed1254,http://concepticon.clld.org/parameters/1414,pressa,"squeeze, wring"
+187-811,swed1254,http://concepticon.clld.org/parameters/1487,hälla,pour
+187-661,swed1254,http://concepticon.clld.org/parameters/1487,gjuta,pour
+187-793,swed1254,http://concepticon.clld.org/parameters/1487,skänka,pour
+187-1160,swed1254,http://concepticon.clld.org/parameters/1453,tvätta,wash
+187-1734,swed1254,http://concepticon.clld.org/parameters/1453,vaska,wash
+187-1827,swed1254,http://concepticon.clld.org/parameters/230,sopa,sweep
+187-1837,swed1254,http://concepticon.clld.org/parameters/245,kvast,broom
+187-1856,swed1254,http://concepticon.clld.org/parameters/1361,verk-tyg,tool
+187-411,swed1254,http://concepticon.clld.org/parameters/1361,red-skap,tool
+187-877,swed1254,http://concepticon.clld.org/parameters/1042,snickare,carpenter
+187-1100,swed1254,http://concepticon.clld.org/parameters/1042,timmer-man,carpenter
+187-1498,swed1254,http://concepticon.clld.org/parameters/1840,bygga,build
+187-472,swed1254,http://concepticon.clld.org/parameters/1501,borra,bore
+187-779,swed1254,http://concepticon.clld.org/parameters/46,ur-holka,hollow out
+187-460,swed1254,http://concepticon.clld.org/parameters/46,göra i-hålig,hollow out
+187-1412,swed1254,http://concepticon.clld.org/parameters/1948,såg,saw
+187-1368,swed1254,http://concepticon.clld.org/parameters/1481,hammare,hammer
+187-322,swed1254,http://concepticon.clld.org/parameters/502,spik,nail
+187-1198,swed1254,http://concepticon.clld.org/parameters/1069,lim,glue
+187-1713,swed1254,http://concepticon.clld.org/parameters/1069,klister,glue
+187-487,swed1254,http://concepticon.clld.org/parameters/1001,smed,"smith, blacksmith"
+187-123,swed1254,http://concepticon.clld.org/parameters/288,smida,forge
+187-1513,swed1254,http://concepticon.clld.org/parameters/1648,städ,anvil
+187-661,swed1254,http://concepticon.clld.org/parameters/211,gjuta,cast (metals)
+187-1822,swed1254,http://concepticon.clld.org/parameters/211,stöpa,cast (metals)
+187-754,swed1254,http://concepticon.clld.org/parameters/1369,guld,gold
+187-135,swed1254,http://concepticon.clld.org/parameters/759,silver,silver
+187-966,swed1254,http://concepticon.clld.org/parameters/1825,koppar,"copper, bronze"
+187-846,swed1254,http://concepticon.clld.org/parameters/1825,brons,"copper, bronze"
+187-319,swed1254,http://concepticon.clld.org/parameters/621,järn,iron
+187-669,swed1254,http://concepticon.clld.org/parameters/627,bly,lead (noun)
+187-1747,swed1254,http://concepticon.clld.org/parameters/358,tenn,"tin, tinplate"
+187-1363,swed1254,http://concepticon.clld.org/parameters/358,bleck,"tin, tinplate"
+187-1925,swed1254,http://concepticon.clld.org/parameters/358,plåt,"tin, tinplate"
+187-1339,swed1254,http://concepticon.clld.org/parameters/359,kruk-makare,potter
+187-137,swed1254,http://concepticon.clld.org/parameters/359,keramiker,potter
+187-630,swed1254,http://concepticon.clld.org/parameters/289,forma,mold (clay etc)
+187-1263,swed1254,http://concepticon.clld.org/parameters/289,dana,mold (clay etc)
+187-46,swed1254,http://concepticon.clld.org/parameters/1399,lera,clay
+187-1049,swed1254,http://concepticon.clld.org/parameters/604,glas,glass
+187-620,swed1254,http://concepticon.clld.org/parameters/1729,fläta,"weave, plait"
+187-1832,swed1254,http://concepticon.clld.org/parameters/1729,väva,"weave, plait"
+187-1448,swed1254,http://concepticon.clld.org/parameters/1539,korg,basket
+187-302,swed1254,http://concepticon.clld.org/parameters/195,matta,mat
+187-789,swed1254,http://concepticon.clld.org/parameters/195,dörr-matta,mat
+187-302,swed1254,http://concepticon.clld.org/parameters/292,matta,rug
+187-1439,swed1254,http://concepticon.clld.org/parameters/293,bärnät,netbag
+187-1800,swed1254,http://concepticon.clld.org/parameters/293,nät-väska,netbag
+187-226,swed1254,http://concepticon.clld.org/parameters/1971,fläkt,fan (noun)
+187-1185,swed1254,http://concepticon.clld.org/parameters/1971,sol-fjäder,fan (noun)
+187-1537,swed1254,http://concepticon.clld.org/parameters/360,fläkta sig,fan (vb)
+187-96,swed1254,http://concepticon.clld.org/parameters/360,breda ut sig,fan (vb)
+187-367,swed1254,http://concepticon.clld.org/parameters/228,hugga ut,carve
+187-339,swed1254,http://concepticon.clld.org/parameters/228,skulptera,carve
+187-165,swed1254,http://concepticon.clld.org/parameters/914,bild-huggare,sculptor
+187-712,swed1254,http://concepticon.clld.org/parameters/914,skulptör,sculptor
+187-1751,swed1254,http://concepticon.clld.org/parameters/1002,staty,statue
+187-968,swed1254,http://concepticon.clld.org/parameters/1002,bild-stod,statue
+187-1819,swed1254,http://concepticon.clld.org/parameters/1979,mejsel,chisel
+187-74,swed1254,http://concepticon.clld.org/parameters/647,färg,paint (noun)
+187-1197,swed1254,http://concepticon.clld.org/parameters/2001,måla,paint (vb)
+187-1875,swed1254,http://concepticon.clld.org/parameters/765,röra,move
+187-1128,swed1254,http://concepticon.clld.org/parameters/765,flytta,move
+187-119,swed1254,http://concepticon.clld.org/parameters/1588,vända,turn over
+187-340,swed1254,http://concepticon.clld.org/parameters/1445,vrida,turn around
+187-601,swed1254,http://concepticon.clld.org/parameters/1445,sno,turn around
+187-1082,swed1254,http://concepticon.clld.org/parameters/1113,vinda,"wind, wrap"
+187-1689,swed1254,http://concepticon.clld.org/parameters/1113,linda,"wind, wrap"
+187-1848,swed1254,http://concepticon.clld.org/parameters/1113,veckla,"wind, wrap"
+187-1838,swed1254,http://concepticon.clld.org/parameters/827,rulla,roll
+187-350,swed1254,http://concepticon.clld.org/parameters/808,droppa,drop (vb)
+187-854,swed1254,http://concepticon.clld.org/parameters/808,droppa ner,drop (vb)
+187-340,swed1254,http://concepticon.clld.org/parameters/430,vrida,twist
+187-1414,swed1254,http://concepticon.clld.org/parameters/430,vrida till,twist
+187-693,swed1254,http://concepticon.clld.org/parameters/430,vricka,twist
+187-89,swed1254,http://concepticon.clld.org/parameters/430,för-vrida,twist
+187-785,swed1254,http://concepticon.clld.org/parameters/568,ställasig,rise
+187-269,swed1254,http://concepticon.clld.org/parameters/568,resa sig,rise
+187-1284,swed1254,http://concepticon.clld.org/parameters/501,lyfta,"raise, lift"
+187-900,swed1254,http://concepticon.clld.org/parameters/501,höja,"raise, lift"
+187-733,swed1254,http://concepticon.clld.org/parameters/1280,falla,fall
+187-350,swed1254,http://concepticon.clld.org/parameters/2253,droppa,drip
+187-990,swed1254,http://concepticon.clld.org/parameters/1456,kasta,throw
+187-289,swed1254,http://concepticon.clld.org/parameters/702,fånga,catch (ball)
+187-1618,swed1254,http://concepticon.clld.org/parameters/702,ta fast,catch (ball)
+187-111,swed1254,http://concepticon.clld.org/parameters/1909,skaka,shake
+187-1057,swed1254,http://concepticon.clld.org/parameters/2003,flyta,flow
+187-1294,swed1254,http://concepticon.clld.org/parameters/2003,rinna,flow
+187-753,swed1254,http://concepticon.clld.org/parameters/1088,sjunka,sink
+187-1504,swed1254,http://concepticon.clld.org/parameters/1088,sänka,sink
+187-1057,swed1254,http://concepticon.clld.org/parameters/1574,flyta,float
+187-1749,swed1254,http://concepticon.clld.org/parameters/1439,simma,swim
+187-94,swed1254,http://concepticon.clld.org/parameters/119,dyka,dive
+187-921,swed1254,http://concepticon.clld.org/parameters/365,stänka,splash
+187-1005,swed1254,http://concepticon.clld.org/parameters/365,slaska,splash
+187-505,swed1254,http://concepticon.clld.org/parameters/365,skvätta,splash
+187-1188,swed1254,http://concepticon.clld.org/parameters/365,plaska,splash
+187-271,swed1254,http://concepticon.clld.org/parameters/365,plumsa,splash
+187-952,swed1254,http://concepticon.clld.org/parameters/365,skvalpa,splash
+187-423,swed1254,http://concepticon.clld.org/parameters/787,segla,sail (vb)
+187-933,swed1254,http://concepticon.clld.org/parameters/1441,flyga,fly (vb)
+187-768,swed1254,http://concepticon.clld.org/parameters/175,blåsa,blow
+187-1101,swed1254,http://concepticon.clld.org/parameters/96,krypa,"creep, crawl"
+187-749,swed1254,http://concepticon.clld.org/parameters/96,kräla,"creep, crawl"
+187-1221,swed1254,http://concepticon.clld.org/parameters/66,knä-böja,kneel
+187-1844,swed1254,http://concepticon.clld.org/parameters/66,falla på knä,kneel
+187-667,swed1254,http://concepticon.clld.org/parameters/296,huka sig ner,crouch
+187-1105,swed1254,http://concepticon.clld.org/parameters/1324,glida,"slide, slip"
+187-1786,swed1254,http://concepticon.clld.org/parameters/1324,slippa,"slide, slip"
+187-1152,swed1254,http://concepticon.clld.org/parameters/1324,halka,"slide, slip"
+187-1842,swed1254,http://concepticon.clld.org/parameters/1829,hoppa,"jump, leap"
+187-1721,swed1254,http://concepticon.clld.org/parameters/1135,sparka,kick
+187-255,swed1254,http://concepticon.clld.org/parameters/1879,dansa,dance
+187-1351,swed1254,http://concepticon.clld.org/parameters/1443,gå,walk
+187-1053,swed1254,http://concepticon.clld.org/parameters/366,halta,limp
+187-1552,swed1254,http://concepticon.clld.org/parameters/366,linka,limp
+187-1849,swed1254,http://concepticon.clld.org/parameters/1519,springa,run
+187-866,swed1254,http://concepticon.clld.org/parameters/1519,ränna,run
+187-827,swed1254,http://concepticon.clld.org/parameters/1519,löpa,run
+187-1351,swed1254,http://concepticon.clld.org/parameters/695,gå,go
+187-1567,swed1254,http://concepticon.clld.org/parameters/695,fara,go
+187-867,swed1254,http://concepticon.clld.org/parameters/695,resa,go
+187-57,swed1254,http://concepticon.clld.org/parameters/705,stå up,go up
+187-860,swed1254,http://concepticon.clld.org/parameters/705,gå up,go up
+187-1254,swed1254,http://concepticon.clld.org/parameters/1102,klättra,climb
+187-643,swed1254,http://concepticon.clld.org/parameters/1102,kliva,climb
+187-997,swed1254,http://concepticon.clld.org/parameters/1102,klänga,climb
+187-957,swed1254,http://concepticon.clld.org/parameters/2014,gå ner,go down
+187-859,swed1254,http://concepticon.clld.org/parameters/1107,gå ut,go out
+187-1603,swed1254,http://concepticon.clld.org/parameters/1446,komma,come
+187-939,swed1254,http://concepticon.clld.org/parameters/581,komma till-baka,come back
+187-249,swed1254,http://concepticon.clld.org/parameters/1752,gå bort,"go away, depart"
+187-1509,swed1254,http://concepticon.clld.org/parameters/1752,resa bort,"go away, depart"
+187-384,swed1254,http://concepticon.clld.org/parameters/485,för-svinna,disappear
+187-571,swed1254,http://concepticon.clld.org/parameters/956,fly,flee
+187-689,swed1254,http://concepticon.clld.org/parameters/1085,följa,follow
+187-954,swed1254,http://concepticon.clld.org/parameters/1047,förfölja,pursue
+187-821,swed1254,http://concepticon.clld.org/parameters/1387,komma till,"reach, arrive"
+187-1317,swed1254,http://concepticon.clld.org/parameters/1387,an-lända till,"reach, arrive"
+187-1603,swed1254,http://concepticon.clld.org/parameters/1387,komma,"reach, arrive"
+187-929,swed1254,http://concepticon.clld.org/parameters/1387,an-lända,"reach, arrive"
+187-666,swed1254,http://concepticon.clld.org/parameters/1387,hinna,"reach, arrive"
+187-1255,swed1254,http://concepticon.clld.org/parameters/1387,nå,"reach, arrive"
+187-1714,swed1254,http://concepticon.clld.org/parameters/1778,närma sig,approach
+187-958,swed1254,http://concepticon.clld.org/parameters/749,in-träda,enter
+187-290,swed1254,http://concepticon.clld.org/parameters/749,gå in,enter
+187-454,swed1254,http://concepticon.clld.org/parameters/700,bära,carry (bear)
+187-1889,swed1254,http://concepticon.clld.org/parameters/700,föra,carry (bear)
+187-296,swed1254,http://concepticon.clld.org/parameters/700,köra,carry (bear)
+187-1392,swed1254,http://concepticon.clld.org/parameters/412,bära (i handen),carry-in-hand
+187-446,swed1254,http://concepticon.clld.org/parameters/413,bära (på axeln),carry-on-shoulder
+187-1763,swed1254,http://concepticon.clld.org/parameters/414,bära (på huvudet),carry-on-head
+187-1644,swed1254,http://concepticon.clld.org/parameters/415,bära (under armen),carry-underarm
+187-80,swed1254,http://concepticon.clld.org/parameters/692,bringa,bring
+187-852,swed1254,http://concepticon.clld.org/parameters/692,ta med sig,bring
+187-480,swed1254,http://concepticon.clld.org/parameters/692,hämta,bring
+187-1361,swed1254,http://concepticon.clld.org/parameters/1127,sända,send
+187-73,swed1254,http://concepticon.clld.org/parameters/1127,skicka,send
+187-654,swed1254,http://concepticon.clld.org/parameters/43,leda,lead (vb)
+187-1889,swed1254,http://concepticon.clld.org/parameters/43,föra,lead (vb)
+187-736,swed1254,http://concepticon.clld.org/parameters/741,driva,drive
+187-296,swed1254,http://concepticon.clld.org/parameters/741,köra,drive
+187-1544,swed1254,http://concepticon.clld.org/parameters/367,rida,ride
+187-1698,swed1254,http://concepticon.clld.org/parameters/367,åka,ride
+187-1305,swed1254,http://concepticon.clld.org/parameters/1452,knuffa,"push, shove"
+187-1499,swed1254,http://concepticon.clld.org/parameters/1452,knuffa på,"push, shove"
+187-1206,swed1254,http://concepticon.clld.org/parameters/1452,skjuta,"push, shove"
+187-501,swed1254,http://concepticon.clld.org/parameters/1452,skjuta på,"push, shove"
+187-403,swed1254,http://concepticon.clld.org/parameters/1452,stöta,"push, shove"
+187-58,swed1254,http://concepticon.clld.org/parameters/1452,stöta till,"push, shove"
+187-441,swed1254,http://concepticon.clld.org/parameters/667,väg,road
+187-1074,swed1254,http://concepticon.clld.org/parameters/2252,stig,path
+187-65,swed1254,http://concepticon.clld.org/parameters/1011,bro,bridge
+187-1121,swed1254,http://concepticon.clld.org/parameters/1011,brygga,bridge
+187-326,swed1254,http://concepticon.clld.org/parameters/122,vagn,"carriage, wagon, cart"
+187-1887,swed1254,http://concepticon.clld.org/parameters/122,kärra,"carriage, wagon, cart"
+187-527,swed1254,http://concepticon.clld.org/parameters/710,hjul,wheel
+187-531,swed1254,http://concepticon.clld.org/parameters/1769,axel,axle
+187-905,swed1254,http://concepticon.clld.org/parameters/14,ok,yoke
+187-218,swed1254,http://concepticon.clld.org/parameters/740,skepp,ship
+187-212,swed1254,http://concepticon.clld.org/parameters/740,fartyg,ship
+187-1673,swed1254,http://concepticon.clld.org/parameters/1844,båt,boat
+187-212,swed1254,http://concepticon.clld.org/parameters/1844,fartyg,boat
+187-674,swed1254,http://concepticon.clld.org/parameters/1970,kanot,canoe
+187-1818,swed1254,http://concepticon.clld.org/parameters/416,utriggare,outrigger
+187-1857,swed1254,http://concepticon.clld.org/parameters/1664,flotte,raft
+187-724,swed1254,http://concepticon.clld.org/parameters/108,åra,oar
+187-238,swed1254,http://concepticon.clld.org/parameters/234,paddel,paddle (noun)
+187-161,swed1254,http://concepticon.clld.org/parameters/1849,ro,row (vb)
+187-1873,swed1254,http://concepticon.clld.org/parameters/108,roder,rudder
+187-975,swed1254,http://concepticon.clld.org/parameters/184,mast,mast
+187-1411,swed1254,http://concepticon.clld.org/parameters/786,segel,sail (noun)
+187-1489,swed1254,http://concepticon.clld.org/parameters/1870,ankare,anchor
+187-835,swed1254,http://concepticon.clld.org/parameters/610,hamn,"harbor, port"
+187-916,swed1254,http://concepticon.clld.org/parameters/1922,landa,land (vb)
+187-934,swed1254,http://concepticon.clld.org/parameters/1922,föra i land,land (vb)
+187-881,swed1254,http://concepticon.clld.org/parameters/1922,sätta i land,land (vb)
+187-136,swed1254,http://concepticon.clld.org/parameters/1922,hala in,land (vb)
+187-1908,swed1254,http://concepticon.clld.org/parameters/773,ha,have
+187-1682,swed1254,http://concepticon.clld.org/parameters/773,hava,have
+187-980,swed1254,http://concepticon.clld.org/parameters/684,äga,"own, possess"
+187-556,swed1254,http://concepticon.clld.org/parameters/684,besitta,"own, possess"
+187-989,swed1254,http://concepticon.clld.org/parameters/1749,ta,take
+187-298,swed1254,http://concepticon.clld.org/parameters/1749,taga,take
+187-210,swed1254,http://concepticon.clld.org/parameters/2021,gripa,"seize, grasp"
+187-1834,swed1254,http://concepticon.clld.org/parameters/1448,hålla,hold
+187-1165,swed1254,http://concepticon.clld.org/parameters/694,få,"get, obtain"
+187-413,swed1254,http://concepticon.clld.org/parameters/1477,behålla,"keep, retain"
+187-299,swed1254,http://concepticon.clld.org/parameters/738,sak,thing
+187-310,swed1254,http://concepticon.clld.org/parameters/738,ting,thing
+187-890,swed1254,http://concepticon.clld.org/parameters/738,före-mål,thing
+187-1469,swed1254,http://concepticon.clld.org/parameters/1447,ge,give
+187-555,swed1254,http://concepticon.clld.org/parameters/1447,giva,give
+187-1760,swed1254,http://concepticon.clld.org/parameters/85,ge till-baka,give back
+187-1817,swed1254,http://concepticon.clld.org/parameters/85,åter-ge,give back
+187-150,swed1254,http://concepticon.clld.org/parameters/85,giva till-baka,give back
+187-781,swed1254,http://concepticon.clld.org/parameters/85,åter-giva,give back
+187-405,swed1254,http://concepticon.clld.org/parameters/1997,bevara,"preserve, look after"
+187-915,swed1254,http://concepticon.clld.org/parameters/1997,se efter,"preserve, look after"
+187-790,swed1254,http://concepticon.clld.org/parameters/1997,spara,"preserve, look after"
+187-1267,swed1254,http://concepticon.clld.org/parameters/2008,rädda,"save, rescue"
+187-113,swed1254,http://concepticon.clld.org/parameters/2008,frälsa,"save, rescue"
+187-1911,swed1254,http://concepticon.clld.org/parameters/681,för-störa,destroy
+187-243,swed1254,http://concepticon.clld.org/parameters/44,skada,"harm, injure, damage"
+187-1143,swed1254,http://concepticon.clld.org/parameters/1468,söka,"seek, look for"
+187-510,swed1254,http://concepticon.clld.org/parameters/1468,leta efter,"seek, look for"
+187-392,swed1254,http://concepticon.clld.org/parameters/719,finna,find
+187-187,swed1254,http://concepticon.clld.org/parameters/719,hitta,find
+187-1435,swed1254,http://concepticon.clld.org/parameters/1660,förlora,lose
+187-475,swed1254,http://concepticon.clld.org/parameters/1660,tappa,lose
+187-1112,swed1254,http://concepticon.clld.org/parameters/1095,lös-släppa,"release, let go"
+187-301,swed1254,http://concepticon.clld.org/parameters/1095,lös-giva,"release, let go"
+187-1490,swed1254,http://concepticon.clld.org/parameters/1095,släppa,"release, let go"
+187-1149,swed1254,http://concepticon.clld.org/parameters/1095,frige,"release, let go"
+187-953,swed1254,http://concepticon.clld.org/parameters/1559,pengar,money
+187-727,swed1254,http://concepticon.clld.org/parameters/1867,mynt,coin
+187-1707,swed1254,http://concepticon.clld.org/parameters/1867,penning,coin
+187-1312,swed1254,http://concepticon.clld.org/parameters/712,rik,rich
+187-1277,swed1254,http://concepticon.clld.org/parameters/1674,fattig,poor
+187-1070,swed1254,http://concepticon.clld.org/parameters/1934,tiggare,beggar
+187-1774,swed1254,http://concepticon.clld.org/parameters/1774,girig,"avaricious, stingy"
+187-1789,swed1254,http://concepticon.clld.org/parameters/1774,snål,"avaricious, stingy"
+187-1318,swed1254,http://concepticon.clld.org/parameters/1774,njugg,"avaricious, stingy"
+187-262,swed1254,http://concepticon.clld.org/parameters/582,låna,lend
+187-262,swed1254,http://concepticon.clld.org/parameters/1823,låna,borrow
+187-435,swed1254,http://concepticon.clld.org/parameters/369,vara skyldig,owe
+187-1425,swed1254,http://concepticon.clld.org/parameters/1914,skuld,debt
+187-1349,swed1254,http://concepticon.clld.org/parameters/1914,gäld,debt
+187-464,swed1254,http://concepticon.clld.org/parameters/718,betala,pay (vb)
+187-816,swed1254,http://concepticon.clld.org/parameters/1081,räknings konto,"account, reckoning"
+187-88,swed1254,http://concepticon.clld.org/parameters/1081,beräkning,"account, reckoning"
+187-1664,swed1254,http://concepticon.clld.org/parameters/1081,räken-skap,"account, reckoning"
+187-485,swed1254,http://concepticon.clld.org/parameters/873,skatt,"tax, tribute"
+187-976,swed1254,http://concepticon.clld.org/parameters/856,hyra,hire
+187-186,swed1254,http://concepticon.clld.org/parameters/856,lega,hire
+187-910,swed1254,http://concepticon.clld.org/parameters/856,leja,hire
+187-564,swed1254,http://concepticon.clld.org/parameters/856,anställa,hire
+187-577,swed1254,http://concepticon.clld.org/parameters/1122,lön,wages
+187-932,swed1254,http://concepticon.clld.org/parameters/1122,betalning,wages
+187-604,swed1254,http://concepticon.clld.org/parameters/733,för-tjäna,earn
+187-566,swed1254,http://concepticon.clld.org/parameters/1869,köpa,buy
+187-538,swed1254,http://concepticon.clld.org/parameters/1571,sälja,sell
+187-1724,swed1254,http://concepticon.clld.org/parameters/2135,handla,"trade, barter"
+187-538,swed1254,http://concepticon.clld.org/parameters/2135,sälja,"trade, barter"
+187-1680,swed1254,http://concepticon.clld.org/parameters/1082,köp-man,merchant
+187-1743,swed1254,http://concepticon.clld.org/parameters/1082,affärs-man,merchant
+187-1225,swed1254,http://concepticon.clld.org/parameters/1082,handlare,merchant
+187-1761,swed1254,http://concepticon.clld.org/parameters/633,torg,market (place)
+187-1672,swed1254,http://concepticon.clld.org/parameters/633,marknad,market (place)
+187-845,swed1254,http://concepticon.clld.org/parameters/752,handels-bod,"store, shop"
+187-1026,swed1254,http://concepticon.clld.org/parameters/752,butik,"store, shop"
+187-1854,swed1254,http://concepticon.clld.org/parameters/752,affär,"store, shop"
+187-239,swed1254,http://concepticon.clld.org/parameters/657,pris,price
+187-765,swed1254,http://concepticon.clld.org/parameters/1426,dyr,"dear (costly, expensive)"
+187-995,swed1254,http://concepticon.clld.org/parameters/1887,billig,cheap
+187-10,swed1254,http://concepticon.clld.org/parameters/884,dela,share (distribute)
+187-1077,swed1254,http://concepticon.clld.org/parameters/884,för-dela,share (distribute)
+187-1413,swed1254,http://concepticon.clld.org/parameters/1098,väga,weigh
+187-456,swed1254,http://concepticon.clld.org/parameters/1685,efter,after
+187-524,swed1254,http://concepticon.clld.org/parameters/723,bakom,behind
+187-456,swed1254,http://concepticon.clld.org/parameters/723,efter,behind
+187-1781,swed1254,http://concepticon.clld.org/parameters/1816,bred-vid,beside
+187-358,swed1254,http://concepticon.clld.org/parameters/1816,vid sidan av,beside
+187-912,swed1254,http://concepticon.clld.org/parameters/1816,in-till,beside
+187-1909,swed1254,http://concepticon.clld.org/parameters/1326,nedan-för,"down, below"
+187-9,swed1254,http://concepticon.clld.org/parameters/1326,under,"down, below"
+187-878,swed1254,http://concepticon.clld.org/parameters/1882,fram-för,before
+187-1899,swed1254,http://concepticon.clld.org/parameters/1882,in-för,before
+187-1890,swed1254,http://concepticon.clld.org/parameters/1882,före,before
+187-782,swed1254,http://concepticon.clld.org/parameters/1019,fram-sida,front
+187-983,swed1254,http://concepticon.clld.org/parameters/1019,främre del,front
+187-336,swed1254,http://concepticon.clld.org/parameters/1606,in,"inside, in"
+187-868,swed1254,http://concepticon.clld.org/parameters/1606,in-åt,"inside, in"
+187-1626,swed1254,http://concepticon.clld.org/parameters/1606,inne i,"inside, in"
+187-1910,swed1254,http://concepticon.clld.org/parameters/1606,in-om,"inside, in"
+187-1645,swed1254,http://concepticon.clld.org/parameters/1606,innan-för,"inside, in"
+187-849,swed1254,http://concepticon.clld.org/parameters/762,utan-för,outside
+187-1783,swed1254,http://concepticon.clld.org/parameters/762,utan-på,outside
+187-1422,swed1254,http://concepticon.clld.org/parameters/762,ute,outside
+187-9,swed1254,http://concepticon.clld.org/parameters/1485,under,under
+187-1909,swed1254,http://concepticon.clld.org/parameters/1485,nedan-för,under
+187-956,swed1254,http://concepticon.clld.org/parameters/1485,nere,under
+187-309,swed1254,http://concepticon.clld.org/parameters/1591,över,"up, above"
+187-170,swed1254,http://concepticon.clld.org/parameters/1591,ovan-för,"up, above"
+187-1526,swed1254,http://concepticon.clld.org/parameters/1591,ovan,"up, above"
+187-539,swed1254,http://concepticon.clld.org/parameters/1591,up-till,"up, above"
+187-1581,swed1254,http://concepticon.clld.org/parameters/723,plats,place
+187-1061,swed1254,http://concepticon.clld.org/parameters/998,sätte,put
+187-1584,swed1254,http://concepticon.clld.org/parameters/998,ställa,put
+187-778,swed1254,http://concepticon.clld.org/parameters/998,lägga,put
+187-894,swed1254,http://concepticon.clld.org/parameters/1416,sitta,sit
+187-1408,swed1254,http://concepticon.clld.org/parameters/215,ligga,lie down
+187-1757,swed1254,http://concepticon.clld.org/parameters/1442,stå,stand
+187-1949,swed1254,http://concepticon.clld.org/parameters/987,för-bliva,"remain, stay"
+187-1882,swed1254,http://concepticon.clld.org/parameters/987,stanna,"remain, stay"
+187-374,swed1254,http://concepticon.clld.org/parameters/987,stanna kvar,"remain, stay"
+187-414,swed1254,http://concepticon.clld.org/parameters/987,vänta,"remain, stay"
+187-1163,swed1254,http://concepticon.clld.org/parameters/838,bli(va) övrig,"remains, left overs"
+187-1146,swed1254,http://concepticon.clld.org/parameters/838,bli(va) kvar,"remains, left overs"
+187-1269,swed1254,http://concepticon.clld.org/parameters/838,vara kvar,"remains, left overs"
+187-1449,swed1254,http://concepticon.clld.org/parameters/7,samla,"collect, gather"
+187-1387,swed1254,http://concepticon.clld.org/parameters/371,plocka,pick up
+187-362,swed1254,http://concepticon.clld.org/parameters/371,plocka up,pick up
+187-1525,swed1254,http://concepticon.clld.org/parameters/1576,stapla,pile up
+187-1659,swed1254,http://concepticon.clld.org/parameters/1576,trava,pile up
+187-553,swed1254,http://concepticon.clld.org/parameters/1576,lägga i hög,pile up
+187-1449,swed1254,http://concepticon.clld.org/parameters/1576,samla,pile up
+187-1251,swed1254,http://concepticon.clld.org/parameters/1576,lägga på,pile up
+187-131,swed1254,http://concepticon.clld.org/parameters/1743,för-binda,"join, unite"
+187-1271,swed1254,http://concepticon.clld.org/parameters/1743,för-ena,"join, unite"
+187-19,swed1254,http://concepticon.clld.org/parameters/1743,foga,"join, unite"
+187-1141,swed1254,http://concepticon.clld.org/parameters/1743,samman-foga,"join, unite"
+187-1147,swed1254,http://concepticon.clld.org/parameters/1359,skilja,separate
+187-10,swed1254,http://concepticon.clld.org/parameters/1119,dela,divide
+187-1754,swed1254,http://concepticon.clld.org/parameters/1119,dela på,divide
+187-1441,swed1254,http://concepticon.clld.org/parameters/1156,öppna,open
+187-378,swed1254,http://concepticon.clld.org/parameters/1046,stänga,"shut, close"
+187-1948,swed1254,http://concepticon.clld.org/parameters/761,täcke,cover
+187-1951,swed1254,http://concepticon.clld.org/parameters/761,täcka,cover
+187-288,swed1254,http://concepticon.clld.org/parameters/602,gömma,"hide, conceal"
+187-1327,swed1254,http://concepticon.clld.org/parameters/602,dölja,"hide, conceal"
+187-1324,swed1254,http://concepticon.clld.org/parameters/1265,hög,high
+187-1663,swed1254,http://concepticon.clld.org/parameters/721,låg,low
+187-349,swed1254,http://concepticon.clld.org/parameters/1753,topp,top
+187-518,swed1254,http://concepticon.clld.org/parameters/1753,spets,top
+187-1929,swed1254,http://concepticon.clld.org/parameters/1753,överst,top
+187-1778,swed1254,http://concepticon.clld.org/parameters/690,botten,bottom
+187-1069,swed1254,http://concepticon.clld.org/parameters/742,ända,end
+187-592,swed1254,http://concepticon.clld.org/parameters/742,ände,end
+187-1072,swed1254,http://concepticon.clld.org/parameters/372,spetsig,pointed
+187-1099,swed1254,http://concepticon.clld.org/parameters/863,egg,edge
+187-668,swed1254,http://concepticon.clld.org/parameters/863,kant,edge
+187-178,swed1254,http://concepticon.clld.org/parameters/863,rand,edge
+187-141,swed1254,http://concepticon.clld.org/parameters/682,sida,side
+187-1407,swed1254,http://concepticon.clld.org/parameters/1093,mellerst,"middle, center"
+187-1196,swed1254,http://concepticon.clld.org/parameters/1093,medel-,"middle, center"
+187-913,swed1254,http://concepticon.clld.org/parameters/1093,mellan-,"middle, center"
+187-407,swed1254,http://concepticon.clld.org/parameters/1019,höger,right (side)
+187-1736,swed1254,http://concepticon.clld.org/parameters/244,vänster,left (side)
+187-1250,swed1254,http://concepticon.clld.org/parameters/1942,nära,near (adv)
+187-801,swed1254,http://concepticon.clld.org/parameters/1406,långt borta,far (adv)
+187-833,swed1254,http://concepticon.clld.org/parameters/1406,fjärran,far (adv)
+187-1418,swed1254,http://concepticon.clld.org/parameters/1877,öster,east
+187-130,swed1254,http://concepticon.clld.org/parameters/1877,öst,east
+187-558,swed1254,http://concepticon.clld.org/parameters/1817,väster,west
+187-1104,swed1254,http://concepticon.clld.org/parameters/1817,väst,west
+187-987,swed1254,http://concepticon.clld.org/parameters/1598,nord,north
+187-986,swed1254,http://concepticon.clld.org/parameters/1598,norr,north
+187-772,swed1254,http://concepticon.clld.org/parameters/1595,söder,south
+187-437,swed1254,http://concepticon.clld.org/parameters/479,växa,grow
+187-1176,swed1254,http://concepticon.clld.org/parameters/1506,mäta,measure
+187-804,swed1254,http://concepticon.clld.org/parameters/81,spann,"span, fathom"
+187-769,swed1254,http://concepticon.clld.org/parameters/81,spänna,"span, fathom"
+187-250,swed1254,http://concepticon.clld.org/parameters/1202,stor,"large, big"
+187-1001,swed1254,http://concepticon.clld.org/parameters/1246,liten,"small, little"
+187-1120,swed1254,http://concepticon.clld.org/parameters/1246,små,"small, little"
+187-257,swed1254,http://concepticon.clld.org/parameters/1203,lång,long
+187-257,swed1254,http://concepticon.clld.org/parameters/711,lång,tall
+187-1451,swed1254,http://concepticon.clld.org/parameters/1645,kort,short
+187-449,swed1254,http://concepticon.clld.org/parameters/1243,bred,"wide, broad"
+187-1027,swed1254,http://concepticon.clld.org/parameters/1243,vid,"wide, broad"
+187-1038,swed1254,http://concepticon.clld.org/parameters/1267,smal,narrow
+187-751,swed1254,http://concepticon.clld.org/parameters/1267,trång,narrow
+187-1813,swed1254,http://concepticon.clld.org/parameters/1244,tjock,thick (in dimension)
+187-353,swed1254,http://concepticon.clld.org/parameters/1400,tunn,thin (in dimension)
+187-1357,swed1254,http://concepticon.clld.org/parameters/1593,djup,deep
+187-702,swed1254,http://concepticon.clld.org/parameters/193,grund,shallow
+187-451,swed1254,http://concepticon.clld.org/parameters/1633,flat,flat
+187-1573,swed1254,http://concepticon.clld.org/parameters/1633,platt,flat
+187-203,swed1254,http://concepticon.clld.org/parameters/1404,rak,straight
+187-1497,swed1254,http://concepticon.clld.org/parameters/1404,rät,straight
+187-198,swed1254,http://concepticon.clld.org/parameters/297,krokig,crooked
+187-961,swed1254,http://concepticon.clld.org/parameters/297,krum,crooked
+187-251,swed1254,http://concepticon.clld.org/parameters/1071,krok,hook
+187-1579,swed1254,http://concepticon.clld.org/parameters/1071,hake,hook
+187-45,swed1254,http://concepticon.clld.org/parameters/192,hörn,corner
+187-1454,swed1254,http://concepticon.clld.org/parameters/1367,kors,cross
+187-1436,swed1254,http://concepticon.clld.org/parameters/850,fyrkant,square
+187-265,swed1254,http://concepticon.clld.org/parameters/1395,rund,round
+187-1641,swed1254,http://concepticon.clld.org/parameters/1467,krets,circle
+187-692,swed1254,http://concepticon.clld.org/parameters/1467,ring,circle
+187-1942,swed1254,http://concepticon.clld.org/parameters/1467,cirkel,circle
+187-1850,swed1254,http://concepticon.clld.org/parameters/1845,klot,"sphere, ball"
+187-1729,swed1254,http://concepticon.clld.org/parameters/1048,linje,line
+187-300,swed1254,http://concepticon.clld.org/parameters/1048,streck,line
+187-138,swed1254,http://concepticon.clld.org/parameters/1667,hål,hole
+187-1853,swed1254,http://concepticon.clld.org/parameters/1558,lika,"like, similar"
+187-839,swed1254,http://concepticon.clld.org/parameters/1558,liknande,"like, similar"
+187-533,swed1254,http://concepticon.clld.org/parameters/1264,ändra,change
+187-682,swed1254,http://concepticon.clld.org/parameters/1264,byta,change
+187-181,swed1254,http://concepticon.clld.org/parameters/1264,skifta,change
+187-1558,swed1254,http://concepticon.clld.org/parameters/1264,vexla,change
+187-1331,swed1254,http://concepticon.clld.org/parameters/1294,noll,"zero, nothing"
+187-270,swed1254,http://concepticon.clld.org/parameters/1294,nolla,"zero, nothing"
+187-930,swed1254,http://concepticon.clld.org/parameters/1294,ingen-ting,"zero, nothing"
+187-663,swed1254,http://concepticon.clld.org/parameters/1515,en,one
+187-1771,swed1254,http://concepticon.clld.org/parameters/1515,ett,one
+187-1129,swed1254,http://concepticon.clld.org/parameters/1498,två,two
+187-1494,swed1254,http://concepticon.clld.org/parameters/492,tre,three
+187-1330,swed1254,http://concepticon.clld.org/parameters/1500,fyra,four
+187-1532,swed1254,http://concepticon.clld.org/parameters/493,fem,five
+187-1242,swed1254,http://concepticon.clld.org/parameters/1703,sex,six
+187-56,swed1254,http://concepticon.clld.org/parameters/1704,sju,seven
+187-225,swed1254,http://concepticon.clld.org/parameters/1705,åtta,eight
+187-346,swed1254,http://concepticon.clld.org/parameters/1483,nio,nine
+187-467,swed1254,http://concepticon.clld.org/parameters/1515,tio,ten
+187-6,swed1254,http://concepticon.clld.org/parameters/1706,elva,eleven
+187-36,swed1254,http://concepticon.clld.org/parameters/1707,tolv,twelve
+187-474,swed1254,http://concepticon.clld.org/parameters/1709,femton,fifteen
+187-1219,swed1254,http://concepticon.clld.org/parameters/1710,tjugo,twenty
+187-347,swed1254,http://concepticon.clld.org/parameters/1634,hundra,hundred
+187-95,swed1254,http://concepticon.clld.org/parameters/1843,tusen,thousand
+187-1132,swed1254,http://concepticon.clld.org/parameters/1420,räkna,count
+187-1894,swed1254,http://concepticon.clld.org/parameters/98,var,"every, all"
+187-196,swed1254,http://concepticon.clld.org/parameters/98,varje,"every, all"
+187-1106,swed1254,http://concepticon.clld.org/parameters/98,alla,"every, all"
+187-1370,swed1254,http://concepticon.clld.org/parameters/1198,mycket,"much, many"
+187-1926,swed1254,http://concepticon.clld.org/parameters/1198,många,"much, many"
+187-47,swed1254,http://concepticon.clld.org/parameters/1992,mer,more
+187-1597,swed1254,http://concepticon.clld.org/parameters/1992,fler,more
+187-42,swed1254,http://concepticon.clld.org/parameters/1992,flera,more
+187-991,swed1254,http://concepticon.clld.org/parameters/1242,litet,"little (quantity), few"
+187-1165,swed1254,http://concepticon.clld.org/parameters/1242,få,"little (quantity), few"
+187-1154,swed1254,http://concepticon.clld.org/parameters/1242,inte mycket,"little (quantity), few"
+187-1283,swed1254,http://concepticon.clld.org/parameters/1242,inte många,"little (quantity), few"
+187-642,swed1254,http://concepticon.clld.org/parameters/1881,nog,enough
+187-1023,swed1254,http://concepticon.clld.org/parameters/1241,någorlunda,some
+187-1947,swed1254,http://concepticon.clld.org/parameters/1241,en del,some
+187-14,swed1254,http://concepticon.clld.org/parameters/2023,mängd,"multitude, crowd"
+187-101,swed1254,http://concepticon.clld.org/parameters/2023,hop,"multitude, crowd"
+187-1014,swed1254,http://concepticon.clld.org/parameters/1429,full,full
+187-190,swed1254,http://concepticon.clld.org/parameters/1624,tom,empty
+187-1058,swed1254,http://concepticon.clld.org/parameters/779,del,"part, piece"
+187-639,swed1254,http://concepticon.clld.org/parameters/816,halv,half
+187-1150,swed1254,http://concepticon.clld.org/parameters/1580,ensam,"alone, only"
+187-98,swed1254,http://concepticon.clld.org/parameters/1580,allena,"alone, only"
+187-1766,swed1254,http://concepticon.clld.org/parameters/1580,ende,"alone, only"
+187-795,swed1254,http://concepticon.clld.org/parameters/1580,enda,"alone, only"
+187-1243,swed1254,http://concepticon.clld.org/parameters/1580,bara,"alone, only"
+187-1462,swed1254,http://concepticon.clld.org/parameters/1580,allenast,"alone, only"
+187-838,swed1254,http://concepticon.clld.org/parameters/1580,blott,"alone, only"
+187-1613,swed1254,http://concepticon.clld.org/parameters/1580,endast,"alone, only"
+187-567,swed1254,http://concepticon.clld.org/parameters/728,först,first
+187-1700,swed1254,http://concepticon.clld.org/parameters/1529,sist,last
+187-21,swed1254,http://concepticon.clld.org/parameters/1384,andra,second
+187-528,swed1254,http://concepticon.clld.org/parameters/1384,som tvåa,second
+187-842,swed1254,http://concepticon.clld.org/parameters/1888,par,pair
+187-1883,swed1254,http://concepticon.clld.org/parameters/1546,två gånger,two times
+187-489,swed1254,http://concepticon.clld.org/parameters/1859,tredje,third
+187-1280,swed1254,http://concepticon.clld.org/parameters/417,tre gånger,three times
+187-469,swed1254,http://concepticon.clld.org/parameters/892,tid,time
+187-381,swed1254,http://concepticon.clld.org/parameters/1789,ålder,age
+187-466,swed1254,http://concepticon.clld.org/parameters/1231,ny,new
+187-295,swed1254,http://concepticon.clld.org/parameters/1207,ung,young
+187-1571,swed1254,http://concepticon.clld.org/parameters/1229,gammal,old
+187-214,swed1254,http://concepticon.clld.org/parameters/672,tidigt,early
+187-1450,swed1254,http://concepticon.clld.org/parameters/672,arla,early
+187-1482,swed1254,http://concepticon.clld.org/parameters/477,sent,late
+187-470,swed1254,http://concepticon.clld.org/parameters/1376,nu,now
+187-880,swed1254,http://concepticon.clld.org/parameters/1963,snart,immediately
+187-62,swed1254,http://concepticon.clld.org/parameters/1963,strax,immediately
+187-1203,swed1254,http://concepticon.clld.org/parameters/1963,genast,immediately
+187-652,swed1254,http://concepticon.clld.org/parameters/1631,snabb,"swift, fast, quick"
+187-568,swed1254,http://concepticon.clld.org/parameters/1631,snabbt,"swift, fast, quick"
+187-1354,swed1254,http://concepticon.clld.org/parameters/1631,snar,"swift, fast, quick"
+187-1719,swed1254,http://concepticon.clld.org/parameters/1631,rask,"swift, fast, quick"
+187-440,swed1254,http://concepticon.clld.org/parameters/1631,fort,"swift, fast, quick"
+187-274,swed1254,http://concepticon.clld.org/parameters/701,sakta,slow
+187-570,swed1254,http://concepticon.clld.org/parameters/701,långsam,slow
+187-244,swed1254,http://concepticon.clld.org/parameters/701,långsamt,slow
+187-1314,swed1254,http://concepticon.clld.org/parameters/701,trög,slow
+187-1897,swed1254,http://concepticon.clld.org/parameters/754,skynda sig,"hasten, hurry"
+187-115,swed1254,http://concepticon.clld.org/parameters/754,hasta,"hasten, hurry"
+187-291,swed1254,http://concepticon.clld.org/parameters/754,ila,"hasten, hurry"
+187-1631,swed1254,http://concepticon.clld.org/parameters/754,brådska,"hasten, hurry"
+187-511,swed1254,http://concepticon.clld.org/parameters/425,dröja,"retard, delay"
+187-1398,swed1254,http://concepticon.clld.org/parameters/1806,börja,"begin, beginning"
+187-1466,swed1254,http://concepticon.clld.org/parameters/1806,begynna,"begin, beginning"
+187-327,swed1254,http://concepticon.clld.org/parameters/1806,början,"begin, beginning"
+187-1938,swed1254,http://concepticon.clld.org/parameters/1806,begynnelse,"begin, beginning"
+187-1118,swed1254,http://concepticon.clld.org/parameters/1186,vara,"last, endure"
+187-1874,swed1254,http://concepticon.clld.org/parameters/1186,räcka,"last, endure"
+187-592,swed1254,http://concepticon.clld.org/parameters/743,ände,end (temporal)
+187-1868,swed1254,http://concepticon.clld.org/parameters/743,slut,end (temporal)
+187-139,swed1254,http://concepticon.clld.org/parameters/1766,afsluta,finish
+187-534,swed1254,http://concepticon.clld.org/parameters/1766,avsluta,finish
+187-160,swed1254,http://concepticon.clld.org/parameters/1766,sluta,finish
+187-1069,swed1254,http://concepticon.clld.org/parameters/1766,ända,finish
+187-260,swed1254,http://concepticon.clld.org/parameters/1928,upp-höra,"cease, stop"
+187-160,swed1254,http://concepticon.clld.org/parameters/1928,sluta,"cease, stop"
+187-148,swed1254,http://concepticon.clld.org/parameters/790,färdig,ready
+187-1048,swed1254,http://concepticon.clld.org/parameters/1676,alltid,always
+187-86,swed1254,http://concepticon.clld.org/parameters/1852,ofta,often
+187-1534,swed1254,http://concepticon.clld.org/parameters/1544,i-bland,sometimes
+187-595,swed1254,http://concepticon.clld.org/parameters/1544,emellan-åt,sometimes
+187-1381,swed1254,http://concepticon.clld.org/parameters/1544,stund-om,sometimes
+187-880,swed1254,http://concepticon.clld.org/parameters/703,snart,soon
+187-62,swed1254,http://concepticon.clld.org/parameters/703,strax,soon
+187-959,swed1254,http://concepticon.clld.org/parameters/418,för en lång tid,long-time (for a)
+187-1268,swed1254,http://concepticon.clld.org/parameters/418,under lång tid,long-time (for a)
+187-1131,swed1254,http://concepticon.clld.org/parameters/1656,aldrig,never
+187-1788,swed1254,http://concepticon.clld.org/parameters/204,igen,again
+187-1797,swed1254,http://concepticon.clld.org/parameters/204,åter,again
+187-1594,swed1254,http://concepticon.clld.org/parameters/1260,dag,day
+187-1845,swed1254,http://concepticon.clld.org/parameters/1233,natt,night
+187-844,swed1254,http://concepticon.clld.org/parameters/729,dagning,dawn
+187-496,swed1254,http://concepticon.clld.org/parameters/729,gryning,dawn
+187-221,swed1254,http://concepticon.clld.org/parameters/1339,morgon,morning
+187-93,swed1254,http://concepticon.clld.org/parameters/12,mid-dag,"noon, midday"
+187-541,swed1254,http://concepticon.clld.org/parameters/1807,efter-mid-dag,afternoon
+187-1476,swed1254,http://concepticon.clld.org/parameters/1629,afton,evening
+187-1916,swed1254,http://concepticon.clld.org/parameters/1629,kväll,evening
+187-48,swed1254,http://concepticon.clld.org/parameters/1283,i dag,today
+187-497,swed1254,http://concepticon.clld.org/parameters/1329,i morgon,tomorrow
+187-1943,swed1254,http://concepticon.clld.org/parameters/1179,(i) över-morgon,day-after-tomorrow
+187-1481,swed1254,http://concepticon.clld.org/parameters/1174,i går,yesterday
+187-128,swed1254,http://concepticon.clld.org/parameters/1180,förr-går,day-before-yesterday
+187-415,swed1254,http://concepticon.clld.org/parameters/1180,förgår,day-before-yesterday
+187-796,swed1254,http://concepticon.clld.org/parameters/1353,timme,hour
+187-1568,swed1254,http://concepticon.clld.org/parameters/1323,klocka,"clock, timepiece"
+187-1426,swed1254,http://concepticon.clld.org/parameters/1323,ur,"clock, timepiece"
+187-1678,swed1254,http://concepticon.clld.org/parameters/1469,vecka,week
+187-1050,swed1254,http://concepticon.clld.org/parameters/1699,söndag,Sunday
+187-1830,swed1254,http://concepticon.clld.org/parameters/1697,måndag,Monday
+187-509,swed1254,http://concepticon.clld.org/parameters/1695,tisdag,Tuesday
+187-1549,swed1254,http://concepticon.clld.org/parameters/1694,onsdag,Wednesday
+187-450,swed1254,http://concepticon.clld.org/parameters/1693,torsdag,Thursday
+187-208,swed1254,http://concepticon.clld.org/parameters/1692,fredag,Friday
+187-1876,swed1254,http://concepticon.clld.org/parameters/1700,lördag,Saturday
+187-1657,swed1254,http://concepticon.clld.org/parameters/1370,månad,month
+187-927,swed1254,http://concepticon.clld.org/parameters/1226,år,year
+187-1715,swed1254,http://concepticon.clld.org/parameters/1471,vinter,winter
+187-484,swed1254,http://concepticon.clld.org/parameters/1537,vår,spring
+187-91,swed1254,http://concepticon.clld.org/parameters/1342,sommar,summer
+187-1007,swed1254,http://concepticon.clld.org/parameters/1276,höst,autumn
+187-38,swed1254,http://concepticon.clld.org/parameters/691,års-tid,season
+187-469,swed1254,http://concepticon.clld.org/parameters/691,tid,season
+187-397,swed1254,http://concepticon.clld.org/parameters/691,säsong,season
+187-771,swed1254,http://concepticon.clld.org/parameters/1587,lukta,smell (vb intrans)
+187-1731,swed1254,http://concepticon.clld.org/parameters/375,andas in,sniff
+187-1506,swed1254,http://concepticon.clld.org/parameters/375,sniffa,sniff
+187-1003,swed1254,http://concepticon.clld.org/parameters/375,lukta (på),sniff
+187-1400,swed1254,http://concepticon.clld.org/parameters/1586,lukta på,smell (vb trans)
+187-1276,swed1254,http://concepticon.clld.org/parameters/1586,nosa på,smell (vb trans)
+187-770,swed1254,http://concepticon.clld.org/parameters/376,väl-luktande,"fragrant, good smelling"
+187-37,swed1254,http://concepticon.clld.org/parameters/376,doftande,"fragrant, good smelling"
+187-1428,swed1254,http://concepticon.clld.org/parameters/42,stinkande,"stinking, bad smelling"
+187-853,swed1254,http://concepticon.clld.org/parameters/42,illa-luktande,"stinking, bad smelling"
+187-1107,swed1254,http://concepticon.clld.org/parameters/21,smaka,taste
+187-1695,swed1254,http://concepticon.clld.org/parameters/717,söt,sweet
+187-1585,swed1254,http://concepticon.clld.org/parameters/717,sött,sweet
+187-744,swed1254,http://concepticon.clld.org/parameters/1091,salt,salty
+187-192,swed1254,http://concepticon.clld.org/parameters/887,bitter,bitter
+187-1012,swed1254,http://concepticon.clld.org/parameters/1906,sur,"acid, sour"
+187-1709,swed1254,http://concepticon.clld.org/parameters/70,bräckt,brackish
+187-305,swed1254,http://concepticon.clld.org/parameters/1408,höra,hear
+187-256,swed1254,http://concepticon.clld.org/parameters/1608,lyssna,listen
+187-81,swed1254,http://concepticon.clld.org/parameters/1811,ljud,"sound, noise"
+187-1324,swed1254,http://concepticon.clld.org/parameters/377,hög,loud
+187-1636,swed1254,http://concepticon.clld.org/parameters/1314,tyst,"quiet, silence"
+187-102,swed1254,http://concepticon.clld.org/parameters/1314,stilla,"quiet, silence"
+187-708,swed1254,http://concepticon.clld.org/parameters/1314,lugn,"quiet, silence"
+187-1259,swed1254,http://concepticon.clld.org/parameters/1314,tystnad,"quiet, silence"
+187-1795,swed1254,http://concepticon.clld.org/parameters/1314,stillhet,"quiet, silence"
+187-161,swed1254,http://concepticon.clld.org/parameters/1314,ro,"quiet, silence"
+187-622,swed1254,http://concepticon.clld.org/parameters/1409,se,see
+187-179,swed1254,http://concepticon.clld.org/parameters/1819,se på,"look, look at"
+187-1084,swed1254,http://concepticon.clld.org/parameters/1819,blicka,"look, look at"
+187-76,swed1254,http://concepticon.clld.org/parameters/1819,titta på,"look, look at"
+187-1697,swed1254,http://concepticon.clld.org/parameters/1039,visa,show
+187-151,swed1254,http://concepticon.clld.org/parameters/708,skina,shine
+187-973,swed1254,http://concepticon.clld.org/parameters/708,lysa,shine
+187-410,swed1254,http://concepticon.clld.org/parameters/708,glänsa,shine
+187-75,swed1254,http://concepticon.clld.org/parameters/679,ljus,bright
+187-1159,swed1254,http://concepticon.clld.org/parameters/679,blank,bright
+187-1611,swed1254,http://concepticon.clld.org/parameters/679,klar,bright
+187-803,swed1254,http://concepticon.clld.org/parameters/679,glänsande,bright
+187-74,swed1254,http://concepticon.clld.org/parameters/1613,färg,color
+187-75,swed1254,http://concepticon.clld.org/parameters/250,ljus,light (in color)
+187-1486,swed1254,http://concepticon.clld.org/parameters/706,mörk,dark (in color)
+187-969,swed1254,http://concepticon.clld.org/parameters/706,dunkel,dark (in color)
+187-848,swed1254,http://concepticon.clld.org/parameters/1335,hvit,white
+187-1035,swed1254,http://concepticon.clld.org/parameters/1335,vit,white
+187-605,swed1254,http://concepticon.clld.org/parameters/163,svart,black
+187-27,swed1254,http://concepticon.clld.org/parameters/156,röd,red
+187-907,swed1254,http://concepticon.clld.org/parameters/837,blå,blue
+187-1279,swed1254,http://concepticon.clld.org/parameters/1425,grön,green
+187-514,swed1254,http://concepticon.clld.org/parameters/1424,gul,yellow
+187-1647,swed1254,http://concepticon.clld.org/parameters/1892,vid-röra,touch
+187-1075,swed1254,http://concepticon.clld.org/parameters/1892,beröra,touch
+187-1542,swed1254,http://concepticon.clld.org/parameters/378,nypa,pinch
+187-1460,swed1254,http://concepticon.clld.org/parameters/378,knipa,pinch
+187-931,swed1254,http://concepticon.clld.org/parameters/378,klämma,pinch
+187-1863,swed1254,http://concepticon.clld.org/parameters/378,nypning,pinch
+187-1811,swed1254,http://concepticon.clld.org/parameters/378,knipning,pinch
+187-104,swed1254,http://concepticon.clld.org/parameters/378,klämning,pinch
+187-1529,swed1254,http://concepticon.clld.org/parameters/1079,känna på,feel
+187-1708,swed1254,http://concepticon.clld.org/parameters/1079,treva,feel
+187-359,swed1254,http://concepticon.clld.org/parameters/1884,hård,hard
+187-1292,swed1254,http://concepticon.clld.org/parameters/1856,mjuk,soft
+187-1606,swed1254,http://concepticon.clld.org/parameters/1923,ojämn,rough
+187-1281,swed1254,http://concepticon.clld.org/parameters/1923,skrovlig,rough
+187-1650,swed1254,http://concepticon.clld.org/parameters/1234,slät,smooth
+187-984,swed1254,http://concepticon.clld.org/parameters/1234,jämn,smooth
+187-1588,swed1254,http://concepticon.clld.org/parameters/1234,glatt,smooth
+187-395,swed1254,http://concepticon.clld.org/parameters/1396,skarp,sharp
+187-15,swed1254,http://concepticon.clld.org/parameters/1396,vass,sharp
+187-937,swed1254,http://concepticon.clld.org/parameters/379,slö,"blunt, dull"
+187-1870,swed1254,http://concepticon.clld.org/parameters/379,trubbig,"blunt, dull"
+187-354,swed1254,http://concepticon.clld.org/parameters/1210,tung,heavy
+187-1096,swed1254,http://concepticon.clld.org/parameters/1052,lätt,light (in weight)
+187-743,swed1254,http://concepticon.clld.org/parameters/1726,våt,"wet, damp"
+187-858,swed1254,http://concepticon.clld.org/parameters/1726,fuktig,"wet, damp"
+187-634,swed1254,http://concepticon.clld.org/parameters/1398,torr,dry
+187-919,swed1254,http://concepticon.clld.org/parameters/1286,het,hot
+187-124,swed1254,http://concepticon.clld.org/parameters/1232,varm,warm
+187-247,swed1254,http://concepticon.clld.org/parameters/1287,kall,cold
+187-1619,swed1254,http://concepticon.clld.org/parameters/704,ren,clean
+187-1632,swed1254,http://concepticon.clld.org/parameters/1230,smutsig,"dirty, soiled"
+187-409,swed1254,http://concepticon.clld.org/parameters/1230,oren,"dirty, soiled"
+187-285,swed1254,http://concepticon.clld.org/parameters/380,skrynklig,wrinkled
+187-1208,swed1254,http://concepticon.clld.org/parameters/53,själ,"soul, spirit"
+187-557,swed1254,http://concepticon.clld.org/parameters/53,ande,"soul, spirit"
+187-691,swed1254,http://concepticon.clld.org/parameters/1572,förundran,"surprised, astonished"
+187-1229,swed1254,http://concepticon.clld.org/parameters/1572,förvåning,"surprised, astonished"
+187-1625,swed1254,http://concepticon.clld.org/parameters/720,lycka,"good fortune, luck"
+187-787,swed1254,http://concepticon.clld.org/parameters/720,tur,"good fortune, luck"
+187-1113,swed1254,http://concepticon.clld.org/parameters/56,olycka,"misfortune, bad luck"
+187-453,swed1254,http://concepticon.clld.org/parameters/56,otur,"misfortune, bad luck"
+187-500,swed1254,http://concepticon.clld.org/parameters/1495,glad,"joyful, glad, happy"
+187-1881,swed1254,http://concepticon.clld.org/parameters/1355,skratta,laugh
+187-1587,swed1254,http://concepticon.clld.org/parameters/1355,le,laugh
+187-1008,swed1254,http://concepticon.clld.org/parameters/1451,små-le,smile
+187-891,swed1254,http://concepticon.clld.org/parameters/1451,leende,smile
+187-760,swed1254,http://concepticon.clld.org/parameters/1413,leka,play
+187-1595,swed1254,http://concepticon.clld.org/parameters/1413,spela,play
+187-1508,swed1254,http://concepticon.clld.org/parameters/923,kärlek,love
+187-977,swed1254,http://concepticon.clld.org/parameters/923,älskog,love
+187-1153,swed1254,http://concepticon.clld.org/parameters/923,älska,love
+187-1806,swed1254,http://concepticon.clld.org/parameters/578,kyssa,kiss
+187-232,swed1254,http://concepticon.clld.org/parameters/928,om-famna,embrace
+187-1815,swed1254,http://concepticon.clld.org/parameters/1783,smärta,pain
+187-1265,swed1254,http://concepticon.clld.org/parameters/1783,värk,pain
+187-1829,swed1254,http://concepticon.clld.org/parameters/1783,ont,pain
+187-188,swed1254,http://concepticon.clld.org/parameters/1783,lidande,pain
+187-377,swed1254,http://concepticon.clld.org/parameters/1668,djup sorg,"grief, sorrow, sadness"
+187-1539,swed1254,http://concepticon.clld.org/parameters/1668,sorg,"grief, sorrow, sadness"
+187-1431,swed1254,http://concepticon.clld.org/parameters/1668,grämelse,"grief, sorrow, sadness"
+187-427,swed1254,http://concepticon.clld.org/parameters/1000,ängslan,"anxiety, worry"
+187-677,swed1254,http://concepticon.clld.org/parameters/1000,oro,"anxiety, worry"
+187-914,swed1254,http://concepticon.clld.org/parameters/1000,bekymmer,"anxiety, worry"
+187-695,swed1254,http://concepticon.clld.org/parameters/1875,beklaga,"regret, be sorry"
+187-1933,swed1254,http://concepticon.clld.org/parameters/1875,ångra,"regret, be sorry"
+187-837,swed1254,http://concepticon.clld.org/parameters/1141,med-lidande,pity
+187-1706,swed1254,http://concepticon.clld.org/parameters/1141,med-ömkan,pity
+187-152,swed1254,http://concepticon.clld.org/parameters/1839,gråta,"cry, weep"
+187-635,swed1254,http://concepticon.clld.org/parameters/1651,tår,tear (noun)
+187-67,swed1254,http://concepticon.clld.org/parameters/716,stöna,groan
+187-1658,swed1254,http://concepticon.clld.org/parameters/1607,hat,hate
+187-30,swed1254,http://concepticon.clld.org/parameters/1607,hata,hate
+187-871,swed1254,http://concepticon.clld.org/parameters/82,vrede,anger
+187-1723,swed1254,http://concepticon.clld.org/parameters/82,ilska,anger
+187-633,swed1254,http://concepticon.clld.org/parameters/40,avund,"envy, jealousy"
+187-69,swed1254,http://concepticon.clld.org/parameters/40,svart-sjuka,"envy, jealousy"
+187-1343,swed1254,http://concepticon.clld.org/parameters/1776,skam,shame (noun)
+187-588,swed1254,http://concepticon.clld.org/parameters/174,stolt,proud
+187-1651,swed1254,http://concepticon.clld.org/parameters/1779,våga,dare
+187-352,swed1254,http://concepticon.clld.org/parameters/1779,töras,dare
+187-1814,swed1254,http://concepticon.clld.org/parameters/3,tapper,brave
+187-1266,swed1254,http://concepticon.clld.org/parameters/3,modig,brave
+187-1649,swed1254,http://concepticon.clld.org/parameters/781,fruktan,"fear, fright"
+187-1914,swed1254,http://concepticon.clld.org/parameters/781,rädsla,"fear, fright"
+187-893,swed1254,http://concepticon.clld.org/parameters/781,skräck,"fear, fright"
+187-1567,swed1254,http://concepticon.clld.org/parameters/1810,fara,danger
+187-649,swed1254,http://concepticon.clld.org/parameters/1784,åstunda,"desire, want"
+187-1437,swed1254,http://concepticon.clld.org/parameters/1784,begära,"desire, want"
+187-481,swed1254,http://concepticon.clld.org/parameters/1784,önska,"desire, want"
+187-490,swed1254,http://concepticon.clld.org/parameters/1784,vilja ha,"desire, want"
+187-1501,swed1254,http://concepticon.clld.org/parameters/1750,välja,choose
+187-797,swed1254,http://concepticon.clld.org/parameters/1750,ut-välja,choose
+187-1718,swed1254,http://concepticon.clld.org/parameters/1092,hopp,hope
+187-1831,swed1254,http://concepticon.clld.org/parameters/1092,hoppas,hope
+187-64,swed1254,http://concepticon.clld.org/parameters/100,trogen,faithful
+187-1006,swed1254,http://concepticon.clld.org/parameters/1657,sann,true
+187-1162,swed1254,http://concepticon.clld.org/parameters/601,lögn,"lie, tell lies"
+187-18,swed1254,http://concepticon.clld.org/parameters/13,bedrägeri,deceit
+187-1089,swed1254,http://concepticon.clld.org/parameters/13,svek,deceit
+187-1869,swed1254,http://concepticon.clld.org/parameters/1528,för-låta,forgive
+187-938,swed1254,http://concepticon.clld.org/parameters/1528,till-giva,forgive
+187-155,swed1254,http://concepticon.clld.org/parameters/1035,god,good
+187-68,swed1254,http://concepticon.clld.org/parameters/1035,bra,good
+187-1063,swed1254,http://concepticon.clld.org/parameters/1035,snäll,good
+187-690,swed1254,http://concepticon.clld.org/parameters/1292,ond,bad
+187-752,swed1254,http://concepticon.clld.org/parameters/1292,elak,bad
+187-1066,swed1254,http://concepticon.clld.org/parameters/1292,dålig,bad
+187-591,swed1254,http://concepticon.clld.org/parameters/1725,rätt,"right, correct"
+187-1310,swed1254,http://concepticon.clld.org/parameters/1390,orätt,wrong
+187-1425,swed1254,http://concepticon.clld.org/parameters/134,skuld,fault
+187-1395,swed1254,http://concepticon.clld.org/parameters/1293,fel,"mistake, error"
+187-245,swed1254,http://concepticon.clld.org/parameters/381,tadel,blame
+187-1934,swed1254,http://concepticon.clld.org/parameters/381,kritik,blame
+187-508,swed1254,http://concepticon.clld.org/parameters/1687,beröm,praise
+187-239,swed1254,http://concepticon.clld.org/parameters/1687,pris,praise
+187-925,swed1254,http://concepticon.clld.org/parameters/1687,lov,praise
+187-1669,swed1254,http://concepticon.clld.org/parameters/1427,vacker,beautiful
+187-748,swed1254,http://concepticon.clld.org/parameters/1427,skön,beautiful
+187-783,swed1254,http://concepticon.clld.org/parameters/1427,fager,beautiful
+187-1303,swed1254,http://concepticon.clld.org/parameters/1548,ful,ugly
+187-899,swed1254,http://concepticon.clld.org/parameters/1548,stygg,ugly
+187-1119,swed1254,http://concepticon.clld.org/parameters/2018,lysten,greedy
+187-1122,swed1254,http://concepticon.clld.org/parameters/2018,glupsk,greedy
+187-1173,swed1254,http://concepticon.clld.org/parameters/1310,begåvad,clever
+187-1563,swed1254,http://concepticon.clld.org/parameters/1310,intelligent,clever
+187-13,swed1254,http://concepticon.clld.org/parameters/1310,skicklig,clever
+187-372,swed1254,http://concepticon.clld.org/parameters/1310,duktig,clever
+187-830,swed1254,http://concepticon.clld.org/parameters/1310,fiffig,clever
+187-424,swed1254,http://concepticon.clld.org/parameters/1562,sinne,mind
+187-1232,swed1254,http://concepticon.clld.org/parameters/1415,tänka,think (= reflect)
+187-202,swed1254,http://concepticon.clld.org/parameters/1513,tycka,think (= be of the opinion)
+187-1545,swed1254,http://concepticon.clld.org/parameters/1513,mena,think (= be of the opinion)
+187-1232,swed1254,http://concepticon.clld.org/parameters/1513,tänka,think (= be of the opinion)
+187-1492,swed1254,http://concepticon.clld.org/parameters/1513,tro,think (= be of the opinion)
+187-1492,swed1254,http://concepticon.clld.org/parameters/1890,tro,believe
+187-1635,swed1254,http://concepticon.clld.org/parameters/1536,förstå,understand
+187-164,swed1254,http://concepticon.clld.org/parameters/1410,veta,know
+187-1904,swed1254,http://concepticon.clld.org/parameters/1410,känna,know
+187-24,swed1254,http://concepticon.clld.org/parameters/1932,gissa,guess
+187-1687,swed1254,http://concepticon.clld.org/parameters/117,imitera,imitate
+187-800,swed1254,http://concepticon.clld.org/parameters/117,härma,imitate
+187-1156,swed1254,http://concepticon.clld.org/parameters/117,apa efter,imitate
+187-627,swed1254,http://concepticon.clld.org/parameters/1521,synas,seem
+187-351,swed1254,http://concepticon.clld.org/parameters/1521,tyckas,seem
+187-1095,swed1254,http://concepticon.clld.org/parameters/1609,idé,"idea, notion"
+187-1589,swed1254,http://concepticon.clld.org/parameters/1609,in-fall,"idea, notion"
+187-108,swed1254,http://concepticon.clld.org/parameters/1609,före-ställning,"idea, notion"
+187-97,swed1254,http://concepticon.clld.org/parameters/1609,begrepp,"idea, notion"
+187-1924,swed1254,http://concepticon.clld.org/parameters/1609,aning,"idea, notion"
+187-1032,swed1254,http://concepticon.clld.org/parameters/698,vis,wise
+187-1851,swed1254,http://concepticon.clld.org/parameters/698,klok,wise
+187-1823,swed1254,http://concepticon.clld.org/parameters/1518,idiotisk,"foolish, stupid"
+187-823,swed1254,http://concepticon.clld.org/parameters/1518,tokig,"foolish, stupid"
+187-1282,swed1254,http://concepticon.clld.org/parameters/1518,dum,"foolish, stupid"
+187-589,swed1254,http://concepticon.clld.org/parameters/1899,galen,"insane, crazy"
+187-1839,swed1254,http://concepticon.clld.org/parameters/1899,van-sinnig,"insane, crazy"
+187-823,swed1254,http://concepticon.clld.org/parameters/1899,tokig,"insane, crazy"
+187-1085,swed1254,http://concepticon.clld.org/parameters/1899,förryckt,"insane, crazy"
+187-1907,swed1254,http://concepticon.clld.org/parameters/504,lära sig,learn
+187-1755,swed1254,http://concepticon.clld.org/parameters/1929,läsa,study
+187-175,swed1254,http://concepticon.clld.org/parameters/1929,studera,study
+187-1907,swed1254,http://concepticon.clld.org/parameters/1929,lära sig,study
+187-1913,swed1254,http://concepticon.clld.org/parameters/709,lära,teach
+187-686,swed1254,http://concepticon.clld.org/parameters/709,under-visa,teach
+187-1337,swed1254,http://concepticon.clld.org/parameters/753,elev,pupil
+187-889,swed1254,http://concepticon.clld.org/parameters/753,lär-junge,pupil
+187-1054,swed1254,http://concepticon.clld.org/parameters/1038,lärare,teacher
+187-1892,swed1254,http://concepticon.clld.org/parameters/673,skola,school
+187-529,swed1254,http://concepticon.clld.org/parameters/707,i-håg-komma,remember
+187-732,swed1254,http://concepticon.clld.org/parameters/707,komma ihåg,remember
+187-1304,swed1254,http://concepticon.clld.org/parameters/707,minnas,remember
+187-1260,swed1254,http://concepticon.clld.org/parameters/1523,glömma,forget
+187-1611,swed1254,http://concepticon.clld.org/parameters/989,klar,"clear, plain"
+187-864,swed1254,http://concepticon.clld.org/parameters/989,tydlig,"clear, plain"
+187-969,swed1254,http://concepticon.clld.org/parameters/1764,dunkel,obscure
+187-972,swed1254,http://concepticon.clld.org/parameters/1764,o-klar,obscure
+187-1071,swed1254,http://concepticon.clld.org/parameters/1764,o-tydlig,obscure
+187-1533,swed1254,http://concepticon.clld.org/parameters/1121,hemlig,secret
+187-1244,swed1254,http://concepticon.clld.org/parameters/1121,lönnlig,secret
+187-1756,swed1254,http://concepticon.clld.org/parameters/509,säker,"sure, certain"
+187-1692,swed1254,http://concepticon.clld.org/parameters/509,viss,"sure, certain"
+187-1372,swed1254,http://concepticon.clld.org/parameters/1626,för-klara,explain
+187-1264,swed1254,http://concepticon.clld.org/parameters/1162,av-sikt,"intention, purpose"
+187-1240,swed1254,http://concepticon.clld.org/parameters/1162,före-sats,"intention, purpose"
+187-1514,swed1254,http://concepticon.clld.org/parameters/1162,uppsåt,"intention, purpose"
+187-1033,swed1254,http://concepticon.clld.org/parameters/1162,syfte,"intention, purpose"
+187-647,swed1254,http://concepticon.clld.org/parameters/860,orsak,cause
+187-1920,swed1254,http://concepticon.clld.org/parameters/1308,tvivel,doubt
+187-999,swed1254,http://concepticon.clld.org/parameters/1841,miss-tanke,suspect
+187-896,swed1254,http://concepticon.clld.org/parameters/1902,för-råda,betray
+187-1359,swed1254,http://concepticon.clld.org/parameters/1902,av-slöja,betray
+187-498,swed1254,http://concepticon.clld.org/parameters/1902,röja,betray
+187-1168,swed1254,http://concepticon.clld.org/parameters/643,nöd,"need, necessity"
+187-1096,swed1254,http://concepticon.clld.org/parameters/686,lätt,easy
+187-1801,swed1254,http://concepticon.clld.org/parameters/686,enkel,easy
+187-1745,swed1254,http://concepticon.clld.org/parameters/584,svår,difficult
+187-264,swed1254,http://concepticon.clld.org/parameters/1812,för-söka,"try, attempt"
+187-129,swed1254,http://concepticon.clld.org/parameters/1812,pröva på,"try, attempt"
+187-1273,swed1254,http://concepticon.clld.org/parameters/488,sätt,"way, manner"
+187-1032,swed1254,http://concepticon.clld.org/parameters/488,vis,"way, manner"
+187-1290,swed1254,http://concepticon.clld.org/parameters/488,vana,"way, manner"
+187-1860,swed1254,http://concepticon.clld.org/parameters/488,egenhet,"way, manner"
+187-242,swed1254,http://concepticon.clld.org/parameters/1577,och,and
+187-681,swed1254,http://concepticon.clld.org/parameters/1157,emedan,because
+187-628,swed1254,http://concepticon.clld.org/parameters/1157,där-för att,because
+187-303,swed1254,http://concepticon.clld.org/parameters/1157,på grund av,because
+187-903,swed1254,http://concepticon.clld.org/parameters/1459,om,if
+187-1434,swed1254,http://concepticon.clld.org/parameters/1014,eller,or
+187-794,swed1254,http://concepticon.clld.org/parameters/1268,ja,"yes, affirmative"
+187-35,swed1254,http://concepticon.clld.org/parameters/1269,nej,"no, negative"
+187-233,swed1254,http://concepticon.clld.org/parameters/1239,hur,how?
+187-1135,swed1254,http://concepticon.clld.org/parameters/822,hur många,how many?
+187-1111,swed1254,http://concepticon.clld.org/parameters/531,hur mycket,how much?
+187-1891,swed1254,http://concepticon.clld.org/parameters/1236,vad,what?
+187-176,swed1254,http://concepticon.clld.org/parameters/1238,när,when?
+187-1894,swed1254,http://concepticon.clld.org/parameters/1237,var,where?
+187-1234,swed1254,http://concepticon.clld.org/parameters/727,vilken,which?
+187-503,swed1254,http://concepticon.clld.org/parameters/1235,vem,who?
+187-1433,swed1254,http://concepticon.clld.org/parameters/1270,var-för,why?
+187-583,swed1254,http://concepticon.clld.org/parameters/1363,röst,voice
+187-318,swed1254,http://concepticon.clld.org/parameters/1363,stämma,voice
+187-1334,swed1254,http://concepticon.clld.org/parameters/1261,sjunga,sing
+187-1300,swed1254,http://concepticon.clld.org/parameters/715,ropa,"shout, cry out"
+187-1272,swed1254,http://concepticon.clld.org/parameters/715,skrika,"shout, cry out"
+187-280,swed1254,http://concepticon.clld.org/parameters/55,viska,whisper
+187-1547,swed1254,http://concepticon.clld.org/parameters/128,mumla,mumble
+187-1784,swed1254,http://concepticon.clld.org/parameters/128,muttra,mumble
+187-133,swed1254,http://concepticon.clld.org/parameters/1025,vissla,whistle
+187-1272,swed1254,http://concepticon.clld.org/parameters/298,skrika,"shriek, screech"
+187-1353,swed1254,http://concepticon.clld.org/parameters/526,tjuta,howl
+187-1752,swed1254,http://concepticon.clld.org/parameters/526,vråla,howl
+187-1394,swed1254,http://concepticon.clld.org/parameters/526,yla,howl
+187-1652,swed1254,http://concepticon.clld.org/parameters/526,vina,howl
+187-1261,swed1254,http://concepticon.clld.org/parameters/1623,tala,"speak, talk"
+187-41,swed1254,http://concepticon.clld.org/parameters/1623,prata,"speak, talk"
+187-1191,swed1254,http://concepticon.clld.org/parameters/1623,(språka),"speak, talk"
+187-742,swed1254,http://concepticon.clld.org/parameters/1866,stamma,"stutter, stammer"
+187-1495,swed1254,http://concepticon.clld.org/parameters/1458,säga,say
+187-813,swed1254,http://concepticon.clld.org/parameters/1711,berätta,tell story
+187-1554,swed1254,http://concepticon.clld.org/parameters/1115,tal,speech (make a)
+187-1790,swed1254,http://concepticon.clld.org/parameters/1115,anförande,speech (make a)
+187-920,swed1254,http://concepticon.clld.org/parameters/1115,hålla ett tal,speech (make a)
+187-1636,swed1254,http://concepticon.clld.org/parameters/48,tyst,silent (be)
+187-1289,swed1254,http://concepticon.clld.org/parameters/48,tiga,silent (be)
+187-1429,swed1254,http://concepticon.clld.org/parameters/1307,språk,language
+187-1847,swed1254,http://concepticon.clld.org/parameters/1307,mål,language
+187-1802,swed1254,http://concepticon.clld.org/parameters/1307,tungo-mål,language
+187-680,swed1254,http://concepticon.clld.org/parameters/1599,ord,word
+187-653,swed1254,http://concepticon.clld.org/parameters/1405,namn,name
+187-1235,swed1254,http://concepticon.clld.org/parameters/1309,fråga,"ask (question, inquire)"
+187-599,swed1254,http://concepticon.clld.org/parameters/1275,svara,answer
+187-1228,swed1254,http://concepticon.clld.org/parameters/2022,medge,"admit, confess"
+187-1825,swed1254,http://concepticon.clld.org/parameters/2022,med-giva,"admit, confess"
+187-121,swed1254,http://concepticon.clld.org/parameters/2022,till-stå,"admit, confess"
+187-1174,swed1254,http://concepticon.clld.org/parameters/2022,bekänna,"admit, confess"
+187-1402,swed1254,http://concepticon.clld.org/parameters/755,neka,deny
+187-1237,swed1254,http://concepticon.clld.org/parameters/755,för-neka,deny
+187-1382,swed1254,http://concepticon.clld.org/parameters/1828,be,"ask, request"
+187-1417,swed1254,http://concepticon.clld.org/parameters/1828,(bedja),"ask, request"
+187-1437,swed1254,http://concepticon.clld.org/parameters/1828,begära,"ask, request"
+187-758,swed1254,http://concepticon.clld.org/parameters/1828,fordra,"ask, request"
+187-552,swed1254,http://concepticon.clld.org/parameters/1675,lova,promise
+187-273,swed1254,http://concepticon.clld.org/parameters/49,för-vägra,refuse
+187-1578,swed1254,http://concepticon.clld.org/parameters/49,vägra,refuse
+187-1257,swed1254,http://concepticon.clld.org/parameters/49,avslå,refuse
+187-1488,swed1254,http://concepticon.clld.org/parameters/83,för-bjuda,forbid
+187-1110,swed1254,http://concepticon.clld.org/parameters/299,till-rätta-visa,"rebuke, scold"
+187-230,swed1254,http://concepticon.clld.org/parameters/299,klandra,"rebuke, scold"
+187-799,swed1254,http://concepticon.clld.org/parameters/1084,kalla på någon,call (=summon)
+187-1155,swed1254,http://concepticon.clld.org/parameters/1084,ropa på någon,call (=summon)
+187-267,swed1254,http://concepticon.clld.org/parameters/180,kalla,call (=name)
+187-1727,swed1254,http://concepticon.clld.org/parameters/180,heta,call (=name)
+187-228,swed1254,http://concepticon.clld.org/parameters/9,kungöra,announce
+187-320,swed1254,http://concepticon.clld.org/parameters/9,för-kunna,announce
+187-277,swed1254,http://concepticon.clld.org/parameters/1192,hota,threaten
+187-519,swed1254,http://concepticon.clld.org/parameters/101,skryta,boast
+187-31,swed1254,http://concepticon.clld.org/parameters/1672,skriva,write
+187-1755,swed1254,http://concepticon.clld.org/parameters/724,läsa,read
+187-1396,swed1254,http://concepticon.clld.org/parameters/648,papper,paper
+187-1919,swed1254,http://concepticon.clld.org/parameters/794,penna,pen
+187-547,swed1254,http://concepticon.clld.org/parameters/963,bok,book
+187-324,swed1254,http://concepticon.clld.org/parameters/1045,skald,poet
+187-1480,swed1254,http://concepticon.clld.org/parameters/1045,diktare,poet
+187-1787,swed1254,http://concepticon.clld.org/parameters/1045,poet,poet
+187-600,swed1254,http://concepticon.clld.org/parameters/777,flöjt,flute
+187-1855,swed1254,http://concepticon.clld.org/parameters/908,trumma,drum
+187-1560,swed1254,http://concepticon.clld.org/parameters/2136,trumpet,"horn, trumpet"
+187-1656,swed1254,http://concepticon.clld.org/parameters/2136,blås-instrument,"horn, trumpet"
+187-1362,swed1254,http://concepticon.clld.org/parameters/300,skallra,rattle
+187-1456,swed1254,http://concepticon.clld.org/parameters/1300,land,country
+187-735,swed1254,http://concepticon.clld.org/parameters/89,fädernes-land,one's native country
+187-1114,swed1254,http://concepticon.clld.org/parameters/89,foster-land,one's native country
+187-1935,swed1254,http://concepticon.clld.org/parameters/1391,stad,"city, town"
+187-1389,swed1254,http://concepticon.clld.org/parameters/930,by,village
+187-1397,swed1254,http://concepticon.clld.org/parameters/1010,gräns,boundary
+187-1503,swed1254,http://concepticon.clld.org/parameters/789,folk,people (populace)
+187-1941,swed1254,http://concepticon.clld.org/parameters/302,stam,"tribe, clan"
+187-1921,swed1254,http://concepticon.clld.org/parameters/302,slägt,"tribe, clan"
+187-1608,swed1254,http://concepticon.clld.org/parameters/302,släkt,"tribe, clan"
+187-943,swed1254,http://concepticon.clld.org/parameters/302,ätt,"tribe, clan"
+187-1233,swed1254,http://concepticon.clld.org/parameters/301,ledare,"chief, chieftain"
+187-29,swed1254,http://concepticon.clld.org/parameters/301,chef,"chief, chieftain"
+187-1792,swed1254,http://concepticon.clld.org/parameters/301,hövding,"chief, chieftain"
+187-775,swed1254,http://concepticon.clld.org/parameters/301,huvud-man,"chief, chieftain"
+187-1928,swed1254,http://concepticon.clld.org/parameters/1296,stav,"staff, walking stick"
+187-1807,swed1254,http://concepticon.clld.org/parameters/1296,käpp,"staff, walking stick"
+187-1151,swed1254,http://concepticon.clld.org/parameters/1846,styra,"rule, govern"
+187-1586,swed1254,http://concepticon.clld.org/parameters/1846,härska,"rule, govern"
+187-308,swed1254,http://concepticon.clld.org/parameters/1846,regera,"rule, govern"
+187-455,swed1254,http://concepticon.clld.org/parameters/1508,konung,"king, ruler"
+187-739,swed1254,http://concepticon.clld.org/parameters/1306,drottning,queen
+187-851,swed1254,http://concepticon.clld.org/parameters/482,ädling,"noble, nobleman"
+187-1367,swed1254,http://concepticon.clld.org/parameters/482,adels-man,"noble, nobleman"
+187-1133,swed1254,http://concepticon.clld.org/parameters/1032,borgare,"citizen, subject"
+187-443,swed1254,http://concepticon.clld.org/parameters/1032,med-borgare,"citizen, subject"
+187-1360,swed1254,http://concepticon.clld.org/parameters/383,herre,master
+187-713,swed1254,http://concepticon.clld.org/parameters/812,slav,slave
+187-1893,swed1254,http://concepticon.clld.org/parameters/812,träl,slave
+187-412,swed1254,http://concepticon.clld.org/parameters/255,tjänare,servant
+187-1878,swed1254,http://concepticon.clld.org/parameters/384,fri,freeman
+187-1169,swed1254,http://concepticon.clld.org/parameters/1128,befalla,"command, order"
+187-992,swed1254,http://concepticon.clld.org/parameters/1128,bjuda,"command, order"
+187-1037,swed1254,http://concepticon.clld.org/parameters/1635,lyda,obey
+187-806,swed1254,http://concepticon.clld.org/parameters/1635,hörsamma,obey
+187-1864,swed1254,http://concepticon.clld.org/parameters/1003,låta,"let, permit"
+187-515,swed1254,http://concepticon.clld.org/parameters/1003,till-låta,"let, permit"
+187-445,swed1254,http://concepticon.clld.org/parameters/1325,vän,"friend, companion"
+187-1628,swed1254,http://concepticon.clld.org/parameters/1358,o-vän,enemy
+187-828,swed1254,http://concepticon.clld.org/parameters/1358,fiende,enemy
+187-1693,swed1254,http://concepticon.clld.org/parameters/1332,granne,neighbor
+187-1045,swed1254,http://concepticon.clld.org/parameters/791,främling,stranger
+187-118,swed1254,http://concepticon.clld.org/parameters/1782,gäst,guest
+187-1262,swed1254,http://concepticon.clld.org/parameters/1545,värd,host
+187-716,swed1254,http://concepticon.clld.org/parameters/1897,hjälpa,"help, aid"
+187-565,swed1254,http://concepticon.clld.org/parameters/1550,för-hindra,"hinder, prevent"
+187-1472,swed1254,http://concepticon.clld.org/parameters/1550,hindra,"hinder, prevent"
+187-1213,swed1254,http://concepticon.clld.org/parameters/1550,hämma,"hinder, prevent"
+187-884,swed1254,http://concepticon.clld.org/parameters/1550,före-komma,"hinder, prevent"
+187-183,swed1254,http://concepticon.clld.org/parameters/1747,sed-vänja,custom
+187-1674,swed1254,http://concepticon.clld.org/parameters/1747,sed,custom
+187-1290,swed1254,http://concepticon.clld.org/parameters/1747,vana,custom
+187-911,swed1254,http://concepticon.clld.org/parameters/1848,strid,"strife, quarrel"
+187-1369,swed1254,http://concepticon.clld.org/parameters/1848,tvist,"strife, quarrel"
+187-646,swed1254,http://concepticon.clld.org/parameters/1848,gräl,"strife, quarrel"
+187-429,swed1254,http://concepticon.clld.org/parameters/1848,träta,"strife, quarrel"
+187-971,swed1254,http://concepticon.clld.org/parameters/2024,samman-svärjning,"conspiracy, plot"
+187-1759,swed1254,http://concepticon.clld.org/parameters/1831,möta,meet
+187-1553,swed1254,http://concepticon.clld.org/parameters/1831,träffa,meet
+187-660,swed1254,http://concepticon.clld.org/parameters/1610,prostituerad,prostitute
+187-1288,swed1254,http://concepticon.clld.org/parameters/1610,sköka,prostitute
+187-22,swed1254,http://concepticon.clld.org/parameters/1610,hora,prostitute
+187-1043,swed1254,http://concepticon.clld.org/parameters/1423,slåss,fight (vb)
+187-1574,swed1254,http://concepticon.clld.org/parameters/1423,kämpa,fight (vb)
+187-944,swed1254,http://concepticon.clld.org/parameters/1423,fäkta,fight (vb)
+187-1507,swed1254,http://concepticon.clld.org/parameters/579,krig,"war, battle"
+187-167,swed1254,http://concepticon.clld.org/parameters/1338,fred,peace
+187-1885,swed1254,http://concepticon.clld.org/parameters/1561,här,army
+187-902,swed1254,http://concepticon.clld.org/parameters/1561,armé,army
+187-66,swed1254,http://concepticon.clld.org/parameters/1941,soldat,soldier
+187-1483,swed1254,http://concepticon.clld.org/parameters/951,vapen,"weapons, arms"
+187-1316,swed1254,http://concepticon.clld.org/parameters/1763,klubba,club
+187-809,swed1254,http://concepticon.clld.org/parameters/386,strids-yxa,battle-ax
+187-258,swed1254,http://concepticon.clld.org/parameters/387,slunga,sling
+187-272,swed1254,http://concepticon.clld.org/parameters/994,båge,bow
+187-1782,swed1254,http://concepticon.clld.org/parameters/977,pil,arrow
+187-1295,swed1254,http://concepticon.clld.org/parameters/945,spjut,spear
+187-964,swed1254,http://concepticon.clld.org/parameters/945,lans,spear
+187-1557,swed1254,http://concepticon.clld.org/parameters/1535,svärd,sword
+187-317,swed1254,http://concepticon.clld.org/parameters/1566,gevär,"gun, cannon"
+187-1725,swed1254,http://concepticon.clld.org/parameters/1566,bössa,"gun, cannon"
+187-1511,swed1254,http://concepticon.clld.org/parameters/1566,skjut-vapen,"gun, cannon"
+187-1375,swed1254,http://concepticon.clld.org/parameters/1566,kanon,"gun, cannon"
+187-1186,swed1254,http://concepticon.clld.org/parameters/1061,vapen-rustning,armor (defensive)
+187-204,swed1254,http://concepticon.clld.org/parameters/1061,rustning,armor (defensive)
+187-946,swed1254,http://concepticon.clld.org/parameters/1061,harnesk,armor (defensive)
+187-776,swed1254,http://concepticon.clld.org/parameters/1680,hjälm,helmet
+187-923,swed1254,http://concepticon.clld.org/parameters/1064,sköld,shield
+187-1775,swed1254,http://concepticon.clld.org/parameters/1938,fästning,fortress
+187-631,swed1254,http://concepticon.clld.org/parameters/1671,torn,tower
+187-1405,swed1254,http://concepticon.clld.org/parameters/783,seger,victory
+187-1717,swed1254,http://concepticon.clld.org/parameters/782,neder-lag,defeat
+187-294,swed1254,http://concepticon.clld.org/parameters/722,anfall,attack
+187-780,swed1254,http://concepticon.clld.org/parameters/1330,för-svar,defend
+187-494,swed1254,http://concepticon.clld.org/parameters/421,reträtt,retreat
+187-670,swed1254,http://concepticon.clld.org/parameters/421,åter-tåg,retreat
+187-629,swed1254,http://concepticon.clld.org/parameters/1696,kapitulera,surrender
+187-1662,swed1254,http://concepticon.clld.org/parameters/1696,ge upp,surrender
+187-843,swed1254,http://concepticon.clld.org/parameters/1696,över-lämna,surrender
+187-363,swed1254,http://concepticon.clld.org/parameters/1072,fånge,"captive, prisoner"
+187-590,swed1254,http://concepticon.clld.org/parameters/1940,vakt,"guard, sentinel"
+187-1103,swed1254,http://concepticon.clld.org/parameters/1940,väktare,"guard, sentinel"
+187-521,swed1254,http://concepticon.clld.org/parameters/1022,byte,"booty, spoils"
+187-495,swed1254,http://concepticon.clld.org/parameters/1022,rov,"booty, spoils"
+187-20,swed1254,http://concepticon.clld.org/parameters/65,bak-håll,ambush
+187-1593,swed1254,http://concepticon.clld.org/parameters/1858,fiskare,fisherman
+187-251,swed1254,http://concepticon.clld.org/parameters/1074,krok,fishhook
+187-1810,swed1254,http://concepticon.clld.org/parameters/19,met-rev,fishing line
+187-1306,swed1254,http://concepticon.clld.org/parameters/388,fisk-nät,fishnet
+187-1278,swed1254,http://concepticon.clld.org/parameters/389,snärja,fish trap
+187-236,swed1254,http://concepticon.clld.org/parameters/389,fisk-fälla,fish trap
+187-447,swed1254,http://concepticon.clld.org/parameters/389,snara,fish trap
+187-1455,swed1254,http://concepticon.clld.org/parameters/2013,agn,bait
+187-731,swed1254,http://concepticon.clld.org/parameters/2013,bete,bait
+187-725,swed1254,http://concepticon.clld.org/parameters/1435,jaga,hunt
+187-1206,swed1254,http://concepticon.clld.org/parameters/1172,skjuta,shoot
+187-658,swed1254,http://concepticon.clld.org/parameters/1172,fyra av,shoot
+187-1646,swed1254,http://concepticon.clld.org/parameters/161,missa,miss (target)
+187-335,swed1254,http://concepticon.clld.org/parameters/161,gå miste om,miss (target)
+187-1192,swed1254,http://concepticon.clld.org/parameters/1075,fälla,trap (noun)
+187-447,swed1254,http://concepticon.clld.org/parameters/1075,snara,trap (noun)
+187-462,swed1254,http://concepticon.clld.org/parameters/1170,sätta ut fällor,trap (vb)
+187-675,swed1254,http://concepticon.clld.org/parameters/1170,locka i fällan,trap (vb)
+187-447,swed1254,http://concepticon.clld.org/parameters/1170,snara,trap (vb)
+187-1278,swed1254,http://concepticon.clld.org/parameters/1170,snärja,trap (vb)
+187-109,swed1254,http://concepticon.clld.org/parameters/1062,lag,law
+187-591,swed1254,http://concepticon.clld.org/parameters/1062,rätt,law
+187-591,swed1254,http://concepticon.clld.org/parameters/1068,rätt,court
+187-1517,swed1254,http://concepticon.clld.org/parameters/1068,dom-stol,court
+187-1148,swed1254,http://concepticon.clld.org/parameters/1818,döma,judge (vb)
+187-222,swed1254,http://concepticon.clld.org/parameters/1067,dom,judgment
+187-1633,swed1254,http://concepticon.clld.org/parameters/861,domare,judge (noun)
+187-1866,swed1254,http://concepticon.clld.org/parameters/2020,kärande,plaintiff
+187-1193,swed1254,http://concepticon.clld.org/parameters/1034,svarande,defendant
+187-1780,swed1254,http://concepticon.clld.org/parameters/1144,vittne,witness
+187-1572,swed1254,http://concepticon.clld.org/parameters/1939,svära,swear
+187-393,swed1254,http://concepticon.clld.org/parameters/1939,svärja,swear
+187-665,swed1254,http://concepticon.clld.org/parameters/1712,ed,oath
+187-965,swed1254,http://concepticon.clld.org/parameters/1814,anklaga,accuse
+187-1020,swed1254,http://concepticon.clld.org/parameters/1814,beskylla,accuse
+187-1148,swed1254,http://concepticon.clld.org/parameters/484,döma,condemn
+187-1491,swed1254,http://concepticon.clld.org/parameters/983,över-bevisa,convict (vb)
+187-1612,swed1254,http://concepticon.clld.org/parameters/983,för-klara skyldig,convict (vb)
+187-869,swed1254,http://concepticon.clld.org/parameters/988,fri-känna,acquit
+187-237,swed1254,http://concepticon.clld.org/parameters/1682,skyldig,guilty
+187-400,swed1254,http://concepticon.clld.org/parameters/90,o-skyldig,innocent
+187-126,swed1254,http://concepticon.clld.org/parameters/390,straff,"penalty, punishment"
+187-1485,swed1254,http://concepticon.clld.org/parameters/218,plikt,fine
+187-1022,swed1254,http://concepticon.clld.org/parameters/218,böter,fine
+187-343,swed1254,http://concepticon.clld.org/parameters/1281,fängelse,"prison, jail"
+187-1046,swed1254,http://concepticon.clld.org/parameters/845,mord,murder
+187-970,swed1254,http://concepticon.clld.org/parameters/902,äktenskaps-brott,adultery
+187-99,swed1254,http://concepticon.clld.org/parameters/902,hor,adultery
+187-189,swed1254,http://concepticon.clld.org/parameters/953,våld-täkt,rape
+187-988,swed1254,http://concepticon.clld.org/parameters/1889,mord-brand,arson
+187-1313,swed1254,http://concepticon.clld.org/parameters/1792,mened,perjury
+187-241,swed1254,http://concepticon.clld.org/parameters/713,stjäla,steal
+187-159,swed1254,http://concepticon.clld.org/parameters/1160,tjuv,thief
+187-1379,swed1254,http://concepticon.clld.org/parameters/661,religion,religion
+187-1535,swed1254,http://concepticon.clld.org/parameters/1944,Gud,God
+187-1512,swed1254,http://concepticon.clld.org/parameters/911,kyrka,"temple, church"
+187-442,swed1254,http://concepticon.clld.org/parameters/911,tempel,"temple, church"
+187-387,swed1254,http://concepticon.clld.org/parameters/853,altare,altar
+187-432,swed1254,http://concepticon.clld.org/parameters/1103,offer,"sacrifice, offering"
+187-1726,swed1254,http://concepticon.clld.org/parameters/257,till-bedja,worship
+187-87,swed1254,http://concepticon.clld.org/parameters/257,dyrka,worship
+187-825,swed1254,http://concepticon.clld.org/parameters/24,bedja,pray
+187-7,swed1254,http://concepticon.clld.org/parameters/852,präst,priest
+187-551,swed1254,http://concepticon.clld.org/parameters/1702,helig,"holy, sacred"
+187-1430,swed1254,http://concepticon.clld.org/parameters/304,predika,preach
+187-369,swed1254,http://concepticon.clld.org/parameters/391,väl-signa,bless
+187-1684,swed1254,http://concepticon.clld.org/parameters/8,för-banna,curse
+187-205,swed1254,http://concepticon.clld.org/parameters/303,fasta,fast (vb)
+187-755,swed1254,http://concepticon.clld.org/parameters/1565,himmel,heaven
+187-1538,swed1254,http://concepticon.clld.org/parameters/878,helvete,hell
+187-1355,swed1254,http://concepticon.clld.org/parameters/1973,ond ande,demon (evil spirit)
+187-1307,swed1254,http://concepticon.clld.org/parameters/1973,demon,demon (evil spirit)
+187-504,swed1254,http://concepticon.clld.org/parameters/1945,av-guda-bild,idol
+187-1432,swed1254,http://concepticon.clld.org/parameters/392,trolldom,"magic, witchcraft, sorcery"
+187-1824,swed1254,http://concepticon.clld.org/parameters/392,svart-konst,"magic, witchcraft, sorcery"
+187-1765,swed1254,http://concepticon.clld.org/parameters/392,magi,"magic, witchcraft, sorcery"
+187-1181,swed1254,http://concepticon.clld.org/parameters/2137,häxa,"sorcerer, witch"
+187-1088,swed1254,http://concepticon.clld.org/parameters/2138,fe,"fairy, elf"
+187-603,swed1254,http://concepticon.clld.org/parameters/2138,älva,"fairy, elf"
+187-406,swed1254,http://concepticon.clld.org/parameters/2138,tomte,"fairy, elf"
+187-762,swed1254,http://concepticon.clld.org/parameters/1175,spöke,"ghost, phantom"
+187-486,swed1254,http://concepticon.clld.org/parameters/1175,gengångare,"ghost, phantom"
+187-950,swed1254,http://concepticon.clld.org/parameters/107,före-bud,"omen, portent"
+187-612,swed1254,http://concepticon.clld.org/parameters/107,omen,"omen, portent"

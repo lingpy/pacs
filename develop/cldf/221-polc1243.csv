@@ -1,0 +1,1162 @@
+ID,Language_ID,Feature_ID,Value,Concept
+221-564,polc1243,http://concepticon.clld.org/parameters/965,atl kwaŋ,world
+221-312,polc1243,http://concepticon.clld.org/parameters/626,atl,"earth, land"
+221-312,polc1243,http://concepticon.clld.org/parameters/1228,atl,"earth=ground, soil"
+221-969,polc1243,http://concepticon.clld.org/parameters/2,ruŋ,dust
+221-643,polc1243,http://concepticon.clld.org/parameters/640,ndwap,mud
+221-8,polc1243,http://concepticon.clld.org/parameters/671,nyaasən,sand
+221-441,polc1243,http://concepticon.clld.org/parameters/2118,goŋ,"mountain, hill"
+221-295,polc1243,http://concepticon.clld.org/parameters/2118,ɓyaŋ,"mountain, hill"
+221-244,polc1243,http://concepticon.clld.org/parameters/2118,ɗee,"mountain, hill"
+221-649,polc1243,http://concepticon.clld.org/parameters/652,daasə,"plain, field"
+221-373,polc1243,http://concepticon.clld.org/parameters/921,luut,valley
+221-417,polc1243,http://concepticon.clld.org/parameters/113,bə sal,shore
+221-797,polc1243,http://concepticon.clld.org/parameters/1155,koroŋ,cave
+221-51,polc1243,http://concepticon.clld.org/parameters/1155,koroŋ tat,cave
+221-761,polc1243,http://concepticon.clld.org/parameters/1155,koroŋ pət,cave
+221-213,polc1243,http://concepticon.clld.org/parameters/948,maa,water
+221-532,polc1243,http://concepticon.clld.org/parameters/1474,tapga maa,sea
+221-423,polc1243,http://concepticon.clld.org/parameters/258,yətər raŋ,calm (of sea)
+221-699,polc1243,http://concepticon.clld.org/parameters/624,tapga,lake
+221-442,polc1243,http://concepticon.clld.org/parameters/666,sal,"river, stream, brook"
+221-633,polc1243,http://concepticon.clld.org/parameters/666,ɗwaarə,"river, stream, brook"
+221-940,polc1243,http://concepticon.clld.org/parameters/2144,googa,"spring, well"
+221-373,polc1243,http://concepticon.clld.org/parameters/1145,luut,swamp
+221-547,polc1243,http://concepticon.clld.org/parameters/420,zəŋəm,"woods, forest"
+221-132,polc1243,http://concepticon.clld.org/parameters/906,pət,tree (cf 08.600)
+221-765,polc1243,http://concepticon.clld.org/parameters/1803,nyansə,wood
+221-177,polc1243,http://concepticon.clld.org/parameters/2125,tat,"stone, rock"
+221-748,polc1243,http://concepticon.clld.org/parameters/6,atl dəŋəl,earthquake
+221-291,polc1243,http://concepticon.clld.org/parameters/1732,leyam,sky
+221-268,polc1243,http://concepticon.clld.org/parameters/1343,piɗii,sun
+221-163,polc1243,http://concepticon.clld.org/parameters/1313,car,moon
+221-271,polc1243,http://concepticon.clld.org/parameters/1430,taŋətlə,star
+221-378,polc1243,http://concepticon.clld.org/parameters/1654,vancibi,lightning
+221-628,polc1243,http://concepticon.clld.org/parameters/1150,bədlaa gaam,thunder
+221-378,polc1243,http://concepticon.clld.org/parameters/2007,vancibi,lightning (as striking)
+221-589,polc1243,http://concepticon.clld.org/parameters/858,van te yətər,storm
+221-832,polc1243,http://concepticon.clld.org/parameters/1733,dlantukure,rainbow
+221-1,polc1243,http://concepticon.clld.org/parameters/630,wuutu,light (noun)
+221-41,polc1243,http://concepticon.clld.org/parameters/11,dzughən,darkness
+221-830,polc1243,http://concepticon.clld.org/parameters/1388,gwoŋsə,"shade, shadow"
+221-301,polc1243,http://concepticon.clld.org/parameters/1977,səsər,dew
+221-60,polc1243,http://concepticon.clld.org/parameters/27,yatər,air
+221-60,polc1243,http://concepticon.clld.org/parameters/960,yatər,wind
+221-20,polc1243,http://concepticon.clld.org/parameters/1489,gajimaare,cloud
+221-597,polc1243,http://concepticon.clld.org/parameters/1489,shaar leyam,cloud
+221-899,polc1243,http://concepticon.clld.org/parameters/1489,zunzuuru,cloud
+221-529,polc1243,http://concepticon.clld.org/parameters/249,ɓwandi,fog
+221-874,polc1243,http://concepticon.clld.org/parameters/658,van,rain (noun)
+221-1,polc1243,http://concepticon.clld.org/parameters/221,wuutu,fire
+221-965,polc1243,http://concepticon.clld.org/parameters/889,nyatl uutu,flame (noun)
+221-340,polc1243,http://concepticon.clld.org/parameters/778,kələm,smoke (noun)
+221-524,polc1243,http://concepticon.clld.org/parameters/646,geedlə,ashes
+221-738,polc1243,http://concepticon.clld.org/parameters/67,gəsəŋ wuutu,embers
+221-573,polc1243,http://concepticon.clld.org/parameters/141,bak,burn (vb trans)
+221-868,polc1243,http://concepticon.clld.org/parameters/1428,cirəp,burn (vb intrans)
+221-39,polc1243,http://concepticon.clld.org/parameters/737,fat,"light, kindle, ignite"
+221-357,polc1243,http://concepticon.clld.org/parameters/127,mbis,extinguish
+221-802,polc1243,http://concepticon.clld.org/parameters/1133,[ashaana],match (noun)
+221-302,polc1243,http://concepticon.clld.org/parameters/1133,kərəɓə,match (noun)
+221-765,polc1243,http://concepticon.clld.org/parameters/10,nyansə,firewood
+221-360,polc1243,http://concepticon.clld.org/parameters/1188,ndughən,charcoal
+221-891,polc1243,http://concepticon.clld.org/parameters/683,mbaam,"person, human being"
+221-644,polc1243,http://concepticon.clld.org/parameters/1554,mani,man (vs. woman)
+221-535,polc1243,http://concepticon.clld.org/parameters/962,ger,woman
+221-644,polc1243,http://concepticon.clld.org/parameters/2263,mani,male
+221-535,polc1243,http://concepticon.clld.org/parameters/2260,ger,female
+221-226,polc1243,http://concepticon.clld.org/parameters/1366,miir,boy
+221-112,polc1243,http://concepticon.clld.org/parameters/76,wun kon,young man (adolescent)
+221-363,polc1243,http://concepticon.clld.org/parameters/1646,mii gwe,girl
+221-972,polc1243,http://concepticon.clld.org/parameters/77,wun gwe,young woman (adolescent)
+221-226,polc1243,http://concepticon.clld.org/parameters/1304,miir,child
+221-937,polc1243,http://concepticon.clld.org/parameters/1289,wumbarto,"infant, baby"
+221-241,polc1243,http://concepticon.clld.org/parameters/1200,baa keen,husband
+221-590,polc1243,http://concepticon.clld.org/parameters/1199,[uwargida],wife
+221-347,polc1243,http://concepticon.clld.org/parameters/203,kap ger,marry
+221-546,polc1243,http://concepticon.clld.org/parameters/1259,kaptə,"marriage, wedding"
+221-920,polc1243,http://concepticon.clld.org/parameters/1134,ŋgartə,divorce
+221-569,polc1243,http://concepticon.clld.org/parameters/1217,baa,father
+221-102,polc1243,http://concepticon.clld.org/parameters/1216,dee,mother
+221-290,polc1243,http://concepticon.clld.org/parameters/505,mərgən,parents
+221-428,polc1243,http://concepticon.clld.org/parameters/426,uwargida,married woman
+221-252,polc1243,http://concepticon.clld.org/parameters/1620,wun,son
+221-972,polc1243,http://concepticon.clld.org/parameters/1357,wun gwe,daughter
+221-226,polc1243,http://concepticon.clld.org/parameters/1801,miir,offspring (son or daughter)
+221-454,polc1243,http://concepticon.clld.org/parameters/1262,yees,brother
+221-982,polc1243,http://concepticon.clld.org/parameters/1759,daŋ yees,older brother
+221-964,polc1243,http://concepticon.clld.org/parameters/1760,win yees,younger brother
+221-328,polc1243,http://concepticon.clld.org/parameters/1263,waas,sister
+221-328,polc1243,http://concepticon.clld.org/parameters/1758,waas,older sister
+221-328,polc1243,http://concepticon.clld.org/parameters/1761,waas,younger sister
+221-227,polc1243,http://concepticon.clld.org/parameters/1005,paas,twins
+221-391,polc1243,http://concepticon.clld.org/parameters/1383,jer,grandfather
+221-953,polc1243,http://concepticon.clld.org/parameters/406,gwaasi,old man
+221-391,polc1243,http://concepticon.clld.org/parameters/1496,jer,grandmother
+221-460,polc1243,http://concepticon.clld.org/parameters/907,basi manya,old woman
+221-11,polc1243,http://concepticon.clld.org/parameters/1618,wun jer,grandson
+221-11,polc1243,http://concepticon.clld.org/parameters/1619,wun jer,granddaughter
+221-880,polc1243,http://concepticon.clld.org/parameters/1327,kawo,uncle
+221-880,polc1243,http://concepticon.clld.org/parameters/1984,kawo,mother's brother
+221-287,polc1243,http://concepticon.clld.org/parameters/1985,baaba,father's brother
+221-362,polc1243,http://concepticon.clld.org/parameters/1272,wobna,aunt
+221-880,polc1243,http://concepticon.clld.org/parameters/171,kawo,mother's sister
+221-362,polc1243,http://concepticon.clld.org/parameters/170,wobna,father's sister
+221-454,polc1243,http://concepticon.clld.org/parameters/1643,yees,cousin
+221-328,polc1243,http://concepticon.clld.org/parameters/1643,waas,cousin
+221-721,polc1243,http://concepticon.clld.org/parameters/2255,kwam,father-in-law (of a man)
+221-721,polc1243,http://concepticon.clld.org/parameters/2254,kwam,father-in-law (of a woman)
+221-721,polc1243,http://concepticon.clld.org/parameters/2256,kwam,mother-in-law (of a man)
+221-721,polc1243,http://concepticon.clld.org/parameters/2257,kwam,mother-in-law (of a woman)
+221-721,polc1243,http://concepticon.clld.org/parameters/2267,kwam,son-in-law (of a man)
+221-721,polc1243,http://concepticon.clld.org/parameters/2266,kwam,son-in-law (of a woman)
+221-721,polc1243,http://concepticon.clld.org/parameters/2265,kwam,daughter-in-law (of a man)
+221-721,polc1243,http://concepticon.clld.org/parameters/2264,kwam,daughter-in-law (of a woman)
+221-443,polc1243,http://concepticon.clld.org/parameters/237,baa gən,stepfather
+221-733,polc1243,http://concepticon.clld.org/parameters/1059,[agoola],stepson
+221-733,polc1243,http://concepticon.clld.org/parameters/1058,[agoola],stepdaughter
+221-490,polc1243,http://concepticon.clld.org/parameters/1149,kəi,orphan
+221-929,polc1243,http://concepticon.clld.org/parameters/1756,takaba,widow
+221-273,polc1243,http://concepticon.clld.org/parameters/1644,zuuriya,"relatives, kinsmen"
+221-871,polc1243,http://concepticon.clld.org/parameters/194,iyaali,family
+221-926,polc1243,http://concepticon.clld.org/parameters/1209,am,I
+221-747,polc1243,http://concepticon.clld.org/parameters/1215,kii,you (singular)
+221-676,polc1243,http://concepticon.clld.org/parameters/262,yaa,he/she/it
+221-457,polc1243,http://concepticon.clld.org/parameters/1212,mii,we
+221-457,polc1243,http://concepticon.clld.org/parameters/1131,mii,we (inclusive)
+221-457,polc1243,http://concepticon.clld.org/parameters/1130,mii,we (exclusive)
+221-747,polc1243,http://concepticon.clld.org/parameters/1213,kii,you (plural)
+221-508,polc1243,http://concepticon.clld.org/parameters/817,wur,they
+221-625,polc1243,http://concepticon.clld.org/parameters/619,tloo,animal
+221-644,polc1243,http://concepticon.clld.org/parameters/2261,mani,male (adj)
+221-74,polc1243,http://concepticon.clld.org/parameters/2262,mədli,female (adj)
+221-616,polc1243,http://concepticon.clld.org/parameters/631,tloo bən,livestock
+221-322,polc1243,http://concepticon.clld.org/parameters/649,ləəp,pasture
+221-437,polc1243,http://concepticon.clld.org/parameters/263,kon lii,herdsman
+221-970,polc1243,http://concepticon.clld.org/parameters/851,kanja,"stable, stall"
+221-701,polc1243,http://concepticon.clld.org/parameters/1153,tlaa,cattle (bovine)
+221-701,polc1243,http://concepticon.clld.org/parameters/1008,tlaa,bull
+221-701,polc1243,http://concepticon.clld.org/parameters/1169,tlaa,ox
+221-701,polc1243,http://concepticon.clld.org/parameters/1007,tlaa,cow
+221-902,polc1243,http://concepticon.clld.org/parameters/1989,nyalbi,calf
+221-125,polc1243,http://concepticon.clld.org/parameters/1331,təm,sheep
+221-960,polc1243,http://concepticon.clld.org/parameters/1344,gaŋlaŋ,ram
+221-125,polc1243,http://concepticon.clld.org/parameters/1345,təm,ewe
+221-219,polc1243,http://concepticon.clld.org/parameters/820,mii təm,lamb
+221-326,polc1243,http://concepticon.clld.org/parameters/1348,shiŋərim,boar
+221-710,polc1243,http://concepticon.clld.org/parameters/1351,[alade],sow (2)
+221-194,polc1243,http://concepticon.clld.org/parameters/1337,alade,pig
+221-223,polc1243,http://concepticon.clld.org/parameters/1502,maar,goat
+221-492,polc1243,http://concepticon.clld.org/parameters/264,gwapshəŋ,he-goat
+221-837,polc1243,http://concepticon.clld.org/parameters/1972,wun maar,kid
+221-375,polc1243,http://concepticon.clld.org/parameters/615,pərsə,horse (equine)
+221-314,polc1243,http://concepticon.clld.org/parameters/938,[goɗiya],mare
+221-654,polc1243,http://concepticon.clld.org/parameters/1647,wun pərsə,"foal, colt"
+221-782,polc1243,http://concepticon.clld.org/parameters/1862,shyaaki,"ass, donkey"
+221-35,polc1243,http://concepticon.clld.org/parameters/890,[alfadari],mule
+221-949,polc1243,http://concepticon.clld.org/parameters/265,kooro,fowl
+221-800,polc1243,http://concepticon.clld.org/parameters/1511,toghsə,"cock, rooster"
+221-42,polc1243,http://concepticon.clld.org/parameters/1511,twaghsə,"cock, rooster"
+221-949,polc1243,http://concepticon.clld.org/parameters/1514,kooro,hen
+221-949,polc1243,http://concepticon.clld.org/parameters/1318,kooro,chicken
+221-823,polc1243,http://concepticon.clld.org/parameters/1187,agwagwaa maa,goose
+221-896,polc1243,http://concepticon.clld.org/parameters/1360,[agwagwaa],duck
+221-631,polc1243,http://concepticon.clld.org/parameters/539,been yaadli,nest
+221-869,polc1243,http://concepticon.clld.org/parameters/937,yaadli,bird
+221-435,polc1243,http://concepticon.clld.org/parameters/758,gwarmadak,heron
+221-608,polc1243,http://concepticon.clld.org/parameters/1905,gəəm,eagle
+221-337,polc1243,http://concepticon.clld.org/parameters/307,suura,hawk
+221-325,polc1243,http://concepticon.clld.org/parameters/1185,kwaɗak,vulture
+221-544,polc1243,http://concepticon.clld.org/parameters/1793,zəŋər,bat
+221-118,polc1243,http://concepticon.clld.org/parameters/882,[aku],parrot
+221-10,polc1243,http://concepticon.clld.org/parameters/913,ŋgwaak,crow
+221-642,polc1243,http://concepticon.clld.org/parameters/1853,ciguuru,dove
+221-422,polc1243,http://concepticon.clld.org/parameters/1853,cugooro,dove
+221-641,polc1243,http://concepticon.clld.org/parameters/735,zhizhi,owl
+221-671,polc1243,http://concepticon.clld.org/parameters/2009,yar,dog
+221-462,polc1243,http://concepticon.clld.org/parameters/1136,zom,rabbit
+221-630,polc1243,http://concepticon.clld.org/parameters/1208,muus,cat
+221-921,polc1243,http://concepticon.clld.org/parameters/2139,kusum,"mouse, rat"
+221-924,polc1243,http://concepticon.clld.org/parameters/227,geesi,fish
+221-607,polc1243,http://concepticon.clld.org/parameters/213,bəghəm geesi,fin (dorsal)
+221-785,polc1243,http://concepticon.clld.org/parameters/266,kor geesi,fishscale
+221-607,polc1243,http://concepticon.clld.org/parameters/1916,bəghəm geesi,gill
+221-445,polc1243,http://concepticon.clld.org/parameters/598,gyiŋgyal,shell
+221-705,polc1243,http://concepticon.clld.org/parameters/1386,bor,lion
+221-741,polc1243,http://concepticon.clld.org/parameters/1312,byau,fox
+221-317,polc1243,http://concepticon.clld.org/parameters/1936,mbaran,deer
+221-675,polc1243,http://concepticon.clld.org/parameters/1350,garə,monkey
+221-46,polc1243,http://concepticon.clld.org/parameters/1350,bərr,monkey
+221-481,polc1243,http://concepticon.clld.org/parameters/1350,dzuŋbər,monkey
+221-313,polc1243,http://concepticon.clld.org/parameters/1290,liŋ,elephant
+221-247,polc1243,http://concepticon.clld.org/parameters/1871,[rakˀumi],camel
+221-952,polc1243,http://concepticon.clld.org/parameters/620,pupələm,insect
+221-94,polc1243,http://concepticon.clld.org/parameters/310,kwarkwata,louse
+221-299,polc1243,http://concepticon.clld.org/parameters/232,twadlii,flea
+221-511,polc1243,http://concepticon.clld.org/parameters/1974,dzuŋganca,centipede
+221-245,polc1243,http://concepticon.clld.org/parameters/1538,yində,scorpion
+221-952,polc1243,http://concepticon.clld.org/parameters/1575,pupələm,cockroach
+221-562,polc1243,http://concepticon.clld.org/parameters/843,loghən,spider
+221-306,polc1243,http://concepticon.clld.org/parameters/1065,been loghən,spider web
+221-296,polc1243,http://concepticon.clld.org/parameters/665,dzom,bee
+221-263,polc1243,http://concepticon.clld.org/parameters/1517,hiŋhiŋ,wasp
+221-594,polc1243,http://concepticon.clld.org/parameters/1504,yaləm,fly
+221-351,polc1243,http://concepticon.clld.org/parameters/1509,furen,mosquito
+221-380,polc1243,http://concepticon.clld.org/parameters/1219,byamlak,worm
+221-414,polc1243,http://concepticon.clld.org/parameters/730,koŋkoŋ,snake
+221-370,polc1243,http://concepticon.clld.org/parameters/206,mbil,firefly
+221-909,polc1243,http://concepticon.clld.org/parameters/1791,pakpaksher,butterfly
+221-851,polc1243,http://concepticon.clld.org/parameters/607,kaaɓən,grasshopper
+221-716,polc1243,http://concepticon.clld.org/parameters/1543,toŋlaŋ,snail
+221-966,polc1243,http://concepticon.clld.org/parameters/503,tajoori,frog
+221-507,polc1243,http://concepticon.clld.org/parameters/632,tablaŋ,lizard
+221-918,polc1243,http://concepticon.clld.org/parameters/1857,korom,"crocodile, alligator"
+221-961,polc1243,http://concepticon.clld.org/parameters/112,kurbi,turtle
+221-281,polc1243,http://concepticon.clld.org/parameters/1480,dlii,body
+221-73,polc1243,http://concepticon.clld.org/parameters/763,kur,"skin, hide"
+221-144,polc1243,http://concepticon.clld.org/parameters/2259,sooka,flesh
+221-54,polc1243,http://concepticon.clld.org/parameters/1040,tsuruŋ,hair (head)
+221-833,polc1243,http://concepticon.clld.org/parameters/678,bəmzə,beard
+221-774,polc1243,http://concepticon.clld.org/parameters/189,tsuruŋ dlii,body hair
+221-16,polc1243,http://concepticon.clld.org/parameters/36,tsuruŋ gaamwar,pubic hair
+221-735,polc1243,http://concepticon.clld.org/parameters/576,tsagha gaam,dandruff
+221-526,polc1243,http://concepticon.clld.org/parameters/946,buran,blood
+221-447,polc1243,http://concepticon.clld.org/parameters/946,bəran,blood
+221-842,polc1243,http://concepticon.clld.org/parameters/525,tsop buran,"vein, artery"
+221-828,polc1243,http://concepticon.clld.org/parameters/1394,gooloo,bone
+221-251,polc1243,http://concepticon.clld.org/parameters/801,goolə gəp,rib
+221-503,polc1243,http://concepticon.clld.org/parameters/1393,mbee,horn
+221-681,polc1243,http://concepticon.clld.org/parameters/1220,tsər,tail
+221-477,polc1243,http://concepticon.clld.org/parameters/1291,kar,back
+221-818,polc1243,http://concepticon.clld.org/parameters/805,goolə kar,spine
+221-142,polc1243,http://concepticon.clld.org/parameters/1256,gaam,head
+221-78,polc1243,http://concepticon.clld.org/parameters/1604,kum gaam,"side of head, temple"
+221-390,polc1243,http://concepticon.clld.org/parameters/1605,gooloo gaam,skull
+221-116,polc1243,http://concepticon.clld.org/parameters/1583,ɓurgo gaam,brain
+221-405,polc1243,http://concepticon.clld.org/parameters/1560,yiir,face
+221-757,polc1243,http://concepticon.clld.org/parameters/123,naŋ gaam,forehead
+221-779,polc1243,http://concepticon.clld.org/parameters/798,goolaŋa,jaw
+221-849,polc1243,http://concepticon.clld.org/parameters/1730,gəsh kəəˑm,cheek
+221-932,polc1243,http://concepticon.clld.org/parameters/1510,boghom,chin
+221-405,polc1243,http://concepticon.clld.org/parameters/1248,yiir,eye
+221-917,polc1243,http://concepticon.clld.org/parameters/1173,gəŋ iir,eyebrow
+221-959,polc1243,http://concepticon.clld.org/parameters/17,kur-yiir,eyelid
+221-950,polc1243,http://concepticon.clld.org/parameters/1540,tsuruŋyir,eyelash
+221-105,polc1243,http://concepticon.clld.org/parameters/1655,njəpyiir,blink
+221-485,polc1243,http://concepticon.clld.org/parameters/1247,kəəm,ear
+221-452,polc1243,http://concepticon.clld.org/parameters/18,wal kəəm,earlobe
+221-745,polc1243,http://concepticon.clld.org/parameters/32,nzuk kəəm,earwax
+221-911,polc1243,http://concepticon.clld.org/parameters/1221,cin,nose
+221-528,polc1243,http://concepticon.clld.org/parameters/1178,shuu cin,nostril
+221-726,polc1243,http://concepticon.clld.org/parameters/208,naghan,mucus (nasal)
+221-791,polc1243,http://concepticon.clld.org/parameters/674,bii,mouth
+221-83,polc1243,http://concepticon.clld.org/parameters/73,bii yadli,beak
+221-304,polc1243,http://concepticon.clld.org/parameters/478,wal bii,lip
+221-174,polc1243,http://concepticon.clld.org/parameters/1205,nyatl,tongue
+221-815,polc1243,http://concepticon.clld.org/parameters/1380,shen,tooth
+221-130,polc1243,http://concepticon.clld.org/parameters/139,deelim,gums
+221-379,polc1243,http://concepticon.clld.org/parameters/1049,karagha,molartooth
+221-88,polc1243,http://concepticon.clld.org/parameters/1333,yuwar,neck
+221-467,polc1243,http://concepticon.clld.org/parameters/1346,ŋgwaŋəlaŋ,throat
+221-323,polc1243,http://concepticon.clld.org/parameters/1482,bablaŋ,shoulder
+221-587,polc1243,http://concepticon.clld.org/parameters/172,goolə bablaŋ,shoulderblade
+221-354,polc1243,http://concepticon.clld.org/parameters/1994,goolə yuwar,collarbone
+221-432,polc1243,http://concepticon.clld.org/parameters/1673,aam,arm
+221-77,polc1243,http://concepticon.clld.org/parameters/1886,dlaŋgo,armpit
+221-400,polc1243,http://concepticon.clld.org/parameters/981,ŋgwatl,elbow
+221-739,polc1243,http://concepticon.clld.org/parameters/799,yuwar aam,wrist
+221-432,polc1243,http://concepticon.clld.org/parameters/1277,aam,hand
+221-355,polc1243,http://concepticon.clld.org/parameters/1183,gip aam,palm of hand
+221-34,polc1243,http://concepticon.clld.org/parameters/1303,mii aam,finger
+221-888,polc1243,http://concepticon.clld.org/parameters/1781,goŋ aam,thumb
+221-498,polc1243,http://concepticon.clld.org/parameters/1258,mbek,fingernail
+221-498,polc1243,http://concepticon.clld.org/parameters/72,mbek,claw
+221-819,polc1243,http://concepticon.clld.org/parameters/1297,asəm,leg
+221-706,polc1243,http://concepticon.clld.org/parameters/800,tsəghən,thigh
+221-138,polc1243,http://concepticon.clld.org/parameters/1371,gaam kwitlkən,knee
+221-819,polc1243,http://concepticon.clld.org/parameters/1301,asəm,foot
+221-222,polc1243,http://concepticon.clld.org/parameters/803,yiir asəm,ankle
+221-695,polc1243,http://concepticon.clld.org/parameters/980,ɓəpsə asəm,heel
+221-613,polc1243,http://concepticon.clld.org/parameters/318,rəp asəm,footprint
+221-40,polc1243,http://concepticon.clld.org/parameters/1389,mii asəm,toe
+221-635,polc1243,http://concepticon.clld.org/parameters/1257,bəghəm,wing
+221-54,polc1243,http://concepticon.clld.org/parameters/1201,tsuruŋ,feather
+221-723,polc1243,http://concepticon.clld.org/parameters/1592,bəgəəp,chest
+221-450,polc1243,http://concepticon.clld.org/parameters/1402,neen,breast (of woman)
+221-108,polc1243,http://concepticon.clld.org/parameters/796,bəneen,"nipple, teat"
+221-450,polc1243,http://concepticon.clld.org/parameters/154,neen,udder
+221-211,polc1243,http://concepticon.clld.org/parameters/1838,mbutl,navel
+221-298,polc1243,http://concepticon.clld.org/parameters/1223,mbatl,heart
+221-638,polc1243,http://concepticon.clld.org/parameters/688,vaktarak,lung
+221-298,polc1243,http://concepticon.clld.org/parameters/1224,mbatl,liver
+221-170,polc1243,http://concepticon.clld.org/parameters/489,mbarləm,kidney
+221-756,polc1243,http://concepticon.clld.org/parameters/1744,labaara,spleen
+221-618,polc1243,http://concepticon.clld.org/parameters/819,tuu,stomach
+221-883,polc1243,http://concepticon.clld.org/parameters/1991,wat,"intestines, guts"
+221-617,polc1243,http://concepticon.clld.org/parameters/1681,ndaŋ,waist
+221-176,polc1243,http://concepticon.clld.org/parameters/1681,gəsh tuu,waist
+221-764,polc1243,http://concepticon.clld.org/parameters/1745,kuŋtukuŋ,hip
+221-212,polc1243,http://concepticon.clld.org/parameters/834,gəsh,buttocks
+221-687,polc1243,http://concepticon.clld.org/parameters/834,gish,buttocks
+221-971,polc1243,http://concepticon.clld.org/parameters/804,tler gərəghən,womb
+221-86,polc1243,http://concepticon.clld.org/parameters/797,jindi,testicle
+221-906,polc1243,http://concepticon.clld.org/parameters/1222,wagham,penis
+221-237,polc1243,http://concepticon.clld.org/parameters/1407,səghəntə,"breathe, breath"
+221-413,polc1243,http://concepticon.clld.org/parameters/1028,həəm,"yawn, gape"
+221-186,polc1243,http://concepticon.clld.org/parameters/162,tləghət,hiccough
+221-574,polc1243,http://concepticon.clld.org/parameters/879,itlaa,cough
+221-881,polc1243,http://concepticon.clld.org/parameters/1621,disha,sneeze
+221-397,polc1243,http://concepticon.clld.org/parameters/126,saaləmtə,perspire
+221-751,polc1243,http://concepticon.clld.org/parameters/1440,topa,spit
+221-629,polc1243,http://concepticon.clld.org/parameters/1278,biighən,vomit
+221-117,polc1243,http://concepticon.clld.org/parameters/1403,nyaŋsə,bite
+221-968,polc1243,http://concepticon.clld.org/parameters/319,ɓəəp,lick
+221-522,polc1243,http://concepticon.clld.org/parameters/1585,yimbur,sleep
+221-30,polc1243,http://concepticon.clld.org/parameters/1983,kwaraghən,snore
+221-67,polc1243,http://concepticon.clld.org/parameters/1920,farwali,dream
+221-805,polc1243,http://concepticon.clld.org/parameters/1602,tlet,wake up
+221-439,polc1243,http://concepticon.clld.org/parameters/1159,ti ish,break wind
+221-27,polc1243,http://concepticon.clld.org/parameters/1159,ti,break wind
+221-335,polc1243,http://concepticon.clld.org/parameters/592,ti baas,urinate
+221-146,polc1243,http://concepticon.clld.org/parameters/676,ndzom ish,defecate
+221-727,polc1243,http://concepticon.clld.org/parameters/1785,kwak,have sexual intercourse
+221-672,polc1243,http://concepticon.clld.org/parameters/52,dlaar,shiver
+221-620,polc1243,http://concepticon.clld.org/parameters/138,fwaptə,bathe
+221-234,polc1243,http://concepticon.clld.org/parameters/1090,gər,born (to be)
+221-420,polc1243,http://concepticon.clld.org/parameters/1123,tuughə gərtə,pregnant
+221-693,polc1243,http://concepticon.clld.org/parameters/1087,pər tuu,conceive
+221-230,polc1243,http://concepticon.clld.org/parameters/1422,shik-,"live, living, life"
+221-651,polc1243,http://concepticon.clld.org/parameters/1422,baltə,"live, living, life"
+221-755,polc1243,http://concepticon.clld.org/parameters/1494,məs,"die, dead"
+221-717,polc1243,http://concepticon.clld.org/parameters/1494,məsi,"die, dead"
+221-151,polc1243,http://concepticon.clld.org/parameters/1417,kashe,kill
+221-977,polc1243,http://concepticon.clld.org/parameters/767,vuni,corpse
+221-168,polc1243,http://concepticon.clld.org/parameters/1719,laaptə,bury (the dead)
+221-824,polc1243,http://concepticon.clld.org/parameters/1773,gaam gipsə,"grave, tomb"
+221-426,polc1243,http://concepticon.clld.org/parameters/785,nyap,"strong, mighty, powerful"
+221-702,polc1243,http://concepticon.clld.org/parameters/785,nyapkən,"strong, mighty, powerful"
+221-736,polc1243,http://concepticon.clld.org/parameters/1601,foghəl,weak
+221-356,polc1243,http://concepticon.clld.org/parameters/1364,tlet kalaw,"well, health"
+221-70,polc1243,http://concepticon.clld.org/parameters/1847,shekamkam,"sick, sickness"
+221-160,polc1243,http://concepticon.clld.org/parameters/1534,ŋanŋən,fever
+221-836,polc1243,http://concepticon.clld.org/parameters/1957,mwaɗəyuwar,goiter
+221-131,polc1243,http://concepticon.clld.org/parameters/102,naaghan,cold (catarrh)
+221-278,polc1243,http://concepticon.clld.org/parameters/1109,ciwo,"wound, sore"
+221-794,polc1243,http://concepticon.clld.org/parameters/1148,mok,bruise
+221-187,polc1243,http://concepticon.clld.org/parameters/1903,mwat,swelling
+221-546,polc1243,http://concepticon.clld.org/parameters/148,kaptə,itch
+221-109,polc1243,http://concepticon.clld.org/parameters/793,wanjaane,boil (noun)
+221-6,polc1243,http://concepticon.clld.org/parameters/1808,roo,pus
+221-632,polc1243,http://concepticon.clld.org/parameters/497,lowan,scar
+221-555,polc1243,http://concepticon.clld.org/parameters/499,fəɗə,"cure, heal"
+221-877,polc1243,http://concepticon.clld.org/parameters/597,likitən,physician
+221-240,polc1243,http://concepticon.clld.org/parameters/597,kon woghən,physician
+221-483,polc1243,http://concepticon.clld.org/parameters/1372,woghən,"medicine, drug"
+221-566,polc1243,http://concepticon.clld.org/parameters/1372,woghən bən,"medicine, drug"
+221-698,polc1243,http://concepticon.clld.org/parameters/655,maa woghən,poison
+221-585,polc1243,http://concepticon.clld.org/parameters/655,pyas woghən,poison
+221-667,polc1243,http://concepticon.clld.org/parameters/1757,gəji,"tired, weary"
+221-611,polc1243,http://concepticon.clld.org/parameters/168,səghən,rest
+221-101,polc1243,http://concepticon.clld.org/parameters/1125,mogha gaam,bald
+221-195,polc1243,http://concepticon.clld.org/parameters/320,ŋgurum,lame
+221-679,polc1243,http://concepticon.clld.org/parameters/996,ndwaghəm,deaf
+221-388,polc1243,http://concepticon.clld.org/parameters/1666,ɓaaɓa,mute
+221-612,polc1243,http://concepticon.clld.org/parameters/1653,dzuwaan,blind
+221-878,polc1243,http://concepticon.clld.org/parameters/1463,ɗok nə zuri,intoxicated
+221-470,polc1243,http://concepticon.clld.org/parameters/590,[siraara],"naked, bare"
+221-652,polc1243,http://concepticon.clld.org/parameters/1336,ci,eat
+221-732,polc1243,http://concepticon.clld.org/parameters/256,rəpci,food
+221-904,polc1243,http://concepticon.clld.org/parameters/269,tsor,cooked
+221-943,polc1243,http://concepticon.clld.org/parameters/1959,ɗeghai,raw
+221-834,polc1243,http://concepticon.clld.org/parameters/178,nyoo,ripe
+221-554,polc1243,http://concepticon.clld.org/parameters/1958,gwaami,"green, unripe"
+221-173,polc1243,http://concepticon.clld.org/parameters/1728,roos,rotten
+221-811,polc1243,http://concepticon.clld.org/parameters/1401,tlee,drink
+221-24,polc1243,http://concepticon.clld.org/parameters/1533,gusum,hunger
+221-182,polc1243,http://concepticon.clld.org/parameters/199,raaraka,famine
+221-655,polc1243,http://concepticon.clld.org/parameters/848,gər maa,thirst
+221-968,polc1243,http://concepticon.clld.org/parameters/1421,ɓəəp,suck
+221-771,polc1243,http://concepticon.clld.org/parameters/321,ɗaam,chew
+221-984,polc1243,http://concepticon.clld.org/parameters/897,zəngaa,swallow
+221-9,polc1243,http://concepticon.clld.org/parameters/129,ŋgap yuwar,choke
+221-904,polc1243,http://concepticon.clld.org/parameters/1100,tsor,cook
+221-703,polc1243,http://concepticon.clld.org/parameters/792,ful,boil (vb)
+221-573,polc1243,http://concepticon.clld.org/parameters/2146,bak,"roast, fry"
+221-573,polc1243,http://concepticon.clld.org/parameters/183,bak,bake
+221-433,polc1243,http://concepticon.clld.org/parameters/1143,tandeeruu,oven
+221-610,polc1243,http://concepticon.clld.org/parameters/1462,caan,"pot, cooking vessel"
+221-84,polc1243,http://concepticon.clld.org/parameters/1462,taŋ,"pot, cooking vessel"
+221-610,polc1243,http://concepticon.clld.org/parameters/854,caan,kettle
+221-730,polc1243,http://concepticon.clld.org/parameters/1378,kəŋga,spoon
+221-349,polc1243,http://concepticon.clld.org/parameters/1352,sərəp,knife (2)
+221-401,polc1243,http://concepticon.clld.org/parameters/272,ŋgal,tongs
+221-732,polc1243,http://concepticon.clld.org/parameters/1526,rəpci,meal (a)
+221-925,polc1243,http://concepticon.clld.org/parameters/1322,rəpcighə tlitliin,breakfast
+221-233,polc1243,http://concepticon.clld.org/parameters/768,rəpcighə piɗi,lunch
+221-903,polc1243,http://concepticon.clld.org/parameters/1833,rəpcighə vor,dinner
+221-903,polc1243,http://concepticon.clld.org/parameters/1833,rəpcighə vor,supper
+221-319,polc1243,http://concepticon.clld.org/parameters/275,tyat,peel
+221-383,polc1243,http://concepticon.clld.org/parameters/86,tsərəŋ,"sieve, strain"
+221-846,polc1243,http://concepticon.clld.org/parameters/1767,wagha,scrape
+221-321,polc1243,http://concepticon.clld.org/parameters/2017,kətl,"stir, mix"
+221-164,polc1243,http://concepticon.clld.org/parameters/1594,cap,"meal, flour"
+221-274,polc1243,http://concepticon.clld.org/parameters/1033,nok,"crush, grind"
+221-468,polc1243,http://concepticon.clld.org/parameters/1033,noghvon,"crush, grind"
+221-853,polc1243,http://concepticon.clld.org/parameters/636,rəp mbaaɓə,mill
+221-729,polc1243,http://concepticon.clld.org/parameters/224,itlaŋ,mortar (2)
+221-23,polc1243,http://concepticon.clld.org/parameters/225,aam itlaŋ,pestle
+221-625,polc1243,http://concepticon.clld.org/parameters/634,tloo,meat
+221-65,polc1243,http://concepticon.clld.org/parameters/1547,miitli,"soup, broth"
+221-463,polc1243,http://concepticon.clld.org/parameters/924,rəpkə lambu,vegetables
+221-543,polc1243,http://concepticon.clld.org/parameters/832,zaam,bean
+221-678,polc1243,http://concepticon.clld.org/parameters/593,lawur,potato
+221-536,polc1243,http://concepticon.clld.org/parameters/1507,gər pət,fruit
+221-296,polc1243,http://concepticon.clld.org/parameters/1966,dzom,bunch
+221-150,polc1243,http://concepticon.clld.org/parameters/322,tsorom,fig
+221-583,polc1243,http://concepticon.clld.org/parameters/1484,ɗiin,oil
+221-708,polc1243,http://concepticon.clld.org/parameters/323,ɗogho,"grease, fat"
+221-657,polc1243,http://concepticon.clld.org/parameters/1274,kwi,salt
+221-229,polc1243,http://concepticon.clld.org/parameters/1385,talas,pepper
+221-296,polc1243,http://concepticon.clld.org/parameters/942,dzom,honey
+221-714,polc1243,http://concepticon.clld.org/parameters/862,[səkar],sugar
+221-367,polc1243,http://concepticon.clld.org/parameters/635,madara,milk (noun)
+221-246,polc1243,http://concepticon.clld.org/parameters/93,zhootə neen,milk (vb)
+221-847,polc1243,http://concepticon.clld.org/parameters/1245,ɗiin tlaa,butter
+221-64,polc1243,http://concepticon.clld.org/parameters/941,ɗok,mead
+221-64,polc1243,http://concepticon.clld.org/parameters/1639,ɗok,beer
+221-64,polc1243,http://concepticon.clld.org/parameters/404,ɗok,fermented drink
+221-461,polc1243,http://concepticon.clld.org/parameters/744,mbwatl,egg
+221-510,polc1243,http://concepticon.clld.org/parameters/158,ŋgar loghət,put on (clothes)
+221-933,polc1243,http://concepticon.clld.org/parameters/1895,loghət,"clothing, clothes"
+221-648,polc1243,http://concepticon.clld.org/parameters/881,[tela],tailor
+221-627,polc1243,http://concepticon.clld.org/parameters/1850,pəɗək,cotton
+221-54,polc1243,http://concepticon.clld.org/parameters/580,tsuruŋ,fur
+221-73,polc1243,http://concepticon.clld.org/parameters/629,kur,leather
+221-696,polc1243,http://concepticon.clld.org/parameters/121,mbok,spin
+221-537,polc1243,http://concepticon.clld.org/parameters/277,kaskara,spindle
+221-466,polc1243,http://concepticon.clld.org/parameters/133,tsoghay,weave
+221-709,polc1243,http://concepticon.clld.org/parameters/1457,rap,sew
+221-179,polc1243,http://concepticon.clld.org/parameters/1382,alluura,needle
+221-183,polc1243,http://concepticon.clld.org/parameters/278,zhoŋar,awl
+221-13,polc1243,http://concepticon.clld.org/parameters/1161,abawa,thread
+221-261,polc1243,http://concepticon.clld.org/parameters/328,ŋgar wal,grass-skirt
+221-872,polc1243,http://concepticon.clld.org/parameters/1381,cugopsi,shoe
+221-120,polc1243,http://concepticon.clld.org/parameters/585,[but],boot
+221-707,polc1243,http://concepticon.clld.org/parameters/2130,[taagiiya],"hat, cap"
+221-342,polc1243,http://concepticon.clld.org/parameters/1151,[hijaab],veil
+221-425,polc1243,http://concepticon.clld.org/parameters/1851,[aljuhu],pocket
+221-385,polc1243,http://concepticon.clld.org/parameters/757,[aniinii],button
+221-315,polc1243,http://concepticon.clld.org/parameters/917,ərəm ado,"ornament, adornment"
+221-750,polc1243,http://concepticon.clld.org/parameters/1374,[zobbe],ring (for finger)
+221-394,polc1243,http://concepticon.clld.org/parameters/1754,yit,bracelet
+221-446,polc1243,http://concepticon.clld.org/parameters/1961,zululu,necklace
+221-622,polc1243,http://concepticon.clld.org/parameters/330,kwaali,"headband, headdress"
+221-513,polc1243,http://concepticon.clld.org/parameters/68,tloolə,tattoo
+221-582,polc1243,http://concepticon.clld.org/parameters/1021,[taawul],towel
+221-548,polc1243,http://concepticon.clld.org/parameters/1475,zaar,comb
+221-841,polc1243,http://concepticon.clld.org/parameters/333,tsoghə gaam,braid
+221-396,polc1243,http://concepticon.clld.org/parameters/151,[reza],razor
+221-583,polc1243,http://concepticon.clld.org/parameters/1926,ɗiin,ointment
+221-106,polc1243,http://concepticon.clld.org/parameters/788,[saabulu],soap
+221-384,polc1243,http://concepticon.clld.org/parameters/1171,[maganii],mirror
+221-656,polc1243,http://concepticon.clld.org/parameters/1099,shik,"dwell, live"
+221-365,polc1243,http://concepticon.clld.org/parameters/1252,keen,house
+221-68,polc1243,http://concepticon.clld.org/parameters/1252,tlaap,house
+221-970,polc1243,http://concepticon.clld.org/parameters/1678,kanja,hut
+221-930,polc1243,http://concepticon.clld.org/parameters/736,ɗəl keen,"yard, court"
+221-68,polc1243,http://concepticon.clld.org/parameters/1450,tlaap,room
+221-358,polc1243,http://concepticon.clld.org/parameters/1567,biibi,"door, gate"
+221-171,polc1243,http://concepticon.clld.org/parameters/80,gaam biibi,"doorpost, jamb"
+221-410,polc1243,http://concepticon.clld.org/parameters/1596,[makulli],lock (noun)
+221-533,polc1243,http://concepticon.clld.org/parameters/1012,[sakata],"latch, door-bolt"
+221-166,polc1243,http://concepticon.clld.org/parameters/1472,[mabuuɗi],key
+221-207,polc1243,http://concepticon.clld.org/parameters/1375,[taaga],window
+221-523,polc1243,http://concepticon.clld.org/parameters/1632,[daɓee],floor
+221-753,polc1243,http://concepticon.clld.org/parameters/933,tu keen,wall
+221-807,polc1243,http://concepticon.clld.org/parameters/185,been tsop,fireplace
+221-812,polc1243,http://concepticon.clld.org/parameters/859,pyeghət,stove
+221-867,polc1243,http://concepticon.clld.org/parameters/1464,dlaŋtaŋ,ladder
+221-286,polc1243,http://concepticon.clld.org/parameters/1663,gudu,bed
+221-225,polc1243,http://concepticon.clld.org/parameters/1044,ərkənnə,pillow
+221-393,polc1243,http://concepticon.clld.org/parameters/806,bargoo,blanket
+221-530,polc1243,http://concepticon.clld.org/parameters/1476,daan,chair
+221-220,polc1243,http://concepticon.clld.org/parameters/1775,[teebur],table
+221-320,polc1243,http://concepticon.clld.org/parameters/2131,[pitila],"lamp, torch"
+221-140,polc1243,http://concepticon.clld.org/parameters/1273,[kyandir],candle
+221-292,polc1243,http://concepticon.clld.org/parameters/745,aam kir,shelf
+221-294,polc1243,http://concepticon.clld.org/parameters/205,kumtə,trough
+221-671,polc1243,http://concepticon.clld.org/parameters/769,yar,roof
+221-671,polc1243,http://concepticon.clld.org/parameters/279,yar,thatch
+221-145,polc1243,http://concepticon.clld.org/parameters/280,ghart,ridgepole
+221-201,polc1243,http://concepticon.clld.org/parameters/1132,taŋka,beam
+221-90,polc1243,http://concepticon.clld.org/parameters/281,tsaŋ,"post, pole"
+221-374,polc1243,http://concepticon.clld.org/parameters/1227,[kaataakoo],board
+221-799,polc1243,http://concepticon.clld.org/parameters/876,məəm,arch
+221-900,polc1243,http://concepticon.clld.org/parameters/1006,goŋraŋ,brick
+221-563,polc1243,http://concepticon.clld.org/parameters/1731,gurugho,mortar
+221-444,polc1243,http://concepticon.clld.org/parameters/979,mun ŋgərəghə,farmer
+221-135,polc1243,http://concepticon.clld.org/parameters/212,zhim,field (for cultivation)
+221-760,polc1243,http://concepticon.clld.org/parameters/586,[lambu],garden
+221-777,polc1243,http://concepticon.clld.org/parameters/1541,ŋgərəghə,"cultivate, till"
+221-856,polc1243,http://concepticon.clld.org/parameters/1690,[darni],fence
+221-361,polc1243,http://concepticon.clld.org/parameters/2002,[gada],ditch
+221-391,polc1243,http://concepticon.clld.org/parameters/1921,jer,plow
+221-277,polc1243,http://concepticon.clld.org/parameters/1794,zhel,furrow
+221-538,polc1243,http://concepticon.clld.org/parameters/1418,ɗok shuu,dig
+221-136,polc1243,http://concepticon.clld.org/parameters/1418,kəptə,dig
+221-92,polc1243,http://concepticon.clld.org/parameters/1176,yuuru,spade
+221-92,polc1243,http://concepticon.clld.org/parameters/284,yuuru,hoe
+221-453,polc1243,http://concepticon.clld.org/parameters/338,[manjagara],rake
+221-502,polc1243,http://concepticon.clld.org/parameters/748,kəp,sow
+221-283,polc1243,http://concepticon.clld.org/parameters/714,batər,seed
+221-625,polc1243,http://concepticon.clld.org/parameters/190,tloo,"mow, reap"
+221-206,polc1243,http://concepticon.clld.org/parameters/2132,[lauje],"sickle, scythe"
+221-767,polc1243,http://concepticon.clld.org/parameters/285,zok,thresh
+221-806,polc1243,http://concepticon.clld.org/parameters/611,[girbi],"crop, harvest"
+221-621,polc1243,http://concepticon.clld.org/parameters/605,wu,"grain (barley, oats etc)"
+221-495,polc1243,http://concepticon.clld.org/parameters/506,buŋgwaaren,"maize, corn"
+221-810,polc1243,http://concepticon.clld.org/parameters/926,shiŋga,rice
+221-759,polc1243,http://concepticon.clld.org/parameters/606,məi,grass
+221-673,polc1243,http://concepticon.clld.org/parameters/342,kun məi,hay
+221-502,polc1243,http://concepticon.clld.org/parameters/653,kəp,plant (noun)
+221-502,polc1243,http://concepticon.clld.org/parameters/1486,kəp,plant (vb)
+221-272,polc1243,http://concepticon.clld.org/parameters/670,tlertə pət,root
+221-303,polc1243,http://concepticon.clld.org/parameters/670,tler pət,root
+221-663,polc1243,http://concepticon.clld.org/parameters/1531,bə aam,branch
+221-685,polc1243,http://concepticon.clld.org/parameters/1531,aam pət,branch
+221-873,polc1243,http://concepticon.clld.org/parameters/628,wal,leaf
+221-724,polc1243,http://concepticon.clld.org/parameters/239,pas,flower
+221-132,polc1243,http://concepticon.clld.org/parameters/906,pət,tree
+221-242,polc1243,http://concepticon.clld.org/parameters/974,taaba,tobacco
+221-845,polc1243,http://concepticon.clld.org/parameters/974,tunkura,tobacco
+221-340,polc1243,http://concepticon.clld.org/parameters/1689,kələm,smoke (tobacco)
+221-954,polc1243,http://concepticon.clld.org/parameters/1124,cantaaba,pipe
+221-248,polc1243,http://concepticon.clld.org/parameters/241,ndənzə pət,tree stump
+221-331,polc1243,http://concepticon.clld.org/parameters/409,ŋgapcaŋ,forked branch
+221-218,polc1243,http://concepticon.clld.org/parameters/1204,koor pət,bark
+221-650,polc1243,http://concepticon.clld.org/parameters/345,nzuk,sap
+221-599,polc1243,http://concepticon.clld.org/parameters/1181,[kwaakwaa],palm tree
+221-599,polc1243,http://concepticon.clld.org/parameters/970,[kwaakwaa],coconut
+221-129,polc1243,http://concepticon.clld.org/parameters/868,ayaba,banana tree
+221-678,polc1243,http://concepticon.clld.org/parameters/159,lawur,sweet potato
+221-923,polc1243,http://concepticon.clld.org/parameters/410,gutlum,yam
+221-214,polc1243,http://concepticon.clld.org/parameters/411,kaalə,gourd
+221-115,polc1243,http://concepticon.clld.org/parameters/864,ɓaar,"pumpkin, squash"
+221-111,polc1243,http://concepticon.clld.org/parameters/1927,məghə,bamboo
+221-605,polc1243,http://concepticon.clld.org/parameters/146,[rike],sugar cane
+221-934,polc1243,http://concepticon.clld.org/parameters/348,maakoba,fish poison (root)
+221-728,polc1243,http://concepticon.clld.org/parameters/348,maakuba,fish poison (root)
+221-659,polc1243,http://concepticon.clld.org/parameters/641,--meeta,mushroom
+221-553,polc1243,http://concepticon.clld.org/parameters/641,mbarmat,mushroom
+221-343,polc1243,http://concepticon.clld.org/parameters/641,ləɗəntə,mushroom
+221-459,polc1243,http://concepticon.clld.org/parameters/641,gaŋgaŋ zoomoo,mushroom
+221-353,polc1243,http://concepticon.clld.org/parameters/813,pur,"do, make"
+221-161,polc1243,http://concepticon.clld.org/parameters/984,səntə,work
+221-551,polc1243,http://concepticon.clld.org/parameters/2004,ŋgwoŋ,bend
+221-884,polc1243,http://concepticon.clld.org/parameters/1470,naak,fold
+221-97,polc1243,http://concepticon.clld.org/parameters/1917,ləŋ,"tie, bind"
+221-143,polc1243,http://concepticon.clld.org/parameters/352,təs,untie
+221-21,polc1243,http://concepticon.clld.org/parameters/1627,sarka,chain
+221-803,polc1243,http://concepticon.clld.org/parameters/1218,tler,"rope, cord"
+221-448,polc1243,http://concepticon.clld.org/parameters/760,kutl,knot (noun)
+221-852,polc1243,http://concepticon.clld.org/parameters/2133,dzu,"strike (hit, beat)"
+221-64,polc1243,http://concepticon.clld.org/parameters/354,ɗok,pound with fist
+221-580,polc1243,http://concepticon.clld.org/parameters/1432,njaŋ,cut
+221-763,polc1243,http://concepticon.clld.org/parameters/355,rapsə,cut down
+221-763,polc1243,http://concepticon.clld.org/parameters/155,rapsə,"chop, hew"
+221-162,polc1243,http://concepticon.clld.org/parameters/1434,ɓəŋ,stab
+221-349,polc1243,http://concepticon.clld.org/parameters/1352,sərəp,knife
+221-126,polc1243,http://concepticon.clld.org/parameters/677,wotkə,ax
+221-476,polc1243,http://concepticon.clld.org/parameters/290,kas,adze
+221-232,polc1243,http://concepticon.clld.org/parameters/680,tsak,break
+221-816,polc1243,http://concepticon.clld.org/parameters/588,ŋgəl,broken
+221-334,polc1243,http://concepticon.clld.org/parameters/1437,vye rop,split
+221-946,polc1243,http://concepticon.clld.org/parameters/1735,tarr,tear
+221-776,polc1243,http://concepticon.clld.org/parameters/1735,tla�ktə,tear
+221-44,polc1243,http://concepticon.clld.org/parameters/291,lurr,"flay, skin"
+221-545,polc1243,http://concepticon.clld.org/parameters/1449,berrdlek,"rub, wipe"
+221-127,polc1243,http://concepticon.clld.org/parameters/214,tək,stretch
+221-36,polc1243,http://concepticon.clld.org/parameters/1455,jaa,pull
+221-907,polc1243,http://concepticon.clld.org/parameters/38,baza,spread out
+221-387,polc1243,http://concepticon.clld.org/parameters/357,zat,hang up
+221-568,polc1243,http://concepticon.clld.org/parameters/1913,dənna,press
+221-919,polc1243,http://concepticon.clld.org/parameters/1414,zho,"squeeze, wring"
+221-857,polc1243,http://concepticon.clld.org/parameters/1487,gasaŋ,pour
+221-269,polc1243,http://concepticon.clld.org/parameters/1453,fwap,wash
+221-826,polc1243,http://concepticon.clld.org/parameters/230,saat,sweep
+221-804,polc1243,http://concepticon.clld.org/parameters/245,səndaarə,broom
+221-521,polc1243,http://concepticon.clld.org/parameters/1361,ərəm mbaaɓə,tool
+221-579,polc1243,http://concepticon.clld.org/parameters/1042,[kaapinta],carpenter
+221-307,polc1243,http://concepticon.clld.org/parameters/1840,tsok,build
+221-162,polc1243,http://concepticon.clld.org/parameters/1501,ɓəŋ,bore
+221-294,polc1243,http://concepticon.clld.org/parameters/46,kumtə,hollow out
+221-22,polc1243,http://concepticon.clld.org/parameters/1948,zartə,saw
+221-25,polc1243,http://concepticon.clld.org/parameters/1481,fəmbə,hammer
+221-498,polc1243,http://concepticon.clld.org/parameters/502,mbek,nail
+221-377,polc1243,http://concepticon.clld.org/parameters/1001,shugop,"smith, blacksmith"
+221-377,polc1243,http://concepticon.clld.org/parameters/288,shugop,forge
+221-955,polc1243,http://concepticon.clld.org/parameters/1648,been shugop,anvil
+221-854,polc1243,http://concepticon.clld.org/parameters/1369,zinari,gold
+221-601,polc1243,http://concepticon.clld.org/parameters/759,tookiya,silver
+221-786,polc1243,http://concepticon.clld.org/parameters/1825,lagham val,"copper, bronze"
+221-591,polc1243,http://concepticon.clld.org/parameters/621,dzuŋ val,iron
+221-967,polc1243,http://concepticon.clld.org/parameters/627,[dalmaa],lead (noun)
+221-898,polc1243,http://concepticon.clld.org/parameters/358,gyenəŋ,"tin, tinplate"
+221-431,polc1243,http://concepticon.clld.org/parameters/359,ger (kon) tsogho waasən,potter
+221-307,polc1243,http://concepticon.clld.org/parameters/1729,tsok,"weave, plait"
+221-224,polc1243,http://concepticon.clld.org/parameters/1539,gəəptə,basket
+221-700,polc1243,http://concepticon.clld.org/parameters/195,kwaasə,mat
+221-69,polc1243,http://concepticon.clld.org/parameters/292,darduma,rug
+221-449,polc1243,http://concepticon.clld.org/parameters/293,kataŋkoo,netbag
+221-50,polc1243,http://concepticon.clld.org/parameters/1971,mafifici,fan (noun)
+221-892,polc1243,http://concepticon.clld.org/parameters/360,[fifita],fan (vb)
+221-975,polc1243,http://concepticon.clld.org/parameters/228,ɓok,carve
+221-297,polc1243,http://concepticon.clld.org/parameters/914,kon ɓok,sculptor
+221-840,polc1243,http://concepticon.clld.org/parameters/914,kon ɓogha,sculptor
+221-944,polc1243,http://concepticon.clld.org/parameters/1002,wun baam,statue
+221-743,polc1243,http://concepticon.clld.org/parameters/1979,giŋgyal,chisel
+221-429,polc1243,http://concepticon.clld.org/parameters/647,[penti],paint (noun)
+221-595,polc1243,http://concepticon.clld.org/parameters/2001,pur [penti],paint (vb)
+221-737,polc1243,http://concepticon.clld.org/parameters/765,pərdli,move
+221-571,polc1243,http://concepticon.clld.org/parameters/1588,bal,turn over
+221-742,polc1243,http://concepticon.clld.org/parameters/1588,bali,turn over
+221-332,polc1243,http://concepticon.clld.org/parameters/1445,ŋgwaktə,turn around
+221-884,polc1243,http://concepticon.clld.org/parameters/1113,naak,"wind, wrap"
+221-897,polc1243,http://concepticon.clld.org/parameters/827,tumti,roll
+221-850,polc1243,http://concepticon.clld.org/parameters/808,nda,drop (vb)
+221-752,polc1243,http://concepticon.clld.org/parameters/430,byaŋar,twist
+221-147,polc1243,http://concepticon.clld.org/parameters/568,tswa,rise
+221-311,polc1243,http://concepticon.clld.org/parameters/568,tsoo,rise
+221-180,polc1243,http://concepticon.clld.org/parameters/501,ɗaga,"raise, lift"
+221-850,polc1243,http://concepticon.clld.org/parameters/1280,nda,fall
+221-399,polc1243,http://concepticon.clld.org/parameters/1456,ŋgar,throw
+221-217,polc1243,http://concepticon.clld.org/parameters/702,guɓi,catch (ball)
+221-210,polc1243,http://concepticon.clld.org/parameters/1909,dəŋəl,shake
+221-938,polc1243,http://concepticon.clld.org/parameters/1088,mbul,sink
+221-895,polc1243,http://concepticon.clld.org/parameters/1574,məər adan maa,float
+221-260,polc1243,http://concepticon.clld.org/parameters/1574,tlet adanmaa,float
+221-549,polc1243,http://concepticon.clld.org/parameters/1439,dali maa,swim
+221-455,polc1243,http://concepticon.clld.org/parameters/365,pyaasa,splash
+221-436,polc1243,http://concepticon.clld.org/parameters/1441,tleda leyam,fly (vb)
+221-392,polc1243,http://concepticon.clld.org/parameters/175,fwaat,blow
+221-690,polc1243,http://concepticon.clld.org/parameters/96,gurruptə,"creep, crawl"
+221-866,polc1243,http://concepticon.clld.org/parameters/66,zhok,kneel
+221-486,polc1243,http://concepticon.clld.org/parameters/296,gurup,crouch
+221-963,polc1243,http://concepticon.clld.org/parameters/1324,sheləŋtə,"slide, slip"
+221-493,polc1243,http://concepticon.clld.org/parameters/1829,raam,"jump, leap"
+221-696,polc1243,http://concepticon.clld.org/parameters/1135,mbok,kick
+221-734,polc1243,http://concepticon.clld.org/parameters/1135,omti mvok,kick
+221-471,polc1243,http://concepticon.clld.org/parameters/1879,tlaar,dance
+221-61,polc1243,http://concepticon.clld.org/parameters/1443,dəksə,walk
+221-195,polc1243,http://concepticon.clld.org/parameters/366,ŋgurum,limp
+221-66,polc1243,http://concepticon.clld.org/parameters/1519,kətər,run
+221-341,polc1243,http://concepticon.clld.org/parameters/695,nduu,go
+221-147,polc1243,http://concepticon.clld.org/parameters/705,tswa,go up
+221-311,polc1243,http://concepticon.clld.org/parameters/705,tsoo,go up
+221-311,polc1243,http://concepticon.clld.org/parameters/1102,tsoo,climb
+221-820,polc1243,http://concepticon.clld.org/parameters/2014,myes,go down
+221-175,polc1243,http://concepticon.clld.org/parameters/2014,mees,go down
+221-680,polc1243,http://concepticon.clld.org/parameters/1107,ɗəl,go out
+221-713,polc1243,http://concepticon.clld.org/parameters/1446,rit,come
+221-762,polc1243,http://concepticon.clld.org/parameters/581,mən,come back
+221-341,polc1243,http://concepticon.clld.org/parameters/1752,nduu,"go away, depart"
+221-267,polc1243,http://concepticon.clld.org/parameters/485,mal,disappear
+221-215,polc1243,http://concepticon.clld.org/parameters/956,pyar tee kətərtə,flee
+221-540,polc1243,http://concepticon.clld.org/parameters/1085,bilti,follow
+221-293,polc1243,http://concepticon.clld.org/parameters/1047,ndaa tee aakar,pursue
+221-885,polc1243,http://concepticon.clld.org/parameters/1387,tsullə,"reach, arrive"
+221-451,polc1243,http://concepticon.clld.org/parameters/1778,roomat,approach
+221-865,polc1243,http://concepticon.clld.org/parameters/749,soo,enter
+221-682,polc1243,http://concepticon.clld.org/parameters/749,tsət,enter
+221-203,polc1243,http://concepticon.clld.org/parameters/700,kən,carry (bear)
+221-217,polc1243,http://concepticon.clld.org/parameters/412,guɓi,carry-in-hand
+221-768,polc1243,http://concepticon.clld.org/parameters/692,yoor ...rit,bring
+221-398,polc1243,http://concepticon.clld.org/parameters/1127,sən,send
+221-482,polc1243,http://concepticon.clld.org/parameters/741,ləm,drive
+221-311,polc1243,http://concepticon.clld.org/parameters/367,tsoo,ride
+221-624,polc1243,http://concepticon.clld.org/parameters/1452,tum,"push, shove"
+221-316,polc1243,http://concepticon.clld.org/parameters/667,tsop,road
+221-316,polc1243,http://concepticon.clld.org/parameters/2252,tsop,path
+221-361,polc1243,http://concepticon.clld.org/parameters/1011,[gada],bridge
+221-205,polc1243,http://concepticon.clld.org/parameters/710,garegare,wheel
+221-294,polc1243,http://concepticon.clld.org/parameters/1970,kumtə,canoe
+221-731,polc1243,http://concepticon.clld.org/parameters/108,meelaŋ kaɗa tu jirgi,oar
+221-978,polc1243,http://concepticon.clld.org/parameters/1849,[tukai],row (vb)
+221-478,polc1243,http://concepticon.clld.org/parameters/773,kap,have
+221-203,polc1243,http://concepticon.clld.org/parameters/1749,kən,take
+221-670,polc1243,http://concepticon.clld.org/parameters/2021,voktə,"seize, grasp"
+221-217,polc1243,http://concepticon.clld.org/parameters/1448,guɓi,hold
+221-725,polc1243,http://concepticon.clld.org/parameters/694,pat,"get, obtain"
+221-860,polc1243,http://concepticon.clld.org/parameters/1477,vundər,"keep, retain"
+221-55,polc1243,http://concepticon.clld.org/parameters/738,ərəm,thing
+221-835,polc1243,http://concepticon.clld.org/parameters/1447,buri,give
+221-973,polc1243,http://concepticon.clld.org/parameters/85,məndər,give back
+221-855,polc1243,http://concepticon.clld.org/parameters/2008,ɗəlti,"save, rescue"
+221-772,polc1243,http://concepticon.clld.org/parameters/681,lii,destroy
+221-324,polc1243,http://concepticon.clld.org/parameters/44,[cucee],"harm, injure, damage"
+221-148,polc1243,http://concepticon.clld.org/parameters/1468,mbək,"seek, look for"
+221-941,polc1243,http://concepticon.clld.org/parameters/1468,mbəghə,"seek, look for"
+221-890,polc1243,http://concepticon.clld.org/parameters/719,paɗi,find
+221-267,polc1243,http://concepticon.clld.org/parameters/1660,mal,lose
+221-399,polc1243,http://concepticon.clld.org/parameters/1095,ŋgar,"release, let go"
+221-491,polc1243,http://concepticon.clld.org/parameters/1559,wurɓə,money
+221-512,polc1243,http://concepticon.clld.org/parameters/1867,saaba,coin
+221-89,polc1243,http://concepticon.clld.org/parameters/712,yan rəp,rich
+221-596,polc1243,http://concepticon.clld.org/parameters/1674,barak rəəp,poor
+221-584,polc1243,http://concepticon.clld.org/parameters/1934,bara,beggar
+221-691,polc1243,http://concepticon.clld.org/parameters/1774,ɗaasə,"avaricious, stingy"
+221-93,polc1243,http://concepticon.clld.org/parameters/582,dzur,lend
+221-958,polc1243,http://concepticon.clld.org/parameters/1823,kap dzur,borrow
+221-29,polc1243,http://concepticon.clld.org/parameters/369,biltədzur,owe
+221-93,polc1243,http://concepticon.clld.org/parameters/1914,dzur,debt
+221-882,polc1243,http://concepticon.clld.org/parameters/718,kwaat,pay (vb)
+221-609,polc1243,http://concepticon.clld.org/parameters/1081,tsul,"account, reckoning"
+221-916,polc1243,http://concepticon.clld.org/parameters/873,wurɓə gandu,"tax, tribute"
+221-788,polc1243,http://concepticon.clld.org/parameters/856,hayaa,hire
+221-159,polc1243,http://concepticon.clld.org/parameters/1122,kwattəghə caar,wages
+221-249,polc1243,http://concepticon.clld.org/parameters/1869,ɗep,buy
+221-382,polc1243,http://concepticon.clld.org/parameters/1571,ɗeeɓər,sell
+221-499,polc1243,http://concepticon.clld.org/parameters/2135,[kasuwanci],"trade, barter"
+221-720,polc1243,http://concepticon.clld.org/parameters/1082,kon kasuwa,merchant
+221-196,polc1243,http://concepticon.clld.org/parameters/633,[kaasuwa],market (place)
+221-409,polc1243,http://concepticon.clld.org/parameters/752,[kanti],"store, shop"
+221-770,polc1243,http://concepticon.clld.org/parameters/657,[laada],price
+221-813,polc1243,http://concepticon.clld.org/parameters/1426,[saada],"dear (costly, expensive)"
+221-626,polc1243,http://concepticon.clld.org/parameters/1887,[araha],cheap
+221-473,polc1243,http://concepticon.clld.org/parameters/884,vye,share (distribute)
+221-886,polc1243,http://concepticon.clld.org/parameters/1098,pyaghsə,weigh
+221-534,polc1243,http://concepticon.clld.org/parameters/1685,taŋkar,after
+221-477,polc1243,http://concepticon.clld.org/parameters/723,kar,behind
+221-389,polc1243,http://concepticon.clld.org/parameters/1816,aa bə,beside
+221-647,polc1243,http://concepticon.clld.org/parameters/1816,bə,beside
+221-864,polc1243,http://concepticon.clld.org/parameters/1326,aa atl,"down, below"
+221-598,polc1243,http://concepticon.clld.org/parameters/1882,panti,before
+221-285,polc1243,http://concepticon.clld.org/parameters/1882,dede,before
+221-942,polc1243,http://concepticon.clld.org/parameters/1019,nan,front
+221-844,polc1243,http://concepticon.clld.org/parameters/1606,a gip,"inside, in"
+221-371,polc1243,http://concepticon.clld.org/parameters/762,kaari,outside
+221-879,polc1243,http://concepticon.clld.org/parameters/1485,aa gəsh,under
+221-683,polc1243,http://concepticon.clld.org/parameters/1591,aa leyam,"up, above"
+221-99,polc1243,http://concepticon.clld.org/parameters/723,rəəp,place
+221-352,polc1243,http://concepticon.clld.org/parameters/998,naa,put
+221-656,polc1243,http://concepticon.clld.org/parameters/1416,shik,sit
+221-821,polc1243,http://concepticon.clld.org/parameters/215,məər,lie down
+221-153,polc1243,http://concepticon.clld.org/parameters/1442,dler,stand
+221-887,polc1243,http://concepticon.clld.org/parameters/987,ɓəətəŋ,"remain, stay"
+221-235,polc1243,http://concepticon.clld.org/parameters/838,pasaŋi,"remains, left overs"
+221-364,polc1243,http://concepticon.clld.org/parameters/7,dzomi,"collect, gather"
+221-203,polc1243,http://concepticon.clld.org/parameters/371,kən,pick up
+221-155,polc1243,http://concepticon.clld.org/parameters/1576,kashi,pile up
+221-107,polc1243,http://concepticon.clld.org/parameters/1743,maŋ,"join, unite"
+221-473,polc1243,http://concepticon.clld.org/parameters/1359,vye,separate
+221-473,polc1243,http://concepticon.clld.org/parameters/1119,vye,divide
+221-31,polc1243,http://concepticon.clld.org/parameters/1156,ta,open
+221-346,polc1243,http://concepticon.clld.org/parameters/1046,git,"shut, close"
+221-974,polc1243,http://concepticon.clld.org/parameters/761,zupti,cover
+221-860,polc1243,http://concepticon.clld.org/parameters/602,vundər,"hide, conceal"
+221-291,polc1243,http://concepticon.clld.org/parameters/1265,leyam,high
+221-312,polc1243,http://concepticon.clld.org/parameters/721,atl,low
+221-646,polc1243,http://concepticon.clld.org/parameters/1753,byaŋ,top
+221-212,polc1243,http://concepticon.clld.org/parameters/690,gəsh,bottom
+221-313,polc1243,http://concepticon.clld.org/parameters/742,liŋ,end
+221-603,polc1243,http://concepticon.clld.org/parameters/372,byertə,pointed
+221-791,polc1243,http://concepticon.clld.org/parameters/863,bii,edge
+221-477,polc1243,http://concepticon.clld.org/parameters/682,kar,side
+221-37,polc1243,http://concepticon.clld.org/parameters/1093,dlam,"middle, center"
+221-103,polc1243,http://concepticon.clld.org/parameters/1019,shimlə,right (side)
+221-504,polc1243,http://concepticon.clld.org/parameters/244,kalaŋ,left (side)
+221-504,polc1243,http://concepticon.clld.org/parameters/244,kalaŋ,left (side)
+221-209,polc1243,http://concepticon.clld.org/parameters/1942,mat,near (adv)
+221-2,polc1243,http://concepticon.clld.org/parameters/1406,dleyam,far (adv)
+221-458,polc1243,http://concepticon.clld.org/parameters/1877,vaari tee mi,east
+221-368,polc1243,http://concepticon.clld.org/parameters/1817,leyam teemi,west
+221-517,polc1243,http://concepticon.clld.org/parameters/1598,areewa,north
+221-45,polc1243,http://concepticon.clld.org/parameters/1595,kudu,south
+221-59,polc1243,http://concepticon.clld.org/parameters/1506,gwada,measure
+221-63,polc1243,http://concepticon.clld.org/parameters/1202,daŋai,"large, big"
+221-876,polc1243,http://concepticon.clld.org/parameters/1246,gəɓi,"small, little"
+221-915,polc1243,http://concepticon.clld.org/parameters/1203,zhaŋti,long
+221-983,polc1243,http://concepticon.clld.org/parameters/711,lwii,tall
+221-403,polc1243,http://concepticon.clld.org/parameters/1645,ndəghei,short
+221-76,polc1243,http://concepticon.clld.org/parameters/1243,ŋaləŋai,"wide, broad"
+221-715,polc1243,http://concepticon.clld.org/parameters/1267,maɓi,narrow
+221-147,polc1243,http://concepticon.clld.org/parameters/1244,tswa,thick (in dimension)
+221-749,polc1243,http://concepticon.clld.org/parameters/1400,jalaŋlal,thin (in dimension)
+221-456,polc1243,http://concepticon.clld.org/parameters/1593,goroŋ,deep
+221-662,polc1243,http://concepticon.clld.org/parameters/1593,goroŋi,deep
+221-123,polc1243,http://concepticon.clld.org/parameters/193,goroŋ nəŋ,shallow
+221-766,polc1243,http://concepticon.clld.org/parameters/1633,kwaghal,flat
+221-149,polc1243,http://concepticon.clld.org/parameters/1404,təghei,straight
+221-551,polc1243,http://concepticon.clld.org/parameters/297,ŋgwoŋ,crooked
+221-518,polc1243,http://concepticon.clld.org/parameters/1071,[kuugiyaa],hook
+221-576,polc1243,http://concepticon.clld.org/parameters/192,duŋgu,corner
+221-259,polc1243,http://concepticon.clld.org/parameters/1467,kugh loghəi,circle
+221-945,polc1243,http://concepticon.clld.org/parameters/1667,shuu,hole
+221-369,polc1243,http://concepticon.clld.org/parameters/1558,waa,"like, similar"
+221-178,polc1243,http://concepticon.clld.org/parameters/1264,[canji],change
+221-386,polc1243,http://concepticon.clld.org/parameters/1515,nəm,one
+221-32,polc1243,http://concepticon.clld.org/parameters/1515,bəgya,one
+221-14,polc1243,http://concepticon.clld.org/parameters/1498,rop,two
+221-158,polc1243,http://concepticon.clld.org/parameters/492,meen,three
+221-839,polc1243,http://concepticon.clld.org/parameters/1500,woopsə,four
+221-255,polc1243,http://concepticon.clld.org/parameters/493,naamtam,five
+221-139,polc1243,http://concepticon.clld.org/parameters/1703,maagh,six
+221-338,polc1243,http://concepticon.clld.org/parameters/1704,wussərəmeen,seven
+221-216,polc1243,http://concepticon.clld.org/parameters/1705,wusupsə,eight
+221-704,polc1243,http://concepticon.clld.org/parameters/1483,nantorəpsə,nine
+221-848,polc1243,http://concepticon.clld.org/parameters/1515,zup,ten
+221-514,polc1243,http://concepticon.clld.org/parameters/1706,zup tlii nəəm,eleven
+221-412,polc1243,http://concepticon.clld.org/parameters/1707,zup tlii rop,twelve
+221-801,polc1243,http://concepticon.clld.org/parameters/1709,zup tli naamtam,fifteen
+221-53,polc1243,http://concepticon.clld.org/parameters/1710,ziirop,twenty
+221-38,polc1243,http://concepticon.clld.org/parameters/1634,te nəm,hundred
+221-424,polc1243,http://concepticon.clld.org/parameters/1843,[duɓənəəm],thousand
+221-870,polc1243,http://concepticon.clld.org/parameters/1420,dliim,count
+221-577,polc1243,http://concepticon.clld.org/parameters/98,kwaŋ,"every, all"
+221-280,polc1243,http://concepticon.clld.org/parameters/1198,ŋaar,"much, many"
+221-231,polc1243,http://concepticon.clld.org/parameters/1992,[daɗa],more
+221-557,polc1243,http://concepticon.clld.org/parameters/1242,gəp,"little (quantity), few"
+221-814,polc1243,http://concepticon.clld.org/parameters/1881,kəmi,enough
+221-935,polc1243,http://concepticon.clld.org/parameters/1241,bəjən,some
+221-957,polc1243,http://concepticon.clld.org/parameters/2023,taaroo mbaam,"multitude, crowd"
+221-814,polc1243,http://concepticon.clld.org/parameters/1429,kəmi,full
+221-199,polc1243,http://concepticon.clld.org/parameters/1624,regiiraŋ,empty
+221-221,polc1243,http://concepticon.clld.org/parameters/779,jaŋei,"part, piece"
+221-184,polc1243,http://concepticon.clld.org/parameters/816,[rabi],half
+221-190,polc1243,http://concepticon.clld.org/parameters/1580,woŋgən,"alone, only"
+221-56,polc1243,http://concepticon.clld.org/parameters/728,faari,first
+221-653,polc1243,http://concepticon.clld.org/parameters/1529,talləm,last
+221-688,polc1243,http://concepticon.clld.org/parameters/1384,kə rop,second
+221-586,polc1243,http://concepticon.clld.org/parameters/1888,rop rop,pair
+221-282,polc1243,http://concepticon.clld.org/parameters/1546,asəmii rop,two times
+221-128,polc1243,http://concepticon.clld.org/parameters/1859,kə meen,third
+221-623,polc1243,http://concepticon.clld.org/parameters/417,asəmii meen,three times
+221-775,polc1243,http://concepticon.clld.org/parameters/892,lokaci,time
+221-480,polc1243,http://concepticon.clld.org/parameters/1231,məri,new
+221-953,polc1243,http://concepticon.clld.org/parameters/1229,gwaasi,old
+221-829,polc1243,http://concepticon.clld.org/parameters/672,rəɓi,early
+221-33,polc1243,http://concepticon.clld.org/parameters/477,makara,late
+221-809,polc1243,http://concepticon.clld.org/parameters/1376,ɗagi,now
+221-497,polc1243,http://concepticon.clld.org/parameters/1963,[maza-maza],immediately
+221-787,polc1243,http://concepticon.clld.org/parameters/701,leelee,slow
+221-862,polc1243,http://concepticon.clld.org/parameters/754,batl,"hasten, hurry"
+221-119,polc1243,http://concepticon.clld.org/parameters/425,laŋagaam,"retard, delay"
+221-645,polc1243,http://concepticon.clld.org/parameters/1806,sooma,"begin, beginning"
+221-28,polc1243,http://concepticon.clld.org/parameters/743,pagha,end (temporal)
+221-28,polc1243,http://concepticon.clld.org/parameters/1766,pagha,finish
+221-567,polc1243,http://concepticon.clld.org/parameters/790,[shirya],ready
+221-552,polc1243,http://concepticon.clld.org/parameters/1676,[kullum],always
+221-404,polc1243,http://concepticon.clld.org/parameters/1852,adəne adəne,often
+221-15,polc1243,http://concepticon.clld.org/parameters/1544,lokaci gələm,sometimes
+221-520,polc1243,http://concepticon.clld.org/parameters/703,[an juma],soon
+221-191,polc1243,http://concepticon.clld.org/parameters/418,zhəŋtə lookacii,long-time (for a)
+221-82,polc1243,http://concepticon.clld.org/parameters/1656,taɓa,never
+221-598,polc1243,http://concepticon.clld.org/parameters/204,panti,again
+221-288,polc1243,http://concepticon.clld.org/parameters/1260,piiɗi,day
+221-181,polc1243,http://concepticon.clld.org/parameters/1233,vor,night
+221-677,polc1243,http://concepticon.clld.org/parameters/729,tloghən ŋə rəp,dawn
+221-780,polc1243,http://concepticon.clld.org/parameters/1339,tli tliin,morning
+221-288,polc1243,http://concepticon.clld.org/parameters/12,piiɗi,"noon, midday"
+221-288,polc1243,http://concepticon.clld.org/parameters/1807,piiɗi,afternoon
+221-124,polc1243,http://concepticon.clld.org/parameters/1629,siitə,evening
+221-686,polc1243,http://concepticon.clld.org/parameters/1283,pit goon,today
+221-134,polc1243,http://concepticon.clld.org/parameters/1283,piɗi gon,today
+221-889,polc1243,http://concepticon.clld.org/parameters/1329,tlii,tomorrow
+221-858,polc1243,http://concepticon.clld.org/parameters/1179,tlii ghə gwa,day-after-tomorrow
+221-305,polc1243,http://concepticon.clld.org/parameters/1174,mbor,yesterday
+221-427,polc1243,http://concepticon.clld.org/parameters/1180,mbuga,day-before-yesterday
+221-488,polc1243,http://concepticon.clld.org/parameters/1353,awa,hour
+221-722,polc1243,http://concepticon.clld.org/parameters/1469,saati,week
+221-843,polc1243,http://concepticon.clld.org/parameters/1697,[liitini],Monday
+221-636,polc1243,http://concepticon.clld.org/parameters/1695,Talata,Tuesday
+221-163,polc1243,http://concepticon.clld.org/parameters/1370,car,month
+221-465,polc1243,http://concepticon.clld.org/parameters/1226,shekaara,year
+221-121,polc1243,http://concepticon.clld.org/parameters/1587,ɗusuŋ,smell (vb intrans)
+221-575,polc1243,http://concepticon.clld.org/parameters/375,jaa kəmshi,sniff
+221-239,polc1243,http://concepticon.clld.org/parameters/1586,uusughi,smell (vb trans)
+221-519,polc1243,http://concepticon.clld.org/parameters/376,kəmshi,"fragrant, good smelling"
+221-169,polc1243,http://concepticon.clld.org/parameters/42,ɗusuŋi,"stinking, bad smelling"
+221-7,polc1243,http://concepticon.clld.org/parameters/21,nyaasəm,taste
+221-125,polc1243,http://concepticon.clld.org/parameters/717,təm,sweet
+221-657,polc1243,http://concepticon.clld.org/parameters/1091,kwi,salty
+221-691,polc1243,http://concepticon.clld.org/parameters/887,ɗaasə,bitter
+221-469,polc1243,http://concepticon.clld.org/parameters/1906,manzəŋai,"acid, sour"
+221-192,polc1243,http://concepticon.clld.org/parameters/70,kəŋwa,brackish
+221-602,polc1243,http://concepticon.clld.org/parameters/1408,wom,hear
+221-689,polc1243,http://concepticon.clld.org/parameters/1608,dler waagii,listen
+221-790,polc1243,http://concepticon.clld.org/parameters/1811,amo,"sound, noise"
+221-426,polc1243,http://concepticon.clld.org/parameters/377,nyap,loud
+221-91,polc1243,http://concepticon.clld.org/parameters/1314,yoghən,"quiet, silence"
+221-769,polc1243,http://concepticon.clld.org/parameters/1409,yen,see
+221-539,polc1243,http://concepticon.clld.org/parameters/1819,yeni,"look, look at"
+221-4,polc1243,http://concepticon.clld.org/parameters/1039,yenti,show
+221-936,polc1243,http://concepticon.clld.org/parameters/708,tari,shine
+221-95,polc1243,http://concepticon.clld.org/parameters/1613,[kala],color
+221-500,polc1243,http://concepticon.clld.org/parameters/250,pelaŋai,light (in color)
+221-41,polc1243,http://concepticon.clld.org/parameters/706,dzughən,dark (in color)
+221-438,polc1243,http://concepticon.clld.org/parameters/1335,faali,white
+221-666,polc1243,http://concepticon.clld.org/parameters/163,dzuŋi,black
+221-570,polc1243,http://concepticon.clld.org/parameters/156,lagham,red
+221-114,polc1243,http://concepticon.clld.org/parameters/156,laghəmi,red
+221-395,polc1243,http://concepticon.clld.org/parameters/837,shuuɗi,blue
+221-475,polc1243,http://concepticon.clld.org/parameters/1425,[koore],green
+221-615,polc1243,http://concepticon.clld.org/parameters/1424,maa mbetlim,yellow
+221-345,polc1243,http://concepticon.clld.org/parameters/1892,nduk,touch
+221-600,polc1243,http://concepticon.clld.org/parameters/378,riŋga,pinch
+221-602,polc1243,http://concepticon.clld.org/parameters/1079,wom,feel
+221-154,polc1243,http://concepticon.clld.org/parameters/1884,nyaɓi,hard
+221-344,polc1243,http://concepticon.clld.org/parameters/1856,nyapɗaŋ,soft
+221-660,polc1243,http://concepticon.clld.org/parameters/1923,woghshəp,rough
+221-606,polc1243,http://concepticon.clld.org/parameters/1234,mul,smooth
+221-318,polc1243,http://concepticon.clld.org/parameters/1396,ciighən,sharp
+221-47,polc1243,http://concepticon.clld.org/parameters/379,eeciiraŋ,"blunt, dull"
+221-339,polc1243,http://concepticon.clld.org/parameters/379,ndus,"blunt, dull"
+221-250,polc1243,http://concepticon.clld.org/parameters/1210,ŋaɓər,heavy
+221-604,polc1243,http://concepticon.clld.org/parameters/1052,həptələm,light (in weight)
+221-496,polc1243,http://concepticon.clld.org/parameters/1726,dəghi,"wet, damp"
+221-279,polc1243,http://concepticon.clld.org/parameters/1398,kuuni,dry
+221-541,polc1243,http://concepticon.clld.org/parameters/1286,ŋaani,hot
+221-541,polc1243,http://concepticon.clld.org/parameters/1232,ŋaani,warm
+221-200,polc1243,http://concepticon.clld.org/parameters/1287,rəp shimti,cold
+221-80,polc1243,http://concepticon.clld.org/parameters/1287,[sanyi],cold
+221-193,polc1243,http://concepticon.clld.org/parameters/704,tsapta,clean
+221-669,polc1243,http://concepticon.clld.org/parameters/1230,dusəkin,"dirty, soiled"
+221-264,polc1243,http://concepticon.clld.org/parameters/1230,dzuntun,"dirty, soiled"
+221-18,polc1243,http://concepticon.clld.org/parameters/380,nughur,wrinkled
+221-237,polc1243,http://concepticon.clld.org/parameters/53,səghəntə,"soul, spirit"
+221-208,polc1243,http://concepticon.clld.org/parameters/720,[saa],"good fortune, luck"
+221-472,polc1243,http://concepticon.clld.org/parameters/56,saaʔaarəŋ,"misfortune, bad luck"
+221-359,polc1243,http://concepticon.clld.org/parameters/1495,faltu,"joyful, glad, happy"
+221-956,polc1243,http://concepticon.clld.org/parameters/1355,gaatlə,laugh
+221-908,polc1243,http://concepticon.clld.org/parameters/1451,pur bəgaam dler,smile
+221-257,polc1243,http://concepticon.clld.org/parameters/1413,baatə,play
+221-85,polc1243,http://concepticon.clld.org/parameters/1413,sur,play
+221-100,polc1243,http://concepticon.clld.org/parameters/923,ndəkti,love
+221-773,polc1243,http://concepticon.clld.org/parameters/928,ruŋguma,embrace
+221-278,polc1243,http://concepticon.clld.org/parameters/1783,ciwo,pain
+221-415,polc1243,http://concepticon.clld.org/parameters/1668,dzuŋtu,"grief, sorrow, sadness"
+221-484,polc1243,http://concepticon.clld.org/parameters/1000,tlakkən,"anxiety, worry"
+221-333,polc1243,http://concepticon.clld.org/parameters/1875,sannu,"regret, be sorry"
+221-479,polc1243,http://concepticon.clld.org/parameters/1141,[tausayi],pity
+221-202,polc1243,http://concepticon.clld.org/parameters/1839,naagha,"cry, weep"
+221-243,polc1243,http://concepticon.clld.org/parameters/1651,lum,tear (noun)
+221-348,polc1243,http://concepticon.clld.org/parameters/716,[surutu],groan
+221-3,polc1243,http://concepticon.clld.org/parameters/1607,ŋgeetə,hate
+221-838,polc1243,http://concepticon.clld.org/parameters/82,maŋtə,anger
+221-525,polc1243,http://concepticon.clld.org/parameters/40,bəstu,"envy, jealousy"
+221-542,polc1243,http://concepticon.clld.org/parameters/1776,kwamlə,shame (noun)
+221-593,polc1243,http://concepticon.clld.org/parameters/174,gərtə,proud
+221-746,polc1243,http://concepticon.clld.org/parameters/1779,[kalubalanta],dare
+221-157,polc1243,http://concepticon.clld.org/parameters/3,laghəmani,brave
+221-309,polc1243,http://concepticon.clld.org/parameters/781,bərtə,"fear, fright"
+221-947,polc1243,http://concepticon.clld.org/parameters/1810,karo,danger
+221-152,polc1243,http://concepticon.clld.org/parameters/1784,ndək,"desire, want"
+221-203,polc1243,http://concepticon.clld.org/parameters/1750,kən,choose
+221-951,polc1243,http://concepticon.clld.org/parameters/1092,[paataa],hope
+221-979,polc1243,http://concepticon.clld.org/parameters/1657,gaskiya,true
+221-256,polc1243,http://concepticon.clld.org/parameters/601,loghabi,"lie, tell lies"
+221-256,polc1243,http://concepticon.clld.org/parameters/13,loghabi,deceit
+221-52,polc1243,http://concepticon.clld.org/parameters/1528,[yaafee],forgive
+221-694,polc1243,http://concepticon.clld.org/parameters/1035,mbon,good
+221-711,polc1243,http://concepticon.clld.org/parameters/1292,bəsi,bad
+221-980,polc1243,http://concepticon.clld.org/parameters/1725,deidei,"right, correct"
+221-718,polc1243,http://concepticon.clld.org/parameters/1390,deideiraŋ,wrong
+221-527,polc1243,http://concepticon.clld.org/parameters/134,[laifi],fault
+221-165,polc1243,http://concepticon.clld.org/parameters/1293,maləghən,"mistake, error"
+221-96,polc1243,http://concepticon.clld.org/parameters/381,yen yiri,blame
+221-781,polc1243,http://concepticon.clld.org/parameters/1687,[yaabaa],praise
+221-694,polc1243,http://concepticon.clld.org/parameters/1427,mbon,beautiful
+221-711,polc1243,http://concepticon.clld.org/parameters/1548,bəsi,ugly
+221-133,polc1243,http://concepticon.clld.org/parameters/2018,[haɗama],greedy
+221-440,polc1243,http://concepticon.clld.org/parameters/1310,azanci,clever
+221-116,polc1243,http://concepticon.clld.org/parameters/1562,ɓurgo gaam,mind
+221-122,polc1243,http://concepticon.clld.org/parameters/1415,[sammani],think (= reflect)
+221-122,polc1243,http://concepticon.clld.org/parameters/1513,[sammani],think (= be of the opinion)
+221-87,polc1243,http://concepticon.clld.org/parameters/1890,yarda,believe
+221-330,polc1243,http://concepticon.clld.org/parameters/1536,womwa,understand
+221-795,polc1243,http://concepticon.clld.org/parameters/1410,nəmi,know
+221-719,polc1243,http://concepticon.clld.org/parameters/1932,dak am faɗi,guess
+221-294,polc1243,http://concepticon.clld.org/parameters/117,kumtə,imitate
+221-637,polc1243,http://concepticon.clld.org/parameters/1521,eeca,seem
+221-976,polc1243,http://concepticon.clld.org/parameters/1609,[dabaara],"idea, notion"
+221-744,polc1243,http://concepticon.clld.org/parameters/698,kwaikwai,wise
+221-104,polc1243,http://concepticon.clld.org/parameters/1518,suuru,"foolish, stupid"
+221-104,polc1243,http://concepticon.clld.org/parameters/1899,suuru,"insane, crazy"
+221-578,polc1243,http://concepticon.clld.org/parameters/504,kwaləm,learn
+221-578,polc1243,http://concepticon.clld.org/parameters/709,kwaləm,teach
+221-49,polc1243,http://concepticon.clld.org/parameters/753,wun kwalləmi,pupil
+221-893,polc1243,http://concepticon.clld.org/parameters/673,[makaranta],school
+221-84,polc1243,http://concepticon.clld.org/parameters/707,taŋ,remember
+221-258,polc1243,http://concepticon.clld.org/parameters/1523,məsəŋ,forget
+221-284,polc1243,http://concepticon.clld.org/parameters/989,apiili,"clear, plain"
+221-402,polc1243,http://concepticon.clld.org/parameters/1764,vundiri,obscure
+221-825,polc1243,http://concepticon.clld.org/parameters/1121,[asiri],secret
+221-665,polc1243,http://concepticon.clld.org/parameters/509,tabbata,"sure, certain"
+221-609,polc1243,http://concepticon.clld.org/parameters/1626,tsul,explain
+221-308,polc1243,http://concepticon.clld.org/parameters/1162,nupi,"intention, purpose"
+221-372,polc1243,http://concepticon.clld.org/parameters/1162,nufi,"intention, purpose"
+221-913,polc1243,http://concepticon.clld.org/parameters/860,daliili,cause
+221-674,polc1243,http://concepticon.clld.org/parameters/1308,shakka,doubt
+221-822,polc1243,http://concepticon.clld.org/parameters/1902,[ci ama ana],betray
+221-817,polc1243,http://concepticon.clld.org/parameters/686,[sauki],easy
+221-939,polc1243,http://concepticon.clld.org/parameters/584,eeŋan,difficult
+221-275,polc1243,http://concepticon.clld.org/parameters/1812,[gwada],"try, attempt"
+221-316,polc1243,http://concepticon.clld.org/parameters/488,tsop,"way, manner"
+221-213,polc1243,http://concepticon.clld.org/parameters/1577,maa,and
+221-792,polc1243,http://concepticon.clld.org/parameters/1157,waagii caa,because
+221-350,polc1243,http://concepticon.clld.org/parameters/1157,sabo tee bə,because
+221-928,polc1243,http://concepticon.clld.org/parameters/1459,an,if
+221-515,polc1243,http://concepticon.clld.org/parameters/1014,[ko],or
+221-778,polc1243,http://concepticon.clld.org/parameters/1268,waa gii ghən,"yes, affirmative"
+221-558,polc1243,http://concepticon.clld.org/parameters/1269,aaʔaa,"no, negative"
+221-831,polc1243,http://concepticon.clld.org/parameters/1239,nii ghənə,how?
+221-434,polc1243,http://concepticon.clld.org/parameters/822,maniighənə,how many?
+221-644,polc1243,http://concepticon.clld.org/parameters/822,mani,how many?
+221-185,polc1243,http://concepticon.clld.org/parameters/531,mani-mani,how much?
+221-516,polc1243,http://concepticon.clld.org/parameters/1236,noghən no,what?
+221-289,polc1243,http://concepticon.clld.org/parameters/1238,te rəpni,when?
+221-684,polc1243,http://concepticon.clld.org/parameters/1237,ani,where?
+221-565,polc1243,http://concepticon.clld.org/parameters/727,bəgya ghənə,which?
+221-494,polc1243,http://concepticon.clld.org/parameters/1235,geenəghənə,who?
+221-614,polc1243,http://concepticon.clld.org/parameters/1270,noghən saa,why?
+221-88,polc1243,http://concepticon.clld.org/parameters/1363,yuwar,voice
+221-98,polc1243,http://concepticon.clld.org/parameters/1261,waasər,sing
+221-204,polc1243,http://concepticon.clld.org/parameters/715,dəŋ yuwar,"shout, cry out"
+221-789,polc1243,http://concepticon.clld.org/parameters/55,shige,whisper
+221-421,polc1243,http://concepticon.clld.org/parameters/128,pur bada bada,mumble
+221-48,polc1243,http://concepticon.clld.org/parameters/1025,fifiyaatə,whistle
+221-204,polc1243,http://concepticon.clld.org/parameters/298,dəŋ yuwar,"shriek, screech"
+221-863,polc1243,http://concepticon.clld.org/parameters/526,naktə,howl
+221-910,polc1243,http://concepticon.clld.org/parameters/1623,mambur,"speak, talk"
+221-167,polc1243,http://concepticon.clld.org/parameters/1866,zham,"stutter, stammer"
+221-875,polc1243,http://concepticon.clld.org/parameters/1866,zhamtə,"stutter, stammer"
+221-228,polc1243,http://concepticon.clld.org/parameters/1458,woli,say
+221-266,polc1243,http://concepticon.clld.org/parameters/1711,bə labaari,tell story
+221-588,polc1243,http://concepticon.clld.org/parameters/1115,[jawaabi],speech (make a)
+221-91,polc1243,http://concepticon.clld.org/parameters/48,yoghən,silent (be)
+221-791,polc1243,http://concepticon.clld.org/parameters/1307,bii,language
+221-910,polc1243,http://concepticon.clld.org/parameters/1599,mambur,word
+221-238,polc1243,http://concepticon.clld.org/parameters/1405,suŋ,name
+221-419,polc1243,http://concepticon.clld.org/parameters/1309,dzoni,"ask (question, inquire)"
+221-336,polc1243,http://concepticon.clld.org/parameters/1275,kaɓə,answer
+221-87,polc1243,http://concepticon.clld.org/parameters/2022,yarda,"admit, confess"
+221-506,polc1243,http://concepticon.clld.org/parameters/755,ŋgee,deny
+221-474,polc1243,http://concepticon.clld.org/parameters/1828,kam,"ask, request"
+221-640,polc1243,http://concepticon.clld.org/parameters/1675,[alkawari],promise
+221-506,polc1243,http://concepticon.clld.org/parameters/49,ŋgee,refuse
+221-62,polc1243,http://concepticon.clld.org/parameters/83,ləmtə,forbid
+221-300,polc1243,http://concepticon.clld.org/parameters/1084,[saamaci],call (=summon)
+221-489,polc1243,http://concepticon.clld.org/parameters/180,ŋgaabə,call (=name)
+221-505,polc1243,http://concepticon.clld.org/parameters/9,fowur,announce
+221-418,polc1243,http://concepticon.clld.org/parameters/1192,[barazana],threaten
+221-198,polc1243,http://concepticon.clld.org/parameters/101,kas(ə)ban,boast
+221-270,polc1243,http://concepticon.clld.org/parameters/1672,njar,write
+221-531,polc1243,http://concepticon.clld.org/parameters/724,[karanta],read
+221-692,polc1243,http://concepticon.clld.org/parameters/648,[warka],paper
+221-796,polc1243,http://concepticon.clld.org/parameters/1045,kon sər,poet
+221-922,polc1243,http://concepticon.clld.org/parameters/777,mbuzhar,flute
+221-19,polc1243,http://concepticon.clld.org/parameters/908,gaŋga,drum
+221-503,polc1243,http://concepticon.clld.org/parameters/2136,mbee,"horn, trumpet"
+221-312,polc1243,http://concepticon.clld.org/parameters/1300,atl,country
+221-619,polc1243,http://concepticon.clld.org/parameters/1391,bən,"city, town"
+221-619,polc1243,http://concepticon.clld.org/parameters/930,bən,village
+221-313,polc1243,http://concepticon.clld.org/parameters/1010,liŋ,boundary
+221-891,polc1243,http://concepticon.clld.org/parameters/789,mbaam,people (populace)
+221-156,polc1243,http://concepticon.clld.org/parameters/302,[zuuriya],"tribe, clan"
+221-441,polc1243,http://concepticon.clld.org/parameters/301,goŋ,"chief, chieftain"
+221-754,polc1243,http://concepticon.clld.org/parameters/1296,meelaŋ,"staff, walking stick"
+221-441,polc1243,http://concepticon.clld.org/parameters/1508,goŋ,"king, ruler"
+221-381,polc1243,http://concepticon.clld.org/parameters/482,daŋ mbaam,"noble, nobleman"
+221-137,polc1243,http://concepticon.clld.org/parameters/1032,mun atl,"citizen, subject"
+221-310,polc1243,http://concepticon.clld.org/parameters/1032,mun bən,"citizen, subject"
+221-241,polc1243,http://concepticon.clld.org/parameters/383,baa keen,master
+221-416,polc1243,http://concepticon.clld.org/parameters/812,ɓyak,slave
+221-901,polc1243,http://concepticon.clld.org/parameters/1635,[ladabi],obey
+221-914,polc1243,http://concepticon.clld.org/parameters/1003,tər,"let, permit"
+221-634,polc1243,http://concepticon.clld.org/parameters/1325,yerim,"friend, companion"
+221-581,polc1243,http://concepticon.clld.org/parameters/1358,ŋgaasha,enemy
+221-253,polc1243,http://concepticon.clld.org/parameters/1332,[makwabcii],neighbor
+221-411,polc1243,http://concepticon.clld.org/parameters/791,maɗak,stranger
+221-411,polc1243,http://concepticon.clld.org/parameters/1782,maɗak,guest
+221-859,polc1243,http://concepticon.clld.org/parameters/1545,rəpgi wun meese,host
+221-740,polc1243,http://concepticon.clld.org/parameters/1897,səmtire,"help, aid"
+221-827,polc1243,http://concepticon.clld.org/parameters/1550,ɗak,"hinder, prevent"
+221-561,polc1243,http://concepticon.clld.org/parameters/1747,gaado,custom
+221-572,polc1243,http://concepticon.clld.org/parameters/1848,tleridlaŋ,"strife, quarrel"
+221-639,polc1243,http://concepticon.clld.org/parameters/2024,moŋabi,"conspiracy, plot"
+221-107,polc1243,http://concepticon.clld.org/parameters/1831,maŋ,meet
+221-376,polc1243,http://concepticon.clld.org/parameters/1831,jaŋ tee tsop,meet
+221-12,polc1243,http://concepticon.clld.org/parameters/1610,pur məŋtə,prostitute
+221-57,polc1243,http://concepticon.clld.org/parameters/1423,dlaŋ,fight (vb)
+221-838,polc1243,http://concepticon.clld.org/parameters/579,maŋtə,"war, battle"
+221-981,polc1243,http://concepticon.clld.org/parameters/1338,shikkən laafiya,peace
+221-962,polc1243,http://concepticon.clld.org/parameters/1561,[soja],army
+221-962,polc1243,http://concepticon.clld.org/parameters/1941,[soja],soldier
+221-559,polc1243,http://concepticon.clld.org/parameters/951,ərəm maŋti,"weapons, arms"
+221-793,polc1243,http://concepticon.clld.org/parameters/1763,ndoktlum,club
+221-79,polc1243,http://concepticon.clld.org/parameters/386,adda,battle-ax
+221-262,polc1243,http://concepticon.clld.org/parameters/387,tlim baaro,sling
+221-799,polc1243,http://concepticon.clld.org/parameters/994,məəm,bow
+221-808,polc1243,http://concepticon.clld.org/parameters/977,pyas,arrow
+221-188,polc1243,http://concepticon.clld.org/parameters/945,gas,spear
+221-79,polc1243,http://concepticon.clld.org/parameters/1535,adda,sword
+221-430,polc1243,http://concepticon.clld.org/parameters/1061,loghət val,armor (defensive)
+221-43,polc1243,http://concepticon.clld.org/parameters/1680,taagiya kwaano,helmet
+221-509,polc1243,http://concepticon.clld.org/parameters/1064,koptəŋ,shield
+221-912,polc1243,http://concepticon.clld.org/parameters/722,yoor maŋtə,attack
+221-408,polc1243,http://concepticon.clld.org/parameters/1330,dləghəbi,defend
+221-197,polc1243,http://concepticon.clld.org/parameters/421,mənakar,retreat
+221-329,polc1243,http://concepticon.clld.org/parameters/1696,tərə yuwar,surrender
+221-416,polc1243,http://concepticon.clld.org/parameters/1072,ɓyak,"captive, prisoner"
+221-783,polc1243,http://concepticon.clld.org/parameters/1940,gaadi,"guard, sentinel"
+221-81,polc1243,http://concepticon.clld.org/parameters/1858,[suu],fisherman
+221-276,polc1243,http://concepticon.clld.org/parameters/1074,ŋgar kugiya,fishhook
+221-322,polc1243,http://concepticon.clld.org/parameters/1435,ləəp,hunt
+221-696,polc1243,http://concepticon.clld.org/parameters/1172,mbok,shoot
+221-366,polc1243,http://concepticon.clld.org/parameters/161,baala,miss (target)
+221-406,polc1243,http://concepticon.clld.org/parameters/1075,[kapito],trap (noun)
+221-71,polc1243,http://concepticon.clld.org/parameters/1062,[shariy'a],law
+221-72,polc1243,http://concepticon.clld.org/parameters/1062,[doka],law
+221-265,polc1243,http://concepticon.clld.org/parameters/1068,[kotu],court
+221-560,polc1243,http://concepticon.clld.org/parameters/1818,[yankˀe],judge (vb)
+221-697,polc1243,http://concepticon.clld.org/parameters/1818,[hukunci],judge (vb)
+221-697,polc1243,http://concepticon.clld.org/parameters/1067,[hukunci],judgment
+221-487,polc1243,http://concepticon.clld.org/parameters/861,[alkˀali],judge (noun)
+221-550,polc1243,http://concepticon.clld.org/parameters/2020,[mai kara],plaintiff
+221-661,polc1243,http://concepticon.clld.org/parameters/1034,[wanda ake kara],defendant
+221-758,polc1243,http://concepticon.clld.org/parameters/1144,[saida],witness
+221-592,polc1243,http://concepticon.clld.org/parameters/1939,[rantsuwa],swear
+221-905,polc1243,http://concepticon.clld.org/parameters/1712,[daukan alkawari],oath
+221-501,polc1243,http://concepticon.clld.org/parameters/1814,[zargi],accuse
+221-658,polc1243,http://concepticon.clld.org/parameters/484,[hukuncin kisa],condemn
+221-113,polc1243,http://concepticon.clld.org/parameters/983,[zartar da hukuncin],convict (vb)
+221-254,polc1243,http://concepticon.clld.org/parameters/988,[saki],acquit
+221-527,polc1243,http://concepticon.clld.org/parameters/1682,[laifi],guilty
+221-948,polc1243,http://concepticon.clld.org/parameters/90,[maras laifi],innocent
+221-927,polc1243,http://concepticon.clld.org/parameters/390,hooroo,"penalty, punishment"
+221-556,polc1243,http://concepticon.clld.org/parameters/218,[tara],fine
+221-189,polc1243,http://concepticon.clld.org/parameters/1281,[gidan yari],"prison, jail"
+221-784,polc1243,http://concepticon.clld.org/parameters/845,[kashe],murder
+221-668,polc1243,http://concepticon.clld.org/parameters/902,[farka],adultery
+221-664,polc1243,http://concepticon.clld.org/parameters/953,[fyaɗee],rape
+221-17,polc1243,http://concepticon.clld.org/parameters/1889,[kone-kone],arson
+221-256,polc1243,http://concepticon.clld.org/parameters/1792,loghabi,perjury
+221-236,polc1243,http://concepticon.clld.org/parameters/713,məghər,steal
+221-236,polc1243,http://concepticon.clld.org/parameters/1160,məghər,thief
+221-407,polc1243,http://concepticon.clld.org/parameters/661,caapi,religion
+221-291,polc1243,http://concepticon.clld.org/parameters/1944,leyam,God
+221-5,polc1243,http://concepticon.clld.org/parameters/911,rəp bauta,"temple, church"
+221-110,polc1243,http://concepticon.clld.org/parameters/257,[bauta],worship
+221-58,polc1243,http://concepticon.clld.org/parameters/24,kan bi,pray
+221-861,polc1243,http://concepticon.clld.org/parameters/852,buwaarə,priest
+221-172,polc1243,http://concepticon.clld.org/parameters/391,[albarka],bless
+221-141,polc1243,http://concepticon.clld.org/parameters/303,[azumi],fast (vb)
+221-894,polc1243,http://concepticon.clld.org/parameters/1565,aljanna,heaven
+221-1,polc1243,http://concepticon.clld.org/parameters/878,wuutu,hell
+221-931,polc1243,http://concepticon.clld.org/parameters/1973,[sheetan],demon (evil spirit)
+221-712,polc1243,http://concepticon.clld.org/parameters/1945,waarə,idol
+221-798,polc1243,http://concepticon.clld.org/parameters/392,məŋti,"magic, witchcraft, sorcery"
+221-26,polc1243,http://concepticon.clld.org/parameters/2137,koni məŋtə,"sorcerer, witch"
+221-464,polc1243,http://concepticon.clld.org/parameters/2137,ger məŋtə,"sorcerer, witch"
+221-75,polc1243,http://concepticon.clld.org/parameters/2138,loɗi,"fairy, elf"
+221-327,polc1243,http://concepticon.clld.org/parameters/1175,waal,"ghost, phantom"

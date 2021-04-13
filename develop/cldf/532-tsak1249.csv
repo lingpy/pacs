@@ -1,0 +1,1405 @@
+ID,Language_ID,Feature_ID,Value,Concept
+532-1084,tsak1249,http://concepticon.clld.org/parameters/965,дюн’я,world
+532-88,tsak1249,http://concepticon.clld.org/parameters/626,гьукмат,"earth, land"
+532-961,tsak1249,http://concepticon.clld.org/parameters/626,оьлке,"earth, land"
+532-408,tsak1249,http://concepticon.clld.org/parameters/1228,чІие,"earth=ground, soil"
+532-838,tsak1249,http://concepticon.clld.org/parameters/2,тоз,dust
+532-886,tsak1249,http://concepticon.clld.org/parameters/640,микь’,mud
+532-315,tsak1249,http://concepticon.clld.org/parameters/640,баттагъ’,mud
+532-173,tsak1249,http://concepticon.clld.org/parameters/671,къум,sand
+532-388,tsak1249,http://concepticon.clld.org/parameters/2118,сыва,"mountain, hill"
+532-837,tsak1249,http://concepticon.clld.org/parameters/618,кьырыч,"cliff, precipice"
+532-572,tsak1249,http://concepticon.clld.org/parameters/652,дюз,"plain, field"
+532-259,tsak1249,http://concepticon.clld.org/parameters/652,нок’,"plain, field"
+532-1111,tsak1249,http://concepticon.clld.org/parameters/921,дера,valley
+532-440,tsak1249,http://concepticon.clld.org/parameters/622,ада,island
+532-670,tsak1249,http://concepticon.clld.org/parameters/166,кантинент,mainland
+532-985,tsak1249,http://concepticon.clld.org/parameters/113,чейлягъ,shore
+532-19,tsak1249,http://concepticon.clld.org/parameters/1155,кугьли,cave
+532-521,tsak1249,http://concepticon.clld.org/parameters/948,хьян,water
+532-314,tsak1249,http://concepticon.clld.org/parameters/948,хь'ан,water
+532-1183,tsak1249,http://concepticon.clld.org/parameters/1474,деръя,sea
+532-307,tsak1249,http://concepticon.clld.org/parameters/258,динджина (деръя),calm (of sea)
+532-1131,tsak1249,http://concepticon.clld.org/parameters/259,мыртаршиквана,rough (of sea)
+532-1233,tsak1249,http://concepticon.clld.org/parameters/259,мырторшикона (деръя),rough (of sea)
+532-328,tsak1249,http://concepticon.clld.org/parameters/1768,хурт,foam
+532-1058,tsak1249,http://concepticon.clld.org/parameters/645,океан,ocean
+532-376,tsak1249,http://concepticon.clld.org/parameters/624,гол’,lake
+532-923,tsak1249,http://concepticon.clld.org/parameters/663,сан,"gulf, bay"
+532-461,tsak1249,http://concepticon.clld.org/parameters/623,сувотIкIурин хьян,lagoon
+532-547,tsak1249,http://concepticon.clld.org/parameters/660,хьинек абывна ганз,reef
+532-954,tsak1249,http://concepticon.clld.org/parameters/1662,—,"headland, point"
+532-295,tsak1249,http://concepticon.clld.org/parameters/978,ляпа,wave
+532-1155,tsak1249,http://concepticon.clld.org/parameters/891,деръян далгъа хъабый ва абкIыний,tide
+532-842,tsak1249,http://concepticon.clld.org/parameters/1026,далгъа абкIыний,lowtide
+532-25,tsak1249,http://concepticon.clld.org/parameters/613,далгъа хъабый,hightide
+532-715,tsak1249,http://concepticon.clld.org/parameters/666,дама,"river, stream, brook"
+532-1100,tsak1249,http://concepticon.clld.org/parameters/666,араг,"river, stream, brook"
+532-860,tsak1249,http://concepticon.clld.org/parameters/1982,гурулдав,whirlpool
+532-612,tsak1249,http://concepticon.clld.org/parameters/2144,былах,"spring, well"
+532-343,tsak1249,http://concepticon.clld.org/parameters/2144,кегьриз,"spring, well"
+532-1234,tsak1249,http://concepticon.clld.org/parameters/1145,павалчІукь,swamp
+532-860,tsak1249,http://concepticon.clld.org/parameters/943,гурулдав,waterfall
+532-826,tsak1249,http://concepticon.clld.org/parameters/420,чІалаг,"woods, forest"
+532-387,tsak1249,http://concepticon.clld.org/parameters/906,йив,tree (cf 08.600)
+532-529,tsak1249,http://concepticon.clld.org/parameters/1803,ос,wood
+532-843,tsak1249,http://concepticon.clld.org/parameters/2125,къае,"stone, rock"
+532-659,tsak1249,http://concepticon.clld.org/parameters/6,чиеби ийкырый,earthquake
+532-1052,tsak1249,http://concepticon.clld.org/parameters/1732,хавай,sky
+532-1026,tsak1249,http://concepticon.clld.org/parameters/1343,виригъ,sun
+532-1227,tsak1249,http://concepticon.clld.org/parameters/1313,ваз,moon
+532-210,tsak1249,http://concepticon.clld.org/parameters/1430,хане,star
+532-1159,tsak1249,http://concepticon.clld.org/parameters/1654,йирдылым,lightning
+532-1110,tsak1249,http://concepticon.clld.org/parameters/1150,хайби гъаватхъыний,thunder
+532-1047,tsak1249,http://concepticon.clld.org/parameters/2007,йирдылым хъидхьыр,lightning (as striking)
+532-297,tsak1249,http://concepticon.clld.org/parameters/858,тІуфан,storm
+532-308,tsak1249,http://concepticon.clld.org/parameters/1733,халяваз,rainbow
+532-142,tsak1249,http://concepticon.clld.org/parameters/630,ишигъ,light (noun)
+532-732,tsak1249,http://concepticon.clld.org/parameters/11,мычІахыйвалла,darkness
+532-726,tsak1249,http://concepticon.clld.org/parameters/11,зурмат,darkness
+532-292,tsak1249,http://concepticon.clld.org/parameters/1388,ахъ,"shade, shadow"
+532-296,tsak1249,http://concepticon.clld.org/parameters/1977,чий,dew
+532-964,tsak1249,http://concepticon.clld.org/parameters/27,гьава,air
+532-469,tsak1249,http://concepticon.clld.org/parameters/960,куляк,wind
+532-875,tsak1249,http://concepticon.clld.org/parameters/1489,гымыл’,cloud
+532-154,tsak1249,http://concepticon.clld.org/parameters/249,чамра,fog
+532-915,tsak1249,http://concepticon.clld.org/parameters/658,гёгъуй,rain (noun)
+532-390,tsak1249,http://concepticon.clld.org/parameters/784,йиз,snow (noun)
+532-536,tsak1249,http://concepticon.clld.org/parameters/617,мык,ice
+532-964,tsak1249,http://concepticon.clld.org/parameters/952,гьава,weather
+532-746,tsak1249,http://concepticon.clld.org/parameters/221,цІа,fire
+532-671,tsak1249,http://concepticon.clld.org/parameters/889,ялав,flame (noun)
+532-717,tsak1249,http://concepticon.clld.org/parameters/778,кума,smoke (noun)
+532-1108,tsak1249,http://concepticon.clld.org/parameters/646,пІапІрысана йихъ,ashes
+532-680,tsak1249,http://concepticon.clld.org/parameters/67,къызгъунин гІадырбы,embers
+532-378,tsak1249,http://concepticon.clld.org/parameters/141,гёхьанаъаз,burn (vb trans)
+532-614,tsak1249,http://concepticon.clld.org/parameters/1428,гёхьаназ,burn (vb intrans)
+532-1179,tsak1249,http://concepticon.clld.org/parameters/737,хъагьаз,"light, kindle, ignite"
+532-127,tsak1249,http://concepticon.clld.org/parameters/127,кІятхъаъаз,extinguish
+532-753,tsak1249,http://concepticon.clld.org/parameters/1133,ишпишкІа,match (noun)
+532-819,tsak1249,http://concepticon.clld.org/parameters/10,осби,firewood
+532-683,tsak1249,http://concepticon.clld.org/parameters/1188,гІадыр,charcoal
+532-166,tsak1249,http://concepticon.clld.org/parameters/683,инсан,"person, human being"
+532-115,tsak1249,http://concepticon.clld.org/parameters/1554,адами,man (vs. woman)
+532-487,tsak1249,http://concepticon.clld.org/parameters/962,хьунаще,woman
+532-796,tsak1249,http://concepticon.clld.org/parameters/2263,выгІыл’на,male
+532-784,tsak1249,http://concepticon.clld.org/parameters/2260,xьывыл’на,female
+532-1000,tsak1249,http://concepticon.clld.org/parameters/1366,гадя,boy
+532-218,tsak1249,http://concepticon.clld.org/parameters/76,джегьил инсан,young man (adolescent)
+532-679,tsak1249,http://concepticon.clld.org/parameters/1646,ичилай,girl
+532-679,tsak1249,http://concepticon.clld.org/parameters/77,ичилай,young woman (adolescent)
+532-901,tsak1249,http://concepticon.clld.org/parameters/1304,набалигъ,child
+532-682,tsak1249,http://concepticon.clld.org/parameters/1289,чагъа,"infant, baby"
+532-115,tsak1249,http://concepticon.clld.org/parameters/1200,адами,husband
+532-487,tsak1249,http://concepticon.clld.org/parameters/1199,хьунаще,wife
+532-1097,tsak1249,http://concepticon.clld.org/parameters/203,адамийз йихъаз,marry
+532-175,tsak1249,http://concepticon.clld.org/parameters/1259,даватби,"marriage, wedding"
+532-588,tsak1249,http://concepticon.clld.org/parameters/1134,джуравхьай,divorce
+532-963,tsak1249,http://concepticon.clld.org/parameters/1217,дак’,father
+532-629,tsak1249,http://concepticon.clld.org/parameters/1216,ед’,mother
+532-758,tsak1249,http://concepticon.clld.org/parameters/505,дак’ий-ед’ий,parents
+532-40,tsak1249,http://concepticon.clld.org/parameters/424,хьунащенана,married man
+532-941,tsak1249,http://concepticon.clld.org/parameters/426,адаминана,married woman
+532-1132,tsak1249,http://concepticon.clld.org/parameters/1620,дих’,son
+532-453,tsak1249,http://concepticon.clld.org/parameters/1357,йиш,daughter
+532-1249,tsak1249,http://concepticon.clld.org/parameters/1801,кул’фат,offspring (son or daughter)
+532-561,tsak1249,http://concepticon.clld.org/parameters/1262,чодж,brother
+532-319,tsak1249,http://concepticon.clld.org/parameters/1759,харна чодж,older brother
+532-325,tsak1249,http://concepticon.clld.org/parameters/1760,кІылна чодж,younger brother
+532-44,tsak1249,http://concepticon.clld.org/parameters/1263,йичи,sister
+532-929,tsak1249,http://concepticon.clld.org/parameters/1758,харна йичи,older sister
+532-391,tsak1249,http://concepticon.clld.org/parameters/1761,кІылна йичи,younger sister
+532-561,tsak1249,http://concepticon.clld.org/parameters/1640,чодж,sibling
+532-44,tsak1249,http://concepticon.clld.org/parameters/1640,йичи,sibling
+532-520,tsak1249,http://concepticon.clld.org/parameters/1005,кьымкелер,twins
+532-1148,tsak1249,http://concepticon.clld.org/parameters/1383,дядяй,grandfather
+532-1229,tsak1249,http://concepticon.clld.org/parameters/406,къожя,old man
+532-394,tsak1249,http://concepticon.clld.org/parameters/1496,адяй,grandmother
+532-2,tsak1249,http://concepticon.clld.org/parameters/907,къари,old woman
+532-70,tsak1249,http://concepticon.clld.org/parameters/1618,нева,grandson
+532-558,tsak1249,http://concepticon.clld.org/parameters/1618,хыдыл’,grandson
+532-70,tsak1249,http://concepticon.clld.org/parameters/1619,нева,granddaughter
+532-558,tsak1249,http://concepticon.clld.org/parameters/1619,хыдыл’,granddaughter
+532-1230,tsak1249,http://concepticon.clld.org/parameters/1327,дайи,uncle
+532-1230,tsak1249,http://concepticon.clld.org/parameters/1984,дайи,mother's brother
+532-405,tsak1249,http://concepticon.clld.org/parameters/1985,эми,father's brother
+532-1087,tsak1249,http://concepticon.clld.org/parameters/1272,хала,aunt
+532-1087,tsak1249,http://concepticon.clld.org/parameters/171,хала,mother's sister
+532-164,tsak1249,http://concepticon.clld.org/parameters/170,мама,father's sister
+532-558,tsak1249,http://concepticon.clld.org/parameters/1063,хыдыл’,nephew
+532-558,tsak1249,http://concepticon.clld.org/parameters/1642,хыдыл’,niece
+532-998,tsak1249,http://concepticon.clld.org/parameters/1643,дайиогъли,cousin
+532-267,tsak1249,http://concepticon.clld.org/parameters/1643,мамаогъли,cousin
+532-93,tsak1249,http://concepticon.clld.org/parameters/1669,касни дакина дак,ancestors
+532-467,tsak1249,http://concepticon.clld.org/parameters/490,нетиджебы,descendants
+532-5,tsak1249,http://concepticon.clld.org/parameters/490,кок,descendants
+532-225,tsak1249,http://concepticon.clld.org/parameters/2255,абатяй,father-in-law (of a man)
+532-330,tsak1249,http://concepticon.clld.org/parameters/2254,къайин атаси,father-in-law (of a woman)
+532-421,tsak1249,http://concepticon.clld.org/parameters/2256,абай,mother-in-law (of a man)
+532-421,tsak1249,http://concepticon.clld.org/parameters/2257,абай,mother-in-law (of a woman)
+532-248,tsak1249,http://concepticon.clld.org/parameters/2267,язна,son-in-law (of a man)
+532-248,tsak1249,http://concepticon.clld.org/parameters/2266,язна,son-in-law (of a woman)
+532-643,tsak1249,http://concepticon.clld.org/parameters/2265,сос,daughter-in-law (of a man)
+532-643,tsak1249,http://concepticon.clld.org/parameters/2264,сос,daughter-in-law (of a woman)
+532-678,tsak1249,http://concepticon.clld.org/parameters/2264,истагъ,daughter-in-law (of a woman)
+532-974,tsak1249,http://concepticon.clld.org/parameters/237,давыхна дак’,stepfather
+532-64,tsak1249,http://concepticon.clld.org/parameters/236,давыхна ед’,stepmother
+532-898,tsak1249,http://concepticon.clld.org/parameters/1059,давыхна дих’,stepson
+532-503,tsak1249,http://concepticon.clld.org/parameters/1058,давыхна йиш,stepdaughter
+532-522,tsak1249,http://concepticon.clld.org/parameters/1149,еттим,orphan
+532-934,tsak1249,http://concepticon.clld.org/parameters/1756,сипІыри,widow
+532-934,tsak1249,http://concepticon.clld.org/parameters/1981,сипІыри,widower
+532-1093,tsak1249,http://concepticon.clld.org/parameters/1644,хыниби,"relatives, kinsmen"
+532-767,tsak1249,http://concepticon.clld.org/parameters/194,хизан,family
+532-560,tsak1249,http://concepticon.clld.org/parameters/1209,зы,I
+532-34,tsak1249,http://concepticon.clld.org/parameters/1215,гъу,you (singular)
+532-519,tsak1249,http://concepticon.clld.org/parameters/262,мана,he/she/it
+532-1080,tsak1249,http://concepticon.clld.org/parameters/1212,шиби,we
+532-954,tsak1249,http://concepticon.clld.org/parameters/1131,—,we (inclusive)
+532-954,tsak1249,http://concepticon.clld.org/parameters/1130,—,we (exclusive)
+532-1035,tsak1249,http://concepticon.clld.org/parameters/1213,шу,you (plural)
+532-239,tsak1249,http://concepticon.clld.org/parameters/817,мамби,they
+532-1008,tsak1249,http://concepticon.clld.org/parameters/619,гьайван,animal
+532-750,tsak1249,http://concepticon.clld.org/parameters/2261,адамершин’,male (adj)
+532-202,tsak1249,http://concepticon.clld.org/parameters/2262,хьунащершин’,female (adj)
+532-100,tsak1249,http://concepticon.clld.org/parameters/631,малкъара,livestock
+532-468,tsak1249,http://concepticon.clld.org/parameters/649,оруш,pasture
+532-1027,tsak1249,http://concepticon.clld.org/parameters/263,чобан,herdsman
+532-870,tsak1249,http://concepticon.clld.org/parameters/263,пешекар,herdsman
+532-114,tsak1249,http://concepticon.clld.org/parameters/851,йицІа,"stable, stall"
+532-327,tsak1249,http://concepticon.clld.org/parameters/851,ахар,"stable, stall"
+532-658,tsak1249,http://concepticon.clld.org/parameters/851,агъли,"stable, stall"
+532-770,tsak1249,http://concepticon.clld.org/parameters/1153,чавра,cattle (bovine)
+532-1002,tsak1249,http://concepticon.clld.org/parameters/1008,яц,bull
+532-1030,tsak1249,http://concepticon.clld.org/parameters/1008,бугъай,bull
+532-1002,tsak1249,http://concepticon.clld.org/parameters/1169,яц,ox
+532-820,tsak1249,http://concepticon.clld.org/parameters/1007,зяр,cow
+532-419,tsak1249,http://concepticon.clld.org/parameters/1989,кьыка,calf
+532-171,tsak1249,http://concepticon.clld.org/parameters/1331,даварар,sheep
+532-765,tsak1249,http://concepticon.clld.org/parameters/1344,гъарг,ram
+532-246,tsak1249,http://concepticon.clld.org/parameters/1345,вокьа,ewe
+532-291,tsak1249,http://concepticon.clld.org/parameters/820,гев,lamb
+532-381,tsak1249,http://concepticon.clld.org/parameters/1348,кьабан,boar
+532-302,tsak1249,http://concepticon.clld.org/parameters/1351,вок хьывынна,sow (2)
+532-651,tsak1249,http://concepticon.clld.org/parameters/1337,вок,pig
+532-18,tsak1249,http://concepticon.clld.org/parameters/1502,цІэъ,goat
+532-99,tsak1249,http://concepticon.clld.org/parameters/1502,кьына,goat
+532-129,tsak1249,http://concepticon.clld.org/parameters/264,цяы,he-goat
+532-599,tsak1249,http://concepticon.clld.org/parameters/1972,чепич,kid
+532-1067,tsak1249,http://concepticon.clld.org/parameters/615,балкан,horse (equine)
+532-727,tsak1249,http://concepticon.clld.org/parameters/936,айгъыр,stallion
+532-288,tsak1249,http://concepticon.clld.org/parameters/938,мад’ян,mare
+532-1250,tsak1249,http://concepticon.clld.org/parameters/1647,уръя,"foal, colt"
+532-865,tsak1249,http://concepticon.clld.org/parameters/1862,амале,"ass, donkey"
+532-803,tsak1249,http://concepticon.clld.org/parameters/890,къатир,mule
+532-153,tsak1249,http://concepticon.clld.org/parameters/265,хаван къушер,fowl
+532-592,tsak1249,http://concepticon.clld.org/parameters/1511,дадал,"cock, rooster"
+532-1090,tsak1249,http://concepticon.clld.org/parameters/1514,кІатІе,hen
+532-980,tsak1249,http://concepticon.clld.org/parameters/1318,джюдже,chicken
+532-845,tsak1249,http://concepticon.clld.org/parameters/1187,къаз,goose
+532-337,tsak1249,http://concepticon.clld.org/parameters/1360,ордяг,duck
+532-35,tsak1249,http://concepticon.clld.org/parameters/539,юва,nest
+532-551,tsak1249,http://concepticon.clld.org/parameters/937,шикIей,bird
+532-1161,tsak1249,http://concepticon.clld.org/parameters/950,чайка,seagull
+532-20,tsak1249,http://concepticon.clld.org/parameters/758,гьажилеглег,heron
+532-774,tsak1249,http://concepticon.clld.org/parameters/1905,чалагьан,eagle
+532-1003,tsak1249,http://concepticon.clld.org/parameters/307,кьажир,hawk
+532-204,tsak1249,http://concepticon.clld.org/parameters/307,лачин,hawk
+532-1003,tsak1249,http://concepticon.clld.org/parameters/1185,кьажир,vulture
+532-1187,tsak1249,http://concepticon.clld.org/parameters/1793,шипІехир,bat
+532-1004,tsak1249,http://concepticon.clld.org/parameters/882,папугай,parrot
+532-354,tsak1249,http://concepticon.clld.org/parameters/913,къарахъан,crow
+532-1079,tsak1249,http://concepticon.clld.org/parameters/1853,нурхьай,dove
+532-1119,tsak1249,http://concepticon.clld.org/parameters/735,байгъуш,owl
+532-554,tsak1249,http://concepticon.clld.org/parameters/2009,хвае,dog
+532-802,tsak1249,http://concepticon.clld.org/parameters/1136,гъые,rabbit
+532-29,tsak1249,http://concepticon.clld.org/parameters/1208,бессий,cat
+532-954,tsak1249,http://concepticon.clld.org/parameters/309,—,opossum
+532-1105,tsak1249,http://concepticon.clld.org/parameters/2139,кьов,"mouse, rat"
+532-147,tsak1249,http://concepticon.clld.org/parameters/227,балугъ,fish
+532-922,tsak1249,http://concepticon.clld.org/parameters/213,къанат,fin (dorsal)
+532-1246,tsak1249,http://concepticon.clld.org/parameters/266,кан,fishscale
+532-207,tsak1249,http://concepticon.clld.org/parameters/1916,гъаптамабы,gill
+532-1028,tsak1249,http://concepticon.clld.org/parameters/598,хатен кІыры,shell
+532-52,tsak1249,http://concepticon.clld.org/parameters/1110,акула,shark
+532-891,tsak1249,http://concepticon.clld.org/parameters/1479,дельфин,"porpoise, dolphin"
+532-863,tsak1249,http://concepticon.clld.org/parameters/957,кит,whale
+532-317,tsak1249,http://concepticon.clld.org/parameters/1910,деръяна абын,stingray
+532-954,tsak1249,http://concepticon.clld.org/parameters/1013,—,freshwater eel
+532-449,tsak1249,http://concepticon.clld.org/parameters/522,джанавар,wolf
+532-738,tsak1249,http://concepticon.clld.org/parameters/1386,аслан,lion
+532-660,tsak1249,http://concepticon.clld.org/parameters/1820,сой,bear
+532-697,tsak1249,http://concepticon.clld.org/parameters/1312,сирацІа,fox
+532-263,tsak1249,http://concepticon.clld.org/parameters/1936,марал,deer
+532-428,tsak1249,http://concepticon.clld.org/parameters/1350,маймын’,monkey
+532-763,tsak1249,http://concepticon.clld.org/parameters/1290,фил,elephant
+532-851,tsak1249,http://concepticon.clld.org/parameters/1871,дева,camel
+532-977,tsak1249,http://concepticon.clld.org/parameters/620,быркьыняш,insect
+532-764,tsak1249,http://concepticon.clld.org/parameters/310,вихь,louse
+532-122,tsak1249,http://concepticon.clld.org/parameters/267,нат,nit (louse egg)
+532-293,tsak1249,http://concepticon.clld.org/parameters/232,чин,flea
+532-177,tsak1249,http://concepticon.clld.org/parameters/1974,ёкцIал гъел’няан,centipede
+532-881,tsak1249,http://concepticon.clld.org/parameters/1538,акьраб,scorpion
+532-373,tsak1249,http://concepticon.clld.org/parameters/1575,таракан,cockroach
+532-1251,tsak1249,http://concepticon.clld.org/parameters/587,семселе,ant
+532-940,tsak1249,http://concepticon.clld.org/parameters/843,гиндараг,spider
+532-805,tsak1249,http://concepticon.clld.org/parameters/1065,тор,spider web
+532-640,tsak1249,http://concepticon.clld.org/parameters/665,тІотІ итуана,bee
+532-509,tsak1249,http://concepticon.clld.org/parameters/1931,мох,beeswax
+532-365,tsak1249,http://concepticon.clld.org/parameters/88,геже,beehive
+532-882,tsak1249,http://concepticon.clld.org/parameters/1517,нацахІа,wasp
+532-542,tsak1249,http://concepticon.clld.org/parameters/1504,быркьына тІотІ,fly
+532-1046,tsak1249,http://concepticon.clld.org/parameters/95,мычак,"sandfly (midge), gnat"
+532-1046,tsak1249,http://concepticon.clld.org/parameters/1509,мычак,mosquito
+532-287,tsak1249,http://concepticon.clld.org/parameters/1219,мухъ,worm
+532-1116,tsak1249,http://concepticon.clld.org/parameters/730,хоче,snake
+532-908,tsak1249,http://concepticon.clld.org/parameters/206,ишигъдавыз,firefly
+532-694,tsak1249,http://concepticon.clld.org/parameters/1791,гаккабай,butterfly
+532-109,tsak1249,http://concepticon.clld.org/parameters/607,цІит’,grasshopper
+532-576,tsak1249,http://concepticon.clld.org/parameters/1543,роче,snail
+532-135,tsak1249,http://concepticon.clld.org/parameters/503,палхъай,frog
+532-431,tsak1249,http://concepticon.clld.org/parameters/632,бынек’,lizard
+532-526,tsak1249,http://concepticon.clld.org/parameters/1857,илян-аждагьа,"crocodile, alligator"
+532-613,tsak1249,http://concepticon.clld.org/parameters/112,тысбагъа,turtle
+532-1158,tsak1249,http://concepticon.clld.org/parameters/1480,джан,body
+532-1141,tsak1249,http://concepticon.clld.org/parameters/763,кьабых,"skin, hide"
+532-631,tsak1249,http://concepticon.clld.org/parameters/2259,ч’ан,flesh
+532-86,tsak1249,http://concepticon.clld.org/parameters/1040,вукьлелин чІар,hair (head)
+532-1248,tsak1249,http://concepticon.clld.org/parameters/678,саххъал,beard
+532-458,tsak1249,http://concepticon.clld.org/parameters/189,йис,body hair
+532-458,tsak1249,http://concepticon.clld.org/parameters/36,йис,pubic hair
+532-338,tsak1249,http://concepticon.clld.org/parameters/576,харх,dandruff
+532-1182,tsak1249,http://concepticon.clld.org/parameters/946,эби,blood
+532-1193,tsak1249,http://concepticon.clld.org/parameters/525,дамар,"vein, artery"
+532-222,tsak1249,http://concepticon.clld.org/parameters/1394,баркІ,bone
+532-541,tsak1249,http://concepticon.clld.org/parameters/801,муглена тІеле,rib
+532-416,tsak1249,http://concepticon.clld.org/parameters/1393,гач,horn
+532-1189,tsak1249,http://concepticon.clld.org/parameters/1220,быт’,tail
+532-300,tsak1249,http://concepticon.clld.org/parameters/1291,йикь,back
+532-718,tsak1249,http://concepticon.clld.org/parameters/805,йикьана сини,spine
+532-105,tsak1249,http://concepticon.clld.org/parameters/1256,вукьул’,head
+532-1173,tsak1249,http://concepticon.clld.org/parameters/1604,кІунт’,"side of head, temple"
+532-1207,tsak1249,http://concepticon.clld.org/parameters/1605,кьафа,skull
+532-411,tsak1249,http://concepticon.clld.org/parameters/1583,магь,brain
+532-666,tsak1249,http://concepticon.clld.org/parameters/1560,акьва,face
+532-806,tsak1249,http://concepticon.clld.org/parameters/1560,акьо,face
+532-579,tsak1249,http://concepticon.clld.org/parameters/123,лига,forehead
+532-318,tsak1249,http://concepticon.clld.org/parameters/798,ченя,jaw
+532-839,tsak1249,http://concepticon.clld.org/parameters/1730,дан,cheek
+532-470,tsak1249,http://concepticon.clld.org/parameters/1510,кьацІ,chin
+532-7,tsak1249,http://concepticon.clld.org/parameters/1248,ул’,eye
+532-793,tsak1249,http://concepticon.clld.org/parameters/1173,къаш,eyebrow
+532-479,tsak1249,http://concepticon.clld.org/parameters/17,кІакІ,eyelid
+532-479,tsak1249,http://concepticon.clld.org/parameters/1540,кІакІ,eyelash
+532-321,tsak1249,http://concepticon.clld.org/parameters/1655,цыхы хъихьез,blink
+532-1226,tsak1249,http://concepticon.clld.org/parameters/1247,кІыры,ear
+532-528,tsak1249,http://concepticon.clld.org/parameters/18,кІырыйна мит’,earlobe
+532-773,tsak1249,http://concepticon.clld.org/parameters/32,кІырыйна пердя,earwax
+532-205,tsak1249,http://concepticon.clld.org/parameters/1221,хъов,nose
+532-924,tsak1249,http://concepticon.clld.org/parameters/1178,хъован’ кІырыби,nostril
+532-466,tsak1249,http://concepticon.clld.org/parameters/208,хъыІшытІ,mucus (nasal)
+532-950,tsak1249,http://concepticon.clld.org/parameters/208,кьыхь,mucus (nasal)
+532-481,tsak1249,http://concepticon.clld.org/parameters/674,гІал’,mouth
+532-74,tsak1249,http://concepticon.clld.org/parameters/73,бокІ,beak
+532-513,tsak1249,http://concepticon.clld.org/parameters/478,пІыз,lip
+532-1196,tsak1249,http://concepticon.clld.org/parameters/1205,миз,tongue
+532-282,tsak1249,http://concepticon.clld.org/parameters/1380,сили,tooth
+532-580,tsak1249,http://concepticon.clld.org/parameters/139,кокар,gums
+532-535,tsak1249,http://concepticon.clld.org/parameters/1049,адын’ сили,molartooth
+532-1036,tsak1249,http://concepticon.clld.org/parameters/1333,бугъаз,neck
+532-1066,tsak1249,http://concepticon.clld.org/parameters/1347,гардан,nape of neck
+532-1036,tsak1249,http://concepticon.clld.org/parameters/1346,бугъаз,throat
+532-271,tsak1249,http://concepticon.clld.org/parameters/1346,кьархам,throat
+532-959,tsak1249,http://concepticon.clld.org/parameters/1482,мыга,shoulder
+532-752,tsak1249,http://concepticon.clld.org/parameters/172,куракби,shoulderblade
+532-719,tsak1249,http://concepticon.clld.org/parameters/1994,мыгана тІына,collarbone
+532-644,tsak1249,http://concepticon.clld.org/parameters/1673,хыл’,arm
+532-1042,tsak1249,http://concepticon.clld.org/parameters/1886,хьат’хьал’,armpit
+532-339,tsak1249,http://concepticon.clld.org/parameters/981,хылляккам,elbow
+532-264,tsak1249,http://concepticon.clld.org/parameters/799,агьна,wrist
+532-644,tsak1249,http://concepticon.clld.org/parameters/1277,хыл’,hand
+532-132,tsak1249,http://concepticon.clld.org/parameters/1183,кьаняк,palm of hand
+532-130,tsak1249,http://concepticon.clld.org/parameters/1303,хылена тІыб,finger
+532-776,tsak1249,http://concepticon.clld.org/parameters/1781,хамна тІыб,thumb
+532-169,tsak1249,http://concepticon.clld.org/parameters/1258,хьымнара,fingernail
+532-1074,tsak1249,http://concepticon.clld.org/parameters/72,калянчІби,claw
+532-823,tsak1249,http://concepticon.clld.org/parameters/1297,гъел’,leg
+532-448,tsak1249,http://concepticon.clld.org/parameters/800,ума,thigh
+532-681,tsak1249,http://concepticon.clld.org/parameters/498,зом,calf of leg
+532-399,tsak1249,http://concepticon.clld.org/parameters/1371,кьараца,knee
+532-912,tsak1249,http://concepticon.clld.org/parameters/1301,кIутни,foot
+532-1171,tsak1249,http://concepticon.clld.org/parameters/803,быркьына кІуну,ankle
+532-244,tsak1249,http://concepticon.clld.org/parameters/980,мукьли,heel
+532-982,tsak1249,http://concepticon.clld.org/parameters/318,гов,footprint
+532-430,tsak1249,http://concepticon.clld.org/parameters/1389,гъелина тІыб,toe
+532-922,tsak1249,http://concepticon.clld.org/parameters/1257,къанат,wing
+532-124,tsak1249,http://concepticon.clld.org/parameters/1201,висын’,feather
+532-361,tsak1249,http://concepticon.clld.org/parameters/1592,кокси,chest
+532-284,tsak1249,http://concepticon.clld.org/parameters/1402,муху,breast (of woman)
+532-808,tsak1249,http://concepticon.clld.org/parameters/796,мит’,"nipple, teat"
+532-409,tsak1249,http://concepticon.clld.org/parameters/154,хо,udder
+532-839,tsak1249,http://concepticon.clld.org/parameters/1838,дан,navel
+532-635,tsak1249,http://concepticon.clld.org/parameters/1223,йикІ’,heart
+532-751,tsak1249,http://concepticon.clld.org/parameters/688,опкя,lung
+532-701,tsak1249,http://concepticon.clld.org/parameters/1224,багъыр опкя,liver
+532-921,tsak1249,http://concepticon.clld.org/parameters/489,кІутІун’,kidney
+532-605,tsak1249,http://concepticon.clld.org/parameters/1744,кІзей,spleen
+532-304,tsak1249,http://concepticon.clld.org/parameters/819,маъда,stomach
+532-206,tsak1249,http://concepticon.clld.org/parameters/1991,кьыхьина выр,"intestines, guts"
+532-1112,tsak1249,http://concepticon.clld.org/parameters/1681,гьыкен’ йикь,waist
+532-146,tsak1249,http://concepticon.clld.org/parameters/1745,буд,hip
+532-262,tsak1249,http://concepticon.clld.org/parameters/834,хап,buttocks
+532-943,tsak1249,http://concepticon.clld.org/parameters/804,акІур,womb
+532-161,tsak1249,http://concepticon.clld.org/parameters/797,кьылыкь,testicle
+532-1062,tsak1249,http://concepticon.clld.org/parameters/1222,чук,penis
+532-1206,tsak1249,http://concepticon.clld.org/parameters/1222,ситир,penis
+532-476,tsak1249,http://concepticon.clld.org/parameters/1407,нафасгьиез,"breathe, breath"
+532-380,tsak1249,http://concepticon.clld.org/parameters/1028,гІал’ гьаъаз,"yawn, gape"
+532-893,tsak1249,http://concepticon.clld.org/parameters/162,гьыкІилдамишхьез,hiccough
+532-493,tsak1249,http://concepticon.clld.org/parameters/879,кІоссагьиваъаз,cough
+532-1106,tsak1249,http://concepticon.clld.org/parameters/1621,гьабчихьаъаз,sneeze
+532-748,tsak1249,http://concepticon.clld.org/parameters/126,шиннамишхьез,perspire
+532-1123,tsak1249,http://concepticon.clld.org/parameters/1440,тю гьаъаз,spit
+532-138,tsak1249,http://concepticon.clld.org/parameters/1278,сафра гъаляъаз,vomit
+532-471,tsak1249,http://concepticon.clld.org/parameters/1403,ацІокІоназ,bite
+532-1091,tsak1249,http://concepticon.clld.org/parameters/319,мизамбгъоз,lick
+532-524,tsak1249,http://concepticon.clld.org/parameters/268,рыхь гьаъаз,dribble
+532-1092,tsak1249,http://concepticon.clld.org/parameters/1585,гъалихьаз,sleep
+532-1209,tsak1249,http://concepticon.clld.org/parameters/1983,хъурхаъаз,snore
+532-1237,tsak1249,http://concepticon.clld.org/parameters/1920,някь гъажез,dream
+532-1021,tsak1249,http://concepticon.clld.org/parameters/1602,гъумургъихьез,wake up
+532-447,tsak1249,http://concepticon.clld.org/parameters/1159,хьив авгьуз,break wind
+532-854,tsak1249,http://concepticon.clld.org/parameters/592,цирхь гьаъаз,urinate
+532-335,tsak1249,http://concepticon.clld.org/parameters/676,хыІн гьаъаз,defecate
+532-695,tsak1249,http://concepticon.clld.org/parameters/1785,гьиъикказ,have sexual intercourse
+532-185,tsak1249,http://concepticon.clld.org/parameters/52,эсмишеъаз,shiver
+532-85,tsak1249,http://concepticon.clld.org/parameters/138,айхараз,bathe
+532-375,tsak1249,http://concepticon.clld.org/parameters/1152,гьаъаз,beget (of father)
+532-914,tsak1249,http://concepticon.clld.org/parameters/1090,ихыз,born (to be)
+532-661,tsak1249,http://concepticon.clld.org/parameters/1123,ухьнена,pregnant
+532-800,tsak1249,http://concepticon.clld.org/parameters/1087,ухьненаз,conceive
+532-496,tsak1249,http://concepticon.clld.org/parameters/1422,ешемишхьез,"live, living, life"
+532-1217,tsak1249,http://concepticon.clld.org/parameters/1494,хъикьаз,"die, dead"
+532-1185,tsak1249,http://concepticon.clld.org/parameters/1494,хъикьуна,"die, dead"
+532-990,tsak1249,http://concepticon.clld.org/parameters/1904,богъмишхьана,drowned
+532-840,tsak1249,http://concepticon.clld.org/parameters/1417,гикьаз,kill
+532-936,tsak1249,http://concepticon.clld.org/parameters/767,майит’,corpse
+532-113,tsak1249,http://concepticon.clld.org/parameters/1719,кІетІирхаз,bury (the dead)
+532-1241,tsak1249,http://concepticon.clld.org/parameters/1773,някьв,"grave, tomb"
+532-888,tsak1249,http://concepticon.clld.org/parameters/785,гужнана,"strong, mighty, powerful"
+532-583,tsak1249,http://concepticon.clld.org/parameters/1601,загІип,weak
+532-933,tsak1249,http://concepticon.clld.org/parameters/1601,бошена,weak
+532-195,tsak1249,http://concepticon.clld.org/parameters/1364,сагъна,"well, health"
+532-179,tsak1249,http://concepticon.clld.org/parameters/1364,сагъвалла,"well, health"
+532-87,tsak1249,http://concepticon.clld.org/parameters/1847,ыкьарна,"sick, sickness"
+532-637,tsak1249,http://concepticon.clld.org/parameters/1847,азяр,"sick, sickness"
+532-439,tsak1249,http://concepticon.clld.org/parameters/1534,иссит’ма,fever
+532-674,tsak1249,http://concepticon.clld.org/parameters/1957,зоб,goiter
+532-490,tsak1249,http://concepticon.clld.org/parameters/102,мукІаппа,cold (catarrh)
+532-730,tsak1249,http://concepticon.clld.org/parameters/1109,яра,"wound, sore"
+532-730,tsak1249,http://concepticon.clld.org/parameters/1148,яра,bruise
+532-815,tsak1249,http://concepticon.clld.org/parameters/1903,алтІахый,swelling
+532-229,tsak1249,http://concepticon.clld.org/parameters/148,эсмимий,itch
+532-623,tsak1249,http://concepticon.clld.org/parameters/1584,габар,blister
+532-1176,tsak1249,http://concepticon.clld.org/parameters/793,кІыбыджий,boil (noun)
+532-902,tsak1249,http://concepticon.clld.org/parameters/1808,маш,pus
+532-928,tsak1249,http://concepticon.clld.org/parameters/497,чапых,scar
+532-382,tsak1249,http://concepticon.clld.org/parameters/497,кын,scar
+532-970,tsak1249,http://concepticon.clld.org/parameters/499,хъиворкаъаз,"cure, heal"
+532-463,tsak1249,http://concepticon.clld.org/parameters/597,дохтур,physician
+532-433,tsak1249,http://concepticon.clld.org/parameters/597,врач,physician
+532-549,tsak1249,http://concepticon.clld.org/parameters/1372,дарман,"medicine, drug"
+532-637,tsak1249,http://concepticon.clld.org/parameters/655,азяр,poison
+532-997,tsak1249,http://concepticon.clld.org/parameters/1757,озурна,"tired, weary"
+532-10,tsak1249,http://concepticon.clld.org/parameters/168,манзиливъаз,rest
+532-627,tsak1249,http://concepticon.clld.org/parameters/1564,тамбал,lazy
+532-456,tsak1249,http://concepticon.clld.org/parameters/1125,кьабах,bald
+532-414,tsak1249,http://concepticon.clld.org/parameters/320,кІовараз,lame
+532-1140,tsak1249,http://concepticon.clld.org/parameters/996,бошна,deaf
+532-62,tsak1249,http://concepticon.clld.org/parameters/1666,лал,mute
+532-1128,tsak1249,http://concepticon.clld.org/parameters/1653,быркьына,blind
+532-346,tsak1249,http://concepticon.clld.org/parameters/1463,пІиянна,intoxicated
+532-567,tsak1249,http://concepticon.clld.org/parameters/590,цІелерна,"naked, bare"
+532-331,tsak1249,http://concepticon.clld.org/parameters/1336,кар охьаназ,eat
+532-1198,tsak1249,http://concepticon.clld.org/parameters/256,кар,food
+532-494,tsak1249,http://concepticon.clld.org/parameters/269,хъодхьурын’,cooked
+532-716,tsak1249,http://concepticon.clld.org/parameters/1959,учІудын’,raw
+532-1073,tsak1249,http://concepticon.clld.org/parameters/178,гьидхьырын’,ripe
+532-392,tsak1249,http://concepticon.clld.org/parameters/1958,гьидидхьырын’,"green, unripe"
+532-667,tsak1249,http://concepticon.clld.org/parameters/1728,хъичяйин,rotten
+532-910,tsak1249,http://concepticon.clld.org/parameters/1401,улёгъаз,drink
+532-341,tsak1249,http://concepticon.clld.org/parameters/1533,мысвалла,hunger
+532-1162,tsak1249,http://concepticon.clld.org/parameters/199,мысвалла мукІолла,famine
+532-231,tsak1249,http://concepticon.clld.org/parameters/848,хьинехъа гейхьон,thirst
+532-48,tsak1249,http://concepticon.clld.org/parameters/1421,гьутІочез,suck
+532-978,tsak1249,http://concepticon.clld.org/parameters/321,гяйчІез,chew
+532-443,tsak1249,http://concepticon.clld.org/parameters/897,кІёгъаз,swallow
+532-491,tsak1249,http://concepticon.clld.org/parameters/129,богъмишеаз,choke
+532-451,tsak1249,http://concepticon.clld.org/parameters/1100,хъохьараз,cook
+532-972,tsak1249,http://concepticon.clld.org/parameters/792,хъохьараъаз,boil (vb)
+532-13,tsak1249,http://concepticon.clld.org/parameters/2146,хъижез,"roast, fry"
+532-13,tsak1249,http://concepticon.clld.org/parameters/183,хъижез,bake
+532-213,tsak1249,http://concepticon.clld.org/parameters/1143,пешт,oven
+532-281,tsak1249,http://concepticon.clld.org/parameters/1462,донеш,"pot, cooking vessel"
+532-94,tsak1249,http://concepticon.clld.org/parameters/1462,кIумкIум,"pot, cooking vessel"
+532-512,tsak1249,http://concepticon.clld.org/parameters/854,чейдан,kettle
+532-699,tsak1249,http://concepticon.clld.org/parameters/31,кІумкІум,pan
+532-1114,tsak1249,http://concepticon.clld.org/parameters/481,кІоран тІарикІа,dish
+532-157,tsak1249,http://concepticon.clld.org/parameters/480,тІарикІа,plate
+532-1205,tsak1249,http://concepticon.clld.org/parameters/1530,каса,bowl
+532-32,tsak1249,http://concepticon.clld.org/parameters/270,парч,"pitcher, jug"
+532-60,tsak1249,http://concepticon.clld.org/parameters/476,гурушка,"cup, drinking vessel"
+532-344,tsak1249,http://concepticon.clld.org/parameters/271,бул’ма,saucer
+532-1043,tsak1249,http://concepticon.clld.org/parameters/1378,кІукІ,spoon
+532-669,tsak1249,http://concepticon.clld.org/parameters/1352,чІика,knife (2)
+532-1103,tsak1249,http://concepticon.clld.org/parameters/1302,шана,fork (2)
+532-909,tsak1249,http://concepticon.clld.org/parameters/272,кал’батун,tongs
+532-331,tsak1249,http://concepticon.clld.org/parameters/1526,кар охьаназ,meal (a)
+532-969,tsak1249,http://concepticon.clld.org/parameters/1322,мичІедын’ кар,breakfast
+532-954,tsak1249,http://concepticon.clld.org/parameters/768,—,lunch
+532-673,tsak1249,http://concepticon.clld.org/parameters/1833,йикьыгьын кар,dinner
+532-1,tsak1249,http://concepticon.clld.org/parameters/1833,хамдяйин’ кар,supper
+532-527,tsak1249,http://concepticon.clld.org/parameters/275,тямызаъаз,peel
+532-593,tsak1249,http://concepticon.clld.org/parameters/86,гицІибхьоз,"sieve, strain"
+532-438,tsak1249,http://concepticon.clld.org/parameters/1767,гёкьаз,scrape
+532-571,tsak1249,http://concepticon.clld.org/parameters/2017,сикьалаз,"stir, mix"
+532-684,tsak1249,http://concepticon.clld.org/parameters/1368,гиней,bread
+532-211,tsak1249,http://concepticon.clld.org/parameters/273,вынни,dough
+532-1156,tsak1249,http://concepticon.clld.org/parameters/274,вынни сикьалаз,knead
+532-427,tsak1249,http://concepticon.clld.org/parameters/1594,ху,"meal, flour"
+532-689,tsak1249,http://concepticon.clld.org/parameters/1033,хурдай гьиваъаз,"crush, grind"
+532-756,tsak1249,http://concepticon.clld.org/parameters/636,йоха,mill
+532-986,tsak1249,http://concepticon.clld.org/parameters/224,дибак,mortar (2)
+532-954,tsak1249,http://concepticon.clld.org/parameters/225,—,pestle
+532-777,tsak1249,http://concepticon.clld.org/parameters/634,чурой,meat
+532-475,tsak1249,http://concepticon.clld.org/parameters/1874,ивчIунавыр,sausage
+532-300,tsak1249,http://concepticon.clld.org/parameters/1547,йикь,"soup, broth"
+532-919,tsak1249,http://concepticon.clld.org/parameters/924,тараваз,vegetables
+532-939,tsak1249,http://concepticon.clld.org/parameters/832,лубуен,bean
+532-228,tsak1249,http://concepticon.clld.org/parameters/593,кІартІукІули,potato
+532-798,tsak1249,http://concepticon.clld.org/parameters/1507,мейва,fruit
+532-1016,tsak1249,http://concepticon.clld.org/parameters/1966,тІуг,bunch
+532-769,tsak1249,http://concepticon.clld.org/parameters/322,инжир,fig
+532-311,tsak1249,http://concepticon.clld.org/parameters/920,тІымыл’,grape
+532-1033,tsak1249,http://concepticon.clld.org/parameters/191,хек,nut
+532-920,tsak1249,http://concepticon.clld.org/parameters/1154,зайтун,olive
+532-966,tsak1249,http://concepticon.clld.org/parameters/1484,зети,oil
+532-400,tsak1249,http://concepticon.clld.org/parameters/323,маъы,"grease, fat"
+532-590,tsak1249,http://concepticon.clld.org/parameters/1274,кьев,salt
+532-731,tsak1249,http://concepticon.clld.org/parameters/1385,иссоъот,pepper
+532-731,tsak1249,http://concepticon.clld.org/parameters/919,иссоъот,chili pepper
+532-445,tsak1249,http://concepticon.clld.org/parameters/942,ит,honey
+532-1001,tsak1249,http://concepticon.clld.org/parameters/862,шакар,sugar
+532-1168,tsak1249,http://concepticon.clld.org/parameters/635,няк,milk (noun)
+532-462,tsak1249,http://concepticon.clld.org/parameters/93,гязаз,milk (vb)
+532-332,tsak1249,http://concepticon.clld.org/parameters/1569,нисей,cheese
+532-1153,tsak1249,http://concepticon.clld.org/parameters/1245,кьыш,butter
+532-521,tsak1249,http://concepticon.clld.org/parameters/731,хьян,"beverage, drink"
+532-358,tsak1249,http://concepticon.clld.org/parameters/941,итв,mead
+532-437,tsak1249,http://concepticon.clld.org/parameters/1524,чахыр,wine
+532-501,tsak1249,http://concepticon.clld.org/parameters/1639,пиво,beer
+532-1083,tsak1249,http://concepticon.clld.org/parameters/404,буза,fermented drink
+532-575,tsak1249,http://concepticon.clld.org/parameters/744,кьукь,egg
+532-368,tsak1249,http://concepticon.clld.org/parameters/1556,дыракьын кар,egg yolk
+532-618,tsak1249,http://concepticon.clld.org/parameters/158,аляъаз,put on (clothes)
+532-615,tsak1249,http://concepticon.clld.org/parameters/1895,партал,"clothing, clothes"
+532-386,tsak1249,http://concepticon.clld.org/parameters/881,партал-устад,tailor
+532-1181,tsak1249,http://concepticon.clld.org/parameters/1616,парчя,cloth
+532-312,tsak1249,http://concepticon.clld.org/parameters/964,хьайин чит’,wool
+532-539,tsak1249,http://concepticon.clld.org/parameters/916,ганабад парчя,"linen, flax"
+532-816,tsak1249,http://concepticon.clld.org/parameters/1850,банбак,cotton
+532-366,tsak1249,http://concepticon.clld.org/parameters/1641,ипаг,silk
+532-586,tsak1249,http://concepticon.clld.org/parameters/325,кеге,felt
+532-67,tsak1249,http://concepticon.clld.org/parameters/580,панка,fur
+532-67,tsak1249,http://concepticon.clld.org/parameters/629,панка,leather
+532-834,tsak1249,http://concepticon.clld.org/parameters/121,алеттаз,spin
+532-780,tsak1249,http://concepticon.clld.org/parameters/277,тІабычІ,spindle
+532-905,tsak1249,http://concepticon.clld.org/parameters/133,чІетаз,weave
+532-306,tsak1249,http://concepticon.clld.org/parameters/1787,станок,loom
+532-320,tsak1249,http://concepticon.clld.org/parameters/1457,ийихьаз,sew
+532-104,tsak1249,http://concepticon.clld.org/parameters/1382,выеба,needle
+532-189,tsak1249,http://concepticon.clld.org/parameters/278,раб,awl
+532-841,tsak1249,http://concepticon.clld.org/parameters/1161,ухора,thread
+532-131,tsak1249,http://concepticon.clld.org/parameters/157,шир,dye
+532-984,tsak1249,http://concepticon.clld.org/parameters/326,пІлащ,cloak
+532-954,tsak1249,http://concepticon.clld.org/parameters/327,—,poncho
+532-1160,tsak1249,http://concepticon.clld.org/parameters/474,дон,woman's dress
+532-1178,tsak1249,http://concepticon.clld.org/parameters/603,пІалтІум,coat
+532-601,tsak1249,http://concepticon.clld.org/parameters/1622,гурт,shirt
+532-1023,tsak1249,http://concepticon.clld.org/parameters/2012,йаха,collar
+532-123,tsak1249,http://concepticon.clld.org/parameters/1600,кІаба,skirt
+532-123,tsak1249,http://concepticon.clld.org/parameters/328,кІаба,grass-skirt
+532-595,tsak1249,http://concepticon.clld.org/parameters/809,бада,trousers
+532-685,tsak1249,http://concepticon.clld.org/parameters/329,чуркІу,"stocking, sock"
+532-413,tsak1249,http://concepticon.clld.org/parameters/329,наскІу,"stocking, sock"
+532-11,tsak1249,http://concepticon.clld.org/parameters/1381,къелилим,shoe
+532-1099,tsak1249,http://concepticon.clld.org/parameters/1381,тІупли,shoe
+532-724,tsak1249,http://concepticon.clld.org/parameters/585,лавгунар,boot
+532-676,tsak1249,http://concepticon.clld.org/parameters/585,патинкІа,boot
+532-641,tsak1249,http://concepticon.clld.org/parameters/875,пинычий,"shoemaker, cobbler"
+532-874,tsak1249,http://concepticon.clld.org/parameters/2130,шляпа,"hat, cap"
+532-573,tsak1249,http://concepticon.clld.org/parameters/772,камар,"belt, girdle"
+532-622,tsak1249,http://concepticon.clld.org/parameters/867,хьахьавал’,glove
+532-704,tsak1249,http://concepticon.clld.org/parameters/1151,дувагъ,veil
+532-224,tsak1249,http://concepticon.clld.org/parameters/1851,джипІ,pocket
+532-159,tsak1249,http://concepticon.clld.org/parameters/757,кІыч,button
+532-958,tsak1249,http://concepticon.clld.org/parameters/64,санджах,pin
+532-585,tsak1249,http://concepticon.clld.org/parameters/917,накьыш,"ornament, adornment"
+532-152,tsak1249,http://concepticon.clld.org/parameters/1029,массанана,jewel
+532-663,tsak1249,http://concepticon.clld.org/parameters/1374,тІыжива,ring (for finger)
+532-523,tsak1249,http://concepticon.clld.org/parameters/1754,леха,bracelet
+532-215,tsak1249,http://concepticon.clld.org/parameters/1961,экеби,necklace
+532-1129,tsak1249,http://concepticon.clld.org/parameters/1860,эке,bead
+532-677,tsak1249,http://concepticon.clld.org/parameters/770,тана,earring
+532-600,tsak1249,http://concepticon.clld.org/parameters/330,ягълыгъ,"headband, headdress"
+532-334,tsak1249,http://concepticon.clld.org/parameters/330,кIатIар,"headband, headdress"
+532-954,tsak1249,http://concepticon.clld.org/parameters/68,—,tattoo
+532-1130,tsak1249,http://concepticon.clld.org/parameters/332,хъов тямызаъана ягълыгъ,"handkerchief, rag"
+532-356,tsak1249,http://concepticon.clld.org/parameters/1021,десмал,towel
+532-434,tsak1249,http://concepticon.clld.org/parameters/1475,агъа,comb
+532-434,tsak1249,http://concepticon.clld.org/parameters/1821,агъа,brush
+532-24,tsak1249,http://concepticon.clld.org/parameters/333,кьамчІеле,braid
+532-176,tsak1249,http://concepticon.clld.org/parameters/151,алмаз,razor
+532-289,tsak1249,http://concepticon.clld.org/parameters/151,деллек,razor
+532-895,tsak1249,http://concepticon.clld.org/parameters/1926,маз,ointment
+532-739,tsak1249,http://concepticon.clld.org/parameters/788,сапІын’,soap
+532-283,tsak1249,http://concepticon.clld.org/parameters/1171,нухори,mirror
+532-398,tsak1249,http://concepticon.clld.org/parameters/1099,ешимишхьез,"dwell, live"
+532-268,tsak1249,http://concepticon.clld.org/parameters/1252,хав,house
+532-484,tsak1249,http://concepticon.clld.org/parameters/1678,дега,hut
+532-268,tsak1249,http://concepticon.clld.org/parameters/403,хав,garden-house
+532-987,tsak1249,http://concepticon.clld.org/parameters/1316,чадыр,tent
+532-498,tsak1249,http://concepticon.clld.org/parameters/736,гьаят,"yard, court"
+532-268,tsak1249,http://concepticon.clld.org/parameters/408,хав,men's house
+532-1032,tsak1249,http://concepticon.clld.org/parameters/334,кІохни,cookhouse
+532-268,tsak1249,http://concepticon.clld.org/parameters/335,хав,meeting house
+532-149,tsak1249,http://concepticon.clld.org/parameters/335,кIлуб,meeting house
+532-165,tsak1249,http://concepticon.clld.org/parameters/1450,утагъ,room
+532-581,tsak1249,http://concepticon.clld.org/parameters/1567,акка,"door, gate"
+532-836,tsak1249,http://concepticon.clld.org/parameters/80,чIерчIива,"doorpost, jamb"
+532-141,tsak1249,http://concepticon.clld.org/parameters/1596,кукляк,lock (noun)
+532-655,tsak1249,http://concepticon.clld.org/parameters/1012,рыза,"latch, door-bolt"
+532-363,tsak1249,http://concepticon.clld.org/parameters/1472,мыкІые,key
+532-352,tsak1249,http://concepticon.clld.org/parameters/1375,гъул’,window
+532-849,tsak1249,http://concepticon.clld.org/parameters/1632,джил,floor
+532-193,tsak1249,http://concepticon.clld.org/parameters/1632,пІол,floor
+532-31,tsak1249,http://concepticon.clld.org/parameters/933,баруг,wall
+532-817,tsak1249,http://concepticon.clld.org/parameters/933,дывар,wall
+532-1071,tsak1249,http://concepticon.clld.org/parameters/185,бухара,fireplace
+532-742,tsak1249,http://concepticon.clld.org/parameters/859,пешт’,stove
+532-182,tsak1249,http://concepticon.clld.org/parameters/1305,дурби,chimney
+532-688,tsak1249,http://concepticon.clld.org/parameters/1464,ердиван,ladder
+532-76,tsak1249,http://concepticon.clld.org/parameters/1663,кІрават,bed
+532-930,tsak1249,http://concepticon.clld.org/parameters/1663,тахт,bed
+532-692,tsak1249,http://concepticon.clld.org/parameters/1044,гъуноник’,pillow
+532-396,tsak1249,http://concepticon.clld.org/parameters/806,адял,blanket
+532-1024,tsak1249,http://concepticon.clld.org/parameters/806,йоргъан,blanket
+532-355,tsak1249,http://concepticon.clld.org/parameters/1476,истІол,chair
+532-355,tsak1249,http://concepticon.clld.org/parameters/1775,истІол,table
+532-1135,tsak1249,http://concepticon.clld.org/parameters/1775,курси,table
+532-564,tsak1249,http://concepticon.clld.org/parameters/2131,лампа,"lamp, torch"
+532-642,tsak1249,http://concepticon.clld.org/parameters/2131,фонарь,"lamp, torch"
+532-723,tsak1249,http://concepticon.clld.org/parameters/2131,цырцырай,"lamp, torch"
+532-258,tsak1249,http://concepticon.clld.org/parameters/1273,гардж,candle
+532-722,tsak1249,http://concepticon.clld.org/parameters/745,тахчя,shelf
+532-1164,tsak1249,http://concepticon.clld.org/parameters/205,кІанал,trough
+532-711,tsak1249,http://concepticon.clld.org/parameters/205,цав,trough
+532-84,tsak1249,http://concepticon.clld.org/parameters/205,лат,trough
+532-174,tsak1249,http://concepticon.clld.org/parameters/769,даха,roof
+532-174,tsak1249,http://concepticon.clld.org/parameters/279,даха,thatch
+532-407,tsak1249,http://concepticon.clld.org/parameters/280,къодгъарас,ridgepole
+532-54,tsak1249,http://concepticon.clld.org/parameters/280,чу,ridgepole
+532-301,tsak1249,http://concepticon.clld.org/parameters/829,кьатІ,rafter
+532-981,tsak1249,http://concepticon.clld.org/parameters/829,алахьвар,rafter
+532-981,tsak1249,http://concepticon.clld.org/parameters/1132,алахьвар,beam
+532-145,tsak1249,http://concepticon.clld.org/parameters/281,истІолба,"post, pole"
+532-56,tsak1249,http://concepticon.clld.org/parameters/281,тир,"post, pole"
+532-594,tsak1249,http://concepticon.clld.org/parameters/1227,кьува,board
+532-781,tsak1249,http://concepticon.clld.org/parameters/876,тагъ,arch
+532-420,tsak1249,http://concepticon.clld.org/parameters/877,устад,mason
+532-1011,tsak1249,http://concepticon.clld.org/parameters/1006,кирпич,brick
+532-879,tsak1249,http://concepticon.clld.org/parameters/1731,кирож,mortar
+532-268,tsak1249,http://concepticon.clld.org/parameters/901,хав,adobe
+532-880,tsak1249,http://concepticon.clld.org/parameters/979,бакІиставий,farmer
+532-1186,tsak1249,http://concepticon.clld.org/parameters/979,фермер,farmer
+532-259,tsak1249,http://concepticon.clld.org/parameters/212,нок’,field (for cultivation)
+532-822,tsak1249,http://concepticon.clld.org/parameters/586,багъ,garden
+532-103,tsak1249,http://concepticon.clld.org/parameters/1541,гитІаз,"cultivate, till"
+532-305,tsak1249,http://concepticon.clld.org/parameters/1690,джабыр,fence
+532-931,tsak1249,http://concepticon.clld.org/parameters/1690,чапыр,fence
+532-975,tsak1249,http://concepticon.clld.org/parameters/2002,арх,ditch
+532-1164,tsak1249,http://concepticon.clld.org/parameters/2002,кІанал,ditch
+532-942,tsak1249,http://concepticon.clld.org/parameters/1921,изас,plow
+532-1192,tsak1249,http://concepticon.clld.org/parameters/1794,гор,furrow
+532-423,tsak1249,http://concepticon.clld.org/parameters/1418,ал’тІитхоз,dig
+532-543,tsak1249,http://concepticon.clld.org/parameters/1176,курак,spade
+532-1045,tsak1249,http://concepticon.clld.org/parameters/1901,хакандяз,shovel
+532-191,tsak1249,http://concepticon.clld.org/parameters/284,к’лынг,hoe
+532-68,tsak1249,http://concepticon.clld.org/parameters/337,яба,fork
+532-1104,tsak1249,http://concepticon.clld.org/parameters/338,чІигъар,rake
+532-385,tsak1249,http://concepticon.clld.org/parameters/748,зас,sow
+532-39,tsak1249,http://concepticon.clld.org/parameters/714,тохум,seed
+532-393,tsak1249,http://concepticon.clld.org/parameters/190,чалмишеаз,"mow, reap"
+532-260,tsak1249,http://concepticon.clld.org/parameters/2132,араб,"sickle, scythe"
+532-69,tsak1249,http://concepticon.clld.org/parameters/2132,чалгъу,"sickle, scythe"
+532-744,tsak1249,http://concepticon.clld.org/parameters/285,варагьаъаз,thresh
+532-168,tsak1249,http://concepticon.clld.org/parameters/223,атта,threshing-floor
+532-757,tsak1249,http://concepticon.clld.org/parameters/611,эк’ын,"crop, harvest"
+532-703,tsak1249,http://concepticon.clld.org/parameters/605,тахил’,"grain (barley, oats etc)"
+532-989,tsak1249,http://concepticon.clld.org/parameters/1077,сук,wheat
+532-557,tsak1249,http://concepticon.clld.org/parameters/932,хьытІа,barley
+532-402,tsak1249,http://concepticon.clld.org/parameters/23,сыкІыл’,rye
+532-402,tsak1249,http://concepticon.clld.org/parameters/60,сыкІыл’,oats
+532-125,tsak1249,http://concepticon.clld.org/parameters/506,къаргъадали,"maize, corn"
+532-1133,tsak1249,http://concepticon.clld.org/parameters/926,биринз’,rice
+532-830,tsak1249,http://concepticon.clld.org/parameters/606,окь,grass
+532-830,tsak1249,http://concepticon.clld.org/parameters/342,окь,hay
+532-937,tsak1249,http://concepticon.clld.org/parameters/653,битІки,plant (noun)
+532-340,tsak1249,http://concepticon.clld.org/parameters/653,ала,plant (noun)
+532-942,tsak1249,http://concepticon.clld.org/parameters/1486,изас,plant (vb)
+532-5,tsak1249,http://concepticon.clld.org/parameters/670,кок,root
+532-133,tsak1249,http://concepticon.clld.org/parameters/1531,бытагъ,branch
+532-687,tsak1249,http://concepticon.clld.org/parameters/628,тІеле,leaf
+532-992,tsak1249,http://concepticon.clld.org/parameters/239,тІетІ,flower
+532-387,tsak1249,http://concepticon.clld.org/parameters/906,йив,tree
+532-1190,tsak1249,http://concepticon.clld.org/parameters/644,махъо,oak
+532-118,tsak1249,http://concepticon.clld.org/parameters/1950,цІепел’,beech
+532-625,tsak1249,http://concepticon.clld.org/parameters/1855,вых,birch
+532-534,tsak1249,http://concepticon.clld.org/parameters/1740,нюкІняха,pine
+532-633,tsak1249,http://concepticon.clld.org/parameters/1915,къаратикан,fir
+532-232,tsak1249,http://concepticon.clld.org/parameters/968,даварана финдикь,acorn
+532-548,tsak1249,http://concepticon.clld.org/parameters/343,салхум,vine
+532-646,tsak1249,http://concepticon.clld.org/parameters/974,тютюн,tobacco
+532-1134,tsak1249,http://concepticon.clld.org/parameters/1689,тютюн кума,smoke (tobacco)
+532-397,tsak1249,http://concepticon.clld.org/parameters/1124,кал’ян,pipe
+532-1013,tsak1249,http://concepticon.clld.org/parameters/241,диблема,tree stump
+532-15,tsak1249,http://concepticon.clld.org/parameters/344,гявда,tree trunk
+532-946,tsak1249,http://concepticon.clld.org/parameters/409,ачя,forked branch
+532-562,tsak1249,http://concepticon.clld.org/parameters/1204,йивын’ кьабых,bark
+532-1072,tsak1249,http://concepticon.clld.org/parameters/345,шира,sap
+532-446,tsak1249,http://concepticon.clld.org/parameters/1181,пальма,palm tree
+532-59,tsak1249,http://concepticon.clld.org/parameters/970,кокос,coconut
+532-1200,tsak1249,http://concepticon.clld.org/parameters/1126,цитрус,citrus fruit
+532-648,tsak1249,http://concepticon.clld.org/parameters/868,банана йив,banana tree
+532-626,tsak1249,http://concepticon.clld.org/parameters/346,инжирна йив,banyan
+532-507,tsak1249,http://concepticon.clld.org/parameters/159,батат,sweet potato
+532-507,tsak1249,http://concepticon.clld.org/parameters/410,батат,yam
+532-954,tsak1249,http://concepticon.clld.org/parameters/925,—,"tapioca, manioc, cassava"
+532-456,tsak1249,http://concepticon.clld.org/parameters/411,кьабах,gourd
+532-456,tsak1249,http://concepticon.clld.org/parameters/864,кьабах,"pumpkin, squash"
+532-184,tsak1249,http://concepticon.clld.org/parameters/1927,бамбук,bamboo
+532-994,tsak1249,http://concepticon.clld.org/parameters/146,шакарын кьамыш,sugar cane
+532-954,tsak1249,http://concepticon.clld.org/parameters/348,—,fish poison (root)
+532-1243,tsak1249,http://concepticon.clld.org/parameters/33,магъо,nettle
+532-435,tsak1249,http://concepticon.clld.org/parameters/641,пІапІыш,mushroom
+532-375,tsak1249,http://concepticon.clld.org/parameters/813,гьаъаз,"do, make"
+532-277,tsak1249,http://concepticon.clld.org/parameters/984,иш,work
+532-733,tsak1249,http://concepticon.clld.org/parameters/2004,къатамишеъаз,bend
+532-965,tsak1249,http://concepticon.clld.org/parameters/1470,саъаз,fold
+532-1095,tsak1249,http://concepticon.clld.org/parameters/1917,итІымаъаз,"tie, bind"
+532-896,tsak1249,http://concepticon.clld.org/parameters/352,ачмишеаз,untie
+532-578,tsak1249,http://concepticon.clld.org/parameters/1627,зынджыр,chain
+532-180,tsak1249,http://concepticon.clld.org/parameters/1218,чату,"rope, cord"
+532-459,tsak1249,http://concepticon.clld.org/parameters/760,витІел’,knot (noun)
+532-1069,tsak1249,http://concepticon.clld.org/parameters/2133,гитаз,"strike (hit, beat)"
+532-1069,tsak1249,http://concepticon.clld.org/parameters/354,гитаз,pound with fist
+532-788,tsak1249,http://concepticon.clld.org/parameters/1432,гъацІокІоназ,cut
+532-728,tsak1249,http://concepticon.clld.org/parameters/355,джитІахъаъаз,cut down
+532-500,tsak1249,http://concepticon.clld.org/parameters/155,гятхаз,"chop, hew"
+532-450,tsak1249,http://concepticon.clld.org/parameters/1434,этаъаз,stab
+532-669,tsak1249,http://concepticon.clld.org/parameters/1352,чІика,knife
+532-1223,tsak1249,http://concepticon.clld.org/parameters/356,адессе,"scissors, shears"
+532-1136,tsak1249,http://concepticon.clld.org/parameters/677,якьв,ax
+532-1136,tsak1249,http://concepticon.clld.org/parameters/290,якьв,adze
+532-775,tsak1249,http://concepticon.clld.org/parameters/680,гьакьораъаз,break
+532-710,tsak1249,http://concepticon.clld.org/parameters/588,гьатІкьурын’,broken
+532-1012,tsak1249,http://concepticon.clld.org/parameters/1437,хъахаз,split
+532-201,tsak1249,http://concepticon.clld.org/parameters/1735,хъичІитхаз,tear
+532-847,tsak1249,http://concepticon.clld.org/parameters/291,хъишез,"flay, skin"
+532-1020,tsak1249,http://concepticon.clld.org/parameters/1449,гьакалаъаз,"rub, wipe"
+532-868,tsak1249,http://concepticon.clld.org/parameters/214,гьатхаз,stretch
+532-868,tsak1249,http://concepticon.clld.org/parameters/1455,гьатхаз,pull
+532-810,tsak1249,http://concepticon.clld.org/parameters/38,еймишеъаз,spread out
+532-712,tsak1249,http://concepticon.clld.org/parameters/357,гиваханаз,hang up
+532-418,tsak1249,http://concepticon.clld.org/parameters/1913,гьочІаназ,press
+532-418,tsak1249,http://concepticon.clld.org/parameters/1414,гьочІаназ,"squeeze, wring"
+532-27,tsak1249,http://concepticon.clld.org/parameters/1487,гьачІийеъаз,pour
+532-1146,tsak1249,http://concepticon.clld.org/parameters/1453,огъалаз,wash
+532-362,tsak1249,http://concepticon.clld.org/parameters/230,хъатхьаз,sweep
+532-991,tsak1249,http://concepticon.clld.org/parameters/245,чІахь,broom
+532-540,tsak1249,http://concepticon.clld.org/parameters/245,хьырыс,broom
+532-508,tsak1249,http://concepticon.clld.org/parameters/1361,алат,tool
+532-420,tsak1249,http://concepticon.clld.org/parameters/1042,устад,carpenter
+532-618,tsak1249,http://concepticon.clld.org/parameters/1840,аляъаз,build
+532-274,tsak1249,http://concepticon.clld.org/parameters/1501,бадже,bore
+532-591,tsak1249,http://concepticon.clld.org/parameters/1501,къачІ,bore
+532-55,tsak1249,http://concepticon.clld.org/parameters/46,оталаъаз,hollow out
+532-638,tsak1249,http://concepticon.clld.org/parameters/1948,айхева,saw
+532-89,tsak1249,http://concepticon.clld.org/parameters/1481,кІаш,hammer
+532-436,tsak1249,http://concepticon.clld.org/parameters/502,мысвар,nail
+532-1065,tsak1249,http://concepticon.clld.org/parameters/1069,клей,glue
+532-835,tsak1249,http://concepticon.clld.org/parameters/1001,демырчи,"smith, blacksmith"
+532-505,tsak1249,http://concepticon.clld.org/parameters/288,кІырахана,forge
+532-869,tsak1249,http://concepticon.clld.org/parameters/1648,зиндан,anvil
+532-183,tsak1249,http://concepticon.clld.org/parameters/211,кІалыб гьачІиеъаз,cast (metals)
+532-907,tsak1249,http://concepticon.clld.org/parameters/1369,къизил’,gold
+532-516,tsak1249,http://concepticon.clld.org/parameters/759,нукІра,silver
+532-1015,tsak1249,http://concepticon.clld.org/parameters/1825,ез,"copper, bronze"
+532-665,tsak1249,http://concepticon.clld.org/parameters/621,йива,iron
+532-477,tsak1249,http://concepticon.clld.org/parameters/627,гъургъуш,lead (noun)
+532-665,tsak1249,http://concepticon.clld.org/parameters/358,йива,"tin, tinplate"
+532-420,tsak1249,http://concepticon.clld.org/parameters/359,устад,potter
+532-183,tsak1249,http://concepticon.clld.org/parameters/289,кІалыб гьачІиеъаз,mold (clay etc)
+532-110,tsak1249,http://concepticon.clld.org/parameters/1399,чІуъли,clay
+532-555,tsak1249,http://concepticon.clld.org/parameters/604,айна,glass
+532-1145,tsak1249,http://concepticon.clld.org/parameters/1729,хъихаз,"weave, plait"
+532-782,tsak1249,http://concepticon.clld.org/parameters/1539,чІемчІи,basket
+532-98,tsak1249,http://concepticon.clld.org/parameters/195,хали,mat
+532-112,tsak1249,http://concepticon.clld.org/parameters/195,килим,mat
+532-518,tsak1249,http://concepticon.clld.org/parameters/292,кIалтІ,rug
+532-1088,tsak1249,http://concepticon.clld.org/parameters/293,сумкIа,netbag
+532-609,tsak1249,http://concepticon.clld.org/parameters/1971,мыц,fan (noun)
+532-1204,tsak1249,http://concepticon.clld.org/parameters/1971,пырпырай,fan (noun)
+532-226,tsak1249,http://concepticon.clld.org/parameters/360,куляк гьаъас,fan (vb)
+532-96,tsak1249,http://concepticon.clld.org/parameters/228,гъацІакІоназ,carve
+532-1034,tsak1249,http://concepticon.clld.org/parameters/914,скульптор,sculptor
+532-1240,tsak1249,http://concepticon.clld.org/parameters/1002,сурат,statue
+532-570,tsak1249,http://concepticon.clld.org/parameters/1002,статуя,statue
+532-954,tsak1249,http://concepticon.clld.org/parameters/1979,—,chisel
+532-131,tsak1249,http://concepticon.clld.org/parameters/647,шир,paint (noun)
+532-807,tsak1249,http://concepticon.clld.org/parameters/2001,шир ывхаз,paint (vb)
+532-1118,tsak1249,http://concepticon.clld.org/parameters/765,ийкараз,move
+532-690,tsak1249,http://concepticon.clld.org/parameters/1588,аликІараз,turn over
+532-932,tsak1249,http://concepticon.clld.org/parameters/1445,бирмишхьез,turn around
+532-965,tsak1249,http://concepticon.clld.org/parameters/1113,саъаз,"wind, wrap"
+532-223,tsak1249,http://concepticon.clld.org/parameters/827,аликІараъаз,roll
+532-103,tsak1249,http://concepticon.clld.org/parameters/808,гитІаз,drop (vb)
+532-223,tsak1249,http://concepticon.clld.org/parameters/430,аликІараъаз,twist
+532-693,tsak1249,http://concepticon.clld.org/parameters/568,алхъивчІез,rise
+532-273,tsak1249,http://concepticon.clld.org/parameters/501,къалхмишеъаз,"raise, lift"
+532-1007,tsak1249,http://concepticon.clld.org/parameters/1280,акихьаз,fall
+532-103,tsak1249,http://concepticon.clld.org/parameters/2253,гитІаз,drip
+532-799,tsak1249,http://concepticon.clld.org/parameters/1456,гьувохьараз,throw
+532-778,tsak1249,http://concepticon.clld.org/parameters/702,авхъаз,catch (ball)
+532-801,tsak1249,http://concepticon.clld.org/parameters/1909,чахнашмишеъаз,shake
+532-187,tsak1249,http://concepticon.clld.org/parameters/2003,алгьаз,flow
+532-488,tsak1249,http://concepticon.clld.org/parameters/1088,кІихьаз,sink
+532-1177,tsak1249,http://concepticon.clld.org/parameters/1574,узмишхьез,float
+532-1177,tsak1249,http://concepticon.clld.org/parameters/1439,узмишхьез,swim
+532-85,tsak1249,http://concepticon.clld.org/parameters/119,айхараз,dive
+532-85,tsak1249,http://concepticon.clld.org/parameters/365,айхараз,splash
+532-1177,tsak1249,http://concepticon.clld.org/parameters/787,узмишхьез,sail (vb)
+532-829,tsak1249,http://concepticon.clld.org/parameters/1441,аливхоз,fly (vb)
+532-1006,tsak1249,http://concepticon.clld.org/parameters/175,цораъаз,blow
+532-620,tsak1249,http://concepticon.clld.org/parameters/96,гьаргъоз,"creep, crawl"
+532-621,tsak1249,http://concepticon.clld.org/parameters/66,кынгыбы гьаъаз,kneel
+532-754,tsak1249,http://concepticon.clld.org/parameters/296,гюораз,crouch
+532-708,tsak1249,http://concepticon.clld.org/parameters/1324,гьитихьаназ,"slide, slip"
+532-1238,tsak1249,http://concepticon.clld.org/parameters/1829,хъохъалаз,"jump, leap"
+532-906,tsak1249,http://concepticon.clld.org/parameters/1135,мыкI ывхаз,kick
+532-192,tsak1249,http://concepticon.clld.org/parameters/1879,мыкІывъаз,dance
+532-1118,tsak1249,http://concepticon.clld.org/parameters/1443,ийкараз,walk
+532-729,tsak1249,http://concepticon.clld.org/parameters/366,кІавара ийкараз,limp
+532-357,tsak1249,http://concepticon.clld.org/parameters/1519,гъадахьоназ,run
+532-884,tsak1249,http://concepticon.clld.org/parameters/695,ал’гьаз,go
+532-825,tsak1249,http://concepticon.clld.org/parameters/705,гъал’алла ал’гьаз,go up
+532-825,tsak1249,http://concepticon.clld.org/parameters/1102,гъал’алла ал’гьаз,climb
+532-442,tsak1249,http://concepticon.clld.org/parameters/2014,гичІез,go down
+532-1232,tsak1249,http://concepticon.clld.org/parameters/1107,агъичІез,go out
+532-121,tsak1249,http://concepticon.clld.org/parameters/1446,аръез,come
+532-571,tsak1249,http://concepticon.clld.org/parameters/581,сикьалаз,come back
+532-885,tsak1249,http://concepticon.clld.org/parameters/1752,акьаназ,"go away, depart"
+532-656,tsak1249,http://concepticon.clld.org/parameters/485,иголаз,disappear
+532-357,tsak1249,http://concepticon.clld.org/parameters/956,гъадахьоназ,flee
+532-1120,tsak1249,http://concepticon.clld.org/parameters/1085,излемишаъаз,follow
+532-1120,tsak1249,http://concepticon.clld.org/parameters/1047,излемишаъаз,pursue
+532-954,tsak1249,http://concepticon.clld.org/parameters/1387,—,"reach, arrive"
+532-107,tsak1249,http://concepticon.clld.org/parameters/1778,кьанехъа хъихьез,approach
+532-269,tsak1249,http://concepticon.clld.org/parameters/749,ичІез,enter
+532-577,tsak1249,http://concepticon.clld.org/parameters/700,ыкказ,carry (bear)
+532-160,tsak1249,http://concepticon.clld.org/parameters/412,хлоппише ыкказ,carry-in-hand
+532-938,tsak1249,http://concepticon.clld.org/parameters/413,мыгабишил’ ыкказ,carry-on-shoulder
+532-538,tsak1249,http://concepticon.clld.org/parameters/414,вукьлел’ ыкказ,carry-on-head
+532-1144,tsak1249,http://concepticon.clld.org/parameters/415,хьат’хьале ыкказ,carry-underarm
+532-425,tsak1249,http://concepticon.clld.org/parameters/692,ад’ез,bring
+532-545,tsak1249,http://concepticon.clld.org/parameters/1127,ехъылеъаз,send
+532-577,tsak1249,http://concepticon.clld.org/parameters/43,ыкказ,lead (vb)
+532-850,tsak1249,http://concepticon.clld.org/parameters/741,машнеар угъоъаз,drive
+532-1242,tsak1249,http://concepticon.clld.org/parameters/367,балканыл’ угъоъаз,ride
+532-809,tsak1249,http://concepticon.clld.org/parameters/1452,этелемишеъаз,"push, shove"
+532-82,tsak1249,http://concepticon.clld.org/parameters/667,ехъ,road
+532-92,tsak1249,http://concepticon.clld.org/parameters/2252,джигъыр,path
+532-349,tsak1249,http://concepticon.clld.org/parameters/1011,йигъ,bridge
+532-444,tsak1249,http://concepticon.clld.org/parameters/122,араба,"carriage, wagon, cart"
+532-1075,tsak1249,http://concepticon.clld.org/parameters/710,текар,wheel
+532-531,tsak1249,http://concepticon.clld.org/parameters/1769,ох,axle
+532-1115,tsak1249,http://concepticon.clld.org/parameters/14,вейца,yoke
+532-636,tsak1249,http://concepticon.clld.org/parameters/740,гами,ship
+532-364,tsak1249,http://concepticon.clld.org/parameters/1844,лодка,boat
+532-364,tsak1249,http://concepticon.clld.org/parameters/1970,лодка,canoe
+532-364,tsak1249,http://concepticon.clld.org/parameters/416,лодка,outrigger
+532-791,tsak1249,http://concepticon.clld.org/parameters/1664,плот,raft
+532-286,tsak1249,http://concepticon.clld.org/parameters/108,къапагъ,oar
+532-286,tsak1249,http://concepticon.clld.org/parameters/234,къапагъ,paddle (noun)
+532-1177,tsak1249,http://concepticon.clld.org/parameters/1849,узмишхьез,row (vb)
+532-253,tsak1249,http://concepticon.clld.org/parameters/108,руль,rudder
+532-917,tsak1249,http://concepticon.clld.org/parameters/184,мачта,mast
+532-999,tsak1249,http://concepticon.clld.org/parameters/786,парус,sail (noun)
+532-1199,tsak1249,http://concepticon.clld.org/parameters/1870,якорь,anchor
+532-200,tsak1249,http://concepticon.clld.org/parameters/610,порт,"harbor, port"
+532-374,tsak1249,http://concepticon.clld.org/parameters/1922,гихаз,land (vb)
+532-833,tsak1249,http://concepticon.clld.org/parameters/773,ихьез,have
+532-833,tsak1249,http://concepticon.clld.org/parameters/684,ихьез,"own, possess"
+532-790,tsak1249,http://concepticon.clld.org/parameters/1749,алетІтІаз,take
+532-766,tsak1249,http://concepticon.clld.org/parameters/2021,аххъаз,"seize, grasp"
+532-766,tsak1249,http://concepticon.clld.org/parameters/1448,аххъаз,hold
+532-1010,tsak1249,http://concepticon.clld.org/parameters/694,алетIтIаз,"get, obtain"
+532-61,tsak1249,http://concepticon.clld.org/parameters/1477,гьиважез,"keep, retain"
+532-1198,tsak1249,http://concepticon.clld.org/parameters/738,кар,thing
+532-351,tsak1249,http://concepticon.clld.org/parameters/1447,гьиез,give
+532-652,tsak1249,http://concepticon.clld.org/parameters/85,хъиез,give back
+532-61,tsak1249,http://concepticon.clld.org/parameters/1997,гьиважез,"preserve, look after"
+532-108,tsak1249,http://concepticon.clld.org/parameters/2008,гъатихьанаъаз,"save, rescue"
+532-261,tsak1249,http://concepticon.clld.org/parameters/681,харабаъаз,destroy
+532-97,tsak1249,http://concepticon.clld.org/parameters/44,кышвалла гьиваъаз,"harm, injure, damage"
+532-1149,tsak1249,http://concepticon.clld.org/parameters/1468,тІалабаъаз,"seek, look for"
+532-47,tsak1249,http://concepticon.clld.org/parameters/719,авайкез,find
+532-656,tsak1249,http://concepticon.clld.org/parameters/1660,иголаз,lose
+532-967,tsak1249,http://concepticon.clld.org/parameters/1095,сел’лимаъаз,"release, let go"
+532-14,tsak1249,http://concepticon.clld.org/parameters/1559,пыл’,money
+532-514,tsak1249,http://concepticon.clld.org/parameters/1867,къапяг,coin
+532-370,tsak1249,http://concepticon.clld.org/parameters/712,болна,rich
+532-1117,tsak1249,http://concepticon.clld.org/parameters/1674,касиб,poor
+532-1031,tsak1249,http://concepticon.clld.org/parameters/1934,мискин,beggar
+532-741,tsak1249,http://concepticon.clld.org/parameters/1774,кьитІ’мир,"avaricious, stingy"
+532-384,tsak1249,http://concepticon.clld.org/parameters/582,боржяз,lend
+532-1010,tsak1249,http://concepticon.clld.org/parameters/1823,алетIтIаз,borrow
+532-9,tsak1249,http://concepticon.clld.org/parameters/369,боржяна,owe
+532-628,tsak1249,http://concepticon.clld.org/parameters/1914,борж,debt
+532-892,tsak1249,http://concepticon.clld.org/parameters/718,пыл’ хъиез,pay (vb)
+532-899,tsak1249,http://concepticon.clld.org/parameters/1081,гьысаб,"account, reckoning"
+532-412,tsak1249,http://concepticon.clld.org/parameters/873,налог,"tax, tribute"
+532-954,tsak1249,http://concepticon.clld.org/parameters/856,—,hire
+532-783,tsak1249,http://concepticon.clld.org/parameters/1122,доннугъ,wages
+532-53,tsak1249,http://concepticon.clld.org/parameters/733,къазаммишеъаз,earn
+532-46,tsak1249,http://concepticon.clld.org/parameters/1869,алищез,buy
+532-761,tsak1249,http://concepticon.clld.org/parameters/1571,масса гьиез,sell
+532-867,tsak1249,http://concepticon.clld.org/parameters/2135,алвер,"trade, barter"
+532-1081,tsak1249,http://concepticon.clld.org/parameters/1082,алверчий,merchant
+532-734,tsak1249,http://concepticon.clld.org/parameters/633,базар,market (place)
+532-102,tsak1249,http://concepticon.clld.org/parameters/752,кІапІратІил’,"store, shop"
+532-553,tsak1249,http://concepticon.clld.org/parameters/752,магазин,"store, shop"
+532-859,tsak1249,http://concepticon.clld.org/parameters/657,къиймат,price
+532-1194,tsak1249,http://concepticon.clld.org/parameters/1426,масанан’,"dear (costly, expensive)"
+532-212,tsak1249,http://concepticon.clld.org/parameters/1887,ужузын’,cheap
+532-873,tsak1249,http://concepticon.clld.org/parameters/884,битІалаъаз,share (distribute)
+532-1165,tsak1249,http://concepticon.clld.org/parameters/1098,гивоткез,weigh
+532-143,tsak1249,http://concepticon.clld.org/parameters/1685,гойне,after
+532-1096,tsak1249,http://concepticon.clld.org/parameters/723,хъигьна,behind
+532-214,tsak1249,http://concepticon.clld.org/parameters/1816,кьаня,beside
+532-178,tsak1249,http://concepticon.clld.org/parameters/1326,дагъайид,"down, below"
+532-1078,tsak1249,http://concepticon.clld.org/parameters/1882,огие,before
+532-1180,tsak1249,http://concepticon.clld.org/parameters/1019,огийил’,front
+532-721,tsak1249,http://concepticon.clld.org/parameters/1606,ад,"inside, in"
+532-170,tsak1249,http://concepticon.clld.org/parameters/762,гъад,outside
+532-608,tsak1249,http://concepticon.clld.org/parameters/1485,авыд,under
+532-483,tsak1249,http://concepticon.clld.org/parameters/1591,угъод,"up, above"
+532-993,tsak1249,http://concepticon.clld.org/parameters/723,джига,place
+532-126,tsak1249,http://concepticon.clld.org/parameters/998,гихьез,put
+532-1174,tsak1249,http://concepticon.clld.org/parameters/1416,гиораз,sit
+532-360,tsak1249,http://concepticon.clld.org/parameters/215,совкамишхьез,lie down
+532-359,tsak1249,http://concepticon.clld.org/parameters/1442,улёзараз,stand
+532-242,tsak1249,http://concepticon.clld.org/parameters/987,ахоз,"remain, stay"
+532-326,tsak1249,http://concepticon.clld.org/parameters/838,дюхаппи,"remains, left overs"
+532-965,tsak1249,http://concepticon.clld.org/parameters/7,саъаз,"collect, gather"
+532-273,tsak1249,http://concepticon.clld.org/parameters/371,къалхмишеъаз,pick up
+532-965,tsak1249,http://concepticon.clld.org/parameters/1576,саъаз,pile up
+532-1157,tsak1249,http://concepticon.clld.org/parameters/1743,аттикьанаъаз,"join, unite"
+532-58,tsak1249,http://concepticon.clld.org/parameters/1359,джураеъаз,separate
+532-873,tsak1249,http://concepticon.clld.org/parameters/1119,битІалаъаз,divide
+532-489,tsak1249,http://concepticon.clld.org/parameters/1156,ачмишеъаз,open
+532-1095,tsak1249,http://concepticon.clld.org/parameters/1046,итІымаъаз,"shut, close"
+532-1077,tsak1249,http://concepticon.clld.org/parameters/761,иткорāз,cover
+532-772,tsak1249,http://concepticon.clld.org/parameters/602,дюгуляъаз,"hide, conceal"
+532-607,tsak1249,http://concepticon.clld.org/parameters/1265,ахтыда,high
+532-220,tsak1249,http://concepticon.clld.org/parameters/721,дикарда,low
+532-1094,tsak1249,http://concepticon.clld.org/parameters/1753,кьом,top
+532-1049,tsak1249,http://concepticon.clld.org/parameters/690,кьан’,bottom
+532-65,tsak1249,http://concepticon.clld.org/parameters/742,ахир,end
+532-75,tsak1249,http://concepticon.clld.org/parameters/372,митІ’нан’,pointed
+532-1222,tsak1249,http://concepticon.clld.org/parameters/863,сив,edge
+532-952,tsak1249,http://concepticon.clld.org/parameters/682,ян,side
+532-1169,tsak1249,http://concepticon.clld.org/parameters/1093,йикьнедын’,"middle, center"
+532-1188,tsak1249,http://concepticon.clld.org/parameters/1019,сагъын (ян),right (side)
+532-372,tsak1249,http://concepticon.clld.org/parameters/244,солын’ (ян),left (side)
+532-472,tsak1249,http://concepticon.clld.org/parameters/1942,кьаняда,near (adv)
+532-544,tsak1249,http://concepticon.clld.org/parameters/1406,акьанада,far (adv)
+532-1019,tsak1249,http://concepticon.clld.org/parameters/1877,машрикь,east
+532-336,tsak1249,http://concepticon.clld.org/parameters/1817,магъриб,west
+532-345,tsak1249,http://concepticon.clld.org/parameters/1598,къузай,north
+532-17,tsak1249,http://concepticon.clld.org/parameters/1595,гунай,south
+532-740,tsak1249,http://concepticon.clld.org/parameters/479,алез,grow
+532-111,tsak1249,http://concepticon.clld.org/parameters/1506,ол’чмишеъаз,measure
+532-954,tsak1249,http://concepticon.clld.org/parameters/81,—,"span, fathom"
+532-759,tsak1249,http://concepticon.clld.org/parameters/1202,хадын’,"large, big"
+532-486,tsak1249,http://concepticon.clld.org/parameters/1246,кІылын’,"small, little"
+532-119,tsak1249,http://concepticon.clld.org/parameters/1203,хылийин’,long
+532-616,tsak1249,http://concepticon.clld.org/parameters/711,ахтын’,tall
+532-209,tsak1249,http://concepticon.clld.org/parameters/1645,джитІан’,short
+532-1228,tsak1249,http://concepticon.clld.org/parameters/1243,акьын’,"wide, broad"
+532-167,tsak1249,http://concepticon.clld.org/parameters/1267,дарын’,narrow
+532-21,tsak1249,http://concepticon.clld.org/parameters/1244,кокун’,thick (in dimension)
+532-949,tsak1249,http://concepticon.clld.org/parameters/1400,кьыван’,thin (in dimension)
+532-506,tsak1249,http://concepticon.clld.org/parameters/1593,кІоран’,deep
+532-190,tsak1249,http://concepticon.clld.org/parameters/193,хурун’,shallow
+532-857,tsak1249,http://concepticon.clld.org/parameters/1633,кьадан’,flat
+532-1061,tsak1249,http://concepticon.clld.org/parameters/1404,дюзудан’,straight
+532-1107,tsak1249,http://concepticon.clld.org/parameters/297,алидкІырын’,crooked
+532-749,tsak1249,http://concepticon.clld.org/parameters/1071,къармах,hook
+532-410,tsak1249,http://concepticon.clld.org/parameters/192,хьоще,corner
+532-197,tsak1249,http://concepticon.clld.org/parameters/1367,къанч,cross
+532-1235,tsak1249,http://concepticon.clld.org/parameters/850,кьут,square
+532-737,tsak1249,http://concepticon.clld.org/parameters/1395,топхьилин’,round
+532-1009,tsak1249,http://concepticon.clld.org/parameters/1467,гыр,circle
+532-406,tsak1249,http://concepticon.clld.org/parameters/1845,шар,"sphere, ball"
+532-309,tsak1249,http://concepticon.clld.org/parameters/1048,хор,line
+532-846,tsak1249,http://concepticon.clld.org/parameters/1667,пахъ,hole
+532-511,tsak1249,http://concepticon.clld.org/parameters/1558,акаран’,"like, similar"
+532-499,tsak1249,http://concepticon.clld.org/parameters/1264,бадалаъаз,change
+532-452,tsak1249,http://concepticon.clld.org/parameters/1294,ноль,"zero, nothing"
+532-216,tsak1249,http://concepticon.clld.org/parameters/1515,сабле,one
+532-465,tsak1249,http://concepticon.clld.org/parameters/1498,кьобле,two
+532-342,tsak1249,http://concepticon.clld.org/parameters/492,хьёбле,three
+532-654,tsak1249,http://concepticon.clld.org/parameters/1500,ёкьубле,four
+532-389,tsak1249,http://concepticon.clld.org/parameters/493,хьобле,five
+532-1085,tsak1249,http://concepticon.clld.org/parameters/1703,йихьыбле,six
+532-316,tsak1249,http://concepticon.clld.org/parameters/1704,йигІыбле,seven
+532-876,tsak1249,http://concepticon.clld.org/parameters/1705,молюбле,eight
+532-735,tsak1249,http://concepticon.clld.org/parameters/1483,ючІубле,nine
+532-662,tsak1249,http://concepticon.clld.org/parameters/1515,йицІыбле,ten
+532-877,tsak1249,http://concepticon.clld.org/parameters/1706,йицІысабле,eleven
+532-1041,tsak1249,http://concepticon.clld.org/parameters/1707,йицІыкьобле,twelve
+532-233,tsak1249,http://concepticon.clld.org/parameters/1709,йицІыхьобле,fifteen
+532-953,tsak1249,http://concepticon.clld.org/parameters/1710,къале,twenty
+532-1216,tsak1249,http://concepticon.clld.org/parameters/1634,ващ,hundred
+532-238,tsak1249,http://concepticon.clld.org/parameters/1843,аъазыр,thousand
+532-247,tsak1249,http://concepticon.clld.org/parameters/1420,гьысабаъаз,count
+532-925,tsak1249,http://concepticon.clld.org/parameters/98,хыргынби,"every, all"
+532-903,tsak1249,http://concepticon.clld.org/parameters/1198,хатта,"much, many"
+532-903,tsak1249,http://concepticon.clld.org/parameters/1992,хатта,more
+532-299,tsak1249,http://concepticon.clld.org/parameters/1242,кІылда,"little (quantity), few"
+532-903,tsak1249,http://concepticon.clld.org/parameters/1881,хатта,enough
+532-602,tsak1249,http://concepticon.clld.org/parameters/1881,чІев,enough
+532-1214,tsak1249,http://concepticon.clld.org/parameters/1241,сыкІылда,some
+532-903,tsak1249,http://concepticon.clld.org/parameters/2023,хатта,"multitude, crowd"
+532-904,tsak1249,http://concepticon.clld.org/parameters/1429,гяцыйин’,full
+532-280,tsak1249,http://concepticon.clld.org/parameters/1624,кьарадын,empty
+532-813,tsak1249,http://concepticon.clld.org/parameters/779,сура,"part, piece"
+532-813,tsak1249,http://concepticon.clld.org/parameters/816,сура,half
+532-1210,tsak1249,http://concepticon.clld.org/parameters/1580,са,"alone, only"
+532-606,tsak1249,http://concepticon.clld.org/parameters/728,цІеррайна,first
+532-377,tsak1249,http://concepticon.clld.org/parameters/1529,хъикена,last
+532-49,tsak1249,http://concepticon.clld.org/parameters/1384,кьотІезна,second
+532-668,tsak1249,http://concepticon.clld.org/parameters/1888,чут’,pair
+532-51,tsak1249,http://concepticon.clld.org/parameters/1546,кьоъаз,two times
+532-789,tsak1249,http://concepticon.clld.org/parameters/1859,хьебытІезна,third
+532-417,tsak1249,http://concepticon.clld.org/parameters/417,хьебаъаз,three times
+532-1044,tsak1249,http://concepticon.clld.org/parameters/892,вахт,time
+532-50,tsak1249,http://concepticon.clld.org/parameters/1789,асар,age
+532-604,tsak1249,http://concepticon.clld.org/parameters/1789,сен,age
+532-664,tsak1249,http://concepticon.clld.org/parameters/1231,цІедын’,new
+532-294,tsak1249,http://concepticon.clld.org/parameters/1207,джегьил’,young
+532-1184,tsak1249,http://concepticon.clld.org/parameters/1229,кьасна,old
+532-589,tsak1249,http://concepticon.clld.org/parameters/672,экьда,early
+532-1197,tsak1249,http://concepticon.clld.org/parameters/477,гежда,late
+532-568,tsak1249,http://concepticon.clld.org/parameters/1376,гьаште,now
+532-935,tsak1249,http://concepticon.clld.org/parameters/1963,быссагьат,immediately
+532-866,tsak1249,http://concepticon.clld.org/parameters/1631,дирына,"swift, fast, quick"
+532-422,tsak1249,http://concepticon.clld.org/parameters/701,явашна,slow
+532-862,tsak1249,http://concepticon.clld.org/parameters/754,дарахмишеъаз,"hasten, hurry"
+532-515,tsak1249,http://concepticon.clld.org/parameters/425,эгланхьез,"retard, delay"
+532-30,tsak1249,http://concepticon.clld.org/parameters/1806,гигъаназ,"begin, beginning"
+532-1064,tsak1249,http://concepticon.clld.org/parameters/1186,хилли гьихьез,"last, endure"
+532-108,tsak1249,http://concepticon.clld.org/parameters/743,гъатихьанаъаз,end (temporal)
+532-108,tsak1249,http://concepticon.clld.org/parameters/1766,гъатихьанаъаз,finish
+532-785,tsak1249,http://concepticon.clld.org/parameters/1928,явашхьез,"cease, stop"
+532-208,tsak1249,http://concepticon.clld.org/parameters/790,гьазирна,ready
+532-1244,tsak1249,http://concepticon.clld.org/parameters/1676,гьаммаше,always
+532-235,tsak1249,http://concepticon.clld.org/parameters/1852,ара-ара,often
+532-795,tsak1249,http://concepticon.clld.org/parameters/1544,арабирда,sometimes
+532-156,tsak1249,http://concepticon.clld.org/parameters/703,гьаштехьили,soon
+532-119,tsak1249,http://concepticon.clld.org/parameters/418,хылийин’,long-time (for a)
+532-1166,tsak1249,http://concepticon.clld.org/parameters/1656,мыссаджед ди,never
+532-1098,tsak1249,http://concepticon.clld.org/parameters/204,мед,again
+532-349,tsak1249,http://concepticon.clld.org/parameters/1260,йигъ,day
+532-918,tsak1249,http://concepticon.clld.org/parameters/1233,хам,night
+532-1086,tsak1249,http://concepticon.clld.org/parameters/729,супсагьардан,dawn
+532-552,tsak1249,http://concepticon.clld.org/parameters/1339,мичІедын’,morning
+532-944,tsak1249,http://concepticon.clld.org/parameters/12,йикьыгь,"noon, midday"
+532-1051,tsak1249,http://concepticon.clld.org/parameters/1807,йикьыгьле хъее,afternoon
+532-702,tsak1249,http://concepticon.clld.org/parameters/1629,эхьа,evening
+532-1201,tsak1249,http://concepticon.clld.org/parameters/1283,гъийна,today
+532-546,tsak1249,http://concepticon.clld.org/parameters/1329,гъийхъа,tomorrow
+532-502,tsak1249,http://concepticon.clld.org/parameters/1179,хъыцыгъна,day-after-tomorrow
+532-852,tsak1249,http://concepticon.clld.org/parameters/1174,санихьа,yesterday
+532-926,tsak1249,http://concepticon.clld.org/parameters/1180,гьилийгъна,day-before-yesterday
+532-996,tsak1249,http://concepticon.clld.org/parameters/1353,саъат,hour
+532-996,tsak1249,http://concepticon.clld.org/parameters/1323,саъат,"clock, timepiece"
+532-1163,tsak1249,http://concepticon.clld.org/parameters/1469,гьафтя,week
+532-464,tsak1249,http://concepticon.clld.org/parameters/1699,таъатІил’,Sunday
+532-971,tsak1249,http://concepticon.clld.org/parameters/1697,итнайн,Monday
+532-255,tsak1249,http://concepticon.clld.org/parameters/1695,далаттийн,Tuesday
+532-158,tsak1249,http://concepticon.clld.org/parameters/1694,арбаъан,Wednesday
+532-298,tsak1249,http://concepticon.clld.org/parameters/1693,ул’джуманахош,Thursday
+532-310,tsak1249,http://concepticon.clld.org/parameters/1692,ул’джуман йигъ,Friday
+532-619,tsak1249,http://concepticon.clld.org/parameters/1700,сифтйин,Saturday
+532-1227,tsak1249,http://concepticon.clld.org/parameters/1370,ваз,month
+532-533,tsak1249,http://concepticon.clld.org/parameters/1226,сен’,year
+532-510,tsak1249,http://concepticon.clld.org/parameters/1471,кьыдим,winter
+532-647,tsak1249,http://concepticon.clld.org/parameters/1537,юххьан,spring
+532-913,tsak1249,http://concepticon.clld.org/parameters/1342,гъыл’,summer
+532-745,tsak1249,http://concepticon.clld.org/parameters/1276,цывыл’,autumn
+532-814,tsak1249,http://concepticon.clld.org/parameters/691,сенина вахт,season
+532-556,tsak1249,http://concepticon.clld.org/parameters/1587,эва ыхьай,smell (vb intrans)
+532-276,tsak1249,http://concepticon.clld.org/parameters/375,эва гьаъаз,sniff
+532-144,tsak1249,http://concepticon.clld.org/parameters/1586,эва хъаъаз,smell (vb trans)
+532-624,tsak1249,http://concepticon.clld.org/parameters/376,югун’ эва,"fragrant, good smelling"
+532-1211,tsak1249,http://concepticon.clld.org/parameters/42,чапалин эва,"stinking, bad smelling"
+532-973,tsak1249,http://concepticon.clld.org/parameters/21,дад,taste
+532-83,tsak1249,http://concepticon.clld.org/parameters/717,иттун’,sweet
+532-698,tsak1249,http://concepticon.clld.org/parameters/1091,кьевнан’,salty
+532-1025,tsak1249,http://concepticon.clld.org/parameters/887,кьапІын’,bitter
+532-485,tsak1249,http://concepticon.clld.org/parameters/1906,чІирчІиман’,"acid, sour"
+532-698,tsak1249,http://concepticon.clld.org/parameters/70,кьевнан’,brackish
+532-864,tsak1249,http://concepticon.clld.org/parameters/1408,гъийихьез,hear
+532-530,tsak1249,http://concepticon.clld.org/parameters/1608,кІыры гьиез,listen
+532-760,tsak1249,http://concepticon.clld.org/parameters/1811,сес,"sound, noise"
+532-883,tsak1249,http://concepticon.clld.org/parameters/377,аврайкон’,loud
+532-482,tsak1249,http://concepticon.clld.org/parameters/1314,джинджина,"quiet, silence"
+532-812,tsak1249,http://concepticon.clld.org/parameters/1409,гъажез,see
+532-473,tsak1249,http://concepticon.clld.org/parameters/1819,илекказ,"look, look at"
+532-95,tsak1249,http://concepticon.clld.org/parameters/1039,гьагоз,show
+532-861,tsak1249,http://concepticon.clld.org/parameters/708,ишигъгихьаз,shine
+532-237,tsak1249,http://concepticon.clld.org/parameters/679,ачухын’,bright
+532-333,tsak1249,http://concepticon.clld.org/parameters/1613,ранг,color
+532-237,tsak1249,http://concepticon.clld.org/parameters/250,ачухын’,light (in color)
+532-1048,tsak1249,http://concepticon.clld.org/parameters/706,рышин,dark (in color)
+532-736,tsak1249,http://concepticon.clld.org/parameters/1335,джагоран’,white
+532-824,tsak1249,http://concepticon.clld.org/parameters/163,кІарын’,black
+532-80,tsak1249,http://concepticon.clld.org/parameters/156,чІаран’,red
+532-804,tsak1249,http://concepticon.clld.org/parameters/837,хьынакин’,blue
+532-279,tsak1249,http://concepticon.clld.org/parameters/1425,чиван’,green
+532-768,tsak1249,http://concepticon.clld.org/parameters/1424,дыракьын’,yellow
+532-120,tsak1249,http://concepticon.clld.org/parameters/1892,хъихьараз,touch
+532-418,tsak1249,http://concepticon.clld.org/parameters/378,гьочІаназ,pinch
+532-1050,tsak1249,http://concepticon.clld.org/parameters/1079,баштахьез,feel
+532-285,tsak1249,http://concepticon.clld.org/parameters/1884,ытІымын’,hard
+532-72,tsak1249,http://concepticon.clld.org/parameters/1856,гъымнан’,soft
+532-563,tsak1249,http://concepticon.clld.org/parameters/1923,кубытин’,rough
+532-186,tsak1249,http://concepticon.clld.org/parameters/1234,выжанан’,smooth
+532-303,tsak1249,http://concepticon.clld.org/parameters/1396,экьын’,sharp
+532-563,tsak1249,http://concepticon.clld.org/parameters/379,кубытин’,"blunt, dull"
+532-426,tsak1249,http://concepticon.clld.org/parameters/1210,йикьын’,heavy
+532-1139,tsak1249,http://concepticon.clld.org/parameters/1052,сибукын’,light (in weight)
+532-279,tsak1249,http://concepticon.clld.org/parameters/1726,чиван’,"wet, damp"
+532-395,tsak1249,http://concepticon.clld.org/parameters/1398,къурын’,dry
+532-1245,tsak1249,http://concepticon.clld.org/parameters/1286,цІахьилин’,hot
+532-290,tsak1249,http://concepticon.clld.org/parameters/1232,гъуман’,warm
+532-639,tsak1249,http://concepticon.clld.org/parameters/1287,мыкІан’,cold
+532-457,tsak1249,http://concepticon.clld.org/parameters/704,тямызын’,clean
+532-709,tsak1249,http://concepticon.clld.org/parameters/1230,микьнан’,"dirty, soiled"
+532-630,tsak1249,http://concepticon.clld.org/parameters/380,сачвыдхынин’,wrinkled
+532-1143,tsak1249,http://concepticon.clld.org/parameters/53,рыгь,"soul, spirit"
+532-887,tsak1249,http://concepticon.clld.org/parameters/1572,матхана,"surprised, astonished"
+532-441,tsak1249,http://concepticon.clld.org/parameters/720,кьисмат,"good fortune, luck"
+532-1138,tsak1249,http://concepticon.clld.org/parameters/56,кьисмат девхьай,"misfortune, bad luck"
+532-38,tsak1249,http://concepticon.clld.org/parameters/1495,шадна,"joyful, glad, happy"
+532-1121,tsak1249,http://concepticon.clld.org/parameters/1355,ахъанаъаз,laugh
+532-1121,tsak1249,http://concepticon.clld.org/parameters/1451,ахъанаъаз,smile
+532-672,tsak1249,http://concepticon.clld.org/parameters/1413,гьивагоз,play
+532-550,tsak1249,http://concepticon.clld.org/parameters/923,ыкканаз,love
+532-455,tsak1249,http://concepticon.clld.org/parameters/578,авва гьаъаз,kiss
+532-755,tsak1249,http://concepticon.clld.org/parameters/928,хьылиби алягьаз,embrace
+532-632,tsak1249,http://concepticon.clld.org/parameters/1783,ыкьар,pain
+532-252,tsak1249,http://concepticon.clld.org/parameters/1668,гъарибыйвалла,"grief, sorrow, sadness"
+532-1127,tsak1249,http://concepticon.clld.org/parameters/1000,орыкыр,"anxiety, worry"
+532-650,tsak1249,http://concepticon.clld.org/parameters/1875,пашмалхьез,"regret, be sorry"
+532-22,tsak1249,http://concepticon.clld.org/parameters/1141,язухийвалла,pity
+532-254,tsak1249,http://concepticon.clld.org/parameters/1839,ащез,"cry, weep"
+532-818,tsak1249,http://concepticon.clld.org/parameters/1651,нягъ,tear (noun)
+532-1142,tsak1249,http://concepticon.clld.org/parameters/716,офулдамишхьез,groan
+532-1054,tsak1249,http://concepticon.clld.org/parameters/1607,дикканаз,hate
+532-162,tsak1249,http://concepticon.clld.org/parameters/1607,дейкканаз,hate
+532-137,tsak1249,http://concepticon.clld.org/parameters/82,гьырс,anger
+532-79,tsak1249,http://concepticon.clld.org/parameters/82,къал,anger
+532-4,tsak1249,http://concepticon.clld.org/parameters/40,пахилийвалла,"envy, jealousy"
+532-188,tsak1249,http://concepticon.clld.org/parameters/1776,нач’,shame (noun)
+532-172,tsak1249,http://concepticon.clld.org/parameters/174,дамах хьад,proud
+532-610,tsak1249,http://concepticon.clld.org/parameters/1779,учІурна инсан,dare
+532-771,tsak1249,http://concepticon.clld.org/parameters/3,учІурна,brave
+532-81,tsak1249,http://concepticon.clld.org/parameters/781,гичI,"fear, fright"
+532-415,tsak1249,http://concepticon.clld.org/parameters/1810,четинийвалла,danger
+532-199,tsak1249,http://concepticon.clld.org/parameters/1784,мырад,"desire, want"
+532-383,tsak1249,http://concepticon.clld.org/parameters/1784,метляб,"desire, want"
+532-1060,tsak1249,http://concepticon.clld.org/parameters/1750,къайиххъаз,choose
+532-811,tsak1249,http://concepticon.clld.org/parameters/1092,умудгьаъаз,hope
+532-1239,tsak1249,http://concepticon.clld.org/parameters/100,гъирйатнана,faithful
+532-181,tsak1249,http://concepticon.clld.org/parameters/1657,хъоткуйин,true
+532-1202,tsak1249,http://concepticon.clld.org/parameters/601,гьорби гьаъаз,"lie, tell lies"
+532-1053,tsak1249,http://concepticon.clld.org/parameters/13,алдамишеъаз,deceit
+532-322,tsak1249,http://concepticon.clld.org/parameters/1528,багъышеъаз,forgive
+532-1212,tsak1249,http://concepticon.clld.org/parameters/1035,югун’,good
+532-956,tsak1249,http://concepticon.clld.org/parameters/1292,кышин’,bad
+532-3,tsak1249,http://concepticon.clld.org/parameters/1725,хъоткуйин’,"right, correct"
+532-1122,tsak1249,http://concepticon.clld.org/parameters/1390,хъучІоткурын’,wrong
+532-1068,tsak1249,http://concepticon.clld.org/parameters/134,хата,fault
+532-947,tsak1249,http://concepticon.clld.org/parameters/1293,саІгьв,"mistake, error"
+532-136,tsak1249,http://concepticon.clld.org/parameters/381,тахсир гихьез,blame
+532-1014,tsak1249,http://concepticon.clld.org/parameters/1687,огмишеъаз,praise
+532-779,tsak1249,http://concepticon.clld.org/parameters/1427,батІрайна,beautiful
+532-28,tsak1249,http://concepticon.clld.org/parameters/1548,хъаляп,ugly
+532-956,tsak1249,http://concepticon.clld.org/parameters/1548,кышин’,ugly
+532-741,tsak1249,http://concepticon.clld.org/parameters/2018,кьитІ’мир,greedy
+532-821,tsak1249,http://concepticon.clld.org/parameters/1310,акІел’нана,clever
+532-278,tsak1249,http://concepticon.clld.org/parameters/1562,викьыр,mind
+532-566,tsak1249,http://concepticon.clld.org/parameters/1415,викьыррамишхьез,think (= reflect)
+532-247,tsak1249,http://concepticon.clld.org/parameters/1513,гьысабаъаз,think (= be of the opinion)
+532-432,tsak1249,http://concepticon.clld.org/parameters/1890,инамаъаз,believe
+532-1218,tsak1249,http://concepticon.clld.org/parameters/1536,къаммишхьез,understand
+532-696,tsak1249,http://concepticon.clld.org/parameters/1410,ацІахьез,know
+532-1220,tsak1249,http://concepticon.clld.org/parameters/1932,фыкыр гьаъаз,guess
+532-348,tsak1249,http://concepticon.clld.org/parameters/117,алдамишаъаз,imitate
+532-954,tsak1249,http://concepticon.clld.org/parameters/1521,—,seem
+532-792,tsak1249,http://concepticon.clld.org/parameters/1609,фыкыр,"idea, notion"
+532-495,tsak1249,http://concepticon.clld.org/parameters/698,акІ’елнана,wise
+532-1195,tsak1249,http://concepticon.clld.org/parameters/698,мерд,wise
+532-1029,tsak1249,http://concepticon.clld.org/parameters/1518,быдала,"foolish, stupid"
+532-611,tsak1249,http://concepticon.clld.org/parameters/1518,бачІар,"foolish, stupid"
+532-611,tsak1249,http://concepticon.clld.org/parameters/1899,бачІар,"insane, crazy"
+532-696,tsak1249,http://concepticon.clld.org/parameters/504,ацІахьез,learn
+532-1017,tsak1249,http://concepticon.clld.org/parameters/1929,хъадхъаз,study
+532-1017,tsak1249,http://concepticon.clld.org/parameters/709,хъадхъаз,teach
+532-1137,tsak1249,http://concepticon.clld.org/parameters/753,телеба,pupil
+532-1018,tsak1249,http://concepticon.clld.org/parameters/1038,маъаллим,teacher
+532-492,tsak1249,http://concepticon.clld.org/parameters/673,мектаб,school
+532-1040,tsak1249,http://concepticon.clld.org/parameters/707,кІел’ гьаъаз,remember
+532-948,tsak1249,http://concepticon.clld.org/parameters/707,кIел’ вод,remember
+532-227,tsak1249,http://concepticon.clld.org/parameters/1523,к’Іелгьиханаъаз,forget
+532-249,tsak1249,http://concepticon.clld.org/parameters/989,къаммишин’,"clear, plain"
+532-878,tsak1249,http://concepticon.clld.org/parameters/1764,къаммиш дехьен’,obscure
+532-968,tsak1249,http://concepticon.clld.org/parameters/1121,сир,secret
+532-1225,tsak1249,http://concepticon.clld.org/parameters/509,ацІан’,"sure, certain"
+532-584,tsak1249,http://concepticon.clld.org/parameters/1626,башдагьаъаз,explain
+532-78,tsak1249,http://concepticon.clld.org/parameters/1162,макьсад,"intention, purpose"
+532-792,tsak1249,http://concepticon.clld.org/parameters/1162,фыкыр,"intention, purpose"
+532-198,tsak1249,http://concepticon.clld.org/parameters/860,сабаб,cause
+532-1113,tsak1249,http://concepticon.clld.org/parameters/1308,шак,doubt
+532-1151,tsak1249,http://concepticon.clld.org/parameters/1841,шак гьаъаз,suspect
+532-401,tsak1249,http://concepticon.clld.org/parameters/1902,массагьиез,betray
+532-617,tsak1249,http://concepticon.clld.org/parameters/643,эйхьидеш,"need, necessity"
+532-725,tsak1249,http://concepticon.clld.org/parameters/686,рагьатын’,easy
+532-569,tsak1249,http://concepticon.clld.org/parameters/584,четинин’,difficult
+532-954,tsak1249,http://concepticon.clld.org/parameters/1812,—,"try, attempt"
+532-1219,tsak1249,http://concepticon.clld.org/parameters/488,кьейд,"way, manner"
+532-6,tsak1249,http://concepticon.clld.org/parameters/1577,н,and
+532-324,tsak1249,http://concepticon.clld.org/parameters/1577,ва,and
+532-1152,tsak1249,http://concepticon.clld.org/parameters/1157,увфое нишизва,because
+532-916,tsak1249,http://concepticon.clld.org/parameters/1459,агар,if
+532-565,tsak1249,http://concepticon.clld.org/parameters/1014,е,or
+532-1247,tsak1249,http://concepticon.clld.org/parameters/1268,гьоъо,"yes, affirmative"
+532-33,tsak1249,http://concepticon.clld.org/parameters/1269,ди,"no, negative"
+532-1150,tsak1249,http://concepticon.clld.org/parameters/1239,нягьад,how?
+532-16,tsak1249,http://concepticon.clld.org/parameters/1239,няхъуд,how?
+532-1005,tsak1249,http://concepticon.clld.org/parameters/822,хьулеле,how many?
+532-257,tsak1249,http://concepticon.clld.org/parameters/531,нимечан,how much?
+532-251,tsak1249,http://concepticon.clld.org/parameters/1236,гьаживай,what?
+532-1170,tsak1249,http://concepticon.clld.org/parameters/1238,мысса,when?
+532-1167,tsak1249,http://concepticon.clld.org/parameters/1237,нягъа,where?
+532-1056,tsak1249,http://concepticon.clld.org/parameters/1237,ненче,where?
+532-897,tsak1249,http://concepticon.clld.org/parameters/727,няхудын’,which?
+532-1038,tsak1249,http://concepticon.clld.org/parameters/1235,гьашуйий,who?
+532-743,tsak1249,http://concepticon.clld.org/parameters/1270,нишиз,why?
+532-760,tsak1249,http://concepticon.clld.org/parameters/1363,сес,voice
+532-8,tsak1249,http://concepticon.clld.org/parameters/1261,гьикІоз,sing
+532-36,tsak1249,http://concepticon.clld.org/parameters/715,цІирывъаз,"shout, cry out"
+532-116,tsak1249,http://concepticon.clld.org/parameters/55,хьушхьуш гьаъаз,whisper
+532-116,tsak1249,http://concepticon.clld.org/parameters/128,хьушхьуш гьаъаз,mumble
+532-71,tsak1249,http://concepticon.clld.org/parameters/1025,сут’тяъаз,whistle
+532-1231,tsak1249,http://concepticon.clld.org/parameters/298,цІырз гьаъаз,"shriek, screech"
+532-194,tsak1249,http://concepticon.clld.org/parameters/526,упамашхьез,howl
+532-951,tsak1249,http://concepticon.clld.org/parameters/1623,юшонаъаз,"speak, talk"
+532-429,tsak1249,http://concepticon.clld.org/parameters/1866,пел’тек гьаъаз,"stutter, stammer"
+532-12,tsak1249,http://concepticon.clld.org/parameters/1458,игьез,say
+532-1082,tsak1249,http://concepticon.clld.org/parameters/1711,хабар гьиваъаз,tell story
+532-844,tsak1249,http://concepticon.clld.org/parameters/1115,юшонхьез,speech (make a)
+532-1124,tsak1249,http://concepticon.clld.org/parameters/48,сес дяъаз,silent (be)
+532-1196,tsak1249,http://concepticon.clld.org/parameters/1307,миз,language
+532-26,tsak1249,http://concepticon.clld.org/parameters/1599,дживаб,word
+532-1203,tsak1249,http://concepticon.clld.org/parameters/1405,до,name
+532-1213,tsak1249,http://concepticon.clld.org/parameters/1309,хъыдгынеъаз,"ask (question, inquire)"
+532-1057,tsak1249,http://concepticon.clld.org/parameters/1275,дживаб хъиез,answer
+532-323,tsak1249,http://concepticon.clld.org/parameters/2022,гарданахъа алятІуй,"admit, confess"
+532-714,tsak1249,http://concepticon.clld.org/parameters/755,инкар гьаъаз,deny
+532-691,tsak1249,http://concepticon.clld.org/parameters/1828,гьихъаз,"ask, request"
+532-155,tsak1249,http://concepticon.clld.org/parameters/1675,дживаб гьиез,promise
+532-714,tsak1249,http://concepticon.clld.org/parameters/49,инкар гьаъаз,refuse
+532-853,tsak1249,http://concepticon.clld.org/parameters/83,гьидясараз,forbid
+532-424,tsak1249,http://concepticon.clld.org/parameters/299,хъалламишхьез,"rebuke, scold"
+532-329,tsak1249,http://concepticon.clld.org/parameters/1084,онаъаз,call (=summon)
+532-41,tsak1249,http://concepticon.clld.org/parameters/180,ийгьез,call (=name)
+532-41,tsak1249,http://concepticon.clld.org/parameters/9,ийгьез,announce
+532-797,tsak1249,http://concepticon.clld.org/parameters/1192,хъакьанаъаз,threaten
+532-517,tsak1249,http://concepticon.clld.org/parameters/101,огмишхьез,boast
+532-911,tsak1249,http://concepticon.clld.org/parameters/1672,окІаназ,write
+532-1017,tsak1249,http://concepticon.clld.org/parameters/724,хъадхъаз,read
+532-856,tsak1249,http://concepticon.clld.org/parameters/648,кагъыз,paper
+532-404,tsak1249,http://concepticon.clld.org/parameters/794,рушкІа,pen
+532-91,tsak1249,http://concepticon.clld.org/parameters/794,кьалям,pen
+532-962,tsak1249,http://concepticon.clld.org/parameters/963,китаб,book
+532-574,tsak1249,http://concepticon.clld.org/parameters/1045,шаир,poet
+532-705,tsak1249,http://concepticon.clld.org/parameters/777,зурнай,flute
+532-828,tsak1249,http://concepticon.clld.org/parameters/777,дютякІ,flute
+532-77,tsak1249,http://concepticon.clld.org/parameters/908,накьра,drum
+532-559,tsak1249,http://concepticon.clld.org/parameters/2136,дурба,"horn, trumpet"
+532-954,tsak1249,http://concepticon.clld.org/parameters/300,—,rattle
+532-63,tsak1249,http://concepticon.clld.org/parameters/1300,олкя,country
+532-88,tsak1249,http://concepticon.clld.org/parameters/1300,гьукмат,country
+532-45,tsak1249,http://concepticon.clld.org/parameters/89,ватан,one's native country
+532-1059,tsak1249,http://concepticon.clld.org/parameters/1391,шагьар,"city, town"
+532-1102,tsak1249,http://concepticon.clld.org/parameters/930,хив,village
+532-827,tsak1249,http://concepticon.clld.org/parameters/1010,сегьрат,boundary
+532-245,tsak1249,http://concepticon.clld.org/parameters/789,халкь,people (populace)
+532-596,tsak1249,http://concepticon.clld.org/parameters/789,джамаъат,people (populace)
+532-657,tsak1249,http://concepticon.clld.org/parameters/302,тайфа,"tribe, clan"
+532-598,tsak1249,http://concepticon.clld.org/parameters/301,вукъул’,"chief, chieftain"
+532-1191,tsak1249,http://concepticon.clld.org/parameters/1296,аса,"staff, walking stick"
+532-1154,tsak1249,http://concepticon.clld.org/parameters/1846,хъодкауй,"rule, govern"
+532-894,tsak1249,http://concepticon.clld.org/parameters/1508,паччагь,"king, ruler"
+532-927,tsak1249,http://concepticon.clld.org/parameters/1306,ханум,queen
+532-1125,tsak1249,http://concepticon.clld.org/parameters/1306,биче,queen
+532-954,tsak1249,http://concepticon.clld.org/parameters/482,—,"noble, nobleman"
+532-128,tsak1249,http://concepticon.clld.org/parameters/1032,шагьарна инсан,"citizen, subject"
+532-434,tsak1249,http://concepticon.clld.org/parameters/383,агъа,master
+532-203,tsak1249,http://concepticon.clld.org/parameters/812,къул,slave
+532-219,tsak1249,http://concepticon.clld.org/parameters/255,гьаІшбал,servant
+532-848,tsak1249,http://concepticon.clld.org/parameters/255,кодкъул,servant
+532-57,tsak1249,http://concepticon.clld.org/parameters/384,селимна инсан,freeman
+532-243,tsak1249,http://concepticon.clld.org/parameters/1128,амыр гьаъаз,"command, order"
+532-275,tsak1249,http://concepticon.clld.org/parameters/1635,мукІюр гьаъаз,obey
+532-367,tsak1249,http://concepticon.clld.org/parameters/1003,иджаза гьиез,"let, permit"
+532-1236,tsak1249,http://concepticon.clld.org/parameters/1325,гьамбаз,"friend, companion"
+532-831,tsak1249,http://concepticon.clld.org/parameters/1358,душман,enemy
+532-786,tsak1249,http://concepticon.clld.org/parameters/1332,къониш,neighbor
+532-747,tsak1249,http://concepticon.clld.org/parameters/791,дяцІана инсан,stranger
+532-1221,tsak1249,http://concepticon.clld.org/parameters/1782,мигьман,guest
+532-889,tsak1249,http://concepticon.clld.org/parameters/1545,есси,host
+532-497,tsak1249,http://concepticon.clld.org/parameters/1897,кумаг,"help, aid"
+532-686,tsak1249,http://concepticon.clld.org/parameters/1550,мешатаъаз,"hinder, prevent"
+532-582,tsak1249,http://concepticon.clld.org/parameters/1747,адат,custom
+532-995,tsak1249,http://concepticon.clld.org/parameters/1848,сачабхырый,"strife, quarrel"
+532-43,tsak1249,http://concepticon.clld.org/parameters/2024,орит,"conspiracy, plot"
+532-955,tsak1249,http://concepticon.clld.org/parameters/1831,горушмишхьез,meet
+532-1172,tsak1249,http://concepticon.clld.org/parameters/1831,гьавжез,meet
+532-645,tsak1249,http://concepticon.clld.org/parameters/1610,кьаІгьбав,prostitute
+532-532,tsak1249,http://concepticon.clld.org/parameters/1423,сачахараз,fight (vb)
+532-1055,tsak1249,http://concepticon.clld.org/parameters/579,дявы,"war, battle"
+532-707,tsak1249,http://concepticon.clld.org/parameters/1338,суІлгь,peace
+532-1215,tsak1249,http://concepticon.clld.org/parameters/1561,орду,army
+532-504,tsak1249,http://concepticon.clld.org/parameters/1561,армия,army
+532-217,tsak1249,http://concepticon.clld.org/parameters/1941,эскяр,soldier
+532-1224,tsak1249,http://concepticon.clld.org/parameters/951,ярах,"weapons, arms"
+532-979,tsak1249,http://concepticon.clld.org/parameters/1763,дал,club
+532-1022,tsak1249,http://concepticon.clld.org/parameters/386,дявъийин якІв,battle-ax
+532-954,tsak1249,http://concepticon.clld.org/parameters/387,—,sling
+532-634,tsak1249,http://concepticon.clld.org/parameters/994,вук,bow
+532-240,tsak1249,http://concepticon.clld.org/parameters/977,дарганакь,arrow
+532-531,tsak1249,http://concepticon.clld.org/parameters/945,ох,spear
+532-371,tsak1249,http://concepticon.clld.org/parameters/1535,томпуз,sword
+532-945,tsak1249,http://concepticon.clld.org/parameters/1566,тюфанг,"gun, cannon"
+532-649,tsak1249,http://concepticon.clld.org/parameters/1566,тифанг,"gun, cannon"
+532-350,tsak1249,http://concepticon.clld.org/parameters/1061,ярахбы,armor (defensive)
+532-379,tsak1249,http://concepticon.clld.org/parameters/1680,кьак,helmet
+532-23,tsak1249,http://concepticon.clld.org/parameters/1064,галхан,shield
+532-976,tsak1249,http://concepticon.clld.org/parameters/1938,къала,fortress
+532-73,tsak1249,http://concepticon.clld.org/parameters/1671,мырали,tower
+532-858,tsak1249,http://concepticon.clld.org/parameters/783,къамхай,victory
+532-221,tsak1249,http://concepticon.clld.org/parameters/782,къамдехьай,defeat
+532-700,tsak1249,http://concepticon.clld.org/parameters/722,гьуджумаъаз,attack
+532-988,tsak1249,http://concepticon.clld.org/parameters/1330,къорамишхьез,defend
+532-403,tsak1249,http://concepticon.clld.org/parameters/421,йикъалхъа хъахьез,retreat
+532-713,tsak1249,http://concepticon.clld.org/parameters/1696,дустагъ гирхьаз,surrender
+532-872,tsak1249,http://concepticon.clld.org/parameters/1072,аххъана,"captive, prisoner"
+532-265,tsak1249,http://concepticon.clld.org/parameters/1072,дустагъчий,"captive, prisoner"
+532-236,tsak1249,http://concepticon.clld.org/parameters/1940,кьараул’,"guard, sentinel"
+532-900,tsak1249,http://concepticon.clld.org/parameters/1022,давла,"booty, spoils"
+532-954,tsak1249,http://concepticon.clld.org/parameters/65,—,ambush
+532-270,tsak1249,http://concepticon.clld.org/parameters/1858,балугъчий,fisherman
+532-749,tsak1249,http://concepticon.clld.org/parameters/1074,къармах,fishhook
+532-960,tsak1249,http://concepticon.clld.org/parameters/19,лескІа,fishing line
+532-134,tsak1249,http://concepticon.clld.org/parameters/388,сеткІа,fishnet
+532-954,tsak1249,http://concepticon.clld.org/parameters/389,—,fish trap
+532-954,tsak1249,http://concepticon.clld.org/parameters/2013,—,bait
+532-675,tsak1249,http://concepticon.clld.org/parameters/1435,къонахъаз,hunt
+532-890,tsak1249,http://concepticon.clld.org/parameters/1435,гьаркьыний,hunt
+532-1175,tsak1249,http://concepticon.clld.org/parameters/1172,агьаз,shoot
+532-957,tsak1249,http://concepticon.clld.org/parameters/161,хъидидхьырез,miss (target)
+532-369,tsak1249,http://concepticon.clld.org/parameters/1075,чІамкІ,trap (noun)
+532-766,tsak1249,http://concepticon.clld.org/parameters/1170,аххъаз,trap (vb)
+532-1109,tsak1249,http://concepticon.clld.org/parameters/1062,кьанун,law
+532-1208,tsak1249,http://concepticon.clld.org/parameters/1062,закун,law
+532-474,tsak1249,http://concepticon.clld.org/parameters/1068,диван,court
+532-1070,tsak1249,http://concepticon.clld.org/parameters/1068,суд,court
+532-90,tsak1249,http://concepticon.clld.org/parameters/1818,диван гьаъаз,judge (vb)
+532-603,tsak1249,http://concepticon.clld.org/parameters/1818,суд гьаъаз,judge (vb)
+532-480,tsak1249,http://concepticon.clld.org/parameters/1067,судын кьарар,judgment
+532-1101,tsak1249,http://concepticon.clld.org/parameters/861,диванчий,judge (noun)
+532-1076,tsak1249,http://concepticon.clld.org/parameters/861,судья,judge (noun)
+532-139,tsak1249,http://concepticon.clld.org/parameters/2020,гІярзакар,plaintiff
+532-587,tsak1249,http://concepticon.clld.org/parameters/1034,дживабкар,defendant
+532-234,tsak1249,http://concepticon.clld.org/parameters/1144,шагьад,witness
+532-1037,tsak1249,http://concepticon.clld.org/parameters/1939,кьын гьаъаз,swear
+532-42,tsak1249,http://concepticon.clld.org/parameters/1712,кьын,oath
+532-150,tsak1249,http://concepticon.clld.org/parameters/1814,тахсир гьаъаз,accuse
+532-150,tsak1249,http://concepticon.clld.org/parameters/484,тахсир гьаъаз,condemn
+532-787,tsak1249,http://concepticon.clld.org/parameters/983,тахсиркар гьаъаз,convict (vb)
+532-454,tsak1249,http://concepticon.clld.org/parameters/988,данмишхьез,acquit
+532-37,tsak1249,http://concepticon.clld.org/parameters/1682,тахсирнана,guilty
+532-855,tsak1249,http://concepticon.clld.org/parameters/90,тахсирдиънана,innocent
+532-474,tsak1249,http://concepticon.clld.org/parameters/390,диван,"penalty, punishment"
+532-347,tsak1249,http://concepticon.clld.org/parameters/390,джаза,"penalty, punishment"
+532-1039,tsak1249,http://concepticon.clld.org/parameters/218,пылин штраф,fine
+532-196,tsak1249,http://concepticon.clld.org/parameters/1281,дусагъ,"prison, jail"
+532-460,tsak1249,http://concepticon.clld.org/parameters/845,гикьуй,murder
+532-117,tsak1249,http://concepticon.clld.org/parameters/902,кьагьбевал,adultery
+532-832,tsak1249,http://concepticon.clld.org/parameters/953,зоррамишайий,rape
+532-983,tsak1249,http://concepticon.clld.org/parameters/1889,геххьанаъаз,arson
+532-230,tsak1249,http://concepticon.clld.org/parameters/1792,гьорбыгьауй,perjury
+532-1126,tsak1249,http://concepticon.clld.org/parameters/713,хъохъаз,steal
+532-140,tsak1249,http://concepticon.clld.org/parameters/1160,сихнари,thief
+532-313,tsak1249,http://concepticon.clld.org/parameters/661,дин’,religion
+532-478,tsak1249,http://concepticon.clld.org/parameters/1944,ГІыниш,God
+532-148,tsak1249,http://concepticon.clld.org/parameters/1944,Аллагь,God
+532-871,tsak1249,http://concepticon.clld.org/parameters/911,килса,"temple, church"
+532-353,tsak1249,http://concepticon.clld.org/parameters/911,мизер,"temple, church"
+532-537,tsak1249,http://concepticon.clld.org/parameters/853,мигьмар,altar
+532-266,tsak1249,http://concepticon.clld.org/parameters/1103,кьурбан,"sacrifice, offering"
+532-66,tsak1249,http://concepticon.clld.org/parameters/257,сужда гьаъаз,worship
+532-163,tsak1249,http://concepticon.clld.org/parameters/24,ибадат гьаъаз,pray
+532-241,tsak1249,http://concepticon.clld.org/parameters/852,кешиш,priest
+532-794,tsak1249,http://concepticon.clld.org/parameters/852,малла,priest
+532-1063,tsak1249,http://concepticon.clld.org/parameters/1702,иман гьацІад,"holy, sacred"
+532-597,tsak1249,http://concepticon.clld.org/parameters/304,насягьат гьаъаз,preach
+532-101,tsak1249,http://concepticon.clld.org/parameters/391,ихтияр гьиез,bless
+532-762,tsak1249,http://concepticon.clld.org/parameters/391,рухсат гьиез,bless
+532-720,tsak1249,http://concepticon.clld.org/parameters/8,къаргъышаъаз,curse
+532-653,tsak1249,http://concepticon.clld.org/parameters/303,сив акьаз,fast (vb)
+532-1089,tsak1249,http://concepticon.clld.org/parameters/1565,джаннат,heaven
+532-106,tsak1249,http://concepticon.clld.org/parameters/878,джагьанам,hell
+532-250,tsak1249,http://concepticon.clld.org/parameters/1973,илбис,demon (evil spirit)
+532-1147,tsak1249,http://concepticon.clld.org/parameters/1973,шейтIан,demon (evil spirit)
+532-256,tsak1249,http://concepticon.clld.org/parameters/1945,хач,idol
+532-272,tsak1249,http://concepticon.clld.org/parameters/392,джадубы гьаъый,"magic, witchcraft, sorcery"
+532-706,tsak1249,http://concepticon.clld.org/parameters/2137,албишда кьарий,"sorcerer, witch"
+532-525,tsak1249,http://concepticon.clld.org/parameters/2138,пери,"fairy, elf"
+532-292,tsak1249,http://concepticon.clld.org/parameters/1175,ахъ,"ghost, phantom"
+532-151,tsak1249,http://concepticon.clld.org/parameters/107,алямат,"omen, portent"

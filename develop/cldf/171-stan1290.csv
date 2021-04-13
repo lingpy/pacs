@@ -1,0 +1,1639 @@
+ID,Language_ID,Feature_ID,Value,Concept
+171-580,stan1290,http://concepticon.clld.org/parameters/965,monde,world
+171-747,stan1290,http://concepticon.clld.org/parameters/626,terre,"earth, land"
+171-747,stan1290,http://concepticon.clld.org/parameters/1228,terre,"earth=ground, soil"
+171-327,stan1290,http://concepticon.clld.org/parameters/1228,sol,"earth=ground, soil"
+171-72,stan1290,http://concepticon.clld.org/parameters/2,poussière,dust
+171-868,stan1290,http://concepticon.clld.org/parameters/640,boue,mud
+171-593,stan1290,http://concepticon.clld.org/parameters/671,sable,sand
+171-223,stan1290,http://concepticon.clld.org/parameters/2118,montagne,"mountain, hill"
+171-1185,stan1290,http://concepticon.clld.org/parameters/2118,colline,"mountain, hill"
+171-205,stan1290,http://concepticon.clld.org/parameters/618,falaise,"cliff, precipice"
+171-501,stan1290,http://concepticon.clld.org/parameters/618,escarpement,"cliff, precipice"
+171-521,stan1290,http://concepticon.clld.org/parameters/652,plaine,"plain, field"
+171-1092,stan1290,http://concepticon.clld.org/parameters/652,campagne,"plain, field"
+171-20,stan1290,http://concepticon.clld.org/parameters/921,vallée,valley
+171-758,stan1290,http://concepticon.clld.org/parameters/622,île,island
+171-1074,stan1290,http://concepticon.clld.org/parameters/166,continent,mainland
+171-451,stan1290,http://concepticon.clld.org/parameters/113,rivage,shore
+171-432,stan1290,http://concepticon.clld.org/parameters/113,côte,shore
+171-315,stan1290,http://concepticon.clld.org/parameters/113,littoral,shore
+171-543,stan1290,http://concepticon.clld.org/parameters/1155,grotte,cave
+171-1510,stan1290,http://concepticon.clld.org/parameters/948,eau,water
+171-40,stan1290,http://concepticon.clld.org/parameters/1474,mer,sea
+171-1018,stan1290,http://concepticon.clld.org/parameters/258,étale,calm (of sea)
+171-396,stan1290,http://concepticon.clld.org/parameters/259,trouble,rough (of sea)
+171-1194,stan1290,http://concepticon.clld.org/parameters/259,agité,rough (of sea)
+171-1122,stan1290,http://concepticon.clld.org/parameters/1768,écume,foam
+171-862,stan1290,http://concepticon.clld.org/parameters/1768,mousse,foam
+171-496,stan1290,http://concepticon.clld.org/parameters/645,océan,ocean
+171-86,stan1290,http://concepticon.clld.org/parameters/624,lac,lake
+171-488,stan1290,http://concepticon.clld.org/parameters/663,golfe,"gulf, bay"
+171-193,stan1290,http://concepticon.clld.org/parameters/663,baie,"gulf, bay"
+171-581,stan1290,http://concepticon.clld.org/parameters/623,lagune,lagoon
+171-803,stan1290,http://concepticon.clld.org/parameters/660,récif,reef
+171-825,stan1290,http://concepticon.clld.org/parameters/1662,promontoire,"headland, point"
+171-181,stan1290,http://concepticon.clld.org/parameters/1662,pointe,"headland, point"
+171-680,stan1290,http://concepticon.clld.org/parameters/978,vague,wave
+171-1010,stan1290,http://concepticon.clld.org/parameters/891,marée,tide
+171-1068,stan1290,http://concepticon.clld.org/parameters/1026,marée basse,lowtide
+171-942,stan1290,http://concepticon.clld.org/parameters/613,marée haute,hightide
+171-1245,stan1290,http://concepticon.clld.org/parameters/666,fleuve,"river, stream, brook"
+171-700,stan1290,http://concepticon.clld.org/parameters/666,rivière,"river, stream, brook"
+171-1335,stan1290,http://concepticon.clld.org/parameters/666,ruisseau,"river, stream, brook"
+171-1130,stan1290,http://concepticon.clld.org/parameters/1982,tourbillon,whirlpool
+171-1076,stan1290,http://concepticon.clld.org/parameters/2144,source,"spring, well"
+171-1071,stan1290,http://concepticon.clld.org/parameters/2144,puits,"spring, well"
+171-1334,stan1290,http://concepticon.clld.org/parameters/1145,marais,swamp
+171-504,stan1290,http://concepticon.clld.org/parameters/1145,marécage,swamp
+171-1088,stan1290,http://concepticon.clld.org/parameters/943,chute d'eau,waterfall
+171-470,stan1290,http://concepticon.clld.org/parameters/943,cascade,waterfall
+171-130,stan1290,http://concepticon.clld.org/parameters/420,bois,"woods, forest"
+171-633,stan1290,http://concepticon.clld.org/parameters/420,forêt,"woods, forest"
+171-589,stan1290,http://concepticon.clld.org/parameters/906,arbre,tree (cf 08.600)
+171-130,stan1290,http://concepticon.clld.org/parameters/1803,bois,wood
+171-1094,stan1290,http://concepticon.clld.org/parameters/2125,pierre,"stone, rock"
+171-374,stan1290,http://concepticon.clld.org/parameters/2125,roc,"stone, rock"
+171-413,stan1290,http://concepticon.clld.org/parameters/2125,rocher,"stone, rock"
+171-765,stan1290,http://concepticon.clld.org/parameters/6,tremblement de terre,earthquake
+171-435,stan1290,http://concepticon.clld.org/parameters/6,séisme,earthquake
+171-425,stan1290,http://concepticon.clld.org/parameters/1732,ciel,sky
+171-455,stan1290,http://concepticon.clld.org/parameters/1343,soleil,sun
+171-1493,stan1290,http://concepticon.clld.org/parameters/1313,lune,moon
+171-431,stan1290,http://concepticon.clld.org/parameters/1430,étoile,star
+171-624,stan1290,http://concepticon.clld.org/parameters/1654,éclair,lightning
+171-163,stan1290,http://concepticon.clld.org/parameters/1150,tonnerre,thunder
+171-953,stan1290,http://concepticon.clld.org/parameters/2007,foudre,lightning (as striking)
+171-909,stan1290,http://concepticon.clld.org/parameters/858,orage,storm
+171-1389,stan1290,http://concepticon.clld.org/parameters/858,tempête,storm
+171-896,stan1290,http://concepticon.clld.org/parameters/1733,arc-en-ciel,rainbow
+171-97,stan1290,http://concepticon.clld.org/parameters/630,lumière,light (noun)
+171-1080,stan1290,http://concepticon.clld.org/parameters/11,obscurité,darkness
+171-233,stan1290,http://concepticon.clld.org/parameters/11,ténèbres,darkness
+171-1435,stan1290,http://concepticon.clld.org/parameters/1388,ombre,"shade, shadow"
+171-173,stan1290,http://concepticon.clld.org/parameters/1977,rosée,dew
+171-250,stan1290,http://concepticon.clld.org/parameters/27,air,air
+171-1414,stan1290,http://concepticon.clld.org/parameters/960,vent,wind
+171-1190,stan1290,http://concepticon.clld.org/parameters/1489,nuage,cloud
+171-1505,stan1290,http://concepticon.clld.org/parameters/249,brume,fog
+171-53,stan1290,http://concepticon.clld.org/parameters/249,brouillard,fog
+171-159,stan1290,http://concepticon.clld.org/parameters/658,pluie,rain (noun)
+171-761,stan1290,http://concepticon.clld.org/parameters/784,neige,snow (noun)
+171-242,stan1290,http://concepticon.clld.org/parameters/617,glace,ice
+171-14,stan1290,http://concepticon.clld.org/parameters/617,verglas,ice
+171-1285,stan1290,http://concepticon.clld.org/parameters/952,temps,weather
+171-1121,stan1290,http://concepticon.clld.org/parameters/221,feu,fire
+171-1283,stan1290,http://concepticon.clld.org/parameters/889,flamme,flame (noun)
+171-901,stan1290,http://concepticon.clld.org/parameters/778,fumée,smoke (noun)
+171-1244,stan1290,http://concepticon.clld.org/parameters/646,cendres,ashes
+171-870,stan1290,http://concepticon.clld.org/parameters/67,braise,embers
+171-448,stan1290,http://concepticon.clld.org/parameters/141,brûler,burn (vb trans)
+171-423,stan1290,http://concepticon.clld.org/parameters/141,se brûler,burn (vb trans)
+171-448,stan1290,http://concepticon.clld.org/parameters/1428,brûler,burn (vb intrans)
+171-481,stan1290,http://concepticon.clld.org/parameters/737,allumer,"light, kindle, ignite"
+171-1069,stan1290,http://concepticon.clld.org/parameters/737,enflammer,"light, kindle, ignite"
+171-1103,stan1290,http://concepticon.clld.org/parameters/127,éteindre,extinguish
+171-84,stan1290,http://concepticon.clld.org/parameters/1133,allumette,match (noun)
+171-175,stan1290,http://concepticon.clld.org/parameters/10,bois de chauffage,firewood
+171-578,stan1290,http://concepticon.clld.org/parameters/10,bûches,firewood
+171-1468,stan1290,http://concepticon.clld.org/parameters/1188,charbon de bois,charcoal
+171-875,stan1290,http://concepticon.clld.org/parameters/683,personne,"person, human being"
+171-5,stan1290,http://concepticon.clld.org/parameters/683,être humain,"person, human being"
+171-495,stan1290,http://concepticon.clld.org/parameters/1554,homme,man (vs. woman)
+171-1452,stan1290,http://concepticon.clld.org/parameters/962,femme,woman
+171-1358,stan1290,http://concepticon.clld.org/parameters/2263,mâle,male
+171-414,stan1290,http://concepticon.clld.org/parameters/2260,femelle,female
+171-1134,stan1290,http://concepticon.clld.org/parameters/1366,garçon,boy
+171-444,stan1290,http://concepticon.clld.org/parameters/76,jeune homme,young man (adolescent)
+171-561,stan1290,http://concepticon.clld.org/parameters/1646,fille,girl
+171-1424,stan1290,http://concepticon.clld.org/parameters/77,jeune fille,young woman (adolescent)
+171-844,stan1290,http://concepticon.clld.org/parameters/1304,enfant,child
+171-844,stan1290,http://concepticon.clld.org/parameters/1289,enfant,"infant, baby"
+171-1465,stan1290,http://concepticon.clld.org/parameters/1289,bébé,"infant, baby"
+171-622,stan1290,http://concepticon.clld.org/parameters/1200,mari,husband
+171-78,stan1290,http://concepticon.clld.org/parameters/1200,époux,husband
+171-1452,stan1290,http://concepticon.clld.org/parameters/1199,femme,wife
+171-303,stan1290,http://concepticon.clld.org/parameters/1199,épouse,wife
+171-945,stan1290,http://concepticon.clld.org/parameters/203,se marier,marry
+171-243,stan1290,http://concepticon.clld.org/parameters/203,épouser,marry
+171-713,stan1290,http://concepticon.clld.org/parameters/1259,mariage,"marriage, wedding"
+171-1478,stan1290,http://concepticon.clld.org/parameters/1259,noces,"marriage, wedding"
+171-916,stan1290,http://concepticon.clld.org/parameters/1134,divorce,divorce
+171-719,stan1290,http://concepticon.clld.org/parameters/1217,père,father
+171-16,stan1290,http://concepticon.clld.org/parameters/1216,mère,mother
+171-1079,stan1290,http://concepticon.clld.org/parameters/505,parents,parents
+171-1027,stan1290,http://concepticon.clld.org/parameters/424,homme marié,married man
+171-509,stan1290,http://concepticon.clld.org/parameters/426,femme mariée,married woman
+171-732,stan1290,http://concepticon.clld.org/parameters/1620,fils,son
+171-561,stan1290,http://concepticon.clld.org/parameters/1357,fille,daughter
+171-844,stan1290,http://concepticon.clld.org/parameters/1801,enfant,offspring (son or daughter)
+171-1229,stan1290,http://concepticon.clld.org/parameters/1262,frère,brother
+171-734,stan1290,http://concepticon.clld.org/parameters/1759,frêre aîné,older brother
+171-477,stan1290,http://concepticon.clld.org/parameters/1760,frère cadet,younger brother
+171-1046,stan1290,http://concepticon.clld.org/parameters/1263,soeur,sister
+171-835,stan1290,http://concepticon.clld.org/parameters/1758,soeur ainée,older sister
+171-196,stan1290,http://concepticon.clld.org/parameters/1761,soeur cadette,younger sister
+171-750,stan1290,http://concepticon.clld.org/parameters/1640,frère/ soeur,sibling
+171-1135,stan1290,http://concepticon.clld.org/parameters/1005,jumeaux,twins
+171-613,stan1290,http://concepticon.clld.org/parameters/1383,grand-père,grandfather
+171-1421,stan1290,http://concepticon.clld.org/parameters/406,vieillard,old man
+171-1461,stan1290,http://concepticon.clld.org/parameters/1496,grand-mère,grandmother
+171-30,stan1290,http://concepticon.clld.org/parameters/907,vieille femme,old woman
+171-1497,stan1290,http://concepticon.clld.org/parameters/1618,petit-fils,grandson
+171-1399,stan1290,http://concepticon.clld.org/parameters/1619,petite-fille,granddaughter
+171-386,stan1290,http://concepticon.clld.org/parameters/1327,oncle,uncle
+171-1220,stan1290,http://concepticon.clld.org/parameters/1984,frère de la mère,mother's brother
+171-449,stan1290,http://concepticon.clld.org/parameters/1985,frère du père,father's brother
+171-1075,stan1290,http://concepticon.clld.org/parameters/1272,tante,aunt
+171-440,stan1290,http://concepticon.clld.org/parameters/171,soeur de la mère,mother's sister
+171-1264,stan1290,http://concepticon.clld.org/parameters/170,soeur du père,father's sister
+171-38,stan1290,http://concepticon.clld.org/parameters/1063,neveu,nephew
+171-749,stan1290,http://concepticon.clld.org/parameters/1642,nièce,niece
+171-367,stan1290,http://concepticon.clld.org/parameters/1643,cousin/ cousine,cousin
+171-733,stan1290,http://concepticon.clld.org/parameters/1669,ancêtres,ancestors
+171-1165,stan1290,http://concepticon.clld.org/parameters/1669,aïeux,ancestors
+171-1260,stan1290,http://concepticon.clld.org/parameters/490,descendants,descendants
+171-1211,stan1290,http://concepticon.clld.org/parameters/2255,beau-père,father-in-law (of a man)
+171-1211,stan1290,http://concepticon.clld.org/parameters/2254,beau-père,father-in-law (of a woman)
+171-1349,stan1290,http://concepticon.clld.org/parameters/2256,belle-mère,mother-in-law (of a man)
+171-1349,stan1290,http://concepticon.clld.org/parameters/2257,belle-mère,mother-in-law (of a woman)
+171-210,stan1290,http://concepticon.clld.org/parameters/2267,gendre,son-in-law (of a man)
+171-210,stan1290,http://concepticon.clld.org/parameters/2266,gendre,son-in-law (of a woman)
+171-52,stan1290,http://concepticon.clld.org/parameters/2265,bru,daughter-in-law (of a man)
+171-894,stan1290,http://concepticon.clld.org/parameters/2265,belle-fille,daughter-in-law (of a man)
+171-52,stan1290,http://concepticon.clld.org/parameters/2264,bru,daughter-in-law (of a woman)
+171-894,stan1290,http://concepticon.clld.org/parameters/2264,belle-fille,daughter-in-law (of a woman)
+171-1211,stan1290,http://concepticon.clld.org/parameters/237,beau-père,stepfather
+171-1349,stan1290,http://concepticon.clld.org/parameters/236,belle-mère,stepmother
+171-1189,stan1290,http://concepticon.clld.org/parameters/1059,beau-fils,stepson
+171-894,stan1290,http://concepticon.clld.org/parameters/1058,belle-fille,stepdaughter
+171-827,stan1290,http://concepticon.clld.org/parameters/1149,orphelin/ orpheline,orphan
+171-850,stan1290,http://concepticon.clld.org/parameters/1756,veuve,widow
+171-1,stan1290,http://concepticon.clld.org/parameters/1981,veuf,widower
+171-1079,stan1290,http://concepticon.clld.org/parameters/1644,parents,"relatives, kinsmen"
+171-103,stan1290,http://concepticon.clld.org/parameters/194,famille,family
+171-601,stan1290,http://concepticon.clld.org/parameters/1209,je,I
+171-679,stan1290,http://concepticon.clld.org/parameters/1209,moi,I
+171-770,stan1290,http://concepticon.clld.org/parameters/1215,tu,you (singular)
+171-436,stan1290,http://concepticon.clld.org/parameters/1215,vous,you (singular)
+171-447,stan1290,http://concepticon.clld.org/parameters/262,il/elle/il,he/she/it
+171-473,stan1290,http://concepticon.clld.org/parameters/1212,nous,we
+171-473,stan1290,http://concepticon.clld.org/parameters/1131,nous,we (inclusive)
+171-473,stan1290,http://concepticon.clld.org/parameters/1130,nous,we (exclusive)
+171-436,stan1290,http://concepticon.clld.org/parameters/1213,vous,you (plural)
+171-1255,stan1290,http://concepticon.clld.org/parameters/817,eux,they
+171-1141,stan1290,http://concepticon.clld.org/parameters/817,elles,they
+171-1234,stan1290,http://concepticon.clld.org/parameters/619,animal,animal
+171-791,stan1290,http://concepticon.clld.org/parameters/619,bête,animal
+171-1358,stan1290,http://concepticon.clld.org/parameters/2261,mâle,male (adj)
+171-414,stan1290,http://concepticon.clld.org/parameters/2262,femelle,female (adj)
+171-499,stan1290,http://concepticon.clld.org/parameters/631,bétail,livestock
+171-265,stan1290,http://concepticon.clld.org/parameters/649,pâturage,pasture
+171-570,stan1290,http://concepticon.clld.org/parameters/649,pâture,pasture
+171-805,stan1290,http://concepticon.clld.org/parameters/263,bouvier,herdsman
+171-707,stan1290,http://concepticon.clld.org/parameters/263,berger,herdsman
+171-27,stan1290,http://concepticon.clld.org/parameters/263,pâtre,herdsman
+171-920,stan1290,http://concepticon.clld.org/parameters/851,étable,"stable, stall"
+171-154,stan1290,http://concepticon.clld.org/parameters/851,écurie,"stable, stall"
+171-499,stan1290,http://concepticon.clld.org/parameters/1153,bétail,cattle (bovine)
+171-1219,stan1290,http://concepticon.clld.org/parameters/1008,taureau,bull
+171-167,stan1290,http://concepticon.clld.org/parameters/1169,boeuf,ox
+171-197,stan1290,http://concepticon.clld.org/parameters/1007,vache,cow
+171-1257,stan1290,http://concepticon.clld.org/parameters/1989,veau,calf
+171-635,stan1290,http://concepticon.clld.org/parameters/1331,mouton,sheep
+171-1444,stan1290,http://concepticon.clld.org/parameters/1344,bélier,ram
+171-337,stan1290,http://concepticon.clld.org/parameters/1345,brebis,ewe
+171-1061,stan1290,http://concepticon.clld.org/parameters/820,agneau,lamb
+171-381,stan1290,http://concepticon.clld.org/parameters/1348,sanglier,boar
+171-892,stan1290,http://concepticon.clld.org/parameters/1351,truie,sow (2)
+171-407,stan1290,http://concepticon.clld.org/parameters/1337,porc,pig
+171-562,stan1290,http://concepticon.clld.org/parameters/1337,cochon,pig
+171-600,stan1290,http://concepticon.clld.org/parameters/1502,chèvre,goat
+171-869,stan1290,http://concepticon.clld.org/parameters/264,bouc,he-goat
+171-277,stan1290,http://concepticon.clld.org/parameters/1972,chevreau,kid
+171-1090,stan1290,http://concepticon.clld.org/parameters/615,cheval,horse (equine)
+171-1021,stan1290,http://concepticon.clld.org/parameters/936,étalon,stallion
+171-385,stan1290,http://concepticon.clld.org/parameters/938,jument,mare
+171-1207,stan1290,http://concepticon.clld.org/parameters/1647,poulain,"foal, colt"
+171-1115,stan1290,http://concepticon.clld.org/parameters/1862,âne,"ass, donkey"
+171-180,stan1290,http://concepticon.clld.org/parameters/890,mulet,mule
+171-332,stan1290,http://concepticon.clld.org/parameters/265,volaille,fowl
+171-1423,stan1290,http://concepticon.clld.org/parameters/1511,coq,"cock, rooster"
+171-829,stan1290,http://concepticon.clld.org/parameters/1514,poule,hen
+171-941,stan1290,http://concepticon.clld.org/parameters/1318,poulet,chicken
+171-651,stan1290,http://concepticon.clld.org/parameters/1187,oie,goose
+171-1383,stan1290,http://concepticon.clld.org/parameters/1360,canard,duck
+171-267,stan1290,http://concepticon.clld.org/parameters/539,nid,nest
+171-1150,stan1290,http://concepticon.clld.org/parameters/937,oiseau,bird
+171-1059,stan1290,http://concepticon.clld.org/parameters/950,mouette,seagull
+171-1520,stan1290,http://concepticon.clld.org/parameters/758,héron,heron
+171-115,stan1290,http://concepticon.clld.org/parameters/1905,aigle,eagle
+171-437,stan1290,http://concepticon.clld.org/parameters/307,faucon,hawk
+171-507,stan1290,http://concepticon.clld.org/parameters/1185,vautour,vulture
+171-55,stan1290,http://concepticon.clld.org/parameters/1793,chauve-souris,bat
+171-552,stan1290,http://concepticon.clld.org/parameters/882,perroquet,parrot
+171-1365,stan1290,http://concepticon.clld.org/parameters/913,corbeau,crow
+171-571,stan1290,http://concepticon.clld.org/parameters/1853,colombe,dove
+171-443,stan1290,http://concepticon.clld.org/parameters/735,hibou,owl
+171-1248,stan1290,http://concepticon.clld.org/parameters/2009,chien,dog
+171-319,stan1290,http://concepticon.clld.org/parameters/1136,lapin,rabbit
+171-1137,stan1290,http://concepticon.clld.org/parameters/1208,chat,cat
+171-1308,stan1290,http://concepticon.clld.org/parameters/309,opossum,opossum
+171-168,stan1290,http://concepticon.clld.org/parameters/2139,souris,"mouse, rat"
+171-169,stan1290,http://concepticon.clld.org/parameters/2139,rat,"mouse, rat"
+171-422,stan1290,http://concepticon.clld.org/parameters/227,poisson,fish
+171-611,stan1290,http://concepticon.clld.org/parameters/213,nageoire,fin (dorsal)
+171-410,stan1290,http://concepticon.clld.org/parameters/266,écaille,fishscale
+171-1401,stan1290,http://concepticon.clld.org/parameters/1916,ouïes,gill
+171-442,stan1290,http://concepticon.clld.org/parameters/598,coquille,shell
+171-1386,stan1290,http://concepticon.clld.org/parameters/598,coquillage,shell
+171-577,stan1290,http://concepticon.clld.org/parameters/1110,requin,shark
+171-1215,stan1290,http://concepticon.clld.org/parameters/1479,marsouin,"porpoise, dolphin"
+171-36,stan1290,http://concepticon.clld.org/parameters/1479,dauphin,"porpoise, dolphin"
+171-1171,stan1290,http://concepticon.clld.org/parameters/957,baleine,whale
+171-263,stan1290,http://concepticon.clld.org/parameters/1910,raie,stingray
+171-505,stan1290,http://concepticon.clld.org/parameters/1910,pastenague,stingray
+171-709,stan1290,http://concepticon.clld.org/parameters/1013,anguille d'eau douce,freshwater eel
+171-138,stan1290,http://concepticon.clld.org/parameters/522,loup,wolf
+171-992,stan1290,http://concepticon.clld.org/parameters/1386,lion,lion
+171-484,stan1290,http://concepticon.clld.org/parameters/1820,ours,bear
+171-1494,stan1290,http://concepticon.clld.org/parameters/1312,renard,fox
+171-1447,stan1290,http://concepticon.clld.org/parameters/1936,daim,deer
+171-1195,stan1290,http://concepticon.clld.org/parameters/1936,cerf,deer
+171-111,stan1290,http://concepticon.clld.org/parameters/1936,chevreuil,deer
+171-1337,stan1290,http://concepticon.clld.org/parameters/1350,singe,monkey
+171-1398,stan1290,http://concepticon.clld.org/parameters/1290,éléphant,elephant
+171-421,stan1290,http://concepticon.clld.org/parameters/1871,chameau,camel
+171-1188,stan1290,http://concepticon.clld.org/parameters/620,insecte,insect
+171-612,stan1290,http://concepticon.clld.org/parameters/310,pou,louse
+171-112,stan1290,http://concepticon.clld.org/parameters/267,lente,nit (louse egg)
+171-142,stan1290,http://concepticon.clld.org/parameters/232,puce,flea
+171-1160,stan1290,http://concepticon.clld.org/parameters/1974,mille-pattes,centipede
+171-1366,stan1290,http://concepticon.clld.org/parameters/1538,scorpion,scorpion
+171-476,stan1290,http://concepticon.clld.org/parameters/1575,cafard,cockroach
+171-997,stan1290,http://concepticon.clld.org/parameters/1575,cancrelat,cockroach
+171-1463,stan1290,http://concepticon.clld.org/parameters/587,fourmi,ant
+171-1348,stan1290,http://concepticon.clld.org/parameters/843,araignée,spider
+171-801,stan1290,http://concepticon.clld.org/parameters/1065,toile d'araignée,spider web
+171-1500,stan1290,http://concepticon.clld.org/parameters/665,abeille,bee
+171-310,stan1290,http://concepticon.clld.org/parameters/1931,cire,beeswax
+171-1239,stan1290,http://concepticon.clld.org/parameters/88,ruche,beehive
+171-361,stan1290,http://concepticon.clld.org/parameters/1517,guêpe,wasp
+171-1044,stan1290,http://concepticon.clld.org/parameters/1504,mouche,fly
+171-923,stan1290,http://concepticon.clld.org/parameters/95,moustique,"sandfly (midge), gnat"
+171-546,stan1290,http://concepticon.clld.org/parameters/95,moucheron,"sandfly (midge), gnat"
+171-923,stan1290,http://concepticon.clld.org/parameters/1509,moustique,mosquito
+171-24,stan1290,http://concepticon.clld.org/parameters/1219,ver de terre,worm
+171-71,stan1290,http://concepticon.clld.org/parameters/730,serpent,snake
+171-478,stan1290,http://concepticon.clld.org/parameters/730,couleuvre,snake
+171-51,stan1290,http://concepticon.clld.org/parameters/206,verluisant,firefly
+171-371,stan1290,http://concepticon.clld.org/parameters/206,luciole,firefly
+171-866,stan1290,http://concepticon.clld.org/parameters/1791,papillon,butterfly
+171-1138,stan1290,http://concepticon.clld.org/parameters/607,sauterelle,grasshopper
+171-1096,stan1290,http://concepticon.clld.org/parameters/1543,escargot,snail
+171-1168,stan1290,http://concepticon.clld.org/parameters/503,grenouille,frog
+171-380,stan1290,http://concepticon.clld.org/parameters/632,lézard,lizard
+171-376,stan1290,http://concepticon.clld.org/parameters/1857,crocodile,"crocodile, alligator"
+171-1496,stan1290,http://concepticon.clld.org/parameters/112,tortue,turtle
+171-372,stan1290,http://concepticon.clld.org/parameters/1480,corps,body
+171-1482,stan1290,http://concepticon.clld.org/parameters/763,peau,"skin, hide"
+171-379,stan1290,http://concepticon.clld.org/parameters/2259,chair,flesh
+171-584,stan1290,http://concepticon.clld.org/parameters/1040,cheveu,hair (head)
+171-858,stan1290,http://concepticon.clld.org/parameters/678,barbe,beard
+171-977,stan1290,http://concepticon.clld.org/parameters/189,poil,body hair
+171-134,stan1290,http://concepticon.clld.org/parameters/36,poil pubien,pubic hair
+171-921,stan1290,http://concepticon.clld.org/parameters/576,pellicule,dandruff
+171-782,stan1290,http://concepticon.clld.org/parameters/946,sang,blood
+171-491,stan1290,http://concepticon.clld.org/parameters/525,veine,"vein, artery"
+171-1050,stan1290,http://concepticon.clld.org/parameters/525,artère,"vein, artery"
+171-705,stan1290,http://concepticon.clld.org/parameters/1394,os,bone
+171-432,stan1290,http://concepticon.clld.org/parameters/801,côte,rib
+171-165,stan1290,http://concepticon.clld.org/parameters/1393,corne,horn
+171-419,stan1290,http://concepticon.clld.org/parameters/1220,queue,tail
+171-185,stan1290,http://concepticon.clld.org/parameters/1291,dos,back
+171-1354,stan1290,http://concepticon.clld.org/parameters/805,épine dorsale,spine
+171-1371,stan1290,http://concepticon.clld.org/parameters/805,colonne vertébrale,spine
+171-1155,stan1290,http://concepticon.clld.org/parameters/1256,tête,head
+171-1282,stan1290,http://concepticon.clld.org/parameters/1604,tempe,"side of head, temple"
+171-522,stan1290,http://concepticon.clld.org/parameters/1605,crâne,skull
+171-182,stan1290,http://concepticon.clld.org/parameters/1583,cerveau,brain
+171-845,stan1290,http://concepticon.clld.org/parameters/1560,visage,face
+171-1262,stan1290,http://concepticon.clld.org/parameters/123,front,forehead
+171-11,stan1290,http://concepticon.clld.org/parameters/798,machoire,jaw
+171-951,stan1290,http://concepticon.clld.org/parameters/1730,joue,cheek
+171-44,stan1290,http://concepticon.clld.org/parameters/1510,menton,chin
+171-1287,stan1290,http://concepticon.clld.org/parameters/1248,oeil,eye
+171-334,stan1290,http://concepticon.clld.org/parameters/1173,sourcil,eyebrow
+171-42,stan1290,http://concepticon.clld.org/parameters/17,paupière,eyelid
+171-1132,stan1290,http://concepticon.clld.org/parameters/1540,cil,eyelash
+171-826,stan1290,http://concepticon.clld.org/parameters/1655,cligner,blink
+171-429,stan1290,http://concepticon.clld.org/parameters/1247,oreille,ear
+171-1106,stan1290,http://concepticon.clld.org/parameters/18,lobe de l'oreille,earlobe
+171-1526,stan1290,http://concepticon.clld.org/parameters/32,cèrumen,earwax
+171-310,stan1290,http://concepticon.clld.org/parameters/32,cire,earwax
+171-33,stan1290,http://concepticon.clld.org/parameters/1221,nez,nose
+171-354,stan1290,http://concepticon.clld.org/parameters/1178,narine,nostril
+171-616,stan1290,http://concepticon.clld.org/parameters/208,morve,mucus (nasal)
+171-639,stan1290,http://concepticon.clld.org/parameters/208,mucus,mucus (nasal)
+171-926,stan1290,http://concepticon.clld.org/parameters/674,bouche,mouth
+171-1317,stan1290,http://concepticon.clld.org/parameters/73,bec,beak
+171-1306,stan1290,http://concepticon.clld.org/parameters/478,lèvre,lip
+171-125,stan1290,http://concepticon.clld.org/parameters/1205,langue,tongue
+171-1352,stan1290,http://concepticon.clld.org/parameters/1380,dent,tooth
+171-208,stan1290,http://concepticon.clld.org/parameters/139,gencives,gums
+171-1544,stan1290,http://concepticon.clld.org/parameters/1049,molaire,molartooth
+171-228,stan1290,http://concepticon.clld.org/parameters/1333,cou,neck
+171-802,stan1290,http://concepticon.clld.org/parameters/1347,nuque,nape of neck
+171-416,stan1290,http://concepticon.clld.org/parameters/1346,gorge,throat
+171-958,stan1290,http://concepticon.clld.org/parameters/1482,épaule,shoulder
+171-1182,stan1290,http://concepticon.clld.org/parameters/172,omoplate,shoulderblade
+171-1278,stan1290,http://concepticon.clld.org/parameters/1994,clavicule,collarbone
+171-226,stan1290,http://concepticon.clld.org/parameters/1673,bras,arm
+171-911,stan1290,http://concepticon.clld.org/parameters/1886,aisselle,armpit
+171-377,stan1290,http://concepticon.clld.org/parameters/981,coude,elbow
+171-1056,stan1290,http://concepticon.clld.org/parameters/799,poignet,wrist
+171-485,stan1290,http://concepticon.clld.org/parameters/1277,main,hand
+171-21,stan1290,http://concepticon.clld.org/parameters/1183,paume,palm of hand
+171-533,stan1290,http://concepticon.clld.org/parameters/1303,doigt,finger
+171-64,stan1290,http://concepticon.clld.org/parameters/1781,pouce,thumb
+171-1455,stan1290,http://concepticon.clld.org/parameters/1258,ongle,fingernail
+171-628,stan1290,http://concepticon.clld.org/parameters/72,griffe,claw
+171-152,stan1290,http://concepticon.clld.org/parameters/1297,jambe,leg
+171-89,stan1290,http://concepticon.clld.org/parameters/800,cuisse,thigh
+171-748,stan1290,http://concepticon.clld.org/parameters/498,mollet,calf of leg
+171-882,stan1290,http://concepticon.clld.org/parameters/1371,genou,knee
+171-1057,stan1290,http://concepticon.clld.org/parameters/1301,pied,foot
+171-408,stan1290,http://concepticon.clld.org/parameters/803,cheville,ankle
+171-1202,stan1290,http://concepticon.clld.org/parameters/980,talon,heel
+171-257,stan1290,http://concepticon.clld.org/parameters/318,empreinte du pied,footprint
+171-409,stan1290,http://concepticon.clld.org/parameters/1389,orteil,toe
+171-32,stan1290,http://concepticon.clld.org/parameters/1389,doigt de pied,toe
+171-795,stan1290,http://concepticon.clld.org/parameters/1257,aile,wing
+171-573,stan1290,http://concepticon.clld.org/parameters/1201,plume,feather
+171-1175,stan1290,http://concepticon.clld.org/parameters/1592,poitrine,chest
+171-1515,stan1290,http://concepticon.clld.org/parameters/1402,sein,breast (of woman)
+171-1175,stan1290,http://concepticon.clld.org/parameters/1402,poitrine,breast (of woman)
+171-722,stan1290,http://concepticon.clld.org/parameters/796,mamelon,"nipple, teat"
+171-1439,stan1290,http://concepticon.clld.org/parameters/796,téton,"nipple, teat"
+171-1522,stan1290,http://concepticon.clld.org/parameters/154,pis,udder
+171-764,stan1290,http://concepticon.clld.org/parameters/154,mamelle,udder
+171-1144,stan1290,http://concepticon.clld.org/parameters/1838,nombril,navel
+171-189,stan1290,http://concepticon.clld.org/parameters/1223,coeur,heart
+171-1145,stan1290,http://concepticon.clld.org/parameters/688,poumon,lung
+171-1538,stan1290,http://concepticon.clld.org/parameters/1224,foie,liver
+171-1384,stan1290,http://concepticon.clld.org/parameters/489,rein,kidney
+171-789,stan1290,http://concepticon.clld.org/parameters/1744,rate,spleen
+171-324,stan1290,http://concepticon.clld.org/parameters/819,estomac,stomach
+171-928,stan1290,http://concepticon.clld.org/parameters/819,(malau) ventre,stomach
+171-157,stan1290,http://concepticon.clld.org/parameters/1991,intestins,"intestines, guts"
+171-465,stan1290,http://concepticon.clld.org/parameters/1991,boyaux,"intestines, guts"
+171-663,stan1290,http://concepticon.clld.org/parameters/1681,taille,waist
+171-724,stan1290,http://concepticon.clld.org/parameters/1745,hanche,hip
+171-1012,stan1290,http://concepticon.clld.org/parameters/834,fesses,buttocks
+171-155,stan1290,http://concepticon.clld.org/parameters/834,derrière,buttocks
+171-677,stan1290,http://concepticon.clld.org/parameters/804,matrice,womb
+171-122,stan1290,http://concepticon.clld.org/parameters/804,utérus,womb
+171-252,stan1290,http://concepticon.clld.org/parameters/797,testicule,testicle
+171-308,stan1290,http://concepticon.clld.org/parameters/1222,pénis,penis
+171-936,stan1290,http://concepticon.clld.org/parameters/1407,respirer,"breathe, breath"
+171-970,stan1290,http://concepticon.clld.org/parameters/1407,haleine,"breathe, breath"
+171-1205,stan1290,http://concepticon.clld.org/parameters/1028,bailler,"yawn, gape"
+171-564,stan1290,http://concepticon.clld.org/parameters/162,hoqueter,hiccough
+171-1093,stan1290,http://concepticon.clld.org/parameters/879,tousser,cough
+171-1269,stan1290,http://concepticon.clld.org/parameters/1621,éternuer,sneeze
+171-1226,stan1290,http://concepticon.clld.org/parameters/126,transpirer,perspire
+171-474,stan1290,http://concepticon.clld.org/parameters/126,suer,perspire
+171-960,stan1290,http://concepticon.clld.org/parameters/1440,cracher,spit
+171-878,stan1290,http://concepticon.clld.org/parameters/1278,vomir,vomit
+171-884,stan1290,http://concepticon.clld.org/parameters/1403,mordre,bite
+171-212,stan1290,http://concepticon.clld.org/parameters/319,lécher,lick
+171-1443,stan1290,http://concepticon.clld.org/parameters/268,baver,dribble
+171-723,stan1290,http://concepticon.clld.org/parameters/1585,dormir,sleep
+171-331,stan1290,http://concepticon.clld.org/parameters/1983,ronfler,snore
+171-299,stan1290,http://concepticon.clld.org/parameters/1920,rêver,dream
+171-1508,stan1290,http://concepticon.clld.org/parameters/1602,se réveiller,wake up
+171-1147,stan1290,http://concepticon.clld.org/parameters/1602,s'eveiller,wake up
+171-797,stan1290,http://concepticon.clld.org/parameters/1159,péter,break wind
+171-411,stan1290,http://concepticon.clld.org/parameters/1159,pedo,break wind
+171-482,stan1290,http://concepticon.clld.org/parameters/592,uriner,urinate
+171-4,stan1290,http://concepticon.clld.org/parameters/676,déféquer,defecate
+171-831,stan1290,http://concepticon.clld.org/parameters/1785,faire l'amour,have sexual intercourse
+171-395,stan1290,http://concepticon.clld.org/parameters/52,frissonner,shiver
+171-715,stan1290,http://concepticon.clld.org/parameters/138,se baigner,bathe
+171-1320,stan1290,http://concepticon.clld.org/parameters/1152,engendrer,beget (of father)
+171-177,stan1290,http://concepticon.clld.org/parameters/1090,né,born (to be)
+171-249,stan1290,http://concepticon.clld.org/parameters/1090,naître,born (to be)
+171-191,stan1290,http://concepticon.clld.org/parameters/1123,enceinte,pregnant
+171-105,stan1290,http://concepticon.clld.org/parameters/1087,concevoir,conceive
+171-110,stan1290,http://concepticon.clld.org/parameters/1422,vivre,"live, living, life"
+171-1254,stan1290,http://concepticon.clld.org/parameters/1422,vivant,"live, living, life"
+171-284,stan1290,http://concepticon.clld.org/parameters/1422,vie,"live, living, life"
+171-1294,stan1290,http://concepticon.clld.org/parameters/1494,mourir,"die, dead"
+171-824,stan1290,http://concepticon.clld.org/parameters/1494,mort,"die, dead"
+171-445,stan1290,http://concepticon.clld.org/parameters/1904,noyé,drowned
+171-1268,stan1290,http://concepticon.clld.org/parameters/1417,tuer,kill
+171-41,stan1290,http://concepticon.clld.org/parameters/767,cadavre,corpse
+171-1420,stan1290,http://concepticon.clld.org/parameters/1719,enterrer,bury (the dead)
+171-1158,stan1290,http://concepticon.clld.org/parameters/1773,tombe,"grave, tomb"
+171-96,stan1290,http://concepticon.clld.org/parameters/1773,tombeau,"grave, tomb"
+171-342,stan1290,http://concepticon.clld.org/parameters/785,fort,"strong, mighty, powerful"
+171-1036,stan1290,http://concepticon.clld.org/parameters/785,puissant,"strong, mighty, powerful"
+171-659,stan1290,http://concepticon.clld.org/parameters/1601,faible,weak
+171-527,stan1290,http://concepticon.clld.org/parameters/1364,santé,"well, health"
+171-1293,stan1290,http://concepticon.clld.org/parameters/1364,en bonne santé,"well, health"
+171-1315,stan1290,http://concepticon.clld.org/parameters/1847,malade,"sick, sickness"
+171-961,stan1290,http://concepticon.clld.org/parameters/1847,maladie,"sick, sickness"
+171-1511,stan1290,http://concepticon.clld.org/parameters/1534,fièvre,fever
+171-849,stan1290,http://concepticon.clld.org/parameters/1957,goître,goiter
+171-649,stan1290,http://concepticon.clld.org/parameters/102,rhume,cold (catarrh)
+171-585,stan1290,http://concepticon.clld.org/parameters/1109,blessure,"wound, sore"
+171-1430,stan1290,http://concepticon.clld.org/parameters/1109,plaie,"wound, sore"
+171-1393,stan1290,http://concepticon.clld.org/parameters/1148,contusion,bruise
+171-211,stan1290,http://concepticon.clld.org/parameters/1148,bleu,bruise
+171-927,stan1290,http://concepticon.clld.org/parameters/1903,bosse,swelling
+171-841,stan1290,http://concepticon.clld.org/parameters/1903,enflure,swelling
+171-61,stan1290,http://concepticon.clld.org/parameters/148,démangeaison,itch
+171-980,stan1290,http://concepticon.clld.org/parameters/1584,ampoule,blister
+171-1259,stan1290,http://concepticon.clld.org/parameters/793,furoncle,boil (noun)
+171-905,stan1290,http://concepticon.clld.org/parameters/1808,pus,pus
+171-717,stan1290,http://concepticon.clld.org/parameters/497,cicatrice,scar
+171-784,stan1290,http://concepticon.clld.org/parameters/499,guérir,"cure, heal"
+171-1066,stan1290,http://concepticon.clld.org/parameters/597,médecin,physician
+171-1084,stan1290,http://concepticon.clld.org/parameters/1372,remède,"medicine, drug"
+171-1440,stan1290,http://concepticon.clld.org/parameters/1372,médecine,"medicine, drug"
+171-31,stan1290,http://concepticon.clld.org/parameters/655,poison,poison
+171-525,stan1290,http://concepticon.clld.org/parameters/1757,fatigué,"tired, weary"
+171-1288,stan1290,http://concepticon.clld.org/parameters/168,se reposer,rest
+171-1487,stan1290,http://concepticon.clld.org/parameters/1564,paresseux,lazy
+171-990,stan1290,http://concepticon.clld.org/parameters/1125,chauve,bald
+171-224,stan1290,http://concepticon.clld.org/parameters/320,boiteux,lame
+171-391,stan1290,http://concepticon.clld.org/parameters/996,sourd,deaf
+171-28,stan1290,http://concepticon.clld.org/parameters/1666,muet,mute
+171-510,stan1290,http://concepticon.clld.org/parameters/1653,aveugle,blind
+171-1139,stan1290,http://concepticon.clld.org/parameters/1463,ivre,intoxicated
+171-359,stan1290,http://concepticon.clld.org/parameters/590,nu,"naked, bare"
+171-985,stan1290,http://concepticon.clld.org/parameters/1336,manger,eat
+171-129,stan1290,http://concepticon.clld.org/parameters/256,nourriture,food
+171-541,stan1290,http://concepticon.clld.org/parameters/269,cuit,cooked
+171-979,stan1290,http://concepticon.clld.org/parameters/1959,cru,raw
+171-968,stan1290,http://concepticon.clld.org/parameters/178,mûr,ripe
+171-778,stan1290,http://concepticon.clld.org/parameters/1958,vert,"green, unripe"
+171-1298,stan1290,http://concepticon.clld.org/parameters/1728,pourri,rotten
+171-99,stan1290,http://concepticon.clld.org/parameters/1401,boire,drink
+171-215,stan1290,http://concepticon.clld.org/parameters/1533,faim,hunger
+171-587,stan1290,http://concepticon.clld.org/parameters/199,famine,famine
+171-1504,stan1290,http://concepticon.clld.org/parameters/199,disette,famine
+171-637,stan1290,http://concepticon.clld.org/parameters/848,soif,thirst
+171-815,stan1290,http://concepticon.clld.org/parameters/1421,sucer,suck
+171-502,stan1290,http://concepticon.clld.org/parameters/321,mastiquer,chew
+171-658,stan1290,http://concepticon.clld.org/parameters/321,macher,chew
+171-508,stan1290,http://concepticon.clld.org/parameters/897,avaler,swallow
+171-863,stan1290,http://concepticon.clld.org/parameters/129,étouffer,choke
+171-648,stan1290,http://concepticon.clld.org/parameters/1100,cuire,cook
+171-94,stan1290,http://concepticon.clld.org/parameters/792,bouillir,boil (vb)
+171-565,stan1290,http://concepticon.clld.org/parameters/2146,rôtir,"roast, fry"
+171-368,stan1290,http://concepticon.clld.org/parameters/2146,frire,"roast, fry"
+171-861,stan1290,http://concepticon.clld.org/parameters/183,cuire au four,bake
+171-2,stan1290,http://concepticon.clld.org/parameters/1143,four,oven
+171-1214,stan1290,http://concepticon.clld.org/parameters/1462,casserole,"pot, cooking vessel"
+171-237,stan1290,http://concepticon.clld.org/parameters/1462,marmite,"pot, cooking vessel"
+171-43,stan1290,http://concepticon.clld.org/parameters/854,bouilloire,kettle
+171-1214,stan1290,http://concepticon.clld.org/parameters/31,casserole,pan
+171-959,stan1290,http://concepticon.clld.org/parameters/481,plat,dish
+171-1380,stan1290,http://concepticon.clld.org/parameters/480,assiette,plate
+171-420,stan1290,http://concepticon.clld.org/parameters/1530,bol,bowl
+171-92,stan1290,http://concepticon.clld.org/parameters/270,cruche,"pitcher, jug"
+171-645,stan1290,http://concepticon.clld.org/parameters/270,broc,"pitcher, jug"
+171-1539,stan1290,http://concepticon.clld.org/parameters/476,tasse,"cup, drinking vessel"
+171-623,stan1290,http://concepticon.clld.org/parameters/476,coupe,"cup, drinking vessel"
+171-80,stan1290,http://concepticon.clld.org/parameters/271,soucoupe,saucer
+171-187,stan1290,http://concepticon.clld.org/parameters/1378,cuiller,spoon
+171-710,stan1290,http://concepticon.clld.org/parameters/1352,couteau,knife (2)
+171-50,stan1290,http://concepticon.clld.org/parameters/1302,fourchette,fork (2)
+171-1300,stan1290,http://concepticon.clld.org/parameters/272,pinces,tongs
+171-1535,stan1290,http://concepticon.clld.org/parameters/1526,repas,meal (a)
+171-1028,stan1290,http://concepticon.clld.org/parameters/1322,petit déjeuner,breakfast
+171-1243,stan1290,http://concepticon.clld.org/parameters/768,déjeuner,lunch
+171-1140,stan1290,http://concepticon.clld.org/parameters/768,repas de midi,lunch
+171-1085,stan1290,http://concepticon.clld.org/parameters/1833,dîner,dinner
+171-1451,stan1290,http://concepticon.clld.org/parameters/1833,souper,supper
+171-982,stan1290,http://concepticon.clld.org/parameters/1833,repas du soir,supper
+171-528,stan1290,http://concepticon.clld.org/parameters/275,peler,peel
+171-1419,stan1290,http://concepticon.clld.org/parameters/275,éplucher,peel
+171-914,stan1290,http://concepticon.clld.org/parameters/86,passer,"sieve, strain"
+171-1336,stan1290,http://concepticon.clld.org/parameters/1767,gratter,scrape
+171-1224,stan1290,http://concepticon.clld.org/parameters/1767,râper,scrape
+171-1326,stan1290,http://concepticon.clld.org/parameters/2017,mêler,"stir, mix"
+171-452,stan1290,http://concepticon.clld.org/parameters/2017,mélanger,"stir, mix"
+171-551,stan1290,http://concepticon.clld.org/parameters/1368,pain,bread
+171-401,stan1290,http://concepticon.clld.org/parameters/273,pâte,dough
+171-116,stan1290,http://concepticon.clld.org/parameters/274,pétrir,knead
+171-336,stan1290,http://concepticon.clld.org/parameters/1594,farine,"meal, flour"
+171-771,stan1290,http://concepticon.clld.org/parameters/1033,écraser,"crush, grind"
+171-1438,stan1290,http://concepticon.clld.org/parameters/1033,broyer,"crush, grind"
+171-294,stan1290,http://concepticon.clld.org/parameters/636,moulin,mill
+171-903,stan1290,http://concepticon.clld.org/parameters/224,mortier,mortar (2)
+171-627,stan1290,http://concepticon.clld.org/parameters/225,pilon,pestle
+171-1409,stan1290,http://concepticon.clld.org/parameters/634,viande,meat
+171-834,stan1290,http://concepticon.clld.org/parameters/1874,saucisse,sausage
+171-186,stan1290,http://concepticon.clld.org/parameters/1547,soupe,"soup, broth"
+171-69,stan1290,http://concepticon.clld.org/parameters/1547,potage,"soup, broth"
+171-430,stan1290,http://concepticon.clld.org/parameters/924,légumes,vegetables
+171-698,stan1290,http://concepticon.clld.org/parameters/832,haba,bean
+171-399,stan1290,http://concepticon.clld.org/parameters/832,haricot,bean
+171-343,stan1290,http://concepticon.clld.org/parameters/593,pomme de terre,potato
+171-652,stan1290,http://concepticon.clld.org/parameters/1507,fruit,fruit
+171-725,stan1290,http://concepticon.clld.org/parameters/1966,botte,bunch
+171-219,stan1290,http://concepticon.clld.org/parameters/322,figue,fig
+171-139,stan1290,http://concepticon.clld.org/parameters/920,raisin,grape
+171-1368,stan1290,http://concepticon.clld.org/parameters/191,noix,nut
+171-441,stan1290,http://concepticon.clld.org/parameters/1154,olive,olive
+171-45,stan1290,http://concepticon.clld.org/parameters/1484,huile,oil
+171-1180,stan1290,http://concepticon.clld.org/parameters/323,graisse,"grease, fat"
+171-1206,stan1290,http://concepticon.clld.org/parameters/323,le gras,"grease, fat"
+171-996,stan1290,http://concepticon.clld.org/parameters/1274,sel,salt
+171-604,stan1290,http://concepticon.clld.org/parameters/1385,poivre,pepper
+171-1405,stan1290,http://concepticon.clld.org/parameters/919,piment,chili pepper
+171-1394,stan1290,http://concepticon.clld.org/parameters/942,miel,honey
+171-1433,stan1290,http://concepticon.clld.org/parameters/862,sucre,sugar
+171-124,stan1290,http://concepticon.clld.org/parameters/635,lait,milk (noun)
+171-872,stan1290,http://concepticon.clld.org/parameters/93,traire,milk (vb)
+171-100,stan1290,http://concepticon.clld.org/parameters/1569,fromage,cheese
+171-898,stan1290,http://concepticon.clld.org/parameters/1245,beurre,butter
+171-697,stan1290,http://concepticon.clld.org/parameters/731,boisson,"beverage, drink"
+171-1181,stan1290,http://concepticon.clld.org/parameters/941,hydromel,mead
+171-817,stan1290,http://concepticon.clld.org/parameters/1524,vin,wine
+171-393,stan1290,http://concepticon.clld.org/parameters/1639,bière,beer
+171-646,stan1290,http://concepticon.clld.org/parameters/404,boisson fermentée,fermented drink
+171-853,stan1290,http://concepticon.clld.org/parameters/744,oeuf,egg
+171-1477,stan1290,http://concepticon.clld.org/parameters/1556,jaune d'oeuf,egg yolk
+171-694,stan1290,http://concepticon.clld.org/parameters/158,porter,put on (clothes)
+171-804,stan1290,http://concepticon.clld.org/parameters/158,mettre (vêtement),put on (clothes)
+171-1305,stan1290,http://concepticon.clld.org/parameters/1895,habit,"clothing, clothes"
+171-1033,stan1290,http://concepticon.clld.org/parameters/1895,vêtement,"clothing, clothes"
+171-1186,stan1290,http://concepticon.clld.org/parameters/881,tailleur,tailor
+171-454,stan1290,http://concepticon.clld.org/parameters/1616,étoffe,cloth
+171-1314,stan1290,http://concepticon.clld.org/parameters/1616,tissu,cloth
+171-728,stan1290,http://concepticon.clld.org/parameters/964,laine,wool
+171-947,stan1290,http://concepticon.clld.org/parameters/916,lin,"linen, flax"
+171-674,stan1290,http://concepticon.clld.org/parameters/1850,coton,cotton
+171-636,stan1290,http://concepticon.clld.org/parameters/1641,soie,silk
+171-687,stan1290,http://concepticon.clld.org/parameters/325,feutre,felt
+171-1379,stan1290,http://concepticon.clld.org/parameters/580,fourrure,fur
+171-539,stan1290,http://concepticon.clld.org/parameters/629,cuir,leather
+171-1032,stan1290,http://concepticon.clld.org/parameters/121,filer,spin
+171-767,stan1290,http://concepticon.clld.org/parameters/277,fuseau,spindle
+171-82,stan1290,http://concepticon.clld.org/parameters/133,tisser,weave
+171-966,stan1290,http://concepticon.clld.org/parameters/1787,métier à tisser,loom
+171-1251,stan1290,http://concepticon.clld.org/parameters/1457,coudre,sew
+171-963,stan1290,http://concepticon.clld.org/parameters/1382,aiguille,needle
+171-26,stan1290,http://concepticon.clld.org/parameters/278,alène,awl
+171-107,stan1290,http://concepticon.clld.org/parameters/1161,fil,thread
+171-554,stan1290,http://concepticon.clld.org/parameters/157,teindre,dye
+171-292,stan1290,http://concepticon.clld.org/parameters/326,cape,cloak
+171-123,stan1290,http://concepticon.clld.org/parameters/327,poncho,poncho
+171-460,stan1290,http://concepticon.clld.org/parameters/474,robe de femme,woman's dress
+171-1502,stan1290,http://concepticon.clld.org/parameters/603,manteau,coat
+171-10,stan1290,http://concepticon.clld.org/parameters/603,pardessus,coat
+171-1528,stan1290,http://concepticon.clld.org/parameters/1622,chemise,shirt
+171-232,stan1290,http://concepticon.clld.org/parameters/2012,col,collar
+171-204,stan1290,http://concepticon.clld.org/parameters/1600,jupe,skirt
+171-174,stan1290,http://concepticon.clld.org/parameters/328,jupe en rafia,grass-skirt
+171-681,stan1290,http://concepticon.clld.org/parameters/809,pantalon,trousers
+171-209,stan1290,http://concepticon.clld.org/parameters/329,bas,"stocking, sock"
+171-1267,stan1290,http://concepticon.clld.org/parameters/329,chaussette,"stocking, sock"
+171-22,stan1290,http://concepticon.clld.org/parameters/1381,chaussure,shoe
+171-1426,stan1290,http://concepticon.clld.org/parameters/1381,soulier,shoe
+171-725,stan1290,http://concepticon.clld.org/parameters/585,botte,boot
+171-1041,stan1290,http://concepticon.clld.org/parameters/875,cordonnier,"shoemaker, cobbler"
+171-1437,stan1290,http://concepticon.clld.org/parameters/2130,chapeau,"hat, cap"
+171-183,stan1290,http://concepticon.clld.org/parameters/2130,casquette,"hat, cap"
+171-258,stan1290,http://concepticon.clld.org/parameters/772,ceinture,"belt, girdle"
+171-1034,stan1290,http://concepticon.clld.org/parameters/772,gaine,"belt, girdle"
+171-1154,stan1290,http://concepticon.clld.org/parameters/867,gant,glove
+171-1457,stan1290,http://concepticon.clld.org/parameters/1151,voile,veil
+171-808,stan1290,http://concepticon.clld.org/parameters/1851,poche,pocket
+171-291,stan1290,http://concepticon.clld.org/parameters/757,bouton,button
+171-1051,stan1290,http://concepticon.clld.org/parameters/64,épingle,pin
+171-860,stan1290,http://concepticon.clld.org/parameters/917,ornement,"ornament, adornment"
+171-1303,stan1290,http://concepticon.clld.org/parameters/1029,bijou,jewel
+171-166,stan1290,http://concepticon.clld.org/parameters/1029,joyau,jewel
+171-692,stan1290,http://concepticon.clld.org/parameters/1374,bague,ring (for finger)
+171-1362,stan1290,http://concepticon.clld.org/parameters/1374,anneau,ring (for finger)
+171-686,stan1290,http://concepticon.clld.org/parameters/1754,bracelet,bracelet
+171-1521,stan1290,http://concepticon.clld.org/parameters/1961,collier,necklace
+171-1037,stan1290,http://concepticon.clld.org/parameters/1860,graine,bead
+171-365,stan1290,http://concepticon.clld.org/parameters/770,boucle d'oreille,earring
+171-634,stan1290,http://concepticon.clld.org/parameters/330,couronne,"headband, headdress"
+171-965,stan1290,http://concepticon.clld.org/parameters/330,bandeau,"headband, headdress"
+171-464,stan1290,http://concepticon.clld.org/parameters/68,tatouage,tattoo
+171-1418,stan1290,http://concepticon.clld.org/parameters/332,mouchoir,"handkerchief, rag"
+171-119,stan1290,http://concepticon.clld.org/parameters/332,chiffon,"handkerchief, rag"
+171-280,stan1290,http://concepticon.clld.org/parameters/1021,serviette,towel
+171-1179,stan1290,http://concepticon.clld.org/parameters/1475,peigne,comb
+171-962,stan1290,http://concepticon.clld.org/parameters/1821,brosse,brush
+171-1240,stan1290,http://concepticon.clld.org/parameters/333,tresser,braid
+171-1014,stan1290,http://concepticon.clld.org/parameters/151,rasoir,razor
+171-1120,stan1290,http://concepticon.clld.org/parameters/1926,pommade,ointment
+171-461,stan1290,http://concepticon.clld.org/parameters/1926,onguent,ointment
+171-457,stan1290,http://concepticon.clld.org/parameters/788,savon,soap
+171-886,stan1290,http://concepticon.clld.org/parameters/1171,miroir,mirror
+171-242,stan1290,http://concepticon.clld.org/parameters/1171,glace,mirror
+171-1048,stan1290,http://concepticon.clld.org/parameters/1099,habiter,"dwell, live"
+171-1026,stan1290,http://concepticon.clld.org/parameters/1099,demeurer,"dwell, live"
+171-1078,stan1290,http://concepticon.clld.org/parameters/1252,maison,house
+171-176,stan1290,http://concepticon.clld.org/parameters/1678,hutte,hut
+171-1114,stan1290,http://concepticon.clld.org/parameters/403,abri de jardin,garden-house
+171-647,stan1290,http://concepticon.clld.org/parameters/403,cabane,garden-house
+171-1274,stan1290,http://concepticon.clld.org/parameters/1316,tente,tent
+171-1070,stan1290,http://concepticon.clld.org/parameters/736,cour,"yard, court"
+171-526,stan1290,http://concepticon.clld.org/parameters/408,maison réservée aux hommes,men's house
+171-1049,stan1290,http://concepticon.clld.org/parameters/334,cuisine,cookhouse
+171-822,stan1290,http://concepticon.clld.org/parameters/335,maison de réunion,meeting house
+171-987,stan1290,http://concepticon.clld.org/parameters/1450,piéce,room
+171-881,stan1290,http://concepticon.clld.org/parameters/1567,porte,"door, gate"
+171-531,stan1290,http://concepticon.clld.org/parameters/80,pied-droit,"doorpost, jamb"
+171-1151,stan1290,http://concepticon.clld.org/parameters/80,montant de porte,"doorpost, jamb"
+171-1167,stan1290,http://concepticon.clld.org/parameters/1596,serrure,lock (noun)
+171-281,stan1290,http://concepticon.clld.org/parameters/1596,cadenas,lock (noun)
+171-238,stan1290,http://concepticon.clld.org/parameters/1012,verrou,"latch, door-bolt"
+171-217,stan1290,http://concepticon.clld.org/parameters/1472,clef,key
+171-1024,stan1290,http://concepticon.clld.org/parameters/1375,fenêtre,window
+171-1191,stan1290,http://concepticon.clld.org/parameters/1632,plancher,floor
+171-327,stan1290,http://concepticon.clld.org/parameters/1632,sol,floor
+171-220,stan1290,http://concepticon.clld.org/parameters/933,mur,wall
+171-662,stan1290,http://concepticon.clld.org/parameters/185,foyer,fireplace
+171-983,stan1290,http://concepticon.clld.org/parameters/859,poêle,stove
+171-1063,stan1290,http://concepticon.clld.org/parameters/1305,cheminée,chimney
+171-17,stan1290,http://concepticon.clld.org/parameters/1464,échelle,ladder
+171-949,stan1290,http://concepticon.clld.org/parameters/1663,lit,bed
+171-788,stan1290,http://concepticon.clld.org/parameters/1044,oreiller,pillow
+171-685,stan1290,http://concepticon.clld.org/parameters/806,couverture,blanket
+171-1338,stan1290,http://concepticon.clld.org/parameters/1476,chaise,chair
+171-132,stan1290,http://concepticon.clld.org/parameters/1476,siège,chair
+171-1417,stan1290,http://concepticon.clld.org/parameters/1775,table,table
+171-312,stan1290,http://concepticon.clld.org/parameters/2131,lampe,"lamp, torch"
+171-1290,stan1290,http://concepticon.clld.org/parameters/1273,bougie,candle
+171-773,stan1290,http://concepticon.clld.org/parameters/1273,cierge,candle
+171-785,stan1290,http://concepticon.clld.org/parameters/1273,chandelle,candle
+171-568,stan1290,http://concepticon.clld.org/parameters/745,étagère,shelf
+171-1107,stan1290,http://concepticon.clld.org/parameters/205,auge,trough
+171-282,stan1290,http://concepticon.clld.org/parameters/205,abreuvoir,trough
+171-1064,stan1290,http://concepticon.clld.org/parameters/769,toit,roof
+171-891,stan1290,http://concepticon.clld.org/parameters/279,toiture de chaume,thatch
+171-239,stan1290,http://concepticon.clld.org/parameters/280,poutre de faîte,ridgepole
+171-1125,stan1290,http://concepticon.clld.org/parameters/829,poutre,rafter
+171-145,stan1290,http://concepticon.clld.org/parameters/829,chevron,rafter
+171-1125,stan1290,http://concepticon.clld.org/parameters/1132,poutre,beam
+171-218,stan1290,http://concepticon.clld.org/parameters/281,poteau,"post, pole"
+171-1427,stan1290,http://concepticon.clld.org/parameters/281,piquet,"post, pole"
+171-823,stan1290,http://concepticon.clld.org/parameters/1227,planche,board
+171-558,stan1290,http://concepticon.clld.org/parameters/876,arche,arch
+171-1128,stan1290,http://concepticon.clld.org/parameters/877,maçon,mason
+171-1124,stan1290,http://concepticon.clld.org/parameters/1006,brique,brick
+171-903,stan1290,http://concepticon.clld.org/parameters/1731,mortier,mortar
+171-118,stan1290,http://concepticon.clld.org/parameters/901,adobe,adobe
+171-378,stan1290,http://concepticon.clld.org/parameters/979,fermier,farmer
+171-1492,stan1290,http://concepticon.clld.org/parameters/212,champ,field (for cultivation)
+171-1392,stan1290,http://concepticon.clld.org/parameters/586,jardin,garden
+171-313,stan1290,http://concepticon.clld.org/parameters/1541,cultiver,"cultivate, till"
+171-1212,stan1290,http://concepticon.clld.org/parameters/1541,labourer,"cultivate, till"
+171-356,stan1290,http://concepticon.clld.org/parameters/1690,barrière,fence
+171-512,stan1290,http://concepticon.clld.org/parameters/2002,fossé,ditch
+171-1212,stan1290,http://concepticon.clld.org/parameters/1921,labourer,plow
+171-274,stan1290,http://concepticon.clld.org/parameters/1921,charrue,plow
+171-848,stan1290,http://concepticon.clld.org/parameters/1794,sillon,furrow
+171-348,stan1290,http://concepticon.clld.org/parameters/1418,creuser,dig
+171-19,stan1290,http://concepticon.clld.org/parameters/1418,piocher,dig
+171-497,stan1290,http://concepticon.clld.org/parameters/1176,bêche,spade
+171-1310,stan1290,http://concepticon.clld.org/parameters/1901,pelle,shovel
+171-842,stan1290,http://concepticon.clld.org/parameters/284,houe,hoe
+171-579,stan1290,http://concepticon.clld.org/parameters/284,binette,hoe
+171-776,stan1290,http://concepticon.clld.org/parameters/337,fourche,fork
+171-50,stan1290,http://concepticon.clld.org/parameters/337,fourchette,fork
+171-1173,stan1290,http://concepticon.clld.org/parameters/338,rateau,rake
+171-1281,stan1290,http://concepticon.clld.org/parameters/748,semer,sow
+171-1037,stan1290,http://concepticon.clld.org/parameters/714,graine,seed
+171-144,stan1290,http://concepticon.clld.org/parameters/714,semence,seed
+171-81,stan1290,http://concepticon.clld.org/parameters/190,tondre,"mow, reap"
+171-66,stan1290,http://concepticon.clld.org/parameters/190,récolter,"mow, reap"
+171-1325,stan1290,http://concepticon.clld.org/parameters/2132,faux,"sickle, scythe"
+171-800,stan1290,http://concepticon.clld.org/parameters/2132,faucille,"sickle, scythe"
+171-301,stan1290,http://concepticon.clld.org/parameters/285,battre le blé,thresh
+171-147,stan1290,http://concepticon.clld.org/parameters/223,aire,threshing-floor
+171-131,stan1290,http://concepticon.clld.org/parameters/611,moisson,"crop, harvest"
+171-1412,stan1290,http://concepticon.clld.org/parameters/605,grain,"grain (barley, oats etc)"
+171-1037,stan1290,http://concepticon.clld.org/parameters/605,graine,"grain (barley, oats etc)"
+171-366,stan1290,http://concepticon.clld.org/parameters/1077,blé,wheat
+171-216,stan1290,http://concepticon.clld.org/parameters/932,orge,barley
+171-1062,stan1290,http://concepticon.clld.org/parameters/23,seigle,rye
+171-726,stan1290,http://concepticon.clld.org/parameters/60,avoine,oats
+171-202,stan1290,http://concepticon.clld.org/parameters/506,maïs,"maize, corn"
+171-1043,stan1290,http://concepticon.clld.org/parameters/926,riz,rice
+171-746,stan1290,http://concepticon.clld.org/parameters/606,herbe,grass
+171-1534,stan1290,http://concepticon.clld.org/parameters/342,foin,hay
+171-1040,stan1290,http://concepticon.clld.org/parameters/653,plante,plant (noun)
+171-1364,stan1290,http://concepticon.clld.org/parameters/1486,planter,plant (vb)
+171-799,stan1290,http://concepticon.clld.org/parameters/670,racine,root
+171-537,stan1290,http://concepticon.clld.org/parameters/1531,branche,branch
+171-907,stan1290,http://concepticon.clld.org/parameters/1531,rameau,branch
+171-530,stan1290,http://concepticon.clld.org/parameters/628,feuille,leaf
+171-793,stan1290,http://concepticon.clld.org/parameters/239,fleur,flower
+171-589,stan1290,http://concepticon.clld.org/parameters/906,arbre,tree
+171-135,stan1290,http://concepticon.clld.org/parameters/644,chêne,oak
+171-1378,stan1290,http://concepticon.clld.org/parameters/1950,hêtre,beech
+171-270,stan1290,http://concepticon.clld.org/parameters/1855,bouleau,birch
+171-1517,stan1290,http://concepticon.clld.org/parameters/1740,pin,pine
+171-975,stan1290,http://concepticon.clld.org/parameters/1915,sapin,fir
+171-978,stan1290,http://concepticon.clld.org/parameters/1915,conifère,fir
+171-352,stan1290,http://concepticon.clld.org/parameters/968,gland,acorn
+171-1227,stan1290,http://concepticon.clld.org/parameters/343,vigne,vine
+171-1081,stan1290,http://concepticon.clld.org/parameters/974,tabac,tobacco
+171-283,stan1290,http://concepticon.clld.org/parameters/1689,fumer,smoke (tobacco)
+171-1353,stan1290,http://concepticon.clld.org/parameters/1124,pipe,pipe
+171-347,stan1290,http://concepticon.clld.org/parameters/241,souche d'arbre,tree stump
+171-755,stan1290,http://concepticon.clld.org/parameters/344,tronc d'arbre,tree trunk
+171-164,stan1290,http://concepticon.clld.org/parameters/409,branche fourchue,forked branch
+171-1193,stan1290,http://concepticon.clld.org/parameters/409,branche bifurquée,forked branch
+171-964,stan1290,http://concepticon.clld.org/parameters/1204,écorce,bark
+171-195,stan1290,http://concepticon.clld.org/parameters/345,sève,sap
+171-323,stan1290,http://concepticon.clld.org/parameters/1181,palmier,palm tree
+171-932,stan1290,http://concepticon.clld.org/parameters/970,noix de coco,coconut
+171-1391,stan1290,http://concepticon.clld.org/parameters/1126,citrique,citrus fruit
+171-553,stan1290,http://concepticon.clld.org/parameters/868,bananier,banana tree
+171-1176,stan1290,http://concepticon.clld.org/parameters/346,banian,banyan
+171-1157,stan1290,http://concepticon.clld.org/parameters/159,patate douce,sweet potato
+171-87,stan1290,http://concepticon.clld.org/parameters/410,igname,yam
+171-344,stan1290,http://concepticon.clld.org/parameters/925,manioc,"tapioca, manioc, cassava"
+171-1222,stan1290,http://concepticon.clld.org/parameters/411,calebasse,gourd
+171-272,stan1290,http://concepticon.clld.org/parameters/864,courge,"pumpkin, squash"
+171-754,stan1290,http://concepticon.clld.org/parameters/864,potiron,"pumpkin, squash"
+171-269,stan1290,http://concepticon.clld.org/parameters/864,citrouille,"pumpkin, squash"
+171-1087,stan1290,http://concepticon.clld.org/parameters/1927,bambou,bamboo
+171-1204,stan1290,http://concepticon.clld.org/parameters/146,canne à sucre,sugar cane
+171-1055,stan1290,http://concepticon.clld.org/parameters/348,poison a poisson,fish poison (root)
+171-989,stan1290,http://concepticon.clld.org/parameters/348,verbascum,fish poison (root)
+171-721,stan1290,http://concepticon.clld.org/parameters/33,ortie,nettle
+171-940,stan1290,http://concepticon.clld.org/parameters/641,champignon,mushroom
+171-880,stan1290,http://concepticon.clld.org/parameters/813,faire,"do, make"
+171-1131,stan1290,http://concepticon.clld.org/parameters/984,travailler,work
+171-529,stan1290,http://concepticon.clld.org/parameters/2004,plier,bend
+171-550,stan1290,http://concepticon.clld.org/parameters/2004,courber,bend
+171-529,stan1290,http://concepticon.clld.org/parameters/1470,plier,fold
+171-346,stan1290,http://concepticon.clld.org/parameters/1917,attacher,"tie, bind"
+171-329,stan1290,http://concepticon.clld.org/parameters/1917,lier,"tie, bind"
+171-614,stan1290,http://concepticon.clld.org/parameters/352,détacher,untie
+171-230,stan1290,http://concepticon.clld.org/parameters/352,délier,untie
+171-937,stan1290,http://concepticon.clld.org/parameters/1627,chaîne,chain
+171-621,stan1290,http://concepticon.clld.org/parameters/1218,corde,"rope, cord"
+171-768,stan1290,http://concepticon.clld.org/parameters/760,noeud,knot (noun)
+171-938,stan1290,http://concepticon.clld.org/parameters/2133,frapper,"strike (hit, beat)"
+171-392,stan1290,http://concepticon.clld.org/parameters/2133,battre,"strike (hit, beat)"
+171-83,stan1290,http://concepticon.clld.org/parameters/354,marteler de ses poing,pound with fist
+171-253,stan1290,http://concepticon.clld.org/parameters/1432,couper,cut
+171-538,stan1290,http://concepticon.clld.org/parameters/355,abattre,cut down
+171-254,stan1290,http://concepticon.clld.org/parameters/155,tailler,"chop, hew"
+171-253,stan1290,http://concepticon.clld.org/parameters/155,couper,"chop, hew"
+171-266,stan1290,http://concepticon.clld.org/parameters/1434,poignarder,stab
+171-710,stan1290,http://concepticon.clld.org/parameters/1352,couteau,knife
+171-699,stan1290,http://concepticon.clld.org/parameters/356,ciseaux,"scissors, shears"
+171-394,stan1290,http://concepticon.clld.org/parameters/677,hache,ax
+171-1316,stan1290,http://concepticon.clld.org/parameters/290,herminette,adze
+171-591,stan1290,http://concepticon.clld.org/parameters/680,casser,break
+171-296,stan1290,http://concepticon.clld.org/parameters/680,briser,break
+171-234,stan1290,http://concepticon.clld.org/parameters/588,brisé,broken
+171-1501,stan1290,http://concepticon.clld.org/parameters/588,cassé,broken
+171-1187,stan1290,http://concepticon.clld.org/parameters/1437,fendre,split
+171-300,stan1290,http://concepticon.clld.org/parameters/1735,déchirer,tear
+171-1031,stan1290,http://concepticon.clld.org/parameters/291,écorcher,"flay, skin"
+171-412,stan1290,http://concepticon.clld.org/parameters/1449,frotter,"rub, wipe"
+171-206,stan1290,http://concepticon.clld.org/parameters/1449,essuyer,"rub, wipe"
+171-619,stan1290,http://concepticon.clld.org/parameters/214,étendre,stretch
+171-161,stan1290,http://concepticon.clld.org/parameters/1455,tirer,pull
+171-360,stan1290,http://concepticon.clld.org/parameters/38,étaler,spread out
+171-595,stan1290,http://concepticon.clld.org/parameters/38,éparpiller,spread out
+171-1275,stan1290,http://concepticon.clld.org/parameters/357,suspendre,hang up
+171-1035,stan1290,http://concepticon.clld.org/parameters/1913,presser,press
+171-811,stan1290,http://concepticon.clld.org/parameters/1913,appuyer,press
+171-1035,stan1290,http://concepticon.clld.org/parameters/1414,presser,"squeeze, wring"
+171-279,stan1290,http://concepticon.clld.org/parameters/1487,verser,pour
+171-809,stan1290,http://concepticon.clld.org/parameters/1453,laver,wash
+171-1153,stan1290,http://concepticon.clld.org/parameters/230,balayer,sweep
+171-1529,stan1290,http://concepticon.clld.org/parameters/245,balai,broom
+171-1020,stan1290,http://concepticon.clld.org/parameters/1361,outil,tool
+171-91,stan1290,http://concepticon.clld.org/parameters/1042,charpentier,carpenter
+171-146,stan1290,http://concepticon.clld.org/parameters/1840,bâtir,build
+171-148,stan1290,http://concepticon.clld.org/parameters/1840,construire,build
+171-1162,stan1290,http://concepticon.clld.org/parameters/1501,percer,bore
+171-415,stan1290,http://concepticon.clld.org/parameters/1501,perforer,bore
+171-348,stan1290,http://concepticon.clld.org/parameters/46,creuser,hollow out
+171-1530,stan1290,http://concepticon.clld.org/parameters/1948,scie,saw
+171-1367,stan1290,http://concepticon.clld.org/parameters/1481,marteau,hammer
+171-666,stan1290,http://concepticon.clld.org/parameters/502,clou,nail
+171-181,stan1290,http://concepticon.clld.org/parameters/502,pointe,nail
+171-740,stan1290,http://concepticon.clld.org/parameters/1069,colle,glue
+171-1200,stan1290,http://concepticon.clld.org/parameters/1001,forgeron,"smith, blacksmith"
+171-762,stan1290,http://concepticon.clld.org/parameters/288,forger,forge
+171-1470,stan1290,http://concepticon.clld.org/parameters/1648,enclume,anvil
+171-672,stan1290,http://concepticon.clld.org/parameters/211,mouler,cast (metals)
+171-389,stan1290,http://concepticon.clld.org/parameters/211,couler,cast (metals)
+171-706,stan1290,http://concepticon.clld.org/parameters/1369,or,gold
+171-631,stan1290,http://concepticon.clld.org/parameters/759,argent,silver
+171-213,stan1290,http://concepticon.clld.org/parameters/1825,cuivre,"copper, bronze"
+171-1006,stan1290,http://concepticon.clld.org/parameters/1825,bronze,"copper, bronze"
+171-1208,stan1290,http://concepticon.clld.org/parameters/621,fer,iron
+171-503,stan1290,http://concepticon.clld.org/parameters/627,plomb,lead (noun)
+171-487,stan1290,http://concepticon.clld.org/parameters/358,étain,"tin, tinplate"
+171-1252,stan1290,http://concepticon.clld.org/parameters/359,pottier,potter
+171-672,stan1290,http://concepticon.clld.org/parameters/289,mouler,mold (clay etc)
+171-1263,stan1290,http://concepticon.clld.org/parameters/1399,argile,clay
+171-37,stan1290,http://concepticon.clld.org/parameters/1399,glaise,clay
+171-807,stan1290,http://concepticon.clld.org/parameters/604,verre,glass
+171-82,stan1290,http://concepticon.clld.org/parameters/1729,tisser,"weave, plait"
+171-1240,stan1290,http://concepticon.clld.org/parameters/1729,tresser,"weave, plait"
+171-1271,stan1290,http://concepticon.clld.org/parameters/1539,panier,basket
+171-1304,stan1290,http://concepticon.clld.org/parameters/195,natte,mat
+171-1342,stan1290,http://concepticon.clld.org/parameters/292,tapis,rug
+171-1126,stan1290,http://concepticon.clld.org/parameters/293,filet,netbag
+171-1053,stan1290,http://concepticon.clld.org/parameters/1971,éventail,fan (noun)
+171-143,stan1290,http://concepticon.clld.org/parameters/360,s'éventer,fan (vb)
+171-345,stan1290,http://concepticon.clld.org/parameters/228,sculpter,carve
+171-1161,stan1290,http://concepticon.clld.org/parameters/228,graver,carve
+171-518,stan1290,http://concepticon.clld.org/parameters/914,sculpteur,sculptor
+171-654,stan1290,http://concepticon.clld.org/parameters/1002,statue,statue
+171-375,stan1290,http://concepticon.clld.org/parameters/1979,ciseau,chisel
+171-1483,stan1290,http://concepticon.clld.org/parameters/647,peinture,paint (noun)
+171-260,stan1290,http://concepticon.clld.org/parameters/2001,peindre,paint (vb)
+171-85,stan1290,http://concepticon.clld.org/parameters/765,mouvoir,move
+171-1491,stan1290,http://concepticon.clld.org/parameters/765,bouger,move
+171-128,stan1290,http://concepticon.clld.org/parameters/1588,retourner,turn over
+171-1170,stan1290,http://concepticon.clld.org/parameters/1445,culbuter,turn around
+171-311,stan1290,http://concepticon.clld.org/parameters/1445,se retourner,turn around
+171-1002,stan1290,http://concepticon.clld.org/parameters/1113,enrouler,"wind, wrap"
+171-1199,stan1290,http://concepticon.clld.org/parameters/1113,envelopper,"wind, wrap"
+171-295,stan1290,http://concepticon.clld.org/parameters/827,rouler,roll
+171-171,stan1290,http://concepticon.clld.org/parameters/808,laisser tomber,drop (vb)
+171-388,stan1290,http://concepticon.clld.org/parameters/430,tordre,twist
+171-1524,stan1290,http://concepticon.clld.org/parameters/568,monter,rise
+171-117,stan1290,http://concepticon.clld.org/parameters/568,se lever,rise
+171-403,stan1290,http://concepticon.clld.org/parameters/501,lever,"raise, lift"
+171-70,stan1290,http://concepticon.clld.org/parameters/501,élever,"raise, lift"
+171-684,stan1290,http://concepticon.clld.org/parameters/1280,tomber,fall
+171-1003,stan1290,http://concepticon.clld.org/parameters/2253,s'égoutter,drip
+171-590,stan1290,http://concepticon.clld.org/parameters/1456,jeter,throw
+171-357,stan1290,http://concepticon.clld.org/parameters/702,attraper,catch (ball)
+171-1428,stan1290,http://concepticon.clld.org/parameters/1909,secouer,shake
+171-1331,stan1290,http://concepticon.clld.org/parameters/1909,agiter,shake
+171-389,stan1290,http://concepticon.clld.org/parameters/2003,couler,flow
+171-389,stan1290,http://concepticon.clld.org/parameters/1088,couler,sink
+171-669,stan1290,http://concepticon.clld.org/parameters/1088,sombrer,sink
+171-644,stan1290,http://concepticon.clld.org/parameters/1574,flotter,float
+171-398,stan1290,http://concepticon.clld.org/parameters/1439,nager,swim
+171-1256,stan1290,http://concepticon.clld.org/parameters/119,plonger,dive
+171-756,stan1290,http://concepticon.clld.org/parameters/365,éclabousser,splash
+171-236,stan1290,http://concepticon.clld.org/parameters/787,naviguer,sail (vb)
+171-984,stan1290,http://concepticon.clld.org/parameters/1441,voler,fly (vb)
+171-988,stan1290,http://concepticon.clld.org/parameters/175,souffler,blow
+171-943,stan1290,http://concepticon.clld.org/parameters/96,ramper,"creep, crawl"
+171-519,stan1290,http://concepticon.clld.org/parameters/66,s'agenouiller,kneel
+171-1471,stan1290,http://concepticon.clld.org/parameters/296,s'accroupir,crouch
+171-458,stan1290,http://concepticon.clld.org/parameters/1324,glisser,"slide, slip"
+171-1442,stan1290,http://concepticon.clld.org/parameters/1829,sauter,"jump, leap"
+171-859,stan1290,http://concepticon.clld.org/parameters/1135,donner un coup de pied,kick
+171-1454,stan1290,http://concepticon.clld.org/parameters/1879,danser,dance
+171-264,stan1290,http://concepticon.clld.org/parameters/1443,marcher,walk
+171-1503,stan1290,http://concepticon.clld.org/parameters/366,boiter,limp
+171-1370,stan1290,http://concepticon.clld.org/parameters/1519,courir,run
+171-540,stan1290,http://concepticon.clld.org/parameters/695,aller,go
+171-1524,stan1290,http://concepticon.clld.org/parameters/705,monter,go up
+171-339,stan1290,http://concepticon.clld.org/parameters/1102,grimper,climb
+171-405,stan1290,http://concepticon.clld.org/parameters/2014,descendre,go down
+171-65,stan1290,http://concepticon.clld.org/parameters/1107,sortir,go out
+171-625,stan1290,http://concepticon.clld.org/parameters/1446,venir,come
+171-774,stan1290,http://concepticon.clld.org/parameters/581,revenir,come back
+171-545,stan1290,http://concepticon.clld.org/parameters/1752,s'en aller,"go away, depart"
+171-1382,stan1290,http://concepticon.clld.org/parameters/1752,partir,"go away, depart"
+171-316,stan1290,http://concepticon.clld.org/parameters/485,disparaître,disappear
+171-229,stan1290,http://concepticon.clld.org/parameters/956,s'enfuir,flee
+171-246,stan1290,http://concepticon.clld.org/parameters/1085,suivre,follow
+171-906,stan1290,http://concepticon.clld.org/parameters/1047,poursuivre,pursue
+171-925,stan1290,http://concepticon.clld.org/parameters/1387,atteindre,"reach, arrive"
+171-1058,stan1290,http://concepticon.clld.org/parameters/1387,arriver,"reach, arrive"
+171-819,stan1290,http://concepticon.clld.org/parameters/1778,approcher,approach
+171-1241,stan1290,http://concepticon.clld.org/parameters/749,entrer,enter
+171-694,stan1290,http://concepticon.clld.org/parameters/700,porter,carry (bear)
+171-307,stan1290,http://concepticon.clld.org/parameters/412,porter (dans la main),carry-in-hand
+171-1299,stan1290,http://concepticon.clld.org/parameters/413,porter (sur l'épaule),carry-on-shoulder
+171-121,stan1290,http://concepticon.clld.org/parameters/414,porter (sur la tête),carry-on-head
+171-918,stan1290,http://concepticon.clld.org/parameters/415,porter (sous le bras),carry-underarm
+171-1541,stan1290,http://concepticon.clld.org/parameters/692,apporter,bring
+171-1307,stan1290,http://concepticon.clld.org/parameters/692,amener,bring
+171-720,stan1290,http://concepticon.clld.org/parameters/1127,envoyer,send
+171-1042,stan1290,http://concepticon.clld.org/parameters/43,mener,lead (vb)
+171-456,stan1290,http://concepticon.clld.org/parameters/43,conduire,lead (vb)
+171-456,stan1290,http://concepticon.clld.org/parameters/741,conduire,drive
+171-297,stan1290,http://concepticon.clld.org/parameters/367,chevaucher,ride
+171-1397,stan1290,http://concepticon.clld.org/parameters/1452,pousser,"push, shove"
+171-1291,stan1290,http://concepticon.clld.org/parameters/667,route,road
+171-76,stan1290,http://concepticon.clld.org/parameters/2252,sentier,path
+171-1400,stan1290,http://concepticon.clld.org/parameters/2252,chemin,path
+171-846,stan1290,http://concepticon.clld.org/parameters/1011,pont,bridge
+171-1459,stan1290,http://concepticon.clld.org/parameters/122,wagon,"carriage, wagon, cart"
+171-856,stan1290,http://concepticon.clld.org/parameters/122,charrette,"carriage, wagon, cart"
+171-1340,stan1290,http://concepticon.clld.org/parameters/710,roue,wheel
+171-1512,stan1290,http://concepticon.clld.org/parameters/1769,essieu,axle
+171-950,stan1290,http://concepticon.clld.org/parameters/14,joug,yoke
+171-490,stan1290,http://concepticon.clld.org/parameters/740,navire,ship
+171-559,stan1290,http://concepticon.clld.org/parameters/740,bateau,ship
+171-559,stan1290,http://concepticon.clld.org/parameters/1844,bateau,boat
+171-638,stan1290,http://concepticon.clld.org/parameters/1970,canoe,canoe
+171-1203,stan1290,http://concepticon.clld.org/parameters/1970,pirogue,canoe
+171-1330,stan1290,http://concepticon.clld.org/parameters/416,balancier,outrigger
+171-1324,stan1290,http://concepticon.clld.org/parameters/1664,radeau,raft
+171-1413,stan1290,http://concepticon.clld.org/parameters/108,rame,oar
+171-885,stan1290,http://concepticon.clld.org/parameters/234,pagaie,paddle (noun)
+171-777,stan1290,http://concepticon.clld.org/parameters/1849,ramer,row (vb)
+171-1408,stan1290,http://concepticon.clld.org/parameters/108,gouvernail,rudder
+171-583,stan1290,http://concepticon.clld.org/parameters/184,mât,mast
+171-1457,stan1290,http://concepticon.clld.org/parameters/786,voile,sail (noun)
+171-1495,stan1290,http://concepticon.clld.org/parameters/1870,ancre,anchor
+171-948,stan1290,http://concepticon.clld.org/parameters/610,port,"harbor, port"
+171-302,stan1290,http://concepticon.clld.org/parameters/610,mouillage,"harbor, port"
+171-998,stan1290,http://concepticon.clld.org/parameters/1922,débarquer,land (vb)
+171-1481,stan1290,http://concepticon.clld.org/parameters/773,avoir,have
+171-935,stan1290,http://concepticon.clld.org/parameters/684,posséder,"own, possess"
+171-160,stan1290,http://concepticon.clld.org/parameters/1749,prendre,take
+171-1540,stan1290,http://concepticon.clld.org/parameters/2021,saisir,"seize, grasp"
+171-357,stan1290,http://concepticon.clld.org/parameters/2021,attraper,"seize, grasp"
+171-516,stan1290,http://concepticon.clld.org/parameters/1448,tenir,hold
+171-1073,stan1290,http://concepticon.clld.org/parameters/694,obtenir,"get, obtain"
+171-1172,stan1290,http://concepticon.clld.org/parameters/1477,garder,"keep, retain"
+171-1431,stan1290,http://concepticon.clld.org/parameters/1477,retenir,"keep, retain"
+171-1192,stan1290,http://concepticon.clld.org/parameters/738,chose,thing
+171-383,stan1290,http://concepticon.clld.org/parameters/1447,donner,give
+171-1369,stan1290,http://concepticon.clld.org/parameters/85,rendre,give back
+171-1276,stan1290,http://concepticon.clld.org/parameters/1997,préserver,"preserve, look after"
+171-839,stan1290,http://concepticon.clld.org/parameters/2008,sauver,"save, rescue"
+171-1117,stan1290,http://concepticon.clld.org/parameters/681,détruire,destroy
+171-714,stan1290,http://concepticon.clld.org/parameters/44,blesser,"harm, injure, damage"
+171-730,stan1290,http://concepticon.clld.org/parameters/44,endommager,"harm, injure, damage"
+171-1518,stan1290,http://concepticon.clld.org/parameters/1468,chercher,"seek, look for"
+171-1375,stan1290,http://concepticon.clld.org/parameters/719,trouver,find
+171-547,stan1290,http://concepticon.clld.org/parameters/1660,perdre,lose
+171-406,stan1290,http://concepticon.clld.org/parameters/1095,libérer,"release, let go"
+171-631,stan1290,http://concepticon.clld.org/parameters/1559,argent,money
+171-156,stan1290,http://concepticon.clld.org/parameters/1867,pièce de monnaie,coin
+171-1434,stan1290,http://concepticon.clld.org/parameters/712,riche,rich
+171-255,stan1290,http://concepticon.clld.org/parameters/1674,pauvre,poor
+171-480,stan1290,http://concepticon.clld.org/parameters/1934,mendiant,beggar
+171-668,stan1290,http://concepticon.clld.org/parameters/1774,avare,"avaricious, stingy"
+171-1178,stan1290,http://concepticon.clld.org/parameters/1774,radin,"avaricious, stingy"
+171-731,stan1290,http://concepticon.clld.org/parameters/582,prêter,lend
+171-1346,stan1290,http://concepticon.clld.org/parameters/1823,emprunter,borrow
+171-650,stan1290,http://concepticon.clld.org/parameters/369,devoir,owe
+171-1344,stan1290,http://concepticon.clld.org/parameters/1914,dette,debt
+171-683,stan1290,http://concepticon.clld.org/parameters/718,payer,pay (vb)
+171-1086,stan1290,http://concepticon.clld.org/parameters/1081,compte,"account, reckoning"
+171-664,stan1290,http://concepticon.clld.org/parameters/873,taxe,"tax, tribute"
+171-1425,stan1290,http://concepticon.clld.org/parameters/873,impôt,"tax, tribute"
+171-1213,stan1290,http://concepticon.clld.org/parameters/856,louer,hire
+171-438,stan1290,http://concepticon.clld.org/parameters/1122,salaire,wages
+171-798,stan1290,http://concepticon.clld.org/parameters/733,gagner,earn
+171-1249,stan1290,http://concepticon.clld.org/parameters/1869,acheter,buy
+171-708,stan1290,http://concepticon.clld.org/parameters/1571,vendre,sell
+171-599,stan1290,http://concepticon.clld.org/parameters/2135,échange,"trade, barter"
+171-1163,stan1290,http://concepticon.clld.org/parameters/1082,marchand,merchant
+171-133,stan1290,http://concepticon.clld.org/parameters/1082,commerçant,merchant
+171-309,stan1290,http://concepticon.clld.org/parameters/633,marché,market (place)
+171-1279,stan1290,http://concepticon.clld.org/parameters/752,boutique,"store, shop"
+171-466,stan1290,http://concepticon.clld.org/parameters/752,magasin,"store, shop"
+171-192,stan1290,http://concepticon.clld.org/parameters/657,prix,price
+171-23,stan1290,http://concepticon.clld.org/parameters/1426,cher,"dear (costly, expensive)"
+171-1221,stan1290,http://concepticon.clld.org/parameters/1887,bon marché,cheap
+171-402,stan1290,http://concepticon.clld.org/parameters/884,partager,share (distribute)
+171-766,stan1290,http://concepticon.clld.org/parameters/1098,peser,weigh
+171-598,stan1290,http://concepticon.clld.org/parameters/1685,après,after
+171-155,stan1290,http://concepticon.clld.org/parameters/723,derrière,behind
+171-170,stan1290,http://concepticon.clld.org/parameters/1816,à côté de,beside
+171-660,stan1290,http://concepticon.clld.org/parameters/1326,en bas,"down, below"
+171-446,stan1290,http://concepticon.clld.org/parameters/1326,sous,"down, below"
+171-469,stan1290,http://concepticon.clld.org/parameters/1882,avant,before
+171-1216,stan1290,http://concepticon.clld.org/parameters/1882,devant,before
+171-1216,stan1290,http://concepticon.clld.org/parameters/1019,devant,front
+171-931,stan1290,http://concepticon.clld.org/parameters/1606,dans,"inside, in"
+171-256,stan1290,http://concepticon.clld.org/parameters/1606,dedans,"inside, in"
+171-899,stan1290,http://concepticon.clld.org/parameters/762,dehors,outside
+171-1065,stan1290,http://concepticon.clld.org/parameters/1485,dessous,under
+171-446,stan1290,http://concepticon.clld.org/parameters/1485,sous,under
+171-486,stan1290,http://concepticon.clld.org/parameters/1591,au-dessus,"up, above"
+171-794,stan1290,http://concepticon.clld.org/parameters/1591,sur,"up, above"
+171-382,stan1290,http://concepticon.clld.org/parameters/1591,là-haut,"up, above"
+171-1402,stan1290,http://concepticon.clld.org/parameters/1591,là dessus,"up, above"
+171-769,stan1290,http://concepticon.clld.org/parameters/723,endroit,place
+171-513,stan1290,http://concepticon.clld.org/parameters/723,place,place
+171-333,stan1290,http://concepticon.clld.org/parameters/723,lieu,place
+171-108,stan1290,http://concepticon.clld.org/parameters/998,mettre,put
+171-172,stan1290,http://concepticon.clld.org/parameters/1416,s'asseoir,sit
+171-840,stan1290,http://concepticon.clld.org/parameters/215,se coucher,lie down
+171-1127,stan1290,http://concepticon.clld.org/parameters/1442,se tenir debout,stand
+171-1146,stan1290,http://concepticon.clld.org/parameters/987,rester,"remain, stay"
+171-1026,stan1290,http://concepticon.clld.org/parameters/987,demeurer,"remain, stay"
+171-404,stan1290,http://concepticon.clld.org/parameters/987,attendre,"remain, stay"
+171-48,stan1290,http://concepticon.clld.org/parameters/838,reste,"remains, left overs"
+171-1250,stan1290,http://concepticon.clld.org/parameters/7,recueillir,"collect, gather"
+171-922,stan1290,http://concepticon.clld.org/parameters/7,rassembler,"collect, gather"
+171-1323,stan1290,http://concepticon.clld.org/parameters/371,ramasser,pick up
+171-194,stan1290,http://concepticon.clld.org/parameters/1576,entasser,pile up
+171-56,stan1290,http://concepticon.clld.org/parameters/1743,unir,"join, unite"
+171-1292,stan1290,http://concepticon.clld.org/parameters/1359,séparer,separate
+171-341,stan1290,http://concepticon.clld.org/parameters/1119,diviser,divide
+171-1490,stan1290,http://concepticon.clld.org/parameters/1156,ouvrir,open
+171-745,stan1290,http://concepticon.clld.org/parameters/1046,fermer,"shut, close"
+171-852,stan1290,http://concepticon.clld.org/parameters/761,couvrir,cover
+171-1385,stan1290,http://concepticon.clld.org/parameters/602,cacher,"hide, conceal"
+171-1016,stan1290,http://concepticon.clld.org/parameters/602,dissimuler,"hide, conceal"
+171-1460,stan1290,http://concepticon.clld.org/parameters/1265,haut,high
+171-209,stan1290,http://concepticon.clld.org/parameters/721,bas,low
+171-1460,stan1290,http://concepticon.clld.org/parameters/1753,haut,top
+171-690,stan1290,http://concepticon.clld.org/parameters/1753,sommet,top
+171-969,stan1290,http://concepticon.clld.org/parameters/690,fond,bottom
+171-871,stan1290,http://concepticon.clld.org/parameters/742,bout,end
+171-833,stan1290,http://concepticon.clld.org/parameters/742,extrémité,end
+171-184,stan1290,http://concepticon.clld.org/parameters/372,pointu,pointed
+171-305,stan1290,http://concepticon.clld.org/parameters/863,bord,edge
+171-222,stan1290,http://concepticon.clld.org/parameters/863,orée,edge
+171-1001,stan1290,http://concepticon.clld.org/parameters/682,côté,side
+171-241,stan1290,http://concepticon.clld.org/parameters/1093,milieu,"middle, center"
+171-1343,stan1290,http://concepticon.clld.org/parameters/1093,centre,"middle, center"
+171-520,stan1290,http://concepticon.clld.org/parameters/1019,droite,right (side)
+171-838,stan1290,http://concepticon.clld.org/parameters/244,gauche,left (side)
+171-162,stan1290,http://concepticon.clld.org/parameters/1942,près,near (adv)
+171-330,stan1290,http://concepticon.clld.org/parameters/1406,loin,far (adv)
+171-1475,stan1290,http://concepticon.clld.org/parameters/1877,est,east
+171-893,stan1290,http://concepticon.clld.org/parameters/1877,orient,east
+171-900,stan1290,http://concepticon.clld.org/parameters/1817,ouest,west
+171-1123,stan1290,http://concepticon.clld.org/parameters/1817,occident,west
+171-775,stan1290,http://concepticon.clld.org/parameters/1598,nord,north
+171-792,stan1290,http://concepticon.clld.org/parameters/1595,sud,south
+171-957,stan1290,http://concepticon.clld.org/parameters/479,grandir,grow
+171-88,stan1290,http://concepticon.clld.org/parameters/479,croître,grow
+171-1397,stan1290,http://concepticon.clld.org/parameters/479,pousser,grow
+171-689,stan1290,http://concepticon.clld.org/parameters/1506,mesurer,measure
+171-245,stan1290,http://concepticon.clld.org/parameters/81,brasse,"span, fathom"
+171-1054,stan1290,http://concepticon.clld.org/parameters/1202,grand,"large, big"
+171-463,stan1290,http://concepticon.clld.org/parameters/1202,gros,"large, big"
+171-349,stan1290,http://concepticon.clld.org/parameters/1246,petit,"small, little"
+171-1119,stan1290,http://concepticon.clld.org/parameters/1203,long,long
+171-1054,stan1290,http://concepticon.clld.org/parameters/711,grand,tall
+171-851,stan1290,http://concepticon.clld.org/parameters/1645,court,short
+171-781,stan1290,http://concepticon.clld.org/parameters/1243,large,"wide, broad"
+171-696,stan1290,http://concepticon.clld.org/parameters/1267,étroit,narrow
+171-153,stan1290,http://concepticon.clld.org/parameters/1244,épais,thick (in dimension)
+171-569,stan1290,http://concepticon.clld.org/parameters/1400,mince,thin (in dimension)
+171-588,stan1290,http://concepticon.clld.org/parameters/1593,profond,deep
+171-524,stan1290,http://concepticon.clld.org/parameters/193,peu profond,shallow
+171-959,stan1290,http://concepticon.clld.org/parameters/1633,plat,flat
+171-933,stan1290,http://concepticon.clld.org/parameters/1404,droit,straight
+171-787,stan1290,http://concepticon.clld.org/parameters/297,courbe,crooked
+171-632,stan1290,http://concepticon.clld.org/parameters/297,pas droit,crooked
+171-556,stan1290,http://concepticon.clld.org/parameters/1071,crochet,hook
+171-179,stan1290,http://concepticon.clld.org/parameters/192,coin,corner
+171-967,stan1290,http://concepticon.clld.org/parameters/1367,croix,cross
+171-7,stan1290,http://concepticon.clld.org/parameters/850,carré,square
+171-149,stan1290,http://concepticon.clld.org/parameters/1395,rond,round
+171-711,stan1290,http://concepticon.clld.org/parameters/1467,cercle,circle
+171-338,stan1290,http://concepticon.clld.org/parameters/1845,sphère,"sphere, ball"
+171-1472,stan1290,http://concepticon.clld.org/parameters/1845,ballon,"sphere, ball"
+171-549,stan1290,http://concepticon.clld.org/parameters/1048,ligne,line
+171-141,stan1290,http://concepticon.clld.org/parameters/1048,rang,line
+171-702,stan1290,http://concepticon.clld.org/parameters/1667,trou,hole
+171-515,stan1290,http://concepticon.clld.org/parameters/1558,semblable,"like, similar"
+171-47,stan1290,http://concepticon.clld.org/parameters/1264,changer,change
+171-617,stan1290,http://concepticon.clld.org/parameters/1294,zéro,"zero, nothing"
+171-1098,stan1290,http://concepticon.clld.org/parameters/1294,rien,"zero, nothing"
+171-1133,stan1290,http://concepticon.clld.org/parameters/1515,un,one
+171-548,stan1290,http://concepticon.clld.org/parameters/1498,deux,two
+171-857,stan1290,http://concepticon.clld.org/parameters/492,trois,three
+171-630,stan1290,http://concepticon.clld.org/parameters/1500,quatre,four
+171-1441,stan1290,http://concepticon.clld.org/parameters/493,cinq,five
+171-1233,stan1290,http://concepticon.clld.org/parameters/1703,six,six
+171-321,stan1290,http://concepticon.clld.org/parameters/1704,sept,seven
+171-821,stan1290,http://concepticon.clld.org/parameters/1705,huit,eight
+171-9,stan1290,http://concepticon.clld.org/parameters/1483,neuf,nine
+171-400,stan1290,http://concepticon.clld.org/parameters/1515,dix,ten
+171-544,stan1290,http://concepticon.clld.org/parameters/1706,onze,eleven
+171-340,stan1290,http://concepticon.clld.org/parameters/1707,douze,twelve
+171-1479,stan1290,http://concepticon.clld.org/parameters/1709,quinze,fifteen
+171-981,stan1290,http://concepticon.clld.org/parameters/1710,vingt,twenty
+171-1422,stan1290,http://concepticon.clld.org/parameters/1634,cent,hundred
+171-1339,stan1290,http://concepticon.clld.org/parameters/1843,mille,thousand
+171-879,stan1290,http://concepticon.clld.org/parameters/1420,compter,count
+171-592,stan1290,http://concepticon.clld.org/parameters/98,chaque,"every, all"
+171-606,stan1290,http://concepticon.clld.org/parameters/98,tous,"every, all"
+171-1196,stan1290,http://concepticon.clld.org/parameters/1198,beaucoup,"much, many"
+171-1319,stan1290,http://concepticon.clld.org/parameters/1992,encore,more
+171-318,stan1290,http://concepticon.clld.org/parameters/1992,plus,more
+171-1099,stan1290,http://concepticon.clld.org/parameters/1242,peu,"little (quantity), few"
+171-58,stan1290,http://concepticon.clld.org/parameters/1881,assez,enough
+171-701,stan1290,http://concepticon.clld.org/parameters/1241,un peu,some
+171-472,stan1290,http://concepticon.clld.org/parameters/2023,foule,"multitude, crowd"
+171-534,stan1290,http://concepticon.clld.org/parameters/1429,plein,full
+171-1456,stan1290,http://concepticon.clld.org/parameters/1624,vide,empty
+171-1480,stan1290,http://concepticon.clld.org/parameters/779,morceau,"part, piece"
+171-1381,stan1290,http://concepticon.clld.org/parameters/779,partie,"part, piece"
+171-703,stan1290,http://concepticon.clld.org/parameters/816,moitié,half
+171-1527,stan1290,http://concepticon.clld.org/parameters/1580,seul,"alone, only"
+171-618,stan1290,http://concepticon.clld.org/parameters/1580,seulement,"alone, only"
+171-542,stan1290,http://concepticon.clld.org/parameters/728,premier,first
+171-954,stan1290,http://concepticon.clld.org/parameters/1529,dernier,last
+171-1000,stan1290,http://concepticon.clld.org/parameters/1384,deuxième,second
+171-1083,stan1290,http://concepticon.clld.org/parameters/1888,couple,pair
+171-908,stan1290,http://concepticon.clld.org/parameters/1888,paire,pair
+171-582,stan1290,http://concepticon.clld.org/parameters/1546,deux fois,two times
+171-653,stan1290,http://concepticon.clld.org/parameters/1859,troisième,third
+171-12,stan1290,http://concepticon.clld.org/parameters/417,trois fois,three times
+171-1242,stan1290,http://concepticon.clld.org/parameters/892,heure,time
+171-1285,stan1290,http://concepticon.clld.org/parameters/892,temps,time
+171-511,stan1290,http://concepticon.clld.org/parameters/1789,âge,age
+171-1231,stan1290,http://concepticon.clld.org/parameters/1231,nouveau,new
+171-137,stan1290,http://concepticon.clld.org/parameters/1207,jeune,young
+171-268,stan1290,http://concepticon.clld.org/parameters/1229,vieux,old
+171-855,stan1290,http://concepticon.clld.org/parameters/672,tôt,early
+171-727,stan1290,http://concepticon.clld.org/parameters/672,de bonne heure,early
+171-1142,stan1290,http://concepticon.clld.org/parameters/477,tard,late
+171-1345,stan1290,http://concepticon.clld.org/parameters/1376,maintenant,now
+171-450,stan1290,http://concepticon.clld.org/parameters/1963,tout de suite,immediately
+171-104,stan1290,http://concepticon.clld.org/parameters/1631,vite,"swift, fast, quick"
+171-736,stan1290,http://concepticon.clld.org/parameters/1631,rapide,"swift, fast, quick"
+171-1149,stan1290,http://concepticon.clld.org/parameters/701,lent,slow
+171-883,stan1290,http://concepticon.clld.org/parameters/754,se dépêcher,"hasten, hurry"
+171-608,stan1290,http://concepticon.clld.org/parameters/425,différer,"retard, delay"
+171-1008,stan1290,http://concepticon.clld.org/parameters/425,retarder,"retard, delay"
+171-1542,stan1290,http://concepticon.clld.org/parameters/1806,commencement,"begin, beginning"
+171-1484,stan1290,http://concepticon.clld.org/parameters/1806,début,"begin, beginning"
+171-1464,stan1290,http://concepticon.clld.org/parameters/1186,durer,"last, endure"
+171-106,stan1290,http://concepticon.clld.org/parameters/743,fin,end (temporal)
+171-439,stan1290,http://concepticon.clld.org/parameters/1766,finir,finish
+171-917,stan1290,http://concepticon.clld.org/parameters/1766,terminer,finish
+171-1429,stan1290,http://concepticon.clld.org/parameters/1928,cesser,"cease, stop"
+171-199,stan1290,http://concepticon.clld.org/parameters/1928,s'arrêter,"cease, stop"
+171-362,stan1290,http://concepticon.clld.org/parameters/790,prêt,ready
+171-971,stan1290,http://concepticon.clld.org/parameters/1676,toujours,always
+171-1236,stan1290,http://concepticon.clld.org/parameters/1852,souvent,often
+171-102,stan1290,http://concepticon.clld.org/parameters/1544,quelquefois,sometimes
+171-895,stan1290,http://concepticon.clld.org/parameters/703,bientôt,soon
+171-924,stan1290,http://concepticon.clld.org/parameters/418,longtemps,long-time (for a)
+171-1097,stan1290,http://concepticon.clld.org/parameters/1656,jamais,never
+171-1319,stan1290,http://concepticon.clld.org/parameters/204,encore,again
+171-944,stan1290,http://concepticon.clld.org/parameters/1260,jour,day
+171-1284,stan1290,http://concepticon.clld.org/parameters/1233,nuit,night
+171-370,stan1290,http://concepticon.clld.org/parameters/729,aube,dawn
+171-995,stan1290,http://concepticon.clld.org/parameters/1339,matin,morning
+171-1390,stan1290,http://concepticon.clld.org/parameters/1339,matinée,morning
+171-1289,stan1290,http://concepticon.clld.org/parameters/12,midi,"noon, midday"
+171-63,stan1290,http://concepticon.clld.org/parameters/1807,après-midi,afternoon
+171-643,stan1290,http://concepticon.clld.org/parameters/1629,soir,evening
+171-837,stan1290,http://concepticon.clld.org/parameters/1629,soirée,evening
+171-1523,stan1290,http://concepticon.clld.org/parameters/1283,aujourd'hui,today
+171-235,stan1290,http://concepticon.clld.org/parameters/1329,demain,tomorrow
+171-1166,stan1290,http://concepticon.clld.org/parameters/1179,après-demain,day-after-tomorrow
+171-1488,stan1290,http://concepticon.clld.org/parameters/1174,hier,yesterday
+171-729,stan1290,http://concepticon.clld.org/parameters/1180,avant-hier,day-before-yesterday
+171-1242,stan1290,http://concepticon.clld.org/parameters/1353,heure,hour
+171-1469,stan1290,http://concepticon.clld.org/parameters/1323,pendule,"clock, timepiece"
+171-1169,stan1290,http://concepticon.clld.org/parameters/1323,horloge,"clock, timepiece"
+171-976,stan1290,http://concepticon.clld.org/parameters/1323,montre,"clock, timepiece"
+171-572,stan1290,http://concepticon.clld.org/parameters/1469,semaine,week
+171-743,stan1290,http://concepticon.clld.org/parameters/1699,dimanche,Sunday
+171-353,stan1290,http://concepticon.clld.org/parameters/1697,lundi,Monday
+171-1152,stan1290,http://concepticon.clld.org/parameters/1695,mardi,Tuesday
+171-1039,stan1290,http://concepticon.clld.org/parameters/1694,mercredi,Wednesday
+171-783,stan1290,http://concepticon.clld.org/parameters/1693,jeudi,Thursday
+171-874,stan1290,http://concepticon.clld.org/parameters/1692,vendredi,Friday
+171-739,stan1290,http://concepticon.clld.org/parameters/1700,samedi,Saturday
+171-60,stan1290,http://concepticon.clld.org/parameters/1370,mois,month
+171-493,stan1290,http://concepticon.clld.org/parameters/1226,année,year
+171-1148,stan1290,http://concepticon.clld.org/parameters/1471,hiver,winter
+171-1286,stan1290,http://concepticon.clld.org/parameters/1537,printemps,spring
+171-1004,stan1290,http://concepticon.clld.org/parameters/1342,été,summer
+171-1446,stan1290,http://concepticon.clld.org/parameters/1276,automne,autumn
+171-629,stan1290,http://concepticon.clld.org/parameters/691,saison,season
+171-90,stan1290,http://concepticon.clld.org/parameters/1587,sentir,smell (vb intrans)
+171-688,stan1290,http://concepticon.clld.org/parameters/375,renifler,sniff
+171-1416,stan1290,http://concepticon.clld.org/parameters/375,flairer,sniff
+171-90,stan1290,http://concepticon.clld.org/parameters/1586,sentir,smell (vb trans)
+171-828,stan1290,http://concepticon.clld.org/parameters/1586,odeur,smell (vb trans)
+171-1277,stan1290,http://concepticon.clld.org/parameters/376,odorant,"fragrant, good smelling"
+171-1474,stan1290,http://concepticon.clld.org/parameters/376,parfumé,"fragrant, good smelling"
+171-1546,stan1290,http://concepticon.clld.org/parameters/42,puant,"stinking, bad smelling"
+171-832,stan1290,http://concepticon.clld.org/parameters/42,qui sent mauvais,"stinking, bad smelling"
+171-946,stan1290,http://concepticon.clld.org/parameters/21,sentir (le goût de),taste
+171-363,stan1290,http://concepticon.clld.org/parameters/21,goûter,taste
+171-1129,stan1290,http://concepticon.clld.org/parameters/717,sucré,sweet
+171-120,stan1290,http://concepticon.clld.org/parameters/717,doux,sweet
+171-610,stan1290,http://concepticon.clld.org/parameters/1091,salé,salty
+171-1407,stan1290,http://concepticon.clld.org/parameters/887,amer,bitter
+171-1387,stan1290,http://concepticon.clld.org/parameters/887,âpre,bitter
+171-1387,stan1290,http://concepticon.clld.org/parameters/1906,âpre,"acid, sour"
+171-760,stan1290,http://concepticon.clld.org/parameters/1906,acide,"acid, sour"
+171-498,stan1290,http://concepticon.clld.org/parameters/1906,aigre,"acid, sour"
+171-77,stan1290,http://concepticon.clld.org/parameters/70,saumâtre,brackish
+171-566,stan1290,http://concepticon.clld.org/parameters/1408,entendre,hear
+171-1355,stan1290,http://concepticon.clld.org/parameters/1608,écouter,listen
+171-328,stan1290,http://concepticon.clld.org/parameters/1811,son,"sound, noise"
+171-1089,stan1290,http://concepticon.clld.org/parameters/1811,bruit,"sound, noise"
+171-342,stan1290,http://concepticon.clld.org/parameters/377,fort,loud
+171-864,stan1290,http://concepticon.clld.org/parameters/377,sonore,loud
+171-812,stan1290,http://concepticon.clld.org/parameters/377,bruyant,loud
+171-567,stan1290,http://concepticon.clld.org/parameters/377,retentissant,loud
+171-322,stan1290,http://concepticon.clld.org/parameters/1314,tranquillité,"quiet, silence"
+171-1112,stan1290,http://concepticon.clld.org/parameters/1314,silence,"quiet, silence"
+171-15,stan1290,http://concepticon.clld.org/parameters/1409,voir,see
+171-289,stan1290,http://concepticon.clld.org/parameters/1819,regarder,"look, look at"
+171-1374,stan1290,http://concepticon.clld.org/parameters/1039,montrer,show
+171-576,stan1290,http://concepticon.clld.org/parameters/708,briller,shine
+171-1007,stan1290,http://concepticon.clld.org/parameters/679,brillant,bright
+171-1030,stan1290,http://concepticon.clld.org/parameters/679,gai,bright
+171-814,stan1290,http://concepticon.clld.org/parameters/679,vif,bright
+171-276,stan1290,http://concepticon.clld.org/parameters/1613,couleur,color
+171-453,stan1290,http://concepticon.clld.org/parameters/250,clair,light (in color)
+171-358,stan1290,http://concepticon.clld.org/parameters/706,foncé,dark (in color)
+171-913,stan1290,http://concepticon.clld.org/parameters/1335,blanc,white
+171-1363,stan1290,http://concepticon.clld.org/parameters/163,noir,black
+171-1359,stan1290,http://concepticon.clld.org/parameters/156,rouge,red
+171-211,stan1290,http://concepticon.clld.org/parameters/837,bleu,blue
+171-778,stan1290,http://concepticon.clld.org/parameters/1425,vert,green
+171-1328,stan1290,http://concepticon.clld.org/parameters/1424,jaune,yellow
+171-198,stan1290,http://concepticon.clld.org/parameters/1892,toucher,touch
+171-1301,stan1290,http://concepticon.clld.org/parameters/378,pincer,pinch
+171-90,stan1290,http://concepticon.clld.org/parameters/1079,sentir,feel
+171-1025,stan1290,http://concepticon.clld.org/parameters/1884,dur,hard
+171-120,stan1290,http://concepticon.clld.org/parameters/1856,doux,soft
+171-929,stan1290,http://concepticon.clld.org/parameters/1923,rugueux,rough
+171-854,stan1290,http://concepticon.clld.org/parameters/1923,rude,rough
+171-535,stan1290,http://concepticon.clld.org/parameters/1234,lisse,smooth
+171-890,stan1290,http://concepticon.clld.org/parameters/1396,tranchant,sharp
+171-836,stan1290,http://concepticon.clld.org/parameters/1396,aiguisé,sharp
+171-867,stan1290,http://concepticon.clld.org/parameters/379,émoussé,"blunt, dull"
+171-6,stan1290,http://concepticon.clld.org/parameters/1210,lourd,heavy
+171-887,stan1290,http://concepticon.clld.org/parameters/1052,léger,light (in weight)
+171-1453,stan1290,http://concepticon.clld.org/parameters/1726,humide,"wet, damp"
+171-994,stan1290,http://concepticon.clld.org/parameters/1398,sec,dry
+171-820,stan1290,http://concepticon.clld.org/parameters/1286,chaud,hot
+171-1499,stan1290,http://concepticon.clld.org/parameters/1232,tiède,warm
+171-820,stan1290,http://concepticon.clld.org/parameters/1232,chaud,warm
+171-1177,stan1290,http://concepticon.clld.org/parameters/1232,assez chaud,warm
+171-1356,stan1290,http://concepticon.clld.org/parameters/1287,froid,cold
+171-34,stan1290,http://concepticon.clld.org/parameters/704,propre,clean
+171-560,stan1290,http://concepticon.clld.org/parameters/1230,sale,"dirty, soiled"
+171-79,stan1290,http://concepticon.clld.org/parameters/1230,crasseux,"dirty, soiled"
+171-39,stan1290,http://concepticon.clld.org/parameters/380,ridé,wrinkled
+171-62,stan1290,http://concepticon.clld.org/parameters/53,âme,"soul, spirit"
+171-670,stan1290,http://concepticon.clld.org/parameters/53,esprit,"soul, spirit"
+171-865,stan1290,http://concepticon.clld.org/parameters/1572,étonné,"surprised, astonished"
+171-355,stan1290,http://concepticon.clld.org/parameters/1572,surpris,"surprised, astonished"
+171-1536,stan1290,http://concepticon.clld.org/parameters/720,chance,"good fortune, luck"
+171-973,stan1290,http://concepticon.clld.org/parameters/720,bonheur,"good fortune, luck"
+171-1038,stan1290,http://concepticon.clld.org/parameters/56,malheur,"misfortune, bad luck"
+171-586,stan1290,http://concepticon.clld.org/parameters/56,malchance,"misfortune, bad luck"
+171-847,stan1290,http://concepticon.clld.org/parameters/56,infortune,"misfortune, bad luck"
+171-1198,stan1290,http://concepticon.clld.org/parameters/1495,joyeux,"joyful, glad, happy"
+171-596,stan1290,http://concepticon.clld.org/parameters/1495,heureux,"joyful, glad, happy"
+171-298,stan1290,http://concepticon.clld.org/parameters/1355,rire,laugh
+171-1361,stan1290,http://concepticon.clld.org/parameters/1451,sourire,smile
+171-1095,stan1290,http://concepticon.clld.org/parameters/1413,jouer,play
+171-813,stan1290,http://concepticon.clld.org/parameters/923,aimer,love
+171-73,stan1290,http://concepticon.clld.org/parameters/923,amour,love
+171-1513,stan1290,http://concepticon.clld.org/parameters/578,baiser,kiss
+171-1509,stan1290,http://concepticon.clld.org/parameters/578,embrasser,kiss
+171-1509,stan1290,http://concepticon.clld.org/parameters/928,embrasser,embrace
+171-1327,stan1290,http://concepticon.clld.org/parameters/928,étreindre,embrace
+171-532,stan1290,http://concepticon.clld.org/parameters/1783,douleur,pain
+171-532,stan1290,http://concepticon.clld.org/parameters/1668,douleur,"grief, sorrow, sadness"
+171-188,stan1290,http://concepticon.clld.org/parameters/1668,peine,"grief, sorrow, sadness"
+171-1311,stan1290,http://concepticon.clld.org/parameters/1668,chagrin,"grief, sorrow, sadness"
+171-1296,stan1290,http://concepticon.clld.org/parameters/1000,anxiété,"anxiety, worry"
+171-247,stan1290,http://concepticon.clld.org/parameters/1875,regretter,"regret, be sorry"
+171-889,stan1290,http://concepticon.clld.org/parameters/1141,pitié,pity
+171-8,stan1290,http://concepticon.clld.org/parameters/1141,compassion,pity
+171-594,stan1290,http://concepticon.clld.org/parameters/1839,pleurer,"cry, weep"
+171-314,stan1290,http://concepticon.clld.org/parameters/1651,larme,tear (noun)
+171-475,stan1290,http://concepticon.clld.org/parameters/716,grogner,groan
+171-830,stan1290,http://concepticon.clld.org/parameters/1607,haïr,hate
+171-350,stan1290,http://concepticon.clld.org/parameters/82,colère,anger
+171-676,stan1290,http://concepticon.clld.org/parameters/40,envie,"envy, jealousy"
+171-620,stan1290,http://concepticon.clld.org/parameters/40,jalousie,"envy, jealousy"
+171-390,stan1290,http://concepticon.clld.org/parameters/1776,honte,shame (noun)
+171-1350,stan1290,http://concepticon.clld.org/parameters/174,fier,proud
+171-1466,stan1290,http://concepticon.clld.org/parameters/1779,oser,dare
+171-29,stan1290,http://concepticon.clld.org/parameters/3,courageux,brave
+171-98,stan1290,http://concepticon.clld.org/parameters/781,peur,"fear, fright"
+171-642,stan1290,http://concepticon.clld.org/parameters/781,crainte,"fear, fright"
+171-1201,stan1290,http://concepticon.clld.org/parameters/1810,danger,danger
+171-114,stan1290,http://concepticon.clld.org/parameters/1784,vouloir,"desire, want"
+171-397,stan1290,http://concepticon.clld.org/parameters/1784,désirer,"desire, want"
+171-1333,stan1290,http://concepticon.clld.org/parameters/1750,choisir,choose
+171-1237,stan1290,http://concepticon.clld.org/parameters/1092,espoir,hope
+171-1312,stan1290,http://concepticon.clld.org/parameters/100,fidèle,faithful
+171-602,stan1290,http://concepticon.clld.org/parameters/1657,vrai,true
+171-251,stan1290,http://concepticon.clld.org/parameters/601,mentir,"lie, tell lies"
+171-759,stan1290,http://concepticon.clld.org/parameters/13,tromperie,deceit
+171-952,stan1290,http://concepticon.clld.org/parameters/1528,pardonner,forgive
+171-1060,stan1290,http://concepticon.clld.org/parameters/1035,bon,good
+171-18,stan1290,http://concepticon.clld.org/parameters/1292,mauvais,bad
+171-1111,stan1290,http://concepticon.clld.org/parameters/1725,juste,"right, correct"
+171-500,stan1290,http://concepticon.clld.org/parameters/1725,correct,"right, correct"
+171-738,stan1290,http://concepticon.clld.org/parameters/1390,incorrect,wrong
+171-1105,stan1290,http://concepticon.clld.org/parameters/134,faute,fault
+171-1011,stan1290,http://concepticon.clld.org/parameters/1293,erreur,"mistake, error"
+171-1105,stan1290,http://concepticon.clld.org/parameters/1293,faute,"mistake, error"
+171-972,stan1290,http://concepticon.clld.org/parameters/381,blâme,blame
+171-806,stan1290,http://concepticon.clld.org/parameters/1687,louange,praise
+171-1253,stan1290,http://concepticon.clld.org/parameters/1687,éloge,praise
+171-1373,stan1290,http://concepticon.clld.org/parameters/1427,beau,beautiful
+171-574,stan1290,http://concepticon.clld.org/parameters/1427,joli,beautiful
+171-127,stan1290,http://concepticon.clld.org/parameters/1548,laid,ugly
+171-939,stan1290,http://concepticon.clld.org/parameters/2018,avide,greedy
+171-113,stan1290,http://concepticon.clld.org/parameters/2018,glouton,greedy
+171-387,stan1290,http://concepticon.clld.org/parameters/2018,gourmand,greedy
+171-1235,stan1290,http://concepticon.clld.org/parameters/1310,intelligent,clever
+171-384,stan1290,http://concepticon.clld.org/parameters/1310,habile,clever
+171-575,stan1290,http://concepticon.clld.org/parameters/1562,pensée,mind
+171-483,stan1290,http://concepticon.clld.org/parameters/1562,avis,mind
+171-244,stan1290,http://concepticon.clld.org/parameters/1415,penser,think (= reflect)
+171-986,stan1290,http://concepticon.clld.org/parameters/1513,croire,think (= be of the opinion)
+171-986,stan1290,http://concepticon.clld.org/parameters/1890,croire,believe
+171-810,stan1290,http://concepticon.clld.org/parameters/1536,comprendre,understand
+171-1108,stan1290,http://concepticon.clld.org/parameters/1410,savoir,know
+171-200,stan1290,http://concepticon.clld.org/parameters/1932,deviner,guess
+171-417,stan1290,http://concepticon.clld.org/parameters/117,imiter,imitate
+171-1377,stan1290,http://concepticon.clld.org/parameters/1521,sembler,seem
+171-75,stan1290,http://concepticon.clld.org/parameters/1609,idée,"idea, notion"
+171-190,stan1290,http://concepticon.clld.org/parameters/698,sage,wise
+171-536,stan1290,http://concepticon.clld.org/parameters/698,savant,wise
+171-207,stan1290,http://concepticon.clld.org/parameters/698,érudit,wise
+171-791,stan1290,http://concepticon.clld.org/parameters/1518,bête,"foolish, stupid"
+171-609,stan1290,http://concepticon.clld.org/parameters/1518,stupide,"foolish, stupid"
+171-306,stan1290,http://concepticon.clld.org/parameters/1899,fou,"insane, crazy"
+171-603,stan1290,http://concepticon.clld.org/parameters/1899,insensé,"insane, crazy"
+171-741,stan1290,http://concepticon.clld.org/parameters/1899,idiot,"insane, crazy"
+171-1174,stan1290,http://concepticon.clld.org/parameters/504,apprendre,learn
+171-915,stan1290,http://concepticon.clld.org/parameters/1929,étudier,study
+171-742,stan1290,http://concepticon.clld.org/parameters/709,enseigner,teach
+171-373,stan1290,http://concepticon.clld.org/parameters/753,élève,pupil
+171-930,stan1290,http://concepticon.clld.org/parameters/1038,professeur,teacher
+171-1247,stan1290,http://concepticon.clld.org/parameters/673,école,school
+171-661,stan1290,http://concepticon.clld.org/parameters/707,se souvenir,remember
+171-744,stan1290,http://concepticon.clld.org/parameters/1523,oublier,forget
+171-93,stan1290,http://concepticon.clld.org/parameters/989,évident,"clear, plain"
+171-1015,stan1290,http://concepticon.clld.org/parameters/989,simple,"clear, plain"
+171-453,stan1290,http://concepticon.clld.org/parameters/989,clair,"clear, plain"
+171-1072,stan1290,http://concepticon.clld.org/parameters/1764,obscur,obscure
+171-1023,stan1290,http://concepticon.clld.org/parameters/1121,secret,secret
+171-1183,stan1290,http://concepticon.clld.org/parameters/509,sûr,"sure, certain"
+171-735,stan1290,http://concepticon.clld.org/parameters/509,certain,"sure, certain"
+171-1273,stan1290,http://concepticon.clld.org/parameters/1626,expliquer,explain
+171-1507,stan1290,http://concepticon.clld.org/parameters/1162,but,"intention, purpose"
+171-35,stan1290,http://concepticon.clld.org/parameters/860,causer,cause
+171-1104,stan1290,http://concepticon.clld.org/parameters/860,provoquer,cause
+171-1525,stan1290,http://concepticon.clld.org/parameters/1308,douter,doubt
+171-780,stan1290,http://concepticon.clld.org/parameters/1841,soupçonner,suspect
+171-1272,stan1290,http://concepticon.clld.org/parameters/1902,trahir,betray
+171-615,stan1290,http://concepticon.clld.org/parameters/643,besoin,"need, necessity"
+171-693,stan1290,http://concepticon.clld.org/parameters/643,nécessité,"need, necessity"
+171-468,stan1290,http://concepticon.clld.org/parameters/686,facile,easy
+171-1077,stan1290,http://concepticon.clld.org/parameters/584,difficile,difficult
+171-1136,stan1290,http://concepticon.clld.org/parameters/1812,essayer,"try, attempt"
+171-1404,stan1290,http://concepticon.clld.org/parameters/1812,tenter,"try, attempt"
+171-737,stan1290,http://concepticon.clld.org/parameters/488,façon,"way, manner"
+171-655,stan1290,http://concepticon.clld.org/parameters/488,manière,"way, manner"
+171-494,stan1290,http://concepticon.clld.org/parameters/1577,et,and
+171-248,stan1290,http://concepticon.clld.org/parameters/1157,parce que,because
+171-471,stan1290,http://concepticon.clld.org/parameters/1459,si,if
+171-704,stan1290,http://concepticon.clld.org/parameters/1014,ou,or
+171-1270,stan1290,http://concepticon.clld.org/parameters/1268,oui,"yes, affirmative"
+171-427,stan1290,http://concepticon.clld.org/parameters/1268,affirmatif,"yes, affirmative"
+171-489,stan1290,http://concepticon.clld.org/parameters/1269,non,"no, negative"
+171-695,stan1290,http://concepticon.clld.org/parameters/1269,négatif,"no, negative"
+171-317,stan1290,http://concepticon.clld.org/parameters/1239,comment?,how?
+171-288,stan1290,http://concepticon.clld.org/parameters/822,combien?,how many?
+171-288,stan1290,http://concepticon.clld.org/parameters/531,combien?,how much?
+171-786,stan1290,http://concepticon.clld.org/parameters/1236,quoi?,what?
+171-1302,stan1290,http://concepticon.clld.org/parameters/1238,quand?,when?
+171-1238,stan1290,http://concepticon.clld.org/parameters/1237,oú?,where?
+171-956,stan1290,http://concepticon.clld.org/parameters/727,quel? lequel?,which?
+171-1432,stan1290,http://concepticon.clld.org/parameters/1235,qui?,who?
+171-657,stan1290,http://concepticon.clld.org/parameters/1270,pourquoi?,why?
+171-13,stan1290,http://concepticon.clld.org/parameters/1363,voix,voice
+171-158,stan1290,http://concepticon.clld.org/parameters/1261,chanter,sing
+171-1448,stan1290,http://concepticon.clld.org/parameters/715,crier,"shout, cry out"
+171-523,stan1290,http://concepticon.clld.org/parameters/715,écrier,"shout, cry out"
+171-1498,stan1290,http://concepticon.clld.org/parameters/55,chuchoter,whisper
+171-1047,stan1290,http://concepticon.clld.org/parameters/128,marmonner,mumble
+171-752,stan1290,http://concepticon.clld.org/parameters/128,bredouiller,mumble
+171-1164,stan1290,http://concepticon.clld.org/parameters/1025,siffler,whistle
+171-557,stan1290,http://concepticon.clld.org/parameters/298,hurler,"shriek, screech"
+171-1110,stan1290,http://concepticon.clld.org/parameters/526,ululer,howl
+171-240,stan1290,http://concepticon.clld.org/parameters/1623,parler,"speak, talk"
+171-779,stan1290,http://concepticon.clld.org/parameters/1866,bégayer,"stutter, stammer"
+171-1246,stan1290,http://concepticon.clld.org/parameters/1866,balbutier,"stutter, stammer"
+171-904,stan1290,http://concepticon.clld.org/parameters/1458,dire,say
+171-999,stan1290,http://concepticon.clld.org/parameters/1711,raconter,tell story
+171-1228,stan1290,http://concepticon.clld.org/parameters/1711,narrer,tell story
+171-278,stan1290,http://concepticon.clld.org/parameters/1115,discours (faire une),speech (make a)
+171-1209,stan1290,http://concepticon.clld.org/parameters/48,(rester) silencieux,silent (be)
+171-125,stan1290,http://concepticon.clld.org/parameters/1307,langue,language
+171-335,stan1290,http://concepticon.clld.org/parameters/1307,langage,language
+171-678,stan1290,http://concepticon.clld.org/parameters/1599,mot,word
+171-1545,stan1290,http://concepticon.clld.org/parameters/1599,parole,word
+171-1436,stan1290,http://concepticon.clld.org/parameters/1405,nom,name
+171-221,stan1290,http://concepticon.clld.org/parameters/1309,poser une question,"ask (question, inquire)"
+171-231,stan1290,http://concepticon.clld.org/parameters/1309,demander,"ask (question, inquire)"
+171-109,stan1290,http://concepticon.clld.org/parameters/1275,répondre,answer
+171-1516,stan1290,http://concepticon.clld.org/parameters/2022,admettre,"admit, confess"
+171-203,stan1290,http://concepticon.clld.org/parameters/2022,avouer,"admit, confess"
+171-1357,stan1290,http://concepticon.clld.org/parameters/755,nier,deny
+171-231,stan1290,http://concepticon.clld.org/parameters/1828,demander,"ask, request"
+171-1506,stan1290,http://concepticon.clld.org/parameters/1675,promettre,promise
+171-1109,stan1290,http://concepticon.clld.org/parameters/49,refuser,refuse
+171-433,stan1290,http://concepticon.clld.org/parameters/83,interdire,forbid
+171-57,stan1290,http://concepticon.clld.org/parameters/299,réprimander,"rebuke, scold"
+171-428,stan1290,http://concepticon.clld.org/parameters/299,gronder,"rebuke, scold"
+171-517,stan1290,http://concepticon.clld.org/parameters/299,blâmer,"rebuke, scold"
+171-49,stan1290,http://concepticon.clld.org/parameters/1084,appeler,call (=summon)
+171-673,stan1290,http://concepticon.clld.org/parameters/1084,héler,call (=summon)
+171-1159,stan1290,http://concepticon.clld.org/parameters/180,s'appeler,call (=name)
+171-1261,stan1290,http://concepticon.clld.org/parameters/9,annoncer,announce
+171-1410,stan1290,http://concepticon.clld.org/parameters/9,proclamer,announce
+171-59,stan1290,http://concepticon.clld.org/parameters/1192,menacer,threaten
+171-1309,stan1290,http://concepticon.clld.org/parameters/101,se vanter,boast
+171-426,stan1290,http://concepticon.clld.org/parameters/1672,écrire,write
+171-873,stan1290,http://concepticon.clld.org/parameters/724,lire,read
+171-1022,stan1290,http://concepticon.clld.org/parameters/648,papier,paper
+171-573,stan1290,http://concepticon.clld.org/parameters/794,plume,pen
+171-262,stan1290,http://concepticon.clld.org/parameters/963,livre,book
+171-1217,stan1290,http://concepticon.clld.org/parameters/1045,poète,poet
+171-1266,stan1290,http://concepticon.clld.org/parameters/777,flûte,flute
+171-1184,stan1290,http://concepticon.clld.org/parameters/908,tambour,drum
+171-227,stan1290,http://concepticon.clld.org/parameters/2136,cor,"horn, trumpet"
+171-1332,stan1290,http://concepticon.clld.org/parameters/2136,trompette,"horn, trumpet"
+171-1280,stan1290,http://concepticon.clld.org/parameters/300,hochet,rattle
+171-325,stan1290,http://concepticon.clld.org/parameters/1300,pays,country
+171-1450,stan1290,http://concepticon.clld.org/parameters/89,patrie,one's native country
+171-140,stan1290,http://concepticon.clld.org/parameters/1391,cité,"city, town"
+171-912,stan1290,http://concepticon.clld.org/parameters/1391,ville,"city, town"
+171-1019,stan1290,http://concepticon.clld.org/parameters/930,village,village
+171-1321,stan1290,http://concepticon.clld.org/parameters/1010,frontière,boundary
+171-1411,stan1290,http://concepticon.clld.org/parameters/1010,limite,boundary
+171-1197,stan1290,http://concepticon.clld.org/parameters/789,gens,people (populace)
+171-712,stan1290,http://concepticon.clld.org/parameters/302,tribu,"tribe, clan"
+171-682,stan1290,http://concepticon.clld.org/parameters/302,clan,"tribe, clan"
+171-25,stan1290,http://concepticon.clld.org/parameters/301,chef,"chief, chieftain"
+171-304,stan1290,http://concepticon.clld.org/parameters/1296,canne,"staff, walking stick"
+171-1313,stan1290,http://concepticon.clld.org/parameters/1846,régner,"rule, govern"
+171-290,stan1290,http://concepticon.clld.org/parameters/1846,gouverner,"rule, govern"
+171-763,stan1290,http://concepticon.clld.org/parameters/1508,roi,"king, ruler"
+171-790,stan1290,http://concepticon.clld.org/parameters/1306,reine,queen
+171-888,stan1290,http://concepticon.clld.org/parameters/482,noble,"noble, nobleman"
+171-1116,stan1290,http://concepticon.clld.org/parameters/1032,citoyen,"citizen, subject"
+171-369,stan1290,http://concepticon.clld.org/parameters/1032,sujet,"citizen, subject"
+171-1005,stan1290,http://concepticon.clld.org/parameters/383,maître,master
+171-1485,stan1290,http://concepticon.clld.org/parameters/812,esclave,slave
+171-1473,stan1290,http://concepticon.clld.org/parameters/255,domestique,servant
+171-1230,stan1290,http://concepticon.clld.org/parameters/255,serviteur,servant
+171-1091,stan1290,http://concepticon.clld.org/parameters/384,homme libre,freeman
+171-641,stan1290,http://concepticon.clld.org/parameters/1128,commander,"command, order"
+171-1118,stan1290,http://concepticon.clld.org/parameters/1128,ordonner,"command, order"
+171-757,stan1290,http://concepticon.clld.org/parameters/1635,obéir,obey
+171-1297,stan1290,http://concepticon.clld.org/parameters/1003,permettre,"let, permit"
+171-675,stan1290,http://concepticon.clld.org/parameters/1325,ami,"friend, companion"
+171-1376,stan1290,http://concepticon.clld.org/parameters/1325,compagnon,"friend, companion"
+171-1156,stan1290,http://concepticon.clld.org/parameters/1358,ennemi,enemy
+171-351,stan1290,http://concepticon.clld.org/parameters/1332,voisin,neighbor
+171-1351,stan1290,http://concepticon.clld.org/parameters/791,étranger,stranger
+171-1519,stan1290,http://concepticon.clld.org/parameters/1782,invité,guest
+171-910,stan1290,http://concepticon.clld.org/parameters/1545,hôte,host
+171-3,stan1290,http://concepticon.clld.org/parameters/1897,aider,"help, aid"
+171-293,stan1290,http://concepticon.clld.org/parameters/1550,empêcher,"hinder, prevent"
+171-225,stan1290,http://concepticon.clld.org/parameters/1747,coutume,custom
+171-1347,stan1290,http://concepticon.clld.org/parameters/1848,lutte,"strife, quarrel"
+171-1449,stan1290,http://concepticon.clld.org/parameters/1848,querelle,"strife, quarrel"
+171-1082,stan1290,http://concepticon.clld.org/parameters/2024,conspiration,"conspiracy, plot"
+171-1360,stan1290,http://concepticon.clld.org/parameters/2024,complot,"conspiracy, plot"
+171-1265,stan1290,http://concepticon.clld.org/parameters/1831,rencontrer,meet
+171-1396,stan1290,http://concepticon.clld.org/parameters/1610,prostituée,prostitute
+171-418,stan1290,http://concepticon.clld.org/parameters/1423,se battre,fight (vb)
+171-214,stan1290,http://concepticon.clld.org/parameters/579,guerre,"war, battle"
+171-1067,stan1290,http://concepticon.clld.org/parameters/579,bataille,"war, battle"
+171-555,stan1290,http://concepticon.clld.org/parameters/1338,paix,peace
+171-667,stan1290,http://concepticon.clld.org/parameters/1561,armée,army
+171-54,stan1290,http://concepticon.clld.org/parameters/1941,soldat,soldier
+171-816,stan1290,http://concepticon.clld.org/parameters/951,armes,"weapons, arms"
+171-1225,stan1290,http://concepticon.clld.org/parameters/1763,casse-tête,club
+171-934,stan1290,http://concepticon.clld.org/parameters/386,hache de guerre,battle-ax
+171-1372,stan1290,http://concepticon.clld.org/parameters/387,fronde,sling
+171-993,stan1290,http://concepticon.clld.org/parameters/994,arc,bow
+171-691,stan1290,http://concepticon.clld.org/parameters/977,flèche,arrow
+171-178,stan1290,http://concepticon.clld.org/parameters/945,épieu,spear
+171-1532,stan1290,http://concepticon.clld.org/parameters/945,lance,spear
+171-818,stan1290,http://concepticon.clld.org/parameters/1535,épée,sword
+171-1458,stan1290,http://concepticon.clld.org/parameters/1566,fusil,"gun, cannon"
+171-640,stan1290,http://concepticon.clld.org/parameters/1566,canon,"gun, cannon"
+171-671,stan1290,http://concepticon.clld.org/parameters/1061,armure,armor (defensive)
+171-1533,stan1290,http://concepticon.clld.org/parameters/1680,casque,helmet
+171-74,stan1290,http://concepticon.clld.org/parameters/1064,bouclier,shield
+171-1017,stan1290,http://concepticon.clld.org/parameters/1938,château-fort,fortress
+171-271,stan1290,http://concepticon.clld.org/parameters/1938,forteresse,fortress
+171-605,stan1290,http://concepticon.clld.org/parameters/1671,tour,tower
+171-772,stan1290,http://concepticon.clld.org/parameters/783,victoire,victory
+171-1329,stan1290,http://concepticon.clld.org/parameters/782,défaite,defeat
+171-259,stan1290,http://concepticon.clld.org/parameters/782,déroute,defeat
+171-1406,stan1290,http://concepticon.clld.org/parameters/722,attaquer,attack
+171-1143,stan1290,http://concepticon.clld.org/parameters/1330,défendre,defend
+171-1113,stan1290,http://concepticon.clld.org/parameters/421,fuir,retreat
+171-1210,stan1290,http://concepticon.clld.org/parameters/421,battre en retraite,retreat
+171-796,stan1290,http://concepticon.clld.org/parameters/1696,céder,surrender
+171-563,stan1290,http://concepticon.clld.org/parameters/1696,se rendre,surrender
+171-1322,stan1290,http://concepticon.clld.org/parameters/1072,prisonnier,"captive, prisoner"
+171-1045,stan1290,http://concepticon.clld.org/parameters/1072,captit,"captive, prisoner"
+171-597,stan1290,http://concepticon.clld.org/parameters/1940,garde,"guard, sentinel"
+171-843,stan1290,http://concepticon.clld.org/parameters/1940,sentinelle,"guard, sentinel"
+171-275,stan1290,http://concepticon.clld.org/parameters/1022,butin,"booty, spoils"
+171-1013,stan1290,http://concepticon.clld.org/parameters/1022,dépouilles,"booty, spoils"
+171-506,stan1290,http://concepticon.clld.org/parameters/65,guet-apens,ambush
+171-974,stan1290,http://concepticon.clld.org/parameters/65,embuscade,ambush
+171-1403,stan1290,http://concepticon.clld.org/parameters/1858,pêcheur,fisherman
+171-1462,stan1290,http://concepticon.clld.org/parameters/1074,hameçon,fishhook
+171-549,stan1290,http://concepticon.clld.org/parameters/19,ligne,fishing line
+171-364,stan1290,http://concepticon.clld.org/parameters/388,filet de pêche,fishnet
+171-492,stan1290,http://concepticon.clld.org/parameters/389,nasse,fish trap
+171-607,stan1290,http://concepticon.clld.org/parameters/2013,appât,bait
+171-273,stan1290,http://concepticon.clld.org/parameters/1435,chasser,hunt
+171-161,stan1290,http://concepticon.clld.org/parameters/1172,tirer,shoot
+171-1395,stan1290,http://concepticon.clld.org/parameters/1172,fusiller,shoot
+171-151,stan1290,http://concepticon.clld.org/parameters/161,rater,miss (target)
+171-285,stan1290,http://concepticon.clld.org/parameters/161,manquer,miss (target)
+171-1218,stan1290,http://concepticon.clld.org/parameters/1075,piège,trap (noun)
+171-126,stan1290,http://concepticon.clld.org/parameters/1170,prendre au piège,trap (vb)
+171-718,stan1290,http://concepticon.clld.org/parameters/1062,loi,law
+171-933,stan1290,http://concepticon.clld.org/parameters/1062,droit,law
+171-1070,stan1290,http://concepticon.clld.org/parameters/1068,cour,court
+171-1415,stan1290,http://concepticon.clld.org/parameters/1818,juger,judge (vb)
+171-459,stan1290,http://concepticon.clld.org/parameters/1067,jugement,judgment
+171-150,stan1290,http://concepticon.clld.org/parameters/861,juge,judge (noun)
+171-136,stan1290,http://concepticon.clld.org/parameters/2020,plaignant,plaintiff
+171-1543,stan1290,http://concepticon.clld.org/parameters/1034,accusé,defendant
+171-1514,stan1290,http://concepticon.clld.org/parameters/1144,témoin,witness
+171-467,stan1290,http://concepticon.clld.org/parameters/1939,jurer,swear
+171-1341,stan1290,http://concepticon.clld.org/parameters/1712,serment,oath
+171-1388,stan1290,http://concepticon.clld.org/parameters/1814,accuser,accuse
+171-991,stan1290,http://concepticon.clld.org/parameters/484,condamner,condemn
+171-1486,stan1290,http://concepticon.clld.org/parameters/983,inculper,convict (vb)
+171-1318,stan1290,http://concepticon.clld.org/parameters/988,acquitter,acquit
+171-67,stan1290,http://concepticon.clld.org/parameters/1682,coupable,guilty
+171-286,stan1290,http://concepticon.clld.org/parameters/90,innocent,innocent
+171-1489,stan1290,http://concepticon.clld.org/parameters/390,punition,"penalty, punishment"
+171-1445,stan1290,http://concepticon.clld.org/parameters/218,amende,fine
+171-287,stan1290,http://concepticon.clld.org/parameters/1281,prison,"prison, jail"
+171-1476,stan1290,http://concepticon.clld.org/parameters/845,meurtre,murder
+171-1258,stan1290,http://concepticon.clld.org/parameters/902,adultère,adultery
+171-897,stan1290,http://concepticon.clld.org/parameters/953,viol,rape
+171-1537,stan1290,http://concepticon.clld.org/parameters/1889,incendie volontaire,arson
+171-261,stan1290,http://concepticon.clld.org/parameters/1792,parjure,perjury
+171-984,stan1290,http://concepticon.clld.org/parameters/713,voler,steal
+171-751,stan1290,http://concepticon.clld.org/parameters/713,dérober,steal
+171-656,stan1290,http://concepticon.clld.org/parameters/1160,voleur,thief
+171-1101,stan1290,http://concepticon.clld.org/parameters/661,religion,religion
+171-434,stan1290,http://concepticon.clld.org/parameters/1944,Dieu,God
+171-1102,stan1290,http://concepticon.clld.org/parameters/911,temple,"temple, church"
+171-424,stan1290,http://concepticon.clld.org/parameters/911,église,"temple, church"
+171-95,stan1290,http://concepticon.clld.org/parameters/853,autel,altar
+171-462,stan1290,http://concepticon.clld.org/parameters/1103,sacrifice,"sacrifice, offering"
+171-514,stan1290,http://concepticon.clld.org/parameters/1103,offrande,"sacrifice, offering"
+171-46,stan1290,http://concepticon.clld.org/parameters/257,vénérer,worship
+171-1009,stan1290,http://concepticon.clld.org/parameters/257,adorer,worship
+171-1467,stan1290,http://concepticon.clld.org/parameters/24,prier,pray
+171-1232,stan1290,http://concepticon.clld.org/parameters/852,prêtre,priest
+171-1223,stan1290,http://concepticon.clld.org/parameters/852,curé,priest
+171-902,stan1290,http://concepticon.clld.org/parameters/1702,sacré,"holy, sacred"
+171-919,stan1290,http://concepticon.clld.org/parameters/1702,saint,"holy, sacred"
+171-1295,stan1290,http://concepticon.clld.org/parameters/304,prêcher,preach
+171-101,stan1290,http://concepticon.clld.org/parameters/391,bénir,bless
+171-201,stan1290,http://concepticon.clld.org/parameters/8,maudire,curse
+171-1100,stan1290,http://concepticon.clld.org/parameters/303,jeûner,fast (vb)
+171-425,stan1290,http://concepticon.clld.org/parameters/1565,ciel,heaven
+171-1052,stan1290,http://concepticon.clld.org/parameters/1565,cieux,heaven
+171-716,stan1290,http://concepticon.clld.org/parameters/878,enfer,hell
+171-1531,stan1290,http://concepticon.clld.org/parameters/1973,démon,demon (evil spirit)
+171-753,stan1290,http://concepticon.clld.org/parameters/1973,diable,demon (evil spirit)
+171-877,stan1290,http://concepticon.clld.org/parameters/1945,idole,idol
+171-876,stan1290,http://concepticon.clld.org/parameters/392,magie,"magic, witchcraft, sorcery"
+171-320,stan1290,http://concepticon.clld.org/parameters/392,sorcellerie,"magic, witchcraft, sorcery"
+171-326,stan1290,http://concepticon.clld.org/parameters/2137,sorcier,"sorcerer, witch"
+171-955,stan1290,http://concepticon.clld.org/parameters/2137,sorcière,"sorcerer, witch"
+171-665,stan1290,http://concepticon.clld.org/parameters/2138,fée,"fairy, elf"
+171-626,stan1290,http://concepticon.clld.org/parameters/1175,fantôme,"ghost, phantom"
+171-670,stan1290,http://concepticon.clld.org/parameters/1175,esprit,"ghost, phantom"
+171-68,stan1290,http://concepticon.clld.org/parameters/1175,revenant,"ghost, phantom"
+171-1029,stan1290,http://concepticon.clld.org/parameters/107,présage,"omen, portent"
+171-479,stan1290,http://concepticon.clld.org/parameters/107,augure,"omen, portent"

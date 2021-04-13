@@ -1,0 +1,603 @@
+ID,Language_ID,Feature_ID,Value,Concept
+209-396,tokh1242,http://concepticon.clld.org/parameters/965,ārkiśoṣi,world
+209-90,tokh1242,http://concepticon.clld.org/parameters/626,tkaṃ,"earth, land"
+209-90,tokh1242,http://concepticon.clld.org/parameters/1228,tkaṃ,"earth=ground, soil"
+209-82,tokh1242,http://concepticon.clld.org/parameters/2,twe,dust
+209-206,tokh1242,http://concepticon.clld.org/parameters/2,tor,dust
+209-84,tokh1242,http://concepticon.clld.org/parameters/640,lyom (?),mud
+209-21,tokh1242,http://concepticon.clld.org/parameters/671,wāryāɲc,sand
+209-350,tokh1242,http://concepticon.clld.org/parameters/2118,ṣul,"mountain, hill"
+209-204,tokh1242,http://concepticon.clld.org/parameters/622,prank,island
+209-178,tokh1242,http://concepticon.clld.org/parameters/622,[dvip],island
+209-243,tokh1242,http://concepticon.clld.org/parameters/166,śoṃ,mainland
+209-156,tokh1242,http://concepticon.clld.org/parameters/948,wär,water
+209-421,tokh1242,http://concepticon.clld.org/parameters/948,wräntu,water
+209-15,tokh1242,http://concepticon.clld.org/parameters/1474,lyäm,sea
+209-146,tokh1242,http://concepticon.clld.org/parameters/645,[sāmudtär],ocean
+209-249,tokh1242,http://concepticon.clld.org/parameters/1145,kärtkāl,swamp
+209-181,tokh1242,http://concepticon.clld.org/parameters/420,kārāś,"woods, forest"
+209-83,tokh1242,http://concepticon.clld.org/parameters/906,ṣtām,tree (cf 08.600)
+209-128,tokh1242,http://concepticon.clld.org/parameters/1803,or,wood
+209-109,tokh1242,http://concepticon.clld.org/parameters/2125,pāreṃ,"stone, rock"
+209-509,tokh1242,http://concepticon.clld.org/parameters/1732,eprer-,sky
+209-138,tokh1242,http://concepticon.clld.org/parameters/1343,koṃ,sun
+209-252,tokh1242,http://concepticon.clld.org/parameters/1313,maɲ,moon
+209-266,tokh1242,http://concepticon.clld.org/parameters/1430,śre-,star
+209-142,tokh1242,http://concepticon.clld.org/parameters/1654,polkāṃts,lightning
+209-285,tokh1242,http://concepticon.clld.org/parameters/2007,[vājär],lightning (as striking)
+209-89,tokh1242,http://concepticon.clld.org/parameters/630,lkäś,light (noun)
+209-428,tokh1242,http://concepticon.clld.org/parameters/11,orkäm,darkness
+209-509,tokh1242,http://concepticon.clld.org/parameters/27,eprer-,air
+209-106,tokh1242,http://concepticon.clld.org/parameters/960,want,wind
+209-467,tokh1242,http://concepticon.clld.org/parameters/1489,tärkär,cloud
+209-101,tokh1242,http://concepticon.clld.org/parameters/658,swase,rain (noun)
+209-331,tokh1242,http://concepticon.clld.org/parameters/221,por,fire
+209-235,tokh1242,http://concepticon.clld.org/parameters/889,slam,flame (noun)
+209-82,tokh1242,http://concepticon.clld.org/parameters/646,twe,ashes
+209-206,tokh1242,http://concepticon.clld.org/parameters/646,tor,ashes
+209-135,tokh1242,http://concepticon.clld.org/parameters/141,tsäk-,burn (vb trans)
+209-404,tokh1242,http://concepticon.clld.org/parameters/1428,sälp-,burn (vb intrans)
+209-302,tokh1242,http://concepticon.clld.org/parameters/737,tu-,"light, kindle, ignite"
+209-218,tokh1242,http://concepticon.clld.org/parameters/127,käs-,extinguish
+209-465,tokh1242,http://concepticon.clld.org/parameters/683,napeṃ,"person, human being"
+209-195,tokh1242,http://concepticon.clld.org/parameters/1554,onk,man (vs. woman)
+209-495,tokh1242,http://concepticon.clld.org/parameters/962,śäṃ,woman
+209-426,tokh1242,http://concepticon.clld.org/parameters/962,kùli,woman
+209-316,tokh1242,http://concepticon.clld.org/parameters/2263,oɲi,male
+209-62,tokh1242,http://concepticon.clld.org/parameters/1366,śom,boy
+209-77,tokh1242,http://concepticon.clld.org/parameters/76,wir,young man (adolescent)
+209-399,tokh1242,http://concepticon.clld.org/parameters/1646,śomiṃ,girl
+209-62,tokh1242,http://concepticon.clld.org/parameters/1304,śom,child
+209-495,tokh1242,http://concepticon.clld.org/parameters/1199,śäṃ,wife
+209-199,tokh1242,http://concepticon.clld.org/parameters/1217,pācar,father
+209-282,tokh1242,http://concepticon.clld.org/parameters/1216,mācar,mother
+209-132,tokh1242,http://concepticon.clld.org/parameters/1620,se,son
+209-450,tokh1242,http://concepticon.clld.org/parameters/1620,sewās,son
+209-81,tokh1242,http://concepticon.clld.org/parameters/1357,ckācar,daughter
+209-510,tokh1242,http://concepticon.clld.org/parameters/1262,pracar,brother
+209-155,tokh1242,http://concepticon.clld.org/parameters/1263,ṣar,sister
+209-269,tokh1242,http://concepticon.clld.org/parameters/1669,āp,ancestors
+209-256,tokh1242,http://concepticon.clld.org/parameters/1644,ṣɲaṣṣeɲ,"relatives, kinsmen"
+209-358,tokh1242,http://concepticon.clld.org/parameters/194,[kotär],family
+209-108,tokh1242,http://concepticon.clld.org/parameters/1209,näṣ,I
+209-309,tokh1242,http://concepticon.clld.org/parameters/1209,ɲuk,I
+209-11,tokh1242,http://concepticon.clld.org/parameters/1215,tu,you (singular)
+209-466,tokh1242,http://concepticon.clld.org/parameters/1212,was,we
+209-344,tokh1242,http://concepticon.clld.org/parameters/1213,yas,you (plural)
+209-348,tokh1242,http://concepticon.clld.org/parameters/619,lu,animal
+209-316,tokh1242,http://concepticon.clld.org/parameters/2261,oɲi,male (adj)
+209-175,tokh1242,http://concepticon.clld.org/parameters/2262,kùleɲci,female (adj)
+209-329,tokh1242,http://concepticon.clld.org/parameters/649,wäsri,pasture
+209-28,tokh1242,http://concepticon.clld.org/parameters/1008,kayurṣ,bull
+209-261,tokh1242,http://concepticon.clld.org/parameters/1007,ko,cow
+209-315,tokh1242,http://concepticon.clld.org/parameters/1331,śoś,sheep
+209-71,tokh1242,http://concepticon.clld.org/parameters/1345,āù,ewe
+209-191,tokh1242,http://concepticon.clld.org/parameters/615,yuk,horse (equine)
+209-381,tokh1242,http://concepticon.clld.org/parameters/913,sukrāṃ,crow
+209-262,tokh1242,http://concepticon.clld.org/parameters/2009,ku,dog
+209-103,tokh1242,http://concepticon.clld.org/parameters/1386,śiśäk,lion
+209-491,tokh1242,http://concepticon.clld.org/parameters/1290,onkaläm,elephant
+209-133,tokh1242,http://concepticon.clld.org/parameters/665,kroṅśe,bee
+209-458,tokh1242,http://concepticon.clld.org/parameters/1219,walyī,worm
+209-457,tokh1242,http://concepticon.clld.org/parameters/730,ārṣal,snake
+209-288,tokh1242,http://concepticon.clld.org/parameters/1480,kapśaɲi,body
+209-366,tokh1242,http://concepticon.clld.org/parameters/763,yats,"skin, hide"
+209-78,tokh1242,http://concepticon.clld.org/parameters/2259,śwāl,flesh
+209-112,tokh1242,http://concepticon.clld.org/parameters/1040,śāku,hair (head)
+209-490,tokh1242,http://concepticon.clld.org/parameters/189,yok,body hair
+209-280,tokh1242,http://concepticon.clld.org/parameters/946,ysār,blood
+209-400,tokh1242,http://concepticon.clld.org/parameters/1394,āy,bone
+209-377,tokh1242,http://concepticon.clld.org/parameters/1394,āyäntu,bone
+209-402,tokh1242,http://concepticon.clld.org/parameters/1393,kror,horn
+209-454,tokh1242,http://concepticon.clld.org/parameters/805,särśi,spine
+209-45,tokh1242,http://concepticon.clld.org/parameters/1256,mrāc,head
+209-123,tokh1242,http://concepticon.clld.org/parameters/1256,lap,head
+209-94,tokh1242,http://concepticon.clld.org/parameters/1560,ak-mal,face
+209-472,tokh1242,http://concepticon.clld.org/parameters/123,ānt,forehead
+209-125,tokh1242,http://concepticon.clld.org/parameters/798,śanweṃ,jaw
+209-483,tokh1242,http://concepticon.clld.org/parameters/1248,ak,eye
+209-88,tokh1242,http://concepticon.clld.org/parameters/1173,pärwāṃ,eyebrow
+209-100,tokh1242,http://concepticon.clld.org/parameters/1247,klots,ear
+209-124,tokh1242,http://concepticon.clld.org/parameters/1221,mal,nose
+209-261,tokh1242,http://concepticon.clld.org/parameters/674,ko,mouth
+209-304,tokh1242,http://concepticon.clld.org/parameters/478,lymeṃ,lip
+209-418,tokh1242,http://concepticon.clld.org/parameters/1205,käntu,tongue
+209-254,tokh1242,http://concepticon.clld.org/parameters/1380,kam,tooth
+209-376,tokh1242,http://concepticon.clld.org/parameters/1333,kɲuk,neck
+209-423,tokh1242,http://concepticon.clld.org/parameters/1346,ṣunk,throat
+209-493,tokh1242,http://concepticon.clld.org/parameters/1482,es,shoulder
+209-48,tokh1242,http://concepticon.clld.org/parameters/1673,poke,arm
+209-242,tokh1242,http://concepticon.clld.org/parameters/1277,tsar,hand
+209-186,tokh1242,http://concepticon.clld.org/parameters/1183,āle,palm of hand
+209-148,tokh1242,http://concepticon.clld.org/parameters/1303,prār,finger
+209-379,tokh1242,http://concepticon.clld.org/parameters/1258,maku,fingernail
+209-121,tokh1242,http://concepticon.clld.org/parameters/1371,kanweṃ,knee
+209-468,tokh1242,http://concepticon.clld.org/parameters/1301,pe,foot
+209-38,tokh1242,http://concepticon.clld.org/parameters/318,ṣik,footprint
+209-8,tokh1242,http://concepticon.clld.org/parameters/1592,pratsak,chest
+209-474,tokh1242,http://concepticon.clld.org/parameters/1402,päśśäṃ,breast (of woman)
+209-16,tokh1242,http://concepticon.clld.org/parameters/1223,āriɲc,heart
+209-382,tokh1242,http://concepticon.clld.org/parameters/819,kāts,stomach
+209-31,tokh1242,http://concepticon.clld.org/parameters/1407,wraseṃ,"breathe, breath"
+209-435,tokh1242,http://concepticon.clld.org/parameters/1028,śew-,"yawn, gape"
+209-215,tokh1242,http://concepticon.clld.org/parameters/1585,klis-,sleep
+209-442,tokh1242,http://concepticon.clld.org/parameters/1585,ṣpäṇ,sleep
+209-153,tokh1242,http://concepticon.clld.org/parameters/1602,wār-,wake up
+209-26,tokh1242,http://concepticon.clld.org/parameters/1152,täm-,beget (of father)
+209-26,tokh1242,http://concepticon.clld.org/parameters/1090,täm-,born (to be)
+209-240,tokh1242,http://concepticon.clld.org/parameters/1422,śo-,"live, living, life"
+209-63,tokh1242,http://concepticon.clld.org/parameters/1422,śol,"live, living, life"
+209-58,tokh1242,http://concepticon.clld.org/parameters/1494,wäl-,"die, dead"
+209-334,tokh1242,http://concepticon.clld.org/parameters/1494,walu,"die, dead"
+209-225,tokh1242,http://concepticon.clld.org/parameters/1417,ko-,kill
+209-97,tokh1242,http://concepticon.clld.org/parameters/785,tampe,"strong, mighty, powerful"
+209-449,tokh1242,http://concepticon.clld.org/parameters/1601,ylār,weak
+209-401,tokh1242,http://concepticon.clld.org/parameters/1847,ekro,"sick, sickness"
+209-87,tokh1242,http://concepticon.clld.org/parameters/1109,päl,"wound, sore"
+209-86,tokh1242,http://concepticon.clld.org/parameters/1808,saku,pus
+209-434,tokh1242,http://concepticon.clld.org/parameters/597,sāṃtkenu,physician
+209-281,tokh1242,http://concepticon.clld.org/parameters/1372,[sāṃtäk],"medicine, drug"
+209-380,tokh1242,http://concepticon.clld.org/parameters/655,wäs,poison
+209-239,tokh1242,http://concepticon.clld.org/parameters/168,āɲu,rest
+209-160,tokh1242,http://concepticon.clld.org/parameters/1653,trak,blind
+209-144,tokh1242,http://concepticon.clld.org/parameters/1336,śu- ~ śuwā-,eat
+209-223,tokh1242,http://concepticon.clld.org/parameters/256,śwātsi,food
+209-324,tokh1242,http://concepticon.clld.org/parameters/269,pakku,cooked
+209-430,tokh1242,http://concepticon.clld.org/parameters/1401,yok-,drink
+209-115,tokh1242,http://concepticon.clld.org/parameters/1533,kaṣt,hunger
+209-438,tokh1242,http://concepticon.clld.org/parameters/848,yoke,thirst
+209-342,tokh1242,http://concepticon.clld.org/parameters/1100,päk-,cook
+209-213,tokh1242,http://concepticon.clld.org/parameters/792,särk-,boil (vb)
+209-498,tokh1242,http://concepticon.clld.org/parameters/1462,[kunti],"pot, cooking vessel"
+209-367,tokh1242,http://concepticon.clld.org/parameters/1530,[pātär],bowl
+209-498,tokh1242,http://concepticon.clld.org/parameters/270,[kunti],"pitcher, jug"
+209-161,tokh1242,http://concepticon.clld.org/parameters/2017,triw-,"stir, mix"
+209-229,tokh1242,http://concepticon.clld.org/parameters/1033,malyw-,"crush, grind"
+209-176,tokh1242,http://concepticon.clld.org/parameters/634,śwal,meat
+209-157,tokh1242,http://concepticon.clld.org/parameters/1507,oko,fruit
+209-409,tokh1242,http://concepticon.clld.org/parameters/1484,ṣälyp,oil
+209-409,tokh1242,http://concepticon.clld.org/parameters/323,ṣälyp,"grease, fat"
+209-167,tokh1242,http://concepticon.clld.org/parameters/1274,sāle,salt
+209-192,tokh1242,http://concepticon.clld.org/parameters/635,malke,milk (noun)
+209-53,tokh1242,http://concepticon.clld.org/parameters/731,yoktsi,"beverage, drink"
+209-439,tokh1242,http://concepticon.clld.org/parameters/158,wäs-,put on (clothes)
+209-479,tokh1242,http://concepticon.clld.org/parameters/1895,wsal,"clothing, clothes"
+209-490,tokh1242,http://concepticon.clld.org/parameters/964,yok,wool
+209-490,tokh1242,http://concepticon.clld.org/parameters/580,yok,fur
+209-7,tokh1242,http://concepticon.clld.org/parameters/133,wäp-,weave
+209-66,tokh1242,http://concepticon.clld.org/parameters/1457,su-,sew
+209-47,tokh1242,http://concepticon.clld.org/parameters/1161,kluṃts (?),thread
+209-3,tokh1242,http://concepticon.clld.org/parameters/917,katu,"ornament, adornment"
+209-3,tokh1242,http://concepticon.clld.org/parameters/1029,katu,jewel
+209-476,tokh1242,http://concepticon.clld.org/parameters/1029,ɲemi,jewel
+209-394,tokh1242,http://concepticon.clld.org/parameters/1029,wmār,jewel
+209-320,tokh1242,http://concepticon.clld.org/parameters/1029,yetwe,jewel
+209-250,tokh1242,http://concepticon.clld.org/parameters/151,[kṣur],razor
+209-409,tokh1242,http://concepticon.clld.org/parameters/1926,ṣälyp,ointment
+209-39,tokh1242,http://concepticon.clld.org/parameters/1171,tāpaki,mirror
+209-365,tokh1242,http://concepticon.clld.org/parameters/1252,waṣt,house
+209-165,tokh1242,http://concepticon.clld.org/parameters/1678,yṣitstse (?),hut
+209-276,tokh1242,http://concepticon.clld.org/parameters/1567,yokäm,"door, gate"
+209-64,tokh1242,http://concepticon.clld.org/parameters/1375,[pātsank],window
+209-308,tokh1242,http://concepticon.clld.org/parameters/933,poṣi,wall
+209-410,tokh1242,http://concepticon.clld.org/parameters/1663,lake,bed
+209-325,tokh1242,http://concepticon.clld.org/parameters/2131,cok,"lamp, torch"
+209-371,tokh1242,http://concepticon.clld.org/parameters/281,asäl,"post, pole"
+209-104,tokh1242,http://concepticon.clld.org/parameters/1006,tukri,brick
+209-311,tokh1242,http://concepticon.clld.org/parameters/586,warpiśke,garden
+209-145,tokh1242,http://concepticon.clld.org/parameters/586,warpi,garden
+209-233,tokh1242,http://concepticon.clld.org/parameters/2002,yṣaṃ,ditch
+209-14,tokh1242,http://concepticon.clld.org/parameters/1921,pāt,plow
+209-332,tokh1242,http://concepticon.clld.org/parameters/1418,räp-,dig
+209-368,tokh1242,http://concepticon.clld.org/parameters/748,kät-,sow
+209-179,tokh1242,http://concepticon.clld.org/parameters/714,sārm,seed
+209-292,tokh1242,http://concepticon.clld.org/parameters/605,wsār,"grain (barley, oats etc)"
+209-292,tokh1242,http://concepticon.clld.org/parameters/1077,wsār,wheat
+209-343,tokh1242,http://concepticon.clld.org/parameters/932,yap,barley
+209-134,tokh1242,http://concepticon.clld.org/parameters/926,[klu],rice
+209-272,tokh1242,http://concepticon.clld.org/parameters/606,āti,grass
+209-361,tokh1242,http://concepticon.clld.org/parameters/1486,sāry-,plant (vb)
+209-388,tokh1242,http://concepticon.clld.org/parameters/670,tsmār,root
+209-293,tokh1242,http://concepticon.clld.org/parameters/1531,karke,branch
+209-297,tokh1242,http://concepticon.clld.org/parameters/628,pält,leaf
+209-80,tokh1242,http://concepticon.clld.org/parameters/239,pyāpi,flower
+209-83,tokh1242,http://concepticon.clld.org/parameters/906,ṣtām,tree
+209-159,tokh1242,http://concepticon.clld.org/parameters/343,letke,vine
+209-140,tokh1242,http://concepticon.clld.org/parameters/345,śuk,sap
+209-462,tokh1242,http://concepticon.clld.org/parameters/813,yām-/ypa-/ya-,"do, make"
+209-35,tokh1242,http://concepticon.clld.org/parameters/984,wles-,work
+209-150,tokh1242,http://concepticon.clld.org/parameters/2004,näm-,bend
+209-411,tokh1242,http://concepticon.clld.org/parameters/1917,kärk-,"tie, bind"
+209-37,tokh1242,http://concepticon.clld.org/parameters/352,tärk-,untie
+209-216,tokh1242,http://concepticon.clld.org/parameters/2133,on-,"strike (hit, beat)"
+209-225,tokh1242,http://concepticon.clld.org/parameters/2133,ko-,"strike (hit, beat)"
+209-99,tokh1242,http://concepticon.clld.org/parameters/2133,tsop-,"strike (hit, beat)"
+209-212,tokh1242,http://concepticon.clld.org/parameters/1432,karṣt-,cut
+209-51,tokh1242,http://concepticon.clld.org/parameters/1432,lātk-,cut
+209-194,tokh1242,http://concepticon.clld.org/parameters/1432,prutk-,cut
+209-506,tokh1242,http://concepticon.clld.org/parameters/355,kärṣt-,cut down
+209-336,tokh1242,http://concepticon.clld.org/parameters/155,kot-,"chop, hew"
+209-99,tokh1242,http://concepticon.clld.org/parameters/1434,tsop-,stab
+209-306,tokh1242,http://concepticon.clld.org/parameters/1352,yepe,knife
+209-164,tokh1242,http://concepticon.clld.org/parameters/677,[porat],ax
+209-336,tokh1242,http://concepticon.clld.org/parameters/680,kot-,break
+209-443,tokh1242,http://concepticon.clld.org/parameters/1437,wāk-,split
+209-73,tokh1242,http://concepticon.clld.org/parameters/1437,kaut-,split
+209-336,tokh1242,http://concepticon.clld.org/parameters/1437,kot-,split
+209-506,tokh1242,http://concepticon.clld.org/parameters/1735,kärṣt-,tear
+209-114,tokh1242,http://concepticon.clld.org/parameters/214,pänw-,stretch
+209-57,tokh1242,http://concepticon.clld.org/parameters/1455,yärt-,pull
+209-378,tokh1242,http://concepticon.clld.org/parameters/1455,ep-,pull
+209-427,tokh1242,http://concepticon.clld.org/parameters/1455,ru-,pull
+209-208,tokh1242,http://concepticon.clld.org/parameters/38,sätk-,spread out
+209-143,tokh1242,http://concepticon.clld.org/parameters/357,länk-,hang up
+209-289,tokh1242,http://concepticon.clld.org/parameters/1913,kälts-,press
+209-229,tokh1242,http://concepticon.clld.org/parameters/1414,malyw-,"squeeze, wring"
+209-355,tokh1242,http://concepticon.clld.org/parameters/1414,wnisk-,"squeeze, wring"
+209-68,tokh1242,http://concepticon.clld.org/parameters/1487,ku-,pour
+209-333,tokh1242,http://concepticon.clld.org/parameters/1453,lik-,wash
+209-277,tokh1242,http://concepticon.clld.org/parameters/1361,[yantär],tool
+209-391,tokh1242,http://concepticon.clld.org/parameters/1840,tsik-,build
+209-380,tokh1242,http://concepticon.clld.org/parameters/1369,wäs,gold
+209-258,tokh1242,http://concepticon.clld.org/parameters/759,nkiɲc,silver
+209-497,tokh1242,http://concepticon.clld.org/parameters/621,aɲcu,iron
+209-453,tokh1242,http://concepticon.clld.org/parameters/359,kuntis-tsek,potter
+209-391,tokh1242,http://concepticon.clld.org/parameters/289,tsik-,mold (clay etc)
+209-104,tokh1242,http://concepticon.clld.org/parameters/1399,tukri,clay
+209-7,tokh1242,http://concepticon.clld.org/parameters/1729,wäp-,"weave, plait"
+209-432,tokh1242,http://concepticon.clld.org/parameters/2001,pik-,paint (vb)
+209-283,tokh1242,http://concepticon.clld.org/parameters/765,wāsk-,move
+209-392,tokh1242,http://concepticon.clld.org/parameters/765,lit-,move
+209-49,tokh1242,http://concepticon.clld.org/parameters/765,rutk-,move
+209-72,tokh1242,http://concepticon.clld.org/parameters/765,mus-,move
+209-210,tokh1242,http://concepticon.clld.org/parameters/1588,lotk-,turn over
+209-485,tokh1242,http://concepticon.clld.org/parameters/1445,spārtw-,turn around
+209-488,tokh1242,http://concepticon.clld.org/parameters/1113,wänt-,"wind, wrap"
+209-485,tokh1242,http://concepticon.clld.org/parameters/827,spārtw-,roll
+209-480,tokh1242,http://concepticon.clld.org/parameters/568,kātk-,rise
+209-227,tokh1242,http://concepticon.clld.org/parameters/568,pärk-,rise
+209-169,tokh1242,http://concepticon.clld.org/parameters/501,täl-,"raise, lift"
+209-221,tokh1242,http://concepticon.clld.org/parameters/1280,klā(w)-,fall
+209-219,tokh1242,http://concepticon.clld.org/parameters/1456,säl-,throw
+209-286,tokh1242,http://concepticon.clld.org/parameters/1909,miw-,shake
+209-433,tokh1242,http://concepticon.clld.org/parameters/1574,plu-,float
+209-193,tokh1242,http://concepticon.clld.org/parameters/1439,yär-,swim
+209-433,tokh1242,http://concepticon.clld.org/parameters/1441,plu-,fly (vb)
+209-219,tokh1242,http://concepticon.clld.org/parameters/1441,säl-,fly (vb)
+209-319,tokh1242,http://concepticon.clld.org/parameters/175,pis-,blow
+209-295,tokh1242,http://concepticon.clld.org/parameters/1879,tsip-,dance
+209-386,tokh1242,http://concepticon.clld.org/parameters/1443,i-,walk
+209-386,tokh1242,http://concepticon.clld.org/parameters/695,i-,go
+209-111,tokh1242,http://concepticon.clld.org/parameters/695,yeṣ,go
+209-228,tokh1242,http://concepticon.clld.org/parameters/695,kälk-,go
+209-500,tokh1242,http://concepticon.clld.org/parameters/2014,kārp-,go down
+209-481,tokh1242,http://concepticon.clld.org/parameters/1107,länt-,go out
+209-185,tokh1242,http://concepticon.clld.org/parameters/1446,kum-,come
+209-210,tokh1242,http://concepticon.clld.org/parameters/581,lotk-,come back
+209-392,tokh1242,http://concepticon.clld.org/parameters/1752,lit-,"go away, depart"
+209-129,tokh1242,http://concepticon.clld.org/parameters/485,nut-,disappear
+209-180,tokh1242,http://concepticon.clld.org/parameters/485,spärk-,disappear
+209-61,tokh1242,http://concepticon.clld.org/parameters/956,mlusk-,flee
+209-107,tokh1242,http://concepticon.clld.org/parameters/1085,säk- (?),follow
+209-74,tokh1242,http://concepticon.clld.org/parameters/1387,yom-,"reach, arrive"
+209-255,tokh1242,http://concepticon.clld.org/parameters/749,yow-,enter
+209-265,tokh1242,http://concepticon.clld.org/parameters/700,pär-,carry (bear)
+209-486,tokh1242,http://concepticon.clld.org/parameters/692,käl-,bring
+209-326,tokh1242,http://concepticon.clld.org/parameters/1127,lu-,send
+209-393,tokh1242,http://concepticon.clld.org/parameters/43,āk-,lead (vb)
+209-393,tokh1242,http://concepticon.clld.org/parameters/741,āk-,drive
+209-117,tokh1242,http://concepticon.clld.org/parameters/367,klānk-,ride
+209-405,tokh1242,http://concepticon.clld.org/parameters/1452,nätk-,"push, shove"
+209-424,tokh1242,http://concepticon.clld.org/parameters/667,ṣont,road
+209-274,tokh1242,http://concepticon.clld.org/parameters/2252,yme,path
+209-65,tokh1242,http://concepticon.clld.org/parameters/122,kukäl,"carriage, wagon, cart"
+209-278,tokh1242,http://concepticon.clld.org/parameters/710,wärkänt,wheel
+209-446,tokh1242,http://concepticon.clld.org/parameters/1844,koläm,boat
+209-119,tokh1242,http://concepticon.clld.org/parameters/1749,eṃts-,take
+209-119,tokh1242,http://concepticon.clld.org/parameters/2021,eṃts-,"seize, grasp"
+209-152,tokh1242,http://concepticon.clld.org/parameters/694,kälp-,"get, obtain"
+209-451,tokh1242,http://concepticon.clld.org/parameters/738,wram,thing
+209-177,tokh1242,http://concepticon.clld.org/parameters/1447,e-,give
+209-137,tokh1242,http://concepticon.clld.org/parameters/1997,pās-,"preserve, look after"
+209-25,tokh1242,http://concepticon.clld.org/parameters/2008,tsälp-,"save, rescue"
+209-323,tokh1242,http://concepticon.clld.org/parameters/681,näk-,destroy
+209-259,tokh1242,http://concepticon.clld.org/parameters/44,mi-,"harm, injure, damage"
+209-322,tokh1242,http://concepticon.clld.org/parameters/1468,rit-,"seek, look for"
+209-152,tokh1242,http://concepticon.clld.org/parameters/719,kälp-,find
+209-37,tokh1242,http://concepticon.clld.org/parameters/1095,tärk-,"release, let go"
+209-2,tokh1242,http://concepticon.clld.org/parameters/712,śāt,rich
+209-205,tokh1242,http://concepticon.clld.org/parameters/712,niṣpalntu,rich
+209-401,tokh1242,http://concepticon.clld.org/parameters/1674,ekro,poor
+209-69,tokh1242,http://concepticon.clld.org/parameters/1934,yāṣṣuce,beggar
+209-214,tokh1242,http://concepticon.clld.org/parameters/1914,pare,debt
+209-171,tokh1242,http://concepticon.clld.org/parameters/873,potäk,"tax, tribute"
+209-200,tokh1242,http://concepticon.clld.org/parameters/1426,kāpɲe,"dear (costly, expensive)"
+209-127,tokh1242,http://concepticon.clld.org/parameters/884,pāk yām-/ypa-/ya-,share (distribute)
+209-230,tokh1242,http://concepticon.clld.org/parameters/1685,särki,after
+209-230,tokh1242,http://concepticon.clld.org/parameters/723,särki,behind
+209-116,tokh1242,http://concepticon.clld.org/parameters/1326,posaṃ,"down, below"
+209-353,tokh1242,http://concepticon.clld.org/parameters/1326,posac,"down, below"
+209-504,tokh1242,http://concepticon.clld.org/parameters/1882,anapär,before
+209-231,tokh1242,http://concepticon.clld.org/parameters/1606,an(n)e,"inside, in"
+209-445,tokh1242,http://concepticon.clld.org/parameters/762,pärne,outside
+209-245,tokh1242,http://concepticon.clld.org/parameters/1485,āɲe,under
+209-340,tokh1242,http://concepticon.clld.org/parameters/1485,posäṃ,under
+209-353,tokh1242,http://concepticon.clld.org/parameters/1485,posac,under
+209-207,tokh1242,http://concepticon.clld.org/parameters/1591,koc,"up, above"
+209-95,tokh1242,http://concepticon.clld.org/parameters/723,wṣeɲɲe,place
+209-385,tokh1242,http://concepticon.clld.org/parameters/723,śmoɲɲe,place
+209-244,tokh1242,http://concepticon.clld.org/parameters/998,tā-,put
+209-321,tokh1242,http://concepticon.clld.org/parameters/1416,ṣäm-/ laṃ-,sit
+209-338,tokh1242,http://concepticon.clld.org/parameters/1442,käly-/ stäm-,stand
+209-41,tokh1242,http://concepticon.clld.org/parameters/838,lyipär,"remains, left overs"
+209-170,tokh1242,http://concepticon.clld.org/parameters/7,krop-,"collect, gather"
+209-170,tokh1242,http://concepticon.clld.org/parameters/1576,krop-,pile up
+209-305,tokh1242,http://concepticon.clld.org/parameters/1359,wätk-,separate
+209-354,tokh1242,http://concepticon.clld.org/parameters/1359,putk-,separate
+209-354,tokh1242,http://concepticon.clld.org/parameters/1119,putk-,divide
+209-427,tokh1242,http://concepticon.clld.org/parameters/1156,ru-,open
+209-194,tokh1242,http://concepticon.clld.org/parameters/1046,prutk-,"shut, close"
+209-378,tokh1242,http://concepticon.clld.org/parameters/761,ep-,cover
+209-290,tokh1242,http://concepticon.clld.org/parameters/761,räk-,cover
+209-85,tokh1242,http://concepticon.clld.org/parameters/761,wāl-,cover
+209-351,tokh1242,http://concepticon.clld.org/parameters/602,tpuk-,"hide, conceal"
+209-70,tokh1242,http://concepticon.clld.org/parameters/1265,tpär,high
+209-407,tokh1242,http://concepticon.clld.org/parameters/742,āk,end
+209-308,tokh1242,http://concepticon.clld.org/parameters/682,poṣi,side
+209-67,tokh1242,http://concepticon.clld.org/parameters/1019,śālyi,right (side)
+209-102,tokh1242,http://concepticon.clld.org/parameters/244,pācyās,left (side)
+209-370,tokh1242,http://concepticon.clld.org/parameters/1942,kātse,near (adv)
+209-461,tokh1242,http://concepticon.clld.org/parameters/1406,lok,far (adv)
+209-464,tokh1242,http://concepticon.clld.org/parameters/1877,koṃ-pärkānt,east
+209-346,tokh1242,http://concepticon.clld.org/parameters/1817,koṃ-wmānt,west
+209-456,tokh1242,http://concepticon.clld.org/parameters/1598,ṣuliɲc,north
+209-499,tokh1242,http://concepticon.clld.org/parameters/1595,mäcriṃ (?),south
+209-335,tokh1242,http://concepticon.clld.org/parameters/479,śamantär,grow
+209-307,tokh1242,http://concepticon.clld.org/parameters/479,tsäm-,grow
+209-40,tokh1242,http://concepticon.clld.org/parameters/1506,me-,measure
+209-9,tokh1242,http://concepticon.clld.org/parameters/1202,tsopats,"large, big"
+209-447,tokh1242,http://concepticon.clld.org/parameters/1202,śāwe,"large, big"
+209-352,tokh1242,http://concepticon.clld.org/parameters/1246,lykäly,"small, little"
+209-484,tokh1242,http://concepticon.clld.org/parameters/1203,pärkär,long
+209-291,tokh1242,http://concepticon.clld.org/parameters/1203,aryu,long
+209-267,tokh1242,http://concepticon.clld.org/parameters/1645,tsru,short
+209-373,tokh1242,http://concepticon.clld.org/parameters/1243,wärts,"wide, broad"
+209-337,tokh1242,http://concepticon.clld.org/parameters/1244,ātsäts,thick (in dimension)
+209-162,tokh1242,http://concepticon.clld.org/parameters/1593,kupār,deep
+209-339,tokh1242,http://concepticon.clld.org/parameters/1467,sark,circle
+209-387,tokh1242,http://concepticon.clld.org/parameters/1048,slyi,line
+209-347,tokh1242,http://concepticon.clld.org/parameters/1264,lutk-,change
+209-236,tokh1242,http://concepticon.clld.org/parameters/1515,sas,one
+209-425,tokh1242,http://concepticon.clld.org/parameters/1515,säṃ,one
+209-313,tokh1242,http://concepticon.clld.org/parameters/1498,wu,two
+209-310,tokh1242,http://concepticon.clld.org/parameters/1498,we,two
+209-32,tokh1242,http://concepticon.clld.org/parameters/492,tre,three
+209-27,tokh1242,http://concepticon.clld.org/parameters/492,tri,three
+209-118,tokh1242,http://concepticon.clld.org/parameters/1500,śtwar,four
+209-489,tokh1242,http://concepticon.clld.org/parameters/493,paɲ,five
+209-436,tokh1242,http://concepticon.clld.org/parameters/1703,ṣäk,six
+209-147,tokh1242,http://concepticon.clld.org/parameters/1704,ṣpat,seven
+209-408,tokh1242,http://concepticon.clld.org/parameters/1705,okät,eight
+209-253,tokh1242,http://concepticon.clld.org/parameters/1483,ɲu,nine
+209-349,tokh1242,http://concepticon.clld.org/parameters/1515,śäk,ten
+209-299,tokh1242,http://concepticon.clld.org/parameters/1706,śäk-ṣa-pi,eleven
+209-502,tokh1242,http://concepticon.clld.org/parameters/1707,śäk-we-pi,twelve
+209-372,tokh1242,http://concepticon.clld.org/parameters/1709,śäk-päɲ-pi,fifteen
+209-296,tokh1242,http://concepticon.clld.org/parameters/1710,wiki,twenty
+209-273,tokh1242,http://concepticon.clld.org/parameters/1634,känt,hundred
+209-437,tokh1242,http://concepticon.clld.org/parameters/1843,wälts,thousand
+209-120,tokh1242,http://concepticon.clld.org/parameters/98,pont-,"every, all"
+209-122,tokh1242,http://concepticon.clld.org/parameters/1198,māk,"much, many"
+209-298,tokh1242,http://concepticon.clld.org/parameters/1992,ṣokyo,more
+209-303,tokh1242,http://concepticon.clld.org/parameters/1992,lyutār,more
+209-267,tokh1242,http://concepticon.clld.org/parameters/1242,tsru,"little (quantity), few"
+209-429,tokh1242,http://concepticon.clld.org/parameters/1241,some,some
+209-403,tokh1242,http://concepticon.clld.org/parameters/2023,krop,"multitude, crowd"
+209-503,tokh1242,http://concepticon.clld.org/parameters/1429,ypic,full
+209-168,tokh1242,http://concepticon.clld.org/parameters/1624,ekär,empty
+209-10,tokh1242,http://concepticon.clld.org/parameters/779,pāk,"part, piece"
+209-248,tokh1242,http://concepticon.clld.org/parameters/1580,sasak,"alone, only"
+209-494,tokh1242,http://concepticon.clld.org/parameters/1580,snāki,"alone, only"
+209-455,tokh1242,http://concepticon.clld.org/parameters/728,maltowinu,first
+209-158,tokh1242,http://concepticon.clld.org/parameters/1384,wät,second
+209-487,tokh1242,http://concepticon.clld.org/parameters/1859,trit,third
+209-257,tokh1242,http://concepticon.clld.org/parameters/417,tri-lkwär,three times
+209-54,tokh1242,http://concepticon.clld.org/parameters/892,praṣt,time
+209-253,tokh1242,http://concepticon.clld.org/parameters/1231,ɲu,new
+209-341,tokh1242,http://concepticon.clld.org/parameters/1229,mokone,old
+209-431,tokh1242,http://concepticon.clld.org/parameters/672,neṣ,early
+209-501,tokh1242,http://concepticon.clld.org/parameters/477,särkiɲco,late
+209-263,tokh1242,http://concepticon.clld.org/parameters/1376,tāpärk,now
+209-154,tokh1242,http://concepticon.clld.org/parameters/1963,śkā,immediately
+209-56,tokh1242,http://concepticon.clld.org/parameters/1963,ātukek (?),immediately
+209-22,tokh1242,http://concepticon.clld.org/parameters/1631,ymāräk,"swift, fast, quick"
+209-419,tokh1242,http://concepticon.clld.org/parameters/425,tänk-,"retard, delay"
+209-216,tokh1242,http://concepticon.clld.org/parameters/1806,on-,"begin, beginning"
+209-173,tokh1242,http://concepticon.clld.org/parameters/1186,käly-,"last, endure"
+209-407,tokh1242,http://concepticon.clld.org/parameters/743,āk,end (temporal)
+209-463,tokh1242,http://concepticon.clld.org/parameters/1766,ār- (?),finish
+209-131,tokh1242,http://concepticon.clld.org/parameters/1928,ār-,"cease, stop"
+209-172,tokh1242,http://concepticon.clld.org/parameters/790,ārwar,ready
+209-398,tokh1242,http://concepticon.clld.org/parameters/1676,skam,always
+209-291,tokh1242,http://concepticon.clld.org/parameters/418,aryu,long-time (for a)
+209-201,tokh1242,http://concepticon.clld.org/parameters/1656,mā ontaṃ,never
+209-166,tokh1242,http://concepticon.clld.org/parameters/204,nuṃ,again
+209-138,tokh1242,http://concepticon.clld.org/parameters/1260,koṃ,day
+209-251,tokh1242,http://concepticon.clld.org/parameters/1233,wṣe,night
+209-196,tokh1242,http://concepticon.clld.org/parameters/1233,oṣeɲi,night
+209-464,tokh1242,http://concepticon.clld.org/parameters/729,koṃ-pärkānt,dawn
+209-507,tokh1242,http://concepticon.clld.org/parameters/1339,ksär,morning
+209-475,tokh1242,http://concepticon.clld.org/parameters/1283,ārśo,today
+209-440,tokh1242,http://concepticon.clld.org/parameters/1469,ṣpät-koɲi,week
+209-252,tokh1242,http://concepticon.clld.org/parameters/1370,maɲ,month
+209-312,tokh1242,http://concepticon.clld.org/parameters/1226,pùkäl,year
+209-260,tokh1242,http://concepticon.clld.org/parameters/1471,śärme,winter
+209-17,tokh1242,http://concepticon.clld.org/parameters/1537,yusār (?),spring
+209-473,tokh1242,http://concepticon.clld.org/parameters/1342,ṣme,summer
+209-190,tokh1242,http://concepticon.clld.org/parameters/1276,yäpsant (?),autumn
+209-54,tokh1242,http://concepticon.clld.org/parameters/691,praṣt,season
+209-300,tokh1242,http://concepticon.clld.org/parameters/1587,wär-,smell (vb intrans)
+209-300,tokh1242,http://concepticon.clld.org/parameters/1586,wär-,smell (vb trans)
+209-140,tokh1242,http://concepticon.clld.org/parameters/21,śuk,taste
+209-360,tokh1242,http://concepticon.clld.org/parameters/717,swār,sweet
+209-234,tokh1242,http://concepticon.clld.org/parameters/1408,klyos-,hear
+209-234,tokh1242,http://concepticon.clld.org/parameters/1608,klyos-,listen
+209-448,tokh1242,http://concepticon.clld.org/parameters/1811,waśeṃ,"sound, noise"
+209-222,tokh1242,http://concepticon.clld.org/parameters/1314,sākät,"quiet, silence"
+209-209,tokh1242,http://concepticon.clld.org/parameters/1409,läk-,see
+209-209,tokh1242,http://concepticon.clld.org/parameters/1819,läk-,"look, look at"
+209-417,tokh1242,http://concepticon.clld.org/parameters/1039,läks-,show
+209-327,tokh1242,http://concepticon.clld.org/parameters/708,pälk-,shine
+209-505,tokh1242,http://concepticon.clld.org/parameters/679,lukśanu,bright
+209-490,tokh1242,http://concepticon.clld.org/parameters/1613,yok,color
+209-428,tokh1242,http://concepticon.clld.org/parameters/706,orkäm,dark (in color)
+209-59,tokh1242,http://concepticon.clld.org/parameters/1335,ārki,white
+209-42,tokh1242,http://concepticon.clld.org/parameters/163,arkant-,black
+209-237,tokh1242,http://concepticon.clld.org/parameters/156,rtär,red
+209-422,tokh1242,http://concepticon.clld.org/parameters/156,rätri,red
+209-284,tokh1242,http://concepticon.clld.org/parameters/837,tseṃ,blue
+209-182,tokh1242,http://concepticon.clld.org/parameters/1884,tsär,hard
+209-452,tokh1242,http://concepticon.clld.org/parameters/1856,wl(y)ep,soft
+209-139,tokh1242,http://concepticon.clld.org/parameters/1923,āśāwe,rough
+209-19,tokh1242,http://concepticon.clld.org/parameters/1396,pśär,sharp
+209-105,tokh1242,http://concepticon.clld.org/parameters/1210,krāmärts,heavy
+209-6,tokh1242,http://concepticon.clld.org/parameters/1726,wip-,"wet, damp"
+209-188,tokh1242,http://concepticon.clld.org/parameters/1398,āsar,dry
+209-197,tokh1242,http://concepticon.clld.org/parameters/1286,omäl,hot
+209-197,tokh1242,http://concepticon.clld.org/parameters/1232,omäl,warm
+209-317,tokh1242,http://concepticon.clld.org/parameters/1287,kùraś,cold
+209-375,tokh1242,http://concepticon.clld.org/parameters/704,āṣtär,clean
+209-270,tokh1242,http://concepticon.clld.org/parameters/53,āɲcäm,"soul, spirit"
+209-390,tokh1242,http://concepticon.clld.org/parameters/720,[suk],"good fortune, luck"
+209-55,tokh1242,http://concepticon.clld.org/parameters/1495,tsārwo,"joyful, glad, happy"
+209-279,tokh1242,http://concepticon.clld.org/parameters/1355,kary-,laugh
+209-275,tokh1242,http://concepticon.clld.org/parameters/923,tunk-iɲɲ-,love
+209-113,tokh1242,http://concepticon.clld.org/parameters/928,yäks-,embrace
+209-415,tokh1242,http://concepticon.clld.org/parameters/1783,klop,pain
+209-496,tokh1242,http://concepticon.clld.org/parameters/1668,śurām,"grief, sorrow, sadness"
+209-98,tokh1242,http://concepticon.clld.org/parameters/1875,śur-,"regret, be sorry"
+209-356,tokh1242,http://concepticon.clld.org/parameters/1651,ākär,tear (noun)
+209-420,tokh1242,http://concepticon.clld.org/parameters/1607,roɲcäm,hate
+209-246,tokh1242,http://concepticon.clld.org/parameters/1607,rse,hate
+209-187,tokh1242,http://concepticon.clld.org/parameters/82,tärm-,anger
+209-460,tokh1242,http://concepticon.clld.org/parameters/40,eṃts,"envy, jealousy"
+209-383,tokh1242,http://concepticon.clld.org/parameters/1776,kip,shame (noun)
+209-478,tokh1242,http://concepticon.clld.org/parameters/174,āmāṃ,proud
+209-43,tokh1242,http://concepticon.clld.org/parameters/781,praski,"fear, fright"
+209-328,tokh1242,http://concepticon.clld.org/parameters/1810,ɲātse,danger
+209-30,tokh1242,http://concepticon.clld.org/parameters/1810,oklop,danger
+209-438,tokh1242,http://concepticon.clld.org/parameters/1784,yoke,"desire, want"
+209-60,tokh1242,http://concepticon.clld.org/parameters/1092,pärmank,hope
+209-330,tokh1242,http://concepticon.clld.org/parameters/1657,kārme,true
+209-34,tokh1242,http://concepticon.clld.org/parameters/601,smale,"lie, tell lies"
+209-96,tokh1242,http://concepticon.clld.org/parameters/1528,[kṣānti],forgive
+209-389,tokh1242,http://concepticon.clld.org/parameters/1035,kāsu,good
+209-369,tokh1242,http://concepticon.clld.org/parameters/1292,umpar,bad
+209-44,tokh1242,http://concepticon.clld.org/parameters/1292,omäskeṃ,bad
+209-482,tokh1242,http://concepticon.clld.org/parameters/1390,[appärmāt],wrong
+209-110,tokh1242,http://concepticon.clld.org/parameters/134,nākäm,fault
+209-217,tokh1242,http://concepticon.clld.org/parameters/1293,triślune,"mistake, error"
+209-110,tokh1242,http://concepticon.clld.org/parameters/381,nākäm,blame
+209-318,tokh1242,http://concepticon.clld.org/parameters/1687,päl-,praise
+209-92,tokh1242,http://concepticon.clld.org/parameters/1562,pältsäk,mind
+209-1,tokh1242,http://concepticon.clld.org/parameters/1415,päl(t)sk-,think (= reflect)
+209-1,tokh1242,http://concepticon.clld.org/parameters/1513,päl(t)sk-,think (= be of the opinion)
+209-136,tokh1242,http://concepticon.clld.org/parameters/1536,kärs-,understand
+209-136,tokh1242,http://concepticon.clld.org/parameters/1410,kärs-,know
+209-363,tokh1242,http://concepticon.clld.org/parameters/1518,āknats,"foolish, stupid"
+209-163,tokh1242,http://concepticon.clld.org/parameters/504,ākl-,learn
+209-163,tokh1242,http://concepticon.clld.org/parameters/1929,ākl-,study
+209-46,tokh1242,http://concepticon.clld.org/parameters/709,ṣärp-,teach
+209-441,tokh1242,http://concepticon.clld.org/parameters/753,ākälṣäl,pupil
+209-93,tokh1242,http://concepticon.clld.org/parameters/1038,[käṣṣi],teacher
+209-18,tokh1242,http://concepticon.clld.org/parameters/707,[opyac] käl-,remember
+209-471,tokh1242,http://concepticon.clld.org/parameters/1523,märs-,forget
+209-375,tokh1242,http://concepticon.clld.org/parameters/989,āṣtär,"clear, plain"
+209-46,tokh1242,http://concepticon.clld.org/parameters/1626,ṣärp-,explain
+209-412,tokh1242,http://concepticon.clld.org/parameters/860,ṣurm,cause
+209-174,tokh1242,http://concepticon.clld.org/parameters/1308,saɲce,doubt
+209-328,tokh1242,http://concepticon.clld.org/parameters/643,ɲātse,"need, necessity"
+209-126,tokh1242,http://concepticon.clld.org/parameters/584,māski,difficult
+209-359,tokh1242,http://concepticon.clld.org/parameters/1812,ske-,"try, attempt"
+209-226,tokh1242,http://concepticon.clld.org/parameters/488,wkäṃ,"way, manner"
+209-130,tokh1242,http://concepticon.clld.org/parameters/1577,śkaṃ,and
+209-149,tokh1242,http://concepticon.clld.org/parameters/1577,yo,and
+209-52,tokh1242,http://concepticon.clld.org/parameters/1157,kuc,because
+209-76,tokh1242,http://concepticon.clld.org/parameters/1459,kuprene,if
+209-20,tokh1242,http://concepticon.clld.org/parameters/1269,mā,"no, negative"
+209-13,tokh1242,http://concepticon.clld.org/parameters/1239,mänt,how?
+209-224,tokh1242,http://concepticon.clld.org/parameters/822,kos,how many?
+209-50,tokh1242,http://concepticon.clld.org/parameters/1236,kus,what?
+209-384,tokh1242,http://concepticon.clld.org/parameters/1238,äntāne,when?
+209-202,tokh1242,http://concepticon.clld.org/parameters/1237,äntanne,where?
+209-5,tokh1242,http://concepticon.clld.org/parameters/727,äntsam,which?
+209-50,tokh1242,http://concepticon.clld.org/parameters/1235,kus,who?
+209-141,tokh1242,http://concepticon.clld.org/parameters/1270,kùyal,why?
+209-448,tokh1242,http://concepticon.clld.org/parameters/1363,waśeṃ,voice
+209-184,tokh1242,http://concepticon.clld.org/parameters/1363,wak,voice
+209-314,tokh1242,http://concepticon.clld.org/parameters/715,nu-,"shout, cry out"
+209-24,tokh1242,http://concepticon.clld.org/parameters/1623,träṅk-,"speak, talk"
+209-24,tokh1242,http://concepticon.clld.org/parameters/1458,träṅk-,say
+209-211,tokh1242,http://concepticon.clld.org/parameters/1711,tränk-,tell story
+209-418,tokh1242,http://concepticon.clld.org/parameters/1307,käntu,language
+209-151,tokh1242,http://concepticon.clld.org/parameters/1599,rake,word
+209-395,tokh1242,http://concepticon.clld.org/parameters/1405,ɲom,name
+209-227,tokh1242,http://concepticon.clld.org/parameters/1309,pärk-,"ask (question, inquire)"
+209-227,tokh1242,http://concepticon.clld.org/parameters/1828,pärk-,"ask, request"
+209-508,tokh1242,http://concepticon.clld.org/parameters/299,nāk-,"rebuke, scold"
+209-189,tokh1242,http://concepticon.clld.org/parameters/1084,ken-,call (=summon)
+209-301,tokh1242,http://concepticon.clld.org/parameters/9,klāw-,announce
+209-314,tokh1242,http://concepticon.clld.org/parameters/1192,nu-,threaten
+209-432,tokh1242,http://concepticon.clld.org/parameters/1672,pik-,write
+209-364,tokh1242,http://concepticon.clld.org/parameters/963,[postak],book
+209-413,tokh1242,http://concepticon.clld.org/parameters/963,[postäk],book
+209-294,tokh1242,http://concepticon.clld.org/parameters/908,kumpäc,drum
+209-414,tokh1242,http://concepticon.clld.org/parameters/1300,ype,country
+209-33,tokh1242,http://concepticon.clld.org/parameters/1391,ri,"city, town"
+209-477,tokh1242,http://concepticon.clld.org/parameters/930,ṣukṣ-,village
+209-396,tokh1242,http://concepticon.clld.org/parameters/789,ārkiśoṣi,people (populace)
+209-362,tokh1242,http://concepticon.clld.org/parameters/789,śoṣi,people (populace)
+209-358,tokh1242,http://concepticon.clld.org/parameters/302,[kotär],"tribe, clan"
+209-264,tokh1242,http://concepticon.clld.org/parameters/301,nātäk,"chief, chieftain"
+209-374,tokh1242,http://concepticon.clld.org/parameters/1508,wäl,"king, ruler"
+209-469,tokh1242,http://concepticon.clld.org/parameters/1508,lāṃś,"king, ruler"
+209-203,tokh1242,http://concepticon.clld.org/parameters/1306,lānts,queen
+209-264,tokh1242,http://concepticon.clld.org/parameters/383,nātäk,master
+209-29,tokh1242,http://concepticon.clld.org/parameters/255,[māɲɲe],servant
+209-305,tokh1242,http://concepticon.clld.org/parameters/1128,wätk-,"command, order"
+209-492,tokh1242,http://concepticon.clld.org/parameters/1635,nam,obey
+209-345,tokh1242,http://concepticon.clld.org/parameters/1325,naṣu,"friend, companion"
+209-416,tokh1242,http://concepticon.clld.org/parameters/1358,yäslu,enemy
+209-79,tokh1242,http://concepticon.clld.org/parameters/1358,yäsluɲcas,enemy
+209-444,tokh1242,http://concepticon.clld.org/parameters/791,lokit,stranger
+209-419,tokh1242,http://concepticon.clld.org/parameters/1550,tänk-,"hinder, prevent"
+209-226,tokh1242,http://concepticon.clld.org/parameters/1747,wkäṃ,custom
+209-183,tokh1242,http://concepticon.clld.org/parameters/1848,kùɲaś,"strife, quarrel"
+209-198,tokh1242,http://concepticon.clld.org/parameters/579,wac,"war, battle"
+209-239,tokh1242,http://concepticon.clld.org/parameters/1338,āɲu,peace
+209-470,tokh1242,http://concepticon.clld.org/parameters/1561,ratäk,army
+209-459,tokh1242,http://concepticon.clld.org/parameters/1941,waco,soldier
+209-306,tokh1242,http://concepticon.clld.org/parameters/951,yepe,"weapons, arms"
+209-268,tokh1242,http://concepticon.clld.org/parameters/1763,ṣtop,club
+209-164,tokh1242,http://concepticon.clld.org/parameters/386,[porat],battle-ax
+209-238,tokh1242,http://concepticon.clld.org/parameters/994,aɲcäl,bow
+209-75,tokh1242,http://concepticon.clld.org/parameters/977,pär,arrow
+209-271,tokh1242,http://concepticon.clld.org/parameters/1535,kāre,sword
+209-137,tokh1242,http://concepticon.clld.org/parameters/1940,pās-,"guard, sentinel"
+209-36,tokh1242,http://concepticon.clld.org/parameters/1062,märkampal,law
+209-232,tokh1242,http://concepticon.clld.org/parameters/1144,ram,witness
+209-508,tokh1242,http://concepticon.clld.org/parameters/484,nāk-,condemn
+209-23,tokh1242,http://concepticon.clld.org/parameters/1281,protäk,"prison, jail"
+209-411,tokh1242,http://concepticon.clld.org/parameters/713,kärk-,steal
+209-12,tokh1242,http://concepticon.clld.org/parameters/1160,lyäk,thief
+209-406,tokh1242,http://concepticon.clld.org/parameters/1944,ɲkät,God
+209-4,tokh1242,http://concepticon.clld.org/parameters/1103,talke,"sacrifice, offering"
+209-287,tokh1242,http://concepticon.clld.org/parameters/257,winās-,worship
+209-397,tokh1242,http://concepticon.clld.org/parameters/852,[ṣāmaṃ],priest
+209-357,tokh1242,http://concepticon.clld.org/parameters/304,āks-,preach
+209-91,tokh1242,http://concepticon.clld.org/parameters/878,[ɲare],hell
+209-44,tokh1242,http://concepticon.clld.org/parameters/1973,omäskeṃ,demon (evil spirit)
+209-369,tokh1242,http://concepticon.clld.org/parameters/1973,umpar,demon (evil spirit)
+209-220,tokh1242,http://concepticon.clld.org/parameters/392,[räddhi],"magic, witchcraft, sorcery"
+209-247,tokh1242,http://concepticon.clld.org/parameters/1175,[pret],"ghost, phantom"
+209-241,tokh1242,http://concepticon.clld.org/parameters/1175,[yakäṣ],"ghost, phantom"

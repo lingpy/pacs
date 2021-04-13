@@ -1,0 +1,742 @@
+ID,Language_ID,Feature_ID,Value,Concept
+277-294,cash1251,http://concepticon.clld.org/parameters/965,nɨtɨ,world
+277-380,cash1251,http://concepticon.clld.org/parameters/626,mee,"earth, land"
+277-380,cash1251,http://concepticon.clld.org/parameters/1228,mee,"earth=ground, soil"
+277-320,cash1251,http://concepticon.clld.org/parameters/2,mee poto,dust
+277-393,cash1251,http://concepticon.clld.org/parameters/640,čua,mud
+277-668,cash1251,http://concepticon.clld.org/parameters/671,masi,sand
+277-58,cash1251,http://concepticon.clld.org/parameters/2118,βaši,"mountain, hill"
+277-99,cash1251,http://concepticon.clld.org/parameters/2118,ma'nã,"mountain, hill"
+277-602,cash1251,http://concepticon.clld.org/parameters/618,kʷɨ'tu,"cliff, precipice"
+277-191,cash1251,http://concepticon.clld.org/parameters/652,si'βa,"plain, field"
+277-645,cash1251,http://concepticon.clld.org/parameters/652,ṣ̌a'βa,"plain, field"
+277-609,cash1251,http://concepticon.clld.org/parameters/921,sa'ɨkɨ,valley
+277-196,cash1251,http://concepticon.clld.org/parameters/622,na'si,island
+277-518,cash1251,http://concepticon.clld.org/parameters/948,ʔõ'paṣ̌,water
+277-293,cash1251,http://concepticon.clld.org/parameters/1474,pa'rõpapa,sea
+277-182,cash1251,http://concepticon.clld.org/parameters/258,u'ɲama,calm (of sea)
+277-426,cash1251,http://concepticon.clld.org/parameters/259,pa'kaṣ̌ki-ti,rough (of sea)
+277-630,cash1251,http://concepticon.clld.org/parameters/1768,βa'koṣ̌,foam
+277-105,cash1251,http://concepticon.clld.org/parameters/624,ʔi'ã,lake
+277-188,cash1251,http://concepticon.clld.org/parameters/978,βɨ'čõ,wave
+277-463,cash1251,http://concepticon.clld.org/parameters/666,βaka,"river, stream, brook"
+277-479,cash1251,http://concepticon.clld.org/parameters/420,nii,"woods, forest"
+277-464,cash1251,http://concepticon.clld.org/parameters/906,ii,tree (cf 08.600)
+277-464,cash1251,http://concepticon.clld.org/parameters/1803,ii,wood
+277-184,cash1251,http://concepticon.clld.org/parameters/2125,ma'ṣ̌aṣ̌,"stone, rock"
+277-537,cash1251,http://concepticon.clld.org/parameters/2125,mapara,"stone, rock"
+277-18,cash1251,http://concepticon.clld.org/parameters/6,ni'ɨ̃,earthquake
+277-449,cash1251,http://concepticon.clld.org/parameters/1732,na'i,sky
+277-175,cash1251,http://concepticon.clld.org/parameters/1343,βari,sun
+277-391,cash1251,http://concepticon.clld.org/parameters/1313,ʔoṣ̌ɨ,moon
+277-349,cash1251,http://concepticon.clld.org/parameters/1430,ʔispa,star
+277-250,cash1251,http://concepticon.clld.org/parameters/1654,ka'na,lightning
+277-250,cash1251,http://concepticon.clld.org/parameters/2007,ka'na,lightning (as striking)
+277-20,cash1251,http://concepticon.clld.org/parameters/1733,no'õβai,rainbow
+277-483,cash1251,http://concepticon.clld.org/parameters/11,βakiš-,darkness
+277-595,cash1251,http://concepticon.clld.org/parameters/1388,tupɨ̃,"shade, shadow"
+277-46,cash1251,http://concepticon.clld.org/parameters/1977,ni'βi,dew
+277-521,cash1251,http://concepticon.clld.org/parameters/27,punapuna,air
+277-282,cash1251,http://concepticon.clld.org/parameters/27,soɲo,air
+277-282,cash1251,http://concepticon.clld.org/parameters/960,soɲo,wind
+277-521,cash1251,http://concepticon.clld.org/parameters/960,punapuna,wind
+277-251,cash1251,http://concepticon.clld.org/parameters/1489,nɨtɨ 'kʷĩ,cloud
+277-624,cash1251,http://concepticon.clld.org/parameters/249,kʷe'ẽkoro,fog
+277-511,cash1251,http://concepticon.clld.org/parameters/249,nɨtɨ koro,fog
+277-492,cash1251,http://concepticon.clld.org/parameters/658,uɲe,rain (noun)
+277-197,cash1251,http://concepticon.clld.org/parameters/658,ɨβe,rain (noun)
+277-158,cash1251,http://concepticon.clld.org/parameters/658,ʔuβe,rain (noun)
+277-671,cash1251,http://concepticon.clld.org/parameters/221,c̷ii,fire
+277-198,cash1251,http://concepticon.clld.org/parameters/889,c̷ii rɨ'ɨkirukɨ,flame (noun)
+277-604,cash1251,http://concepticon.clld.org/parameters/778,c̷ii 'kʷĩ,smoke (noun)
+277-363,cash1251,http://concepticon.clld.org/parameters/778,ko'ĩ,smoke (noun)
+277-195,cash1251,http://concepticon.clld.org/parameters/646,či-mapo,ashes
+277-529,cash1251,http://concepticon.clld.org/parameters/141,nɨ'ɨn-ti,burn (vb trans)
+277-332,cash1251,http://concepticon.clld.org/parameters/737,ɨ'rɨn-ti,"light, kindle, ignite"
+277-34,cash1251,http://concepticon.clld.org/parameters/127,βɨ'nan-ti,extinguish
+277-470,cash1251,http://concepticon.clld.org/parameters/10,karo,firewood
+277-526,cash1251,http://concepticon.clld.org/parameters/1188,c̷iso,charcoal
+277-244,cash1251,http://concepticon.clld.org/parameters/683,oni,"person, human being"
+277-265,cash1251,http://concepticon.clld.org/parameters/683,βɨβo,"person, human being"
+277-541,cash1251,http://concepticon.clld.org/parameters/1554,nukɨ βɨnɨ,man (vs. woman)
+277-387,cash1251,http://concepticon.clld.org/parameters/962,ṣ̌ano,woman
+277-443,cash1251,http://concepticon.clld.org/parameters/2263,βɨnɨ,male
+277-387,cash1251,http://concepticon.clld.org/parameters/2260,ṣ̌ano,female
+277-276,cash1251,http://concepticon.clld.org/parameters/1366,βɨrunã,boy
+277-384,cash1251,http://concepticon.clld.org/parameters/76,βɨ'na,young man (adolescent)
+277-281,cash1251,http://concepticon.clld.org/parameters/77,ṣ̌õtako,young woman (adolescent)
+277-633,cash1251,http://concepticon.clld.org/parameters/1304,βakɨ,child
+277-443,cash1251,http://concepticon.clld.org/parameters/1200,βɨnɨ,husband
+277-467,cash1251,http://concepticon.clld.org/parameters/1199,ṣ̌a'βiõkɨ,wife
+277-120,cash1251,http://concepticon.clld.org/parameters/203,βɨnuti,marry
+277-655,cash1251,http://concepticon.clld.org/parameters/1217,papa,father
+277-642,cash1251,http://concepticon.clld.org/parameters/1216,tita,mother
+277-260,cash1251,http://concepticon.clld.org/parameters/1801,βɨčikɨ,offspring (son or daughter)
+277-397,cash1251,http://concepticon.clld.org/parameters/1801,tu'a,offspring (son or daughter)
+277-53,cash1251,http://concepticon.clld.org/parameters/1262,ṣ̌u'kɨ̃,brother
+277-189,cash1251,http://concepticon.clld.org/parameters/1759,βuči,older brother
+277-366,cash1251,http://concepticon.clld.org/parameters/1263,čiraβakɨ,sister
+277-286,cash1251,http://concepticon.clld.org/parameters/1758,rɨ'kʷɨ̃,older sister
+277-594,cash1251,http://concepticon.clld.org/parameters/1761,ũči,younger sister
+277-430,cash1251,http://concepticon.clld.org/parameters/1640,poi,sibling
+277-458,cash1251,http://concepticon.clld.org/parameters/1383,ṣ̌uta,grandfather
+277-171,cash1251,http://concepticon.clld.org/parameters/1383,βɨ̃'ta,grandfather
+277-255,cash1251,http://concepticon.clld.org/parameters/406,ṣ̌ɨni,old man
+277-453,cash1251,http://concepticon.clld.org/parameters/1496,čiči,grandmother
+277-118,cash1251,http://concepticon.clld.org/parameters/1618,βaβa,grandson
+277-327,cash1251,http://concepticon.clld.org/parameters/1327,koko,uncle
+277-327,cash1251,http://concepticon.clld.org/parameters/1984,koko,mother's brother
+277-572,cash1251,http://concepticon.clld.org/parameters/1985,paic̷i,father's brother
+277-675,cash1251,http://concepticon.clld.org/parameters/1063,piaka,nephew
+277-55,cash1251,http://concepticon.clld.org/parameters/1642,ɲee,niece
+277-675,cash1251,http://concepticon.clld.org/parameters/1642,piaka,niece
+277-594,cash1251,http://concepticon.clld.org/parameters/1643,ũči,cousin
+277-474,cash1251,http://concepticon.clld.org/parameters/1669,ʔĩka,ancestors
+277-401,cash1251,http://concepticon.clld.org/parameters/490,rɨ'βũkɨ,descendants
+277-488,cash1251,http://concepticon.clld.org/parameters/490,'aĩ rɨ'βũ,descendants
+277-659,cash1251,http://concepticon.clld.org/parameters/2256,nači,mother-in-law (of a man)
+277-55,cash1251,http://concepticon.clld.org/parameters/2257,ɲee,mother-in-law (of a woman)
+277-217,cash1251,http://concepticon.clld.org/parameters/1756,'kasuna'mɨkɨ,widow
+277-416,cash1251,http://concepticon.clld.org/parameters/1644,aĩc̷i,"relatives, kinsmen"
+277-63,cash1251,http://concepticon.clld.org/parameters/1644,kaiβo,"relatives, kinsmen"
+277-617,cash1251,http://concepticon.clld.org/parameters/1209,ʔɨ-,I
+277-310,cash1251,http://concepticon.clld.org/parameters/1215,mii,you (singular)
+277-628,cash1251,http://concepticon.clld.org/parameters/262,aa,he/she/it
+277-167,cash1251,http://concepticon.clld.org/parameters/1212,no-,we
+277-614,cash1251,http://concepticon.clld.org/parameters/1213,mic̷o,you (plural)
+277-237,cash1251,http://concepticon.clld.org/parameters/817,ato,they
+277-550,cash1251,http://concepticon.clld.org/parameters/619,ɲuina,animal
+277-570,cash1251,http://concepticon.clld.org/parameters/649,ṣ̌uβi,pasture
+277-135,cash1251,http://concepticon.clld.org/parameters/851,kɨnɨ,"stable, stall"
+277-80,cash1251,http://concepticon.clld.org/parameters/1337,kuči,pig
+277-94,cash1251,http://concepticon.clld.org/parameters/1514,ʔatapa,hen
+277-665,cash1251,http://concepticon.clld.org/parameters/1360,no'nõ,duck
+277-486,cash1251,http://concepticon.clld.org/parameters/539,naa,nest
+277-346,cash1251,http://concepticon.clld.org/parameters/937,ʔisa,bird
+277-356,cash1251,http://concepticon.clld.org/parameters/758,ʔabu,heron
+277-216,cash1251,http://concepticon.clld.org/parameters/758,βičo,heron
+277-79,cash1251,http://concepticon.clld.org/parameters/758,aka,heron
+277-311,cash1251,http://concepticon.clld.org/parameters/307,tɨ'tɨ,hawk
+277-377,cash1251,http://concepticon.clld.org/parameters/1185,ṣ̌ɨtɨ,vulture
+277-632,cash1251,http://concepticon.clld.org/parameters/1793,kašã ~ kãša,bat
+277-107,cash1251,http://concepticon.clld.org/parameters/882,βoo,parrot
+277-390,cash1251,http://concepticon.clld.org/parameters/1853,ɲumakuru,dove
+277-17,cash1251,http://concepticon.clld.org/parameters/1853,kuma,dove
+277-279,cash1251,http://concepticon.clld.org/parameters/735,noo ʔaɨ,owl
+277-347,cash1251,http://concepticon.clld.org/parameters/735,popo,owl
+277-428,cash1251,http://concepticon.clld.org/parameters/2009,ka'mõ,dog
+277-625,cash1251,http://concepticon.clld.org/parameters/1136,ṣ̌u'ɲoõ,rabbit
+277-102,cash1251,http://concepticon.clld.org/parameters/309,ma'ṣ̌u,opossum
+277-104,cash1251,http://concepticon.clld.org/parameters/2139,ma'kõ,"mouse, rat"
+277-259,cash1251,http://concepticon.clld.org/parameters/213,pa'is,fin (dorsal)
+277-637,cash1251,http://concepticon.clld.org/parameters/266,taṣ̌'kã,fishscale
+277-212,cash1251,http://concepticon.clld.org/parameters/1916,ʔuku,gill
+277-660,cash1251,http://concepticon.clld.org/parameters/1910,ʔii,stingray
+277-210,cash1251,http://concepticon.clld.org/parameters/1013,ku'niõ,freshwater eel
+277-249,cash1251,http://concepticon.clld.org/parameters/522,šora'pana,wolf
+277-538,cash1251,http://concepticon.clld.org/parameters/1936,čaṣ̌o,deer
+277-657,cash1251,http://concepticon.clld.org/parameters/1350,čiru,monkey
+277-166,cash1251,http://concepticon.clld.org/parameters/1350,riri,monkey
+277-4,cash1251,http://concepticon.clld.org/parameters/1350,roo,monkey
+277-509,cash1251,http://concepticon.clld.org/parameters/1350,ɲoo,monkey
+277-33,cash1251,http://concepticon.clld.org/parameters/1350,βasa,monkey
+277-527,cash1251,http://concepticon.clld.org/parameters/620,aniβaɨ,insect
+277-664,cash1251,http://concepticon.clld.org/parameters/310,ʔia,louse
+277-319,cash1251,http://concepticon.clld.org/parameters/310,suku,louse
+277-160,cash1251,http://concepticon.clld.org/parameters/267,ʔɨ'c̷ɨ̃,nit (louse egg)
+277-164,cash1251,http://concepticon.clld.org/parameters/1974,ṣ̌akurũ,centipede
+277-208,cash1251,http://concepticon.clld.org/parameters/1538,ču'nookuru,scorpion
+277-82,cash1251,http://concepticon.clld.org/parameters/1538,ni'βãta,scorpion
+277-510,cash1251,http://concepticon.clld.org/parameters/587,ku'tiš,ant
+277-232,cash1251,http://concepticon.clld.org/parameters/843,ṣ̌ɨ'tã ʔa'kanãkɨ,spider
+277-14,cash1251,http://concepticon.clld.org/parameters/1065,βas'kõ,spider web
+277-619,cash1251,http://concepticon.clld.org/parameters/665,βina,bee
+277-561,cash1251,http://concepticon.clld.org/parameters/665,ni'šaβu,bee
+277-522,cash1251,http://concepticon.clld.org/parameters/1931,βo'i,beeswax
+277-619,cash1251,http://concepticon.clld.org/parameters/1517,βina,wasp
+277-343,cash1251,http://concepticon.clld.org/parameters/1504,nakʷa,fly
+277-144,cash1251,http://concepticon.clld.org/parameters/1504,sia,fly
+277-571,cash1251,http://concepticon.clld.org/parameters/1509,βii,mosquito
+277-103,cash1251,http://concepticon.clld.org/parameters/1219,ṣ̌ɨβɨβɨi,worm
+277-386,cash1251,http://concepticon.clld.org/parameters/1219,no'ĩ,worm
+277-256,cash1251,http://concepticon.clld.org/parameters/730,rono,snake
+277-26,cash1251,http://concepticon.clld.org/parameters/730,pis'ka,snake
+277-330,cash1251,http://concepticon.clld.org/parameters/206,koki,firefly
+277-183,cash1251,http://concepticon.clld.org/parameters/1791,pɨmpɨṣ̌oo,butterfly
+277-229,cash1251,http://concepticon.clld.org/parameters/1543,nočo,snail
+277-542,cash1251,http://concepticon.clld.org/parameters/1543,noβo,snail
+277-269,cash1251,http://concepticon.clld.org/parameters/503,toa,frog
+277-407,cash1251,http://concepticon.clld.org/parameters/632,ʔi'pũ ṣ̌ãkara,lizard
+277-431,cash1251,http://concepticon.clld.org/parameters/632,ṣ̌ɨ'kɨ,lizard
+277-324,cash1251,http://concepticon.clld.org/parameters/1857,ka'pɨ,"crocodile, alligator"
+277-52,cash1251,http://concepticon.clld.org/parameters/112,ṣ̌aɨ,turtle
+277-331,cash1251,http://concepticon.clld.org/parameters/763,βɨṣ̌'βi,"skin, hide"
+277-451,cash1251,http://concepticon.clld.org/parameters/763,ṣ̌a'ka,"skin, hide"
+277-194,cash1251,http://concepticon.clld.org/parameters/2259,nami,flesh
+277-597,cash1251,http://concepticon.clld.org/parameters/1040,βuu,hair (head)
+277-81,cash1251,http://concepticon.clld.org/parameters/678,kʷɨni,beard
+277-248,cash1251,http://concepticon.clld.org/parameters/189,rani,body hair
+277-326,cash1251,http://concepticon.clld.org/parameters/946,imi,blood
+277-121,cash1251,http://concepticon.clld.org/parameters/525,pono,"vein, artery"
+277-603,cash1251,http://concepticon.clld.org/parameters/1394,ṣ̌oo,bone
+277-51,cash1251,http://concepticon.clld.org/parameters/801,pu'tu,rib
+277-530,cash1251,http://concepticon.clld.org/parameters/1393,ma'tuṣ̌ka,horn
+277-639,cash1251,http://concepticon.clld.org/parameters/1220,ina,tail
+277-395,cash1251,http://concepticon.clld.org/parameters/1291,kaṣ̌o,back
+277-577,cash1251,http://concepticon.clld.org/parameters/1256,maṣ̌'ka,head
+277-273,cash1251,http://concepticon.clld.org/parameters/1256,mapuṣ̌oo,head
+277-528,cash1251,http://concepticon.clld.org/parameters/1604,ʔis'pã,"side of head, temple"
+277-508,cash1251,http://concepticon.clld.org/parameters/1583,maspui,brain
+277-536,cash1251,http://concepticon.clld.org/parameters/1560,βɨ'mana,face
+277-536,cash1251,http://concepticon.clld.org/parameters/123,βɨ'mana,forehead
+277-462,cash1251,http://concepticon.clld.org/parameters/798,kʷɨtatu,jaw
+277-598,cash1251,http://concepticon.clld.org/parameters/1730,tamo,cheek
+277-376,cash1251,http://concepticon.clld.org/parameters/1248,βɨro,eye
+277-342,cash1251,http://concepticon.clld.org/parameters/1173,βɨṣ̌ko,eyebrow
+277-341,cash1251,http://concepticon.clld.org/parameters/17,kačupa,eyelid
+277-616,cash1251,http://concepticon.clld.org/parameters/1540,βɨni,eyelash
+277-648,cash1251,http://concepticon.clld.org/parameters/1655,βɨku-ti,blink
+277-643,cash1251,http://concepticon.clld.org/parameters/1247,pa'βi,ear
+277-43,cash1251,http://concepticon.clld.org/parameters/1221,rɨ'kĩ,nose
+277-667,cash1251,http://concepticon.clld.org/parameters/208,rɨši,mucus (nasal)
+277-235,cash1251,http://concepticon.clld.org/parameters/674,kʷɨ'βi,mouth
+277-543,cash1251,http://concepticon.clld.org/parameters/73,ṣ̌ɨta,beak
+277-235,cash1251,http://concepticon.clld.org/parameters/478,kʷɨ'βi,lip
+277-298,cash1251,http://concepticon.clld.org/parameters/1205,ana,tongue
+277-543,cash1251,http://concepticon.clld.org/parameters/1380,ṣ̌ɨta,tooth
+277-62,cash1251,http://concepticon.clld.org/parameters/1347,tɨ'ṣ̌a,nape of neck
+277-254,cash1251,http://concepticon.clld.org/parameters/1346,tɨro,throat
+277-400,cash1251,http://concepticon.clld.org/parameters/1482,tɨ'kɨmpata,shoulder
+277-661,cash1251,http://concepticon.clld.org/parameters/172,pɨkʷɨ,shoulderblade
+277-290,cash1251,http://concepticon.clld.org/parameters/1673,pɨ'ɲã,arm
+277-638,cash1251,http://concepticon.clld.org/parameters/981,βãβuṣ̌u,elbow
+277-481,cash1251,http://concepticon.clld.org/parameters/799,mɨtɨkɨ,wrist
+277-199,cash1251,http://concepticon.clld.org/parameters/1277,mɨ'kɨ̃,hand
+277-677,cash1251,http://concepticon.clld.org/parameters/1183,mɨš'pa-ti,palm of hand
+277-339,cash1251,http://concepticon.clld.org/parameters/1303,mɨ'kɨ̃ pa'piti,finger
+277-215,cash1251,http://concepticon.clld.org/parameters/1258,ʔõ'c̷is,fingernail
+277-215,cash1251,http://concepticon.clld.org/parameters/72,ʔõ'c̷is,claw
+277-134,cash1251,http://concepticon.clld.org/parameters/1297,i'taṣ̌,leg
+277-185,cash1251,http://concepticon.clld.org/parameters/800,kisi,thigh
+277-124,cash1251,http://concepticon.clld.org/parameters/498,ipoko,calf of leg
+277-670,cash1251,http://concepticon.clld.org/parameters/1371,rãβoṣ̌o,knee
+277-308,cash1251,http://concepticon.clld.org/parameters/1301,taɨ,foot
+277-344,cash1251,http://concepticon.clld.org/parameters/803,taɨ či'tuṣ̌kã,ankle
+277-519,cash1251,http://concepticon.clld.org/parameters/980,taɨ c̷i'putu,heel
+277-218,cash1251,http://concepticon.clld.org/parameters/1201,pɨči,feather
+277-631,cash1251,http://concepticon.clld.org/parameters/1592,ši'kã,chest
+277-611,cash1251,http://concepticon.clld.org/parameters/1402,ṣ̌oma,breast (of woman)
+277-414,cash1251,http://concepticon.clld.org/parameters/1838,ni'tu,navel
+277-419,cash1251,http://concepticon.clld.org/parameters/1223,nuitu,heart
+277-355,cash1251,http://concepticon.clld.org/parameters/688,kaṣ̌aɨṣ̌,lung
+277-202,cash1251,http://concepticon.clld.org/parameters/1224,takʷa,liver
+277-502,cash1251,http://concepticon.clld.org/parameters/489,ta'kʷɨṣ̌,kidney
+277-48,cash1251,http://concepticon.clld.org/parameters/819,poko,stomach
+277-106,cash1251,http://concepticon.clld.org/parameters/1991,poko-ɲaru,"intestines, guts"
+277-220,cash1251,http://concepticon.clld.org/parameters/1407,o'ĩ-ti,"breathe, breath"
+277-438,cash1251,http://concepticon.clld.org/parameters/1028,ṣ̌aβa-ti,"yawn, gape"
+277-100,cash1251,http://concepticon.clld.org/parameters/162,c̷ɨ'ko-ti,hiccough
+277-556,cash1251,http://concepticon.clld.org/parameters/879,ʔoko-,cough
+277-585,cash1251,http://concepticon.clld.org/parameters/1621,ʔa'tišãki-ti,sneeze
+277-402,cash1251,http://concepticon.clld.org/parameters/126,niča-ti,perspire
+277-41,cash1251,http://concepticon.clld.org/parameters/1440,tušuka-ti,spit
+277-620,cash1251,http://concepticon.clld.org/parameters/1278,a'na-ti,vomit
+277-496,cash1251,http://concepticon.clld.org/parameters/1403,βɨ'tan-ti,bite
+277-375,cash1251,http://concepticon.clld.org/parameters/1403,na'tɨṣ̌-,bite
+277-31,cash1251,http://concepticon.clld.org/parameters/319,na'taṣ̌-ti,lick
+277-592,cash1251,http://concepticon.clld.org/parameters/268,pu'ru-ti,dribble
+277-323,cash1251,http://concepticon.clld.org/parameters/1585,ʔoṣ̌-ti,sleep
+277-411,cash1251,http://concepticon.clld.org/parameters/1983,ka'raṣ̌ki-ti,snore
+277-65,cash1251,http://concepticon.clld.org/parameters/1920,na'ma-ti,dream
+277-581,cash1251,http://concepticon.clld.org/parameters/1602,βɨ'sun-ti,wake up
+277-42,cash1251,http://concepticon.clld.org/parameters/592,i'sõ-,urinate
+277-350,cash1251,http://concepticon.clld.org/parameters/676,poi-,defecate
+277-531,cash1251,http://concepticon.clld.org/parameters/52,βɨrɨ-ti,shiver
+277-156,cash1251,http://concepticon.clld.org/parameters/138,naši-ti,bathe
+277-629,cash1251,http://concepticon.clld.org/parameters/1123,toa-,pregnant
+277-351,cash1251,http://concepticon.clld.org/parameters/1494,βama-ti,"die, dead"
+277-491,cash1251,http://concepticon.clld.org/parameters/1904,c̷uru-ti,drowned
+277-457,cash1251,http://concepticon.clld.org/parameters/1417,rɨ-ti,kill
+277-389,cash1251,http://concepticon.clld.org/parameters/1719,ma'ĩ-ti,bury (the dead)
+277-588,cash1251,http://concepticon.clld.org/parameters/785,ɲaši,"strong, mighty, powerful"
+277-417,cash1251,http://concepticon.clld.org/parameters/785,kuši,"strong, mighty, powerful"
+277-442,cash1251,http://concepticon.clld.org/parameters/1364,ču'ama,"well, health"
+277-179,cash1251,http://concepticon.clld.org/parameters/1847,ʔi'sĩ- ~ ʔĩ'sĩ,"sick, sickness"
+277-40,cash1251,http://concepticon.clld.org/parameters/1109,čãku,"wound, sore"
+277-3,cash1251,http://concepticon.clld.org/parameters/148,ṣ̌oa-,itch
+277-257,cash1251,http://concepticon.clld.org/parameters/1808,koo,pus
+277-445,cash1251,http://concepticon.clld.org/parameters/1808,kʷu,pus
+277-241,cash1251,http://concepticon.clld.org/parameters/499,pɨṣ̌ku-ti,"cure, heal"
+277-333,cash1251,http://concepticon.clld.org/parameters/499,mo'o-ti,"cure, heal"
+277-4,cash1251,http://concepticon.clld.org/parameters/1372,roo,"medicine, drug"
+277-359,cash1251,http://concepticon.clld.org/parameters/655,mu'ɨnan-ti,poison
+277-490,cash1251,http://concepticon.clld.org/parameters/655,moka,poison
+277-560,cash1251,http://concepticon.clld.org/parameters/168,tɨpi-ti,rest
+277-32,cash1251,http://concepticon.clld.org/parameters/1564,či'kiš-ti,lazy
+277-300,cash1251,http://concepticon.clld.org/parameters/1125,maru-ti,bald
+277-145,cash1251,http://concepticon.clld.org/parameters/320,ra'tun-ti,lame
+277-590,cash1251,http://concepticon.clld.org/parameters/996,paβɨ,deaf
+277-67,cash1251,http://concepticon.clld.org/parameters/996,pato,deaf
+277-88,cash1251,http://concepticon.clld.org/parameters/1666,an'tanama,mute
+277-484,cash1251,http://concepticon.clld.org/parameters/1463,pa'ɨ̃-ti,intoxicated
+277-252,cash1251,http://concepticon.clld.org/parameters/1336,pi-ti,eat
+277-284,cash1251,http://concepticon.clld.org/parameters/1336,ko-,eat
+277-418,cash1251,http://concepticon.clld.org/parameters/256,piti,food
+277-515,cash1251,http://concepticon.clld.org/parameters/1959,paṣ̌a,raw
+277-618,cash1251,http://concepticon.clld.org/parameters/178,pɨ'kɨ-ti,ripe
+277-515,cash1251,http://concepticon.clld.org/parameters/1958,paṣ̌a,"green, unripe"
+277-663,cash1251,http://concepticon.clld.org/parameters/1958,ṣ̌oo,"green, unripe"
+277-392,cash1251,http://concepticon.clld.org/parameters/1728,pisi,rotten
+277-545,cash1251,http://concepticon.clld.org/parameters/1401,šɨa-,drink
+277-654,cash1251,http://concepticon.clld.org/parameters/1533,pa'anan-ti,hunger
+277-227,cash1251,http://concepticon.clld.org/parameters/848,šima-ti,thirst
+277-68,cash1251,http://concepticon.clld.org/parameters/1421,ʔoɲoka-ti,suck
+277-128,cash1251,http://concepticon.clld.org/parameters/321,ča'kuka-ti,chew
+277-73,cash1251,http://concepticon.clld.org/parameters/897,ʔee-ti,swallow
+277-562,cash1251,http://concepticon.clld.org/parameters/1100,ʔaru-ti,cook
+277-472,cash1251,http://concepticon.clld.org/parameters/792,kukaka-ti,boil (vb)
+277-644,cash1251,http://concepticon.clld.org/parameters/792,ko'βĩ,boil (vb)
+277-15,cash1251,http://concepticon.clld.org/parameters/2146,ṣ̌oi-ti,"roast, fry"
+277-475,cash1251,http://concepticon.clld.org/parameters/1462,ɲutɨ,"pot, cooking vessel"
+277-132,cash1251,http://concepticon.clld.org/parameters/1462,manɨ kɨ̃ti,"pot, cooking vessel"
+277-155,cash1251,http://concepticon.clld.org/parameters/480,kɨ̃'ča,plate
+277-155,cash1251,http://concepticon.clld.org/parameters/1530,kɨ̃'ča,bowl
+277-187,cash1251,http://concepticon.clld.org/parameters/1352,či'čika,knife (2)
+277-621,cash1251,http://concepticon.clld.org/parameters/1526,čitɨ,meal (a)
+277-5,cash1251,http://concepticon.clld.org/parameters/275,ṣ̌oka-ti,peel
+277-280,cash1251,http://concepticon.clld.org/parameters/275,ṣ̌o'ko-,peel
+277-582,cash1251,http://concepticon.clld.org/parameters/86,toati,"sieve, strain"
+277-25,cash1251,http://concepticon.clld.org/parameters/1767,tɨrɨ-ti,scrape
+277-291,cash1251,http://concepticon.clld.org/parameters/2017,ka'ɨn-ti,"stir, mix"
+277-177,cash1251,http://concepticon.clld.org/parameters/273,maṣ̌ɨ ɲaru,dough
+277-264,cash1251,http://concepticon.clld.org/parameters/274,ma'paska-ti,knead
+277-309,cash1251,http://concepticon.clld.org/parameters/1033,rɨ̃-ti,"crush, grind"
+277-194,cash1251,http://concepticon.clld.org/parameters/634,nami,meat
+277-433,cash1251,http://concepticon.clld.org/parameters/593,poa,potato
+277-7,cash1251,http://concepticon.clld.org/parameters/1507,βimi,fruit
+277-95,cash1251,http://concepticon.clld.org/parameters/1484,ṣ̌ɨni,oil
+277-255,cash1251,http://concepticon.clld.org/parameters/323,ṣ̌ɨni,"grease, fat"
+277-335,cash1251,http://concepticon.clld.org/parameters/1274,taši,salt
+277-482,cash1251,http://concepticon.clld.org/parameters/1274,ta'šĩ-ti,salt
+277-650,cash1251,http://concepticon.clld.org/parameters/942,rɨpa,honey
+277-611,cash1251,http://concepticon.clld.org/parameters/635,ṣ̌oma,milk (noun)
+277-460,cash1251,http://concepticon.clld.org/parameters/744,βac̷i,egg
+277-9,cash1251,http://concepticon.clld.org/parameters/158,paɲu-ti,put on (clothes)
+277-159,cash1251,http://concepticon.clld.org/parameters/1895,čupa,"clothing, clothes"
+277-674,cash1251,http://concepticon.clld.org/parameters/1895,ha'pa,"clothing, clothes"
+277-266,cash1251,http://concepticon.clld.org/parameters/1616,čopa,cloth
+277-674,cash1251,http://concepticon.clld.org/parameters/1616,ha'pa,cloth
+277-274,cash1251,http://concepticon.clld.org/parameters/1850,ṣ̌apo,cotton
+277-248,cash1251,http://concepticon.clld.org/parameters/580,rani,fur
+277-126,cash1251,http://concepticon.clld.org/parameters/580,ṣ̌o'po,fur
+277-312,cash1251,http://concepticon.clld.org/parameters/121,sɨ'ɨka-ti,spin
+277-317,cash1251,http://concepticon.clld.org/parameters/277,ʔii čɨ'ɨṣ̌,spindle
+277-240,cash1251,http://concepticon.clld.org/parameters/133,βu'kɨ-ti,weave
+277-267,cash1251,http://concepticon.clld.org/parameters/1457,kɨṣ̌ɨ-,sew
+277-169,cash1251,http://concepticon.clld.org/parameters/1457,ʔunu-ti,sew
+277-583,cash1251,http://concepticon.clld.org/parameters/1382,ṣ̌o'moṣ̌,needle
+277-108,cash1251,http://concepticon.clld.org/parameters/1161,kʷɨ'õ,thread
+277-21,cash1251,http://concepticon.clld.org/parameters/1161,risi,thread
+277-315,cash1251,http://concepticon.clld.org/parameters/1161,ɲo'mã,thread
+277-6,cash1251,http://concepticon.clld.org/parameters/326,kata,cloak
+277-640,cash1251,http://concepticon.clld.org/parameters/474,tari,woman's dress
+277-35,cash1251,http://concepticon.clld.org/parameters/1622,ku'tũ,shirt
+277-465,cash1251,http://concepticon.clld.org/parameters/328,rii,grass-skirt
+277-110,cash1251,http://concepticon.clld.org/parameters/1381,taṣ̌aka,shoe
+277-302,cash1251,http://concepticon.clld.org/parameters/2130,maɲo-ti,"hat, cap"
+277-476,cash1251,http://concepticon.clld.org/parameters/772,c̷itɨkɨrɨkiti,"belt, girdle"
+277-425,cash1251,http://concepticon.clld.org/parameters/917,ʔũṣ̌ɨ,"ornament, adornment"
+277-374,cash1251,http://concepticon.clld.org/parameters/1374,mɨɲuti,ring (for finger)
+277-554,cash1251,http://concepticon.clld.org/parameters/1860,muru,bead
+277-302,cash1251,http://concepticon.clld.org/parameters/330,maɲo-ti,"headband, headdress"
+277-399,cash1251,http://concepticon.clld.org/parameters/332,pa'ɲũ,"handkerchief, rag"
+277-473,cash1251,http://concepticon.clld.org/parameters/1475,βuuṣ̌ɨti,comb
+277-27,cash1251,http://concepticon.clld.org/parameters/1099,βuku-ti,"dwell, live"
+277-204,cash1251,http://concepticon.clld.org/parameters/1252,ṣ̌oβo,house
+277-566,cash1251,http://concepticon.clld.org/parameters/1252,ma'pũkɨ,house
+277-499,cash1251,http://concepticon.clld.org/parameters/1567,ṣ̌ɨkʷɨ,"door, gate"
+277-499,cash1251,http://concepticon.clld.org/parameters/1375,ṣ̌ɨkʷɨ,window
+277-23,cash1251,http://concepticon.clld.org/parameters/185,ʔiti,fireplace
+277-151,cash1251,http://concepticon.clld.org/parameters/1464,ʔu'kairi,ladder
+277-262,cash1251,http://concepticon.clld.org/parameters/1464,tapiti,ladder
+277-441,cash1251,http://concepticon.clld.org/parameters/1476,kʷɨ'nã,chair
+277-671,cash1251,http://concepticon.clld.org/parameters/1273,c̷ii,candle
+277-157,cash1251,http://concepticon.clld.org/parameters/205,ṣ̌aṣ̌o,trough
+277-236,cash1251,http://concepticon.clld.org/parameters/769,masku'ã,roof
+277-56,cash1251,http://concepticon.clld.org/parameters/279,ṣ̌ɨo,thatch
+277-219,cash1251,http://concepticon.clld.org/parameters/280,tɨsku'ã,ridgepole
+277-641,cash1251,http://concepticon.clld.org/parameters/829,kanu,rafter
+277-641,cash1251,http://concepticon.clld.org/parameters/1132,kanu,beam
+277-464,cash1251,http://concepticon.clld.org/parameters/281,ii,"post, pole"
+277-268,cash1251,http://concepticon.clld.org/parameters/876,kanti,arch
+277-468,cash1251,http://concepticon.clld.org/parameters/212,naɨ,field (for cultivation)
+277-468,cash1251,http://concepticon.clld.org/parameters/586,naɨ,garden
+277-329,cash1251,http://concepticon.clld.org/parameters/1541,naɨ-ti,"cultivate, till"
+277-329,cash1251,http://concepticon.clld.org/parameters/1418,naɨ-ti,dig
+277-115,cash1251,http://concepticon.clld.org/parameters/748,ʔa'pa-ti,sow
+277-373,cash1251,http://concepticon.clld.org/parameters/714,βɨru,seed
+277-125,cash1251,http://concepticon.clld.org/parameters/285,ṣ̌ɨmɨ-ti,thresh
+277-415,cash1251,http://concepticon.clld.org/parameters/506,ṣ̌ɨki,"maize, corn"
+277-36,cash1251,http://concepticon.clld.org/parameters/606,βasi,grass
+277-117,cash1251,http://concepticon.clld.org/parameters/606,čuku,grass
+277-369,cash1251,http://concepticon.clld.org/parameters/606,ṣ̌uβi,grass
+277-4,cash1251,http://concepticon.clld.org/parameters/653,roo,plant (noun)
+277-589,cash1251,http://concepticon.clld.org/parameters/670,ta'põ,root
+277-245,cash1251,http://concepticon.clld.org/parameters/1531,paṣ̌ko,branch
+277-546,cash1251,http://concepticon.clld.org/parameters/628,pɨi,leaf
+277-218,cash1251,http://concepticon.clld.org/parameters/628,pɨči,leaf
+277-576,cash1251,http://concepticon.clld.org/parameters/239,oa,flower
+277-464,cash1251,http://concepticon.clld.org/parameters/906,ii,tree
+277-371,cash1251,http://concepticon.clld.org/parameters/343,nisi,vine
+277-573,cash1251,http://concepticon.clld.org/parameters/343,ic̷i,vine
+277-672,cash1251,http://concepticon.clld.org/parameters/974,romɨ,tobacco
+277-413,cash1251,http://concepticon.clld.org/parameters/241,βo'ro,tree stump
+277-364,cash1251,http://concepticon.clld.org/parameters/344,moo,tree trunk
+277-439,cash1251,http://concepticon.clld.org/parameters/344,βu'ru,tree trunk
+277-385,cash1251,http://concepticon.clld.org/parameters/1204,ṣ̌a'ka,bark
+277-193,cash1251,http://concepticon.clld.org/parameters/345,βɨ'pĩ,sap
+277-452,cash1251,http://concepticon.clld.org/parameters/1181,βi'nõ,palm tree
+277-367,cash1251,http://concepticon.clld.org/parameters/1181,ũ'čoõ,palm tree
+277-101,cash1251,http://concepticon.clld.org/parameters/1181,βa'nĩ,palm tree
+277-49,cash1251,http://concepticon.clld.org/parameters/868,no'õsi,banana tree
+277-307,cash1251,http://concepticon.clld.org/parameters/159,kari,sweet potato
+277-354,cash1251,http://concepticon.clld.org/parameters/925,ʔac̷a,"tapioca, manioc, cassava"
+277-122,cash1251,http://concepticon.clld.org/parameters/411,ṣ̌ampa,gourd
+277-261,cash1251,http://concepticon.clld.org/parameters/411,ṣ̌o'pã,gourd
+277-119,cash1251,http://concepticon.clld.org/parameters/411,ma'sɨ̃,gourd
+277-579,cash1251,http://concepticon.clld.org/parameters/864,βa'rã,"pumpkin, squash"
+277-613,cash1251,http://concepticon.clld.org/parameters/1927,paka,bamboo
+277-270,cash1251,http://concepticon.clld.org/parameters/1927,too,bamboo
+277-223,cash1251,http://concepticon.clld.org/parameters/146,ṣ̌ai,sugar cane
+277-540,cash1251,http://concepticon.clld.org/parameters/348,ʔa'ṣ̌ã-ti,fish poison (root)
+277-565,cash1251,http://concepticon.clld.org/parameters/33,muɨ,nettle
+277-168,cash1251,http://concepticon.clld.org/parameters/641,kono,mushroom
+277-558,cash1251,http://concepticon.clld.org/parameters/641,ču'rã,mushroom
+277-213,cash1251,http://concepticon.clld.org/parameters/813,ʔa-ti,"do, make"
+277-658,cash1251,http://concepticon.clld.org/parameters/813,o-ti,"do, make"
+277-435,cash1251,http://concepticon.clld.org/parameters/984,ɲuu mɨɨti,work
+277-253,cash1251,http://concepticon.clld.org/parameters/2004,tɨn'tun-ti,bend
+277-207,cash1251,http://concepticon.clld.org/parameters/1470,ka'pun-ti,fold
+277-564,cash1251,http://concepticon.clld.org/parameters/1917,nɨa-ti,"tie, bind"
+277-534,cash1251,http://concepticon.clld.org/parameters/352,tuβu-ti,untie
+277-371,cash1251,http://concepticon.clld.org/parameters/1218,nisi,"rope, cord"
+277-54,cash1251,http://concepticon.clld.org/parameters/760,βɨ'kaṣ̌ati,knot (noun)
+277-214,cash1251,http://concepticon.clld.org/parameters/2133,pɨ'ɨ̃ka-ti,"strike (hit, beat)"
+277-173,cash1251,http://concepticon.clld.org/parameters/1432,tuka-ti,cut
+277-113,cash1251,http://concepticon.clld.org/parameters/355,βɨ'u-ti,cut down
+277-136,cash1251,http://concepticon.clld.org/parameters/1434,čači-,stab
+277-187,cash1251,http://concepticon.clld.org/parameters/1352,či'čika,knife
+277-569,cash1251,http://concepticon.clld.org/parameters/677,roɨ,ax
+277-153,cash1251,http://concepticon.clld.org/parameters/677,manɨ,ax
+277-147,cash1251,http://concepticon.clld.org/parameters/680,tɨ'kɨn-ti,break
+277-173,cash1251,http://concepticon.clld.org/parameters/1437,tuka-ti,split
+277-238,cash1251,http://concepticon.clld.org/parameters/1735,na'raska-ti,tear
+277-447,cash1251,http://concepticon.clld.org/parameters/1449,pɨča-ti,"rub, wipe"
+277-226,cash1251,http://concepticon.clld.org/parameters/1455,nĩ-ti,pull
+277-623,cash1251,http://concepticon.clld.org/parameters/38,c̷u'aka-ti,spread out
+277-622,cash1251,http://concepticon.clld.org/parameters/357,βɨn'tan-ti,hang up
+277-489,cash1251,http://concepticon.clld.org/parameters/357,sa'nã-,hang up
+277-503,cash1251,http://concepticon.clld.org/parameters/1913,či'nin-ti,press
+277-512,cash1251,http://concepticon.clld.org/parameters/1414,βi'taṣ̌-ti,"squeeze, wring"
+277-150,cash1251,http://concepticon.clld.org/parameters/1414,čɨ'ɨka-ti,"squeeze, wring"
+277-408,cash1251,http://concepticon.clld.org/parameters/1487,tu'uski-ti,pour
+277-206,cash1251,http://concepticon.clld.org/parameters/1453,čoka-ti,wash
+277-222,cash1251,http://concepticon.clld.org/parameters/230,ma'c̷o-,sweep
+277-258,cash1251,http://concepticon.clld.org/parameters/230,ma'ɨn-ti,sweep
+277-358,cash1251,http://concepticon.clld.org/parameters/1481,sɨkʷɨrɨnti,hammer
+277-231,cash1251,http://concepticon.clld.org/parameters/502,ma'tas-ti,nail
+277-162,cash1251,http://concepticon.clld.org/parameters/1369,kuri,gold
+277-13,cash1251,http://concepticon.clld.org/parameters/1399,ma'po,clay
+277-240,cash1251,http://concepticon.clld.org/parameters/1729,βu'kɨ-ti,"weave, plait"
+277-64,cash1251,http://concepticon.clld.org/parameters/1539,ka'kã,basket
+277-141,cash1251,http://concepticon.clld.org/parameters/1539,ta'sa,basket
+277-605,cash1251,http://concepticon.clld.org/parameters/195,pi'ši,mat
+277-12,cash1251,http://concepticon.clld.org/parameters/293,piša,netbag
+277-557,cash1251,http://concepticon.clld.org/parameters/360,βɨkati,fan (vb)
+277-138,cash1251,http://concepticon.clld.org/parameters/228,ra'ta-ti,carve
+277-436,cash1251,http://concepticon.clld.org/parameters/2001,roo-ti,paint (vb)
+277-336,cash1251,http://concepticon.clld.org/parameters/765,βɨana-ti,move
+277-567,cash1251,http://concepticon.clld.org/parameters/1588,βɨuna-ti,turn over
+277-139,cash1251,http://concepticon.clld.org/parameters/1445,maia-ti,turn around
+277-440,cash1251,http://concepticon.clld.org/parameters/1113,ta'aṣ̌kɨ-ti,"wind, wrap"
+277-174,cash1251,http://concepticon.clld.org/parameters/1113,ra'βun-ti,"wind, wrap"
+277-568,cash1251,http://concepticon.clld.org/parameters/827,ta'rã-,roll
+277-209,cash1251,http://concepticon.clld.org/parameters/430,tɨn'tuan-ti,twist
+277-271,cash1251,http://concepticon.clld.org/parameters/501,βa'aka-ti,"raise, lift"
+277-272,cash1251,http://concepticon.clld.org/parameters/1280,nipakɨ-ti,fall
+277-592,cash1251,http://concepticon.clld.org/parameters/2253,pu'ru-ti,drip
+277-444,cash1251,http://concepticon.clld.org/parameters/1456,po-,throw
+277-10,cash1251,http://concepticon.clld.org/parameters/702,βi-ti,catch (ball)
+277-246,cash1251,http://concepticon.clld.org/parameters/1909,taka-ti,shake
+277-362,cash1251,http://concepticon.clld.org/parameters/2003,ši'oβu-ti,flow
+277-178,cash1251,http://concepticon.clld.org/parameters/1088,nanɨ-ti,sink
+277-19,cash1251,http://concepticon.clld.org/parameters/1439,mɨɲo-ti,swim
+277-608,cash1251,http://concepticon.clld.org/parameters/1441,no'ã-ti,fly (vb)
+277-600,cash1251,http://concepticon.clld.org/parameters/175,rɨɨka-ti,blow
+277-172,cash1251,http://concepticon.clld.org/parameters/96,čãkɨ-ti,"creep, crawl"
+277-287,cash1251,http://concepticon.clld.org/parameters/96,mɨṣ̌o-,"creep, crawl"
+277-123,cash1251,http://concepticon.clld.org/parameters/66,rantipu'run-ti,kneel
+277-200,cash1251,http://concepticon.clld.org/parameters/296,ka'tu-ti,crouch
+277-72,cash1251,http://concepticon.clld.org/parameters/1324,tuɲu,"slide, slip"
+277-544,cash1251,http://concepticon.clld.org/parameters/1829,ma'ča-ti,"jump, leap"
+277-131,cash1251,http://concepticon.clld.org/parameters/1135,či'taška-ti,kick
+277-224,cash1251,http://concepticon.clld.org/parameters/1443,niti,walk
+277-97,cash1251,http://concepticon.clld.org/parameters/1519,a'βa-ti,run
+277-93,cash1251,http://concepticon.clld.org/parameters/695,kʷan-ti,go
+277-84,cash1251,http://concepticon.clld.org/parameters/695,ino-,go
+277-504,cash1251,http://concepticon.clld.org/parameters/705,ro'on-ti,go up
+277-455,cash1251,http://concepticon.clld.org/parameters/1102,'mapɨra'kɨ-ti,climb
+277-137,cash1251,http://concepticon.clld.org/parameters/2014,ʔi'βu-ti,go down
+277-653,cash1251,http://concepticon.clld.org/parameters/1107,či'ki-ti,go out
+277-658,cash1251,http://concepticon.clld.org/parameters/1446,o-ti,come
+277-98,cash1251,http://concepticon.clld.org/parameters/581,nirakɨ-ti,come back
+277-649,cash1251,http://concepticon.clld.org/parameters/1752,ɨn-ti,"go away, depart"
+277-370,cash1251,http://concepticon.clld.org/parameters/485,nɨ'tɨ-ti,disappear
+277-555,cash1251,http://concepticon.clld.org/parameters/956,tam'pɨ-ti,flee
+277-301,cash1251,http://concepticon.clld.org/parameters/1085,noi-ti,follow
+277-584,cash1251,http://concepticon.clld.org/parameters/1047,βɨc̷i βɨc̷i o-ti,pursue
+277-432,cash1251,http://concepticon.clld.org/parameters/1387,βɨβa-ti,"reach, arrive"
+277-50,cash1251,http://concepticon.clld.org/parameters/1778,čiča-ti,approach
+277-295,cash1251,http://concepticon.clld.org/parameters/749,a'c̷in-ti,enter
+277-627,cash1251,http://concepticon.clld.org/parameters/700,βu'an-ti,carry (bear)
+277-505,cash1251,http://concepticon.clld.org/parameters/700,βu'in-ti,carry (bear)
+277-60,cash1251,http://concepticon.clld.org/parameters/413,ʔi'a-ti,carry-on-shoulder
+277-180,cash1251,http://concepticon.clld.org/parameters/692,βɨ-ti,bring
+277-434,cash1251,http://concepticon.clld.org/parameters/741,či'βi-ti,drive
+277-547,cash1251,http://concepticon.clld.org/parameters/1452,c̷iraka'na-ti,"push, shove"
+277-405,cash1251,http://concepticon.clld.org/parameters/667,βai,road
+277-405,cash1251,http://concepticon.clld.org/parameters/2252,βai,path
+277-446,cash1251,http://concepticon.clld.org/parameters/122,ɲuu ni'rĩ-βiãkĩ βu'anti,"carriage, wagon, cart"
+277-596,cash1251,http://concepticon.clld.org/parameters/1970,nõti,canoe
+277-30,cash1251,http://concepticon.clld.org/parameters/234,ina-ti,paddle (noun)
+277-348,cash1251,http://concepticon.clld.org/parameters/1849,ĩa-ti,row (vb)
+277-283,cash1251,http://concepticon.clld.org/parameters/684,ʔaraka-ti,"own, possess"
+277-192,cash1251,http://concepticon.clld.org/parameters/1749,kʷa'aṣ̌ka-ti,take
+277-61,cash1251,http://concepticon.clld.org/parameters/2021,ṣ̌ɨɲu-ti,"seize, grasp"
+277-149,cash1251,http://concepticon.clld.org/parameters/1448,tuĩ-ti,hold
+277-548,cash1251,http://concepticon.clld.org/parameters/694,βi-,"get, obtain"
+277-170,cash1251,http://concepticon.clld.org/parameters/1477,no'on-ti,"keep, retain"
+277-412,cash1251,http://concepticon.clld.org/parameters/738,ɲuu,thing
+277-325,cash1251,http://concepticon.clld.org/parameters/1447,ʔi'nan-ti,give
+277-205,cash1251,http://concepticon.clld.org/parameters/1468,βari-ti,"seek, look for"
+277-77,cash1251,http://concepticon.clld.org/parameters/719,mɨra-ti,find
+277-381,cash1251,http://concepticon.clld.org/parameters/1095,či'kin-ti,"release, let go"
+277-360,cash1251,http://concepticon.clld.org/parameters/1095,ɨ̃-,"release, let go"
+277-228,cash1251,http://concepticon.clld.org/parameters/1559,ku'riki,money
+277-525,cash1251,http://concepticon.clld.org/parameters/718,ko'pi-,pay (vb)
+277-328,cash1251,http://concepticon.clld.org/parameters/1426,ko'pi,"dear (costly, expensive)"
+277-86,cash1251,http://concepticon.clld.org/parameters/884,mɨ'su-ti,share (distribute)
+277-552,cash1251,http://concepticon.clld.org/parameters/723,ta'ni-ti,behind
+277-500,cash1251,http://concepticon.clld.org/parameters/1326,ši'mu,"down, below"
+277-126,cash1251,http://concepticon.clld.org/parameters/1326,ṣ̌o'po,"down, below"
+277-243,cash1251,http://concepticon.clld.org/parameters/762,ɨ'mã,outside
+277-277,cash1251,http://concepticon.clld.org/parameters/1485,tɨ'muu,under
+277-404,cash1251,http://concepticon.clld.org/parameters/1485,ta'naĩ,under
+277-263,cash1251,http://concepticon.clld.org/parameters/1485,na'mã,under
+277-99,cash1251,http://concepticon.clld.org/parameters/1591,ma'nã,"up, above"
+277-562,cash1251,http://concepticon.clld.org/parameters/998,ʔaru-ti,put
+277-340,cash1251,http://concepticon.clld.org/parameters/1416,c̷o'o-ti,sit
+277-90,cash1251,http://concepticon.clld.org/parameters/215,ra'ka-ti,lie down
+277-461,cash1251,http://concepticon.clld.org/parameters/1442,ni-,stand
+277-109,cash1251,http://concepticon.clld.org/parameters/1442,niru-ti,stand
+277-45,cash1251,http://concepticon.clld.org/parameters/987,βɨ'run-ti,"remain, stay"
+277-74,cash1251,http://concepticon.clld.org/parameters/1576,βu'kun-ti,pile up
+277-352,cash1251,http://concepticon.clld.org/parameters/1743,rɨčio-ti,"join, unite"
+277-501,cash1251,http://concepticon.clld.org/parameters/1119,tɨ'kɨ̃,divide
+277-459,cash1251,http://concepticon.clld.org/parameters/1156,βɨ'oka-ti,open
+277-37,cash1251,http://concepticon.clld.org/parameters/1046,βɨ'tas-ti,"shut, close"
+277-289,cash1251,http://concepticon.clld.org/parameters/761,ma'pu-ti,cover
+277-230,cash1251,http://concepticon.clld.org/parameters/602,onɨ-ti,"hide, conceal"
+277-652,cash1251,http://concepticon.clld.org/parameters/742,c̷i'pũ,end
+277-275,cash1251,http://concepticon.clld.org/parameters/863,i'βɨ̃,edge
+277-403,cash1251,http://concepticon.clld.org/parameters/682,rapasu,side
+277-646,cash1251,http://concepticon.clld.org/parameters/1093,napo,"middle, center"
+277-662,cash1251,http://concepticon.clld.org/parameters/1019,mɨ'kɨ̃kʷe ~ mɨkʷe,right (side)
+277-211,cash1251,http://concepticon.clld.org/parameters/1406,ʔura,far (adv)
+277-285,cash1251,http://concepticon.clld.org/parameters/479,kani-ti,grow
+277-152,cash1251,http://concepticon.clld.org/parameters/1202,čaa,"large, big"
+277-591,cash1251,http://concepticon.clld.org/parameters/1202,ʔɨo,"large, big"
+277-111,cash1251,http://concepticon.clld.org/parameters/1246,ču'kuma,"small, little"
+277-87,cash1251,http://concepticon.clld.org/parameters/1203,čaṣ̌'kɨ,long
+277-87,cash1251,http://concepticon.clld.org/parameters/711,čaṣ̌'kɨ,tall
+277-535,cash1251,http://concepticon.clld.org/parameters/1645,mɨ'tu,short
+277-448,cash1251,http://concepticon.clld.org/parameters/1243,pa'ruša,"wide, broad"
+277-422,cash1251,http://concepticon.clld.org/parameters/1267,antupɨ,narrow
+277-539,cash1251,http://concepticon.clld.org/parameters/1244,kɨṣ̌'to,thick (in dimension)
+277-372,cash1251,http://concepticon.clld.org/parameters/1400,βɨ̃'c̷ĩ,thin (in dimension)
+277-140,cash1251,http://concepticon.clld.org/parameters/1593,nɨ'mĩ,deep
+277-514,cash1251,http://concepticon.clld.org/parameters/1633,sa'pã,flat
+277-494,cash1251,http://concepticon.clld.org/parameters/1404,pũkuɲumarua,straight
+277-673,cash1251,http://concepticon.clld.org/parameters/192,ʔipasu,corner
+277-75,cash1251,http://concepticon.clld.org/parameters/1395,ma'mua,round
+277-288,cash1251,http://concepticon.clld.org/parameters/1667,kini,hole
+277-85,cash1251,http://concepticon.clld.org/parameters/1294,ɲã'kãβi,"zero, nothing"
+277-396,cash1251,http://concepticon.clld.org/parameters/1515,'a'čuuši,one
+277-16,cash1251,http://concepticon.clld.org/parameters/1498,ra'βɨ,two
+277-666,cash1251,http://concepticon.clld.org/parameters/492,kimiša,three
+277-76,cash1251,http://concepticon.clld.org/parameters/98,kamaβi,"every, all"
+277-656,cash1251,http://concepticon.clld.org/parameters/1198,ʔic̷a,"much, many"
+277-161,cash1251,http://concepticon.clld.org/parameters/1198,ɨṣ̌ku,"much, many"
+277-456,cash1251,http://concepticon.clld.org/parameters/1242,tɨṣ̌ɨ,"little (quantity), few"
+277-497,cash1251,http://concepticon.clld.org/parameters/2023,c̷i'c̷i-ti,"multitude, crowd"
+277-420,cash1251,http://concepticon.clld.org/parameters/779,pa'na,"part, piece"
+277-1,cash1251,http://concepticon.clld.org/parameters/816,pu'šĩ,half
+277-242,cash1251,http://concepticon.clld.org/parameters/1580,kuni,"alone, only"
+277-28,cash1251,http://concepticon.clld.org/parameters/728,pa'ĩ,first
+277-78,cash1251,http://concepticon.clld.org/parameters/1231,i'o,new
+277-22,cash1251,http://concepticon.clld.org/parameters/1207,ʔa'naka,young
+277-255,cash1251,http://concepticon.clld.org/parameters/1229,ṣ̌ɨni,old
+277-586,cash1251,http://concepticon.clld.org/parameters/672,βɨ'rama,early
+277-651,cash1251,http://concepticon.clld.org/parameters/1376,βɨ'ri,now
+277-29,cash1251,http://concepticon.clld.org/parameters/1631,βi'raβirati,"swift, fast, quick"
+277-368,cash1251,http://concepticon.clld.org/parameters/701,munu,slow
+277-574,cash1251,http://concepticon.clld.org/parameters/754,βɨnɨ-ti,"hasten, hurry"
+277-47,cash1251,http://concepticon.clld.org/parameters/425,pa'na-ti,"retard, delay"
+277-365,cash1251,http://concepticon.clld.org/parameters/1806,ṣ̌amoo-ti,"begin, beginning"
+277-239,cash1251,http://concepticon.clld.org/parameters/1766,ãkɨ-ti,finish
+277-607,cash1251,http://concepticon.clld.org/parameters/1766,kɨɲo-,finish
+277-116,cash1251,http://concepticon.clld.org/parameters/418,ʔu'rã,long-time (for a)
+277-294,cash1251,http://concepticon.clld.org/parameters/1260,nɨtɨ,day
+277-647,cash1251,http://concepticon.clld.org/parameters/1233,i'mɨ,night
+277-129,cash1251,http://concepticon.clld.org/parameters/1807,ɲã'tã,afternoon
+277-651,cash1251,http://concepticon.clld.org/parameters/1283,βɨ'ri,today
+277-148,cash1251,http://concepticon.clld.org/parameters/1329,i'mɨiši,tomorrow
+277-148,cash1251,http://concepticon.clld.org/parameters/1174,i'mɨiši,yesterday
+277-391,cash1251,http://concepticon.clld.org/parameters/1370,ʔoṣ̌ɨ,month
+277-427,cash1251,http://concepticon.clld.org/parameters/1226,βaritia,year
+277-427,cash1251,http://concepticon.clld.org/parameters/1342,βaritia,summer
+277-563,cash1251,http://concepticon.clld.org/parameters/1587,ṣ̌ɨ-ti,smell (vb intrans)
+277-39,cash1251,http://concepticon.clld.org/parameters/375,ṣ̌ɨ-,sniff
+277-563,cash1251,http://concepticon.clld.org/parameters/1586,ṣ̌ɨ-ti,smell (vb trans)
+277-466,cash1251,http://concepticon.clld.org/parameters/376,ia,"fragrant, good smelling"
+277-392,cash1251,http://concepticon.clld.org/parameters/42,pisi,"stinking, bad smelling"
+277-469,cash1251,http://concepticon.clld.org/parameters/21,nɨ'iš,taste
+277-322,cash1251,http://concepticon.clld.org/parameters/21,tã-,taste
+277-410,cash1251,http://concepticon.clld.org/parameters/717,βata,sweet
+277-490,cash1251,http://concepticon.clld.org/parameters/887,moka,bitter
+277-516,cash1251,http://concepticon.clld.org/parameters/1906,kača,"acid, sour"
+277-314,cash1251,http://concepticon.clld.org/parameters/1408,kʷa-ti,hear
+277-523,cash1251,http://concepticon.clld.org/parameters/1608,tɨsɨ-ti,listen
+277-517,cash1251,http://concepticon.clld.org/parameters/1409,is-ti,see
+277-176,cash1251,http://concepticon.clld.org/parameters/1039,mɨ'tun-ti,show
+277-296,cash1251,http://concepticon.clld.org/parameters/708,i'ču-ti,shine
+277-353,cash1251,http://concepticon.clld.org/parameters/679,'čaβa'čaβakikɨ,bright
+277-532,cash1251,http://concepticon.clld.org/parameters/1613,rɨ'puškɨ'rɨɲu,color
+277-225,cash1251,http://concepticon.clld.org/parameters/1335,oṣ̌o,white
+277-154,cash1251,http://concepticon.clld.org/parameters/163,to'nã,black
+277-278,cash1251,http://concepticon.clld.org/parameters/1424,pã'šĩã,yellow
+277-334,cash1251,http://concepticon.clld.org/parameters/1892,mɨɨ-ti,touch
+277-70,cash1251,http://concepticon.clld.org/parameters/378,ʔu'tɨṣ̌-ti,pinch
+277-394,cash1251,http://concepticon.clld.org/parameters/1884,iru,hard
+277-221,cash1251,http://concepticon.clld.org/parameters/1884,kɨrɨ,hard
+277-533,cash1251,http://concepticon.clld.org/parameters/1856,βaču,soft
+277-44,cash1251,http://concepticon.clld.org/parameters/1396,kʷɨno-,sharp
+277-487,cash1251,http://concepticon.clld.org/parameters/1210,ʔiɨ,heavy
+277-146,cash1251,http://concepticon.clld.org/parameters/1052,ṣ̌a'nũ,light (in weight)
+277-11,cash1251,http://concepticon.clld.org/parameters/1726,ča'βa-,"wet, damp"
+277-186,cash1251,http://concepticon.clld.org/parameters/1398,ɨ'ɨska-ti,dry
+277-127,cash1251,http://concepticon.clld.org/parameters/1286,ʔi'c̷is,hot
+277-233,cash1251,http://concepticon.clld.org/parameters/1287,mac̷i,cold
+277-409,cash1251,http://concepticon.clld.org/parameters/1287,maṣ̌ɨṣ̌,cold
+277-524,cash1251,http://concepticon.clld.org/parameters/704,tɨ'ɨkɨ,clean
+277-143,cash1251,http://concepticon.clld.org/parameters/1230,mɨ'paski-ti,"dirty, soiled"
+277-96,cash1251,http://concepticon.clld.org/parameters/380,sɨ'rɨ,wrinkled
+277-38,cash1251,http://concepticon.clld.org/parameters/53,βɨru ɲu'šĩ,"soul, spirit"
+277-442,cash1251,http://concepticon.clld.org/parameters/1495,ču'ama,"joyful, glad, happy"
+277-24,cash1251,http://concepticon.clld.org/parameters/1495,mi'a,"joyful, glad, happy"
+277-201,cash1251,http://concepticon.clld.org/parameters/1355,ʔo'sã,laugh
+277-520,cash1251,http://concepticon.clld.org/parameters/1451,ʔo's ̃a-,smile
+277-382,cash1251,http://concepticon.clld.org/parameters/1413,kʷai-ti,play
+277-304,cash1251,http://concepticon.clld.org/parameters/923,kʷɨ'ɨn-ti,love
+277-379,cash1251,http://concepticon.clld.org/parameters/923,noi-,love
+277-89,cash1251,http://concepticon.clld.org/parameters/578,βɨc̷ukuka-ti,kiss
+277-71,cash1251,http://concepticon.clld.org/parameters/928,ʔi'ku-ti,embrace
+277-626,cash1251,http://concepticon.clld.org/parameters/1668,u'tɨn-ti,"grief, sorrow, sadness"
+277-305,cash1251,http://concepticon.clld.org/parameters/1000,čɨ'ɨki-ti,"anxiety, worry"
+277-66,cash1251,http://concepticon.clld.org/parameters/1839,ĩ-ti,"cry, weep"
+277-142,cash1251,http://concepticon.clld.org/parameters/1651,βɨ'õ,tear (noun)
+277-345,cash1251,http://concepticon.clld.org/parameters/82,niš-ti,anger
+277-321,cash1251,http://concepticon.clld.org/parameters/1776,ra'βĩ-,shame (noun)
+277-292,cash1251,http://concepticon.clld.org/parameters/3,ʔĩ'sa,brave
+277-303,cash1251,http://concepticon.clld.org/parameters/781,ra'kʷɨ-ti,"fear, fright"
+277-495,cash1251,http://concepticon.clld.org/parameters/781,rato-,"fear, fright"
+277-471,cash1251,http://concepticon.clld.org/parameters/1784,kʷɨ'ɨ̃-,"desire, want"
+277-551,cash1251,http://concepticon.clld.org/parameters/1784,-kas,"desire, want"
+277-421,cash1251,http://concepticon.clld.org/parameters/1750,ka'is-ti,choose
+277-485,cash1251,http://concepticon.clld.org/parameters/1657,a'seeraβi,true
+277-612,cash1251,http://concepticon.clld.org/parameters/601,kɨmɨ-ti,"lie, tell lies"
+277-477,cash1251,http://concepticon.clld.org/parameters/13,pa'rã-ti,deceit
+277-480,cash1251,http://concepticon.clld.org/parameters/1035,o'pi,good
+277-316,cash1251,http://concepticon.clld.org/parameters/1292,ʔaisama,bad
+277-450,cash1251,http://concepticon.clld.org/parameters/381,paṣ̌a-ti,blame
+277-636,cash1251,http://concepticon.clld.org/parameters/1687,raβi-ti,praise
+277-306,cash1251,http://concepticon.clld.org/parameters/1427,uusarua,beautiful
+277-478,cash1251,http://concepticon.clld.org/parameters/1548,ma'sa,ugly
+277-578,cash1251,http://concepticon.clld.org/parameters/1415,si'nã-ti,think (= reflect)
+277-314,cash1251,http://concepticon.clld.org/parameters/1536,kʷa-ti,understand
+277-83,cash1251,http://concepticon.clld.org/parameters/1410,ʔo'nã-ti,know
+277-669,cash1251,http://concepticon.clld.org/parameters/698,si'nãɲu,wise
+277-247,cash1251,http://concepticon.clld.org/parameters/1518,upa,"foolish, stupid"
+277-606,cash1251,http://concepticon.clld.org/parameters/504,ʔo'nã-,learn
+277-383,cash1251,http://concepticon.clld.org/parameters/1523,mano-ti,forget
+277-599,cash1251,http://concepticon.clld.org/parameters/989,ša'βa,"clear, plain"
+277-114,cash1251,http://concepticon.clld.org/parameters/1626,mu-ti,explain
+277-549,cash1251,http://concepticon.clld.org/parameters/860,-mi,cause
+277-493,cash1251,http://concepticon.clld.org/parameters/686,aisa,easy
+277-338,cash1251,http://concepticon.clld.org/parameters/1157,raβanã,because
+277-190,cash1251,http://concepticon.clld.org/parameters/1268,kaa,"yes, affirmative"
+277-553,cash1251,http://concepticon.clld.org/parameters/1269,-ma,"no, negative"
+277-507,cash1251,http://concepticon.clld.org/parameters/1235,ui,who?
+277-676,cash1251,http://concepticon.clld.org/parameters/1270,uisakac̷i,why?
+277-610,cash1251,http://concepticon.clld.org/parameters/1363,βana,voice
+277-234,cash1251,http://concepticon.clld.org/parameters/1261,tupu-ti,sing
+277-635,cash1251,http://concepticon.clld.org/parameters/715,ša'aki-ti,"shout, cry out"
+277-203,cash1251,http://concepticon.clld.org/parameters/55,βa'ṣ̌ɨṣ̌-ti,whisper
+277-423,cash1251,http://concepticon.clld.org/parameters/1025,ṣ̌ɨ'iki-ti,whistle
+277-59,cash1251,http://concepticon.clld.org/parameters/1623,βana-ti,"speak, talk"
+277-559,cash1251,http://concepticon.clld.org/parameters/1623,ɲoi-,"speak, talk"
+277-91,cash1251,http://concepticon.clld.org/parameters/1458,ka-ti,say
+277-610,cash1251,http://concepticon.clld.org/parameters/1115,βana,speech (make a)
+277-370,cash1251,http://concepticon.clld.org/parameters/48,nɨ'tɨ-ti,silent (be)
+277-610,cash1251,http://concepticon.clld.org/parameters/1307,βana,language
+277-133,cash1251,http://concepticon.clld.org/parameters/1405,anɨ,name
+277-8,cash1251,http://concepticon.clld.org/parameters/1309,ɲu'ka-ti,"ask (question, inquire)"
+277-498,cash1251,http://concepticon.clld.org/parameters/2022,čikina-ti,"admit, confess"
+277-601,cash1251,http://concepticon.clld.org/parameters/1828,ɲo'ka-ti,"ask, request"
+277-57,cash1251,http://concepticon.clld.org/parameters/1084,kʷɨ̃-ti,call (=summon)
+277-454,cash1251,http://concepticon.clld.org/parameters/180,anɨ-ti,call (=name)
+277-406,cash1251,http://concepticon.clld.org/parameters/1672,kʷɨnɨ-ti,write
+277-575,cash1251,http://concepticon.clld.org/parameters/777,rɨɨ,flute
+277-294,cash1251,http://concepticon.clld.org/parameters/1300,nɨtɨ,country
+277-357,cash1251,http://concepticon.clld.org/parameters/930,ɨma,village
+277-398,cash1251,http://concepticon.clld.org/parameters/789,-βo,people (populace)
+277-63,cash1251,http://concepticon.clld.org/parameters/302,kaiβo,"tribe, clan"
+277-388,cash1251,http://concepticon.clld.org/parameters/301,ʔapu,"chief, chieftain"
+277-69,cash1251,http://concepticon.clld.org/parameters/1296,c̷ati,"staff, walking stick"
+277-92,cash1251,http://concepticon.clld.org/parameters/383,ʔiβu,master
+277-378,cash1251,http://concepticon.clld.org/parameters/1128,ṣ̌u-ti,"command, order"
+277-580,cash1251,http://concepticon.clld.org/parameters/1325,βi'ranan-ti,"friend, companion"
+277-181,cash1251,http://concepticon.clld.org/parameters/1358,noo,enemy
+277-181,cash1251,http://concepticon.clld.org/parameters/791,noo,stranger
+277-513,cash1251,http://concepticon.clld.org/parameters/1897,ʔɨsɨ-ti,"help, aid"
+277-77,cash1251,http://concepticon.clld.org/parameters/1831,mɨra-ti,meet
+277-2,cash1251,http://concepticon.clld.org/parameters/1423,ṣ̌uka-ti,fight (vb)
+277-361,cash1251,http://concepticon.clld.org/parameters/1763,ino,club
+277-318,cash1251,http://concepticon.clld.org/parameters/994,kãti,bow
+277-634,cash1251,http://concepticon.clld.org/parameters/977,pia,arrow
+277-130,cash1251,http://concepticon.clld.org/parameters/945,ma'sĩβũ,spear
+277-587,cash1251,http://concepticon.clld.org/parameters/1566,ʔirapa,"gun, cannon"
+277-424,cash1251,http://concepticon.clld.org/parameters/65,tɨsɨti,ambush
+277-313,cash1251,http://concepticon.clld.org/parameters/1074,miškiti,fishhook
+277-337,cash1251,http://concepticon.clld.org/parameters/1435,ɲua-ti,hunt
+277-297,cash1251,http://concepticon.clld.org/parameters/1172,ni-ti,shoot
+277-593,cash1251,http://concepticon.clld.org/parameters/161,ɲãkooti,miss (target)
+277-135,cash1251,http://concepticon.clld.org/parameters/1075,kɨnɨ,trap (noun)
+277-437,cash1251,http://concepticon.clld.org/parameters/1814,ma'nan-ti,accuse
+277-163,cash1251,http://concepticon.clld.org/parameters/713,mɨkama-ti,steal
+277-615,cash1251,http://concepticon.clld.org/parameters/24,ri'san-ti,pray
+277-506,cash1251,http://concepticon.clld.org/parameters/303,naraka-ti,fast (vb)
+277-429,cash1251,http://concepticon.clld.org/parameters/303,sa'ma-ti,fast (vb)
+277-112,cash1251,http://concepticon.clld.org/parameters/303,mɨ-ti,fast (vb)
+277-299,cash1251,http://concepticon.clld.org/parameters/1973,puruma,demon (evil spirit)
+277-165,cash1251,http://concepticon.clld.org/parameters/1973,ɲõ'šĩ,demon (evil spirit)

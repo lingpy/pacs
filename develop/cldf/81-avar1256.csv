@@ -1,0 +1,1414 @@
+ID,Language_ID,Feature_ID,Value,Concept
+81-556,avar1256,http://concepticon.clld.org/parameters/98,лугашинал,"every, all"
+81-313,avar1256,http://concepticon.clld.org/parameters/1420,масси,count
+81-602,avar1256,http://concepticon.clld.org/parameters/1843,гІазаргу,thousand
+81-287,avar1256,http://concepticon.clld.org/parameters/1634,нусгу,hundred
+81-388,avar1256,http://concepticon.clld.org/parameters/1710,къогу,twenty
+81-1163,avar1256,http://concepticon.clld.org/parameters/1709,инцІила щугу,fifteen
+81-1057,avar1256,http://concepticon.clld.org/parameters/1707,инцІила кІигу,twelve
+81-495,avar1256,http://concepticon.clld.org/parameters/1706,инцІила цо,eleven
+81-768,avar1256,http://concepticon.clld.org/parameters/1515,анцкІу,ten
+81-956,avar1256,http://concepticon.clld.org/parameters/1483,ичкІу,nine
+81-68,avar1256,http://concepticon.clld.org/parameters/1705,мисІсІгу,eight
+81-1018,avar1256,http://concepticon.clld.org/parameters/1704,айсІсІгу,seven
+81-364,avar1256,http://concepticon.clld.org/parameters/1703,ансгу,six
+81-566,avar1256,http://concepticon.clld.org/parameters/493,щугу,five
+81-1118,avar1256,http://concepticon.clld.org/parameters/1500,гІункъу,four
+81-474,avar1256,http://concepticon.clld.org/parameters/492,сабгу,three
+81-593,avar1256,http://concepticon.clld.org/parameters/1498,кІигу,two
+81-221,avar1256,http://concepticon.clld.org/parameters/1515,цо,one
+81-475,avar1256,http://concepticon.clld.org/parameters/1294,ноль,"zero, nothing"
+81-406,avar1256,http://concepticon.clld.org/parameters/1264,хисинзи,change
+81-486,avar1256,http://concepticon.clld.org/parameters/1558,рессароб,"like, similar"
+81-884,avar1256,http://concepticon.clld.org/parameters/1667,рахІин,hole
+81-398,avar1256,http://concepticon.clld.org/parameters/1048,рах,line
+81-453,avar1256,http://concepticon.clld.org/parameters/1845,шар,"sphere, ball"
+81-190,avar1256,http://concepticon.clld.org/parameters/1467,годо,circle
+81-749,avar1256,http://concepticon.clld.org/parameters/1395,гергенаб,round
+81-589,avar1256,http://concepticon.clld.org/parameters/850,ункъбукъон,square
+81-262,avar1256,http://concepticon.clld.org/parameters/1367,хач,cross
+81-977,avar1256,http://concepticon.clld.org/parameters/192,букІон,corner
+81-1138,avar1256,http://concepticon.clld.org/parameters/1071,кІичІ,hook
+81-281,avar1256,http://concepticon.clld.org/parameters/297,гьетІтІараб,crooked
+81-1083,avar1256,http://concepticon.clld.org/parameters/1404,битІураб,straight
+81-823,avar1256,http://concepticon.clld.org/parameters/1633,кІепаб,flat
+81-665,avar1256,http://concepticon.clld.org/parameters/193,тІинаб,shallow
+81-1195,avar1256,http://concepticon.clld.org/parameters/193,гІисинаб,shallow
+81-733,avar1256,http://concepticon.clld.org/parameters/1593,гъурийаб,deep
+81-833,avar1256,http://concepticon.clld.org/parameters/1400,кІеренаб,thin (in dimension)
+81-1047,avar1256,http://concepticon.clld.org/parameters/1244,бицараб,thick (in dimension)
+81-42,avar1256,http://concepticon.clld.org/parameters/1267,къурайаб,narrow
+81-1181,avar1256,http://concepticon.clld.org/parameters/965,дунийал,world
+81-560,avar1256,http://concepticon.clld.org/parameters/626,улка,"earth, land"
+81-614,avar1256,http://concepticon.clld.org/parameters/1228,ращІ,"earth=ground, soil"
+81-26,avar1256,http://concepticon.clld.org/parameters/2,тоз,dust
+81-804,avar1256,http://concepticon.clld.org/parameters/640,палчих,mud
+81-1011,avar1256,http://concepticon.clld.org/parameters/671,къом,sand
+81-1152,avar1256,http://concepticon.clld.org/parameters/2118,меэр,"mountain, hill"
+81-170,avar1256,http://concepticon.clld.org/parameters/2118,сирт,"mountain, hill"
+81-158,avar1256,http://concepticon.clld.org/parameters/618,сІсІури,"cliff, precipice"
+81-1237,avar1256,http://concepticon.clld.org/parameters/618,дара,"cliff, precipice"
+81-1067,avar1256,http://concepticon.clld.org/parameters/652,чоле,"plain, field"
+81-1237,avar1256,http://concepticon.clld.org/parameters/921,дара,valley
+81-438,avar1256,http://concepticon.clld.org/parameters/622,ада,island
+81-338,avar1256,http://concepticon.clld.org/parameters/166,кантинент,mainland
+81-148,avar1256,http://concepticon.clld.org/parameters/113,къирагъ,shore
+81-914,avar1256,http://concepticon.clld.org/parameters/1155,нухо,cave
+81-1218,avar1256,http://concepticon.clld.org/parameters/948,сим,water
+81-40,avar1256,http://concepticon.clld.org/parameters/1474,расад,sea
+81-913,avar1256,http://concepticon.clld.org/parameters/1474,дайрагь,sea
+81-1186,avar1256,http://concepticon.clld.org/parameters/258,сиситав,calm (of sea)
+81-671,avar1256,http://concepticon.clld.org/parameters/259,гьалакаб,rough (of sea)
+81-648,avar1256,http://concepticon.clld.org/parameters/1768,купук,foam
+81-913,avar1256,http://concepticon.clld.org/parameters/645,дайрагь,ocean
+81-794,avar1256,http://concepticon.clld.org/parameters/624,гулдагь,lake
+81-620,avar1256,http://concepticon.clld.org/parameters/663,качІ,"gulf, bay"
+81-935,avar1256,http://concepticon.clld.org/parameters/623,—,lagoon
+81-935,avar1256,http://concepticon.clld.org/parameters/660,—,reef
+81-620,avar1256,http://concepticon.clld.org/parameters/1662,качІ,"headland, point"
+81-842,avar1256,http://concepticon.clld.org/parameters/978,карачел,wave
+81-1036,avar1256,http://concepticon.clld.org/parameters/891,расад ади щвей,tide
+81-63,avar1256,http://concepticon.clld.org/parameters/891,арсса эн,tide
+81-1134,avar1256,http://concepticon.clld.org/parameters/1026,расад арсса эн,lowtide
+81-1036,avar1256,http://concepticon.clld.org/parameters/613,расад ади щвей,hightide
+81-1197,avar1256,http://concepticon.clld.org/parameters/666,гІор,"river, stream, brook"
+81-794,avar1256,http://concepticon.clld.org/parameters/1982,гулдагь,whirlpool
+81-563,avar1256,http://concepticon.clld.org/parameters/2144,булах,"spring, well"
+81-147,avar1256,http://concepticon.clld.org/parameters/2144,кигьриз,"spring, well"
+81-21,avar1256,http://concepticon.clld.org/parameters/1145,чамам,swamp
+81-59,avar1256,http://concepticon.clld.org/parameters/943,чухери,waterfall
+81-37,avar1256,http://concepticon.clld.org/parameters/420,рохь,"woods, forest"
+81-138,avar1256,http://concepticon.clld.org/parameters/906,гъветІ,tree (cf 08.600)
+81-1114,avar1256,http://concepticon.clld.org/parameters/1803,сІсІул,wood
+81-330,avar1256,http://concepticon.clld.org/parameters/2125,къайа,"stone, rock"
+81-947,avar1256,http://concepticon.clld.org/parameters/6,багъари,earthquake
+81-670,avar1256,http://concepticon.clld.org/parameters/1732,зоб,sky
+81-126,avar1256,http://concepticon.clld.org/parameters/1343,бакъ,sun
+81-639,avar1256,http://concepticon.clld.org/parameters/1313,мосІсІ,moon
+81-327,avar1256,http://concepticon.clld.org/parameters/1430,сІсІубу,star
+81-1093,avar1256,http://concepticon.clld.org/parameters/1430,цІцІубу,star
+81-629,avar1256,http://concepticon.clld.org/parameters/1654,йурдулум,lightning
+81-1050,avar1256,http://concepticon.clld.org/parameters/1150,пирикІами,thunder
+81-423,avar1256,http://concepticon.clld.org/parameters/2007,йурдум,lightning (as striking)
+81-825,avar1256,http://concepticon.clld.org/parameters/858,гьури,storm
+81-36,avar1256,http://concepticon.clld.org/parameters/1733,гьакІамукІ,rainbow
+81-405,avar1256,http://concepticon.clld.org/parameters/630,канси,light (noun)
+81-24,avar1256,http://concepticon.clld.org/parameters/11,бецІ-буцІлух,darkness
+81-745,avar1256,http://concepticon.clld.org/parameters/1388,кулга,"shade, shadow"
+81-296,avar1256,http://concepticon.clld.org/parameters/1977,чиг,dew
+81-950,avar1256,http://concepticon.clld.org/parameters/27,гьава,air
+81-825,avar1256,http://concepticon.clld.org/parameters/960,гьури,wind
+81-592,avar1256,http://concepticon.clld.org/parameters/1489,чамра,cloud
+81-848,avar1256,http://concepticon.clld.org/parameters/249,думан,fog
+81-1219,avar1256,http://concepticon.clld.org/parameters/658,накІ,rain (noun)
+81-662,avar1256,http://concepticon.clld.org/parameters/784,гІазу,snow (noun)
+81-780,avar1256,http://concepticon.clld.org/parameters/617,сІсІер,ice
+81-746,avar1256,http://concepticon.clld.org/parameters/617,цІцІер,ice
+81-950,avar1256,http://concepticon.clld.org/parameters/952,гьава,weather
+81-734,avar1256,http://concepticon.clld.org/parameters/221,цІа,fire
+81-374,avar1256,http://concepticon.clld.org/parameters/889,макІла,flame (noun)
+81-498,avar1256,http://concepticon.clld.org/parameters/778,кІуй,smoke (noun)
+81-49,avar1256,http://concepticon.clld.org/parameters/646,рохо,ashes
+81-485,avar1256,http://concepticon.clld.org/parameters/67,тІуччи,embers
+81-941,avar1256,http://concepticon.clld.org/parameters/141,бохІзи,burn (vb trans)
+81-524,avar1256,http://concepticon.clld.org/parameters/1428,бохІси,burn (vb intrans)
+81-399,avar1256,http://concepticon.clld.org/parameters/737,бакзи,"light, kindle, ignite"
+81-139,avar1256,http://concepticon.clld.org/parameters/127,сезибузи,extinguish
+81-192,avar1256,http://concepticon.clld.org/parameters/1133,ушка,match (noun)
+81-1114,avar1256,http://concepticon.clld.org/parameters/10,сІсІул,firewood
+81-580,avar1256,http://concepticon.clld.org/parameters/10,цІцІул,firewood
+81-343,avar1256,http://concepticon.clld.org/parameters/1188,сІсІулал тІуччи,charcoal
+81-943,avar1256,http://concepticon.clld.org/parameters/1188,цІцІулал тІуччи,charcoal
+81-557,avar1256,http://concepticon.clld.org/parameters/683,адам,"person, human being"
+81-32,avar1256,http://concepticon.clld.org/parameters/1554,чи,man (vs. woman)
+81-1137,avar1256,http://concepticon.clld.org/parameters/962,руччабай,woman
+81-778,avar1256,http://concepticon.clld.org/parameters/2263,бихьин,male
+81-1116,avar1256,http://concepticon.clld.org/parameters/2260,сІсІуйай,female
+81-308,avar1256,http://concepticon.clld.org/parameters/2260,цІцІуйай,female
+81-1199,avar1256,http://concepticon.clld.org/parameters/1366,вас,boy
+81-847,avar1256,http://concepticon.clld.org/parameters/76,гІолохан,young man (adolescent)
+81-697,avar1256,http://concepticon.clld.org/parameters/1646,йас,girl
+81-697,avar1256,http://concepticon.clld.org/parameters/77,йас,young woman (adolescent)
+81-753,avar1256,http://concepticon.clld.org/parameters/1304,хизан,child
+81-753,avar1256,http://concepticon.clld.org/parameters/1289,хизан,"infant, baby"
+81-32,avar1256,http://concepticon.clld.org/parameters/1200,чи,husband
+81-1137,avar1256,http://concepticon.clld.org/parameters/1199,руччабай,wife
+81-60,avar1256,http://concepticon.clld.org/parameters/203,чийаси инзи,marry
+81-233,avar1256,http://concepticon.clld.org/parameters/1259,бетин,"marriage, wedding"
+81-951,avar1256,http://concepticon.clld.org/parameters/1134,бакІаци,divorce
+81-1004,avar1256,http://concepticon.clld.org/parameters/1134,йахи,divorce
+81-737,avar1256,http://concepticon.clld.org/parameters/1217,эмен,father
+81-407,avar1256,http://concepticon.clld.org/parameters/1217,дада,father
+81-940,avar1256,http://concepticon.clld.org/parameters/1216,эбел,mother
+81-228,avar1256,http://concepticon.clld.org/parameters/1216,буба,mother
+81-39,avar1256,http://concepticon.clld.org/parameters/505,эмен-эбел,parents
+81-1141,avar1256,http://concepticon.clld.org/parameters/424,бетин бурав,married man
+81-289,avar1256,http://concepticon.clld.org/parameters/426,чийаси арай,married woman
+81-1199,avar1256,http://concepticon.clld.org/parameters/1620,вас,son
+81-697,avar1256,http://concepticon.clld.org/parameters/1357,йас,daughter
+81-1080,avar1256,http://concepticon.clld.org/parameters/1801,тухум,offspring (son or daughter)
+81-1203,avar1256,http://concepticon.clld.org/parameters/1262,вац,brother
+81-19,avar1256,http://concepticon.clld.org/parameters/1262,ваци,brother
+81-19,avar1256,http://concepticon.clld.org/parameters/1759,ваци,older brother
+81-471,avar1256,http://concepticon.clld.org/parameters/1759,кІудав вац,older brother
+81-996,avar1256,http://concepticon.clld.org/parameters/1760,тІинав вац,younger brother
+81-698,avar1256,http://concepticon.clld.org/parameters/1263,йац,sister
+81-1167,avar1256,http://concepticon.clld.org/parameters/1758,нина,older sister
+81-185,avar1256,http://concepticon.clld.org/parameters/1758,кІудай яц,older sister
+81-366,avar1256,http://concepticon.clld.org/parameters/1761,тІинай йац,younger sister
+81-1203,avar1256,http://concepticon.clld.org/parameters/1640,вац,sibling
+81-698,avar1256,http://concepticon.clld.org/parameters/1640,йац,sibling
+81-242,avar1256,http://concepticon.clld.org/parameters/1005,кІуноси,twins
+81-29,avar1256,http://concepticon.clld.org/parameters/1383,кІудада,grandfather
+81-1078,avar1256,http://concepticon.clld.org/parameters/406,хІерав чи,old man
+81-668,avar1256,http://concepticon.clld.org/parameters/1496,кІубуба,grandmother
+81-1035,avar1256,http://concepticon.clld.org/parameters/907,хІерай,old woman
+81-34,avar1256,http://concepticon.clld.org/parameters/1618,васуссул вас,grandson
+81-1194,avar1256,http://concepticon.clld.org/parameters/1618,ясалъул вас,grandson
+81-826,avar1256,http://concepticon.clld.org/parameters/1619,васуссул йас,granddaughter
+81-879,avar1256,http://concepticon.clld.org/parameters/1619,ясалъул яс,granddaughter
+81-258,avar1256,http://concepticon.clld.org/parameters/1327,джиджи,uncle
+81-258,avar1256,http://concepticon.clld.org/parameters/1984,джиджи,mother's brother
+81-924,avar1256,http://concepticon.clld.org/parameters/1984,бубал вац,mother's brother
+81-258,avar1256,http://concepticon.clld.org/parameters/1985,джиджи,father's brother
+81-345,avar1256,http://concepticon.clld.org/parameters/1985,дадал вац,father's brother
+81-424,avar1256,http://concepticon.clld.org/parameters/1272,абай,aunt
+81-424,avar1256,http://concepticon.clld.org/parameters/171,абай,mother's sister
+81-632,avar1256,http://concepticon.clld.org/parameters/171,бубай яц,mother's sister
+81-424,avar1256,http://concepticon.clld.org/parameters/170,абай,father's sister
+81-1063,avar1256,http://concepticon.clld.org/parameters/170,дадал яц,father's sister
+81-1231,avar1256,http://concepticon.clld.org/parameters/1063,худулив,nephew
+81-1227,avar1256,http://concepticon.clld.org/parameters/1642,худулий,niece
+81-539,avar1256,http://concepticon.clld.org/parameters/1643,вацалав,cousin
+81-252,avar1256,http://concepticon.clld.org/parameters/1643,яцалай,cousin
+81-1201,avar1256,http://concepticon.clld.org/parameters/1669,ата-бубайал,ancestors
+81-250,avar1256,http://concepticon.clld.org/parameters/490,умумал,descendants
+81-795,avar1256,http://concepticon.clld.org/parameters/2255,эпте,father-in-law (of a man)
+81-140,avar1256,http://concepticon.clld.org/parameters/2255,сІсІакъа эмен,father-in-law (of a man)
+81-904,avar1256,http://concepticon.clld.org/parameters/2255,цІцІакъа эмен,father-in-law (of a man)
+81-795,avar1256,http://concepticon.clld.org/parameters/2254,эпте,father-in-law (of a woman)
+81-140,avar1256,http://concepticon.clld.org/parameters/2254,сІсІакъа эмен,father-in-law (of a woman)
+81-904,avar1256,http://concepticon.clld.org/parameters/2254,цІцІакъа эмен,father-in-law (of a woman)
+81-424,avar1256,http://concepticon.clld.org/parameters/2256,абай,mother-in-law (of a man)
+81-1048,avar1256,http://concepticon.clld.org/parameters/2256,сІсІакъай эбел,mother-in-law (of a man)
+81-65,avar1256,http://concepticon.clld.org/parameters/2256,цІцІакъай эбел,mother-in-law (of a man)
+81-424,avar1256,http://concepticon.clld.org/parameters/2257,абай,mother-in-law (of a woman)
+81-1048,avar1256,http://concepticon.clld.org/parameters/2257,сІсІакъай эбел,mother-in-law (of a woman)
+81-65,avar1256,http://concepticon.clld.org/parameters/2257,цІцІакъай эбел,mother-in-law (of a woman)
+81-132,avar1256,http://concepticon.clld.org/parameters/2267,дурц,son-in-law (of a man)
+81-132,avar1256,http://concepticon.clld.org/parameters/2266,дурц,son-in-law (of a woman)
+81-50,avar1256,http://concepticon.clld.org/parameters/2265,нусай,daughter-in-law (of a man)
+81-50,avar1256,http://concepticon.clld.org/parameters/2264,нусай,daughter-in-law (of a woman)
+81-789,avar1256,http://concepticon.clld.org/parameters/237,бестал эмен,stepfather
+81-1100,avar1256,http://concepticon.clld.org/parameters/236,бестал эбел,stepmother
+81-382,avar1256,http://concepticon.clld.org/parameters/1059,бестал вас,stepson
+81-167,avar1256,http://concepticon.clld.org/parameters/1058,бестал йас,stepdaughter
+81-747,avar1256,http://concepticon.clld.org/parameters/1149,йитим,orphan
+81-386,avar1256,http://concepticon.clld.org/parameters/1756,къоролай,widow
+81-1097,avar1256,http://concepticon.clld.org/parameters/1981,къолорав,widower
+81-1129,avar1256,http://concepticon.clld.org/parameters/1644,гІагарал,"relatives, kinsmen"
+81-1066,avar1256,http://concepticon.clld.org/parameters/194,айлйа,family
+81-215,avar1256,http://concepticon.clld.org/parameters/1209,дун,I
+81-246,avar1256,http://concepticon.clld.org/parameters/1215,мун,you (singular)
+81-184,avar1256,http://concepticon.clld.org/parameters/262,гъав,he/she/it
+81-179,avar1256,http://concepticon.clld.org/parameters/262,гъай,he/she/it
+81-1104,avar1256,http://concepticon.clld.org/parameters/262,гъаб,he/she/it
+81-400,avar1256,http://concepticon.clld.org/parameters/1212,ниж,we
+81-400,avar1256,http://concepticon.clld.org/parameters/1131,ниж,we (inclusive)
+81-400,avar1256,http://concepticon.clld.org/parameters/1130,ниж,we (exclusive)
+81-246,avar1256,http://concepticon.clld.org/parameters/1213,мун,you (plural)
+81-963,avar1256,http://concepticon.clld.org/parameters/817,дал,they
+81-650,avar1256,http://concepticon.clld.org/parameters/619,хІайван,animal
+81-1140,avar1256,http://concepticon.clld.org/parameters/2261,бихІиназул,male (adj)
+81-1037,avar1256,http://concepticon.clld.org/parameters/2262,сІсІуйазул,female (adj)
+81-650,avar1256,http://concepticon.clld.org/parameters/631,хІайван,livestock
+81-1058,avar1256,http://concepticon.clld.org/parameters/649,чоли,pasture
+81-133,avar1256,http://concepticon.clld.org/parameters/263,гІайахан,herdsman
+81-1032,avar1256,http://concepticon.clld.org/parameters/263,рохьдохъан,herdsman
+81-341,avar1256,http://concepticon.clld.org/parameters/851,чал хІихІун бакІ,"stable, stall"
+81-291,avar1256,http://concepticon.clld.org/parameters/1153,чІегъераб хІайван,cattle (bovine)
+81-1189,avar1256,http://concepticon.clld.org/parameters/1008,дана,bull
+81-829,avar1256,http://concepticon.clld.org/parameters/1169,оц,ox
+81-195,avar1256,http://concepticon.clld.org/parameters/1007,гІака,cow
+81-841,avar1256,http://concepticon.clld.org/parameters/1989,бехІче,calf
+81-710,avar1256,http://concepticon.clld.org/parameters/1331,гІийал,sheep
+81-421,avar1256,http://concepticon.clld.org/parameters/1344,куй,ram
+81-672,avar1256,http://concepticon.clld.org/parameters/1345,гІи,ewe
+81-821,avar1256,http://concepticon.clld.org/parameters/820,сІсІегІер,lamb
+81-1228,avar1256,http://concepticon.clld.org/parameters/1348,къабан,boar
+81-874,avar1256,http://concepticon.clld.org/parameters/1351,акайаб босон,sow (2)
+81-921,avar1256,http://concepticon.clld.org/parameters/1337,босон,pig
+81-564,avar1256,http://concepticon.clld.org/parameters/1502,сІсІе,goat
+81-114,avar1256,http://concepticon.clld.org/parameters/264,дегІен,he-goat
+81-700,avar1256,http://concepticon.clld.org/parameters/1972,сІсІедул кІенг,kid
+81-55,avar1256,http://concepticon.clld.org/parameters/615,чу,horse (equine)
+81-1176,avar1256,http://concepticon.clld.org/parameters/936,дайлйагъ,stallion
+81-944,avar1256,http://concepticon.clld.org/parameters/936,гванзаб чу,stallion
+81-1091,avar1256,http://concepticon.clld.org/parameters/938,гІала,mare
+81-955,avar1256,http://concepticon.clld.org/parameters/1647,уйрйа,"foal, colt"
+81-490,avar1256,http://concepticon.clld.org/parameters/1862,хІама,"ass, donkey"
+81-1038,avar1256,http://concepticon.clld.org/parameters/890,гІурцІен,mule
+81-80,avar1256,http://concepticon.clld.org/parameters/265,гІанкІу-джуджа,fowl
+81-547,avar1256,http://concepticon.clld.org/parameters/1511,хІелеку,"cock, rooster"
+81-154,avar1256,http://concepticon.clld.org/parameters/1514,гІанку,hen
+81-200,avar1256,http://concepticon.clld.org/parameters/1318,джуджа,chicken
+81-830,avar1256,http://concepticon.clld.org/parameters/1187,къаз,goose
+81-31,avar1256,http://concepticon.clld.org/parameters/1360,гІурдаг,duck
+81-1124,avar1256,http://concepticon.clld.org/parameters/539,бесен,nest
+81-1232,avar1256,http://concepticon.clld.org/parameters/937,хІинчІ,bird
+81-638,avar1256,http://concepticon.clld.org/parameters/950,чайка,seagull
+81-553,avar1256,http://concepticon.clld.org/parameters/758,хІажилакълакъ,heron
+81-54,avar1256,http://concepticon.clld.org/parameters/1905,къиджир,eagle
+81-861,avar1256,http://concepticon.clld.org/parameters/307,геду,hawk
+81-54,avar1256,http://concepticon.clld.org/parameters/1185,къиджир,vulture
+81-1005,avar1256,http://concepticon.clld.org/parameters/1793,къехІу,bat
+81-20,avar1256,http://concepticon.clld.org/parameters/882,мазкок,parrot
+81-1121,avar1256,http://concepticon.clld.org/parameters/913,гъеду,crow
+81-988,avar1256,http://concepticon.clld.org/parameters/1853,мики,dove
+81-300,avar1256,http://concepticon.clld.org/parameters/735,боргого,owl
+81-936,avar1256,http://concepticon.clld.org/parameters/2009,когІо,dog
+81-932,avar1256,http://concepticon.clld.org/parameters/1136,давшан,rabbit
+81-1161,avar1256,http://concepticon.clld.org/parameters/1208,бушуй,cat
+81-455,avar1256,http://concepticon.clld.org/parameters/309,гІубун,opossum
+81-558,avar1256,http://concepticon.clld.org/parameters/2139,гІункІ,"mouse, rat"
+81-225,avar1256,http://concepticon.clld.org/parameters/227,булугъ,fish
+81-196,avar1256,http://concepticon.clld.org/parameters/213,сурденив,fin (dorsal)
+81-294,avar1256,http://concepticon.clld.org/parameters/266,кІепкІал,fishscale
+81-935,avar1256,http://concepticon.clld.org/parameters/1916,—,gill
+81-260,avar1256,http://concepticon.clld.org/parameters/598,ччугІил гІен,shell
+81-286,avar1256,http://concepticon.clld.org/parameters/1110,акула,shark
+81-1088,avar1256,http://concepticon.clld.org/parameters/1479,судуну багьниб босон,"porpoise, dolphin"
+81-850,avar1256,http://concepticon.clld.org/parameters/957,кит,whale
+81-324,avar1256,http://concepticon.clld.org/parameters/1910,раcдал босон,stingray
+81-935,avar1256,http://concepticon.clld.org/parameters/1013,—,freshwater eel
+81-445,avar1256,http://concepticon.clld.org/parameters/522,джанавар,wolf
+81-1098,avar1256,http://concepticon.clld.org/parameters/522,улхІол жо,wolf
+81-827,avar1256,http://concepticon.clld.org/parameters/1386,гъалбацІ,lion
+81-217,avar1256,http://concepticon.clld.org/parameters/1820,ци,bear
+81-1202,avar1256,http://concepticon.clld.org/parameters/1312,цер,fox
+81-269,avar1256,http://concepticon.clld.org/parameters/1936,марал,deer
+81-197,avar1256,http://concepticon.clld.org/parameters/1350,маймун,monkey
+81-718,avar1256,http://concepticon.clld.org/parameters/1290,пил,elephant
+81-479,avar1256,http://concepticon.clld.org/parameters/1871,дива,camel
+81-245,avar1256,http://concepticon.clld.org/parameters/620,чІачІ,insect
+81-73,avar1256,http://concepticon.clld.org/parameters/310,нацІцІ,louse
+81-127,avar1256,http://concepticon.clld.org/parameters/267,хІоно,nit (louse egg)
+81-285,avar1256,http://concepticon.clld.org/parameters/232,гана,flea
+81-611,avar1256,http://concepticon.clld.org/parameters/1974,кІикъогобох,centipede
+81-568,avar1256,http://concepticon.clld.org/parameters/1538,гІакъраб-бурухь,scorpion
+81-373,avar1256,http://concepticon.clld.org/parameters/1575,таракан,cockroach
+81-860,avar1256,http://concepticon.clld.org/parameters/587,сІсІунцІру,ant
+81-165,avar1256,http://concepticon.clld.org/parameters/843,гьум,spider
+81-261,avar1256,http://concepticon.clld.org/parameters/1065,гьумартор,spider web
+81-655,avar1256,http://concepticon.clld.org/parameters/665,на,bee
+81-146,avar1256,http://concepticon.clld.org/parameters/1931,хІой,beeswax
+81-462,avar1256,http://concepticon.clld.org/parameters/88,геджи,beehive
+81-231,avar1256,http://concepticon.clld.org/parameters/88,найазул рокъ,beehive
+81-966,avar1256,http://concepticon.clld.org/parameters/1517,гоз,wasp
+81-274,avar1256,http://concepticon.clld.org/parameters/1504,чотІ,fly
+81-1239,avar1256,http://concepticon.clld.org/parameters/95,мучак,"sandfly (midge), gnat"
+81-1239,avar1256,http://concepticon.clld.org/parameters/1509,мучак,mosquito
+81-1111,avar1256,http://concepticon.clld.org/parameters/1219,хІашбурухь,worm
+81-759,avar1256,http://concepticon.clld.org/parameters/730,бурухь,snake
+81-801,avar1256,http://concepticon.clld.org/parameters/206,кинцІилцІа,firefly
+81-108,avar1256,http://concepticon.clld.org/parameters/1791,гІендул кІиликІ,butterfly
+81-62,avar1256,http://concepticon.clld.org/parameters/607,цІирт,grasshopper
+81-205,avar1256,http://concepticon.clld.org/parameters/1543,сІсІодул хІама,snail
+81-667,avar1256,http://concepticon.clld.org/parameters/503,къеркъ,frog
+81-7,avar1256,http://concepticon.clld.org/parameters/632,калаз,lizard
+81-83,avar1256,http://concepticon.clld.org/parameters/1857,гІакъраб,"crocodile, alligator"
+81-410,avar1256,http://concepticon.clld.org/parameters/112,гъенецІе,turtle
+81-919,avar1256,http://concepticon.clld.org/parameters/1480,джани,body
+81-1191,avar1256,http://concepticon.clld.org/parameters/763,къехь,"skin, hide"
+81-919,avar1256,http://concepticon.clld.org/parameters/2259,джани,flesh
+81-395,avar1256,http://concepticon.clld.org/parameters/1040,рас,hair (head)
+81-901,avar1256,http://concepticon.clld.org/parameters/678,мегеж,beard
+81-1086,avar1256,http://concepticon.clld.org/parameters/189,расал,body hair
+81-730,avar1256,http://concepticon.clld.org/parameters/36,ражал,pubic hair
+81-647,avar1256,http://concepticon.clld.org/parameters/576,хашхар,dandruff
+81-513,avar1256,http://concepticon.clld.org/parameters/946,би,blood
+81-1174,avar1256,http://concepticon.clld.org/parameters/525,дамар,"vein, artery"
+81-906,avar1256,http://concepticon.clld.org/parameters/1394,расІсІа,bone
+81-292,avar1256,http://concepticon.clld.org/parameters/801,хІаблахІул учІ,rib
+81-98,avar1256,http://concepticon.clld.org/parameters/1393,хІесІсІ,horn
+81-415,avar1256,http://concepticon.clld.org/parameters/1220,магъ,tail
+81-311,avar1256,http://concepticon.clld.org/parameters/1291,мугъ,back
+81-537,avar1256,http://concepticon.clld.org/parameters/805,мугьал синийаб,spine
+81-349,avar1256,http://concepticon.clld.org/parameters/1256,бекІер,head
+81-787,avar1256,http://concepticon.clld.org/parameters/1604,къанща,"side of head, temple"
+81-707,avar1256,http://concepticon.clld.org/parameters/1605,калайаб,skull
+81-525,avar1256,http://concepticon.clld.org/parameters/1583,адал-махІу,brain
+81-571,avar1256,http://concepticon.clld.org/parameters/1560,хІумер,face
+81-839,avar1256,http://concepticon.clld.org/parameters/123,нодо,forehead
+81-481,avar1256,http://concepticon.clld.org/parameters/798,чаннайаб,jaw
+81-268,avar1256,http://concepticon.clld.org/parameters/1730,сІсІисІсІем,cheek
+81-481,avar1256,http://concepticon.clld.org/parameters/1510,чаннайаб,chin
+81-601,avar1256,http://concepticon.clld.org/parameters/1248,бер,eye
+81-922,avar1256,http://concepticon.clld.org/parameters/1173,кІаншлал,eyebrow
+81-249,avar1256,http://concepticon.clld.org/parameters/17,сІсІунцІруйал,eyelid
+81-249,avar1256,http://concepticon.clld.org/parameters/1540,сІсІунцІруйал,eyelash
+81-223,avar1256,http://concepticon.clld.org/parameters/1655,беркъай,blink
+81-458,avar1256,http://concepticon.clld.org/parameters/1247,гІен,ear
+81-1028,avar1256,http://concepticon.clld.org/parameters/18,тамахгІен,earlobe
+81-1025,avar1256,http://concepticon.clld.org/parameters/32,гІендул чирк,earwax
+81-990,avar1256,http://concepticon.clld.org/parameters/1221,шумаш,nose
+81-244,avar1256,http://concepticon.clld.org/parameters/1178,шуншалдурагьин,nostril
+81-501,avar1256,http://concepticon.clld.org/parameters/208,хІахІ,mucus (nasal)
+81-142,avar1256,http://concepticon.clld.org/parameters/674,кІал,mouth
+81-965,avar1256,http://concepticon.clld.org/parameters/73,кьуртІи,beak
+81-1122,avar1256,http://concepticon.clld.org/parameters/478,кІветІ,lip
+81-554,avar1256,http://concepticon.clld.org/parameters/1205,масІсІ,tongue
+81-213,avar1256,http://concepticon.clld.org/parameters/1380,ца,tooth
+81-522,avar1256,http://concepticon.clld.org/parameters/139,кІвачал,gums
+81-549,avar1256,http://concepticon.clld.org/parameters/1049,гІус,molartooth
+81-267,avar1256,http://concepticon.clld.org/parameters/1333,губур,neck
+81-173,avar1256,http://concepticon.clld.org/parameters/1347,гьендал нахъисаб бакІ,nape of neck
+81-454,avar1256,http://concepticon.clld.org/parameters/1346,жокъор,throat
+81-1230,avar1256,http://concepticon.clld.org/parameters/1346,мукълакъ,throat
+81-548,avar1256,http://concepticon.clld.org/parameters/1482,ракІа,shoulder
+81-23,avar1256,http://concepticon.clld.org/parameters/172,лага,shoulderblade
+81-160,avar1256,http://concepticon.clld.org/parameters/1994,ракІалдул расІсІа,collarbone
+81-25,avar1256,http://concepticon.clld.org/parameters/1673,квер,arm
+81-211,avar1256,http://concepticon.clld.org/parameters/1886,къулдиз,armpit
+81-207,avar1256,http://concepticon.clld.org/parameters/981,гІукІмацІ,elbow
+81-299,avar1256,http://concepticon.clld.org/parameters/799,гІидиквер,wrist
+81-25,avar1256,http://concepticon.clld.org/parameters/1277,квер,hand
+81-117,avar1256,http://concepticon.clld.org/parameters/1183,хъат,palm of hand
+81-979,avar1256,http://concepticon.clld.org/parameters/1303,гилищ,finger
+81-218,avar1256,http://concepticon.clld.org/parameters/1781,кІудаб гилищ,thumb
+81-895,avar1256,http://concepticon.clld.org/parameters/1258,мас,fingernail
+81-895,avar1256,http://concepticon.clld.org/parameters/72,мас,claw
+81-574,avar1256,http://concepticon.clld.org/parameters/1297,бох,leg
+81-1143,avar1256,http://concepticon.clld.org/parameters/800,сІсІицІем,thigh
+81-1107,avar1256,http://concepticon.clld.org/parameters/498,бохил тІукІенил,calf of leg
+81-1171,avar1256,http://concepticon.clld.org/parameters/1371,наку,knee
+81-372,avar1256,http://concepticon.clld.org/parameters/1301,кІину,foot
+81-973,avar1256,http://concepticon.clld.org/parameters/803,эгъе,ankle
+81-372,avar1256,http://concepticon.clld.org/parameters/980,кІину,heel
+81-1146,avar1256,http://concepticon.clld.org/parameters/318,лишан,footprint
+81-979,avar1256,http://concepticon.clld.org/parameters/1389,гилищ,toe
+81-497,avar1256,http://concepticon.clld.org/parameters/1257,мисер,wing
+81-497,avar1256,http://concepticon.clld.org/parameters/1201,мисер,feather
+81-1101,avar1256,http://concepticon.clld.org/parameters/1592,керен,chest
+81-180,avar1256,http://concepticon.clld.org/parameters/1402,кек,breast (of woman)
+81-376,avar1256,http://concepticon.clld.org/parameters/796,мусІсІу,"nipple, teat"
+81-376,avar1256,http://concepticon.clld.org/parameters/154,мусІсІу,udder
+81-74,avar1256,http://concepticon.clld.org/parameters/1838,сІсІигІу,navel
+81-1193,avar1256,http://concepticon.clld.org/parameters/1223,ракІ,heart
+81-1206,avar1256,http://concepticon.clld.org/parameters/688,угьрал,lung
+81-998,avar1256,http://concepticon.clld.org/parameters/1224,тІул,liver
+81-852,avar1256,http://concepticon.clld.org/parameters/489,тІукІериб,kidney
+81-461,avar1256,http://concepticon.clld.org/parameters/1744,къиж,spleen
+81-604,avar1256,http://concepticon.clld.org/parameters/819,кунирокъ,stomach
+81-51,avar1256,http://concepticon.clld.org/parameters/1991,басІсІал,"intestines, guts"
+81-124,avar1256,http://concepticon.clld.org/parameters/1681,черх,waist
+81-656,avar1256,http://concepticon.clld.org/parameters/1745,ризбил,hip
+81-340,avar1256,http://concepticon.clld.org/parameters/834,роц,buttocks
+81-902,avar1256,http://concepticon.clld.org/parameters/804,нут,womb
+81-177,avar1256,http://concepticon.clld.org/parameters/797,кенкал,testicle
+81-719,avar1256,http://concepticon.clld.org/parameters/1222,хІан,penis
+81-624,avar1256,http://concepticon.clld.org/parameters/1222,лико,penis
+81-532,avar1256,http://concepticon.clld.org/parameters/1407,хІухьал бахъзи,"breathe, breath"
+81-277,avar1256,http://concepticon.clld.org/parameters/1028,гьакІадзи,"yawn, gape"
+81-209,avar1256,http://concepticon.clld.org/parameters/162,гІупІзи,hiccough
+81-816,avar1256,http://concepticon.clld.org/parameters/879,ухІудизи,cough
+81-1095,avar1256,http://concepticon.clld.org/parameters/1621,субруб бегьур,sneeze
+81-1144,avar1256,http://concepticon.clld.org/parameters/126,гьекІ бази,perspire
+81-2,avar1256,http://concepticon.clld.org/parameters/1440,туй бехси,spit
+81-918,avar1256,http://concepticon.clld.org/parameters/1278,чІихардизи,vomit
+81-86,avar1256,http://concepticon.clld.org/parameters/1403,хІанжзи,bite
+81-355,avar1256,http://concepticon.clld.org/parameters/319,чІекІзи,lick
+81-248,avar1256,http://concepticon.clld.org/parameters/268,терет бичази,dribble
+81-472,avar1256,http://concepticon.clld.org/parameters/1585,ситсІсІи,sleep
+81-531,avar1256,http://concepticon.clld.org/parameters/1983,хурхурдзи,snore
+81-930,avar1256,http://concepticon.clld.org/parameters/1920,масІсІу бехІси,dream
+81-1076,avar1256,http://concepticon.clld.org/parameters/1602,вохинзи,wake up
+81-890,avar1256,http://concepticon.clld.org/parameters/1159,сІсІасІсІакдизи,break wind
+81-541,avar1256,http://concepticon.clld.org/parameters/592,кІушизи,urinate
+81-1131,avar1256,http://concepticon.clld.org/parameters/676,хвес бичази,defecate
+81-550,avar1256,http://concepticon.clld.org/parameters/1785,йахІизи,have sexual intercourse
+81-161,avar1256,http://concepticon.clld.org/parameters/52,тІуртІуртІизи,shiver
+81-818,avar1256,http://concepticon.clld.org/parameters/138,гурдази,bathe
+81-1075,avar1256,http://concepticon.clld.org/parameters/1152,бузи,beget (of father)
+81-1034,avar1256,http://concepticon.clld.org/parameters/1090,гьувузи,born (to be)
+81-163,avar1256,http://concepticon.clld.org/parameters/1123,къенай,pregnant
+81-353,avar1256,http://concepticon.clld.org/parameters/1087,къинчІези,conceive
+81-1109,avar1256,http://concepticon.clld.org/parameters/1422,гІумру гьубузи,"live, living, life"
+81-416,avar1256,http://concepticon.clld.org/parameters/1422,чІагуйаяв,"live, living, life"
+81-517,avar1256,http://concepticon.clld.org/parameters/1422,гІумру,"live, living, life"
+81-87,avar1256,http://concepticon.clld.org/parameters/1494,хІварав,"die, dead"
+81-468,avar1256,http://concepticon.clld.org/parameters/1904,ганкъурав,drowned
+81-1016,avar1256,http://concepticon.clld.org/parameters/1904,ганкъурав гІадам,drowned
+81-757,avar1256,http://concepticon.clld.org/parameters/1417,чІвази,kill
+81-812,avar1256,http://concepticon.clld.org/parameters/767,джаназа,corpse
+81-897,avar1256,http://concepticon.clld.org/parameters/1719,викъзи,bury (the dead)
+81-156,avar1256,http://concepticon.clld.org/parameters/1773,хІуб,"grave, tomb"
+81-295,avar1256,http://concepticon.clld.org/parameters/785,цІакъав,"strong, mighty, powerful"
+81-802,avar1256,http://concepticon.clld.org/parameters/1601,гІиджизав,weak
+81-371,avar1256,http://concepticon.clld.org/parameters/1364,сагъав,"well, health"
+81-1108,avar1256,http://concepticon.clld.org/parameters/1364,сагъси,"well, health"
+81-1022,avar1256,http://concepticon.clld.org/parameters/1847,унтлив,"sick, sickness"
+81-222,avar1256,http://concepticon.clld.org/parameters/1534,сири,fever
+81-670,avar1256,http://concepticon.clld.org/parameters/1957,зоб,goiter
+81-915,avar1256,http://concepticon.clld.org/parameters/102,рогьичІвай,cold (catarrh)
+81-774,avar1256,http://concepticon.clld.org/parameters/1109,тІихь,"wound, sore"
+81-769,avar1256,http://concepticon.clld.org/parameters/1148,чІугІур бакІ,bruise
+81-52,avar1256,http://concepticon.clld.org/parameters/1903,хІурой,swelling
+81-783,avar1256,http://concepticon.clld.org/parameters/148,бакари,itch
+81-1235,avar1256,http://concepticon.clld.org/parameters/1584,палакъучІа,blister
+81-72,avar1256,http://concepticon.clld.org/parameters/793,бахьмуз,boil (noun)
+81-457,avar1256,http://concepticon.clld.org/parameters/1808,ресІсІ,pus
+81-76,avar1256,http://concepticon.clld.org/parameters/1808,хІуред,pus
+81-1146,avar1256,http://concepticon.clld.org/parameters/497,лишан,scar
+81-1106,avar1256,http://concepticon.clld.org/parameters/499,вичагези гьавизи,"cure, heal"
+81-290,avar1256,http://concepticon.clld.org/parameters/597,тохтурав,physician
+81-176,avar1256,http://concepticon.clld.org/parameters/597,варач,physician
+81-546,avar1256,http://concepticon.clld.org/parameters/1372,дарман,"medicine, drug"
+81-1172,avar1256,http://concepticon.clld.org/parameters/1372,дару,"medicine, drug"
+81-711,avar1256,http://concepticon.clld.org/parameters/1372,сабаб,"medicine, drug"
+81-1030,avar1256,http://concepticon.clld.org/parameters/655,загьру,poison
+81-782,avar1256,http://concepticon.clld.org/parameters/1757,гуршарав,"tired, weary"
+81-1160,avar1256,http://concepticon.clld.org/parameters/168,гуршибахси,rest
+81-214,avar1256,http://concepticon.clld.org/parameters/1564,тамбалав,lazy
+81-967,avar1256,http://concepticon.clld.org/parameters/1125,кІехІав,bald
+81-939,avar1256,http://concepticon.clld.org/parameters/320,лекъдизи,lame
+81-356,avar1256,http://concepticon.clld.org/parameters/996,гІенкъав,deaf
+81-600,avar1256,http://concepticon.clld.org/parameters/1666,лалав,mute
+81-463,avar1256,http://concepticon.clld.org/parameters/1653,беццав,blind
+81-5,avar1256,http://concepticon.clld.org/parameters/1463,бехурав,intoxicated
+81-705,avar1256,http://concepticon.clld.org/parameters/590,чІиплахай,"naked, bare"
+81-569,avar1256,http://concepticon.clld.org/parameters/1336,кунази,eat
+81-58,avar1256,http://concepticon.clld.org/parameters/256,квен,food
+81-788,avar1256,http://concepticon.clld.org/parameters/269,бессараб,cooked
+81-877,avar1256,http://concepticon.clld.org/parameters/1959,гІатІаб,raw
+81-435,avar1256,http://concepticon.clld.org/parameters/178,щвараб,ripe
+81-306,avar1256,http://concepticon.clld.org/parameters/1958,кихІилйаб щвечІаб,"green, unripe"
+81-559,avar1256,http://concepticon.clld.org/parameters/1728,мацхІараб,rotten
+81-336,avar1256,http://concepticon.clld.org/parameters/1401,къези,drink
+81-837,avar1256,http://concepticon.clld.org/parameters/1533,вакъел,hunger
+81-346,avar1256,http://concepticon.clld.org/parameters/199,ракъел,famine
+81-255,avar1256,http://concepticon.clld.org/parameters/848,расси,thirst
+81-946,avar1256,http://concepticon.clld.org/parameters/1421,хІахІси,suck
+81-203,avar1256,http://concepticon.clld.org/parameters/321,чІамизи,chew
+81-819,avar1256,http://concepticon.clld.org/parameters/897,уркъзи,swallow
+81-1142,avar1256,http://concepticon.clld.org/parameters/129,ганкъзи,choke
+81-489,avar1256,http://concepticon.clld.org/parameters/1100,бессинзи,cook
+81-588,avar1256,http://concepticon.clld.org/parameters/792,гьвалзи,boil (vb)
+81-1216,avar1256,http://concepticon.clld.org/parameters/2146,бежзи,"roast, fry"
+81-1216,avar1256,http://concepticon.clld.org/parameters/183,бежзи,bake
+81-409,avar1256,http://concepticon.clld.org/parameters/1143,печ,oven
+81-319,avar1256,http://concepticon.clld.org/parameters/1462,купа,"pot, cooking vessel"
+81-690,avar1256,http://concepticon.clld.org/parameters/854,чиник,kettle
+81-866,avar1256,http://concepticon.clld.org/parameters/854,чигдан,kettle
+81-476,avar1256,http://concepticon.clld.org/parameters/31,хьаг,pan
+81-526,avar1256,http://concepticon.clld.org/parameters/481,тІаркІа,dish
+81-526,avar1256,http://concepticon.clld.org/parameters/480,тІаркІа,plate
+81-572,avar1256,http://concepticon.clld.org/parameters/1530,джами,bowl
+81-303,avar1256,http://concepticon.clld.org/parameters/270,гудзагиб,"pitcher, jug"
+81-862,avar1256,http://concepticon.clld.org/parameters/476,сар,"cup, drinking vessel"
+81-811,avar1256,http://concepticon.clld.org/parameters/271,булма,saucer
+81-864,avar1256,http://concepticon.clld.org/parameters/1378,бугьун,spoon
+81-903,avar1256,http://concepticon.clld.org/parameters/1352,нус,knife (2)
+81-396,avar1256,http://concepticon.clld.org/parameters/1302,йаба,fork (2)
+81-1000,avar1256,http://concepticon.clld.org/parameters/272,кулпутун,tongs
+81-58,avar1256,http://concepticon.clld.org/parameters/1526,квен,meal (a)
+81-511,avar1256,http://concepticon.clld.org/parameters/1526,кунай,meal (a)
+81-717,avar1256,http://concepticon.clld.org/parameters/1322,рогьибквен,breakfast
+81-935,avar1256,http://concepticon.clld.org/parameters/768,—,lunch
+81-843,avar1256,http://concepticon.clld.org/parameters/1833,къадиквен,dinner
+81-480,avar1256,http://concepticon.clld.org/parameters/1833,макІрачІуквен,supper
+81-1092,avar1256,http://concepticon.clld.org/parameters/275,уздан бузи,peel
+81-1024,avar1256,http://concepticon.clld.org/parameters/86,цІцІаркІзи,"sieve, strain"
+81-189,avar1256,http://concepticon.clld.org/parameters/86,сІсІози,"sieve, strain"
+81-247,avar1256,http://concepticon.clld.org/parameters/1767,зурзи,scrape
+81-640,avar1256,http://concepticon.clld.org/parameters/2017,жобози,"stir, mix"
+81-663,avar1256,http://concepticon.clld.org/parameters/1368,чед,bread
+81-535,avar1256,http://concepticon.clld.org/parameters/273,гІатІ,dough
+81-755,avar1256,http://concepticon.clld.org/parameters/274,гІатІ буцзи,knead
+81-84,avar1256,http://concepticon.clld.org/parameters/1594,гІат,"meal, flour"
+81-1046,avar1256,http://concepticon.clld.org/parameters/1033,хинзи,"crush, grind"
+81-375,avar1256,http://concepticon.clld.org/parameters/636,гьубо,mill
+81-135,avar1256,http://concepticon.clld.org/parameters/224,кІуни,mortar (2)
+81-14,avar1256,http://concepticon.clld.org/parameters/225,гІучІ,pestle
+81-619,avar1256,http://concepticon.clld.org/parameters/634,гьан,meat
+81-597,avar1256,http://concepticon.clld.org/parameters/1874,махІа сІсІурал басІсІал,sausage
+81-321,avar1256,http://concepticon.clld.org/parameters/1874,курхьин,sausage
+81-1177,avar1256,http://concepticon.clld.org/parameters/1547,каш,"soup, broth"
+81-408,avar1256,http://concepticon.clld.org/parameters/924,пихъ-мичІ,vegetables
+81-13,avar1256,http://concepticon.clld.org/parameters/832,гьоло,bean
+81-1059,avar1256,http://concepticon.clld.org/parameters/593,кІуртупли,potato
+81-1033,avar1256,http://concepticon.clld.org/parameters/1507,майва,fruit
+81-91,avar1256,http://concepticon.clld.org/parameters/1507,пихъ,fruit
+81-1211,avar1256,http://concepticon.clld.org/parameters/1966,гІини,bunch
+81-754,avar1256,http://concepticon.clld.org/parameters/322,инжир,fig
+81-621,avar1256,http://concepticon.clld.org/parameters/920,сІсІибил,grape
+81-573,avar1256,http://concepticon.clld.org/parameters/191,аракъил,nut
+81-1188,avar1256,http://concepticon.clld.org/parameters/191,мик,nut
+81-905,avar1256,http://concepticon.clld.org/parameters/1154,зайтун,olive
+81-151,avar1256,http://concepticon.clld.org/parameters/1484,нахІ,oil
+81-625,avar1256,http://concepticon.clld.org/parameters/323,магъ кІатІи,"grease, fat"
+81-633,avar1256,http://concepticon.clld.org/parameters/1274,сІсІам,salt
+81-696,avar1256,http://concepticon.clld.org/parameters/1385,усйот,pepper
+81-446,avar1256,http://concepticon.clld.org/parameters/919,бохІлиб усйот,chili pepper
+81-1125,avar1256,http://concepticon.clld.org/parameters/942,гьусІсІо,honey
+81-509,avar1256,http://concepticon.clld.org/parameters/862,чикар,sugar
+81-418,avar1256,http://concepticon.clld.org/parameters/635,рахь,milk (noun)
+81-104,avar1256,http://concepticon.clld.org/parameters/93,такІзи,milk (vb)
+81-719,avar1256,http://concepticon.clld.org/parameters/1569,хІан,cheese
+81-1218,avar1256,http://concepticon.clld.org/parameters/731,сим,"beverage, drink"
+81-151,avar1256,http://concepticon.clld.org/parameters/1245,нахІ,butter
+81-129,avar1256,http://concepticon.clld.org/parameters/941,гьисІсІил сим,mead
+81-1162,avar1256,http://concepticon.clld.org/parameters/1524,чихир,wine
+81-499,avar1256,http://concepticon.clld.org/parameters/1639,пиво,beer
+81-925,avar1256,http://concepticon.clld.org/parameters/404,чІачІа,fermented drink
+81-403,avar1256,http://concepticon.clld.org/parameters/744,хІупо,egg
+81-273,avar1256,http://concepticon.clld.org/parameters/1556,гьинил мачІаб,egg yolk
+81-970,avar1256,http://concepticon.clld.org/parameters/158,рикІзи,put on (clothes)
+81-1173,avar1256,http://concepticon.clld.org/parameters/1895,рекІел,"clothing, clothes"
+81-1220,avar1256,http://concepticon.clld.org/parameters/881,дарзийав,tailor
+81-849,avar1256,http://concepticon.clld.org/parameters/881,дарзияй,tailor
+81-790,avar1256,http://concepticon.clld.org/parameters/1616,парча,cloth
+81-1149,avar1256,http://concepticon.clld.org/parameters/964,квас,wool
+81-367,avar1256,http://concepticon.clld.org/parameters/916,лъелъ,"linen, flax"
+81-869,avar1256,http://concepticon.clld.org/parameters/1850,пампул,cotton
+81-360,avar1256,http://concepticon.clld.org/parameters/1641,ипак,silk
+81-917,avar1256,http://concepticon.clld.org/parameters/325,киз,felt
+81-975,avar1256,http://concepticon.clld.org/parameters/580,кусулаб,fur
+81-1191,avar1256,http://concepticon.clld.org/parameters/629,къехь,leather
+81-414,avar1256,http://concepticon.clld.org/parameters/629,лаб,leather
+81-765,avar1256,http://concepticon.clld.org/parameters/121,хьухьси,spin
+81-253,avar1256,http://concepticon.clld.org/parameters/277,мергу,spindle
+81-27,avar1256,http://concepticon.clld.org/parameters/133,гурзи,weave
+81-487,avar1256,http://concepticon.clld.org/parameters/1787,наккимахІи,loom
+81-846,avar1256,http://concepticon.clld.org/parameters/1457,бокъзи,sew
+81-159,avar1256,http://concepticon.clld.org/parameters/1382,тукІен,needle
+81-742,avar1256,http://concepticon.clld.org/parameters/278,гІибу,awl
+81-1184,avar1256,http://concepticon.clld.org/parameters/1161,кар,thread
+81-1123,avar1256,http://concepticon.clld.org/parameters/157,бил,dye
+81-832,avar1256,http://concepticon.clld.org/parameters/326,плаш,cloak
+81-935,avar1256,http://concepticon.clld.org/parameters/327,—,poncho
+81-510,avar1256,http://concepticon.clld.org/parameters/474,сІсІуйазул кунта,woman's dress
+81-450,avar1256,http://concepticon.clld.org/parameters/603,бултІо,coat
+81-911,avar1256,http://concepticon.clld.org/parameters/1622,кунта,shirt
+81-927,avar1256,http://concepticon.clld.org/parameters/2012,бултІил губул,collar
+81-1168,avar1256,http://concepticon.clld.org/parameters/1600,йубка,skirt
+81-1168,avar1256,http://concepticon.clld.org/parameters/328,йубка,grass-skirt
+81-969,avar1256,http://concepticon.clld.org/parameters/809,хІебет,trousers
+81-1055,avar1256,http://concepticon.clld.org/parameters/329,унсІсІи,"stocking, sock"
+81-1147,avar1256,http://concepticon.clld.org/parameters/1381,бохилжо,shoe
+81-315,avar1256,http://concepticon.clld.org/parameters/585,бохужо,boot
+81-1019,avar1256,http://concepticon.clld.org/parameters/875,чакмачи,"shoemaker, cobbler"
+81-310,avar1256,http://concepticon.clld.org/parameters/2130,шлйапа,"hat, cap"
+81-575,avar1256,http://concepticon.clld.org/parameters/772,камар,"belt, girdle"
+81-958,avar1256,http://concepticon.clld.org/parameters/867,квергъи,glove
+81-808,avar1256,http://concepticon.clld.org/parameters/1151,бадибигъ,veil
+81-527,avar1256,http://concepticon.clld.org/parameters/1851,жиби,pocket
+81-817,avar1256,http://concepticon.clld.org/parameters/757,дугма,button
+81-781,avar1256,http://concepticon.clld.org/parameters/64,синджакъ,pin
+81-125,avar1256,http://concepticon.clld.org/parameters/917,накъиш,"ornament, adornment"
+81-1198,avar1256,http://concepticon.clld.org/parameters/1029,жавгьар,jewel
+81-283,avar1256,http://concepticon.clld.org/parameters/1029,йакъут,jewel
+81-456,avar1256,http://concepticon.clld.org/parameters/1374,баргьич,ring (for finger)
+81-321,avar1256,http://concepticon.clld.org/parameters/1754,курхьин,bracelet
+81-270,avar1256,http://concepticon.clld.org/parameters/1961,маххал,necklace
+81-280,avar1256,http://concepticon.clld.org/parameters/1860,махх,bead
+81-420,avar1256,http://concepticon.clld.org/parameters/770,кІилкІал,earring
+81-417,avar1256,http://concepticon.clld.org/parameters/330,кІатІалиб,"headband, headdress"
+81-935,avar1256,http://concepticon.clld.org/parameters/68,—,tattoo
+81-78,avar1256,http://concepticon.clld.org/parameters/332,шумаш бисниб кІатІалиб,"handkerchief, rag"
+81-48,avar1256,http://concepticon.clld.org/parameters/1021,дасмал,towel
+81-448,avar1256,http://concepticon.clld.org/parameters/1475,гІорсІсІо,comb
+81-448,avar1256,http://concepticon.clld.org/parameters/1821,гІорсІсІо,brush
+81-178,avar1256,http://concepticon.clld.org/parameters/333,гъал,braid
+81-903,avar1256,http://concepticon.clld.org/parameters/151,нус,razor
+81-878,avar1256,http://concepticon.clld.org/parameters/1926,маз,ointment
+81-534,avar1256,http://concepticon.clld.org/parameters/788,сукІум,soap
+81-505,avar1256,http://concepticon.clld.org/parameters/1171,хинийаб,mirror
+81-96,avar1256,http://concepticon.clld.org/parameters/1099,логІзи,"dwell, live"
+81-392,avar1256,http://concepticon.clld.org/parameters/1252,рокъ,house
+81-1014,avar1256,http://concepticon.clld.org/parameters/1678,паж,hut
+81-392,avar1256,http://concepticon.clld.org/parameters/403,рокъ,garden-house
+81-908,avar1256,http://concepticon.clld.org/parameters/1316,чудур,tent
+81-576,avar1256,http://concepticon.clld.org/parameters/736,азбар,"yard, court"
+81-484,avar1256,http://concepticon.clld.org/parameters/408,бихьиназул рокъ,men's house
+81-107,avar1256,http://concepticon.clld.org/parameters/334,кухнйа,cookhouse
+81-276,avar1256,http://concepticon.clld.org/parameters/335,мажлисалъул рокъ,meeting house
+81-314,avar1256,http://concepticon.clld.org/parameters/335,кулуб,meeting house
+81-966,avar1256,http://concepticon.clld.org/parameters/1450,гоз,room
+81-77,avar1256,http://concepticon.clld.org/parameters/1567,нусІсІа,"door, gate"
+81-201,avar1256,http://concepticon.clld.org/parameters/1567,дарваза,"door, gate"
+81-1099,avar1256,http://concepticon.clld.org/parameters/80,хоноки,"doorpost, jamb"
+81-608,avar1256,http://concepticon.clld.org/parameters/1596,къупул,lock (noun)
+81-643,avar1256,http://concepticon.clld.org/parameters/1012,занджи,"latch, door-bolt"
+81-500,avar1256,http://concepticon.clld.org/parameters/1472,кІул,key
+81-779,avar1256,http://concepticon.clld.org/parameters/1375,горгъи,window
+81-372,avar1256,http://concepticon.clld.org/parameters/1632,кІину,floor
+81-240,avar1256,http://concepticon.clld.org/parameters/933,кье,wall
+81-1,avar1256,http://concepticon.clld.org/parameters/185,бухра,fireplace
+81-409,avar1256,http://concepticon.clld.org/parameters/859,печ,stove
+81-279,avar1256,http://concepticon.clld.org/parameters/1305,баджа,chimney
+81-106,avar1256,http://concepticon.clld.org/parameters/1464,миле,ladder
+81-822,avar1256,http://concepticon.clld.org/parameters/1663,кІарват,bed
+81-284,avar1256,http://concepticon.clld.org/parameters/1044,къанассру,pillow
+81-659,avar1256,http://concepticon.clld.org/parameters/806,йургьан,blanket
+81-401,avar1256,http://concepticon.clld.org/parameters/1476,бакІ,chair
+81-875,avar1256,http://concepticon.clld.org/parameters/1775,стол,table
+81-186,avar1256,http://concepticon.clld.org/parameters/2131,лампа,"lamp, torch"
+81-1077,avar1256,http://concepticon.clld.org/parameters/2131,чипахъ,"lamp, torch"
+81-387,avar1256,http://concepticon.clld.org/parameters/1273,шам,candle
+81-467,avar1256,http://concepticon.clld.org/parameters/745,бикІе,shelf
+81-97,avar1256,http://concepticon.clld.org/parameters/205,гомог,trough
+81-675,avar1256,http://concepticon.clld.org/parameters/769,кІом,roof
+81-675,avar1256,http://concepticon.clld.org/parameters/279,кІом,thatch
+81-1151,avar1256,http://concepticon.clld.org/parameters/280,тири,ridgepole
+81-226,avar1256,http://concepticon.clld.org/parameters/829,рихІи,rafter
+81-1151,avar1256,http://concepticon.clld.org/parameters/829,тири,rafter
+81-226,avar1256,http://concepticon.clld.org/parameters/1132,рихІи,beam
+81-1207,avar1256,http://concepticon.clld.org/parameters/281,зимини,"post, pole"
+81-1049,avar1256,http://concepticon.clld.org/parameters/1227,хирше,board
+81-545,avar1256,http://concepticon.clld.org/parameters/876,кІомор,arch
+81-1053,avar1256,http://concepticon.clld.org/parameters/877,къайал устар,mason
+81-853,avar1256,http://concepticon.clld.org/parameters/1006,кирпич,brick
+81-150,avar1256,http://concepticon.clld.org/parameters/1731,кирадж,mortar
+81-208,avar1256,http://concepticon.clld.org/parameters/901,саманасул рокъ,adobe
+81-767,avar1256,http://concepticon.clld.org/parameters/979,фермер,farmer
+81-496,avar1256,http://concepticon.clld.org/parameters/212,хІур,field (for cultivation)
+81-756,avar1256,http://concepticon.clld.org/parameters/586,багъи,garden
+81-234,avar1256,http://concepticon.clld.org/parameters/1541,расІсІ хІози,"cultivate, till"
+81-716,avar1256,http://concepticon.clld.org/parameters/1690,джубур,fence
+81-143,avar1256,http://concepticon.clld.org/parameters/2002,гонд,ditch
+81-791,avar1256,http://concepticon.clld.org/parameters/1921,хІози,plow
+81-335,avar1256,http://concepticon.clld.org/parameters/1794,хІурул рах,furrow
+81-506,avar1256,http://concepticon.clld.org/parameters/1418,бохзи,dig
+81-518,avar1256,http://concepticon.clld.org/parameters/1176,гІеш,spade
+81-689,avar1256,http://concepticon.clld.org/parameters/1901,тІинаб гІеш,shovel
+81-871,avar1256,http://concepticon.clld.org/parameters/284,тухна,hoe
+81-396,avar1256,http://concepticon.clld.org/parameters/337,йаба,fork
+81-809,avar1256,http://concepticon.clld.org/parameters/338,хирицІру,rake
+81-791,avar1256,http://concepticon.clld.org/parameters/748,хІози,sow
+81-1061,avar1256,http://concepticon.clld.org/parameters/714,хІом,seed
+81-533,avar1256,http://concepticon.clld.org/parameters/190,хвази,"mow, reap"
+81-297,avar1256,http://concepticon.clld.org/parameters/2132,чин,"sickle, scythe"
+81-447,avar1256,http://concepticon.clld.org/parameters/2132,нис,"sickle, scythe"
+81-651,avar1256,http://concepticon.clld.org/parameters/2132,чІенекІ,"sickle, scythe"
+81-1046,avar1256,http://concepticon.clld.org/parameters/285,хинзи,thresh
+81-1039,avar1256,http://concepticon.clld.org/parameters/223,гьорсІсІи,threshing-floor
+81-425,avar1256,http://concepticon.clld.org/parameters/611,хІайир,"crop, harvest"
+81-337,avar1256,http://concepticon.clld.org/parameters/605,рос,"grain (barley, oats etc)"
+81-1213,avar1256,http://concepticon.clld.org/parameters/605,ох,"grain (barley, oats etc)"
+81-337,avar1256,http://concepticon.clld.org/parameters/1077,рос,wheat
+81-1213,avar1256,http://concepticon.clld.org/parameters/932,ох,barley
+81-714,avar1256,http://concepticon.clld.org/parameters/23,угуб,rye
+81-1213,avar1256,http://concepticon.clld.org/parameters/60,ох,oats
+81-993,avar1256,http://concepticon.clld.org/parameters/506,къурдали,"maize, corn"
+81-45,avar1256,http://concepticon.clld.org/parameters/926,пиринчІ,rice
+81-1079,avar1256,http://concepticon.clld.org/parameters/606,хер,grass
+81-145,avar1256,http://concepticon.clld.org/parameters/342,букъараб хер,hay
+81-1079,avar1256,http://concepticon.clld.org/parameters/653,хер,plant (noun)
+81-302,avar1256,http://concepticon.clld.org/parameters/1486,бизжи,plant (vb)
+81-6,avar1256,http://concepticon.clld.org/parameters/670,кок,root
+81-938,avar1256,http://concepticon.clld.org/parameters/1531,гІенчІ,branch
+81-1082,avar1256,http://concepticon.clld.org/parameters/628,кІамахІ,leaf
+81-1085,avar1256,http://concepticon.clld.org/parameters/239,тІе,flower
+81-138,avar1256,http://concepticon.clld.org/parameters/906,гъветІ,tree
+81-219,avar1256,http://concepticon.clld.org/parameters/644,мерхъ,oak
+81-271,avar1256,http://concepticon.clld.org/parameters/1950,цІепел,beech
+81-1040,avar1256,http://concepticon.clld.org/parameters/1855,нихІ,birch
+81-649,avar1256,http://concepticon.clld.org/parameters/1740,шамил гъветІ,pine
+81-622,avar1256,http://concepticon.clld.org/parameters/1915,йолка,fir
+81-219,avar1256,http://concepticon.clld.org/parameters/968,мерхъ,acorn
+81-57,avar1256,http://concepticon.clld.org/parameters/343,энчІ,vine
+81-1240,avar1256,http://concepticon.clld.org/parameters/974,тутум,tobacco
+81-498,avar1256,http://concepticon.clld.org/parameters/1689,кІуй,smoke (tobacco)
+81-920,avar1256,http://concepticon.clld.org/parameters/1124,муштокІ,pipe
+81-18,avar1256,http://concepticon.clld.org/parameters/241,дунк,tree stump
+81-478,avar1256,http://concepticon.clld.org/parameters/344,гъотІол хІуби,tree trunk
+81-806,avar1256,http://concepticon.clld.org/parameters/409,гьача,forked branch
+81-483,avar1256,http://concepticon.clld.org/parameters/1204,макъар,bark
+81-1218,avar1256,http://concepticon.clld.org/parameters/345,сим,sap
+81-391,avar1256,http://concepticon.clld.org/parameters/1181,палма,palm tree
+81-900,avar1256,http://concepticon.clld.org/parameters/970,кокос,coconut
+81-1042,avar1256,http://concepticon.clld.org/parameters/1126,апелсин,citrus fruit
+81-15,avar1256,http://concepticon.clld.org/parameters/1126,лимон,citrus fruit
+81-352,avar1256,http://concepticon.clld.org/parameters/868,бананаcул гъветІ,banana tree
+81-1081,avar1256,http://concepticon.clld.org/parameters/346,инжираcул гъветІ,banyan
+81-504,avar1256,http://concepticon.clld.org/parameters/159,батат,sweet potato
+81-935,avar1256,http://concepticon.clld.org/parameters/410,—,yam
+81-935,avar1256,http://concepticon.clld.org/parameters/925,—,"tapioca, manioc, cassava"
+81-153,avar1256,http://concepticon.clld.org/parameters/411,къабахи,gourd
+81-153,avar1256,http://concepticon.clld.org/parameters/864,къабахи,"pumpkin, squash"
+81-1023,avar1256,http://concepticon.clld.org/parameters/1927,къургъу,bamboo
+81-318,avar1256,http://concepticon.clld.org/parameters/146,чикрил тІе,sugar cane
+81-935,avar1256,http://concepticon.clld.org/parameters/348,—,fish poison (root)
+81-603,avar1256,http://concepticon.clld.org/parameters/33,мидщІ,nettle
+81-238,avar1256,http://concepticon.clld.org/parameters/641,чаглаг,mushroom
+81-1075,avar1256,http://concepticon.clld.org/parameters/813,бузи,"do, make"
+81-587,avar1256,http://concepticon.clld.org/parameters/984,хІалтІи,work
+81-974,avar1256,http://concepticon.clld.org/parameters/2004,чІунзи,bend
+81-606,avar1256,http://concepticon.clld.org/parameters/1470,бакІарзи,fold
+81-427,avar1256,http://concepticon.clld.org/parameters/1917,бухІинзи,"tie, bind"
+81-815,avar1256,http://concepticon.clld.org/parameters/352,бичзи,untie
+81-612,avar1256,http://concepticon.clld.org/parameters/1627,зинджир,chain
+81-1148,avar1256,http://concepticon.clld.org/parameters/1218,квар,"rope, cord"
+81-351,avar1256,http://concepticon.clld.org/parameters/760,гарасІсІ,knot (noun)
+81-949,avar1256,http://concepticon.clld.org/parameters/2133,бази,"strike (hit, beat)"
+81-389,avar1256,http://concepticon.clld.org/parameters/354,зор бакензи,pound with fist
+81-507,avar1256,http://concepticon.clld.org/parameters/1432,къутІзи,cut
+81-968,avar1256,http://concepticon.clld.org/parameters/355,къукъбузи,cut down
+81-507,avar1256,http://concepticon.clld.org/parameters/155,къутІзи,"chop, hew"
+81-434,avar1256,http://concepticon.clld.org/parameters/1434,къази,stab
+81-903,avar1256,http://concepticon.clld.org/parameters/1352,нус,knife
+81-1006,avar1256,http://concepticon.clld.org/parameters/356,къесІсІмах,"scissors, shears"
+81-926,avar1256,http://concepticon.clld.org/parameters/677,гІижди,ax
+81-79,avar1256,http://concepticon.clld.org/parameters/290,нижагъ,adze
+81-99,avar1256,http://concepticon.clld.org/parameters/680,бекинзи,break
+81-724,avar1256,http://concepticon.clld.org/parameters/588,бекураб,broken
+81-570,avar1256,http://concepticon.clld.org/parameters/1437,халхІинзи,split
+81-9,avar1256,http://concepticon.clld.org/parameters/1735,тІези,tear
+81-888,avar1256,http://concepticon.clld.org/parameters/291,къехІ бахзи,"flay, skin"
+81-216,avar1256,http://concepticon.clld.org/parameters/1449,инзи бузи,"rub, wipe"
+81-232,avar1256,http://concepticon.clld.org/parameters/214,сІсІази,stretch
+81-232,avar1256,http://concepticon.clld.org/parameters/1455,сІсІази,pull
+81-1103,avar1256,http://concepticon.clld.org/parameters/38,бигьси,spread out
+81-885,avar1256,http://concepticon.clld.org/parameters/357,вахІази,hang up
+81-657,avar1256,http://concepticon.clld.org/parameters/1913,бижзи,press
+81-657,avar1256,http://concepticon.clld.org/parameters/1414,бижзи,"squeeze, wring"
+81-9,avar1256,http://concepticon.clld.org/parameters/1487,тІези,pour
+81-1119,avar1256,http://concepticon.clld.org/parameters/1453,чурзи,wash
+81-883,avar1256,http://concepticon.clld.org/parameters/230,сухази,sweep
+81-47,avar1256,http://concepticon.clld.org/parameters/245,рассулиб,broom
+81-978,avar1256,http://concepticon.clld.org/parameters/245,жул,broom
+81-1214,avar1256,http://concepticon.clld.org/parameters/1361,махІ-мачІ,tool
+81-686,avar1256,http://concepticon.clld.org/parameters/1042,цІулал устарав,carpenter
+81-949,avar1256,http://concepticon.clld.org/parameters/1840,бази,build
+81-266,avar1256,http://concepticon.clld.org/parameters/1501,рагьин,bore
+81-460,avar1256,http://concepticon.clld.org/parameters/46,нахъи чІази,hollow out
+81-561,avar1256,http://concepticon.clld.org/parameters/1948,хухадру,saw
+81-595,avar1256,http://concepticon.clld.org/parameters/1481,култІа,hammer
+81-677,avar1256,http://concepticon.clld.org/parameters/502,магІ,nail
+81-1065,avar1256,http://concepticon.clld.org/parameters/1069,клей,glue
+81-736,avar1256,http://concepticon.clld.org/parameters/1069,сину,glue
+81-543,avar1256,http://concepticon.clld.org/parameters/1001,мухху устарав,"smith, blacksmith"
+81-1157,avar1256,http://concepticon.clld.org/parameters/288,махх бакини бакІ,forge
+81-469,avar1256,http://concepticon.clld.org/parameters/1648,зиндани,anvil
+81-928,avar1256,http://concepticon.clld.org/parameters/211,бичІну тІези,cast (metals)
+81-512,avar1256,http://concepticon.clld.org/parameters/1369,месед,gold
+81-1233,avar1256,http://concepticon.clld.org/parameters/759,гІарац,silver
+81-851,avar1256,http://concepticon.clld.org/parameters/1825,йез,"copper, bronze"
+81-1112,avar1256,http://concepticon.clld.org/parameters/1825,мазгар,"copper, bronze"
+81-280,avar1256,http://concepticon.clld.org/parameters/621,махх,iron
+81-784,avar1256,http://concepticon.clld.org/parameters/627,лухІун,lead (noun)
+81-393,avar1256,http://concepticon.clld.org/parameters/358,кІеренаб махх,"tin, tinplate"
+81-254,avar1256,http://concepticon.clld.org/parameters/359,шагІил устарав,potter
+81-482,avar1256,http://concepticon.clld.org/parameters/289,куц тІези,mold (clay etc)
+81-804,avar1256,http://concepticon.clld.org/parameters/1399,палчих,clay
+81-1183,avar1256,http://concepticon.clld.org/parameters/604,айна,glass
+81-464,avar1256,http://concepticon.clld.org/parameters/1729,бесси,"weave, plait"
+81-75,avar1256,http://concepticon.clld.org/parameters/1539,чІинчІийаб,basket
+81-899,avar1256,http://concepticon.clld.org/parameters/195,бецІцІ,mat
+81-152,avar1256,http://concepticon.clld.org/parameters/292,гйаба,rug
+81-508,avar1256,http://concepticon.clld.org/parameters/293,сумка,netbag
+81-772,avar1256,http://concepticon.clld.org/parameters/1971,вентилятор,fan (noun)
+81-1013,avar1256,http://concepticon.clld.org/parameters/360,гьури гьубузи,fan (vb)
+81-507,avar1256,http://concepticon.clld.org/parameters/228,къутІзи,carve
+81-394,avar1256,http://concepticon.clld.org/parameters/914,скульптор,sculptor
+81-1002,avar1256,http://concepticon.clld.org/parameters/1002,статуя,statue
+81-752,avar1256,http://concepticon.clld.org/parameters/1979,линкори,chisel
+81-1123,avar1256,http://concepticon.clld.org/parameters/647,бил,paint (noun)
+81-986,avar1256,http://concepticon.clld.org/parameters/2001,бахзи,paint (vb)
+81-3,avar1256,http://concepticon.clld.org/parameters/765,гьивигьзи,move
+81-210,avar1256,http://concepticon.clld.org/parameters/1588,сверзи,turn over
+81-210,avar1256,http://concepticon.clld.org/parameters/1445,сверзи,turn around
+81-162,avar1256,http://concepticon.clld.org/parameters/1113,бакІаризи,"wind, wrap"
+81-210,avar1256,http://concepticon.clld.org/parameters/827,сверзи,roll
+81-506,avar1256,http://concepticon.clld.org/parameters/808,бохзи,drop (vb)
+81-194,avar1256,http://concepticon.clld.org/parameters/430,сІсІурзи,twist
+81-726,avar1256,http://concepticon.clld.org/parameters/568,вахзи,rise
+81-1221,avar1256,http://concepticon.clld.org/parameters/501,бокІзи,"raise, lift"
+81-169,avar1256,http://concepticon.clld.org/parameters/1280,борцзи,fall
+81-9,avar1256,http://concepticon.clld.org/parameters/2253,тІези,drip
+81-1130,avar1256,http://concepticon.clld.org/parameters/1456,бехзи,throw
+81-844,avar1256,http://concepticon.clld.org/parameters/702,гвези,catch (ball)
+81-243,avar1256,http://concepticon.clld.org/parameters/1909,кІивикІзи,shake
+81-1236,avar1256,http://concepticon.clld.org/parameters/2003,гІойса тІези,flow
+81-1142,avar1256,http://concepticon.clld.org/parameters/1088,ганкъзи,sink
+81-887,avar1256,http://concepticon.clld.org/parameters/1574,сердези,float
+81-887,avar1256,http://concepticon.clld.org/parameters/1439,сердези,swim
+81-855,avar1256,http://concepticon.clld.org/parameters/119,судуни касси,dive
+81-361,avar1256,http://concepticon.clld.org/parameters/365,сиш чІази,splash
+81-887,avar1256,http://concepticon.clld.org/parameters/787,сердези,sail (vb)
+81-536,avar1256,http://concepticon.clld.org/parameters/1441,воржинзи,fly (vb)
+81-1064,avar1256,http://concepticon.clld.org/parameters/175,пузи,blow
+81-1210,avar1256,http://concepticon.clld.org/parameters/96,хуршези,"creep, crawl"
+81-898,avar1256,http://concepticon.clld.org/parameters/66,накбизи чІези,kneel
+81-1094,avar1256,http://concepticon.clld.org/parameters/296,гІодове кІуси,crouch
+81-38,avar1256,http://concepticon.clld.org/parameters/1324,тирзи,"slide, slip"
+81-931,avar1256,http://concepticon.clld.org/parameters/1829,каси,"jump, leap"
+81-949,avar1256,http://concepticon.clld.org/parameters/1135,бази,kick
+81-1139,avar1256,http://concepticon.clld.org/parameters/1135,милид кІасІсІи,kick
+81-929,avar1256,http://concepticon.clld.org/parameters/1879,васандизи,dance
+81-731,avar1256,http://concepticon.clld.org/parameters/1443,свердзи,walk
+81-166,avar1256,http://concepticon.clld.org/parameters/366,лекъдази,limp
+81-994,avar1256,http://concepticon.clld.org/parameters/1519,рудзи,run
+81-149,avar1256,http://concepticon.clld.org/parameters/695,инзи,go
+81-981,avar1256,http://concepticon.clld.org/parameters/705,кІади инзи,go up
+81-618,avar1256,http://concepticon.clld.org/parameters/1102,кІади вахси,climb
+81-642,avar1256,http://concepticon.clld.org/parameters/2014,ваштинзи,go down
+81-334,avar1256,http://concepticon.clld.org/parameters/1107,къутІи вахзи,go out
+81-542,avar1256,http://concepticon.clld.org/parameters/1446,весси,come
+81-157,avar1256,http://concepticon.clld.org/parameters/581,накъи весси,come back
+81-149,avar1256,http://concepticon.clld.org/parameters/1752,инзи,"go away, depart"
+81-1205,avar1256,http://concepticon.clld.org/parameters/485,вохІу инзи,disappear
+81-89,avar1256,http://concepticon.clld.org/parameters/956,ворчІинзи,flee
+81-641,avar1256,http://concepticon.clld.org/parameters/1085,нахъ инзи,follow
+81-641,avar1256,http://concepticon.clld.org/parameters/1047,нахъ инзи,pursue
+81-1051,avar1256,http://concepticon.clld.org/parameters/1387,нахъ унтІзи,"reach, arrive"
+81-894,avar1256,http://concepticon.clld.org/parameters/1778,кІади весси,approach
+81-831,avar1256,http://concepticon.clld.org/parameters/749,су гьинзи,enter
+81-204,avar1256,http://concepticon.clld.org/parameters/700,бокІи бесси,carry (bear)
+81-523,avar1256,http://concepticon.clld.org/parameters/412,кудиб бачзи,carry-in-hand
+81-1135,avar1256,http://concepticon.clld.org/parameters/413,ракІалкІа бачзи,carry-on-shoulder
+81-664,avar1256,http://concepticon.clld.org/parameters/414,бикІрикІа бачзи,carry-on-head
+81-35,avar1256,http://concepticon.clld.org/parameters/415,къулдиз бачзи,carry-underarm
+81-856,avar1256,http://concepticon.clld.org/parameters/692,бокІи беси,bring
+81-607,avar1256,http://concepticon.clld.org/parameters/1127,витІзи,send
+81-933,avar1256,http://concepticon.clld.org/parameters/43,бакІару инзи,lead (vb)
+81-676,avar1256,http://concepticon.clld.org/parameters/741,машинадухун инзи,drive
+81-644,avar1256,http://concepticon.clld.org/parameters/367,чокІа инзи,ride
+81-708,avar1256,http://concepticon.clld.org/parameters/1452,тункзи,"push, shove"
+81-891,avar1256,http://concepticon.clld.org/parameters/667,нухІ,road
+81-891,avar1256,http://concepticon.clld.org/parameters/2252,нухІ,path
+81-824,avar1256,http://concepticon.clld.org/parameters/1011,сІсІо,bridge
+81-17,avar1256,http://concepticon.clld.org/parameters/122,гІарба,"carriage, wagon, cart"
+81-555,avar1256,http://concepticon.clld.org/parameters/710,торпи,wheel
+81-549,avar1256,http://concepticon.clld.org/parameters/1769,гІус,axle
+81-241,avar1256,http://concepticon.clld.org/parameters/14,русІсІ,yoke
+81-669,avar1256,http://concepticon.clld.org/parameters/740,гими,ship
+81-669,avar1256,http://concepticon.clld.org/parameters/1844,гими,boat
+81-669,avar1256,http://concepticon.clld.org/parameters/1970,гими,canoe
+81-669,avar1256,http://concepticon.clld.org/parameters/416,гими,outrigger
+81-528,avar1256,http://concepticon.clld.org/parameters/1664,плот,raft
+81-763,avar1256,http://concepticon.clld.org/parameters/108,гимидул гІеш,oar
+81-763,avar1256,http://concepticon.clld.org/parameters/234,гимидул гІеш,paddle (noun)
+81-887,avar1256,http://concepticon.clld.org/parameters/1849,сердези,row (vb)
+81-259,avar1256,http://concepticon.clld.org/parameters/108,руль,rudder
+81-1105,avar1256,http://concepticon.clld.org/parameters/184,хІуби,mast
+81-987,avar1256,http://concepticon.clld.org/parameters/786,парус,sail (noun)
+81-1185,avar1256,http://concepticon.clld.org/parameters/1870,якорь,anchor
+81-598,avar1256,http://concepticon.clld.org/parameters/610,порт,"harbor, port"
+81-642,avar1256,http://concepticon.clld.org/parameters/1922,ваштинзи,land (vb)
+81-464,avar1256,http://concepticon.clld.org/parameters/773,бесси,have
+81-721,avar1256,http://concepticon.clld.org/parameters/684,бугаб,"own, possess"
+81-1221,avar1256,http://concepticon.clld.org/parameters/1749,бокІзи,take
+81-844,avar1256,http://concepticon.clld.org/parameters/2021,гвези,"seize, grasp"
+81-844,avar1256,http://concepticon.clld.org/parameters/1448,гвези,hold
+81-182,avar1256,http://concepticon.clld.org/parameters/694,щвези,"get, obtain"
+81-118,avar1256,http://concepticon.clld.org/parameters/1477,хьихьси,"keep, retain"
+81-786,avar1256,http://concepticon.clld.org/parameters/738,жо,thing
+81-997,avar1256,http://concepticon.clld.org/parameters/1447,сІсІези,give
+81-210,avar1256,http://concepticon.clld.org/parameters/85,сверзи,give back
+81-118,avar1256,http://concepticon.clld.org/parameters/1997,хьихьси,"preserve, look after"
+81-220,avar1256,http://concepticon.clld.org/parameters/2008,ваху гезигьавузи,"save, rescue"
+81-909,avar1256,http://concepticon.clld.org/parameters/681,дагІахІзи,destroy
+81-102,avar1256,http://concepticon.clld.org/parameters/44,зийан бузи,"harm, injure, damage"
+81-854,avar1256,http://concepticon.clld.org/parameters/1468,баласси,"seek, look for"
+81-982,avar1256,http://concepticon.clld.org/parameters/719,батзи,find
+81-494,avar1256,http://concepticon.clld.org/parameters/1660,бохІинзи,lose
+81-1120,avar1256,http://concepticon.clld.org/parameters/1095,бачази,"release, let go"
+81-1233,avar1256,http://concepticon.clld.org/parameters/1559,гІарац,money
+81-441,avar1256,http://concepticon.clld.org/parameters/1867,кІепекІ,coin
+81-567,avar1256,http://concepticon.clld.org/parameters/712,бичейав,rich
+81-1054,avar1256,http://concepticon.clld.org/parameters/1674,мискинав,poor
+81-369,avar1256,http://concepticon.clld.org/parameters/1934,мискин,beggar
+81-1164,avar1256,http://concepticon.clld.org/parameters/1774,къирчийав,"avaricious, stingy"
+81-685,avar1256,http://concepticon.clld.org/parameters/582,борджух,lend
+81-997,avar1256,http://concepticon.clld.org/parameters/582,сІсІези,lend
+81-637,avar1256,http://concepticon.clld.org/parameters/1823,гьарзи,borrow
+81-293,avar1256,http://concepticon.clld.org/parameters/369,сІсІези гарав,owe
+81-538,avar1256,http://concepticon.clld.org/parameters/1914,бордж,debt
+81-997,avar1256,http://concepticon.clld.org/parameters/718,сІсІези,pay (vb)
+81-322,avar1256,http://concepticon.clld.org/parameters/1081,хІисаб,"account, reckoning"
+81-452,avar1256,http://concepticon.clld.org/parameters/873,закат,"tax, tribute"
+81-256,avar1256,http://concepticon.clld.org/parameters/873,налуг,"tax, tribute"
+81-426,avar1256,http://concepticon.clld.org/parameters/856,гьези,hire
+81-1102,avar1256,http://concepticon.clld.org/parameters/1122,хІакь,wages
+81-945,avar1256,http://concepticon.clld.org/parameters/733,бикинзи,earn
+81-1190,avar1256,http://concepticon.clld.org/parameters/1869,босинзи,buy
+81-727,avar1256,http://concepticon.clld.org/parameters/1571,бичинзи,sell
+81-634,avar1256,http://concepticon.clld.org/parameters/2135,бичну хиси,"trade, barter"
+81-1200,avar1256,http://concepticon.clld.org/parameters/1082,базарган,merchant
+81-678,avar1256,http://concepticon.clld.org/parameters/633,базар,market (place)
+81-552,avar1256,http://concepticon.clld.org/parameters/752,магазин,"store, shop"
+81-882,avar1256,http://concepticon.clld.org/parameters/752,тукан,"store, shop"
+81-1222,avar1256,http://concepticon.clld.org/parameters/657,къимат,price
+81-828,avar1256,http://concepticon.clld.org/parameters/1426,хирийав,"dear (costly, expensive)"
+81-1133,avar1256,http://concepticon.clld.org/parameters/1887,учузаб,cheap
+81-873,avar1256,http://concepticon.clld.org/parameters/884,бисІсІзи,share (distribute)
+81-1169,avar1256,http://concepticon.clld.org/parameters/1098,боцинзи,weigh
+81-344,avar1256,http://concepticon.clld.org/parameters/1685,наха,after
+81-682,avar1256,http://concepticon.clld.org/parameters/723,нахъе,behind
+81-834,avar1256,http://concepticon.clld.org/parameters/1816,гьоддух,beside
+81-236,avar1256,http://concepticon.clld.org/parameters/1326,гІодобе,"down, below"
+81-983,avar1256,http://concepticon.clld.org/parameters/1882,данди,before
+81-344,avar1256,http://concepticon.clld.org/parameters/1882,наха,before
+81-983,avar1256,http://concepticon.clld.org/parameters/1019,данди,front
+81-1113,avar1256,http://concepticon.clld.org/parameters/1606,жану,"inside, in"
+81-320,avar1256,http://concepticon.clld.org/parameters/762,къутІиб,outside
+81-605,avar1256,http://concepticon.clld.org/parameters/1485,гъудо,under
+81-397,avar1256,http://concepticon.clld.org/parameters/1485,гІобоб,under
+81-835,avar1256,http://concepticon.clld.org/parameters/1591,кІад,"up, above"
+81-401,avar1256,http://concepticon.clld.org/parameters/723,бакІ,place
+81-122,avar1256,http://concepticon.clld.org/parameters/998,сези,put
+81-666,avar1256,http://concepticon.clld.org/parameters/1416,вогІзив,sit
+81-688,avar1256,http://concepticon.clld.org/parameters/215,вегинзи,lie down
+81-368,avar1256,http://concepticon.clld.org/parameters/1442,вохну чІези,stand
+81-1045,avar1256,http://concepticon.clld.org/parameters/987,хутІзи,"remain, stay"
+81-81,avar1256,http://concepticon.clld.org/parameters/838,нахи хутІароб,"remains, left overs"
+81-606,avar1256,http://concepticon.clld.org/parameters/7,бакІарзи,"collect, gather"
+81-183,avar1256,http://concepticon.clld.org/parameters/371,кІади бокІзи,pick up
+81-606,avar1256,http://concepticon.clld.org/parameters/1576,бакІарзи,pile up
+81-867,avar1256,http://concepticon.clld.org/parameters/1743,данди бузи,"join, unite"
+81-858,avar1256,http://concepticon.clld.org/parameters/1359,бокІад бузи,separate
+81-873,avar1256,http://concepticon.clld.org/parameters/1119,бисІсІзи,divide
+81-137,avar1256,http://concepticon.clld.org/parameters/1156,бичІинзи,open
+81-120,avar1256,http://concepticon.clld.org/parameters/1046,бахІази,"shut, close"
+81-1017,avar1256,http://concepticon.clld.org/parameters/761,кІад тІамзи,cover
+81-144,avar1256,http://concepticon.clld.org/parameters/602,бикъу тези,"hide, conceal"
+81-191,avar1256,http://concepticon.clld.org/parameters/1265,рохІида,high
+81-1217,avar1256,http://concepticon.clld.org/parameters/721,гьудобийагІан,low
+81-687,avar1256,http://concepticon.clld.org/parameters/1753,йал,top
+81-694,avar1256,http://concepticon.clld.org/parameters/690,гІодокІиналда,bottom
+81-12,avar1256,http://concepticon.clld.org/parameters/742,ахир,end
+81-738,avar1256,http://concepticon.clld.org/parameters/372,бегІераб,pointed
+81-626,avar1256,http://concepticon.clld.org/parameters/863,кІал къирагъ,edge
+81-398,avar1256,http://concepticon.clld.org/parameters/682,рах,side
+81-704,avar1256,http://concepticon.clld.org/parameters/1093,сІсІороб бакІ,"middle, center"
+81-239,avar1256,http://concepticon.clld.org/parameters/1019,кумараб (рах),right (side)
+81-740,avar1256,http://concepticon.clld.org/parameters/244,мекъаб (рах),left (side)
+81-332,avar1256,http://concepticon.clld.org/parameters/1942,гьодух,near (adv)
+81-1084,avar1256,http://concepticon.clld.org/parameters/1406,рикІкІад,far (adv)
+81-1008,avar1256,http://concepticon.clld.org/parameters/1877,машрикъ,east
+81-797,avar1256,http://concepticon.clld.org/parameters/1817,магъриб,west
+81-1166,avar1256,http://concepticon.clld.org/parameters/1598,къузай,north
+81-477,avar1256,http://concepticon.clld.org/parameters/1595,гунай,south
+81-323,avar1256,http://concepticon.clld.org/parameters/1595,къибла,south
+81-652,avar1256,http://concepticon.clld.org/parameters/479,биззи,grow
+81-1169,avar1256,http://concepticon.clld.org/parameters/1506,боцинзи,measure
+81-935,avar1256,http://concepticon.clld.org/parameters/81,—,"span, fathom"
+81-810,avar1256,http://concepticon.clld.org/parameters/1202,кІудаб,"large, big"
+81-665,avar1256,http://concepticon.clld.org/parameters/1246,тІинаб,"small, little"
+81-870,avar1256,http://concepticon.clld.org/parameters/1203,халайаб,long
+81-128,avar1256,http://concepticon.clld.org/parameters/711,рохІидаб,tall
+81-770,avar1256,http://concepticon.clld.org/parameters/1645,къукъаб,short
+81-691,avar1256,http://concepticon.clld.org/parameters/1243,гІикІийаб,"wide, broad"
+81-761,avar1256,http://concepticon.clld.org/parameters/1198,гІемер(аб),"much, many"
+81-907,avar1256,http://concepticon.clld.org/parameters/1992,сІсІикІкІараб,more
+81-764,avar1256,http://concepticon.clld.org/parameters/1992,цІцІикІкІараб,more
+81-665,avar1256,http://concepticon.clld.org/parameters/1242,тІинаб,"little (quantity), few"
+81-579,avar1256,http://concepticon.clld.org/parameters/1881,гІойаб,enough
+81-551,avar1256,http://concepticon.clld.org/parameters/1241,чамоб,some
+81-793,avar1256,http://concepticon.clld.org/parameters/2023,гІемераб,"multitude, crowd"
+81-131,avar1256,http://concepticon.clld.org/parameters/1429,сІсІураб,full
+81-432,avar1256,http://concepticon.clld.org/parameters/1429,цІцІураб,full
+81-103,avar1256,http://concepticon.clld.org/parameters/1624,бошаб,empty
+81-948,avar1256,http://concepticon.clld.org/parameters/779,мучІ,"part, piece"
+81-431,avar1256,http://concepticon.clld.org/parameters/816,бащилаб,half
+81-798,avar1256,http://concepticon.clld.org/parameters/1580,цохІо,"alone, only"
+81-1062,avar1256,http://concepticon.clld.org/parameters/728,кІуцхейлав,first
+81-758,avar1256,http://concepticon.clld.org/parameters/1529,бишу нахаб,last
+81-616,avar1256,http://concepticon.clld.org/parameters/1384,кІийилав,second
+81-94,avar1256,http://concepticon.clld.org/parameters/1888,чут,pair
+81-305,avar1256,http://concepticon.clld.org/parameters/1546,кІигу нухІас,two times
+81-66,avar1256,http://concepticon.clld.org/parameters/1859,саббилав,third
+81-519,avar1256,http://concepticon.clld.org/parameters/417,сабгу нухІас,three times
+81-1007,avar1256,http://concepticon.clld.org/parameters/892,мех,time
+81-1179,avar1256,http://concepticon.clld.org/parameters/892,заман,time
+81-1007,avar1256,http://concepticon.clld.org/parameters/1789,мех,age
+81-836,avar1256,http://concepticon.clld.org/parameters/1789,гІасру,age
+81-1087,avar1256,http://concepticon.clld.org/parameters/1231,цІийаб,new
+81-876,avar1256,http://concepticon.clld.org/parameters/1207,гІоллаб,young
+81-1012,avar1256,http://concepticon.clld.org/parameters/1229,басрайаб,old
+81-805,avar1256,http://concepticon.clld.org/parameters/672,долого,early
+81-344,avar1256,http://concepticon.clld.org/parameters/477,наха,late
+81-820,avar1256,http://concepticon.clld.org/parameters/1376,сагІану,now
+81-1212,avar1256,http://concepticon.clld.org/parameters/1376,гьиндже,now
+81-661,avar1256,http://concepticon.clld.org/parameters/1963,гьабсагІатас,immediately
+81-22,avar1256,http://concepticon.clld.org/parameters/1631,лебалав,"swift, fast, quick"
+81-785,avar1256,http://concepticon.clld.org/parameters/701,йавашаб,slow
+81-631,avar1256,http://concepticon.clld.org/parameters/754,хІалатинзи,"hasten, hurry"
+81-844,avar1256,http://concepticon.clld.org/parameters/425,гвези,"retard, delay"
+81-530,avar1256,http://concepticon.clld.org/parameters/425,кватІзи,"retard, delay"
+81-985,avar1256,http://concepticon.clld.org/parameters/1806,байбехІзи,"begin, beginning"
+81-1026,avar1256,http://concepticon.clld.org/parameters/1806,байбехІи,"begin, beginning"
+81-599,avar1256,http://concepticon.clld.org/parameters/1186,анабугу,"last, endure"
+81-422,avar1256,http://concepticon.clld.org/parameters/743,сугІинзи,end (temporal)
+81-473,avar1256,http://concepticon.clld.org/parameters/1766,сугьинзи,finish
+81-362,avar1256,http://concepticon.clld.org/parameters/1928,чІчІези,"cease, stop"
+81-581,avar1256,http://concepticon.clld.org/parameters/790,гІураб,ready
+81-202,avar1256,http://concepticon.clld.org/parameters/1676,гьамиша,always
+81-773,avar1256,http://concepticon.clld.org/parameters/1852,дло-длогу,often
+81-889,avar1256,http://concepticon.clld.org/parameters/1544,мех-мехас,sometimes
+81-70,avar1256,http://concepticon.clld.org/parameters/703,кватІичІогу,soon
+81-684,avar1256,http://concepticon.clld.org/parameters/418,халабахураб,long-time (for a)
+81-957,avar1256,http://concepticon.clld.org/parameters/1656,кидаги,never
+81-470,avar1256,http://concepticon.clld.org/parameters/204,жеги,again
+81-673,avar1256,http://concepticon.clld.org/parameters/1260,къо,day
+81-679,avar1256,http://concepticon.clld.org/parameters/1233,судро,night
+81-777,avar1256,http://concepticon.clld.org/parameters/729,кахІи канси,dawn
+81-8,avar1256,http://concepticon.clld.org/parameters/1339,рохІимех,morning
+81-799,avar1256,http://concepticon.clld.org/parameters/12,къадимех,"noon, midday"
+81-1238,avar1256,http://concepticon.clld.org/parameters/1807,бокъоборил мех,afternoon
+81-1020,avar1256,http://concepticon.clld.org/parameters/1629,макІрачІул мех,evening
+81-813,avar1256,http://concepticon.clld.org/parameters/1283,жекъа,today
+81-439,avar1256,http://concepticon.clld.org/parameters/1329,гьадали,tomorrow
+81-164,avar1256,http://concepticon.clld.org/parameters/1179,сийану,day-after-tomorrow
+81-1155,avar1256,http://concepticon.clld.org/parameters/1174,сонци,yesterday
+81-680,avar1256,http://concepticon.clld.org/parameters/1180,циригуну,day-before-yesterday
+81-199,avar1256,http://concepticon.clld.org/parameters/1353,сагІат,hour
+81-199,avar1256,http://concepticon.clld.org/parameters/1323,сагІат,"clock, timepiece"
+81-71,avar1256,http://concepticon.clld.org/parameters/1469,буджмар,week
+81-1043,avar1256,http://concepticon.clld.org/parameters/1699,базаркъо,Sunday
+81-653,avar1256,http://concepticon.clld.org/parameters/1697,ухсуруркъо,Monday
+81-1187,avar1256,http://concepticon.clld.org/parameters/1695,худур,Tuesday
+81-227,avar1256,http://concepticon.clld.org/parameters/1694,ччугІадкъо,Wednesday
+81-565,avar1256,http://concepticon.clld.org/parameters/1693,сІсІороркъо,Thursday
+81-69,avar1256,http://concepticon.clld.org/parameters/1692,буджмаркъо,Friday
+81-111,avar1256,http://concepticon.clld.org/parameters/1700,шамат,Saturday
+81-639,avar1256,http://concepticon.clld.org/parameters/1370,мосІсІ,month
+81-725,avar1256,http://concepticon.clld.org/parameters/1226,сон,year
+81-613,avar1256,http://concepticon.clld.org/parameters/1471,сІсІин,winter
+81-1156,avar1256,http://concepticon.clld.org/parameters/1537,их,spring
+81-584,avar1256,http://concepticon.clld.org/parameters/1342,ригІи,summer
+81-1003,avar1256,http://concepticon.clld.org/parameters/1276,хасел,autumn
+81-43,avar1256,http://concepticon.clld.org/parameters/691,санал мех,season
+81-865,avar1256,http://concepticon.clld.org/parameters/1587,махІ бугу,smell (vb intrans)
+81-845,avar1256,http://concepticon.clld.org/parameters/375,шункІзи,sniff
+81-845,avar1256,http://concepticon.clld.org/parameters/1586,шункІзи,smell (vb trans)
+81-171,avar1256,http://concepticon.clld.org/parameters/376,махІ берцинаб,"fragrant, good smelling"
+81-840,avar1256,http://concepticon.clld.org/parameters/42,махІ чиркинаб,"stinking, bad smelling"
+81-681,avar1256,http://concepticon.clld.org/parameters/21,дад,taste
+81-359,avar1256,http://concepticon.clld.org/parameters/717,гьуинаб,sweet
+81-1132,avar1256,http://concepticon.clld.org/parameters/1091,сІсІугІмалаб,salty
+81-155,avar1256,http://concepticon.clld.org/parameters/887,сІсІугІаб,bitter
+81-695,avar1256,http://concepticon.clld.org/parameters/1906,сІсІекІаб,"acid, sour"
+81-1132,avar1256,http://concepticon.clld.org/parameters/70,сІсІугІмалаб,brackish
+81-880,avar1256,http://concepticon.clld.org/parameters/1408,ригІзи,hear
+81-379,avar1256,http://concepticon.clld.org/parameters/1608,гІенчІази,listen
+81-863,avar1256,http://concepticon.clld.org/parameters/1811,сас,"sound, noise"
+81-630,avar1256,http://concepticon.clld.org/parameters/377,цІакьаб,loud
+81-810,avar1256,http://concepticon.clld.org/parameters/377,кІудаб,loud
+81-785,avar1256,http://concepticon.clld.org/parameters/1314,йавашаб,"quiet, silence"
+81-357,avar1256,http://concepticon.clld.org/parameters/1409,бехьзи,see
+81-466,avar1256,http://concepticon.clld.org/parameters/1819,балагьзи,"look, look at"
+81-991,avar1256,http://concepticon.clld.org/parameters/1039,бехьзи бузи,show
+81-442,avar1256,http://concepticon.clld.org/parameters/708,канси баккзи,shine
+81-999,avar1256,http://concepticon.clld.org/parameters/679,учухаб,bright
+81-331,avar1256,http://concepticon.clld.org/parameters/1613,ранг,color
+81-1010,avar1256,http://concepticon.clld.org/parameters/250,кансураб,light (in color)
+81-701,avar1256,http://concepticon.clld.org/parameters/706,буцІлухаб,dark (in color)
+81-1015,avar1256,http://concepticon.clld.org/parameters/706,тунтаб,dark (in color)
+81-934,avar1256,http://concepticon.clld.org/parameters/1335,кахІаб,white
+81-1127,avar1256,http://concepticon.clld.org/parameters/163,чІегІероб,black
+81-378,avar1256,http://concepticon.clld.org/parameters/156,багІароб,red
+81-646,avar1256,http://concepticon.clld.org/parameters/837,кихІилоб,blue
+81-358,avar1256,http://concepticon.clld.org/parameters/1425,чуййаб,green
+81-1223,avar1256,http://concepticon.clld.org/parameters/1424,чудудуб,yellow
+81-329,avar1256,http://concepticon.clld.org/parameters/1892,хатІзи,touch
+81-1052,avar1256,http://concepticon.clld.org/parameters/378,бичІджи,pinch
+81-100,avar1256,http://concepticon.clld.org/parameters/1079,хабарси,feel
+81-95,avar1256,http://concepticon.clld.org/parameters/1884,къванкъураб,hard
+81-354,avar1256,http://concepticon.clld.org/parameters/1856,тамихІаб,soft
+81-95,avar1256,http://concepticon.clld.org/parameters/1923,къванкъураб,rough
+81-722,avar1256,http://concepticon.clld.org/parameters/1234,нихІнихІураб,smooth
+81-738,avar1256,http://concepticon.clld.org/parameters/1396,бегІераб,sharp
+81-937,avar1256,http://concepticon.clld.org/parameters/379,кІагІаб,"blunt, dull"
+81-775,avar1256,http://concepticon.clld.org/parameters/1210,бакІаб,heavy
+81-198,avar1256,http://concepticon.clld.org/parameters/1052,кІадагьаб,light (in weight)
+81-1196,avar1256,http://concepticon.clld.org/parameters/1726,бегІараб,"wet, damp"
+81-712,avar1256,http://concepticon.clld.org/parameters/1398,букъараб,dry
+81-90,avar1256,http://concepticon.clld.org/parameters/1286,бохІлиб,hot
+81-363,avar1256,http://concepticon.clld.org/parameters/1232,бахьлиб,warm
+81-370,avar1256,http://concepticon.clld.org/parameters/1287,богьлиб,cold
+81-88,avar1256,http://concepticon.clld.org/parameters/704,узданаб,clean
+81-1128,avar1256,http://concepticon.clld.org/parameters/1230,гелехаб,"dirty, soiled"
+81-1074,avar1256,http://concepticon.clld.org/parameters/380,чІумчІумураб,wrinkled
+81-440,avar1256,http://concepticon.clld.org/parameters/53,рухІ,"soul, spirit"
+81-1215,avar1256,http://concepticon.clld.org/parameters/1572,сІсІогьорав,"surprised, astonished"
+81-193,avar1256,http://concepticon.clld.org/parameters/720,къисмат,"good fortune, luck"
+81-265,avar1256,http://concepticon.clld.org/parameters/56,къисмат гьечІебси,"misfortune, bad luck"
+81-436,avar1256,http://concepticon.clld.org/parameters/1495,вохарав,"joyful, glad, happy"
+81-583,avar1256,http://concepticon.clld.org/parameters/1355,весзи,laugh
+81-174,avar1256,http://concepticon.clld.org/parameters/1451,гьиншизи,smile
+81-377,avar1256,http://concepticon.clld.org/parameters/1413,хумаштизи,play
+81-654,avar1256,http://concepticon.clld.org/parameters/923,йосІсІзи,love
+81-278,avar1256,http://concepticon.clld.org/parameters/578,бацзи,kiss
+81-578,avar1256,http://concepticon.clld.org/parameters/928,къвалбази,embrace
+81-326,avar1256,http://concepticon.clld.org/parameters/1783,унти,pain
+81-206,avar1256,http://concepticon.clld.org/parameters/1668,пашманси,"grief, sorrow, sadness"
+81-298,avar1256,http://concepticon.clld.org/parameters/1000,занбагъи,"anxiety, worry"
+81-1175,avar1256,http://concepticon.clld.org/parameters/1875,гурхІинзи,"regret, be sorry"
+81-590,avar1256,http://concepticon.clld.org/parameters/1141,гурхІун,pity
+81-1180,avar1256,http://concepticon.clld.org/parameters/1839,гІандзи,"cry, weep"
+81-585,avar1256,http://concepticon.clld.org/parameters/1651,магІу,tear (noun)
+81-449,avar1256,http://concepticon.clld.org/parameters/716,угьдизи,groan
+81-540,avar1256,http://concepticon.clld.org/parameters/1607,бардиса гези,hate
+81-1096,avar1256,http://concepticon.clld.org/parameters/82,цим,anger
+81-1041,avar1256,http://concepticon.clld.org/parameters/40,бахилси,"envy, jealousy"
+81-1044,avar1256,http://concepticon.clld.org/parameters/1776,йахІ,shame (noun)
+81-577,avar1256,http://concepticon.clld.org/parameters/174,ракІ кІудав,proud
+81-1031,avar1256,http://concepticon.clld.org/parameters/1779,цІакъав чи,dare
+81-295,avar1256,http://concepticon.clld.org/parameters/3,цІакъав,brave
+81-529,avar1256,http://concepticon.clld.org/parameters/781,ихІин,"fear, fright"
+81-529,avar1256,http://concepticon.clld.org/parameters/1810,ихІин,danger
+81-383,avar1256,http://concepticon.clld.org/parameters/1784,мурад,"desire, want"
+81-412,avar1256,http://concepticon.clld.org/parameters/1750,вишзи,choose
+81-1182,avar1256,http://concepticon.clld.org/parameters/1092,боржзи,hope
+81-796,avar1256,http://concepticon.clld.org/parameters/100,ракІ чІараб,faithful
+81-272,avar1256,http://concepticon.clld.org/parameters/1657,гІенжІе бугаб,true
+81-744,avar1256,http://concepticon.clld.org/parameters/601,гьереси бехзи,"lie, tell lies"
+81-53,avar1256,http://concepticon.clld.org/parameters/13,ветІзи,deceit
+81-892,avar1256,http://concepticon.clld.org/parameters/1528,кІасса сугьинзи,forgive
+81-1158,avar1256,http://concepticon.clld.org/parameters/1035,сикІаб,good
+81-623,avar1256,http://concepticon.clld.org/parameters/1292,квешаб,bad
+81-1083,avar1256,http://concepticon.clld.org/parameters/1725,битІураб,"right, correct"
+81-857,avar1256,http://concepticon.clld.org/parameters/1390,мекъаб,wrong
+81-404,avar1256,http://concepticon.clld.org/parameters/134,бураб жо,fault
+81-237,avar1256,http://concepticon.clld.org/parameters/1293,гъалатІ,"mistake, error"
+81-713,avar1256,http://concepticon.clld.org/parameters/381,тахсир чІвази,blame
+81-264,avar1256,http://concepticon.clld.org/parameters/1687,вецзи,praise
+81-1229,avar1256,http://concepticon.clld.org/parameters/1427,берцинав,beautiful
+81-385,avar1256,http://concepticon.clld.org/parameters/1548,хуйрадав,ugly
+81-141,avar1256,http://concepticon.clld.org/parameters/2018,къиргийав,greedy
+81-961,avar1256,http://concepticon.clld.org/parameters/1310,сІсІодорав,clever
+81-175,avar1256,http://concepticon.clld.org/parameters/1562,гІакълу,mind
+81-916,avar1256,http://concepticon.clld.org/parameters/1415,пикру бузи,think (= reflect)
+81-307,avar1256,http://concepticon.clld.org/parameters/1513,масзи,think (= be of the opinion)
+81-776,avar1256,http://concepticon.clld.org/parameters/1890,божзи,believe
+81-137,avar1256,http://concepticon.clld.org/parameters/1536,бичІинзи,understand
+81-838,avar1256,http://concepticon.clld.org/parameters/1410,сази,know
+81-188,avar1256,http://concepticon.clld.org/parameters/1932,рокІеде квези,guess
+81-980,avar1256,http://concepticon.clld.org/parameters/117,беразда хвазибузи,imitate
+81-413,avar1256,http://concepticon.clld.org/parameters/1521,рукІеда гвези,seem
+81-1159,avar1256,http://concepticon.clld.org/parameters/1609,пикру,"idea, notion"
+81-301,avar1256,http://concepticon.clld.org/parameters/1609,къутІи,"idea, notion"
+81-728,avar1256,http://concepticon.clld.org/parameters/698,гІакълу бугав,wise
+81-1136,avar1256,http://concepticon.clld.org/parameters/1518,гІавамав,"foolish, stupid"
+81-230,avar1256,http://concepticon.clld.org/parameters/1899,гІакълу гьечІав,"insane, crazy"
+81-312,avar1256,http://concepticon.clld.org/parameters/504,сІсІалзи,learn
+81-312,avar1256,http://concepticon.clld.org/parameters/1929,сІсІалзи,study
+81-313,avar1256,http://concepticon.clld.org/parameters/709,масси,teach
+81-380,avar1256,http://concepticon.clld.org/parameters/753,цІалдохан,pupil
+81-115,avar1256,http://concepticon.clld.org/parameters/1038,магІлим,teacher
+81-235,avar1256,http://concepticon.clld.org/parameters/673,мактаб,school
+81-342,avar1256,http://concepticon.clld.org/parameters/707,рукІену гвези,remember
+81-995,avar1256,http://concepticon.clld.org/parameters/1523,кІучІогьинзи,forget
+81-493,avar1256,http://concepticon.clld.org/parameters/989,очухаб,"clear, plain"
+81-61,avar1256,http://concepticon.clld.org/parameters/1764,бичІчІнараб,obscure
+81-328,avar1256,http://concepticon.clld.org/parameters/1121,басгоси,secret
+81-381,avar1256,http://concepticon.clld.org/parameters/509,божурав,"sure, certain"
+81-275,avar1256,http://concepticon.clld.org/parameters/1626,биджин гьабузи,explain
+81-383,avar1256,http://concepticon.clld.org/parameters/1162,мурад,"intention, purpose"
+81-109,avar1256,http://concepticon.clld.org/parameters/860,гІилла,cause
+81-709,avar1256,http://concepticon.clld.org/parameters/1308,шакси,doubt
+81-596,avar1256,http://concepticon.clld.org/parameters/1841,шак ин,suspect
+81-53,avar1256,http://concepticon.clld.org/parameters/1902,ветІзи,betray
+81-429,avar1256,http://concepticon.clld.org/parameters/643,къураил,"need, necessity"
+81-1070,avar1256,http://concepticon.clld.org/parameters/686,рахІатаб,easy
+81-703,avar1256,http://concepticon.clld.org/parameters/584,кватІаб,difficult
+81-989,avar1256,http://concepticon.clld.org/parameters/1812,хІалбихьи,"try, attempt"
+81-339,avar1256,http://concepticon.clld.org/parameters/488,къагІида,"way, manner"
+81-325,avar1256,http://concepticon.clld.org/parameters/1577,ва,and
+81-992,avar1256,http://concepticon.clld.org/parameters/1577,-ги,and
+81-1072,avar1256,http://concepticon.clld.org/parameters/1157,шизигури,because
+81-617,avar1256,http://concepticon.clld.org/parameters/1459,нагагь,if
+81-586,avar1256,http://concepticon.clld.org/parameters/1459,-ни,if
+81-430,avar1256,http://concepticon.clld.org/parameters/1014,я,or
+81-282,avar1256,http://concepticon.clld.org/parameters/1014,яги,or
+81-1068,avar1256,http://concepticon.clld.org/parameters/1268,гІэ,"yes, affirmative"
+81-229,avar1256,http://concepticon.clld.org/parameters/1269,гуро,"no, negative"
+81-1170,avar1256,http://concepticon.clld.org/parameters/1239,шурса,how?
+81-881,avar1256,http://concepticon.clld.org/parameters/822,чам,how many?
+81-881,avar1256,http://concepticon.clld.org/parameters/531,чам,how much?
+81-384,avar1256,http://concepticon.clld.org/parameters/1236,щиб,what?
+81-610,avar1256,http://concepticon.clld.org/parameters/1238,кида,when?
+81-594,avar1256,http://concepticon.clld.org/parameters/1237,кицца,where?
+81-923,avar1256,http://concepticon.clld.org/parameters/727,щураб,which?
+81-544,avar1256,http://concepticon.clld.org/parameters/1235,щив,who?
+81-365,avar1256,http://concepticon.clld.org/parameters/1270,щизи,why?
+81-863,avar1256,http://concepticon.clld.org/parameters/1363,сас,voice
+81-402,avar1256,http://concepticon.clld.org/parameters/1261,гІахІзи,sing
+81-683,avar1256,http://concepticon.clld.org/parameters/715,гІегІердзи,"shout, cry out"
+81-960,avar1256,http://concepticon.clld.org/parameters/55,пушпуштизи,whisper
+81-960,avar1256,http://concepticon.clld.org/parameters/128,пушпуштизи,mumble
+81-562,avar1256,http://concepticon.clld.org/parameters/1025,шутІези,whistle
+81-971,avar1256,http://concepticon.clld.org/parameters/298,гІувусдизи,"shriek, screech"
+81-971,avar1256,http://concepticon.clld.org/parameters/526,гІувусдизи,howl
+81-1204,avar1256,http://concepticon.clld.org/parameters/1623,гап гьабузи,"speak, talk"
+81-1073,avar1256,http://concepticon.clld.org/parameters/1866,пилтакдези,"stutter, stammer"
+81-766,avar1256,http://concepticon.clld.org/parameters/1458,абзи,say
+81-56,avar1256,http://concepticon.clld.org/parameters/1711,пап бичази,tell story
+81-105,avar1256,http://concepticon.clld.org/parameters/1115,гап,speech (make a)
+81-316,avar1256,http://concepticon.clld.org/parameters/48,сас бахугутІзи,silent (be)
+81-554,avar1256,http://concepticon.clld.org/parameters/1307,масІсІ,language
+81-660,avar1256,http://concepticon.clld.org/parameters/1599,хабар,word
+81-33,avar1256,http://concepticon.clld.org/parameters/1599,рагІи,word
+81-85,avar1256,http://concepticon.clld.org/parameters/1405,сІсІар,name
+81-1117,avar1256,http://concepticon.clld.org/parameters/1309,сІсІухзи,"ask (question, inquire)"
+81-263,avar1256,http://concepticon.clld.org/parameters/1275,джаваб сІсІези,answer
+81-333,avar1256,http://concepticon.clld.org/parameters/2022,губурси бокІзи,"admit, confess"
+81-1154,avar1256,http://concepticon.clld.org/parameters/755,инкар гьабузи,deny
+81-637,avar1256,http://concepticon.clld.org/parameters/1828,гьарзи,"ask, request"
+81-1056,avar1256,http://concepticon.clld.org/parameters/1675,кІаде бокІзи,promise
+81-800,avar1256,http://concepticon.clld.org/parameters/49,сІсІо гутІзи,refuse
+81-693,avar1256,http://concepticon.clld.org/parameters/83,бача гутІзи,forbid
+81-390,avar1256,http://concepticon.clld.org/parameters/299,гудези,"rebuke, scold"
+81-16,avar1256,http://concepticon.clld.org/parameters/1084,вехІа абзи,call (=summon)
+81-766,avar1256,http://concepticon.clld.org/parameters/180,абзи,call (=name)
+81-766,avar1256,http://concepticon.clld.org/parameters/9,абзи,announce
+81-1208,avar1256,http://concepticon.clld.org/parameters/1192,ихІинзи гьавузи,threaten
+81-872,avar1256,http://concepticon.clld.org/parameters/101,вецци,boast
+81-533,avar1256,http://concepticon.clld.org/parameters/1672,хвази,write
+81-312,avar1256,http://concepticon.clld.org/parameters/724,сІсІалзи,read
+81-10,avar1256,http://concepticon.clld.org/parameters/648,кагъат,paper
+81-1110,avar1256,http://concepticon.clld.org/parameters/794,ручка,pen
+81-739,avar1256,http://concepticon.clld.org/parameters/963,китаб,book
+81-732,avar1256,http://concepticon.clld.org/parameters/1045,хвадарухан,poet
+81-893,avar1256,http://concepticon.clld.org/parameters/777,зурма,flute
+81-751,avar1256,http://concepticon.clld.org/parameters/908,къили,drum
+81-715,avar1256,http://concepticon.clld.org/parameters/2136,накъира,"horn, trumpet"
+81-741,avar1256,http://concepticon.clld.org/parameters/300,женгъеро,rattle
+81-560,avar1256,http://concepticon.clld.org/parameters/1300,улка,country
+81-251,avar1256,http://concepticon.clld.org/parameters/89,гІагараб улка,one's native country
+81-437,avar1256,http://concepticon.clld.org/parameters/89,ватІан,one's native country
+81-503,avar1256,http://concepticon.clld.org/parameters/1391,шагьар,"city, town"
+81-492,avar1256,http://concepticon.clld.org/parameters/930,росу,village
+81-912,avar1256,http://concepticon.clld.org/parameters/1010,сагьрат,boundary
+81-64,avar1256,http://concepticon.clld.org/parameters/789,адамал,people (populace)
+81-451,avar1256,http://concepticon.clld.org/parameters/789,халкъ,people (populace)
+81-1080,avar1256,http://concepticon.clld.org/parameters/302,тухум,"tribe, clan"
+81-962,avar1256,http://concepticon.clld.org/parameters/302,агьлу,"tribe, clan"
+81-288,avar1256,http://concepticon.clld.org/parameters/301,цевехан,"chief, chieftain"
+81-658,avar1256,http://concepticon.clld.org/parameters/1296,гІанцца,"staff, walking stick"
+81-803,avar1256,http://concepticon.clld.org/parameters/1846,ханси гьабузи,"rule, govern"
+81-212,avar1256,http://concepticon.clld.org/parameters/1508,паччахІ,"king, ruler"
+81-699,avar1256,http://concepticon.clld.org/parameters/1306,паччахІай,queen
+81-748,avar1256,http://concepticon.clld.org/parameters/482,сикІав,"noble, nobleman"
+81-984,avar1256,http://concepticon.clld.org/parameters/1032,шагьарасул адам,"citizen, subject"
+81-635,avar1256,http://concepticon.clld.org/parameters/383,бикІергьан,master
+81-350,avar1256,http://concepticon.clld.org/parameters/812,лагъ,slave
+81-1165,avar1256,http://concepticon.clld.org/parameters/255,хІамбалав,servant
+81-910,avar1256,http://concepticon.clld.org/parameters/384,эркенав адам,freeman
+81-516,avar1256,http://concepticon.clld.org/parameters/1128,амру гьабузи,"command, order"
+81-859,avar1256,http://concepticon.clld.org/parameters/1635,гІенекзи,obey
+81-1224,avar1256,http://concepticon.clld.org/parameters/1003,ихтийар сІсІези,"let, permit"
+81-952,avar1256,http://concepticon.clld.org/parameters/1325,достав,"friend, companion"
+81-112,avar1256,http://concepticon.clld.org/parameters/1325,гьудул,"friend, companion"
+81-123,avar1256,http://concepticon.clld.org/parameters/1325,гьалмагъ,"friend, companion"
+81-1226,avar1256,http://concepticon.clld.org/parameters/1358,душман,enemy
+81-309,avar1256,http://concepticon.clld.org/parameters/1332,къунщийав,neighbor
+81-433,avar1256,http://concepticon.clld.org/parameters/791,санарав чи,stranger
+81-257,avar1256,http://concepticon.clld.org/parameters/1782,гьубол,guest
+81-635,avar1256,http://concepticon.clld.org/parameters/1545,бикІергьан,host
+81-113,avar1256,http://concepticon.clld.org/parameters/1897,кумаг,"help, aid"
+81-121,avar1256,http://concepticon.clld.org/parameters/1550,мешат бузи,"hinder, prevent"
+81-119,avar1256,http://concepticon.clld.org/parameters/1747,гІадат,custom
+81-93,avar1256,http://concepticon.clld.org/parameters/1848,рагьи,"strife, quarrel"
+81-1069,avar1256,http://concepticon.clld.org/parameters/1848,рагъ-расанди,"strife, quarrel"
+81-301,avar1256,http://concepticon.clld.org/parameters/2024,къутІи,"conspiracy, plot"
+81-1178,avar1256,http://concepticon.clld.org/parameters/1831,дандисизи,meet
+81-868,avar1256,http://concepticon.clld.org/parameters/1610,кьахІпа,prostitute
+81-645,avar1256,http://concepticon.clld.org/parameters/1423,вагъзи,fight (vb)
+81-443,avar1256,http://concepticon.clld.org/parameters/579,рагъ,"war, battle"
+81-1115,avar1256,http://concepticon.clld.org/parameters/1338,рекъел,peace
+81-411,avar1256,http://concepticon.clld.org/parameters/1561,къошун,army
+81-953,avar1256,http://concepticon.clld.org/parameters/1561,аскар,army
+81-4,avar1256,http://concepticon.clld.org/parameters/1941,салдат,soldier
+81-30,avar1256,http://concepticon.clld.org/parameters/951,йарагъ,"weapons, arms"
+81-1090,avar1256,http://concepticon.clld.org/parameters/1763,кІил,club
+81-926,avar1256,http://concepticon.clld.org/parameters/386,гІижди,battle-ax
+81-130,avar1256,http://concepticon.clld.org/parameters/387,гамачІ рехнаб рагъул алат,sling
+81-491,avar1256,http://concepticon.clld.org/parameters/994,йойох,bow
+81-959,avar1256,http://concepticon.clld.org/parameters/977,йойохул гІучІ,arrow
+81-1001,avar1256,http://concepticon.clld.org/parameters/945,хеч,spear
+81-582,avar1256,http://concepticon.clld.org/parameters/1535,галхьу,sword
+81-609,avar1256,http://concepticon.clld.org/parameters/1566,тупанк,"gun, cannon"
+81-1192,avar1256,http://concepticon.clld.org/parameters/1566,гІарада,"gun, cannon"
+81-168,avar1256,http://concepticon.clld.org/parameters/1061,йарагъ-матахІ,armor (defensive)
+81-1209,avar1256,http://concepticon.clld.org/parameters/1680,такъийа,helmet
+81-46,avar1256,http://concepticon.clld.org/parameters/1064,талкъан,shield
+81-814,avar1256,http://concepticon.clld.org/parameters/1938,къала,fortress
+81-976,avar1256,http://concepticon.clld.org/parameters/1671,мимбар,tower
+81-101,avar1256,http://concepticon.clld.org/parameters/783,бергьинси,victory
+81-1009,avar1256,http://concepticon.clld.org/parameters/782,къой,defeat
+81-981,avar1256,http://concepticon.clld.org/parameters/722,кІади инзи,attack
+81-706,avar1256,http://concepticon.clld.org/parameters/1330,цІунзи,defend
+81-720,avar1256,http://concepticon.clld.org/parameters/421,нахъи инзи,retreat
+81-82,avar1256,http://concepticon.clld.org/parameters/1696,кодов инзи,surrender
+81-134,avar1256,http://concepticon.clld.org/parameters/1072,гурав,"captive, prisoner"
+81-116,avar1256,http://concepticon.clld.org/parameters/1940,къургьулал,"guard, sentinel"
+81-723,avar1256,http://concepticon.clld.org/parameters/1022,давла,"booty, spoils"
+81-896,avar1256,http://concepticon.clld.org/parameters/65,гІодоб балагьу чІези,ambush
+81-972,avar1256,http://concepticon.clld.org/parameters/1858,булухчи,fisherman
+81-735,avar1256,http://concepticon.clld.org/parameters/1074,къармах,fishhook
+81-615,avar1256,http://concepticon.clld.org/parameters/19,жилкІа,fishing line
+81-1071,avar1256,http://concepticon.clld.org/parameters/388,сетка,fishnet
+81-771,avar1256,http://concepticon.clld.org/parameters/389,гьин,fish trap
+81-935,avar1256,http://concepticon.clld.org/parameters/2013,—,bait
+81-1234,avar1256,http://concepticon.clld.org/parameters/1435,чиних инзи,hunt
+81-110,avar1256,http://concepticon.clld.org/parameters/1172,данкзи,shoot
+81-224,avar1256,http://concepticon.clld.org/parameters/161,шолу гутІзи,miss (target)
+81-172,avar1256,http://concepticon.clld.org/parameters/1075,къор,trap (noun)
+81-844,avar1256,http://concepticon.clld.org/parameters/1170,гвези,trap (vb)
+81-459,avar1256,http://concepticon.clld.org/parameters/1062,закон,law
+81-1145,avar1256,http://concepticon.clld.org/parameters/1062,къанон,law
+81-729,avar1256,http://concepticon.clld.org/parameters/1068,дуван,court
+81-520,avar1256,http://concepticon.clld.org/parameters/1068,суд,court
+81-1126,avar1256,http://concepticon.clld.org/parameters/1818,дуван бузи,judge (vb)
+81-41,avar1256,http://concepticon.clld.org/parameters/1067,дувансул къутІи,judgment
+81-627,avar1256,http://concepticon.clld.org/parameters/861,къади,judge (noun)
+81-347,avar1256,http://concepticon.clld.org/parameters/861,дуванчи,judge (noun)
+81-674,avar1256,http://concepticon.clld.org/parameters/2020,гІарзачи,plaintiff
+81-792,avar1256,http://concepticon.clld.org/parameters/1034,жавабчи,defendant
+81-136,avar1256,http://concepticon.clld.org/parameters/1144,нугІ,witness
+81-92,avar1256,http://concepticon.clld.org/parameters/1939,гьедзи,swear
+81-762,avar1256,http://concepticon.clld.org/parameters/1712,хІедди,oath
+81-444,avar1256,http://concepticon.clld.org/parameters/1814,тахсир чІази,accuse
+81-419,avar1256,http://concepticon.clld.org/parameters/484,какзи,condemn
+81-636,avar1256,http://concepticon.clld.org/parameters/983,такъсир чІвази,convict (vb)
+81-317,avar1256,http://concepticon.clld.org/parameters/988,бахІна хІечав,acquit
+81-1150,avar1256,http://concepticon.clld.org/parameters/1682,бахІна бугав,guilty
+81-11,avar1256,http://concepticon.clld.org/parameters/90,бахІна хІечІав,innocent
+81-428,avar1256,http://concepticon.clld.org/parameters/390,танкъит,"penalty, punishment"
+81-1225,avar1256,http://concepticon.clld.org/parameters/218,гІакІа,fine
+81-1027,avar1256,http://concepticon.clld.org/parameters/1281,тусдагъ,"prison, jail"
+81-187,avar1256,http://concepticon.clld.org/parameters/845,адам чІвай,murder
+81-67,avar1256,http://concepticon.clld.org/parameters/902,къахІбаси,adultery
+81-964,avar1256,http://concepticon.clld.org/parameters/953,зина,rape
+81-502,avar1256,http://concepticon.clld.org/parameters/1889,цІа тІами,arson
+81-744,avar1256,http://concepticon.clld.org/parameters/1792,гьереси бехзи,perjury
+81-514,avar1256,http://concepticon.clld.org/parameters/713,бикъзи,steal
+81-886,avar1256,http://concepticon.clld.org/parameters/1160,сІсІогьор,thief
+81-348,avar1256,http://concepticon.clld.org/parameters/661,дин,religion
+81-743,avar1256,http://concepticon.clld.org/parameters/1944,Аллах,God
+81-628,avar1256,http://concepticon.clld.org/parameters/911,килиса,"temple, church"
+81-465,avar1256,http://concepticon.clld.org/parameters/853,мигьмар,altar
+81-692,avar1256,http://concepticon.clld.org/parameters/1103,къурбан,"sacrifice, offering"
+81-702,avar1256,http://concepticon.clld.org/parameters/257,гІудови къолзи,worship
+81-1089,avar1256,http://concepticon.clld.org/parameters/24,как бази,pray
+81-750,avar1256,http://concepticon.clld.org/parameters/852,кашиш,priest
+81-304,avar1256,http://concepticon.clld.org/parameters/1702,динаб,"holy, sacred"
+81-181,avar1256,http://concepticon.clld.org/parameters/304,вагІза гьабузи,preach
+81-1029,avar1256,http://concepticon.clld.org/parameters/391,хІалалси сІсІези,bless
+81-515,avar1256,http://concepticon.clld.org/parameters/8,нагІна гьабузи,curse
+81-591,avar1256,http://concepticon.clld.org/parameters/303,кІал квези,fast (vb)
+81-488,avar1256,http://concepticon.clld.org/parameters/1565,джанат,heaven
+81-521,avar1256,http://concepticon.clld.org/parameters/878,джудахІ,hell
+81-942,avar1256,http://concepticon.clld.org/parameters/1973,шайтІан,demon (evil spirit)
+81-28,avar1256,http://concepticon.clld.org/parameters/1973,иблис,demon (evil spirit)
+81-954,avar1256,http://concepticon.clld.org/parameters/1945,гІарпитІ,idol
+81-1153,avar1256,http://concepticon.clld.org/parameters/392,сихІру,"magic, witchcraft, sorcery"
+81-44,avar1256,http://concepticon.clld.org/parameters/392,макру,"magic, witchcraft, sorcery"
+81-1021,avar1256,http://concepticon.clld.org/parameters/2137,хъартай,"sorcerer, witch"
+81-807,avar1256,http://concepticon.clld.org/parameters/2138,хІурулгІин,"fairy, elf"
+81-1060,avar1256,http://concepticon.clld.org/parameters/1175,ццебетІаминаб жо,"ghost, phantom"
+81-760,avar1256,http://concepticon.clld.org/parameters/107,гІаламат,"omen, portent"

@@ -1,0 +1,1354 @@
+ID,Language_ID,Feature_ID,Value,Concept
+180-1035,oldi1245,http://concepticon.clld.org/parameters/965,domun,world
+180-279,oldi1245,http://concepticon.clld.org/parameters/626,talan,"earth, land"
+180-496,oldi1245,http://concepticon.clld.org/parameters/626,tīr,"earth, land"
+180-887,oldi1245,http://concepticon.clld.org/parameters/2,luaith-red,dust
+180-126,oldi1245,http://concepticon.clld.org/parameters/640,lathach,mud
+180-410,oldi1245,http://concepticon.clld.org/parameters/671,ganem,sand
+180-503,oldi1245,http://concepticon.clld.org/parameters/2118,sliab,"mountain, hill"
+180-123,oldi1245,http://concepticon.clld.org/parameters/2118,telach,"mountain, hill"
+180-1057,oldi1245,http://concepticon.clld.org/parameters/2118,cnoc,"mountain, hill"
+180-154,oldi1245,http://concepticon.clld.org/parameters/2118,brī,"mountain, hill"
+180-295,oldi1245,http://concepticon.clld.org/parameters/652,mag,"plain, field"
+180-691,oldi1245,http://concepticon.clld.org/parameters/652,rōi,"plain, field"
+180-1100,oldi1245,http://concepticon.clld.org/parameters/921,glenn,valley
+180-31,oldi1245,http://concepticon.clld.org/parameters/622,inis,island
+180-496,oldi1245,http://concepticon.clld.org/parameters/166,tīr,mainland
+180-1189,oldi1245,http://concepticon.clld.org/parameters/113,trāig,shore
+180-414,oldi1245,http://concepticon.clld.org/parameters/113,tracht,shore
+180-688,oldi1245,http://concepticon.clld.org/parameters/113,brū,shore
+180-987,oldi1245,http://concepticon.clld.org/parameters/113,bruach,shore
+180-525,oldi1245,http://concepticon.clld.org/parameters/948,usce,water
+180-559,oldi1245,http://concepticon.clld.org/parameters/1474,muir,sea
+180-171,oldi1245,http://concepticon.clld.org/parameters/1474,fairrge,sea
+180-122,oldi1245,http://concepticon.clld.org/parameters/1474,ler,sea
+180-245,oldi1245,http://concepticon.clld.org/parameters/624,loch,lake
+180-1151,oldi1245,http://concepticon.clld.org/parameters/624,lind,lake
+180-87,oldi1245,http://concepticon.clld.org/parameters/663,cūan,"gulf, bay"
+180-798,oldi1245,http://concepticon.clld.org/parameters/978,tonn,wave
+180-345,oldi1245,http://concepticon.clld.org/parameters/666,ab-a,"river, stream, brook"
+180-1031,oldi1245,http://concepticon.clld.org/parameters/666,sruth,"river, stream, brook"
+180-1216,oldi1245,http://concepticon.clld.org/parameters/666,glais,"river, stream, brook"
+180-91,oldi1245,http://concepticon.clld.org/parameters/2144,topur,"spring, well"
+180-152,oldi1245,http://concepticon.clld.org/parameters/420,caill,"woods, forest"
+180-349,oldi1245,http://concepticon.clld.org/parameters/420,fid,"woods, forest"
+180-851,oldi1245,http://concepticon.clld.org/parameters/420,fid-bad,"woods, forest"
+180-978,oldi1245,http://concepticon.clld.org/parameters/420,ross,"woods, forest"
+180-1144,oldi1245,http://concepticon.clld.org/parameters/906,crann,tree (cf 08.600)
+180-349,oldi1245,http://concepticon.clld.org/parameters/906,fid,tree (cf 08.600)
+180-349,oldi1245,http://concepticon.clld.org/parameters/1803,fid,wood
+180-94,oldi1245,http://concepticon.clld.org/parameters/2125,cloch,"stone, rock"
+180-223,oldi1245,http://concepticon.clld.org/parameters/2125,līa,"stone, rock"
+180-943,oldi1245,http://concepticon.clld.org/parameters/2125,carric,"stone, rock"
+180-1,oldi1245,http://concepticon.clld.org/parameters/2125,all,"stone, rock"
+180-561,oldi1245,http://concepticon.clld.org/parameters/2125,craic,"stone, rock"
+180-93,oldi1245,http://concepticon.clld.org/parameters/1732,nem,sky
+180-393,oldi1245,http://concepticon.clld.org/parameters/1343,grīan,sun
+180-1051,oldi1245,http://concepticon.clld.org/parameters/1313,ēsce,moon
+180-1092,oldi1245,http://concepticon.clld.org/parameters/1313,luan,moon
+180-355,oldi1245,http://concepticon.clld.org/parameters/1430,rētglu,star
+180-489,oldi1245,http://concepticon.clld.org/parameters/1430,rind,star
+180-249,oldi1245,http://concepticon.clld.org/parameters/1654,lōchet,lightning
+180-275,oldi1245,http://concepticon.clld.org/parameters/1150,torainn,thunder
+180-692,oldi1245,http://concepticon.clld.org/parameters/2007,saignēn,lightning (as striking)
+180-512,oldi1245,http://concepticon.clld.org/parameters/630,soilse,light (noun)
+180-363,oldi1245,http://concepticon.clld.org/parameters/11,temel,darkness
+180-510,oldi1245,http://concepticon.clld.org/parameters/11,dorche,darkness
+180-324,oldi1245,http://concepticon.clld.org/parameters/1388,scāth,"shade, shadow"
+180-264,oldi1245,http://concepticon.clld.org/parameters/1388,foscad,"shade, shadow"
+180-984,oldi1245,http://concepticon.clld.org/parameters/27,āer,air
+180-445,oldi1245,http://concepticon.clld.org/parameters/960,gāith,wind
+180-1253,oldi1245,http://concepticon.clld.org/parameters/1489,nēl,cloud
+180-480,oldi1245,http://concepticon.clld.org/parameters/249,cēo,fog
+180-361,oldi1245,http://concepticon.clld.org/parameters/658,flechud,rain (noun)
+180-492,oldi1245,http://concepticon.clld.org/parameters/658,brōen,rain (noun)
+180-672,oldi1245,http://concepticon.clld.org/parameters/784,snechte,snow (noun)
+180-869,oldi1245,http://concepticon.clld.org/parameters/617,aig,ice
+180-1009,oldi1245,http://concepticon.clld.org/parameters/617,aig-red,ice
+180-802,oldi1245,http://concepticon.clld.org/parameters/952,sīn,weather
+180-643,oldi1245,http://concepticon.clld.org/parameters/221,tene,fire
+180-946,oldi1245,http://concepticon.clld.org/parameters/221,daig,fire
+180-992,oldi1245,http://concepticon.clld.org/parameters/221,āed,fire
+180-1137,oldi1245,http://concepticon.clld.org/parameters/889,lassar,flame (noun)
+180-612,oldi1245,http://concepticon.clld.org/parameters/889,breo,flame (noun)
+180-329,oldi1245,http://concepticon.clld.org/parameters/778,dē,smoke (noun)
+180-308,oldi1245,http://concepticon.clld.org/parameters/778,dethach,smoke (noun)
+180-781,oldi1245,http://concepticon.clld.org/parameters/646,luaith,ashes
+180-320,oldi1245,http://concepticon.clld.org/parameters/141,loscim,burn (vb trans)
+180-397,oldi1245,http://concepticon.clld.org/parameters/141,breoaim,burn (vb trans)
+180-1048,oldi1245,http://concepticon.clld.org/parameters/737,attai,"light, kindle, ignite"
+180-783,oldi1245,http://concepticon.clld.org/parameters/683,duine,"person, human being"
+180-190,oldi1245,http://concepticon.clld.org/parameters/1554,fer,man (vs. woman)
+180-537,oldi1245,http://concepticon.clld.org/parameters/962,ben,woman
+180-816,oldi1245,http://concepticon.clld.org/parameters/962,fracc,woman
+180-1141,oldi1245,http://concepticon.clld.org/parameters/2263,fer-,male
+180-1017,oldi1245,http://concepticon.clld.org/parameters/2263,firend,male
+180-327,oldi1245,http://concepticon.clld.org/parameters/2260,ban-,female
+180-606,oldi1245,http://concepticon.clld.org/parameters/1366,macc,boy
+180-501,oldi1245,http://concepticon.clld.org/parameters/1646,ingen,girl
+180-1188,oldi1245,http://concepticon.clld.org/parameters/1304,lelap,child
+180-739,oldi1245,http://concepticon.clld.org/parameters/1304,lenab,child
+180-710,oldi1245,http://concepticon.clld.org/parameters/1289,nōidiu,"infant, baby"
+180-190,oldi1245,http://concepticon.clld.org/parameters/1200,fer,husband
+180-669,oldi1245,http://concepticon.clld.org/parameters/1200,cēle,husband
+180-537,oldi1245,http://concepticon.clld.org/parameters/1199,ben,wife
+180-898,oldi1245,http://concepticon.clld.org/parameters/1199,sētig,wife
+180-160,oldi1245,http://concepticon.clld.org/parameters/203,dobiur sēichi,marry
+180-326,oldi1245,http://concepticon.clld.org/parameters/203,inbothigur,marry
+180-437,oldi1245,http://concepticon.clld.org/parameters/1217,athir,father
+180-346,oldi1245,http://concepticon.clld.org/parameters/1216,māthir,mother
+180-379,oldi1245,http://concepticon.clld.org/parameters/505,tuistidi,parents
+180-606,oldi1245,http://concepticon.clld.org/parameters/1620,macc,son
+180-501,oldi1245,http://concepticon.clld.org/parameters/1357,ingen,daughter
+180-938,oldi1245,http://concepticon.clld.org/parameters/1262,brāthir,brother
+180-46,oldi1245,http://concepticon.clld.org/parameters/1263,siur,sister
+180-960,oldi1245,http://concepticon.clld.org/parameters/1383,senathir,grandfather
+180-582,oldi1245,http://concepticon.clld.org/parameters/1496,senmāthir,grandmother
+180-22,oldi1245,http://concepticon.clld.org/parameters/1618,aue,grandson
+180-743,oldi1245,http://concepticon.clld.org/parameters/1618,ōa,grandson
+180-1172,oldi1245,http://concepticon.clld.org/parameters/1618,ua,grandson
+180-22,oldi1245,http://concepticon.clld.org/parameters/1619,aue,granddaughter
+180-116,oldi1245,http://concepticon.clld.org/parameters/1984,brāthir māthar,mother's brother
+180-442,oldi1245,http://concepticon.clld.org/parameters/1985,brāthir athar,father's brother
+180-39,oldi1245,http://concepticon.clld.org/parameters/171,siur māthar,mother's sister
+180-371,oldi1245,http://concepticon.clld.org/parameters/170,siur athar,father's sister
+180-528,oldi1245,http://concepticon.clld.org/parameters/1063,niae,nephew
+180-948,oldi1245,http://concepticon.clld.org/parameters/1642,necht,niece
+180-271,oldi1245,http://concepticon.clld.org/parameters/1643,macc brāthar athar,cousin
+180-1116,oldi1245,http://concepticon.clld.org/parameters/1669,senaithir,ancestors
+180-607,oldi1245,http://concepticon.clld.org/parameters/1669,sruithi,ancestors
+180-318,oldi1245,http://concepticon.clld.org/parameters/490,iartaige,descendants
+180-22,oldi1245,http://concepticon.clld.org/parameters/490,aue,descendants
+180-999,oldi1245,http://concepticon.clld.org/parameters/2255,cliamain,father-in-law (of a man)
+180-999,oldi1245,http://concepticon.clld.org/parameters/2267,cliamain,son-in-law (of a man)
+180-404,oldi1245,http://concepticon.clld.org/parameters/237,lessathair,stepfather
+180-1044,oldi1245,http://concepticon.clld.org/parameters/236,lesmāthair,stepmother
+180-793,oldi1245,http://concepticon.clld.org/parameters/1059,lesmac,stepson
+180-494,oldi1245,http://concepticon.clld.org/parameters/1058,lessingen,stepdaughter
+180-391,oldi1245,http://concepticon.clld.org/parameters/1149,dīlecta,orphan
+180-417,oldi1245,http://concepticon.clld.org/parameters/1756,fedb,widow
+180-662,oldi1245,http://concepticon.clld.org/parameters/1756,bantrebthach,widow
+180-454,oldi1245,http://concepticon.clld.org/parameters/1644,coibnestaib,"relatives, kinsmen"
+180-626,oldi1245,http://concepticon.clld.org/parameters/194,teglach,family
+180-1042,oldi1245,http://concepticon.clld.org/parameters/619,anmanda,animal
+180-14,oldi1245,http://concepticon.clld.org/parameters/619,rop,animal
+180-240,oldi1245,http://concepticon.clld.org/parameters/619,mīl,animal
+180-1141,oldi1245,http://concepticon.clld.org/parameters/2261,fer-,male (adj)
+180-1017,oldi1245,http://concepticon.clld.org/parameters/2261,firend,male (adj)
+180-327,oldi1245,http://concepticon.clld.org/parameters/2262,ban-,female (adj)
+180-933,oldi1245,http://concepticon.clld.org/parameters/631,indile,livestock
+180-88,oldi1245,http://concepticon.clld.org/parameters/631,crod,livestock
+180-601,oldi1245,http://concepticon.clld.org/parameters/631,cethra,livestock
+180-947,oldi1245,http://concepticon.clld.org/parameters/649,ingairim,pasture
+180-1073,oldi1245,http://concepticon.clld.org/parameters/649,gelim,pasture
+180-735,oldi1245,http://concepticon.clld.org/parameters/263,buachaill,herdsman
+180-1238,oldi1245,http://concepticon.clld.org/parameters/263,ūgaire,herdsman
+180-990,oldi1245,http://concepticon.clld.org/parameters/851,līas,"stable, stall"
+180-704,oldi1245,http://concepticon.clld.org/parameters/1153,buar,cattle (bovine)
+180-1208,oldi1245,http://concepticon.clld.org/parameters/1008,tarb,bull
+180-360,oldi1245,http://concepticon.clld.org/parameters/1169,dam,ox
+180-572,oldi1245,http://concepticon.clld.org/parameters/1007,bō,cow
+180-1180,oldi1245,http://concepticon.clld.org/parameters/1007,ag,cow
+180-1097,oldi1245,http://concepticon.clld.org/parameters/1007,ferb,cow
+180-407,oldi1245,http://concepticon.clld.org/parameters/1989,lāeg,calf
+180-516,oldi1245,http://concepticon.clld.org/parameters/1331,cāera,sheep
+180-736,oldi1245,http://concepticon.clld.org/parameters/1331,ōi,sheep
+180-1168,oldi1245,http://concepticon.clld.org/parameters/1331,cit,sheep
+180-584,oldi1245,http://concepticon.clld.org/parameters/1344,reithe,ram
+180-736,oldi1245,http://concepticon.clld.org/parameters/1345,ōi,ewe
+180-730,oldi1245,http://concepticon.clld.org/parameters/1345,cāira,ewe
+180-1183,oldi1245,http://concepticon.clld.org/parameters/1345,ōisc,ewe
+180-254,oldi1245,http://concepticon.clld.org/parameters/820,uan,lamb
+180-963,oldi1245,http://concepticon.clld.org/parameters/820,dīnu,lamb
+180-927,oldi1245,http://concepticon.clld.org/parameters/1348,(muc-)cullach,boar
+180-830,oldi1245,http://concepticon.clld.org/parameters/1351,mucc,sow (2)
+180-246,oldi1245,http://concepticon.clld.org/parameters/1351,crāin,sow (2)
+180-369,oldi1245,http://concepticon.clld.org/parameters/1337,banb,pig
+180-434,oldi1245,http://concepticon.clld.org/parameters/1337,orcān,pig
+180-539,oldi1245,http://concepticon.clld.org/parameters/1502,gabor,goat
+180-81,oldi1245,http://concepticon.clld.org/parameters/264,bocc,he-goat
+180-698,oldi1245,http://concepticon.clld.org/parameters/1972,menn(ān),kid
+180-448,oldi1245,http://concepticon.clld.org/parameters/615,ech,horse (equine)
+180-817,oldi1245,http://concepticon.clld.org/parameters/615,marc,horse (equine)
+180-214,oldi1245,http://concepticon.clld.org/parameters/615,capall,horse (equine)
+180-243,oldi1245,http://concepticon.clld.org/parameters/936,(ech-)cullach,stallion
+180-563,oldi1245,http://concepticon.clld.org/parameters/938,lāir,mare
+180-679,oldi1245,http://concepticon.clld.org/parameters/1647,serrach,"foal, colt"
+180-1069,oldi1245,http://concepticon.clld.org/parameters/1862,asan,"ass, donkey"
+180-1198,oldi1245,http://concepticon.clld.org/parameters/890,mūl,mule
+180-306,oldi1245,http://concepticon.clld.org/parameters/1511,cailech,"cock, rooster"
+180-138,oldi1245,http://concepticon.clld.org/parameters/1514,cerc,hen
+180-472,oldi1245,http://concepticon.clld.org/parameters/1187,gēd,goose
+180-416,oldi1245,http://concepticon.clld.org/parameters/1187,giugrann,goose
+180-514,oldi1245,http://concepticon.clld.org/parameters/1360,lacha,duck
+180-1083,oldi1245,http://concepticon.clld.org/parameters/937,ēn,bird
+180-850,oldi1245,http://concepticon.clld.org/parameters/2009,cū,dog
+180-435,oldi1245,http://concepticon.clld.org/parameters/2009,matad,dog
+180-1125,oldi1245,http://concepticon.clld.org/parameters/1208,catt,cat
+180-394,oldi1245,http://concepticon.clld.org/parameters/2139,luch,"mouse, rat"
+180-1109,oldi1245,http://concepticon.clld.org/parameters/227,īasc,fish
+180-49,oldi1245,http://concepticon.clld.org/parameters/522,fāel,wolf
+180-114,oldi1245,http://concepticon.clld.org/parameters/522,brēch,wolf
+180-485,oldi1245,http://concepticon.clld.org/parameters/522,cū allaid,wolf
+180-763,oldi1245,http://concepticon.clld.org/parameters/1386,leo,lion
+180-709,oldi1245,http://concepticon.clld.org/parameters/1820,art,bear
+180-1053,oldi1245,http://concepticon.clld.org/parameters/1820,mathgamain,bear
+180-272,oldi1245,http://concepticon.clld.org/parameters/1312,sinnach,fox
+180-6,oldi1245,http://concepticon.clld.org/parameters/1936,oss,deer
+180-717,oldi1245,http://concepticon.clld.org/parameters/1936,sed,deer
+180-715,oldi1245,http://concepticon.clld.org/parameters/1936,seg,deer
+180-189,oldi1245,http://concepticon.clld.org/parameters/1290,elefaint,elephant
+180-1247,oldi1245,http://concepticon.clld.org/parameters/1871,camall,camel
+180-776,oldi1245,http://concepticon.clld.org/parameters/665,bech,bee
+180-574,oldi1245,http://concepticon.clld.org/parameters/1504,cuil,fly
+180-1004,oldi1245,http://concepticon.clld.org/parameters/1219,cruim,worm
+180-848,oldi1245,http://concepticon.clld.org/parameters/730,nathir,snake
+180-1065,oldi1245,http://concepticon.clld.org/parameters/1480,corp,body
+180-931,oldi1245,http://concepticon.clld.org/parameters/1480,colinn,body
+180-55,oldi1245,http://concepticon.clld.org/parameters/1480,crī,body
+180-1199,oldi1245,http://concepticon.clld.org/parameters/763,cness,"skin, hide"
+180-1186,oldi1245,http://concepticon.clld.org/parameters/763,croccenn,"skin, hide"
+180-538,oldi1245,http://concepticon.clld.org/parameters/763,seche,"skin, hide"
+180-427,oldi1245,http://concepticon.clld.org/parameters/2259,fēoil,flesh
+180-567,oldi1245,http://concepticon.clld.org/parameters/2259,cūa,flesh
+180-73,oldi1245,http://concepticon.clld.org/parameters/1040,folt,hair (head)
+180-650,oldi1245,http://concepticon.clld.org/parameters/1040,find,hair (head)
+180-120,oldi1245,http://concepticon.clld.org/parameters/678,fēsōc,beard
+180-423,oldi1245,http://concepticon.clld.org/parameters/946,fuil,blood
+180-821,oldi1245,http://concepticon.clld.org/parameters/946,crū,blood
+180-1056,oldi1245,http://concepticon.clld.org/parameters/1394,cnāim,bone
+180-705,oldi1245,http://concepticon.clld.org/parameters/801,asna,rib
+180-1121,oldi1245,http://concepticon.clld.org/parameters/1393,adarc,horn
+180-260,oldi1245,http://concepticon.clld.org/parameters/1393,benn,horn
+180-219,oldi1245,http://concepticon.clld.org/parameters/1220,err,tail
+180-1039,oldi1245,http://concepticon.clld.org/parameters/1220,erball,tail
+180-569,oldi1245,http://concepticon.clld.org/parameters/1291,cūl,back
+180-304,oldi1245,http://concepticon.clld.org/parameters/1291,druimm,back
+180-834,oldi1245,http://concepticon.clld.org/parameters/1256,cend,head
+180-826,oldi1245,http://concepticon.clld.org/parameters/1256,cenn,head
+180-1067,oldi1245,http://concepticon.clld.org/parameters/1605,clocenn,skull
+180-1021,oldi1245,http://concepticon.clld.org/parameters/1583,inchinn,brain
+180-859,oldi1245,http://concepticon.clld.org/parameters/1560,agad,face
+180-651,oldi1245,http://concepticon.clld.org/parameters/1560,enech,face
+180-82,oldi1245,http://concepticon.clld.org/parameters/123,ētan,forehead
+180-758,oldi1245,http://concepticon.clld.org/parameters/123,tul,forehead
+180-388,oldi1245,http://concepticon.clld.org/parameters/798,carpat,jaw
+180-910,oldi1245,http://concepticon.clld.org/parameters/1730,grūad,cheek
+180-1072,oldi1245,http://concepticon.clld.org/parameters/1730,lecconn,cheek
+180-195,oldi1245,http://concepticon.clld.org/parameters/1730,āil,cheek
+180-389,oldi1245,http://concepticon.clld.org/parameters/1510,smech,chin
+180-915,oldi1245,http://concepticon.clld.org/parameters/1248,sūil,eye
+180-971,oldi1245,http://concepticon.clld.org/parameters/1248,rosc,eye
+180-785,oldi1245,http://concepticon.clld.org/parameters/1173,brai,eyebrow
+180-237,oldi1245,http://concepticon.clld.org/parameters/1173,mala,eyebrow
+180-1190,oldi1245,http://concepticon.clld.org/parameters/1247,au,ear
+180-616,oldi1245,http://concepticon.clld.org/parameters/1247,clūas,ear
+180-791,oldi1245,http://concepticon.clld.org/parameters/1221,srōn,nose
+180-1127,oldi1245,http://concepticon.clld.org/parameters/674,gin,mouth
+180-470,oldi1245,http://concepticon.clld.org/parameters/674,bēoil,mouth
+180-998,oldi1245,http://concepticon.clld.org/parameters/478,bēl,lip
+180-1193,oldi1245,http://concepticon.clld.org/parameters/1205,tenge,tongue
+180-697,oldi1245,http://concepticon.clld.org/parameters/1380,dēt,tooth
+180-1251,oldi1245,http://concepticon.clld.org/parameters/1380,fiacail,tooth
+180-1047,oldi1245,http://concepticon.clld.org/parameters/1333,brāge,neck
+180-568,oldi1245,http://concepticon.clld.org/parameters/1333,muin,neck
+180-571,oldi1245,http://concepticon.clld.org/parameters/1333,muinēl,neck
+180-1047,oldi1245,http://concepticon.clld.org/parameters/1346,brāge,throat
+180-1252,oldi1245,http://concepticon.clld.org/parameters/1482,gūalu,shoulder
+180-17,oldi1245,http://concepticon.clld.org/parameters/1482,formna,shoulder
+180-96,oldi1245,http://concepticon.clld.org/parameters/1673,lām,arm
+180-1024,oldi1245,http://concepticon.clld.org/parameters/1673,dōe,arm
+180-803,oldi1245,http://concepticon.clld.org/parameters/981,uilind,elbow
+180-96,oldi1245,http://concepticon.clld.org/parameters/1277,lām,hand
+180-1107,oldi1245,http://concepticon.clld.org/parameters/1303,mēr,finger
+180-108,oldi1245,http://concepticon.clld.org/parameters/1781,ordu,thumb
+180-501,oldi1245,http://concepticon.clld.org/parameters/1258,ingen,fingernail
+180-84,oldi1245,http://concepticon.clld.org/parameters/1297,coss,leg
+180-564,oldi1245,http://concepticon.clld.org/parameters/1371,glūn,knee
+180-211,oldi1245,http://concepticon.clld.org/parameters/1301,traig,foot
+180-84,oldi1245,http://concepticon.clld.org/parameters/1301,coss,foot
+180-1107,oldi1245,http://concepticon.clld.org/parameters/1389,mēr,toe
+180-1205,oldi1245,http://concepticon.clld.org/parameters/1389,coise,toe
+180-248,oldi1245,http://concepticon.clld.org/parameters/1257,ette,wing
+180-56,oldi1245,http://concepticon.clld.org/parameters/1257,scīath,wing
+180-699,oldi1245,http://concepticon.clld.org/parameters/1201,cleite,feather
+180-720,oldi1245,http://concepticon.clld.org/parameters/1201,clūm,feather
+180-145,oldi1245,http://concepticon.clld.org/parameters/1592,bruinne,chest
+180-967,oldi1245,http://concepticon.clld.org/parameters/1592,ucht,chest
+180-375,oldi1245,http://concepticon.clld.org/parameters/1402,cīch,breast (of woman)
+180-1160,oldi1245,http://concepticon.clld.org/parameters/154,uth,udder
+180-1257,oldi1245,http://concepticon.clld.org/parameters/1838,imbliu,navel
+180-1207,oldi1245,http://concepticon.clld.org/parameters/1838,imlecan,navel
+180-256,oldi1245,http://concepticon.clld.org/parameters/1223,cride,heart
+180-743,oldi1245,http://concepticon.clld.org/parameters/1224,ōa,liver
+180-1075,oldi1245,http://concepticon.clld.org/parameters/1224,trommchride,liver
+180-688,oldi1245,http://concepticon.clld.org/parameters/819,brū,stomach
+180-1054,oldi1245,http://concepticon.clld.org/parameters/819,bolg,stomach
+180-1034,oldi1245,http://concepticon.clld.org/parameters/819,eclas,stomach
+180-127,oldi1245,http://concepticon.clld.org/parameters/819,gaile,stomach
+180-688,oldi1245,http://concepticon.clld.org/parameters/804,brū,womb
+180-767,oldi1245,http://concepticon.clld.org/parameters/797,macraille,testicle
+180-654,oldi1245,http://concepticon.clld.org/parameters/797,uirge,testicle
+180-310,oldi1245,http://concepticon.clld.org/parameters/1407,doberim anāl,"breathe, breath"
+180-425,oldi1245,http://concepticon.clld.org/parameters/1407,anāl,"breathe, breath"
+180-511,oldi1245,http://concepticon.clld.org/parameters/1028,mēnaigim,"yawn, gape"
+180-847,oldi1245,http://concepticon.clld.org/parameters/879,casachtach,cough
+180-386,oldi1245,http://concepticon.clld.org/parameters/1621,sreod,sneeze
+180-409,oldi1245,http://concepticon.clld.org/parameters/126,allas,perspire
+180-1212,oldi1245,http://concepticon.clld.org/parameters/1440,saile,spit
+180-232,oldi1245,http://concepticon.clld.org/parameters/1278,scēim,vomit
+180-441,oldi1245,http://concepticon.clld.org/parameters/1403,greim,bite
+180-587,oldi1245,http://concepticon.clld.org/parameters/319,ligim,lick
+180-932,oldi1245,http://concepticon.clld.org/parameters/1585,con-tulim (foaim),sleep
+180-600,oldi1245,http://concepticon.clld.org/parameters/1585,sūan,sleep
+180-777,oldi1245,http://concepticon.clld.org/parameters/1585,cotlud,sleep
+180-377,oldi1245,http://concepticon.clld.org/parameters/1920,aisling,dream
+180-1226,oldi1245,http://concepticon.clld.org/parameters/1602,do-fūiscim,wake up
+180-483,oldi1245,http://concepticon.clld.org/parameters/1159,braigim,break wind
+180-1112,oldi1245,http://concepticon.clld.org/parameters/592,mūnaim,urinate
+180-132,oldi1245,http://concepticon.clld.org/parameters/592,fūal,urinate
+180-1197,oldi1245,http://concepticon.clld.org/parameters/592,mūn,urinate
+180-658,oldi1245,http://concepticon.clld.org/parameters/676,caccaim,defecate
+180-4,oldi1245,http://concepticon.clld.org/parameters/676,cacc,defecate
+180-610,oldi1245,http://concepticon.clld.org/parameters/1785,goithimm,have sexual intercourse
+180-231,oldi1245,http://concepticon.clld.org/parameters/1785,conricim,have sexual intercourse
+180-475,oldi1245,http://concepticon.clld.org/parameters/1152,do-fuismim,beget (of father)
+180-475,oldi1245,http://concepticon.clld.org/parameters/1090,do-fuismim,born (to be)
+180-98,oldi1245,http://concepticon.clld.org/parameters/1090,biru,born (to be)
+180-917,oldi1245,http://concepticon.clld.org/parameters/1123,torrach,pregnant
+180-290,oldi1245,http://concepticon.clld.org/parameters/1422,am bēo,"live, living, life"
+180-588,oldi1245,http://concepticon.clld.org/parameters/1422,maraim,"live, living, life"
+180-902,oldi1245,http://concepticon.clld.org/parameters/1494,at-balim,"die, dead"
+180-530,oldi1245,http://concepticon.clld.org/parameters/1494,bā-,"die, dead"
+180-921,oldi1245,http://concepticon.clld.org/parameters/1417,marbaim,kill
+180-431,oldi1245,http://concepticon.clld.org/parameters/1417,gonim,kill
+180-259,oldi1245,http://concepticon.clld.org/parameters/1417,orgim,kill
+180-1077,oldi1245,http://concepticon.clld.org/parameters/767,marb,corpse
+180-370,oldi1245,http://concepticon.clld.org/parameters/767,marbān,corpse
+180-12,oldi1245,http://concepticon.clld.org/parameters/1719,adnaicim,bury (the dead)
+180-1110,oldi1245,http://concepticon.clld.org/parameters/1773,fert,"grave, tomb"
+180-5,oldi1245,http://concepticon.clld.org/parameters/1773,lecht,"grave, tomb"
+180-660,oldi1245,http://concepticon.clld.org/parameters/785,trēn,"strong, mighty, powerful"
+180-640,oldi1245,http://concepticon.clld.org/parameters/785,lāidir,"strong, mighty, powerful"
+180-150,oldi1245,http://concepticon.clld.org/parameters/785,adbol,"strong, mighty, powerful"
+180-693,oldi1245,http://concepticon.clld.org/parameters/1601,lobur,weak
+180-2,oldi1245,http://concepticon.clld.org/parameters/1601,lacc,weak
+180-728,oldi1245,http://concepticon.clld.org/parameters/1601,fand,weak
+180-952,oldi1245,http://concepticon.clld.org/parameters/1364,slān,"well, health"
+180-1209,oldi1245,http://concepticon.clld.org/parameters/1364,slāntu,"well, health"
+180-693,oldi1245,http://concepticon.clld.org/parameters/1847,lobur,"sick, sickness"
+180-545,oldi1245,http://concepticon.clld.org/parameters/1847,serg,"sick, sickness"
+180-794,oldi1245,http://concepticon.clld.org/parameters/1109,crēcht,"wound, sore"
+180-62,oldi1245,http://concepticon.clld.org/parameters/1109,cned,"wound, sore"
+180-408,oldi1245,http://concepticon.clld.org/parameters/499,īccaim,"cure, heal"
+180-642,oldi1245,http://concepticon.clld.org/parameters/499,fris-ben,"cure, heal"
+180-762,oldi1245,http://concepticon.clld.org/parameters/597,līaig (midach),physician
+180-922,oldi1245,http://concepticon.clld.org/parameters/1372,leiges,"medicine, drug"
+180-402,oldi1245,http://concepticon.clld.org/parameters/655,neim,poison
+180-209,oldi1245,http://concepticon.clld.org/parameters/655,fī,poison
+180-1016,oldi1245,http://concepticon.clld.org/parameters/1757,scīth,"tired, weary"
+180-957,oldi1245,http://concepticon.clld.org/parameters/1564,lesc,lazy
+180-184,oldi1245,http://concepticon.clld.org/parameters/1125,mael,bald
+180-534,oldi1245,http://concepticon.clld.org/parameters/320,bacach,lame
+180-1011,oldi1245,http://concepticon.clld.org/parameters/320,losc,lame
+180-302,oldi1245,http://concepticon.clld.org/parameters/996,bodar,deaf
+180-983,oldi1245,http://concepticon.clld.org/parameters/1666,amlabar,mute
+180-914,oldi1245,http://concepticon.clld.org/parameters/1666,balb,mute
+180-1231,oldi1245,http://concepticon.clld.org/parameters/1653,dall,blind
+180-641,oldi1245,http://concepticon.clld.org/parameters/1653,goll,blind
+180-296,oldi1245,http://concepticon.clld.org/parameters/1463,mesc,intoxicated
+180-1239,oldi1245,http://concepticon.clld.org/parameters/590,nocht,"naked, bare"
+180-142,oldi1245,http://concepticon.clld.org/parameters/590,lomm,"naked, bare"
+180-573,oldi1245,http://concepticon.clld.org/parameters/1336,ithim,eat
+180-874,oldi1245,http://concepticon.clld.org/parameters/256,biad,food
+180-484,oldi1245,http://concepticon.clld.org/parameters/256,tūare,food
+180-168,oldi1245,http://concepticon.clld.org/parameters/1401,ibim,drink
+180-886,oldi1245,http://concepticon.clld.org/parameters/1533,gorte,hunger
+180-773,oldi1245,http://concepticon.clld.org/parameters/848,ītu,thirst
+180-1227,oldi1245,http://concepticon.clld.org/parameters/848,tart,thirst
+180-553,oldi1245,http://concepticon.clld.org/parameters/1421,sūgim,suck
+180-795,oldi1245,http://concepticon.clld.org/parameters/1421,denim,suck
+180-338,oldi1245,http://concepticon.clld.org/parameters/1100,fo-no-,cook
+180-712,oldi1245,http://concepticon.clld.org/parameters/792,berbaim,boil (vb)
+180-338,oldi1245,http://concepticon.clld.org/parameters/2146,fo-no-,"roast, fry"
+180-338,oldi1245,http://concepticon.clld.org/parameters/183,fo-no-,bake
+180-1206,oldi1245,http://concepticon.clld.org/parameters/1143,sornn,oven
+180-1163,oldi1245,http://concepticon.clld.org/parameters/1143,fulacht,oven
+180-1055,oldi1245,http://concepticon.clld.org/parameters/1462,crocān,"pot, cooking vessel"
+180-382,oldi1245,http://concepticon.clld.org/parameters/854,coire,kettle
+180-348,oldi1245,http://concepticon.clld.org/parameters/854,scaball,kettle
+180-239,oldi1245,http://concepticon.clld.org/parameters/31,aigen,pan
+180-1213,oldi1245,http://concepticon.clld.org/parameters/481,tesc,dish
+180-589,oldi1245,http://concepticon.clld.org/parameters/481,mias,dish
+180-507,oldi1245,http://concepticon.clld.org/parameters/1530,cūach,bowl
+180-166,oldi1245,http://concepticon.clld.org/parameters/270,cilornn,"pitcher, jug"
+180-104,oldi1245,http://concepticon.clld.org/parameters/476,airidech,"cup, drinking vessel"
+180-883,oldi1245,http://concepticon.clld.org/parameters/476,copān,"cup, drinking vessel"
+180-306,oldi1245,http://concepticon.clld.org/parameters/476,cailech,"cup, drinking vessel"
+180-9,oldi1245,http://concepticon.clld.org/parameters/1378,liag,spoon
+180-1185,oldi1245,http://concepticon.clld.org/parameters/1526,dithat,meal (a)
+180-696,oldi1245,http://concepticon.clld.org/parameters/1833,praind,dinner
+180-403,oldi1245,http://concepticon.clld.org/parameters/1368,bairgen,bread
+180-71,oldi1245,http://concepticon.clld.org/parameters/1368,arān,bread
+180-926,oldi1245,http://concepticon.clld.org/parameters/273,tāis,dough
+180-117,oldi1245,http://concepticon.clld.org/parameters/1594,men,"meal, flour"
+180-877,oldi1245,http://concepticon.clld.org/parameters/1033,melim,"crush, grind"
+180-1013,oldi1245,http://concepticon.clld.org/parameters/636,brāo,mill
+180-598,oldi1245,http://concepticon.clld.org/parameters/636,mulenn,mill
+180-112,oldi1245,http://concepticon.clld.org/parameters/634,feōil,meat
+180-567,oldi1245,http://concepticon.clld.org/parameters/634,cūa,meat
+180-284,oldi1245,http://concepticon.clld.org/parameters/1874,mar,sausage
+180-552,oldi1245,http://concepticon.clld.org/parameters/1874,marōc,sausage
+180-686,oldi1245,http://concepticon.clld.org/parameters/1547,enbruithe,"soup, broth"
+180-1165,oldi1245,http://concepticon.clld.org/parameters/832,seib,bean
+180-942,oldi1245,http://concepticon.clld.org/parameters/1507,torad,fruit
+180-529,oldi1245,http://concepticon.clld.org/parameters/322,fīc,fig
+180-526,oldi1245,http://concepticon.clld.org/parameters/920,fīn,grape
+180-133,oldi1245,http://concepticon.clld.org/parameters/191,cnū,nut
+180-1020,oldi1245,http://concepticon.clld.org/parameters/1484,ola,oil
+180-10,oldi1245,http://concepticon.clld.org/parameters/1274,salann,salt
+180-151,oldi1245,http://concepticon.clld.org/parameters/1385,scibar,pepper
+180-813,oldi1245,http://concepticon.clld.org/parameters/1385,pipur,pepper
+180-577,oldi1245,http://concepticon.clld.org/parameters/942,mil,honey
+180-413,oldi1245,http://concepticon.clld.org/parameters/635,mlicht,milk (noun)
+180-439,oldi1245,http://concepticon.clld.org/parameters/635,ass,milk (noun)
+180-631,oldi1245,http://concepticon.clld.org/parameters/635,lacht,milk (noun)
+180-53,oldi1245,http://concepticon.clld.org/parameters/93,bligim,milk (vb)
+180-663,oldi1245,http://concepticon.clld.org/parameters/93,crudim,milk (vb)
+180-464,oldi1245,http://concepticon.clld.org/parameters/1569,cāise,cheese
+180-336,oldi1245,http://concepticon.clld.org/parameters/1245,imb,butter
+180-583,oldi1245,http://concepticon.clld.org/parameters/941,mid,mead
+180-526,oldi1245,http://concepticon.clld.org/parameters/1524,fīn,wine
+180-891,oldi1245,http://concepticon.clld.org/parameters/1639,cuirm,beer
+180-811,oldi1245,http://concepticon.clld.org/parameters/1639,laith,beer
+180-655,oldi1245,http://concepticon.clld.org/parameters/1639,beoir,beer
+180-1079,oldi1245,http://concepticon.clld.org/parameters/744,og,egg
+180-1025,oldi1245,http://concepticon.clld.org/parameters/158,ētim,put on (clothes)
+180-1223,oldi1245,http://concepticon.clld.org/parameters/158,intuigur,put on (clothes)
+180-1166,oldi1245,http://concepticon.clld.org/parameters/1895,dīllat,"clothing, clothes"
+180-1001,oldi1245,http://concepticon.clld.org/parameters/1895,ētach,"clothing, clothes"
+180-1080,oldi1245,http://concepticon.clld.org/parameters/1895,ētiuth,"clothing, clothes"
+180-396,oldi1245,http://concepticon.clld.org/parameters/1616,brēit,cloth
+180-524,oldi1245,http://concepticon.clld.org/parameters/964,olann,wool
+180-216,oldi1245,http://concepticon.clld.org/parameters/916,līn,"linen, flax"
+180-235,oldi1245,http://concepticon.clld.org/parameters/1641,sīta,silk
+180-541,oldi1245,http://concepticon.clld.org/parameters/1641,sīric,silk
+180-493,oldi1245,http://concepticon.clld.org/parameters/580,crocenn,fur
+180-637,oldi1245,http://concepticon.clld.org/parameters/629,lethar,leather
+180-319,oldi1245,http://concepticon.clld.org/parameters/121,snī-,spin
+180-412,oldi1245,http://concepticon.clld.org/parameters/277,fertas,spindle
+180-287,oldi1245,http://concepticon.clld.org/parameters/133,figim,weave
+180-309,oldi1245,http://concepticon.clld.org/parameters/1787,garmain,loom
+180-1030,oldi1245,http://concepticon.clld.org/parameters/1457,uagim,sew
+180-1237,oldi1245,http://concepticon.clld.org/parameters/1382,snāthat,needle
+180-713,oldi1245,http://concepticon.clld.org/parameters/278,menad,awl
+180-297,oldi1245,http://concepticon.clld.org/parameters/1161,snāthe,thread
+180-25,oldi1245,http://concepticon.clld.org/parameters/157,dathaigim,dye
+180-1233,oldi1245,http://concepticon.clld.org/parameters/326,lenn,cloak
+180-770,oldi1245,http://concepticon.clld.org/parameters/326,brat,cloak
+180-251,oldi1245,http://concepticon.clld.org/parameters/326,mattal,cloak
+180-130,oldi1245,http://concepticon.clld.org/parameters/603,fūan,coat
+180-343,oldi1245,http://concepticon.clld.org/parameters/603,inar,coat
+180-825,oldi1245,http://concepticon.clld.org/parameters/1622,lēne,shirt
+180-1096,oldi1245,http://concepticon.clld.org/parameters/1622,caimmse,shirt
+180-205,oldi1245,http://concepticon.clld.org/parameters/1622,anart,shirt
+180-993,oldi1245,http://concepticon.clld.org/parameters/809,brōc,trousers
+180-993,oldi1245,http://concepticon.clld.org/parameters/1381,brōc,shoe
+180-206,oldi1245,http://concepticon.clld.org/parameters/1381,accrann,shoe
+180-281,oldi1245,http://concepticon.clld.org/parameters/1381,cūarān,shoe
+180-1161,oldi1245,http://concepticon.clld.org/parameters/1381,assa,shoe
+180-868,oldi1245,http://concepticon.clld.org/parameters/875,cairem,"shoemaker, cobbler"
+180-670,oldi1245,http://concepticon.clld.org/parameters/2130,culpait,"hat, cap"
+180-1201,oldi1245,http://concepticon.clld.org/parameters/772,ferenn,"belt, girdle"
+180-1008,oldi1245,http://concepticon.clld.org/parameters/772,criss,"belt, girdle"
+180-882,oldi1245,http://concepticon.clld.org/parameters/867,lāmind,glove
+180-499,oldi1245,http://concepticon.clld.org/parameters/867,lāmann,glove
+180-449,oldi1245,http://concepticon.clld.org/parameters/1151,caille,veil
+180-936,oldi1245,http://concepticon.clld.org/parameters/1151,fīal,veil
+180-666,oldi1245,http://concepticon.clld.org/parameters/64,delg,pin
+180-575,oldi1245,http://concepticon.clld.org/parameters/64,sēt,pin
+180-928,oldi1245,http://concepticon.clld.org/parameters/917,cumtach,"ornament, adornment"
+180-1258,oldi1245,http://concepticon.clld.org/parameters/917,ōrnaid,"ornament, adornment"
+180-440,oldi1245,http://concepticon.clld.org/parameters/1029,sōt,jewel
+180-420,oldi1245,http://concepticon.clld.org/parameters/1374,āinne,ring (for finger)
+180-1002,oldi1245,http://concepticon.clld.org/parameters/1374,ordnasc,ring (for finger)
+180-1236,oldi1245,http://concepticon.clld.org/parameters/1754,foil,bracelet
+180-722,oldi1245,http://concepticon.clld.org/parameters/1754,fail,bracelet
+180-269,oldi1245,http://concepticon.clld.org/parameters/1961,muince,necklace
+180-294,oldi1245,http://concepticon.clld.org/parameters/1961,muintorc,necklace
+180-452,oldi1245,http://concepticon.clld.org/parameters/1961,basc,necklace
+180-1018,oldi1245,http://concepticon.clld.org/parameters/1475,cīr,comb
+180-208,oldi1245,http://concepticon.clld.org/parameters/151,altan,razor
+180-585,oldi1245,http://concepticon.clld.org/parameters/1926,ongain,ointment
+180-119,oldi1245,http://concepticon.clld.org/parameters/1171,scāthān,mirror
+180-433,oldi1245,http://concepticon.clld.org/parameters/1099,atreba,"dwell, live"
+180-624,oldi1245,http://concepticon.clld.org/parameters/1252,tech,house
+180-841,oldi1245,http://concepticon.clld.org/parameters/1678,both,hut
+180-858,oldi1245,http://concepticon.clld.org/parameters/1678,bothān,hut
+180-613,oldi1245,http://concepticon.clld.org/parameters/1316,pupall,tent
+180-905,oldi1245,http://concepticon.clld.org/parameters/736,cuirt,"yard, court"
+180-45,oldi1245,http://concepticon.clld.org/parameters/1450,camra,room
+180-532,oldi1245,http://concepticon.clld.org/parameters/1567,dorus,"door, gate"
+180-761,oldi1245,http://concepticon.clld.org/parameters/1567,comla,"door, gate"
+180-1245,oldi1245,http://concepticon.clld.org/parameters/1596,glass,lock (noun)
+180-488,oldi1245,http://concepticon.clld.org/parameters/1472,eochair,key
+180-474,oldi1245,http://concepticon.clld.org/parameters/1375,senister,window
+180-376,oldi1245,http://concepticon.clld.org/parameters/1375,fuindeōc,window
+180-106,oldi1245,http://concepticon.clld.org/parameters/1632,lār,floor
+180-1175,oldi1245,http://concepticon.clld.org/parameters/933,mūr,wall
+180-593,oldi1245,http://concepticon.clld.org/parameters/933,fraig,wall
+180-810,oldi1245,http://concepticon.clld.org/parameters/185,tenlach,fireplace
+180-918,oldi1245,http://concepticon.clld.org/parameters/185,tellach,fireplace
+180-1206,oldi1245,http://concepticon.clld.org/parameters/859,sornn,stove
+180-603,oldi1245,http://concepticon.clld.org/parameters/1663,lebaid,bed
+180-398,oldi1245,http://concepticon.clld.org/parameters/1663,lige,bed
+180-611,oldi1245,http://concepticon.clld.org/parameters/1476,cathair,chair
+180-589,oldi1245,http://concepticon.clld.org/parameters/1775,mias,table
+180-312,oldi1245,http://concepticon.clld.org/parameters/1775,bordd,table
+180-754,oldi1245,http://concepticon.clld.org/parameters/2131,lōcharnn,"lamp, torch"
+180-790,oldi1245,http://concepticon.clld.org/parameters/1273,caindel,candle
+180-1149,oldi1245,http://concepticon.clld.org/parameters/979,briugu,farmer
+180-314,oldi1245,http://concepticon.clld.org/parameters/979,brugaid,farmer
+180-1134,oldi1245,http://concepticon.clld.org/parameters/212,gort,field (for cultivation)
+180-622,oldi1245,http://concepticon.clld.org/parameters/586,lubgort,garden
+180-756,oldi1245,http://concepticon.clld.org/parameters/586,garda,garden
+180-1041,oldi1245,http://concepticon.clld.org/parameters/1541,airim,"cultivate, till"
+180-1041,oldi1245,http://concepticon.clld.org/parameters/1921,airim,plow
+180-228,oldi1245,http://concepticon.clld.org/parameters/1921,arathar,plow
+180-1105,oldi1245,http://concepticon.clld.org/parameters/1921,cēcht,plow
+180-1091,oldi1245,http://concepticon.clld.org/parameters/1794,etrech,furrow
+180-668,oldi1245,http://concepticon.clld.org/parameters/1418,claidim,dig
+180-843,oldi1245,http://concepticon.clld.org/parameters/1176,rāme,spade
+180-1131,oldi1245,http://concepticon.clld.org/parameters/1176,laige,spade
+180-757,oldi1245,http://concepticon.clld.org/parameters/1901,slūasat,shovel
+180-586,oldi1245,http://concepticon.clld.org/parameters/337,forc,fork
+180-769,oldi1245,http://concepticon.clld.org/parameters/338,rastal,rake
+180-614,oldi1245,http://concepticon.clld.org/parameters/748,sīlaim,sow
+180-801,oldi1245,http://concepticon.clld.org/parameters/748,sīl,sow
+180-924,oldi1245,http://concepticon.clld.org/parameters/190,bongaim,"mow, reap"
+180-268,oldi1245,http://concepticon.clld.org/parameters/2132,corrān,"sickle, scythe"
+180-804,oldi1245,http://concepticon.clld.org/parameters/2132,speal,"sickle, scythe"
+180-334,oldi1245,http://concepticon.clld.org/parameters/285,do-fuaircc,thresh
+180-596,oldi1245,http://concepticon.clld.org/parameters/223,ithland,threshing-floor
+180-942,oldi1245,http://concepticon.clld.org/parameters/611,torad,"crop, harvest"
+180-1101,oldi1245,http://concepticon.clld.org/parameters/611,buain,"crop, harvest"
+180-202,oldi1245,http://concepticon.clld.org/parameters/605,ith,"grain (barley, oats etc)"
+180-515,oldi1245,http://concepticon.clld.org/parameters/605,arbar,"grain (barley, oats etc)"
+180-615,oldi1245,http://concepticon.clld.org/parameters/1077,cruitnecht,wheat
+180-1033,oldi1245,http://concepticon.clld.org/parameters/1077,tuirend,wheat
+180-1059,oldi1245,http://concepticon.clld.org/parameters/932,eorna,barley
+180-277,oldi1245,http://concepticon.clld.org/parameters/23,secul,rye
+180-920,oldi1245,http://concepticon.clld.org/parameters/60,coirce,oats
+180-229,oldi1245,http://concepticon.clld.org/parameters/606,fēr,grass
+180-229,oldi1245,http://concepticon.clld.org/parameters/342,fēr,hay
+180-115,oldi1245,http://concepticon.clld.org/parameters/653,luib,plant (noun)
+180-881,oldi1245,http://concepticon.clld.org/parameters/653,luss,plant (noun)
+180-893,oldi1245,http://concepticon.clld.org/parameters/670,frēm,root
+180-258,oldi1245,http://concepticon.clld.org/parameters/1531,crāib,branch
+180-27,oldi1245,http://concepticon.clld.org/parameters/1531,gēsca,branch
+180-667,oldi1245,http://concepticon.clld.org/parameters/628,duille,leaf
+180-900,oldi1245,http://concepticon.clld.org/parameters/239,blāth,flower
+180-661,oldi1245,http://concepticon.clld.org/parameters/239,scoth,flower
+180-1095,oldi1245,http://concepticon.clld.org/parameters/644,daur,oak
+180-973,oldi1245,http://concepticon.clld.org/parameters/1950,faghvile,beech
+180-196,oldi1245,http://concepticon.clld.org/parameters/1855,bethe,birch
+180-1089,oldi1245,http://concepticon.clld.org/parameters/1740,gius,pine
+180-809,oldi1245,http://concepticon.clld.org/parameters/1740,ochtach,pine
+180-1164,oldi1245,http://concepticon.clld.org/parameters/968,daurgne,acorn
+180-18,oldi1245,http://concepticon.clld.org/parameters/343,fīnemain,vine
+180-1087,oldi1245,http://concepticon.clld.org/parameters/813,dognīu,"do, make"
+180-1182,oldi1245,http://concepticon.clld.org/parameters/984,sāethar,work
+180-1255,oldi1245,http://concepticon.clld.org/parameters/984,opair,work
+180-901,oldi1245,http://concepticon.clld.org/parameters/984,lubair,work
+180-179,oldi1245,http://concepticon.clld.org/parameters/2004,crommaim,bend
+180-241,oldi1245,http://concepticon.clld.org/parameters/2004,fillim,bend
+180-241,oldi1245,http://concepticon.clld.org/parameters/1470,fillim,fold
+180-1170,oldi1245,http://concepticon.clld.org/parameters/1917,con-rigim,"tie, bind"
+180-829,oldi1245,http://concepticon.clld.org/parameters/1917,nascim,"tie, bind"
+180-765,oldi1245,http://concepticon.clld.org/parameters/1917,cenglaim,"tie, bind"
+180-43,oldi1245,http://concepticon.clld.org/parameters/1627,slabrad,chain
+180-504,oldi1245,http://concepticon.clld.org/parameters/1627,rond,chain
+180-1040,oldi1245,http://concepticon.clld.org/parameters/1218,sūanem,"rope, cord"
+180-941,oldi1245,http://concepticon.clld.org/parameters/1218,tēt,"rope, cord"
+180-175,oldi1245,http://concepticon.clld.org/parameters/1218,loman,"rope, cord"
+180-904,oldi1245,http://concepticon.clld.org/parameters/760,snaidm,knot (noun)
+180-1006,oldi1245,http://concepticon.clld.org/parameters/2133,benim,"strike (hit, beat)"
+180-646,oldi1245,http://concepticon.clld.org/parameters/2133,sligim,"strike (hit, beat)"
+180-951,oldi1245,http://concepticon.clld.org/parameters/2133,slaidim,"strike (hit, beat)"
+180-619,oldi1245,http://concepticon.clld.org/parameters/2133,būalim,"strike (hit, beat)"
+180-1215,oldi1245,http://concepticon.clld.org/parameters/1432,tescaim,cut
+180-101,oldi1245,http://concepticon.clld.org/parameters/1432,snaidim,cut
+180-293,oldi1245,http://concepticon.clld.org/parameters/1432,scothaim,cut
+180-700,oldi1245,http://concepticon.clld.org/parameters/1352,scian,knife
+180-875,oldi1245,http://concepticon.clld.org/parameters/356,demess,"scissors, shears"
+180-878,oldi1245,http://concepticon.clld.org/parameters/677,biail,ax
+180-740,oldi1245,http://concepticon.clld.org/parameters/677,tūag,ax
+180-384,oldi1245,http://concepticon.clld.org/parameters/680,brissim,break
+180-620,oldi1245,http://concepticon.clld.org/parameters/680,conboing,break
+180-21,oldi1245,http://concepticon.clld.org/parameters/1437,dlongim,split
+180-451,oldi1245,http://concepticon.clld.org/parameters/1735,rēbaim,tear
+180-1162,oldi1245,http://concepticon.clld.org/parameters/291,fennaim,"flay, skin"
+180-124,oldi1245,http://concepticon.clld.org/parameters/1449,commelim,"rub, wipe"
+180-828,oldi1245,http://concepticon.clld.org/parameters/214,sīnim,stretch
+180-30,oldi1245,http://concepticon.clld.org/parameters/1455,srengim,pull
+180-907,oldi1245,http://concepticon.clld.org/parameters/1455,tairrngim,pull
+180-787,oldi1245,http://concepticon.clld.org/parameters/38,sernim,spread out
+180-83,oldi1245,http://concepticon.clld.org/parameters/38,assrēdim,spread out
+180-242,oldi1245,http://concepticon.clld.org/parameters/1913,fāiscim,press
+180-174,oldi1245,http://concepticon.clld.org/parameters/1487,teismim,pour
+180-54,oldi1245,http://concepticon.clld.org/parameters/1487,doirtim,pour
+180-19,oldi1245,http://concepticon.clld.org/parameters/1453,nigim,wash
+180-543,oldi1245,http://concepticon.clld.org/parameters/1453,folcaim,wash
+180-316,oldi1245,http://concepticon.clld.org/parameters/1453,indaim,wash
+180-141,oldi1245,http://concepticon.clld.org/parameters/230,scōpaim,sweep
+180-576,oldi1245,http://concepticon.clld.org/parameters/245,scūap,broom
+180-321,oldi1245,http://concepticon.clld.org/parameters/1361,airnisi,tool
+180-972,oldi1245,http://concepticon.clld.org/parameters/1042,sāir,carpenter
+180-1126,oldi1245,http://concepticon.clld.org/parameters/1840,cunutgim,build
+180-1159,oldi1245,http://concepticon.clld.org/parameters/1501,tollaim,bore
+180-617,oldi1245,http://concepticon.clld.org/parameters/1948,tuiresc,saw
+180-685,oldi1245,http://concepticon.clld.org/parameters/1948,serr,saw
+180-97,oldi1245,http://concepticon.clld.org/parameters/1481,ordd,hammer
+180-857,oldi1245,http://concepticon.clld.org/parameters/502,clō,nail
+180-364,oldi1245,http://concepticon.clld.org/parameters/502,tairnge,nail
+180-438,oldi1245,http://concepticon.clld.org/parameters/1001,goba,"smith, blacksmith"
+180-1184,oldi1245,http://concepticon.clld.org/parameters/1648,indēin,anvil
+180-732,oldi1245,http://concepticon.clld.org/parameters/1369,ōr,gold
+180-265,oldi1245,http://concepticon.clld.org/parameters/759,argat,silver
+180-555,oldi1245,http://concepticon.clld.org/parameters/759,airged,silver
+180-1178,oldi1245,http://concepticon.clld.org/parameters/1825,umae,"copper, bronze"
+180-353,oldi1245,http://concepticon.clld.org/parameters/1825,crēdumae,"copper, bronze"
+180-131,oldi1245,http://concepticon.clld.org/parameters/621,iarn,iron
+180-621,oldi1245,http://concepticon.clld.org/parameters/627,luaide,lead (noun)
+180-1045,oldi1245,http://concepticon.clld.org/parameters/358,stān,"tin, tinplate"
+180-1015,oldi1245,http://concepticon.clld.org/parameters/358,crēd,"tin, tinplate"
+180-135,oldi1245,http://concepticon.clld.org/parameters/359,cerd,potter
+180-173,oldi1245,http://concepticon.clld.org/parameters/359,doilbthid,potter
+180-531,oldi1245,http://concepticon.clld.org/parameters/289,dolbaim,mold (clay etc)
+180-975,oldi1245,http://concepticon.clld.org/parameters/289,cummaim,mold (clay etc)
+180-212,oldi1245,http://concepticon.clld.org/parameters/1399,crē,clay
+180-768,oldi1245,http://concepticon.clld.org/parameters/604,glain(e),glass
+180-287,oldi1245,http://concepticon.clld.org/parameters/1729,figim,"weave, plait"
+180-546,oldi1245,http://concepticon.clld.org/parameters/1539,cliab,basket
+180-101,oldi1245,http://concepticon.clld.org/parameters/228,snaidim,carve
+180-37,oldi1245,http://concepticon.clld.org/parameters/1002,delb,statue
+180-1027,oldi1245,http://concepticon.clld.org/parameters/765,-luur,move
+180-678,oldi1245,http://concepticon.clld.org/parameters/765,luadaim,move
+180-831,oldi1245,http://concepticon.clld.org/parameters/1588,sōim,turn over
+180-77,oldi1245,http://concepticon.clld.org/parameters/1445,impōim,turn around
+180-1061,oldi1245,http://concepticon.clld.org/parameters/568,ērigim,rise
+180-966,oldi1245,http://concepticon.clld.org/parameters/501,conucbaim,"raise, lift"
+180-731,oldi1245,http://concepticon.clld.org/parameters/1280,do-tuit,fall
+180-684,oldi1245,http://concepticon.clld.org/parameters/2253,banna,drip
+180-492,oldi1245,http://concepticon.clld.org/parameters/2253,brōen,drip
+180-458,oldi1245,http://concepticon.clld.org/parameters/1456,focerdaim,throw
+180-16,oldi1245,http://concepticon.clld.org/parameters/1456,srēdim,throw
+180-1003,oldi1245,http://concepticon.clld.org/parameters/1456,dolēicim,throw
+180-339,oldi1245,http://concepticon.clld.org/parameters/1909,crothim,shake
+180-638,oldi1245,http://concepticon.clld.org/parameters/2003,rethim,flow
+180-724,oldi1245,http://concepticon.clld.org/parameters/1088,bāidim,sink
+180-509,oldi1245,http://concepticon.clld.org/parameters/1574,snāim,float
+180-509,oldi1245,http://concepticon.clld.org/parameters/1439,snāim,swim
+180-60,oldi1245,http://concepticon.clld.org/parameters/787,immrāim,sail (vb)
+180-34,oldi1245,http://concepticon.clld.org/parameters/1441,foluur,fly (vb)
+180-1012,oldi1245,http://concepticon.clld.org/parameters/1441,etelaigim,fly (vb)
+180-888,oldi1245,http://concepticon.clld.org/parameters/175,sētim,blow
+180-298,oldi1245,http://concepticon.clld.org/parameters/1829,lingim,"jump, leap"
+180-985,oldi1245,http://concepticon.clld.org/parameters/1443,cingim,walk
+180-266,oldi1245,http://concepticon.clld.org/parameters/1443,tiagu,walk
+180-638,oldi1245,http://concepticon.clld.org/parameters/1519,rethim,run
+180-266,oldi1245,http://concepticon.clld.org/parameters/695,tiagu,go
+180-1119,oldi1245,http://concepticon.clld.org/parameters/695,lod,go
+180-627,oldi1245,http://concepticon.clld.org/parameters/695,-rega,go
+180-814,oldi1245,http://concepticon.clld.org/parameters/695,dul,go
+180-823,oldi1245,http://concepticon.clld.org/parameters/1446,doiccim,come
+180-234,oldi1245,http://concepticon.clld.org/parameters/1446,ticim,come
+180-832,oldi1245,http://concepticon.clld.org/parameters/1752,immthigim,"go away, depart"
+180-746,oldi1245,http://concepticon.clld.org/parameters/956,techim,flee
+180-419,oldi1245,http://concepticon.clld.org/parameters/1085,sechur,follow
+180-570,oldi1245,http://concepticon.clld.org/parameters/1047,ingrennim,pursue
+180-238,oldi1245,http://concepticon.clld.org/parameters/1047,dosennim,pursue
+180-755,oldi1245,http://concepticon.clld.org/parameters/1387,roiccim,"reach, arrive"
+180-820,oldi1245,http://concepticon.clld.org/parameters/1387,rosaigim,"reach, arrive"
+180-1204,oldi1245,http://concepticon.clld.org/parameters/1778,ascnaim,approach
+180-1229,oldi1245,http://concepticon.clld.org/parameters/1778,tascnaim,approach
+180-270,oldi1245,http://concepticon.clld.org/parameters/749,inodtiagu,enter
+180-98,oldi1245,http://concepticon.clld.org/parameters/700,biru,carry (bear)
+180-860,oldi1245,http://concepticon.clld.org/parameters/700,immchuirim,carry (bear)
+180-98,oldi1245,http://concepticon.clld.org/parameters/692,biru,bring
+180-977,oldi1245,http://concepticon.clld.org/parameters/692,dobiur,bring
+180-1124,oldi1245,http://concepticon.clld.org/parameters/692,toucc-,bring
+180-1219,oldi1245,http://concepticon.clld.org/parameters/43,fedim,lead (vb)
+180-1058,oldi1245,http://concepticon.clld.org/parameters/741,ad-aig,drive
+180-300,oldi1245,http://concepticon.clld.org/parameters/741,imm-aig,drive
+180-969,oldi1245,http://concepticon.clld.org/parameters/367,rīadaim,ride
+180-961,oldi1245,http://concepticon.clld.org/parameters/667,slige,road
+180-575,oldi1245,http://concepticon.clld.org/parameters/667,sēt,road
+180-703,oldi1245,http://concepticon.clld.org/parameters/667,rōt,road
+180-558,oldi1245,http://concepticon.clld.org/parameters/667,conar,road
+180-35,oldi1245,http://concepticon.clld.org/parameters/667,bōthar,road
+180-1130,oldi1245,http://concepticon.clld.org/parameters/2252,cassān,path
+180-558,oldi1245,http://concepticon.clld.org/parameters/2252,conar,path
+180-261,oldi1245,http://concepticon.clld.org/parameters/1011,drochet,bridge
+180-221,oldi1245,http://concepticon.clld.org/parameters/122,fēn,"carriage, wagon, cart"
+180-388,oldi1245,http://concepticon.clld.org/parameters/122,carpat,"carriage, wagon, cart"
+180-443,oldi1245,http://concepticon.clld.org/parameters/122,carr,"carriage, wagon, cart"
+180-959,oldi1245,http://concepticon.clld.org/parameters/710,droch,wheel
+180-1038,oldi1245,http://concepticon.clld.org/parameters/710,roth,wheel
+180-412,oldi1245,http://concepticon.clld.org/parameters/1769,fertas,axle
+180-540,oldi1245,http://concepticon.clld.org/parameters/14,cuing,yoke
+180-1220,oldi1245,http://concepticon.clld.org/parameters/740,nau,ship
+180-1122,oldi1245,http://concepticon.clld.org/parameters/740,long,ship
+180-1174,oldi1245,http://concepticon.clld.org/parameters/740,lestar,ship
+180-282,oldi1245,http://concepticon.clld.org/parameters/1844,curach,boat
+180-476,oldi1245,http://concepticon.clld.org/parameters/1844,bāt,boat
+180-252,oldi1245,http://concepticon.clld.org/parameters/1664,raith,raft
+180-843,oldi1245,http://concepticon.clld.org/parameters/108,rāme,oar
+180-852,oldi1245,http://concepticon.clld.org/parameters/108,lue,rudder
+180-873,oldi1245,http://concepticon.clld.org/parameters/184,seolchrand,mast
+180-549,oldi1245,http://concepticon.clld.org/parameters/786,sēol,sail (noun)
+180-908,oldi1245,http://concepticon.clld.org/parameters/1870,ingor,anchor
+180-274,oldi1245,http://concepticon.clld.org/parameters/610,cuan,"harbor, port"
+180-366,oldi1245,http://concepticon.clld.org/parameters/684,techtaim,"own, possess"
+180-192,oldi1245,http://concepticon.clld.org/parameters/684,selbaim,"own, possess"
+180-521,oldi1245,http://concepticon.clld.org/parameters/1749,gaibim,take
+180-76,oldi1245,http://concepticon.clld.org/parameters/1749,air-fo-emim,take
+180-521,oldi1245,http://concepticon.clld.org/parameters/2021,gaibim,"seize, grasp"
+180-687,oldi1245,http://concepticon.clld.org/parameters/1448,congaibim,hold
+180-1240,oldi1245,http://concepticon.clld.org/parameters/694,adcota,"get, obtain"
+180-687,oldi1245,http://concepticon.clld.org/parameters/1477,congaibim,"keep, retain"
+180-478,oldi1245,http://concepticon.clld.org/parameters/1447,do-biur,give
+180-40,oldi1245,http://concepticon.clld.org/parameters/85,aisicim,give back
+180-183,oldi1245,http://concepticon.clld.org/parameters/1997,conōim,"preserve, look after"
+180-894,oldi1245,http://concepticon.clld.org/parameters/1997,comētaim,"preserve, look after"
+180-1114,oldi1245,http://concepticon.clld.org/parameters/2008,tessurc,"save, rescue"
+180-424,oldi1245,http://concepticon.clld.org/parameters/2008,sōirim,"save, rescue"
+180-789,oldi1245,http://concepticon.clld.org/parameters/681,do-lega,destroy
+180-899,oldi1245,http://concepticon.clld.org/parameters/681,millim,destroy
+180-385,oldi1245,http://concepticon.clld.org/parameters/681,collim,destroy
+180-341,oldi1245,http://concepticon.clld.org/parameters/44,fofichim,"harm, injure, damage"
+180-630,oldi1245,http://concepticon.clld.org/parameters/44,bronnaim,"harm, injure, damage"
+180-535,oldi1245,http://concepticon.clld.org/parameters/1468,sīrim,"seek, look for"
+180-233,oldi1245,http://concepticon.clld.org/parameters/1468,iarraim,"seek, look for"
+180-1037,oldi1245,http://concepticon.clld.org/parameters/1468,saigim,"seek, look for"
+180-199,oldi1245,http://concepticon.clld.org/parameters/719,fogaibim,find
+180-447,oldi1245,http://concepticon.clld.org/parameters/719,foriccim,find
+180-198,oldi1245,http://concepticon.clld.org/parameters/1660,ēiplid ūad,lose
+180-949,oldi1245,http://concepticon.clld.org/parameters/1095,lēicim,"release, let go"
+180-1132,oldi1245,http://concepticon.clld.org/parameters/712,somme,rich
+180-465,oldi1245,http://concepticon.clld.org/parameters/712,saidbir,rich
+180-307,oldi1245,http://concepticon.clld.org/parameters/1674,bocht,poor
+180-136,oldi1245,http://concepticon.clld.org/parameters/1674,domme,poor
+180-578,oldi1245,http://concepticon.clld.org/parameters/1674,daidbir,poor
+180-744,oldi1245,http://concepticon.clld.org/parameters/1934,foigde,beggar
+180-134,oldi1245,http://concepticon.clld.org/parameters/1774,santach,"avaricious, stingy"
+180-13,oldi1245,http://concepticon.clld.org/parameters/582,airlēicim,lend
+180-1224,oldi1245,http://concepticon.clld.org/parameters/582,oidim,lend
+180-162,oldi1245,http://concepticon.clld.org/parameters/369,dlegair domsa,owe
+180-1222,oldi1245,http://concepticon.clld.org/parameters/1914,fiach,debt
+180-201,oldi1245,http://concepticon.clld.org/parameters/718,direnim,pay (vb)
+180-331,oldi1245,http://concepticon.clld.org/parameters/718,asrenim,pay (vb)
+180-602,oldi1245,http://concepticon.clld.org/parameters/1081,airem,"account, reckoning"
+180-1070,oldi1245,http://concepticon.clld.org/parameters/1081,comairem,"account, reckoning"
+180-870,oldi1245,http://concepticon.clld.org/parameters/873,cīs,"tax, tribute"
+180-1214,oldi1245,http://concepticon.clld.org/parameters/856,gaibim ar faichill,hire
+180-65,oldi1245,http://concepticon.clld.org/parameters/1122,fochricc,wages
+180-747,oldi1245,http://concepticon.clld.org/parameters/1122,foichell,wages
+180-1032,oldi1245,http://concepticon.clld.org/parameters/1122,tuarastal,wages
+180-683,oldi1245,http://concepticon.clld.org/parameters/1869,crenim,buy
+180-466,oldi1245,http://concepticon.clld.org/parameters/1869,cennaigim,buy
+180-105,oldi1245,http://concepticon.clld.org/parameters/1082,cennaige,merchant
+180-113,oldi1245,http://concepticon.clld.org/parameters/633,cēte,market (place)
+180-689,oldi1245,http://concepticon.clld.org/parameters/633,marcad,market (place)
+180-58,oldi1245,http://concepticon.clld.org/parameters/657,lōg,price
+180-1249,oldi1245,http://concepticon.clld.org/parameters/1426,lōgmar,"dear (costly, expensive)"
+180-989,oldi1245,http://concepticon.clld.org/parameters/723,dū,place
+180-185,oldi1245,http://concepticon.clld.org/parameters/723,ined,place
+180-381,oldi1245,http://concepticon.clld.org/parameters/723,āitt,place
+180-502,oldi1245,http://concepticon.clld.org/parameters/723,airm,place
+180-155,oldi1245,http://concepticon.clld.org/parameters/723,maigen,place
+180-1084,oldi1245,http://concepticon.clld.org/parameters/998,cuirim (fo-cerd-),put
+180-1023,oldi1245,http://concepticon.clld.org/parameters/998,fuirmim,put
+180-157,oldi1245,http://concepticon.clld.org/parameters/1416,saidim,sit
+180-1138,oldi1245,http://concepticon.clld.org/parameters/215,laigim,lie down
+180-968,oldi1245,http://concepticon.clld.org/parameters/1442,duairsiur,stand
+180-996,oldi1245,http://concepticon.clld.org/parameters/987,anaim,"remain, stay"
+180-1210,oldi1245,http://concepticon.clld.org/parameters/987,mairim,"remain, stay"
+180-1169,oldi1245,http://concepticon.clld.org/parameters/838,do-fuarat,"remains, left overs"
+180-994,oldi1245,http://concepticon.clld.org/parameters/838,fedligedar,"remains, left overs"
+180-890,oldi1245,http://concepticon.clld.org/parameters/7,tinōlaim,"collect, gather"
+180-1154,oldi1245,http://concepticon.clld.org/parameters/7,tecmallaim,"collect, gather"
+180-418,oldi1245,http://concepticon.clld.org/parameters/1743,adcomla,"join, unite"
+180-1010,oldi1245,http://concepticon.clld.org/parameters/1359,scaraim,separate
+180-362,oldi1245,http://concepticon.clld.org/parameters/1156,asoilci,open
+180-95,oldi1245,http://concepticon.clld.org/parameters/1156,oslaicim,open
+180-590,oldi1245,http://concepticon.clld.org/parameters/1046,iadaim,"shut, close"
+180-853,oldi1245,http://concepticon.clld.org/parameters/1046,dūnaim,"shut, close"
+180-317,oldi1245,http://concepticon.clld.org/parameters/761,tuigiur,cover
+180-779,oldi1245,http://concepticon.clld.org/parameters/761,fortugim,cover
+180-64,oldi1245,http://concepticon.clld.org/parameters/602,celim,"hide, conceal"
+180-164,oldi1245,http://concepticon.clld.org/parameters/602,fullugaimm,"hide, conceal"
+180-718,oldi1245,http://concepticon.clld.org/parameters/1265,ard,high
+180-751,oldi1245,http://concepticon.clld.org/parameters/1265,uasal,high
+180-3,oldi1245,http://concepticon.clld.org/parameters/721,īsel,low
+180-861,oldi1245,http://concepticon.clld.org/parameters/1753,mullach,top
+180-708,oldi1245,http://concepticon.clld.org/parameters/1753,barr,top
+180-1146,oldi1245,http://concepticon.clld.org/parameters/690,bun,bottom
+180-1128,oldi1245,http://concepticon.clld.org/parameters/742,(for)cenn,end
+180-489,oldi1245,http://concepticon.clld.org/parameters/372,rind,pointed
+180-976,oldi1245,http://concepticon.clld.org/parameters/863,faebar,edge
+180-688,oldi1245,http://concepticon.clld.org/parameters/863,brū,edge
+180-313,oldi1245,http://concepticon.clld.org/parameters/863,brūach,edge
+180-200,oldi1245,http://concepticon.clld.org/parameters/863,cimas,edge
+180-1060,oldi1245,http://concepticon.clld.org/parameters/863,ochar,edge
+180-980,oldi1245,http://concepticon.clld.org/parameters/863,bil,edge
+180-372,oldi1245,http://concepticon.clld.org/parameters/682,tōib,side
+180-1115,oldi1245,http://concepticon.clld.org/parameters/682,sliss,side
+180-782,oldi1245,http://concepticon.clld.org/parameters/682,leth,side
+180-937,oldi1245,http://concepticon.clld.org/parameters/1093,mid-,"middle, center"
+180-1228,oldi1245,http://concepticon.clld.org/parameters/1093,medōnach,"middle, center"
+180-991,oldi1245,http://concepticon.clld.org/parameters/1019,dess,right (side)
+180-1261,oldi1245,http://concepticon.clld.org/parameters/244,clē,left (side)
+180-1066,oldi1245,http://concepticon.clld.org/parameters/244,tūath,left (side)
+180-1179,oldi1245,http://concepticon.clld.org/parameters/1942,i n-ocus,near (adv)
+180-629,oldi1245,http://concepticon.clld.org/parameters/1406,in chēin,far (adv)
+180-565,oldi1245,http://concepticon.clld.org/parameters/1877,airther,east
+180-125,oldi1245,http://concepticon.clld.org/parameters/1817,īarthar,west
+180-656,oldi1245,http://concepticon.clld.org/parameters/1598,tūascert,north
+180-415,oldi1245,http://concepticon.clld.org/parameters/1595,descert,south
+180-745,oldi1245,http://concepticon.clld.org/parameters/479,āsaim,grow
+180-220,oldi1245,http://concepticon.clld.org/parameters/479,forbiur,grow
+180-299,oldi1245,http://concepticon.clld.org/parameters/1506,domidiur,measure
+180-426,oldi1245,http://concepticon.clld.org/parameters/1202,mār,"large, big"
+180-879,oldi1245,http://concepticon.clld.org/parameters/1202,bras(s),"large, big"
+180-92,oldi1245,http://concepticon.clld.org/parameters/1202,oll,"large, big"
+180-701,oldi1245,http://concepticon.clld.org/parameters/1246,becc,"small, little"
+180-930,oldi1245,http://concepticon.clld.org/parameters/1203,cīan,long
+180-1122,oldi1245,http://concepticon.clld.org/parameters/1203,long,long
+180-446,oldi1245,http://concepticon.clld.org/parameters/1203,fota,long
+180-187,oldi1245,http://concepticon.clld.org/parameters/1645,gerr,short
+180-215,oldi1245,http://concepticon.clld.org/parameters/1645,cumbair,short
+180-1136,oldi1245,http://concepticon.clld.org/parameters/1645,berr,short
+180-647,oldi1245,http://concepticon.clld.org/parameters/1243,lethan,"wide, broad"
+180-1074,oldi1245,http://concepticon.clld.org/parameters/1243,fairsiung,"wide, broad"
+180-1086,oldi1245,http://concepticon.clld.org/parameters/1267,cōil,narrow
+180-1093,oldi1245,http://concepticon.clld.org/parameters/1267,cumung,narrow
+180-356,oldi1245,http://concepticon.clld.org/parameters/1244,tiug,thick (in dimension)
+180-719,oldi1245,http://concepticon.clld.org/parameters/1244,remor,thick (in dimension)
+180-862,oldi1245,http://concepticon.clld.org/parameters/1400,tana,thin (in dimension)
+180-1046,oldi1245,http://concepticon.clld.org/parameters/1400,sēim,thin (in dimension)
+180-399,oldi1245,http://concepticon.clld.org/parameters/1593,domain,deep
+180-188,oldi1245,http://concepticon.clld.org/parameters/1593,fudumain,deep
+180-508,oldi1245,http://concepticon.clld.org/parameters/193,ēdomain,shallow
+180-1241,oldi1245,http://concepticon.clld.org/parameters/1633,rēid,flat
+180-181,oldi1245,http://concepticon.clld.org/parameters/1404,dīriuch,straight
+180-625,oldi1245,http://concepticon.clld.org/parameters/297,camm,crooked
+180-1049,oldi1245,http://concepticon.clld.org/parameters/297,cromm,crooked
+180-75,oldi1245,http://concepticon.clld.org/parameters/297,cūar,crooked
+180-1235,oldi1245,http://concepticon.clld.org/parameters/1071,baccān,hook
+180-750,oldi1245,http://concepticon.clld.org/parameters/192,uilen,corner
+180-872,oldi1245,http://concepticon.clld.org/parameters/192,uillind,corner
+180-139,oldi1245,http://concepticon.clld.org/parameters/192,cern,corner
+180-380,oldi1245,http://concepticon.clld.org/parameters/1367,croch,cross
+180-682,oldi1245,http://concepticon.clld.org/parameters/850,cetharchoir,square
+180-934,oldi1245,http://concepticon.clld.org/parameters/850,cetharuillech,square
+180-945,oldi1245,http://concepticon.clld.org/parameters/1395,cruind,round
+180-599,oldi1245,http://concepticon.clld.org/parameters/1467,cūairt,circle
+180-997,oldi1245,http://concepticon.clld.org/parameters/1467,circul,circle
+180-885,oldi1245,http://concepticon.clld.org/parameters/1845,mell,"sphere, ball"
+180-676,oldi1245,http://concepticon.clld.org/parameters/1667,toll,hole
+180-29,oldi1245,http://concepticon.clld.org/parameters/1558,cosmail,"like, similar"
+180-401,oldi1245,http://concepticon.clld.org/parameters/1264,coimclōim,change
+180-213,oldi1245,http://concepticon.clld.org/parameters/98,cach,"every, all"
+180-895,oldi1245,http://concepticon.clld.org/parameters/98,uili,"every, all"
+180-1052,oldi1245,http://concepticon.clld.org/parameters/1198,mōr,"much, many"
+180-880,oldi1245,http://concepticon.clld.org/parameters/1198,il,"much, many"
+180-186,oldi1245,http://concepticon.clld.org/parameters/1198,ili,"much, many"
+180-566,oldi1245,http://concepticon.clld.org/parameters/1198,imde,"much, many"
+180-835,oldi1245,http://concepticon.clld.org/parameters/1992,mō,more
+180-267,oldi1245,http://concepticon.clld.org/parameters/1992,lia,more
+180-701,oldi1245,http://concepticon.clld.org/parameters/1242,becc,"little (quantity), few"
+180-383,oldi1245,http://concepticon.clld.org/parameters/1242,terc,"little (quantity), few"
+180-671,oldi1245,http://concepticon.clld.org/parameters/1242,uath,"little (quantity), few"
+180-639,oldi1245,http://concepticon.clld.org/parameters/1242,uathad,"little (quantity), few"
+180-462,oldi1245,http://concepticon.clld.org/parameters/1881,lour,enough
+180-844,oldi1245,http://concepticon.clld.org/parameters/2023,slūag,"multitude, crowd"
+180-635,oldi1245,http://concepticon.clld.org/parameters/1429,lān,full
+180-153,oldi1245,http://concepticon.clld.org/parameters/1624,fāss,empty
+180-749,oldi1245,http://concepticon.clld.org/parameters/1624,folam,empty
+180-357,oldi1245,http://concepticon.clld.org/parameters/779,rann,"part, piece"
+180-556,oldi1245,http://concepticon.clld.org/parameters/779,cuit,"part, piece"
+180-460,oldi1245,http://concepticon.clld.org/parameters/779,pairt,"part, piece"
+180-782,oldi1245,http://concepticon.clld.org/parameters/816,leth,half
+180-1196,oldi1245,http://concepticon.clld.org/parameters/816,leth-,half
+180-807,oldi1245,http://concepticon.clld.org/parameters/1580,ōenur,"alone, only"
+180-118,oldi1245,http://concepticon.clld.org/parameters/1580,nammā,"alone, only"
+180-487,oldi1245,http://concepticon.clld.org/parameters/728,cētne,first
+180-954,oldi1245,http://concepticon.clld.org/parameters/728,cēt-,first
+180-1248,oldi1245,http://concepticon.clld.org/parameters/1529,dedenach,last
+180-594,oldi1245,http://concepticon.clld.org/parameters/1529,derednach,last
+180-950,oldi1245,http://concepticon.clld.org/parameters/1859,tris(s),third
+180-1232,oldi1245,http://concepticon.clld.org/parameters/417,fo thrī,three times
+180-982,oldi1245,http://concepticon.clld.org/parameters/892,amm,time
+180-1118,oldi1245,http://concepticon.clld.org/parameters/892,aimser,time
+180-257,oldi1245,http://concepticon.clld.org/parameters/892,tan,time
+180-180,oldi1245,http://concepticon.clld.org/parameters/1789,āis,age
+180-280,oldi1245,http://concepticon.clld.org/parameters/1231,nūe,new
+180-554,oldi1245,http://concepticon.clld.org/parameters/1231,nūide,new
+180-741,oldi1245,http://concepticon.clld.org/parameters/1207,ōac,young
+180-723,oldi1245,http://concepticon.clld.org/parameters/1229,sen,old
+180-57,oldi1245,http://concepticon.clld.org/parameters/672,moch,early
+180-226,oldi1245,http://concepticon.clld.org/parameters/477,mall,late
+180-1157,oldi1245,http://concepticon.clld.org/parameters/1376,indorsa,now
+180-557,oldi1245,http://concepticon.clld.org/parameters/1963,mos-,immediately
+180-774,oldi1245,http://concepticon.clld.org/parameters/1631,dīan,"swift, fast, quick"
+180-856,oldi1245,http://concepticon.clld.org/parameters/1631,lūath,"swift, fast, quick"
+180-482,oldi1245,http://concepticon.clld.org/parameters/1631,crib,"swift, fast, quick"
+180-226,oldi1245,http://concepticon.clld.org/parameters/701,mall,slow
+180-36,oldi1245,http://concepticon.clld.org/parameters/754,dīanaigur,"hasten, hurry"
+180-695,oldi1245,http://concepticon.clld.org/parameters/425,foregar,"retard, delay"
+180-1076,oldi1245,http://concepticon.clld.org/parameters/425,arfuiregar,"retard, delay"
+180-1246,oldi1245,http://concepticon.clld.org/parameters/1806,doinscanna,"begin, beginning"
+180-1260,oldi1245,http://concepticon.clld.org/parameters/1806,tossach,"begin, beginning"
+180-884,oldi1245,http://concepticon.clld.org/parameters/1806,tuus,"begin, beginning"
+180-588,oldi1245,http://concepticon.clld.org/parameters/1186,maraim,"last, endure"
+180-834,oldi1245,http://concepticon.clld.org/parameters/743,cend,end (temporal)
+180-592,oldi1245,http://concepticon.clld.org/parameters/743,dered,end (temporal)
+180-453,oldi1245,http://concepticon.clld.org/parameters/743,deod,end (temporal)
+180-956,oldi1245,http://concepticon.clld.org/parameters/1766,forcennim,finish
+180-996,oldi1245,http://concepticon.clld.org/parameters/1928,anaim,"cease, stop"
+180-1250,oldi1245,http://concepticon.clld.org/parameters/1928,con-osna,"cease, stop"
+180-301,oldi1245,http://concepticon.clld.org/parameters/790,airlam,ready
+180-867,oldi1245,http://concepticon.clld.org/parameters/1676,do grēs,always
+180-913,oldi1245,http://concepticon.clld.org/parameters/1676,caidche,always
+180-1123,oldi1245,http://concepticon.clld.org/parameters/1852,in menice,often
+180-1036,oldi1245,http://concepticon.clld.org/parameters/1544,īar n-ūairib,sometimes
+180-69,oldi1245,http://concepticon.clld.org/parameters/1544,i n-ūairib,sometimes
+180-128,oldi1245,http://concepticon.clld.org/parameters/1656,nī riam,never
+180-344,oldi1245,http://concepticon.clld.org/parameters/1656,nī caedche,never
+180-72,oldi1245,http://concepticon.clld.org/parameters/204,arithissi,again
+180-26,oldi1245,http://concepticon.clld.org/parameters/204,arīs,again
+180-609,oldi1245,http://concepticon.clld.org/parameters/1260,lāa,day
+180-322,oldi1245,http://concepticon.clld.org/parameters/1260,laithe,day
+180-59,oldi1245,http://concepticon.clld.org/parameters/1260,dia,day
+180-1173,oldi1245,http://concepticon.clld.org/parameters/1233,adaig,night
+180-1239,oldi1245,http://concepticon.clld.org/parameters/1233,nocht,night
+180-903,oldi1245,http://concepticon.clld.org/parameters/729,dedōl,dawn
+180-562,oldi1245,http://concepticon.clld.org/parameters/1339,maten,morning
+180-889,oldi1245,http://concepticon.clld.org/parameters/12,medōn lāi,"noon, midday"
+180-812,oldi1245,http://concepticon.clld.org/parameters/1629,fescor,evening
+180-255,oldi1245,http://concepticon.clld.org/parameters/1283,indiu,today
+180-1050,oldi1245,http://concepticon.clld.org/parameters/1329,imbārach,tomorrow
+180-1158,oldi1245,http://concepticon.clld.org/parameters/1174,indhē,yesterday
+180-732,oldi1245,http://concepticon.clld.org/parameters/1353,ōr,hour
+180-24,oldi1245,http://concepticon.clld.org/parameters/1353,ūar,hour
+180-1081,oldi1245,http://concepticon.clld.org/parameters/1323,uairle,"clock, timepiece"
+180-986,oldi1245,http://concepticon.clld.org/parameters/1469,sechtman,week
+180-224,oldi1245,http://concepticon.clld.org/parameters/1699,domnach,Sunday
+180-1092,oldi1245,http://concepticon.clld.org/parameters/1697,luan,Monday
+180-912,oldi1245,http://concepticon.clld.org/parameters/1695,māirt,Tuesday
+180-411,oldi1245,http://concepticon.clld.org/parameters/1694,cētāin,Wednesday
+180-1150,oldi1245,http://concepticon.clld.org/parameters/1693,dardāin,Thursday
+180-738,oldi1245,http://concepticon.clld.org/parameters/1692,ōin dīden,Friday
+180-365,oldi1245,http://concepticon.clld.org/parameters/1700,satharn,Saturday
+180-450,oldi1245,http://concepticon.clld.org/parameters/1370,mī,month
+180-158,oldi1245,http://concepticon.clld.org/parameters/1226,bliadain,year
+180-849,oldi1245,http://concepticon.clld.org/parameters/1471,gam,winter
+180-1225,oldi1245,http://concepticon.clld.org/parameters/1471,gemred,winter
+180-467,oldi1245,http://concepticon.clld.org/parameters/1537,errach,spring
+180-815,oldi1245,http://concepticon.clld.org/parameters/1342,sam,summer
+180-1200,oldi1245,http://concepticon.clld.org/parameters/1342,samrad,summer
+180-796,oldi1245,http://concepticon.clld.org/parameters/1276,fog(a)mar,autumn
+180-292,oldi1245,http://concepticon.clld.org/parameters/1587,boltigur,smell (vb intrans)
+180-822,oldi1245,http://concepticon.clld.org/parameters/1586,bolad,smell (vb trans)
+180-544,oldi1245,http://concepticon.clld.org/parameters/1586,boltunud,smell (vb trans)
+180-865,oldi1245,http://concepticon.clld.org/parameters/376,boladmar,"fragrant, good smelling"
+180-61,oldi1245,http://concepticon.clld.org/parameters/376,cumra,"fragrant, good smelling"
+180-477,oldi1245,http://concepticon.clld.org/parameters/42,brēn,"stinking, bad smelling"
+180-421,oldi1245,http://concepticon.clld.org/parameters/21,blaisim,taste
+180-748,oldi1245,http://concepticon.clld.org/parameters/717,milis,sweet
+180-1156,oldi1245,http://concepticon.clld.org/parameters/1091,goirt,salty
+180-547,oldi1245,http://concepticon.clld.org/parameters/887,serb,bitter
+180-1156,oldi1245,http://concepticon.clld.org/parameters/887,goirt,bitter
+180-547,oldi1245,http://concepticon.clld.org/parameters/1906,serb,"acid, sour"
+180-845,oldi1245,http://concepticon.clld.org/parameters/1408,cluinim,hear
+180-262,oldi1245,http://concepticon.clld.org/parameters/1608,con-(in-)tuasi,listen
+180-405,oldi1245,http://concepticon.clld.org/parameters/1608,ēitsim,listen
+180-645,oldi1245,http://concepticon.clld.org/parameters/1811,fogur,"sound, noise"
+180-32,oldi1245,http://concepticon.clld.org/parameters/1811,fūaim,"sound, noise"
+180-855,oldi1245,http://concepticon.clld.org/parameters/1811,glōr,"sound, noise"
+180-303,oldi1245,http://concepticon.clld.org/parameters/377,ardd,loud
+180-1078,oldi1245,http://concepticon.clld.org/parameters/1409,ad-cīu,see
+180-1063,oldi1245,http://concepticon.clld.org/parameters/1819,dēccu,"look, look at"
+180-1120,oldi1245,http://concepticon.clld.org/parameters/1819,fēchaim,"look, look at"
+180-979,oldi1245,http://concepticon.clld.org/parameters/1819,sellaim,"look, look at"
+180-422,oldi1245,http://concepticon.clld.org/parameters/1039,taisfenim,show
+180-1153,oldi1245,http://concepticon.clld.org/parameters/708,as-toidi,shine
+180-335,oldi1245,http://concepticon.clld.org/parameters/708,taitnim,shine
+180-657,oldi1245,http://concepticon.clld.org/parameters/679,solus,bright
+180-110,oldi1245,http://concepticon.clld.org/parameters/679,sorche,bright
+180-519,oldi1245,http://concepticon.clld.org/parameters/1613,dath,color
+180-707,oldi1245,http://concepticon.clld.org/parameters/1613,lī,color
+180-510,oldi1245,http://concepticon.clld.org/parameters/706,dorche,dark (in color)
+180-871,oldi1245,http://concepticon.clld.org/parameters/706,temen,dark (in color)
+180-650,oldi1245,http://concepticon.clld.org/parameters/1335,find,white
+180-690,oldi1245,http://concepticon.clld.org/parameters/1335,gel,white
+180-648,oldi1245,http://concepticon.clld.org/parameters/1335,bān,white
+180-819,oldi1245,http://concepticon.clld.org/parameters/163,dub,black
+180-253,oldi1245,http://concepticon.clld.org/parameters/156,derg,red
+180-864,oldi1245,http://concepticon.clld.org/parameters/156,rūad,red
+180-1152,oldi1245,http://concepticon.clld.org/parameters/837,gorm,blue
+180-1245,oldi1245,http://concepticon.clld.org/parameters/837,glass,blue
+180-1245,oldi1245,http://concepticon.clld.org/parameters/1425,glass,green
+180-218,oldi1245,http://concepticon.clld.org/parameters/1425,uaine,green
+180-498,oldi1245,http://concepticon.clld.org/parameters/1424,buide,yellow
+180-1062,oldi1245,http://concepticon.clld.org/parameters/1892,do-aidlea,touch
+180-38,oldi1245,http://concepticon.clld.org/parameters/1884,crūaid,hard
+180-1068,oldi1245,http://concepticon.clld.org/parameters/1884,calad,hard
+180-925,oldi1245,http://concepticon.clld.org/parameters/1856,boc,soft
+180-1230,oldi1245,http://concepticon.clld.org/parameters/1856,mōith,soft
+180-1103,oldi1245,http://concepticon.clld.org/parameters/1923,garb,rough
+180-1241,oldi1245,http://concepticon.clld.org/parameters/1234,rēid,smooth
+180-159,oldi1245,http://concepticon.clld.org/parameters/1234,mīn,smooth
+180-236,oldi1245,http://concepticon.clld.org/parameters/1396,gēr,sharp
+180-481,oldi1245,http://concepticon.clld.org/parameters/1396,āith,sharp
+180-184,oldi1245,http://concepticon.clld.org/parameters/379,mael,"blunt, dull"
+180-143,oldi1245,http://concepticon.clld.org/parameters/1210,tromm,heavy
+180-1094,oldi1245,http://concepticon.clld.org/parameters/1052,ētromm,light (in weight)
+180-653,oldi1245,http://concepticon.clld.org/parameters/1726,fliuch,"wet, damp"
+180-468,oldi1245,http://concepticon.clld.org/parameters/1398,tīrim,dry
+180-197,oldi1245,http://concepticon.clld.org/parameters/1286,tē,hot
+180-24,oldi1245,http://concepticon.clld.org/parameters/1287,ūar,cold
+180-207,oldi1245,http://concepticon.clld.org/parameters/704,glan,clean
+180-838,oldi1245,http://concepticon.clld.org/parameters/1230,salach,"dirty, soiled"
+180-935,oldi1245,http://concepticon.clld.org/parameters/53,anim,"soul, spirit"
+180-328,oldi1245,http://concepticon.clld.org/parameters/53,spirut,"soul, spirit"
+180-455,oldi1245,http://concepticon.clld.org/parameters/1572,machdad,"surprised, astonished"
+180-536,oldi1245,http://concepticon.clld.org/parameters/1572,ingantas,"surprised, astonished"
+180-953,oldi1245,http://concepticon.clld.org/parameters/720,ād,"good fortune, luck"
+180-597,oldi1245,http://concepticon.clld.org/parameters/720,tocad,"good fortune, luck"
+180-840,oldi1245,http://concepticon.clld.org/parameters/56,dodcad,"misfortune, bad luck"
+180-80,oldi1245,http://concepticon.clld.org/parameters/1495,fāilid,"joyful, glad, happy"
+180-178,oldi1245,http://concepticon.clld.org/parameters/1495,subach,"joyful, glad, happy"
+180-581,oldi1245,http://concepticon.clld.org/parameters/1355,tibiu,laugh
+180-846,oldi1245,http://concepticon.clld.org/parameters/1355,gen,laugh
+180-824,oldi1245,http://concepticon.clld.org/parameters/1413,imberim,play
+180-461,oldi1245,http://concepticon.clld.org/parameters/1413,cluchigur,play
+180-469,oldi1245,http://concepticon.clld.org/parameters/923,grād,love
+180-548,oldi1245,http://concepticon.clld.org/parameters/923,serc,love
+180-459,oldi1245,http://concepticon.clld.org/parameters/923,cais,love
+180-1256,oldi1245,http://concepticon.clld.org/parameters/923,caraim,love
+180-911,oldi1245,http://concepticon.clld.org/parameters/578,pōcaim,kiss
+180-1177,oldi1245,http://concepticon.clld.org/parameters/1783,imned,pain
+180-373,oldi1245,http://concepticon.clld.org/parameters/1783,cēssad,pain
+180-632,oldi1245,http://concepticon.clld.org/parameters/1668,brōn,"grief, sorrow, sadness"
+180-1147,oldi1245,http://concepticon.clld.org/parameters/1668,cuma,"grief, sorrow, sadness"
+180-1113,oldi1245,http://concepticon.clld.org/parameters/1668,dube,"grief, sorrow, sadness"
+180-11,oldi1245,http://concepticon.clld.org/parameters/1000,dethiden,"anxiety, worry"
+180-148,oldi1245,http://concepticon.clld.org/parameters/1000,(imm)snīm,"anxiety, worry"
+180-623,oldi1245,http://concepticon.clld.org/parameters/1875,ad-errig,"regret, be sorry"
+180-1203,oldi1245,http://concepticon.clld.org/parameters/1141,airchissecht,pity
+180-342,oldi1245,http://concepticon.clld.org/parameters/1839,cīim,"cry, weep"
+180-400,oldi1245,http://concepticon.clld.org/parameters/1651,dēr,tear (noun)
+180-378,oldi1245,http://concepticon.clld.org/parameters/716,cnetim,groan
+180-988,oldi1245,http://concepticon.clld.org/parameters/1607,(mis)cais,hate
+180-1099,oldi1245,http://concepticon.clld.org/parameters/82,ferg,anger
+180-165,oldi1245,http://concepticon.clld.org/parameters/82,baran,anger
+180-940,oldi1245,http://concepticon.clld.org/parameters/40,format,"envy, jealousy"
+180-1088,oldi1245,http://concepticon.clld.org/parameters/40,ēt,"envy, jealousy"
+180-866,oldi1245,http://concepticon.clld.org/parameters/40,tnūth,"envy, jealousy"
+180-167,oldi1245,http://concepticon.clld.org/parameters/1776,mebul,shame (noun)
+180-1026,oldi1245,http://concepticon.clld.org/parameters/1776,rucce,shame (noun)
+180-263,oldi1245,http://concepticon.clld.org/parameters/1776,nāire,shame (noun)
+180-970,oldi1245,http://concepticon.clld.org/parameters/174,ūallach,proud
+180-191,oldi1245,http://concepticon.clld.org/parameters/174,dīummusach,proud
+180-506,oldi1245,http://concepticon.clld.org/parameters/1779,ro-lāmur,dare
+180-74,oldi1245,http://concepticon.clld.org/parameters/3,dāna,brave
+180-729,oldi1245,http://concepticon.clld.org/parameters/3,essamin,brave
+180-144,oldi1245,http://concepticon.clld.org/parameters/781,ōmun,"fear, fright"
+180-863,oldi1245,http://concepticon.clld.org/parameters/781,ecla,"fear, fright"
+180-86,oldi1245,http://concepticon.clld.org/parameters/1810,gūas(acht),danger
+180-1254,oldi1245,http://concepticon.clld.org/parameters/1810,gābud,danger
+180-560,oldi1245,http://concepticon.clld.org/parameters/1810,bāigul,danger
+180-121,oldi1245,http://concepticon.clld.org/parameters/1784,adcobra,"desire, want"
+180-964,oldi1245,http://concepticon.clld.org/parameters/1092,frescissiu,hope
+180-48,oldi1245,http://concepticon.clld.org/parameters/1092,dōchus,hope
+180-177,oldi1245,http://concepticon.clld.org/parameters/100,iressach,faithful
+180-518,oldi1245,http://concepticon.clld.org/parameters/1657,fīr,true
+180-892,oldi1245,http://concepticon.clld.org/parameters/601,brēc,"lie, tell lies"
+180-1155,oldi1245,http://concepticon.clld.org/parameters/601,gāu,"lie, tell lies"
+180-1014,oldi1245,http://concepticon.clld.org/parameters/13,togāis,deceit
+180-109,oldi1245,http://concepticon.clld.org/parameters/13,celg,deceit
+180-156,oldi1245,http://concepticon.clld.org/parameters/13,fell,deceit
+180-665,oldi1245,http://concepticon.clld.org/parameters/13,meng,deceit
+180-432,oldi1245,http://concepticon.clld.org/parameters/1528,maithim,forgive
+180-283,oldi1245,http://concepticon.clld.org/parameters/1035,maith,good
+180-230,oldi1245,http://concepticon.clld.org/parameters/1035,dag-,good
+180-497,oldi1245,http://concepticon.clld.org/parameters/1035,so-,good
+180-1022,oldi1245,http://concepticon.clld.org/parameters/1292,olc,bad
+180-780,oldi1245,http://concepticon.clld.org/parameters/1292,droch-,bad
+180-579,oldi1245,http://concepticon.clld.org/parameters/1292,do-,bad
+180-147,oldi1245,http://concepticon.clld.org/parameters/1725,cert,"right, correct"
+180-1135,oldi1245,http://concepticon.clld.org/parameters/1725,cōir,"right, correct"
+180-714,oldi1245,http://concepticon.clld.org/parameters/134,cin,fault
+180-800,oldi1245,http://concepticon.clld.org/parameters/134,locht,fault
+180-788,oldi1245,http://concepticon.clld.org/parameters/134,col,fault
+180-1029,oldi1245,http://concepticon.clld.org/parameters/1293,comrorcon,"mistake, error"
+180-103,oldi1245,http://concepticon.clld.org/parameters/381,caire,blame
+180-66,oldi1245,http://concepticon.clld.org/parameters/1687,molad,praise
+180-222,oldi1245,http://concepticon.clld.org/parameters/1427,sochrud,beautiful
+180-278,oldi1245,http://concepticon.clld.org/parameters/1427,ālind,beautiful
+180-1028,oldi1245,http://concepticon.clld.org/parameters/1548,dochrud,ugly
+180-1019,oldi1245,http://concepticon.clld.org/parameters/1548,ētig,ugly
+180-430,oldi1245,http://concepticon.clld.org/parameters/1548,grānna,ugly
+180-595,oldi1245,http://concepticon.clld.org/parameters/1562,menme,mind
+180-833,oldi1245,http://concepticon.clld.org/parameters/1562,intinn,mind
+180-1259,oldi1245,http://concepticon.clld.org/parameters/1415,imrādim,think (= reflect)
+180-797,oldi1245,http://concepticon.clld.org/parameters/1415,smuainim,think (= reflect)
+180-311,oldi1245,http://concepticon.clld.org/parameters/1513,do-moiniur,think (= be of the opinion)
+180-1085,oldi1245,http://concepticon.clld.org/parameters/1890,crētim,believe
+180-784,oldi1245,http://concepticon.clld.org/parameters/1536,tucu,understand
+180-8,oldi1245,http://concepticon.clld.org/parameters/1410,rofetar,know
+180-706,oldi1245,http://concepticon.clld.org/parameters/1410,adgēn,know
+180-52,oldi1245,http://concepticon.clld.org/parameters/1410,asagninaim,know
+180-1007,oldi1245,http://concepticon.clld.org/parameters/1521,da,seem
+180-368,oldi1245,http://concepticon.clld.org/parameters/1521,dar,seem
+180-929,oldi1245,http://concepticon.clld.org/parameters/1521,indar,seem
+180-471,oldi1245,http://concepticon.clld.org/parameters/1521,anadchiter,seem
+180-445,oldi1245,http://concepticon.clld.org/parameters/698,gāith,wise
+180-330,oldi1245,http://concepticon.clld.org/parameters/698,ecne,wise
+180-67,oldi1245,http://concepticon.clld.org/parameters/698,glicc,wise
+180-273,oldi1245,http://concepticon.clld.org/parameters/1518,bāith,"foolish, stupid"
+180-1098,oldi1245,http://concepticon.clld.org/parameters/1899,dāsachtach,"insane, crazy"
+180-513,oldi1245,http://concepticon.clld.org/parameters/1899,mer,"insane, crazy"
+180-111,oldi1245,http://concepticon.clld.org/parameters/504,fogliunn,learn
+180-203,oldi1245,http://concepticon.clld.org/parameters/709,for-canim,teach
+180-766,oldi1245,http://concepticon.clld.org/parameters/709,mūn-,teach
+180-194,oldi1245,http://concepticon.clld.org/parameters/753,dalte,pupil
+180-1191,oldi1245,http://concepticon.clld.org/parameters/753,felmac,pupil
+180-41,oldi1245,http://concepticon.clld.org/parameters/1038,forcitlaid,teacher
+180-792,oldi1245,http://concepticon.clld.org/parameters/673,scol,school
+180-137,oldi1245,http://concepticon.clld.org/parameters/707,cumnigur,remember
+180-100,oldi1245,http://concepticon.clld.org/parameters/707,foraithminedar,remember
+180-1104,oldi1245,http://concepticon.clld.org/parameters/1523,doroimnethar,forget
+180-1064,oldi1245,http://concepticon.clld.org/parameters/989,follus,"clear, plain"
+180-1243,oldi1245,http://concepticon.clld.org/parameters/989,rēil,"clear, plain"
+180-510,oldi1245,http://concepticon.clld.org/parameters/1764,dorche,obscure
+180-85,oldi1245,http://concepticon.clld.org/parameters/1764,dorchaide,obscure
+180-1221,oldi1245,http://concepticon.clld.org/parameters/1121,inchlide,secret
+180-1202,oldi1245,http://concepticon.clld.org/parameters/1121,diam(a)ir,secret
+180-99,oldi1245,http://concepticon.clld.org/parameters/509,derb,"sure, certain"
+180-15,oldi1245,http://concepticon.clld.org/parameters/509,demin,"sure, certain"
+180-340,oldi1245,http://concepticon.clld.org/parameters/1626,etar-certaim,explain
+180-608,oldi1245,http://concepticon.clld.org/parameters/1162,airbert,"intention, purpose"
+180-909,oldi1245,http://concepticon.clld.org/parameters/1162,airmert,"intention, purpose"
+180-604,oldi1245,http://concepticon.clld.org/parameters/860,accuiss,cause
+180-193,oldi1245,http://concepticon.clld.org/parameters/860,cōis,cause
+180-550,oldi1245,http://concepticon.clld.org/parameters/860,adbar,cause
+180-337,oldi1245,http://concepticon.clld.org/parameters/1308,condubart,doubt
+180-533,oldi1245,http://concepticon.clld.org/parameters/1308,amaires,doubt
+180-533,oldi1245,http://concepticon.clld.org/parameters/1841,amaires,suspect
+180-1187,oldi1245,http://concepticon.clld.org/parameters/1363,guth,voice
+180-163,oldi1245,http://concepticon.clld.org/parameters/1261,canim,sing
+180-521,oldi1245,http://concepticon.clld.org/parameters/1261,gaibim,sing
+180-1211,oldi1245,http://concepticon.clld.org/parameters/715,gairim,"shout, cry out"
+180-955,oldi1245,http://concepticon.clld.org/parameters/1623,labrur,"speak, talk"
+180-896,oldi1245,http://concepticon.clld.org/parameters/1623,rādim,"speak, talk"
+180-289,oldi1245,http://concepticon.clld.org/parameters/1458,asbiur,say
+180-1000,oldi1245,http://concepticon.clld.org/parameters/48,ar-tuaissi,silent (be)
+180-288,oldi1245,http://concepticon.clld.org/parameters/48,tōaim,silent (be)
+180-176,oldi1245,http://concepticon.clld.org/parameters/1307,bēlre,language
+180-897,oldi1245,http://concepticon.clld.org/parameters/1307,urlabra,language
+180-1242,oldi1245,http://concepticon.clld.org/parameters/1599,brīathar,word
+180-742,oldi1245,http://concepticon.clld.org/parameters/1599,focal,word
+180-664,oldi1245,http://concepticon.clld.org/parameters/1405,ainm,name
+180-522,oldi1245,http://concepticon.clld.org/parameters/1309,iarmi-foig,"ask (question, inquire)"
+180-681,oldi1245,http://concepticon.clld.org/parameters/1309,immcomairc,"ask (question, inquire)"
+180-772,oldi1245,http://concepticon.clld.org/parameters/1275,fris-gairim,answer
+180-444,oldi1245,http://concepticon.clld.org/parameters/2022,atmu,"admit, confess"
+180-7,oldi1245,http://concepticon.clld.org/parameters/755,dosluindim,deny
+180-140,oldi1245,http://concepticon.clld.org/parameters/1828,condaigim,"ask, request"
+180-734,oldi1245,http://concepticon.clld.org/parameters/1828,cuingim,"ask, request"
+180-387,oldi1245,http://concepticon.clld.org/parameters/1675,duairngir,promise
+180-70,oldi1245,http://concepticon.clld.org/parameters/1675,gellaim,promise
+180-618,oldi1245,http://concepticon.clld.org/parameters/49,astoing,refuse
+180-1244,oldi1245,http://concepticon.clld.org/parameters/49,ēmdim,refuse
+180-527,oldi1245,http://concepticon.clld.org/parameters/83,argairim,forbid
+180-923,oldi1245,http://concepticon.clld.org/parameters/83,arcuillim,forbid
+180-786,oldi1245,http://concepticon.clld.org/parameters/1084,(do-)gairim,call (=summon)
+180-1211,oldi1245,http://concepticon.clld.org/parameters/180,gairim,call (=name)
+180-517,oldi1245,http://concepticon.clld.org/parameters/9,foōcair,announce
+180-347,oldi1245,http://concepticon.clld.org/parameters/1192,domaithim,threaten
+180-694,oldi1245,http://concepticon.clld.org/parameters/1192,bacraim,threaten
+180-23,oldi1245,http://concepticon.clld.org/parameters/101,(ar-)bāgim,boast
+180-247,oldi1245,http://concepticon.clld.org/parameters/101,mōidim,boast
+180-276,oldi1245,http://concepticon.clld.org/parameters/1672,scrībaim,write
+180-605,oldi1245,http://concepticon.clld.org/parameters/724,lēgaim,read
+180-351,oldi1245,http://concepticon.clld.org/parameters/794,penn,pen
+180-42,oldi1245,http://concepticon.clld.org/parameters/963,lebor,book
+180-217,oldi1245,http://concepticon.clld.org/parameters/1045,fāith,poet
+180-1195,oldi1245,http://concepticon.clld.org/parameters/1045,fili,poet
+180-496,oldi1245,http://concepticon.clld.org/parameters/1300,tīr,country
+180-591,oldi1245,http://concepticon.clld.org/parameters/1300,crīch,country
+180-367,oldi1245,http://concepticon.clld.org/parameters/89,atharde,one's native country
+180-580,oldi1245,http://concepticon.clld.org/parameters/89,atharthīr,one's native country
+180-63,oldi1245,http://concepticon.clld.org/parameters/1391,cathir,"city, town"
+180-778,oldi1245,http://concepticon.clld.org/parameters/930,baile,village
+180-721,oldi1245,http://concepticon.clld.org/parameters/930,fīch,village
+180-591,oldi1245,http://concepticon.clld.org/parameters/1010,crīch,boundary
+180-1066,oldi1245,http://concepticon.clld.org/parameters/789,tūath,people (populace)
+180-805,oldi1245,http://concepticon.clld.org/parameters/789,lucht,people (populace)
+180-1066,oldi1245,http://concepticon.clld.org/parameters/302,tūath,"tribe, clan"
+180-649,oldi1245,http://concepticon.clld.org/parameters/302,fine,"tribe, clan"
+180-1071,oldi1245,http://concepticon.clld.org/parameters/302,muinter,"tribe, clan"
+180-1218,oldi1245,http://concepticon.clld.org/parameters/1846,foln-,"rule, govern"
+180-1090,oldi1245,http://concepticon.clld.org/parameters/1508,rī,"king, ruler"
+180-1143,oldi1245,http://concepticon.clld.org/parameters/1306,rīgan,queen
+180-495,oldi1245,http://concepticon.clld.org/parameters/482,aire,"noble, nobleman"
+180-170,oldi1245,http://concepticon.clld.org/parameters/482,māl,"noble, nobleman"
+180-725,oldi1245,http://concepticon.clld.org/parameters/482,flaith,"noble, nobleman"
+180-436,oldi1245,http://concepticon.clld.org/parameters/1032,cathrar,"citizen, subject"
+180-358,oldi1245,http://concepticon.clld.org/parameters/383,coimdiu,master
+180-680,oldi1245,http://concepticon.clld.org/parameters/383,tigerne,master
+180-50,oldi1245,http://concepticon.clld.org/parameters/383,fēda,master
+180-737,oldi1245,http://concepticon.clld.org/parameters/812,mug,slave
+180-659,oldi1245,http://concepticon.clld.org/parameters/812,dōir,slave
+180-505,oldi1245,http://concepticon.clld.org/parameters/812,daer,slave
+180-644,oldi1245,http://concepticon.clld.org/parameters/255,timthirthid,servant
+180-995,oldi1245,http://concepticon.clld.org/parameters/255,foss,servant
+180-323,oldi1245,http://concepticon.clld.org/parameters/384,sōir,freeman
+180-315,oldi1245,http://concepticon.clld.org/parameters/384,saer,freeman
+180-1005,oldi1245,http://concepticon.clld.org/parameters/1128,forcongur,"command, order"
+180-333,oldi1245,http://concepticon.clld.org/parameters/1635,irladigur,obey
+180-1194,oldi1245,http://concepticon.clld.org/parameters/1635,gīallaim,obey
+180-949,oldi1245,http://concepticon.clld.org/parameters/1003,lēicim,"let, permit"
+180-227,oldi1245,http://concepticon.clld.org/parameters/1003,cetaigim,"let, permit"
+180-456,oldi1245,http://concepticon.clld.org/parameters/1325,care,"friend, companion"
+180-359,oldi1245,http://concepticon.clld.org/parameters/1358,nāme,enemy
+180-491,oldi1245,http://concepticon.clld.org/parameters/1358,escara,enemy
+180-764,oldi1245,http://concepticon.clld.org/parameters/1358,ecra,enemy
+180-395,oldi1245,http://concepticon.clld.org/parameters/1332,comnessam,neighbor
+180-374,oldi1245,http://concepticon.clld.org/parameters/1332,comarsa,neighbor
+180-285,oldi1245,http://concepticon.clld.org/parameters/791,echtrann,stranger
+180-51,oldi1245,http://concepticon.clld.org/parameters/1782,ōegi,guest
+180-332,oldi1245,http://concepticon.clld.org/parameters/1545,biatach,host
+180-1171,oldi1245,http://concepticon.clld.org/parameters/1897,fortiag,"help, aid"
+180-962,oldi1245,http://concepticon.clld.org/parameters/1897,foreith,"help, aid"
+180-974,oldi1245,http://concepticon.clld.org/parameters/1897,cobraim,"help, aid"
+180-244,oldi1245,http://concepticon.clld.org/parameters/1550,derban,"hinder, prevent"
+180-107,oldi1245,http://concepticon.clld.org/parameters/1550,coscaim,"hinder, prevent"
+180-78,oldi1245,http://concepticon.clld.org/parameters/1550,baccaim,"hinder, prevent"
+180-799,oldi1245,http://concepticon.clld.org/parameters/1747,bēs,custom
+180-633,oldi1245,http://concepticon.clld.org/parameters/1747,gnās,custom
+180-726,oldi1245,http://concepticon.clld.org/parameters/1848,imbresan,"strife, quarrel"
+180-771,oldi1245,http://concepticon.clld.org/parameters/1848,debuith,"strife, quarrel"
+180-981,oldi1245,http://concepticon.clld.org/parameters/1848,essōintu,"strife, quarrel"
+180-204,oldi1245,http://concepticon.clld.org/parameters/1848,cointinn,"strife, quarrel"
+180-675,oldi1245,http://concepticon.clld.org/parameters/2024,comlugae,"conspiracy, plot"
+180-760,oldi1245,http://concepticon.clld.org/parameters/2024,cocur,"conspiracy, plot"
+180-939,oldi1245,http://concepticon.clld.org/parameters/1831,conriccim,meet
+180-390,oldi1245,http://concepticon.clld.org/parameters/1610,mertrech,prostitute
+180-716,oldi1245,http://concepticon.clld.org/parameters/1610,stripach,prostitute
+180-1108,oldi1245,http://concepticon.clld.org/parameters/1423,fichim,fight (vb)
+180-44,oldi1245,http://concepticon.clld.org/parameters/1423,cathaigur,fight (vb)
+180-90,oldi1245,http://concepticon.clld.org/parameters/579,cocad,"war, battle"
+180-808,oldi1245,http://concepticon.clld.org/parameters/1338,sīd,peace
+180-844,oldi1245,http://concepticon.clld.org/parameters/1561,slūag,army
+180-240,oldi1245,http://concepticon.clld.org/parameters/1941,mīl,soldier
+180-752,oldi1245,http://concepticon.clld.org/parameters/1941,ōc,soldier
+180-161,oldi1245,http://concepticon.clld.org/parameters/1941,lāech,soldier
+180-502,oldi1245,http://concepticon.clld.org/parameters/951,airm,"weapons, arms"
+180-33,oldi1245,http://concepticon.clld.org/parameters/1763,lorg,club
+180-944,oldi1245,http://concepticon.clld.org/parameters/387,tailm,sling
+180-673,oldi1245,http://concepticon.clld.org/parameters/387,taball,sling
+180-636,oldi1245,http://concepticon.clld.org/parameters/994,fidbocc,bow
+180-250,oldi1245,http://concepticon.clld.org/parameters/994,boga,bow
+180-523,oldi1245,http://concepticon.clld.org/parameters/977,saiget,arrow
+180-854,oldi1245,http://concepticon.clld.org/parameters/945,gae,spear
+180-406,oldi1245,http://concepticon.clld.org/parameters/945,sleg,spear
+180-500,oldi1245,http://concepticon.clld.org/parameters/1535,claideb,sword
+180-1234,oldi1245,http://concepticon.clld.org/parameters/1535,colg,sword
+180-906,oldi1245,http://concepticon.clld.org/parameters/1061,gaisced,armor (defensive)
+180-1145,oldi1245,http://concepticon.clld.org/parameters/1680,cathbarr,helmet
+180-1148,oldi1245,http://concepticon.clld.org/parameters/1064,sciath,shield
+180-1106,oldi1245,http://concepticon.clld.org/parameters/1064,fern,shield
+180-325,oldi1245,http://concepticon.clld.org/parameters/1064,boccōit,shield
+180-733,oldi1245,http://concepticon.clld.org/parameters/1938,dūn,fortress
+180-291,oldi1245,http://concepticon.clld.org/parameters/1671,tor,tower
+180-753,oldi1245,http://concepticon.clld.org/parameters/1671,tur,tower
+180-1117,oldi1245,http://concepticon.clld.org/parameters/783,būaid,victory
+180-677,oldi1245,http://concepticon.clld.org/parameters/782,maidm,defeat
+180-634,oldi1245,http://concepticon.clld.org/parameters/722,fōbart,attack
+180-182,oldi1245,http://concepticon.clld.org/parameters/1330,dītiu,defend
+180-1217,oldi1245,http://concepticon.clld.org/parameters/421,teched,retreat
+180-129,oldi1245,http://concepticon.clld.org/parameters/1696,giallaim,surrender
+180-225,oldi1245,http://concepticon.clld.org/parameters/1072,cimbid,"captive, prisoner"
+180-429,oldi1245,http://concepticon.clld.org/parameters/1072,brage,"captive, prisoner"
+180-770,oldi1245,http://concepticon.clld.org/parameters/1022,brat,"booty, spoils"
+180-210,oldi1245,http://concepticon.clld.org/parameters/65,intled,ambush
+180-102,oldi1245,http://concepticon.clld.org/parameters/1435,adclaidim,hunt
+180-916,oldi1245,http://concepticon.clld.org/parameters/1062,dliged,law
+180-147,oldi1245,http://concepticon.clld.org/parameters/1062,cert,law
+180-818,oldi1245,http://concepticon.clld.org/parameters/1068,airecht,court
+180-652,oldi1245,http://concepticon.clld.org/parameters/1818,midiur,judge (vb)
+180-47,oldi1245,http://concepticon.clld.org/parameters/1818,berim brith ar,judge (vb)
+180-457,oldi1245,http://concepticon.clld.org/parameters/1067,breth,judgment
+180-286,oldi1245,http://concepticon.clld.org/parameters/1067,mess,judgment
+180-1139,oldi1245,http://concepticon.clld.org/parameters/861,brithem,judge (noun)
+180-919,oldi1245,http://concepticon.clld.org/parameters/2020,līth,plaintiff
+180-89,oldi1245,http://concepticon.clld.org/parameters/2020,fechem,plaintiff
+180-463,oldi1245,http://concepticon.clld.org/parameters/1034,bibdu,defendant
+180-392,oldi1245,http://concepticon.clld.org/parameters/1034,cintach,defendant
+180-89,oldi1245,http://concepticon.clld.org/parameters/1034,fechem,defendant
+180-146,oldi1245,http://concepticon.clld.org/parameters/1144,fiadu,witness
+180-68,oldi1245,http://concepticon.clld.org/parameters/1939,tongu,swear
+180-551,oldi1245,http://concepticon.clld.org/parameters/1712,luge,oath
+180-711,oldi1245,http://concepticon.clld.org/parameters/1712,ōeth,oath
+180-958,oldi1245,http://concepticon.clld.org/parameters/1814,līim,accuse
+180-473,oldi1245,http://concepticon.clld.org/parameters/1814,(to-)ad-ness-,accuse
+180-759,oldi1245,http://concepticon.clld.org/parameters/1814,eiligim,accuse
+180-428,oldi1245,http://concepticon.clld.org/parameters/484,com-ness-,condemn
+180-352,oldi1245,http://concepticon.clld.org/parameters/983,cintach + vb.,convict (vb)
+180-949,oldi1245,http://concepticon.clld.org/parameters/988,lēicim,acquit
+180-392,oldi1245,http://concepticon.clld.org/parameters/1682,cintach,guilty
+180-839,oldi1245,http://concepticon.clld.org/parameters/90,na cintach,innocent
+180-674,oldi1245,http://concepticon.clld.org/parameters/390,pian,"penalty, punishment"
+180-1043,oldi1245,http://concepticon.clld.org/parameters/390,dīgal,"penalty, punishment"
+180-1111,oldi1245,http://concepticon.clld.org/parameters/218,dīre,fine
+180-1192,oldi1245,http://concepticon.clld.org/parameters/218,ēric,fine
+180-520,oldi1245,http://concepticon.clld.org/parameters/1281,carcar,"prison, jail"
+180-350,oldi1245,http://concepticon.clld.org/parameters/845,marbad,murder
+180-1102,oldi1245,http://concepticon.clld.org/parameters/902,adaltras,adultery
+180-1181,oldi1245,http://concepticon.clld.org/parameters/953,forcur,rape
+180-79,oldi1245,http://concepticon.clld.org/parameters/953,sleith,rape
+180-149,oldi1245,http://concepticon.clld.org/parameters/1889,loscad,arson
+180-354,oldi1245,http://concepticon.clld.org/parameters/1792,ēithech,perjury
+180-1129,oldi1245,http://concepticon.clld.org/parameters/661,cretem,religion
+180-305,oldi1245,http://concepticon.clld.org/parameters/661,iress,religion
+180-172,oldi1245,http://concepticon.clld.org/parameters/661,crābud,religion
+180-59,oldi1245,http://concepticon.clld.org/parameters/1944,dia,God
+180-490,oldi1245,http://concepticon.clld.org/parameters/911,tempul,"temple, church"
+180-1176,oldi1245,http://concepticon.clld.org/parameters/853,altōir,altar
+180-836,oldi1245,http://concepticon.clld.org/parameters/1103,idbart,"sacrifice, offering"
+180-486,oldi1245,http://concepticon.clld.org/parameters/257,adraim,worship
+180-1140,oldi1245,http://concepticon.clld.org/parameters/24,guidim,pray
+180-837,oldi1245,http://concepticon.clld.org/parameters/852,drui,priest
+180-727,oldi1245,http://concepticon.clld.org/parameters/852,sacart,priest
+180-806,oldi1245,http://concepticon.clld.org/parameters/852,cruimther,priest
+180-965,oldi1245,http://concepticon.clld.org/parameters/1702,nōib,"holy, sacred"
+180-827,oldi1245,http://concepticon.clld.org/parameters/304,pridchim,preach
+180-1082,oldi1245,http://concepticon.clld.org/parameters/391,bendachaim,bless
+180-1142,oldi1245,http://concepticon.clld.org/parameters/8,maldachaim,curse
+180-702,oldi1245,http://concepticon.clld.org/parameters/303,troscim,fast (vb)
+180-93,oldi1245,http://concepticon.clld.org/parameters/1565,nem,heaven
+180-628,oldi1245,http://concepticon.clld.org/parameters/1565,rīched,heaven
+180-20,oldi1245,http://concepticon.clld.org/parameters/878,ifern,hell
+180-876,oldi1245,http://concepticon.clld.org/parameters/1973,demon,demon (evil spirit)
+180-1167,oldi1245,http://concepticon.clld.org/parameters/1945,idol,idol
+180-842,oldi1245,http://concepticon.clld.org/parameters/1945,idal,idol
+180-775,oldi1245,http://concepticon.clld.org/parameters/392,druidecht,"magic, witchcraft, sorcery"
+180-28,oldi1245,http://concepticon.clld.org/parameters/392,aimmitecht,"magic, witchcraft, sorcery"
+180-169,oldi1245,http://concepticon.clld.org/parameters/2137,ammait,"sorcerer, witch"
+180-1133,oldi1245,http://concepticon.clld.org/parameters/2138,ben sīde,"fairy, elf"
+180-542,oldi1245,http://concepticon.clld.org/parameters/1175,scāl,"ghost, phantom"
+180-479,oldi1245,http://concepticon.clld.org/parameters/107,cēl,"omen, portent"

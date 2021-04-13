@@ -1,0 +1,896 @@
+ID,Language_ID,Feature_ID,Value,Concept
+308-246,kunz1244,http://concepticon.clld.org/parameters/626,hoyri,"earth, land"
+308-194,kunz1244,http://concepticon.clld.org/parameters/626,hoi-re,"earth, land"
+308-246,kunz1244,http://concepticon.clld.org/parameters/1228,hoyri,"earth=ground, soil"
+308-258,kunz1244,http://concepticon.clld.org/parameters/1228,ttunar,"earth=ground, soil"
+308-504,kunz1244,http://concepticon.clld.org/parameters/1228,hoy-tu,"earth=ground, soil"
+308-188,kunz1244,http://concepticon.clld.org/parameters/2,pockor,dust
+308-329,kunz1244,http://concepticon.clld.org/parameters/640,yot-to,mud
+308-455,kunz1244,http://concepticon.clld.org/parameters/640,quis-ti,mud
+308-247,kunz1244,http://concepticon.clld.org/parameters/671,horckte,sand
+308-575,kunz1244,http://concepticon.clld.org/parameters/671,si-tche-re,sand
+308-435,kunz1244,http://concepticon.clld.org/parameters/2118,ckabur,"mountain, hill"
+308-211,kunz1244,http://concepticon.clld.org/parameters/2118,caur,"mountain, hill"
+308-323,kunz1244,http://concepticon.clld.org/parameters/652,tul-va,"plain, field"
+308-87,kunz1244,http://concepticon.clld.org/parameters/652,ttul-va,"plain, field"
+308-456,kunz1244,http://concepticon.clld.org/parameters/921,ckalal,valley
+308-451,kunz1244,http://concepticon.clld.org/parameters/1155,toco,cave
+308-762,kunz1244,http://concepticon.clld.org/parameters/1155,[ckoiba],cave
+308-186,kunz1244,http://concepticon.clld.org/parameters/948,puri,water
+308-304,kunz1244,http://concepticon.clld.org/parameters/948,puy,water
+308-508,kunz1244,http://concepticon.clld.org/parameters/948,[yacko],water
+308-114,kunz1244,http://concepticon.clld.org/parameters/666,back-cka,"river, stream, brook"
+308-325,kunz1244,http://concepticon.clld.org/parameters/666,vac-ka,"river, stream, brook"
+308-267,kunz1244,http://concepticon.clld.org/parameters/1982,tchinckonao,whirlpool
+308-118,kunz1244,http://concepticon.clld.org/parameters/1982,ckoi-man,whirlpool
+308-645,kunz1244,http://concepticon.clld.org/parameters/2144,cherejner,"spring, well"
+308-781,kunz1244,http://concepticon.clld.org/parameters/2144,cheresner,"spring, well"
+308-672,kunz1244,http://concepticon.clld.org/parameters/2144,cheresnir,"spring, well"
+308-51,kunz1244,http://concepticon.clld.org/parameters/906,yali,tree (cf 08.600)
+308-322,kunz1244,http://concepticon.clld.org/parameters/906,yaii,tree (cf 08.600)
+308-655,kunz1244,http://concepticon.clld.org/parameters/2125,ckaitchi,"stone, rock"
+308-190,kunz1244,http://concepticon.clld.org/parameters/2125,cai-chi,"stone, rock"
+308-177,kunz1244,http://concepticon.clld.org/parameters/1343,ckapin,sun
+308-829,kunz1244,http://concepticon.clld.org/parameters/1343,caapin,sun
+308-677,kunz1244,http://concepticon.clld.org/parameters/1313,ckamur,moon
+308-585,kunz1244,http://concepticon.clld.org/parameters/1313,cáhmor,moon
+308-291,kunz1244,http://concepticon.clld.org/parameters/1430,haalar,star
+308-380,kunz1244,http://concepticon.clld.org/parameters/1430,halar,star
+308-409,kunz1244,http://concepticon.clld.org/parameters/1430,ahlar,star
+308-772,kunz1244,http://concepticon.clld.org/parameters/1150,lul-an-tur,thunder
+308-468,kunz1244,http://concepticon.clld.org/parameters/858,ckoimar,storm
+308-569,kunz1244,http://concepticon.clld.org/parameters/1733,ckoitchi,rainbow
+308-807,kunz1244,http://concepticon.clld.org/parameters/630,lalcktchir,light (noun)
+308-563,kunz1244,http://concepticon.clld.org/parameters/1388,minas,"shade, shadow"
+308-124,kunz1244,http://concepticon.clld.org/parameters/27,ckelinar,air
+308-221,kunz1244,http://concepticon.clld.org/parameters/27,[huayra],air
+308-615,kunz1244,http://concepticon.clld.org/parameters/960,ckuri,wind
+308-156,kunz1244,http://concepticon.clld.org/parameters/960,khuri,wind
+308-154,kunz1244,http://concepticon.clld.org/parameters/960,khuro,wind
+308-100,kunz1244,http://concepticon.clld.org/parameters/1489,molti,cloud
+308-303,kunz1244,http://concepticon.clld.org/parameters/1489,molle,cloud
+308-101,kunz1244,http://concepticon.clld.org/parameters/1489,molte,cloud
+308-101,kunz1244,http://concepticon.clld.org/parameters/249,molte,fog
+308-303,kunz1244,http://concepticon.clld.org/parameters/249,molle,fog
+308-445,kunz1244,http://concepticon.clld.org/parameters/658,saire,rain (noun)
+308-283,kunz1244,http://concepticon.clld.org/parameters/658,zaire,rain (noun)
+308-450,kunz1244,http://concepticon.clld.org/parameters/658,sairi,rain (noun)
+308-379,kunz1244,http://concepticon.clld.org/parameters/784,tsimir,snow (noun)
+308-512,kunz1244,http://concepticon.clld.org/parameters/784,tchi-mir,snow (noun)
+308-477,kunz1244,http://concepticon.clld.org/parameters/221,ho-hónima,fire
+308-130,kunz1244,http://concepticon.clld.org/parameters/221,humur,fire
+308-520,kunz1244,http://concepticon.clld.org/parameters/221,ckelar,fire
+308-556,kunz1244,http://concepticon.clld.org/parameters/778,ttoy-ur,smoke (noun)
+308-614,kunz1244,http://concepticon.clld.org/parameters/646,tchili,ashes
+308-520,kunz1244,http://concepticon.clld.org/parameters/67,ckelar,embers
+308-697,kunz1244,http://concepticon.clld.org/parameters/141,ho-na-tur,burn (vb trans)
+308-386,kunz1244,http://concepticon.clld.org/parameters/1428,lock-tur,burn (vb intrans)
+308-347,kunz1244,http://concepticon.clld.org/parameters/1428,tu-mai-na-tur,burn (vb intrans)
+308-815,kunz1244,http://concepticon.clld.org/parameters/737,loc-kun-tur,"light, kindle, ignite"
+308-333,kunz1244,http://concepticon.clld.org/parameters/737,hay-ian-tur,"light, kindle, ignite"
+308-340,kunz1244,http://concepticon.clld.org/parameters/127,si-an-tur,extinguish
+308-414,kunz1244,http://concepticon.clld.org/parameters/10,hackamur,firewood
+308-679,kunz1244,http://concepticon.clld.org/parameters/10,hak'amur,firewood
+308-632,kunz1244,http://concepticon.clld.org/parameters/1554,sima,man (vs. woman)
+308-5,kunz1244,http://concepticon.clld.org/parameters/1554,sim-ma,man (vs. woman)
+308-412,kunz1244,http://concepticon.clld.org/parameters/962,lickau,woman
+308-290,kunz1244,http://concepticon.clld.org/parameters/962,liq'cau,woman
+308-550,kunz1244,http://concepticon.clld.org/parameters/2263,ttari,male
+308-42,kunz1244,http://concepticon.clld.org/parameters/2263,t'ari,male
+308-806,kunz1244,http://concepticon.clld.org/parameters/2260,qui-bur,female
+308-776,kunz1244,http://concepticon.clld.org/parameters/2260,liq-cau,female
+308-126,kunz1244,http://concepticon.clld.org/parameters/1366,pauna,boy
+308-771,kunz1244,http://concepticon.clld.org/parameters/1366,sima pauna,boy
+308-260,kunz1244,http://concepticon.clld.org/parameters/76,yaalir,young man (adolescent)
+308-696,kunz1244,http://concepticon.clld.org/parameters/76,baina,young man (adolescent)
+308-127,kunz1244,http://concepticon.clld.org/parameters/1646,lickau pauna,girl
+308-554,kunz1244,http://concepticon.clld.org/parameters/1646,pauna licau,girl
+308-128,kunz1244,http://concepticon.clld.org/parameters/77,ay-ián,young woman (adolescent)
+308-126,kunz1244,http://concepticon.clld.org/parameters/1304,pauna,child
+308-625,kunz1244,http://concepticon.clld.org/parameters/1304,panck-ti,child
+308-632,kunz1244,http://concepticon.clld.org/parameters/1200,sima,husband
+308-5,kunz1244,http://concepticon.clld.org/parameters/1200,sim-ma,husband
+308-244,kunz1244,http://concepticon.clld.org/parameters/1199,licki,wife
+308-125,kunz1244,http://concepticon.clld.org/parameters/1199,kiqui,wife
+308-150,kunz1244,http://concepticon.clld.org/parameters/1217,tickan,father
+308-358,kunz1244,http://concepticon.clld.org/parameters/1217,tic'han,father
+308-515,kunz1244,http://concepticon.clld.org/parameters/1216,patta,mother
+308-302,kunz1244,http://concepticon.clld.org/parameters/1216,pat'ta,mother
+308-731,kunz1244,http://concepticon.clld.org/parameters/1620,pahni,son
+308-481,kunz1244,http://concepticon.clld.org/parameters/1620,panni,son
+308-688,kunz1244,http://concepticon.clld.org/parameters/1357,pahni lickau,daughter
+308-278,kunz1244,http://concepticon.clld.org/parameters/1357,pahni liq'cau,daughter
+308-23,kunz1244,http://concepticon.clld.org/parameters/1262,pitchau,brother
+308-684,kunz1244,http://concepticon.clld.org/parameters/1262,sahli,brother
+308-423,kunz1244,http://concepticon.clld.org/parameters/1760,[sulcka],younger brother
+308-719,kunz1244,http://concepticon.clld.org/parameters/1263,sahli lickau,sister
+308-547,kunz1244,http://concepticon.clld.org/parameters/1263,zahli liqcau,sister
+308-242,kunz1244,http://concepticon.clld.org/parameters/1005,pinnau,twins
+308-588,kunz1244,http://concepticon.clld.org/parameters/1383,[aulo],grandfather
+308-434,kunz1244,http://concepticon.clld.org/parameters/406,ckonicks,old man
+308-832,kunz1244,http://concepticon.clld.org/parameters/406,muy-i,old man
+308-363,kunz1244,http://concepticon.clld.org/parameters/907,ckannau,old woman
+308-197,kunz1244,http://concepticon.clld.org/parameters/1618,ckamai,grandson
+308-647,kunz1244,http://concepticon.clld.org/parameters/1618,cahmai,grandson
+308-765,kunz1244,http://concepticon.clld.org/parameters/1063,pitchipani,nephew
+308-18,kunz1244,http://concepticon.clld.org/parameters/1642,salipani,niece
+308-57,kunz1244,http://concepticon.clld.org/parameters/2256,ttosi,mother-in-law (of a man)
+308-273,kunz1244,http://concepticon.clld.org/parameters/1149,pucki,orphan
+308-566,kunz1244,http://concepticon.clld.org/parameters/1149,puk'i,orphan
+308-785,kunz1244,http://concepticon.clld.org/parameters/1149,puqui,orphan
+308-27,kunz1244,http://concepticon.clld.org/parameters/1209,ackcka,I
+308-850,kunz1244,http://concepticon.clld.org/parameters/1209,acsa,I
+308-162,kunz1244,http://concepticon.clld.org/parameters/1209,akia,I
+308-834,kunz1244,http://concepticon.clld.org/parameters/1215,tchema,you (singular)
+308-848,kunz1244,http://concepticon.clld.org/parameters/1215,chema,you (singular)
+308-250,kunz1244,http://concepticon.clld.org/parameters/262,ía,he/she/it
+308-184,kunz1244,http://concepticon.clld.org/parameters/262,ckachir (ckatchbi),he/she/it
+308-573,kunz1244,http://concepticon.clld.org/parameters/262,ilckau-ya,he/she/it
+308-349,kunz1244,http://concepticon.clld.org/parameters/1212,ckunna,we
+308-816,kunz1244,http://concepticon.clld.org/parameters/1212,cunna,we
+308-749,kunz1244,http://concepticon.clld.org/parameters/1213,chime,you (plural)
+308-635,kunz1244,http://concepticon.clld.org/parameters/817,ickota,they
+308-334,kunz1244,http://concepticon.clld.org/parameters/817,k'hota-cota,they
+308-89,kunz1244,http://concepticon.clld.org/parameters/817,ícota,they
+308-178,kunz1244,http://concepticon.clld.org/parameters/2262,ckibur,female (adj)
+308-494,kunz1244,http://concepticon.clld.org/parameters/1337,[ckutchi],pig
+308-769,kunz1244,http://concepticon.clld.org/parameters/1514,[athalpa],hen
+308-232,kunz1244,http://concepticon.clld.org/parameters/1318,pani,chicken
+308-633,kunz1244,http://concepticon.clld.org/parameters/1318,[tchiuchi],chicken
+308-626,kunz1244,http://concepticon.clld.org/parameters/1360,tchockbar,duck
+308-821,kunz1244,http://concepticon.clld.org/parameters/1360,chopor,duck
+308-396,kunz1244,http://concepticon.clld.org/parameters/539,hitan,nest
+308-743,kunz1244,http://concepticon.clld.org/parameters/937,latchir,bird
+308-362,kunz1244,http://concepticon.clld.org/parameters/937,laachir,bird
+308-636,kunz1244,http://concepticon.clld.org/parameters/937,lacira,bird
+308-682,kunz1244,http://concepticon.clld.org/parameters/1905,vitti,eagle
+308-501,kunz1244,http://concepticon.clld.org/parameters/913,haari,crow
+308-469,kunz1244,http://concepticon.clld.org/parameters/1853,ckir-ckir,dove
+308-779,kunz1244,http://concepticon.clld.org/parameters/1853,toiva,dove
+308-264,kunz1244,http://concepticon.clld.org/parameters/735,ckoscko,owl
+308-73,kunz1244,http://concepticon.clld.org/parameters/735,cos-co,owl
+308-734,kunz1244,http://concepticon.clld.org/parameters/735,[tuckur],owl
+308-372,kunz1244,http://concepticon.clld.org/parameters/2009,lockma,dog
+308-612,kunz1244,http://concepticon.clld.org/parameters/2009,lojma,dog
+308-420,kunz1244,http://concepticon.clld.org/parameters/2009,locjma,dog
+308-276,kunz1244,http://concepticon.clld.org/parameters/1136,puluckur,rabbit
+308-259,kunz1244,http://concepticon.clld.org/parameters/1136,cururo,rabbit
+308-371,kunz1244,http://concepticon.clld.org/parameters/1208,[mitchi],cat
+308-424,kunz1244,http://concepticon.clld.org/parameters/2139,ckilli,"mouse, rat"
+308-157,kunz1244,http://concepticon.clld.org/parameters/2139,ckilir,"mouse, rat"
+308-666,kunz1244,http://concepticon.clld.org/parameters/2139,killi,"mouse, rat"
+308-787,kunz1244,http://concepticon.clld.org/parameters/227,ckacktchi,fish
+308-617,kunz1244,http://concepticon.clld.org/parameters/1386,ckuru,lion
+308-369,kunz1244,http://concepticon.clld.org/parameters/1386,kúh-ri,lion
+308-685,kunz1244,http://concepticon.clld.org/parameters/1312,tchapur,fox
+308-170,kunz1244,http://concepticon.clld.org/parameters/1312,tschápur,fox
+308-837,kunz1244,http://concepticon.clld.org/parameters/310,hebir,louse
+308-205,kunz1244,http://concepticon.clld.org/parameters/267,cketchir,nit (louse egg)
+308-673,kunz1244,http://concepticon.clld.org/parameters/267,ckitche,nit (louse egg)
+308-813,kunz1244,http://concepticon.clld.org/parameters/1538,pickar,scorpion
+308-723,kunz1244,http://concepticon.clld.org/parameters/1575,ckackma,cockroach
+308-22,kunz1244,http://concepticon.clld.org/parameters/843,kuma,spider
+308-187,kunz1244,http://concepticon.clld.org/parameters/665,lulan,bee
+308-810,kunz1244,http://concepticon.clld.org/parameters/1517,cura,wasp
+308-34,kunz1244,http://concepticon.clld.org/parameters/1517,curato,wasp
+308-316,kunz1244,http://concepticon.clld.org/parameters/1504,pairi,fly
+308-220,kunz1244,http://concepticon.clld.org/parameters/1509,tchuckun,mosquito
+308-185,kunz1244,http://concepticon.clld.org/parameters/1509,paire,mosquito
+308-231,kunz1244,http://concepticon.clld.org/parameters/1509,tchuckur,mosquito
+308-331,kunz1244,http://concepticon.clld.org/parameters/1219,ttockomar,worm
+308-270,kunz1244,http://concepticon.clld.org/parameters/1219,tock-mar,worm
+308-286,kunz1244,http://concepticon.clld.org/parameters/1791,tchocko,butterfly
+308-773,kunz1244,http://concepticon.clld.org/parameters/1791,[pilpinto],butterfly
+308-432,kunz1244,http://concepticon.clld.org/parameters/503,misckán,frog
+308-819,kunz1244,http://concepticon.clld.org/parameters/503,[ampatur],frog
+308-367,kunz1244,http://concepticon.clld.org/parameters/632,tchalti,lizard
+308-718,kunz1244,http://concepticon.clld.org/parameters/632,chalte,lizard
+308-76,kunz1244,http://concepticon.clld.org/parameters/632,challe,lizard
+308-753,kunz1244,http://concepticon.clld.org/parameters/1480,ckooli,body
+308-339,kunz1244,http://concepticon.clld.org/parameters/763,ckati,"skin, hide"
+308-203,kunz1244,http://concepticon.clld.org/parameters/763,cka-tir,"skin, hide"
+308-430,kunz1244,http://concepticon.clld.org/parameters/1040,mussur,hair (head)
+308-140,kunz1244,http://concepticon.clld.org/parameters/1040,musa,hair (head)
+308-639,kunz1244,http://concepticon.clld.org/parameters/678,huntur,beard
+308-295,kunz1244,http://concepticon.clld.org/parameters/678,[suntia],beard
+308-392,kunz1244,http://concepticon.clld.org/parameters/946,laari,blood
+308-483,kunz1244,http://concepticon.clld.org/parameters/946,lay-ir,blood
+308-704,kunz1244,http://concepticon.clld.org/parameters/946,lari,blood
+308-756,kunz1244,http://concepticon.clld.org/parameters/1394,mulur,bone
+308-793,kunz1244,http://concepticon.clld.org/parameters/801,ckarao,rib
+308-790,kunz1244,http://concepticon.clld.org/parameters/801,ckarau,rib
+308-69,kunz1244,http://concepticon.clld.org/parameters/801,ckaru,rib
+308-462,kunz1244,http://concepticon.clld.org/parameters/1393,[backra],horn
+308-660,kunz1244,http://concepticon.clld.org/parameters/1220,peckay,tail
+308-83,kunz1244,http://concepticon.clld.org/parameters/1291,chocklo,back
+308-513,kunz1244,http://concepticon.clld.org/parameters/1291,choclo,back
+308-21,kunz1244,http://concepticon.clld.org/parameters/1256,lacksi,head
+308-542,kunz1244,http://concepticon.clld.org/parameters/1256,hlacse,head
+308-552,kunz1244,http://concepticon.clld.org/parameters/1256,hjlacse,head
+308-690,kunz1244,http://concepticon.clld.org/parameters/1605,ckot-cko,skull
+308-846,kunz1244,http://concepticon.clld.org/parameters/1583,coyo,brain
+308-712,kunz1244,http://concepticon.clld.org/parameters/1583,mutuck-tur,brain
+308-279,kunz1244,http://concepticon.clld.org/parameters/1560,ckúlan,face
+308-732,kunz1244,http://concepticon.clld.org/parameters/1560,culam,face
+308-461,kunz1244,http://concepticon.clld.org/parameters/123,ckacka,forehead
+308-376,kunz1244,http://concepticon.clld.org/parameters/123,ccaca,forehead
+308-634,kunz1244,http://concepticon.clld.org/parameters/123,k'ak'a,forehead
+308-729,kunz1244,http://concepticon.clld.org/parameters/798,tackil,jaw
+308-320,kunz1244,http://concepticon.clld.org/parameters/798,silatackil,jaw
+308-581,kunz1244,http://concepticon.clld.org/parameters/1730,bitis,cheek
+308-725,kunz1244,http://concepticon.clld.org/parameters/1248,ckepi,eye
+308-253,kunz1244,http://concepticon.clld.org/parameters/1248,qquepe,eye
+308-139,kunz1244,http://concepticon.clld.org/parameters/1248,ikhepe,eye
+308-404,kunz1244,http://concepticon.clld.org/parameters/1173,ckackasima,eyebrow
+308-754,kunz1244,http://concepticon.clld.org/parameters/17,ckepi-ckati,eyelid
+308-58,kunz1244,http://concepticon.clld.org/parameters/1540,ckepi-sinna,eyelash
+308-341,kunz1244,http://concepticon.clld.org/parameters/1655,tchi-pac-kin-tur,blink
+308-710,kunz1244,http://concepticon.clld.org/parameters/1247,ckai-ckai,ear
+308-519,kunz1244,http://concepticon.clld.org/parameters/1247,aicke,ear
+308-605,kunz1244,http://concepticon.clld.org/parameters/1221,sep-pi,nose
+308-728,kunz1244,http://concepticon.clld.org/parameters/1221,sepe,nose
+308-85,kunz1244,http://concepticon.clld.org/parameters/208,sepil-tur,mucus (nasal)
+308-106,kunz1244,http://concepticon.clld.org/parameters/674,ckaipi,mouth
+308-565,kunz1244,http://concepticon.clld.org/parameters/674,khaipe,mouth
+308-98,kunz1244,http://concepticon.clld.org/parameters/674,quaipi,mouth
+308-663,kunz1244,http://concepticon.clld.org/parameters/478,tchuinu,lip
+308-15,kunz1244,http://concepticon.clld.org/parameters/1205,las-si,tongue
+308-523,kunz1244,http://concepticon.clld.org/parameters/1205,lasi,tongue
+308-117,kunz1244,http://concepticon.clld.org/parameters/1205,las-kar,tongue
+308-845,kunz1244,http://concepticon.clld.org/parameters/1380,ckénia,tooth
+308-839,kunz1244,http://concepticon.clld.org/parameters/1380,cune,tooth
+308-111,kunz1244,http://concepticon.clld.org/parameters/139,ckentchockol,gums
+308-230,kunz1244,http://concepticon.clld.org/parameters/139,ckeu,gums
+308-339,kunz1244,http://concepticon.clld.org/parameters/1333,ckati,neck
+308-831,kunz1244,http://concepticon.clld.org/parameters/1333,ccati,neck
+308-593,kunz1244,http://concepticon.clld.org/parameters/1333,[ckooyo],neck
+308-846,kunz1244,http://concepticon.clld.org/parameters/1347,coyo,nape of neck
+308-770,kunz1244,http://concepticon.clld.org/parameters/1346,ckomal,throat
+308-506,kunz1244,http://concepticon.clld.org/parameters/1346,malckar,throat
+308-499,kunz1244,http://concepticon.clld.org/parameters/1346,comála,throat
+308-238,kunz1244,http://concepticon.clld.org/parameters/1482,tchocklo,shoulder
+308-513,kunz1244,http://concepticon.clld.org/parameters/1482,choclo,shoulder
+308-748,kunz1244,http://concepticon.clld.org/parameters/1673,socke,arm
+308-132,kunz1244,http://concepticon.clld.org/parameters/1673,soke,arm
+308-191,kunz1244,http://concepticon.clld.org/parameters/1673,soqui,arm
+308-336,kunz1244,http://concepticon.clld.org/parameters/1886,matackai,armpit
+308-498,kunz1244,http://concepticon.clld.org/parameters/981,tickne,elbow
+308-377,kunz1244,http://concepticon.clld.org/parameters/981,tic-ni,elbow
+308-555,kunz1244,http://concepticon.clld.org/parameters/1277,suy-i,hand
+308-330,kunz1244,http://concepticon.clld.org/parameters/1277,suyi,hand
+308-280,kunz1244,http://concepticon.clld.org/parameters/1183,sutalanau,palm of hand
+308-843,kunz1244,http://concepticon.clld.org/parameters/1303,sulay-ie,finger
+308-71,kunz1244,http://concepticon.clld.org/parameters/1303,sui,finger
+308-782,kunz1244,http://concepticon.clld.org/parameters/1258,khin,fingernail
+308-473,kunz1244,http://concepticon.clld.org/parameters/1258,cken-ni,fingernail
+308-548,kunz1244,http://concepticon.clld.org/parameters/1258,kh'in,fingernail
+308-820,kunz1244,http://concepticon.clld.org/parameters/1297,nan,leg
+308-637,kunz1244,http://concepticon.clld.org/parameters/498,nan-tchackti,calf of leg
+308-606,kunz1244,http://concepticon.clld.org/parameters/498,poi-ya,calf of leg
+308-8,kunz1244,http://concepticon.clld.org/parameters/1371,pocklo,knee
+308-791,kunz1244,http://concepticon.clld.org/parameters/1371,ckolck-ul,knee
+308-522,kunz1244,http://concepticon.clld.org/parameters/1371,colc'ul,knee
+308-217,kunz1244,http://concepticon.clld.org/parameters/1301,ckutchir,foot
+308-742,kunz1244,http://concepticon.clld.org/parameters/1301,cuchi,foot
+308-298,kunz1244,http://concepticon.clld.org/parameters/1301,khoche,foot
+308-405,kunz1244,http://concepticon.clld.org/parameters/803,ckulub,ankle
+308-81,kunz1244,http://concepticon.clld.org/parameters/803,k'ulub,ankle
+308-583,kunz1244,http://concepticon.clld.org/parameters/980,ckai-yi,heel
+308-415,kunz1244,http://concepticon.clld.org/parameters/1257,ack-iu,wing
+308-415,kunz1244,http://concepticon.clld.org/parameters/1201,ack-iu,feather
+308-830,kunz1244,http://concepticon.clld.org/parameters/1201,hackiu,feather
+308-288,kunz1244,http://concepticon.clld.org/parameters/1201,hackeu,feather
+308-312,kunz1244,http://concepticon.clld.org/parameters/1592,aytia,chest
+308-701,kunz1244,http://concepticon.clld.org/parameters/1402,ckatnu,breast (of woman)
+308-851,kunz1244,http://concepticon.clld.org/parameters/1402,pibur,breast (of woman)
+308-602,kunz1244,http://concepticon.clld.org/parameters/1402,pivur,breast (of woman)
+308-36,kunz1244,http://concepticon.clld.org/parameters/796,tutu,"nipple, teat"
+308-268,kunz1244,http://concepticon.clld.org/parameters/1838,ckutti,navel
+308-201,kunz1244,http://concepticon.clld.org/parameters/1223,tchitack,heart
+308-459,kunz1244,http://concepticon.clld.org/parameters/1223,haiti,heart
+308-166,kunz1244,http://concepticon.clld.org/parameters/688,hoopir,lung
+308-505,kunz1244,http://concepticon.clld.org/parameters/1224,himri,liver
+308-308,kunz1244,http://concepticon.clld.org/parameters/489,tchinur,kidney
+308-675,kunz1244,http://concepticon.clld.org/parameters/819,ckani,stomach
+308-332,kunz1244,http://concepticon.clld.org/parameters/819,ckan,stomach
+308-580,kunz1244,http://concepticon.clld.org/parameters/819,cani,stomach
+308-467,kunz1244,http://concepticon.clld.org/parameters/1991,lali,"intestines, guts"
+308-559,kunz1244,http://concepticon.clld.org/parameters/1991,lalir,"intestines, guts"
+308-840,kunz1244,http://concepticon.clld.org/parameters/1681,tckura,waist
+308-615,kunz1244,http://concepticon.clld.org/parameters/1681,ckuri,waist
+308-235,kunz1244,http://concepticon.clld.org/parameters/1745,ckat,hip
+308-417,kunz1244,http://concepticon.clld.org/parameters/1745,caktu,hip
+308-239,kunz1244,http://concepticon.clld.org/parameters/834,toro,buttocks
+308-296,kunz1244,http://concepticon.clld.org/parameters/797,tchóo,testicle
+308-307,kunz1244,http://concepticon.clld.org/parameters/1222,tchalau,penis
+308-68,kunz1244,http://concepticon.clld.org/parameters/1407,haabu,"breathe, breath"
+308-88,kunz1244,http://concepticon.clld.org/parameters/1407,haa-ru,"breathe, breath"
+308-603,kunz1244,http://concepticon.clld.org/parameters/1028,tul-tap-tur,"yawn, gape"
+308-610,kunz1244,http://concepticon.clld.org/parameters/1028,tul-ta-pur,"yawn, gape"
+308-77,kunz1244,http://concepticon.clld.org/parameters/879,hoc-kol-tur,cough
+308-766,kunz1244,http://concepticon.clld.org/parameters/1621,ttack-tur,sneeze
+308-775,kunz1244,http://concepticon.clld.org/parameters/1440,tu-tu,spit
+308-152,kunz1244,http://concepticon.clld.org/parameters/1278,ppo-tun-tur,vomit
+308-796,kunz1244,http://concepticon.clld.org/parameters/1403,beck-na-tur,bite
+308-353,kunz1244,http://concepticon.clld.org/parameters/319,la-ba-sa-tur,lick
+308-658,kunz1244,http://concepticon.clld.org/parameters/1585,tu-lur,sleep
+308-47,kunz1244,http://concepticon.clld.org/parameters/1585,ttul-tur,sleep
+308-158,kunz1244,http://concepticon.clld.org/parameters/1920,ttultur,dream
+308-382,kunz1244,http://concepticon.clld.org/parameters/1920,ttulti,dream
+308-207,kunz1244,http://concepticon.clld.org/parameters/1602,ckep-ni-tur,wake up
+308-628,kunz1244,http://concepticon.clld.org/parameters/592,pel-an-tur,urinate
+308-618,kunz1244,http://concepticon.clld.org/parameters/592,ppel-a-tur,urinate
+308-218,kunz1244,http://concepticon.clld.org/parameters/676,tta-na-tur,defecate
+308-668,kunz1244,http://concepticon.clld.org/parameters/676,so-la-tur,defecate
+308-590,kunz1244,http://concepticon.clld.org/parameters/1785,tchoc-kon-tur,have sexual intercourse
+308-131,kunz1244,http://concepticon.clld.org/parameters/138,tchulck-tur,bathe
+308-313,kunz1244,http://concepticon.clld.org/parameters/1152,panc-ki-tur,beget (of father)
+308-365,kunz1244,http://concepticon.clld.org/parameters/1090,sa-ri-tur,born (to be)
+308-817,kunz1244,http://concepticon.clld.org/parameters/1422,ckau-sa-tur,"live, living, life"
+308-495,kunz1244,http://concepticon.clld.org/parameters/1422,ckauscku,"live, living, life"
+308-641,kunz1244,http://concepticon.clld.org/parameters/1494,moc-kor,"die, dead"
+308-294,kunz1244,http://concepticon.clld.org/parameters/1494,muc-kar,"die, dead"
+308-169,kunz1244,http://concepticon.clld.org/parameters/1494,mul-sin-tur,"die, dead"
+308-321,kunz1244,http://concepticon.clld.org/parameters/1417,lat-an-tur,kill
+308-824,kunz1244,http://concepticon.clld.org/parameters/1417,lat-ta-tur,kill
+308-16,kunz1244,http://concepticon.clld.org/parameters/1719,hoy-tur,bury (the dead)
+308-394,kunz1244,http://concepticon.clld.org/parameters/1847,ckotchi,"sick, sickness"
+308-711,kunz1244,http://concepticon.clld.org/parameters/1847,ccotas,"sick, sickness"
+308-393,kunz1244,http://concepticon.clld.org/parameters/102,morack-tur,cold (catarrh)
+308-746,kunz1244,http://concepticon.clld.org/parameters/148,tcheck-tcheck-na-tur,itch
+308-13,kunz1244,http://concepticon.clld.org/parameters/1808,ya-tur,pus
+308-680,kunz1244,http://concepticon.clld.org/parameters/499,ckayatar,"cure, heal"
+308-90,kunz1244,http://concepticon.clld.org/parameters/499,[hampi]-tur,"cure, heal"
+308-97,kunz1244,http://concepticon.clld.org/parameters/1372,[hampi],"medicine, drug"
+308-299,kunz1244,http://concepticon.clld.org/parameters/1757,heus-tcha,"tired, weary"
+308-32,kunz1244,http://concepticon.clld.org/parameters/1564,ack-ckatchar,lazy
+308-61,kunz1244,http://concepticon.clld.org/parameters/1125,ttairi,bald
+308-691,kunz1244,http://concepticon.clld.org/parameters/1125,lejía,bald
+308-318,kunz1244,http://concepticon.clld.org/parameters/996,yockto,deaf
+308-671,kunz1244,http://concepticon.clld.org/parameters/1463,pilckta,intoxicated
+308-65,kunz1244,http://concepticon.clld.org/parameters/590,ttaire,"naked, bare"
+308-389,kunz1244,http://concepticon.clld.org/parameters/1336,holm-tur,eat
+308-767,kunz1244,http://concepticon.clld.org/parameters/1336,ohlm-tur,eat
+308-44,kunz1244,http://concepticon.clld.org/parameters/256,tocke,food
+308-266,kunz1244,http://concepticon.clld.org/parameters/1959,ckuitchar,raw
+308-378,kunz1244,http://concepticon.clld.org/parameters/1958,cka-ri,"green, unripe"
+308-564,kunz1244,http://concepticon.clld.org/parameters/1728,becktchi,rotten
+308-223,kunz1244,http://concepticon.clld.org/parameters/1728,ckai-mai-ɲir,rotten
+308-108,kunz1244,http://concepticon.clld.org/parameters/1401,haita-tur,drink
+308-439,kunz1244,http://concepticon.clld.org/parameters/1401,hai-tur,drink
+308-426,kunz1244,http://concepticon.clld.org/parameters/1533,tchors-tur,hunger
+308-236,kunz1244,http://concepticon.clld.org/parameters/1533,choristur,hunger
+308-763,kunz1244,http://concepticon.clld.org/parameters/1533,tchorjmar,hunger
+308-204,kunz1244,http://concepticon.clld.org/parameters/199,lack-tor,famine
+308-452,kunz1244,http://concepticon.clld.org/parameters/848,tarckma,thirst
+308-225,kunz1244,http://concepticon.clld.org/parameters/848,tarajche,thirst
+308-705,kunz1244,http://concepticon.clld.org/parameters/848,tarcktcha,thirst
+308-736,kunz1244,http://concepticon.clld.org/parameters/1421,tchoc-kop-tur,suck
+308-549,kunz1244,http://concepticon.clld.org/parameters/321,cker-an-tur,chew
+308-289,kunz1244,http://concepticon.clld.org/parameters/321,ckap-na-tur,chew
+308-352,kunz1244,http://concepticon.clld.org/parameters/897,man-tur,swallow
+308-245,kunz1244,http://concepticon.clld.org/parameters/897,regánama,swallow
+308-521,kunz1244,http://concepticon.clld.org/parameters/792,ckun-tur,boil (vb)
+308-560,kunz1244,http://concepticon.clld.org/parameters/792,pol-pon,boil (vb)
+308-669,kunz1244,http://concepticon.clld.org/parameters/2146,ckauc-kai-tur,"roast, fry"
+308-425,kunz1244,http://concepticon.clld.org/parameters/2146,ckanc-ka-ta,"roast, fry"
+308-167,kunz1244,http://concepticon.clld.org/parameters/183,tchec-kan-tur,bake
+308-110,kunz1244,http://concepticon.clld.org/parameters/1143,tatio,oven
+308-38,kunz1244,http://concepticon.clld.org/parameters/1462,ckurasa,"pot, cooking vessel"
+308-694,kunz1244,http://concepticon.clld.org/parameters/1462,tchecknar,"pot, cooking vessel"
+308-234,kunz1244,http://concepticon.clld.org/parameters/270,po-tor,"pitcher, jug"
+308-557,kunz1244,http://concepticon.clld.org/parameters/1767,bac-ka-ra-tur,scrape
+308-310,kunz1244,http://concepticon.clld.org/parameters/1767,tchac-ka-tur,scrape
+308-574,kunz1244,http://concepticon.clld.org/parameters/1033,te-pi-tur,"crush, grind"
+308-503,kunz1244,http://concepticon.clld.org/parameters/1033,hey-na-tur,"crush, grind"
+308-354,kunz1244,http://concepticon.clld.org/parameters/634,sábur,meat
+308-368,kunz1244,http://concepticon.clld.org/parameters/593,tchusli,potato
+308-667,kunz1244,http://concepticon.clld.org/parameters/1966,tolva,bunch
+308-2,kunz1244,http://concepticon.clld.org/parameters/323,suitchi,"grease, fat"
+308-262,kunz1244,http://concepticon.clld.org/parameters/1274,ckuta,salt
+308-472,kunz1244,http://concepticon.clld.org/parameters/1274,ckut-ta,salt
+308-844,kunz1244,http://concepticon.clld.org/parameters/919,sicku,chili pepper
+308-596,kunz1244,http://concepticon.clld.org/parameters/942,lu-lan,honey
+308-783,kunz1244,http://concepticon.clld.org/parameters/404,ckilapana,fermented drink
+308-733,kunz1244,http://concepticon.clld.org/parameters/404,kilampana,fermented drink
+308-726,kunz1244,http://concepticon.clld.org/parameters/404,ckatchir,fermented drink
+308-129,kunz1244,http://concepticon.clld.org/parameters/744,ckauti,egg
+308-622,kunz1244,http://concepticon.clld.org/parameters/744,ckanti,egg
+308-544,kunz1244,http://concepticon.clld.org/parameters/1556,ckalanna,egg yolk
+308-713,kunz1244,http://concepticon.clld.org/parameters/158,ckaa-bart-an-tur,put on (clothes)
+308-228,kunz1244,http://concepticon.clld.org/parameters/158,ttan-tur,put on (clothes)
+308-189,kunz1244,http://concepticon.clld.org/parameters/1895,ckaabar,"clothing, clothes"
+308-538,kunz1244,http://concepticon.clld.org/parameters/1895,cka-bar,"clothing, clothes"
+308-747,kunz1244,http://concepticon.clld.org/parameters/1616,koriate,cloth
+308-595,kunz1244,http://concepticon.clld.org/parameters/1616,koriarte,cloth
+308-202,kunz1244,http://concepticon.clld.org/parameters/964,paapur,wool
+308-722,kunz1244,http://concepticon.clld.org/parameters/964,papur,wool
+308-624,kunz1244,http://concepticon.clld.org/parameters/964,paur,wool
+308-803,kunz1244,http://concepticon.clld.org/parameters/629,ckatir,leather
+308-243,kunz1244,http://concepticon.clld.org/parameters/629,cka-tur,leather
+308-75,kunz1244,http://concepticon.clld.org/parameters/277,ckoi-tur,spindle
+308-343,kunz1244,http://concepticon.clld.org/parameters/277,mismina,spindle
+308-390,kunz1244,http://concepticon.clld.org/parameters/133,pi-na-tur,weave
+308-674,kunz1244,http://concepticon.clld.org/parameters/133,tem-natur,weave
+308-627,kunz1244,http://concepticon.clld.org/parameters/1787,pincks-tur,loom
+308-402,kunz1244,http://concepticon.clld.org/parameters/1161,kucana,thread
+308-808,kunz1244,http://concepticon.clld.org/parameters/1161,cuchana,thread
+308-695,kunz1244,http://concepticon.clld.org/parameters/1622,pi-imu,shirt
+308-695,kunz1244,http://concepticon.clld.org/parameters/1600,pi-imu,skirt
+308-491,kunz1244,http://concepticon.clld.org/parameters/2130,panta,"hat, cap"
+308-107,kunz1244,http://concepticon.clld.org/parameters/772,ckeppar,"belt, girdle"
+308-351,kunz1244,http://concepticon.clld.org/parameters/772,ckepar,"belt, girdle"
+308-492,kunz1244,http://concepticon.clld.org/parameters/917,nincks,"ornament, adornment"
+308-383,kunz1244,http://concepticon.clld.org/parameters/332,tchuluscktur,"handkerchief, rag"
+308-751,kunz1244,http://concepticon.clld.org/parameters/1475,ckarisur,comb
+308-604,kunz1244,http://concepticon.clld.org/parameters/333,haana,braid
+308-7,kunz1244,http://concepticon.clld.org/parameters/1252,tturi,house
+308-252,kunz1244,http://concepticon.clld.org/parameters/1252,t'huri,house
+308-592,kunz1244,http://concepticon.clld.org/parameters/1252,capu,house
+308-99,kunz1244,http://concepticon.clld.org/parameters/1678,tturitka,hut
+308-237,kunz1244,http://concepticon.clld.org/parameters/1678,ha-ra,hut
+308-94,kunz1244,http://concepticon.clld.org/parameters/1663,ckipti,bed
+308-441,kunz1244,http://concepticon.clld.org/parameters/1663,ckitti,bed
+308-500,kunz1244,http://concepticon.clld.org/parameters/1663,krit-te,bed
+308-510,kunz1244,http://concepticon.clld.org/parameters/1044,lockati,pillow
+308-361,kunz1244,http://concepticon.clld.org/parameters/806,tchuse,blanket
+308-597,kunz1244,http://concepticon.clld.org/parameters/2131,checcnar,"lamp, torch"
+308-825,kunz1244,http://concepticon.clld.org/parameters/769,ckeitin,roof
+308-183,kunz1244,http://concepticon.clld.org/parameters/2002,toockor,ditch
+308-651,kunz1244,http://concepticon.clld.org/parameters/2002,pocko,ditch
+308-135,kunz1244,http://concepticon.clld.org/parameters/1418,baa-la-tur,dig
+308-541,kunz1244,http://concepticon.clld.org/parameters/748,hut-an-tur,sow
+308-398,kunz1244,http://concepticon.clld.org/parameters/714,mu-hu,seed
+308-375,kunz1244,http://concepticon.clld.org/parameters/714,tan-ti,seed
+308-457,kunz1244,http://concepticon.clld.org/parameters/2132,ckatchunti,"sickle, scythe"
+308-608,kunz1244,http://concepticon.clld.org/parameters/2132,k'ach'unti,"sickle, scythe"
+308-384,kunz1244,http://concepticon.clld.org/parameters/285,hoc-kun-tur,thresh
+308-134,kunz1244,http://concepticon.clld.org/parameters/285,bal-ta-tur,thresh
+308-478,kunz1244,http://concepticon.clld.org/parameters/223,bat-tar,threshing-floor
+308-759,kunz1244,http://concepticon.clld.org/parameters/611,ttaba,"crop, harvest"
+308-470,kunz1244,http://concepticon.clld.org/parameters/1077,tchacko,wheat
+308-662,kunz1244,http://concepticon.clld.org/parameters/506,tanti,"maize, corn"
+308-578,kunz1244,http://concepticon.clld.org/parameters/506,yanckul,"maize, corn"
+308-274,kunz1244,http://concepticon.clld.org/parameters/506,ay-i,"maize, corn"
+308-474,kunz1244,http://concepticon.clld.org/parameters/670,ckapar,root
+308-171,kunz1244,http://concepticon.clld.org/parameters/1531,tackos,branch
+308-527,kunz1244,http://concepticon.clld.org/parameters/628,ckatta,leaf
+308-357,kunz1244,http://concepticon.clld.org/parameters/628,cata,leaf
+308-381,kunz1244,http://concepticon.clld.org/parameters/239,putchur,flower
+308-686,kunz1244,http://concepticon.clld.org/parameters/239,pu-chur,flower
+308-795,kunz1244,http://concepticon.clld.org/parameters/239,pucher,flower
+308-51,kunz1244,http://concepticon.clld.org/parameters/906,yali,tree
+308-322,kunz1244,http://concepticon.clld.org/parameters/906,yaii,tree
+308-484,kunz1244,http://concepticon.clld.org/parameters/1204,tchack-tchas-tur,bark
+308-413,kunz1244,http://concepticon.clld.org/parameters/1204,chac-ach-astur,bark
+308-799,kunz1244,http://concepticon.clld.org/parameters/864,lau-tchur,"pumpkin, squash"
+308-572,kunz1244,http://concepticon.clld.org/parameters/984,heus-tcha-tur,work
+308-155,kunz1244,http://concepticon.clld.org/parameters/984,heus-tur,work
+308-714,kunz1244,http://concepticon.clld.org/parameters/2004,tchut-na-tur,bend
+308-739,kunz1244,http://concepticon.clld.org/parameters/2004,pit-chac-ku-tur,bend
+308-448,kunz1244,http://concepticon.clld.org/parameters/1917,ckoi-yo-tur,"tie, bind"
+308-195,kunz1244,http://concepticon.clld.org/parameters/1917,lac-kal-tur,"tie, bind"
+308-490,kunz1244,http://concepticon.clld.org/parameters/352,pot-na-tur,untie
+308-640,kunz1244,http://concepticon.clld.org/parameters/1218,misckar,"rope, cord"
+308-661,kunz1244,http://concepticon.clld.org/parameters/760,ttusu,knot (noun)
+308-786,kunz1244,http://concepticon.clld.org/parameters/760,humar,knot (noun)
+308-17,kunz1244,http://concepticon.clld.org/parameters/2133,tchick-nar,"strike (hit, beat)"
+308-272,kunz1244,http://concepticon.clld.org/parameters/1432,cka-rac-kar-tur,cut
+308-623,kunz1244,http://concepticon.clld.org/parameters/1432,cka-ra-tur,cut
+308-654,kunz1244,http://concepticon.clld.org/parameters/155,tec-ki-tur,"chop, hew"
+308-56,kunz1244,http://concepticon.clld.org/parameters/680,cku-ra-tur,break
+308-543,kunz1244,http://concepticon.clld.org/parameters/680,cja-ra-tur,break
+308-768,kunz1244,http://concepticon.clld.org/parameters/291,tte-ra-tur,"flay, skin"
+308-486,kunz1244,http://concepticon.clld.org/parameters/38,pe-ra-tur,spread out
+308-206,kunz1244,http://concepticon.clld.org/parameters/38,tus-sa-tur,spread out
+308-261,kunz1244,http://concepticon.clld.org/parameters/357,be-lui-na-tur,hang up
+308-814,kunz1244,http://concepticon.clld.org/parameters/357,te-bai-na-tur,hang up
+308-173,kunz1244,http://concepticon.clld.org/parameters/1913,cka-tal-na-tur,press
+308-574,kunz1244,http://concepticon.clld.org/parameters/1414,te-pi-tur,"squeeze, wring"
+308-535,kunz1244,http://concepticon.clld.org/parameters/1487,tchuck-na-tur,pour
+308-198,kunz1244,http://concepticon.clld.org/parameters/1453,cka-bu-tur,wash
+308-275,kunz1244,http://concepticon.clld.org/parameters/1453,tchec-ka-tin-tur,wash
+308-418,kunz1244,http://concepticon.clld.org/parameters/230,baal-sa-tur,sweep
+308-249,kunz1244,http://concepticon.clld.org/parameters/245,bal-san-tur,broom
+308-102,kunz1244,http://concepticon.clld.org/parameters/46,baalatur,hollow out
+308-611,kunz1244,http://concepticon.clld.org/parameters/1069,tchauna-tur,glue
+308-180,kunz1244,http://concepticon.clld.org/parameters/759,leber,silver
+308-400,kunz1244,http://concepticon.clld.org/parameters/759,le-vir,silver
+308-62,kunz1244,http://concepticon.clld.org/parameters/1825,co-la,"copper, bronze"
+308-797,kunz1244,http://concepticon.clld.org/parameters/1399,yotto,clay
+308-708,kunz1244,http://concepticon.clld.org/parameters/1399,ckisti,clay
+308-199,kunz1244,http://concepticon.clld.org/parameters/1729,ckot-na-tur,"weave, plait"
+308-537,kunz1244,http://concepticon.clld.org/parameters/765,luc-kan-tur,move
+308-532,kunz1244,http://concepticon.clld.org/parameters/1588,cku-tup-tur,turn over
+308-74,kunz1244,http://concepticon.clld.org/parameters/1588,li-bay-na-tur,turn over
+308-209,kunz1244,http://concepticon.clld.org/parameters/1445,sac-ka-tur,turn around
+308-828,kunz1244,http://concepticon.clld.org/parameters/827,lu-pay-na-tur,roll
+308-539,kunz1244,http://concepticon.clld.org/parameters/568,heu-tur,rise
+308-408,kunz1244,http://concepticon.clld.org/parameters/568,temp-tur,rise
+308-601,kunz1244,http://concepticon.clld.org/parameters/1280,ckolck-tur,fall
+308-226,kunz1244,http://concepticon.clld.org/parameters/1280,colc-tur,fall
+308-530,kunz1244,http://concepticon.clld.org/parameters/1456,so-ru-tur,throw
+308-587,kunz1244,http://concepticon.clld.org/parameters/1456,yoc-ke-tur,throw
+308-240,kunz1244,http://concepticon.clld.org/parameters/702,be-ri-na-tur,catch (ball)
+308-534,kunz1244,http://concepticon.clld.org/parameters/702,pat-pi-tur,catch (ball)
+308-181,kunz1244,http://concepticon.clld.org/parameters/2003,che-rej-ner,flow
+308-609,kunz1244,http://concepticon.clld.org/parameters/2003,che-res-nir,flow
+308-539,kunz1244,http://concepticon.clld.org/parameters/1441,heu-tur,fly (vb)
+308-507,kunz1244,http://concepticon.clld.org/parameters/175,ppupu-tur,blow
+308-146,kunz1244,http://concepticon.clld.org/parameters/96,sor-ur-tur,"creep, crawl"
+308-257,kunz1244,http://concepticon.clld.org/parameters/66,ttonck-tur,kneel
+308-687,kunz1244,http://concepticon.clld.org/parameters/1829,suck-nu-tur,"jump, leap"
+308-446,kunz1244,http://concepticon.clld.org/parameters/1135,pas-sap-tur,kick
+308-29,kunz1244,http://concepticon.clld.org/parameters/1443,cku-tchin-tur,walk
+308-175,kunz1244,http://concepticon.clld.org/parameters/1443,lan-tur,walk
+308-476,kunz1244,http://concepticon.clld.org/parameters/1519,balt-hi-tur,run
+308-45,kunz1244,http://concepticon.clld.org/parameters/1519,cko-pa-cko-tur,run
+308-789,kunz1244,http://concepticon.clld.org/parameters/695,sack-tur,go
+308-752,kunz1244,http://concepticon.clld.org/parameters/695,saj-ne-ma,go
+308-338,kunz1244,http://concepticon.clld.org/parameters/705,mas-sa-tur,go up
+308-229,kunz1244,http://concepticon.clld.org/parameters/2014,ta-bil-tur,go down
+308-338,kunz1244,http://concepticon.clld.org/parameters/1107,mas-sa-tur,go out
+308-350,kunz1244,http://concepticon.clld.org/parameters/1446,hau-tur,come
+308-811,kunz1244,http://concepticon.clld.org/parameters/581,ckat-na-tur,come back
+308-656,kunz1244,http://concepticon.clld.org/parameters/1387,tte-tur,"reach, arrive"
+308-216,kunz1244,http://concepticon.clld.org/parameters/700,lap-tur,carry (bear)
+308-164,kunz1244,http://concepticon.clld.org/parameters/413,ckap-tur,carry-on-shoulder
+308-561,kunz1244,http://concepticon.clld.org/parameters/692,ma-tur,bring
+308-305,kunz1244,http://concepticon.clld.org/parameters/367,back-ni-tur,ride
+308-144,kunz1244,http://concepticon.clld.org/parameters/1452,ho-ni-tur,"push, shove"
+308-104,kunz1244,http://concepticon.clld.org/parameters/667,beter,road
+308-133,kunz1244,http://concepticon.clld.org/parameters/667,pe-ter,road
+308-511,kunz1244,http://concepticon.clld.org/parameters/667,pet-tir,road
+308-489,kunz1244,http://concepticon.clld.org/parameters/667,pete,road
+308-222,kunz1244,http://concepticon.clld.org/parameters/1011,sommala,bridge
+308-35,kunz1244,http://concepticon.clld.org/parameters/773,ttan-sir,have
+308-800,kunz1244,http://concepticon.clld.org/parameters/773,ttans-tur,have
+308-702,kunz1244,http://concepticon.clld.org/parameters/773,ttan-zi,have
+308-93,kunz1244,http://concepticon.clld.org/parameters/1749,te-pir-tur,take
+308-730,kunz1244,http://concepticon.clld.org/parameters/1749,ma-ca-lo,take
+308-93,kunz1244,http://concepticon.clld.org/parameters/2021,te-pir-tur,"seize, grasp"
+308-649,kunz1244,http://concepticon.clld.org/parameters/1448,tchauck-tur,hold
+308-121,kunz1244,http://concepticon.clld.org/parameters/694,ma-is-tur,"get, obtain"
+308-693,kunz1244,http://concepticon.clld.org/parameters/1447,ckan-tur,give
+308-215,kunz1244,http://concepticon.clld.org/parameters/1447,hanc-ku-sa-tur,give
+308-654,kunz1244,http://concepticon.clld.org/parameters/681,tec-ki-tur,destroy
+308-802,kunz1244,http://concepticon.clld.org/parameters/1468,ckonn-tur,"seek, look for"
+308-121,kunz1244,http://concepticon.clld.org/parameters/719,ma-is-tur,find
+308-319,kunz1244,http://concepticon.clld.org/parameters/1660,pi-la-pa-tur,lose
+308-192,kunz1244,http://concepticon.clld.org/parameters/1674,back-tcha,poor
+308-344,kunz1244,http://concepticon.clld.org/parameters/1774,tcha-na-tur,"avaricious, stingy"
+308-744,kunz1244,http://concepticon.clld.org/parameters/1571,tta-si-tur,sell
+308-337,kunz1244,http://concepticon.clld.org/parameters/1685,ttosti,after
+308-509,kunz1244,http://concepticon.clld.org/parameters/723,ckocku,behind
+308-399,kunz1244,http://concepticon.clld.org/parameters/723,ckoockops,behind
+308-263,kunz1244,http://concepticon.clld.org/parameters/723,cogciá,behind
+308-842,kunz1244,http://concepticon.clld.org/parameters/1326,backit,"down, below"
+308-676,kunz1244,http://concepticon.clld.org/parameters/1326,vá-quit,"down, below"
+308-284,kunz1244,http://concepticon.clld.org/parameters/1326,ekebakipas,"down, below"
+308-689,kunz1244,http://concepticon.clld.org/parameters/1882,ckonni,before
+308-717,kunz1244,http://concepticon.clld.org/parameters/1019,halpaps,front
+308-1,kunz1244,http://concepticon.clld.org/parameters/1019,hebi-i,front
+308-433,kunz1244,http://concepticon.clld.org/parameters/1019,zalpáia,front
+308-105,kunz1244,http://concepticon.clld.org/parameters/762,tcho-tchi,outside
+308-233,kunz1244,http://concepticon.clld.org/parameters/1485,peppi,under
+308-149,kunz1244,http://concepticon.clld.org/parameters/1485,ish-cu,under
+308-37,kunz1244,http://concepticon.clld.org/parameters/1485,váquit,under
+308-248,kunz1244,http://concepticon.clld.org/parameters/1591,ckito,"up, above"
+308-709,kunz1244,http://concepticon.clld.org/parameters/1591,muttu,"up, above"
+308-479,kunz1244,http://concepticon.clld.org/parameters/1591,ckec-tchi,"up, above"
+308-364,kunz1244,http://concepticon.clld.org/parameters/723,ara,place
+308-488,kunz1244,http://concepticon.clld.org/parameters/723,aro,place
+308-528,kunz1244,http://concepticon.clld.org/parameters/723,les-si,place
+308-228,kunz1244,http://concepticon.clld.org/parameters/998,ttan-tur,put
+308-314,kunz1244,http://concepticon.clld.org/parameters/998,hil-tur,put
+308-305,kunz1244,http://concepticon.clld.org/parameters/1416,back-ni-tur,sit
+308-67,kunz1244,http://concepticon.clld.org/parameters/215,ckac-ka-sin-tur,lie down
+308-356,kunz1244,http://concepticon.clld.org/parameters/1442,ckes-tur,stand
+308-465,kunz1244,http://concepticon.clld.org/parameters/1743,to-lac-kú-tur,"join, unite"
+308-254,kunz1244,http://concepticon.clld.org/parameters/1743,in-nal,"join, unite"
+308-53,kunz1244,http://concepticon.clld.org/parameters/1359,ttíc-ku-tur,separate
+308-706,kunz1244,http://concepticon.clld.org/parameters/1156,ckac-ka-tur,open
+308-449,kunz1244,http://concepticon.clld.org/parameters/1156,ckack-tur,open
+308-678,kunz1244,http://concepticon.clld.org/parameters/761,ckosc-ka-tur,cover
+308-553,kunz1244,http://concepticon.clld.org/parameters/602,ckaba-tur,"hide, conceal"
+308-438,kunz1244,http://concepticon.clld.org/parameters/1265,ca-pur,high
+308-774,kunz1244,http://concepticon.clld.org/parameters/1265,ckapur,high
+308-24,kunz1244,http://concepticon.clld.org/parameters/1265,kapur,high
+308-149,kunz1244,http://concepticon.clld.org/parameters/721,ish-cu,low
+308-145,kunz1244,http://concepticon.clld.org/parameters/863,ckoi-yi,edge
+308-69,kunz1244,http://concepticon.clld.org/parameters/682,ckaru,side
+308-143,kunz1244,http://concepticon.clld.org/parameters/1093,ckees,"middle, center"
+308-652,kunz1244,http://concepticon.clld.org/parameters/1019,ckonnir,right (side)
+308-200,kunz1244,http://concepticon.clld.org/parameters/1019,com-pas,right (side)
+308-582,kunz1244,http://concepticon.clld.org/parameters/244,ckaapir,left (side)
+308-764,kunz1244,http://concepticon.clld.org/parameters/244,cka-pir,left (side)
+308-643,kunz1244,http://concepticon.clld.org/parameters/244,ca-pi-ra,left (side)
+308-136,kunz1244,http://concepticon.clld.org/parameters/1942,cko-yu,near (adv)
+308-285,kunz1244,http://concepticon.clld.org/parameters/1942,túckuba,near (adv)
+308-147,kunz1244,http://concepticon.clld.org/parameters/1942,ais-pur-iá,near (adv)
+308-66,kunz1244,http://concepticon.clld.org/parameters/1406,ckeleya,far (adv)
+308-109,kunz1244,http://concepticon.clld.org/parameters/1406,que-le-ya,far (adv)
+308-642,kunz1244,http://concepticon.clld.org/parameters/1877,ckockops,east
+308-395,kunz1244,http://concepticon.clld.org/parameters/1817,atiu,west
+308-137,kunz1244,http://concepticon.clld.org/parameters/1817,ckapiniatin,west
+308-591,kunz1244,http://concepticon.clld.org/parameters/1598,mutups,north
+308-174,kunz1244,http://concepticon.clld.org/parameters/1595,backa-ps,south
+308-493,kunz1244,http://concepticon.clld.org/parameters/479,cka-pa-tur,grow
+308-721,kunz1244,http://concepticon.clld.org/parameters/1202,cka-pur,"large, big"
+308-598,kunz1244,http://concepticon.clld.org/parameters/1246,pe-ni,"small, little"
+308-533,kunz1244,http://concepticon.clld.org/parameters/1246,ckack-tchi,"small, little"
+308-849,kunz1244,http://concepticon.clld.org/parameters/1243,ckackar,"wide, broad"
+308-281,kunz1244,http://concepticon.clld.org/parameters/1243,ckac-kar,"wide, broad"
+308-798,kunz1244,http://concepticon.clld.org/parameters/1267,pickan,narrow
+308-50,kunz1244,http://concepticon.clld.org/parameters/1267,pik'an,narrow
+308-385,kunz1244,http://concepticon.clld.org/parameters/1244,mossi,thick (in dimension)
+308-335,kunz1244,http://concepticon.clld.org/parameters/1244,muray-nir,thick (in dimension)
+308-621,kunz1244,http://concepticon.clld.org/parameters/1400,picka,thin (in dimension)
+308-153,kunz1244,http://concepticon.clld.org/parameters/1400,ttipan,thin (in dimension)
+308-827,kunz1244,http://concepticon.clld.org/parameters/1593,tockol,deep
+308-116,kunz1244,http://concepticon.clld.org/parameters/1593,toc-kor,deep
+308-589,kunz1244,http://concepticon.clld.org/parameters/1593,yokoinar,deep
+308-629,kunz1244,http://concepticon.clld.org/parameters/1633,perai-nir,flat
+308-86,kunz1244,http://concepticon.clld.org/parameters/297,besti,crooked
+308-120,kunz1244,http://concepticon.clld.org/parameters/192,ckutchubí,corner
+308-172,kunz1244,http://concepticon.clld.org/parameters/1395,loy-mur,round
+308-454,kunz1244,http://concepticon.clld.org/parameters/1667,ckas-sa,hole
+308-740,kunz1244,http://concepticon.clld.org/parameters/1667,ckools,hole
+308-823,kunz1244,http://concepticon.clld.org/parameters/1667,ttok-ko,hole
+308-119,kunz1244,http://concepticon.clld.org/parameters/1558,bicki,"like, similar"
+308-529,kunz1244,http://concepticon.clld.org/parameters/1515,semma,one
+308-524,kunz1244,http://concepticon.clld.org/parameters/1515,sem-ma,one
+308-387,kunz1244,http://concepticon.clld.org/parameters/1515,sema,one
+308-91,kunz1244,http://concepticon.clld.org/parameters/1498,ppoya,two
+308-480,kunz1244,http://concepticon.clld.org/parameters/1498,ppo-ya,two
+308-41,kunz1244,http://concepticon.clld.org/parameters/1498,poya,two
+308-497,kunz1244,http://concepticon.clld.org/parameters/492,ppálama,three
+308-750,kunz1244,http://concepticon.clld.org/parameters/492,ppa-la-ma,three
+308-277,kunz1244,http://concepticon.clld.org/parameters/492,pa-la-ma,three
+308-630,kunz1244,http://concepticon.clld.org/parameters/1500,chalpa,four
+308-306,kunz1244,http://concepticon.clld.org/parameters/1500,chchal-pa,four
+308-475,kunz1244,http://concepticon.clld.org/parameters/493,mutusma,five
+308-805,kunz1244,http://concepticon.clld.org/parameters/493,mutzma,five
+308-571,kunz1244,http://concepticon.clld.org/parameters/493,muts-ma,five
+308-60,kunz1244,http://concepticon.clld.org/parameters/1703,mítchala,six
+308-326,kunz1244,http://concepticon.clld.org/parameters/1703,mí-che-lo,six
+308-271,kunz1244,http://concepticon.clld.org/parameters/1704,tchoya,seven
+308-440,kunz1244,http://concepticon.clld.org/parameters/1704,tcho-ya,seven
+308-780,kunz1244,http://concepticon.clld.org/parameters/1705,tchólama,eight
+308-72,kunz1244,http://concepticon.clld.org/parameters/1705,chchó-la-ma,eight
+308-193,kunz1244,http://concepticon.clld.org/parameters/1483,téckara,nine
+308-52,kunz1244,http://concepticon.clld.org/parameters/1483,secara,nine
+308-619,kunz1244,http://concepticon.clld.org/parameters/1483,téker,nine
+308-214,kunz1244,http://concepticon.clld.org/parameters/1515,sutchi,ten
+308-681,kunz1244,http://concepticon.clld.org/parameters/1515,suchita,ten
+308-70,kunz1244,http://concepticon.clld.org/parameters/1515,su-tchi,ten
+308-458,kunz1244,http://concepticon.clld.org/parameters/1706,suchta sema,eleven
+308-757,kunz1244,http://concepticon.clld.org/parameters/1707,suchta ppoya,twelve
+308-545,kunz1244,http://concepticon.clld.org/parameters/1707,suchi poya,twelve
+308-546,kunz1244,http://concepticon.clld.org/parameters/1709,suchita mutusma,fifteen
+308-681,kunz1244,http://concepticon.clld.org/parameters/1710,suchita,twenty
+308-214,kunz1244,http://concepticon.clld.org/parameters/1710,sutchi,twenty
+308-355,kunz1244,http://concepticon.clld.org/parameters/1710,su-chi,twenty
+308-49,kunz1244,http://concepticon.clld.org/parameters/1634,aras sema,hundred
+308-464,kunz1244,http://concepticon.clld.org/parameters/1843,aras suchi,thousand
+308-407,kunz1244,http://concepticon.clld.org/parameters/1198,cke,"much, many"
+308-227,kunz1244,http://concepticon.clld.org/parameters/1198,ho-honar,"much, many"
+308-822,kunz1244,http://concepticon.clld.org/parameters/1198,ho-nar,"much, many"
+308-269,kunz1244,http://concepticon.clld.org/parameters/1992,itchockol,more
+308-443,kunz1244,http://concepticon.clld.org/parameters/1242,itchpur,"little (quantity), few"
+308-293,kunz1244,http://concepticon.clld.org/parameters/1242,it-chu-pur,"little (quantity), few"
+308-471,kunz1244,http://concepticon.clld.org/parameters/1881,in-ti-pur,enough
+308-410,kunz1244,http://concepticon.clld.org/parameters/1429,ke,full
+308-416,kunz1244,http://concepticon.clld.org/parameters/1429,cks,full
+308-526,kunz1244,http://concepticon.clld.org/parameters/1624,húmar,empty
+308-143,kunz1244,http://concepticon.clld.org/parameters/816,ckees,half
+308-653,kunz1244,http://concepticon.clld.org/parameters/1580,nunar,"alone, only"
+308-142,kunz1244,http://concepticon.clld.org/parameters/1580,nun-na,"alone, only"
+308-82,kunz1244,http://concepticon.clld.org/parameters/728,semmu,first
+308-422,kunz1244,http://concepticon.clld.org/parameters/1384,ppoinu,second
+308-551,kunz1244,http://concepticon.clld.org/parameters/1859,ppalantín,third
+308-79,kunz1244,http://concepticon.clld.org/parameters/1231,ckari,new
+308-657,kunz1244,http://concepticon.clld.org/parameters/1231,ca-ri,new
+308-525,kunz1244,http://concepticon.clld.org/parameters/1376,a-nu,now
+308-28,kunz1244,http://concepticon.clld.org/parameters/1376,an-nu,now
+308-755,kunz1244,http://concepticon.clld.org/parameters/1631,je-te-calc-ta,"swift, fast, quick"
+308-168,kunz1244,http://concepticon.clld.org/parameters/701,yabían,slow
+308-460,kunz1244,http://concepticon.clld.org/parameters/1806,cka-ya-ri-tur,"begin, beginning"
+308-342,kunz1244,http://concepticon.clld.org/parameters/1676,ianinckiaré,always
+308-176,kunz1244,http://concepticon.clld.org/parameters/1676,ia-nin-quia-re,always
+308-431,kunz1244,http://concepticon.clld.org/parameters/703,pickum,soon
+308-179,kunz1244,http://concepticon.clld.org/parameters/703,pi-cun,soon
+308-584,kunz1244,http://concepticon.clld.org/parameters/703,pic-ku,soon
+308-437,kunz1244,http://concepticon.clld.org/parameters/1656,ckeleutch-auɲa,never
+308-607,kunz1244,http://concepticon.clld.org/parameters/204,cka-ta-sen-cul,again
+308-579,kunz1244,http://concepticon.clld.org/parameters/1260,ckaapin,day
+308-724,kunz1244,http://concepticon.clld.org/parameters/1260,cap-pin,day
+308-570,kunz1244,http://concepticon.clld.org/parameters/1260,huasina,day
+308-540,kunz1244,http://concepticon.clld.org/parameters/1233,atán,night
+308-801,kunz1244,http://concepticon.clld.org/parameters/1233,tul-tur,night
+308-463,kunz1244,http://concepticon.clld.org/parameters/1233,ttul-ti,night
+308-411,kunz1244,http://concepticon.clld.org/parameters/729,lálackma,dawn
+308-784,kunz1244,http://concepticon.clld.org/parameters/729,ttapian,dawn
+308-716,kunz1244,http://concepticon.clld.org/parameters/12,cko-las,"noon, midday"
+308-453,kunz1244,http://concepticon.clld.org/parameters/1629,tapur,evening
+308-838,kunz1244,http://concepticon.clld.org/parameters/1283,anuckápin,today
+308-28,kunz1244,http://concepticon.clld.org/parameters/1283,an-nu,today
+308-442,kunz1244,http://concepticon.clld.org/parameters/1283,a-nú,today
+308-683,kunz1244,http://concepticon.clld.org/parameters/1329,taipu,tomorrow
+308-370,kunz1244,http://concepticon.clld.org/parameters/1329,tai-po,tomorrow
+308-311,kunz1244,http://concepticon.clld.org/parameters/1179,taipu-ené,day-after-tomorrow
+308-327,kunz1244,http://concepticon.clld.org/parameters/1179,e-né,day-after-tomorrow
+308-427,kunz1244,http://concepticon.clld.org/parameters/1174,habá,yesterday
+308-794,kunz1244,http://concepticon.clld.org/parameters/1174,atta,yesterday
+308-165,kunz1244,http://concepticon.clld.org/parameters/1174,hatta,yesterday
+308-141,kunz1244,http://concepticon.clld.org/parameters/1180,aba-haba,day-before-yesterday
+308-406,kunz1244,http://concepticon.clld.org/parameters/1180,hat-ta-hat-cku,day-before-yesterday
+308-677,kunz1244,http://concepticon.clld.org/parameters/1370,ckamur,month
+308-699,kunz1244,http://concepticon.clld.org/parameters/1370,ca-mur,month
+308-115,kunz1244,http://concepticon.clld.org/parameters/1370,cca-mur,month
+308-841,kunz1244,http://concepticon.clld.org/parameters/1226,cketi,year
+308-401,kunz1244,http://concepticon.clld.org/parameters/1226,quet-ti,year
+308-96,kunz1244,http://concepticon.clld.org/parameters/1471,tse-rar,winter
+308-159,kunz1244,http://concepticon.clld.org/parameters/1587,hui-na-tur,smell (vb intrans)
+308-792,kunz1244,http://concepticon.clld.org/parameters/42,pocknur,"stinking, bad smelling"
+308-577,kunz1244,http://concepticon.clld.org/parameters/21,ckack-na-tur,taste
+308-212,kunz1244,http://concepticon.clld.org/parameters/717,gkachi,sweet
+308-533,kunz1244,http://concepticon.clld.org/parameters/717,ckack-tchi,sweet
+308-14,kunz1244,http://concepticon.clld.org/parameters/1091,ckair,salty
+308-373,kunz1244,http://concepticon.clld.org/parameters/887,ckannai,bitter
+308-496,kunz1244,http://concepticon.clld.org/parameters/887,suntchir,bitter
+308-46,kunz1244,http://concepticon.clld.org/parameters/1408,ye-bi-tur,hear
+308-482,kunz1244,http://concepticon.clld.org/parameters/1608,batc-ka-tur,listen
+308-11,kunz1244,http://concepticon.clld.org/parameters/1409,minck-tur,see
+308-31,kunz1244,http://concepticon.clld.org/parameters/1409,mi-ni-tur,see
+308-778,kunz1244,http://concepticon.clld.org/parameters/1819,lai-pin-tur,"look, look at"
+308-25,kunz1244,http://concepticon.clld.org/parameters/706,seckstchar,dark (in color)
+308-210,kunz1244,http://concepticon.clld.org/parameters/1335,tarar,white
+308-429,kunz1244,http://concepticon.clld.org/parameters/1335,tta-rar,white
+308-6,kunz1244,http://concepticon.clld.org/parameters/1335,ta-ra,white
+308-324,kunz1244,http://concepticon.clld.org/parameters/1335,tatar,white
+308-613,kunz1244,http://concepticon.clld.org/parameters/163,atchi,black
+308-648,kunz1244,http://concepticon.clld.org/parameters/163,haatchi,black
+308-704,kunz1244,http://concepticon.clld.org/parameters/156,lari,red
+308-256,kunz1244,http://concepticon.clld.org/parameters/837,selti,blue
+308-599,kunz1244,http://concepticon.clld.org/parameters/1425,ckaari,green
+308-804,kunz1244,http://concepticon.clld.org/parameters/1424,ckaala,yellow
+308-644,kunz1244,http://concepticon.clld.org/parameters/1892,ya-pa-tur,touch
+308-466,kunz1244,http://concepticon.clld.org/parameters/378,bi-tai-na-tur,pinch
+308-429,kunz1244,http://concepticon.clld.org/parameters/1884,tta-rar,hard
+308-210,kunz1244,http://concepticon.clld.org/parameters/1884,tarar,hard
+308-241,kunz1244,http://concepticon.clld.org/parameters/1856,hulir,soft
+308-761,kunz1244,http://concepticon.clld.org/parameters/1923,ckatchacka,rough
+308-502,kunz1244,http://concepticon.clld.org/parameters/1923,ca-cha-ca,rough
+308-600,kunz1244,http://concepticon.clld.org/parameters/1210,nu-nir,heavy
+308-95,kunz1244,http://concepticon.clld.org/parameters/1210,mu-nir,heavy
+308-514,kunz1244,http://concepticon.clld.org/parameters/1052,leba,light (in weight)
+308-64,kunz1244,http://concepticon.clld.org/parameters/1052,pui-yur,light (in weight)
+308-287,kunz1244,http://concepticon.clld.org/parameters/1726,lac-kar,"wet, damp"
+308-835,kunz1244,http://concepticon.clld.org/parameters/1726,lackar,"wet, damp"
+308-328,kunz1244,http://concepticon.clld.org/parameters/1398,ckein-cha,dry
+308-664,kunz1244,http://concepticon.clld.org/parameters/1286,capi,hot
+308-650,kunz1244,http://concepticon.clld.org/parameters/1286,ttami,hot
+308-255,kunz1244,http://concepticon.clld.org/parameters/1286,ttama,hot
+308-758,kunz1244,http://concepticon.clld.org/parameters/1286,tama,hot
+308-265,kunz1244,http://concepticon.clld.org/parameters/1232,hatur,warm
+308-650,kunz1244,http://concepticon.clld.org/parameters/1232,ttami,warm
+308-758,kunz1244,http://concepticon.clld.org/parameters/1232,tama,warm
+308-567,kunz1244,http://concepticon.clld.org/parameters/1287,serar,cold
+308-818,kunz1244,http://concepticon.clld.org/parameters/1287,teckar,cold
+308-96,kunz1244,http://concepticon.clld.org/parameters/1287,tse-rar,cold
+308-39,kunz1244,http://concepticon.clld.org/parameters/1287,te-car,cold
+308-315,kunz1244,http://concepticon.clld.org/parameters/704,pa-lun-tur,clean
+308-3,kunz1244,http://concepticon.clld.org/parameters/1230,ttanutacke,"dirty, soiled"
+308-300,kunz1244,http://concepticon.clld.org/parameters/1230,tchicka,"dirty, soiled"
+308-568,kunz1244,http://concepticon.clld.org/parameters/1495,coyajne,"joyful, glad, happy"
+308-92,kunz1244,http://concepticon.clld.org/parameters/1355,letch-tur,laugh
+308-30,kunz1244,http://concepticon.clld.org/parameters/1355,les-tur,laugh
+308-397,kunz1244,http://concepticon.clld.org/parameters/1451,tesh-ma,smile
+308-92,kunz1244,http://concepticon.clld.org/parameters/1413,letch-tur,play
+308-646,kunz1244,http://concepticon.clld.org/parameters/923,ckip-tur,love
+308-19,kunz1244,http://concepticon.clld.org/parameters/923,tchi-tac-kan-tur,love
+308-777,kunz1244,http://concepticon.clld.org/parameters/578,ckist-cha-tur,kiss
+308-703,kunz1244,http://concepticon.clld.org/parameters/578,qui-se-ha-ma,kiss
+308-33,kunz1244,http://concepticon.clld.org/parameters/928,lab-un-tur,embrace
+308-665,kunz1244,http://concepticon.clld.org/parameters/1783,tchánima,pain
+308-447,kunz1244,http://concepticon.clld.org/parameters/1783,tcha-tur,pain
+308-348,kunz1244,http://concepticon.clld.org/parameters/1668,tchá-ni-ma,"grief, sorrow, sadness"
+308-219,kunz1244,http://concepticon.clld.org/parameters/1839,ckeu-tur,"cry, weep"
+308-196,kunz1244,http://concepticon.clld.org/parameters/1839,queu-ma,"cry, weep"
+308-282,kunz1244,http://concepticon.clld.org/parameters/1651,ckepipui,tear (noun)
+308-518,kunz1244,http://concepticon.clld.org/parameters/1607,ckois-tur,hate
+308-738,kunz1244,http://concepticon.clld.org/parameters/1607,ckoicks-tur,hate
+308-698,kunz1244,http://concepticon.clld.org/parameters/1607,coys-ma,hate
+308-4,kunz1244,http://concepticon.clld.org/parameters/1776,haick-tur,shame (noun)
+308-309,kunz1244,http://concepticon.clld.org/parameters/781,cko-na-tur,"fear, fright"
+308-55,kunz1244,http://concepticon.clld.org/parameters/781,cku-na-tur,"fear, fright"
+308-80,kunz1244,http://concepticon.clld.org/parameters/1657,ckorinta,true
+308-54,kunz1244,http://concepticon.clld.org/parameters/1657,cko-rin,true
+308-297,kunz1244,http://concepticon.clld.org/parameters/1657,quél-char,true
+308-692,kunz1244,http://concepticon.clld.org/parameters/601,hee-la-ta,"lie, tell lies"
+308-113,kunz1244,http://concepticon.clld.org/parameters/601,hel-la,"lie, tell lies"
+308-620,kunz1244,http://concepticon.clld.org/parameters/601,se-li-ma,"lie, tell lies"
+308-533,kunz1244,http://concepticon.clld.org/parameters/1035,ckack-tchi,good
+308-20,kunz1244,http://concepticon.clld.org/parameters/1035,cayáhia,good
+308-737,kunz1244,http://concepticon.clld.org/parameters/1035,khaya,good
+308-487,kunz1244,http://concepticon.clld.org/parameters/1292,hualcher,bad
+308-208,kunz1244,http://concepticon.clld.org/parameters/1292,bal-tchar,bad
+308-720,kunz1244,http://concepticon.clld.org/parameters/1292,válchar,bad
+308-516,kunz1244,http://concepticon.clld.org/parameters/1427,nintchicks,beautiful
+308-836,kunz1244,http://concepticon.clld.org/parameters/1427,nin-chies,beautiful
+308-616,kunz1244,http://concepticon.clld.org/parameters/1427,michc-si,beautiful
+308-631,kunz1244,http://concepticon.clld.org/parameters/1548,itchansicks,ugly
+308-78,kunz1244,http://concepticon.clld.org/parameters/2018,ckanascka,greedy
+308-444,kunz1244,http://concepticon.clld.org/parameters/1536,hayps-ckun-tur,understand
+308-847,kunz1244,http://concepticon.clld.org/parameters/1410,ttu-ick-tur,know
+308-700,kunz1244,http://concepticon.clld.org/parameters/117,paarck-tur,imitate
+308-436,kunz1244,http://concepticon.clld.org/parameters/117,palck-tur,imitate
+308-670,kunz1244,http://concepticon.clld.org/parameters/1518,baɲuncki,"foolish, stupid"
+308-428,kunz1244,http://concepticon.clld.org/parameters/1518,hurma,"foolish, stupid"
+308-517,kunz1244,http://concepticon.clld.org/parameters/1518,lack-tul-va,"foolish, stupid"
+308-10,kunz1244,http://concepticon.clld.org/parameters/504,hay-may-tier,learn
+308-161,kunz1244,http://concepticon.clld.org/parameters/1929,he-rab-un-tur,study
+308-19,kunz1244,http://concepticon.clld.org/parameters/707,tchi-tac-kan-tur,remember
+308-346,kunz1244,http://concepticon.clld.org/parameters/1523,ckoi-ma-tur,forget
+308-123,kunz1244,http://concepticon.clld.org/parameters/1268,iquiaré,"yes, affirmative"
+308-745,kunz1244,http://concepticon.clld.org/parameters/1268,bé,"yes, affirmative"
+308-485,kunz1244,http://concepticon.clld.org/parameters/1269,ackanu,"no, negative"
+308-833,kunz1244,http://concepticon.clld.org/parameters/1269,sic-kin,"no, negative"
+308-536,kunz1244,http://concepticon.clld.org/parameters/1269,sicanu,"no, negative"
+308-12,kunz1244,http://concepticon.clld.org/parameters/1236,irintacku,what?
+308-160,kunz1244,http://concepticon.clld.org/parameters/1238,pinch-có,when?
+308-213,kunz1244,http://concepticon.clld.org/parameters/1238,pin-tchick,when?
+308-345,kunz1244,http://concepticon.clld.org/parameters/1237,entickiá,where?
+308-741,kunz1244,http://concepticon.clld.org/parameters/1237,antiquiá,where?
+308-182,kunz1244,http://concepticon.clld.org/parameters/727,itquiquiá,which?
+308-707,kunz1244,http://concepticon.clld.org/parameters/1235,iticku,who?
+308-224,kunz1244,http://concepticon.clld.org/parameters/1235,itiquiá,who?
+308-788,kunz1244,http://concepticon.clld.org/parameters/1235,itic,who?
+308-809,kunz1244,http://concepticon.clld.org/parameters/1363,ckoi,voice
+308-403,kunz1244,http://concepticon.clld.org/parameters/1261,herck-tur,sing
+308-760,kunz1244,http://concepticon.clld.org/parameters/715,ttac-ka-tur,"shout, cry out"
+308-715,kunz1244,http://concepticon.clld.org/parameters/715,stac-ka-tur,"shout, cry out"
+308-26,kunz1244,http://concepticon.clld.org/parameters/1025,ckúc-kun-tur,whistle
+308-163,kunz1244,http://concepticon.clld.org/parameters/1623,yoc-kon-tur,"speak, talk"
+308-59,kunz1244,http://concepticon.clld.org/parameters/1623,yoc-on-tur,"speak, talk"
+308-40,kunz1244,http://concepticon.clld.org/parameters/1458,ham-ma-tur,say
+308-359,kunz1244,http://concepticon.clld.org/parameters/1458,nib-tur,say
+308-562,kunz1244,http://concepticon.clld.org/parameters/1711,tchip-na-tur,tell story
+308-586,kunz1244,http://concepticon.clld.org/parameters/1405,tchei,name
+308-735,kunz1244,http://concepticon.clld.org/parameters/1405,yaclo,name
+308-148,kunz1244,http://concepticon.clld.org/parameters/1309,he-bi-tur,"ask (question, inquire)"
+308-292,kunz1244,http://concepticon.clld.org/parameters/1275,ckol-back-tur,answer
+308-9,kunz1244,http://concepticon.clld.org/parameters/1828,tí-si-tur,"ask, request"
+308-84,kunz1244,http://concepticon.clld.org/parameters/299,ckap-cki-tur,"rebuke, scold"
+308-243,kunz1244,http://concepticon.clld.org/parameters/1084,cka-tur,call (=summon)
+308-122,kunz1244,http://concepticon.clld.org/parameters/1300,lickana,country
+308-374,kunz1244,http://concepticon.clld.org/parameters/1300,lic-ka-na,country
+308-251,kunz1244,http://concepticon.clld.org/parameters/1300,li-can,country
+308-122,kunz1244,http://concepticon.clld.org/parameters/89,lickana,one's native country
+308-531,kunz1244,http://concepticon.clld.org/parameters/1391,liken,"city, town"
+308-366,kunz1244,http://concepticon.clld.org/parameters/1391,lican,"city, town"
+308-826,kunz1244,http://concepticon.clld.org/parameters/1391,lickan,"city, town"
+308-43,kunz1244,http://concepticon.clld.org/parameters/930,lickan itchckai,village
+308-151,kunz1244,http://concepticon.clld.org/parameters/930,lican ichcai,village
+308-112,kunz1244,http://concepticon.clld.org/parameters/789,ckonti,people (populace)
+308-659,kunz1244,http://concepticon.clld.org/parameters/789,ckonte,people (populace)
+308-360,kunz1244,http://concepticon.clld.org/parameters/789,ckonnti,people (populace)
+308-414,kunz1244,http://concepticon.clld.org/parameters/1296,hackamur,"staff, walking stick"
+308-812,kunz1244,http://concepticon.clld.org/parameters/1296,ha-cau-mur,"staff, walking stick"
+308-63,kunz1244,http://concepticon.clld.org/parameters/1296,haccumur,"staff, walking stick"
+308-138,kunz1244,http://concepticon.clld.org/parameters/1128,huc-kru-tur,"command, order"
+308-558,kunz1244,http://concepticon.clld.org/parameters/1897,ye-na-pa-tur,"help, aid"
+308-388,kunz1244,http://concepticon.clld.org/parameters/1423,cki-i-tur,fight (vb)
+308-421,kunz1244,http://concepticon.clld.org/parameters/1338,tecumtansi,peace
+308-103,kunz1244,http://concepticon.clld.org/parameters/387,sippur,sling
+308-48,kunz1244,http://concepticon.clld.org/parameters/387,sip-pur,sling
+308-317,kunz1244,http://concepticon.clld.org/parameters/387,si-pur,sling
+308-301,kunz1244,http://concepticon.clld.org/parameters/1172,tchorck-tur,shoot
+308-727,kunz1244,http://concepticon.clld.org/parameters/713,tcha-pa-tur,steal
+308-638,kunz1244,http://concepticon.clld.org/parameters/713,tcha-pu-tur,steal
+308-594,kunz1244,http://concepticon.clld.org/parameters/1160,tchapuckar,thief
+308-419,kunz1244,http://concepticon.clld.org/parameters/1160,tcha-puc-kar,thief
+308-576,kunz1244,http://concepticon.clld.org/parameters/1944,ca-pim,God
+308-391,kunz1244,http://concepticon.clld.org/parameters/1973,cun-san-ta,demon (evil spirit)
+308-118,kunz1244,http://concepticon.clld.org/parameters/2138,ckoi-man,"fairy, elf"

@@ -1,0 +1,793 @@
+ID,Language_ID,Feature_ID,Value,Concept
+247-167,nort2972,http://concepticon.clld.org/parameters/965,ẽhũ'a,world
+247-530,nort2972,http://concepticon.clld.org/parameters/626,'drua,"earth, land"
+247-97,nort2972,http://concepticon.clld.org/parameters/1228,ego'ro,"earth=ground, soil"
+247-633,nort2972,http://concepticon.clld.org/parameters/640,ego'ro-ɓa,mud
+247-249,nort2972,http://concepticon.clld.org/parameters/671,ĩ'bɨ,sand
+247-66,nort2972,http://concepticon.clld.org/parameters/2118,e'ya,"mountain, hill"
+247-403,nort2972,http://concepticon.clld.org/parameters/652,hewe'ɗa,"plain, field"
+247-40,nort2972,http://concepticon.clld.org/parameters/622,do-'du,island
+247-277,nort2972,http://concepticon.clld.org/parameters/113,do-ika'wa,shore
+247-234,nort2972,http://concepticon.clld.org/parameters/1155,u'ria,cave
+247-573,nort2972,http://concepticon.clld.org/parameters/948,'bai-do,water
+247-588,nort2972,http://concepticon.clld.org/parameters/1474,pu'sa,sea
+247-588,nort2972,http://concepticon.clld.org/parameters/645,pu'sa,ocean
+247-96,nort2972,http://concepticon.clld.org/parameters/624,ame'ne,lake
+247-96,nort2972,http://concepticon.clld.org/parameters/623,ame'ne,lagoon
+247-66,nort2972,http://concepticon.clld.org/parameters/1662,e'ya,"headland, point"
+247-495,nort2972,http://concepticon.clld.org/parameters/891,bi'ru,tide
+247-133,nort2972,http://concepticon.clld.org/parameters/666,do,"river, stream, brook"
+247-594,nort2972,http://concepticon.clld.org/parameters/1982,do-pu'r̃a-dru,whirlpool
+247-292,nort2972,http://concepticon.clld.org/parameters/2144,do-či'wa,"spring, well"
+247-633,nort2972,http://concepticon.clld.org/parameters/1145,ego'ro-ɓa,swamp
+247-141,nort2972,http://concepticon.clld.org/parameters/943,kõbi'rãda,waterfall
+247-65,nort2972,http://concepticon.clld.org/parameters/420,mea,"woods, forest"
+247-363,nort2972,http://concepticon.clld.org/parameters/906,baku'ru,tree (cf 08.600)
+247-363,nort2972,http://concepticon.clld.org/parameters/1803,baku'ru,wood
+247-117,nort2972,http://concepticon.clld.org/parameters/2125,mõga'ra,"stone, rock"
+247-308,nort2972,http://concepticon.clld.org/parameters/6,u're-mia,earthquake
+247-89,nort2972,http://concepticon.clld.org/parameters/1732,ba-'hã,sky
+247-454,nort2972,http://concepticon.clld.org/parameters/1343,u'mã-dau,sun
+247-617,nort2972,http://concepticon.clld.org/parameters/1313,he'ɗeko,moon
+247-346,nort2972,http://concepticon.clld.org/parameters/1430,'čĩ-dau,star
+247-389,nort2972,http://concepticon.clld.org/parameters/1654,ba-pu'rea,lightning
+247-581,nort2972,http://concepticon.clld.org/parameters/1150,ba,thunder
+247-43,nort2972,http://concepticon.clld.org/parameters/1733,'euma,rainbow
+247-391,nort2972,http://concepticon.clld.org/parameters/1388,kũrã'sa,"shade, shadow"
+247-166,nort2972,http://concepticon.clld.org/parameters/960,nãũ,wind
+247-479,nort2972,http://concepticon.clld.org/parameters/1489,hɨ̃rã'rã,cloud
+247-62,nort2972,http://concepticon.clld.org/parameters/658,kue,rain (noun)
+247-150,nort2972,http://concepticon.clld.org/parameters/221,pu'rea,fire
+247-607,nort2972,http://concepticon.clld.org/parameters/889,pure'a,flame (noun)
+247-23,nort2972,http://concepticon.clld.org/parameters/778,nã'rĩ,smoke (noun)
+247-535,nort2972,http://concepticon.clld.org/parameters/646,ita'r̃a-ɓa,ashes
+247-388,nort2972,http://concepticon.clld.org/parameters/141,ba-,burn (vb trans)
+247-388,nort2972,http://concepticon.clld.org/parameters/1428,ba-,burn (vb intrans)
+247-453,nort2972,http://concepticon.clld.org/parameters/737,u'rua-,"light, kindle, ignite"
+247-489,nort2972,http://concepticon.clld.org/parameters/127,ki-,extinguish
+247-666,nort2972,http://concepticon.clld.org/parameters/1133,['posporo],match (noun)
+247-281,nort2972,http://concepticon.clld.org/parameters/10,tɨ'bɨ,firewood
+247-445,nort2972,http://concepticon.clld.org/parameters/1188,oki'kina,charcoal
+247-355,nort2972,http://concepticon.clld.org/parameters/683,ẽbe'ra,"person, human being"
+247-27,nort2972,http://concepticon.clld.org/parameters/1554,'makira,man (vs. woman)
+247-439,nort2972,http://concepticon.clld.org/parameters/962,ũ'ẽrã,woman
+247-27,nort2972,http://concepticon.clld.org/parameters/2263,'makira,male
+247-439,nort2972,http://concepticon.clld.org/parameters/2260,ũ'ẽrã,female
+247-349,nort2972,http://concepticon.clld.org/parameters/1366,o'ar̃a,boy
+247-6,nort2972,http://concepticon.clld.org/parameters/76,'kũdra,young man (adolescent)
+247-353,nort2972,http://concepticon.clld.org/parameters/1646,kau,girl
+247-602,nort2972,http://concepticon.clld.org/parameters/77,'a-ũẽrã,young woman (adolescent)
+247-119,nort2972,http://concepticon.clld.org/parameters/1289,õ'ãõã,"infant, baby"
+247-61,nort2972,http://concepticon.clld.org/parameters/1200,ki'ma,husband
+247-61,nort2972,http://concepticon.clld.org/parameters/1199,ki'ma,wife
+247-436,nort2972,http://concepticon.clld.org/parameters/203,ki'ma-e'da-,marry
+247-242,nort2972,http://concepticon.clld.org/parameters/1134,a'mã-,divorce
+247-448,nort2972,http://concepticon.clld.org/parameters/1217,'zeze,father
+247-298,nort2972,http://concepticon.clld.org/parameters/1216,'papa,mother
+247-349,nort2972,http://concepticon.clld.org/parameters/1620,o'ar̃a,son
+247-353,nort2972,http://concepticon.clld.org/parameters/1357,kau,daughter
+247-115,nort2972,http://concepticon.clld.org/parameters/1262,ǰa'ba,brother
+247-524,nort2972,http://concepticon.clld.org/parameters/1759,ǰa'ba nã-be'ma,older brother
+247-635,nort2972,http://concepticon.clld.org/parameters/1760,ǰa'ba tẽã-be'ma,younger brother
+247-674,nort2972,http://concepticon.clld.org/parameters/1263,ǰa'ba ũ'ẽrã,sister
+247-604,nort2972,http://concepticon.clld.org/parameters/1758,ǰa'ba ũ'ẽrã nã-be'ma,older sister
+247-456,nort2972,http://concepticon.clld.org/parameters/1761,ǰa'ba ũ'ẽrã tẽã-be'ma,younger sister
+247-115,nort2972,http://concepticon.clld.org/parameters/1640,ǰa'ba,sibling
+247-572,nort2972,http://concepticon.clld.org/parameters/1005,[mi'giso],twins
+247-654,nort2972,http://concepticon.clld.org/parameters/1383,'zeze-'zrõã,grandfather
+247-33,nort2972,http://concepticon.clld.org/parameters/406,'zrõã,old man
+247-192,nort2972,http://concepticon.clld.org/parameters/1496,'papa-'ǰora,grandmother
+247-188,nort2972,http://concepticon.clld.org/parameters/907,'ǰora,old woman
+247-370,nort2972,http://concepticon.clld.org/parameters/1618,wiw-'zake,grandson
+247-396,nort2972,http://concepticon.clld.org/parameters/1619,ãĩ-'zake,granddaughter
+247-33,nort2972,http://concepticon.clld.org/parameters/1327,'zrõã,uncle
+247-33,nort2972,http://concepticon.clld.org/parameters/1984,'zrõã,mother's brother
+247-33,nort2972,http://concepticon.clld.org/parameters/1985,'zrõã,father's brother
+247-163,nort2972,http://concepticon.clld.org/parameters/1272,a'pipi,aunt
+247-163,nort2972,http://concepticon.clld.org/parameters/171,a'pipi,mother's sister
+247-163,nort2972,http://concepticon.clld.org/parameters/170,a'pipi,father's sister
+247-119,nort2972,http://concepticon.clld.org/parameters/1063,õ'ãõã,nephew
+247-470,nort2972,http://concepticon.clld.org/parameters/1642,hẽ'rãmãrã,niece
+247-151,nort2972,http://concepticon.clld.org/parameters/1643,'ǰaba-kau,cousin
+247-244,nort2972,http://concepticon.clld.org/parameters/1669,'zrõã-rã,ancestors
+247-472,nort2972,http://concepticon.clld.org/parameters/490,o'ar̃a-rã,descendants
+247-497,nort2972,http://concepticon.clld.org/parameters/2255,'zãwãrẽ,father-in-law (of a man)
+247-437,nort2972,http://concepticon.clld.org/parameters/2254,'meme,father-in-law (of a woman)
+247-105,nort2972,http://concepticon.clld.org/parameters/2256,pãko're,mother-in-law (of a man)
+247-105,nort2972,http://concepticon.clld.org/parameters/2257,pãko're,mother-in-law (of a woman)
+247-90,nort2972,http://concepticon.clld.org/parameters/2267,wiw,son-in-law (of a man)
+247-15,nort2972,http://concepticon.clld.org/parameters/2267,wi'gu,son-in-law (of a man)
+247-90,nort2972,http://concepticon.clld.org/parameters/2266,wiw,son-in-law (of a woman)
+247-15,nort2972,http://concepticon.clld.org/parameters/2266,wi'gu,son-in-law (of a woman)
+247-467,nort2972,http://concepticon.clld.org/parameters/2265,ãĩ'gu,daughter-in-law (of a man)
+247-467,nort2972,http://concepticon.clld.org/parameters/2264,ãĩ'gu,daughter-in-law (of a woman)
+247-526,nort2972,http://concepticon.clld.org/parameters/237,'zeze-kau,stepfather
+247-509,nort2972,http://concepticon.clld.org/parameters/236,'papa-kau,stepmother
+247-191,nort2972,http://concepticon.clld.org/parameters/1059,o'ar̃a-kau,stepson
+247-28,nort2972,http://concepticon.clld.org/parameters/1058,kau-kau,stepdaughter
+247-470,nort2972,http://concepticon.clld.org/parameters/1149,hẽ'rãmãrã,orphan
+247-93,nort2972,http://concepticon.clld.org/parameters/1756,'pẽdra,widow
+247-93,nort2972,http://concepticon.clld.org/parameters/1981,'pẽdra,widower
+247-621,nort2972,http://concepticon.clld.org/parameters/1644,'ǰaba-kau-rã,"relatives, kinsmen"
+247-302,nort2972,http://concepticon.clld.org/parameters/194,[pa'milia],family
+247-600,nort2972,http://concepticon.clld.org/parameters/1209,mɨ̃,I
+247-433,nort2972,http://concepticon.clld.org/parameters/1215,bɨ,you (singular)
+247-610,nort2972,http://concepticon.clld.org/parameters/262,'iǰi,he/she/it
+247-203,nort2972,http://concepticon.clld.org/parameters/262,'iru,he/she/it
+247-207,nort2972,http://concepticon.clld.org/parameters/1212,dai,we
+247-37,nort2972,http://concepticon.clld.org/parameters/1213,mã'ǰi,you (plural)
+247-82,nort2972,http://concepticon.clld.org/parameters/1213,mã'rã,you (plural)
+247-299,nort2972,http://concepticon.clld.org/parameters/817,ã'ǰa,they
+247-364,nort2972,http://concepticon.clld.org/parameters/817,ã'rã,they
+247-198,nort2972,http://concepticon.clld.org/parameters/619,[ani'mãrã],animal
+247-27,nort2972,http://concepticon.clld.org/parameters/2261,'makira,male (adj)
+247-439,nort2972,http://concepticon.clld.org/parameters/2262,ũ'ẽrã,female (adj)
+247-10,nort2972,http://concepticon.clld.org/parameters/851,[ko'r̃a],"stable, stall"
+247-120,nort2972,http://concepticon.clld.org/parameters/1153,[pa'ka],cattle (bovine)
+247-120,nort2972,http://concepticon.clld.org/parameters/1008,[pa'ka],bull
+247-120,nort2972,http://concepticon.clld.org/parameters/1169,[pa'ka],ox
+247-120,nort2972,http://concepticon.clld.org/parameters/1007,[pa'ka],cow
+247-196,nort2972,http://concepticon.clld.org/parameters/1989,[pa'ka]-oar̃a,calf
+247-496,nort2972,http://concepticon.clld.org/parameters/1348,['čina]-'makira,boar
+247-332,nort2972,http://concepticon.clld.org/parameters/1351,['čina]-ũ'ẽra,sow (2)
+247-127,nort2972,http://concepticon.clld.org/parameters/1337,['čina],pig
+247-540,nort2972,http://concepticon.clld.org/parameters/615,[ka'wayo],horse (equine)
+247-519,nort2972,http://concepticon.clld.org/parameters/936,[ka'wayo]-'makira,stallion
+247-283,nort2972,http://concepticon.clld.org/parameters/938,[ka'wayo]-ũ'ẽrã,mare
+247-126,nort2972,http://concepticon.clld.org/parameters/1647,[ka'wayo]-o'ar̃a,"foal, colt"
+247-176,nort2972,http://concepticon.clld.org/parameters/890,['mura],mule
+247-570,nort2972,http://concepticon.clld.org/parameters/1511,ete'r̃e-'makira,"cock, rooster"
+247-542,nort2972,http://concepticon.clld.org/parameters/1514,ete'r̃e-ũ'ẽrã,hen
+247-317,nort2972,http://concepticon.clld.org/parameters/1318,ete'r̃e-'zake,chicken
+247-231,nort2972,http://concepticon.clld.org/parameters/1360,[pa'tu],duck
+247-173,nort2972,http://concepticon.clld.org/parameters/539,ĩ-ba'na-de,nest
+247-50,nort2972,http://concepticon.clld.org/parameters/937,ĩ-ba'na,bird
+247-88,nort2972,http://concepticon.clld.org/parameters/758,'dowa,heron
+247-31,nort2972,http://concepticon.clld.org/parameters/1905,he'umia-ho,eagle
+247-271,nort2972,http://concepticon.clld.org/parameters/307,'ne-ho-ɓɨ,hawk
+247-565,nort2972,http://concepticon.clld.org/parameters/1185,ãko'so,vulture
+247-386,nort2972,http://concepticon.clld.org/parameters/1793,ĩ'ka,bat
+247-53,nort2972,http://concepticon.clld.org/parameters/1793,ku'rũ'gu,bat
+247-544,nort2972,http://concepticon.clld.org/parameters/882,ka're,parrot
+247-480,nort2972,http://concepticon.clld.org/parameters/913,hiohi'o,crow
+247-241,nort2972,http://concepticon.clld.org/parameters/1853,'uma,dove
+247-59,nort2972,http://concepticon.clld.org/parameters/735,bõ'bõrã,owl
+247-14,nort2972,http://concepticon.clld.org/parameters/2009,u'sa,dog
+247-333,nort2972,http://concepticon.clld.org/parameters/1208,['misi],cat
+247-675,nort2972,http://concepticon.clld.org/parameters/309,bõsã'ĩ,opossum
+247-123,nort2972,http://concepticon.clld.org/parameters/2139,'suri,"mouse, rat"
+247-500,nort2972,http://concepticon.clld.org/parameters/2139,['r̃ata],"mouse, rat"
+247-636,nort2972,http://concepticon.clld.org/parameters/227,ɓe'da,fish
+247-310,nort2972,http://concepticon.clld.org/parameters/213,ɓe'da-i,fin (dorsal)
+247-563,nort2972,http://concepticon.clld.org/parameters/266,ɓe'da-ka'ra,fishscale
+247-663,nort2972,http://concepticon.clld.org/parameters/1916,uri'gi,gill
+247-7,nort2972,http://concepticon.clld.org/parameters/598,-e,shell
+247-634,nort2972,http://concepticon.clld.org/parameters/1910,drũ,stingray
+247-147,nort2972,http://concepticon.clld.org/parameters/1013,tui'na,freshwater eel
+247-596,nort2972,http://concepticon.clld.org/parameters/1386,ima'ma-pu'r̃u,lion
+247-625,nort2972,http://concepticon.clld.org/parameters/1820,ui,bear
+247-214,nort2972,http://concepticon.clld.org/parameters/1936,ɓe'gi,deer
+247-51,nort2972,http://concepticon.clld.org/parameters/310,tɨ̃,louse
+247-523,nort2972,http://concepticon.clld.org/parameters/267,tɨ̃-ɨ̃'mɨ̃,nit (louse egg)
+247-380,nort2972,http://concepticon.clld.org/parameters/232,u'sa-tɨ̃,flea
+247-279,nort2972,http://concepticon.clld.org/parameters/1974,i-ɓa-'do-mia,centipede
+247-468,nort2972,http://concepticon.clld.org/parameters/1538,dɨ̃rsõ'rẽ,scorpion
+247-599,nort2972,http://concepticon.clld.org/parameters/1575,kẽbe'r̃e,cockroach
+247-264,nort2972,http://concepticon.clld.org/parameters/843,bɨgɨ'rɨ,spider
+247-473,nort2972,http://concepticon.clld.org/parameters/1065,bɨgɨ'rɨ-hi'ra-ɓa,spider web
+247-466,nort2972,http://concepticon.clld.org/parameters/665,ke'mi,bee
+247-424,nort2972,http://concepticon.clld.org/parameters/1931,kãdo'r̃ona,beeswax
+247-368,nort2972,http://concepticon.clld.org/parameters/88,ke'mi-de,beehive
+247-409,nort2972,http://concepticon.clld.org/parameters/1517,'nẽ-dɨr̃ɨ,wasp
+247-305,nort2972,http://concepticon.clld.org/parameters/1504,a'ho-mia,fly
+247-432,nort2972,http://concepticon.clld.org/parameters/95,po-'či-dau,"sandfly (midge), gnat"
+247-677,nort2972,http://concepticon.clld.org/parameters/1509,he'hena,mosquito
+247-609,nort2972,http://concepticon.clld.org/parameters/1219,moki'ta,worm
+247-74,nort2972,http://concepticon.clld.org/parameters/730,da'ma,snake
+247-346,nort2972,http://concepticon.clld.org/parameters/206,'čĩ-dau,firefly
+247-555,nort2972,http://concepticon.clld.org/parameters/206,kãĩ-'kãĩ,firefly
+247-589,nort2972,http://concepticon.clld.org/parameters/1791,ba'ga-baga,butterfly
+247-3,nort2972,http://concepticon.clld.org/parameters/607,a'ɗičiči,grasshopper
+247-179,nort2972,http://concepticon.clld.org/parameters/1543,koro'go,snail
+247-631,nort2972,http://concepticon.clld.org/parameters/503,bau'ba,frog
+247-102,nort2972,http://concepticon.clld.org/parameters/632,bese-bese-'ka-mia,lizard
+247-630,nort2972,http://concepticon.clld.org/parameters/1857,ko're,"crocodile, alligator"
+247-645,nort2972,http://concepticon.clld.org/parameters/112,čiɓi'gi,turtle
+247-199,nort2972,http://concepticon.clld.org/parameters/1480,kaku'a,body
+247-7,nort2972,http://concepticon.clld.org/parameters/763,-e,"skin, hide"
+247-478,nort2972,http://concepticon.clld.org/parameters/2259,ǰa'ra,flesh
+247-412,nort2972,http://concepticon.clld.org/parameters/1040,bu'ɗa,hair (head)
+247-345,nort2972,http://concepticon.clld.org/parameters/678,i-ka'ra,beard
+247-175,nort2972,http://concepticon.clld.org/parameters/189,kakua-ka'ra,body hair
+247-669,nort2972,http://concepticon.clld.org/parameters/36,me-ka'ra,pubic hair
+247-63,nort2972,http://concepticon.clld.org/parameters/36,kẽ-ka'ra,pubic hair
+247-189,nort2972,http://concepticon.clld.org/parameters/576,bo'ro-hai'gua,dandruff
+247-590,nort2972,http://concepticon.clld.org/parameters/946,oa,blood
+247-387,nort2972,http://concepticon.clld.org/parameters/525,kẽ'gu,"vein, artery"
+247-620,nort2972,http://concepticon.clld.org/parameters/1394,bɨuɨ'rɨ,bone
+247-347,nort2972,http://concepticon.clld.org/parameters/801,o'r̃o-bɨuɨ'rɨ,rib
+247-297,nort2972,http://concepticon.clld.org/parameters/1393,['kaču],horn
+247-76,nort2972,http://concepticon.clld.org/parameters/1220,dru,tail
+247-201,nort2972,http://concepticon.clld.org/parameters/1291,eka'r̃a,back
+247-459,nort2972,http://concepticon.clld.org/parameters/805,esɨ'gɨ,spine
+247-98,nort2972,http://concepticon.clld.org/parameters/1256,bo'ro,head
+247-94,nort2972,http://concepticon.clld.org/parameters/1604,'datru,"side of head, temple"
+247-248,nort2972,http://concepticon.clld.org/parameters/1605,bo'ro-bɨuɨ'rɨ,skull
+247-390,nort2972,http://concepticon.clld.org/parameters/1583,boro-mo'r̃o,brain
+247-257,nort2972,http://concepticon.clld.org/parameters/1560,kĩ'rã,face
+247-94,nort2972,http://concepticon.clld.org/parameters/123,'datru,forehead
+247-186,nort2972,http://concepticon.clld.org/parameters/1730,kĩ'rã-dar̃a,cheek
+247-220,nort2972,http://concepticon.clld.org/parameters/1510,ki'da-tru,chin
+247-210,nort2972,http://concepticon.clld.org/parameters/1248,dau,eye
+247-582,nort2972,http://concepticon.clld.org/parameters/1173,dratu-ka'ra,eyebrow
+247-247,nort2972,http://concepticon.clld.org/parameters/17,dau-i,eyelid
+247-146,nort2972,http://concepticon.clld.org/parameters/1540,dau-ka'ra,eyelash
+247-431,nort2972,http://concepticon.clld.org/parameters/1655,dau-pika-pi'ka,blink
+247-375,nort2972,http://concepticon.clld.org/parameters/1247,kɨuɨ'rɨ,ear
+247-611,nort2972,http://concepticon.clld.org/parameters/18,kɨuɨ'rɨ-amu'ɲa,earlobe
+247-350,nort2972,http://concepticon.clld.org/parameters/32,kɨuɨ'rɨ-mo'r̃o,earwax
+247-124,nort2972,http://concepticon.clld.org/parameters/1221,kẽ'bɨ,nose
+247-482,nort2972,http://concepticon.clld.org/parameters/1178,kẽ'bɨ-u'ria,nostril
+247-662,nort2972,http://concepticon.clld.org/parameters/208,kẽ'bɨ-mo'r̃o,mucus (nasal)
+247-144,nort2972,http://concepticon.clld.org/parameters/674,ita'e,mouth
+247-427,nort2972,http://concepticon.clld.org/parameters/73,ki'ɗa,beak
+247-153,nort2972,http://concepticon.clld.org/parameters/478,i-pu'ru-ka,lip
+247-463,nort2972,http://concepticon.clld.org/parameters/1205,kĩ'rã-me,tongue
+247-427,nort2972,http://concepticon.clld.org/parameters/1380,ki'ɗa,tooth
+247-579,nort2972,http://concepticon.clld.org/parameters/139,ki'ɗa-ka'r̃a,gums
+247-319,nort2972,http://concepticon.clld.org/parameters/1049,ki'ɗa-mo'r̃o,molartooth
+247-238,nort2972,http://concepticon.clld.org/parameters/1333,o-či'ru,neck
+247-259,nort2972,http://concepticon.clld.org/parameters/1347,ɨ̃rɨ̃mi'si,nape of neck
+247-238,nort2972,http://concepticon.clld.org/parameters/1346,o-či'ru,throat
+247-642,nort2972,http://concepticon.clld.org/parameters/1482,iki'a,shoulder
+247-366,nort2972,http://concepticon.clld.org/parameters/172,[paleta],shoulderblade
+247-512,nort2972,http://concepticon.clld.org/parameters/1994,[o-ku'ruso],collarbone
+247-357,nort2972,http://concepticon.clld.org/parameters/1673,hɨu'a,arm
+247-26,nort2972,http://concepticon.clld.org/parameters/1886,esu'su,armpit
+247-365,nort2972,http://concepticon.clld.org/parameters/981,ãbika'ka,elbow
+247-488,nort2972,http://concepticon.clld.org/parameters/799,hɨu'a-koro'go,wrist
+247-357,nort2972,http://concepticon.clld.org/parameters/1277,hɨu'a,hand
+247-486,nort2972,http://concepticon.clld.org/parameters/1183,hɨu'a-hã,palm of hand
+247-401,nort2972,http://concepticon.clld.org/parameters/1781,hɨu'a-papa,thumb
+247-532,nort2972,http://concepticon.clld.org/parameters/1258,hɨu'a-biči'wi,fingernail
+247-52,nort2972,http://concepticon.clld.org/parameters/72,biči'wi,claw
+247-371,nort2972,http://concepticon.clld.org/parameters/1297,hẽ'rũ,leg
+247-421,nort2972,http://concepticon.clld.org/parameters/800,mãkã'rã,thigh
+247-361,nort2972,http://concepticon.clld.org/parameters/498,hẽrũ-po'to,calf of leg
+247-268,nort2972,http://concepticon.clld.org/parameters/1371,či'rãboro,knee
+247-371,nort2972,http://concepticon.clld.org/parameters/1301,hẽ'rũ,foot
+247-668,nort2972,http://concepticon.clld.org/parameters/803,hẽ'rũ-koro'go,ankle
+247-528,nort2972,http://concepticon.clld.org/parameters/980,hẽ'rũ-ãbita'r̃a,heel
+247-371,nort2972,http://concepticon.clld.org/parameters/318,hẽ'rũ,footprint
+247-511,nort2972,http://concepticon.clld.org/parameters/1257,i,wing
+247-511,nort2972,http://concepticon.clld.org/parameters/1201,i,feather
+247-661,nort2972,http://concepticon.clld.org/parameters/1592,['peču],chest
+247-615,nort2972,http://concepticon.clld.org/parameters/1402,hu,breast (of woman)
+247-73,nort2972,http://concepticon.clld.org/parameters/796,hu-ki'ɗa,"nipple, teat"
+247-615,nort2972,http://concepticon.clld.org/parameters/154,hu,udder
+247-667,nort2972,http://concepticon.clld.org/parameters/1838,kɨ̃'mɨ̃a,navel
+247-174,nort2972,http://concepticon.clld.org/parameters/1223,so,heart
+247-568,nort2972,http://concepticon.clld.org/parameters/688,poto-po'to-a,lung
+247-92,nort2972,http://concepticon.clld.org/parameters/1224,tã'rĩ,liver
+247-246,nort2972,http://concepticon.clld.org/parameters/489,ko'trua,kidney
+247-413,nort2972,http://concepticon.clld.org/parameters/819,['buči],stomach
+247-267,nort2972,http://concepticon.clld.org/parameters/1991,hɨ̃'si,"intestines, guts"
+247-410,nort2972,http://concepticon.clld.org/parameters/834,ã-'dau,buttocks
+247-507,nort2972,http://concepticon.clld.org/parameters/804,oar̃a-ke'ra,womb
+247-529,nort2972,http://concepticon.clld.org/parameters/797,ka'rã-ta,testicle
+247-116,nort2972,http://concepticon.clld.org/parameters/1222,me,penis
+247-99,nort2972,http://concepticon.clld.org/parameters/1407,ɨɲã'ba,"breathe, breath"
+247-426,nort2972,http://concepticon.clld.org/parameters/1028,ɲa,"yawn, gape"
+247-276,nort2972,http://concepticon.clld.org/parameters/879,o'so,cough
+247-265,nort2972,http://concepticon.clld.org/parameters/1621,hai-'za-,sneeze
+247-70,nort2972,http://concepticon.clld.org/parameters/126,hɨa-,perspire
+247-328,nort2972,http://concepticon.clld.org/parameters/1440,i'ɗo-,spit
+247-46,nort2972,http://concepticon.clld.org/parameters/1278,u'e-,vomit
+247-325,nort2972,http://concepticon.clld.org/parameters/1403,ka-,bite
+247-583,nort2972,http://concepticon.clld.org/parameters/319,se'ne-,lick
+247-289,nort2972,http://concepticon.clld.org/parameters/1585,kã'ĩ-,sleep
+247-522,nort2972,http://concepticon.clld.org/parameters/1983,ko'r̃oa-,snore
+247-58,nort2972,http://concepticon.clld.org/parameters/1920,kãĩ-mokara-,dream
+247-601,nort2972,http://concepticon.clld.org/parameters/1602,ũrɨ̃'ma-,wake up
+247-356,nort2972,http://concepticon.clld.org/parameters/1159,čĩ-,break wind
+247-376,nort2972,http://concepticon.clld.org/parameters/592,či'wa,urinate
+247-278,nort2972,http://concepticon.clld.org/parameters/676,ã'ga-,defecate
+247-181,nort2972,http://concepticon.clld.org/parameters/1785,no-,have sexual intercourse
+247-381,nort2972,http://concepticon.clld.org/parameters/52,u're-,shiver
+247-122,nort2972,http://concepticon.clld.org/parameters/138,kui-,bathe
+247-369,nort2972,http://concepticon.clld.org/parameters/1152,o'ar̃a-ba'ra-,beget (of father)
+247-318,nort2972,http://concepticon.clld.org/parameters/1090,to-,born (to be)
+247-183,nort2972,http://concepticon.clld.org/parameters/1123,biogoa,pregnant
+247-362,nort2972,http://concepticon.clld.org/parameters/1087,o'ar̃a-ba'ra,conceive
+247-296,nort2972,http://concepticon.clld.org/parameters/1422,so'kai- ɓɨ,"live, living, life"
+247-114,nort2972,http://concepticon.clld.org/parameters/1494,beu-,"die, dead"
+247-400,nort2972,http://concepticon.clld.org/parameters/1904,['ho'ga]-,drowned
+247-455,nort2972,http://concepticon.clld.org/parameters/1417,be'a-,kill
+247-182,nort2972,http://concepticon.clld.org/parameters/767,beu-a'ra,corpse
+247-616,nort2972,http://concepticon.clld.org/parameters/1719,hou-,bury (the dead)
+247-182,nort2972,http://concepticon.clld.org/parameters/1773,beu-a'ra,"grave, tomb"
+247-270,nort2972,http://concepticon.clld.org/parameters/785,mese'ra,"strong, mighty, powerful"
+247-541,nort2972,http://concepticon.clld.org/parameters/1364,bia,"well, health"
+247-527,nort2972,http://concepticon.clld.org/parameters/1847,hai,"sick, sickness"
+247-56,nort2972,http://concepticon.clld.org/parameters/1534,kɨu'a-mia,fever
+247-406,nort2972,http://concepticon.clld.org/parameters/1957,o-či'ru-bõũ'ã,goiter
+247-514,nort2972,http://concepticon.clld.org/parameters/102,'himãrĩ,cold (catarrh)
+247-35,nort2972,http://concepticon.clld.org/parameters/1903,ogo'ro-,swelling
+247-253,nort2972,http://concepticon.clld.org/parameters/148,iči'ka-,itch
+247-678,nort2972,http://concepticon.clld.org/parameters/793,ka'ɓɨ,boil (noun)
+247-501,nort2972,http://concepticon.clld.org/parameters/499,bia-,"cure, heal"
+247-77,nort2972,http://concepticon.clld.org/parameters/597,hai-ba'na,physician
+247-1,nort2972,http://concepticon.clld.org/parameters/1372,nĩãrã,"medicine, drug"
+247-1,nort2972,http://concepticon.clld.org/parameters/655,nĩãrã,poison
+247-324,nort2972,http://concepticon.clld.org/parameters/1757,sẽ-,"tired, weary"
+247-274,nort2972,http://concepticon.clld.org/parameters/168,ɨ̃ɲã'ba,rest
+247-184,nort2972,http://concepticon.clld.org/parameters/1125,bo'ro-u'rua,bald
+247-658,nort2972,http://concepticon.clld.org/parameters/320,hĩ'rũ-bae-bae-'ɓɨa,lame
+247-585,nort2972,http://concepticon.clld.org/parameters/996,kɨuɨ'rɨ-'ki,deaf
+247-215,nort2972,http://concepticon.clld.org/parameters/1666,['muro],mute
+247-392,nort2972,http://concepticon.clld.org/parameters/1653,dau-ber̃ea- 'ɓɨ,blind
+247-114,nort2972,http://concepticon.clld.org/parameters/1463,beu-,intoxicated
+247-321,nort2972,http://concepticon.clld.org/parameters/590,ãka'ɗa,"naked, bare"
+247-311,nort2972,http://concepticon.clld.org/parameters/1336,ko-,eat
+247-86,nort2972,http://concepticon.clld.org/parameters/256,'ǰi-ko,food
+247-206,nort2972,http://concepticon.clld.org/parameters/269,'ǰu-ma,cooked
+247-36,nort2972,http://concepticon.clld.org/parameters/1959,õ'goa,raw
+247-150,nort2972,http://concepticon.clld.org/parameters/178,pu'rea,ripe
+247-428,nort2972,http://concepticon.clld.org/parameters/1958,ǰi-'ka,"green, unripe"
+247-190,nort2972,http://concepticon.clld.org/parameters/1728,mĩ'gia,rotten
+247-334,nort2972,http://concepticon.clld.org/parameters/1401,do-,drink
+247-659,nort2972,http://concepticon.clld.org/parameters/1533,ha'r̃a,hunger
+247-408,nort2972,http://concepticon.clld.org/parameters/848,obi'ča,thirst
+247-334,nort2972,http://concepticon.clld.org/parameters/1421,do-,suck
+247-612,nort2972,http://concepticon.clld.org/parameters/1421,sõ-,suck
+247-325,nort2972,http://concepticon.clld.org/parameters/321,ka-,chew
+247-360,nort2972,http://concepticon.clld.org/parameters/897,mi-,swallow
+247-300,nort2972,http://concepticon.clld.org/parameters/129,[atrã'ka],choke
+247-2,nort2972,http://concepticon.clld.org/parameters/1100,ǰu-,cook
+247-112,nort2972,http://concepticon.clld.org/parameters/792,ɓa'ka-,boil (vb)
+247-280,nort2972,http://concepticon.clld.org/parameters/2146,uɨ'ru-,"roast, fry"
+247-286,nort2972,http://concepticon.clld.org/parameters/1462,[pe'rol],"pot, cooking vessel"
+247-78,nort2972,http://concepticon.clld.org/parameters/481,epe'ɗeko,dish
+247-78,nort2972,http://concepticon.clld.org/parameters/480,epe'ɗeko,plate
+247-434,nort2972,http://concepticon.clld.org/parameters/1530,['tasa],bowl
+247-255,nort2972,http://concepticon.clld.org/parameters/476,['basu],"cup, drinking vessel"
+247-338,nort2972,http://concepticon.clld.org/parameters/271,epe'ɗeko-zake,saucer
+247-650,nort2972,http://concepticon.clld.org/parameters/1378,katu'emia,spoon
+247-158,nort2972,http://concepticon.clld.org/parameters/1352,'neko,knife (2)
+247-229,nort2972,http://concepticon.clld.org/parameters/272,[te'nesa],tongs
+247-351,nort2972,http://concepticon.clld.org/parameters/275,e'pa-,peel
+247-335,nort2972,http://concepticon.clld.org/parameters/86,sã-,"sieve, strain"
+247-85,nort2972,http://concepticon.clld.org/parameters/1767,ɨ'r̃a-,scrape
+247-553,nort2972,http://concepticon.clld.org/parameters/2017,u're,"stir, mix"
+247-624,nort2972,http://concepticon.clld.org/parameters/1368,ɓe'ka,bread
+247-423,nort2972,http://concepticon.clld.org/parameters/274,čira'tɨ,knead
+247-556,nort2972,http://concepticon.clld.org/parameters/1594,poku'ra,"meal, flour"
+247-379,nort2972,http://concepticon.clld.org/parameters/1033,ɓa-,"crush, grind"
+247-379,nort2972,http://concepticon.clld.org/parameters/636,ɓa-,mill
+247-469,nort2972,http://concepticon.clld.org/parameters/224,[pi'lon],mortar (2)
+247-584,nort2972,http://concepticon.clld.org/parameters/225,[mano],pestle
+247-86,nort2972,http://concepticon.clld.org/parameters/634,'ǰi-ko,meat
+247-313,nort2972,http://concepticon.clld.org/parameters/1547,'ne-ɓa,"soup, broth"
+247-587,nort2972,http://concepticon.clld.org/parameters/1507,'ne-hõ,fruit
+247-464,nort2972,http://concepticon.clld.org/parameters/1966,kɨ'mɨ,bunch
+247-354,nort2972,http://concepticon.clld.org/parameters/323,'nẽ-draga,"grease, fat"
+247-269,nort2972,http://concepticon.clld.org/parameters/1274,tã,salt
+247-293,nort2972,http://concepticon.clld.org/parameters/919,pi'ɗa,chili pepper
+247-477,nort2972,http://concepticon.clld.org/parameters/942,ke'mi-hõ,honey
+247-503,nort2972,http://concepticon.clld.org/parameters/635,hu-'ɓa,milk (noun)
+247-592,nort2972,http://concepticon.clld.org/parameters/1639,'čiča,beer
+247-178,nort2972,http://concepticon.clld.org/parameters/404,idu'a,fermented drink
+247-534,nort2972,http://concepticon.clld.org/parameters/744,ɨ'mɨ,egg
+247-554,nort2972,http://concepticon.clld.org/parameters/1556,ɨ'mɨ-pu'rea,egg yolk
+247-493,nort2972,http://concepticon.clld.org/parameters/158,hɨ̃-,put on (clothes)
+247-493,nort2972,http://concepticon.clld.org/parameters/1895,hɨ̃-,"clothing, clothes"
+247-629,nort2972,http://concepticon.clld.org/parameters/1616,ua,cloth
+247-7,nort2972,http://concepticon.clld.org/parameters/580,-e,fur
+247-7,nort2972,http://concepticon.clld.org/parameters/629,-e,leather
+247-325,nort2972,http://concepticon.clld.org/parameters/133,ka-,weave
+247-287,nort2972,http://concepticon.clld.org/parameters/1457,ka'hu-,sew
+247-665,nort2972,http://concepticon.clld.org/parameters/1382,[a'kusa],needle
+247-19,nort2972,http://concepticon.clld.org/parameters/1161,['ilo],thread
+247-359,nort2972,http://concepticon.clld.org/parameters/157,so'a-,dye
+247-629,nort2972,http://concepticon.clld.org/parameters/474,ua,woman's dress
+247-561,nort2972,http://concepticon.clld.org/parameters/1600,[ka'misa],skirt
+247-228,nort2972,http://concepticon.clld.org/parameters/2130,[sõ'bena],"hat, cap"
+247-49,nort2972,http://concepticon.clld.org/parameters/772,ã-kɨ'r̃ɨ-hɨ̃-ma,"belt, girdle"
+247-233,nort2972,http://concepticon.clld.org/parameters/917,ǰi'o,"ornament, adornment"
+247-226,nort2972,http://concepticon.clld.org/parameters/1374,[sor'tia],ring (for finger)
+247-447,nort2972,http://concepticon.clld.org/parameters/1754,[ma'nia],bracelet
+247-113,nort2972,http://concepticon.clld.org/parameters/1860,kɨ'r̃ɨ-hɨ̃-ma,bead
+247-651,nort2972,http://concepticon.clld.org/parameters/770,pi'ru,earring
+247-225,nort2972,http://concepticon.clld.org/parameters/330,boro-ɓa'ri,"headband, headdress"
+247-641,nort2972,http://concepticon.clld.org/parameters/1475,tẽẽ'rũ,comb
+247-20,nort2972,http://concepticon.clld.org/parameters/788,[hã'gona],soap
+247-22,nort2972,http://concepticon.clld.org/parameters/1171,[es'peku],mirror
+247-485,nort2972,http://concepticon.clld.org/parameters/1099,'ɓa-bari-,"dwell, live"
+247-393,nort2972,http://concepticon.clld.org/parameters/1252,de,house
+247-393,nort2972,http://concepticon.clld.org/parameters/1678,de,hut
+247-574,nort2972,http://concepticon.clld.org/parameters/1632,kɨ'ɗapo,floor
+247-95,nort2972,http://concepticon.clld.org/parameters/185,ita'r̃a,fireplace
+247-508,nort2972,http://concepticon.clld.org/parameters/1464,du'me,ladder
+247-209,nort2972,http://concepticon.clld.org/parameters/1044,boro-'kau,pillow
+247-483,nort2972,http://concepticon.clld.org/parameters/1044,asa'riko,pillow
+247-240,nort2972,http://concepticon.clld.org/parameters/806,boro'ɓa,blanket
+247-71,nort2972,http://concepticon.clld.org/parameters/1775,['mesa],table
+247-471,nort2972,http://concepticon.clld.org/parameters/2131,ĩ'bira,"lamp, torch"
+247-165,nort2972,http://concepticon.clld.org/parameters/745,ɓara'wa,shelf
+247-243,nort2972,http://concepticon.clld.org/parameters/205,ãpẽwẽ'nẽ,trough
+247-75,nort2972,http://concepticon.clld.org/parameters/769,de-ẽka'r̃a,roof
+247-81,nort2972,http://concepticon.clld.org/parameters/769,ǰi-or̃o-'sa,roof
+247-578,nort2972,http://concepticon.clld.org/parameters/279,ho'a-,thatch
+247-441,nort2972,http://concepticon.clld.org/parameters/280,ǰi-hã'ba-de,ridgepole
+247-652,nort2972,http://concepticon.clld.org/parameters/829,de-o'ɓeo,rafter
+247-640,nort2972,http://concepticon.clld.org/parameters/1132,de-kau,beam
+247-156,nort2972,http://concepticon.clld.org/parameters/281,de-hẽ'rũ,"post, pole"
+247-605,nort2972,http://concepticon.clld.org/parameters/1541,u-,"cultivate, till"
+247-227,nort2972,http://concepticon.clld.org/parameters/1418,ko'ro-,dig
+247-605,nort2972,http://concepticon.clld.org/parameters/748,u-,sow
+247-64,nort2972,http://concepticon.clld.org/parameters/714,be-'po-,seed
+247-337,nort2972,http://concepticon.clld.org/parameters/190,e'wa-,"mow, reap"
+247-598,nort2972,http://concepticon.clld.org/parameters/2132,uɨ-,"sickle, scythe"
+247-647,nort2972,http://concepticon.clld.org/parameters/605,-dau,"grain (barley, oats etc)"
+247-580,nort2972,http://concepticon.clld.org/parameters/506,be,"maize, corn"
+247-513,nort2972,http://concepticon.clld.org/parameters/926,[a'r̃o],rice
+247-643,nort2972,http://concepticon.clld.org/parameters/606,či'rua,grass
+247-107,nort2972,http://concepticon.clld.org/parameters/670,ka'r̃a,root
+247-343,nort2972,http://concepticon.clld.org/parameters/1531,hɨu'ate,branch
+247-154,nort2972,http://concepticon.clld.org/parameters/628,kedu'a,leaf
+247-67,nort2972,http://concepticon.clld.org/parameters/239,po'no,flower
+247-17,nort2972,http://concepticon.clld.org/parameters/239,to'to,flower
+247-363,nort2972,http://concepticon.clld.org/parameters/906,baku'ru,tree
+247-593,nort2972,http://concepticon.clld.org/parameters/343,hɨ̃ka'ra,vine
+247-531,nort2972,http://concepticon.clld.org/parameters/974,[ta'bako],tobacco
+247-334,nort2972,http://concepticon.clld.org/parameters/1689,do-,smoke (tobacco)
+247-199,nort2972,http://concepticon.clld.org/parameters/344,kaku'a,tree trunk
+247-620,nort2972,http://concepticon.clld.org/parameters/344,bɨuɨ'rɨ,tree trunk
+247-518,nort2972,http://concepticon.clld.org/parameters/1204,baku'ru-e,bark
+247-307,nort2972,http://concepticon.clld.org/parameters/345,-ɓa,sap
+247-272,nort2972,http://concepticon.clld.org/parameters/970,['koko],coconut
+247-676,nort2972,http://concepticon.clld.org/parameters/868,[ma'nana],banana tree
+247-152,nort2972,http://concepticon.clld.org/parameters/159,[bata'ta],sweet potato
+247-614,nort2972,http://concepticon.clld.org/parameters/410,ika'ɗe,yam
+247-129,nort2972,http://concepticon.clld.org/parameters/925,[i'uka],"tapioca, manioc, cassava"
+247-548,nort2972,http://concepticon.clld.org/parameters/411,sã'bɨ,gourd
+247-341,nort2972,http://concepticon.clld.org/parameters/864,[sa'paya],"pumpkin, squash"
+247-101,nort2972,http://concepticon.clld.org/parameters/1927,čogo'ro,bamboo
+247-145,nort2972,http://concepticon.clld.org/parameters/146,'čia-sõ,sugar cane
+247-462,nort2972,http://concepticon.clld.org/parameters/348,do'kãɨ̃,fish poison (root)
+247-110,nort2972,http://concepticon.clld.org/parameters/33,hũ'ĩčiči,nettle
+247-326,nort2972,http://concepticon.clld.org/parameters/641,baku'ru-kɨuɨ'rɨ,mushroom
+247-571,nort2972,http://concepticon.clld.org/parameters/813,o-,"do, make"
+247-195,nort2972,http://concepticon.clld.org/parameters/984,[tra'ha],work
+247-404,nort2972,http://concepticon.clld.org/parameters/2004,e'ne-,bend
+247-4,nort2972,http://concepticon.clld.org/parameters/1470,ɓe'ɗa-,fold
+247-493,nort2972,http://concepticon.clld.org/parameters/1917,hɨ̃-,"tie, bind"
+247-39,nort2972,http://concepticon.clld.org/parameters/1218,['soga],"rope, cord"
+247-476,nort2972,http://concepticon.clld.org/parameters/2133,u'ɨ-,"strike (hit, beat)"
+247-356,nort2972,http://concepticon.clld.org/parameters/354,čĩ-,pound with fist
+247-339,nort2972,http://concepticon.clld.org/parameters/1432,tɨ-,cut
+247-262,nort2972,http://concepticon.clld.org/parameters/355,tu'ta-,cut down
+247-457,nort2972,http://concepticon.clld.org/parameters/155,kõ-,"chop, hew"
+247-158,nort2972,http://concepticon.clld.org/parameters/1352,'neko,knife
+247-68,nort2972,http://concepticon.clld.org/parameters/677,zaga'ra,ax
+247-263,nort2972,http://concepticon.clld.org/parameters/290,hãĩũ'ẽ,adze
+247-628,nort2972,http://concepticon.clld.org/parameters/680,ko'ra,break
+247-638,nort2972,http://concepticon.clld.org/parameters/1437,dra-,split
+247-442,nort2972,http://concepticon.clld.org/parameters/291,hẽ'sa-,"flay, skin"
+247-351,nort2972,http://concepticon.clld.org/parameters/291,e'pa-,"flay, skin"
+247-505,nort2972,http://concepticon.clld.org/parameters/1449,ɨra'tɨ̃-,"rub, wipe"
+247-603,nort2972,http://concepticon.clld.org/parameters/1455,er̃e-ɓa'ri-,pull
+247-155,nort2972,http://concepticon.clld.org/parameters/357,hi'ra-,hang up
+247-200,nort2972,http://concepticon.clld.org/parameters/1414,ber̃a'hu,"squeeze, wring"
+247-416,nort2972,http://concepticon.clld.org/parameters/1487,we'a-,pour
+247-72,nort2972,http://concepticon.clld.org/parameters/1453,sɨ'gɨ-,wash
+247-429,nort2972,http://concepticon.clld.org/parameters/230,ha're-,sweep
+247-25,nort2972,http://concepticon.clld.org/parameters/245,[uba'r̃e-],broom
+247-571,nort2972,http://concepticon.clld.org/parameters/1840,o-,build
+247-324,nort2972,http://concepticon.clld.org/parameters/1501,sẽ-,bore
+247-161,nort2972,http://concepticon.clld.org/parameters/46,u'ya,hollow out
+247-340,nort2972,http://concepticon.clld.org/parameters/1948,[ča'r̃uso],saw
+247-649,nort2972,http://concepticon.clld.org/parameters/1369,ne,gold
+247-309,nort2972,http://concepticon.clld.org/parameters/759,[pa'rata],silver
+247-54,nort2972,http://concepticon.clld.org/parameters/621,[hior̃o],iron
+247-325,nort2972,http://concepticon.clld.org/parameters/289,ka-,mold (clay etc)
+247-97,nort2972,http://concepticon.clld.org/parameters/1399,ego'ro,clay
+247-325,nort2972,http://concepticon.clld.org/parameters/1729,ka-,"weave, plait"
+247-672,nort2972,http://concepticon.clld.org/parameters/1539,e,basket
+247-104,nort2972,http://concepticon.clld.org/parameters/195,te'tera,mat
+247-586,nort2972,http://concepticon.clld.org/parameters/1971,pe'pena,fan (noun)
+247-30,nort2972,http://concepticon.clld.org/parameters/2001,pã-,paint (vb)
+247-446,nort2972,http://concepticon.clld.org/parameters/1445,pɨr̃ɨ'ga,turn around
+247-606,nort2972,http://concepticon.clld.org/parameters/1113,bɨ'ra-,"wind, wrap"
+247-639,nort2972,http://concepticon.clld.org/parameters/501,ɨ̃'ta-e'da,"raise, lift"
+247-80,nort2972,http://concepticon.clld.org/parameters/1280,u'du-õã,fall
+247-415,nort2972,http://concepticon.clld.org/parameters/2253,zou-,drip
+247-407,nort2972,http://concepticon.clld.org/parameters/1456,'taɓari,throw
+247-9,nort2972,http://concepticon.clld.org/parameters/1909,u're-bi,shake
+247-458,nort2972,http://concepticon.clld.org/parameters/2003,we'a-ɓari,flow
+247-250,nort2972,http://concepticon.clld.org/parameters/1439,o-õã,swim
+247-385,nort2972,http://concepticon.clld.org/parameters/1441,õ'ãɓari,fly (vb)
+247-402,nort2972,http://concepticon.clld.org/parameters/175,harapu'a,blow
+247-533,nort2972,http://concepticon.clld.org/parameters/96,tɨɗɨ'ka,"creep, crawl"
+247-383,nort2972,http://concepticon.clld.org/parameters/66,čirã-bo'ro-ɗe,kneel
+247-160,nort2972,http://concepticon.clld.org/parameters/296,'suɓari,crouch
+247-591,nort2972,http://concepticon.clld.org/parameters/1829,'hĩdru,"jump, leap"
+247-128,nort2972,http://concepticon.clld.org/parameters/1879,[bai'ra-],dance
+247-394,nort2972,http://concepticon.clld.org/parameters/1443,õã-,walk
+247-484,nort2972,http://concepticon.clld.org/parameters/1519,pi'ra-,run
+247-394,nort2972,http://concepticon.clld.org/parameters/695,õã-,go
+247-443,nort2972,http://concepticon.clld.org/parameters/705,ɨ̃tɨ-õã-,go up
+247-443,nort2972,http://concepticon.clld.org/parameters/1102,ɨ̃tɨ-õã-,climb
+247-106,nort2972,http://concepticon.clld.org/parameters/2014,e'ɗu-õã-,go down
+247-204,nort2972,http://concepticon.clld.org/parameters/1107,'ẽdru-,go out
+247-208,nort2972,http://concepticon.clld.org/parameters/1446,ze-,come
+247-221,nort2972,http://concepticon.clld.org/parameters/581,ãbe'ra,come back
+247-394,nort2972,http://concepticon.clld.org/parameters/1752,õã-,"go away, depart"
+247-235,nort2972,http://concepticon.clld.org/parameters/956,mẽ'rũ-,flee
+247-417,nort2972,http://concepticon.clld.org/parameters/1047,pẽũ'ã,pursue
+247-284,nort2972,http://concepticon.clld.org/parameters/1387,hũẽ-,"reach, arrive"
+247-358,nort2972,http://concepticon.clld.org/parameters/1778,kaita-õã,approach
+247-450,nort2972,http://concepticon.clld.org/parameters/749,eɗa-õã-,enter
+247-219,nort2972,http://concepticon.clld.org/parameters/700,a'tau-,carry (bear)
+247-219,nort2972,http://concepticon.clld.org/parameters/413,a'tau-,carry-on-shoulder
+247-552,nort2972,http://concepticon.clld.org/parameters/692,we-,bring
+247-138,nort2972,http://concepticon.clld.org/parameters/1452,tɨ'čamari-,"push, shove"
+247-137,nort2972,http://concepticon.clld.org/parameters/667,o,road
+247-137,nort2972,http://concepticon.clld.org/parameters/2252,o,path
+247-100,nort2972,http://concepticon.clld.org/parameters/1970,hã'ba,canoe
+247-461,nort2972,http://concepticon.clld.org/parameters/234,'do-wi,paddle (noun)
+247-109,nort2972,http://concepticon.clld.org/parameters/1849,wi-,row (vb)
+247-202,nort2972,http://concepticon.clld.org/parameters/773,ero-,have
+247-87,nort2972,http://concepticon.clld.org/parameters/684,ba'ra-,"own, possess"
+247-48,nort2972,http://concepticon.clld.org/parameters/1749,e'da-,take
+247-103,nort2972,http://concepticon.clld.org/parameters/2021,hi'ta-,"seize, grasp"
+247-48,nort2972,http://concepticon.clld.org/parameters/694,e'da-,"get, obtain"
+247-637,nort2972,http://concepticon.clld.org/parameters/1447,de'a-,give
+247-42,nort2972,http://concepticon.clld.org/parameters/1997,a'kɨ-,"preserve, look after"
+247-382,nort2972,http://concepticon.clld.org/parameters/44,ã'rĩ-,"harm, injure, damage"
+247-671,nort2972,http://concepticon.clld.org/parameters/1468,hɨrɨ-,"seek, look for"
+247-142,nort2972,http://concepticon.clld.org/parameters/719,u'nu-,find
+247-348,nort2972,http://concepticon.clld.org/parameters/1660,adu'a-,lose
+247-38,nort2972,http://concepticon.clld.org/parameters/1559,[parata],money
+247-205,nort2972,http://concepticon.clld.org/parameters/1559,e'r̃ara,money
+247-168,nort2972,http://concepticon.clld.org/parameters/1823,[pres'ta-],borrow
+247-648,nort2972,http://concepticon.clld.org/parameters/718,[pa'ga-],pay (vb)
+247-613,nort2972,http://concepticon.clld.org/parameters/733,[ga'na-],earn
+247-139,nort2972,http://concepticon.clld.org/parameters/1869,nẽdoi-,buy
+247-344,nort2972,http://concepticon.clld.org/parameters/1571,nẽdo'we-,sell
+247-218,nort2972,http://concepticon.clld.org/parameters/1426,'nẽɓɨa,"dear (costly, expensive)"
+247-536,nort2972,http://concepticon.clld.org/parameters/1887,nee'na,cheap
+247-336,nort2972,http://concepticon.clld.org/parameters/884,hu'e-,share (distribute)
+247-252,nort2972,http://concepticon.clld.org/parameters/1685,tẽã,after
+247-252,nort2972,http://concepticon.clld.org/parameters/723,tẽã,behind
+247-425,nort2972,http://concepticon.clld.org/parameters/723,ã'bɨde,behind
+247-134,nort2972,http://concepticon.clld.org/parameters/1326,e'ɗa,"down, below"
+247-316,nort2972,http://concepticon.clld.org/parameters/1882,nãẽ'ɗa,before
+247-517,nort2972,http://concepticon.clld.org/parameters/1019,ki'rãpe,front
+247-303,nort2972,http://concepticon.clld.org/parameters/1606,'eɗa,"inside, in"
+247-329,nort2972,http://concepticon.clld.org/parameters/762,ãĩ,outside
+247-405,nort2972,http://concepticon.clld.org/parameters/1485,'edreka,under
+247-12,nort2972,http://concepticon.clld.org/parameters/1591,ɨ̃'rɨ̃,"up, above"
+247-525,nort2972,http://concepticon.clld.org/parameters/723,ɓɨ-,place
+247-525,nort2972,http://concepticon.clld.org/parameters/998,ɓɨ-,put
+247-656,nort2972,http://concepticon.clld.org/parameters/1416,'čũɓɨ-,sit
+247-312,nort2972,http://concepticon.clld.org/parameters/215,ɓa'r̃uɓari-,lie down
+247-288,nort2972,http://concepticon.clld.org/parameters/1442,pi'radrɨ-,stand
+247-460,nort2972,http://concepticon.clld.org/parameters/987,ɓe-,"remain, stay"
+247-98,nort2972,http://concepticon.clld.org/parameters/1753,bo'ro,top
+247-673,nort2972,http://concepticon.clld.org/parameters/690,ã'dau,bottom
+247-107,nort2972,http://concepticon.clld.org/parameters/690,ka'r̃a,bottom
+247-11,nort2972,http://concepticon.clld.org/parameters/863,-i,edge
+247-549,nort2972,http://concepticon.clld.org/parameters/682,o'r̃o,side
+247-515,nort2972,http://concepticon.clld.org/parameters/1093,arikẽdra,"middle, center"
+247-140,nort2972,http://concepticon.clld.org/parameters/1019,hɨu'a-ara-ɗe,right (side)
+247-47,nort2972,http://concepticon.clld.org/parameters/244,hɨu'a-ɨ'kɨa-ɗe,left (side)
+247-372,nort2972,http://concepticon.clld.org/parameters/1942,'kaita,near (adv)
+247-245,nort2972,http://concepticon.clld.org/parameters/1406,'mĩga,far (adv)
+247-655,nort2972,http://concepticon.clld.org/parameters/1406,tɨ'mɨ,far (adv)
+247-136,nort2972,http://concepticon.clld.org/parameters/479,oa'ri-,grow
+247-294,nort2972,http://concepticon.clld.org/parameters/1506,za-,measure
+247-595,nort2972,http://concepticon.clld.org/parameters/81,['brasa],"span, fathom"
+247-444,nort2972,http://concepticon.clld.org/parameters/1202,uai'ɓɨa,"large, big"
+247-438,nort2972,http://concepticon.clld.org/parameters/1246,kai'be,"small, little"
+247-481,nort2972,http://concepticon.clld.org/parameters/1203,deaso'roa,long
+247-670,nort2972,http://concepticon.clld.org/parameters/1645,ĩ'čičia,short
+247-430,nort2972,http://concepticon.clld.org/parameters/1243,ho'ɓɨa,"wide, broad"
+247-622,nort2972,http://concepticon.clld.org/parameters/1267,čõ'da,narrow
+247-285,nort2972,http://concepticon.clld.org/parameters/1244,o'moa,thick (in dimension)
+247-622,nort2972,http://concepticon.clld.org/parameters/1400,čõ'da,thin (in dimension)
+247-435,nort2972,http://concepticon.clld.org/parameters/1593,'nãɓɨa,deep
+247-223,nort2972,http://concepticon.clld.org/parameters/193,'nãɓɨa-ẽ,shallow
+247-558,nort2972,http://concepticon.clld.org/parameters/1404,hi'pa,straight
+247-411,nort2972,http://concepticon.clld.org/parameters/1071,dɨu'a,hook
+247-21,nort2972,http://concepticon.clld.org/parameters/1367,[ku'ruso],cross
+247-8,nort2972,http://concepticon.clld.org/parameters/1395,boroko'koa,round
+247-234,nort2972,http://concepticon.clld.org/parameters/1667,u'ria,hole
+247-564,nort2972,http://concepticon.clld.org/parameters/1558,ki'rãka,"like, similar"
+247-327,nort2972,http://concepticon.clld.org/parameters/1294,ne'ẽa,"zero, nothing"
+247-282,nort2972,http://concepticon.clld.org/parameters/1515,'aɓa,one
+247-193,nort2972,http://concepticon.clld.org/parameters/1498,u'me,two
+247-420,nort2972,http://concepticon.clld.org/parameters/492,ũ'bea,three
+247-32,nort2972,http://concepticon.clld.org/parameters/1500,kĩ'mãrĩ,four
+247-623,nort2972,http://concepticon.clld.org/parameters/493,hueso'ma,five
+247-304,nort2972,http://concepticon.clld.org/parameters/98,hu'ma,"every, all"
+247-629,nort2972,http://concepticon.clld.org/parameters/1992,ua,more
+247-547,nort2972,http://concepticon.clld.org/parameters/1242,soka'raẽ,"little (quantity), few"
+247-538,nort2972,http://concepticon.clld.org/parameters/1241,ɨ̃kɨ'rɨ,some
+247-121,nort2972,http://concepticon.clld.org/parameters/816,ẽ'sadra,half
+247-646,nort2972,http://concepticon.clld.org/parameters/1580,'duɓa,"alone, only"
+247-322,nort2972,http://concepticon.clld.org/parameters/728,nã-be'ma,first
+247-440,nort2972,http://concepticon.clld.org/parameters/1529,tẽã-be'ma,last
+247-193,nort2972,http://concepticon.clld.org/parameters/1888,u'me,pair
+247-45,nort2972,http://concepticon.clld.org/parameters/1546,ɓa'rima-u'me,two times
+247-577,nort2972,http://concepticon.clld.org/parameters/417,ɓa'rima-ũ'bea,three times
+247-608,nort2972,http://concepticon.clld.org/parameters/1231,zhiwi'ɗi,new
+247-349,nort2972,http://concepticon.clld.org/parameters/1207,o'ar̃a,young
+247-353,nort2972,http://concepticon.clld.org/parameters/1207,kau,young
+247-159,nort2972,http://concepticon.clld.org/parameters/1229,z'rõã,old
+247-251,nort2972,http://concepticon.clld.org/parameters/1376,nae'na,now
+247-557,nort2972,http://concepticon.clld.org/parameters/1963,ara'mãda,immediately
+247-492,nort2972,http://concepticon.clld.org/parameters/1631,'ɨbua,"swift, fast, quick"
+247-395,nort2972,http://concepticon.clld.org/parameters/701,bĩ'ka,slow
+247-5,nort2972,http://concepticon.clld.org/parameters/1186,dã'rã,"last, endure"
+247-148,nort2972,http://concepticon.clld.org/parameters/1766,ẽdrɨ-,finish
+247-543,nort2972,http://concepticon.clld.org/parameters/204,oa'ya,again
+247-566,nort2972,http://concepticon.clld.org/parameters/1260,ã'sa,day
+247-16,nort2972,http://concepticon.clld.org/parameters/1233,'deamasi,night
+247-41,nort2972,http://concepticon.clld.org/parameters/729,ɨ'nãdrɨ,dawn
+247-197,nort2972,http://concepticon.clld.org/parameters/1339,de'apeda,morning
+247-499,nort2972,http://concepticon.clld.org/parameters/12,ɨ'matipa,"noon, midday"
+247-232,nort2972,http://concepticon.clld.org/parameters/1629,'kewara,evening
+247-474,nort2972,http://concepticon.clld.org/parameters/1283,'iɗi,today
+247-657,nort2972,http://concepticon.clld.org/parameters/1329,nu,tomorrow
+247-551,nort2972,http://concepticon.clld.org/parameters/1179,nu-rema,day-after-tomorrow
+247-69,nort2972,http://concepticon.clld.org/parameters/1174,nu-e'na,yesterday
+247-13,nort2972,http://concepticon.clld.org/parameters/1180,nu-nue'na,day-before-yesterday
+247-374,nort2972,http://concepticon.clld.org/parameters/1469,[domi'a],week
+247-617,nort2972,http://concepticon.clld.org/parameters/1370,he'ɗeko,month
+247-130,nort2972,http://concepticon.clld.org/parameters/1226,po'a,year
+247-502,nort2972,http://concepticon.clld.org/parameters/1471,ku'e-hara,winter
+247-194,nort2972,http://concepticon.clld.org/parameters/1342,po'a-hara,summer
+247-451,nort2972,http://concepticon.clld.org/parameters/1586,ɨ-,smell (vb trans)
+247-295,nort2972,http://concepticon.clld.org/parameters/376,tõ'poa-,"fragrant, good smelling"
+247-487,nort2972,http://concepticon.clld.org/parameters/42,ɨ̃'sia,"stinking, bad smelling"
+247-320,nort2972,http://concepticon.clld.org/parameters/21,[apo'ra],taste
+247-378,nort2972,http://concepticon.clld.org/parameters/717,'kũã,sweet
+247-212,nort2972,http://concepticon.clld.org/parameters/1091,kɨya-kɨ'ya,salty
+247-84,nort2972,http://concepticon.clld.org/parameters/887,a'sea,bitter
+247-224,nort2972,http://concepticon.clld.org/parameters/1906,ore'gea,"acid, sour"
+247-211,nort2972,http://concepticon.clld.org/parameters/70,kɨ'ya,brackish
+247-397,nort2972,http://concepticon.clld.org/parameters/1408,ũ'rĩ-,hear
+247-397,nort2972,http://concepticon.clld.org/parameters/1608,ũ'rĩ-,listen
+247-180,nort2972,http://concepticon.clld.org/parameters/1811,'hĩgua,"sound, noise"
+247-142,nort2972,http://concepticon.clld.org/parameters/1409,u'nu-,see
+247-42,nort2972,http://concepticon.clld.org/parameters/1819,a'kɨ-,"look, look at"
+247-44,nort2972,http://concepticon.clld.org/parameters/1039,a'kɨbi-,show
+247-453,nort2972,http://concepticon.clld.org/parameters/708,u'rua-,shine
+247-177,nort2972,http://concepticon.clld.org/parameters/1335,to'r̃o,white
+247-239,nort2972,http://concepticon.clld.org/parameters/163,pai'ma,black
+247-301,nort2972,http://concepticon.clld.org/parameters/156,pu'r̃u ~ purea,red
+247-187,nort2972,http://concepticon.clld.org/parameters/837,pãõã'rã,blue
+247-187,nort2972,http://concepticon.clld.org/parameters/1425,pãõã'rã,green
+247-562,nort2972,http://concepticon.clld.org/parameters/1424,kua'ra,yellow
+247-162,nort2972,http://concepticon.clld.org/parameters/1892,ta-,touch
+247-170,nort2972,http://concepticon.clld.org/parameters/378,kuaba'ra-,pinch
+247-172,nort2972,http://concepticon.clld.org/parameters/1884,za'rea (?),hard
+247-132,nort2972,http://concepticon.clld.org/parameters/1856,su'sua,soft
+247-627,nort2972,http://concepticon.clld.org/parameters/1923,ɨ'gɨa,rough
+247-306,nort2972,http://concepticon.clld.org/parameters/1234,dou'a,smooth
+247-290,nort2972,http://concepticon.clld.org/parameters/1396,pewe'ɗea,sharp
+247-57,nort2972,http://concepticon.clld.org/parameters/1210,zɨ'gɨa,heavy
+247-330,nort2972,http://concepticon.clld.org/parameters/1052,uẽ'sa,light (in weight)
+247-398,nort2972,http://concepticon.clld.org/parameters/1726,ɓe'gea,"wet, damp"
+247-452,nort2972,http://concepticon.clld.org/parameters/1398,poa,dry
+247-619,nort2972,http://concepticon.clld.org/parameters/1286,hɨ̃ũɨ̃'rɨ̃ã,hot
+247-230,nort2972,http://concepticon.clld.org/parameters/1232,hɨ̃ũɨ̃'rɨ̃ã-hɨ̃ũɨ̃'rɨ̃ã,warm
+247-391,nort2972,http://concepticon.clld.org/parameters/1287,kũrã'sa,cold
+247-367,nort2972,http://concepticon.clld.org/parameters/1230,miti'tia,"dirty, soiled"
+247-256,nort2972,http://concepticon.clld.org/parameters/380,bidru-bi'dru-a,wrinkled
+247-83,nort2972,http://concepticon.clld.org/parameters/53,'haure,"soul, spirit"
+247-504,nort2972,http://concepticon.clld.org/parameters/1572,daupe'ra-,"surprised, astonished"
+247-315,nort2972,http://concepticon.clld.org/parameters/1495,bɨsrɨi'ɗa,"joyful, glad, happy"
+247-660,nort2972,http://concepticon.clld.org/parameters/1355,ipiɗa,laugh
+247-216,nort2972,http://concepticon.clld.org/parameters/1451,ipiɗa-ipi'ɗa-,smile
+247-29,nort2972,http://concepticon.clld.org/parameters/1413,heme'ne-,play
+247-419,nort2972,http://concepticon.clld.org/parameters/923,kɨã'ga-,love
+247-475,nort2972,http://concepticon.clld.org/parameters/578,i'so-,kiss
+247-275,nort2972,http://concepticon.clld.org/parameters/1783,'pua,pain
+247-236,nort2972,http://concepticon.clld.org/parameters/1668,so-'pua,"grief, sorrow, sadness"
+247-157,nort2972,http://concepticon.clld.org/parameters/1141,zuburi,pity
+247-91,nort2972,http://concepticon.clld.org/parameters/1839,hĩã-,"cry, weep"
+247-575,nort2972,http://concepticon.clld.org/parameters/1651,dau-'ɓa,tear (noun)
+247-266,nort2972,http://concepticon.clld.org/parameters/1607,kĩrã'mã-,hate
+247-377,nort2972,http://concepticon.clld.org/parameters/82,kĩ'rũ-,anger
+247-291,nort2972,http://concepticon.clld.org/parameters/40,una'ma-,"envy, jealousy"
+247-543,nort2972,http://concepticon.clld.org/parameters/781,oa'ya,"fear, fright"
+247-422,nort2972,http://concepticon.clld.org/parameters/1784,'kĩrĩã-,"desire, want"
+247-626,nort2972,http://concepticon.clld.org/parameters/1657,oa'ra,true
+247-131,nort2972,http://concepticon.clld.org/parameters/601,se'wa-o-,"lie, tell lies"
+247-465,nort2972,http://concepticon.clld.org/parameters/1035,'bia,good
+247-314,nort2972,http://concepticon.clld.org/parameters/1292,kaǰi'rua,bad
+247-465,nort2972,http://concepticon.clld.org/parameters/1725,'bia,"right, correct"
+247-143,nort2972,http://concepticon.clld.org/parameters/1390,'bia-e,wrong
+247-185,nort2972,http://concepticon.clld.org/parameters/1427,mẽ'rã,beautiful
+247-135,nort2972,http://concepticon.clld.org/parameters/1548,mẽ'rã-ẽ,ugly
+247-539,nort2972,http://concepticon.clld.org/parameters/1562,kĩča,mind
+247-414,nort2972,http://concepticon.clld.org/parameters/1415,kĩča-,think (= reflect)
+247-414,nort2972,http://concepticon.clld.org/parameters/1513,kĩča-,think (= be of the opinion)
+247-237,nort2972,http://concepticon.clld.org/parameters/1890,'ĩha-,believe
+247-397,nort2972,http://concepticon.clld.org/parameters/1536,ũ'rĩ-,understand
+247-537,nort2972,http://concepticon.clld.org/parameters/1410,kawa-,know
+247-169,nort2972,http://concepticon.clld.org/parameters/1899,[loki'a],"insane, crazy"
+247-537,nort2972,http://concepticon.clld.org/parameters/504,kawa-,learn
+247-260,nort2972,http://concepticon.clld.org/parameters/709,hara-dea-,teach
+247-118,nort2972,http://concepticon.clld.org/parameters/707,kĩ'rã-de-ɓa,remember
+247-546,nort2972,http://concepticon.clld.org/parameters/1523,kĩ'rã-adua,forget
+247-18,nort2972,http://concepticon.clld.org/parameters/643,[nesta-],"need, necessity"
+247-213,nort2972,http://concepticon.clld.org/parameters/686,ũẽ'sa,easy
+247-172,nort2972,http://concepticon.clld.org/parameters/584,za'rea (?),difficult
+247-567,nort2972,http://concepticon.clld.org/parameters/1157,ka'rea,because
+247-490,nort2972,http://concepticon.clld.org/parameters/1459,-bɨrɨ,if
+247-629,nort2972,http://concepticon.clld.org/parameters/1014,ua,or
+247-491,nort2972,http://concepticon.clld.org/parameters/1268,'mae,"yes, affirmative"
+247-559,nort2972,http://concepticon.clld.org/parameters/1269,'n'n,"no, negative"
+247-125,nort2972,http://concepticon.clld.org/parameters/1239,sa'wa,how?
+247-34,nort2972,http://concepticon.clld.org/parameters/822,hu'ma-sa'wa,how many?
+247-34,nort2972,http://concepticon.clld.org/parameters/531,hu'ma-sa'wa,how much?
+247-632,nort2972,http://concepticon.clld.org/parameters/1236,kã'rẽ,what?
+247-384,nort2972,http://concepticon.clld.org/parameters/1238,'sãũbe,when?
+247-644,nort2972,http://concepticon.clld.org/parameters/1237,sa'ma,where?
+247-171,nort2972,http://concepticon.clld.org/parameters/727,sãɨ̃,which?
+247-108,nort2972,http://concepticon.clld.org/parameters/1235,kãĩ,who?
+247-618,nort2972,http://concepticon.clld.org/parameters/1270,kã'rẽ-ka'rea,why?
+247-222,nort2972,http://concepticon.clld.org/parameters/1363,be'ɗea,voice
+247-111,nort2972,http://concepticon.clld.org/parameters/1261,trɨ̃ã-,sing
+247-258,nort2972,http://concepticon.clld.org/parameters/715,ɓia-,"shout, cry out"
+247-498,nort2972,http://concepticon.clld.org/parameters/1025,iko'ro,whistle
+247-217,nort2972,http://concepticon.clld.org/parameters/1623,be'ɗea-,"speak, talk"
+247-331,nort2972,http://concepticon.clld.org/parameters/1458,ha'ra-,say
+247-494,nort2972,http://concepticon.clld.org/parameters/1711,nẽbɨ'ra-,tell story
+247-323,nort2972,http://concepticon.clld.org/parameters/48,'čupea-,silent (be)
+247-506,nort2972,http://concepticon.clld.org/parameters/1307,beɗea,language
+247-55,nort2972,http://concepticon.clld.org/parameters/1405,trɨ̃,name
+247-60,nort2972,http://concepticon.clld.org/parameters/1309,iwi'ɗi-,"ask (question, inquire)"
+247-597,nort2972,http://concepticon.clld.org/parameters/1275,pa'no-,answer
+247-60,nort2972,http://concepticon.clld.org/parameters/1828,iwi'ɗi-,"ask, request"
+247-449,nort2972,http://concepticon.clld.org/parameters/1084,trɨ̃-,call (=summon)
+247-449,nort2972,http://concepticon.clld.org/parameters/180,trɨ̃-,call (=name)
+247-525,nort2972,http://concepticon.clld.org/parameters/1672,ɓɨ-,write
+247-331,nort2972,http://concepticon.clld.org/parameters/724,ha'ra-,read
+247-273,nort2972,http://concepticon.clld.org/parameters/648,['karta],paper
+247-273,nort2972,http://concepticon.clld.org/parameters/963,['karta],book
+247-653,nort2972,http://concepticon.clld.org/parameters/777,či'ru,flute
+247-399,nort2972,http://concepticon.clld.org/parameters/908,to'noa,drum
+247-261,nort2972,http://concepticon.clld.org/parameters/2136,kãči'ru,"horn, trumpet"
+247-530,nort2972,http://concepticon.clld.org/parameters/1300,'drua,country
+247-530,nort2972,http://concepticon.clld.org/parameters/89,'drua,one's native country
+247-373,nort2972,http://concepticon.clld.org/parameters/1391,['puru],"city, town"
+247-373,nort2972,http://concepticon.clld.org/parameters/930,['puru],village
+247-149,nort2972,http://concepticon.clld.org/parameters/789,ẽbẽrã-rã,people (populace)
+247-510,nort2972,http://concepticon.clld.org/parameters/1296,du'ma,"staff, walking stick"
+247-497,nort2972,http://concepticon.clld.org/parameters/383,'zãwãrẽ,master
+247-397,nort2972,http://concepticon.clld.org/parameters/1635,ũ'rĩ-,obey
+247-550,nort2972,http://concepticon.clld.org/parameters/1325,a'če,"friend, companion"
+247-545,nort2972,http://concepticon.clld.org/parameters/1545,ǰi-ba'ri-de,host
+247-24,nort2972,http://concepticon.clld.org/parameters/1897,kare'ɓa-,"help, aid"
+247-142,nort2972,http://concepticon.clld.org/parameters/1831,u'nu-,meet
+247-254,nort2972,http://concepticon.clld.org/parameters/1423,ǰo-,fight (vb)
+247-352,nort2972,http://concepticon.clld.org/parameters/994,e'nẽdrɨma,bow
+247-521,nort2972,http://concepticon.clld.org/parameters/977,ča,arrow
+247-576,nort2972,http://concepticon.clld.org/parameters/945,mi'asu,spear
+247-342,nort2972,http://concepticon.clld.org/parameters/1566,põũ'ã,"gun, cannon"
+247-411,nort2972,http://concepticon.clld.org/parameters/1074,dɨu'a,fishhook
+247-569,nort2972,http://concepticon.clld.org/parameters/2013,drema'ma,bait
+247-516,nort2972,http://concepticon.clld.org/parameters/1435,mea-o'a-,hunt
+247-79,nort2972,http://concepticon.clld.org/parameters/1172,drɨ-,shoot
+247-455,nort2972,http://concepticon.clld.org/parameters/845,be'a-,murder
+247-560,nort2972,http://concepticon.clld.org/parameters/713,zrɨa-,steal
+247-664,nort2972,http://concepticon.clld.org/parameters/1160,ne-zrai-'ɗa,thief
+247-164,nort2972,http://concepticon.clld.org/parameters/1944,ãkõ'rẽ,God
+247-418,nort2972,http://concepticon.clld.org/parameters/1565,bã'hã,heaven
+247-520,nort2972,http://concepticon.clld.org/parameters/878,'ǰabera,hell
+247-527,nort2972,http://concepticon.clld.org/parameters/1973,hai,demon (evil spirit)
+247-77,nort2972,http://concepticon.clld.org/parameters/2137,hai-ba'na,"sorcerer, witch"

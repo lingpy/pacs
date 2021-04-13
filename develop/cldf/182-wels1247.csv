@@ -1,0 +1,2108 @@
+ID,Language_ID,Feature_ID,Value,Concept
+182-1619,wels1247,http://concepticon.clld.org/parameters/965,byd,world
+182-90,wels1247,http://concepticon.clld.org/parameters/626,daear,"earth, land"
+182-471,wels1247,http://concepticon.clld.org/parameters/626,tir,"earth, land"
+182-19,wels1247,http://concepticon.clld.org/parameters/1228,pridd,"earth=ground, soil"
+182-767,wels1247,http://concepticon.clld.org/parameters/2,llwch,dust
+182-221,wels1247,http://concepticon.clld.org/parameters/2,pylor,dust
+182-949,wels1247,http://concepticon.clld.org/parameters/640,llaid,mud
+182-17,wels1247,http://concepticon.clld.org/parameters/640,mwd,mud
+182-1800,wels1247,http://concepticon.clld.org/parameters/671,tywod,sand
+182-869,wels1247,http://concepticon.clld.org/parameters/2118,mynydd,"mountain, hill"
+182-1298,wels1247,http://concepticon.clld.org/parameters/2118,bryn,"mountain, hill"
+182-75,wels1247,http://concepticon.clld.org/parameters/2118,bre,"mountain, hill"
+182-542,wels1247,http://concepticon.clld.org/parameters/618,clogwyn,"cliff, precipice"
+182-496,wels1247,http://concepticon.clld.org/parameters/618,dibyn,"cliff, precipice"
+182-175,wels1247,http://concepticon.clld.org/parameters/652,gwastad,"plain, field"
+182-85,wels1247,http://concepticon.clld.org/parameters/652,maes,"plain, field"
+182-1039,wels1247,http://concepticon.clld.org/parameters/652,gwastatir,"plain, field"
+182-728,wels1247,http://concepticon.clld.org/parameters/921,dyffryn,valley
+182-207,wels1247,http://concepticon.clld.org/parameters/921,glyn,valley
+182-1645,wels1247,http://concepticon.clld.org/parameters/921,cwm,valley
+182-42,wels1247,http://concepticon.clld.org/parameters/622,ynys,island
+182-534,wels1247,http://concepticon.clld.org/parameters/166,tir mawr,mainland
+182-1096,wels1247,http://concepticon.clld.org/parameters/113,glan,shore
+182-1278,wels1247,http://concepticon.clld.org/parameters/113,tywyn,shore
+182-1433,wels1247,http://concepticon.clld.org/parameters/113,traeth,shore
+182-1704,wels1247,http://concepticon.clld.org/parameters/113,arfordir,shore
+182-515,wels1247,http://concepticon.clld.org/parameters/1155,ogof,cave
+182-1069,wels1247,http://concepticon.clld.org/parameters/948,dwfr/dŵr,water
+182-647,wels1247,http://concepticon.clld.org/parameters/1474,môr,sea
+182-889,wels1247,http://concepticon.clld.org/parameters/258,llonydd,calm (of sea)
+182-595,wels1247,http://concepticon.clld.org/parameters/258,tawel,calm (of sea)
+182-934,wels1247,http://concepticon.clld.org/parameters/259,garw,rough (of sea)
+182-945,wels1247,http://concepticon.clld.org/parameters/1768,ewyn,foam
+182-1309,wels1247,http://concepticon.clld.org/parameters/645,cefnfor,ocean
+182-1610,wels1247,http://concepticon.clld.org/parameters/624,llyn,lake
+182-613,wels1247,http://concepticon.clld.org/parameters/663,morgainc,"gulf, bay"
+182-393,wels1247,http://concepticon.clld.org/parameters/663,gwlff,"gulf, bay"
+182-993,wels1247,http://concepticon.clld.org/parameters/623,merllyn,lagoon
+182-453,wels1247,http://concepticon.clld.org/parameters/623,morlyn,lagoon
+182-418,wels1247,http://concepticon.clld.org/parameters/623,lagŵn,lagoon
+182-238,wels1247,http://concepticon.clld.org/parameters/660,creigres,reef
+182-518,wels1247,http://concepticon.clld.org/parameters/1662,penrhyn,"headland, point"
+182-1628,wels1247,http://concepticon.clld.org/parameters/1662,pentir,"headland, point"
+182-203,wels1247,http://concepticon.clld.org/parameters/978,ton,wave
+182-1684,wels1247,http://concepticon.clld.org/parameters/978,gwaneg,wave
+182-1332,wels1247,http://concepticon.clld.org/parameters/891,llanw,tide
+182-1721,wels1247,http://concepticon.clld.org/parameters/1026,llanw isel,lowtide
+182-1810,wels1247,http://concepticon.clld.org/parameters/613,llanw uchel,hightide
+182-1283,wels1247,http://concepticon.clld.org/parameters/666,afon,"river, stream, brook"
+182-1187,wels1247,http://concepticon.clld.org/parameters/666,ffrwd,"river, stream, brook"
+182-1055,wels1247,http://concepticon.clld.org/parameters/666,nant,"river, stream, brook"
+182-922,wels1247,http://concepticon.clld.org/parameters/666,afonig,"river, stream, brook"
+182-341,wels1247,http://concepticon.clld.org/parameters/1982,trobwll,whirlpool
+182-378,wels1247,http://concepticon.clld.org/parameters/2144,ffynnon,"spring, well"
+182-1590,wels1247,http://concepticon.clld.org/parameters/2144,pydew,"spring, well"
+182-420,wels1247,http://concepticon.clld.org/parameters/1145,cors,swamp
+182-55,wels1247,http://concepticon.clld.org/parameters/943,pistyll,waterfall
+182-20,wels1247,http://concepticon.clld.org/parameters/420,coedwig,"woods, forest"
+182-1649,wels1247,http://concepticon.clld.org/parameters/420,coed,"woods, forest"
+182-392,wels1247,http://concepticon.clld.org/parameters/420,gwŷdd,"woods, forest"
+182-895,wels1247,http://concepticon.clld.org/parameters/906,coeden,tree (cf 08.600)
+182-1407,wels1247,http://concepticon.clld.org/parameters/906,pren,tree (cf 08.600)
+182-1649,wels1247,http://concepticon.clld.org/parameters/1803,coed,wood
+182-1407,wels1247,http://concepticon.clld.org/parameters/1803,pren,wood
+182-198,wels1247,http://concepticon.clld.org/parameters/2125,carreg,"stone, rock"
+182-83,wels1247,http://concepticon.clld.org/parameters/2125,maen,"stone, rock"
+182-721,wels1247,http://concepticon.clld.org/parameters/2125,craig,"stone, rock"
+182-883,wels1247,http://concepticon.clld.org/parameters/6,daeargryn,earthquake
+182-192,wels1247,http://concepticon.clld.org/parameters/1732,wybr,sky
+182-447,wels1247,http://concepticon.clld.org/parameters/1732,wybren,sky
+182-46,wels1247,http://concepticon.clld.org/parameters/1732,nef,sky
+182-1875,wels1247,http://concepticon.clld.org/parameters/1343,haul,sun
+182-1926,wels1247,http://concepticon.clld.org/parameters/1343,huan,sun
+182-1587,wels1247,http://concepticon.clld.org/parameters/1313,lleuad,moon
+182-1817,wels1247,http://concepticon.clld.org/parameters/1313,lloer,moon
+182-892,wels1247,http://concepticon.clld.org/parameters/1430,seren,star
+182-679,wels1247,http://concepticon.clld.org/parameters/1654,mellt,lightning
+182-1224,wels1247,http://concepticon.clld.org/parameters/1654,lluched,lightning
+182-921,wels1247,http://concepticon.clld.org/parameters/1150,taran,thunder
+182-920,wels1247,http://concepticon.clld.org/parameters/2007,mellten,lightning (as striking)
+182-187,wels1247,http://concepticon.clld.org/parameters/2007,taran(au),lightning (as striking)
+182-1824,wels1247,http://concepticon.clld.org/parameters/2007,tyrfau,lightning (as striking)
+182-402,wels1247,http://concepticon.clld.org/parameters/858,stor(o)m,storm
+182-1802,wels1247,http://concepticon.clld.org/parameters/858,tymestl,storm
+182-1579,wels1247,http://concepticon.clld.org/parameters/858,rhyferthwy,storm
+182-682,wels1247,http://concepticon.clld.org/parameters/1733,enfys,rainbow
+182-729,wels1247,http://concepticon.clld.org/parameters/630,golau,light (noun)
+182-1520,wels1247,http://concepticon.clld.org/parameters/630,goleuni,light (noun)
+182-1471,wels1247,http://concepticon.clld.org/parameters/11,tywyllwch,darkness
+182-614,wels1247,http://concepticon.clld.org/parameters/1388,cysgod,"shade, shadow"
+182-1543,wels1247,http://concepticon.clld.org/parameters/1977,gwlith,dew
+182-926,wels1247,http://concepticon.clld.org/parameters/27,awyr,air
+182-645,wels1247,http://concepticon.clld.org/parameters/27,aer,air
+182-573,wels1247,http://concepticon.clld.org/parameters/960,gwynt,wind
+182-1710,wels1247,http://concepticon.clld.org/parameters/960,awel,wind
+182-256,wels1247,http://concepticon.clld.org/parameters/1489,cwmwl,cloud
+182-337,wels1247,http://concepticon.clld.org/parameters/249,niwl,fog
+182-399,wels1247,http://concepticon.clld.org/parameters/249,nudd,fog
+182-1093,wels1247,http://concepticon.clld.org/parameters/658,glaw,rain (noun)
+182-24,wels1247,http://concepticon.clld.org/parameters/784,eira,snow (noun)
+182-607,wels1247,http://concepticon.clld.org/parameters/784,nyf,snow (noun)
+182-1079,wels1247,http://concepticon.clld.org/parameters/617,rhew,ice
+182-514,wels1247,http://concepticon.clld.org/parameters/617,iâ,ice
+182-1452,wels1247,http://concepticon.clld.org/parameters/952,tywydd,weather
+182-1243,wels1247,http://concepticon.clld.org/parameters/952,hin,weather
+182-1497,wels1247,http://concepticon.clld.org/parameters/221,tân,fire
+182-333,wels1247,http://concepticon.clld.org/parameters/889,fflam,flame (noun)
+182-232,wels1247,http://concepticon.clld.org/parameters/889,ffagl,flame (noun)
+182-16,wels1247,http://concepticon.clld.org/parameters/778,mwg,smoke (noun)
+182-352,wels1247,http://concepticon.clld.org/parameters/646,lludw,ashes
+182-1965,wels1247,http://concepticon.clld.org/parameters/67,marwor,embers
+182-793,wels1247,http://concepticon.clld.org/parameters/67,marwydos,embers
+182-1389,wels1247,http://concepticon.clld.org/parameters/141,llosgi,burn (vb trans)
+182-1389,wels1247,http://concepticon.clld.org/parameters/1428,llosgi,burn (vb intrans)
+182-644,wels1247,http://concepticon.clld.org/parameters/737,ennyn,"light, kindle, ignite"
+182-246,wels1247,http://concepticon.clld.org/parameters/737,cynneu,"light, kindle, ignite"
+182-1776,wels1247,http://concepticon.clld.org/parameters/127,diffodd,extinguish
+182-762,wels1247,http://concepticon.clld.org/parameters/1133,matsen,match (noun)
+182-30,wels1247,http://concepticon.clld.org/parameters/10,cynnud,firewood
+182-1281,wels1247,http://concepticon.clld.org/parameters/10,coed tân,firewood
+182-1206,wels1247,http://concepticon.clld.org/parameters/1188,siarcol,charcoal
+182-1574,wels1247,http://concepticon.clld.org/parameters/1188,sercol,charcoal
+182-772,wels1247,http://concepticon.clld.org/parameters/683,dyn,"person, human being"
+182-1350,wels1247,http://concepticon.clld.org/parameters/683,person,"person, human being"
+182-199,wels1247,http://concepticon.clld.org/parameters/683,bod dynol,"person, human being"
+182-1466,wels1247,http://concepticon.clld.org/parameters/1554,gŵr,man (vs. woman)
+182-772,wels1247,http://concepticon.clld.org/parameters/1554,dyn,man (vs. woman)
+182-476,wels1247,http://concepticon.clld.org/parameters/962,gwraig,woman
+182-482,wels1247,http://concepticon.clld.org/parameters/962,benyw,woman
+182-1249,wels1247,http://concepticon.clld.org/parameters/962,dynes,woman
+182-1371,wels1247,http://concepticon.clld.org/parameters/2263,gwryw,male
+182-482,wels1247,http://concepticon.clld.org/parameters/2260,benyw,female
+182-906,wels1247,http://concepticon.clld.org/parameters/1366,bachgen,boy
+182-1560,wels1247,http://concepticon.clld.org/parameters/1366,hogyn,boy
+182-1327,wels1247,http://concepticon.clld.org/parameters/76,llanc,young man (adolescent)
+182-1915,wels1247,http://concepticon.clld.org/parameters/1646,geneth,girl
+182-1575,wels1247,http://concepticon.clld.org/parameters/1646,hogen,girl
+182-218,wels1247,http://concepticon.clld.org/parameters/1646,merch,girl
+182-218,wels1247,http://concepticon.clld.org/parameters/77,merch,young woman (adolescent)
+182-235,wels1247,http://concepticon.clld.org/parameters/77,llances,young woman (adolescent)
+182-229,wels1247,http://concepticon.clld.org/parameters/77,morwyn,young woman (adolescent)
+182-1922,wels1247,http://concepticon.clld.org/parameters/1304,plentyn,child
+182-1533,wels1247,http://concepticon.clld.org/parameters/1289,maban,"infant, baby"
+182-1548,wels1247,http://concepticon.clld.org/parameters/1289,babi,"infant, baby"
+182-1466,wels1247,http://concepticon.clld.org/parameters/1200,gŵr,husband
+182-1063,wels1247,http://concepticon.clld.org/parameters/1200,priod,husband
+182-476,wels1247,http://concepticon.clld.org/parameters/1199,gwraig,wife
+182-1063,wels1247,http://concepticon.clld.org/parameters/1199,priod,wife
+182-950,wels1247,http://concepticon.clld.org/parameters/203,priodi,marry
+182-868,wels1247,http://concepticon.clld.org/parameters/1259,priodas,"marriage, wedding"
+182-391,wels1247,http://concepticon.clld.org/parameters/1259,neithior,"marriage, wedding"
+182-324,wels1247,http://concepticon.clld.org/parameters/1134,ysgariad,divorce
+182-1553,wels1247,http://concepticon.clld.org/parameters/1217,tad,father
+182-621,wels1247,http://concepticon.clld.org/parameters/1216,mam,mother
+182-593,wels1247,http://concepticon.clld.org/parameters/505,rhieni,parents
+182-1245,wels1247,http://concepticon.clld.org/parameters/424,dyn priod,married man
+182-1421,wels1247,http://concepticon.clld.org/parameters/426,menyw briod,married woman
+182-494,wels1247,http://concepticon.clld.org/parameters/426,dynes briod,married woman
+182-618,wels1247,http://concepticon.clld.org/parameters/1620,mab,son
+182-218,wels1247,http://concepticon.clld.org/parameters/1357,merch,daughter
+182-1922,wels1247,http://concepticon.clld.org/parameters/1801,plentyn,offspring (son or daughter)
+182-509,wels1247,http://concepticon.clld.org/parameters/1801,epil,offspring (son or daughter)
+182-416,wels1247,http://concepticon.clld.org/parameters/1262,brawd,brother
+182-1274,wels1247,http://concepticon.clld.org/parameters/1759,brawd hŷn,older brother
+182-1531,wels1247,http://concepticon.clld.org/parameters/1760,brawd iau,younger brother
+182-808,wels1247,http://concepticon.clld.org/parameters/1263,chwaer,sister
+182-685,wels1247,http://concepticon.clld.org/parameters/1758,chwaer hŷn,older sister
+182-1588,wels1247,http://concepticon.clld.org/parameters/1761,chwaer iau,younger sister
+182-312,wels1247,http://concepticon.clld.org/parameters/1640,brawd/chwaer,sibling
+182-536,wels1247,http://concepticon.clld.org/parameters/1005,efeilliaid,twins
+182-1016,wels1247,http://concepticon.clld.org/parameters/1383,taid,grandfather
+182-873,wels1247,http://concepticon.clld.org/parameters/1383,tad-cu,grandfather
+182-466,wels1247,http://concepticon.clld.org/parameters/406,henwr,old man
+182-430,wels1247,http://concepticon.clld.org/parameters/406,hen ddyn,old man
+182-40,wels1247,http://concepticon.clld.org/parameters/1496,nain,grandmother
+182-1861,wels1247,http://concepticon.clld.org/parameters/1496,mam-gu,grandmother
+182-35,wels1247,http://concepticon.clld.org/parameters/907,hen fenyw,old woman
+182-570,wels1247,http://concepticon.clld.org/parameters/907,hen wraig,old woman
+182-1420,wels1247,http://concepticon.clld.org/parameters/1618,ŵyr,grandson
+182-115,wels1247,http://concepticon.clld.org/parameters/1619,wyres,granddaughter
+182-80,wels1247,http://concepticon.clld.org/parameters/1327,ewythr,uncle
+182-1276,wels1247,http://concepticon.clld.org/parameters/1984,brawd mam,mother's brother
+182-1500,wels1247,http://concepticon.clld.org/parameters/1985,brawd tad,father's brother
+182-443,wels1247,http://concepticon.clld.org/parameters/1272,modryb,aunt
+182-1078,wels1247,http://concepticon.clld.org/parameters/171,chwaer mam,mother's sister
+182-1316,wels1247,http://concepticon.clld.org/parameters/170,chwaer tad,father's sister
+182-901,wels1247,http://concepticon.clld.org/parameters/1063,nai,nephew
+182-168,wels1247,http://concepticon.clld.org/parameters/1642,nith,niece
+182-1896,wels1247,http://concepticon.clld.org/parameters/1643,cefnder,cousin
+182-1727,wels1247,http://concepticon.clld.org/parameters/1643,cyfnither,cousin
+182-1603,wels1247,http://concepticon.clld.org/parameters/1669,cyndadau,ancestors
+182-1680,wels1247,http://concepticon.clld.org/parameters/1669,hynafiaid,ancestors
+182-516,wels1247,http://concepticon.clld.org/parameters/1669,cyndeidiau,ancestors
+182-1636,wels1247,http://concepticon.clld.org/parameters/490,disgynyddion,descendants
+182-974,wels1247,http://concepticon.clld.org/parameters/2255,tad yng nghyfraith (dyn),father-in-law (of a man)
+182-439,wels1247,http://concepticon.clld.org/parameters/2254,tad yng nghyfraith (dynes),father-in-law (of a woman)
+182-257,wels1247,http://concepticon.clld.org/parameters/2256,mam yng nghyfraith (dyn),mother-in-law (of a man)
+182-752,wels1247,http://concepticon.clld.org/parameters/2257,mam yng nghyfraith (dynes),mother-in-law (of a woman)
+182-867,wels1247,http://concepticon.clld.org/parameters/2267,mab yng nghyfraith (dyn),son-in-law (of a man)
+182-1317,wels1247,http://concepticon.clld.org/parameters/2266,mab yng nghyfraith (dynes),son-in-law (of a woman)
+182-916,wels1247,http://concepticon.clld.org/parameters/2265,merch yng nghyfraith (dyn),daughter-in-law (of a man)
+182-654,wels1247,http://concepticon.clld.org/parameters/2264,merch yng nghyfraith (dynes),daughter-in-law (of a woman)
+182-172,wels1247,http://concepticon.clld.org/parameters/237,llystad,stepfather
+182-1904,wels1247,http://concepticon.clld.org/parameters/237,tad gwyn,stepfather
+182-1725,wels1247,http://concepticon.clld.org/parameters/236,llysfam,stepmother
+182-1295,wels1247,http://concepticon.clld.org/parameters/236,mam wen,stepmother
+182-1294,wels1247,http://concepticon.clld.org/parameters/1059,llysfab,stepson
+182-1624,wels1247,http://concepticon.clld.org/parameters/1058,llysferch,stepdaughter
+182-444,wels1247,http://concepticon.clld.org/parameters/1149,plentyn amddifad,orphan
+182-666,wels1247,http://concepticon.clld.org/parameters/1756,gweddw,widow
+182-266,wels1247,http://concepticon.clld.org/parameters/1981,gŵr gweddw,widower
+182-426,wels1247,http://concepticon.clld.org/parameters/1981,gwidwer,widower
+182-382,wels1247,http://concepticon.clld.org/parameters/1981,gwidman,widower
+182-1699,wels1247,http://concepticon.clld.org/parameters/1644,perthnasau,"relatives, kinsmen"
+182-606,wels1247,http://concepticon.clld.org/parameters/1644,ceraint,"relatives, kinsmen"
+182-702,wels1247,http://concepticon.clld.org/parameters/1644,perthynau,"relatives, kinsmen"
+182-1229,wels1247,http://concepticon.clld.org/parameters/1644,tylwyth,"relatives, kinsmen"
+182-1550,wels1247,http://concepticon.clld.org/parameters/194,teulu,family
+182-1229,wels1247,http://concepticon.clld.org/parameters/194,tylwyth,family
+182-1133,wels1247,http://concepticon.clld.org/parameters/1209,fi,I
+182-1015,wels1247,http://concepticon.clld.org/parameters/1215,ti,you (singular)
+182-786,wels1247,http://concepticon.clld.org/parameters/262,ef/hi,he/she/it
+182-465,wels1247,http://concepticon.clld.org/parameters/1212,ni,we
+182-465,wels1247,http://concepticon.clld.org/parameters/1131,ni,we (inclusive)
+182-465,wels1247,http://concepticon.clld.org/parameters/1130,ni,we (exclusive)
+182-1422,wels1247,http://concepticon.clld.org/parameters/1213,chi/chwi,you (plural)
+182-1924,wels1247,http://concepticon.clld.org/parameters/817,hwy/hwynt,they
+182-1258,wels1247,http://concepticon.clld.org/parameters/619,anifail,animal
+182-1711,wels1247,http://concepticon.clld.org/parameters/619,mil,animal
+182-1371,wels1247,http://concepticon.clld.org/parameters/2261,gwryw,male (adj)
+182-482,wels1247,http://concepticon.clld.org/parameters/2262,benyw,female (adj)
+182-1646,wels1247,http://concepticon.clld.org/parameters/631,anifeiliaid,livestock
+182-907,wels1247,http://concepticon.clld.org/parameters/631,da (byw),livestock
+182-825,wels1247,http://concepticon.clld.org/parameters/649,bugeilio,pasture
+182-1478,wels1247,http://concepticon.clld.org/parameters/649,porfelaeth,pasture
+182-1247,wels1247,http://concepticon.clld.org/parameters/649,porfela,pasture
+182-1938,wels1247,http://concepticon.clld.org/parameters/649,porfel,pasture
+182-1142,wels1247,http://concepticon.clld.org/parameters/649,porfa,pasture
+182-422,wels1247,http://concepticon.clld.org/parameters/263,bugail,herdsman
+182-1477,wels1247,http://concepticon.clld.org/parameters/263,cowmon,herdsman
+182-1236,wels1247,http://concepticon.clld.org/parameters/263,hensor,herdsman
+182-1352,wels1247,http://concepticon.clld.org/parameters/851,ystabl,"stable, stall"
+182-1650,wels1247,http://concepticon.clld.org/parameters/851,côr,"stable, stall"
+182-322,wels1247,http://concepticon.clld.org/parameters/1153,gwartheg,cattle (bovine)
+182-261,wels1247,http://concepticon.clld.org/parameters/1153,da,cattle (bovine)
+182-1456,wels1247,http://concepticon.clld.org/parameters/1008,tarw,bull
+182-1512,wels1247,http://concepticon.clld.org/parameters/1169,ych,ox
+182-417,wels1247,http://concepticon.clld.org/parameters/1169,eidion,ox
+182-816,wels1247,http://concepticon.clld.org/parameters/1169,bustach,ox
+182-1682,wels1247,http://concepticon.clld.org/parameters/1007,buwch,cow
+182-497,wels1247,http://concepticon.clld.org/parameters/1989,llo,calf
+182-53,wels1247,http://concepticon.clld.org/parameters/1331,dafad,sheep
+182-965,wels1247,http://concepticon.clld.org/parameters/1344,hwrdd,ram
+182-956,wels1247,http://concepticon.clld.org/parameters/1344,maharen,ram
+182-53,wels1247,http://concepticon.clld.org/parameters/1345,dafad,ewe
+182-655,wels1247,http://concepticon.clld.org/parameters/1345,mamog,ewe
+182-1409,wels1247,http://concepticon.clld.org/parameters/820,oen,lamb
+182-1068,wels1247,http://concepticon.clld.org/parameters/1348,baedd,boar
+182-1319,wels1247,http://concepticon.clld.org/parameters/1348,twrch,boar
+182-1890,wels1247,http://concepticon.clld.org/parameters/1351,hwch,sow (2)
+182-1842,wels1247,http://concepticon.clld.org/parameters/1337,mochyn,pig
+182-683,wels1247,http://concepticon.clld.org/parameters/1502,gafr,goat
+182-248,wels1247,http://concepticon.clld.org/parameters/264,bwch,he-goat
+182-1950,wels1247,http://concepticon.clld.org/parameters/1972,myn,kid
+182-1244,wels1247,http://concepticon.clld.org/parameters/615,ceffyl,horse (equine)
+182-1365,wels1247,http://concepticon.clld.org/parameters/615,march,horse (equine)
+182-1365,wels1247,http://concepticon.clld.org/parameters/936,march,stallion
+182-800,wels1247,http://concepticon.clld.org/parameters/936,ystalwyn,stallion
+182-575,wels1247,http://concepticon.clld.org/parameters/938,caseg,mare
+182-487,wels1247,http://concepticon.clld.org/parameters/1647,ebol,"foal, colt"
+182-1786,wels1247,http://concepticon.clld.org/parameters/1862,asyn,"ass, donkey"
+182-294,wels1247,http://concepticon.clld.org/parameters/890,mul,mule
+182-251,wels1247,http://concepticon.clld.org/parameters/265,ffowlyn,fowl
+182-224,wels1247,http://concepticon.clld.org/parameters/265,iâr,fowl
+182-189,wels1247,http://concepticon.clld.org/parameters/265,dofedn,fowl
+182-313,wels1247,http://concepticon.clld.org/parameters/1511,ceiliog,"cock, rooster"
+182-224,wels1247,http://concepticon.clld.org/parameters/1514,iâr,hen
+182-1686,wels1247,http://concepticon.clld.org/parameters/1318,cyw,chicken
+182-211,wels1247,http://concepticon.clld.org/parameters/1187,gŵydd,goose
+182-364,wels1247,http://concepticon.clld.org/parameters/1360,hwyad,duck
+182-114,wels1247,http://concepticon.clld.org/parameters/1360,hwyaden,duck
+182-136,wels1247,http://concepticon.clld.org/parameters/539,nyth,nest
+182-604,wels1247,http://concepticon.clld.org/parameters/937,aderyn,bird
+182-1474,wels1247,http://concepticon.clld.org/parameters/937,edn,bird
+182-406,wels1247,http://concepticon.clld.org/parameters/950,gwylan,seagull
+182-792,wels1247,http://concepticon.clld.org/parameters/758,crëyr,heron
+182-1718,wels1247,http://concepticon.clld.org/parameters/1905,eryr,eagle
+182-1190,wels1247,http://concepticon.clld.org/parameters/307,gwalch,hawk
+182-1632,wels1247,http://concepticon.clld.org/parameters/307,hebog,hawk
+182-1691,wels1247,http://concepticon.clld.org/parameters/1185,fwltur,vulture
+182-1182,wels1247,http://concepticon.clld.org/parameters/1793,ystlum,bat
+182-281,wels1247,http://concepticon.clld.org/parameters/882,parot,parrot
+182-1554,wels1247,http://concepticon.clld.org/parameters/882,poli parot,parrot
+182-347,wels1247,http://concepticon.clld.org/parameters/913,brân,crow
+182-643,wels1247,http://concepticon.clld.org/parameters/1853,colomen,dove
+182-1342,wels1247,http://concepticon.clld.org/parameters/735,tylluan,owl
+182-1594,wels1247,http://concepticon.clld.org/parameters/735,gwdihŵ,owl
+182-1793,wels1247,http://concepticon.clld.org/parameters/2009,ci,dog
+182-529,wels1247,http://concepticon.clld.org/parameters/1136,cwningen,rabbit
+182-1663,wels1247,http://concepticon.clld.org/parameters/1208,cath,cat
+182-87,wels1247,http://concepticon.clld.org/parameters/309,oposwm,opossum
+182-1761,wels1247,http://concepticon.clld.org/parameters/2139,llygoden,"mouse, rat"
+182-139,wels1247,http://concepticon.clld.org/parameters/2139,llygoden fawr,"mouse, rat"
+182-384,wels1247,http://concepticon.clld.org/parameters/2139,llygoden ffyrnig,"mouse, rat"
+182-1473,wels1247,http://concepticon.clld.org/parameters/227,pysgodyn,fish
+182-1314,wels1247,http://concepticon.clld.org/parameters/227,pysg,fish
+182-564,wels1247,http://concepticon.clld.org/parameters/213,asgell (y cefn),fin (dorsal)
+182-1162,wels1247,http://concepticon.clld.org/parameters/266,cen,fishscale
+182-1597,wels1247,http://concepticon.clld.org/parameters/266,cennyn (pysgodyn),fishscale
+182-1023,wels1247,http://concepticon.clld.org/parameters/1916,tagell,gill
+182-170,wels1247,http://concepticon.clld.org/parameters/1916,crogen,gill
+182-1321,wels1247,http://concepticon.clld.org/parameters/1916,cragen,gill
+182-1321,wels1247,http://concepticon.clld.org/parameters/598,cragen,shell
+182-1720,wels1247,http://concepticon.clld.org/parameters/1110,siarc,shark
+182-1226,wels1247,http://concepticon.clld.org/parameters/1110,morgi,shark
+182-1253,wels1247,http://concepticon.clld.org/parameters/1479,llamhidydd,"porpoise, dolphin"
+182-60,wels1247,http://concepticon.clld.org/parameters/1479,morhwch,"porpoise, dolphin"
+182-1714,wels1247,http://concepticon.clld.org/parameters/1479,dolffin,"porpoise, dolphin"
+182-484,wels1247,http://concepticon.clld.org/parameters/957,morfil,whale
+182-1772,wels1247,http://concepticon.clld.org/parameters/1910,cath fôr ddu,stingray
+182-620,wels1247,http://concepticon.clld.org/parameters/1910,morgath ddu,stingray
+182-227,wels1247,http://concepticon.clld.org/parameters/1013,llysywen rawn,freshwater eel
+182-485,wels1247,http://concepticon.clld.org/parameters/522,blaidd,wolf
+182-1592,wels1247,http://concepticon.clld.org/parameters/1386,llew,lion
+182-828,wels1247,http://concepticon.clld.org/parameters/1820,arth,bear
+182-1230,wels1247,http://concepticon.clld.org/parameters/1312,cadno,fox
+182-583,wels1247,http://concepticon.clld.org/parameters/1312,llwynog,fox
+182-672,wels1247,http://concepticon.clld.org/parameters/1936,carw,deer
+182-1503,wels1247,http://concepticon.clld.org/parameters/1936,hydd,deer
+182-823,wels1247,http://concepticon.clld.org/parameters/1350,mwnci,monkey
+182-367,wels1247,http://concepticon.clld.org/parameters/1350,epa,monkey
+182-1141,wels1247,http://concepticon.clld.org/parameters/1290,eliffant,elephant
+182-1019,wels1247,http://concepticon.clld.org/parameters/1290,cawrfil,elephant
+182-1857,wels1247,http://concepticon.clld.org/parameters/1871,camel,camel
+182-1116,wels1247,http://concepticon.clld.org/parameters/1871,cawrfarch,camel
+182-659,wels1247,http://concepticon.clld.org/parameters/620,trychfilyn,insect
+182-1081,wels1247,http://concepticon.clld.org/parameters/620,pryfyn,insect
+182-1345,wels1247,http://concepticon.clld.org/parameters/310,lleuen,louse
+182-1017,wels1247,http://concepticon.clld.org/parameters/267,nedden,nit (louse egg)
+182-413,wels1247,http://concepticon.clld.org/parameters/232,chwannen,flea
+182-1963,wels1247,http://concepticon.clld.org/parameters/1974,neidr gantroed,centipede
+182-678,wels1247,http://concepticon.clld.org/parameters/1974,cantroed,centipede
+182-33,wels1247,http://concepticon.clld.org/parameters/1538,(pryf) sgorpion,scorpion
+182-1399,wels1247,http://concepticon.clld.org/parameters/1575,chwilen ddu,cockroach
+182-1898,wels1247,http://concepticon.clld.org/parameters/587,morgrugyn,ant
+182-853,wels1247,http://concepticon.clld.org/parameters/587,mywionyn,ant
+182-1747,wels1247,http://concepticon.clld.org/parameters/587,mowion,ant
+182-306,wels1247,http://concepticon.clld.org/parameters/843,cor,spider
+182-428,wels1247,http://concepticon.clld.org/parameters/843,corryn,spider
+182-986,wels1247,http://concepticon.clld.org/parameters/843,pryf copyn,spider
+182-171,wels1247,http://concepticon.clld.org/parameters/1065,gwe corryn,spider web
+182-1838,wels1247,http://concepticon.clld.org/parameters/1065,gwe pryf copyn,spider web
+182-1211,wels1247,http://concepticon.clld.org/parameters/665,gwenynen,bee
+182-1140,wels1247,http://concepticon.clld.org/parameters/1931,cŵyr gwenyn,beeswax
+182-73,wels1247,http://concepticon.clld.org/parameters/88,cwch gwenyn,beehive
+182-806,wels1247,http://concepticon.clld.org/parameters/1517,cacynen (feirch),wasp
+182-130,wels1247,http://concepticon.clld.org/parameters/1517,gwenynen (feirch),wasp
+182-1460,wels1247,http://concepticon.clld.org/parameters/1517,piffgi,wasp
+182-642,wels1247,http://concepticon.clld.org/parameters/1517,picwnen,wasp
+182-1065,wels1247,http://concepticon.clld.org/parameters/1517,piffgwnen,wasp
+182-1118,wels1247,http://concepticon.clld.org/parameters/1504,gwybedyn,fly
+182-1515,wels1247,http://concepticon.clld.org/parameters/1504,cylionyn,fly
+182-725,wels1247,http://concepticon.clld.org/parameters/1504,pry,fly
+182-1081,wels1247,http://concepticon.clld.org/parameters/1504,pryfyn,fly
+182-803,wels1247,http://concepticon.clld.org/parameters/1504,cleren,fly
+182-720,wels1247,http://concepticon.clld.org/parameters/95,gwybedyn mân,"sandfly (midge), gnat"
+182-424,wels1247,http://concepticon.clld.org/parameters/95,mân-wybedyn,"sandfly (midge), gnat"
+182-861,wels1247,http://concepticon.clld.org/parameters/95,piwiad,"sandfly (midge), gnat"
+182-930,wels1247,http://concepticon.clld.org/parameters/95,piwiedyn,"sandfly (midge), gnat"
+182-1393,wels1247,http://concepticon.clld.org/parameters/1509,mosgito,mosquito
+182-862,wels1247,http://concepticon.clld.org/parameters/1219,pryf genwair,worm
+182-624,wels1247,http://concepticon.clld.org/parameters/730,neidr,snake
+182-1075,wels1247,http://concepticon.clld.org/parameters/730,sarff,snake
+182-841,wels1247,http://concepticon.clld.org/parameters/206,pryf tân,firefly
+182-660,wels1247,http://concepticon.clld.org/parameters/1791,glöyn byw,butterfly
+182-21,wels1247,http://concepticon.clld.org/parameters/1791,pili pala,butterfly
+182-82,wels1247,http://concepticon.clld.org/parameters/607,ceiliog y rhedyn,grasshopper
+182-1223,wels1247,http://concepticon.clld.org/parameters/1543,malwoden,snail
+182-764,wels1247,http://concepticon.clld.org/parameters/503,broga,frog
+182-671,wels1247,http://concepticon.clld.org/parameters/632,madfall,lizard
+182-1071,wels1247,http://concepticon.clld.org/parameters/632,genau goeg,lizard
+182-1870,wels1247,http://concepticon.clld.org/parameters/1857,crocodil,"crocodile, alligator"
+182-915,wels1247,http://concepticon.clld.org/parameters/1857,crocodeil,"crocodile, alligator"
+182-304,wels1247,http://concepticon.clld.org/parameters/112,crwban y môr,turtle
+182-307,wels1247,http://concepticon.clld.org/parameters/112,môr-grwban,turtle
+182-1120,wels1247,http://concepticon.clld.org/parameters/1480,corff,body
+182-1962,wels1247,http://concepticon.clld.org/parameters/763,croen,"skin, hide"
+182-1162,wels1247,http://concepticon.clld.org/parameters/763,cen,"skin, hide"
+182-1432,wels1247,http://concepticon.clld.org/parameters/2259,cig,flesh
+182-838,wels1247,http://concepticon.clld.org/parameters/2259,cnawd,flesh
+182-1003,wels1247,http://concepticon.clld.org/parameters/1040,gwallt,hair (head)
+182-1671,wels1247,http://concepticon.clld.org/parameters/1040,blew,hair (head)
+182-1289,wels1247,http://concepticon.clld.org/parameters/678,barf,beard
+182-1692,wels1247,http://concepticon.clld.org/parameters/189,blew (ar y corff),body hair
+182-1840,wels1247,http://concepticon.clld.org/parameters/36,cedor,pubic hair
+182-1631,wels1247,http://concepticon.clld.org/parameters/36,blew cedor,pubic hair
+182-524,wels1247,http://concepticon.clld.org/parameters/36,blew'r arffed,pubic hair
+182-308,wels1247,http://concepticon.clld.org/parameters/576,marwdon,dandruff
+182-910,wels1247,http://concepticon.clld.org/parameters/576,mardon,dandruff
+182-1162,wels1247,http://concepticon.clld.org/parameters/576,cen,dandruff
+182-893,wels1247,http://concepticon.clld.org/parameters/946,gwaed,blood
+182-1536,wels1247,http://concepticon.clld.org/parameters/946,crau,blood
+182-1753,wels1247,http://concepticon.clld.org/parameters/525,gwythïen,"vein, artery"
+182-1088,wels1247,http://concepticon.clld.org/parameters/1394,asgwrn,bone
+182-1461,wels1247,http://concepticon.clld.org/parameters/801,asen,rib
+182-419,wels1247,http://concepticon.clld.org/parameters/1393,corn,horn
+182-938,wels1247,http://concepticon.clld.org/parameters/1220,cynffon,tail
+182-692,wels1247,http://concepticon.clld.org/parameters/1291,cefn,back
+182-1022,wels1247,http://concepticon.clld.org/parameters/805,asgwrn cefn,spine
+182-1397,wels1247,http://concepticon.clld.org/parameters/1256,pen,head
+182-579,wels1247,http://concepticon.clld.org/parameters/1604,arlais,"side of head, temple"
+182-785,wels1247,http://concepticon.clld.org/parameters/1605,penglog,skull
+182-580,wels1247,http://concepticon.clld.org/parameters/1583,ymennydd,brain
+182-1762,wels1247,http://concepticon.clld.org/parameters/1560,wyneb,face
+182-826,wels1247,http://concepticon.clld.org/parameters/123,talcen,forehead
+182-1886,wels1247,http://concepticon.clld.org/parameters/798,gên,jaw
+182-1523,wels1247,http://concepticon.clld.org/parameters/798,cern,jaw
+182-1300,wels1247,http://concepticon.clld.org/parameters/1730,grudd,cheek
+182-526,wels1247,http://concepticon.clld.org/parameters/1730,boch,cheek
+182-1886,wels1247,http://concepticon.clld.org/parameters/1510,gên,chin
+182-1602,wels1247,http://concepticon.clld.org/parameters/1248,llygad,eye
+182-988,wels1247,http://concepticon.clld.org/parameters/1173,ael y llygad,eyebrow
+182-931,wels1247,http://concepticon.clld.org/parameters/17,amrant,eyelid
+182-1690,wels1247,http://concepticon.clld.org/parameters/17,clawr llygad,eyelid
+182-1566,wels1247,http://concepticon.clld.org/parameters/1540,blewyn amrant,eyelash
+182-346,wels1247,http://concepticon.clld.org/parameters/1655,amrantu,blink
+182-1919,wels1247,http://concepticon.clld.org/parameters/1655,ysmicio (llygad),blink
+182-822,wels1247,http://concepticon.clld.org/parameters/1247,clust,ear
+182-425,wels1247,http://concepticon.clld.org/parameters/18,llabed clust,earlobe
+182-510,wels1247,http://concepticon.clld.org/parameters/32,cwyr clust(iau),earwax
+182-1442,wels1247,http://concepticon.clld.org/parameters/1221,trwyn,nose
+182-332,wels1247,http://concepticon.clld.org/parameters/1178,ffroen,nostril
+182-1176,wels1247,http://concepticon.clld.org/parameters/208,llysnafedd,mucus (nasal)
+182-1160,wels1247,http://concepticon.clld.org/parameters/674,ceg,mouth
+182-1961,wels1247,http://concepticon.clld.org/parameters/674,genau,mouth
+182-1946,wels1247,http://concepticon.clld.org/parameters/73,pig,beak
+182-477,wels1247,http://concepticon.clld.org/parameters/478,gwefus,lip
+182-1037,wels1247,http://concepticon.clld.org/parameters/478,gwefl,lip
+182-1400,wels1247,http://concepticon.clld.org/parameters/1205,tafod,tongue
+182-1222,wels1247,http://concepticon.clld.org/parameters/1380,dant,tooth
+182-1877,wels1247,http://concepticon.clld.org/parameters/139,cig y dannedd,gums
+182-1788,wels1247,http://concepticon.clld.org/parameters/139,gorcha(r)fan,gums
+182-805,wels1247,http://concepticon.clld.org/parameters/1049,dant malu,molartooth
+182-155,wels1247,http://concepticon.clld.org/parameters/1049,cilddant,molartooth
+182-665,wels1247,http://concepticon.clld.org/parameters/1049,bochddant,molartooth
+182-1866,wels1247,http://concepticon.clld.org/parameters/1333,gwddf,neck
+182-411,wels1247,http://concepticon.clld.org/parameters/1333,mwnwgl,neck
+182-877,wels1247,http://concepticon.clld.org/parameters/1347,gwar,nape of neck
+182-216,wels1247,http://concepticon.clld.org/parameters/1347,gwegil,nape of neck
+182-1866,wels1247,http://concepticon.clld.org/parameters/1346,gwddf,throat
+182-779,wels1247,http://concepticon.clld.org/parameters/1482,ysgwydd,shoulder
+182-544,wels1247,http://concepticon.clld.org/parameters/172,palfais,shoulderblade
+182-1792,wels1247,http://concepticon.clld.org/parameters/172,crafell ysgwydd,shoulderblade
+182-1964,wels1247,http://concepticon.clld.org/parameters/1994,pont yr ysgwydd,collarbone
+182-626,wels1247,http://concepticon.clld.org/parameters/1994,trybedd yr ysgwydd,collarbone
+182-1414,wels1247,http://concepticon.clld.org/parameters/1673,braich,arm
+182-787,wels1247,http://concepticon.clld.org/parameters/1886,cesail,armpit
+182-1604,wels1247,http://concepticon.clld.org/parameters/981,elin,elbow
+182-407,wels1247,http://concepticon.clld.org/parameters/981,penelin,elbow
+182-154,wels1247,http://concepticon.clld.org/parameters/799,arddwrn,wrist
+182-1067,wels1247,http://concepticon.clld.org/parameters/1277,llaw,hand
+182-1388,wels1247,http://concepticon.clld.org/parameters/1183,palf,palm of hand
+182-1613,wels1247,http://concepticon.clld.org/parameters/1303,bys,finger
+182-611,wels1247,http://concepticon.clld.org/parameters/1781,bawd,thumb
+182-1921,wels1247,http://concepticon.clld.org/parameters/1781,bodfys,thumb
+182-317,wels1247,http://concepticon.clld.org/parameters/1781,bys bawd,thumb
+182-699,wels1247,http://concepticon.clld.org/parameters/1258,ewin,fingernail
+182-1737,wels1247,http://concepticon.clld.org/parameters/72,crafanc,claw
+182-63,wels1247,http://concepticon.clld.org/parameters/1297,coes,leg
+182-1713,wels1247,http://concepticon.clld.org/parameters/800,morddwyd,thigh
+182-1880,wels1247,http://concepticon.clld.org/parameters/498,croth coes,calf of leg
+182-366,wels1247,http://concepticon.clld.org/parameters/498,bola coes,calf of leg
+182-1931,wels1247,http://concepticon.clld.org/parameters/1371,glin,knee
+182-1262,wels1247,http://concepticon.clld.org/parameters/1371,pen glin,knee
+182-1668,wels1247,http://concepticon.clld.org/parameters/1301,troed,foot
+182-1770,wels1247,http://concepticon.clld.org/parameters/803,ffêr,ankle
+182-1689,wels1247,http://concepticon.clld.org/parameters/803,migwrn,ankle
+182-696,wels1247,http://concepticon.clld.org/parameters/980,sawdl,heel
+182-489,wels1247,http://concepticon.clld.org/parameters/318,ôl troed,footprint
+182-998,wels1247,http://concepticon.clld.org/parameters/1389,bys troed,toe
+182-791,wels1247,http://concepticon.clld.org/parameters/1257,adain,wing
+182-951,wels1247,http://concepticon.clld.org/parameters/1257,asgell,wing
+182-1862,wels1247,http://concepticon.clld.org/parameters/1201,pluen,feather
+182-850,wels1247,http://concepticon.clld.org/parameters/1592,bron,chest
+182-1102,wels1247,http://concepticon.clld.org/parameters/1592,dwyfron,chest
+182-850,wels1247,http://concepticon.clld.org/parameters/1402,bron,breast (of woman)
+182-369,wels1247,http://concepticon.clld.org/parameters/796,teth,"nipple, teat"
+182-359,wels1247,http://concepticon.clld.org/parameters/154,pwrs,udder
+182-1918,wels1247,http://concepticon.clld.org/parameters/154,cader,udder
+182-1743,wels1247,http://concepticon.clld.org/parameters/1838,bogail,navel
+182-1360,wels1247,http://concepticon.clld.org/parameters/1223,calon,heart
+182-783,wels1247,http://concepticon.clld.org/parameters/688,ysgyfaint,lung
+182-1583,wels1247,http://concepticon.clld.org/parameters/1224,afu,liver
+182-694,wels1247,http://concepticon.clld.org/parameters/1224,iau,liver
+182-940,wels1247,http://concepticon.clld.org/parameters/489,aren,kidney
+182-1189,wels1247,http://concepticon.clld.org/parameters/489,lwlen,kidney
+182-454,wels1247,http://concepticon.clld.org/parameters/1744,dueg,spleen
+182-1755,wels1247,http://concepticon.clld.org/parameters/1744,poten ludw,spleen
+182-550,wels1247,http://concepticon.clld.org/parameters/819,bol,stomach
+182-415,wels1247,http://concepticon.clld.org/parameters/819,bola,stomach
+182-1143,wels1247,http://concepticon.clld.org/parameters/819,cylla,stomach
+182-89,wels1247,http://concepticon.clld.org/parameters/819,stumog,stomach
+182-1272,wels1247,http://concepticon.clld.org/parameters/1991,coluddion,"intestines, guts"
+182-1940,wels1247,http://concepticon.clld.org/parameters/1991,perfeddion,"intestines, guts"
+182-848,wels1247,http://concepticon.clld.org/parameters/1681,canol,waist
+182-1462,wels1247,http://concepticon.clld.org/parameters/1681,gwasg,waist
+182-1315,wels1247,http://concepticon.clld.org/parameters/1681,meingorff,waist
+182-571,wels1247,http://concepticon.clld.org/parameters/1745,clun,hip
+182-600,wels1247,http://concepticon.clld.org/parameters/1745,pen y glun,hip
+182-736,wels1247,http://concepticon.clld.org/parameters/834,pen ôl,buttocks
+182-473,wels1247,http://concepticon.clld.org/parameters/834,tin,buttocks
+182-572,wels1247,http://concepticon.clld.org/parameters/804,croth,womb
+182-71,wels1247,http://concepticon.clld.org/parameters/804,bru,womb
+182-918,wels1247,http://concepticon.clld.org/parameters/797,caill,testicle
+182-303,wels1247,http://concepticon.clld.org/parameters/1222,cal(a),penis
+182-835,wels1247,http://concepticon.clld.org/parameters/1222,pidyn,penis
+182-955,wels1247,http://concepticon.clld.org/parameters/1407,anadlu,"breathe, breath"
+182-1638,wels1247,http://concepticon.clld.org/parameters/1407,anadl,"breathe, breath"
+182-343,wels1247,http://concepticon.clld.org/parameters/1028,dylyfu gên,"yawn, gape"
+182-1577,wels1247,http://concepticon.clld.org/parameters/162,igian,hiccough
+182-1094,wels1247,http://concepticon.clld.org/parameters/879,pesychu,cough
+182-1271,wels1247,http://concepticon.clld.org/parameters/1621,tisian,sneeze
+182-973,wels1247,http://concepticon.clld.org/parameters/126,chwysu,perspire
+182-1620,wels1247,http://concepticon.clld.org/parameters/1440,poeri,spit
+182-771,wels1247,http://concepticon.clld.org/parameters/1278,cyfogi,vomit
+182-555,wels1247,http://concepticon.clld.org/parameters/1278,chwydu,vomit
+182-565,wels1247,http://concepticon.clld.org/parameters/1403,brathu,bite
+182-1404,wels1247,http://concepticon.clld.org/parameters/1403,cnoi,bite
+182-126,wels1247,http://concepticon.clld.org/parameters/319,llyfu,lick
+182-789,wels1247,http://concepticon.clld.org/parameters/268,glafoerio,dribble
+182-1378,wels1247,http://concepticon.clld.org/parameters/268,dreflu,dribble
+182-1159,wels1247,http://concepticon.clld.org/parameters/1585,cysgu,sleep
+182-408,wels1247,http://concepticon.clld.org/parameters/1585,huno,sleep
+182-700,wels1247,http://concepticon.clld.org/parameters/1585,hun,sleep
+182-773,wels1247,http://concepticon.clld.org/parameters/1585,cwsg,sleep
+182-1534,wels1247,http://concepticon.clld.org/parameters/1983,rhochian,snore
+182-498,wels1247,http://concepticon.clld.org/parameters/1920,breuddwydio,dream
+182-1804,wels1247,http://concepticon.clld.org/parameters/1602,dihuno,wake up
+182-1374,wels1247,http://concepticon.clld.org/parameters/1602,deffro(i),wake up
+182-77,wels1247,http://concepticon.clld.org/parameters/1159,bramu,break wind
+182-1007,wels1247,http://concepticon.clld.org/parameters/1159,rhechian,break wind
+182-380,wels1247,http://concepticon.clld.org/parameters/1159,torri gwynt,break wind
+182-1353,wels1247,http://concepticon.clld.org/parameters/1159,rhechu,break wind
+182-1292,wels1247,http://concepticon.clld.org/parameters/592,piso,urinate
+182-1966,wels1247,http://concepticon.clld.org/parameters/592,troethi,urinate
+182-1952,wels1247,http://concepticon.clld.org/parameters/592,pis,urinate
+182-1933,wels1247,http://concepticon.clld.org/parameters/592,troeth,urinate
+182-1745,wels1247,http://concepticon.clld.org/parameters/676,cachu,defecate
+182-488,wels1247,http://concepticon.clld.org/parameters/676,caca,defecate
+182-1097,wels1247,http://concepticon.clld.org/parameters/676,cach,defecate
+182-205,wels1247,http://concepticon.clld.org/parameters/676,tom,defecate
+182-427,wels1247,http://concepticon.clld.org/parameters/1785,cael cyfathrach (rywiol),have sexual intercourse
+182-474,wels1247,http://concepticon.clld.org/parameters/1785,cnuchio,have sexual intercourse
+182-1639,wels1247,http://concepticon.clld.org/parameters/1785,cydio,have sexual intercourse
+182-1521,wels1247,http://concepticon.clld.org/parameters/52,rhynnu,shiver
+182-1464,wels1247,http://concepticon.clld.org/parameters/52,crynu,shiver
+182-1242,wels1247,http://concepticon.clld.org/parameters/138,ymdrochi,bathe
+182-646,wels1247,http://concepticon.clld.org/parameters/138,ymolchi,bathe
+182-528,wels1247,http://concepticon.clld.org/parameters/138,trochi,bathe
+182-837,wels1247,http://concepticon.clld.org/parameters/138,golchi,bathe
+182-831,wels1247,http://concepticon.clld.org/parameters/1152,cenhedlu,beget (of father)
+182-1525,wels1247,http://concepticon.clld.org/parameters/1090,geni,born (to be)
+182-1666,wels1247,http://concepticon.clld.org/parameters/1123,beichiog,pregnant
+182-1335,wels1247,http://concepticon.clld.org/parameters/1087,beichiogi,conceive
+182-1241,wels1247,http://concepticon.clld.org/parameters/1087,cenhedlu plentyn,conceive
+182-1789,wels1247,http://concepticon.clld.org/parameters/1422,byw,"live, living, life"
+182-1312,wels1247,http://concepticon.clld.org/parameters/1422,bywyd,"live, living, life"
+182-827,wels1247,http://concepticon.clld.org/parameters/1494,marw,"die, dead"
+182-1914,wels1247,http://concepticon.clld.org/parameters/1494,wedi marw,"die, dead"
+182-159,wels1247,http://concepticon.clld.org/parameters/1494,angau,"die, dead"
+182-140,wels1247,http://concepticon.clld.org/parameters/1494,marwolaeth,"die, dead"
+182-1232,wels1247,http://concepticon.clld.org/parameters/1904,wedi ei foddi,drowned
+182-1269,wels1247,http://concepticon.clld.org/parameters/1904,boddedig,drowned
+182-804,wels1247,http://concepticon.clld.org/parameters/1417,lladd,kill
+182-1120,wels1247,http://concepticon.clld.org/parameters/767,corff,corpse
+182-183,wels1247,http://concepticon.clld.org/parameters/767,celain,corpse
+182-996,wels1247,http://concepticon.clld.org/parameters/1719,claddu,bury (the dead)
+182-237,wels1247,http://concepticon.clld.org/parameters/1719,daearu,bury (the dead)
+182-483,wels1247,http://concepticon.clld.org/parameters/1773,bedd,"grave, tomb"
+182-1570,wels1247,http://concepticon.clld.org/parameters/1773,beddrod,"grave, tomb"
+182-448,wels1247,http://concepticon.clld.org/parameters/785,cryf,"strong, mighty, powerful"
+182-1303,wels1247,http://concepticon.clld.org/parameters/785,cadarn,"strong, mighty, powerful"
+182-612,wels1247,http://concepticon.clld.org/parameters/785,nerthol,"strong, mighty, powerful"
+182-885,wels1247,http://concepticon.clld.org/parameters/1601,gwan,weak
+182-1751,wels1247,http://concepticon.clld.org/parameters/1601,eiddil,weak
+182-412,wels1247,http://concepticon.clld.org/parameters/1364,iach,"well, health"
+182-464,wels1247,http://concepticon.clld.org/parameters/1364,holliach,"well, health"
+182-64,wels1247,http://concepticon.clld.org/parameters/1364,iechyd,"well, health"
+182-898,wels1247,http://concepticon.clld.org/parameters/1847,claf,"sick, sickness"
+182-1540,wels1247,http://concepticon.clld.org/parameters/1847,clefyd,"sick, sickness"
+182-513,wels1247,http://concepticon.clld.org/parameters/1847,afiechyd,"sick, sickness"
+182-1735,wels1247,http://concepticon.clld.org/parameters/1534,twymyn,fever
+182-195,wels1247,http://concepticon.clld.org/parameters/1534,gwres,fever
+182-1337,wels1247,http://concepticon.clld.org/parameters/1957,chwydd y gwddf,goiter
+182-1917,wels1247,http://concepticon.clld.org/parameters/102,annwyd,cold (catarrh)
+182-1591,wels1247,http://concepticon.clld.org/parameters/1109,archoll,"wound, sore"
+182-1609,wels1247,http://concepticon.clld.org/parameters/1109,gweli,"wound, sore"
+182-768,wels1247,http://concepticon.clld.org/parameters/1109,briw,"wound, sore"
+182-299,wels1247,http://concepticon.clld.org/parameters/1109,clwyf,"wound, sore"
+182-601,wels1247,http://concepticon.clld.org/parameters/1148,clais,bruise
+182-554,wels1247,http://concepticon.clld.org/parameters/1903,chwydd,swelling
+182-373,wels1247,http://concepticon.clld.org/parameters/1903,chwyddi,swelling
+182-288,wels1247,http://concepticon.clld.org/parameters/148,cosfa,itch
+182-530,wels1247,http://concepticon.clld.org/parameters/148,cosi,itch
+182-127,wels1247,http://concepticon.clld.org/parameters/1584,pothell,blister
+182-1742,wels1247,http://concepticon.clld.org/parameters/1584,plistryn,blister
+182-264,wels1247,http://concepticon.clld.org/parameters/1584,chwysigen,blister
+182-964,wels1247,http://concepticon.clld.org/parameters/1584,swigen,blister
+182-2,wels1247,http://concepticon.clld.org/parameters/793,casgliad,boil (noun)
+182-1768,wels1247,http://concepticon.clld.org/parameters/793,cornwyd,boil (noun)
+182-1367,wels1247,http://concepticon.clld.org/parameters/793,pendduyn,boil (noun)
+182-214,wels1247,http://concepticon.clld.org/parameters/1808,crawn,pus
+182-715,wels1247,http://concepticon.clld.org/parameters/1808,crawniad,pus
+182-866,wels1247,http://concepticon.clld.org/parameters/1808,casgl,pus
+182-549,wels1247,http://concepticon.clld.org/parameters/497,craith,scar
+182-512,wels1247,http://concepticon.clld.org/parameters/499,iacháu,"cure, heal"
+182-1813,wels1247,http://concepticon.clld.org/parameters/499,gwella,"cure, heal"
+182-1376,wels1247,http://concepticon.clld.org/parameters/597,meddyg,physician
+182-852,wels1247,http://concepticon.clld.org/parameters/597,doctor,physician
+182-1149,wels1247,http://concepticon.clld.org/parameters/1372,meddyginiaeth,"medicine, drug"
+182-1903,wels1247,http://concepticon.clld.org/parameters/1372,cyffur,"medicine, drug"
+182-766,wels1247,http://concepticon.clld.org/parameters/1372,ffisig,"medicine, drug"
+182-870,wels1247,http://concepticon.clld.org/parameters/1372,moddion,"medicine, drug"
+182-1884,wels1247,http://concepticon.clld.org/parameters/655,gwenwyn,poison
+182-710,wels1247,http://concepticon.clld.org/parameters/1757,lluddedig,"tired, weary"
+182-1165,wels1247,http://concepticon.clld.org/parameters/1757,blinedig,"tired, weary"
+182-1706,wels1247,http://concepticon.clld.org/parameters/1757,blin,"tired, weary"
+182-1719,wels1247,http://concepticon.clld.org/parameters/168,gorffwys,rest
+182-636,wels1247,http://concepticon.clld.org/parameters/168,dadflino,rest
+182-1087,wels1247,http://concepticon.clld.org/parameters/1564,diog,lazy
+182-1746,wels1247,http://concepticon.clld.org/parameters/1125,moel,bald
+182-1463,wels1247,http://concepticon.clld.org/parameters/320,cloff,lame
+182-142,wels1247,http://concepticon.clld.org/parameters/996,byddar,deaf
+182-291,wels1247,http://concepticon.clld.org/parameters/1666,mud,mute
+182-1457,wels1247,http://concepticon.clld.org/parameters/1653,dall,blind
+182-1008,wels1247,http://concepticon.clld.org/parameters/1463,meddw,intoxicated
+182-1105,wels1247,http://concepticon.clld.org/parameters/590,noeth,"naked, bare"
+182-1565,wels1247,http://concepticon.clld.org/parameters/590,llwm,"naked, bare"
+182-133,wels1247,http://concepticon.clld.org/parameters/1336,bwyta,eat
+182-1402,wels1247,http://concepticon.clld.org/parameters/256,bwyd,food
+182-757,wels1247,http://concepticon.clld.org/parameters/269,wedi ei goginio,cooked
+182-887,wels1247,http://concepticon.clld.org/parameters/1959,amrwd,raw
+182-1436,wels1247,http://concepticon.clld.org/parameters/1959,crai,raw
+182-220,wels1247,http://concepticon.clld.org/parameters/178,aeddfed,ripe
+182-1429,wels1247,http://concepticon.clld.org/parameters/1958,anaeddfed,"green, unripe"
+182-1748,wels1247,http://concepticon.clld.org/parameters/1728,pwdr,rotten
+182-1446,wels1247,http://concepticon.clld.org/parameters/1728,pydredig,rotten
+182-81,wels1247,http://concepticon.clld.org/parameters/1401,yfed,drink
+182-713,wels1247,http://concepticon.clld.org/parameters/1533,eisiau bwyd,hunger
+182-1897,wels1247,http://concepticon.clld.org/parameters/1533,chwant bwyd,hunger
+182-1153,wels1247,http://concepticon.clld.org/parameters/199,newyn,famine
+182-1476,wels1247,http://concepticon.clld.org/parameters/199,llwgfa,famine
+182-1415,wels1247,http://concepticon.clld.org/parameters/848,syched,thirst
+182-153,wels1247,http://concepticon.clld.org/parameters/1421,sugno,suck
+182-1468,wels1247,http://concepticon.clld.org/parameters/1421,dyfnu,suck
+182-1404,wels1247,http://concepticon.clld.org/parameters/321,cnoi,chew
+182-727,wels1247,http://concepticon.clld.org/parameters/897,llyncu,swallow
+182-1056,wels1247,http://concepticon.clld.org/parameters/129,tagu,choke
+182-981,wels1247,http://concepticon.clld.org/parameters/1100,coginio,cook
+182-1212,wels1247,http://concepticon.clld.org/parameters/792,berwi,boil (vb)
+182-501,wels1247,http://concepticon.clld.org/parameters/2146,rhostio,"roast, fry"
+182-1366,wels1247,http://concepticon.clld.org/parameters/2146,crasu,"roast, fry"
+182-1487,wels1247,http://concepticon.clld.org/parameters/2146,ffrio,"roast, fry"
+182-842,wels1247,http://concepticon.clld.org/parameters/183,pobi,bake
+182-1366,wels1247,http://concepticon.clld.org/parameters/183,crasu,bake
+182-1356,wels1247,http://concepticon.clld.org/parameters/1143,ffwrn,oven
+182-1379,wels1247,http://concepticon.clld.org/parameters/1143,popty,oven
+182-813,wels1247,http://concepticon.clld.org/parameters/1462,pot,"pot, cooking vessel"
+182-185,wels1247,http://concepticon.clld.org/parameters/1462,crochan,"pot, cooking vessel"
+182-1828,wels1247,http://concepticon.clld.org/parameters/854,tegell,kettle
+182-1771,wels1247,http://concepticon.clld.org/parameters/31,padell,pan
+182-858,wels1247,http://concepticon.clld.org/parameters/31,pan,pan
+182-1440,wels1247,http://concepticon.clld.org/parameters/31,caserol,pan
+182-1306,wels1247,http://concepticon.clld.org/parameters/481,dysgl,dish
+182-1669,wels1247,http://concepticon.clld.org/parameters/480,plât,plate
+182-84,wels1247,http://concepticon.clld.org/parameters/1530,powlen,bowl
+182-202,wels1247,http://concepticon.clld.org/parameters/270,piser,"pitcher, jug"
+182-301,wels1247,http://concepticon.clld.org/parameters/270,siwg,"pitcher, jug"
+182-1034,wels1247,http://concepticon.clld.org/parameters/476,cwpan,"cup, drinking vessel"
+182-166,wels1247,http://concepticon.clld.org/parameters/271,soser,saucer
+182-1567,wels1247,http://concepticon.clld.org/parameters/1378,llwy,spoon
+182-1111,wels1247,http://concepticon.clld.org/parameters/1352,cyllell,knife (2)
+182-1408,wels1247,http://concepticon.clld.org/parameters/1302,fforcyn,fork (2)
+182-648,wels1247,http://concepticon.clld.org/parameters/272,gefeiliau,tongs
+182-552,wels1247,http://concepticon.clld.org/parameters/1526,pryd,meal (a)
+182-1599,wels1247,http://concepticon.clld.org/parameters/1322,brecwast,breakfast
+182-1585,wels1247,http://concepticon.clld.org/parameters/1322,boreufwyd,breakfast
+182-1673,wels1247,http://concepticon.clld.org/parameters/768,cinio (canol dydd),lunch
+182-1729,wels1247,http://concepticon.clld.org/parameters/1833,cinio (hwyr),dinner
+182-983,wels1247,http://concepticon.clld.org/parameters/1833,swper,supper
+182-120,wels1247,http://concepticon.clld.org/parameters/275,plicio,peel
+182-1134,wels1247,http://concepticon.clld.org/parameters/275,pilio,peel
+182-1874,wels1247,http://concepticon.clld.org/parameters/86,hidlo,"sieve, strain"
+182-331,wels1247,http://concepticon.clld.org/parameters/1767,crafu,scrape
+182-120,wels1247,http://concepticon.clld.org/parameters/1767,plicio,scrape
+182-744,wels1247,http://concepticon.clld.org/parameters/2017,troi,"stir, mix"
+182-1532,wels1247,http://concepticon.clld.org/parameters/2017,cymysgu,"stir, mix"
+182-1285,wels1247,http://concepticon.clld.org/parameters/1368,bara,bread
+182-1057,wels1247,http://concepticon.clld.org/parameters/273,toes,dough
+182-809,wels1247,http://concepticon.clld.org/parameters/274,tylino,knead
+182-1943,wels1247,http://concepticon.clld.org/parameters/1594,blawd,"meal, flour"
+182-1101,wels1247,http://concepticon.clld.org/parameters/1033,malu,"crush, grind"
+182-1328,wels1247,http://concepticon.clld.org/parameters/636,melin,mill
+182-656,wels1247,http://concepticon.clld.org/parameters/224,breuan,mortar (2)
+182-1662,wels1247,http://concepticon.clld.org/parameters/224,mortar,mortar (2)
+182-1158,wels1247,http://concepticon.clld.org/parameters/225,pestl,pestle
+182-1432,wels1247,http://concepticon.clld.org/parameters/634,cig,meat
+182-1293,wels1247,http://concepticon.clld.org/parameters/1874,selsig,sausage
+182-165,wels1247,http://concepticon.clld.org/parameters/1874,sosej,sausage
+182-1812,wels1247,http://concepticon.clld.org/parameters/1547,potes,"soup, broth"
+182-1373,wels1247,http://concepticon.clld.org/parameters/1547,cawl,"soup, broth"
+182-633,wels1247,http://concepticon.clld.org/parameters/924,llysiau,vegetables
+182-1527,wels1247,http://concepticon.clld.org/parameters/832,ffäen,bean
+182-1885,wels1247,http://concepticon.clld.org/parameters/832,ffeuen,bean
+182-1785,wels1247,http://concepticon.clld.org/parameters/593,taten,potato
+182-1674,wels1247,http://concepticon.clld.org/parameters/1507,ffrwyth,fruit
+182-680,wels1247,http://concepticon.clld.org/parameters/1966,bwnsiad,bunch
+182-788,wels1247,http://concepticon.clld.org/parameters/322,ffigysen,fig
+182-1216,wels1247,http://concepticon.clld.org/parameters/920,grawnwinen,grape
+182-1128,wels1247,http://concepticon.clld.org/parameters/191,cneuen,nut
+182-657,wels1247,http://concepticon.clld.org/parameters/1154,olif,olive
+182-97,wels1247,http://concepticon.clld.org/parameters/1484,olew,oil
+182-287,wels1247,http://concepticon.clld.org/parameters/323,saim,"grease, fat"
+182-1438,wels1247,http://concepticon.clld.org/parameters/323,braster,"grease, fat"
+182-1181,wels1247,http://concepticon.clld.org/parameters/1274,halen,salt
+182-243,wels1247,http://concepticon.clld.org/parameters/1385,pupur,pepper
+182-829,wels1247,http://concepticon.clld.org/parameters/919,(pupur) tsili,chili pepper
+182-1703,wels1247,http://concepticon.clld.org/parameters/942,mêl,honey
+182-398,wels1247,http://concepticon.clld.org/parameters/862,siwgr,sugar
+182-1853,wels1247,http://concepticon.clld.org/parameters/635,llaeth,milk (noun)
+182-649,wels1247,http://concepticon.clld.org/parameters/635,llefrith,milk (noun)
+182-833,wels1247,http://concepticon.clld.org/parameters/93,godro,milk (vb)
+182-1375,wels1247,http://concepticon.clld.org/parameters/1569,caws,cheese
+182-1448,wels1247,http://concepticon.clld.org/parameters/1245,ymenyn,butter
+182-1086,wels1247,http://concepticon.clld.org/parameters/731,diod,"beverage, drink"
+182-755,wels1247,http://concepticon.clld.org/parameters/731,llymaid,"beverage, drink"
+182-1392,wels1247,http://concepticon.clld.org/parameters/941,medd,mead
+182-61,wels1247,http://concepticon.clld.org/parameters/1524,gwin,wine
+182-598,wels1247,http://concepticon.clld.org/parameters/1639,cwrw,beer
+182-239,wels1247,http://concepticon.clld.org/parameters/404,diod wedi ei heplesu,fermented drink
+182-305,wels1247,http://concepticon.clld.org/parameters/744,wy,egg
+182-1705,wels1247,http://concepticon.clld.org/parameters/1556,melynwy,egg yolk
+182-1731,wels1247,http://concepticon.clld.org/parameters/158,gwisgo,put on (clothes)
+182-888,wels1247,http://concepticon.clld.org/parameters/158,dilladu,put on (clothes)
+182-602,wels1247,http://concepticon.clld.org/parameters/158,ymwisgo,put on (clothes)
+182-1781,wels1247,http://concepticon.clld.org/parameters/1895,dillad,"clothing, clothes"
+182-559,wels1247,http://concepticon.clld.org/parameters/1895,gwisg/gwisgoedd,"clothing, clothes"
+182-1754,wels1247,http://concepticon.clld.org/parameters/881,teiliwr,tailor
+182-1717,wels1247,http://concepticon.clld.org/parameters/1616,brethyn,cloth
+182-1156,wels1247,http://concepticon.clld.org/parameters/1616,defnydd,cloth
+182-1618,wels1247,http://concepticon.clld.org/parameters/964,gwlân,wool
+182-669,wels1247,http://concepticon.clld.org/parameters/964,edafedd,wool
+182-1869,wels1247,http://concepticon.clld.org/parameters/916,lliain,"linen, flax"
+182-1863,wels1247,http://concepticon.clld.org/parameters/916,llin,"linen, flax"
+182-1490,wels1247,http://concepticon.clld.org/parameters/1850,cotwm,cotton
+182-59,wels1247,http://concepticon.clld.org/parameters/1641,sidan,silk
+182-1254,wels1247,http://concepticon.clld.org/parameters/325,ffelt,felt
+182-1717,wels1247,http://concepticon.clld.org/parameters/325,brethyn,felt
+182-1544,wels1247,http://concepticon.clld.org/parameters/325,llawban,felt
+182-909,wels1247,http://concepticon.clld.org/parameters/580,ffwr,fur
+182-1064,wels1247,http://concepticon.clld.org/parameters/629,lledr,leather
+182-1763,wels1247,http://concepticon.clld.org/parameters/121,nyddu,spin
+182-1629,wels1247,http://concepticon.clld.org/parameters/277,gwerthyd,spindle
+182-1876,wels1247,http://concepticon.clld.org/parameters/133,gwehyddu,weave
+182-319,wels1247,http://concepticon.clld.org/parameters/133,gweu,weave
+182-392,wels1247,http://concepticon.clld.org/parameters/1787,gwŷdd,loom
+182-463,wels1247,http://concepticon.clld.org/parameters/1457,gwnïo,sew
+182-213,wels1247,http://concepticon.clld.org/parameters/1382,nodwydd,needle
+182-582,wels1247,http://concepticon.clld.org/parameters/278,mynawyd,awl
+182-521,wels1247,http://concepticon.clld.org/parameters/1161,edau,thread
+182-557,wels1247,http://concepticon.clld.org/parameters/157,llifo,dye
+182-886,wels1247,http://concepticon.clld.org/parameters/157,lliwio,dye
+182-368,wels1247,http://concepticon.clld.org/parameters/326,mantell,cloak
+182-1818,wels1247,http://concepticon.clld.org/parameters/326,cochl,cloak
+182-1481,wels1247,http://concepticon.clld.org/parameters/326,clog(yn),cloak
+182-891,wels1247,http://concepticon.clld.org/parameters/327,ponsio,poncho
+182-849,wels1247,http://concepticon.clld.org/parameters/474,ffrog,woman's dress
+182-1647,wels1247,http://concepticon.clld.org/parameters/603,côt,coat
+182-445,wels1247,http://concepticon.clld.org/parameters/1622,crys,shirt
+182-272,wels1247,http://concepticon.clld.org/parameters/2012,coler,collar
+182-905,wels1247,http://concepticon.clld.org/parameters/1600,sgert,skirt
+182-255,wels1247,http://concepticon.clld.org/parameters/328,sgert wair,grass-skirt
+182-152,wels1247,http://concepticon.clld.org/parameters/809,trowsus,trousers
+182-1127,wels1247,http://concepticon.clld.org/parameters/809,llodrau,trousers
+182-1218,wels1247,http://concepticon.clld.org/parameters/329,hosan,"stocking, sock"
+182-1832,wels1247,http://concepticon.clld.org/parameters/329,socsen,"stocking, sock"
+182-1114,wels1247,http://concepticon.clld.org/parameters/329,socas,"stocking, sock"
+182-1495,wels1247,http://concepticon.clld.org/parameters/1381,esgid,shoe
+182-1343,wels1247,http://concepticon.clld.org/parameters/585,esgid drom,boot
+182-1121,wels1247,http://concepticon.clld.org/parameters/585,botas,boot
+182-338,wels1247,http://concepticon.clld.org/parameters/875,crydd,"shoemaker, cobbler"
+182-936,wels1247,http://concepticon.clld.org/parameters/2130,het,"hat, cap"
+182-236,wels1247,http://concepticon.clld.org/parameters/2130,cap,"hat, cap"
+182-1865,wels1247,http://concepticon.clld.org/parameters/772,gwregys,"belt, girdle"
+182-336,wels1247,http://concepticon.clld.org/parameters/867,maneg,glove
+182-1901,wels1247,http://concepticon.clld.org/parameters/1151,gorchudd,veil
+182-1469,wels1247,http://concepticon.clld.org/parameters/1851,llogell,pocket
+182-851,wels1247,http://concepticon.clld.org/parameters/1851,poced,pocket
+182-1070,wels1247,http://concepticon.clld.org/parameters/757,botwm,button
+182-486,wels1247,http://concepticon.clld.org/parameters/64,pìn,pin
+182-693,wels1247,http://concepticon.clld.org/parameters/917,addurniad,"ornament, adornment"
+182-1227,wels1247,http://concepticon.clld.org/parameters/917,trwsiad,"ornament, adornment"
+182-635,wels1247,http://concepticon.clld.org/parameters/1029,gem,jewel
+182-1856,wels1247,http://concepticon.clld.org/parameters/1029,tlws,jewel
+182-1595,wels1247,http://concepticon.clld.org/parameters/1374,modrwy,ring (for finger)
+182-1185,wels1247,http://concepticon.clld.org/parameters/1754,breichled,bracelet
+182-150,wels1247,http://concepticon.clld.org/parameters/1961,cadwen,necklace
+182-738,wels1247,http://concepticon.clld.org/parameters/1961,mwclis,necklace
+182-1391,wels1247,http://concepticon.clld.org/parameters/1961,neclis,necklace
+182-1453,wels1247,http://concepticon.clld.org/parameters/1860,glain,bead
+182-961,wels1247,http://concepticon.clld.org/parameters/770,clustdlws,earring
+182-1252,wels1247,http://concepticon.clld.org/parameters/330,penrwymyn,"headband, headdress"
+182-234,wels1247,http://concepticon.clld.org/parameters/330,ffunen,"headband, headdress"
+182-335,wels1247,http://concepticon.clld.org/parameters/68,tatŵ,tattoo
+182-1425,wels1247,http://concepticon.clld.org/parameters/332,cadach,"handkerchief, rag"
+182-1361,wels1247,http://concepticon.clld.org/parameters/332,hances,"handkerchief, rag"
+182-1869,wels1247,http://concepticon.clld.org/parameters/1021,lliain,towel
+182-714,wels1247,http://concepticon.clld.org/parameters/1021,tywel,towel
+182-688,wels1247,http://concepticon.clld.org/parameters/1475,crib,comb
+182-1708,wels1247,http://concepticon.clld.org/parameters/1821,brws,brush
+182-535,wels1247,http://concepticon.clld.org/parameters/333,plethen,braid
+182-774,wels1247,http://concepticon.clld.org/parameters/151,rasel,razor
+182-1221,wels1247,http://concepticon.clld.org/parameters/151,ellyn,razor
+182-357,wels1247,http://concepticon.clld.org/parameters/1926,ennaint,ointment
+182-374,wels1247,http://concepticon.clld.org/parameters/1926,eli,ointment
+182-1186,wels1247,http://concepticon.clld.org/parameters/788,sebon,soap
+182-1596,wels1247,http://concepticon.clld.org/parameters/1171,drych,mirror
+182-944,wels1247,http://concepticon.clld.org/parameters/1099,trigiannu,"dwell, live"
+182-342,wels1247,http://concepticon.clld.org/parameters/1099,trigo,"dwell, live"
+182-1264,wels1247,http://concepticon.clld.org/parameters/1099,preswylio,"dwell, live"
+182-1789,wels1247,http://concepticon.clld.org/parameters/1099,byw,"dwell, live"
+182-47,wels1247,http://concepticon.clld.org/parameters/1252,tŷ,house
+182-1035,wels1247,http://concepticon.clld.org/parameters/1678,bwth,hut
+182-1642,wels1247,http://concepticon.clld.org/parameters/1678,cwt,hut
+182-810,wels1247,http://concepticon.clld.org/parameters/1678,caban,hut
+182-1359,wels1247,http://concepticon.clld.org/parameters/1678,cut,hut
+182-1340,wels1247,http://concepticon.clld.org/parameters/403,hafdy,garden-house
+182-1501,wels1247,http://concepticon.clld.org/parameters/403,tŷ haf,garden-house
+182-807,wels1247,http://concepticon.clld.org/parameters/1316,pabell,tent
+182-545,wels1247,http://concepticon.clld.org/parameters/736,iard,"yard, court"
+182-1535,wels1247,http://concepticon.clld.org/parameters/736,buarth,"yard, court"
+182-1347,wels1247,http://concepticon.clld.org/parameters/408,tŷ dynion,men's house
+182-123,wels1247,http://concepticon.clld.org/parameters/334,cegin,cookhouse
+182-91,wels1247,http://concepticon.clld.org/parameters/335,tŷ cwrdd,meeting house
+182-968,wels1247,http://concepticon.clld.org/parameters/1450,ystafell,room
+182-1494,wels1247,http://concepticon.clld.org/parameters/1567,drws,"door, gate"
+182-1607,wels1247,http://concepticon.clld.org/parameters/1567,dôr,"door, gate"
+182-1166,wels1247,http://concepticon.clld.org/parameters/1567,porth,"door, gate"
+182-708,wels1247,http://concepticon.clld.org/parameters/80,cilbost,"doorpost, jamb"
+182-277,wels1247,http://concepticon.clld.org/parameters/80,postyn drws,"doorpost, jamb"
+182-135,wels1247,http://concepticon.clld.org/parameters/1596,clo,lock (noun)
+182-821,wels1247,http://concepticon.clld.org/parameters/1012,clicied,"latch, door-bolt"
+182-1887,wels1247,http://concepticon.clld.org/parameters/1012,bollt (drws),"latch, door-bolt"
+182-917,wels1247,http://concepticon.clld.org/parameters/1472,allwedd,key
+182-508,wels1247,http://concepticon.clld.org/parameters/1472,agoriad,key
+182-1299,wels1247,http://concepticon.clld.org/parameters/1375,ffenestr,window
+182-594,wels1247,http://concepticon.clld.org/parameters/1632,llawr,floor
+182-285,wels1247,http://concepticon.clld.org/parameters/933,mur,wall
+182-435,wels1247,http://concepticon.clld.org/parameters/933,wal,wall
+182-884,wels1247,http://concepticon.clld.org/parameters/933,gwal,wall
+182-1191,wels1247,http://concepticon.clld.org/parameters/933,magwyr,wall
+182-1424,wels1247,http://concepticon.clld.org/parameters/933,pared,wall
+182-131,wels1247,http://concepticon.clld.org/parameters/185,lle tân,fireplace
+182-265,wels1247,http://concepticon.clld.org/parameters/859,stof,stove
+182-457,wels1247,http://concepticon.clld.org/parameters/1305,simdde,chimney
+182-1934,wels1247,http://concepticon.clld.org/parameters/1305,simnai,chimney
+182-1239,wels1247,http://concepticon.clld.org/parameters/1464,ysgol,ladder
+182-1616,wels1247,http://concepticon.clld.org/parameters/1663,gwely,bed
+182-14,wels1247,http://concepticon.clld.org/parameters/1044,clustog,pillow
+182-1709,wels1247,http://concepticon.clld.org/parameters/806,blanced,blanket
+182-1814,wels1247,http://concepticon.clld.org/parameters/806,gwrthban,blanket
+182-590,wels1247,http://concepticon.clld.org/parameters/806,carthen,blanket
+182-605,wels1247,http://concepticon.clld.org/parameters/1476,cadair,chair
+182-36,wels1247,http://concepticon.clld.org/parameters/1775,bwrdd,table
+182-405,wels1247,http://concepticon.clld.org/parameters/1775,bord,table
+182-1581,wels1247,http://concepticon.clld.org/parameters/2131,lamp,"lamp, torch"
+182-459,wels1247,http://concepticon.clld.org/parameters/2131,llusern,"lamp, torch"
+182-215,wels1247,http://concepticon.clld.org/parameters/1273,cannwyll,candle
+182-1305,wels1247,http://concepticon.clld.org/parameters/745,silff,shelf
+182-1443,wels1247,http://concepticon.clld.org/parameters/205,cafn,trough
+182-1014,wels1247,http://concepticon.clld.org/parameters/769,to,roof
+182-711,wels1247,http://concepticon.clld.org/parameters/279,gwellt (toi),thatch
+182-280,wels1247,http://concepticon.clld.org/parameters/280,polyn crib,ridgepole
+182-963,wels1247,http://concepticon.clld.org/parameters/829,trawst,rafter
+182-882,wels1247,http://concepticon.clld.org/parameters/829,cwpl,rafter
+182-1001,wels1247,http://concepticon.clld.org/parameters/829,dist,rafter
+182-963,wels1247,http://concepticon.clld.org/parameters/1132,trawst,beam
+182-121,wels1247,http://concepticon.clld.org/parameters/281,post(yn),"post, pole"
+182-1851,wels1247,http://concepticon.clld.org/parameters/281,polyn,"post, pole"
+182-1208,wels1247,http://concepticon.clld.org/parameters/1227,astell,board
+182-1955,wels1247,http://concepticon.clld.org/parameters/1227,estyllen,board
+182-558,wels1247,http://concepticon.clld.org/parameters/876,bwa (maen),arch
+182-1889,wels1247,http://concepticon.clld.org/parameters/877,saer maen,mason
+182-616,wels1247,http://concepticon.clld.org/parameters/877,saer cerrig,mason
+182-1572,wels1247,http://concepticon.clld.org/parameters/1006,bricsen,brick
+182-857,wels1247,http://concepticon.clld.org/parameters/1006,priddfaen,brick
+182-1782,wels1247,http://concepticon.clld.org/parameters/1731,cymrwd,mortar
+182-1136,wels1247,http://concepticon.clld.org/parameters/1731,morter,mortar
+182-990,wels1247,http://concepticon.clld.org/parameters/901,bricsen glai,adobe
+182-1739,wels1247,http://concepticon.clld.org/parameters/979,amaethwr,farmer
+182-1192,wels1247,http://concepticon.clld.org/parameters/979,ffermwr,farmer
+182-591,wels1247,http://concepticon.clld.org/parameters/212,cae,field (for cultivation)
+182-85,wels1247,http://concepticon.clld.org/parameters/212,maes,field (for cultivation)
+182-794,wels1247,http://concepticon.clld.org/parameters/586,gardd,garden
+182-70,wels1247,http://concepticon.clld.org/parameters/1541,diwyllio,"cultivate, till"
+182-979,wels1247,http://concepticon.clld.org/parameters/1541,trin tir,"cultivate, till"
+182-1413,wels1247,http://concepticon.clld.org/parameters/1541,amaethu,"cultivate, till"
+182-969,wels1247,http://concepticon.clld.org/parameters/1690,ffens,fence
+182-353,wels1247,http://concepticon.clld.org/parameters/1690,sietyn,fence
+182-39,wels1247,http://concepticon.clld.org/parameters/2002,ffos,ditch
+182-309,wels1247,http://concepticon.clld.org/parameters/1921,aredig,plow
+182-686,wels1247,http://concepticon.clld.org/parameters/1921,aradr,plow
+182-358,wels1247,http://concepticon.clld.org/parameters/1794,rhych,furrow
+182-212,wels1247,http://concepticon.clld.org/parameters/1418,cloddio,dig
+182-1383,wels1247,http://concepticon.clld.org/parameters/1418,palu,dig
+182-1077,wels1247,http://concepticon.clld.org/parameters/1176,pâl,spade
+182-500,wels1247,http://concepticon.clld.org/parameters/1176,rhaw,spade
+182-500,wels1247,http://concepticon.clld.org/parameters/1901,rhaw,shovel
+182-780,wels1247,http://concepticon.clld.org/parameters/1901,siefl,shovel
+182-111,wels1247,http://concepticon.clld.org/parameters/284,hof,hoe
+182-1195,wels1247,http://concepticon.clld.org/parameters/337,fforch,fork
+182-1238,wels1247,http://concepticon.clld.org/parameters/338,cribin,rake
+182-586,wels1247,http://concepticon.clld.org/parameters/338,rhaca,rake
+182-381,wels1247,http://concepticon.clld.org/parameters/748,hau,sow
+182-376,wels1247,http://concepticon.clld.org/parameters/714,had,seed
+182-1465,wels1247,http://concepticon.clld.org/parameters/714,hadau,seed
+182-492,wels1247,http://concepticon.clld.org/parameters/714,hedyn,seed
+182-1394,wels1247,http://concepticon.clld.org/parameters/190,medi,"mow, reap"
+182-1900,wels1247,http://concepticon.clld.org/parameters/190,pladuro,"mow, reap"
+182-1248,wels1247,http://concepticon.clld.org/parameters/2132,cryman,"sickle, scythe"
+182-1385,wels1247,http://concepticon.clld.org/parameters/2132,pladur,"sickle, scythe"
+182-1700,wels1247,http://concepticon.clld.org/parameters/285,dyrnu,thresh
+182-1354,wels1247,http://concepticon.clld.org/parameters/223,llawr dyrnu,threshing-floor
+182-4,wels1247,http://concepticon.clld.org/parameters/611,cnwd,"crop, harvest"
+182-1797,wels1247,http://concepticon.clld.org/parameters/611,cynhaeaf,"crop, harvest"
+182-985,wels1247,http://concepticon.clld.org/parameters/605,ŷd,"grain (barley, oats etc)"
+182-1580,wels1247,http://concepticon.clld.org/parameters/1077,gwenith,wheat
+182-31,wels1247,http://concepticon.clld.org/parameters/932,haidd,barley
+182-1168,wels1247,http://concepticon.clld.org/parameters/23,rhyg,rye
+182-1279,wels1247,http://concepticon.clld.org/parameters/60,ceirch,oats
+182-1219,wels1247,http://concepticon.clld.org/parameters/506,indrawn,"maize, corn"
+182-190,wels1247,http://concepticon.clld.org/parameters/506,india-corn,"maize, corn"
+182-1756,wels1247,http://concepticon.clld.org/parameters/926,reis,rice
+182-560,wels1247,http://concepticon.clld.org/parameters/606,gwair,grass
+182-230,wels1247,http://concepticon.clld.org/parameters/606,gwellt (glas),grass
+182-999,wels1247,http://concepticon.clld.org/parameters/606,glaswellt,grass
+182-1437,wels1247,http://concepticon.clld.org/parameters/342,gwair (sych),hay
+182-1819,wels1247,http://concepticon.clld.org/parameters/342,gwellt,hay
+182-1834,wels1247,http://concepticon.clld.org/parameters/653,planhigyn,plant (noun)
+182-1930,wels1247,http://concepticon.clld.org/parameters/653,llysieuyn,plant (noun)
+182-409,wels1247,http://concepticon.clld.org/parameters/1486,plannu,plant (vb)
+182-194,wels1247,http://concepticon.clld.org/parameters/670,gwreiddyn,root
+182-400,wels1247,http://concepticon.clld.org/parameters/1531,cangen,branch
+182-1845,wels1247,http://concepticon.clld.org/parameters/1531,cainc,branch
+182-231,wels1247,http://concepticon.clld.org/parameters/628,deilen,leaf
+182-144,wels1247,http://concepticon.clld.org/parameters/239,blodeuyn,flower
+182-1085,wels1247,http://concepticon.clld.org/parameters/239,blodyn,flower
+182-895,wels1247,http://concepticon.clld.org/parameters/906,coeden,tree
+182-1407,wels1247,http://concepticon.clld.org/parameters/906,pren,tree
+182-273,wels1247,http://concepticon.clld.org/parameters/644,derwen,oak
+182-929,wels1247,http://concepticon.clld.org/parameters/1950,ffawydden,beech
+182-1157,wels1247,http://concepticon.clld.org/parameters/1855,bedwen,birch
+182-1878,wels1247,http://concepticon.clld.org/parameters/1740,pin(wydden),pine
+182-340,wels1247,http://concepticon.clld.org/parameters/1915,ffynidwydden,fir
+182-1030,wels1247,http://concepticon.clld.org/parameters/968,mesen,acorn
+182-1740,wels1247,http://concepticon.clld.org/parameters/343,gwinwydden,vine
+182-326,wels1247,http://concepticon.clld.org/parameters/974,tybaco,tobacco
+182-1381,wels1247,http://concepticon.clld.org/parameters/974,baco,tobacco
+182-289,wels1247,http://concepticon.clld.org/parameters/974,myglys,tobacco
+182-1694,wels1247,http://concepticon.clld.org/parameters/1689,ysmygu,smoke (tobacco)
+182-1499,wels1247,http://concepticon.clld.org/parameters/1689,smocio,smoke (tobacco)
+182-1945,wels1247,http://concepticon.clld.org/parameters/1124,pib,pipe
+182-1231,wels1247,http://concepticon.clld.org/parameters/1124,cetyn,pipe
+182-797,wels1247,http://concepticon.clld.org/parameters/241,bonyn,tree stump
+182-1696,wels1247,http://concepticon.clld.org/parameters/241,bôn,tree stump
+182-719,wels1247,http://concepticon.clld.org/parameters/241,stwmp,tree stump
+182-434,wels1247,http://concepticon.clld.org/parameters/344,boncyff,tree trunk
+182-1507,wels1247,http://concepticon.clld.org/parameters/344,bôn coeden,tree trunk
+182-761,wels1247,http://concepticon.clld.org/parameters/409,cangen fforchog,forked branch
+182-1702,wels1247,http://concepticon.clld.org/parameters/1204,rhisgl,bark
+182-478,wels1247,http://concepticon.clld.org/parameters/345,nodd,sap
+182-1564,wels1247,http://concepticon.clld.org/parameters/345,sudd,sap
+182-233,wels1247,http://concepticon.clld.org/parameters/345,sug,sap
+182-1205,wels1247,http://concepticon.clld.org/parameters/1181,palmwydden,palm tree
+182-160,wels1247,http://concepticon.clld.org/parameters/970,coconyt,coconut
+182-1454,wels1247,http://concepticon.clld.org/parameters/1126,ffrwyth sitrws,citrus fruit
+182-1059,wels1247,http://concepticon.clld.org/parameters/868,coeden fananas,banana tree
+182-1677,wels1247,http://concepticon.clld.org/parameters/346,coeden fanian,banyan
+182-1665,wels1247,http://concepticon.clld.org/parameters/346,coeden ffigys India,banyan
+182-532,wels1247,http://concepticon.clld.org/parameters/159,taten felys,sweet potato
+182-743,wels1247,http://concepticon.clld.org/parameters/159,tatws melys,sweet potato
+182-691,wels1247,http://concepticon.clld.org/parameters/410,iam,yam
+182-1104,wels1247,http://concepticon.clld.org/parameters/925,tapioca,"tapioca, manioc, cassava"
+182-734,wels1247,http://concepticon.clld.org/parameters/411,gwrd,gourd
+182-1042,wels1247,http://concepticon.clld.org/parameters/411,pompion,gourd
+182-1355,wels1247,http://concepticon.clld.org/parameters/864,pwmpen,"pumpkin, squash"
+182-1042,wels1247,http://concepticon.clld.org/parameters/864,pompion,"pumpkin, squash"
+182-734,wels1247,http://concepticon.clld.org/parameters/864,gwrd,"pumpkin, squash"
+182-67,wels1247,http://concepticon.clld.org/parameters/1927,bambŵ,bamboo
+182-1826,wels1247,http://concepticon.clld.org/parameters/146,siwgwr cân,sugar cane
+182-446,wels1247,http://concepticon.clld.org/parameters/33,danadl (poethion),nettle
+182-1716,wels1247,http://concepticon.clld.org/parameters/641,madarchen,mushroom
+182-1542,wels1247,http://concepticon.clld.org/parameters/641,madarch,mushroom
+182-1916,wels1247,http://concepticon.clld.org/parameters/641,caws llyffant,mushroom
+182-1171,wels1247,http://concepticon.clld.org/parameters/813,gwneuthur,"do, make"
+182-1417,wels1247,http://concepticon.clld.org/parameters/813,gwneud,"do, make"
+182-191,wels1247,http://concepticon.clld.org/parameters/984,gwaith,work
+182-1906,wels1247,http://concepticon.clld.org/parameters/984,llafur,work
+182-1310,wels1247,http://concepticon.clld.org/parameters/2004,plygu,bend
+182-1310,wels1247,http://concepticon.clld.org/parameters/1470,plygu,fold
+182-1426,wels1247,http://concepticon.clld.org/parameters/1917,rhwymo,"tie, bind"
+182-1194,wels1247,http://concepticon.clld.org/parameters/1917,clymu,"tie, bind"
+182-1937,wels1247,http://concepticon.clld.org/parameters/352,datod,untie
+182-716,wels1247,http://concepticon.clld.org/parameters/1627,cadwyn,chain
+182-1255,wels1247,http://concepticon.clld.org/parameters/1218,rhaff,"rope, cord"
+182-1867,wels1247,http://concepticon.clld.org/parameters/1218,cortyn,"rope, cord"
+182-295,wels1247,http://concepticon.clld.org/parameters/760,clwm,knot (noun)
+182-1779,wels1247,http://concepticon.clld.org/parameters/760,cwlwm,knot (noun)
+182-1449,wels1247,http://concepticon.clld.org/parameters/2133,taro,"strike (hit, beat)"
+182-1447,wels1247,http://concepticon.clld.org/parameters/2133,curo,"strike (hit, beat)"
+182-1700,wels1247,http://concepticon.clld.org/parameters/354,dyrnu,pound with fist
+182-1084,wels1247,http://concepticon.clld.org/parameters/1432,torri,cut
+182-1458,wels1247,http://concepticon.clld.org/parameters/1432,naddu,cut
+182-1273,wels1247,http://concepticon.clld.org/parameters/1432,trychu,cut
+182-1246,wels1247,http://concepticon.clld.org/parameters/355,torri (i lawr),cut down
+182-1084,wels1247,http://concepticon.clld.org/parameters/155,torri,"chop, hew"
+182-327,wels1247,http://concepticon.clld.org/parameters/155,hollti,"chop, hew"
+182-1458,wels1247,http://concepticon.clld.org/parameters/155,naddu,"chop, hew"
+182-859,wels1247,http://concepticon.clld.org/parameters/1434,trywanu,stab
+182-451,wels1247,http://concepticon.clld.org/parameters/1434,gwanu,stab
+182-1111,wels1247,http://concepticon.clld.org/parameters/1352,cyllell,knife
+182-27,wels1247,http://concepticon.clld.org/parameters/356,siswrn,"scissors, shears"
+182-217,wels1247,http://concepticon.clld.org/parameters/356,gwellaif,"scissors, shears"
+182-1641,wels1247,http://concepticon.clld.org/parameters/677,bwyall,ax
+182-157,wels1247,http://concepticon.clld.org/parameters/290,neddyf,adze
+182-1552,wels1247,http://concepticon.clld.org/parameters/290,neddai,adze
+182-1547,wels1247,http://concepticon.clld.org/parameters/290,neddau,adze
+182-1815,wels1247,http://concepticon.clld.org/parameters/290,bwyall gam,adze
+182-1084,wels1247,http://concepticon.clld.org/parameters/680,torri,break
+182-1787,wels1247,http://concepticon.clld.org/parameters/588,toredig,broken
+182-1369,wels1247,http://concepticon.clld.org/parameters/588,wedi ei dorri,broken
+182-327,wels1247,http://concepticon.clld.org/parameters/1437,hollti,split
+182-1808,wels1247,http://concepticon.clld.org/parameters/1735,rhwygo,tear
+182-927,wels1247,http://concepticon.clld.org/parameters/291,blingo,"flay, skin"
+182-747,wels1247,http://concepticon.clld.org/parameters/291,digroeni,"flay, skin"
+182-449,wels1247,http://concepticon.clld.org/parameters/1449,rhwbio,"rub, wipe"
+182-1267,wels1247,http://concepticon.clld.org/parameters/214,estyn,stretch
+182-960,wels1247,http://concepticon.clld.org/parameters/1455,tynnu,pull
+182-395,wels1247,http://concepticon.clld.org/parameters/38,taenu,spread out
+182-112,wels1247,http://concepticon.clld.org/parameters/38,chwalu,spread out
+182-637,wels1247,http://concepticon.clld.org/parameters/357,hongian,hang up
+182-718,wels1247,http://concepticon.clld.org/parameters/357,crogi,hang up
+182-959,wels1247,http://concepticon.clld.org/parameters/1913,gwasgu,press
+182-959,wels1247,http://concepticon.clld.org/parameters/1414,gwasgu,"squeeze, wring"
+182-1380,wels1247,http://concepticon.clld.org/parameters/1487,tywallt,pour
+182-26,wels1247,http://concepticon.clld.org/parameters/1487,arllwys,pour
+182-837,wels1247,http://concepticon.clld.org/parameters/1453,golchi,wash
+182-365,wels1247,http://concepticon.clld.org/parameters/230,ysgubo,sweep
+182-316,wels1247,http://concepticon.clld.org/parameters/245,ysgub,broom
+182-522,wels1247,http://concepticon.clld.org/parameters/1361,offeryn,tool
+182-1428,wels1247,http://concepticon.clld.org/parameters/1361,erfyn,tool
+182-1288,wels1247,http://concepticon.clld.org/parameters/1361,arf,tool
+182-329,wels1247,http://concepticon.clld.org/parameters/1361,teclyn,tool
+182-1947,wels1247,http://concepticon.clld.org/parameters/1042,saer,carpenter
+182-1750,wels1247,http://concepticon.clld.org/parameters/1840,adeiladu,build
+182-629,wels1247,http://concepticon.clld.org/parameters/1501,tyllu,bore
+182-1237,wels1247,http://concepticon.clld.org/parameters/46,cafnu,hollow out
+182-1656,wels1247,http://concepticon.clld.org/parameters/46,cafnio,hollow out
+182-1833,wels1247,http://concepticon.clld.org/parameters/46,pantio,hollow out
+182-1859,wels1247,http://concepticon.clld.org/parameters/1948,llif,saw
+182-1147,wels1247,http://concepticon.clld.org/parameters/1481,morthwyl,hammer
+182-1010,wels1247,http://concepticon.clld.org/parameters/502,hoel(en),nail
+182-1864,wels1247,http://concepticon.clld.org/parameters/1069,glud,glue
+182-164,wels1247,http://concepticon.clld.org/parameters/1001,gof,"smith, blacksmith"
+182-1958,wels1247,http://concepticon.clld.org/parameters/288,morthwylio,forge
+182-470,wels1247,http://concepticon.clld.org/parameters/1648,ein(g)ion,anvil
+182-184,wels1247,http://concepticon.clld.org/parameters/211,bwrw,cast (metals)
+182-15,wels1247,http://concepticon.clld.org/parameters/1369,aur,gold
+182-1151,wels1247,http://concepticon.clld.org/parameters/759,arian,silver
+182-703,wels1247,http://concepticon.clld.org/parameters/1825,copr,"copper, bronze"
+182-1593,wels1247,http://concepticon.clld.org/parameters/1825,efydd,"copper, bronze"
+182-569,wels1247,http://concepticon.clld.org/parameters/1825,pres,"copper, bronze"
+182-274,wels1247,http://concepticon.clld.org/parameters/621,haearn,iron
+182-709,wels1247,http://concepticon.clld.org/parameters/627,plwm,lead (noun)
+182-911,wels1247,http://concepticon.clld.org/parameters/358,ystaen,"tin, tinplate"
+182-796,wels1247,http://concepticon.clld.org/parameters/358,tun,"tin, tinplate"
+182-1132,wels1247,http://concepticon.clld.org/parameters/358,tunplat,"tin, tinplate"
+182-1297,wels1247,http://concepticon.clld.org/parameters/359,crochenydd,potter
+182-1058,wels1247,http://concepticon.clld.org/parameters/289,ffurfio,mold (clay etc)
+182-658,wels1247,http://concepticon.clld.org/parameters/289,llunio,mold (clay etc)
+182-1835,wels1247,http://concepticon.clld.org/parameters/289,mo(w)ldio,mold (clay etc)
+182-897,wels1247,http://concepticon.clld.org/parameters/1399,clai,clay
+182-19,wels1247,http://concepticon.clld.org/parameters/1399,pridd,clay
+182-1401,wels1247,http://concepticon.clld.org/parameters/604,gwydr,glass
+182-1648,wels1247,http://concepticon.clld.org/parameters/1729,plethu,"weave, plait"
+182-1876,wels1247,http://concepticon.clld.org/parameters/1729,gwehyddu,"weave, plait"
+182-1925,wels1247,http://concepticon.clld.org/parameters/1729,cyfrodeddu,"weave, plait"
+182-1169,wels1247,http://concepticon.clld.org/parameters/1539,basged,basket
+182-282,wels1247,http://concepticon.clld.org/parameters/1539,cawell,basket
+182-1074,wels1247,http://concepticon.clld.org/parameters/1539,cest(en),basket
+182-610,wels1247,http://concepticon.clld.org/parameters/195,mat,mat
+182-590,wels1247,http://concepticon.clld.org/parameters/292,carthen,rug
+182-356,wels1247,http://concepticon.clld.org/parameters/292,rỳg,rug
+182-1528,wels1247,http://concepticon.clld.org/parameters/1971,gwyntyll,fan (noun)
+182-1467,wels1247,http://concepticon.clld.org/parameters/1971,ffan,fan (noun)
+182-675,wels1247,http://concepticon.clld.org/parameters/360,gwyntyllu,fan (vb)
+182-1913,wels1247,http://concepticon.clld.org/parameters/228,cerfio,carve
+182-1358,wels1247,http://concepticon.clld.org/parameters/914,cerflunydd,sculptor
+182-29,wels1247,http://concepticon.clld.org/parameters/1002,delw,statue
+182-1052,wels1247,http://concepticon.clld.org/parameters/1002,cerflun,statue
+182-1563,wels1247,http://concepticon.clld.org/parameters/1979,cŷn,chisel
+182-1270,wels1247,http://concepticon.clld.org/parameters/1979,gaing,chisel
+182-1202,wels1247,http://concepticon.clld.org/parameters/647,paent,paint (noun)
+182-1855,wels1247,http://concepticon.clld.org/parameters/647,lliw,paint (noun)
+182-9,wels1247,http://concepticon.clld.org/parameters/2001,paentio,paint (vb)
+182-1537,wels1247,http://concepticon.clld.org/parameters/2001,peintio,paint (vb)
+182-283,wels1247,http://concepticon.clld.org/parameters/765,symud,move
+182-899,wels1247,http://concepticon.clld.org/parameters/765,syflyd,move
+182-1047,wels1247,http://concepticon.clld.org/parameters/1588,troi (drosodd),turn over
+182-1234,wels1247,http://concepticon.clld.org/parameters/1445,troi o gwmpas,turn around
+182-1541,wels1247,http://concepticon.clld.org/parameters/1445,troi yn ei unfan,turn around
+182-1201,wels1247,http://concepticon.clld.org/parameters/1113,dirwyn,"wind, wrap"
+182-724,wels1247,http://concepticon.clld.org/parameters/1113,(am)lapio,"wind, wrap"
+182-1331,wels1247,http://concepticon.clld.org/parameters/827,rholio,roll
+182-865,wels1247,http://concepticon.clld.org/parameters/827,treiglo,roll
+182-1766,wels1247,http://concepticon.clld.org/parameters/808,gollwng,drop (vb)
+182-421,wels1247,http://concepticon.clld.org/parameters/808,cwympo,drop (vb)
+182-1364,wels1247,http://concepticon.clld.org/parameters/430,troelli,twist
+182-1925,wels1247,http://concepticon.clld.org/parameters/430,cyfrodeddu,twist
+182-1648,wels1247,http://concepticon.clld.org/parameters/430,plethu,twist
+182-1027,wels1247,http://concepticon.clld.org/parameters/568,codi,rise
+182-1177,wels1247,http://concepticon.clld.org/parameters/568,cyfodi,rise
+182-1395,wels1247,http://concepticon.clld.org/parameters/568,cynnu,rise
+182-1027,wels1247,http://concepticon.clld.org/parameters/501,codi,"raise, lift"
+182-421,wels1247,http://concepticon.clld.org/parameters/1280,cwympo,fall
+182-1124,wels1247,http://concepticon.clld.org/parameters/1280,syrthio,fall
+182-1112,wels1247,http://concepticon.clld.org/parameters/2253,diferu,drip
+182-1598,wels1247,http://concepticon.clld.org/parameters/2253,dafnu,drip
+182-1908,wels1247,http://concepticon.clld.org/parameters/2253,dafnio,drip
+182-1848,wels1247,http://concepticon.clld.org/parameters/1456,taflu,throw
+182-1653,wels1247,http://concepticon.clld.org/parameters/1456,taflyd,throw
+182-652,wels1247,http://concepticon.clld.org/parameters/1456,lluchio,throw
+182-978,wels1247,http://concepticon.clld.org/parameters/702,dal(a) (pêl),catch (ball)
+182-856,wels1247,http://concepticon.clld.org/parameters/1909,siglo,shake
+182-334,wels1247,http://concepticon.clld.org/parameters/1909,ysgwyd,shake
+182-557,wels1247,http://concepticon.clld.org/parameters/2003,llifo,flow
+182-1622,wels1247,http://concepticon.clld.org/parameters/2003,rhedeg,flow
+182-1346,wels1247,http://concepticon.clld.org/parameters/1088,suddo,sink
+182-1144,wels1247,http://concepticon.clld.org/parameters/1088,soddi,sink
+182-667,wels1247,http://concepticon.clld.org/parameters/1574,nofio,float
+182-148,wels1247,http://concepticon.clld.org/parameters/1574,arnofio,float
+182-667,wels1247,http://concepticon.clld.org/parameters/1439,nofio,swim
+182-1891,wels1247,http://concepticon.clld.org/parameters/119,plymio,dive
+182-1837,wels1247,http://concepticon.clld.org/parameters/365,ysgeintio,splash
+182-1198,wels1247,http://concepticon.clld.org/parameters/365,tasgu,splash
+182-1698,wels1247,http://concepticon.clld.org/parameters/365,sblasio,splash
+182-79,wels1247,http://concepticon.clld.org/parameters/787,hwylio,sail (vb)
+182-932,wels1247,http://concepticon.clld.org/parameters/787,morio,sail (vb)
+182-1173,wels1247,http://concepticon.clld.org/parameters/787,mordwyo,sail (vb)
+182-1472,wels1247,http://concepticon.clld.org/parameters/1441,ehedeg,fly (vb)
+182-568,wels1247,http://concepticon.clld.org/parameters/1441,hedfan,fly (vb)
+182-1423,wels1247,http://concepticon.clld.org/parameters/1441,fflio,fly (vb)
+182-1626,wels1247,http://concepticon.clld.org/parameters/175,chwythu,blow
+182-1411,wels1247,http://concepticon.clld.org/parameters/96,ymlusgo,"creep, crawl"
+182-44,wels1247,http://concepticon.clld.org/parameters/96,cropian,"creep, crawl"
+182-1172,wels1247,http://concepticon.clld.org/parameters/66,penlinio,kneel
+182-1960,wels1247,http://concepticon.clld.org/parameters/296,cyrcydu,crouch
+182-1215,wels1247,http://concepticon.clld.org/parameters/296,cwrcwd,crouch
+182-28,wels1247,http://concepticon.clld.org/parameters/296,cwmanu,crouch
+182-56,wels1247,http://concepticon.clld.org/parameters/296,swatio,crouch
+182-1805,wels1247,http://concepticon.clld.org/parameters/1324,llithro,"slide, slip"
+182-1760,wels1247,http://concepticon.clld.org/parameters/1829,neidio,"jump, leap"
+182-1484,wels1247,http://concepticon.clld.org/parameters/1829,llamu,"jump, leap"
+182-872,wels1247,http://concepticon.clld.org/parameters/1135,cicio,kick
+182-1117,wels1247,http://concepticon.clld.org/parameters/1879,dawnsio,dance
+182-6,wels1247,http://concepticon.clld.org/parameters/1443,cerdded,walk
+182-1336,wels1247,http://concepticon.clld.org/parameters/1443,rhodio,walk
+182-242,wels1247,http://concepticon.clld.org/parameters/366,hercio,limp
+182-1601,wels1247,http://concepticon.clld.org/parameters/366,hercian,limp
+182-298,wels1247,http://concepticon.clld.org/parameters/366,honcian,limp
+182-1622,wels1247,http://concepticon.clld.org/parameters/1519,rhedeg,run
+182-259,wels1247,http://concepticon.clld.org/parameters/695,myn(e)d,go
+182-834,wels1247,http://concepticon.clld.org/parameters/695,â,go
+182-1658,wels1247,http://concepticon.clld.org/parameters/695,aeth,go
+182-1220,wels1247,http://concepticon.clld.org/parameters/695,êl,go
+182-801,wels1247,http://concepticon.clld.org/parameters/705,myn(e)d i fyny,go up
+182-1228,wels1247,http://concepticon.clld.org/parameters/705,esgyn,go up
+182-855,wels1247,http://concepticon.clld.org/parameters/1102,dringo,climb
+182-193,wels1247,http://concepticon.clld.org/parameters/2014,myn(e)d i lawr,go down
+182-989,wels1247,http://concepticon.clld.org/parameters/2014,disgyn,go down
+182-129,wels1247,http://concepticon.clld.org/parameters/1107,myn(e)d allan,go out
+182-1475,wels1247,http://concepticon.clld.org/parameters/1446,dyfod,come
+182-1850,wels1247,http://concepticon.clld.org/parameters/1446,daw,come
+182-1912,wels1247,http://concepticon.clld.org/parameters/1446,daeth,come
+182-1106,wels1247,http://concepticon.clld.org/parameters/1446,del,come
+182-158,wels1247,http://concepticon.clld.org/parameters/581,dod yn ôl,come back
+182-1435,wels1247,http://concepticon.clld.org/parameters/581,dychwelyd,come back
+182-1431,wels1247,http://concepticon.clld.org/parameters/1752,ymadael,"go away, depart"
+182-995,wels1247,http://concepticon.clld.org/parameters/1752,myn(e)d i ffwrdd,"go away, depart"
+182-1733,wels1247,http://concepticon.clld.org/parameters/485,diflannu,disappear
+182-608,wels1247,http://concepticon.clld.org/parameters/485,myn(e)d o'r golwg,disappear
+182-41,wels1247,http://concepticon.clld.org/parameters/956,ffoi,flee
+182-677,wels1247,http://concepticon.clld.org/parameters/1085,dilyn,follow
+182-737,wels1247,http://concepticon.clld.org/parameters/1085,canlyn,follow
+182-1167,wels1247,http://concepticon.clld.org/parameters/1047,erlid,pursue
+182-737,wels1247,http://concepticon.clld.org/parameters/1047,canlyn,pursue
+182-677,wels1247,http://concepticon.clld.org/parameters/1047,dilyn,pursue
+182-1148,wels1247,http://concepticon.clld.org/parameters/1387,d(yf)od i,"reach, arrive"
+182-798,wels1247,http://concepticon.clld.org/parameters/1387,cyrraedd,"reach, arrive"
+182-1872,wels1247,http://concepticon.clld.org/parameters/1778,dynesu,approach
+182-863,wels1247,http://concepticon.clld.org/parameters/1778,nesu,approach
+182-1073,wels1247,http://concepticon.clld.org/parameters/1778,agosáu,approach
+182-1225,wels1247,http://concepticon.clld.org/parameters/1778,nesáu,approach
+182-1893,wels1247,http://concepticon.clld.org/parameters/749,myn(e)d/d(yf)od i mewn,enter
+182-137,wels1247,http://concepticon.clld.org/parameters/700,cludo,carry (bear)
+182-253,wels1247,http://concepticon.clld.org/parameters/700,cario,carry (bear)
+182-403,wels1247,http://concepticon.clld.org/parameters/700,dwyn,carry (bear)
+182-1326,wels1247,http://concepticon.clld.org/parameters/700,porthi,carry (bear)
+182-1282,wels1247,http://concepticon.clld.org/parameters/412,cario/dal (yn ei law/ddwylo),carry-in-hand
+182-1416,wels1247,http://concepticon.clld.org/parameters/413,cario/dal ar ei ysgwydd(au),carry-on-shoulder
+182-1829,wels1247,http://concepticon.clld.org/parameters/414,cario/dal ar ei ben,carry-on-head
+182-201,wels1247,http://concepticon.clld.org/parameters/415,cario/dal dan ei fraich,carry-underarm
+182-874,wels1247,http://concepticon.clld.org/parameters/692,dod â,bring
+182-403,wels1247,http://concepticon.clld.org/parameters/692,dwyn,bring
+182-1099,wels1247,http://concepticon.clld.org/parameters/692,cyrchu,bring
+182-1902,wels1247,http://concepticon.clld.org/parameters/1127,(d)anfon,send
+182-1390,wels1247,http://concepticon.clld.org/parameters/43,arwain,lead (vb)
+182-1275,wels1247,http://concepticon.clld.org/parameters/43,tywys,lead (vb)
+182-1953,wels1247,http://concepticon.clld.org/parameters/741,gyrru,drive
+182-1119,wels1247,http://concepticon.clld.org/parameters/367,marchogaeth,ride
+182-351,wels1247,http://concepticon.clld.org/parameters/367,reidio,ride
+182-1907,wels1247,http://concepticon.clld.org/parameters/1452,gwthio,"push, shove"
+182-1398,wels1247,http://concepticon.clld.org/parameters/1452,hyrddiaf,"push, shove"
+182-363,wels1247,http://concepticon.clld.org/parameters/1452,hyrddu,"push, shove"
+182-1539,wels1247,http://concepticon.clld.org/parameters/667,ffordd,road
+182-99,wels1247,http://concepticon.clld.org/parameters/2252,llwybr,path
+182-1110,wels1247,http://concepticon.clld.org/parameters/1011,pont,bridge
+182-1048,wels1247,http://concepticon.clld.org/parameters/122,cerbyd,"carriage, wagon, cart"
+182-204,wels1247,http://concepticon.clld.org/parameters/122,(g)wagen,"carriage, wagon, cart"
+182-296,wels1247,http://concepticon.clld.org/parameters/122,men,"carriage, wagon, cart"
+182-1697,wels1247,http://concepticon.clld.org/parameters/122,ben,"carriage, wagon, cart"
+182-1524,wels1247,http://concepticon.clld.org/parameters/122,cert,"carriage, wagon, cart"
+182-1844,wels1247,http://concepticon.clld.org/parameters/710,olwyn,wheel
+182-1659,wels1247,http://concepticon.clld.org/parameters/710,rhod,wheel
+182-1207,wels1247,http://concepticon.clld.org/parameters/1769,echel,axle
+182-694,wels1247,http://concepticon.clld.org/parameters/14,iau,yoke
+182-1372,wels1247,http://concepticon.clld.org/parameters/740,llong,ship
+182-275,wels1247,http://concepticon.clld.org/parameters/1844,bad,boat
+182-11,wels1247,http://concepticon.clld.org/parameters/1844,cwch,boat
+182-1790,wels1247,http://concepticon.clld.org/parameters/1970,canŵ,canoe
+182-491,wels1247,http://concepticon.clld.org/parameters/416,sadiwr,outrigger
+182-958,wels1247,http://concepticon.clld.org/parameters/1664,rafft,raft
+182-574,wels1247,http://concepticon.clld.org/parameters/1664,cludair,raft
+182-903,wels1247,http://concepticon.clld.org/parameters/108,rhwyf,oar
+182-903,wels1247,http://concepticon.clld.org/parameters/234,rhwyf,paddle (noun)
+182-279,wels1247,http://concepticon.clld.org/parameters/234,padl,paddle (noun)
+182-1809,wels1247,http://concepticon.clld.org/parameters/234,rhodl,paddle (noun)
+182-134,wels1247,http://concepticon.clld.org/parameters/1849,rhwyfo,row (vb)
+182-1615,wels1247,http://concepticon.clld.org/parameters/108,llyw,rudder
+182-76,wels1247,http://concepticon.clld.org/parameters/184,hwylbren,mast
+182-751,wels1247,http://concepticon.clld.org/parameters/786,hwyl,sail (noun)
+182-188,wels1247,http://concepticon.clld.org/parameters/1870,angor,anchor
+182-1479,wels1247,http://concepticon.clld.org/parameters/610,porthladd,"harbor, port"
+182-394,wels1247,http://concepticon.clld.org/parameters/610,harbwr,"harbor, port"
+182-1166,wels1247,http://concepticon.clld.org/parameters/610,porth,"harbor, port"
+182-957,wels1247,http://concepticon.clld.org/parameters/1922,glanio,land (vb)
+182-547,wels1247,http://concepticon.clld.org/parameters/773,bod â,have
+182-543,wels1247,http://concepticon.clld.org/parameters/773,bod gan,have
+182-1387,wels1247,http://concepticon.clld.org/parameters/684,meddu (ar),"own, possess"
+182-914,wels1247,http://concepticon.clld.org/parameters/684,perchen (ar),"own, possess"
+182-976,wels1247,http://concepticon.clld.org/parameters/1749,cym(e)ryd,take
+182-1655,wels1247,http://concepticon.clld.org/parameters/2021,gafael,"seize, grasp"
+182-1175,wels1247,http://concepticon.clld.org/parameters/1448,dal(a),hold
+182-1344,wels1247,http://concepticon.clld.org/parameters/694,cael,"get, obtain"
+182-1687,wels1247,http://concepticon.clld.org/parameters/694,caffael,"get, obtain"
+182-1200,wels1247,http://concepticon.clld.org/parameters/1477,cadw,"keep, retain"
+182-1736,wels1247,http://concepticon.clld.org/parameters/738,peth,thing
+182-1759,wels1247,http://concepticon.clld.org/parameters/1447,rhoi,give
+182-913,wels1247,http://concepticon.clld.org/parameters/1447,rhoddi,give
+182-480,wels1247,http://concepticon.clld.org/parameters/85,rhoi yn ôl,give back
+182-1435,wels1247,http://concepticon.clld.org/parameters/85,dychwelyd,give back
+182-1200,wels1247,http://concepticon.clld.org/parameters/1997,cadw,"preserve, look after"
+182-254,wels1247,http://concepticon.clld.org/parameters/1997,gofalu (am),"preserve, look after"
+182-1123,wels1247,http://concepticon.clld.org/parameters/2008,achub,"save, rescue"
+182-775,wels1247,http://concepticon.clld.org/parameters/681,dinistrio,destroy
+182-1758,wels1247,http://concepticon.clld.org/parameters/681,distrywio,destroy
+182-1020,wels1247,http://concepticon.clld.org/parameters/44,niweidio,"harm, injure, damage"
+182-722,wels1247,http://concepticon.clld.org/parameters/1468,ceisio,"seek, look for"
+182-1687,wels1247,http://concepticon.clld.org/parameters/719,caffael,find
+182-1344,wels1247,http://concepticon.clld.org/parameters/719,cael,find
+182-43,wels1247,http://concepticon.clld.org/parameters/719,cael hyd (i),find
+182-1154,wels1247,http://concepticon.clld.org/parameters/719,ffeindio,find
+182-975,wels1247,http://concepticon.clld.org/parameters/1660,colli,lose
+182-1766,wels1247,http://concepticon.clld.org/parameters/1095,gollwng,"release, let go"
+182-1151,wels1247,http://concepticon.clld.org/parameters/1559,arian,money
+182-569,wels1247,http://concepticon.clld.org/parameters/1559,pres,money
+182-546,wels1247,http://concepticon.clld.org/parameters/1867,arian bath,coin
+182-49,wels1247,http://concepticon.clld.org/parameters/712,cyfoethog,rich
+182-93,wels1247,http://concepticon.clld.org/parameters/1674,tlawd,poor
+182-32,wels1247,http://concepticon.clld.org/parameters/1934,cardotyn,beggar
+182-1633,wels1247,http://concepticon.clld.org/parameters/1774,cybyddlyd,"avaricious, stingy"
+182-880,wels1247,http://concepticon.clld.org/parameters/1774,crintach(lyd),"avaricious, stingy"
+182-180,wels1247,http://concepticon.clld.org/parameters/582,(rhoi) benthyg,lend
+182-1338,wels1247,http://concepticon.clld.org/parameters/582,benthyca,lend
+182-1013,wels1247,http://concepticon.clld.org/parameters/582,echwyna,lend
+182-208,wels1247,http://concepticon.clld.org/parameters/582,benthycio,lend
+182-1419,wels1247,http://concepticon.clld.org/parameters/1823,(cael) benthyg,borrow
+182-1338,wels1247,http://concepticon.clld.org/parameters/1823,benthyca,borrow
+182-567,wels1247,http://concepticon.clld.org/parameters/1823,echwyn(a),borrow
+182-208,wels1247,http://concepticon.clld.org/parameters/1823,benthycio,borrow
+182-735,wels1247,http://concepticon.clld.org/parameters/369,bod mewn dyled (i),owe
+182-925,wels1247,http://concepticon.clld.org/parameters/1914,dyled,debt
+182-623,wels1247,http://concepticon.clld.org/parameters/718,talu,pay (vb)
+182-429,wels1247,http://concepticon.clld.org/parameters/1081,cyfrif,"account, reckoning"
+182-244,wels1247,http://concepticon.clld.org/parameters/873,treth,"tax, tribute"
+182-507,wels1247,http://concepticon.clld.org/parameters/856,cyflogi,hire
+182-122,wels1247,http://concepticon.clld.org/parameters/856,llogi,hire
+182-361,wels1247,http://concepticon.clld.org/parameters/856,hurio,hire
+182-795,wels1247,http://concepticon.clld.org/parameters/1122,cyflog,wages
+182-705,wels1247,http://concepticon.clld.org/parameters/1122,hur,wages
+182-1517,wels1247,http://concepticon.clld.org/parameters/733,ennill,earn
+182-1846,wels1247,http://concepticon.clld.org/parameters/1869,prynu,buy
+182-468,wels1247,http://concepticon.clld.org/parameters/1571,gwerthu,sell
+182-1263,wels1247,http://concepticon.clld.org/parameters/2135,masnachu,"trade, barter"
+182-88,wels1247,http://concepticon.clld.org/parameters/1082,masnachydd,merchant
+182-1643,wels1247,http://concepticon.clld.org/parameters/1082,marsiand(ï)wr,merchant
+182-450,wels1247,http://concepticon.clld.org/parameters/633,marchnad,market (place)
+182-1637,wels1247,http://concepticon.clld.org/parameters/752,siop,"store, shop"
+182-1050,wels1247,http://concepticon.clld.org/parameters/752,maelfa,"store, shop"
+182-247,wels1247,http://concepticon.clld.org/parameters/657,pris,price
+182-1784,wels1247,http://concepticon.clld.org/parameters/1426,drud,"dear (costly, expensive)"
+182-349,wels1247,http://concepticon.clld.org/parameters/1426,costus,"dear (costly, expensive)"
+182-505,wels1247,http://concepticon.clld.org/parameters/1887,rhad,cheap
+182-1764,wels1247,http://concepticon.clld.org/parameters/884,rhannu,share (distribute)
+182-362,wels1247,http://concepticon.clld.org/parameters/1098,pwyso,weigh
+182-740,wels1247,http://concepticon.clld.org/parameters/1685,ar ôl,after
+182-1286,wels1247,http://concepticon.clld.org/parameters/723,y tu ôl,behind
+182-982,wels1247,http://concepticon.clld.org/parameters/1816,yn ymyl,beside
+182-799,wels1247,http://concepticon.clld.org/parameters/1816,wrth ochr,beside
+182-1744,wels1247,http://concepticon.clld.org/parameters/1816,ger(llaw),beside
+182-1951,wels1247,http://concepticon.clld.org/parameters/1816,wrth (ymyl),beside
+182-1330,wels1247,http://concepticon.clld.org/parameters/1816,ar bwys,beside
+182-730,wels1247,http://concepticon.clld.org/parameters/1326,i lawr,"down, below"
+182-754,wels1247,http://concepticon.clld.org/parameters/1326,islaw,"down, below"
+182-469,wels1247,http://concepticon.clld.org/parameters/1882,o flaen,before
+182-1496,wels1247,http://concepticon.clld.org/parameters/1019,(tu) blaen,front
+182-1911,wels1247,http://concepticon.clld.org/parameters/1606,y tu mewn,"inside, in"
+182-1518,wels1247,http://concepticon.clld.org/parameters/1606,mewn,"inside, in"
+182-1161,wels1247,http://concepticon.clld.org/parameters/1606,yn,"inside, in"
+182-1265,wels1247,http://concepticon.clld.org/parameters/762,y tu allan,outside
+182-539,wels1247,http://concepticon.clld.org/parameters/1485,o dan,under
+182-1573,wels1247,http://concepticon.clld.org/parameters/1485,tan,under
+182-386,wels1247,http://concepticon.clld.org/parameters/1591,i fyny,"up, above"
+182-118,wels1247,http://concepticon.clld.org/parameters/1591,lan,"up, above"
+182-577,wels1247,http://concepticon.clld.org/parameters/1591,uwchben,"up, above"
+182-499,wels1247,http://concepticon.clld.org/parameters/723,lle,place
+182-622,wels1247,http://concepticon.clld.org/parameters/723,man,place
+182-561,wels1247,http://concepticon.clld.org/parameters/998,gosod,put
+182-98,wels1247,http://concepticon.clld.org/parameters/998,dodi,put
+182-1759,wels1247,http://concepticon.clld.org/parameters/998,rhoi,put
+182-912,wels1247,http://concepticon.clld.org/parameters/1416,eistedd,sit
+182-876,wels1247,http://concepticon.clld.org/parameters/215,gorwedd (i lawr),lie down
+182-62,wels1247,http://concepticon.clld.org/parameters/1442,sefyll,stand
+182-1767,wels1247,http://concepticon.clld.org/parameters/987,aros,"remain, stay"
+182-143,wels1247,http://concepticon.clld.org/parameters/838,gweddillion,"remains, left overs"
+182-1827,wels1247,http://concepticon.clld.org/parameters/7,casglu,"collect, gather"
+182-290,wels1247,http://concepticon.clld.org/parameters/7,cynnull,"collect, gather"
+182-1027,wels1247,http://concepticon.clld.org/parameters/371,codi,pick up
+182-1827,wels1247,http://concepticon.clld.org/parameters/371,casglu,pick up
+182-182,wels1247,http://concepticon.clld.org/parameters/1576,pentyrru,pile up
+182-980,wels1247,http://concepticon.clld.org/parameters/1576,cruglwytho,pile up
+182-1004,wels1247,http://concepticon.clld.org/parameters/1743,cysylltu,"join, unite"
+182-1639,wels1247,http://concepticon.clld.org/parameters/1743,cydio,"join, unite"
+182-310,wels1247,http://concepticon.clld.org/parameters/1743,uno,"join, unite"
+182-25,wels1247,http://concepticon.clld.org/parameters/1743,cyfuno,"join, unite"
+182-145,wels1247,http://concepticon.clld.org/parameters/1359,gwahanu,separate
+182-1764,wels1247,http://concepticon.clld.org/parameters/1119,rhannu,divide
+182-145,wels1247,http://concepticon.clld.org/parameters/1119,gwahanu,divide
+182-824,wels1247,http://concepticon.clld.org/parameters/1156,agor(i),open
+182-585,wels1247,http://concepticon.clld.org/parameters/1046,cau,"shut, close"
+182-1799,wels1247,http://concepticon.clld.org/parameters/761,gorchuddio,cover
+182-760,wels1247,http://concepticon.clld.org/parameters/602,cuddio,"hide, conceal"
+182-1509,wels1247,http://concepticon.clld.org/parameters/602,celu,"hide, conceal"
+182-1054,wels1247,http://concepticon.clld.org/parameters/1265,uchel,high
+182-147,wels1247,http://concepticon.clld.org/parameters/721,isel,low
+182-1150,wels1247,http://concepticon.clld.org/parameters/1753,brig,top
+182-262,wels1247,http://concepticon.clld.org/parameters/690,gwaelod,bottom
+182-1696,wels1247,http://concepticon.clld.org/parameters/690,bôn,bottom
+182-1397,wels1247,http://concepticon.clld.org/parameters/742,pen,end
+182-1,wels1247,http://concepticon.clld.org/parameters/372,pwyntiedig,pointed
+182-379,wels1247,http://concepticon.clld.org/parameters/372,blaenllym,pointed
+182-1806,wels1247,http://concepticon.clld.org/parameters/863,ymyl,edge
+182-1712,wels1247,http://concepticon.clld.org/parameters/863,min,edge
+182-566,wels1247,http://concepticon.clld.org/parameters/863,awch,edge
+182-1502,wels1247,http://concepticon.clld.org/parameters/863,ochr,edge
+182-1502,wels1247,http://concepticon.clld.org/parameters/682,ochr,side
+182-1450,wels1247,http://concepticon.clld.org/parameters/682,ystlys,side
+182-1012,wels1247,http://concepticon.clld.org/parameters/682,tu,side
+182-848,wels1247,http://concepticon.clld.org/parameters/1093,canol,"middle, center"
+182-354,wels1247,http://concepticon.clld.org/parameters/1093,perfedd,"middle, center"
+182-260,wels1247,http://concepticon.clld.org/parameters/1019,de,right (side)
+182-1257,wels1247,http://concepticon.clld.org/parameters/1019,dehau,right (side)
+182-1031,wels1247,http://concepticon.clld.org/parameters/244,chwith,left (side)
+182-1491,wels1247,http://concepticon.clld.org/parameters/244,aswy,left (side)
+182-739,wels1247,http://concepticon.clld.org/parameters/1942,yn agos,near (adv)
+182-1769,wels1247,http://concepticon.clld.org/parameters/1942,nid nepell,near (adv)
+182-1233,wels1247,http://concepticon.clld.org/parameters/1942,gerllaw,near (adv)
+182-124,wels1247,http://concepticon.clld.org/parameters/1406,ymhell,far (adv)
+182-1320,wels1247,http://concepticon.clld.org/parameters/1406,yn bell,far (adv)
+182-1287,wels1247,http://concepticon.clld.org/parameters/1877,dwyrain,east
+182-1506,wels1247,http://concepticon.clld.org/parameters/1817,gorllewin,west
+182-1349,wels1247,http://concepticon.clld.org/parameters/1598,gogledd,north
+182-260,wels1247,http://concepticon.clld.org/parameters/1595,de,south
+182-1257,wels1247,http://concepticon.clld.org/parameters/1595,dehau,south
+182-991,wels1247,http://concepticon.clld.org/parameters/479,tyfu,grow
+182-1183,wels1247,http://concepticon.clld.org/parameters/1506,mesur(o),measure
+182-1722,wels1247,http://concepticon.clld.org/parameters/81,lled,"span, fathom"
+182-1018,wels1247,http://concepticon.clld.org/parameters/81,rhychwant,"span, fathom"
+182-196,wels1247,http://concepticon.clld.org/parameters/81,gwr(h)yd,"span, fathom"
+182-1526,wels1247,http://concepticon.clld.org/parameters/1202,mawr,"large, big"
+182-1384,wels1247,http://concepticon.clld.org/parameters/1246,bach,"small, little"
+182-584,wels1247,http://concepticon.clld.org/parameters/1246,bychan,"small, little"
+182-1268,wels1247,http://concepticon.clld.org/parameters/1203,hir,long
+182-1125,wels1247,http://concepticon.clld.org/parameters/1203,maith,long
+182-1571,wels1247,http://concepticon.clld.org/parameters/711,tal,tall
+182-1612,wels1247,http://concepticon.clld.org/parameters/1645,byr,short
+182-967,wels1247,http://concepticon.clld.org/parameters/1243,llydan,"wide, broad"
+182-1396,wels1247,http://concepticon.clld.org/parameters/1243,eang,"wide, broad"
+182-1363,wels1247,http://concepticon.clld.org/parameters/1267,cul,narrow
+182-511,wels1247,http://concepticon.clld.org/parameters/1267,cyfyng,narrow
+182-1046,wels1247,http://concepticon.clld.org/parameters/1244,tew,thick (in dimension)
+182-1557,wels1247,http://concepticon.clld.org/parameters/1244,trwchus,thick (in dimension)
+182-1854,wels1247,http://concepticon.clld.org/parameters/1400,tenau,thin (in dimension)
+182-531,wels1247,http://concepticon.clld.org/parameters/1593,dwfn,deep
+182-270,wels1247,http://concepticon.clld.org/parameters/193,bas,shallow
+182-328,wels1247,http://concepticon.clld.org/parameters/1633,fflat,flat
+182-175,wels1247,http://concepticon.clld.org/parameters/1633,gwastad,flat
+182-323,wels1247,http://concepticon.clld.org/parameters/1404,union,straight
+182-1858,wels1247,http://concepticon.clld.org/parameters/1404,syth,straight
+182-588,wels1247,http://concepticon.clld.org/parameters/297,cam,crooked
+182-176,wels1247,http://concepticon.clld.org/parameters/297,crwm,crooked
+182-1910,wels1247,http://concepticon.clld.org/parameters/1071,bach(yn),hook
+182-1672,wels1247,http://concepticon.clld.org/parameters/192,congl,corner
+182-749,wels1247,http://concepticon.clld.org/parameters/192,cornel,corner
+182-992,wels1247,http://concepticon.clld.org/parameters/1367,croes,cross
+182-1505,wels1247,http://concepticon.clld.org/parameters/1367,crog,cross
+182-1724,wels1247,http://concepticon.clld.org/parameters/850,(y)sgwâr,square
+182-1122,wels1247,http://concepticon.clld.org/parameters/850,pedrongl,square
+182-174,wels1247,http://concepticon.clld.org/parameters/1395,crwn,round
+182-1021,wels1247,http://concepticon.clld.org/parameters/1467,cylch,circle
+182-345,wels1247,http://concepticon.clld.org/parameters/1467,cant,circle
+182-436,wels1247,http://concepticon.clld.org/parameters/1845,sffêr,"sphere, ball"
+182-1188,wels1247,http://concepticon.clld.org/parameters/1845,pêl,"sphere, ball"
+182-1377,wels1247,http://concepticon.clld.org/parameters/1845,pelen,"sphere, ball"
+182-935,wels1247,http://concepticon.clld.org/parameters/1845,cronnell,"sphere, ball"
+182-1928,wels1247,http://concepticon.clld.org/parameters/1048,llinell,line
+182-1511,wels1247,http://concepticon.clld.org/parameters/1667,twll,hole
+182-1794,wels1247,http://concepticon.clld.org/parameters/1558,tebyg,"like, similar"
+182-1738,wels1247,http://concepticon.clld.org/parameters/1558,hafal,"like, similar"
+182-902,wels1247,http://concepticon.clld.org/parameters/1264,newid,change
+182-744,wels1247,http://concepticon.clld.org/parameters/1264,troi,change
+182-603,wels1247,http://concepticon.clld.org/parameters/1294,dim,"zero, nothing"
+182-717,wels1247,http://concepticon.clld.org/parameters/1294,sero,"zero, nothing"
+182-1439,wels1247,http://concepticon.clld.org/parameters/1515,un,one
+182-1623,wels1247,http://concepticon.clld.org/parameters/1498,dau,two
+182-1578,wels1247,http://concepticon.clld.org/parameters/1498,dwy,two
+182-1485,wels1247,http://concepticon.clld.org/parameters/492,tri,three
+182-1839,wels1247,http://concepticon.clld.org/parameters/492,tair,three
+182-1556,wels1247,http://concepticon.clld.org/parameters/1500,pedwar,four
+182-117,wels1247,http://concepticon.clld.org/parameters/1500,pedair,four
+182-790,wels1247,http://concepticon.clld.org/parameters/493,pump,five
+182-1715,wels1247,http://concepticon.clld.org/parameters/1703,chwech,six
+182-597,wels1247,http://concepticon.clld.org/parameters/1704,saith,seven
+182-1131,wels1247,http://concepticon.clld.org/parameters/1705,wyth,eight
+182-1455,wels1247,http://concepticon.clld.org/parameters/1483,naw,nine
+182-1108,wels1247,http://concepticon.clld.org/parameters/1515,deg,ten
+182-1954,wels1247,http://concepticon.clld.org/parameters/1706,un ar ddeg,eleven
+182-1152,wels1247,http://concepticon.clld.org/parameters/1707,deuddeg,twelve
+182-953,wels1247,http://concepticon.clld.org/parameters/1709,pymtheg,fifteen
+182-103,wels1247,http://concepticon.clld.org/parameters/1710,ugain,twenty
+182-345,wels1247,http://concepticon.clld.org/parameters/1634,cant,hundred
+182-1711,wels1247,http://concepticon.clld.org/parameters/1843,mil,thousand
+182-429,wels1247,http://concepticon.clld.org/parameters/1420,cyfrif,count
+182-819,wels1247,http://concepticon.clld.org/parameters/98,pob,"every, all"
+182-95,wels1247,http://concepticon.clld.org/parameters/98,holl,"every, all"
+182-941,wels1247,http://concepticon.clld.org/parameters/1198,llawer,"much, many"
+182-10,wels1247,http://concepticon.clld.org/parameters/1992,mwy,more
+182-371,wels1247,http://concepticon.clld.org/parameters/1992,ychwaneg,more
+182-263,wels1247,http://concepticon.clld.org/parameters/1992,rhagor,more
+182-1927,wels1247,http://concepticon.clld.org/parameters/1242,ychydig,"little (quantity), few"
+182-854,wels1247,http://concepticon.clld.org/parameters/1881,digon,enough
+182-1100,wels1247,http://concepticon.clld.org/parameters/1241,rhai,some
+182-1927,wels1247,http://concepticon.clld.org/parameters/1241,ychydig,some
+182-1736,wels1247,http://concepticon.clld.org/parameters/1241,peth,some
+182-1606,wels1247,http://concepticon.clld.org/parameters/2023,lliaws,"multitude, crowd"
+182-630,wels1247,http://concepticon.clld.org/parameters/2023,torf,"multitude, crowd"
+182-495,wels1247,http://concepticon.clld.org/parameters/2023,llu,"multitude, crowd"
+182-1584,wels1247,http://concepticon.clld.org/parameters/1429,llawn,full
+182-1280,wels1247,http://concepticon.clld.org/parameters/1624,gwag,empty
+182-1098,wels1247,http://concepticon.clld.org/parameters/779,rhan,"part, piece"
+182-894,wels1247,http://concepticon.clld.org/parameters/779,darn,"part, piece"
+182-1090,wels1247,http://concepticon.clld.org/parameters/816,hanner,half
+182-1115,wels1247,http://concepticon.clld.org/parameters/1580,yn unig,"alone, only"
+182-72,wels1247,http://concepticon.clld.org/parameters/1580,unig,"alone, only"
+182-1741,wels1247,http://concepticon.clld.org/parameters/728,cyntaf,first
+182-1488,wels1247,http://concepticon.clld.org/parameters/1529,olaf,last
+182-1936,wels1247,http://concepticon.clld.org/parameters/1529,diwethaf,last
+182-45,wels1247,http://concepticon.clld.org/parameters/1384,ail,second
+182-173,wels1247,http://concepticon.clld.org/parameters/1888,pâr,pair
+182-882,wels1247,http://concepticon.clld.org/parameters/1888,cwpl,pair
+182-984,wels1247,http://concepticon.clld.org/parameters/1546,dwywaith,two times
+182-1451,wels1247,http://concepticon.clld.org/parameters/1546,dau dro,two times
+182-107,wels1247,http://concepticon.clld.org/parameters/1546,dwy adeg,two times
+182-1109,wels1247,http://concepticon.clld.org/parameters/1859,tryddydd,third
+182-388,wels1247,http://concepticon.clld.org/parameters/1859,trydedd,third
+182-344,wels1247,http://concepticon.clld.org/parameters/417,teirgwaith,three times
+182-1005,wels1247,http://concepticon.clld.org/parameters/417,tair gwaith,three times
+182-1795,wels1247,http://concepticon.clld.org/parameters/417,tair adeg,three times
+182-455,wels1247,http://concepticon.clld.org/parameters/417,tri thro,three times
+182-548,wels1247,http://concepticon.clld.org/parameters/892,amser,time
+182-552,wels1247,http://concepticon.clld.org/parameters/892,pryd,time
+182-1545,wels1247,http://concepticon.clld.org/parameters/1789,oed(ran),age
+182-1405,wels1247,http://concepticon.clld.org/parameters/1789,oes,age
+182-51,wels1247,http://concepticon.clld.org/parameters/1231,newydd,new
+182-758,wels1247,http://concepticon.clld.org/parameters/1207,ieuanc,young
+182-1773,wels1247,http://concepticon.clld.org/parameters/1207,ifanc,young
+182-946,wels1247,http://concepticon.clld.org/parameters/1229,hen,old
+182-881,wels1247,http://concepticon.clld.org/parameters/672,cynnar,early
+182-404,wels1247,http://concepticon.clld.org/parameters/672,bore,early
+182-750,wels1247,http://concepticon.clld.org/parameters/477,hwyr,late
+182-401,wels1247,http://concepticon.clld.org/parameters/477,diweddar,late
+182-923,wels1247,http://concepticon.clld.org/parameters/1376,yn awr,now
+182-452,wels1247,http://concepticon.clld.org/parameters/1963,yn y fan,immediately
+182-179,wels1247,http://concepticon.clld.org/parameters/1963,ar unwaith,immediately
+182-836,wels1247,http://concepticon.clld.org/parameters/1963,yn syth,immediately
+182-268,wels1247,http://concepticon.clld.org/parameters/1631,buan,"swift, fast, quick"
+182-563,wels1247,http://concepticon.clld.org/parameters/1631,cyflym,"swift, fast, quick"
+182-1174,wels1247,http://concepticon.clld.org/parameters/1631,chwyrn,"swift, fast, quick"
+182-904,wels1247,http://concepticon.clld.org/parameters/1631,clau,"swift, fast, quick"
+182-387,wels1247,http://concepticon.clld.org/parameters/701,araf,slow
+182-414,wels1247,http://concepticon.clld.org/parameters/754,brysio,"hasten, hurry"
+182-846,wels1247,http://concepticon.clld.org/parameters/754,prysuro,"hasten, hurry"
+182-128,wels1247,http://concepticon.clld.org/parameters/754,hastu,"hasten, hurry"
+182-397,wels1247,http://concepticon.clld.org/parameters/425,arafu,"retard, delay"
+182-1251,wels1247,http://concepticon.clld.org/parameters/425,oedi,"retard, delay"
+182-1386,wels1247,http://concepticon.clld.org/parameters/1806,dechrau,"begin, beginning"
+182-293,wels1247,http://concepticon.clld.org/parameters/1806,cychwyn,"begin, beginning"
+182-1006,wels1247,http://concepticon.clld.org/parameters/1806,dechreuad,"begin, beginning"
+182-1482,wels1247,http://concepticon.clld.org/parameters/1186,parhau,"last, endure"
+182-1214,wels1247,http://concepticon.clld.org/parameters/1186,para,"last, endure"
+182-651,wels1247,http://concepticon.clld.org/parameters/1186,goroesi,"last, endure"
+182-745,wels1247,http://concepticon.clld.org/parameters/743,diwedd,end (temporal)
+182-1681,wels1247,http://concepticon.clld.org/parameters/1766,diweddu,finish
+182-878,wels1247,http://concepticon.clld.org/parameters/1766,gorffen,finish
+182-1498,wels1247,http://concepticon.clld.org/parameters/1766,dod i ben,finish
+182-533,wels1247,http://concepticon.clld.org/parameters/1928,peidio,"cease, stop"
+182-1820,wels1247,http://concepticon.clld.org/parameters/1928,stopio,"cease, stop"
+182-278,wels1247,http://concepticon.clld.org/parameters/790,parod,ready
+182-908,wels1247,http://concepticon.clld.org/parameters/1676,bob amser,always
+182-966,wels1247,http://concepticon.clld.org/parameters/1676,bob tro,always
+182-538,wels1247,http://concepticon.clld.org/parameters/1676,drwy'r amser,always
+182-1444,wels1247,http://concepticon.clld.org/parameters/1852,yn aml,often
+182-370,wels1247,http://concepticon.clld.org/parameters/1852,yn fynych,often
+182-1811,wels1247,http://concepticon.clld.org/parameters/1544,weithiau,sometimes
+182-1949,wels1247,http://concepticon.clld.org/parameters/1544,ambell waith,sometimes
+182-1277,wels1247,http://concepticon.clld.org/parameters/703,cyn (bo) hir,soon
+182-267,wels1247,http://concepticon.clld.org/parameters/703,yn fuan,soon
+182-1757,wels1247,http://concepticon.clld.org/parameters/418,ers tro,long-time (for a)
+182-706,wels1247,http://concepticon.clld.org/parameters/418,ers talwm,long-time (for a)
+182-615,wels1247,http://concepticon.clld.org/parameters/418,ers meitin,long-time (for a)
+182-676,wels1247,http://concepticon.clld.org/parameters/1656,byth,never
+182-200,wels1247,http://concepticon.clld.org/parameters/1656,erioed,never
+182-1791,wels1247,http://concepticon.clld.org/parameters/204,eto,again
+182-151,wels1247,http://concepticon.clld.org/parameters/204,eilwaith,again
+182-1561,wels1247,http://concepticon.clld.org/parameters/204,drachefn,again
+182-631,wels1247,http://concepticon.clld.org/parameters/1260,dydd,day
+182-315,wels1247,http://concepticon.clld.org/parameters/1260,diwrnod,day
+182-650,wels1247,http://concepticon.clld.org/parameters/1233,nos,night
+182-924,wels1247,http://concepticon.clld.org/parameters/729,gwawr,dawn
+182-404,wels1247,http://concepticon.clld.org/parameters/1339,bore,morning
+182-13,wels1247,http://concepticon.clld.org/parameters/12,canol dydd,"noon, midday"
+182-54,wels1247,http://concepticon.clld.org/parameters/12,nawn,"noon, midday"
+182-971,wels1247,http://concepticon.clld.org/parameters/12,hanner dydd,"noon, midday"
+182-1816,wels1247,http://concepticon.clld.org/parameters/1807,prynhawn,afternoon
+182-581,wels1247,http://concepticon.clld.org/parameters/1629,min nos,evening
+182-750,wels1247,http://concepticon.clld.org/parameters/1629,hwyr,evening
+182-599,wels1247,http://concepticon.clld.org/parameters/1629,noswaith,evening
+182-69,wels1247,http://concepticon.clld.org/parameters/1283,heddiw,today
+182-627,wels1247,http://concepticon.clld.org/parameters/1329,yfory,tomorrow
+182-1296,wels1247,http://concepticon.clld.org/parameters/1179,trennydd,day-after-tomorrow
+182-1412,wels1247,http://concepticon.clld.org/parameters/1174,(d)doe,yesterday
+182-900,wels1247,http://concepticon.clld.org/parameters/1180,echdoe,day-before-yesterday
+182-1723,wels1247,http://concepticon.clld.org/parameters/1353,awr,hour
+182-879,wels1247,http://concepticon.clld.org/parameters/1323,cloc,"clock, timepiece"
+182-375,wels1247,http://concepticon.clld.org/parameters/1323,awrlais,"clock, timepiece"
+182-520,wels1247,http://concepticon.clld.org/parameters/1323,amserydd,"clock, timepiece"
+182-704,wels1247,http://concepticon.clld.org/parameters/1469,wythnos,week
+182-1180,wels1247,http://concepticon.clld.org/parameters/1699,dydd Sul,Sunday
+182-765,wels1247,http://concepticon.clld.org/parameters/1697,dydd Llun,Monday
+182-1555,wels1247,http://concepticon.clld.org/parameters/1695,dydd Mawrth,Tuesday
+182-1418,wels1247,http://concepticon.clld.org/parameters/1694,dydd Mercher,Wednesday
+182-1382,wels1247,http://concepticon.clld.org/parameters/1693,dydd Iau,Thursday
+182-1836,wels1247,http://concepticon.clld.org/parameters/1692,dydd Gwener,Friday
+182-782,wels1247,http://concepticon.clld.org/parameters/1700,dydd Sadwrn,Saturday
+182-390,wels1247,http://concepticon.clld.org/parameters/1370,mis,month
+182-1209,wels1247,http://concepticon.clld.org/parameters/1226,blwyddyn,year
+182-472,wels1247,http://concepticon.clld.org/parameters/1471,gaeaf,winter
+182-1749,wels1247,http://concepticon.clld.org/parameters/1537,gwanwyn,spring
+182-377,wels1247,http://concepticon.clld.org/parameters/1342,haf,summer
+182-972,wels1247,http://concepticon.clld.org/parameters/1276,hydref,autumn
+182-1688,wels1247,http://concepticon.clld.org/parameters/691,tymor,season
+182-433,wels1247,http://concepticon.clld.org/parameters/1587,arogli,smell (vb intrans)
+182-977,wels1247,http://concepticon.clld.org/parameters/1587,arogleuo,smell (vb intrans)
+182-1033,wels1247,http://concepticon.clld.org/parameters/1587,gwynto,smell (vb intrans)
+182-226,wels1247,http://concepticon.clld.org/parameters/375,ffroeni,sniff
+182-460,wels1247,http://concepticon.clld.org/parameters/375,synhwyro,sniff
+182-977,wels1247,http://concepticon.clld.org/parameters/1586,arogleuo,smell (vb trans)
+182-460,wels1247,http://concepticon.clld.org/parameters/1586,synhwyro,smell (vb trans)
+182-741,wels1247,http://concepticon.clld.org/parameters/1586,clywed,smell (vb trans)
+182-1957,wels1247,http://concepticon.clld.org/parameters/376,peraroglus,"fragrant, good smelling"
+182-690,wels1247,http://concepticon.clld.org/parameters/376,persawrus,"fragrant, good smelling"
+182-840,wels1247,http://concepticon.clld.org/parameters/42,drewllyd,"stinking, bad smelling"
+182-209,wels1247,http://concepticon.clld.org/parameters/42,drycsawrus,"stinking, bad smelling"
+182-517,wels1247,http://concepticon.clld.org/parameters/21,blasu,taste
+182-1683,wels1247,http://concepticon.clld.org/parameters/21,chwaethu,taste
+182-1126,wels1247,http://concepticon.clld.org/parameters/717,melys,sweet
+182-438,wels1247,http://concepticon.clld.org/parameters/1091,hallt,salty
+182-138,wels1247,http://concepticon.clld.org/parameters/887,chwerw,bitter
+182-1051,wels1247,http://concepticon.clld.org/parameters/1906,sur,"acid, sour"
+182-1137,wels1247,http://concepticon.clld.org/parameters/1906,egr,"acid, sour"
+182-1213,wels1247,http://concepticon.clld.org/parameters/70,helïaidd,brackish
+182-933,wels1247,http://concepticon.clld.org/parameters/70,halltaidd,brackish
+182-741,wels1247,http://concepticon.clld.org/parameters/1408,clywed,hear
+182-1062,wels1247,http://concepticon.clld.org/parameters/1608,gwrando,listen
+182-286,wels1247,http://concepticon.clld.org/parameters/1811,sain,"sound, noise"
+182-292,wels1247,http://concepticon.clld.org/parameters/1811,sŵn,"sound, noise"
+182-1054,wels1247,http://concepticon.clld.org/parameters/377,uchel,loud
+182-1329,wels1247,http://concepticon.clld.org/parameters/377,swnllyd,loud
+182-889,wels1247,http://concepticon.clld.org/parameters/1314,llonydd,"quiet, silence"
+182-503,wels1247,http://concepticon.clld.org/parameters/1314,tawelwch,"quiet, silence"
+182-1614,wels1247,http://concepticon.clld.org/parameters/1409,gweld,see
+182-784,wels1247,http://concepticon.clld.org/parameters/1409,gweled,see
+182-252,wels1247,http://concepticon.clld.org/parameters/1819,edrych,"look, look at"
+182-1569,wels1247,http://concepticon.clld.org/parameters/1819,syllu (ar),"look, look at"
+182-1029,wels1247,http://concepticon.clld.org/parameters/1039,dangos,show
+182-223,wels1247,http://concepticon.clld.org/parameters/708,disgleirio,shine
+182-504,wels1247,http://concepticon.clld.org/parameters/708,llewyrchu,shine
+182-729,wels1247,http://concepticon.clld.org/parameters/679,golau,bright
+182-1009,wels1247,http://concepticon.clld.org/parameters/679,disglair,bright
+182-1855,wels1247,http://concepticon.clld.org/parameters/1613,lliw,color
+182-729,wels1247,http://concepticon.clld.org/parameters/250,golau,light (in color)
+182-1693,wels1247,http://concepticon.clld.org/parameters/706,tywyll,dark (in color)
+182-302,wels1247,http://concepticon.clld.org/parameters/1335,gwyn,white
+182-587,wels1247,http://concepticon.clld.org/parameters/1335,can,white
+182-1459,wels1247,http://concepticon.clld.org/parameters/163,du,black
+182-844,wels1247,http://concepticon.clld.org/parameters/156,coch,red
+182-778,wels1247,http://concepticon.clld.org/parameters/156,rhudd,red
+182-1092,wels1247,http://concepticon.clld.org/parameters/837,glas,blue
+182-339,wels1247,http://concepticon.clld.org/parameters/1425,gwyrdd,green
+182-1092,wels1247,http://concepticon.clld.org/parameters/1425,glas,green
+182-1179,wels1247,http://concepticon.clld.org/parameters/1424,melyn,yellow
+182-355,wels1247,http://concepticon.clld.org/parameters/1892,cyffwrdd,touch
+182-1871,wels1247,http://concepticon.clld.org/parameters/378,pinsio,pinch
+182-959,wels1247,http://concepticon.clld.org/parameters/378,gwasgu,pinch
+182-1197,wels1247,http://concepticon.clld.org/parameters/1079,teimlo,feel
+182-460,wels1247,http://concepticon.clld.org/parameters/1079,synhwyro,feel
+182-222,wels1247,http://concepticon.clld.org/parameters/1884,caled,hard
+182-1959,wels1247,http://concepticon.clld.org/parameters/1856,meddal,soft
+182-934,wels1247,http://concepticon.clld.org/parameters/1923,garw,rough
+182-119,wels1247,http://concepticon.clld.org/parameters/1234,llyfn,smooth
+182-1611,wels1247,http://concepticon.clld.org/parameters/1396,llym,sharp
+182-1726,wels1247,http://concepticon.clld.org/parameters/1396,siarp,sharp
+182-1430,wels1247,http://concepticon.clld.org/parameters/379,pwl,"blunt, dull"
+182-178,wels1247,http://concepticon.clld.org/parameters/1210,trwm,heavy
+182-662,wels1247,http://concepticon.clld.org/parameters/1052,ysgafn,light (in weight)
+182-1967,wels1247,http://concepticon.clld.org/parameters/1726,gwlyb,"wet, damp"
+182-372,wels1247,http://concepticon.clld.org/parameters/1726,llaith,"wet, damp"
+182-707,wels1247,http://concepticon.clld.org/parameters/1726,tamp,"wet, damp"
+182-1489,wels1247,http://concepticon.clld.org/parameters/1398,sych,dry
+182-1909,wels1247,http://concepticon.clld.org/parameters/1286,poeth,hot
+182-661,wels1247,http://concepticon.clld.org/parameters/1286,twym,hot
+182-249,wels1247,http://concepticon.clld.org/parameters/1286,cynnes,hot
+182-314,wels1247,http://concepticon.clld.org/parameters/1286,brwd,hot
+182-249,wels1247,http://concepticon.clld.org/parameters/1232,cynnes,warm
+182-661,wels1247,http://concepticon.clld.org/parameters/1232,twym,warm
+182-1406,wels1247,http://concepticon.clld.org/parameters/1287,oer,cold
+182-1843,wels1247,http://concepticon.clld.org/parameters/704,glân,clean
+182-937,wels1247,http://concepticon.clld.org/parameters/1230,budr,"dirty, soiled"
+182-1259,wels1247,http://concepticon.clld.org/parameters/1230,brwnt,"dirty, soiled"
+182-169,wels1247,http://concepticon.clld.org/parameters/380,crych,wrinkled
+182-1883,wels1247,http://concepticon.clld.org/parameters/380,crychlyd,wrinkled
+182-1325,wels1247,http://concepticon.clld.org/parameters/380,crych(i)og,wrinkled
+182-1284,wels1247,http://concepticon.clld.org/parameters/53,enaid,"soul, spirit"
+182-1586,wels1247,http://concepticon.clld.org/parameters/53,ysbryd,"soul, spirit"
+182-1339,wels1247,http://concepticon.clld.org/parameters/1572,syn,"surprised, astonished"
+182-664,wels1247,http://concepticon.clld.org/parameters/1572,wedi ei synnu,"surprised, astonished"
+182-832,wels1247,http://concepticon.clld.org/parameters/720,lwc dda,"good fortune, luck"
+182-1823,wels1247,http://concepticon.clld.org/parameters/720,ffawd dda,"good fortune, luck"
+182-1664,wels1247,http://concepticon.clld.org/parameters/56,anffawd,"misfortune, bad luck"
+182-163,wels1247,http://concepticon.clld.org/parameters/56,anlwc,"misfortune, bad luck"
+182-161,wels1247,http://concepticon.clld.org/parameters/1495,llawen,"joyful, glad, happy"
+182-776,wels1247,http://concepticon.clld.org/parameters/1495,llon,"joyful, glad, happy"
+182-181,wels1247,http://concepticon.clld.org/parameters/1495,llawenydd,"joyful, glad, happy"
+182-102,wels1247,http://concepticon.clld.org/parameters/1495,dywenydd,"joyful, glad, happy"
+182-1184,wels1247,http://concepticon.clld.org/parameters/1355,chwerthin,laugh
+182-1895,wels1247,http://concepticon.clld.org/parameters/1451,gwenu,smile
+182-537,wels1247,http://concepticon.clld.org/parameters/1413,chwarae,play
+182-1798,wels1247,http://concepticon.clld.org/parameters/923,cariad,love
+182-66,wels1247,http://concepticon.clld.org/parameters/923,serch,love
+182-674,wels1247,http://concepticon.clld.org/parameters/923,caru,love
+182-697,wels1247,http://concepticon.clld.org/parameters/578,cusanu,kiss
+182-1589,wels1247,http://concepticon.clld.org/parameters/928,cofleidio,embrace
+182-1803,wels1247,http://concepticon.clld.org/parameters/1783,poen,pain
+182-663,wels1247,http://concepticon.clld.org/parameters/1668,gofid,"grief, sorrow, sadness"
+182-37,wels1247,http://concepticon.clld.org/parameters/1668,galar,"grief, sorrow, sadness"
+182-1675,wels1247,http://concepticon.clld.org/parameters/1668,tristwch,"grief, sorrow, sadness"
+182-1076,wels1247,http://concepticon.clld.org/parameters/1000,pryder,"anxiety, worry"
+182-970,wels1247,http://concepticon.clld.org/parameters/1875,edifarhau,"regret, be sorry"
+182-1032,wels1247,http://concepticon.clld.org/parameters/1875,gresynu,"regret, be sorry"
+182-1778,wels1247,http://concepticon.clld.org/parameters/1141,tosturi,pity
+182-113,wels1247,http://concepticon.clld.org/parameters/1141,trugaredd,pity
+182-815,wels1247,http://concepticon.clld.org/parameters/1839,wylo,"cry, weep"
+182-687,wels1247,http://concepticon.clld.org/parameters/1839,crio,"cry, weep"
+182-1434,wels1247,http://concepticon.clld.org/parameters/1651,deigryn,tear (noun)
+182-653,wels1247,http://concepticon.clld.org/parameters/716,griddfan,groan
+182-1193,wels1247,http://concepticon.clld.org/parameters/716,ochain,groan
+182-92,wels1247,http://concepticon.clld.org/parameters/716,ocheneidio,groan
+182-219,wels1247,http://concepticon.clld.org/parameters/1607,cas,hate
+182-1145,wels1247,http://concepticon.clld.org/parameters/1607,casineb,hate
+182-1888,wels1247,http://concepticon.clld.org/parameters/82,dicter,anger
+182-1860,wels1247,http://concepticon.clld.org/parameters/82,llid,anger
+182-1667,wels1247,http://concepticon.clld.org/parameters/40,cenfigen,"envy, jealousy"
+182-628,wels1247,http://concepticon.clld.org/parameters/40,eiddigedd,"envy, jealousy"
+182-1920,wels1247,http://concepticon.clld.org/parameters/1776,cywilydd,shame (noun)
+182-1334,wels1247,http://concepticon.clld.org/parameters/1776,gwaradwydd,shame (noun)
+182-1427,wels1247,http://concepticon.clld.org/parameters/1776,gwarth,shame (noun)
+182-431,wels1247,http://concepticon.clld.org/parameters/174,balch,proud
+182-947,wels1247,http://concepticon.clld.org/parameters/1779,beiddio/meiddio,dare
+182-437,wels1247,http://concepticon.clld.org/parameters/3,dewr,brave
+182-1333,wels1247,http://concepticon.clld.org/parameters/3,gwrol,brave
+182-1847,wels1247,http://concepticon.clld.org/parameters/781,ofn,"fear, fright"
+182-1559,wels1247,http://concepticon.clld.org/parameters/781,dychryn,"fear, fright"
+182-440,wels1247,http://concepticon.clld.org/parameters/1810,perygl,danger
+182-22,wels1247,http://concepticon.clld.org/parameters/1810,enbydrwydd,danger
+182-1060,wels1247,http://concepticon.clld.org/parameters/1784,dymuno,"desire, want"
+182-1045,wels1247,http://concepticon.clld.org/parameters/1784,(bod) eisiau (arno),"desire, want"
+182-1644,wels1247,http://concepticon.clld.org/parameters/1750,dewis,choose
+182-1752,wels1247,http://concepticon.clld.org/parameters/1092,gobaith,hope
+182-1301,wels1247,http://concepticon.clld.org/parameters/100,ffyddlon,faithful
+182-65,wels1247,http://concepticon.clld.org/parameters/1657,gwir,true
+182-781,wels1247,http://concepticon.clld.org/parameters/1657,cywir,true
+182-1508,wels1247,http://concepticon.clld.org/parameters/601,dweud celwydd(au),"lie, tell lies"
+182-57,wels1247,http://concepticon.clld.org/parameters/13,twyll,deceit
+182-385,wels1247,http://concepticon.clld.org/parameters/1528,maddau,forgive
+182-261,wels1247,http://concepticon.clld.org/parameters/1035,da,good
+182-619,wels1247,http://concepticon.clld.org/parameters/1035,mad,good
+182-1164,wels1247,http://concepticon.clld.org/parameters/1292,drwg,bad
+182-106,wels1247,http://concepticon.clld.org/parameters/1725,iawn,"right, correct"
+182-12,wels1247,http://concepticon.clld.org/parameters/1725,cyfiawn,"right, correct"
+182-781,wels1247,http://concepticon.clld.org/parameters/1725,cywir,"right, correct"
+182-502,wels1247,http://concepticon.clld.org/parameters/1390,anghywir,wrong
+182-276,wels1247,http://concepticon.clld.org/parameters/134,bai,fault
+182-271,wels1247,http://concepticon.clld.org/parameters/1293,camgymeriad,"mistake, error"
+182-1801,wels1247,http://concepticon.clld.org/parameters/1293,gwall,"mistake, error"
+182-276,wels1247,http://concepticon.clld.org/parameters/381,bai,blame
+182-1139,wels1247,http://concepticon.clld.org/parameters/1687,moliant,praise
+182-1522,wels1247,http://concepticon.clld.org/parameters/1687,mawl,praise
+182-1530,wels1247,http://concepticon.clld.org/parameters/1427,hardd,beautiful
+182-1106,wels1247,http://concepticon.clld.org/parameters/1427,del,beautiful
+182-1843,wels1247,http://concepticon.clld.org/parameters/1427,glân,beautiful
+182-1038,wels1247,http://concepticon.clld.org/parameters/1427,teg,beautiful
+182-1856,wels1247,http://concepticon.clld.org/parameters/1427,tlws,beautiful
+182-712,wels1247,http://concepticon.clld.org/parameters/1548,hyll,ugly
+182-1351,wels1247,http://concepticon.clld.org/parameters/1548,hagr,ugly
+182-1852,wels1247,http://concepticon.clld.org/parameters/2018,barus,greedy
+182-1080,wels1247,http://concepticon.clld.org/parameters/2018,gwancus,greedy
+182-86,wels1247,http://concepticon.clld.org/parameters/1310,call,clever
+182-1155,wels1247,http://concepticon.clld.org/parameters/1310,clyfar,clever
+182-1024,wels1247,http://concepticon.clld.org/parameters/1310,deallus,clever
+182-1357,wels1247,http://concepticon.clld.org/parameters/1562,meddwl,mind
+182-1357,wels1247,http://concepticon.clld.org/parameters/1415,meddwl,think (= reflect)
+182-617,wels1247,http://concepticon.clld.org/parameters/1513,tybio,think (= be of the opinion)
+182-962,wels1247,http://concepticon.clld.org/parameters/1513,credu,think (= be of the opinion)
+182-962,wels1247,http://concepticon.clld.org/parameters/1890,credu,believe
+182-1493,wels1247,http://concepticon.clld.org/parameters/1536,deall,understand
+182-1831,wels1247,http://concepticon.clld.org/parameters/1410,gwybod,know
+182-802,wels1247,http://concepticon.clld.org/parameters/1410,adnabod,know
+182-1546,wels1247,http://concepticon.clld.org/parameters/1932,dyfalu,guess
+182-1403,wels1247,http://concepticon.clld.org/parameters/117,dynwared,imitate
+182-811,wels1247,http://concepticon.clld.org/parameters/1521,ymddangos,seem
+182-8,wels1247,http://concepticon.clld.org/parameters/1609,syniad,"idea, notion"
+182-523,wels1247,http://concepticon.clld.org/parameters/698,doeth,wise
+182-86,wels1247,http://concepticon.clld.org/parameters/698,call,wise
+182-58,wels1247,http://concepticon.clld.org/parameters/1518,ffôl,"foolish, stupid"
+182-871,wels1247,http://concepticon.clld.org/parameters/1518,ynfyd,"foolish, stupid"
+182-94,wels1247,http://concepticon.clld.org/parameters/1518,hurt,"foolish, stupid"
+182-987,wels1247,http://concepticon.clld.org/parameters/1899,gwallgof,"insane, crazy"
+182-731,wels1247,http://concepticon.clld.org/parameters/1899,gorffwyll,"insane, crazy"
+182-1313,wels1247,http://concepticon.clld.org/parameters/504,dysgu,learn
+182-1026,wels1247,http://concepticon.clld.org/parameters/1929,astudio,study
+182-1313,wels1247,http://concepticon.clld.org/parameters/709,dysgu,teach
+182-770,wels1247,http://concepticon.clld.org/parameters/753,disgybl,pupil
+182-186,wels1247,http://concepticon.clld.org/parameters/1038,athro,teacher
+182-1239,wels1247,http://concepticon.clld.org/parameters/673,ysgol,school
+182-830,wels1247,http://concepticon.clld.org/parameters/707,cofio,remember
+182-1576,wels1247,http://concepticon.clld.org/parameters/1523,anghofio,forget
+182-458,wels1247,http://concepticon.clld.org/parameters/1523,ebargofi,forget
+182-320,wels1247,http://concepticon.clld.org/parameters/989,clir,"clear, plain"
+182-729,wels1247,http://concepticon.clld.org/parameters/989,golau,"clear, plain"
+182-769,wels1247,http://concepticon.clld.org/parameters/989,eglur,"clear, plain"
+182-668,wels1247,http://concepticon.clld.org/parameters/1764,aneglur,obscure
+182-1146,wels1247,http://concepticon.clld.org/parameters/1121,dirgel,secret
+182-1707,wels1247,http://concepticon.clld.org/parameters/1121,cyfrinachol,secret
+182-1178,wels1247,http://concepticon.clld.org/parameters/509,siŵr,"sure, certain"
+182-1956,wels1247,http://concepticon.clld.org/parameters/509,sicr,"sure, certain"
+182-360,wels1247,http://concepticon.clld.org/parameters/1626,esbonio,explain
+182-1510,wels1247,http://concepticon.clld.org/parameters/1626,egluro,explain
+182-396,wels1247,http://concepticon.clld.org/parameters/1162,bwriad,"intention, purpose"
+182-38,wels1247,http://concepticon.clld.org/parameters/1162,amcan,"intention, purpose"
+182-1821,wels1247,http://concepticon.clld.org/parameters/1162,pwrpas,"intention, purpose"
+182-1163,wels1247,http://concepticon.clld.org/parameters/860,achosi,cause
+182-1240,wels1247,http://concepticon.clld.org/parameters/1308,amau,doubt
+182-1939,wels1247,http://concepticon.clld.org/parameters/1841,drwgdybio,suspect
+182-1676,wels1247,http://concepticon.clld.org/parameters/1902,bradychu,betray
+182-919,wels1247,http://concepticon.clld.org/parameters/643,angen,"need, necessity"
+182-540,wels1247,http://concepticon.clld.org/parameters/643,rhaid,"need, necessity"
+182-74,wels1247,http://concepticon.clld.org/parameters/686,hawdd,easy
+182-105,wels1247,http://concepticon.clld.org/parameters/584,anodd,difficult
+182-722,wels1247,http://concepticon.clld.org/parameters/1812,ceisio,"try, attempt"
+182-1634,wels1247,http://concepticon.clld.org/parameters/488,modd,"way, manner"
+182-1539,wels1247,http://concepticon.clld.org/parameters/488,ffordd,"way, manner"
+182-1036,wels1247,http://concepticon.clld.org/parameters/1577,a(c),and
+182-1822,wels1247,http://concepticon.clld.org/parameters/1157,oherwydd,because
+182-311,wels1247,http://concepticon.clld.org/parameters/1157,oblegid,because
+182-506,wels1247,http://concepticon.clld.org/parameters/1157,achos,because
+182-928,wels1247,http://concepticon.clld.org/parameters/1459,os,if
+182-1135,wels1247,http://concepticon.clld.org/parameters/1459,a,if
+182-50,wels1247,http://concepticon.clld.org/parameters/1014,neu,or
+182-108,wels1247,http://concepticon.clld.org/parameters/1014,ynteu,or
+182-348,wels1247,http://concepticon.clld.org/parameters/1268,ie,"yes, affirmative"
+182-1608,wels1247,http://concepticon.clld.org/parameters/1268,do,"yes, affirmative"
+182-1701,wels1247,http://concepticon.clld.org/parameters/1269,na(ge),"no, negative"
+182-997,wels1247,http://concepticon.clld.org/parameters/1269,negyddol,"no, negative"
+182-759,wels1247,http://concepticon.clld.org/parameters/1239,(pa) sut?,how?
+182-942,wels1247,http://concepticon.clld.org/parameters/822,(pa) faint?,how many?
+182-1679,wels1247,http://concepticon.clld.org/parameters/822,(pa) sawl?,how many?
+182-942,wels1247,http://concepticon.clld.org/parameters/531,(pa) faint?,how much?
+182-634,wels1247,http://concepticon.clld.org/parameters/1236,(pa) beth?,what?
+182-490,wels1247,http://concepticon.clld.org/parameters/1238,pa bryd?,when?
+182-689,wels1247,http://concepticon.clld.org/parameters/1238,pryd?,when?
+182-297,wels1247,http://concepticon.clld.org/parameters/1237,ble?,where?
+182-698,wels1247,http://concepticon.clld.org/parameters/727,pa un?,which?
+182-732,wels1247,http://concepticon.clld.org/parameters/727,p'un?,which?
+182-1061,wels1247,http://concepticon.clld.org/parameters/1235,pwy?,who?
+182-1410,wels1247,http://concepticon.clld.org/parameters/1270,pa(ha)m?,why?
+182-952,wels1247,http://concepticon.clld.org/parameters/1363,llais,voice
+182-101,wels1247,http://concepticon.clld.org/parameters/1261,canu,sing
+182-1129,wels1247,http://concepticon.clld.org/parameters/715,bloeddio,"shout, cry out"
+182-1873,wels1247,http://concepticon.clld.org/parameters/715,gweiddi,"shout, cry out"
+182-1807,wels1247,http://concepticon.clld.org/parameters/55,sibrwd,whisper
+182-442,wels1247,http://concepticon.clld.org/parameters/55,siffrwd,whisper
+182-1066,wels1247,http://concepticon.clld.org/parameters/128,myngial,mumble
+182-321,wels1247,http://concepticon.clld.org/parameters/128,mwmial,mumble
+182-1894,wels1247,http://concepticon.clld.org/parameters/128,mwmian,mumble
+182-1483,wels1247,http://concepticon.clld.org/parameters/1025,chwibanu,whistle
+182-1948,wels1247,http://concepticon.clld.org/parameters/298,(y)sgrechian,"shriek, screech"
+182-1695,wels1247,http://concepticon.clld.org/parameters/526,udo,howl
+182-1322,wels1247,http://concepticon.clld.org/parameters/526,ubain,howl
+182-467,wels1247,http://concepticon.clld.org/parameters/1623,siarad,"speak, talk"
+182-110,wels1247,http://concepticon.clld.org/parameters/1623,llefaru,"speak, talk"
+182-733,wels1247,http://concepticon.clld.org/parameters/1866,siarad ag atal (dweud),"stutter, stammer"
+182-109,wels1247,http://concepticon.clld.org/parameters/1866,cecian,"stutter, stammer"
+182-1203,wels1247,http://concepticon.clld.org/parameters/1458,dweud,say
+182-1841,wels1247,http://concepticon.clld.org/parameters/1458,dywedyd,say
+182-1905,wels1247,http://concepticon.clld.org/parameters/1711,adrodd stori,tell story
+182-1370,wels1247,http://concepticon.clld.org/parameters/1115,araith,speech (make a)
+182-1774,wels1247,http://concepticon.clld.org/parameters/1115,areithio,speech (make a)
+182-1053,wels1247,http://concepticon.clld.org/parameters/48,tewi,silent (be)
+182-818,wels1247,http://concepticon.clld.org/parameters/48,bod yn ddistaw,silent (be)
+182-1882,wels1247,http://concepticon.clld.org/parameters/1307,iaith,language
+182-1929,wels1247,http://concepticon.clld.org/parameters/1599,gair,word
+182-116,wels1247,http://concepticon.clld.org/parameters/1405,enw,name
+182-410,wels1247,http://concepticon.clld.org/parameters/1309,gofyn,"ask (question, inquire)"
+182-96,wels1247,http://concepticon.clld.org/parameters/1309,holi,"ask (question, inquire)"
+182-52,wels1247,http://concepticon.clld.org/parameters/1275,ateb,answer
+182-1630,wels1247,http://concepticon.clld.org/parameters/2022,cyfaddef,"admit, confess"
+182-1651,wels1247,http://concepticon.clld.org/parameters/2022,cyffesu,"admit, confess"
+182-1000,wels1247,http://concepticon.clld.org/parameters/755,gwadu,deny
+182-410,wels1247,http://concepticon.clld.org/parameters/1828,gofyn,"ask, request"
+182-541,wels1247,http://concepticon.clld.org/parameters/1675,addo,promise
+182-269,wels1247,http://concepticon.clld.org/parameters/49,gwrthod,refuse
+182-625,wels1247,http://concepticon.clld.org/parameters/49,gwarafun,refuse
+182-1627,wels1247,http://concepticon.clld.org/parameters/49,nadu,refuse
+182-5,wels1247,http://concepticon.clld.org/parameters/49,nacáu,refuse
+182-839,wels1247,http://concepticon.clld.org/parameters/49,gomedd,refuse
+182-1892,wels1247,http://concepticon.clld.org/parameters/83,gwahardd,forbid
+182-860,wels1247,http://concepticon.clld.org/parameters/299,ceryddu,"rebuke, scold"
+182-245,wels1247,http://concepticon.clld.org/parameters/299,cystwyo,"rebuke, scold"
+182-1304,wels1247,http://concepticon.clld.org/parameters/1084,galw,call (=summon)
+182-1304,wels1247,http://concepticon.clld.org/parameters/180,galw,call (=name)
+182-1011,wels1247,http://concepticon.clld.org/parameters/9,cyhoeddi,announce
+182-578,wels1247,http://concepticon.clld.org/parameters/9,datgan,announce
+182-132,wels1247,http://concepticon.clld.org/parameters/1192,bygwth,threaten
+182-820,wels1247,http://concepticon.clld.org/parameters/101,ymffrostio,boast
+182-1480,wels1247,http://concepticon.clld.org/parameters/101,brolio,boast
+182-389,wels1247,http://concepticon.clld.org/parameters/1672,ysgrifennu,write
+182-1825,wels1247,http://concepticon.clld.org/parameters/724,darllen,read
+182-1025,wels1247,http://concepticon.clld.org/parameters/648,papur,paper
+182-461,wels1247,http://concepticon.clld.org/parameters/794,pin (ysgrifennu),pen
+182-125,wels1247,http://concepticon.clld.org/parameters/963,llyfr,book
+182-1324,wels1247,http://concepticon.clld.org/parameters/1045,bardd,poet
+182-553,wels1247,http://concepticon.clld.org/parameters/1045,prydydd,poet
+182-177,wels1247,http://concepticon.clld.org/parameters/777,ffliwt,flute
+182-1041,wels1247,http://concepticon.clld.org/parameters/777,chwibanogl,flute
+182-1492,wels1247,http://concepticon.clld.org/parameters/908,drwm,drum
+182-1113,wels1247,http://concepticon.clld.org/parameters/908,tabwrdd,drum
+182-419,wels1247,http://concepticon.clld.org/parameters/2136,corn,"horn, trumpet"
+182-1091,wels1247,http://concepticon.clld.org/parameters/2136,utgorn,"horn, trumpet"
+182-1044,wels1247,http://concepticon.clld.org/parameters/300,ratl,rattle
+182-1568,wels1247,http://concepticon.clld.org/parameters/300,cleciwr,rattle
+182-149,wels1247,http://concepticon.clld.org/parameters/1300,gwlad,country
+182-1732,wels1247,http://concepticon.clld.org/parameters/89,gwlad (enedigol),one's native country
+182-1849,wels1247,http://concepticon.clld.org/parameters/1391,dinas,"city, town"
+182-1290,wels1247,http://concepticon.clld.org/parameters/1391,tref,"city, town"
+182-756,wels1247,http://concepticon.clld.org/parameters/930,pentref,village
+182-1605,wels1247,http://concepticon.clld.org/parameters/1010,terfyn,boundary
+182-318,wels1247,http://concepticon.clld.org/parameters/1010,ffin,boundary
+182-843,wels1247,http://concepticon.clld.org/parameters/789,pobl,people (populace)
+182-1199,wels1247,http://concepticon.clld.org/parameters/789,gwerin,people (populace)
+182-943,wels1247,http://concepticon.clld.org/parameters/302,llwyth,"tribe, clan"
+182-1229,wels1247,http://concepticon.clld.org/parameters/302,tylwyth,"tribe, clan"
+182-896,wels1247,http://concepticon.clld.org/parameters/302,clan,"tribe, clan"
+182-141,wels1247,http://concepticon.clld.org/parameters/301,pennaeth,"chief, chieftain"
+182-1260,wels1247,http://concepticon.clld.org/parameters/1296,ffon (gerdded),"staff, walking stick"
+182-1944,wels1247,http://concepticon.clld.org/parameters/1846,rheoli,"rule, govern"
+182-350,wels1247,http://concepticon.clld.org/parameters/1846,llywodraethu,"rule, govern"
+182-1107,wels1247,http://concepticon.clld.org/parameters/1508,brenin,"king, ruler"
+182-1441,wels1247,http://concepticon.clld.org/parameters/1508,rheolwr,"king, ruler"
+182-1775,wels1247,http://concepticon.clld.org/parameters/1508,llywodraethwr,"king, ruler"
+182-1562,wels1247,http://concepticon.clld.org/parameters/1306,brenhines,queen
+182-441,wels1247,http://concepticon.clld.org/parameters/482,pendefig,"noble, nobleman"
+182-1323,wels1247,http://concepticon.clld.org/parameters/482,uchelwr,"noble, nobleman"
+182-1040,wels1247,http://concepticon.clld.org/parameters/1032,dinesydd,"citizen, subject"
+182-589,wels1247,http://concepticon.clld.org/parameters/1032,deiliad,"citizen, subject"
+182-639,wels1247,http://concepticon.clld.org/parameters/383,meistr,master
+182-701,wels1247,http://concepticon.clld.org/parameters/383,arglwydd,master
+182-1529,wels1247,http://concepticon.clld.org/parameters/812,caethwas,slave
+182-1256,wels1247,http://concepticon.clld.org/parameters/255,gwas,servant
+182-1089,wels1247,http://concepticon.clld.org/parameters/255,gweinidog,servant
+182-723,wels1247,http://concepticon.clld.org/parameters/384,(dyn/gŵr) rhydd,freeman
+182-1935,wels1247,http://concepticon.clld.org/parameters/1128,gorchymyn,"command, order"
+182-1558,wels1247,http://concepticon.clld.org/parameters/1128,(g)ordro,"command, order"
+182-1551,wels1247,http://concepticon.clld.org/parameters/1635,ufuddhau,obey
+182-48,wels1247,http://concepticon.clld.org/parameters/1003,gadael,"let, permit"
+182-1204,wels1247,http://concepticon.clld.org/parameters/1003,caniatáu,"let, permit"
+182-1868,wels1247,http://concepticon.clld.org/parameters/1325,cyfaill,"friend, companion"
+182-1043,wels1247,http://concepticon.clld.org/parameters/1325,ffrind,"friend, companion"
+182-162,wels1247,http://concepticon.clld.org/parameters/1325,cydymaith,"friend, companion"
+182-1196,wels1247,http://concepticon.clld.org/parameters/1358,gelyn,enemy
+182-1368,wels1247,http://concepticon.clld.org/parameters/1332,cymydog,neighbor
+182-1968,wels1247,http://concepticon.clld.org/parameters/791,dieithryn,stranger
+182-670,wels1247,http://concepticon.clld.org/parameters/791,dyn dieithr,stranger
+182-1625,wels1247,http://concepticon.clld.org/parameters/791,merch/menyw/dynes ddieithr,stranger
+182-462,wels1247,http://concepticon.clld.org/parameters/1782,gwestai,guest
+182-1318,wels1247,http://concepticon.clld.org/parameters/1545,lletywr,host
+182-1582,wels1247,http://concepticon.clld.org/parameters/1545,gwesteiwr,host
+182-753,wels1247,http://concepticon.clld.org/parameters/1897,cynorthwyo,"help, aid"
+182-1083,wels1247,http://concepticon.clld.org/parameters/1897,helpu,"help, aid"
+182-1600,wels1247,http://concepticon.clld.org/parameters/1550,rhwystro,"hinder, prevent"
+182-609,wels1247,http://concepticon.clld.org/parameters/1550,atal,"hinder, prevent"
+182-1941,wels1247,http://concepticon.clld.org/parameters/1747,defod,custom
+182-18,wels1247,http://concepticon.clld.org/parameters/1747,arfer,custom
+182-1307,wels1247,http://concepticon.clld.org/parameters/1848,cynnen,"strife, quarrel"
+182-1470,wels1247,http://concepticon.clld.org/parameters/1848,ymryson,"strife, quarrel"
+182-1670,wels1247,http://concepticon.clld.org/parameters/1848,ymrafael,"strife, quarrel"
+182-640,wels1247,http://concepticon.clld.org/parameters/1848,ffrae,"strife, quarrel"
+182-240,wels1247,http://concepticon.clld.org/parameters/1848,cweryl,"strife, quarrel"
+182-948,wels1247,http://concepticon.clld.org/parameters/2024,cynllwyn,"conspiracy, plot"
+182-1082,wels1247,http://concepticon.clld.org/parameters/1831,cyfarfod,meet
+182-258,wels1247,http://concepticon.clld.org/parameters/1610,putain,prostitute
+182-1103,wels1247,http://concepticon.clld.org/parameters/1423,ymladd,fight (vb)
+182-1348,wels1247,http://concepticon.clld.org/parameters/579,rhyfel,"war, battle"
+182-1830,wels1247,http://concepticon.clld.org/parameters/579,brwydr,"war, battle"
+182-592,wels1247,http://concepticon.clld.org/parameters/579,cad,"war, battle"
+182-1302,wels1247,http://concepticon.clld.org/parameters/1338,heddwch,peace
+182-146,wels1247,http://concepticon.clld.org/parameters/1561,byddin,army
+182-495,wels1247,http://concepticon.clld.org/parameters/1561,llu,army
+182-206,wels1247,http://concepticon.clld.org/parameters/1941,milwr,soldier
+182-562,wels1247,http://concepticon.clld.org/parameters/951,arfau,"weapons, arms"
+182-330,wels1247,http://concepticon.clld.org/parameters/1763,pastwn,club
+182-817,wels1247,http://concepticon.clld.org/parameters/386,bwyell ryfel,battle-ax
+182-1504,wels1247,http://concepticon.clld.org/parameters/387,ffon dafl,sling
+182-1654,wels1247,http://concepticon.clld.org/parameters/994,bwa,bow
+182-556,wels1247,http://concepticon.clld.org/parameters/977,saeth,arrow
+182-1513,wels1247,http://concepticon.clld.org/parameters/945,gwaywffon,spear
+182-3,wels1247,http://concepticon.clld.org/parameters/945,gwayw,spear
+182-1210,wels1247,http://concepticon.clld.org/parameters/1535,cleddyf,sword
+182-845,wels1247,http://concepticon.clld.org/parameters/1566,gwn,"gun, cannon"
+182-742,wels1247,http://concepticon.clld.org/parameters/1566,gwn mawr,"gun, cannon"
+182-695,wels1247,http://concepticon.clld.org/parameters/1061,arfwisg,armor (defensive)
+182-1796,wels1247,http://concepticon.clld.org/parameters/1061,arfogaeth,armor (defensive)
+182-1308,wels1247,http://concepticon.clld.org/parameters/1680,helm(ed),helmet
+182-1969,wels1247,http://concepticon.clld.org/parameters/1064,tarian,shield
+182-1217,wels1247,http://concepticon.clld.org/parameters/1938,caer,fortress
+182-681,wels1247,http://concepticon.clld.org/parameters/1938,castell,fortress
+182-875,wels1247,http://concepticon.clld.org/parameters/1671,tŵr,tower
+182-1266,wels1247,http://concepticon.clld.org/parameters/783,buddugoliaeth,victory
+182-632,wels1247,http://concepticon.clld.org/parameters/782,gorchfygiad,defeat
+182-1516,wels1247,http://concepticon.clld.org/parameters/782,trechiad,defeat
+182-1311,wels1247,http://concepticon.clld.org/parameters/722,ymosod (ar),attack
+182-156,wels1247,http://concepticon.clld.org/parameters/1330,amddiffyn,defend
+182-1049,wels1247,http://concepticon.clld.org/parameters/421,cilio,retreat
+182-1777,wels1247,http://concepticon.clld.org/parameters/421,encilio,retreat
+182-167,wels1247,http://concepticon.clld.org/parameters/1696,ildio,surrender
+182-1678,wels1247,http://concepticon.clld.org/parameters/1696,rhoddi i fyny,surrender
+182-1640,wels1247,http://concepticon.clld.org/parameters/1696,rhoi'r gorau,surrender
+182-1783,wels1247,http://concepticon.clld.org/parameters/1072,carcharor,"captive, prisoner"
+182-673,wels1247,http://concepticon.clld.org/parameters/1940,gwarchodwr,"guard, sentinel"
+182-1780,wels1247,http://concepticon.clld.org/parameters/1940,gwyliwr,"guard, sentinel"
+182-1341,wels1247,http://concepticon.clld.org/parameters/1022,ysglyfaeth,"booty, spoils"
+182-1250,wels1247,http://concepticon.clld.org/parameters/1022,ysbail,"booty, spoils"
+182-948,wels1247,http://concepticon.clld.org/parameters/65,cynllwyn,ambush
+182-1538,wels1247,http://concepticon.clld.org/parameters/1858,pysgotwr,fisherman
+182-519,wels1247,http://concepticon.clld.org/parameters/1074,bach(yn) pysgota,fishhook
+182-684,wels1247,http://concepticon.clld.org/parameters/19,lein bysgota,fishing line
+182-864,wels1247,http://concepticon.clld.org/parameters/19,llinyn pysgota,fishing line
+182-954,wels1247,http://concepticon.clld.org/parameters/388,rhwyd bysgota,fishnet
+182-638,wels1247,http://concepticon.clld.org/parameters/389,magl bysgod,fish trap
+182-456,wels1247,http://concepticon.clld.org/parameters/2013,abwyd,bait
+182-777,wels1247,http://concepticon.clld.org/parameters/1435,hela,hunt
+182-68,wels1247,http://concepticon.clld.org/parameters/1172,saethu,shoot
+182-994,wels1247,http://concepticon.clld.org/parameters/161,methu('r nod),miss (target)
+182-814,wels1247,http://concepticon.clld.org/parameters/1075,magl,trap (noun)
+182-1635,wels1247,http://concepticon.clld.org/parameters/1075,trap,trap (noun)
+182-475,wels1247,http://concepticon.clld.org/parameters/1170,maglu,trap (vb)
+182-1621,wels1247,http://concepticon.clld.org/parameters/1170,dal,trap (vb)
+182-1734,wels1247,http://concepticon.clld.org/parameters/1170,trapio,trap (vb)
+182-1138,wels1247,http://concepticon.clld.org/parameters/1062,cyfraith,law
+182-1923,wels1247,http://concepticon.clld.org/parameters/1062,deddf,law
+182-1617,wels1247,http://concepticon.clld.org/parameters/1068,llys,court
+182-1660,wels1247,http://concepticon.clld.org/parameters/1818,barnu,judge (vb)
+182-1291,wels1247,http://concepticon.clld.org/parameters/1067,barn,judgment
+182-416,wels1247,http://concepticon.clld.org/parameters/1067,brawd,judgment
+182-1728,wels1247,http://concepticon.clld.org/parameters/861,barnwr,judge (noun)
+182-746,wels1247,http://concepticon.clld.org/parameters/861,brawdwr,judge (noun)
+182-1730,wels1247,http://concepticon.clld.org/parameters/2020,achwynydd,plaintiff
+182-228,wels1247,http://concepticon.clld.org/parameters/1034,diffynnydd,defendant
+182-1661,wels1247,http://concepticon.clld.org/parameters/1144,tyst,witness
+182-1657,wels1247,http://concepticon.clld.org/parameters/1939,tyngu,swear
+182-493,wels1247,http://concepticon.clld.org/parameters/1712,llw,oath
+182-1685,wels1247,http://concepticon.clld.org/parameters/1814,cyhuddo,accuse
+182-641,wels1247,http://concepticon.clld.org/parameters/484,condemnio,condemn
+182-847,wels1247,http://concepticon.clld.org/parameters/983,barnu/dyfarnu yn euog,convict (vb)
+182-1072,wels1247,http://concepticon.clld.org/parameters/983,euogfarnu,convict (vb)
+182-1235,wels1247,http://concepticon.clld.org/parameters/983,euogbrofi,convict (vb)
+182-812,wels1247,http://concepticon.clld.org/parameters/988,dieuogi,acquit
+182-763,wels1247,http://concepticon.clld.org/parameters/988,rhyddfarnu,acquit
+182-1514,wels1247,http://concepticon.clld.org/parameters/1682,euog,guilty
+182-23,wels1247,http://concepticon.clld.org/parameters/90,dieuog,innocent
+182-1362,wels1247,http://concepticon.clld.org/parameters/90,diniwed,innocent
+182-527,wels1247,http://concepticon.clld.org/parameters/390,cosb,"penalty, punishment"
+182-1803,wels1247,http://concepticon.clld.org/parameters/390,poen,"penalty, punishment"
+182-576,wels1247,http://concepticon.clld.org/parameters/218,dirwy,fine
+182-479,wels1247,http://concepticon.clld.org/parameters/1281,carchar,"prison, jail"
+182-1002,wels1247,http://concepticon.clld.org/parameters/845,llofruddiaeth,murder
+182-890,wels1247,http://concepticon.clld.org/parameters/902,godineb,adultery
+182-1549,wels1247,http://concepticon.clld.org/parameters/953,trais,rape
+182-250,wels1247,http://concepticon.clld.org/parameters/1889,llosgi (bwriadol),arson
+182-423,wels1247,http://concepticon.clld.org/parameters/1792,anudon,perjury
+182-403,wels1247,http://concepticon.clld.org/parameters/713,dwyn,steal
+182-1130,wels1247,http://concepticon.clld.org/parameters/713,lladrata,steal
+182-1899,wels1247,http://concepticon.clld.org/parameters/1160,lleidr,thief
+182-481,wels1247,http://concepticon.clld.org/parameters/661,crefydd,religion
+182-197,wels1247,http://concepticon.clld.org/parameters/1944,Duw,God
+182-1942,wels1247,http://concepticon.clld.org/parameters/911,teml,"temple, church"
+182-1028,wels1247,http://concepticon.clld.org/parameters/911,eglwys,"temple, church"
+182-1932,wels1247,http://concepticon.clld.org/parameters/853,allor,altar
+182-325,wels1247,http://concepticon.clld.org/parameters/1103,aberth,"sacrifice, offering"
+182-241,wels1247,http://concepticon.clld.org/parameters/1103,offrwm,"sacrifice, offering"
+182-1881,wels1247,http://concepticon.clld.org/parameters/257,addoli,worship
+182-1519,wels1247,http://concepticon.clld.org/parameters/24,gweddïo,pray
+182-284,wels1247,http://concepticon.clld.org/parameters/852,offeiriad,priest
+182-1879,wels1247,http://concepticon.clld.org/parameters/1702,sanctaidd,"holy, sacred"
+182-78,wels1247,http://concepticon.clld.org/parameters/304,pregethu,preach
+182-7,wels1247,http://concepticon.clld.org/parameters/391,bendithio,bless
+182-939,wels1247,http://concepticon.clld.org/parameters/8,melltithio,curse
+182-1765,wels1247,http://concepticon.clld.org/parameters/303,ymprydio,fast (vb)
+182-432,wels1247,http://concepticon.clld.org/parameters/1565,nef(oedd),heaven
+182-1170,wels1247,http://concepticon.clld.org/parameters/878,uffern,hell
+182-34,wels1247,http://concepticon.clld.org/parameters/1973,cythraul,demon (evil spirit)
+182-525,wels1247,http://concepticon.clld.org/parameters/1973,diafol,demon (evil spirit)
+182-1486,wels1247,http://concepticon.clld.org/parameters/1973,diawl,demon (evil spirit)
+182-748,wels1247,http://concepticon.clld.org/parameters/1945,eilun,idol
+182-225,wels1247,http://concepticon.clld.org/parameters/392,hud,"magic, witchcraft, sorcery"
+182-726,wels1247,http://concepticon.clld.org/parameters/392,dewiniaeth,"magic, witchcraft, sorcery"
+182-100,wels1247,http://concepticon.clld.org/parameters/392,swyngyfaredd,"magic, witchcraft, sorcery"
+182-1445,wels1247,http://concepticon.clld.org/parameters/2137,dewin(es),"sorcerer, witch"
+182-383,wels1247,http://concepticon.clld.org/parameters/2137,swynwr(aig),"sorcerer, witch"
+182-1095,wels1247,http://concepticon.clld.org/parameters/2137,gwrach,"sorcerer, witch"
+182-300,wels1247,http://concepticon.clld.org/parameters/2138,tylwyth teg,"fairy, elf"
+182-210,wels1247,http://concepticon.clld.org/parameters/2138,coblyn,"fairy, elf"
+182-1586,wels1247,http://concepticon.clld.org/parameters/1175,ysbryd,"ghost, phantom"
+182-551,wels1247,http://concepticon.clld.org/parameters/1175,bwgan,"ghost, phantom"
+182-1261,wels1247,http://concepticon.clld.org/parameters/1175,drychiolaeth,"ghost, phantom"
+182-104,wels1247,http://concepticon.clld.org/parameters/107,argoel,"omen, portent"
+182-1652,wels1247,http://concepticon.clld.org/parameters/107,coel,"omen, portent"
+182-596,wels1247,http://concepticon.clld.org/parameters/107,rhagarwydd,"omen, portent"

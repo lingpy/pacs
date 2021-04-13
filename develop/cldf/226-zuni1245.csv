@@ -1,0 +1,982 @@
+ID,Language_ID,Feature_ID,Value,Concept
+226-67,zuni1245,http://concepticon.clld.org/parameters/965,ʔawiteli-,world
+226-731,zuni1245,http://concepticon.clld.org/parameters/626,te-yala,"earth, land"
+226-471,zuni1245,http://concepticon.clld.org/parameters/1228,ʔaweɬi-,"earth=ground, soil"
+226-411,zuni1245,http://concepticon.clld.org/parameters/1228,ʔawekli-,"earth=ground, soil"
+226-788,zuni1245,http://concepticon.clld.org/parameters/2,so-,dust
+226-468,zuni1245,http://concepticon.clld.org/parameters/640,heli-,mud
+226-788,zuni1245,http://concepticon.clld.org/parameters/671,so-,sand
+226-545,zuni1245,http://concepticon.clld.org/parameters/2118,yala-,"mountain, hill"
+226-85,zuni1245,http://concepticon.clld.org/parameters/2118,kuʔtele-,"mountain, hill"
+226-580,zuni1245,http://concepticon.clld.org/parameters/618,teleči,"cliff, precipice"
+226-214,zuni1245,http://concepticon.clld.org/parameters/652,te-yačči-na-,"plain, field"
+226-384,zuni1245,http://concepticon.clld.org/parameters/948,kˀʸa-,water
+226-855,zuni1245,http://concepticon.clld.org/parameters/1474,kˀʸātuɬ ʔullapna,sea
+226-128,zuni1245,http://concepticon.clld.org/parameters/1768,ʔummo-,foam
+226-855,zuni1245,http://concepticon.clld.org/parameters/645,kˀʸātuɬ ʔullapna,ocean
+226-871,zuni1245,http://concepticon.clld.org/parameters/624,kˀʸa-na-,lake
+226-312,zuni1245,http://concepticon.clld.org/parameters/666,kˀʸawina-,"river, stream, brook"
+226-177,zuni1245,http://concepticon.clld.org/parameters/2144,kˀʸa-na-kʷayi-na-,"spring, well"
+226-28,zuni1245,http://concepticon.clld.org/parameters/420,ta-na-yā-we,"woods, forest"
+226-154,zuni1245,http://concepticon.clld.org/parameters/906,ta-tta-,tree (cf 08.600)
+226-205,zuni1245,http://concepticon.clld.org/parameters/1803,ta-,wood
+226-217,zuni1245,http://concepticon.clld.org/parameters/2125,ʔa-,"stone, rock"
+226-269,zuni1245,http://concepticon.clld.org/parameters/6,ʔanukʷayi,earthquake
+226-593,zuni1245,http://concepticon.clld.org/parameters/1732,ʔaʔ-poʔya-,sky
+226-172,zuni1245,http://concepticon.clld.org/parameters/1343,yato-kkʸa,sun
+226-242,zuni1245,http://concepticon.clld.org/parameters/1313,ya-ʔona-kkʸa,moon
+226-706,zuni1245,http://concepticon.clld.org/parameters/1430,moʔ-yaču-,star
+226-428,zuni1245,http://concepticon.clld.org/parameters/1654,wilo-,lightning
+226-122,zuni1245,http://concepticon.clld.org/parameters/1150,towowo-,thunder
+226-453,zuni1245,http://concepticon.clld.org/parameters/630,ʔakli-,light (noun)
+226-347,zuni1245,http://concepticon.clld.org/parameters/11,te-kˀʷi-,darkness
+226-535,zuni1245,http://concepticon.clld.org/parameters/1388,te-ɬuʔwa-,"shade, shadow"
+226-267,zuni1245,http://concepticon.clld.org/parameters/960,pinna-,wind
+226-805,zuni1245,http://concepticon.clld.org/parameters/1489,lo-,cloud
+226-149,zuni1245,http://concepticon.clld.org/parameters/249,šipololo-,fog
+226-58,zuni1245,http://concepticon.clld.org/parameters/658,ɬito-,rain (noun)
+226-499,zuni1245,http://concepticon.clld.org/parameters/784,ʔu-,snow (noun)
+226-283,zuni1245,http://concepticon.clld.org/parameters/617,ɬe-m-kˀʸa-ya-,ice
+226-331,zuni1245,http://concepticon.clld.org/parameters/952,tewuc̷oʔya-,weather
+226-453,zuni1245,http://concepticon.clld.org/parameters/221,ʔakli-,fire
+226-839,zuni1245,http://concepticon.clld.org/parameters/889,hapiya-,flame (noun)
+226-324,zuni1245,http://concepticon.clld.org/parameters/778,ɬikˀʸaya-,smoke (noun)
+226-536,zuni1245,http://concepticon.clld.org/parameters/646,lu-,ashes
+226-794,zuni1245,http://concepticon.clld.org/parameters/67,makʸēwe,embers
+226-797,zuni1245,http://concepticon.clld.org/parameters/141,čapi-kˀʸa-,burn (vb trans)
+226-99,zuni1245,http://concepticon.clld.org/parameters/1428,čapi-,burn (vb intrans)
+226-430,zuni1245,http://concepticon.clld.org/parameters/737,makču-,"light, kindle, ignite"
+226-282,zuni1245,http://concepticon.clld.org/parameters/1133,ɬečči-,match (noun)
+226-205,zuni1245,http://concepticon.clld.org/parameters/10,ta-,firewood
+226-567,zuni1245,http://concepticon.clld.org/parameters/1188,nokʸe,charcoal
+226-667,zuni1245,http://concepticon.clld.org/parameters/683,-hoʔʔi,"person, human being"
+226-70,zuni1245,http://concepticon.clld.org/parameters/1554,ɬaššikˀʸi,man (vs. woman)
+226-524,zuni1245,http://concepticon.clld.org/parameters/962,makkˀʸi,woman
+226-388,zuni1245,http://concepticon.clld.org/parameters/2263,ʔoc̷c̷iʔ,male
+226-169,zuni1245,http://concepticon.clld.org/parameters/2260,ʔokʸa,female
+226-303,zuni1245,http://concepticon.clld.org/parameters/1366,ʔakc̷ekˀʸi,boy
+226-142,zuni1245,http://concepticon.clld.org/parameters/76,c̷awakˀʸi,young man (adolescent)
+226-206,zuni1245,http://concepticon.clld.org/parameters/1646,kʸac̷ikˀʸi,girl
+226-102,zuni1245,http://concepticon.clld.org/parameters/77,ʔe-,young woman (adolescent)
+226-72,zuni1245,http://concepticon.clld.org/parameters/77,ʔeʔlaštoˀʸi,young woman (adolescent)
+226-118,zuni1245,http://concepticon.clld.org/parameters/1304,ča-,child
+226-655,zuni1245,http://concepticon.clld.org/parameters/1289,wih-,"infant, baby"
+226-463,zuni1245,http://concepticon.clld.org/parameters/1200,ʔoyemši,husband
+226-473,zuni1245,http://concepticon.clld.org/parameters/1199,?ōye,wife
+226-769,zuni1245,http://concepticon.clld.org/parameters/1217,-tačču,father
+226-252,zuni1245,http://concepticon.clld.org/parameters/1216,-c̷itta,mother
+226-498,zuni1245,http://concepticon.clld.org/parameters/505,ʔāɬaššīnāwe,parents
+226-848,zuni1245,http://concepticon.clld.org/parameters/1759,papa,older brother
+226-502,zuni1245,http://concepticon.clld.org/parameters/1760,suwe,younger brother
+226-418,zuni1245,http://concepticon.clld.org/parameters/1760,hanni,younger brother
+226-5,zuni1245,http://concepticon.clld.org/parameters/1758,kʸawu,older sister
+226-418,zuni1245,http://concepticon.clld.org/parameters/1761,hanni,younger sister
+226-310,zuni1245,http://concepticon.clld.org/parameters/1761,ʔikʸina,younger sister
+226-74,zuni1245,http://concepticon.clld.org/parameters/1383,nana,grandfather
+226-70,zuni1245,http://concepticon.clld.org/parameters/406,ɬaššikˀʸi,old man
+226-144,zuni1245,http://concepticon.clld.org/parameters/1496,hotta,grandmother
+226-255,zuni1245,http://concepticon.clld.org/parameters/1496,wowo,grandmother
+226-481,zuni1245,http://concepticon.clld.org/parameters/907,ʔokʸac̷c̷ikˀʸi,old woman
+226-74,zuni1245,http://concepticon.clld.org/parameters/1618,nana,grandson
+226-255,zuni1245,http://concepticon.clld.org/parameters/1619,wowo,granddaughter
+226-144,zuni1245,http://concepticon.clld.org/parameters/1619,hotta,granddaughter
+226-354,zuni1245,http://concepticon.clld.org/parameters/1984,kʸakʸa,mother's brother
+226-769,zuni1245,http://concepticon.clld.org/parameters/1985,-tačču,father's brother
+226-449,zuni1245,http://concepticon.clld.org/parameters/1985,-tačču c̷ʔana,father's brother
+226-477,zuni1245,http://concepticon.clld.org/parameters/1985,-tačču ɬašši,father's brother
+226-252,zuni1245,http://concepticon.clld.org/parameters/171,-c̷itta,mother's sister
+226-543,zuni1245,http://concepticon.clld.org/parameters/171,c̷itta c̷ʔana,mother's sister
+226-84,zuni1245,http://concepticon.clld.org/parameters/171,-c̷itta ɬašši,mother's sister
+226-597,zuni1245,http://concepticon.clld.org/parameters/170,kuku,father's sister
+226-118,zuni1245,http://concepticon.clld.org/parameters/1063,ča-,nephew
+226-211,zuni1245,http://concepticon.clld.org/parameters/1063,tale,nephew
+226-168,zuni1245,http://concepticon.clld.org/parameters/1063,kˀʸasse,nephew
+226-118,zuni1245,http://concepticon.clld.org/parameters/1642,ča-,niece
+226-315,zuni1245,http://concepticon.clld.org/parameters/1642,ʔeyye,niece
+226-168,zuni1245,http://concepticon.clld.org/parameters/1642,kˀʸasse,niece
+226-727,zuni1245,http://concepticon.clld.org/parameters/1669,ʔāɬaššināwe,ancestors
+226-376,zuni1245,http://concepticon.clld.org/parameters/2267,tālakˀʸi,son-in-law (of a man)
+226-106,zuni1245,http://concepticon.clld.org/parameters/2266,tā̈lakˀʸi,son-in-law (of a woman)
+226-429,zuni1245,http://concepticon.clld.org/parameters/2265,ʔulani,daughter-in-law (of a man)
+226-429,zuni1245,http://concepticon.clld.org/parameters/2264,ʔulani,daughter-in-law (of a woman)
+226-306,zuni1245,http://concepticon.clld.org/parameters/236,ʔiniha,stepmother
+226-208,zuni1245,http://concepticon.clld.org/parameters/1756,hammiši,widow
+226-208,zuni1245,http://concepticon.clld.org/parameters/1981,hammiši,widower
+226-316,zuni1245,http://concepticon.clld.org/parameters/1644,ʔīyanikʸina-,"relatives, kinsmen"
+226-417,zuni1245,http://concepticon.clld.org/parameters/1209,hoʔ,I
+226-200,zuni1245,http://concepticon.clld.org/parameters/1215,toʔ,you (singular)
+226-589,zuni1245,http://concepticon.clld.org/parameters/262,∅,he/she/it
+226-247,zuni1245,http://concepticon.clld.org/parameters/1212,hoʔno,we
+226-183,zuni1245,http://concepticon.clld.org/parameters/1212,hon,we
+226-340,zuni1245,http://concepticon.clld.org/parameters/1213,ton,you (plural)
+226-363,zuni1245,http://concepticon.clld.org/parameters/817,ʔāči,they
+226-589,zuni1245,http://concepticon.clld.org/parameters/817,∅,they
+226-529,zuni1245,http://concepticon.clld.org/parameters/619,wo-,animal
+226-866,zuni1245,http://concepticon.clld.org/parameters/619,na-,animal
+226-822,zuni1245,http://concepticon.clld.org/parameters/619,wem-,animal
+226-664,zuni1245,http://concepticon.clld.org/parameters/2261,ʔoc̷c̷i,male (adj)
+226-169,zuni1245,http://concepticon.clld.org/parameters/2262,ʔokʸa,female (adj)
+226-529,zuni1245,http://concepticon.clld.org/parameters/631,wo-,livestock
+226-615,zuni1245,http://concepticon.clld.org/parameters/263,wowillīkʷe,herdsman
+226-489,zuni1245,http://concepticon.clld.org/parameters/1153,wākʸaši,cattle (bovine)
+226-433,zuni1245,http://concepticon.clld.org/parameters/1008,wamohap-,bull
+226-322,zuni1245,http://concepticon.clld.org/parameters/1989,wamc̷ʔana,calf
+226-276,zuni1245,http://concepticon.clld.org/parameters/1331,kʸanēlu,sheep
+226-776,zuni1245,http://concepticon.clld.org/parameters/1344,mohākʷe,ram
+226-162,zuni1245,http://concepticon.clld.org/parameters/1344,kʸanēl ʔoc̷c̷i,ram
+226-13,zuni1245,http://concepticon.clld.org/parameters/1345,kʸanēl ʔokʸa,ewe
+226-804,zuni1245,http://concepticon.clld.org/parameters/820,čaʔc̷ʔana,lamb
+226-723,zuni1245,http://concepticon.clld.org/parameters/1337,pic̷ūti,pig
+226-56,zuni1245,http://concepticon.clld.org/parameters/1502,čiwātu,goat
+226-765,zuni1245,http://concepticon.clld.org/parameters/264,čiwāt mohhoppa,he-goat
+226-257,zuni1245,http://concepticon.clld.org/parameters/1972,čimc̷ʔana,kid
+226-826,zuni1245,http://concepticon.clld.org/parameters/615,tūši,horse (equine)
+226-9,zuni1245,http://concepticon.clld.org/parameters/938,yēwa,mare
+226-734,zuni1245,http://concepticon.clld.org/parameters/1647,tumc̷ʔana,"foal, colt"
+226-726,zuni1245,http://concepticon.clld.org/parameters/1862,mešokˀo,"ass, donkey"
+226-127,zuni1245,http://concepticon.clld.org/parameters/890,mūla,mule
+226-434,zuni1245,http://concepticon.clld.org/parameters/1318,tokōko,chicken
+226-116,zuni1245,http://concepticon.clld.org/parameters/1187,ʔowa,goose
+226-317,zuni1245,http://concepticon.clld.org/parameters/1360,ʔeya,duck
+226-280,zuni1245,http://concepticon.clld.org/parameters/937,woʔc̷ˀana,bird
+226-860,zuni1245,http://concepticon.clld.org/parameters/1905,kˀʸakˀʸali,eagle
+226-461,zuni1245,http://concepticon.clld.org/parameters/1185,šuʔc̷ˀina,vulture
+226-743,zuni1245,http://concepticon.clld.org/parameters/1793,ʔešoc̷i,bat
+226-93,zuni1245,http://concepticon.clld.org/parameters/882,mula,parrot
+226-656,zuni1245,http://concepticon.clld.org/parameters/913,kˀʷalaši,crow
+226-512,zuni1245,http://concepticon.clld.org/parameters/1853,nīšapakˀo,dove
+226-54,zuni1245,http://concepticon.clld.org/parameters/735,muhukʷi,owl
+226-741,zuni1245,http://concepticon.clld.org/parameters/2009,wac̷c̷ita,dog
+226-467,zuni1245,http://concepticon.clld.org/parameters/1136,pokˀʸa,rabbit
+226-55,zuni1245,http://concepticon.clld.org/parameters/1136,ʔokšikˀo,rabbit
+226-185,zuni1245,http://concepticon.clld.org/parameters/1208,mūsa,cat
+226-366,zuni1245,http://concepticon.clld.org/parameters/2139,c̷ˀokɬikˀo,"mouse, rat"
+226-457,zuni1245,http://concepticon.clld.org/parameters/227,kˀʸaššita,fish
+226-111,zuni1245,http://concepticon.clld.org/parameters/522,yunāwikˀo,wolf
+226-113,zuni1245,http://concepticon.clld.org/parameters/1386,hokti taša,lion
+226-393,zuni1245,http://concepticon.clld.org/parameters/1820,ʔanše,bear
+226-456,zuni1245,http://concepticon.clld.org/parameters/1312,ɬanako,fox
+226-859,zuni1245,http://concepticon.clld.org/parameters/1350,monkʸi,monkey
+226-47,zuni1245,http://concepticon.clld.org/parameters/1871,kʸamelākʷe,camel
+226-364,zuni1245,http://concepticon.clld.org/parameters/620,nom-,insect
+226-57,zuni1245,http://concepticon.clld.org/parameters/310,me-,louse
+226-57,zuni1245,http://concepticon.clld.org/parameters/232,me-,flea
+226-751,zuni1245,http://concepticon.clld.org/parameters/1974,šola,centipede
+226-751,zuni1245,http://concepticon.clld.org/parameters/1538,šola,scorpion
+226-259,zuni1245,http://concepticon.clld.org/parameters/587,halo,ant
+226-360,zuni1245,http://concepticon.clld.org/parameters/587,hūpiskʸa,ant
+226-412,zuni1245,http://concepticon.clld.org/parameters/843,tohsito,spider
+226-60,zuni1245,http://concepticon.clld.org/parameters/665,ʔohhāpa,bee
+226-60,zuni1245,http://concepticon.clld.org/parameters/1517,ʔohhāpa,wasp
+226-617,zuni1245,http://concepticon.clld.org/parameters/1504,šonnaɬikˀo,fly
+226-813,zuni1245,http://concepticon.clld.org/parameters/1509,ʔoʔto taša,mosquito
+226-141,zuni1245,http://concepticon.clld.org/parameters/1219,wi-,worm
+226-870,zuni1245,http://concepticon.clld.org/parameters/730,ʔayasoʔa,snake
+226-515,zuni1245,http://concepticon.clld.org/parameters/1791,pūla,butterfly
+226-490,zuni1245,http://concepticon.clld.org/parameters/607,čappa,grasshopper
+226-265,zuni1245,http://concepticon.clld.org/parameters/503,takkʸa,frog
+226-69,zuni1245,http://concepticon.clld.org/parameters/632,mišo,lizard
+226-23,zuni1245,http://concepticon.clld.org/parameters/1857,čittol ʔasipa,"crocodile, alligator"
+226-224,zuni1245,http://concepticon.clld.org/parameters/112,ʔetōwa,turtle
+226-753,zuni1245,http://concepticon.clld.org/parameters/1480,ɬuni-,body
+226-711,zuni1245,http://concepticon.clld.org/parameters/763,kʸemc̷ˀikʷa-,"skin, hide"
+226-582,zuni1245,http://concepticon.clld.org/parameters/2259,ši-,flesh
+226-590,zuni1245,http://concepticon.clld.org/parameters/1040,taya-,hair (head)
+226-458,zuni1245,http://concepticon.clld.org/parameters/678,c̷iponi-,beard
+226-835,zuni1245,http://concepticon.clld.org/parameters/189,c̷i-,body hair
+226-212,zuni1245,http://concepticon.clld.org/parameters/36,c̷iya-,pubic hair
+226-800,zuni1245,http://concepticon.clld.org/parameters/576,kʸeɬaya-,dandruff
+226-402,zuni1245,http://concepticon.clld.org/parameters/946,ʔate,blood
+226-605,zuni1245,http://concepticon.clld.org/parameters/525,kˀopalo-,"vein, artery"
+226-400,zuni1245,http://concepticon.clld.org/parameters/1394,sa-,bone
+226-451,zuni1245,http://concepticon.clld.org/parameters/801,šotto-,rib
+226-237,zuni1245,http://concepticon.clld.org/parameters/1393,saya-,horn
+226-526,zuni1245,http://concepticon.clld.org/parameters/1220,hokti-,tail
+226-344,zuni1245,http://concepticon.clld.org/parameters/1291,massi-,back
+226-356,zuni1245,http://concepticon.clld.org/parameters/805,sappokʸaɬa-,spine
+226-691,zuni1245,http://concepticon.clld.org/parameters/1256,ʔošokʷi-,head
+226-799,zuni1245,http://concepticon.clld.org/parameters/1604,šontela-,"side of head, temple"
+226-10,zuni1245,http://concepticon.clld.org/parameters/1583,ʔoh-,brain
+226-548,zuni1245,http://concepticon.clld.org/parameters/1560,noponni-,face
+226-101,zuni1245,http://concepticon.clld.org/parameters/123,hakʸi,forehead
+226-396,zuni1245,http://concepticon.clld.org/parameters/798,ɬeweči-,jaw
+226-812,zuni1245,http://concepticon.clld.org/parameters/1730,poheči-,cheek
+226-396,zuni1245,http://concepticon.clld.org/parameters/1510,ɬeweči-,chin
+226-561,zuni1245,http://concepticon.clld.org/parameters/1248,tuna-,eye
+226-817,zuni1245,http://concepticon.clld.org/parameters/1173,samyalanne,eyebrow
+226-190,zuni1245,http://concepticon.clld.org/parameters/17,tunakʸempoʔya-,eyelid
+226-573,zuni1245,http://concepticon.clld.org/parameters/1540,c̷ipčiyali-,eyelash
+226-592,zuni1245,http://concepticon.clld.org/parameters/1247,lašokti-,ear
+226-847,zuni1245,http://concepticon.clld.org/parameters/32,kʸēpōwe,earwax
+226-405,zuni1245,http://concepticon.clld.org/parameters/1221,noʔli-,nose
+226-571,zuni1245,http://concepticon.clld.org/parameters/1178,noʔaʔa-,nostril
+226-687,zuni1245,http://concepticon.clld.org/parameters/208,mačitōwe,mucus (nasal)
+226-426,zuni1245,http://concepticon.clld.org/parameters/208,sinokʷīwe,mucus (nasal)
+226-279,zuni1245,http://concepticon.clld.org/parameters/674,ʔawati-,mouth
+226-559,zuni1245,http://concepticon.clld.org/parameters/478,ʔišši-,lip
+226-91,zuni1245,http://concepticon.clld.org/parameters/1205,honni-,tongue
+226-333,zuni1245,http://concepticon.clld.org/parameters/1380,ʔoʔna-,tooth
+226-379,zuni1245,http://concepticon.clld.org/parameters/139,šiwuɬta-,gums
+226-747,zuni1245,http://concepticon.clld.org/parameters/1333,kˀʸisi-,neck
+226-704,zuni1245,http://concepticon.clld.org/parameters/1347,takˀʸiʔmowa-,nape of neck
+226-747,zuni1245,http://concepticon.clld.org/parameters/1346,kˀʸisi-,throat
+226-248,zuni1245,http://concepticon.clld.org/parameters/1482,čuti-,shoulder
+226-823,zuni1245,http://concepticon.clld.org/parameters/172,čutin sampočči-,shoulderblade
+226-773,zuni1245,http://concepticon.clld.org/parameters/1994,pomtaku-,collarbone
+226-803,zuni1245,http://concepticon.clld.org/parameters/1673,ʔasi-,arm
+226-717,zuni1245,http://concepticon.clld.org/parameters/1886,nolokti-,armpit
+226-832,zuni1245,http://concepticon.clld.org/parameters/981,mokči-,elbow
+226-335,zuni1245,http://concepticon.clld.org/parameters/799,ʔasi c̷ʔana-,wrist
+226-803,zuni1245,http://concepticon.clld.org/parameters/1277,ʔasi-,hand
+226-851,zuni1245,http://concepticon.clld.org/parameters/1183,ʔasi tešokta-,palm of hand
+226-359,zuni1245,http://concepticon.clld.org/parameters/1303,ʔasi piɬto-,finger
+226-441,zuni1245,http://concepticon.clld.org/parameters/1781,ʔasi ɬanakkʸa,thumb
+226-612,zuni1245,http://concepticon.clld.org/parameters/1258,šonči-,fingernail
+226-612,zuni1245,http://concepticon.clld.org/parameters/72,šonči-,claw
+226-750,zuni1245,http://concepticon.clld.org/parameters/1297,sakʷi-,leg
+226-392,zuni1245,http://concepticon.clld.org/parameters/800,ʔoyyi-,thigh
+226-123,zuni1245,http://concepticon.clld.org/parameters/498,šiʔpiya-,calf of leg
+226-165,zuni1245,http://concepticon.clld.org/parameters/1371,ʔošši-,knee
+226-621,zuni1245,http://concepticon.clld.org/parameters/1301,wekʷi-,foot
+226-189,zuni1245,http://concepticon.clld.org/parameters/803,moʔɬeyakkʷi-,ankle
+226-850,zuni1245,http://concepticon.clld.org/parameters/980,ʔekˀossi-,heel
+226-349,zuni1245,http://concepticon.clld.org/parameters/318,teʔana-,footprint
+226-867,zuni1245,http://concepticon.clld.org/parameters/1389,tukni-,toe
+226-302,zuni1245,http://concepticon.clld.org/parameters/1257,ʔepisse-,wing
+226-294,zuni1245,http://concepticon.clld.org/parameters/1257,lata-,wing
+226-163,zuni1245,http://concepticon.clld.org/parameters/1201,la-,feather
+226-385,zuni1245,http://concepticon.clld.org/parameters/1592,poʔhata-,chest
+226-483,zuni1245,http://concepticon.clld.org/parameters/1402,mehana-,breast (of woman)
+226-137,zuni1245,http://concepticon.clld.org/parameters/796,suʔto-,"nipple, teat"
+226-444,zuni1245,http://concepticon.clld.org/parameters/154,kʷikˀʸa-,udder
+226-358,zuni1245,http://concepticon.clld.org/parameters/1838,šāmuluʔkʷi-,navel
+226-232,zuni1245,http://concepticon.clld.org/parameters/1223,ʔikˀʸēna-,heart
+226-223,zuni1245,http://concepticon.clld.org/parameters/688,yupšali-,lung
+226-203,zuni1245,http://concepticon.clld.org/parameters/1224,hakkʷali-,liver
+226-686,zuni1245,http://concepticon.clld.org/parameters/489,moʔpewi-,kidney
+226-63,zuni1245,http://concepticon.clld.org/parameters/1744,pali-,spleen
+226-720,zuni1245,http://concepticon.clld.org/parameters/819,c̷u-,stomach
+226-698,zuni1245,http://concepticon.clld.org/parameters/1991,kˀo-,"intestines, guts"
+226-628,zuni1245,http://concepticon.clld.org/parameters/1681,ʔikkʷiʔkowa,waist
+226-415,zuni1245,http://concepticon.clld.org/parameters/1745,siti-,hip
+226-574,zuni1245,http://concepticon.clld.org/parameters/834,puʔc̷i-,buttocks
+226-716,zuni1245,http://concepticon.clld.org/parameters/797,mohāwe,testicle
+226-318,zuni1245,http://concepticon.clld.org/parameters/1222,tuʔli-,penis
+226-682,zuni1245,http://concepticon.clld.org/parameters/1407,yanhaku-,"breathe, breath"
+226-267,zuni1245,http://concepticon.clld.org/parameters/1407,pinna-,"breathe, breath"
+226-87,zuni1245,http://concepticon.clld.org/parameters/1028,hawawa-,"yawn, gape"
+226-87,zuni1245,http://concepticon.clld.org/parameters/1028,hawawa-,"yawn, gape"
+226-68,zuni1245,http://concepticon.clld.org/parameters/162,sukˀu-,hiccough
+226-24,zuni1245,http://concepticon.clld.org/parameters/879,ʔoho-,cough
+226-443,zuni1245,http://concepticon.clld.org/parameters/1621,hac̷ˀic̷ˀi-,sneeze
+226-15,zuni1245,http://concepticon.clld.org/parameters/126,hakʸiɬi-,perspire
+226-768,zuni1245,http://concepticon.clld.org/parameters/1440,čukkˀoti-,spit
+226-806,zuni1245,http://concepticon.clld.org/parameters/1440,pikˀʸa-,spit
+226-610,zuni1245,http://concepticon.clld.org/parameters/1278,yakˀōwe,vomit
+226-872,zuni1245,http://concepticon.clld.org/parameters/1278,yakˀo-,vomit
+226-136,zuni1245,http://concepticon.clld.org/parameters/1403,ʔutte-,bite
+226-410,zuni1245,http://concepticon.clld.org/parameters/319,c̷ʔupɬi-,lick
+226-703,zuni1245,http://concepticon.clld.org/parameters/268,kˀʸašošo-,dribble
+226-66,zuni1245,http://concepticon.clld.org/parameters/1585,ʔala-,sleep
+226-564,zuni1245,http://concepticon.clld.org/parameters/1585,yātela-,sleep
+226-98,zuni1245,http://concepticon.clld.org/parameters/1983,ɬelolo-,snore
+226-158,zuni1245,http://concepticon.clld.org/parameters/1920,halowa-,dream
+226-549,zuni1245,http://concepticon.clld.org/parameters/1602,ʔokʷi-,wake up
+226-438,zuni1245,http://concepticon.clld.org/parameters/1159,ɬic̷ʔic̷ʔi-,break wind
+226-260,zuni1245,http://concepticon.clld.org/parameters/1159,heɬi-,break wind
+226-777,zuni1245,http://concepticon.clld.org/parameters/592,hepi-,urinate
+226-239,zuni1245,http://concepticon.clld.org/parameters/676,heye-,defecate
+226-625,zuni1245,http://concepticon.clld.org/parameters/1785,šoha-,have sexual intercourse
+226-65,zuni1245,http://concepticon.clld.org/parameters/138,ʔikˀošo-,bathe
+226-507,zuni1245,http://concepticon.clld.org/parameters/1152,ʔančawo-,beget (of father)
+226-641,zuni1245,http://concepticon.clld.org/parameters/1123,ʔisana-,pregnant
+226-730,zuni1245,http://concepticon.clld.org/parameters/1087,ʔihtoha-,conceive
+226-131,zuni1245,http://concepticon.clld.org/parameters/1422,tekˀohanna-,"live, living, life"
+226-181,zuni1245,http://concepticon.clld.org/parameters/1494,ʔaše-,"die, dead"
+226-482,zuni1245,http://concepticon.clld.org/parameters/1417,ʔayna-,kill
+226-196,zuni1245,http://concepticon.clld.org/parameters/767,ʔeɬʔe,corpse
+226-88,zuni1245,http://concepticon.clld.org/parameters/1719,ʔupalo-,bury (the dead)
+226-460,zuni1245,http://concepticon.clld.org/parameters/785,c̷ʔumme-,"strong, mighty, powerful"
+226-34,zuni1245,http://concepticon.clld.org/parameters/785,ɬoʔo-,"strong, mighty, powerful"
+226-843,zuni1245,http://concepticon.clld.org/parameters/1601,pučʔali-,weak
+226-26,zuni1245,http://concepticon.clld.org/parameters/1364,c̷emakʷi kˀokši,"well, health"
+226-865,zuni1245,http://concepticon.clld.org/parameters/1847,c̷emakʷi potti,"sick, sickness"
+226-639,zuni1245,http://concepticon.clld.org/parameters/102,noʔčoma-,cold (catarrh)
+226-353,zuni1245,http://concepticon.clld.org/parameters/1109,ʔaʔʔi-,"wound, sore"
+226-342,zuni1245,http://concepticon.clld.org/parameters/1903,šole-,swelling
+226-164,zuni1245,http://concepticon.clld.org/parameters/148,kˀossa-,itch
+226-227,zuni1245,http://concepticon.clld.org/parameters/1808,heppo-,pus
+226-277,zuni1245,http://concepticon.clld.org/parameters/497,ʔaʔna-,scar
+226-572,zuni1245,http://concepticon.clld.org/parameters/499,wenah-,"cure, heal"
+226-226,zuni1245,http://concepticon.clld.org/parameters/1372,ʔakˀʷa-,"medicine, drug"
+226-51,zuni1245,http://concepticon.clld.org/parameters/1757,yuteʔči-,"tired, weary"
+226-404,zuni1245,http://concepticon.clld.org/parameters/168,ʔiyuteʔčinaha-,rest
+226-652,zuni1245,http://concepticon.clld.org/parameters/1564,ʔiči-,lazy
+226-631,zuni1245,http://concepticon.clld.org/parameters/1564,ʔamina-,lazy
+226-287,zuni1245,http://concepticon.clld.org/parameters/1125,moʔsakˀʸaya-,bald
+226-448,zuni1245,http://concepticon.clld.org/parameters/320,ʔimoči-,lame
+226-233,zuni1245,http://concepticon.clld.org/parameters/996,šopčina-,deaf
+226-446,zuni1245,http://concepticon.clld.org/parameters/1653,tunašnapa-,blind
+226-530,zuni1245,http://concepticon.clld.org/parameters/1463,hališona-,intoxicated
+226-27,zuni1245,http://concepticon.clld.org/parameters/1336,ʔito-,eat
+226-658,zuni1245,http://concepticon.clld.org/parameters/256,ʔitōwe,food
+226-32,zuni1245,http://concepticon.clld.org/parameters/269,ʔakʷa-,cooked
+226-595,zuni1245,http://concepticon.clld.org/parameters/1959,kˀʸapi-,raw
+226-384,zuni1245,http://concepticon.clld.org/parameters/178,kˀʸa-,ripe
+226-380,zuni1245,http://concepticon.clld.org/parameters/1728,teči-,rotten
+226-766,zuni1245,http://concepticon.clld.org/parameters/1401,tutu-,drink
+226-96,zuni1245,http://concepticon.clld.org/parameters/1533,ʔoše-,hunger
+226-577,zuni1245,http://concepticon.clld.org/parameters/848,kˀʸeya-,thirst
+226-94,zuni1245,http://concepticon.clld.org/parameters/1421,c̷ic̷i-,suck
+226-343,zuni1245,http://concepticon.clld.org/parameters/321,heyaʔu-,chew
+226-82,zuni1245,http://concepticon.clld.org/parameters/897,ʔikʷiɬi-,swallow
+226-770,zuni1245,http://concepticon.clld.org/parameters/129,kˀʷistokˀʸa-,choke
+226-199,zuni1245,http://concepticon.clld.org/parameters/129,pinna yaɬti-,choke
+226-32,zuni1245,http://concepticon.clld.org/parameters/1100,ʔakʷa-,cook
+226-550,zuni1245,http://concepticon.clld.org/parameters/792,hemmo-,boil (vb)
+226-48,zuni1245,http://concepticon.clld.org/parameters/2146,ʔalo-,"roast, fry"
+226-497,zuni1245,http://concepticon.clld.org/parameters/183,mulo-,bake
+226-368,zuni1245,http://concepticon.clld.org/parameters/1143,heʔpokˀo-,oven
+226-89,zuni1245,http://concepticon.clld.org/parameters/1462,te-,"pot, cooking vessel"
+226-511,zuni1245,http://concepticon.clld.org/parameters/854,sōte-,kettle
+226-400,zuni1245,http://concepticon.clld.org/parameters/31,sa-,pan
+226-400,zuni1245,http://concepticon.clld.org/parameters/481,sa-,dish
+226-400,zuni1245,http://concepticon.clld.org/parameters/480,sa-,plate
+226-400,zuni1245,http://concepticon.clld.org/parameters/1530,sa-,bowl
+226-89,zuni1245,http://concepticon.clld.org/parameters/270,te-,"pitcher, jug"
+226-400,zuni1245,http://concepticon.clld.org/parameters/476,sa-,"cup, drinking vessel"
+226-400,zuni1245,http://concepticon.clld.org/parameters/271,sa-,saucer
+226-424,zuni1245,http://concepticon.clld.org/parameters/1378,šokˀo-,spoon
+226-651,zuni1245,http://concepticon.clld.org/parameters/1352,ʔačiya-,knife (2)
+226-115,zuni1245,http://concepticon.clld.org/parameters/1302,kˀoyaʔči-,fork (2)
+226-170,zuni1245,http://concepticon.clld.org/parameters/768,haneɬa-,lunch
+226-272,zuni1245,http://concepticon.clld.org/parameters/275,c̷ˀikkʷa-,peel
+226-616,zuni1245,http://concepticon.clld.org/parameters/86,siwi-,"sieve, strain"
+226-229,zuni1245,http://concepticon.clld.org/parameters/2017,kʷilipi-,"stir, mix"
+226-152,zuni1245,http://concepticon.clld.org/parameters/2017,ʔīpohɬikˀʸa-,"stir, mix"
+226-532,zuni1245,http://concepticon.clld.org/parameters/1368,mu-,bread
+226-462,zuni1245,http://concepticon.clld.org/parameters/273,moc̷a,dough
+226-857,zuni1245,http://concepticon.clld.org/parameters/274,hec̷ˀuc̷ˀukˀa,knead
+226-327,zuni1245,http://concepticon.clld.org/parameters/1594,ʔo-,"meal, flour"
+226-334,zuni1245,http://concepticon.clld.org/parameters/1033,ʔokkˀʸa-,"crush, grind"
+226-343,zuni1245,http://concepticon.clld.org/parameters/1033,heyaʔu-,"crush, grind"
+226-352,zuni1245,http://concepticon.clld.org/parameters/224,ʔakˀʸe,mortar (2)
+226-307,zuni1245,http://concepticon.clld.org/parameters/1874,mossiyya,sausage
+226-167,zuni1245,http://concepticon.clld.org/parameters/1547,woleyāwe,"soup, broth"
+226-222,zuni1245,http://concepticon.clld.org/parameters/832,no-,bean
+226-829,zuni1245,http://concepticon.clld.org/parameters/593,kˀʸapimo-,potato
+226-509,zuni1245,http://concepticon.clld.org/parameters/1507,mowe,fruit
+226-39,zuni1245,http://concepticon.clld.org/parameters/1966,simo-,bunch
+226-469,zuni1245,http://concepticon.clld.org/parameters/920,molimo-,grape
+226-179,zuni1245,http://concepticon.clld.org/parameters/920,ʔuwa,grape
+226-508,zuni1245,http://concepticon.clld.org/parameters/191,kˀu-,nut
+226-624,zuni1245,http://concepticon.clld.org/parameters/1484,ʔišana-,oil
+226-624,zuni1245,http://concepticon.clld.org/parameters/323,ʔišana-,"grease, fat"
+226-175,zuni1245,http://concepticon.clld.org/parameters/1274,ma-,salt
+226-422,zuni1245,http://concepticon.clld.org/parameters/1274,mākˀose,salt
+226-476,zuni1245,http://concepticon.clld.org/parameters/1385,kˀol ʔowe,pepper
+226-436,zuni1245,http://concepticon.clld.org/parameters/919,kˀola,chili pepper
+226-263,zuni1245,http://concepticon.clld.org/parameters/942,kˀʸalīwe,honey
+226-558,zuni1245,http://concepticon.clld.org/parameters/862,māčikʷa,sugar
+226-444,zuni1245,http://concepticon.clld.org/parameters/635,kʷikˀʸa-,milk (noun)
+226-736,zuni1245,http://concepticon.clld.org/parameters/1569,kʷikˀʸāɬoʔonna-,cheese
+226-767,zuni1245,http://concepticon.clld.org/parameters/1569,kʸeso,cheese
+226-336,zuni1245,http://concepticon.clld.org/parameters/1524,ʔuwa kˀʸawe,wine
+226-112,zuni1245,http://concepticon.clld.org/parameters/1639,kˀʸaʔopīwe,beer
+226-547,zuni1245,http://concepticon.clld.org/parameters/744,tokōko mo-,egg
+226-819,zuni1245,http://concepticon.clld.org/parameters/158,kʷanɬeya-,put on (clothes)
+226-311,zuni1245,http://concepticon.clld.org/parameters/1895,ɬeyāwe,"clothing, clothes"
+226-755,zuni1245,http://concepticon.clld.org/parameters/881,ʔipikɬēnʔona,tailor
+226-566,zuni1245,http://concepticon.clld.org/parameters/1616,kuč-,cloth
+226-487,zuni1245,http://concepticon.clld.org/parameters/1616,pisse-,cloth
+226-182,zuni1245,http://concepticon.clld.org/parameters/964,ʔuwe,wool
+226-492,zuni1245,http://concepticon.clld.org/parameters/1850,ʔuʔle,cotton
+226-636,zuni1245,http://concepticon.clld.org/parameters/1641,sēla,silk
+226-699,zuni1245,http://concepticon.clld.org/parameters/580,we-,fur
+226-210,zuni1245,http://concepticon.clld.org/parameters/580,ʔuyāwe,fur
+226-432,zuni1245,http://concepticon.clld.org/parameters/629,kʸe-,leather
+226-3,zuni1245,http://concepticon.clld.org/parameters/1457,pikɬa-,sew
+226-644,zuni1245,http://concepticon.clld.org/parameters/1382,simi-,needle
+226-195,zuni1245,http://concepticon.clld.org/parameters/157,yaʔšo-,dye
+226-284,zuni1245,http://concepticon.clld.org/parameters/157,yaʔšonakʸa,dye
+226-198,zuni1245,http://concepticon.clld.org/parameters/326,yatona-,cloak
+226-126,zuni1245,http://concepticon.clld.org/parameters/474,ʔučču-,woman's dress
+226-604,zuni1245,http://concepticon.clld.org/parameters/603,lēwa-,coat
+226-147,zuni1245,http://concepticon.clld.org/parameters/1622,ʔuččǔ-,shirt
+226-187,zuni1245,http://concepticon.clld.org/parameters/1600,hasikkʷi-,skirt
+226-171,zuni1245,http://concepticon.clld.org/parameters/809,kučči-,trousers
+226-146,zuni1245,http://concepticon.clld.org/parameters/329,tumokkˀʷa-,"stocking, sock"
+226-709,zuni1245,http://concepticon.clld.org/parameters/1381,mokkˀʷa-,shoe
+226-854,zuni1245,http://concepticon.clld.org/parameters/585,pūc̷i-,boot
+226-420,zuni1245,http://concepticon.clld.org/parameters/875,mokkˀʷāwašenʔona,"shoemaker, cobbler"
+226-634,zuni1245,http://concepticon.clld.org/parameters/2130,poʔya-,"hat, cap"
+226-599,zuni1245,http://concepticon.clld.org/parameters/772,kʸemmekʷi-,"belt, girdle"
+226-221,zuni1245,http://concepticon.clld.org/parameters/867,ʔasuli-,glove
+226-484,zuni1245,http://concepticon.clld.org/parameters/1851,wahta-,pocket
+226-470,zuni1245,http://concepticon.clld.org/parameters/757,matto-,button
+226-762,zuni1245,http://concepticon.clld.org/parameters/64,hematto-,pin
+226-160,zuni1245,http://concepticon.clld.org/parameters/917,čito-,"ornament, adornment"
+226-522,zuni1245,http://concepticon.clld.org/parameters/1374,nic̷ikʸa,ring (for finger)
+226-544,zuni1245,http://concepticon.clld.org/parameters/1961,taku-,necklace
+226-659,zuni1245,http://concepticon.clld.org/parameters/1860,mo-,bead
+226-815,zuni1245,http://concepticon.clld.org/parameters/770,sato-,earring
+226-684,zuni1245,http://concepticon.clld.org/parameters/330,ʔoɬpa-,"headband, headdress"
+226-764,zuni1245,http://concepticon.clld.org/parameters/332,ɬihali-,"handkerchief, rag"
+226-6,zuni1245,http://concepticon.clld.org/parameters/332,hankʸeči,"handkerchief, rag"
+226-661,zuni1245,http://concepticon.clld.org/parameters/1475,ʔipiškʸa,comb
+226-213,zuni1245,http://concepticon.clld.org/parameters/151,ʔiyalušnakʸa,razor
+226-676,zuni1245,http://concepticon.clld.org/parameters/1926,ʔišonāwe,ointment
+226-862,zuni1245,http://concepticon.clld.org/parameters/1926,ʔišakˀʸanakʸa,ointment
+226-374,zuni1245,http://concepticon.clld.org/parameters/1171,ʔīyunakˀʸa ʔaʔle,mirror
+226-694,zuni1245,http://concepticon.clld.org/parameters/1099,teya-,"dwell, live"
+226-746,zuni1245,http://concepticon.clld.org/parameters/1252,kˀʸakʷe-,house
+226-36,zuni1245,http://concepticon.clld.org/parameters/1252,hešota-,house
+226-685,zuni1245,http://concepticon.clld.org/parameters/1316,hampo-,tent
+226-129,zuni1245,http://concepticon.clld.org/parameters/736,tekʷana-,"yard, court"
+226-43,zuni1245,http://concepticon.clld.org/parameters/408,kʸiwihc̷i-,men's house
+226-43,zuni1245,http://concepticon.clld.org/parameters/335,kʸiwihc̷i-,meeting house
+226-746,zuni1245,http://concepticon.clld.org/parameters/1450,kˀʸakʷe-,room
+226-36,zuni1245,http://concepticon.clld.org/parameters/1450,hešota-,room
+226-660,zuni1245,http://concepticon.clld.org/parameters/1567,ʔaɬti-,"door, gate"
+226-780,zuni1245,http://concepticon.clld.org/parameters/1567,ʔawēna-,"door, gate"
+226-701,zuni1245,http://concepticon.clld.org/parameters/1596,ɬac̷ˀikʷa-,lock (noun)
+226-648,zuni1245,http://concepticon.clld.org/parameters/1012,kˀuc̷ˀa-,"latch, door-bolt"
+226-256,zuni1245,http://concepticon.clld.org/parameters/1375,ʔaššoʔwa-,window
+226-737,zuni1245,http://concepticon.clld.org/parameters/1632,ʔaweɬa,floor
+226-849,zuni1245,http://concepticon.clld.org/parameters/933,heʔʔi-,wall
+226-633,zuni1245,http://concepticon.clld.org/parameters/185,ɬemotina-,fireplace
+226-516,zuni1245,http://concepticon.clld.org/parameters/185,ʔaklikʸana-,fireplace
+226-466,zuni1245,http://concepticon.clld.org/parameters/859,heɬemotina-,stove
+226-308,zuni1245,http://concepticon.clld.org/parameters/1464,ɬec̷ˀilo-,ladder
+226-742,zuni1245,http://concepticon.clld.org/parameters/1663,pewi-,bed
+226-341,zuni1245,http://concepticon.clld.org/parameters/1044,payya-,pillow
+226-408,zuni1245,http://concepticon.clld.org/parameters/806,paʔʔi-,blanket
+226-828,zuni1245,http://concepticon.clld.org/parameters/806,yanni-,blanket
+226-7,zuni1245,http://concepticon.clld.org/parameters/1476,ɬempayya-,chair
+226-837,zuni1245,http://concepticon.clld.org/parameters/1775,ɬempowa-,table
+226-839,zuni1245,http://concepticon.clld.org/parameters/2131,hapiya-,"lamp, torch"
+226-798,zuni1245,http://concepticon.clld.org/parameters/2131,ʔopc̷ˀi-,"lamp, torch"
+226-240,zuni1245,http://concepticon.clld.org/parameters/769,teyala,roof
+226-760,zuni1245,http://concepticon.clld.org/parameters/1132,yaɬa-,beam
+226-783,zuni1245,http://concepticon.clld.org/parameters/281,kˀum-,"post, pole"
+226-714,zuni1245,http://concepticon.clld.org/parameters/1227,ɬe-,board
+226-52,zuni1245,http://concepticon.clld.org/parameters/877,heʔʔēn ʔona,mason
+226-395,zuni1245,http://concepticon.clld.org/parameters/901,ʔēʔa-,adobe
+226-218,zuni1245,http://concepticon.clld.org/parameters/212,tehwa-,field (for cultivation)
+226-288,zuni1245,http://concepticon.clld.org/parameters/212,teyaččina-,field (for cultivation)
+226-454,zuni1245,http://concepticon.clld.org/parameters/586,ɬattekˀʷa-,garden
+226-114,zuni1245,http://concepticon.clld.org/parameters/1541,ɬalla-,"cultivate, till"
+226-475,zuni1245,http://concepticon.clld.org/parameters/2002,ʔakkʷe-,ditch
+226-588,zuni1245,http://concepticon.clld.org/parameters/1921,heʔčoɬto-,plow
+226-271,zuni1245,http://concepticon.clld.org/parameters/1418,ʔakˀoʔu-,dig
+226-555,zuni1245,http://concepticon.clld.org/parameters/1176,hēɬe-,spade
+226-555,zuni1245,http://concepticon.clld.org/parameters/1901,hēɬe-,shovel
+226-95,zuni1245,http://concepticon.clld.org/parameters/284,wapaʔʔana-,hoe
+226-115,zuni1245,http://concepticon.clld.org/parameters/337,kˀoyaʔči-,fork
+226-602,zuni1245,http://concepticon.clld.org/parameters/338,hešonči-,rake
+226-816,zuni1245,http://concepticon.clld.org/parameters/714,tōšōwe,seed
+226-377,zuni1245,http://concepticon.clld.org/parameters/2132,čimayašnakʸa,"sickle, scythe"
+226-133,zuni1245,http://concepticon.clld.org/parameters/605,kʸa-,"grain (barley, oats etc)"
+226-818,zuni1245,http://concepticon.clld.org/parameters/1077,čimaya-,wheat
+226-79,zuni1245,http://concepticon.clld.org/parameters/1077,čimatta-,wheat
+226-16,zuni1245,http://concepticon.clld.org/parameters/60,ʔowc̷i,oats
+226-231,zuni1245,http://concepticon.clld.org/parameters/60,kʸasililīwe,oats
+226-148,zuni1245,http://concepticon.clld.org/parameters/506,-towa,"maize, corn"
+226-83,zuni1245,http://concepticon.clld.org/parameters/926,wic̷ʔanāwe,rice
+226-752,zuni1245,http://concepticon.clld.org/parameters/606,pe-,grass
+226-202,zuni1245,http://concepticon.clld.org/parameters/342,hawe,hay
+226-534,zuni1245,http://concepticon.clld.org/parameters/653,lena-,plant (noun)
+226-696,zuni1245,http://concepticon.clld.org/parameters/1486,toye-,plant (vb)
+226-831,zuni1245,http://concepticon.clld.org/parameters/670,ɬakʷimo-,root
+226-71,zuni1245,http://concepticon.clld.org/parameters/1531,yači-,branch
+226-695,zuni1245,http://concepticon.clld.org/parameters/628,ha-,leaf
+226-209,zuni1245,http://concepticon.clld.org/parameters/628,ho-,leaf
+226-759,zuni1245,http://concepticon.clld.org/parameters/239,ʔuteya-,flower
+226-155,zuni1245,http://concepticon.clld.org/parameters/906,tatta-,tree
+226-563,zuni1245,http://concepticon.clld.org/parameters/644,taʔwi,oak
+226-825,zuni1245,http://concepticon.clld.org/parameters/1740,ʔašekˀʸa,pine
+226-510,zuni1245,http://concepticon.clld.org/parameters/1915,kˀʸaɬac̷ˀilo,fir
+226-791,zuni1245,http://concepticon.clld.org/parameters/968,taʔwi mo-,acorn
+226-104,zuni1245,http://concepticon.clld.org/parameters/343,piwanna-,vine
+226-355,zuni1245,http://concepticon.clld.org/parameters/974,c̷ana,tobacco
+226-37,zuni1245,http://concepticon.clld.org/parameters/974,ʔanate,tobacco
+226-678,zuni1245,http://concepticon.clld.org/parameters/1689,pokɬi-,smoke (tobacco)
+226-783,zuni1245,http://concepticon.clld.org/parameters/344,kˀum-,tree trunk
+226-115,zuni1245,http://concepticon.clld.org/parameters/409,kˀoyaʔči-,forked branch
+226-272,zuni1245,http://concepticon.clld.org/parameters/1204,c̷ˀikkʷa-,bark
+226-423,zuni1245,http://concepticon.clld.org/parameters/411,mōkˀʸisi,gourd
+226-725,zuni1245,http://concepticon.clld.org/parameters/411,tom-,gourd
+226-493,zuni1245,http://concepticon.clld.org/parameters/864,mōteyaɬa,"pumpkin, squash"
+226-1,zuni1245,http://concepticon.clld.org/parameters/864,mēmo-,"pumpkin, squash"
+226-781,zuni1245,http://concepticon.clld.org/parameters/146,kˀʸewe,sugar cane
+226-745,zuni1245,http://concepticon.clld.org/parameters/641,puhči,mushroom
+226-683,zuni1245,http://concepticon.clld.org/parameters/813,ʔaša-,"do, make"
+226-150,zuni1245,http://concepticon.clld.org/parameters/984,yuʔmakʷe-,work
+226-78,zuni1245,http://concepticon.clld.org/parameters/984,ʔīkʷāni-,work
+226-646,zuni1245,http://concepticon.clld.org/parameters/2004,toc̷ippo-,bend
+226-14,zuni1245,http://concepticon.clld.org/parameters/2004,c̷ˀikˀo-,bend
+226-314,zuni1245,http://concepticon.clld.org/parameters/2004,noʔtekla-,bend
+226-139,zuni1245,http://concepticon.clld.org/parameters/1470,ʔīpoʔku-,fold
+226-730,zuni1245,http://concepticon.clld.org/parameters/352,ʔihtoha-,untie
+226-383,zuni1245,http://concepticon.clld.org/parameters/1627,hewiyulli-,chain
+226-528,zuni1245,http://concepticon.clld.org/parameters/1218,toʔni-,"rope, cord"
+226-440,zuni1245,http://concepticon.clld.org/parameters/1432,c̷ˀiya-,cut
+226-623,zuni1245,http://concepticon.clld.org/parameters/355,ʔiteha-,cut down
+226-603,zuni1245,http://concepticon.clld.org/parameters/155,ɬepakčo-,"chop, hew"
+226-264,zuni1245,http://concepticon.clld.org/parameters/1434,ɬakʷu-,stab
+226-651,zuni1245,http://concepticon.clld.org/parameters/1352,ʔačiya-,knife
+226-159,zuni1245,http://concepticon.clld.org/parameters/356,ʔīpačči,"scissors, shears"
+226-570,zuni1245,http://concepticon.clld.org/parameters/356,ʔapc̷ˀišlenakʸa,"scissors, shears"
+226-635,zuni1245,http://concepticon.clld.org/parameters/677,kˀʸi-,ax
+226-31,zuni1245,http://concepticon.clld.org/parameters/680,yami-,break
+226-301,zuni1245,http://concepticon.clld.org/parameters/588,kˀuhmo-,broken
+226-268,zuni1245,http://concepticon.clld.org/parameters/1437,ʔīšokʷiha-,split
+226-440,zuni1245,http://concepticon.clld.org/parameters/1735,c̷ˀiya-,tear
+226-583,zuni1245,http://concepticon.clld.org/parameters/1449,čišša-,"rub, wipe"
+226-586,zuni1245,http://concepticon.clld.org/parameters/1449,muyye-,"rub, wipe"
+226-381,zuni1245,http://concepticon.clld.org/parameters/214,šalu-,stretch
+226-772,zuni1245,http://concepticon.clld.org/parameters/214,c̷ˀaɬi-,stretch
+226-600,zuni1245,http://concepticon.clld.org/parameters/1455,ʔanahha-,pull
+226-12,zuni1245,http://concepticon.clld.org/parameters/38,wakˀʷa-,spread out
+226-738,zuni1245,http://concepticon.clld.org/parameters/357,piyaʔu-,hang up
+226-757,zuni1245,http://concepticon.clld.org/parameters/1913,hec̷ˀu-,press
+226-729,zuni1245,http://concepticon.clld.org/parameters/1414,hec̷ʔu-,"squeeze, wring"
+226-120,zuni1245,http://concepticon.clld.org/parameters/1453,kˀošo-,wash
+226-464,zuni1245,http://concepticon.clld.org/parameters/230,tepišša-,sweep
+226-638,zuni1245,http://concepticon.clld.org/parameters/245,pep-,broom
+226-409,zuni1245,http://concepticon.clld.org/parameters/1042,ɬewīkʷanikʸēn ʔona,carpenter
+226-683,zuni1245,http://concepticon.clld.org/parameters/1840,ʔaša-,build
+226-669,zuni1245,http://concepticon.clld.org/parameters/1501,piɬkʷe-,bore
+226-513,zuni1245,http://concepticon.clld.org/parameters/46,heʔkˀoʔu-,hollow out
+226-285,zuni1245,http://concepticon.clld.org/parameters/1948,ɬititina-,saw
+226-295,zuni1245,http://concepticon.clld.org/parameters/1481,hetoknakʸa,hammer
+226-194,zuni1245,http://concepticon.clld.org/parameters/502,hēkˀʸac̷c̷oto-,nail
+226-666,zuni1245,http://concepticon.clld.org/parameters/1069,kˀʸapikˀʸāwe,glue
+226-504,zuni1245,http://concepticon.clld.org/parameters/1001,hetokkˀʸēn ʔona,"smith, blacksmith"
+226-219,zuni1245,http://concepticon.clld.org/parameters/1369,ʔōlo,gold
+226-134,zuni1245,http://concepticon.clld.org/parameters/759,lāta,silver
+226-30,zuni1245,http://concepticon.clld.org/parameters/759,c̷īhewe,silver
+226-761,zuni1245,http://concepticon.clld.org/parameters/1825,tesililīwe,"copper, bronze"
+226-538,zuni1245,http://concepticon.clld.org/parameters/621,hewe,iron
+226-145,zuni1245,http://concepticon.clld.org/parameters/359,tewašēn ʔona,potter
+226-468,zuni1245,http://concepticon.clld.org/parameters/1399,heli-,clay
+226-217,zuni1245,http://concepticon.clld.org/parameters/604,ʔa-,glass
+226-640,zuni1245,http://concepticon.clld.org/parameters/292,pisāli-,rug
+226-468,zuni1245,http://concepticon.clld.org/parameters/647,heli-,paint (noun)
+226-180,zuni1245,http://concepticon.clld.org/parameters/765,ʔīmoha-,move
+226-296,zuni1245,http://concepticon.clld.org/parameters/765,tinaha-,move
+226-856,zuni1245,http://concepticon.clld.org/parameters/1588,yampaʔkʷiha-,turn over
+226-143,zuni1245,http://concepticon.clld.org/parameters/1588,noʔtekla-ʔu,turn over
+226-858,zuni1245,http://concepticon.clld.org/parameters/1445,ʔallūpi-,turn around
+226-830,zuni1245,http://concepticon.clld.org/parameters/1113,peha-,"wind, wrap"
+226-401,zuni1245,http://concepticon.clld.org/parameters/827,ponoɬpani-,roll
+226-480,zuni1245,http://concepticon.clld.org/parameters/827,pololoʔu-,roll
+226-623,zuni1245,http://concepticon.clld.org/parameters/808,ʔiteha-,drop (vb)
+226-22,zuni1245,http://concepticon.clld.org/parameters/501,kˀʸeyatoʔu-,"raise, lift"
+226-479,zuni1245,http://concepticon.clld.org/parameters/1280,lani-,fall
+226-201,zuni1245,http://concepticon.clld.org/parameters/2253,c̷ˀokˀo-,drip
+226-578,zuni1245,http://concepticon.clld.org/parameters/1456,ʔipaku-,throw
+226-613,zuni1245,http://concepticon.clld.org/parameters/702,yate-,catch (ball)
+226-230,zuni1245,http://concepticon.clld.org/parameters/1088,wakkʷato-,sink
+226-251,zuni1245,http://concepticon.clld.org/parameters/1574,kˀʸaya-,float
+226-721,zuni1245,http://concepticon.clld.org/parameters/1439,ʔičukˀʸayē-,swim
+226-42,zuni1245,http://concepticon.clld.org/parameters/365,čepe-,splash
+226-191,zuni1245,http://concepticon.clld.org/parameters/1441,laʔhi-,fly (vb)
+226-531,zuni1245,http://concepticon.clld.org/parameters/175,ʔuʔʔa-,blow
+226-796,zuni1245,http://concepticon.clld.org/parameters/175,pūpuʔʔa-,blow
+226-724,zuni1245,http://concepticon.clld.org/parameters/96,ponān-,"creep, crawl"
+226-486,zuni1245,http://concepticon.clld.org/parameters/66,moʔc̷okti powa-,kneel
+226-117,zuni1245,http://concepticon.clld.org/parameters/296,moʔc̷ok ʔīmu-,crouch
+226-348,zuni1245,http://concepticon.clld.org/parameters/1829,ʔīpuʔlaʔhi-,"jump, leap"
+226-562,zuni1245,http://concepticon.clld.org/parameters/1135,yačču-,kick
+226-371,zuni1245,http://concepticon.clld.org/parameters/1879,ʔota-,dance
+226-448,zuni1245,http://concepticon.clld.org/parameters/366,ʔimoči-,limp
+226-700,zuni1245,http://concepticon.clld.org/parameters/1519,yēlaha-,run
+226-362,zuni1245,http://concepticon.clld.org/parameters/1519,ʔiɬuwaha-,run
+226-642,zuni1245,http://concepticon.clld.org/parameters/695,ʔān-,go
+226-299,zuni1245,http://concepticon.clld.org/parameters/705,yemaku-,go up
+226-299,zuni1245,http://concepticon.clld.org/parameters/1102,yemaku-,climb
+226-297,zuni1245,http://concepticon.clld.org/parameters/2014,paniyu-,go down
+226-249,zuni1245,http://concepticon.clld.org/parameters/1107,kʷayi-,go out
+226-637,zuni1245,http://concepticon.clld.org/parameters/1446,ʔiy-,come
+226-156,zuni1245,http://concepticon.clld.org/parameters/581,ʔikˀʷaɬt ʔiy-,come back
+226-689,zuni1245,http://concepticon.clld.org/parameters/485,ʔotti-,disappear
+226-17,zuni1245,http://concepticon.clld.org/parameters/1085,ʔantapan ʔān-,follow
+226-328,zuni1245,http://concepticon.clld.org/parameters/1047,ʔallaha-,pursue
+226-266,zuni1245,http://concepticon.clld.org/parameters/1387,teʔči-,"reach, arrive"
+226-740,zuni1245,http://concepticon.clld.org/parameters/749,kʷato-,enter
+226-390,zuni1245,http://concepticon.clld.org/parameters/700,seto-,carry (bear)
+226-18,zuni1245,http://concepticon.clld.org/parameters/412,ɬeʔā-,carry-in-hand
+226-243,zuni1245,http://concepticon.clld.org/parameters/413,čut-ʔan y-aɬto-kˀʸa-,carry-on-shoulder
+226-450,zuni1245,http://concepticon.clld.org/parameters/414,ɬakto-,carry-on-head
+226-735,zuni1245,http://concepticon.clld.org/parameters/415,nolokt-ʔan ɬac̷c̷ˀ-u-,carry-underarm
+226-40,zuni1245,http://concepticon.clld.org/parameters/415,nolokt-ʔan ɬac̷c̷ˀiye,carry-underarm
+226-665,zuni1245,http://concepticon.clld.org/parameters/367,ʔimyaɬto-,ride
+226-278,zuni1245,http://concepticon.clld.org/parameters/1452,ʔulate-,"push, shove"
+226-197,zuni1245,http://concepticon.clld.org/parameters/667,ʔona-,road
+226-197,zuni1245,http://concepticon.clld.org/parameters/2252,ʔona-,path
+226-587,zuni1245,http://concepticon.clld.org/parameters/1011,yatonakʸa,bridge
+226-119,zuni1245,http://concepticon.clld.org/parameters/710,heʔpowa-,wheel
+226-614,zuni1245,http://concepticon.clld.org/parameters/1844,kˀʸayan ʔallukkʸanakʸa,boat
+226-495,zuni1245,http://concepticon.clld.org/parameters/773,ʔilli-,have
+226-108,zuni1245,http://concepticon.clld.org/parameters/1749,ʔiɬeyaʔu-,take
+226-41,zuni1245,http://concepticon.clld.org/parameters/1749,ʔahha-,take
+226-778,zuni1245,http://concepticon.clld.org/parameters/2021,yakna-,"seize, grasp"
+226-100,zuni1245,http://concepticon.clld.org/parameters/1448,ɬeya-,hold
+226-41,zuni1245,http://concepticon.clld.org/parameters/694,ʔahha-,"get, obtain"
+226-778,zuni1245,http://concepticon.clld.org/parameters/1477,yakna-,"keep, retain"
+226-529,zuni1245,http://concepticon.clld.org/parameters/738,wo-,thing
+226-521,zuni1245,http://concepticon.clld.org/parameters/1447,ʔuc̷ˀi-,give
+226-632,zuni1245,http://concepticon.clld.org/parameters/1997,ʔay-yupači-,"preserve, look after"
+226-795,zuni1245,http://concepticon.clld.org/parameters/2008,tehya-ʔu-,"save, rescue"
+226-523,zuni1245,http://concepticon.clld.org/parameters/681,yaɬa-kʷayi-,destroy
+226-357,zuni1245,http://concepticon.clld.org/parameters/44,haši-,"harm, injure, damage"
+226-618,zuni1245,http://concepticon.clld.org/parameters/1468,tešu-,"seek, look for"
+226-334,zuni1245,http://concepticon.clld.org/parameters/1660,ʔokkˀʸa-,lose
+226-246,zuni1245,http://concepticon.clld.org/parameters/1095,yaknaha-,"release, let go"
+226-811,zuni1245,http://concepticon.clld.org/parameters/1559,he-,money
+226-811,zuni1245,http://concepticon.clld.org/parameters/1867,he-,coin
+226-546,zuni1245,http://concepticon.clld.org/parameters/712,līku-,rich
+226-668,zuni1245,http://concepticon.clld.org/parameters/1674,tewukoʔliya-,poor
+226-161,zuni1245,http://concepticon.clld.org/parameters/1934,ʔanɬimoša-,beggar
+226-4,zuni1245,http://concepticon.clld.org/parameters/1774,miʔtokˀo-,"avaricious, stingy"
+226-34,zuni1245,http://concepticon.clld.org/parameters/1774,ɬoʔo-,"avaricious, stingy"
+226-793,zuni1245,http://concepticon.clld.org/parameters/1823,ʔilopi-,borrow
+226-386,zuni1245,http://concepticon.clld.org/parameters/1869,tapi-,buy
+226-262,zuni1245,http://concepticon.clld.org/parameters/1571,haliso-,sell
+226-330,zuni1245,http://concepticon.clld.org/parameters/1082,halisoyn ʔona,merchant
+226-565,zuni1245,http://concepticon.clld.org/parameters/1426,tehya-,"dear (costly, expensive)"
+226-519,zuni1245,http://concepticon.clld.org/parameters/884,pači-,share (distribute)
+226-840,zuni1245,http://concepticon.clld.org/parameters/723,yalu-,behind
+226-596,zuni1245,http://concepticon.clld.org/parameters/1816,pakkʷi-,beside
+226-391,zuni1245,http://concepticon.clld.org/parameters/1326,manikkʸa,"down, below"
+226-351,zuni1245,http://concepticon.clld.org/parameters/1606,ʔuli-,"inside, in"
+226-138,zuni1245,http://concepticon.clld.org/parameters/762,ʔuɬɬa-,outside
+226-129,zuni1245,http://concepticon.clld.org/parameters/762,tekʷana-,outside
+226-391,zuni1245,http://concepticon.clld.org/parameters/1485,manikkʸa,under
+226-821,zuni1245,http://concepticon.clld.org/parameters/1485,ʔapalli-,under
+226-19,zuni1245,http://concepticon.clld.org/parameters/1591,ʔīyama,"up, above"
+226-607,zuni1245,http://concepticon.clld.org/parameters/838,y-ečči-kˀona,"remains, left overs"
+226-41,zuni1245,http://concepticon.clld.org/parameters/371,ʔahha-,pick up
+226-77,zuni1245,http://concepticon.clld.org/parameters/1743,yakšu-,"join, unite"
+226-399,zuni1245,http://concepticon.clld.org/parameters/1743,ʔisliʔu-,"join, unite"
+226-790,zuni1245,http://concepticon.clld.org/parameters/1359,ʔiwopc̷ˀiha-,separate
+226-478,zuni1245,http://concepticon.clld.org/parameters/1119,ʔīpači-,divide
+226-732,zuni1245,http://concepticon.clld.org/parameters/602,ʔikˀoloʔu-,"hide, conceal"
+226-81,zuni1245,http://concepticon.clld.org/parameters/1265,kuʔtelʔan,high
+226-653,zuni1245,http://concepticon.clld.org/parameters/1753,kˀʸac̷c̷oʔwa-,top
+226-245,zuni1245,http://concepticon.clld.org/parameters/690,paɬto-,bottom
+226-527,zuni1245,http://concepticon.clld.org/parameters/372,tahna-,pointed
+226-184,zuni1245,http://concepticon.clld.org/parameters/1093,ʔitiwa,"middle, center"
+226-601,zuni1245,http://concepticon.clld.org/parameters/1019,ʔitokkʷa,right (side)
+226-109,zuni1245,http://concepticon.clld.org/parameters/244,wešikkˀʸa,left (side)
+226-719,zuni1245,http://concepticon.clld.org/parameters/1942,lotte,near (adv)
+226-846,zuni1245,http://concepticon.clld.org/parameters/1406,hoɬomaši-,far (adv)
+226-261,zuni1245,http://concepticon.clld.org/parameters/1877,tewankʷin,east
+226-868,zuni1245,http://concepticon.clld.org/parameters/1817,sunhākʷin,west
+226-702,zuni1245,http://concepticon.clld.org/parameters/1598,pišlankʷin,north
+226-869,zuni1245,http://concepticon.clld.org/parameters/1595,maʔkˀʸayakʷin,south
+226-814,zuni1245,http://concepticon.clld.org/parameters/479,ɬa-,grow
+226-569,zuni1245,http://concepticon.clld.org/parameters/1506,ʔiteču-,measure
+226-228,zuni1245,http://concepticon.clld.org/parameters/1202,ɬana-,"large, big"
+226-672,zuni1245,http://concepticon.clld.org/parameters/1246,c̷ˀana-,"small, little"
+226-673,zuni1245,http://concepticon.clld.org/parameters/1203,tašana-,long
+226-673,zuni1245,http://concepticon.clld.org/parameters/711,tašana-,tall
+226-44,zuni1245,http://concepticon.clld.org/parameters/1645,koni-,short
+226-292,zuni1245,http://concepticon.clld.org/parameters/1243,kˀʸapa-,"wide, broad"
+226-220,zuni1245,http://concepticon.clld.org/parameters/1244,yahoni-,thick (in dimension)
+226-487,zuni1245,http://concepticon.clld.org/parameters/1400,pisse-,thin (in dimension)
+226-370,zuni1245,http://concepticon.clld.org/parameters/1593,tetašana-,deep
+226-241,zuni1245,http://concepticon.clld.org/parameters/193,tekoni-,shallow
+226-677,zuni1245,http://concepticon.clld.org/parameters/1404,moɬa-,straight
+226-14,zuni1245,http://concepticon.clld.org/parameters/297,c̷ˀikˀo-,crooked
+226-38,zuni1245,http://concepticon.clld.org/parameters/192,he ʔšokˀo,corner
+226-465,zuni1245,http://concepticon.clld.org/parameters/850,mayā kˀokši-,square
+226-754,zuni1245,http://concepticon.clld.org/parameters/1395,pic̷ulliya-,round
+226-754,zuni1245,http://concepticon.clld.org/parameters/1467,pic̷ulliya-,circle
+226-659,zuni1245,http://concepticon.clld.org/parameters/1845,mo-,"sphere, ball"
+226-844,zuni1245,http://concepticon.clld.org/parameters/1048,pi-,line
+226-514,zuni1245,http://concepticon.clld.org/parameters/1558,ʔikna,"like, similar"
+226-207,zuni1245,http://concepticon.clld.org/parameters/1264,ʔiyal ihkˀʸa-,change
+226-792,zuni1245,http://concepticon.clld.org/parameters/1515,topinte,one
+226-710,zuni1245,http://concepticon.clld.org/parameters/1498,kʷilin,two
+226-216,zuni1245,http://concepticon.clld.org/parameters/492,haʔin,three
+226-304,zuni1245,http://concepticon.clld.org/parameters/1500,ʔāwiten,four
+226-35,zuni1245,http://concepticon.clld.org/parameters/493,ʔapten,five
+226-455,zuni1245,http://concepticon.clld.org/parameters/1703,topalekkˀʸa,six
+226-459,zuni1245,http://concepticon.clld.org/parameters/1704,kʷilelekkˀʸa,seven
+226-782,zuni1245,http://concepticon.clld.org/parameters/1705,haʔelekkˀʸa,eight
+226-575,zuni1245,http://concepticon.clld.org/parameters/1483,tenalekkˀʸa,nine
+226-606,zuni1245,http://concepticon.clld.org/parameters/1515,ʔastemɬan,ten
+226-671,zuni1245,http://concepticon.clld.org/parameters/1706,ʔastemɬa tāp topinte,eleven
+226-630,zuni1245,http://concepticon.clld.org/parameters/1707,ʔastemɬa tāp kʷilin,twelve
+226-838,zuni1245,http://concepticon.clld.org/parameters/1709,ʔastemɬa tāp ʔapten,fifteen
+226-416,zuni1245,http://concepticon.clld.org/parameters/1710,kʷilikˀʸan ʔastemɬan,twenty
+226-627,zuni1245,http://concepticon.clld.org/parameters/1634,ʔasi ʔastemɬan,hundred
+226-253,zuni1245,http://concepticon.clld.org/parameters/1843,tapnimte mīɬ,thousand
+226-445,zuni1245,http://concepticon.clld.org/parameters/1420,yale-,count
+226-496,zuni1245,http://concepticon.clld.org/parameters/98,lēwi,"every, all"
+226-853,zuni1245,http://concepticon.clld.org/parameters/98,temɬan,"every, all"
+226-518,zuni1245,http://concepticon.clld.org/parameters/1198,ʔemma,"much, many"
+226-533,zuni1245,http://concepticon.clld.org/parameters/1992,ʔaɬna,more
+226-413,zuni1245,http://concepticon.clld.org/parameters/1242,kōwi,"little (quantity), few"
+226-622,zuni1245,http://concepticon.clld.org/parameters/1881,ʔečči-,enough
+226-608,zuni1245,http://concepticon.clld.org/parameters/1429,potti-,full
+226-692,zuni1245,http://concepticon.clld.org/parameters/1429,kosna-,full
+226-532,zuni1245,http://concepticon.clld.org/parameters/779,mu-,"part, piece"
+226-539,zuni1245,http://concepticon.clld.org/parameters/1580,samma,"alone, only"
+226-337,zuni1245,http://concepticon.clld.org/parameters/1580,teʔči,"alone, only"
+226-679,zuni1245,http://concepticon.clld.org/parameters/728,ʔehkʷi-,first
+226-807,zuni1245,http://concepticon.clld.org/parameters/728,kʸela-,first
+226-840,zuni1245,http://concepticon.clld.org/parameters/1529,yalu-,last
+226-130,zuni1245,http://concepticon.clld.org/parameters/1384,kʷilikˀʸan,second
+226-363,zuni1245,http://concepticon.clld.org/parameters/1888,ʔāči,pair
+226-579,zuni1245,http://concepticon.clld.org/parameters/1546,kʷilikʔʸan,two times
+226-452,zuni1245,http://concepticon.clld.org/parameters/1859,haʔikˀʸan,third
+226-452,zuni1245,http://concepticon.clld.org/parameters/417,haʔikˀʸan,three times
+226-494,zuni1245,http://concepticon.clld.org/parameters/1789,ɬaššīwe,age
+226-697,zuni1245,http://concepticon.clld.org/parameters/1231,čim ʔona,new
+226-176,zuni1245,http://concepticon.clld.org/parameters/1207,šiha,young
+226-397,zuni1245,http://concepticon.clld.org/parameters/1229,ɬašši-,old
+226-626,zuni1245,http://concepticon.clld.org/parameters/1376,čimi,now
+226-785,zuni1245,http://concepticon.clld.org/parameters/1963,hanaʔte,immediately
+226-748,zuni1245,http://concepticon.clld.org/parameters/1631,kˀʸahaya-,"swift, fast, quick"
+226-594,zuni1245,http://concepticon.clld.org/parameters/701,tikʷahna-,slow
+226-541,zuni1245,http://concepticon.clld.org/parameters/754,hešši-,"hasten, hurry"
+226-542,zuni1245,http://concepticon.clld.org/parameters/1806,teyʔu-,"begin, beginning"
+226-722,zuni1245,http://concepticon.clld.org/parameters/1186,yoc̷c̷ikkˀʸa-,"last, endure"
+226-517,zuni1245,http://concepticon.clld.org/parameters/1766,yākˀʸa-,finish
+226-414,zuni1245,http://concepticon.clld.org/parameters/1928,čune-,"cease, stop"
+226-833,zuni1245,http://concepticon.clld.org/parameters/790,yāna-,ready
+226-680,zuni1245,http://concepticon.clld.org/parameters/1676,ʔišaɬmaʔte,always
+226-236,zuni1245,http://concepticon.clld.org/parameters/1852,ʔimaštoɬi,often
+226-86,zuni1245,http://concepticon.clld.org/parameters/1544,kʸākˀʸi,sometimes
+226-300,zuni1245,http://concepticon.clld.org/parameters/703,wan,soon
+226-186,zuni1245,http://concepticon.clld.org/parameters/1656,kʷaʔ kʸayi ʔinaʔmaʔ,never
+226-728,zuni1245,http://concepticon.clld.org/parameters/204,tēya,again
+226-323,zuni1245,http://concepticon.clld.org/parameters/1260,yato-,day
+226-693,zuni1245,http://concepticon.clld.org/parameters/1233,tehɬappa,night
+226-551,zuni1245,http://concepticon.clld.org/parameters/1233,tehɬina-,night
+226-447,zuni1245,http://concepticon.clld.org/parameters/1339,ʔiččite,morning
+226-488,zuni1245,http://concepticon.clld.org/parameters/12,ʔitiwʔan,"noon, midday"
+226-556,zuni1245,http://concepticon.clld.org/parameters/1807,ʔitiwakʸatappa,afternoon
+226-375,zuni1245,http://concepticon.clld.org/parameters/1629,sunha-,evening
+226-20,zuni1245,http://concepticon.clld.org/parameters/1629,sunnaha-,evening
+226-861,zuni1245,http://concepticon.clld.org/parameters/1283,lākˀʸi,today
+226-193,zuni1245,http://concepticon.clld.org/parameters/1329,tewani,tomorrow
+226-53,zuni1245,http://concepticon.clld.org/parameters/1174,teššukˀʷaʔ,yesterday
+226-121,zuni1245,http://concepticon.clld.org/parameters/1323,yatokkʸa,"clock, timepiece"
+226-270,zuni1245,http://concepticon.clld.org/parameters/1469,tuminku,week
+226-744,zuni1245,http://concepticon.clld.org/parameters/1699,tuminku tewappa,Sunday
+226-25,zuni1245,http://concepticon.clld.org/parameters/1697,činnakʷ ʔīkʷānʔappa,Monday
+226-309,zuni1245,http://concepticon.clld.org/parameters/1695,kʷilitewan ʔīkʷānʔappa,Tuesday
+226-852,zuni1245,http://concepticon.clld.org/parameters/1694,haʔitewan ʔīkʷānʔappa,Wednesday
+226-151,zuni1245,http://concepticon.clld.org/parameters/1693,ʔāwiten ʔīkʷānʔappa,Thursday
+226-286,zuni1245,http://concepticon.clld.org/parameters/1692,ʔaɬnaʔte ʔīkʷānʔappa,Friday
+226-64,zuni1245,http://concepticon.clld.org/parameters/1700,tuminku ʔančˀappa,Saturday
+226-472,zuni1245,http://concepticon.clld.org/parameters/1370,yaču-,month
+226-647,zuni1245,http://concepticon.clld.org/parameters/1226,tepikʷayina-,year
+226-675,zuni1245,http://concepticon.clld.org/parameters/1471,tehc̷ˀi-,winter
+226-319,zuni1245,http://concepticon.clld.org/parameters/1537,telakʷayi,spring
+226-173,zuni1245,http://concepticon.clld.org/parameters/1342,ʔoloʔʔikˀʸa,summer
+226-244,zuni1245,http://concepticon.clld.org/parameters/1276,miyašēnakˀʸappa,autumn
+226-380,zuni1245,http://concepticon.clld.org/parameters/1587,teči-,smell (vb intrans)
+226-367,zuni1245,http://concepticon.clld.org/parameters/375,musmu-,sniff
+226-367,zuni1245,http://concepticon.clld.org/parameters/1586,musmu-,smell (vb trans)
+226-369,zuni1245,http://concepticon.clld.org/parameters/717,čikʷa-,sweet
+226-540,zuni1245,http://concepticon.clld.org/parameters/1091,kˀose-,salty
+226-619,zuni1245,http://concepticon.clld.org/parameters/1906,ʔopi-,"acid, sour"
+226-540,zuni1245,http://concepticon.clld.org/parameters/70,kˀose-,brackish
+226-345,zuni1245,http://concepticon.clld.org/parameters/1408,hatiyāw-,hear
+226-345,zuni1245,http://concepticon.clld.org/parameters/1608,hatiyāw-,listen
+226-59,zuni1245,http://concepticon.clld.org/parameters/1811,ʔawoteya-,"sound, noise"
+226-215,zuni1245,http://concepticon.clld.org/parameters/377,wawawa-,loud
+226-553,zuni1245,http://concepticon.clld.org/parameters/1314,ʔayyuɬaššina-,"quiet, silence"
+226-733,zuni1245,http://concepticon.clld.org/parameters/1409,ʔankˀohakˀʸa-,see
+226-739,zuni1245,http://concepticon.clld.org/parameters/1819,ʔuna-,"look, look at"
+226-561,zuni1245,http://concepticon.clld.org/parameters/1819,tuna-,"look, look at"
+226-758,zuni1245,http://concepticon.clld.org/parameters/1039,ʔunaʔu-,show
+226-670,zuni1245,http://concepticon.clld.org/parameters/708,walolo-,shine
+226-506,zuni1245,http://concepticon.clld.org/parameters/250,kˀoha-,light (in color)
+226-192,zuni1245,http://concepticon.clld.org/parameters/706,kˀʷi-,dark (in color)
+226-506,zuni1245,http://concepticon.clld.org/parameters/1335,kˀoha-,white
+226-192,zuni1245,http://concepticon.clld.org/parameters/163,kˀʷi-,black
+226-827,zuni1245,http://concepticon.clld.org/parameters/156,šilowa-,red
+226-688,zuni1245,http://concepticon.clld.org/parameters/837,ɬiʔʔa-,blue
+226-552,zuni1245,http://concepticon.clld.org/parameters/1425,ʔašena,green
+226-45,zuni1245,http://concepticon.clld.org/parameters/1424,ɬupc̷ˀi-,yellow
+226-613,zuni1245,http://concepticon.clld.org/parameters/1892,yate-,touch
+226-705,zuni1245,http://concepticon.clld.org/parameters/1079,hati-,feel
+226-34,zuni1245,http://concepticon.clld.org/parameters/1884,ɬoʔo-,hard
+226-76,zuni1245,http://concepticon.clld.org/parameters/1856,ɬuc̷ˀina-,soft
+226-346,zuni1245,http://concepticon.clld.org/parameters/1923,čippa-,rough
+226-654,zuni1245,http://concepticon.clld.org/parameters/1234,kˀʸalolo-,smooth
+226-406,zuni1245,http://concepticon.clld.org/parameters/1396,ʔotta-,sharp
+226-873,zuni1245,http://concepticon.clld.org/parameters/1210,yukti-,heavy
+226-635,zuni1245,http://concepticon.clld.org/parameters/1726,kˀʸi-,"wet, damp"
+226-291,zuni1245,http://concepticon.clld.org/parameters/1398,kˀusa-,dry
+226-11,zuni1245,http://concepticon.clld.org/parameters/1286,kˀʸaɬi-,hot
+226-581,zuni1245,http://concepticon.clld.org/parameters/1232,yusu-,warm
+226-75,zuni1245,http://concepticon.clld.org/parameters/1287,c̷ˀe-,cold
+226-712,zuni1245,http://concepticon.clld.org/parameters/1230,ʔančiʔmowa,"dirty, soiled"
+226-107,zuni1245,http://concepticon.clld.org/parameters/380,wikˀolīwe,wrinkled
+226-763,zuni1245,http://concepticon.clld.org/parameters/53,hapa,"soul, spirit"
+226-845,zuni1245,http://concepticon.clld.org/parameters/1572,yučiʔa-,"surprised, astonished"
+226-808,zuni1245,http://concepticon.clld.org/parameters/720,ʔanikčiya-,"good fortune, luck"
+226-485,zuni1245,http://concepticon.clld.org/parameters/1495,kˀʸec̷c̷ana-,"joyful, glad, happy"
+226-29,zuni1245,http://concepticon.clld.org/parameters/1355,šikʷi-,laugh
+226-29,zuni1245,http://concepticon.clld.org/parameters/1451,šikʷi-,smile
+226-50,zuni1245,http://concepticon.clld.org/parameters/1413,ʔikˀoša-,play
+226-834,zuni1245,http://concepticon.clld.org/parameters/923,ʔičema-,love
+226-166,zuni1245,http://concepticon.clld.org/parameters/578,c̷ˀupɬi-,kiss
+226-713,zuni1245,http://concepticon.clld.org/parameters/928,kˀʸeškʷi-,embrace
+226-250,zuni1245,http://concepticon.clld.org/parameters/1783,ʔuwe-,pain
+226-842,zuni1245,http://concepticon.clld.org/parameters/1000,c̷eʔma-,"anxiety, worry"
+226-681,zuni1245,http://concepticon.clld.org/parameters/1141,ʔankoʔhati-,pity
+226-609,zuni1245,http://concepticon.clld.org/parameters/1839,tuwowokˀʸa-,"cry, weep"
+226-810,zuni1245,http://concepticon.clld.org/parameters/716,yuɬamiččo-,groan
+226-841,zuni1245,http://concepticon.clld.org/parameters/1607,ʔayyukˀʸaɬi-,hate
+226-525,zuni1245,http://concepticon.clld.org/parameters/82,ʔikʸa-,anger
+226-389,zuni1245,http://concepticon.clld.org/parameters/40,ʔočoma,"envy, jealousy"
+226-361,zuni1245,http://concepticon.clld.org/parameters/174,ʔanc̷ʔuhma-,proud
+226-204,zuni1245,http://concepticon.clld.org/parameters/1779,ʔeɬʔe-,dare
+226-722,zuni1245,http://concepticon.clld.org/parameters/3,yoc̷c̷ikkˀʸa-,brave
+226-649,zuni1245,http://concepticon.clld.org/parameters/781,ʔattana-,"fear, fright"
+226-756,zuni1245,http://concepticon.clld.org/parameters/1810,ʔattanni-,danger
+226-135,zuni1245,http://concepticon.clld.org/parameters/1784,ʔalima-,"desire, want"
+226-387,zuni1245,http://concepticon.clld.org/parameters/1750,ʔakšiha-,choose
+226-650,zuni1245,http://concepticon.clld.org/parameters/1657,ʔelleya,true
+226-174,zuni1245,http://concepticon.clld.org/parameters/601,yosēwe,"lie, tell lies"
+226-491,zuni1245,http://concepticon.clld.org/parameters/601,yosekˀʸē-,"lie, tell lies"
+226-273,zuni1245,http://concepticon.clld.org/parameters/1035,kˀokši-,good
+226-505,zuni1245,http://concepticon.clld.org/parameters/1292,poča-,bad
+226-153,zuni1245,http://concepticon.clld.org/parameters/1725,lesnu-,"right, correct"
+226-332,zuni1245,http://concepticon.clld.org/parameters/1390,tekˀʸayaɬaʔu-,wrong
+226-708,zuni1245,http://concepticon.clld.org/parameters/134,c̷eʔmakʷinnakʸa,fault
+226-338,zuni1245,http://concepticon.clld.org/parameters/1293,koʔti-lewu-,"mistake, error"
+226-503,zuni1245,http://concepticon.clld.org/parameters/381,ʔahkˀʸa-,blame
+226-281,zuni1245,http://concepticon.clld.org/parameters/1427,c̷oʔya-,beautiful
+226-789,zuni1245,http://concepticon.clld.org/parameters/1548,ʔayyac̷a-,ugly
+226-842,zuni1245,http://concepticon.clld.org/parameters/1415,c̷eʔma-,think (= reflect)
+226-842,zuni1245,http://concepticon.clld.org/parameters/1513,c̷eʔma-,think (= be of the opinion)
+226-293,zuni1245,http://concepticon.clld.org/parameters/1890,ʔiɬtema-,believe
+226-178,zuni1245,http://concepticon.clld.org/parameters/1536,yuʔhētu-,understand
+226-500,zuni1245,http://concepticon.clld.org/parameters/1410,ʔanikʷa-,know
+226-46,zuni1245,http://concepticon.clld.org/parameters/1410,ʔannapi-,know
+226-568,zuni1245,http://concepticon.clld.org/parameters/1932,ʔanʔawa-,guess
+226-577,zuni1245,http://concepticon.clld.org/parameters/117,kˀʸeya-,imitate
+226-274,zuni1245,http://concepticon.clld.org/parameters/698,yayyuʔyāna-,wise
+226-382,zuni1245,http://concepticon.clld.org/parameters/1518,yayyuʔyānʔamme-,"foolish, stupid"
+226-707,zuni1245,http://concepticon.clld.org/parameters/1899,wiʔwi-,"insane, crazy"
+226-124,zuni1245,http://concepticon.clld.org/parameters/504,yanikʷati-,learn
+226-657,zuni1245,http://concepticon.clld.org/parameters/709,ʔanikkˀʸa-,teach
+226-419,zuni1245,http://concepticon.clld.org/parameters/1038,c̷ˀinā yanikkˀʸēnona,teacher
+226-568,zuni1245,http://concepticon.clld.org/parameters/707,ʔanʔawa-,remember
+226-435,zuni1245,http://concepticon.clld.org/parameters/1523,tommiyo-,forget
+226-398,zuni1245,http://concepticon.clld.org/parameters/1523,tettomāyo-,forget
+226-650,zuni1245,http://concepticon.clld.org/parameters/509,ʔelleya,"sure, certain"
+226-437,zuni1245,http://concepticon.clld.org/parameters/584,teni-,difficult
+226-61,zuni1245,http://concepticon.clld.org/parameters/1812,ʔiteʔču-,"try, attempt"
+226-820,zuni1245,http://concepticon.clld.org/parameters/1577,tāp,and
+226-425,zuni1245,http://concepticon.clld.org/parameters/1577,s(i),and
+226-427,zuni1245,http://concepticon.clld.org/parameters/1157,ʔakkʸa,because
+226-313,zuni1245,http://concepticon.clld.org/parameters/1459,čiš,if
+226-584,zuni1245,http://concepticon.clld.org/parameters/1014,hapiš,or
+226-372,zuni1245,http://concepticon.clld.org/parameters/1268,hayi,"yes, affirmative"
+226-90,zuni1245,http://concepticon.clld.org/parameters/1268,ʔe,"yes, affirmative"
+226-188,zuni1245,http://concepticon.clld.org/parameters/1269,ʔeɬɬa,"no, negative"
+226-305,zuni1245,http://concepticon.clld.org/parameters/1239,koʔpi,how?
+226-110,zuni1245,http://concepticon.clld.org/parameters/1239,koppi,how?
+226-560,zuni1245,http://concepticon.clld.org/parameters/822,kōwiʔpi,how many?
+226-560,zuni1245,http://concepticon.clld.org/parameters/531,kōwiʔpi,how much?
+226-305,zuni1245,http://concepticon.clld.org/parameters/1236,koʔpi,what?
+226-110,zuni1245,http://concepticon.clld.org/parameters/1236,koppi,what?
+226-585,zuni1245,http://concepticon.clld.org/parameters/1238,kʸākˀʸipi,when?
+226-663,zuni1245,http://concepticon.clld.org/parameters/1237,hoppi,where?
+226-662,zuni1245,http://concepticon.clld.org/parameters/727,hokˀʸampi,which?
+226-238,zuni1245,http://concepticon.clld.org/parameters/1235,čuwapi,who?
+226-92,zuni1245,http://concepticon.clld.org/parameters/1270,kop lāti,why?
+226-611,zuni1245,http://concepticon.clld.org/parameters/1363,pe-na-,voice
+226-598,zuni1245,http://concepticon.clld.org/parameters/1261,tenʔu-,sing
+226-298,zuni1245,http://concepticon.clld.org/parameters/715,weʔa-,"shout, cry out"
+226-235,zuni1245,http://concepticon.clld.org/parameters/55,šakʷakʷa-,whisper
+226-326,zuni1245,http://concepticon.clld.org/parameters/128,ʔumumu-,mumble
+226-774,zuni1245,http://concepticon.clld.org/parameters/1025,saʔsa-,whistle
+226-591,zuni1245,http://concepticon.clld.org/parameters/298,čʔewowo-,"shriek, screech"
+226-609,zuni1245,http://concepticon.clld.org/parameters/526,tuwowokˀʸa-,howl
+226-290,zuni1245,http://concepticon.clld.org/parameters/1623,pen-,"speak, talk"
+226-674,zuni1245,http://concepticon.clld.org/parameters/1866,pen ʔīnē-,"stutter, stammer"
+226-863,zuni1245,http://concepticon.clld.org/parameters/1458,ʔikʷa-,say
+226-373,zuni1245,http://concepticon.clld.org/parameters/1711,ʔatinē-,tell story
+226-157,zuni1245,http://concepticon.clld.org/parameters/48,telokkˀʸana-,silent (be)
+226-779,zuni1245,http://concepticon.clld.org/parameters/1599,pena-,word
+226-557,zuni1245,http://concepticon.clld.org/parameters/1405,šiʔi-,name
+226-760,zuni1245,http://concepticon.clld.org/parameters/1309,yaɬa-,"ask (question, inquire)"
+226-125,zuni1245,http://concepticon.clld.org/parameters/1275,ʔansewahkˀʸa-,answer
+226-105,zuni1245,http://concepticon.clld.org/parameters/2022,moɬaʔpen-,"admit, confess"
+226-771,zuni1245,http://concepticon.clld.org/parameters/755,yalih-,deny
+226-234,zuni1245,http://concepticon.clld.org/parameters/755,yališ-,deny
+226-49,zuni1245,http://concepticon.clld.org/parameters/1828,hakkˀʸa-,"ask, request"
+226-97,zuni1245,http://concepticon.clld.org/parameters/1675,ʔeletoknaʔ haytoš-,promise
+226-576,zuni1245,http://concepticon.clld.org/parameters/83,ʔipanaye,forbid
+226-8,zuni1245,http://concepticon.clld.org/parameters/83,ʔayyutenkʸa,forbid
+226-132,zuni1245,http://concepticon.clld.org/parameters/299,ʔan-hemmo-ti-,"rebuke, scold"
+226-275,zuni1245,http://concepticon.clld.org/parameters/299,ʔinapē-,"rebuke, scold"
+226-645,zuni1245,http://concepticon.clld.org/parameters/1084,šema-,call (=summon)
+226-620,zuni1245,http://concepticon.clld.org/parameters/9,weʔaččoy-,announce
+226-520,zuni1245,http://concepticon.clld.org/parameters/648,c̷ˀina-,paper
+226-140,zuni1245,http://concepticon.clld.org/parameters/777,pūpu-na-,flute
+226-21,zuni1245,http://concepticon.clld.org/parameters/908,tomtona-,drum
+226-715,zuni1245,http://concepticon.clld.org/parameters/2136,pūpuna-,"horn, trumpet"
+226-775,zuni1245,http://concepticon.clld.org/parameters/300,c̷iʔmo-,rattle
+226-802,zuni1245,http://concepticon.clld.org/parameters/1300,ʔulohna-,country
+226-245,zuni1245,http://concepticon.clld.org/parameters/1010,paɬto-,boundary
+226-718,zuni1245,http://concepticon.clld.org/parameters/302,ʔannoti-,"tribe, clan"
+226-407,zuni1245,http://concepticon.clld.org/parameters/301,ʔanʔuɬɬa mossʔona,"chief, chieftain"
+226-62,zuni1245,http://concepticon.clld.org/parameters/301,tāpūpu,"chief, chieftain"
+226-786,zuni1245,http://concepticon.clld.org/parameters/1296,tamteɬna-,"staff, walking stick"
+226-529,zuni1245,http://concepticon.clld.org/parameters/812,wo-,slave
+226-529,zuni1245,http://concepticon.clld.org/parameters/255,wo-,servant
+226-345,zuni1245,http://concepticon.clld.org/parameters/1635,hatiyāw-,obey
+226-33,zuni1245,http://concepticon.clld.org/parameters/1003,ʔansewaha-,"let, permit"
+226-801,zuni1245,http://concepticon.clld.org/parameters/1325,kuwaye,"friend, companion"
+226-289,zuni1245,http://concepticon.clld.org/parameters/1358,ʔinākʷe,enemy
+226-350,zuni1245,http://concepticon.clld.org/parameters/791,čuhoɬti-,stranger
+226-836,zuni1245,http://concepticon.clld.org/parameters/1897,ʔansatto-,"help, aid"
+226-321,zuni1245,http://concepticon.clld.org/parameters/1747,haytošnāwe,custom
+226-2,zuni1245,http://concepticon.clld.org/parameters/1848,ʔīyanapē-,"strife, quarrel"
+226-864,zuni1245,http://concepticon.clld.org/parameters/1848,ʔīwolē-,"strife, quarrel"
+226-225,zuni1245,http://concepticon.clld.org/parameters/1941,sontālīkʷe,soldier
+226-103,zuni1245,http://concepticon.clld.org/parameters/1941,sontālu,soldier
+226-258,zuni1245,http://concepticon.clld.org/parameters/994,piʔɬa-,bow
+226-824,zuni1245,http://concepticon.clld.org/parameters/977,šo-,arrow
+226-394,zuni1245,http://concepticon.clld.org/parameters/945,lansa,spear
+226-439,zuni1245,http://concepticon.clld.org/parameters/1566,towoʔʔana-,"gun, cannon"
+226-501,zuni1245,http://concepticon.clld.org/parameters/1064,ʔalla-,shield
+226-629,zuni1245,http://concepticon.clld.org/parameters/1072,yatenaʔkʸan ʔuččukˀona,"captive, prisoner"
+226-529,zuni1245,http://concepticon.clld.org/parameters/1072,wo-,"captive, prisoner"
+226-749,zuni1245,http://concepticon.clld.org/parameters/1940,yupačˀona,"guard, sentinel"
+226-403,zuni1245,http://concepticon.clld.org/parameters/1858,wopkˀʸališēnʔona,fisherman
+226-474,zuni1245,http://concepticon.clld.org/parameters/1074,kˀʸaššitokkʸa niʔc̷ˀikˀo-,fishhook
+226-80,zuni1245,http://concepticon.clld.org/parameters/1435,ɬata-,hunt
+226-73,zuni1245,http://concepticon.clld.org/parameters/1172,ɬaku-,shoot
+226-784,zuni1245,http://concepticon.clld.org/parameters/1172,towo-,shoot
+226-809,zuni1245,http://concepticon.clld.org/parameters/1068,koɬta,court
+226-320,zuni1245,http://concepticon.clld.org/parameters/1144,ʔayyuʔyānākʷe,witness
+226-126,zuni1245,http://concepticon.clld.org/parameters/1281,ʔučču-,"prison, jail"
+226-378,zuni1245,http://concepticon.clld.org/parameters/902,ʔoyemšišē-,adultery
+226-325,zuni1245,http://concepticon.clld.org/parameters/713,hanɬi-,steal
+226-787,zuni1245,http://concepticon.clld.org/parameters/1160,kʷaʔaɬ hanɬi-n-ʔona,thief
+226-690,zuni1245,http://concepticon.clld.org/parameters/661,tewusuʔ,religion
+226-442,zuni1245,http://concepticon.clld.org/parameters/853,teškʷi-,altar
+226-421,zuni1245,http://concepticon.clld.org/parameters/1103,tahakʸīwe,"sacrifice, offering"
+226-643,zuni1245,http://concepticon.clld.org/parameters/24,tewusukkˀʸa-,pray
+226-431,zuni1245,http://concepticon.clld.org/parameters/852,šiwani,priest
+226-554,zuni1245,http://concepticon.clld.org/parameters/852,kʸanamme,priest
+226-254,zuni1245,http://concepticon.clld.org/parameters/852,tutac̷c̷i,priest
+226-329,zuni1245,http://concepticon.clld.org/parameters/391,ʔantewusukˀʸa-,bless
+226-442,zuni1245,http://concepticon.clld.org/parameters/303,teškʷi-,fast (vb)
+226-365,zuni1245,http://concepticon.clld.org/parameters/2137,haɬikʷi,"sorcerer, witch"
+226-339,zuni1245,http://concepticon.clld.org/parameters/2137,ʔoheppo-,"sorcerer, witch"
+226-763,zuni1245,http://concepticon.clld.org/parameters/1175,hapa,"ghost, phantom"
+226-537,zuni1245,http://concepticon.clld.org/parameters/107,ʔattanni,"omen, portent"

@@ -1,0 +1,1603 @@
+ID,Language_ID,Feature_ID,Value,Concept
+707-92,west2386,http://concepticon.clld.org/parameters/965,jahāna,world
+707-36,west2386,http://concepticon.clld.org/parameters/965,duniyā,world
+707-136,west2386,http://concepticon.clld.org/parameters/626,jamīna,"earth, land"
+707-968,west2386,http://concepticon.clld.org/parameters/626,dharatī,"earth, land"
+707-1027,west2386,http://concepticon.clld.org/parameters/626,bhūmī,"earth, land"
+707-448,west2386,http://concepticon.clld.org/parameters/1228,miṭī,"earth=ground, soil"
+707-448,west2386,http://concepticon.clld.org/parameters/2,miṭī,dust
+707-6,west2386,http://concepticon.clld.org/parameters/2,khāka,dust
+707-448,west2386,http://concepticon.clld.org/parameters/640,miṭī,mud
+707-469,west2386,http://concepticon.clld.org/parameters/640,chikaṛa,mud
+707-889,west2386,http://concepticon.clld.org/parameters/640,kicaṛa,mud
+707-456,west2386,http://concepticon.clld.org/parameters/671,rēta,sand
+707-272,west2386,http://concepticon.clld.org/parameters/671,bālū,sand
+707-960,west2386,http://concepticon.clld.org/parameters/2118,parabata,"mountain, hill"
+707-930,west2386,http://concepticon.clld.org/parameters/2118,pahāṛa,"mountain, hill"
+707-727,west2386,http://concepticon.clld.org/parameters/2118,pahāṛī,"mountain, hill"
+707-797,west2386,http://concepticon.clld.org/parameters/618,caṭāna,"cliff, precipice"
+707-1324,west2386,http://concepticon.clld.org/parameters/652,maidāna,"plain, field"
+707-1371,west2386,http://concepticon.clld.org/parameters/921,vādī,valley
+707-400,west2386,http://concepticon.clld.org/parameters/921,ghāṭī,valley
+707-726,west2386,http://concepticon.clld.org/parameters/622,dīpa,island
+707-255,west2386,http://concepticon.clld.org/parameters/622,ṭāpū,island
+707-1313,west2386,http://concepticon.clld.org/parameters/113,kinārā,shore
+707-225,west2386,http://concepticon.clld.org/parameters/113,tīra,shore
+707-1475,west2386,http://concepticon.clld.org/parameters/1155,gufā,cave
+707-598,west2386,http://concepticon.clld.org/parameters/948,pāṇī,water
+707-116,west2386,http://concepticon.clld.org/parameters/948,jala,water
+707-819,west2386,http://concepticon.clld.org/parameters/1474,sāgara,sea
+707-42,west2386,http://concepticon.clld.org/parameters/1474,samudara,sea
+707-3,west2386,http://concepticon.clld.org/parameters/1474,samundara,sea
+707-1490,west2386,http://concepticon.clld.org/parameters/258,sakūna,calm (of sea)
+707-1160,west2386,http://concepticon.clld.org/parameters/259,rollā,rough (of sea)
+707-307,west2386,http://concepticon.clld.org/parameters/1768,jhaga,foam
+707-1242,west2386,http://concepticon.clld.org/parameters/1768,caga,foam
+707-540,west2386,http://concepticon.clld.org/parameters/645,mahāsāgara,ocean
+707-524,west2386,http://concepticon.clld.org/parameters/624,jhīla,lake
+707-1173,west2386,http://concepticon.clld.org/parameters/624,nālā,lake
+707-182,west2386,http://concepticon.clld.org/parameters/663,khāṛī,"gulf, bay"
+707-524,west2386,http://concepticon.clld.org/parameters/623,jhīla,lagoon
+707-361,west2386,http://concepticon.clld.org/parameters/978,lahara,wave
+707-1268,west2386,http://concepticon.clld.org/parameters/666,nadī,"river, stream, brook"
+707-806,west2386,http://concepticon.clld.org/parameters/666,dariā,"river, stream, brook"
+707-756,west2386,http://concepticon.clld.org/parameters/1982,bhavara,whirlpool
+707-1483,west2386,http://concepticon.clld.org/parameters/1982,cakarī,whirlpool
+707-174,west2386,http://concepticon.clld.org/parameters/2144,jharanā,"spring, well"
+707-368,west2386,http://concepticon.clld.org/parameters/2144,khu,"spring, well"
+707-1020,west2386,http://concepticon.clld.org/parameters/1145,daladala,swamp
+707-174,west2386,http://concepticon.clld.org/parameters/943,jharanā,waterfall
+707-1014,west2386,http://concepticon.clld.org/parameters/943,caśmā,waterfall
+707-125,west2386,http://concepticon.clld.org/parameters/420,vaṇa,"woods, forest"
+707-343,west2386,http://concepticon.clld.org/parameters/420,baṇa,"woods, forest"
+707-1079,west2386,http://concepticon.clld.org/parameters/420,jaṅgal,"woods, forest"
+707-135,west2386,http://concepticon.clld.org/parameters/1803,lakaṛī,wood
+707-838,west2386,http://concepticon.clld.org/parameters/2125,pathara,"stone, rock"
+707-839,west2386,http://concepticon.clld.org/parameters/2125,vajara,"stone, rock"
+707-160,west2386,http://concepticon.clld.org/parameters/2125,vaṭṭā,"stone, rock"
+707-528,west2386,http://concepticon.clld.org/parameters/6,bhucāla,earthquake
+707-228,west2386,http://concepticon.clld.org/parameters/6,pucāla,earthquake
+707-1458,west2386,http://concepticon.clld.org/parameters/1732,asamāna,sky
+707-301,west2386,http://concepticon.clld.org/parameters/1732,ākāśa,sky
+707-288,west2386,http://concepticon.clld.org/parameters/1343,sūraja,sun
+707-267,west2386,http://concepticon.clld.org/parameters/1313,cana,moon
+707-194,west2386,http://concepticon.clld.org/parameters/1313,candaramā,moon
+707-169,west2386,http://concepticon.clld.org/parameters/1430,tārā,star
+707-654,west2386,http://concepticon.clld.org/parameters/1430,sitārā,star
+707-938,west2386,http://concepticon.clld.org/parameters/1654,bijalī,lightning
+707-376,west2386,http://concepticon.clld.org/parameters/1654,rośanī,lightning
+707-650,west2386,http://concepticon.clld.org/parameters/1150,gūnja,thunder
+707-396,west2386,http://concepticon.clld.org/parameters/858,tūfāna,storm
+707-739,west2386,http://concepticon.clld.org/parameters/858,neri,storm
+707-80,west2386,http://concepticon.clld.org/parameters/1733,pīṅgha,rainbow
+707-659,west2386,http://concepticon.clld.org/parameters/630,parakāśa,light (noun)
+707-1365,west2386,http://concepticon.clld.org/parameters/630,jōtī,light (noun)
+707-1034,west2386,http://concepticon.clld.org/parameters/11,anhērī,darkness
+707-902,west2386,http://concepticon.clld.org/parameters/11,handherā,darkness
+707-710,west2386,http://concepticon.clld.org/parameters/11,nerā,darkness
+707-1327,west2386,http://concepticon.clld.org/parameters/1388,sāyā,"shade, shadow"
+707-800,west2386,http://concepticon.clld.org/parameters/1388,chāyiyā,"shade, shadow"
+707-681,west2386,http://concepticon.clld.org/parameters/1977,ōsa,dew
+707-185,west2386,http://concepticon.clld.org/parameters/1977,trela,dew
+707-1266,west2386,http://concepticon.clld.org/parameters/27,havā,air
+707-23,west2386,http://concepticon.clld.org/parameters/27,pavana,air
+707-1266,west2386,http://concepticon.clld.org/parameters/960,havā,wind
+707-725,west2386,http://concepticon.clld.org/parameters/1489,badala,cloud
+707-1411,west2386,http://concepticon.clld.org/parameters/249,tunda,fog
+707-132,west2386,http://concepticon.clld.org/parameters/249,dhunda,fog
+707-106,west2386,http://concepticon.clld.org/parameters/658,varakhā,rain (noun)
+707-33,west2386,http://concepticon.clld.org/parameters/658,bāraśa,rain (noun)
+707-1386,west2386,http://concepticon.clld.org/parameters/658,barasāta,rain (noun)
+707-543,west2386,http://concepticon.clld.org/parameters/784,barafa,snow (noun)
+707-543,west2386,http://concepticon.clld.org/parameters/617,barafa,ice
+707-1208,west2386,http://concepticon.clld.org/parameters/952,mausama,weather
+707-1126,west2386,http://concepticon.clld.org/parameters/221,aga,fire
+707-387,west2386,http://concepticon.clld.org/parameters/221,javālā,fire
+707-1126,west2386,http://concepticon.clld.org/parameters/889,aga,flame (noun)
+707-387,west2386,http://concepticon.clld.org/parameters/889,javālā,flame (noun)
+707-1178,west2386,http://concepticon.clld.org/parameters/889,bhambara,flame (noun)
+707-1375,west2386,http://concepticon.clld.org/parameters/778,dhūāṁ,smoke (noun)
+707-986,west2386,http://concepticon.clld.org/parameters/646,bhasama,ashes
+707-880,west2386,http://concepticon.clld.org/parameters/646,rakha,ashes
+707-306,west2386,http://concepticon.clld.org/parameters/646,sava,ashes
+707-1130,west2386,http://concepticon.clld.org/parameters/67,aṅgāre,embers
+707-309,west2386,http://concepticon.clld.org/parameters/141,jalāṇā,burn (vb trans)
+707-560,west2386,http://concepticon.clld.org/parameters/1428,jalaṇā,burn (vb intrans)
+707-309,west2386,http://concepticon.clld.org/parameters/737,jalāṇā,"light, kindle, ignite"
+707-81,west2386,http://concepticon.clld.org/parameters/127,bhujānā,extinguish
+707-211,west2386,http://concepticon.clld.org/parameters/1133,mācisa,match (noun)
+707-135,west2386,http://concepticon.clld.org/parameters/10,lakaṛī,firewood
+707-173,west2386,http://concepticon.clld.org/parameters/10,lakaṛa,firewood
+707-351,west2386,http://concepticon.clld.org/parameters/683,bandā,"person, human being"
+707-1007,west2386,http://concepticon.clld.org/parameters/1554,marada,man (vs. woman)
+707-946,west2386,http://concepticon.clld.org/parameters/1554,ādamī,man (vs. woman)
+707-1440,west2386,http://concepticon.clld.org/parameters/1554,jaṇā,man (vs. woman)
+707-1105,west2386,http://concepticon.clld.org/parameters/962,aurata,woman
+707-785,west2386,http://concepticon.clld.org/parameters/962,janānī,woman
+707-1402,west2386,http://concepticon.clld.org/parameters/2263,purakha,male
+707-1007,west2386,http://concepticon.clld.org/parameters/2263,marada,male
+707-1142,west2386,http://concepticon.clld.org/parameters/2263,puraśa,male
+707-850,west2386,http://concepticon.clld.org/parameters/2260,mādā,female
+707-1272,west2386,http://concepticon.clld.org/parameters/2260,mahilā,female
+707-257,west2386,http://concepticon.clld.org/parameters/1366,laṛakā,boy
+707-342,west2386,http://concepticon.clld.org/parameters/1366,munḍā,boy
+707-1271,west2386,http://concepticon.clld.org/parameters/1366,jataka,boy
+707-1100,west2386,http://concepticon.clld.org/parameters/1366,chorā,boy
+707-670,west2386,http://concepticon.clld.org/parameters/76,javāna,young man (adolescent)
+707-582,west2386,http://concepticon.clld.org/parameters/1646,kumārī,girl
+707-485,west2386,http://concepticon.clld.org/parameters/1646,kuṛī,girl
+707-264,west2386,http://concepticon.clld.org/parameters/1646,laṛakī,girl
+707-1315,west2386,http://concepticon.clld.org/parameters/1304,bāla,child
+707-231,west2386,http://concepticon.clld.org/parameters/1304,baccā,child
+707-231,west2386,http://concepticon.clld.org/parameters/1289,baccā,"infant, baby"
+707-1315,west2386,http://concepticon.clld.org/parameters/1289,bāla,"infant, baby"
+707-65,west2386,http://concepticon.clld.org/parameters/1200,patī,husband
+707-1451,west2386,http://concepticon.clld.org/parameters/1200,khasama,husband
+707-1204,west2386,http://concepticon.clld.org/parameters/1200,admī,husband
+707-1105,west2386,http://concepticon.clld.org/parameters/1199,aurata,wife
+707-827,west2386,http://concepticon.clld.org/parameters/1199,bīvī,wife
+707-112,west2386,http://concepticon.clld.org/parameters/1199,voṭī,wife
+707-596,west2386,http://concepticon.clld.org/parameters/203,vihāyuṇā,marry
+707-607,west2386,http://concepticon.clld.org/parameters/1259,śādī,"marriage, wedding"
+707-570,west2386,http://concepticon.clld.org/parameters/1259,vyāha,"marriage, wedding"
+707-302,west2386,http://concepticon.clld.org/parameters/1134,talāka,divorce
+707-303,west2386,http://concepticon.clld.org/parameters/1134,likhata,divorce
+707-1124,west2386,http://concepticon.clld.org/parameters/1217,bāpa,father
+707-62,west2386,http://concepticon.clld.org/parameters/1217,pitā,father
+707-1468,west2386,http://concepticon.clld.org/parameters/1217,pio,father
+707-686,west2386,http://concepticon.clld.org/parameters/1216,mātā,mother
+707-547,west2386,http://concepticon.clld.org/parameters/1216,ammā,mother
+707-1301,west2386,http://concepticon.clld.org/parameters/1216,māyī,mother
+707-483,west2386,http://concepticon.clld.org/parameters/505,mātā-pitā,parents
+707-315,west2386,http://concepticon.clld.org/parameters/505,māṁ-bāpa,parents
+707-1423,west2386,http://concepticon.clld.org/parameters/505,māṁ-pio,parents
+707-256,west2386,http://concepticon.clld.org/parameters/424,viāyā,married man
+707-1387,west2386,http://concepticon.clld.org/parameters/426,vieyā,married woman
+707-760,west2386,http://concepticon.clld.org/parameters/1620,bēṭā,son
+707-1346,west2386,http://concepticon.clld.org/parameters/1620,puttara,son
+707-202,west2386,http://concepticon.clld.org/parameters/1620,putā,son
+707-290,west2386,http://concepticon.clld.org/parameters/1620,betā,son
+707-1032,west2386,http://concepticon.clld.org/parameters/1357,guḍī,daughter
+707-769,west2386,http://concepticon.clld.org/parameters/1357,bēṭī,daughter
+707-236,west2386,http://concepticon.clld.org/parameters/1357,dhī,daughter
+707-464,west2386,http://concepticon.clld.org/parameters/1357,larkī,daughter
+707-901,west2386,http://concepticon.clld.org/parameters/1357,chokrī,daughter
+707-179,west2386,http://concepticon.clld.org/parameters/1801,bacā,offspring (son or daughter)
+707-1053,west2386,http://concepticon.clld.org/parameters/1801,balaka,offspring (son or daughter)
+707-1315,west2386,http://concepticon.clld.org/parameters/1801,bāla,offspring (son or daughter)
+707-1297,west2386,http://concepticon.clld.org/parameters/1262,bharā prā,brother
+707-32,west2386,http://concepticon.clld.org/parameters/1262,bhāyī,brother
+707-1334,west2386,http://concepticon.clld.org/parameters/1759,vaḍērā pāī,older brother
+707-1344,west2386,http://concepticon.clld.org/parameters/1759,vīra,older brother
+707-1318,west2386,http://concepticon.clld.org/parameters/1760,nikka prā,younger brother
+707-1035,west2386,http://concepticon.clld.org/parameters/1263,bhaiṇa,sister
+707-738,west2386,http://concepticon.clld.org/parameters/1263,paiṇa,sister
+707-1378,west2386,http://concepticon.clld.org/parameters/1758,vaḍērī bhaiṇa,older sister
+707-525,west2386,http://concepticon.clld.org/parameters/1758,vaḍērī paiṇa,older sister
+707-68,west2386,http://concepticon.clld.org/parameters/1761,chuṭērī bhaiṇa,younger sister
+707-1259,west2386,http://concepticon.clld.org/parameters/1761,nikkī paiṇa,younger sister
+707-627,west2386,http://concepticon.clld.org/parameters/1005,jhuṛā,twins
+707-412,west2386,http://concepticon.clld.org/parameters/1383,nānā,grandfather
+707-657,west2386,http://concepticon.clld.org/parameters/1383,dādā,grandfather
+707-51,west2386,http://concepticon.clld.org/parameters/406,bābā,old man
+707-508,west2386,http://concepticon.clld.org/parameters/406,buḍṛā,old man
+707-145,west2386,http://concepticon.clld.org/parameters/1496,dādī,grandmother
+707-407,west2386,http://concepticon.clld.org/parameters/1496,nānī,grandmother
+707-1152,west2386,http://concepticon.clld.org/parameters/907,buḍḍhī,old woman
+707-1211,west2386,http://concepticon.clld.org/parameters/907,māyī,old woman
+707-1156,west2386,http://concepticon.clld.org/parameters/1618,pōtā,grandson
+707-617,west2386,http://concepticon.clld.org/parameters/1618,potrā,grandson
+707-462,west2386,http://concepticon.clld.org/parameters/1618,dotrā,grandson
+707-1193,west2386,http://concepticon.clld.org/parameters/1619,pōtī,granddaughter
+707-188,west2386,http://concepticon.clld.org/parameters/1619,dotī,granddaughter
+707-467,west2386,http://concepticon.clld.org/parameters/1619,dotrī,granddaughter
+707-324,west2386,http://concepticon.clld.org/parameters/1327,māmā,uncle
+707-565,west2386,http://concepticon.clld.org/parameters/1327,cācā,uncle
+707-203,west2386,http://concepticon.clld.org/parameters/1327,tāyā,uncle
+707-324,west2386,http://concepticon.clld.org/parameters/1984,māmā,mother's brother
+707-1243,west2386,http://concepticon.clld.org/parameters/1984,māmū,mother's brother
+707-565,west2386,http://concepticon.clld.org/parameters/1985,cācā,father's brother
+707-203,west2386,http://concepticon.clld.org/parameters/1985,tāyā,father's brother
+707-1350,west2386,http://concepticon.clld.org/parameters/1272,phophi,aunt
+707-699,west2386,http://concepticon.clld.org/parameters/1272,bhūyā,aunt
+707-123,west2386,http://concepticon.clld.org/parameters/1272,māsī,aunt
+707-123,west2386,http://concepticon.clld.org/parameters/171,māsī,mother's sister
+707-1350,west2386,http://concepticon.clld.org/parameters/170,phophi,father's sister
+707-699,west2386,http://concepticon.clld.org/parameters/170,bhūyā,father's sister
+707-1236,west2386,http://concepticon.clld.org/parameters/1063,bhatījā,nephew
+707-780,west2386,http://concepticon.clld.org/parameters/1063,patijā,nephew
+707-573,west2386,http://concepticon.clld.org/parameters/1063,pānjā,nephew
+707-1247,west2386,http://concepticon.clld.org/parameters/1642,bhatījī,niece
+707-773,west2386,http://concepticon.clld.org/parameters/1642,patijī,niece
+707-566,west2386,http://concepticon.clld.org/parameters/1642,pānjī,niece
+707-1388,west2386,http://concepticon.clld.org/parameters/1643,masera (bhāi),cousin
+707-1270,west2386,http://concepticon.clld.org/parameters/1643,phophera (bhāi),cousin
+707-263,west2386,http://concepticon.clld.org/parameters/1643,cacera (bhāi),cousin
+707-171,west2386,http://concepticon.clld.org/parameters/1669,āl,ancestors
+707-1363,west2386,http://concepticon.clld.org/parameters/1669,vaḍḍavaḍere,ancestors
+707-98,west2386,http://concepticon.clld.org/parameters/490,vārasa,descendants
+707-970,west2386,http://concepticon.clld.org/parameters/490,āla,descendants
+707-1135,west2386,http://concepticon.clld.org/parameters/2255,sorā,father-in-law (of a man)
+707-1135,west2386,http://concepticon.clld.org/parameters/2254,sorā,father-in-law (of a woman)
+707-1486,west2386,http://concepticon.clld.org/parameters/2256,sasa,mother-in-law (of a man)
+707-1486,west2386,http://concepticon.clld.org/parameters/2257,sasa,mother-in-law (of a woman)
+707-1131,west2386,http://concepticon.clld.org/parameters/2267,damāda,son-in-law (of a man)
+707-1353,west2386,http://concepticon.clld.org/parameters/2267,javāy'ī,son-in-law (of a man)
+707-1131,west2386,http://concepticon.clld.org/parameters/2266,damāda,son-in-law (of a woman)
+707-186,west2386,http://concepticon.clld.org/parameters/2266,javā'yī,son-in-law (of a woman)
+707-384,west2386,http://concepticon.clld.org/parameters/2265,bahū,daughter-in-law (of a man)
+707-177,west2386,http://concepticon.clld.org/parameters/2265,nūha,daughter-in-law (of a man)
+707-384,west2386,http://concepticon.clld.org/parameters/2264,bahū,daughter-in-law (of a woman)
+707-177,west2386,http://concepticon.clld.org/parameters/2264,nūha,daughter-in-law (of a woman)
+707-91,west2386,http://concepticon.clld.org/parameters/237,matareya pio,stepfather
+707-103,west2386,http://concepticon.clld.org/parameters/1059,matareya puttara,stepson
+707-890,west2386,http://concepticon.clld.org/parameters/1149,anātha,orphan
+707-820,west2386,http://concepticon.clld.org/parameters/1149,yatīma,orphan
+707-761,west2386,http://concepticon.clld.org/parameters/1756,vidhavā,widow
+707-1149,west2386,http://concepticon.clld.org/parameters/1756,ranḍī,widow
+707-810,west2386,http://concepticon.clld.org/parameters/1756,bevā,widow
+707-119,west2386,http://concepticon.clld.org/parameters/1981,raḍā,widower
+707-477,west2386,http://concepticon.clld.org/parameters/1981,ranḍā,widower
+707-1413,west2386,http://concepticon.clld.org/parameters/1981,ranḍua,widower
+707-980,west2386,http://concepticon.clld.org/parameters/1644,riśatēdāra,"relatives, kinsmen"
+707-1397,west2386,http://concepticon.clld.org/parameters/1644,sāka,"relatives, kinsmen"
+707-78,west2386,http://concepticon.clld.org/parameters/194,khānadāna,family
+707-786,west2386,http://concepticon.clld.org/parameters/194,parivāra,family
+707-494,west2386,http://concepticon.clld.org/parameters/194,ṭabbara,family
+707-926,west2386,http://concepticon.clld.org/parameters/1209,maiṁ,I
+707-809,west2386,http://concepticon.clld.org/parameters/1215,tū,you (singular)
+707-1185,west2386,http://concepticon.clld.org/parameters/262,usa,he/she/it
+707-1122,west2386,http://concepticon.clld.org/parameters/262,e,he/she/it
+707-370,west2386,http://concepticon.clld.org/parameters/1212,hama,we
+707-869,west2386,http://concepticon.clld.org/parameters/1212,asi,we
+707-370,west2386,http://concepticon.clld.org/parameters/1131,hama,we (inclusive)
+707-869,west2386,http://concepticon.clld.org/parameters/1131,asi,we (inclusive)
+707-370,west2386,http://concepticon.clld.org/parameters/1130,hama,we (exclusive)
+707-869,west2386,http://concepticon.clld.org/parameters/1130,asi,we (exclusive)
+707-242,west2386,http://concepticon.clld.org/parameters/1213,tainū,you (plural)
+707-443,west2386,http://concepticon.clld.org/parameters/1213,tusī,you (plural)
+707-432,west2386,http://concepticon.clld.org/parameters/817,unnā,they
+707-1082,west2386,http://concepticon.clld.org/parameters/619,paśū,animal
+707-176,west2386,http://concepticon.clld.org/parameters/619,jānavara,animal
+707-435,west2386,http://concepticon.clld.org/parameters/619,havāna,animal
+707-1441,west2386,http://concepticon.clld.org/parameters/619,ḍaṅgara,animal
+707-1213,west2386,http://concepticon.clld.org/parameters/2261,nara,male (adj)
+707-850,west2386,http://concepticon.clld.org/parameters/2262,mādā,female (adj)
+707-422,west2386,http://concepticon.clld.org/parameters/649,carāgāha,pasture
+707-1361,west2386,http://concepticon.clld.org/parameters/263,caravāhā,herdsman
+707-287,west2386,http://concepticon.clld.org/parameters/851,tabēlā,"stable, stall"
+707-1441,west2386,http://concepticon.clld.org/parameters/1153,ḍaṅgara,cattle (bovine)
+707-1207,west2386,http://concepticon.clld.org/parameters/1008,sanḍhā,bull
+707-998,west2386,http://concepticon.clld.org/parameters/1007,gai,cow
+707-284,west2386,http://concepticon.clld.org/parameters/1007,gāṅa,cow
+707-254,west2386,http://concepticon.clld.org/parameters/1989,vachā,calf
+707-1296,west2386,http://concepticon.clld.org/parameters/1331,peḍa,sheep
+707-829,west2386,http://concepticon.clld.org/parameters/1344,chatarā,ram
+707-107,west2386,http://concepticon.clld.org/parameters/1344,bakarā,ram
+707-628,west2386,http://concepticon.clld.org/parameters/1344,peḍā,ram
+707-825,west2386,http://concepticon.clld.org/parameters/1345,chatarī,ewe
+707-1296,west2386,http://concepticon.clld.org/parameters/1345,peḍa,ewe
+707-1326,west2386,http://concepticon.clld.org/parameters/820,lēlā,lamb
+707-34,west2386,http://concepticon.clld.org/parameters/820,dumbā,lamb
+707-84,west2386,http://concepticon.clld.org/parameters/1348,sūra,boar
+707-1011,west2386,http://concepticon.clld.org/parameters/1348,baralā,boar
+707-1000,west2386,http://concepticon.clld.org/parameters/1351,baralī,sow (2)
+707-900,west2386,http://concepticon.clld.org/parameters/1351,sūranī,sow (2)
+707-84,west2386,http://concepticon.clld.org/parameters/1337,sūra,pig
+707-1011,west2386,http://concepticon.clld.org/parameters/1337,baralā,pig
+707-96,west2386,http://concepticon.clld.org/parameters/1502,bakarī,goat
+707-107,west2386,http://concepticon.clld.org/parameters/264,bakarā,he-goat
+707-1383,west2386,http://concepticon.clld.org/parameters/1972,memanā,kid
+707-770,west2386,http://concepticon.clld.org/parameters/615,ghōṛā,horse (equine)
+707-687,west2386,http://concepticon.clld.org/parameters/615,koṛā,horse (equine)
+707-770,west2386,http://concepticon.clld.org/parameters/936,ghōṛā,stallion
+707-687,west2386,http://concepticon.clld.org/parameters/936,koṛā,stallion
+707-758,west2386,http://concepticon.clld.org/parameters/938,ghōṛī,mare
+707-592,west2386,http://concepticon.clld.org/parameters/938,koṛī,mare
+707-463,west2386,http://concepticon.clld.org/parameters/1862,gadhī,"ass, donkey"
+707-468,west2386,http://concepticon.clld.org/parameters/1862,gadhā,"ass, donkey"
+707-470,west2386,http://concepticon.clld.org/parameters/1862,khotā,"ass, donkey"
+707-962,west2386,http://concepticon.clld.org/parameters/890,khaccara,mule
+707-95,west2386,http://concepticon.clld.org/parameters/265,kukaṛā,fowl
+707-408,west2386,http://concepticon.clld.org/parameters/1511,muragā,"cock, rooster"
+707-95,west2386,http://concepticon.clld.org/parameters/1511,kukaṛā,"cock, rooster"
+707-413,west2386,http://concepticon.clld.org/parameters/1514,muragī,hen
+707-105,west2386,http://concepticon.clld.org/parameters/1514,kukaṛī,hen
+707-413,west2386,http://concepticon.clld.org/parameters/1318,muragī,chicken
+707-105,west2386,http://concepticon.clld.org/parameters/1318,kukaṛī,chicken
+707-704,west2386,http://concepticon.clld.org/parameters/1360,bataḵẖa,duck
+707-374,west2386,http://concepticon.clld.org/parameters/539,ghōnsalā,nest
+707-334,west2386,http://concepticon.clld.org/parameters/539,alaṇa,nest
+707-383,west2386,http://concepticon.clld.org/parameters/937,panchī,bird
+707-38,west2386,http://concepticon.clld.org/parameters/758,bagalā,heron
+707-378,west2386,http://concepticon.clld.org/parameters/1905,ukāba,eagle
+707-844,west2386,http://concepticon.clld.org/parameters/307,bāja,hawk
+707-899,west2386,http://concepticon.clld.org/parameters/1185,gidha,vulture
+707-878,west2386,http://concepticon.clld.org/parameters/1793,camagidaṛa,bat
+707-677,west2386,http://concepticon.clld.org/parameters/1793,camkadaṛa,bat
+707-1308,west2386,http://concepticon.clld.org/parameters/882,tōtā,parrot
+707-713,west2386,http://concepticon.clld.org/parameters/913,kāga,crow
+707-927,west2386,http://concepticon.clld.org/parameters/913,kāṁ,crow
+707-208,west2386,http://concepticon.clld.org/parameters/1853,kuggī,dove
+707-1267,west2386,http://concepticon.clld.org/parameters/2009,kutā,dog
+707-344,west2386,http://concepticon.clld.org/parameters/1136,kharagōśa,rabbit
+707-1327,west2386,http://concepticon.clld.org/parameters/1136,sāyā,rabbit
+707-932,west2386,http://concepticon.clld.org/parameters/1208,bilī,cat
+707-913,west2386,http://concepticon.clld.org/parameters/2139,cūhā,"mouse, rat"
+707-444,west2386,http://concepticon.clld.org/parameters/227,machī,fish
+707-393,west2386,http://concepticon.clld.org/parameters/266,kanḍe,fishscale
+707-546,west2386,http://concepticon.clld.org/parameters/957,vēlyha,whale
+707-1439,west2386,http://concepticon.clld.org/parameters/522,bhēṛīyā,wolf
+707-454,west2386,http://concepticon.clld.org/parameters/1386,śera,lion
+707-851,west2386,http://concepticon.clld.org/parameters/1820,bhālū,bear
+707-868,west2386,http://concepticon.clld.org/parameters/1820,rīcha,bear
+707-1054,west2386,http://concepticon.clld.org/parameters/1312,lūbaṛa,fox
+707-512,west2386,http://concepticon.clld.org/parameters/1312,lūmbarī,fox
+707-93,west2386,http://concepticon.clld.org/parameters/1936,hirana,deer
+707-536,west2386,http://concepticon.clld.org/parameters/1936,harana,deer
+707-639,west2386,http://concepticon.clld.org/parameters/1350,bāndara,monkey
+707-391,west2386,http://concepticon.clld.org/parameters/1290,hāthī,elephant
+707-593,west2386,http://concepticon.clld.org/parameters/1871,ūṭha,camel
+707-641,west2386,http://concepticon.clld.org/parameters/1871,ūntḥa,camel
+707-496,west2386,http://concepticon.clld.org/parameters/620,kīṛā,insect
+707-1029,west2386,http://concepticon.clld.org/parameters/232,pisū,flea
+707-1256,west2386,http://concepticon.clld.org/parameters/232,makkhī,flea
+707-1273,west2386,http://concepticon.clld.org/parameters/1974,kanakhajūrā,centipede
+707-1019,west2386,http://concepticon.clld.org/parameters/1538,bicchū,scorpion
+707-1419,west2386,http://concepticon.clld.org/parameters/1538,ṭhuṅā,scorpion
+707-1067,west2386,http://concepticon.clld.org/parameters/1575,kokarōca,cockroach
+707-489,west2386,http://concepticon.clld.org/parameters/587,kīṛī,ant
+707-56,west2386,http://concepticon.clld.org/parameters/843,makaṛī,spider
+707-382,west2386,http://concepticon.clld.org/parameters/1065,makaṛī kā jālā,spider web
+707-1430,west2386,http://concepticon.clld.org/parameters/665,makhī,bee
+707-684,west2386,http://concepticon.clld.org/parameters/88,chatā,beehive
+707-1115,west2386,http://concepticon.clld.org/parameters/1517,tumūṛī,wasp
+707-1430,west2386,http://concepticon.clld.org/parameters/1504,makhī,fly
+707-533,west2386,http://concepticon.clld.org/parameters/1509,machara,mosquito
+707-895,west2386,http://concepticon.clld.org/parameters/1219,kiṛā,worm
+707-1164,west2386,http://concepticon.clld.org/parameters/730,sapa,snake
+707-1183,west2386,http://concepticon.clld.org/parameters/206,juganū,firefly
+707-366,west2386,http://concepticon.clld.org/parameters/1791,titalī,butterfly
+707-837,west2386,http://concepticon.clld.org/parameters/607,ṭiḍā,grasshopper
+707-209,west2386,http://concepticon.clld.org/parameters/607,ṭiḍḍā,grasshopper
+707-1021,west2386,http://concepticon.clld.org/parameters/1543,ghanḍoyā,snail
+707-611,west2386,http://concepticon.clld.org/parameters/503,ḍaḍū,frog
+707-129,west2386,http://concepticon.clld.org/parameters/632,kiralī,lizard
+707-507,west2386,http://concepticon.clld.org/parameters/632,chipakalī,lizard
+707-579,west2386,http://concepticon.clld.org/parameters/1857,magaramacha,"crocodile, alligator"
+707-395,west2386,http://concepticon.clld.org/parameters/1480,śarīra,body
+707-1358,west2386,http://concepticon.clld.org/parameters/1480,butta,body
+707-1026,west2386,http://concepticon.clld.org/parameters/1480,kāṭha,body
+707-1227,west2386,http://concepticon.clld.org/parameters/763,khaladī,"skin, hide"
+707-304,west2386,http://concepticon.clld.org/parameters/763,jilda,"skin, hide"
+707-814,west2386,http://concepticon.clld.org/parameters/2259,carabī,flesh
+707-471,west2386,http://concepticon.clld.org/parameters/1040,vāla,hair (head)
+707-87,west2386,http://concepticon.clld.org/parameters/678,dāṛhī,beard
+707-471,west2386,http://concepticon.clld.org/parameters/189,vāla,body hair
+707-471,west2386,http://concepticon.clld.org/parameters/36,vāla,pubic hair
+707-846,west2386,http://concepticon.clld.org/parameters/576,sikkarī,dandruff
+707-574,west2386,http://concepticon.clld.org/parameters/576,khushakī,dandruff
+707-1291,west2386,http://concepticon.clld.org/parameters/946,khūna,blood
+707-261,west2386,http://concepticon.clld.org/parameters/946,lahu,blood
+707-47,west2386,http://concepticon.clld.org/parameters/946,ratta,blood
+707-729,west2386,http://concepticon.clld.org/parameters/525,raga,"vein, artery"
+707-1405,west2386,http://concepticon.clld.org/parameters/1394,haḍḍī,bone
+707-652,west2386,http://concepticon.clld.org/parameters/801,paslī,rib
+707-842,west2386,http://concepticon.clld.org/parameters/1393,sīngha,horn
+707-1102,west2386,http://concepticon.clld.org/parameters/1220,pūcha,tail
+707-963,west2386,http://concepticon.clld.org/parameters/1220,duma,tail
+707-1373,west2386,http://concepticon.clld.org/parameters/1291,pichalī,back
+707-666,west2386,http://concepticon.clld.org/parameters/1291,pīṭha,back
+707-912,west2386,http://concepticon.clld.org/parameters/805,dhundari,spine
+707-144,west2386,http://concepticon.clld.org/parameters/805,riṛha kī haḍḍī,spine
+707-1366,west2386,http://concepticon.clld.org/parameters/1256,sara,head
+707-1205,west2386,http://concepticon.clld.org/parameters/1583,dimāga,brain
+707-1482,west2386,http://concepticon.clld.org/parameters/1560,mūha,face
+707-907,west2386,http://concepticon.clld.org/parameters/123,mathā,forehead
+707-916,west2386,http://concepticon.clld.org/parameters/798,jabaṛā,jaw
+707-737,west2386,http://concepticon.clld.org/parameters/1510,ṭhōḍī,chin
+707-778,west2386,http://concepticon.clld.org/parameters/1248,akkha,eye
+707-812,west2386,http://concepticon.clld.org/parameters/1248,akkhī,eye
+707-158,west2386,http://concepticon.clld.org/parameters/1248,diddā,eye
+707-328,west2386,http://concepticon.clld.org/parameters/1248,nāina,eye
+707-399,west2386,http://concepticon.clld.org/parameters/1173,parvaṭē,eyebrow
+707-1025,west2386,http://concepticon.clld.org/parameters/17,palaka,eyelid
+707-1025,west2386,http://concepticon.clld.org/parameters/1540,palaka,eyelash
+707-943,west2386,http://concepticon.clld.org/parameters/1655,jhapakanā,blink
+707-423,west2386,http://concepticon.clld.org/parameters/1247,kanna,ear
+707-248,west2386,http://concepticon.clld.org/parameters/1221,naka,nose
+707-18,west2386,http://concepticon.clld.org/parameters/1178,nāsa,nostril
+707-860,west2386,http://concepticon.clld.org/parameters/1178,nasāṁ,nostril
+707-1482,west2386,http://concepticon.clld.org/parameters/674,mūha,mouth
+707-143,west2386,http://concepticon.clld.org/parameters/73,cujha,beak
+707-939,west2386,http://concepticon.clld.org/parameters/73,conja,beak
+707-1456,west2386,http://concepticon.clld.org/parameters/478,hōnṭha,lip
+707-763,west2386,http://concepticon.clld.org/parameters/478,bula,lip
+707-403,west2386,http://concepticon.clld.org/parameters/1205,jība,tongue
+707-1145,west2386,http://concepticon.clld.org/parameters/1380,danda,tooth
+707-1022,west2386,http://concepticon.clld.org/parameters/139,masuṛa,gums
+707-824,west2386,http://concepticon.clld.org/parameters/1333,garadana,neck
+707-212,west2386,http://concepticon.clld.org/parameters/1333,tōṇa,neck
+707-1347,west2386,http://concepticon.clld.org/parameters/1346,gaṭā,throat
+707-21,west2386,http://concepticon.clld.org/parameters/1346,saṅgha,throat
+707-877,west2386,http://concepticon.clld.org/parameters/1482,monḍe,shoulder
+707-841,west2386,http://concepticon.clld.org/parameters/1482,kandhe,shoulder
+707-1276,west2386,http://concepticon.clld.org/parameters/1673,banha,arm
+707-799,west2386,http://concepticon.clld.org/parameters/1886,kacha,armpit
+707-807,west2386,http://concepticon.clld.org/parameters/981,kūhaṇī,elbow
+707-1064,west2386,http://concepticon.clld.org/parameters/799,viṇi,wrist
+707-1139,west2386,http://concepticon.clld.org/parameters/799,kalāī,wrist
+707-678,west2386,http://concepticon.clld.org/parameters/799,biṇi,wrist
+707-717,west2386,http://concepticon.clld.org/parameters/1277,hatha,hand
+707-97,west2386,http://concepticon.clld.org/parameters/1183,hathelī,palm of hand
+707-74,west2386,http://concepticon.clld.org/parameters/1303,uṅgalī,finger
+707-332,west2386,http://concepticon.clld.org/parameters/1781,añgūṭhā,thumb
+707-183,west2386,http://concepticon.clld.org/parameters/1258,nihu,fingernail
+707-1128,west2386,http://concepticon.clld.org/parameters/72,panja,claw
+707-601,west2386,http://concepticon.clld.org/parameters/1297,ṭaga,leg
+707-843,west2386,http://concepticon.clld.org/parameters/1297,lata,leg
+707-1061,west2386,http://concepticon.clld.org/parameters/1297,taṅga,leg
+707-434,west2386,http://concepticon.clld.org/parameters/800,paṭa,thigh
+707-1280,west2386,http://concepticon.clld.org/parameters/1371,gōḍā,knee
+707-214,west2386,http://concepticon.clld.org/parameters/1301,pada,foot
+707-871,west2386,http://concepticon.clld.org/parameters/1301,paira,foot
+707-516,west2386,http://concepticon.clld.org/parameters/803,giṭā,ankle
+707-594,west2386,http://concepticon.clld.org/parameters/980,aḍī,heel
+707-22,west2386,http://concepticon.clld.org/parameters/1389,uṅgala,toe
+707-906,west2386,http://concepticon.clld.org/parameters/1257,para,wing
+707-1109,west2386,http://concepticon.clld.org/parameters/1201,khabha,feather
+707-922,west2386,http://concepticon.clld.org/parameters/1201,khambha,feather
+707-906,west2386,http://concepticon.clld.org/parameters/1201,para,feather
+707-433,west2386,http://concepticon.clld.org/parameters/1592,chātī,chest
+707-159,west2386,http://concepticon.clld.org/parameters/1402,hika,breast (of woman)
+707-1074,west2386,http://concepticon.clld.org/parameters/1402,mumme,breast (of woman)
+707-1321,west2386,http://concepticon.clld.org/parameters/796,thaṇa,"nipple, teat"
+707-1012,west2386,http://concepticon.clld.org/parameters/154,caḍā,udder
+707-1141,west2386,http://concepticon.clld.org/parameters/154,havanna,udder
+707-1391,west2386,http://concepticon.clld.org/parameters/154,khīrī,udder
+707-530,west2386,http://concepticon.clld.org/parameters/1223,cita,heart
+707-1104,west2386,http://concepticon.clld.org/parameters/1223,dila,heart
+707-1098,west2386,http://concepticon.clld.org/parameters/688,phepaṛe,lung
+707-865,west2386,http://concepticon.clld.org/parameters/1224,jigaṛa,liver
+707-1258,west2386,http://concepticon.clld.org/parameters/489,guradā,kidney
+707-1006,west2386,http://concepticon.clld.org/parameters/1744,tillī,spleen
+707-1114,west2386,http://concepticon.clld.org/parameters/819,medā,stomach
+707-796,west2386,http://concepticon.clld.org/parameters/1991,antaṛī,"intestines, guts"
+707-693,west2386,http://concepticon.clld.org/parameters/1681,kamara,waist
+707-1409,west2386,http://concepticon.clld.org/parameters/1745,laka,hip
+707-54,west2386,http://concepticon.clld.org/parameters/834,citaṛa,buttocks
+707-1409,west2386,http://concepticon.clld.org/parameters/834,laka,buttocks
+707-83,west2386,http://concepticon.clld.org/parameters/1222,liṅga,penis
+707-167,west2386,http://concepticon.clld.org/parameters/1222,lula,penis
+707-1446,west2386,http://concepticon.clld.org/parameters/1222,luna,penis
+707-908,west2386,http://concepticon.clld.org/parameters/1407,sāha lenā,"breathe, breath"
+707-793,west2386,http://concepticon.clld.org/parameters/1028,ubāsī lenā,"yawn, gape"
+707-603,west2386,http://concepticon.clld.org/parameters/162,hicakī lenā,hiccough
+707-1024,west2386,http://concepticon.clld.org/parameters/162,hicakanā,hiccough
+707-897,west2386,http://concepticon.clld.org/parameters/879,khaṅgnā,cough
+707-411,west2386,http://concepticon.clld.org/parameters/1621,chikaṇā,sneeze
+707-30,west2386,http://concepticon.clld.org/parameters/126,pasinā ānā,perspire
+707-1357,west2386,http://concepticon.clld.org/parameters/1440,thukaṇā,spit
+707-318,west2386,http://concepticon.clld.org/parameters/1278,ultī karnā,vomit
+707-1330,west2386,http://concepticon.clld.org/parameters/1403,kāṭanā,bite
+707-1072,west2386,http://concepticon.clld.org/parameters/319,cāṭantā,lick
+707-1390,west2386,http://concepticon.clld.org/parameters/268,conā,dribble
+707-804,west2386,http://concepticon.clld.org/parameters/1585,sonā,sleep
+707-568,west2386,http://concepticon.clld.org/parameters/1983,kharāṭe lenā,snore
+707-1261,west2386,http://concepticon.clld.org/parameters/1920,sufanā dekhnā,dream
+707-1232,west2386,http://concepticon.clld.org/parameters/1602,jāganā,wake up
+707-757,west2386,http://concepticon.clld.org/parameters/52,ṭhiṭharanā,shiver
+707-420,west2386,http://concepticon.clld.org/parameters/52,kambṅā,shiver
+707-503,west2386,http://concepticon.clld.org/parameters/138,nahānā,bathe
+707-453,west2386,http://concepticon.clld.org/parameters/1152,jamaṇā,beget (of father)
+707-660,west2386,http://concepticon.clld.org/parameters/1090,janam lenā,born (to be)
+707-1416,west2386,http://concepticon.clld.org/parameters/1422,jinā,"live, living, life"
+707-605,west2386,http://concepticon.clld.org/parameters/1494,maraṇā,"die, dead"
+707-170,west2386,http://concepticon.clld.org/parameters/1904,ḍubanā,drowned
+707-1314,west2386,http://concepticon.clld.org/parameters/1417,māranā,kill
+707-64,west2386,http://concepticon.clld.org/parameters/767,lāśa,corpse
+707-1039,west2386,http://concepticon.clld.org/parameters/1719,dabanā,bury (the dead)
+707-955,west2386,http://concepticon.clld.org/parameters/1773,kabara,"grave, tomb"
+707-1284,west2386,http://concepticon.clld.org/parameters/785,dadā,"strong, mighty, powerful"
+707-1426,west2386,http://concepticon.clld.org/parameters/785,tagaṛā,"strong, mighty, powerful"
+707-447,west2386,http://concepticon.clld.org/parameters/1601,kamjora,weak
+707-996,west2386,http://concepticon.clld.org/parameters/1364,sihatamana,"well, health"
+707-404,west2386,http://concepticon.clld.org/parameters/1847,bimāra,"sick, sickness"
+707-10,west2386,http://concepticon.clld.org/parameters/1534,bukhāra,fever
+707-109,west2386,http://concepticon.clld.org/parameters/102,nazalā,cold (catarrh)
+707-1310,west2386,http://concepticon.clld.org/parameters/1109,zakhama,"wound, sore"
+707-1005,west2386,http://concepticon.clld.org/parameters/1148,jharīṭa,bruise
+707-754,west2386,http://concepticon.clld.org/parameters/1903,sojana,swelling
+707-40,west2386,http://concepticon.clld.org/parameters/148,khāraśa,itch
+707-816,west2386,http://concepticon.clld.org/parameters/148,khāriśa,itch
+707-983,west2386,http://concepticon.clld.org/parameters/1584,chālā,blister
+707-210,west2386,http://concepticon.clld.org/parameters/793,phoṛā,boil (noun)
+707-1092,west2386,http://concepticon.clld.org/parameters/793,ubāla,boil (noun)
+707-441,west2386,http://concepticon.clld.org/parameters/1808,pīpa,pus
+707-556,west2386,http://concepticon.clld.org/parameters/499,ilāja karanā,"cure, heal"
+707-1037,west2386,http://concepticon.clld.org/parameters/597,dokaṭara,physician
+707-879,west2386,http://concepticon.clld.org/parameters/1372,davāyī,"medicine, drug"
+707-876,west2386,http://concepticon.clld.org/parameters/655,zahara,poison
+707-124,west2386,http://concepticon.clld.org/parameters/1757,thaktāna,"tired, weary"
+707-649,west2386,http://concepticon.clld.org/parameters/168,ṭikanā,rest
+707-1048,west2386,http://concepticon.clld.org/parameters/1564,posatī,lazy
+707-696,west2386,http://concepticon.clld.org/parameters/1564,susta,lazy
+707-308,west2386,http://concepticon.clld.org/parameters/1125,ganjā,bald
+707-475,west2386,http://concepticon.clld.org/parameters/320,laṅgṛā,lame
+707-71,west2386,http://concepticon.clld.org/parameters/996,dorā,deaf
+707-200,west2386,http://concepticon.clld.org/parameters/1666,guṅgā,mute
+707-1120,west2386,http://concepticon.clld.org/parameters/1653,annā,blind
+707-1186,west2386,http://concepticon.clld.org/parameters/1463,śarābī,intoxicated
+707-987,west2386,http://concepticon.clld.org/parameters/590,naṅgā,"naked, bare"
+707-766,west2386,http://concepticon.clld.org/parameters/1336,khāṇā,eat
+707-1485,west2386,http://concepticon.clld.org/parameters/256,khaṇa,food
+707-514,west2386,http://concepticon.clld.org/parameters/269,pakiyā,cooked
+707-881,west2386,http://concepticon.clld.org/parameters/1959,kacī,raw
+707-193,west2386,http://concepticon.clld.org/parameters/178,pakī,ripe
+707-881,west2386,http://concepticon.clld.org/parameters/1958,kacī,"green, unripe"
+707-487,west2386,http://concepticon.clld.org/parameters/1401,pīṇā,drink
+707-221,west2386,http://concepticon.clld.org/parameters/1533,pukhā hoṇā,hunger
+707-1289,west2386,http://concepticon.clld.org/parameters/199,kaita,famine
+707-1215,west2386,http://concepticon.clld.org/parameters/848,taryaya honā,thirst
+707-195,west2386,http://concepticon.clld.org/parameters/1421,chusna,suck
+707-1336,west2386,http://concepticon.clld.org/parameters/1421,cupnā,suck
+707-1380,west2386,http://concepticon.clld.org/parameters/321,cabānā,chew
+707-741,west2386,http://concepticon.clld.org/parameters/897,haṛapaṇā,swallow
+707-1203,west2386,http://concepticon.clld.org/parameters/897,uṅgalanā,swallow
+707-499,west2386,http://concepticon.clld.org/parameters/1100,pakānā,cook
+707-197,west2386,http://concepticon.clld.org/parameters/792,ubālanā,boil (vb)
+707-1214,west2386,http://concepticon.clld.org/parameters/2146,talanā,"roast, fry"
+707-426,west2386,http://concepticon.clld.org/parameters/183,pakāṇā,bake
+707-1187,west2386,http://concepticon.clld.org/parameters/1143,tadūra,oven
+707-347,west2386,http://concepticon.clld.org/parameters/1143,tandūra,oven
+707-1435,west2386,http://concepticon.clld.org/parameters/1462,baratana,"pot, cooking vessel"
+707-1087,west2386,http://concepticon.clld.org/parameters/1462,panḍā,"pot, cooking vessel"
+707-19,west2386,http://concepticon.clld.org/parameters/854,hāṇḍī,kettle
+707-1063,west2386,http://concepticon.clld.org/parameters/854,ketlī,kettle
+707-19,west2386,http://concepticon.clld.org/parameters/31,hāṇḍī,pan
+707-88,west2386,http://concepticon.clld.org/parameters/481,thālī,dish
+707-1285,west2386,http://concepticon.clld.org/parameters/480,palēṭa,plate
+707-450,west2386,http://concepticon.clld.org/parameters/1530,bāṭī,bowl
+707-661,west2386,http://concepticon.clld.org/parameters/1530,pyālā,bowl
+707-517,west2386,http://concepticon.clld.org/parameters/270,ghaṛā,"pitcher, jug"
+707-716,west2386,http://concepticon.clld.org/parameters/476,kapa,"cup, drinking vessel"
+707-669,west2386,http://concepticon.clld.org/parameters/476,pyālī,"cup, drinking vessel"
+707-954,west2386,http://concepticon.clld.org/parameters/271,kiracha,saucer
+707-609,west2386,http://concepticon.clld.org/parameters/1378,camacī,spoon
+707-1217,west2386,http://concepticon.clld.org/parameters/1352,cākū,knife (2)
+707-190,west2386,http://concepticon.clld.org/parameters/1352,churī,knife (2)
+707-1200,west2386,http://concepticon.clld.org/parameters/1302,kāṇṭā,fork (2)
+707-511,west2386,http://concepticon.clld.org/parameters/272,cimaṭā,tongs
+707-1331,west2386,http://concepticon.clld.org/parameters/272,ucā,tongs
+707-766,west2386,http://concepticon.clld.org/parameters/1526,khāṇā,meal (a)
+707-59,west2386,http://concepticon.clld.org/parameters/1322,nāśatā,breakfast
+707-798,west2386,http://concepticon.clld.org/parameters/768,din dī roṭī,lunch
+707-1394,west2386,http://concepticon.clld.org/parameters/1833,rāt dā khāṇā,dinner
+707-1260,west2386,http://concepticon.clld.org/parameters/275,chilanā,peel
+707-647,west2386,http://concepticon.clld.org/parameters/86,chānaṇā,"sieve, strain"
+707-1197,west2386,http://concepticon.clld.org/parameters/1767,tarāśanā,scrape
+707-377,west2386,http://concepticon.clld.org/parameters/2017,rilānā,"stir, mix"
+707-283,west2386,http://concepticon.clld.org/parameters/1368,rōṭī,bread
+707-1434,west2386,http://concepticon.clld.org/parameters/273,tauṇā,dough
+707-751,west2386,http://concepticon.clld.org/parameters/273,āṭā,dough
+707-1051,west2386,http://concepticon.clld.org/parameters/274,gunṇā,knead
+707-57,west2386,http://concepticon.clld.org/parameters/1594,āṭā,"meal, flour"
+707-359,west2386,http://concepticon.clld.org/parameters/1033,pīnṇā,"crush, grind"
+707-515,west2386,http://concepticon.clld.org/parameters/1033,ragaṛa,"crush, grind"
+707-886,west2386,http://concepticon.clld.org/parameters/636,kārakhānā,mill
+707-24,west2386,http://concepticon.clld.org/parameters/224,laṅgarī,mortar (2)
+707-271,west2386,http://concepticon.clld.org/parameters/634,mīṭa,meat
+707-298,west2386,http://concepticon.clld.org/parameters/634,ghośta,meat
+707-367,west2386,http://concepticon.clld.org/parameters/1547,sūpa,"soup, broth"
+707-1476,west2386,http://concepticon.clld.org/parameters/924,sabazī,vegetables
+707-1461,west2386,http://concepticon.clld.org/parameters/832,phalī,bean
+707-1028,west2386,http://concepticon.clld.org/parameters/593,ālū,potato
+707-277,west2386,http://concepticon.clld.org/parameters/1507,phala,fruit
+707-455,west2386,http://concepticon.clld.org/parameters/1966,guchā,bunch
+707-320,west2386,http://concepticon.clld.org/parameters/322,anjīra,fig
+707-140,west2386,http://concepticon.clld.org/parameters/920,aṅgūra,grape
+707-978,west2386,http://concepticon.clld.org/parameters/191,khuśaka mevā,nut
+707-1118,west2386,http://concepticon.clld.org/parameters/1154,zaitūna,olive
+707-181,west2386,http://concepticon.clld.org/parameters/1484,tēla,oil
+707-814,west2386,http://concepticon.clld.org/parameters/323,carabī,"grease, fat"
+707-731,west2386,http://concepticon.clld.org/parameters/1274,namaka,salt
+707-1170,west2386,http://concepticon.clld.org/parameters/1274,lūṇa,salt
+707-735,west2386,http://concepticon.clld.org/parameters/1385,miraca,pepper
+707-735,west2386,http://concepticon.clld.org/parameters/919,miraca,chili pepper
+707-278,west2386,http://concepticon.clld.org/parameters/942,śaida,honey
+707-1323,west2386,http://concepticon.clld.org/parameters/862,khunḍa,sugar
+707-1041,west2386,http://concepticon.clld.org/parameters/862,mithā,sugar
+707-959,west2386,http://concepticon.clld.org/parameters/635,dhuda,milk (noun)
+707-1432,west2386,http://concepticon.clld.org/parameters/93,coṇā,milk (vb)
+707-76,west2386,http://concepticon.clld.org/parameters/1569,panīra,cheese
+707-161,west2386,http://concepticon.clld.org/parameters/1245,makhaṇa,butter
+707-956,west2386,http://concepticon.clld.org/parameters/731,pī,"beverage, drink"
+707-1147,west2386,http://concepticon.clld.org/parameters/1524,śarāba,wine
+707-1231,west2386,http://concepticon.clld.org/parameters/1639,biara,beer
+707-1181,west2386,http://concepticon.clld.org/parameters/404,śarābā,fermented drink
+707-811,west2386,http://concepticon.clld.org/parameters/744,anḍā,egg
+707-781,west2386,http://concepticon.clld.org/parameters/1556,jaradī,egg yolk
+707-1457,west2386,http://concepticon.clld.org/parameters/158,pāṇā,put on (clothes)
+707-15,west2386,http://concepticon.clld.org/parameters/1895,kapaṛē,"clothing, clothes"
+707-1206,west2386,http://concepticon.clld.org/parameters/1895,līṛē,"clothing, clothes"
+707-1225,west2386,http://concepticon.clld.org/parameters/881,darajī,tailor
+707-137,west2386,http://concepticon.clld.org/parameters/1616,kapaṛā,cloth
+707-241,west2386,http://concepticon.clld.org/parameters/964,una,wool
+707-1354,west2386,http://concepticon.clld.org/parameters/916,sūtī,"linen, flax"
+707-1354,west2386,http://concepticon.clld.org/parameters/1850,sūtī,cotton
+707-577,west2386,http://concepticon.clld.org/parameters/1641,rēśama,silk
+707-28,west2386,http://concepticon.clld.org/parameters/325,kambala,felt
+707-1045,west2386,http://concepticon.clld.org/parameters/325,cādāra,felt
+707-967,west2386,http://concepticon.clld.org/parameters/629,camaṛā,leather
+707-606,west2386,http://concepticon.clld.org/parameters/121,kātanā,spin
+707-273,west2386,http://concepticon.clld.org/parameters/1787,khaḍī,loom
+707-1119,west2386,http://concepticon.clld.org/parameters/1382,suyī,needle
+707-1189,west2386,http://concepticon.clld.org/parameters/278,āra,awl
+707-237,west2386,http://concepticon.clld.org/parameters/1161,dāgā,thread
+707-1202,west2386,http://concepticon.clld.org/parameters/157,raṅgnā,dye
+707-1003,west2386,http://concepticon.clld.org/parameters/474,pōśāka,woman's dress
+707-532,west2386,http://concepticon.clld.org/parameters/603,kōṭa,coat
+707-1290,west2386,http://concepticon.clld.org/parameters/1622,kamīza,shirt
+707-743,west2386,http://concepticon.clld.org/parameters/1622,kuṛatā,shirt
+707-1281,west2386,http://concepticon.clld.org/parameters/2012,kālara,collar
+707-993,west2386,http://concepticon.clld.org/parameters/1600,leheṅgā,skirt
+707-313,west2386,http://concepticon.clld.org/parameters/1600,ghagarā,skirt
+707-1066,west2386,http://concepticon.clld.org/parameters/809,patalūna,trousers
+707-299,west2386,http://concepticon.clld.org/parameters/809,śalvāra,trousers
+707-1136,west2386,http://concepticon.clld.org/parameters/329,jurāba,"stocking, sock"
+707-578,west2386,http://concepticon.clld.org/parameters/1381,jutī,shoe
+707-585,west2386,http://concepticon.clld.org/parameters/585,jutā,boot
+707-325,west2386,http://concepticon.clld.org/parameters/585,būṭa,boot
+707-1479,west2386,http://concepticon.clld.org/parameters/875,mōcī,"shoemaker, cobbler"
+707-1230,west2386,http://concepticon.clld.org/parameters/2130,ṭōpī,"hat, cap"
+707-380,west2386,http://concepticon.clld.org/parameters/772,paṭā,"belt, girdle"
+707-139,west2386,http://concepticon.clld.org/parameters/867,dasatānā,glove
+707-1112,west2386,http://concepticon.clld.org/parameters/1151,nakāba,veil
+707-1071,west2386,http://concepticon.clld.org/parameters/1151,paṛadā,veil
+707-1396,west2386,http://concepticon.clld.org/parameters/1851,jēba,pocket
+707-1167,west2386,http://concepticon.clld.org/parameters/757,baṭana,button
+707-1244,west2386,http://concepticon.clld.org/parameters/64,sūyī,pin
+707-826,west2386,http://concepticon.clld.org/parameters/917,jēvara,"ornament, adornment"
+707-719,west2386,http://concepticon.clld.org/parameters/917,gahiṇā,"ornament, adornment"
+707-357,west2386,http://concepticon.clld.org/parameters/1029,hīrā,jewel
+707-1179,west2386,http://concepticon.clld.org/parameters/1374,aṅgūṭhī,ring (for finger)
+707-813,west2386,http://concepticon.clld.org/parameters/1374,chāpa,ring (for finger)
+707-207,west2386,http://concepticon.clld.org/parameters/1754,kaṅgana,bracelet
+707-152,west2386,http://concepticon.clld.org/parameters/1754,vaṅgā,bracelet
+707-401,west2386,http://concepticon.clld.org/parameters/1961,hāra,necklace
+707-286,west2386,http://concepticon.clld.org/parameters/1961,laṛī,necklace
+707-1172,west2386,http://concepticon.clld.org/parameters/1860,tupakā,bead
+707-349,west2386,http://concepticon.clld.org/parameters/770,ḍaḍī,earring
+707-1023,west2386,http://concepticon.clld.org/parameters/770,cumakā,earring
+707-745,west2386,http://concepticon.clld.org/parameters/332,rumāla,"handkerchief, rag"
+707-497,west2386,http://concepticon.clld.org/parameters/1021,tauliyā,towel
+707-571,west2386,http://concepticon.clld.org/parameters/1021,pacakā,towel
+707-1075,west2386,http://concepticon.clld.org/parameters/1475,kaṅgī,comb
+707-599,west2386,http://concepticon.clld.org/parameters/1821,buraśa,brush
+707-928,west2386,http://concepticon.clld.org/parameters/333,gutta,braid
+707-988,west2386,http://concepticon.clld.org/parameters/151,usatarā,razor
+707-1137,west2386,http://concepticon.clld.org/parameters/1926,lēpa,ointment
+707-239,west2386,http://concepticon.clld.org/parameters/788,sābaṇa,soap
+707-1364,west2386,http://concepticon.clld.org/parameters/1171,āyīnā,mirror
+707-1196,west2386,http://concepticon.clld.org/parameters/1171,śīśā,mirror
+707-358,west2386,http://concepticon.clld.org/parameters/1099,guzāranā,"dwell, live"
+707-436,west2386,http://concepticon.clld.org/parameters/1099,jīvanā,"dwell, live"
+707-488,west2386,http://concepticon.clld.org/parameters/1252,kera,house
+707-392,west2386,http://concepticon.clld.org/parameters/1252,kāra,house
+707-789,west2386,http://concepticon.clld.org/parameters/1678,jhaumpaṛī,hut
+707-1101,west2386,http://concepticon.clld.org/parameters/1678,kuṭīyā,hut
+707-1221,west2386,http://concepticon.clld.org/parameters/1316,tambū,tent
+707-198,west2386,http://concepticon.clld.org/parameters/736,daragāha,"yard, court"
+707-753,west2386,http://concepticon.clld.org/parameters/1450,kamarā,room
+707-1404,west2386,http://concepticon.clld.org/parameters/1567,daravāzā,"door, gate"
+707-995,west2386,http://concepticon.clld.org/parameters/1567,buhā,"door, gate"
+707-1009,west2386,http://concepticon.clld.org/parameters/1596,tālā,lock (noun)
+707-449,west2386,http://concepticon.clld.org/parameters/1472,cābī,key
+707-708,west2386,http://concepticon.clld.org/parameters/1472,kunjī,key
+707-156,west2386,http://concepticon.clld.org/parameters/1375,khiṛakī,window
+707-1369,west2386,http://concepticon.clld.org/parameters/1375,bārī,window
+707-634,west2386,http://concepticon.clld.org/parameters/1632,pharaśa,floor
+707-149,west2386,http://concepticon.clld.org/parameters/933,divāra,wall
+707-1455,west2386,http://concepticon.clld.org/parameters/933,kanda,wall
+707-562,west2386,http://concepticon.clld.org/parameters/185,aṅgīṭhī,fireplace
+707-887,west2386,http://concepticon.clld.org/parameters/859,culhā,stove
+707-1234,west2386,http://concepticon.clld.org/parameters/1305,cimanī,chimney
+707-671,west2386,http://concepticon.clld.org/parameters/1464,jīnā,ladder
+707-923,west2386,http://concepticon.clld.org/parameters/1464,sīṛhī,ladder
+707-707,west2386,http://concepticon.clld.org/parameters/1464,poḍī,ladder
+707-974,west2386,http://concepticon.clld.org/parameters/1663,bisatara,bed
+707-153,west2386,http://concepticon.clld.org/parameters/1663,manjī,bed
+707-1134,west2386,http://concepticon.clld.org/parameters/1044,sirahāṇā,pillow
+707-115,west2386,http://concepticon.clld.org/parameters/1044,takiyā,pillow
+707-28,west2386,http://concepticon.clld.org/parameters/806,kambala,blanket
+707-258,west2386,http://concepticon.clld.org/parameters/806,cādara,blanket
+707-600,west2386,http://concepticon.clld.org/parameters/1476,kurasī,chair
+707-253,west2386,http://concepticon.clld.org/parameters/1775,mēza,table
+707-558,west2386,http://concepticon.clld.org/parameters/2131,dīvā,"lamp, torch"
+707-390,west2386,http://concepticon.clld.org/parameters/2131,battī,"lamp, torch"
+707-1444,west2386,http://concepticon.clld.org/parameters/1273,mōmbattī,candle
+707-728,west2386,http://concepticon.clld.org/parameters/769,chata,roof
+707-1400,west2386,http://concepticon.clld.org/parameters/279,ghāha phūsā,thatch
+707-4,west2386,http://concepticon.clld.org/parameters/1132,bīmā,beam
+707-538,west2386,http://concepticon.clld.org/parameters/1132,śatīra,beam
+707-697,west2386,http://concepticon.clld.org/parameters/281,khambā,"post, pole"
+707-947,west2386,http://concepticon.clld.org/parameters/1227,phaṭā,board
+707-942,west2386,http://concepticon.clld.org/parameters/876,kamānā,arch
+707-1264,west2386,http://concepticon.clld.org/parameters/877,misatarī,mason
+707-1359,west2386,http://concepticon.clld.org/parameters/1006,iṭa,brick
+707-1228,west2386,http://concepticon.clld.org/parameters/1731,gārā,mortar
+707-11,west2386,http://concepticon.clld.org/parameters/1731,cimenṭa,mortar
+707-505,west2386,http://concepticon.clld.org/parameters/979,kisāna,farmer
+707-340,west2386,http://concepticon.clld.org/parameters/212,khēta,field (for cultivation)
+707-961,west2386,http://concepticon.clld.org/parameters/586,bāga,garden
+707-1362,west2386,http://concepticon.clld.org/parameters/586,bagīcā,garden
+707-920,west2386,http://concepticon.clld.org/parameters/1541,vahanā,"cultivate, till"
+707-852,west2386,http://concepticon.clld.org/parameters/1690,vāṛa,fence
+707-268,west2386,http://concepticon.clld.org/parameters/2002,khaḍā,ditch
+707-1399,west2386,http://concepticon.clld.org/parameters/1921,hala,plow
+707-904,west2386,http://concepticon.clld.org/parameters/1418,khodana,dig
+707-414,west2386,http://concepticon.clld.org/parameters/1418,guḍana,dig
+707-1332,west2386,http://concepticon.clld.org/parameters/1176,kahī,spade
+707-1090,west2386,http://concepticon.clld.org/parameters/1176,kasī,spade
+707-1278,west2386,http://concepticon.clld.org/parameters/1901,bēlacā,shovel
+707-204,west2386,http://concepticon.clld.org/parameters/284,kihī,hoe
+707-1332,west2386,http://concepticon.clld.org/parameters/284,kahī,hoe
+707-1200,west2386,http://concepticon.clld.org/parameters/337,kāṇṭā,fork
+707-720,west2386,http://concepticon.clld.org/parameters/748,bījaṇā,sow
+707-365,west2386,http://concepticon.clld.org/parameters/714,bīja,seed
+707-1428,west2386,http://concepticon.clld.org/parameters/714,dāṇā,seed
+707-1253,west2386,http://concepticon.clld.org/parameters/2132,dātarī,"sickle, scythe"
+707-833,west2386,http://concepticon.clld.org/parameters/2132,dātī,"sickle, scythe"
+707-1447,west2386,http://concepticon.clld.org/parameters/611,fasala,"crop, harvest"
+707-1428,west2386,http://concepticon.clld.org/parameters/605,dāṇā,"grain (barley, oats etc)"
+707-734,west2386,http://concepticon.clld.org/parameters/605,anāja,"grain (barley, oats etc)"
+707-226,west2386,http://concepticon.clld.org/parameters/1077,kaṇaka,wheat
+707-771,west2386,http://concepticon.clld.org/parameters/932,jauṁ,barley
+707-1376,west2386,http://concepticon.clld.org/parameters/506,makī,"maize, corn"
+707-715,west2386,http://concepticon.clld.org/parameters/506,makai,"maize, corn"
+707-1292,west2386,http://concepticon.clld.org/parameters/926,cāvala,rice
+707-466,west2386,http://concepticon.clld.org/parameters/926,cola,rice
+707-1472,west2386,http://concepticon.clld.org/parameters/606,ghāha,grass
+707-1251,west2386,http://concepticon.clld.org/parameters/342,phūsa,hay
+707-966,west2386,http://concepticon.clld.org/parameters/342,caṭhā,hay
+707-502,west2386,http://concepticon.clld.org/parameters/653,paudā,plant (noun)
+707-1,west2386,http://concepticon.clld.org/parameters/653,buṭā,plant (noun)
+707-274,west2386,http://concepticon.clld.org/parameters/1486,lagānā,plant (vb)
+707-864,west2386,http://concepticon.clld.org/parameters/1486,lāṇā,plant (vb)
+707-1097,west2386,http://concepticon.clld.org/parameters/670,mūlī,root
+707-919,west2386,http://concepticon.clld.org/parameters/670,jaṛa,root
+707-314,west2386,http://concepticon.clld.org/parameters/670,munḍa,root
+707-1177,west2386,http://concepticon.clld.org/parameters/1531,śāḵẖa,branch
+707-1478,west2386,http://concepticon.clld.org/parameters/1531,ṭahiṇī,branch
+707-69,west2386,http://concepticon.clld.org/parameters/628,patā,leaf
+707-220,west2386,http://concepticon.clld.org/parameters/239,phula,flower
+707-63,west2386,http://concepticon.clld.org/parameters/906,pēṛa,tree
+707-1,west2386,http://concepticon.clld.org/parameters/906,buṭā,tree
+707-638,west2386,http://concepticon.clld.org/parameters/343,bēla,vine
+707-1421,west2386,http://concepticon.clld.org/parameters/343,vēla,vine
+707-1062,west2386,http://concepticon.clld.org/parameters/974,tambākū,tobacco
+707-1462,west2386,http://concepticon.clld.org/parameters/1689,pīṇā,smoke (tobacco)
+707-506,west2386,http://concepticon.clld.org/parameters/1689,tohānā,smoke (tobacco)
+707-616,west2386,http://concepticon.clld.org/parameters/1124,paiypa,pipe
+707-151,west2386,http://concepticon.clld.org/parameters/1124,muralī,pipe
+707-667,west2386,http://concepticon.clld.org/parameters/1124,hukā,pipe
+707-86,west2386,http://concepticon.clld.org/parameters/344,taṇā,tree trunk
+707-586,west2386,http://concepticon.clld.org/parameters/1204,chilaṛa,bark
+707-16,west2386,http://concepticon.clld.org/parameters/970,nariyāla,coconut
+707-41,west2386,http://concepticon.clld.org/parameters/970,khōpā,coconut
+707-492,west2386,http://concepticon.clld.org/parameters/868,kēlā,banana tree
+707-1058,west2386,http://concepticon.clld.org/parameters/346,pipala,banyan
+707-154,west2386,http://concepticon.clld.org/parameters/159,śakarkanjī,sweet potato
+707-989,west2386,http://concepticon.clld.org/parameters/411,kadū,gourd
+707-989,west2386,http://concepticon.clld.org/parameters/864,kadū,"pumpkin, squash"
+707-162,west2386,http://concepticon.clld.org/parameters/1927,bānsa,bamboo
+707-1201,west2386,http://concepticon.clld.org/parameters/146,ganā,sugar cane
+707-1337,west2386,http://concepticon.clld.org/parameters/813,karanā,"do, make"
+707-331,west2386,http://concepticon.clld.org/parameters/984,kāma kāja,work
+707-958,west2386,http://concepticon.clld.org/parameters/2004,jhukanā,bend
+707-691,west2386,http://concepticon.clld.org/parameters/1470,samēṭaṇā,fold
+707-1016,west2386,http://concepticon.clld.org/parameters/1470,tehakaranā,fold
+707-142,west2386,http://concepticon.clld.org/parameters/1917,bandhanā,"tie, bind"
+707-655,west2386,http://concepticon.clld.org/parameters/352,kholaṇā,untie
+707-316,west2386,http://concepticon.clld.org/parameters/1627,janjīra,chain
+707-859,west2386,http://concepticon.clld.org/parameters/1627,saṇgalī,chain
+707-740,west2386,http://concepticon.clld.org/parameters/1218,rasā,"rope, cord"
+707-46,west2386,http://concepticon.clld.org/parameters/760,ganḍha,knot (noun)
+707-398,west2386,http://concepticon.clld.org/parameters/760,ganḍa,knot (noun)
+707-1055,west2386,http://concepticon.clld.org/parameters/2133,vajāṇā,"strike (hit, beat)"
+707-1311,west2386,http://concepticon.clld.org/parameters/2133,mārnā,"strike (hit, beat)"
+707-688,west2386,http://concepticon.clld.org/parameters/354,ghōṭaṇā,pound with fist
+707-1295,west2386,http://concepticon.clld.org/parameters/1432,kapanā,cut
+707-625,west2386,http://concepticon.clld.org/parameters/1432,kaṭaṇā,cut
+707-429,west2386,http://concepticon.clld.org/parameters/155,kutaranā,"chop, hew"
+707-1351,west2386,http://concepticon.clld.org/parameters/1434,ghōpanā,stab
+707-1217,west2386,http://concepticon.clld.org/parameters/1352,cākū,knife
+707-190,west2386,http://concepticon.clld.org/parameters/1352,churī,knife
+707-1401,west2386,http://concepticon.clld.org/parameters/356,kain̄cī,"scissors, shears"
+707-949,west2386,http://concepticon.clld.org/parameters/677,kavādī,ax
+707-1452,west2386,http://concepticon.clld.org/parameters/677,kulhāṛī,ax
+707-279,west2386,http://concepticon.clld.org/parameters/680,phōṛanā,break
+707-1038,west2386,http://concepticon.clld.org/parameters/680,tōṛanā,break
+707-1038,west2386,http://concepticon.clld.org/parameters/1437,tōṛanā,split
+707-1015,west2386,http://concepticon.clld.org/parameters/1735,phāṛanā,tear
+707-1293,west2386,http://concepticon.clld.org/parameters/291,camaṛā utāranā,"flay, skin"
+707-427,west2386,http://concepticon.clld.org/parameters/291,khāla utāranā,"flay, skin"
+707-692,west2386,http://concepticon.clld.org/parameters/1449,ragaṛanā,"rub, wipe"
+707-166,west2386,http://concepticon.clld.org/parameters/214,phailāṇā,stretch
+707-411,west2386,http://concepticon.clld.org/parameters/1455,chikaṇā,pull
+707-1121,west2386,http://concepticon.clld.org/parameters/1913,dabaṇā,press
+707-1249,west2386,http://concepticon.clld.org/parameters/1414,nicoṛanā,"squeeze, wring"
+707-1077,west2386,http://concepticon.clld.org/parameters/1487,pauṇā,pour
+707-1338,west2386,http://concepticon.clld.org/parameters/1453,dhōṇā,wash
+707-310,west2386,http://concepticon.clld.org/parameters/245,jhāṛū,broom
+707-637,west2386,http://concepticon.clld.org/parameters/1361,hathiara,tool
+707-111,west2386,http://concepticon.clld.org/parameters/1042,tarakhāṇa,carpenter
+707-385,west2386,http://concepticon.clld.org/parameters/1042,bāḍhāi,carpenter
+707-285,west2386,http://concepticon.clld.org/parameters/1840,baṇāṇā,build
+707-831,west2386,http://concepticon.clld.org/parameters/46,khōkhalā karanā,hollow out
+707-1153,west2386,http://concepticon.clld.org/parameters/1948,ārī,saw
+707-150,west2386,http://concepticon.clld.org/parameters/1481,hathauṛā,hammer
+707-680,west2386,http://concepticon.clld.org/parameters/502,kila,nail
+707-836,west2386,http://concepticon.clld.org/parameters/1069,gūnda,glue
+707-1264,west2386,http://concepticon.clld.org/parameters/1001,misatarī,"smith, blacksmith"
+707-1269,west2386,http://concepticon.clld.org/parameters/1001,luhāra,"smith, blacksmith"
+707-1052,west2386,http://concepticon.clld.org/parameters/288,baṭhī,forge
+707-66,west2386,http://concepticon.clld.org/parameters/288,bhaṭhī,forge
+707-461,west2386,http://concepticon.clld.org/parameters/211,ṭālanā,cast (metals)
+707-613,west2386,http://concepticon.clld.org/parameters/1369,sōnā,gold
+707-189,west2386,http://concepticon.clld.org/parameters/759,cāndī,silver
+707-39,west2386,http://concepticon.clld.org/parameters/1825,tāmbā,"copper, bronze"
+707-155,west2386,http://concepticon.clld.org/parameters/621,lōhā,iron
+707-795,west2386,http://concepticon.clld.org/parameters/627,sikā,lead (noun)
+707-355,west2386,http://concepticon.clld.org/parameters/358,kalī,"tin, tinplate"
+707-853,west2386,http://concepticon.clld.org/parameters/359,kameyāra,potter
+707-354,west2386,http://concepticon.clld.org/parameters/289,tālaṇa,mold (clay etc)
+707-448,west2386,http://concepticon.clld.org/parameters/1399,miṭī,clay
+707-1417,west2386,http://concepticon.clld.org/parameters/604,galāsa,glass
+707-526,west2386,http://concepticon.clld.org/parameters/604,śīśā,glass
+707-82,west2386,http://concepticon.clld.org/parameters/1729,bunṇā,"weave, plait"
+707-788,west2386,http://concepticon.clld.org/parameters/1539,ṭokrī,basket
+707-362,west2386,http://concepticon.clld.org/parameters/195,tapaṛa,mat
+707-26,west2386,http://concepticon.clld.org/parameters/195,ṭāṭa,mat
+707-690,west2386,http://concepticon.clld.org/parameters/292,kalīna,rug
+707-790,west2386,http://concepticon.clld.org/parameters/1971,jhalā,fan (noun)
+707-17,west2386,http://concepticon.clld.org/parameters/1971,pukhā,fan (noun)
+707-721,west2386,http://concepticon.clld.org/parameters/228,tarāśaṇā,carve
+707-180,west2386,http://concepticon.clld.org/parameters/228,taropanā,carve
+707-534,west2386,http://concepticon.clld.org/parameters/1002,buta,statue
+707-808,west2386,http://concepticon.clld.org/parameters/647,raṅga,paint (noun)
+707-911,west2386,http://concepticon.clld.org/parameters/765,haṭānā,move
+707-201,west2386,http://concepticon.clld.org/parameters/765,halānā,move
+707-45,west2386,http://concepticon.clld.org/parameters/1588,mōṛanā,turn over
+707-621,west2386,http://concepticon.clld.org/parameters/1113,lapēṭanā,"wind, wrap"
+707-866,west2386,http://concepticon.clld.org/parameters/1113,ṭhapanā,"wind, wrap"
+707-246,west2386,http://concepticon.clld.org/parameters/827,gasīṭanā,roll
+707-984,west2386,http://concepticon.clld.org/parameters/827,marōṛanā,roll
+707-755,west2386,http://concepticon.clld.org/parameters/808,ḍiganā,drop (vb)
+707-792,west2386,http://concepticon.clld.org/parameters/808,saṭanā,drop (vb)
+707-1329,west2386,http://concepticon.clld.org/parameters/430,vaṭaṇā,twist
+707-43,west2386,http://concepticon.clld.org/parameters/430,maroṛanā,twist
+707-265,west2386,http://concepticon.clld.org/parameters/568,uṭhanā,rise
+707-591,west2386,http://concepticon.clld.org/parameters/501,uṭhālaṇā,"raise, lift"
+707-874,west2386,http://concepticon.clld.org/parameters/1280,giranā,fall
+707-229,west2386,http://concepticon.clld.org/parameters/1280,ṭaiṇā,fall
+707-75,west2386,http://concepticon.clld.org/parameters/2253,ṭapakanā,drip
+707-1343,west2386,http://concepticon.clld.org/parameters/1456,suṭaṇā,throw
+707-67,west2386,http://concepticon.clld.org/parameters/702,phaṛanā,catch (ball)
+707-201,west2386,http://concepticon.clld.org/parameters/1909,halānā,shake
+707-1004,west2386,http://concepticon.clld.org/parameters/2003,vagāṇā,flow
+707-764,west2386,http://concepticon.clld.org/parameters/1088,ḍubaṇā,sink
+707-610,west2386,http://concepticon.clld.org/parameters/1574,taranā,float
+707-415,west2386,http://concepticon.clld.org/parameters/1439,taeranā,swim
+707-1129,west2386,http://concepticon.clld.org/parameters/119,cubhī karanā,dive
+707-348,west2386,http://concepticon.clld.org/parameters/365,chiṛakaṇā,splash
+707-867,west2386,http://concepticon.clld.org/parameters/365,suṭanā,splash
+707-610,west2386,http://concepticon.clld.org/parameters/787,taranā,sail (vb)
+707-1298,west2386,http://concepticon.clld.org/parameters/1441,uḍanā,fly (vb)
+707-648,west2386,http://concepticon.clld.org/parameters/175,caļaṇā,blow
+707-1265,west2386,http://concepticon.clld.org/parameters/96,rīṅgnā,"creep, crawl"
+707-958,west2386,http://concepticon.clld.org/parameters/296,jhukanā,crouch
+707-801,west2386,http://concepticon.clld.org/parameters/1324,tilakanā,"slide, slip"
+707-945,west2386,http://concepticon.clld.org/parameters/1829,uchalanā,"jump, leap"
+707-428,west2386,http://concepticon.clld.org/parameters/1135,ṭhokara māranā,kick
+707-1487,west2386,http://concepticon.clld.org/parameters/1879,nacanā,dance
+707-1445,west2386,http://concepticon.clld.org/parameters/1443,calanā,walk
+707-249,west2386,http://concepticon.clld.org/parameters/1443,ṭuranā,walk
+707-840,west2386,http://concepticon.clld.org/parameters/366,laṅgaṛānā,limp
+707-1155,west2386,http://concepticon.clld.org/parameters/1519,nasaṇā,run
+707-1392,west2386,http://concepticon.clld.org/parameters/695,jāṇā,go
+707-587,west2386,http://concepticon.clld.org/parameters/1102,caṛhanā,climb
+707-341,west2386,http://concepticon.clld.org/parameters/1446,āṅā,come
+707-113,west2386,http://concepticon.clld.org/parameters/581,paratanā,come back
+707-458,west2386,http://concepticon.clld.org/parameters/1752,nikalaṇā,"go away, depart"
+707-1255,west2386,http://concepticon.clld.org/parameters/485,gāeba honā,disappear
+707-345,west2386,http://concepticon.clld.org/parameters/956,nasaṇā,flee
+707-977,west2386,http://concepticon.clld.org/parameters/956,naṭhaṇā,flee
+707-529,west2386,http://concepticon.clld.org/parameters/1085,picchā karanā,follow
+707-12,west2386,http://concepticon.clld.org/parameters/1387,pahucaṇā,"reach, arrive"
+707-53,west2386,http://concepticon.clld.org/parameters/1778,ṭukanā,approach
+707-1460,west2386,http://concepticon.clld.org/parameters/1778,ḍhukanā,approach
+707-1309,west2386,http://concepticon.clld.org/parameters/749,varṇā,enter
+707-553,west2386,http://concepticon.clld.org/parameters/692,liyaṇā,bring
+707-336,west2386,http://concepticon.clld.org/parameters/1127,bhējaṇā,send
+707-101,west2386,http://concepticon.clld.org/parameters/741,calāṇā,drive
+707-587,west2386,http://concepticon.clld.org/parameters/367,caṛhanā,ride
+707-643,west2386,http://concepticon.clld.org/parameters/1452,dhasanā,"push, shove"
+707-292,west2386,http://concepticon.clld.org/parameters/1452,dakēlanā,"push, shove"
+707-1240,west2386,http://concepticon.clld.org/parameters/667,rasatā,road
+707-858,west2386,http://concepticon.clld.org/parameters/2252,rāha,path
+707-178,west2386,http://concepticon.clld.org/parameters/2252,rā,path
+707-732,west2386,http://concepticon.clld.org/parameters/1011,pula,bridge
+707-711,west2386,http://concepticon.clld.org/parameters/122,gaḍī,"carriage, wagon, cart"
+707-360,west2386,http://concepticon.clld.org/parameters/122,gaddī,"carriage, wagon, cart"
+707-1406,west2386,http://concepticon.clld.org/parameters/710,cakā,wheel
+707-371,west2386,http://concepticon.clld.org/parameters/1769,dhura,axle
+707-430,west2386,http://concepticon.clld.org/parameters/1769,turnā,axle
+707-1190,west2386,http://concepticon.clld.org/parameters/740,jahāja,ship
+707-1299,west2386,http://concepticon.clld.org/parameters/1844,nāva,boat
+707-857,west2386,http://concepticon.clld.org/parameters/1844,kaśatī,boat
+707-389,west2386,http://concepticon.clld.org/parameters/1970,bēṛī,canoe
+707-388,west2386,http://concepticon.clld.org/parameters/1664,bēṛā,raft
+707-1125,west2386,http://concepticon.clld.org/parameters/1849,calānā,row (vb)
+707-73,west2386,http://concepticon.clld.org/parameters/1870,laṅgara,anchor
+707-440,west2386,http://concepticon.clld.org/parameters/610,bandaragāha,"harbor, port"
+707-541,west2386,http://concepticon.clld.org/parameters/1922,poucanā,land (vb)
+707-664,west2386,http://concepticon.clld.org/parameters/684,āpaṇānānā,"own, possess"
+707-683,west2386,http://concepticon.clld.org/parameters/1749,lainā,take
+707-957,west2386,http://concepticon.clld.org/parameters/2021,pharaṇā,"seize, grasp"
+707-957,west2386,http://concepticon.clld.org/parameters/1448,pharaṇā,hold
+707-683,west2386,http://concepticon.clld.org/parameters/694,lainā,"get, obtain"
+707-646,west2386,http://concepticon.clld.org/parameters/1477,rakhaṇā,"keep, retain"
+707-126,west2386,http://concepticon.clld.org/parameters/738,cīza,thing
+707-835,west2386,http://concepticon.clld.org/parameters/1447,dēṇā,give
+707-646,west2386,http://concepticon.clld.org/parameters/1997,rakhaṇā,"preserve, look after"
+707-893,west2386,http://concepticon.clld.org/parameters/2008,bacāṇā,"save, rescue"
+707-1107,west2386,http://concepticon.clld.org/parameters/681,ujāṛanā,destroy
+707-1250,west2386,http://concepticon.clld.org/parameters/1468,dēkhaṇā,"seek, look for"
+707-551,west2386,http://concepticon.clld.org/parameters/1468,ṭūṇaḍanā,"seek, look for"
+707-1180,west2386,http://concepticon.clld.org/parameters/719,labhaṇā,find
+707-35,west2386,http://concepticon.clld.org/parameters/1660,khoṇā,lose
+707-1352,west2386,http://concepticon.clld.org/parameters/1660,guacaṇā,lose
+707-1360,west2386,http://concepticon.clld.org/parameters/1095,chaḍanā,"release, let go"
+707-1036,west2386,http://concepticon.clld.org/parameters/1559,paisā,money
+707-1412,west2386,http://concepticon.clld.org/parameters/1867,pāṇa,coin
+707-1304,west2386,http://concepticon.clld.org/parameters/712,amīra,rich
+707-48,west2386,http://concepticon.clld.org/parameters/1674,ġarība,poor
+707-1333,west2386,http://concepticon.clld.org/parameters/1934,bhikhārī,beggar
+707-749,west2386,http://concepticon.clld.org/parameters/1934,fakīra,beggar
+707-472,west2386,http://concepticon.clld.org/parameters/1774,kanjūsa,"avaricious, stingy"
+707-1088,west2386,http://concepticon.clld.org/parameters/582,dēṇā,lend
+707-191,west2386,http://concepticon.clld.org/parameters/1823,lēṇā,borrow
+707-333,west2386,http://concepticon.clld.org/parameters/1823,maṅgaṇā,borrow
+707-965,west2386,http://concepticon.clld.org/parameters/1914,karzā,debt
+707-695,west2386,http://concepticon.clld.org/parameters/718,tāranā,pay (vb)
+707-694,west2386,http://concepticon.clld.org/parameters/1081,ciṭhā,"account, reckoning"
+707-555,west2386,http://concepticon.clld.org/parameters/873,taks,"tax, tribute"
+707-903,west2386,http://concepticon.clld.org/parameters/873,kara,"tax, tribute"
+707-750,west2386,http://concepticon.clld.org/parameters/856,udāra lēṇā,hire
+707-1017,west2386,http://concepticon.clld.org/parameters/1122,mazadūrī,wages
+707-276,west2386,http://concepticon.clld.org/parameters/733,kamāṇā,earn
+707-1407,west2386,http://concepticon.clld.org/parameters/1869,kharīdanā,buy
+707-381,west2386,http://concepticon.clld.org/parameters/1571,vēcanā,sell
+707-803,west2386,http://concepticon.clld.org/parameters/2135,saudā,"trade, barter"
+707-1307,west2386,http://concepticon.clld.org/parameters/1082,vapārī,merchant
+707-564,west2386,http://concepticon.clld.org/parameters/1082,bapārī,merchant
+707-459,west2386,http://concepticon.clld.org/parameters/633,bazāra,market (place)
+707-102,west2386,http://concepticon.clld.org/parameters/752,dukāṇa,"store, shop"
+707-1241,west2386,http://concepticon.clld.org/parameters/657,kīmata,price
+707-1123,west2386,http://concepticon.clld.org/parameters/1426,mehaṅgā,"dear (costly, expensive)"
+707-192,west2386,http://concepticon.clld.org/parameters/1887,sastā,cheap
+707-884,west2386,http://concepticon.clld.org/parameters/884,vanḍanā,share (distribute)
+707-1450,west2386,http://concepticon.clld.org/parameters/1098,miṇanā,weigh
+707-969,west2386,http://concepticon.clld.org/parameters/723,jagā,place
+707-157,west2386,http://concepticon.clld.org/parameters/998,rakhaṇā,put
+707-875,west2386,http://concepticon.clld.org/parameters/1416,beṇā,sit
+707-730,west2386,http://concepticon.clld.org/parameters/215,lēṭanā,lie down
+707-1381,west2386,http://concepticon.clld.org/parameters/1442,khaloṇā,stand
+707-1274,west2386,http://concepticon.clld.org/parameters/987,raheṇā,"remain, stay"
+707-1209,west2386,http://concepticon.clld.org/parameters/838,avaśēśa,"remains, left overs"
+707-1091,west2386,http://concepticon.clld.org/parameters/838,bākī,"remains, left overs"
+707-1184,west2386,http://concepticon.clld.org/parameters/7,kaṭhē karanā,"collect, gather"
+707-338,west2386,http://concepticon.clld.org/parameters/371,cuṇanā,pick up
+707-931,west2386,http://concepticon.clld.org/parameters/1576,joṛanā,pile up
+707-931,west2386,http://concepticon.clld.org/parameters/1743,joṛanā,"join, unite"
+707-714,west2386,http://concepticon.clld.org/parameters/1359,vaḍīṇā,separate
+707-791,west2386,http://concepticon.clld.org/parameters/1359,vakhareyān karanā,separate
+707-548,west2386,http://concepticon.clld.org/parameters/1156,kholanā,open
+707-665,west2386,http://concepticon.clld.org/parameters/1046,banda karanā,"shut, close"
+707-1159,west2386,http://concepticon.clld.org/parameters/761,ḍhākṇā,cover
+707-748,west2386,http://concepticon.clld.org/parameters/761,ṭākaṇā,cover
+707-205,west2386,http://concepticon.clld.org/parameters/602,lukānā,"hide, conceal"
+707-266,west2386,http://concepticon.clld.org/parameters/1265,ucā,high
+707-122,west2386,http://concepticon.clld.org/parameters/721,niccā,low
+707-936,west2386,http://concepticon.clld.org/parameters/1753,cōṭī,top
+707-356,west2386,http://concepticon.clld.org/parameters/742,akhīra,end
+707-416,west2386,http://concepticon.clld.org/parameters/372,nokīlā,pointed
+707-1313,west2386,http://concepticon.clld.org/parameters/863,kinārā,edge
+707-672,west2386,http://concepticon.clld.org/parameters/682,tarphā,side
+707-539,west2386,http://concepticon.clld.org/parameters/1093,darmiyāna,"middle, center"
+707-950,west2386,http://concepticon.clld.org/parameters/1019,siddā,right (side)
+707-1138,west2386,http://concepticon.clld.org/parameters/244,putḥā,left (side)
+707-495,west2386,http://concepticon.clld.org/parameters/1942,nēṛē,near (adv)
+707-935,west2386,http://concepticon.clld.org/parameters/1406,dūra,far (adv)
+707-631,west2386,http://concepticon.clld.org/parameters/1877,caṛdē,east
+707-644,west2386,http://concepticon.clld.org/parameters/1877,pūraba,east
+707-1448,west2386,http://concepticon.clld.org/parameters/1817,lendē,west
+707-940,west2386,http://concepticon.clld.org/parameters/1817,pachama,west
+707-1384,west2386,http://concepticon.clld.org/parameters/1598,parbata,north
+707-394,west2386,http://concepticon.clld.org/parameters/1595,dakhaṇa,south
+707-674,west2386,http://concepticon.clld.org/parameters/479,ugāuṇā,grow
+707-588,west2386,http://concepticon.clld.org/parameters/479,lāṇā,grow
+707-744,west2386,http://concepticon.clld.org/parameters/1506,menaṇā,measure
+707-1463,west2386,http://concepticon.clld.org/parameters/1202,baṛā,"large, big"
+707-933,west2386,http://concepticon.clld.org/parameters/1202,vaḍḍā,"large, big"
+707-576,west2386,http://concepticon.clld.org/parameters/1246,chōṭē,"small, little"
+707-1095,west2386,http://concepticon.clld.org/parameters/1246,nikkā,"small, little"
+707-905,west2386,http://concepticon.clld.org/parameters/1203,labā,long
+707-619,west2386,http://concepticon.clld.org/parameters/1203,lammā,long
+707-670,west2386,http://concepticon.clld.org/parameters/711,javāna,tall
+707-619,west2386,http://concepticon.clld.org/parameters/711,lammā,tall
+707-230,west2386,http://concepticon.clld.org/parameters/1645,nikā,short
+707-373,west2386,http://concepticon.clld.org/parameters/1645,choṭā,short
+707-1477,west2386,http://concepticon.clld.org/parameters/1243,cauṛī,"wide, broad"
+707-1348,west2386,http://concepticon.clld.org/parameters/1243,choṛā,"wide, broad"
+707-1061,west2386,http://concepticon.clld.org/parameters/1267,taṅga,narrow
+707-1465,west2386,http://concepticon.clld.org/parameters/1244,mōṭī,thick (in dimension)
+707-1300,west2386,http://concepticon.clld.org/parameters/1244,mōṭā,thick (in dimension)
+707-5,west2386,http://concepticon.clld.org/parameters/1400,patalī,thin (in dimension)
+707-1188,west2386,http://concepticon.clld.org/parameters/1400,patalā,thin (in dimension)
+707-572,west2386,http://concepticon.clld.org/parameters/1593,gahirē,deep
+707-196,west2386,http://concepticon.clld.org/parameters/1593,dhuṅgā,deep
+707-752,west2386,http://concepticon.clld.org/parameters/1633,samatala,flat
+707-164,west2386,http://concepticon.clld.org/parameters/1633,barābara,flat
+707-662,west2386,http://concepticon.clld.org/parameters/1404,sarala,straight
+707-774,west2386,http://concepticon.clld.org/parameters/1404,siddā,straight
+707-1148,west2386,http://concepticon.clld.org/parameters/192,konā,corner
+707-703,west2386,http://concepticon.clld.org/parameters/850,caurasa,square
+707-1050,west2386,http://concepticon.clld.org/parameters/1395,gōla,round
+707-1420,west2386,http://concepticon.clld.org/parameters/1467,dairā,circle
+707-498,west2386,http://concepticon.clld.org/parameters/1845,gēnda,"sphere, ball"
+707-970,west2386,http://concepticon.clld.org/parameters/1048,āla,line
+707-1169,west2386,http://concepticon.clld.org/parameters/1048,lakīra,line
+707-1171,west2386,http://concepticon.clld.org/parameters/1048,līka,line
+707-1002,west2386,http://concepticon.clld.org/parameters/1667,bila,hole
+707-138,west2386,http://concepticon.clld.org/parameters/1667,mōrī,hole
+707-94,west2386,http://concepticon.clld.org/parameters/1558,ikōjē,"like, similar"
+707-1084,west2386,http://concepticon.clld.org/parameters/1264,badalanā,change
+707-552,west2386,http://concepticon.clld.org/parameters/1515,dasa,ten
+707-612,west2386,http://concepticon.clld.org/parameters/1706,giārāna,eleven
+707-247,west2386,http://concepticon.clld.org/parameters/1707,bārhāna,twelve
+707-476,west2386,http://concepticon.clld.org/parameters/1709,padarāna,fifteen
+707-921,west2386,http://concepticon.clld.org/parameters/1710,vīha,twenty
+707-849,west2386,http://concepticon.clld.org/parameters/1710,vī,twenty
+707-554,west2386,http://concepticon.clld.org/parameters/1634,sau,hundred
+707-419,west2386,http://concepticon.clld.org/parameters/1634,sō,hundred
+707-79,west2386,http://concepticon.clld.org/parameters/1843,hazāra,thousand
+707-1151,west2386,http://concepticon.clld.org/parameters/1420,giṇanā,count
+707-418,west2386,http://concepticon.clld.org/parameters/98,pūrā,"every, all"
+707-604,west2386,http://concepticon.clld.org/parameters/1198,anēka,"much, many"
+707-979,west2386,http://concepticon.clld.org/parameters/1198,bhotē,"much, many"
+707-1166,west2386,http://concepticon.clld.org/parameters/1992,adhika,more
+707-379,west2386,http://concepticon.clld.org/parameters/1992,zyādā,more
+707-1212,west2386,http://concepticon.clld.org/parameters/1242,kujha,"little (quantity), few"
+707-1161,west2386,http://concepticon.clld.org/parameters/1242,ṭhoṛe,"little (quantity), few"
+707-580,west2386,http://concepticon.clld.org/parameters/1881,kāfī,enough
+707-1425,west2386,http://concepticon.clld.org/parameters/1241,canda,some
+707-240,west2386,http://concepticon.clld.org/parameters/2023,bhīṛa,"multitude, crowd"
+707-689,west2386,http://concepticon.clld.org/parameters/2023,pīṛa,"multitude, crowd"
+707-452,west2386,http://concepticon.clld.org/parameters/1429,pure,full
+707-1162,west2386,http://concepticon.clld.org/parameters/1624,khālī,empty
+707-1254,west2386,http://concepticon.clld.org/parameters/779,vichaṛa,"part, piece"
+707-1218,west2386,http://concepticon.clld.org/parameters/779,hissā,"part, piece"
+707-130,west2386,http://concepticon.clld.org/parameters/816,adhē,half
+707-457,west2386,http://concepticon.clld.org/parameters/816,addā,half
+707-999,west2386,http://concepticon.clld.org/parameters/1580,ikalā,"alone, only"
+707-1182,west2386,http://concepticon.clld.org/parameters/1580,sirf,"alone, only"
+707-673,west2386,http://concepticon.clld.org/parameters/728,pahilē,first
+707-213,west2386,http://concepticon.clld.org/parameters/728,paillā,first
+707-217,west2386,http://concepticon.clld.org/parameters/1529,ākhrī,last
+707-772,west2386,http://concepticon.clld.org/parameters/1384,dūsarī,second
+707-794,west2386,http://concepticon.clld.org/parameters/1384,dūsarā,second
+707-1427,west2386,http://concepticon.clld.org/parameters/1888,juṭa,pair
+707-910,west2386,http://concepticon.clld.org/parameters/1888,joṛā,pair
+707-623,west2386,http://concepticon.clld.org/parameters/1546,dūṇā,two times
+707-909,west2386,http://concepticon.clld.org/parameters/1859,tījē,third
+707-768,west2386,http://concepticon.clld.org/parameters/417,tiguṇā,three times
+707-559,west2386,http://concepticon.clld.org/parameters/892,samāṁ,time
+707-705,west2386,http://concepticon.clld.org/parameters/892,vakata,time
+707-1222,west2386,http://concepticon.clld.org/parameters/892,velā,time
+707-131,west2386,http://concepticon.clld.org/parameters/1789,umara,age
+707-870,west2386,http://concepticon.clld.org/parameters/1231,navāṁ,new
+707-670,west2386,http://concepticon.clld.org/parameters/1207,javāna,young
+707-1060,west2386,http://concepticon.clld.org/parameters/1229,buḍḍā,old
+707-321,west2386,http://concepticon.clld.org/parameters/672,jaldī,early
+707-723,west2386,http://concepticon.clld.org/parameters/477,cirakē,late
+707-1140,west2386,http://concepticon.clld.org/parameters/1376,huṇa,now
+707-434,west2386,http://concepticon.clld.org/parameters/1963,paṭa,immediately
+707-1393,west2386,http://concepticon.clld.org/parameters/1963,jhaṭa paṭa,immediately
+707-1437,west2386,http://concepticon.clld.org/parameters/1631,tēza,"swift, fast, quick"
+707-561,west2386,http://concepticon.clld.org/parameters/701,hauļī,slow
+707-1473,west2386,http://concepticon.clld.org/parameters/754,chētī,"hasten, hurry"
+707-127,west2386,http://concepticon.clld.org/parameters/1806,śuru karanā,"begin, beginning"
+707-891,west2386,http://concepticon.clld.org/parameters/1186,reheṇā,"last, endure"
+707-356,west2386,http://concepticon.clld.org/parameters/743,akhīra,end (temporal)
+707-518,west2386,http://concepticon.clld.org/parameters/1766,mukaṇā,finish
+707-1086,west2386,http://concepticon.clld.org/parameters/1928,banda hoṇā,"cease, stop"
+707-20,west2386,http://concepticon.clld.org/parameters/790,tiyāra,ready
+707-583,west2386,http://concepticon.clld.org/parameters/1676,hamēśā,always
+707-1283,west2386,http://concepticon.clld.org/parameters/1852,akasara,often
+707-1001,west2386,http://concepticon.clld.org/parameters/1544,kadī,sometimes
+707-602,west2386,http://concepticon.clld.org/parameters/703,jaladī,soon
+707-724,west2386,http://concepticon.clld.org/parameters/1656,kadi nahina,never
+707-1342,west2386,http://concepticon.clld.org/parameters/204,dōbārā,again
+707-590,west2386,http://concepticon.clld.org/parameters/1260,dihāṛā,day
+707-1303,west2386,http://concepticon.clld.org/parameters/1233,rāta,night
+707-1277,west2386,http://concepticon.clld.org/parameters/729,savēra,dawn
+707-1277,west2386,http://concepticon.clld.org/parameters/1339,savēra,morning
+707-296,west2386,http://concepticon.clld.org/parameters/12,dupahira,"noon, midday"
+707-296,west2386,http://concepticon.clld.org/parameters/1807,dupahira,afternoon
+707-702,west2386,http://concepticon.clld.org/parameters/1807,duphahere,afternoon
+707-700,west2386,http://concepticon.clld.org/parameters/1629,sān̄jha,evening
+707-1418,west2386,http://concepticon.clld.org/parameters/1629,śāmī,evening
+707-117,west2386,http://concepticon.clld.org/parameters/1283,aja,today
+707-289,west2386,http://concepticon.clld.org/parameters/1329,kala,tomorrow
+707-289,west2386,http://concepticon.clld.org/parameters/1174,kala,yesterday
+707-259,west2386,http://concepticon.clld.org/parameters/1180,parasōna,day-before-yesterday
+707-1403,west2386,http://concepticon.clld.org/parameters/1353,ghanṭā,hour
+707-50,west2386,http://concepticon.clld.org/parameters/1353,kenṭā,hour
+707-501,west2386,http://concepticon.clld.org/parameters/1323,ghaṛī,"clock, timepiece"
+707-58,west2386,http://concepticon.clld.org/parameters/1323,kaṛī,"clock, timepiece"
+707-29,west2386,http://concepticon.clld.org/parameters/1469,hafatā,week
+707-765,west2386,http://concepticon.clld.org/parameters/1469,sapatāha,week
+707-118,west2386,http://concepticon.clld.org/parameters/1699,ravīvāra,Sunday
+707-245,west2386,http://concepticon.clld.org/parameters/1697,sōmavāra,Monday
+707-651,west2386,http://concepticon.clld.org/parameters/1695,maṅgalavāra,Tuesday
+707-861,west2386,http://concepticon.clld.org/parameters/1694,budhavāra,Wednesday
+707-323,west2386,http://concepticon.clld.org/parameters/1693,vīravāra,Thursday
+707-597,west2386,http://concepticon.clld.org/parameters/1692,śukaravāra,Friday
+707-234,west2386,http://concepticon.clld.org/parameters/1700,śanīvāra,Saturday
+707-1467,west2386,http://concepticon.clld.org/parameters/1370,mahīnā,month
+707-1470,west2386,http://concepticon.clld.org/parameters/1226,sāla,year
+707-1433,west2386,http://concepticon.clld.org/parameters/1471,saradī,winter
+707-295,west2386,http://concepticon.clld.org/parameters/1537,bahāra,spring
+707-882,west2386,http://concepticon.clld.org/parameters/1537,bāra,spring
+707-491,west2386,http://concepticon.clld.org/parameters/1342,garamī,summer
+707-439,west2386,http://concepticon.clld.org/parameters/1276,patajhaṛa,autumn
+707-1033,west2386,http://concepticon.clld.org/parameters/691,ruta,season
+707-386,west2386,http://concepticon.clld.org/parameters/1587,khuśabu ānā̄,smell (vb intrans)
+707-542,west2386,http://concepticon.clld.org/parameters/375,sughaṇā,sniff
+707-405,west2386,http://concepticon.clld.org/parameters/1586,sughaṇā,smell (vb trans)
+707-767,west2386,http://concepticon.clld.org/parameters/376,khuśabūdāra,"fragrant, good smelling"
+707-873,west2386,http://concepticon.clld.org/parameters/42,badabū,"stinking, bad smelling"
+707-121,west2386,http://concepticon.clld.org/parameters/21,cakhaṇā,taste
+707-509,west2386,http://concepticon.clld.org/parameters/717,miṭhā,sweet
+707-1057,west2386,http://concepticon.clld.org/parameters/1091,namakīna,salty
+707-698,west2386,http://concepticon.clld.org/parameters/887,kauṛā,bitter
+707-1367,west2386,http://concepticon.clld.org/parameters/1906,khaṭā,"acid, sour"
+707-997,west2386,http://concepticon.clld.org/parameters/70,khārā,brackish
+707-421,west2386,http://concepticon.clld.org/parameters/1408,sunuāi denā,hear
+707-828,west2386,http://concepticon.clld.org/parameters/1408,sunuāIa ānā,hear
+707-787,west2386,http://concepticon.clld.org/parameters/1608,suṇanā,listen
+707-1059,west2386,http://concepticon.clld.org/parameters/1811,avāza,"sound, noise"
+707-622,west2386,http://concepticon.clld.org/parameters/1811,roļā,"sound, noise"
+707-1331,west2386,http://concepticon.clld.org/parameters/377,ucā,loud
+707-952,west2386,http://concepticon.clld.org/parameters/1314,śānta,"quiet, silence"
+707-535,west2386,http://concepticon.clld.org/parameters/1314,khamōśa,"quiet, silence"
+707-1245,west2386,http://concepticon.clld.org/parameters/1409,dēkhanā,see
+707-722,west2386,http://concepticon.clld.org/parameters/1409,takāṇā,see
+707-1245,west2386,http://concepticon.clld.org/parameters/1819,dēkhanā,"look, look at"
+707-1070,west2386,http://concepticon.clld.org/parameters/1039,dikhāṇā,show
+707-218,west2386,http://concepticon.clld.org/parameters/708,camakāṇā,shine
+707-250,west2386,http://concepticon.clld.org/parameters/679,ujālā,bright
+707-808,west2386,http://concepticon.clld.org/parameters/1613,raṅga,color
+707-659,west2386,http://concepticon.clld.org/parameters/250,parakāśa,light (in color)
+707-1116,west2386,http://concepticon.clld.org/parameters/250,rośanī,light (in color)
+707-706,west2386,http://concepticon.clld.org/parameters/706,nerā,dark (in color)
+707-1262,west2386,http://concepticon.clld.org/parameters/1335,safaida,white
+707-1056,west2386,http://concepticon.clld.org/parameters/1335,chiṭṭā,white
+707-1305,west2386,http://concepticon.clld.org/parameters/163,kālā,black
+707-317,west2386,http://concepticon.clld.org/parameters/156,lāla,red
+707-918,west2386,http://concepticon.clld.org/parameters/156,ṣūhā,red
+707-595,west2386,http://concepticon.clld.org/parameters/837,nīlā,blue
+707-917,west2386,http://concepticon.clld.org/parameters/1425,harā,green
+707-438,west2386,http://concepticon.clld.org/parameters/1424,pīlā,yellow
+707-1065,west2386,http://concepticon.clld.org/parameters/1892,chūhṇā,touch
+707-925,west2386,http://concepticon.clld.org/parameters/378,cunḍi māranā,pinch
+707-1449,west2386,http://concepticon.clld.org/parameters/1079,lagaṇā,feel
+707-52,west2386,http://concepticon.clld.org/parameters/1884,mazabūta,hard
+707-27,west2386,http://concepticon.clld.org/parameters/1884,saḵẖata,hard
+707-964,west2386,http://concepticon.clld.org/parameters/1884,ḍaḍā,hard
+707-493,west2386,http://concepticon.clld.org/parameters/1856,mulā'ima,soft
+707-615,west2386,http://concepticon.clld.org/parameters/1856,polā,soft
+707-782,west2386,http://concepticon.clld.org/parameters/1923,rukhā,rough
+707-1111,west2386,http://concepticon.clld.org/parameters/1923,khurdarā,rough
+707-233,west2386,http://concepticon.clld.org/parameters/1234,mulāyama,smooth
+707-1437,west2386,http://concepticon.clld.org/parameters/1396,tēza,sharp
+707-1454,west2386,http://concepticon.clld.org/parameters/379,khar'havā,"blunt, dull"
+707-821,west2386,http://concepticon.clld.org/parameters/379,khunḍī,"blunt, dull"
+707-232,west2386,http://concepticon.clld.org/parameters/1210,vazanadāra,heavy
+707-72,west2386,http://concepticon.clld.org/parameters/1210,bhārī,heavy
+707-1317,west2386,http://concepticon.clld.org/parameters/1210,pārī,heavy
+707-630,west2386,http://concepticon.clld.org/parameters/1052,halakā,light (in weight)
+707-653,west2386,http://concepticon.clld.org/parameters/1052,holā,light (in weight)
+707-862,west2386,http://concepticon.clld.org/parameters/1726,gilē,"wet, damp"
+707-1341,west2386,http://concepticon.clld.org/parameters/1726,gilā,"wet, damp"
+707-985,west2386,http://concepticon.clld.org/parameters/1398,sukā,dry
+707-563,west2386,http://concepticon.clld.org/parameters/1286,garama,hot
+707-563,west2386,http://concepticon.clld.org/parameters/1232,garama,warm
+707-1226,west2386,http://concepticon.clld.org/parameters/1287,ṭhanḍa,cold
+707-953,west2386,http://concepticon.clld.org/parameters/704,sutharā,clean
+707-339,west2386,http://concepticon.clld.org/parameters/1230,mailā,"dirty, soiled"
+707-620,west2386,http://concepticon.clld.org/parameters/380,jhuṛī,wrinkled
+707-679,west2386,http://concepticon.clld.org/parameters/380,vaṭa,wrinkled
+707-830,west2386,http://concepticon.clld.org/parameters/53,ātamā,"soul, spirit"
+707-1319,west2386,http://concepticon.clld.org/parameters/53,rūha,"soul, spirit"
+707-61,west2386,http://concepticon.clld.org/parameters/1572,hairāna,"surprised, astonished"
+707-235,west2386,http://concepticon.clld.org/parameters/720,khuśakisamatī,"good fortune, luck"
+707-49,west2386,http://concepticon.clld.org/parameters/720,subhāga,"good fortune, luck"
+707-668,west2386,http://concepticon.clld.org/parameters/56,badakisamatī,"misfortune, bad luck"
+707-244,west2386,http://concepticon.clld.org/parameters/1495,khuśa,"joyful, glad, happy"
+707-128,west2386,http://concepticon.clld.org/parameters/1355,hasnā,laugh
+707-1335,west2386,http://concepticon.clld.org/parameters/1451,musakarānā,smile
+707-971,west2386,http://concepticon.clld.org/parameters/1413,khēḍaṇā,play
+707-437,west2386,http://concepticon.clld.org/parameters/923,prēma karanā,love
+707-375,west2386,http://concepticon.clld.org/parameters/578,cumī karanā,kiss
+707-1410,west2386,http://concepticon.clld.org/parameters/928,lipaṭanā,embrace
+707-1133,west2386,http://concepticon.clld.org/parameters/1783,darada,pain
+707-689,west2386,http://concepticon.clld.org/parameters/1783,pīṛa,pain
+707-1133,west2386,http://concepticon.clld.org/parameters/1668,darada,"grief, sorrow, sadness"
+707-363,west2386,http://concepticon.clld.org/parameters/1668,dukha,"grief, sorrow, sadness"
+707-262,west2386,http://concepticon.clld.org/parameters/1000,bēcainī,"anxiety, worry"
+707-1224,west2386,http://concepticon.clld.org/parameters/1875,pachatāṇā,"regret, be sorry"
+707-1372,west2386,http://concepticon.clld.org/parameters/1141,tarasa,pity
+707-1220,west2386,http://concepticon.clld.org/parameters/1839,bilabilānā,"cry, weep"
+707-311,west2386,http://concepticon.clld.org/parameters/1839,rōṇā,"cry, weep"
+707-282,west2386,http://concepticon.clld.org/parameters/1651,cīra,tear (noun)
+707-1246,west2386,http://concepticon.clld.org/parameters/1651,hanjū,tear (noun)
+707-944,west2386,http://concepticon.clld.org/parameters/716,rarahnā,groan
+707-1040,west2386,http://concepticon.clld.org/parameters/1607,nafarata karanā,hate
+707-291,west2386,http://concepticon.clld.org/parameters/82,krōdha,anger
+707-1385,west2386,http://concepticon.clld.org/parameters/82,ghusā,anger
+707-1157,west2386,http://concepticon.clld.org/parameters/40,jalana,"envy, jealousy"
+707-645,west2386,http://concepticon.clld.org/parameters/40,saṛanā,"envy, jealousy"
+707-522,west2386,http://concepticon.clld.org/parameters/1776,lāja,shame (noun)
+707-1368,west2386,http://concepticon.clld.org/parameters/1776,śarama,shame (noun)
+707-537,west2386,http://concepticon.clld.org/parameters/174,garūra,proud
+707-1345,west2386,http://concepticon.clld.org/parameters/1779,himmata karanā,dare
+707-1325,west2386,http://concepticon.clld.org/parameters/3,sāhasī,brave
+707-270,west2386,http://concepticon.clld.org/parameters/3,niḍara,brave
+707-888,west2386,http://concepticon.clld.org/parameters/781,ḍara,"fear, fright"
+707-626,west2386,http://concepticon.clld.org/parameters/1810,ḵẖatarā,danger
+707-1195,west2386,http://concepticon.clld.org/parameters/1810,jōkhama,danger
+707-1414,west2386,http://concepticon.clld.org/parameters/1784,cāhaṇā,"desire, want"
+707-120,west2386,http://concepticon.clld.org/parameters/1784,cāhaṇā,"desire, want"
+707-733,west2386,http://concepticon.clld.org/parameters/1750,cuṇanā,choose
+707-817,west2386,http://concepticon.clld.org/parameters/1092,umīda karanā,hope
+707-275,west2386,http://concepticon.clld.org/parameters/1092,āsa lagānā,hope
+707-1235,west2386,http://concepticon.clld.org/parameters/100,vafādāra,faithful
+707-1239,west2386,http://concepticon.clld.org/parameters/1657,sacī,true
+707-172,west2386,http://concepticon.clld.org/parameters/1657,sahī,true
+707-335,west2386,http://concepticon.clld.org/parameters/601,cūṭha bolanā,"lie, tell lies"
+707-1349,west2386,http://concepticon.clld.org/parameters/13,dhōkhā,deceit
+707-1471,west2386,http://concepticon.clld.org/parameters/13,tokhā,deceit
+707-742,west2386,http://concepticon.clld.org/parameters/1528,māfī karanā,forgive
+707-1113,west2386,http://concepticon.clld.org/parameters/1035,achā,good
+707-1089,west2386,http://concepticon.clld.org/parameters/1035,caṅgā,good
+707-251,west2386,http://concepticon.clld.org/parameters/1292,ḵẖarāba,bad
+707-353,west2386,http://concepticon.clld.org/parameters/1292,burā,bad
+707-982,west2386,http://concepticon.clld.org/parameters/1292,paiṛā,bad
+707-172,west2386,http://concepticon.clld.org/parameters/1725,sahī,"right, correct"
+707-223,west2386,http://concepticon.clld.org/parameters/1390,ġalata,wrong
+707-822,west2386,http://concepticon.clld.org/parameters/134,dōśa,fault
+707-1210,west2386,http://concepticon.clld.org/parameters/134,galatī,fault
+707-281,west2386,http://concepticon.clld.org/parameters/1293,ġalatī,"mistake, error"
+707-822,west2386,http://concepticon.clld.org/parameters/381,dōśa,blame
+707-896,west2386,http://concepticon.clld.org/parameters/1687,praśasā,praise
+707-1484,west2386,http://concepticon.clld.org/parameters/1687,tarīfa,praise
+707-1110,west2386,http://concepticon.clld.org/parameters/1427,ḵẖubasūrata,beautiful
+707-581,west2386,http://concepticon.clld.org/parameters/1427,soṇā,beautiful
+707-1453,west2386,http://concepticon.clld.org/parameters/1548,badasūrata,ugly
+707-948,west2386,http://concepticon.clld.org/parameters/2018,lōbhī,greedy
+707-372,west2386,http://concepticon.clld.org/parameters/2018,lālacī,greedy
+707-1398,west2386,http://concepticon.clld.org/parameters/1310,calāka,clever
+707-480,west2386,http://concepticon.clld.org/parameters/1310,huśiyāra,clever
+707-1205,west2386,http://concepticon.clld.org/parameters/1562,dimāga,mind
+707-297,west2386,http://concepticon.clld.org/parameters/1415,socanā,think (= reflect)
+707-1216,west2386,http://concepticon.clld.org/parameters/1513,sōcanā,think (= be of the opinion)
+707-1046,west2386,http://concepticon.clld.org/parameters/1890,manaṇā,believe
+707-1229,west2386,http://concepticon.clld.org/parameters/1536,samajhaṇā,understand
+707-1257,west2386,http://concepticon.clld.org/parameters/1410,jāṇanā,know
+707-451,west2386,http://concepticon.clld.org/parameters/1932,bhāmpaṇā,guess
+707-614,west2386,http://concepticon.clld.org/parameters/1932,bujṇā,guess
+707-618,west2386,http://concepticon.clld.org/parameters/1521,lagaṇā,seem
+707-1146,west2386,http://concepticon.clld.org/parameters/1609,khiyāla,"idea, notion"
+707-815,west2386,http://concepticon.clld.org/parameters/1609,vicāra,"idea, notion"
+707-500,west2386,http://concepticon.clld.org/parameters/698,akalamada,wise
+707-676,west2386,http://concepticon.clld.org/parameters/1518,mūrakha,"foolish, stupid"
+707-847,west2386,http://concepticon.clld.org/parameters/1899,bāvarā,"insane, crazy"
+707-1223,west2386,http://concepticon.clld.org/parameters/1899,paghala,"insane, crazy"
+707-658,west2386,http://concepticon.clld.org/parameters/504,sikhaṇā,learn
+707-519,west2386,http://concepticon.clld.org/parameters/1929,paṛhanā,study
+707-1117,west2386,http://concepticon.clld.org/parameters/709,paṛhānā,teach
+707-776,west2386,http://concepticon.clld.org/parameters/753,śagirada,pupil
+707-1395,west2386,http://concepticon.clld.org/parameters/753,vidiyārathī,pupil
+707-1168,west2386,http://concepticon.clld.org/parameters/1038,gurū,teacher
+707-1108,west2386,http://concepticon.clld.org/parameters/673,pāṭhaśālā,school
+707-557,west2386,http://concepticon.clld.org/parameters/673,skūla,school
+707-1191,west2386,http://concepticon.clld.org/parameters/707,simaranā,remember
+707-1132,west2386,http://concepticon.clld.org/parameters/707,yāda karaṇā,remember
+707-238,west2386,http://concepticon.clld.org/parameters/1523,bhulaṇā,forget
+707-544,west2386,http://concepticon.clld.org/parameters/1523,pulanā,forget
+707-1080,west2386,http://concepticon.clld.org/parameters/989,sāfa,"clear, plain"
+707-294,west2386,http://concepticon.clld.org/parameters/1764,dundhalā,obscure
+707-520,west2386,http://concepticon.clld.org/parameters/1764,tundalā,obscure
+707-37,west2386,http://concepticon.clld.org/parameters/1121,gupata,secret
+707-1275,west2386,http://concepticon.clld.org/parameters/1121,rāza,secret
+707-513,west2386,http://concepticon.clld.org/parameters/509,niśacita,"sure, certain"
+707-300,west2386,http://concepticon.clld.org/parameters/509,pakā,"sure, certain"
+707-1302,west2386,http://concepticon.clld.org/parameters/1626,samajhāṇā,explain
+707-629,west2386,http://concepticon.clld.org/parameters/1162,makasada,"intention, purpose"
+707-775,west2386,http://concepticon.clld.org/parameters/1162,irādā,"intention, purpose"
+707-872,west2386,http://concepticon.clld.org/parameters/860,āśakā,cause
+707-636,west2386,http://concepticon.clld.org/parameters/860,vajā,cause
+707-550,west2386,http://concepticon.clld.org/parameters/1308,śaka,doubt
+707-1078,west2386,http://concepticon.clld.org/parameters/1841,śaka karanā,suspect
+707-482,west2386,http://concepticon.clld.org/parameters/1902,tokā karana,betray
+707-1099,west2386,http://concepticon.clld.org/parameters/1902,dhoka karana,betray
+707-1175,west2386,http://concepticon.clld.org/parameters/643,jarūrata,"need, necessity"
+707-219,west2386,http://concepticon.clld.org/parameters/686,asāna,easy
+707-1466,west2386,http://concepticon.clld.org/parameters/584,kaṭhana,difficult
+707-633,west2386,http://concepticon.clld.org/parameters/584,muśakila,difficult
+707-1339,west2386,http://concepticon.clld.org/parameters/584,okhā,difficult
+707-976,west2386,http://concepticon.clld.org/parameters/1812,azamānā,"try, attempt"
+707-759,west2386,http://concepticon.clld.org/parameters/488,tarīkā,"way, manner"
+707-337,west2386,http://concepticon.clld.org/parameters/488,rīta,"way, manner"
+707-624,west2386,http://concepticon.clld.org/parameters/1577,aura,and
+707-89,west2386,http://concepticon.clld.org/parameters/1157,kyūnki,because
+707-1488,west2386,http://concepticon.clld.org/parameters/1459,agara,if
+707-883,west2386,http://concepticon.clld.org/parameters/1014,yā,or
+707-1237,west2386,http://concepticon.clld.org/parameters/1014,athavā,or
+707-484,west2386,http://concepticon.clld.org/parameters/1268,ṭhīka,"yes, affirmative"
+707-330,west2386,http://concepticon.clld.org/parameters/1269,nā,"no, negative"
+707-85,west2386,http://concepticon.clld.org/parameters/1269,nahī,"no, negative"
+707-402,west2386,http://concepticon.clld.org/parameters/1239,kivēṁ,how?
+707-635,west2386,http://concepticon.clld.org/parameters/822,kinne,how many?
+707-635,west2386,http://concepticon.clld.org/parameters/531,kinne,how much?
+707-424,west2386,http://concepticon.clld.org/parameters/1236,kyā,what?
+707-326,west2386,http://concepticon.clld.org/parameters/1236,kī,what?
+707-100,west2386,http://concepticon.clld.org/parameters/1238,jadūna,when?
+707-569,west2386,http://concepticon.clld.org/parameters/1237,jithē,where?
+707-991,west2386,http://concepticon.clld.org/parameters/1237,kithē,where?
+707-1248,west2386,http://concepticon.clld.org/parameters/727,kihaṛā,which?
+707-941,west2386,http://concepticon.clld.org/parameters/727,keṛā,which?
+707-894,west2386,http://concepticon.clld.org/parameters/1235,kina,who?
+707-663,west2386,http://concepticon.clld.org/parameters/1235,koṇa,who?
+707-1174,west2386,http://concepticon.clld.org/parameters/1270,kyūna,why?
+707-823,west2386,http://concepticon.clld.org/parameters/1363,āvāza,voice
+707-1198,west2386,http://concepticon.clld.org/parameters/1261,gā'uṇā,sing
+707-1083,west2386,http://concepticon.clld.org/parameters/1261,gāṇā,sing
+707-1286,west2386,http://concepticon.clld.org/parameters/715,ckīhanā,"shout, cry out"
+707-442,west2386,http://concepticon.clld.org/parameters/128,budabudānā,mumble
+707-1287,west2386,http://concepticon.clld.org/parameters/1025,sīṭī māranā,whistle
+707-856,west2386,http://concepticon.clld.org/parameters/298,cīkhaṇā,"shriek, screech"
+707-1279,west2386,http://concepticon.clld.org/parameters/526,cīkh māranā,howl
+707-1436,west2386,http://concepticon.clld.org/parameters/1623,kahiṇā,"speak, talk"
+707-8,west2386,http://concepticon.clld.org/parameters/1866,hakalānā,"stutter, stammer"
+707-762,west2386,http://concepticon.clld.org/parameters/1458,bōlanā,say
+707-1370,west2386,http://concepticon.clld.org/parameters/1711,batānā,tell story
+707-329,west2386,http://concepticon.clld.org/parameters/1711,dasnā,tell story
+707-148,west2386,http://concepticon.clld.org/parameters/1115,bhāśaṇa,speech (make a)
+707-892,west2386,http://concepticon.clld.org/parameters/1115,takarīra,speech (make a)
+707-350,west2386,http://concepticon.clld.org/parameters/48,cupa honā,silent (be)
+707-187,west2386,http://concepticon.clld.org/parameters/1307,bhāśā,language
+707-1047,west2386,http://concepticon.clld.org/parameters/1307,zubānā,language
+707-1328,west2386,http://concepticon.clld.org/parameters/1307,bolī,language
+707-44,west2386,http://concepticon.clld.org/parameters/1599,laphaza,word
+707-108,west2386,http://concepticon.clld.org/parameters/1405,nāma,name
+707-718,west2386,http://concepticon.clld.org/parameters/1309,puchaṇā,"ask (question, inquire)"
+707-1438,west2386,http://concepticon.clld.org/parameters/1275,utara denā,answer
+707-1081,west2386,http://concepticon.clld.org/parameters/1275,javaba deṇā,answer
+707-352,west2386,http://concepticon.clld.org/parameters/2022,kabūlaṇā,"admit, confess"
+707-319,west2386,http://concepticon.clld.org/parameters/2022,maṇanā,"admit, confess"
+707-1431,west2386,http://concepticon.clld.org/parameters/755,mukaranā,deny
+707-718,west2386,http://concepticon.clld.org/parameters/1828,puchaṇā,"ask, request"
+707-364,west2386,http://concepticon.clld.org/parameters/1675,vādā karanā,promise
+707-1018,west2386,http://concepticon.clld.org/parameters/49,ṭhukarāṇā,refuse
+707-992,west2386,http://concepticon.clld.org/parameters/83,ṭhākaṇā,forbid
+707-417,west2386,http://concepticon.clld.org/parameters/299,tarāṇā,"rebuke, scold"
+707-934,west2386,http://concepticon.clld.org/parameters/1084,bulāuṇā,call (=summon)
+707-1031,west2386,http://concepticon.clld.org/parameters/180,bulāṇā,call (=name)
+707-545,west2386,http://concepticon.clld.org/parameters/9,elānā karaṇā,announce
+707-1158,west2386,http://concepticon.clld.org/parameters/9,ghośana karaṇā,announce
+707-682,west2386,http://concepticon.clld.org/parameters/1192,dabakānā,threaten
+707-1389,west2386,http://concepticon.clld.org/parameters/1192,tamkaṇa,threaten
+707-280,west2386,http://concepticon.clld.org/parameters/1672,likhaṇā,write
+707-519,west2386,http://concepticon.clld.org/parameters/724,paṛhanā,read
+707-584,west2386,http://concepticon.clld.org/parameters/648,kāgaza,paper
+707-163,west2386,http://concepticon.clld.org/parameters/794,kalama,pen
+707-1306,west2386,http://concepticon.clld.org/parameters/963,pusataka,book
+707-777,west2386,http://concepticon.clld.org/parameters/963,kitāba,book
+707-1320,west2386,http://concepticon.clld.org/parameters/1045,kavī,poet
+707-1010,west2386,http://concepticon.clld.org/parameters/1045,śāyara,poet
+707-523,west2386,http://concepticon.clld.org/parameters/777,bānsarī,flute
+707-1415,west2386,http://concepticon.clld.org/parameters/908,ḍhōla,drum
+707-60,west2386,http://concepticon.clld.org/parameters/2136,sigā,"horn, trumpet"
+707-1194,west2386,http://concepticon.clld.org/parameters/2136,vājā,"horn, trumpet"
+707-9,west2386,http://concepticon.clld.org/parameters/300,khaṛakaṇā,rattle
+707-446,west2386,http://concepticon.clld.org/parameters/1300,dēśa,country
+707-474,west2386,http://concepticon.clld.org/parameters/1300,mulaka,country
+707-446,west2386,http://concepticon.clld.org/parameters/89,dēśa,one's native country
+707-474,west2386,http://concepticon.clld.org/parameters/89,mulaka,one's native country
+707-924,west2386,http://concepticon.clld.org/parameters/1391,nagara,"city, town"
+707-490,west2386,http://concepticon.clld.org/parameters/930,gā'uṁ,village
+707-1192,west2386,http://concepticon.clld.org/parameters/930,pinḍa,village
+707-972,west2386,http://concepticon.clld.org/parameters/1010,sīmā,boundary
+707-425,west2386,http://concepticon.clld.org/parameters/1010,hada,boundary
+707-1252,west2386,http://concepticon.clld.org/parameters/789,lōkā,people (populace)
+707-549,west2386,http://concepticon.clld.org/parameters/789,janatā,people (populace)
+707-1489,west2386,http://concepticon.clld.org/parameters/302,nasala,"tribe, clan"
+707-675,west2386,http://concepticon.clld.org/parameters/302,puśta,"tribe, clan"
+707-575,west2386,http://concepticon.clld.org/parameters/301,saradāra,"chief, chieftain"
+707-90,west2386,http://concepticon.clld.org/parameters/1296,sōṭī,"staff, walking stick"
+707-445,west2386,http://concepticon.clld.org/parameters/1846,rāja karanā,"rule, govern"
+707-1073,west2386,http://concepticon.clld.org/parameters/1508,mahārājā,"king, ruler"
+707-1377,west2386,http://concepticon.clld.org/parameters/1306,mahārāṇī,queen
+707-1096,west2386,http://concepticon.clld.org/parameters/482,bhalī,"noble, nobleman"
+707-369,west2386,http://concepticon.clld.org/parameters/1032,nāgarika,"citizen, subject"
+707-1103,west2386,http://concepticon.clld.org/parameters/383,mālaka,master
+707-327,west2386,http://concepticon.clld.org/parameters/812,gulāma,slave
+707-77,west2386,http://concepticon.clld.org/parameters/255,naukara,servant
+707-1163,west2386,http://concepticon.clld.org/parameters/1128,pharamāna,"command, order"
+707-1046,west2386,http://concepticon.clld.org/parameters/1635,manaṇā,obey
+707-1480,west2386,http://concepticon.clld.org/parameters/1003,manazūrī,"let, permit"
+707-1127,west2386,http://concepticon.clld.org/parameters/1325,dōsata,"friend, companion"
+707-479,west2386,http://concepticon.clld.org/parameters/1325,mitara,"friend, companion"
+707-410,west2386,http://concepticon.clld.org/parameters/1325,yāra,"friend, companion"
+707-1076,west2386,http://concepticon.clld.org/parameters/1358,śatarū,enemy
+707-2,west2386,http://concepticon.clld.org/parameters/1358,duśamaṇa,enemy
+707-7,west2386,http://concepticon.clld.org/parameters/1332,guvānḍhī,neighbor
+707-184,west2386,http://concepticon.clld.org/parameters/791,parāyā,stranger
+707-640,west2386,http://concepticon.clld.org/parameters/1782,atithī,guest
+707-293,west2386,http://concepticon.clld.org/parameters/1782,peroṇā,guest
+707-1374,west2386,http://concepticon.clld.org/parameters/1545,mēzabāna,host
+707-147,west2386,http://concepticon.clld.org/parameters/1897,sahāyata karana,"help, aid"
+707-31,west2386,http://concepticon.clld.org/parameters/1897,madada karana,"help, aid"
+707-1143,west2386,http://concepticon.clld.org/parameters/1550,rōkaṇā,"hinder, prevent"
+707-759,west2386,http://concepticon.clld.org/parameters/1747,tarīkā,custom
+707-114,west2386,http://concepticon.clld.org/parameters/1747,rasama,custom
+707-397,west2386,http://concepticon.clld.org/parameters/1747,ravāja,custom
+707-409,west2386,http://concepticon.clld.org/parameters/1848,takarāra,"strife, quarrel"
+707-14,west2386,http://concepticon.clld.org/parameters/1848,cagaṛā,"strife, quarrel"
+707-1316,west2386,http://concepticon.clld.org/parameters/2024,sāzaśa,"conspiracy, plot"
+707-243,west2386,http://concepticon.clld.org/parameters/1831,milaṇā,meet
+707-656,west2386,http://concepticon.clld.org/parameters/1610,vēsavā,prostitute
+707-13,west2386,http://concepticon.clld.org/parameters/1610,gaśatī,prostitute
+707-531,west2386,http://concepticon.clld.org/parameters/1423,laṛanā,fight (vb)
+707-1355,west2386,http://concepticon.clld.org/parameters/579,yudha,"war, battle"
+707-981,west2386,http://concepticon.clld.org/parameters/579,jaṅga,"war, battle"
+707-1042,west2386,http://concepticon.clld.org/parameters/579,laṛāī,"war, battle"
+707-1490,west2386,http://concepticon.clld.org/parameters/1338,sakūna,peace
+707-990,west2386,http://concepticon.clld.org/parameters/1338,śāntī,peace
+707-642,west2386,http://concepticon.clld.org/parameters/1338,amana,peace
+707-146,west2386,http://concepticon.clld.org/parameters/1561,laśakara,army
+707-845,west2386,http://concepticon.clld.org/parameters/1561,sainā,army
+707-481,west2386,http://concepticon.clld.org/parameters/1561,phoja,army
+707-478,west2386,http://concepticon.clld.org/parameters/1941,sipāhī,soldier
+707-1238,west2386,http://concepticon.clld.org/parameters/1941,phaujī,soldier
+707-736,west2386,http://concepticon.clld.org/parameters/951,hathyāra,"weapons, arms"
+707-784,west2386,http://concepticon.clld.org/parameters/1763,lāṭhī,club
+707-1459,west2386,http://concepticon.clld.org/parameters/387,gulēla,sling
+707-685,west2386,http://concepticon.clld.org/parameters/994,dhanuśa,bow
+707-929,west2386,http://concepticon.clld.org/parameters/994,kamāna,bow
+707-225,west2386,http://concepticon.clld.org/parameters/977,tīra,arrow
+707-834,west2386,http://concepticon.clld.org/parameters/945,bhālā,spear
+707-1199,west2386,http://concepticon.clld.org/parameters/1535,talavāra,sword
+707-567,west2386,http://concepticon.clld.org/parameters/1566,bandūka,"gun, cannon"
+707-855,west2386,http://concepticon.clld.org/parameters/1061,ṭāla,armor (defensive)
+707-1288,west2386,http://concepticon.clld.org/parameters/1680,ṭōpa,helmet
+707-915,west2386,http://concepticon.clld.org/parameters/1680,ṭōpī,helmet
+707-322,west2386,http://concepticon.clld.org/parameters/1064,ḍhāla,shield
+707-1356,west2386,http://concepticon.clld.org/parameters/1938,kilā,fortress
+707-134,west2386,http://concepticon.clld.org/parameters/1671,mināra,tower
+707-818,west2386,http://concepticon.clld.org/parameters/783,safalatā,victory
+707-1069,west2386,http://concepticon.clld.org/parameters/783,kāmayābī,victory
+707-1094,west2386,http://concepticon.clld.org/parameters/783,jīta,victory
+707-305,west2386,http://concepticon.clld.org/parameters/782,nākāmī,defeat
+707-1282,west2386,http://concepticon.clld.org/parameters/782,hāra,defeat
+707-527,west2386,http://concepticon.clld.org/parameters/722,halā,attack
+707-898,west2386,http://concepticon.clld.org/parameters/722,hamalā,attack
+707-802,west2386,http://concepticon.clld.org/parameters/1330,bacāṇā,defend
+707-1429,west2386,http://concepticon.clld.org/parameters/421,dabakanā,retreat
+707-701,west2386,http://concepticon.clld.org/parameters/421,haṭanā,retreat
+707-1044,west2386,http://concepticon.clld.org/parameters/1696,samarapaṇa karanā,surrender
+707-1340,west2386,http://concepticon.clld.org/parameters/1072,kaidī,"captive, prisoner"
+707-346,west2386,http://concepticon.clld.org/parameters/1940,pahirēdāra,"guard, sentinel"
+707-914,west2386,http://concepticon.clld.org/parameters/1022,luṭa,"booty, spoils"
+707-1382,west2386,http://concepticon.clld.org/parameters/65,thaṛhā,ambush
+707-222,west2386,http://concepticon.clld.org/parameters/1858,machērā,fisherman
+707-175,west2386,http://concepticon.clld.org/parameters/1074,kunḍī,fishhook
+707-1428,west2386,http://concepticon.clld.org/parameters/2013,dāṇā,bait
+707-1049,west2386,http://concepticon.clld.org/parameters/1435,śikārā khēḍaṇā,hunt
+707-1154,west2386,http://concepticon.clld.org/parameters/1172,pugaranā,shoot
+707-973,west2386,http://concepticon.clld.org/parameters/161,ukanā,miss (target)
+707-848,west2386,http://concepticon.clld.org/parameters/161,cūkanā,miss (target)
+707-1424,west2386,http://concepticon.clld.org/parameters/1075,kuṛakī,trap (noun)
+707-215,west2386,http://concepticon.clld.org/parameters/1170,phasāṇā,trap (vb)
+707-863,west2386,http://concepticon.clld.org/parameters/1062,kanūna,law
+707-1008,west2386,http://concepticon.clld.org/parameters/1068,adālata,court
+707-747,west2386,http://concepticon.clld.org/parameters/1068,kacerī,court
+707-465,west2386,http://concepticon.clld.org/parameters/1067,phaisalā,judgment
+707-1263,west2386,http://concepticon.clld.org/parameters/861,ni'āṅkāra,judge (noun)
+707-1233,west2386,http://concepticon.clld.org/parameters/1144,gavāha,witness
+707-951,west2386,http://concepticon.clld.org/parameters/1939,kasama khāṇā,swear
+707-1030,west2386,http://concepticon.clld.org/parameters/1939,kasama denā,swear
+707-1443,west2386,http://concepticon.clld.org/parameters/1712,kasama,oath
+707-504,west2386,http://concepticon.clld.org/parameters/1814,ilzaam lāṇā,accuse
+707-783,west2386,http://concepticon.clld.org/parameters/1814,dōsa deṇā,accuse
+707-521,west2386,http://concepticon.clld.org/parameters/983,sazā denā,convict (vb)
+707-1165,west2386,http://concepticon.clld.org/parameters/988,chaḍaṇā,acquit
+707-1093,west2386,http://concepticon.clld.org/parameters/1682,dōśī,guilty
+707-885,west2386,http://concepticon.clld.org/parameters/1682,mujrima,guilty
+707-269,west2386,http://concepticon.clld.org/parameters/90,niradōśa,innocent
+707-486,west2386,http://concepticon.clld.org/parameters/90,bēkasūra,innocent
+707-937,west2386,http://concepticon.clld.org/parameters/90,masūma,innocent
+707-104,west2386,http://concepticon.clld.org/parameters/390,juramānā,"penalty, punishment"
+707-473,west2386,http://concepticon.clld.org/parameters/390,sazā,"penalty, punishment"
+707-709,west2386,http://concepticon.clld.org/parameters/218,harajānā,fine
+707-510,west2386,http://concepticon.clld.org/parameters/1281,kaidaḵẖānā,"prison, jail"
+707-1291,west2386,http://concepticon.clld.org/parameters/845,khūna,murder
+707-1464,west2386,http://concepticon.clld.org/parameters/845,kattala,murder
+707-1442,west2386,http://concepticon.clld.org/parameters/902,harāmakārī,adultery
+707-1106,west2386,http://concepticon.clld.org/parameters/953,balātakāra,rape
+707-110,west2386,http://concepticon.clld.org/parameters/953,jyātī,rape
+707-1481,west2386,http://concepticon.clld.org/parameters/713,curāuṇā,steal
+707-779,west2386,http://concepticon.clld.org/parameters/1160,cōra,thief
+707-1474,west2386,http://concepticon.clld.org/parameters/661,mazahaba,religion
+707-460,west2386,http://concepticon.clld.org/parameters/911,gurdvārā,"temple, church"
+707-1422,west2386,http://concepticon.clld.org/parameters/853,bēdī,altar
+707-227,west2386,http://concepticon.clld.org/parameters/1103,kurbānī,"sacrifice, offering"
+707-994,west2386,http://concepticon.clld.org/parameters/257,pūjā karaṇā,worship
+707-1085,west2386,http://concepticon.clld.org/parameters/24,pūjā karaṇā,pray
+707-25,west2386,http://concepticon.clld.org/parameters/852,mulāṁ,priest
+707-165,west2386,http://concepticon.clld.org/parameters/852,sūfī,priest
+707-1469,west2386,http://concepticon.clld.org/parameters/1702,pavitara,"holy, sacred"
+707-1150,west2386,http://concepticon.clld.org/parameters/1702,pāka,"holy, sacred"
+707-1322,west2386,http://concepticon.clld.org/parameters/8,phiṭakāranā,curse
+707-55,west2386,http://concepticon.clld.org/parameters/303,rojā rakhanā,fast (vb)
+707-216,west2386,http://concepticon.clld.org/parameters/303,upavāsa karana,fast (vb)
+707-1312,west2386,http://concepticon.clld.org/parameters/1565,savaraga,heaven
+707-141,west2386,http://concepticon.clld.org/parameters/1565,jannata,heaven
+707-1176,west2386,http://concepticon.clld.org/parameters/878,naraka,hell
+707-712,west2386,http://concepticon.clld.org/parameters/878,jannama,hell
+707-1294,west2386,http://concepticon.clld.org/parameters/1973,dānava,demon (evil spirit)
+707-312,west2386,http://concepticon.clld.org/parameters/1973,śaitāna,demon (evil spirit)
+707-224,west2386,http://concepticon.clld.org/parameters/1945,mūratī,idol
+707-1358,west2386,http://concepticon.clld.org/parameters/1945,butta,idol
+707-1379,west2386,http://concepticon.clld.org/parameters/392,jādū,"magic, witchcraft, sorcery"
+707-133,west2386,http://concepticon.clld.org/parameters/392,jāddū,"magic, witchcraft, sorcery"
+707-168,west2386,http://concepticon.clld.org/parameters/2137,cuṛēla,"sorcerer, witch"
+707-589,west2386,http://concepticon.clld.org/parameters/2138,parī,"fairy, elf"
+707-406,west2386,http://concepticon.clld.org/parameters/1175,bhūta,"ghost, phantom"
+707-632,west2386,http://concepticon.clld.org/parameters/107,naśubha,"omen, portent"
+707-431,west2386,http://concepticon.clld.org/parameters/1685,pichūna,after
+707-431,west2386,http://concepticon.clld.org/parameters/723,pichūna,behind
+707-1219,west2386,http://concepticon.clld.org/parameters/1816,nāl,beside
+707-746,west2386,http://concepticon.clld.org/parameters/1326,thalē,"down, below"
+707-1068,west2386,http://concepticon.clld.org/parameters/1882,agē,before
+707-854,west2386,http://concepticon.clld.org/parameters/1019,sāmhaṇē,front
+707-1043,west2386,http://concepticon.clld.org/parameters/1606,andara,"inside, in"
+707-1408,west2386,http://concepticon.clld.org/parameters/762,bāharavāra,outside
+707-882,west2386,http://concepticon.clld.org/parameters/762,bāra,outside
+707-746,west2386,http://concepticon.clld.org/parameters/1485,thalē,under
+707-206,west2386,http://concepticon.clld.org/parameters/1591,utē,"up, above"
+707-832,west2386,http://concepticon.clld.org/parameters/1591,upāra,"up, above"
+707-975,west2386,http://concepticon.clld.org/parameters/1515,ika,one
+707-260,west2386,http://concepticon.clld.org/parameters/1498,dō,two
+707-252,west2386,http://concepticon.clld.org/parameters/492,tina,three
+707-199,west2386,http://concepticon.clld.org/parameters/1500,cāra,four
+707-608,west2386,http://concepticon.clld.org/parameters/493,punja,five
+707-1144,west2386,http://concepticon.clld.org/parameters/1703,chē,six
+707-70,west2386,http://concepticon.clld.org/parameters/1704,sata,seven
+707-805,west2386,http://concepticon.clld.org/parameters/1705,aṭha,eight
+707-99,west2386,http://concepticon.clld.org/parameters/1483,nauṁ,nine
+707-1013,west2386,http://concepticon.clld.org/parameters/1294,zīrō,"zero, nothing"

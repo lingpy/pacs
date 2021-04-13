@@ -1,0 +1,1675 @@
+ID,Language_ID,Feature_ID,Value,Concept
+178-810,port1283,http://concepticon.clld.org/parameters/965,mundo,world
+178-261,port1283,http://concepticon.clld.org/parameters/626,terreno,"earth, land"
+178-1050,port1283,http://concepticon.clld.org/parameters/1228,solo,"earth=ground, soil"
+178-69,port1283,http://concepticon.clld.org/parameters/1228,chão,"earth=ground, soil"
+178-759,port1283,http://concepticon.clld.org/parameters/2,pó,dust
+178-1289,port1283,http://concepticon.clld.org/parameters/640,lama,mud
+178-31,port1283,http://concepticon.clld.org/parameters/640,lodo,mud
+178-736,port1283,http://concepticon.clld.org/parameters/671,areia,sand
+178-253,port1283,http://concepticon.clld.org/parameters/2118,montanha,"mountain, hill"
+178-1166,port1283,http://concepticon.clld.org/parameters/2118,morro,"mountain, hill"
+178-986,port1283,http://concepticon.clld.org/parameters/618,penhasco,"cliff, precipice"
+178-144,port1283,http://concepticon.clld.org/parameters/618,precipício,"cliff, precipice"
+178-323,port1283,http://concepticon.clld.org/parameters/652,campo,"plain, field"
+178-1059,port1283,http://concepticon.clld.org/parameters/652,planície,"plain, field"
+178-1489,port1283,http://concepticon.clld.org/parameters/652,savannah,"plain, field"
+178-877,port1283,http://concepticon.clld.org/parameters/921,vale,valley
+178-231,port1283,http://concepticon.clld.org/parameters/622,ilha,island
+178-1069,port1283,http://concepticon.clld.org/parameters/166,terra firme,mainland
+178-915,port1283,http://concepticon.clld.org/parameters/113,margem,shore
+178-721,port1283,http://concepticon.clld.org/parameters/113,costa,shore
+178-1474,port1283,http://concepticon.clld.org/parameters/113,praia,shore
+178-1442,port1283,http://concepticon.clld.org/parameters/1155,caverna,cave
+178-1247,port1283,http://concepticon.clld.org/parameters/1155,gruta,cave
+178-1511,port1283,http://concepticon.clld.org/parameters/948,água,water
+178-525,port1283,http://concepticon.clld.org/parameters/1474,mar,sea
+178-920,port1283,http://concepticon.clld.org/parameters/258,calma,calm (of sea)
+178-1009,port1283,http://concepticon.clld.org/parameters/258,calmaria,calm (of sea)
+178-850,port1283,http://concepticon.clld.org/parameters/259,tempestuoso,rough (of sea)
+178-37,port1283,http://concepticon.clld.org/parameters/1768,espuma,foam
+178-17,port1283,http://concepticon.clld.org/parameters/645,oceano,ocean
+178-385,port1283,http://concepticon.clld.org/parameters/624,lago,lake
+178-1484,port1283,http://concepticon.clld.org/parameters/663,baía,"gulf, bay"
+178-645,port1283,http://concepticon.clld.org/parameters/623,laguna,lagoon
+178-650,port1283,http://concepticon.clld.org/parameters/660,recife,reef
+178-1173,port1283,http://concepticon.clld.org/parameters/1662,cabo,"headland, point"
+178-516,port1283,http://concepticon.clld.org/parameters/1662,promontório,"headland, point"
+178-1486,port1283,http://concepticon.clld.org/parameters/978,onda,wave
+178-1305,port1283,http://concepticon.clld.org/parameters/891,maré,tide
+178-1179,port1283,http://concepticon.clld.org/parameters/1026,maré baixa,lowtide
+178-851,port1283,http://concepticon.clld.org/parameters/1026,maré vazia,lowtide
+178-892,port1283,http://concepticon.clld.org/parameters/613,maré alta,hightide
+178-707,port1283,http://concepticon.clld.org/parameters/613,preamar,hightide
+178-1398,port1283,http://concepticon.clld.org/parameters/613,praiamar,hightide
+178-1098,port1283,http://concepticon.clld.org/parameters/666,rio,"river, stream, brook"
+178-654,port1283,http://concepticon.clld.org/parameters/666,riacho,"river, stream, brook"
+178-1081,port1283,http://concepticon.clld.org/parameters/666,córrego,"river, stream, brook"
+178-155,port1283,http://concepticon.clld.org/parameters/1982,remoinho,whirlpool
+178-1144,port1283,http://concepticon.clld.org/parameters/1982,redemoinho,whirlpool
+178-567,port1283,http://concepticon.clld.org/parameters/2144,nascente,"spring, well"
+178-1185,port1283,http://concepticon.clld.org/parameters/2144,poço,"spring, well"
+178-1267,port1283,http://concepticon.clld.org/parameters/1145,pântano,swamp
+178-795,port1283,http://concepticon.clld.org/parameters/1145,pantanal,swamp
+178-844,port1283,http://concepticon.clld.org/parameters/943,cachoeira,waterfall
+178-269,port1283,http://concepticon.clld.org/parameters/943,cascata,waterfall
+178-839,port1283,http://concepticon.clld.org/parameters/420,bosque,"woods, forest"
+178-1104,port1283,http://concepticon.clld.org/parameters/420,floresta,"woods, forest"
+178-994,port1283,http://concepticon.clld.org/parameters/906,árvore,tree (cf 08.600)
+178-213,port1283,http://concepticon.clld.org/parameters/1803,madeira,wood
+178-7,port1283,http://concepticon.clld.org/parameters/2125,pedra,"stone, rock"
+178-222,port1283,http://concepticon.clld.org/parameters/2125,calhau,"stone, rock"
+178-1358,port1283,http://concepticon.clld.org/parameters/2125,rocha,"stone, rock"
+178-805,port1283,http://concepticon.clld.org/parameters/6,terremoto,earthquake
+178-370,port1283,http://concepticon.clld.org/parameters/1732,céu,sky
+178-378,port1283,http://concepticon.clld.org/parameters/1343,sol,sun
+178-1423,port1283,http://concepticon.clld.org/parameters/1313,lua,moon
+178-1477,port1283,http://concepticon.clld.org/parameters/1430,estrela,star
+178-624,port1283,http://concepticon.clld.org/parameters/1654,relâmpago,lightning
+178-1380,port1283,http://concepticon.clld.org/parameters/1150,trovão,thunder
+178-314,port1283,http://concepticon.clld.org/parameters/2007,raio,lightning (as striking)
+178-774,port1283,http://concepticon.clld.org/parameters/858,tempestade,storm
+178-605,port1283,http://concepticon.clld.org/parameters/1733,arco-íris,rainbow
+178-1422,port1283,http://concepticon.clld.org/parameters/630,luz,light (noun)
+178-995,port1283,http://concepticon.clld.org/parameters/11,escuridão,darkness
+178-1094,port1283,http://concepticon.clld.org/parameters/1388,sombra,"shade, shadow"
+178-271,port1283,http://concepticon.clld.org/parameters/1977,orvalho,dew
+178-811,port1283,http://concepticon.clld.org/parameters/27,ar,air
+178-105,port1283,http://concepticon.clld.org/parameters/960,vento,wind
+178-1364,port1283,http://concepticon.clld.org/parameters/1489,nuvem,cloud
+178-100,port1283,http://concepticon.clld.org/parameters/249,nevoeiro,fog
+178-465,port1283,http://concepticon.clld.org/parameters/249,névoa,fog
+178-658,port1283,http://concepticon.clld.org/parameters/658,chuva,rain (noun)
+178-357,port1283,http://concepticon.clld.org/parameters/784,neve,snow (noun)
+178-1039,port1283,http://concepticon.clld.org/parameters/617,gelo,ice
+178-1337,port1283,http://concepticon.clld.org/parameters/952,tempo,weather
+178-22,port1283,http://concepticon.clld.org/parameters/221,fogo,fire
+178-1534,port1283,http://concepticon.clld.org/parameters/889,chama,flame (noun)
+178-1015,port1283,http://concepticon.clld.org/parameters/778,fumaça,smoke (noun)
+178-1275,port1283,http://concepticon.clld.org/parameters/646,cinzas,ashes
+178-1428,port1283,http://concepticon.clld.org/parameters/67,brasas,embers
+178-1447,port1283,http://concepticon.clld.org/parameters/141,queimar,burn (vb trans)
+178-1268,port1283,http://concepticon.clld.org/parameters/141,incendiar,burn (vb trans)
+178-1447,port1283,http://concepticon.clld.org/parameters/1428,queimar,burn (vb intrans)
+178-718,port1283,http://concepticon.clld.org/parameters/1428,arder,burn (vb intrans)
+178-885,port1283,http://concepticon.clld.org/parameters/737,acender,"light, kindle, ignite"
+178-1064,port1283,http://concepticon.clld.org/parameters/737,atear,"light, kindle, ignite"
+178-974,port1283,http://concepticon.clld.org/parameters/127,extinguir,extinguish
+178-302,port1283,http://concepticon.clld.org/parameters/1133,fósforo,match (noun)
+178-1269,port1283,http://concepticon.clld.org/parameters/10,lenha,firewood
+178-1391,port1283,http://concepticon.clld.org/parameters/1188,carvão,charcoal
+178-685,port1283,http://concepticon.clld.org/parameters/683,pessoa,"person, human being"
+178-883,port1283,http://concepticon.clld.org/parameters/683,ser humano,"person, human being"
+178-1461,port1283,http://concepticon.clld.org/parameters/1554,homem,man (vs. woman)
+178-562,port1283,http://concepticon.clld.org/parameters/962,mulher,woman
+178-443,port1283,http://concepticon.clld.org/parameters/2263,macho,male
+178-652,port1283,http://concepticon.clld.org/parameters/2260,fêmea,female
+178-1259,port1283,http://concepticon.clld.org/parameters/1366,menino,boy
+178-681,port1283,http://concepticon.clld.org/parameters/1366,garoto,boy
+178-227,port1283,http://concepticon.clld.org/parameters/76,jovem,young man (adolescent)
+178-838,port1283,http://concepticon.clld.org/parameters/76,rapaz,young man (adolescent)
+178-1256,port1283,http://concepticon.clld.org/parameters/1646,menina,girl
+178-680,port1283,http://concepticon.clld.org/parameters/1646,garota,girl
+178-227,port1283,http://concepticon.clld.org/parameters/77,jovem,young woman (adolescent)
+178-435,port1283,http://concepticon.clld.org/parameters/77,moça,young woman (adolescent)
+178-132,port1283,http://concepticon.clld.org/parameters/1304,criança,child
+178-1259,port1283,http://concepticon.clld.org/parameters/1304,menino,child
+178-442,port1283,http://concepticon.clld.org/parameters/1289,bebê,"infant, baby"
+178-1509,port1283,http://concepticon.clld.org/parameters/1289,nenê,"infant, baby"
+178-57,port1283,http://concepticon.clld.org/parameters/1200,marido,husband
+178-389,port1283,http://concepticon.clld.org/parameters/1199,esposa,wife
+178-562,port1283,http://concepticon.clld.org/parameters/1199,mulher,wife
+178-99,port1283,http://concepticon.clld.org/parameters/203,casar,marry
+178-1248,port1283,http://concepticon.clld.org/parameters/1259,matrimônio,"marriage, wedding"
+178-11,port1283,http://concepticon.clld.org/parameters/1259,casamento,"marriage, wedding"
+178-528,port1283,http://concepticon.clld.org/parameters/1134,divórcio,divorce
+178-710,port1283,http://concepticon.clld.org/parameters/1217,pai,father
+178-740,port1283,http://concepticon.clld.org/parameters/1216,mãe,mother
+178-616,port1283,http://concepticon.clld.org/parameters/505,pais,parents
+178-1291,port1283,http://concepticon.clld.org/parameters/424,casado,married man
+178-1293,port1283,http://concepticon.clld.org/parameters/426,casada,married woman
+178-1065,port1283,http://concepticon.clld.org/parameters/1620,filho,son
+178-1066,port1283,http://concepticon.clld.org/parameters/1357,filha,daughter
+178-1541,port1283,http://concepticon.clld.org/parameters/1801,filhos,offspring (son or daughter)
+178-1560,port1283,http://concepticon.clld.org/parameters/1801,prole,offspring (son or daughter)
+178-1483,port1283,http://concepticon.clld.org/parameters/1262,irmão,brother
+178-1410,port1283,http://concepticon.clld.org/parameters/1759,irmão mais velho,older brother
+178-284,port1283,http://concepticon.clld.org/parameters/1760,irmão mais novo,younger brother
+178-753,port1283,http://concepticon.clld.org/parameters/1263,irmã,sister
+178-496,port1283,http://concepticon.clld.org/parameters/1758,irmã mais velha,older sister
+178-198,port1283,http://concepticon.clld.org/parameters/1761,irmã mais nova,younger sister
+178-1483,port1283,http://concepticon.clld.org/parameters/1640,irmão,sibling
+178-753,port1283,http://concepticon.clld.org/parameters/1640,irmã,sibling
+178-976,port1283,http://concepticon.clld.org/parameters/1005,gêmeos,twins
+178-1569,port1283,http://concepticon.clld.org/parameters/1383,avô,grandfather
+178-837,port1283,http://concepticon.clld.org/parameters/406,velho,old man
+178-1568,port1283,http://concepticon.clld.org/parameters/1496,avó,grandmother
+178-841,port1283,http://concepticon.clld.org/parameters/907,velha,old woman
+178-97,port1283,http://concepticon.clld.org/parameters/1618,neto,grandson
+178-101,port1283,http://concepticon.clld.org/parameters/1619,neta,granddaughter
+178-416,port1283,http://concepticon.clld.org/parameters/1327,tio,uncle
+178-1483,port1283,http://concepticon.clld.org/parameters/1984,irmão,mother's brother
+178-1483,port1283,http://concepticon.clld.org/parameters/1985,irmão,father's brother
+178-653,port1283,http://concepticon.clld.org/parameters/1272,tia,aunt
+178-753,port1283,http://concepticon.clld.org/parameters/171,irmã,mother's sister
+178-753,port1283,http://concepticon.clld.org/parameters/170,irmã,father's sister
+178-890,port1283,http://concepticon.clld.org/parameters/1063,sobrinho,nephew
+178-891,port1283,http://concepticon.clld.org/parameters/1642,sobrinha,niece
+178-103,port1283,http://concepticon.clld.org/parameters/1643,primo/ prima,cousin
+178-298,port1283,http://concepticon.clld.org/parameters/1669,antepassados,ancestors
+178-752,port1283,http://concepticon.clld.org/parameters/1669,ancestrais,ancestors
+178-1008,port1283,http://concepticon.clld.org/parameters/490,descendentes,descendants
+178-519,port1283,http://concepticon.clld.org/parameters/2255,sogro,father-in-law (of a man)
+178-519,port1283,http://concepticon.clld.org/parameters/2254,sogro,father-in-law (of a woman)
+178-1279,port1283,http://concepticon.clld.org/parameters/2256,sogra,mother-in-law (of a man)
+178-1279,port1283,http://concepticon.clld.org/parameters/2257,sogra,mother-in-law (of a woman)
+178-1053,port1283,http://concepticon.clld.org/parameters/2267,genro,son-in-law (of a man)
+178-1053,port1283,http://concepticon.clld.org/parameters/2266,genro,son-in-law (of a woman)
+178-842,port1283,http://concepticon.clld.org/parameters/2265,nora,daughter-in-law (of a man)
+178-842,port1283,http://concepticon.clld.org/parameters/2264,nora,daughter-in-law (of a woman)
+178-1344,port1283,http://concepticon.clld.org/parameters/237,padrasto,stepfather
+178-316,port1283,http://concepticon.clld.org/parameters/236,madrasta,stepmother
+178-743,port1283,http://concepticon.clld.org/parameters/1059,enteado,stepson
+178-1079,port1283,http://concepticon.clld.org/parameters/1058,enteada,stepdaughter
+178-273,port1283,http://concepticon.clld.org/parameters/1149,órfão/ órfã,orphan
+178-1290,port1283,http://concepticon.clld.org/parameters/1756,viúva,widow
+178-1292,port1283,http://concepticon.clld.org/parameters/1981,viúvo,widower
+178-1108,port1283,http://concepticon.clld.org/parameters/1644,parentes,"relatives, kinsmen"
+178-1566,port1283,http://concepticon.clld.org/parameters/194,família,family
+178-563,port1283,http://concepticon.clld.org/parameters/1209,eu,I
+178-840,port1283,http://concepticon.clld.org/parameters/1215,tu,you (singular)
+178-579,port1283,http://concepticon.clld.org/parameters/1215,você,you (singular)
+178-1326,port1283,http://concepticon.clld.org/parameters/262,ele/ela/ele (ou ela),he/she/it
+178-177,port1283,http://concepticon.clld.org/parameters/1212,nós,we
+178-177,port1283,http://concepticon.clld.org/parameters/1131,nós,we (inclusive)
+178-177,port1283,http://concepticon.clld.org/parameters/1130,nós,we (exclusive)
+178-903,port1283,http://concepticon.clld.org/parameters/1213,vocês,you (plural)
+178-547,port1283,http://concepticon.clld.org/parameters/1213,vós,you (plural)
+178-1115,port1283,http://concepticon.clld.org/parameters/817,eles,they
+178-628,port1283,http://concepticon.clld.org/parameters/817,elas,they
+178-1295,port1283,http://concepticon.clld.org/parameters/619,animal,animal
+178-1348,port1283,http://concepticon.clld.org/parameters/619,bicho,animal
+178-1225,port1283,http://concepticon.clld.org/parameters/2261,masculino,male (adj)
+178-396,port1283,http://concepticon.clld.org/parameters/2262,feminino,female (adj)
+178-346,port1283,http://concepticon.clld.org/parameters/631,gado,livestock
+178-1524,port1283,http://concepticon.clld.org/parameters/649,pasto,pasture
+178-433,port1283,http://concepticon.clld.org/parameters/649,pastagem,pasture
+178-1184,port1283,http://concepticon.clld.org/parameters/263,pastor,herdsman
+178-130,port1283,http://concepticon.clld.org/parameters/851,cocheira,"stable, stall"
+178-514,port1283,http://concepticon.clld.org/parameters/851,estábulo,"stable, stall"
+178-346,port1283,http://concepticon.clld.org/parameters/1153,gado,cattle (bovine)
+178-831,port1283,http://concepticon.clld.org/parameters/1008,touro,bull
+178-482,port1283,http://concepticon.clld.org/parameters/1169,boi,ox
+178-1377,port1283,http://concepticon.clld.org/parameters/1007,vaca,cow
+178-874,port1283,http://concepticon.clld.org/parameters/1989,bezerro,calf
+178-295,port1283,http://concepticon.clld.org/parameters/1331,ovelha,sheep
+178-1336,port1283,http://concepticon.clld.org/parameters/1344,carneiro,ram
+178-295,port1283,http://concepticon.clld.org/parameters/1345,ovelha,ewe
+178-1010,port1283,http://concepticon.clld.org/parameters/820,cordeiro,lamb
+178-277,port1283,http://concepticon.clld.org/parameters/1348,barrão/ varrão,boar
+178-1271,port1283,http://concepticon.clld.org/parameters/1351,porca,sow (2)
+178-1266,port1283,http://concepticon.clld.org/parameters/1337,porco,pig
+178-566,port1283,http://concepticon.clld.org/parameters/1502,cabra,goat
+178-1249,port1283,http://concepticon.clld.org/parameters/264,bode,he-goat
+178-75,port1283,http://concepticon.clld.org/parameters/1972,cabrito,kid
+178-1223,port1283,http://concepticon.clld.org/parameters/615,cavalo,horse (equine)
+178-635,port1283,http://concepticon.clld.org/parameters/936,garanhão,stallion
+178-1529,port1283,http://concepticon.clld.org/parameters/938,égua,mare
+178-717,port1283,http://concepticon.clld.org/parameters/1647,potro,"foal, colt"
+178-565,port1283,http://concepticon.clld.org/parameters/1862,asno,"ass, donkey"
+178-796,port1283,http://concepticon.clld.org/parameters/1862,burro,"ass, donkey"
+178-1399,port1283,http://concepticon.clld.org/parameters/890,mulo/ mula,mule
+178-1467,port1283,http://concepticon.clld.org/parameters/265,ave,fowl
+178-999,port1283,http://concepticon.clld.org/parameters/1511,galo,"cock, rooster"
+178-366,port1283,http://concepticon.clld.org/parameters/1514,galinha,hen
+178-6,port1283,http://concepticon.clld.org/parameters/1318,frango,chicken
+178-980,port1283,http://concepticon.clld.org/parameters/1187,ganso,goose
+178-40,port1283,http://concepticon.clld.org/parameters/1360,pato,duck
+178-720,port1283,http://concepticon.clld.org/parameters/539,ninho,nest
+178-387,port1283,http://concepticon.clld.org/parameters/937,pássaro,bird
+178-1467,port1283,http://concepticon.clld.org/parameters/937,ave,bird
+178-1494,port1283,http://concepticon.clld.org/parameters/950,gaivota,seagull
+178-1492,port1283,http://concepticon.clld.org/parameters/758,garça,heron
+178-1013,port1283,http://concepticon.clld.org/parameters/1905,águia,eagle
+178-80,port1283,http://concepticon.clld.org/parameters/307,falcão,hawk
+178-933,port1283,http://concepticon.clld.org/parameters/1185,urubu,vulture
+178-633,port1283,http://concepticon.clld.org/parameters/1185,abutre,vulture
+178-902,port1283,http://concepticon.clld.org/parameters/1793,morcego,bat
+178-1193,port1283,http://concepticon.clld.org/parameters/882,papagaio,parrot
+178-1134,port1283,http://concepticon.clld.org/parameters/913,corvo,crow
+178-1308,port1283,http://concepticon.clld.org/parameters/1853,pomba,dove
+178-373,port1283,http://concepticon.clld.org/parameters/735,mocho,owl
+178-1342,port1283,http://concepticon.clld.org/parameters/735,coruja,owl
+178-1370,port1283,http://concepticon.clld.org/parameters/2009,cão,dog
+178-916,port1283,http://concepticon.clld.org/parameters/2009,cachorro,dog
+178-93,port1283,http://concepticon.clld.org/parameters/1136,coelho,rabbit
+178-78,port1283,http://concepticon.clld.org/parameters/1208,gato,cat
+178-1023,port1283,http://concepticon.clld.org/parameters/309,sarigüê,opossum
+178-402,port1283,http://concepticon.clld.org/parameters/309,gambá,opossum
+178-862,port1283,http://concepticon.clld.org/parameters/2139,rato,"mouse, rat"
+178-1353,port1283,http://concepticon.clld.org/parameters/2139,camundongo,"mouse, rat"
+178-1136,port1283,http://concepticon.clld.org/parameters/2139,ratinho,"mouse, rat"
+178-232,port1283,http://concepticon.clld.org/parameters/227,peixe,fish
+178-1044,port1283,http://concepticon.clld.org/parameters/213,barbatana,fin (dorsal)
+178-509,port1283,http://concepticon.clld.org/parameters/266,escama,fishscale
+178-1043,port1283,http://concepticon.clld.org/parameters/1916,guelra,gill
+178-896,port1283,http://concepticon.clld.org/parameters/1916,brânquia,gill
+178-1314,port1283,http://concepticon.clld.org/parameters/598,concha,shell
+178-215,port1283,http://concepticon.clld.org/parameters/1110,tubarão,shark
+178-1571,port1283,http://concepticon.clld.org/parameters/1479,delfim,"porpoise, dolphin"
+178-556,port1283,http://concepticon.clld.org/parameters/1479,golfinho,"porpoise, dolphin"
+178-8,port1283,http://concepticon.clld.org/parameters/957,baleia,whale
+178-311,port1283,http://concepticon.clld.org/parameters/1910,raia,stingray
+178-129,port1283,http://concepticon.clld.org/parameters/1910,arraia,stingray
+178-472,port1283,http://concepticon.clld.org/parameters/1013,enguia,freshwater eel
+178-1409,port1283,http://concepticon.clld.org/parameters/522,lobo,wolf
+178-1454,port1283,http://concepticon.clld.org/parameters/1386,leão,lion
+178-1244,port1283,http://concepticon.clld.org/parameters/1820,urso,bear
+178-505,port1283,http://concepticon.clld.org/parameters/1312,raposa,fox
+178-1191,port1283,http://concepticon.clld.org/parameters/1936,veado,deer
+178-515,port1283,http://concepticon.clld.org/parameters/1350,macaco,monkey
+178-672,port1283,http://concepticon.clld.org/parameters/1290,elefante,elephant
+178-1528,port1283,http://concepticon.clld.org/parameters/1871,camelo,camel
+178-611,port1283,http://concepticon.clld.org/parameters/620,inseto,insect
+178-894,port1283,http://concepticon.clld.org/parameters/310,piolho,louse
+178-414,port1283,http://concepticon.clld.org/parameters/267,lêndea,nit (louse egg)
+178-307,port1283,http://concepticon.clld.org/parameters/232,pulga,flea
+178-596,port1283,http://concepticon.clld.org/parameters/1974,centopeia,centipede
+178-1411,port1283,http://concepticon.clld.org/parameters/1538,escorpião,scorpion
+178-114,port1283,http://concepticon.clld.org/parameters/1575,barata,cockroach
+178-1141,port1283,http://concepticon.clld.org/parameters/587,formiga,ant
+178-224,port1283,http://concepticon.clld.org/parameters/843,aranha,spider
+178-578,port1283,http://concepticon.clld.org/parameters/1065,teia de aranha,spider web
+178-1350,port1283,http://concepticon.clld.org/parameters/665,abelha,bee
+178-1251,port1283,http://concepticon.clld.org/parameters/1931,cera,beeswax
+178-958,port1283,http://concepticon.clld.org/parameters/88,colmeia,beehive
+178-691,port1283,http://concepticon.clld.org/parameters/1517,vespa,wasp
+178-815,port1283,http://concepticon.clld.org/parameters/1504,mosca,fly
+178-352,port1283,http://concepticon.clld.org/parameters/95,mosquito,"sandfly (midge), gnat"
+178-352,port1283,http://concepticon.clld.org/parameters/1509,mosquito,mosquito
+178-1186,port1283,http://concepticon.clld.org/parameters/1219,verme,worm
+178-1200,port1283,http://concepticon.clld.org/parameters/1219,lombriga,worm
+178-625,port1283,http://concepticon.clld.org/parameters/730,cobra,snake
+178-106,port1283,http://concepticon.clld.org/parameters/206,pirilampo,firefly
+178-187,port1283,http://concepticon.clld.org/parameters/206,vaga-lume,firefly
+178-1519,port1283,http://concepticon.clld.org/parameters/1791,borboleta,butterfly
+178-768,port1283,http://concepticon.clld.org/parameters/607,gafanhoto,grasshopper
+178-552,port1283,http://concepticon.clld.org/parameters/1543,caracol,snail
+178-41,port1283,http://concepticon.clld.org/parameters/503,rã,frog
+178-553,port1283,http://concepticon.clld.org/parameters/632,lagarto,lizard
+178-904,port1283,http://concepticon.clld.org/parameters/1857,jacaré,"crocodile, alligator"
+178-926,port1283,http://concepticon.clld.org/parameters/112,tartaruga,turtle
+178-440,port1283,http://concepticon.clld.org/parameters/1480,corpo,body
+178-447,port1283,http://concepticon.clld.org/parameters/763,pele,"skin, hide"
+178-922,port1283,http://concepticon.clld.org/parameters/763,couro,"skin, hide"
+178-1017,port1283,http://concepticon.clld.org/parameters/2259,carne,flesh
+178-485,port1283,http://concepticon.clld.org/parameters/1040,cabelo,hair (head)
+178-931,port1283,http://concepticon.clld.org/parameters/678,barba,beard
+178-485,port1283,http://concepticon.clld.org/parameters/189,cabelo,body hair
+178-1420,port1283,http://concepticon.clld.org/parameters/189,pêlo,body hair
+178-786,port1283,http://concepticon.clld.org/parameters/36,pêlo púbico,pubic hair
+178-372,port1283,http://concepticon.clld.org/parameters/576,caspa,dandruff
+178-1273,port1283,http://concepticon.clld.org/parameters/946,sangue,blood
+178-1572,port1283,http://concepticon.clld.org/parameters/525,veia,"vein, artery"
+178-1220,port1283,http://concepticon.clld.org/parameters/525,artéria,"vein, artery"
+178-632,port1283,http://concepticon.clld.org/parameters/1394,osso,bone
+178-830,port1283,http://concepticon.clld.org/parameters/801,costela,rib
+178-1338,port1283,http://concepticon.clld.org/parameters/1393,chifre,horn
+178-178,port1283,http://concepticon.clld.org/parameters/1393,corno,horn
+178-1016,port1283,http://concepticon.clld.org/parameters/1220,cauda,tail
+178-1313,port1283,http://concepticon.clld.org/parameters/1220,rabo,tail
+178-575,port1283,http://concepticon.clld.org/parameters/1291,costas,back
+178-895,port1283,http://concepticon.clld.org/parameters/805,espinha dorsal,spine
+178-286,port1283,http://concepticon.clld.org/parameters/1256,cabeça,head
+178-126,port1283,http://concepticon.clld.org/parameters/1604,fonte,"side of head, temple"
+178-765,port1283,http://concepticon.clld.org/parameters/1604,têmpora,"side of head, temple"
+178-610,port1283,http://concepticon.clld.org/parameters/1605,crânio,skull
+178-1544,port1283,http://concepticon.clld.org/parameters/1605,caveira,skull
+178-428,port1283,http://concepticon.clld.org/parameters/1583,cérebro,brain
+178-166,port1283,http://concepticon.clld.org/parameters/1583,miolos,brain
+178-586,port1283,http://concepticon.clld.org/parameters/1560,rosto,face
+178-1505,port1283,http://concepticon.clld.org/parameters/123,testa,forehead
+178-10,port1283,http://concepticon.clld.org/parameters/123,fronte,forehead
+178-418,port1283,http://concepticon.clld.org/parameters/798,maxila,jaw
+178-886,port1283,http://concepticon.clld.org/parameters/1730,bochecha,cheek
+178-1143,port1283,http://concepticon.clld.org/parameters/1510,queixo,chin
+178-627,port1283,http://concepticon.clld.org/parameters/1248,olho,eye
+178-801,port1283,http://concepticon.clld.org/parameters/1173,sobrancelha,eyebrow
+178-98,port1283,http://concepticon.clld.org/parameters/17,pálpebra,eyelid
+178-1171,port1283,http://concepticon.clld.org/parameters/1540,pestana,eyelash
+178-1438,port1283,http://concepticon.clld.org/parameters/1540,cílio,eyelash
+178-954,port1283,http://concepticon.clld.org/parameters/1655,pestanejar,blink
+178-1310,port1283,http://concepticon.clld.org/parameters/1247,orelha,ear
+178-459,port1283,http://concepticon.clld.org/parameters/18,lóbulo,earlobe
+178-338,port1283,http://concepticon.clld.org/parameters/32,cerume,earwax
+178-1251,port1283,http://concepticon.clld.org/parameters/32,cera,earwax
+178-1278,port1283,http://concepticon.clld.org/parameters/1221,nariz,nose
+178-1149,port1283,http://concepticon.clld.org/parameters/1178,narina,nostril
+178-281,port1283,http://concepticon.clld.org/parameters/208,muco,mucus (nasal)
+178-458,port1283,http://concepticon.clld.org/parameters/674,boca,mouth
+178-940,port1283,http://concepticon.clld.org/parameters/73,bico,beak
+178-199,port1283,http://concepticon.clld.org/parameters/478,lábio,lip
+178-212,port1283,http://concepticon.clld.org/parameters/1205,língua,tongue
+178-259,port1283,http://concepticon.clld.org/parameters/1380,dente,tooth
+178-1102,port1283,http://concepticon.clld.org/parameters/139,gengiva,gums
+178-1231,port1283,http://concepticon.clld.org/parameters/1049,molar,molartooth
+178-923,port1283,http://concepticon.clld.org/parameters/1333,pescoço,neck
+178-898,port1283,http://concepticon.clld.org/parameters/1347,nuca,nape of neck
+178-827,port1283,http://concepticon.clld.org/parameters/1346,garganta,throat
+178-1459,port1283,http://concepticon.clld.org/parameters/1482,ombro,shoulder
+178-1240,port1283,http://concepticon.clld.org/parameters/172,omoplata,shoulderblade
+178-185,port1283,http://concepticon.clld.org/parameters/1994,clavícula,collarbone
+178-425,port1283,http://concepticon.clld.org/parameters/1673,braço,arm
+178-1480,port1283,http://concepticon.clld.org/parameters/1886,axila,armpit
+178-1482,port1283,http://concepticon.clld.org/parameters/1886,sovaco,armpit
+178-1525,port1283,http://concepticon.clld.org/parameters/981,cotovelo,elbow
+178-24,port1283,http://concepticon.clld.org/parameters/799,pulso,wrist
+178-742,port1283,http://concepticon.clld.org/parameters/1277,mão,hand
+178-1131,port1283,http://concepticon.clld.org/parameters/1183,palma de mão,palm of hand
+178-950,port1283,http://concepticon.clld.org/parameters/1303,dedo,finger
+178-381,port1283,http://concepticon.clld.org/parameters/1781,polegar,thumb
+178-196,port1283,http://concepticon.clld.org/parameters/1258,unha,fingernail
+178-159,port1283,http://concepticon.clld.org/parameters/72,garra,claw
+178-1205,port1283,http://concepticon.clld.org/parameters/1297,perna,leg
+178-1452,port1283,http://concepticon.clld.org/parameters/800,coxa,thigh
+178-724,port1283,http://concepticon.clld.org/parameters/498,barriga da perna,calf of leg
+178-730,port1283,http://concepticon.clld.org/parameters/1371,joelho,knee
+178-1111,port1283,http://concepticon.clld.org/parameters/1301,pé,foot
+178-540,port1283,http://concepticon.clld.org/parameters/803,tornozelo,ankle
+178-734,port1283,http://concepticon.clld.org/parameters/980,calcanhar,heel
+178-18,port1283,http://concepticon.clld.org/parameters/318,pegada,footprint
+178-455,port1283,http://concepticon.clld.org/parameters/1389,dedo do pé,toe
+178-967,port1283,http://concepticon.clld.org/parameters/1257,asa,wing
+178-946,port1283,http://concepticon.clld.org/parameters/1201,pena,feather
+178-234,port1283,http://concepticon.clld.org/parameters/1592,peito,chest
+178-1557,port1283,http://concepticon.clld.org/parameters/1402,seio,breast (of woman)
+178-983,port1283,http://concepticon.clld.org/parameters/1402,mama,breast (of woman)
+178-470,port1283,http://concepticon.clld.org/parameters/796,mamilo,"nipple, teat"
+178-1214,port1283,http://concepticon.clld.org/parameters/796,teta,"nipple, teat"
+178-288,port1283,http://concepticon.clld.org/parameters/154,úbere,udder
+178-1281,port1283,http://concepticon.clld.org/parameters/1838,umbigo,navel
+178-623,port1283,http://concepticon.clld.org/parameters/1223,coração,heart
+178-1255,port1283,http://concepticon.clld.org/parameters/688,pulmão,lung
+178-1178,port1283,http://concepticon.clld.org/parameters/1224,fígado,liver
+178-1099,port1283,http://concepticon.clld.org/parameters/489,rim,kidney
+178-1431,port1283,http://concepticon.clld.org/parameters/1744,baço,spleen
+178-1030,port1283,http://concepticon.clld.org/parameters/819,estômago,stomach
+178-634,port1283,http://concepticon.clld.org/parameters/819,barriga,stomach
+178-532,port1283,http://concepticon.clld.org/parameters/1991,intestinos,"intestines, guts"
+178-1426,port1283,http://concepticon.clld.org/parameters/1991,tripas,"intestines, guts"
+178-1156,port1283,http://concepticon.clld.org/parameters/1681,cintura,waist
+178-189,port1283,http://concepticon.clld.org/parameters/1745,quadril,hip
+178-617,port1283,http://concepticon.clld.org/parameters/1745,anca,hip
+178-748,port1283,http://concepticon.clld.org/parameters/1745,cadeira,hip
+178-193,port1283,http://concepticon.clld.org/parameters/834,nádegas,buttocks
+178-45,port1283,http://concepticon.clld.org/parameters/804,útero,womb
+178-812,port1283,http://concepticon.clld.org/parameters/804,ventre,womb
+178-955,port1283,http://concepticon.clld.org/parameters/797,testículo,testicle
+178-673,port1283,http://concepticon.clld.org/parameters/1222,pênis,penis
+178-559,port1283,http://concepticon.clld.org/parameters/1407,respirar,"breathe, breath"
+178-432,port1283,http://concepticon.clld.org/parameters/1407,respiração,"breathe, breath"
+178-803,port1283,http://concepticon.clld.org/parameters/1028,bocejar,"yawn, gape"
+178-153,port1283,http://concepticon.clld.org/parameters/162,soluço,hiccough
+178-1322,port1283,http://concepticon.clld.org/parameters/879,tossir,cough
+178-564,port1283,http://concepticon.clld.org/parameters/1621,espirrar,sneeze
+178-293,port1283,http://concepticon.clld.org/parameters/126,suar,perspire
+178-133,port1283,http://concepticon.clld.org/parameters/126,transpirar,perspire
+178-256,port1283,http://concepticon.clld.org/parameters/1440,cuspir,spit
+178-1,port1283,http://concepticon.clld.org/parameters/1278,vomitar,vomit
+178-615,port1283,http://concepticon.clld.org/parameters/1403,morder,bite
+178-663,port1283,http://concepticon.clld.org/parameters/319,lamber,lick
+178-252,port1283,http://concepticon.clld.org/parameters/268,babar,dribble
+178-793,port1283,http://concepticon.clld.org/parameters/1585,dormir,sleep
+178-518,port1283,http://concepticon.clld.org/parameters/1983,roncar,snore
+178-280,port1283,http://concepticon.clld.org/parameters/1983,ressonar,snore
+178-1471,port1283,http://concepticon.clld.org/parameters/1920,sonhar,dream
+178-3,port1283,http://concepticon.clld.org/parameters/1602,acordar,wake up
+178-1154,port1283,http://concepticon.clld.org/parameters/1159,peido,break wind
+178-978,port1283,http://concepticon.clld.org/parameters/592,urinar,urinate
+178-1499,port1283,http://concepticon.clld.org/parameters/676,defecar,defecate
+178-779,port1283,http://concepticon.clld.org/parameters/1785,ter relações sexuais,have sexual intercourse
+178-777,port1283,http://concepticon.clld.org/parameters/52,tiritar,shiver
+178-125,port1283,http://concepticon.clld.org/parameters/52,tremer,shiver
+178-150,port1283,http://concepticon.clld.org/parameters/138,tomar banho,bathe
+178-162,port1283,http://concepticon.clld.org/parameters/1152,gerar,beget (of father)
+178-206,port1283,http://concepticon.clld.org/parameters/1152,emprenhar,beget (of father)
+178-25,port1283,http://concepticon.clld.org/parameters/1090,nascer,born (to be)
+178-71,port1283,http://concepticon.clld.org/parameters/1123,grávida,pregnant
+178-585,port1283,http://concepticon.clld.org/parameters/1123,prenhe,pregnant
+178-477,port1283,http://concepticon.clld.org/parameters/1087,conceber,conceive
+178-750,port1283,http://concepticon.clld.org/parameters/1422,viver,"live, living, life"
+178-997,port1283,http://concepticon.clld.org/parameters/1422,vivo/a,"live, living, life"
+178-1497,port1283,http://concepticon.clld.org/parameters/1422,vida,"live, living, life"
+178-1515,port1283,http://concepticon.clld.org/parameters/1494,morrer,"die, dead"
+178-914,port1283,http://concepticon.clld.org/parameters/1494,morto,"die, dead"
+178-237,port1283,http://concepticon.clld.org/parameters/1904,afogado,drowned
+178-141,port1283,http://concepticon.clld.org/parameters/1417,matar,kill
+178-1145,port1283,http://concepticon.clld.org/parameters/767,cadáver,corpse
+178-332,port1283,http://concepticon.clld.org/parameters/1719,enterrar,bury (the dead)
+178-542,port1283,http://concepticon.clld.org/parameters/1773,túmulo,"grave, tomb"
+178-1168,port1283,http://concepticon.clld.org/parameters/1773,sepultura,"grave, tomb"
+178-143,port1283,http://concepticon.clld.org/parameters/785,forte,"strong, mighty, powerful"
+178-423,port1283,http://concepticon.clld.org/parameters/785,poderoso,"strong, mighty, powerful"
+178-1114,port1283,http://concepticon.clld.org/parameters/1601,débil,weak
+178-1446,port1283,http://concepticon.clld.org/parameters/1601,fraco,weak
+178-1366,port1283,http://concepticon.clld.org/parameters/1364,bem,"well, health"
+178-486,port1283,http://concepticon.clld.org/parameters/1364,saúde,"well, health"
+178-618,port1283,http://concepticon.clld.org/parameters/1364,são,"well, health"
+178-266,port1283,http://concepticon.clld.org/parameters/1847,doente,"sick, sickness"
+178-956,port1283,http://concepticon.clld.org/parameters/1847,doença,"sick, sickness"
+178-533,port1283,http://concepticon.clld.org/parameters/1534,febre,fever
+178-1201,port1283,http://concepticon.clld.org/parameters/1957,papo,goiter
+178-439,port1283,http://concepticon.clld.org/parameters/1957,papeira,goiter
+178-342,port1283,http://concepticon.clld.org/parameters/102,resfriado,cold (catarrh)
+178-186,port1283,http://concepticon.clld.org/parameters/102,gripe,cold (catarrh)
+178-27,port1283,http://concepticon.clld.org/parameters/1109,ferida,"wound, sore"
+178-462,port1283,http://concepticon.clld.org/parameters/1109,chaga,"wound, sore"
+178-59,port1283,http://concepticon.clld.org/parameters/1148,ferimento,bruise
+178-306,port1283,http://concepticon.clld.org/parameters/1903,inchação,swelling
+178-612,port1283,http://concepticon.clld.org/parameters/148,comichão,itch
+178-523,port1283,http://concepticon.clld.org/parameters/148,coceira,itch
+178-1306,port1283,http://concepticon.clld.org/parameters/1584,empola,blister
+178-82,port1283,http://concepticon.clld.org/parameters/1584,bolha,blister
+178-538,port1283,http://concepticon.clld.org/parameters/793,furúnculo,boil (noun)
+178-968,port1283,http://concepticon.clld.org/parameters/1808,pus,pus
+178-1507,port1283,http://concepticon.clld.org/parameters/497,cicatriz,scar
+178-58,port1283,http://concepticon.clld.org/parameters/499,sarar,"cure, heal"
+178-887,port1283,http://concepticon.clld.org/parameters/499,curar,"cure, heal"
+178-620,port1283,http://concepticon.clld.org/parameters/597,médico,physician
+178-1393,port1283,http://concepticon.clld.org/parameters/1372,medicamento,"medicine, drug"
+178-1246,port1283,http://concepticon.clld.org/parameters/1372,remédio,"medicine, drug"
+178-275,port1283,http://concepticon.clld.org/parameters/655,veneno,poison
+178-1441,port1283,http://concepticon.clld.org/parameters/1757,cansado,"tired, weary"
+178-876,port1283,http://concepticon.clld.org/parameters/1757,estafado,"tired, weary"
+178-267,port1283,http://concepticon.clld.org/parameters/168,descansar,rest
+178-308,port1283,http://concepticon.clld.org/parameters/1564,preguiçoso,lazy
+178-72,port1283,http://concepticon.clld.org/parameters/1125,calvo,bald
+178-1451,port1283,http://concepticon.clld.org/parameters/320,coxo,lame
+178-30,port1283,http://concepticon.clld.org/parameters/996,surdo,deaf
+178-1532,port1283,http://concepticon.clld.org/parameters/1666,mudo,mute
+178-722,port1283,http://concepticon.clld.org/parameters/1653,cego,blind
+178-322,port1283,http://concepticon.clld.org/parameters/1463,embriagado,intoxicated
+178-437,port1283,http://concepticon.clld.org/parameters/590,despido,"naked, bare"
+178-757,port1283,http://concepticon.clld.org/parameters/590,nu,"naked, bare"
+178-675,port1283,http://concepticon.clld.org/parameters/1336,comer,eat
+178-203,port1283,http://concepticon.clld.org/parameters/256,alimento,food
+178-1137,port1283,http://concepticon.clld.org/parameters/269,cozinhado,cooked
+178-334,port1283,http://concepticon.clld.org/parameters/269,cozido,cooked
+178-1032,port1283,http://concepticon.clld.org/parameters/1959,cru,raw
+178-139,port1283,http://concepticon.clld.org/parameters/178,maduro,ripe
+178-621,port1283,http://concepticon.clld.org/parameters/1958,verde,"green, unripe"
+178-614,port1283,http://concepticon.clld.org/parameters/1958,imaturo,"green, unripe"
+178-846,port1283,http://concepticon.clld.org/parameters/1728,podre,rotten
+178-595,port1283,http://concepticon.clld.org/parameters/1401,beber,drink
+178-1022,port1283,http://concepticon.clld.org/parameters/1401,tomar,drink
+178-121,port1283,http://concepticon.clld.org/parameters/1533,estar com fome,hunger
+178-1158,port1283,http://concepticon.clld.org/parameters/199,fome,famine
+178-85,port1283,http://concepticon.clld.org/parameters/848,sede,thirst
+178-648,port1283,http://concepticon.clld.org/parameters/1421,chupar,suck
+178-219,port1283,http://concepticon.clld.org/parameters/1421,sugar,suck
+178-1374,port1283,http://concepticon.clld.org/parameters/321,mastigar,chew
+178-534,port1283,http://concepticon.clld.org/parameters/321,mascar,chew
+178-1270,port1283,http://concepticon.clld.org/parameters/897,tragar,swallow
+178-1196,port1283,http://concepticon.clld.org/parameters/897,engolir,swallow
+178-1288,port1283,http://concepticon.clld.org/parameters/129,sufocar,choke
+178-1241,port1283,http://concepticon.clld.org/parameters/1100,cozinhar,cook
+178-1468,port1283,http://concepticon.clld.org/parameters/792,ferver,boil (vb)
+178-1229,port1283,http://concepticon.clld.org/parameters/2146,assar,"roast, fry"
+178-561,port1283,http://concepticon.clld.org/parameters/2146,fritar,"roast, fry"
+178-947,port1283,http://concepticon.clld.org/parameters/2146,frigir,"roast, fry"
+178-745,port1283,http://concepticon.clld.org/parameters/183,cozer no forno,bake
+178-452,port1283,http://concepticon.clld.org/parameters/1143,forno,oven
+178-400,port1283,http://concepticon.clld.org/parameters/1462,panela,"pot, cooking vessel"
+178-1463,port1283,http://concepticon.clld.org/parameters/854,chaleira,kettle
+178-400,port1283,http://concepticon.clld.org/parameters/31,panela,pan
+178-34,port1283,http://concepticon.clld.org/parameters/481,prato,dish
+178-34,port1283,http://concepticon.clld.org/parameters/480,prato,plate
+178-1400,port1283,http://concepticon.clld.org/parameters/1530,bacia,bowl
+178-873,port1283,http://concepticon.clld.org/parameters/1530,tigela,bowl
+178-1183,port1283,http://concepticon.clld.org/parameters/270,cântaro,"pitcher, jug"
+178-662,port1283,http://concepticon.clld.org/parameters/476,xícara,"cup, drinking vessel"
+178-1161,port1283,http://concepticon.clld.org/parameters/476,chávena,"cup, drinking vessel"
+178-591,port1283,http://concepticon.clld.org/parameters/476,copo,"cup, drinking vessel"
+178-1472,port1283,http://concepticon.clld.org/parameters/271,pires,saucer
+178-1561,port1283,http://concepticon.clld.org/parameters/1378,colher,spoon
+178-1396,port1283,http://concepticon.clld.org/parameters/1352,faca,knife (2)
+178-446,port1283,http://concepticon.clld.org/parameters/1302,garfo,fork (2)
+178-1228,port1283,http://concepticon.clld.org/parameters/272,pinça,tongs
+178-156,port1283,http://concepticon.clld.org/parameters/1526,refeição,meal (a)
+178-546,port1283,http://concepticon.clld.org/parameters/1322,café da manhã,breakfast
+178-1103,port1283,http://concepticon.clld.org/parameters/1322,pequeno-almoço,breakfast
+178-350,port1283,http://concepticon.clld.org/parameters/768,almoço,lunch
+178-270,port1283,http://concepticon.clld.org/parameters/1833,jantar,dinner
+178-270,port1283,http://concepticon.clld.org/parameters/1833,jantar,supper
+178-221,port1283,http://concepticon.clld.org/parameters/1833,ceia,supper
+178-794,port1283,http://concepticon.clld.org/parameters/275,descascar,peel
+178-449,port1283,http://concepticon.clld.org/parameters/86,peneira,"sieve, strain"
+178-1036,port1283,http://concepticon.clld.org/parameters/86,coador,"sieve, strain"
+178-935,port1283,http://concepticon.clld.org/parameters/86,coar,"sieve, strain"
+178-1412,port1283,http://concepticon.clld.org/parameters/1767,raspar,scrape
+178-580,port1283,http://concepticon.clld.org/parameters/2017,misturar,"stir, mix"
+178-419,port1283,http://concepticon.clld.org/parameters/2017,mexer,"stir, mix"
+178-5,port1283,http://concepticon.clld.org/parameters/1368,pão,bread
+178-607,port1283,http://concepticon.clld.org/parameters/273,massa,dough
+178-1253,port1283,http://concepticon.clld.org/parameters/274,amassar,knead
+178-1408,port1283,http://concepticon.clld.org/parameters/1594,farinha,"meal, flour"
+178-1437,port1283,http://concepticon.clld.org/parameters/1033,esmagar,"crush, grind"
+178-475,port1283,http://concepticon.clld.org/parameters/1033,moer,"crush, grind"
+178-679,port1283,http://concepticon.clld.org/parameters/636,moinho,mill
+178-1530,port1283,http://concepticon.clld.org/parameters/224,morteiro,mortar (2)
+178-1051,port1283,http://concepticon.clld.org/parameters/225,mão de pilão,pestle
+178-1042,port1283,http://concepticon.clld.org/parameters/225,almofariz,pestle
+178-1017,port1283,http://concepticon.clld.org/parameters/634,carne,meat
+178-292,port1283,http://concepticon.clld.org/parameters/1874,linguiça,sausage
+178-798,port1283,http://concepticon.clld.org/parameters/1874,chouriço,sausage
+178-1475,port1283,http://concepticon.clld.org/parameters/1547,sopa,"soup, broth"
+178-81,port1283,http://concepticon.clld.org/parameters/1547,caldo,"soup, broth"
+178-592,port1283,http://concepticon.clld.org/parameters/924,legumes,vegetables
+178-283,port1283,http://concepticon.clld.org/parameters/924,verduras,vegetables
+178-1542,port1283,http://concepticon.clld.org/parameters/832,feijão,bean
+178-1074,port1283,http://concepticon.clld.org/parameters/593,batata,potato
+178-1045,port1283,http://concepticon.clld.org/parameters/1507,fruta,fruit
+178-1435,port1283,http://concepticon.clld.org/parameters/1966,ramo,bunch
+178-1404,port1283,http://concepticon.clld.org/parameters/1966,cacho,bunch
+178-14,port1283,http://concepticon.clld.org/parameters/322,figo,fig
+178-942,port1283,http://concepticon.clld.org/parameters/920,uva,grape
+178-554,port1283,http://concepticon.clld.org/parameters/191,noz,nut
+178-1128,port1283,http://concepticon.clld.org/parameters/1154,azeitona,olive
+178-1243,port1283,http://concepticon.clld.org/parameters/1484,azeite,oil
+178-865,port1283,http://concepticon.clld.org/parameters/1484,óleo,oil
+178-1218,port1283,http://concepticon.clld.org/parameters/323,gordura,"grease, fat"
+178-598,port1283,http://concepticon.clld.org/parameters/1274,sal,salt
+178-1109,port1283,http://concepticon.clld.org/parameters/1385,pimenta,pepper
+178-1252,port1283,http://concepticon.clld.org/parameters/919,malagueta,chili pepper
+178-250,port1283,http://concepticon.clld.org/parameters/942,mel,honey
+178-1035,port1283,http://concepticon.clld.org/parameters/862,açúcar,sugar
+178-836,port1283,http://concepticon.clld.org/parameters/635,leite,milk (noun)
+178-669,port1283,http://concepticon.clld.org/parameters/93,ordenhar,milk (vb)
+178-1175,port1283,http://concepticon.clld.org/parameters/1569,queijo,cheese
+178-394,port1283,http://concepticon.clld.org/parameters/1245,manteiga,butter
+178-649,port1283,http://concepticon.clld.org/parameters/731,bebida,"beverage, drink"
+178-192,port1283,http://concepticon.clld.org/parameters/941,mulso,mead
+178-581,port1283,http://concepticon.clld.org/parameters/941,hidromel,mead
+178-461,port1283,http://concepticon.clld.org/parameters/1524,vinho,wine
+178-788,port1283,http://concepticon.clld.org/parameters/1639,cerveja,beer
+178-202,port1283,http://concepticon.clld.org/parameters/404,bebida fermentada,fermented drink
+178-90,port1283,http://concepticon.clld.org/parameters/744,ovo,egg
+178-1125,port1283,http://concepticon.clld.org/parameters/1556,gema,egg yolk
+178-1227,port1283,http://concepticon.clld.org/parameters/158,vestir,put on (clothes)
+178-359,port1283,http://concepticon.clld.org/parameters/1895,roupa,"clothing, clothes"
+178-1226,port1283,http://concepticon.clld.org/parameters/881,alfaiate,tailor
+178-590,port1283,http://concepticon.clld.org/parameters/1616,tecido,cloth
+178-943,port1283,http://concepticon.clld.org/parameters/1616,pano,cloth
+178-142,port1283,http://concepticon.clld.org/parameters/964,lã,wool
+178-36,port1283,http://concepticon.clld.org/parameters/916,linho,"linen, flax"
+178-640,port1283,http://concepticon.clld.org/parameters/1850,algodão,cotton
+178-87,port1283,http://concepticon.clld.org/parameters/1641,seda,silk
+178-919,port1283,http://concepticon.clld.org/parameters/325,feltro,felt
+178-447,port1283,http://concepticon.clld.org/parameters/580,pele,fur
+178-922,port1283,http://concepticon.clld.org/parameters/629,couro,leather
+178-969,port1283,http://concepticon.clld.org/parameters/121,fiar,spin
+178-317,port1283,http://concepticon.clld.org/parameters/277,fuso,spindle
+178-285,port1283,http://concepticon.clld.org/parameters/133,tecer,weave
+178-451,port1283,http://concepticon.clld.org/parameters/1787,tear,loom
+178-363,port1283,http://concepticon.clld.org/parameters/1457,costurar,sew
+178-1031,port1283,http://concepticon.clld.org/parameters/1382,agulha,needle
+178-289,port1283,http://concepticon.clld.org/parameters/278,sovela,awl
+178-39,port1283,http://concepticon.clld.org/parameters/1161,linha,thread
+178-113,port1283,http://concepticon.clld.org/parameters/1161,fio,thread
+178-644,port1283,http://concepticon.clld.org/parameters/157,corante,dye
+178-1135,port1283,http://concepticon.clld.org/parameters/157,tingir,dye
+178-345,port1283,http://concepticon.clld.org/parameters/326,capa,cloak
+178-1521,port1283,http://concepticon.clld.org/parameters/326,manto,cloak
+178-134,port1283,http://concepticon.clld.org/parameters/327,poncho,poncho
+178-345,port1283,http://concepticon.clld.org/parameters/327,capa,poncho
+178-448,port1283,http://concepticon.clld.org/parameters/474,vestido,woman's dress
+178-1206,port1283,http://concepticon.clld.org/parameters/603,casaco,coat
+178-272,port1283,http://concepticon.clld.org/parameters/1622,camisa,shirt
+178-993,port1283,http://concepticon.clld.org/parameters/2012,colarinho,collar
+178-1395,port1283,http://concepticon.clld.org/parameters/1600,saia,skirt
+178-1263,port1283,http://concepticon.clld.org/parameters/328,saia de palha/capin,grass-skirt
+178-1583,port1283,http://concepticon.clld.org/parameters/809,calças,trousers
+178-1028,port1283,http://concepticon.clld.org/parameters/329,meia,"stocking, sock"
+178-932,port1283,http://concepticon.clld.org/parameters/329,peúga,"stocking, sock"
+178-255,port1283,http://concepticon.clld.org/parameters/1381,sapato,shoe
+178-1060,port1283,http://concepticon.clld.org/parameters/585,bota,boot
+178-341,port1283,http://concepticon.clld.org/parameters/875,sapateiro,"shoemaker, cobbler"
+178-1527,port1283,http://concepticon.clld.org/parameters/2130,chapéu,"hat, cap"
+178-587,port1283,http://concepticon.clld.org/parameters/2130,gorro,"hat, cap"
+178-820,port1283,http://concepticon.clld.org/parameters/2130,boina,"hat, cap"
+178-258,port1283,http://concepticon.clld.org/parameters/772,cinto,"belt, girdle"
+178-494,port1283,http://concepticon.clld.org/parameters/867,luva,glove
+178-1514,port1283,http://concepticon.clld.org/parameters/1151,véu,veil
+178-351,port1283,http://concepticon.clld.org/parameters/1851,bolso,pocket
+178-1235,port1283,http://concepticon.clld.org/parameters/757,botão,button
+178-747,port1283,http://concepticon.clld.org/parameters/64,alfinete,pin
+178-456,port1283,http://concepticon.clld.org/parameters/917,adorno,"ornament, adornment"
+178-52,port1283,http://concepticon.clld.org/parameters/917,enfeite,"ornament, adornment"
+178-719,port1283,http://concepticon.clld.org/parameters/1029,jóia,jewel
+178-655,port1283,http://concepticon.clld.org/parameters/1374,anel,ring (for finger)
+178-636,port1283,http://concepticon.clld.org/parameters/1754,bracelete,bracelet
+178-821,port1283,http://concepticon.clld.org/parameters/1754,pulseira,bracelet
+178-1365,port1283,http://concepticon.clld.org/parameters/1961,colar,necklace
+178-656,port1283,http://concepticon.clld.org/parameters/1860,contas,bead
+178-324,port1283,http://concepticon.clld.org/parameters/1860,miçanga,bead
+178-1230,port1283,http://concepticon.clld.org/parameters/770,brinco,earring
+178-1355,port1283,http://concepticon.clld.org/parameters/330,fita para cabeça,"headband, headdress"
+178-1274,port1283,http://concepticon.clld.org/parameters/68,tatuagem,tattoo
+178-1367,port1283,http://concepticon.clld.org/parameters/332,lenço,"handkerchief, rag"
+178-727,port1283,http://concepticon.clld.org/parameters/332,trapo,"handkerchief, rag"
+178-49,port1283,http://concepticon.clld.org/parameters/1021,toalha,towel
+178-749,port1283,http://concepticon.clld.org/parameters/1475,pente,comb
+178-119,port1283,http://concepticon.clld.org/parameters/1821,escova,brush
+178-450,port1283,http://concepticon.clld.org/parameters/333,trança,braid
+178-909,port1283,http://concepticon.clld.org/parameters/151,navalha de barba,razor
+178-761,port1283,http://concepticon.clld.org/parameters/1926,ungüento,ointment
+178-829,port1283,http://concepticon.clld.org/parameters/788,sabão,soap
+178-1139,port1283,http://concepticon.clld.org/parameters/1171,espelho,mirror
+178-48,port1283,http://concepticon.clld.org/parameters/1099,morar,"dwell, live"
+178-1113,port1283,http://concepticon.clld.org/parameters/1099,residir,"dwell, live"
+178-693,port1283,http://concepticon.clld.org/parameters/1252,casa,house
+178-706,port1283,http://concepticon.clld.org/parameters/1678,cabana,hut
+178-401,port1283,http://concepticon.clld.org/parameters/403,casa de jardim,garden-house
+178-1147,port1283,http://concepticon.clld.org/parameters/1316,tenda,tent
+178-1055,port1283,http://concepticon.clld.org/parameters/1316,barraca,tent
+178-638,port1283,http://concepticon.clld.org/parameters/736,quintal,"yard, court"
+178-905,port1283,http://concepticon.clld.org/parameters/736,pátio,"yard, court"
+178-1187,port1283,http://concepticon.clld.org/parameters/408,casa de homens,men's house
+178-460,port1283,http://concepticon.clld.org/parameters/334,cozinha,cookhouse
+178-480,port1283,http://concepticon.clld.org/parameters/335,casa de reunião,meeting house
+178-1573,port1283,http://concepticon.clld.org/parameters/1450,quarto,room
+178-135,port1283,http://concepticon.clld.org/parameters/1450,peça,room
+178-764,port1283,http://concepticon.clld.org/parameters/1567,porta,"door, gate"
+178-769,port1283,http://concepticon.clld.org/parameters/1567,portão,"door, gate"
+178-1383,port1283,http://concepticon.clld.org/parameters/80,umbral,"doorpost, jamb"
+178-1024,port1283,http://concepticon.clld.org/parameters/80,ombreira da porta,"doorpost, jamb"
+178-866,port1283,http://concepticon.clld.org/parameters/1596,fechadura,lock (noun)
+178-520,port1283,http://concepticon.clld.org/parameters/1596,cadeado,lock (noun)
+178-641,port1283,http://concepticon.clld.org/parameters/1012,trinco,"latch, door-bolt"
+178-572,port1283,http://concepticon.clld.org/parameters/1472,chave,key
+178-1433,port1283,http://concepticon.clld.org/parameters/1375,janela,window
+178-69,port1283,http://concepticon.clld.org/parameters/1632,chão,floor
+178-973,port1283,http://concepticon.clld.org/parameters/1632,soalho,floor
+178-1546,port1283,http://concepticon.clld.org/parameters/933,parede,wall
+178-444,port1283,http://concepticon.clld.org/parameters/185,lareira,fireplace
+178-1300,port1283,http://concepticon.clld.org/parameters/859,fogão,stove
+178-1086,port1283,http://concepticon.clld.org/parameters/1305,chaminé,chimney
+178-1301,port1283,http://concepticon.clld.org/parameters/1464,escada,ladder
+178-210,port1283,http://concepticon.clld.org/parameters/1663,cama,bed
+178-816,port1283,http://concepticon.clld.org/parameters/1044,almofada,pillow
+178-1004,port1283,http://concepticon.clld.org/parameters/1044,travesseiro,pillow
+178-927,port1283,http://concepticon.clld.org/parameters/806,cobertor,blanket
+178-748,port1283,http://concepticon.clld.org/parameters/1476,cadeira,chair
+178-88,port1283,http://concepticon.clld.org/parameters/1775,mesa,table
+178-651,port1283,http://concepticon.clld.org/parameters/2131,candeeiro,"lamp, torch"
+178-112,port1283,http://concepticon.clld.org/parameters/2131,tocha,"lamp, torch"
+178-1237,port1283,http://concepticon.clld.org/parameters/1273,vela,candle
+178-1540,port1283,http://concepticon.clld.org/parameters/745,prateleira,shelf
+178-335,port1283,http://concepticon.clld.org/parameters/205,gamela,trough
+178-1328,port1283,http://concepticon.clld.org/parameters/769,telhado,roof
+178-1213,port1283,http://concepticon.clld.org/parameters/769,teto,roof
+178-961,port1283,http://concepticon.clld.org/parameters/279,palha,thatch
+178-244,port1283,http://concepticon.clld.org/parameters/279,colmo,thatch
+178-637,port1283,http://concepticon.clld.org/parameters/279,sapé,thatch
+178-1339,port1283,http://concepticon.clld.org/parameters/280,espinhaço,ridgepole
+178-68,port1283,http://concepticon.clld.org/parameters/280,ombreira,ridgepole
+178-44,port1283,http://concepticon.clld.org/parameters/829,viga,rafter
+178-1376,port1283,http://concepticon.clld.org/parameters/829,barrote,rafter
+178-44,port1283,http://concepticon.clld.org/parameters/1132,viga,beam
+178-1360,port1283,http://concepticon.clld.org/parameters/1132,trave,beam
+178-454,port1283,http://concepticon.clld.org/parameters/281,poste,"post, pole"
+178-102,port1283,http://concepticon.clld.org/parameters/281,vara,"post, pole"
+178-972,port1283,http://concepticon.clld.org/parameters/1227,tábua,board
+178-89,port1283,http://concepticon.clld.org/parameters/876,arco,arch
+178-422,port1283,http://concepticon.clld.org/parameters/877,pedreiro,mason
+178-1379,port1283,http://concepticon.clld.org/parameters/1006,tijolo,brick
+178-600,port1283,http://concepticon.clld.org/parameters/1731,argamassa,mortar
+178-128,port1283,http://concepticon.clld.org/parameters/901,adobe,adobe
+178-1312,port1283,http://concepticon.clld.org/parameters/979,lavrador,farmer
+178-1190,port1283,http://concepticon.clld.org/parameters/979,fazendeiro,farmer
+178-323,port1283,http://concepticon.clld.org/parameters/212,campo,field (for cultivation)
+178-606,port1283,http://concepticon.clld.org/parameters/586,jardim,garden
+178-700,port1283,http://concepticon.clld.org/parameters/586,horta,garden
+178-1478,port1283,http://concepticon.clld.org/parameters/1541,cultivar,"cultivate, till"
+178-238,port1283,http://concepticon.clld.org/parameters/1690,cerca,fence
+178-1011,port1283,http://concepticon.clld.org/parameters/2002,fosso,ditch
+178-1174,port1283,http://concepticon.clld.org/parameters/2002,canal,ditch
+178-875,port1283,http://concepticon.clld.org/parameters/2002,vala,ditch
+178-340,port1283,http://concepticon.clld.org/parameters/1921,arar,plow
+178-1584,port1283,http://concepticon.clld.org/parameters/1794,sulco,furrow
+178-1386,port1283,http://concepticon.clld.org/parameters/1418,cavar,dig
+178-701,port1283,http://concepticon.clld.org/parameters/1418,escavar,dig
+178-773,port1283,http://concepticon.clld.org/parameters/1176,pá,spade
+178-773,port1283,http://concepticon.clld.org/parameters/1901,pá,shovel
+178-1538,port1283,http://concepticon.clld.org/parameters/284,enxada,hoe
+178-361,port1283,http://concepticon.clld.org/parameters/337,forcado,fork
+178-1217,port1283,http://concepticon.clld.org/parameters/337,forquilha,fork
+178-76,port1283,http://concepticon.clld.org/parameters/338,ancinho,rake
+178-871,port1283,http://concepticon.clld.org/parameters/748,semear,sow
+178-1198,port1283,http://concepticon.clld.org/parameters/714,semente,seed
+178-1341,port1283,http://concepticon.clld.org/parameters/190,ceifar,"mow, reap"
+178-744,port1283,http://concepticon.clld.org/parameters/190,segar,"mow, reap"
+178-415,port1283,http://concepticon.clld.org/parameters/2132,foice,"sickle, scythe"
+178-1232,port1283,http://concepticon.clld.org/parameters/2132,gadanha,"sickle, scythe"
+178-1182,port1283,http://concepticon.clld.org/parameters/285,debulhar,thresh
+178-13,port1283,http://concepticon.clld.org/parameters/223,eira,threshing-floor
+178-723,port1283,http://concepticon.clld.org/parameters/611,colheita,"crop, harvest"
+178-175,port1283,http://concepticon.clld.org/parameters/605,grão,"grain (barley, oats etc)"
+178-1129,port1283,http://concepticon.clld.org/parameters/1077,trigo,wheat
+178-1487,port1283,http://concepticon.clld.org/parameters/932,cevada,barley
+178-404,port1283,http://concepticon.clld.org/parameters/23,centeio,rye
+178-900,port1283,http://concepticon.clld.org/parameters/60,aveia,oats
+178-963,port1283,http://concepticon.clld.org/parameters/506,milho,"maize, corn"
+178-776,port1283,http://concepticon.clld.org/parameters/926,arroz,rice
+178-1488,port1283,http://concepticon.clld.org/parameters/606,erva,grass
+178-1203,port1283,http://concepticon.clld.org/parameters/606,grama,grass
+178-930,port1283,http://concepticon.clld.org/parameters/606,relva,grass
+178-961,port1283,http://concepticon.clld.org/parameters/342,palha,hay
+178-629,port1283,http://concepticon.clld.org/parameters/342,feno,hay
+178-1091,port1283,http://concepticon.clld.org/parameters/653,planta,plant (noun)
+178-278,port1283,http://concepticon.clld.org/parameters/1486,plantar,plant (vb)
+178-871,port1283,http://concepticon.clld.org/parameters/1486,semear,plant (vb)
+178-318,port1283,http://concepticon.clld.org/parameters/670,raiz,root
+178-1435,port1283,http://concepticon.clld.org/parameters/1531,ramo,branch
+178-867,port1283,http://concepticon.clld.org/parameters/1531,galho,branch
+178-124,port1283,http://concepticon.clld.org/parameters/628,folha,leaf
+178-204,port1283,http://concepticon.clld.org/parameters/239,flor,flower
+178-994,port1283,http://concepticon.clld.org/parameters/906,árvore,tree
+178-959,port1283,http://concepticon.clld.org/parameters/644,carvalho,oak
+178-242,port1283,http://concepticon.clld.org/parameters/1950,faia,beech
+178-603,port1283,http://concepticon.clld.org/parameters/1855,bétula,birch
+178-1449,port1283,http://concepticon.clld.org/parameters/1740,pinheiro,pine
+178-152,port1283,http://concepticon.clld.org/parameters/1915,abeto,fir
+178-732,port1283,http://concepticon.clld.org/parameters/968,bolota,acorn
+178-464,port1283,http://concepticon.clld.org/parameters/343,vinha,vine
+178-127,port1283,http://concepticon.clld.org/parameters/974,tabaco,tobacco
+178-1498,port1283,http://concepticon.clld.org/parameters/1689,fumar,smoke (tobacco)
+178-1046,port1283,http://concepticon.clld.org/parameters/1124,cachimbo,pipe
+178-1558,port1283,http://concepticon.clld.org/parameters/241,toco,tree stump
+178-1307,port1283,http://concepticon.clld.org/parameters/344,tronco,tree trunk
+178-1208,port1283,http://concepticon.clld.org/parameters/409,rama bifurcada,forked branch
+178-254,port1283,http://concepticon.clld.org/parameters/1204,casca,bark
+178-1215,port1283,http://concepticon.clld.org/parameters/345,seiva,sap
+178-791,port1283,http://concepticon.clld.org/parameters/1181,palmeira,palm tree
+178-696,port1283,http://concepticon.clld.org/parameters/970,coco,coconut
+178-1121,port1283,http://concepticon.clld.org/parameters/1126,fruta cítrica,citrus fruit
+178-1119,port1283,http://concepticon.clld.org/parameters/868,bananeira,banana tree
+178-582,port1283,http://concepticon.clld.org/parameters/346,baniana,banyan
+178-118,port1283,http://concepticon.clld.org/parameters/159,batata doce,sweet potato
+178-1576,port1283,http://concepticon.clld.org/parameters/410,inhame,yam
+178-4,port1283,http://concepticon.clld.org/parameters/410,cará,yam
+178-1510,port1283,http://concepticon.clld.org/parameters/925,mandioca,"tapioca, manioc, cassava"
+178-698,port1283,http://concepticon.clld.org/parameters/411,cabaça,gourd
+178-1092,port1283,http://concepticon.clld.org/parameters/864,abóbora,"pumpkin, squash"
+178-429,port1283,http://concepticon.clld.org/parameters/1927,bambu,bamboo
+178-1003,port1283,http://concepticon.clld.org/parameters/146,cana de açúcar,sugar cane
+178-709,port1283,http://concepticon.clld.org/parameters/348,raízes venenosas,fish poison (root)
+178-1462,port1283,http://concepticon.clld.org/parameters/33,urtiga,nettle
+178-785,port1283,http://concepticon.clld.org/parameters/641,cogumelo,mushroom
+178-568,port1283,http://concepticon.clld.org/parameters/813,fazer,"do, make"
+178-1427,port1283,http://concepticon.clld.org/parameters/984,trabalhar,work
+178-1378,port1283,http://concepticon.clld.org/parameters/2004,dobrar,bend
+178-299,port1283,http://concepticon.clld.org/parameters/2004,curvar,bend
+178-1378,port1283,http://concepticon.clld.org/parameters/1470,dobrar,fold
+178-982,port1283,http://concepticon.clld.org/parameters/1917,amarrar,"tie, bind"
+178-529,port1283,http://concepticon.clld.org/parameters/1917,atar,"tie, bind"
+178-218,port1283,http://concepticon.clld.org/parameters/352,desatar,untie
+178-1197,port1283,http://concepticon.clld.org/parameters/1627,cadeia,chain
+178-684,port1283,http://concepticon.clld.org/parameters/1218,corda,"rope, cord"
+178-195,port1283,http://concepticon.clld.org/parameters/1218,cordel,"rope, cord"
+178-489,port1283,http://concepticon.clld.org/parameters/760,nó,knot (noun)
+178-149,port1283,http://concepticon.clld.org/parameters/2133,bater,"strike (hit, beat)"
+178-1535,port1283,http://concepticon.clld.org/parameters/2133,golpear,"strike (hit, beat)"
+178-1470,port1283,http://concepticon.clld.org/parameters/354,bater com o punho,pound with fist
+178-1058,port1283,http://concepticon.clld.org/parameters/1432,cortar,cut
+178-739,port1283,http://concepticon.clld.org/parameters/355,derrubar,cut down
+178-167,port1283,http://concepticon.clld.org/parameters/155,abater,"chop, hew"
+178-1058,port1283,http://concepticon.clld.org/parameters/155,cortar,"chop, hew"
+178-343,port1283,http://concepticon.clld.org/parameters/1434,apunhalar,stab
+178-1396,port1283,http://concepticon.clld.org/parameters/1352,faca,knife
+178-296,port1283,http://concepticon.clld.org/parameters/356,tesoura,"scissors, shears"
+178-1005,port1283,http://concepticon.clld.org/parameters/677,machado,ax
+178-170,port1283,http://concepticon.clld.org/parameters/290,enxó,adze
+178-95,port1283,http://concepticon.clld.org/parameters/680,romper,break
+178-1382,port1283,http://concepticon.clld.org/parameters/680,quebrar,break
+178-688,port1283,http://concepticon.clld.org/parameters/588,partido,broken
+178-899,port1283,http://concepticon.clld.org/parameters/588,quebrado,broken
+178-705,port1283,http://concepticon.clld.org/parameters/1437,fender,split
+178-1415,port1283,http://concepticon.clld.org/parameters/1437,partir,split
+178-95,port1283,http://concepticon.clld.org/parameters/1735,romper,tear
+178-360,port1283,http://concepticon.clld.org/parameters/1735,rasgar,tear
+178-1150,port1283,http://concepticon.clld.org/parameters/291,esfolar,"flay, skin"
+178-760,port1283,http://concepticon.clld.org/parameters/1449,esfregar,"rub, wipe"
+178-988,port1283,http://concepticon.clld.org/parameters/214,esticar,stretch
+178-274,port1283,http://concepticon.clld.org/parameters/1455,puxar,pull
+178-77,port1283,http://concepticon.clld.org/parameters/38,estender,spread out
+178-1551,port1283,http://concepticon.clld.org/parameters/38,espalhar,spread out
+178-64,port1283,http://concepticon.clld.org/parameters/357,pendurar,hang up
+178-1084,port1283,http://concepticon.clld.org/parameters/1913,comprimir,press
+178-1414,port1283,http://concepticon.clld.org/parameters/1913,apertar,press
+178-1448,port1283,http://concepticon.clld.org/parameters/1414,espremer,"squeeze, wring"
+178-1084,port1283,http://concepticon.clld.org/parameters/1414,comprimir,"squeeze, wring"
+178-819,port1283,http://concepticon.clld.org/parameters/1487,verter,pour
+178-330,port1283,http://concepticon.clld.org/parameters/1487,despejar,pour
+178-375,port1283,http://concepticon.clld.org/parameters/1453,lavar,wash
+178-507,port1283,http://concepticon.clld.org/parameters/230,varrer,sweep
+178-115,port1283,http://concepticon.clld.org/parameters/245,vassoura,broom
+178-924,port1283,http://concepticon.clld.org/parameters/1361,ferramenta,tool
+178-1317,port1283,http://concepticon.clld.org/parameters/1042,carpinteiro,carpenter
+178-511,port1283,http://concepticon.clld.org/parameters/1840,construir,build
+178-868,port1283,http://concepticon.clld.org/parameters/1501,perfurar,bore
+178-1371,port1283,http://concepticon.clld.org/parameters/46,esburacar,hollow out
+178-1386,port1283,http://concepticon.clld.org/parameters/46,cavar,hollow out
+178-1315,port1283,http://concepticon.clld.org/parameters/1948,serra,saw
+178-1118,port1283,http://concepticon.clld.org/parameters/1481,martelo,hammer
+178-171,port1283,http://concepticon.clld.org/parameters/502,prego,nail
+178-541,port1283,http://concepticon.clld.org/parameters/1069,cola,glue
+178-835,port1283,http://concepticon.clld.org/parameters/1001,ferreiro,"smith, blacksmith"
+178-907,port1283,http://concepticon.clld.org/parameters/288,forja,forge
+178-161,port1283,http://concepticon.clld.org/parameters/1648,bigorna,anvil
+178-1582,port1283,http://concepticon.clld.org/parameters/211,fundir,cast (metals)
+178-543,port1283,http://concepticon.clld.org/parameters/1369,ouro,gold
+178-33,port1283,http://concepticon.clld.org/parameters/759,prata,silver
+178-626,port1283,http://concepticon.clld.org/parameters/1825,cobre,"copper, bronze"
+178-1057,port1283,http://concepticon.clld.org/parameters/1825,bronze,"copper, bronze"
+178-506,port1283,http://concepticon.clld.org/parameters/621,ferro,iron
+178-1181,port1283,http://concepticon.clld.org/parameters/627,chumbo,lead (noun)
+178-583,port1283,http://concepticon.clld.org/parameters/358,estanho,"tin, tinplate"
+178-148,port1283,http://concepticon.clld.org/parameters/359,oleiro,potter
+178-116,port1283,http://concepticon.clld.org/parameters/289,moldar,mold (clay etc)
+178-122,port1283,http://concepticon.clld.org/parameters/289,amoldar,mold (clay etc)
+178-686,port1283,http://concepticon.clld.org/parameters/1399,barro,clay
+178-1501,port1283,http://concepticon.clld.org/parameters/1399,argila,clay
+178-183,port1283,http://concepticon.clld.org/parameters/604,vidro,glass
+178-285,port1283,http://concepticon.clld.org/parameters/1729,tecer,"weave, plait"
+178-1503,port1283,http://concepticon.clld.org/parameters/1539,cesto,basket
+178-1502,port1283,http://concepticon.clld.org/parameters/1539,cesta,basket
+178-194,port1283,http://concepticon.clld.org/parameters/195,tapete,mat
+178-194,port1283,http://concepticon.clld.org/parameters/292,tapete,rug
+178-814,port1283,http://concepticon.clld.org/parameters/292,carpete,rug
+178-1354,port1283,http://concepticon.clld.org/parameters/293,saco,netbag
+178-845,port1283,http://concepticon.clld.org/parameters/1971,ventilador,fan (noun)
+178-377,port1283,http://concepticon.clld.org/parameters/360,ventilar,fan (vb)
+178-1112,port1283,http://concepticon.clld.org/parameters/360,abanar,fan (vb)
+178-726,port1283,http://concepticon.clld.org/parameters/228,esculpir,carve
+178-498,port1283,http://concepticon.clld.org/parameters/914,escultor,sculptor
+178-939,port1283,http://concepticon.clld.org/parameters/1002,estátua,statue
+178-1212,port1283,http://concepticon.clld.org/parameters/1979,cinzel,chisel
+178-392,port1283,http://concepticon.clld.org/parameters/647,tinta,paint (noun)
+178-473,port1283,http://concepticon.clld.org/parameters/2001,pintar,paint (vb)
+178-813,port1283,http://concepticon.clld.org/parameters/765,mover,move
+178-772,port1283,http://concepticon.clld.org/parameters/1588,virar,turn over
+178-918,port1283,http://concepticon.clld.org/parameters/1445,voltar,turn around
+178-577,port1283,http://concepticon.clld.org/parameters/1445,dar a volta,turn around
+178-960,port1283,http://concepticon.clld.org/parameters/1113,envolver,"wind, wrap"
+178-356,port1283,http://concepticon.clld.org/parameters/1113,enrolar,"wind, wrap"
+178-647,port1283,http://concepticon.clld.org/parameters/827,rolar,roll
+178-1424,port1283,http://concepticon.clld.org/parameters/808,deixar cair,drop (vb)
+178-339,port1283,http://concepticon.clld.org/parameters/430,torcer,twist
+178-953,port1283,http://concepticon.clld.org/parameters/568,subir,rise
+178-431,port1283,http://concepticon.clld.org/parameters/501,levantar,"raise, lift"
+178-1152,port1283,http://concepticon.clld.org/parameters/501,içar,"raise, lift"
+178-1346,port1283,http://concepticon.clld.org/parameters/1280,cair,fall
+178-1574,port1283,http://concepticon.clld.org/parameters/2253,gotejar,drip
+178-1466,port1283,http://concepticon.clld.org/parameters/2253,escorrer,drip
+178-1460,port1283,http://concepticon.clld.org/parameters/1456,atirar,throw
+178-1089,port1283,http://concepticon.clld.org/parameters/1456,arremessar,throw
+178-262,port1283,http://concepticon.clld.org/parameters/1456,lançar,throw
+178-1127,port1283,http://concepticon.clld.org/parameters/702,apanhar,catch (ball)
+178-312,port1283,http://concepticon.clld.org/parameters/702,agarrar,catch (ball)
+178-822,port1283,http://concepticon.clld.org/parameters/1909,agitar,shake
+178-228,port1283,http://concepticon.clld.org/parameters/2003,fluir,flow
+178-379,port1283,http://concepticon.clld.org/parameters/1088,afundar,sink
+178-163,port1283,http://concepticon.clld.org/parameters/1574,flutuar,float
+178-1047,port1283,http://concepticon.clld.org/parameters/1439,nadar,swim
+178-597,port1283,http://concepticon.clld.org/parameters/119,mergulhar,dive
+178-1194,port1283,http://concepticon.clld.org/parameters/365,chapinhar,splash
+178-550,port1283,http://concepticon.clld.org/parameters/787,navegar,sail (vb)
+178-1132,port1283,http://concepticon.clld.org/parameters/1441,voar,fly (vb)
+178-1385,port1283,http://concepticon.clld.org/parameters/175,soprar,blow
+178-619,port1283,http://concepticon.clld.org/parameters/96,rastejar,"creep, crawl"
+178-1075,port1283,http://concepticon.clld.org/parameters/96,arrastar-se,"creep, crawl"
+178-1416,port1283,http://concepticon.clld.org/parameters/66,ajoelhar,kneel
+178-670,port1283,http://concepticon.clld.org/parameters/296,agachar-se,crouch
+178-1493,port1283,http://concepticon.clld.org/parameters/1324,escorregar,"slide, slip"
+178-1261,port1283,http://concepticon.clld.org/parameters/1324,resvalar,"slide, slip"
+178-467,port1283,http://concepticon.clld.org/parameters/1829,saltar,"jump, leap"
+178-1356,port1283,http://concepticon.clld.org/parameters/1135,dar um pontapé,kick
+178-1020,port1283,http://concepticon.clld.org/parameters/1135,chutar,kick
+178-329,port1283,http://concepticon.clld.org/parameters/1879,dançar,dance
+178-1071,port1283,http://concepticon.clld.org/parameters/1443,andar,walk
+178-1199,port1283,http://concepticon.clld.org/parameters/1443,caminhar,walk
+178-1325,port1283,http://concepticon.clld.org/parameters/366,coxear,limp
+178-832,port1283,http://concepticon.clld.org/parameters/1519,correr,run
+178-303,port1283,http://concepticon.clld.org/parameters/695,ir,go
+178-953,port1283,http://concepticon.clld.org/parameters/705,subir,go up
+178-695,port1283,http://concepticon.clld.org/parameters/1102,trepar,climb
+178-646,port1283,http://concepticon.clld.org/parameters/2014,descer,go down
+178-910,port1283,http://concepticon.clld.org/parameters/2014,baixar,go down
+178-249,port1283,http://concepticon.clld.org/parameters/1107,sair,go out
+178-888,port1283,http://concepticon.clld.org/parameters/1446,vir,come
+178-918,port1283,http://concepticon.clld.org/parameters/581,voltar,come back
+178-208,port1283,http://concepticon.clld.org/parameters/581,regressar,come back
+178-1415,port1283,http://concepticon.clld.org/parameters/1752,partir,"go away, depart"
+178-834,port1283,http://concepticon.clld.org/parameters/1752,ir-se embora,"go away, depart"
+178-327,port1283,http://concepticon.clld.org/parameters/485,desaparecer,disappear
+178-548,port1283,http://concepticon.clld.org/parameters/956,escapar,flee
+178-809,port1283,http://concepticon.clld.org/parameters/956,fugir,flee
+178-393,port1283,http://concepticon.clld.org/parameters/1085,seguir,follow
+178-1545,port1283,http://concepticon.clld.org/parameters/1047,perseguir,pursue
+178-1077,port1283,http://concepticon.clld.org/parameters/1387,chegar,"reach, arrive"
+178-463,port1283,http://concepticon.clld.org/parameters/1778,aproximar,approach
+178-147,port1283,http://concepticon.clld.org/parameters/749,entrar,enter
+178-908,port1283,http://concepticon.clld.org/parameters/700,levar,carry (bear)
+178-1097,port1283,http://concepticon.clld.org/parameters/412,levar na mão,carry-in-hand
+178-804,port1283,http://concepticon.clld.org/parameters/413,levar no ombro,carry-on-shoulder
+178-380,port1283,http://concepticon.clld.org/parameters/414,levar na cabeça,carry-on-head
+178-1265,port1283,http://concepticon.clld.org/parameters/415,levar debaixo do braço,carry-underarm
+178-510,port1283,http://concepticon.clld.org/parameters/692,trazer,bring
+178-1373,port1283,http://concepticon.clld.org/parameters/1127,enviar,send
+178-1123,port1283,http://concepticon.clld.org/parameters/1127,mandar,send
+178-517,port1283,http://concepticon.clld.org/parameters/43,conduzir,lead (vb)
+178-522,port1283,http://concepticon.clld.org/parameters/43,guiar,lead (vb)
+178-854,port1283,http://concepticon.clld.org/parameters/741,dirigir,drive
+178-1157,port1283,http://concepticon.clld.org/parameters/367,montar,ride
+178-731,port1283,http://concepticon.clld.org/parameters/1452,empurrar,"push, shove"
+178-164,port1283,http://concepticon.clld.org/parameters/667,estrada,road
+178-1285,port1283,http://concepticon.clld.org/parameters/667,caminho,road
+178-1285,port1283,http://concepticon.clld.org/parameters/2252,caminho,path
+178-1343,port1283,http://concepticon.clld.org/parameters/2252,vereda,path
+178-912,port1283,http://concepticon.clld.org/parameters/1011,ponte,bridge
+178-906,port1283,http://concepticon.clld.org/parameters/122,carruagem,"carriage, wagon, cart"
+178-35,port1283,http://concepticon.clld.org/parameters/122,carroça,"carriage, wagon, cart"
+178-1283,port1283,http://concepticon.clld.org/parameters/710,roda,wheel
+178-1160,port1283,http://concepticon.clld.org/parameters/1769,eixo,axle
+178-588,port1283,http://concepticon.clld.org/parameters/14,jugo,yoke
+178-326,port1283,http://concepticon.clld.org/parameters/14,canga,yoke
+178-146,port1283,http://concepticon.clld.org/parameters/740,navio,ship
+178-1061,port1283,http://concepticon.clld.org/parameters/1844,bote,boat
+178-789,port1283,http://concepticon.clld.org/parameters/1844,barco,boat
+178-889,port1283,http://concepticon.clld.org/parameters/1970,canoa,canoe
+178-491,port1283,http://concepticon.clld.org/parameters/416,jangada,outrigger
+178-1579,port1283,http://concepticon.clld.org/parameters/1664,balsa,raft
+178-300,port1283,http://concepticon.clld.org/parameters/108,remo,oar
+178-300,port1283,http://concepticon.clld.org/parameters/234,remo,paddle (noun)
+178-524,port1283,http://concepticon.clld.org/parameters/1849,remar,row (vb)
+178-1284,port1283,http://concepticon.clld.org/parameters/108,leme,rudder
+178-1177,port1283,http://concepticon.clld.org/parameters/184,mastro,mast
+178-1237,port1283,http://concepticon.clld.org/parameters/786,vela,sail (noun)
+178-235,port1283,http://concepticon.clld.org/parameters/1870,âncora,anchor
+178-917,port1283,http://concepticon.clld.org/parameters/610,pôrto,"harbor, port"
+178-53,port1283,http://concepticon.clld.org/parameters/1922,desembarcar,land (vb)
+178-863,port1283,http://concepticon.clld.org/parameters/773,ter,have
+178-15,port1283,http://concepticon.clld.org/parameters/684,possuir,"own, possess"
+178-1022,port1283,http://concepticon.clld.org/parameters/1749,tomar,take
+178-312,port1283,http://concepticon.clld.org/parameters/2021,agarrar,"seize, grasp"
+178-660,port1283,http://concepticon.clld.org/parameters/1448,segurar,hold
+178-312,port1283,http://concepticon.clld.org/parameters/1448,agarrar,hold
+178-1539,port1283,http://concepticon.clld.org/parameters/694,obter,"get, obtain"
+178-1434,port1283,http://concepticon.clld.org/parameters/694,conseguir,"get, obtain"
+178-1085,port1283,http://concepticon.clld.org/parameters/1477,guardar,"keep, retain"
+178-1513,port1283,http://concepticon.clld.org/parameters/1477,conservar,"keep, retain"
+178-1565,port1283,http://concepticon.clld.org/parameters/738,coisa,thing
+178-1319,port1283,http://concepticon.clld.org/parameters/1447,dar,give
+178-1096,port1283,http://concepticon.clld.org/parameters/85,restituir,give back
+178-715,port1283,http://concepticon.clld.org/parameters/85,devolver,give back
+178-1236,port1283,http://concepticon.clld.org/parameters/1997,cuidar de,"preserve, look after"
+178-1260,port1283,http://concepticon.clld.org/parameters/1997,preservar,"preserve, look after"
+178-182,port1283,http://concepticon.clld.org/parameters/2008,salvar,"save, rescue"
+178-66,port1283,http://concepticon.clld.org/parameters/681,destruir,destroy
+178-1286,port1283,http://concepticon.clld.org/parameters/44,danificar,"harm, injure, damage"
+178-848,port1283,http://concepticon.clld.org/parameters/44,ferir,"harm, injure, damage"
+178-1517,port1283,http://concepticon.clld.org/parameters/44,estragar,"harm, injure, damage"
+178-687,port1283,http://concepticon.clld.org/parameters/1468,buscar,"seek, look for"
+178-802,port1283,http://concepticon.clld.org/parameters/1468,procurar,"seek, look for"
+178-668,port1283,http://concepticon.clld.org/parameters/719,achar,find
+178-297,port1283,http://concepticon.clld.org/parameters/719,encontrar,find
+178-512,port1283,http://concepticon.clld.org/parameters/1660,perder,lose
+178-826,port1283,http://concepticon.clld.org/parameters/1095,largar,"release, let go"
+178-521,port1283,http://concepticon.clld.org/parameters/1095,soltar,"release, let go"
+178-659,port1283,http://concepticon.clld.org/parameters/1559,dinheiro,money
+178-386,port1283,http://concepticon.clld.org/parameters/1867,moeda,coin
+178-220,port1283,http://concepticon.clld.org/parameters/712,rico,rich
+178-123,port1283,http://concepticon.clld.org/parameters/1674,pobre,poor
+178-957,port1283,http://concepticon.clld.org/parameters/1934,mendigo,beggar
+178-966,port1283,http://concepticon.clld.org/parameters/1774,avarento,"avaricious, stingy"
+178-549,port1283,http://concepticon.clld.org/parameters/582,emprestar,lend
+178-1026,port1283,http://concepticon.clld.org/parameters/1823,pedir emprestado,borrow
+178-1318,port1283,http://concepticon.clld.org/parameters/369,dever,owe
+178-478,port1283,http://concepticon.clld.org/parameters/1914,dívida,debt
+178-1049,port1283,http://concepticon.clld.org/parameters/718,pagar,pay (vb)
+178-881,port1283,http://concepticon.clld.org/parameters/1081,conta,"account, reckoning"
+178-1195,port1283,http://concepticon.clld.org/parameters/873,imposto,"tax, tribute"
+178-728,port1283,http://concepticon.clld.org/parameters/873,taxa,"tax, tribute"
+178-1210,port1283,http://concepticon.clld.org/parameters/856,alugar,hire
+178-434,port1283,http://concepticon.clld.org/parameters/1122,salário,wages
+178-406,port1283,http://concepticon.clld.org/parameters/733,ganhar,earn
+178-233,port1283,http://concepticon.clld.org/parameters/1869,comprar,buy
+178-667,port1283,http://concepticon.clld.org/parameters/1571,vender,sell
+178-1280,port1283,http://concepticon.clld.org/parameters/2135,trocar,"trade, barter"
+178-55,port1283,http://concepticon.clld.org/parameters/1082,negociante,merchant
+178-395,port1283,http://concepticon.clld.org/parameters/633,mercado,market (place)
+178-735,port1283,http://concepticon.clld.org/parameters/752,loja,"store, shop"
+178-1239,port1283,http://concepticon.clld.org/parameters/657,preço,price
+178-574,port1283,http://concepticon.clld.org/parameters/1426,caro,"dear (costly, expensive)"
+178-110,port1283,http://concepticon.clld.org/parameters/1887,barato,cheap
+178-570,port1283,http://concepticon.clld.org/parameters/884,distribuir,share (distribute)
+178-783,port1283,http://concepticon.clld.org/parameters/884,compartilhar,share (distribute)
+178-1258,port1283,http://concepticon.clld.org/parameters/1098,pesar,weigh
+178-320,port1283,http://concepticon.clld.org/parameters/1685,depois,after
+178-551,port1283,http://concepticon.clld.org/parameters/723,atrás,behind
+178-694,port1283,http://concepticon.clld.org/parameters/1816,ao lado de,beside
+178-1169,port1283,http://concepticon.clld.org/parameters/1326,debaixo,"down, below"
+178-73,port1283,http://concepticon.clld.org/parameters/1326,abaixo,"down, below"
+178-333,port1283,http://concepticon.clld.org/parameters/1882,antes,before
+178-1282,port1283,http://concepticon.clld.org/parameters/1882,perante,before
+178-1425,port1283,http://concepticon.clld.org/parameters/1019,frente,front
+178-936,port1283,http://concepticon.clld.org/parameters/1606,dentro,"inside, in"
+178-390,port1283,http://concepticon.clld.org/parameters/762,fora,outside
+178-1169,port1283,http://concepticon.clld.org/parameters/1485,debaixo,under
+178-1450,port1283,http://concepticon.clld.org/parameters/1591,em cima,"up, above"
+178-96,port1283,http://concepticon.clld.org/parameters/1591,sôbre,"up, above"
+178-325,port1283,http://concepticon.clld.org/parameters/723,espaço,place
+178-1388,port1283,http://concepticon.clld.org/parameters/723,lugar,place
+178-495,port1283,http://concepticon.clld.org/parameters/998,pôr,put
+178-1548,port1283,http://concepticon.clld.org/parameters/1416,sentar-se,sit
+178-604,port1283,http://concepticon.clld.org/parameters/215,deitar-se,lie down
+178-1543,port1283,http://concepticon.clld.org/parameters/1442,estar em pé,stand
+178-970,port1283,http://concepticon.clld.org/parameters/1442,ficar em pé,stand
+178-949,port1283,http://concepticon.clld.org/parameters/987,ficar,"remain, stay"
+178-67,port1283,http://concepticon.clld.org/parameters/838,restos,"remains, left overs"
+178-859,port1283,http://concepticon.clld.org/parameters/7,colecionar,"collect, gather"
+178-1500,port1283,http://concepticon.clld.org/parameters/7,reunir,"collect, gather"
+178-190,port1283,http://concepticon.clld.org/parameters/371,captar,pick up
+178-1250,port1283,http://concepticon.clld.org/parameters/1576,empilhar,pile up
+178-1070,port1283,http://concepticon.clld.org/parameters/1743,juntar,"join, unite"
+178-54,port1283,http://concepticon.clld.org/parameters/1743,unir,"join, unite"
+178-833,port1283,http://concepticon.clld.org/parameters/1359,separar,separate
+178-243,port1283,http://concepticon.clld.org/parameters/1119,dividir,divide
+178-168,port1283,http://concepticon.clld.org/parameters/1156,abrir,open
+178-282,port1283,http://concepticon.clld.org/parameters/1156,aberto,open
+178-26,port1283,http://concepticon.clld.org/parameters/1046,fechar,"shut, close"
+178-304,port1283,http://concepticon.clld.org/parameters/761,cobrir,cover
+178-79,port1283,http://concepticon.clld.org/parameters/602,esconder,"hide, conceal"
+178-479,port1283,http://concepticon.clld.org/parameters/1265,alto,high
+178-884,port1283,http://concepticon.clld.org/parameters/1265,elevado,high
+178-391,port1283,http://concepticon.clld.org/parameters/721,baixo,low
+178-792,port1283,http://concepticon.clld.org/parameters/1753,cume,top
+178-315,port1283,http://concepticon.clld.org/parameters/1753,topo,top
+178-1552,port1283,http://concepticon.clld.org/parameters/690,fundo,bottom
+178-790,port1283,http://concepticon.clld.org/parameters/742,extremidade,end
+178-697,port1283,http://concepticon.clld.org/parameters/742,fim,end
+178-911,port1283,http://concepticon.clld.org/parameters/742,ponta,end
+178-992,port1283,http://concepticon.clld.org/parameters/372,afiado,pointed
+178-1335,port1283,http://concepticon.clld.org/parameters/372,agudo,pointed
+178-1172,port1283,http://concepticon.clld.org/parameters/863,beira,edge
+178-1304,port1283,http://concepticon.clld.org/parameters/863,borda,edge
+178-746,port1283,http://concepticon.clld.org/parameters/682,lado,side
+178-1027,port1283,http://concepticon.clld.org/parameters/1093,meio,"middle, center"
+178-1389,port1283,http://concepticon.clld.org/parameters/1093,centro,"middle, center"
+178-1000,port1283,http://concepticon.clld.org/parameters/1019,direita,right (side)
+178-1508,port1283,http://concepticon.clld.org/parameters/244,esquerda,left (side)
+178-741,port1283,http://concepticon.clld.org/parameters/1942,perto,near (adv)
+178-388,port1283,http://concepticon.clld.org/parameters/1942,próximo,near (adv)
+178-184,port1283,http://concepticon.clld.org/parameters/1406,longe,far (adv)
+178-173,port1283,http://concepticon.clld.org/parameters/1877,leste,east
+178-179,port1283,http://concepticon.clld.org/parameters/1877,este,east
+178-398,port1283,http://concepticon.clld.org/parameters/1817,oeste,west
+178-1550,port1283,http://concepticon.clld.org/parameters/1598,norte,north
+178-869,port1283,http://concepticon.clld.org/parameters/1595,sul,south
+178-176,port1283,http://concepticon.clld.org/parameters/479,crescer,grow
+178-711,port1283,http://concepticon.clld.org/parameters/1506,medir,measure
+178-426,port1283,http://concepticon.clld.org/parameters/81,palmo,"span, fathom"
+178-424,port1283,http://concepticon.clld.org/parameters/81,braça,"span, fathom"
+178-937,port1283,http://concepticon.clld.org/parameters/1202,grande,"large, big"
+178-499,port1283,http://concepticon.clld.org/parameters/1246,pequeno,"small, little"
+178-1429,port1283,http://concepticon.clld.org/parameters/1203,comprido,long
+178-479,port1283,http://concepticon.clld.org/parameters/711,alto,tall
+178-1034,port1283,http://concepticon.clld.org/parameters/1645,curto,short
+178-857,port1283,http://concepticon.clld.org/parameters/1243,largo,"wide, broad"
+178-1556,port1283,http://concepticon.clld.org/parameters/1267,estreito,narrow
+178-1417,port1283,http://concepticon.clld.org/parameters/1244,grosso,thick (in dimension)
+178-1018,port1283,http://concepticon.clld.org/parameters/1400,fino,thin (in dimension)
+178-1413,port1283,http://concepticon.clld.org/parameters/1400,delgado,thin (in dimension)
+178-1552,port1283,http://concepticon.clld.org/parameters/1593,fundo,deep
+178-1405,port1283,http://concepticon.clld.org/parameters/193,raso,shallow
+178-391,port1283,http://concepticon.clld.org/parameters/193,baixo,shallow
+178-928,port1283,http://concepticon.clld.org/parameters/1633,plano,flat
+178-800,port1283,http://concepticon.clld.org/parameters/1633,chato,flat
+178-996,port1283,http://concepticon.clld.org/parameters/1404,direito,straight
+178-1076,port1283,http://concepticon.clld.org/parameters/1404,reto,straight
+178-1180,port1283,http://concepticon.clld.org/parameters/297,torcido,crooked
+178-1105,port1283,http://concepticon.clld.org/parameters/297,torto,crooked
+178-1276,port1283,http://concepticon.clld.org/parameters/1071,gancho,hook
+178-990,port1283,http://concepticon.clld.org/parameters/192,esquina,corner
+178-107,port1283,http://concepticon.clld.org/parameters/192,canto,corner
+178-1506,port1283,http://concepticon.clld.org/parameters/1367,cruz,cross
+178-16,port1283,http://concepticon.clld.org/parameters/850,quadrado,square
+178-1357,port1283,http://concepticon.clld.org/parameters/1395,redondo,round
+178-466,port1283,http://concepticon.clld.org/parameters/1467,círculo,circle
+178-1283,port1283,http://concepticon.clld.org/parameters/1467,roda,circle
+178-778,port1283,http://concepticon.clld.org/parameters/1845,esfera,"sphere, ball"
+178-368,port1283,http://concepticon.clld.org/parameters/1845,bola,"sphere, ball"
+178-39,port1283,http://concepticon.clld.org/parameters/1048,linha,line
+178-1359,port1283,http://concepticon.clld.org/parameters/1667,buraco,hole
+178-1570,port1283,http://concepticon.clld.org/parameters/1558,parecido,"like, similar"
+178-476,port1283,http://concepticon.clld.org/parameters/1264,mudar,change
+178-860,port1283,http://concepticon.clld.org/parameters/1294,zero,"zero, nothing"
+178-1316,port1283,http://concepticon.clld.org/parameters/1294,nada,"zero, nothing"
+178-1188,port1283,http://concepticon.clld.org/parameters/1515,um,one
+178-367,port1283,http://concepticon.clld.org/parameters/1515,uma,one
+178-197,port1283,http://concepticon.clld.org/parameters/1498,dois,two
+178-1464,port1283,http://concepticon.clld.org/parameters/1498,duas,two
+178-74,port1283,http://concepticon.clld.org/parameters/492,três,three
+178-690,port1283,http://concepticon.clld.org/parameters/1500,quatro,four
+178-1083,port1283,http://concepticon.clld.org/parameters/493,cinco,five
+178-1554,port1283,http://concepticon.clld.org/parameters/1703,seis,six
+178-1479,port1283,http://concepticon.clld.org/parameters/1704,sete,seven
+178-824,port1283,http://concepticon.clld.org/parameters/1705,oito,eight
+178-383,port1283,http://concepticon.clld.org/parameters/1483,nove,nine
+178-445,port1283,http://concepticon.clld.org/parameters/1515,dez,ten
+178-602,port1283,http://concepticon.clld.org/parameters/1706,onze,eleven
+178-781,port1283,http://concepticon.clld.org/parameters/1707,doze,twelve
+178-1518,port1283,http://concepticon.clld.org/parameters/1709,quinze,fifteen
+178-355,port1283,http://concepticon.clld.org/parameters/1710,vinte,twenty
+178-1100,port1283,http://concepticon.clld.org/parameters/1634,cento,hundred
+178-948,port1283,http://concepticon.clld.org/parameters/1634,cem,hundred
+178-1381,port1283,http://concepticon.clld.org/parameters/1843,mil,thousand
+178-657,port1283,http://concepticon.clld.org/parameters/1420,contar,count
+178-977,port1283,http://concepticon.clld.org/parameters/98,cada,"every, all"
+178-1406,port1283,http://concepticon.clld.org/parameters/98,tudo,"every, all"
+178-364,port1283,http://concepticon.clld.org/parameters/1198,muito,"much, many"
+178-503,port1283,http://concepticon.clld.org/parameters/1198,muitos,"much, many"
+178-544,port1283,http://concepticon.clld.org/parameters/1992,mais,more
+178-65,port1283,http://concepticon.clld.org/parameters/1242,pouco,"little (quantity), few"
+178-1209,port1283,http://concepticon.clld.org/parameters/1242,poucos,"little (quantity), few"
+178-1294,port1283,http://concepticon.clld.org/parameters/1881,bastante,enough
+178-971,port1283,http://concepticon.clld.org/parameters/1881,suficiente,enough
+178-622,port1283,http://concepticon.clld.org/parameters/1241,alguns,some
+178-1155,port1283,http://concepticon.clld.org/parameters/2023,multidão,"multitude, crowd"
+178-1531,port1283,http://concepticon.clld.org/parameters/1429,cheio,full
+178-1436,port1283,http://concepticon.clld.org/parameters/1624,vazio,empty
+178-1469,port1283,http://concepticon.clld.org/parameters/779,parte,"part, piece"
+178-469,port1283,http://concepticon.clld.org/parameters/779,pedaço,"part, piece"
+178-135,port1283,http://concepticon.clld.org/parameters/779,peça,"part, piece"
+178-301,port1283,http://concepticon.clld.org/parameters/816,metade,half
+178-230,port1283,http://concepticon.clld.org/parameters/1580,só,"alone, only"
+178-962,port1283,http://concepticon.clld.org/parameters/1580,somente,"alone, only"
+178-527,port1283,http://concepticon.clld.org/parameters/728,primeiro,first
+178-1124,port1283,http://concepticon.clld.org/parameters/1529,último,last
+178-165,port1283,http://concepticon.clld.org/parameters/1384,segundo,second
+178-704,port1283,http://concepticon.clld.org/parameters/1888,par,pair
+178-985,port1283,http://concepticon.clld.org/parameters/1546,duas vezes,two times
+178-1387,port1283,http://concepticon.clld.org/parameters/1859,terceiro,third
+178-642,port1283,http://concepticon.clld.org/parameters/417,três vezes,three times
+178-1337,port1283,http://concepticon.clld.org/parameters/892,tempo,time
+178-1159,port1283,http://concepticon.clld.org/parameters/1789,idade,age
+178-382,port1283,http://concepticon.clld.org/parameters/1231,novo,new
+178-227,port1283,http://concepticon.clld.org/parameters/1207,jovem,young
+178-382,port1283,http://concepticon.clld.org/parameters/1207,novo,young
+178-837,port1283,http://concepticon.clld.org/parameters/1229,velho,old
+178-362,port1283,http://concepticon.clld.org/parameters/672,cedo,early
+178-413,port1283,http://concepticon.clld.org/parameters/477,tarde,late
+178-806,port1283,http://concepticon.clld.org/parameters/1376,agora,now
+178-488,port1283,http://concepticon.clld.org/parameters/1963,de imediato,immediately
+178-1347,port1283,http://concepticon.clld.org/parameters/1631,rápido,"swift, fast, quick"
+178-399,port1283,http://concepticon.clld.org/parameters/1631,ligeiro,"swift, fast, quick"
+178-241,port1283,http://concepticon.clld.org/parameters/701,vagaroso,slow
+178-828,port1283,http://concepticon.clld.org/parameters/701,devagar,slow
+178-733,port1283,http://concepticon.clld.org/parameters/754,apressar,"hasten, hurry"
+178-945,port1283,http://concepticon.clld.org/parameters/425,demorar,"retard, delay"
+178-1222,port1283,http://concepticon.clld.org/parameters/425,atrasar,"retard, delay"
+178-180,port1283,http://concepticon.clld.org/parameters/1806,começar,"begin, beginning"
+178-1088,port1283,http://concepticon.clld.org/parameters/1186,durar,"last, endure"
+178-1351,port1283,http://concepticon.clld.org/parameters/1186,suportar,"last, endure"
+178-697,port1283,http://concepticon.clld.org/parameters/743,fim,end (temporal)
+178-952,port1283,http://concepticon.clld.org/parameters/1766,completar,finish
+178-678,port1283,http://concepticon.clld.org/parameters/1766,acabar,finish
+178-1224,port1283,http://concepticon.clld.org/parameters/1928,parar,"cease, stop"
+178-1037,port1283,http://concepticon.clld.org/parameters/1928,cessar,"cease, stop"
+178-944,port1283,http://concepticon.clld.org/parameters/790,pronto,ready
+178-1578,port1283,http://concepticon.clld.org/parameters/1676,sempre,always
+178-593,port1283,http://concepticon.clld.org/parameters/1852,amiúde,often
+178-536,port1283,http://concepticon.clld.org/parameters/1544,às vezes,sometimes
+178-336,port1283,http://concepticon.clld.org/parameters/703,em breve,soon
+178-1107,port1283,http://concepticon.clld.org/parameters/418,por muito tempo,long-time (for a)
+178-138,port1283,http://concepticon.clld.org/parameters/1656,nunca,never
+178-1142,port1283,http://concepticon.clld.org/parameters/1656,jamais,never
+178-145,port1283,http://concepticon.clld.org/parameters/204,outra vez,again
+178-558,port1283,http://concepticon.clld.org/parameters/204,de novo,again
+178-453,port1283,http://concepticon.clld.org/parameters/1260,dia,day
+178-513,port1283,http://concepticon.clld.org/parameters/1233,noite,night
+178-421,port1283,http://concepticon.clld.org/parameters/729,alvorada,dawn
+178-207,port1283,http://concepticon.clld.org/parameters/729,amanhecer,dawn
+178-265,port1283,http://concepticon.clld.org/parameters/1339,manhã,morning
+178-1555,port1283,http://concepticon.clld.org/parameters/12,meio dia,"noon, midday"
+178-413,port1283,http://concepticon.clld.org/parameters/1807,tarde,afternoon
+178-513,port1283,http://concepticon.clld.org/parameters/1629,noite,evening
+178-409,port1283,http://concepticon.clld.org/parameters/1629,tardinha,evening
+178-767,port1283,http://concepticon.clld.org/parameters/1283,hoje,today
+178-879,port1283,http://concepticon.clld.org/parameters/1329,amanhã,tomorrow
+178-584,port1283,http://concepticon.clld.org/parameters/1179,depois de amanhã,day-after-tomorrow
+178-492,port1283,http://concepticon.clld.org/parameters/1174,ontem,yesterday
+178-713,port1283,http://concepticon.clld.org/parameters/1180,anteontem,day-before-yesterday
+178-23,port1283,http://concepticon.clld.org/parameters/1353,hora,hour
+178-38,port1283,http://concepticon.clld.org/parameters/1323,relógio,"clock, timepiece"
+178-487,port1283,http://concepticon.clld.org/parameters/1469,semana,week
+178-427,port1283,http://concepticon.clld.org/parameters/1699,domingo,Sunday
+178-408,port1283,http://concepticon.clld.org/parameters/1697,segunda-feira,Monday
+178-1063,port1283,http://concepticon.clld.org/parameters/1695,terça-feira,Tuesday
+178-21,port1283,http://concepticon.clld.org/parameters/1694,quarta-feira,Wednesday
+178-1219,port1283,http://concepticon.clld.org/parameters/1693,quinta-feira,Thursday
+178-929,port1283,http://concepticon.clld.org/parameters/1692,sexta-feira,Friday
+178-348,port1283,http://concepticon.clld.org/parameters/1700,sábado,Saturday
+178-305,port1283,http://concepticon.clld.org/parameters/1370,mês,month
+178-599,port1283,http://concepticon.clld.org/parameters/1226,ano,year
+178-63,port1283,http://concepticon.clld.org/parameters/1471,inverno,winter
+178-169,port1283,http://concepticon.clld.org/parameters/1537,primavera,spring
+178-573,port1283,http://concepticon.clld.org/parameters/1342,verão,summer
+178-1211,port1283,http://concepticon.clld.org/parameters/1276,outono,autumn
+178-921,port1283,http://concepticon.clld.org/parameters/691,estação,season
+178-174,port1283,http://concepticon.clld.org/parameters/1587,cheirar,smell (vb intrans)
+178-217,port1283,http://concepticon.clld.org/parameters/375,fungar,sniff
+178-50,port1283,http://concepticon.clld.org/parameters/375,farejar,sniff
+178-174,port1283,http://concepticon.clld.org/parameters/1586,cheirar,smell (vb trans)
+178-1138,port1283,http://concepticon.clld.org/parameters/376,cheiroso,"fragrant, good smelling"
+178-354,port1283,http://concepticon.clld.org/parameters/376,fragante,"fragrant, good smelling"
+178-1245,port1283,http://concepticon.clld.org/parameters/42,fedorento,"stinking, bad smelling"
+178-371,port1283,http://concepticon.clld.org/parameters/42,mal cheiroso,"stinking, bad smelling"
+178-576,port1283,http://concepticon.clld.org/parameters/21,sabor,taste
+178-1299,port1283,http://concepticon.clld.org/parameters/21,gosto,taste
+178-1323,port1283,http://concepticon.clld.org/parameters/717,doce,sweet
+178-1445,port1283,http://concepticon.clld.org/parameters/1091,salgado,salty
+178-1167,port1283,http://concepticon.clld.org/parameters/887,amargo,bitter
+178-172,port1283,http://concepticon.clld.org/parameters/1906,ácido,"acid, sour"
+178-880,port1283,http://concepticon.clld.org/parameters/1906,azedo,"acid, sour"
+178-331,port1283,http://concepticon.clld.org/parameters/70,salobre,brackish
+178-630,port1283,http://concepticon.clld.org/parameters/1408,ouvir,hear
+178-870,port1283,http://concepticon.clld.org/parameters/1608,escutar,listen
+178-864,port1283,http://concepticon.clld.org/parameters/1811,ruído,"sound, noise"
+178-504,port1283,http://concepticon.clld.org/parameters/1811,barulho,"sound, noise"
+178-609,port1283,http://concepticon.clld.org/parameters/377,ruidoso,loud
+178-411,port1283,http://concepticon.clld.org/parameters/377,barulhento,loud
+178-878,port1283,http://concepticon.clld.org/parameters/1314,quieto,"quiet, silence"
+178-441,port1283,http://concepticon.clld.org/parameters/1409,ver,see
+178-1170,port1283,http://concepticon.clld.org/parameters/1819,olhar para,"look, look at"
+178-1421,port1283,http://concepticon.clld.org/parameters/1819,fitar,"look, look at"
+178-1148,port1283,http://concepticon.clld.org/parameters/1039,mostrar,show
+178-1547,port1283,http://concepticon.clld.org/parameters/708,brilhar,shine
+178-1254,port1283,http://concepticon.clld.org/parameters/679,claro,bright
+178-214,port1283,http://concepticon.clld.org/parameters/679,brilhante,bright
+178-260,port1283,http://concepticon.clld.org/parameters/1613,cor,color
+178-1254,port1283,http://concepticon.clld.org/parameters/250,claro,light (in color)
+178-1403,port1283,http://concepticon.clld.org/parameters/706,escuro,dark (in color)
+178-1567,port1283,http://concepticon.clld.org/parameters/1335,branco,white
+178-245,port1283,http://concepticon.clld.org/parameters/163,preto,black
+178-1362,port1283,http://concepticon.clld.org/parameters/163,negro,black
+178-1329,port1283,http://concepticon.clld.org/parameters/156,vermelho,red
+178-913,port1283,http://concepticon.clld.org/parameters/837,azul,blue
+178-621,port1283,http://concepticon.clld.org/parameters/1425,verde,green
+178-268,port1283,http://concepticon.clld.org/parameters/1424,amarelo,yellow
+178-1163,port1283,http://concepticon.clld.org/parameters/1892,tocar,touch
+178-1564,port1283,http://concepticon.clld.org/parameters/378,beliscar,pinch
+178-91,port1283,http://concepticon.clld.org/parameters/1079,sentir,feel
+178-1559,port1283,http://concepticon.clld.org/parameters/1884,duro,hard
+178-347,port1283,http://concepticon.clld.org/parameters/1856,macio,soft
+178-412,port1283,http://concepticon.clld.org/parameters/1856,mole,soft
+178-1563,port1283,http://concepticon.clld.org/parameters/1923,áspero,rough
+178-856,port1283,http://concepticon.clld.org/parameters/1234,liso,smooth
+178-347,port1283,http://concepticon.clld.org/parameters/1234,macio,smooth
+178-1335,port1283,http://concepticon.clld.org/parameters/1396,agudo,sharp
+178-992,port1283,http://concepticon.clld.org/parameters/1396,afiado,sharp
+178-291,port1283,http://concepticon.clld.org/parameters/379,embotado,"blunt, dull"
+178-1473,port1283,http://concepticon.clld.org/parameters/379,rombudo,"blunt, dull"
+178-181,port1283,http://concepticon.clld.org/parameters/1210,pesado,heavy
+178-531,port1283,http://concepticon.clld.org/parameters/1052,leve,light (in weight)
+178-468,port1283,http://concepticon.clld.org/parameters/1726,molhado,"wet, damp"
+178-797,port1283,http://concepticon.clld.org/parameters/1726,úmido,"wet, damp"
+178-934,port1283,http://concepticon.clld.org/parameters/1398,seco,dry
+178-770,port1283,http://concepticon.clld.org/parameters/1286,quente,hot
+178-770,port1283,http://concepticon.clld.org/parameters/1232,quente,warm
+178-1117,port1283,http://concepticon.clld.org/parameters/1232,cálido,warm
+178-613,port1283,http://concepticon.clld.org/parameters/1287,frio,cold
+178-569,port1283,http://concepticon.clld.org/parameters/704,limpo,clean
+178-1302,port1283,http://concepticon.clld.org/parameters/1230,sujo,"dirty, soiled"
+178-294,port1283,http://concepticon.clld.org/parameters/380,enrugado,wrinkled
+178-852,port1283,http://concepticon.clld.org/parameters/53,alma,"soul, spirit"
+178-86,port1283,http://concepticon.clld.org/parameters/53,espírito,"soul, spirit"
+178-882,port1283,http://concepticon.clld.org/parameters/1572,surpreso,"surprised, astonished"
+178-223,port1283,http://concepticon.clld.org/parameters/1572,espantado,"surprised, astonished"
+178-248,port1283,http://concepticon.clld.org/parameters/720,boa sorte,"good fortune, luck"
+178-1298,port1283,http://concepticon.clld.org/parameters/56,infortúnio,"misfortune, bad luck"
+178-1390,port1283,http://concepticon.clld.org/parameters/56,má sorte,"misfortune, bad luck"
+178-257,port1283,http://concepticon.clld.org/parameters/56,azar,"misfortune, bad luck"
+178-808,port1283,http://concepticon.clld.org/parameters/1495,feliz,"joyful, glad, happy"
+178-1078,port1283,http://concepticon.clld.org/parameters/1495,contente,"joyful, glad, happy"
+178-83,port1283,http://concepticon.clld.org/parameters/1495,alegre,"joyful, glad, happy"
+178-62,port1283,http://concepticon.clld.org/parameters/1355,rir,laugh
+178-545,port1283,http://concepticon.clld.org/parameters/1451,sorrir,smile
+178-1345,port1283,http://concepticon.clld.org/parameters/1413,jogar,play
+178-1549,port1283,http://concepticon.clld.org/parameters/1413,brincar,play
+178-1007,port1283,http://concepticon.clld.org/parameters/923,amar,love
+178-1439,port1283,http://concepticon.clld.org/parameters/578,beijar,kiss
+178-1455,port1283,http://concepticon.clld.org/parameters/928,abraçar,embrace
+178-209,port1283,http://concepticon.clld.org/parameters/1783,dor,pain
+178-843,port1283,http://concepticon.clld.org/parameters/1668,tristeza,"grief, sorrow, sadness"
+178-209,port1283,http://concepticon.clld.org/parameters/1668,dor,"grief, sorrow, sadness"
+178-1418,port1283,http://concepticon.clld.org/parameters/1000,ansiedade,"anxiety, worry"
+178-1093,port1283,http://concepticon.clld.org/parameters/1000,preocupação,"anxiety, worry"
+178-51,port1283,http://concepticon.clld.org/parameters/1875,ter pena,"regret, be sorry"
+178-946,port1283,http://concepticon.clld.org/parameters/1141,pena,pity
+178-683,port1283,http://concepticon.clld.org/parameters/1141,compaixão,pity
+178-471,port1283,http://concepticon.clld.org/parameters/1839,chorar,"cry, weep"
+178-1040,port1283,http://concepticon.clld.org/parameters/1651,lágrima,tear (noun)
+178-987,port1283,http://concepticon.clld.org/parameters/716,gemer,groan
+178-1331,port1283,http://concepticon.clld.org/parameters/1607,odiar,hate
+178-1277,port1283,http://concepticon.clld.org/parameters/82,raiva,anger
+178-251,port1283,http://concepticon.clld.org/parameters/82,ira,anger
+178-1537,port1283,http://concepticon.clld.org/parameters/40,inveja,"envy, jealousy"
+178-484,port1283,http://concepticon.clld.org/parameters/40,ciúme,"envy, jealousy"
+178-589,port1283,http://concepticon.clld.org/parameters/1776,vergonha,shame (noun)
+178-42,port1283,http://concepticon.clld.org/parameters/174,orgulhoso,proud
+178-137,port1283,http://concepticon.clld.org/parameters/1779,ousar,dare
+178-1504,port1283,http://concepticon.clld.org/parameters/3,corajoso,brave
+178-457,port1283,http://concepticon.clld.org/parameters/3,bravo,brave
+178-1151,port1283,http://concepticon.clld.org/parameters/781,medo,"fear, fright"
+178-763,port1283,http://concepticon.clld.org/parameters/781,susto,"fear, fright"
+178-1580,port1283,http://concepticon.clld.org/parameters/1810,perigo,danger
+178-703,port1283,http://concepticon.clld.org/parameters/1784,desejo,"desire, want"
+178-1176,port1283,http://concepticon.clld.org/parameters/1750,escolher,choose
+178-120,port1283,http://concepticon.clld.org/parameters/1092,esperança,hope
+178-1516,port1283,http://concepticon.clld.org/parameters/100,leal,faithful
+178-692,port1283,http://concepticon.clld.org/parameters/1657,verdadeiro,true
+178-28,port1283,http://concepticon.clld.org/parameters/601,mentir,"lie, tell lies"
+178-665,port1283,http://concepticon.clld.org/parameters/13,engano,deceit
+178-384,port1283,http://concepticon.clld.org/parameters/1528,perdoar,forgive
+178-483,port1283,http://concepticon.clld.org/parameters/1035,bom,good
+178-526,port1283,http://concepticon.clld.org/parameters/1292,mau,bad
+178-677,port1283,http://concepticon.clld.org/parameters/1725,correto,"right, correct"
+178-699,port1283,http://concepticon.clld.org/parameters/1390,errado,wrong
+178-1297,port1283,http://concepticon.clld.org/parameters/134,falta,fault
+178-481,port1283,http://concepticon.clld.org/parameters/134,culpa,fault
+178-374,port1283,http://concepticon.clld.org/parameters/1293,erro,"mistake, error"
+178-481,port1283,http://concepticon.clld.org/parameters/381,culpa,blame
+178-807,port1283,http://concepticon.clld.org/parameters/1687,elogiar,praise
+178-158,port1283,http://concepticon.clld.org/parameters/1427,bonito,beautiful
+178-1068,port1283,http://concepticon.clld.org/parameters/1427,belo,beautiful
+178-780,port1283,http://concepticon.clld.org/parameters/1548,feio,ugly
+178-1526,port1283,http://concepticon.clld.org/parameters/2018,cobiçoso,greedy
+178-755,port1283,http://concepticon.clld.org/parameters/2018,ávido,greedy
+178-714,port1283,http://concepticon.clld.org/parameters/1310,esperto,clever
+178-771,port1283,http://concepticon.clld.org/parameters/1310,hábil,clever
+178-825,port1283,http://concepticon.clld.org/parameters/1562,mente,mind
+178-1407,port1283,http://concepticon.clld.org/parameters/1415,pensar,think (= reflect)
+178-668,port1283,http://concepticon.clld.org/parameters/1513,achar,think (= be of the opinion)
+178-236,port1283,http://concepticon.clld.org/parameters/1513,acreditar,think (= be of the opinion)
+178-109,port1283,http://concepticon.clld.org/parameters/1890,crer,believe
+178-766,port1283,http://concepticon.clld.org/parameters/1536,compreender,understand
+178-61,port1283,http://concepticon.clld.org/parameters/1410,saber,know
+178-1453,port1283,http://concepticon.clld.org/parameters/1932,adivinhar,guess
+178-787,port1283,http://concepticon.clld.org/parameters/1932,conjeturar,guess
+178-925,port1283,http://concepticon.clld.org/parameters/117,imitar,imitate
+178-1054,port1283,http://concepticon.clld.org/parameters/1521,parecer,seem
+178-689,port1283,http://concepticon.clld.org/parameters/1609,idéia,"idea, notion"
+178-84,port1283,http://concepticon.clld.org/parameters/698,sábio,wise
+178-29,port1283,http://concepticon.clld.org/parameters/1518,tolo,"foolish, stupid"
+178-369,port1283,http://concepticon.clld.org/parameters/1899,louco,"insane, crazy"
+178-136,port1283,http://concepticon.clld.org/parameters/1899,maluco,"insane, crazy"
+178-344,port1283,http://concepticon.clld.org/parameters/504,aprender,learn
+178-108,port1283,http://concepticon.clld.org/parameters/1929,estudar,study
+178-1082,port1283,http://concepticon.clld.org/parameters/709,ensinar,teach
+178-410,port1283,http://concepticon.clld.org/parameters/753,aluno,pupil
+178-205,port1283,http://concepticon.clld.org/parameters/1038,professor,teacher
+178-1242,port1283,http://concepticon.clld.org/parameters/673,escola,school
+178-1363,port1283,http://concepticon.clld.org/parameters/707,lembrar-se,remember
+178-319,port1283,http://concepticon.clld.org/parameters/1523,esquecer-se,forget
+178-1254,port1283,http://concepticon.clld.org/parameters/989,claro,"clear, plain"
+178-1216,port1283,http://concepticon.clld.org/parameters/989,evidente,"clear, plain"
+178-1033,port1283,http://concepticon.clld.org/parameters/1764,obscuro,obscure
+178-1340,port1283,http://concepticon.clld.org/parameters/1121,segredo,secret
+178-405,port1283,http://concepticon.clld.org/parameters/509,seguro,"sure, certain"
+178-1014,port1283,http://concepticon.clld.org/parameters/509,certo,"sure, certain"
+178-1392,port1283,http://concepticon.clld.org/parameters/1626,explicar,explain
+178-403,port1283,http://concepticon.clld.org/parameters/1162,intenção,"intention, purpose"
+178-1333,port1283,http://concepticon.clld.org/parameters/860,causa,cause
+178-1146,port1283,http://concepticon.clld.org/parameters/1308,duvidar,doubt
+178-530,port1283,http://concepticon.clld.org/parameters/1841,suspeitar,suspect
+178-1272,port1283,http://concepticon.clld.org/parameters/1902,trair,betray
+178-9,port1283,http://concepticon.clld.org/parameters/643,precisar,"need, necessity"
+178-1384,port1283,http://concepticon.clld.org/parameters/643,necessidade,"need, necessity"
+178-965,port1283,http://concepticon.clld.org/parameters/686,fácil,easy
+178-226,port1283,http://concepticon.clld.org/parameters/584,difícil,difficult
+178-1006,port1283,http://concepticon.clld.org/parameters/1812,tentar,"try, attempt"
+178-858,port1283,http://concepticon.clld.org/parameters/1812,provar,"try, attempt"
+178-365,port1283,http://concepticon.clld.org/parameters/488,maneira,"way, manner"
+178-1207,port1283,http://concepticon.clld.org/parameters/1577,e,and
+178-1025,port1283,http://concepticon.clld.org/parameters/1157,porque,because
+178-535,port1283,http://concepticon.clld.org/parameters/1459,se,if
+178-782,port1283,http://concepticon.clld.org/parameters/1014,ou,or
+178-1296,port1283,http://concepticon.clld.org/parameters/1268,sim,"yes, affirmative"
+178-664,port1283,http://concepticon.clld.org/parameters/1268,afirmativo,"yes, affirmative"
+178-964,port1283,http://concepticon.clld.org/parameters/1269,não,"no, negative"
+178-56,port1283,http://concepticon.clld.org/parameters/1269,negativo,"no, negative"
+178-1522,port1283,http://concepticon.clld.org/parameters/1239,como?,how?
+178-1052,port1283,http://concepticon.clld.org/parameters/822,quantos?,how many?
+178-240,port1283,http://concepticon.clld.org/parameters/531,quanto?,how much?
+178-1038,port1283,http://concepticon.clld.org/parameters/1236,que?,what?
+178-1430,port1283,http://concepticon.clld.org/parameters/1238,quando?,when?
+178-1520,port1283,http://concepticon.clld.org/parameters/1237,onde?,where?
+178-47,port1283,http://concepticon.clld.org/parameters/727,qual?,which?
+178-1130,port1283,http://concepticon.clld.org/parameters/1235,quem?,who?
+178-430,port1283,http://concepticon.clld.org/parameters/1270,por quê?,why?
+178-1101,port1283,http://concepticon.clld.org/parameters/1363,voz,voice
+178-1087,port1283,http://concepticon.clld.org/parameters/1261,cantar,sing
+178-1320,port1283,http://concepticon.clld.org/parameters/715,gritar,"shout, cry out"
+178-708,port1283,http://concepticon.clld.org/parameters/55,cochichar,whisper
+178-537,port1283,http://concepticon.clld.org/parameters/128,murmurar,mumble
+178-12,port1283,http://concepticon.clld.org/parameters/1025,assobiar,whistle
+178-1202,port1283,http://concepticon.clld.org/parameters/298,guinchar,"shriek, screech"
+178-246,port1283,http://concepticon.clld.org/parameters/526,uivar,howl
+178-264,port1283,http://concepticon.clld.org/parameters/1623,falar,"speak, talk"
+178-853,port1283,http://concepticon.clld.org/parameters/1866,gaguejar,"stutter, stammer"
+178-1072,port1283,http://concepticon.clld.org/parameters/1458,dizer,say
+178-657,port1283,http://concepticon.clld.org/parameters/1711,contar,tell story
+178-508,port1283,http://concepticon.clld.org/parameters/1711,relatar,tell story
+178-1021,port1283,http://concepticon.clld.org/parameters/1115,discursar,speech (make a)
+178-951,port1283,http://concepticon.clld.org/parameters/48,ficar em silêncio,silent (be)
+178-212,port1283,http://concepticon.clld.org/parameters/1307,língua,language
+178-1221,port1283,http://concepticon.clld.org/parameters/1599,palavra,word
+178-981,port1283,http://concepticon.clld.org/parameters/1405,nome,name
+178-756,port1283,http://concepticon.clld.org/parameters/1309,perguntar,"ask (question, inquire)"
+178-1192,port1283,http://concepticon.clld.org/parameters/1275,responder,answer
+178-702,port1283,http://concepticon.clld.org/parameters/2022,admitir,"admit, confess"
+178-1041,port1283,http://concepticon.clld.org/parameters/2022,confessar,"admit, confess"
+178-349,port1283,http://concepticon.clld.org/parameters/755,negar,deny
+178-818,port1283,http://concepticon.clld.org/parameters/1828,pedir,"ask, request"
+178-1577,port1283,http://concepticon.clld.org/parameters/1675,prometer,promise
+178-104,port1283,http://concepticon.clld.org/parameters/49,recusar,refuse
+178-674,port1283,http://concepticon.clld.org/parameters/83,proibir,forbid
+178-1491,port1283,http://concepticon.clld.org/parameters/299,repreender,"rebuke, scold"
+178-1458,port1283,http://concepticon.clld.org/parameters/1084,chamar,call (=summon)
+178-1330,port1283,http://concepticon.clld.org/parameters/180,nomear,call (=name)
+178-131,port1283,http://concepticon.clld.org/parameters/180,chamar-se,call (=name)
+178-1262,port1283,http://concepticon.clld.org/parameters/9,anunciar,announce
+178-1495,port1283,http://concepticon.clld.org/parameters/1192,ameaçar,threaten
+178-1485,port1283,http://concepticon.clld.org/parameters/101,jactar-se,boast
+178-557,port1283,http://concepticon.clld.org/parameters/101,gabar-se,boast
+178-1419,port1283,http://concepticon.clld.org/parameters/1672,escrever,write
+178-1062,port1283,http://concepticon.clld.org/parameters/724,ler,read
+178-941,port1283,http://concepticon.clld.org/parameters/648,papel,paper
+178-571,port1283,http://concepticon.clld.org/parameters/794,caneta,pen
+178-313,port1283,http://concepticon.clld.org/parameters/963,livro,book
+178-1523,port1283,http://concepticon.clld.org/parameters/1045,poeta,poet
+178-225,port1283,http://concepticon.clld.org/parameters/777,flauta,flute
+178-1397,port1283,http://concepticon.clld.org/parameters/908,tambor,drum
+178-1432,port1283,http://concepticon.clld.org/parameters/2136,corneta,"horn, trumpet"
+178-92,port1283,http://concepticon.clld.org/parameters/2136,trombeta,"horn, trumpet"
+178-893,port1283,http://concepticon.clld.org/parameters/300,guizo,rattle
+178-70,port1283,http://concepticon.clld.org/parameters/300,matraca,rattle
+178-1133,port1283,http://concepticon.clld.org/parameters/1300,país,country
+178-608,port1283,http://concepticon.clld.org/parameters/89,pátria,one's native country
+178-43,port1283,http://concepticon.clld.org/parameters/1391,cidade,"city, town"
+178-201,port1283,http://concepticon.clld.org/parameters/930,aldeia,village
+178-474,port1283,http://concepticon.clld.org/parameters/1010,fronteira,boundary
+178-1562,port1283,http://concepticon.clld.org/parameters/789,povo,people (populace)
+178-784,port1283,http://concepticon.clld.org/parameters/302,tribo,"tribe, clan"
+178-676,port1283,http://concepticon.clld.org/parameters/302,clã,"tribe, clan"
+178-775,port1283,http://concepticon.clld.org/parameters/301,chefe,"chief, chieftain"
+178-991,port1283,http://concepticon.clld.org/parameters/301,cacique,"chief, chieftain"
+178-1456,port1283,http://concepticon.clld.org/parameters/1296,bastão,"staff, walking stick"
+178-397,port1283,http://concepticon.clld.org/parameters/1296,bengala,"staff, walking stick"
+178-1490,port1283,http://concepticon.clld.org/parameters/1846,governar,"rule, govern"
+178-1332,port1283,http://concepticon.clld.org/parameters/1508,rei,"king, ruler"
+178-1204,port1283,http://concepticon.clld.org/parameters/1508,governante,"king, ruler"
+178-32,port1283,http://concepticon.clld.org/parameters/1306,rainha,queen
+178-229,port1283,http://concepticon.clld.org/parameters/482,nobre,"noble, nobleman"
+178-998,port1283,http://concepticon.clld.org/parameters/1032,cidadão,"citizen, subject"
+178-729,port1283,http://concepticon.clld.org/parameters/1032,súdito,"citizen, subject"
+178-1324,port1283,http://concepticon.clld.org/parameters/383,senhor,master
+178-188,port1283,http://concepticon.clld.org/parameters/383,patrão,master
+178-979,port1283,http://concepticon.clld.org/parameters/383,dono,master
+178-19,port1283,http://concepticon.clld.org/parameters/812,escravo,slave
+178-758,port1283,http://concepticon.clld.org/parameters/255,criado,servant
+178-1002,port1283,http://concepticon.clld.org/parameters/255,servo,servant
+178-216,port1283,http://concepticon.clld.org/parameters/384,homem livre,freeman
+178-1123,port1283,http://concepticon.clld.org/parameters/1128,mandar,"command, order"
+178-117,port1283,http://concepticon.clld.org/parameters/1128,dar ordem,"command, order"
+178-754,port1283,http://concepticon.clld.org/parameters/1635,obedecer,obey
+178-151,port1283,http://concepticon.clld.org/parameters/1003,deixar,"let, permit"
+178-1140,port1283,http://concepticon.clld.org/parameters/1003,permitir,"let, permit"
+178-1443,port1283,http://concepticon.clld.org/parameters/1325,amigo,"friend, companion"
+178-276,port1283,http://concepticon.clld.org/parameters/1325,companheiro,"friend, companion"
+178-1095,port1283,http://concepticon.clld.org/parameters/1358,inimigo,enemy
+178-975,port1283,http://concepticon.clld.org/parameters/1332,vizinho,neighbor
+178-500,port1283,http://concepticon.clld.org/parameters/791,estranho,stranger
+178-1327,port1283,http://concepticon.clld.org/parameters/791,forasteiro,stranger
+178-358,port1283,http://concepticon.clld.org/parameters/1782,convidado,guest
+178-1361,port1283,http://concepticon.clld.org/parameters/1782,hóspede,guest
+178-1264,port1283,http://concepticon.clld.org/parameters/1545,hospedeiro,host
+178-989,port1283,http://concepticon.clld.org/parameters/1545,anfitrião,host
+178-1126,port1283,http://concepticon.clld.org/parameters/1897,ajudar,"help, aid"
+178-1090,port1283,http://concepticon.clld.org/parameters/1550,impedir,"hinder, prevent"
+178-1110,port1283,http://concepticon.clld.org/parameters/1550,estorvar,"hinder, prevent"
+178-1309,port1283,http://concepticon.clld.org/parameters/1747,costume,custom
+178-1334,port1283,http://concepticon.clld.org/parameters/1747,hábito,custom
+178-502,port1283,http://concepticon.clld.org/parameters/1848,disputa,"strife, quarrel"
+178-716,port1283,http://concepticon.clld.org/parameters/1848,luta,"strife, quarrel"
+178-353,port1283,http://concepticon.clld.org/parameters/2024,conspiração,"conspiracy, plot"
+178-297,port1283,http://concepticon.clld.org/parameters/1831,encontrar,meet
+178-200,port1283,http://concepticon.clld.org/parameters/1610,prostituta,prostitute
+178-328,port1283,http://concepticon.clld.org/parameters/1423,lutar,fight (vb)
+178-239,port1283,http://concepticon.clld.org/parameters/579,guerra,"war, battle"
+178-1165,port1283,http://concepticon.clld.org/parameters/579,batalha,"war, battle"
+178-938,port1283,http://concepticon.clld.org/parameters/1338,paz,peace
+178-555,port1283,http://concepticon.clld.org/parameters/1561,exército,army
+178-737,port1283,http://concepticon.clld.org/parameters/1941,soldado,soldier
+178-436,port1283,http://concepticon.clld.org/parameters/951,armas,"weapons, arms"
+178-417,port1283,http://concepticon.clld.org/parameters/1763,porrete,club
+178-211,port1283,http://concepticon.clld.org/parameters/1763,cacete,club
+178-1005,port1283,http://concepticon.clld.org/parameters/386,machado,battle-ax
+178-1164,port1283,http://concepticon.clld.org/parameters/386,acha,battle-ax
+178-1553,port1283,http://concepticon.clld.org/parameters/387,funda,sling
+178-666,port1283,http://concepticon.clld.org/parameters/387,estilingue,sling
+178-89,port1283,http://concepticon.clld.org/parameters/994,arco,bow
+178-490,port1283,http://concepticon.clld.org/parameters/977,flecha,arrow
+178-279,port1283,http://concepticon.clld.org/parameters/945,lança,spear
+178-738,port1283,http://concepticon.clld.org/parameters/1535,espada,sword
+178-60,port1283,http://concepticon.clld.org/parameters/1566,arma,"gun, cannon"
+178-1536,port1283,http://concepticon.clld.org/parameters/1566,pistola,"gun, cannon"
+178-901,port1283,http://concepticon.clld.org/parameters/1566,canhão,"gun, cannon"
+178-438,port1283,http://concepticon.clld.org/parameters/1061,armadura,armor (defensive)
+178-154,port1283,http://concepticon.clld.org/parameters/1680,elmo,helmet
+178-539,port1283,http://concepticon.clld.org/parameters/1680,capacete,helmet
+178-1440,port1283,http://concepticon.clld.org/parameters/1064,escudo,shield
+178-1311,port1283,http://concepticon.clld.org/parameters/1938,fortaleza,fortress
+178-897,port1283,http://concepticon.clld.org/parameters/1671,torre,tower
+178-849,port1283,http://concepticon.clld.org/parameters/783,vitória,victory
+178-1575,port1283,http://concepticon.clld.org/parameters/782,derrota,defeat
+178-1238,port1283,http://concepticon.clld.org/parameters/722,atacar,attack
+178-1019,port1283,http://concepticon.clld.org/parameters/1330,defender,defend
+178-191,port1283,http://concepticon.clld.org/parameters/421,retirar-se,retreat
+178-1080,port1283,http://concepticon.clld.org/parameters/1696,capitular,surrender
+178-671,port1283,http://concepticon.clld.org/parameters/1696,render-se,surrender
+178-337,port1283,http://concepticon.clld.org/parameters/1072,cativo,"captive, prisoner"
+178-310,port1283,http://concepticon.clld.org/parameters/1072,prisioneiro,"captive, prisoner"
+178-1401,port1283,http://concepticon.clld.org/parameters/1940,guarda,"guard, sentinel"
+178-594,port1283,http://concepticon.clld.org/parameters/1940,sentinela,"guard, sentinel"
+178-712,port1283,http://concepticon.clld.org/parameters/1022,pilhagem,"booty, spoils"
+178-2,port1283,http://concepticon.clld.org/parameters/65,emboscada,ambush
+178-1321,port1283,http://concepticon.clld.org/parameters/1858,pescador,fisherman
+178-1352,port1283,http://concepticon.clld.org/parameters/1074,anzol,fishhook
+178-20,port1283,http://concepticon.clld.org/parameters/19,linha de pesca,fishing line
+178-684,port1283,http://concepticon.clld.org/parameters/19,corda,fishing line
+178-1257,port1283,http://concepticon.clld.org/parameters/388,rede,fishnet
+178-560,port1283,http://concepticon.clld.org/parameters/389,nassa,fish trap
+178-872,port1283,http://concepticon.clld.org/parameters/389,armadilha de peixa,fish trap
+178-1476,port1283,http://concepticon.clld.org/parameters/2013,isca,bait
+178-321,port1283,http://concepticon.clld.org/parameters/1435,caçar,hunt
+178-1067,port1283,http://concepticon.clld.org/parameters/1172,disparar,shoot
+178-643,port1283,http://concepticon.clld.org/parameters/1172,fuzilar,shoot
+178-762,port1283,http://concepticon.clld.org/parameters/161,falhar,miss (target)
+178-1056,port1283,http://concepticon.clld.org/parameters/161,errar,miss (target)
+178-1512,port1283,http://concepticon.clld.org/parameters/161,não acertar,miss (target)
+178-287,port1283,http://concepticon.clld.org/parameters/1075,cilada,trap (noun)
+178-847,port1283,http://concepticon.clld.org/parameters/1075,armadilha,trap (noun)
+178-1372,port1283,http://concepticon.clld.org/parameters/1170,armar uma cilada,trap (vb)
+178-309,port1283,http://concepticon.clld.org/parameters/1170,pegar em armadilha,trap (vb)
+178-1048,port1283,http://concepticon.clld.org/parameters/1062,lei,law
+178-501,port1283,http://concepticon.clld.org/parameters/1068,tribunal,court
+178-799,port1283,http://concepticon.clld.org/parameters/1818,julgar,judge (vb)
+178-1287,port1283,http://concepticon.clld.org/parameters/1067,julgamento,judgment
+178-817,port1283,http://concepticon.clld.org/parameters/861,juiz,judge (noun)
+178-1375,port1283,http://concepticon.clld.org/parameters/2020,queixoso,plaintiff
+178-1012,port1283,http://concepticon.clld.org/parameters/1034,réu,defendant
+178-1029,port1283,http://concepticon.clld.org/parameters/1034,acusado,defendant
+178-1496,port1283,http://concepticon.clld.org/parameters/1144,testemunha,witness
+178-46,port1283,http://concepticon.clld.org/parameters/1939,jurar,swear
+178-376,port1283,http://concepticon.clld.org/parameters/1712,juramento,oath
+178-1349,port1283,http://concepticon.clld.org/parameters/1814,acusar,accuse
+178-407,port1283,http://concepticon.clld.org/parameters/484,condenar,condemn
+178-157,port1283,http://concepticon.clld.org/parameters/983,sentenciar,convict (vb)
+178-407,port1283,http://concepticon.clld.org/parameters/983,condenar,convict (vb)
+178-1106,port1283,http://concepticon.clld.org/parameters/988,absolver,acquit
+178-1303,port1283,http://concepticon.clld.org/parameters/1682,culpado,guilty
+178-1122,port1283,http://concepticon.clld.org/parameters/90,inocente,innocent
+178-1402,port1283,http://concepticon.clld.org/parameters/390,punição,"penalty, punishment"
+178-263,port1283,http://concepticon.clld.org/parameters/390,castigo,"penalty, punishment"
+178-1457,port1283,http://concepticon.clld.org/parameters/218,multa,fine
+178-984,port1283,http://concepticon.clld.org/parameters/1281,prisão,"prison, jail"
+178-1465,port1283,http://concepticon.clld.org/parameters/845,assassinar,murder
+178-1116,port1283,http://concepticon.clld.org/parameters/902,adultério,adultery
+178-1444,port1283,http://concepticon.clld.org/parameters/953,violação,rape
+178-855,port1283,http://concepticon.clld.org/parameters/953,estupro,rape
+178-601,port1283,http://concepticon.clld.org/parameters/1889,incêndio culposo,arson
+178-1533,port1283,http://concepticon.clld.org/parameters/1792,perjúrio,perjury
+178-1234,port1283,http://concepticon.clld.org/parameters/713,roubar,steal
+178-1120,port1283,http://concepticon.clld.org/parameters/1160,ladrão,thief
+178-639,port1283,http://concepticon.clld.org/parameters/661,religião,religion
+178-682,port1283,http://concepticon.clld.org/parameters/1944,Deus,God
+178-1153,port1283,http://concepticon.clld.org/parameters/911,templo,"temple, church"
+178-1368,port1283,http://concepticon.clld.org/parameters/911,igreja,"temple, church"
+178-493,port1283,http://concepticon.clld.org/parameters/853,altar,altar
+178-1394,port1283,http://concepticon.clld.org/parameters/1103,sacrifício,"sacrifice, offering"
+178-420,port1283,http://concepticon.clld.org/parameters/1103,oferenda,"sacrifice, offering"
+178-1481,port1283,http://concepticon.clld.org/parameters/257,adorar,worship
+178-823,port1283,http://concepticon.clld.org/parameters/24,orar,pray
+178-1073,port1283,http://concepticon.clld.org/parameters/24,rezar,pray
+178-140,port1283,http://concepticon.clld.org/parameters/852,sacerdote,priest
+178-1162,port1283,http://concepticon.clld.org/parameters/1702,santo,"holy, sacred"
+178-751,port1283,http://concepticon.clld.org/parameters/1702,sagrado,"holy, sacred"
+178-1369,port1283,http://concepticon.clld.org/parameters/304,pregar,preach
+178-1189,port1283,http://concepticon.clld.org/parameters/391,abençoar,bless
+178-497,port1283,http://concepticon.clld.org/parameters/8,amaldiçoar,curse
+178-1581,port1283,http://concepticon.clld.org/parameters/303,jejuar,fast (vb)
+178-370,port1283,http://concepticon.clld.org/parameters/1565,céu,heaven
+178-160,port1283,http://concepticon.clld.org/parameters/878,inferno,hell
+178-861,port1283,http://concepticon.clld.org/parameters/1973,demônio,demon (evil spirit)
+178-290,port1283,http://concepticon.clld.org/parameters/1945,ídolo,idol
+178-1233,port1283,http://concepticon.clld.org/parameters/392,magia,"magic, witchcraft, sorcery"
+178-94,port1283,http://concepticon.clld.org/parameters/392,feitiçaria,"magic, witchcraft, sorcery"
+178-631,port1283,http://concepticon.clld.org/parameters/2137,feiticeiro,"sorcerer, witch"
+178-247,port1283,http://concepticon.clld.org/parameters/2137,bruxo/ bruxa,"sorcerer, witch"
+178-111,port1283,http://concepticon.clld.org/parameters/2138,fada,"fairy, elf"
+178-725,port1283,http://concepticon.clld.org/parameters/1175,fantasma,"ghost, phantom"
+178-1001,port1283,http://concepticon.clld.org/parameters/107,agouro,"omen, portent"
+178-661,port1283,http://concepticon.clld.org/parameters/107,presságio,"omen, portent"

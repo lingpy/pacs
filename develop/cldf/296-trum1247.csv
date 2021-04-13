@@ -1,0 +1,666 @@
+ID,Language_ID,Feature_ID,Value,Concept
+296-356,trum1247,http://concepticon.clld.org/parameters/626,tenexne,"earth, land"
+296-300,trum1247,http://concepticon.clld.org/parameters/626,trumai ilaka,"earth, land"
+296-356,trum1247,http://concepticon.clld.org/parameters/1228,tenexne,"earth=ground, soil"
+296-524,trum1247,http://concepticon.clld.org/parameters/671,ulat̯,sand
+296-524,trum1247,http://concepticon.clld.org/parameters/113,ulat̯,shore
+296-244,trum1247,http://concepticon.clld.org/parameters/948,misu,water
+296-592,trum1247,http://concepticon.clld.org/parameters/1768,aiot̯,foam
+296-257,trum1247,http://concepticon.clld.org/parameters/1768,ale su aiot̯,foam
+296-383,trum1247,http://concepticon.clld.org/parameters/624,xu(-ake),lake
+296-26,trum1247,http://concepticon.clld.org/parameters/978,kumu kumu,wave
+296-250,trum1247,http://concepticon.clld.org/parameters/666,atel=xu,"river, stream, brook"
+296-24,trum1247,http://concepticon.clld.org/parameters/2144,misu fafla,"spring, well"
+296-476,trum1247,http://concepticon.clld.org/parameters/420,aneneote,"woods, forest"
+296-587,trum1247,http://concepticon.clld.org/parameters/420,auat,"woods, forest"
+296-60,trum1247,http://concepticon.clld.org/parameters/420,kuiaie,"woods, forest"
+296-106,trum1247,http://concepticon.clld.org/parameters/906,dei,tree (cf 08.600)
+296-626,trum1247,http://concepticon.clld.org/parameters/1803,ɨuɨr,wood
+296-96,trum1247,http://concepticon.clld.org/parameters/2125,itak,"stone, rock"
+296-532,trum1247,http://concepticon.clld.org/parameters/6,hapdokokah,earthquake
+296-409,trum1247,http://concepticon.clld.org/parameters/1732,naneʔne ~ naʔnene,sky
+296-99,trum1247,http://concepticon.clld.org/parameters/1343,atetla,sun
+296-591,trum1247,http://concepticon.clld.org/parameters/1313,atetl-pak,moon
+296-45,trum1247,http://concepticon.clld.org/parameters/1430,asih,star
+296-183,trum1247,http://concepticon.clld.org/parameters/1430,atsinau,star
+296-75,trum1247,http://concepticon.clld.org/parameters/858,ameš,storm
+296-498,trum1247,http://concepticon.clld.org/parameters/1733,pupu,rainbow
+296-225,trum1247,http://concepticon.clld.org/parameters/1388,(iau) ihan,"shade, shadow"
+296-200,trum1247,http://concepticon.clld.org/parameters/960,sut ~ sud,wind
+296-485,trum1247,http://concepticon.clld.org/parameters/1489,naneʔde,cloud
+296-489,trum1247,http://concepticon.clld.org/parameters/249,soxden len,fog
+296-118,trum1247,http://concepticon.clld.org/parameters/658,kʔauixu [kʔawixu],rain (noun)
+296-552,trum1247,http://concepticon.clld.org/parameters/658,kʔauixukla,rain (noun)
+296-148,trum1247,http://concepticon.clld.org/parameters/221,so,fire
+296-347,trum1247,http://concepticon.clld.org/parameters/778,soxden,smoke (noun)
+296-173,trum1247,http://concepticon.clld.org/parameters/646,somot ~ somot̯,ashes
+296-472,trum1247,http://concepticon.clld.org/parameters/67,sot̯,embers
+296-276,trum1247,http://concepticon.clld.org/parameters/141,(ha) si,burn (vb trans)
+296-128,trum1247,http://concepticon.clld.org/parameters/1428,otne (tsipupup),burn (vb intrans)
+296-291,trum1247,http://concepticon.clld.org/parameters/127,(haits) opi-n,extinguish
+296-549,trum1247,http://concepticon.clld.org/parameters/10,tsipup,firewood
+296-472,trum1247,http://concepticon.clld.org/parameters/1188,sot̯,charcoal
+296-253,trum1247,http://concepticon.clld.org/parameters/683,iau,"person, human being"
+296-339,trum1247,http://concepticon.clld.org/parameters/1554,kiki,man (vs. woman)
+296-336,trum1247,http://concepticon.clld.org/parameters/962,di,woman
+296-339,trum1247,http://concepticon.clld.org/parameters/2263,kiki,male
+296-336,trum1247,http://concepticon.clld.org/parameters/2260,di,female
+296-564,trum1247,http://concepticon.clld.org/parameters/1366,kik=noxo,boy
+296-203,trum1247,http://concepticon.clld.org/parameters/76,axos=ual-ta,young man (adolescent)
+296-500,trum1247,http://concepticon.clld.org/parameters/1646,di=noxo,girl
+296-523,trum1247,http://concepticon.clld.org/parameters/77,axos=ual-ta (?),young woman (adolescent)
+296-564,trum1247,http://concepticon.clld.org/parameters/1304,kik=noxo,child
+296-500,trum1247,http://concepticon.clld.org/parameters/1304,di=noxo,child
+296-388,trum1247,http://concepticon.clld.org/parameters/1289,omat-ke,"infant, baby"
+296-67,trum1247,http://concepticon.clld.org/parameters/1200,(ha)-eše,husband
+296-506,trum1247,http://concepticon.clld.org/parameters/1199,(ha)-deʔtsi,wife
+296-62,trum1247,http://concepticon.clld.org/parameters/203,(ha)-pa,marry
+296-190,trum1247,http://concepticon.clld.org/parameters/1217,(ha)-ao,father
+296-4,trum1247,http://concepticon.clld.org/parameters/1216,(ha)-atle,mother
+296-197,trum1247,http://concepticon.clld.org/parameters/1620,(ha)-faxlo,son
+296-508,trum1247,http://concepticon.clld.org/parameters/1357,(ha)-atadi,daughter
+296-315,trum1247,http://concepticon.clld.org/parameters/1262,(ha)-adif,brother
+296-535,trum1247,http://concepticon.clld.org/parameters/1759,(ha)-apisi,older brother
+296-436,trum1247,http://concepticon.clld.org/parameters/1760,adif pat,younger brother
+296-61,trum1247,http://concepticon.clld.org/parameters/1263,(ha)-adif-le,sister
+296-61,trum1247,http://concepticon.clld.org/parameters/1758,(ha)-adif-le,older sister
+296-70,trum1247,http://concepticon.clld.org/parameters/1761,(ha)-adif-le pat,younger sister
+296-325,trum1247,http://concepticon.clld.org/parameters/1005,tɨtɬe,twins
+296-164,trum1247,http://concepticon.clld.org/parameters/1383,haiei,grandfather
+296-287,trum1247,http://concepticon.clld.org/parameters/406,deuan,old man
+296-33,trum1247,http://concepticon.clld.org/parameters/1496,hatseda,grandmother
+296-264,trum1247,http://concepticon.clld.org/parameters/1618,(ha) doxo,grandson
+296-484,trum1247,http://concepticon.clld.org/parameters/1327,uaue,uncle
+296-317,trum1247,http://concepticon.clld.org/parameters/1985,(ha)-atatek,father's brother
+296-94,trum1247,http://concepticon.clld.org/parameters/171,(ha)-oʔke,mother's sister
+296-328,trum1247,http://concepticon.clld.org/parameters/170,(ha)-kate,father's sister
+296-50,trum1247,http://concepticon.clld.org/parameters/1063,uaue patʔte,nephew
+296-620,trum1247,http://concepticon.clld.org/parameters/1642,uaue tʔadi,niece
+296-402,trum1247,http://concepticon.clld.org/parameters/2256,(ha) oke,mother-in-law (of a man)
+296-326,trum1247,http://concepticon.clld.org/parameters/2267,(ha)-uapke,son-in-law (of a man)
+296-326,trum1247,http://concepticon.clld.org/parameters/2266,(ha)-uapke,son-in-law (of a woman)
+296-326,trum1247,http://concepticon.clld.org/parameters/2265,(ha)-uapke,daughter-in-law (of a man)
+296-326,trum1247,http://concepticon.clld.org/parameters/2264,(ha)-uapke,daughter-in-law (of a woman)
+296-222,trum1247,http://concepticon.clld.org/parameters/1149,aot-kek,orphan
+296-469,trum1247,http://concepticon.clld.org/parameters/1149,atlet-kek,orphan
+296-83,trum1247,http://concepticon.clld.org/parameters/1756,t̯ats,widow
+296-83,trum1247,http://concepticon.clld.org/parameters/1981,t̯ats,widower
+296-477,trum1247,http://concepticon.clld.org/parameters/194,tox-lo-(ha-uan),family
+296-588,trum1247,http://concepticon.clld.org/parameters/1209,ha,I
+296-493,trum1247,http://concepticon.clld.org/parameters/1209,hai,I
+296-293,trum1247,http://concepticon.clld.org/parameters/1209,hai-ts,I
+296-585,trum1247,http://concepticon.clld.org/parameters/1215,hi,you (singular)
+296-502,trum1247,http://concepticon.clld.org/parameters/262,hine,he/she/it
+296-433,trum1247,http://concepticon.clld.org/parameters/262,-n/-e,he/she/it
+296-331,trum1247,http://concepticon.clld.org/parameters/1212,ha-uan,we
+296-392,trum1247,http://concepticon.clld.org/parameters/1212,ka-a,we
+296-357,trum1247,http://concepticon.clld.org/parameters/1213,hi-uan,you (plural)
+296-119,trum1247,http://concepticon.clld.org/parameters/817,uan,they
+296-132,trum1247,http://concepticon.clld.org/parameters/619,kodetɬ,animal
+296-602,trum1247,http://concepticon.clld.org/parameters/619,(ha) aton,animal
+296-400,trum1247,http://concepticon.clld.org/parameters/1348,mandaša=torek,boar
+296-420,trum1247,http://concepticon.clld.org/parameters/1511,karakarako,"cock, rooster"
+296-43,trum1247,http://concepticon.clld.org/parameters/1360,kutumʔi,duck
+296-7,trum1247,http://concepticon.clld.org/parameters/937,uraʔi,bird
+296-296,trum1247,http://concepticon.clld.org/parameters/937,kodetl,bird
+296-407,trum1247,http://concepticon.clld.org/parameters/950,uiat,seagull
+296-554,trum1247,http://concepticon.clld.org/parameters/758,dašauek,heron
+296-191,trum1247,http://concepticon.clld.org/parameters/1905,kurapuhu,eagle
+296-491,trum1247,http://concepticon.clld.org/parameters/1185,arikuku,vulture
+296-616,trum1247,http://concepticon.clld.org/parameters/1793,koioš,bat
+296-209,trum1247,http://concepticon.clld.org/parameters/882,ure ure,parrot
+296-504,trum1247,http://concepticon.clld.org/parameters/882,pitʔe,parrot
+296-275,trum1247,http://concepticon.clld.org/parameters/913,puka-nehene,crow
+296-160,trum1247,http://concepticon.clld.org/parameters/1853,asulu,dove
+296-248,trum1247,http://concepticon.clld.org/parameters/735,petle,owl
+296-177,trum1247,http://concepticon.clld.org/parameters/735,arutau,owl
+296-598,trum1247,http://concepticon.clld.org/parameters/2009,[kasoro],dog
+296-88,trum1247,http://concepticon.clld.org/parameters/1136,hatsidako,rabbit
+296-503,trum1247,http://concepticon.clld.org/parameters/2139,aianaʔi,"mouse, rat"
+296-194,trum1247,http://concepticon.clld.org/parameters/227,kaʔte ~ kʔate,fish
+296-51,trum1247,http://concepticon.clld.org/parameters/213,amuptsaf(-ake),fin (dorsal)
+296-265,trum1247,http://concepticon.clld.org/parameters/266,kʔate xut,fishscale
+296-334,trum1247,http://concepticon.clld.org/parameters/1916,mapsa,gill
+296-345,trum1247,http://concepticon.clld.org/parameters/598,kuruham,shell
+296-612,trum1247,http://concepticon.clld.org/parameters/598,uaraʔša,shell
+296-8,trum1247,http://concepticon.clld.org/parameters/598,iatɨt,shell
+296-537,trum1247,http://concepticon.clld.org/parameters/1910,patʔak,stingray
+296-558,trum1247,http://concepticon.clld.org/parameters/1312,uara,fox
+296-17,trum1247,http://concepticon.clld.org/parameters/1936,iaianke,deer
+296-120,trum1247,http://concepticon.clld.org/parameters/1350,pɨtɨk,monkey
+296-54,trum1247,http://concepticon.clld.org/parameters/1350,amue,monkey
+296-45,trum1247,http://concepticon.clld.org/parameters/310,asih,louse
+296-377,trum1247,http://concepticon.clld.org/parameters/232,tun,flea
+296-614,trum1247,http://concepticon.clld.org/parameters/1575,tɨlɨxui,cockroach
+296-608,trum1247,http://concepticon.clld.org/parameters/587,kuseʔ kuseʔ,ant
+296-429,trum1247,http://concepticon.clld.org/parameters/665,aus ao,bee
+296-628,trum1247,http://concepticon.clld.org/parameters/1931,aus-kod ~ aus-kot,beeswax
+296-563,trum1247,http://concepticon.clld.org/parameters/1504,meru,fly
+296-92,trum1247,http://concepticon.clld.org/parameters/1504,meiot,fly
+296-274,trum1247,http://concepticon.clld.org/parameters/1509,piioth,mosquito
+296-1,trum1247,http://concepticon.clld.org/parameters/730,kodešɨš,snake
+296-81,trum1247,http://concepticon.clld.org/parameters/1791,tumu tumu,butterfly
+296-150,trum1247,http://concepticon.clld.org/parameters/503,petʔeu,frog
+296-495,trum1247,http://concepticon.clld.org/parameters/632,uetɬ,lizard
+296-610,trum1247,http://concepticon.clld.org/parameters/1857,topetne,"crocodile, alligator"
+296-40,trum1247,http://concepticon.clld.org/parameters/112,uruts,turtle
+296-373,trum1247,http://concepticon.clld.org/parameters/112,tsul,turtle
+296-126,trum1247,http://concepticon.clld.org/parameters/1480,(iau) i,body
+296-5,trum1247,http://concepticon.clld.org/parameters/763,(iau) pɨt,"skin, hide"
+296-58,trum1247,http://concepticon.clld.org/parameters/763,(ha) pɨt̯,"skin, hide"
+296-138,trum1247,http://concepticon.clld.org/parameters/2259,lat,flesh
+296-283,trum1247,http://concepticon.clld.org/parameters/1040,(ha) kuš,hair (head)
+296-435,trum1247,http://concepticon.clld.org/parameters/678,mukpus,beard
+296-416,trum1247,http://concepticon.clld.org/parameters/189,(iau) šap,body hair
+296-270,trum1247,http://concepticon.clld.org/parameters/946,(ha) du,blood
+296-66,trum1247,http://concepticon.clld.org/parameters/1394,daš,bone
+296-84,trum1247,http://concepticon.clld.org/parameters/801,(ha) i,rib
+296-390,trum1247,http://concepticon.clld.org/parameters/1220,asix(-ake),tail
+296-397,trum1247,http://concepticon.clld.org/parameters/1291,natu,back
+296-219,trum1247,http://concepticon.clld.org/parameters/1256,kut(-ake),head
+296-278,trum1247,http://concepticon.clld.org/parameters/1256,(ha) kuta,head
+296-488,trum1247,http://concepticon.clld.org/parameters/1560,xupda,face
+296-259,trum1247,http://concepticon.clld.org/parameters/123,huk,forehead
+296-29,trum1247,http://concepticon.clld.org/parameters/798,maʔdaša,jaw
+296-100,trum1247,http://concepticon.clld.org/parameters/1248,xon(-ake),eye
+296-462,trum1247,http://concepticon.clld.org/parameters/1248,(ha) xon,eye
+296-143,trum1247,http://concepticon.clld.org/parameters/1540,huksi,eyelash
+296-41,trum1247,http://concepticon.clld.org/parameters/1247,(ha) faptɨ,ear
+296-415,trum1247,http://concepticon.clld.org/parameters/1221,(ha) laša,nose
+296-465,trum1247,http://concepticon.clld.org/parameters/674,(ha) xop,mouth
+296-228,trum1247,http://concepticon.clld.org/parameters/73,laf(-ake),beak
+296-135,trum1247,http://concepticon.clld.org/parameters/478,laf,lip
+296-497,trum1247,http://concepticon.clld.org/parameters/1205,(ha) ano,tongue
+296-343,trum1247,http://concepticon.clld.org/parameters/1380,(ha) iša,tooth
+296-204,trum1247,http://concepticon.clld.org/parameters/1333,(ha) hot,neck
+296-446,trum1247,http://concepticon.clld.org/parameters/1347,alan-pat,nape of neck
+296-440,trum1247,http://concepticon.clld.org/parameters/1347,alan-pad,nape of neck
+296-604,trum1247,http://concepticon.clld.org/parameters/1346,(iau) mud,throat
+296-130,trum1247,http://concepticon.clld.org/parameters/1482,(ha) miuda,shoulder
+296-292,trum1247,http://concepticon.clld.org/parameters/1673,(ha) ato,arm
+296-232,trum1247,http://concepticon.clld.org/parameters/981,at̯o dako,elbow
+296-618,trum1247,http://concepticon.clld.org/parameters/799,nap,wrist
+296-449,trum1247,http://concepticon.clld.org/parameters/1277,(ha) kat,hand
+296-405,trum1247,http://concepticon.clld.org/parameters/1183,kad fax,palm of hand
+296-505,trum1247,http://concepticon.clld.org/parameters/1303,kat=kel,finger
+296-556,trum1247,http://concepticon.clld.org/parameters/1258,(ha) fi,fingernail
+296-231,trum1247,http://concepticon.clld.org/parameters/72,piʔ=fi(-ake),claw
+296-569,trum1247,http://concepticon.clld.org/parameters/1297,(ha) dak / dat (?),leg
+296-76,trum1247,http://concepticon.clld.org/parameters/800,(ha) hud,thigh
+296-59,trum1247,http://concepticon.clld.org/parameters/1371,(ha) dako,knee
+296-20,trum1247,http://concepticon.clld.org/parameters/1301,pitsʔ(-ake),foot
+296-267,trum1247,http://concepticon.clld.org/parameters/1301,i,foot
+296-38,trum1247,http://concepticon.clld.org/parameters/1389,pits=kel,toe
+296-501,trum1247,http://concepticon.clld.org/parameters/1257,etlep(-aʔke) ~ etlep(-ake),wing
+296-302,trum1247,http://concepticon.clld.org/parameters/1201,kodetɬ šap,feather
+296-144,trum1247,http://concepticon.clld.org/parameters/1402,di-olem,breast (of woman)
+296-227,trum1247,http://concepticon.clld.org/parameters/796,olem-laf,"nipple, teat"
+296-249,trum1247,http://concepticon.clld.org/parameters/1223,(iau) hotʔaput,heart
+296-223,trum1247,http://concepticon.clld.org/parameters/1224,(iau) aʔtsi,liver
+296-515,trum1247,http://concepticon.clld.org/parameters/1224,(ha) atsi,liver
+296-36,trum1247,http://concepticon.clld.org/parameters/819,(ha) pitɬ,stomach
+296-11,trum1247,http://concepticon.clld.org/parameters/819,(ha) oxe,stomach
+296-613,trum1247,http://concepticon.clld.org/parameters/1991,(ha) fax,"intestines, guts"
+296-536,trum1247,http://concepticon.clld.org/parameters/834,petɬ,buttocks
+296-310,trum1247,http://concepticon.clld.org/parameters/797,taf oa,testicle
+296-557,trum1247,http://concepticon.clld.org/parameters/1222,o,penis
+296-273,trum1247,http://concepticon.clld.org/parameters/1222,o-a,penis
+296-37,trum1247,http://concepticon.clld.org/parameters/1407,(ha) an fafla,"breathe, breath"
+296-437,trum1247,http://concepticon.clld.org/parameters/162,šukuk,hiccough
+296-354,trum1247,http://concepticon.clld.org/parameters/126,sex,perspire
+296-538,trum1247,http://concepticon.clld.org/parameters/1440,(ha) tʔuske,spit
+296-595,trum1247,http://concepticon.clld.org/parameters/1278,(ha) pepen,vomit
+296-631,trum1247,http://concepticon.clld.org/parameters/1403,(ha) make,bite
+296-286,trum1247,http://concepticon.clld.org/parameters/1403,tako-n (haits),bite
+296-258,trum1247,http://concepticon.clld.org/parameters/319,(ha) anosetɬ,lick
+296-153,trum1247,http://concepticon.clld.org/parameters/319,(ha) hano fetɬe,lick
+296-344,trum1247,http://concepticon.clld.org/parameters/1585,o-otl-(e),sleep
+296-215,trum1247,http://concepticon.clld.org/parameters/1585,(ha)-iotl,sleep
+296-163,trum1247,http://concepticon.clld.org/parameters/1159,(ha) uax,break wind
+296-124,trum1247,http://concepticon.clld.org/parameters/592,(ha) su=ta,urinate
+296-391,trum1247,http://concepticon.clld.org/parameters/676,(ha) ofal,defecate
+296-101,trum1247,http://concepticon.clld.org/parameters/676,loueu,defecate
+296-439,trum1247,http://concepticon.clld.org/parameters/1785,(ha) kan,have sexual intercourse
+296-404,trum1247,http://concepticon.clld.org/parameters/1785,(ha) el,have sexual intercourse
+296-590,trum1247,http://concepticon.clld.org/parameters/138,(ha) xu=ma=ktsu,bathe
+296-445,trum1247,http://concepticon.clld.org/parameters/1090,uʔu-n de,born (to be)
+296-609,trum1247,http://concepticon.clld.org/parameters/1123,tarke,pregnant
+296-499,trum1247,http://concepticon.clld.org/parameters/1123,oxa-n,pregnant
+296-314,trum1247,http://concepticon.clld.org/parameters/1494,fakdits-e,"die, dead"
+296-116,trum1247,http://concepticon.clld.org/parameters/1417,(ha)-fa,kill
+296-399,trum1247,http://concepticon.clld.org/parameters/1417,(ha) ʔfa,kill
+296-117,trum1247,http://concepticon.clld.org/parameters/1417,ofa-n,kill
+296-71,trum1247,http://concepticon.clld.org/parameters/1417,(haits) disi-n,kill
+296-192,trum1247,http://concepticon.clld.org/parameters/1719,(ha) falomle,bury (the dead)
+296-198,trum1247,http://concepticon.clld.org/parameters/785,(iau) iataxa,"strong, mighty, powerful"
+296-221,trum1247,http://concepticon.clld.org/parameters/1601,at̯ʔe tak,weak
+296-342,trum1247,http://concepticon.clld.org/parameters/1601,ari-ki tak (ha šɨ),weak
+296-181,trum1247,http://concepticon.clld.org/parameters/1847,oke,"sick, sickness"
+296-181,trum1247,http://concepticon.clld.org/parameters/1534,oke,fever
+296-72,trum1247,http://concepticon.clld.org/parameters/102,fad ~ fat,cold (catarrh)
+296-566,trum1247,http://concepticon.clld.org/parameters/1109,etɬemxo,"wound, sore"
+296-516,trum1247,http://concepticon.clld.org/parameters/1903,mox-e,swelling
+296-562,trum1247,http://concepticon.clld.org/parameters/148,xunxun,itch
+296-386,trum1247,http://concepticon.clld.org/parameters/1808,anon,pus
+296-572,trum1247,http://concepticon.clld.org/parameters/497,kɨrɨu (pitɬ),scar
+296-122,trum1247,http://concepticon.clld.org/parameters/497,kɨrɨu (tetɬ),scar
+296-544,trum1247,http://concepticon.clld.org/parameters/499,(haits) xuʔta-xuʔta-n,"cure, heal"
+296-352,trum1247,http://concepticon.clld.org/parameters/597,oke-iar,physician
+296-104,trum1247,http://concepticon.clld.org/parameters/1372,(hai-kte) oke,"medicine, drug"
+296-181,trum1247,http://concepticon.clld.org/parameters/655,oke,poison
+296-421,trum1247,http://concepticon.clld.org/parameters/1757,(iau) xuʔkat,"tired, weary"
+296-196,trum1247,http://concepticon.clld.org/parameters/1757,(ha) demle,"tired, weary"
+296-170,trum1247,http://concepticon.clld.org/parameters/168,(ha) fatɬtɨtaʔ,rest
+296-14,trum1247,http://concepticon.clld.org/parameters/1564,(ha) dekʔ,lazy
+296-199,trum1247,http://concepticon.clld.org/parameters/1125,kutʔa šap,bald
+296-105,trum1247,http://concepticon.clld.org/parameters/996,faʔtsa tak ha šɨ,deaf
+296-237,trum1247,http://concepticon.clld.org/parameters/1666,ami-tkek,mute
+296-367,trum1247,http://concepticon.clld.org/parameters/1653,xon tak-e,blind
+296-260,trum1247,http://concepticon.clld.org/parameters/1336,(ha) ma,eat
+296-229,trum1247,http://concepticon.clld.org/parameters/256,(iau) pan,food
+296-64,trum1247,http://concepticon.clld.org/parameters/1959,tsʔido,raw
+296-600,trum1247,http://concepticon.clld.org/parameters/1959,tsido,raw
+296-49,trum1247,http://concepticon.clld.org/parameters/178,latne,ripe
+296-384,trum1247,http://concepticon.clld.org/parameters/1728,xeʔne xeʔne,rotten
+296-23,trum1247,http://concepticon.clld.org/parameters/1401,sone,drink
+296-451,trum1247,http://concepticon.clld.org/parameters/1533,(ha)-atsi uatɨma,hunger
+296-239,trum1247,http://concepticon.clld.org/parameters/199,ameotɬe,famine
+296-463,trum1247,http://concepticon.clld.org/parameters/1421,(ha) xom,suck
+296-285,trum1247,http://concepticon.clld.org/parameters/1421,(ha) xopla,suck
+296-471,trum1247,http://concepticon.clld.org/parameters/321,maptsʔapa,chew
+296-401,trum1247,http://concepticon.clld.org/parameters/1100,(ha) olem,cook
+296-418,trum1247,http://concepticon.clld.org/parameters/792,pdoko,boil (vb)
+296-623,trum1247,http://concepticon.clld.org/parameters/792,pdoko-ka-n,boil (vb)
+296-359,trum1247,http://concepticon.clld.org/parameters/1462,atla,"pot, cooking vessel"
+296-152,trum1247,http://concepticon.clld.org/parameters/1462,atɬane,"pot, cooking vessel"
+296-605,trum1247,http://concepticon.clld.org/parameters/1462,urumaš,"pot, cooking vessel"
+296-73,trum1247,http://concepticon.clld.org/parameters/1378,kuipeu,spoon
+296-490,trum1247,http://concepticon.clld.org/parameters/1352,taxu,knife (2)
+296-422,trum1247,http://concepticon.clld.org/parameters/275,deat-xut,peel
+296-63,trum1247,http://concepticon.clld.org/parameters/86,urupem,"sieve, strain"
+296-85,trum1247,http://concepticon.clld.org/parameters/1767,(ha) fitke fitke,scrape
+296-370,trum1247,http://concepticon.clld.org/parameters/1767,tsixu-tsixu-n,scrape
+296-473,trum1247,http://concepticon.clld.org/parameters/1767,(ha) tɨšɨ,scrape
+296-284,trum1247,http://concepticon.clld.org/parameters/2017,(haits) parau-ka-n,"stir, mix"
+296-358,trum1247,http://concepticon.clld.org/parameters/2017,[parau],"stir, mix"
+296-108,trum1247,http://concepticon.clld.org/parameters/273,paratɨ,dough
+296-103,trum1247,http://concepticon.clld.org/parameters/274,(ha) niʔtsapa,knead
+296-542,trum1247,http://concepticon.clld.org/parameters/1594,karima,"meal, flour"
+296-55,trum1247,http://concepticon.clld.org/parameters/1547,sux,"soup, broth"
+296-111,trum1247,http://concepticon.clld.org/parameters/832,kuman,bean
+296-338,trum1247,http://concepticon.clld.org/parameters/832,kumanaʔi,bean
+296-387,trum1247,http://concepticon.clld.org/parameters/593,mani,potato
+296-424,trum1247,http://concepticon.clld.org/parameters/593,mani dat̯,potato
+296-217,trum1247,http://concepticon.clld.org/parameters/1507,deat ~ deiat,fruit
+296-318,trum1247,http://concepticon.clld.org/parameters/191,tsinel,nut
+296-206,trum1247,http://concepticon.clld.org/parameters/323,tsʔa,"grease, fat"
+296-216,trum1247,http://concepticon.clld.org/parameters/1274,iakɨr tsido,salt
+296-2,trum1247,http://concepticon.clld.org/parameters/1385,šɨšɨk,pepper
+296-294,trum1247,http://concepticon.clld.org/parameters/1385,šɨšɨk atoho / atoxo,pepper
+296-89,trum1247,http://concepticon.clld.org/parameters/942,aus tsʔa,honey
+296-137,trum1247,http://concepticon.clld.org/parameters/862,aroxo-roxo-k,sugar
+296-238,trum1247,http://concepticon.clld.org/parameters/731,sone-kuaš,"beverage, drink"
+296-630,trum1247,http://concepticon.clld.org/parameters/404,latne šɨšɨšɨšɨ,fermented drink
+296-582,trum1247,http://concepticon.clld.org/parameters/744,taf / t̯af (?),egg
+296-169,trum1247,http://concepticon.clld.org/parameters/1556,taf-ni,egg yolk
+296-362,trum1247,http://concepticon.clld.org/parameters/1895,mut,"clothing, clothes"
+296-46,trum1247,http://concepticon.clld.org/parameters/1850,amundiu,cotton
+296-466,trum1247,http://concepticon.clld.org/parameters/1457,(ha) maska,sew
+296-460,trum1247,http://concepticon.clld.org/parameters/157,kut xotan,dye
+296-408,trum1247,http://concepticon.clld.org/parameters/917,paraua,"ornament, adornment"
+296-565,trum1247,http://concepticon.clld.org/parameters/1754,atos usa,bracelet
+296-12,trum1247,http://concepticon.clld.org/parameters/1754,katnap usa,bracelet
+296-365,trum1247,http://concepticon.clld.org/parameters/1961,mus,necklace
+296-185,trum1247,http://concepticon.clld.org/parameters/1961,petʔe,necklace
+296-155,trum1247,http://concepticon.clld.org/parameters/1961,iatɨtla mɨʔɨrela,necklace
+296-123,trum1247,http://concepticon.clld.org/parameters/1860,mɨʔɨraw,bead
+296-240,trum1247,http://concepticon.clld.org/parameters/770,(ha) fa (fa-ake),earring
+296-87,trum1247,http://concepticon.clld.org/parameters/68,(iau) kanap šašxo,tattoo
+296-236,trum1247,http://concepticon.clld.org/parameters/1475,kuau,comb
+296-224,trum1247,http://concepticon.clld.org/parameters/1475,tete (ha) kuš,comb
+296-496,trum1247,http://concepticon.clld.org/parameters/1099,laka,"dwell, live"
+296-599,trum1247,http://concepticon.clld.org/parameters/1099,ilaka,"dwell, live"
+296-551,trum1247,http://concepticon.clld.org/parameters/1252,pike,house
+296-107,trum1247,http://concepticon.clld.org/parameters/1252,dat̯,house
+296-306,trum1247,http://concepticon.clld.org/parameters/408,fetɬtat,men's house
+296-208,trum1247,http://concepticon.clld.org/parameters/1567,talel,"door, gate"
+296-282,trum1247,http://concepticon.clld.org/parameters/1012,talel ɨš,"latch, door-bolt"
+296-583,trum1247,http://concepticon.clld.org/parameters/1663,ueset̯,bed
+296-438,trum1247,http://concepticon.clld.org/parameters/1663,esak uanta,bed
+296-583,trum1247,http://concepticon.clld.org/parameters/745,ueset̯,shelf
+296-452,trum1247,http://concepticon.clld.org/parameters/279,damok,thatch
+296-289,trum1247,http://concepticon.clld.org/parameters/281,ɨš,"post, pole"
+296-15,trum1247,http://concepticon.clld.org/parameters/281,piririuke-ɨš,"post, pole"
+296-212,trum1247,http://concepticon.clld.org/parameters/212,kutʔa,field (for cultivation)
+296-319,trum1247,http://concepticon.clld.org/parameters/1690,ɨuɨr xomama,fence
+296-389,trum1247,http://concepticon.clld.org/parameters/1418,(ha)xot̯ken,dig
+296-113,trum1247,http://concepticon.clld.org/parameters/1418,xot̯ken-e,dig
+296-522,trum1247,http://concepticon.clld.org/parameters/337,eteʔlok,fork
+296-619,trum1247,http://concepticon.clld.org/parameters/714,tɨl,seed
+296-56,trum1247,http://concepticon.clld.org/parameters/506,ot̯et̯,"maize, corn"
+296-395,trum1247,http://concepticon.clld.org/parameters/926,[arosa],rice
+296-271,trum1247,http://concepticon.clld.org/parameters/606,kutat,grass
+296-584,trum1247,http://concepticon.clld.org/parameters/606,kuian,grass
+296-192,trum1247,http://concepticon.clld.org/parameters/1486,(ha) falomle,plant (vb)
+296-181,trum1247,http://concepticon.clld.org/parameters/670,oke,root
+296-141,trum1247,http://concepticon.clld.org/parameters/670,ɨuɨr maksi,root
+296-487,trum1247,http://concepticon.clld.org/parameters/628,sida ~ siʔda,leaf
+296-139,trum1247,http://concepticon.clld.org/parameters/974,fi,tobacco
+296-463,trum1247,http://concepticon.clld.org/parameters/1689,(ha) xom,smoke (tobacco)
+296-475,trum1247,http://concepticon.clld.org/parameters/241,ɨuɨr ša,tree stump
+296-289,trum1247,http://concepticon.clld.org/parameters/344,ɨš,tree trunk
+296-242,trum1247,http://concepticon.clld.org/parameters/409,ɨuɨr inuki,forked branch
+296-25,trum1247,http://concepticon.clld.org/parameters/1204,deifta,bark
+296-594,trum1247,http://concepticon.clld.org/parameters/1181,inai tɬe i,palm tree
+296-561,trum1247,http://concepticon.clld.org/parameters/1181,kaatɬet,palm tree
+296-479,trum1247,http://concepticon.clld.org/parameters/1181,isinke tɬe i,palm tree
+296-387,trum1247,http://concepticon.clld.org/parameters/159,mani,sweet potato
+296-528,trum1247,http://concepticon.clld.org/parameters/925,ole,"tapioca, manioc, cassava"
+296-3,trum1247,http://concepticon.clld.org/parameters/925,ale,"tapioca, manioc, cassava"
+296-290,trum1247,http://concepticon.clld.org/parameters/925,maisauarɨ,"tapioca, manioc, cassava"
+296-186,trum1247,http://concepticon.clld.org/parameters/411,ɨʔa,gourd
+296-193,trum1247,http://concepticon.clld.org/parameters/864,uaruta,"pumpkin, squash"
+296-632,trum1247,http://concepticon.clld.org/parameters/146,kanauiia,sugar cane
+296-601,trum1247,http://concepticon.clld.org/parameters/348,katlis,fish poison (root)
+296-115,trum1247,http://concepticon.clld.org/parameters/813,šuda,"do, make"
+296-615,trum1247,http://concepticon.clld.org/parameters/984,xuʔkat,work
+296-468,trum1247,http://concepticon.clld.org/parameters/1470,xošman (ha),fold
+296-90,trum1247,http://concepticon.clld.org/parameters/1917,(ha) sauken,"tie, bind"
+296-90,trum1247,http://concepticon.clld.org/parameters/1218,(ha) sauken,"rope, cord"
+296-34,trum1247,http://concepticon.clld.org/parameters/1432,(ha) šɨ,cut
+296-166,trum1247,http://concepticon.clld.org/parameters/1432,(haits) naha,cut
+296-149,trum1247,http://concepticon.clld.org/parameters/355,(haits) ɨuɨr šetsi-ka,cut down
+296-490,trum1247,http://concepticon.clld.org/parameters/1352,taxu,knife
+296-311,trum1247,http://concepticon.clld.org/parameters/677,iau=šɨ=kuaš,ax
+296-382,trum1247,http://concepticon.clld.org/parameters/680,(haits) tususa-taxaxne-ka,break
+296-574,trum1247,http://concepticon.clld.org/parameters/1735,(ha) ɨen,tear
+296-151,trum1247,http://concepticon.clld.org/parameters/291,lenka,"flay, skin"
+296-178,trum1247,http://concepticon.clld.org/parameters/1449,(haits) kɨtɨ kɨtɨu,"rub, wipe"
+296-413,trum1247,http://concepticon.clld.org/parameters/1455,txtʔtsi,pull
+296-580,trum1247,http://concepticon.clld.org/parameters/38,(haits kuman) tʔaxpan,spread out
+296-492,trum1247,http://concepticon.clld.org/parameters/357,(ha) tonela,hang up
+296-332,trum1247,http://concepticon.clld.org/parameters/357,tonela-la-n,hang up
+296-180,trum1247,http://concepticon.clld.org/parameters/1414,(haits) dima-n,"squeeze, wring"
+296-553,trum1247,http://concepticon.clld.org/parameters/1453,(haits)-xoxan-e,wash
+296-136,trum1247,http://concepticon.clld.org/parameters/230,(ha) piʔpir,sweep
+296-581,trum1247,http://concepticon.clld.org/parameters/1971,tupe,fan (noun)
+296-621,trum1247,http://concepticon.clld.org/parameters/360,(ha) laf laf,fan (vb)
+296-52,trum1247,http://concepticon.clld.org/parameters/647,maxkeua,paint (noun)
+296-539,trum1247,http://concepticon.clld.org/parameters/2001,(ha) pɨtan,paint (vb)
+296-313,trum1247,http://concepticon.clld.org/parameters/1588,(haits) uaman-e,turn over
+296-350,trum1247,http://concepticon.clld.org/parameters/501,(ha) lakida,"raise, lift"
+296-546,trum1247,http://concepticon.clld.org/parameters/1280,uapta(-n),fall
+296-396,trum1247,http://concepticon.clld.org/parameters/2253,(haits) akʔax-ka,drip
+296-207,trum1247,http://concepticon.clld.org/parameters/702,(ha) api,catch (ball)
+296-205,trum1247,http://concepticon.clld.org/parameters/1909,(haits) sa-ka(-n),shake
+296-288,trum1247,http://concepticon.clld.org/parameters/2003,misu tururu,flow
+296-441,trum1247,http://concepticon.clld.org/parameters/1088,(ha) pešma,sink
+296-322,trum1247,http://concepticon.clld.org/parameters/1439,(ha) laf,swim
+296-534,trum1247,http://concepticon.clld.org/parameters/119,(ha) asima,dive
+296-201,trum1247,http://concepticon.clld.org/parameters/1441,piuda-n,fly (vb)
+296-322,trum1247,http://concepticon.clld.org/parameters/175,(ha) laf,blow
+296-176,trum1247,http://concepticon.clld.org/parameters/66,tedakok (ha) atsi,kneel
+296-589,trum1247,http://concepticon.clld.org/parameters/296,pits fi-t (ha) atsi,crouch
+296-525,trum1247,http://concepticon.clld.org/parameters/296,(ha) aʔtsi,crouch
+296-423,trum1247,http://concepticon.clld.org/parameters/1324,(ha) pits ɨrɨrɨu,"slide, slip"
+296-263,trum1247,http://concepticon.clld.org/parameters/1829,(ha) ašɨ=kida,"jump, leap"
+296-543,trum1247,http://concepticon.clld.org/parameters/1879,(iauʔ) sa,dance
+296-280,trum1247,http://concepticon.clld.org/parameters/1443,(ha) kaʔšɨ-kiua,walk
+296-31,trum1247,http://concepticon.clld.org/parameters/1443,(ha) kaašɨ,walk
+296-65,trum1247,http://concepticon.clld.org/parameters/1519,(ha) peš,run
+296-633,trum1247,http://concepticon.clld.org/parameters/705,(ha) uakʔde,go up
+296-360,trum1247,http://concepticon.clld.org/parameters/2014,(ha) šetsi,go down
+296-98,trum1247,http://concepticon.clld.org/parameters/581,(ha)-uamu de,come back
+296-533,trum1247,http://concepticon.clld.org/parameters/1752,(ha) uamu,"go away, depart"
+296-102,trum1247,http://concepticon.clld.org/parameters/485,pušu(-n),disappear
+296-312,trum1247,http://concepticon.clld.org/parameters/485,pušu ptsʔa-n,disappear
+296-179,trum1247,http://concepticon.clld.org/parameters/956,(iau)-fui iaka,flee
+296-307,trum1247,http://concepticon.clld.org/parameters/1085,(ha) metsi,follow
+296-434,trum1247,http://concepticon.clld.org/parameters/1778,(ha) peš uakden,approach
+296-510,trum1247,http://concepticon.clld.org/parameters/749,(ha) pumu,enter
+296-548,trum1247,http://concepticon.clld.org/parameters/700,(haits) eeʔtsi,carry (bear)
+296-366,trum1247,http://concepticon.clld.org/parameters/413,(ha) miuda-ki etsi,carry-on-shoulder
+296-461,trum1247,http://concepticon.clld.org/parameters/414,(ha) kutama-n etsi (haits),carry-on-head
+296-443,trum1247,http://concepticon.clld.org/parameters/692,uauakti,bring
+296-57,trum1247,http://concepticon.clld.org/parameters/1127,(ha) tao tao,send
+296-426,trum1247,http://concepticon.clld.org/parameters/1452,(haits) tɨrɨrɨu,"push, shove"
+296-82,trum1247,http://concepticon.clld.org/parameters/2252,tsiuel,path
+296-146,trum1247,http://concepticon.clld.org/parameters/1970,si,canoe
+296-27,trum1247,http://concepticon.clld.org/parameters/108,anat,oar
+296-34,trum1247,http://concepticon.clld.org/parameters/1849,(ha) šɨ,row (vb)
+296-430,trum1247,http://concepticon.clld.org/parameters/1922,(ha) datsi himila,land (vb)
+296-202,trum1247,http://concepticon.clld.org/parameters/773,(ha) amo,have
+296-381,trum1247,http://concepticon.clld.org/parameters/1477,(haits) karakatu-ka-n (haits),"keep, retain"
+296-277,trum1247,http://concepticon.clld.org/parameters/738,tiro tiro,thing
+296-474,trum1247,http://concepticon.clld.org/parameters/1447,(haits)-kɨtɨ,give
+296-301,trum1247,http://concepticon.clld.org/parameters/1468,(ha) peš-kaua,"seek, look for"
+296-425,trum1247,http://concepticon.clld.org/parameters/719,(haits) xomne-n,find
+296-140,trum1247,http://concepticon.clld.org/parameters/1660,(haits) tsifan pušu-k,lose
+296-427,trum1247,http://concepticon.clld.org/parameters/1674,pariiau,poor
+296-268,trum1247,http://concepticon.clld.org/parameters/1774,(ha) ueš,"avaricious, stingy"
+296-575,trum1247,http://concepticon.clld.org/parameters/2135,pap,"trade, barter"
+296-154,trum1247,http://concepticon.clld.org/parameters/2135,panu,"trade, barter"
+296-380,trum1247,http://concepticon.clld.org/parameters/884,(ha) detne,share (distribute)
+296-432,trum1247,http://concepticon.clld.org/parameters/1685,in-tsatske-hen,after
+296-320,trum1247,http://concepticon.clld.org/parameters/1606,faxo-n,"inside, in"
+296-447,trum1247,http://concepticon.clld.org/parameters/762,mata-n,outside
+296-353,trum1247,http://concepticon.clld.org/parameters/762,mata-ki,outside
+296-593,trum1247,http://concepticon.clld.org/parameters/762,mata-lots,outside
+296-161,trum1247,http://concepticon.clld.org/parameters/723,latʔa,place
+296-210,trum1247,http://concepticon.clld.org/parameters/998,(ha)-tsitsu,put
+296-78,trum1247,http://concepticon.clld.org/parameters/1416,ahaʔtsi,sit
+296-77,trum1247,http://concepticon.clld.org/parameters/215,(ha) tsula,lie down
+296-597,trum1247,http://concepticon.clld.org/parameters/1442,ualala,stand
+296-129,trum1247,http://concepticon.clld.org/parameters/987,kiuan,"remain, stay"
+296-622,trum1247,http://concepticon.clld.org/parameters/838,tapša(-ake),"remains, left overs"
+296-375,trum1247,http://concepticon.clld.org/parameters/1576,pukuru,pile up
+296-167,trum1247,http://concepticon.clld.org/parameters/1743,kotʔkan-e (haits),"join, unite"
+296-256,trum1247,http://concepticon.clld.org/parameters/1156,(ha) analat̯-ka,open
+296-171,trum1247,http://concepticon.clld.org/parameters/1046,(haits pike xop) mahan,"shut, close"
+296-133,trum1247,http://concepticon.clld.org/parameters/761,mape mape,cover
+296-467,trum1247,http://concepticon.clld.org/parameters/602,(haits)-tsifan puma,"hide, conceal"
+296-372,trum1247,http://concepticon.clld.org/parameters/1265,atuk,high
+296-304,trum1247,http://concepticon.clld.org/parameters/721,kod-ke,low
+296-478,trum1247,http://concepticon.clld.org/parameters/1753,taxmu-n,top
+296-634,trum1247,http://concepticon.clld.org/parameters/690,iia,bottom
+296-112,trum1247,http://concepticon.clld.org/parameters/863,mala,edge
+296-414,trum1247,http://concepticon.clld.org/parameters/682,aien,side
+296-364,trum1247,http://concepticon.clld.org/parameters/1019,kiʔta šɨ-k,right (side)
+296-333,trum1247,http://concepticon.clld.org/parameters/244,teponik,left (side)
+296-567,trum1247,http://concepticon.clld.org/parameters/1942,fuik,near (adv)
+296-309,trum1247,http://concepticon.clld.org/parameters/1942,fuik-man,near (adv)
+296-457,trum1247,http://concepticon.clld.org/parameters/1406,fuik-tak,far (adv)
+296-174,trum1247,http://concepticon.clld.org/parameters/1877,atetla-lak-ta,east
+296-35,trum1247,http://concepticon.clld.org/parameters/1817,atetɬa lak-mu-kuaš,west
+296-226,trum1247,http://concepticon.clld.org/parameters/1598,kepek,north
+296-252,trum1247,http://concepticon.clld.org/parameters/1595,lapo,south
+296-512,trum1247,http://concepticon.clld.org/parameters/479,(ha) pɨt̯e,grow
+296-481,trum1247,http://concepticon.clld.org/parameters/1202,daii,"large, big"
+296-218,trum1247,http://concepticon.clld.org/parameters/1246,kod ~ kot,"small, little"
+296-442,trum1247,http://concepticon.clld.org/parameters/1246,pat,"small, little"
+296-372,trum1247,http://concepticon.clld.org/parameters/1203,atuk,long
+296-109,trum1247,http://concepticon.clld.org/parameters/1203,atuk iii,long
+296-560,trum1247,http://concepticon.clld.org/parameters/711,pɨx kain ha šɨ,tall
+296-374,trum1247,http://concepticon.clld.org/parameters/711,pɨx iii,tall
+296-480,trum1247,http://concepticon.clld.org/parameters/1645,toxox (iii),short
+296-454,trum1247,http://concepticon.clld.org/parameters/1243,mata-e,"wide, broad"
+296-13,trum1247,http://concepticon.clld.org/parameters/1267,ɨtkatla,narrow
+296-603,trum1247,http://concepticon.clld.org/parameters/1244,ɨrɨra,thick (in dimension)
+296-97,trum1247,http://concepticon.clld.org/parameters/1244,iie,thick (in dimension)
+296-371,trum1247,http://concepticon.clld.org/parameters/1400,torek-ta,thin (in dimension)
+296-305,trum1247,http://concepticon.clld.org/parameters/1404,tsʔax (hit),straight
+296-69,trum1247,http://concepticon.clld.org/parameters/297,naša,crooked
+296-419,trum1247,http://concepticon.clld.org/parameters/1071,ɨuɨr olok,hook
+296-279,trum1247,http://concepticon.clld.org/parameters/1395,tsiʔxumama ~ tsixoʔmama,round
+296-571,trum1247,http://concepticon.clld.org/parameters/1667,ouou,hole
+296-550,trum1247,http://concepticon.clld.org/parameters/1558,nauan,"like, similar"
+296-529,trum1247,http://concepticon.clld.org/parameters/1515,mihin,one
+296-324,trum1247,http://concepticon.clld.org/parameters/1498,uuš,two
+296-182,trum1247,http://concepticon.clld.org/parameters/492,uštaxme,three
+296-182,trum1247,http://concepticon.clld.org/parameters/1500,uštaxme,four
+296-361,trum1247,http://concepticon.clld.org/parameters/493,nekatkelan,five
+296-246,trum1247,http://concepticon.clld.org/parameters/1198,paine,"much, many"
+296-335,trum1247,http://concepticon.clld.org/parameters/1198,adɨ,"much, many"
+296-303,trum1247,http://concepticon.clld.org/parameters/1198,pɨx,"much, many"
+296-527,trum1247,http://concepticon.clld.org/parameters/1992,taš,more
+296-184,trum1247,http://concepticon.clld.org/parameters/1881,iakadehen,enough
+296-385,trum1247,http://concepticon.clld.org/parameters/1241,adɨ iumane tak tenuk,some
+296-53,trum1247,http://concepticon.clld.org/parameters/1429,xol,full
+296-44,trum1247,http://concepticon.clld.org/parameters/779,xot,"part, piece"
+296-330,trum1247,http://concepticon.clld.org/parameters/728,lapno,first
+296-213,trum1247,http://concepticon.clld.org/parameters/1231,xodae (pike),new
+296-410,trum1247,http://concepticon.clld.org/parameters/1231,xodae(-ake),new
+296-379,trum1247,http://concepticon.clld.org/parameters/1229,tɨuai (pike),old
+296-79,trum1247,http://concepticon.clld.org/parameters/1229,tɨuai-ake,old
+296-351,trum1247,http://concepticon.clld.org/parameters/1963,manlo,immediately
+296-39,trum1247,http://concepticon.clld.org/parameters/1963,mlo,immediately
+296-323,trum1247,http://concepticon.clld.org/parameters/701,kometani,slow
+296-230,trum1247,http://concepticon.clld.org/parameters/425,(ha) uatɨma,"retard, delay"
+296-579,trum1247,http://concepticon.clld.org/parameters/1806,napta,"begin, beginning"
+296-577,trum1247,http://concepticon.clld.org/parameters/743,inan de,end (temporal)
+296-406,trum1247,http://concepticon.clld.org/parameters/1766,(ha) pɨreu,finish
+296-74,trum1247,http://concepticon.clld.org/parameters/1766,uanle,finish
+296-110,trum1247,http://concepticon.clld.org/parameters/1928,(ha) laʔtsiʔta,"cease, stop"
+296-568,trum1247,http://concepticon.clld.org/parameters/1676,kauala,always
+296-48,trum1247,http://concepticon.clld.org/parameters/1260,kuiatan-e,day
+296-411,trum1247,http://concepticon.clld.org/parameters/1233,šanixnis,night
+296-464,trum1247,http://concepticon.clld.org/parameters/729,xodaka,dawn
+296-233,trum1247,http://concepticon.clld.org/parameters/1339,xodaka-es,morning
+296-509,trum1247,http://concepticon.clld.org/parameters/12,tamulan,"noon, midday"
+296-578,trum1247,http://concepticon.clld.org/parameters/1807,šai,afternoon
+296-456,trum1247,http://concepticon.clld.org/parameters/1807,texmu-n,afternoon
+296-486,trum1247,http://concepticon.clld.org/parameters/1329,kodaka-ki,tomorrow
+296-28,trum1247,http://concepticon.clld.org/parameters/376,lenxot,"fragrant, good smelling"
+296-483,trum1247,http://concepticon.clld.org/parameters/42,xotʔno-xotʔnox,"stinking, bad smelling"
+296-42,trum1247,http://concepticon.clld.org/parameters/21,(ha) ma uakpitʔa,taste
+296-513,trum1247,http://concepticon.clld.org/parameters/717,tsʔaʔ tsʔae,sweet
+296-412,trum1247,http://concepticon.clld.org/parameters/887,tsʔaʔ tsʔae tak,bitter
+296-121,trum1247,http://concepticon.clld.org/parameters/1906,tsi šɨšɨš,"acid, sour"
+296-68,trum1247,http://concepticon.clld.org/parameters/1408,(ha) fatsʔa,hear
+296-22,trum1247,http://concepticon.clld.org/parameters/1608,uana fat-xol-a-ik,listen
+296-398,trum1247,http://concepticon.clld.org/parameters/1409,(ha) xuʔtsa,see
+296-80,trum1247,http://concepticon.clld.org/parameters/1039,(haits) uaptɨ-ka-n,show
+296-47,trum1247,http://concepticon.clld.org/parameters/708,omt̯e omt̯e,shine
+296-363,trum1247,http://concepticon.clld.org/parameters/250,tsi-hu kana,light (in color)
+296-188,trum1247,http://concepticon.clld.org/parameters/706,tsi-hu daʔt̯e,dark (in color)
+296-269,trum1247,http://concepticon.clld.org/parameters/1335,tsi-tore,white
+296-107,trum1247,http://concepticon.clld.org/parameters/163,dat̯,black
+296-428,trum1247,http://concepticon.clld.org/parameters/163,tsi-dat̯,black
+296-134,trum1247,http://concepticon.clld.org/parameters/156,tsi-omat̯,red
+296-337,trum1247,http://concepticon.clld.org/parameters/837,tsi-auu,blue
+296-142,trum1247,http://concepticon.clld.org/parameters/1425,ure ure ue nauan šɨ-k,green
+296-21,trum1247,http://concepticon.clld.org/parameters/1424,tsi-aiixu,yellow
+296-316,trum1247,http://concepticon.clld.org/parameters/1079,(haits) matsi-n,feel
+296-159,trum1247,http://concepticon.clld.org/parameters/1884,ataxa,hard
+296-482,trum1247,http://concepticon.clld.org/parameters/1884,taxa,hard
+296-521,trum1247,http://concepticon.clld.org/parameters/1856,arikit-kek,soft
+296-165,trum1247,http://concepticon.clld.org/parameters/1856,tsʔexe tsʔexe,soft
+296-247,trum1247,http://concepticon.clld.org/parameters/1234,(ha) kuš tsʔax-ka,smooth
+296-91,trum1247,http://concepticon.clld.org/parameters/1210,tsidatox,heavy
+296-131,trum1247,http://concepticon.clld.org/parameters/1726,tsi-xexere (?),"wet, damp"
+296-520,trum1247,http://concepticon.clld.org/parameters/1398,uatɨta,dry
+296-403,trum1247,http://concepticon.clld.org/parameters/1398,tsʔa tak,dry
+296-243,trum1247,http://concepticon.clld.org/parameters/1286,soso,hot
+296-251,trum1247,http://concepticon.clld.org/parameters/1232,(ha) apiʔsi,warm
+296-526,trum1247,http://concepticon.clld.org/parameters/1287,tsixuʔtsa,cold
+296-6,trum1247,http://concepticon.clld.org/parameters/1230,enɨ enɨ,"dirty, soiled"
+296-340,trum1247,http://concepticon.clld.org/parameters/380,(iau) xokdas-as,wrinkled
+296-262,trum1247,http://concepticon.clld.org/parameters/380,(iau) pɨtsas-as,wrinkled
+296-9,trum1247,http://concepticon.clld.org/parameters/53,(iau)-uelekuʔe,"soul, spirit"
+296-321,trum1247,http://concepticon.clld.org/parameters/1355,(ha) tɬat,laugh
+296-295,trum1247,http://concepticon.clld.org/parameters/1413,dain-e,play
+296-547,trum1247,http://concepticon.clld.org/parameters/923,(ha) puʔdits,love
+296-617,trum1247,http://concepticon.clld.org/parameters/1783,maʔdits,pain
+296-629,trum1247,http://concepticon.clld.org/parameters/1839,(ha) uatkan,"cry, weep"
+296-16,trum1247,http://concepticon.clld.org/parameters/1651,xon su,tear (noun)
+296-18,trum1247,http://concepticon.clld.org/parameters/82,(ha) fašɨš,anger
+296-266,trum1247,http://concepticon.clld.org/parameters/40,(ha) motne,"envy, jealousy"
+296-355,trum1247,http://concepticon.clld.org/parameters/1776,(ha) faɬtɨ,shame (noun)
+296-531,trum1247,http://concepticon.clld.org/parameters/174,(ha) dinaua,proud
+296-586,trum1247,http://concepticon.clld.org/parameters/3,(iau) taxer / taxer-e,brave
+296-261,trum1247,http://concepticon.clld.org/parameters/781,(ha) ɨtɨ,"fear, fright"
+296-254,trum1247,http://concepticon.clld.org/parameters/1810,ioxotɬ,danger
+296-147,trum1247,http://concepticon.clld.org/parameters/1657,piʔtsʔi(-ake),true
+296-329,trum1247,http://concepticon.clld.org/parameters/601,(ha) lat̯-ka,"lie, tell lies"
+296-175,trum1247,http://concepticon.clld.org/parameters/601,(ha) lat̯,"lie, tell lies"
+296-368,trum1247,http://concepticon.clld.org/parameters/13,(hai-ts) xota-ka-n,deceit
+296-517,trum1247,http://concepticon.clld.org/parameters/1035,deta,good
+296-607,trum1247,http://concepticon.clld.org/parameters/1035,ae,good
+296-530,trum1247,http://concepticon.clld.org/parameters/1035,tsi-pom,good
+296-30,trum1247,http://concepticon.clld.org/parameters/1292,faxden falen,bad
+296-93,trum1247,http://concepticon.clld.org/parameters/1292,ae-tak,bad
+296-394,trum1247,http://concepticon.clld.org/parameters/1725,tsʔax,"right, correct"
+296-625,trum1247,http://concepticon.clld.org/parameters/1687,(tsiia tsiia) iau xoʔtaka,praise
+296-327,trum1247,http://concepticon.clld.org/parameters/1427,erohen,beautiful
+296-378,trum1247,http://concepticon.clld.org/parameters/1548,ae-t-kek,ugly
+296-235,trum1247,http://concepticon.clld.org/parameters/1415,(ha) fax-la,think (= reflect)
+296-158,trum1247,http://concepticon.clld.org/parameters/1890,(ha) fatɬ-kamu,believe
+296-541,trum1247,http://concepticon.clld.org/parameters/1536,(ha) faʔtsa,understand
+296-281,trum1247,http://concepticon.clld.org/parameters/1410,(ha) xup,know
+296-444,trum1247,http://concepticon.clld.org/parameters/117,(haits)-tsifan ora fakane,imitate
+296-606,trum1247,http://concepticon.clld.org/parameters/1518,(iau)-nik-ik šɨ-k,"foolish, stupid"
+296-272,trum1247,http://concepticon.clld.org/parameters/504,ien ien,learn
+296-624,trum1247,http://concepticon.clld.org/parameters/709,(haits) xup-ka-n,teach
+296-234,trum1247,http://concepticon.clld.org/parameters/707,(ha) fala maʔta,remember
+296-241,trum1247,http://concepticon.clld.org/parameters/1523,(ha) fal pušu,forget
+296-195,trum1247,http://concepticon.clld.org/parameters/1626,(ha) amal,explain
+296-189,trum1247,http://concepticon.clld.org/parameters/584,keftat,difficult
+296-346,trum1247,http://concepticon.clld.org/parameters/1812,(ha) uakpita,"try, attempt"
+296-458,trum1247,http://concepticon.clld.org/parameters/1268,ale hen,"yes, affirmative"
+296-448,trum1247,http://concepticon.clld.org/parameters/1269,hahak,"no, negative"
+296-297,trum1247,http://concepticon.clld.org/parameters/1269,hahak-ukan,"no, negative"
+296-431,trum1247,http://concepticon.clld.org/parameters/1269,-kek,"no, negative"
+296-596,trum1247,http://concepticon.clld.org/parameters/1239,hele-am-nuk,how?
+296-555,trum1247,http://concepticon.clld.org/parameters/822,hele-tsis-kakšu-de,how many?
+296-376,trum1247,http://concepticon.clld.org/parameters/531,tuk,how much?
+296-611,trum1247,http://concepticon.clld.org/parameters/1236,hele=in,what?
+296-211,trum1247,http://concepticon.clld.org/parameters/1238,hele=tsis,when?
+296-494,trum1247,http://concepticon.clld.org/parameters/1237,ham,where?
+296-162,trum1247,http://concepticon.clld.org/parameters/727,hamosa,which?
+296-19,trum1247,http://concepticon.clld.org/parameters/1235,te,who?
+296-570,trum1247,http://concepticon.clld.org/parameters/1270,hele-in-tsiets,why?
+296-507,trum1247,http://concepticon.clld.org/parameters/1363,ami,voice
+296-298,trum1247,http://concepticon.clld.org/parameters/1363,pɨx ami mut,voice
+296-114,trum1247,http://concepticon.clld.org/parameters/1363,ami niptsʔik,voice
+296-168,trum1247,http://concepticon.clld.org/parameters/1261,(ha) ual,sing
+296-453,trum1247,http://concepticon.clld.org/parameters/715,(ha) ora,"shout, cry out"
+296-187,trum1247,http://concepticon.clld.org/parameters/715,(iau) ku,"shout, cry out"
+296-450,trum1247,http://concepticon.clld.org/parameters/55,tseʔle ami-n,whisper
+296-172,trum1247,http://concepticon.clld.org/parameters/1025,(ha) opo,whistle
+296-10,trum1247,http://concepticon.clld.org/parameters/1623,(ha) ami (hine-tl),"speak, talk"
+296-220,trum1247,http://concepticon.clld.org/parameters/1458,(ha) ami,say
+296-32,trum1247,http://concepticon.clld.org/parameters/1711,xoma xoma,tell story
+296-576,trum1247,http://concepticon.clld.org/parameters/48,tsʔele (ha šɨ),silent (be)
+296-511,trum1247,http://concepticon.clld.org/parameters/1405,taak(-ake),name
+296-559,trum1247,http://concepticon.clld.org/parameters/1309,(ha) amikpi,"ask (question, inquire)"
+296-308,trum1247,http://concepticon.clld.org/parameters/755,(ha) ualpuma,deny
+296-459,trum1247,http://concepticon.clld.org/parameters/1828,(ha) xod,"ask, request"
+296-245,trum1247,http://concepticon.clld.org/parameters/1672,kat šašxo,write
+296-545,trum1247,http://concepticon.clld.org/parameters/777,iakuʔi,flute
+296-299,trum1247,http://concepticon.clld.org/parameters/777,uruʔa,flute
+296-95,trum1247,http://concepticon.clld.org/parameters/930,ilaka (ha uan),village
+296-627,trum1247,http://concepticon.clld.org/parameters/789,axos-pa,people (populace)
+296-348,trum1247,http://concepticon.clld.org/parameters/301,aek,"chief, chieftain"
+296-255,trum1247,http://concepticon.clld.org/parameters/383,iar,master
+296-369,trum1247,http://concepticon.clld.org/parameters/1325,(haits hi) pine-ka,"friend, companion"
+296-214,trum1247,http://concepticon.clld.org/parameters/1782,šafa (ha),guest
+296-145,trum1247,http://concepticon.clld.org/parameters/1897,(haits hi) šuda-pine-ka,"help, aid"
+296-157,trum1247,http://concepticon.clld.org/parameters/1831,(ha) šo,meet
+296-514,trum1247,http://concepticon.clld.org/parameters/1423,(ha) uaxudi,fight (vb)
+296-519,trum1247,http://concepticon.clld.org/parameters/1763,nai,club
+296-470,trum1247,http://concepticon.clld.org/parameters/994,šɨšlaxma,bow
+296-127,trum1247,http://concepticon.clld.org/parameters/977,hit ~ hid,arrow
+296-518,trum1247,http://concepticon.clld.org/parameters/945,eše,spear
+296-573,trum1247,http://concepticon.clld.org/parameters/722,(haits) taxpan-e,attack
+296-125,trum1247,http://concepticon.clld.org/parameters/1074,pina,fishhook
+296-540,trum1247,http://concepticon.clld.org/parameters/19,pina-sa,fishing line
+296-417,trum1247,http://concepticon.clld.org/parameters/388,tɨkɨr-sa,fishnet
+296-341,trum1247,http://concepticon.clld.org/parameters/389,elepeke,fish trap
+296-86,trum1247,http://concepticon.clld.org/parameters/389,petɬe,fish trap
+296-455,trum1247,http://concepticon.clld.org/parameters/1435,e=lax-kaua-n,hunt
+296-341,trum1247,http://concepticon.clld.org/parameters/1075,elepeke,trap (noun)
+296-393,trum1247,http://concepticon.clld.org/parameters/713,iii kis-e,steal
+296-156,trum1247,http://concepticon.clld.org/parameters/1160,i-kis-in-šɨ-k,thief
+296-322,trum1247,http://concepticon.clld.org/parameters/24,(ha) laf,pray
+296-352,trum1247,http://concepticon.clld.org/parameters/2137,oke-iar,"sorcerer, witch"
+296-349,trum1247,http://concepticon.clld.org/parameters/107,marauan,"omen, portent"

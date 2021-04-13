@@ -1,0 +1,1120 @@
+ID,Language_ID,Feature_ID,Value,Concept
+172-381,enap1235,http://concepticon.clld.org/parameters/965,ano,world
+172-381,enap1235,http://concepticon.clld.org/parameters/626,ano,"earth, land"
+172-381,enap1235,http://concepticon.clld.org/parameters/1228,ano,"earth=ground, soil"
+172-735,enap1235,http://concepticon.clld.org/parameters/2,ano ičik,dust
+172-274,enap1235,http://concepticon.clld.org/parameters/640,pasakun,mud
+172-354,enap1235,http://concepticon.clld.org/parameters/671,mičin,sand
+172-854,enap1235,http://concepticon.clld.org/parameters/2118,iʔ,"mountain, hill"
+172-148,enap1235,http://concepticon.clld.org/parameters/618,iʔ tan,"cliff, precipice"
+172-769,enap1235,http://concepticon.clld.org/parameters/652,wanaʔ,"plain, field"
+172-532,enap1235,http://concepticon.clld.org/parameters/921,iʔ n-anahtə-hpə,valley
+172-381,enap1235,http://concepticon.clld.org/parameters/166,ano,mainland
+172-668,enap1235,http://concepticon.clld.org/parameters/113,mah-pana,shore
+172-522,enap1235,http://concepticon.clld.org/parameters/1155,toʔ yahtan,cave
+172-461,enap1235,http://concepticon.clld.org/parameters/948,tɨna,water
+172-500,enap1235,http://concepticon.clld.org/parameters/1474,tɨna yɨm,sea
+172-70,enap1235,http://concepticon.clld.org/parameters/259,tɨna w-as-amɨ-hpə kakəʔ,rough (of sea)
+172-92,enap1235,http://concepticon.clld.org/parameters/1768,t-yakoe,foam
+172-500,enap1235,http://concepticon.clld.org/parameters/645,tɨna yɨm,ocean
+172-500,enap1235,http://concepticon.clld.org/parameters/624,tɨna yɨm,lake
+172-318,enap1235,http://concepticon.clld.org/parameters/663,tɨna wɨsɨʔkə,"gulf, bay"
+172-193,enap1235,http://concepticon.clld.org/parameters/623,[rauna] pe mən,lagoon
+172-70,enap1235,http://concepticon.clld.org/parameters/978,tɨna w-as-amɨ-hpə kakəʔ,wave
+172-461,enap1235,http://concepticon.clld.org/parameters/666,tɨna,"river, stream, brook"
+172-361,enap1235,http://concepticon.clld.org/parameters/2144,tɨna w-at-ankapəh-sa,"spring, well"
+172-254,enap1235,http://concepticon.clld.org/parameters/1145,yɨkuhpə,swamp
+172-269,enap1235,http://concepticon.clld.org/parameters/943,t-yɨputuʔ,waterfall
+172-764,enap1235,http://concepticon.clld.org/parameters/420,ihča (/ih-ya/),"woods, forest"
+172-612,enap1235,http://concepticon.clld.org/parameters/906,iye,tree (cf 08.600)
+172-612,enap1235,http://concepticon.clld.org/parameters/1803,iye,wood
+172-203,enap1235,http://concepticon.clld.org/parameters/2125,toʔ,"stone, rock"
+172-518,enap1235,http://concepticon.clld.org/parameters/6,ano sɨrɨnma-toʔ,earthquake
+172-144,enap1235,http://concepticon.clld.org/parameters/1732,kaʔ,sky
+172-86,enap1235,http://concepticon.clld.org/parameters/1343,ehčerekun,sun
+172-406,enap1235,http://concepticon.clld.org/parameters/1313,wanə,moon
+172-343,enap1235,http://concepticon.clld.org/parameters/1430,kaʔ yakɨn,star
+172-838,enap1235,http://concepticon.clld.org/parameters/1654,t-učeɲama-k,lightning
+172-309,enap1235,http://concepticon.clld.org/parameters/1150,kanoʔ pərən,thunder
+172-618,enap1235,http://concepticon.clld.org/parameters/2007,-učeɲama-,lightning (as striking)
+172-39,enap1235,http://concepticon.clld.org/parameters/858,kanoʔ,storm
+172-400,enap1235,http://concepticon.clld.org/parameters/1733,amana t-yači,rainbow
+172-396,enap1235,http://concepticon.clld.org/parameters/630,y-uwiyu-n,light (noun)
+172-437,enap1235,http://concepticon.clld.org/parameters/11,kawaame,darkness
+172-763,enap1235,http://concepticon.clld.org/parameters/1388,tyuuna,"shade, shadow"
+172-682,enap1235,http://concepticon.clld.org/parameters/1977,kityo,dew
+172-519,enap1235,http://concepticon.clld.org/parameters/27,aipe n-a-sɨn,air
+172-85,enap1235,http://concepticon.clld.org/parameters/960,tyapapači,wind
+172-658,enap1235,http://concepticon.clld.org/parameters/1489,keʔɲato,cloud
+172-206,enap1235,http://concepticon.clld.org/parameters/249,kanoʔ ičik,fog
+172-39,enap1235,http://concepticon.clld.org/parameters/658,kanoʔ,rain (noun)
+172-37,enap1235,http://concepticon.clld.org/parameters/784,tɨʔnatəke mən,snow (noun)
+172-37,enap1235,http://concepticon.clld.org/parameters/617,tɨʔnatəke mən,ice
+172-17,enap1235,http://concepticon.clld.org/parameters/221,wahto,fire
+172-52,enap1235,http://concepticon.clld.org/parameters/889,wahto y-o-n,flame (noun)
+172-444,enap1235,http://concepticon.clld.org/parameters/778,wahto ičik,smoke (noun)
+172-868,enap1235,http://concepticon.clld.org/parameters/646,tukəənə,ashes
+172-17,enap1235,http://concepticon.clld.org/parameters/67,wahto,embers
+172-327,enap1235,http://concepticon.clld.org/parameters/141,-uka-,burn (vb trans)
+172-517,enap1235,http://concepticon.clld.org/parameters/1428,aʔ (-tɨ,burn (vb intrans)
+172-654,enap1235,http://concepticon.clld.org/parameters/1428,-ti),burn (vb intrans)
+172-768,enap1235,http://concepticon.clld.org/parameters/1428,yuwaatɨn,burn (vb intrans)
+172-666,enap1235,http://concepticon.clld.org/parameters/737,-ɨputuhtə-,"light, kindle, ignite"
+172-429,enap1235,http://concepticon.clld.org/parameters/127,-oɲehka-,extinguish
+172-17,enap1235,http://concepticon.clld.org/parameters/1133,wahto,match (noun)
+172-17,enap1235,http://concepticon.clld.org/parameters/10,wahto,firewood
+172-187,enap1235,http://concepticon.clld.org/parameters/1188,karamatə,charcoal
+172-349,enap1235,http://concepticon.clld.org/parameters/683,eʔɲapa,"person, human being"
+172-528,enap1235,http://concepticon.clld.org/parameters/1554,apok,man (vs. woman)
+172-150,enap1235,http://concepticon.clld.org/parameters/962,wɨnkɨk,woman
+172-528,enap1235,http://concepticon.clld.org/parameters/2263,apok,male
+172-150,enap1235,http://concepticon.clld.org/parameters/2260,wɨnkɨk,female
+172-691,enap1235,http://concepticon.clld.org/parameters/1366,apok ken,boy
+172-850,enap1235,http://concepticon.clld.org/parameters/76,tyikon,young man (adolescent)
+172-528,enap1235,http://concepticon.clld.org/parameters/76,apok,young man (adolescent)
+172-72,enap1235,http://concepticon.clld.org/parameters/1646,wɨnkɨk ken,girl
+172-850,enap1235,http://concepticon.clld.org/parameters/77,tyikon,young woman (adolescent)
+172-150,enap1235,http://concepticon.clld.org/parameters/77,wɨnkɨk,young woman (adolescent)
+172-628,enap1235,http://concepticon.clld.org/parameters/1304,-ken,child
+172-250,enap1235,http://concepticon.clld.org/parameters/1289,namča,"infant, baby"
+172-742,enap1235,http://concepticon.clld.org/parameters/1200,tamu-n,husband
+172-744,enap1235,http://concepticon.clld.org/parameters/1199,pɨk,wife
+172-246,enap1235,http://concepticon.clld.org/parameters/203,-ɨtamuh-ta-,marry
+172-22,enap1235,http://concepticon.clld.org/parameters/1259,tamu-n yantoʔ,"marriage, wedding"
+172-322,enap1235,http://concepticon.clld.org/parameters/1134,tamu-n pɨnka-,divorce
+172-916,enap1235,http://concepticon.clld.org/parameters/1217,yɨm,father
+172-325,enap1235,http://concepticon.clld.org/parameters/1216,y-anə,mother
+172-502,enap1235,http://concepticon.clld.org/parameters/1216,-anə,mother
+172-653,enap1235,http://concepticon.clld.org/parameters/505,iʔyaka-e,parents
+172-920,enap1235,http://concepticon.clld.org/parameters/424,tɨ-pɨ-ken,married man
+172-97,enap1235,http://concepticon.clld.org/parameters/426,tɨ-tamu-ken,married woman
+172-388,enap1235,http://concepticon.clld.org/parameters/1620,-əwan,son
+172-106,enap1235,http://concepticon.clld.org/parameters/1357,-yɨnsɨn,daughter
+172-145,enap1235,http://concepticon.clld.org/parameters/1801,nken,offspring (son or daughter)
+172-900,enap1235,http://concepticon.clld.org/parameters/1262,-yako,brother
+172-839,enap1235,http://concepticon.clld.org/parameters/1262,-pin,brother
+172-19,enap1235,http://concepticon.clld.org/parameters/1263,-ɲasuk,sister
+172-900,enap1235,http://concepticon.clld.org/parameters/1263,-yako,sister
+172-465,enap1235,http://concepticon.clld.org/parameters/1640,iʔyakae,sibling
+172-291,enap1235,http://concepticon.clld.org/parameters/1005,[moročo] pe,twins
+172-84,enap1235,http://concepticon.clld.org/parameters/1383,-əʔnahpən,grandfather
+172-439,enap1235,http://concepticon.clld.org/parameters/406,wačon pe mənək,old man
+172-335,enap1235,http://concepticon.clld.org/parameters/1496,-nok,grandmother
+172-137,enap1235,http://concepticon.clld.org/parameters/1496,wačon,grandmother
+172-439,enap1235,http://concepticon.clld.org/parameters/907,wačon pe mənək,old woman
+172-914,enap1235,http://concepticon.clld.org/parameters/1984,-y-awo-n,mother's brother
+172-796,enap1235,http://concepticon.clld.org/parameters/1985,yɨm yako,father's brother
+172-341,enap1235,http://concepticon.clld.org/parameters/171,-anə yako,mother's sister
+172-170,enap1235,http://concepticon.clld.org/parameters/170,-waʔɲaiʔɲe,father's sister
+172-900,enap1235,http://concepticon.clld.org/parameters/1643,-yako,cousin
+172-839,enap1235,http://concepticon.clld.org/parameters/1643,-pin,cousin
+172-19,enap1235,http://concepticon.clld.org/parameters/1643,-ɲasuk,cousin
+172-402,enap1235,http://concepticon.clld.org/parameters/1669,iʔyaka-e pɨ,ancestors
+172-870,enap1235,http://concepticon.clld.org/parameters/490,ken ken watanka-pəh-sa,descendants
+172-232,enap1235,http://concepticon.clld.org/parameters/2255,-pɨk čɨm,father-in-law (of a man)
+172-225,enap1235,http://concepticon.clld.org/parameters/2254,-tamun yɨm,father-in-law (of a woman)
+172-305,enap1235,http://concepticon.clld.org/parameters/2256,-pɨk čanə,mother-in-law (of a man)
+172-285,enap1235,http://concepticon.clld.org/parameters/2257,-tamun yanə,mother-in-law (of a woman)
+172-455,enap1235,http://concepticon.clld.org/parameters/2267,paamɨyɨm,son-in-law (of a man)
+172-823,enap1235,http://concepticon.clld.org/parameters/2267,tyɨnsɨn tamun,son-in-law (of a man)
+172-633,enap1235,http://concepticon.clld.org/parameters/2266,nken tamun,son-in-law (of a woman)
+172-101,enap1235,http://concepticon.clld.org/parameters/1149,namča čenka-sa,orphan
+172-490,enap1235,http://concepticon.clld.org/parameters/1756,wɨnkɨk čenka-sa,widow
+172-200,enap1235,http://concepticon.clld.org/parameters/1981,apok čenka-sa,widower
+172-653,enap1235,http://concepticon.clld.org/parameters/1644,iʔyaka-e,"relatives, kinsmen"
+172-653,enap1235,http://concepticon.clld.org/parameters/194,iʔyaka-e,family
+172-258,enap1235,http://concepticon.clld.org/parameters/1209,yu,I
+172-51,enap1235,http://concepticon.clld.org/parameters/1215,amən,you (singular)
+172-679,enap1235,http://concepticon.clld.org/parameters/262,mək,he/she/it
+172-211,enap1235,http://concepticon.clld.org/parameters/262,mukuh,he/she/it
+172-669,enap1235,http://concepticon.clld.org/parameters/1131,yuto-kon,we (inclusive)
+172-749,enap1235,http://concepticon.clld.org/parameters/1131,weʔɲəkon,we (inclusive)
+172-378,enap1235,http://concepticon.clld.org/parameters/1130,ana,we (exclusive)
+172-234,enap1235,http://concepticon.clld.org/parameters/1213,aɲimonton,you (plural)
+172-486,enap1235,http://concepticon.clld.org/parameters/817,kamonton,they
+172-706,enap1235,http://concepticon.clld.org/parameters/619,nəʔna,animal
+172-528,enap1235,http://concepticon.clld.org/parameters/2261,apok,male (adj)
+172-150,enap1235,http://concepticon.clld.org/parameters/2262,wɨnkɨk,female (adj)
+172-572,enap1235,http://concepticon.clld.org/parameters/631,tato yɨkɨ,livestock
+172-650,enap1235,http://concepticon.clld.org/parameters/649,wanaʔ yɨpun,pasture
+172-729,enap1235,http://concepticon.clld.org/parameters/263,tato yɨkɨ čenpa-ɲe,herdsman
+172-287,enap1235,http://concepticon.clld.org/parameters/851,tato yɨkɨ yɨwɨk,"stable, stall"
+172-347,enap1235,http://concepticon.clld.org/parameters/1153,[paʔka],cattle (bovine)
+172-790,enap1235,http://concepticon.clld.org/parameters/1008,[toro],bull
+172-347,enap1235,http://concepticon.clld.org/parameters/1007,[paʔka],cow
+172-632,enap1235,http://concepticon.clld.org/parameters/1989,[paʔka] nken,calf
+172-257,enap1235,http://concepticon.clld.org/parameters/1331,[oweha],sheep
+172-379,enap1235,http://concepticon.clld.org/parameters/1337,[kučiɲa],pig
+172-918,enap1235,http://concepticon.clld.org/parameters/1502,[čiwa],goat
+172-766,enap1235,http://concepticon.clld.org/parameters/615,[kawaare],horse (equine)
+172-508,enap1235,http://concepticon.clld.org/parameters/890,[mura],mule
+172-702,enap1235,http://concepticon.clld.org/parameters/265,tunko,fowl
+172-785,enap1235,http://concepticon.clld.org/parameters/1511,paraaru,"cock, rooster"
+172-785,enap1235,http://concepticon.clld.org/parameters/1514,paraaru,hen
+172-785,enap1235,http://concepticon.clld.org/parameters/1318,paraaru,chicken
+172-46,enap1235,http://concepticon.clld.org/parameters/1360,mičiči,duck
+172-442,enap1235,http://concepticon.clld.org/parameters/539,-po,nest
+172-702,enap1235,http://concepticon.clld.org/parameters/937,tunko,bird
+172-544,enap1235,http://concepticon.clld.org/parameters/758,waraka,heron
+172-286,enap1235,http://concepticon.clld.org/parameters/1905,yɨmuk,eagle
+172-286,enap1235,http://concepticon.clld.org/parameters/307,yɨmuk,hawk
+172-286,enap1235,http://concepticon.clld.org/parameters/1185,yɨmuk,vulture
+172-909,enap1235,http://concepticon.clld.org/parameters/1793,ɲinke,bat
+172-511,enap1235,http://concepticon.clld.org/parameters/882,ara,parrot
+172-132,enap1235,http://concepticon.clld.org/parameters/1853,tuwuk,dove
+172-512,enap1235,http://concepticon.clld.org/parameters/735,mɨrɨkɨ,owl
+172-35,enap1235,http://concepticon.clld.org/parameters/2009,kərənəpən,dog
+172-446,enap1235,http://concepticon.clld.org/parameters/1208,[miči],cat
+172-260,enap1235,http://concepticon.clld.org/parameters/309,awanke,opossum
+172-635,enap1235,http://concepticon.clld.org/parameters/2139,tɨnka,"mouse, rat"
+172-275,enap1235,http://concepticon.clld.org/parameters/227,kana,fish
+172-569,enap1235,http://concepticon.clld.org/parameters/213,-y-arako-e,fin (dorsal)
+172-719,enap1235,http://concepticon.clld.org/parameters/266,-puhpə,fishscale
+172-786,enap1235,http://concepticon.clld.org/parameters/1916,y-ɨntasɨkorʸo-e,gill
+172-719,enap1235,http://concepticon.clld.org/parameters/598,-puhpə,shell
+172-411,enap1235,http://concepticon.clld.org/parameters/1910,pankeik,stingray
+172-316,enap1235,http://concepticon.clld.org/parameters/1013,kariɲa,freshwater eel
+172-449,enap1235,http://concepticon.clld.org/parameters/1312,yoroko,fox
+172-888,enap1235,http://concepticon.clld.org/parameters/1936,wɨiki,deer
+172-283,enap1235,http://concepticon.clld.org/parameters/1350,kuhkuk,monkey
+172-706,enap1235,http://concepticon.clld.org/parameters/620,nəʔna,insect
+172-313,enap1235,http://concepticon.clld.org/parameters/310,sɨhpən,louse
+172-313,enap1235,http://concepticon.clld.org/parameters/267,sɨhpən,nit (louse egg)
+172-737,enap1235,http://concepticon.clld.org/parameters/232,səhpən,flea
+172-419,enap1235,http://concepticon.clld.org/parameters/1974,tyimeipe,centipede
+172-865,enap1235,http://concepticon.clld.org/parameters/1538,kayooka,scorpion
+172-704,enap1235,http://concepticon.clld.org/parameters/1575,kɨrɨsa,cockroach
+172-404,enap1235,http://concepticon.clld.org/parameters/587,anətə,ant
+172-2,enap1235,http://concepticon.clld.org/parameters/843,ankaya,spider
+172-371,enap1235,http://concepticon.clld.org/parameters/1065,ankaya meik,spider web
+172-827,enap1235,http://concepticon.clld.org/parameters/665,akamo,bee
+172-891,enap1235,http://concepticon.clld.org/parameters/88,akamo po,beehive
+172-827,enap1235,http://concepticon.clld.org/parameters/1517,akamo,wasp
+172-448,enap1235,http://concepticon.clld.org/parameters/1504,tyuwinke,fly
+172-382,enap1235,http://concepticon.clld.org/parameters/95,wɨnkə,"sandfly (midge), gnat"
+172-472,enap1235,http://concepticon.clld.org/parameters/1509,masak,mosquito
+172-169,enap1235,http://concepticon.clld.org/parameters/1219,winiči,worm
+172-118,enap1235,http://concepticon.clld.org/parameters/730,ake,snake
+172-23,enap1235,http://concepticon.clld.org/parameters/206,ompəkə,firefly
+172-619,enap1235,http://concepticon.clld.org/parameters/1791,kočapin,butterfly
+172-704,enap1235,http://concepticon.clld.org/parameters/607,kɨrɨsa,grasshopper
+172-696,enap1235,http://concepticon.clld.org/parameters/1543,waʔka,snail
+172-765,enap1235,http://concepticon.clld.org/parameters/503,kɨɨwo,frog
+172-820,enap1235,http://concepticon.clld.org/parameters/632,onkomin,lizard
+172-537,enap1235,http://concepticon.clld.org/parameters/1857,onwe,"crocodile, alligator"
+172-245,enap1235,http://concepticon.clld.org/parameters/112,yaʔra,turtle
+172-409,enap1235,http://concepticon.clld.org/parameters/1480,arʸe,body
+172-557,enap1235,http://concepticon.clld.org/parameters/763,-pi-hpə,"skin, hide"
+172-284,enap1235,http://concepticon.clld.org/parameters/2259,-puʔ,flesh
+172-282,enap1235,http://concepticon.clld.org/parameters/1040,-iʔ-pok,hair (head)
+172-356,enap1235,http://concepticon.clld.org/parameters/678,tansi pok,beard
+172-817,enap1235,http://concepticon.clld.org/parameters/36,yɨnəsɨ pok,pubic hair
+172-174,enap1235,http://concepticon.clld.org/parameters/946,meičuʔ,blood
+172-836,enap1235,http://concepticon.clld.org/parameters/525,-yowaɲeik,"vein, artery"
+172-504,enap1235,http://concepticon.clld.org/parameters/1394,-yəhpə,bone
+172-715,enap1235,http://concepticon.clld.org/parameters/801,-yoorʸo-e yəhpə,rib
+172-183,enap1235,http://concepticon.clld.org/parameters/1393,(...) pana səkən,horn
+172-248,enap1235,http://concepticon.clld.org/parameters/1220,-yɨtɨkɨn,tail
+172-62,enap1235,http://concepticon.clld.org/parameters/1291,-mpae,back
+172-219,enap1235,http://concepticon.clld.org/parameters/1256,-pu-n,head
+172-770,enap1235,http://concepticon.clld.org/parameters/1604,menya,"side of head, temple"
+172-87,enap1235,http://concepticon.clld.org/parameters/1605,-pu-n yəhpə,skull
+172-846,enap1235,http://concepticon.clld.org/parameters/1583,-pu-n y-aarɨ,brain
+172-541,enap1235,http://concepticon.clld.org/parameters/1560,-petya-,face
+172-734,enap1235,http://concepticon.clld.org/parameters/123,-yɨ-menya,forehead
+172-300,enap1235,http://concepticon.clld.org/parameters/798,petya yəhpə,jaw
+172-541,enap1235,http://concepticon.clld.org/parameters/1730,-petya-,cheek
+172-353,enap1235,http://concepticon.clld.org/parameters/1510,-y-amu-n,chin
+172-788,enap1235,http://concepticon.clld.org/parameters/1248,o,eye
+172-126,enap1235,http://concepticon.clld.org/parameters/1248,-y-o-n,eye
+172-296,enap1235,http://concepticon.clld.org/parameters/1173,onči poh-to,eyebrow
+172-671,enap1235,http://concepticon.clld.org/parameters/17,o pihpə,eyelid
+172-296,enap1235,http://concepticon.clld.org/parameters/1540,onči poh-to,eyelash
+172-441,enap1235,http://concepticon.clld.org/parameters/1655,yosomarʸeka-,blink
+172-721,enap1235,http://concepticon.clld.org/parameters/1247,-pana-,ear
+172-383,enap1235,http://concepticon.clld.org/parameters/18,pana y-irityu-n,earlobe
+172-222,enap1235,http://concepticon.clld.org/parameters/32,pana yakɨn weik,earwax
+172-326,enap1235,http://concepticon.clld.org/parameters/1221,-əəwa-,nose
+172-718,enap1235,http://concepticon.clld.org/parameters/1178,-əəwan y-ahta-n,nostril
+172-761,enap1235,http://concepticon.clld.org/parameters/208,tyəwarɨčakun,mucus (nasal)
+172-30,enap1235,http://concepticon.clld.org/parameters/674,ta,mouth
+172-485,enap1235,http://concepticon.clld.org/parameters/674,-ənta-,mouth
+172-30,enap1235,http://concepticon.clld.org/parameters/73,ta,beak
+172-485,enap1235,http://concepticon.clld.org/parameters/73,-ənta-,beak
+172-587,enap1235,http://concepticon.clld.org/parameters/478,ihpi,lip
+172-797,enap1235,http://concepticon.clld.org/parameters/1205,-iɲo-,tongue
+172-217,enap1235,http://concepticon.clld.org/parameters/1380,yə-,tooth
+172-129,enap1235,http://concepticon.clld.org/parameters/139,yə-n yapo,gums
+172-814,enap1235,http://concepticon.clld.org/parameters/1049,yə-n tosenpe mən,molartooth
+172-834,enap1235,http://concepticon.clld.org/parameters/1333,-pɨmɨ-,neck
+172-213,enap1235,http://concepticon.clld.org/parameters/1347,-pɨmɨ,nape of neck
+172-16,enap1235,http://concepticon.clld.org/parameters/1346,-waaru-,throat
+172-851,enap1235,http://concepticon.clld.org/parameters/1482,-mata-,shoulder
+172-26,enap1235,http://concepticon.clld.org/parameters/172,mata-n yəhpə,shoulderblade
+172-610,enap1235,http://concepticon.clld.org/parameters/1994,-karahpə-,collarbone
+172-224,enap1235,http://concepticon.clld.org/parameters/1673,-y-apə-,arm
+172-617,enap1235,http://concepticon.clld.org/parameters/1886,-y-ata,armpit
+172-394,enap1235,http://concepticon.clld.org/parameters/981,-piriči-,elbow
+172-375,enap1235,http://concepticon.clld.org/parameters/799,-eɲa-n y-araku-,wrist
+172-438,enap1235,http://concepticon.clld.org/parameters/1277,-eɲa-,hand
+172-510,enap1235,http://concepticon.clld.org/parameters/1183,-eɲa y-awa,palm of hand
+172-736,enap1235,http://concepticon.clld.org/parameters/1303,-eɲa-n yɨ-pu-n,finger
+172-329,enap1235,http://concepticon.clld.org/parameters/1781,-eɲan yɨpun yɨm pe mən,thumb
+172-344,enap1235,http://concepticon.clld.org/parameters/1258,-eɲa-n yɨ-pu-n y-o-n,fingernail
+172-54,enap1235,http://concepticon.clld.org/parameters/72,-ihta yɨpun,claw
+172-743,enap1235,http://concepticon.clld.org/parameters/800,-peik,thigh
+172-755,enap1235,http://concepticon.clld.org/parameters/800,peih-tyo,thigh
+172-488,enap1235,http://concepticon.clld.org/parameters/498,-y-uhsu-n,calf of leg
+172-674,enap1235,http://concepticon.clld.org/parameters/1371,-čeʔmu-,knee
+172-555,enap1235,http://concepticon.clld.org/parameters/1301,pata,foot
+172-925,enap1235,http://concepticon.clld.org/parameters/1301,y-ihta-,foot
+172-231,enap1235,http://concepticon.clld.org/parameters/803,-əʔraʔmu-,ankle
+172-574,enap1235,http://concepticon.clld.org/parameters/980,pata-n y-ɨmu-n,heel
+172-592,enap1235,http://concepticon.clld.org/parameters/318,ihta-hpə,footprint
+172-688,enap1235,http://concepticon.clld.org/parameters/1389,pata yɨ-pu-n,toe
+172-845,enap1235,http://concepticon.clld.org/parameters/1257,-apə,wing
+172-282,enap1235,http://concepticon.clld.org/parameters/1201,-iʔ-pok,feather
+172-926,enap1235,http://concepticon.clld.org/parameters/1592,-kupu-,chest
+172-207,enap1235,http://concepticon.clld.org/parameters/1402,mak,breast (of woman)
+172-739,enap1235,http://concepticon.clld.org/parameters/796,mah pɨtun,"nipple, teat"
+172-207,enap1235,http://concepticon.clld.org/parameters/154,mak,udder
+172-665,enap1235,http://concepticon.clld.org/parameters/1838,-ponwa,navel
+172-58,enap1235,http://concepticon.clld.org/parameters/1223,iɲə,heart
+172-11,enap1235,http://concepticon.clld.org/parameters/1223,t-yawa,heart
+172-926,enap1235,http://concepticon.clld.org/parameters/688,-kupu-,lung
+172-693,enap1235,http://concepticon.clld.org/parameters/688,-y-awaaso-,lung
+172-615,enap1235,http://concepticon.clld.org/parameters/1224,-y-inki-,liver
+172-683,enap1235,http://concepticon.clld.org/parameters/489,tyeʔyah pəko,kidney
+172-142,enap1235,http://concepticon.clld.org/parameters/819,pače,stomach
+172-320,enap1235,http://concepticon.clld.org/parameters/819,-pačeik,stomach
+172-142,enap1235,http://concepticon.clld.org/parameters/1991,pače,"intestines, guts"
+172-320,enap1235,http://concepticon.clld.org/parameters/1991,-pačeik,"intestines, guts"
+172-506,enap1235,http://concepticon.clld.org/parameters/1681,pačein wan,waist
+172-698,enap1235,http://concepticon.clld.org/parameters/1745,-y-aʔmata-n,hip
+172-581,enap1235,http://concepticon.clld.org/parameters/834,-unwa-n,buttocks
+172-105,enap1235,http://concepticon.clld.org/parameters/804,pačein wa-n,womb
+172-714,enap1235,http://concepticon.clld.org/parameters/797,-yɨmu-n,testicle
+172-798,enap1235,http://concepticon.clld.org/parameters/1222,wə,penis
+172-609,enap1235,http://concepticon.clld.org/parameters/1222,yukɨn,penis
+172-229,enap1235,http://concepticon.clld.org/parameters/1407,-yači-,"breathe, breath"
+172-862,enap1235,http://concepticon.clld.org/parameters/1028,-ɨn-ta-pima,"yawn, gape"
+172-863,enap1235,http://concepticon.clld.org/parameters/162,čoʔ kaik mən,hiccough
+172-315,enap1235,http://concepticon.clld.org/parameters/879,čɨčɨsɨkɨ,cough
+172-562,enap1235,http://concepticon.clld.org/parameters/1621,-usɨwɨčiʔka-,sneeze
+172-346,enap1235,http://concepticon.clld.org/parameters/126,-ɨnkamahta-,perspire
+172-470,enap1235,http://concepticon.clld.org/parameters/1440,y-ɨtyaku-n yama-,spit
+172-389,enap1235,http://concepticon.clld.org/parameters/1278,-uwəčiɲompətɨ-n,vomit
+172-782,enap1235,http://concepticon.clld.org/parameters/1403,-ɨnə-n,bite
+172-29,enap1235,http://concepticon.clld.org/parameters/319,-ɨkaema-,lick
+172-478,enap1235,http://concepticon.clld.org/parameters/268,əntarečuka-,dribble
+172-186,enap1235,http://concepticon.clld.org/parameters/1585,-okuetyi-n,sleep
+172-795,enap1235,http://concepticon.clld.org/parameters/1983,-ɨkaranapu-n (-mi,snore
+172-856,enap1235,http://concepticon.clld.org/parameters/1983,-mɨ),snore
+172-81,enap1235,http://concepticon.clld.org/parameters/1920,-učepətɨ-n,dream
+172-859,enap1235,http://concepticon.clld.org/parameters/1602,-uwəhta-ma-n,wake up
+172-907,enap1235,http://concepticon.clld.org/parameters/1159,-əh-pačei-ka,break wind
+172-647,enap1235,http://concepticon.clld.org/parameters/592,asuhta-n,urinate
+172-912,enap1235,http://concepticon.clld.org/parameters/676,aika,defecate
+172-906,enap1235,http://concepticon.clld.org/parameters/1785,yɨkun,have sexual intercourse
+172-708,enap1235,http://concepticon.clld.org/parameters/1785,yoʔ-,have sexual intercourse
+172-523,enap1235,http://concepticon.clld.org/parameters/1785,yosoʔ,have sexual intercourse
+172-864,enap1235,http://concepticon.clld.org/parameters/52,atəətapa-,shiver
+172-630,enap1235,http://concepticon.clld.org/parameters/138,y-okupin (akuiʔ-),bathe
+172-256,enap1235,http://concepticon.clld.org/parameters/1152,y-apoo-n,beget (of father)
+172-640,enap1235,http://concepticon.clld.org/parameters/1090,-apataka-n,born (to be)
+172-259,enap1235,http://concepticon.clld.org/parameters/1123,anɨme,pregnant
+172-911,enap1235,http://concepticon.clld.org/parameters/1087,-ɨmuʔra-ta,conceive
+172-876,enap1235,http://concepticon.clld.org/parameters/1422,onkono,"live, living, life"
+172-638,enap1235,http://concepticon.clld.org/parameters/1422,onkono-pe,"live, living, life"
+172-321,enap1235,http://concepticon.clld.org/parameters/1494,y-usuka-n,"die, dead"
+172-534,enap1235,http://concepticon.clld.org/parameters/1904,as-ɨɨwahpa-,drowned
+172-801,enap1235,http://concepticon.clld.org/parameters/1417,-uwə-,kill
+172-33,enap1235,http://concepticon.clld.org/parameters/767,(object) + usuka-sa,corpse
+172-828,enap1235,http://concepticon.clld.org/parameters/1719,-ɨmunta-,bury (the dead)
+172-498,enap1235,http://concepticon.clld.org/parameters/1773,t-yaka eʔɲapa munta-toʔ,"grave, tomb"
+172-456,enap1235,http://concepticon.clld.org/parameters/785,sɨɨrɨ-pe,"strong, mighty, powerful"
+172-582,enap1235,http://concepticon.clld.org/parameters/1601,sɨɨrɨ-pe ehke,weak
+172-359,enap1235,http://concepticon.clld.org/parameters/1364,korʸa,"well, health"
+172-127,enap1235,http://concepticon.clld.org/parameters/1364,korʸa-pe,"well, health"
+172-424,enap1235,http://concepticon.clld.org/parameters/1534,-puruwə-n,fever
+172-417,enap1235,http://concepticon.clld.org/parameters/1957,awo,goiter
+172-748,enap1235,http://concepticon.clld.org/parameters/102,tamunko,cold (catarrh)
+172-253,enap1235,http://concepticon.clld.org/parameters/1109,čoori,"wound, sore"
+172-879,enap1235,http://concepticon.clld.org/parameters/1148,wəhs-awa-hpə,bruise
+172-239,enap1235,http://concepticon.clld.org/parameters/1903,tohpanse,swelling
+172-88,enap1235,http://concepticon.clld.org/parameters/148,sɨhsɨh-pe,itch
+172-499,enap1235,http://concepticon.clld.org/parameters/1584,eɲesuketya-,blister
+172-226,enap1235,http://concepticon.clld.org/parameters/793,tuke,boil (noun)
+172-289,enap1235,http://concepticon.clld.org/parameters/1808,y-uʔmunku-n,pus
+172-179,enap1235,http://concepticon.clld.org/parameters/499,-ɨ[kurah]-tə-,"cure, heal"
+172-5,enap1235,http://concepticon.clld.org/parameters/597,[watora],physician
+172-707,enap1235,http://concepticon.clld.org/parameters/1372,tuʔɲen,"medicine, drug"
+172-874,enap1235,http://concepticon.clld.org/parameters/655,awa-tə,poison
+172-484,enap1235,http://concepticon.clld.org/parameters/1757,pɨrɨ-hpə,"tired, weary"
+172-901,enap1235,http://concepticon.clld.org/parameters/1564,anuhki-pe,lazy
+172-578,enap1235,http://concepticon.clld.org/parameters/320,kasah-pe yutən,lame
+172-903,enap1235,http://concepticon.clld.org/parameters/996,etya-poʔ-ka,deaf
+172-181,enap1235,http://concepticon.clld.org/parameters/1666,t-oromaen-ke ehke,mute
+172-173,enap1235,http://concepticon.clld.org/parameters/1653,a-ɲi-tyə wehke,blind
+172-657,enap1235,http://concepticon.clld.org/parameters/1463,t-ɨkɨrɨɨ-se,intoxicated
+172-159,enap1235,http://concepticon.clld.org/parameters/590,korʸea,"naked, bare"
+172-368,enap1235,http://concepticon.clld.org/parameters/1336,yu-č-erema-n,eat
+172-98,enap1235,http://concepticon.clld.org/parameters/256,č-erema-n-toʔ,food
+172-700,enap1235,http://concepticon.clld.org/parameters/269,y-əʔməh-sa,cooked
+172-251,enap1235,http://concepticon.clld.org/parameters/1959,oka,raw
+172-922,enap1235,http://concepticon.clld.org/parameters/178,tyukin,ripe
+172-251,enap1235,http://concepticon.clld.org/parameters/1958,oka,"green, unripe"
+172-14,enap1235,http://concepticon.clld.org/parameters/1728,y-usuka-sa,rotten
+172-241,enap1235,http://concepticon.clld.org/parameters/1401,nɨkorooman,drink
+172-202,enap1235,http://concepticon.clld.org/parameters/1533,tinkehpən,hunger
+172-271,enap1235,http://concepticon.clld.org/parameters/199,wehke č-erema-n-toʔ wehtyoʔ,famine
+172-351,enap1235,http://concepticon.clld.org/parameters/848,yɨʔnaʔkin,thirst
+172-598,enap1235,http://concepticon.clld.org/parameters/1421,-ɨkamuhkə-,suck
+172-190,enap1235,http://concepticon.clld.org/parameters/321,-ompa-n,chew
+172-140,enap1235,http://concepticon.clld.org/parameters/897,-onoʔma-,swallow
+172-848,enap1235,http://concepticon.clld.org/parameters/129,-uhtuku-,choke
+172-580,enap1235,http://concepticon.clld.org/parameters/1100,-əʔməh-ka-n,cook
+172-680,enap1235,http://concepticon.clld.org/parameters/792,-əʔməh-ka-,boil (vb)
+172-134,enap1235,http://concepticon.clld.org/parameters/2146,-ɨputuurə-,"roast, fry"
+172-585,enap1235,http://concepticon.clld.org/parameters/2146,-ayi-,"roast, fry"
+172-585,enap1235,http://concepticon.clld.org/parameters/183,-ayi-,bake
+172-4,enap1235,http://concepticon.clld.org/parameters/1143,č-erema-n-toʔ yawato,oven
+172-345,enap1235,http://concepticon.clld.org/parameters/1462,maraʔ,"pot, cooking vessel"
+172-155,enap1235,http://concepticon.clld.org/parameters/854,eɲə,kettle
+172-345,enap1235,http://concepticon.clld.org/parameters/31,maraʔ,pan
+172-570,enap1235,http://concepticon.clld.org/parameters/481,pɨčaara,dish
+172-570,enap1235,http://concepticon.clld.org/parameters/480,pɨčaara,plate
+172-345,enap1235,http://concepticon.clld.org/parameters/1530,maraʔ,bowl
+172-372,enap1235,http://concepticon.clld.org/parameters/1530,maraʔ-kin,bowl
+172-866,enap1235,http://concepticon.clld.org/parameters/270,kɨwɨkɨ,"pitcher, jug"
+172-372,enap1235,http://concepticon.clld.org/parameters/476,maraʔ-kin,"cup, drinking vessel"
+172-362,enap1235,http://concepticon.clld.org/parameters/271,pɨčaara nkin,saucer
+172-120,enap1235,http://concepticon.clld.org/parameters/1378,[kučara],spoon
+172-711,enap1235,http://concepticon.clld.org/parameters/1352,parae,knife (2)
+172-889,enap1235,http://concepticon.clld.org/parameters/1302,č-erema-n-toʔ y-an-toʔ,fork (2)
+172-889,enap1235,http://concepticon.clld.org/parameters/272,č-erema-n-toʔ y-an-toʔ,tongs
+172-98,enap1235,http://concepticon.clld.org/parameters/1526,č-erema-n-toʔ,meal (a)
+172-218,enap1235,http://concepticon.clld.org/parameters/275,-ihka-,peel
+172-339,enap1235,http://concepticon.clld.org/parameters/86,-asuuka-,"sieve, strain"
+172-218,enap1235,http://concepticon.clld.org/parameters/1767,-ihka-,scrape
+172-434,enap1235,http://concepticon.clld.org/parameters/2017,-aʔkowa-,"stir, mix"
+172-521,enap1235,http://concepticon.clld.org/parameters/1368,[pan],bread
+172-487,enap1235,http://concepticon.clld.org/parameters/273,[pan] maanə-to,dough
+172-754,enap1235,http://concepticon.clld.org/parameters/1594,[pan] maanə-toʔ,"meal, flour"
+172-477,enap1235,http://concepticon.clld.org/parameters/1033,-apo-,"crush, grind"
+172-651,enap1235,http://concepticon.clld.org/parameters/636,y-apo-toʔ,mill
+172-114,enap1235,http://concepticon.clld.org/parameters/224,ako,mortar (2)
+172-40,enap1235,http://concepticon.clld.org/parameters/225,ako yan,pestle
+172-412,enap1235,http://concepticon.clld.org/parameters/634,tyo,meat
+172-363,enap1235,http://concepticon.clld.org/parameters/1547,... -pon,"soup, broth"
+172-83,enap1235,http://concepticon.clld.org/parameters/924,-yun,vegetables
+172-223,enap1235,http://concepticon.clld.org/parameters/832,ehčipen,bean
+172-99,enap1235,http://concepticon.clld.org/parameters/593,wanka kaik mən,potato
+172-262,enap1235,http://concepticon.clld.org/parameters/1507,-yempan,fruit
+172-779,enap1235,http://concepticon.clld.org/parameters/1966,tyɨpuhpə,bunch
+172-307,enap1235,http://concepticon.clld.org/parameters/1484,karapa,oil
+172-307,enap1235,http://concepticon.clld.org/parameters/323,karapa,"grease, fat"
+172-774,enap1235,http://concepticon.clld.org/parameters/323,...-kaʔ,"grease, fat"
+172-112,enap1235,http://concepticon.clld.org/parameters/1274,paamə,salt
+172-501,enap1235,http://concepticon.clld.org/parameters/919,pimi,chili pepper
+172-810,enap1235,http://concepticon.clld.org/parameters/942,wənə,honey
+172-895,enap1235,http://concepticon.clld.org/parameters/862,[asuuka],sugar
+172-560,enap1235,http://concepticon.clld.org/parameters/635,[paʔka] matɨ-n,milk (noun)
+172-109,enap1235,http://concepticon.clld.org/parameters/93,yipiʔ(-ku),milk (vb)
+172-560,enap1235,http://concepticon.clld.org/parameters/1569,[paʔka] matɨ-n,cheese
+172-533,enap1235,http://concepticon.clld.org/parameters/731,yu-kun,"beverage, drink"
+172-784,enap1235,http://concepticon.clld.org/parameters/1639,ok,beer
+172-194,enap1235,http://concepticon.clld.org/parameters/404,katah-pa mɨnkae,fermented drink
+172-496,enap1235,http://concepticon.clld.org/parameters/744,... moe,egg
+172-497,enap1235,http://concepticon.clld.org/parameters/158,-ɨnapontə-,put on (clothes)
+172-442,enap1235,http://concepticon.clld.org/parameters/1895,-po,"clothing, clothes"
+172-602,enap1235,http://concepticon.clld.org/parameters/1895,[kamiča],"clothing, clothes"
+172-279,enap1235,http://concepticon.clld.org/parameters/1850,tokətə,cotton
+172-10,enap1235,http://concepticon.clld.org/parameters/580,nəʔna iʔ-pok,fur
+172-527,enap1235,http://concepticon.clld.org/parameters/629,nəna pi-hpə,leather
+172-405,enap1235,http://concepticon.clld.org/parameters/121,-areʔma-,spin
+172-652,enap1235,http://concepticon.clld.org/parameters/277,punwa,spindle
+172-175,enap1235,http://concepticon.clld.org/parameters/133,-ɨkaʔ-(pɨ)(pi),weave
+172-458,enap1235,http://concepticon.clld.org/parameters/133,yɨkaʔɲe,weave
+172-189,enap1235,http://concepticon.clld.org/parameters/1787,tokətə ka-toʔ,loom
+172-757,enap1235,http://concepticon.clld.org/parameters/1457,-ɨpɨtɨpə-,sew
+172-9,enap1235,http://concepticon.clld.org/parameters/1382,[kuča],needle
+172-279,enap1235,http://concepticon.clld.org/parameters/1161,tokətə,thread
+172-752,enap1235,http://concepticon.clld.org/parameters/157,waače,dye
+172-824,enap1235,http://concepticon.clld.org/parameters/157,ankuk,dye
+172-473,enap1235,http://concepticon.clld.org/parameters/1600,sɨkɨwi,skirt
+172-626,enap1235,http://concepticon.clld.org/parameters/809,-peh-po,trousers
+172-673,enap1235,http://concepticon.clld.org/parameters/329,pata ye,"stocking, sock"
+172-673,enap1235,http://concepticon.clld.org/parameters/1381,pata ye,shoe
+172-1,enap1235,http://concepticon.clld.org/parameters/2130,-yoroko-e,"hat, cap"
+172-663,enap1235,http://concepticon.clld.org/parameters/772,-yɨʔmɨ,"belt, girdle"
+172-314,enap1235,http://concepticon.clld.org/parameters/867,-eɲa-n ye,glove
+172-728,enap1235,http://concepticon.clld.org/parameters/1851,kanowa,pocket
+172-212,enap1235,http://concepticon.clld.org/parameters/757,yapəh-toʔ,button
+172-397,enap1235,http://concepticon.clld.org/parameters/1961,ty-apo,necklace
+172-149,enap1235,http://concepticon.clld.org/parameters/1860,əʔnan,bead
+172-1,enap1235,http://concepticon.clld.org/parameters/330,-yoroko-e,"headband, headdress"
+172-681,enap1235,http://concepticon.clld.org/parameters/1475,mankak,comb
+172-147,enap1235,http://concepticon.clld.org/parameters/151,tansi pok č-ahkə-toʔ,razor
+172-60,enap1235,http://concepticon.clld.org/parameters/1926,t-ahpə-nə-toʔ,ointment
+172-843,enap1235,http://concepticon.clld.org/parameters/788,[awon],soap
+172-551,enap1235,http://concepticon.clld.org/parameters/1252,perʸaka,house
+172-459,enap1235,http://concepticon.clld.org/parameters/1252,-yɨwɨk,house
+172-551,enap1235,http://concepticon.clld.org/parameters/1678,perʸaka,hut
+172-459,enap1235,http://concepticon.clld.org/parameters/1678,-yɨwɨk,hut
+172-830,enap1235,http://concepticon.clld.org/parameters/736,yɨ-pata-n,"yard, court"
+172-830,enap1235,http://concepticon.clld.org/parameters/1450,yɨ-pata-n,room
+172-146,enap1235,http://concepticon.clld.org/parameters/1567,nata mukun,"door, gate"
+172-548,enap1235,http://concepticon.clld.org/parameters/1596,nata muku-toʔ,lock (noun)
+172-393,enap1235,http://concepticon.clld.org/parameters/1472,[yaawe],key
+172-25,enap1235,http://concepticon.clld.org/parameters/1375,y-usəhpə-nə-toʔ,window
+172-381,enap1235,http://concepticon.clld.org/parameters/1632,ano,floor
+172-794,enap1235,http://concepticon.clld.org/parameters/185,wahto pata-n,fireplace
+172-924,enap1235,http://concepticon.clld.org/parameters/1464,yos-an-toʔ,ladder
+172-128,enap1235,http://concepticon.clld.org/parameters/1663,tatə,bed
+172-199,enap1235,http://concepticon.clld.org/parameters/1663,ičik,bed
+172-603,enap1235,http://concepticon.clld.org/parameters/1044,pu-n yapo,pillow
+172-91,enap1235,http://concepticon.clld.org/parameters/806,[kowiiya],blanket
+172-806,enap1235,http://concepticon.clld.org/parameters/1476,[siya],chair
+172-42,enap1235,http://concepticon.clld.org/parameters/2131,[ərəntəəna],"lamp, torch"
+172-612,enap1235,http://concepticon.clld.org/parameters/745,iye,shelf
+172-685,enap1235,http://concepticon.clld.org/parameters/745,ikityə maika-toʔ,shelf
+172-789,enap1235,http://concepticon.clld.org/parameters/769,perʸaka yɨ-pu-n,roof
+172-433,enap1235,http://concepticon.clld.org/parameters/279,osae yan,thatch
+172-677,enap1235,http://concepticon.clld.org/parameters/280,perʸaka yɨpun,ridgepole
+172-457,enap1235,http://concepticon.clld.org/parameters/829,perʸaka nwan,rafter
+172-727,enap1235,http://concepticon.clld.org/parameters/1132,pehka,beam
+172-612,enap1235,http://concepticon.clld.org/parameters/1227,iye,board
+172-220,enap1235,http://concepticon.clld.org/parameters/877,[semento] maanə-ɲe,mason
+172-381,enap1235,http://concepticon.clld.org/parameters/1006,ano,brick
+172-553,enap1235,http://concepticon.clld.org/parameters/1731,[semento],mortar
+172-384,enap1235,http://concepticon.clld.org/parameters/901,ano maanə-sa,adobe
+172-319,enap1235,http://concepticon.clld.org/parameters/586,yɨmə,garden
+172-588,enap1235,http://concepticon.clld.org/parameters/1690,y-ankahtə-toʔ,fence
+172-878,enap1235,http://concepticon.clld.org/parameters/1418,ano ka-n,dig
+172-802,enap1235,http://concepticon.clld.org/parameters/1176,ano ka-to,spade
+172-330,enap1235,http://concepticon.clld.org/parameters/748,iyahpəka-,sow
+172-667,enap1235,http://concepticon.clld.org/parameters/714,-yahpə,seed
+172-7,enap1235,http://concepticon.clld.org/parameters/190,yamɨ-n,"mow, reap"
+172-477,enap1235,http://concepticon.clld.org/parameters/285,-apo-,thresh
+172-651,enap1235,http://concepticon.clld.org/parameters/223,y-apo-toʔ,threshing-floor
+172-561,enap1235,http://concepticon.clld.org/parameters/611,arʸɨpɨ,"crop, harvest"
+172-443,enap1235,http://concepticon.clld.org/parameters/611,-ntaka,"crop, harvest"
+172-185,enap1235,http://concepticon.clld.org/parameters/506,keʔɲak,"maize, corn"
+172-57,enap1235,http://concepticon.clld.org/parameters/926,[aaro],rice
+172-227,enap1235,http://concepticon.clld.org/parameters/606,wanaʔ yɨ-pu-n,grass
+172-561,enap1235,http://concepticon.clld.org/parameters/653,arʸɨpɨ,plant (noun)
+172-32,enap1235,http://concepticon.clld.org/parameters/1486,-aamə-,plant (vb)
+172-334,enap1235,http://concepticon.clld.org/parameters/670,-yimik,root
+172-235,enap1235,http://concepticon.clld.org/parameters/1531,iye y-apə-n,branch
+172-196,enap1235,http://concepticon.clld.org/parameters/628,-yan,leaf
+172-466,enap1235,http://concepticon.clld.org/parameters/239,-yipin,flower
+172-489,enap1235,http://concepticon.clld.org/parameters/239,ehčipipin,flower
+172-479,enap1235,http://concepticon.clld.org/parameters/906,-yo,tree
+172-612,enap1235,http://concepticon.clld.org/parameters/906,iye,tree
+172-896,enap1235,http://concepticon.clld.org/parameters/343,keʔɲatə,vine
+172-133,enap1235,http://concepticon.clld.org/parameters/974,kowae,tobacco
+172-172,enap1235,http://concepticon.clld.org/parameters/241,eʔyahpə,tree stump
+172-612,enap1235,http://concepticon.clld.org/parameters/344,iye,tree trunk
+172-302,enap1235,http://concepticon.clld.org/parameters/409,-yapə-,forked branch
+172-660,enap1235,http://concepticon.clld.org/parameters/1204,iye pi-hpə,bark
+172-153,enap1235,http://concepticon.clld.org/parameters/345,iye sɨkun,sap
+172-76,enap1235,http://concepticon.clld.org/parameters/1181,osae,palm tree
+172-195,enap1235,http://concepticon.clld.org/parameters/1181,kuruwa,palm tree
+172-656,enap1235,http://concepticon.clld.org/parameters/1181,anka,palm tree
+172-468,enap1235,http://concepticon.clld.org/parameters/1126,[maranka],citrus fruit
+172-436,enap1235,http://concepticon.clld.org/parameters/868,paare yo,banana tree
+172-263,enap1235,http://concepticon.clld.org/parameters/159,čok,sweet potato
+172-263,enap1235,http://concepticon.clld.org/parameters/410,čok,yam
+172-509,enap1235,http://concepticon.clld.org/parameters/925,uto,"tapioca, manioc, cassava"
+172-345,enap1235,http://concepticon.clld.org/parameters/411,maraʔ,gourd
+172-89,enap1235,http://concepticon.clld.org/parameters/864,kaya ma,"pumpkin, squash"
+172-464,enap1235,http://concepticon.clld.org/parameters/1927,tapi,bamboo
+172-648,enap1235,http://concepticon.clld.org/parameters/1927,kasanka,bamboo
+172-365,enap1235,http://concepticon.clld.org/parameters/146,karana,sugar cane
+172-807,enap1235,http://concepticon.clld.org/parameters/348,kayin,fish poison (root)
+172-28,enap1235,http://concepticon.clld.org/parameters/813,-ɨn(-kɨ:-ki),"do, make"
+172-575,enap1235,http://concepticon.clld.org/parameters/984,-amohkayin-(-mɨ)(-mi),work
+172-762,enap1235,http://concepticon.clld.org/parameters/2004,-oʔmei-,bend
+172-662,enap1235,http://concepticon.clld.org/parameters/2004,-anoʔ(-pɨ)(-pi),bend
+172-750,enap1235,http://concepticon.clld.org/parameters/1470,-ipityuʔ(-ku),fold
+172-793,enap1235,http://concepticon.clld.org/parameters/1917,-ɨpɨrɨn(-mɨ)(-mi),"tie, bind"
+172-670,enap1235,http://concepticon.clld.org/parameters/352,-ɨpɨrɨmɨ-hka-,untie
+172-726,enap1235,http://concepticon.clld.org/parameters/1627,amčiri,chain
+172-426,enap1235,http://concepticon.clld.org/parameters/1218,awa,"rope, cord"
+172-96,enap1235,http://concepticon.clld.org/parameters/1218,warara,"rope, cord"
+172-398,enap1235,http://concepticon.clld.org/parameters/760,y-ɨpɨrɨ-n-sa,knot (noun)
+172-882,enap1235,http://concepticon.clld.org/parameters/2133,-ɨpuʔmo-,"strike (hit, beat)"
+172-882,enap1235,http://concepticon.clld.org/parameters/354,-ɨpuʔmo-,pound with fist
+172-125,enap1235,http://concepticon.clld.org/parameters/1432,-ɨkɨtə-,cut
+172-425,enap1235,http://concepticon.clld.org/parameters/355,-ama-,cut down
+172-425,enap1235,http://concepticon.clld.org/parameters/155,-ama-,"chop, hew"
+172-801,enap1235,http://concepticon.clld.org/parameters/1434,-uwə-,stab
+172-711,enap1235,http://concepticon.clld.org/parameters/1352,parae,knife
+172-280,enap1235,http://concepticon.clld.org/parameters/356,mera,"scissors, shears"
+172-893,enap1235,http://concepticon.clld.org/parameters/677,čihtyə,ax
+172-697,enap1235,http://concepticon.clld.org/parameters/680,-uwəhkɨtə-,break
+172-599,enap1235,http://concepticon.clld.org/parameters/680,-əhkətə-,break
+172-740,enap1235,http://concepticon.clld.org/parameters/1437,-ɨpetyaka-,split
+172-738,enap1235,http://concepticon.clld.org/parameters/1735,at-ahka-,tear
+172-218,enap1235,http://concepticon.clld.org/parameters/291,-ihka-,"flay, skin"
+172-675,enap1235,http://concepticon.clld.org/parameters/1449,-ɨpanawaʔ(-kɨ)(-ki),"rub, wipe"
+172-923,enap1235,http://concepticon.clld.org/parameters/214,əsɨkuʔna-,stretch
+172-483,enap1235,http://concepticon.clld.org/parameters/1455,-amataka-,pull
+172-435,enap1235,http://concepticon.clld.org/parameters/38,-ayimo-,spread out
+172-453,enap1235,http://concepticon.clld.org/parameters/357,-amaika-,hang up
+172-180,enap1235,http://concepticon.clld.org/parameters/1913,-ɨpiʔ (-ku),press
+172-59,enap1235,http://concepticon.clld.org/parameters/1414,-ɨpiʔ(-ku),"squeeze, wring"
+172-425,enap1235,http://concepticon.clld.org/parameters/1487,-ama-,pour
+172-460,enap1235,http://concepticon.clld.org/parameters/1453,-ukoka-,wash
+172-408,enap1235,http://concepticon.clld.org/parameters/230,-eimeiʔ(-ku)(-kui),sweep
+172-268,enap1235,http://concepticon.clld.org/parameters/245,y-eimeih-tyo,broom
+172-6,enap1235,http://concepticon.clld.org/parameters/1042,iye pək mənək,carpenter
+172-370,enap1235,http://concepticon.clld.org/parameters/1840,-amaanə-,build
+172-67,enap1235,http://concepticon.clld.org/parameters/1840,-ɨmə-,build
+172-904,enap1235,http://concepticon.clld.org/parameters/1501,-ɨpə-,bore
+172-746,enap1235,http://concepticon.clld.org/parameters/46,-ahta-ka-,hollow out
+172-125,enap1235,http://concepticon.clld.org/parameters/1948,-ɨkɨtə-,saw
+172-803,enap1235,http://concepticon.clld.org/parameters/1481,[matiya],hammer
+172-15,enap1235,http://concepticon.clld.org/parameters/502,iye y-apəh-toʔ,nail
+172-576,enap1235,http://concepticon.clld.org/parameters/1069,y-ɨpuʔkə-to,glue
+172-539,enap1235,http://concepticon.clld.org/parameters/1369,[oro],gold
+172-38,enap1235,http://concepticon.clld.org/parameters/759,[arata],silver
+172-726,enap1235,http://concepticon.clld.org/parameters/621,amčiri,iron
+172-646,enap1235,http://concepticon.clld.org/parameters/359,ano maanə-ɲe,potter
+172-644,enap1235,http://concepticon.clld.org/parameters/289,ano maanə-,mold (clay etc)
+172-381,enap1235,http://concepticon.clld.org/parameters/1399,ano,clay
+172-760,enap1235,http://concepticon.clld.org/parameters/604,kiririn,glass
+172-825,enap1235,http://concepticon.clld.org/parameters/1729,ɨkaʔ(-pɨ)(-pi),"weave, plait"
+172-611,enap1235,http://concepticon.clld.org/parameters/1539,tawa,basket
+172-467,enap1235,http://concepticon.clld.org/parameters/195,sunwa,mat
+172-323,enap1235,http://concepticon.clld.org/parameters/293,[saku],netbag
+172-331,enap1235,http://concepticon.clld.org/parameters/1971,papeik,fan (noun)
+172-209,enap1235,http://concepticon.clld.org/parameters/360,-ɨpapeiʔma-,fan (vb)
+172-143,enap1235,http://concepticon.clld.org/parameters/228,iye maanə-,carve
+172-752,enap1235,http://concepticon.clld.org/parameters/647,waače,paint (noun)
+172-824,enap1235,http://concepticon.clld.org/parameters/647,ankuk,paint (noun)
+172-249,enap1235,http://concepticon.clld.org/parameters/647,ayawa,paint (noun)
+172-48,enap1235,http://concepticon.clld.org/parameters/765,-oʔnomaʔ,move
+172-161,enap1235,http://concepticon.clld.org/parameters/765,-os-oʔnomaʔ-,move
+172-629,enap1235,http://concepticon.clld.org/parameters/1588,-areɲaka-,turn over
+172-596,enap1235,http://concepticon.clld.org/parameters/1445,-oponaka-,turn around
+172-860,enap1235,http://concepticon.clld.org/parameters/1445,-os-oponaka-,turn around
+172-236,enap1235,http://concepticon.clld.org/parameters/1113,-awontə-,"wind, wrap"
+172-629,enap1235,http://concepticon.clld.org/parameters/827,-areɲaka-,roll
+172-244,enap1235,http://concepticon.clld.org/parameters/808,-ɨpɨnka-,drop (vb)
+172-809,enap1235,http://concepticon.clld.org/parameters/430,-operʸe,twist
+172-73,enap1235,http://concepticon.clld.org/parameters/430,-otatyimi-,twist
+172-861,enap1235,http://concepticon.clld.org/parameters/568,-os-an(-mɨ)(-mi),rise
+172-247,enap1235,http://concepticon.clld.org/parameters/501,-an(-mɨ)(-mi),"raise, lift"
+172-689,enap1235,http://concepticon.clld.org/parameters/1280,-uwiɲa-,fall
+172-230,enap1235,http://concepticon.clld.org/parameters/2253,asutapəʔ(-tɨ)(-ti),drip
+172-163,enap1235,http://concepticon.clld.org/parameters/2253,apa-,drip
+172-425,enap1235,http://concepticon.clld.org/parameters/1456,-ama-,throw
+172-238,enap1235,http://concepticon.clld.org/parameters/702,-apəʔ(-sɨ)(-si),catch (ball)
+172-352,enap1235,http://concepticon.clld.org/parameters/1909,atəəpa-,shake
+172-205,enap1235,http://concepticon.clld.org/parameters/1909,-ɨkəhtə-,shake
+172-160,enap1235,http://concepticon.clld.org/parameters/2003,-uwəhtə-,flow
+172-716,enap1235,http://concepticon.clld.org/parameters/1088,-ən(-mɨ)(-mi),sink
+172-505,enap1235,http://concepticon.clld.org/parameters/1574,əmɨʔka,float
+172-104,enap1235,http://concepticon.clld.org/parameters/1439,akueʔ(-pɨ)(-pi),swim
+172-304,enap1235,http://concepticon.clld.org/parameters/119,-ə-n(-mɨ)(-mi),dive
+172-43,enap1235,http://concepticon.clld.org/parameters/365,-oʔorinka-,splash
+172-605,enap1235,http://concepticon.clld.org/parameters/787,yu-tə-n tɨna mpaintya,sail (vb)
+172-61,enap1235,http://concepticon.clld.org/parameters/1441,yu-tə-n kawə,fly (vb)
+172-44,enap1235,http://concepticon.clld.org/parameters/175,ɨpapeiʔma-,blow
+172-20,enap1235,http://concepticon.clld.org/parameters/175,-apeʔma-,blow
+172-869,enap1235,http://concepticon.clld.org/parameters/96,yu-tə-n anapo,"creep, crawl"
+172-123,enap1235,http://concepticon.clld.org/parameters/66,yo-s-amaikan tɨčeʔmun po,kneel
+172-634,enap1235,http://concepticon.clld.org/parameters/296,-os-amaika-,crouch
+172-273,enap1235,http://concepticon.clld.org/parameters/1324,-uwəh-taih-ka-,"slide, slip"
+172-804,enap1235,http://concepticon.clld.org/parameters/1829,-ɨpaatə,"jump, leap"
+172-108,enap1235,http://concepticon.clld.org/parameters/1829,-ahpə-n(-mɨ)(-mi),"jump, leap"
+172-536,enap1235,http://concepticon.clld.org/parameters/1135,-ompayiima- ihtan ke,kick
+172-215,enap1235,http://concepticon.clld.org/parameters/1879,-otačima-,dance
+172-558,enap1235,http://concepticon.clld.org/parameters/1443,-ataraama-,walk
+172-100,enap1235,http://concepticon.clld.org/parameters/366,yu-tə-n kasah-pe,limp
+172-705,enap1235,http://concepticon.clld.org/parameters/1519,yu-tə-n tainɲe,run
+172-664,enap1235,http://concepticon.clld.org/parameters/695,yu-tə-n,go
+172-342,enap1235,http://concepticon.clld.org/parameters/705,-osan(-mɨ)(-mi),go up
+172-342,enap1235,http://concepticon.clld.org/parameters/1102,-osan(-mɨ)(-mi),climb
+172-160,enap1235,http://concepticon.clld.org/parameters/2014,-uwəhtə-,go down
+172-237,enap1235,http://concepticon.clld.org/parameters/1107,apataka-,go out
+172-399,enap1235,http://concepticon.clld.org/parameters/1446,-uwəpɨn (-ə-,come
+172-773,enap1235,http://concepticon.clld.org/parameters/1446,əpɨ-,come
+172-278,enap1235,http://concepticon.clld.org/parameters/1446,əpi-),come
+172-311,enap1235,http://concepticon.clld.org/parameters/581,-os-awaama-,come back
+172-664,enap1235,http://concepticon.clld.org/parameters/1752,yu-tə-n,"go away, depart"
+172-826,enap1235,http://concepticon.clld.org/parameters/485,-uw-əʔmarapa-,disappear
+172-197,enap1235,http://concepticon.clld.org/parameters/956,-yupe-,flee
+172-423,enap1235,http://concepticon.clld.org/parameters/1085,yu-tə-n yɨ-pəkə-n,follow
+172-24,enap1235,http://concepticon.clld.org/parameters/1047,yu-tə-n t-yɨmɨhpə,pursue
+172-503,enap1235,http://concepticon.clld.org/parameters/1387,-us-ɨmɨnka-,"reach, arrive"
+172-102,enap1235,http://concepticon.clld.org/parameters/1778,-ataʔmu-,approach
+172-420,enap1235,http://concepticon.clld.org/parameters/749,-ən (-mɨ: -mi),enter
+172-543,enap1235,http://concepticon.clld.org/parameters/700,-ankə-,carry (bear)
+172-475,enap1235,http://concepticon.clld.org/parameters/412,-ankə- yeɲa,carry-in-hand
+172-360,enap1235,http://concepticon.clld.org/parameters/413,-ankə- mata po,carry-on-shoulder
+172-559,enap1235,http://concepticon.clld.org/parameters/414,-ankə- pun-po,carry-on-head
+172-178,enap1235,http://concepticon.clld.org/parameters/415,-ankə- y-ahta,carry-underarm
+172-27,enap1235,http://concepticon.clld.org/parameters/692,-ɲeʔ(-pɨ)(-pi),bring
+172-543,enap1235,http://concepticon.clld.org/parameters/1127,-ankə-,send
+172-543,enap1235,http://concepticon.clld.org/parameters/43,-ankə-,lead (vb)
+172-694,enap1235,http://concepticon.clld.org/parameters/43,yu-tə-n paken,lead (vb)
+172-873,enap1235,http://concepticon.clld.org/parameters/741,-ɨtyimi-,drive
+172-480,enap1235,http://concepticon.clld.org/parameters/1452,-ompayii-ma-,"push, shove"
+172-154,enap1235,http://concepticon.clld.org/parameters/667,čɨma,road
+172-154,enap1235,http://concepticon.clld.org/parameters/2252,čɨma,path
+172-781,enap1235,http://concepticon.clld.org/parameters/1011,okətə-n-toʔ,bridge
+172-728,enap1235,http://concepticon.clld.org/parameters/122,kanowa,"carriage, wagon, cart"
+172-758,enap1235,http://concepticon.clld.org/parameters/710,kanowa patan,wheel
+172-176,enap1235,http://concepticon.clld.org/parameters/1769,ihtan yapo,axle
+172-728,enap1235,http://concepticon.clld.org/parameters/1844,kanowa,boat
+172-276,enap1235,http://concepticon.clld.org/parameters/1844,tɨna-hkua mən,boat
+172-728,enap1235,http://concepticon.clld.org/parameters/1970,kanowa,canoe
+172-276,enap1235,http://concepticon.clld.org/parameters/1970,tɨna-hkua mən,canoe
+172-728,enap1235,http://concepticon.clld.org/parameters/1664,kanowa,raft
+172-276,enap1235,http://concepticon.clld.org/parameters/1664,tɨna-hkua mən,raft
+172-117,enap1235,http://concepticon.clld.org/parameters/108,-yɨkɨ,oar
+172-117,enap1235,http://concepticon.clld.org/parameters/234,-yɨkɨ,paddle (noun)
+172-66,enap1235,http://concepticon.clld.org/parameters/1849,yutən,row (vb)
+172-622,enap1235,http://concepticon.clld.org/parameters/1849,yu-wəhtə-n,row (vb)
+172-463,enap1235,http://concepticon.clld.org/parameters/610,kanowa samaika-to,"harbor, port"
+172-293,enap1235,http://concepticon.clld.org/parameters/1922,-usamɨnkan mahpana,land (vb)
+172-165,enap1235,http://concepticon.clld.org/parameters/773,mo,have
+172-165,enap1235,http://concepticon.clld.org/parameters/684,mo,"own, possess"
+172-414,enap1235,http://concepticon.clld.org/parameters/1749,ya-n(-mɨ)(-mi),take
+172-208,enap1235,http://concepticon.clld.org/parameters/2021,yapəʔ(-sɨ)(-si),"seize, grasp"
+172-208,enap1235,http://concepticon.clld.org/parameters/1448,yapəʔ(-sɨ)(-si),hold
+172-414,enap1235,http://concepticon.clld.org/parameters/694,ya-n(-mɨ)(-mi),"get, obtain"
+172-453,enap1235,http://concepticon.clld.org/parameters/1477,-amaika-,"keep, retain"
+172-792,enap1235,http://concepticon.clld.org/parameters/738,ikityə,thing
+172-491,enap1235,http://concepticon.clld.org/parameters/738,-iyu,thing
+172-64,enap1235,http://concepticon.clld.org/parameters/1447,y-uʔ(-tu)(-tui),give
+172-401,enap1235,http://concepticon.clld.org/parameters/85,yuʔ(-tu)(-tui) ɲankə,give back
+172-94,enap1235,http://concepticon.clld.org/parameters/1997,-ičenpa-,"preserve, look after"
+172-336,enap1235,http://concepticon.clld.org/parameters/2008,-eɲa-ka-,"save, rescue"
+172-550,enap1235,http://concepticon.clld.org/parameters/681,-uriʔma-,destroy
+172-545,enap1235,http://concepticon.clld.org/parameters/44,-awa-,"harm, injure, damage"
+172-454,enap1235,http://concepticon.clld.org/parameters/44,-amasɨhtapo-,"harm, injure, damage"
+172-298,enap1235,http://concepticon.clld.org/parameters/1468,-ipəʔ(-tɨ)(-ti),"seek, look for"
+172-703,enap1235,http://concepticon.clld.org/parameters/1468,-ɨnaapaka-,"seek, look for"
+172-703,enap1235,http://concepticon.clld.org/parameters/719,-ɨnaapaka-,find
+172-135,enap1235,http://concepticon.clld.org/parameters/1660,-əʔmarapa-,lose
+172-244,enap1235,http://concepticon.clld.org/parameters/1095,-ɨpɨnka-,"release, let go"
+172-38,enap1235,http://concepticon.clld.org/parameters/1559,[arata],money
+172-124,enap1235,http://concepticon.clld.org/parameters/1867,[arata] ɲe,coin
+172-482,enap1235,http://concepticon.clld.org/parameters/712,t-ɨʔna-se,rich
+172-597,enap1235,http://concepticon.clld.org/parameters/1674,t-ɨna-se ehke,poor
+172-427,enap1235,http://concepticon.clld.org/parameters/1774,tamɨɲe,"avaricious, stingy"
+172-474,enap1235,http://concepticon.clld.org/parameters/1823,[-ɨpirehtyatə-],borrow
+172-844,enap1235,http://concepticon.clld.org/parameters/369,mo tuhsen pɨ,owe
+172-844,enap1235,http://concepticon.clld.org/parameters/1914,mo tuhsen pɨ,debt
+172-292,enap1235,http://concepticon.clld.org/parameters/718,-ipima-,pay (vb)
+172-80,enap1235,http://concepticon.clld.org/parameters/856,-apoʔma-,hire
+172-414,enap1235,http://concepticon.clld.org/parameters/1869,ya-n(-mɨ)(-mi),buy
+172-292,enap1235,http://concepticon.clld.org/parameters/1571,-ipima-,sell
+172-292,enap1235,http://concepticon.clld.org/parameters/2135,-ipima-,"trade, barter"
+172-164,enap1235,http://concepticon.clld.org/parameters/1082,ikityə pima-ɲe,merchant
+172-75,enap1235,http://concepticon.clld.org/parameters/633,ikityə y-an-to,market (place)
+172-75,enap1235,http://concepticon.clld.org/parameters/752,ikityə y-an-to,"store, shop"
+172-74,enap1235,http://concepticon.clld.org/parameters/1426,tyipiče,"dear (costly, expensive)"
+172-432,enap1235,http://concepticon.clld.org/parameters/1887,tyipiče ehke,cheap
+172-435,enap1235,http://concepticon.clld.org/parameters/884,-ayimo-,share (distribute)
+172-390,enap1235,http://concepticon.clld.org/parameters/1098,-apə-,weigh
+172-772,enap1235,http://concepticon.clld.org/parameters/1685,-pəkə-n,after
+172-772,enap1235,http://concepticon.clld.org/parameters/723,-pəkə-n,behind
+172-898,enap1235,http://concepticon.clld.org/parameters/1816,-yɨpaye,beside
+172-267,enap1235,http://concepticon.clld.org/parameters/1326,yeʔɲe,"down, below"
+172-620,enap1235,http://concepticon.clld.org/parameters/1326,yehkə,"down, below"
+172-415,enap1235,http://concepticon.clld.org/parameters/1882,paken,before
+172-3,enap1235,http://concepticon.clld.org/parameters/1882,yawaʔna,before
+172-595,enap1235,http://concepticon.clld.org/parameters/1019,yɨ-petya-n,front
+172-732,enap1235,http://concepticon.clld.org/parameters/1606,t-ya,"inside, in"
+172-471,enap1235,http://concepticon.clld.org/parameters/762,-aʔya,outside
+172-267,enap1235,http://concepticon.clld.org/parameters/1485,yeʔɲe,under
+172-620,enap1235,http://concepticon.clld.org/parameters/1485,yehkə,under
+172-445,enap1235,http://concepticon.clld.org/parameters/1591,yapaya,"up, above"
+172-686,enap1235,http://concepticon.clld.org/parameters/1591,yapayaʔkə,"up, above"
+172-555,enap1235,http://concepticon.clld.org/parameters/723,pata,place
+172-462,enap1235,http://concepticon.clld.org/parameters/723,-ɨ-pata-n,place
+172-453,enap1235,http://concepticon.clld.org/parameters/998,-amaika-,put
+172-634,enap1235,http://concepticon.clld.org/parameters/1416,-os-amaika-,sit
+172-689,enap1235,http://concepticon.clld.org/parameters/215,-uwiɲa-,lie down
+172-631,enap1235,http://concepticon.clld.org/parameters/1442,-osan(-mɨ)(-mi) pika,stand
+172-634,enap1235,http://concepticon.clld.org/parameters/987,-os-amaika-,"remain, stay"
+172-450,enap1235,http://concepticon.clld.org/parameters/838,-yakonpək,"remains, left overs"
+172-391,enap1235,http://concepticon.clld.org/parameters/7,yaʔkityə-,"collect, gather"
+172-156,enap1235,http://concepticon.clld.org/parameters/7,-opooma-,"collect, gather"
+172-18,enap1235,http://concepticon.clld.org/parameters/1576,-os-aʔkityə-,pile up
+172-857,enap1235,http://concepticon.clld.org/parameters/1743,-ɨtɨhtə-,"join, unite"
+172-538,enap1235,http://concepticon.clld.org/parameters/1359,-iʔyaka-,separate
+172-886,enap1235,http://concepticon.clld.org/parameters/1359,piyaka-,separate
+172-538,enap1235,http://concepticon.clld.org/parameters/1119,-iʔyaka-,divide
+172-886,enap1235,http://concepticon.clld.org/parameters/1119,piyaka-,divide
+172-699,enap1235,http://concepticon.clld.org/parameters/1156,-ipipu-ka-,open
+172-119,enap1235,http://concepticon.clld.org/parameters/1046,-ipipu-,"shut, close"
+172-236,enap1235,http://concepticon.clld.org/parameters/761,-awontə-,cover
+172-451,enap1235,http://concepticon.clld.org/parameters/602,-ɨnan(-mɨ)(-mi),"hide, conceal"
+172-577,enap1235,http://concepticon.clld.org/parameters/1265,kawə,high
+172-507,enap1235,http://concepticon.clld.org/parameters/721,kawə ehke,low
+172-840,enap1235,http://concepticon.clld.org/parameters/1753,-ipipu-n,top
+172-710,enap1235,http://concepticon.clld.org/parameters/690,y-unwan yeʔɲe,bottom
+172-82,enap1235,http://concepticon.clld.org/parameters/742,kiɲə,end
+172-883,enap1235,http://concepticon.clld.org/parameters/372,tɨ-počiri-ke,pointed
+172-867,enap1235,http://concepticon.clld.org/parameters/863,-ɨn-ta-n,edge
+172-627,enap1235,http://concepticon.clld.org/parameters/682,-yooro-e,side
+172-676,enap1235,http://concepticon.clld.org/parameters/1093,ikitya,"middle, center"
+172-777,enap1235,http://concepticon.clld.org/parameters/1019,arʸe yaka,right (side)
+172-905,enap1235,http://concepticon.clld.org/parameters/244,poe yaka,left (side)
+172-776,enap1235,http://concepticon.clld.org/parameters/1942,ɲenča ehke,near (adv)
+172-49,enap1235,http://concepticon.clld.org/parameters/1406,ɲenča,far (adv)
+172-421,enap1235,http://concepticon.clld.org/parameters/1877,ehčerekun wosanto,east
+172-910,enap1235,http://concepticon.clld.org/parameters/1817,ehčerekun wənto,west
+172-338,enap1235,http://concepticon.clld.org/parameters/1598,ehčerekun wosanto yooroe,north
+172-841,enap1235,http://concepticon.clld.org/parameters/479,-uwəhsa-,grow
+172-390,enap1235,http://concepticon.clld.org/parameters/1506,-apə-,measure
+172-573,enap1235,http://concepticon.clld.org/parameters/1202,tosen-pe,"large, big"
+172-233,enap1235,http://concepticon.clld.org/parameters/1202,tosan-pe,"large, big"
+172-111,enap1235,http://concepticon.clld.org/parameters/1246,pɨɨča,"small, little"
+172-529,enap1235,http://concepticon.clld.org/parameters/1246,ari-pɨɨča,"small, little"
+172-672,enap1235,http://concepticon.clld.org/parameters/1203,t-ankəča-ke,long
+172-577,enap1235,http://concepticon.clld.org/parameters/711,kawə,tall
+172-507,enap1235,http://concepticon.clld.org/parameters/1645,kawə ehke,short
+172-672,enap1235,http://concepticon.clld.org/parameters/1243,t-ankəča-ke,"wide, broad"
+172-266,enap1235,http://concepticon.clld.org/parameters/1267,t-ankəča-ke ehke,narrow
+172-853,enap1235,http://concepticon.clld.org/parameters/1244,asɨɨ-pe,thick (in dimension)
+172-778,enap1235,http://concepticon.clld.org/parameters/1400,pityaka-sa,thin (in dimension)
+172-745,enap1235,http://concepticon.clld.org/parameters/1593,yukwai-pe,deep
+172-564,enap1235,http://concepticon.clld.org/parameters/193,yukwai-pe ehke,shallow
+172-228,enap1235,http://concepticon.clld.org/parameters/1633,kanapai-ke,flat
+172-413,enap1235,http://concepticon.clld.org/parameters/1404,təhsan,straight
+172-884,enap1235,http://concepticon.clld.org/parameters/297,toʔmeik,crooked
+172-95,enap1235,http://concepticon.clld.org/parameters/1071,wənətə,hook
+172-535,enap1235,http://concepticon.clld.org/parameters/192,ty-əwan,corner
+172-192,enap1235,http://concepticon.clld.org/parameters/1395,tɨ-muruhku-ke,round
+172-366,enap1235,http://concepticon.clld.org/parameters/1845,[perota],"sphere, ball"
+172-520,enap1235,http://concepticon.clld.org/parameters/1667,tahta,hole
+172-495,enap1235,http://concepticon.clld.org/parameters/1558,mɨnkaik,"like, similar"
+172-31,enap1235,http://concepticon.clld.org/parameters/1264,-eɲakantə-,change
+172-877,enap1235,http://concepticon.clld.org/parameters/1294,wehke,"zero, nothing"
+172-678,enap1235,http://concepticon.clld.org/parameters/1515,tyityasa,one
+172-780,enap1235,http://concepticon.clld.org/parameters/1498,asak,two
+172-107,enap1235,http://concepticon.clld.org/parameters/492,asonwa,three
+172-171,enap1235,http://concepticon.clld.org/parameters/1500,asaʔnan,four
+172-800,enap1235,http://concepticon.clld.org/parameters/493,eɲa-katoome,five
+172-908,enap1235,http://concepticon.clld.org/parameters/1703,tyityasa eɲa-katoe-tyo,six
+172-902,enap1235,http://concepticon.clld.org/parameters/1704,asak ku-eɲa-katoe-tyo,seven
+172-93,enap1235,http://concepticon.clld.org/parameters/1705,asaʔnan kiʔɲe,eight
+172-641,enap1235,http://concepticon.clld.org/parameters/1483,asaʔnan eɲa-katoe-tyo,nine
+172-692,enap1235,http://concepticon.clld.org/parameters/1515,(asa)pana eɲa yɨpun,ten
+172-191,enap1235,http://concepticon.clld.org/parameters/1706,tyityasa pata yɨpun,eleven
+172-416,enap1235,http://concepticon.clld.org/parameters/1707,asak pata yɨpun,twelve
+172-687,enap1235,http://concepticon.clld.org/parameters/1709,pata-katoome,fifteen
+172-324,enap1235,http://concepticon.clld.org/parameters/1710,(asa)pana pata yɨpun,twenty
+172-422,enap1235,http://concepticon.clld.org/parameters/1634,[sien] pe,hundred
+172-158,enap1235,http://concepticon.clld.org/parameters/1843,[mil] pe,thousand
+172-722,enap1235,http://concepticon.clld.org/parameters/1420,yuʔ(-ku),count
+172-264,enap1235,http://concepticon.clld.org/parameters/98,atawən,"every, all"
+172-377,enap1235,http://concepticon.clld.org/parameters/1198,kure,"much, many"
+172-395,enap1235,http://concepticon.clld.org/parameters/1992,-yimityaka,more
+172-593,enap1235,http://concepticon.clld.org/parameters/1242,kure ehke ča,"little (quantity), few"
+172-713,enap1235,http://concepticon.clld.org/parameters/1881,čanko,enough
+172-47,enap1235,http://concepticon.clld.org/parameters/1881,mainči,enough
+172-121,enap1235,http://concepticon.clld.org/parameters/1241,kura pɨkapɨ,some
+172-113,enap1235,http://concepticon.clld.org/parameters/2023,kure eʔɲapa,"multitude, crowd"
+172-226,enap1235,http://concepticon.clld.org/parameters/1429,tuke,full
+172-913,enap1235,http://concepticon.clld.org/parameters/1624,ataarɨʔka,empty
+172-255,enap1235,http://concepticon.clld.org/parameters/779,iʔyahpə,"part, piece"
+172-138,enap1235,http://concepticon.clld.org/parameters/816,t-usu-kɨtə,half
+172-547,enap1235,http://concepticon.clld.org/parameters/1580,-nkən,"alone, only"
+172-415,enap1235,http://concepticon.clld.org/parameters/728,paken,first
+172-82,enap1235,http://concepticon.clld.org/parameters/1529,kiɲə,last
+172-822,enap1235,http://concepticon.clld.org/parameters/1384,ty-asaʔna-n,second
+172-563,enap1235,http://concepticon.clld.org/parameters/1888,asaʔnən,pair
+172-771,enap1235,http://concepticon.clld.org/parameters/1546,asak kiɲo pək,two times
+172-418,enap1235,http://concepticon.clld.org/parameters/1859,ty-asonwa-n,third
+172-899,enap1235,http://concepticon.clld.org/parameters/417,asonwo pək,three times
+172-833,enap1235,http://concepticon.clld.org/parameters/1231,pik,new
+172-556,enap1235,http://concepticon.clld.org/parameters/1231,y-an-se,new
+172-546,enap1235,http://concepticon.clld.org/parameters/1207,pih-pe,young
+172-586,enap1235,http://concepticon.clld.org/parameters/1229,yuwačon-pe,old
+172-308,enap1235,http://concepticon.clld.org/parameters/1376,amenkən,now
+172-182,enap1235,http://concepticon.clld.org/parameters/1963,amenkən sa putuk,immediately
+172-210,enap1235,http://concepticon.clld.org/parameters/1631,peʔɲe,"swift, fast, quick"
+172-374,enap1235,http://concepticon.clld.org/parameters/701,tamai-pe,slow
+172-608,enap1235,http://concepticon.clld.org/parameters/754,peʔɲe (+ verb),"hasten, hurry"
+172-364,enap1235,http://concepticon.clld.org/parameters/425,-urupa-(-mɨ)(-mi),"retard, delay"
+172-8,enap1235,http://concepticon.clld.org/parameters/1806,-iʔyahtə-,"begin, beginning"
+172-731,enap1235,http://concepticon.clld.org/parameters/1806,iʔyahtətoʔ,"begin, beginning"
+172-385,enap1235,http://concepticon.clld.org/parameters/1186,arikɨʔka,"last, endure"
+172-701,enap1235,http://concepticon.clld.org/parameters/743,-iriʔma-,end (temporal)
+172-894,enap1235,http://concepticon.clld.org/parameters/1766,-ɨmɨnka-,finish
+172-244,enap1235,http://concepticon.clld.org/parameters/1928,-ɨpɨnka-,"cease, stop"
+172-311,enap1235,http://concepticon.clld.org/parameters/1928,-os-awaama-,"cease, stop"
+172-787,enap1235,http://concepticon.clld.org/parameters/1852,tuwəʔnaamak,often
+172-835,enap1235,http://concepticon.clld.org/parameters/1544,tyuwiʔyɨnčaaɲe,sometimes
+172-210,enap1235,http://concepticon.clld.org/parameters/703,peʔɲe,soon
+172-787,enap1235,http://concepticon.clld.org/parameters/418,tuwəʔnaamak,long-time (for a)
+172-428,enap1235,http://concepticon.clld.org/parameters/204,t-yako-pe,again
+172-431,enap1235,http://concepticon.clld.org/parameters/1260,wataweikasa,day
+172-152,enap1235,http://concepticon.clld.org/parameters/1233,sɨpaawə,night
+172-579,enap1235,http://concepticon.clld.org/parameters/729,-ataweika-,dawn
+172-600,enap1235,http://concepticon.clld.org/parameters/1339,anawənkən,morning
+172-684,enap1235,http://concepticon.clld.org/parameters/12,wewa,"noon, midday"
+172-452,enap1235,http://concepticon.clld.org/parameters/1807,koʔmanpe,afternoon
+172-452,enap1235,http://concepticon.clld.org/parameters/1629,koʔmanpe,evening
+172-832,enap1235,http://concepticon.clld.org/parameters/1283,muya muh,today
+172-636,enap1235,http://concepticon.clld.org/parameters/1329,anawən,tomorrow
+172-242,enap1235,http://concepticon.clld.org/parameters/1179,koeɲan,day-after-tomorrow
+172-242,enap1235,http://concepticon.clld.org/parameters/1174,koeɲan,yesterday
+172-242,enap1235,http://concepticon.clld.org/parameters/1180,koeɲan,day-before-yesterday
+172-141,enap1235,http://concepticon.clld.org/parameters/1353,[ora],hour
+172-332,enap1235,http://concepticon.clld.org/parameters/1323,ehčerekun ɲityo,"clock, timepiece"
+172-783,enap1235,http://concepticon.clld.org/parameters/1469,[semana],week
+172-71,enap1235,http://concepticon.clld.org/parameters/1370,wənə riʔma-,month
+172-831,enap1235,http://concepticon.clld.org/parameters/1226,onkoma riʔma-,year
+172-493,enap1235,http://concepticon.clld.org/parameters/1471,kano-nya,winter
+172-890,enap1235,http://concepticon.clld.org/parameters/1537,kanoʔ ukampe,spring
+172-116,enap1235,http://concepticon.clld.org/parameters/1342,kamaawə,summer
+172-871,enap1235,http://concepticon.clld.org/parameters/1587,-ɨsɨɨwahta-,smell (vb intrans)
+172-885,enap1235,http://concepticon.clld.org/parameters/1586,-eʔmu-,smell (vb trans)
+172-540,enap1235,http://concepticon.clld.org/parameters/376,apasu-təpək,"fragrant, good smelling"
+172-849,enap1235,http://concepticon.clld.org/parameters/376,t-apo-ke,"fragrant, good smelling"
+172-136,enap1235,http://concepticon.clld.org/parameters/42,yahtəʔka,"stinking, bad smelling"
+172-34,enap1235,http://concepticon.clld.org/parameters/42,t-ɨkɨ-ke,"stinking, bad smelling"
+172-390,enap1235,http://concepticon.clld.org/parameters/21,-apə-,taste
+172-167,enap1235,http://concepticon.clld.org/parameters/717,t-ukatɨ-ke,sweet
+172-524,enap1235,http://concepticon.clld.org/parameters/1091,kasuh-pa,salty
+172-13,enap1235,http://concepticon.clld.org/parameters/887,tuʔɲe,bitter
+172-818,enap1235,http://concepticon.clld.org/parameters/1906,katahpe,"acid, sour"
+172-12,enap1235,http://concepticon.clld.org/parameters/70,kasuhpa,brackish
+172-730,enap1235,http://concepticon.clld.org/parameters/1408,-itya-,hear
+172-730,enap1235,http://concepticon.clld.org/parameters/1608,-itya-,listen
+172-55,enap1235,http://concepticon.clld.org/parameters/1811,-yaipu,"sound, noise"
+172-430,enap1235,http://concepticon.clld.org/parameters/377,t-apuʔmo-ke,loud
+172-855,enap1235,http://concepticon.clld.org/parameters/1314,wehke tyaipu,"quiet, silence"
+172-376,enap1235,http://concepticon.clld.org/parameters/1409,-iɲei-,see
+172-880,enap1235,http://concepticon.clld.org/parameters/1819,-usəhpə-,"look, look at"
+172-872,enap1235,http://concepticon.clld.org/parameters/1039,ɲipo,show
+172-618,enap1235,http://concepticon.clld.org/parameters/708,-učeɲama-,shine
+172-392,enap1235,http://concepticon.clld.org/parameters/679,oweka-tə,bright
+172-614,enap1235,http://concepticon.clld.org/parameters/706,tɨ-puru-ke,dark (in color)
+172-53,enap1235,http://concepticon.clld.org/parameters/1335,tamuʔɲe,white
+172-614,enap1235,http://concepticon.clld.org/parameters/163,tɨ-puru-ke,black
+172-919,enap1235,http://concepticon.clld.org/parameters/156,t-ukin-ke,red
+172-243,enap1235,http://concepticon.clld.org/parameters/837,t-akuʔya-ke,blue
+172-243,enap1235,http://concepticon.clld.org/parameters/1425,t-akuʔya-ke,green
+172-919,enap1235,http://concepticon.clld.org/parameters/1424,t-ukin-ke,yellow
+172-390,enap1235,http://concepticon.clld.org/parameters/1892,-apə-,touch
+172-151,enap1235,http://concepticon.clld.org/parameters/1892,-eɲah-pa-,touch
+172-218,enap1235,http://concepticon.clld.org/parameters/378,-ihka-,pinch
+172-204,enap1235,http://concepticon.clld.org/parameters/378,-ipiri-kɨtə-,pinch
+172-390,enap1235,http://concepticon.clld.org/parameters/1079,-apə-,feel
+172-494,enap1235,http://concepticon.clld.org/parameters/1884,karatah-pe,hard
+172-607,enap1235,http://concepticon.clld.org/parameters/1856,karatah-pe ehke,soft
+172-41,enap1235,http://concepticon.clld.org/parameters/1923,t-ərəʔrə-če,rough
+172-270,enap1235,http://concepticon.clld.org/parameters/1234,t-ɨkarin-ke,smooth
+172-299,enap1235,http://concepticon.clld.org/parameters/1396,t-ɨyɨh-ke,sharp
+172-637,enap1235,http://concepticon.clld.org/parameters/379,t-ɨyɨ-ke ehke,"blunt, dull"
+172-659,enap1235,http://concepticon.clld.org/parameters/1210,taməʔɲe,heavy
+172-201,enap1235,http://concepticon.clld.org/parameters/1052,taməʔɲe ehke,light (in weight)
+172-516,enap1235,http://concepticon.clld.org/parameters/1726,t-ərəmə-če,"wet, damp"
+172-56,enap1235,http://concepticon.clld.org/parameters/1398,t-ukočike-če,dry
+172-655,enap1235,http://concepticon.clld.org/parameters/1286,katapəhtə,hot
+172-310,enap1235,http://concepticon.clld.org/parameters/1287,t-ɨʔnatə-ke,cold
+172-369,enap1235,http://concepticon.clld.org/parameters/704,tɨpuru-ke ehke,clean
+172-881,enap1235,http://concepticon.clld.org/parameters/1230,tɨpuru-ke,"dirty, soiled"
+172-759,enap1235,http://concepticon.clld.org/parameters/380,yu-weh-pityu-sa,wrinkled
+172-58,enap1235,http://concepticon.clld.org/parameters/53,iɲə,"soul, spirit"
+172-847,enap1235,http://concepticon.clld.org/parameters/1572,yos-awantəka-sa,"surprised, astonished"
+172-513,enap1235,http://concepticon.clld.org/parameters/1495,aya-pe,"joyful, glad, happy"
+172-328,enap1235,http://concepticon.clld.org/parameters/1355,-os-onoʔ(-pɨ)(-pi),laugh
+172-50,enap1235,http://concepticon.clld.org/parameters/1413,-os-amaɲi(-pɨ)(-pi),play
+172-90,enap1235,http://concepticon.clld.org/parameters/923,-ɨpɨɨma-,love
+172-214,enap1235,http://concepticon.clld.org/parameters/578,-uwaʔkɨmiʔ(-kɨ)(-ki),kiss
+172-214,enap1235,http://concepticon.clld.org/parameters/928,-uwaʔkɨmiʔ(-kɨ)(-ki),embrace
+172-741,enap1235,http://concepticon.clld.org/parameters/1783,-munko,pain
+172-720,enap1235,http://concepticon.clld.org/parameters/1668,ayape ehke yučin,"grief, sorrow, sadness"
+172-440,enap1235,http://concepticon.clld.org/parameters/1000,-usuruku-,"anxiety, worry"
+172-297,enap1235,http://concepticon.clld.org/parameters/1839,-tyei(-mɨ)(-mi),"cry, weep"
+172-131,enap1235,http://concepticon.clld.org/parameters/1651,t-yon usukun,tear (noun)
+172-312,enap1235,http://concepticon.clld.org/parameters/716,-ɨkara(-pɨ)(-pi),groan
+172-290,enap1235,http://concepticon.clld.org/parameters/1607,-uiyaʔ-ka,hate
+172-476,enap1235,http://concepticon.clld.org/parameters/1607,aɲ-ipi-ʔka,hate
+172-272,enap1235,http://concepticon.clld.org/parameters/82,wɨsɨpe,anger
+172-567,enap1235,http://concepticon.clld.org/parameters/40,-os-awanpika-,"envy, jealousy"
+172-403,enap1235,http://concepticon.clld.org/parameters/1776,-eʔyapa (-mɨ: -mi),shame (noun)
+172-294,enap1235,http://concepticon.clld.org/parameters/174,-otaʔrə-,proud
+172-277,enap1235,http://concepticon.clld.org/parameters/3,nkasɨmɨʔ-ka,brave
+172-261,enap1235,http://concepticon.clld.org/parameters/781,yɨnkasɨ,"fear, fright"
+172-198,enap1235,http://concepticon.clld.org/parameters/1810,awatə,danger
+172-695,enap1235,http://concepticon.clld.org/parameters/1784,iʔ(-pɨ)(-pi),"desire, want"
+172-621,enap1235,http://concepticon.clld.org/parameters/1750,-imenka-,choose
+172-915,enap1235,http://concepticon.clld.org/parameters/1092,t-yɨpəh-t-yon,hope
+172-542,enap1235,http://concepticon.clld.org/parameters/1657,ayan,true
+172-303,enap1235,http://concepticon.clld.org/parameters/601,asu,"lie, tell lies"
+172-917,enap1235,http://concepticon.clld.org/parameters/601,t-ičemaʔ-ke,"lie, tell lies"
+172-591,enap1235,http://concepticon.clld.org/parameters/13,muʔna-tə,deceit
+172-295,enap1235,http://concepticon.clld.org/parameters/1528,t-onke-če,forgive
+172-69,enap1235,http://concepticon.clld.org/parameters/1035,ayape,good
+172-892,enap1235,http://concepticon.clld.org/parameters/1292,arʸɨpɨ-pe,bad
+172-724,enap1235,http://concepticon.clld.org/parameters/1725,t-ah-se ehke,"right, correct"
+172-799,enap1235,http://concepticon.clld.org/parameters/1390,t-ah-se,wrong
+172-799,enap1235,http://concepticon.clld.org/parameters/1293,t-ah-se,"mistake, error"
+172-177,enap1235,http://concepticon.clld.org/parameters/381,-aʔkama-,blame
+172-252,enap1235,http://concepticon.clld.org/parameters/1687,ayape y-aʔkama-,praise
+172-127,enap1235,http://concepticon.clld.org/parameters/1427,korʸa-pe,beautiful
+172-317,enap1235,http://concepticon.clld.org/parameters/1548,taʔme,ugly
+172-815,enap1235,http://concepticon.clld.org/parameters/1310,tinča-ke,clever
+172-531,enap1235,http://concepticon.clld.org/parameters/1415,-uč-inča-ma-,think (= reflect)
+172-380,enap1235,http://concepticon.clld.org/parameters/1536,t-inča,understand
+172-380,enap1235,http://concepticon.clld.org/parameters/1410,t-inča,know
+172-469,enap1235,http://concepticon.clld.org/parameters/117,-ɨkuʔ(-ku),imitate
+172-549,enap1235,http://concepticon.clld.org/parameters/698,t-inča-ke,wise
+172-709,enap1235,http://concepticon.clld.org/parameters/1518,t-inča-ke ehke,"foolish, stupid"
+172-709,enap1235,http://concepticon.clld.org/parameters/1899,t-inča-ke ehke,"insane, crazy"
+172-887,enap1235,http://concepticon.clld.org/parameters/504,[-ɨpirentya-],learn
+172-887,enap1235,http://concepticon.clld.org/parameters/1929,[-ɨpirentya-],study
+172-812,enap1235,http://concepticon.clld.org/parameters/709,[-ɨpirentya-ma-],teach
+172-565,enap1235,http://concepticon.clld.org/parameters/753,[pirentya-ɲe],pupil
+172-642,enap1235,http://concepticon.clld.org/parameters/1038,[pirentya-ma-ɲe],teacher
+172-157,enap1235,http://concepticon.clld.org/parameters/673,[pirentya-nəto],school
+172-531,enap1235,http://concepticon.clld.org/parameters/707,-uč-inča-ma-,remember
+172-571,enap1235,http://concepticon.clld.org/parameters/1523,-on(ke)-,forget
+172-184,enap1235,http://concepticon.clld.org/parameters/989,katapon,"clear, plain"
+172-875,enap1235,http://concepticon.clld.org/parameters/1764,katapon ehke,obscure
+172-712,enap1235,http://concepticon.clld.org/parameters/509,ayan kiɲe,"sure, certain"
+172-552,enap1235,http://concepticon.clld.org/parameters/1626,-aʔkama- arʸipeɲe,explain
+172-616,enap1235,http://concepticon.clld.org/parameters/1162,-ɲepe,"intention, purpose"
+172-514,enap1235,http://concepticon.clld.org/parameters/1162,-toʔpe,"intention, purpose"
+172-616,enap1235,http://concepticon.clld.org/parameters/860,-ɲepe,cause
+172-514,enap1235,http://concepticon.clld.org/parameters/860,-toʔpe,cause
+172-301,enap1235,http://concepticon.clld.org/parameters/1902,-uʔ(-tu),betray
+172-805,enap1235,http://concepticon.clld.org/parameters/686,aʔroka-tə ehke,easy
+172-819,enap1235,http://concepticon.clld.org/parameters/584,aʔroka-tə,difficult
+172-568,enap1235,http://concepticon.clld.org/parameters/584,wenkama-tə,difficult
+172-390,enap1235,http://concepticon.clld.org/parameters/1812,-apə-,"try, attempt"
+172-495,enap1235,http://concepticon.clld.org/parameters/488,mɨnkaik,"way, manner"
+172-900,enap1235,http://concepticon.clld.org/parameters/1577,-yako,and
+172-265,enap1235,http://concepticon.clld.org/parameters/1577,yaʔnən,and
+172-725,enap1235,http://concepticon.clld.org/parameters/1577,yaʔkən,and
+172-690,enap1235,http://concepticon.clld.org/parameters/1157,-npək,because
+172-221,enap1235,http://concepticon.clld.org/parameters/1157,-npan,because
+172-690,enap1235,http://concepticon.clld.org/parameters/1459,-npək,if
+172-221,enap1235,http://concepticon.clld.org/parameters/1459,-npan,if
+172-791,enap1235,http://concepticon.clld.org/parameters/1268,aye,"yes, affirmative"
+172-837,enap1235,http://concepticon.clld.org/parameters/1269,čiʔka,"no, negative"
+172-623,enap1235,http://concepticon.clld.org/parameters/1239,sɨnkae,how?
+172-492,enap1235,http://concepticon.clld.org/parameters/822,əhsa,how many?
+172-358,enap1235,http://concepticon.clld.org/parameters/531,əhsa tɨnse,how much?
+172-525,enap1235,http://concepticon.clld.org/parameters/1236,nəhpa,what?
+172-240,enap1235,http://concepticon.clld.org/parameters/1238,sɨnkae-ya,when?
+172-594,enap1235,http://concepticon.clld.org/parameters/1238,sɨnka-ya-wo,when?
+172-63,enap1235,http://concepticon.clld.org/parameters/1237,əhtə,where?
+172-515,enap1235,http://concepticon.clld.org/parameters/1237,əhtə-na,where?
+172-530,enap1235,http://concepticon.clld.org/parameters/1237,əhtɨ-no,where?
+172-813,enap1235,http://concepticon.clld.org/parameters/727,tɨnapa,which?
+172-333,enap1235,http://concepticon.clld.org/parameters/1235,nək,who?
+172-357,enap1235,http://concepticon.clld.org/parameters/1270,əhkaik čɨnpək,why?
+172-55,enap1235,http://concepticon.clld.org/parameters/1363,-yaipu,voice
+172-829,enap1235,http://concepticon.clld.org/parameters/1261,waare(-mɨ)(-mi),sing
+172-350,enap1235,http://concepticon.clld.org/parameters/715,yɨkarah(pətɨn),"shout, cry out"
+172-410,enap1235,http://concepticon.clld.org/parameters/1025,-ityakin(-mɨ)(-mi),whistle
+172-387,enap1235,http://concepticon.clld.org/parameters/298,yɨkɨhtɨ(-mɨ)(-mi),"shriek, screech"
+172-288,enap1235,http://concepticon.clld.org/parameters/1623,-oromaepun(-mɨ)(-mi),"speak, talk"
+172-821,enap1235,http://concepticon.clld.org/parameters/1866,-ɨnkɨʔ-pətɨ-n,"stutter, stammer"
+172-604,enap1235,http://concepticon.clld.org/parameters/1458,ka-,say
+172-45,enap1235,http://concepticon.clld.org/parameters/1711,oromae yaʔkama-,tell story
+172-281,enap1235,http://concepticon.clld.org/parameters/48,ntapoʔka,silent (be)
+172-306,enap1235,http://concepticon.clld.org/parameters/1307,oromaepu,language
+172-306,enap1235,http://concepticon.clld.org/parameters/1599,oromaepu,word
+172-606,enap1235,http://concepticon.clld.org/parameters/1405,-ičeik,name
+172-65,enap1235,http://concepticon.clld.org/parameters/1309,-aʔkapo-,"ask (question, inquire)"
+172-337,enap1235,http://concepticon.clld.org/parameters/2022,-os-aʔkama-,"admit, confess"
+172-639,enap1235,http://concepticon.clld.org/parameters/755,-ɨnanɨʔ(-pɨ)(-pi),deny
+172-65,enap1235,http://concepticon.clld.org/parameters/1828,-aʔkapo-,"ask, request"
+172-639,enap1235,http://concepticon.clld.org/parameters/49,-ɨnanɨʔ(-pɨ)(-pi),refuse
+172-639,enap1235,http://concepticon.clld.org/parameters/83,-ɨnanɨʔ(-pɨ)(-pi),forbid
+172-386,enap1235,http://concepticon.clld.org/parameters/299,-ompiʔ(ku),"rebuke, scold"
+172-65,enap1235,http://concepticon.clld.org/parameters/1084,-aʔkapo-,call (=summon)
+172-643,enap1235,http://concepticon.clld.org/parameters/180,-ičeihtyə-,call (=name)
+172-177,enap1235,http://concepticon.clld.org/parameters/9,-aʔkama-,announce
+172-294,enap1235,http://concepticon.clld.org/parameters/101,-otaʔrə-,boast
+172-168,enap1235,http://concepticon.clld.org/parameters/1672,-amenkə-,write
+172-367,enap1235,http://concepticon.clld.org/parameters/724,[kapeere] ɲei-,read
+172-115,enap1235,http://concepticon.clld.org/parameters/648,[kapeere],paper
+172-36,enap1235,http://concepticon.clld.org/parameters/794,[kapeere] y-amenkə-to,pen
+172-115,enap1235,http://concepticon.clld.org/parameters/963,[kapeere],book
+172-340,enap1235,http://concepticon.clld.org/parameters/777,aramataimə,flute
+172-566,enap1235,http://concepticon.clld.org/parameters/777,ariʔrik,flute
+172-590,enap1235,http://concepticon.clld.org/parameters/2136,kaaču,"horn, trumpet"
+172-661,enap1235,http://concepticon.clld.org/parameters/300,[maraka],rattle
+172-555,enap1235,http://concepticon.clld.org/parameters/1300,pata,country
+172-830,enap1235,http://concepticon.clld.org/parameters/89,yɨ-pata-n,one's native country
+172-373,enap1235,http://concepticon.clld.org/parameters/1391,tato pata-n,"city, town"
+172-555,enap1235,http://concepticon.clld.org/parameters/930,pata,village
+172-349,enap1235,http://concepticon.clld.org/parameters/789,eʔɲapa,people (populace)
+172-645,enap1235,http://concepticon.clld.org/parameters/301,iʔyan,"chief, chieftain"
+172-612,enap1235,http://concepticon.clld.org/parameters/1296,iye,"staff, walking stick"
+172-80,enap1235,http://concepticon.clld.org/parameters/1846,-apoʔma-,"rule, govern"
+172-601,enap1235,http://concepticon.clld.org/parameters/383,-ičein,master
+172-852,enap1235,http://concepticon.clld.org/parameters/812,n-apoʔma-n,slave
+172-852,enap1235,http://concepticon.clld.org/parameters/255,n-apoʔma-n,servant
+172-613,enap1235,http://concepticon.clld.org/parameters/1128,apoʔma-nə-toʔ,"command, order"
+172-21,enap1235,http://concepticon.clld.org/parameters/1635,-os-apəʔ(-sɨ),obey
+172-842,enap1235,http://concepticon.clld.org/parameters/1003,ənaanɨpɨʔka,"let, permit"
+172-775,enap1235,http://concepticon.clld.org/parameters/1325,-powənan,"friend, companion"
+172-775,enap1235,http://concepticon.clld.org/parameters/1332,-powənan,neighbor
+172-162,enap1235,http://concepticon.clld.org/parameters/791,tonkonan,stranger
+172-753,enap1235,http://concepticon.clld.org/parameters/1782,panakon,guest
+172-526,enap1235,http://concepticon.clld.org/parameters/1897,-uwayuupa-,"help, aid"
+172-407,enap1235,http://concepticon.clld.org/parameters/1550,-ɨnaama-,"hinder, prevent"
+172-808,enap1235,http://concepticon.clld.org/parameters/1550,-ahtə-,"hinder, prevent"
+172-77,enap1235,http://concepticon.clld.org/parameters/1848,-us-ənə-,"strife, quarrel"
+172-130,enap1235,http://concepticon.clld.org/parameters/1831,-apoo-,meet
+172-77,enap1235,http://concepticon.clld.org/parameters/1423,-us-ənə-,fight (vb)
+172-77,enap1235,http://concepticon.clld.org/parameters/579,-us-ənə-,"war, battle"
+172-188,enap1235,http://concepticon.clld.org/parameters/1338,as-ɨnəʔ-ka weʔ-n-toʔ,peace
+172-747,enap1235,http://concepticon.clld.org/parameters/1561,[waaria],army
+172-747,enap1235,http://concepticon.clld.org/parameters/1941,[waaria],soldier
+172-625,enap1235,http://concepticon.clld.org/parameters/951,-kon,"weapons, arms"
+172-612,enap1235,http://concepticon.clld.org/parameters/1763,iye,club
+172-589,enap1235,http://concepticon.clld.org/parameters/387,tunko puʔmato,sling
+172-103,enap1235,http://concepticon.clld.org/parameters/994,kaʔka,bow
+172-717,enap1235,http://concepticon.clld.org/parameters/977,kaʔka poin mən,arrow
+172-216,enap1235,http://concepticon.clld.org/parameters/945,[ərainčihtyə],spear
+172-649,enap1235,http://concepticon.clld.org/parameters/1535,[ehpaara],sword
+172-583,enap1235,http://concepticon.clld.org/parameters/1566,kapuuča,"gun, cannon"
+172-733,enap1235,http://concepticon.clld.org/parameters/1061,wəʔ-nanɨʔ-n-toʔ,armor (defensive)
+172-355,enap1235,http://concepticon.clld.org/parameters/1680,arako,helmet
+172-166,enap1235,http://concepticon.clld.org/parameters/1064,wəʔ-nanɨʔ-n-to,shield
+172-751,enap1235,http://concepticon.clld.org/parameters/783,tyɨ-pək wəh-sayuupa-toʔ,victory
+172-751,enap1235,http://concepticon.clld.org/parameters/782,tyɨ-pək wəh-sayuupa-toʔ,defeat
+172-122,enap1235,http://concepticon.clld.org/parameters/1858,kana y-an-ɲe pe mənək,fisherman
+172-95,enap1235,http://concepticon.clld.org/parameters/1074,wənətə,fishhook
+172-858,enap1235,http://concepticon.clld.org/parameters/19,wənətə yači,fishing line
+172-68,enap1235,http://concepticon.clld.org/parameters/388,kana y-an-toʔ,fishnet
+172-447,enap1235,http://concepticon.clld.org/parameters/389,kana yanto,fish trap
+172-584,enap1235,http://concepticon.clld.org/parameters/2013,kana yok,bait
+172-79,enap1235,http://concepticon.clld.org/parameters/1435,ataraama-,hunt
+172-801,enap1235,http://concepticon.clld.org/parameters/1172,-uwə-,shoot
+172-425,enap1235,http://concepticon.clld.org/parameters/1172,-ama-,shoot
+172-767,enap1235,http://concepticon.clld.org/parameters/161,-ikima-,miss (target)
+172-348,enap1235,http://concepticon.clld.org/parameters/161,-ɨɲama-,miss (target)
+172-921,enap1235,http://concepticon.clld.org/parameters/1062,apoʔma-nəto,law
+172-177,enap1235,http://concepticon.clld.org/parameters/1814,-aʔkama-,accuse
+172-110,enap1235,http://concepticon.clld.org/parameters/390,awa-nə-toʔ,"penalty, punishment"
+172-811,enap1235,http://concepticon.clld.org/parameters/1281,mukuʔnto,"prison, jail"
+172-425,enap1235,http://concepticon.clld.org/parameters/845,-ama-,murder
+172-481,enap1235,http://concepticon.clld.org/parameters/713,-imempa-,steal
+172-78,enap1235,http://concepticon.clld.org/parameters/1160,timi-ɲe,thief
+172-554,enap1235,http://concepticon.clld.org/parameters/1944,marʸewaka,God
+172-816,enap1235,http://concepticon.clld.org/parameters/911,mukuʔma-nə-toʔ,"temple, church"
+172-526,enap1235,http://concepticon.clld.org/parameters/391,-uwayuupa-,bless
+172-897,enap1235,http://concepticon.clld.org/parameters/8,-ihkimɨ(-kɨ)(-ki),curse
+172-723,enap1235,http://concepticon.clld.org/parameters/1973,mahtikiri,demon (evil spirit)
+172-139,enap1235,http://concepticon.clld.org/parameters/1973,tukuəik,demon (evil spirit)
+172-756,enap1235,http://concepticon.clld.org/parameters/392,kowae t-uka-k,"magic, witchcraft, sorcery"
+172-645,enap1235,http://concepticon.clld.org/parameters/2137,iʔyan,"sorcerer, witch"
+172-624,enap1235,http://concepticon.clld.org/parameters/1175,koičamun,"ghost, phantom"

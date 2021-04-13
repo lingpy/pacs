@@ -1,0 +1,807 @@
+ID,Language_ID,Feature_ID,Value,Concept
+229-149,nucl1649,http://concepticon.clld.org/parameters/965,haʔlidzook,world
+229-289,nucl1649,http://concepticon.clld.org/parameters/626,yuup,"earth, land"
+229-250,nucl1649,http://concepticon.clld.org/parameters/626,yuub-,"earth, land"
+229-192,nucl1649,http://concepticon.clld.org/parameters/1228,laxyuup,"earth=ground, soil"
+229-289,nucl1649,http://concepticon.clld.org/parameters/2,yuup,dust
+229-250,nucl1649,http://concepticon.clld.org/parameters/2,yuub-,dust
+229-712,nucl1649,http://concepticon.clld.org/parameters/640,loʔoky,mud
+229-370,nucl1649,http://concepticon.clld.org/parameters/671,aws,sand
+229-310,nucl1649,http://concepticon.clld.org/parameters/2118,sgaʔniis,"mountain, hill"
+229-672,nucl1649,http://concepticon.clld.org/parameters/2118,saʔniist,"mountain, hill"
+229-37,nucl1649,http://concepticon.clld.org/parameters/2118,dii,"mountain, hill"
+229-495,nucl1649,http://concepticon.clld.org/parameters/2118,didiiya,"mountain, hill"
+229-738,nucl1649,http://concepticon.clld.org/parameters/2118,laxdii,"mountain, hill"
+229-124,nucl1649,http://concepticon.clld.org/parameters/2118,didii,"mountain, hill"
+229-558,nucl1649,http://concepticon.clld.org/parameters/618,biaaxł,"cliff, precipice"
+229-400,nucl1649,http://concepticon.clld.org/parameters/618,kˀyabeelda,"cliff, precipice"
+229-403,nucl1649,http://concepticon.clld.org/parameters/652,laxnapˀaa,"plain, field"
+229-432,nucl1649,http://concepticon.clld.org/parameters/921,łgwtˀiin,valley
+229-639,nucl1649,http://concepticon.clld.org/parameters/622,lükstaa,island
+229-63,nucl1649,http://concepticon.clld.org/parameters/113,gyeeka,shore
+229-21,nucl1649,http://concepticon.clld.org/parameters/113,hałgyiik,shore
+229-623,nucl1649,http://concepticon.clld.org/parameters/1155,c̷ˀmloob,cave
+229-571,nucl1649,http://concepticon.clld.org/parameters/948,ksaʔaamks,water
+229-638,nucl1649,http://concepticon.clld.org/parameters/1474,moon,sea
+229-176,nucl1649,http://concepticon.clld.org/parameters/1768,xeex,foam
+229-387,nucl1649,http://concepticon.clld.org/parameters/645,laxsüülda,ocean
+229-65,nucl1649,http://concepticon.clld.org/parameters/624,laxtˀaa,lake
+229-219,nucl1649,http://concepticon.clld.org/parameters/978,goop,wave
+229-279,nucl1649,http://concepticon.clld.org/parameters/1026,wagagyik,lowtide
+229-145,nucl1649,http://concepticon.clld.org/parameters/613,leeksʔaaks,hightide
+229-416,nucl1649,http://concepticon.clld.org/parameters/666,kˀalaʔaks,"river, stream, brook"
+229-398,nucl1649,http://concepticon.clld.org/parameters/666,smhuʔadzak,"river, stream, brook"
+229-759,nucl1649,http://concepticon.clld.org/parameters/1982,c̷ˀalaks,whirlpool
+229-637,nucl1649,http://concepticon.clld.org/parameters/2144,gwanüks,"spring, well"
+229-725,nucl1649,http://concepticon.clld.org/parameters/943,ʔyagagwinuusk,waterfall
+229-674,nucl1649,http://concepticon.clld.org/parameters/420,gyilhawli,"woods, forest"
+229-22,nucl1649,http://concepticon.clld.org/parameters/420,spaygangan,"woods, forest"
+229-506,nucl1649,http://concepticon.clld.org/parameters/906,gan,tree (cf 08.600)
+229-277,nucl1649,http://concepticon.clld.org/parameters/906,gangan,tree (cf 08.600)
+229-529,nucl1649,http://concepticon.clld.org/parameters/2125,loop,"stone, rock"
+229-190,nucl1649,http://concepticon.clld.org/parameters/2125,loob-,"stone, rock"
+229-167,nucl1649,http://concepticon.clld.org/parameters/2125,lüploop,"stone, rock"
+229-483,nucl1649,http://concepticon.clld.org/parameters/6,yaak,earthquake
+229-180,nucl1649,http://concepticon.clld.org/parameters/6,yaag-,earthquake
+229-645,nucl1649,http://concepticon.clld.org/parameters/1732,laxa,sky
+229-737,nucl1649,http://concepticon.clld.org/parameters/1343,gimgmdziws,sun
+229-46,nucl1649,http://concepticon.clld.org/parameters/1313,gooypah,moon
+229-78,nucl1649,http://concepticon.clld.org/parameters/1313,gyemgmaatk,moon
+229-702,nucl1649,http://concepticon.clld.org/parameters/1430,biyaals,star
+229-589,nucl1649,http://concepticon.clld.org/parameters/1654,c̷ˀamti,lightning
+229-630,nucl1649,http://concepticon.clld.org/parameters/1150,galapliib,thunder
+229-352,nucl1649,http://concepticon.clld.org/parameters/858,beegaʔaks,storm
+229-645,nucl1649,http://concepticon.clld.org/parameters/858,laxa,storm
+229-554,nucl1649,http://concepticon.clld.org/parameters/858,xbaʔala,storm
+229-655,nucl1649,http://concepticon.clld.org/parameters/1733,maaxay,rainbow
+229-26,nucl1649,http://concepticon.clld.org/parameters/630,dziiws,light (noun)
+229-423,nucl1649,http://concepticon.clld.org/parameters/630,laakws,light (noun)
+229-545,nucl1649,http://concepticon.clld.org/parameters/11,hupl,darkness
+229-437,nucl1649,http://concepticon.clld.org/parameters/11,sgaytk,darkness
+229-701,nucl1649,http://concepticon.clld.org/parameters/27,ha,air
+229-452,nucl1649,http://concepticon.clld.org/parameters/1489,wukc̷ˀan,cloud
+229-367,nucl1649,http://concepticon.clld.org/parameters/249,waas-myeen,fog
+229-346,nucl1649,http://concepticon.clld.org/parameters/249,yeen,fog
+229-257,nucl1649,http://concepticon.clld.org/parameters/658,waas,rain (noun)
+229-207,nucl1649,http://concepticon.clld.org/parameters/784,maadm,snow (noun)
+229-120,nucl1649,http://concepticon.clld.org/parameters/784,yaamooks,snow (noun)
+229-169,nucl1649,http://concepticon.clld.org/parameters/221,lak,fire
+229-32,nucl1649,http://concepticon.clld.org/parameters/221,lac-,fire
+229-381,nucl1649,http://concepticon.clld.org/parameters/221,smlak,fire
+229-87,nucl1649,http://concepticon.clld.org/parameters/221,smlag-,fire
+229-155,nucl1649,http://concepticon.clld.org/parameters/889,duulalek,flame (noun)
+229-681,nucl1649,http://concepticon.clld.org/parameters/778,pˀiyaan,smoke (noun)
+229-667,nucl1649,http://concepticon.clld.org/parameters/778,xpˀiyeen,smoke (noun)
+229-212,nucl1649,http://concepticon.clld.org/parameters/646,goom,ashes
+229-722,nucl1649,http://concepticon.clld.org/parameters/646,uuniksik,ashes
+229-746,nucl1649,http://concepticon.clld.org/parameters/141,dziiblk,burn (vb trans)
+229-479,nucl1649,http://concepticon.clld.org/parameters/141,laguula,burn (vb trans)
+229-34,nucl1649,http://concepticon.clld.org/parameters/141,maalk,burn (vb trans)
+229-697,nucl1649,http://concepticon.clld.org/parameters/1428,gwalak,burn (vb intrans)
+229-106,nucl1649,http://concepticon.clld.org/parameters/737,sülaks,"light, kindle, ignite"
+229-326,nucl1649,http://concepticon.clld.org/parameters/127,c̷ˀaky,extinguish
+229-114,nucl1649,http://concepticon.clld.org/parameters/10,ołk,firewood
+229-341,nucl1649,http://concepticon.clld.org/parameters/1188,gamtʔuʔc̷k,charcoal
+229-249,nucl1649,http://concepticon.clld.org/parameters/1188,lügooks,charcoal
+229-428,nucl1649,http://concepticon.clld.org/parameters/683,gyet,"person, human being"
+229-93,nucl1649,http://concepticon.clld.org/parameters/1554,ʔyuuta,man (vs. woman)
+229-691,nucl1649,http://concepticon.clld.org/parameters/1554,yikˀyuuta,man (vs. woman)
+229-428,nucl1649,http://concepticon.clld.org/parameters/1554,gyet,man (vs. woman)
+229-247,nucl1649,http://concepticon.clld.org/parameters/962,hanaʔa,woman
+229-460,nucl1649,http://concepticon.clld.org/parameters/962,hanaʔnk,woman
+229-592,nucl1649,http://concepticon.clld.org/parameters/1366,gyinaas,boy
+229-613,nucl1649,http://concepticon.clld.org/parameters/1366,łgułgmʔyu,boy
+229-364,nucl1649,http://concepticon.clld.org/parameters/1646,łgułgm-hanaʔa,girl
+229-193,nucl1649,http://concepticon.clld.org/parameters/1304,kˀabatgüüłk,child
+229-689,nucl1649,http://concepticon.clld.org/parameters/1304,łguwoomłk,child
+229-162,nucl1649,http://concepticon.clld.org/parameters/1289,kłgüü,"infant, baby"
+229-689,nucl1649,http://concepticon.clld.org/parameters/1289,łguwoomłk,"infant, baby"
+229-480,nucl1649,http://concepticon.clld.org/parameters/203,naks,marry
+229-463,nucl1649,http://concepticon.clld.org/parameters/203,smhaw-naks,marry
+229-338,nucl1649,http://concepticon.clld.org/parameters/1217,aap,father
+229-295,nucl1649,http://concepticon.clld.org/parameters/1217,aab-,father
+229-413,nucl1649,http://concepticon.clld.org/parameters/1217,pˀaʔa,father
+229-582,nucl1649,http://concepticon.clld.org/parameters/1217,gwat,father
+229-137,nucl1649,http://concepticon.clld.org/parameters/1217,nagwaat,father
+229-740,nucl1649,http://concepticon.clld.org/parameters/1216,nay,mother
+229-210,nucl1649,http://concepticon.clld.org/parameters/1216,noo,mother
+229-613,nucl1649,http://concepticon.clld.org/parameters/1620,łgułgmʔyu,son
+229-364,nucl1649,http://concepticon.clld.org/parameters/1357,łgułgm-hanaʔa,daughter
+229-52,nucl1649,http://concepticon.clld.org/parameters/1262,haat,brother
+229-394,nucl1649,http://concepticon.clld.org/parameters/1262,hadm,brother
+229-119,nucl1649,http://concepticon.clld.org/parameters/1262,łmktii,brother
+229-220,nucl1649,http://concepticon.clld.org/parameters/1262,wegi,brother
+229-321,nucl1649,http://concepticon.clld.org/parameters/1262,weky,brother
+229-530,nucl1649,http://concepticon.clld.org/parameters/1263,łgaawkˀ,sister
+229-119,nucl1649,http://concepticon.clld.org/parameters/1263,łmktii,sister
+229-673,nucl1649,http://concepticon.clld.org/parameters/1005,süwiihoon,twins
+229-350,nucl1649,http://concepticon.clld.org/parameters/1383,niiya,grandfather
+229-14,nucl1649,http://concepticon.clld.org/parameters/1383,ʔyeʔe,grandfather
+229-551,nucl1649,http://concepticon.clld.org/parameters/1496,dziʔis,grandmother
+229-303,nucl1649,http://concepticon.clld.org/parameters/1496,nc̷ˀiʔis,grandmother
+229-348,nucl1649,http://concepticon.clld.org/parameters/1496,c̷ˀiʔi,grandmother
+229-64,nucl1649,http://concepticon.clld.org/parameters/1327,nibip,uncle
+229-421,nucl1649,http://concepticon.clld.org/parameters/1272,daʔas,aunt
+229-189,nucl1649,http://concepticon.clld.org/parameters/1272,niktˀaa,aunt
+229-408,nucl1649,http://concepticon.clld.org/parameters/1063,łguł,nephew
+229-408,nucl1649,http://concepticon.clld.org/parameters/1642,łguł,niece
+229-680,nucl1649,http://concepticon.clld.org/parameters/1643,oʔos,cousin
+229-307,nucl1649,http://concepticon.clld.org/parameters/490,ntxalaa,descendants
+229-429,nucl1649,http://concepticon.clld.org/parameters/1007,mismuus,cow
+229-264,nucl1649,http://concepticon.clld.org/parameters/1502,mati,goat
+229-622,nucl1649,http://concepticon.clld.org/parameters/615,gyudan,horse (equine)
+229-401,nucl1649,http://concepticon.clld.org/parameters/1187,haʔa,goose
+229-293,nucl1649,http://concepticon.clld.org/parameters/539,luułk,nest
+229-735,nucl1649,http://concepticon.clld.org/parameters/539,naluułk,nest
+229-363,nucl1649,http://concepticon.clld.org/parameters/937,c̷ˀuuʔc̷,bird
+229-462,nucl1649,http://concepticon.clld.org/parameters/950,gagoom,seagull
+229-546,nucl1649,http://concepticon.clld.org/parameters/1905,xsgyiik,eagle
+229-281,nucl1649,http://concepticon.clld.org/parameters/307,sgyaamsm,hawk
+229-89,nucl1649,http://concepticon.clld.org/parameters/307,xsuʔusk,hawk
+229-323,nucl1649,http://concepticon.clld.org/parameters/1793,c̷ˀogatˀaxtxaył,bat
+229-536,nucl1649,http://concepticon.clld.org/parameters/735,gwitgwiniiks,owl
+229-50,nucl1649,http://concepticon.clld.org/parameters/2009,haas,dog
+229-640,nucl1649,http://concepticon.clld.org/parameters/2009,hashaas,dog
+229-575,nucl1649,http://concepticon.clld.org/parameters/1136,stukwliin,rabbit
+229-378,nucl1649,http://concepticon.clld.org/parameters/2139,gaagłik,"mouse, rat"
+229-158,nucl1649,http://concepticon.clld.org/parameters/227,hon,fish
+229-709,nucl1649,http://concepticon.clld.org/parameters/227,uu,fish
+229-50,nucl1649,http://concepticon.clld.org/parameters/213,haas,fin (dorsal)
+229-1,nucl1649,http://concepticon.clld.org/parameters/1110,ksaa,shark
+229-596,nucl1649,http://concepticon.clld.org/parameters/1479,dziiẅ,"porpoise, dolphin"
+229-10,nucl1649,http://concepticon.clld.org/parameters/957,łbuun,whale
+229-74,nucl1649,http://concepticon.clld.org/parameters/1013,loʔk,freshwater eel
+229-586,nucl1649,http://concepticon.clld.org/parameters/1013,loʔox,freshwater eel
+229-330,nucl1649,http://concepticon.clld.org/parameters/1820,masgmˀol,bear
+229-267,nucl1649,http://concepticon.clld.org/parameters/1936,wan,deer
+229-91,nucl1649,http://concepticon.clld.org/parameters/310,c̷ˀaskw,louse
+229-41,nucl1649,http://concepticon.clld.org/parameters/843,sgyet,spider
+229-721,nucl1649,http://concepticon.clld.org/parameters/665,ap,bee
+229-83,nucl1649,http://concepticon.clld.org/parameters/665,ab-,bee
+229-721,nucl1649,http://concepticon.clld.org/parameters/1517,ap,wasp
+229-716,nucl1649,http://concepticon.clld.org/parameters/1517,ab,wasp
+229-199,nucl1649,http://concepticon.clld.org/parameters/1517,hakhaps,wasp
+229-478,nucl1649,http://concepticon.clld.org/parameters/1504,gyiik,fly
+229-478,nucl1649,http://concepticon.clld.org/parameters/1509,gyiik,mosquito
+229-333,nucl1649,http://concepticon.clld.org/parameters/1219,laalt,worm
+229-369,nucl1649,http://concepticon.clld.org/parameters/1219,laald-,worm
+229-18,nucl1649,http://concepticon.clld.org/parameters/730,matxalaalt,snake
+229-24,nucl1649,http://concepticon.clld.org/parameters/1791,baxbogmgyemk,butterfly
+229-431,nucl1649,http://concepticon.clld.org/parameters/503,ganaw,frog
+229-236,nucl1649,http://concepticon.clld.org/parameters/632,ksiił,lizard
+229-426,nucl1649,http://concepticon.clld.org/parameters/763,anaas,"skin, hide"
+229-240,nucl1649,http://concepticon.clld.org/parameters/763,akˀanaas,"skin, hide"
+229-541,nucl1649,http://concepticon.clld.org/parameters/2259,sami,flesh
+229-75,nucl1649,http://concepticon.clld.org/parameters/1040,gaws,hair (head)
+229-486,nucl1649,http://concepticon.clld.org/parameters/1040,nakʔawst,hair (head)
+229-69,nucl1649,http://concepticon.clld.org/parameters/678,iimk,beard
+229-357,nucl1649,http://concepticon.clld.org/parameters/189,lii,body hair
+229-357,nucl1649,http://concepticon.clld.org/parameters/36,lii,pubic hair
+229-171,nucl1649,http://concepticon.clld.org/parameters/946,iłee,blood
+229-542,nucl1649,http://concepticon.clld.org/parameters/525,gawiłee,"vein, artery"
+229-49,nucl1649,http://concepticon.clld.org/parameters/1394,sayp,bone
+229-482,nucl1649,http://concepticon.clld.org/parameters/801,ptal,rib
+229-305,nucl1649,http://concepticon.clld.org/parameters/801,buptal,rib
+229-274,nucl1649,http://concepticon.clld.org/parameters/1393,gagaaws,horn
+229-331,nucl1649,http://concepticon.clld.org/parameters/1220,c̷ˀuup,tail
+229-728,nucl1649,http://concepticon.clld.org/parameters/1291,akˀoo,back
+229-581,nucl1649,http://concepticon.clld.org/parameters/1291,hakˀoo,back
+229-616,nucl1649,http://concepticon.clld.org/parameters/1291,kˀo,back
+229-246,nucl1649,http://concepticon.clld.org/parameters/1291,kˀakˀo,back
+229-598,nucl1649,http://concepticon.clld.org/parameters/805,kˀoo,spine
+229-335,nucl1649,http://concepticon.clld.org/parameters/805,seybmkˀoo,spine
+229-395,nucl1649,http://concepticon.clld.org/parameters/805,tˀmkˀo,spine
+229-196,nucl1649,http://concepticon.clld.org/parameters/1256,tˀmgaws,head
+229-270,nucl1649,http://concepticon.clld.org/parameters/1604,hanhani,"side of head, temple"
+229-635,nucl1649,http://concepticon.clld.org/parameters/1605,kˀooli,skull
+229-539,nucl1649,http://concepticon.clld.org/parameters/1583,wüngaws,brain
+229-179,nucl1649,http://concepticon.clld.org/parameters/1560,c̷ˀal,face
+229-80,nucl1649,http://concepticon.clld.org/parameters/1560,c̷ˀikc̷alt,face
+229-328,nucl1649,http://concepticon.clld.org/parameters/123,woopx,forehead
+229-464,nucl1649,http://concepticon.clld.org/parameters/1730,daʔoox,cheek
+229-481,nucl1649,http://concepticon.clld.org/parameters/1730,wündo,cheek
+229-318,nucl1649,http://concepticon.clld.org/parameters/1510,kpaaẅ,chin
+229-179,nucl1649,http://concepticon.clld.org/parameters/1248,c̷ˀal,eye
+229-80,nucl1649,http://concepticon.clld.org/parameters/1248,c̷ˀikc̷alt,eye
+229-438,nucl1649,http://concepticon.clld.org/parameters/1173,lagyiil,eyebrow
+229-216,nucl1649,http://concepticon.clld.org/parameters/17,laxˀool,eyelid
+229-103,nucl1649,http://concepticon.clld.org/parameters/1540,nooml,eyelash
+229-700,nucl1649,http://concepticon.clld.org/parameters/1540,woʔaml,eyelash
+229-288,nucl1649,http://concepticon.clld.org/parameters/1655,gapʔeeltk,blink
+229-366,nucl1649,http://concepticon.clld.org/parameters/1655,kˀasiipsl,blink
+229-430,nucl1649,http://concepticon.clld.org/parameters/1247,muk,ear
+229-434,nucl1649,http://concepticon.clld.org/parameters/1247,mug-,ear
+229-86,nucl1649,http://concepticon.clld.org/parameters/1247,ga-muukt,ear
+229-275,nucl1649,http://concepticon.clld.org/parameters/1247,c̷ˀmmuu,ear
+229-178,nucl1649,http://concepticon.clld.org/parameters/1221,c̷ˀak,nose
+229-2,nucl1649,http://concepticon.clld.org/parameters/1178,c̷ˀmc̷ˀax,nostril
+229-677,nucl1649,http://concepticon.clld.org/parameters/674,c̷ˀmʔaax,mouth
+229-593,nucl1649,http://concepticon.clld.org/parameters/478,gwak,lip
+229-371,nucl1649,http://concepticon.clld.org/parameters/478,gwiłʔaax,lip
+229-375,nucl1649,http://concepticon.clld.org/parameters/1205,duula,tongue
+229-501,nucl1649,http://concepticon.clld.org/parameters/1380,ʔwaan,tooth
+229-505,nucl1649,http://concepticon.clld.org/parameters/1380,wükˀwaan,tooth
+229-61,nucl1649,http://concepticon.clld.org/parameters/1333,tˀmlaani,neck
+229-228,nucl1649,http://concepticon.clld.org/parameters/1347,c̷ˀmtˀii,nape of neck
+229-225,nucl1649,http://concepticon.clld.org/parameters/1346,sˀaawg,throat
+229-136,nucl1649,http://concepticon.clld.org/parameters/1482,tˀmgay,shoulder
+229-299,nucl1649,http://concepticon.clld.org/parameters/172,spinooł,shoulderblade
+229-136,nucl1649,http://concepticon.clld.org/parameters/1673,tˀmgay,arm
+229-27,nucl1649,http://concepticon.clld.org/parameters/1673,hac̷ˀaʔanˀon,arm
+229-578,nucl1649,http://concepticon.clld.org/parameters/1886,c̷ʔaans,armpit
+229-527,nucl1649,http://concepticon.clld.org/parameters/981,maʔon,elbow
+229-239,nucl1649,http://concepticon.clld.org/parameters/981,sganis,elbow
+229-410,nucl1649,http://concepticon.clld.org/parameters/799,łmˀanʔon,wrist
+229-718,nucl1649,http://concepticon.clld.org/parameters/1277,anʔon,hand
+229-340,nucl1649,http://concepticon.clld.org/parameters/1277,gaʔanʔon,hand
+229-44,nucl1649,http://concepticon.clld.org/parameters/1183,kˀyilaa,palm of hand
+229-473,nucl1649,http://concepticon.clld.org/parameters/1183,c̷ˀmʔanʔon,palm of hand
+229-173,nucl1649,http://concepticon.clld.org/parameters/1303,hadzeyx,finger
+229-686,nucl1649,http://concepticon.clld.org/parameters/1303,kˀac̷iweelt,finger
+229-742,nucl1649,http://concepticon.clld.org/parameters/1303,c̷ˀawaal,finger
+229-418,nucl1649,http://concepticon.clld.org/parameters/1781,moos,thumb
+229-123,nucl1649,http://concepticon.clld.org/parameters/1258,łaxs,fingernail
+229-123,nucl1649,http://concepticon.clld.org/parameters/72,łaxs,claw
+229-424,nucl1649,http://concepticon.clld.org/parameters/1297,gasasi,leg
+229-517,nucl1649,http://concepticon.clld.org/parameters/1297,tˀmłaam,leg
+229-577,nucl1649,http://concepticon.clld.org/parameters/1371,galgaʔaaysuu,knee
+229-631,nucl1649,http://concepticon.clld.org/parameters/1371,kˀalkˀays,knee
+229-60,nucl1649,http://concepticon.clld.org/parameters/1301,asii,foot
+229-424,nucl1649,http://concepticon.clld.org/parameters/1301,gasasi,foot
+229-507,nucl1649,http://concepticon.clld.org/parameters/1301,gasisii,foot
+229-559,nucl1649,http://concepticon.clld.org/parameters/803,hamhom,ankle
+229-355,nucl1649,http://concepticon.clld.org/parameters/803,xc̷ˀaʔasi,ankle
+229-617,nucl1649,http://concepticon.clld.org/parameters/1389,xskˀaanaxs,toe
+229-235,nucl1649,http://concepticon.clld.org/parameters/1257,gaʔay,wing
+229-453,nucl1649,http://concepticon.clld.org/parameters/1257,kˀakˀay,wing
+229-357,nucl1649,http://concepticon.clld.org/parameters/1201,lii,feather
+229-62,nucl1649,http://concepticon.clld.org/parameters/1201,liimc̷ˀuʔuc̷,feather
+229-332,nucl1649,http://concepticon.clld.org/parameters/1592,gayk,chest
+229-231,nucl1649,http://concepticon.clld.org/parameters/1838,tˀiʔik,navel
+229-657,nucl1649,http://concepticon.clld.org/parameters/1838,tˀiʔig-,navel
+229-217,nucl1649,http://concepticon.clld.org/parameters/1223,goot,heart
+229-337,nucl1649,http://concepticon.clld.org/parameters/688,bee,lung
+229-164,nucl1649,http://concepticon.clld.org/parameters/489,libec̷ˀaẅ,kidney
+229-143,nucl1649,http://concepticon.clld.org/parameters/819,galˀoos,stomach
+229-680,nucl1649,http://concepticon.clld.org/parameters/819,oʔos,stomach
+229-187,nucl1649,http://concepticon.clld.org/parameters/819,galˀoʔos,stomach
+229-52,nucl1649,http://concepticon.clld.org/parameters/1991,haat,"intestines, guts"
+229-757,nucl1649,http://concepticon.clld.org/parameters/1681,gyikʔaak,waist
+229-757,nucl1649,http://concepticon.clld.org/parameters/1745,gyikʔaak,hip
+229-140,nucl1649,http://concepticon.clld.org/parameters/1745,tˀmba,hip
+229-687,nucl1649,http://concepticon.clld.org/parameters/1745,waa,hip
+229-363,nucl1649,http://concepticon.clld.org/parameters/1222,c̷ˀuuʔc̷,penis
+229-237,nucl1649,http://concepticon.clld.org/parameters/1407,ksinaał,"breathe, breath"
+229-732,nucl1649,http://concepticon.clld.org/parameters/1407,naał,"breathe, breath"
+229-97,nucl1649,http://concepticon.clld.org/parameters/1440,puksk,spit
+229-297,nucl1649,http://concepticon.clld.org/parameters/1440,yaaxł,spit
+229-492,nucl1649,http://concepticon.clld.org/parameters/1278,xsiit,vomit
+229-749,nucl1649,http://concepticon.clld.org/parameters/1403,kˀay,bite
+229-590,nucl1649,http://concepticon.clld.org/parameters/1403,laʔa,bite
+229-131,nucl1649,http://concepticon.clld.org/parameters/1403,łaʔax,bite
+229-292,nucl1649,http://concepticon.clld.org/parameters/1403,łakˀaw,bite
+229-153,nucl1649,http://concepticon.clld.org/parameters/1585,stox,sleep
+229-339,nucl1649,http://concepticon.clld.org/parameters/1585,laxstox,sleep
+229-448,nucl1649,http://concepticon.clld.org/parameters/1585,wok,sleep
+229-494,nucl1649,http://concepticon.clld.org/parameters/1585,xstˀook,sleep
+229-406,nucl1649,http://concepticon.clld.org/parameters/1920,ksaʔwoox,dream
+229-433,nucl1649,http://concepticon.clld.org/parameters/1920,xsiwoox,dream
+229-459,nucl1649,http://concepticon.clld.org/parameters/1602,gaksk,wake up
+229-600,nucl1649,http://concepticon.clld.org/parameters/1602,gyenitgn,wake up
+229-729,nucl1649,http://concepticon.clld.org/parameters/1159,pˀaasü,break wind
+229-68,nucl1649,http://concepticon.clld.org/parameters/1159,wilaan,break wind
+229-706,nucl1649,http://concepticon.clld.org/parameters/1785,kˀaas,have sexual intercourse
+229-678,nucl1649,http://concepticon.clld.org/parameters/1785,kˀuuʔk,have sexual intercourse
+229-105,nucl1649,http://concepticon.clld.org/parameters/138,laxs,bathe
+229-629,nucl1649,http://concepticon.clld.org/parameters/1090,klagyet,born (to be)
+229-726,nucl1649,http://concepticon.clld.org/parameters/1123,kˀwaadamłk,pregnant
+229-628,nucl1649,http://concepticon.clld.org/parameters/1123,lusisguum,pregnant
+229-489,nucl1649,http://concepticon.clld.org/parameters/1422,diduuls,"live, living, life"
+229-88,nucl1649,http://concepticon.clld.org/parameters/1494,lukˀahgyet,"die, dead"
+229-322,nucl1649,http://concepticon.clld.org/parameters/1904,dukwłgn,drowned
+229-427,nucl1649,http://concepticon.clld.org/parameters/1904,luudagwn,drowned
+229-156,nucl1649,http://concepticon.clld.org/parameters/1904,uksdaawł,drowned
+229-296,nucl1649,http://concepticon.clld.org/parameters/1417,dzak,kill
+229-177,nucl1649,http://concepticon.clld.org/parameters/767,baaʔlx,corpse
+229-308,nucl1649,http://concepticon.clld.org/parameters/1719,luc̷ikˀaax,bury (the dead)
+229-754,nucl1649,http://concepticon.clld.org/parameters/1719,waʔa,bury (the dead)
+229-82,nucl1649,http://concepticon.clld.org/parameters/1719,waʔwax,bury (the dead)
+229-671,nucl1649,http://concepticon.clld.org/parameters/1847,hasiipk,"sick, sickness"
+229-435,nucl1649,http://concepticon.clld.org/parameters/1847,siipk,"sick, sickness"
+229-743,nucl1649,http://concepticon.clld.org/parameters/1109,kˀaa,"wound, sore"
+229-356,nucl1649,http://concepticon.clld.org/parameters/1109,sgaayksk,"wound, sore"
+229-656,nucl1649,http://concepticon.clld.org/parameters/497,łaʔagy,scar
+229-632,nucl1649,http://concepticon.clld.org/parameters/1372,xaldawk,"medicine, drug"
+229-316,nucl1649,http://concepticon.clld.org/parameters/1757,sunaał,"tired, weary"
+229-533,nucl1649,http://concepticon.clld.org/parameters/1125,naakˀok,bald
+229-304,nucl1649,http://concepticon.clld.org/parameters/1125,wahlii,bald
+229-540,nucl1649,http://concepticon.clld.org/parameters/320,kˀabaa,lame
+229-166,nucl1649,http://concepticon.clld.org/parameters/320,kˀyabaa,lame
+229-651,nucl1649,http://concepticon.clld.org/parameters/996,sgawg,deaf
+229-9,nucl1649,http://concepticon.clld.org/parameters/996,c̷ˀawx,deaf
+229-626,nucl1649,http://concepticon.clld.org/parameters/996,gac̷ˀawgyit,deaf
+229-142,nucl1649,http://concepticon.clld.org/parameters/1653,suuns,blind
+229-25,nucl1649,http://concepticon.clld.org/parameters/1653,gasuuns,blind
+229-612,nucl1649,http://concepticon.clld.org/parameters/1463,lüsiin,intoxicated
+229-543,nucl1649,http://concepticon.clld.org/parameters/590,dzaxʔootk,"naked, bare"
+229-511,nucl1649,http://concepticon.clld.org/parameters/1336,gag,eat
+229-360,nucl1649,http://concepticon.clld.org/parameters/1336,gab-,eat
+229-471,nucl1649,http://concepticon.clld.org/parameters/1336,txooxk,eat
+229-202,nucl1649,http://concepticon.clld.org/parameters/1336,ʔyaak,eat
+229-205,nucl1649,http://concepticon.clld.org/parameters/1336,ʔyaax,eat
+229-553,nucl1649,http://concepticon.clld.org/parameters/1336,xdii,eat
+229-703,nucl1649,http://concepticon.clld.org/parameters/1336,yaawxk,eat
+229-694,nucl1649,http://concepticon.clld.org/parameters/256,wüneey,food
+229-168,nucl1649,http://concepticon.clld.org/parameters/178,miik,ripe
+229-282,nucl1649,http://concepticon.clld.org/parameters/1958,kˀasgi,"green, unripe"
+229-684,nucl1649,http://concepticon.clld.org/parameters/1728,lok,rotten
+229-276,nucl1649,http://concepticon.clld.org/parameters/1728,log-,rotten
+229-81,nucl1649,http://concepticon.clld.org/parameters/1401,aks,drink
+229-29,nucl1649,http://concepticon.clld.org/parameters/1401,akˀaks,drink
+229-731,nucl1649,http://concepticon.clld.org/parameters/1401,laʔaks,drink
+229-373,nucl1649,http://concepticon.clld.org/parameters/1533,kwdii,hunger
+229-127,nucl1649,http://concepticon.clld.org/parameters/848,lugüünksax,thirst
+229-251,nucl1649,http://concepticon.clld.org/parameters/1421,tˀaxtˀoox,suck
+229-493,nucl1649,http://concepticon.clld.org/parameters/1421,tˀook,suck
+229-72,nucl1649,http://concepticon.clld.org/parameters/321,gawn,chew
+229-284,nucl1649,http://concepticon.clld.org/parameters/321,gangawn,chew
+229-566,nucl1649,http://concepticon.clld.org/parameters/321,kˀawn,chew
+229-736,nucl1649,http://concepticon.clld.org/parameters/321,gagawn,chew
+229-609,nucl1649,http://concepticon.clld.org/parameters/897,gac̷ʔał,swallow
+229-610,nucl1649,http://concepticon.clld.org/parameters/897,kˀadzaa,swallow
+229-654,nucl1649,http://concepticon.clld.org/parameters/129,kˀaław,choke
+229-420,nucl1649,http://concepticon.clld.org/parameters/129,kˀyag,choke
+229-390,nucl1649,http://concepticon.clld.org/parameters/792,dzem,boil (vb)
+229-343,nucl1649,http://concepticon.clld.org/parameters/792,hathotxk,boil (vb)
+229-449,nucl1649,http://concepticon.clld.org/parameters/2146,c̷ˀlmʔmaʔa,"roast, fry"
+229-48,nucl1649,http://concepticon.clld.org/parameters/183,sigwaan,bake
+229-457,nucl1649,http://concepticon.clld.org/parameters/183,uut,bake
+229-336,nucl1649,http://concepticon.clld.org/parameters/481,noł,dish
+229-278,nucl1649,http://concepticon.clld.org/parameters/1378,hapsgaawlk,spoon
+229-509,nucl1649,http://concepticon.clld.org/parameters/1352,kwdusˀ,knife (2)
+229-679,nucl1649,http://concepticon.clld.org/parameters/275,pˀiił,peel
+229-653,nucl1649,http://concepticon.clld.org/parameters/2017,łˀwaʔil,"stir, mix"
+229-455,nucl1649,http://concepticon.clld.org/parameters/274,tkyitˀuus,knead
+229-99,nucl1649,http://concepticon.clld.org/parameters/1033,kˀłikˀagun,"crush, grind"
+229-111,nucl1649,http://concepticon.clld.org/parameters/224,gayłmloop,mortar (2)
+229-634,nucl1649,http://concepticon.clld.org/parameters/225,hatˀaapa,pestle
+229-541,nucl1649,http://concepticon.clld.org/parameters/634,sami,meat
+229-291,nucl1649,http://concepticon.clld.org/parameters/323,kˀawc̷i,"grease, fat"
+229-585,nucl1649,http://concepticon.clld.org/parameters/323,yee,"grease, fat"
+229-606,nucl1649,http://concepticon.clld.org/parameters/635,ksamˀesk,milk (noun)
+229-271,nucl1649,http://concepticon.clld.org/parameters/635,mmo,milk (noun)
+229-588,nucl1649,http://concepticon.clld.org/parameters/635,gamo,milk (noun)
+229-436,nucl1649,http://concepticon.clld.org/parameters/1639,laam,beer
+229-741,nucl1649,http://concepticon.clld.org/parameters/744,łgumet,egg
+229-121,nucl1649,http://concepticon.clld.org/parameters/158,liisgüü,put on (clothes)
+229-222,nucl1649,http://concepticon.clld.org/parameters/1895,hakhooya,"clothing, clothes"
+229-172,nucl1649,http://concepticon.clld.org/parameters/964,liimeti,wool
+229-611,nucl1649,http://concepticon.clld.org/parameters/1850,ligyimti,cotton
+229-357,nucl1649,http://concepticon.clld.org/parameters/580,lii,fur
+229-77,nucl1649,http://concepticon.clld.org/parameters/121,tkwabaanł,spin
+229-661,nucl1649,http://concepticon.clld.org/parameters/1457,luʔapüs,sew
+229-572,nucl1649,http://concepticon.clld.org/parameters/1457,luupk,sew
+229-440,nucl1649,http://concepticon.clld.org/parameters/1382,ʔlax,needle
+229-374,nucl1649,http://concepticon.clld.org/parameters/1161,nluʔupis,thread
+229-391,nucl1649,http://concepticon.clld.org/parameters/474,naʔa,woman's dress
+229-101,nucl1649,http://concepticon.clld.org/parameters/474,ganaaʔnax,woman's dress
+229-253,nucl1649,http://concepticon.clld.org/parameters/474,nuutk,woman's dress
+229-510,nucl1649,http://concepticon.clld.org/parameters/809,pˀaxs,trousers
+229-151,nucl1649,http://concepticon.clld.org/parameters/757,nipˀaʔla,button
+229-469,nucl1649,http://concepticon.clld.org/parameters/1961,gahuud,necklace
+229-443,nucl1649,http://concepticon.clld.org/parameters/770,muu,earring
+229-487,nucl1649,http://concepticon.clld.org/parameters/770,pˀałmuu,earring
+229-715,nucl1649,http://concepticon.clld.org/parameters/68,gyiłʔon,tattoo
+229-191,nucl1649,http://concepticon.clld.org/parameters/68,naygyełxs,tattoo
+229-266,nucl1649,http://concepticon.clld.org/parameters/1475,pc̷ˀih,comb
+229-259,nucl1649,http://concepticon.clld.org/parameters/1252,waap,house
+229-385,nucl1649,http://concepticon.clld.org/parameters/1567,gamgaantk,"door, gate"
+229-496,nucl1649,http://concepticon.clld.org/parameters/1567,liksoog-,"door, gate"
+229-750,nucl1649,http://concepticon.clld.org/parameters/1567,lüksoʔak,"door, gate"
+229-660,nucl1649,http://concepticon.clld.org/parameters/1375,naksuniisk,window
+229-666,nucl1649,http://concepticon.clld.org/parameters/1632,haʔliwaalxs,floor
+229-748,nucl1649,http://concepticon.clld.org/parameters/933,haałgn,wall
+229-717,nucl1649,http://concepticon.clld.org/parameters/185,nlak,fireplace
+229-238,nucl1649,http://concepticon.clld.org/parameters/1663,haʔlinook,bed
+229-79,nucl1649,http://concepticon.clld.org/parameters/1044,mełüü,pillow
+229-118,nucl1649,http://concepticon.clld.org/parameters/806,smwüs,blanket
+229-692,nucl1649,http://concepticon.clld.org/parameters/806,was,blanket
+229-720,nucl1649,http://concepticon.clld.org/parameters/806,wiswas,blanket
+229-579,nucl1649,http://concepticon.clld.org/parameters/1476,haʔlitˀah,chair
+229-71,nucl1649,http://concepticon.clld.org/parameters/769,laxʔoo waap,roof
+229-252,nucl1649,http://concepticon.clld.org/parameters/769,galiilp,roof
+229-134,nucl1649,http://concepticon.clld.org/parameters/769,kˀiliilp,roof
+229-252,nucl1649,http://concepticon.clld.org/parameters/1132,galiilp,beam
+229-442,nucl1649,http://concepticon.clld.org/parameters/281,haaʔytisk,"post, pole"
+229-704,nucl1649,http://concepticon.clld.org/parameters/586,laxc̷ˀaʔadzaks,garden
+229-377,nucl1649,http://concepticon.clld.org/parameters/586,siʔndoonik,garden
+229-329,nucl1649,http://concepticon.clld.org/parameters/1690,galaxun,fence
+229-491,nucl1649,http://concepticon.clld.org/parameters/1418,wukˀaw,dig
+229-599,nucl1649,http://concepticon.clld.org/parameters/714,nüwaʔna,seed
+229-563,nucl1649,http://concepticon.clld.org/parameters/926,miyoop,rice
+229-755,nucl1649,http://concepticon.clld.org/parameters/606,kyooxt,grass
+229-107,nucl1649,http://concepticon.clld.org/parameters/1486,waʔnaa,plant (vb)
+229-186,nucl1649,http://concepticon.clld.org/parameters/670,huus,root
+229-376,nucl1649,http://concepticon.clld.org/parameters/628,yans,leaf
+229-39,nucl1649,http://concepticon.clld.org/parameters/239,müdzagale,flower
+229-506,nucl1649,http://concepticon.clld.org/parameters/906,gan,tree
+229-277,nucl1649,http://concepticon.clld.org/parameters/906,gangan,tree
+229-317,nucl1649,http://concepticon.clld.org/parameters/974,wündo umksiwa,tobacco
+229-76,nucl1649,http://concepticon.clld.org/parameters/241,haac̷,tree stump
+229-33,nucl1649,http://concepticon.clld.org/parameters/1204,maas,bark
+229-446,nucl1649,http://concepticon.clld.org/parameters/1204,maasagan,bark
+229-354,nucl1649,http://concepticon.clld.org/parameters/33,stüti,nettle
+229-488,nucl1649,http://concepticon.clld.org/parameters/641,gaaydi baaʔlx,mushroom
+229-254,nucl1649,http://concepticon.clld.org/parameters/813,weel,"do, make"
+229-618,nucl1649,http://concepticon.clld.org/parameters/813,sagayt weel,"do, make"
+229-561,nucl1649,http://concepticon.clld.org/parameters/984,hałaals,work
+229-503,nucl1649,http://concepticon.clld.org/parameters/2004,łaʔgyin,bend
+229-159,nucl1649,http://concepticon.clld.org/parameters/2004,tˀaʔił,bend
+229-36,nucl1649,http://concepticon.clld.org/parameters/1470,xpaak,fold
+229-393,nucl1649,http://concepticon.clld.org/parameters/1917,c̷ˀiip,"tie, bind"
+229-198,nucl1649,http://concepticon.clld.org/parameters/1218,hagwilhuu,"rope, cord"
+229-42,nucl1649,http://concepticon.clld.org/parameters/2133,guu,"strike (hit, beat)"
+229-466,nucl1649,http://concepticon.clld.org/parameters/2133,kˀalisyec̷,"strike (hit, beat)"
+229-450,nucl1649,http://concepticon.clld.org/parameters/1432,kˀodz,cut
+229-92,nucl1649,http://concepticon.clld.org/parameters/155,kˀoc̷,"chop, hew"
+229-627,nucl1649,http://concepticon.clld.org/parameters/1434,gyełk,stab
+229-201,nucl1649,http://concepticon.clld.org/parameters/1352,hagyiłaam,knife
+229-311,nucl1649,http://concepticon.clld.org/parameters/677,gyigyootk,ax
+229-568,nucl1649,http://concepticon.clld.org/parameters/290,daxwans,adze
+229-544,nucl1649,http://concepticon.clld.org/parameters/290,tˀaxwans,adze
+229-604,nucl1649,http://concepticon.clld.org/parameters/680,kˀwaas,break
+229-603,nucl1649,http://concepticon.clld.org/parameters/588,pˀoo,broken
+229-56,nucl1649,http://concepticon.clld.org/parameters/1437,buus,split
+229-110,nucl1649,http://concepticon.clld.org/parameters/1437,pˀasaxk,split
+229-711,nucl1649,http://concepticon.clld.org/parameters/1437,saʔkt,split
+229-583,nucl1649,http://concepticon.clld.org/parameters/1735,liʔaʔpl,tear
+229-441,nucl1649,http://concepticon.clld.org/parameters/1449,ʔman,"rub, wipe"
+229-705,nucl1649,http://concepticon.clld.org/parameters/1455,saʔky,pull
+229-312,nucl1649,http://concepticon.clld.org/parameters/357,ʔyak,hang up
+229-150,nucl1649,http://concepticon.clld.org/parameters/1414,ludmdam,"squeeze, wring"
+229-557,nucl1649,http://concepticon.clld.org/parameters/1453,lumaaks,wash
+229-547,nucl1649,http://concepticon.clld.org/parameters/1453,yooks,wash
+229-309,nucl1649,http://concepticon.clld.org/parameters/1840,dzap,build
+229-258,nucl1649,http://concepticon.clld.org/parameters/46,kˀaax,hollow out
+229-601,nucl1649,http://concepticon.clld.org/parameters/1825,müsiin,"copper, bronze"
+229-447,nucl1649,http://concepticon.clld.org/parameters/1399,psah,clay
+229-218,nucl1649,http://concepticon.clld.org/parameters/1539,goos,basket
+229-315,nucl1649,http://concepticon.clld.org/parameters/1539,kˀook,basket
+229-693,nucl1649,http://concepticon.clld.org/parameters/228,nadaam,carve
+229-668,nucl1649,http://concepticon.clld.org/parameters/2001,tˀmmiis,paint (vb)
+229-399,nucl1649,http://concepticon.clld.org/parameters/765,łaʔal,move
+229-484,nucl1649,http://concepticon.clld.org/parameters/1113,laʔagwil,"wind, wrap"
+229-161,nucl1649,http://concepticon.clld.org/parameters/568,gyiniitx,rise
+229-85,nucl1649,http://concepticon.clld.org/parameters/568,niitk,rise
+229-38,nucl1649,http://concepticon.clld.org/parameters/1280,kˀyaʔapayk,fall
+229-209,nucl1649,http://concepticon.clld.org/parameters/1280,oks,fall
+229-313,nucl1649,http://concepticon.clld.org/parameters/2253,laʔweel,drip
+229-422,nucl1649,http://concepticon.clld.org/parameters/2253,luuwal,drip
+229-761,nucl1649,http://concepticon.clld.org/parameters/2253,luʔwal,drip
+229-128,nucl1649,http://concepticon.clld.org/parameters/1456,ooy,throw
+229-445,nucl1649,http://concepticon.clld.org/parameters/1909,babaa,shake
+229-227,nucl1649,http://concepticon.clld.org/parameters/2003,c̷ˀmhuuc̷a,flow
+229-183,nucl1649,http://concepticon.clld.org/parameters/1088,kˀyidawł,sink
+229-633,nucl1649,http://concepticon.clld.org/parameters/1439,hadiks,swim
+229-461,nucl1649,http://concepticon.clld.org/parameters/1439,laheediks,swim
+229-565,nucl1649,http://concepticon.clld.org/parameters/1439,łoo,swim
+229-490,nucl1649,http://concepticon.clld.org/parameters/119,xswooxsk,dive
+229-402,nucl1649,http://concepticon.clld.org/parameters/1441,gyipaayk,fly (vb)
+229-16,nucl1649,http://concepticon.clld.org/parameters/175,baask,blow
+229-218,nucl1649,http://concepticon.clld.org/parameters/1829,goos,"jump, leap"
+229-614,nucl1649,http://concepticon.clld.org/parameters/1829,saalogamgos,"jump, leap"
+229-241,nucl1649,http://concepticon.clld.org/parameters/1135,kwłaask,kick
+229-500,nucl1649,http://concepticon.clld.org/parameters/1879,miilk,dance
+229-139,nucl1649,http://concepticon.clld.org/parameters/1443,baxyaa,walk
+229-497,nucl1649,http://concepticon.clld.org/parameters/1443,yaa,walk
+229-84,nucl1649,http://concepticon.clld.org/parameters/1443,łoga,walk
+229-197,nucl1649,http://concepticon.clld.org/parameters/1443,waalxs,walk
+229-268,nucl1649,http://concepticon.clld.org/parameters/1519,baa,run
+229-597,nucl1649,http://concepticon.clld.org/parameters/1519,kˀol,run
+229-139,nucl1649,http://concepticon.clld.org/parameters/695,baxyaa,go
+229-269,nucl1649,http://concepticon.clld.org/parameters/695,laa,go
+229-147,nucl1649,http://concepticon.clld.org/parameters/705,münyaa,go up
+229-699,nucl1649,http://concepticon.clld.org/parameters/1102,łaʔayask,climb
+229-648,nucl1649,http://concepticon.clld.org/parameters/2014,tkyiyaa,go down
+229-584,nucl1649,http://concepticon.clld.org/parameters/2014,ʔyagagoo,go down
+229-95,nucl1649,http://concepticon.clld.org/parameters/1107,ksüü,go out
+229-513,nucl1649,http://concepticon.clld.org/parameters/1446,gaa,come
+229-643,nucl1649,http://concepticon.clld.org/parameters/1446,kˀah,come
+229-683,nucl1649,http://concepticon.clld.org/parameters/1446,goydiks,come
+229-5,nucl1649,http://concepticon.clld.org/parameters/1446,hooks,come
+229-523,nucl1649,http://concepticon.clld.org/parameters/581,luuyeeltk,come back
+229-361,nucl1649,http://concepticon.clld.org/parameters/1752,dawł,"go away, depart"
+229-723,nucl1649,http://concepticon.clld.org/parameters/1752,kwdaxs,"go away, depart"
+229-203,nucl1649,http://concepticon.clld.org/parameters/956,kˀyeexk,flee
+229-760,nucl1649,http://concepticon.clld.org/parameters/1085,liyaak,follow
+229-129,nucl1649,http://concepticon.clld.org/parameters/1387,batsk,"reach, arrive"
+229-243,nucl1649,http://concepticon.clld.org/parameters/749,c̷ˀii,enter
+229-165,nucl1649,http://concepticon.clld.org/parameters/749,lamdzax,enter
+229-573,nucl1649,http://concepticon.clld.org/parameters/700,weli,carry (bear)
+229-55,nucl1649,http://concepticon.clld.org/parameters/700,wilweli,carry (bear)
+229-647,nucl1649,http://concepticon.clld.org/parameters/413,kˀoʔoldzax,carry-on-shoulder
+229-641,nucl1649,http://concepticon.clld.org/parameters/1127,hashayc̷,send
+229-477,nucl1649,http://concepticon.clld.org/parameters/1127,haysk,send
+229-255,nucl1649,http://concepticon.clld.org/parameters/1127,hayc̷,send
+229-472,nucl1649,http://concepticon.clld.org/parameters/1452,tˀuus,"push, shove"
+229-383,nucl1649,http://concepticon.clld.org/parameters/667,gayna,road
+229-35,nucl1649,http://concepticon.clld.org/parameters/667,laxgayna,road
+229-90,nucl1649,http://concepticon.clld.org/parameters/710,ganhadaay,wheel
+229-713,nucl1649,http://concepticon.clld.org/parameters/1844,xasoo,boat
+229-724,nucl1649,http://concepticon.clld.org/parameters/1844,gaxso,boat
+229-734,nucl1649,http://concepticon.clld.org/parameters/1844,boot,boat
+229-476,nucl1649,http://concepticon.clld.org/parameters/1844,bood-,boat
+229-758,nucl1649,http://concepticon.clld.org/parameters/1970,smxso,canoe
+229-751,nucl1649,http://concepticon.clld.org/parameters/108,gaamgants,oar
+229-365,nucl1649,http://concepticon.clld.org/parameters/234,duway,paddle (noun)
+229-57,nucl1649,http://concepticon.clld.org/parameters/234,luway,paddle (noun)
+229-619,nucl1649,http://concepticon.clld.org/parameters/1849,giˀwkł w?,row (vb)
+229-263,nucl1649,http://concepticon.clld.org/parameters/1849,waay,row (vb)
+229-4,nucl1649,http://concepticon.clld.org/parameters/1849,huway,row (vb)
+229-57,nucl1649,http://concepticon.clld.org/parameters/1849,luway,row (vb)
+229-456,nucl1649,http://concepticon.clld.org/parameters/1849,wuwaay,row (vb)
+229-31,nucl1649,http://concepticon.clld.org/parameters/184,gaʔnah,mast
+229-70,nucl1649,http://concepticon.clld.org/parameters/184,kˀaʔana,mast
+229-94,nucl1649,http://concepticon.clld.org/parameters/786,ałoom,sail (noun)
+229-132,nucl1649,http://concepticon.clld.org/parameters/786,hakˀałoom,sail (noun)
+229-182,nucl1649,http://concepticon.clld.org/parameters/786,hałoom-boot,sail (noun)
+229-519,nucl1649,http://concepticon.clld.org/parameters/1749,gyaa,take
+229-379,nucl1649,http://concepticon.clld.org/parameters/1749,dox,take
+229-211,nucl1649,http://concepticon.clld.org/parameters/1448,dam,hold
+229-522,nucl1649,http://concepticon.clld.org/parameters/1448,gyad,hold
+229-470,nucl1649,http://concepticon.clld.org/parameters/1447,kˀilam,give
+229-497,nucl1649,http://concepticon.clld.org/parameters/1447,yaa,give
+229-650,nucl1649,http://concepticon.clld.org/parameters/1997,łuʔadüü,"preserve, look after"
+229-569,nucl1649,http://concepticon.clld.org/parameters/1660,gwaaltk,lose
+229-13,nucl1649,http://concepticon.clld.org/parameters/1660,kˀwaaʔtis,lose
+229-478,nucl1649,http://concepticon.clld.org/parameters/1869,gyiik,buy
+229-334,nucl1649,http://concepticon.clld.org/parameters/1571,ʔwaʔat,sell
+229-688,nucl1649,http://concepticon.clld.org/parameters/2135,lunigyiisn,"trade, barter"
+229-174,nucl1649,http://concepticon.clld.org/parameters/2135,sütyeel,"trade, barter"
+229-727,nucl1649,http://concepticon.clld.org/parameters/723,akˀom,behind
+229-719,nucl1649,http://concepticon.clld.org/parameters/723,txalaan,behind
+229-45,nucl1649,http://concepticon.clld.org/parameters/1326,ksłüüdat,"down, below"
+229-109,nucl1649,http://concepticon.clld.org/parameters/1326,tkyi-,"down, below"
+229-499,nucl1649,http://concepticon.clld.org/parameters/1019,hac̷ˀaxłk,front
+229-676,nucl1649,http://concepticon.clld.org/parameters/1019,nagook,front
+229-67,nucl1649,http://concepticon.clld.org/parameters/1606,c̷ˀaaw,"inside, in"
+229-100,nucl1649,http://concepticon.clld.org/parameters/762,gyelag,outside
+229-451,nucl1649,http://concepticon.clld.org/parameters/1591,man-,"up, above"
+229-221,nucl1649,http://concepticon.clld.org/parameters/1416,logmtˀaa,sit
+229-320,nucl1649,http://concepticon.clld.org/parameters/1416,tˀaa,sit
+229-267,nucl1649,http://concepticon.clld.org/parameters/1416,wan,sit
+229-285,nucl1649,http://concepticon.clld.org/parameters/215,lisgüü,lie down
+229-475,nucl1649,http://concepticon.clld.org/parameters/215,nook,lie down
+229-562,nucl1649,http://concepticon.clld.org/parameters/1442,haaytk,stand
+229-200,nucl1649,http://concepticon.clld.org/parameters/1442,haʔyin,stand
+229-698,nucl1649,http://concepticon.clld.org/parameters/838,maanwineeya,"remains, left overs"
+229-537,nucl1649,http://concepticon.clld.org/parameters/7,saxdoo,"collect, gather"
+229-108,nucl1649,http://concepticon.clld.org/parameters/1119,saʔał,divide
+229-521,nucl1649,http://concepticon.clld.org/parameters/1046,gwindaalpk,"shut, close"
+229-20,nucl1649,http://concepticon.clld.org/parameters/761,haaps,cover
+229-532,nucl1649,http://concepticon.clld.org/parameters/602,yüü,"hide, conceal"
+229-40,nucl1649,http://concepticon.clld.org/parameters/1265,gyeps,high
+229-512,nucl1649,http://concepticon.clld.org/parameters/1265,maʔnaxk,high
+229-314,nucl1649,http://concepticon.clld.org/parameters/1753,laxˀoh,top
+229-696,nucl1649,http://concepticon.clld.org/parameters/742,c̷ˀuwaan,end
+229-412,nucl1649,http://concepticon.clld.org/parameters/742,xbiil,end
+229-194,nucl1649,http://concepticon.clld.org/parameters/372,c̷ˀuwaanł,pointed
+229-439,nucl1649,http://concepticon.clld.org/parameters/863,aak,edge
+229-411,nucl1649,http://concepticon.clld.org/parameters/863,aag-,edge
+229-564,nucl1649,http://concepticon.clld.org/parameters/863,gaʔaak,edge
+229-524,nucl1649,http://concepticon.clld.org/parameters/863,ndzok,edge
+229-141,nucl1649,http://concepticon.clld.org/parameters/682,anhaat,side
+229-670,nucl1649,http://concepticon.clld.org/parameters/682,anhaad-,side
+229-605,nucl1649,http://concepticon.clld.org/parameters/1093,ksüülg,"middle, center"
+229-465,nucl1649,http://concepticon.clld.org/parameters/1019,nak-smyaʔwin,right (side)
+229-324,nucl1649,http://concepticon.clld.org/parameters/1019,smyaʔawin,right (side)
+229-125,nucl1649,http://concepticon.clld.org/parameters/244,mooms,left (side)
+229-515,nucl1649,http://concepticon.clld.org/parameters/244,mütkyaʔwn,left (side)
+229-54,nucl1649,http://concepticon.clld.org/parameters/1406,wilʔnak,far (adv)
+229-58,nucl1649,http://concepticon.clld.org/parameters/1598,gyisiyaask,north
+229-708,nucl1649,http://concepticon.clld.org/parameters/1595,gyaʔc̷,south
+229-646,nucl1649,http://concepticon.clld.org/parameters/479,pˀas,grow
+229-384,nucl1649,http://concepticon.clld.org/parameters/1506,saʔkalst,measure
+229-342,nucl1649,http://concepticon.clld.org/parameters/1202,ʔwiileeks,"large, big"
+229-636,nucl1649,http://concepticon.clld.org/parameters/1202,wiitˀis,"large, big"
+229-615,nucl1649,http://concepticon.clld.org/parameters/1246,łguc̷ˀuusk,"small, little"
+229-3,nucl1649,http://concepticon.clld.org/parameters/1246,c̷ˀusk,"small, little"
+229-242,nucl1649,http://concepticon.clld.org/parameters/1246,sisuus,"small, little"
+229-574,nucl1649,http://concepticon.clld.org/parameters/1203,ʔnak,long
+229-587,nucl1649,http://concepticon.clld.org/parameters/1203,ʔnag-,long
+229-15,nucl1649,http://concepticon.clld.org/parameters/1203,wiiʔnak,long
+229-256,nucl1649,http://concepticon.clld.org/parameters/711,napłaxł,tall
+229-567,nucl1649,http://concepticon.clld.org/parameters/1645,dalpk,short
+229-300,nucl1649,http://concepticon.clld.org/parameters/1243,luʔooks,"wide, broad"
+229-286,nucl1649,http://concepticon.clld.org/parameters/1243,wiilee,"wide, broad"
+229-392,nucl1649,http://concepticon.clld.org/parameters/1267,lułguul,narrow
+229-555,nucl1649,http://concepticon.clld.org/parameters/1400,hani,thin (in dimension)
+229-115,nucl1649,http://concepticon.clld.org/parameters/1593,łap,deep
+229-642,nucl1649,http://concepticon.clld.org/parameters/297,łeʔign,crooked
+229-349,nucl1649,http://concepticon.clld.org/parameters/192,amuus,corner
+229-685,nucl1649,http://concepticon.clld.org/parameters/192,gyic̷ʔoon,corner
+229-508,nucl1649,http://concepticon.clld.org/parameters/1845,łaʔt,"sphere, ball"
+229-407,nucl1649,http://concepticon.clld.org/parameters/1667,lułap,hole
+229-117,nucl1649,http://concepticon.clld.org/parameters/1515,kˀameet,one
+229-550,nucl1649,http://concepticon.clld.org/parameters/1498,galbeeltk,two
+229-59,nucl1649,http://concepticon.clld.org/parameters/1498,goopsxn,two
+229-607,nucl1649,http://concepticon.clld.org/parameters/1498,gulapdaat,two
+229-96,nucl1649,http://concepticon.clld.org/parameters/1498,guʔpl,two
+229-98,nucl1649,http://concepticon.clld.org/parameters/1498,guplʔon,two
+229-560,nucl1649,http://concepticon.clld.org/parameters/492,galsgantk,three
+229-594,nucl1649,http://concepticon.clld.org/parameters/492,gwan,three
+229-468,nucl1649,http://concepticon.clld.org/parameters/492,gwindaat,three
+229-570,nucl1649,http://concepticon.clld.org/parameters/1500,txaalpx,four
+229-405,nucl1649,http://concepticon.clld.org/parameters/493,kstnsool,five
+229-396,nucl1649,http://concepticon.clld.org/parameters/493,kstuuns,five
+229-244,nucl1649,http://concepticon.clld.org/parameters/493,kstuunsxn,five
+229-272,nucl1649,http://concepticon.clld.org/parameters/1705,iwkłaʔadool,eight
+229-576,nucl1649,http://concepticon.clld.org/parameters/1420,dap,count
+229-327,nucl1649,http://concepticon.clld.org/parameters/98,gawdi,"every, all"
+229-188,nucl1649,http://concepticon.clld.org/parameters/98,txaʔnii,"every, all"
+229-6,nucl1649,http://concepticon.clld.org/parameters/1198,held-,"much, many"
+229-414,nucl1649,http://concepticon.clld.org/parameters/1198,lugwil,"much, many"
+229-695,nucl1649,http://concepticon.clld.org/parameters/1242,nagadzaw,"little (quantity), few"
+229-745,nucl1649,http://concepticon.clld.org/parameters/1429,luhoʔnł,full
+229-248,nucl1649,http://concepticon.clld.org/parameters/1624,gol,empty
+229-514,nucl1649,http://concepticon.clld.org/parameters/1624,loogawdi,empty
+229-624,nucl1649,http://concepticon.clld.org/parameters/816,nastoo,half
+229-714,nucl1649,http://concepticon.clld.org/parameters/816,xbiyee,half
+229-663,nucl1649,http://concepticon.clld.org/parameters/1580,kˀool-,"alone, only"
+229-122,nucl1649,http://concepticon.clld.org/parameters/1580,kˀyaal,"alone, only"
+229-214,nucl1649,http://concepticon.clld.org/parameters/728,sgoox,first
+229-130,nucl1649,http://concepticon.clld.org/parameters/1546,müla-,two times
+229-528,nucl1649,http://concepticon.clld.org/parameters/1231,su-,new
+229-230,nucl1649,http://concepticon.clld.org/parameters/1207,supˀas,young
+229-306,nucl1649,http://concepticon.clld.org/parameters/1207,sumaxs,young
+229-467,nucl1649,http://concepticon.clld.org/parameters/754,sümela,"hasten, hurry"
+229-104,nucl1649,http://concepticon.clld.org/parameters/1806,sitˀaa,"begin, beginning"
+229-28,nucl1649,http://concepticon.clld.org/parameters/1928,leheeld,"cease, stop"
+229-474,nucl1649,http://concepticon.clld.org/parameters/418,gyikʔooł,long-time (for a)
+229-204,nucl1649,http://concepticon.clld.org/parameters/418,łaʔnaak,long-time (for a)
+229-73,nucl1649,http://concepticon.clld.org/parameters/204,gyik-,again
+229-345,nucl1649,http://concepticon.clld.org/parameters/1260,sah,day
+229-262,nucl1649,http://concepticon.clld.org/parameters/1233,aatk,night
+229-621,nucl1649,http://concepticon.clld.org/parameters/1233,aatg-,night
+229-545,nucl1649,http://concepticon.clld.org/parameters/1233,hupl,night
+229-215,nucl1649,http://concepticon.clld.org/parameters/729,aksyaadziws,dawn
+229-664,nucl1649,http://concepticon.clld.org/parameters/1339,ganłaak,morning
+229-535,nucl1649,http://concepticon.clld.org/parameters/12,labaxsa ʔyagagyemk,"noon, midday"
+229-226,nucl1649,http://concepticon.clld.org/parameters/12,süülgasah,"noon, midday"
+229-135,nucl1649,http://concepticon.clld.org/parameters/1807,ludawłdagyemk,afternoon
+229-545,nucl1649,http://concepticon.clld.org/parameters/1629,hupl,evening
+229-265,nucl1649,http://concepticon.clld.org/parameters/1629,łakyiyaasah,evening
+229-389,nucl1649,http://concepticon.clld.org/parameters/1329,dzigyidziip,tomorrow
+229-53,nucl1649,http://concepticon.clld.org/parameters/1174,gyic̷ʔiipta,yesterday
+229-163,nucl1649,http://concepticon.clld.org/parameters/1323,[waac̷],"clock, timepiece"
+229-669,nucl1649,http://concepticon.clld.org/parameters/1226,kˀoł,year
+229-516,nucl1649,http://concepticon.clld.org/parameters/1226,gokˀoł,year
+229-707,nucl1649,http://concepticon.clld.org/parameters/1471,gomsm,winter
+229-298,nucl1649,http://concepticon.clld.org/parameters/1537,gooym,spring
+229-175,nucl1649,http://concepticon.clld.org/parameters/1537,laxsüʔyens,spring
+229-144,nucl1649,http://concepticon.clld.org/parameters/1342,suunt,summer
+229-138,nucl1649,http://concepticon.clld.org/parameters/1276,ksuud,autumn
+229-525,nucl1649,http://concepticon.clld.org/parameters/1587,huum,smell (vb intrans)
+229-652,nucl1649,http://concepticon.clld.org/parameters/376,mihooks,"fragrant, good smelling"
+229-368,nucl1649,http://concepticon.clld.org/parameters/42,uusk,"stinking, bad smelling"
+229-665,nucl1649,http://concepticon.clld.org/parameters/717,c̷ˀmʔaatk,sweet
+229-706,nucl1649,http://concepticon.clld.org/parameters/1906,kˀaas,"acid, sour"
+229-739,nucl1649,http://concepticon.clld.org/parameters/1906,moksa,"acid, sour"
+229-223,nucl1649,http://concepticon.clld.org/parameters/1408,ʔnaxʔnuu,hear
+229-415,nucl1649,http://concepticon.clld.org/parameters/1409,ʔniidz,see
+229-415,nucl1649,http://concepticon.clld.org/parameters/1819,ʔniidz,"look, look at"
+229-552,nucl1649,http://concepticon.clld.org/parameters/1039,gwaniʔc̷,show
+229-133,nucl1649,http://concepticon.clld.org/parameters/1039,gwünniidzn,show
+229-46,nucl1649,http://concepticon.clld.org/parameters/679,gooypah,bright
+229-126,nucl1649,http://concepticon.clld.org/parameters/706,łan,dark (in color)
+229-273,nucl1649,http://concepticon.clld.org/parameters/1335,moks,white
+229-102,nucl1649,http://concepticon.clld.org/parameters/163,gaax,black
+229-170,nucl1649,http://concepticon.clld.org/parameters/163,tˀuʔuc̷k,black
+229-458,nucl1649,http://concepticon.clld.org/parameters/156,masgmʔiłee,red
+229-753,nucl1649,http://concepticon.clld.org/parameters/156,mask,red
+229-47,nucl1649,http://concepticon.clld.org/parameters/156,masg-,red
+229-538,nucl1649,http://concepticon.clld.org/parameters/156,mismaskt,red
+229-224,nucl1649,http://concepticon.clld.org/parameters/837,gwisgwaask,blue
+229-520,nucl1649,http://concepticon.clld.org/parameters/1425,małiitk,green
+229-518,nucl1649,http://concepticon.clld.org/parameters/1892,gwaantk,touch
+229-419,nucl1649,http://concepticon.clld.org/parameters/1234,naʔyełk,smooth
+229-344,nucl1649,http://concepticon.clld.org/parameters/1396,sak,sharp
+229-548,nucl1649,http://concepticon.clld.org/parameters/1726,logask,"wet, damp"
+229-11,nucl1649,http://concepticon.clld.org/parameters/1398,güünaks,dry
+229-23,nucl1649,http://concepticon.clld.org/parameters/1398,luuna,dry
+229-213,nucl1649,http://concepticon.clld.org/parameters/1398,sü-luuna,dry
+229-444,nucl1649,http://concepticon.clld.org/parameters/1286,gyemk,hot
+229-287,nucl1649,http://concepticon.clld.org/parameters/1286,luʔgwilgyemk,hot
+229-531,nucl1649,http://concepticon.clld.org/parameters/704,saksk,clean
+229-608,nucl1649,http://concepticon.clld.org/parameters/1230,maatg,"dirty, soiled"
+229-301,nucl1649,http://concepticon.clld.org/parameters/53,haayuk,"soul, spirit"
+229-325,nucl1649,http://concepticon.clld.org/parameters/1495,łgwüsgüü,"joyful, glad, happy"
+229-556,nucl1649,http://concepticon.clld.org/parameters/1355,süsˀaaks,laugh
+229-185,nucl1649,http://concepticon.clld.org/parameters/1451,moʔmx,smile
+229-756,nucl1649,http://concepticon.clld.org/parameters/578,humˀc̷a,kiss
+229-362,nucl1649,http://concepticon.clld.org/parameters/1000,luwantgmgood,"anxiety, worry"
+229-744,nucl1649,http://concepticon.clld.org/parameters/1000,luwantk,"anxiety, worry"
+229-160,nucl1649,http://concepticon.clld.org/parameters/1839,wihaawtk,"cry, weep"
+229-7,nucl1649,http://concepticon.clld.org/parameters/1839,xeexs,"cry, weep"
+229-382,nucl1649,http://concepticon.clld.org/parameters/1651,ksiil,tear (noun)
+229-208,nucl1649,http://concepticon.clld.org/parameters/1651,gaksiilt,tear (noun)
+229-280,nucl1649,http://concepticon.clld.org/parameters/716,saaldzik,groan
+229-682,nucl1649,http://concepticon.clld.org/parameters/82,łuunti,anger
+229-66,nucl1649,http://concepticon.clld.org/parameters/781,naxʔpidzuu,"fear, fright"
+229-485,nucl1649,http://concepticon.clld.org/parameters/1810,suulg,danger
+229-17,nucl1649,http://concepticon.clld.org/parameters/1784,hasaakl,"desire, want"
+229-229,nucl1649,http://concepticon.clld.org/parameters/601,biiʔk,"lie, tell lies"
+229-261,nucl1649,http://concepticon.clld.org/parameters/601,hukbiiʔk,"lie, tell lies"
+229-148,nucl1649,http://concepticon.clld.org/parameters/1725,hoyax,"right, correct"
+229-181,nucl1649,http://concepticon.clld.org/parameters/1410,wilaay,know
+229-454,nucl1649,http://concepticon.clld.org/parameters/117,sasyaamx,imitate
+229-580,nucl1649,http://concepticon.clld.org/parameters/1899,liksgoot,"insane, crazy"
+229-353,nucl1649,http://concepticon.clld.org/parameters/1899,lüksgood,"insane, crazy"
+229-290,nucl1649,http://concepticon.clld.org/parameters/504,luudisk,learn
+229-152,nucl1649,http://concepticon.clld.org/parameters/709,skˀuunsk,teach
+229-388,nucl1649,http://concepticon.clld.org/parameters/1523,kˀoʔal,forget
+229-417,nucl1649,http://concepticon.clld.org/parameters/1523,tˀiisk,forget
+229-195,nucl1649,http://concepticon.clld.org/parameters/1626,magon,explain
+229-351,nucl1649,http://concepticon.clld.org/parameters/643,seeg,"need, necessity"
+229-43,nucl1649,http://concepticon.clld.org/parameters/686,sgyeetk,easy
+229-658,nucl1649,http://concepticon.clld.org/parameters/1268,oo,"yes, affirmative"
+229-404,nucl1649,http://concepticon.clld.org/parameters/1269,ał-,"no, negative"
+229-245,nucl1649,http://concepticon.clld.org/parameters/1269,ałga-,"no, negative"
+229-659,nucl1649,http://concepticon.clld.org/parameters/1239,ndeh,how?
+229-747,nucl1649,http://concepticon.clld.org/parameters/1236,goo,what?
+229-498,nucl1649,http://concepticon.clld.org/parameters/1238,dzindeh,when?
+229-659,nucl1649,http://concepticon.clld.org/parameters/1238,ndeh,when?
+229-659,nucl1649,http://concepticon.clld.org/parameters/1237,ndeh,where?
+229-730,nucl1649,http://concepticon.clld.org/parameters/1235,naa,who?
+229-733,nucl1649,http://concepticon.clld.org/parameters/1363,amhaw,voice
+229-12,nucl1649,http://concepticon.clld.org/parameters/1261,liimi,sing
+229-752,nucl1649,http://concepticon.clld.org/parameters/55,stuunł,whisper
+229-690,nucl1649,http://concepticon.clld.org/parameters/1025,waʔtaxk,whistle
+229-116,nucl1649,http://concepticon.clld.org/parameters/526,kˀagawʔtk,howl
+229-112,nucl1649,http://concepticon.clld.org/parameters/1623,algyax,"speak, talk"
+229-526,nucl1649,http://concepticon.clld.org/parameters/1623,haw,"speak, talk"
+229-409,nucl1649,http://concepticon.clld.org/parameters/1623,pliyaaẅ,"speak, talk"
+229-534,nucl1649,http://concepticon.clld.org/parameters/1623,xsteltk,"speak, talk"
+229-347,nucl1649,http://concepticon.clld.org/parameters/1711,maalsk,tell story
+229-372,nucl1649,http://concepticon.clld.org/parameters/1711,małiłk,tell story
+229-602,nucl1649,http://concepticon.clld.org/parameters/1309,güüdax,"ask (question, inquire)"
+229-113,nucl1649,http://concepticon.clld.org/parameters/1675,nasmhawtks,promise
+229-51,nucl1649,http://concepticon.clld.org/parameters/49,sgaag,refuse
+229-319,nucl1649,http://concepticon.clld.org/parameters/83,haʔweełk,forbid
+229-283,nucl1649,http://concepticon.clld.org/parameters/1084,huutk,call (=summon)
+229-710,nucl1649,http://concepticon.clld.org/parameters/908,nahooł,drum
+229-302,nucl1649,http://concepticon.clld.org/parameters/300,sasoo,rattle
+229-184,nucl1649,http://concepticon.clld.org/parameters/1391,c̷ˀap,"city, town"
+229-386,nucl1649,http://concepticon.clld.org/parameters/930,galdzap,village
+229-380,nucl1649,http://concepticon.clld.org/parameters/789,gagigyet,people (populace)
+229-184,nucl1649,http://concepticon.clld.org/parameters/302,c̷ˀap,"tribe, clan"
+229-146,nucl1649,http://concepticon.clld.org/parameters/301,algyagask,"chief, chieftain"
+229-8,nucl1649,http://concepticon.clld.org/parameters/1635,waan,obey
+229-549,nucl1649,http://concepticon.clld.org/parameters/1325,damxł,"friend, companion"
+229-620,nucl1649,http://concepticon.clld.org/parameters/1358,libiltwaltk,enemy
+229-154,nucl1649,http://concepticon.clld.org/parameters/791,lüksc̷ˀap,stranger
+229-397,nucl1649,http://concepticon.clld.org/parameters/1897,łmoom,"help, aid"
+229-687,nucl1649,http://concepticon.clld.org/parameters/1831,waa,meet
+229-358,nucl1649,http://concepticon.clld.org/parameters/1831,wütwaa,meet
+229-157,nucl1649,http://concepticon.clld.org/parameters/579,wilduulgyit,"war, battle"
+229-644,nucl1649,http://concepticon.clld.org/parameters/1763,hagayaan,club
+229-294,nucl1649,http://concepticon.clld.org/parameters/1763,haʔkalaaẅ,club
+229-233,nucl1649,http://concepticon.clld.org/parameters/1763,haʔkayaan,club
+229-502,nucl1649,http://concepticon.clld.org/parameters/1763,kˀaayaan,club
+229-675,nucl1649,http://concepticon.clld.org/parameters/994,hakwdaak,bow
+229-232,nucl1649,http://concepticon.clld.org/parameters/977,hawaal,arrow
+229-504,nucl1649,http://concepticon.clld.org/parameters/977,tˀaas,arrow
+229-260,nucl1649,http://concepticon.clld.org/parameters/945,gyiłgyał,spear
+229-662,nucl1649,http://concepticon.clld.org/parameters/1061,ganłaan,armor (defensive)
+229-206,nucl1649,http://concepticon.clld.org/parameters/1938,tˀooʔc̷ip,fortress
+229-591,nucl1649,http://concepticon.clld.org/parameters/1858,hukˀat,fisherman
+229-425,nucl1649,http://concepticon.clld.org/parameters/389,nisahoon,fish trap
+229-19,nucl1649,http://concepticon.clld.org/parameters/389,tˀiin,fish trap
+229-730,nucl1649,http://concepticon.clld.org/parameters/2013,naa,bait
+229-359,nucl1649,http://concepticon.clld.org/parameters/2013,siʔnaa,bait
+229-649,nucl1649,http://concepticon.clld.org/parameters/713,kˀaalg,steal
+229-625,nucl1649,http://concepticon.clld.org/parameters/713,kˀyaaʔlk,steal
+229-234,nucl1649,http://concepticon.clld.org/parameters/713,c̷ˀaawil,steal
+229-30,nucl1649,http://concepticon.clld.org/parameters/24,gyigyiingyał,pray
+229-595,nucl1649,http://concepticon.clld.org/parameters/1702,ʔnłomsk,"holy, sacred"
+229-645,nucl1649,http://concepticon.clld.org/parameters/1565,laxa,heaven

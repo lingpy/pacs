@@ -1,0 +1,1761 @@
+ID,Language_ID,Feature_ID,Value,Concept
+299-22,sana1281,http://concepticon.clld.org/parameters/965,neŋeleeywomakɬaʔ,world
+299-519,sana1281,http://concepticon.clld.org/parameters/965,as naaɬpop,world
+299-1243,sana1281,http://concepticon.clld.org/parameters/626,ɬoopʔaktek,"earth, land"
+299-38,sana1281,http://concepticon.clld.org/parameters/626,amyep,"earth, land"
+299-1243,sana1281,http://concepticon.clld.org/parameters/1228,ɬoopʔaktek,"earth=ground, soil"
+299-360,sana1281,http://concepticon.clld.org/parameters/1228,naaɬpop,"earth=ground, soil"
+299-1359,sana1281,http://concepticon.clld.org/parameters/2,aanek,dust
+299-1357,sana1281,http://concepticon.clld.org/parameters/2,akpaʔanma (ɬoopʔaktek),dust
+299-999,sana1281,http://concepticon.clld.org/parameters/640,yelpaʔ,mud
+299-1243,sana1281,http://concepticon.clld.org/parameters/671,ɬoopʔaktek,sand
+299-1382,sana1281,http://concepticon.clld.org/parameters/671,ɬoopʔaktek aŋkooʔ,sand
+299-1123,sana1281,http://concepticon.clld.org/parameters/671,ɬoopʔaktek aanek,sand
+299-803,sana1281,http://concepticon.clld.org/parameters/2118,eŋkeɬe,"mountain, hill"
+299-989,sana1281,http://concepticon.clld.org/parameters/2118,mataymoŋ,"mountain, hill"
+299-38,sana1281,http://concepticon.clld.org/parameters/652,amyep,"plain, field"
+299-350,sana1281,http://concepticon.clld.org/parameters/921,alwaataʔ,valley
+299-1272,sana1281,http://concepticon.clld.org/parameters/113,neyaawaʔatsamˀ,shore
+299-611,sana1281,http://concepticon.clld.org/parameters/113,nekha waʔatsamˀ,shore
+299-991,sana1281,http://concepticon.clld.org/parameters/1155,maaɬek,cave
+299-73,sana1281,http://concepticon.clld.org/parameters/1155,maaɬek aɬaŋkok,cave
+299-1435,sana1281,http://concepticon.clld.org/parameters/1155,aʔaɬwa,cave
+299-600,sana1281,http://concepticon.clld.org/parameters/948,yeŋmen,water
+299-1182,sana1281,http://concepticon.clld.org/parameters/948,ayeŋmenek,water
+299-155,sana1281,http://concepticon.clld.org/parameters/1474,waʔatsamˀ,sea
+299-525,sana1281,http://concepticon.clld.org/parameters/258,mepke yennamaam,calm (of sea)
+299-236,sana1281,http://concepticon.clld.org/parameters/258,akwanmaykekɬaʔ aɬkahayaamˀ,calm (of sea)
+299-297,sana1281,http://concepticon.clld.org/parameters/258,apwanmaykekɬa peyaamˀ,calm (of sea)
+299-472,sana1281,http://concepticon.clld.org/parameters/1768,akyaʔmopoyˀ,foam
+299-155,sana1281,http://concepticon.clld.org/parameters/645,waʔatsamˀ,ocean
+299-910,sana1281,http://concepticon.clld.org/parameters/624,awaʔɬok,lake
+299-1133,sana1281,http://concepticon.clld.org/parameters/624,yaŋkomeɬ,lake
+299-504,sana1281,http://concepticon.clld.org/parameters/624,saaŋa,lake
+299-1437,sana1281,http://concepticon.clld.org/parameters/624,paŋkaɬwa,lake
+299-1239,sana1281,http://concepticon.clld.org/parameters/624,waʔatsamˀ-aktoŋ,lake
+299-910,sana1281,http://concepticon.clld.org/parameters/623,awaʔɬok,lagoon
+299-1133,sana1281,http://concepticon.clld.org/parameters/623,yaŋkomeɬ,lagoon
+299-1239,sana1281,http://concepticon.clld.org/parameters/623,waʔatsamˀ-aktoŋ,lagoon
+299-906,sana1281,http://concepticon.clld.org/parameters/978,alyaʔyahayaamˀ,wave
+299-155,sana1281,http://concepticon.clld.org/parameters/666,waʔatsamˀ,"river, stream, brook"
+299-1239,sana1281,http://concepticon.clld.org/parameters/666,waʔatsamˀ-aktoŋ,"river, stream, brook"
+299-1326,sana1281,http://concepticon.clld.org/parameters/1982,akyeeyhaam yeŋmen,whirlpool
+299-726,sana1281,http://concepticon.clld.org/parameters/2144,yaamelket,"spring, well"
+299-353,sana1281,http://concepticon.clld.org/parameters/2144,akyeheŋwaykamɬa yeŋmen,"spring, well"
+299-910,sana1281,http://concepticon.clld.org/parameters/1145,awaʔɬok,swamp
+299-959,sana1281,http://concepticon.clld.org/parameters/420,naɬmaʔ,"woods, forest"
+299-1145,sana1281,http://concepticon.clld.org/parameters/906,yaamet,tree (cf 08.600)
+299-878,sana1281,http://concepticon.clld.org/parameters/906,yaamet awhak,tree (cf 08.600)
+299-1145,sana1281,http://concepticon.clld.org/parameters/1803,yaamet,wood
+299-760,sana1281,http://concepticon.clld.org/parameters/1803,yaamet ayseksek,wood
+299-989,sana1281,http://concepticon.clld.org/parameters/2125,mataymoŋ,"stone, rock"
+299-888,sana1281,http://concepticon.clld.org/parameters/2125,yamʔaateɬ,"stone, rock"
+299-226,sana1281,http://concepticon.clld.org/parameters/2125,apyawʔa,"stone, rock"
+299-34,sana1281,http://concepticon.clld.org/parameters/6,akyawhaykamˀ ɬoopʔaktek,earthquake
+299-1254,sana1281,http://concepticon.clld.org/parameters/1732,neeten,sky
+299-1256,sana1281,http://concepticon.clld.org/parameters/1343,aknemˀ,sun
+299-479,sana1281,http://concepticon.clld.org/parameters/1313,peltenˀ,moon
+299-226,sana1281,http://concepticon.clld.org/parameters/1430,apyawʔa,star
+299-1318,sana1281,http://concepticon.clld.org/parameters/1654,kelyenmayaamˀ,lightning
+299-861,sana1281,http://concepticon.clld.org/parameters/1654,anaata,lightning
+299-522,sana1281,http://concepticon.clld.org/parameters/1150,keɬteŋyaweyaamˀ,thunder
+299-60,sana1281,http://concepticon.clld.org/parameters/2007,aamay ˀpaŋkaʔaok kelyenmayaamˀ,lightning (as striking)
+299-731,sana1281,http://concepticon.clld.org/parameters/858,yaatepeyaamˀ,storm
+299-1141,sana1281,http://concepticon.clld.org/parameters/858,yaamsammaɬkaʔ,storm
+299-768,sana1281,http://concepticon.clld.org/parameters/858,allektaaɬkamˀ,storm
+299-682,sana1281,http://concepticon.clld.org/parameters/1733,pomhet,rainbow
+299-978,sana1281,http://concepticon.clld.org/parameters/630,ayetsayʔoo ɬmaʔ,light (noun)
+299-576,sana1281,http://concepticon.clld.org/parameters/630,ayaapoŋmateem,light (noun)
+299-655,sana1281,http://concepticon.clld.org/parameters/11,haɬ aɬmaʔ,darkness
+299-741,sana1281,http://concepticon.clld.org/parameters/11,akyaʔteeskama ɬmaʔ,darkness
+299-1323,sana1281,http://concepticon.clld.org/parameters/11,yaʔteeskama ɬmaʔ,darkness
+299-390,sana1281,http://concepticon.clld.org/parameters/1388,peskeska,"shade, shadow"
+299-1233,sana1281,http://concepticon.clld.org/parameters/1977,yaʔalya,dew
+299-78,sana1281,http://concepticon.clld.org/parameters/27,ayennamaam,air
+299-110,sana1281,http://concepticon.clld.org/parameters/960,aɬkahayaamˀ,wind
+299-992,sana1281,http://concepticon.clld.org/parameters/960,peyaamˀ,wind
+299-84,sana1281,http://concepticon.clld.org/parameters/1489,yephopayˀ,cloud
+299-801,sana1281,http://concepticon.clld.org/parameters/249,teeyamˀ-eeten,fog
+299-328,sana1281,http://concepticon.clld.org/parameters/658,akmaamayˀ,rain (noun)
+299-409,sana1281,http://concepticon.clld.org/parameters/617,yeŋmen appok,ice
+299-70,sana1281,http://concepticon.clld.org/parameters/617,peyaamˀ appok,ice
+299-1280,sana1281,http://concepticon.clld.org/parameters/221,taaɬa,fire
+299-437,sana1281,http://concepticon.clld.org/parameters/889,taaɬa aɬkok,flame (noun)
+299-841,sana1281,http://concepticon.clld.org/parameters/889,alaywoom,flame (noun)
+299-104,sana1281,http://concepticon.clld.org/parameters/778,eeten,smoke (noun)
+299-775,sana1281,http://concepticon.clld.org/parameters/778,akpaʔanma,smoke (noun)
+299-1416,sana1281,http://concepticon.clld.org/parameters/646,taahap,ashes
+299-27,sana1281,http://concepticon.clld.org/parameters/67,aateɬ,embers
+299-1264,sana1281,http://concepticon.clld.org/parameters/141,neŋwatnama,burn (vb trans)
+299-1269,sana1281,http://concepticon.clld.org/parameters/1428,akmeesma,burn (vb intrans)
+299-1264,sana1281,http://concepticon.clld.org/parameters/737,neŋwatnama,"light, kindle, ignite"
+299-261,sana1281,http://concepticon.clld.org/parameters/737,neŋaapoŋmaatkeskama,"light, kindle, ignite"
+299-305,sana1281,http://concepticon.clld.org/parameters/127,nensapoonkeskama,extinguish
+299-807,sana1281,http://concepticon.clld.org/parameters/127,neŋmaskooskama,extinguish
+299-639,sana1281,http://concepticon.clld.org/parameters/1133,taaɬa aktek,match (noun)
+299-313,sana1281,http://concepticon.clld.org/parameters/1133,taaɬeksawhommaɬkaʔ,match (noun)
+299-770,sana1281,http://concepticon.clld.org/parameters/10,aɬpoŋha,firewood
+299-27,sana1281,http://concepticon.clld.org/parameters/1188,aateɬ,charcoal
+299-1074,sana1281,http://concepticon.clld.org/parameters/683,enɬet,"person, human being"
+299-1074,sana1281,http://concepticon.clld.org/parameters/1554,enɬet,man (vs. woman)
+299-251,sana1281,http://concepticon.clld.org/parameters/1554,kennaawoʔ,man (vs. woman)
+299-1195,sana1281,http://concepticon.clld.org/parameters/962,kelwaanaʔa,woman
+299-251,sana1281,http://concepticon.clld.org/parameters/2263,kennaawoʔ,male
+299-723,sana1281,http://concepticon.clld.org/parameters/2260,kelwaan,female
+299-1143,sana1281,http://concepticon.clld.org/parameters/1366,sekaʔa,boy
+299-173,sana1281,http://concepticon.clld.org/parameters/1366,sekaʔ apketkok,boy
+299-71,sana1281,http://concepticon.clld.org/parameters/1366,waapaʔtaʔaok,boy
+299-1152,sana1281,http://concepticon.clld.org/parameters/1366,apketkeetsek,boy
+299-514,sana1281,http://concepticon.clld.org/parameters/76,apketkok,young man (adolescent)
+299-700,sana1281,http://concepticon.clld.org/parameters/76,apyemnaanek,young man (adolescent)
+299-773,sana1281,http://concepticon.clld.org/parameters/76,yooŋes,young man (adolescent)
+299-1143,sana1281,http://concepticon.clld.org/parameters/1646,sekaʔa,girl
+299-1281,sana1281,http://concepticon.clld.org/parameters/1646,sekaʔa yetkok,girl
+299-565,sana1281,http://concepticon.clld.org/parameters/1646,aawaʔtaʔaok,girl
+299-756,sana1281,http://concepticon.clld.org/parameters/1646,atkeetsek,girl
+299-1290,sana1281,http://concepticon.clld.org/parameters/77,kelwaanaʔ yetkok,young woman (adolescent)
+299-1214,sana1281,http://concepticon.clld.org/parameters/77,mepke taawaʔ,young woman (adolescent)
+299-1143,sana1281,http://concepticon.clld.org/parameters/1304,sekaʔa,child
+299-763,sana1281,http://concepticon.clld.org/parameters/1304,eewen,child
+299-1281,sana1281,http://concepticon.clld.org/parameters/1304,sekaʔa yetkok,child
+299-210,sana1281,http://concepticon.clld.org/parameters/1304,sekaʔa pketkok,child
+299-1143,sana1281,http://concepticon.clld.org/parameters/1289,sekaʔa,"infant, baby"
+299-1281,sana1281,http://concepticon.clld.org/parameters/1289,sekaʔa yetkok,"infant, baby"
+299-1311,sana1281,http://concepticon.clld.org/parameters/1289,secaʔa pketkok,"infant, baby"
+299-436,sana1281,http://concepticon.clld.org/parameters/1200,entaawaʔ,husband
+299-338,sana1281,http://concepticon.clld.org/parameters/1200,nenɬaaɬma,husband
+299-436,sana1281,http://concepticon.clld.org/parameters/1199,entaawaʔ,wife
+299-338,sana1281,http://concepticon.clld.org/parameters/1199,nenɬaaɬma,wife
+299-1295,sana1281,http://concepticon.clld.org/parameters/203,seŋelyamhapma,marry
+299-1295,sana1281,http://concepticon.clld.org/parameters/1259,seŋelyamhapma,"marriage, wedding"
+299-993,sana1281,http://concepticon.clld.org/parameters/1134,neŋyamasma entaawaʔ,divorce
+299-781,sana1281,http://concepticon.clld.org/parameters/1134,neŋeɬpaʔanma,divorce
+299-1201,sana1281,http://concepticon.clld.org/parameters/1217,taata eŋak,father
+299-1242,sana1281,http://concepticon.clld.org/parameters/1217,aŋyaap,father
+299-809,sana1281,http://concepticon.clld.org/parameters/1216,meeme eŋak,mother
+299-823,sana1281,http://concepticon.clld.org/parameters/1216,aŋkenˀ,mother
+299-1315,sana1281,http://concepticon.clld.org/parameters/505,aŋkanaek,parents
+299-1117,sana1281,http://concepticon.clld.org/parameters/424,akma ptaawaʔ,married man
+299-154,sana1281,http://concepticon.clld.org/parameters/426,akma taawaʔ,married woman
+299-260,sana1281,http://concepticon.clld.org/parameters/1620,eŋketka,son
+299-1353,sana1281,http://concepticon.clld.org/parameters/1620,nentamoŋwayaamˀ,son
+299-318,sana1281,http://concepticon.clld.org/parameters/1620,yooŋes eŋak,son
+299-260,sana1281,http://concepticon.clld.org/parameters/1357,eŋketka,daughter
+299-1353,sana1281,http://concepticon.clld.org/parameters/1357,nentamoŋwayaamˀ,daughter
+299-562,sana1281,http://concepticon.clld.org/parameters/1801,eŋketkek,offspring (son or daughter)
+299-240,sana1281,http://concepticon.clld.org/parameters/1801,entawaan,offspring (son or daughter)
+299-774,sana1281,http://concepticon.clld.org/parameters/1801,entawaana,offspring (son or daughter)
+299-304,sana1281,http://concepticon.clld.org/parameters/1759,haawok eŋak,older brother
+299-24,sana1281,http://concepticon.clld.org/parameters/1759,eŋyepmaʔ,older brother
+299-18,sana1281,http://concepticon.clld.org/parameters/1759,haawok ahaŋkooʔ,older brother
+299-557,sana1281,http://concepticon.clld.org/parameters/1759,eŋyepmaʔ eŋaŋkooʔ,older brother
+299-699,sana1281,http://concepticon.clld.org/parameters/1760,eŋyaaɬeŋˀ,younger brother
+299-301,sana1281,http://concepticon.clld.org/parameters/1760,eŋyaaɬeŋˀ eŋaŋkooʔ,younger brother
+299-791,sana1281,http://concepticon.clld.org/parameters/1758,yaaya eŋak,older sister
+299-751,sana1281,http://concepticon.clld.org/parameters/1758,eŋyaaɬoʔ,older sister
+299-528,sana1281,http://concepticon.clld.org/parameters/1758,yaaya haŋkooʔ,older sister
+299-47,sana1281,http://concepticon.clld.org/parameters/1758,eŋyaaɬoʔ eŋaŋkooʔ,older sister
+299-699,sana1281,http://concepticon.clld.org/parameters/1761,eŋyaaɬeŋˀ,younger sister
+299-301,sana1281,http://concepticon.clld.org/parameters/1761,eŋyaaɬeŋˀ eŋaŋkooʔ,younger sister
+299-141,sana1281,http://concepticon.clld.org/parameters/1640,eŋelyaaɬeŋʔa,sibling
+299-263,sana1281,http://concepticon.clld.org/parameters/1005,nempalleyaekmoo eŋkaanet,twins
+299-1124,sana1281,http://concepticon.clld.org/parameters/1005,sekaaʔ aʔnet,twins
+299-423,sana1281,http://concepticon.clld.org/parameters/1005,aʔnetʔayˀ,twins
+299-254,sana1281,http://concepticon.clld.org/parameters/1383,setaʔ eŋak,grandfather
+299-937,sana1281,http://concepticon.clld.org/parameters/1383,eŋyaataʔ,grandfather
+299-563,sana1281,http://concepticon.clld.org/parameters/406,kelaphopa,old man
+299-1093,sana1281,http://concepticon.clld.org/parameters/406,seta pwaanyamˀ,old man
+299-1313,sana1281,http://concepticon.clld.org/parameters/1496,seemaʔ eŋak,grandmother
+299-890,sana1281,http://concepticon.clld.org/parameters/1496,eŋyaamaʔ,grandmother
+299-730,sana1281,http://concepticon.clld.org/parameters/907,kelʔapa,old woman
+299-212,sana1281,http://concepticon.clld.org/parameters/907,seema kwaanyamˀ,old woman
+299-661,sana1281,http://concepticon.clld.org/parameters/1618,entaawenˀ,grandson
+299-661,sana1281,http://concepticon.clld.org/parameters/1619,entaawenˀ,granddaughter
+299-53,sana1281,http://concepticon.clld.org/parameters/1984,eŋyapkoʔ,mother's brother
+299-125,sana1281,http://concepticon.clld.org/parameters/1985,eŋyahaʔ,father's brother
+299-517,sana1281,http://concepticon.clld.org/parameters/171,mook meeme eŋak,mother's sister
+299-478,sana1281,http://concepticon.clld.org/parameters/171,mooŋkenˀ,mother's sister
+299-1079,sana1281,http://concepticon.clld.org/parameters/170,eŋkaatem,father's sister
+299-1175,sana1281,http://concepticon.clld.org/parameters/1063,eŋketkaʔayˀ,nephew
+299-790,sana1281,http://concepticon.clld.org/parameters/1063,eŋyepheenem,nephew
+299-1175,sana1281,http://concepticon.clld.org/parameters/1642,eŋketkaʔayˀ,niece
+299-790,sana1281,http://concepticon.clld.org/parameters/1642,eŋyepheenem,niece
+299-1199,sana1281,http://concepticon.clld.org/parameters/1643,nentemeem eŋyaaɬeŋˀ,cousin
+299-227,sana1281,http://concepticon.clld.org/parameters/1643,nentemeem haawok/ eŋyepmaʔ,cousin
+299-1014,sana1281,http://concepticon.clld.org/parameters/1643,nentemeem yaaya/ eŋyaaɬoʔ,cousin
+299-176,sana1281,http://concepticon.clld.org/parameters/1669,neŋyeeyhaamkaʔa,ancestors
+299-880,sana1281,http://concepticon.clld.org/parameters/490,entawaan nentaamen,descendants
+299-1063,sana1281,http://concepticon.clld.org/parameters/2255,eŋyepyaataʔ,father-in-law (of a man)
+299-796,sana1281,http://concepticon.clld.org/parameters/2255,setaʔ,father-in-law (of a man)
+299-1063,sana1281,http://concepticon.clld.org/parameters/2254,eŋyepyaataʔ,father-in-law (of a woman)
+299-796,sana1281,http://concepticon.clld.org/parameters/2254,setaʔ,father-in-law (of a woman)
+299-718,sana1281,http://concepticon.clld.org/parameters/2256,eŋyepyaamoŋ,mother-in-law (of a man)
+299-642,sana1281,http://concepticon.clld.org/parameters/2256,seemaʔ,mother-in-law (of a man)
+299-718,sana1281,http://concepticon.clld.org/parameters/2257,eŋyepyaamoŋ,mother-in-law (of a woman)
+299-642,sana1281,http://concepticon.clld.org/parameters/2257,seemaʔ,mother-in-law (of a woman)
+299-280,sana1281,http://concepticon.clld.org/parameters/2267,eŋyephaayem,son-in-law (of a man)
+299-280,sana1281,http://concepticon.clld.org/parameters/2266,eŋyephaayem,son-in-law (of a woman)
+299-695,sana1281,http://concepticon.clld.org/parameters/2265,entaapa,daughter-in-law (of a man)
+299-695,sana1281,http://concepticon.clld.org/parameters/2264,entaapa,daughter-in-law (of a woman)
+299-125,sana1281,http://concepticon.clld.org/parameters/237,eŋyahaʔ,stepfather
+299-1079,sana1281,http://concepticon.clld.org/parameters/236,eŋkaatem,stepmother
+299-1175,sana1281,http://concepticon.clld.org/parameters/1059,eŋketkaʔayˀ,stepson
+299-1175,sana1281,http://concepticon.clld.org/parameters/1058,eŋketkaʔayˀ,stepdaughter
+299-1258,sana1281,http://concepticon.clld.org/parameters/1149,nenyeeyheeykamˀ,orphan
+299-1046,sana1281,http://concepticon.clld.org/parameters/1149,haatkokʔayˀ,orphan
+299-430,sana1281,http://concepticon.clld.org/parameters/1149,kamʔaatkok,orphan
+299-277,sana1281,http://concepticon.clld.org/parameters/1149,haakok,orphan
+299-650,sana1281,http://concepticon.clld.org/parameters/1756,tampeyeʔ,widow
+299-650,sana1281,http://concepticon.clld.org/parameters/1981,tampeyeʔ,widower
+299-758,sana1281,http://concepticon.clld.org/parameters/1644,eŋmook,"relatives, kinsmen"
+299-1364,sana1281,http://concepticon.clld.org/parameters/1644,eŋnaʔaymakok,"relatives, kinsmen"
+299-652,sana1281,http://concepticon.clld.org/parameters/194,neŋmooɬama,family
+299-440,sana1281,http://concepticon.clld.org/parameters/1209,koʔo,I
+299-1202,sana1281,http://concepticon.clld.org/parameters/1215,ɬeyaʔ,you (singular)
+299-806,sana1281,http://concepticon.clld.org/parameters/1215,ɬeep,you (singular)
+299-1387,sana1281,http://concepticon.clld.org/parameters/1212,neŋkoʔo,we
+299-337,sana1281,http://concepticon.clld.org/parameters/1213,kellheyaʔ,you (plural)
+299-1009,sana1281,http://concepticon.clld.org/parameters/1213,kellheep,you (plural)
+299-90,sana1281,http://concepticon.clld.org/parameters/619,aʔsok-nawhak,animal
+299-577,sana1281,http://concepticon.clld.org/parameters/619,aʔsok-nawhak nentooskama,animal
+299-251,sana1281,http://concepticon.clld.org/parameters/2261,kennaawoʔ,male (adj)
+299-723,sana1281,http://concepticon.clld.org/parameters/2262,kelwaan,female (adj)
+299-1209,sana1281,http://concepticon.clld.org/parameters/631,neŋnaʔtooskama,livestock
+299-1132,sana1281,http://concepticon.clld.org/parameters/649,waetke ɬaŋkok,pasture
+299-913,sana1281,http://concepticon.clld.org/parameters/263,taʔmelkeskama-waetke,herdsman
+299-1180,sana1281,http://concepticon.clld.org/parameters/263,kelaankamˀ-nepkeesek,herdsman
+299-1132,sana1281,http://concepticon.clld.org/parameters/851,waetke ɬaŋkok,"stable, stall"
+299-877,sana1281,http://concepticon.clld.org/parameters/1153,waetke,cattle (bovine)
+299-1193,sana1281,http://concepticon.clld.org/parameters/1008,waetke ŋkennaawoʔ,bull
+299-399,sana1281,http://concepticon.clld.org/parameters/1169,waetke yaamkelwaan,ox
+299-918,sana1281,http://concepticon.clld.org/parameters/1007,waetke ŋkelwaan,cow
+299-382,sana1281,http://concepticon.clld.org/parameters/1989,waetkee tkok,calf
+299-1148,sana1281,http://concepticon.clld.org/parameters/1331,nepkeesek,sheep
+299-144,sana1281,http://concepticon.clld.org/parameters/1344,nepkeesek apkennaawoʔ,ram
+299-1019,sana1281,http://concepticon.clld.org/parameters/1345,nepkeesek apkelwaan,ewe
+299-819,sana1281,http://concepticon.clld.org/parameters/820,nepkeesek apketkok,lamb
+299-267,sana1281,http://concepticon.clld.org/parameters/1348,yaatepomaap apkennaawoʔ,boar
+299-39,sana1281,http://concepticon.clld.org/parameters/1351,yaatepomaap apkelwaan,sow (2)
+299-46,sana1281,http://concepticon.clld.org/parameters/1337,pomaap,pig
+299-89,sana1281,http://concepticon.clld.org/parameters/1337,yaʔhaway,pig
+299-358,sana1281,http://concepticon.clld.org/parameters/1337,paawa,pig
+299-1155,sana1281,http://concepticon.clld.org/parameters/1337,yaatepomaap,pig
+299-534,sana1281,http://concepticon.clld.org/parameters/1502,yaataʔayˀ apkelwaan,goat
+299-296,sana1281,http://concepticon.clld.org/parameters/264,yaataʔayˀ apkennaawoʔ,he-goat
+299-148,sana1281,http://concepticon.clld.org/parameters/1972,yaataʔayˀ apketkok,kid
+299-1058,sana1281,http://concepticon.clld.org/parameters/615,nooɬeŋ,horse (equine)
+299-902,sana1281,http://concepticon.clld.org/parameters/936,nooɬeŋ apkennaawoʔ,stallion
+299-446,sana1281,http://concepticon.clld.org/parameters/938,nooɬeŋ apkelwaan,mare
+299-1302,sana1281,http://concepticon.clld.org/parameters/1647,nooɬeŋ apketkok,"foal, colt"
+299-7,sana1281,http://concepticon.clld.org/parameters/1862,yaamelyeʔhaykok,"ass, donkey"
+299-393,sana1281,http://concepticon.clld.org/parameters/1862,moola,"ass, donkey"
+299-16,sana1281,http://concepticon.clld.org/parameters/890,yeʔhaykok,mule
+299-1011,sana1281,http://concepticon.clld.org/parameters/1511,tataʔ aŋkennaawoʔ,"cock, rooster"
+299-608,sana1281,http://concepticon.clld.org/parameters/1514,tataʔ aŋkelwaan,hen
+299-603,sana1281,http://concepticon.clld.org/parameters/1318,tataʔ ayetkok,chicken
+299-88,sana1281,http://concepticon.clld.org/parameters/1187,yaamtataʔa,goose
+299-1171,sana1281,http://concepticon.clld.org/parameters/1360,metekteŋ,duck
+299-595,sana1281,http://concepticon.clld.org/parameters/1360,pelwaapaʔ,duck
+299-128,sana1281,http://concepticon.clld.org/parameters/1360,waateesaʔ,duck
+299-30,sana1281,http://concepticon.clld.org/parameters/539,aɬaŋkok,nest
+299-861,sana1281,http://concepticon.clld.org/parameters/937,anaata,bird
+299-425,sana1281,http://concepticon.clld.org/parameters/307,kelyekmehet,hawk
+299-266,sana1281,http://concepticon.clld.org/parameters/1185,maama,vulture
+299-693,sana1281,http://concepticon.clld.org/parameters/1793,meepop,bat
+299-330,sana1281,http://concepticon.clld.org/parameters/882,taʔwaʔ,parrot
+299-713,sana1281,http://concepticon.clld.org/parameters/882,tamnawsa,parrot
+299-192,sana1281,http://concepticon.clld.org/parameters/882,satawaaya,parrot
+299-385,sana1281,http://concepticon.clld.org/parameters/882,kaasek,parrot
+299-1251,sana1281,http://concepticon.clld.org/parameters/1853,waaɬaʔayˀ,dove
+299-200,sana1281,http://concepticon.clld.org/parameters/1853,taʔalmehet,dove
+299-1362,sana1281,http://concepticon.clld.org/parameters/1853,kelamyaapa,dove
+299-82,sana1281,http://concepticon.clld.org/parameters/1853,sapop,dove
+299-214,sana1281,http://concepticon.clld.org/parameters/1853,yaatsapop,dove
+299-569,sana1281,http://concepticon.clld.org/parameters/1853,yaamwaaɬaʔayˀ,dove
+299-1110,sana1281,http://concepticon.clld.org/parameters/735,sawaaya,owl
+299-1389,sana1281,http://concepticon.clld.org/parameters/2009,semheŋ,dog
+299-1192,sana1281,http://concepticon.clld.org/parameters/1136,toomahaŋ,rabbit
+299-669,sana1281,http://concepticon.clld.org/parameters/1208,kames,cat
+299-242,sana1281,http://concepticon.clld.org/parameters/1208,keɬkaaɬek,cat
+299-181,sana1281,http://concepticon.clld.org/parameters/309,pakweʔ,opossum
+299-101,sana1281,http://concepticon.clld.org/parameters/2139,toomaʔaɬta,"mouse, rat"
+299-217,sana1281,http://concepticon.clld.org/parameters/2139,pomoʔo,"mouse, rat"
+299-346,sana1281,http://concepticon.clld.org/parameters/2139,wesetse,"mouse, rat"
+299-339,sana1281,http://concepticon.clld.org/parameters/2139,yamtoomaʔaɬta,"mouse, rat"
+299-1439,sana1281,http://concepticon.clld.org/parameters/227,kelasma,fish
+299-1404,sana1281,http://concepticon.clld.org/parameters/213,kelasma aɬempenek,fin (dorsal)
+299-894,sana1281,http://concepticon.clld.org/parameters/266,ayempehek (kelasma),fishscale
+299-950,sana1281,http://concepticon.clld.org/parameters/1916,almayheeykamˀ,gill
+299-1167,sana1281,http://concepticon.clld.org/parameters/1013,yeɬem,freshwater eel
+299-319,sana1281,http://concepticon.clld.org/parameters/1386,meywa,lion
+299-98,sana1281,http://concepticon.clld.org/parameters/1386,neptaana,lion
+299-130,sana1281,http://concepticon.clld.org/parameters/1312,maaleŋ,fox
+299-1283,sana1281,http://concepticon.clld.org/parameters/1936,popyet,deer
+299-195,sana1281,http://concepticon.clld.org/parameters/1936,lanaep,deer
+299-935,sana1281,http://concepticon.clld.org/parameters/1350,yetsene,monkey
+299-1426,sana1281,http://concepticon.clld.org/parameters/1350,keleŋ-yaamet,monkey
+299-372,sana1281,http://concepticon.clld.org/parameters/1871,waŋkayespok,camel
+299-1228,sana1281,http://concepticon.clld.org/parameters/620,askok,insect
+299-702,sana1281,http://concepticon.clld.org/parameters/310,peetem,louse
+299-513,sana1281,http://concepticon.clld.org/parameters/267,peetem appok,nit (louse egg)
+299-1039,sana1281,http://concepticon.clld.org/parameters/232,maaleŋ-askok,flea
+299-44,sana1281,http://concepticon.clld.org/parameters/232,semheŋ-askok,flea
+299-800,sana1281,http://concepticon.clld.org/parameters/232,tataʔ-askok,flea
+299-229,sana1281,http://concepticon.clld.org/parameters/232,ɬaapen-ˀpaskok,flea
+299-804,sana1281,http://concepticon.clld.org/parameters/232,pomaap-apaskok,flea
+299-946,sana1281,http://concepticon.clld.org/parameters/1974,seŋyawanˀ,centipede
+299-9,sana1281,http://concepticon.clld.org/parameters/1538,yettaʔhaʔ,scorpion
+299-824,sana1281,http://concepticon.clld.org/parameters/587,maɬtentep,ant
+299-649,sana1281,http://concepticon.clld.org/parameters/587,haapoŋ,ant
+299-1385,sana1281,http://concepticon.clld.org/parameters/587,maayaʔmok,ant
+299-1383,sana1281,http://concepticon.clld.org/parameters/587,toome-eŋhapamkok,ant
+299-966,sana1281,http://concepticon.clld.org/parameters/843,sawaalak,spider
+299-485,sana1281,http://concepticon.clld.org/parameters/843,yawaykeʔ,spider
+299-748,sana1281,http://concepticon.clld.org/parameters/843,melanma,spider
+299-954,sana1281,http://concepticon.clld.org/parameters/1065,sawaalak-eeten,spider web
+299-789,sana1281,http://concepticon.clld.org/parameters/1065,sawaalak taam ˀpak,spider web
+299-439,sana1281,http://concepticon.clld.org/parameters/665,yawhan,bee
+299-418,sana1281,http://concepticon.clld.org/parameters/665,yawheeneʔ,bee
+299-607,sana1281,http://concepticon.clld.org/parameters/665,yaamyawheeneʔ,bee
+299-484,sana1281,http://concepticon.clld.org/parameters/1931,petkak,beeswax
+299-405,sana1281,http://concepticon.clld.org/parameters/88,yawhan apɬaŋkok,beehive
+299-626,sana1281,http://concepticon.clld.org/parameters/88,yaamyawheene pɬaŋkok,beehive
+299-805,sana1281,http://concepticon.clld.org/parameters/1517,mahaʔ,wasp
+299-1044,sana1281,http://concepticon.clld.org/parameters/1517,kenaawet,wasp
+299-1099,sana1281,http://concepticon.clld.org/parameters/1517,waʔheʔ,wasp
+299-380,sana1281,http://concepticon.clld.org/parameters/1504,yaapa,fly
+299-728,sana1281,http://concepticon.clld.org/parameters/1504,semsek,fly
+299-291,sana1281,http://concepticon.clld.org/parameters/95,yaamsemsek,"sandfly (midge), gnat"
+299-376,sana1281,http://concepticon.clld.org/parameters/1509,paaya,mosquito
+299-69,sana1281,http://concepticon.clld.org/parameters/1509,paalak,mosquito
+299-1433,sana1281,http://concepticon.clld.org/parameters/1219,melʔaok,worm
+299-1161,sana1281,http://concepticon.clld.org/parameters/1219,nemesma-etkook,worm
+299-158,sana1281,http://concepticon.clld.org/parameters/730,nemesma,snake
+299-164,sana1281,http://concepticon.clld.org/parameters/206,peyem-ˀpaskok,firefly
+299-810,sana1281,http://concepticon.clld.org/parameters/206,teeneeykaok,firefly
+299-850,sana1281,http://concepticon.clld.org/parameters/206,aasek-askok,firefly
+299-854,sana1281,http://concepticon.clld.org/parameters/1791,seleklek,butterfly
+299-884,sana1281,http://concepticon.clld.org/parameters/607,sawaʔ,grasshopper
+299-609,sana1281,http://concepticon.clld.org/parameters/607,keeye,grasshopper
+299-469,sana1281,http://concepticon.clld.org/parameters/607,yeetaʔ,grasshopper
+299-1259,sana1281,http://concepticon.clld.org/parameters/607,seeyetaʔ,grasshopper
+299-538,sana1281,http://concepticon.clld.org/parameters/607,kelaŋkeeskes,grasshopper
+299-868,sana1281,http://concepticon.clld.org/parameters/1543,kelpaʔloom,snail
+299-515,sana1281,http://concepticon.clld.org/parameters/1543,akpoŋ,snail
+299-1429,sana1281,http://concepticon.clld.org/parameters/1543,maateyempehek,snail
+299-743,sana1281,http://concepticon.clld.org/parameters/503,penek,frog
+299-1248,sana1281,http://concepticon.clld.org/parameters/503,semyeʔ,frog
+299-782,sana1281,http://concepticon.clld.org/parameters/503,phaaneŋ,frog
+299-811,sana1281,http://concepticon.clld.org/parameters/632,peehe,lizard
+299-432,sana1281,http://concepticon.clld.org/parameters/632,pooma,lizard
+299-202,sana1281,http://concepticon.clld.org/parameters/632,yaatepooma,lizard
+299-1431,sana1281,http://concepticon.clld.org/parameters/1857,yaatepeyem,"crocodile, alligator"
+299-326,sana1281,http://concepticon.clld.org/parameters/112,naʔtaʔ,turtle
+299-601,sana1281,http://concepticon.clld.org/parameters/112,yaatnaʔtaʔ,turtle
+299-605,sana1281,http://concepticon.clld.org/parameters/112,paŋkalwok,turtle
+299-124,sana1281,http://concepticon.clld.org/parameters/1480,neŋyawʔakɬoho,body
+299-1411,sana1281,http://concepticon.clld.org/parameters/1480,eŋyempehek,body
+299-1411,sana1281,http://concepticon.clld.org/parameters/763,eŋyempehek,"skin, hide"
+299-441,sana1281,http://concepticon.clld.org/parameters/2259,eŋheepetek,flesh
+299-55,sana1281,http://concepticon.clld.org/parameters/1040,eŋwaʔ,hair (head)
+299-871,sana1281,http://concepticon.clld.org/parameters/678,aawaʔ-eŋaatoŋ,beard
+299-403,sana1281,http://concepticon.clld.org/parameters/189,aawaʔ eŋyempehek,body hair
+299-1050,sana1281,http://concepticon.clld.org/parameters/36,aawaʔ enteɬlaʔ,pubic hair
+299-1010,sana1281,http://concepticon.clld.org/parameters/576,paapaʔ,dandruff
+299-35,sana1281,http://concepticon.clld.org/parameters/576,aanek eŋwaʔ,dandruff
+299-314,sana1281,http://concepticon.clld.org/parameters/946,eema,blood
+299-1275,sana1281,http://concepticon.clld.org/parameters/525,eema ɬaŋkok,"vein, artery"
+299-616,sana1281,http://concepticon.clld.org/parameters/525,eema aamay ak,"vein, artery"
+299-1048,sana1281,http://concepticon.clld.org/parameters/1394,eŋeɬkapok,bone
+299-45,sana1281,http://concepticon.clld.org/parameters/801,eŋekhaok,rib
+299-494,sana1281,http://concepticon.clld.org/parameters/1393,aŋkepeetek,horn
+299-917,sana1281,http://concepticon.clld.org/parameters/1220,aypakyek,tail
+299-580,sana1281,http://concepticon.clld.org/parameters/1291,eŋkapok,back
+299-844,sana1281,http://concepticon.clld.org/parameters/805,eŋkapo-ɬkapok,spine
+299-1,sana1281,http://concepticon.clld.org/parameters/1256,empaʔtek,head
+299-366,sana1281,http://concepticon.clld.org/parameters/1604,akmaptooneŋ eŋak,"side of head, temple"
+299-1310,sana1281,http://concepticon.clld.org/parameters/1605,empaʔte ɬkapok,skull
+299-116,sana1281,http://concepticon.clld.org/parameters/1583,eŋhapamkok,brain
+299-688,sana1281,http://concepticon.clld.org/parameters/1560,neŋaaʔat,face
+299-911,sana1281,http://concepticon.clld.org/parameters/123,neŋyaapaʔ,forehead
+299-755,sana1281,http://concepticon.clld.org/parameters/798,yohoŋ eŋak,jaw
+299-162,sana1281,http://concepticon.clld.org/parameters/1730,eŋmaaɬempenek,cheek
+299-847,sana1281,http://concepticon.clld.org/parameters/1510,kooneŋ-eŋaatoŋ,chin
+299-1274,sana1281,http://concepticon.clld.org/parameters/1248,eŋaʔtek,eye
+299-426,sana1281,http://concepticon.clld.org/parameters/1173,entekwahan,eyebrow
+299-520,sana1281,http://concepticon.clld.org/parameters/17,eŋaʔte yempehek,eyelid
+299-1327,sana1281,http://concepticon.clld.org/parameters/1540,aawaʔ eŋaʔtek,eyelash
+299-356,sana1281,http://concepticon.clld.org/parameters/1655,neŋeletsapaykamˀ (eŋaʔtaʔaok),blink
+299-582,sana1281,http://concepticon.clld.org/parameters/1247,eŋhaykok,ear
+299-903,sana1281,http://concepticon.clld.org/parameters/18,ayempehek eŋhaykok,earlobe
+299-865,sana1281,http://concepticon.clld.org/parameters/32,anyeʔ eŋhaykok,earwax
+299-1320,sana1281,http://concepticon.clld.org/parameters/1221,eŋwaahek,nose
+299-1341,sana1281,http://concepticon.clld.org/parameters/1178,eŋwaaheʔok,nostril
+299-1307,sana1281,http://concepticon.clld.org/parameters/208,eŋyeɬwaalaʔ,mucus (nasal)
+299-1118,sana1281,http://concepticon.clld.org/parameters/674,eŋaatoŋ,mouth
+299-838,sana1281,http://concepticon.clld.org/parameters/73,amʔaok,beak
+299-431,sana1281,http://concepticon.clld.org/parameters/478,eŋaatoŋ ayempehek,lip
+299-1217,sana1281,http://concepticon.clld.org/parameters/1205,eŋaɬkok,tongue
+299-283,sana1281,http://concepticon.clld.org/parameters/1380,eŋmaʔaok,tooth
+299-451,sana1281,http://concepticon.clld.org/parameters/139,eŋmaʔawhook,gums
+299-283,sana1281,http://concepticon.clld.org/parameters/1049,eŋmaʔaok,molartooth
+299-247,sana1281,http://concepticon.clld.org/parameters/1049,eŋmaʔaok eŋmaaɬempenek,molartooth
+299-927,sana1281,http://concepticon.clld.org/parameters/1333,eŋyespok,neck
+299-1075,sana1281,http://concepticon.clld.org/parameters/1347,eŋaptek,nape of neck
+299-927,sana1281,http://concepticon.clld.org/parameters/1346,eŋyespok,throat
+299-1352,sana1281,http://concepticon.clld.org/parameters/1346,seŋyawanˀ eŋak,throat
+299-879,sana1281,http://concepticon.clld.org/parameters/1482,neŋlataane,shoulder
+299-957,sana1281,http://concepticon.clld.org/parameters/172,empettek,shoulderblade
+299-660,sana1281,http://concepticon.clld.org/parameters/1994,lamom eŋak,collarbone
+299-949,sana1281,http://concepticon.clld.org/parameters/1673,eŋektoŋ,arm
+299-221,sana1281,http://concepticon.clld.org/parameters/1886,koŋneŋmeʔ,armpit
+299-1052,sana1281,http://concepticon.clld.org/parameters/981,empeŋkeptek,elbow
+299-948,sana1281,http://concepticon.clld.org/parameters/799,alyeptetakɬaʔ eŋmek,wrist
+299-516,sana1281,http://concepticon.clld.org/parameters/1277,eŋmek,hand
+299-449,sana1281,http://concepticon.clld.org/parameters/1183,awaʔɬok eŋmek,palm of hand
+299-298,sana1281,http://concepticon.clld.org/parameters/1303,eŋephehek,finger
+299-139,sana1281,http://concepticon.clld.org/parameters/1781,eŋephehek akyeweyˀ,thumb
+299-780,sana1281,http://concepticon.clld.org/parameters/1258,akmopoyˀ eŋephehek,fingernail
+299-876,sana1281,http://concepticon.clld.org/parameters/72,apheok,claw
+299-37,sana1281,http://concepticon.clld.org/parameters/1297,eŋyok,leg
+299-37,sana1281,http://concepticon.clld.org/parameters/800,eŋyok,thigh
+299-1211,sana1281,http://concepticon.clld.org/parameters/498,neŋelpoonmakɬaʔ,calf of leg
+299-203,sana1281,http://concepticon.clld.org/parameters/1371,entapnek,knee
+299-671,sana1281,http://concepticon.clld.org/parameters/1301,eŋmenek,foot
+299-619,sana1281,http://concepticon.clld.org/parameters/803,yetsene eŋak,ankle
+299-574,sana1281,http://concepticon.clld.org/parameters/803,wahanayʔakɬaʔ eŋak,ankle
+299-1227,sana1281,http://concepticon.clld.org/parameters/980,empaahak,heel
+299-671,sana1281,http://concepticon.clld.org/parameters/318,eŋmenek,footprint
+299-482,sana1281,http://concepticon.clld.org/parameters/318,entamnek,footprint
+299-298,sana1281,http://concepticon.clld.org/parameters/1389,eŋephehek,toe
+299-575,sana1281,http://concepticon.clld.org/parameters/1257,aɬempenek,wing
+299-566,sana1281,http://concepticon.clld.org/parameters/1257,aɬempankok,wing
+299-455,sana1281,http://concepticon.clld.org/parameters/1201,aawaʔ,feather
+299-450,sana1281,http://concepticon.clld.org/parameters/1201,anaata ʔwaʔ,feather
+299-1137,sana1281,http://concepticon.clld.org/parameters/1592,eŋneenyek,chest
+299-622,sana1281,http://concepticon.clld.org/parameters/1402,neme eŋak,breast (of woman)
+299-997,sana1281,http://concepticon.clld.org/parameters/796,neme pwakhek,"nipple, teat"
+299-442,sana1281,http://concepticon.clld.org/parameters/154,neme,udder
+299-238,sana1281,http://concepticon.clld.org/parameters/1838,enseskok,navel
+299-643,sana1281,http://concepticon.clld.org/parameters/1838,entaɬnaʔ,navel
+299-647,sana1281,http://concepticon.clld.org/parameters/1223,yepheem eŋak,heart
+299-984,sana1281,http://concepticon.clld.org/parameters/688,kohox eŋak,lung
+299-481,sana1281,http://concepticon.clld.org/parameters/1224,eŋhekhek,liver
+299-1263,sana1281,http://concepticon.clld.org/parameters/489,alyaʔyeem eŋak,kidney
+299-333,sana1281,http://concepticon.clld.org/parameters/489,maaneŋkapaek eŋak,kidney
+299-545,sana1281,http://concepticon.clld.org/parameters/819,eŋwokmoʔ,stomach
+299-990,sana1281,http://concepticon.clld.org/parameters/1991,eŋyeʔ,"intestines, guts"
+299-1196,sana1281,http://concepticon.clld.org/parameters/1991,eŋye ɬaŋkok,"intestines, guts"
+299-475,sana1281,http://concepticon.clld.org/parameters/1681,nenɬet,waist
+299-213,sana1281,http://concepticon.clld.org/parameters/1745,eŋyowhak,hip
+299-475,sana1281,http://concepticon.clld.org/parameters/1745,nenɬet,hip
+299-597,sana1281,http://concepticon.clld.org/parameters/834,entaʔlaʔ,buttocks
+299-1186,sana1281,http://concepticon.clld.org/parameters/804,sekaʔa-ɬaŋkok,womb
+299-745,sana1281,http://concepticon.clld.org/parameters/797,empopok,testicle
+299-1240,sana1281,http://concepticon.clld.org/parameters/1222,enteɬlaʔ,penis
+299-742,sana1281,http://concepticon.clld.org/parameters/1407,neŋennamaam,"breathe, breath"
+299-988,sana1281,http://concepticon.clld.org/parameters/1028,neŋmayheeykamˀ,"yawn, gape"
+299-583,sana1281,http://concepticon.clld.org/parameters/162,seŋaapahaskama,hiccough
+299-163,sana1281,http://concepticon.clld.org/parameters/879,neŋapnakɬeeykamˀ,cough
+299-1422,sana1281,http://concepticon.clld.org/parameters/1621,neŋatheem,sneeze
+299-508,sana1281,http://concepticon.clld.org/parameters/126,akpallaekɬaʔ eŋyemes,perspire
+299-817,sana1281,http://concepticon.clld.org/parameters/1440,neŋelpatseeykentaʔ,spit
+299-1059,sana1281,http://concepticon.clld.org/parameters/1278,neŋyekɬama,vomit
+299-456,sana1281,http://concepticon.clld.org/parameters/1403,nentakɬama,bite
+299-1096,sana1281,http://concepticon.clld.org/parameters/1403,neŋeleŋwayˀ,bite
+299-1299,sana1281,http://concepticon.clld.org/parameters/319,neŋelyaʔmelaykamˀ,lick
+299-1064,sana1281,http://concepticon.clld.org/parameters/319,neŋeltekhapma,lick
+299-1305,sana1281,http://concepticon.clld.org/parameters/268,nensepkenkeskama,dribble
+299-316,sana1281,http://concepticon.clld.org/parameters/1585,nenteyanma,sleep
+299-1045,sana1281,http://concepticon.clld.org/parameters/1983,neŋyeɬwaanaʔteem,snore
+299-971,sana1281,http://concepticon.clld.org/parameters/1920,seŋwanmeeskama,dream
+299-634,sana1281,http://concepticon.clld.org/parameters/1602,nenɬaatekhayˀ,wake up
+299-1314,sana1281,http://concepticon.clld.org/parameters/592,neŋyeswoom,urinate
+299-357,sana1281,http://concepticon.clld.org/parameters/592,neŋyoosekhayˀ,urinate
+299-689,sana1281,http://concepticon.clld.org/parameters/676,neŋyaʔanma,defecate
+299-546,sana1281,http://concepticon.clld.org/parameters/676,neŋyaʔankahayˀ,defecate
+299-990,sana1281,http://concepticon.clld.org/parameters/676,eŋyeʔ,defecate
+299-276,sana1281,http://concepticon.clld.org/parameters/676,yaʔa,defecate
+299-448,sana1281,http://concepticon.clld.org/parameters/1785,neŋmensom,have sexual intercourse
+299-388,sana1281,http://concepticon.clld.org/parameters/1785,neŋyetnamoo ɬamooˀ,have sexual intercourse
+299-1002,sana1281,http://concepticon.clld.org/parameters/52,neŋelpeɬyennamaam,shiver
+299-799,sana1281,http://concepticon.clld.org/parameters/52,neŋelyawhayˀ,shiver
+299-1229,sana1281,http://concepticon.clld.org/parameters/52,nempeɬyennamaam,shiver
+299-746,sana1281,http://concepticon.clld.org/parameters/138,neŋyaʔpaskama yeŋmen,bathe
+299-384,sana1281,http://concepticon.clld.org/parameters/1152,nentemeskeskama ŋlawsooʔ,beget (of father)
+299-146,sana1281,http://concepticon.clld.org/parameters/1090,nenteeyamˀ,born (to be)
+299-1060,sana1281,http://concepticon.clld.org/parameters/1090,nempalleyaamˀ,born (to be)
+299-784,sana1281,http://concepticon.clld.org/parameters/1123,eŋlawsooʔ,pregnant
+299-394,sana1281,http://concepticon.clld.org/parameters/1087,nentemeeme eŋlawsooʔ,conceive
+299-974,sana1281,http://concepticon.clld.org/parameters/1422,neŋma,"live, living, life"
+299-170,sana1281,http://concepticon.clld.org/parameters/1422,nenteyaaskamˀ,"live, living, life"
+299-321,sana1281,http://concepticon.clld.org/parameters/1422,neŋeleeywaam,"live, living, life"
+299-839,sana1281,http://concepticon.clld.org/parameters/1422,eŋhaɬnaŋkooʔ,"live, living, life"
+299-588,sana1281,http://concepticon.clld.org/parameters/1494,eŋhaapak,"die, dead"
+299-769,sana1281,http://concepticon.clld.org/parameters/1494,neŋetsepma,"die, dead"
+299-1252,sana1281,http://concepticon.clld.org/parameters/1494,neŋmatnaam,"die, dead"
+299-1062,sana1281,http://concepticon.clld.org/parameters/1904,seŋaʔheem yeŋmen,drowned
+299-638,sana1281,http://concepticon.clld.org/parameters/1417,neŋaʔheem,kill
+299-1257,sana1281,http://concepticon.clld.org/parameters/1417,neŋelnapma,kill
+299-6,sana1281,http://concepticon.clld.org/parameters/1417,neŋyamoŋkeɬma,kill
+299-588,sana1281,http://concepticon.clld.org/parameters/767,eŋhaapak,corpse
+299-1303,sana1281,http://concepticon.clld.org/parameters/1719,neŋaatoonma,bury (the dead)
+299-604,sana1281,http://concepticon.clld.org/parameters/1773,takhaaɬop,"grave, tomb"
+299-1400,sana1281,http://concepticon.clld.org/parameters/785,neŋyemnaʔteem,"strong, mighty, powerful"
+299-222,sana1281,http://concepticon.clld.org/parameters/785,taex eŋyempehek,"strong, mighty, powerful"
+299-1279,sana1281,http://concepticon.clld.org/parameters/1601,neŋelaʔtaykamˀ,weak
+299-908,sana1281,http://concepticon.clld.org/parameters/1601,mepke eŋyempehek,weak
+299-907,sana1281,http://concepticon.clld.org/parameters/1364,eŋhaɬnaŋkok,"well, health"
+299-1365,sana1281,http://concepticon.clld.org/parameters/1364,akyemnaʔteem eŋneenyek,"well, health"
+299-1103,sana1281,http://concepticon.clld.org/parameters/1364,taex eŋneenyek,"well, health"
+299-206,sana1281,http://concepticon.clld.org/parameters/1847,neŋmaskeem,"sick, sickness"
+299-845,sana1281,http://concepticon.clld.org/parameters/1847,neŋmaskeema ʔtoʔ,"sick, sickness"
+299-787,sana1281,http://concepticon.clld.org/parameters/1534,akmakhetmoo eŋyempehek,fever
+299-979,sana1281,http://concepticon.clld.org/parameters/102,naapnakɬama,cold (catarrh)
+299-632,sana1281,http://concepticon.clld.org/parameters/102,naapnakɬama ʔtoʔ,cold (catarrh)
+299-457,sana1281,http://concepticon.clld.org/parameters/1109,neŋyemseem,"wound, sore"
+299-150,sana1281,http://concepticon.clld.org/parameters/1148,akpayheem,bruise
+299-1025,sana1281,http://concepticon.clld.org/parameters/1903,akyepheem,swelling
+299-299,sana1281,http://concepticon.clld.org/parameters/148,akmawsayˀ,itch
+299-1104,sana1281,http://concepticon.clld.org/parameters/148,altakɬama eŋyempehek,itch
+299-189,sana1281,http://concepticon.clld.org/parameters/1584,seŋelteepahaneyˀ,blister
+299-1159,sana1281,http://concepticon.clld.org/parameters/1584,aknaykaok ayeŋmenek,blister
+299-663,sana1281,http://concepticon.clld.org/parameters/793,paskapma,boil (noun)
+299-554,sana1281,http://concepticon.clld.org/parameters/1808,kaawen,pus
+299-1034,sana1281,http://concepticon.clld.org/parameters/497,neŋyemseem nanooʔ,scar
+299-428,sana1281,http://concepticon.clld.org/parameters/499,nentaʔmelsaekɬaʔ,"cure, heal"
+299-1173,sana1281,http://concepticon.clld.org/parameters/499,nentaʔmelkeskeyaamˀ,"cure, heal"
+299-174,sana1281,http://concepticon.clld.org/parameters/597,paanaʔtee-ŋyaap,physician
+299-994,sana1281,http://concepticon.clld.org/parameters/597,paanaʔtee-ŋkenˀ,physician
+299-1253,sana1281,http://concepticon.clld.org/parameters/1372,paanaʔteem,"medicine, drug"
+299-1253,sana1281,http://concepticon.clld.org/parameters/655,paanaʔteem,poison
+299-345,sana1281,http://concepticon.clld.org/parameters/1757,neŋyampayˀ,"tired, weary"
+299-572,sana1281,http://concepticon.clld.org/parameters/1757,neŋyenmaykamˀ,"tired, weary"
+299-246,sana1281,http://concepticon.clld.org/parameters/168,neŋnaekɬaʔ,rest
+299-1407,sana1281,http://concepticon.clld.org/parameters/1564,neŋhaaɬammaɬkaʔ,lazy
+299-830,sana1281,http://concepticon.clld.org/parameters/1125,ke pwaʔ,bald
+299-120,sana1281,http://concepticon.clld.org/parameters/320,ke tapnaok,lame
+299-589,sana1281,http://concepticon.clld.org/parameters/320,neŋelyelkammaɬkaʔ,lame
+299-1379,sana1281,http://concepticon.clld.org/parameters/996,ka haykaʔaok,deaf
+299-717,sana1281,http://concepticon.clld.org/parameters/996,moŋleŋayˀ aɬmaʔ,deaf
+299-1241,sana1281,http://concepticon.clld.org/parameters/1666,kamowaanaʔayˀ,mute
+299-498,sana1281,http://concepticon.clld.org/parameters/1653,kaʔtaʔaok,blind
+299-529,sana1281,http://concepticon.clld.org/parameters/1463,anmen aatoʔ,intoxicated
+299-866,sana1281,http://concepticon.clld.org/parameters/1463,aatoʔ,intoxicated
+299-468,sana1281,http://concepticon.clld.org/parameters/1463,seŋwayˀ,intoxicated
+299-1041,sana1281,http://concepticon.clld.org/parameters/590,neŋaʔaɬneeykamˀ,"naked, bare"
+299-435,sana1281,http://concepticon.clld.org/parameters/1336,nentom,eat
+299-1238,sana1281,http://concepticon.clld.org/parameters/1336,nentoykekɬaʔ,eat
+299-435,sana1281,http://concepticon.clld.org/parameters/256,nentom,food
+299-1204,sana1281,http://concepticon.clld.org/parameters/269,aŋmakheetek,cooked
+299-710,sana1281,http://concepticon.clld.org/parameters/269,akmakhetma,cooked
+299-56,sana1281,http://concepticon.clld.org/parameters/269,mokhanma,cooked
+299-673,sana1281,http://concepticon.clld.org/parameters/1959,aŋwetek,raw
+299-1204,sana1281,http://concepticon.clld.org/parameters/178,aŋmakheetek,ripe
+299-536,sana1281,http://concepticon.clld.org/parameters/178,aatay,ripe
+299-710,sana1281,http://concepticon.clld.org/parameters/178,akmakhetma,ripe
+299-673,sana1281,http://concepticon.clld.org/parameters/1958,aŋwetek,"green, unripe"
+299-654,sana1281,http://concepticon.clld.org/parameters/1958,aŋlapamkooʔ,"green, unripe"
+299-186,sana1281,http://concepticon.clld.org/parameters/1958,aknaʔmaateeykaok,"green, unripe"
+299-1292,sana1281,http://concepticon.clld.org/parameters/1728,aktahapma,rotten
+299-1188,sana1281,http://concepticon.clld.org/parameters/1728,altektahapma,rotten
+299-26,sana1281,http://concepticon.clld.org/parameters/1728,alkoŋnammaɬkaʔ,rotten
+299-307,sana1281,http://concepticon.clld.org/parameters/1401,neŋyaam,drink
+299-52,sana1281,http://concepticon.clld.org/parameters/1533,maek,hunger
+299-416,sana1281,http://concepticon.clld.org/parameters/1533,neŋmaʔa,hunger
+299-1164,sana1281,http://concepticon.clld.org/parameters/1533,maek/ neŋmaʔa seŋaʔheem,hunger
+299-1184,sana1281,http://concepticon.clld.org/parameters/199,maek aŋkooʔ,famine
+299-315,sana1281,http://concepticon.clld.org/parameters/848,neŋyamayˀ,thirst
+299-1070,sana1281,http://concepticon.clld.org/parameters/1421,nempetsesma,suck
+299-169,sana1281,http://concepticon.clld.org/parameters/321,neŋensaʔaykamˀ,chew
+299-1108,sana1281,http://concepticon.clld.org/parameters/897,neŋnaʔsepma,swallow
+299-867,sana1281,http://concepticon.clld.org/parameters/897,neŋepwaameeykaok,swallow
+299-303,sana1281,http://concepticon.clld.org/parameters/129,neŋyaʔhapma apyespok (eŋmook),choke
+299-849,sana1281,http://concepticon.clld.org/parameters/1100,neŋhanma,cook
+299-1215,sana1281,http://concepticon.clld.org/parameters/792,aneŋkayaamˀ,boil (vb)
+299-668,sana1281,http://concepticon.clld.org/parameters/792,alyakɬaayamˀ,boil (vb)
+299-783,sana1281,http://concepticon.clld.org/parameters/2146,neŋelwatnama,"roast, fry"
+299-471,sana1281,http://concepticon.clld.org/parameters/2146,neŋyeɬnaayamˀ,"roast, fry"
+299-1316,sana1281,http://concepticon.clld.org/parameters/183,neŋelaaneyˀ pan,bake
+299-1000,sana1281,http://concepticon.clld.org/parameters/183,neŋelaaneyˀ apmopses,bake
+299-1351,sana1281,http://concepticon.clld.org/parameters/1143,pan apɬaŋkok,oven
+299-1157,sana1281,http://concepticon.clld.org/parameters/1143,namaaɬek,oven
+299-233,sana1281,http://concepticon.clld.org/parameters/1462,wayka,"pot, cooking vessel"
+299-237,sana1281,http://concepticon.clld.org/parameters/1462,yaateŋwayka,"pot, cooking vessel"
+299-875,sana1281,http://concepticon.clld.org/parameters/854,paawa-pkaatek,kettle
+299-630,sana1281,http://concepticon.clld.org/parameters/854,meeɬenkeskama-yeŋmen,kettle
+299-208,sana1281,http://concepticon.clld.org/parameters/31,wayka (apkeɬyawayˀ),pan
+299-1339,sana1281,http://concepticon.clld.org/parameters/31,payla,pan
+299-1120,sana1281,http://concepticon.clld.org/parameters/481,poko,dish
+299-349,sana1281,http://concepticon.clld.org/parameters/481,aʔsok-payheem,dish
+299-1120,sana1281,http://concepticon.clld.org/parameters/480,poko,plate
+299-429,sana1281,http://concepticon.clld.org/parameters/480,poko payheem,plate
+299-1120,sana1281,http://concepticon.clld.org/parameters/1530,poko,bowl
+299-1331,sana1281,http://concepticon.clld.org/parameters/1530,poko pyeweyˀ,bowl
+299-733,sana1281,http://concepticon.clld.org/parameters/270,yaateŋwaʔaɬwa,"pitcher, jug"
+299-1222,sana1281,http://concepticon.clld.org/parameters/270,waʔaɬwa,"pitcher, jug"
+299-95,sana1281,http://concepticon.clld.org/parameters/476,mahaykok,"cup, drinking vessel"
+299-582,sana1281,http://concepticon.clld.org/parameters/476,eŋhaykok,"cup, drinking vessel"
+299-1120,sana1281,http://concepticon.clld.org/parameters/271,poko,saucer
+299-953,sana1281,http://concepticon.clld.org/parameters/271,poko pketketsek,saucer
+299-268,sana1281,http://concepticon.clld.org/parameters/1378,[kučaara],spoon
+299-945,sana1281,http://concepticon.clld.org/parameters/1378,yekwoo-ptom,spoon
+299-740,sana1281,http://concepticon.clld.org/parameters/1352,sowow,knife (2)
+299-1219,sana1281,http://concepticon.clld.org/parameters/1352,sawow,knife (2)
+299-1114,sana1281,http://concepticon.clld.org/parameters/1302,eŋepheok,fork (2)
+299-1346,sana1281,http://concepticon.clld.org/parameters/272,keltaaɬkeskama,tongs
+299-1238,sana1281,http://concepticon.clld.org/parameters/1526,nentoykekɬaʔ,meal (a)
+299-259,sana1281,http://concepticon.clld.org/parameters/275,neŋleklama yempehek,peel
+299-183,sana1281,http://concepticon.clld.org/parameters/86,neŋeɬlasseeykamˀ,"sieve, strain"
+299-1360,sana1281,http://concepticon.clld.org/parameters/1767,neŋelkaktama,scrape
+299-1022,sana1281,http://concepticon.clld.org/parameters/1767,neŋellakhaam,scrape
+299-118,sana1281,http://concepticon.clld.org/parameters/2017,nempaaɬaʔaksaekɬaʔ,"stir, mix"
+299-147,sana1281,http://concepticon.clld.org/parameters/2017,neŋeŋkahaykekɬaʔ,"stir, mix"
+299-696,sana1281,http://concepticon.clld.org/parameters/2017,neŋyepetsaekɬaʔ,"stir, mix"
+299-941,sana1281,http://concepticon.clld.org/parameters/1368,[pan],bread
+299-302,sana1281,http://concepticon.clld.org/parameters/273,seppoyoompak,dough
+299-541,sana1281,http://concepticon.clld.org/parameters/274,neŋelyaʔhapma,knead
+299-302,sana1281,http://concepticon.clld.org/parameters/1594,seppoyoompak,"meal, flour"
+299-1049,sana1281,http://concepticon.clld.org/parameters/1033,nentepelkaekɬaʔ,"crush, grind"
+299-1436,sana1281,http://concepticon.clld.org/parameters/636,moohaapaʔwaʔ,mill
+299-1435,sana1281,http://concepticon.clld.org/parameters/224,aʔaɬwa,mortar (2)
+299-1395,sana1281,http://concepticon.clld.org/parameters/225,yenaanaʔ,pestle
+299-369,sana1281,http://concepticon.clld.org/parameters/634,aapetek,meat
+299-1182,sana1281,http://concepticon.clld.org/parameters/1874,ayeŋmenek,sausage
+299-1409,sana1281,http://concepticon.clld.org/parameters/1547,yeŋmenaata,"soup, broth"
+299-1376,sana1281,http://concepticon.clld.org/parameters/924,aʔsok-aawaʔ,vegetables
+299-336,sana1281,http://concepticon.clld.org/parameters/832,kelayke,bean
+299-863,sana1281,http://concepticon.clld.org/parameters/832,kelayke aktek,bean
+299-51,sana1281,http://concepticon.clld.org/parameters/593,yaampeheyaʔ,potato
+299-547,sana1281,http://concepticon.clld.org/parameters/1507,akyeɬna,fruit
+299-33,sana1281,http://concepticon.clld.org/parameters/1507,akyeɬnama,fruit
+299-11,sana1281,http://concepticon.clld.org/parameters/1966,awathet,bunch
+299-467,sana1281,http://concepticon.clld.org/parameters/920,[uwa],grape
+299-1106,sana1281,http://concepticon.clld.org/parameters/191,makwa,nut
+299-1151,sana1281,http://concepticon.clld.org/parameters/1484,peɬmok,oil
+299-1158,sana1281,http://concepticon.clld.org/parameters/1484,makwa pyeŋmenek,oil
+299-1097,sana1281,http://concepticon.clld.org/parameters/1484,[aseeyte],oil
+299-1151,sana1281,http://concepticon.clld.org/parameters/323,peɬmok,"grease, fat"
+299-752,sana1281,http://concepticon.clld.org/parameters/323,waetke kpeɬmok,"grease, fat"
+299-1325,sana1281,http://concepticon.clld.org/parameters/323,[kraasa],"grease, fat"
+299-1361,sana1281,http://concepticon.clld.org/parameters/1274,yaasek,salt
+299-108,sana1281,http://concepticon.clld.org/parameters/1385,naatekhet aanek,pepper
+299-459,sana1281,http://concepticon.clld.org/parameters/1385,yamnaatekhet aanek,pepper
+299-453,sana1281,http://concepticon.clld.org/parameters/919,naatekhet,chili pepper
+299-445,sana1281,http://concepticon.clld.org/parameters/919,yamnaatekhet,chili pepper
+299-439,sana1281,http://concepticon.clld.org/parameters/942,yawhan,honey
+299-607,sana1281,http://concepticon.clld.org/parameters/942,yaamyawheeneʔ,honey
+299-715,sana1281,http://concepticon.clld.org/parameters/862,[asuuka],sugar
+299-812,sana1281,http://concepticon.clld.org/parameters/862,yaampaʔat-yeŋmenek,sugar
+299-31,sana1281,http://concepticon.clld.org/parameters/635,neme pyeŋmenek,milk (noun)
+299-1169,sana1281,http://concepticon.clld.org/parameters/635,waetke nema ak,milk (noun)
+299-965,sana1281,http://concepticon.clld.org/parameters/93,neŋelyetsamoŋkeskama waetke nema ak,milk (vb)
+299-771,sana1281,http://concepticon.clld.org/parameters/1569,[keeso],cheese
+299-1194,sana1281,http://concepticon.clld.org/parameters/1569,waetke nema ak mokyemnaʔteeskama,cheese
+299-1151,sana1281,http://concepticon.clld.org/parameters/1245,peɬmok,butter
+299-881,sana1281,http://concepticon.clld.org/parameters/731,neŋyaamoo,"beverage, drink"
+299-1051,sana1281,http://concepticon.clld.org/parameters/731,neŋyaamoo kmaases,"beverage, drink"
+299-256,sana1281,http://concepticon.clld.org/parameters/731,asuuka,"beverage, drink"
+299-492,sana1281,http://concepticon.clld.org/parameters/941,yaamyawheene pyeŋmenek mokyemyeskama,mead
+299-417,sana1281,http://concepticon.clld.org/parameters/1524,[uwa] yeŋmenek,wine
+299-551,sana1281,http://concepticon.clld.org/parameters/1524,[wiino],wine
+299-145,sana1281,http://concepticon.clld.org/parameters/1639,[serweesa],beer
+299-62,sana1281,http://concepticon.clld.org/parameters/404,anmen,fermented drink
+299-864,sana1281,http://concepticon.clld.org/parameters/744,appok,egg
+299-891,sana1281,http://concepticon.clld.org/parameters/1556,aysekse kyaatektama (appok),egg yolk
+299-931,sana1281,http://concepticon.clld.org/parameters/158,nentaɬnaekɬaʔ,put on (clothes)
+299-41,sana1281,http://concepticon.clld.org/parameters/158,neŋyapmaekɬaʔ,put on (clothes)
+299-134,sana1281,http://concepticon.clld.org/parameters/1895,nentaɬnama,"clothing, clothes"
+299-466,sana1281,http://concepticon.clld.org/parameters/1895,apaawa,"clothing, clothes"
+299-371,sana1281,http://concepticon.clld.org/parameters/881,kellaaneyˀ-nentaɬnama,tailor
+299-466,sana1281,http://concepticon.clld.org/parameters/1616,apaawa,cloth
+299-92,sana1281,http://concepticon.clld.org/parameters/1616,apaawa-nepwaʔa,cloth
+299-248,sana1281,http://concepticon.clld.org/parameters/964,nepkeeseʔ-pwaʔ,wool
+299-620,sana1281,http://concepticon.clld.org/parameters/964,[laana],wool
+299-886,sana1281,http://concepticon.clld.org/parameters/1850,yaateypeepaʔ,cotton
+299-295,sana1281,http://concepticon.clld.org/parameters/1850,yaateypeepaʔ akmok,cotton
+299-615,sana1281,http://concepticon.clld.org/parameters/580,ayempehek,fur
+299-241,sana1281,http://concepticon.clld.org/parameters/629,aʔsoyempehek,leather
+299-1246,sana1281,http://concepticon.clld.org/parameters/121,neŋneɬpoŋaam,spin
+299-846,sana1281,http://concepticon.clld.org/parameters/277,keeseʔ-pwa-yaamet,spindle
+299-1321,sana1281,http://concepticon.clld.org/parameters/133,neŋootma,weave
+299-724,sana1281,http://concepticon.clld.org/parameters/1787,neŋyaamasma-neeten,loom
+299-901,sana1281,http://concepticon.clld.org/parameters/1457,neŋelyetnaʔmeeykamˀ,sew
+299-187,sana1281,http://concepticon.clld.org/parameters/1457,neŋyetnaʔteem,sew
+299-165,sana1281,http://concepticon.clld.org/parameters/1382,ketaamaʔ,needle
+299-1267,sana1281,http://concepticon.clld.org/parameters/278,alyaŋkaɬkatmoo waetke yempehek,awl
+299-602,sana1281,http://concepticon.clld.org/parameters/1161,taamaʔ,thread
+299-68,sana1281,http://concepticon.clld.org/parameters/1161,yamyaateypeepaʔ,thread
+299-797,sana1281,http://concepticon.clld.org/parameters/157,neŋyeɬwaaseeskama,dye
+299-496,sana1281,http://concepticon.clld.org/parameters/326,peyaamˀ-paawa,cloak
+299-963,sana1281,http://concepticon.clld.org/parameters/327,(apaawa) payheeykamˀ,poncho
+299-265,sana1281,http://concepticon.clld.org/parameters/327,[pončo],poncho
+299-134,sana1281,http://concepticon.clld.org/parameters/474,nentaɬnama,woman's dress
+299-75,sana1281,http://concepticon.clld.org/parameters/474,[westido],woman's dress
+299-134,sana1281,http://concepticon.clld.org/parameters/603,nentaɬnama,coat
+299-531,sana1281,http://concepticon.clld.org/parameters/603,[saako],coat
+299-134,sana1281,http://concepticon.clld.org/parameters/1622,nentaɬnama,shirt
+299-411,sana1281,http://concepticon.clld.org/parameters/1622,[kamisa],shirt
+299-927,sana1281,http://concepticon.clld.org/parameters/2012,eŋyespok,collar
+299-134,sana1281,http://concepticon.clld.org/parameters/1600,nentaɬnama,skirt
+299-1207,sana1281,http://concepticon.clld.org/parameters/1600,polyeera,skirt
+299-1356,sana1281,http://concepticon.clld.org/parameters/1600,neŋyapmaam,skirt
+299-1127,sana1281,http://concepticon.clld.org/parameters/809,[kaanson],trousers
+299-190,sana1281,http://concepticon.clld.org/parameters/809,latkeskama-eŋyaayaʔaok,trousers
+299-1371,sana1281,http://concepticon.clld.org/parameters/329,meelya,"stocking, sock"
+299-815,sana1281,http://concepticon.clld.org/parameters/1381,teyaypehek,shoe
+299-815,sana1281,http://concepticon.clld.org/parameters/585,teyaypehek,boot
+299-106,sana1281,http://concepticon.clld.org/parameters/585,teyaypeʔok alyemtaɬnama,boot
+299-351,sana1281,http://concepticon.clld.org/parameters/585,[wootas],boot
+299-897,sana1281,http://concepticon.clld.org/parameters/875,kellaaneyˀoo-nteyaypeʔok,"shoemaker, cobbler"
+299-392,sana1281,http://concepticon.clld.org/parameters/2130,nempakanma,"hat, cap"
+299-1291,sana1281,http://concepticon.clld.org/parameters/2130,aaɬaʔwaʔ,"hat, cap"
+299-645,sana1281,http://concepticon.clld.org/parameters/772,[sento],"belt, girdle"
+299-1414,sana1281,http://concepticon.clld.org/parameters/772,teteem-nenɬet,"belt, girdle"
+299-516,sana1281,http://concepticon.clld.org/parameters/867,eŋmek,glove
+299-593,sana1281,http://concepticon.clld.org/parameters/1851,naʔhaapa,pocket
+299-633,sana1281,http://concepticon.clld.org/parameters/757,yaamomaatek,button
+299-273,sana1281,http://concepticon.clld.org/parameters/64,yaamsoʔopketaamaʔ,pin
+299-1168,sana1281,http://concepticon.clld.org/parameters/917,kookes,"ornament, adornment"
+299-470,sana1281,http://concepticon.clld.org/parameters/1374,[aanilyo],ring (for finger)
+299-193,sana1281,http://concepticon.clld.org/parameters/1374,latkeskama-eŋephehek,ring (for finger)
+299-438,sana1281,http://concepticon.clld.org/parameters/1754,lamom,bracelet
+299-516,sana1281,http://concepticon.clld.org/parameters/1754,eŋmek,bracelet
+299-438,sana1281,http://concepticon.clld.org/parameters/1961,lamom,necklace
+299-927,sana1281,http://concepticon.clld.org/parameters/1961,eŋyespok,necklace
+299-438,sana1281,http://concepticon.clld.org/parameters/1860,lamom,bead
+299-858,sana1281,http://concepticon.clld.org/parameters/770,latkeskama-eŋhaykok,earring
+299-1040,sana1281,http://concepticon.clld.org/parameters/770,naamosay,earring
+299-1183,sana1281,http://concepticon.clld.org/parameters/330,teteeʔ-empaʔtek,"headband, headdress"
+299-1174,sana1281,http://concepticon.clld.org/parameters/68,nentaaɬayˀ,tattoo
+299-732,sana1281,http://concepticon.clld.org/parameters/68,nentaaɬamaawoʔ,tattoo
+299-1154,sana1281,http://concepticon.clld.org/parameters/332,apaawa phaapak,"handkerchief, rag"
+299-215,sana1281,http://concepticon.clld.org/parameters/332,[panyeelo],"handkerchief, rag"
+299-679,sana1281,http://concepticon.clld.org/parameters/1021,[tawalya],towel
+299-1304,sana1281,http://concepticon.clld.org/parameters/1475,waetke-eŋkepeetek,comb
+299-703,sana1281,http://concepticon.clld.org/parameters/1475,peetek,comb
+299-255,sana1281,http://concepticon.clld.org/parameters/1821,[sepelyo],brush
+299-121,sana1281,http://concepticon.clld.org/parameters/333,nempeɬteteem (eŋwaʔ),braid
+299-395,sana1281,http://concepticon.clld.org/parameters/333,nempeɬwaɬnama,braid
+299-938,sana1281,http://concepticon.clld.org/parameters/151,[nawaaxa],razor
+299-987,sana1281,http://concepticon.clld.org/parameters/1926,alwayaamˀ,ointment
+299-665,sana1281,http://concepticon.clld.org/parameters/788,kelteɬneeykaok,soap
+299-341,sana1281,http://concepticon.clld.org/parameters/788,yaʔmopoyˀ,soap
+299-422,sana1281,http://concepticon.clld.org/parameters/1171,laaneyʔo-ntaaɬamaawoʔ,mirror
+299-974,sana1281,http://concepticon.clld.org/parameters/1099,neŋma,"dwell, live"
+299-848,sana1281,http://concepticon.clld.org/parameters/1252,teŋma,house
+299-667,sana1281,http://concepticon.clld.org/parameters/1252,paʔat,house
+299-788,sana1281,http://concepticon.clld.org/parameters/1678,haameɬ,hut
+299-1234,sana1281,http://concepticon.clld.org/parameters/1316,[kaarpo],tent
+299-1329,sana1281,http://concepticon.clld.org/parameters/736,akyeweyˀ aɬmaʔ,"yard, court"
+299-767,sana1281,http://concepticon.clld.org/parameters/334,neŋhanmakɬa nentom,cookhouse
+299-592,sana1281,http://concepticon.clld.org/parameters/335,neŋaʔnaekɬeɬaʔ,meeting house
+299-1236,sana1281,http://concepticon.clld.org/parameters/1450,teŋma pwaʔɬok,room
+299-910,sana1281,http://concepticon.clld.org/parameters/1450,awaʔɬok,room
+299-329,sana1281,http://concepticon.clld.org/parameters/1567,aatoŋ,"door, gate"
+299-103,sana1281,http://concepticon.clld.org/parameters/80,[poste] ak aatoŋ,"doorpost, jamb"
+299-1197,sana1281,http://concepticon.clld.org/parameters/1596,katkeskama-ʔtoŋ,lock (noun)
+299-1369,sana1281,http://concepticon.clld.org/parameters/1596,[alyaawe],lock (noun)
+299-402,sana1281,http://concepticon.clld.org/parameters/1596,[kantaawo],lock (noun)
+299-1136,sana1281,http://concepticon.clld.org/parameters/1012,neŋatkeskamakɬaʔ ʔtoŋ,"latch, door-bolt"
+299-1369,sana1281,http://concepticon.clld.org/parameters/1472,[alyaawe],key
+299-1293,sana1281,http://concepticon.clld.org/parameters/1472,[alyaawe] yetkook,key
+299-690,sana1281,http://concepticon.clld.org/parameters/1375,aatoŋ-ˀyetkok,window
+299-360,sana1281,http://concepticon.clld.org/parameters/1632,naaɬpop,floor
+299-923,sana1281,http://concepticon.clld.org/parameters/933,teŋma pwahak,wall
+299-156,sana1281,http://concepticon.clld.org/parameters/185,neŋelwatnamakɬa taaɬa,fireplace
+299-556,sana1281,http://concepticon.clld.org/parameters/859,hanmakɬa-taaɬa,stove
+299-100,sana1281,http://concepticon.clld.org/parameters/1305,akpaʔanmakɬaʔ-eeten,chimney
+299-1287,sana1281,http://concepticon.clld.org/parameters/1464,keltaammeeykaok,ladder
+299-460,sana1281,http://concepticon.clld.org/parameters/1663,yetnamakɬa-neeten,bed
+299-250,sana1281,http://concepticon.clld.org/parameters/1663,neŋyetnamakɬa-neeten,bed
+299-320,sana1281,http://concepticon.clld.org/parameters/1044,nenteyanmeeykaok,pillow
+299-288,sana1281,http://concepticon.clld.org/parameters/806,neŋaʔlammaɬkaʔ,blanket
+299-1218,sana1281,http://concepticon.clld.org/parameters/806,[manta],blanket
+299-29,sana1281,http://concepticon.clld.org/parameters/1476,nentahaneem,chair
+299-725,sana1281,http://concepticon.clld.org/parameters/1476,[silya],chair
+299-379,sana1281,http://concepticon.clld.org/parameters/1775,[meesa],table
+299-1129,sana1281,http://concepticon.clld.org/parameters/2131,kaaleywaskama,"lamp, torch"
+299-1388,sana1281,http://concepticon.clld.org/parameters/1273,[weelas],candle
+299-714,sana1281,http://concepticon.clld.org/parameters/1273,taaɬa-kpeɬmok,candle
+299-458,sana1281,http://concepticon.clld.org/parameters/745,[estante],shelf
+299-658,sana1281,http://concepticon.clld.org/parameters/745,asootaʔ,shelf
+299-1373,sana1281,http://concepticon.clld.org/parameters/205,akyamakɬa yeŋmen nentooskama,trough
+299-648,sana1281,http://concepticon.clld.org/parameters/769,teŋma neeten,roof
+299-680,sana1281,http://concepticon.clld.org/parameters/769,teŋma pkapok,roof
+299-667,sana1281,http://concepticon.clld.org/parameters/279,paʔat,thatch
+299-1125,sana1281,http://concepticon.clld.org/parameters/279,awʔaok,thatch
+299-1396,sana1281,http://concepticon.clld.org/parameters/280,teŋma pyetseksek,ridgepole
+299-659,sana1281,http://concepticon.clld.org/parameters/829,teŋma pekhaok,rafter
+299-835,sana1281,http://concepticon.clld.org/parameters/829,teŋma pekhaok atkeetesk,rafter
+299-659,sana1281,http://concepticon.clld.org/parameters/1132,teŋma pekhaok,beam
+299-657,sana1281,http://concepticon.clld.org/parameters/1132,pekha-lyeweyˀ,beam
+299-521,sana1281,http://concepticon.clld.org/parameters/281,[poste],"post, pole"
+299-1427,sana1281,http://concepticon.clld.org/parameters/281,meemoŋ,"post, pole"
+299-827,sana1281,http://concepticon.clld.org/parameters/281,maaset,"post, pole"
+299-1250,sana1281,http://concepticon.clld.org/parameters/1227,yaamet-nekhaʔ,board
+299-1366,sana1281,http://concepticon.clld.org/parameters/876,[arko],arch
+299-1262,sana1281,http://concepticon.clld.org/parameters/877,kellaaneyˀ-teŋma,mason
+299-244,sana1281,http://concepticon.clld.org/parameters/1006,yaatephaymakaʔaok,brick
+299-591,sana1281,http://concepticon.clld.org/parameters/1731,[semento],mortar
+299-999,sana1281,http://concepticon.clld.org/parameters/1731,yelpaʔ,mortar
+299-244,sana1281,http://concepticon.clld.org/parameters/901,yaatephaymakaʔaok,adobe
+299-38,sana1281,http://concepticon.clld.org/parameters/212,amyep,field (for cultivation)
+299-38,sana1281,http://concepticon.clld.org/parameters/586,amyep,garden
+299-896,sana1281,http://concepticon.clld.org/parameters/1541,neŋanma,"cultivate, till"
+299-1434,sana1281,http://concepticon.clld.org/parameters/1690,neŋhaɬtaam,fence
+299-753,sana1281,http://concepticon.clld.org/parameters/1690,moopeeyeen-yaamet,fence
+299-991,sana1281,http://concepticon.clld.org/parameters/2002,maaɬek,ditch
+299-1265,sana1281,http://concepticon.clld.org/parameters/1921,neŋelkakhaam,plow
+299-1355,sana1281,http://concepticon.clld.org/parameters/1794,aamay,furrow
+299-499,sana1281,http://concepticon.clld.org/parameters/1418,neŋmetaam,dig
+299-8,sana1281,http://concepticon.clld.org/parameters/1176,[paala],spade
+299-1230,sana1281,http://concepticon.clld.org/parameters/1176,menmeʔ,spade
+299-1008,sana1281,http://concepticon.clld.org/parameters/1901,[paala]-kpayheem,shovel
+299-1205,sana1281,http://concepticon.clld.org/parameters/284,aɬpehek,hoe
+299-1403,sana1281,http://concepticon.clld.org/parameters/284,yamtaawa,hoe
+299-1114,sana1281,http://concepticon.clld.org/parameters/337,eŋepheok,fork
+299-1114,sana1281,http://concepticon.clld.org/parameters/338,eŋepheok,rake
+299-1098,sana1281,http://concepticon.clld.org/parameters/338,mentamaykamˀ,rake
+299-896,sana1281,http://concepticon.clld.org/parameters/748,neŋanma,sow
+299-489,sana1281,http://concepticon.clld.org/parameters/748,neŋenaekɬaʔ (aktek),sow
+299-523,sana1281,http://concepticon.clld.org/parameters/714,aktek,seed
+299-1006,sana1281,http://concepticon.clld.org/parameters/190,neŋelmaam (akyeɬna),"mow, reap"
+299-561,sana1281,http://concepticon.clld.org/parameters/190,neŋnakɬama,"mow, reap"
+299-1349,sana1281,http://concepticon.clld.org/parameters/2132,sowoʔ-khaɬeem,"sickle, scythe"
+299-905,sana1281,http://concepticon.clld.org/parameters/285,neŋleklama aktek,thresh
+299-284,sana1281,http://concepticon.clld.org/parameters/285,nentekpoŋaam,thresh
+299-547,sana1281,http://concepticon.clld.org/parameters/611,akyeɬna,"crop, harvest"
+299-523,sana1281,http://concepticon.clld.org/parameters/605,aktek,"grain (barley, oats etc)"
+299-1067,sana1281,http://concepticon.clld.org/parameters/1077,sawaʔ-appok,wheat
+299-331,sana1281,http://concepticon.clld.org/parameters/506,seʔheʔ,"maize, corn"
+299-793,sana1281,http://concepticon.clld.org/parameters/506,latseʔheʔ,"maize, corn"
+299-191,sana1281,http://concepticon.clld.org/parameters/926,paʔat-aktek,rice
+299-940,sana1281,http://concepticon.clld.org/parameters/926,[aaros],rice
+299-1088,sana1281,http://concepticon.clld.org/parameters/606,manten,grass
+299-667,sana1281,http://concepticon.clld.org/parameters/606,paʔat,grass
+299-667,sana1281,http://concepticon.clld.org/parameters/342,paʔat,hay
+299-1081,sana1281,http://concepticon.clld.org/parameters/653,moyanma,plant (noun)
+299-825,sana1281,http://concepticon.clld.org/parameters/653,awhak,plant (noun)
+299-896,sana1281,http://concepticon.clld.org/parameters/1486,neŋanma,plant (vb)
+299-825,sana1281,http://concepticon.clld.org/parameters/670,awhak,root
+299-1340,sana1281,http://concepticon.clld.org/parameters/670,aykepmenek,root
+299-20,sana1281,http://concepticon.clld.org/parameters/1531,aktoŋ,branch
+299-674,sana1281,http://concepticon.clld.org/parameters/1531,aɬkapok,branch
+299-455,sana1281,http://concepticon.clld.org/parameters/628,aawaʔ,leaf
+299-184,sana1281,http://concepticon.clld.org/parameters/628,yamtaʔ aawaʔ,leaf
+299-126,sana1281,http://concepticon.clld.org/parameters/239,eɬnamok,flower
+299-1168,sana1281,http://concepticon.clld.org/parameters/239,kookes,flower
+299-1145,sana1281,http://concepticon.clld.org/parameters/906,yaamet,tree
+299-878,sana1281,http://concepticon.clld.org/parameters/906,yaamet awhak,tree
+299-374,sana1281,http://concepticon.clld.org/parameters/343,anamteem-yaamet,vine
+299-636,sana1281,http://concepticon.clld.org/parameters/974,heenaʔ,tobacco
+299-980,sana1281,http://concepticon.clld.org/parameters/1689,neŋaspoom,smoke (tobacco)
+299-1415,sana1281,http://concepticon.clld.org/parameters/1124,ɬoop,pipe
+299-825,sana1281,http://concepticon.clld.org/parameters/241,awhak,tree stump
+299-391,sana1281,http://concepticon.clld.org/parameters/241,mopheyeʔ,tree stump
+299-1170,sana1281,http://concepticon.clld.org/parameters/344,awhak (yaamet),tree trunk
+299-218,sana1281,http://concepticon.clld.org/parameters/409,yaamet allayheem,forked branch
+299-705,sana1281,http://concepticon.clld.org/parameters/409,ɬeyep,forked branch
+299-762,sana1281,http://concepticon.clld.org/parameters/1204,ayempehek (yaamet),bark
+299-142,sana1281,http://concepticon.clld.org/parameters/345,anyeʔ,sap
+299-862,sana1281,http://concepticon.clld.org/parameters/345,ayeywaʔaok,sap
+299-136,sana1281,http://concepticon.clld.org/parameters/1181,aaɬa,palm tree
+299-709,sana1281,http://concepticon.clld.org/parameters/1181,paʔaŋ,palm tree
+299-419,sana1281,http://concepticon.clld.org/parameters/1126,soolyaatektama,citrus fruit
+299-820,sana1281,http://concepticon.clld.org/parameters/868,paakkawa,banana tree
+299-1012,sana1281,http://concepticon.clld.org/parameters/868,wanaana,banana tree
+299-586,sana1281,http://concepticon.clld.org/parameters/159,peheyaʔ,sweet potato
+299-537,sana1281,http://concepticon.clld.org/parameters/925,seppo,"tapioca, manioc, cassava"
+299-1232,sana1281,http://concepticon.clld.org/parameters/411,semheeyaʔ,gourd
+299-722,sana1281,http://concepticon.clld.org/parameters/864,yaʔteepa,"pumpkin, squash"
+299-223,sana1281,http://concepticon.clld.org/parameters/1927,yaamaamok,bamboo
+299-832,sana1281,http://concepticon.clld.org/parameters/146,yaampaʔat walay yawhan,sugar cane
+299-1253,sana1281,http://concepticon.clld.org/parameters/348,paanaʔteem,fish poison (root)
+299-468,sana1281,http://concepticon.clld.org/parameters/348,seŋwayˀ,fish poison (root)
+299-869,sana1281,http://concepticon.clld.org/parameters/641,haapenenyeʔ,mushroom
+299-1301,sana1281,http://concepticon.clld.org/parameters/813,neŋelaaneyˀ,"do, make"
+299-1343,sana1281,http://concepticon.clld.org/parameters/813,nentemeem,"do, make"
+299-1200,sana1281,http://concepticon.clld.org/parameters/984,nentamhaykamˀ,work
+299-922,sana1281,http://concepticon.clld.org/parameters/2004,nentaʔheskama,bend
+299-365,sana1281,http://concepticon.clld.org/parameters/2004,neŋhaaɬeeskama,bend
+299-1095,sana1281,http://concepticon.clld.org/parameters/1470,nempathapaaskekɬaʔ,fold
+299-495,sana1281,http://concepticon.clld.org/parameters/1917,nenteteem,"tie, bind"
+299-919,sana1281,http://concepticon.clld.org/parameters/1917,nempeɬteteem,"tie, bind"
+299-512,sana1281,http://concepticon.clld.org/parameters/352,neŋleklama (taamaʔ),untie
+299-518,sana1281,http://concepticon.clld.org/parameters/1627,moonaayemˀ-aayeʔ,chain
+299-694,sana1281,http://concepticon.clld.org/parameters/1627,[kadeena],chain
+299-602,sana1281,http://concepticon.clld.org/parameters/1218,taamaʔ,"rope, cord"
+299-735,sana1281,http://concepticon.clld.org/parameters/1218,taama kyeweyˀ,"rope, cord"
+299-540,sana1281,http://concepticon.clld.org/parameters/1218,aɬaataʔaok,"rope, cord"
+299-309,sana1281,http://concepticon.clld.org/parameters/760,asomnek,knot (noun)
+299-284,sana1281,http://concepticon.clld.org/parameters/2133,nentekpoŋaam,"strike (hit, beat)"
+299-228,sana1281,http://concepticon.clld.org/parameters/354,neŋelyeetaʔpaykamˀ,pound with fist
+299-290,sana1281,http://concepticon.clld.org/parameters/354,nentekpoŋaam eŋmek,pound with fist
+299-361,sana1281,http://concepticon.clld.org/parameters/1432,neŋyemyekhaam,cut
+299-553,sana1281,http://concepticon.clld.org/parameters/355,neŋeŋkeem,cut down
+299-594,sana1281,http://concepticon.clld.org/parameters/355,neŋyaʔyenkeskama,cut down
+299-427,sana1281,http://concepticon.clld.org/parameters/155,nentepelkeem,"chop, hew"
+299-335,sana1281,http://concepticon.clld.org/parameters/1434,neŋelyepɬaʔɬeem,stab
+299-1284,sana1281,http://concepticon.clld.org/parameters/1434,neŋeltekɬekɬama,stab
+299-740,sana1281,http://concepticon.clld.org/parameters/1352,sowow,knife
+299-1219,sana1281,http://concepticon.clld.org/parameters/1352,sawow,knife
+299-1413,sana1281,http://concepticon.clld.org/parameters/356,sowow-aʔnet,"scissors, shears"
+299-814,sana1281,http://concepticon.clld.org/parameters/677,taawa,ax
+299-377,sana1281,http://concepticon.clld.org/parameters/680,neŋentaskama,break
+299-510,sana1281,http://concepticon.clld.org/parameters/680,nempaʔaɬkatma,break
+299-1428,sana1281,http://concepticon.clld.org/parameters/588,ayenteem,broken
+299-61,sana1281,http://concepticon.clld.org/parameters/588,akpaʔɬama,broken
+299-510,sana1281,http://concepticon.clld.org/parameters/1437,nempaʔaɬkatma,split
+299-676,sana1281,http://concepticon.clld.org/parameters/1735,neŋyaptama,tear
+299-259,sana1281,http://concepticon.clld.org/parameters/291,neŋleklama yempehek,"flay, skin"
+299-1189,sana1281,http://concepticon.clld.org/parameters/1449,neŋelteɬneeykaok,"rub, wipe"
+299-942,sana1281,http://concepticon.clld.org/parameters/1449,neŋlaykamˀ,"rub, wipe"
+299-231,sana1281,http://concepticon.clld.org/parameters/214,neŋeyweeskama,stretch
+299-386,sana1281,http://concepticon.clld.org/parameters/1455,neŋyenyawaskama,pull
+299-1043,sana1281,http://concepticon.clld.org/parameters/38,nempaysaekɬaʔ,spread out
+299-1247,sana1281,http://concepticon.clld.org/parameters/357,neŋeɬanma (neeten),hang up
+299-947,sana1281,http://concepticon.clld.org/parameters/1913,neŋyaʔhapma,press
+299-527,sana1281,http://concepticon.clld.org/parameters/1913,akyetnamaekɬoo,press
+299-4,sana1281,http://concepticon.clld.org/parameters/1414,neŋelyetsamoŋaam,"squeeze, wring"
+299-1345,sana1281,http://concepticon.clld.org/parameters/1487,neŋyaŋkanma,pour
+299-209,sana1281,http://concepticon.clld.org/parameters/1453,neŋyemyeskama,wash
+299-1309,sana1281,http://concepticon.clld.org/parameters/230,neŋmentamaykamˀ,sweep
+299-1098,sana1281,http://concepticon.clld.org/parameters/245,mentamaykamˀ,broom
+299-1119,sana1281,http://concepticon.clld.org/parameters/1361,neŋelmaykamˀ aʔsok,tool
+299-893,sana1281,http://concepticon.clld.org/parameters/1042,[karpinteero],carpenter
+299-1301,sana1281,http://concepticon.clld.org/parameters/1840,neŋelaaneyˀ,build
+299-1321,sana1281,http://concepticon.clld.org/parameters/1840,neŋootma,build
+299-1066,sana1281,http://concepticon.clld.org/parameters/1501,neŋelekteɬma,bore
+299-928,sana1281,http://concepticon.clld.org/parameters/1501,neŋyaŋkaɬkatma,bore
+299-1418,sana1281,http://concepticon.clld.org/parameters/46,neŋleklama yseksek (yaamet),hollow out
+299-342,sana1281,http://concepticon.clld.org/parameters/1948,moonayˀpakyek,saw
+299-917,sana1281,http://concepticon.clld.org/parameters/1948,aypakyek,saw
+299-641,sana1281,http://concepticon.clld.org/parameters/1481,[hooma],hammer
+299-1172,sana1281,http://concepticon.clld.org/parameters/502,[laawa],nail
+299-1402,sana1281,http://concepticon.clld.org/parameters/1069,neŋelyepetseeykamˀ ayeŋmenek,glue
+299-1319,sana1281,http://concepticon.clld.org/parameters/1001,keltekpoŋaam-taawaʔpaok,"smith, blacksmith"
+299-818,sana1281,http://concepticon.clld.org/parameters/288,altekpaammaɬkeɬa taawaʔpaok,forge
+299-857,sana1281,http://concepticon.clld.org/parameters/1648,waetke-pkaatek,anvil
+299-344,sana1281,http://concepticon.clld.org/parameters/211,neŋhanma taawaʔpak,cast (metals)
+299-1417,sana1281,http://concepticon.clld.org/parameters/1369,taawaʔpak (alyenmomoo),gold
+299-1177,sana1281,http://concepticon.clld.org/parameters/759,taawaʔpak,silver
+299-1177,sana1281,http://concepticon.clld.org/parameters/1825,taawaʔpak,"copper, bronze"
+299-976,sana1281,http://concepticon.clld.org/parameters/621,taawaʔpak (aŋkooʔ),iron
+299-1177,sana1281,http://concepticon.clld.org/parameters/627,taawaʔpak,lead (noun)
+299-1177,sana1281,http://concepticon.clld.org/parameters/358,taawaʔpak,"tin, tinplate"
+299-900,sana1281,http://concepticon.clld.org/parameters/359,kellaaneyˀo-yaateŋwaʔaɬwa,potter
+299-1301,sana1281,http://concepticon.clld.org/parameters/289,neŋelaaneyˀ,mold (clay etc)
+299-999,sana1281,http://concepticon.clld.org/parameters/1399,yelpaʔ,clay
+299-779,sana1281,http://concepticon.clld.org/parameters/1399,haymakok,clay
+299-232,sana1281,http://concepticon.clld.org/parameters/604,meemoŋ-anyeʔ,glass
+299-1321,sana1281,http://concepticon.clld.org/parameters/1729,neŋootma,"weave, plait"
+299-476,sana1281,http://concepticon.clld.org/parameters/1539,[kanasta],basket
+299-434,sana1281,http://concepticon.clld.org/parameters/195,paapkelyeweyˀ,mat
+299-199,sana1281,http://concepticon.clld.org/parameters/293,soŋseŋheʔ,netbag
+299-383,sana1281,http://concepticon.clld.org/parameters/293,yaamsoŋseŋheʔ,netbag
+299-1142,sana1281,http://concepticon.clld.org/parameters/1971,neŋmakhemmaɬkaʔ,fan (noun)
+299-1131,sana1281,http://concepticon.clld.org/parameters/360,neŋmakheem,fan (vb)
+299-1301,sana1281,http://concepticon.clld.org/parameters/228,neŋelaaneyˀ,carve
+299-40,sana1281,http://concepticon.clld.org/parameters/228,neŋaekmaskama,carve
+299-1101,sana1281,http://concepticon.clld.org/parameters/1002,kelaekmaskeskama,statue
+299-79,sana1281,http://concepticon.clld.org/parameters/647,aʔsok-yeɬwaseem,paint (noun)
+299-739,sana1281,http://concepticon.clld.org/parameters/647,[pintuura],paint (noun)
+299-797,sana1281,http://concepticon.clld.org/parameters/2001,neŋyeɬwaaseeskama,paint (vb)
+299-323,sana1281,http://concepticon.clld.org/parameters/765,neŋakteeskeskama,move
+299-340,sana1281,http://concepticon.clld.org/parameters/1588,neŋyaʔyenma,turn over
+299-348,sana1281,http://concepticon.clld.org/parameters/1588,nensekhaekɬaʔ,turn over
+299-1296,sana1281,http://concepticon.clld.org/parameters/1445,nempaykeyaamˀ,turn around
+299-509,sana1281,http://concepticon.clld.org/parameters/1113,neŋyephoweyaamˀ,"wind, wrap"
+299-919,sana1281,http://concepticon.clld.org/parameters/1113,nempeɬteteem,"wind, wrap"
+299-1057,sana1281,http://concepticon.clld.org/parameters/827,akyepteleŋwaykamˀ,roll
+299-490,sana1281,http://concepticon.clld.org/parameters/827,akpeɬhyawaykamˀ,roll
+299-625,sana1281,http://concepticon.clld.org/parameters/808,nentemkeskama,drop (vb)
+299-922,sana1281,http://concepticon.clld.org/parameters/430,nentaʔheskama,twist
+299-573,sana1281,http://concepticon.clld.org/parameters/430,neŋyeeyeeskama,twist
+299-973,sana1281,http://concepticon.clld.org/parameters/568,neŋenamteem,rise
+299-1087,sana1281,http://concepticon.clld.org/parameters/501,neŋaʔyenma,"raise, lift"
+299-146,sana1281,http://concepticon.clld.org/parameters/1280,nenteeyamˀ,fall
+299-1060,sana1281,http://concepticon.clld.org/parameters/1280,nempalleyaamˀ,fall
+299-892,sana1281,http://concepticon.clld.org/parameters/2253,aksepkanma,drip
+299-1116,sana1281,http://concepticon.clld.org/parameters/1456,neŋyamasma,throw
+299-1391,sana1281,http://concepticon.clld.org/parameters/1456,neŋeɬakhaam,throw
+299-744,sana1281,http://concepticon.clld.org/parameters/702,neŋmaatekhayʔo,catch (ball)
+299-885,sana1281,http://concepticon.clld.org/parameters/1909,nempeɬneɬkeeykamˀ,shake
+299-729,sana1281,http://concepticon.clld.org/parameters/2003,ayenyeem,flow
+299-178,sana1281,http://concepticon.clld.org/parameters/1088,neŋwayweeykaok,sink
+299-234,sana1281,http://concepticon.clld.org/parameters/1574,akpatmeeykamˀ yeŋmen,float
+299-662,sana1281,http://concepticon.clld.org/parameters/1439,neŋmaam yeŋmen,swim
+299-368,sana1281,http://concepticon.clld.org/parameters/119,neŋlawsammaɬka koŋne yeŋmen,dive
+299-934,sana1281,http://concepticon.clld.org/parameters/365,neŋeɬpaʔheeyˀ,splash
+299-32,sana1281,http://concepticon.clld.org/parameters/787,neŋenamteem [warko],sail (vb)
+299-424,sana1281,http://concepticon.clld.org/parameters/1441,neŋempayˀ,fly (vb)
+299-816,sana1281,http://concepticon.clld.org/parameters/175,neŋwatnapma,blow
+299-110,sana1281,http://concepticon.clld.org/parameters/175,aɬkahayaamˀ,blow
+299-970,sana1281,http://concepticon.clld.org/parameters/96,neŋloykamˀ eŋmeok,"creep, crawl"
+299-1191,sana1281,http://concepticon.clld.org/parameters/66,neŋeltekɬekɬama entapnaok,kneel
+299-559,sana1281,http://concepticon.clld.org/parameters/296,neŋmooteeykamˀ,crouch
+299-3,sana1281,http://concepticon.clld.org/parameters/1324,nentooɬnayˀ,"slide, slip"
+299-550,sana1281,http://concepticon.clld.org/parameters/1324,nempeɬyawaykaok,"slide, slip"
+299-1370,sana1281,http://concepticon.clld.org/parameters/1829,neŋneɬteŋaam,"jump, leap"
+299-1055,sana1281,http://concepticon.clld.org/parameters/1135,neŋeltooyamˀ,kick
+299-36,sana1281,http://concepticon.clld.org/parameters/1879,neŋeltaykamˀ,dance
+299-447,sana1281,http://concepticon.clld.org/parameters/1443,nenɬeŋaam naaɬpop,walk
+299-159,sana1281,http://concepticon.clld.org/parameters/366,neŋyaʔteyaykamˀ,limp
+299-708,sana1281,http://concepticon.clld.org/parameters/1519,neŋeneŋkeeykamˀ,run
+299-1160,sana1281,http://concepticon.clld.org/parameters/695,neŋyaʔaskama,go
+299-986,sana1281,http://concepticon.clld.org/parameters/695,neŋmeyooyamˀ,go
+299-973,sana1281,http://concepticon.clld.org/parameters/705,neŋenamteem,go up
+299-973,sana1281,http://concepticon.clld.org/parameters/1102,neŋenamteem,climb
+299-43,sana1281,http://concepticon.clld.org/parameters/2014,nenteyapma,go down
+299-1094,sana1281,http://concepticon.clld.org/parameters/2014,akwayweeykentaʔ,go down
+299-43,sana1281,http://concepticon.clld.org/parameters/1107,nenteyapma,go out
+299-916,sana1281,http://concepticon.clld.org/parameters/1107,akyaʔteyapma,go out
+299-65,sana1281,http://concepticon.clld.org/parameters/1446,neŋeeɬyeyaamˀ,come
+299-754,sana1281,http://concepticon.clld.org/parameters/1446,nenɬeŋayaamˀ,come
+299-65,sana1281,http://concepticon.clld.org/parameters/581,neŋeeɬyeyaamˀ,come back
+299-1212,sana1281,http://concepticon.clld.org/parameters/581,neŋwaʔaektaʔ,come back
+299-43,sana1281,http://concepticon.clld.org/parameters/1752,nenteyapma,"go away, depart"
+299-396,sana1281,http://concepticon.clld.org/parameters/1752,nenɬeŋaam,"go away, depart"
+299-1261,sana1281,http://concepticon.clld.org/parameters/485,akmaskeem,disappear
+299-899,sana1281,http://concepticon.clld.org/parameters/956,neŋenyeem,flee
+299-497,sana1281,http://concepticon.clld.org/parameters/1085,neŋyeplom,follow
+299-1324,sana1281,http://concepticon.clld.org/parameters/1085,neŋemhaykaok,follow
+299-870,sana1281,http://concepticon.clld.org/parameters/1047,neŋyaʔmaskama,pursue
+299-114,sana1281,http://concepticon.clld.org/parameters/1047,neŋmenɬanma,pursue
+299-610,sana1281,http://concepticon.clld.org/parameters/1387,nentahanyaekɬaʔ,"reach, arrive"
+299-1162,sana1281,http://concepticon.clld.org/parameters/1778,nentaatseeykamkoo,approach
+299-274,sana1281,http://concepticon.clld.org/parameters/1778,neŋaamketwayˀ,approach
+299-134,sana1281,http://concepticon.clld.org/parameters/749,nentaɬnama,enter
+299-828,sana1281,http://concepticon.clld.org/parameters/700,nensom,carry (bear)
+299-132,sana1281,http://concepticon.clld.org/parameters/700,neŋyaʔaskeskama,carry (bear)
+299-1087,sana1281,http://concepticon.clld.org/parameters/412,neŋaʔyenma,carry-in-hand
+299-981,sana1281,http://concepticon.clld.org/parameters/413,nempataam,carry-on-shoulder
+299-981,sana1281,http://concepticon.clld.org/parameters/414,nempataam,carry-on-head
+299-828,sana1281,http://concepticon.clld.org/parameters/415,nensom,carry-underarm
+299-1294,sana1281,http://concepticon.clld.org/parameters/692,nensaykentaʔ,bring
+299-975,sana1281,http://concepticon.clld.org/parameters/692,neŋaʔayneeykentaʔ,bring
+299-587,sana1281,http://concepticon.clld.org/parameters/1127,neŋaapahaskama,send
+299-72,sana1281,http://concepticon.clld.org/parameters/1127,nensaaskama,send
+299-188,sana1281,http://concepticon.clld.org/parameters/43,neŋyantaam,lead (vb)
+299-1065,sana1281,http://concepticon.clld.org/parameters/43,neŋnaʔlom,lead (vb)
+299-10,sana1281,http://concepticon.clld.org/parameters/741,nenɬeŋkeskama,drive
+299-501,sana1281,http://concepticon.clld.org/parameters/367,neŋenamteem nooɬeŋ (apkapok),ride
+299-1377,sana1281,http://concepticon.clld.org/parameters/1452,neŋyeŋaam,"push, shove"
+299-1355,sana1281,http://concepticon.clld.org/parameters/667,aamay,road
+299-613,sana1281,http://concepticon.clld.org/parameters/2252,aamay ˀyetkok,path
+299-482,sana1281,http://concepticon.clld.org/parameters/2252,entamnek,path
+299-1363,sana1281,http://concepticon.clld.org/parameters/1011,[puente],bridge
+299-1026,sana1281,http://concepticon.clld.org/parameters/122,[kaalo],"carriage, wagon, cart"
+299-352,sana1281,http://concepticon.clld.org/parameters/710,amnek,wheel
+299-122,sana1281,http://concepticon.clld.org/parameters/1769,(sekleeta) ɬkapok,axle
+299-685,sana1281,http://concepticon.clld.org/parameters/740,teyaaskamˀ-naymen,ship
+299-855,sana1281,http://concepticon.clld.org/parameters/740,[warko],ship
+299-855,sana1281,http://concepticon.clld.org/parameters/1844,[warko],boat
+299-1072,sana1281,http://concepticon.clld.org/parameters/1970,[kaanava],canoe
+299-855,sana1281,http://concepticon.clld.org/parameters/416,[warko],outrigger
+299-855,sana1281,http://concepticon.clld.org/parameters/1664,[warko],raft
+299-289,sana1281,http://concepticon.clld.org/parameters/610,akyetnaekɬeɬa [warko],"harbor, port"
+299-1181,sana1281,http://concepticon.clld.org/parameters/1922,neŋelhaɬyawaskama,land (vb)
+299-487,sana1281,http://concepticon.clld.org/parameters/773,akma,have
+299-138,sana1281,http://concepticon.clld.org/parameters/773,neŋwetayˀ,have
+299-637,sana1281,http://concepticon.clld.org/parameters/684,eŋaŋkok,"own, possess"
+299-995,sana1281,http://concepticon.clld.org/parameters/1749,neŋmaam,take
+299-1023,sana1281,http://concepticon.clld.org/parameters/2021,nempathetma,"seize, grasp"
+299-1286,sana1281,http://concepticon.clld.org/parameters/2021,neŋmaykamkoo,"seize, grasp"
+299-19,sana1281,http://concepticon.clld.org/parameters/1448,neŋmaykamˀ,hold
+299-1333,sana1281,http://concepticon.clld.org/parameters/1448,neŋmaykaok,hold
+299-49,sana1281,http://concepticon.clld.org/parameters/694,nenɬoyˀ,"get, obtain"
+299-666,sana1281,http://concepticon.clld.org/parameters/1477,nentaʔmelkeskama,"keep, retain"
+299-842,sana1281,http://concepticon.clld.org/parameters/738,aʔsok,thing
+299-977,sana1281,http://concepticon.clld.org/parameters/738,neŋelnaʔtaam,thing
+299-220,sana1281,http://concepticon.clld.org/parameters/1447,neŋmeeskama,give
+299-503,sana1281,http://concepticon.clld.org/parameters/1447,neŋahayaamˀ,give
+299-618,sana1281,http://concepticon.clld.org/parameters/85,nentaʔheskamoo,give back
+299-1033,sana1281,http://concepticon.clld.org/parameters/1997,neŋmasma,"preserve, look after"
+299-666,sana1281,http://concepticon.clld.org/parameters/1997,nentaʔmelkeskama,"preserve, look after"
+299-168,sana1281,http://concepticon.clld.org/parameters/2008,neŋwomkeskama taap,"save, rescue"
+299-464,sana1281,http://concepticon.clld.org/parameters/681,nentawaskama,destroy
+299-464,sana1281,http://concepticon.clld.org/parameters/44,nentawaskama,"harm, injure, damage"
+299-91,sana1281,http://concepticon.clld.org/parameters/44,neŋyemsaskama,"harm, injure, damage"
+299-258,sana1281,http://concepticon.clld.org/parameters/1468,nensawheeykamˀ,"seek, look for"
+299-826,sana1281,http://concepticon.clld.org/parameters/1468,neŋetamsama,"seek, look for"
+299-378,sana1281,http://concepticon.clld.org/parameters/719,nentahanyayˀ,find
+299-138,sana1281,http://concepticon.clld.org/parameters/719,neŋwetayˀ,find
+299-834,sana1281,http://concepticon.clld.org/parameters/1660,nenɬeŋaanemkeskama,lose
+299-1397,sana1281,http://concepticon.clld.org/parameters/1095,nempaʔnamaekɬaʔ,"release, let go"
+299-502,sana1281,http://concepticon.clld.org/parameters/1559,soolyaʔyem,money
+299-300,sana1281,http://concepticon.clld.org/parameters/1867,soolyaʔyem aktek,coin
+299-1190,sana1281,http://concepticon.clld.org/parameters/712,akma neŋelnaʔtaam,rich
+299-243,sana1281,http://concepticon.clld.org/parameters/1674,neŋmayawse,poor
+299-670,sana1281,http://concepticon.clld.org/parameters/1934,neŋmoŋkaɬnaykamˀ,beggar
+299-322,sana1281,http://concepticon.clld.org/parameters/1934,neŋanheeykamˀ,beggar
+299-617,sana1281,http://concepticon.clld.org/parameters/1774,neŋmasma neŋelnaʔtaam,"avaricious, stingy"
+299-220,sana1281,http://concepticon.clld.org/parameters/582,neŋmeeskama,lend
+299-691,sana1281,http://concepticon.clld.org/parameters/1823,neŋelyaʔanmoŋaam,borrow
+299-549,sana1281,http://concepticon.clld.org/parameters/369,akma neŋmaykaanaʔsa,owe
+299-1372,sana1281,http://concepticon.clld.org/parameters/1914,neŋmaykaanaʔsa,debt
+299-111,sana1281,http://concepticon.clld.org/parameters/718,neŋyaʔanmoŋkeskama,pay (vb)
+299-813,sana1281,http://concepticon.clld.org/parameters/1081,moyaʔansaekɬoo,"account, reckoning"
+299-1208,sana1281,http://concepticon.clld.org/parameters/873,moklekaekɬa (soolyaʔyem eŋak),"tax, tribute"
+299-691,sana1281,http://concepticon.clld.org/parameters/856,neŋelyaʔanmoŋaam,hire
+299-281,sana1281,http://concepticon.clld.org/parameters/856,neŋmaykamˀ naʔsa,hire
+299-49,sana1281,http://concepticon.clld.org/parameters/1122,nenɬoyˀ,wages
+299-1300,sana1281,http://concepticon.clld.org/parameters/1122,[suelto],wages
+299-856,sana1281,http://concepticon.clld.org/parameters/1122,neŋmaam (soolyaʔyem),wages
+299-856,sana1281,http://concepticon.clld.org/parameters/733,neŋmaam (soolyaʔyem),earn
+299-995,sana1281,http://concepticon.clld.org/parameters/1869,neŋmaam,buy
+299-1116,sana1281,http://concepticon.clld.org/parameters/1571,neŋyamasma,sell
+299-1391,sana1281,http://concepticon.clld.org/parameters/1571,neŋeɬakhaam,sell
+299-1149,sana1281,http://concepticon.clld.org/parameters/2135,neŋyaʔmoŋsaekɬa (mook),"trade, barter"
+299-1368,sana1281,http://concepticon.clld.org/parameters/1082,neŋelyaʔmoŋsammaɬkaʔ,merchant
+299-1223,sana1281,http://concepticon.clld.org/parameters/1082,samhaameɬ eŋak,merchant
+299-454,sana1281,http://concepticon.clld.org/parameters/752,[almaasen],"store, shop"
+299-398,sana1281,http://concepticon.clld.org/parameters/752,almommaɬkeɬaʔ ʔsok,"store, shop"
+299-1102,sana1281,http://concepticon.clld.org/parameters/657,akyaʔanmoŋaam,price
+299-1216,sana1281,http://concepticon.clld.org/parameters/1426,kayheʔ,"dear (costly, expensive)"
+299-1420,sana1281,http://concepticon.clld.org/parameters/1426,akyemnaʔteem,"dear (costly, expensive)"
+299-25,sana1281,http://concepticon.clld.org/parameters/1887,kayemnaʔteem,cheap
+299-93,sana1281,http://concepticon.clld.org/parameters/884,neŋmelaskeem,share (distribute)
+299-1030,sana1281,http://concepticon.clld.org/parameters/884,neŋyakyeeskaok,share (distribute)
+299-151,sana1281,http://concepticon.clld.org/parameters/1098,neŋelyepseteem,weigh
+299-1249,sana1281,http://concepticon.clld.org/parameters/1685,nentaamen/ nentaan,after
+299-1249,sana1281,http://concepticon.clld.org/parameters/723,nentaamen/ nentaan,behind
+299-1358,sana1281,http://concepticon.clld.org/parameters/723,taap,behind
+299-1198,sana1281,http://concepticon.clld.org/parameters/1816,nekhaʔ,beside
+299-1342,sana1281,http://concepticon.clld.org/parameters/1816,neyaawaʔ,beside
+299-798,sana1281,http://concepticon.clld.org/parameters/1326,kooneŋ,"down, below"
+299-1128,sana1281,http://concepticon.clld.org/parameters/1882,eŋmamyeʔ,before
+299-1128,sana1281,http://concepticon.clld.org/parameters/1019,eŋmamyeʔ,front
+299-166,sana1281,http://concepticon.clld.org/parameters/1019,helep,front
+299-1090,sana1281,http://concepticon.clld.org/parameters/1606,koŋneʔ,"inside, in"
+299-910,sana1281,http://concepticon.clld.org/parameters/1606,awaʔɬok,"inside, in"
+299-38,sana1281,http://concepticon.clld.org/parameters/762,amyep,outside
+299-798,sana1281,http://concepticon.clld.org/parameters/1485,kooneŋ,under
+299-1254,sana1281,http://concepticon.clld.org/parameters/1591,neeten,"up, above"
+299-1089,sana1281,http://concepticon.clld.org/parameters/723,aɬmaʔ,place
+299-392,sana1281,http://concepticon.clld.org/parameters/998,nempakanma,put
+299-461,sana1281,http://concepticon.clld.org/parameters/998,neŋneŋkanma,put
+299-930,sana1281,http://concepticon.clld.org/parameters/1416,nentahanma,sit
+299-974,sana1281,http://concepticon.clld.org/parameters/1416,neŋma,sit
+299-76,sana1281,http://concepticon.clld.org/parameters/215,neŋyetnama,lie down
+299-117,sana1281,http://concepticon.clld.org/parameters/1442,neŋenmaykamˀ,stand
+299-1021,sana1281,http://concepticon.clld.org/parameters/1442,neŋaʔneeykamˀ,stand
+299-687,sana1281,http://concepticon.clld.org/parameters/987,ayaymommaɬkaʔ,"remain, stay"
+299-363,sana1281,http://concepticon.clld.org/parameters/987,neŋnaekɬa ɬaayeʔ,"remain, stay"
+299-493,sana1281,http://concepticon.clld.org/parameters/838,alaymommaɬkaʔ,"remains, left overs"
+299-362,sana1281,http://concepticon.clld.org/parameters/7,neŋyakheeykamˀ,"collect, gather"
+299-180,sana1281,http://concepticon.clld.org/parameters/7,neŋaʔanseeykamˀ,"collect, gather"
+299-362,sana1281,http://concepticon.clld.org/parameters/371,neŋyakheeykamˀ,pick up
+299-995,sana1281,http://concepticon.clld.org/parameters/371,neŋmaam,pick up
+299-410,sana1281,http://concepticon.clld.org/parameters/1576,neŋekheskama,pile up
+299-180,sana1281,http://concepticon.clld.org/parameters/1743,neŋaʔanseeykamˀ,"join, unite"
+299-1024,sana1281,http://concepticon.clld.org/parameters/1743,neŋaʔansaekɬaʔ,"join, unite"
+299-105,sana1281,http://concepticon.clld.org/parameters/1359,neŋeɬpaʔankeskama,separate
+299-105,sana1281,http://concepticon.clld.org/parameters/1119,neŋeɬpaʔankeskama,divide
+299-558,sana1281,http://concepticon.clld.org/parameters/1156,neŋmaayeeskama,open
+299-172,sana1281,http://concepticon.clld.org/parameters/1156,neŋleklama atoŋ,open
+299-1306,sana1281,http://concepticon.clld.org/parameters/1046,neŋaapaekɬaʔ,"shut, close"
+299-123,sana1281,http://concepticon.clld.org/parameters/761,neŋapma,cover
+299-370,sana1281,http://concepticon.clld.org/parameters/761,neŋahapkeskama,cover
+299-1146,sana1281,http://concepticon.clld.org/parameters/602,nempooskama,"hide, conceal"
+299-143,sana1281,http://concepticon.clld.org/parameters/1265,netnooʔ,high
+299-500,sana1281,http://concepticon.clld.org/parameters/1265,neŋwenaʔteem,high
+299-507,sana1281,http://concepticon.clld.org/parameters/721,naaɬpooʔ,low
+299-1082,sana1281,http://concepticon.clld.org/parameters/721,akyepwateem,low
+299-1084,sana1281,http://concepticon.clld.org/parameters/1753,ayetseksek,top
+299-1254,sana1281,http://concepticon.clld.org/parameters/1753,neeten,top
+299-360,sana1281,http://concepticon.clld.org/parameters/690,naaɬpop,bottom
+299-1271,sana1281,http://concepticon.clld.org/parameters/742,neeɬaʔ,end
+299-12,sana1281,http://concepticon.clld.org/parameters/742,nawʔa,end
+299-747,sana1281,http://concepticon.clld.org/parameters/372,akma hamtek,pointed
+299-347,sana1281,http://concepticon.clld.org/parameters/372,was,pointed
+299-1198,sana1281,http://concepticon.clld.org/parameters/863,nekhaʔ,edge
+299-253,sana1281,http://concepticon.clld.org/parameters/682,neŋhekhaʔ,side
+299-15,sana1281,http://concepticon.clld.org/parameters/1093,naataʔlooʔ,"middle, center"
+299-1335,sana1281,http://concepticon.clld.org/parameters/1093,nayseksooʔ,"middle, center"
+299-955,sana1281,http://concepticon.clld.org/parameters/1093,naaɬet,"middle, center"
+299-343,sana1281,http://concepticon.clld.org/parameters/1019,aktaʔmelakɬaʔ,right (side)
+299-152,sana1281,http://concepticon.clld.org/parameters/1019,akpeywookɬaʔ,right (side)
+299-1047,sana1281,http://concepticon.clld.org/parameters/244,ensaŋkalweʔ,left (side)
+299-506,sana1281,http://concepticon.clld.org/parameters/1942,neŋaʔtooʔ,near (adv)
+299-701,sana1281,http://concepticon.clld.org/parameters/1406,makhayˀ,far (adv)
+299-1053,sana1281,http://concepticon.clld.org/parameters/1406,kat,far (adv)
+299-67,sana1281,http://concepticon.clld.org/parameters/1877,teyapmakɬa-knemˀ,east
+299-397,sana1281,http://concepticon.clld.org/parameters/1817,taɬneŋwaamɬa-knemˀ,west
+299-1375,sana1281,http://concepticon.clld.org/parameters/1598,neɬkeyha,north
+299-407,sana1281,http://concepticon.clld.org/parameters/1595,nepeyaamˀ,south
+299-568,sana1281,http://concepticon.clld.org/parameters/479,neŋwaaneeykaam,grow
+299-794,sana1281,http://concepticon.clld.org/parameters/479,neŋekteŋaam,grow
+299-151,sana1281,http://concepticon.clld.org/parameters/1506,neŋelyepseteem,measure
+299-182,sana1281,http://concepticon.clld.org/parameters/1202,akyeweyˀ,"large, big"
+299-1068,sana1281,http://concepticon.clld.org/parameters/1202,akmelayˀ,"large, big"
+299-1330,sana1281,http://concepticon.clld.org/parameters/1202,akyaʔyeem,"large, big"
+299-1298,sana1281,http://concepticon.clld.org/parameters/1246,atketsek,"small, little"
+299-567,sana1281,http://concepticon.clld.org/parameters/1246,ayetkok,"small, little"
+299-761,sana1281,http://concepticon.clld.org/parameters/1246,tes,"small, little"
+299-1384,sana1281,http://concepticon.clld.org/parameters/1203,akwenaʔteem,long
+299-1053,sana1281,http://concepticon.clld.org/parameters/1203,kat,long
+299-1384,sana1281,http://concepticon.clld.org/parameters/711,akwenaʔteem,tall
+299-143,sana1281,http://concepticon.clld.org/parameters/711,netnooʔ,tall
+299-968,sana1281,http://concepticon.clld.org/parameters/1645,akyaʔwateem,short
+299-150,sana1281,http://concepticon.clld.org/parameters/1243,akpayheem,"wide, broad"
+299-182,sana1281,http://concepticon.clld.org/parameters/1243,akyeweyˀ,"wide, broad"
+299-1298,sana1281,http://concepticon.clld.org/parameters/1267,atketsek,narrow
+299-761,sana1281,http://concepticon.clld.org/parameters/1267,tes,narrow
+299-182,sana1281,http://concepticon.clld.org/parameters/1244,akyeweyˀ,thick (in dimension)
+299-1332,sana1281,http://concepticon.clld.org/parameters/1244,akyemtaɬnama,thick (in dimension)
+299-1126,sana1281,http://concepticon.clld.org/parameters/1400,akyamhoŋkama,thin (in dimension)
+299-77,sana1281,http://concepticon.clld.org/parameters/1400,alyamayˀ,thin (in dimension)
+299-1139,sana1281,http://concepticon.clld.org/parameters/1593,koŋnooʔ,deep
+299-996,sana1281,http://concepticon.clld.org/parameters/1593,ayaptoŋneem,deep
+299-560,sana1281,http://concepticon.clld.org/parameters/193,takhooʔ,shallow
+299-1312,sana1281,http://concepticon.clld.org/parameters/1633,akmoo mook,flat
+299-749,sana1281,http://concepticon.clld.org/parameters/1633,akpeywomoo,flat
+299-749,sana1281,http://concepticon.clld.org/parameters/1404,akpeywomoo,straight
+299-983,sana1281,http://concepticon.clld.org/parameters/297,aktaʔheem,crooked
+299-1334,sana1281,http://concepticon.clld.org/parameters/297,akhaɬeem,crooked
+299-1036,sana1281,http://concepticon.clld.org/parameters/1071,ayaspomakɬaʔ,hook
+299-1260,sana1281,http://concepticon.clld.org/parameters/192,akmaaseŋwayaamˀ,corner
+299-99,sana1281,http://concepticon.clld.org/parameters/192,[eskiina],corner
+299-785,sana1281,http://concepticon.clld.org/parameters/1367,aʔsok-temyeskama,cross
+299-1330,sana1281,http://concepticon.clld.org/parameters/1395,akyaʔyeem,round
+299-1337,sana1281,http://concepticon.clld.org/parameters/1467,neŋyaʔyeskama,circle
+299-736,sana1281,http://concepticon.clld.org/parameters/1845,[peloota],"sphere, ball"
+299-257,sana1281,http://concepticon.clld.org/parameters/1845,yepheskama,"sphere, ball"
+299-926,sana1281,http://concepticon.clld.org/parameters/1048,aamay (ak),line
+299-1220,sana1281,http://concepticon.clld.org/parameters/1667,akyaŋkaɬeem,hole
+299-1435,sana1281,http://concepticon.clld.org/parameters/1667,aʔaɬwa,hole
+299-1225,sana1281,http://concepticon.clld.org/parameters/1558,akmoo,"like, similar"
+299-1038,sana1281,http://concepticon.clld.org/parameters/1558,akyetseeykaok,"like, similar"
+299-656,sana1281,http://concepticon.clld.org/parameters/1264,neŋyaʔmoŋsaekɬaʔ,change
+299-137,sana1281,http://concepticon.clld.org/parameters/1294,paex,"zero, nothing"
+299-1140,sana1281,http://concepticon.clld.org/parameters/1294,mepke,"zero, nothing"
+299-177,sana1281,http://concepticon.clld.org/parameters/1515,ɬama,one
+299-474,sana1281,http://concepticon.clld.org/parameters/1498,aʔnet,two
+299-157,sana1281,http://concepticon.clld.org/parameters/1498,tos,two
+299-87,sana1281,http://concepticon.clld.org/parameters/492,naʔatkeʔ,three
+299-1378,sana1281,http://concepticon.clld.org/parameters/492,[tres],three
+299-219,sana1281,http://concepticon.clld.org/parameters/1500,nook-nekhaʔ,four
+299-5,sana1281,http://concepticon.clld.org/parameters/1500,[kwatro],four
+299-332,sana1281,http://concepticon.clld.org/parameters/493,ɬama-emek,five
+299-486,sana1281,http://concepticon.clld.org/parameters/493,[siŋko],five
+299-831,sana1281,http://concepticon.clld.org/parameters/1703,ɬama-mook-eemek,six
+299-270,sana1281,http://concepticon.clld.org/parameters/1703,[seis],six
+299-1007,sana1281,http://concepticon.clld.org/parameters/1704,aʔnet-mook-eemek,seven
+299-644,sana1281,http://concepticon.clld.org/parameters/1704,[syete],seven
+299-1406,sana1281,http://concepticon.clld.org/parameters/1705,naʔatke-mook-eemek,eight
+299-1268,sana1281,http://concepticon.clld.org/parameters/1705,[očo],eight
+299-778,sana1281,http://concepticon.clld.org/parameters/1483,nook-nekha-mook-eemek,nine
+299-596,sana1281,http://concepticon.clld.org/parameters/1483,[nuewe],nine
+299-646,sana1281,http://concepticon.clld.org/parameters/1515,sawhook-emeok,ten
+299-1374,sana1281,http://concepticon.clld.org/parameters/1515,[tyes],ten
+299-415,sana1281,http://concepticon.clld.org/parameters/1706,ɬama-emnek,eleven
+299-1226,sana1281,http://concepticon.clld.org/parameters/1706,[onse],eleven
+299-1027,sana1281,http://concepticon.clld.org/parameters/1707,aʔnet-emnek,twelve
+299-1213,sana1281,http://concepticon.clld.org/parameters/1707,[tose],twelve
+299-898,sana1281,http://concepticon.clld.org/parameters/1709,sawhook-ɬama-emnek,fifteen
+299-1245,sana1281,http://concepticon.clld.org/parameters/1709,[kinse],fifteen
+299-998,sana1281,http://concepticon.clld.org/parameters/1710,sawhook-emankok,twenty
+299-909,sana1281,http://concepticon.clld.org/parameters/1710,[weinte],twenty
+299-1144,sana1281,http://concepticon.clld.org/parameters/1634,[syen],hundred
+299-1244,sana1281,http://concepticon.clld.org/parameters/1843,[mil],thousand
+299-151,sana1281,http://concepticon.clld.org/parameters/1420,neŋelyepseteem,count
+299-956,sana1281,http://concepticon.clld.org/parameters/98,yawʔakɬoho,"every, all"
+299-960,sana1281,http://concepticon.clld.org/parameters/98,ɬaʔmakɬoho,"every, all"
+299-678,sana1281,http://concepticon.clld.org/parameters/1198,akɬaʔmaekɬaʔ,"much, many"
+299-354,sana1281,http://concepticon.clld.org/parameters/1198,akɬaʔmakɬaʔ,"much, many"
+299-1358,sana1281,http://concepticon.clld.org/parameters/1992,taap,more
+299-1322,sana1281,http://concepticon.clld.org/parameters/1992,mokham taap,more
+299-474,sana1281,http://concepticon.clld.org/parameters/1242,aʔnet,"little (quantity), few"
+299-1069,sana1281,http://concepticon.clld.org/parameters/1242,aʔnetooʔ,"little (quantity), few"
+299-969,sana1281,http://concepticon.clld.org/parameters/1242,mokɬamʔa,"little (quantity), few"
+299-1298,sana1281,http://concepticon.clld.org/parameters/1242,atketsek,"little (quantity), few"
+299-1077,sana1281,http://concepticon.clld.org/parameters/1881,awanheʔ,enough
+299-1225,sana1281,http://concepticon.clld.org/parameters/1881,akmoo,enough
+299-969,sana1281,http://concepticon.clld.org/parameters/1241,mokɬamʔa,some
+299-1069,sana1281,http://concepticon.clld.org/parameters/1241,aʔnetooʔ,some
+299-544,sana1281,http://concepticon.clld.org/parameters/2023,apyeweyˀ teŋma,"multitude, crowd"
+299-109,sana1281,http://concepticon.clld.org/parameters/2023,teŋma pwaanyamˀ,"multitude, crowd"
+299-681,sana1281,http://concepticon.clld.org/parameters/1429,aklaaneyʔo,full
+299-1035,sana1281,http://concepticon.clld.org/parameters/1624,mepke waʔɬok,empty
+299-1198,sana1281,http://concepticon.clld.org/parameters/779,nekhaʔ,"part, piece"
+299-955,sana1281,http://concepticon.clld.org/parameters/816,naaɬet,half
+299-1198,sana1281,http://concepticon.clld.org/parameters/816,nekhaʔ,half
+299-759,sana1281,http://concepticon.clld.org/parameters/1580,enɬapkooʔ,"alone, only"
+299-413,sana1281,http://concepticon.clld.org/parameters/1580,waamɬaʔ,"alone, only"
+299-1128,sana1281,http://concepticon.clld.org/parameters/728,eŋmamyeʔ,first
+299-530,sana1281,http://concepticon.clld.org/parameters/728,sekɬooʔ,first
+299-584,sana1281,http://concepticon.clld.org/parameters/1529,aɬaayeʔ,last
+299-287,sana1281,http://concepticon.clld.org/parameters/1529,aɬaayooʔ,last
+299-1270,sana1281,http://concepticon.clld.org/parameters/1529,ɬaʔaŋkooʔ,last
+299-584,sana1281,http://concepticon.clld.org/parameters/1384,aɬaayeʔ,second
+299-28,sana1281,http://concepticon.clld.org/parameters/1384,mook/ pook,second
+299-1122,sana1281,http://concepticon.clld.org/parameters/1384,nenteeteeykaok,second
+299-474,sana1281,http://concepticon.clld.org/parameters/1888,aʔnet,pair
+299-1412,sana1281,http://concepticon.clld.org/parameters/1546,aʔnet aktamhaekɬoo,two times
+299-1398,sana1281,http://concepticon.clld.org/parameters/1859,[tresero],third
+299-967,sana1281,http://concepticon.clld.org/parameters/417,naʔatke ktamhaekɬoo,three times
+299-194,sana1281,http://concepticon.clld.org/parameters/1789,aknookɬaʔ mokhetma/ aanyo eŋak,age
+299-1405,sana1281,http://concepticon.clld.org/parameters/1231,aɬnaŋkok,new
+299-269,sana1281,http://concepticon.clld.org/parameters/1231,wetooʔ,new
+299-567,sana1281,http://concepticon.clld.org/parameters/1207,ayetkok,young
+299-1405,sana1281,http://concepticon.clld.org/parameters/1207,aɬnaŋkok,young
+299-272,sana1281,http://concepticon.clld.org/parameters/1229,neŋwaanyamˀ,old
+299-310,sana1281,http://concepticon.clld.org/parameters/672,aɬtoʔooʔ,early
+299-697,sana1281,http://concepticon.clld.org/parameters/672,peɬkayˀ,early
+299-584,sana1281,http://concepticon.clld.org/parameters/477,aɬaayeʔ,late
+299-1054,sana1281,http://concepticon.clld.org/parameters/477,neŋaapaʔheŋwaekmoo,late
+299-420,sana1281,http://concepticon.clld.org/parameters/1376,keɬwooʔ,now
+299-1073,sana1281,http://concepticon.clld.org/parameters/1376,neŋwaamɬa nak hayˀ,now
+299-420,sana1281,http://concepticon.clld.org/parameters/1963,keɬwooʔ,immediately
+299-119,sana1281,http://concepticon.clld.org/parameters/1963,keɬwook aŋkooʔ,immediately
+299-734,sana1281,http://concepticon.clld.org/parameters/1631,neŋaapaʔheeykamˀ,"swift, fast, quick"
+299-1285,sana1281,http://concepticon.clld.org/parameters/1631,akma yenyeem,"swift, fast, quick"
+299-627,sana1281,http://concepticon.clld.org/parameters/1631,pat,"swift, fast, quick"
+299-887,sana1281,http://concepticon.clld.org/parameters/701,nentaʔmelseeykamʔo,slow
+299-543,sana1281,http://concepticon.clld.org/parameters/754,nempekhayˀ,"hasten, hurry"
+299-836,sana1281,http://concepticon.clld.org/parameters/754,neŋyaʔyahaykamˀ,"hasten, hurry"
+299-1187,sana1281,http://concepticon.clld.org/parameters/425,neŋwayaamˀ aɬaayeʔ,"retard, delay"
+299-579,sana1281,http://concepticon.clld.org/parameters/1806,neŋeenmoo,"begin, beginning"
+299-83,sana1281,http://concepticon.clld.org/parameters/1806,neŋeenwaekɬoo,"begin, beginning"
+299-1225,sana1281,http://concepticon.clld.org/parameters/1186,akmoo,"last, endure"
+299-1271,sana1281,http://concepticon.clld.org/parameters/743,neeɬaʔ,end (temporal)
+299-533,sana1281,http://concepticon.clld.org/parameters/1766,nempeeneeskama,finish
+299-1176,sana1281,http://concepticon.clld.org/parameters/1766,nensawhomoo,finish
+299-21,sana1281,http://concepticon.clld.org/parameters/1928,neŋelwaateeskama,"cease, stop"
+299-246,sana1281,http://concepticon.clld.org/parameters/1928,neŋnaekɬaʔ,"cease, stop"
+299-1344,sana1281,http://concepticon.clld.org/parameters/790,akpeensammaɬkaʔ,ready
+299-1165,sana1281,http://concepticon.clld.org/parameters/790,peenaaskeʔ,ready
+299-373,sana1281,http://concepticon.clld.org/parameters/790,taʔseʔ,ready
+299-275,sana1281,http://concepticon.clld.org/parameters/1676,maataʔa,always
+299-275,sana1281,http://concepticon.clld.org/parameters/1852,maataʔa,often
+299-720,sana1281,http://concepticon.clld.org/parameters/1852,kalyeɬwayʔo,often
+299-387,sana1281,http://concepticon.clld.org/parameters/1544,mookʔaɬmaʔa,sometimes
+299-420,sana1281,http://concepticon.clld.org/parameters/703,keɬwooʔ,soon
+299-697,sana1281,http://concepticon.clld.org/parameters/703,peɬkayˀ,soon
+299-1277,sana1281,http://concepticon.clld.org/parameters/418,akwaŋkakɬoho,long-time (for a)
+299-1235,sana1281,http://concepticon.clld.org/parameters/1656,paex saat,never
+299-712,sana1281,http://concepticon.clld.org/parameters/204,mokham,again
+299-1256,sana1281,http://concepticon.clld.org/parameters/1260,aknemˀ,day
+299-872,sana1281,http://concepticon.clld.org/parameters/1233,aɬtaʔa,night
+299-48,sana1281,http://concepticon.clld.org/parameters/729,aɬtaʔa yetkok,dawn
+299-795,sana1281,http://concepticon.clld.org/parameters/729,amamye yetsayˀ,dawn
+299-310,sana1281,http://concepticon.clld.org/parameters/1339,aɬtoʔooʔ,morning
+299-677,sana1281,http://concepticon.clld.org/parameters/12,yetseksook-nemˀ,"noon, midday"
+299-294,sana1281,http://concepticon.clld.org/parameters/12,[laaʔonse],"noon, midday"
+299-962,sana1281,http://concepticon.clld.org/parameters/1807,taɬnaamˀ,afternoon
+299-375,sana1281,http://concepticon.clld.org/parameters/1807,aktaɬnaamˀ,afternoon
+299-140,sana1281,http://concepticon.clld.org/parameters/1629,taɬnakmoo,evening
+299-962,sana1281,http://concepticon.clld.org/parameters/1629,taɬnaamˀ,evening
+299-792,sana1281,http://concepticon.clld.org/parameters/1283,aknemˀ nak hayˀ,today
+299-944,sana1281,http://concepticon.clld.org/parameters/1283,keɬwoo nak hayˀ,today
+299-505,sana1281,http://concepticon.clld.org/parameters/1329,sekʔaasekɬaʔ,tomorrow
+299-939,sana1281,http://concepticon.clld.org/parameters/1179,mook sekʔaasekɬaʔ,day-after-tomorrow
+299-1013,sana1281,http://concepticon.clld.org/parameters/1174,aknemˀ aɬta,yesterday
+299-1018,sana1281,http://concepticon.clld.org/parameters/1180,mook nemˀ aɬta,day-before-yesterday
+299-149,sana1281,http://concepticon.clld.org/parameters/1353,[oora],hour
+299-1092,sana1281,http://concepticon.clld.org/parameters/1353,textex,hour
+299-491,sana1281,http://concepticon.clld.org/parameters/1323,laaneyʔoo-knemˀ,"clock, timepiece"
+299-1092,sana1281,http://concepticon.clld.org/parameters/1323,textex,"clock, timepiece"
+299-808,sana1281,http://concepticon.clld.org/parameters/1469,[semaana],week
+299-915,sana1281,http://concepticon.clld.org/parameters/1699,[lameŋko],Sunday
+299-672,sana1281,http://concepticon.clld.org/parameters/1697,[loone],Monday
+299-252,sana1281,http://concepticon.clld.org/parameters/1695,[marte],Tuesday
+299-1179,sana1281,http://concepticon.clld.org/parameters/1694,[mierkoles],Wednesday
+299-1078,sana1281,http://concepticon.clld.org/parameters/1693,[xuewe],Thursday
+299-920,sana1281,http://concepticon.clld.org/parameters/1692,[ʔyeenes],Friday
+299-539,sana1281,http://concepticon.clld.org/parameters/1700,[saawalo],Saturday
+299-479,sana1281,http://concepticon.clld.org/parameters/1370,peltenˀ,month
+299-982,sana1281,http://concepticon.clld.org/parameters/1226,[aanyo],year
+299-96,sana1281,http://concepticon.clld.org/parameters/1226,mokhetma,year
+299-992,sana1281,http://concepticon.clld.org/parameters/1226,peyaamˀ,year
+299-992,sana1281,http://concepticon.clld.org/parameters/1471,peyaamˀ,winter
+299-1203,sana1281,http://concepticon.clld.org/parameters/1471,peyaʔ apwaʔɬok,winter
+299-1425,sana1281,http://concepticon.clld.org/parameters/1537,alyepwayʔakɬaʔ,spring
+299-96,sana1281,http://concepticon.clld.org/parameters/1342,mokhetma,summer
+299-1292,sana1281,http://concepticon.clld.org/parameters/1587,aktahapma,smell (vb intrans)
+299-50,sana1281,http://concepticon.clld.org/parameters/1587,akpaʔneeykamkoo,smell (vb intrans)
+299-359,sana1281,http://concepticon.clld.org/parameters/375,nentekhaaneeykamˀ,sniff
+299-1430,sana1281,http://concepticon.clld.org/parameters/1586,nentekhaneem,smell (vb trans)
+299-1113,sana1281,http://concepticon.clld.org/parameters/1586,neŋleŋayˀ,smell (vb trans)
+299-42,sana1281,http://concepticon.clld.org/parameters/376,akmaases,"fragrant, good smelling"
+299-936,sana1281,http://concepticon.clld.org/parameters/376,sex,"fragrant, good smelling"
+299-532,sana1281,http://concepticon.clld.org/parameters/42,sam,"stinking, bad smelling"
+299-904,sana1281,http://concepticon.clld.org/parameters/42,kas,"stinking, bad smelling"
+299-1150,sana1281,http://concepticon.clld.org/parameters/21,neŋyepkoonma,taste
+299-42,sana1281,http://concepticon.clld.org/parameters/717,akmaases,sweet
+299-985,sana1281,http://concepticon.clld.org/parameters/1091,yaasek aŋkooʔ,salty
+299-133,sana1281,http://concepticon.clld.org/parameters/1091,ayeɬyawayˀ,salty
+299-1071,sana1281,http://concepticon.clld.org/parameters/1091,akmaska,salty
+299-904,sana1281,http://concepticon.clld.org/parameters/1091,kas,salty
+299-904,sana1281,http://concepticon.clld.org/parameters/887,kas,bitter
+299-1071,sana1281,http://concepticon.clld.org/parameters/887,akmaska,bitter
+299-904,sana1281,http://concepticon.clld.org/parameters/1906,kas,"acid, sour"
+299-1071,sana1281,http://concepticon.clld.org/parameters/1906,akmaska,"acid, sour"
+299-1317,sana1281,http://concepticon.clld.org/parameters/70,yaasek-yeŋmen,brackish
+299-1113,sana1281,http://concepticon.clld.org/parameters/1408,neŋleŋayˀ,hear
+299-102,sana1281,http://concepticon.clld.org/parameters/1608,neŋhaaɬenmoo,listen
+299-929,sana1281,http://concepticon.clld.org/parameters/1811,akpaʔaywaam,"sound, noise"
+299-711,sana1281,http://concepticon.clld.org/parameters/1811,alyepyawaam,"sound, noise"
+299-185,sana1281,http://concepticon.clld.org/parameters/377,akmaskepme,loud
+299-1005,sana1281,http://concepticon.clld.org/parameters/377,akyennamaame ɬmaʔ,loud
+299-1032,sana1281,http://concepticon.clld.org/parameters/1314,alweenama ɬmaʔ,"quiet, silence"
+299-138,sana1281,http://concepticon.clld.org/parameters/1409,neŋwetayˀ,see
+299-2,sana1281,http://concepticon.clld.org/parameters/1409,neŋwetayʔo,see
+299-564,sana1281,http://concepticon.clld.org/parameters/1819,neŋelaaneyʔo,"look, look at"
+299-278,sana1281,http://concepticon.clld.org/parameters/1819,neŋelaankamˀ,"look, look at"
+299-840,sana1281,http://concepticon.clld.org/parameters/1039,nenɬekmooskamˀ,show
+299-765,sana1281,http://concepticon.clld.org/parameters/1039,neŋwetaskeskama,show
+299-63,sana1281,http://concepticon.clld.org/parameters/708,alyenmomoo,shine
+299-576,sana1281,http://concepticon.clld.org/parameters/708,ayaapoŋmateem,shine
+299-63,sana1281,http://concepticon.clld.org/parameters/679,alyenmomoo,bright
+299-171,sana1281,http://concepticon.clld.org/parameters/1613,aktaɬamaawoʔ,color
+299-239,sana1281,http://concepticon.clld.org/parameters/250,yaam,light (in color)
+299-204,sana1281,http://concepticon.clld.org/parameters/706,haɬ,dark (in color)
+299-127,sana1281,http://concepticon.clld.org/parameters/1335,akmopoyˀ,white
+299-631,sana1281,http://concepticon.clld.org/parameters/1335,pak,white
+299-201,sana1281,http://concepticon.clld.org/parameters/163,akpaasyamˀ,black
+299-412,sana1281,http://concepticon.clld.org/parameters/156,akyeɬwaseem,red
+299-904,sana1281,http://concepticon.clld.org/parameters/156,kas,red
+299-614,sana1281,http://concepticon.clld.org/parameters/837,akyaapaʔmateem,blue
+299-1115,sana1281,http://concepticon.clld.org/parameters/837,[asul],blue
+299-483,sana1281,http://concepticon.clld.org/parameters/1425,akhaanaʔteem,green
+299-526,sana1281,http://concepticon.clld.org/parameters/1425,[werte],green
+299-925,sana1281,http://concepticon.clld.org/parameters/1424,akyaatektama,yellow
+299-1156,sana1281,http://concepticon.clld.org/parameters/1424,tap,yellow
+299-1138,sana1281,http://concepticon.clld.org/parameters/1892,neŋmoŋwaekmoo,touch
+299-882,sana1281,http://concepticon.clld.org/parameters/378,neŋyensepma,pinch
+299-883,sana1281,http://concepticon.clld.org/parameters/1079,neŋleŋaykamkoo,feel
+299-1420,sana1281,http://concepticon.clld.org/parameters/1884,akyemnaʔteem,hard
+299-972,sana1281,http://concepticon.clld.org/parameters/1884,taex,hard
+299-1216,sana1281,http://concepticon.clld.org/parameters/1884,kayheʔ,hard
+299-224,sana1281,http://concepticon.clld.org/parameters/1856,akmomhaape,soft
+299-112,sana1281,http://concepticon.clld.org/parameters/1856,ayemhaapeeykamˀ,soft
+299-477,sana1281,http://concepticon.clld.org/parameters/1923,alekhahaykaok,rough
+299-1386,sana1281,http://concepticon.clld.org/parameters/1923,akpaʔalyeyˀ,rough
+299-408,sana1281,http://concepticon.clld.org/parameters/1234,alaʔaɬnayʔo,smooth
+299-347,sana1281,http://concepticon.clld.org/parameters/1396,was,sharp
+299-747,sana1281,http://concepticon.clld.org/parameters/1396,akma hamtek,sharp
+299-13,sana1281,http://concepticon.clld.org/parameters/1396,akmahamet,sharp
+299-216,sana1281,http://concepticon.clld.org/parameters/379,mepke hamtek,"blunt, dull"
+299-1332,sana1281,http://concepticon.clld.org/parameters/1210,akyemtaɬnama,heavy
+299-160,sana1281,http://concepticon.clld.org/parameters/1210,tok,heavy
+299-133,sana1281,http://concepticon.clld.org/parameters/1052,ayeɬyawayˀ,light (in weight)
+299-249,sana1281,http://concepticon.clld.org/parameters/1052,akyepyawaykamˀ,light (in weight)
+299-707,sana1281,http://concepticon.clld.org/parameters/1726,akyeesamoo,"wet, damp"
+299-1028,sana1281,http://concepticon.clld.org/parameters/1398,akyamayˀ,dry
+299-1086,sana1281,http://concepticon.clld.org/parameters/1398,akyamaskama,dry
+299-511,sana1281,http://concepticon.clld.org/parameters/1286,eeko,hot
+299-873,sana1281,http://concepticon.clld.org/parameters/1286,koh,hot
+299-859,sana1281,http://concepticon.clld.org/parameters/1286,akmakhetmoo,hot
+299-23,sana1281,http://concepticon.clld.org/parameters/1286,akmeɬanma,hot
+299-599,sana1281,http://concepticon.clld.org/parameters/1232,yaam akmakhetmoo,warm
+299-843,sana1281,http://concepticon.clld.org/parameters/1287,eekey,cold
+299-1297,sana1281,http://concepticon.clld.org/parameters/1287,key,cold
+299-465,sana1281,http://concepticon.clld.org/parameters/1287,akmaɬkeemoo,cold
+299-59,sana1281,http://concepticon.clld.org/parameters/704,ayaʔaɬnayʔo,clean
+299-127,sana1281,http://concepticon.clld.org/parameters/704,akmopoyˀ,clean
+299-204,sana1281,http://concepticon.clld.org/parameters/1230,haɬ,"dirty, soiled"
+299-1004,sana1281,http://concepticon.clld.org/parameters/1230,akpaasyaamˀ,"dirty, soiled"
+299-64,sana1281,http://concepticon.clld.org/parameters/380,akyaʔsaekɬaʔ,wrinkled
+299-1015,sana1281,http://concepticon.clld.org/parameters/380,akpeɬnanma,wrinkled
+299-821,sana1281,http://concepticon.clld.org/parameters/53,neŋwanmoŋkama,"soul, spirit"
+299-1336,sana1281,http://concepticon.clld.org/parameters/1572,akpelapkeskamoo,"surprised, astonished"
+299-167,sana1281,http://concepticon.clld.org/parameters/720,neŋmaseewe,"good fortune, luck"
+299-943,sana1281,http://concepticon.clld.org/parameters/56,moŋmaseewe,"misfortune, bad luck"
+299-786,sana1281,http://concepticon.clld.org/parameters/1495,neŋetsawaskama,"joyful, glad, happy"
+299-113,sana1281,http://concepticon.clld.org/parameters/1355,neŋekteŋmaykamˀ,laugh
+299-115,sana1281,http://concepticon.clld.org/parameters/1451,neŋekteŋmaycamˀ,smile
+299-952,sana1281,http://concepticon.clld.org/parameters/1413,neŋnaywoom,play
+299-1381,sana1281,http://concepticon.clld.org/parameters/923,akleklamoo eŋwaʔɬok,love
+299-1070,sana1281,http://concepticon.clld.org/parameters/578,nempetsesma,kiss
+299-1023,sana1281,http://concepticon.clld.org/parameters/928,nempathetma,embrace
+299-1071,sana1281,http://concepticon.clld.org/parameters/1783,akmaska,pain
+299-548,sana1281,http://concepticon.clld.org/parameters/1783,akmaska eŋyempehek,pain
+299-1332,sana1281,http://concepticon.clld.org/parameters/1668,akyemtaɬnama,"grief, sorrow, sadness"
+299-285,sana1281,http://concepticon.clld.org/parameters/1000,aktamhaykamˀ eŋwaʔɬok,"anxiety, worry"
+299-1440,sana1281,http://concepticon.clld.org/parameters/1875,yawseek aŋelaanohoʔ,"regret, be sorry"
+299-1440,sana1281,http://concepticon.clld.org/parameters/1141,yawseek aŋelaanohoʔ,pity
+299-406,sana1281,http://concepticon.clld.org/parameters/1839,neŋweenama,"cry, weep"
+299-719,sana1281,http://concepticon.clld.org/parameters/1839,neŋyapkaɬeem,"cry, weep"
+299-1338,sana1281,http://concepticon.clld.org/parameters/1651,eŋaʔte-yeŋmenek,tear (noun)
+299-175,sana1281,http://concepticon.clld.org/parameters/716,neŋelekɬaŋwoom,groan
+299-1135,sana1281,http://concepticon.clld.org/parameters/1607,neŋaʔankeem,hate
+299-317,sana1281,http://concepticon.clld.org/parameters/82,neŋlom,anger
+299-1112,sana1281,http://concepticon.clld.org/parameters/40,neŋyaasepkeskama,"envy, jealousy"
+299-675,sana1281,http://concepticon.clld.org/parameters/1776,neŋmaŋkaktama,shame (noun)
+299-1273,sana1281,http://concepticon.clld.org/parameters/174,neŋahammaɬkoo,proud
+299-1393,sana1281,http://concepticon.clld.org/parameters/1779,moŋelmenayˀ,dare
+299-1393,sana1281,http://concepticon.clld.org/parameters/3,moŋelmenayˀ,brave
+299-279,sana1281,http://concepticon.clld.org/parameters/781,neŋayˀ,"fear, fright"
+299-1016,sana1281,http://concepticon.clld.org/parameters/1810,neŋayʔakɬaʔ,danger
+299-1278,sana1281,http://concepticon.clld.org/parameters/1784,neŋelteemoo,"desire, want"
+299-698,sana1281,http://concepticon.clld.org/parameters/1784,nempekheeykamˀ,"desire, want"
+299-1017,sana1281,http://concepticon.clld.org/parameters/1750,neŋelyakyeeskama,choose
+299-324,sana1281,http://concepticon.clld.org/parameters/1750,nempoŋkanma,choose
+299-54,sana1281,http://concepticon.clld.org/parameters/1092,neŋelhaɬanma,hope
+299-107,sana1281,http://concepticon.clld.org/parameters/100,neŋelenɬaanyamˀ,faithful
+299-1185,sana1281,http://concepticon.clld.org/parameters/1657,eŋaŋkooʔ,true
+299-1061,sana1281,http://concepticon.clld.org/parameters/1657,naʔsooʔ,true
+299-179,sana1281,http://concepticon.clld.org/parameters/601,neŋyemnemkeskama,"lie, tell lies"
+299-179,sana1281,http://concepticon.clld.org/parameters/13,neŋyemnemkeskama,deceit
+299-135,sana1281,http://concepticon.clld.org/parameters/1528,neŋaasekhaekɬoo,forgive
+299-535,sana1281,http://concepticon.clld.org/parameters/1035,sas,good
+299-1091,sana1281,http://concepticon.clld.org/parameters/1035,aktaʔmalma,good
+299-1003,sana1281,http://concepticon.clld.org/parameters/1035,aktaʔmela,good
+299-1221,sana1281,http://concepticon.clld.org/parameters/1292,neŋmasom,bad
+299-749,sana1281,http://concepticon.clld.org/parameters/1725,akpeywomoo,"right, correct"
+299-197,sana1281,http://concepticon.clld.org/parameters/1725,akpayheemoo,"right, correct"
+299-292,sana1281,http://concepticon.clld.org/parameters/1390,kalpayheemoo,wrong
+299-1255,sana1281,http://concepticon.clld.org/parameters/1390,yaʔpak,wrong
+299-1100,sana1281,http://concepticon.clld.org/parameters/134,nenseɬnanaŋkama,fault
+299-161,sana1281,http://concepticon.clld.org/parameters/1293,nenɬeŋaanyamˀ,"mistake, error"
+299-1100,sana1281,http://concepticon.clld.org/parameters/381,nenseɬnanaŋkama,blame
+299-207,sana1281,http://concepticon.clld.org/parameters/1687,nempaayeeskamoo,praise
+299-535,sana1281,http://concepticon.clld.org/parameters/1427,sas,beautiful
+299-829,sana1281,http://concepticon.clld.org/parameters/1427,atso,beautiful
+299-1423,sana1281,http://concepticon.clld.org/parameters/1427,seŋaspaekɬoo,beautiful
+299-17,sana1281,http://concepticon.clld.org/parameters/1548,akmasom,ugly
+299-1147,sana1281,http://concepticon.clld.org/parameters/1548,kalpaʔanmaykamˀ,ugly
+299-1031,sana1281,http://concepticon.clld.org/parameters/2018,maases eyaasepsek pook,greedy
+299-933,sana1281,http://concepticon.clld.org/parameters/2018,sentom,greedy
+299-692,sana1281,http://concepticon.clld.org/parameters/1310,neŋmowaan,clever
+299-540,sana1281,http://concepticon.clld.org/parameters/1310,aɬaataʔaok,clever
+299-1056,sana1281,http://concepticon.clld.org/parameters/1562,akyetnaykamˀ eŋaʔtek,mind
+299-1056,sana1281,http://concepticon.clld.org/parameters/1415,akyetnaykamˀ eŋaʔtek,think (= reflect)
+299-1105,sana1281,http://concepticon.clld.org/parameters/1513,neŋaneem,think (= be of the opinion)
+299-414,sana1281,http://concepticon.clld.org/parameters/1513,keʔeslaʔa,think (= be of the opinion)
+299-1399,sana1281,http://concepticon.clld.org/parameters/1513,ayanaek,think (= be of the opinion)
+299-684,sana1281,http://concepticon.clld.org/parameters/1890,nentemeskeskama naʔsooʔ,believe
+299-1432,sana1281,http://concepticon.clld.org/parameters/1536,neŋyaʔaskamkoo,understand
+299-692,sana1281,http://concepticon.clld.org/parameters/1410,neŋmowaan,know
+299-1432,sana1281,http://concepticon.clld.org/parameters/1410,neŋyaʔaskamkoo,know
+299-727,sana1281,http://concepticon.clld.org/parameters/1932,nenɬaanma,guess
+299-764,sana1281,http://concepticon.clld.org/parameters/1932,nempeyweeykamkoo,guess
+299-286,sana1281,http://concepticon.clld.org/parameters/117,neŋwahaneeykaok,imitate
+299-293,sana1281,http://concepticon.clld.org/parameters/117,neŋyetseeykaok,imitate
+299-1038,sana1281,http://concepticon.clld.org/parameters/1521,akyetseeykaok,seem
+299-1225,sana1281,http://concepticon.clld.org/parameters/1521,akmoo,seem
+299-1056,sana1281,http://concepticon.clld.org/parameters/1609,akyetnaykamˀ eŋaʔtek,"idea, notion"
+299-14,sana1281,http://concepticon.clld.org/parameters/698,akma neŋyaʔaskamkoo,wise
+299-964,sana1281,http://concepticon.clld.org/parameters/1518,yaamsekaʔa,"foolish, stupid"
+299-853,sana1281,http://concepticon.clld.org/parameters/1899,ayaneem,"insane, crazy"
+299-1042,sana1281,http://concepticon.clld.org/parameters/504,neŋyaʔseŋweyaamˀ,learn
+299-211,sana1281,http://concepticon.clld.org/parameters/1929,nenteŋyayˀ neŋyaʔseŋweyaamˀ,study
+299-766,sana1281,http://concepticon.clld.org/parameters/709,nenɬekmooskama,teach
+299-1020,sana1281,http://concepticon.clld.org/parameters/753,[alumnos],pupil
+299-1224,sana1281,http://concepticon.clld.org/parameters/753,teŋyayˀ-amyaʔa,pupil
+299-85,sana1281,http://concepticon.clld.org/parameters/1038,[maestro],teacher
+299-327,sana1281,http://concepticon.clld.org/parameters/1038,kelyepseteem-ensekaʔa,teacher
+299-381,sana1281,http://concepticon.clld.org/parameters/673,[eskweela],school
+299-1134,sana1281,http://concepticon.clld.org/parameters/707,neŋyaʔseŋwaekɬoo,remember
+299-578,sana1281,http://concepticon.clld.org/parameters/1523,seŋelwaŋkeyaamˀ,forget
+299-772,sana1281,http://concepticon.clld.org/parameters/989,kasakɬooʔ,"clear, plain"
+299-204,sana1281,http://concepticon.clld.org/parameters/1764,haɬ,obscure
+299-651,sana1281,http://concepticon.clld.org/parameters/1764,moŋyaʔaskaok,obscure
+299-651,sana1281,http://concepticon.clld.org/parameters/1121,moŋyaʔaskaok,secret
+299-1289,sana1281,http://concepticon.clld.org/parameters/1121,neŋyeɬammaɬkaʔ,secret
+299-1061,sana1281,http://concepticon.clld.org/parameters/509,naʔsooʔ,"sure, certain"
+299-1410,sana1281,http://concepticon.clld.org/parameters/509,haawe ŋyaʔpak,"sure, certain"
+299-912,sana1281,http://concepticon.clld.org/parameters/1626,neŋeltemnaaskaok,explain
+299-1056,sana1281,http://concepticon.clld.org/parameters/1162,akyetnaykamˀ eŋaʔtek,"intention, purpose"
+299-1348,sana1281,http://concepticon.clld.org/parameters/860,ayenyemayʔakɬaʔ,cause
+299-1001,sana1281,http://concepticon.clld.org/parameters/1308,neŋyaʔaskeyaamˀ,doubt
+299-230,sana1281,http://concepticon.clld.org/parameters/1308,neŋenatkeskama,doubt
+299-1350,sana1281,http://concepticon.clld.org/parameters/1841,ayayʔo eŋneenyek,suspect
+299-1421,sana1281,http://concepticon.clld.org/parameters/1902,nentawaaskekɬaʔ eŋmook,betray
+299-687,sana1281,http://concepticon.clld.org/parameters/643,ayaymommaɬkaʔ,"need, necessity"
+299-704,sana1281,http://concepticon.clld.org/parameters/643,ayaymaaɬkeɬaʔ,"need, necessity"
+299-133,sana1281,http://concepticon.clld.org/parameters/686,ayeɬyawayˀ,easy
+299-58,sana1281,http://concepticon.clld.org/parameters/686,kamanyeheme,easy
+299-433,sana1281,http://concepticon.clld.org/parameters/584,yemteɬeʔ,difficult
+299-1332,sana1281,http://concepticon.clld.org/parameters/584,akyemtaɬnama,difficult
+299-1150,sana1281,http://concepticon.clld.org/parameters/1812,neŋyepkoonma,"try, attempt"
+299-205,sana1281,http://concepticon.clld.org/parameters/488,akteemakɬaʔ,"way, manner"
+299-951,sana1281,http://concepticon.clld.org/parameters/1577,nahan,and
+299-1029,sana1281,http://concepticon.clld.org/parameters/1577,taan nahan,and
+299-721,sana1281,http://concepticon.clld.org/parameters/1577,nataamen nahan,and
+299-629,sana1281,http://concepticon.clld.org/parameters/1157,ayenyemayˀ,because
+299-895,sana1281,http://concepticon.clld.org/parameters/1157,ayenyemʔa,because
+299-924,sana1281,http://concepticon.clld.org/parameters/1459,temeʔ,if
+299-1237,sana1281,http://concepticon.clld.org/parameters/1459,kataʔmela,if
+299-97,sana1281,http://concepticon.clld.org/parameters/1459,katnekɬeheʔ,if
+299-312,sana1281,http://concepticon.clld.org/parameters/1014,ɬoykelaʔa,or
+299-570,sana1281,http://concepticon.clld.org/parameters/1268,eehe,"yes, affirmative"
+299-1083,sana1281,http://concepticon.clld.org/parameters/1268,heeyˀ,"yes, affirmative"
+299-137,sana1281,http://concepticon.clld.org/parameters/1269,paex,"no, negative"
+299-1354,sana1281,http://concepticon.clld.org/parameters/1269,haaweʔ,"no, negative"
+299-264,sana1281,http://concepticon.clld.org/parameters/1239,koho,how?
+299-153,sana1281,http://concepticon.clld.org/parameters/1239,ko ɬaʔa,how?
+299-664,sana1281,http://concepticon.clld.org/parameters/1239,ɬaʔ akteema,how?
+299-1438,sana1281,http://concepticon.clld.org/parameters/1239,ɬaʔa mˀaa ye,how?
+299-852,sana1281,http://concepticon.clld.org/parameters/822,(ko) ɬaʔ akwaamˀ,how many?
+299-852,sana1281,http://concepticon.clld.org/parameters/531,(ko) ɬaʔ akwaamˀ,how much?
+299-1076,sana1281,http://concepticon.clld.org/parameters/531,(ko) ɬaʔ aknoo,how much?
+299-1390,sana1281,http://concepticon.clld.org/parameters/1236,sok ke,what?
+299-628,sana1281,http://concepticon.clld.org/parameters/1236,sok ɬaʔa ye,what?
+299-1153,sana1281,http://concepticon.clld.org/parameters/1236,ɬaʔa ye,what?
+299-264,sana1281,http://concepticon.clld.org/parameters/1237,koho,where?
+299-153,sana1281,http://concepticon.clld.org/parameters/1237,ko ɬaʔa,where?
+299-738,sana1281,http://concepticon.clld.org/parameters/1237,(ko) ɬaʔa mˀa,where?
+299-1085,sana1281,http://concepticon.clld.org/parameters/1237,(ko) ɬaʔ akpayhoo,where?
+299-837,sana1281,http://concepticon.clld.org/parameters/1237,(ko) ɬaʔ akyetna,where?
+299-1390,sana1281,http://concepticon.clld.org/parameters/727,sok ke,which?
+299-628,sana1281,http://concepticon.clld.org/parameters/727,sok ɬaʔa ye,which?
+299-1153,sana1281,http://concepticon.clld.org/parameters/727,ɬaʔa ye,which?
+299-612,sana1281,http://concepticon.clld.org/parameters/727,(sok) ɬaʔ akteema ye,which?
+299-1390,sana1281,http://concepticon.clld.org/parameters/1235,sok ke,who?
+299-628,sana1281,http://concepticon.clld.org/parameters/1235,sok ɬaʔa ye,who?
+299-1153,sana1281,http://concepticon.clld.org/parameters/1235,ɬaʔa ye,who?
+299-555,sana1281,http://concepticon.clld.org/parameters/1270,(sok) ɬaʔ aktamha ye,why?
+299-776,sana1281,http://concepticon.clld.org/parameters/1270,naakˀa (ɬaʔa),why?
+299-737,sana1281,http://concepticon.clld.org/parameters/1270,(sok) ɬaʔ ayenyemˀa ye,why?
+299-927,sana1281,http://concepticon.clld.org/parameters/1363,eŋyespok,voice
+299-355,sana1281,http://concepticon.clld.org/parameters/1363,nempaywaam,voice
+299-1037,sana1281,http://concepticon.clld.org/parameters/1261,neŋmenaekmaskama,sing
+299-542,sana1281,http://concepticon.clld.org/parameters/715,neŋweeneeykamˀ,"shout, cry out"
+299-524,sana1281,http://concepticon.clld.org/parameters/55,neŋmalyawaykamˀ,whisper
+299-1392,sana1281,http://concepticon.clld.org/parameters/1025,neŋmowheeykamˀ,whistle
+299-1111,sana1281,http://concepticon.clld.org/parameters/298,neŋweheskamˀ,"shriek, screech"
+299-542,sana1281,http://concepticon.clld.org/parameters/526,neŋweeneeykamˀ,howl
+299-1282,sana1281,http://concepticon.clld.org/parameters/1623,neŋelyaataykamˀ,"speak, talk"
+299-80,sana1281,http://concepticon.clld.org/parameters/1866,akwaŋkapaykaok nempaywaam,"stutter, stammer"
+299-727,sana1281,http://concepticon.clld.org/parameters/1458,nenɬaanma,say
+299-1343,sana1281,http://concepticon.clld.org/parameters/1458,nentemeem,say
+299-851,sana1281,http://concepticon.clld.org/parameters/1711,neŋeltemnaykamˀ,tell story
+299-727,sana1281,http://concepticon.clld.org/parameters/1711,nenɬaanma,tell story
+299-851,sana1281,http://concepticon.clld.org/parameters/1115,neŋeltemnaykamˀ,speech (make a)
+299-821,sana1281,http://concepticon.clld.org/parameters/48,neŋwanmoŋkama,silent (be)
+299-355,sana1281,http://concepticon.clld.org/parameters/1307,nempaywaam,language
+299-355,sana1281,http://concepticon.clld.org/parameters/1599,nempaywaam,word
+299-802,sana1281,http://concepticon.clld.org/parameters/1405,neŋweseyˀ,name
+299-1130,sana1281,http://concepticon.clld.org/parameters/1309,neŋelmaɬnaykamˀ,"ask (question, inquire)"
+299-473,sana1281,http://concepticon.clld.org/parameters/1275,neŋaateŋmaykamˀ,answer
+299-727,sana1281,http://concepticon.clld.org/parameters/2022,nenɬaanma,"admit, confess"
+299-1130,sana1281,http://concepticon.clld.org/parameters/1828,neŋelmaɬnaykamˀ,"ask, request"
+299-727,sana1281,http://concepticon.clld.org/parameters/1675,nenɬaanma,promise
+299-94,sana1281,http://concepticon.clld.org/parameters/49,neŋyeeŋaekɬaʔ,refuse
+299-1033,sana1281,http://concepticon.clld.org/parameters/83,neŋmasma,forbid
+299-777,sana1281,http://concepticon.clld.org/parameters/299,neŋlawseeykamˀ,"rebuke, scold"
+299-750,sana1281,http://concepticon.clld.org/parameters/299,neŋaaskama,"rebuke, scold"
+299-860,sana1281,http://concepticon.clld.org/parameters/1084,neŋeewayˀ,call (=summon)
+299-542,sana1281,http://concepticon.clld.org/parameters/1084,neŋweeneeykamˀ,call (=summon)
+299-802,sana1281,http://concepticon.clld.org/parameters/180,neŋweseyˀ,call (=name)
+299-961,sana1281,http://concepticon.clld.org/parameters/180,molteem,call (=name)
+299-552,sana1281,http://concepticon.clld.org/parameters/9,neŋeltemnaskama,announce
+299-932,sana1281,http://concepticon.clld.org/parameters/1192,neŋaaseeykamˀ,threaten
+299-1206,sana1281,http://concepticon.clld.org/parameters/1672,nentaaɬooskama,write
+299-686,sana1281,http://concepticon.clld.org/parameters/1672,neŋelkahaskama,write
+299-151,sana1281,http://concepticon.clld.org/parameters/724,neŋelyepseteem,read
+299-401,sana1281,http://concepticon.clld.org/parameters/648,waetkaʔhak,paper
+299-598,sana1281,http://concepticon.clld.org/parameters/794,[laapes],pen
+299-401,sana1281,http://concepticon.clld.org/parameters/963,waetkaʔhak,book
+299-223,sana1281,http://concepticon.clld.org/parameters/777,yaamaamok,flute
+299-233,sana1281,http://concepticon.clld.org/parameters/908,wayka,drum
+299-571,sana1281,http://concepticon.clld.org/parameters/908,[wompo],drum
+299-86,sana1281,http://concepticon.clld.org/parameters/2136,neŋwatnapma waʔɬok,"horn, trumpet"
+299-306,sana1281,http://concepticon.clld.org/parameters/300,kaapketkok,rattle
+299-1178,sana1281,http://concepticon.clld.org/parameters/1300,neŋaokɬaʔ,country
+299-1178,sana1281,http://concepticon.clld.org/parameters/89,neŋaokɬaʔ,one's native country
+299-848,sana1281,http://concepticon.clld.org/parameters/1391,teŋma,"city, town"
+299-109,sana1281,http://concepticon.clld.org/parameters/1391,teŋma pwaanyamˀ,"city, town"
+299-848,sana1281,http://concepticon.clld.org/parameters/930,teŋma,village
+299-308,sana1281,http://concepticon.clld.org/parameters/930,naateŋma,village
+299-1109,sana1281,http://concepticon.clld.org/parameters/930,apmooɬama,village
+299-57,sana1281,http://concepticon.clld.org/parameters/1010,neeɬa (neŋaokɬaʔ),boundary
+299-1074,sana1281,http://concepticon.clld.org/parameters/789,enɬet,people (populace)
+299-848,sana1281,http://concepticon.clld.org/parameters/789,teŋma,people (populace)
+299-1109,sana1281,http://concepticon.clld.org/parameters/789,apmooɬama,people (populace)
+299-1109,sana1281,http://concepticon.clld.org/parameters/302,apmooɬama,"tribe, clan"
+299-1364,sana1281,http://concepticon.clld.org/parameters/302,eŋnaʔaymakok,"tribe, clan"
+299-262,sana1281,http://concepticon.clld.org/parameters/301,apweskeʔ,"chief, chieftain"
+299-590,sana1281,http://concepticon.clld.org/parameters/301,apkemha-pmamyeʔ,"chief, chieftain"
+299-653,sana1281,http://concepticon.clld.org/parameters/1296,neŋelɬaaɬmaʔa,"staff, walking stick"
+299-262,sana1281,http://concepticon.clld.org/parameters/383,apweskeʔ,master
+299-400,sana1281,http://concepticon.clld.org/parameters/383,awtep,master
+299-587,sana1281,http://concepticon.clld.org/parameters/1128,neŋaapahaskama,"command, order"
+299-1105,sana1281,http://concepticon.clld.org/parameters/1128,neŋaneem,"command, order"
+299-282,sana1281,http://concepticon.clld.org/parameters/1635,neŋelyahaykekɬoo,obey
+299-311,sana1281,http://concepticon.clld.org/parameters/1003,neŋayʔo,"let, permit"
+299-338,sana1281,http://concepticon.clld.org/parameters/1325,nenɬaaɬma,"friend, companion"
+299-640,sana1281,http://concepticon.clld.org/parameters/1325,nentemeeme eŋmook,"friend, companion"
+299-1441,sana1281,http://concepticon.clld.org/parameters/1358,katnaha eŋmook,enemy
+299-652,sana1281,http://concepticon.clld.org/parameters/1332,neŋmooɬama,neighbor
+299-334,sana1281,http://concepticon.clld.org/parameters/791,neŋwayˀ,stranger
+299-1347,sana1281,http://concepticon.clld.org/parameters/791,neŋnayˀ,stranger
+299-1419,sana1281,http://concepticon.clld.org/parameters/1782,maykaʔa,guest
+299-1178,sana1281,http://concepticon.clld.org/parameters/1545,neŋaokɬaʔ,host
+299-822,sana1281,http://concepticon.clld.org/parameters/1897,nempasmoom,"help, aid"
+299-757,sana1281,http://concepticon.clld.org/parameters/1550,neŋelyaʔaskama ɬmaʔ,"hinder, prevent"
+299-421,sana1281,http://concepticon.clld.org/parameters/1747,nenteemakɬaʔ,custom
+299-833,sana1281,http://concepticon.clld.org/parameters/1848,neŋelaateŋmommaɬkaʔ,"strife, quarrel"
+299-378,sana1281,http://concepticon.clld.org/parameters/1831,nentahanyayˀ,meet
+299-581,sana1281,http://concepticon.clld.org/parameters/1831,neŋwetaekɬaʔ,meet
+299-889,sana1281,http://concepticon.clld.org/parameters/1423,neŋelnaapommaɬkaʔ,fight (vb)
+299-1231,sana1281,http://concepticon.clld.org/parameters/579,kelnaapomaap,"war, battle"
+299-1288,sana1281,http://concepticon.clld.org/parameters/579,moktayˀ-pook,"war, battle"
+299-1328,sana1281,http://concepticon.clld.org/parameters/1561,seŋelpeɬteetamoo,army
+299-1328,sana1281,http://concepticon.clld.org/parameters/1941,seŋelpeɬteetamoo,soldier
+299-874,sana1281,http://concepticon.clld.org/parameters/1941,seese-pyettek,soldier
+299-635,sana1281,http://concepticon.clld.org/parameters/951,nempaʔweyaamˀ aŋkaʔaok,"weapons, arms"
+299-198,sana1281,http://concepticon.clld.org/parameters/1763,yohoŋ,club
+299-462,sana1281,http://concepticon.clld.org/parameters/1763,yaʔyeem-waahek,club
+299-1380,sana1281,http://concepticon.clld.org/parameters/387,wanteeta,sling
+299-1107,sana1281,http://concepticon.clld.org/parameters/994,peɬpaaʔaɬ,bow
+299-683,sana1281,http://concepticon.clld.org/parameters/977,yaʔaŋka,arrow
+299-452,sana1281,http://concepticon.clld.org/parameters/977,sooyaʔaŋka,arrow
+299-958,sana1281,http://concepticon.clld.org/parameters/945,heewa,spear
+299-196,sana1281,http://concepticon.clld.org/parameters/945,sowheewa,spear
+299-706,sana1281,http://concepticon.clld.org/parameters/1535,sawoʔ-kwenaʔteem,sword
+299-585,sana1281,http://concepticon.clld.org/parameters/1566,yenmoŋaam,"gun, cannon"
+299-1163,sana1281,http://concepticon.clld.org/parameters/783,neŋyephoŋwaekmoo,victory
+299-606,sana1281,http://concepticon.clld.org/parameters/782,neŋmeesma,defeat
+299-579,sana1281,http://concepticon.clld.org/parameters/722,neŋeenmoo,attack
+299-1033,sana1281,http://concepticon.clld.org/parameters/1330,neŋmasma,defend
+299-899,sana1281,http://concepticon.clld.org/parameters/421,neŋenyeem,retreat
+299-21,sana1281,http://concepticon.clld.org/parameters/1696,neŋelwaateeskama,surrender
+299-1276,sana1281,http://concepticon.clld.org/parameters/1072,neŋmommaɬkaʔ,"captive, prisoner"
+299-666,sana1281,http://concepticon.clld.org/parameters/1940,nentaʔmelkeskama,"guard, sentinel"
+299-6,sana1281,http://concepticon.clld.org/parameters/1022,neŋyamoŋkeɬma,"booty, spoils"
+299-623,sana1281,http://concepticon.clld.org/parameters/1858,teŋyayˀ-kelasma,fisherman
+299-245,sana1281,http://concepticon.clld.org/parameters/1074,sookhaɬeem,fishhook
+299-1424,sana1281,http://concepticon.clld.org/parameters/19,yamtaamaʔ,fishing line
+299-66,sana1281,http://concepticon.clld.org/parameters/388,yaamaʔyenˀ-yaamet,fishnet
+299-364,sana1281,http://concepticon.clld.org/parameters/1435,neŋnempaʔweyaamˀ,hunt
+299-389,sana1281,http://concepticon.clld.org/parameters/1172,neŋyenhaam,shoot
+299-1080,sana1281,http://concepticon.clld.org/parameters/1172,neŋelyaknayˀ,shoot
+299-480,sana1281,http://concepticon.clld.org/parameters/161,nentaatekpoŋaam,miss (target)
+299-1408,sana1281,http://concepticon.clld.org/parameters/1075,kelhaneem,trap (noun)
+299-921,sana1281,http://concepticon.clld.org/parameters/1170,neŋelhaneem,trap (vb)
+299-624,sana1281,http://concepticon.clld.org/parameters/1062,seŋaanamakɬaʔ,law
+299-727,sana1281,http://concepticon.clld.org/parameters/1818,nenɬaanma,judge (vb)
+299-1121,sana1281,http://concepticon.clld.org/parameters/1144,neŋwetaykamkoo,witness
+299-225,sana1281,http://concepticon.clld.org/parameters/1814,nentepkeskama apweseyˀ (eŋmook),accuse
+299-1367,sana1281,http://concepticon.clld.org/parameters/90,mepke nenteemakɬaʔ,innocent
+299-488,sana1281,http://concepticon.clld.org/parameters/1281,neŋmommaɬkeɬaʔ,"prison, jail"
+299-638,sana1281,http://concepticon.clld.org/parameters/845,neŋaʔheem,murder
+299-1257,sana1281,http://concepticon.clld.org/parameters/845,neŋelnapma,murder
+299-129,sana1281,http://concepticon.clld.org/parameters/902,nentawaskama kelwaanaʔa,adultery
+299-129,sana1281,http://concepticon.clld.org/parameters/953,nentawaskama kelwaanaʔa,rape
+299-404,sana1281,http://concepticon.clld.org/parameters/1792,neŋmowaanamyaʔa,perjury
+299-443,sana1281,http://concepticon.clld.org/parameters/713,neŋmenyeɬma,steal
+299-367,sana1281,http://concepticon.clld.org/parameters/1160,apmenyeɬmoo,thief
+299-463,sana1281,http://concepticon.clld.org/parameters/1944,[Tyos],God
+299-1308,sana1281,http://concepticon.clld.org/parameters/1944,eŋyaapam,God
+299-1401,sana1281,http://concepticon.clld.org/parameters/911,nempaywaam-ɬaŋkok,"temple, church"
+299-81,sana1281,http://concepticon.clld.org/parameters/257,neŋaʔnaekɬaʔ,worship
+299-1266,sana1281,http://concepticon.clld.org/parameters/24,neŋelmaɬnaŋkama,pray
+299-131,sana1281,http://concepticon.clld.org/parameters/852,soykamˀ-amyaʔa,priest
+299-621,sana1281,http://concepticon.clld.org/parameters/852,[paaʔe],priest
+299-271,sana1281,http://concepticon.clld.org/parameters/304,neŋeltemnaykamˀ [Tyos] apaywaam,preach
+299-1394,sana1281,http://concepticon.clld.org/parameters/391,neŋwaatekhapkeskama,bless
+299-914,sana1281,http://concepticon.clld.org/parameters/8,nentaamseeykamʔo ŋkasoomaʔ,curse
+299-235,sana1281,http://concepticon.clld.org/parameters/1565,[Tyos] apkaokɬaʔ,heaven
+299-1210,sana1281,http://concepticon.clld.org/parameters/878,kaspoonayʔakɬa-taaɬa,hell
+299-325,sana1281,http://concepticon.clld.org/parameters/1973,yaawey,demon (evil spirit)
+299-716,sana1281,http://concepticon.clld.org/parameters/1973,seŋyepkoonma,demon (evil spirit)
+299-692,sana1281,http://concepticon.clld.org/parameters/392,neŋmowaan,"magic, witchcraft, sorcery"
+299-74,sana1281,http://concepticon.clld.org/parameters/2137,apyohoɬmaʔ,"sorcerer, witch"
+299-1166,sana1281,http://concepticon.clld.org/parameters/1175,mowheem,"ghost, phantom"
+299-444,sana1281,http://concepticon.clld.org/parameters/107,neŋwetayakmoo,"omen, portent"

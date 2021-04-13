@@ -1,0 +1,1541 @@
+ID,Language_ID,Feature_ID,Value,Concept
+177-607,stan1289,http://concepticon.clld.org/parameters/965,món,world
+177-755,stan1289,http://concepticon.clld.org/parameters/626,terra,"earth, land"
+177-454,stan1289,http://concepticon.clld.org/parameters/1228,sòl,"earth=ground, soil"
+177-755,stan1289,http://concepticon.clld.org/parameters/1228,terra,"earth=ground, soil"
+177-606,stan1289,http://concepticon.clld.org/parameters/2,pols,dust
+177-577,stan1289,http://concepticon.clld.org/parameters/640,llot,mud
+177-961,stan1289,http://concepticon.clld.org/parameters/640,fang,mud
+177-7,stan1289,http://concepticon.clld.org/parameters/671,sorra,sand
+177-1067,stan1289,http://concepticon.clld.org/parameters/2118,muntanya,"mountain, hill"
+177-1013,stan1289,http://concepticon.clld.org/parameters/2118,puig,"mountain, hill"
+177-308,stan1289,http://concepticon.clld.org/parameters/2118,turó,"mountain, hill"
+177-920,stan1289,http://concepticon.clld.org/parameters/2118,pujol,"mountain, hill"
+177-1255,stan1289,http://concepticon.clld.org/parameters/618,precipici,"cliff, precipice"
+177-1376,stan1289,http://concepticon.clld.org/parameters/618,penya-segat,"cliff, precipice"
+177-307,stan1289,http://concepticon.clld.org/parameters/652,pla,"plain, field"
+177-842,stan1289,http://concepticon.clld.org/parameters/652,plana,"plain, field"
+177-174,stan1289,http://concepticon.clld.org/parameters/652,camp,"plain, field"
+177-791,stan1289,http://concepticon.clld.org/parameters/921,vall,valley
+177-1215,stan1289,http://concepticon.clld.org/parameters/622,illa,island
+177-1034,stan1289,http://concepticon.clld.org/parameters/166,continent,mainland
+177-1199,stan1289,http://concepticon.clld.org/parameters/113,litoral,shore
+177-314,stan1289,http://concepticon.clld.org/parameters/113,riba,shore
+177-660,stan1289,http://concepticon.clld.org/parameters/113,costa,shore
+177-752,stan1289,http://concepticon.clld.org/parameters/1155,cova,cave
+177-1054,stan1289,http://concepticon.clld.org/parameters/948,aigua,water
+177-451,stan1289,http://concepticon.clld.org/parameters/1474,mar,sea
+177-833,stan1289,http://concepticon.clld.org/parameters/258,calma,calm (of sea)
+177-1338,stan1289,http://concepticon.clld.org/parameters/259,agitat (mar),rough (of sea)
+177-832,stan1289,http://concepticon.clld.org/parameters/1768,escuma,foam
+177-296,stan1289,http://concepticon.clld.org/parameters/645,oceà,ocean
+177-799,stan1289,http://concepticon.clld.org/parameters/624,llac,lake
+177-928,stan1289,http://concepticon.clld.org/parameters/663,golf,"gulf, bay"
+177-1028,stan1289,http://concepticon.clld.org/parameters/663,badia,"gulf, bay"
+177-759,stan1289,http://concepticon.clld.org/parameters/623,llacuna,lagoon
+177-760,stan1289,http://concepticon.clld.org/parameters/660,escull,reef
+177-596,stan1289,http://concepticon.clld.org/parameters/1662,punta,"headland, point"
+177-1392,stan1289,http://concepticon.clld.org/parameters/1662,promontori,"headland, point"
+177-806,stan1289,http://concepticon.clld.org/parameters/978,onada,wave
+177-1225,stan1289,http://concepticon.clld.org/parameters/891,marea,tide
+177-126,stan1289,http://concepticon.clld.org/parameters/1026,marea baixa,lowtide
+177-1044,stan1289,http://concepticon.clld.org/parameters/613,marea altariu,hightide
+177-49,stan1289,http://concepticon.clld.org/parameters/666,riu,"river, stream, brook"
+177-198,stan1289,http://concepticon.clld.org/parameters/666,corrent,"river, stream, brook"
+177-1363,stan1289,http://concepticon.clld.org/parameters/666,riarol,"river, stream, brook"
+177-573,stan1289,http://concepticon.clld.org/parameters/1982,remolí,whirlpool
+177-65,stan1289,http://concepticon.clld.org/parameters/2144,manantial,"spring, well"
+177-611,stan1289,http://concepticon.clld.org/parameters/2144,pou,"spring, well"
+177-664,stan1289,http://concepticon.clld.org/parameters/1145,pantà,swamp
+177-645,stan1289,http://concepticon.clld.org/parameters/943,salt d'aigua,waterfall
+177-463,stan1289,http://concepticon.clld.org/parameters/943,cascada,waterfall
+177-309,stan1289,http://concepticon.clld.org/parameters/420,selva,"woods, forest"
+177-218,stan1289,http://concepticon.clld.org/parameters/420,bosc,"woods, forest"
+177-588,stan1289,http://concepticon.clld.org/parameters/906,arbre,tree (cf 08.600)
+177-694,stan1289,http://concepticon.clld.org/parameters/1803,fusta,wood
+177-8,stan1289,http://concepticon.clld.org/parameters/2125,pedra,"stone, rock"
+177-485,stan1289,http://concepticon.clld.org/parameters/2125,roca,"stone, rock"
+177-1282,stan1289,http://concepticon.clld.org/parameters/6,terratrèmol,earthquake
+177-864,stan1289,http://concepticon.clld.org/parameters/1732,cel,sky
+177-318,stan1289,http://concepticon.clld.org/parameters/1343,sol,sun
+177-905,stan1289,http://concepticon.clld.org/parameters/1313,lluna,moon
+177-944,stan1289,http://concepticon.clld.org/parameters/1430,estrella,star
+177-286,stan1289,http://concepticon.clld.org/parameters/1654,llampec,lightning
+177-1134,stan1289,http://concepticon.clld.org/parameters/1150,tro,thunder
+177-286,stan1289,http://concepticon.clld.org/parameters/2007,llampec,lightning (as striking)
+177-1131,stan1289,http://concepticon.clld.org/parameters/2007,llamp,lightning (as striking)
+177-938,stan1289,http://concepticon.clld.org/parameters/858,tempesta,storm
+177-1315,stan1289,http://concepticon.clld.org/parameters/858,tormenta,storm
+177-1121,stan1289,http://concepticon.clld.org/parameters/1733,arc de Sant Martí,rainbow
+177-978,stan1289,http://concepticon.clld.org/parameters/630,llum,light (noun)
+177-851,stan1289,http://concepticon.clld.org/parameters/11,foscor,darkness
+177-298,stan1289,http://concepticon.clld.org/parameters/11,tenebra,darkness
+177-1333,stan1289,http://concepticon.clld.org/parameters/1388,ombra,"shade, shadow"
+177-476,stan1289,http://concepticon.clld.org/parameters/1977,rosada,dew
+177-132,stan1289,http://concepticon.clld.org/parameters/27,aire,air
+177-1313,stan1289,http://concepticon.clld.org/parameters/960,vent,wind
+177-1316,stan1289,http://concepticon.clld.org/parameters/1489,núvol,cloud
+177-78,stan1289,http://concepticon.clld.org/parameters/249,boira,fog
+177-21,stan1289,http://concepticon.clld.org/parameters/658,pluja,rain (noun)
+177-26,stan1289,http://concepticon.clld.org/parameters/784,neu,snow (noun)
+177-571,stan1289,http://concepticon.clld.org/parameters/617,gel,ice
+177-1226,stan1289,http://concepticon.clld.org/parameters/952,temps,weather
+177-303,stan1289,http://concepticon.clld.org/parameters/221,foc,fire
+177-960,stan1289,http://concepticon.clld.org/parameters/889,flama,flame (noun)
+177-1003,stan1289,http://concepticon.clld.org/parameters/778,fum,smoke (noun)
+177-1385,stan1289,http://concepticon.clld.org/parameters/646,cendra,ashes
+177-924,stan1289,http://concepticon.clld.org/parameters/67,brases,embers
+177-704,stan1289,http://concepticon.clld.org/parameters/141,cremar,burn (vb trans)
+177-580,stan1289,http://concepticon.clld.org/parameters/1428,cremar-se,burn (vb intrans)
+177-269,stan1289,http://concepticon.clld.org/parameters/737,encendre,"light, kindle, ignite"
+177-505,stan1289,http://concepticon.clld.org/parameters/127,apagar,extinguish
+177-689,stan1289,http://concepticon.clld.org/parameters/1133,llumí,match (noun)
+177-867,stan1289,http://concepticon.clld.org/parameters/10,llenya,firewood
+177-351,stan1289,http://concepticon.clld.org/parameters/1188,carbó,charcoal
+177-659,stan1289,http://concepticon.clld.org/parameters/683,persona,"person, human being"
+177-1280,stan1289,http://concepticon.clld.org/parameters/683,ésser humà,"person, human being"
+177-1391,stan1289,http://concepticon.clld.org/parameters/1554,home,man (vs. woman)
+177-892,stan1289,http://concepticon.clld.org/parameters/962,dona,woman
+177-77,stan1289,http://concepticon.clld.org/parameters/2263,mascle,male
+177-396,stan1289,http://concepticon.clld.org/parameters/2260,femella,female
+177-478,stan1289,http://concepticon.clld.org/parameters/1366,noi,boy
+177-786,stan1289,http://concepticon.clld.org/parameters/1366,nano,boy
+177-403,stan1289,http://concepticon.clld.org/parameters/76,noi jove,young man (adolescent)
+177-1416,stan1289,http://concepticon.clld.org/parameters/76,adolescent,young man (adolescent)
+177-425,stan1289,http://concepticon.clld.org/parameters/1646,noia,girl
+177-362,stan1289,http://concepticon.clld.org/parameters/77,noia jove,young woman (adolescent)
+177-1416,stan1289,http://concepticon.clld.org/parameters/77,adolescent,young woman (adolescent)
+177-22,stan1289,http://concepticon.clld.org/parameters/1304,nen,child
+177-22,stan1289,http://concepticon.clld.org/parameters/1289,nen,"infant, baby"
+177-370,stan1289,http://concepticon.clld.org/parameters/1289,bebè,"infant, baby"
+177-853,stan1289,http://concepticon.clld.org/parameters/1289,infant,"infant, baby"
+177-164,stan1289,http://concepticon.clld.org/parameters/1200,marit,husband
+177-868,stan1289,http://concepticon.clld.org/parameters/1200,espòs,husband
+177-118,stan1289,http://concepticon.clld.org/parameters/1199,muller,wife
+177-328,stan1289,http://concepticon.clld.org/parameters/1199,esposa,wife
+177-1029,stan1289,http://concepticon.clld.org/parameters/203,casar-se,marry
+177-1076,stan1289,http://concepticon.clld.org/parameters/1259,casament,"marriage, wedding"
+177-1151,stan1289,http://concepticon.clld.org/parameters/1259,boda,"marriage, wedding"
+177-898,stan1289,http://concepticon.clld.org/parameters/1134,divorci,divorce
+177-906,stan1289,http://concepticon.clld.org/parameters/1217,pare,father
+177-620,stan1289,http://concepticon.clld.org/parameters/1216,mare,mother
+177-1079,stan1289,http://concepticon.clld.org/parameters/505,pares,parents
+177-1146,stan1289,http://concepticon.clld.org/parameters/424,home casat,married man
+177-1042,stan1289,http://concepticon.clld.org/parameters/426,dona casada,married woman
+177-744,stan1289,http://concepticon.clld.org/parameters/1620,fill,son
+177-549,stan1289,http://concepticon.clld.org/parameters/1357,filla,daughter
+177-744,stan1289,http://concepticon.clld.org/parameters/1801,fill,offspring (son or daughter)
+177-549,stan1289,http://concepticon.clld.org/parameters/1801,filla,offspring (son or daughter)
+177-731,stan1289,http://concepticon.clld.org/parameters/1262,germà,brother
+177-1074,stan1289,http://concepticon.clld.org/parameters/1759,germà gran,older brother
+177-411,stan1289,http://concepticon.clld.org/parameters/1760,germà petit,younger brother
+177-165,stan1289,http://concepticon.clld.org/parameters/1263,germana,sister
+177-876,stan1289,http://concepticon.clld.org/parameters/1758,germana gran,older sister
+177-186,stan1289,http://concepticon.clld.org/parameters/1761,germana petita,younger sister
+177-731,stan1289,http://concepticon.clld.org/parameters/1640,germà,sibling
+177-165,stan1289,http://concepticon.clld.org/parameters/1640,germana,sibling
+177-71,stan1289,http://concepticon.clld.org/parameters/1005,bessons,twins
+177-1341,stan1289,http://concepticon.clld.org/parameters/1383,avi,grandfather
+177-1245,stan1289,http://concepticon.clld.org/parameters/406,home vell,old man
+177-1155,stan1289,http://concepticon.clld.org/parameters/406,senyor gran,old man
+177-236,stan1289,http://concepticon.clld.org/parameters/1496,àvia,grandmother
+177-1423,stan1289,http://concepticon.clld.org/parameters/907,dona vella,old woman
+177-400,stan1289,http://concepticon.clld.org/parameters/907,senyora gran,old woman
+177-1031,stan1289,http://concepticon.clld.org/parameters/1618,nét,grandson
+177-288,stan1289,http://concepticon.clld.org/parameters/1619,néta,granddaughter
+177-373,stan1289,http://concepticon.clld.org/parameters/1327,oncle,uncle
+177-544,stan1289,http://concepticon.clld.org/parameters/1984,germà de la mare,mother's brother
+177-650,stan1289,http://concepticon.clld.org/parameters/1985,germà del pare,father's brother
+177-683,stan1289,http://concepticon.clld.org/parameters/1272,tia,aunt
+177-86,stan1289,http://concepticon.clld.org/parameters/171,germana de la mare,mother's sister
+177-1022,stan1289,http://concepticon.clld.org/parameters/170,germana del pare,father's sister
+177-717,stan1289,http://concepticon.clld.org/parameters/1063,nebot,nephew
+177-846,stan1289,http://concepticon.clld.org/parameters/1642,neboda,niece
+177-896,stan1289,http://concepticon.clld.org/parameters/1643,cosí,cousin
+177-626,stan1289,http://concepticon.clld.org/parameters/1643,cosina,cousin
+177-372,stan1289,http://concepticon.clld.org/parameters/1669,avantpassats,ancestors
+177-497,stan1289,http://concepticon.clld.org/parameters/490,descendents,descendants
+177-1288,stan1289,http://concepticon.clld.org/parameters/2255,sogre d'un home,father-in-law (of a man)
+177-412,stan1289,http://concepticon.clld.org/parameters/2254,sogre d'una dona,father-in-law (of a woman)
+177-774,stan1289,http://concepticon.clld.org/parameters/2256,sogra d'un home,mother-in-law (of a man)
+177-1209,stan1289,http://concepticon.clld.org/parameters/2257,sogra d'una dona,mother-in-law (of a woman)
+177-295,stan1289,http://concepticon.clld.org/parameters/2267,gendre d'un home,son-in-law (of a man)
+177-912,stan1289,http://concepticon.clld.org/parameters/2266,gendre d'una dona,son-in-law (of a woman)
+177-908,stan1289,http://concepticon.clld.org/parameters/2265,jove d'un home,daughter-in-law (of a man)
+177-390,stan1289,http://concepticon.clld.org/parameters/2265,nora d'un home,daughter-in-law (of a man)
+177-1274,stan1289,http://concepticon.clld.org/parameters/2264,jove d'una dona,daughter-in-law (of a woman)
+177-1144,stan1289,http://concepticon.clld.org/parameters/2264,nora d'una dona,daughter-in-law (of a woman)
+177-975,stan1289,http://concepticon.clld.org/parameters/237,padrastre,stepfather
+177-18,stan1289,http://concepticon.clld.org/parameters/236,madrastra,stepmother
+177-141,stan1289,http://concepticon.clld.org/parameters/1059,fillastre,stepson
+177-142,stan1289,http://concepticon.clld.org/parameters/1058,fillastra,stepdaughter
+177-625,stan1289,http://concepticon.clld.org/parameters/1149,orfe,orphan
+177-1167,stan1289,http://concepticon.clld.org/parameters/1149,òrfena,orphan
+177-931,stan1289,http://concepticon.clld.org/parameters/1756,vídua,widow
+177-1374,stan1289,http://concepticon.clld.org/parameters/1981,vidu,widower
+177-237,stan1289,http://concepticon.clld.org/parameters/1644,parents,"relatives, kinsmen"
+177-1432,stan1289,http://concepticon.clld.org/parameters/194,família,family
+177-598,stan1289,http://concepticon.clld.org/parameters/1209,jo,I
+177-765,stan1289,http://concepticon.clld.org/parameters/1215,tu,you (singular)
+177-460,stan1289,http://concepticon.clld.org/parameters/1215,vostè,you (singular)
+177-52,stan1289,http://concepticon.clld.org/parameters/262,ell/ ella/ allò,he/she/it
+177-1368,stan1289,http://concepticon.clld.org/parameters/1212,nosaltres,we
+177-1368,stan1289,http://concepticon.clld.org/parameters/1131,nosaltres,we (inclusive)
+177-1368,stan1289,http://concepticon.clld.org/parameters/1130,nosaltres,we (exclusive)
+177-840,stan1289,http://concepticon.clld.org/parameters/1213,vosaltres,you (plural)
+177-259,stan1289,http://concepticon.clld.org/parameters/817,ells,they
+177-1098,stan1289,http://concepticon.clld.org/parameters/817,elles,they
+177-1189,stan1289,http://concepticon.clld.org/parameters/619,animal,animal
+177-77,stan1289,http://concepticon.clld.org/parameters/2261,mascle,male (adj)
+177-396,stan1289,http://concepticon.clld.org/parameters/2262,femella,female (adj)
+177-647,stan1289,http://concepticon.clld.org/parameters/631,bestiar,livestock
+177-688,stan1289,http://concepticon.clld.org/parameters/649,pastura,pasture
+177-1085,stan1289,http://concepticon.clld.org/parameters/263,pastor,herdsman
+177-112,stan1289,http://concepticon.clld.org/parameters/851,estable,"stable, stall"
+177-647,stan1289,http://concepticon.clld.org/parameters/1153,bestiar,cattle (bovine)
+177-221,stan1289,http://concepticon.clld.org/parameters/1008,brau,bull
+177-406,stan1289,http://concepticon.clld.org/parameters/1169,bou,ox
+177-1252,stan1289,http://concepticon.clld.org/parameters/1007,vaca,cow
+177-1139,stan1289,http://concepticon.clld.org/parameters/1989,vedell,calf
+177-684,stan1289,http://concepticon.clld.org/parameters/1331,ovella,sheep
+177-1037,stan1289,http://concepticon.clld.org/parameters/1344,marrà,ram
+177-684,stan1289,http://concepticon.clld.org/parameters/1345,ovella,ewe
+177-270,stan1289,http://concepticon.clld.org/parameters/820,anyell,lamb
+177-883,stan1289,http://concepticon.clld.org/parameters/1348,porc senglar,boar
+177-1184,stan1289,http://concepticon.clld.org/parameters/1351,truja,sow (2)
+177-391,stan1289,http://concepticon.clld.org/parameters/1337,porc,pig
+177-492,stan1289,http://concepticon.clld.org/parameters/1502,cabra,goat
+177-751,stan1289,http://concepticon.clld.org/parameters/264,cabró,he-goat
+177-413,stan1289,http://concepticon.clld.org/parameters/1972,cabrit,kid
+177-1127,stan1289,http://concepticon.clld.org/parameters/615,cavall,horse (equine)
+177-147,stan1289,http://concepticon.clld.org/parameters/936,semental,stallion
+177-1127,stan1289,http://concepticon.clld.org/parameters/936,cavall,stallion
+177-1422,stan1289,http://concepticon.clld.org/parameters/938,euga,mare
+177-1267,stan1289,http://concepticon.clld.org/parameters/1647,poltre,"foal, colt"
+177-886,stan1289,http://concepticon.clld.org/parameters/1862,ase,"ass, donkey"
+177-726,stan1289,http://concepticon.clld.org/parameters/1862,burro,"ass, donkey"
+177-792,stan1289,http://concepticon.clld.org/parameters/890,mula,mule
+177-742,stan1289,http://concepticon.clld.org/parameters/265,au,fowl
+177-917,stan1289,http://concepticon.clld.org/parameters/1511,gall,"cock, rooster"
+177-1229,stan1289,http://concepticon.clld.org/parameters/1514,gallina,hen
+177-563,stan1289,http://concepticon.clld.org/parameters/1318,pollastre,chicken
+177-1156,stan1289,http://concepticon.clld.org/parameters/1187,oca,goose
+177-384,stan1289,http://concepticon.clld.org/parameters/1360,ànec,duck
+177-263,stan1289,http://concepticon.clld.org/parameters/539,niu,nest
+177-597,stan1289,http://concepticon.clld.org/parameters/937,ocell,bird
+177-100,stan1289,http://concepticon.clld.org/parameters/950,gavina,seagull
+177-446,stan1289,http://concepticon.clld.org/parameters/758,bernat pescaire,heron
+177-1182,stan1289,http://concepticon.clld.org/parameters/1905,àliga,eagle
+177-986,stan1289,http://concepticon.clld.org/parameters/307,falcó,hawk
+177-863,stan1289,http://concepticon.clld.org/parameters/1185,voltor,vulture
+177-515,stan1289,http://concepticon.clld.org/parameters/1793,rat-penat,bat
+177-818,stan1289,http://concepticon.clld.org/parameters/882,lloro,parrot
+177-305,stan1289,http://concepticon.clld.org/parameters/913,corb,crow
+177-616,stan1289,http://concepticon.clld.org/parameters/1853,colom,dove
+177-728,stan1289,http://concepticon.clld.org/parameters/735,mussol,owl
+177-106,stan1289,http://concepticon.clld.org/parameters/2009,gos,dog
+177-472,stan1289,http://concepticon.clld.org/parameters/1136,conill,rabbit
+177-992,stan1289,http://concepticon.clld.org/parameters/1208,gat,cat
+177-110,stan1289,http://concepticon.clld.org/parameters/309,opòssum,opossum
+177-2,stan1289,http://concepticon.clld.org/parameters/2139,ratolí,"mouse, rat"
+177-783,stan1289,http://concepticon.clld.org/parameters/2139,rata,"mouse, rat"
+177-1355,stan1289,http://concepticon.clld.org/parameters/227,peix,fish
+177-1200,stan1289,http://concepticon.clld.org/parameters/213,aleta,fin (dorsal)
+177-1339,stan1289,http://concepticon.clld.org/parameters/266,escata,fishscale
+177-440,stan1289,http://concepticon.clld.org/parameters/1916,ganya,gill
+177-1126,stan1289,http://concepticon.clld.org/parameters/598,closca,shell
+177-1235,stan1289,http://concepticon.clld.org/parameters/598,clofolla,shell
+177-1069,stan1289,http://concepticon.clld.org/parameters/598,petxina,shell
+177-1327,stan1289,http://concepticon.clld.org/parameters/1110,tauró,shark
+177-583,stan1289,http://concepticon.clld.org/parameters/1479,dolfí,"porpoise, dolphin"
+177-119,stan1289,http://concepticon.clld.org/parameters/957,balena,whale
+177-723,stan1289,http://concepticon.clld.org/parameters/1910,escurçada,stingray
+177-797,stan1289,http://concepticon.clld.org/parameters/1910,ferrassa,stingray
+177-75,stan1289,http://concepticon.clld.org/parameters/1910,milà,stingray
+177-1253,stan1289,http://concepticon.clld.org/parameters/1013,anguila d'aigua dolça,freshwater eel
+177-576,stan1289,http://concepticon.clld.org/parameters/522,llop,wolf
+177-1154,stan1289,http://concepticon.clld.org/parameters/1386,lleó,lion
+177-167,stan1289,http://concepticon.clld.org/parameters/1820,ós,bear
+177-963,stan1289,http://concepticon.clld.org/parameters/1312,guineu,fox
+177-381,stan1289,http://concepticon.clld.org/parameters/1936,cèrvol,deer
+177-602,stan1289,http://concepticon.clld.org/parameters/1350,mono,monkey
+177-255,stan1289,http://concepticon.clld.org/parameters/1290,elefant,elephant
+177-1405,stan1289,http://concepticon.clld.org/parameters/1871,camell,camel
+177-182,stan1289,http://concepticon.clld.org/parameters/620,insecte,insect
+177-618,stan1289,http://concepticon.clld.org/parameters/310,poll,louse
+177-962,stan1289,http://concepticon.clld.org/parameters/267,llémena,nit (louse egg)
+177-1113,stan1289,http://concepticon.clld.org/parameters/232,puça,flea
+177-1407,stan1289,http://concepticon.clld.org/parameters/1974,centpeus,centipede
+177-716,stan1289,http://concepticon.clld.org/parameters/1538,escorpí,scorpion
+177-416,stan1289,http://concepticon.clld.org/parameters/1575,escarabat,cockroach
+177-1057,stan1289,http://concepticon.clld.org/parameters/587,formiga,ant
+177-507,stan1289,http://concepticon.clld.org/parameters/843,aranya,spider
+177-226,stan1289,http://concepticon.clld.org/parameters/1065,teranyina,spider web
+177-162,stan1289,http://concepticon.clld.org/parameters/665,abella,bee
+177-560,stan1289,http://concepticon.clld.org/parameters/1931,cera d'abella,beeswax
+177-732,stan1289,http://concepticon.clld.org/parameters/88,rusc,beehive
+177-636,stan1289,http://concepticon.clld.org/parameters/1517,vespa,wasp
+177-745,stan1289,http://concepticon.clld.org/parameters/1504,mosca,fly
+177-1336,stan1289,http://concepticon.clld.org/parameters/95,mosquit,"sandfly (midge), gnat"
+177-1152,stan1289,http://concepticon.clld.org/parameters/95,cuïc,"sandfly (midge), gnat"
+177-738,stan1289,http://concepticon.clld.org/parameters/95,marfull,"sandfly (midge), gnat"
+177-932,stan1289,http://concepticon.clld.org/parameters/95,rantell,"sandfly (midge), gnat"
+177-951,stan1289,http://concepticon.clld.org/parameters/95,moscard,"sandfly (midge), gnat"
+177-1336,stan1289,http://concepticon.clld.org/parameters/1509,mosquit,mosquito
+177-1039,stan1289,http://concepticon.clld.org/parameters/1219,cuc,worm
+177-527,stan1289,http://concepticon.clld.org/parameters/730,serp,snake
+177-120,stan1289,http://concepticon.clld.org/parameters/206,lluerna,firefly
+177-1228,stan1289,http://concepticon.clld.org/parameters/206,cuca de llum,firefly
+177-1077,stan1289,http://concepticon.clld.org/parameters/1791,papallona,butterfly
+177-676,stan1289,http://concepticon.clld.org/parameters/607,llagosta,grasshopper
+177-486,stan1289,http://concepticon.clld.org/parameters/1543,cargol,snail
+177-436,stan1289,http://concepticon.clld.org/parameters/503,granota,frog
+177-338,stan1289,http://concepticon.clld.org/parameters/632,llangardaix,lizard
+177-858,stan1289,http://concepticon.clld.org/parameters/1857,cocodril,"crocodile, alligator"
+177-1025,stan1289,http://concepticon.clld.org/parameters/112,tortuga,turtle
+177-219,stan1289,http://concepticon.clld.org/parameters/1480,cos,body
+177-1063,stan1289,http://concepticon.clld.org/parameters/763,pell,"skin, hide"
+177-500,stan1289,http://concepticon.clld.org/parameters/2259,carn,flesh
+177-415,stan1289,http://concepticon.clld.org/parameters/1040,cabell,hair (head)
+177-522,stan1289,http://concepticon.clld.org/parameters/678,barba,beard
+177-1082,stan1289,http://concepticon.clld.org/parameters/189,pèl,body hair
+177-211,stan1289,http://concepticon.clld.org/parameters/36,pèl púbic,pubic hair
+177-313,stan1289,http://concepticon.clld.org/parameters/576,caspa,dandruff
+177-776,stan1289,http://concepticon.clld.org/parameters/946,sang,blood
+177-1317,stan1289,http://concepticon.clld.org/parameters/525,vena,"vein, artery"
+177-490,stan1289,http://concepticon.clld.org/parameters/525,artèria,"vein, artery"
+177-709,stan1289,http://concepticon.clld.org/parameters/1394,os,bone
+177-96,stan1289,http://concepticon.clld.org/parameters/801,costella,rib
+177-397,stan1289,http://concepticon.clld.org/parameters/1393,banya,horn
+177-238,stan1289,http://concepticon.clld.org/parameters/1220,cua,tail
+177-662,stan1289,http://concepticon.clld.org/parameters/1291,esquena,back
+177-346,stan1289,http://concepticon.clld.org/parameters/805,espinada,spine
+177-430,stan1289,http://concepticon.clld.org/parameters/1256,cap,head
+177-1065,stan1289,http://concepticon.clld.org/parameters/1604,temple,"side of head, temple"
+177-1086,stan1289,http://concepticon.clld.org/parameters/1605,crani,skull
+177-194,stan1289,http://concepticon.clld.org/parameters/1605,calavera,skull
+177-1302,stan1289,http://concepticon.clld.org/parameters/1583,cervell,brain
+177-502,stan1289,http://concepticon.clld.org/parameters/1560,cara,face
+177-1205,stan1289,http://concepticon.clld.org/parameters/123,front,forehead
+177-3,stan1289,http://concepticon.clld.org/parameters/798,mandíbula,jaw
+177-171,stan1289,http://concepticon.clld.org/parameters/1730,galta,cheek
+177-271,stan1289,http://concepticon.clld.org/parameters/1510,barbeta,chin
+177-435,stan1289,http://concepticon.clld.org/parameters/1248,ull,eye
+177-1425,stan1289,http://concepticon.clld.org/parameters/1173,cella,eyebrow
+177-1093,stan1289,http://concepticon.clld.org/parameters/17,parpell,eyelid
+177-214,stan1289,http://concepticon.clld.org/parameters/1540,pestanya,eyelash
+177-865,stan1289,http://concepticon.clld.org/parameters/1655,parpellejar,blink
+177-808,stan1289,http://concepticon.clld.org/parameters/1247,orella,ear
+177-1430,stan1289,http://concepticon.clld.org/parameters/18,lòbul (d'orella),earlobe
+177-687,stan1289,http://concepticon.clld.org/parameters/32,cera (d'orella),earwax
+177-1102,stan1289,http://concepticon.clld.org/parameters/1221,nas,nose
+177-595,stan1289,http://concepticon.clld.org/parameters/1178,forat del nas,nostril
+177-1172,stan1289,http://concepticon.clld.org/parameters/1178,nariu,nostril
+177-1097,stan1289,http://concepticon.clld.org/parameters/208,mocs,mucus (nasal)
+177-392,stan1289,http://concepticon.clld.org/parameters/674,boca,mouth
+177-1247,stan1289,http://concepticon.clld.org/parameters/73,bec,beak
+177-570,stan1289,http://concepticon.clld.org/parameters/478,llavi,lip
+177-339,stan1289,http://concepticon.clld.org/parameters/1205,llengua,tongue
+177-1269,stan1289,http://concepticon.clld.org/parameters/1380,dent,tooth
+177-1018,stan1289,http://concepticon.clld.org/parameters/139,genives,gums
+177-877,stan1289,http://concepticon.clld.org/parameters/1049,queixal,molartooth
+177-470,stan1289,http://concepticon.clld.org/parameters/1333,coll,neck
+177-578,stan1289,http://concepticon.clld.org/parameters/1347,clatell,nape of neck
+177-927,stan1289,http://concepticon.clld.org/parameters/1346,gola,throat
+177-1180,stan1289,http://concepticon.clld.org/parameters/1482,espatlla,shoulder
+177-114,stan1289,http://concepticon.clld.org/parameters/172,omòplat,shoulderblade
+177-159,stan1289,http://concepticon.clld.org/parameters/1994,clavícula,collarbone
+177-802,stan1289,http://concepticon.clld.org/parameters/1673,braç,arm
+177-499,stan1289,http://concepticon.clld.org/parameters/1886,aixella,armpit
+177-1381,stan1289,http://concepticon.clld.org/parameters/981,colze,elbow
+177-1137,stan1289,http://concepticon.clld.org/parameters/799,canyell,wrist
+177-493,stan1289,http://concepticon.clld.org/parameters/1277,mà,hand
+177-1094,stan1289,http://concepticon.clld.org/parameters/1183,palma de la mà,palm of hand
+177-385,stan1289,http://concepticon.clld.org/parameters/1303,dit,finger
+177-1239,stan1289,http://concepticon.clld.org/parameters/1781,polze,thumb
+177-10,stan1289,http://concepticon.clld.org/parameters/1781,dit gros,thumb
+177-594,stan1289,http://concepticon.clld.org/parameters/1258,ungla,fingernail
+177-1435,stan1289,http://concepticon.clld.org/parameters/72,urpa,claw
+177-176,stan1289,http://concepticon.clld.org/parameters/1297,cama,leg
+177-181,stan1289,http://concepticon.clld.org/parameters/800,cuixa,thigh
+177-749,stan1289,http://concepticon.clld.org/parameters/498,panxell,calf of leg
+177-1211,stan1289,http://concepticon.clld.org/parameters/1371,genoll,knee
+177-361,stan1289,http://concepticon.clld.org/parameters/1301,peu,foot
+177-410,stan1289,http://concepticon.clld.org/parameters/803,turmell,ankle
+177-1212,stan1289,http://concepticon.clld.org/parameters/980,taló,heel
+177-1091,stan1289,http://concepticon.clld.org/parameters/318,petjada,footprint
+177-1398,stan1289,http://concepticon.clld.org/parameters/1389,dit del peu,toe
+177-762,stan1289,http://concepticon.clld.org/parameters/1257,ala,wing
+177-562,stan1289,http://concepticon.clld.org/parameters/1201,pluma,feather
+177-1429,stan1289,http://concepticon.clld.org/parameters/1592,pit,chest
+177-1429,stan1289,http://concepticon.clld.org/parameters/1402,pit,breast (of woman)
+177-193,stan1289,http://concepticon.clld.org/parameters/796,mugró,"nipple, teat"
+177-1072,stan1289,http://concepticon.clld.org/parameters/796,tetina,"nipple, teat"
+177-363,stan1289,http://concepticon.clld.org/parameters/154,mamella,udder
+177-1004,stan1289,http://concepticon.clld.org/parameters/1838,melic,navel
+177-220,stan1289,http://concepticon.clld.org/parameters/1223,cor,heart
+177-345,stan1289,http://concepticon.clld.org/parameters/688,pulmó,lung
+177-98,stan1289,http://concepticon.clld.org/parameters/1224,fetge,liver
+177-937,stan1289,http://concepticon.clld.org/parameters/489,ronyó,kidney
+177-802,stan1289,http://concepticon.clld.org/parameters/1744,braç,spleen
+177-482,stan1289,http://concepticon.clld.org/parameters/819,estómac,stomach
+177-145,stan1289,http://concepticon.clld.org/parameters/1991,intestins,"intestines, guts"
+177-1064,stan1289,http://concepticon.clld.org/parameters/1681,cintura,waist
+177-1415,stan1289,http://concepticon.clld.org/parameters/1745,cadera,hip
+177-681,stan1289,http://concepticon.clld.org/parameters/1745,maluc,hip
+177-835,stan1289,http://concepticon.clld.org/parameters/834,natja,buttocks
+177-1216,stan1289,http://concepticon.clld.org/parameters/804,matriu,womb
+177-448,stan1289,http://concepticon.clld.org/parameters/797,testicle,testicle
+177-1171,stan1289,http://concepticon.clld.org/parameters/1222,penis,penis
+177-487,stan1289,http://concepticon.clld.org/parameters/1407,respirar,"breathe, breath"
+177-41,stan1289,http://concepticon.clld.org/parameters/1407,alè,"breathe, breath"
+177-1378,stan1289,http://concepticon.clld.org/parameters/1028,badallar,"yawn, gape"
+177-474,stan1289,http://concepticon.clld.org/parameters/162,singlot,hiccough
+177-1207,stan1289,http://concepticon.clld.org/parameters/879,tossir,cough
+177-740,stan1289,http://concepticon.clld.org/parameters/1621,esternudar,sneeze
+177-6,stan1289,http://concepticon.clld.org/parameters/126,suar,perspire
+177-1354,stan1289,http://concepticon.clld.org/parameters/1440,escopir,spit
+177-1,stan1289,http://concepticon.clld.org/parameters/1278,vomitar,vomit
+177-1297,stan1289,http://concepticon.clld.org/parameters/1403,mossegar,bite
+177-566,stan1289,http://concepticon.clld.org/parameters/319,llepar,lick
+177-989,stan1289,http://concepticon.clld.org/parameters/268,gotejar,dribble
+177-722,stan1289,http://concepticon.clld.org/parameters/1585,dormir,sleep
+177-443,stan1289,http://concepticon.clld.org/parameters/1983,roncar,snore
+177-1294,stan1289,http://concepticon.clld.org/parameters/1920,somiar,dream
+177-657,stan1289,http://concepticon.clld.org/parameters/1602,despertar-se,wake up
+177-730,stan1289,http://concepticon.clld.org/parameters/1159,flato,break wind
+177-138,stan1289,http://concepticon.clld.org/parameters/592,orinar,urinate
+177-1372,stan1289,http://concepticon.clld.org/parameters/676,defecar,defecate
+177-69,stan1289,http://concepticon.clld.org/parameters/1785,fer l'amor,have sexual intercourse
+177-1349,stan1289,http://concepticon.clld.org/parameters/1785,tenir relacions sexuals,have sexual intercourse
+177-913,stan1289,http://concepticon.clld.org/parameters/52,tremolar,shiver
+177-1321,stan1289,http://concepticon.clld.org/parameters/138,banyar-se,bathe
+177-827,stan1289,http://concepticon.clld.org/parameters/1152,engendrar,beget (of father)
+177-1123,stan1289,http://concepticon.clld.org/parameters/1090,néixer,born (to be)
+177-1307,stan1289,http://concepticon.clld.org/parameters/1090,nascut,born (to be)
+177-491,stan1289,http://concepticon.clld.org/parameters/1123,prenyada,pregnant
+177-1304,stan1289,http://concepticon.clld.org/parameters/1123,embarassada,pregnant
+177-94,stan1289,http://concepticon.clld.org/parameters/1123,en estat,pregnant
+177-733,stan1289,http://concepticon.clld.org/parameters/1087,concebre,conceive
+177-761,stan1289,http://concepticon.clld.org/parameters/1422,viure,"live, living, life"
+177-1370,stan1289,http://concepticon.clld.org/parameters/1422,vida,"live, living, life"
+177-1210,stan1289,http://concepticon.clld.org/parameters/1494,morir,"die, dead"
+177-812,stan1289,http://concepticon.clld.org/parameters/1494,mort,"die, dead"
+177-1260,stan1289,http://concepticon.clld.org/parameters/1904,ofegat,drowned
+177-103,stan1289,http://concepticon.clld.org/parameters/1417,matar,kill
+177-1041,stan1289,http://concepticon.clld.org/parameters/767,cadàver,corpse
+177-272,stan1289,http://concepticon.clld.org/parameters/1719,enterrar,bury (the dead)
+177-1124,stan1289,http://concepticon.clld.org/parameters/1773,tomba,"grave, tomb"
+177-334,stan1289,http://concepticon.clld.org/parameters/785,fort,"strong, mighty, powerful"
+177-239,stan1289,http://concepticon.clld.org/parameters/785,poderós,"strong, mighty, powerful"
+177-943,stan1289,http://concepticon.clld.org/parameters/1601,dèbil,weak
+177-404,stan1289,http://concepticon.clld.org/parameters/1364,sà,"well, health"
+177-947,stan1289,http://concepticon.clld.org/parameters/1364,salut,"well, health"
+177-622,stan1289,http://concepticon.clld.org/parameters/1847,malalt,"sick, sickness"
+177-880,stan1289,http://concepticon.clld.org/parameters/1847,malaltia,"sick, sickness"
+177-1263,stan1289,http://concepticon.clld.org/parameters/1534,febre,fever
+177-27,stan1289,http://concepticon.clld.org/parameters/1957,gota,goiter
+177-1075,stan1289,http://concepticon.clld.org/parameters/102,refredat,cold (catarrh)
+177-225,stan1289,http://concepticon.clld.org/parameters/102,constipat,cold (catarrh)
+177-23,stan1289,http://concepticon.clld.org/parameters/1109,ferida,"wound, sore"
+177-249,stan1289,http://concepticon.clld.org/parameters/1109,llaga,"wound, sore"
+177-1446,stan1289,http://concepticon.clld.org/parameters/1148,contusió,bruise
+177-1071,stan1289,http://concepticon.clld.org/parameters/1903,inflamor,swelling
+177-1411,stan1289,http://concepticon.clld.org/parameters/148,sarna,itch
+177-758,stan1289,http://concepticon.clld.org/parameters/1584,butllofa,blister
+177-1400,stan1289,http://concepticon.clld.org/parameters/793,furóncol,boil (noun)
+177-888,stan1289,http://concepticon.clld.org/parameters/1808,pus,pus
+177-1380,stan1289,http://concepticon.clld.org/parameters/497,cicatriu,scar
+177-805,stan1289,http://concepticon.clld.org/parameters/499,curar,"cure, heal"
+177-654,stan1289,http://concepticon.clld.org/parameters/597,doctor,physician
+177-1007,stan1289,http://concepticon.clld.org/parameters/597,metge,physician
+177-1412,stan1289,http://concepticon.clld.org/parameters/1372,medecina,"medicine, drug"
+177-128,stan1289,http://concepticon.clld.org/parameters/655,verí,poison
+177-565,stan1289,http://concepticon.clld.org/parameters/1757,cansat,"tired, weary"
+177-794,stan1289,http://concepticon.clld.org/parameters/168,descansar,rest
+177-224,stan1289,http://concepticon.clld.org/parameters/1564,mandrós,lazy
+177-47,stan1289,http://concepticon.clld.org/parameters/1125,calb,bald
+177-166,stan1289,http://concepticon.clld.org/parameters/320,coix,lame
+177-20,stan1289,http://concepticon.clld.org/parameters/320,esguerrat,lame
+177-1170,stan1289,http://concepticon.clld.org/parameters/996,sord,deaf
+177-208,stan1289,http://concepticon.clld.org/parameters/1666,mut,mute
+177-651,stan1289,http://concepticon.clld.org/parameters/1653,cec,blind
+177-203,stan1289,http://concepticon.clld.org/parameters/1463,ebri,intoxicated
+177-365,stan1289,http://concepticon.clld.org/parameters/590,despullat,"naked, bare"
+177-353,stan1289,http://concepticon.clld.org/parameters/590,nu,"naked, bare"
+177-189,stan1289,http://concepticon.clld.org/parameters/1336,menjar,eat
+177-189,stan1289,http://concepticon.clld.org/parameters/256,menjar,food
+177-533,stan1289,http://concepticon.clld.org/parameters/269,cuit,cooked
+177-949,stan1289,http://concepticon.clld.org/parameters/1959,cru,raw
+177-480,stan1289,http://concepticon.clld.org/parameters/178,madur,ripe
+177-771,stan1289,http://concepticon.clld.org/parameters/1958,verd,"green, unripe"
+177-1224,stan1289,http://concepticon.clld.org/parameters/1958,immadur,"green, unripe"
+177-234,stan1289,http://concepticon.clld.org/parameters/1728,podrit,rotten
+177-407,stan1289,http://concepticon.clld.org/parameters/1401,beure,drink
+177-1120,stan1289,http://concepticon.clld.org/parameters/1533,gana,hunger
+177-772,stan1289,http://concepticon.clld.org/parameters/199,fam,famine
+177-953,stan1289,http://concepticon.clld.org/parameters/848,set,thirst
+177-1404,stan1289,http://concepticon.clld.org/parameters/1421,xuclar,suck
+177-19,stan1289,http://concepticon.clld.org/parameters/321,mastegar,chew
+177-99,stan1289,http://concepticon.clld.org/parameters/897,empassar-se,swallow
+177-122,stan1289,http://concepticon.clld.org/parameters/129,sofocar-se,choke
+177-584,stan1289,http://concepticon.clld.org/parameters/129,ennuegar-se,choke
+177-29,stan1289,http://concepticon.clld.org/parameters/1100,cuinar,cook
+177-553,stan1289,http://concepticon.clld.org/parameters/792,bullir,boil (vb)
+177-300,stan1289,http://concepticon.clld.org/parameters/2146,rostir,"roast, fry"
+177-589,stan1289,http://concepticon.clld.org/parameters/2146,fregir,"roast, fry"
+177-803,stan1289,http://concepticon.clld.org/parameters/183,cuinar al forn,bake
+177-541,stan1289,http://concepticon.clld.org/parameters/1143,forn,oven
+177-1347,stan1289,http://concepticon.clld.org/parameters/1462,cassola,"pot, cooking vessel"
+177-976,stan1289,http://concepticon.clld.org/parameters/1462,olla,"pot, cooking vessel"
+177-699,stan1289,http://concepticon.clld.org/parameters/854,bullidor,kettle
+177-1347,stan1289,http://concepticon.clld.org/parameters/31,cassola,pan
+177-921,stan1289,http://concepticon.clld.org/parameters/481,plat,dish
+177-921,stan1289,http://concepticon.clld.org/parameters/480,plat,plate
+177-409,stan1289,http://concepticon.clld.org/parameters/1530,bol,bowl
+177-34,stan1289,http://concepticon.clld.org/parameters/270,gerro,"pitcher, jug"
+177-35,stan1289,http://concepticon.clld.org/parameters/270,gerra,"pitcher, jug"
+177-1438,stan1289,http://concepticon.clld.org/parameters/476,tassa,"cup, drinking vessel"
+177-254,stan1289,http://concepticon.clld.org/parameters/271,platet,saucer
+177-665,stan1289,http://concepticon.clld.org/parameters/1378,cullera,spoon
+177-1048,stan1289,http://concepticon.clld.org/parameters/1352,ganivet,knife (2)
+177-72,stan1289,http://concepticon.clld.org/parameters/1302,forquilla,fork (2)
+177-1234,stan1289,http://concepticon.clld.org/parameters/272,pinces,tongs
+177-189,stan1289,http://concepticon.clld.org/parameters/1526,menjar,meal (a)
+177-488,stan1289,http://concepticon.clld.org/parameters/1322,esmorzar,breakfast
+177-1362,stan1289,http://concepticon.clld.org/parameters/768,dinar,lunch
+177-1322,stan1289,http://concepticon.clld.org/parameters/1833,sopar,dinner
+177-1322,stan1289,http://concepticon.clld.org/parameters/1833,sopar,supper
+177-92,stan1289,http://concepticon.clld.org/parameters/275,pelar,peel
+177-593,stan1289,http://concepticon.clld.org/parameters/86,escórrer,"sieve, strain"
+177-281,stan1289,http://concepticon.clld.org/parameters/1767,gratar,scrape
+177-815,stan1289,http://concepticon.clld.org/parameters/2017,remenar,"stir, mix"
+177-537,stan1289,http://concepticon.clld.org/parameters/2017,barrejar,"stir, mix"
+177-985,stan1289,http://concepticon.clld.org/parameters/1368,pa,bread
+177-543,stan1289,http://concepticon.clld.org/parameters/273,massa,dough
+177-652,stan1289,http://concepticon.clld.org/parameters/274,pastar,knead
+177-327,stan1289,http://concepticon.clld.org/parameters/1594,farina,"meal, flour"
+177-326,stan1289,http://concepticon.clld.org/parameters/1033,aixafar,"crush, grind"
+177-968,stan1289,http://concepticon.clld.org/parameters/1033,moldre,"crush, grind"
+177-315,stan1289,http://concepticon.clld.org/parameters/636,molí,mill
+177-848,stan1289,http://concepticon.clld.org/parameters/224,morter,mortar (2)
+177-1359,stan1289,http://concepticon.clld.org/parameters/225,mà de morter,pestle
+177-500,stan1289,http://concepticon.clld.org/parameters/634,carn,meat
+177-352,stan1289,http://concepticon.clld.org/parameters/1874,salsitxa,sausage
+177-1353,stan1289,http://concepticon.clld.org/parameters/1547,sopa,"soup, broth"
+177-646,stan1289,http://concepticon.clld.org/parameters/1547,brou,"soup, broth"
+177-233,stan1289,http://concepticon.clld.org/parameters/924,llegums,vegetables
+177-109,stan1289,http://concepticon.clld.org/parameters/832,fava,bean
+177-737,stan1289,http://concepticon.clld.org/parameters/593,patata,potato
+177-526,stan1289,http://concepticon.clld.org/parameters/1507,fruita,fruit
+177-1056,stan1289,http://concepticon.clld.org/parameters/1966,manat,bunch
+177-12,stan1289,http://concepticon.clld.org/parameters/322,figa,fig
+177-1088,stan1289,http://concepticon.clld.org/parameters/920,raïm,grape
+177-481,stan1289,http://concepticon.clld.org/parameters/191,nou,nut
+177-427,stan1289,http://concepticon.clld.org/parameters/1154,oliva,olive
+177-297,stan1289,http://concepticon.clld.org/parameters/1484,oli,oil
+177-444,stan1289,http://concepticon.clld.org/parameters/323,grassa,"grease, fat"
+177-501,stan1289,http://concepticon.clld.org/parameters/323,greix,"grease, fat"
+177-232,stan1289,http://concepticon.clld.org/parameters/1274,sal,salt
+177-861,stan1289,http://concepticon.clld.org/parameters/1385,pebre,pepper
+177-942,stan1289,http://concepticon.clld.org/parameters/919,bitxo,chili pepper
+177-28,stan1289,http://concepticon.clld.org/parameters/942,mel,honey
+177-1332,stan1289,http://concepticon.clld.org/parameters/862,sucre,sugar
+177-1194,stan1289,http://concepticon.clld.org/parameters/635,llet,milk (noun)
+177-1312,stan1289,http://concepticon.clld.org/parameters/93,munyir,milk (vb)
+177-48,stan1289,http://concepticon.clld.org/parameters/1569,formatge,cheese
+177-845,stan1289,http://concepticon.clld.org/parameters/1245,mantega,butter
+177-127,stan1289,http://concepticon.clld.org/parameters/1245,mantequilla,butter
+177-1135,stan1289,http://concepticon.clld.org/parameters/731,beguda,"beverage, drink"
+177-753,stan1289,http://concepticon.clld.org/parameters/941,aiguamel,mead
+177-813,stan1289,http://concepticon.clld.org/parameters/1524,vi,wine
+177-895,stan1289,http://concepticon.clld.org/parameters/1639,cervesa,beer
+177-1279,stan1289,http://concepticon.clld.org/parameters/404,beguda fermentada,fermented drink
+177-708,stan1289,http://concepticon.clld.org/parameters/744,ou,egg
+177-627,stan1289,http://concepticon.clld.org/parameters/1556,rovell d'ou,egg yolk
+177-974,stan1289,http://concepticon.clld.org/parameters/158,vestir-se,put on (clothes)
+177-434,stan1289,http://concepticon.clld.org/parameters/1895,roba,"clothing, clothes"
+177-433,stan1289,http://concepticon.clld.org/parameters/881,sastre,tailor
+177-434,stan1289,http://concepticon.clld.org/parameters/1616,roba,cloth
+177-43,stan1289,http://concepticon.clld.org/parameters/1616,tela,cloth
+177-1006,stan1289,http://concepticon.clld.org/parameters/964,llana,wool
+177-366,stan1289,http://concepticon.clld.org/parameters/916,lli,"linen, flax"
+177-632,stan1289,http://concepticon.clld.org/parameters/1850,cotó,cotton
+177-68,stan1289,http://concepticon.clld.org/parameters/1641,seda,silk
+177-837,stan1289,http://concepticon.clld.org/parameters/325,feltre,felt
+177-1063,stan1289,http://concepticon.clld.org/parameters/580,pell,fur
+177-531,stan1289,http://concepticon.clld.org/parameters/629,cuir,leather
+177-11,stan1289,http://concepticon.clld.org/parameters/121,filar,spin
+177-998,stan1289,http://concepticon.clld.org/parameters/277,fus,spindle
+177-266,stan1289,http://concepticon.clld.org/parameters/133,teixir,weave
+177-757,stan1289,http://concepticon.clld.org/parameters/1787,teler,loom
+177-775,stan1289,http://concepticon.clld.org/parameters/1457,cosir,sew
+177-524,stan1289,http://concepticon.clld.org/parameters/1382,agulla,needle
+177-781,stan1289,http://concepticon.clld.org/parameters/278,alena,awl
+177-88,stan1289,http://concepticon.clld.org/parameters/1161,fil,thread
+177-1132,stan1289,http://concepticon.clld.org/parameters/157,tenyir,dye
+177-291,stan1289,http://concepticon.clld.org/parameters/326,capa,cloak
+177-1060,stan1289,http://concepticon.clld.org/parameters/327,ponxo,poncho
+177-216,stan1289,http://concepticon.clld.org/parameters/474,roba de dona,woman's dress
+177-1130,stan1289,http://concepticon.clld.org/parameters/474,vestit,woman's dress
+177-143,stan1289,http://concepticon.clld.org/parameters/603,abric,coat
+177-228,stan1289,http://concepticon.clld.org/parameters/1622,camisa,shirt
+177-470,stan1289,http://concepticon.clld.org/parameters/2012,coll,collar
+177-155,stan1289,http://concepticon.clld.org/parameters/1600,faldilla,skirt
+177-1112,stan1289,http://concepticon.clld.org/parameters/328,faldilla d'herbes,grass-skirt
+177-698,stan1289,http://concepticon.clld.org/parameters/809,pantalons,trousers
+177-763,stan1289,http://concepticon.clld.org/parameters/329,mitja,"stocking, sock"
+177-980,stan1289,http://concepticon.clld.org/parameters/329,mitjó,"stocking, sock"
+177-152,stan1289,http://concepticon.clld.org/parameters/1381,sabata,shoe
+177-973,stan1289,http://concepticon.clld.org/parameters/585,bota,boot
+177-246,stan1289,http://concepticon.clld.org/parameters/875,sabater,"shoemaker, cobbler"
+177-923,stan1289,http://concepticon.clld.org/parameters/2130,barret,"hat, cap"
+177-518,stan1289,http://concepticon.clld.org/parameters/2130,gorra,"hat, cap"
+177-1096,stan1289,http://concepticon.clld.org/parameters/772,cinturó,"belt, girdle"
+177-1448,stan1289,http://concepticon.clld.org/parameters/772,faixa,"belt, girdle"
+177-1032,stan1289,http://concepticon.clld.org/parameters/867,guant,glove
+177-374,stan1289,http://concepticon.clld.org/parameters/1151,vel,veil
+177-690,stan1289,http://concepticon.clld.org/parameters/1851,butxaca,pocket
+177-1125,stan1289,http://concepticon.clld.org/parameters/757,botó,button
+177-377,stan1289,http://concepticon.clld.org/parameters/64,agulla de cap,pin
+177-556,stan1289,http://concepticon.clld.org/parameters/917,ornament,"ornament, adornment"
+177-56,stan1289,http://concepticon.clld.org/parameters/1029,joia,jewel
+177-1314,stan1289,http://concepticon.clld.org/parameters/1374,anell,ring (for finger)
+177-692,stan1289,http://concepticon.clld.org/parameters/1754,braçalet,bracelet
+177-358,stan1289,http://concepticon.clld.org/parameters/1961,collaret,necklace
+177-504,stan1289,http://concepticon.clld.org/parameters/1860,gra (de rosari/ de collaret),bead
+177-1298,stan1289,http://concepticon.clld.org/parameters/770,arracada,earring
+177-1386,stan1289,http://concepticon.clld.org/parameters/330,cinta (per al cap),"headband, headdress"
+177-267,stan1289,http://concepticon.clld.org/parameters/330,pentinat,"headband, headdress"
+177-375,stan1289,http://concepticon.clld.org/parameters/68,tatuatge,tattoo
+177-766,stan1289,http://concepticon.clld.org/parameters/332,mocador,"handkerchief, rag"
+177-1108,stan1289,http://concepticon.clld.org/parameters/332,drap,"handkerchief, rag"
+177-247,stan1289,http://concepticon.clld.org/parameters/1021,tovallola,towel
+177-62,stan1289,http://concepticon.clld.org/parameters/1475,pinta,comb
+177-1173,stan1289,http://concepticon.clld.org/parameters/1821,raspall,brush
+177-547,stan1289,http://concepticon.clld.org/parameters/333,trenar,braid
+177-830,stan1289,http://concepticon.clld.org/parameters/151,navalla d'afeitar,razor
+177-587,stan1289,http://concepticon.clld.org/parameters/1926,pomada,ointment
+177-442,stan1289,http://concepticon.clld.org/parameters/788,sabó,soap
+177-993,stan1289,http://concepticon.clld.org/parameters/1171,mirall,mirror
+177-1387,stan1289,http://concepticon.clld.org/parameters/1099,habitar,"dwell, live"
+177-637,stan1289,http://concepticon.clld.org/parameters/1252,casa,house
+177-655,stan1289,http://concepticon.clld.org/parameters/1678,cabana,hut
+177-379,stan1289,http://concepticon.clld.org/parameters/403,granja,garden-house
+177-1059,stan1289,http://concepticon.clld.org/parameters/1316,tenda,tent
+177-32,stan1289,http://concepticon.clld.org/parameters/736,pati,"yard, court"
+177-619,stan1289,http://concepticon.clld.org/parameters/408,casa d'homes,men's house
+177-135,stan1289,http://concepticon.clld.org/parameters/334,cuina (lloc),cookhouse
+177-548,stan1289,http://concepticon.clld.org/parameters/335,casa de reunions,meeting house
+177-125,stan1289,http://concepticon.clld.org/parameters/1450,habitació,room
+177-869,stan1289,http://concepticon.clld.org/parameters/1567,porta,"door, gate"
+177-1306,stan1289,http://concepticon.clld.org/parameters/80,peu dret,"doorpost, jamb"
+177-635,stan1289,http://concepticon.clld.org/parameters/80,muntant,"doorpost, jamb"
+177-1410,stan1289,http://concepticon.clld.org/parameters/80,brancal,"doorpost, jamb"
+177-854,stan1289,http://concepticon.clld.org/parameters/1596,pany,lock (noun)
+177-854,stan1289,http://concepticon.clld.org/parameters/1012,pany,"latch, door-bolt"
+177-685,stan1289,http://concepticon.clld.org/parameters/1472,clau,key
+177-1343,stan1289,http://concepticon.clld.org/parameters/1375,finestra,window
+177-755,stan1289,http://concepticon.clld.org/parameters/1632,terra,floor
+177-454,stan1289,http://concepticon.clld.org/parameters/1632,sòl,floor
+177-1078,stan1289,http://concepticon.clld.org/parameters/933,paret,wall
+177-210,stan1289,http://concepticon.clld.org/parameters/933,mur,wall
+177-801,stan1289,http://concepticon.clld.org/parameters/185,llar,fireplace
+177-243,stan1289,http://concepticon.clld.org/parameters/859,estufa,stove
+177-875,stan1289,http://concepticon.clld.org/parameters/1305,xemeneia,chimney
+177-356,stan1289,http://concepticon.clld.org/parameters/1464,escala,ladder
+177-1364,stan1289,http://concepticon.clld.org/parameters/1663,llit,bed
+177-909,stan1289,http://concepticon.clld.org/parameters/1044,coixí,pillow
+177-1397,stan1289,http://concepticon.clld.org/parameters/806,manta,blanket
+177-196,stan1289,http://concepticon.clld.org/parameters/806,flassada,blanket
+177-916,stan1289,http://concepticon.clld.org/parameters/1476,cadira,chair
+177-117,stan1289,http://concepticon.clld.org/parameters/1775,taula,table
+177-1361,stan1289,http://concepticon.clld.org/parameters/2131,làmpara,"lamp, torch"
+177-551,stan1289,http://concepticon.clld.org/parameters/1273,espelma,candle
+177-1441,stan1289,http://concepticon.clld.org/parameters/745,lleixa,shelf
+177-342,stan1289,http://concepticon.clld.org/parameters/745,prestatge,shelf
+177-630,stan1289,http://concepticon.clld.org/parameters/205,menjadora,trough
+177-123,stan1289,http://concepticon.clld.org/parameters/769,teulat,roof
+177-995,stan1289,http://concepticon.clld.org/parameters/279,teulat de palla,thatch
+177-804,stan1289,http://concepticon.clld.org/parameters/280,biga carenera,ridgepole
+177-420,stan1289,http://concepticon.clld.org/parameters/829,biga,rafter
+177-420,stan1289,http://concepticon.clld.org/parameters/1132,biga,beam
+177-656,stan1289,http://concepticon.clld.org/parameters/281,pal,"post, pole"
+177-1011,stan1289,http://concepticon.clld.org/parameters/1227,planxa,board
+177-1348,stan1289,http://concepticon.clld.org/parameters/1227,tauló,board
+177-957,stan1289,http://concepticon.clld.org/parameters/876,arc,arch
+177-945,stan1289,http://concepticon.clld.org/parameters/877,paleta,mason
+177-1181,stan1289,http://concepticon.clld.org/parameters/1006,totxo,brick
+177-848,stan1289,http://concepticon.clld.org/parameters/1731,morter,mortar
+177-900,stan1289,http://concepticon.clld.org/parameters/901,tova,adobe
+177-331,stan1289,http://concepticon.clld.org/parameters/979,granger,farmer
+177-174,stan1289,http://concepticon.clld.org/parameters/212,camp,field (for cultivation)
+177-1447,stan1289,http://concepticon.clld.org/parameters/586,jardí,garden
+177-901,stan1289,http://concepticon.clld.org/parameters/1541,cultivar,"cultivate, till"
+177-1133,stan1289,http://concepticon.clld.org/parameters/1541,conrear,"cultivate, till"
+177-1206,stan1289,http://concepticon.clld.org/parameters/1690,tanca,fence
+177-1259,stan1289,http://concepticon.clld.org/parameters/1690,closa,fence
+177-872,stan1289,http://concepticon.clld.org/parameters/2002,fossat,ditch
+177-1281,stan1289,http://concepticon.clld.org/parameters/2002,rasa,ditch
+177-262,stan1289,http://concepticon.clld.org/parameters/1921,llaurar,plow
+177-967,stan1289,http://concepticon.clld.org/parameters/1794,solc,furrow
+177-1262,stan1289,http://concepticon.clld.org/parameters/1418,cavar,dig
+177-277,stan1289,http://concepticon.clld.org/parameters/1176,aixada,spade
+177-1388,stan1289,http://concepticon.clld.org/parameters/1901,pala,shovel
+177-277,stan1289,http://concepticon.clld.org/parameters/284,aixada,hoe
+177-610,stan1289,http://concepticon.clld.org/parameters/337,forca,fork
+177-590,stan1289,http://concepticon.clld.org/parameters/338,rasclet,rake
+177-290,stan1289,http://concepticon.clld.org/parameters/748,sembrar,sow
+177-1014,stan1289,http://concepticon.clld.org/parameters/714,grana,seed
+177-530,stan1289,http://concepticon.clld.org/parameters/714,llavor,seed
+177-673,stan1289,http://concepticon.clld.org/parameters/190,segar,"mow, reap"
+177-748,stan1289,http://concepticon.clld.org/parameters/190,collir,"mow, reap"
+177-140,stan1289,http://concepticon.clld.org/parameters/2132,falç,"sickle, scythe"
+177-965,stan1289,http://concepticon.clld.org/parameters/2132,dalla,"sickle, scythe"
+177-1232,stan1289,http://concepticon.clld.org/parameters/285,batre,thresh
+177-1319,stan1289,http://concepticon.clld.org/parameters/285,trillar,thresh
+177-59,stan1289,http://concepticon.clld.org/parameters/223,era,threshing-floor
+177-280,stan1289,http://concepticon.clld.org/parameters/611,collita,"crop, harvest"
+177-1104,stan1289,http://concepticon.clld.org/parameters/605,gra,"grain (barley, oats etc)"
+177-649,stan1289,http://concepticon.clld.org/parameters/1077,blat,wheat
+177-394,stan1289,http://concepticon.clld.org/parameters/932,ordi,barley
+177-137,stan1289,http://concepticon.clld.org/parameters/23,sègol,rye
+177-207,stan1289,http://concepticon.clld.org/parameters/60,civada,oats
+177-1401,stan1289,http://concepticon.clld.org/parameters/506,blat de moro,"maize, corn"
+177-579,stan1289,http://concepticon.clld.org/parameters/926,arròs,rice
+177-1390,stan1289,http://concepticon.clld.org/parameters/606,herba,grass
+177-1179,stan1289,http://concepticon.clld.org/parameters/342,palla,hay
+177-1001,stan1289,http://concepticon.clld.org/parameters/653,planta,plant (noun)
+177-290,stan1289,http://concepticon.clld.org/parameters/1486,sembrar,plant (vb)
+177-231,stan1289,http://concepticon.clld.org/parameters/1486,plantar,plant (vb)
+177-934,stan1289,http://concepticon.clld.org/parameters/670,arrel,root
+177-1434,stan1289,http://concepticon.clld.org/parameters/1531,branca,branch
+177-870,stan1289,http://concepticon.clld.org/parameters/628,fulla,leaf
+177-172,stan1289,http://concepticon.clld.org/parameters/239,flor,flower
+177-588,stan1289,http://concepticon.clld.org/parameters/906,arbre,tree
+177-586,stan1289,http://concepticon.clld.org/parameters/644,roure,oak
+177-204,stan1289,http://concepticon.clld.org/parameters/1950,faig,beech
+177-81,stan1289,http://concepticon.clld.org/parameters/1855,bedoll,birch
+177-988,stan1289,http://concepticon.clld.org/parameters/1740,pi,pine
+177-904,stan1289,http://concepticon.clld.org/parameters/1915,avet,fir
+177-33,stan1289,http://concepticon.clld.org/parameters/968,gla,acorn
+177-79,stan1289,http://concepticon.clld.org/parameters/343,parra,vine
+177-1186,stan1289,http://concepticon.clld.org/parameters/343,enfiladissa,vine
+177-1043,stan1289,http://concepticon.clld.org/parameters/974,tabac,tobacco
+177-1371,stan1289,http://concepticon.clld.org/parameters/1689,fumar,smoke (tobacco)
+177-1271,stan1289,http://concepticon.clld.org/parameters/1124,pipa,pipe
+177-670,stan1289,http://concepticon.clld.org/parameters/241,soca d'arbre,tree stump
+177-273,stan1289,http://concepticon.clld.org/parameters/344,tronc,tree trunk
+177-45,stan1289,http://concepticon.clld.org/parameters/409,branca bifurcada,forked branch
+177-1070,stan1289,http://concepticon.clld.org/parameters/1204,escorça,bark
+177-1176,stan1289,http://concepticon.clld.org/parameters/345,saba,sap
+177-838,stan1289,http://concepticon.clld.org/parameters/1181,palmera,palm tree
+177-642,stan1289,http://concepticon.clld.org/parameters/970,coco,coconut
+177-1035,stan1289,http://concepticon.clld.org/parameters/1126,cítric,citrus fruit
+177-925,stan1289,http://concepticon.clld.org/parameters/868,plataner,banana tree
+177-1276,stan1289,http://concepticon.clld.org/parameters/159,moniato,sweet potato
+177-1241,stan1289,http://concepticon.clld.org/parameters/410,nyam,yam
+177-823,stan1289,http://concepticon.clld.org/parameters/925,tapioca,"tapioca, manioc, cassava"
+177-336,stan1289,http://concepticon.clld.org/parameters/925,manioca,"tapioca, manioc, cassava"
+177-317,stan1289,http://concepticon.clld.org/parameters/411,carbassa,gourd
+177-317,stan1289,http://concepticon.clld.org/parameters/864,carbassa,"pumpkin, squash"
+177-532,stan1289,http://concepticon.clld.org/parameters/1927,bambú,bamboo
+177-1367,stan1289,http://concepticon.clld.org/parameters/146,canya de sucre,sugar cane
+177-128,stan1289,http://concepticon.clld.org/parameters/348,verí,fish poison (root)
+177-1261,stan1289,http://concepticon.clld.org/parameters/33,ortiga,nettle
+177-1165,stan1289,http://concepticon.clld.org/parameters/641,bolet,mushroom
+177-1166,stan1289,http://concepticon.clld.org/parameters/813,fer,"do, make"
+177-134,stan1289,http://concepticon.clld.org/parameters/984,treballar,work
+177-192,stan1289,http://concepticon.clld.org/parameters/2004,doblegar,bend
+177-192,stan1289,http://concepticon.clld.org/parameters/1470,doblegar,fold
+177-322,stan1289,http://concepticon.clld.org/parameters/1917,lligar,"tie, bind"
+177-1233,stan1289,http://concepticon.clld.org/parameters/352,deslligar,untie
+177-1406,stan1289,http://concepticon.clld.org/parameters/1627,cadena,chain
+177-623,stan1289,http://concepticon.clld.org/parameters/1218,corda,"rope, cord"
+177-202,stan1289,http://concepticon.clld.org/parameters/760,nus,knot (noun)
+177-754,stan1289,http://concepticon.clld.org/parameters/2133,golpejar,"strike (hit, beat)"
+177-495,stan1289,http://concepticon.clld.org/parameters/354,donar cops amb el puny,pound with fist
+177-360,stan1289,http://concepticon.clld.org/parameters/1432,tallar,cut
+177-1185,stan1289,http://concepticon.clld.org/parameters/355,talar,cut down
+177-289,stan1289,http://concepticon.clld.org/parameters/355,rebatre,cut down
+177-360,stan1289,http://concepticon.clld.org/parameters/155,tallar,"chop, hew"
+177-675,stan1289,http://concepticon.clld.org/parameters/155,podar,"chop, hew"
+177-1351,stan1289,http://concepticon.clld.org/parameters/1434,apunyalar,stab
+177-1048,stan1289,http://concepticon.clld.org/parameters/1352,ganivet,knife
+177-177,stan1289,http://concepticon.clld.org/parameters/356,tisores,"scissors, shears"
+177-990,stan1289,http://concepticon.clld.org/parameters/677,destral,ax
+177-1020,stan1289,http://concepticon.clld.org/parameters/290,aixa,adze
+177-724,stan1289,http://concepticon.clld.org/parameters/680,trencar,break
+177-725,stan1289,http://concepticon.clld.org/parameters/588,trencat,broken
+177-1293,stan1289,http://concepticon.clld.org/parameters/1437,partir,split
+177-828,stan1289,http://concepticon.clld.org/parameters/1735,estripar,tear
+177-1191,stan1289,http://concepticon.clld.org/parameters/291,escorxar,"flay, skin"
+177-1105,stan1289,http://concepticon.clld.org/parameters/1449,fregar,"rub, wipe"
+177-83,stan1289,http://concepticon.clld.org/parameters/1449,eixugar,"rub, wipe"
+177-661,stan1289,http://concepticon.clld.org/parameters/214,allargar,stretch
+177-926,stan1289,http://concepticon.clld.org/parameters/214,estirar,stretch
+177-439,stan1289,http://concepticon.clld.org/parameters/1455,tirar,pull
+177-617,stan1289,http://concepticon.clld.org/parameters/38,estendre,spread out
+177-1208,stan1289,http://concepticon.clld.org/parameters/357,penjar,hang up
+177-787,stan1289,http://concepticon.clld.org/parameters/1913,apretar,press
+177-371,stan1289,http://concepticon.clld.org/parameters/1414,esprémer,"squeeze, wring"
+177-163,stan1289,http://concepticon.clld.org/parameters/1487,abocar,pour
+177-559,stan1289,http://concepticon.clld.org/parameters/1487,vessar,pour
+177-89,stan1289,http://concepticon.clld.org/parameters/1453,rentar,wash
+177-790,stan1289,http://concepticon.clld.org/parameters/230,escombrar,sweep
+177-601,stan1289,http://concepticon.clld.org/parameters/245,escombra,broom
+177-1414,stan1289,http://concepticon.clld.org/parameters/1361,eina,tool
+177-347,stan1289,http://concepticon.clld.org/parameters/1042,fuster,carpenter
+177-441,stan1289,http://concepticon.clld.org/parameters/1840,construir,build
+177-1437,stan1289,http://concepticon.clld.org/parameters/1501,perforar,bore
+177-1095,stan1289,http://concepticon.clld.org/parameters/46,fondalar,hollow out
+177-1203,stan1289,http://concepticon.clld.org/parameters/1948,serra,saw
+177-1027,stan1289,http://concepticon.clld.org/parameters/1481,martell,hammer
+177-685,stan1289,http://concepticon.clld.org/parameters/502,clau,nail
+177-30,stan1289,http://concepticon.clld.org/parameters/1069,enganxar,glue
+177-946,stan1289,http://concepticon.clld.org/parameters/1001,ferrer,"smith, blacksmith"
+177-821,stan1289,http://concepticon.clld.org/parameters/288,forja,forge
+177-1201,stan1289,http://concepticon.clld.org/parameters/1648,enclusa,anvil
+177-1195,stan1289,http://concepticon.clld.org/parameters/211,fondre,cast (metals)
+177-710,stan1289,http://concepticon.clld.org/parameters/1369,or,gold
+177-187,stan1289,http://concepticon.clld.org/parameters/759,plata,silver
+177-555,stan1289,http://concepticon.clld.org/parameters/1825,cobre,"copper, bronze"
+177-971,stan1289,http://concepticon.clld.org/parameters/1825,bronze,"copper, bronze"
+177-431,stan1289,http://concepticon.clld.org/parameters/621,ferro,iron
+177-46,stan1289,http://concepticon.clld.org/parameters/627,plom,lead (noun)
+177-519,stan1289,http://concepticon.clld.org/parameters/358,estany,"tin, tinplate"
+177-287,stan1289,http://concepticon.clld.org/parameters/359,terrissaire,potter
+177-414,stan1289,http://concepticon.clld.org/parameters/289,moldejar,mold (clay etc)
+177-961,stan1289,http://concepticon.clld.org/parameters/1399,fang,clay
+177-1373,stan1289,http://concepticon.clld.org/parameters/1399,argila,clay
+177-157,stan1289,http://concepticon.clld.org/parameters/604,vidre,glass
+177-266,stan1289,http://concepticon.clld.org/parameters/1729,teixir,"weave, plait"
+177-387,stan1289,http://concepticon.clld.org/parameters/1539,cistella,basket
+177-1323,stan1289,http://concepticon.clld.org/parameters/1539,cistell,basket
+177-484,stan1289,http://concepticon.clld.org/parameters/195,estora,mat
+177-484,stan1289,http://concepticon.clld.org/parameters/292,estora,rug
+177-668,stan1289,http://concepticon.clld.org/parameters/293,bossa de malla,netbag
+177-795,stan1289,http://concepticon.clld.org/parameters/1971,ventall,fan (noun)
+177-836,stan1289,http://concepticon.clld.org/parameters/360,ventallar,fan (vb)
+177-919,stan1289,http://concepticon.clld.org/parameters/228,esculpir,carve
+177-426,stan1289,http://concepticon.clld.org/parameters/914,escultor,sculptor
+177-1219,stan1289,http://concepticon.clld.org/parameters/1002,estàtua,statue
+177-720,stan1289,http://concepticon.clld.org/parameters/1979,cisell,chisel
+177-230,stan1289,http://concepticon.clld.org/parameters/647,pintura,paint (noun)
+177-398,stan1289,http://concepticon.clld.org/parameters/2001,pintar,paint (vb)
+177-380,stan1289,http://concepticon.clld.org/parameters/765,moure,move
+177-469,stan1289,http://concepticon.clld.org/parameters/1588,girar,turn over
+177-469,stan1289,http://concepticon.clld.org/parameters/1445,girar,turn around
+177-807,stan1289,http://concepticon.clld.org/parameters/1445,donar la volta,turn around
+177-747,stan1289,http://concepticon.clld.org/parameters/1113,enrotllar,"wind, wrap"
+177-1417,stan1289,http://concepticon.clld.org/parameters/1113,embolicar,"wind, wrap"
+177-747,stan1289,http://concepticon.clld.org/parameters/827,enrotllar,roll
+177-1420,stan1289,http://concepticon.clld.org/parameters/808,deixar caure,drop (vb)
+177-567,stan1289,http://concepticon.clld.org/parameters/430,torçar,twist
+177-903,stan1289,http://concepticon.clld.org/parameters/568,pujar,rise
+177-80,stan1289,http://concepticon.clld.org/parameters/568,elevar,rise
+177-914,stan1289,http://concepticon.clld.org/parameters/568,ascendir,rise
+177-1119,stan1289,http://concepticon.clld.org/parameters/501,aixecar,"raise, lift"
+177-1335,stan1289,http://concepticon.clld.org/parameters/1280,caure,fall
+177-989,stan1289,http://concepticon.clld.org/parameters/2253,gotejar,drip
+177-439,stan1289,http://concepticon.clld.org/parameters/1456,tirar,throw
+177-1230,stan1289,http://concepticon.clld.org/parameters/702,agafar,catch (ball)
+177-878,stan1289,http://concepticon.clld.org/parameters/1909,agitar,shake
+177-74,stan1289,http://concepticon.clld.org/parameters/1909,sacsejar,shake
+177-191,stan1289,http://concepticon.clld.org/parameters/2003,fluir,flow
+177-1036,stan1289,http://concepticon.clld.org/parameters/2003,córrer,flow
+177-1164,stan1289,http://concepticon.clld.org/parameters/1088,enfonsar,sink
+177-701,stan1289,http://concepticon.clld.org/parameters/1574,flotar,float
+177-1369,stan1289,http://concepticon.clld.org/parameters/1439,nadar,swim
+177-811,stan1289,http://concepticon.clld.org/parameters/119,capbussar-se,dive
+177-523,stan1289,http://concepticon.clld.org/parameters/365,esquitxar,splash
+177-479,stan1289,http://concepticon.clld.org/parameters/787,navegar,sail (vb)
+177-529,stan1289,http://concepticon.clld.org/parameters/1441,volar,fly (vb)
+177-90,stan1289,http://concepticon.clld.org/parameters/175,bufar,blow
+177-746,stan1289,http://concepticon.clld.org/parameters/96,arrossegar-se,"creep, crawl"
+177-274,stan1289,http://concepticon.clld.org/parameters/96,anar de quatre grapes,"creep, crawl"
+177-1238,stan1289,http://concepticon.clld.org/parameters/66,agenollar-se,kneel
+177-1242,stan1289,http://concepticon.clld.org/parameters/296,ajopir-se,crouch
+177-1109,stan1289,http://concepticon.clld.org/parameters/1324,relliscar,"slide, slip"
+177-395,stan1289,http://concepticon.clld.org/parameters/1829,saltar,"jump, leap"
+177-489,stan1289,http://concepticon.clld.org/parameters/1135,donar cops de peu,kick
+177-809,stan1289,http://concepticon.clld.org/parameters/1879,ballar,dance
+177-1402,stan1289,http://concepticon.clld.org/parameters/1443,caminar,walk
+177-284,stan1289,http://concepticon.clld.org/parameters/366,coixejar,limp
+177-1036,stan1289,http://concepticon.clld.org/parameters/1519,córrer,run
+177-773,stan1289,http://concepticon.clld.org/parameters/695,anar,go
+177-903,stan1289,http://concepticon.clld.org/parameters/705,pujar,go up
+177-641,stan1289,http://concepticon.clld.org/parameters/1102,trepar,climb
+177-825,stan1289,http://concepticon.clld.org/parameters/2014,baixar,go down
+177-53,stan1289,http://concepticon.clld.org/parameters/1107,sortir,go out
+177-628,stan1289,http://concepticon.clld.org/parameters/1446,venir,come
+177-1270,stan1289,http://concepticon.clld.org/parameters/581,tornar,come back
+177-1026,stan1289,http://concepticon.clld.org/parameters/1752,marxar,"go away, depart"
+177-884,stan1289,http://concepticon.clld.org/parameters/485,desaparèixer,disappear
+177-741,stan1289,http://concepticon.clld.org/parameters/956,fugir,flee
+177-330,stan1289,http://concepticon.clld.org/parameters/1085,seguir,follow
+177-235,stan1289,http://concepticon.clld.org/parameters/1047,perseguir,pursue
+177-1197,stan1289,http://concepticon.clld.org/parameters/1387,arribar,"reach, arrive"
+177-1168,stan1289,http://concepticon.clld.org/parameters/1778,acostar-se,approach
+177-116,stan1289,http://concepticon.clld.org/parameters/749,entrar,enter
+177-105,stan1289,http://concepticon.clld.org/parameters/700,portar,carry (bear)
+177-552,stan1289,http://concepticon.clld.org/parameters/412,portar a la mà,carry-in-hand
+177-1286,stan1289,http://concepticon.clld.org/parameters/413,portar a l'espatlla,carry-on-shoulder
+177-54,stan1289,http://concepticon.clld.org/parameters/414,portar en el cap,carry-on-head
+177-91,stan1289,http://concepticon.clld.org/parameters/415,portar sota el braç,carry-underarm
+177-105,stan1289,http://concepticon.clld.org/parameters/692,portar,bring
+177-76,stan1289,http://concepticon.clld.org/parameters/1127,enviar,send
+177-447,stan1289,http://concepticon.clld.org/parameters/43,guiar,lead (vb)
+177-907,stan1289,http://concepticon.clld.org/parameters/741,conduir,drive
+177-223,stan1289,http://concepticon.clld.org/parameters/367,muntar,ride
+177-1159,stan1289,http://concepticon.clld.org/parameters/1452,empènyer,"push, shove"
+177-697,stan1289,http://concepticon.clld.org/parameters/667,carretera,road
+177-1051,stan1289,http://concepticon.clld.org/parameters/2252,camí,path
+177-829,stan1289,http://concepticon.clld.org/parameters/1011,pont,bridge
+177-511,stan1289,http://concepticon.clld.org/parameters/122,carro,"carriage, wagon, cart"
+177-299,stan1289,http://concepticon.clld.org/parameters/122,carretó,"carriage, wagon, cart"
+177-1178,stan1289,http://concepticon.clld.org/parameters/710,roda,wheel
+177-640,stan1289,http://concepticon.clld.org/parameters/1769,eix,axle
+177-1303,stan1289,http://concepticon.clld.org/parameters/14,jou,yoke
+177-1394,stan1289,http://concepticon.clld.org/parameters/740,vaixell,ship
+177-1005,stan1289,http://concepticon.clld.org/parameters/1844,bot,boat
+177-644,stan1289,http://concepticon.clld.org/parameters/1970,canoa,canoe
+177-1439,stan1289,http://concepticon.clld.org/parameters/1970,piragua,canoe
+177-1277,stan1289,http://concepticon.clld.org/parameters/416,balancí,outrigger
+177-1444,stan1289,http://concepticon.clld.org/parameters/1664,balsa,raft
+177-1222,stan1289,http://concepticon.clld.org/parameters/108,rem,oar
+177-1222,stan1289,http://concepticon.clld.org/parameters/234,rem,paddle (noun)
+177-735,stan1289,http://concepticon.clld.org/parameters/234,platós,paddle (noun)
+177-450,stan1289,http://concepticon.clld.org/parameters/1849,remar,row (vb)
+177-517,stan1289,http://concepticon.clld.org/parameters/108,timó,rudder
+177-341,stan1289,http://concepticon.clld.org/parameters/184,màstil,mast
+177-1142,stan1289,http://concepticon.clld.org/parameters/786,vela,sail (noun)
+177-320,stan1289,http://concepticon.clld.org/parameters/1870,àncora,anchor
+177-393,stan1289,http://concepticon.clld.org/parameters/610,port,"harbor, port"
+177-9,stan1289,http://concepticon.clld.org/parameters/1922,desembarcar,land (vb)
+177-510,stan1289,http://concepticon.clld.org/parameters/773,tenir,have
+177-1122,stan1289,http://concepticon.clld.org/parameters/684,posseir,"own, possess"
+177-148,stan1289,http://concepticon.clld.org/parameters/1749,prendre,take
+177-1230,stan1289,http://concepticon.clld.org/parameters/2021,agafar,"seize, grasp"
+177-258,stan1289,http://concepticon.clld.org/parameters/2021,atrapar,"seize, grasp"
+177-510,stan1289,http://concepticon.clld.org/parameters/1448,tenir,hold
+177-1033,stan1289,http://concepticon.clld.org/parameters/694,obtenir,"get, obtain"
+177-1246,stan1289,http://concepticon.clld.org/parameters/1477,mantenir,"keep, retain"
+177-1329,stan1289,http://concepticon.clld.org/parameters/1477,retenir,"keep, retain"
+177-389,stan1289,http://concepticon.clld.org/parameters/738,cosa,thing
+177-285,stan1289,http://concepticon.clld.org/parameters/1447,donar,give
+177-1270,stan1289,http://concepticon.clld.org/parameters/85,tornar,give back
+177-1163,stan1289,http://concepticon.clld.org/parameters/1997,preservar,"preserve, look after"
+177-1129,stan1289,http://concepticon.clld.org/parameters/1997,tenir cura,"preserve, look after"
+177-158,stan1289,http://concepticon.clld.org/parameters/2008,salvar,"save, rescue"
+177-55,stan1289,http://concepticon.clld.org/parameters/681,destruir,destroy
+177-871,stan1289,http://concepticon.clld.org/parameters/44,fer mal,"harm, injure, damage"
+177-770,stan1289,http://concepticon.clld.org/parameters/44,ferir,"harm, injure, damage"
+177-862,stan1289,http://concepticon.clld.org/parameters/1468,buscar,"seek, look for"
+177-798,stan1289,http://concepticon.clld.org/parameters/719,trobar,find
+177-276,stan1289,http://concepticon.clld.org/parameters/1660,perdre,lose
+177-1149,stan1289,http://concepticon.clld.org/parameters/1095,alliberar,"release, let go"
+177-42,stan1289,http://concepticon.clld.org/parameters/1095,deixar anar,"release, let go"
+177-599,stan1289,http://concepticon.clld.org/parameters/1559,diners,money
+177-153,stan1289,http://concepticon.clld.org/parameters/1559,calers,money
+177-16,stan1289,http://concepticon.clld.org/parameters/1867,moneda,coin
+177-1010,stan1289,http://concepticon.clld.org/parameters/712,ric,rich
+177-95,stan1289,http://concepticon.clld.org/parameters/1674,pobre,poor
+177-879,stan1289,http://concepticon.clld.org/parameters/1934,pidolaire,beggar
+177-1284,stan1289,http://concepticon.clld.org/parameters/1774,avar,"avaricious, stingy"
+177-1309,stan1289,http://concepticon.clld.org/parameters/1774,tacanyo,"avaricious, stingy"
+177-121,stan1289,http://concepticon.clld.org/parameters/582,deixar,lend
+177-1136,stan1289,http://concepticon.clld.org/parameters/1823,manllevar,borrow
+177-51,stan1289,http://concepticon.clld.org/parameters/369,deure,owe
+177-702,stan1289,http://concepticon.clld.org/parameters/1914,deute,debt
+177-964,stan1289,http://concepticon.clld.org/parameters/718,pagar,pay (vb)
+177-1045,stan1289,http://concepticon.clld.org/parameters/1081,compte,"account, reckoning"
+177-508,stan1289,http://concepticon.clld.org/parameters/873,impost,"tax, tribute"
+177-1204,stan1289,http://concepticon.clld.org/parameters/873,tribut,"tax, tribute"
+177-1436,stan1289,http://concepticon.clld.org/parameters/856,contractar,hire
+177-319,stan1289,http://concepticon.clld.org/parameters/1122,sou,wages
+177-1285,stan1289,http://concepticon.clld.org/parameters/733,guanyar (diners),earn
+177-195,stan1289,http://concepticon.clld.org/parameters/1869,comprar,buy
+177-711,stan1289,http://concepticon.clld.org/parameters/1571,vendre,sell
+177-354,stan1289,http://concepticon.clld.org/parameters/2135,comercialitzar,"trade, barter"
+177-1426,stan1289,http://concepticon.clld.org/parameters/2135,negociar,"trade, barter"
+177-115,stan1289,http://concepticon.clld.org/parameters/1082,comerciant,merchant
+177-38,stan1289,http://concepticon.clld.org/parameters/633,mercat,market (place)
+177-376,stan1289,http://concepticon.clld.org/parameters/752,botiga,"store, shop"
+177-418,stan1289,http://concepticon.clld.org/parameters/657,preu,price
+177-429,stan1289,http://concepticon.clld.org/parameters/1426,car,"dear (costly, expensive)"
+177-498,stan1289,http://concepticon.clld.org/parameters/1887,barat,cheap
+177-340,stan1289,http://concepticon.clld.org/parameters/884,repartir,share (distribute)
+177-1161,stan1289,http://concepticon.clld.org/parameters/1098,pesar,weigh
+177-695,stan1289,http://concepticon.clld.org/parameters/1685,després,after
+177-605,stan1289,http://concepticon.clld.org/parameters/723,darrere,behind
+177-1419,stan1289,http://concepticon.clld.org/parameters/1816,al costat de,beside
+177-301,stan1289,http://concepticon.clld.org/parameters/1326,sota,"down, below"
+177-575,stan1289,http://concepticon.clld.org/parameters/1882,abans,before
+177-672,stan1289,http://concepticon.clld.org/parameters/1882,davant,before
+177-546,stan1289,http://concepticon.clld.org/parameters/1019,davant de,front
+177-930,stan1289,http://concepticon.clld.org/parameters/1019,en front de,front
+177-894,stan1289,http://concepticon.clld.org/parameters/1606,dins,"inside, in"
+177-513,stan1289,http://concepticon.clld.org/parameters/762,a fora,outside
+177-329,stan1289,http://concepticon.clld.org/parameters/762,fora,outside
+177-301,stan1289,http://concepticon.clld.org/parameters/1485,sota,under
+177-1331,stan1289,http://concepticon.clld.org/parameters/1591,a dalt,"up, above"
+177-24,stan1289,http://concepticon.clld.org/parameters/1591,sobre,"up, above"
+177-572,stan1289,http://concepticon.clld.org/parameters/723,lloc,place
+177-1326,stan1289,http://concepticon.clld.org/parameters/998,posar,put
+177-1193,stan1289,http://concepticon.clld.org/parameters/1416,asseure's,sit
+177-63,stan1289,http://concepticon.clld.org/parameters/215,estirar-se,lie down
+177-102,stan1289,http://concepticon.clld.org/parameters/1442,posar-se dret,stand
+177-1213,stan1289,http://concepticon.clld.org/parameters/987,quedar-se,"remain, stay"
+177-1107,stan1289,http://concepticon.clld.org/parameters/838,restes,"remains, left overs"
+177-1050,stan1289,http://concepticon.clld.org/parameters/7,recollir,"collect, gather"
+177-691,stan1289,http://concepticon.clld.org/parameters/7,reunir-se,"collect, gather"
+177-1050,stan1289,http://concepticon.clld.org/parameters/371,recollir,pick up
+177-936,stan1289,http://concepticon.clld.org/parameters/1576,amuntegar,pile up
+177-1055,stan1289,http://concepticon.clld.org/parameters/1743,ajuntar,"join, unite"
+177-40,stan1289,http://concepticon.clld.org/parameters/1743,unir,"join, unite"
+177-13,stan1289,http://concepticon.clld.org/parameters/1359,separar,separate
+177-205,stan1289,http://concepticon.clld.org/parameters/1119,dividir,divide
+177-977,stan1289,http://concepticon.clld.org/parameters/1156,obrir,open
+177-1083,stan1289,http://concepticon.clld.org/parameters/1046,tancar,"shut, close"
+177-248,stan1289,http://concepticon.clld.org/parameters/761,cobrir,cover
+177-1300,stan1289,http://concepticon.clld.org/parameters/602,amagar,"hide, conceal"
+177-764,stan1289,http://concepticon.clld.org/parameters/1265,alt,high
+177-180,stan1289,http://concepticon.clld.org/parameters/721,baix,low
+177-569,stan1289,http://concepticon.clld.org/parameters/1753,munt,top
+177-1110,stan1289,http://concepticon.clld.org/parameters/1753,dalt,top
+177-935,stan1289,http://concepticon.clld.org/parameters/690,fons,bottom
+177-1240,stan1289,http://concepticon.clld.org/parameters/742,final,end
+177-1038,stan1289,http://concepticon.clld.org/parameters/372,punxagut,pointed
+177-1421,stan1289,http://concepticon.clld.org/parameters/863,marge,edge
+177-1342,stan1289,http://concepticon.clld.org/parameters/863,vora,edge
+177-503,stan1289,http://concepticon.clld.org/parameters/682,costat,side
+177-1258,stan1289,http://concepticon.clld.org/parameters/1093,mig,"middle, center"
+177-1264,stan1289,http://concepticon.clld.org/parameters/1093,centre,"middle, center"
+177-316,stan1289,http://concepticon.clld.org/parameters/1019,dreta,right (side)
+177-1024,stan1289,http://concepticon.clld.org/parameters/244,esquerre,left (side)
+177-1023,stan1289,http://concepticon.clld.org/parameters/244,esquerra,left (side)
+177-539,stan1289,http://concepticon.clld.org/parameters/1942,a prop,near (adv)
+177-899,stan1289,http://concepticon.clld.org/parameters/1406,lluny,far (adv)
+177-1393,stan1289,http://concepticon.clld.org/parameters/1877,est,east
+177-631,stan1289,http://concepticon.clld.org/parameters/1817,oest,west
+177-768,stan1289,http://concepticon.clld.org/parameters/1598,nord,north
+177-785,stan1289,http://concepticon.clld.org/parameters/1595,sud,south
+177-820,stan1289,http://concepticon.clld.org/parameters/479,créixer,grow
+177-206,stan1289,http://concepticon.clld.org/parameters/1506,mesurar,measure
+177-357,stan1289,http://concepticon.clld.org/parameters/81,braça,"span, fathom"
+177-456,stan1289,http://concepticon.clld.org/parameters/1202,gros,"large, big"
+177-1295,stan1289,http://concepticon.clld.org/parameters/1202,gran,"large, big"
+177-343,stan1289,http://concepticon.clld.org/parameters/1246,petit,"small, little"
+177-144,stan1289,http://concepticon.clld.org/parameters/1203,llarg,long
+177-764,stan1289,http://concepticon.clld.org/parameters/711,alt,tall
+177-1092,stan1289,http://concepticon.clld.org/parameters/1645,curt,short
+177-1375,stan1289,http://concepticon.clld.org/parameters/1243,ample,"wide, broad"
+177-1377,stan1289,http://concepticon.clld.org/parameters/1243,ampli,"wide, broad"
+177-966,stan1289,http://concepticon.clld.org/parameters/1267,estret,narrow
+177-1431,stan1289,http://concepticon.clld.org/parameters/1244,gruix,thick (in dimension)
+177-178,stan1289,http://concepticon.clld.org/parameters/1400,prim,thin (in dimension)
+177-935,stan1289,http://concepticon.clld.org/parameters/1593,fons,deep
+177-1418,stan1289,http://concepticon.clld.org/parameters/193,poc profund,shallow
+177-307,stan1289,http://concepticon.clld.org/parameters/1633,pla,flat
+177-149,stan1289,http://concepticon.clld.org/parameters/1404,recte,straight
+177-215,stan1289,http://concepticon.clld.org/parameters/1404,dret,straight
+177-568,stan1289,http://concepticon.clld.org/parameters/297,torçat,crooked
+177-355,stan1289,http://concepticon.clld.org/parameters/1071,ganxo,hook
+177-64,stan1289,http://concepticon.clld.org/parameters/192,racó,corner
+177-84,stan1289,http://concepticon.clld.org/parameters/1367,creu,cross
+177-1009,stan1289,http://concepticon.clld.org/parameters/850,quadrat,square
+177-557,stan1289,http://concepticon.clld.org/parameters/1395,rodó,round
+177-712,stan1289,http://concepticon.clld.org/parameters/1467,cercle,circle
+177-706,stan1289,http://concepticon.clld.org/parameters/1845,esfera,"sphere, ball"
+177-889,stan1289,http://concepticon.clld.org/parameters/1845,pilota,"sphere, ball"
+177-941,stan1289,http://concepticon.clld.org/parameters/1048,línia,line
+177-229,stan1289,http://concepticon.clld.org/parameters/1667,forat,hole
+177-185,stan1289,http://concepticon.clld.org/parameters/1558,semblant,"like, similar"
+177-1090,stan1289,http://concepticon.clld.org/parameters/1558,similar,"like, similar"
+177-1383,stan1289,http://concepticon.clld.org/parameters/1264,canviar,change
+177-782,stan1289,http://concepticon.clld.org/parameters/1294,zero,"zero, nothing"
+177-1217,stan1289,http://concepticon.clld.org/parameters/1294,res,"zero, nothing"
+177-1089,stan1289,http://concepticon.clld.org/parameters/1515,un,one
+177-175,stan1289,http://concepticon.clld.org/parameters/1498,dos,two
+177-151,stan1289,http://concepticon.clld.org/parameters/492,tres,three
+177-634,stan1289,http://concepticon.clld.org/parameters/1500,quatre,four
+177-1346,stan1289,http://concepticon.clld.org/parameters/493,cinc,five
+177-1183,stan1289,http://concepticon.clld.org/parameters/1703,sis,six
+177-953,stan1289,http://concepticon.clld.org/parameters/1704,set,seven
+177-1188,stan1289,http://concepticon.clld.org/parameters/1705,vuit,eight
+177-481,stan1289,http://concepticon.clld.org/parameters/1483,nou,nine
+177-822,stan1289,http://concepticon.clld.org/parameters/1515,deu,ten
+177-538,stan1289,http://concepticon.clld.org/parameters/1706,onze,eleven
+177-1324,stan1289,http://concepticon.clld.org/parameters/1707,dotze,twelve
+177-1396,stan1289,http://concepticon.clld.org/parameters/1709,quinze,fifteen
+177-959,stan1289,http://concepticon.clld.org/parameters/1710,vint,twenty
+177-1320,stan1289,http://concepticon.clld.org/parameters/1634,cent,hundred
+177-1256,stan1289,http://concepticon.clld.org/parameters/1843,mil,thousand
+177-438,stan1289,http://concepticon.clld.org/parameters/1420,comptar,count
+177-136,stan1289,http://concepticon.clld.org/parameters/98,tot,"every, all"
+177-893,stan1289,http://concepticon.clld.org/parameters/98,cada,"every, all"
+177-257,stan1289,http://concepticon.clld.org/parameters/98,cadascun,"every, all"
+177-344,stan1289,http://concepticon.clld.org/parameters/1198,molt,"much, many"
+177-107,stan1289,http://concepticon.clld.org/parameters/1992,més,more
+177-693,stan1289,http://concepticon.clld.org/parameters/1242,poc,"little (quantity), few"
+177-1061,stan1289,http://concepticon.clld.org/parameters/1881,prou,enough
+177-264,stan1289,http://concepticon.clld.org/parameters/1241,algun,some
+177-1265,stan1289,http://concepticon.clld.org/parameters/2023,multitud,"multitude, crowd"
+177-306,stan1289,http://concepticon.clld.org/parameters/1429,ple,full
+177-826,stan1289,http://concepticon.clld.org/parameters/1624,buit,empty
+177-1275,stan1289,http://concepticon.clld.org/parameters/779,troç,"part, piece"
+177-816,stan1289,http://concepticon.clld.org/parameters/816,meitat,half
+177-318,stan1289,http://concepticon.clld.org/parameters/1580,sol,"alone, only"
+177-1231,stan1289,http://concepticon.clld.org/parameters/1580,només,"alone, only"
+177-368,stan1289,http://concepticon.clld.org/parameters/728,primer,first
+177-1052,stan1289,http://concepticon.clld.org/parameters/1529,últim,last
+177-445,stan1289,http://concepticon.clld.org/parameters/1384,segon,second
+177-819,stan1289,http://concepticon.clld.org/parameters/1888,parell,pair
+177-1379,stan1289,http://concepticon.clld.org/parameters/1546,dues vegades,two times
+177-621,stan1289,http://concepticon.clld.org/parameters/1859,tercer,third
+177-950,stan1289,http://concepticon.clld.org/parameters/417,tres vegades,three times
+177-1226,stan1289,http://concepticon.clld.org/parameters/892,temps,time
+177-383,stan1289,http://concepticon.clld.org/parameters/1789,edat,age
+177-481,stan1289,http://concepticon.clld.org/parameters/1231,nou,new
+177-850,stan1289,http://concepticon.clld.org/parameters/1207,jove,young
+177-1140,stan1289,http://concepticon.clld.org/parameters/1229,vell,old
+177-633,stan1289,http://concepticon.clld.org/parameters/672,aviat,early
+177-1101,stan1289,http://concepticon.clld.org/parameters/477,tard,late
+177-956,stan1289,http://concepticon.clld.org/parameters/1376,ara,now
+177-600,stan1289,http://concepticon.clld.org/parameters/1963,ja,immediately
+177-335,stan1289,http://concepticon.clld.org/parameters/1963,immediatament,immediately
+177-449,stan1289,http://concepticon.clld.org/parameters/1631,ràpid,"swift, fast, quick"
+177-1008,stan1289,http://concepticon.clld.org/parameters/701,poc a poc,slow
+177-1111,stan1289,http://concepticon.clld.org/parameters/701,lent,slow
+177-718,stan1289,http://concepticon.clld.org/parameters/754,espavilar-se,"hasten, hurry"
+177-1244,stan1289,http://concepticon.clld.org/parameters/754,afanyar-se,"hasten, hurry"
+177-1356,stan1289,http://concepticon.clld.org/parameters/425,retard,"retard, delay"
+177-810,stan1289,http://concepticon.clld.org/parameters/1806,començar,"begin, beginning"
+177-994,stan1289,http://concepticon.clld.org/parameters/1806,començament,"begin, beginning"
+177-999,stan1289,http://concepticon.clld.org/parameters/1186,durar,"last, endure"
+177-844,stan1289,http://concepticon.clld.org/parameters/743,fi,end (temporal)
+177-399,stan1289,http://concepticon.clld.org/parameters/1766,finalitzar,finish
+177-614,stan1289,http://concepticon.clld.org/parameters/1766,acabar,finish
+177-671,stan1289,http://concepticon.clld.org/parameters/1928,parar,"cease, stop"
+177-703,stan1289,http://concepticon.clld.org/parameters/790,llest,ready
+177-1443,stan1289,http://concepticon.clld.org/parameters/1676,sempre,always
+177-422,stan1289,http://concepticon.clld.org/parameters/1852,sovint,often
+177-475,stan1289,http://concepticon.clld.org/parameters/1544,a vegades,sometimes
+177-633,stan1289,http://concepticon.clld.org/parameters/703,aviat,soon
+177-15,stan1289,http://concepticon.clld.org/parameters/418,durant molt temps,long-time (for a)
+177-455,stan1289,http://concepticon.clld.org/parameters/1656,mai,never
+177-1289,stan1289,http://concepticon.clld.org/parameters/204,una altra vegada,again
+177-382,stan1289,http://concepticon.clld.org/parameters/1260,dia,day
+177-139,stan1289,http://concepticon.clld.org/parameters/1233,nit,night
+177-545,stan1289,http://concepticon.clld.org/parameters/729,matinada,dawn
+177-1114,stan1289,http://concepticon.clld.org/parameters/1339,matí,morning
+177-1012,stan1289,http://concepticon.clld.org/parameters/12,migdia,"noon, midday"
+177-349,stan1289,http://concepticon.clld.org/parameters/1807,tarda,afternoon
+177-736,stan1289,http://concepticon.clld.org/parameters/1629,vespre,evening
+177-734,stan1289,http://concepticon.clld.org/parameters/1283,avui,today
+177-1291,stan1289,http://concepticon.clld.org/parameters/1329,demà,tomorrow
+177-1115,stan1289,http://concepticon.clld.org/parameters/1179,demà passat,day-after-tomorrow
+177-337,stan1289,http://concepticon.clld.org/parameters/1174,ahir,yesterday
+177-5,stan1289,http://concepticon.clld.org/parameters/1180,abans d'ahir,day-before-yesterday
+177-17,stan1289,http://concepticon.clld.org/parameters/1353,hora,hour
+177-643,stan1289,http://concepticon.clld.org/parameters/1323,rellotge,"clock, timepiece"
+177-506,stan1289,http://concepticon.clld.org/parameters/1469,setmana,week
+177-473,stan1289,http://concepticon.clld.org/parameters/1699,diumenge,Sunday
+177-1081,stan1289,http://concepticon.clld.org/parameters/1697,dilluns,Monday
+177-213,stan1289,http://concepticon.clld.org/parameters/1695,dimarts,Tuesday
+177-1128,stan1289,http://concepticon.clld.org/parameters/1694,dimecres,Wednesday
+177-1334,stan1289,http://concepticon.clld.org/parameters/1693,dijous,Thursday
+177-201,stan1289,http://concepticon.clld.org/parameters/1692,divendres,Friday
+177-423,stan1289,http://concepticon.clld.org/parameters/1700,dissabte,Saturday
+177-31,stan1289,http://concepticon.clld.org/parameters/1370,mes,month
+177-540,stan1289,http://concepticon.clld.org/parameters/1226,any,year
+177-855,stan1289,http://concepticon.clld.org/parameters/1471,hivern,winter
+177-146,stan1289,http://concepticon.clld.org/parameters/1537,primavera,spring
+177-1117,stan1289,http://concepticon.clld.org/parameters/1342,estiu,summer
+177-1409,stan1289,http://concepticon.clld.org/parameters/1276,tardor,autumn
+177-367,stan1289,http://concepticon.clld.org/parameters/691,estació,season
+177-321,stan1289,http://concepticon.clld.org/parameters/1587,fer olor,smell (vb intrans)
+177-1187,stan1289,http://concepticon.clld.org/parameters/375,olorar,sniff
+177-1187,stan1289,http://concepticon.clld.org/parameters/1586,olorar,smell (vb trans)
+177-60,stan1289,http://concepticon.clld.org/parameters/376,fragància,"fragrant, good smelling"
+177-800,stan1289,http://concepticon.clld.org/parameters/376,bona olor,"fragrant, good smelling"
+177-682,stan1289,http://concepticon.clld.org/parameters/42,mala olor,"stinking, bad smelling"
+177-104,stan1289,http://concepticon.clld.org/parameters/21,tastar,taste
+177-245,stan1289,http://concepticon.clld.org/parameters/717,dolç,sweet
+177-1175,stan1289,http://concepticon.clld.org/parameters/1091,salat,salty
+177-1046,stan1289,http://concepticon.clld.org/parameters/887,amarg,bitter
+177-1350,stan1289,http://concepticon.clld.org/parameters/1906,àcid,"acid, sour"
+177-130,stan1289,http://concepticon.clld.org/parameters/1906,agre,"acid, sour"
+177-1177,stan1289,http://concepticon.clld.org/parameters/70,salabrós,brackish
+177-70,stan1289,http://concepticon.clld.org/parameters/1408,sentir,hear
+177-831,stan1289,http://concepticon.clld.org/parameters/1608,escoltar,listen
+177-462,stan1289,http://concepticon.clld.org/parameters/1811,so,"sound, noise"
+177-715,stan1289,http://concepticon.clld.org/parameters/1811,fressa,"sound, noise"
+177-902,stan1289,http://concepticon.clld.org/parameters/1811,soroll,"sound, noise"
+177-334,stan1289,http://concepticon.clld.org/parameters/377,fort,loud
+177-743,stan1289,http://concepticon.clld.org/parameters/1314,tranquil,"quiet, silence"
+177-1073,stan1289,http://concepticon.clld.org/parameters/1314,silenci,"quiet, silence"
+177-402,stan1289,http://concepticon.clld.org/parameters/1409,veure,see
+177-873,stan1289,http://concepticon.clld.org/parameters/1819,mirar,"look, look at"
+177-323,stan1289,http://concepticon.clld.org/parameters/1039,ensenyar,show
+177-982,stan1289,http://concepticon.clld.org/parameters/708,brillar,shine
+177-972,stan1289,http://concepticon.clld.org/parameters/679,brillant,bright
+177-437,stan1289,http://concepticon.clld.org/parameters/679,resplandor,bright
+177-608,stan1289,http://concepticon.clld.org/parameters/1613,color,color
+177-686,stan1289,http://concepticon.clld.org/parameters/250,clar,light (in color)
+177-197,stan1289,http://concepticon.clld.org/parameters/706,fosc,dark (in color)
+177-897,stan1289,http://concepticon.clld.org/parameters/1335,blanc,white
+177-1243,stan1289,http://concepticon.clld.org/parameters/163,negre,black
+177-222,stan1289,http://concepticon.clld.org/parameters/156,vermell,red
+177-648,stan1289,http://concepticon.clld.org/parameters/837,blau,blue
+177-771,stan1289,http://concepticon.clld.org/parameters/1425,verd,green
+177-453,stan1289,http://concepticon.clld.org/parameters/1424,groc,yellow
+177-1068,stan1289,http://concepticon.clld.org/parameters/1892,tocar,touch
+177-509,stan1289,http://concepticon.clld.org/parameters/378,pessigar,pinch
+177-70,stan1289,http://concepticon.clld.org/parameters/1079,sentir,feel
+177-987,stan1289,http://concepticon.clld.org/parameters/1884,dur,hard
+177-242,stan1289,http://concepticon.clld.org/parameters/1856,suau,soft
+177-1150,stan1289,http://concepticon.clld.org/parameters/1923,aspre,rough
+177-1365,stan1289,http://concepticon.clld.org/parameters/1234,llis,smooth
+177-61,stan1289,http://concepticon.clld.org/parameters/1396,afilat,sharp
+177-150,stan1289,http://concepticon.clld.org/parameters/1396,esmolat,sharp
+177-129,stan1289,http://concepticon.clld.org/parameters/379,esmussat,"blunt, dull"
+177-1162,stan1289,http://concepticon.clld.org/parameters/1210,pesat,heavy
+177-1192,stan1289,http://concepticon.clld.org/parameters/1052,lleuger,light (in weight)
+177-348,stan1289,http://concepticon.clld.org/parameters/1726,moll,"wet, damp"
+177-958,stan1289,http://concepticon.clld.org/parameters/1398,sec,dry
+177-1016,stan1289,http://concepticon.clld.org/parameters/1286,calent,hot
+177-860,stan1289,http://concepticon.clld.org/parameters/1232,càlid,warm
+177-591,stan1289,http://concepticon.clld.org/parameters/1232,calurós,warm
+177-252,stan1289,http://concepticon.clld.org/parameters/1232,tebi,warm
+177-796,stan1289,http://concepticon.clld.org/parameters/1287,fred,cold
+177-25,stan1289,http://concepticon.clld.org/parameters/704,net,clean
+177-1080,stan1289,http://concepticon.clld.org/parameters/1230,brut,"dirty, soiled"
+177-419,stan1289,http://concepticon.clld.org/parameters/380,arrugat,wrinkled
+177-859,stan1289,http://concepticon.clld.org/parameters/53,ànima,"soul, spirit"
+177-929,stan1289,http://concepticon.clld.org/parameters/53,esperit,"soul, spirit"
+177-58,stan1289,http://concepticon.clld.org/parameters/1572,sorprès,"surprised, astonished"
+177-777,stan1289,http://concepticon.clld.org/parameters/720,bona sort,"good fortune, luck"
+177-521,stan1289,http://concepticon.clld.org/parameters/56,mala sort,"misfortune, bad luck"
+177-1403,stan1289,http://concepticon.clld.org/parameters/1495,feliç,"joyful, glad, happy"
+177-67,stan1289,http://concepticon.clld.org/parameters/1495,alegre,"joyful, glad, happy"
+177-333,stan1289,http://concepticon.clld.org/parameters/1355,riure,laugh
+177-824,stan1289,http://concepticon.clld.org/parameters/1451,somriure,smile
+177-940,stan1289,http://concepticon.clld.org/parameters/1413,jugar,play
+177-1138,stan1289,http://concepticon.clld.org/parameters/923,estimar,love
+177-14,stan1289,http://concepticon.clld.org/parameters/578,fer un petó,kiss
+177-719,stan1289,http://concepticon.clld.org/parameters/578,besar,kiss
+177-1328,stan1289,http://concepticon.clld.org/parameters/928,abraçar,embrace
+177-458,stan1289,http://concepticon.clld.org/parameters/1783,mal,pain
+177-550,stan1289,http://concepticon.clld.org/parameters/1783,dolor,pain
+177-1254,stan1289,http://concepticon.clld.org/parameters/1668,tristesa,"grief, sorrow, sadness"
+177-550,stan1289,http://concepticon.clld.org/parameters/1668,dolor,"grief, sorrow, sadness"
+177-629,stan1289,http://concepticon.clld.org/parameters/1668,pena,"grief, sorrow, sadness"
+177-512,stan1289,http://concepticon.clld.org/parameters/1000,ansietat,"anxiety, worry"
+177-250,stan1289,http://concepticon.clld.org/parameters/1000,preocupació,"anxiety, worry"
+177-36,stan1289,http://concepticon.clld.org/parameters/1875,lamentar,"regret, be sorry"
+177-534,stan1289,http://concepticon.clld.org/parameters/1141,llàstima,pity
+177-1147,stan1289,http://concepticon.clld.org/parameters/1839,plorar,"cry, weep"
+177-468,stan1289,http://concepticon.clld.org/parameters/1651,llàgrima,tear (noun)
+177-514,stan1289,http://concepticon.clld.org/parameters/716,gemegar,groan
+177-1220,stan1289,http://concepticon.clld.org/parameters/1607,odiar,hate
+177-378,stan1289,http://concepticon.clld.org/parameters/82,ràbia,anger
+177-1395,stan1289,http://concepticon.clld.org/parameters/40,enveja,"envy, jealousy"
+177-1442,stan1289,http://concepticon.clld.org/parameters/40,gelós,"envy, jealousy"
+177-624,stan1289,http://concepticon.clld.org/parameters/1776,vergonya,shame (noun)
+177-981,stan1289,http://concepticon.clld.org/parameters/174,orgullós,proud
+177-1017,stan1289,http://concepticon.clld.org/parameters/1779,atrevir-se,dare
+177-212,stan1289,http://concepticon.clld.org/parameters/1779,gosar,dare
+177-1049,stan1289,http://concepticon.clld.org/parameters/3,valent,brave
+177-612,stan1289,http://concepticon.clld.org/parameters/781,por,"fear, fright"
+177-756,stan1289,http://concepticon.clld.org/parameters/1810,perill,danger
+177-1311,stan1289,http://concepticon.clld.org/parameters/1784,desitjar,"desire, want"
+177-952,stan1289,http://concepticon.clld.org/parameters/1784,voler,"desire, want"
+177-294,stan1289,http://concepticon.clld.org/parameters/1750,escollir,choose
+177-93,stan1289,http://concepticon.clld.org/parameters/1092,esperança,hope
+177-302,stan1289,http://concepticon.clld.org/parameters/100,fidel,faithful
+177-1384,stan1289,http://concepticon.clld.org/parameters/1657,veritat,true
+177-244,stan1289,http://concepticon.clld.org/parameters/601,mentir,"lie, tell lies"
+177-843,stan1289,http://concepticon.clld.org/parameters/601,dir mentides,"lie, tell lies"
+177-251,stan1289,http://concepticon.clld.org/parameters/13,enganyar,deceit
+177-882,stan1289,http://concepticon.clld.org/parameters/1528,perdonar,forgive
+177-1066,stan1289,http://concepticon.clld.org/parameters/1035,bo,good
+177-131,stan1289,http://concepticon.clld.org/parameters/1292,dolent,bad
+177-108,stan1289,http://concepticon.clld.org/parameters/1725,correcte,"right, correct"
+177-1118,stan1289,http://concepticon.clld.org/parameters/1725,bé,"right, correct"
+177-769,stan1289,http://concepticon.clld.org/parameters/1390,fals,wrong
+177-525,stan1289,http://concepticon.clld.org/parameters/1390,incorrecte,wrong
+177-1290,stan1289,http://concepticon.clld.org/parameters/1390,malament,wrong
+177-405,stan1289,http://concepticon.clld.org/parameters/134,culpa,fault
+177-1345,stan1289,http://concepticon.clld.org/parameters/1293,equivocació,"mistake, error"
+177-1002,stan1289,http://concepticon.clld.org/parameters/1293,error,"mistake, error"
+177-405,stan1289,http://concepticon.clld.org/parameters/381,culpa,blame
+177-996,stan1289,http://concepticon.clld.org/parameters/1687,elogiar,praise
+177-780,stan1289,http://concepticon.clld.org/parameters/1427,bonic,beautiful
+177-922,stan1289,http://concepticon.clld.org/parameters/1427,maco,beautiful
+177-417,stan1289,http://concepticon.clld.org/parameters/1548,lleig,ugly
+177-1309,stan1289,http://concepticon.clld.org/parameters/2018,tacanyo,greedy
+177-1284,stan1289,http://concepticon.clld.org/parameters/2018,avar,greedy
+177-1445,stan1289,http://concepticon.clld.org/parameters/1310,intelˑligent,clever
+177-183,stan1289,http://concepticon.clld.org/parameters/1562,ment,mind
+177-585,stan1289,http://concepticon.clld.org/parameters/1562,pensament,mind
+177-866,stan1289,http://concepticon.clld.org/parameters/1415,pensar,think (= reflect)
+177-866,stan1289,http://concepticon.clld.org/parameters/1513,pensar,think (= be of the opinion)
+177-604,stan1289,http://concepticon.clld.org/parameters/1513,creure,think (= be of the opinion)
+177-604,stan1289,http://concepticon.clld.org/parameters/1890,creure,believe
+177-554,stan1289,http://concepticon.clld.org/parameters/1536,entendre,understand
+177-885,stan1289,http://concepticon.clld.org/parameters/1536,comprendre,understand
+177-50,stan1289,http://concepticon.clld.org/parameters/1410,saber,know
+177-275,stan1289,http://concepticon.clld.org/parameters/1932,suposar,guess
+177-841,stan1289,http://concepticon.clld.org/parameters/117,imitar,imitate
+177-241,stan1289,http://concepticon.clld.org/parameters/1521,semblar,seem
+177-874,stan1289,http://concepticon.clld.org/parameters/1609,idea,"idea, notion"
+177-1344,stan1289,http://concepticon.clld.org/parameters/1609,noció,"idea, notion"
+177-1174,stan1289,http://concepticon.clld.org/parameters/698,sabi,wise
+177-979,stan1289,http://concepticon.clld.org/parameters/1518,tonto,"foolish, stupid"
+177-1305,stan1289,http://concepticon.clld.org/parameters/1518,estúpid,"foolish, stupid"
+177-1237,stan1289,http://concepticon.clld.org/parameters/1899,boig,"insane, crazy"
+177-603,stan1289,http://concepticon.clld.org/parameters/504,aprendre,learn
+177-1058,stan1289,http://concepticon.clld.org/parameters/1929,estudiar,study
+177-323,stan1289,http://concepticon.clld.org/parameters/709,ensenyar,teach
+177-170,stan1289,http://concepticon.clld.org/parameters/753,alumne,pupil
+177-260,stan1289,http://concepticon.clld.org/parameters/1038,mestre,teacher
+177-173,stan1289,http://concepticon.clld.org/parameters/1038,professor,teacher
+177-1148,stan1289,http://concepticon.clld.org/parameters/673,escola,school
+177-209,stan1289,http://concepticon.clld.org/parameters/673,colˑlegi,school
+177-1103,stan1289,http://concepticon.clld.org/parameters/707,recordar,remember
+177-677,stan1289,http://concepticon.clld.org/parameters/707,enrecordar-se'n,remember
+177-669,stan1289,http://concepticon.clld.org/parameters/1523,oblidar,forget
+177-516,stan1289,http://concepticon.clld.org/parameters/1523,endescuidar-se,forget
+177-686,stan1289,http://concepticon.clld.org/parameters/989,clar,"clear, plain"
+177-1030,stan1289,http://concepticon.clld.org/parameters/1764,obscur,obscure
+177-984,stan1289,http://concepticon.clld.org/parameters/1121,secret,secret
+177-910,stan1289,http://concepticon.clld.org/parameters/509,segur,"sure, certain"
+177-1157,stan1289,http://concepticon.clld.org/parameters/509,cert,"sure, certain"
+177-1266,stan1289,http://concepticon.clld.org/parameters/1626,explicar,explain
+177-729,stan1289,http://concepticon.clld.org/parameters/1162,intenció,"intention, purpose"
+177-279,stan1289,http://concepticon.clld.org/parameters/1162,propòsit,"intention, purpose"
+177-1158,stan1289,http://concepticon.clld.org/parameters/860,causar,cause
+177-1214,stan1289,http://concepticon.clld.org/parameters/1308,dubtar,doubt
+177-1257,stan1289,http://concepticon.clld.org/parameters/1841,sospitar,suspect
+177-891,stan1289,http://concepticon.clld.org/parameters/1902,traicionar,betray
+177-1169,stan1289,http://concepticon.clld.org/parameters/1902,trair,betray
+177-57,stan1289,http://concepticon.clld.org/parameters/643,necessitar,"need, necessity"
+177-388,stan1289,http://concepticon.clld.org/parameters/643,necessitat,"need, necessity"
+177-1249,stan1289,http://concepticon.clld.org/parameters/686,fàcil,easy
+177-190,stan1289,http://concepticon.clld.org/parameters/584,difícil,difficult
+177-124,stan1289,http://concepticon.clld.org/parameters/1812,intentar,"try, attempt"
+177-564,stan1289,http://concepticon.clld.org/parameters/1812,provar,"try, attempt"
+177-466,stan1289,http://concepticon.clld.org/parameters/488,manera,"way, manner"
+177-1360,stan1289,http://concepticon.clld.org/parameters/1577,i,and
+177-849,stan1289,http://concepticon.clld.org/parameters/1157,perquè,because
+177-461,stan1289,http://concepticon.clld.org/parameters/1459,si,if
+177-311,stan1289,http://concepticon.clld.org/parameters/1014,o,or
+177-1227,stan1289,http://concepticon.clld.org/parameters/1268,sí,"yes, affirmative"
+177-1413,stan1289,http://concepticon.clld.org/parameters/1268,afirmatiu,"yes, affirmative"
+177-350,stan1289,http://concepticon.clld.org/parameters/1269,no,"no, negative"
+177-256,stan1289,http://concepticon.clld.org/parameters/1269,negatiu,"no, negative"
+177-581,stan1289,http://concepticon.clld.org/parameters/1239,com?,how?
+177-240,stan1289,http://concepticon.clld.org/parameters/822,quants?,how many?
+177-1424,stan1289,http://concepticon.clld.org/parameters/531,quant?,how much?
+177-44,stan1289,http://concepticon.clld.org/parameters/1236,què?,what?
+177-265,stan1289,http://concepticon.clld.org/parameters/1238,quan?,when?
+177-1160,stan1289,http://concepticon.clld.org/parameters/1237,on? a on?,where?
+177-1433,stan1289,http://concepticon.clld.org/parameters/727,quin?,which?
+177-1330,stan1289,http://concepticon.clld.org/parameters/1235,qui?,who?
+177-954,stan1289,http://concepticon.clld.org/parameters/1270,per què?,why?
+177-369,stan1289,http://concepticon.clld.org/parameters/1363,veu,voice
+177-997,stan1289,http://concepticon.clld.org/parameters/1261,cantar,sing
+177-778,stan1289,http://concepticon.clld.org/parameters/715,cridar,"shout, cry out"
+177-915,stan1289,http://concepticon.clld.org/parameters/55,xiuxiuejar,whisper
+177-467,stan1289,http://concepticon.clld.org/parameters/128,murmurar,mumble
+177-156,stan1289,http://concepticon.clld.org/parameters/1025,xiular,whistle
+177-268,stan1289,http://concepticon.clld.org/parameters/298,xerricar,"shriek, screech"
+177-1389,stan1289,http://concepticon.clld.org/parameters/298,xisclar,"shriek, screech"
+177-1106,stan1289,http://concepticon.clld.org/parameters/526,udolar,howl
+177-948,stan1289,http://concepticon.clld.org/parameters/1623,parlar,"speak, talk"
+177-739,stan1289,http://concepticon.clld.org/parameters/1866,tartamudejar,"stutter, stammer"
+177-639,stan1289,http://concepticon.clld.org/parameters/1866,quequejar,"stutter, stammer"
+177-386,stan1289,http://concepticon.clld.org/parameters/1458,dir,say
+177-1202,stan1289,http://concepticon.clld.org/parameters/1711,explicar una història,tell story
+177-857,stan1289,http://concepticon.clld.org/parameters/1115,discurs (fer un),speech (make a)
+177-679,stan1289,http://concepticon.clld.org/parameters/48,callar,silent (be)
+177-339,stan1289,http://concepticon.clld.org/parameters/1307,llengua,language
+177-199,stan1289,http://concepticon.clld.org/parameters/1307,idioma,language
+177-696,stan1289,http://concepticon.clld.org/parameters/1599,paraula,word
+177-477,stan1289,http://concepticon.clld.org/parameters/1405,nom,name
+177-1099,stan1289,http://concepticon.clld.org/parameters/1309,preguntar,"ask (question, inquire)"
+177-1015,stan1289,http://concepticon.clld.org/parameters/1275,contestar,answer
+177-727,stan1289,http://concepticon.clld.org/parameters/1275,respondre,answer
+177-750,stan1289,http://concepticon.clld.org/parameters/2022,admetre,"admit, confess"
+177-955,stan1289,http://concepticon.clld.org/parameters/2022,confessar,"admit, confess"
+177-293,stan1289,http://concepticon.clld.org/parameters/755,negar,deny
+177-1296,stan1289,http://concepticon.clld.org/parameters/1828,demanar,"ask, request"
+177-789,stan1289,http://concepticon.clld.org/parameters/1675,prometre,promise
+177-582,stan1289,http://concepticon.clld.org/parameters/49,rebutjar,refuse
+177-101,stan1289,http://concepticon.clld.org/parameters/83,prohibir,forbid
+177-1116,stan1289,http://concepticon.clld.org/parameters/299,reprendre,"rebuke, scold"
+177-1283,stan1289,http://concepticon.clld.org/parameters/299,renyar,"rebuke, scold"
+177-778,stan1289,http://concepticon.clld.org/parameters/1084,cridar,call (=summon)
+177-1428,stan1289,http://concepticon.clld.org/parameters/180,dir-se,call (=name)
+177-184,stan1289,http://concepticon.clld.org/parameters/9,anunciar,announce
+177-494,stan1289,http://concepticon.clld.org/parameters/1192,amenaçar,threaten
+177-457,stan1289,http://concepticon.clld.org/parameters/101,xulejar,boast
+177-561,stan1289,http://concepticon.clld.org/parameters/101,presumir,boast
+177-1019,stan1289,http://concepticon.clld.org/parameters/1672,escriure,write
+177-1318,stan1289,http://concepticon.clld.org/parameters/724,llegir,read
+177-856,stan1289,http://concepticon.clld.org/parameters/648,paper,paper
+177-721,stan1289,http://concepticon.clld.org/parameters/794,bolígraf,pen
+177-82,stan1289,http://concepticon.clld.org/parameters/963,llibre,book
+177-1399,stan1289,http://concepticon.clld.org/parameters/1045,poeta,poet
+177-188,stan1289,http://concepticon.clld.org/parameters/777,flauta,flute
+177-1272,stan1289,http://concepticon.clld.org/parameters/908,tambor,drum
+177-1325,stan1289,http://concepticon.clld.org/parameters/2136,trompeta,"horn, trumpet"
+177-421,stan1289,http://concepticon.clld.org/parameters/300,cascavell,rattle
+177-160,stan1289,http://concepticon.clld.org/parameters/1300,país,country
+177-1357,stan1289,http://concepticon.clld.org/parameters/89,pàtria,one's native country
+177-401,stan1289,http://concepticon.clld.org/parameters/1391,ciutat,"city, town"
+177-312,stan1289,http://concepticon.clld.org/parameters/930,poble,village
+177-991,stan1289,http://concepticon.clld.org/parameters/1010,frontera,boundary
+177-111,stan1289,http://concepticon.clld.org/parameters/1010,límit,boundary
+177-1153,stan1289,http://concepticon.clld.org/parameters/789,gent,people (populace)
+177-714,stan1289,http://concepticon.clld.org/parameters/302,tribu,"tribe, clan"
+177-678,stan1289,http://concepticon.clld.org/parameters/302,clan,"tribe, clan"
+177-430,stan1289,http://concepticon.clld.org/parameters/301,cap,"chief, chieftain"
+177-432,stan1289,http://concepticon.clld.org/parameters/1296,bastó,"staff, walking stick"
+177-847,stan1289,http://concepticon.clld.org/parameters/1846,regnar,"rule, govern"
+177-1366,stan1289,http://concepticon.clld.org/parameters/1846,governar,"rule, govern"
+177-1221,stan1289,http://concepticon.clld.org/parameters/1508,rei,"king, ruler"
+177-788,stan1289,http://concepticon.clld.org/parameters/1508,governador,"king, ruler"
+177-784,stan1289,http://concepticon.clld.org/parameters/1306,reina,queen
+177-658,stan1289,http://concepticon.clld.org/parameters/482,noble,"noble, nobleman"
+177-1352,stan1289,http://concepticon.clld.org/parameters/1032,ciutadà,"citizen, subject"
+177-408,stan1289,http://concepticon.clld.org/parameters/1032,súbdit,"citizen, subject"
+177-674,stan1289,http://concepticon.clld.org/parameters/383,amo,master
+177-887,stan1289,http://concepticon.clld.org/parameters/812,esclau,slave
+177-890,stan1289,http://concepticon.clld.org/parameters/255,servent,servant
+177-1292,stan1289,http://concepticon.clld.org/parameters/384,home lliure,freeman
+177-680,stan1289,http://concepticon.clld.org/parameters/1128,manar,"command, order"
+177-881,stan1289,http://concepticon.clld.org/parameters/1635,obeir,obey
+177-121,stan1289,http://concepticon.clld.org/parameters/1003,deixar,"let, permit"
+177-970,stan1289,http://concepticon.clld.org/parameters/1003,permetre,"let, permit"
+177-73,stan1289,http://concepticon.clld.org/parameters/1325,amic,"friend, companion"
+177-817,stan1289,http://concepticon.clld.org/parameters/1325,company,"friend, companion"
+177-87,stan1289,http://concepticon.clld.org/parameters/1358,enemic,enemy
+177-1301,stan1289,http://concepticon.clld.org/parameters/1332,veí,neighbor
+177-1408,stan1289,http://concepticon.clld.org/parameters/791,estranger,stranger
+177-359,stan1289,http://concepticon.clld.org/parameters/791,foraster,stranger
+177-1382,stan1289,http://concepticon.clld.org/parameters/1782,hoste,guest
+177-542,stan1289,http://concepticon.clld.org/parameters/1782,convidat,guest
+177-918,stan1289,http://concepticon.clld.org/parameters/1545,amfitrió,host
+177-1382,stan1289,http://concepticon.clld.org/parameters/1545,hoste,host
+177-1040,stan1289,http://concepticon.clld.org/parameters/1897,ajudar,"help, aid"
+177-1000,stan1289,http://concepticon.clld.org/parameters/1550,impedir,"hinder, prevent"
+177-253,stan1289,http://concepticon.clld.org/parameters/1747,costum,custom
+177-1236,stan1289,http://concepticon.clld.org/parameters/1848,baralla,"strife, quarrel"
+177-1198,stan1289,http://concepticon.clld.org/parameters/2024,conspiració,"conspiracy, plot"
+177-1278,stan1289,http://concepticon.clld.org/parameters/2024,complot,"conspiracy, plot"
+177-113,stan1289,http://concepticon.clld.org/parameters/1831,trobar-se,meet
+177-168,stan1289,http://concepticon.clld.org/parameters/1610,prostituta,prostitute
+177-283,stan1289,http://concepticon.clld.org/parameters/1423,lluitar,fight (vb)
+177-200,stan1289,http://concepticon.clld.org/parameters/579,guerra,"war, battle"
+177-613,stan1289,http://concepticon.clld.org/parameters/579,batalla,"war, battle"
+177-653,stan1289,http://concepticon.clld.org/parameters/1338,pau,peace
+177-1449,stan1289,http://concepticon.clld.org/parameters/1561,exèrcit,army
+177-39,stan1289,http://concepticon.clld.org/parameters/1941,soldat,soldier
+177-282,stan1289,http://concepticon.clld.org/parameters/951,armes,"weapons, arms"
+177-656,stan1289,http://concepticon.clld.org/parameters/1763,pal,club
+177-227,stan1289,http://concepticon.clld.org/parameters/386,d'estral de combat,battle-ax
+177-933,stan1289,http://concepticon.clld.org/parameters/387,fona,sling
+177-957,stan1289,http://concepticon.clld.org/parameters/994,arc,bow
+177-911,stan1289,http://concepticon.clld.org/parameters/977,fletxa,arrow
+177-767,stan1289,http://concepticon.clld.org/parameters/945,llança,spear
+177-839,stan1289,http://concepticon.clld.org/parameters/945,arpó,spear
+177-969,stan1289,http://concepticon.clld.org/parameters/1535,espasa,sword
+177-465,stan1289,http://concepticon.clld.org/parameters/1566,escopeta,"gun, cannon"
+177-705,stan1289,http://concepticon.clld.org/parameters/1566,canó,"gun, cannon"
+177-1062,stan1289,http://concepticon.clld.org/parameters/1061,armadura,armor (defensive)
+177-638,stan1289,http://concepticon.clld.org/parameters/1680,casc,helmet
+177-496,stan1289,http://concepticon.clld.org/parameters/1064,escut,shield
+177-292,stan1289,http://concepticon.clld.org/parameters/1938,fortalesa,fortress
+177-814,stan1289,http://concepticon.clld.org/parameters/1671,torre,tower
+177-834,stan1289,http://concepticon.clld.org/parameters/783,victòria,victory
+177-1440,stan1289,http://concepticon.clld.org/parameters/782,derrota,defeat
+177-1143,stan1289,http://concepticon.clld.org/parameters/722,atacar,attack
+177-66,stan1289,http://concepticon.clld.org/parameters/1330,defensar,defend
+177-161,stan1289,http://concepticon.clld.org/parameters/421,retirar-se,retreat
+177-615,stan1289,http://concepticon.clld.org/parameters/1696,rendir-se,surrender
+177-1047,stan1289,http://concepticon.clld.org/parameters/1072,presoner,"captive, prisoner"
+177-535,stan1289,http://concepticon.clld.org/parameters/1940,guàrdia,"guard, sentinel"
+177-364,stan1289,http://concepticon.clld.org/parameters/1940,sentinelˑla,"guard, sentinel"
+177-1299,stan1289,http://concepticon.clld.org/parameters/1022,botí,"booty, spoils"
+177-1310,stan1289,http://concepticon.clld.org/parameters/65,emboscar,ambush
+177-4,stan1289,http://concepticon.clld.org/parameters/65,emboscada,ambush
+177-713,stan1289,http://concepticon.clld.org/parameters/1858,pescador,fisherman
+177-1141,stan1289,http://concepticon.clld.org/parameters/1074,ham,fishhook
+177-1251,stan1289,http://concepticon.clld.org/parameters/19,fil de pescar,fishing line
+177-483,stan1289,http://concepticon.clld.org/parameters/388,xarxa,fishnet
+177-1102,stan1289,http://concepticon.clld.org/parameters/389,nas,fish trap
+177-574,stan1289,http://concepticon.clld.org/parameters/2013,esquer,bait
+177-261,stan1289,http://concepticon.clld.org/parameters/1435,caçar,hunt
+177-154,stan1289,http://concepticon.clld.org/parameters/1172,disparar,shoot
+177-464,stan1289,http://concepticon.clld.org/parameters/161,fallar,miss (target)
+177-1273,stan1289,http://concepticon.clld.org/parameters/1075,trampa,trap (noun)
+177-179,stan1289,http://concepticon.clld.org/parameters/1075,parany,trap (noun)
+177-258,stan1289,http://concepticon.clld.org/parameters/1170,atrapar,trap (vb)
+177-1196,stan1289,http://concepticon.clld.org/parameters/1062,llei,law
+177-428,stan1289,http://concepticon.clld.org/parameters/1068,tribunal,court
+177-459,stan1289,http://concepticon.clld.org/parameters/1818,jutjar,judge (vb)
+177-1268,stan1289,http://concepticon.clld.org/parameters/1067,judici,judgment
+177-1053,stan1289,http://concepticon.clld.org/parameters/861,jutge,judge (noun)
+177-324,stan1289,http://concepticon.clld.org/parameters/2020,demandant,plaintiff
+177-558,stan1289,http://concepticon.clld.org/parameters/2020,acusador,plaintiff
+177-169,stan1289,http://concepticon.clld.org/parameters/1034,acusat,defendant
+177-707,stan1289,http://concepticon.clld.org/parameters/1144,testimoni,witness
+177-37,stan1289,http://concepticon.clld.org/parameters/1939,jurar,swear
+177-609,stan1289,http://concepticon.clld.org/parameters/1712,jurament,oath
+177-793,stan1289,http://concepticon.clld.org/parameters/1814,acusar,accuse
+177-1287,stan1289,http://concepticon.clld.org/parameters/484,condemnar,condemn
+177-1287,stan1289,http://concepticon.clld.org/parameters/983,condemnar,convict (vb)
+177-1250,stan1289,http://concepticon.clld.org/parameters/988,absoldre,acquit
+177-536,stan1289,http://concepticon.clld.org/parameters/1682,culpable,guilty
+177-278,stan1289,http://concepticon.clld.org/parameters/90,innocent,innocent
+177-1427,stan1289,http://concepticon.clld.org/parameters/390,càstig,"penalty, punishment"
+177-779,stan1289,http://concepticon.clld.org/parameters/218,multa,fine
+177-666,stan1289,http://concepticon.clld.org/parameters/1281,presó,"prison, jail"
+177-1340,stan1289,http://concepticon.clld.org/parameters/845,assassinar,murder
+177-1337,stan1289,http://concepticon.clld.org/parameters/902,adulteri,adultery
+177-1358,stan1289,http://concepticon.clld.org/parameters/953,violació,rape
+177-304,stan1289,http://concepticon.clld.org/parameters/1889,incendi premeditat,arson
+177-1190,stan1289,http://concepticon.clld.org/parameters/1792,perjuri,perjury
+177-332,stan1289,http://concepticon.clld.org/parameters/713,robar,steal
+177-217,stan1289,http://concepticon.clld.org/parameters/1160,lladre,thief
+177-1021,stan1289,http://concepticon.clld.org/parameters/661,religió,religion
+177-1087,stan1289,http://concepticon.clld.org/parameters/1944,Déu,God
+177-1065,stan1289,http://concepticon.clld.org/parameters/911,temple,"temple, church"
+177-700,stan1289,http://concepticon.clld.org/parameters/911,església,"temple, church"
+177-424,stan1289,http://concepticon.clld.org/parameters/853,altar,altar
+177-452,stan1289,http://concepticon.clld.org/parameters/1103,sacrifici,"sacrifice, offering"
+177-133,stan1289,http://concepticon.clld.org/parameters/1103,ofrena,"sacrifice, offering"
+177-852,stan1289,http://concepticon.clld.org/parameters/257,culte,worship
+177-1248,stan1289,http://concepticon.clld.org/parameters/24,pregar,pray
+177-528,stan1289,http://concepticon.clld.org/parameters/852,capellà,priest
+177-667,stan1289,http://concepticon.clld.org/parameters/1702,sagrat,"holy, sacred"
+177-520,stan1289,http://concepticon.clld.org/parameters/304,predicar,preach
+177-1223,stan1289,http://concepticon.clld.org/parameters/391,beneir,bless
+177-983,stan1289,http://concepticon.clld.org/parameters/8,maleir,curse
+177-310,stan1289,http://concepticon.clld.org/parameters/303,dejunar,fast (vb)
+177-864,stan1289,http://concepticon.clld.org/parameters/1565,cel,heaven
+177-1084,stan1289,http://concepticon.clld.org/parameters/878,infern,hell
+177-1145,stan1289,http://concepticon.clld.org/parameters/1973,dimoni,demon (evil spirit)
+177-97,stan1289,http://concepticon.clld.org/parameters/1945,ídol,idol
+177-325,stan1289,http://concepticon.clld.org/parameters/392,màgia,"magic, witchcraft, sorcery"
+177-1308,stan1289,http://concepticon.clld.org/parameters/392,bruixeria,"magic, witchcraft, sorcery"
+177-1218,stan1289,http://concepticon.clld.org/parameters/2137,bruixa,"sorcerer, witch"
+177-939,stan1289,http://concepticon.clld.org/parameters/2137,bruixot,"sorcerer, witch"
+177-85,stan1289,http://concepticon.clld.org/parameters/2138,fada,"fairy, elf"
+177-1100,stan1289,http://concepticon.clld.org/parameters/2138,nan,"fairy, elf"
+177-663,stan1289,http://concepticon.clld.org/parameters/1175,fantasma,"ghost, phantom"
+177-592,stan1289,http://concepticon.clld.org/parameters/107,presagi,"omen, portent"
+177-471,stan1289,http://concepticon.clld.org/parameters/107,auguri,"omen, portent"

@@ -1,0 +1,635 @@
+ID,Language_ID,Feature_ID,Value,Concept
+313-365,qawa1238,http://concepticon.clld.org/parameters/626,wes,"earth, land"
+313-189,qawa1238,http://concepticon.clld.org/parameters/1228,xaley-tḳal,"earth=ground, soil"
+313-360,qawa1238,http://concepticon.clld.org/parameters/2,papas-ḳʰar,dust
+313-297,qawa1238,http://concepticon.clld.org/parameters/640,papˀe,mud
+313-290,qawa1238,http://concepticon.clld.org/parameters/671,ḳyepc̷aḳs,sand
+313-373,qawa1238,http://concepticon.clld.org/parameters/2118,arḳa-ḳʰar,"mountain, hill"
+313-128,qawa1238,http://concepticon.clld.org/parameters/618,aḳsalc̷ewe,"cliff, precipice"
+313-364,qawa1238,http://concepticon.clld.org/parameters/652,arḳa-ḳalaḳs,"plain, field"
+313-423,qawa1238,http://concepticon.clld.org/parameters/622,xale-ḳʰar,island
+313-417,qawa1238,http://concepticon.clld.org/parameters/166,wes-erlay,mainland
+313-193,qawa1238,http://concepticon.clld.org/parameters/113,wes-ya,shore
+313-248,qawa1238,http://concepticon.clld.org/parameters/1155,c̷ˀayes-alowe,cave
+313-4,qawa1238,http://concepticon.clld.org/parameters/948,c̷efa-lay,water
+313-345,qawa1238,http://concepticon.clld.org/parameters/1474,c̷ams,sea
+313-156,qawa1238,http://concepticon.clld.org/parameters/258,eyta-ḳsta,calm (of sea)
+313-84,qawa1238,http://concepticon.clld.org/parameters/1768,ma,foam
+313-135,qawa1238,http://concepticon.clld.org/parameters/624,c̷efa-lay-tḳal,lake
+313-450,qawa1238,http://concepticon.clld.org/parameters/663,sapar,"gulf, bay"
+313-135,qawa1238,http://concepticon.clld.org/parameters/623,c̷efa-lay-tḳal,lagoon
+313-446,qawa1238,http://concepticon.clld.org/parameters/660,c̷elas-ḳʰar,reef
+313-308,qawa1238,http://concepticon.clld.org/parameters/978,yerḳỵarya,wave
+313-412,qawa1238,http://concepticon.clld.org/parameters/1026,afseḳta,lowtide
+313-337,qawa1238,http://concepticon.clld.org/parameters/1026,afsoḳta (?),lowtide
+313-196,qawa1238,http://concepticon.clld.org/parameters/613,xayeḳta,hightide
+313-279,qawa1238,http://concepticon.clld.org/parameters/666,c̷efa-lay erlay,"river, stream, brook"
+313-67,qawa1238,http://concepticon.clld.org/parameters/1982,c̷eḳwolas,whirlpool
+313-372,qawa1238,http://concepticon.clld.org/parameters/2144,c̷efa-lay ḳawaḳsa,"spring, well"
+313-297,qawa1238,http://concepticon.clld.org/parameters/1145,papˀe,swamp
+313-562,qawa1238,http://concepticon.clld.org/parameters/420,arḳʰatawan,"woods, forest"
+313-541,qawa1238,http://concepticon.clld.org/parameters/906,ḳʰar,tree (cf 08.600)
+313-215,qawa1238,http://concepticon.clld.org/parameters/2125,ḳyesaw,"stone, rock"
+313-520,qawa1238,http://concepticon.clld.org/parameters/1732,arḳa-c̷ewe,sky
+313-239,qawa1238,http://concepticon.clld.org/parameters/1343,aswal-ḳ-seles,sun
+313-347,qawa1238,http://concepticon.clld.org/parameters/1313,yeḳaptsewe-ḳ-seles,moon
+313-296,qawa1238,http://concepticon.clld.org/parameters/1430,c̷elesewe,star
+313-286,qawa1238,http://concepticon.clld.org/parameters/1150,aryor,thunder
+313-395,qawa1238,http://concepticon.clld.org/parameters/2007,ḳyoyes,lightning (as striking)
+313-280,qawa1238,http://concepticon.clld.org/parameters/1733,aḳyepena,rainbow
+313-170,qawa1238,http://concepticon.clld.org/parameters/630,ḳyoyes-ḳʰar,light (noun)
+313-91,qawa1238,http://concepticon.clld.org/parameters/11,aḳyawe,darkness
+313-294,qawa1238,http://concepticon.clld.org/parameters/1388,ḳʰawes,"shade, shadow"
+313-375,qawa1238,http://concepticon.clld.org/parameters/960,safḳyas,wind
+313-9,qawa1238,http://concepticon.clld.org/parameters/1489,arḳa-yeta,cloud
+313-559,qawa1238,http://concepticon.clld.org/parameters/249,ayxer,fog
+313-139,qawa1238,http://concepticon.clld.org/parameters/658,aperḳs,rain (noun)
+313-72,qawa1238,http://concepticon.clld.org/parameters/784,asewe,snow (noun)
+313-311,qawa1238,http://concepticon.clld.org/parameters/617,yeterya,ice
+313-277,qawa1238,http://concepticon.clld.org/parameters/221,afc̷ˀar,fire
+313-359,qawa1238,http://concepticon.clld.org/parameters/889,ḳyoyareḳ,flame (noun)
+313-285,qawa1238,http://concepticon.clld.org/parameters/778,ayeḳyo,smoke (noun)
+313-15,qawa1238,http://concepticon.clld.org/parameters/646,aymaḳʰar,ashes
+313-453,qawa1238,http://concepticon.clld.org/parameters/67,ḳstatel,embers
+313-431,qawa1238,http://concepticon.clld.org/parameters/141,aw-af-na,burn (vb trans)
+313-222,qawa1238,http://concepticon.clld.org/parameters/737,tˀeḳya,"light, kindle, ignite"
+313-212,qawa1238,http://concepticon.clld.org/parameters/127,ḳayes,extinguish
+313-105,qawa1238,http://concepticon.clld.org/parameters/1133,yeḳstat,match (noun)
+313-277,qawa1238,http://concepticon.clld.org/parameters/10,afc̷ˀar,firewood
+313-502,qawa1238,http://concepticon.clld.org/parameters/683,ḳawas-ḳʰar,"person, human being"
+313-560,qawa1238,http://concepticon.clld.org/parameters/1554,aḳsenes,man (vs. woman)
+313-434,qawa1238,http://concepticon.clld.org/parameters/962,esatap,woman
+313-183,qawa1238,http://concepticon.clld.org/parameters/2263,areḳ,male
+313-307,qawa1238,http://concepticon.clld.org/parameters/2260,waleḳ,female
+313-549,qawa1238,http://concepticon.clld.org/parameters/76,erḳsa,young man (adolescent)
+313-409,qawa1238,http://concepticon.clld.org/parameters/1646,ḳawesḳʰar-seles,girl
+313-142,qawa1238,http://concepticon.clld.org/parameters/1304,eyxyol,child
+313-183,qawa1238,http://concepticon.clld.org/parameters/1200,areḳ,husband
+313-500,qawa1238,http://concepticon.clld.org/parameters/1199,aftsoḳ,wife
+313-99,qawa1238,http://concepticon.clld.org/parameters/1217,c̷ewal,father
+313-115,qawa1238,http://concepticon.clld.org/parameters/1216,c̷ap,mother
+313-142,qawa1238,http://concepticon.clld.org/parameters/1620,eyxyol,son
+313-247,qawa1238,http://concepticon.clld.org/parameters/1357,eyxyol-seles,daughter
+313-142,qawa1238,http://concepticon.clld.org/parameters/1801,eyxyol,offspring (son or daughter)
+313-438,qawa1238,http://concepticon.clld.org/parameters/1262,taḳsoḳte,brother
+313-50,qawa1238,http://concepticon.clld.org/parameters/1759,yerḳeperḳ,older brother
+313-326,qawa1238,http://concepticon.clld.org/parameters/1760,are,younger brother
+313-493,qawa1238,http://concepticon.clld.org/parameters/1263,taḳsoḳte-seles,sister
+313-398,qawa1238,http://concepticon.clld.org/parameters/1758,c̷ewelḳer,older sister
+313-37,qawa1238,http://concepticon.clld.org/parameters/1761,are-seles,younger sister
+313-264,qawa1238,http://concepticon.clld.org/parameters/1383,yersas,grandfather
+313-180,qawa1238,http://concepticon.clld.org/parameters/406,oyḳep-ḳʰar,old man
+313-514,qawa1238,http://concepticon.clld.org/parameters/1496,ḳyewo-seles,grandmother
+313-421,qawa1238,http://concepticon.clld.org/parameters/907,xoyḳo-las,old woman
+313-552,qawa1238,http://concepticon.clld.org/parameters/1618,seḳwayoḳ,grandson
+313-386,qawa1238,http://concepticon.clld.org/parameters/1619,seḳwayoḳ-seles,granddaughter
+313-558,qawa1238,http://concepticon.clld.org/parameters/1985,yerwotaḳ,father's brother
+313-491,qawa1238,http://concepticon.clld.org/parameters/1272,soterḳ,aunt
+313-558,qawa1238,http://concepticon.clld.org/parameters/170,yerwotaḳ,father's sister
+313-42,qawa1238,http://concepticon.clld.org/parameters/1063,eyxyol-yerwasḳay,nephew
+313-293,qawa1238,http://concepticon.clld.org/parameters/1643,yerwasḳe,cousin
+313-301,qawa1238,http://concepticon.clld.org/parameters/2255,tarḳeyep,father-in-law (of a man)
+313-76,qawa1238,http://concepticon.clld.org/parameters/2256,tayxar-seles,mother-in-law (of a man)
+313-383,qawa1238,http://concepticon.clld.org/parameters/237,wareḳsens,stepfather
+313-546,qawa1238,http://concepticon.clld.org/parameters/236,wareḳsen-seles,stepmother
+313-524,qawa1238,http://concepticon.clld.org/parameters/1644,yeḳyareḳ,"relatives, kinsmen"
+313-524,qawa1238,http://concepticon.clld.org/parameters/194,yeḳyareḳ,family
+313-495,qawa1238,http://concepticon.clld.org/parameters/1209,c̷e,I
+313-179,qawa1238,http://concepticon.clld.org/parameters/1215,c̷aw,you (singular)
+313-179,qawa1238,http://concepticon.clld.org/parameters/262,c̷aw,he/she/it
+313-495,qawa1238,http://concepticon.clld.org/parameters/1212,c̷e,we
+313-179,qawa1238,http://concepticon.clld.org/parameters/1213,c̷aw,you (plural)
+313-179,qawa1238,http://concepticon.clld.org/parameters/817,c̷aw,they
+313-183,qawa1238,http://concepticon.clld.org/parameters/2261,areḳ,male (adj)
+313-307,qawa1238,http://concepticon.clld.org/parameters/2262,waleḳ,female (adj)
+313-16,qawa1238,http://concepticon.clld.org/parameters/1007,[waḳya],cow
+313-465,qawa1238,http://concepticon.clld.org/parameters/1331,[wese],sheep
+313-39,qawa1238,http://concepticon.clld.org/parameters/615,[orase],horse (equine)
+313-433,qawa1238,http://concepticon.clld.org/parameters/1514,xaḳawaḳa,hen
+313-211,qawa1238,http://concepticon.clld.org/parameters/1360,ḳayep,duck
+313-54,qawa1238,http://concepticon.clld.org/parameters/539,ey-tḳal,nest
+313-11,qawa1238,http://concepticon.clld.org/parameters/937,ḳayesḳa,bird
+313-220,qawa1238,http://concepticon.clld.org/parameters/950,ḳaḳayes,seagull
+313-379,qawa1238,http://concepticon.clld.org/parameters/758,c̷ˀaḳʰa,heron
+313-555,qawa1238,http://concepticon.clld.org/parameters/1905,c̷eyes,eagle
+313-406,qawa1238,http://concepticon.clld.org/parameters/1185,aḳorasap,vulture
+313-404,qawa1238,http://concepticon.clld.org/parameters/1793,atoloc̷alaḳya,bat
+313-352,qawa1238,http://concepticon.clld.org/parameters/882,parpar,parrot
+313-143,qawa1238,http://concepticon.clld.org/parameters/735,ḳoḳoles,owl
+313-391,qawa1238,http://concepticon.clld.org/parameters/2009,ḳyoro,dog
+313-252,qawa1238,http://concepticon.clld.org/parameters/1208,ḳeyeto,cat
+313-476,qawa1238,http://concepticon.clld.org/parameters/2139,atḳasap,"mouse, rat"
+313-468,qawa1238,http://concepticon.clld.org/parameters/227,yawc̷en,fish
+313-146,qawa1238,http://concepticon.clld.org/parameters/213,eḳarte,fin (dorsal)
+313-66,qawa1238,http://concepticon.clld.org/parameters/266,ḳse,fishscale
+313-29,qawa1238,http://concepticon.clld.org/parameters/1916,afḳyal,gill
+313-541,qawa1238,http://concepticon.clld.org/parameters/598,ḳʰar,shell
+313-315,qawa1238,http://concepticon.clld.org/parameters/1479,saḳstar,"porpoise, dolphin"
+313-339,qawa1238,http://concepticon.clld.org/parameters/957,apela,whale
+313-77,qawa1238,http://concepticon.clld.org/parameters/1312,ḳyonc̷ar,fox
+313-10,qawa1238,http://concepticon.clld.org/parameters/1936,yeḳc̷al,deer
+313-507,qawa1238,http://concepticon.clld.org/parameters/310,yeḳstawes,louse
+313-269,qawa1238,http://concepticon.clld.org/parameters/843,ḳac̷ayema,spider
+313-173,qawa1238,http://concepticon.clld.org/parameters/1504,ḳyematela,fly
+313-173,qawa1238,http://concepticon.clld.org/parameters/1509,ḳyematela,mosquito
+313-97,qawa1238,http://concepticon.clld.org/parameters/1219,ḳc̷eryaap,worm
+313-316,qawa1238,http://concepticon.clld.org/parameters/730,terḳoyasoḳ,snake
+313-62,qawa1238,http://concepticon.clld.org/parameters/1791,c̷eḳelstaḳʰo,butterfly
+313-522,qawa1238,http://concepticon.clld.org/parameters/607,ḳʰaserpe-ḳʰar,grasshopper
+313-127,qawa1238,http://concepticon.clld.org/parameters/1543,taḳˀoyawes,snail
+313-384,qawa1238,http://concepticon.clld.org/parameters/503,ataḳtele,frog
+313-110,qawa1238,http://concepticon.clld.org/parameters/763,ḳawes,"skin, hide"
+313-437,qawa1238,http://concepticon.clld.org/parameters/1040,eyoḳ,hair (head)
+313-457,qawa1238,http://concepticon.clld.org/parameters/678,af-eyoḳ,beard
+313-416,qawa1238,http://concepticon.clld.org/parameters/189,ḳawes-eyoḳ,body hair
+313-314,qawa1238,http://concepticon.clld.org/parameters/946,ḳstanḳse,blood
+313-289,qawa1238,http://concepticon.clld.org/parameters/525,ḳstanḳse-ḳwar,"vein, artery"
+313-541,qawa1238,http://concepticon.clld.org/parameters/1394,ḳʰar,bone
+313-94,qawa1238,http://concepticon.clld.org/parameters/801,arḳsar-ḳte,rib
+313-205,qawa1238,http://concepticon.clld.org/parameters/1393,aḳter,horn
+313-63,qawa1238,http://concepticon.clld.org/parameters/1220,ḳso,tail
+313-60,qawa1238,http://concepticon.clld.org/parameters/1291,taḳʰay-ḳte,back
+313-271,qawa1238,http://concepticon.clld.org/parameters/805,c̷anerḳwop,spine
+313-26,qawa1238,http://concepticon.clld.org/parameters/1256,tes-ḳʰar,head
+313-300,qawa1238,http://concepticon.clld.org/parameters/1583,ḳayec̷ewor,brain
+313-153,qawa1238,http://concepticon.clld.org/parameters/1560,tes-tḳal,face
+313-267,qawa1238,http://concepticon.clld.org/parameters/123,tes-tes,forehead
+313-516,qawa1238,http://concepticon.clld.org/parameters/798,af-ḳʰar,jaw
+313-330,qawa1238,http://concepticon.clld.org/parameters/1730,ḳsec̷epe,cheek
+313-516,qawa1238,http://concepticon.clld.org/parameters/1510,af-ḳʰar,chin
+313-38,qawa1238,http://concepticon.clld.org/parameters/1248,tes,eye
+313-176,qawa1238,http://concepticon.clld.org/parameters/1173,tes-eyoḳ,eyebrow
+313-357,qawa1238,http://concepticon.clld.org/parameters/17,tes-ḳawes,eyelid
+313-224,qawa1238,http://concepticon.clld.org/parameters/1540,tes-atal-eyoḳ,eyelash
+313-473,qawa1238,http://concepticon.clld.org/parameters/1247,ḳyawe,ear
+313-89,qawa1238,http://concepticon.clld.org/parameters/32,ḳyawe-ḳstay-tˀole,earwax
+313-53,qawa1238,http://concepticon.clld.org/parameters/1221,nows,nose
+313-78,qawa1238,http://concepticon.clld.org/parameters/1178,nows-ḳstay,nostril
+313-263,qawa1238,http://concepticon.clld.org/parameters/674,af-ḳstay,mouth
+313-35,qawa1238,http://concepticon.clld.org/parameters/478,af-sere,lip
+313-488,qawa1238,http://concepticon.clld.org/parameters/1205,ḳalaḳtes,tongue
+313-246,qawa1238,http://concepticon.clld.org/parameters/1380,sereḳte,tooth
+313-341,qawa1238,http://concepticon.clld.org/parameters/139,ḳarḳs ḳosese,gums
+313-41,qawa1238,http://concepticon.clld.org/parameters/1333,ḳyelef-ḳʰar,neck
+313-13,qawa1238,http://concepticon.clld.org/parameters/1347,ḳyasen-ḳyot,nape of neck
+313-124,qawa1238,http://concepticon.clld.org/parameters/1346,ḳawora,throat
+313-376,qawa1238,http://concepticon.clld.org/parameters/1482,taḳʰon,shoulder
+313-470,qawa1238,http://concepticon.clld.org/parameters/1994,ḳˀeles-ḳʰar,collarbone
+313-322,qawa1238,http://concepticon.clld.org/parameters/1673,terwa-ḳʰar,arm
+313-230,qawa1238,http://concepticon.clld.org/parameters/1886,xanḳstay,armpit
+313-551,qawa1238,http://concepticon.clld.org/parameters/981,apaay,elbow
+313-160,qawa1238,http://concepticon.clld.org/parameters/799,terwa-stal,wrist
+313-432,qawa1238,http://concepticon.clld.org/parameters/1277,terwa,hand
+313-250,qawa1238,http://concepticon.clld.org/parameters/1183,terwa-c̷ewe,palm of hand
+313-511,qawa1238,http://concepticon.clld.org/parameters/1303,arḳsen,finger
+313-126,qawa1238,http://concepticon.clld.org/parameters/1781,atʰeles-atʰeles-o-xar,thumb
+313-548,qawa1238,http://concepticon.clld.org/parameters/1258,ḳsteyes-ḳʰar,fingernail
+313-548,qawa1238,http://concepticon.clld.org/parameters/72,ḳsteyes-ḳʰar,claw
+313-539,qawa1238,http://concepticon.clld.org/parameters/1297,ḳʰat,leg
+313-27,qawa1238,http://concepticon.clld.org/parameters/800,ḳʰat-serpe,thigh
+313-158,qawa1238,http://concepticon.clld.org/parameters/498,ḳʰat-ḳʰar,calf of leg
+313-232,qawa1238,http://concepticon.clld.org/parameters/1371,tˀeltal,knee
+313-539,qawa1238,http://concepticon.clld.org/parameters/1301,ḳʰat,foot
+313-158,qawa1238,http://concepticon.clld.org/parameters/803,ḳʰat-ḳʰar,ankle
+313-98,qawa1238,http://concepticon.clld.org/parameters/980,ḳatse,heel
+313-81,qawa1238,http://concepticon.clld.org/parameters/318,ḳsepso-ḳoc̷er,footprint
+313-284,qawa1238,http://concepticon.clld.org/parameters/1389,tows-arḳsens,toe
+313-432,qawa1238,http://concepticon.clld.org/parameters/1257,terwa,wing
+313-309,qawa1238,http://concepticon.clld.org/parameters/1201,c̷apas,feather
+313-564,qawa1238,http://concepticon.clld.org/parameters/1592,ḳyep-ḳʰar,chest
+313-414,qawa1238,http://concepticon.clld.org/parameters/1402,c̷exyaw,breast (of woman)
+313-414,qawa1238,http://concepticon.clld.org/parameters/796,c̷exyaw,"nipple, teat"
+313-257,qawa1238,http://concepticon.clld.org/parameters/1838,ḳc̷ˀenes,navel
+313-331,qawa1238,http://concepticon.clld.org/parameters/1223,c̷enaḳs,heart
+313-298,qawa1238,http://concepticon.clld.org/parameters/688,paroḳs,lung
+313-400,qawa1238,http://concepticon.clld.org/parameters/1224,atʰaḳ,liver
+313-121,qawa1238,http://concepticon.clld.org/parameters/489,ḳerḳstama,kidney
+313-243,qawa1238,http://concepticon.clld.org/parameters/819,aḳyaw,stomach
+313-272,qawa1238,http://concepticon.clld.org/parameters/1991,ḳyoc̷-ḳtel,"intestines, guts"
+313-157,qawa1238,http://concepticon.clld.org/parameters/1681,ḳyot-estal,waist
+313-387,qawa1238,http://concepticon.clld.org/parameters/1745,yeḳas,hip
+313-355,qawa1238,http://concepticon.clld.org/parameters/804,c̷eftsamaḳ,womb
+313-350,qawa1238,http://concepticon.clld.org/parameters/797,yaaḳto,testicle
+313-262,qawa1238,http://concepticon.clld.org/parameters/1222,xayaso,penis
+313-278,qawa1238,http://concepticon.clld.org/parameters/1407,aws,"breathe, breath"
+313-543,qawa1238,http://concepticon.clld.org/parameters/1028,ḳaḳareḳs,"yawn, gape"
+313-113,qawa1238,http://concepticon.clld.org/parameters/162,c̷ˀelaḳs,hiccough
+313-455,qawa1238,http://concepticon.clld.org/parameters/879,yerḳsa,cough
+313-64,qawa1238,http://concepticon.clld.org/parameters/1621,arḳstems,sneeze
+313-45,qawa1238,http://concepticon.clld.org/parameters/126,selḳwaser,perspire
+313-218,qawa1238,http://concepticon.clld.org/parameters/1440,fteyes,spit
+313-320,qawa1238,http://concepticon.clld.org/parameters/1278,laal,vomit
+313-19,qawa1238,http://concepticon.clld.org/parameters/1403,c̷aḳˀawes,bite
+313-310,qawa1238,http://concepticon.clld.org/parameters/319,melc̷as,lick
+313-137,qawa1238,http://concepticon.clld.org/parameters/1585,tḳame,sleep
+313-152,qawa1238,http://concepticon.clld.org/parameters/1983,ḳsene-ḳtserḳsta,snore
+313-260,qawa1238,http://concepticon.clld.org/parameters/1920,aseḳsor,dream
+313-6,qawa1238,http://concepticon.clld.org/parameters/1159,ḳermaseya,break wind
+313-354,qawa1238,http://concepticon.clld.org/parameters/592,ḳsḳar,urinate
+313-422,qawa1238,http://concepticon.clld.org/parameters/676,ḳˀyeyeḳ,defecate
+313-145,qawa1238,http://concepticon.clld.org/parameters/1785,areyo,have sexual intercourse
+313-563,qawa1238,http://concepticon.clld.org/parameters/52,ac̷ernaḳ,shiver
+313-530,qawa1238,http://concepticon.clld.org/parameters/138,yepayxen,bathe
+313-161,qawa1238,http://concepticon.clld.org/parameters/1123,ayxyol-ḳwar,pregnant
+313-231,qawa1238,http://concepticon.clld.org/parameters/1422,ḳsḳyal,"live, living, life"
+313-501,qawa1238,http://concepticon.clld.org/parameters/1494,yexanar,"die, dead"
+313-69,qawa1238,http://concepticon.clld.org/parameters/1904,paḳtas,drowned
+313-168,qawa1238,http://concepticon.clld.org/parameters/1417,ḳaar,kill
+313-358,qawa1238,http://concepticon.clld.org/parameters/1719,ḳawaḳso,bury (the dead)
+313-181,qawa1238,http://concepticon.clld.org/parameters/1773,ḳeyer-ḳstay,"grave, tomb"
+313-133,qawa1238,http://concepticon.clld.org/parameters/785,c̷ˀeleḳs,"strong, mighty, powerful"
+313-366,qawa1238,http://concepticon.clld.org/parameters/1364,af-ḳyawel-na,"well, health"
+313-531,qawa1238,http://concepticon.clld.org/parameters/1847,af,"sick, sickness"
+313-371,qawa1238,http://concepticon.clld.org/parameters/1109,erso,"wound, sore"
+313-447,qawa1238,http://concepticon.clld.org/parameters/497,setḳap-c̷oyo,scar
+313-166,qawa1238,http://concepticon.clld.org/parameters/597,[teḳtor],physician
+313-17,qawa1238,http://concepticon.clld.org/parameters/1372,c̷ese-ḳʰar,"medicine, drug"
+313-120,qawa1238,http://concepticon.clld.org/parameters/1757,ḳʰarḳʰap,"tired, weary"
+313-418,qawa1238,http://concepticon.clld.org/parameters/168,yepana,rest
+313-256,qawa1238,http://concepticon.clld.org/parameters/1564,serḳsḳwena,lazy
+313-20,qawa1238,http://concepticon.clld.org/parameters/320,ḳasc̷el,lame
+313-492,qawa1238,http://concepticon.clld.org/parameters/996,ḳyawe-ḳyawel,deaf
+313-223,qawa1238,http://concepticon.clld.org/parameters/1653,tas-ḳyawel,blind
+313-49,qawa1238,http://concepticon.clld.org/parameters/1463,ḳyepʰas-na,intoxicated
+313-498,qawa1238,http://concepticon.clld.org/parameters/590,teyesḳes,"naked, bare"
+313-182,qawa1238,http://concepticon.clld.org/parameters/1336,yefa-yes,eat
+313-182,qawa1238,http://concepticon.clld.org/parameters/256,yefa-yes,food
+313-90,qawa1238,http://concepticon.clld.org/parameters/269,awasḳe-so,cooked
+313-184,qawa1238,http://concepticon.clld.org/parameters/1959,es,raw
+313-474,qawa1238,http://concepticon.clld.org/parameters/178,ac̷aas,ripe
+313-164,qawa1238,http://concepticon.clld.org/parameters/1958,ac̷a-ḳseḳer,"green, unripe"
+313-7,qawa1238,http://concepticon.clld.org/parameters/1728,aḳs-na,rotten
+313-4,qawa1238,http://concepticon.clld.org/parameters/1401,c̷efa-lay,drink
+313-55,qawa1238,http://concepticon.clld.org/parameters/1533,ḳyewas,hunger
+313-111,qawa1238,http://concepticon.clld.org/parameters/848,c̷efa-ḳayna,thirst
+313-497,qawa1238,http://concepticon.clld.org/parameters/1421,c̷eptsas,suck
+313-273,qawa1238,http://concepticon.clld.org/parameters/321,yefa-tawan,chew
+313-521,qawa1238,http://concepticon.clld.org/parameters/897,aḳstaraḳso,swallow
+313-329,qawa1238,http://concepticon.clld.org/parameters/1100,awas,cook
+313-109,qawa1238,http://concepticon.clld.org/parameters/792,malmas,boil (vb)
+313-18,qawa1238,http://concepticon.clld.org/parameters/1462,peyḳyo-ḳʰar,"pot, cooking vessel"
+313-129,qawa1238,http://concepticon.clld.org/parameters/481,yefayes-tḳal,dish
+313-171,qawa1238,http://concepticon.clld.org/parameters/270,ḳyanes-ḳʰar,"pitcher, jug"
+313-401,qawa1238,http://concepticon.clld.org/parameters/1378,yefayes-ḳʰar,spoon
+313-58,qawa1238,http://concepticon.clld.org/parameters/1352,afsasḳe,knife (2)
+313-399,qawa1238,http://concepticon.clld.org/parameters/1322,papesḳa,breakfast
+313-425,qawa1238,http://concepticon.clld.org/parameters/275,ḳseyes,peel
+313-363,qawa1238,http://concepticon.clld.org/parameters/1767,c̷eftse-lay,scrape
+313-274,qawa1238,http://concepticon.clld.org/parameters/1368,tasensḳa,bread
+313-34,qawa1238,http://concepticon.clld.org/parameters/274,panepes,knead
+313-274,qawa1238,http://concepticon.clld.org/parameters/1594,tasensḳa,"meal, flour"
+313-251,qawa1238,http://concepticon.clld.org/parameters/1033,ḳsḳerḳye-na,"crush, grind"
+313-540,qawa1238,http://concepticon.clld.org/parameters/634,c̷ewalc̷eḳ,meat
+313-291,qawa1238,http://concepticon.clld.org/parameters/832,[porota],bean
+313-22,qawa1238,http://concepticon.clld.org/parameters/593,ḳwena,potato
+313-547,qawa1238,http://concepticon.clld.org/parameters/1484,ḳarnaḳar,oil
+313-345,qawa1238,http://concepticon.clld.org/parameters/1274,c̷ams,salt
+313-435,qawa1238,http://concepticon.clld.org/parameters/1385,aḳoḳstayesḳa,pepper
+313-163,qawa1238,http://concepticon.clld.org/parameters/862,yenc̷epas-ḳa,sugar
+313-327,qawa1238,http://concepticon.clld.org/parameters/635,ḳʰarxase,milk (noun)
+313-462,qawa1238,http://concepticon.clld.org/parameters/1569,waḳapsḳa,cheese
+313-85,qawa1238,http://concepticon.clld.org/parameters/1245,ḳenḳʰar,butter
+313-266,qawa1238,http://concepticon.clld.org/parameters/731,aḳc̷oḳar-afxar,"beverage, drink"
+313-203,qawa1238,http://concepticon.clld.org/parameters/1524,afxar,wine
+313-199,qawa1238,http://concepticon.clld.org/parameters/744,yese,egg
+313-466,qawa1238,http://concepticon.clld.org/parameters/1556,tˀanowas,egg yolk
+313-396,qawa1238,http://concepticon.clld.org/parameters/1895,awelḳa,"clothing, clothes"
+313-415,qawa1238,http://concepticon.clld.org/parameters/133,yeta,weave
+313-195,qawa1238,http://concepticon.clld.org/parameters/1457,aḳapas,sew
+313-275,qawa1238,http://concepticon.clld.org/parameters/1382,aḳapas-ḳʰar,needle
+313-48,qawa1238,http://concepticon.clld.org/parameters/278,wasḳala,awl
+313-483,qawa1238,http://concepticon.clld.org/parameters/326,yewala,cloak
+313-515,qawa1238,http://concepticon.clld.org/parameters/1622,ḳawes-eḳse,shirt
+313-188,qawa1238,http://concepticon.clld.org/parameters/809,ḳʰat-peyḳe,trousers
+313-74,qawa1238,http://concepticon.clld.org/parameters/329,ḳʰat-yare,"stocking, sock"
+313-249,qawa1238,http://concepticon.clld.org/parameters/1381,[c̷eḳwor],shoe
+313-114,qawa1238,http://concepticon.clld.org/parameters/585,[wota],boot
+313-361,qawa1238,http://concepticon.clld.org/parameters/2130,yeneḳ,"hat, cap"
+313-429,qawa1238,http://concepticon.clld.org/parameters/772,ḳyerḳyena,"belt, girdle"
+313-235,qawa1238,http://concepticon.clld.org/parameters/1851,xapalo,pocket
+313-369,qawa1238,http://concepticon.clld.org/parameters/757,yeḳena-ḳʰar,button
+313-253,qawa1238,http://concepticon.clld.org/parameters/1961,ḳamaseyar,necklace
+313-448,qawa1238,http://concepticon.clld.org/parameters/1475,yeḳseḳena-ḳʰar,comb
+313-532,qawa1238,http://concepticon.clld.org/parameters/1821,sewes-ḳʰar,brush
+313-258,qawa1238,http://concepticon.clld.org/parameters/151,afsayoḳ-c̷efc̷as-ḳʰar,razor
+313-362,qawa1238,http://concepticon.clld.org/parameters/788,aḳwas-ḳʰar,soap
+313-475,qawa1238,http://concepticon.clld.org/parameters/1171,leyes-ḳʰar,mirror
+313-538,qawa1238,http://concepticon.clld.org/parameters/1252,at,house
+313-538,qawa1238,http://concepticon.clld.org/parameters/1678,at,hut
+313-70,qawa1238,http://concepticon.clld.org/parameters/335,yenc̷exawa,meeting house
+313-202,qawa1238,http://concepticon.clld.org/parameters/1567,ḳstap,"door, gate"
+313-410,qawa1238,http://concepticon.clld.org/parameters/1375,ḳstaleḳsa,window
+313-554,qawa1238,http://concepticon.clld.org/parameters/1632,ḳsemna-ḳo-tḳal,floor
+313-236,qawa1238,http://concepticon.clld.org/parameters/933,at-ḳaleḳ-el,wall
+313-485,qawa1238,http://concepticon.clld.org/parameters/185,aftsar-tḳal,fireplace
+313-343,qawa1238,http://concepticon.clld.org/parameters/859,afc̷ar-ḳwal,stove
+313-463,qawa1238,http://concepticon.clld.org/parameters/1305,ḳowepe-ḳʰar,chimney
+313-388,qawa1238,http://concepticon.clld.org/parameters/1464,taryo-ḳʰar,ladder
+313-96,qawa1238,http://concepticon.clld.org/parameters/1663,talay-xo-tḳal,bed
+313-487,qawa1238,http://concepticon.clld.org/parameters/806,laaḳs,blanket
+313-529,qawa1238,http://concepticon.clld.org/parameters/1476,pap-o-tḳal,chair
+313-134,qawa1238,http://concepticon.clld.org/parameters/1775,yefa-yes-tḳal,table
+313-170,qawa1238,http://concepticon.clld.org/parameters/2131,ḳyoyes-ḳʰar,"lamp, torch"
+313-170,qawa1238,http://concepticon.clld.org/parameters/1273,ḳyoyes-ḳʰar,candle
+313-265,qawa1238,http://concepticon.clld.org/parameters/769,estes-tḳal,roof
+313-73,qawa1238,http://concepticon.clld.org/parameters/1227,seyane-ḳʰar,board
+313-449,qawa1238,http://concepticon.clld.org/parameters/1690,yec̷etḳana,fence
+313-486,qawa1238,http://concepticon.clld.org/parameters/1418,ḳawe-lay,dig
+313-2,qawa1238,http://concepticon.clld.org/parameters/714,yec̷ˀoy,seed
+313-494,qawa1238,http://concepticon.clld.org/parameters/926,c̷eryapsḳa,rice
+313-174,qawa1238,http://concepticon.clld.org/parameters/606,c̷apḳstas,grass
+313-270,qawa1238,http://concepticon.clld.org/parameters/653,ḳawoḳyena,plant (noun)
+313-177,qawa1238,http://concepticon.clld.org/parameters/670,wes-pel,root
+313-228,qawa1238,http://concepticon.clld.org/parameters/1531,ḳc̷eyḳe,branch
+313-66,qawa1238,http://concepticon.clld.org/parameters/628,ḳse,leaf
+313-102,qawa1238,http://concepticon.clld.org/parameters/239,yeḳstas,flower
+313-541,qawa1238,http://concepticon.clld.org/parameters/906,ḳʰar,tree
+313-324,qawa1238,http://concepticon.clld.org/parameters/644,yerḳseḳenoḳar,oak
+313-467,qawa1238,http://concepticon.clld.org/parameters/974,tˀelḳs,tobacco
+313-287,qawa1238,http://concepticon.clld.org/parameters/1689,c̷efas,smoke (tobacco)
+313-238,qawa1238,http://concepticon.clld.org/parameters/1124,tˀalḳs-ḳʰar,pipe
+313-443,qawa1238,http://concepticon.clld.org/parameters/1204,ḳʰar-ḳawes,bark
+313-40,qawa1238,http://concepticon.clld.org/parameters/345,ḳʰen,sap
+313-478,qawa1238,http://concepticon.clld.org/parameters/33,aw-asap,nettle
+313-382,qawa1238,http://concepticon.clld.org/parameters/641,arḳyawe,mushroom
+313-415,qawa1238,http://concepticon.clld.org/parameters/813,yeta,"do, make"
+313-79,qawa1238,http://concepticon.clld.org/parameters/984,altal,work
+313-119,qawa1238,http://concepticon.clld.org/parameters/1917,c̷epaḳye-na,"tie, bind"
+313-319,qawa1238,http://concepticon.clld.org/parameters/1218,ḳasapaḳs,"rope, cord"
+313-517,qawa1238,http://concepticon.clld.org/parameters/760,c̷epatḳaps,knot (noun)
+313-464,qawa1238,http://concepticon.clld.org/parameters/2133,c̷eḳows,"strike (hit, beat)"
+313-116,qawa1238,http://concepticon.clld.org/parameters/1432,c̷era-,cut
+313-33,qawa1238,http://concepticon.clld.org/parameters/1352,c̷erasḳe,knife
+313-512,qawa1238,http://concepticon.clld.org/parameters/356,ḳstepas-ḳʰar,"scissors, shears"
+313-245,qawa1238,http://concepticon.clld.org/parameters/677,ḳaryesḳa,ax
+313-93,qawa1238,http://concepticon.clld.org/parameters/680,c̷aḳsa,break
+313-213,qawa1238,http://concepticon.clld.org/parameters/1735,ḳstaḳsa,tear
+313-425,qawa1238,http://concepticon.clld.org/parameters/291,ḳseyes,"flay, skin"
+313-389,qawa1238,http://concepticon.clld.org/parameters/1449,yentˀas,"rub, wipe"
+313-208,qawa1238,http://concepticon.clld.org/parameters/214,ac̷eḳyas,stretch
+313-149,qawa1238,http://concepticon.clld.org/parameters/1455,ḳyerḳyeyan,pull
+313-508,qawa1238,http://concepticon.clld.org/parameters/357,ḳstawan,hang up
+313-118,qawa1238,http://concepticon.clld.org/parameters/1913,ḳserḳye-na,press
+313-25,qawa1238,http://concepticon.clld.org/parameters/1453,aḳwas,wash
+313-459,qawa1238,http://concepticon.clld.org/parameters/230,c̷efc̷as,sweep
+313-439,qawa1238,http://concepticon.clld.org/parameters/245,ḳelḳsta-ḳʰar,broom
+313-506,qawa1238,http://concepticon.clld.org/parameters/1361,wal,tool
+313-229,qawa1238,http://concepticon.clld.org/parameters/1501,aḳstap-lay,bore
+313-561,qawa1238,http://concepticon.clld.org/parameters/1481,c̷eyes-ḳʰar,hammer
+313-31,qawa1238,http://concepticon.clld.org/parameters/502,ḳyeḳasḳe,nail
+313-394,qawa1238,http://concepticon.clld.org/parameters/621,aḳaperwa,iron
+313-380,qawa1238,http://concepticon.clld.org/parameters/604,ḳawes-yeḳc̷els-ḳa,glass
+313-306,qawa1238,http://concepticon.clld.org/parameters/1539,tayo,basket
+313-313,qawa1238,http://concepticon.clld.org/parameters/1113,tˀerḳwaḳso,"wind, wrap"
+313-367,qawa1238,http://concepticon.clld.org/parameters/827,tˀaranaḳ,roll
+313-346,qawa1238,http://concepticon.clld.org/parameters/808,ḳstoc̷ḳal,drop (vb)
+313-14,qawa1238,http://concepticon.clld.org/parameters/501,altḳa,"raise, lift"
+313-411,qawa1238,http://concepticon.clld.org/parameters/1280,c̷eḳar,fall
+313-444,qawa1238,http://concepticon.clld.org/parameters/2253,ḳstawes,drip
+313-563,qawa1238,http://concepticon.clld.org/parameters/1909,ac̷ernaḳ,shake
+313-527,qawa1238,http://concepticon.clld.org/parameters/2003,c̷elḳwas,flow
+313-112,qawa1238,http://concepticon.clld.org/parameters/1574,ḳyol,float
+313-519,qawa1238,http://concepticon.clld.org/parameters/1439,lalas,swim
+313-472,qawa1238,http://concepticon.clld.org/parameters/119,ḳsḳoy,dive
+313-240,qawa1238,http://concepticon.clld.org/parameters/1441,alas,fly (vb)
+313-101,qawa1238,http://concepticon.clld.org/parameters/175,seḳwas,blow
+313-411,qawa1238,http://concepticon.clld.org/parameters/1324,c̷eḳar,"slide, slip"
+313-419,qawa1238,http://concepticon.clld.org/parameters/1829,ḳyestat,"jump, leap"
+313-295,qawa1238,http://concepticon.clld.org/parameters/1135,ftaw-lay,kick
+313-393,qawa1238,http://concepticon.clld.org/parameters/1879,wareḳ,dance
+313-225,qawa1238,http://concepticon.clld.org/parameters/1443,ḳsemnal,walk
+313-533,qawa1238,http://concepticon.clld.org/parameters/1519,ḳyeḳyayeḳs,run
+313-536,qawa1238,http://concepticon.clld.org/parameters/695,as,go
+313-427,qawa1238,http://concepticon.clld.org/parameters/705,yetḳʰar,go up
+313-426,qawa1238,http://concepticon.clld.org/parameters/2014,ḳseyep,go down
+313-123,qawa1238,http://concepticon.clld.org/parameters/1107,lap,go out
+313-335,qawa1238,http://concepticon.clld.org/parameters/1446,yec̷al,come
+313-68,qawa1238,http://concepticon.clld.org/parameters/581,ḳotereḳ,come back
+313-356,qawa1238,http://concepticon.clld.org/parameters/1752,c̷elḳwayeḳs,"go away, depart"
+313-136,qawa1238,http://concepticon.clld.org/parameters/956,ḳsḳena,flee
+313-207,qawa1238,http://concepticon.clld.org/parameters/1387,yetac̷al,"reach, arrive"
+313-47,qawa1238,http://concepticon.clld.org/parameters/1778,xac̷oḳ,approach
+313-513,qawa1238,http://concepticon.clld.org/parameters/749,loy,enter
+313-233,qawa1238,http://concepticon.clld.org/parameters/700,c̷elḳose,carry (bear)
+313-553,qawa1238,http://concepticon.clld.org/parameters/413,yeḳor-lay,carry-on-shoulder
+313-403,qawa1238,http://concepticon.clld.org/parameters/692,seḳc̷al,bring
+313-303,qawa1238,http://concepticon.clld.org/parameters/1127,yerwoḳʰos,send
+313-402,qawa1238,http://concepticon.clld.org/parameters/1452,eyxaḳer,"push, shove"
+313-44,qawa1238,http://concepticon.clld.org/parameters/667,taryo,road
+313-276,qawa1238,http://concepticon.clld.org/parameters/1011,taryo-ar,bridge
+313-87,qawa1238,http://concepticon.clld.org/parameters/1844,yemase,boat
+313-204,qawa1238,http://concepticon.clld.org/parameters/1970,ḳayef,canoe
+313-8,qawa1238,http://concepticon.clld.org/parameters/108,yemo-ḳʰar,oar
+313-190,qawa1238,http://concepticon.clld.org/parameters/234,ḳc̷ewes-ḳʰar,paddle (noun)
+313-172,qawa1238,http://concepticon.clld.org/parameters/1849,yemo,row (vb)
+313-509,qawa1238,http://concepticon.clld.org/parameters/184,c̷erḳar,mast
+313-106,qawa1238,http://concepticon.clld.org/parameters/786,c̷erseḳta,sail (noun)
+313-430,qawa1238,http://concepticon.clld.org/parameters/1870,c̷apars-ḳʰar,anchor
+313-377,qawa1238,http://concepticon.clld.org/parameters/610,c̷eyoxo,"harbor, port"
+313-261,qawa1238,http://concepticon.clld.org/parameters/1922,sas,land (vb)
+313-503,qawa1238,http://concepticon.clld.org/parameters/1749,xeno,take
+313-506,qawa1238,http://concepticon.clld.org/parameters/738,wal,thing
+313-162,qawa1238,http://concepticon.clld.org/parameters/1447,xaar,give
+313-328,qawa1238,http://concepticon.clld.org/parameters/1468,yalay,"seek, look for"
+313-92,qawa1238,http://concepticon.clld.org/parameters/1468,leyes,"seek, look for"
+313-242,qawa1238,http://concepticon.clld.org/parameters/719,c̷elḳoḳenar,find
+313-178,qawa1238,http://concepticon.clld.org/parameters/1660,yeteḳyepas-na,lose
+313-489,qawa1238,http://concepticon.clld.org/parameters/1559,aḳyoy,money
+313-312,qawa1238,http://concepticon.clld.org/parameters/1674,wal-ḳyawel,poor
+313-489,qawa1238,http://concepticon.clld.org/parameters/718,aḳyoy,pay (vb)
+313-489,qawa1238,http://concepticon.clld.org/parameters/1869,aḳyoy,buy
+313-282,qawa1238,http://concepticon.clld.org/parameters/1887,aḳyo-yeḳet,cheap
+313-125,qawa1238,http://concepticon.clld.org/parameters/884,c̷as-ḳelay,share (distribute)
+313-484,qawa1238,http://concepticon.clld.org/parameters/723,ḳyo-tereḳ,behind
+313-332,qawa1238,http://concepticon.clld.org/parameters/1816,atel,beside
+313-340,qawa1238,http://concepticon.clld.org/parameters/1882,of-tereḳ,before
+313-86,qawa1238,http://concepticon.clld.org/parameters/1606,alewe,"inside, in"
+313-123,qawa1238,http://concepticon.clld.org/parameters/762,lap,outside
+313-268,qawa1238,http://concepticon.clld.org/parameters/1591,arka,"up, above"
+313-405,qawa1238,http://concepticon.clld.org/parameters/1416,pap,sit
+313-104,qawa1238,http://concepticon.clld.org/parameters/215,talay,lie down
+313-14,qawa1238,http://concepticon.clld.org/parameters/1442,altḳa,stand
+313-57,qawa1238,http://concepticon.clld.org/parameters/838,ḳalḳsta,"remains, left overs"
+313-442,qawa1238,http://concepticon.clld.org/parameters/1576,yerpe-na,pile up
+313-108,qawa1238,http://concepticon.clld.org/parameters/1156,yetaḳsa,open
+313-51,qawa1238,http://concepticon.clld.org/parameters/761,c̷epḳayes,cover
+313-440,qawa1238,http://concepticon.clld.org/parameters/602,ḳol,"hide, conceal"
+313-201,qawa1238,http://concepticon.clld.org/parameters/1265,ḳstas,high
+313-148,qawa1238,http://concepticon.clld.org/parameters/1753,tˀes,top
+313-499,qawa1238,http://concepticon.clld.org/parameters/690,xale-ḳstay,bottom
+313-325,qawa1238,http://concepticon.clld.org/parameters/742,tefc̷elas,end
+313-21,qawa1238,http://concepticon.clld.org/parameters/1093,alese,"middle, center"
+313-175,qawa1238,http://concepticon.clld.org/parameters/1019,ḳeyaxan-tereḳ,right (side)
+313-537,qawa1238,http://concepticon.clld.org/parameters/244,asan-tereḳ,left (side)
+313-525,qawa1238,http://concepticon.clld.org/parameters/1942,ḳwaḳyaḳ,near (adv)
+313-194,qawa1238,http://concepticon.clld.org/parameters/1406,talaḳ,far (adv)
+313-542,qawa1238,http://concepticon.clld.org/parameters/1877,yetaḳsor,east
+313-385,qawa1238,http://concepticon.clld.org/parameters/1817,otḳal-aloe,west
+313-317,qawa1238,http://concepticon.clld.org/parameters/1598,xaḳate,north
+313-24,qawa1238,http://concepticon.clld.org/parameters/1595,ḳolayeḳ,south
+313-219,qawa1238,http://concepticon.clld.org/parameters/479,fsay-na,grow
+313-534,qawa1238,http://concepticon.clld.org/parameters/1202,erlay,"large, big"
+313-445,qawa1238,http://concepticon.clld.org/parameters/1246,yeḳe,"small, little"
+313-201,qawa1238,http://concepticon.clld.org/parameters/1203,ḳstas,long
+313-201,qawa1238,http://concepticon.clld.org/parameters/711,ḳstas,tall
+313-221,qawa1238,http://concepticon.clld.org/parameters/1645,tˀaw,short
+313-479,qawa1238,http://concepticon.clld.org/parameters/1267,aḳwos,narrow
+313-200,qawa1238,http://concepticon.clld.org/parameters/1244,yesa,thick (in dimension)
+313-23,qawa1238,http://concepticon.clld.org/parameters/1400,ḳʰarsḳa,thin (in dimension)
+313-499,qawa1238,http://concepticon.clld.org/parameters/1593,xale-ḳstay,deep
+313-413,qawa1238,http://concepticon.clld.org/parameters/1404,ḳses,straight
+313-147,qawa1238,http://concepticon.clld.org/parameters/1367,ac̷alḳac̷eḳs,cross
+313-150,qawa1238,http://concepticon.clld.org/parameters/850,ḳsayḳses,square
+313-159,qawa1238,http://concepticon.clld.org/parameters/1395,ḳoyerxas,round
+313-504,qawa1238,http://concepticon.clld.org/parameters/1294,ḳyep,"zero, nothing"
+313-198,qawa1238,http://concepticon.clld.org/parameters/1515,taḳ-so,one
+313-138,qawa1238,http://concepticon.clld.org/parameters/1498,woḳs,two
+313-397,qawa1238,http://concepticon.clld.org/parameters/492,woḳs-tow,three
+313-241,qawa1238,http://concepticon.clld.org/parameters/1198,aḳyay,"much, many"
+313-198,qawa1238,http://concepticon.clld.org/parameters/1242,taḳ-so,"little (quantity), few"
+313-344,qawa1238,http://concepticon.clld.org/parameters/1429,-ḳwal,full
+313-374,qawa1238,http://concepticon.clld.org/parameters/1624,ḳapḳʰar,empty
+313-454,qawa1238,http://concepticon.clld.org/parameters/1580,tʰaw,"alone, only"
+313-340,qawa1238,http://concepticon.clld.org/parameters/728,of-tereḳ,first
+313-167,qawa1238,http://concepticon.clld.org/parameters/1529,ḳexataw,last
+313-390,qawa1238,http://concepticon.clld.org/parameters/1231,layep,new
+313-302,qawa1238,http://concepticon.clld.org/parameters/1229,arxa-na,old
+313-545,qawa1238,http://concepticon.clld.org/parameters/1376,lafḳ,now
+313-460,qawa1238,http://concepticon.clld.org/parameters/1963,yac̷ḳyaḳ,immediately
+313-71,qawa1238,http://concepticon.clld.org/parameters/1631,apay,"swift, fast, quick"
+313-436,qawa1238,http://concepticon.clld.org/parameters/754,apayesḳa,"hasten, hurry"
+313-471,qawa1238,http://concepticon.clld.org/parameters/743,ḳyexaso,end (temporal)
+313-471,qawa1238,http://concepticon.clld.org/parameters/1766,ḳyexaso,finish
+313-56,qawa1238,http://concepticon.clld.org/parameters/204,ḳoteyo,again
+313-441,qawa1238,http://concepticon.clld.org/parameters/1260,aswal,day
+313-91,qawa1238,http://concepticon.clld.org/parameters/1233,aḳyawe,night
+313-3,qawa1238,http://concepticon.clld.org/parameters/729,aswaḳyar,dawn
+313-518,qawa1238,http://concepticon.clld.org/parameters/12,aswal-oyḳem-na,"noon, midday"
+313-244,qawa1238,http://concepticon.clld.org/parameters/1807,aswal-ḳte,afternoon
+313-305,qawa1238,http://concepticon.clld.org/parameters/1629,yewel,evening
+313-545,qawa1238,http://concepticon.clld.org/parameters/1283,lafḳ,today
+313-259,qawa1238,http://concepticon.clld.org/parameters/1329,aswalaḳ,tomorrow
+313-392,qawa1238,http://concepticon.clld.org/parameters/1179,aswalaḳ-aswalaḳ,day-after-tomorrow
+313-259,qawa1238,http://concepticon.clld.org/parameters/1174,aswalaḳ,yesterday
+313-107,qawa1238,http://concepticon.clld.org/parameters/1323,tera-tera,"clock, timepiece"
+313-451,qawa1238,http://concepticon.clld.org/parameters/1699,[tomenḳo],Sunday
+313-523,qawa1238,http://concepticon.clld.org/parameters/1370,arḳa-ḳ-seles,month
+313-12,qawa1238,http://concepticon.clld.org/parameters/1471,aḳʰape,winter
+313-544,qawa1238,http://concepticon.clld.org/parameters/1342,ac̷aḳsta,summer
+313-353,qawa1238,http://concepticon.clld.org/parameters/1276,yerḳorap,autumn
+313-234,qawa1238,http://concepticon.clld.org/parameters/1587,xanḳstas,smell (vb intrans)
+313-234,qawa1238,http://concepticon.clld.org/parameters/1586,xanḳstas,smell (vb trans)
+313-481,qawa1238,http://concepticon.clld.org/parameters/376,aḳs-ḳaryaḳ,"fragrant, good smelling"
+313-46,qawa1238,http://concepticon.clld.org/parameters/42,aḳstaw,"stinking, bad smelling"
+313-370,qawa1238,http://concepticon.clld.org/parameters/21,melc̷e-laay,taste
+313-214,qawa1238,http://concepticon.clld.org/parameters/717,melc̷eḳsta-ḳʰareyḳ,sweet
+313-345,qawa1238,http://concepticon.clld.org/parameters/1091,c̷ams,salty
+313-5,qawa1238,http://concepticon.clld.org/parameters/887,c̷afaḳstato,bitter
+313-187,qawa1238,http://concepticon.clld.org/parameters/1408,tel-ḳsor,hear
+313-187,qawa1238,http://concepticon.clld.org/parameters/1608,tel-ḳsor,listen
+313-32,qawa1238,http://concepticon.clld.org/parameters/1811,erwo-ḳsta,"sound, noise"
+313-255,qawa1238,http://concepticon.clld.org/parameters/1314,osere-ḳʰas,"quiet, silence"
+313-169,qawa1238,http://concepticon.clld.org/parameters/1409,ye-ḳsor,see
+313-92,qawa1238,http://concepticon.clld.org/parameters/1819,leyes,"look, look at"
+313-482,qawa1238,http://concepticon.clld.org/parameters/1039,yeḳc̷a-lay,show
+313-91,qawa1238,http://concepticon.clld.org/parameters/706,aḳyawe,dark (in color)
+313-197,qawa1238,http://concepticon.clld.org/parameters/1335,aḳyefḳyar,white
+313-185,qawa1238,http://concepticon.clld.org/parameters/163,semen,black
+313-318,qawa1238,http://concepticon.clld.org/parameters/156,ḳyeyero,red
+313-154,qawa1238,http://concepticon.clld.org/parameters/837,arḳʰa,blue
+313-154,qawa1238,http://concepticon.clld.org/parameters/1425,arḳʰa,green
+313-155,qawa1238,http://concepticon.clld.org/parameters/1424,tˀel,yellow
+313-292,qawa1238,http://concepticon.clld.org/parameters/1884,seweyep,hard
+313-348,qawa1238,http://concepticon.clld.org/parameters/1856,ftoyeḳs,soft
+313-43,qawa1238,http://concepticon.clld.org/parameters/1234,senaḳs,smooth
+313-59,qawa1238,http://concepticon.clld.org/parameters/1210,paḳyel,heavy
+313-458,qawa1238,http://concepticon.clld.org/parameters/1052,paḳ-sḳya,light (in weight)
+313-122,qawa1238,http://concepticon.clld.org/parameters/1726,c̷ams-na,"wet, damp"
+313-321,qawa1238,http://concepticon.clld.org/parameters/1398,c̷elas,dry
+313-210,qawa1238,http://concepticon.clld.org/parameters/1286,apʰen,hot
+313-217,qawa1238,http://concepticon.clld.org/parameters/1287,ḳyesas,cold
+313-65,qawa1238,http://concepticon.clld.org/parameters/704,c̷ˀepac̷ewel,clean
+313-556,qawa1238,http://concepticon.clld.org/parameters/1230,ḳʰayel,"dirty, soiled"
+313-61,qawa1238,http://concepticon.clld.org/parameters/380,atˀalpe-na,wrinkled
+313-141,qawa1238,http://concepticon.clld.org/parameters/1495,pana,"joyful, glad, happy"
+313-100,qawa1238,http://concepticon.clld.org/parameters/1355,ane-ḳsta,laugh
+313-424,qawa1238,http://concepticon.clld.org/parameters/1413,yepa-tal,play
+313-283,qawa1238,http://concepticon.clld.org/parameters/923,ḳyexe-na,love
+313-381,qawa1238,http://concepticon.clld.org/parameters/578,c̷efc̷a-na,kiss
+313-52,qawa1238,http://concepticon.clld.org/parameters/928,ac̷epafsar,embrace
+313-103,qawa1238,http://concepticon.clld.org/parameters/1783,c̷elc̷es,pain
+313-132,qawa1238,http://concepticon.clld.org/parameters/1839,aḳtel-ḳsta,"cry, weep"
+313-132,qawa1238,http://concepticon.clld.org/parameters/1651,aḳtel-ḳsta,tear (noun)
+313-216,qawa1238,http://concepticon.clld.org/parameters/82,atas,anger
+313-535,qawa1238,http://concepticon.clld.org/parameters/1776,al,shame (noun)
+313-113,qawa1238,http://concepticon.clld.org/parameters/3,c̷ˀelaḳs,brave
+313-192,qawa1238,http://concepticon.clld.org/parameters/781,fte,"fear, fright"
+313-288,qawa1238,http://concepticon.clld.org/parameters/601,taḳaro,"lie, tell lies"
+313-304,qawa1238,http://concepticon.clld.org/parameters/13,aḳsaro,deceit
+313-390,qawa1238,http://concepticon.clld.org/parameters/1035,layep,good
+313-480,qawa1238,http://concepticon.clld.org/parameters/1292,asar,bad
+313-390,qawa1238,http://concepticon.clld.org/parameters/1427,layep,beautiful
+313-480,qawa1238,http://concepticon.clld.org/parameters/1548,asar,ugly
+313-496,qawa1238,http://concepticon.clld.org/parameters/1415,c̷epas,think (= reflect)
+313-336,qawa1238,http://concepticon.clld.org/parameters/1410,ḳowloḳ,know
+313-526,qawa1238,http://concepticon.clld.org/parameters/1899,telaḳyexer,"insane, crazy"
+313-333,qawa1238,http://concepticon.clld.org/parameters/709,yeta-ḳwaloḳ,teach
+313-333,qawa1238,http://concepticon.clld.org/parameters/673,yeta-ḳwaloḳ,school
+313-323,qawa1238,http://concepticon.clld.org/parameters/707,c̷epa-lay,remember
+313-227,qawa1238,http://concepticon.clld.org/parameters/1523,owsḳoyo-na,forget
+313-469,qawa1238,http://concepticon.clld.org/parameters/989,yeḳwa,"clear, plain"
+313-88,qawa1238,http://concepticon.clld.org/parameters/1577,ḳotoyḳe,and
+313-144,qawa1238,http://concepticon.clld.org/parameters/1157,ḳopep,because
+313-368,qawa1238,http://concepticon.clld.org/parameters/1268,ayaw,"yes, affirmative"
+313-151,qawa1238,http://concepticon.clld.org/parameters/1269,ḳyeloḳ,"no, negative"
+313-1,qawa1238,http://concepticon.clld.org/parameters/1239,ḳwa,how?
+313-408,qawa1238,http://concepticon.clld.org/parameters/531,aḳwosḳa,how much?
+313-557,qawa1238,http://concepticon.clld.org/parameters/1236,aḳwaso,what?
+313-349,qawa1238,http://concepticon.clld.org/parameters/1238,aḳwac̷ḳyoḳ,when?
+313-349,qawa1238,http://concepticon.clld.org/parameters/1237,aḳwac̷ḳyoḳ,where?
+313-378,qawa1238,http://concepticon.clld.org/parameters/1235,paseso,who?
+313-117,qawa1238,http://concepticon.clld.org/parameters/1261,yeḳtal,sing
+313-95,qawa1238,http://concepticon.clld.org/parameters/715,ḳsel-ḳsta,"shout, cry out"
+313-131,qawa1238,http://concepticon.clld.org/parameters/128,taḳwas,mumble
+313-75,qawa1238,http://concepticon.clld.org/parameters/1025,ḳyele-ḳsta,whistle
+313-428,qawa1238,http://concepticon.clld.org/parameters/1623,afsa-ḳsta,"speak, talk"
+313-550,qawa1238,http://concepticon.clld.org/parameters/1458,ese-tel,say
+313-255,qawa1238,http://concepticon.clld.org/parameters/48,osere-ḳʰas,silent (be)
+313-428,qawa1238,http://concepticon.clld.org/parameters/1307,afsa-ḳsta,language
+313-237,qawa1238,http://concepticon.clld.org/parameters/1405,ḳtel,name
+313-338,qawa1238,http://concepticon.clld.org/parameters/1309,sepla-lay,"ask (question, inquire)"
+313-528,qawa1238,http://concepticon.clld.org/parameters/1828,tesa-xaḳ,"ask, request"
+313-30,qawa1238,http://concepticon.clld.org/parameters/1084,ḳselaxay,call (=summon)
+313-165,qawa1238,http://concepticon.clld.org/parameters/1672,payes,write
+313-334,qawa1238,http://concepticon.clld.org/parameters/1672,peyes,write
+313-80,qawa1238,http://concepticon.clld.org/parameters/724,teres-afsar,read
+313-477,qawa1238,http://concepticon.clld.org/parameters/648,teres,paper
+313-477,qawa1238,http://concepticon.clld.org/parameters/963,teres,book
+313-254,qawa1238,http://concepticon.clld.org/parameters/1391,at-erlay,"city, town"
+313-82,qawa1238,http://concepticon.clld.org/parameters/930,at-aḳtse,village
+313-28,qawa1238,http://concepticon.clld.org/parameters/789,ḳawasḳar,people (populace)
+313-299,qawa1238,http://concepticon.clld.org/parameters/301,c̷efteyxor,"chief, chieftain"
+313-83,qawa1238,http://concepticon.clld.org/parameters/1296,yeḳolaḳe,"staff, walking stick"
+313-407,qawa1238,http://concepticon.clld.org/parameters/1128,yerwo-ḳʰos,"command, order"
+313-281,qawa1238,http://concepticon.clld.org/parameters/1325,ḳoc̷alaḳ,"friend, companion"
+313-351,qawa1238,http://concepticon.clld.org/parameters/791,pelḳsc̷ewe,stranger
+313-456,qawa1238,http://concepticon.clld.org/parameters/1897,alpaḳs-na,"help, aid"
+313-242,qawa1238,http://concepticon.clld.org/parameters/1831,c̷elḳoḳenar,meet
+313-140,qawa1238,http://concepticon.clld.org/parameters/1423,afsayer,fight (vb)
+313-505,qawa1238,http://concepticon.clld.org/parameters/951,wal-c̷eleḳs,"weapons, arms"
+313-36,qawa1238,http://concepticon.clld.org/parameters/387,senasḳyas,sling
+313-191,qawa1238,http://concepticon.clld.org/parameters/994,ḳyeraḳʰana,bow
+313-191,qawa1238,http://concepticon.clld.org/parameters/977,ḳyeraḳʰana,arrow
+313-452,qawa1238,http://concepticon.clld.org/parameters/1566,c̷aleḳa,"gun, cannon"
+313-206,qawa1238,http://concepticon.clld.org/parameters/421,ḳsḳe-na,retreat
+313-190,qawa1238,http://concepticon.clld.org/parameters/1074,ḳc̷ewes-ḳʰar,fishhook
+313-490,qawa1238,http://concepticon.clld.org/parameters/388,asawer,fishnet
+313-209,qawa1238,http://concepticon.clld.org/parameters/1435,yepˀas,hunt
+313-461,qawa1238,http://concepticon.clld.org/parameters/1172,yeftawas,shoot
+313-420,qawa1238,http://concepticon.clld.org/parameters/1075,ewes,trap (noun)
+313-186,qawa1238,http://concepticon.clld.org/parameters/1889,ḳyewos,arson
+313-510,qawa1238,http://concepticon.clld.org/parameters/713,lol,steal
+313-510,qawa1238,http://concepticon.clld.org/parameters/1160,lol,thief
+313-342,qawa1238,http://concepticon.clld.org/parameters/1944,arḳac̷ewe-ḳc̷es,God
+313-130,qawa1238,http://concepticon.clld.org/parameters/852,[pare],priest
+313-226,qawa1238,http://concepticon.clld.org/parameters/1973,ayayema,demon (evil spirit)

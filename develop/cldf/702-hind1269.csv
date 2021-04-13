@@ -1,0 +1,1629 @@
+ID,Language_ID,Feature_ID,Value,Concept
+702-556,hind1269,http://concepticon.clld.org/parameters/965,dʒag,world
+702-1115,hind1269,http://concepticon.clld.org/parameters/965,sansaːr,world
+702-1272,hind1269,http://concepticon.clld.org/parameters/965,viɕva,world
+702-112,hind1269,http://concepticon.clld.org/parameters/626,bʱuːmi,"earth, land"
+702-378,hind1269,http://concepticon.clld.org/parameters/626,t̪ʰal,"earth, land"
+702-715,hind1269,http://concepticon.clld.org/parameters/1228,miʈʈiː,"earth=ground, soil"
+702-1121,hind1269,http://concepticon.clld.org/parameters/2,d̪ʱuːl,dust
+702-1348,hind1269,http://concepticon.clld.org/parameters/2,gard̪,dust
+702-1005,hind1269,http://concepticon.clld.org/parameters/640,kiːtʃaɽ,mud
+702-519,hind1269,http://concepticon.clld.org/parameters/671,baːluː,sand
+702-1041,hind1269,http://concepticon.clld.org/parameters/671,ret̪,sand
+702-58,hind1269,http://concepticon.clld.org/parameters/2118,pahaːɽ,"mountain, hill"
+702-957,hind1269,http://concepticon.clld.org/parameters/2118,parvat̪,"mountain, hill"
+702-438,hind1269,http://concepticon.clld.org/parameters/618,tʃaʈʈaːn̪,"cliff, precipice"
+702-939,hind1269,http://concepticon.clld.org/parameters/618,ɕilaː,"cliff, precipice"
+702-1143,hind1269,http://concepticon.clld.org/parameters/652,samat̪al,"plain, field"
+702-652,hind1269,http://concepticon.clld.org/parameters/652,sapaːʈ,"plain, field"
+702-828,hind1269,http://concepticon.clld.org/parameters/921,gʱaːʈiː,valley
+702-210,hind1269,http://concepticon.clld.org/parameters/622,d̪viːp,island
+702-624,hind1269,http://concepticon.clld.org/parameters/622,ʈaːpuː,island
+702-1458,hind1269,http://concepticon.clld.org/parameters/166,mukʰja bʱuːbʱaːg,mainland
+702-602,hind1269,http://concepticon.clld.org/parameters/113,kin̪aːraː,shore
+702-924,hind1269,http://concepticon.clld.org/parameters/113,t̪aʈ,shore
+702-904,hind1269,http://concepticon.clld.org/parameters/1155,gupʰaː,cave
+702-1074,hind1269,http://concepticon.clld.org/parameters/948,paːn̪iː,water
+702-1108,hind1269,http://concepticon.clld.org/parameters/948,n̪iːr,water
+702-1157,hind1269,http://concepticon.clld.org/parameters/1474,samud̪ra,sea
+702-1416,hind1269,http://concepticon.clld.org/parameters/258,ɕaːn̪t̪,calm (of sea)
+702-1071,hind1269,http://concepticon.clld.org/parameters/259,aɕaːnt̪,rough (of sea)
+702-439,hind1269,http://concepticon.clld.org/parameters/1768,pʰen̪,foam
+702-1141,hind1269,http://concepticon.clld.org/parameters/1768,dʒʱaːg,foam
+702-389,hind1269,http://concepticon.clld.org/parameters/645,saːgar,ocean
+702-396,hind1269,http://concepticon.clld.org/parameters/624,dʒʱiːl,lake
+702-1245,hind1269,http://concepticon.clld.org/parameters/663,kʰaːɽiː,"gulf, bay"
+702-396,hind1269,http://concepticon.clld.org/parameters/623,dʒʱiːl,lagoon
+702-235,hind1269,http://concepticon.clld.org/parameters/623,laguːn̪,lagoon
+702-658,hind1269,http://concepticon.clld.org/parameters/660,bʱit̪t̪i,reef
+702-1176,hind1269,http://concepticon.clld.org/parameters/660,riːpʰ,reef
+702-987,hind1269,http://concepticon.clld.org/parameters/660,ɕel,reef
+702-374,hind1269,http://concepticon.clld.org/parameters/1662,ant̪ariːp,"headland, point"
+702-433,hind1269,http://concepticon.clld.org/parameters/978,lehar,wave
+702-404,hind1269,http://concepticon.clld.org/parameters/891,dʒvaːr,tide
+702-1148,hind1269,http://concepticon.clld.org/parameters/1026,bʱaːʈaː,lowtide
+702-557,hind1269,http://concepticon.clld.org/parameters/613,puːrabelaː,hightide
+702-515,hind1269,http://concepticon.clld.org/parameters/666,d̪arijɑː,"river, stream, brook"
+702-203,hind1269,http://concepticon.clld.org/parameters/666,d̪ʱaːraː,"river, stream, brook"
+702-876,hind1269,http://concepticon.clld.org/parameters/666,n̪ad̪iː,"river, stream, brook"
+702-568,hind1269,http://concepticon.clld.org/parameters/1982,bʱan̪var,whirlpool
+702-1429,hind1269,http://concepticon.clld.org/parameters/2144,tʃaɕamaː,"spring, well"
+702-47,hind1269,http://concepticon.clld.org/parameters/2144,dʒʱaran̪aː,"spring, well"
+702-881,hind1269,http://concepticon.clld.org/parameters/2144,kuaːn̪,"spring, well"
+702-373,hind1269,http://concepticon.clld.org/parameters/1145,d̪ald̪al,swamp
+702-47,hind1269,http://concepticon.clld.org/parameters/943,dʒʱaran̪aː,waterfall
+702-49,hind1269,http://concepticon.clld.org/parameters/420,ban̪,"woods, forest"
+702-676,hind1269,http://concepticon.clld.org/parameters/420,dʒaŋgal,"woods, forest"
+702-1019,hind1269,http://concepticon.clld.org/parameters/420,van̪,"woods, forest"
+702-1307,hind1269,http://concepticon.clld.org/parameters/1803,kaːʈʰ,wood
+702-816,hind1269,http://concepticon.clld.org/parameters/1803,lakaɽiː,wood
+702-438,hind1269,http://concepticon.clld.org/parameters/2125,tʃaʈʈaːn̪,"stone, rock"
+702-135,hind1269,http://concepticon.clld.org/parameters/6,bʱuːkamp,earthquake
+702-19,hind1269,http://concepticon.clld.org/parameters/1732,aːkaːɕ,sky
+702-941,hind1269,http://concepticon.clld.org/parameters/1732,aːsamaːn̪,sky
+702-819,hind1269,http://concepticon.clld.org/parameters/1732,gagan̪,sky
+702-71,hind1269,http://concepticon.clld.org/parameters/1343,d̪in̪eɕ,sun
+702-650,hind1269,http://concepticon.clld.org/parameters/1343,suːradʒ,sun
+702-915,hind1269,http://concepticon.clld.org/parameters/1313,tʃan̪d̪ramaː,moon
+702-845,hind1269,http://concepticon.clld.org/parameters/1313,tʃaːn̪d̪,moon
+702-1214,hind1269,http://concepticon.clld.org/parameters/1430,n̪akɕat̪ra,star
+702-313,hind1269,http://concepticon.clld.org/parameters/1430,sit̪aːraː,star
+702-189,hind1269,http://concepticon.clld.org/parameters/1430,t̪aːraː,star
+702-752,hind1269,http://concepticon.clld.org/parameters/1654,bidʒaliː,lightning
+702-991,hind1269,http://concepticon.clld.org/parameters/1654,gaːdʒ,lightning
+702-1179,hind1269,http://concepticon.clld.org/parameters/1150,garadʒ,thunder
+702-629,hind1269,http://concepticon.clld.org/parameters/1150,kaɽak,thunder
+702-752,hind1269,http://concepticon.clld.org/parameters/2007,bidʒaliː,lightning (as striking)
+702-991,hind1269,http://concepticon.clld.org/parameters/2007,gaːdʒ,lightning (as striking)
+702-246,hind1269,http://concepticon.clld.org/parameters/858,aːn̪d̪ʱiː,storm
+702-545,hind1269,http://concepticon.clld.org/parameters/858,dʒʱakkaɽ,storm
+702-214,hind1269,http://concepticon.clld.org/parameters/858,t̪uːpʰaːn̪,storm
+702-1479,hind1269,http://concepticon.clld.org/parameters/1733,ind̪rad̪ʱan̪uʂ,rainbow
+702-851,hind1269,http://concepticon.clld.org/parameters/630,dʒjot̪i,light (noun)
+702-109,hind1269,http://concepticon.clld.org/parameters/630,roɕan̪iː,light (noun)
+702-1448,hind1269,http://concepticon.clld.org/parameters/11,an̪d̪ʱakaːr,darkness
+702-748,hind1269,http://concepticon.clld.org/parameters/11,an̪d̪ʱeraː,darkness
+702-1368,hind1269,http://concepticon.clld.org/parameters/1388,tʃʰaːjaː,"shade, shadow"
+702-1261,hind1269,http://concepticon.clld.org/parameters/1388,paratʃʰaːiːn̪,"shade, shadow"
+702-1403,hind1269,http://concepticon.clld.org/parameters/1388,saːjaː,"shade, shadow"
+702-679,hind1269,http://concepticon.clld.org/parameters/1977,os,dew
+702-436,hind1269,http://concepticon.clld.org/parameters/1977,n̪iːhaːr,dew
+702-300,hind1269,http://concepticon.clld.org/parameters/27,an̪il,air
+702-304,hind1269,http://concepticon.clld.org/parameters/27,havaː,air
+702-1021,hind1269,http://concepticon.clld.org/parameters/960,pavan̪,wind
+702-304,hind1269,http://concepticon.clld.org/parameters/960,havaː,wind
+702-476,hind1269,http://concepticon.clld.org/parameters/1489,baːd̪al,cloud
+702-1028,hind1269,http://concepticon.clld.org/parameters/1489,megʱ,cloud
+702-970,hind1269,http://concepticon.clld.org/parameters/249,d̪ʱun̪d̪ʱ,fog
+702-480,hind1269,http://concepticon.clld.org/parameters/249,kuharaː,fog
+702-259,hind1269,http://concepticon.clld.org/parameters/658,barasaːt̪,rain (noun)
+702-628,hind1269,http://concepticon.clld.org/parameters/658,baːriɕ,rain (noun)
+702-472,hind1269,http://concepticon.clld.org/parameters/784,barpʰ,snow (noun)
+702-955,hind1269,http://concepticon.clld.org/parameters/784,him,snow (noun)
+702-472,hind1269,http://concepticon.clld.org/parameters/617,barpʰ,ice
+702-524,hind1269,http://concepticon.clld.org/parameters/952,mɔsam,weather
+702-742,hind1269,http://concepticon.clld.org/parameters/221,agn̪i,fire
+702-1220,hind1269,http://concepticon.clld.org/parameters/221,aːg,fire
+702-1219,hind1269,http://concepticon.clld.org/parameters/889,lapaʈ,flame (noun)
+702-1117,hind1269,http://concepticon.clld.org/parameters/889,lɔ,flame (noun)
+702-498,hind1269,http://concepticon.clld.org/parameters/778,d̪ʱuaːn̪,smoke (noun)
+702-583,hind1269,http://concepticon.clld.org/parameters/646,bʱasm,ashes
+702-349,hind1269,http://concepticon.clld.org/parameters/646,raːkʰ,ashes
+702-139,hind1269,http://concepticon.clld.org/parameters/646,vibʱuːt̪i,ashes
+702-1302,hind1269,http://concepticon.clld.org/parameters/67,aŋgaːr,embers
+702-70,hind1269,http://concepticon.clld.org/parameters/141,dʒalaːn̪aː,burn (vb trans)
+702-849,hind1269,http://concepticon.clld.org/parameters/1428,dʒalan̪aː,burn (vb intrans)
+702-70,hind1269,http://concepticon.clld.org/parameters/737,dʒalaːn̪aː,"light, kindle, ignite"
+702-632,hind1269,http://concepticon.clld.org/parameters/127,bʱudʒʱaːn̪aː,extinguish
+702-456,hind1269,http://concepticon.clld.org/parameters/1133,maːtʃis,match (noun)
+702-771,hind1269,http://concepticon.clld.org/parameters/10,iːn̪d̪ʱan̪,firewood
+702-444,hind1269,http://concepticon.clld.org/parameters/1188,kojalaː,charcoal
+702-1436,hind1269,http://concepticon.clld.org/parameters/683,aːd̪amiː,"person, human being"
+702-688,hind1269,http://concepticon.clld.org/parameters/683,log,"person, human being"
+702-1436,hind1269,http://concepticon.clld.org/parameters/1554,aːd̪amiː,man (vs. woman)
+702-537,hind1269,http://concepticon.clld.org/parameters/1554,puruʂ,man (vs. woman)
+702-1266,hind1269,http://concepticon.clld.org/parameters/1554,mard̪,man (vs. woman)
+702-1228,hind1269,http://concepticon.clld.org/parameters/962,ɔːurat̪,woman
+702-7,hind1269,http://concepticon.clld.org/parameters/962,n̪aːriː,woman
+702-1452,hind1269,http://concepticon.clld.org/parameters/962,mahilaː,woman
+702-1361,hind1269,http://concepticon.clld.org/parameters/2263,pulliŋg,male
+702-1007,hind1269,http://concepticon.clld.org/parameters/2260,st̪raiɳ,female
+702-1461,hind1269,http://concepticon.clld.org/parameters/1366,laɽakaː,boy
+702-251,hind1269,http://concepticon.clld.org/parameters/76,juvak,young man (adolescent)
+702-450,hind1269,http://concepticon.clld.org/parameters/1646,laɽakiː,girl
+702-1408,hind1269,http://concepticon.clld.org/parameters/77,juvat̪iː,young woman (adolescent)
+702-509,hind1269,http://concepticon.clld.org/parameters/1304,batʃtʃaː,child
+702-509,hind1269,http://concepticon.clld.org/parameters/1289,batʃtʃaː,"infant, baby"
+702-1436,hind1269,http://concepticon.clld.org/parameters/1200,aːd̪amiː,husband
+702-774,hind1269,http://concepticon.clld.org/parameters/1200,pat̪i,husband
+702-1400,hind1269,http://concepticon.clld.org/parameters/1199,ɔːrat̪,wife
+702-507,hind1269,http://concepticon.clld.org/parameters/1199,biːviː,wife
+702-874,hind1269,http://concepticon.clld.org/parameters/1199,pat̪n̪iː,wife
+702-1170,hind1269,http://concepticon.clld.org/parameters/203,ɕaːd̪iː karan̪aː,marry
+702-361,hind1269,http://concepticon.clld.org/parameters/203,vivaːh karan̪aː,marry
+702-945,hind1269,http://concepticon.clld.org/parameters/1259,ɕaːd̪iː,"marriage, wedding"
+702-1144,hind1269,http://concepticon.clld.org/parameters/1259,vivaːh,"marriage, wedding"
+702-722,hind1269,http://concepticon.clld.org/parameters/1134,samban̪d̪ʱ t̪oɽan̪aː,divorce
+702-290,hind1269,http://concepticon.clld.org/parameters/1134,t̪alaːk,divorce
+702-830,hind1269,http://concepticon.clld.org/parameters/1217,baːbuː,father
+702-108,hind1269,http://concepticon.clld.org/parameters/1217,pit̪aː,father
+702-1359,hind1269,http://concepticon.clld.org/parameters/1216,maːn̪,mother
+702-670,hind1269,http://concepticon.clld.org/parameters/1216,maːt̪aː,mother
+702-635,hind1269,http://concepticon.clld.org/parameters/505,maːn̪-baːp,parents
+702-743,hind1269,http://concepticon.clld.org/parameters/505,maːt̪aː-pit̪aː,parents
+702-1376,hind1269,http://concepticon.clld.org/parameters/424,ɕaːd̪iːɕud̪aː aːd̪amiː,married man
+702-667,hind1269,http://concepticon.clld.org/parameters/426,ɕaːd̪iːɕud̪aː ɔːrat̪,married woman
+702-1243,hind1269,http://concepticon.clld.org/parameters/1620,beʈaː,son
+702-1461,hind1269,http://concepticon.clld.org/parameters/1620,laɽakaː,son
+702-728,hind1269,http://concepticon.clld.org/parameters/1620,put̪ra,son
+702-394,hind1269,http://concepticon.clld.org/parameters/1357,beʈiː,daughter
+702-450,hind1269,http://concepticon.clld.org/parameters/1357,laɽakiː,daughter
+702-403,hind1269,http://concepticon.clld.org/parameters/1801,batʃtʃe,offspring (son or daughter)
+702-1333,hind1269,http://concepticon.clld.org/parameters/1262,bʱaːiː,brother
+702-772,hind1269,http://concepticon.clld.org/parameters/1759,baɽaː bʱaːiː,older brother
+702-118,hind1269,http://concepticon.clld.org/parameters/1760,tʃʰoʈa: bʱa:i:,younger brother
+702-989,hind1269,http://concepticon.clld.org/parameters/1263,bahan̪,sister
+702-1154,hind1269,http://concepticon.clld.org/parameters/1758,baɽiː bahan̪,older sister
+702-448,hind1269,http://concepticon.clld.org/parameters/1761,tʃʰoʈiː bahan̪,younger sister
+702-710,hind1269,http://concepticon.clld.org/parameters/1640,bʱaːi-bahan̪,sibling
+702-216,hind1269,http://concepticon.clld.org/parameters/1005,dʒuɽvaː,twins
+702-1462,hind1269,http://concepticon.clld.org/parameters/1383,n̪aːn̪aː,grandfather
+702-1164,hind1269,http://concepticon.clld.org/parameters/1383,d̪aːd̪aː,grandfather
+702-1113,hind1269,http://concepticon.clld.org/parameters/406,buːɽʱaː (aːd̪amiː),old man
+702-445,hind1269,http://concepticon.clld.org/parameters/1496,n̪aːn̪iː,grandmother
+702-663,hind1269,http://concepticon.clld.org/parameters/1496,d̪aːd̪iː,grandmother
+702-1044,hind1269,http://concepticon.clld.org/parameters/907,buːɽʱiː (ɔrat̪),old woman
+702-1163,hind1269,http://concepticon.clld.org/parameters/1618,n̪aːt̪iː,grandson
+702-1231,hind1269,http://concepticon.clld.org/parameters/1618,pot̪aː,grandson
+702-220,hind1269,http://concepticon.clld.org/parameters/1619,n̪aːt̪in̪,granddaughter
+702-398,hind1269,http://concepticon.clld.org/parameters/1619,pot̪iː,granddaughter
+702-87,hind1269,http://concepticon.clld.org/parameters/1327,kaːkaː,uncle
+702-1346,hind1269,http://concepticon.clld.org/parameters/1327,maːmaː,uncle
+702-1251,hind1269,http://concepticon.clld.org/parameters/1327,tʃaːtʃaː,uncle
+702-910,hind1269,http://concepticon.clld.org/parameters/1327,t̪aːu,uncle
+702-1346,hind1269,http://concepticon.clld.org/parameters/1984,maːmaː,mother's brother
+702-87,hind1269,http://concepticon.clld.org/parameters/1985,kaːkaː,father's brother
+702-1251,hind1269,http://concepticon.clld.org/parameters/1985,tʃaːtʃaː,father's brother
+702-910,hind1269,http://concepticon.clld.org/parameters/1985,t̪aːu,father's brother
+702-314,hind1269,http://concepticon.clld.org/parameters/1272,buaː,aunt
+702-612,hind1269,http://concepticon.clld.org/parameters/1272,maːn̪siː,aunt
+702-612,hind1269,http://concepticon.clld.org/parameters/171,maːn̪siː,mother's sister
+702-314,hind1269,http://concepticon.clld.org/parameters/170,buaː,father's sister
+702-273,hind1269,http://concepticon.clld.org/parameters/1063,bʱat̪iːdʒaː,nephew
+702-917,hind1269,http://concepticon.clld.org/parameters/1063,bʱaːn̪dʒaː,nephew
+702-1291,hind1269,http://concepticon.clld.org/parameters/1642,bʱat̪iːdʒiː,niece
+702-1377,hind1269,http://concepticon.clld.org/parameters/1642,bʱaːn̪dʒiː,niece
+702-463,hind1269,http://concepticon.clld.org/parameters/1643,tʃatʃeraː bʱaːiː,cousin
+702-1335,hind1269,http://concepticon.clld.org/parameters/1643,tʃatʃeriː bahan̪,cousin
+702-449,hind1269,http://concepticon.clld.org/parameters/1643,mameraː bʱaːiː,cousin
+702-1081,hind1269,http://concepticon.clld.org/parameters/1643,mameriː bahan̪,cousin
+702-887,hind1269,http://concepticon.clld.org/parameters/1669,puravadʒ,ancestors
+702-247,hind1269,http://concepticon.clld.org/parameters/490,van̪ɕadʒ,descendants
+702-40,hind1269,http://concepticon.clld.org/parameters/2255,sasur,father-in-law (of a man)
+702-40,hind1269,http://concepticon.clld.org/parameters/2254,sasur,father-in-law (of a woman)
+702-1202,hind1269,http://concepticon.clld.org/parameters/2256,saːs,mother-in-law (of a man)
+702-1202,hind1269,http://concepticon.clld.org/parameters/2257,saːs,mother-in-law (of a woman)
+702-531,hind1269,http://concepticon.clld.org/parameters/2267,dʒamaːiː,son-in-law (of a man)
+702-531,hind1269,http://concepticon.clld.org/parameters/2266,dʒamaːiː,son-in-law (of a woman)
+702-455,hind1269,http://concepticon.clld.org/parameters/2265,bahuː,daughter-in-law (of a man)
+702-455,hind1269,http://concepticon.clld.org/parameters/2264,bahuː,daughter-in-law (of a woman)
+702-814,hind1269,http://concepticon.clld.org/parameters/237,sɔt̪elaː baːp,stepfather
+702-486,hind1269,http://concepticon.clld.org/parameters/237,sɔt̪elaː pit̪aː,stepfather
+702-746,hind1269,http://concepticon.clld.org/parameters/236,sɔt̪eliː maːn̪,stepmother
+702-42,hind1269,http://concepticon.clld.org/parameters/236,vimaːt̪aː,stepmother
+702-564,hind1269,http://concepticon.clld.org/parameters/1059,sɔt̪elaː beʈaː,stepson
+702-560,hind1269,http://concepticon.clld.org/parameters/1058,sɔt̪eliː beʈiː,stepdaughter
+702-1152,hind1269,http://concepticon.clld.org/parameters/1149,an̪aːt̪ʰ,orphan
+702-131,hind1269,http://concepticon.clld.org/parameters/1756,bevaː,widow
+702-452,hind1269,http://concepticon.clld.org/parameters/1756,vid̪ʱavaː,widow
+702-1411,hind1269,http://concepticon.clld.org/parameters/1981,vid̪ʱur,widower
+702-305,hind1269,http://concepticon.clld.org/parameters/1644,n̪aːt̪ed̪aːr,"relatives, kinsmen"
+702-717,hind1269,http://concepticon.clld.org/parameters/1644,riɕt̪ed̪aːr,"relatives, kinsmen"
+702-1192,hind1269,http://concepticon.clld.org/parameters/194,parivaːr,family
+702-925,hind1269,http://concepticon.clld.org/parameters/1209,mɛːn̪,I
+702-1216,hind1269,http://concepticon.clld.org/parameters/1215,aːp,you (singular)
+702-1426,hind1269,http://concepticon.clld.org/parameters/1215,t̪um,you (singular)
+702-1312,hind1269,http://concepticon.clld.org/parameters/1215,t̪uː,you (singular)
+702-1440,hind1269,http://concepticon.clld.org/parameters/262,vah,he/she/it
+702-283,hind1269,http://concepticon.clld.org/parameters/1212,ham,we
+702-283,hind1269,http://concepticon.clld.org/parameters/1131,ham,we (inclusive)
+702-283,hind1269,http://concepticon.clld.org/parameters/1130,ham,we (exclusive)
+702-1092,hind1269,http://concepticon.clld.org/parameters/1213,aːp log,you (plural)
+702-546,hind1269,http://concepticon.clld.org/parameters/1213,tum log,you (plural)
+702-1364,hind1269,http://concepticon.clld.org/parameters/817,vo,they
+702-1363,hind1269,http://concepticon.clld.org/parameters/817,ve,they
+702-928,hind1269,http://concepticon.clld.org/parameters/619,dʒan̪t̪u,animal
+702-418,hind1269,http://concepticon.clld.org/parameters/619,dʒaːn̪avar,animal
+702-319,hind1269,http://concepticon.clld.org/parameters/2261,n̪ar,male (adj)
+702-1385,hind1269,http://concepticon.clld.org/parameters/2262,maːd̪aː,female (adj)
+702-442,hind1269,http://concepticon.clld.org/parameters/631,paɕud̪ʱan̪,livestock
+702-227,hind1269,http://concepticon.clld.org/parameters/649,kuːʈn̪aː,pasture
+702-1285,hind1269,http://concepticon.clld.org/parameters/263,paɕupaːlak,herdsman
+702-1057,hind1269,http://concepticon.clld.org/parameters/851,ast̪abal,"stable, stall"
+702-868,hind1269,http://concepticon.clld.org/parameters/851,t̪abelaː,"stable, stall"
+702-1235,hind1269,http://concepticon.clld.org/parameters/1153,god̪ʱan̪,cattle (bovine)
+702-434,hind1269,http://concepticon.clld.org/parameters/1008,saːn̪ɖ,bull
+702-1130,hind1269,http://concepticon.clld.org/parameters/1169,bɛl,ox
+702-1240,hind1269,http://concepticon.clld.org/parameters/1007,gaːj,cow
+702-645,hind1269,http://concepticon.clld.org/parameters/1989,batʃʰaɽaː,calf
+702-512,hind1269,http://concepticon.clld.org/parameters/1331,bʱeɽ,sheep
+702-824,hind1269,http://concepticon.clld.org/parameters/1344,bʱeɽaː,ram
+702-358,hind1269,http://concepticon.clld.org/parameters/1345,bʱeɽiː,ewe
+702-1077,hind1269,http://concepticon.clld.org/parameters/820,meman̪aː,lamb
+702-242,hind1269,http://concepticon.clld.org/parameters/1348,suar,boar
+702-877,hind1269,http://concepticon.clld.org/parameters/1348,varaːh,boar
+702-633,hind1269,http://concepticon.clld.org/parameters/1351,suariː,sow (2)
+702-242,hind1269,http://concepticon.clld.org/parameters/1337,suar,pig
+702-535,hind1269,http://concepticon.clld.org/parameters/1502,bakariː,goat
+702-1199,hind1269,http://concepticon.clld.org/parameters/264,bakaraː,he-goat
+702-342,hind1269,http://concepticon.clld.org/parameters/1972,bakariː kaː baccaː,kid
+702-36,hind1269,http://concepticon.clld.org/parameters/615,gʱoɽaː,horse (equine)
+702-36,hind1269,http://concepticon.clld.org/parameters/936,gʱoɽaː,stallion
+702-610,hind1269,http://concepticon.clld.org/parameters/938,gʱoɽiː,mare
+702-645,hind1269,http://concepticon.clld.org/parameters/1647,batʃʰaɽaː,"foal, colt"
+702-1351,hind1269,http://concepticon.clld.org/parameters/1862,gad̪ʱaː,"ass, donkey"
+702-1185,hind1269,http://concepticon.clld.org/parameters/890,kʰatʃtʃar,mule
+702-218,hind1269,http://concepticon.clld.org/parameters/265,murg̣aː,fowl
+702-218,hind1269,http://concepticon.clld.org/parameters/1511,murg̣aː,"cock, rooster"
+702-1237,hind1269,http://concepticon.clld.org/parameters/1514,murg̣iː,hen
+702-1139,hind1269,http://concepticon.clld.org/parameters/1318,tʃuːdʒaː,chicken
+702-1358,hind1269,http://concepticon.clld.org/parameters/1187,maraːl,goose
+702-1322,hind1269,http://concepticon.clld.org/parameters/1360,bat̪akʰ,duck
+702-1299,hind1269,http://concepticon.clld.org/parameters/539,gʱon̪salaː,nest
+702-1025,hind1269,http://concepticon.clld.org/parameters/937,tʃiɽijaː,bird
+702-920,hind1269,http://concepticon.clld.org/parameters/950,samud̪riː gal,seagull
+702-248,hind1269,http://concepticon.clld.org/parameters/758,bagalaː,heron
+702-160,hind1269,http://concepticon.clld.org/parameters/758,saːras,heron
+702-117,hind1269,http://concepticon.clld.org/parameters/1905,tʃiːl,eagle
+702-98,hind1269,http://concepticon.clld.org/parameters/307,baːdʒ,hawk
+702-958,hind1269,http://concepticon.clld.org/parameters/1185,gid̪d̪ʱ,vulture
+702-329,hind1269,http://concepticon.clld.org/parameters/1793,tʃamagaːd̪aɽ,bat
+702-423,hind1269,http://concepticon.clld.org/parameters/882,t̪ot̪aː,parrot
+702-740,hind1269,http://concepticon.clld.org/parameters/913,kaːk,crow
+702-763,hind1269,http://concepticon.clld.org/parameters/913,kɔaː,crow
+702-908,hind1269,http://concepticon.clld.org/parameters/1853,pʰaːkʰat̪aː,dove
+702-1160,hind1269,http://concepticon.clld.org/parameters/735,ulluː,owl
+702-1085,hind1269,http://concepticon.clld.org/parameters/2009,kut̪t̪aː,dog
+702-1435,hind1269,http://concepticon.clld.org/parameters/1136,kʰaragoɕ,rabbit
+702-884,hind1269,http://concepticon.clld.org/parameters/1208,billiː,cat
+702-1303,hind1269,http://concepticon.clld.org/parameters/309,opoːsam,opossum
+702-1404,hind1269,http://concepticon.clld.org/parameters/2139,tʃuːhaː,"mouse, rat"
+702-975,hind1269,http://concepticon.clld.org/parameters/227,matʃʰaliː,fish
+702-391,hind1269,http://concepticon.clld.org/parameters/213,matʃʰaliː kaː par,fin (dorsal)
+702-206,hind1269,http://concepticon.clld.org/parameters/266,ɕalk,fishscale
+702-1390,hind1269,http://concepticon.clld.org/parameters/1916,galapʰaɽaː,gill
+702-1206,hind1269,http://concepticon.clld.org/parameters/598,gʱoŋgʱaː,shell
+702-1181,hind1269,http://concepticon.clld.org/parameters/1110,ɕaːrk,shark
+702-905,hind1269,http://concepticon.clld.org/parameters/1479,suːn̪s,"porpoise, dolphin"
+702-1284,hind1269,http://concepticon.clld.org/parameters/1479,ɖaːlpʰin̪,"porpoise, dolphin"
+702-575,hind1269,http://concepticon.clld.org/parameters/957,vʰel,whale
+702-350,hind1269,http://concepticon.clld.org/parameters/1910,nw,stingray
+702-506,hind1269,http://concepticon.clld.org/parameters/1013,baːm matʃʰaliː,freshwater eel
+702-839,hind1269,http://concepticon.clld.org/parameters/522,bʱeɽijaː,wolf
+702-192,hind1269,http://concepticon.clld.org/parameters/1386,kesariː,lion
+702-993,hind1269,http://concepticon.clld.org/parameters/1386,ɕer,lion
+702-170,hind1269,http://concepticon.clld.org/parameters/1820,bʱaːluː,bear
+702-861,hind1269,http://concepticon.clld.org/parameters/1312,lomɽiː,fox
+702-62,hind1269,http://concepticon.clld.org/parameters/1936,hiran̪,deer
+702-600,hind1269,http://concepticon.clld.org/parameters/1936,mrig,deer
+702-1221,hind1269,http://concepticon.clld.org/parameters/1350,ban̪d̪ar,monkey
+702-592,hind1269,http://concepticon.clld.org/parameters/1290,haːt̪ʰiː,elephant
+702-503,hind1269,http://concepticon.clld.org/parameters/1871,uːn̪ʈ,camel
+702-1304,hind1269,http://concepticon.clld.org/parameters/620,kiːɽaː,insect
+702-808,hind1269,http://concepticon.clld.org/parameters/310,juːn̪,louse
+702-702,hind1269,http://concepticon.clld.org/parameters/267,liːkʰ,nit (louse egg)
+702-850,hind1269,http://concepticon.clld.org/parameters/232,pissuː,flea
+702-804,hind1269,http://concepticon.clld.org/parameters/1974,ɕat̪apad̪,centipede
+702-1076,hind1269,http://concepticon.clld.org/parameters/1538,bitʃtʃʰuː,scorpion
+702-1255,hind1269,http://concepticon.clld.org/parameters/1575,t̪iltʃaʈaː,cockroach
+702-141,hind1269,http://concepticon.clld.org/parameters/587,tʃiːʈiː,ant
+702-357,hind1269,http://concepticon.clld.org/parameters/587,tʃiːn̪ʈiː,ant
+702-536,hind1269,http://concepticon.clld.org/parameters/843,makɽaː,spider
+702-1207,hind1269,http://concepticon.clld.org/parameters/843,makɽiː,spider
+702-102,hind1269,http://concepticon.clld.org/parameters/1065,makɽiː kaː dʒaːl,spider web
+702-365,hind1269,http://concepticon.clld.org/parameters/665,mad̪ʱumakkʰiː,bee
+702-285,hind1269,http://concepticon.clld.org/parameters/1931,mad̪ʱumakkʰiː kaː mom,beeswax
+702-335,hind1269,http://concepticon.clld.org/parameters/88,mad̪ʱumakkʰiː kaː tʃʰat̪t̪aː,beehive
+702-611,hind1269,http://concepticon.clld.org/parameters/1517,barre,wasp
+702-253,hind1269,http://concepticon.clld.org/parameters/1504,uɽan̪aː,fly
+702-350,hind1269,http://concepticon.clld.org/parameters/95,nw,"sandfly (midge), gnat"
+702-577,hind1269,http://concepticon.clld.org/parameters/1509,matʃtʃʰar,mosquito
+702-126,hind1269,http://concepticon.clld.org/parameters/1219,kiːʈ,worm
+702-1304,hind1269,http://concepticon.clld.org/parameters/1219,kiːɽaː,worm
+702-356,hind1269,http://concepticon.clld.org/parameters/730,n̪aːg,snake
+702-405,hind1269,http://concepticon.clld.org/parameters/730,saːmp,snake
+702-238,hind1269,http://concepticon.clld.org/parameters/206,dʒugan̪uː,firefly
+702-1172,hind1269,http://concepticon.clld.org/parameters/1791,t̪it̪aliː,butterfly
+702-53,hind1269,http://concepticon.clld.org/parameters/607,ʈiɖɖa,grasshopper
+702-1206,hind1269,http://concepticon.clld.org/parameters/1543,gʱoŋgʱaː,snail
+702-933,hind1269,http://concepticon.clld.org/parameters/503,men̪ɖʱak,frog
+702-161,hind1269,http://concepticon.clld.org/parameters/632,tʃʰipakaliː,lizard
+702-370,hind1269,http://concepticon.clld.org/parameters/1857,gʱaɽijaːl,"crocodile, alligator"
+702-1210,hind1269,http://concepticon.clld.org/parameters/1857,magarmatʃtʃʰ,"crocodile, alligator"
+702-260,hind1269,http://concepticon.clld.org/parameters/112,katʃʰuaː,turtle
+702-606,hind1269,http://concepticon.clld.org/parameters/1480,ɕariːr,body
+702-150,hind1269,http://concepticon.clld.org/parameters/763,kʰaːl,"skin, hide"
+702-369,hind1269,http://concepticon.clld.org/parameters/763,tʃamaɽaː,"skin, hide"
+702-1218,hind1269,http://concepticon.clld.org/parameters/763,tʃamaɽiː,"skin, hide"
+702-45,hind1269,http://concepticon.clld.org/parameters/2259,tʃarabiː,flesh
+702-726,hind1269,http://concepticon.clld.org/parameters/1040,baːl,hair (head)
+702-1430,hind1269,http://concepticon.clld.org/parameters/1040,keɕ,hair (head)
+702-1262,hind1269,http://concepticon.clld.org/parameters/678,d̪aːɽʱiː,beard
+702-726,hind1269,http://concepticon.clld.org/parameters/189,baːl,body hair
+702-726,hind1269,http://concepticon.clld.org/parameters/36,baːl,pubic hair
+702-1259,hind1269,http://concepticon.clld.org/parameters/576,kʰuɕakiː,dandruff
+702-1078,hind1269,http://concepticon.clld.org/parameters/576,rusiː,dandruff
+702-505,hind1269,http://concepticon.clld.org/parameters/946,kʰuːn̪,blood
+702-318,hind1269,http://concepticon.clld.org/parameters/525,n̪as,"vein, artery"
+702-1425,hind1269,http://concepticon.clld.org/parameters/1394,ast̪ʰi,bone
+702-1065,hind1269,http://concepticon.clld.org/parameters/1394,haɖɖiː,bone
+702-1306,hind1269,http://concepticon.clld.org/parameters/801,pasaliː,rib
+702-1197,hind1269,http://concepticon.clld.org/parameters/1393,siːŋg,horn
+702-734,hind1269,http://concepticon.clld.org/parameters/1220,d̪um,tail
+702-1075,hind1269,http://concepticon.clld.org/parameters/1220,puːn̪tʃʰ,tail
+702-714,hind1269,http://concepticon.clld.org/parameters/1291,piːʈʰ,back
+702-466,hind1269,http://concepticon.clld.org/parameters/805,riːɽʱ kiː haɖɖiː,spine
+702-1190,hind1269,http://concepticon.clld.org/parameters/1256,sir,head
+702-938,hind1269,http://concepticon.clld.org/parameters/1256,ɕiːrʂ,head
+702-124,hind1269,http://concepticon.clld.org/parameters/1604,moharaː,"side of head, temple"
+702-175,hind1269,http://concepticon.clld.org/parameters/1605,kapaːl,skull
+702-334,hind1269,http://concepticon.clld.org/parameters/1605,kʰopaɽiː,skull
+702-1276,hind1269,http://concepticon.clld.org/parameters/1583,bʱedʒaː,brain
+702-948,hind1269,http://concepticon.clld.org/parameters/1583,d̪imaːg,brain
+702-81,hind1269,http://concepticon.clld.org/parameters/1583,magdʒ,brain
+702-896,hind1269,http://concepticon.clld.org/parameters/1560,mun̪ʰ,face
+702-347,hind1269,http://concepticon.clld.org/parameters/1560,mukʰɽaː,face
+702-1310,hind1269,http://concepticon.clld.org/parameters/123,mast̪ak,forehead
+702-309,hind1269,http://concepticon.clld.org/parameters/123,maːt̪ʰaː,forehead
+702-37,hind1269,http://concepticon.clld.org/parameters/798,dʒabaɽaː,jaw
+702-1241,hind1269,http://concepticon.clld.org/parameters/1730,gaːl,cheek
+702-29,hind1269,http://concepticon.clld.org/parameters/1510,ʈʰoɽiː,chin
+702-1316,hind1269,http://concepticon.clld.org/parameters/1248,aːŋkʰ,eye
+702-1162,hind1269,http://concepticon.clld.org/parameters/1173,bʱɔːn̪h,eyebrow
+702-128,hind1269,http://concepticon.clld.org/parameters/17,palak,eyelid
+702-674,hind1269,http://concepticon.clld.org/parameters/1540,barɔːn̪iː,eyelash
+702-978,hind1269,http://concepticon.clld.org/parameters/1655,dʒʱapakn̪aː,blink
+702-1437,hind1269,http://concepticon.clld.org/parameters/1247,kaːn̪,ear
+702-80,hind1269,http://concepticon.clld.org/parameters/18,karɳpaːliː,earlobe
+702-1428,hind1269,http://concepticon.clld.org/parameters/18,lolakiː,earlobe
+702-230,hind1269,http://concepticon.clld.org/parameters/32,kaːn̪ kaː mɛl,earwax
+702-355,hind1269,http://concepticon.clld.org/parameters/1221,n̪aːk,nose
+702-777,hind1269,http://concepticon.clld.org/parameters/1178,n̪at̪ʰun̪aː,nostril
+702-1150,hind1269,http://concepticon.clld.org/parameters/208,pon̪ʈaː,mucus (nasal)
+702-355,hind1269,http://concepticon.clld.org/parameters/208,n̪aːk,mucus (nasal)
+702-821,hind1269,http://concepticon.clld.org/parameters/674,mun̪h,mouth
+702-429,hind1269,http://concepticon.clld.org/parameters/73,tʃon̪tʃ,beak
+702-82,hind1269,http://concepticon.clld.org/parameters/478,lab,lip
+702-547,hind1269,http://concepticon.clld.org/parameters/478,on̪ʈʰ,lip
+702-34,hind1269,http://concepticon.clld.org/parameters/1205,dʒabaːn̪,tongue
+702-569,hind1269,http://concepticon.clld.org/parameters/1380,d̪aːn̪t̪,tooth
+702-1062,hind1269,http://concepticon.clld.org/parameters/139,masuːɽaː,gums
+702-637,hind1269,http://concepticon.clld.org/parameters/1049,d̪aːɽʱ,molartooth
+702-809,hind1269,http://concepticon.clld.org/parameters/1333,garad̪an̪,neck
+702-100,hind1269,http://concepticon.clld.org/parameters/1333,galaː,neck
+702-1475,hind1269,http://concepticon.clld.org/parameters/1347,garad̪an̪ ke pitʃhe ka: bʱa:g,nape of neck
+702-100,hind1269,http://concepticon.clld.org/parameters/1346,galaː,throat
+702-399,hind1269,http://concepticon.clld.org/parameters/1482,kan̪d̪ʱaː,shoulder
+702-231,hind1269,http://concepticon.clld.org/parameters/172,skan̪d̪ʱaːst̪ʰi,shoulderblade
+702-1239,hind1269,http://concepticon.clld.org/parameters/1994,han̪saliː,collarbone
+702-656,hind1269,http://concepticon.clld.org/parameters/1673,baːdʒuː,arm
+702-1268,hind1269,http://concepticon.clld.org/parameters/1886,bagal,armpit
+702-872,hind1269,http://concepticon.clld.org/parameters/981,kuhan̪iː,elbow
+702-781,hind1269,http://concepticon.clld.org/parameters/799,kalaːiː,wrist
+702-129,hind1269,http://concepticon.clld.org/parameters/1277,hast̪,hand
+702-1446,hind1269,http://concepticon.clld.org/parameters/1277,haːt̪ʰ,hand
+702-927,hind1269,http://concepticon.clld.org/parameters/1277,kar,hand
+702-1258,hind1269,http://concepticon.clld.org/parameters/1183,gad̪eliː,palm of hand
+702-1399,hind1269,http://concepticon.clld.org/parameters/1183,hat̪ʰeliː,palm of hand
+702-1043,hind1269,http://concepticon.clld.org/parameters/1303,uŋgaliː,finger
+702-685,hind1269,http://concepticon.clld.org/parameters/1781,aŋguːʈʰaː,thumb
+702-1340,hind1269,http://concepticon.clld.org/parameters/1258,n̪aːkʰuːn̪,fingernail
+702-888,hind1269,http://concepticon.clld.org/parameters/72,pan̪dʒaː,claw
+702-1365,hind1269,http://concepticon.clld.org/parameters/1297,pɛr,leg
+702-1433,hind1269,http://concepticon.clld.org/parameters/1297,ʈaːŋg,leg
+702-706,hind1269,http://concepticon.clld.org/parameters/800,dʒaːŋgʱ,thigh
+702-89,hind1269,http://concepticon.clld.org/parameters/498,pin̪ɖliː,calf of leg
+702-307,hind1269,http://concepticon.clld.org/parameters/1371,gʱuʈan̪aː,knee
+702-848,hind1269,http://concepticon.clld.org/parameters/1301,pag,foot
+702-1254,hind1269,http://concepticon.clld.org/parameters/1301,paːn̪v,foot
+702-1365,hind1269,http://concepticon.clld.org/parameters/1301,pɛr,foot
+702-1116,hind1269,http://concepticon.clld.org/parameters/803,ʈakʰan̪aː,ankle
+702-944,hind1269,http://concepticon.clld.org/parameters/980,eɽiː,heel
+702-508,hind1269,http://concepticon.clld.org/parameters/318,pad̪atʃin̪ʰ,footprint
+702-1209,hind1269,http://concepticon.clld.org/parameters/1389,kʰur,toe
+702-620,hind1269,http://concepticon.clld.org/parameters/1257,par,wing
+702-143,hind1269,http://concepticon.clld.org/parameters/1257,paŋkʰ,wing
+702-620,hind1269,http://concepticon.clld.org/parameters/1201,par,feather
+702-143,hind1269,http://concepticon.clld.org/parameters/1201,paŋkʰ,feather
+702-542,hind1269,http://concepticon.clld.org/parameters/1592,tʃʰaːt̪iː,chest
+702-542,hind1269,http://concepticon.clld.org/parameters/1402,tʃʰaːt̪iː,breast (of woman)
+702-114,hind1269,http://concepticon.clld.org/parameters/1402,st̪an̪,breast (of woman)
+702-73,hind1269,http://concepticon.clld.org/parameters/796,tʃuːtʃuk,"nipple, teat"
+702-360,hind1269,http://concepticon.clld.org/parameters/796,st̪an̪aːgra,"nipple, teat"
+702-414,hind1269,http://concepticon.clld.org/parameters/154,t̪ʰan̪,udder
+702-588,hind1269,http://concepticon.clld.org/parameters/1838,n̪aːbʱi,navel
+702-1267,hind1269,http://concepticon.clld.org/parameters/1838,ʈun̪ɖiː,navel
+702-1380,hind1269,http://concepticon.clld.org/parameters/1223,d̪il,heart
+702-122,hind1269,http://concepticon.clld.org/parameters/1223,hrid̪aj,heart
+702-410,hind1269,http://concepticon.clld.org/parameters/688,pʰepʰaɽaː,lung
+702-723,hind1269,http://concepticon.clld.org/parameters/1224,kaledʒaː,liver
+702-540,hind1269,http://concepticon.clld.org/parameters/489,gurd̪aː,kidney
+702-940,hind1269,http://concepticon.clld.org/parameters/1744,pliːhaː,spleen
+702-902,hind1269,http://concepticon.clld.org/parameters/1744,t̪illiː,spleen
+702-953,hind1269,http://concepticon.clld.org/parameters/819,peʈ,stomach
+702-934,hind1269,http://concepticon.clld.org/parameters/1991,an̪t̪aɽiː,"intestines, guts"
+702-1100,hind1269,http://concepticon.clld.org/parameters/1681,kamar,waist
+702-526,hind1269,http://concepticon.clld.org/parameters/1745,kuːlʰaː,hip
+702-526,hind1269,http://concepticon.clld.org/parameters/834,kuːlʰaː,buttocks
+702-252,hind1269,http://concepticon.clld.org/parameters/804,garbʱaːɕaj,womb
+702-46,hind1269,http://concepticon.clld.org/parameters/804,kokʰ,womb
+702-661,hind1269,http://concepticon.clld.org/parameters/797,an̪ɖkoɕ,testicle
+702-1135,hind1269,http://concepticon.clld.org/parameters/1222,lan̪ɖ,penis
+702-1080,hind1269,http://concepticon.clld.org/parameters/1407,saːn̪s len̪aː,"breathe, breath"
+702-666,hind1269,http://concepticon.clld.org/parameters/1028,ubaːsiː aːn̪aː,"yawn, gape"
+702-984,hind1269,http://concepticon.clld.org/parameters/1028,ubaːsiː len̪aː,"yawn, gape"
+702-368,hind1269,http://concepticon.clld.org/parameters/162,hitʃakiː aːn̪aː,hiccough
+702-813,hind1269,http://concepticon.clld.org/parameters/162,hitʃakiː len̪aː,hiccough
+702-1095,hind1269,http://concepticon.clld.org/parameters/879,kʰaːn̪sn̪aː,cough
+702-943,hind1269,http://concepticon.clld.org/parameters/1621,tʃʰiːn̪kan̪aː,sneeze
+702-468,hind1269,http://concepticon.clld.org/parameters/126,pasiːn̪aː aːn̪aː,perspire
+702-458,hind1269,http://concepticon.clld.org/parameters/1440,ugaln̪aː,spit
+702-985,hind1269,http://concepticon.clld.org/parameters/1278,ulʈiː karn̪aː,vomit
+702-1420,hind1269,http://concepticon.clld.org/parameters/1403,kaːʈan̪aː,bite
+702-782,hind1269,http://concepticon.clld.org/parameters/319,tʃaːʈan̪aː,lick
+702-1389,hind1269,http://concepticon.clld.org/parameters/268,ʈapakan̪aː,dribble
+702-827,hind1269,http://concepticon.clld.org/parameters/1585,son̪aː,sleep
+702-1227,hind1269,http://concepticon.clld.org/parameters/1983,kʰarraːʈaː bʱarn̪aː,snore
+702-485,hind1269,http://concepticon.clld.org/parameters/1983,kʰarraːʈaː len̪aː,snore
+702-750,hind1269,http://concepticon.clld.org/parameters/1983,kʰarraːʈaː maːran̪aː,snore
+702-1379,hind1269,http://concepticon.clld.org/parameters/1920,sapan̪aː d̪ekʰn̪aː,dream
+702-1292,hind1269,http://concepticon.clld.org/parameters/1602,dʒagan̪aː,wake up
+702-718,hind1269,http://concepticon.clld.org/parameters/1159,ad̪ʱovaːju tʃʰoɽan̪aː,break wind
+702-66,hind1269,http://concepticon.clld.org/parameters/592,muːt̪an̪aː,urinate
+702-1298,hind1269,http://concepticon.clld.org/parameters/676,pakʰaːn̪a karan̪aː,defecate
+702-467,hind1269,http://concepticon.clld.org/parameters/1785,pjaːr karan̪aː,have sexual intercourse
+702-1417,hind1269,http://concepticon.clld.org/parameters/52,kaːmpan̪aː,shiver
+702-880,hind1269,http://concepticon.clld.org/parameters/138,n̪ahaːn̪aː,bathe
+702-1360,hind1269,http://concepticon.clld.org/parameters/1152,pɛd̪aː karan̪aː,beget (of father)
+702-363,hind1269,http://concepticon.clld.org/parameters/1090,dʒan̪ma len̪aː,born (to be)
+702-115,hind1269,http://concepticon.clld.org/parameters/1123,garbʱavat̪iː,pregnant
+702-1278,hind1269,http://concepticon.clld.org/parameters/1087,garbʱavat̪iː hon̪aː,conceive
+702-760,hind1269,http://concepticon.clld.org/parameters/1422,dʒiːn̪aː,"live, living, life"
+702-761,hind1269,http://concepticon.clld.org/parameters/1494,maran̪aː,"die, dead"
+702-1038,hind1269,http://concepticon.clld.org/parameters/1904,ɖuːbn̪aː,drowned
+702-194,hind1269,http://concepticon.clld.org/parameters/1417,maːran̪aː,kill
+702-471,hind1269,http://concepticon.clld.org/parameters/767,laːɕ,corpse
+702-146,hind1269,http://concepticon.clld.org/parameters/1719,gaːɽan̪aː,bury (the dead)
+702-310,hind1269,http://concepticon.clld.org/parameters/1773,kabar,"grave, tomb"
+702-443,hind1269,http://concepticon.clld.org/parameters/1773,samaːd̪ʱiː,"grave, tomb"
+702-1132,hind1269,http://concepticon.clld.org/parameters/785,balavaːn̪,"strong, mighty, powerful"
+702-1061,hind1269,http://concepticon.clld.org/parameters/1601,kamadʒor,weak
+702-1183,hind1269,http://concepticon.clld.org/parameters/1364,n̪irogiː,"well, health"
+702-514,hind1269,http://concepticon.clld.org/parameters/1364,t̪an̪d̪urust̪,"well, health"
+702-1079,hind1269,http://concepticon.clld.org/parameters/1847,biːmaːr,"sick, sickness"
+702-415,hind1269,http://concepticon.clld.org/parameters/1534,bukʰaːr,fever
+702-325,hind1269,http://concepticon.clld.org/parameters/1957,galgaɳɖ,goiter
+702-1224,hind1269,http://concepticon.clld.org/parameters/102,dʒukʰaːm,cold (catarrh)
+702-555,hind1269,http://concepticon.clld.org/parameters/1109,aːgʱaːt̪,"wound, sore"
+702-1226,hind1269,http://concepticon.clld.org/parameters/1109,gʱaːv,"wound, sore"
+702-1122,hind1269,http://concepticon.clld.org/parameters/1148,kʰaron̪tʃ,bruise
+702-1155,hind1269,http://concepticon.clld.org/parameters/1148,ragaːr,bruise
+702-549,hind1269,http://concepticon.clld.org/parameters/1903,suːdʒan̪,swelling
+702-276,hind1269,http://concepticon.clld.org/parameters/148,kʰudʒaliː,itch
+702-1022,hind1269,http://concepticon.clld.org/parameters/1584,tʃʰaːlaː,blister
+702-554,hind1269,http://concepticon.clld.org/parameters/793,pʰoɽaː,boil (noun)
+702-169,hind1269,http://concepticon.clld.org/parameters/793,ubaːl,boil (noun)
+702-1297,hind1269,http://concepticon.clld.org/parameters/1808,piːp,pus
+702-1008,hind1269,http://concepticon.clld.org/parameters/497,n̪iɕaːn̪,scar
+702-74,hind1269,http://concepticon.clld.org/parameters/499,upatʃaːr karan̪aː,"cure, heal"
+702-12,hind1269,http://concepticon.clld.org/parameters/499,upaːj karan̪aː,"cure, heal"
+702-1281,hind1269,http://concepticon.clld.org/parameters/597,tʃikit̪sak,physician
+702-639,hind1269,http://concepticon.clld.org/parameters/1372,d̪avaː,"medicine, drug"
+702-998,hind1269,http://concepticon.clld.org/parameters/1372,ɔʂad̪ʱi,"medicine, drug"
+702-200,hind1269,http://concepticon.clld.org/parameters/655,dʒahar,poison
+702-930,hind1269,http://concepticon.clld.org/parameters/655,viʂ,poison
+702-732,hind1269,http://concepticon.clld.org/parameters/1757,t̪ʰakaː,"tired, weary"
+702-321,hind1269,http://concepticon.clld.org/parameters/168,aːraːm karan̪aː,rest
+702-912,hind1269,http://concepticon.clld.org/parameters/1564,aːlasiː,lazy
+702-697,hind1269,http://concepticon.clld.org/parameters/1125,gan̪dʒaː,bald
+702-834,hind1269,http://concepticon.clld.org/parameters/320,laŋgaɽaː,lame
+702-482,hind1269,http://concepticon.clld.org/parameters/996,beharaː,deaf
+702-250,hind1269,http://concepticon.clld.org/parameters/1666,guːŋgaː,mute
+702-1011,hind1269,http://concepticon.clld.org/parameters/1653,an̪d̪ʱaː,blind
+702-1257,hind1269,http://concepticon.clld.org/parameters/1463,ɕaraːbiː,intoxicated
+702-383,hind1269,http://concepticon.clld.org/parameters/590,n̪aŋgaː,"naked, bare"
+702-181,hind1269,http://concepticon.clld.org/parameters/1336,kʰaːn̪aː kʰaːn̪aː,eat
+702-1372,hind1269,http://concepticon.clld.org/parameters/256,kʰaːn̪aː,food
+702-1478,hind1269,http://concepticon.clld.org/parameters/269,pakaː huaː,cooked
+702-111,hind1269,http://concepticon.clld.org/parameters/1959,katʃtʃaː,raw
+702-854,hind1269,http://concepticon.clld.org/parameters/178,pakkaː,ripe
+702-111,hind1269,http://concepticon.clld.org/parameters/1958,katʃtʃaː,"green, unripe"
+702-942,hind1269,http://concepticon.clld.org/parameters/1728,saɽaː huaː,rotten
+702-1338,hind1269,http://concepticon.clld.org/parameters/1401,piːn̪aː,drink
+702-1215,hind1269,http://concepticon.clld.org/parameters/1533,bʱuːk lagn̪aː,hunger
+702-490,hind1269,http://concepticon.clld.org/parameters/199,akaːl,famine
+702-1463,hind1269,http://concepticon.clld.org/parameters/199,suːkʰaː,famine
+702-817,hind1269,http://concepticon.clld.org/parameters/848,pjaːs lagn̪aː,thirst
+702-1036,hind1269,http://concepticon.clld.org/parameters/1421,tʃuːsan̪aː,suck
+702-1294,hind1269,http://concepticon.clld.org/parameters/321,tʃabaːn̪aː,chew
+702-1280,hind1269,http://concepticon.clld.org/parameters/897,galakn̪aː,swallow
+702-889,hind1269,http://concepticon.clld.org/parameters/129,saːn̪s rukan̪aː,choke
+702-846,hind1269,http://concepticon.clld.org/parameters/1100,pakaːn̪aː,cook
+702-553,hind1269,http://concepticon.clld.org/parameters/792,ubaːlan̪aː,boil (vb)
+702-1349,hind1269,http://concepticon.clld.org/parameters/2146,t̪alan̪aː,"roast, fry"
+702-846,hind1269,http://concepticon.clld.org/parameters/183,pakaːn̪aː,bake
+702-613,hind1269,http://concepticon.clld.org/parameters/183,seŋkn̪aː,bake
+702-39,hind1269,http://concepticon.clld.org/parameters/1143,bʱaʈʈiː,oven
+702-528,hind1269,http://concepticon.clld.org/parameters/1143,t̪an̪d̪uːr,oven
+702-1031,hind1269,http://concepticon.clld.org/parameters/1462,barat̪an̪,"pot, cooking vessel"
+702-841,hind1269,http://concepticon.clld.org/parameters/854,ket̪aliː,kettle
+702-41,hind1269,http://concepticon.clld.org/parameters/31,kaɽaːhiː,pan
+702-10,hind1269,http://concepticon.clld.org/parameters/481,t̪ʰaːliː,dish
+702-10,hind1269,http://concepticon.clld.org/parameters/480,t̪ʰaːliː,plate
+702-785,hind1269,http://concepticon.clld.org/parameters/1530,kaʈoraː,bowl
+702-330,hind1269,http://concepticon.clld.org/parameters/1530,kaʈoriː,bowl
+702-775,hind1269,http://concepticon.clld.org/parameters/270,gʱaɽaː,"pitcher, jug"
+702-716,hind1269,http://concepticon.clld.org/parameters/270,kalaɕ,"pitcher, jug"
+702-1319,hind1269,http://concepticon.clld.org/parameters/270,kumbʱ,"pitcher, jug"
+702-1317,hind1269,http://concepticon.clld.org/parameters/270,maʈkiː,"pitcher, jug"
+702-835,hind1269,http://concepticon.clld.org/parameters/270,maʈkaː,"pitcher, jug"
+702-153,hind1269,http://concepticon.clld.org/parameters/476,pjaːlaː,"cup, drinking vessel"
+702-803,hind1269,http://concepticon.clld.org/parameters/476,pjaːliː,"cup, drinking vessel"
+702-421,hind1269,http://concepticon.clld.org/parameters/271,t̪aɕt̪ariː,saucer
+702-566,hind1269,http://concepticon.clld.org/parameters/1378,tʃimmatʃ,spoon
+702-698,hind1269,http://concepticon.clld.org/parameters/1352,tʃaːkuː,knife (2)
+702-132,hind1269,http://concepticon.clld.org/parameters/1302,kaːn̪ʈaː,fork (2)
+702-298,hind1269,http://concepticon.clld.org/parameters/272,tʃimaʈaː,tongs
+702-17,hind1269,http://concepticon.clld.org/parameters/272,tʃimaʈiː,tongs
+702-1372,hind1269,http://concepticon.clld.org/parameters/1526,kʰaːn̪aː,meal (a)
+702-1407,hind1269,http://concepticon.clld.org/parameters/1322,n̪aːɕt̪aː,breakfast
+702-499,hind1269,http://concepticon.clld.org/parameters/768,d̪opahar kaː kʰaːn̪aː,lunch
+702-315,hind1269,http://concepticon.clld.org/parameters/1833,raːt̪ kaː kʰaːn̪aː,dinner
+702-1223,hind1269,http://concepticon.clld.org/parameters/1833,bjaːluː,supper
+702-240,hind1269,http://concepticon.clld.org/parameters/275,tʃʰiːlan̪aː,peel
+702-212,hind1269,http://concepticon.clld.org/parameters/86,tʃʰaːn̪n̪aː,"sieve, strain"
+702-992,hind1269,http://concepticon.clld.org/parameters/1767,kʰuratʃan̪aː,scrape
+702-1187,hind1269,http://concepticon.clld.org/parameters/2017,milaːn̪aː,"stir, mix"
+702-1472,hind1269,http://concepticon.clld.org/parameters/1368,roʈiː,bread
+702-725,hind1269,http://concepticon.clld.org/parameters/273,aːʈaː,dough
+702-974,hind1269,http://concepticon.clld.org/parameters/274,guːn̪d̪ʱan̪aː,knead
+702-725,hind1269,http://concepticon.clld.org/parameters/1594,aːʈaː,"meal, flour"
+702-705,hind1269,http://concepticon.clld.org/parameters/1033,kutʃalan̪aː,"crush, grind"
+702-936,hind1269,http://concepticon.clld.org/parameters/636,kaːrakʰaːn̪aː,mill
+702-338,hind1269,http://concepticon.clld.org/parameters/224,okʰaliː,mortar (2)
+702-385,hind1269,http://concepticon.clld.org/parameters/225,muːsal,pestle
+702-664,hind1269,http://concepticon.clld.org/parameters/225,muːsaliː,pestle
+702-1332,hind1269,http://concepticon.clld.org/parameters/634,goɕt̪,meat
+702-1147,hind1269,http://concepticon.clld.org/parameters/634,maːn̪s,meat
+702-903,hind1269,http://concepticon.clld.org/parameters/1874,laŋguːtʃaː,sausage
+702-647,hind1269,http://concepticon.clld.org/parameters/1547,dʒʱol,"soup, broth"
+702-44,hind1269,http://concepticon.clld.org/parameters/1547,ɕorabaː,"soup, broth"
+702-92,hind1269,http://concepticon.clld.org/parameters/1547,rasaː,"soup, broth"
+702-331,hind1269,http://concepticon.clld.org/parameters/924,sabdʒiː,vegetables
+702-858,hind1269,http://concepticon.clld.org/parameters/832,pʰaliː,bean
+702-963,hind1269,http://concepticon.clld.org/parameters/832,sem,bean
+702-623,hind1269,http://concepticon.clld.org/parameters/593,aːluː,potato
+702-520,hind1269,http://concepticon.clld.org/parameters/1507,pʰal,fruit
+702-1040,hind1269,http://concepticon.clld.org/parameters/1966,gutʃtʃʰaː,bunch
+702-1249,hind1269,http://concepticon.clld.org/parameters/322,an̪dʒiːr,fig
+702-691,hind1269,http://concepticon.clld.org/parameters/920,aŋguːr,grape
+702-350,hind1269,http://concepticon.clld.org/parameters/191,nw,nut
+702-384,hind1269,http://concepticon.clld.org/parameters/1154,dʒalpaːi,olive
+702-867,hind1269,http://concepticon.clld.org/parameters/1154,ɔliv,olive
+702-977,hind1269,http://concepticon.clld.org/parameters/1484,t̪el,oil
+702-45,hind1269,http://concepticon.clld.org/parameters/323,tʃarabiː,"grease, fat"
+702-1248,hind1269,http://concepticon.clld.org/parameters/323,tʃikn̪aːiː,"grease, fat"
+702-1431,hind1269,http://concepticon.clld.org/parameters/1274,n̪amak,salt
+702-425,hind1269,http://concepticon.clld.org/parameters/1385,mirtʃ,pepper
+702-425,hind1269,http://concepticon.clld.org/parameters/919,mirtʃ,chili pepper
+702-677,hind1269,http://concepticon.clld.org/parameters/942,ɕahad̪,honey
+702-585,hind1269,http://concepticon.clld.org/parameters/862,tʃiːn̪iː,sugar
+702-1109,hind1269,http://concepticon.clld.org/parameters/635,d̪uːd̪ʱ,milk (noun)
+702-1208,hind1269,http://concepticon.clld.org/parameters/93,d̪uhan̪aː,milk (vb)
+702-1311,hind1269,http://concepticon.clld.org/parameters/1569,pan̪iːr,cheese
+702-229,hind1269,http://concepticon.clld.org/parameters/1569,tʃiːdʒ,cheese
+702-416,hind1269,http://concepticon.clld.org/parameters/1245,makkʰan̪,butter
+702-597,hind1269,http://concepticon.clld.org/parameters/731,ɕaraːb,"beverage, drink"
+702-215,hind1269,http://concepticon.clld.org/parameters/941,ɕahad̪ kiː ɕaraːb,mead
+702-16,hind1269,http://concepticon.clld.org/parameters/1524,mad̪iraː,wine
+702-597,hind1269,http://concepticon.clld.org/parameters/1524,ɕaraːb,wine
+702-832,hind1269,http://concepticon.clld.org/parameters/1639,bijar,beer
+702-597,hind1269,http://concepticon.clld.org/parameters/1639,ɕaraːb,beer
+702-597,hind1269,http://concepticon.clld.org/parameters/404,ɕaraːb,fermented drink
+702-886,hind1269,http://concepticon.clld.org/parameters/744,an̪ɖaː,egg
+702-866,hind1269,http://concepticon.clld.org/parameters/1556,aɳɖe kiː dʒarad̪iː,egg yolk
+702-1123,hind1269,http://concepticon.clld.org/parameters/158,pahan̪an̪aː,put on (clothes)
+702-184,hind1269,http://concepticon.clld.org/parameters/1895,kapaɽaː,"clothing, clothes"
+702-1469,hind1269,http://concepticon.clld.org/parameters/881,d̪aradʒiː,tailor
+702-184,hind1269,http://concepticon.clld.org/parameters/1616,kapaɽaː,cloth
+702-1013,hind1269,http://concepticon.clld.org/parameters/964,uːn̪,wool
+702-413,hind1269,http://concepticon.clld.org/parameters/916,lin̪en̪,"linen, flax"
+702-1373,hind1269,http://concepticon.clld.org/parameters/1850,suːt̪iː,cotton
+702-441,hind1269,http://concepticon.clld.org/parameters/1641,reɕam,silk
+702-1213,hind1269,http://concepticon.clld.org/parameters/1641,silk,silk
+702-1169,hind1269,http://concepticon.clld.org/parameters/325,kambal,felt
+702-952,hind1269,http://concepticon.clld.org/parameters/325,n̪amad̪aː,felt
+702-689,hind1269,http://concepticon.clld.org/parameters/580,lom,fur
+702-369,hind1269,http://concepticon.clld.org/parameters/629,tʃamaɽaː,leather
+702-719,hind1269,http://concepticon.clld.org/parameters/121,kaːt̪an̪aː,spin
+702-968,hind1269,http://concepticon.clld.org/parameters/277,t̪akalaː,spindle
+702-1424,hind1269,http://concepticon.clld.org/parameters/133,bun̪an̪aː,weave
+702-538,hind1269,http://concepticon.clld.org/parameters/1787,kargʱaː,loom
+702-180,hind1269,http://concepticon.clld.org/parameters/1457,silan̪aː,sew
+702-541,hind1269,http://concepticon.clld.org/parameters/1382,suːiː,needle
+702-1186,hind1269,http://concepticon.clld.org/parameters/278,suːaː,awl
+702-587,hind1269,http://concepticon.clld.org/parameters/1161,d̪ʱaːgaː,thread
+702-164,hind1269,http://concepticon.clld.org/parameters/157,raŋgan̪aː,dye
+702-589,hind1269,http://concepticon.clld.org/parameters/326,labaːd̪aː,cloak
+702-1334,hind1269,http://concepticon.clld.org/parameters/327,pon̪atʃo,poncho
+702-875,hind1269,http://concepticon.clld.org/parameters/474,kapaɽe,woman's dress
+702-400,hind1269,http://concepticon.clld.org/parameters/603,atʃakan̪,coat
+702-815,hind1269,http://concepticon.clld.org/parameters/603,koʈ,coat
+702-840,hind1269,http://concepticon.clld.org/parameters/603,ɕervaːn̪iː,coat
+702-818,hind1269,http://concepticon.clld.org/parameters/1622,kamiːdʒ,shirt
+702-100,hind1269,http://concepticon.clld.org/parameters/2012,galaː,collar
+702-859,hind1269,http://concepticon.clld.org/parameters/2012,kɔlar,collar
+702-1412,hind1269,http://concepticon.clld.org/parameters/1600,gʱaːgʱraː,skirt
+702-533,hind1269,http://concepticon.clld.org/parameters/1600,lahaŋgaː,skirt
+702-127,hind1269,http://concepticon.clld.org/parameters/328,gʱaːs kaː lahaŋgaː,grass-skirt
+702-437,hind1269,http://concepticon.clld.org/parameters/809,padʒaːmaː,trousers
+702-1042,hind1269,http://concepticon.clld.org/parameters/809,pat̪aluːn̪,trousers
+702-534,hind1269,http://concepticon.clld.org/parameters/329,modʒaː,"stocking, sock"
+702-1392,hind1269,http://concepticon.clld.org/parameters/329,dʒurraːb,"stocking, sock"
+702-911,hind1269,http://concepticon.clld.org/parameters/1381,dʒuːt̪aː,shoe
+702-339,hind1269,http://concepticon.clld.org/parameters/585,buːʈ,boot
+702-696,hind1269,http://concepticon.clld.org/parameters/875,motʃiː,"shoemaker, cobbler"
+702-1063,hind1269,http://concepticon.clld.org/parameters/2130,ʈopiː,"hat, cap"
+702-591,hind1269,http://concepticon.clld.org/parameters/772,kamarban̪d̪,"belt, girdle"
+702-892,hind1269,http://concepticon.clld.org/parameters/772,paʈʈaː,"belt, girdle"
+702-581,hind1269,http://concepticon.clld.org/parameters/867,d̪ast̪aːn̪aː,glove
+702-810,hind1269,http://concepticon.clld.org/parameters/1151,gʱuːŋgʱaʈ,veil
+702-162,hind1269,http://concepticon.clld.org/parameters/1851,dʒeːb,pocket
+702-960,hind1269,http://concepticon.clld.org/parameters/757,baʈan̪,button
+702-324,hind1269,http://concepticon.clld.org/parameters/757,kaːdʒ,button
+702-493,hind1269,http://concepticon.clld.org/parameters/64,pin̪,pin
+702-996,hind1269,http://concepticon.clld.org/parameters/64,suiː,pin
+702-367,hind1269,http://concepticon.clld.org/parameters/917,dʒevar,"ornament, adornment"
+702-744,hind1269,http://concepticon.clld.org/parameters/1029,dʒavaːhar,jewel
+702-1014,hind1269,http://concepticon.clld.org/parameters/1029,maɳi,jewel
+702-1342,hind1269,http://concepticon.clld.org/parameters/1374,aŋguːʈʰiː,ring (for finger)
+702-797,hind1269,http://concepticon.clld.org/parameters/1754,kaŋgan̪,bracelet
+702-494,hind1269,http://concepticon.clld.org/parameters/1961,haːr,necklace
+702-293,hind1269,http://concepticon.clld.org/parameters/1860,maɳikaː,bead
+702-842,hind1269,http://concepticon.clld.org/parameters/770,dʒʱumakaː,earring
+702-655,hind1269,http://concepticon.clld.org/parameters/770,kaːn̪ kiː baːliː,earring
+702-1395,hind1269,http://concepticon.clld.org/parameters/330,sir kiː paʈʈiː,"headband, headdress"
+702-407,hind1269,http://concepticon.clld.org/parameters/68,gud̪an̪aː,tattoo
+702-13,hind1269,http://concepticon.clld.org/parameters/332,ruːmaːl,"handkerchief, rag"
+702-297,hind1269,http://concepticon.clld.org/parameters/1021,aŋgotʃʰaː,towel
+702-93,hind1269,http://concepticon.clld.org/parameters/1021,t̪ɔlijaː,towel
+702-1193,hind1269,http://concepticon.clld.org/parameters/1475,kaŋgʱaː,comb
+702-54,hind1269,http://concepticon.clld.org/parameters/1821,t̪uːlikaː,brush
+702-1030,hind1269,http://concepticon.clld.org/parameters/333,tʃuʈijaː,braid
+702-351,hind1269,http://concepticon.clld.org/parameters/151,redʒʱar,razor
+702-1153,hind1269,http://concepticon.clld.org/parameters/1926,lep,ointment
+702-792,hind1269,http://concepticon.clld.org/parameters/1926,viːlep,ointment
+702-1476,hind1269,http://concepticon.clld.org/parameters/788,saːbun̪,soap
+702-387,hind1269,http://concepticon.clld.org/parameters/1171,ɕiːɕaː,mirror
+702-760,hind1269,http://concepticon.clld.org/parameters/1099,dʒiːn̪aː,"dwell, live"
+702-35,hind1269,http://concepticon.clld.org/parameters/1252,gʱar,house
+702-1465,hind1269,http://concepticon.clld.org/parameters/1678,dʒʱopaɽiː,hut
+702-627,hind1269,http://concepticon.clld.org/parameters/403,bagiːtʃevaːlaː gʱar,garden-house
+702-1279,hind1269,http://concepticon.clld.org/parameters/1316,t̪ambuː,tent
+702-1324,hind1269,http://concepticon.clld.org/parameters/736,kat̪araː,"yard, court"
+702-48,hind1269,http://concepticon.clld.org/parameters/408,aːd̪amiːjon̪ kaː gʱar,men's house
+702-1037,hind1269,http://concepticon.clld.org/parameters/334,rasoiː,cookhouse
+702-323,hind1269,http://concepticon.clld.org/parameters/335,sabʱaː ken̪d̪ra,meeting house
+702-683,hind1269,http://concepticon.clld.org/parameters/1450,kamaraː,room
+702-1447,hind1269,http://concepticon.clld.org/parameters/1567,d̪aravaːdʒaː,"door, gate"
+702-138,hind1269,http://concepticon.clld.org/parameters/1567,pʰaːʈak,"door, gate"
+702-1447,hind1269,http://concepticon.clld.org/parameters/80,d̪aravaːdʒaː,"doorpost, jamb"
+702-909,hind1269,http://concepticon.clld.org/parameters/1596,t̪aːlaː,lock (noun)
+702-381,hind1269,http://concepticon.clld.org/parameters/1012,tʃiʈakan̪iː,"latch, door-bolt"
+702-501,hind1269,http://concepticon.clld.org/parameters/1472,tʃaːbiː,key
+702-158,hind1269,http://concepticon.clld.org/parameters/1375,kʰiɽakiː,window
+702-1454,hind1269,http://concepticon.clld.org/parameters/1632,dʒaːmiːn̪,floor
+702-1032,hind1269,http://concepticon.clld.org/parameters/1632,pʰarɕ,floor
+702-1353,hind1269,http://concepticon.clld.org/parameters/933,d̪iːvaːr,wall
+702-1175,hind1269,http://concepticon.clld.org/parameters/185,tʃuːlhaː,fireplace
+702-1175,hind1269,http://concepticon.clld.org/parameters/859,tʃuːlhaː,stove
+702-376,hind1269,http://concepticon.clld.org/parameters/1305,tʃiman̪iː,chimney
+702-988,hind1269,http://concepticon.clld.org/parameters/1464,siːɽʱiː,ladder
+702-776,hind1269,http://concepticon.clld.org/parameters/1663,palaŋg,bed
+702-1026,hind1269,http://concepticon.clld.org/parameters/1044,t̪akijaː,pillow
+702-1169,hind1269,http://concepticon.clld.org/parameters/806,kambal,blanket
+702-1101,hind1269,http://concepticon.clld.org/parameters/1476,kurasiː,chair
+702-950,hind1269,http://concepticon.clld.org/parameters/1775,medʒ,table
+702-621,hind1269,http://concepticon.clld.org/parameters/2131,d̪iːpak,"lamp, torch"
+702-1309,hind1269,http://concepticon.clld.org/parameters/2131,d̪ijaː,"lamp, torch"
+702-207,hind1269,http://concepticon.clld.org/parameters/2131,tʃiraːg̣,"lamp, torch"
+702-1449,hind1269,http://concepticon.clld.org/parameters/1273,mombat̪t̪iː,candle
+702-1372,hind1269,http://concepticon.clld.org/parameters/745,kʰaːn̪aː,shelf
+702-1104,hind1269,http://concepticon.clld.org/parameters/205,gart̪a,trough
+702-262,hind1269,http://concepticon.clld.org/parameters/205,kun̪ɖaː,trough
+702-1056,hind1269,http://concepticon.clld.org/parameters/769,tʃʰappar,roof
+702-681,hind1269,http://concepticon.clld.org/parameters/769,tʃʰat̪,roof
+702-1056,hind1269,http://concepticon.clld.org/parameters/279,tʃʰappar,thatch
+702-1474,hind1269,http://concepticon.clld.org/parameters/280,ɕahat̪iːr,ridgepole
+702-343,hind1269,http://concepticon.clld.org/parameters/829,kaɽʱiː,rafter
+702-221,hind1269,http://concepticon.clld.org/parameters/1132,kiraː,beam
+702-932,hind1269,http://concepticon.clld.org/parameters/281,kʰambʱaː,"post, pole"
+702-1419,hind1269,http://concepticon.clld.org/parameters/1227,t̪akʰt̪aː,board
+702-65,hind1269,http://concepticon.clld.org/parameters/876,d̪ʱan̪uɕja,arch
+702-1352,hind1269,http://concepticon.clld.org/parameters/877,memaːr,mason
+702-1229,hind1269,http://concepticon.clld.org/parameters/877,raːdʒagiːr,mason
+702-1094,hind1269,http://concepticon.clld.org/parameters/1006,iːn̪ʈ,brick
+702-937,hind1269,http://concepticon.clld.org/parameters/1731,kʰall,mortar
+702-333,hind1269,http://concepticon.clld.org/parameters/901,katʃtʃiː iːn̪ʈ,adobe
+702-1467,hind1269,http://concepticon.clld.org/parameters/979,kisaːn̪,farmer
+702-1350,hind1269,http://concepticon.clld.org/parameters/212,kʰet̪,field (for cultivation)
+702-1129,hind1269,http://concepticon.clld.org/parameters/586,bagiːtʃaː,garden
+702-572,hind1269,http://concepticon.clld.org/parameters/1541,ugaːn̪aː,"cultivate, till"
+702-966,hind1269,http://concepticon.clld.org/parameters/1690,gʱeraː,fence
+702-579,hind1269,http://concepticon.clld.org/parameters/2002,kʰaːiː,ditch
+702-765,hind1269,http://concepticon.clld.org/parameters/1921,dʒot̪an̪aː,plow
+702-1405,hind1269,http://concepticon.clld.org/parameters/1794,kun̪ɖ,furrow
+702-1203,hind1269,http://concepticon.clld.org/parameters/1418,kʰod̪an̪aː,dig
+702-470,hind1269,http://concepticon.clld.org/parameters/1176,pʰaːvaɽaː,spade
+702-1355,hind1269,http://concepticon.clld.org/parameters/1901,belatʃaː,shovel
+702-130,hind1269,http://concepticon.clld.org/parameters/284,gor,hoe
+702-132,hind1269,http://concepticon.clld.org/parameters/337,kaːn̪ʈaː,fork
+702-393,hind1269,http://concepticon.clld.org/parameters/338,patʃaraː,rake
+702-1140,hind1269,http://concepticon.clld.org/parameters/748,bon̪aː,sow
+702-52,hind1269,http://concepticon.clld.org/parameters/714,biːdʒ,seed
+702-1420,hind1269,http://concepticon.clld.org/parameters/190,kaːʈan̪aː,"mow, reap"
+702-168,hind1269,http://concepticon.clld.org/parameters/2132,han̪sijaː,"sickle, scythe"
+702-409,hind1269,http://concepticon.clld.org/parameters/285,gaːhan̪aː,thresh
+702-580,hind1269,http://concepticon.clld.org/parameters/223,kʰalihaːn̪,threshing-floor
+702-148,hind1269,http://concepticon.clld.org/parameters/611,pʰasal,"crop, harvest"
+702-320,hind1269,http://concepticon.clld.org/parameters/611,upadʒ,"crop, harvest"
+702-919,hind1269,http://concepticon.clld.org/parameters/605,an̪aːdʒ,"grain (barley, oats etc)"
+702-1156,hind1269,http://concepticon.clld.org/parameters/605,d̪aːn̪aː,"grain (barley, oats etc)"
+702-967,hind1269,http://concepticon.clld.org/parameters/1077,gehuːn̪,wheat
+702-1205,hind1269,http://concepticon.clld.org/parameters/932,jɔː,barley
+702-518,hind1269,http://concepticon.clld.org/parameters/23,raːiː,rye
+702-25,hind1269,http://concepticon.clld.org/parameters/60,dʒaiː,oats
+702-177,hind1269,http://concepticon.clld.org/parameters/506,makaiː,"maize, corn"
+702-408,hind1269,http://concepticon.clld.org/parameters/506,makkaː,"maize, corn"
+702-770,hind1269,http://concepticon.clld.org/parameters/926,tʃaːval,rice
+702-1225,hind1269,http://concepticon.clld.org/parameters/606,gʱaːs,grass
+702-700,hind1269,http://concepticon.clld.org/parameters/342,pʰuːs,hay
+702-671,hind1269,http://concepticon.clld.org/parameters/653,pɔd̪ʱaː,plant (noun)
+702-1140,hind1269,http://concepticon.clld.org/parameters/1486,bon̪aː,plant (vb)
+702-643,hind1269,http://concepticon.clld.org/parameters/670,dʒaɽ,root
+702-94,hind1269,http://concepticon.clld.org/parameters/1531,ɖaːl,branch
+702-236,hind1269,http://concepticon.clld.org/parameters/628,pat̪t̪aː,leaf
+702-694,hind1269,http://concepticon.clld.org/parameters/239,pʰuːl,flower
+702-964,hind1269,http://concepticon.clld.org/parameters/906,peɽ,tree
+702-616,hind1269,http://concepticon.clld.org/parameters/644,ɕaːhabaluːt̪,oak
+702-1344,hind1269,http://concepticon.clld.org/parameters/1950,biːtʃ,beech
+702-390,hind1269,http://concepticon.clld.org/parameters/1855,bʱodʒ,birch
+702-31,hind1269,http://concepticon.clld.org/parameters/1740,tʃiːɽ,pine
+702-28,hind1269,http://concepticon.clld.org/parameters/1915,d̪evd̪aːr,fir
+702-61,hind1269,http://concepticon.clld.org/parameters/968,ban̪dʒupʰal,acorn
+702-198,hind1269,http://concepticon.clld.org/parameters/343,bel,vine
+702-609,hind1269,http://concepticon.clld.org/parameters/343,lat̪aː,vine
+702-901,hind1269,http://concepticon.clld.org/parameters/974,t̪ambaːkuː,tobacco
+702-1286,hind1269,http://concepticon.clld.org/parameters/1689,tʃilam piːn̪aː,smoke (tobacco)
+702-1111,hind1269,http://concepticon.clld.org/parameters/1689,sigareʈ piːn̪aː,smoke (tobacco)
+702-699,hind1269,http://concepticon.clld.org/parameters/1124,n̪aliː,pipe
+702-779,hind1269,http://concepticon.clld.org/parameters/241,ʈʰuːn̪ʈʰ,tree stump
+702-779,hind1269,http://concepticon.clld.org/parameters/344,ʈʰuːn̪ʈʰ,tree trunk
+702-264,hind1269,http://concepticon.clld.org/parameters/1204,tʃʰaːl,bark
+702-167,hind1269,http://concepticon.clld.org/parameters/345,ras,sap
+702-800,hind1269,http://concepticon.clld.org/parameters/1181,t̪aːɽ,palm tree
+702-382,hind1269,http://concepticon.clld.org/parameters/970,n̪aːrijal,coconut
+702-1003,hind1269,http://concepticon.clld.org/parameters/1126,n̪imbuː van̪ɕ,citrus fruit
+702-1409,hind1269,http://concepticon.clld.org/parameters/868,kelaː,banana tree
+702-662,hind1269,http://concepticon.clld.org/parameters/346,piːpal,banyan
+702-1158,hind1269,http://concepticon.clld.org/parameters/159,ɕakarkan̪d̪iː,sweet potato
+702-1158,hind1269,http://concepticon.clld.org/parameters/410,ɕakarkan̪d̪iː,yam
+702-487,hind1269,http://concepticon.clld.org/parameters/925,kasaːvaː,"tapioca, manioc, cassava"
+702-174,hind1269,http://concepticon.clld.org/parameters/411,kad̪d̪uː,gourd
+702-174,hind1269,http://concepticon.clld.org/parameters/864,kad̪d̪uː,"pumpkin, squash"
+702-219,hind1269,http://concepticon.clld.org/parameters/1927,baːn̪s,bamboo
+702-787,hind1269,http://concepticon.clld.org/parameters/146,gan̪n̪aː,sugar cane
+702-401,hind1269,http://concepticon.clld.org/parameters/348,matʃʰli kaː dʒaher,fish poison (root)
+702-1076,hind1269,http://concepticon.clld.org/parameters/33,bitʃtʃʰuː,nettle
+702-475,hind1269,http://concepticon.clld.org/parameters/33,buːʈiː,nettle
+702-299,hind1269,http://concepticon.clld.org/parameters/641,kʰumbʱiː,mushroom
+702-1445,hind1269,http://concepticon.clld.org/parameters/813,karan̪aː,"do, make"
+702-739,hind1269,http://concepticon.clld.org/parameters/984,kaːm,work
+702-1087,hind1269,http://concepticon.clld.org/parameters/2004,dʒʱukaːn̪aː,bend
+702-2,hind1269,http://concepticon.clld.org/parameters/1470,t̪ah karan̪aː,fold
+702-954,hind1269,http://concepticon.clld.org/parameters/1917,baːn̪d̪ʱan̪aː,"tie, bind"
+702-1308,hind1269,http://concepticon.clld.org/parameters/352,kʰolan̪aː,untie
+702-831,hind1269,http://concepticon.clld.org/parameters/1627,dʒan̪dʒiːr,chain
+702-380,hind1269,http://concepticon.clld.org/parameters/1218,rassiː,"rope, cord"
+702-1253,hind1269,http://concepticon.clld.org/parameters/760,gaːn̪ʈʰ,knot (noun)
+702-194,hind1269,http://concepticon.clld.org/parameters/2133,maːran̪aː,"strike (hit, beat)"
+702-1480,hind1269,http://concepticon.clld.org/parameters/2133,piːʈan̪aː,"strike (hit, beat)"
+702-457,hind1269,http://concepticon.clld.org/parameters/354,kuːʈan̪aː,pound with fist
+702-1420,hind1269,http://concepticon.clld.org/parameters/1432,kaːʈan̪aː,cut
+702-983,hind1269,http://concepticon.clld.org/parameters/355,kaːʈ ɖaːlan̪aː,cut down
+702-1420,hind1269,http://concepticon.clld.org/parameters/155,kaːʈan̪aː,"chop, hew"
+702-1133,hind1269,http://concepticon.clld.org/parameters/1434,bʱoŋkn̪aː,stab
+702-698,hind1269,http://concepticon.clld.org/parameters/1352,tʃaːkuː,knife
+702-1165,hind1269,http://concepticon.clld.org/parameters/356,kɛn̪tʃiː,"scissors, shears"
+702-1343,hind1269,http://concepticon.clld.org/parameters/677,kulhaːɽaː,ax
+702-1247,hind1269,http://concepticon.clld.org/parameters/290,basuːlaː,adze
+702-1211,hind1269,http://concepticon.clld.org/parameters/680,t̪oɽan̪aː,break
+702-1313,hind1269,http://concepticon.clld.org/parameters/588,pʰuːʈaː huaː,broken
+702-1217,hind1269,http://concepticon.clld.org/parameters/588,t̪uʈaː huaː,broken
+702-798,hind1269,http://concepticon.clld.org/parameters/1437,pʰaːɽan̪aː,split
+702-6,hind1269,http://concepticon.clld.org/parameters/1437,tʃiːran̪aː,split
+702-753,hind1269,http://concepticon.clld.org/parameters/1735,pʰaːɽn̪aː,tear
+702-1439,hind1269,http://concepticon.clld.org/parameters/291,kʰaːl ut̪aːran̪aː,"flay, skin"
+702-239,hind1269,http://concepticon.clld.org/parameters/1449,gʱisan̪aː,"rub, wipe"
+702-64,hind1269,http://concepticon.clld.org/parameters/1449,malan̪aː,"rub, wipe"
+702-590,hind1269,http://concepticon.clld.org/parameters/214,kʰiːn̪tʃan̪aː,stretch
+702-636,hind1269,http://concepticon.clld.org/parameters/214,t̪aːn̪an̪aː,stretch
+702-590,hind1269,http://concepticon.clld.org/parameters/1455,kʰiːn̪tʃan̪aː,pull
+702-213,hind1269,http://concepticon.clld.org/parameters/38,pʰɛlaːn̪aː,spread out
+702-4,hind1269,http://concepticon.clld.org/parameters/357,ʈaːŋgan̪aː,hang up
+702-584,hind1269,http://concepticon.clld.org/parameters/1913,d̪abaːn̪aː,press
+702-605,hind1269,http://concepticon.clld.org/parameters/1414,n̪itʃoɽan̪aː,"squeeze, wring"
+702-142,hind1269,http://concepticon.clld.org/parameters/1487,uɽeln̪aː,pour
+702-1000,hind1269,http://concepticon.clld.org/parameters/1453,d̪ʱon̪aː,wash
+702-1093,hind1269,http://concepticon.clld.org/parameters/230,dʒʱaːɽan̪aː,sweep
+702-595,hind1269,http://concepticon.clld.org/parameters/245,dʒʱaːɽuː,broom
+702-523,hind1269,http://concepticon.clld.org/parameters/1361,ɕast̪ra,tool
+702-871,hind1269,http://concepticon.clld.org/parameters/1042,baɽʱaiː,carpenter
+702-1438,hind1269,http://concepticon.clld.org/parameters/1840,ban̪aːn̪aː,build
+702-1222,hind1269,http://concepticon.clld.org/parameters/1501,ubaːn̪aː,bore
+702-232,hind1269,http://concepticon.clld.org/parameters/46,tʃʰed̪ karan̪aː,hollow out
+702-1103,hind1269,http://concepticon.clld.org/parameters/1948,aːraː,saw
+702-1126,hind1269,http://concepticon.clld.org/parameters/1481,hat̪ʰɔɽaː,hammer
+702-20,hind1269,http://concepticon.clld.org/parameters/502,kiːl,nail
+702-417,hind1269,http://concepticon.clld.org/parameters/1069,gon̪d̪ʱ,glue
+702-565,hind1269,http://concepticon.clld.org/parameters/1001,luhaːr,"smith, blacksmith"
+702-336,hind1269,http://concepticon.clld.org/parameters/288,gaːɽʱn̪aː,forge
+702-422,hind1269,http://concepticon.clld.org/parameters/1648,n̪ihaːiː,anvil
+702-84,hind1269,http://concepticon.clld.org/parameters/211,ɖʱaːlan̪a,cast (metals)
+702-827,hind1269,http://concepticon.clld.org/parameters/1369,son̪aː,gold
+702-473,hind1269,http://concepticon.clld.org/parameters/759,tʃaːn̪d̪iː,silver
+702-1374,hind1269,http://concepticon.clld.org/parameters/1825,t̪aːmbaː,"copper, bronze"
+702-491,hind1269,http://concepticon.clld.org/parameters/621,lohaː,iron
+702-1058,hind1269,http://concepticon.clld.org/parameters/627,siːsaː,lead (noun)
+702-642,hind1269,http://concepticon.clld.org/parameters/358,kalaiː,"tin, tinplate"
+702-885,hind1269,http://concepticon.clld.org/parameters/359,kumhaːr,potter
+702-1442,hind1269,http://concepticon.clld.org/parameters/289,ɖʱaːlan̪aː,mold (clay etc)
+702-715,hind1269,http://concepticon.clld.org/parameters/1399,miʈʈiː,clay
+702-387,hind1269,http://concepticon.clld.org/parameters/604,ɕiːɕaː,glass
+702-1424,hind1269,http://concepticon.clld.org/parameters/1729,bun̪an̪aː,"weave, plait"
+702-279,hind1269,http://concepticon.clld.org/parameters/1729,tʃoʈiː karan̪aː,"weave, plait"
+702-1320,hind1269,http://concepticon.clld.org/parameters/1539,ʈokariː,basket
+702-596,hind1269,http://concepticon.clld.org/parameters/195,tʃaʈaːiː,mat
+702-1169,hind1269,http://concepticon.clld.org/parameters/292,kambal,rug
+702-464,hind1269,http://concepticon.clld.org/parameters/293,dʒaːliː,netbag
+702-1066,hind1269,http://concepticon.clld.org/parameters/1971,paŋkʰaː,fan (noun)
+702-419,hind1269,http://concepticon.clld.org/parameters/360,paŋkʰaː karan̪aː,fan (vb)
+702-724,hind1269,http://concepticon.clld.org/parameters/360,paŋkʰaː tʃalaːn̪aː,fan (vb)
+702-730,hind1269,http://concepticon.clld.org/parameters/228,t̪araːɕan̪aː,carve
+702-282,hind1269,http://concepticon.clld.org/parameters/914,muːrt̪ikaːr,sculptor
+702-1050,hind1269,http://concepticon.clld.org/parameters/914,ɕilpakaːr,sculptor
+702-1112,hind1269,http://concepticon.clld.org/parameters/1002,muːrt̪i,statue
+702-191,hind1269,http://concepticon.clld.org/parameters/1979,tʃʰen̪iː,chisel
+702-727,hind1269,http://concepticon.clld.org/parameters/647,raŋg,paint (noun)
+702-164,hind1269,http://concepticon.clld.org/parameters/2001,raŋgan̪aː,paint (vb)
+702-826,hind1269,http://concepticon.clld.org/parameters/765,hilaːn̪aː,move
+702-75,hind1269,http://concepticon.clld.org/parameters/1588,ulaʈan̪aː,turn over
+702-75,hind1269,http://concepticon.clld.org/parameters/1445,ulaʈan̪aː,turn around
+702-244,hind1269,http://concepticon.clld.org/parameters/1113,lapeʈan̪aː,"wind, wrap"
+702-275,hind1269,http://concepticon.clld.org/parameters/827,ʈʰarakn̪aː,roll
+702-1389,hind1269,http://concepticon.clld.org/parameters/808,ʈapakan̪aː,drop (vb)
+702-539,hind1269,http://concepticon.clld.org/parameters/430,moɖan̪aː,twist
+702-440,hind1269,http://concepticon.clld.org/parameters/568,n̪ikaln̪aː,rise
+702-431,hind1269,http://concepticon.clld.org/parameters/568,uʈʰan̪aː,rise
+702-1177,hind1269,http://concepticon.clld.org/parameters/501,uʈʰaːn̪aː,"raise, lift"
+702-1131,hind1269,http://concepticon.clld.org/parameters/1280,giran̪aː,fall
+702-1389,hind1269,http://concepticon.clld.org/parameters/2253,ʈapakan̪aː,drip
+702-3,hind1269,http://concepticon.clld.org/parameters/1456,pʰeŋkan̪aː,throw
+702-786,hind1269,http://concepticon.clld.org/parameters/702,pakaɽan̪aː,catch (ball)
+702-826,hind1269,http://concepticon.clld.org/parameters/1909,hilaːn̪aː,shake
+702-144,hind1269,http://concepticon.clld.org/parameters/2003,behan̪aː,flow
+702-962,hind1269,http://concepticon.clld.org/parameters/1088,ɖuːban̪aː,sink
+702-630,hind1269,http://concepticon.clld.org/parameters/1574,t̪ɛran̪aː,float
+702-630,hind1269,http://concepticon.clld.org/parameters/1439,t̪ɛran̪aː,swim
+702-1460,hind1269,http://concepticon.clld.org/parameters/119,g̣ot̪aː lagaːn̪aː,dive
+702-1128,hind1269,http://concepticon.clld.org/parameters/365,tʃʰaptʃʰapaːn̪aː,splash
+702-838,hind1269,http://concepticon.clld.org/parameters/787,dʒaljaːt̪raː karn̪aː,sail (vb)
+702-253,hind1269,http://concepticon.clld.org/parameters/1441,uɽan̪aː,fly (vb)
+702-1004,hind1269,http://concepticon.clld.org/parameters/175,tʃalan̪aː,blow
+702-653,hind1269,http://concepticon.clld.org/parameters/96,sarakan̪aː,"creep, crawl"
+702-332,hind1269,http://concepticon.clld.org/parameters/66,gʱuʈn̪e ʈekan̪aː,kneel
+702-1300,hind1269,http://concepticon.clld.org/parameters/296,d̪ubakn̪aː,crouch
+702-67,hind1269,http://concepticon.clld.org/parameters/1324,pʰisalan̪aː,"slide, slip"
+702-653,hind1269,http://concepticon.clld.org/parameters/1324,sarakan̪aː,"slide, slip"
+702-1171,hind1269,http://concepticon.clld.org/parameters/1829,kuːd̪an̪aː,"jump, leap"
+702-1270,hind1269,http://concepticon.clld.org/parameters/1829,utʃʰalan̪aː,"jump, leap"
+702-106,hind1269,http://concepticon.clld.org/parameters/1135,ʈʰukaraːn̪aː,kick
+702-708,hind1269,http://concepticon.clld.org/parameters/1879,n̪aːtʃan̪aː,dance
+702-1004,hind1269,http://concepticon.clld.org/parameters/1443,tʃalan̪aː,walk
+702-5,hind1269,http://concepticon.clld.org/parameters/366,laŋgaɽaːn̪aː,limp
+702-454,hind1269,http://concepticon.clld.org/parameters/1519,d̪ɔɽan̪aː,run
+702-1382,hind1269,http://concepticon.clld.org/parameters/695,dʒaːn̪aː,go
+702-492,hind1269,http://concepticon.clld.org/parameters/705,uːpar dʒaːn̪aː,go up
+702-883,hind1269,http://concepticon.clld.org/parameters/1102,tʃaɽʱan̪aː,climb
+702-1323,hind1269,http://concepticon.clld.org/parameters/2014,n̪iːtʃe dʒaːn̪aː,go down
+702-1010,hind1269,http://concepticon.clld.org/parameters/2014,ut̪aran̪aː,go down
+702-1134,hind1269,http://concepticon.clld.org/parameters/1107,baːhar dʒaːn̪aː,go out
+702-1055,hind1269,http://concepticon.clld.org/parameters/1446,aːn̪aː,come
+702-386,hind1269,http://concepticon.clld.org/parameters/581,vaːpis aːn̪aː,come back
+702-225,hind1269,http://concepticon.clld.org/parameters/1752,tʃʰoɽan̪aː,"go away, depart"
+702-59,hind1269,http://concepticon.clld.org/parameters/485,g̣aːjab hon̪aː,disappear
+702-855,hind1269,http://concepticon.clld.org/parameters/956,bʱaːg dʒaːn̪aː,flee
+702-286,hind1269,http://concepticon.clld.org/parameters/1085,piːtʃʰaː karn̪aː,follow
+702-286,hind1269,http://concepticon.clld.org/parameters/1047,piːtʃʰaː karn̪aː,pursue
+702-1336,hind1269,http://concepticon.clld.org/parameters/1387,pahun̪tʃan̪aː,"reach, arrive"
+702-1336,hind1269,http://concepticon.clld.org/parameters/1778,pahun̪tʃan̪aː,approach
+702-578,hind1269,http://concepticon.clld.org/parameters/749,gʱusn̪aː,enter
+702-1177,hind1269,http://concepticon.clld.org/parameters/700,uʈʰaːn̪aː,carry (bear)
+702-1195,hind1269,http://concepticon.clld.org/parameters/412,haːt̪ʰ se uʈʰaːn̪aː,carry-in-hand
+702-63,hind1269,http://concepticon.clld.org/parameters/413,kand̪ʱe par uʈʰaːn̪aː,carry-on-shoulder
+702-411,hind1269,http://concepticon.clld.org/parameters/414,sir par uʈʰaːn̪aː,carry-on-head
+702-1060,hind1269,http://concepticon.clld.org/parameters/415,baːdʒuː ke n̪iːtʃe uʈʰaːn̪aː,carry-underarm
+702-921,hind1269,http://concepticon.clld.org/parameters/692,laːn̪aː,bring
+702-277,hind1269,http://concepticon.clld.org/parameters/1127,bʱedʒn̪aː,send
+702-1178,hind1269,http://concepticon.clld.org/parameters/43,n̪et̪rat̪va karan̪aː,lead (vb)
+702-749,hind1269,http://concepticon.clld.org/parameters/741,tʃalaːn̪aː,drive
+702-1456,hind1269,http://concepticon.clld.org/parameters/367,savaːriː karan̪aː,ride
+702-1444,hind1269,http://concepticon.clld.org/parameters/1452,d̪ʱakkaː d̪en̪aː,"push, shove"
+702-837,hind1269,http://concepticon.clld.org/parameters/667,pat̪ʰ,road
+702-608,hind1269,http://concepticon.clld.org/parameters/667,marg,road
+702-288,hind1269,http://concepticon.clld.org/parameters/667,raːst̪aː,road
+702-837,hind1269,http://concepticon.clld.org/parameters/2252,pat̪ʰ,path
+702-608,hind1269,http://concepticon.clld.org/parameters/2252,marg,path
+702-288,hind1269,http://concepticon.clld.org/parameters/2252,raːst̪aː,path
+702-870,hind1269,http://concepticon.clld.org/parameters/1011,pul,bridge
+702-85,hind1269,http://concepticon.clld.org/parameters/122,gaːɽiː,"carriage, wagon, cart"
+702-916,hind1269,http://concepticon.clld.org/parameters/122,ʈʰelaː,"carriage, wagon, cart"
+702-224,hind1269,http://concepticon.clld.org/parameters/710,pahijaː,wheel
+702-406,hind1269,http://concepticon.clld.org/parameters/710,tʃakkar,wheel
+702-1069,hind1269,http://concepticon.clld.org/parameters/1769,d̪ʱuraː,axle
+702-1370,hind1269,http://concepticon.clld.org/parameters/14,dʒuʈan̪aː,yoke
+702-395,hind1269,http://concepticon.clld.org/parameters/740,dʒahaːdʒ,ship
+702-352,hind1269,http://concepticon.clld.org/parameters/1844,n̪aːv,boat
+702-1464,hind1269,http://concepticon.clld.org/parameters/1970,ɖoŋgaː,canoe
+702-350,hind1269,http://concepticon.clld.org/parameters/416,nw,outrigger
+702-1393,hind1269,http://concepticon.clld.org/parameters/1664,beɽaː,raft
+702-241,hind1269,http://concepticon.clld.org/parameters/108,tʃappuː,oar
+702-673,hind1269,http://concepticon.clld.org/parameters/234,pat̪avaːr,paddle (noun)
+702-644,hind1269,http://concepticon.clld.org/parameters/1849,kʰen̪aː,row (vb)
+702-673,hind1269,http://concepticon.clld.org/parameters/108,pat̪avaːr,rudder
+702-1052,hind1269,http://concepticon.clld.org/parameters/184,mast̪uːl,mast
+702-202,hind1269,http://concepticon.clld.org/parameters/786,paːl,sail (noun)
+702-582,hind1269,http://concepticon.clld.org/parameters/1870,laŋgar,anchor
+702-296,hind1269,http://concepticon.clld.org/parameters/610,ban̪d̪argaːh,"harbor, port"
+702-1010,hind1269,http://concepticon.clld.org/parameters/1922,ut̪aran̪aː,land (vb)
+702-517,hind1269,http://concepticon.clld.org/parameters/773,hon̪aː,have
+702-860,hind1269,http://concepticon.clld.org/parameters/684,maːlik hon̪aː,"own, possess"
+702-1470,hind1269,http://concepticon.clld.org/parameters/1749,len̪aː,take
+702-737,hind1269,http://concepticon.clld.org/parameters/2021,dʒakʰaɽan̪aː,"seize, grasp"
+702-786,hind1269,http://concepticon.clld.org/parameters/2021,pakaɽan̪aː,"seize, grasp"
+702-786,hind1269,http://concepticon.clld.org/parameters/1448,pakaɽan̪aː,hold
+702-1339,hind1269,http://concepticon.clld.org/parameters/694,milan̪aː,"get, obtain"
+702-33,hind1269,http://concepticon.clld.org/parameters/1477,rakʰn̪aː,"keep, retain"
+702-729,hind1269,http://concepticon.clld.org/parameters/738,ʧiːdʒ,thing
+702-692,hind1269,http://concepticon.clld.org/parameters/1447,d̪en̪aː,give
+702-1230,hind1269,http://concepticon.clld.org/parameters/85,vaːpis d̪en̪aː,give back
+702-906,hind1269,http://concepticon.clld.org/parameters/85,vaːpis karn̪aː,give back
+702-1151,hind1269,http://concepticon.clld.org/parameters/85,vaːpis len̪aː,give back
+702-665,hind1269,http://concepticon.clld.org/parameters/1997,batʃaːn̪aː,"preserve, look after"
+702-134,hind1269,http://concepticon.clld.org/parameters/1997,ban̪aːje rakʰan̪aː,"preserve, look after"
+702-665,hind1269,http://concepticon.clld.org/parameters/2008,batʃaːn̪aː,"save, rescue"
+702-226,hind1269,http://concepticon.clld.org/parameters/681,kʰat̪am karn̪aː,destroy
+702-294,hind1269,http://concepticon.clld.org/parameters/681,udʒaːɽn̪aː,destroy
+702-618,hind1269,http://concepticon.clld.org/parameters/44,tʃoʈ lagan̪aː,"harm, injure, damage"
+702-1396,hind1269,http://concepticon.clld.org/parameters/1468,ɽʱuːn̪ɽʱan̪aː,"seek, look for"
+702-946,hind1269,http://concepticon.clld.org/parameters/1468,kʰodʒn̪aː,"seek, look for"
+702-1339,hind1269,http://concepticon.clld.org/parameters/719,milan̪aː,find
+702-26,hind1269,http://concepticon.clld.org/parameters/1660,gum hon̪aː,lose
+702-1277,hind1269,http://concepticon.clld.org/parameters/1095,dʒaːn̪eː d̪en̪aː,"release, let go"
+702-228,hind1269,http://concepticon.clld.org/parameters/1559,pɛsaː,money
+702-997,hind1269,http://concepticon.clld.org/parameters/1867,sikkaː,coin
+702-843,hind1269,http://concepticon.clld.org/parameters/712,amiːr,rich
+702-543,hind1269,http://concepticon.clld.org/parameters/1674,gariːb,poor
+702-747,hind1269,http://concepticon.clld.org/parameters/1934,bʱikʂu,beggar
+702-1244,hind1269,http://concepticon.clld.org/parameters/1934,bʱikʰaːriː,beggar
+702-976,hind1269,http://concepticon.clld.org/parameters/1934,fakiːr,beggar
+702-1413,hind1269,http://concepticon.clld.org/parameters/1774,kan̪dʒuːs,"avaricious, stingy"
+702-187,hind1269,http://concepticon.clld.org/parameters/582,ud̪ʱaːr d̪en̪aː,lend
+702-57,hind1269,http://concepticon.clld.org/parameters/1823,ud̪ʱaːr leːn̪aː,borrow
+702-430,hind1269,http://concepticon.clld.org/parameters/369,riɳ leːn̪aː,owe
+702-344,hind1269,http://concepticon.clld.org/parameters/1914,ud̪ʱaːr,debt
+702-69,hind1269,http://concepticon.clld.org/parameters/718,tʃukaːn̪aː,pay (vb)
+702-1238,hind1269,http://concepticon.clld.org/parameters/1081,rasiːd̪,"account, reckoning"
+702-927,hind1269,http://concepticon.clld.org/parameters/873,kar,"tax, tribute"
+702-489,hind1269,http://concepticon.clld.org/parameters/856,ud̪ʱaːr len̪aː,hire
+702-280,hind1269,http://concepticon.clld.org/parameters/856,kiraːje per len̪aː,hire
+702-474,hind1269,http://concepticon.clld.org/parameters/1122,pagaːr,wages
+702-460,hind1269,http://concepticon.clld.org/parameters/733,kamaːn̪aː,earn
+702-462,hind1269,http://concepticon.clld.org/parameters/1869,kʰariːd̪n̪aː,buy
+702-795,hind1269,http://concepticon.clld.org/parameters/1571,betʃan̪aː,sell
+702-907,hind1269,http://concepticon.clld.org/parameters/2135,vjaːpaːr karan̪aː,"trade, barter"
+702-337,hind1269,http://concepticon.clld.org/parameters/1082,vjaːpaːriː,merchant
+702-237,hind1269,http://concepticon.clld.org/parameters/633,baːdʒaːr,market (place)
+702-1326,hind1269,http://concepticon.clld.org/parameters/633,man̪ɖiː,market (place)
+702-121,hind1269,http://concepticon.clld.org/parameters/752,d̪uːkaːn̪,"store, shop"
+702-24,hind1269,http://concepticon.clld.org/parameters/657,d̪aːm,price
+702-197,hind1269,http://concepticon.clld.org/parameters/1426,mahaŋgaː,"dear (costly, expensive)"
+702-1145,hind1269,http://concepticon.clld.org/parameters/1887,sast̪aː,cheap
+702-9,hind1269,http://concepticon.clld.org/parameters/884,baːʈan̪aː,share (distribute)
+702-1315,hind1269,http://concepticon.clld.org/parameters/1098,t̪olan̪aː,weigh
+702-820,hind1269,http://concepticon.clld.org/parameters/723,dʒagah,place
+702-33,hind1269,http://concepticon.clld.org/parameters/998,rakʰn̪aː,put
+702-812,hind1269,http://concepticon.clld.org/parameters/1416,bɛʈʰan̪aː,sit
+702-287,hind1269,http://concepticon.clld.org/parameters/215,leʈan̪aː,lie down
+702-166,hind1269,http://concepticon.clld.org/parameters/1442,kʰaɽaː hon̪aː,stand
+702-1072,hind1269,http://concepticon.clld.org/parameters/987,rahn̪aː,"remain, stay"
+702-281,hind1269,http://concepticon.clld.org/parameters/838,avaɕeʂ,"remains, left overs"
+702-687,hind1269,http://concepticon.clld.org/parameters/7,baʈorn̪aː,"collect, gather"
+702-1387,hind1269,http://concepticon.clld.org/parameters/7,ikaʈʈʰaː karan̪aː,"collect, gather"
+702-1012,hind1269,http://concepticon.clld.org/parameters/371,uʈʰaːn̪a,pick up
+702-23,hind1269,http://concepticon.clld.org/parameters/1576,ɖʱer lagaːn̪aː,pile up
+702-1387,hind1269,http://concepticon.clld.org/parameters/1576,ikaʈʈʰaː karan̪aː,pile up
+702-328,hind1269,http://concepticon.clld.org/parameters/1743,dʒoɽan̪aː,"join, unite"
+702-185,hind1269,http://concepticon.clld.org/parameters/1359,alag karan̪aː,separate
+702-1099,hind1269,http://concepticon.clld.org/parameters/1119,baːn̪ʈan̪aː,divide
+702-267,hind1269,http://concepticon.clld.org/parameters/1156,kʰoln̪aː,open
+702-1015,hind1269,http://concepticon.clld.org/parameters/1046,ban̪d̪ karn̪aː,"shut, close"
+702-1046,hind1269,http://concepticon.clld.org/parameters/761,ɖʱaːkan̪aː,cover
+702-340,hind1269,http://concepticon.clld.org/parameters/602,tʃʰupaːn̪aː,"hide, conceal"
+702-245,hind1269,http://concepticon.clld.org/parameters/1265,uːn̪tʃaː,high
+702-853,hind1269,http://concepticon.clld.org/parameters/721,n̪iːtʃaː,low
+702-1107,hind1269,http://concepticon.clld.org/parameters/1753,tʃoʈiː,top
+702-788,hind1269,http://concepticon.clld.org/parameters/690,t̪al,bottom
+702-784,hind1269,http://concepticon.clld.org/parameters/742,an̪t̪,end
+702-811,hind1269,http://concepticon.clld.org/parameters/372,n̪ukiːlaː,pointed
+702-1182,hind1269,http://concepticon.clld.org/parameters/863,d̪ʱaːr,edge
+702-680,hind1269,http://concepticon.clld.org/parameters/682,or,side
+702-1344,hind1269,http://concepticon.clld.org/parameters/1093,biːtʃ,"middle, center"
+702-269,hind1269,http://concepticon.clld.org/parameters/1019,d̪aːhin̪aː,right (side)
+702-274,hind1269,http://concepticon.clld.org/parameters/1019,siːd̪ʱaː,right (side)
+702-201,hind1269,http://concepticon.clld.org/parameters/244,baːjen̪,left (side)
+702-377,hind1269,http://concepticon.clld.org/parameters/244,ulaʈaː,left (side)
+702-922,hind1269,http://concepticon.clld.org/parameters/1942,paːs,near (adv)
+702-511,hind1269,http://concepticon.clld.org/parameters/1406,d̪uːr,far (adv)
+702-451,hind1269,http://concepticon.clld.org/parameters/1877,puːrab,east
+702-311,hind1269,http://concepticon.clld.org/parameters/1817,paɕtʃim,west
+702-709,hind1269,http://concepticon.clld.org/parameters/1598,ut̪t̪ar,north
+702-913,hind1269,http://concepticon.clld.org/parameters/1595,d̪akɕiɳ,south
+702-572,hind1269,http://concepticon.clld.org/parameters/479,ugaːn̪aː,grow
+702-1127,hind1269,http://concepticon.clld.org/parameters/1506,n̪aːpan̪aː,measure
+702-1127,hind1269,http://concepticon.clld.org/parameters/81,n̪aːpan̪aː,"span, fathom"
+702-119,hind1269,http://concepticon.clld.org/parameters/1202,baɽaː,"large, big"
+702-561,hind1269,http://concepticon.clld.org/parameters/1246,tʃʰoʈaː,"small, little"
+702-1083,hind1269,http://concepticon.clld.org/parameters/1203,lambaː,long
+702-245,hind1269,http://concepticon.clld.org/parameters/711,uːn̪tʃaː,tall
+702-561,hind1269,http://concepticon.clld.org/parameters/1645,tʃʰoʈaː,short
+702-1102,hind1269,http://concepticon.clld.org/parameters/1243,tʃɔɽaː,"wide, broad"
+702-704,hind1269,http://concepticon.clld.org/parameters/1267,saŋkaraː,narrow
+702-973,hind1269,http://concepticon.clld.org/parameters/1267,t̪aŋg,narrow
+702-1088,hind1269,http://concepticon.clld.org/parameters/1244,moʈaː,thick (in dimension)
+702-1018,hind1269,http://concepticon.clld.org/parameters/1400,pat̪laː,thin (in dimension)
+702-1138,hind1269,http://concepticon.clld.org/parameters/1593,gaharaː,deep
+702-825,hind1269,http://concepticon.clld.org/parameters/193,ut̪ʰalaː,shallow
+702-1246,hind1269,http://concepticon.clld.org/parameters/1633,tʃapaʈaː,flat
+702-274,hind1269,http://concepticon.clld.org/parameters/1404,siːd̪ʱaː,straight
+702-1406,hind1269,http://concepticon.clld.org/parameters/297,dʒʱukaː huaː,crooked
+702-657,hind1269,http://concepticon.clld.org/parameters/1071,aŋkuɕ,hook
+702-1325,hind1269,http://concepticon.clld.org/parameters/192,kon̪aː,corner
+702-302,hind1269,http://concepticon.clld.org/parameters/1367,pad̪ak,cross
+702-878,hind1269,http://concepticon.clld.org/parameters/850,tʃat̪urbʱudʒ,square
+702-120,hind1269,http://concepticon.clld.org/parameters/1395,gol,round
+702-869,hind1269,http://concepticon.clld.org/parameters/1467,d̪aːjaraː,circle
+702-406,hind1269,http://concepticon.clld.org/parameters/1467,tʃakkar,circle
+702-257,hind1269,http://concepticon.clld.org/parameters/1467,tʃakkra,circle
+702-22,hind1269,http://concepticon.clld.org/parameters/1845,gen̪d̪,"sphere, ball"
+702-459,hind1269,http://concepticon.clld.org/parameters/1048,laːin̪,line
+702-563,hind1269,http://concepticon.clld.org/parameters/1048,lakiːr,line
+702-495,hind1269,http://concepticon.clld.org/parameters/1667,tʃʰed̪,hole
+702-1459,hind1269,http://concepticon.clld.org/parameters/1558,t̪ulja,"like, similar"
+702-969,hind1269,http://concepticon.clld.org/parameters/1264,bad̪al d̪en̪aː,change
+702-322,hind1269,http://concepticon.clld.org/parameters/1264,bad̪al len̪aː,change
+702-346,hind1269,http://concepticon.clld.org/parameters/1515,d̪as,ten
+702-1020,hind1269,http://concepticon.clld.org/parameters/1706,gjaːrah,eleven
+702-1383,hind1269,http://concepticon.clld.org/parameters/1707,baːrah,twelve
+702-646,hind1269,http://concepticon.clld.org/parameters/1709,pan̪d̪rah,fifteen
+702-1125,hind1269,http://concepticon.clld.org/parameters/1710,biːs,twenty
+702-856,hind1269,http://concepticon.clld.org/parameters/1634,sɔː,hundred
+702-1451,hind1269,http://concepticon.clld.org/parameters/1843,hadʒaːr,thousand
+702-326,hind1269,http://concepticon.clld.org/parameters/1420,gin̪an̪aː,count
+702-521,hind1269,http://concepticon.clld.org/parameters/98,sab,"every, all"
+702-435,hind1269,http://concepticon.clld.org/parameters/1198,bahut̪,"much, many"
+702-1106,hind1269,http://concepticon.clld.org/parameters/1992,ad̪ʱik,more
+702-735,hind1269,http://concepticon.clld.org/parameters/1242,alp,"little (quantity), few"
+702-461,hind1269,http://concepticon.clld.org/parameters/1242,t̪ʰoɽaː,"little (quantity), few"
+702-295,hind1269,http://concepticon.clld.org/parameters/1881,kaːpʰiː,enough
+702-1110,hind1269,http://concepticon.clld.org/parameters/1881,parjaːpt̪,enough
+702-163,hind1269,http://concepticon.clld.org/parameters/1241,kutʃʰ,some
+702-133,hind1269,http://concepticon.clld.org/parameters/2023,bʱiːɽ,"multitude, crowd"
+702-1091,hind1269,http://concepticon.clld.org/parameters/1429,bʱaraː,full
+702-1136,hind1269,http://concepticon.clld.org/parameters/1624,kʰaːliː,empty
+702-272,hind1269,http://concepticon.clld.org/parameters/779,an̪ɕ,"part, piece"
+702-317,hind1269,http://concepticon.clld.org/parameters/816,aːd̪ʱaː,half
+702-107,hind1269,http://concepticon.clld.org/parameters/1580,ekamaːt̪ra,"alone, only"
+702-1410,hind1269,http://concepticon.clld.org/parameters/1580,sirpʰ,"alone, only"
+702-156,hind1269,http://concepticon.clld.org/parameters/728,pehalaː,first
+702-1059,hind1269,http://concepticon.clld.org/parameters/1529,aːkʰariː,last
+702-159,hind1269,http://concepticon.clld.org/parameters/1384,d̪uːsaraː,second
+702-500,hind1269,http://concepticon.clld.org/parameters/1888,dʒoɽiː,pair
+702-1017,hind1269,http://concepticon.clld.org/parameters/1546,d̪ugan̪aː,two times
+702-510,hind1269,http://concepticon.clld.org/parameters/1859,t̪iːsaraː,third
+702-790,hind1269,http://concepticon.clld.org/parameters/417,t̪iːn̪ gun̪aː,three times
+702-769,hind1269,http://concepticon.clld.org/parameters/892,samaj,time
+702-51,hind1269,http://concepticon.clld.org/parameters/1789,aːju,age
+702-88,hind1269,http://concepticon.clld.org/parameters/1231,n̪aiː,new
+702-561,hind1269,http://concepticon.clld.org/parameters/1207,tʃʰoʈaː,young
+702-388,hind1269,http://concepticon.clld.org/parameters/1229,buːɽʱaː,old
+702-999,hind1269,http://concepticon.clld.org/parameters/672,dʒald̪iː,early
+702-971,hind1269,http://concepticon.clld.org/parameters/477,d̪er,late
+702-1023,hind1269,http://concepticon.clld.org/parameters/1376,abʱiː,now
+702-76,hind1269,http://concepticon.clld.org/parameters/1963,ekd̪am,immediately
+702-999,hind1269,http://concepticon.clld.org/parameters/1631,dʒald̪iː,"swift, fast, quick"
+702-1120,hind1269,http://concepticon.clld.org/parameters/701,d̪ʱiːre,slow
+702-1252,hind1269,http://concepticon.clld.org/parameters/754,dʒald̪iː karan̪aː,"hasten, hurry"
+702-1341,hind1269,http://concepticon.clld.org/parameters/425,d̪er karan̪aː,"retard, delay"
+702-223,hind1269,http://concepticon.clld.org/parameters/1806,ɕuruː karan̪aː,"begin, beginning"
+702-50,hind1269,http://concepticon.clld.org/parameters/1186,ʈikan̪aː,"last, endure"
+702-1004,hind1269,http://concepticon.clld.org/parameters/1186,tʃalan̪aː,"last, endure"
+702-784,hind1269,http://concepticon.clld.org/parameters/743,an̪t̪,end (temporal)
+702-1161,hind1269,http://concepticon.clld.org/parameters/1766,kʰat̪am hon̪aː,finish
+702-894,hind1269,http://concepticon.clld.org/parameters/1928,an̪t̪ hon̪aː,"cease, stop"
+702-1296,hind1269,http://concepticon.clld.org/parameters/790,t̪aijaːr,ready
+702-863,hind1269,http://concepticon.clld.org/parameters/1676,hameɕaː,always
+702-1137,hind1269,http://concepticon.clld.org/parameters/1676,sad̪aː,always
+702-929,hind1269,http://concepticon.clld.org/parameters/1852,aksar,often
+702-1345,hind1269,http://concepticon.clld.org/parameters/1852,bahut̪baːr,often
+702-1471,hind1269,http://concepticon.clld.org/parameters/1852,praːjaːj,often
+702-1443,hind1269,http://concepticon.clld.org/parameters/1544,kabʱiː,sometimes
+702-1009,hind1269,http://concepticon.clld.org/parameters/703,ɕiːgʰra,soon
+702-97,hind1269,http://concepticon.clld.org/parameters/703,t̪uran̪t̪,soon
+702-682,hind1269,http://concepticon.clld.org/parameters/418,bahut̪ samaj t̪ak,long-time (for a)
+702-1,hind1269,http://concepticon.clld.org/parameters/1656,kad̪aːpi,never
+702-182,hind1269,http://concepticon.clld.org/parameters/204,pʰir,again
+702-570,hind1269,http://concepticon.clld.org/parameters/1260,d̪in̪,day
+702-931,hind1269,http://concepticon.clld.org/parameters/1233,raːt̪,night
+702-123,hind1269,http://concepticon.clld.org/parameters/729,uɕaː,dawn
+702-1089,hind1269,http://concepticon.clld.org/parameters/1339,subah,morning
+702-38,hind1269,http://concepticon.clld.org/parameters/12,d̪opahar,"noon, midday"
+702-38,hind1269,http://concepticon.clld.org/parameters/1807,d̪opahar,afternoon
+702-196,hind1269,http://concepticon.clld.org/parameters/1807,t̪iːsaraː pahar,afternoon
+702-1330,hind1269,http://concepticon.clld.org/parameters/1629,ɕaːm,evening
+702-1427,hind1269,http://concepticon.clld.org/parameters/1629,sand̪ʱjaː,evening
+702-18,hind1269,http://concepticon.clld.org/parameters/1283,aːdʒ,today
+702-926,hind1269,http://concepticon.clld.org/parameters/1329,kal,tomorrow
+702-78,hind1269,http://concepticon.clld.org/parameters/1179,paraso,day-after-tomorrow
+702-926,hind1269,http://concepticon.clld.org/parameters/1174,kal,yesterday
+702-78,hind1269,http://concepticon.clld.org/parameters/1180,paraso,day-before-yesterday
+702-183,hind1269,http://concepticon.clld.org/parameters/1353,gʱan̪ʈaː,hour
+702-256,hind1269,http://concepticon.clld.org/parameters/1323,gʱaːɽiː,"clock, timepiece"
+702-497,hind1269,http://concepticon.clld.org/parameters/1469,hapʰt̪aː,week
+702-1047,hind1269,http://concepticon.clld.org/parameters/1469,sapt̪aːh,week
+702-1290,hind1269,http://concepticon.clld.org/parameters/1699,it̪avaːr,Sunday
+702-1006,hind1269,http://concepticon.clld.org/parameters/1699,ravivaːr,Sunday
+702-1173,hind1269,http://concepticon.clld.org/parameters/1697,somavaːr,Monday
+702-420,hind1269,http://concepticon.clld.org/parameters/1695,maŋgalvaːr,Tuesday
+702-291,hind1269,http://concepticon.clld.org/parameters/1694,bud̪ʱavaːr,Wednesday
+702-453,hind1269,http://concepticon.clld.org/parameters/1693,brahaspat̪ivaːr,Thursday
+702-484,hind1269,http://concepticon.clld.org/parameters/1692,ɕukravaːr,Friday
+702-1234,hind1269,http://concepticon.clld.org/parameters/1700,ɕan̪ivaːr,Saturday
+702-157,hind1269,http://concepticon.clld.org/parameters/1370,mahiːn̪aː,month
+702-488,hind1269,http://concepticon.clld.org/parameters/1226,baras,year
+702-1196,hind1269,http://concepticon.clld.org/parameters/1226,saːl,year
+702-43,hind1269,http://concepticon.clld.org/parameters/1226,varʂ,year
+702-754,hind1269,http://concepticon.clld.org/parameters/1471,sard̪iː,winter
+702-1457,hind1269,http://concepticon.clld.org/parameters/1471,dʒaːɽaː,winter
+702-379,hind1269,http://concepticon.clld.org/parameters/1537,vasan̪t̪,spring
+702-1477,hind1269,http://concepticon.clld.org/parameters/1342,garmiː,summer
+702-1090,hind1269,http://concepticon.clld.org/parameters/1342,griːʂm,summer
+702-796,hind1269,http://concepticon.clld.org/parameters/1276,ɕarad̪,autumn
+702-173,hind1269,http://concepticon.clld.org/parameters/691,rat̪u,season
+702-1369,hind1269,http://concepticon.clld.org/parameters/1587,kʰuɕabuː aːn̪aː,smell (vb intrans)
+702-576,hind1269,http://concepticon.clld.org/parameters/375,suːŋgʱan̪aː,sniff
+702-1421,hind1269,http://concepticon.clld.org/parameters/1586,suːŋgʱ an̪aː,smell (vb trans)
+702-1327,hind1269,http://concepticon.clld.org/parameters/376,kʰuɕabuː,"fragrant, good smelling"
+702-733,hind1269,http://concepticon.clld.org/parameters/42,bad̪abuː,"stinking, bad smelling"
+702-428,hind1269,http://concepticon.clld.org/parameters/21,tʃakʰan̪aː,taste
+702-1188,hind1269,http://concepticon.clld.org/parameters/717,miːʈʰaː,sweet
+702-278,hind1269,http://concepticon.clld.org/parameters/1091,n̪amakiːn̪,salty
+702-793,hind1269,http://concepticon.clld.org/parameters/887,kaɽavaː,bitter
+702-1288,hind1269,http://concepticon.clld.org/parameters/1906,kʰaʈʈaː,"acid, sour"
+702-1097,hind1269,http://concepticon.clld.org/parameters/70,kʰaːraː,brackish
+702-980,hind1269,http://concepticon.clld.org/parameters/1408,sun̪aiː d̪en̪aː,hear
+702-758,hind1269,http://concepticon.clld.org/parameters/1608,sun̪an̪aː,listen
+702-1354,hind1269,http://concepticon.clld.org/parameters/1811,aːvaːdʒ,"sound, noise"
+702-151,hind1269,http://concepticon.clld.org/parameters/377,d̪ʱamaːkaː,loud
+702-617,hind1269,http://concepticon.clld.org/parameters/1314,ɕːan̪t̪i,"quiet, silence"
+702-190,hind1269,http://concepticon.clld.org/parameters/1314,tʃup,"quiet, silence"
+702-615,hind1269,http://concepticon.clld.org/parameters/1409,d̪ekʰan̪aː,see
+702-615,hind1269,http://concepticon.clld.org/parameters/1819,d̪ekʰan̪aː,"look, look at"
+702-1381,hind1269,http://concepticon.clld.org/parameters/1039,d̪ikʰaːn̪aː,show
+702-1035,hind1269,http://concepticon.clld.org/parameters/708,tʃamakan̪aː,shine
+702-1242,hind1269,http://concepticon.clld.org/parameters/679,udʒaːlaː,bright
+702-727,hind1269,http://concepticon.clld.org/parameters/1613,raŋg,color
+702-1362,hind1269,http://concepticon.clld.org/parameters/250,aːlok,light (in color)
+702-1242,hind1269,http://concepticon.clld.org/parameters/250,udʒaːlaː,light (in color)
+702-748,hind1269,http://concepticon.clld.org/parameters/706,an̪d̪ʱeraː,dark (in color)
+702-625,hind1269,http://concepticon.clld.org/parameters/1335,safed̪,white
+702-366,hind1269,http://concepticon.clld.org/parameters/1335,ɕvet,white
+702-199,hind1269,http://concepticon.clld.org/parameters/163,kaːlaː,black
+702-829,hind1269,http://concepticon.clld.org/parameters/156,laːl,red
+702-1167,hind1269,http://concepticon.clld.org/parameters/837,n̪iːlaː,blue
+702-586,hind1269,http://concepticon.clld.org/parameters/1425,haraː,green
+702-432,hind1269,http://concepticon.clld.org/parameters/1424,piːlaː,yellow
+702-316,hind1269,http://concepticon.clld.org/parameters/1892,tʃʰuːn̪aː,touch
+702-137,hind1269,http://concepticon.clld.org/parameters/378,n̪otʃan̪aː,pinch
+702-995,hind1269,http://concepticon.clld.org/parameters/1079,an̪ubʱav karn̪aː,feel
+702-823,hind1269,http://concepticon.clld.org/parameters/1884,sakʰt̪,hard
+702-649,hind1269,http://concepticon.clld.org/parameters/1856,mulaːjam,soft
+702-1275,hind1269,http://concepticon.clld.org/parameters/1923,kʰurad̪araː,rough
+702-712,hind1269,http://concepticon.clld.org/parameters/1234,tʃikan̪aː,smooth
+702-1397,hind1269,http://concepticon.clld.org/parameters/1396,t̪edʒ,sharp
+702-77,hind1269,http://concepticon.clld.org/parameters/379,kun̪ʈʰit̪,"blunt, dull"
+702-1064,hind1269,http://concepticon.clld.org/parameters/1210,bʱaːriː,heavy
+702-695,hind1269,http://concepticon.clld.org/parameters/1052,halkaː,light (in weight)
+702-263,hind1269,http://concepticon.clld.org/parameters/1726,giːla,"wet, damp"
+702-1463,hind1269,http://concepticon.clld.org/parameters/1398,suːkʰaː,dry
+702-254,hind1269,http://concepticon.clld.org/parameters/1286,garam,hot
+702-254,hind1269,http://concepticon.clld.org/parameters/1232,garam,warm
+702-965,hind1269,http://concepticon.clld.org/parameters/1287,ʈʰan̪ɖaː,cold
+702-791,hind1269,http://concepticon.clld.org/parameters/704,saːpʰ,clean
+702-1002,hind1269,http://concepticon.clld.org/parameters/1230,gan̪d̪aː,"dirty, soiled"
+702-91,hind1269,http://concepticon.clld.org/parameters/380,dʒʱurriː,wrinkled
+702-1260,hind1269,http://concepticon.clld.org/parameters/380,dʒʱurriːvaːlaː,wrinkled
+702-707,hind1269,http://concepticon.clld.org/parameters/53,aːt̪maː,"soul, spirit"
+702-504,hind1269,http://concepticon.clld.org/parameters/1572,atʃambʱa,"surprised, astonished"
+702-738,hind1269,http://concepticon.clld.org/parameters/1572,aːɕtʃarjatʃakit̪,"surprised, astonished"
+702-176,hind1269,http://concepticon.clld.org/parameters/720,kʰuɕkismat̪iː,"good fortune, luck"
+702-292,hind1269,http://concepticon.clld.org/parameters/56,bad̪akismat̪iː,"misfortune, bad luck"
+702-764,hind1269,http://concepticon.clld.org/parameters/1495,kʰuɕ,"joyful, glad, happy"
+702-768,hind1269,http://concepticon.clld.org/parameters/1355,han̪san̪aː,laugh
+702-660,hind1269,http://concepticon.clld.org/parameters/1451,muskuraːn̪aː,smile
+702-1422,hind1269,http://concepticon.clld.org/parameters/1413,kʰeln̪aː,play
+702-467,hind1269,http://concepticon.clld.org/parameters/923,pjaːr karan̪aː,love
+702-301,hind1269,http://concepticon.clld.org/parameters/578,tʃuːman̪aː,kiss
+702-864,hind1269,http://concepticon.clld.org/parameters/928,gale lagan̪aː,embrace
+702-751,hind1269,http://concepticon.clld.org/parameters/1783,d̪ard̪,pain
+702-799,hind1269,http://concepticon.clld.org/parameters/1668,d̪ukʰ,"grief, sorrow, sadness"
+702-233,hind1269,http://concepticon.clld.org/parameters/1000,pʰikar,"anxiety, worry"
+702-914,hind1269,http://concepticon.clld.org/parameters/1000,tʃin̪t̪aː,"anxiety, worry"
+702-483,hind1269,http://concepticon.clld.org/parameters/1875,d̪ukʰ hon̪aː,"regret, be sorry"
+702-757,hind1269,http://concepticon.clld.org/parameters/1875,d̪ukʰ pahun̪tʃn̪aː,"regret, be sorry"
+702-562,hind1269,http://concepticon.clld.org/parameters/1141,t̪aras,pity
+702-427,hind1269,http://concepticon.clld.org/parameters/1839,ron̪aː,"cry, weep"
+702-766,hind1269,http://concepticon.clld.org/parameters/1651,aːn̪suː,tear (noun)
+702-1084,hind1269,http://concepticon.clld.org/parameters/716,karaːhan̪aː,groan
+702-659,hind1269,http://concepticon.clld.org/parameters/1607,gʱraɳaː karan̪aː,hate
+702-165,hind1269,http://concepticon.clld.org/parameters/82,gussaː,anger
+702-1049,hind1269,http://concepticon.clld.org/parameters/82,krod̪ʱ,anger
+702-268,hind1269,http://concepticon.clld.org/parameters/40,iːrʂjaː,"envy, jealousy"
+702-865,hind1269,http://concepticon.clld.org/parameters/40,dʒalan̪,"envy, jealousy"
+702-1119,hind1269,http://concepticon.clld.org/parameters/1776,ɕaram,shame (noun)
+702-571,hind1269,http://concepticon.clld.org/parameters/174,abʱimaːn̪,proud
+702-1367,hind1269,http://concepticon.clld.org/parameters/1779,tʃun̪ɔt̪iː d̪en̪aː,dare
+702-1082,hind1269,http://concepticon.clld.org/parameters/1779,tʃun̪ɔt̪iː len̪aː,dare
+702-675,hind1269,http://concepticon.clld.org/parameters/3,bahaːd̪ur,brave
+702-1051,hind1269,http://concepticon.clld.org/parameters/3,n̪iɖar,brave
+702-412,hind1269,http://concepticon.clld.org/parameters/3,viːr,brave
+702-99,hind1269,http://concepticon.clld.org/parameters/781,ɖar,"fear, fright"
+702-619,hind1269,http://concepticon.clld.org/parameters/1810,bʱaj,danger
+702-529,hind1269,http://concepticon.clld.org/parameters/1810,kʰat̪raː,danger
+702-270,hind1269,http://concepticon.clld.org/parameters/1784,tʃaːhan̪aː,"desire, want"
+702-83,hind1269,http://concepticon.clld.org/parameters/1750,tʃun̪an̪aː,choose
+702-1391,hind1269,http://concepticon.clld.org/parameters/1092,aːɕaː karan̪aː,hope
+702-208,hind1269,http://concepticon.clld.org/parameters/100,imaːn̪ad̪aːr,faithful
+702-1146,hind1269,http://concepticon.clld.org/parameters/100,vapʰaːd̪aːr,faithful
+702-745,hind1269,http://concepticon.clld.org/parameters/1657,sat̪ja,true
+702-1168,hind1269,http://concepticon.clld.org/parameters/601,dʒʱuːʈ bolan̪aː,"lie, tell lies"
+702-756,hind1269,http://concepticon.clld.org/parameters/13,d̪ʱokʰaː,deceit
+702-935,hind1269,http://concepticon.clld.org/parameters/1528,maːpʰ karan̪aː,forgive
+702-759,hind1269,http://concepticon.clld.org/parameters/1035,atʃtʃʰaː,good
+702-303,hind1269,http://concepticon.clld.org/parameters/1292,buraː,bad
+702-844,hind1269,http://concepticon.clld.org/parameters/1292,kʰaraːb,bad
+702-573,hind1269,http://concepticon.clld.org/parameters/1725,utʃit̪,"right, correct"
+702-532,hind1269,http://concepticon.clld.org/parameters/1725,ʈʰiːk,"right, correct"
+702-857,hind1269,http://concepticon.clld.org/parameters/1390,galat̪,wrong
+702-1394,hind1269,http://concepticon.clld.org/parameters/134,galat̪iː,fault
+702-1394,hind1269,http://concepticon.clld.org/parameters/1293,galat̪iː,"mistake, error"
+702-193,hind1269,http://concepticon.clld.org/parameters/381,d̪oʂ,blame
+702-265,hind1269,http://concepticon.clld.org/parameters/1687,praɕan̪saː,praise
+702-918,hind1269,http://concepticon.clld.org/parameters/1687,t̪aːriːf,praise
+702-359,hind1269,http://concepticon.clld.org/parameters/1427,sun̪d̪ar,beautiful
+702-90,hind1269,http://concepticon.clld.org/parameters/1548,kuruːp,ugly
+702-731,hind1269,http://concepticon.clld.org/parameters/2018,lalatʃiː,greedy
+702-1384,hind1269,http://concepticon.clld.org/parameters/2018,lobʱiː,greedy
+702-15,hind1269,http://concepticon.clld.org/parameters/1310,hoɕijaːr,clever
+702-651,hind1269,http://concepticon.clld.org/parameters/1310,tʃat̪ur,clever
+702-948,hind1269,http://concepticon.clld.org/parameters/1562,d̪imaːg,mind
+702-654,hind1269,http://concepticon.clld.org/parameters/1562,tʃit̪t̪,mind
+702-1263,hind1269,http://concepticon.clld.org/parameters/1415,sotʃan̪aː,think (= reflect)
+702-1263,hind1269,http://concepticon.clld.org/parameters/1513,sotʃan̪aː,think (= be of the opinion)
+702-1027,hind1269,http://concepticon.clld.org/parameters/1890,man̪an̪aː,believe
+702-1386,hind1269,http://concepticon.clld.org/parameters/1890,jakiːn̪ karan̪aː,believe
+702-1114,hind1269,http://concepticon.clld.org/parameters/1536,samadʒʱn̪aː,understand
+702-603,hind1269,http://concepticon.clld.org/parameters/1410,dʒaːn̪an̪aː,know
+702-1265,hind1269,http://concepticon.clld.org/parameters/1410,pat̪aː hon̪aː,know
+702-178,hind1269,http://concepticon.clld.org/parameters/1932,and̪aːdʒ lagaːn̪aː,guess
+702-312,hind1269,http://concepticon.clld.org/parameters/1932,bʱapan̪aː,guess
+702-306,hind1269,http://concepticon.clld.org/parameters/117,n̪akal karan̪aː,imitate
+702-1256,hind1269,http://concepticon.clld.org/parameters/1521,lagan̪aː,seem
+702-982,hind1269,http://concepticon.clld.org/parameters/1609,vitʃaːr,"idea, notion"
+702-1402,hind1269,http://concepticon.clld.org/parameters/698,gjaːn̪iːn̪,wise
+702-651,hind1269,http://concepticon.clld.org/parameters/698,tʃat̪ur,wise
+702-862,hind1269,http://concepticon.clld.org/parameters/1518,muːrkʰ,"foolish, stupid"
+702-1204,hind1269,http://concepticon.clld.org/parameters/1899,paːgal,"insane, crazy"
+702-249,hind1269,http://concepticon.clld.org/parameters/504,siːkʰn̪aː,learn
+702-56,hind1269,http://concepticon.clld.org/parameters/1929,paɽʱan̪aː,study
+702-11,hind1269,http://concepticon.clld.org/parameters/709,siːkʰaːn̪aː,teach
+702-1301,hind1269,http://concepticon.clld.org/parameters/753,tʃelaː,pupil
+702-640,hind1269,http://concepticon.clld.org/parameters/753,ɕiʂja,pupil
+702-986,hind1269,http://concepticon.clld.org/parameters/753,tʃʰaːt̪ra,pupil
+702-354,hind1269,http://concepticon.clld.org/parameters/1038,ad̪ʱjapak,teacher
+702-648,hind1269,http://concepticon.clld.org/parameters/1038,aːtʃaːrja,teacher
+702-1159,hind1269,http://concepticon.clld.org/parameters/1038,guruː,teacher
+702-217,hind1269,http://concepticon.clld.org/parameters/673,paːʈʰɕaːlaː,school
+702-947,hind1269,http://concepticon.clld.org/parameters/673,skuːl,school
+702-614,hind1269,http://concepticon.clld.org/parameters/707,jaːd̪ karan̪aː,remember
+702-1201,hind1269,http://concepticon.clld.org/parameters/1523,bʱuːlan̪aː,forget
+702-1198,hind1269,http://concepticon.clld.org/parameters/989,saːf,"clear, plain"
+702-371,hind1269,http://concepticon.clld.org/parameters/1764,aspaʂʈ,obscure
+702-898,hind1269,http://concepticon.clld.org/parameters/1121,gupt̪,secret
+702-711,hind1269,http://concepticon.clld.org/parameters/509,n̪iɕtʃit̪,"sure, certain"
+702-594,hind1269,http://concepticon.clld.org/parameters/509,pakka,"sure, certain"
+702-522,hind1269,http://concepticon.clld.org/parameters/1626,samdʒʱaːn̪aː,explain
+702-701,hind1269,http://concepticon.clld.org/parameters/1162,abʱipraːj,"intention, purpose"
+702-1432,hind1269,http://concepticon.clld.org/parameters/1162,iraːd̪aː,"intention, purpose"
+702-327,hind1269,http://concepticon.clld.org/parameters/860,kaːraɳ,cause
+702-1053,hind1269,http://concepticon.clld.org/parameters/1308,ɕak,doubt
+702-899,hind1269,http://concepticon.clld.org/parameters/1308,ɕaŋkaː vaham,doubt
+702-125,hind1269,http://concepticon.clld.org/parameters/1841,ɕak karan̪aː,suspect
+702-1283,hind1269,http://concepticon.clld.org/parameters/1902,viɕvaːsgʱaːt̪ karan̪aː,betray
+702-551,hind1269,http://concepticon.clld.org/parameters/643,aːvaɕjakt̪aː,"need, necessity"
+702-147,hind1269,http://concepticon.clld.org/parameters/686,aːsaːn̪,easy
+702-780,hind1269,http://concepticon.clld.org/parameters/584,muɕkil,difficult
+702-372,hind1269,http://concepticon.clld.org/parameters/1812,koɕiːɕ karan̪aː,"try, attempt"
+702-994,hind1269,http://concepticon.clld.org/parameters/488,t̪ariːkaː,"way, manner"
+702-806,hind1269,http://concepticon.clld.org/parameters/1577,ɔr,and
+702-1236,hind1269,http://concepticon.clld.org/parameters/1157,isalie,because
+702-1357,hind1269,http://concepticon.clld.org/parameters/1459,agar,if
+702-1414,hind1269,http://concepticon.clld.org/parameters/1014,jaː,or
+702-1366,hind1269,http://concepticon.clld.org/parameters/1268,haːn̪,"yes, affirmative"
+702-348,hind1269,http://concepticon.clld.org/parameters/1269,n̪ahiːn̪,"no, negative"
+702-1250,hind1269,http://concepticon.clld.org/parameters/1239,kɛse,how?
+702-8,hind1269,http://concepticon.clld.org/parameters/822,kit̪an̪aː,how many?
+702-447,hind1269,http://concepticon.clld.org/parameters/822,kit̪an̪e,how many?
+702-8,hind1269,http://concepticon.clld.org/parameters/531,kit̪an̪aː,how much?
+702-1321,hind1269,http://concepticon.clld.org/parameters/1236,kjaː,what?
+702-923,hind1269,http://concepticon.clld.org/parameters/1238,kab,when?
+702-789,hind1269,http://concepticon.clld.org/parameters/1237,kahaːn̪,where?
+702-599,hind1269,http://concepticon.clld.org/parameters/727,kɔn̪ saː,which?
+702-1098,hind1269,http://concepticon.clld.org/parameters/1235,kɔn̪,who?
+702-1269,hind1269,http://concepticon.clld.org/parameters/1270,kjoːn̪,why?
+702-1354,hind1269,http://concepticon.clld.org/parameters/1363,aːvaːdʒ,voice
+702-55,hind1269,http://concepticon.clld.org/parameters/1261,gaːn̪aː gaːn̪aː,sing
+702-149,hind1269,http://concepticon.clld.org/parameters/715,tʃiːkʰan̪aː,"shout, cry out"
+702-801,hind1269,http://concepticon.clld.org/parameters/55,pʰuspʰusaːn̪aː,whisper
+702-478,hind1269,http://concepticon.clld.org/parameters/128,bud̪abud̪an̪aː,mumble
+702-684,hind1269,http://concepticon.clld.org/parameters/1025,siːʈiː badʒaːn̪aː,whistle
+702-1184,hind1269,http://concepticon.clld.org/parameters/298,tʃiːkʰn̪aː,"shriek, screech"
+702-60,hind1269,http://concepticon.clld.org/parameters/526,tʃillaːn̪aː,howl
+702-30,hind1269,http://concepticon.clld.org/parameters/1623,bolan̪aː,"speak, talk"
+702-516,hind1269,http://concepticon.clld.org/parameters/1623,kehan̪aː,"speak, talk"
+702-1166,hind1269,http://concepticon.clld.org/parameters/1866,hakalaːn̪aː,"stutter, stammer"
+702-516,hind1269,http://concepticon.clld.org/parameters/1458,kehan̪aː,say
+702-145,hind1269,http://concepticon.clld.org/parameters/1711,bat̪aːn̪aː,tell story
+702-527,hind1269,http://concepticon.clld.org/parameters/1115,bʱaːʂaː,speech (make a)
+702-879,hind1269,http://concepticon.clld.org/parameters/48,tʃup rahan̪aː,silent (be)
+702-527,hind1269,http://concepticon.clld.org/parameters/1307,bʱaːʂaː,language
+702-1423,hind1269,http://concepticon.clld.org/parameters/1599,ɕabd̪a,word
+702-353,hind1269,http://concepticon.clld.org/parameters/1405,n̪aːm,name
+702-641,hind1269,http://concepticon.clld.org/parameters/1309,puːtʃʰan̪aː,"ask (question, inquire)"
+702-1264,hind1269,http://concepticon.clld.org/parameters/1275,dʒavaːb d̪en̪aː,answer
+702-873,hind1269,http://concepticon.clld.org/parameters/1275,ut̪t̪ar d̪en̪aː,answer
+702-341,hind1269,http://concepticon.clld.org/parameters/2022,kabuːl karan̪aː,"admit, confess"
+702-258,hind1269,http://concepticon.clld.org/parameters/2022,maːn̪an̪aː,"admit, confess"
+702-375,hind1269,http://concepticon.clld.org/parameters/755,man̪aː karn̪aː,deny
+702-1033,hind1269,http://concepticon.clld.org/parameters/755,n̪akaːrnaː,deny
+702-641,hind1269,http://concepticon.clld.org/parameters/1828,puːtʃʰan̪aː,"ask, request"
+702-103,hind1269,http://concepticon.clld.org/parameters/1675,vatʃan̪ d̪en̪aː,promise
+702-397,hind1269,http://concepticon.clld.org/parameters/49,n̪akaːran̪aː,refuse
+702-1096,hind1269,http://concepticon.clld.org/parameters/83,rokan̪aː,forbid
+702-783,hind1269,http://concepticon.clld.org/parameters/83,vardʒit̪ karan̪aː,forbid
+702-152,hind1269,http://concepticon.clld.org/parameters/299,ɖaːn̪ʈan̪aː,"rebuke, scold"
+702-1295,hind1269,http://concepticon.clld.org/parameters/1084,bulaːn̪aː,call (=summon)
+702-1295,hind1269,http://concepticon.clld.org/parameters/180,bulaːn̪aː,call (=name)
+702-402,hind1269,http://concepticon.clld.org/parameters/9,gʱoʂaɳaː karan̪aː,announce
+702-136,hind1269,http://concepticon.clld.org/parameters/1192,d̪ʱamkaːn̪aː,threaten
+702-155,hind1269,http://concepticon.clld.org/parameters/101,baɽaːiː karan̪aː,boast
+702-469,hind1269,http://concepticon.clld.org/parameters/101,ɕaːn̪ d̪ikʰaːn̪aː,boast
+702-32,hind1269,http://concepticon.clld.org/parameters/101,ɕekʰiː maːran̪aː,boast
+702-767,hind1269,http://concepticon.clld.org/parameters/1672,likʰan̪aː,write
+702-56,hind1269,http://concepticon.clld.org/parameters/724,paɽʱan̪aː,read
+702-755,hind1269,http://concepticon.clld.org/parameters/648,kaːgadʒ,paper
+702-593,hind1269,http://concepticon.clld.org/parameters/648,pat̪ra,paper
+702-802,hind1269,http://concepticon.clld.org/parameters/794,pen̪,pen
+702-261,hind1269,http://concepticon.clld.org/parameters/963,kit̪aːb,book
+702-1356,hind1269,http://concepticon.clld.org/parameters/1045,kavi,poet
+702-972,hind1269,http://concepticon.clld.org/parameters/777,baːn̪suriː,flute
+702-195,hind1269,http://concepticon.clld.org/parameters/908,ɖʱol,drum
+702-525,hind1269,http://concepticon.clld.org/parameters/2136,t̪urahiː,"horn, trumpet"
+702-961,hind1269,http://concepticon.clld.org/parameters/300,dʒʱun̪dʒʱun̪aː,rattle
+702-1070,hind1269,http://concepticon.clld.org/parameters/1300,d̪eɕ,country
+702-1070,hind1269,http://concepticon.clld.org/parameters/89,d̪eɕ,one's native country
+702-981,hind1269,http://concepticon.clld.org/parameters/1391,ɕeher,"city, town"
+702-205,hind1269,http://concepticon.clld.org/parameters/930,gaːn̪v,village
+702-86,hind1269,http://concepticon.clld.org/parameters/1010,siːmaː,boundary
+702-688,hind1269,http://concepticon.clld.org/parameters/789,log,people (populace)
+702-179,hind1269,http://concepticon.clld.org/parameters/302,gʱaraːn̪aː,"tribe, clan"
+702-1371,hind1269,http://concepticon.clld.org/parameters/301,tʃɔd̪ʱariː,"chief, chieftain"
+702-900,hind1269,http://concepticon.clld.org/parameters/301,sarad̪aːr,"chief, chieftain"
+702-686,hind1269,http://concepticon.clld.org/parameters/1296,tʃʰaɽiː,"staff, walking stick"
+702-567,hind1269,http://concepticon.clld.org/parameters/1846,raːdʒ karan̪aː,"rule, govern"
+702-949,hind1269,http://concepticon.clld.org/parameters/1508,raːdʒaː,"king, ruler"
+702-550,hind1269,http://concepticon.clld.org/parameters/1306,raːn̪iː,queen
+702-72,hind1269,http://concepticon.clld.org/parameters/482,kuliːn̪,"noble, nobleman"
+702-669,hind1269,http://concepticon.clld.org/parameters/1032,n̪aːgarik,"citizen, subject"
+702-1191,hind1269,http://concepticon.clld.org/parameters/383,guru,master
+702-1200,hind1269,http://concepticon.clld.org/parameters/812,g̣ulaːm,slave
+702-598,hind1269,http://concepticon.clld.org/parameters/255,n̪ɔkar,servant
+702-255,hind1269,http://concepticon.clld.org/parameters/384,svaːd̪ʱiːn̪ n̪aːgarik,freeman
+702-552,hind1269,http://concepticon.clld.org/parameters/1128,aːd̪eɕ d̪en̪aː,"command, order"
+702-807,hind1269,http://concepticon.clld.org/parameters/1635,aːgjaː paːlan̪ karan̪aː,obey
+702-891,hind1269,http://concepticon.clld.org/parameters/1003,an̪umat̪iː d̪en̪aː,"let, permit"
+702-79,hind1269,http://concepticon.clld.org/parameters/1325,saheliː,"friend, companion"
+702-1388,hind1269,http://concepticon.clld.org/parameters/1325,d̪ost̪,"friend, companion"
+702-601,hind1269,http://concepticon.clld.org/parameters/1358,d̪uɕman̪,enemy
+702-68,hind1269,http://concepticon.clld.org/parameters/1358,ɕat̪ru,enemy
+702-392,hind1269,http://concepticon.clld.org/parameters/1332,paɽosiː,neighbor
+702-956,hind1269,http://concepticon.clld.org/parameters/791,adʒan̪abiː,stranger
+702-836,hind1269,http://concepticon.clld.org/parameters/1782,at̪it̪ʰi,guest
+702-95,hind1269,http://concepticon.clld.org/parameters/1545,medʒbaːn̪,host
+702-1418,hind1269,http://concepticon.clld.org/parameters/1897,mad̪at̪ karan̪aː,"help, aid"
+702-1096,hind1269,http://concepticon.clld.org/parameters/1550,rokan̪aː,"hinder, prevent"
+702-672,hind1269,http://concepticon.clld.org/parameters/1747,tʃalan̪,custom
+702-1180,hind1269,http://concepticon.clld.org/parameters/1848,laɖaːiː,"strife, quarrel"
+702-736,hind1269,http://concepticon.clld.org/parameters/2024,ʂaɽajan̪t̪ra,"conspiracy, plot"
+702-1339,hind1269,http://concepticon.clld.org/parameters/1831,milan̪aː,meet
+702-805,hind1269,http://concepticon.clld.org/parameters/1610,veɕjaː,prostitute
+702-690,hind1269,http://concepticon.clld.org/parameters/1423,laɽan̪aː,fight (vb)
+702-1314,hind1269,http://concepticon.clld.org/parameters/579,laɽaːiː,"war, battle"
+702-574,hind1269,http://concepticon.clld.org/parameters/1338,ɕaːn̪t̪i,peace
+702-1450,hind1269,http://concepticon.clld.org/parameters/1561,pʰɔːdʒ,army
+702-271,hind1269,http://concepticon.clld.org/parameters/1561,sen̪aː,army
+702-1142,hind1269,http://concepticon.clld.org/parameters/1941,sipaːhiː,soldier
+702-773,hind1269,http://concepticon.clld.org/parameters/1941,sɛn̪ik,soldier
+702-284,hind1269,http://concepticon.clld.org/parameters/951,ast̪ra,"weapons, arms"
+702-27,hind1269,http://concepticon.clld.org/parameters/1763,gad̪aː,club
+702-895,hind1269,http://concepticon.clld.org/parameters/386,kulhaːɽiː,battle-ax
+702-604,hind1269,http://concepticon.clld.org/parameters/387,gopʰan̪,sling
+702-1048,hind1269,http://concepticon.clld.org/parameters/994,kamaːn̪,bow
+702-890,hind1269,http://concepticon.clld.org/parameters/977,t̪iːr,arrow
+702-1067,hind1269,http://concepticon.clld.org/parameters/945,bʱaːlaː,spear
+702-720,hind1269,http://concepticon.clld.org/parameters/1535,kʰaɖag,sword
+702-544,hind1269,http://concepticon.clld.org/parameters/1535,t̪alvaːr,sword
+702-345,hind1269,http://concepticon.clld.org/parameters/1566,t̪op,"gun, cannon"
+702-513,hind1269,http://concepticon.clld.org/parameters/1061,kan̪tʃuk,armor (defensive)
+702-266,hind1269,http://concepticon.clld.org/parameters/1680,ʈop,helmet
+702-638,hind1269,http://concepticon.clld.org/parameters/1064,ɖʱaːl,shield
+702-113,hind1269,http://concepticon.clld.org/parameters/1938,gaɽʱiː,fortress
+702-1482,hind1269,http://concepticon.clld.org/parameters/1671,buradʒ,tower
+702-1398,hind1269,http://concepticon.clld.org/parameters/1671,d̪urg,tower
+702-626,hind1269,http://concepticon.clld.org/parameters/1671,miːn̪aːr,tower
+702-559,hind1269,http://concepticon.clld.org/parameters/783,dʒaj,victory
+702-289,hind1269,http://concepticon.clld.org/parameters/783,dʒiːt̪,victory
+702-494,hind1269,http://concepticon.clld.org/parameters/782,haːr,defeat
+702-1039,hind1269,http://concepticon.clld.org/parameters/782,paraːdʒaj,defeat
+702-188,hind1269,http://concepticon.clld.org/parameters/722,aːkramaɳ,attack
+702-665,hind1269,http://concepticon.clld.org/parameters/1330,batʃaːn̪aː,defend
+702-477,hind1269,http://concepticon.clld.org/parameters/421,piːtʃʰe hon̪aː,retreat
+702-1347,hind1269,http://concepticon.clld.org/parameters/1696,hat̪ʰiːjaːr ɖaːlan̪aː,surrender
+702-1337,hind1269,http://concepticon.clld.org/parameters/1696,ɕast̪ra ɖaːlan̪aː,surrender
+702-496,hind1269,http://concepticon.clld.org/parameters/1072,ban̪d̪iː,"captive, prisoner"
+702-426,hind1269,http://concepticon.clld.org/parameters/1072,dʒeliː,"captive, prisoner"
+702-990,hind1269,http://concepticon.clld.org/parameters/1072,kɛd̪iː,"captive, prisoner"
+702-243,hind1269,http://concepticon.clld.org/parameters/1940,tʃɔkiːd̪aːr,"guard, sentinel"
+702-105,hind1269,http://concepticon.clld.org/parameters/1022,luːʈ,"booty, spoils"
+702-668,hind1269,http://concepticon.clld.org/parameters/65,gʱaːt̪,ambush
+702-1415,hind1269,http://concepticon.clld.org/parameters/1858,matʃʰuaː,fisherman
+702-558,hind1269,http://concepticon.clld.org/parameters/1074,ban̪siː kaː kaːn̪ʈaː,fishhook
+702-1086,hind1269,http://concepticon.clld.org/parameters/19,mat̪ʃʰaliː pakaɽan̪e kiː ɖoriː,fishing line
+702-154,hind1269,http://concepticon.clld.org/parameters/388,matʃʰaliː kaː dʒaːl,fishnet
+702-154,hind1269,http://concepticon.clld.org/parameters/389,matʃʰaliː kaː dʒaːl,fish trap
+702-548,hind1269,http://concepticon.clld.org/parameters/2013,pralobʱan̪,bait
+702-1149,hind1269,http://concepticon.clld.org/parameters/1435,ɕikaːr karan̪aː,hunt
+702-1466,hind1269,http://concepticon.clld.org/parameters/1172,goliː maran̪aː,shoot
+702-607,hind1269,http://concepticon.clld.org/parameters/161,tʃuːkan̪aː,miss (target)
+702-622,hind1269,http://concepticon.clld.org/parameters/1075,dʒaːl,trap (noun)
+702-1287,hind1269,http://concepticon.clld.org/parameters/1075,pʰan̪d̪aː,trap (noun)
+702-1054,hind1269,http://concepticon.clld.org/parameters/1170,pʰasaːn̪aː,trap (vb)
+702-1331,hind1269,http://concepticon.clld.org/parameters/1062,n̪ijam,law
+702-741,hind1269,http://concepticon.clld.org/parameters/1068,ad̪aːlat̪,court
+702-833,hind1269,http://concepticon.clld.org/parameters/1068,katʃeriː,court
+702-1194,hind1269,http://concepticon.clld.org/parameters/1818,n̪irɳja d̪en̪aː,judge (vb)
+702-1001,hind1269,http://concepticon.clld.org/parameters/1067,pʰɛsala,judgment
+702-1174,hind1269,http://concepticon.clld.org/parameters/861,dʒadʒ,judge (noun)
+702-693,hind1269,http://concepticon.clld.org/parameters/861,n̪irɳa:jak,judge (noun)
+702-171,hind1269,http://concepticon.clld.org/parameters/861,n̪ja:jakarat̪a:,judge (noun)
+702-1305,hind1269,http://concepticon.clld.org/parameters/2020,mud̪d̪iː,plaintiff
+702-721,hind1269,http://concepticon.clld.org/parameters/2020,vaːd̪iː,plaintiff
+702-794,hind1269,http://concepticon.clld.org/parameters/1034,prat̪ivaːd̪iː,defendant
+702-678,hind1269,http://concepticon.clld.org/parameters/1144,gavaːh,witness
+702-110,hind1269,http://concepticon.clld.org/parameters/1144,saːkɕiː,witness
+702-1481,hind1269,http://concepticon.clld.org/parameters/1939,kasam kʰaːn̪a,swear
+702-1024,hind1269,http://concepticon.clld.org/parameters/1939,sɔgan̪d̪ʱ kʰaːn̪aː,swear
+702-424,hind1269,http://concepticon.clld.org/parameters/1712,kasam,oath
+702-951,hind1269,http://concepticon.clld.org/parameters/1712,sɔgan̪d̪ʱ,oath
+702-1068,hind1269,http://concepticon.clld.org/parameters/1814,d̪oʂ d̪en̪aː,accuse
+702-1328,hind1269,http://concepticon.clld.org/parameters/484,d̪ʱikkaːran̪aː,condemn
+702-631,hind1269,http://concepticon.clld.org/parameters/983,d̪oʂiː ʈʰaharaːn̪aː,convict (vb)
+702-1453,hind1269,http://concepticon.clld.org/parameters/988,bariː karan̪aː,acquit
+702-1233,hind1269,http://concepticon.clld.org/parameters/1682,aparaːd̪ʱiː,guilty
+702-362,hind1269,http://concepticon.clld.org/parameters/1682,d̪oʂiː,guilty
+702-209,hind1269,http://concepticon.clld.org/parameters/90,andʒaːn̪,innocent
+702-234,hind1269,http://concepticon.clld.org/parameters/90,abod̪ʱ,innocent
+702-1455,hind1269,http://concepticon.clld.org/parameters/390,d̪an̪ɖ,"penalty, punishment"
+702-479,hind1269,http://concepticon.clld.org/parameters/218,art̪ʰa d̪an̪ɖ,fine
+702-634,hind1269,http://concepticon.clld.org/parameters/218,dʒurmaːn̪aː,fine
+702-897,hind1269,http://concepticon.clld.org/parameters/1281,jel,"prison, jail"
+702-959,hind1269,http://concepticon.clld.org/parameters/1281,kaːraːgar,"prison, jail"
+702-505,hind1269,http://concepticon.clld.org/parameters/845,kʰuːn̪,murder
+702-1124,hind1269,http://concepticon.clld.org/parameters/902,tʃʰin̪aːl,adultery
+702-713,hind1269,http://concepticon.clld.org/parameters/953,balaːt̪kaːr,rape
+702-778,hind1269,http://concepticon.clld.org/parameters/1889,aːgadʒan̪iː,arson
+702-364,hind1269,http://concepticon.clld.org/parameters/1792,dʒʱuːʈʰiː gavaːhiː,perjury
+702-893,hind1269,http://concepticon.clld.org/parameters/713,tʃuraːn̪aː,steal
+702-1274,hind1269,http://concepticon.clld.org/parameters/1160,tʃor,thief
+702-762,hind1269,http://concepticon.clld.org/parameters/661,d̪ʱaram,religion
+702-1375,hind1269,http://concepticon.clld.org/parameters/1944,bʱagvaːn̪,God
+702-1034,hind1269,http://concepticon.clld.org/parameters/911,man̪d̪ir,"temple, church"
+702-1289,hind1269,http://concepticon.clld.org/parameters/853,tʃɔraː,altar
+702-1282,hind1269,http://concepticon.clld.org/parameters/853,ved̪ikaː,altar
+702-1189,hind1269,http://concepticon.clld.org/parameters/853,ved̪iː,altar
+702-1378,hind1269,http://concepticon.clld.org/parameters/1103,bali,"sacrifice, offering"
+702-481,hind1269,http://concepticon.clld.org/parameters/1103,kurbaːn̪iː,"sacrifice, offering"
+702-1118,hind1269,http://concepticon.clld.org/parameters/257,puːdʒan̪aː,worship
+702-104,hind1269,http://concepticon.clld.org/parameters/257,puːdʒaː karan̪aː,worship
+702-186,hind1269,http://concepticon.clld.org/parameters/24,praːrt̪ʰan̪aː karn̪aː,pray
+702-822,hind1269,http://concepticon.clld.org/parameters/852,pudʒaːriː,priest
+702-1045,hind1269,http://concepticon.clld.org/parameters/852,purohit̪,priest
+702-979,hind1269,http://concepticon.clld.org/parameters/1702,pavit̪ra,"holy, sacred"
+702-703,hind1269,http://concepticon.clld.org/parameters/1702,paːvan̪,"holy, sacred"
+702-446,hind1269,http://concepticon.clld.org/parameters/304,pravatʃan̪ d̪en̪aː,preach
+702-1029,hind1269,http://concepticon.clld.org/parameters/391,d̪uaː d̪en̪aː,bless
+702-1212,hind1269,http://concepticon.clld.org/parameters/391,d̪uaː karan̪aː,bless
+702-530,hind1269,http://concepticon.clld.org/parameters/8,kosan̪aː,curse
+702-852,hind1269,http://concepticon.clld.org/parameters/8,ɕaːp d̪en̪aː,curse
+702-1105,hind1269,http://concepticon.clld.org/parameters/303,upavaːs karn̪aː,fast (vb)
+702-1232,hind1269,http://concepticon.clld.org/parameters/1565,svarg,heaven
+702-21,hind1269,http://concepticon.clld.org/parameters/878,n̪arak,hell
+702-101,hind1269,http://concepticon.clld.org/parameters/1973,rakɕas,demon (evil spirit)
+702-1112,hind1269,http://concepticon.clld.org/parameters/1945,muːrt̪i,idol
+702-1401,hind1269,http://concepticon.clld.org/parameters/392,dʒaːd̪uː,"magic, witchcraft, sorcery"
+702-1473,hind1269,http://concepticon.clld.org/parameters/2137,tʃuːɽɛl,"sorcerer, witch"
+702-14,hind1269,http://concepticon.clld.org/parameters/2138,apsaraː,"fairy, elf"
+702-116,hind1269,http://concepticon.clld.org/parameters/2138,pariː,"fairy, elf"
+702-882,hind1269,http://concepticon.clld.org/parameters/1175,bʱuːt̪,"ghost, phantom"
+702-1434,hind1269,http://concepticon.clld.org/parameters/107,apaɕakun̪,"omen, portent"
+702-172,hind1269,http://concepticon.clld.org/parameters/1685,baːd̪,after
+702-308,hind1269,http://concepticon.clld.org/parameters/1685,piːtʃʰe,after
+702-308,hind1269,http://concepticon.clld.org/parameters/723,piːtʃʰe,behind
+702-204,hind1269,http://concepticon.clld.org/parameters/1816,ke saːt̪ʰ,beside
+702-1073,hind1269,http://concepticon.clld.org/parameters/1326,n̪iːtʃe,"down, below"
+702-1016,hind1269,http://concepticon.clld.org/parameters/1882,pahale,before
+702-465,hind1269,http://concepticon.clld.org/parameters/1019,saːman̪e,front
+702-211,hind1269,http://concepticon.clld.org/parameters/1606,an̪d̪ar,"inside, in"
+702-847,hind1269,http://concepticon.clld.org/parameters/762,baːhar,outside
+702-1073,hind1269,http://concepticon.clld.org/parameters/1485,n̪iːtʃe,under
+702-1271,hind1269,http://concepticon.clld.org/parameters/1591,uːpar,"up, above"
+702-1293,hind1269,http://concepticon.clld.org/parameters/1294,ɕuːn̪ja,"zero, nothing"
+702-1441,hind1269,http://concepticon.clld.org/parameters/1515,ek,one
+702-140,hind1269,http://concepticon.clld.org/parameters/1498,d̪o,two
+702-502,hind1269,http://concepticon.clld.org/parameters/492,t̪iːn̪,three
+702-1273,hind1269,http://concepticon.clld.org/parameters/1500,tʃaːr,four
+702-1329,hind1269,http://concepticon.clld.org/parameters/493,pan̪tʃ,five
+702-1318,hind1269,http://concepticon.clld.org/parameters/1703,tʃʰe,six
+702-1468,hind1269,http://concepticon.clld.org/parameters/1704,saːt̪,seven
+702-96,hind1269,http://concepticon.clld.org/parameters/1705,aːʈʰ,eight
+702-222,hind1269,http://concepticon.clld.org/parameters/1483,n̪ɔ,nine
