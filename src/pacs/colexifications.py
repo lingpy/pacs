@@ -12,7 +12,18 @@ import numpy as np
 from tqdm import tqdm as progressbar
 
 
-def get_colexifications(
+def affix_candidates(sequence, min_length, min_diff):
+    affixes = []
+    slen = len(sequence)
+    svert = sequence[::-1]
+    # start with prefixes
+    for i in range(min_length, slen-min_diff+1):
+        affixes.append(sequence[:i])
+        affixes.append(svert[:i][::-1])
+    return affixes
+
+
+def full_colexifications(
         wordlist, family=None, concepts=None):
     """
     @param wordlist: A cltoolkit Wordlist instance.
@@ -96,81 +107,7 @@ def get_colexifications(
     return graph
 
 
-def weight_by_cognacy(
-        graph, 
-        threshold=0.45,
-        cluster_method="infomap",
-        ):
-    """
-    Function weights the data by computing cognate sets.
-
-    :todo: compute cognacy for concept slots to determine self-colexification
-    scores.
-    """
-    if cluster_method == "infomap":
-        cluster_function = extra.infomap_clustering
-    else:
-        cluster_function = cluster.flat_upgma
-
-    for nA, nB, data in graph.edges(data=True):
-        if data["count"] > 1:
-            # assemble languages with different cognates
-            if data["count"] == 2:
-                pair = Pairwise(data["words"][0], data["words"][1])
-                pair.align(distance=True)
-                if pair.alignments[0][2] <= threshold:
-                    weight = 1
-                else:
-                    weight = 2
-            else:
-                matrix = [[0 for _ in data["words"]] for _ in data["words"]]
-                for (i, w1), (j, w2) in itertools.combinations(
-                        enumerate(data["words"]), r=2):
-                    pair = Pairwise(w1.split(), w2.split())
-                    pair.align(distance=True)
-                    matrix[i][j] = matrix[j][i] = pair.alignments[0][2]
-
-                results = cluster_function(
-                        threshold, 
-                        matrix,
-                        taxa=data["languages"])
-                weight = len(results)
-        else:
-            weight = 1
-        graph[nA][nB]["cognate_count"] = weight
-
-
-def get_transition_matrix(graph, steps=10, weight="weight", normalize=False):
-    """
-    Compute transition matrix following Jackson et al. 2019
-    """
-    # prune nodes excluding singletons
-    nodes = []
-    for node in graph.nodes:
-        if len(graph[node]) >= 1:
-            nodes.append(node)
-    a_matrix: list[list[int]] = [[0 for _ in nodes] for _ in nodes]
-
-    for node_a, node_b, data in graph.edges(data=True):
-        idx_a, idx_b = nodes.index(node_a), nodes.index(node_b)
-        a_matrix[idx_a][idx_b] = a_matrix[idx_b][idx_a] = data[weight]
-    d_matrix = [[0 for _ in nodes] for _ in nodes]
-    diagonal = [sum(row) for row in a_matrix]
-    for i in range(len(nodes)):
-        d_matrix[i][i] = 1 / diagonal[i]
-
-    p_matrix = np.matmul(d_matrix, a_matrix)
-    new_p_matrix = sum([np.linalg.matrix_power(p_matrix, i) for i in range(1,
-                                                                           steps + 1)])
-
-    # we can normalize the matrix by dividing by the number of time steps
-    if normalize:
-        new_p_matrix = new_p_matrix / steps
-
-    return new_p_matrix, nodes, a_matrix
-
-
-def get_affix_colexifications_by_pairwise_comparison(
+def affix_colexifications_by_pairwise_comparison(
         wordlist,
         source_threshold=2,
         target_threshold=5,
@@ -328,12 +265,13 @@ def get_affix_colexifications_by_pairwise_comparison(
     return graph
 
 
-def get_affix_colexifications(
+def affix_colexifications(
         wordlist, 
         source_threshold=2,
         target_threshold=5,
         difference_threshold=2,
         concepts=None,
+        concept_attr="concepticon_gloss",
         family=None):
     """
     Compute affix colexifications from a wordlist.
@@ -344,33 +282,28 @@ def get_affix_colexifications(
     @param difference_threshold: minimal length difference between source and target.
     """
     graph = nx.DiGraph()
+    # concept conversion, using concepticon gloss as default
+    concept_factory = lambda x: getattr(x, concept_attr)
+
     if family is None:
         languages = [language for language in wordlist.languages]
     else:
         languages = [language for language in wordlist.languages if language.family == family]
     if concepts is None:
-        concepts = [concept.concepticon_gloss for concept in wordlist.concepts]
+        concepts = [concept_factory(concept) for concept in wordlist.concepts]
     
-    aout = {}
-    cout = {}
+    aout = {}  # todo: delete
+    cout = {}  # todo: delete
     for language in progressbar(languages, desc="computing colexifications"):
         affixes = defaultdict(list)
         valid_forms = [f for f in language.forms_with_sounds if f.concept]
         # first run, only extract source forms
         for form in valid_forms:
-            tform = ("^",)+tuple(form.sounds)+("$",)
             wlen = len(form.sounds)
             if wlen >= target_threshold:
-                for ngram in get_all_ngrams(tform):
-                    if ngram[0] == "^" and ngram[-1] != "$" and \
-                            wlen - (len(ngram)-1) >= difference_threshold and \
-                            len(ngram)-1 >= source_threshold:
-                        affixes[ngram[1:]] += [form]
-                    elif ngram[-1] == "$" and ngram[0] != "^" and \
-                            wlen - (len(ngram)-1) >= difference_threshold and \
-                            len(ngram)-1 >= source_threshold:
-                        affixes[ngram[:-1]] += [form]
-            aout[language.id] = affixes
+                for ngram in affix_candidates(tuple(form.sounds), source_threshold, difference_threshold):
+                    affixes[ngram] += [form]
+            aout[language.id] = affixes  # TODO: delete
         cols = defaultdict(list)
         for form in valid_forms:
             tform = tuple(form.sounds)
@@ -383,20 +316,21 @@ def get_affix_colexifications(
                         visited += [affix.id]
                 if targets:
                     cols[form.id] = (form, targets)
-        cout[language.id] = cols
+        cout[language.id] = cols  # todo delete
 
         for source, targets in cols.values():
+            concept = concept_factory(source.concept)
             try:
-                graph.nodes[source.concept.id]["source_occurrences"] += [source.id]
-                graph.nodes[source.concept.id]["source_forms"] += [source.form]
-                graph.nodes[source.concept.id]["source_varieties"] += [language.id]
-                graph.nodes[source.concept.id]["source_languages"] += [language.glottocode]
-                graph.nodes[source.concept.id]["source_families"] += [language.family]
+                graph.nodes[concept]["source_occurrences"] += [source.id]
+                graph.nodes[concept]["source_forms"] += [str(source.sounds)]
+                graph.nodes[concept]["source_varieties"] += [language.id]
+                graph.nodes[concept]["source_languages"] += [language.glottocode]
+                graph.nodes[concept]["source_families"] += [language.family]
             except KeyError:
                 graph.add_node(
-                        source.concept.id,
+                        concept,
                         source_families=[language.family],
-                        source_forms=[source.form],
+                        source_forms=[str(source.sounds)],
                         source_languages=[language.glottocode],
                         source_occurrences=[source.id],
                         source_varieties=[language.id],
@@ -407,22 +341,23 @@ def get_affix_colexifications(
                         target_varieties=[],
                         )
             for t in targets:
+                tconcept = concept_factory(t.concept)
                 try:
-                    graph.nodes[t.concept.id]["target_occurrences"] += [t.id]
-                    graph.nodes[t.concept.id]["target_forms"] += [t.form]
-                    graph.nodes[t.concept.id]["target_varieties"] += [language.id]
-                    graph.nodes[t.concept.id]["target_languages"] += [language.glottocode]
-                    graph.nodes[t.concept.id]["target_families"] += [language.family]
+                    graph.nodes[tconcept]["target_occurrences"] += [t.id]
+                    graph.nodes[tconcept]["target_forms"] += [str(t.sounds)]
+                    graph.nodes[tconcept]["target_varieties"] += [language.id]
+                    graph.nodes[tconcept]["target_languages"] += [language.glottocode]
+                    graph.nodes[tconcept]["target_families"] += [language.family]
                 except KeyError:
                     graph.add_node(
-                            t.concept.id,
+                            tconcept,
                             source_families=[],
                             source_forms=[],
                             source_languages=[],
                             source_occurrences=[],
                             source_varieties=[],
                             target_families=[language.family],                           
-                            target_forms=[t.form],
+                            target_forms=[str(t.sounds)],
                             target_languages=[language.glottocode],
                             target_occurrences=[t.id],
                             target_varieties=[language.id],
@@ -430,23 +365,23 @@ def get_affix_colexifications(
                 
                 # add the edges
                 try:
-                    graph[source.concept.id][t.concept.id]["count"] += 1
-                    graph[source.concept.id][t.concept.id]["source_forms"] += [source.form]
-                    graph[source.concept.id][t.concept.id]["target_forms"] += [t.form]
-                    graph[source.concept.id][t.concept.id]["varieties"] += [language.id]
-                    graph[source.concept.id][t.concept.id]["languages"] += [language.glottocode]
-                    graph[source.concept.id][t.concept.id]["families"] += [language.family]
+                    graph[concept][tconcept]["count"] += 1
+                    graph[concept][tconcept]["source_forms"] += [str(source.sounds)]
+                    graph[concept][tconcept]["target_forms"] += [str(t.sounds)]
+                    graph[concept][tconcept]["varieties"] += [language.id]
+                    graph[concept][tconcept]["languages"] += [language.glottocode]
+                    graph[concept][tconcept]["families"] += [language.family]
                 except KeyError:
                     graph.add_edge(
-                            source.concept.id,
-                            t.concept.id,
+                            concept,
+                            tconcept,
                             count=1,
-                            source_forms=[source.form],
-                            target_forms=[t.form],
+                            source_forms=[str(source.sounds)],
+                            target_forms=[str(t.sounds)],
                             varieties=[language.id],
                             languages=[language.glottocode],
                             families=[language.family],
                             )
-    return graph, aout, cout
+    return graph
 
 
