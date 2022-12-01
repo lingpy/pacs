@@ -8,33 +8,47 @@ from pacs.colexifications import (
         common_substring_colexifications,
         affix_colexifications_by_pairwise_comparison
         )
+from pyclics.util import write_gml
 from pycldf import Dataset
 from pyclts import CLTS
 from tabulate import tabulate
 
-bipa = CLTS().bipa
+from scipy.stats import spearmanr
+import networkx as nx
+import itertools
 
-wl = Wordlist([Dataset.from_metadata("allenbai/cldf/cldf-metadata.json")],
-              ts=bipa)
+wl = Wordlist([Dataset.from_metadata("idssegmented/cldf/cldf-metadata.json")],
+              ts=CLTS().bipa)
 
-graph = full_colexifications(wl)
-digraphA = affix_colexifications(wl)
-digraphB = affix_colexifications_by_pairwise_comparison(wl)
-graphB = common_substring_colexifications(wl)
+graphA = full_colexifications(wl)
+graphB = affix_colexifications(wl)
+graphC = common_substring_colexifications(wl)
 
-diffs = []
-for nA, nB, data in digraphA.edges(data=True):
-    countA = data["count"]
-    try:
-        countB = digraphB[nA][nB]["count"]
-        source_a, target_a = " / ".join(data["source_forms"]), " / ".join(data["target_forms"])
-        source_b, target_b = " / ".join(digraphB[nA][nB]["source_forms"]), " / ".join(digraphB[nA][nB]["target_forms"])
-    except:
-        countB = 0
-        source_a, target_a = " / ".join(data["source_forms"]), " / ".join(data["target_forms"])
-        source_b, target_b = "", ""
-    if countA != countB:
-        diffs += [(nA, nB, countA, countB, source_a, target_a, source_b, target_b)]
-    
-print(tabulate(diffs))
 
+
+
+print("[i] writing graphs to file")
+write_gml(graphA, "colexification-full.gml")
+write_gml(graphB, "colexification-affix.gml")
+write_gml(graphC, "colexification-common-substring.gml")
+
+# compute spearman correlations for the graphs with respect to their degree
+
+deg_fll = dict(nx.degree(graphA, weight="family_count"))
+deg_aff = dict(nx.degree(graphB, weight="family_count"))
+deg_sub = dict(nx.degree(graphC, weight="family_count"))
+
+table = []
+for (mA, a), (mB, b) in itertools.combinations(
+        [("full", deg_fll),
+         ("affix", deg_aff),
+         ("substring", deg_sub)],
+        r=2):
+    common_nodes = [x for x in a if x in b]
+    values_a, values_b = [], []
+    for node in common_nodes:
+        values_a += [a[node]]
+        values_b += [b[node]]
+    r, p = spearmanr(values_a, values_b)
+    table += [[mA, mB, r, p]]
+print(tabulate(table))

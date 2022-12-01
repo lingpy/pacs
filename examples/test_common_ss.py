@@ -8,7 +8,7 @@ from tabulate import tabulate
 bipa = CLTS().bipa
 
 
-wl = Wordlist([Dataset.from_metadata("../allenbai/cldf/cldf-metadata.json")],
+wl = Wordlist([Dataset.from_metadata("allenbai/cldf/cldf-metadata.json")],
               ts=bipa)
 
 graph = full_colexifications(wl)
