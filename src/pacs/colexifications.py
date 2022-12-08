@@ -5,7 +5,6 @@ import itertools
 import networkx as nx
 from collections import defaultdict
 from tqdm import tqdm as progressbar
-from pyclics.colexifications import full_colexifications
 
 
 def sounds_without_plus(form):
@@ -14,38 +13,20 @@ def sounds_without_plus(form):
 
 
 def extend_nodes(graph, node, **kw):
-    new_dict = {}
-    for k, v in kw.items():
-        if isinstance(v, (int, float, list, tuple)):
-            new_dict[k] = v
-        elif v:
-            new_dict[k] = v
-        elif v is None:
-            new_dict[k] = []
-
     if not node in graph:
-        graph.add_node(node, **new_dict)
+        graph.add_node(node, **kw)
     else:
-        for k, v in new_dict.items():
+        for k, v in kw.items():
             graph.nodes[node][k] += v
 
 
 def extend_edges(graph, node_a, node_b, **kw):
-    new_dict = {}
-    for k, v in kw.items():
-        if isinstance(v, (int, float, list, tuple)):
-            new_dict[k] = v
-        elif v:
-            new_dict[k] = v
-        elif v is None:
-            new_dict[k] = []
-
     try:
         graph[node_a][node_b]
-        for k, v in new_dict.items():
+        for k, v in kw.items():
             graph[node_a][node_b][k] += v
     except:
-        graph.add_edge(node_a, node_b, **new_dict)
+        graph.add_edge(node_a, node_b, **kw)
 
 
 def add_counts(graph, counts=None):
@@ -61,6 +42,11 @@ def add_counts(graph, counts=None):
 
 
 def substring_candidates(sequence, min_length, min_diff):
+    """
+    Return substring candidates which recur in the beginning or end of a word.
+
+    NOTE: function is not used for now.
+    """
     slen, j = len(sequence), len(sequence)
     i = 0
     out = []
@@ -82,6 +68,9 @@ def substring_candidates(sequence, min_length, min_diff):
     return out
 
 
+
+
+
 def affix_candidates(sequence, min_length, min_diff):
     affixes = []
     slen = len(sequence)
@@ -91,6 +80,96 @@ def affix_candidates(sequence, min_length, min_diff):
         affixes.append(sequence[:i])
         affixes.append(svert[:i][::-1])
     return affixes
+
+
+def affixes(tupA, tupB):
+    """
+    Simple affix check for tuples.
+    """
+    if tupB[:len(tupA)] == tupA:
+        return True
+    elif tupB[-(len(tupA)):] == tupA:
+        return True
+    return False
+
+
+
+def full_colexifications(
+        wordlist, 
+        family=None, 
+        languages=None,
+        concept_attr="concepticon_gloss",
+        form_factory=None
+        ):
+    """
+    @param wordlist: A cltoolkit Wordlist instance.
+    @param family: A string for a language family (valid in Glottolog). When set to None, won't filter by family.
+    @param concepts: A list of concepticon glosses that will be compared with the glosses in the wordlist.
+        If set to None, concepts won't be filtered.
+    @returns: A networkx.Graph instance.
+
+    @todo: discuss if we should add a form_factory, deleting tones,
+           and the like, for this part of the analysis as well,
+           as we do for partial colexifications
+    """
+    graph = nx.Graph()
+    # concept lookup checks for relevant concepticon attribute
+    concept_factory = lambda x: getattr(x, concept_attr) if x else None
+    form_factory = form_factory or sounds_without_plus
+    
+    if languages is None:
+        if family is None:
+            languages = [language for language in wordlist.languages]
+        else:
+            languages = [language for language in wordlist.languages if language.family == family]
+    concepts = [concept_factory(concept) for concept in wordlist.concepts if concept_factory(concept)]
+
+    for language in languages:
+        cols = defaultdict(list)
+        for form in language.forms_with_sounds:
+            if concept_factory(form.concept) in concepts:
+                tform = str(form.sounds)
+                cols[tform] += [form]
+
+        # add nodes to the graph
+        colexs = []
+        for tokens, forms in cols.items():
+            colexs += [
+                    (
+                        tokens, 
+                        [f for f in forms if f.concept], 
+                        [concept_factory(f.concept) for f in forms if concept_factory(f.concept)]
+                        )
+                    ]
+            for (f, concept) in zip(colexs[-1][1], colexs[-1][2]):
+                extend_nodes(
+                        graph,
+                        concept,
+                        forms=[f.id],
+                        words=[tokens],
+                        languages=[language.glottocode],
+                        varieties=[language.id],
+                        families=[language.family]
+                        )
+
+        for tokens, forms, all_concepts in colexs:
+            if len(set(all_concepts)) > 1:
+                for (f1, c1), (f2, c2) in combinations(zip(forms, all_concepts), r=2):
+                    if c1 == c2:
+                        continue
+                    extend_edges(
+                            graph,
+                            c1,
+                            c2,
+                            count=1,
+                            forms=["{0} / {1}".format(f1.id, f2.id)],
+                            words=[tokens],
+                            varieties=[language.id],
+                            languages=[language.glottocode],
+                            families=[language.family]
+                            )
+    add_counts(graph)
+    return graph
 
 
 def affix_colexifications_by_pairwise_comparison(
@@ -103,12 +182,6 @@ def affix_colexifications_by_pairwise_comparison(
         family=None):
     """
     """
-    def affixes(tupA, tupB):
-        if tupB[:len(tupA)] == tupA:
-            return True
-        elif tupB[-(len(tupA)):] == tupA:
-            return True
-        return False
     
     graph = nx.DiGraph()
     if family is None:
@@ -117,7 +190,7 @@ def affix_colexifications_by_pairwise_comparison(
         languages = [language for language in wordlist.languages if language.family == family]
 
     form_factory = form_factory or sounds_without_plus
-    concept_factory = lambda x: getattr(x, concept_attr)
+    concept_factory = lambda x: getattr(x, concept_attr) if x else None
 
     
     for language in progressbar(languages, desc="computing affix colexifications (pairwise)"):
@@ -260,7 +333,8 @@ def affix_colexifications(
         difference_threshold=2,
         concept_attr="concepticon_gloss",
         form_factory=None,
-        family=None):
+        family=None
+        ):
     """
     Compute affix colexifications from a wordlist.
 
@@ -273,7 +347,7 @@ def affix_colexifications(
     """
     graph = nx.DiGraph()
     # concept conversion, using concepticon gloss as default
-    concept_factory = lambda x: getattr(x, concept_attr)
+    concept_factory = lambda x: getattr(x, concept_attr) if x else None
     form_factory = form_factory or sounds_without_plus
 
     if family is None:
@@ -283,7 +357,7 @@ def affix_colexifications(
 
     for language in progressbar(languages, desc="computing affix colexifications"):
         affixes = defaultdict(list)
-        valid_forms = [(f, concept_factory(f.concept), form_factory(f)) for f in language.forms_with_sounds if f.concept]
+        valid_forms = [(f, concept_factory(f.concept), form_factory(f)) for f in language.forms_with_sounds if concept_factory(f.concept)]
         # first run, only extract source forms
         for (form, concept, tform) in valid_forms:
             wlen = len(tform)
@@ -306,37 +380,37 @@ def affix_colexifications(
             extend_nodes(
                     graph, 
                     concept, 
-                    source_families=language.family,
-                    source_forms=tform,
-                    source_languages=language.glottocode,
-                    source_occurrences=source.id,
-                    source_varieties=language.id,
-                    target_families=None,
-                    target_forms=None,
-                    target_languages=None,
-                    target_occurrences=None,
-                    target_varieties=None,
-                    varieties=language.id,
-                    families=language.family,
-                    languages=language.glottocode
+                    source_families=[language.family],
+                    source_forms=[tform],
+                    source_languages=[language.glottocode],
+                    source_occurrences=[source.id],
+                    source_varieties=[language.id],
+                    target_families=[],
+                    target_forms=[],
+                    target_languages=[],
+                    target_occurrences=[],
+                    target_varieties=[],
+                    varieties=[language.id],
+                    families=[language.family],
+                    languages=[language.glottocode]
                     )
             for (t, tconcept, tform_b) in targets:
                 extend_nodes(
                         graph,
                         tconcept,
-                        source_families=None,
-                        source_forms=None,
-                        source_languages=None,
-                        source_occurrences=None,
-                        source_varieties=None,
-                        target_families=language.family,                           
-                        target_forms=tform_b,
-                        target_languages=language.glottocode,
-                        target_occurrences=t.id,
-                        target_varieties=language.id,
-                        varieties=language.id,
-                        families=language.family,
-                        languages=language.glottocode
+                        source_families=[],
+                        source_forms=[],
+                        source_languages=[],
+                        source_occurrences=[],
+                        source_varieties=[],
+                        target_families=[language.family],                           
+                        target_forms=[tform_b],
+                        target_languages=[language.glottocode],
+                        target_occurrences=[t.id],
+                        target_varieties=[language.id],
+                        varieties=[language.id],
+                        families=[language.family],
+                        languages=[language.glottocode]
                         )
                 
                 # add the edges
@@ -345,11 +419,11 @@ def affix_colexifications(
                         concept,
                         tconcept,
                         count=1,
-                        source_forms=tform,
-                        target_forms=tform_b,
-                        varieties=language.id,
-                        languages=language.glottocode,
-                        families=language.family
+                        source_forms=[tform],
+                        target_forms=[tform_b],
+                        varieties=[language.id],
+                        languages=[language.glottocode],
+                        families=[language.family]
                         )
     add_counts(graph, counts=[
         ("varieties", "variety"),
@@ -357,6 +431,40 @@ def affix_colexifications(
         ("languages", "language")
     ])
     return graph
+
+
+def common_ngrams(
+        language, 
+        minimal_length_threshold=2, 
+        difference_threshold=2,
+        form_factory=None,
+        concept_factory=None,
+        candidates=None
+        ):
+    """
+    Return all ngrams recurring in more than one word for a CL Toolkit language.
+
+    Note that common ngrams here are those which occur in affix position.
+    """
+    form_factory = form_factory or sounds_without_plus
+    concept_factory = lambda x: getattr(x, "concepticon_gloss") if x else None
+    candidates = candidates or affix_candidates
+    valid_forms = [(f, concept_factory(f.concept), form_factory(f)) for f in
+            language.forms_with_sounds if concept_factory(f.concept) and
+            len(form_factory(f)) >= minimal_length_threshold +
+            difference_threshold]
+
+    ngrams = defaultdict(list)
+    for (form, concept, tform) in valid_forms:
+        for ngram in candidates(
+            tform, minimal_length_threshold, difference_threshold
+        ):
+            ngrams[ngram] += [(form, concept, " ".join(tform), tform)]
+            
+    return sorted(
+            [(a, b) for a, b in ngrams.items() if len(b) > 1],
+            key=lambda x: len(x[0]),
+            reverse=True)
 
 
 def common_substring_colexifications(
@@ -375,7 +483,7 @@ def common_substring_colexifications(
     """
     graph = nx.Graph()
     # concept conversion, using concepticon gloss as default
-    concept_factory = lambda x: getattr(x, concept_attr)
+    concept_factory = lambda x: getattr(x, concept_attr) if x else None
     form_factory = form_factory or sounds_without_plus
 
     if family is None:
@@ -384,49 +492,35 @@ def common_substring_colexifications(
         languages = [language for language in wordlist.languages if language.family == family]
 
     for language in progressbar(languages, desc="computing common substring colexifications"):
-        ngrams = defaultdict(list)
-        valid_forms = [(f, concept_factory(f.concept), form_factory(f)) for f in language.forms_with_sounds if f.concept and len(f.sounds) >=
-                       minimal_length_threshold + difference_threshold]
-        # first run, only extract source forms
-        for (form, concept, tform) in valid_forms:
-            for ngram in substring_candidates(
-                tform, minimal_length_threshold, difference_threshold
-            ):
-                ngrams[ngram] += [(form, concept, " ".join(tform))]
+        ngrams = common_ngrams(
+                language, 
+                minimal_length_threshold=minimal_length_threshold,
+                difference_threshold=difference_threshold,
+                form_factory=form_factory,
+                concept_factory=concept_factory
+                )
         visited_forms = set()
-        for ngram, forms in sorted(ngrams.items(), key=lambda x: len(x[0])):
-            for (f_a, concept_a, tform_a), (f_b, concept_b, tform_b) in itertools.combinations(forms, r=2):
-                if concept_a and concept_a != concept_b and str(f_a.sounds) != str(f_b.sounds):
+        for ngram, forms in ngrams:
+            for (f_a, concept_a, str_a, tup_a), (f_b, concept_b, str_b, tup_b) in itertools.combinations(forms, r=2):
+                if concept_a != concept_b and str(f_a.sounds) != str(f_b.sounds):
                     # check for visited form identifiers to only count each substring once
                     if (f_a.id, f_b.id) in visited_forms:
                         pass
+                    elif affixes(tup_a, tup_b) or affixes(tup_b, tup_a):
+                        visited_forms.update([(f_a.id, f_b.id), (f_b.id, f_a.id)])
                     else:
                         visited_forms.update([(f_a.id, f_b.id), (f_b.id, f_a.id)])
-                        for (concept, form, tform) in ((concept_a, f_a, tform_a), (concept_b, f_b, tform_b)):
-                            try:
-                                graph.nodes[concept]["occurrences"] += [form.id]
-                                graph.nodes[concept]["forms"] += [tform]
-                                graph.nodes[concept]["varieties"] += [language.id]
-                                graph.nodes[concept]["languages"] += [language.glottocode]
-                                graph.nodes[concept]["families"] += [language.family]
-                            except KeyError:
-                                graph.add_node(
+                        for (concept, form, tform) in ((concept_a, f_a, str_a), (concept_b, f_b, str_b)):
+                            extend_nodes(
+                                    graph,
                                     concept,
                                     families=[language.family],
-                                    forms=[tform],
                                     languages=[language.glottocode],
-                                    occurrences=[form.id],
-                                    varieties=[language.id],
-                                )
-                        try:
-                            graph[concept_a][concept_b]["substrings"] += [" ".join(ngram)]
-                            graph[concept_a][concept_b]["count"] += 1
-                            graph[concept_a][concept_b]["forms"] += ["{0} {1}".format(f_a.id, f_b.id)]
-                            graph[concept_a][concept_b]["varieties"] += [language.id]
-                            graph[concept_a][concept_b]["languages"] += [language.glottocode]
-                            graph[concept_a][concept_b]["families"] += [language.family]
-                        except KeyError:
-                            graph.add_edge(
+                                    forms=[form.id],
+                                    varieties=[language.id]
+                                    )
+                        extend_edges(
+                                graph,
                                 concept_a,
                                 concept_b,
                                 count=1,

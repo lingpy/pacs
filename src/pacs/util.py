@@ -12,6 +12,54 @@ __all__ = ['networkx2igraph', 'get_communities', 'parse_kwargs']
 CATALOGS = {'glottolog': Glottolog, 'concepticon': Concepticon}
 
 
+def igraph2networkx(graph, nx_cls=None, name="label"):
+    newgraph = nx_cls() if nx_cls else nx.Graph()
+    for node in graph.vs:
+        newgraph.add_node(node[name], **node.attributes())
+    for edge in graph.es:
+        newgraph.add_edge(graph.vs[edge.source][name],
+                          graph.vs[edge.target][name], **edge.attributes())
+    return newgraph
+
+
+def out_degree(graph, weight, t=2):
+    deg = {node: 0 for node in graph.nodes}
+    for node in graph.nodes:
+        for neighbor in graph[node].items():
+            if neighbor[1][weight] > t:
+                deg[node] += neighbor[1][weight]
+    return deg
+
+
+def in_degree(graph, weight, t=2):
+    deg = {node: 0 for node in graph.nodes}
+    for node in graph.nodes:
+        for neighbor in graph[node].items():
+            if neighbor[1][weight] > t:
+                deg[neighbor[0]] += neighbor[1][weight]
+    return deg
+
+
+def degree(graph, weight, t=2):
+    deg = {node: 0 for node in graph.nodes}
+    visited = set()
+    for node in graph.nodes:
+        for neighbor in graph[node].items():
+            if neighbor[1][weight] > t:
+                if (node, neighbor[0]) not in visited:
+                    deg[node] += neighbor[1][weight]
+                    visited.add((node, neighbor[0]))
+                if (neighbor[0], node) not in visited:
+                    deg[neighbor[0]] += neighbor[1][weight]
+                    visited.add((neighbor[0], node))
+    return deg
+
+
+def load_gml_as_nx_graph(file, nx_cls=None, name="label"):
+    graph = igraph.load(file)
+    return igraph2networkx(graph, nx_cls=nx_cls, name=name)
+
+
 def write_gml(graph, path):
     """
     Write a graph to GML format (using unicode).
