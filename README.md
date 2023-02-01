@@ -37,6 +37,12 @@ You can also open a terminal in the `examples` folder and run the Makefile:
 $ make download
 ```
 
+To install all secondary packages needed for the computation, please type:
+
+```
+$ pip install -r requirements.txt
+```
+
 ## 2 Running the Experiments
 
 The scripts for the experiments are all provided in the folder `examples`. You can run them by opening a terminal in the folder and then calling them by typing `python script.py` in the terminal. Please make sure to use a fresh virtual environment, to make sure no conflicts of old versions occur (which may cause this workflow to fail).
@@ -106,3 +112,24 @@ Affix Colexification (Out-Degree)  Overlap Colexification             1307  -0.0
 ```
 
 It will also create plots of the data.
+
+### 2.4 Extract Sub-Graphs from the Data
+
+In order to extract subgraphs reported in the paper from the data, type:
+
+```
+$ python extract-subgraphs.py
+```
+
+Or type:
+
+```
+$ make subgraphs
+```
+
+This will create three files:
+
+* `subgraph-full.gml`
+* `subgraph-affix.gml`
+* `subgraph-overlap.gml`
+
