@@ -1,12 +1,6 @@
 """
 Code compares the computation time needed for different kinds of colexification analyses.
 """
-from cltoolkit import Wordlist
-from pacs.colexifications import (
-        full_colexifications,
-        affix_colexifications,
-        common_substring_colexifications,
-        )
 from pacs.util import (
         load_gml_as_nx_graph,
         out_degree,

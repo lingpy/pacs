@@ -154,7 +154,7 @@ def full_colexifications(
 
         for tokens, forms, all_concepts in colexs:
             if len(set(all_concepts)) > 1:
-                for (f1, c1), (f2, c2) in combinations(zip(forms, all_concepts), r=2):
+                for (f1, c1), (f2, c2) in itertools.combinations(zip(forms, all_concepts), r=2):
                     if c1 == c2:
                         continue
                     extend_edges(
@@ -369,10 +369,10 @@ def affix_colexifications(
             wlen = len(tform)
             if wlen >= source_threshold and tform in affixes:
                 targets, visited = [], set()
-                for (affix, concept_b, tform_b) in affixes[tform]:
-                    if concept != concept_b and affix.id not in visited:
-                        targets += [(affix, concept_b, " ".join(tform_b))]
-                        visited.add(affix.id)
+                for (affixed_form, concept_b, tform_b) in affixes[tform]:
+                    if concept != concept_b and affixed_form.id not in visited:
+                        targets += [(affixed_form, concept_b, " ".join(tform_b))]
+                        visited.add(affixed_form.id)
                 if targets:
                     cols[form.id] = ((form, concept, " ".join(tform)), targets)
 
@@ -447,7 +447,8 @@ def common_ngrams(
     Note that common ngrams here are those which occur in affix position.
     """
     form_factory = form_factory or sounds_without_plus
-    concept_factory = lambda x: getattr(x, "concepticon_gloss") if x else None
+    if not concept_factory:
+        concept_factory = lambda x: getattr(x, "concepticon_gloss") if x else None
     candidates = candidates or affix_candidates
     valid_forms = [(f, concept_factory(f.concept), form_factory(f)) for f in
             language.forms_with_sounds if concept_factory(f.concept) and

@@ -8,7 +8,7 @@ from pacs.colexifications import (
         common_substring_colexifications,
         affix_colexifications_by_pairwise_comparison
         )
-from pyclics.util import write_gml
+from pacs.util import write_gml
 from pycldf import Dataset
 from pyclts import CLTS
 
@@ -23,6 +23,6 @@ graphC = common_substring_colexifications(wl, minimal_length_threshold=4,
 print("[i] writing graphs to file")
 write_gml(graphA, "colexification-full.gml")
 write_gml(graphB, "colexification-affix.gml", )
-write_gml(graphC, "colexification-common-substring.gml")
+write_gml(graphC, "colexification-overlap.gml")
 
 

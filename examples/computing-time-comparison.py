@@ -12,6 +12,7 @@ from pyclts import CLTS
 from lexibank_allenbai import Dataset as AllenBai
 
 import timeit
+from tabulate import tabulate
 import functools
 
 wl = Wordlist([Dataset.from_metadata(AllenBai().cldf_dir.joinpath("cldf-metadata.json"))],
