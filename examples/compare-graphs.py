@@ -21,7 +21,7 @@ graphA = load_gml_as_nx_graph("colexification-full.gml")
 print("Loaded graph full")
 graphB = load_gml_as_nx_graph("colexification-affix.gml", nx_cls=nx.DiGraph)
 print("loaded graph affix")
-graphC = load_gml_as_nx_graph("colexification-common-substring.gml")
+graphC = load_gml_as_nx_graph("colexification-overlap.gml")
 print("loaded graph common")
 
 
@@ -65,15 +65,14 @@ for (i, (mA, a)), (j, (mB, b)) in itertools.combinations(
          (np.unique(values_a)), color='crimson')
     plt.xlabel(mA)
     plt.ylabel(mB)
-    plt.savefig("{0}-{1}.png".format(mA, mB))
-    plt.savefig("{0}-{1}.pdf".format(mA, mB))
+    plt.savefig("plots/{0}-{1}.pdf".format(mA, mB))
     
 plt.clf()
 
 seaborn.heatmap(
         matrix, 
-        xticklabels=["Full", "Affix-In", "Affix-Out", "Common"],
-        yticklabels=["Full", "Affix-In", "Affix-Out", "Common"],
+        xticklabels=["Full", "Affix-In", "Affix-Out", "Overlap"],
+        yticklabels=["Full", "Affix-In", "Affix-Out", "Overlap"],
         )
 plt.savefig("correlations.pdf")
 

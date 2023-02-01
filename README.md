@@ -1,26 +1,108 @@
-# Partial Colexifications
+# Inference of Partial Colexifications from Multilingual Wordlists: Supplementary Material
 
-This package collects initial experimental code on partial colexifications,
-which will eventually be turned into a full-fledge library in the style of
-pyclics and can then also be turned into a web application such as the
-[CLICS](https://clics.clld.org) database.
+This repository provides the supplementary material for the study "Inference of Partial Colexifications from Multilingual Wordlists", currently under review. When using the code in this repository, please cite the following paper:
 
-Initial code on partial colexifications can be found in the folder `develop`. Here, you find one initial experiment which computes partial (prefix and suffix) colexifications as well as substring colexifications from the data submitted along with the CLICS-1 database from 2014 (we use this CLICS database for development and will later include all data assembled for CLICS-2 and CLICS-3). 
+> List, Johann-Mattis (2023): Inference of Partial Colexifications from Multilingual Wordlists. Preprint, not peer reviewed. Chair of Multilingual Computational Linguistics: Passau.
 
-To make the results accessible, a small subset was created from the data, which shows only a selected collection of body parts. Results are given in GML form, which can be inspected with Cytoscape and similar graph manipulation software. 
+## 1 Getting Started
 
-To run this initial code, just use the script `palex.py`:
-
+In order to install the package, just use PIP, after having git-cloned the package:
 ```
-$ python palex.py
+$ git clone https://github.com/lingpy/pacs.git
+$ cd pacs
+$ pip install -e .
 ```
 
-You will need `lingpy`, `networkx` and `pyglottolog`, as well as the Glottolog data (https://github.com/glottolog/glottolog) to run this script.
+For the concrete usage of the `pacs` package, more documentation and examples will be given in the future.
 
-An additional experiment serves to plot the data for the colexification of "eye", "water", and "tears". To run this code, you need to install `matplotlib` and `cartopy`. Then, you can run the code as:
+## 2 Preparing to Run the Experiments Described in the Paper
+
+In order to set up the data (IDS and Allen's Bai data), open a terminal in the folder `pacs` and git-clone the two repositories:
 
 ```
-$ python cart.py
+$ cd examples
+$ git clone https://github.com/intercontinental-dictionary-series/idssegmented
+$ cd idssegmented
+$ git checkout v0.2
+$ cd ..
+$ git clone https://github.com/lexibank/allenbai.git
+$ cd allenbai
+$ git checkout v4.0.0
+$ cd ..
 ```
 
-And it will create two maps, one showing all languages in the sample, and one showing only the South-East Asian part.
+You can also open a terminal in the `examples` folder and run the Makefile:
+
+```
+$ make download
+```
+
+## 2 Running the Experiments
+
+The scripts for the experiments are all provided in the folder `examples`. You can run them by opening a terminal in the folder and then calling them by typing `python script.py` in the terminal. Please make sure to use a fresh virtual environment, to make sure no conflicts of old versions occur (which may cause this workflow to fail).
+
+### 2.1 Compute Colexification Networks
+
+The following command computes three different kinds of colexification networks (full, affix, and overlap).
+
+```
+$ python compute-graphs.py
+```
+
+This will (re)create the files:
+
+* `colexification-full.gml`
+* `colexification-affix.gml`
+* `colexification-overlap.gml`
+
+The Makefile can also be used by typing: 
+
+```
+$ make colexifications 
+```
+
+
+### 2.2 Computation Time Comparison
+
+In order to run the experiment on the computation time comparison, you can either type:
+
+```
+$ python computing-time-comparison.py
+```
+
+Or use the Makefile:
+
+```
+$ make computation-time
+```
+
+### 2.3 Compare the Degree Distributions of the Graphs
+
+The graphs which were computed for the study are provided in the zip-folder `colexification-graphs.zip`, since they would otherwise be rather large. You need to unzip them in the `examples` folder if you want to run this experiment without having run the code in §2.1. 
+
+In order to compare the degree distributions, type:
+
+```
+$ python compare-graphs.py
+```
+
+Or type:
+
+```
+$ make compare-graphs
+```
+
+This will output the following table:
+
+```
+---------------------------------  ---------------------------------  ----  -------  ------
+Full Colexification                Affix Colexification (In-Degree)   1308   0.0960  0.0000
+Full Colexification                Affix Colexification (Out-Degree)  1308   0.5034  0.0000
+Full Colexification                Overlap Colexification             1307   0.1179  0.0000
+Affix Colexification (In-Degree)   Affix Colexification (Out-Degree)  1308  -0.0830  0.0000
+Affix Colexification (In-Degree)   Overlap Colexification             1307   0.4212  0.0000
+Affix Colexification (Out-Degree)  Overlap Colexification             1307  -0.0488  0.0104
+---------------------------------  ---------------------------------  ----  -------  ------
+```
+
+It will also create plots of the data.
