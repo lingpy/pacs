@@ -27,7 +27,7 @@ $ git checkout v0.2
 $ cd ..
 $ git clone https://github.com/lexibank/allenbai.git
 $ cd allenbai
-$ git checkout v4.0.0
+$ git checkout v4.0
 $ cd ..
 ```
 
